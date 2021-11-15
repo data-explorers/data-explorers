@@ -8,6 +8,9 @@
 </script>
 
 <script>
+  import LeafletMap from '../../components/map.svelte';
+  import LeafletMarker from '../../components/map_marker.svelte';
+
   export let project;
 </script>
 
@@ -32,3 +35,7 @@
 <main class="prose">
   <div>{@html project.description}</div>
 </main>
+
+<LeafletMap lat="{project.latitude}" lng="{project.longitude}" zoom="{project.zoom}">
+  <LeafletMarker lat="{project.latitude}" lng="{project.longitude}" />
+</LeafletMap>
