@@ -20,6 +20,7 @@
     "prettier": "^2.4.1",
     "prettier-plugin-svelte": "^2.4.0",
     "svelte": "^3.42.6",
+    "svelte-leafletjs": "^0.8.0",
     "svelte-preprocess": "^4.9.8",
     "tailwindcss": "^2.2.16"
   },
@@ -27,6 +28,7 @@
   "dependencies": {
     "@tailwindcss/typography": "^0.4.1",
     "daisyui": "^1.16.2",
-    "leaflet": "^1.7.1"
+    "leaflet": "^1.7.1",
+    "papaparse": "^5.3.1"
   }
 }

@@ -8,10 +8,24 @@
 </script>
 
 <script>
-  import LeafletMap from '../../components/map.svelte';
-  import LeafletMarker from '../../components/map_marker.svelte';
+  import 'leaflet/dist/leaflet.css';
+  import { LeafletMap, Marker, TileLayer } from 'svelte-leafletjs';
 
   export let project;
+
+  const mapOptions = {
+    center: [project.latitude, project.longitude],
+    zoom: project.zoom
+  };
+  const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+  const tileLayerOptions = {
+    minZoom: 0,
+    maxZoom: 20,
+    maxNativeZoom: 19,
+    attribution: '© OpenStreetMap contributors'
+  };
+
+  let leafletMap;
 </script>
 
 <div class="card lg:card-side bordered">
@@ -36,6 +50,16 @@
   <div>{@html project.description}</div>
 </main>
 
-<LeafletMap lat="{project.latitude}" lng="{project.longitude}" zoom="{project.zoom}">
-  <LeafletMarker lat="{project.latitude}" lng="{project.longitude}" />
-</LeafletMap>
+<div class="example">
+  <LeafletMap bind:this={leafletMap} options={mapOptions}>
+    <TileLayer url={tileUrl} options={tileLayerOptions} />
+    <Marker latLng={[project.latitude, project.longitude]} />
+  </LeafletMap>
+</div>
+
+<style>
+  .example {
+    height: 60vw;
+    width: 100%
+  }
+</style>
