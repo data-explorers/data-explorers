@@ -1,0 +1,419 @@
+[
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-acorn-woodpecker.jpg?itok=c4c9phN6",
+    "image_credit": "Nurit Katz",
+    "common_name": "Acorn Woodpecker",
+    "taxon_name": "Melanerpes formicivorus",
+    "slug": "acorn_woodpecker",
+    "taxon_group": "Birds",
+    "type": "Neighborhood Species",
+    "inat_link": "https://www.inaturalist.org/taxa/18209-Melanerpes-formicivorus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-baja-california-tree-frog.jpg?itok=YD7pf_hk",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "Baja California Tree Frog",
+    "taxon_name": "Pseudacris hypochondria",
+    "slug": "baja_california_tree_frog",
+
+    "taxon_group": "Amphibians",
+    "type": "Stream/Riparian Species",
+    "inat_link": "https://www.inaturalist.org/taxa/120719-Pseudacris-hypochondriaca"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-behr_s-metalmark.jpg?itok=QSSzL4YV",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "Behr's Metalmark",
+    "taxon_name": "Apodemia virgulti",
+    "slug": "behrs_metalmark",
+
+    "taxon_group": "Invertebrates",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/119068-Apodemia-virgulti"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-black-bellied-salamander.jpg?itok=8vGcsydP",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "Black-bellied Slender Salamander",
+    "taxon_name": "Batrachoseps nigriventris",
+    "slug": "black_bellied_slender_salamander",
+
+    "taxon_group": "Amphibians",
+    "type": "Stream/Riparian Species",
+    "inat_link": "https://www.inaturalist.org/taxa/27474-Batrachoseps-nigriventris"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-bobcat.jpg?itok=XtAUcmAx",
+    "image_credit": "Robert Martinez",
+    "common_name": "Bobcat",
+    "taxon_name": "Lynx rufus",
+    "slug": "bobcat",
+
+    "taxon_group": "Mammals",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/41976-Lynx-rufus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-bramble-green-hairstreak.jpg?itok=EV9uCr3-",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "Bramble Green Hairstreak",
+    "taxon_name": "Callophrys dumetorum",
+    "slug": "bramble_green_hairstreak",
+
+    "taxon_group": "Invertebrates",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/346970-Callophrys-dumetorum"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-bumble-bee.jpg?itok=HxXeV9mq",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "Bumblebees",
+    "taxon_name": "Bombus sp.",
+    "slug": "bumblebees",
+
+    "taxon_group": "Invertebrates",
+    "type": "Neighborhood Species",
+    "inat_link": "https://www.inaturalist.org/taxa/52775-Bombus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-california-kingsnake-1.jpg?itok=vHYWpl_Y",
+    "image_credit": "iNaturalist/Andre Giraldi",
+    "common_name": "California Kingsnake",
+    "taxon_name": "Lampropeltis californiae",
+    "slug": "california_kingsnake",
+
+    "taxon_group": "Reptiles",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/146199-Lampropeltis-californiae"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-california-quail.jpg?itok=PmEfY-ey",
+    "image_credit": "Nurit Katz",
+    "common_name": "California Quail",
+    "taxon_name": "Callipepla californica",
+    "slug": "california_quail",
+
+    "taxon_group": "Birds",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/1409-Callipepla-californica"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-california-rose.jpg?itok=lAFx5wCZ",
+    "image_credit": "Nurit Katz",
+    "common_name": "California Wild Rose",
+    "taxon_name": "Rosa californica",
+    "slug": "california_wild_rose",
+
+    "taxon_group": "Plants",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/53437-Rosa-californica"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-canyon-wren.jpg?itok=JsfYcGER",
+    "image_credit": "Nurit Katz",
+    "common_name": "Canyon Wren",
+    "taxon_name": "Catherpes mexicanus",
+    "slug": "canyon_wren",
+
+    "taxon_group": "Birds",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/7464-Catherpes-mexicanus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-cinnamon-teal.jpg?itok=7o9elPbs",
+    "image_credit": "Nurit Katz",
+    "common_name": "Cinnamon Teal",
+    "taxon_name": "Spatula cyanoptera",
+    "slug": "cinnamon_teal",
+
+    "taxon_group": "Birds",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/558434-Spatula-cyanoptera"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-coachwhip-snake.jpg?itok=wDycPQfn",
+    "image_credit": "iNaturalist/Patrick Alexander",
+    "common_name": "Coachwhip Snake",
+    "taxon_name": "Coluber flagellum",
+    "slug": "coachwhip_snake",
+
+    "taxon_group": "Reptiles",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/547193-Masticophis-"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-side-blotched-lizard.jpg?itok=onExgZJk",
+    "image_credit": "Nurit Katz",
+    "common_name": "Common Side-blotched Lizard",
+    "taxon_name": "Uta stansburiana",
+    "slug": "common_side_blotched_lizard",
+
+    "taxon_group": "Reptiles",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/36094-Uta-stansburiana"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-dusky-footed-woodrat-1.jpg?itok=fPYgj39c",
+    "image_credit": "Jeff Adams Stauffer",
+    "common_name": "Dusky Footed Woodrat",
+    "taxon_name": "Neotoma macrotis",
+    "slug": "dusky_footed_woodrat",
+
+    "taxon_group": "Mammals",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/44749-Neotoma-fuscipes"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-el-segundo-blue.jpg?itok=4TbAstaF",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "El Segundo Blue Butterfly",
+    "taxon_name": "Euphilotes battoides ssp. allyni",
+    "slug": "el_segundo_blue_butterfly",
+
+    "taxon_group": "Invertebrates",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/179676-Euphilotes-battoides-allyni"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-gopher-snake.jpg?itok=SK_cR7M2",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "Gopher Snake",
+    "taxon_name": "Pituophis catenifer",
+    "slug": "gopher_snake",
+
+    "taxon_group": "Reptiles",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/146199-Lampropeltis-"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-fox.jpg?itok=r1qLBbz0",
+    "image_credit": "Robert Martinez",
+    "common_name": "Gray Fox",
+    "taxon_name": "Urocyon cinereoargenteus",
+    "slug": "gray_fox",
+
+    "taxon_group": "Mammals",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/42076-Urocyon-cinereoargenteus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-great-blue-heron.jpg?itok=XDwahgWM",
+    "image_credit": "Nurit Katz",
+    "common_name": "Great Blue Heron",
+    "taxon_name": "Ardea herodias",
+    "slug": "great_blue_heron",
+
+    "taxon_group": "Birds",
+    "type": "Stream/Riparian Species",
+    "inat_link": "https://www.inaturalist.org/taxa/4956-Ardea-herodias"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-great-horned-owl.jpg?itok=X4e8kHIu",
+    "image_credit": "Nurit Katz",
+    "common_name": "Great Horned Owl",
+    "taxon_name": "Bubo virginianus",
+    "slug": "great_horned_owl",
+
+    "taxon_group": "Birds",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/20044-Bubo-virginianus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-greater-roadrunner.jpg?itok=Jgn-SUWE",
+    "image_credit": "Nurit Katz",
+    "common_name": "Greater Roadrunner",
+    "taxon_name": "Geococcyx californianus",
+    "slug": "greater_roadrunner",
+
+    "taxon_group": "Birds",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/1986-Geococcyx-californianus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-harvester-ants.jpg?itok=90cO2J3f",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "Harvester Ants",
+    "taxon_name": "Pogonomyrmex (Genus)",
+    "slug": "harvester_ants",
+
+    "taxon_group": "Invertebrates",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/69114-Pogonomyrmex"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-hooded-merganser.jpg?itok=4GRzdRVy",
+    "image_credit": "Nurit Katz",
+    "common_name": "Hooded Merganser",
+    "taxon_name": "Lophodytes cucullatus",
+    "slug": "hooded_merganser",
+
+    "taxon_group": "Birds",
+    "type": "Stream/Riparian Species",
+    "inat_link": "https://www.inaturalist.org/taxa/7109-Lophodytes-cucullatus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-lorquin_s-admiral.jpg?itok=jIX3jSoW",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "Lorquin's Admiral",
+    "taxon_name": "Limenitis lorquini",
+    "slug": "lorquins_admiral",
+
+    "taxon_group": "Invertebrates",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/50880-Limenitis-lorquini"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-monarch-butterfly.jpg?itok=UNVdeO38",
+    "image_credit": "iNaturalist/Kyle Nessen",
+    "common_name": "Monarch",
+    "taxon_name": "Danaus plexippus",
+    "slug": "monarch",
+
+    "taxon_group": "Invertebrates",
+    "type": "Neighborhood Species",
+    "inat_link": "https://www.inaturalist.org/taxa/48662-Danaus-plexippus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-mule-deer.jpg?itok=RZmVyrEw",
+    "image_credit": "Nurit Katz",
+    "common_name": "Mule Deer",
+    "taxon_name": "Odocoileus hemionus",
+    "slug": "mule_deer",
+
+    "taxon_group": "Mammals",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/42220-Odocoileus-hemionus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-north-american-jerusalem-cricket.jpg?itok=25ydqi5X",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "North American Jerusalem Ccrickets",
+    "taxon_name": "Ammopelmatus sp.",
+    "slug": "north_american_jerusalem_ccrickets",
+
+    "taxon_group": "Invertebrates",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/86400-Ammopelmatus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-northern-harrier.jpg?itok=NeGjBDtI",
+    "image_credit": "iNaturalist/Dario",
+    "common_name": "Northern Harrier",
+    "taxon_name": "Circus hudsonius",
+    "slug": "northern_harrier",
+
+    "taxon_group": "Birds",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/1409-Callipepla-californica"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-red-tailed-hawk.jpg?itok=6r-x3Y-z",
+    "image_credit": "Nurit Katz",
+    "common_name": "Red-tailed Hawk",
+    "taxon_name": "Buteo jamaicensis",
+    "slug": "red_tailed_hawk",
+
+    "taxon_group": "Birds",
+    "type": "Neighborhood Species",
+    "inat_link": "https://www.inaturalist.org/taxa/5212-Buteo-jamaicensis"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-red-winged-blackbird.jpg?itok=SZ_VS38c",
+    "image_credit": "Nurit Katz",
+    "common_name": "Red-winged Blackbird",
+    "taxon_name": "Agelaius phoeniceus",
+    "slug": "red_winged_blackbird",
+
+    "taxon_group": "Birds",
+    "type": "Stream/Riparian Species",
+    "inat_link": "https://www.inaturalist.org/taxa/9744-Agelaius-phoeniceus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-sara-orangetip.jpg?itok=lRooaS_V",
+    "image_credit": "iNaturalist/Phytographer",
+    "common_name": "Sara Orangetip",
+    "taxon_name": "Anthocharis sara",
+    "slug": "sara_orangetip",
+
+    "taxon_group": "Invertebrates",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/59124-Anthocharis-sara"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-spotted-towhee.jpg?itok=moWHdGpv",
+    "image_credit": "Nurit Katz",
+    "common_name": "Spotted Towhee",
+    "taxon_name": "Pipilo maculatus",
+    "slug": "spotted_towhee",
+
+    "taxon_group": "Birds",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/9420-Pipilo-maculatus"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-toyon.jpg?itok=DY6FEZL-",
+    "image_credit": "Nurit Katz",
+    "common_name": "Toyon",
+    "taxon_name": "Heteromeles arbutifolia",
+    "slug": "toyon",
+
+    "taxon_group": "Plants",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/53405-Heteromeles-arbutifolia"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-velvet-ant.jpg?itok=yHoFrxDp",
+    "image_credit": "Daniel S. Cooper",
+    "common_name": "Velvet Ants",
+    "taxon_name": "Mutillidae",
+    "slug": "velvet_ants",
+
+    "taxon_group": "Invertebrates",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/48511-Mutillidae"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-western-bluebird.jpg?itok=NE-tbvaf",
+    "image_credit": "Nurit Katz",
+    "common_name": "Western Bluebird",
+    "taxon_name": "Sialia mexicana",
+    "slug": "western_bluebird",
+
+    "taxon_group": "Birds",
+    "type": "Neighborhood Species",
+    "inat_link": "https://www.inaturalist.org/taxa/12937-Sialia-mexicana"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-western-meadowlark.jpg?itok=NC2MT2yj",
+    "image_credit": "Nurit Katz",
+    "common_name": "Western Meadowlark",
+    "taxon_name": "Sturnella neglecta",
+    "slug": "western_meadowlark",
+
+    "taxon_group": "Birds",
+    "type": "Park/Natural Area Species",
+    "inat_link": "https://www.inaturalist.org/taxa/9535-Sturnella-neglecta"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-western-pond-turtle.jpg?itok=VtIhZ-Dz",
+    "image_credit": "Nurit Katz",
+    "common_name": "Western Pond Turtle",
+    "taxon_name": "Actinemys marmorata",
+    "slug": "western_pond_turtle",
+
+    "taxon_group": "Reptiles",
+    "type": "Stream/Riparian Species",
+    "inat_link": "https://www.inaturalist.org/taxa/73592-Actinemys-marmorata"
+  },
+  {
+    "image": "https://lapl.org/sites/default/files/styles/medium/public/indicator_species/bioblitz-western-toad.jpg?itok=twlPka3n",
+    "image_credit": "iNaturalist/Jesse Rorabaugh",
+    "common_name": "Western Toad",
+    "taxon_name": "Anaxyrus boreas",
+    "slug": "western_toad",
+
+    "taxon_group": "Amphibians",
+    "type": "Stream/Riparian Species",
+    "inat_link": "https://www.inaturalist.org/taxa/64970-Anaxyrus-boreas"
+  }
+]
