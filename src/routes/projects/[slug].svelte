@@ -10,6 +10,10 @@
 <script>
   import 'leaflet/dist/leaflet.css';
   import { LeafletMap, Marker, TileLayer } from 'svelte-leafletjs';
+  import AboutProject from '../../components/about_project.svelte';
+  import ExploreData from '../../components/explore_data.svelte';
+  import TaxaGrid from '../../components/taxa_grid.svelte';
+  import Tabs from '../../components/tabs.svelte';
 
   export let project;
 
@@ -23,9 +27,20 @@
     maxZoom: 20,
     maxNativeZoom: 19,
     attribution: '© OpenStreetMap contributors'
+  const components = {
+    AboutProject,
+    ExploreData,
+    TaxaGrid
   };
 
   let leafletMap;
+  let tabs = project.tabs.map((tab, index) => {
+    return {
+      label: tab.label,
+      value: index,
+      component: components[tab.component]
+    };
+  });
 </script>
 
 <div class="card lg:card-side bordered">
@@ -63,3 +78,4 @@
     width: 100%
   }
 </style>
+<Tabs {tabs} {project} />
