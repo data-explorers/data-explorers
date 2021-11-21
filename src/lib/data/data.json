@@ -67,14 +67,9 @@
             "text": "iNaturalist projects"
           },
           {
-            "url": "https://www.inaturalist.org/projects/chsn-apb-bioblitz-2020",
-            "text": "CHSN APB Bioblitz 2020",
-            "file": "observations-199070.csv"
-          },
-          {
-            "url": "https://www.inaturalist.org/projects/chsn-apb-bioblitz-2021",
-            "text": "CHSN APB Bioblitz 2021",
-            "file": "observations-199069.csv"
+            "url": "https://www.inaturalist.org/projects/chsn-bioblitzes",
+            "text": "CHSN Bioblitzes",
+            "file": "observations-200303.csv"
           }
         ],
         "tabs": [
