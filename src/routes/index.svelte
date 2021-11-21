@@ -16,7 +16,8 @@
   {#each data as user_data}
     <div class="card bordered">
       <figure>
-        <img src="{user_data.image}/400/250" alt="Photo for {user_data.card_title}" />
+
+        <img src="/{user_data.username}/user.jpg" alt="Photo for {user_data.card_title}" />
       </figure>
       <a href={user_data.card_link}>
         <div class="card-body prose prose-lg">
