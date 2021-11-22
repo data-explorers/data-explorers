@@ -49,7 +49,7 @@
 </script>
 
 <script>
-  import GlobiList from '../../../../../components/globi_list.svelte';
+  import GlobiList from '$lib/components/globi_list.svelte';
 
   export let taxon;
   export let eatsTaxa;

@@ -10,8 +10,8 @@
 </script>
 
 <script>
-  import ProjectHeader from '../../../../components/project_header.svelte';
-  import taxa from '../../../../lib/data/los-angeles-bioblitz/highlighted_taxa.json';
+  import ProjectHeader from '$lib/components/project_header.svelte';
+  import taxa from '$lib/data/los-angeles-bioblitz/highlighted_taxa.json';
 
   export let user;
   export let project;

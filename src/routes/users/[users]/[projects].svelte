@@ -10,7 +10,7 @@
 </script>
 
 <script>
-  import ProjectHeader from '../../../components/project_header.svelte';
+  import ProjectHeader from '$lib/components/project_header.svelte';
   export let project;
   export let user;
 </script>
