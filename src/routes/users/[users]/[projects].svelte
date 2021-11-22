@@ -35,7 +35,10 @@
       {@html project.description}
     </div>
     <div>
-      <img src="/{project.slug}/observations_map_square.jpg" alt="map of {project.title}" />
+      <img
+        src="/images/{user.username}/{project.slug}/observations_map_square.jpg"
+        alt="map of {project.title}"
+      />
     </div>
   </div>
 </main>
