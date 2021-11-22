@@ -17,7 +17,7 @@
 
 <UserHeader {user} />
 
-<h1 class="text-4xl text-center m-8 font-extrabold">Projects!</h1>
+<h1>Projects</h1>
 
 <div class="grid lg:grid-cols-3 md:grid-cols-2  justify-center gap-3">
   {#each projects as project}

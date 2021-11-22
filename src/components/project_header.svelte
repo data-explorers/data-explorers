@@ -15,7 +15,7 @@
   <div class="hero-overlay bg-opacity-50" />
   <div class="text-center hero-content text-neutral-content">
     <div class="max-w-md">
-      <h1 class="mb-5 text-4xl font-bold">{project.title}</h1>
+      <h1>{project.title}</h1>
       <p class="mb-5">{project.summary}</p>
     </div>
   </div>

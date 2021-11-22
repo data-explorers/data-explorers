@@ -2,3 +2,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-medium;
+  }
+  h1 {
+    @apply text-4xl;
+    @apply my-8;
+  }
+  h2 {
+    @apply text-3xl;
+    @apply my-6;
+  }
+
+  h3 {
+    @apply text-2xl;
+    @apply my-4;
+  }
+  h4 {
+    @apply text-xl;
+    @apply my-2;
+  }
+}

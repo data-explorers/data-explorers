@@ -36,7 +36,7 @@
 
 <ProjectHeader {project} {user} />
 
-<h1 class="text-4xl text-center m-8 font-extrabold">{currentTab.label}</h1>
+<h1>{currentTab.label}</h1>
 
 <p>
   Incididunt culpa reprehenderit culpa non. Ex sunt ullamco amet in laboris nisi consectetur nostrud

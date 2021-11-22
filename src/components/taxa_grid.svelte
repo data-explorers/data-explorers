@@ -8,7 +8,7 @@
   let currentTab = project.tabs.filter((tab) => tab.component == 'TaxaGrid')[0];
 </script>
 
-<h1 class="text-4xl text-center m-8 font-extrabold">{currentTab.label}</h1>
+<h1>{currentTab.label}</h1>
 
 <h2>{taxa.length} species</h2>
 
