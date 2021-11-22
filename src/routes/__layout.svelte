@@ -14,4 +14,8 @@
     </div>
   </div>
   <slot />
+
+  <footer class="mt-8 p-6 footer bg-neutral text-neutral-content">
+    <p>Copyright © 2021</p>
+  </footer>
 </main>
