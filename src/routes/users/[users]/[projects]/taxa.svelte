@@ -15,11 +15,8 @@
       taxa = [];
       project = { tabs: [] };
     } else {
-      let importFrom = `../../../../lib/data/${project.slug}/taxa.json`;
-      console.log('>>>', importFrom);
-      let res = await import(importFrom);
+      let res = await import(`../../../../lib/data/${project.slug}/taxa.json`);
       taxa = res.default;
-      console.log('>>>', taxa);
     }
 
     return { props: { project, taxa, user } };
@@ -33,10 +30,8 @@
   export let project;
   export let taxa;
   export let user;
-
 </script>
 
 <ProjectHeader {project} {user} />
 
 <TaxaGrid {project} {taxa} {user} />
-

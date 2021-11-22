@@ -1,27 +1,29 @@
 <script context="module">
-  import projects from '$lib/data/data.json';
+  import data from '$lib/data/data.json';
 
   export async function load({ page }) {
-    let project = projects.filter((p) => p.slug == page.path.split('/')[2])[0];
-    return { props: { project } };
+    let page_parts = page.path.split('/');
+    let user = data.filter((user) => user.username == page_parts[2])[0];
+    let project = user.projects.filter((project) => project.slug == page_parts[3])[0];
+    return { props: { user, project } };
   }
 </script>
 
 <script>
-  // import ProjectHeader from '../../../../components/project_header.svelte';
-  import taxa from '$lib/data/los-angeles-bioblitz/highlighted_taxa.json';
+  import ProjectHeader from '../../../../components/project_header.svelte';
+  import taxa from '../../../../lib/data/los-angeles-bioblitz/highlighted_taxa.json';
 
+  export let user;
   export let project;
-  console.log(project);
 </script>
 
-<!-- <ProjectHeader {project} /> -->
+<ProjectHeader {project} {user} />
 
-<h1 class="text-4xl text-center m-8 font-extrabold">Species</h1>
+<h1>Species</h1>
 
 <div class="grid lg:grid-cols-4 md:grid-cols-3  sm:grid-cols-2 justify-center gap-3">
-  {#each taxa as { image, slug, common_name, taxon_name, image_credit, taxon_group, type }}
-    <a href="/projects/los-angeles-bioblitz/taxa/{slug}">
+  {#each taxa as { image, slug, common_name, taxon_name, image_credit, taxon_group, taxon_id, type }}
+    <a href="/users/mbarton/los-angeles-bioblitz/taxa/{taxon_id}">
       <div class="card bordered">
         <figure>
           <img src={image} alt="photo of {common_name}" />
