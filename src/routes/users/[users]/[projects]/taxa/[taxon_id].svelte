@@ -1,5 +1,5 @@
 <script context="module">
-  import { formatInteractions } from '$lib/external_api';
+  import allInteractions from '$lib/data/interactions.json';
 
   // range map from inat
 
@@ -10,29 +10,15 @@
     let taxa = res.default;
     let taxon = taxa.filter((taxon) => taxon.taxon_id == page.params.taxon_id)[0];
 
-    let interaction = 'eats';
-    let eatsTaxa = [];
-    // eatsTaxa = await formatInteractions(taxon.scientific_name, interaction, taxa);
-
-    interaction = 'eatenBy';
-    let eatenByTaxa = [];
-    // eatenByTaxa = await formatInteractions(taxon.scientific_name, interaction, taxa);
-
-    interaction = 'pollinates';
-    let pollinatesTaxa = [];
-    // pollinatesTaxa = await formatInteractions(taxon.scientific_name, interaction, taxa);
-
-    interaction = 'pollinatedBy';
-    let pollinatedByTaxa = [];
-    // pollinatedByTaxa = await formatInteractions(taxon.scientific_name, interaction, taxa);
-
-    interaction = 'preysOn';
-    let preysOnTaxa = [];
-    // preysOnTaxa = await formatInteractions(taxon.scientific_name, interaction, taxa);
-
-    interaction = 'preyedUponBy';
-    let preyedUponByTaxa = [];
-    // preyedUponByTaxa = await formatInteractions(taxon.scientific_name, interaction, taxa);
+    let interactions = allInteractions.filter(
+      (i) => i.subject_taxon_id == '' + page.params.taxon_id
+    );
+    let eatsTaxa = interactions.filter((i) => i.interaction == 'eats');
+    let eatenByTaxa = interactions.filter((i) => i.interaction == 'eatenBy');
+    let pollinatesTaxa = interactions.filter((i) => i.interaction == 'pollinates');
+    let pollinatedByTaxa = interactions.filter((i) => i.interaction == 'pollinatedBy');
+    let preysOnTaxa = interactions.filter((i) => i.interaction == 'preysOn');
+    let preyedUponByTaxa = interactions.filter((i) => i.interaction == 'preyedUponBy');
 
     return {
       props: {
