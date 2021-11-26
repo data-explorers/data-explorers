@@ -1,14 +1,18 @@
 <script context="module">
   import allInteractions from '$lib/data/interactions.json';
+  import data from '$lib/data/data.json';
 
   // range map from inat
 
   // description from wikipedia
 
   export async function load({ page }) {
-    let res = await import(`../../../../../lib/data/${page.params.projects}/taxa.json`);
-    let taxa = res.default;
+    let taxaData = await import(`../../../../../lib/data/${page.params.projects}/taxa.json`);
+    let taxa = taxaData.default;
     let taxon = taxa.filter((taxon) => taxon.taxon_id == page.params.taxon_id)[0];
+
+    let user = data.filter((user) => user.username == page.params.users)[0];
+    let project = user.projects.filter((project) => project.slug == page.params.projects)[0];
 
     let interactions = allInteractions.filter(
       (i) => i.subject_taxon_id == '' + page.params.taxon_id
@@ -28,7 +32,9 @@
         pollinatedByTaxa,
         pollinatesTaxa,
         preysOnTaxa,
-        preyedUponByTaxa
+        preyedUponByTaxa,
+        user,
+        project,
       }
     };
   }
@@ -36,6 +42,7 @@
 
 <script>
   import GlobiList from '$lib/components/globi_list.svelte';
+  import ProjectHeader from '$lib/components/project_header.svelte';
 
   export let taxon;
   export let eatsTaxa;
@@ -44,9 +51,22 @@
   export let pollinatedByTaxa;
   export let preysOnTaxa;
   export let preyedUponByTaxa;
+  export let user;
+  export let project;
 </script>
 
+<ProjectHeader {project} {user} />
+
 <h1>{taxon.common_name} <span class="text-2xl text-gray-400">({taxon.scientific_name})</span></h1>
+
+<div class="grid md:grid-cols-2 gap-3">
+  <div>
+    <img src={taxon.image_url} alt="image of {taxon.scientific_name}" />
+  </div>
+
+  <div>
+  </div>
+</div>
 
 <h3>Description</h3>
 
@@ -64,7 +84,15 @@
     excepteur laboris id.
   </p>
 </article>
-<hr />
+<h3>Habitat</h3>
+
+<p>
+  Adipisicing aliquip culpa cupidatat nulla cupidatat exercitation exercitation exercitation culpa
+  Lorem magna enim sunt ad. Officia ex veniam dolore incididunt enim dolor. Deserunt magna elit
+  voluptate duis ex mollit deserunt duis cupidatat tempor sint. Velit ea ipsum est exercitation
+  excepteur laboris id.
+</p>
+
 <h3>Related Species</h3>
 
 <p>
