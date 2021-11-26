@@ -22,16 +22,20 @@
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/l-a-bioblitz-challenge",
-            "text": "iNaturalist Project",
-            "file": "observations-190446.csv"
+            "text": "iNaturalist Project"
           }
         ],
         "tabs": [
           { "label": "About", "component": "AboutProject", "link": "" },
           {
-            "label": "Indicator Species",
+            "label": "Species",
             "component": "TaxaGrid",
             "link": "taxa"
+          },
+          {
+            "label": "Indicator Species",
+            "component": "TaxaGrid",
+            "link": "indicator-species"
           },
           {
             "label": "Explore Data",
@@ -68,8 +72,7 @@
           },
           {
             "url": "https://www.inaturalist.org/projects/chsn-bioblitzes",
-            "text": "CHSN Bioblitzes",
-            "file": "observations-200303.csv"
+            "text": "CHSN Bioblitzes"
           }
         ],
         "tabs": [
@@ -103,8 +106,7 @@
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/murcielagos-en-mi-ciudad",
-            "text": "iNaturalist project",
-            "file": "observations-199065.csv"
+            "text": "iNaturalist project"
           }
         ],
         "tabs": [
@@ -113,7 +115,7 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "title": "Abejas en mi ciudad",
         "summary": "Est et aute Lorem veniam id amet adipisicing proident laboris.",
         "slug": "ciencia-ciudadana-peru-bees",
@@ -128,8 +130,7 @@
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/abejas-en-mi-ciudad-lima",
-            "text": "iNaturalist project",
-            "file": "observations-199066.csv"
+            "text": "iNaturalist project"
           }
         ],
         "tabs": [
@@ -147,7 +148,7 @@
 
     "projects": [
       {
-        "id": 4,
+        "id": 5,
         "title": "Cedar Creek Ecosystem Science Reserve",
         "summary": "Ut officia ut nostrud amet deserunt non voluptate.",
         "slug": "cedar-creek-reserve",
@@ -166,8 +167,7 @@
           },
           {
             "url": "https://www.inaturalist.org/projects/biodiversity-of-cedar-creek",
-            "text": "iNaturalist Project",
-            "file": "observations-199064.csv"
+            "text": "iNaturalist Project"
           }
         ],
         "tabs": [
