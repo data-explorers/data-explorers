@@ -18,6 +18,7 @@
 <ProjectHeader {project} {user} />
 
 <main class="">
+  <h1>About</h1>
   <div class="grid lg:grid-cols-3 md:grid-cols-2 justify-center gap-3">
     <div class="col-span-2 prose">
       <dl>
@@ -40,5 +41,14 @@
         alt="map of {project.title}"
       />
     </div>
+  </div>
+
+  <div>
+    <h2>Project Questions</h2>
+    <ol>
+      <li>Sint labore sunt magna duis officia pariatur ut?</li>
+      <li>Officia in ea non non aliquip ad duis est veniam proident in ut velit dolor?</li>
+      <li>Id incididunt cillum magna dolor?</li>
+    </ol>
   </div>
 </main>
