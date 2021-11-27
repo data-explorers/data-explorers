@@ -1,12 +1,14 @@
 <script>
   export let project;
   export let user;
+  import { page } from '$app/stores';
 
   let tabs = project.tabs.map((tab, index) => {
     return {
       label: tab.label,
       value: index,
-      slug: `/users/${user.username}/${project.slug}/${tab.link}`
+      slug: `/users/${user.username}/${project.slug}/${tab.link}`,
+      link: tab.link.length > 0 ? tab.link : project.slug
     };
   });
 </script>
@@ -20,9 +22,18 @@
     </div>
   </div>
 </div>
-
 <div class="tabs">
   {#each tabs as tab}
-    <a class="tab tab-bordered" href={tab.slug}>{tab.label}</a>
+    <a
+      class="tab tab-bordered"
+      class:tab-active={$page.path.split('/')[$page.path.split('/').length - 1] === tab.link}
+      href={tab.slug}>{tab.label}</a
+    >
   {/each}
 </div>
+
+<style>
+  .tabs {
+    margin-top: 1rem;
+  }
+</style>
