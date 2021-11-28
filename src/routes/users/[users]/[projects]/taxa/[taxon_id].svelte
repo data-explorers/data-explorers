@@ -9,35 +9,23 @@
   export async function load({ page }) {
     let taxaData = await import(`../../../../../lib/data/${page.params.projects}/taxa.json`);
     let taxa = taxaData.default;
-    let taxon = taxa.filter((taxon) => taxon.taxon_id == page.params.taxon_id)[0];
-
+    let taxon = taxa.filter((taxon) => taxon.taxon_id == page.params.taxon_id)[0] || {};
     let observationData = await import(
       `../../../../../lib/data/${page.params.projects}/observations.json`
     );
     let allObservations = observationData.default;
-    let observations = allObservations
-      .filter((i) => i.taxon_id == '' + page.params.taxon_id)
-      .filter((i) => i.latitude && i.longitude)
-      .map((i) => ({
-        latitude: i.latitude,
-        longitude: i.longitude,
-        date: new Date(i.time_observed_at),
-        image: i.image_url,
-        user: i.user_login
-      }));
+    let observations = allObservations.filter((i) => i.taxon_id == page.params.taxon_id);
 
-    let user = data.filter((user) => user.username == page.params.users)[0];
-    let project = user.projects.filter((project) => project.slug == page.params.projects)[0];
+    let user = data.filter((user) => user.username === page.params.users)[0];
+    let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
 
-    let interactions = allInteractions.filter(
-      (i) => i.subject_taxon_id == '' + page.params.taxon_id
-    );
-    let eatsTaxa = interactions.filter((i) => i.interaction == 'eats');
-    let eatenByTaxa = interactions.filter((i) => i.interaction == 'eatenBy');
-    let pollinatesTaxa = interactions.filter((i) => i.interaction == 'pollinates');
-    let pollinatedByTaxa = interactions.filter((i) => i.interaction == 'pollinatedBy');
-    let preysOnTaxa = interactions.filter((i) => i.interaction == 'preysOn');
-    let preyedUponByTaxa = interactions.filter((i) => i.interaction == 'preyedUponBy');
+    let interactions = allInteractions.filter((i) => i.subject_taxon_id == page.params.taxon_id);
+    let eatsTaxa = interactions.filter((i) => i.interaction === 'eats');
+    let eatenByTaxa = interactions.filter((i) => i.interaction === 'eatenBy');
+    let pollinatesTaxa = interactions.filter((i) => i.interaction === 'pollinates');
+    let pollinatedByTaxa = interactions.filter((i) => i.interaction === 'pollinatedBy');
+    let preysOnTaxa = interactions.filter((i) => i.interaction === 'preysOn');
+    let preyedUponByTaxa = interactions.filter((i) => i.interaction === 'preyedUponBy');
 
     return {
       props: {
@@ -72,6 +60,13 @@
   export let project;
   export let observations;
 
+  let mapOptions = {
+    zoom: project.zoom,
+    latitude: project.latitude,
+    longitude: project.longitude,
+    displayType: project.taxaDisplayType
+  };
+
   // NOTE: must use dynamic import to load leaflet since leaflet depends on
   // window object. leaflet will not work with server side rendering.
   let Map;
@@ -83,7 +78,14 @@
 
 <ProjectHeader {project} {user} />
 
-<h1>{taxon.common_name} <span class="text-2xl text-gray-400">({taxon.scientific_name})</span></h1>
+<h1 class="mb-0">
+  {#if taxon.common_name}{taxon.common_name}{/if}
+  {#if taxon.scientific_name}
+    <span class="text-2xl text-gray-400">({taxon.scientific_name})</span>
+  {/if}
+</h1>
+
+<h3>{observations.length} {observations.length === 1 ? 'observation' : 'observations'}</h3>
 
 <div class="grid md:grid-cols-2 gap-3">
   <div>
@@ -91,9 +93,7 @@
   </div>
 
   <div>
-    {observations.length}
-    {observations.length == 1 ? 'observation' : 'observations'}
-    <svelte:component this={Map} {project} {observations} />
+    <svelte:component this={Map} {mapOptions} {observations} />
   </div>
 </div>
 
