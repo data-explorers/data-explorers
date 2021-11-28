@@ -9,6 +9,7 @@ export function setMapOption(options, key, value) {
 }
 
 export let colorsSix = ['#fed976', '#feb24c', '#fd8d3c', '#fc4e2a', '#e31a1c', '#b10026'];
+export let colorsTwelve = colorsSix.concat(colorsSix);
 
 let colorsTens = [
   ['#8c510a', '#bf812d', '#dfc27d', '#f6e8c3', '#c7eae5', '#80cdc1', '#35978f', '#01665e'],

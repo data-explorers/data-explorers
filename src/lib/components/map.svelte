@@ -5,21 +5,25 @@
   import Popup from '$lib/components/map_popup_observation.svelte';
   import {
     modulo,
-    colorsSix,
     getMonthName,
     coldMonths,
     radiusZoom,
     rectangleLatitudeZoom,
     rectangleLongitudeZoom,
-    colorsTen
+    colorsTen,
+    colorsTwelve
   } from '$lib/mapUtils';
 
   export let observations;
   export let mapOptions;
 
   let leafletMap;
-  let years;
+  let availableYears;
+  let availableMonths;
 
+  let activeClasses = {};
+
+  // set default map values
   mapOptions = {
     center: [mapOptions.latitude || 0, mapOptions.longitude || 0],
     displayType: mapOptions.displayType || 'marker',
@@ -27,20 +31,28 @@
     zoom: mapOptions.zoom || 0
   };
 
+  // add month data
   if (mapOptions.displayType === 'month') {
+    availableMonths = [
+      ...new Set(observations.map((o) => new Date(o.time_observed_at).getMonth()))
+    ].sort();
+    availableMonths.forEach((month) => (activeClasses[month] = true));
+
     observations = observations.map((o) => {
       let dateObj = new Date(o.time_observed_at);
       let month = dateObj.getMonth();
       return {
         ...o,
-        month: month + 1,
-        color: colorsSix[modulo(month, 6)]
+        month: month,
+        color: colorsTwelve[month]
       };
     });
+    // add year data
   } else if (mapOptions.displayType === 'year') {
-    years = [
+    availableYears = [
       ...new Set(observations.map((o) => new Date(o.time_observed_at).getFullYear()))
     ].sort();
+    availableYears.forEach((year) => (activeClasses[year] = true));
 
     observations = observations.map((o) => {
       let dateObj = new Date(o.time_observed_at);
@@ -48,12 +60,33 @@
       return {
         ...o,
         year: year,
-        color: colorsTen[modulo(years.indexOf(year), 10)]
+        color: colorsTen[modulo(availableYears.indexOf(year), 10)]
       };
     });
   }
 
-  let coordinates = observations.map((o) => [o.latitude, o.longitude]);
+  let selectedFilters = [];
+  let filteredObservations = [...observations];
+  console.log(selectedFilters);
+
+  function handleFilters(e) {
+    let targetFilter = Number(e.target.dataset['filter']);
+
+    if (selectedFilters.includes(targetFilter)) {
+      selectedFilters = selectedFilters.filter((item) => item !== targetFilter);
+    } else {
+      selectedFilters.push(targetFilter);
+    }
+    activeClasses[targetFilter] = !activeClasses[targetFilter];
+
+    if (selectedFilters.length == 0) {
+      filteredObservations = [...observations];
+    } else {
+      filteredObservations = [
+        ...observations.filter((o) => !selectedFilters.includes(o[mapOptions.displayType]))
+      ];
+    }
+  }
 
   // const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
   // const tileUrl = 'https://a.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png';
@@ -72,15 +105,19 @@
   let circleRadius = 1;
   let rectangleLatitude = 1;
   let rectangleLongitude = 1;
+
+  // make certain variables reactive so they chamge values when user zooms
+  // in and out of map
   $: if (leafletMap && mapOptions.displayType !== 'marker') {
     zoomLevel = leafletMap.getMap().getZoom();
   }
-
   $: if (leafletMap && mapOptions.displayType !== 'marker') circleRadius = radiusZoom(zoomLevel);
   $: if (leafletMap && mapOptions.displayType === 'month')
     rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
   $: if (leafletMap && mapOptions.displayType === 'month')
     rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
+
+  let coordinates = observations.map((o) => [o.latitude, o.longitude]);
 
   onMount(() => {
     if (coordinates.length > 0) {
@@ -104,14 +141,17 @@
   <!-- {zoomLevel}, {circleRadius}, {rectangleLatitude}, {rectangleLongitude} -->
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <TileLayer url={tileUrl} options={tileLayerOptions} />
+    <!-- display markers -->
     {#if mapOptions.displayType === 'marker'}
       {#each observations as obs}
         <Marker latLng={[obs.latitude, obs.longitude]}>
           <Popup observation={obs} />
         </Marker>
       {/each}
+
+      <!-- display circles -->
     {:else if mapOptions.displayType === 'circle'}
-      {#each observations as obs}
+      {#each filteredObservations as obs}
         <Circle
           latLng={[obs.latitude, obs.longitude]}
           radius={circleRadius}
@@ -121,8 +161,10 @@
           <Popup observation={obs} />
         </Circle>
       {/each}
+
+      <!-- display circles by year -->
     {:else if mapOptions.displayType === 'year'}
-      {#each observations as obs}
+      {#each filteredObservations as obs}
         <Circle
           latLng={[obs.latitude, obs.longitude]}
           radius={circleRadius}
@@ -132,9 +174,11 @@
           <Popup observation={obs} />
         </Circle>
       {/each}
+
+      <!-- display circle and rectanles by month -->
     {:else}
-      {#each observations as obs}
-        {#if coldMonths.includes(obs.month)}
+      {#each filteredObservations as obs}
+        {#if coldMonths.includes(obs.month + 1)}
           <Circle
             latLng={[obs.latitude, obs.longitude]}
             radius={circleRadius}
@@ -159,56 +203,81 @@
     {/if}
   </LeafletMap>
 
+  <!-- map legend -->
   {#if mapOptions.displayType === 'month'}
     <div class="map-legend mt-4">
-      {#each colorsSix.concat(colorsSix) as color, index}
+      {#each availableMonths as month, index}
         <div class="mr-3 inline">
-          {#if coldMonths.includes(index + 1)}
-            <svg height="20" width="20" class="inline">
-              <circle
-                cx="10"
-                cy="10"
-                r="8"
-                stroke={color}
-                stroke-width="3"
-                fill={color}
-                fill-opacity=".20"
-              />
-            </svg><span>{getMonthName(index)}</span>
-          {:else}
-            <svg width="20" height="20" class="inline">
-              <rect
-                width="14"
-                height="14"
-                y="2"
-                x="2"
-                stroke={color}
-                stroke-width="3"
-                fill={color}
-                fill-opacity=".20"
-              />
-            </svg><span>{getMonthName(index)}</span>
-          {/if}
+          <a
+            href="#{month}"
+            class:active={activeClasses[month]}
+            on:click|preventDefault={handleFilters}
+          >
+            {#if coldMonths.includes(month + 1)}
+              <svg height="20" width="20" class="inline" data-filter={month}>
+                <circle
+                  cx="10"
+                  cy="10"
+                  r="8"
+                  stroke={colorsTwelve[month]}
+                  stroke-width="3"
+                  fill={colorsTwelve[month]}
+                  fill-opacity=".20"
+                  data-filter={month}
+                />
+              </svg><span data-filter={month}>{getMonthName(month)}</span>
+            {:else}
+              <svg width="20" height="20" class="inline" data-filter={month}>
+                <rect
+                  width="14"
+                  height="14"
+                  y="2"
+                  x="2"
+                  stroke={colorsTwelve[month]}
+                  stroke-width="3"
+                  fill={colorsTwelve[month]}
+                  fill-opacity=".20"
+                  data-filter={index}
+                />
+              </svg><span data-filter={month}>{getMonthName(month)}</span>
+            {/if}
+          </a>
         </div>
       {/each}
     </div>
   {:else if mapOptions.displayType === 'year'}
     <div class="map-legend mt-4">
-      {#each years as year, index}
+      {#each availableYears as year, index}
         <div class="mr-3 inline">
-          <svg height="20" width="20" class="inline">
-            <circle
-              cx="10"
-              cy="10"
-              r="8"
-              stroke={colorsTen[modulo(index, 10)]}
-              stroke-width="3"
-              fill={colorsTen[modulo(index, 10)]}
-              fill-opacity=".20"
-            />
-          </svg><span>{year}</span>
+          <a
+            href="#{year}"
+            data-filter={year}
+            class:active={activeClasses[year]}
+            on:click|preventDefault|capture={handleFilters}
+          >
+            <svg data-filter={year} height="20" width="20" class="inline">
+              <circle
+                cx="10"
+                cy="10"
+                r="8"
+                stroke={colorsTen[modulo(index, 10)]}
+                stroke-width="3"
+                fill={colorsTen[modulo(index, 10)]}
+                fill-opacity=".20"
+              />
+            </svg><span data-filter={year}>{year}</span>
+          </a>
         </div>
       {/each}
     </div>
   {/if}
 </div>
+
+<style>
+  .map-legend a {
+    opacity: 0.4;
+  }
+  .map-legend a.active {
+    opacity: 1;
+  }
+</style>
