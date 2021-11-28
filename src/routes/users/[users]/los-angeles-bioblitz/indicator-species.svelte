@@ -3,8 +3,8 @@
 
   export async function load({ page }) {
     let page_parts = page.path.split('/');
-    let user = data.filter((user) => user.username == page_parts[2])[0];
-    let project = user.projects.filter((project) => project.slug == page_parts[3])[0];
+    let user = data.filter((user) => user.username === page_parts[2])[0];
+    let project = user.projects.filter((project) => project.slug === page_parts[3])[0];
     return { props: { user, project } };
   }
 </script>

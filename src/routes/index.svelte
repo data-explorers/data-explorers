@@ -2,7 +2,7 @@
   import data from '$lib/data/data.json';
   for (let index = 0; index < data.length; index++) {
     const user_data = data[index];
-    if (user_data.projects.length == 1) {
+    if (user_data.projects.length === 1) {
       user_data.card_link = `/users/${user_data.username}/${user_data.projects[0].slug}`;
     } else {
       user_data.card_link = `/users/${user_data.username}`;

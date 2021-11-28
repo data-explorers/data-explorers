@@ -7,7 +7,7 @@
   let limit = 25;
   let taxaDisplay = taxa.slice(0, page * limit);
 
-  let currentTab = project.tabs.filter((tab) => tab.component == 'TaxaGrid')[0];
+  let currentTab = project.tabs.filter((tab) => tab.component === 'TaxaGrid')[0];
 
   function loadMore() {
     page = page + 1;

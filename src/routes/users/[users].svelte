@@ -2,7 +2,7 @@
   import data from '$lib/data/data.json';
 
   export async function load({ page }) {
-    let user = data.filter((user) => user.username == page.params.users)[0];
+    let user = data.filter((user) => user.username === page.params.users)[0];
     let projects = user.projects;
 
     return { props: { user, projects } };
