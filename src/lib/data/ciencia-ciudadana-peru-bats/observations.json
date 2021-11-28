@@ -6,9 +6,14 @@
     "image_url": "https://static.inaturalist.org/photos/7930220/medium.jpg",
     "latitude": -12.112298,
     "longitude": -77.038149,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2017,
+    "observed_month": 5
   },
   {
     "id": 32254759,
@@ -17,9 +22,14 @@
     "image_url": "https://static.inaturalist.org/photos/50573802/medium.jpg",
     "latitude": -12.098625,
     "longitude": -76.9901416667,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga",
     "common_name": "Long-tongued Bats",
-    "taxon_id": 41089
+    "taxon_id": 41089,
+    "observed_year": 2019,
+    "observed_month": 9
   },
   {
     "id": 59183127,
@@ -28,9 +38,14 @@
     "image_url": "https://static.inaturalist.org/photos/94547796/medium.jpeg",
     "latitude": -12.3560365622,
     "longitude": -76.7952805012,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Eptesicus",
     "common_name": "House Bats",
-    "taxon_id": 40477
+    "taxon_id": 40477,
+    "observed_year": 2020,
+    "observed_month": 9
   },
   {
     "id": 59603049,
@@ -39,9 +54,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95244463/medium.jpeg",
     "latitude": -11.7211298656,
     "longitude": -77.007803082,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "obscured",
+    "coordinates_obscured": true,
     "scientific_name": "Platalina genovensium",
     "common_name": "long-snouted bat",
-    "taxon_id": 41133
+    "taxon_id": 41133,
+    "observed_year": 2017,
+    "observed_month": 8
   },
   {
     "id": 59606392,
@@ -50,9 +70,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247848/medium.jpg",
     "latitude": -12.664687,
     "longitude": -76.667879,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Artibeus fraterculus",
     "common_name": "Fraternal Fruit-eating Bat",
-    "taxon_id": 40998
+    "taxon_id": 40998,
+    "observed_year": 2015,
+    "observed_month": 10
   },
   {
     "id": 59606394,
@@ -61,9 +86,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247866/medium.jpeg",
     "latitude": -12.664687,
     "longitude": -76.667879,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Artibeus fraterculus",
     "common_name": "Fraternal Fruit-eating Bat",
-    "taxon_id": 40998
+    "taxon_id": 40998,
+    "observed_year": 2015,
+    "observed_month": 10
   },
   {
     "id": 59606395,
@@ -72,9 +102,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247875/medium.jpeg",
     "latitude": -12.664687,
     "longitude": -76.667879,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Desmodus rotundus",
     "common_name": "Common Vampire Bat",
-    "taxon_id": 41168
+    "taxon_id": 41168,
+    "observed_year": 2015,
+    "observed_month": 10
   },
   {
     "id": 59606398,
@@ -83,9 +118,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247915/medium.jpeg",
     "latitude": -12.404167,
     "longitude": -75.850833,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Sturnira bogotensis",
     "common_name": "Bogot\u00e1 Yellow-shouldered Bat",
-    "taxon_id": 41040
+    "taxon_id": 41040,
+    "observed_year": 2016,
+    "observed_month": 8
   },
   {
     "id": 59606399,
@@ -94,9 +134,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247926/medium.jpeg",
     "latitude": -12.7242340959,
     "longitude": -76.720096755,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "obscured",
+    "coordinates_obscured": true,
     "scientific_name": "Myotis atacamensis",
     "common_name": "Atacama myotis",
-    "taxon_id": 40293
+    "taxon_id": 40293,
+    "observed_year": 2013,
+    "observed_month": 9
   },
   {
     "id": 59606402,
@@ -105,9 +150,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247939/medium.jpeg",
     "latitude": -12.664687,
     "longitude": -76.667879,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Nyctinomops aurispinosus",
     "common_name": "Peale's free-tailed bat",
-    "taxon_id": 41313
+    "taxon_id": 41313,
+    "observed_year": 2015,
+    "observed_month": 10
   },
   {
     "id": 60367488,
@@ -116,9 +166,14 @@
     "image_url": "https://static.inaturalist.org/photos/96522168/medium.jpeg",
     "latitude": -12.1522733,
     "longitude": -76.9543515,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Vespertilionoidea",
     "common_name": "Vespertilionoid Bats",
-    "taxon_id": 446959
+    "taxon_id": 446959,
+    "observed_year": 2020,
+    "observed_month": 9
   },
   {
     "id": 60467567,
@@ -127,9 +182,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96691355/medium.jpeg",
     "latitude": -12.0797778,
     "longitude": -77.0477213,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Vespertilioninae",
     "common_name": "Vesper Bats",
-    "taxon_id": 846180
+    "taxon_id": 846180,
+    "observed_year": 2020,
+    "observed_month": 9
   },
   {
     "id": 60472216,
@@ -138,9 +198,14 @@
     "image_url": "https://www.inaturalist.org/assets/copyright-infringement-medium.png",
     "latitude": -12.1777928,
     "longitude": -77.0057271,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Vespertilionidae",
     "common_name": "Evening Bats",
-    "taxon_id": 40269
+    "taxon_id": 40269,
+    "observed_year": 2020,
+    "observed_month": 9
   },
   {
     "id": 60627092,
@@ -149,9 +214,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96957823/medium.jpeg",
     "latitude": -12.6642803127,
     "longitude": -76.6678956896,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2013,
+    "observed_month": 9
   },
   {
     "id": 61135502,
@@ -160,9 +230,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97798910/medium.jpeg",
     "latitude": -12.0826725233,
     "longitude": -76.9454210979,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2016,
+    "observed_month": 10
   },
   {
     "id": 61138540,
@@ -171,9 +246,14 @@
     "image_url": null,
     "latitude": -12.204156,
     "longitude": -76.879211,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Tadarida brasiliensis",
     "common_name": "Mexican Free-tailed Bat",
-    "taxon_id": 41301
+    "taxon_id": 41301,
+    "observed_year": 2020,
+    "observed_month": 9
   },
   {
     "id": 61528541,
@@ -182,9 +262,14 @@
     "image_url": null,
     "latitude": -12.1084947802,
     "longitude": -76.9868906395,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Chiroptera",
     "common_name": "Bats",
-    "taxon_id": 40268
+    "taxon_id": 40268,
+    "observed_year": 2020,
+    "observed_month": 10
   },
   {
     "id": 61731541,
@@ -193,9 +278,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98812308/medium.jpeg",
     "latitude": -12.088033,
     "longitude": -77.047611,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2020,
+    "observed_month": 10
   },
   {
     "id": 68084488,
@@ -204,9 +294,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110157733/medium.jpeg",
     "latitude": -12.133658,
     "longitude": -77.004641,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2021,
+    "observed_month": 1
   },
   {
     "id": 68644852,
@@ -215,9 +310,14 @@
     "image_url": "https://static.inaturalist.org/photos/111206486/medium.jpeg",
     "latitude": -12.1407292018,
     "longitude": -76.9324966148,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Nyctinomops",
     "common_name": null,
-    "taxon_id": 41311
+    "taxon_id": 41311,
+    "observed_year": 2021,
+    "observed_month": 1
   },
   {
     "id": 68887730,
@@ -226,9 +326,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111654388/medium.jpeg",
     "latitude": -12.1397216182,
     "longitude": -77.0266639449,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2021,
+    "observed_month": 1
   },
   {
     "id": 69026977,
@@ -237,9 +342,14 @@
     "image_url": "https://static.inaturalist.org/photos/111915017/medium.jpeg",
     "latitude": -12.0817234123,
     "longitude": -76.9431895763,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2018,
+    "observed_month": 5
   },
   {
     "id": 69027084,
@@ -248,9 +358,14 @@
     "image_url": "https://static.inaturalist.org/photos/111915049/medium.jpeg",
     "latitude": -12.0817234123,
     "longitude": -76.9431895763,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Artibeus fraterculus",
     "common_name": "Fraternal Fruit-eating Bat",
-    "taxon_id": 40998
+    "taxon_id": 40998,
+    "observed_year": 2018,
+    "observed_month": 6
   },
   {
     "id": 69088922,
@@ -259,9 +374,14 @@
     "image_url": "https://static.inaturalist.org/photos/112029485/medium.jpeg",
     "latitude": -12.0817234123,
     "longitude": -76.9431895763,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2018,
+    "observed_month": 5
   },
   {
     "id": 69109079,
@@ -270,9 +390,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112067421/medium.jpeg",
     "latitude": -12.1371324768,
     "longitude": -76.9860583171,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2017,
+    "observed_month": 1
   },
   {
     "id": 69396708,
@@ -281,9 +406,14 @@
     "image_url": "https://static.inaturalist.org/photos/112586190/medium.jpeg",
     "latitude": -11.8268059672,
     "longitude": -76.6185266152,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Desmodus rotundus",
     "common_name": "Common Vampire Bat",
-    "taxon_id": 41168
+    "taxon_id": 41168,
+    "observed_year": 2011,
+    "observed_month": 5
   },
   {
     "id": 69867993,
@@ -292,9 +422,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113472258/medium.jpg",
     "latitude": -12.0647917155,
     "longitude": -76.9483495773,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Tadarida brasiliensis",
     "common_name": "Mexican Free-tailed Bat",
-    "taxon_id": 41301
+    "taxon_id": 41301,
+    "observed_year": 2021,
+    "observed_month": 2
   },
   {
     "id": 75250604,
@@ -303,9 +438,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123127814/medium.jpg",
     "latitude": -12.10237305,
     "longitude": -76.9784933135,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Tadarida brasiliensis",
     "common_name": "Mexican Free-tailed Bat",
-    "taxon_id": 41301
+    "taxon_id": 41301,
+    "observed_year": 2021,
+    "observed_month": 4
   },
   {
     "id": 84013109,
@@ -314,9 +454,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138037292/medium.jpg",
     "latitude": -12.0959037,
     "longitude": -76.9254134,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Phyllostomidae",
     "common_name": "New World Leaf-nosed Bats",
-    "taxon_id": 40991
+    "taxon_id": 40991,
+    "observed_year": 2020,
+    "observed_month": 12
   },
   {
     "id": 87554703,
@@ -325,9 +470,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144365005/medium.jpeg",
     "latitude": -12.1173793,
     "longitude": -76.9812486,
+    "geoprivacy": null,
+    "taxon_geoprivacy": "open",
+    "coordinates_obscured": false,
     "scientific_name": "Glossophaga soricina",
     "common_name": "Pallas's Long-tongued Bat",
-    "taxon_id": 41090
+    "taxon_id": 41090,
+    "observed_year": 2021,
+    "observed_month": 7
   },
   {
     "id": 89238307,
@@ -336,9 +486,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147341064/medium.png",
     "latitude": -12.137902928,
     "longitude": -77.0033296319,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Yangochiroptera",
     "common_name": null,
-    "taxon_id": 446946
+    "taxon_id": 446946,
+    "observed_year": 2021,
+    "observed_month": 7
   },
   {
     "id": 89238309,
@@ -347,9 +502,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147341790/medium.png",
     "latitude": -12.1364,
     "longitude": -77.002546,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Yangochiroptera",
     "common_name": null,
-    "taxon_id": 446946
+    "taxon_id": 446946,
+    "observed_year": 2021,
+    "observed_month": 6
   },
   {
     "id": 89582155,
@@ -358,9 +518,14 @@
     "image_url": "https://static.inaturalist.org/photos/147947106/medium.jpeg",
     "latitude": -12.1280461,
     "longitude": -77.0139791,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Chiroptera",
     "common_name": "Bats",
-    "taxon_id": 40268
+    "taxon_id": 40268,
+    "observed_year": 2021,
+    "observed_month": 7
   },
   {
     "id": 89582158,
@@ -369,9 +534,14 @@
     "image_url": "https://static.inaturalist.org/photos/147947366/medium.jpeg",
     "latitude": -12.129734873,
     "longitude": -77.0133352038,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Chiroptera",
     "common_name": "Bats",
-    "taxon_id": 40268
+    "taxon_id": 40268,
+    "observed_year": 2021,
+    "observed_month": 7
   },
   {
     "id": 91069144,
@@ -380,9 +550,14 @@
     "image_url": "https://static.inaturalist.org/photos/150580850/medium.jpeg",
     "latitude": -11.8268059672,
     "longitude": -76.6185266152,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Lasiurus",
     "common_name": "Hairy-tailed Bats",
-    "taxon_id": 40516
+    "taxon_id": 40516,
+    "observed_year": 2021,
+    "observed_month": 4
   },
   {
     "id": 92316119,
@@ -391,9 +566,14 @@
     "image_url": "https://static.inaturalist.org/photos/152839618/medium.jpg",
     "latitude": -12.0985638333,
     "longitude": -76.9900883333,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Phyllostomidae",
     "common_name": "New World Leaf-nosed Bats",
-    "taxon_id": 40991
+    "taxon_id": 40991,
+    "observed_year": 2021,
+    "observed_month": 8
   },
   {
     "id": 93108970,
@@ -402,9 +582,14 @@
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154269575/medium.png",
     "latitude": -12.140917,
     "longitude": -77.026083,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Phyllostomidae",
     "common_name": "New World Leaf-nosed Bats",
-    "taxon_id": 40991
+    "taxon_id": 40991,
+    "observed_year": 2021,
+    "observed_month": 8
   },
   {
     "id": 93112332,
@@ -413,8 +598,13 @@
     "image_url": "https://static.inaturalist.org/photos/154276743/medium.jpeg",
     "latitude": -12.9258115,
     "longitude": -76.1108408,
+    "geoprivacy": null,
+    "taxon_geoprivacy": null,
+    "coordinates_obscured": false,
     "scientific_name": "Yangochiroptera",
     "common_name": null,
-    "taxon_id": 446946
+    "taxon_id": 446946,
+    "observed_year": 2021,
+    "observed_month": 5
   }
 ]
