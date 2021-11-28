@@ -5,7 +5,8 @@
     "taxon_id": 41090,
     "image_url": "https://static.inaturalist.org/photos/7930220/medium.jpg",
     "user_login": "jcentavo",
-    "count": 10
+    "count": 10,
+    "is_species": true
   },
   {
     "scientific_name": "Chiroptera",
@@ -13,7 +14,8 @@
     "taxon_id": 40268,
     "image_url": null,
     "user_login": "cienciaciudadanaperu",
-    "count": 4
+    "count": 4,
+    "is_species": false
   },
   {
     "scientific_name": "Phyllostomidae",
@@ -21,7 +23,8 @@
     "taxon_id": 40991,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29205519/medium.jpg",
     "user_login": "ruben_guzman_p",
-    "count": 4
+    "count": 4,
+    "is_species": false
   },
   {
     "scientific_name": "Yangochiroptera",
@@ -29,7 +32,8 @@
     "taxon_id": 446946,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147341064/medium.png",
     "user_login": "cienciaciudadanaperu",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Artibeus fraterculus",
@@ -37,7 +41,8 @@
     "taxon_id": 40998,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247848/medium.jpg",
     "user_login": "bio_jpacheco",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Tadarida brasiliensis",
@@ -45,7 +50,8 @@
     "taxon_id": 41301,
     "image_url": null,
     "user_login": "bio_jpacheco",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Glossophaga",
@@ -53,7 +59,8 @@
     "taxon_id": 41089,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47167723/medium.jpg",
     "user_login": "ruben_guzman_p",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Desmodus rotundus",
@@ -61,7 +68,8 @@
     "taxon_id": 41168,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247875/medium.jpeg",
     "user_login": "bio_jpacheco",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Vespertilioninae",
@@ -69,7 +77,8 @@
     "taxon_id": 846180,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96691355/medium.jpeg",
     "user_login": "fayruzmendoza",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Nyctinomops",
@@ -77,7 +86,8 @@
     "taxon_id": 41311,
     "image_url": "https://static.inaturalist.org/photos/111206486/medium.jpeg",
     "user_login": "wilfredo14",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Vespertilionidae",
@@ -85,7 +95,8 @@
     "taxon_id": 40269,
     "image_url": "https://www.inaturalist.org/assets/copyright-infringement-medium.png",
     "user_login": "mateblogs",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Nyctinomops aurispinosus",
@@ -93,7 +104,8 @@
     "taxon_id": 41313,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247939/medium.jpeg",
     "user_login": "bio_jpacheco",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Vespertilionoidea",
@@ -101,7 +113,8 @@
     "taxon_id": 446959,
     "image_url": "https://static.inaturalist.org/photos/96522168/medium.jpeg",
     "user_login": "katyachalco",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Myotis atacamensis",
@@ -109,7 +122,8 @@
     "taxon_id": 40293,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247926/medium.jpeg",
     "user_login": "bio_jpacheco",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Sturnira bogotensis",
@@ -117,7 +131,8 @@
     "taxon_id": 41040,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247915/medium.jpeg",
     "user_login": "bio_jpacheco",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Platalina genovensium",
@@ -125,7 +140,8 @@
     "taxon_id": 41133,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95244463/medium.jpeg",
     "user_login": "bio_jpacheco",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Eptesicus",
@@ -133,7 +149,8 @@
     "taxon_id": 40477,
     "image_url": "https://static.inaturalist.org/photos/94547796/medium.jpeg",
     "user_login": "santosgumercindoperezhuanca",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Lasiurus",
@@ -141,6 +158,7 @@
     "taxon_id": 40516,
     "image_url": "https://static.inaturalist.org/photos/150580850/medium.jpeg",
     "user_login": "cesar67",
-    "count": 1
+    "count": 1,
+    "is_species": true
   }
 ]

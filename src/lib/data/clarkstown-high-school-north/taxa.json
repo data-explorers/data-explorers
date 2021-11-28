@@ -5,7 +5,8 @@
     "taxon_id": 47124,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926612/medium.jpg",
     "user_login": "mcgovernm97",
-    "count": 45
+    "count": 45,
+    "is_species": false
   },
   {
     "scientific_name": "Taraxacum officinale",
@@ -13,7 +14,8 @@
     "taxon_id": 47602,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926746/medium.jpg",
     "user_login": "kylew3",
-    "count": 36
+    "count": 36,
+    "is_species": true
   },
   {
     "scientific_name": "Trifolium repens",
@@ -21,7 +23,8 @@
     "taxon_id": 55745,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953768/medium.jpg",
     "user_login": "abhiraj311",
-    "count": 34
+    "count": 34,
+    "is_species": true
   },
   {
     "scientific_name": "Plantae",
@@ -29,7 +32,8 @@
     "taxon_id": 47126,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926662/medium.jpg",
     "user_login": "erics5",
-    "count": 31
+    "count": 31,
+    "is_species": false
   },
   {
     "scientific_name": "Turdus migratorius",
@@ -37,7 +41,8 @@
     "taxon_id": 12727,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953902/medium.jpg",
     "user_login": "retnies123",
-    "count": 31
+    "count": 31,
+    "is_species": true
   },
   {
     "scientific_name": "Rosa multiflora",
@@ -45,7 +50,8 @@
     "taxon_id": 78882,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926796/medium.png",
     "user_login": "retnies123",
-    "count": 30
+    "count": 30,
+    "is_species": true
   },
   {
     "scientific_name": "Odocoileus virginianus",
@@ -53,7 +59,8 @@
     "taxon_id": 42223,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75521479/medium.jpg",
     "user_login": "betty165",
-    "count": 21
+    "count": 21,
+    "is_species": true
   },
   {
     "scientific_name": "Sciurus carolinensis",
@@ -61,7 +68,8 @@
     "taxon_id": 46017,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926791/medium.jpg",
     "user_login": "davidc6",
-    "count": 17
+    "count": 17,
+    "is_species": true
   },
   {
     "scientific_name": "Angiospermae",
@@ -69,7 +77,8 @@
     "taxon_id": 47125,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812206/medium.jpeg",
     "user_login": "antonr",
-    "count": 15
+    "count": 15,
+    "is_species": false
   },
   {
     "scientific_name": "Tamias striatus",
@@ -77,7 +86,8 @@
     "taxon_id": 46217,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953804/medium.jpg",
     "user_login": "zandranicolas",
-    "count": 15
+    "count": 15,
+    "is_species": true
   },
   {
     "scientific_name": "Taraxacum",
@@ -85,7 +95,8 @@
     "taxon_id": 47603,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812120/medium.jpg",
     "user_login": "aleckranyak123",
-    "count": 14
+    "count": 14,
+    "is_species": false
   },
   {
     "scientific_name": "Poaceae",
@@ -93,7 +104,8 @@
     "taxon_id": 47434,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1929897/medium.jpg",
     "user_login": "elizabethv3",
-    "count": 13
+    "count": 13,
+    "is_species": false
   },
   {
     "scientific_name": "Branta canadensis",
@@ -101,7 +113,8 @@
     "taxon_id": 7089,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1948082/medium.jpg",
     "user_login": "abhiraj311",
-    "count": 12
+    "count": 12,
+    "is_species": true
   },
   {
     "scientific_name": "Trifolium pratense",
@@ -109,7 +122,8 @@
     "taxon_id": 51875,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813933/medium.jpg",
     "user_login": "amandakad",
-    "count": 12
+    "count": 12,
+    "is_species": true
   },
   {
     "scientific_name": "Anas platyrhynchos",
@@ -117,7 +131,8 @@
     "taxon_id": 6930,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75960274/medium.jpg",
     "user_login": "jdcazes",
-    "count": 11
+    "count": 11,
+    "is_species": true
   },
   {
     "scientific_name": "Tracheophyta",
@@ -125,7 +140,8 @@
     "taxon_id": 211194,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3814684/medium.jpg",
     "user_login": "natalies1125",
-    "count": 11
+    "count": 11,
+    "is_species": false
   },
   {
     "scientific_name": "Rhododendron",
@@ -133,7 +149,8 @@
     "taxon_id": 49487,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926685/medium.jpg",
     "user_login": "erics5",
-    "count": 11
+    "count": 11,
+    "is_species": false
   },
   {
     "scientific_name": "Rosa",
@@ -141,7 +158,8 @@
     "taxon_id": 53438,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953832/medium.jpeg",
     "user_login": "airenerosallea",
-    "count": 9
+    "count": 9,
+    "is_species": false
   },
   {
     "scientific_name": "Ranunculus",
@@ -149,7 +167,8 @@
     "taxon_id": 48230,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926956/medium.jpg",
     "user_login": "sabrinak1",
-    "count": 9
+    "count": 9,
+    "is_species": false
   },
   {
     "scientific_name": "Glechoma hederacea",
@@ -157,7 +176,8 @@
     "taxon_id": 55830,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953963/medium.JPG",
     "user_login": "blancam1",
-    "count": 9
+    "count": 9,
+    "is_species": true
   },
   {
     "scientific_name": "Marmota monax",
@@ -165,7 +185,8 @@
     "taxon_id": 46095,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143920/medium.jpeg",
     "user_login": "harrisongarcia",
-    "count": 9
+    "count": 9,
+    "is_species": true
   },
   {
     "scientific_name": "Bryophyta",
@@ -173,7 +194,8 @@
     "taxon_id": 311249,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953834/medium.jpg",
     "user_login": "parishar7",
-    "count": 8
+    "count": 8,
+    "is_species": false
   },
   {
     "scientific_name": "Fungi",
@@ -181,7 +203,8 @@
     "taxon_id": 47170,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3831361/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 8
+    "count": 8,
+    "is_species": false
   },
   {
     "scientific_name": "Plantago lanceolata",
@@ -189,7 +212,8 @@
     "taxon_id": 53178,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926632/medium.jpg",
     "user_login": "mcgovernm97",
-    "count": 8
+    "count": 8,
+    "is_species": true
   },
   {
     "scientific_name": "Trifolium",
@@ -197,7 +221,8 @@
     "taxon_id": 51876,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19178493/medium.jpg",
     "user_login": "olivia122",
-    "count": 8
+    "count": 8,
+    "is_species": false
   },
   {
     "scientific_name": "Formicidae",
@@ -205,7 +230,8 @@
     "taxon_id": 47336,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953874/medium.jpg",
     "user_login": "zandranicolas",
-    "count": 7
+    "count": 7,
+    "is_species": false
   },
   {
     "scientific_name": "Camponotus pennsylvanicus",
@@ -213,7 +239,8 @@
     "taxon_id": 129902,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820884/medium.jpg",
     "user_login": "kathrynbelkin",
-    "count": 7
+    "count": 7,
+    "is_species": true
   },
   {
     "scientific_name": "Toxicodendron radicans",
@@ -221,7 +248,8 @@
     "taxon_id": 58732,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822378/medium.jpg",
     "user_login": "deanaprochnau",
-    "count": 7
+    "count": 7,
+    "is_species": true
   },
   {
     "scientific_name": "Artemisia vulgaris",
@@ -229,7 +257,8 @@
     "taxon_id": 52856,
     "image_url": "http://static.inaturalist.org/photos/3822453/medium.jpg",
     "user_login": "naturalist1596",
-    "count": 7
+    "count": 7,
+    "is_species": true
   },
   {
     "scientific_name": "Dactylis glomerata",
@@ -237,7 +266,8 @@
     "taxon_id": 52720,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19120276/medium.jpg",
     "user_login": "celestinec1",
-    "count": 6
+    "count": 6,
+    "is_species": true
   },
   {
     "scientific_name": "Ailanthus altissima",
@@ -245,7 +275,8 @@
     "taxon_id": 57278,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813880/medium.jpg",
     "user_login": "hschatz98",
-    "count": 6
+    "count": 6,
+    "is_species": true
   },
   {
     "scientific_name": "Harmonia axyridis",
@@ -253,7 +284,8 @@
     "taxon_id": 48484,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926706/medium.jpg",
     "user_login": "erics5",
-    "count": 6
+    "count": 6,
+    "is_species": true
   },
   {
     "scientific_name": "Parthenocissus quinquefolia",
@@ -261,7 +293,8 @@
     "taxon_id": 50278,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926675/medium.jpg",
     "user_login": "erics5",
-    "count": 6
+    "count": 6,
+    "is_species": true
   },
   {
     "scientific_name": "Corniculatae",
@@ -269,7 +302,8 @@
     "taxon_id": 865017,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812143/medium.jpg",
     "user_login": "alexadrapkin",
-    "count": 6
+    "count": 6,
+    "is_species": false
   },
   {
     "scientific_name": "Rumex",
@@ -277,7 +311,8 @@
     "taxon_id": 53196,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813608/medium.jpg",
     "user_login": "joshuakansky",
-    "count": 6
+    "count": 6,
+    "is_species": false
   },
   {
     "scientific_name": "Rubus phoenicolasius",
@@ -285,7 +320,8 @@
     "taxon_id": 84227,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19119687/medium.jpg",
     "user_login": "ryant5",
-    "count": 5
+    "count": 5,
+    "is_species": true
   },
   {
     "scientific_name": "Asteraceae",
@@ -293,7 +329,8 @@
     "taxon_id": 47604,
     "image_url": "http://static.inaturalist.org/photos/3822470/medium.jpg",
     "user_login": "naturalist1596",
-    "count": 5
+    "count": 5,
+    "is_species": false
   },
   {
     "scientific_name": "Poa pratensis",
@@ -301,7 +338,8 @@
     "taxon_id": 60307,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926631/medium.jpg",
     "user_login": "mcgovernm97",
-    "count": 5
+    "count": 5,
+    "is_species": true
   },
   {
     "scientific_name": "Nuphar",
@@ -309,7 +347,8 @@
     "taxon_id": 57849,
     "image_url": "https://static.inaturalist.org/photos/75962950/medium.jpeg",
     "user_login": "ninal",
-    "count": 5
+    "count": 5,
+    "is_species": true
   },
   {
     "scientific_name": "Apis mellifera",
@@ -317,7 +356,8 @@
     "taxon_id": 47219,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3814652/medium.jpg",
     "user_login": "natalies1125",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Passeriformes",
@@ -325,7 +365,8 @@
     "taxon_id": 7251,
     "image_url": "https://static.inaturalist.org/photos/8122928/medium.jpg",
     "user_login": "jillt",
-    "count": 4
+    "count": 4,
+    "is_species": false
   },
   {
     "scientific_name": "Canis familiaris",
@@ -333,7 +374,8 @@
     "taxon_id": 47144,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76390881/medium.jpg",
     "user_login": "tylercole25",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Formica fusca",
@@ -341,7 +383,8 @@
     "taxon_id": 1204075,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926663/medium.jpg",
     "user_login": "erics5",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Agaricomycetes",
@@ -349,7 +392,8 @@
     "taxon_id": 50814,
     "image_url": "https://static.inaturalist.org/photos/8122834/medium.jpg",
     "user_login": "jillt",
-    "count": 4
+    "count": 4,
+    "is_species": false
   },
   {
     "scientific_name": "Lecanoromycetes",
@@ -357,7 +401,8 @@
     "taxon_id": 54743,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8123763/medium.jpeg",
     "user_login": "gayatrip",
-    "count": 4
+    "count": 4,
+    "is_species": false
   },
   {
     "scientific_name": "Plantago rugelii",
@@ -365,7 +410,8 @@
     "taxon_id": 167010,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812034/medium.jpg",
     "user_login": "alexadrapkin",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Oxalis",
@@ -373,7 +419,8 @@
     "taxon_id": 47758,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926652/medium.jpg",
     "user_login": "mcgovernm97",
-    "count": 4
+    "count": 4,
+    "is_species": false
   },
   {
     "scientific_name": "Pinus",
@@ -381,7 +428,8 @@
     "taxon_id": 47561,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820735/medium.jpg",
     "user_login": "heathercazes",
-    "count": 4
+    "count": 4,
+    "is_species": false
   },
   {
     "scientific_name": "Picea",
@@ -389,7 +437,8 @@
     "taxon_id": 63573,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143562/medium.jpeg",
     "user_login": "yanah",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Phytolacca americana",
@@ -397,7 +446,8 @@
     "taxon_id": 48599,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19575972/medium.jpg",
     "user_login": "jvayal111",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Sturnus vulgaris",
@@ -405,7 +455,8 @@
     "taxon_id": 14850,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76400024/medium.jpg",
     "user_login": "tylercole25",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Agelaius phoeniceus",
@@ -413,7 +464,8 @@
     "taxon_id": 9744,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75990463/medium.jpg",
     "user_login": "anish11",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Capsella bursa-pastoris",
@@ -421,7 +473,8 @@
     "taxon_id": 56121,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820800/medium.JPG",
     "user_login": "divyaa2",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Cygnus olor",
@@ -429,7 +482,8 @@
     "taxon_id": 6921,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75617541/medium.jpg",
     "user_login": "damian114",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Chelydra serpentina",
@@ -437,7 +491,8 @@
     "taxon_id": 39682,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76155752/medium.jpeg",
     "user_login": "samanthaw6",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Rumex obtusifolius",
@@ -445,7 +500,8 @@
     "taxon_id": 63371,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945268/medium.jpg",
     "user_login": "edando23",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Armadillidium vulgare",
@@ -453,7 +509,8 @@
     "taxon_id": 56083,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926832/medium.jpg",
     "user_login": "parishar7",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Limenitis archippus",
@@ -461,7 +518,8 @@
     "taxon_id": 58586,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76343305/medium.jpg",
     "user_login": "ellietaragano",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Fagus grandifolia",
@@ -469,7 +527,8 @@
     "taxon_id": 49202,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76448285/medium.jpg",
     "user_login": "emilymaloney",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Agaricales",
@@ -477,7 +536,8 @@
     "taxon_id": 47167,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76448482/medium.jpg",
     "user_login": "emilymaloney",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Tipuloidea",
@@ -485,7 +545,8 @@
     "taxon_id": 51226,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813210/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Persicaria longiseta",
@@ -493,7 +554,8 @@
     "taxon_id": 143803,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40865828/medium.jpg",
     "user_login": "sophiefinkelstein",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Passer domesticus",
@@ -501,7 +563,8 @@
     "taxon_id": 13858,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76474588/medium.jpg",
     "user_login": "alanabettello",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Liriodendron tulipifera",
@@ -509,7 +572,8 @@
     "taxon_id": 53582,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813842/medium.jpg",
     "user_login": "hschatz98",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Poeae",
@@ -517,7 +581,8 @@
     "taxon_id": 552962,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75994608/medium.jpg",
     "user_login": "anish11",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Theridiidae",
@@ -525,7 +590,8 @@
     "taxon_id": 47371,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1933104/medium.jpg",
     "user_login": "lgertzer",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Parmeliaceae",
@@ -533,7 +599,8 @@
     "taxon_id": 54321,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820772/medium.jpg",
     "user_login": "kathrynbelkin",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Acer palmatum",
@@ -541,7 +608,8 @@
     "taxon_id": 63512,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76374510/medium.jpg",
     "user_login": "sarahb2449",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Camponotus",
@@ -549,7 +617,8 @@
     "taxon_id": 62781,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75618061/medium.jpg",
     "user_login": "damian114",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Tilia cordata",
@@ -557,7 +626,8 @@
     "taxon_id": 132600,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820793/medium.jpg",
     "user_login": "ritwikb",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Pinaceae",
@@ -565,7 +635,8 @@
     "taxon_id": 47562,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820795/medium.jpg",
     "user_login": "ritwikb",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Homo sapiens",
@@ -573,7 +644,8 @@
     "taxon_id": 43584,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926651/medium.jpg",
     "user_login": "mcgovernm97",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Formica pallidefulva",
@@ -581,7 +653,8 @@
     "taxon_id": 1095093,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820952/medium.jpg",
     "user_login": "teenathomas",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Oxalis stricta",
@@ -589,7 +662,8 @@
     "taxon_id": 53183,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820950/medium.JPG",
     "user_login": "mikaelaharmsen",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Ranunculaceae",
@@ -597,7 +671,8 @@
     "taxon_id": 48231,
     "image_url": "http://static.inaturalist.org/photos/3831649/medium.jpg",
     "user_login": "darvinmathew",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Quercus",
@@ -605,7 +680,8 @@
     "taxon_id": 47851,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822399/medium.jpg",
     "user_login": "paulinap1",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Diptera",
@@ -613,7 +689,8 @@
     "taxon_id": 47822,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8179300/medium.jpeg",
     "user_login": "lior2",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Acer",
@@ -621,7 +698,8 @@
     "taxon_id": 47727,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926615/medium.jpg",
     "user_login": "mcgovernm97",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Verbascum thapsus",
@@ -629,7 +707,8 @@
     "taxon_id": 59029,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19127522/medium.jpg",
     "user_login": "neil34",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Hedera helix",
@@ -637,7 +716,8 @@
     "taxon_id": 55882,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19123163/medium.jpeg",
     "user_login": "kathleen91",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Marasmius oreades",
@@ -645,7 +725,8 @@
     "taxon_id": 118240,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1954231/medium.jpg",
     "user_login": "onesock2many",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Calyptratae",
@@ -653,7 +734,8 @@
     "taxon_id": 342767,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1979919/medium.png",
     "user_login": "mattolive",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Araneae",
@@ -661,7 +743,8 @@
     "taxon_id": 47118,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945301/medium.jpg",
     "user_login": "jareds3",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Formicinae",
@@ -669,7 +752,8 @@
     "taxon_id": 244834,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40324663/medium.jpg",
     "user_login": "tae3",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Cyanocitta cristata",
@@ -677,7 +761,8 @@
     "taxon_id": 8229,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945288/medium.jpg",
     "user_login": "edando23",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Pinales",
@@ -685,7 +770,8 @@
     "taxon_id": 47375,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3831382/medium.jpg",
     "user_login": "peter50",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Trombidiidae",
@@ -693,7 +779,8 @@
     "taxon_id": 57652,
     "image_url": "https://static.inaturalist.org/photos/8122701/medium.jpg",
     "user_login": "jillt",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Alliaria petiolata",
@@ -701,7 +788,8 @@
     "taxon_id": 56061,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40425641/medium.jpeg",
     "user_login": "ethanripps",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Chelidonium majus",
@@ -709,7 +797,8 @@
     "taxon_id": 55757,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822573/medium.jpg",
     "user_login": "amandakad",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Vulpes vulpes",
@@ -717,7 +806,8 @@
     "taxon_id": 42069,
     "image_url": "https://static.inaturalist.org/photos/75380637/medium.jpg",
     "user_login": "darren162",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Ardea alba",
@@ -725,7 +815,8 @@
     "taxon_id": 144455,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76254931/medium.jpg",
     "user_login": "tmuhlmeister1",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Sylvilagus floridanus",
@@ -733,7 +824,8 @@
     "taxon_id": 43111,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76238259/medium.jpg",
     "user_login": "antonio641",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Phragmites australis",
@@ -741,7 +833,8 @@
     "taxon_id": 64237,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76208121/medium.jpg",
     "user_login": "brandon_chazan",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Stellaria",
@@ -749,7 +842,8 @@
     "taxon_id": 49389,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3830558/medium.JPG",
     "user_login": "sarahb5",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Rubus",
@@ -757,7 +851,8 @@
     "taxon_id": 47544,
     "image_url": "https://static.inaturalist.org/photos/8122573/medium.jpg",
     "user_login": "jillt",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Limenitis arthemis astyanax",
@@ -765,7 +860,8 @@
     "taxon_id": 58585,
     "image_url": "https://static.inaturalist.org/photos/75348943/medium.jpeg",
     "user_login": "darren162",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Papilio glaucus",
@@ -773,7 +869,8 @@
     "taxon_id": 60551,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75765679/medium.jpg",
     "user_login": "maggiecass18",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Cyprinus carpio",
@@ -781,7 +878,8 @@
     "taxon_id": 53911,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75990142/medium.jpg",
     "user_login": "anish11",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Viburnum acerifolium",
@@ -789,7 +887,8 @@
     "taxon_id": 62997,
     "image_url": "https://static.inaturalist.org/photos/8122962/medium.jpg",
     "user_login": "jillt",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Hedera",
@@ -797,7 +896,8 @@
     "taxon_id": 55883,
     "image_url": "http://static.inaturalist.org/photos/3832628/medium.jpg",
     "user_login": "nebster100",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Lavandula",
@@ -805,7 +905,8 @@
     "taxon_id": 61905,
     "image_url": "https://static.inaturalist.org/photos/76546610/medium.jpg",
     "user_login": "connorippolito",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Taraxacum",
@@ -813,7 +914,8 @@
     "taxon_id": 967514,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76549068/medium.jpg",
     "user_login": "casey_z",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Quiscalus quiscula",
@@ -821,7 +923,8 @@
     "taxon_id": 9602,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76386548/medium.jpg",
     "user_login": "antonio641",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Rhus typhina",
@@ -829,7 +932,8 @@
     "taxon_id": 167829,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19119907/medium.jpg",
     "user_login": "ryant5",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Melospiza melodia",
@@ -837,7 +941,8 @@
     "taxon_id": 9100,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76194012/medium.jpg",
     "user_login": "asherg1",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Philoscia muscorum",
@@ -845,7 +950,8 @@
     "taxon_id": 48292,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19543937/medium.jpeg",
     "user_login": "neilsabu",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Hesperis matronalis",
@@ -853,7 +959,8 @@
     "taxon_id": 47697,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75993470/medium.jpg",
     "user_login": "anish11",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Typha latifolia",
@@ -861,7 +968,8 @@
     "taxon_id": 48685,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75994016/medium.jpg",
     "user_login": "anish11",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Periplaneta americana",
@@ -869,7 +977,8 @@
     "taxon_id": 82231,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8275115/medium.jpg",
     "user_login": "evand1",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Ardea herodias",
@@ -877,7 +986,8 @@
     "taxon_id": 4956,
     "image_url": "https://static.inaturalist.org/photos/75385399/medium.jpg",
     "user_login": "alexab23",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Cardinalis cardinalis",
@@ -885,7 +995,8 @@
     "taxon_id": 9083,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19123063/medium.jpg",
     "user_login": "sienad1",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Ranunculus repens",
@@ -893,7 +1004,8 @@
     "taxon_id": 48229,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19122864/medium.jpeg",
     "user_login": "kathleen91",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Entodon seductrix",
@@ -901,7 +1013,8 @@
     "taxon_id": 128029,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19127507/medium.jpg",
     "user_login": "neil34",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Rhododendron ponticum",
@@ -909,7 +1022,8 @@
     "taxon_id": 60364,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76454227/medium.jpg",
     "user_login": "ivylevitas",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Oligochaeta",
@@ -917,7 +1031,8 @@
     "taxon_id": 333586,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143990/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Quercus",
@@ -925,7 +1040,8 @@
     "taxon_id": 861033,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40324417/medium.jpg",
     "user_login": "aria10118",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Dumetella carolinensis",
@@ -933,7 +1049,8 @@
     "taxon_id": 14995,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76375563/medium.jpg",
     "user_login": "jasmine_lee",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Paeonia",
@@ -941,7 +1058,8 @@
     "taxon_id": 58228,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76381500/medium.jpg",
     "user_login": "kylasevim",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Rhododendron maximum",
@@ -949,7 +1067,8 @@
     "taxon_id": 83059,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41002120/medium.jpg",
     "user_login": "ashithaa1",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Frangula alnus",
@@ -957,7 +1076,8 @@
     "taxon_id": 55972,
     "image_url": "https://static.inaturalist.org/photos/8143805/medium.jpg",
     "user_login": "miab1",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Aves",
@@ -965,7 +1085,8 @@
     "taxon_id": 3,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76423169/medium.jpg",
     "user_login": "antonio641",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Entelegynae",
@@ -973,7 +1094,8 @@
     "taxon_id": 342614,
     "image_url": "https://static.inaturalist.org/photos/41006174/medium.jpg",
     "user_login": "rachelroland",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Campaea perlata",
@@ -981,7 +1103,8 @@
     "taxon_id": 81681,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76176307/medium.jpg",
     "user_login": "saral618",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Veronica officinalis",
@@ -989,7 +1112,8 @@
     "taxon_id": 129020,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143698/medium.jpg",
     "user_login": "aleyah",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Plantago major",
@@ -997,7 +1121,8 @@
     "taxon_id": 58961,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143640/medium.jpeg",
     "user_login": "yanah",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Iris pseudacorus",
@@ -1005,7 +1130,8 @@
     "taxon_id": 47779,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76363497/medium.jpg",
     "user_login": "sanjana9",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Platycladus orientalis",
@@ -1013,7 +1139,8 @@
     "taxon_id": 135659,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40324427/medium.jpg",
     "user_login": "maevedownes",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Petunia \u00d7 atkinsiana",
@@ -1021,7 +1148,8 @@
     "taxon_id": 170914,
     "image_url": "http://static.inaturalist.org/photos/3831643/medium.jpg",
     "user_login": "darvinmathew",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Coccinellidae",
@@ -1029,7 +1157,8 @@
     "taxon_id": 48486,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926754/medium.jpg",
     "user_login": "sabrinak1",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Rosoideae",
@@ -1037,7 +1166,8 @@
     "taxon_id": 415343,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813465/medium.jpg",
     "user_login": "jordansunny",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Poa annua",
@@ -1045,7 +1175,8 @@
     "taxon_id": 52808,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812171/medium.jpeg",
     "user_login": "nickjryu",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Sisyrinchium angustifolium",
@@ -1053,7 +1184,8 @@
     "taxon_id": 49916,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813490/medium.jpg",
     "user_login": "jordansunny",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Coleoptera",
@@ -1061,7 +1193,8 @@
     "taxon_id": 47208,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945063/medium.jpg",
     "user_login": "kylew3",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Corvus brachyrhynchos",
@@ -1069,7 +1202,8 @@
     "taxon_id": 8021,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3814756/medium.jpg",
     "user_login": "natalies1125",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Armadillidium",
@@ -1077,7 +1211,8 @@
     "taxon_id": 48295,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926959/medium.jpg",
     "user_login": "yesilc2",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Toxicodendron rydbergii",
@@ -1085,7 +1220,8 @@
     "taxon_id": 58729,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133606325/medium.jpg",
     "user_login": "kieras",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Potentilla",
@@ -1093,7 +1229,8 @@
     "taxon_id": 53186,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820774/medium.jpg",
     "user_login": "kathrynbelkin",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Lobatae",
@@ -1101,7 +1238,8 @@
     "taxon_id": 861036,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812076/medium.jpeg",
     "user_login": "antonr",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Galium",
@@ -1109,7 +1247,8 @@
     "taxon_id": 53060,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820872/medium.jpeg",
     "user_login": "sarahvarghese32",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Xysticus",
@@ -1117,7 +1256,8 @@
     "taxon_id": 61903,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926840/medium.png",
     "user_login": "yesilc2",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Ranunculus fascicularis",
@@ -1125,7 +1265,8 @@
     "taxon_id": 167722,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813550/medium.jpg",
     "user_login": "joshuakansky",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Apoidea",
@@ -1133,7 +1274,8 @@
     "taxon_id": 47222,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926814/medium.JPG",
     "user_login": "parishar7",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Musca domestica",
@@ -1141,7 +1283,8 @@
     "taxon_id": 120156,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926837/medium.jpg",
     "user_login": "parishar7",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Hosta",
@@ -1149,7 +1292,8 @@
     "taxon_id": 82095,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926680/medium.jpg",
     "user_login": "erics5",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Formica",
@@ -1157,7 +1301,8 @@
     "taxon_id": 47339,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926735/medium.jpg",
     "user_login": "elizabethv3",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Poales",
@@ -1165,7 +1310,8 @@
     "taxon_id": 47162,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926664/medium.jpg",
     "user_login": "erics5",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Quercus alba",
@@ -1173,7 +1319,8 @@
     "taxon_id": 54779,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953809/medium.jpeg",
     "user_login": "airenerosallea",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Bryopsida",
@@ -1181,7 +1328,8 @@
     "taxon_id": 48372,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953782/medium.jpg",
     "user_login": "yesilc2",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Felis catus",
@@ -1189,7 +1337,8 @@
     "taxon_id": 118552,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76570116/medium.jpg",
     "user_login": "brianb4",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Celastrus orbiculatus",
@@ -1197,7 +1346,8 @@
     "taxon_id": 64540,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953779/medium.jpg",
     "user_login": "jareds3",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Zenaida macroura",
@@ -1205,7 +1355,8 @@
     "taxon_id": 3454,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812201/medium.jpg",
     "user_login": "brandonk3",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Dicentra eximia",
@@ -1213,7 +1364,8 @@
     "taxon_id": 63696,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76381811/medium.jpg",
     "user_login": "kylasevim",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Miscanthus sinensis",
@@ -1221,7 +1373,8 @@
     "taxon_id": 165474,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76373296/medium.jpg",
     "user_login": "jasmine_lee",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Syringa komarowii",
@@ -1229,7 +1382,8 @@
     "taxon_id": 1018173,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76376457/medium.jpg",
     "user_login": "sarahb2449",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Chrysemys picta picta",
@@ -1237,7 +1391,8 @@
     "taxon_id": 39775,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76391873/medium.jpg",
     "user_login": "sarahb2449",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Rhododendron indicum",
@@ -1245,7 +1400,8 @@
     "taxon_id": 208830,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76376250/medium.jpg",
     "user_login": "annatom1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Iris versicolor",
@@ -1253,7 +1409,8 @@
     "taxon_id": 48726,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76360616/medium.jpg",
     "user_login": "sanjana9",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Vinca minor",
@@ -1261,7 +1418,8 @@
     "taxon_id": 55844,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76386805/medium.jpg",
     "user_login": "matthewc6",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Anas platyrhynchos domesticus",
@@ -1269,7 +1427,8 @@
     "taxon_id": 236935,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76361345/medium.jpg",
     "user_login": "sanjana9",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Aix sponsa",
@@ -1277,7 +1436,8 @@
     "taxon_id": 7107,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76361892/medium.jpg",
     "user_login": "sanjana9",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Callitriche",
@@ -1285,7 +1445,8 @@
     "taxon_id": 58096,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76362794/medium.jpg",
     "user_login": "patrickeatsflowers",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Carex grayi",
@@ -1293,7 +1454,8 @@
     "taxon_id": 128078,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133918180/medium.jpg",
     "user_login": "juliaiscience",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Porodaedalea pini",
@@ -1301,7 +1463,8 @@
     "taxon_id": 118081,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76363818/medium.jpg",
     "user_login": "patrickeatsflowers",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Anatidae",
@@ -1309,7 +1472,8 @@
     "taxon_id": 6912,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133833473/medium.jpg",
     "user_login": "anthonyd22",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Cotoneaster pannosus",
@@ -1317,7 +1481,8 @@
     "taxon_id": 53375,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76368270/medium.jpg",
     "user_login": "jasmine_lee",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Spizella passerina",
@@ -1325,7 +1490,8 @@
     "taxon_id": 9135,
     "image_url": "https://static.inaturalist.org/photos/133845666/medium.jpg",
     "user_login": "carolinem3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Dianthus chinensis",
@@ -1333,7 +1499,8 @@
     "taxon_id": 161763,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76373614/medium.jpg",
     "user_login": "jasmine_lee",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Pinopsida",
@@ -1341,7 +1508,8 @@
     "taxon_id": 136329,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133794445/medium.jpg",
     "user_login": "emilyd5",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Life",
@@ -1349,7 +1517,8 @@
     "taxon_id": 48460,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133867932/medium.jpg",
     "user_login": "alexozsolak",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Acer rubrum",
@@ -1357,7 +1526,8 @@
     "taxon_id": 48098,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76371668/medium.jpg",
     "user_login": "sarahb2449",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Stropharia rugosoannulata",
@@ -1365,7 +1535,8 @@
     "taxon_id": 119151,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76372627/medium.jpg",
     "user_login": "patrickeatsflowers",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Verbascum",
@@ -1373,7 +1544,8 @@
     "taxon_id": 56165,
     "image_url": "https://static.inaturalist.org/photos/133795167/medium.jpg",
     "user_login": "brooke_mcastocker",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Lamiaceae",
@@ -1381,7 +1553,8 @@
     "taxon_id": 48623,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133792807/medium.jpg",
     "user_login": "katier11",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Linaria vulgaris",
@@ -1389,7 +1562,8 @@
     "taxon_id": 50790,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76382051/medium.jpg",
     "user_login": "kylasevim",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Aculeata",
@@ -1397,7 +1571,8 @@
     "taxon_id": 326777,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133793860/medium.jpg",
     "user_login": "emilyd5",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Rosa canina",
@@ -1405,7 +1580,8 @@
     "taxon_id": 55884,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133920596/medium.jpg",
     "user_login": "juliaiscience",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Sialia sialis",
@@ -1413,7 +1589,8 @@
     "taxon_id": 12942,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76353158/medium.jpg",
     "user_login": "jackmadden5",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Tyrannus tyrannus",
@@ -1421,7 +1598,8 @@
     "taxon_id": 16782,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76352853/medium.jpg",
     "user_login": "jackmadden5",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Potentilla indica",
@@ -1429,7 +1607,8 @@
     "taxon_id": 243824,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76179944/medium.jpg",
     "user_login": "aliyahschwartz",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Quercus rubra",
@@ -1437,7 +1616,8 @@
     "taxon_id": 49005,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76181259/medium.jpg",
     "user_login": "aliyahschwartz",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Bromus inermis",
@@ -1445,7 +1625,8 @@
     "taxon_id": 75903,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76181779/medium.jpg",
     "user_login": "aliyahschwartz",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Carex vulpinoidea",
@@ -1453,7 +1634,8 @@
     "taxon_id": 68052,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76184575/medium.jpg",
     "user_login": "aliyahschwartz",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Gallus gallus domesticus",
@@ -1461,7 +1643,8 @@
     "taxon_id": 505478,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76192899/medium.jpg",
     "user_login": "brandon_chazan",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Cirsium vulgare",
@@ -1469,7 +1652,8 @@
     "taxon_id": 52989,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/136979094/medium.jpg",
     "user_login": "kwadwo",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Chlorophyta",
@@ -1477,7 +1661,8 @@
     "taxon_id": 50863,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/134118712/medium.jpg",
     "user_login": "moosty123",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Schizomantodea",
@@ -1485,7 +1670,8 @@
     "taxon_id": 1097013,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133952671/medium.jpg",
     "user_login": "moosty123",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Piranga rubra",
@@ -1493,7 +1679,8 @@
     "taxon_id": 9915,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133947514/medium.jpg",
     "user_login": "moosty123",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Buxus",
@@ -1501,7 +1688,8 @@
     "taxon_id": 133400,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76196956/medium.jpg",
     "user_login": "asherg1",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Rudbeckia",
@@ -1509,7 +1697,8 @@
     "taxon_id": 62742,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133946967/medium.jpg",
     "user_login": "mariamr48",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Bombus",
@@ -1517,7 +1706,8 @@
     "taxon_id": 52775,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133943587/medium.jpg",
     "user_login": "mariamr48",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Pluteus cervinus",
@@ -1525,7 +1715,8 @@
     "taxon_id": 60782,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76204926/medium.jpg",
     "user_login": "maggiecass18",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Aphaenogaster",
@@ -1533,7 +1724,8 @@
     "taxon_id": 68931,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76205396/medium.jpg",
     "user_login": "maggiecass18",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Trombidioidea",
@@ -1541,7 +1733,8 @@
     "taxon_id": 491889,
     "image_url": "https://static.inaturalist.org/photos/76216890/medium.jpg",
     "user_login": "alizafeffer",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Chamaecyparis obtusa",
@@ -1549,7 +1742,8 @@
     "taxon_id": 133369,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133926884/medium.jpg",
     "user_login": "fweber3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Phalaris arundinacea",
@@ -1557,7 +1751,8 @@
     "taxon_id": 63337,
     "image_url": "https://static.inaturalist.org/photos/76218656/medium.jpg",
     "user_login": "alizafeffer",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Veronica anagallis-aquatica",
@@ -1565,7 +1760,8 @@
     "taxon_id": 57858,
     "image_url": "https://static.inaturalist.org/photos/76218828/medium.jpg",
     "user_login": "alizafeffer",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Geranium maculatum",
@@ -1573,7 +1769,8 @@
     "taxon_id": 47699,
     "image_url": "https://static.inaturalist.org/photos/133924956/medium.jpg",
     "user_login": "dylan_v",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Leucanthemum",
@@ -1581,7 +1778,8 @@
     "taxon_id": 56058,
     "image_url": "https://static.inaturalist.org/photos/133924877/medium.jpg",
     "user_login": "dylan_v",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Equisetum hyemale",
@@ -1589,7 +1787,8 @@
     "taxon_id": 52673,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76230372/medium.jpg",
     "user_login": "brandon_chazan",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Elateroidea",
@@ -1597,7 +1796,8 @@
     "taxon_id": 47207,
     "image_url": "https://static.inaturalist.org/photos/133924840/medium.jpg",
     "user_login": "dylan_v",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Pluteus petasatus",
@@ -1605,7 +1805,8 @@
     "taxon_id": 347897,
     "image_url": "https://static.inaturalist.org/photos/76241019/medium.jpg",
     "user_login": "mfriedman10",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Candolleomyces candolleanus",
@@ -1613,7 +1814,8 @@
     "taxon_id": 1179954,
     "image_url": "https://static.inaturalist.org/photos/76241196/medium.jpg",
     "user_login": "mfriedman10",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Geometridae",
@@ -1621,7 +1823,8 @@
     "taxon_id": 49530,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76251191/medium.jpg",
     "user_login": "tmuhlmeister1",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Ellychnia",
@@ -1629,7 +1832,8 @@
     "taxon_id": 125629,
     "image_url": "https://static.inaturalist.org/photos/133924821/medium.jpg",
     "user_login": "dylan_v",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Robinia",
@@ -1637,7 +1841,8 @@
     "taxon_id": 56089,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76401905/medium.jpg",
     "user_login": "ryanchetchy",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Terrapene carolina carolina",
@@ -1645,7 +1850,8 @@
     "taxon_id": 50001,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76351348/medium.jpg",
     "user_login": "jackmadden5",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Asarum europaeum",
@@ -1653,7 +1859,8 @@
     "taxon_id": 128901,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133920516/medium.jpg",
     "user_login": "juliaiscience",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Dianthus",
@@ -1661,7 +1868,8 @@
     "taxon_id": 60001,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133790215/medium.jpg",
     "user_login": "avad238",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Trombidium",
@@ -1669,7 +1877,8 @@
     "taxon_id": 58398,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76558803/medium.jpg",
     "user_login": "hmckiverkin11",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Schizophora",
@@ -1677,7 +1886,8 @@
     "taxon_id": 48089,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76410871/medium.jpg",
     "user_login": "annatom1",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Gopherus polyphemus",
@@ -1685,7 +1895,8 @@
     "taxon_id": 40085,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76536496/medium.jpg",
     "user_login": "elle46",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Salvia nemorosa",
@@ -1693,7 +1904,8 @@
     "taxon_id": 168387,
     "image_url": "https://static.inaturalist.org/photos/76543803/medium.jpg",
     "user_login": "connorippolito",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Syrphinae",
@@ -1701,7 +1913,8 @@
     "taxon_id": 186841,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76539590/medium.jpg",
     "user_login": "tommysantulli3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Euonymus alatus",
@@ -1709,7 +1922,8 @@
     "taxon_id": 117433,
     "image_url": "https://static.inaturalist.org/photos/104258136/medium.jpg",
     "user_login": "alenasvara",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Iresine",
@@ -1717,7 +1931,8 @@
     "taxon_id": 130871,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/104537734/medium.jpg",
     "user_login": "nikkirosenblatt",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Tabanus americanus",
@@ -1725,7 +1940,8 @@
     "taxon_id": 232173,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76538791/medium.jpg",
     "user_login": "tommysantulli3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Hymenoptera",
@@ -1733,7 +1949,8 @@
     "taxon_id": 47201,
     "image_url": "https://static.inaturalist.org/photos/76539110/medium.png",
     "user_login": "aila14",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Ipomoea pes-caprae",
@@ -1741,7 +1958,8 @@
     "taxon_id": 60879,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76536477/medium.jpg",
     "user_login": "elle46",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Securigera",
@@ -1749,7 +1967,8 @@
     "taxon_id": 127187,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76476136/medium.jpg",
     "user_login": "alanabettello",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Solidago canadensis",
@@ -1757,7 +1976,8 @@
     "taxon_id": 67808,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/106193964/medium.jpg",
     "user_login": "emilyfinnegan8",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Cupressaceae",
@@ -1765,7 +1985,8 @@
     "taxon_id": 47374,
     "image_url": "https://static.inaturalist.org/photos/133140402/medium.jpeg",
     "user_login": "aryan_patel",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Rudbeckia laciniata",
@@ -1773,7 +1994,8 @@
     "taxon_id": 116735,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76536464/medium.jpg",
     "user_login": "elle46",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Platycryptus undatus",
@@ -1781,7 +2003,8 @@
     "taxon_id": 81839,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133149618/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Castianeira",
@@ -1789,7 +2012,8 @@
     "taxon_id": 48134,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133152466/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Asparagales",
@@ -1797,7 +2021,8 @@
     "taxon_id": 47218,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76533915/medium.jpg",
     "user_login": "jakeacosta11",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Mentha",
@@ -1805,7 +2030,8 @@
     "taxon_id": 54570,
     "image_url": "https://static.inaturalist.org/photos/76546655/medium.jpg",
     "user_login": "connorippolito",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Moronidae",
@@ -1813,7 +2039,8 @@
     "taxon_id": 51393,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77237421/medium.jpg",
     "user_login": "cameronlee1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Dryobates pubescens",
@@ -1821,7 +2048,8 @@
     "taxon_id": 792988,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76640049/medium.jpeg",
     "user_login": "jdcazes",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Acer negundo",
@@ -1829,7 +2057,8 @@
     "taxon_id": 47726,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76594977/medium.jpg",
     "user_login": "idanm",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Ranunculus hispidus",
@@ -1837,7 +2066,8 @@
     "taxon_id": 126368,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76550050/medium.jpg",
     "user_login": "casey_z",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Bombus vagans",
@@ -1845,7 +2075,8 @@
     "taxon_id": 128670,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76578627/medium.jpg",
     "user_login": "jlnewman24",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Hylocichla mustelina",
@@ -1853,7 +2084,8 @@
     "taxon_id": 13270,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76551074/medium.jpg",
     "user_login": "casey_z",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Thelypteridaceae",
@@ -1861,7 +2093,8 @@
     "taxon_id": 56184,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76175621/medium.jpg",
     "user_login": "saral618",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Coryphoideae",
@@ -1869,7 +2102,8 @@
     "taxon_id": 475433,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76554014/medium.jpg",
     "user_login": "brianb4",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Stomolophus meleagris",
@@ -1877,7 +2111,8 @@
     "taxon_id": 126393,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76554626/medium.jpg",
     "user_login": "brianb4",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Camponotus chromaiodes",
@@ -1885,7 +2120,8 @@
     "taxon_id": 62780,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76575542/medium.jpg",
     "user_login": "idanm",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Diplopoda",
@@ -1893,7 +2129,8 @@
     "taxon_id": 47735,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76555798/medium.jpg",
     "user_login": "matthew965",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Pelargonium",
@@ -1901,7 +2138,8 @@
     "taxon_id": 72281,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76568207/medium.jpg",
     "user_login": "brianb4",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Chilopoda",
@@ -1909,7 +2147,8 @@
     "taxon_id": 49556,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76556448/medium.jpg",
     "user_login": "matthew965",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Trachemys scripta",
@@ -1917,7 +2156,8 @@
     "taxon_id": 39782,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76557671/medium.jpg",
     "user_login": "hmckiverkin11",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Toxicodendron",
@@ -1925,7 +2165,8 @@
     "taxon_id": 51079,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76558418/medium.jpg",
     "user_login": "avadominick",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Vespula maculifrons",
@@ -1933,7 +2174,8 @@
     "taxon_id": 119994,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76564491/medium.jpg",
     "user_login": "ajsirota",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Tachycineta bicolor",
@@ -1941,7 +2183,8 @@
     "taxon_id": 11935,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76531707/medium.jpg",
     "user_login": "ryanchetchy",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Menispermum",
@@ -1949,7 +2192,8 @@
     "taxon_id": 130899,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133460440/medium.jpg",
     "user_login": "carinamh",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Pilosella",
@@ -1957,7 +2201,8 @@
     "taxon_id": 203680,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133785912/medium.jpg",
     "user_login": "fweber3",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Pezizomycotina",
@@ -1965,7 +2210,8 @@
     "taxon_id": 372740,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133712944/medium.jpg",
     "user_login": "kimt315",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Cypripedium acaule",
@@ -1973,7 +2219,8 @@
     "taxon_id": 47588,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76429202/medium.jpg",
     "user_login": "rebekahf06",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Prunus americana",
@@ -1981,7 +2228,8 @@
     "taxon_id": 48629,
     "image_url": "https://static.inaturalist.org/photos/133638765/medium.jpeg",
     "user_login": "aryan_patel",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Carex pedunculata",
@@ -1989,7 +2237,8 @@
     "taxon_id": 160059,
     "image_url": "https://static.inaturalist.org/photos/133651739/medium.jpeg",
     "user_login": "aryan_patel",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Vinca major",
@@ -1997,7 +2246,8 @@
     "taxon_id": 53326,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76427274/medium.jpg",
     "user_login": "rebekahf06",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Canis latrans",
@@ -2005,7 +2255,8 @@
     "taxon_id": 42051,
     "image_url": "https://static.inaturalist.org/photos/76425101/medium.jpeg",
     "user_login": "adam635",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Crinocheta",
@@ -2013,7 +2264,8 @@
     "taxon_id": 343798,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133685860/medium.jpg",
     "user_login": "j05hua",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Geophilomorpha",
@@ -2021,7 +2273,8 @@
     "taxon_id": 67662,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76423508/medium.jpg",
     "user_login": "antonio641",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Berberis thunbergii",
@@ -2029,7 +2282,8 @@
     "taxon_id": 58727,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133460567/medium.jpg",
     "user_login": "carinamh",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Celtis occidentalis",
@@ -2037,7 +2291,8 @@
     "taxon_id": 54857,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133713079/medium.jpg",
     "user_login": "kimt315",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Armadillidium nasatum",
@@ -2045,7 +2300,8 @@
     "taxon_id": 210119,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76423434/medium.jpg",
     "user_login": "antonio641",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Lithobates catesbeianus",
@@ -2053,7 +2309,8 @@
     "taxon_id": 65979,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76558712/medium.jpg",
     "user_login": "avadominick",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Lamium purpureum",
@@ -2061,7 +2318,8 @@
     "taxon_id": 55851,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76422548/medium.jpeg",
     "user_login": "katyanna",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Pardosa",
@@ -2069,7 +2327,8 @@
     "taxon_id": 47415,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133784874/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Melissa officinalis",
@@ -2077,7 +2336,8 @@
     "taxon_id": 59901,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76422527/medium.jpeg",
     "user_login": "katyanna",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Artemisia",
@@ -2085,7 +2345,8 @@
     "taxon_id": 52855,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133621640/medium.jpg",
     "user_login": "veronikad",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Neoscona crucifera",
@@ -2093,7 +2354,8 @@
     "taxon_id": 85034,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76429992/medium.jpg",
     "user_login": "rebekahf06",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Meleagris gallopavo",
@@ -2101,7 +2363,8 @@
     "taxon_id": 906,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76437427/medium.jpeg",
     "user_login": "samanthaw6",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Equus caballus",
@@ -2109,7 +2372,8 @@
     "taxon_id": 209233,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76438821/medium.jpg",
     "user_login": "ilyssa",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Iris \u00d7 germanica",
@@ -2117,7 +2381,8 @@
     "taxon_id": 709635,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133606379/medium.jpg",
     "user_login": "kieras",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Plutella",
@@ -2125,7 +2390,8 @@
     "taxon_id": 126767,
     "image_url": "https://static.inaturalist.org/photos/133601196/medium.png",
     "user_login": "nickyg09",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Myrmentoma",
@@ -2133,7 +2399,8 @@
     "taxon_id": 363598,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76439048/medium.jpg",
     "user_login": "emmagarbowitz17",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Anthemideae",
@@ -2141,7 +2408,8 @@
     "taxon_id": 373844,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133461575/medium.jpg",
     "user_login": "carinamh",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Quercus stellata",
@@ -2149,7 +2417,8 @@
     "taxon_id": 119269,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76439366/medium.jpg",
     "user_login": "emmagarbowitz17",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Potentilla canadensis",
@@ -2157,7 +2426,8 @@
     "taxon_id": 81597,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76442711/medium.jpg",
     "user_login": "emmagarbowitz17",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Pterygota",
@@ -2165,7 +2435,8 @@
     "taxon_id": 184884,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76445444/medium.jpg",
     "user_login": "jamespurcell",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Corvus",
@@ -2173,7 +2444,8 @@
     "taxon_id": 7998,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76446441/medium.jpg",
     "user_login": "jamespurcell",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Myrmicinae",
@@ -2181,7 +2453,8 @@
     "taxon_id": 69143,
     "image_url": "https://static.inaturalist.org/photos/76456371/medium.jpg",
     "user_login": "connorippolito",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Acariformes",
@@ -2189,7 +2462,8 @@
     "taxon_id": 129763,
     "image_url": "https://static.inaturalist.org/photos/76456984/medium.jpg",
     "user_login": "connorippolito",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Myrmica",
@@ -2197,7 +2471,8 @@
     "taxon_id": 69369,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76472797/medium.jpg",
     "user_login": "alanabettello",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Cyprinus",
@@ -2205,7 +2480,8 @@
     "taxon_id": 53912,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76473601/medium.jpg",
     "user_login": "alanabettello",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Ischnura posita",
@@ -2213,7 +2489,8 @@
     "taxon_id": 103498,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76474061/medium.jpg",
     "user_login": "alanabettello",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Musca",
@@ -2221,7 +2498,8 @@
     "taxon_id": 120157,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133719994/medium.jpg",
     "user_login": "kimt315",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Deidamia inscriptum",
@@ -2229,7 +2507,8 @@
     "taxon_id": 143452,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1922322/medium.JPG",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Cerrena unicolor",
@@ -2237,7 +2516,8 @@
     "taxon_id": 194476,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76175360/medium.jpg",
     "user_login": "saral618",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Persicaria",
@@ -2245,7 +2525,8 @@
     "taxon_id": 61787,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3826792/medium.JPG",
     "user_login": "jordanc9998",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Plagiomnium",
@@ -2253,7 +2534,8 @@
     "taxon_id": 122672,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822557/medium.jpg",
     "user_login": "elianascobey",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Fraxinus",
@@ -2261,7 +2543,8 @@
     "taxon_id": 54806,
     "image_url": "http://static.inaturalist.org/photos/3822456/medium.jpg",
     "user_login": "naturalist1596",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Philonotis fontana",
@@ -2269,7 +2552,8 @@
     "taxon_id": 133809,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822445/medium.jpg",
     "user_login": "deanaprochnau",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Magnoliales",
@@ -2277,7 +2561,8 @@
     "taxon_id": 50898,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822418/medium.jpg",
     "user_login": "paulinap1",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Liliopsida",
@@ -2285,7 +2570,8 @@
     "taxon_id": 47163,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822388/medium.jpg",
     "user_login": "paulinap1",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Hieracium murorum",
@@ -2293,7 +2579,8 @@
     "taxon_id": 163793,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822382/medium.jpg",
     "user_login": "deanaprochnau",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Veronica chamaedrys",
@@ -2301,7 +2588,8 @@
     "taxon_id": 51610,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822320/medium.jpg",
     "user_login": "paulinap1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Hieraciinae",
@@ -2309,7 +2597,8 @@
     "taxon_id": 632702,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822301/medium.jpg",
     "user_login": "rebeccab2",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Podabrus tricostatus",
@@ -2317,7 +2606,8 @@
     "taxon_id": 228447,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822242/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Chenopodium album",
@@ -2325,7 +2615,8 @@
     "taxon_id": 58127,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820957/medium.jpg",
     "user_login": "teenathomas",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Chrysoclista linneella",
@@ -2333,7 +2624,8 @@
     "taxon_id": 364095,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820893/medium.jpg",
     "user_login": "kathrynbelkin",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Gypsophila elegans",
@@ -2341,7 +2633,8 @@
     "taxon_id": 77314,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820911/medium.jpg",
     "user_login": "teenathomas",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Triticum aestivum",
@@ -2349,7 +2642,8 @@
     "taxon_id": 64161,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820865/medium.jpeg",
     "user_login": "sarahvarghese32",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Oniscidea",
@@ -2357,7 +2651,8 @@
     "taxon_id": 84718,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820862/medium.jpg",
     "user_login": "kathrynbelkin",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Paspalum dilatatum",
@@ -2365,7 +2660,8 @@
     "taxon_id": 60295,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820736/medium.jpg",
     "user_login": "heathercazes",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Araneomorphae",
@@ -2373,7 +2669,8 @@
     "taxon_id": 120474,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3822826/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Lactuca serriola",
@@ -2381,7 +2678,8 @@
     "taxon_id": 53107,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3826803/medium.JPG",
     "user_login": "jordanc9998",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Pseudeuophrys erratica",
@@ -2389,7 +2687,8 @@
     "taxon_id": 360735,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813885/medium.jpg",
     "user_login": "elianascobey",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Oxalis",
@@ -2397,7 +2696,8 @@
     "taxon_id": 864989,
     "image_url": "http://static.inaturalist.org/photos/3830756/medium.jpg",
     "user_login": "naturalist1600",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Cichorieae",
@@ -2405,7 +2705,8 @@
     "taxon_id": 359450,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143679/medium.jpg",
     "user_login": "aleyah",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Trombidiformes",
@@ -2413,7 +2714,8 @@
     "taxon_id": 83740,
     "image_url": "https://static.inaturalist.org/photos/8123082/medium.jpg",
     "user_login": "zackk1",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Philaenus spumarius",
@@ -2421,7 +2723,8 @@
     "taxon_id": 56189,
     "image_url": "https://static.inaturalist.org/photos/8122850/medium.jpg",
     "user_login": "zackk1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Rhagio mystaceus",
@@ -2429,7 +2732,8 @@
     "taxon_id": 319831,
     "image_url": "https://static.inaturalist.org/photos/8122841/medium.jpg",
     "user_login": "zackk1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Salicaceae",
@@ -2437,7 +2741,8 @@
     "taxon_id": 47567,
     "image_url": "https://static.inaturalist.org/photos/8122801/medium.jpg",
     "user_login": "jillt",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Trombidia",
@@ -2445,7 +2750,8 @@
     "taxon_id": 635761,
     "image_url": "https://static.inaturalist.org/photos/8122805/medium.jpg",
     "user_login": "zackk1",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Polygonum aviculare aviculare",
@@ -2453,7 +2759,8 @@
     "taxon_id": 80151,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3834332/medium.jpg",
     "user_login": "navneethp2",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Ricinus communis",
@@ -2461,7 +2768,8 @@
     "taxon_id": 56739,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3834164/medium.jpg",
     "user_login": "navneethp2",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Rumex acetosa acetosa",
@@ -2469,7 +2777,8 @@
     "taxon_id": 238331,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3832838/medium.JPG",
     "user_login": "sarahb5",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Arctium lappa",
@@ -2477,7 +2786,8 @@
     "taxon_id": 75501,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3832272/medium.JPG",
     "user_login": "sarahb5",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Nepeta cataria",
@@ -2485,7 +2795,8 @@
     "taxon_id": 48622,
     "image_url": "http://static.inaturalist.org/photos/3831685/medium.jpg",
     "user_login": "darvinmathew",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Clematis campaniflora",
@@ -2493,7 +2804,8 @@
     "taxon_id": 160682,
     "image_url": "http://static.inaturalist.org/photos/3831666/medium.jpg",
     "user_login": "darvinmathew",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Buddleja davidii",
@@ -2501,7 +2813,8 @@
     "taxon_id": 75916,
     "image_url": "http://static.inaturalist.org/photos/3831647/medium.jpg",
     "user_login": "darvinmathew",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Ranunculus bulbosus",
@@ -2509,7 +2822,8 @@
     "taxon_id": 78820,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3831427/medium.JPG",
     "user_login": "mfoley614",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Tipulomorpha",
@@ -2517,7 +2831,8 @@
     "taxon_id": 179916,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3831366/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Viola sororia",
@@ -2525,7 +2840,8 @@
     "taxon_id": 82816,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3820732/medium.jpg",
     "user_login": "heathercazes",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Celiptera frustulum",
@@ -2533,7 +2849,8 @@
     "taxon_id": 216354,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3813637/medium.jpg",
     "user_login": "joshuakansky",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Mentheae",
@@ -2541,7 +2858,8 @@
     "taxon_id": 918917,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76146468/medium.jpg",
     "user_login": "benjaminf2",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Sambucus canadensis",
@@ -2549,7 +2867,8 @@
     "taxon_id": 84300,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945264/medium.jpg",
     "user_login": "edando23",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Faboideae",
@@ -2557,7 +2876,8 @@
     "taxon_id": 507502,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945265/medium.jpg",
     "user_login": "edando23",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Sporobolus heterolepis",
@@ -2565,7 +2885,8 @@
     "taxon_id": 120557,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945066/medium.jpg",
     "user_login": "kylew3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Festuca longifolia",
@@ -2573,7 +2894,8 @@
     "taxon_id": 363733,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1950135/medium.jpg",
     "user_login": "kylew3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Zelus luridus",
@@ -2581,7 +2903,8 @@
     "taxon_id": 129423,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1932863/medium.jpg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Jungermannia exsertifolia cordifolia",
@@ -2589,7 +2912,8 @@
     "taxon_id": 236562,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1929623/medium.jpg",
     "user_login": "elizabethv3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Securigera varia",
@@ -2597,7 +2921,8 @@
     "taxon_id": 127186,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926951/medium.jpg",
     "user_login": "sabrinak1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Insecta",
@@ -2605,7 +2930,8 @@
     "taxon_id": 47158,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926893/medium.jpg",
     "user_login": "davidc6",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Lumbricus terrestris",
@@ -2613,7 +2939,8 @@
     "taxon_id": 81545,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926862/medium.jpg",
     "user_login": "yesilc2",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Sandalus niger",
@@ -2621,7 +2948,8 @@
     "taxon_id": 154329,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926798/medium.jpg",
     "user_login": "retnies123",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Sphingidae",
@@ -2629,7 +2957,8 @@
     "taxon_id": 47213,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926797/medium.png",
     "user_login": "retnies123",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Sphecius speciosus",
@@ -2637,7 +2966,8 @@
     "taxon_id": 51954,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926762/medium.png",
     "user_login": "airenerosallea",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Euonymus",
@@ -2645,7 +2975,8 @@
     "taxon_id": 47538,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926736/medium.jpg",
     "user_login": "kylew3",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Lepidoptera",
@@ -2653,7 +2984,8 @@
     "taxon_id": 47157,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926691/medium.jpg",
     "user_login": "erics5",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Hydrangea",
@@ -2661,7 +2993,8 @@
     "taxon_id": 83157,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926687/medium.jpg",
     "user_login": "erics5",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Meconema thalassinum",
@@ -2669,7 +3002,8 @@
     "taxon_id": 119170,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1926679/medium.jpg",
     "user_login": "erics5",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Araneoidea",
@@ -2677,7 +3011,8 @@
     "taxon_id": 319384,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945257/medium.jpg",
     "user_login": "edando23",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Menidia menidia",
@@ -2685,7 +3020,8 @@
     "taxon_id": 146827,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945259/medium.jpg",
     "user_login": "davidc6",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Platanus",
@@ -2693,7 +3029,8 @@
     "taxon_id": 49664,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812148/medium.jpeg",
     "user_login": "nickjryu",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Chrysopilus thoracicus",
@@ -2701,7 +3038,8 @@
     "taxon_id": 61492,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945291/medium.jpg",
     "user_login": "edando23",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Coenosia",
@@ -2709,7 +3047,8 @@
     "taxon_id": 132071,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812133/medium.jpg",
     "user_login": "aleckranyak123",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Lysimachia arvensis",
@@ -2717,7 +3056,8 @@
     "taxon_id": 791928,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812121/medium.jpg",
     "user_login": "aleckranyak123",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Lasius",
@@ -2725,7 +3065,8 @@
     "taxon_id": 931956,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812109/medium.jpeg",
     "user_login": "antonr",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Digitaria",
@@ -2733,7 +3074,8 @@
     "taxon_id": 51637,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812036/medium.jpg",
     "user_login": "alexadrapkin",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Brassica carinata",
@@ -2741,7 +3083,8 @@
     "taxon_id": 159414,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812024/medium.jpg",
     "user_login": "alexadrapkin",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Juniperus",
@@ -2749,7 +3092,8 @@
     "taxon_id": 47574,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812023/medium.jpg",
     "user_login": "alexadrapkin",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Erigeron",
@@ -2757,7 +3101,8 @@
     "taxon_id": 50879,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812021/medium.jpg",
     "user_login": "alexadrapkin",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Vanessa cardui",
@@ -2765,7 +3110,8 @@
     "taxon_id": 48548,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3812011/medium.jpg",
     "user_login": "brandonk3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Hemigrapsus sanguineus",
@@ -2773,7 +3119,8 @@
     "taxon_id": 48904,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1979921/medium.jpg",
     "user_login": "mattolive",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Fundulus diaphanus",
@@ -2781,7 +3128,8 @@
     "taxon_id": 101053,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1979920/medium.jpg",
     "user_login": "mattolive",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Molothrus ater",
@@ -2789,7 +3137,8 @@
     "taxon_id": 10373,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953914/medium.JPG",
     "user_login": "blancam1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Sergiolus capulatus",
@@ -2797,7 +3146,8 @@
     "taxon_id": 153622,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953856/medium.JPG",
     "user_login": "blancam1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Membracoidea",
@@ -2805,7 +3155,8 @@
     "taxon_id": 49025,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953844/medium.jpg",
     "user_login": "abhiraj311",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Acer platanoides",
@@ -2813,7 +3164,8 @@
     "taxon_id": 54763,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1953775/medium.JPG",
     "user_login": "blancam1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Symplocarpus foetidus",
@@ -2821,7 +3173,8 @@
     "taxon_id": 48961,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1945393/medium.jpeg",
     "user_login": "airenerosallea",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Trametes versicolor",
@@ -2829,7 +3182,8 @@
     "taxon_id": 54134,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143709/medium.jpg",
     "user_login": "aleyah",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Acer saccharum",
@@ -2837,7 +3191,8 @@
     "taxon_id": 52543,
     "image_url": "https://static.inaturalist.org/photos/8143780/medium.jpg",
     "user_login": "miab1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Digitaria sanguinalis",
@@ -2845,7 +3200,8 @@
     "taxon_id": 51633,
     "image_url": "https://static.inaturalist.org/photos/8143817/medium.jpg",
     "user_login": "miab1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Sherardia arvensis",
@@ -2853,7 +3209,8 @@
     "taxon_id": 47691,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41799093/medium.jpeg",
     "user_login": "zenak1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Schizophyllum commune",
@@ -2861,7 +3218,8 @@
     "taxon_id": 54573,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41020281/medium.jpg",
     "user_login": "priyanka13",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Cerastium",
@@ -2869,7 +3227,8 @@
     "taxon_id": 50853,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41020170/medium.jpg",
     "user_login": "priyanka13",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Buxus sempervirens",
@@ -2877,7 +3236,8 @@
     "taxon_id": 133397,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41001763/medium.jpg",
     "user_login": "ashithaa1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Muhlenbergia rigens",
@@ -2885,7 +3245,8 @@
     "taxon_id": 59094,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41001464/medium.jpg",
     "user_login": "ashithaa1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Caprifolioideae",
@@ -2893,7 +3254,8 @@
     "taxon_id": 345605,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40997798/medium.jpg",
     "user_login": "prclaudiajo",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Urtica dioica",
@@ -2901,7 +3263,8 @@
     "taxon_id": 51884,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40975022/medium.jpg",
     "user_login": "sophiefinkelstein",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Lamiales",
@@ -2909,7 +3272,8 @@
     "taxon_id": 48151,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40965548/medium.jpg",
     "user_login": "bschatz01",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Chrysopilus",
@@ -2917,7 +3281,8 @@
     "taxon_id": 61493,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40868138/medium.jpeg",
     "user_login": "bschatz01",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Scolochloa festucacea",
@@ -2925,7 +3290,8 @@
     "taxon_id": 168687,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40868045/medium.jpg",
     "user_login": "sleoce",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Corylus avellana",
@@ -2933,7 +3299,8 @@
     "taxon_id": 54491,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40867357/medium.jpg",
     "user_login": "bschatz01",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Avenella flexuosa",
@@ -2941,7 +3308,8 @@
     "taxon_id": 288069,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40866244/medium.jpg",
     "user_login": "sophiefinkelstein",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Lonicera japonica",
@@ -2949,7 +3317,8 @@
     "taxon_id": 77835,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40864416/medium.jpg",
     "user_login": "angelap1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Quercus velutina",
@@ -2957,7 +3326,8 @@
     "taxon_id": 49006,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40847416/medium.jpg",
     "user_login": "aimen",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Arenaria serpyllifolia",
@@ -2965,7 +3335,8 @@
     "taxon_id": 75553,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40531046/medium.jpeg",
     "user_login": "mariamalex25",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Galium mollugo",
@@ -2973,7 +3344,8 @@
     "taxon_id": 77206,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40527757/medium.jpeg",
     "user_login": "mariamalex25",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Physcia",
@@ -2981,7 +3353,8 @@
     "taxon_id": 117887,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41020408/medium.jpg",
     "user_login": "priyanka13",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Helianthus tuberosus",
@@ -2989,7 +3362,8 @@
     "taxon_id": 122970,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41799095/medium.jpeg",
     "user_login": "zenak1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Dysdera crocata",
@@ -2997,7 +3371,8 @@
     "taxon_id": 68912,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143827/medium.jpg",
     "user_login": "jmamp",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Morus alba",
@@ -3005,7 +3380,8 @@
     "taxon_id": 56090,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/41799097/medium.jpg",
     "user_login": "zenak1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Iris",
@@ -3013,7 +3389,8 @@
     "taxon_id": 47780,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76142924/medium.jpg",
     "user_login": "benjaminf2",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Narcissus papyraceus",
@@ -3021,7 +3398,8 @@
     "taxon_id": 123159,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76142792/medium.jpg",
     "user_login": "benjaminf2",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Kalmia",
@@ -3029,7 +3407,8 @@
     "taxon_id": 49398,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76135363/medium.jpg",
     "user_login": "annatom1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Toxostoma rufum",
@@ -3037,7 +3416,8 @@
     "taxon_id": 14898,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75995720/medium.jpg",
     "user_login": "anish11",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Hirundo rustica",
@@ -3045,7 +3425,8 @@
     "taxon_id": 11901,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75995064/medium.jpg",
     "user_login": "anish11",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Anatrytone logan",
@@ -3053,7 +3434,8 @@
     "taxon_id": 58509,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75992654/medium.jpg",
     "user_login": "anish11",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Coenagrionidae",
@@ -3061,7 +3443,8 @@
     "taxon_id": 47925,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75989657/medium.jpg",
     "user_login": "anish11",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Viola \u00d7 wittrockiana",
@@ -3069,7 +3452,8 @@
     "taxon_id": 171203,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75979684/medium.jpeg",
     "user_login": "jdcazes",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Enallagma geminatum",
@@ -3077,7 +3461,8 @@
     "taxon_id": 99912,
     "image_url": "https://static.inaturalist.org/photos/75954704/medium.jpeg",
     "user_login": "ninal",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Phyllostachys aurea",
@@ -3085,7 +3470,8 @@
     "taxon_id": 78563,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75930506/medium.jpg",
     "user_login": "sydneyferst",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Calliphora vicina",
@@ -3093,7 +3479,8 @@
     "taxon_id": 119115,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75930456/medium.jpg",
     "user_login": "sydneyferst",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Cupido comyntas",
@@ -3101,7 +3488,8 @@
     "taxon_id": 122381,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75611399/medium.jpg",
     "user_login": "alanabettello",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Halyomorpha halys",
@@ -3109,7 +3497,8 @@
     "taxon_id": 81923,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75389544/medium.jpg",
     "user_login": "betty165",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Procyon lotor",
@@ -3117,7 +3506,8 @@
     "taxon_id": 41663,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/75359986/medium.jpg",
     "user_login": "maggiecass18",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Thamnophis",
@@ -3125,7 +3515,8 @@
     "taxon_id": 28339,
     "image_url": "https://static.inaturalist.org/photos/75203299/medium.png",
     "user_login": "darren162",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Lepidium virginicum",
@@ -3133,7 +3524,8 @@
     "taxon_id": 77676,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40519022/medium.jpeg",
     "user_login": "mariamalex25",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Quercus macrocarpa",
@@ -3141,7 +3533,8 @@
     "taxon_id": 54781,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40427097/medium.jpg",
     "user_login": "caroline289",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Blatta orientalis",
@@ -3149,7 +3542,8 @@
     "taxon_id": 154213,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40426710/medium.jpg",
     "user_login": "anisha1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Candelaria concolor",
@@ -3157,7 +3551,8 @@
     "taxon_id": 69430,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40426572/medium.jpg",
     "user_login": "anisha1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Nephrotoma",
@@ -3165,7 +3560,8 @@
     "taxon_id": 60417,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19120516/medium.jpg",
     "user_login": "celestinec1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Cirsium arvense",
@@ -3173,7 +3569,8 @@
     "taxon_id": 60132,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19120313/medium.jpg",
     "user_login": "ryant5",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Arctium",
@@ -3181,7 +3578,8 @@
     "taxon_id": 59571,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19120094/medium.jpg",
     "user_login": "britneyl",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Myriapoda",
@@ -3189,7 +3587,8 @@
     "taxon_id": 144128,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8273454/medium.jpg",
     "user_login": "evand1",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Pinus resinosa",
@@ -3197,7 +3596,8 @@
     "taxon_id": 52383,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8161901/medium.jpeg",
     "user_login": "harrisongarcia",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Sarcophagidae",
@@ -3205,7 +3605,8 @@
     "taxon_id": 52910,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8161331/medium.jpg",
     "user_login": "evand1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Sisyrinchium",
@@ -3213,7 +3614,8 @@
     "taxon_id": 49917,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8161205/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Alticini",
@@ -3221,7 +3623,8 @@
     "taxon_id": 155185,
     "image_url": "https://static.inaturalist.org/photos/8160873/medium.jpg",
     "user_login": "zackk1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Condylostylus",
@@ -3229,7 +3632,8 @@
     "taxon_id": 122222,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8160782/medium.jpg",
     "user_login": "evand1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Smilax",
@@ -3237,7 +3641,8 @@
     "taxon_id": 60748,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8160745/medium.jpg",
     "user_login": "evand1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Pilosella caespitosa",
@@ -3245,7 +3650,8 @@
     "taxon_id": 711086,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8144082/medium.jpeg",
     "user_login": "harrisongarcia",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Scarabaeoidea",
@@ -3253,7 +3659,8 @@
     "taxon_id": 48202,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8144059/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Hypochaeris radicata",
@@ -3261,7 +3668,8 @@
     "taxon_id": 53104,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143978/medium.jpeg",
     "user_login": "harrisongarcia",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Polyporales",
@@ -3269,7 +3677,8 @@
     "taxon_id": 47380,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143882/medium.jpeg",
     "user_login": "harrisongarcia",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Oniscus asellus",
@@ -3277,7 +3686,8 @@
     "taxon_id": 48284,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8143858/medium.jpg",
     "user_login": "jmamp",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Bromus",
@@ -3285,7 +3695,8 @@
     "taxon_id": 52701,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19123266/medium.jpg",
     "user_login": "sienad1",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Achillea",
@@ -3293,7 +3704,8 @@
     "taxon_id": 52818,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19123293/medium.jpeg",
     "user_login": "kathleen91",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Rubus allegheniensis",
@@ -3301,7 +3713,8 @@
     "taxon_id": 82110,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19123459/medium.jpeg",
     "user_login": "kathleen91",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Abies",
@@ -3309,7 +3722,8 @@
     "taxon_id": 54262,
     "image_url": "https://static.inaturalist.org/photos/40233150/medium.jpg",
     "user_login": "arielleclarke",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Acer campestre",
@@ -3317,7 +3731,8 @@
     "taxon_id": 56193,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40426447/medium.jpg",
     "user_login": "anisha1",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Apocynaceae",
@@ -3325,7 +3740,8 @@
     "taxon_id": 47362,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40425634/medium.jpeg",
     "user_login": "ethanripps",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Parthenocissus",
@@ -3333,7 +3749,8 @@
     "taxon_id": 50280,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40324685/medium.jpg",
     "user_login": "tae3",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Flavoparmelia baltimorensis",
@@ -3341,7 +3758,8 @@
     "taxon_id": 148365,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40324630/medium.jpg",
     "user_login": "tae3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Oenothera",
@@ -3349,7 +3767,8 @@
     "taxon_id": 48626,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40324063/medium.jpg",
     "user_login": "loganm2",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Prunella vulgaris",
@@ -3357,7 +3776,8 @@
     "taxon_id": 52764,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/40285145/medium.jpg",
     "user_login": "tae3",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Tilia",
@@ -3365,7 +3785,8 @@
     "taxon_id": 54856,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19576092/medium.jpg",
     "user_login": "jvayal111",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Anthomyiidae",
@@ -3373,7 +3794,8 @@
     "taxon_id": 49996,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19177672/medium.jpeg",
     "user_login": "lgertzer",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Taxus",
@@ -3381,7 +3803,8 @@
     "taxon_id": 47555,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19576072/medium.jpg",
     "user_login": "jvayal111",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Thuja",
@@ -3389,7 +3812,8 @@
     "taxon_id": 48253,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19575997/medium.jpg",
     "user_login": "jvayal111",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Ericaceae",
@@ -3397,7 +3821,8 @@
     "taxon_id": 133387,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19544308/medium.jpeg",
     "user_login": "neilsabu",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Hypnales",
@@ -3405,7 +3830,8 @@
     "taxon_id": 67858,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19276379/medium.jpg",
     "user_login": "olivia122",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Oxalis dillenii",
@@ -3413,7 +3839,8 @@
     "taxon_id": 84772,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19275121/medium.jpg",
     "user_login": "neil34",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Persicaria maculosa",
@@ -3421,7 +3848,8 @@
     "taxon_id": 56166,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/19274616/medium.jpg",
     "user_login": "neil34",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Ribes sanguineum",
@@ -3429,6 +3857,7 @@
     "taxon_id": 53435,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/137023109/medium.jpg",
     "user_login": "maxkahann",
-    "count": 1
+    "count": 1,
+    "is_species": true
   }
 ]

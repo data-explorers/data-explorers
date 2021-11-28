@@ -5,7 +5,8 @@
     "taxon_id": 47219,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4502260/medium.jpg",
     "user_login": "globalgator7",
-    "count": 249
+    "count": 249,
+    "is_species": true
   },
   {
     "scientific_name": "Neoxylocopa",
@@ -13,7 +14,8 @@
     "taxon_id": 557049,
     "image_url": "https://static.inaturalist.org/photos/18229383/medium.jpg",
     "user_login": "juancarloscano",
-    "count": 50
+    "count": 50,
+    "is_species": true
   },
   {
     "scientific_name": "Dialictus",
@@ -21,7 +23,8 @@
     "taxon_id": 126545,
     "image_url": "https://static.inaturalist.org/photos/107381028/medium.jpg",
     "user_login": "capacoscar",
-    "count": 16
+    "count": 16,
+    "is_species": true
   },
   {
     "scientific_name": "Exomalopsis bruesi",
@@ -29,7 +32,8 @@
     "taxon_id": 1073687,
     "image_url": "https://static.inaturalist.org/photos/91571816/medium.jpg",
     "user_login": "capacoscar",
-    "count": 12
+    "count": 12,
+    "is_species": true
   },
   {
     "scientific_name": "Colletes",
@@ -37,7 +41,8 @@
     "taxon_id": 127741,
     "image_url": "https://static.inaturalist.org/photos/74553474/medium.jpg",
     "user_login": "capacoscar",
-    "count": 12
+    "count": 12,
+    "is_species": true
   },
   {
     "scientific_name": "Augochlorini",
@@ -45,7 +50,8 @@
     "taxon_id": 203037,
     "image_url": "https://static.inaturalist.org/photos/108456596/medium.jpeg",
     "user_login": "capacoscar",
-    "count": 11
+    "count": 11,
+    "is_species": false
   },
   {
     "scientific_name": "Xylocopa",
@@ -53,7 +59,8 @@
     "taxon_id": 51111,
     "image_url": "https://static.inaturalist.org/photos/11931745/medium.jpg",
     "user_login": "lanarizotabonita",
-    "count": 11
+    "count": 11,
+    "is_species": true
   },
   {
     "scientific_name": "Melitoma segmentaria",
@@ -61,7 +68,8 @@
     "taxon_id": 270959,
     "image_url": "https://static.inaturalist.org/photos/59624735/medium.jpg",
     "user_login": "diego_amazonia",
-    "count": 7
+    "count": 7,
+    "is_species": true
   },
   {
     "scientific_name": "Anthophila",
@@ -69,7 +77,8 @@
     "taxon_id": 630955,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97345807/medium.jpeg",
     "user_login": "dianita12",
-    "count": 7
+    "count": 7,
+    "is_species": false
   },
   {
     "scientific_name": "Augochlora",
@@ -77,7 +86,8 @@
     "taxon_id": 82524,
     "image_url": "https://static.inaturalist.org/photos/87729690/medium.jpg",
     "user_login": "capacoscar",
-    "count": 6
+    "count": 6,
+    "is_species": true
   },
   {
     "scientific_name": "Centris",
@@ -85,7 +95,8 @@
     "taxon_id": 578099,
     "image_url": "https://static.inaturalist.org/photos/37494676/medium.jpeg",
     "user_login": "awsalas",
-    "count": 5
+    "count": 5,
+    "is_species": true
   },
   {
     "scientific_name": "Megachile",
@@ -93,7 +104,8 @@
     "taxon_id": 52784,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/69849239/medium.jpg",
     "user_login": "juroc",
-    "count": 5
+    "count": 5,
+    "is_species": true
   },
   {
     "scientific_name": "Pseudaugochlora",
@@ -101,7 +113,8 @@
     "taxon_id": 252810,
     "image_url": "https://static.inaturalist.org/photos/111355452/medium.jpeg",
     "user_login": "capacoscar",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Sphecodes",
@@ -109,7 +122,8 @@
     "taxon_id": 61891,
     "image_url": "https://static.inaturalist.org/photos/107307083/medium.jpg",
     "user_login": "capacoscar",
-    "count": 4
+    "count": 4,
+    "is_species": true
   },
   {
     "scientific_name": "Caenohalictus",
@@ -117,7 +131,8 @@
     "taxon_id": 252448,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97567056/medium.jpeg",
     "user_login": "dianita12",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Halictinae",
@@ -125,7 +140,8 @@
     "taxon_id": 134106,
     "image_url": "https://static.inaturalist.org/photos/110415797/medium.jpg",
     "user_login": "capacoscar",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Agapostemon",
@@ -133,7 +149,8 @@
     "taxon_id": 50086,
     "image_url": "https://static.inaturalist.org/photos/131323162/medium.jpeg",
     "user_login": "ruthgo",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Halictidae",
@@ -141,7 +158,8 @@
     "taxon_id": 49707,
     "image_url": "https://static.inaturalist.org/photos/122177330/medium.jpg",
     "user_login": "capacoscar",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Eucerini",
@@ -149,7 +167,8 @@
     "taxon_id": 121514,
     "image_url": "https://static.inaturalist.org/photos/75069172/medium.jpg",
     "user_login": "awsalas",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Cressoniella",
@@ -157,7 +176,8 @@
     "taxon_id": 700468,
     "image_url": "https://static.inaturalist.org/photos/97405326/medium.jpg",
     "user_login": "lucy_salti18",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Halictini",
@@ -165,7 +185,8 @@
     "taxon_id": 335597,
     "image_url": "https://static.inaturalist.org/photos/97153943/medium.jpeg",
     "user_login": "lvidafnearias",
-    "count": 3
+    "count": 3,
+    "is_species": false
   },
   {
     "scientific_name": "Centris",
@@ -173,7 +194,8 @@
     "taxon_id": 174417,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96728911/medium.jpg",
     "user_login": "brentwhite1213",
-    "count": 3
+    "count": 3,
+    "is_species": true
   },
   {
     "scientific_name": "Anthophora arequipensis",
@@ -181,7 +203,8 @@
     "taxon_id": 1145796,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97388226/medium.jpeg",
     "user_login": "mate_cp",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Exomalopsis",
@@ -189,7 +212,8 @@
     "taxon_id": 252943,
     "image_url": "https://static.inaturalist.org/photos/125024700/medium.jpeg",
     "user_login": "ruthgo",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Hylaeopsis",
@@ -197,7 +221,8 @@
     "taxon_id": 602825,
     "image_url": "https://static.inaturalist.org/photos/112554802/medium.jpg",
     "user_login": "capacoscar",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Hylaeus",
@@ -205,7 +230,8 @@
     "taxon_id": 127812,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109648499/medium.jpeg",
     "user_login": "ginagabriela",
-    "count": 2
+    "count": 2,
+    "is_species": false
   },
   {
     "scientific_name": "Hylaeus euxanthus",
@@ -213,7 +239,8 @@
     "taxon_id": 424044,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/109648503/medium.jpeg",
     "user_login": "ginagabriela",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Eulaema polychroma",
@@ -221,7 +248,8 @@
     "taxon_id": 271366,
     "image_url": "https://static.inaturalist.org/photos/134394326/medium.jpeg",
     "user_login": "cesar67",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Eutricharaea",
@@ -229,7 +257,8 @@
     "taxon_id": 415012,
     "image_url": "https://static.inaturalist.org/photos/113226357/medium.jpeg",
     "user_login": "alessandra_torres1",
-    "count": 2
+    "count": 2,
+    "is_species": true
   },
   {
     "scientific_name": "Neopasiphaeinae",
@@ -237,7 +266,8 @@
     "taxon_id": 636890,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/151098944/medium.jpeg",
     "user_login": "awsalas",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Bombus",
@@ -245,7 +275,8 @@
     "taxon_id": 52775,
     "image_url": "https://static.inaturalist.org/photos/147058975/medium.jpeg",
     "user_login": "briguitte",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Emphorini",
@@ -253,7 +284,8 @@
     "taxon_id": 335660,
     "image_url": "https://static.inaturalist.org/photos/155951010/medium.jpg",
     "user_login": "jdelcastilloruiz",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Apidae",
@@ -261,7 +293,8 @@
     "taxon_id": 47221,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/165490447/medium.jpeg",
     "user_login": "brandon_o_a",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Thygater",
@@ -269,7 +302,8 @@
     "taxon_id": 252966,
     "image_url": "https://static.inaturalist.org/photos/129192303/medium.jpg",
     "user_login": "capacoscar",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Paracentris",
@@ -277,7 +311,8 @@
     "taxon_id": 578096,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110729496/medium.jpeg",
     "user_login": "ingridcarmean",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Tetragonisca",
@@ -285,7 +320,8 @@
     "taxon_id": 344448,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/124628544/medium.jpeg",
     "user_login": "innoalvarocordova",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Oxystoglossella",
@@ -293,7 +329,8 @@
     "taxon_id": 571282,
     "image_url": "https://static.inaturalist.org/photos/122177650/medium.jpg",
     "user_login": "capacoscar",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Andrenidae",
@@ -301,7 +338,8 @@
     "taxon_id": 57668,
     "image_url": "https://static.inaturalist.org/photos/112432538/medium.jpeg",
     "user_login": "cesar67",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Anthidium",
@@ -309,7 +347,8 @@
     "taxon_id": 638430,
     "image_url": "https://static.inaturalist.org/photos/70639913/medium.jpeg",
     "user_login": "miguelangelmuozcastro",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Caupolicana",
@@ -317,7 +356,8 @@
     "taxon_id": 174590,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/62314411/medium.jpg",
     "user_login": "jimmoore",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Leiopodus",
@@ -325,7 +365,8 @@
     "taxon_id": 252639,
     "image_url": "https://static.inaturalist.org/photos/62558114/medium.jpeg",
     "user_login": "jbossiob",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Tetragonisca angustula",
@@ -333,7 +374,8 @@
     "taxon_id": 344445,
     "image_url": "https://static.inaturalist.org/photos/102885765/medium.jpeg",
     "user_login": "awsalas",
-    "count": 1
+    "count": 1,
+    "is_species": true
   },
   {
     "scientific_name": "Apinae",
@@ -341,7 +383,8 @@
     "taxon_id": 199939,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/101393116/medium.jpg",
     "user_login": "jobortizarias1260",
-    "count": 1
+    "count": 1,
+    "is_species": false
   },
   {
     "scientific_name": "Augochlorella aurata",
@@ -349,6 +392,7 @@
     "taxon_id": 133766,
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/168983774/medium.jpeg",
     "user_login": "awsalas",
-    "count": 1
+    "count": 1,
+    "is_species": true
   }
 ]
