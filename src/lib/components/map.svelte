@@ -20,57 +20,77 @@
   let leafletMap;
   let availableYears;
   let availableMonths;
-
   let activeClasses = {};
+  let defaultColor = '#3388ff';
 
   // set default map values
   mapOptions = {
     center: [mapOptions.latitude || 0, mapOptions.longitude || 0],
     displayType: mapOptions.displayType || 'marker',
-    color: mapOptions.color || '#3388ff',
+    color: mapOptions.color || defaultColor,
     zoom: mapOptions.zoom || 0
   };
+
+  observations = observations.filter((o) => o.latitude && o.longitude);
 
   // add month data
   if (mapOptions.displayType === 'month') {
     availableMonths = [
-      ...new Set(observations.map((o) => new Date(o.time_observed_at).getMonth()))
+      ...new Set(
+        observations.map((o) => {
+          if (o.time_observed_at) {
+            return new Date(o.time_observed_at).getMonth();
+          } else {
+            return 'unknown';
+          }
+        })
+      )
     ].sort();
     availableMonths.forEach((month) => (activeClasses[month] = true));
 
     observations = observations.map((o) => {
-      let dateObj = new Date(o.time_observed_at);
-      let month = dateObj.getMonth();
+      let dateObj = o.time_observed_at && new Date(o.time_observed_at);
+      let month = o.time_observed_at ? dateObj.getMonth() : 'unknown';
       return {
         ...o,
         month: month,
-        color: colorsTwelve[month]
+        color: colorsTwelve[month] || defaultColor
       };
     });
     // add year data
   } else if (mapOptions.displayType === 'year') {
     availableYears = [
-      ...new Set(observations.map((o) => new Date(o.time_observed_at).getFullYear()))
+      ...new Set(
+        observations.map((o) => {
+          if (o.time_observed_at) {
+            return new Date(o.time_observed_at).getFullYear();
+          } else {
+            return 'unknown';
+          }
+        })
+      )
     ].sort();
     availableYears.forEach((year) => (activeClasses[year] = true));
-
     observations = observations.map((o) => {
-      let dateObj = new Date(o.time_observed_at);
-      let year = dateObj.getFullYear();
+      let dateObj = o.time_observed_at && new Date(o.time_observed_at);
+      let year = o.time_observed_at ? dateObj.getFullYear() : 'unknown';
+      let color = o.time_observed_at
+        ? colorsTen[modulo(availableYears.indexOf(year), 10)]
+        : defaultColor;
       return {
         ...o,
         year: year,
-        color: colorsTen[modulo(availableYears.indexOf(year), 10)]
+        color: color
       };
     });
   }
 
   let selectedFilters = [];
   let filteredObservations = [...observations];
-  console.log(selectedFilters);
 
   function handleFilters(e) {
-    let targetFilter = Number(e.target.dataset['filter']);
+    let targetFilter = e.target.dataset['filter'];
+    targetFilter = targetFilter === 'unknown' ? 'unknown' : Number(targetFilter);
 
     if (selectedFilters.includes(targetFilter)) {
       selectedFilters = selectedFilters.filter((item) => item !== targetFilter);
@@ -117,7 +137,7 @@
   $: if (leafletMap && mapOptions.displayType === 'month')
     rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
 
-  let coordinates = observations.map((o) => [o.latitude, o.longitude]);
+  let coordinates = filteredObservations.map((o) => [o.latitude, o.longitude]);
 
   onMount(() => {
     if (coordinates.length > 0) {
@@ -219,9 +239,9 @@
                   cx="10"
                   cy="10"
                   r="8"
-                  stroke={colorsTwelve[month]}
+                  stroke={colorsTwelve[month] || defaultColor}
                   stroke-width="3"
-                  fill={colorsTwelve[month]}
+                  fill={colorsTwelve[month] || defaultColor}
                   fill-opacity=".20"
                   data-filter={month}
                 />
@@ -233,9 +253,9 @@
                   height="14"
                   y="2"
                   x="2"
-                  stroke={colorsTwelve[month]}
+                  stroke={colorsTwelve[month] || defaultColor}
                   stroke-width="3"
-                  fill={colorsTwelve[month]}
+                  fill={colorsTwelve[month] || defaultColor}
                   fill-opacity=".20"
                   data-filter={index}
                 />
@@ -251,21 +271,34 @@
         <div class="mr-3 inline">
           <a
             href="#{year}"
-            data-filter={year}
             class:active={activeClasses[year]}
-            on:click|preventDefault|capture={handleFilters}
+            on:click|preventDefault={handleFilters}
           >
-            <svg data-filter={year} height="20" width="20" class="inline">
-              <circle
-                cx="10"
-                cy="10"
-                r="8"
-                stroke={colorsTen[modulo(index, 10)]}
-                stroke-width="3"
-                fill={colorsTen[modulo(index, 10)]}
-                fill-opacity=".20"
-              />
-            </svg><span data-filter={year}>{year}</span>
+            {#if year === 'unknown'}
+              <svg data-filter={year} height="20" width="20" class="inline">
+                <circle
+                  cx="10"
+                  cy="10"
+                  r="8"
+                  stroke={defaultColor}
+                  stroke-width="3"
+                  fill={defaultColor}
+                  fill-opacity=".20"
+                />
+              </svg><span data-filter={year}>{year}</span>
+            {:else}
+              <svg data-filter={year} height="20" width="20" class="inline">
+                <circle
+                  cx="10"
+                  cy="10"
+                  r="8"
+                  stroke={colorsTen[modulo(index, 10)]}
+                  stroke-width="3"
+                  fill={colorsTen[modulo(index, 10)]}
+                  fill-opacity=".20"
+                />
+              </svg><span data-filter={year}>{year}</span>
+            {/if}
           </a>
         </div>
       {/each}

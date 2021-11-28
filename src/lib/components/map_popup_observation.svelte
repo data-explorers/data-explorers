@@ -8,7 +8,11 @@
     <img src={observation.image_url.replace('medium', 'small')} alt="" />
   {/if}
   <b>Date:</b>
-  {new Date(observation.time_observed_at).toLocaleDateString()}<br />
+  {#if observation.time_observed_at}
+    {new Date(observation.time_observed_at).toLocaleDateString()}<br />
+  {:else}
+    unknown<br />
+  {/if}
   <b>Observer:</b>
   {observation.user_login}<br />
 

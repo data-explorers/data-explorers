@@ -26,6 +26,9 @@ export let warmMonths = [4, 5, 6, 7, 8, 9];
 
 export function getMonthName(month) {
   // https://reactgo.com/convert-month-number-to-name-js/
+  if (typeof month === 'string') {
+    return month;
+  }
   const d = new Date();
   d.setMonth(month);
   return d.toLocaleString('default', { month: 'short' });
