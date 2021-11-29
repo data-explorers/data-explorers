@@ -1,55 +1,69 @@
 <script>
   export let observations;
+  import TaxaImagesItem from '$lib/components/taxa_images_item.svelte'
+import { text } from 'svelte/internal';
 
   let page = 1;
   let limit = 24;
-  let observationsDisplay = observations.slice(0, page * limit);
+  let orderByOptions = [
+    {value: 'newest', text: "Newest first"},
+    {value: 'oldest', text: "Oldest first"}
+  ]
+
+  let orderByValue = orderByOptions[0]
+
+
+  observations = observations.sort((a, b) => {
+    return new Date(b.time_observed_at) - new Date(a.time_observed_at);
+  });
+
+  let observationsDisplay = [...observations.slice(0, page * limit)];
 
   function loadMore() {
     page = page + 1;
     observationsDisplay = observations.slice(0, page * limit);
   }
+
+  function handleOrderBy() {
+    console.log(orderByValue)
+    if (orderByValue.value === 'oldest') {
+      observations = observations.sort((a, b) => {
+        return new Date(a.time_observed_at) - new Date(b.time_observed_at);
+      });
+    } else {
+      observations = observations.sort((a, b) => {
+        return new Date(b.time_observed_at) - new Date(a.time_observed_at);
+      });
+    }
+    observationsDisplay = [...observations.slice(0, page * limit)];
+
+  }
+
 </script>
 
 <h1>images</h1>
 
-<div class="grid lg:grid-cols-4 md:grid-cols-3 gap-1  items-center ">
-  {#each observationsDisplay as observation}
-    <div>
-      <label for="my-modal-{observation.id}" class="">
-        <img src={observation.image_url} alt="image of {observation.scientific_name}" />
-      </label>
-      <input type="checkbox" id="my-modal-{observation.id}" class="modal-toggle" />
-      <div class="modal">
-        <div class="modal-box p-4 rounded-none">
-          <div>
-            <b>Observer:</b>
-            {observation.user_login},
-            <b>Date:</b>
-            {#if observation.time_observed_at}
-              {new Date(observation.time_observed_at).toLocaleDateString()}
-            {:else}
-              unknown
-            {/if}
-            <label for="my-modal-{observation.id}" class="float-right btn btn-circle btn-sm">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                class="inline-block w-4 h-4 stroke-current md:w-6 md:h-6"
-              >
-                <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  d="M6 18L18 6M6 6l12 12"
-                />
-              </svg>
-            </label>
-          </div>
-          <img src={observation.image_url} alt="image of {observation.scientific_name}" />
-        </div>
-      </div>
+<div class="form-control w-full max-w-xs">
+  <label class="label" for="order">
+    <span class="label-text">Order by</span>
+  </label>
+  <select
+    bind:value={orderByValue}
+    name="order"
+    class="select select-bordered w-full max-w-xs"
+    on:change={handleOrderBy}
+  >
+    {#each orderByOptions as option}
+    <option value={option}>{option.text}</option>
+    {/each}
+  </select>
+</div>
+{orderByValue.value}
+  <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-1  items-center ">
+    {#each observationsDisplay as observation}
+      <TaxaImagesItem {observation} />
+    {/each}
+  </div>
     </div>
   {/each}
 </div>
