@@ -8,13 +8,7 @@
   let limit = 24;
   let groupByValue = 'none';
   let groupByKeys = [];
-
-  let orderByOptions = [
-    { value: 'newest', text: 'Newest first' },
-    { value: 'oldest', text: 'Oldest first' }
-  ];
-
-  let orderByValue = orderByOptions[0];
+  let orderByValue = 'newest';
 
   observations = observations.sort((a, b) => {
     return new Date(b.time_observed_at) - new Date(a.time_observed_at);
@@ -38,7 +32,7 @@
   }
 
   function createGroupKeys(groupedObject) {
-    if (orderByValue.value === 'oldest') {
+    if (orderByValue === 'oldest') {
       return Object.keys(groupedObject);
     } else {
       return Object.keys(groupedObject).reverse();
@@ -46,7 +40,7 @@
   }
 
   function createGroupObservations(groupedObject) {
-    if (orderByValue.value === 'oldest') {
+    if (orderByValue === 'oldest') {
       return Object.values(groupedObject);
     } else {
       return Object.values(groupedObject).reverse();
@@ -67,7 +61,7 @@
 
   function handleOrderBy() {
     groupByKeys = [];
-    if (orderByValue.value === 'oldest') {
+    if (orderByValue === 'oldest') {
       observations = observations.sort((a, b) => {
         return new Date(a.time_observed_at) - new Date(b.time_observed_at);
       });
@@ -113,9 +107,8 @@
     class="select select-bordered w-full max-w-xs"
     on:change={handleOrderBy}
   >
-    {#each orderByOptions as option}
-      <option value={option}>{option.text}</option>
-    {/each}
+    <option value="newest">Newest first</option>
+    <option value="oldest">Oldest first</option>
   </select>
 </div>
 <div class="form-control w-full max-w-xs">
@@ -129,12 +122,11 @@
     on:change={handleGroupBy}
   >
     <option value="none">None</option>
-
     <option value="month">Month</option>
     <option value="year">Year</option>
   </select>
 </div>
-{orderByValue.value}
+{orderByValue}
 {groupByValue}
 
 {#if groupByValue === 'none'}
@@ -158,17 +150,3 @@
   <button class="btn" on:click={loadMore}>Load More</button>
 </div>
 
-<style>
-  .grid img {
-    /* width: 100%; */
-  }
-
-  .modal-box {
-    /* width: 100%; */
-  }
-
-  .modal-box img {
-    /* height: 85vh; */
-    /* width: 100%; */
-  }
-</style>
