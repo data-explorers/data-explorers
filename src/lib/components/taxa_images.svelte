@@ -16,6 +16,8 @@
 
   let observationsDisplay = [...observations.slice(0, page * limit)];
 
+  $: showLoadMore = page * limit < observations.length;
+
   function createGroups(observations, groupByValue) {
     let groups;
     observations = observations.filter((o) => o.time_observed_at);
@@ -145,5 +147,5 @@
 {/if}
 
 <div class="grid justify-items-center mt-8">
-  <button class="btn" on:click={loadMore}>Load More</button>
+  <button class="btn" class:hidden={!showLoadMore} on:click={loadMore}>Load More</button>
 </div>

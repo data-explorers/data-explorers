@@ -7,6 +7,8 @@
   let limit = 24;
   let taxaDisplay = taxa.slice(0, page * limit);
 
+  $: showLoadMore = page * limit < taxa.length;
+
   let currentTab = project.tabs.filter((tab) => tab.component === 'TaxaGrid')[0];
 
   function loadMore() {
@@ -38,7 +40,7 @@
   {/each}
 </div>
 <div class="grid justify-items-center mt-8">
-  <button class="btn" on:click={loadMore}>Load More</button>
+  <button class="btn" class:hidden={!showLoadMore} on:click={loadMore}>Load More</button>
 </div>
 
 <style>
