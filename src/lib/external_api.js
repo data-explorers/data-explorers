@@ -51,3 +51,30 @@ export async function formatInteractions(
   }
   return taxa;
 }
+
+export async function fetchWikipedia(common_name, scientific_name) {
+  let apiBase = 'https://en.wikipedia.org/w/api.php?action=query&prop=extracts&format=json';
+  let url = `${apiBase}&titles=${common_name}`;
+  let url2 = `${apiBase}&titles=${scientific_name}`;
+
+  let response = await fetch(url, { mode: 'no-cors' });
+  if (response.ok) {
+    let results = await response.json();
+    if (results) {
+      let pages = results.query.pages;
+      let id = Object.keys(pages)[0];
+      return pages[id].extract;
+    }
+  } else {
+    let response = await fetch(url2, { mode: 'no-cors' });
+    if (response.ok) {
+      let results = await response.json();
+      if (results) {
+        let pages = results.query.pages;
+        let id = Object.keys(pages)[0];
+        return pages[id].extract;
+      }
+    }
+  }
+  return null;
+}
