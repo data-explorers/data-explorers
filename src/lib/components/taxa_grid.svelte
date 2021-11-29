@@ -4,7 +4,7 @@
   export let user;
 
   let page = 1;
-  let limit = 25;
+  let limit = 24;
   let taxaDisplay = taxa.slice(0, page * limit);
 
   let currentTab = project.tabs.filter((tab) => tab.component === 'TaxaGrid')[0];
