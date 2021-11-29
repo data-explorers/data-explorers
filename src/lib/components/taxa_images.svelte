@@ -2,7 +2,7 @@
   export let observations;
   import groupBy from 'lodash.groupby';
   import TaxaImagesItem from '$lib/components/taxa_images_item.svelte';
-  import { text } from 'svelte/internal';
+  import { getMonthName } from '$lib/mapUtils';
 
   let page = 1;
   let limit = 24;
@@ -79,7 +79,6 @@
     }
   }
 
-
   function handleGroupBy() {
     groupByKeys = [];
     observationsDisplay = [...observations.slice(0, page * limit)];
@@ -90,12 +89,9 @@
       observationsDisplay = createGroupObservations(tempGroups);
     }
   }
-
-  // $: page
-  // $: observationsDisplay
 </script>
 
-<h1>images</h1>
+<h3>Images</h3>
 
 <div class="form-control w-full max-w-xs">
   <label class="label" for="order">
@@ -137,7 +133,9 @@
   </div>
 {:else}
   {#each groupByKeys as key, index}
-    <h2>{key}</h2>
+    <h2>
+      {#if groupByValue === 'month'}{getMonthName(Number(key))}{:else}{key}{/if}
+    </h2>
     <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-3  items-end ">
       {#each observationsDisplay[index] as observation}
         <TaxaImagesItem {observation} />
@@ -149,4 +147,3 @@
 <div class="grid justify-items-center mt-8">
   <button class="btn" on:click={loadMore}>Load More</button>
 </div>
-

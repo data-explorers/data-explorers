@@ -157,7 +157,7 @@
   });
 </script>
 
-<div class="example" style="width: 100%; height: 400px;">
+<div style="width: 100%; height: 400px;">
   <!-- {zoomLevel}, {circleRadius}, {rectangleLatitude}, {rectangleLongitude} -->
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <TileLayer url={tileUrl} options={tileLayerOptions} />
@@ -222,89 +222,88 @@
       {/each}
     {/if}
   </LeafletMap>
-
-  <!-- map legend -->
-  {#if mapOptions.displayType === 'month'}
-    <div class="map-legend mt-4">
-      {#each availableMonths as month, index}
-        <div class="mr-3 inline">
-          <a
-            href="#{month}"
-            class:active={activeClasses[month]}
-            on:click|preventDefault={handleFilters}
-          >
-            {#if coldMonths.includes(month + 1)}
-              <svg height="20" width="20" class="inline" data-filter={month}>
-                <circle
-                  cx="10"
-                  cy="10"
-                  r="8"
-                  stroke={colorsTwelve[month] || defaultColor}
-                  stroke-width="3"
-                  fill={colorsTwelve[month] || defaultColor}
-                  fill-opacity=".20"
-                  data-filter={month}
-                />
-              </svg><span data-filter={month}>{getMonthName(month)}</span>
-            {:else}
-              <svg width="20" height="20" class="inline" data-filter={month}>
-                <rect
-                  width="14"
-                  height="14"
-                  y="2"
-                  x="2"
-                  stroke={colorsTwelve[month] || defaultColor}
-                  stroke-width="3"
-                  fill={colorsTwelve[month] || defaultColor}
-                  fill-opacity=".20"
-                  data-filter={index}
-                />
-              </svg><span data-filter={month}>{getMonthName(month)}</span>
-            {/if}
-          </a>
-        </div>
-      {/each}
-    </div>
-  {:else if mapOptions.displayType === 'year'}
-    <div class="map-legend mt-4">
-      {#each availableYears as year, index}
-        <div class="mr-3 inline">
-          <a
-            href="#{year}"
-            class:active={activeClasses[year]}
-            on:click|preventDefault={handleFilters}
-          >
-            {#if year === 'unknown'}
-              <svg data-filter={year} height="20" width="20" class="inline">
-                <circle
-                  cx="10"
-                  cy="10"
-                  r="8"
-                  stroke={defaultColor}
-                  stroke-width="3"
-                  fill={defaultColor}
-                  fill-opacity=".20"
-                />
-              </svg><span data-filter={year}>{year}</span>
-            {:else}
-              <svg data-filter={year} height="20" width="20" class="inline">
-                <circle
-                  cx="10"
-                  cy="10"
-                  r="8"
-                  stroke={colorsTen[modulo(index, 10)]}
-                  stroke-width="3"
-                  fill={colorsTen[modulo(index, 10)]}
-                  fill-opacity=".20"
-                />
-              </svg><span data-filter={year}>{year}</span>
-            {/if}
-          </a>
-        </div>
-      {/each}
-    </div>
-  {/if}
 </div>
+<!-- map legend -->
+{#if mapOptions.displayType === 'month'}
+  <div class="map-legend mt-4">
+    {#each availableMonths as month, index}
+      <div class="mr-3 inline">
+        <a
+          href="#{month}"
+          class:active={activeClasses[month]}
+          on:click|preventDefault={handleFilters}
+        >
+          {#if coldMonths.includes(month + 1)}
+            <svg height="20" width="20" class="inline" data-filter={month}>
+              <circle
+                cx="10"
+                cy="10"
+                r="8"
+                stroke={colorsTwelve[month] || defaultColor}
+                stroke-width="3"
+                fill={colorsTwelve[month] || defaultColor}
+                fill-opacity=".20"
+                data-filter={month}
+              />
+            </svg><span data-filter={month}>{getMonthName(month)}</span>
+          {:else}
+            <svg width="20" height="20" class="inline" data-filter={month}>
+              <rect
+                width="14"
+                height="14"
+                y="2"
+                x="2"
+                stroke={colorsTwelve[month] || defaultColor}
+                stroke-width="3"
+                fill={colorsTwelve[month] || defaultColor}
+                fill-opacity=".20"
+                data-filter={index}
+              />
+            </svg><span data-filter={month}>{getMonthName(month)}</span>
+          {/if}
+        </a>
+      </div>
+    {/each}
+  </div>
+{:else if mapOptions.displayType === 'year'}
+  <div class="map-legend mt-4">
+    {#each availableYears as year, index}
+      <div class="mr-3 inline">
+        <a
+          href="#{year}"
+          class:active={activeClasses[year]}
+          on:click|preventDefault={handleFilters}
+        >
+          {#if year === 'unknown'}
+            <svg data-filter={year} height="20" width="20" class="inline">
+              <circle
+                cx="10"
+                cy="10"
+                r="8"
+                stroke={defaultColor}
+                stroke-width="3"
+                fill={defaultColor}
+                fill-opacity=".20"
+              />
+            </svg><span data-filter={year}>{year}</span>
+          {:else}
+            <svg data-filter={year} height="20" width="20" class="inline">
+              <circle
+                cx="10"
+                cy="10"
+                r="8"
+                stroke={colorsTen[modulo(index, 10)]}
+                stroke-width="3"
+                fill={colorsTen[modulo(index, 10)]}
+                fill-opacity=".20"
+              />
+            </svg><span data-filter={year}>{year}</span>
+          {/if}
+        </a>
+      </div>
+    {/each}
+  </div>
+{/if}
 
 <style>
   .map-legend a {
