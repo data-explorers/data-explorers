@@ -2,7 +2,7 @@
   export let user;
 </script>
 
-<div class="hero" style="background-image: url(&quot;/{user.username}/user.jpg&quot;);">
+<div class="hero" style="background-image: url(&quot;/images/{user.username}/user.jpg&quot;);">
   <div class="hero-overlay bg-opacity-50" />
   <div class="text-center hero-content text-neutral-content">
     <div class="max-w-md">
