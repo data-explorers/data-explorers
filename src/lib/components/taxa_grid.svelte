@@ -9,7 +9,7 @@
 
   $: showLoadMore = page * limit < taxa.length;
 
-  let currentTab = project.tabs.filter((tab) => tab.component === 'TaxaGrid')[0];
+  let currentTab = project.tabs_project.filter((tab) => tab.component === 'TaxaGrid')[0];
 
   function loadMore() {
     page = page + 1;

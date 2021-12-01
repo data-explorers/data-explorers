@@ -12,9 +12,9 @@
   };
 </script>
 
-<div class="tabs">
+<div class="tabs mt-4">
   {#each tabs as tab}
-    <div class="tab tab-bordered {activeTabValue === tab.value ? 'active' : ''}">
+    <div class="tab tab-bordered" class:tab-active={activeTabValue === tab.value}>
       <span on:click={handleClick(tab.value, tab.label)}>{tab.label}</span>
     </div>
   {/each}

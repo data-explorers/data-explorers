@@ -5,7 +5,9 @@
     let user = data.filter((user) => user.username === page.params.users)[0];
     let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
     let pathParts = page.path.split('/');
-    let currentTab = project.tabs.filter((tab) => tab.link === pathParts[pathParts.length - 1])[0];
+    let currentTab = project.tabs_project.filter(
+      (tab) => tab.link === pathParts[pathParts.length - 1]
+    )[0];
 
     return { props: { project, user, currentTab } };
   }

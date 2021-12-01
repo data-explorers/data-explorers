@@ -38,6 +38,7 @@
   import Tabs from '$lib/components/tabs.svelte';
   import TaxaAbout from '$lib/components/taxa_about.svelte';
   import TaxaImages from '$lib/components/taxa_images.svelte';
+  import TaxaMedia from '$lib/components/taxa_media.svelte';
 
   export let taxon;
   export let user;
@@ -52,10 +53,20 @@
     displayType: project.taxaDisplayType
   };
 
-  let tabs = [
-    { label: 'About', component: TaxaAbout, value: 0, props: { project, taxon, interactions } },
-    { label: 'Images', component: TaxaImages, value: 1, props: { observations } }
-  ];
+  let tabsMetadata = {
+    TaxaAbout: { component: TaxaAbout, props: { project, taxon, interactions } },
+    TaxaImages: { component: TaxaImages, props: { observations } },
+    TaxaMedia: { component: TaxaMedia, props: {} }
+  };
+
+  let tabs = project.tabs_taxa.map((tab) => {
+    return {
+      label: tab.label,
+      value: tab.value,
+      component: tabsMetadata[tab.component].component,
+      props: tabsMetadata[tab.component].props
+    };
+  });
 
   // NOTE: must use dynamic import to load leaflet since leaflet depends on
   // window object. leaflet will not work with server side rendering.

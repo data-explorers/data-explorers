@@ -3,10 +3,10 @@
   export let user;
   import { page } from '$app/stores';
 
-  let tabs = project.tabs.map((tab, index) => {
+  let tabs = project.tabs_project.map((tab) => {
     return {
       label: tab.label,
-      value: index,
+      value: tab.value,
       slug: `/users/${user.username}/${project.slug}/${tab.link}`,
       link: tab.link.length > 0 ? tab.link : project.slug
     };
@@ -22,7 +22,7 @@
     </div>
   </div>
 </div>
-<div class="tabs">
+<div class="tabs mt-4">
   {#each tabs as tab}
     <a
       class="tab tab-bordered"
@@ -31,9 +31,3 @@
     >
   {/each}
 </div>
-
-<style>
-  .tabs {
-    margin-top: 1rem;
-  }
-</style>
