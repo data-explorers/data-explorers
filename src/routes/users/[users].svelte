@@ -22,9 +22,11 @@
 <div class="grid lg:grid-cols-3 md:grid-cols-2  justify-center gap-3">
   {#each projects as project}
     <div class="card bordered">
-      <figure>
-        <img src="{project.image}/400/250" alt="Photo for {project.title}" />
-      </figure>
+      <a href="/users/{user.username}/{project.slug}">
+        <figure>
+          <img src="{project.image}/400/250" alt="Photo for {project.title}" />
+        </figure>
+      </a>
       <a href="/users/{user.username}/{project.slug}">
         <div class="card-body prose prose-lg">
           <h2 class="card-title">{project.title}</h2>

@@ -15,9 +15,11 @@
 <div class="grid lg:grid-cols-3 md:grid-cols-2  justify-center gap-3">
   {#each data as user_data}
     <div class="card bordered">
-      <figure>
-        <img src="/images/{user_data.username}/user.jpg" alt="Photo for {user_data.card_title}" />
-      </figure>
+      <a href={user_data.card_link}>
+        <figure>
+          <img src="/images/{user_data.username}/user.jpg" alt="Photo for {user_data.card_title}" />
+        </figure>
+      </a>
       <a href={user_data.card_link}>
         <div class="card-body prose prose-lg">
           <h2 class="card-title">{user_data.card_title}</h2>
