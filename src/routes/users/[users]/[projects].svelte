@@ -10,9 +10,20 @@
 </script>
 
 <script>
+  import { onMount } from 'svelte';
   import ProjectHeader from '$lib/components/project_header.svelte';
   export let project;
   export let user;
+
+  let mapOptions = { latitude: project.latitude, longitude: project.longitude, zoom: project.zoom };
+
+  // NOTE: must use dynamic import to load leaflet since leaflet depends on
+  // window object. leaflet will not work with server side rendering.
+  let Map;
+  onMount(async () => {
+    const comp = await import('$lib/components/project_map.svelte');
+    Map = comp.default;
+  });
 </script>
 
 <ProjectHeader {project} {user} />
@@ -36,10 +47,7 @@
       {@html project.description}
     </div>
     <div>
-      <img
-        src="/images/{user.username}/{project.slug}/observations_map_square.jpg"
-        alt="map of {project.title}"
-      />
+      <svelte:component this={Map} {mapOptions} />
     </div>
   </div>
 
