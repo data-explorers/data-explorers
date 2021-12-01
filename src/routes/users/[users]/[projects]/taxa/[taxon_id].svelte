@@ -72,7 +72,7 @@
   // window object. leaflet will not work with server side rendering.
   let Map;
   onMount(async () => {
-    const comp = await import('$lib/components/map.svelte');
+    const comp = await import('$lib/components/taxa_map.svelte');
     Map = comp.default;
   });
 </script>
