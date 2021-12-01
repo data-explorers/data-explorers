@@ -95,37 +95,37 @@
 
 <h3>Images</h3>
 
-<div class="form-control w-full max-w-xs">
-  <label class="label" for="order">
-    <span class="label-text">Order by</span>
-  </label>
-  <select
-    bind:value={orderByValue}
-    name="order"
-    class="select select-bordered w-full max-w-xs"
-    on:change={handleOrderBy}
-  >
-    <option value="newest">Newest first</option>
-    <option value="oldest">Oldest first</option>
-  </select>
+<div class="mb-4 ">
+  <div class="form-control inline-block mr-6">
+    <label class="label inline" for="order">
+      <span class="label-text">Order by</span>
+    </label>
+    <select
+      bind:value={orderByValue}
+      name="order"
+      class="select select-bordered h-8	min-h-0"
+      on:change={handleOrderBy}
+    >
+      <option value="newest">Newest first</option>
+      <option value="oldest">Oldest first</option>
+    </select>
+  </div>
+  <div class="form-control inline-block">
+    <label class="label inline" for="group">
+      <span class="label-text">Group by</span>
+    </label>
+    <select
+      bind:value={groupByValue}
+      name="group"
+      class="select select-bordered h-8 min-h-0"
+      on:change={handleGroupBy}
+    >
+      <option value="none">None</option>
+      <option value="month">Month</option>
+      <option value="year">Year</option>
+    </select>
+  </div>
 </div>
-<div class="form-control w-full max-w-xs">
-  <label class="label" for="group">
-    <span class="label-text">Group by</span>
-  </label>
-  <select
-    bind:value={groupByValue}
-    name="group"
-    class="select select-bordered w-full max-w-xs"
-    on:change={handleGroupBy}
-  >
-    <option value="none">None</option>
-    <option value="month">Month</option>
-    <option value="year">Year</option>
-  </select>
-</div>
-{orderByValue}
-{groupByValue}
 
 {#if groupByValue === 'none'}
   <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-3  items-end ">
