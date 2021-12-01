@@ -1,7 +1,7 @@
 [
   {
     "id": 6298887,
-    "time_observed_at": "2017-05-18 23:20:46 UTC",
+    "time_observed_at": "2017-05-18T23:20:46Z",
     "user_login": "jcentavo",
     "image_url": "https://static.inaturalist.org/photos/7930220/medium.jpg",
     "latitude": -12.112298,
@@ -43,7 +43,7 @@
   },
   {
     "id": 32254759,
-    "time_observed_at": "2019-09-07 05:04:43 UTC",
+    "time_observed_at": "2019-09-07T05:04:43Z",
     "user_login": "rafaelgarrido99",
     "image_url": "https://static.inaturalist.org/photos/50573802/medium.jpg",
     "latitude": -12.098625,
@@ -57,7 +57,7 @@
   },
   {
     "id": 59183127,
-    "time_observed_at": "2020-09-10 00:17:58 UTC",
+    "time_observed_at": "2020-09-10T00:17:58Z",
     "user_login": "santosgumercindoperezhuanca",
     "image_url": "https://static.inaturalist.org/photos/94547796/medium.jpeg",
     "latitude": -12.3560365622,
@@ -71,7 +71,7 @@
   },
   {
     "id": 59603049,
-    "time_observed_at": "2017-08-28 00:18:00 UTC",
+    "time_observed_at": "2017-08-28T00:18:00Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95244463/medium.jpeg",
     "latitude": -11.7211298656,
@@ -85,7 +85,7 @@
   },
   {
     "id": 59606392,
-    "time_observed_at": "2015-10-18 10:28:00 UTC",
+    "time_observed_at": "2015-10-18T10:28:00Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247848/medium.jpg",
     "latitude": -12.664687,
@@ -99,7 +99,7 @@
   },
   {
     "id": 59606394,
-    "time_observed_at": "2015-10-18 10:28:00 UTC",
+    "time_observed_at": "2015-10-18T10:28:00Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247866/medium.jpeg",
     "latitude": -12.664687,
@@ -113,7 +113,7 @@
   },
   {
     "id": 59606395,
-    "time_observed_at": "2015-10-26 20:10:00 UTC",
+    "time_observed_at": "2015-10-26T20:10:00Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247875/medium.jpeg",
     "latitude": -12.664687,
@@ -127,7 +127,7 @@
   },
   {
     "id": 59606398,
-    "time_observed_at": "2016-08-04 06:48:00 UTC",
+    "time_observed_at": "2016-08-04T06:48:00Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247915/medium.jpeg",
     "latitude": -12.404167,
@@ -141,7 +141,7 @@
   },
   {
     "id": 59606399,
-    "time_observed_at": "2013-09-17 11:10:00 UTC",
+    "time_observed_at": "2013-09-17T11:10:00Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247926/medium.jpeg",
     "latitude": -12.7242340959,
@@ -155,7 +155,7 @@
   },
   {
     "id": 59606402,
-    "time_observed_at": "2015-10-18 08:01:00 UTC",
+    "time_observed_at": "2015-10-18T08:01:00Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/95247939/medium.jpeg",
     "latitude": -12.664687,
@@ -169,7 +169,7 @@
   },
   {
     "id": 60367488,
-    "time_observed_at": "2020-09-21 22:51:18 UTC",
+    "time_observed_at": "2020-09-21T22:51:18Z",
     "user_login": "katyachalco",
     "image_url": "https://static.inaturalist.org/photos/96522168/medium.jpeg",
     "latitude": -12.1522733,
@@ -183,7 +183,7 @@
   },
   {
     "id": 60467567,
-    "time_observed_at": "2020-09-22 22:52:00 UTC",
+    "time_observed_at": "2020-09-22T22:52:00Z",
     "user_login": "fayruzmendoza",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96691355/medium.jpeg",
     "latitude": -12.0797778,
@@ -197,7 +197,7 @@
   },
   {
     "id": 60472216,
-    "time_observed_at": "2020-09-23 04:45:32 UTC",
+    "time_observed_at": "2020-09-23T04:45:32Z",
     "user_login": "mateblogs",
     "image_url": "https://www.inaturalist.org/assets/copyright-infringement-medium.png",
     "latitude": -12.1777928,
@@ -211,7 +211,7 @@
   },
   {
     "id": 60627092,
-    "time_observed_at": "2013-09-17 01:49:14 UTC",
+    "time_observed_at": "2013-09-17T01:49:14Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/96957823/medium.jpeg",
     "latitude": -12.6642803127,
@@ -225,7 +225,7 @@
   },
   {
     "id": 61135502,
-    "time_observed_at": "2016-10-29 02:03:00 UTC",
+    "time_observed_at": "2016-10-29T02:03:00Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97798910/medium.jpeg",
     "latitude": -12.0826725233,
@@ -239,7 +239,7 @@
   },
   {
     "id": 61138540,
-    "time_observed_at": "2020-09-26 20:07:00 UTC",
+    "time_observed_at": "2020-09-26T20:07:00Z",
     "user_login": "bio_jpacheco",
     "image_url": null,
     "latitude": -12.204156,
@@ -253,7 +253,7 @@
   },
   {
     "id": 61528541,
-    "time_observed_at": "2020-10-03 01:52:00 UTC",
+    "time_observed_at": "2020-10-03T01:52:00Z",
     "user_login": "cienciaciudadanaperu",
     "image_url": null,
     "latitude": -12.1084947802,
@@ -267,7 +267,7 @@
   },
   {
     "id": 61731541,
-    "time_observed_at": "2020-10-01 23:27:00 UTC",
+    "time_observed_at": "2020-10-01T23:27:00Z",
     "user_login": "cienciaciudadanaperu",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/98812308/medium.jpeg",
     "latitude": -12.088033,
@@ -295,7 +295,7 @@
   },
   {
     "id": 68084488,
-    "time_observed_at": "2021-01-14 01:50:00 UTC",
+    "time_observed_at": "2021-01-14T01:50:00Z",
     "user_login": "cienciaciudadanaperu",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/110157733/medium.jpeg",
     "latitude": -12.133658,
@@ -309,7 +309,7 @@
   },
   {
     "id": 68644852,
-    "time_observed_at": "2021-01-25 00:11:51 UTC",
+    "time_observed_at": "2021-01-25T00:11:51Z",
     "user_login": "wilfredo14",
     "image_url": "https://static.inaturalist.org/photos/111206486/medium.jpeg",
     "latitude": -12.1407292018,
@@ -323,7 +323,7 @@
   },
   {
     "id": 68887730,
-    "time_observed_at": "2021-01-31 01:00:00 UTC",
+    "time_observed_at": "2021-01-31T01:00:00Z",
     "user_login": "cienciaciudadanaperu",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111654388/medium.jpeg",
     "latitude": -12.1397216182,
@@ -337,7 +337,7 @@
   },
   {
     "id": 69026977,
-    "time_observed_at": "2018-05-19 02:19:18 UTC",
+    "time_observed_at": "2018-05-19T02:19:18Z",
     "user_login": "thaliavillana",
     "image_url": "https://static.inaturalist.org/photos/111915017/medium.jpeg",
     "latitude": -12.0817234123,
@@ -351,7 +351,7 @@
   },
   {
     "id": 69027084,
-    "time_observed_at": "2018-06-16 03:03:28 UTC",
+    "time_observed_at": "2018-06-16T03:03:28Z",
     "user_login": "thaliavillana",
     "image_url": "https://static.inaturalist.org/photos/111915049/medium.jpeg",
     "latitude": -12.0817234123,
@@ -365,7 +365,7 @@
   },
   {
     "id": 69088922,
-    "time_observed_at": "2018-05-18 16:05:00 UTC",
+    "time_observed_at": "2018-05-18T16:05:00Z",
     "user_login": "thaliavillana",
     "image_url": "https://static.inaturalist.org/photos/112029485/medium.jpeg",
     "latitude": -12.0817234123,
@@ -379,7 +379,7 @@
   },
   {
     "id": 69109079,
-    "time_observed_at": "2017-01-22 05:36:34 UTC",
+    "time_observed_at": "2017-01-22T05:36:34Z",
     "user_login": "bio_jpacheco",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/112067421/medium.jpeg",
     "latitude": -12.1371324768,
@@ -393,7 +393,7 @@
   },
   {
     "id": 69396708,
-    "time_observed_at": "2011-05-10 20:16:04 UTC",
+    "time_observed_at": "2011-05-10T20:16:04Z",
     "user_login": "cesar67",
     "image_url": "https://static.inaturalist.org/photos/112586190/medium.jpeg",
     "latitude": -11.8268059672,
@@ -407,7 +407,7 @@
   },
   {
     "id": 69867993,
-    "time_observed_at": "2021-02-18 16:54:00 UTC",
+    "time_observed_at": "2021-02-18T16:54:00Z",
     "user_login": "herbertgc",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/113472258/medium.jpg",
     "latitude": -12.0647917155,
@@ -421,7 +421,7 @@
   },
   {
     "id": 75250604,
-    "time_observed_at": "2021-04-20 16:41:00 UTC",
+    "time_observed_at": "2021-04-20T16:41:00Z",
     "user_login": "andreaavh",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/123127814/medium.jpg",
     "latitude": -12.10237305,
@@ -435,7 +435,7 @@
   },
   {
     "id": 84013109,
-    "time_observed_at": "2020-12-26 02:21:00 UTC",
+    "time_observed_at": "2020-12-26T02:21:00Z",
     "user_login": "lucianagalvan",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/138037292/medium.jpg",
     "latitude": -12.0959037,
@@ -449,7 +449,7 @@
   },
   {
     "id": 87554703,
-    "time_observed_at": "2021-07-16 14:24:00 UTC",
+    "time_observed_at": "2021-07-16T14:24:00Z",
     "user_login": "cienciaciudadanaperu",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/144365005/medium.jpeg",
     "latitude": -12.1173793,
@@ -463,7 +463,7 @@
   },
   {
     "id": 89238307,
-    "time_observed_at": "2021-07-23 03:04:00 UTC",
+    "time_observed_at": "2021-07-23T03:04:00Z",
     "user_login": "cienciaciudadanaperu",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147341064/medium.png",
     "latitude": -12.137902928,
@@ -477,7 +477,7 @@
   },
   {
     "id": 89238309,
-    "time_observed_at": "2021-06-22 03:04:00 UTC",
+    "time_observed_at": "2021-06-22T03:04:00Z",
     "user_login": "cienciaciudadanaperu",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/147341790/medium.png",
     "latitude": -12.1364,
@@ -491,7 +491,7 @@
   },
   {
     "id": 89582155,
-    "time_observed_at": "2021-07-23 01:28:00 UTC",
+    "time_observed_at": "2021-07-23T01:28:00Z",
     "user_login": "gabriela146",
     "image_url": "https://static.inaturalist.org/photos/147947106/medium.jpeg",
     "latitude": -12.1280461,
@@ -505,7 +505,7 @@
   },
   {
     "id": 89582158,
-    "time_observed_at": "2021-07-23 01:28:00 UTC",
+    "time_observed_at": "2021-07-23T01:28:00Z",
     "user_login": "gabriela146",
     "image_url": "https://static.inaturalist.org/photos/147947366/medium.jpeg",
     "latitude": -12.129734873,
@@ -519,7 +519,7 @@
   },
   {
     "id": 91069144,
-    "time_observed_at": "2021-04-20 00:34:01 UTC",
+    "time_observed_at": "2021-04-20T00:34:01Z",
     "user_login": "cesar67",
     "image_url": "https://static.inaturalist.org/photos/150580850/medium.jpeg",
     "latitude": -11.8268059672,
@@ -533,7 +533,7 @@
   },
   {
     "id": 92316119,
-    "time_observed_at": "2021-08-22 02:14:16 UTC",
+    "time_observed_at": "2021-08-22T02:14:16Z",
     "user_login": "rafaelgarrido99",
     "image_url": "https://static.inaturalist.org/photos/152839618/medium.jpg",
     "latitude": -12.0985638333,
@@ -547,7 +547,7 @@
   },
   {
     "id": 93108970,
-    "time_observed_at": "2021-08-30 00:50:00 UTC",
+    "time_observed_at": "2021-08-30T00:50:00Z",
     "user_login": "cienciaciudadanaperu",
     "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/154269575/medium.png",
     "latitude": -12.140917,
@@ -561,7 +561,7 @@
   },
   {
     "id": 93112332,
-    "time_observed_at": "2021-05-10 06:05:00 UTC",
+    "time_observed_at": "2021-05-10T06:05:00Z",
     "user_login": "gabriela146",
     "image_url": "https://static.inaturalist.org/photos/154276743/medium.jpeg",
     "latitude": -12.9258115,

@@ -26,23 +26,30 @@
             "text": "iNaturalist Project"
           }
         ],
-        "tabs": [
-          { "label": "About", "component": "AboutProject", "link": "" },
-          {
-            "label": "Species",
-            "component": "TaxaGrid",
-            "link": "taxa"
-          },
+        "tabs_project": [
+          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
           {
             "label": "Indicator Species",
             "component": "TaxaGrid",
+            "value": 1,
             "link": "indicator-species"
+          },
+          {
+            "label": "Species",
+            "component": "TaxaGrid",
+            "value": 2,
+            "link": "taxa"
           },
           {
             "label": "Explore Data",
             "component": "ExploreData",
+            "value": 3,
             "link": "explore-data"
           }
+        ],
+        "tabs_taxa": [
+          { "label": "About", "component": "TaxaAbout", "value": 0 },
+          { "label": "Images", "component": "TaxaImages", "value": 1 }
         ]
       }
     ]
@@ -77,10 +84,19 @@
             "text": "CHSN Bioblitzes"
           }
         ],
-        "tabs": [
-          { "label": "About", "component": "AboutProject", "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "link": "taxa" },
-          { "label": "Explore Data", "component": "ExploreData", "link": "explore-data" }
+        "tabs_project": [
+          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
+          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
+          {
+            "label": "Explore Data",
+            "component": "ExploreData",
+            "value": 2,
+            "link": "explore-data"
+          }
+        ],
+        "tabs_taxa": [
+          { "label": "About", "component": "TaxaAbout", "value": 0 },
+          { "label": "Images", "component": "TaxaImages", "value": 1 }
         ]
       }
     ]
@@ -111,9 +127,14 @@
             "text": "iNaturalist project"
           }
         ],
-        "tabs": [
-          { "label": "About", "component": "AboutProject", "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "link": "taxa" }
+        "tabs_project": [
+          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
+          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" }
+        ],
+        "tabs_taxa": [
+          { "label": "About", "component": "TaxaAbout", "value": 0 },
+          { "label": "Images", "component": "TaxaImages", "value": 1 },
+          { "label": "Videos & Sounds", "component": "TaxaMedia", "value": 2 }
         ]
       },
       {
@@ -136,9 +157,13 @@
             "text": "iNaturalist project"
           }
         ],
-        "tabs": [
-          { "label": "About", "component": "AboutProject", "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "link": "taxa" }
+        "tabs_project": [
+          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
+          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" }
+        ],
+        "tabs_taxa": [
+          { "label": "About", "component": "TaxaAbout", "value": 0 },
+          { "label": "Images", "component": "TaxaImages", "value": 1 }
         ]
       }
     ]
@@ -173,10 +198,19 @@
             "text": "iNaturalist Project"
           }
         ],
-        "tabs": [
-          { "label": "About", "component": "AboutProject", "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "link": "taxa" },
-          { "label": "Explore Data", "component": "ExploreData", "link": "explore-data" }
+        "tabs_project": [
+          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
+          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
+          {
+            "label": "Explore Data",
+            "component": "ExploreData",
+            "value": 2,
+            "link": "explore-data"
+          }
+        ],
+        "tabs_taxa": [
+          { "label": "About", "component": "TaxaAbout", "value": 0 },
+          { "label": "Images", "component": "TaxaImages", "value": 1 }
         ]
       }
     ]
