@@ -20,7 +20,7 @@
       taxa = taxa.filter((t) => t.is_species);
     }
 
-    return { props: { project, taxa, user } };
+    return { props: { project, taxa, user, pagePath: page.path } };
   }
 </script>
 
@@ -31,8 +31,9 @@
   export let project;
   export let taxa;
   export let user;
+  export let pagePath;
 </script>
 
 <ProjectHeader {project} {user} />
 
-<TaxaGrid {project} {taxa} {user} />
+<TaxaGrid {project} {taxa} {user} {pagePath} />

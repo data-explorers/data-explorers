@@ -2,6 +2,7 @@
   export let taxa;
   export let project;
   export let user;
+  export let pagePath;
 
   let page = 1;
   let limit = 24;
@@ -9,7 +10,10 @@
 
   $: showLoadMore = page * limit < taxa.length;
 
-  let currentTab = project.tabs_project.filter((tab) => tab.component === 'TaxaGrid')[0];
+  let pathParts = pagePath.split('/');
+  let currentTab = project.tabs_project.filter(
+    (tab) => tab.link === pathParts[pathParts.length - 1]
+  )[0];
 
   function loadMore() {
     page = page + 1;
