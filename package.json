@@ -24,6 +24,7 @@
     "svelte": "^3.42.6",
     "svelte-leafletjs": "^0.8.0",
     "svelte-preprocess": "^4.9.8",
+    "svelte-select": "^4.4.6",
     "tailwindcss": "^2.2.16"
   },
   "type": "module",
