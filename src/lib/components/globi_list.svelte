@@ -1,4 +1,5 @@
 <script>
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
   export let interactionTaxa;
   export let title;
 </script>
@@ -9,10 +10,13 @@
     {#each interactionTaxa as taxon}
       {#if taxon}
         <li>
-          {#if taxon.target_common_name}{taxon.target_common_name}{/if}
-          {#if taxon.target_scientific_name}<span class="text-gray-400"
-              >({taxon.target_scientific_name})</span
-            >{/if}
+          {@html formatTaxonDisplayName(
+            {
+              common_name: taxon.target_common_name,
+              scientific_name: taxon.target_scientific_name
+            },
+            true
+          )}
           <a class="external-link" href="https://www.inaturalist.org/taxa/{taxon.target_taxon_id}"
             >iNaturalist link</a
           >

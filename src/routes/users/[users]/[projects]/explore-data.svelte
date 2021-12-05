@@ -25,6 +25,7 @@
   import Select from 'svelte-select';
 
   import ProjectHeader from '$lib/components/project_header.svelte';
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let project;
   export let user;
@@ -35,17 +36,6 @@
   let groupedObservations = {};
   let keyword = '';
   let groupedKeywords = {};
-
-  function formatTaxonDisplayName(taxon) {
-    let fullName = [];
-    if (taxon.common_name) {
-      fullName.push(taxon.common_name);
-    }
-    if (taxon.scientific_name) {
-      fullName.push(`(${taxon.scientific_name})`);
-    }
-    return fullName.join(' ');
-  }
 
   const myPromise = (filterText) => {
     console.log('myPromise', filterText);
