@@ -41,9 +41,15 @@
             "link": "taxa"
           },
           {
+            "label": "Species (iNat counts)",
+            "component": "TaxaGridiNat",
+            "value": 3,
+            "link": "taxa-inat"
+          },
+          {
             "label": "Explore Data",
             "component": "ExploreData",
-            "value": 3,
+            "value": 4,
             "link": "explore-data"
           }
         ],
@@ -88,6 +94,12 @@
           { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
           { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
           {
+            "label": "Species (iNat counts)",
+            "component": "TaxaGridiNat",
+            "value": 3,
+            "link": "taxa-inat"
+          },
+          {
             "label": "Explore Data",
             "component": "ExploreData",
             "value": 2,
@@ -129,7 +141,19 @@
         ],
         "tabs_project": [
           { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" }
+          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
+          {
+            "label": "Species (iNat counts)",
+            "component": "TaxaGridiNat",
+            "value": 2,
+            "link": "taxa-inat"
+          },
+          {
+            "label": "Explore Data",
+            "component": "ExploreData",
+            "value": 3,
+            "link": "explore-data"
+          }
         ],
         "tabs_taxa": [
           { "label": "About", "component": "TaxaAbout", "value": 0 },
@@ -159,7 +183,19 @@
         ],
         "tabs_project": [
           { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" }
+          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
+          {
+            "label": "Species (iNat counts)",
+            "component": "TaxaGridiNat",
+            "value": 2,
+            "link": "taxa-inat"
+          },
+          {
+            "label": "Explore Data",
+            "component": "ExploreData",
+            "value": 3,
+            "link": "explore-data"
+          }
         ],
         "tabs_taxa": [
           { "label": "About", "component": "TaxaAbout", "value": 0 },
@@ -201,6 +237,12 @@
         "tabs_project": [
           { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
           { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
+          {
+            "label": "Species (iNat counts)",
+            "component": "TaxaGridiNat",
+            "value": 3,
+            "link": "taxa-inat"
+          },
           {
             "label": "Explore Data",
             "component": "ExploreData",

@@ -17,6 +17,7 @@
       // during build process.
       let res = await import(`../../../../lib/data/${project.slug}/taxa.json`);
       taxa = res.default;
+      taxa = taxa.filter((t) => t.is_species);
     }
 
     return { props: { project, taxa, user, pagePath: page.path } };
