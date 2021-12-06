@@ -37,15 +37,16 @@
   if (mapOptions.displayType === 'month') {
     availableMonths = [
       ...new Set(
-        observations.map((o) => {
-          if (o.time_observed_at) {
-            return new Date(o.time_observed_at).getMonth();
-          } else {
-            return 'unknown';
-          }
-        })
+        observations
+          .filter((o) => o.time_observed_at)
+          .map((o) => new Date(o.time_observed_at).getMonth())
       )
-    ].sort();
+    ].sort((a, b) => a - b);
+
+    let missingDate = observations.filter((o) => !o.time_observed_at);
+    if (missingDate.length > 0) {
+      availableMonths.push('unknown');
+    }
     availableMonths.forEach((month) => (activeClasses[month] = true));
 
     observations = observations.map((o) => {
@@ -61,15 +62,17 @@
   } else if (mapOptions.displayType === 'year') {
     availableYears = [
       ...new Set(
-        observations.map((o) => {
-          if (o.time_observed_at) {
-            return new Date(o.time_observed_at).getFullYear();
-          } else {
-            return 'unknown';
-          }
-        })
+        observations
+          .filter((o) => o.time_observed_at)
+          .map((o) => new Date(o.time_observed_at).getFullYear())
       )
-    ].sort();
+    ].sort((a, b) => a - b);
+
+    let missingDate = observations.filter((o) => !o.time_observed_at);
+    if (missingDate.length > 0) {
+      availableYears.push('unknown');
+    }
+
     availableYears.forEach((year) => (activeClasses[year] = true));
     observations = observations.map((o) => {
       let dateObj = o.time_observed_at && new Date(o.time_observed_at);
