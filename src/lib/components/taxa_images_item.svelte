@@ -7,23 +7,26 @@
     <img src={observation.image_url} alt="image of {observation.scientific_name}" />
   </label>
   {#if observation.time_observed_at}
-    <b>Date:</b> {new Date(observation.time_observed_at).toLocaleDateString()}
+    <b>Date:</b> {new Date(observation.time_observed_at).toLocaleDateString()}<br />
   {:else}
-    <b>Date:</b> unknown
+    <b>Date:</b> unknown<br />
   {/if}
+  <b>Observer:</b>
+  {observation.user_login}
   <input type="checkbox" id="my-modal-{observation.id}" class="modal-toggle" />
 
   <div class="modal">
     <div class="modal-box p-4 rounded-none overflow-y-auto">
       <div class="mb-2">
-        <b>Observer:</b>
-        {observation.user_login},
         <b>Date:</b>
         {#if observation.time_observed_at}
-          {new Date(observation.time_observed_at).toLocaleDateString()}
+          {new Date(observation.time_observed_at).toLocaleDateString()},
         {:else}
-          unknown
+          unknown,
         {/if}
+        <b>Observer:</b>
+        {observation.user_login}
+
         <label for="my-modal-{observation.id}" class="float-right btn btn-circle btn-sm">
           <svg
             xmlns="http://www.w3.org/2000/svg"
