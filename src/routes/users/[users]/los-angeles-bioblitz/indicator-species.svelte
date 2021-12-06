@@ -23,6 +23,8 @@
 
 <h1>Indicator Species</h1>
 
+<h2>{taxa.length} Species</h2>
+
 <div class="grid lg:grid-cols-4 md:grid-cols-3  sm:grid-cols-2 justify-center gap-3">
   {#each taxa as { image_url, common_name, count, scientific_name, user_login, taxon_group, taxon_id, type }}
     <div class="card bordered">
