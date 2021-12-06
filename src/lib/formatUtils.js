@@ -12,3 +12,12 @@ export function formatTaxonDisplayName(taxon, includeStyle) {
   }
   return fullName.join(' ');
 }
+
+
+export function truncate(text, limit = 30) {
+  if (text.length > limit) {
+    text = `${text.slice(0, limit)}...`;
+  }
+
+  return text;
+}
