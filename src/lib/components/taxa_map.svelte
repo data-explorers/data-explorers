@@ -10,8 +10,8 @@
     radiusZoom,
     rectangleLatitudeZoom,
     rectangleLongitudeZoom,
-    colorsTen,
-    colorsTwelve
+    colorsEightDiverge,
+    colorsTwelveSequential
   } from '$lib/mapUtils';
 
   export let observations;
@@ -22,6 +22,8 @@
   let availableMonths;
   let activeClasses = {};
   let defaultColor = '#3388ff';
+  let colorSchemeMonths = colorsTwelveSequential;
+  let colorScheme = colorsEightDiverge;
 
   // set default map values
   mapOptions = {
@@ -55,7 +57,7 @@
       return {
         ...o,
         month: month,
-        color: colorsTwelve[month] || defaultColor
+        color: colorSchemeMonths[month] || defaultColor
       };
     });
     // add year data
@@ -74,11 +76,12 @@
     }
 
     availableYears.forEach((year) => (activeClasses[year] = true));
+
     observations = observations.map((o) => {
       let dateObj = o.time_observed_at && new Date(o.time_observed_at);
       let year = o.time_observed_at ? dateObj.getFullYear() : 'unknown';
       let color = o.time_observed_at
-        ? colorsTen[modulo(availableYears.indexOf(year), 10)]
+        ? colorScheme[modulo(availableYears.indexOf(year), colorScheme.length)]
         : defaultColor;
       return {
         ...o,
@@ -242,9 +245,9 @@
                 cx="10"
                 cy="10"
                 r="8"
-                stroke={colorsTwelve[month] || defaultColor}
+                stroke={colorSchemeMonths[month] || defaultColor}
                 stroke-width="3"
-                fill={colorsTwelve[month] || defaultColor}
+                fill={colorSchemeMonths[month] || defaultColor}
                 fill-opacity=".20"
                 data-filter={month}
               />
@@ -256,9 +259,9 @@
                 height="14"
                 y="2"
                 x="2"
-                stroke={colorsTwelve[month] || defaultColor}
+                stroke={colorSchemeMonths[month] || defaultColor}
                 stroke-width="3"
-                fill={colorsTwelve[month] || defaultColor}
+                fill={colorSchemeMonths[month] || defaultColor}
                 fill-opacity=".20"
                 data-filter={index}
               />
@@ -295,9 +298,9 @@
                 cx="10"
                 cy="10"
                 r="8"
-                stroke={colorsTen[modulo(index, 10)]}
+                stroke={colorScheme[modulo(index, colorScheme.length)]}
                 stroke-width="3"
-                fill={colorsTen[modulo(index, 10)]}
+                fill={colorScheme[modulo(index, colorScheme.length)]}
                 fill-opacity=".20"
               />
             </svg><span data-filter={year}>{year}</span>
