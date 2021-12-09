@@ -3,7 +3,7 @@
   export let tabs = [];
   export let activeTabValue = 0;
 
-  const handleClick = (tabValue, tabLabel) => {
+  const handleClick = (tabValue) => {
     activeTabValue = tabValue;
   };
 </script>
@@ -11,7 +11,7 @@
 <div class="tabs my-4">
   {#each tabs as tab}
     <div class="tab tab-bordered" class:tab-active={activeTabValue === tab.value}>
-      <span on:click={handleClick(tab.value, tab.label)}>{tab.label}</span>
+      <span on:click={handleClick(tab.value)}>{tab.label}</span>
     </div>
   {/each}
 </div>

@@ -1,65 +1,52 @@
 <script>
+  import Modal from '$lib/components/modal.svelte';
+  import ModalMagnify from '$lib/components/modal-magnify.svelte';
+
   export let observation;
+
+  let loadImage = false;
 </script>
 
 <div>
-  <label for="my-modal-{observation.id}" class="">
-    <img src={observation.image_url} alt="image of {observation.scientific_name}" />
-  </label>
-  {#if observation.time_observed_at}
-    <b>Date:</b> {new Date(observation.time_observed_at).toLocaleDateString()}<br />
-  {:else}
-    <b>Date:</b> unknown<br />
-  {/if}
-  <b>Observer:</b>
-  {observation.user_login}
-  <input type="checkbox" id="my-modal-{observation.id}" class="modal-toggle" />
-
-  <div class="modal">
-    <div class="modal-box p-4 rounded-none overflow-y-auto">
-      <div class="mb-2">
-        <b>Date:</b>
-        {#if observation.time_observed_at}
-          {new Date(observation.time_observed_at).toLocaleDateString()},
-        {:else}
-          unknown,
-        {/if}
-        <b>Observer:</b>
-        {observation.user_login}
-
-        <label for="my-modal-{observation.id}" class="float-right btn btn-circle btn-sm">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            class="inline-block w-4 h-4 stroke-current md:w-6 md:h-6"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M6 18L18 6M6 6l12 12"
-            />
-          </svg>
-        </label>
-        <a class="mt-2 block" href="https://www.inaturalist.org/observations/{observation.id}"
-          >iNaturalist link</a
-        >
-      </div>
-      <img src={observation.image_url} alt="image of {observation.scientific_name}" />
+  <div class="border border-1">
+    <ModalMagnify modalname="my-modal-{observation.id}">
+      <img
+        on:click={() => (loadImage = true)}
+        src={observation.image_url}
+        alt="image of {observation.scientific_name}"
+      />
+    </ModalMagnify>
+    <div class="p-4">
+      {#if observation.time_observed_at}
+        <b>Date:</b> {new Date(observation.time_observed_at).toLocaleDateString()}<br />
+      {:else}
+        <b>Date:</b> unknown<br />
+      {/if}
+      <b>Observer:</b>
+      {observation.user_login}
     </div>
   </div>
-</div>
 
-<style>
-  .modal {
-    /* set z-index to 1000 to be on top of leaflet z-index of 999 */
-    z-index: 1000;
-  }
-  .modal-box {
-    max-height: 95vh;
-  }
-  .modal-box img {
-    max-height: 80vh;
-  }
-</style>
+  <Modal modalname="my-modal-{observation.id}">
+    <div slot="popup">
+      <b>Date:</b>
+      {#if observation.time_observed_at}
+        {new Date(observation.time_observed_at).toLocaleDateString()},
+      {:else}
+        unknown,
+      {/if}
+      <b>Observer:</b>
+      {observation.user_login}
+
+      <a class="mt-2 mb-4 block" href="https://www.inaturalist.org/observations/{observation.id}"
+        >iNaturalist link</a
+      >
+      {#if loadImage}
+        <img
+          src={observation.image_url.replace('medium', 'large')}
+          alt="image of {observation.scientific_name}"
+        />
+      {/if}
+    </div>
+  </Modal>
+</div>
