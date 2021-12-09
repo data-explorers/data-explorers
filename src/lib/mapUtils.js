@@ -91,12 +91,12 @@ export function rectangleLongitudeZoom(zoomLevel) {
   return 12 / 2 ** zoomLevel;
 }
 
+export const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+let attribution = '© OpenStreetMap contributors';
 
-export const tileUrl = 'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
 export const tileLayerOptions = {
   minZoom: 0,
   maxZoom: 20,
   maxNativeZoom: 19,
-  attribution:
-    '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  attribution: attribution
 };

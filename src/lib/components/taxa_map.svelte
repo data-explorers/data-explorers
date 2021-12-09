@@ -11,7 +11,9 @@
     rectangleLatitudeZoom,
     rectangleLongitudeZoom,
     colorsEightDiverge,
-    colorsTwelveSequential
+    colorsTwelveSequential,
+    tileLayerOptions,
+    tileUrl
   } from '$lib/mapUtils';
 
   export let observations;
@@ -113,19 +115,6 @@
       ];
     }
   }
-
-  // const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-  // const tileUrl = 'https://a.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png';
-  // const tileUrl = 'https://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png';
-  const tileUrl = 'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
-  const tileLayerOptions = {
-    minZoom: 0,
-    maxZoom: 20,
-    maxNativeZoom: 19,
-    // attribution: '© OpenStreetMap contributors'
-    attribution:
-      '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
-  };
 
   let zoomLevel = 0;
   let circleRadius = 1;
