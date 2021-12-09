@@ -24,12 +24,19 @@
   let zoomLevel = 0;
   let circleRadius = 1;
 
-  // make certain variables reactive so they chamge values when user zooms
+  // make certain variables reactive so they change values when user zooms
   // in and out of map
   $: if (leafletMap && mapOptions.displayType !== 'marker') {
     zoomLevel = leafletMap.getMap().getZoom();
   }
   $: if (leafletMap && mapOptions.displayType !== 'marker') circleRadius = radiusZoom(zoomLevel);
+
+  $: observations = observations.filter((o) => o.latitude && o.longitude);
+  $: coordinates = observations.map((o) => [o.latitude, o.longitude]);
+
+  $: if (leafletMap && coordinates.length > 0) {
+    leafletMap.getMap().fitBounds(coordinates);
+  }
 
   onMount(() => {
     leafletMap.getMap().on('zoomend', function () {
