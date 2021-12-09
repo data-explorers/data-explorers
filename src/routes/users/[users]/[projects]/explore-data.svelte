@@ -22,19 +22,13 @@
 
 <script>
   import { onMount } from 'svelte';
-  import Select from 'svelte-select';
+  import AutoComplete from 'simple-svelte-autocomplete';
 
   import ProjectHeader from '$lib/components/project_header.svelte';
-  import { formatTaxonDisplayName, truncate } from '$lib/formatUtils';
-  import {
-    modulo,
-    getMonthName,
-    coldMonths,
-    radiusZoom,
-    rectangleLatitudeZoom,
-    rectangleLongitudeZoom,
-    colorsSixDiverge
-  } from '$lib/mapUtils';
+  import { modulo, colorsSixDiverge } from '$lib/mapUtils';
+  import { fetchTaxonByName } from '$lib/dataUtils';
+  import Modal from '$lib/components/modal.svelte';
+  import ModalMagnify from '$lib/components/modal-magnify.svelte';
 
   export let project;
   export let user;
@@ -44,55 +38,18 @@
   let colorScheme = colorsSixDiverge;
   let observations = [];
   let groupedObservations = {};
-  let keyword = '';
-  // let groupedKeywords = {};
-  // let selectedTaxa = [
-  //   {taxonId: 1, taxonName: 'Red-headed Woodpecker (Melanerpes erythrocephalus) ',  color: colorScheme[0]},
-  //   {taxonId: 1, taxonName: 'Red Fox (Vulpes vulpes)', color: colorScheme[1]},
-  //   {taxonId: 1, taxonName: 'abc def (abc)', color: colorScheme[2]}
-  // ]
+  let item = '';
   let selectedTaxa = [];
 
   // =====================
   // type ahead select
   // =====================
 
-  const fetchTaxa = (filterText) => {
-    return new Promise((resolve, reject) => {
-      let results = [];
-      if (filterText.length > 2) {
-        keyword = filterText;
-
-        // search by common name
-        results = taxa.filter((taxon) => {
-          if (taxon.common_name) {
-            return taxon.common_name.toLowerCase().includes(filterText.toLowerCase());
-          }
-        });
-
-        // search by scientific name
-        if (results.length === 0) {
-          results = taxa.filter((taxon) => {
-            if (taxon.scientific_name) {
-              return taxon.scientific_name.toLowerCase().includes(filterText.toLowerCase());
-            }
-          });
-        }
-
-        results = results.map((t) => {
-          return {
-            value: t.taxon_id,
-            label: formatTaxonDisplayName(t)
-          };
-        });
-      }
-      resolve(results);
-    });
-  };
-
   function handleSelect(event) {
-    let taxonName = event.detail.label;
-    let taxonId = event.detail.value;
+    if (!event || !event.label) return;
+
+    let taxonName = event.label;
+    let taxonId = event.value;
     let index = modulo(selectedTaxa.length, colorScheme.length);
 
     if (Object.keys(groupedObservations).includes('' + taxonId)) {
@@ -123,33 +80,26 @@
       });
     observations = observations.concat(selectedObservations);
     groupedObservations[taxonId] = selectedObservations;
-
-    console.log('handleSelect', taxonId, Object.keys(groupedObservations), observations.length);
   }
 
   async function loadOptions(filterText) {
-    return await fetchTaxa(filterText);
+    return await fetchTaxonByName(taxa, filterText);
   }
-
 
   // =====================
   // map
   // =====================
 
-
   function removeTaxon(e) {
     let taxonId = Number(e.target.dataset['taxonId']);
-    console.log('removeTaxon', taxonId, Object.keys(groupedObservations), observations.length);
 
     selectedTaxa = selectedTaxa.filter((t) => t.taxonId !== taxonId);
     observations = observations.filter((o) => o.taxon_id !== taxonId);
     delete groupedObservations[taxonId];
-    console.log('removeTaxon', taxonId, Object.keys(groupedObservations), observations.length);
   }
 
   function toggleTaxon(e) {
     let taxonId = Number(e.target.dataset['taxonId']);
-    console.log('toggleTaxon', taxonId, observations.length);
 
     let currentlyActive = true;
     selectedTaxa = selectedTaxa.map((t) => {
@@ -166,11 +116,7 @@
     } else {
       observations = observations.filter((o) => o.taxon_id !== taxonId);
     }
-
-    console.log('toggleTaxon', taxonId, observations.length);
   }
-
-
 
   let mapOptions = {
     zoom: project.zoom,
@@ -184,66 +130,140 @@
     const comp = await import('$lib/components/explore_data_map.svelte');
     Map = comp.default;
   });
+
+  $: item;
+  $: if (item && item.length > 2) {
+    loadOptions(item);
+  }
+
+  let zoo = false;
 </script>
 
 <ProjectHeader {project} {user} />
+<div class="prose max-w-none">
+  <h1>{currentTab.label}</h1>
 
-{JSON.stringify(selectedTaxa)}<br />
-keyword: {keyword}, observations: {observations.length}
+  <div class="grid lg:grid-cols-10 gap-3 mb-6">
+    <div class="lg:col-span-3">
+      <h3 class="mt-0">Biodiversity</h3>
 
-<h1>{currentTab.label}</h1>
-
-<div class="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2  justify-center gap-3">
-  {#each selectedTaxa as taxon}
-    <div class="border p-1">
-      <input
-        type="checkbox"
-        checked="checked"
-        data-taxon-id={taxon.taxonId}
-        on:click={toggleTaxon}
-      />
-
-      <svg height="20" width="20" class="inline">
-        <circle
-          cx="10"
-          cy="10"
-          r="8"
-          stroke={taxon.color}
-          stroke-width="3"
-          fill={taxon.color}
-          fill-opacity=".20"
+      <div class="max-w-lg mb-6 autocomplete">
+        <AutoComplete
+          searchFunction={loadOptions}
+          onChange={handleSelect}
+          localFiltering="false"
+          labelFieldName="label"
+          valueFieldName="value"
+          maxItemsToShowInList="8"
+          hideArrow="true"
+          showClear="true"
+          placeholder="Search species name"
+          bind:selectedItem={item}
         />
-      </svg>
-      <button class="float-right" data-taxon-id={taxon.taxonId} on:click={removeTaxon}>
-        <svg
-          data-taxon-id={taxon.taxonId}
-          xmlns="http://www.w3.org/2000/svg"
-          fill="none"
-          viewBox="0 0 24 24"
-          class="inline-block w-4 h-4  stroke-current"
-        >
-          <path
+      </div>
+
+      {#each selectedTaxa as taxon}
+        <div class="border p-1 mb-2">
+          <input
+            type="checkbox"
+            checked="checked"
             data-taxon-id={taxon.taxonId}
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M6 18L18 6M6 6l12 12"
+            on:click={toggleTaxon}
           />
-        </svg>
-      </button>
-      <span class="text-sm">{truncate(taxon.taxonName)}</span>
+
+          <svg height="20" width="20" class="inline">
+            <circle
+              cx="10"
+              cy="10"
+              r="8"
+              stroke={taxon.color}
+              stroke-width="3"
+              fill={taxon.color}
+              fill-opacity=".20"
+            />
+          </svg>
+          <button class="float-right" data-taxon-id={taxon.taxonId} on:click={removeTaxon}>
+            <svg
+              data-taxon-id={taxon.taxonId}
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 24 24"
+              class="inline-block w-4 h-4  stroke-current"
+            >
+              <path
+                data-taxon-id={taxon.taxonId}
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M6 18L18 6M6 6l12 12"
+              />
+            </svg>
+          </button>
+          <span class="text-sm">{taxon.taxonName}</span>
+        </div>
+      {/each}
+
+      <h3>Environmental Factors</h3>
+
+      <span>Temperature and Preciptation 2019</span>
+
+      <ModalMagnify modalname="my-modal">
+        <img
+          src="/images/{user.username}/{project.slug}/climate-chart-small.png"
+          alt="climate chart for {project.location}"
+        />
+      </ModalMagnify>
+
+      <Modal modalname="my-modal">
+        <img
+          slot="popup"
+          src="/images/{user.username}/{project.slug}/climate-chart.png"
+          alt="climate chart for {project.location}"
+        />
+      </Modal>
     </div>
-  {/each}
-</div>
 
-<div class="themed my-8">
-  <Select {loadOptions} on:select={handleSelect} />
+    <div class="lg:col-span-7">
+      <svelte:component this={Map} {mapOptions} {observations} />
+    </div>
+  </div>
 </div>
-
-<svelte:component this={Map} {mapOptions} {observations} />
 
 <style>
-  .themed {
-    --listZIndex: 1001;
+  /* https://github.com/sveltejs/svelte/issues/4796
+https://gitanswer.com/svelte-add-an-option-to-prevent-removal-of-unused-css-selectors-classes-typescript-769226779 */
+
+  /* the class applied to the main control */
+  .autocomplete :global(.autocomplete) {
+    width: 100%;
+    font-weight: 400;
+    background-image: none;
+    padding: 0;
+  }
+
+  .autocomplete :global(.select) {
+    min-height: 0;
+  }
+
+  /* the class applied to the input list */
+  .autocomplete :global(.autocomplete-input) {
+    border-color: var(--border-color);
+    padding: 0.5rem;
+  }
+
+  /* the class applied to the dropdown list */
+  .autocomplete :global(.autocomplete-list) {
+    z-index: 1001;
+    border-color: var(--border-color);
+  }
+
+  /* autocomplete-list-item */
+  .autocomplete :global(.autocomplete-list-item.selected) {
+    background-color: var(--bg-gray);
+    color: var(--text-color);
+  }
+
+  h3:first-of-type {
+    margin-top: 0;
   }
 </style>
