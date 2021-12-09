@@ -1,6 +1,5 @@
-<h1 class="text-4xl text-center m-8 font-extrabold">About</h1>
-
-<main class="prose">
+<div class="prose">
+  <h1>About</h1>
   <p>
     Cillum et ex esse proident adipisicing magna reprehenderit minim. Enim proident et culpa ea
     dolore veniam dolor sint fugiat. Reprehenderit fugiat consectetur qui magna esse mollit elit.
@@ -12,4 +11,4 @@
     tempor sit pariatur laboris cupidatat tempor excepteur ipsum nulla sit. Magna minim aliqua ipsum
     veniam ullamco non aute nostrud qui irure.
   </p>
-</main>
+</div>

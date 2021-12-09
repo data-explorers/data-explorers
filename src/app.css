@@ -3,30 +3,120 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    @apply font-medium;
-  }
-  h1 {
-    @apply text-4xl;
-    @apply my-8;
-  }
-  h2 {
-    @apply text-3xl;
-    @apply my-6;
-  }
+:root {
+  --gray-200: rgb(229, 231, 235);
+  --gray-300: rgb(209, 213, 219);
+  --gray-400: rgb(156, 163, 175);
+  --gray-500: rgb(107, 114, 128);
+  --gray-600: rgb(75, 85, 99);
+  --gray-700: rgb(55, 65, 81);
+  --gray-800: rgb(31, 41, 55);
+  --gray-900: rgb(17, 24, 39);
 
-  h3 {
-    @apply text-2xl;
-    @apply my-4;
+  --border-color: var(--gray-300);
+  --text-color: var(--bc);
+  --bg-gray: var(--gray-300);
+}
+
+footer {
+  margin-top: 2rem;
+}
+
+.card a:link {
+  @apply no-underline;
+}
+
+.card a:hover {
+  @apply underline;
+}
+
+.prose h1:first-child {
+  margin-top: 2rem;
+}
+
+.prose h2 {
+  margin-top: 2rem;
+}
+
+.hero {
+  padding: 0.5em;
+  margin: 1em 0;
+  display: grid;
+  place-items: start;
+  min-height: 150px;
+  align-items: flex-end;
+}
+
+.hero h1 {
+  font-weight: 700;
+  font-size: 1.5em;
+  padding: 0.125em 0.75em;
+}
+
+.prose h1 + * {
+  /* @apply mt-0; */
+}
+
+.prose figure,
+.prose img {
+  @apply mt-0;
+  @apply mb-0;
+}
+
+.table-compact td,
+.table-compact th {
+  font-size: 1rem;
+}
+
+.image-card {
+  @apply border;
+}
+
+.image-card figure,
+.image-card figure > * {
+  width: 100%;
+}
+
+.image-card a:link {
+  text-decoration: none;
+}
+
+.image-card .image-card-body h2 {
+  margin-top: 0;
+}
+
+.image-card .image-card-body p {
+  margin-bottom: 0;
+}
+
+.image-card .image-card-body {
+  padding: 1em;
+}
+
+.image-card .image-card-body a:hover > * {
+  opacity: 0.5;
+}
+
+.image-card img {
+  height: 225px;
+  object-fit: cover;
+}
+@media (max-width: 640px) {
+  .image-card img {
+    height: 400px;
+    object-fit: cover;
   }
-  h4 {
-    @apply text-xl;
-    @apply my-2;
-  }
+}
+
+/* https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+ sticky footer at bottom of page */
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
 }

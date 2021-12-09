@@ -27,6 +27,10 @@
 {/if}
 
 <style>
+  li {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
   .external-link {
     font-size: 0.85rem;
     margin-left: 0.5rem;

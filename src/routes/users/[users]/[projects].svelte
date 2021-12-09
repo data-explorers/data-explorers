@@ -15,7 +15,7 @@
   export let project;
   export let user;
 
-  let mapOptions = { latitude: project.latitude, longitude: project.longitude, zoom: project.zoom };
+  let mapOptions = { latitude: project.latitude, longitude: project.longitude, zoom: 3 };
 
   // NOTE: must use dynamic import to load leaflet since leaflet depends on
   // window object. leaflet will not work with server side rendering.
@@ -28,22 +28,32 @@
 
 <ProjectHeader {project} {user} />
 
-<main class="">
+<div class="prose max-w-none">
   <h1>About</h1>
-  <div class="grid lg:grid-cols-3 md:grid-cols-2 justify-center gap-3">
-    <div class="col-span-2 prose">
-      <dl>
-        <dt class="font-bold">Location</dt>
-        <dd>{project.location}</dd>
-        <dt class="font-bold">Start Date</dt>
-        <dd>{project.start_date}</dd>
-        <dt class="font-bold">Audience</dt>
-        <dd>{project.target_audience}</dd>
-        <dt class="font-bold">Links</dt>
-        {#each project.links as link}
-          <dd><a href={link.url}>{link.text}</a></dd>
-        {/each}
-      </dl>
+  <div class="grid lg:grid-cols-3 gap-3">
+    <div class="lg:col-span-2 prose">
+      <table class="table table-compact">
+        <tr>
+          <th>Location</th>
+          <td>{project.location}</td>
+        </tr>
+        <tr>
+          <th>Start Date</th>
+          <td>{project.start_date}</td>
+        </tr>
+        <tr>
+          <th>Audience</th>
+          <td>{project.target_audience}</td>
+        </tr>
+        <tr>
+          <th>Links</th>
+          <td>
+            {#each project.links as link}
+              <a class="inline-block mr-4" href={link.url}>{link.text}</a>
+            {/each}
+          </td>
+        </tr>
+      </table>
       {@html project.description}
     </div>
     <div>
@@ -51,7 +61,7 @@
     </div>
   </div>
 
-  <div>
+  <div class="">
     <h2>Project Questions</h2>
     <ol>
       <li>Sint labore sunt magna duis officia pariatur ut?</li>
@@ -59,4 +69,4 @@
       <li>Id incididunt cillum magna dolor?</li>
     </ol>
   </div>
-</main>
+</div>

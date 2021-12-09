@@ -3,11 +3,7 @@
 </script>
 
 <div class="hero" style="background-image: url(&quot;/images/{user.username}/user.jpg&quot;);">
-  <div class="hero-overlay bg-opacity-50" />
-  <div class="text-center hero-content text-neutral-content">
-    <div class="max-w-md">
-      <h1>{user.card_title}</h1>
-      <p class="mb-5">{user.card_summary}</p>
-    </div>
+  <div class="text-neutral-content bg-black bg-opacity-50 p-1">
+    <h1>{user.card_title}</h1>
   </div>
 </div>

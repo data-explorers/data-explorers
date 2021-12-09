@@ -14,14 +14,11 @@
 </script>
 
 <div class="hero" style="background-image: url(&quot;{project.image}/1600/500&quot;);">
-  <div class="hero-overlay bg-opacity-50" />
-  <div class="text-center hero-content text-neutral-content">
-    <div class="max-w-md">
-      <h1>{project.title}</h1>
-      <p class="mb-5">{project.summary}</p>
-    </div>
+  <div class="text-neutral-content bg-black bg-opacity-50 p-1">
+    <h1>{project.title}</h1>
   </div>
 </div>
+
 <div class="tabs mt-4">
   {#each tabs as tab}
     <a

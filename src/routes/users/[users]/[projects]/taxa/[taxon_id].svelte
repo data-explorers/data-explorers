@@ -2,9 +2,8 @@
   import allInteractions from '$lib/data/interactions.json';
   import data from '$lib/data/data.json';
 
-  // range map from inat
-
-  // description from wikipedia
+  // TODO: range map from inat
+  // TODO: description from wikipedia
 
   export async function load({ page }) {
     let taxaData = await import(`../../../../../lib/data/${page.params.projects}/taxa.json`);
@@ -79,24 +78,26 @@
 
 <ProjectHeader {project} {user} />
 
-<h1 class="mb-0">
-  {#if taxon.common_name}{taxon.common_name}{/if}
-  {#if taxon.scientific_name}
-    <span class="text-2xl text-gray-400">({taxon.scientific_name})</span>
-  {/if}
-</h1>
-
-<h3>{observations.length} {observations.length === 1 ? 'observation' : 'observations'}</h3>
-
-<div class="grid md:grid-cols-2 gap-3">
-  <div>
-    {#if taxon.image_url}
-      <img src={taxon.image_url} alt="image of {taxon.scientific_name}" />
+<div class="prose max-w-none">
+  <h1>
+    {#if taxon.common_name}{taxon.common_name}{/if}
+    {#if taxon.scientific_name}
+      <span class="text-2xl text-gray-400">({taxon.scientific_name})</span>
     {/if}
-  </div>
+  </h1>
 
-  <div>
-    <svelte:component this={Map} {mapOptions} {observations} />
+  <h3>{observations.length} {observations.length === 1 ? 'observation' : 'observations'}</h3>
+
+  <div class="grid md:grid-cols-2 gap-3">
+    <div>
+      {#if taxon.image_url}
+        <img src={taxon.image_url} alt="image of {taxon.scientific_name}" />
+      {/if}
+    </div>
+
+    <div>
+      <svelte:component this={Map} {mapOptions} {observations} />
+    </div>
   </div>
 </div>
 

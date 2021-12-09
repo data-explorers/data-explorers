@@ -13,9 +13,9 @@
   let preyedUponByTaxa = interactions.filter((i) => i.interaction === 'preyedUponBy');
 </script>
 
-<h3>Description</h3>
+<div class="prose">
+  <h3>Description</h3>
 
-<article class="prose">
   <p>
     Cillum enim nisi qui velit reprehenderit ut ipsum quis est consectetur. Labore labore proident
     exercitation veniam cillum. Esse laboris aliquip commodo incididunt qui qui quis labore id
@@ -28,37 +28,37 @@
     voluptate duis ex mollit deserunt duis cupidatat tempor sint. Velit ea ipsum est exercitation
     excepteur laboris id.
   </p>
-</article>
 
-<h3>Native Status</h3>
+  <h3>Native Status</h3>
 
-{#if taxon.common_name}{taxon.common_name}{/if}
-{#if taxon.scientific_name}
-  <span class="text-gray-400">({taxon.scientific_name})</span>
-{/if}
-is native / not native to {project.location}.
+  {#if taxon.common_name}{taxon.common_name}{/if}
+  {#if taxon.scientific_name}
+    <span class="text-gray-400">({taxon.scientific_name})</span>
+  {/if}
+  is native / not native to {project.location}.
 
-<h3>Habitat</h3>
+  <h3>Habitat</h3>
 
-<p>
-  Adipisicing aliquip culpa cupidatat nulla cupidatat exercitation exercitation exercitation culpa
-  Lorem magna enim sunt ad. Officia ex veniam dolore incididunt enim dolor. Deserunt magna elit
-  voluptate duis ex mollit deserunt duis cupidatat tempor sint. Velit ea ipsum est exercitation
-  excepteur laboris id.
-</p>
+  <p>
+    Adipisicing aliquip culpa cupidatat nulla cupidatat exercitation exercitation exercitation culpa
+    Lorem magna enim sunt ad. Officia ex veniam dolore incididunt enim dolor. Deserunt magna elit
+    voluptate duis ex mollit deserunt duis cupidatat tempor sint. Velit ea ipsum est exercitation
+    excepteur laboris id.
+  </p>
 
-<h3>Related Species</h3>
+  <h3>Related Species</h3>
 
-<p>
-  Related species data comes from <a
-    href="https://www.globalbioticinteractions.org/?interactionType=interactsWith&sourceTaxon={taxon.scientific_name}"
-    >GloBI</a
-  >.
-</p>
+  <p>
+    Related species data comes from <a
+      href="https://www.globalbioticinteractions.org/?interactionType=interactsWith&sourceTaxon={taxon.scientific_name}"
+      >GloBI</a
+    >.
+  </p>
 
-<GlobiList interactionTaxa={eatsTaxa} title="Eats" />
-<GlobiList interactionTaxa={eatenByTaxa} title="Eaten by" />
-<GlobiList interactionTaxa={pollinatesTaxa} title="Pollinates" />
-<GlobiList interactionTaxa={pollinatedByTaxa} title="Pollinated by" />
-<GlobiList interactionTaxa={preysOnTaxa} title="Preys on" />
-<GlobiList interactionTaxa={preyedUponByTaxa} title="Preyed upon by" />
+  <GlobiList interactionTaxa={eatsTaxa} title="Eats" />
+  <GlobiList interactionTaxa={eatenByTaxa} title="Eaten by" />
+  <GlobiList interactionTaxa={pollinatesTaxa} title="Pollinates" />
+  <GlobiList interactionTaxa={pollinatedByTaxa} title="Pollinated by" />
+  <GlobiList interactionTaxa={preysOnTaxa} title="Preys on" />
+  <GlobiList interactionTaxa={preyedUponByTaxa} title="Preyed upon by" />
+</div>

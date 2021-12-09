@@ -10,22 +10,28 @@
   }
 </script>
 
-<h1 class="text-4xl text-center m-8 font-extrabold">Projects</h1>
+<div class="prose max-w-none">
+  <h1>Projects</h1>
 
-<div class="grid lg:grid-cols-3 md:grid-cols-2  justify-center gap-3">
-  {#each data as user_data}
-    <div class="card bordered">
-      <a href={user_data.card_link}>
-        <figure>
-          <img src="/images/{user_data.username}/user.jpg" alt="Photo for {user_data.card_title}" />
-        </figure>
-      </a>
-      <a href={user_data.card_link}>
-        <div class="card-body prose prose-lg">
-          <h2 class="card-title">{user_data.card_title}</h2>
-          <p>{user_data.card_summary}</p>
+  <div class="grid lg:grid-cols-3 md:grid-cols-2 justify-center gap-3">
+    {#each data as user_data}
+      <div class="image-card">
+        <a href={user_data.card_link}>
+          <figure>
+            <img
+              src="/images/{user_data.username}/user.jpg"
+              alt="Photo for {user_data.card_title}"
+            />
+          </figure>
+        </a>
+
+        <div class="image-card-body">
+          <a href={user_data.card_link}>
+            <h2>{user_data.card_title}</h2>
+            <p>{user_data.card_summary}</p>
+          </a>
         </div>
-      </a>
-    </div>
-  {/each}
+      </div>
+    {/each}
+  </div>
 </div>

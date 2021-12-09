@@ -17,22 +17,25 @@
 
 <UserHeader {user} />
 
-<h1>Projects</h1>
+<div class="prose max-w-none">
+  <h1>Projects</h1>
 
-<div class="grid lg:grid-cols-3 md:grid-cols-2  justify-center gap-3">
-  {#each projects as project}
-    <div class="card bordered">
-      <a href="/users/{user.username}/{project.slug}">
-        <figure>
-          <img src="{project.image}/400/250" alt="Photo for {project.title}" />
-        </figure>
-      </a>
-      <a href="/users/{user.username}/{project.slug}">
-        <div class="card-body prose prose-lg">
-          <h2 class="card-title">{project.title}</h2>
-          <p>{project.summary}</p>
+  <div class="grid lg:grid-cols-3 md:grid-cols-2  justify-center gap-3">
+    {#each projects as project}
+      <div class="image-card">
+        <a href="/users/{user.username}/{project.slug}">
+          <figure>
+            <img src="{project.image}/400/250" alt="Photo for {project.title}" />
+          </figure>
+        </a>
+
+        <div class="image-card-body">
+          <a href="/users/{user.username}/{project.slug}">
+            <h2>{project.title}</h2>
+            <p>{project.summary}</p>
+          </a>
         </div>
-      </a>
-    </div>
-  {/each}
+      </div>
+    {/each}
+  </div>
 </div>
