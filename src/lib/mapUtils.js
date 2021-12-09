@@ -91,8 +91,49 @@ export function rectangleLongitudeZoom(zoomLevel) {
   return 12 / 2 ** zoomLevel;
 }
 
+export const getMapTiles = (taxonID) => {
+  return {
+    inatGrid: {
+      url: `https://api.inaturalist.org/v1/grid/{z}/{x}/{y}.png?taxon_id=${taxonID}`,
+      attribution: ''
+    },
+    inatTaxonRange: {
+      url: `https://api.inaturalist.org/v1/taxon_ranges/${taxonID}/{z}/{x}/{y}.png`,
+      attribution: ''
+    },
+    osm: {
+      url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+      attribution: '© OpenStreetMap contributors'
+    },
+    cartoVoyager: {
+      url: 'https://a.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png',
+      attribution:
+        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    },
+    cartoDark: {
+      url: 'https://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png',
+      attribution:
+        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    },
+    cartoLight: {
+      url: 'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
+      attribution:
+        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    }
+  };
+};
+
+// https://forum.inaturalist.org/t/in-pursuit-of-mappiness-part-1/21864
+// export const tileUrl = 'https://api.inaturalist.org/v1/taxon_ranges/42069/{z}/{x}/{y}.png'
+// export const tileUrl = 'https://api.inaturalist.org/v1/grid/{z}/{x}/{y}.png?taxon_id=42069'
+
 export const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 let attribution = '© OpenStreetMap contributors';
+
+// export const tileUrl = 'https://a.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png';
+// export const tileUrl = 'https://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png';
+// export const tileUrl = 'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
+// let attribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
 
 export const tileLayerOptions = {
   minZoom: 0,
