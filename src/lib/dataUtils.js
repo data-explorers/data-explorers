@@ -1,5 +1,5 @@
 import { formatTaxonDisplayName } from '$lib/formatUtils';
-import _groupBy from 'lodash.groupby';
+import { getDateRange, groupByMap } from '$lib/miscUtils';
 
 export const fetchTaxaByName = (taxa, keyword) => {
   // find taxa whose common name or scientific name matches the keyword
@@ -52,20 +52,6 @@ export const fecthObservationsByTaxonId = (observations, taxonId, color) => {
     });
 };
 
-function getDateRange(startDate, endDate, steps = 1) {
-  // return an array of dates between start and end dates
-  // https://stackoverflow.com/a/64592438
-  const dateArray = [];
-  let currentDate = new Date(startDate);
-
-  while (currentDate <= new Date(endDate)) {
-    dateArray.push(new Date(currentDate));
-    // Use UTC date to prevent problems with time zones and DST
-    currentDate.setUTCDate(currentDate.getUTCDate() + steps);
-  }
-  return dateArray;
-}
-
 export function getObservationsDateRange(allObservations) {
   // return all dates between first and last observations
   let dates = allObservations
@@ -77,43 +63,8 @@ export function getObservationsDateRange(allObservations) {
   return getDateRange(firstDate, lastDate);
 }
 
-function range(start, end) {
-  return Array.from({ length: end - start + 1 }, (_, i) => i);
-}
-
 export function getDateSliderValues(availableDates) {
   return [0, availableDates.length - 1];
-}
-
-function getNumberOfMonthsBetween(dateFrom, dateTo) {
-  // https://stackoverflow.com/a/4312956
-  let dateObjFrom = new Date(dateFrom);
-  let dateObjTo = new Date(dateTo);
-  return (
-    dateObjFrom.getMonth() -
-    dateObjTo.getMonth() +
-    12 * (dateObjFrom.getFullYear() - dateObjTo.getFullYear())
-  );
-}
-
-function getMonthsBetween(dateFrom, dateTo) {
-  // https://stackoverflow.com/a/30465299
-  var start = dateFrom.split('-');
-  var end = dateTo.split('-');
-  var startYear = parseInt(start[0]);
-  var endYear = parseInt(end[0]);
-  var dates = [];
-
-  for (var i = startYear; i <= endYear; i++) {
-    var endMonth = i != endYear ? 11 : parseInt(end[1]) - 1;
-    var startMon = i === startYear ? parseInt(start[1]) - 1 : 0;
-    for (var j = startMon; j <= endMonth; j = j > 12 ? j % 12 || 11 : j + 1) {
-      var month = j + 1;
-      var displayMonth = month < 10 ? '0' + month : month;
-      dates.push([i, displayMonth, '01'].join('-'));
-    }
-  }
-  return dates;
 }
 
 export function sortObservationsNewestFirst(a, b) {
@@ -124,15 +75,37 @@ export function sortObservationsOldestFirst(a, b) {
   return new Date(a.time_observed_at) - new Date(b.time_observed_at);
 }
 
-export function sortObservations(observations, orderByValue) {
+export function sortObservationsNewestMonthFirst(a, b) {
+  return (
+    new Date(b.time_observed_at).getMonth() - new Date(a.time_observed_at).getMonth() ||
+    new Date(b.time_observed_at) - new Date(a.time_observed_at)
+  );
+}
+
+export function sortObservationsOldestMonthFirst(a, b) {
+  return (
+    new Date(a.time_observed_at).getMonth() - new Date(b.time_observed_at).getMonth() ||
+    new Date(a.time_observed_at) - new Date(b.time_observed_at)
+  );
+}
+
+export function sortObservations(observations, orderByValue, groupByValue) {
   let validObservations = observations.filter((o) => o.time_observed_at);
   let invalidObservations = observations.filter((o) => !o.time_observed_at);
   let temp;
 
   if (orderByValue === 'oldest') {
-    temp = validObservations.sort(sortObservationsOldestFirst);
+    if (groupByValue === 'month') {
+      temp = validObservations.sort(sortObservationsOldestMonthFirst);
+    } else {
+      temp = validObservations.sort(sortObservationsOldestFirst);
+    }
   } else {
-    temp = validObservations.sort(sortObservationsNewestFirst);
+    if (groupByValue === 'month') {
+      temp = validObservations.sort(sortObservationsNewestMonthFirst);
+    } else {
+      temp = validObservations.sort(sortObservationsNewestFirst);
+    }
   }
 
   if (invalidObservations.length > 0) {
@@ -142,69 +115,32 @@ export function sortObservations(observations, orderByValue) {
   return temp;
 }
 
-export function getGroupKeys(groupedObject, orderByValue) {
-  let keys = [];
-  let hasUnknown = false;
-  for (let key in groupedObject) {
-    key !== 'unknown' ? keys.push(key) : (hasUnknown = true);
-  }
-
-  if (orderByValue === 'newest') {
-    keys.reverse();
-  }
-
-  if (hasUnknown) {
-    keys = keys.concat('unknown');
-  }
-
-  return keys;
-}
-
-export function getGroupValues(groupedObject, orderByValue) {
-  let values = [];
-  let hasUnknown = false;
-
-  for (let key in groupedObject) {
-    key !== 'unknown' ? values.push(groupedObject[key]) : (hasUnknown = true);
-  }
-  if (orderByValue === 'newest') {
-    values = values.reverse();
-  }
-
-  if (hasUnknown) {
-    values.push(groupedObject['unknown']);
-  }
-  return values;
-}
-
 export function createGroupObservations(observations, groupByValue) {
-  let groups;
+  // use Map instead of Object because Map retains insertion order of the keys
+  let groups = new Map();
   let validObservations = observations.filter((o) => o.time_observed_at);
+
   if (groupByValue === 'month') {
-    groups = _groupBy(validObservations, function (o) {
-      return new Date(o.time_observed_at).getMonth();
-    });
+    groups = groupByMap(
+      validObservations.map((o) => {
+        return { ...o, month: new Date(o.time_observed_at).getMonth() };
+      }),
+      'month'
+    );
   } else if (groupByValue === 'year') {
-    groups = _groupBy(validObservations, function (o) {
-      return new Date(o.time_observed_at).getFullYear();
-    });
+    groups = groupByMap(
+      validObservations.map((o) => {
+        return { ...o, year: new Date(o.time_observed_at).getFullYear() };
+      }),
+      'year'
+    );
+  } else {
+    return observations;
   }
 
   let invalidObservations = observations.filter((o) => !o.time_observed_at);
   if (invalidObservations.length > 0) {
-    groups['unknown'] = invalidObservations;
+    groups.set('unknown', invalidObservations);
   }
-
   return groups;
-}
-
-export function setObservationsAndKeys(observations, orderByValue, groupByValue) {
-  let processedObs = observations;
-  let keys = [];
-  if (groupByValue !== 'none') {
-    let groups = createGroupObservations(observations, groupByValue);
-    keys = getGroupKeys(groups, orderByValue);
-    processedObs = getGroupValues(groups, orderByValue);
-  }
-  return { groupByKeys: keys, observationsDisplay: processedObs };
 }

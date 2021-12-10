@@ -2,55 +2,35 @@
   export let observations;
   import TaxaImagesItem from '$lib/components/taxa_images_item.svelte';
   import { getMonthName } from '$lib/mapUtils';
-  import { sortObservations, setObservationsAndKeys } from '$lib/dataUtils';
+  import { sortObservations, createGroupObservations } from '$lib/dataUtils';
 
   let page = 1;
-  let limit = 100;
+  let limit = 24;
   let groupByValue = 'none';
-  let groupByKeys = [];
   let orderByValue = 'newest';
 
-  observations = sortObservations(observations, orderByValue);
-  let observationsDisplay = [...observations.slice(0, page * limit)];
-  ({ groupByKeys, observationsDisplay } = setObservationsAndKeys(
-    observationsDisplay,
-    orderByValue,
-    groupByValue
-  ));
+  observations = sortObservations(observations, orderByValue, groupByValue);
+  let observationsDisplay = observations.slice(0, page * limit);
+  //  Map objects in #each blocks https://github.com/sveltejs/svelte/issues/5021
+  let groupedObservations = createGroupObservations(observationsDisplay, groupByValue);
 
   function loadMore() {
     page = page + 1;
-    groupByKeys = [];
+    observations = sortObservations(observations, orderByValue, groupByValue);
     observationsDisplay = observations.slice(0, page * limit);
-
-    ({ groupByKeys, observationsDisplay } = setObservationsAndKeys(
-    observationsDisplay,
-    orderByValue,
-    groupByValue
-  ));
+    groupedObservations = createGroupObservations(observationsDisplay, groupByValue);
   }
 
   function handleOrderBy() {
-    groupByKeys = [];
-    observations = sortObservations(observations, orderByValue);
-    observationsDisplay = [...observations.slice(0, page * limit)];
-
-    ({ groupByKeys, observationsDisplay } = setObservationsAndKeys(
-    observationsDisplay,
-    orderByValue,
-    groupByValue
-  ));
+    observations = sortObservations(observations, orderByValue, groupByValue);
+    observationsDisplay = observations.slice(0, page * limit);
+    groupedObservations = createGroupObservations(observationsDisplay, groupByValue);
   }
 
   function handleGroupBy() {
-    groupByKeys = [];
-    observationsDisplay = [...observations.slice(0, page * limit)];
-
-    ({ groupByKeys, observationsDisplay } = setObservationsAndKeys(
-    observationsDisplay,
-    orderByValue,
-    groupByValue
-  ));
+    observations = sortObservations(observations, orderByValue, groupByValue);
+    observationsDisplay = observations.slice(0, page * limit);
+    groupedObservations = createGroupObservations(observationsDisplay, groupByValue);
   }
 
   $: showLoadMore = page * limit < observations.length;
@@ -91,19 +71,19 @@
     </div>
   </div>
 
-  {#if groupByValue === 'none'}
+  {#if Array.isArray(groupedObservations)}
     <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-3  items-end ">
-      {#each observationsDisplay as observation}
+      {#each groupedObservations as observation}
         <TaxaImagesItem {observation} />
       {/each}
     </div>
   {:else}
-    {#each groupByKeys as key, index}
+    {#each [...groupedObservations] as [key, observations]}
       <h2>
         {#if groupByValue === 'month'}{getMonthName(key)}{:else}{key}{/if}
       </h2>
       <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-3  items-end ">
-        {#each observationsDisplay[index] as observation}
+        {#each observations as observation}
           <TaxaImagesItem {observation} />
         {/each}
       </div>
