@@ -23,6 +23,7 @@
 <script>
   import { onMount } from 'svelte';
   import AutoComplete from 'simple-svelte-autocomplete';
+  import { Datepicker } from 'svelte-calendar';
   import RangeSlider from 'svelte-range-slider-pips';
 
   import ProjectHeader from '$lib/components/project_header.svelte';
@@ -78,7 +79,6 @@
   // =====================
   // data
   // =====================
-
 
   function loadDemoSpecies() {
     showDemoPrompt = false;
@@ -182,7 +182,6 @@
   // init
   // =====================
 
-
   $: item;
   $: if (item) {
     loadOptions(item);
@@ -192,7 +191,6 @@
 
   availableDates = getObservationsDateRange(allObservations);
   sliderValues = getDateSliderValues(availableDates);
-
 </script>
 
 <ProjectHeader {project} {user} />

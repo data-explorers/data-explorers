@@ -23,6 +23,7 @@
     "prettier-plugin-svelte": "^2.4.0",
     "simple-svelte-autocomplete": "^2.2.4",
     "svelte": "^3.42.6",
+    "svelte-calendar": "^3.1.6",
     "svelte-leafletjs": "^0.8.0",
     "svelte-preprocess": "^4.9.8",
     "svelte-range-slider-pips": "^2.0.0",

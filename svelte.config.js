@@ -11,7 +11,12 @@ const config = {
       pages: 'build',
       assets: 'build',
       fallback: null
-    })
+    }),
+    vite: {
+      optimizeDeps: {
+        include: ['just-throttle', 'dayjs']
+      }
+    }
   },
 
   preprocess: [
