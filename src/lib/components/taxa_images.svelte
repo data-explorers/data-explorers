@@ -3,6 +3,7 @@
   import groupBy from 'lodash.groupby';
   import TaxaImagesItem from '$lib/components/taxa_images_item.svelte';
   import { getMonthName } from '$lib/mapUtils';
+  import { sortObservationsNewestFirst, sortObservationsOldestFirst } from '$lib/dataUtils';
 
   let page = 1;
   let limit = 24;
@@ -10,9 +11,7 @@
   let groupByKeys = [];
   let orderByValue = 'newest';
 
-  observations = observations.sort((a, b) => {
-    return new Date(b.time_observed_at) - new Date(a.time_observed_at);
-  });
+  observations = observations.sort(sortObservationsNewestFirst);
 
   let observationsDisplay = [...observations.slice(0, page * limit)];
 
@@ -64,13 +63,9 @@
   function handleOrderBy() {
     groupByKeys = [];
     if (orderByValue === 'oldest') {
-      observations = observations.sort((a, b) => {
-        return new Date(a.time_observed_at) - new Date(b.time_observed_at);
-      });
+      observations = observations.sort(sortObservationsOldestFirst);
     } else {
-      observations = observations.sort((a, b) => {
-        return new Date(b.time_observed_at) - new Date(a.time_observed_at);
-      });
+      observations = observations.sort(sortObservationsNewestFirst);
     }
     observationsDisplay = [...observations.slice(0, page * limit)];
 

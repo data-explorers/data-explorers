@@ -31,3 +31,12 @@ export const fetchTaxaByName = (taxa, keyword) => {
     resolve(results);
   });
 };
+
+export function sortObservationsNewestFirst(a, b) {
+  return new Date(b.time_observed_at) - new Date(a.time_observed_at);
+}
+
+export function sortObservationsOldestFirst(a, b) {
+  return new Date(a.time_observed_at) - new Date(b.time_observed_at);
+}
+
