@@ -1,33 +1,33 @@
 import { formatTaxonDisplayName } from '$lib/formatUtils';
 
-export const fetchTaxonByName = (taxa, taxonName) => {
+export const fetchTaxaByName = (taxa, keyword) => {
+  // find taxa whose common name or scientific name matches the keyword
   return new Promise((resolve, reject) => {
     let results = [];
-    if (taxonName.length > 2) {
-      // search by common name
+    // search by common name
+    results = taxa.filter((taxon) => {
+      if (taxon.common_name) {
+        return taxon.common_name.toLowerCase().includes(keyword.toLowerCase());
+      }
+    });
+
+    // search by scientific name
+    if (results.length === 0) {
       results = taxa.filter((taxon) => {
-        if (taxon.common_name) {
-          return taxon.common_name.toLowerCase().includes(taxonName.toLowerCase());
+        if (taxon.scientific_name) {
+          return taxon.scientific_name.toLowerCase().includes(keyword.toLowerCase());
         }
       });
-
-      // search by scientific name
-      if (results.length === 0) {
-        results = taxa.filter((taxon) => {
-          if (taxon.scientific_name) {
-            return taxon.scientific_name.toLowerCase().includes(taxonName.toLowerCase());
-          }
-        });
-      }
-
-      // createdata for suggestion menu
-      results = results.map((t) => {
-        return {
-          value: t.taxon_id,
-          label: formatTaxonDisplayName(t)
-        };
-      });
     }
+
+    // create data for suggestion menu
+    results = results.map((t) => {
+      return {
+        id: t.taxon_id,
+        label: formatTaxonDisplayName(t)
+      };
+    });
+
     resolve(results);
   });
 };

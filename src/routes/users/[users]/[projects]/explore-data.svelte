@@ -132,7 +132,7 @@
   });
 
   $: item;
-  $: if (item && item.length > 2) {
+  $: if (item) {
     loadOptions(item);
   }
 
