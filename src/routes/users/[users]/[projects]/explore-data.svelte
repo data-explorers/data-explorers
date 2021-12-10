@@ -25,21 +25,28 @@
   import AutoComplete from 'simple-svelte-autocomplete';
 
   import ProjectHeader from '$lib/components/project_header.svelte';
-  import { modulo, colorsSixDiverge } from '$lib/mapUtils';
-  import { fetchTaxonByName } from '$lib/dataUtils';
   import Modal from '$lib/components/modal.svelte';
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
+  import TaxonFilter from '$lib/components/ed_taxon_filter.svelte';
+  import { modulo, colorsSixDiverge, colorsSixTolVibrant, colorsSixTolBright } from '$lib/mapUtils';
+  import {
+    fetchTaxaByName,
+    fecthObservationsByTaxonId,
+  } from '$lib/dataUtils';
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let project;
   export let user;
   export let currentTab;
   export let allObservations;
   export let taxa;
-  let colorScheme = colorsSixDiverge;
+  let colorScheme = colorsSixTolBright;
   let observations = [];
   let groupedObservations = {};
   let item = '';
   let selectedTaxa = [];
+  let showDemoPrompt = true;
+
 
   // =====================
   // type ahead select
@@ -47,14 +54,44 @@
 
   function handleSelect(event) {
     if (!event || !event.label) return;
+    showDemoPrompt = false;
 
     let taxonName = event.label;
     let taxonId = event.value;
-    let index = modulo(selectedTaxa.length, colorScheme.length);
-
     if (Object.keys(groupedObservations).includes('' + taxonId)) {
       return;
     }
+
+    displayObservationsForTaxon(taxonName, taxonId);
+  }
+
+  async function loadOptions(filterText) {
+    return await fetchTaxaByName(taxa, filterText);
+  }
+
+  // =====================
+  // data
+  // =====================
+
+
+  function loadDemoSpecies() {
+    showDemoPrompt = false;
+
+    let topTaxa = taxa.slice(0, 3);
+    topTaxa.forEach((taxon) => {
+      if (Object.keys(groupedObservations).includes('' + taxon.taxon_id)) {
+        return;
+      }
+
+      let taxonName = formatTaxonDisplayName(taxon);
+      let taxonId = taxon.taxon_id;
+
+      displayObservationsForTaxon(taxonName, taxonId);
+    });
+  }
+
+  function displayObservationsForTaxon(taxonName, taxonId) {
+    let index = modulo(selectedTaxa.length, colorScheme.length);
 
     selectedTaxa = selectedTaxa.concat({
       taxonName,
@@ -63,32 +100,15 @@
       active: true
     });
 
-    let selectedObservations = allObservations
-      .filter((o) => o.taxon_id === taxonId)
-      .map((o) => {
-        let dateObj = o.time_observed_at && new Date(o.time_observed_at);
-        let month = o.time_observed_at ? dateObj.getMonth() : 'unknown';
-        let year = o.time_observed_at ? dateObj.getYear() : 'unknown';
-
-        return {
-          ...o,
-          month,
-          year,
-          color: colorScheme[index],
-          fillColor: colorScheme[index]
-        };
-      });
+    let selectedObservations = fecthObservationsByTaxonId(
+      allObservations,
+      taxonId,
+      colorScheme[index]
+    );
     observations = observations.concat(selectedObservations);
     groupedObservations[taxonId] = selectedObservations;
   }
 
-  async function loadOptions(filterText) {
-    return await fetchTaxonByName(taxa, filterText);
-  }
-
-  // =====================
-  // map
-  // =====================
 
   function removeTaxon(e) {
     let taxonId = Number(e.target.dataset['taxonId']);
@@ -118,6 +138,10 @@
     }
   }
 
+  // =====================
+  // map
+  // =====================
+
   let mapOptions = {
     zoom: project.zoom,
     latitude: project.latitude,
@@ -131,12 +155,18 @@
     Map = comp.default;
   });
 
+  // =====================
+  // init
+  // =====================
+
+
   $: item;
   $: if (item) {
     loadOptions(item);
   }
 
-  let zoo = false;
+  loadDemoSpecies();
+
 </script>
 
 <ProjectHeader {project} {user} />
@@ -153,7 +183,7 @@
           onChange={handleSelect}
           localFiltering="false"
           labelFieldName="label"
-          valueFieldName="value"
+          valueFieldName="id"
           maxItemsToShowInList="8"
           hideArrow="true"
           showClear="true"
@@ -162,45 +192,13 @@
         />
       </div>
 
-      {#each selectedTaxa as taxon}
-        <div class="border p-1 mb-2">
-          <input
-            type="checkbox"
-            checked="checked"
-            data-taxon-id={taxon.taxonId}
-            on:click={toggleTaxon}
-          />
+      {#if showDemoPrompt}
+        <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />Show most observed
+        species
+      {/if}
 
-          <svg height="20" width="20" class="inline">
-            <circle
-              cx="10"
-              cy="10"
-              r="8"
-              stroke={taxon.color}
-              stroke-width="3"
-              fill={taxon.color}
-              fill-opacity=".20"
-            />
-          </svg>
-          <button class="float-right" data-taxon-id={taxon.taxonId} on:click={removeTaxon}>
-            <svg
-              data-taxon-id={taxon.taxonId}
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              class="inline-block w-4 h-4  stroke-current"
-            >
-              <path
-                data-taxon-id={taxon.taxonId}
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                stroke-width="2"
-                d="M6 18L18 6M6 6l12 12"
-              />
-            </svg>
-          </button>
-          <span class="text-sm">{taxon.taxonName}</span>
-        </div>
+      {#each selectedTaxa as taxon}
+        <TaxonFilter {taxon} {toggleTaxon} {removeTaxon} />
       {/each}
 
       <h3>Environmental Factors</h3>

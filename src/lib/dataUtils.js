@@ -40,3 +40,22 @@ export function sortObservationsOldestFirst(a, b) {
   return new Date(a.time_observed_at) - new Date(b.time_observed_at);
 }
 
+export const fecthObservationsByTaxonId = (observations, taxonId, color) => {
+  // return all observations for a taxonId
+  return observations
+    .filter((o) => o.taxon_id === taxonId)
+    .map((o) => {
+      let dateObj = o.time_observed_at && new Date(o.time_observed_at);
+      let month = o.time_observed_at ? dateObj.getMonth() : 'unknown';
+      let year = o.time_observed_at ? dateObj.getFullYear() : 'unknown';
+
+      return {
+        ...o,
+        month,
+        year,
+        color: color,
+        fillColor: color
+      };
+    });
+};
+
