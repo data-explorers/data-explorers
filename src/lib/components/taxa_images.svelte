@@ -1,91 +1,59 @@
 <script>
   export let observations;
-  import groupBy from 'lodash.groupby';
   import TaxaImagesItem from '$lib/components/taxa_images_item.svelte';
   import { getMonthName } from '$lib/mapUtils';
-  import { sortObservationsNewestFirst, sortObservationsOldestFirst } from '$lib/dataUtils';
+  import { sortObservations, setObservationsAndKeys } from '$lib/dataUtils';
 
   let page = 1;
-  let limit = 24;
+  let limit = 100;
   let groupByValue = 'none';
   let groupByKeys = [];
   let orderByValue = 'newest';
 
-  observations = observations.sort(sortObservationsNewestFirst);
-
+  observations = sortObservations(observations, orderByValue);
   let observationsDisplay = [...observations.slice(0, page * limit)];
-
-  $: showLoadMore = page * limit < observations.length;
-
-  function createGroups(observations, groupByValue) {
-    let groups;
-    observations = observations.filter((o) => o.time_observed_at);
-    if (groupByValue === 'month') {
-      groups = groupBy(observations, function (o) {
-        return new Date(o.time_observed_at).getMonth();
-      });
-    } else if (groupByValue === 'year') {
-      groups = groupBy(observations, function (o) {
-        return new Date(o.time_observed_at).getFullYear();
-      });
-    }
-    return groups;
-  }
-
-  function createGroupKeys(groupedObject) {
-    if (orderByValue === 'oldest') {
-      return Object.keys(groupedObject);
-    } else {
-      return Object.keys(groupedObject).reverse();
-    }
-  }
-
-  function createGroupObservations(groupedObject) {
-    if (orderByValue === 'oldest') {
-      return Object.values(groupedObject);
-    } else {
-      return Object.values(groupedObject).reverse();
-    }
-  }
+  ({ groupByKeys, observationsDisplay } = setObservationsAndKeys(
+    observationsDisplay,
+    orderByValue,
+    groupByValue
+  ));
 
   function loadMore() {
     page = page + 1;
     groupByKeys = [];
     observationsDisplay = observations.slice(0, page * limit);
 
-    if (groupByValue !== 'none') {
-      let tempGroups = createGroups(observationsDisplay, groupByValue);
-      groupByKeys = createGroupKeys(tempGroups);
-      observationsDisplay = createGroupObservations(tempGroups);
-    }
+    ({ groupByKeys, observationsDisplay } = setObservationsAndKeys(
+    observationsDisplay,
+    orderByValue,
+    groupByValue
+  ));
   }
 
   function handleOrderBy() {
     groupByKeys = [];
-    if (orderByValue === 'oldest') {
-      observations = observations.sort(sortObservationsOldestFirst);
-    } else {
-      observations = observations.sort(sortObservationsNewestFirst);
-    }
+    observations = sortObservations(observations, orderByValue);
     observationsDisplay = [...observations.slice(0, page * limit)];
 
-    if (groupByValue !== 'none') {
-      let tempGroups = createGroups(observationsDisplay, groupByValue);
-      groupByKeys = createGroupKeys(tempGroups);
-      observationsDisplay = createGroupObservations(tempGroups);
-    }
+    ({ groupByKeys, observationsDisplay } = setObservationsAndKeys(
+    observationsDisplay,
+    orderByValue,
+    groupByValue
+  ));
   }
 
   function handleGroupBy() {
     groupByKeys = [];
     observationsDisplay = [...observations.slice(0, page * limit)];
 
-    if (groupByValue !== 'none') {
-      let tempGroups = createGroups(observationsDisplay, groupByValue);
-      groupByKeys = createGroupKeys(tempGroups);
-      observationsDisplay = createGroupObservations(tempGroups);
-    }
+    ({ groupByKeys, observationsDisplay } = setObservationsAndKeys(
+    observationsDisplay,
+    orderByValue,
+    groupByValue
+  ));
   }
+
+  $: showLoadMore = page * limit < observations.length;
 </script>
 
 <div class="prose max-w-none">

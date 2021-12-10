@@ -1,8 +1,9 @@
 import { formatTaxonDisplayName } from '$lib/formatUtils';
+import _groupBy from 'lodash.groupby';
 
 export const fetchTaxaByName = (taxa, keyword) => {
   // find taxa whose common name or scientific name matches the keyword
-  return new Promise((resolve, reject) => {
+  return new Promise((resolve, _reject) => {
     let results = [];
     // search by common name
     results = taxa.filter((taxon) => {
@@ -31,14 +32,6 @@ export const fetchTaxaByName = (taxa, keyword) => {
     resolve(results);
   });
 };
-
-export function sortObservationsNewestFirst(a, b) {
-  return new Date(b.time_observed_at) - new Date(a.time_observed_at);
-}
-
-export function sortObservationsOldestFirst(a, b) {
-  return new Date(a.time_observed_at) - new Date(b.time_observed_at);
-}
 
 export const fecthObservationsByTaxonId = (observations, taxonId, color) => {
   // return all observations for a taxonId
@@ -121,4 +114,97 @@ function getMonthsBetween(dateFrom, dateTo) {
     }
   }
   return dates;
+}
+
+export function sortObservationsNewestFirst(a, b) {
+  return new Date(b.time_observed_at) - new Date(a.time_observed_at);
+}
+
+export function sortObservationsOldestFirst(a, b) {
+  return new Date(a.time_observed_at) - new Date(b.time_observed_at);
+}
+
+export function sortObservations(observations, orderByValue) {
+  let validObservations = observations.filter((o) => o.time_observed_at);
+  let invalidObservations = observations.filter((o) => !o.time_observed_at);
+  let temp;
+
+  if (orderByValue === 'oldest') {
+    temp = validObservations.sort(sortObservationsOldestFirst);
+  } else {
+    temp = validObservations.sort(sortObservationsNewestFirst);
+  }
+
+  if (invalidObservations.length > 0) {
+    temp = temp.concat(invalidObservations);
+  }
+
+  return temp;
+}
+
+export function getGroupKeys(groupedObject, orderByValue) {
+  let keys = [];
+  let hasUnknown = false;
+  for (let key in groupedObject) {
+    key !== 'unknown' ? keys.push(key) : (hasUnknown = true);
+  }
+
+  if (orderByValue === 'newest') {
+    keys.reverse();
+  }
+
+  if (hasUnknown) {
+    keys = keys.concat('unknown');
+  }
+
+  return keys;
+}
+
+export function getGroupValues(groupedObject, orderByValue) {
+  let values = [];
+  let hasUnknown = false;
+
+  for (let key in groupedObject) {
+    key !== 'unknown' ? values.push(groupedObject[key]) : (hasUnknown = true);
+  }
+  if (orderByValue === 'newest') {
+    values = values.reverse();
+  }
+
+  if (hasUnknown) {
+    values.push(groupedObject['unknown']);
+  }
+  return values;
+}
+
+export function createGroupObservations(observations, groupByValue) {
+  let groups;
+  let validObservations = observations.filter((o) => o.time_observed_at);
+  if (groupByValue === 'month') {
+    groups = _groupBy(validObservations, function (o) {
+      return new Date(o.time_observed_at).getMonth();
+    });
+  } else if (groupByValue === 'year') {
+    groups = _groupBy(validObservations, function (o) {
+      return new Date(o.time_observed_at).getFullYear();
+    });
+  }
+
+  let invalidObservations = observations.filter((o) => !o.time_observed_at);
+  if (invalidObservations.length > 0) {
+    groups['unknown'] = invalidObservations;
+  }
+
+  return groups;
+}
+
+export function setObservationsAndKeys(observations, orderByValue, groupByValue) {
+  let processedObs = observations;
+  let keys = [];
+  if (groupByValue !== 'none') {
+    let groups = createGroupObservations(observations, groupByValue);
+    keys = getGroupKeys(groups, orderByValue);
+    processedObs = getGroupValues(groups, orderByValue);
+  }
+  return { groupByKeys: keys, observationsDisplay: processedObs };
 }
