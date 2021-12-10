@@ -1,0 +1,15 @@
+{
+  // handle ECMAScript Modules
+  "presets": [["@babel/preset-env", { "targets": { "node": "current" } }]],
+  // handle $lib alias used by SvelteKit
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "$lib": "./src/lib"
+        }
+      }
+    ]
+  ]
+}
