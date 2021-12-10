@@ -23,6 +23,7 @@
 <script>
   import { onMount } from 'svelte';
   import AutoComplete from 'simple-svelte-autocomplete';
+  import RangeSlider from 'svelte-range-slider-pips';
 
   import ProjectHeader from '$lib/components/project_header.svelte';
   import Modal from '$lib/components/modal.svelte';
@@ -32,6 +33,8 @@
   import {
     fetchTaxaByName,
     fecthObservationsByTaxonId,
+    getObservationsDateRange,
+    getDateSliderValues
   } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
 
@@ -46,7 +49,10 @@
   let item = '';
   let selectedTaxa = [];
   let showDemoPrompt = true;
-
+  let availableDates = [];
+  let sliderValues = [];
+  let timeFirstIndex;
+  let timeLastIndex;
 
   // =====================
   // type ahead select
@@ -109,6 +115,24 @@
     groupedObservations[taxonId] = selectedObservations;
   }
 
+  function handleRangeStop(e) {
+    let startDate = availableDates[e.detail.values[0]];
+    let endDate = availableDates[e.detail.values[1]];
+
+    let tempObservations = [].concat(...Object.values(groupedObservations));
+
+    observations = tempObservations
+      .filter((o) => {
+        let date = new Date(o.time_observed_at);
+        return date >= startDate && date <= endDate;
+      })
+      .sort();
+    console.log(
+      startDate,
+      endDate,
+      observations.map((o) => o.time_observed_at)
+    );
+  }
 
   function removeTaxon(e) {
     let taxonId = Number(e.target.dataset['taxonId']);
@@ -167,11 +191,17 @@
 
   loadDemoSpecies();
 
+  availableDates = getObservationsDateRange(allObservations);
+  sliderValues = getDateSliderValues(availableDates);
+
 </script>
 
 <ProjectHeader {project} {user} />
 <div class="prose max-w-none">
   <h1>{currentTab.label}</h1>
+  {availableDates.length - 1}<br />
+  {sliderValues}
+  {JSON.stringify(selectedTaxa)}
 
   <div class="grid lg:grid-cols-10 gap-3 mb-6">
     <div class="lg:col-span-3">
@@ -200,6 +230,24 @@
       {#each selectedTaxa as taxon}
         <TaxonFilter {taxon} {toggleTaxon} {removeTaxon} />
       {/each}
+
+      <div class="mr-8">
+        <RangeSlider
+          handleFormatter={(v) => availableDates[v]}
+          float
+          on:stop={handleRangeStop}
+          range
+          values={sliderValues}
+          min={0}
+          max={sliderValues[sliderValues.length - 1]}
+          pips
+          first="label"
+          last="label"
+        />
+      </div>
+
+      <Datepicker />
+      <Datepicker />
 
       <h3>Environmental Factors</h3>
 
