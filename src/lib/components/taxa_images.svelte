@@ -132,7 +132,7 @@
   {:else}
     {#each groupByKeys as key, index}
       <h2>
-        {#if groupByValue === 'month'}{getMonthName(Number(key))}{:else}{key}{/if}
+        {#if groupByValue === 'month'}{getMonthName(key)}{:else}{key}{/if}
       </h2>
       <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-3  items-end ">
         {#each observationsDisplay[index] as observation}
