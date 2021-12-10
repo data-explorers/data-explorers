@@ -8,6 +8,10 @@ export function setMapOption(options, key, value) {
   }
 }
 
+// https://personal.sron.nl/~pault/#sec:qualitative
+export let colorsSixTolBright = ['#4477aa', '#66ccee', '#228833', '#ccbb44', '#ee6677', '#aa3377'];
+export let colorsSixTolVibrant = ['#0077bb', '#33bbee', '#009988', '#ee7733', '#cc3311', '#ee3377'];
+
 // sequential: orange - red
 export let colorsSix = ['#fed976', '#feb24c', '#fd8d3c', '#fc4e2a', '#e31a1c', '#b10026'];
 export let colorsTwelveSequential = colorsSix.concat(colorsSix);
