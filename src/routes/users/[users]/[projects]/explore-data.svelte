@@ -170,7 +170,6 @@
     zoom: project.zoom,
     latitude: project.latitude,
     longitude: project.longitude,
-    displayType: project.taxaDisplayType
   };
 
   let Map;

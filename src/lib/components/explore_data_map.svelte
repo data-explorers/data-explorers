@@ -14,7 +14,6 @@
   // set default map values
   mapOptions = {
     center: [mapOptions.latitude || 0, mapOptions.longitude || 0],
-    displayType: mapOptions.displayType || 'marker',
     color: mapOptions.color || defaultColor,
     zoom: mapOptions.zoom || 0
   };
@@ -26,10 +25,10 @@
 
   // make certain variables reactive so they change values when user zooms
   // in and out of map
-  $: if (leafletMap && mapOptions.displayType !== 'marker') {
+  $: if (leafletMap) {
     zoomLevel = leafletMap.getMap().getZoom();
+    radiusZoom(zoomLevel);
   }
-  $: if (leafletMap && mapOptions.displayType !== 'marker') circleRadius = radiusZoom(zoomLevel);
 
   $: observations = observations.filter((o) => o.latitude && o.longitude);
   $: coordinates = observations.map((o) => [o.latitude, o.longitude]);
@@ -40,10 +39,8 @@
 
   onMount(() => {
     leafletMap.getMap().on('zoomend', function () {
-      if (mapOptions.displayType !== 'marker') {
-        zoomLevel = leafletMap.getMap().getZoom();
-        circleRadius = radiusZoom(zoomLevel);
-      }
+      zoomLevel = leafletMap.getMap().getZoom();
+      circleRadius = radiusZoom(zoomLevel);
     });
   });
 </script>

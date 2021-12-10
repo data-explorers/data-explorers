@@ -49,7 +49,7 @@
     zoom: project.zoom,
     latitude: project.latitude,
     longitude: project.longitude,
-    displayType: project.taxaDisplayType
+    observationsGroupBy: project.observationsGroupBy
   };
 
   let tabsMetadata = {

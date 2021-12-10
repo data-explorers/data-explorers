@@ -1,7 +1,7 @@
 <script>
   import 'leaflet/dist/leaflet.css';
   import { onMount } from 'svelte';
-  import { LeafletMap, TileLayer, Marker, Circle, Rectangle } from 'svelte-leafletjs';
+  import { LeafletMap, TileLayer, Circle, Rectangle } from 'svelte-leafletjs';
   import Popup from '$lib/components/map_popup_observation.svelte';
   import {
     modulo,
@@ -30,15 +30,15 @@
   // set default map values
   mapOptions = {
     center: [mapOptions.latitude || 0, mapOptions.longitude || 0],
-    displayType: mapOptions.displayType || 'marker',
     color: mapOptions.color || defaultColor,
-    zoom: mapOptions.zoom || 0
+    zoom: mapOptions.zoom || 0,
+    observationsGroupBy: mapOptions.observationsGroupBy || 'none',
   };
 
   observations = observations.filter((o) => o.latitude && o.longitude);
 
   // add month data
-  if (mapOptions.displayType === 'month') {
+  if (mapOptions.observationsGroupBy === 'month') {
     availableMonths = [
       ...new Set(
         observations
@@ -63,7 +63,7 @@
       };
     });
     // add year data
-  } else if (mapOptions.displayType === 'year') {
+  } else if (mapOptions.observationsGroupBy === 'year') {
     availableYears = [
       ...new Set(
         observations
@@ -111,7 +111,7 @@
       filteredObservations = [...observations];
     } else {
       filteredObservations = [
-        ...observations.filter((o) => !selectedFilters.includes(o[mapOptions.displayType]))
+        ...observations.filter((o) => !selectedFilters.includes(o[mapOptions.observationsGroupBy]))
       ];
     }
   }
@@ -123,14 +123,14 @@
 
   // make certain variables reactive so they chamge values when user zooms
   // in and out of map
-  $: if (leafletMap && mapOptions.displayType !== 'marker') {
+  $: if (leafletMap) {
     zoomLevel = leafletMap.getMap().getZoom();
+    circleRadius = radiusZoom(zoomLevel);
   }
-  $: if (leafletMap && mapOptions.displayType !== 'marker') circleRadius = radiusZoom(zoomLevel);
-  $: if (leafletMap && mapOptions.displayType === 'month')
+  $: if (leafletMap && mapOptions.observationsGroupBy === 'month') {
     rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
-  $: if (leafletMap && mapOptions.displayType === 'month')
     rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
+  }
 
   let coordinates = filteredObservations.map((o) => [o.latitude, o.longitude]);
 
@@ -140,11 +140,9 @@
     }
 
     leafletMap.getMap().on('zoomend', function () {
-      if (mapOptions.displayType !== 'marker') {
-        zoomLevel = leafletMap.getMap().getZoom();
-        circleRadius = radiusZoom(zoomLevel);
-      }
-      if (mapOptions.displayType === 'month') {
+      zoomLevel = leafletMap.getMap().getZoom();
+      circleRadius = radiusZoom(zoomLevel);
+      if (mapOptions.observationsGroupBy === 'month') {
         rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
         rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
       }
@@ -156,16 +154,8 @@
   <!-- {zoomLevel}, {circleRadius}, {rectangleLatitude}, {rectangleLongitude} -->
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <TileLayer url={tileUrl} options={tileLayerOptions} />
-    <!-- display markers -->
-    {#if mapOptions.displayType === 'marker'}
-      {#each observations as obs}
-        <Marker latLng={[obs.latitude, obs.longitude]}>
-          <Popup observation={obs} />
-        </Marker>
-      {/each}
-
       <!-- display circles -->
-    {:else if mapOptions.displayType === 'circle'}
+    {#if mapOptions.observationsGroupBy === 'none'}
       {#each filteredObservations as obs}
         <Circle
           latLng={[obs.latitude, obs.longitude]}
@@ -178,7 +168,7 @@
       {/each}
 
       <!-- display circles by year -->
-    {:else if mapOptions.displayType === 'year'}
+    {:else if mapOptions.observationsGroupBy === 'year'}
       {#each filteredObservations as obs}
         <Circle
           latLng={[obs.latitude, obs.longitude]}
@@ -219,7 +209,7 @@
   </LeafletMap>
 </div>
 <!-- map legend -->
-{#if mapOptions.displayType === 'month'}
+{#if mapOptions.observationsGroupBy === 'month'}
   <div class="map-legend mt-4">
     {#each availableMonths as month, index}
       <div class="mr-3 inline">
@@ -260,7 +250,7 @@
       </div>
     {/each}
   </div>
-{:else if mapOptions.displayType === 'year'}
+{:else if mapOptions.observationsGroupBy === 'year'}
   <div class="map-legend mt-4">
     {#each availableYears as year, index}
       <div class="mr-3 inline">
