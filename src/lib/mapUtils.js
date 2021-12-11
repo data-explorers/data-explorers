@@ -14,7 +14,9 @@ export let colorsSixTolVibrant = ['#0077bb', '#33bbee', '#009988', '#ee7733', '#
 
 // sequential: orange - red
 export let colorsSix = ['#fed976', '#feb24c', '#fd8d3c', '#fc4e2a', '#e31a1c', '#b10026'];
-export let colorsTwelveSequential = colorsSix.concat(colorsSix);
+
+export let sixMonths = ['#fc4e2a', '#e31a1c', '#b10026', '#fed976', '#feb24c', '#fd8d3c'];
+export let twelveMonths = sixMonths.concat(sixMonths);
 
 export let colorsEightDivergeGroup = [
   // brown - green
