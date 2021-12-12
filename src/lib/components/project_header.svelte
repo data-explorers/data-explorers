@@ -27,4 +27,5 @@
       href={tab.slug}>{tab.label}</a
     >
   {/each}
+  <a class="hidden" href="/users/{user.username}/{project.slug}/taxa-list">list</a>
 </div>
