@@ -10,6 +10,10 @@ export function groupByMap(arrayOfObjects, key) {
   return map;
 }
 
+export function modulo(integer, moduloValue) {
+  return ((integer % moduloValue) + moduloValue) % moduloValue;
+}
+
 export function range(start, end) {
   if (end) {
     return Array.from({ length: end - start + 1 }, (_, i) => start + i);

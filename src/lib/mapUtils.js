@@ -1,13 +1,3 @@
-export function modulo(integer, moduloValue) {
-  return ((integer % moduloValue) + moduloValue) % moduloValue;
-}
-
-export function setMapOption(options, key, value) {
-  if (!options[key]) {
-    options[key] = value;
-  }
-}
-
 // https://personal.sron.nl/~pault/#sec:qualitative
 export let colorsSixTolBright = ['#4477aa', '#66ccee', '#228833', '#ccbb44', '#ee6677', '#aa3377'];
 export let colorsSixTolVibrant = ['#0077bb', '#33bbee', '#009988', '#ee7733', '#cc3311', '#ee3377'];

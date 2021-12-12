@@ -30,7 +30,8 @@
   import Modal from '$lib/components/modal.svelte';
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
   import TaxonFilter from '$lib/components/ed_taxon_filter.svelte';
-  import { modulo, colorsSixDiverge, colorsSixTolVibrant, colorsSixTolBright } from '$lib/mapUtils';
+  import { colorsSixTolBright } from '$lib/mapUtils';
+  import { modulo } from '$lib/miscUtils';
   import {
     fetchTaxaByName,
     fecthObservationsByTaxonId,

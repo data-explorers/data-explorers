@@ -6,7 +6,6 @@
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
 
   import {
-    modulo,
     coldMonths,
     radiusZoom,
     rectangleLatitudeZoom,
@@ -15,6 +14,7 @@
     tileUrl
   } from '$lib/mapUtils';
   import { sortObservations, createGroupObservations } from '$lib/dataUtils';
+  import { modulo } from '$lib/miscUtils';
 
   export let observations;
   export let mapOptions;

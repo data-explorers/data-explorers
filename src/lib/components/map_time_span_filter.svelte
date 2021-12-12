@@ -1,5 +1,6 @@
 <script>
-  import { modulo, getMonthName, coldMonths } from '$lib/mapUtils';
+  import { getMonthName, coldMonths } from '$lib/mapUtils';
+  import { modulo } from '$lib/miscUtils';
   import CircleIcon from '$lib/components/svg/circle.svelte';
   import RectangleIcon from '$lib/components/svg/rectangle.svelte';
 
