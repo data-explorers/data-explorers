@@ -90,7 +90,7 @@ describe('sort dates', () => {
   });
 
   describe('sortObservations', () => {
-    test('sorts observations when orderBy = "oldest" & groupBy = "none"', () => {
+    test('sorts observations when orderBy = "oldest" & groupBy = "all"', () => {
       let expected = [
         { time_observed_at: '2019-01-12' },
         { time_observed_at: '2019-01-22' },
@@ -99,7 +99,7 @@ describe('sort dates', () => {
         { time_observed_at: '2020-02-02' }
       ];
 
-      let results = sortObservations(observations, 'oldest', 'none');
+      let results = sortObservations(observations, 'oldest', 'all');
 
       expect(results).toEqual(expected);
     });
@@ -132,7 +132,7 @@ describe('sort dates', () => {
       expect(results).toEqual(expected);
     });
 
-    test('puts observations with null date at the end when orderBy = "oldest" & groupBy = "none"', () => {
+    test('puts observations with null date at the end when orderBy = "oldest" & groupBy = "all"', () => {
       let expected = [
         { time_observed_at: '2019-01-12' },
         { time_observed_at: '2019-01-22' },
@@ -142,7 +142,7 @@ describe('sort dates', () => {
         { time_observed_at: null }
       ];
 
-      let results = sortObservations(observations_null, 'oldest', 'none');
+      let results = sortObservations(observations_null, 'oldest', 'all');
 
       expect(results).toEqual(expected);
     });
@@ -177,7 +177,7 @@ describe('sort dates', () => {
       expect(results).toEqual(expected);
     });
 
-    test('puts observations with null date at the end when orderBy = "newest" & groupBy = "none"', () => {
+    test('puts observations with null date at the end when orderBy = "newest" & groupBy = "all"', () => {
       let expected = [
         { time_observed_at: '2020-02-02' },
         { time_observed_at: '2020-01-12' },
@@ -187,7 +187,7 @@ describe('sort dates', () => {
         { time_observed_at: null }
       ];
 
-      let results = sortObservations(observations_null, 'newest', 'none');
+      let results = sortObservations(observations_null, 'newest', 'all');
 
       expect(results).toEqual(expected);
     });
@@ -240,7 +240,7 @@ describe('createGroupObservations', () => {
     { time_observed_at: '2021-03-13' }
   ];
 
-  test('group observations by month when groupByValue is "month"', () => {
+  test('group observations by month when timeSpanValue is "month"', () => {
     let expected = new Map();
     expected.set(1, [
       { month: 1, time_observed_at: '2021-02-12' },
@@ -256,7 +256,7 @@ describe('createGroupObservations', () => {
     expect(results).toEqual(expected);
   });
 
-  test('puts observations with null date at the end when groupByValue is "month"', () => {
+  test('puts observations with null date at the end when timeSpanValue is "month"', () => {
     let expected = new Map();
     expected.set(1, [
       { month: 1, time_observed_at: '2021-02-12' },
@@ -273,7 +273,7 @@ describe('createGroupObservations', () => {
     expect(results).toEqual(expected);
   });
 
-  test('group observations by year when groupByValue when "year"', () => {
+  test('group observations by year when timeSpanValue when "year"', () => {
     let expected = new Map();
     expected.set(2020, [
       { year: 2020, time_observed_at: '2020-03-03' },
@@ -289,7 +289,7 @@ describe('createGroupObservations', () => {
     expect(results).toEqual(expected);
   });
 
-  test('puts observations with null date at the end when groupByValue when "year"', () => {
+  test('puts observations with null date at the end when timeSpanValue when "year"', () => {
     let expected = new Map();
     expected.set(2020, [
       { year: 2020, time_observed_at: '2020-03-03' },
@@ -317,8 +317,8 @@ describe('sorts and groups observations', () => {
     { time_observed_at: '2019-01-22' }
   ];
 
-  test('returns observations when groupBy = "none" & orderBy = "newest"', () => {
-    let groupByValue = 'none';
+  test('returns observations when groupBy = "all" & orderBy = "newest"', () => {
+    let timeSpanValue = 'all';
     let orderByValue = 'newest';
     let expected = [
       { time_observed_at: '2020-02-02' },
@@ -329,14 +329,14 @@ describe('sorts and groups observations', () => {
       { time_observed_at: null }
     ];
 
-    let observations = sortObservations(rawObservations, orderByValue, groupByValue);
-    let groupedObservations = createGroupObservations(observations, groupByValue);
+    let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
+    let groupedObservations = createGroupObservations(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
 
   test('returns observations when groupBy = "year" & orderBy = "newest"', () => {
-    let groupByValue = 'year';
+    let timeSpanValue = 'year';
     let orderByValue = 'newest';
     let expected = new Map();
     expected.set(2020, [
@@ -350,14 +350,14 @@ describe('sorts and groups observations', () => {
     ]);
     expected.set('unknown', [{ time_observed_at: null }]);
 
-    let observations = sortObservations(rawObservations, orderByValue, groupByValue);
-    let groupedObservations = createGroupObservations(observations, groupByValue);
+    let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
+    let groupedObservations = createGroupObservations(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
 
   test('returns observations when groupBy = "month" & orderBy = "newest"', () => {
-    let groupByValue = 'month';
+    let timeSpanValue = 'month';
     let orderByValue = 'newest';
     let expected = new Map();
     expected.set(1, [
@@ -371,14 +371,14 @@ describe('sorts and groups observations', () => {
     ]);
     expected.set('unknown', [{ time_observed_at: null }]);
 
-    let observations = sortObservations(rawObservations, orderByValue, groupByValue);
-    let groupedObservations = createGroupObservations(observations, groupByValue);
+    let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
+    let groupedObservations = createGroupObservations(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
 
-  test('returns observations when groupBy = "none" & orderBy = "oldest"', () => {
-    let groupByValue = 'none';
+  test('returns observations when groupBy = "all" & orderBy = "oldest"', () => {
+    let timeSpanValue = 'all';
     let orderByValue = 'oldest';
     let expected = [
       { time_observed_at: '2019-01-12' },
@@ -389,14 +389,14 @@ describe('sorts and groups observations', () => {
       { time_observed_at: null }
     ];
 
-    let observations = sortObservations(rawObservations, orderByValue, groupByValue);
-    let groupedObservations = createGroupObservations(observations, groupByValue);
+    let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
+    let groupedObservations = createGroupObservations(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
 
   test('returns observations when groupBy = "year" & orderBy = "oldest"', () => {
-    let groupByValue = 'year';
+    let timeSpanValue = 'year';
     let orderByValue = 'oldest';
     let expected = new Map();
     expected.set(2019, [
@@ -410,14 +410,14 @@ describe('sorts and groups observations', () => {
     ]);
     expected.set('unknown', [{ time_observed_at: null }]);
 
-    let observations = sortObservations(rawObservations, orderByValue, groupByValue);
-    let groupedObservations = createGroupObservations(observations, groupByValue);
+    let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
+    let groupedObservations = createGroupObservations(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
 
   test('returns observations when groupBy = "month" & orderBy = "oldest"', () => {
-    let groupByValue = 'month';
+    let timeSpanValue = 'month';
     let orderByValue = 'oldest';
     let expected = new Map();
     expected.set(0, [
@@ -431,8 +431,8 @@ describe('sorts and groups observations', () => {
     ]);
     expected.set('unknown', [{ time_observed_at: null }]);
 
-    let observations = sortObservations(rawObservations, orderByValue, groupByValue);
-    let groupedObservations = createGroupObservations(observations, groupByValue);
+    let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
+    let groupedObservations = createGroupObservations(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });

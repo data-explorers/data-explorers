@@ -89,19 +89,19 @@ export function sortObservationsOldestMonthFirst(a, b) {
   );
 }
 
-export function sortObservations(observations, orderByValue, groupByValue) {
+export function sortObservations(observations, orderByValue, timeSpanValue) {
   let validObservations = observations.filter((o) => o.time_observed_at);
   let invalidObservations = observations.filter((o) => !o.time_observed_at);
   let temp;
 
   if (orderByValue === 'oldest') {
-    if (groupByValue === 'month') {
+    if (timeSpanValue === 'month') {
       temp = validObservations.sort(sortObservationsOldestMonthFirst);
     } else {
       temp = validObservations.sort(sortObservationsOldestFirst);
     }
   } else {
-    if (groupByValue === 'month') {
+    if (timeSpanValue === 'month') {
       temp = validObservations.sort(sortObservationsNewestMonthFirst);
     } else {
       temp = validObservations.sort(sortObservationsNewestFirst);
@@ -115,19 +115,19 @@ export function sortObservations(observations, orderByValue, groupByValue) {
   return temp;
 }
 
-export function createGroupObservations(observations, groupByValue) {
+export function createGroupObservations(observations, timeSpanValue) {
   // use Map instead of Object because Map retains insertion order of the keys
   let groups = new Map();
   let validObservations = observations.filter((o) => o.time_observed_at);
 
-  if (groupByValue === 'month') {
+  if (timeSpanValue === 'month') {
     groups = groupByMap(
       validObservations.map((o) => {
         return { ...o, month: new Date(o.time_observed_at).getMonth() };
       }),
       'month'
     );
-  } else if (groupByValue === 'year') {
+  } else if (timeSpanValue === 'year') {
     groups = groupByMap(
       validObservations.map((o) => {
         return { ...o, year: new Date(o.time_observed_at).getFullYear() };

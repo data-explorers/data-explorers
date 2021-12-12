@@ -6,31 +6,31 @@
 
   let page = 1;
   let limit = 24;
-  let groupByValue = 'none';
+  let timeSpanValue = 'all';
   let orderByValue = 'newest';
 
-  observations = sortObservations(observations, orderByValue, groupByValue);
+  observations = sortObservations(observations, orderByValue, timeSpanValue);
   let observationsDisplay = observations.slice(0, page * limit);
   //  Map objects in #each blocks https://github.com/sveltejs/svelte/issues/5021
-  let groupedObservations = createGroupObservations(observationsDisplay, groupByValue);
+  let groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
 
   function loadMore() {
     page = page + 1;
-    observations = sortObservations(observations, orderByValue, groupByValue);
+    observations = sortObservations(observations, orderByValue, timeSpanValue);
     observationsDisplay = observations.slice(0, page * limit);
-    groupedObservations = createGroupObservations(observationsDisplay, groupByValue);
+    groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
   }
 
   function handleOrderBy() {
-    observations = sortObservations(observations, orderByValue, groupByValue);
+    observations = sortObservations(observations, orderByValue, timeSpanValue);
     observationsDisplay = observations.slice(0, page * limit);
-    groupedObservations = createGroupObservations(observationsDisplay, groupByValue);
+    groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
   }
 
-  function handleGroupBy() {
-    observations = sortObservations(observations, orderByValue, groupByValue);
+  function handleTimeSpan() {
+    observations = sortObservations(observations, orderByValue, timeSpanValue);
     observationsDisplay = observations.slice(0, page * limit);
-    groupedObservations = createGroupObservations(observationsDisplay, groupByValue);
+    groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
   }
 
   $: showLoadMore = page * limit < observations.length;
@@ -56,17 +56,17 @@
     </div>
     <div class="form-control inline-block">
       <label class="label inline" for="group">
-        <span class="label-text">Group by</span>
+        <span class="label-text">Time Span</span>
       </label>
       <select
-        bind:value={groupByValue}
+        bind:value={timeSpanValue}
         name="group"
         class="select select-bordered h-8 min-h-0"
-        on:change={handleGroupBy}
+        on:change={handleTimeSpan}
       >
-        <option value="none">None</option>
-        <option value="month">Month</option>
-        <option value="year">Year</option>
+        <option value="all">All</option>
+        <option value="month">Monthly</option>
+        <option value="year">Yearly</option>
       </select>
     </div>
   </div>
@@ -80,7 +80,7 @@
   {:else}
     {#each [...groupedObservations] as [key, observations]}
       <h2>
-        {#if groupByValue === 'month'}{getMonthName(key)}{:else}{key}{/if}
+        {#if timeSpanValue === 'month'}{getMonthName(key)}{:else}{key}{/if}
       </h2>
       <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-3  items-end ">
         {#each observations as observation}
