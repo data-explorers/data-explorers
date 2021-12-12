@@ -89,15 +89,15 @@ export function getMonthName(month) {
 }
 
 export function radiusZoom(zoomLevel) {
-  return 1000000 / 2 ** zoomLevel;
+  return 800000 / 2 ** zoomLevel;
 }
 
 export function rectangleLatitudeZoom(zoomLevel) {
-  return 9 / 2 ** zoomLevel;
+  return 7 / 2 ** zoomLevel;
 }
 
 export function rectangleLongitudeZoom(zoomLevel) {
-  return 12 / 2 ** zoomLevel;
+  return 10 / 2 ** zoomLevel;
 }
 
 export const getMapTiles = (taxonID) => {
