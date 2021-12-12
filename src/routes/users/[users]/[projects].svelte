@@ -15,7 +15,12 @@
   export let project;
   export let user;
 
-  let mapOptions = { latitude: project.latitude, longitude: project.longitude, zoom: 3 };
+  let mapOptions = {
+    latitude: project.latitude,
+    longitude: project.longitude,
+    zoom: 3,
+    center: [project.latitude || 0, project.longitude || 0]
+  };
 
   // NOTE: must use dynamic import to load leaflet since leaflet depends on
   // window object. leaflet will not work with server side rendering.

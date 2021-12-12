@@ -38,6 +38,7 @@
   import TaxaAbout from '$lib/components/taxa_about.svelte';
   import TaxaImages from '$lib/components/taxa_images.svelte';
   import TaxaMedia from '$lib/components/taxa_media.svelte';
+  import { defaultColorScheme } from '$lib/mapUtils';
 
   export let taxon;
   export let user;
@@ -46,10 +47,12 @@
   export let interactions;
 
   let mapOptions = {
+    ...defaultColorScheme,
     zoom: project.zoom,
     latitude: project.latitude,
     longitude: project.longitude,
-    observationsTimeSpan: project.observationsTimeSpan
+    observationsTimeSpan: project.observationsTimeSpan,
+    center: [project.latitude || 0, project.longitude || 0]
   };
 
   let tabsMetadata = {

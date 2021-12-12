@@ -7,13 +7,10 @@
 
   import {
     modulo,
-    getMonthName,
     coldMonths,
     radiusZoom,
     rectangleLatitudeZoom,
     rectangleLongitudeZoom,
-    colorsEightDiverge,
-    twelveMonths,
     tileLayerOptions,
     tileUrl
   } from '$lib/mapUtils';
@@ -24,22 +21,11 @@
 
   let leafletMap;
   let allFilters = {};
-  let defaultColor = '#3388ff';
-  let colorSchemeMonths = twelveMonths;
-  let colorScheme = colorsEightDiverge;
   let zoomLevel = 0;
   let circleRadius = 1;
   let rectangleLatitude = 1;
   let rectangleLongitude = 1;
   let orderByValue = 'oldest';
-
-  // set default map values
-  mapOptions = {
-    center: [mapOptions.latitude || 0, mapOptions.longitude || 0],
-    color: mapOptions.color || defaultColor,
-    zoom: mapOptions.zoom || 0,
-    observationsTimeSpan: mapOptions.observationsTimeSpan || 'all'
-  };
 
   observations = observations.filter((o) => o.latitude && o.longitude);
   observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
@@ -109,8 +95,8 @@
         <Circle
           latLng={[obs.latitude, obs.longitude]}
           radius={circleRadius}
-          color={mapOptions.color}
-          fillColor={mapOptions.color}
+          color={mapOptions.defaultColor}
+          fillColor={mapOptions.defaultColor}
         >
           <Popup observation={obs} />
         </Circle>
@@ -124,8 +110,11 @@
             <Circle
               latLng={[obs.latitude, obs.longitude]}
               radius={circleRadius}
-              color={colorScheme[modulo(year, colorScheme.length)]}
-              fillColor={colorScheme[modulo(year, colorScheme.length)]}
+              color={mapOptions.colorSchemeYear[modulo(year, mapOptions.colorSchemeYear.length)] ||
+                mapOptions.defaultColor}
+              fillColor={mapOptions.colorSchemeYear[
+                modulo(year, mapOptions.colorSchemeYear.length)
+              ] || mapOptions.defaultColor}
             >
               <Popup observation={obs} />
             </Circle>
@@ -142,8 +131,8 @@
               <Circle
                 latLng={[obs.latitude, obs.longitude]}
                 radius={circleRadius}
-                color={colorSchemeMonths[month]}
-                fillColor={colorSchemeMonths[month]}
+                color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
+                fillColor={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
               >
                 <Popup observation={obs} />
               </Circle>
@@ -153,8 +142,8 @@
                   [obs.latitude - rectangleLatitude, obs.longitude - rectangleLongitude],
                   [obs.latitude + rectangleLatitude, obs.longitude + rectangleLongitude]
                 ]}
-                color={colorSchemeMonths[month]}
-                fillColor={colorSchemeMonths[month]}
+                color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
+                fillColor={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
               >
                 <Popup observation={obs} />
               </Rectangle>

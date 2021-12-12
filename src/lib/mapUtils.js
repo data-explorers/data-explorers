@@ -56,6 +56,15 @@ export let colorsSixDivergeGroup = [
 ];
 export let colorsSixDiverge = colorsSixDivergeGroup[0];
 
+let colorsFiveSingleHue = [
+  ['#c6dbef', '#9ecae1', '#6baed6', '#3182bd', '#08519c'],
+  ['#c7e9c0', '#a1d99b', '#74c476', '#31a354', '#006d2c'],
+  ['#d9d9d9', '#bdbdbd', '#969696', '#636363', '#252525'],
+  ['#fdd0a2', '#fdae6b', '#fd8d3c', '#e6550d', '#a63603'],
+  ['#dadaeb', '#bcbddc', '#9e9ac8', '#756bb1', '#54278f'],
+  ['#fcbba1', '#fc9272', '#fb6a4a', '#de2d26', '#a50f15']
+];
+
 export let colorsFourDivergeGroup = [
   // brown - green
   ['#a6611a', '#dfc27d', '#80cdc1', '#018571'],
@@ -74,6 +83,9 @@ export let colorsFourDiverge = colorsFourDivergeGroup[0];
 
 export let coldMonths = [10, 11, 12, 1, 2, 3];
 export let warmMonths = [4, 5, 6, 7, 8, 9];
+
+export let blue = '#3388ff';
+export let darkGray = '#525252';
 
 export function getMonthName(month) {
   // https://reactgo.com/convert-month-number-to-name-js/
@@ -147,4 +159,12 @@ export const tileLayerOptions = {
   maxZoom: 20,
   maxNativeZoom: 19,
   attribution: attribution
+};
+
+export let defaultColorScheme = {
+  colorSchemeMonth: twelveMonths,
+  colorSchemeYear: colorsSixDiverge,
+  defaultColor: blue,
+  colorScheme: colorsSixTolBright,
+  monthSeasonalMarkers: true
 };
