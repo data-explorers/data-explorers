@@ -1,6 +1,7 @@
 <script>
   import CircleIcon from '$lib/components/svg/circle.svelte';
   import XIcon from '$lib/components/svg/x.svelte';
+  import { pluralize } from '$lib/formatUtils';
 
   export let taxon;
   export let toggleTaxon;
@@ -13,5 +14,7 @@
   <button class="float-right" data-taxon-id={taxon.taxonId} on:click={removeTaxon}>
     <XIcon value={taxon.taxonId} />
   </button>
-  <span class="text-sm">{taxon.taxonName}</span>
+  <span class="text-sm"
+    >{taxon.taxonName}, {pluralize('observation', taxon.observations.length)}</span
+  >
 </div>

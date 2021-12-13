@@ -20,3 +20,11 @@ export function truncate(text, limit = 30) {
 
   return text;
 }
+
+export function pluralize(word, count) {
+  if (count === 1) {
+    return `${count} ${word}`;
+  } else {
+    return `${count} ${word}s`;
+  }
+}
