@@ -1,6 +1,6 @@
 <script>
   import 'leaflet/dist/leaflet.css';
-  import { LeafletMap, TileLayer, Circle, Popup } from 'svelte-leafletjs';
+  import { LeafletMap, TileLayer, Circle, Popup, Rectangle } from 'svelte-leafletjs';
   import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
   import { radiusZoom, tileLayerOptions, tileUrl } from '$lib/mapUtils';
@@ -37,10 +37,28 @@
     leafletMap.getMap().fitBounds(coordinates);
   }
 
+  let demoPolygon = [
+    [0, 0],
+    [0, 0]
+  ];
+
   onMount(() => {
     if (coordinates.length > 0) {
       leafletMap.getMap().fitBounds(coordinates);
     }
+
+    let east = leafletMap.getMap().getBounds().getEast();
+    let west = leafletMap.getMap().getBounds().getWest();
+    let north = leafletMap.getMap().getBounds().getNorth();
+    let south = leafletMap.getMap().getBounds().getSouth();
+    var width =
+      leafletMap.getMap().getBounds().getEast() - leafletMap.getMap().getBounds().getWest();
+    var height =
+      leafletMap.getMap().getBounds().getNorth() - leafletMap.getMap().getBounds().getSouth();
+    demoPolygon = [
+      [north - height * 0.3, east - width * 0.3],
+      [south + height * 0.3, west + width * 0.3]
+    ];
 
     leafletMap.getMap().on('zoomend', function () {
       zoomLevel = leafletMap.getMap().getZoom();
@@ -79,6 +97,11 @@
           {/if}
         {/each}
       {/each}
+    {/if}
+    {#if showDemoMapLayer}
+      <Rectangle latLngBounds={demoPolygon} color="#777" fillColor="#777">
+        <Popup>Demo map layer</Popup>
+      </Rectangle>
     {/if}
   </LeafletMap>
 </div>

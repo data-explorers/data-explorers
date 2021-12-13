@@ -53,6 +53,8 @@
   let orderByValue = 'oldest';
   let groupedObservations = []; // what is sent to the Map and TimeSpanFilters
   let timeSpanHistory = {}; //
+  let showClimate = false;
+  let showDemoMapLayer = false;
 
   allObservations = allObservations.filter((o) => o.latitude && o.longitude);
 
@@ -267,23 +269,35 @@
       {/if}
 
       <h3>Environmental Factors</h3>
+      <div class="mb-4">
+        <label class="cursor-pointer block">
+          <input type="checkbox" bind:checked={showClimate} />
+          <span class="label-text">Temperature and Preciptation</span>
+        </label>
 
-      <span>Temperature and Preciptation 2019</span>
+        <label class="cursor-pointer block">
+          <input type="checkbox" bind:checked={showDemoMapLayer} />
+          <span class="label-text">Demo map layer</span>
+        </label>
+      </div>
 
-      <ModalMagnify modalname="my-modal">
-        <img
-          src="/images/{user.username}/{project.slug}/climate-chart-small.png"
-          alt="climate chart for {project.location}"
-        />
-      </ModalMagnify>
+      {#if showClimate}
+        <span>Temperature and Preciptation 2019</span>
+        <ModalMagnify modalname="my-modal">
+          <img
+            src="/images/{user.username}/{project.slug}/climate-chart-small.png"
+            alt="climate chart for {project.location}"
+          />
+        </ModalMagnify>
 
-      <Modal modalname="my-modal">
-        <img
-          slot="popup"
-          src="/images/{user.username}/{project.slug}/climate-chart.png"
-          alt="climate chart for {project.location}"
-        />
-      </Modal>
+        <Modal modalname="my-modal">
+          <img
+            slot="popup"
+            src="/images/{user.username}/{project.slug}/climate-chart.png"
+            alt="climate chart for {project.location}"
+          />
+        </Modal>
+      {/if}
     </div>
 
     <div class="lg:col-span-7">
@@ -292,6 +306,7 @@
         {mapOptions}
         {groupedObservations}
         {timeSpanHistory}
+        {showDemoMapLayer}
         {taxaHistory}
       />
     </div>
