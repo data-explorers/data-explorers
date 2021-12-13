@@ -27,7 +27,7 @@
     groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
   }
 
-  function handleTimeSpan() {
+  function selectTimeSpanHandler() {
     observations = sortObservations(observations, orderByValue, timeSpanValue);
     observationsDisplay = observations.slice(0, page * limit);
     groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
@@ -62,7 +62,7 @@
         bind:value={timeSpanValue}
         name="group"
         class="select select-bordered h-8 min-h-0"
-        on:change={handleTimeSpan}
+        on:change={selectTimeSpanHandler}
       >
         <option value="all">All</option>
         <option value="month">Monthly</option>

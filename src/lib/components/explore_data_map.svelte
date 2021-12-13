@@ -1,43 +1,47 @@
 <script>
   import 'leaflet/dist/leaflet.css';
-  import { LeafletMap, TileLayer, Circle } from 'svelte-leafletjs';
-  import Popup from '$lib/components/map_popup_observation.svelte';
+  import { LeafletMap, TileLayer, Circle, Popup } from 'svelte-leafletjs';
+  import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
   import { radiusZoom, tileLayerOptions, tileUrl } from '$lib/mapUtils';
 
   export let mapOptions;
-  export let observations;
+  export let groupedObservations;
+  export let timeSpanHistory;
+  export let showDemoMapLayer;
+  export let taxaHistory;
 
   let leafletMap;
-  let defaultColor = '#3388ff';
-
-  // set default map values
-  mapOptions = {
-    center: [mapOptions.latitude || 0, mapOptions.longitude || 0],
-    color: mapOptions.color || defaultColor,
-    zoom: mapOptions.zoom || 0
-  };
-
-  observations = observations.filter((o) => o.latitude && o.longitude);
-
   let zoomLevel = 0;
   let circleRadius = 1;
+  let taxaCount = 0;
 
   // make certain variables reactive so they change values when user zooms
   // in and out of map
   $: if (leafletMap) {
     zoomLevel = leafletMap.getMap().getZoom();
-    radiusZoom(zoomLevel);
+    circleRadius = radiusZoom(zoomLevel);
   }
+  let coordinates = [];
 
-  $: observations = observations.filter((o) => o.latitude && o.longitude);
-  $: coordinates = observations.map((o) => [o.latitude, o.longitude]);
+  $: if (taxaHistory.length > 0) {
+    coordinates = [];
+    taxaCount = taxaHistory.length;
+    let temp = taxaHistory.map((t) => t.observations);
+    for (let i = 0; i < temp.length; i++) {
+      for (let j = 0; j < temp[i].length; j++) {
+        coordinates.push([temp[i][j].latitude, temp[i][j].longitude]);
+      }
+    }
 
-  $: if (leafletMap && coordinates.length > 0) {
     leafletMap.getMap().fitBounds(coordinates);
   }
 
   onMount(() => {
+    if (coordinates.length > 0) {
+      leafletMap.getMap().fitBounds(coordinates);
+    }
+
     leafletMap.getMap().on('zoomend', function () {
       zoomLevel = leafletMap.getMap().getZoom();
       circleRadius = radiusZoom(zoomLevel);
@@ -48,15 +52,33 @@
 <div style="width: 100%; height: 600px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <TileLayer url={tileUrl} options={tileLayerOptions} />
-    {#each observations as obs}
-      <Circle
-        latLng={[obs.latitude, obs.longitude]}
-        radius={circleRadius}
-        color={obs.color}
-        fillColor={obs.fillColor}
-      >
-        <Popup observation={obs} />
-      </Circle>
-    {/each}
+
+    {#if Array.isArray(groupedObservations)}
+      {#each groupedObservations as obs}
+        <Circle
+          latLng={[obs.latitude, obs.longitude]}
+          radius={circleRadius}
+          color={obs.color}
+          fillColor={obs.fillColor}
+        >
+          <MyPopup observation={obs} />
+        </Circle>
+      {/each}
+    {:else}
+      {#each [...groupedObservations] as [key, observations]}
+        {#each observations as obs}
+          {#if timeSpanHistory[key]}
+            <Circle
+              latLng={[obs.latitude, obs.longitude]}
+              radius={circleRadius}
+              color={obs.color}
+              fillColor={obs.fillColor}
+            >
+              <MyPopup observation={obs} />
+            </Circle>
+          {/if}
+        {/each}
+      {/each}
+    {/if}
   </LeafletMap>
 </div>

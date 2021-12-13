@@ -20,7 +20,7 @@
   export let mapOptions;
 
   let leafletMap;
-  let allFilters = {};
+  let timeSpanHistory = {};
   let zoomLevel = 0;
   let circleRadius = 1;
   let rectangleLatitude = 1;
@@ -31,22 +31,22 @@
   observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
   let groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
   if (mapOptions.observationsTimeSpan !== 'all') {
-    groupedObservations.forEach((v, k) => (allFilters[k] = true));
+    groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
   }
 
-  function handleFilters(e) {
+  function toggleTimeSpans(e) {
     let targetFilter = e.target.dataset['filter'];
     targetFilter = targetFilter === 'unknown' ? 'unknown' : Number(targetFilter);
-    allFilters[targetFilter] = !allFilters[targetFilter];
+    timeSpanHistory[targetFilter] = !timeSpanHistory[targetFilter];
   }
 
-  function handleTimeSpan() {
-    allFilters = {};
+  function selectTimeSpanHandler() {
+    timeSpanHistory = {};
     observations = observations.filter((o) => o.latitude && o.longitude);
     observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
     groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
     if (mapOptions.observationsTimeSpan !== 'all') {
-      groupedObservations.forEach((v, k) => (allFilters[k] = true));
+      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
     }
   }
 
@@ -105,7 +105,7 @@
       <!-- display observations as circles by year -->
     {:else if mapOptions.observationsTimeSpan === 'year'}
       {#each [...groupedObservations] as [year, observations]}
-        {#if allFilters[year]}
+        {#if timeSpanHistory[year]}
           {#each observations as obs}
             <Circle
               latLng={[obs.latitude, obs.longitude]}
@@ -125,7 +125,7 @@
       <!-- display observations as circle and rectangles by month -->
     {:else}
       {#each [...groupedObservations] as [month, observations]}
-        {#if allFilters[month]}
+        {#if timeSpanHistory[month]}
           {#each observations as obs}
             {#if coldMonths.includes(obs.month + 1)}
               <Circle
@@ -156,4 +156,10 @@
 </div>
 
 <!-- map legend -->
-<TimeSpanFilters {mapOptions} {handleTimeSpan} {groupedObservations} {handleFilters} {allFilters} />
+<TimeSpanFilters
+  {mapOptions}
+  {selectTimeSpanHandler}
+  {groupedObservations}
+  {toggleTimeSpans}
+  {timeSpanHistory}
+/>

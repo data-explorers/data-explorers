@@ -23,20 +23,21 @@
 <script>
   import { onMount } from 'svelte';
   import AutoComplete from 'simple-svelte-autocomplete';
-  import { Datepicker } from 'svelte-calendar';
-  import RangeSlider from 'svelte-range-slider-pips';
+  import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
 
   import ProjectHeader from '$lib/components/project_header.svelte';
   import Modal from '$lib/components/modal.svelte';
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
   import TaxonFilter from '$lib/components/ed_taxon_filter.svelte';
-  import { colorsSixTolBright } from '$lib/mapUtils';
   import { modulo } from '$lib/miscUtils';
+  import { darkGray, defaultColorScheme } from '$lib/mapUtils';
   import {
     fetchTaxaByName,
     fecthObservationsByTaxonId,
     getObservationsDateRange,
-    getDateSliderValues
+    getDateSliderValues,
+    sortObservations,
+    createGroupObservations
   } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
 
@@ -45,16 +46,35 @@
   export let currentTab;
   export let allObservations;
   export let taxa;
-  let colorScheme = colorsSixTolBright;
   let observations = [];
-  let groupedObservations = {};
   let item = '';
-  let selectedTaxa = [];
+  let taxaHistory = []; // all taxa that
   let showDemoPrompt = true;
-  let availableDates = [];
-  let sliderValues = [];
-  let timeFirstIndex;
-  let timeLastIndex;
+  let orderByValue = 'oldest';
+  let groupedObservations = []; // what is sent to the Map and TimeSpanFilters
+  let timeSpanHistory = {}; //
+
+  allObservations = allObservations.filter((o) => o.latitude && o.longitude);
+
+  function logging() {
+    console.log('observations', observations);
+    console.log('taxaHistory', taxaHistory);
+    console.log('groupedObservations', groupedObservations);
+    console.log('timeSpanHistory', timeSpanHistory);
+  }
+
+  let mapOptions = {
+    ...defaultColorScheme,
+    zoom: project.zoom,
+    latitude: project.latitude,
+    longitude: project.longitude,
+    observationsTimeSpan: 'all',
+    colorSchemeMonth: Array(12).fill(darkGray),
+    colorSchemeYear: [darkGray],
+    defaultColor: darkGray,
+    monthSeasonalMarkers: false,
+    center: [project.latitude || 0, project.longitude || 0]
+  };
 
   // =====================
   // type ahead select
@@ -64,13 +84,12 @@
     if (!event || !event.label) return;
     showDemoPrompt = false;
 
-    let taxonName = event.label;
-    let taxonId = event.value;
-    if (Object.keys(groupedObservations).includes('' + taxonId)) {
+    // prevent adding same taxon twice
+    if (taxaHistory.filter((t) => t.taxonId == event.id).length > 0) {
       return;
     }
 
-    displayObservationsForTaxon(taxonName, taxonId);
+    displayObservationsForTaxon(event.label, event.id);
   }
 
   async function loadOptions(filterText) {
@@ -84,70 +103,62 @@
   function loadDemoSpecies() {
     showDemoPrompt = false;
 
-    let topTaxa = taxa.slice(0, 3);
-    topTaxa.forEach((taxon) => {
-      if (Object.keys(groupedObservations).includes('' + taxon.taxon_id)) {
+    taxa.slice(0, 5).forEach((taxon) => {
+      if (taxaHistory.filter((t) => t.taxonId == taxon.taxon_id).length > 0) {
         return;
       }
 
-      let taxonName = formatTaxonDisplayName(taxon);
-      let taxonId = taxon.taxon_id;
-
-      displayObservationsForTaxon(taxonName, taxonId);
+      displayObservationsForTaxon(formatTaxonDisplayName(taxon), taxon.taxon_id);
     });
   }
 
   function displayObservationsForTaxon(taxonName, taxonId) {
-    let index = modulo(selectedTaxa.length, colorScheme.length);
-
-    selectedTaxa = selectedTaxa.concat({
-      taxonName,
-      taxonId,
-      color: colorScheme[index],
-      active: true
-    });
+    let index = modulo(taxaHistory.length, mapOptions.colorScheme.length);
 
     let selectedObservations = fecthObservationsByTaxonId(
       allObservations,
       taxonId,
-      colorScheme[index]
+      mapOptions.colorScheme[index]
     );
+
+    // update observations
     observations = observations.concat(selectedObservations);
-    groupedObservations[taxonId] = selectedObservations;
-  }
+    observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
+    groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
 
-  function handleRangeStop(e) {
-    let startDate = availableDates[e.detail.values[0]];
-    let endDate = availableDates[e.detail.values[1]];
-
-    let tempObservations = [].concat(...Object.values(groupedObservations));
-
-    observations = tempObservations
-      .filter((o) => {
-        let date = new Date(o.time_observed_at);
-        return date >= startDate && date <= endDate;
-      })
-      .sort();
-    console.log(
-      startDate,
-      endDate,
-      observations.map((o) => o.time_observed_at)
-    );
+    // update filters
+    taxaHistory = taxaHistory.concat({
+      taxonName,
+      taxonId,
+      color: mapOptions.colorScheme[index],
+      active: true,
+      observations: selectedObservations
+    });
+    if (mapOptions.observationsTimeSpan !== 'all') {
+      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+    }
   }
 
   function removeTaxon(e) {
     let taxonId = Number(e.target.dataset['taxonId']);
 
-    selectedTaxa = selectedTaxa.filter((t) => t.taxonId !== taxonId);
+    // update observations
     observations = observations.filter((o) => o.taxon_id !== taxonId);
-    delete groupedObservations[taxonId];
+    groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
+
+    // update filters
+    taxaHistory = taxaHistory.filter((t) => t.taxonId !== taxonId);
+    if (mapOptions.observationsTimeSpan !== 'all') {
+      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+    }
   }
 
   function toggleTaxon(e) {
     let taxonId = Number(e.target.dataset['taxonId']);
 
+    // update filters
     let currentlyActive = true;
-    selectedTaxa = selectedTaxa.map((t) => {
+    taxaHistory = taxaHistory.map((t) => {
       if (t.taxonId === taxonId) {
         currentlyActive = !t.active;
         return { ...t, active: !t.active };
@@ -156,22 +167,46 @@
       }
     });
 
+    // update observations
     if (currentlyActive) {
-      observations = observations.concat(groupedObservations[taxonId]);
+      observations = observations.concat(
+        taxaHistory.filter((t) => t.taxonId === taxonId)[0]['observations']
+      );
     } else {
       observations = observations.filter((o) => o.taxon_id !== taxonId);
+    }
+    observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
+    groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
+
+    // update filters
+    if (mapOptions.observationsTimeSpan !== 'all') {
+      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+    }
+  }
+
+  function toggleTimeSpans(e) {
+    let targetFilter = e.target.dataset['filter'];
+    targetFilter = targetFilter === 'unknown' ? 'unknown' : Number(targetFilter);
+
+    // update observations
+    timeSpanHistory[targetFilter] = !timeSpanHistory[targetFilter];
+  }
+
+  function selectTimeSpanHandler() {
+    // update observations
+    observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
+    groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
+
+    // update filters
+    timeSpanHistory = {};
+    if (mapOptions.observationsTimeSpan !== 'all') {
+      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
     }
   }
 
   // =====================
   // map
   // =====================
-
-  let mapOptions = {
-    zoom: project.zoom,
-    latitude: project.latitude,
-    longitude: project.longitude,
-  };
 
   let Map;
   onMount(async () => {
@@ -183,23 +218,13 @@
   // init
   // =====================
 
-  $: item;
-  $: if (item) {
-    loadOptions(item);
-  }
 
-  loadDemoSpecies();
 
-  availableDates = getObservationsDateRange(allObservations);
-  sliderValues = getDateSliderValues(availableDates);
 </script>
 
 <ProjectHeader {project} {user} />
 <div class="prose max-w-none">
   <h1>{currentTab.label}</h1>
-  {availableDates.length - 1}<br />
-  {sliderValues}
-  {JSON.stringify(selectedTaxa)}
 
   <div class="grid lg:grid-cols-10 gap-3 mb-6">
     <div class="lg:col-span-3">
@@ -221,31 +246,25 @@
       </div>
 
       {#if showDemoPrompt}
-        <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />Show most observed
-        species
+        <label class="cursor-pointer">
+          <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />
+          <span class="label-text">Show 5 most observed species</span>
+        </label>
       {/if}
 
-      {#each selectedTaxa as taxon}
+      {#each taxaHistory as taxon (taxon.taxonId)}
         <TaxonFilter {taxon} {toggleTaxon} {removeTaxon} />
       {/each}
 
-      <div class="mr-8">
-        <RangeSlider
-          handleFormatter={(v) => availableDates[v]}
-          float
-          on:stop={handleRangeStop}
-          range
-          values={sliderValues}
-          min={0}
-          max={sliderValues[sliderValues.length - 1]}
-          pips
-          first="label"
-          last="label"
+      {#if taxaHistory.length > 0}
+        <TimeSpanFilters
+          {mapOptions}
+          {selectTimeSpanHandler}
+          {groupedObservations}
+          {toggleTimeSpans}
+          {timeSpanHistory}
         />
-      </div>
-
-      <Datepicker />
-      <Datepicker />
+      {/if}
 
       <h3>Environmental Factors</h3>
 
@@ -268,7 +287,13 @@
     </div>
 
     <div class="lg:col-span-7">
-      <svelte:component this={Map} {mapOptions} {observations} />
+      <svelte:component
+        this={Map}
+        {mapOptions}
+        {groupedObservations}
+        {timeSpanHistory}
+        {taxaHistory}
+      />
     </div>
   </div>
 </div>
