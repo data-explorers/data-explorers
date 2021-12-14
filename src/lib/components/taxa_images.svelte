@@ -65,8 +65,8 @@
         on:change={selectTimeSpanHandler}
       >
         <option value="all">All</option>
-        <option value="month">Monthly</option>
-        <option value="year">Yearly</option>
+        <option value="month">Months</option>
+        <option value="year">Years</option>
       </select>
     </div>
   </div>

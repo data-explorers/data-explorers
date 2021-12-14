@@ -8,6 +8,7 @@
     let currentTab = project.tabs_project.filter(
       (tab) => tab.link === pathParts[pathParts.length - 1]
     )[0];
+    let projectPath = `/users/${user.username}/${project.slug}`;
 
     let taxaData = await import(`../../../../lib/data/${page.params.projects}/taxa.json`);
     let taxa = taxaData.default;
@@ -16,7 +17,7 @@
     );
     let allObservations = observationData.default;
 
-    return { props: { project, user, currentTab, allObservations, taxa } };
+    return { props: { project, user, currentTab, allObservations, taxa, projectPath } };
   }
 </script>
 
@@ -44,6 +45,7 @@
   export let currentTab;
   export let allObservations;
   export let taxa;
+  export let projectPath;
   let observations = [];
   let item = '';
   let taxaHistory = []; // all taxa that
@@ -112,7 +114,7 @@
   function loadDemoSpecies() {
     showDemoPrompt = false;
 
-    taxa.slice(0, 5).forEach((taxon) => {
+    taxa.slice(0, 3).forEach((taxon) => {
       if (taxaHistory.filter((t) => t.taxonId == taxon.taxon_id).length > 0) {
         return;
       }
@@ -265,12 +267,12 @@
       {#if showDemoPrompt}
         <label class="cursor-pointer">
           <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />
-          <span class="label-text">Show 5 most observed species</span>
+          <span>Show 3 most observed species</span>
         </label>
       {/if}
 
       {#each taxaHistory as taxon (taxon.taxonId)}
-        <TaxonFilter {taxon} {toggleTaxon} {removeTaxon} />
+        <TaxonFilter {taxon} {toggleTaxon} {removeTaxon} {projectPath} />
       {/each}
 
       {#if taxaHistory.length > 0}
@@ -287,12 +289,12 @@
       <div class="mb-4">
         <label class="cursor-pointer block">
           <input type="checkbox" bind:checked={showClimate} />
-          <span class="label-text">Temperature and Preciptation</span>
+          <span>Temperature and Preciptation</span>
         </label>
 
         <label class="cursor-pointer block">
           <input type="checkbox" bind:checked={showDemoMapLayer} />
-          <span class="label-text">Demo map layer</span>
+          <span>Demo map layer</span>
         </label>
       </div>
 
