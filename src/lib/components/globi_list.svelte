@@ -17,9 +17,6 @@
             },
             true
           )}
-          <a class="external-link" href="https://www.inaturalist.org/taxa/{taxon.target_taxon_id}"
-            >iNaturalist link</a
-          >
         </li>
       {/if}
     {/each}
@@ -30,9 +27,5 @@
   li {
     margin-top: 0;
     margin-bottom: 0;
-  }
-  .external-link {
-    font-size: 0.85rem;
-    margin-left: 0.5rem;
   }
 </style>
