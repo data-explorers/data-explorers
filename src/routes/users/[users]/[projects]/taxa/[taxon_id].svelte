@@ -13,7 +13,9 @@
       `../../../../../lib/data/${page.params.projects}/observations.json`
     );
     let allObservations = observationData.default;
-    let observations = allObservations.filter((i) => i.taxon_id == page.params.taxon_id);
+    let observations = allObservations
+      .filter((o) => o.taxon_ids)
+      .filter((o) => o.taxon_ids.split('|').includes('' + page.params.taxon_id));
 
     let user = data.filter((user) => user.username === page.params.users)[0];
     let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
