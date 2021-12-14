@@ -34,8 +34,6 @@
   import {
     fetchTaxaByName,
     fecthObservationsByTaxonId,
-    getObservationsDateRange,
-    getDateSliderValues,
     sortObservations,
     createGroupObservations
   } from '$lib/dataUtils';
@@ -65,6 +63,10 @@
     console.log('timeSpanHistory', timeSpanHistory);
   }
 
+  function logTime(message) {
+    console.log(new Date().toUTCString(), message);
+  }
+
   let mapOptions = {
     ...defaultColorScheme,
     zoom: project.zoom,
@@ -75,7 +77,8 @@
     colorSchemeYear: [darkGray],
     defaultColor: darkGray,
     monthSeasonalMarkers: false,
-    center: [project.latitude || 0, project.longitude || 0]
+    center: [project.latitude || 0, project.longitude || 0],
+    preferCanvas: true
   };
 
   // =====================
@@ -91,11 +94,15 @@
       return;
     }
 
-    displayObservationsForTaxon(event.label, event.id);
+    setTimeout(() => {
+      displayObservationsForTaxon(event.label, event.id);
+    }, 100);
   }
 
   async function loadOptions(filterText) {
-    return await fetchTaxaByName(taxa, filterText);
+    if (filterText.length > 2) {
+      return await fetchTaxaByName(taxa, filterText);
+    }
   }
 
   // =====================
@@ -146,6 +153,10 @@
 
     // update observations
     observations = observations.filter((o) => o.taxon_id !== taxonId);
+    observations = observations.filter((o) => {
+      return !o.taxon_ids.split('|').includes('' + taxonId);
+    });
+
     groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
 
     // update filters
@@ -176,6 +187,9 @@
       );
     } else {
       observations = observations.filter((o) => o.taxon_id !== taxonId);
+      observations = observations.filter((o) => {
+        return !o.taxon_ids.split('|').includes('' + taxonId);
+      });
     }
     observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
     groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
@@ -215,16 +229,21 @@
     const comp = await import('$lib/components/explore_data_map.svelte');
     Map = comp.default;
   });
+  let foo = [];
+  $: foo = taxaHistory.map((t) => ({
+    taxonName: t.taxonName,
+    color: t.color,
+    taxonId: t.taxonId,
+    active: t.active
+  }));
 
   // =====================
   // init
   // =====================
-
-
-
 </script>
 
 <ProjectHeader {project} {user} />
+
 <div class="prose max-w-none">
   <h1>{currentTab.label}</h1>
 
@@ -236,12 +255,8 @@
         <AutoComplete
           searchFunction={loadOptions}
           onChange={handleSelect}
-          localFiltering="false"
           labelFieldName="label"
           valueFieldName="id"
-          maxItemsToShowInList="8"
-          hideArrow="true"
-          showClear="true"
           placeholder="Search species name"
           bind:selectedItem={item}
         />

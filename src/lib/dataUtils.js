@@ -4,22 +4,59 @@ import { getDateRange, groupByMap } from '$lib/miscUtils';
 export const fetchTaxaByName = (taxa, keyword) => {
   // find taxa whose common name or scientific name matches the keyword
   return new Promise((resolve, _reject) => {
+    keyword = keyword.toLowerCase();
     let results = [];
-    // search by common name
-    results = taxa.filter((taxon) => {
-      if (taxon.common_name) {
-        return taxon.common_name.toLowerCase().includes(keyword.toLowerCase());
+    let uniqueIds = [];
+
+    // search concatenated common names
+    taxa.forEach((taxon) => {
+      if (taxon.common_names) {
+        let names = taxon.names.split('|');
+        let taxon_ids = taxon.taxon_ids.split('|');
+        let common_names = taxon.common_names.split('|');
+
+        common_names.forEach((common_name, i) => {
+          if (
+            new RegExp('\\b' + keyword).test(common_name.toLowerCase()) &&
+            !uniqueIds.includes(taxon_ids[i])
+          ) {
+            results.push({
+              taxon_id: Number(taxon_ids[i]),
+              common_name: common_names[i],
+              scientific_name: names[i],
+              count: taxon.count
+            });
+            uniqueIds.push(taxon_ids[i]);
+          }
+        });
       }
     });
 
-    // search by scientific name
-    if (results.length === 0) {
-      results = taxa.filter((taxon) => {
-        if (taxon.scientific_name) {
-          return taxon.scientific_name.toLowerCase().includes(keyword.toLowerCase());
-        }
-      });
-    }
+    // search concatenated scientific names
+    taxa.forEach((taxon) => {
+      if (taxon.names) {
+        let scientific_names = taxon.names.split('|');
+        let taxon_ids = taxon.taxon_ids.split('|');
+        let common_names = taxon.common_names.split('|');
+
+        scientific_names.forEach((scientific_name, i) => {
+          if (
+            new RegExp('\\b' + keyword).test(scientific_name.toLowerCase()) &&
+            !uniqueIds.includes(taxon_ids[i])
+          ) {
+            results.push({
+              taxon_id: Number(taxon_ids[i]),
+              common_name: common_names[i],
+              scientific_name: scientific_names[i],
+              count: taxon.count
+            });
+            uniqueIds.push(taxon_ids[i]);
+          }
+        });
+      }
+    });
+
+    results.sort((a, b) => b.count - a.count);
 
     // create data for suggestion menu
     results = results.map((t) => {
@@ -35,21 +72,23 @@ export const fetchTaxaByName = (taxa, keyword) => {
 
 export const fecthObservationsByTaxonId = (observations, taxonId, color) => {
   // return all observations for a taxonId
-  return observations
-    .filter((o) => o.taxon_id === taxonId)
-    .map((o) => {
-      let dateObj = o.time_observed_at && new Date(o.time_observed_at);
-      let month = o.time_observed_at ? dateObj.getMonth() : 'unknown';
-      let year = o.time_observed_at ? dateObj.getFullYear() : 'unknown';
+  let results = observations
+    .filter((o) => o.taxon_ids)
+    .filter((o) => o.taxon_ids.split('|').includes('' + taxonId));
 
-      return {
-        ...o,
-        month,
-        year,
-        color: color,
-        fillColor: color
-      };
-    });
+  return results.map((o) => {
+    let dateObj = o.time_observed_at && new Date(o.time_observed_at);
+    let month = o.time_observed_at ? dateObj.getMonth() : 'unknown';
+    let year = o.time_observed_at ? dateObj.getFullYear() : 'unknown';
+
+    return {
+      ...o,
+      month,
+      year,
+      color: color,
+      fillColor: color
+    };
+  });
 };
 
 export function getObservationsDateRange(allObservations) {
