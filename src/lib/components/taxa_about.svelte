@@ -1,9 +1,11 @@
 <script>
   import GlobiList from '$lib/components/globi_list.svelte';
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let project;
   export let taxon;
   export let interactions;
+  export let projectPath;
 
   let eatsTaxa = interactions.filter((i) => i.interaction === 'eats');
   let eatenByTaxa = interactions.filter((i) => i.interaction === 'eatenBy');
@@ -11,6 +13,41 @@
   let pollinatedByTaxa = interactions.filter((i) => i.interaction === 'pollinatedBy');
   let preysOnTaxa = interactions.filter((i) => i.interaction === 'preysOn');
   let preyedUponByTaxa = interactions.filter((i) => i.interaction === 'preyedUponBy');
+
+  function displayTaxonomy(taxon) {
+    if (!taxon.taxon_ids) {
+      return [];
+    }
+
+    let taxon_ids = taxon.taxon_ids.split('|');
+    let scientific_names = taxon.names.split('|');
+    let common_names = taxon.common_names.split('|');
+    let taxonomy = [];
+    let ranks = {
+      0: 'Kingdom',
+      1: 'Phylum',
+      2: 'Class',
+      3: 'Order',
+      4: 'Family',
+      5: 'Genus',
+      6: 'Species'
+    };
+
+    taxon_ids.forEach((taxon, i) => {
+      if (taxon_ids[i]) {
+        taxonomy.push({
+          taxon_rank: ranks[i],
+          taxon_id: taxon_ids[i],
+          taxon_name: formatTaxonDisplayName({
+            common_name: common_names[i],
+            scientific_name: scientific_names[i]
+          })
+        });
+      }
+    });
+
+    return taxonomy;
+  }
 </script>
 
 <div class="prose">
@@ -28,6 +65,14 @@
     voluptate duis ex mollit deserunt duis cupidatat tempor sint. Velit ea ipsum est exercitation
     excepteur laboris id.
   </p>
+
+  <h3>Taxonomy</h3>
+
+  {#each displayTaxonomy(taxon) as level}
+    <div>
+      {level.taxon_rank}: <a href="{projectPath}/taxa/{level.taxon_id}">{level.taxon_name}</a>
+    </div>
+  {/each}
 
   <h3>Native Status</h3>
 
@@ -61,4 +106,7 @@
   <GlobiList interactionTaxa={pollinatedByTaxa} title="Pollinated by" />
   <GlobiList interactionTaxa={preysOnTaxa} title="Preys on" />
   <GlobiList interactionTaxa={preyedUponByTaxa} title="Preyed upon by" />
+
+  <h3>More Information</h3>
+  <a href="https://www.inaturalist.org/taxa/{taxon.taxon_id}">iNaturalist taxa</a>
 </div>

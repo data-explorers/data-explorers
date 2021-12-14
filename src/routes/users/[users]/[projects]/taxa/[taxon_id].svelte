@@ -20,6 +20,7 @@
     let user = data.filter((user) => user.username === page.params.users)[0];
     let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
     let interactions = allInteractions.filter((i) => i.subject_taxon_id == page.params.taxon_id);
+    let projectPath = `/users/${user.username}/${project.slug}`;
 
     return {
       props: {
@@ -27,7 +28,8 @@
         user,
         project,
         observations,
-        interactions
+        interactions,
+        projectPath
       }
     };
   }
@@ -47,6 +49,7 @@
   export let project;
   export let observations;
   export let interactions;
+  export let projectPath;
 
   let mapOptions = {
     ...defaultColorScheme,
