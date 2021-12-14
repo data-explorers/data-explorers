@@ -7,12 +7,12 @@
   export let interactions;
   export let projectPath;
 
-  let eatsTaxa = interactions.filter((i) => i.interaction === 'eats');
-  let eatenByTaxa = interactions.filter((i) => i.interaction === 'eatenBy');
-  let pollinatesTaxa = interactions.filter((i) => i.interaction === 'pollinates');
-  let pollinatedByTaxa = interactions.filter((i) => i.interaction === 'pollinatedBy');
-  let preysOnTaxa = interactions.filter((i) => i.interaction === 'preysOn');
-  let preyedUponByTaxa = interactions.filter((i) => i.interaction === 'preyedUponBy');
+  $: eatsTaxa = interactions.filter((i) => i.interaction === 'eats');
+  $: eatenByTaxa = interactions.filter((i) => i.interaction === 'eatenBy');
+  $: pollinatesTaxa = interactions.filter((i) => i.interaction === 'pollinates');
+  $: pollinatedByTaxa = interactions.filter((i) => i.interaction === 'pollinatedBy');
+  $: preysOnTaxa = interactions.filter((i) => i.interaction === 'preysOn');
+  $: preyedUponByTaxa = interactions.filter((i) => i.interaction === 'preyedUponBy');
 
   function displayTaxonomy(taxon) {
     if (!taxon.taxon_ids) {

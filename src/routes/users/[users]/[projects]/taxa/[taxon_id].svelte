@@ -93,18 +93,24 @@
     center: [project.latitude || 0, project.longitude || 0]
   };
 
-  let tabsMetadata = {
-    TaxaAbout: { component: TaxaAbout, props: { project, taxon, interactions, projectPath } },
-    TaxaImages: { component: TaxaImages, props: { observations } },
-    TaxaMedia: { component: TaxaMedia, props: {} }
-  };
+  function tabsMetadata() {
+    return {
+      TaxaAbout: {
+        component: TaxaAbout,
+        props: { project, taxon, interactions, projectPath, observations }
+      },
+      TaxaImages: { component: TaxaImages, props: { observations } },
+      TaxaMedia: { component: TaxaMedia, props: {} }
+    };
+  }
 
-  let tabs = project.tabs_taxa.map((tab) => {
+  // make tabs reactive so that props are updated when the taxa url changes
+  $: tabs = project.tabs_taxa.map((tab) => {
     return {
       label: tab.label,
       value: tab.value,
-      component: tabsMetadata[tab.component].component,
-      props: tabsMetadata[tab.component].props
+      component: tabsMetadata()[tab.component].component,
+      props: tabsMetadata()[tab.component].props
     };
   });
 

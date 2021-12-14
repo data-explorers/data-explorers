@@ -9,10 +9,12 @@
   let timeSpanValue = 'all';
   let orderByValue = 'newest';
 
-  observations = sortObservations(observations, orderByValue, timeSpanValue);
-  let observationsDisplay = observations.slice(0, page * limit);
-  //  Map objects in #each blocks https://github.com/sveltejs/svelte/issues/5021
-  let groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
+  // Use Map objects in #each blocks https://github.com/sveltejs/svelte/issues/5021
+
+  // make these variables reactive so that they change as the taxon url changes
+  $: observations = sortObservations(observations, orderByValue, timeSpanValue);
+  $: observationsDisplay = observations.slice(0, page * limit);
+  $: groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
 
   function loadMore() {
     page = page + 1;

@@ -26,12 +26,23 @@
   let rectangleLatitude = 1;
   let rectangleLongitude = 1;
   let orderByValue = 'oldest';
+  let groupedObservations = [];
+  let sortedObservations = [];
 
-  observations = observations.filter((o) => o.latitude && o.longitude);
-  observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
-  let groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
-  if (mapOptions.observationsTimeSpan !== 'all') {
-    groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+  $: {
+    observations = observations.filter((o) => o.latitude && o.longitude);
+    sortedObservations = sortObservations(
+      observations,
+      orderByValue,
+      mapOptions.observationsTimeSpan
+    );
+    groupedObservations = createGroupObservations(
+      sortedObservations,
+      mapOptions.observationsTimeSpan
+    );
+    if (mapOptions.observationsTimeSpan !== 'all') {
+      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+    }
   }
 
   function toggleTimeSpans(e) {
@@ -42,12 +53,7 @@
 
   function selectTimeSpanHandler() {
     timeSpanHistory = {};
-    observations = observations.filter((o) => o.latitude && o.longitude);
-    observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
-    groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
-    if (mapOptions.observationsTimeSpan !== 'all') {
-      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
-    }
+    observations = observations;
   }
 
   // =====================
