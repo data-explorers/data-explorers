@@ -1,6 +1,7 @@
 <script>
   import Modal from '$lib/components/modal.svelte';
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let observation;
 
@@ -17,6 +18,7 @@
       />
     </ModalMagnify>
     <div class="p-4">
+      {@html formatTaxonDisplayName(observation, true)}<br />
       {#if observation.time_observed_at}
         <b>Date:</b> {new Date(observation.time_observed_at).toLocaleDateString()}<br />
       {:else}
@@ -29,17 +31,17 @@
 
   <Modal modalname="my-modal-{observation.id}">
     <div slot="popup">
-      <b>Date:</b>
+      {@html formatTaxonDisplayName(observation, true)}<br />
       {#if observation.time_observed_at}
-        {new Date(observation.time_observed_at).toLocaleDateString()},
+        <b>Date:</b> {new Date(observation.time_observed_at).toLocaleDateString()}<br />
       {:else}
-        unknown,
+        <b>Date:</b> unknown<br />
       {/if}
       <b>Observer:</b>
       {observation.user_login}
 
       <a class="mt-2 mb-4 block" href="https://www.inaturalist.org/observations/{observation.id}"
-        >iNaturalist link</a
+        >iNaturalist observation</a
       >
       {#if loadImage}
         <img
