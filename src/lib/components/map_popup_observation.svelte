@@ -34,6 +34,6 @@
   {/if}
 
   <a class="mt-2 block" href="https://www.inaturalist.org/observations/{observation.id}"
-    >iNaturalist link</a
+    >iNaturalist observation</a
   >
 </Popup>

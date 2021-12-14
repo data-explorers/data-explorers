@@ -101,6 +101,7 @@
       {#if taxon.image_url}
         <img src={taxon.image_url} alt="image of {taxon.scientific_name}" />
       {/if}
+      <b>Observer</b>: {taxon.user_login}
     </div>
 
     <div>
