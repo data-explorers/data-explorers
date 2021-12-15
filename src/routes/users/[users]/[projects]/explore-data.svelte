@@ -48,13 +48,14 @@
   export let projectPath;
   let observations = [];
   let item = '';
-  let taxaHistory = []; // all taxa that
+  let taxaHistory = []; // all selected taxa
   let showDemoPrompt = true;
   let orderByValue = 'oldest';
   let groupedObservations = []; // what is sent to the Map and TimeSpanFilters
-  let timeSpanHistory = {}; //
+  let timeSpanHistory = {}; // all the time spans
   let showClimate = false;
   let showDemoMapLayer = false;
+  let taxaCount = 0;
   let loading = false;
 
   allObservations = allObservations.filter((o) => o.latitude && o.longitude);
@@ -92,7 +93,10 @@
     if (taxaHistory.filter((t) => t.taxonId == event.id).length > 0) {
       return;
     }
+    taxaCount += 1;
 
+    // use settimeout so that selecting the taxa finishes, and then fetching
+    // the observations is called.
     loading = true;
     setTimeout(() => {
       displayObservationsForTaxon(event.label, event.id);
@@ -116,13 +120,14 @@
       if (taxaHistory.filter((t) => t.taxonId == taxon.taxon_id).length > 0) {
         return;
       }
+      taxaCount += 1;
 
       displayObservationsForTaxon(formatTaxonDisplayName(taxon), taxon.taxon_id);
     });
   }
 
   function displayObservationsForTaxon(taxonName, taxonId) {
-    let index = modulo(taxaHistory.length, mapOptions.colorScheme.length);
+    let index = modulo(taxaCount, mapOptions.colorScheme.length);
 
     let selectedObservations = fecthObservationsByTaxonId(
       allObservations,
@@ -237,8 +242,7 @@
     const comp = await import('$lib/components/explore_data_map.svelte');
     Map = comp.default;
   });
-  let foo = [];
-  $: foo = taxaHistory.map((t) => ({
+  $: basicTaxaHistory = taxaHistory.map((t) => ({
     taxonName: t.taxonName,
     color: t.color,
     taxonId: t.taxonId,
