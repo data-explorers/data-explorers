@@ -157,17 +157,20 @@
   function removeTaxon(e) {
     loading = true;
     let taxonId = Number(e.target.dataset['taxonId']);
+    observations = [];
 
-    // update observations
-    observations = observations.filter((o) => o.taxon_id !== taxonId);
-    observations = observations.filter((o) => {
-      return !o.taxon_ids.split('|').includes('' + taxonId);
+    // update filters & observations
+    taxaHistory = taxaHistory.filter((t) => {
+      if (t.taxonId !== taxonId && t.active) {
+        observations = observations.concat(t.observations);
+      }
+      return t.taxonId !== taxonId;
     });
 
+    // update observations
     groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
 
     // update filters
-    taxaHistory = taxaHistory.filter((t) => t.taxonId !== taxonId);
     if (mapOptions.observationsTimeSpan !== 'all') {
       groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
     }
@@ -189,17 +192,21 @@
       }
     });
 
-    // update observations
+    // add observations
     if (currentlyActive) {
       observations = observations.concat(
         taxaHistory.filter((t) => t.taxonId === taxonId)[0]['observations']
       );
+      // remove observations
     } else {
-      observations = observations.filter((o) => o.taxon_id !== taxonId);
-      observations = observations.filter((o) => {
-        return !o.taxon_ids.split('|').includes('' + taxonId);
+      observations = [];
+      taxaHistory.forEach((t) => {
+        if (t.taxonId !== taxonId && t.active) {
+          observations = observations.concat(t.observations);
+        }
       });
     }
+    // update observations
     observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
     groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
 
