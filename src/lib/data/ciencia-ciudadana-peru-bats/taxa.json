@@ -8,7 +8,7 @@
     "count": 10,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|40991|41089|41090",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Glossophaga|Glossophaga soricina",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Glossophaga|Glossophaga soricina",
     "common_names": "Animals|Chordates|Mammals|Bats|New World Leaf-nosed Bats|Long-tongued Bats|Pallas's Long-tongued Bat"
   },
   {
@@ -20,7 +20,7 @@
     "count": 4,
     "is_species": false,
     "taxon_ids": "1|2|40151|40268|||",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|||",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|||",
     "common_names": "Animals|Chordates|Mammals|Bats|||"
   },
   {
@@ -32,7 +32,7 @@
     "count": 4,
     "is_species": false,
     "taxon_ids": "1|2|40151|40268|40991||",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae||",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae||",
     "common_names": "Animals|Chordates|Mammals|Bats|New World Leaf-nosed Bats||"
   },
   {
@@ -44,7 +44,7 @@
     "count": 3,
     "is_species": false,
     "taxon_ids": "1|2|40151|40268|||",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|||",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|||",
     "common_names": "Animals|Chordates|Mammals|Bats|||"
   },
   {
@@ -56,7 +56,7 @@
     "count": 3,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|40991|40992|40998",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Artibeus|Artibeus fraterculus",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Artibeus|Artibeus fraterculus",
     "common_names": "Animals|Chordates|Mammals|Bats|New World Leaf-nosed Bats|Neotropical Fruit Bats|Fraternal Fruit-eating Bat"
   },
   {
@@ -68,7 +68,7 @@
     "count": 3,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|41226|41293|41301",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Molossidae|Tadarida|Tadarida brasiliensis",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Molossidae|Tadarida|Tadarida brasiliensis",
     "common_names": "Animals|Chordates|Mammals|Bats|Free-tailed Bats||Mexican Free-tailed Bat"
   },
   {
@@ -80,7 +80,7 @@
     "count": 2,
     "is_species": false,
     "taxon_ids": "1|2|40151|40268|40991|41089|",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Glossophaga|",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Glossophaga|",
     "common_names": "Animals|Chordates|Mammals|Bats|New World Leaf-nosed Bats|Long-tongued Bats|"
   },
   {
@@ -92,7 +92,7 @@
     "count": 2,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|40991|41167|41168",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Desmodus|Desmodus rotundus",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Desmodus|Desmodus rotundus",
     "common_names": "Animals|Chordates|Mammals|Bats|New World Leaf-nosed Bats||Common Vampire Bat"
   },
   {
@@ -104,7 +104,7 @@
     "count": 1,
     "is_species": false,
     "taxon_ids": "1|2|40151|40268|40269||",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae||",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae||",
     "common_names": "Animals|Chordates|Mammals|Bats|Evening Bats||"
   },
   {
@@ -116,7 +116,7 @@
     "count": 1,
     "is_species": false,
     "taxon_ids": "1|2|40151|40268|41226|41311|",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Molossidae|Nyctinomops|",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Molossidae|Nyctinomops|",
     "common_names": "Animals|Chordates|Mammals|Bats|Free-tailed Bats||"
   },
   {
@@ -128,7 +128,7 @@
     "count": 1,
     "is_species": false,
     "taxon_ids": "1|2|40151|40268|40269||",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae||",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae||",
     "common_names": "Animals|Chordates|Mammals|Bats|Evening Bats||"
   },
   {
@@ -140,7 +140,7 @@
     "count": 1,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|41226|41311|41313",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Molossidae|Nyctinomops|Nyctinomops aurispinosus",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Molossidae|Nyctinomops|Nyctinomops aurispinosus",
     "common_names": "Animals|Chordates|Mammals|Bats|Free-tailed Bats||Peale's free-tailed bat"
   },
   {
@@ -152,7 +152,7 @@
     "count": 1,
     "is_species": false,
     "taxon_ids": "1|2|40151|40268|||",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|||",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|||",
     "common_names": "Animals|Chordates|Mammals|Bats|||"
   },
   {
@@ -164,7 +164,7 @@
     "count": 1,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|40269|40270|40293",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae|Myotis|Myotis atacamensis",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae|Myotis|Myotis atacamensis",
     "common_names": "Animals|Chordates|Mammals|Bats|Evening Bats|Mouse-eared Bats|Atacama myotis"
   },
   {
@@ -176,7 +176,7 @@
     "count": 1,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|40991|41039|41040",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Sturnira|Sturnira bogotensis",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Sturnira|Sturnira bogotensis",
     "common_names": "Animals|Chordates|Mammals|Bats|New World Leaf-nosed Bats|Yellow-shouldered Bats|Bogot\u00e1 Yellow-shouldered Bat"
   },
   {
@@ -188,7 +188,7 @@
     "count": 1,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|40991|41132|41133",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Platalina|Platalina genovensium",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Phyllostomidae|Platalina|Platalina genovensium",
     "common_names": "Animals|Chordates|Mammals|Bats|New World Leaf-nosed Bats||long-snouted bat"
   },
   {
@@ -200,7 +200,7 @@
     "count": 1,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|40269|40477|",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae|Eptesicus|",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae|Eptesicus|",
     "common_names": "Animals|Chordates|Mammals|Bats|Evening Bats|House Bats|"
   },
   {
@@ -212,7 +212,7 @@
     "count": 1,
     "is_species": true,
     "taxon_ids": "1|2|40151|40268|40269|40516|",
-    "names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae|Lasiurus|",
+    "scientific_names": "Animalia|Chordata|Mammalia|Chiroptera|Vespertilionidae|Lasiurus|",
     "common_names": "Animals|Chordates|Mammals|Bats|Evening Bats|Hairy-tailed Bats|"
   }
 ]

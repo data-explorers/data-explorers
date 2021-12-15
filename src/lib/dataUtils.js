@@ -11,7 +11,7 @@ export const fetchTaxaByName = (taxa, keyword) => {
     // search concatenated common names
     taxa.forEach((taxon) => {
       if (taxon.common_names) {
-        let names = taxon.names.split('|');
+        let scientific_names = taxon.scientific_names.split('|');
         let taxon_ids = taxon.taxon_ids.split('|');
         let common_names = taxon.common_names.split('|');
 
@@ -23,7 +23,7 @@ export const fetchTaxaByName = (taxa, keyword) => {
             results.push({
               taxon_id: Number(taxon_ids[i]),
               common_name: common_names[i],
-              scientific_name: names[i],
+              scientific_name: scientific_names[i],
               count: taxon.count
             });
             uniqueIds.push(taxon_ids[i]);
@@ -34,8 +34,8 @@ export const fetchTaxaByName = (taxa, keyword) => {
 
     // search concatenated scientific names
     taxa.forEach((taxon) => {
-      if (taxon.names) {
-        let scientific_names = taxon.names.split('|');
+      if (taxon.scientific_names) {
+        let scientific_names = taxon.scientific_names.split('|');
         let taxon_ids = taxon.taxon_ids.split('|');
         let common_names = taxon.common_names.split('|');
 

@@ -20,7 +20,7 @@
     }
 
     let taxon_ids = taxon.taxon_ids.split('|');
-    let scientific_names = taxon.names.split('|');
+    let scientific_names = taxon.scientific_names.split('|');
     let common_names = taxon.common_names.split('|');
     let taxonomy = [];
     let ranks = {
