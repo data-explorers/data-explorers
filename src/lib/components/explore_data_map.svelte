@@ -1,9 +1,9 @@
 <script>
   import 'leaflet/dist/leaflet.css';
-  import { LeafletMap, TileLayer, Circle, Popup, Rectangle } from 'svelte-leafletjs';
+  import { LeafletMap, TileLayer, CircleMarker, Popup, Rectangle } from 'svelte-leafletjs';
   import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
-  import { radiusZoom, tileLayerOptions, tileUrl } from '$lib/mapUtils';
+  import { tileLayerOptions, tileUrl } from '$lib/mapUtils';
 
   export let mapOptions;
   export let groupedObservations;
@@ -12,16 +12,9 @@
   export let taxaHistory;
 
   let leafletMap;
-  let zoomLevel = 0;
-  let circleRadius = 1;
+  let circleRadius = 7;
   let taxaCount = 0;
 
-  // make certain variables reactive so they change values when user zooms
-  // in and out of map
-  $: if (leafletMap) {
-    zoomLevel = leafletMap.getMap().getZoom();
-    circleRadius = radiusZoom(zoomLevel);
-  }
   let coordinates = [];
 
   $: if (taxaHistory.length > 0) {
@@ -59,11 +52,6 @@
       [north - height * 0.3, east - width * 0.3],
       [south + height * 0.3, west + width * 0.3]
     ];
-
-    leafletMap.getMap().on('zoomend', function () {
-      zoomLevel = leafletMap.getMap().getZoom();
-      circleRadius = radiusZoom(zoomLevel);
-    });
   });
 </script>
 
@@ -73,27 +61,27 @@
 
     {#if Array.isArray(groupedObservations)}
       {#each groupedObservations as obs}
-        <Circle
+        <CircleMarker
           latLng={[obs.latitude, obs.longitude]}
           radius={circleRadius}
           color={obs.color}
           fillColor={obs.fillColor}
         >
           <MyPopup observation={obs} />
-        </Circle>
+        </CircleMarker>
       {/each}
     {:else}
       {#each [...groupedObservations] as [key, observations]}
         {#each observations as obs}
           {#if timeSpanHistory[key]}
-            <Circle
+            <CircleMarker
               latLng={[obs.latitude, obs.longitude]}
               radius={circleRadius}
               color={obs.color}
               fillColor={obs.fillColor}
             >
               <MyPopup observation={obs} />
-            </Circle>
+            </CircleMarker>
           {/if}
         {/each}
       {/each}

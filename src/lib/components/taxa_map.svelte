@@ -1,13 +1,12 @@
 <script>
   import 'leaflet/dist/leaflet.css';
   import { onMount } from 'svelte';
-  import { LeafletMap, TileLayer, Circle, Rectangle } from 'svelte-leafletjs';
+  import { LeafletMap, TileLayer, CircleMarker, Rectangle } from 'svelte-leafletjs';
   import Popup from '$lib/components/map_popup_observation.svelte';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
 
   import {
     coldMonths,
-    radiusZoom,
     rectangleLatitudeZoom,
     rectangleLongitudeZoom,
     tileLayerOptions,
@@ -22,7 +21,7 @@
   let leafletMap;
   let timeSpanHistory = {};
   let zoomLevel = 0;
-  let circleRadius = 1;
+  let circleRadius = 8;
   let rectangleLatitude = 1;
   let rectangleLongitude = 1;
   let orderByValue = 'oldest';
@@ -64,8 +63,6 @@
   // in and out of map
   $: if (leafletMap) {
     zoomLevel = leafletMap.getMap().getZoom();
-    circleRadius = radiusZoom(zoomLevel);
-
     rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
     rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
   }
@@ -83,7 +80,6 @@
 
     leafletMap.getMap().on('zoomend', function () {
       zoomLevel = leafletMap.getMap().getZoom();
-      circleRadius = radiusZoom(zoomLevel);
       if (mapOptions.observationsTimeSpan === 'month') {
         rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
         rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
@@ -98,14 +94,14 @@
     <!-- display observations as circles -->
     {#if Array.isArray(groupedObservations)}
       {#each groupedObservations as obs}
-        <Circle
+        <CircleMarker
           latLng={[obs.latitude, obs.longitude]}
           radius={circleRadius}
           color={mapOptions.defaultColor}
           fillColor={mapOptions.defaultColor}
         >
           <Popup observation={obs} />
-        </Circle>
+        </CircleMarker>
       {/each}
 
       <!-- display observations as circles by year -->
@@ -113,7 +109,7 @@
       {#each [...groupedObservations] as [year, observations]}
         {#if timeSpanHistory[year]}
           {#each observations as obs}
-            <Circle
+            <CircleMarker
               latLng={[obs.latitude, obs.longitude]}
               radius={circleRadius}
               color={mapOptions.colorSchemeYear[modulo(year, mapOptions.colorSchemeYear.length)] ||
@@ -123,7 +119,7 @@
               ] || mapOptions.defaultColor}
             >
               <Popup observation={obs} />
-            </Circle>
+            </CircleMarker>
           {/each}
         {/if}
       {/each}
@@ -134,14 +130,14 @@
         {#if timeSpanHistory[month]}
           {#each observations as obs}
             {#if coldMonths.includes(obs.month + 1)}
-              <Circle
+              <CircleMarker
                 latLng={[obs.latitude, obs.longitude]}
                 radius={circleRadius}
                 color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
                 fillColor={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
               >
                 <Popup observation={obs} />
-              </Circle>
+              </CircleMarker>
             {:else}
               <Rectangle
                 latLngBounds={[
