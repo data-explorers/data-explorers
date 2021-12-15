@@ -13,22 +13,20 @@
 
   let leafletMap;
   let circleRadius = 7;
-  let taxaCount = 0;
 
-  let coordinates = [];
+  // let coordinates = [];
 
-  $: if (taxaHistory.length > 0) {
-    coordinates = [];
-    taxaCount = taxaHistory.length;
-    let temp = taxaHistory.map((t) => t.observations);
-    for (let i = 0; i < temp.length; i++) {
-      for (let j = 0; j < temp[i].length; j++) {
-        coordinates.push([temp[i][j].latitude, temp[i][j].longitude]);
-      }
-    }
+  // $: if (taxaHistory.length > 0) {
+  //   coordinates = [];
+  //   let temp = taxaHistory.map((t) => t.observations);
+  //   for (let i = 0; i < temp.length; i++) {
+  //     for (let j = 0; j < temp[i].length; j++) {
+  //       coordinates.push([temp[i][j].latitude, temp[i][j].longitude]);
+  //     }
+  //   }
 
-    leafletMap.getMap().fitBounds(coordinates);
-  }
+  //   leafletMap.getMap().fitBounds(coordinates);
+  // }
 
   let demoPolygon = [
     [0, 0],
@@ -36,9 +34,9 @@
   ];
 
   onMount(() => {
-    if (coordinates.length > 0) {
-      leafletMap.getMap().fitBounds(coordinates);
-    }
+    // if (coordinates.length > 0) {
+    //   leafletMap.getMap().fitBounds(coordinates);
+    // }
 
     let east = leafletMap.getMap().getBounds().getEast();
     let west = leafletMap.getMap().getBounds().getWest();
