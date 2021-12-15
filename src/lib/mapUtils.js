@@ -153,7 +153,7 @@ export const tileLayerOptions = {
 
 export let defaultColorScheme = {
   colorSchemeMonth: twelveMonths,
-  colorSchemeYear: colorsSixDiverge,
+  colorSchemeYear: colorsSix,
   defaultColor: blue,
   colorScheme: colorsSixTolBright,
   monthSeasonalMarkers: true
