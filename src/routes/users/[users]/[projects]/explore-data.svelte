@@ -25,7 +25,7 @@
   import { onMount } from 'svelte';
   import AutoComplete from 'simple-svelte-autocomplete';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
-
+  import Loader from '$lib/components/loader.svelte';
   import ProjectHeader from '$lib/components/project_header.svelte';
   import Modal from '$lib/components/modal.svelte';
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
@@ -55,6 +55,7 @@
   let timeSpanHistory = {}; //
   let showClimate = false;
   let showDemoMapLayer = false;
+  let loading = false;
 
   allObservations = allObservations.filter((o) => o.latitude && o.longitude);
 
@@ -92,6 +93,7 @@
       return;
     }
 
+    loading = true;
     setTimeout(() => {
       displayObservationsForTaxon(event.label, event.id);
     }, 100);
@@ -144,9 +146,11 @@
     if (mapOptions.observationsTimeSpan !== 'all') {
       groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
     }
+    loading = false;
   }
 
   function removeTaxon(e) {
+    loading = true;
     let taxonId = Number(e.target.dataset['taxonId']);
 
     // update observations
@@ -162,6 +166,7 @@
     if (mapOptions.observationsTimeSpan !== 'all') {
       groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
     }
+    loading = false;
   }
 
   function toggleTaxon(e) {
@@ -169,6 +174,7 @@
 
     // update filters
     let currentlyActive = true;
+    loading = true;
     taxaHistory = taxaHistory.map((t) => {
       if (t.taxonId === taxonId) {
         currentlyActive = !t.active;
@@ -196,6 +202,7 @@
     if (mapOptions.observationsTimeSpan !== 'all') {
       groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
     }
+    loading = false;
   }
 
   function toggleTimeSpans(e) {
@@ -207,6 +214,7 @@
   }
 
   function selectTimeSpanHandler() {
+    loading = true;
     // update observations
     observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
     groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
@@ -216,6 +224,8 @@
     if (mapOptions.observationsTimeSpan !== 'all') {
       groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
     }
+
+    loading = false;
   }
 
   // =====================
@@ -313,7 +323,10 @@
       {/if}
     </div>
 
-    <div class="lg:col-span-7">
+    <div class="lg:col-span-7 relative">
+      {#if loading}
+        <Loader />
+      {/if}
       <svelte:component
         this={Map}
         {mapOptions}

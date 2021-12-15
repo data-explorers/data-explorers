@@ -4,6 +4,7 @@
   import { LeafletMap, TileLayer, CircleMarker, Rectangle } from 'svelte-leafletjs';
   import Popup from '$lib/components/map_popup_observation.svelte';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
+  import { createEventDispatcher } from 'svelte';
 
   import {
     coldMonths,
@@ -27,6 +28,8 @@
   let orderByValue = 'oldest';
   let groupedObservations = [];
   let sortedObservations = [];
+
+  const dispatch = createEventDispatcher();
 
   $: {
     observations = observations.filter((o) => o.latitude && o.longitude);
@@ -76,6 +79,7 @@
   onMount(() => {
     if (coordinates.length > 0) {
       leafletMap.getMap().fitBounds(coordinates);
+      dispatch('doneLoading');
     }
 
     leafletMap.getMap().on('zoomend', function () {

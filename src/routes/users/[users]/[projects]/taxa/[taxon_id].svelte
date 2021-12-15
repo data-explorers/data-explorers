@@ -76,6 +76,7 @@
   import TaxaImages from '$lib/components/taxa_images.svelte';
   import TaxaMedia from '$lib/components/taxa_media.svelte';
   import { defaultColorScheme } from '$lib/mapUtils';
+  import Loader from '$lib/components/loader.svelte';
 
   export let taxon;
   export let user;
@@ -83,6 +84,8 @@
   export let observations;
   export let interactions;
   export let projectPath;
+
+  let loading = true;
 
   let mapOptions = {
     ...defaultColorScheme,
@@ -144,8 +147,16 @@
       <b>Observer</b>: {taxon.user_login}
     </div>
 
-    <div>
-      <svelte:component this={Map} {mapOptions} {observations} />
+    <div class="relative">
+      {#if loading}
+        <Loader />
+      {/if}
+      <svelte:component
+        this={Map}
+        {mapOptions}
+        {observations}
+        on:doneLoading={() => (loading = false)}
+      />
     </div>
   </div>
 </div>
