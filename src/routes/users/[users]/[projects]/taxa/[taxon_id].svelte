@@ -90,7 +90,8 @@
     latitude: project.latitude,
     longitude: project.longitude,
     observationsTimeSpan: project.observationsTimeSpan,
-    center: [project.latitude || 0, project.longitude || 0]
+    center: [project.latitude || 0, project.longitude || 0],
+    preferCanvas: true
   };
 
   function tabsMetadata() {

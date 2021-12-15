@@ -129,35 +129,45 @@ export function sortObservationsOldestMonthFirst(a, b) {
 }
 
 export function sortObservations(observations, orderByValue, timeSpanValue) {
-  let validObservations = observations.filter((o) => o.time_observed_at);
-  let invalidObservations = observations.filter((o) => !o.time_observed_at);
-  let temp;
+  let sortedObservations;
+  let validObservations = [];
+  let invalidObservations = [];
+  observations.forEach((o) => {
+    o.time_observed_at ? validObservations.push(o) : invalidObservations.push(o);
+  });
 
   if (orderByValue === 'oldest') {
     if (timeSpanValue === 'month') {
-      temp = validObservations.sort(sortObservationsOldestMonthFirst);
+      sortedObservations = validObservations.sort(sortObservationsOldestMonthFirst);
     } else {
-      temp = validObservations.sort(sortObservationsOldestFirst);
+      sortedObservations = validObservations.sort(sortObservationsOldestFirst);
     }
   } else {
     if (timeSpanValue === 'month') {
-      temp = validObservations.sort(sortObservationsNewestMonthFirst);
+      sortedObservations = validObservations.sort(sortObservationsNewestMonthFirst);
     } else {
-      temp = validObservations.sort(sortObservationsNewestFirst);
+      sortedObservations = validObservations.sort(sortObservationsNewestFirst);
     }
   }
 
   if (invalidObservations.length > 0) {
-    temp = temp.concat(invalidObservations);
+    sortedObservations = sortedObservations.concat(invalidObservations);
   }
+  return sortedObservations;
+}
 
-  return temp;
+function logTime(message) {
+  console.log(new Date().toUTCString(), message);
 }
 
 export function createGroupObservations(observations, timeSpanValue) {
   // use Map instead of Object because Map retains insertion order of the keys
   let groups = new Map();
-  let validObservations = observations.filter((o) => o.time_observed_at);
+  let validObservations = [];
+  let invalidObservations = [];
+  observations.forEach((o) => {
+    o.time_observed_at ? validObservations.push(o) : invalidObservations.push(o);
+  });
 
   if (timeSpanValue === 'month') {
     groups = groupByMap(
@@ -177,7 +187,6 @@ export function createGroupObservations(observations, timeSpanValue) {
     return observations;
   }
 
-  let invalidObservations = observations.filter((o) => !o.time_observed_at);
   if (invalidObservations.length > 0) {
     groups.set('unknown', invalidObservations);
   }

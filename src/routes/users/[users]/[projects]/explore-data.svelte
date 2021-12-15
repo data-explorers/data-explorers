@@ -65,10 +65,6 @@
     console.log('timeSpanHistory', timeSpanHistory);
   }
 
-  function logTime(message) {
-    console.log(new Date().toUTCString(), message);
-  }
-
   let mapOptions = {
     ...defaultColorScheme,
     zoom: project.zoom,
