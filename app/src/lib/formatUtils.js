@@ -22,9 +22,20 @@ export function truncate(text, limit = 30) {
 }
 
 export function pluralize(word, count) {
-  if (count === 1) {
+  let customPlural = {
+    class: 'classes',
+    species: 'species',
+    genus: 'genera',
+    family: 'families',
+    taxon: 'taxa'
+  };
+  if (Number(count) === 1) {
     return `${count} ${word}`;
   } else {
-    return `${count} ${word}s`;
+    if (customPlural[word]) {
+      return `${count} ${customPlural[word]}`;
+    } else {
+      return `${count} ${word}s`;
+    }
   }
 }
