@@ -39,3 +39,8 @@ export function pluralize(word, count) {
     }
   }
 }
+
+export function toTitleCase(str) {
+  // https://stackoverflow.com/a/196991
+  return str.replace(/\b\w+/g, (txt) => txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase());
+}
