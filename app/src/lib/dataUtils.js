@@ -6,11 +6,15 @@ export const fetchTaxaByName = (taxa, keyword) => {
   return new Promise((resolve, _reject) => {
     keyword = keyword.toLowerCase();
     let results = [];
+    let selectedIds = [];
 
     // search common names
     taxa.forEach((taxon) => {
       if (taxon.common_name) {
-        if (new RegExp('\\b' + keyword).test(taxon.common_name.toLowerCase())) {
+        if (
+          new RegExp('\\b' + keyword).test(taxon.common_name.toLowerCase()) &&
+          !selectedIds.includes(taxon.taxon_id)
+        ) {
           results.push({
             taxon_id: Number(taxon.taxon_id),
             common_name: taxon.common_name,
@@ -18,6 +22,7 @@ export const fetchTaxaByName = (taxa, keyword) => {
             taxa_count: taxon.taxa_count,
             observations_count: taxon.observations_count
           });
+          selectedIds.push(taxon.taxon_id);
         }
       }
     });
@@ -25,7 +30,10 @@ export const fetchTaxaByName = (taxa, keyword) => {
     // search scientific names
     taxa.forEach((taxon) => {
       if (taxon.scientific_name) {
-        if (new RegExp('\\b' + keyword).test(taxon.scientific_name.toLowerCase())) {
+        if (
+          new RegExp('\\b' + keyword).test(taxon.scientific_name.toLowerCase()) &&
+          !selectedIds.includes(taxon.taxon_id)
+        ) {
           results.push({
             taxon_id: Number(taxon.taxon_id),
             common_name: taxon.common_name,
@@ -33,6 +41,7 @@ export const fetchTaxaByName = (taxa, keyword) => {
             taxa_count: taxon.taxa_count,
             observations_count: taxon.observations_count
           });
+          selectedIds.push(taxon.taxon_id);
         }
       }
     });
