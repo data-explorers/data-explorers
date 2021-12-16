@@ -6,57 +6,40 @@ export const fetchTaxaByName = (taxa, keyword) => {
   return new Promise((resolve, _reject) => {
     keyword = keyword.toLowerCase();
     let results = [];
-    let uniqueIds = [];
 
-    // search concatenated common names
+    // search common names
     taxa.forEach((taxon) => {
-      if (taxon.common_names) {
-        let scientific_names = taxon.scientific_names.split('|');
-        let taxon_ids = taxon.taxon_ids.split('|');
-        let common_names = taxon.common_names.split('|');
-
-        common_names.forEach((common_name, i) => {
-          if (
-            new RegExp('\\b' + keyword).test(common_name.toLowerCase()) &&
-            !uniqueIds.includes(taxon_ids[i])
-          ) {
-            results.push({
-              taxon_id: Number(taxon_ids[i]),
-              common_name: common_names[i],
-              scientific_name: scientific_names[i],
-              count: taxon.count
-            });
-            uniqueIds.push(taxon_ids[i]);
-          }
-        });
+      if (taxon.common_name) {
+        if (new RegExp('\\b' + keyword).test(taxon.common_name.toLowerCase())) {
+          results.push({
+            taxon_id: Number(taxon.taxon_id),
+            common_name: taxon.common_name,
+            scientific_name: taxon.scientific_name,
+            taxa_count: taxon.taxa_count,
+            observations_count: taxon.observations_count
+          });
+        }
       }
     });
 
-    // search concatenated scientific names
+    // search scientific names
     taxa.forEach((taxon) => {
-      if (taxon.scientific_names) {
-        let scientific_names = taxon.scientific_names.split('|');
-        let taxon_ids = taxon.taxon_ids.split('|');
-        let common_names = taxon.common_names.split('|');
-
-        scientific_names.forEach((scientific_name, i) => {
-          if (
-            new RegExp('\\b' + keyword).test(scientific_name.toLowerCase()) &&
-            !uniqueIds.includes(taxon_ids[i])
-          ) {
-            results.push({
-              taxon_id: Number(taxon_ids[i]),
-              common_name: common_names[i],
-              scientific_name: scientific_names[i],
-              count: taxon.count
-            });
-            uniqueIds.push(taxon_ids[i]);
-          }
-        });
+      if (taxon.scientific_name) {
+        if (new RegExp('\\b' + keyword).test(taxon.scientific_name.toLowerCase())) {
+          results.push({
+            taxon_id: Number(taxon.taxon_id),
+            common_name: taxon.common_name,
+            scientific_name: taxon.scientific_name,
+            taxa_count: taxon.taxa_count,
+            observations_count: taxon.observations_count
+          });
+        }
       }
     });
 
-    results.sort((a, b) => b.count - a.count);
+    results.sort(
+      (a, b) => b.observations_count - a.observations_count || b.taxa_count - a.taxa_count
+    );
 
     // create data for suggestion menu
     results = results.map((t) => {

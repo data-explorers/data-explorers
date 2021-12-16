@@ -10,34 +10,7 @@
     let taxa = taxaData.default;
 
     // find taxon that has observations
-    let taxon = taxa.filter((taxon) => taxon.taxon_id == Number(page.params.taxon_id))[0];
-    if (!taxon) {
-      // find higher level taxon
-      let higherTaxon = taxa
-        .filter((t) => t.taxon_ids)
-        .filter((taxon) => taxon.taxon_ids.split('|').includes(page.params.taxon_id))[0];
-      if (higherTaxon) {
-        let scientific_names = higherTaxon.scientific_names.split('|');
-        let taxon_ids = higherTaxon.taxon_ids.split('|');
-        let common_names = higherTaxon.common_names.split('|');
-        let index = taxon_ids.indexOf(page.params.taxon_id);
-
-        taxon = {
-          scientific_name: scientific_names[index],
-          common_name: common_names[index],
-          taxon_id: Number(taxon_ids[index]),
-          image_url: higherTaxon['image_url'],
-          user_login: higherTaxon['user_login'],
-          count: null,
-          is_species: false,
-          taxon_ids: taxon_ids.slice(0, index + 1).join('|'),
-          scientific_names: scientific_names.slice(0, index + 1).join('|'),
-          common_names: common_names.slice(0, index + 1).join('|')
-        };
-      } else {
-        taxon = {};
-      }
-    }
+    let taxon = taxa.filter((taxon) => taxon.taxon_id == Number(page.params.taxon_id))[0] || {};
 
     let observationData = await import(
       `../../../../../lib/data/${page.params.projects}/observations.json`
