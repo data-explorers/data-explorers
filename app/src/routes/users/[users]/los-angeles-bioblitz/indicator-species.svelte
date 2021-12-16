@@ -12,6 +12,7 @@
 <script>
   import ProjectHeader from '$lib/components/project_header.svelte';
   import allTaxa from '$lib/data/los-angeles-bioblitz/taxa.json';
+  import { pluralize } from '$lib/formatUtils';
 
   let taxa = allTaxa.filter((t) => !!t.taxon_group);
 
@@ -22,12 +23,10 @@
 <ProjectHeader {project} {user} />
 
 <div class="prose max-w-none">
-  <h1>Indicator Species</h1>
-
-  <h2>{taxa.length} Species</h2>
+  <h1>{taxa.length} Indicator Species</h1>
 
   <div class="grid lg:grid-cols-4 md:grid-cols-3  sm:grid-cols-2 justify-center gap-3">
-    {#each taxa as { image_url, common_name, count, scientific_name, user_login, taxon_group, taxon_id, type }}
+    {#each taxa as { image_url, common_name, observations_count, scientific_name, user_login, taxon_group, taxon_id, type }}
       <div class="image-card">
         <a href="/users/{user.username}/{project.slug}/taxa/{taxon_id}">
           <figure>
@@ -39,7 +38,7 @@
           <a href="/users/{user.username}/{project.slug}/taxa/{taxon_id}">
             {#if common_name}<div class="text-lg font-medium">{common_name}</div>{/if}
             {#if scientific_name}<div class="text-gray-400">({scientific_name})</div>{/if}
-            <div>{count} observations</div>
+            <div>{pluralize('observation', observations_count)}</div>
             <div>{taxon_group}</div>
             <div>{type}</div>
           </a>
