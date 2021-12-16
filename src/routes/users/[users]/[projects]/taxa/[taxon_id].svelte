@@ -61,7 +61,7 @@
   };
 
   let tabsMetadata = {
-    TaxaAbout: { component: TaxaAbout, props: { project, taxon, interactions } },
+    TaxaAbout: { component: TaxaAbout, props: { project, taxon, interactions, projectPath } },
     TaxaImages: { component: TaxaImages, props: { observations } },
     TaxaMedia: { component: TaxaMedia, props: {} }
   };

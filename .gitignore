@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
-/build
-/.svelte-kit
-/package
+build
+.svelte-kit
+package
 .env
+.ipynb_checkpoints
+notebooks/temp
