@@ -49,7 +49,8 @@
   let observations = [];
   let item = '';
   let taxaHistory = []; // all selected taxa
-  let showDemoPrompt = true;
+  let showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
+  let showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
   let orderByValue = 'oldest';
   let groupedObservations = []; // what is sent to the Map and TimeSpanFilters
   let timeSpanHistory = {}; // all the time spans
@@ -87,7 +88,8 @@
 
   function handleSelect(event) {
     if (!event || !event.label) return;
-    showDemoPrompt = false;
+    showDemoSpeciesPrompt = false;
+    showIndicatorSpeciesPrompt = false;
 
     // prevent adding same taxon twice
     if (taxaHistory.filter((t) => t.taxonId == event.id).length > 0) {
@@ -114,16 +116,34 @@
   // =====================
 
   function loadDemoSpecies() {
-    showDemoPrompt = false;
+    showDemoSpeciesPrompt = false;
 
-    taxa.slice(0, 3).forEach((taxon) => {
-      if (taxaHistory.filter((t) => t.taxonId == taxon.taxon_id).length > 0) {
-        return;
-      }
-      taxaCount += 1;
+    taxa
+      .filter((t) => t.rank === 'species')
+      .slice(0, 3)
+      .forEach((taxon) => {
+        if (taxaHistory.filter((t) => t.taxonId == taxon.taxon_id).length > 0) {
+          return;
+        }
+        taxaCount += 1;
 
-      displayObservationsForTaxon(formatTaxonDisplayName(taxon), taxon.taxon_id);
-    });
+        displayObservationsForTaxon(formatTaxonDisplayName(taxon), taxon.taxon_id);
+      });
+  }
+
+  function loadIndicatorSpecies() {
+    showIndicatorSpeciesPrompt = false;
+
+    taxa
+      .filter((t) => t.taxon_group && t.observations_count > 0)
+      .forEach((taxon) => {
+        if (taxaHistory.filter((t) => t.taxonId == taxon.taxon_id).length > 0) {
+          return;
+        }
+        taxaCount += 1;
+
+        displayObservationsForTaxon(formatTaxonDisplayName(taxon), taxon.taxon_id);
+      });
   }
 
   function displayObservationsForTaxon(taxonName, taxonId) {
@@ -256,6 +276,11 @@
     active: t.active
   }));
 
+  $: if (taxaHistory.length === 0) {
+    showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
+    showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
+  }
+
   // =====================
   // init
   // =====================
@@ -281,10 +306,17 @@
         />
       </div>
 
-      {#if showDemoPrompt}
-        <label class="cursor-pointer">
+      {#if showDemoSpeciesPrompt}
+        <label class="cursor-pointer block">
           <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />
           <span>Show 3 most observed species</span>
+        </label>
+      {/if}
+
+      {#if showIndicatorSpeciesPrompt}
+        <label class="cursor-pointer block">
+          <input type="checkbox" class="mr-2" on:click={() => loadIndicatorSpecies()} />
+          <span>Show indicator species</span>
         </label>
       {/if}
 

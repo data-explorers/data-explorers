@@ -9,7 +9,7 @@
   export let groupedObservations;
   export let timeSpanHistory;
   export let showDemoMapLayer;
-  export let taxaHistory;
+  // export let taxaHistory;
 
   let leafletMap;
   let circleRadius = 7;
