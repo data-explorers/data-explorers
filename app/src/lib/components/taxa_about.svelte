@@ -1,6 +1,7 @@
 <script>
   import GlobiList from '$lib/components/globi_list.svelte';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import { onMount } from 'svelte';
 
   export let project;
   export let taxon;
@@ -48,6 +49,12 @@
 
     return taxonomy;
   }
+
+  let RangeMap;
+  onMount(async () => {
+    const comp = await import('$lib/components/taxa_range_map.svelte');
+    RangeMap = comp.default;
+  });
 </script>
 
 <div class="prose">
@@ -73,6 +80,10 @@
       {level.taxon_rank}: <a href="{projectPath}/taxa/{level.taxon_id}">{level.taxon_name}</a>
     </div>
   {/each}
+
+  <h3>iNaturalist Observations</h3>
+
+  <svelte:component this={RangeMap} {taxon} {project} />
 
   <h3>Native Status</h3>
 

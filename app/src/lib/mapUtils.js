@@ -106,6 +106,10 @@ export const getMapTiles = (taxonID) => {
       url: `https://api.inaturalist.org/v1/grid/{z}/{x}/{y}.png?taxon_id=${taxonID}`,
       attribution: ''
     },
+    inatPoint: {
+      url: `https://api.inaturalist.org/v1/points/{z}/{x}/{y}.png?taxon_id=${taxonID}`,
+      attribution: ''
+    },
     inatTaxonRange: {
       url: `https://api.inaturalist.org/v1/taxon_ranges/${taxonID}/{z}/{x}/{y}.png`,
       attribution: ''
@@ -147,8 +151,7 @@ let attribution = '© OpenStreetMap contributors';
 export const tileLayerOptions = {
   minZoom: 0,
   maxZoom: 20,
-  maxNativeZoom: 19,
-  attribution: attribution
+  maxNativeZoom: 19
 };
 
 export let defaultColorScheme = {
