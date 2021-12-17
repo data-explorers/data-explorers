@@ -132,7 +132,7 @@
     "scientific_name": "Zygoptera",
     "common_name": "Damselflies",
     "taxon_id": 47928,
-    "taxon_ids": "1|47120|47158|47792|||"
+    "taxon_ids": "1|47120|47158|47792||||47928"
   },
   {
     "id": 1733435,
@@ -282,7 +282,7 @@
     "scientific_name": "Serpentes",
     "common_name": "Snakes",
     "taxon_id": 85553,
-    "taxon_ids": "1|2|26036|26172|||"
+    "taxon_ids": "1|2|26036|26172||||85553"
   },
   {
     "id": 3731899,
@@ -597,7 +597,7 @@
     "scientific_name": "Serpentes",
     "common_name": "Snakes",
     "taxon_id": 85553,
-    "taxon_ids": "1|2|26036|26172|||"
+    "taxon_ids": "1|2|26036|26172||||85553"
   },
   {
     "id": 3825697,
@@ -1632,7 +1632,7 @@
     "scientific_name": "Serpentes",
     "common_name": "Snakes",
     "taxon_id": 85553,
-    "taxon_ids": "1|2|26036|26172|||"
+    "taxon_ids": "1|2|26036|26172||||85553"
   },
   {
     "id": 4413811,
@@ -1812,7 +1812,7 @@
     "scientific_name": "Aculeata",
     "common_name": "Ants, Bees, and Stinging Wasps",
     "taxon_id": 326777,
-    "taxon_ids": "1|47120|47158|47201|||"
+    "taxon_ids": "1|47120|47158|47201||||326777"
   },
   {
     "id": 4413940,
@@ -1932,7 +1932,7 @@
     "scientific_name": "Cicindela scutellaris lecontei",
     "common_name": "LeConte's Tiger Beetle",
     "taxon_id": 82432,
-    "taxon_ids": "1|47120|47158|47208|49567|49568|82435"
+    "taxon_ids": "1|47120|47158|47208|49567|49568|82435|82432"
   },
   {
     "id": 4784909,
@@ -2007,7 +2007,7 @@
     "scientific_name": "Mustelinae",
     "common_name": "Weasels",
     "taxon_id": 526558,
-    "taxon_ids": "1|2|40151|41573|41770||"
+    "taxon_ids": "1|2|40151|41573|41770|||526558"
   },
   {
     "id": 4837806,
@@ -2037,7 +2037,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 4837808,
@@ -3597,7 +3597,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 6140452,
@@ -3867,7 +3867,7 @@
     "scientific_name": "Thamnophis sirtalis sirtalis",
     "common_name": "Eastern Garter Snake",
     "taxon_id": 28365,
-    "taxon_ids": "1|2|26036|26172|26504|28339|28362"
+    "taxon_ids": "1|2|26036|26172|26504|28339|28362|28365"
   },
   {
     "id": 6246151,
@@ -4017,7 +4017,7 @@
     "scientific_name": "Setophaga coronata coronata",
     "common_name": "Myrtle Warbler",
     "taxon_id": 132704,
-    "taxon_ids": "1|2|3|7251|71349|10246|145245"
+    "taxon_ids": "1|2|3|7251|71349|10246|145245|132704"
   },
   {
     "id": 6255010,
@@ -4032,7 +4032,7 @@
     "scientific_name": "Setophaga palmarum palmarum",
     "common_name": "Western Palm Warbler",
     "taxon_id": 238505,
-    "taxon_ids": "1|2|3|7251|71349|10246|145242"
+    "taxon_ids": "1|2|3|7251|71349|10246|145242|238505"
   },
   {
     "id": 6255025,
@@ -4587,7 +4587,7 @@
     "scientific_name": "Lycosoidea",
     "common_name": "Wolf Spiders and Allies",
     "taxon_id": 367161,
-    "taxon_ids": "1|47120|47119|47118|||"
+    "taxon_ids": "1|47120|47119|47118||||367161"
   },
   {
     "id": 6691463,
@@ -4632,7 +4632,7 @@
     "scientific_name": "Serpentes",
     "common_name": "Snakes",
     "taxon_id": 85553,
-    "taxon_ids": "1|2|26036|26172|||"
+    "taxon_ids": "1|2|26036|26172||||85553"
   },
   {
     "id": 6696386,
@@ -4722,7 +4722,7 @@
     "scientific_name": "Serpentes",
     "common_name": "Snakes",
     "taxon_id": 85553,
-    "taxon_ids": "1|2|26036|26172|||"
+    "taxon_ids": "1|2|26036|26172||||85553"
   },
   {
     "id": 6696400,
@@ -5112,7 +5112,7 @@
     "scientific_name": "Scarabaeinae",
     "common_name": "Dung Beetles",
     "taxon_id": 125819,
-    "taxon_ids": "1|47120|47158|47208|48201||"
+    "taxon_ids": "1|47120|47158|47208|48201|||125819"
   },
   {
     "id": 6707316,
@@ -5382,7 +5382,7 @@
     "scientific_name": "Mustelinae",
     "common_name": "Weasels",
     "taxon_id": 526558,
-    "taxon_ids": "1|2|40151|41573|41770||"
+    "taxon_ids": "1|2|40151|41573|41770|||526558"
   },
   {
     "id": 6708654,
@@ -5622,7 +5622,7 @@
     "scientific_name": "Cicindela formosa generosa",
     "common_name": "Eastern Sand Tiger Beetle",
     "taxon_id": 82455,
-    "taxon_ids": "1|47120|47158|47208|49567|49568|82453"
+    "taxon_ids": "1|47120|47158|47208|49567|49568|82453|82455"
   },
   {
     "id": 6746492,
@@ -5802,7 +5802,7 @@
     "scientific_name": "Anisoptera",
     "common_name": "Dragonflies",
     "taxon_id": 47927,
-    "taxon_ids": "1|47120|47158|47792|||"
+    "taxon_ids": "1|47120|47158|47792||||47927"
   },
   {
     "id": 6781467,
@@ -6432,7 +6432,7 @@
     "scientific_name": "Megachilinae",
     "common_name": null,
     "taxon_id": 314114,
-    "taxon_ids": "1|47120|47158|47201|52777||"
+    "taxon_ids": "1|47120|47158|47201|52777|||314114"
   },
   {
     "id": 7063923,
@@ -7167,7 +7167,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 7524221,
@@ -8622,7 +8622,7 @@
     "scientific_name": "Placentalia",
     "common_name": "Placental Mammals",
     "taxon_id": 848320,
-    "taxon_ids": "1|2|40151||||"
+    "taxon_ids": "1|2|40151|||||848320"
   },
   {
     "id": 10319099,
@@ -9417,7 +9417,7 @@
     "scientific_name": "Oligochaeta",
     "common_name": "Earthworms and allies",
     "taxon_id": 333586,
-    "taxon_ids": "1|47491|63089||||"
+    "taxon_ids": "1|47491|63089|||||333586"
   },
   {
     "id": 11644440,
@@ -9957,7 +9957,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 11732138,
@@ -10017,7 +10017,7 @@
     "scientific_name": "Alnus incana rugosa",
     "common_name": "swamp alder",
     "taxon_id": 54237,
-    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377"
+    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377|54237"
   },
   {
     "id": 11809773,
@@ -10092,7 +10092,7 @@
     "scientific_name": "Acari",
     "common_name": "Mites and Ticks",
     "taxon_id": 52788,
-    "taxon_ids": "1|47120|47119||||"
+    "taxon_ids": "1|47120|47119|||||52788"
   },
   {
     "id": 12018273,
@@ -10287,7 +10287,7 @@
     "scientific_name": "Arctiini",
     "common_name": "Tiger Moths",
     "taxon_id": 82089,
-    "taxon_ids": "1|47120|47158|47157|121850||"
+    "taxon_ids": "1|47120|47158|47157|121850|||82089"
   },
   {
     "id": 12824010,
@@ -10467,7 +10467,7 @@
     "scientific_name": "Hirundo rustica erythrogaster",
     "common_name": "American Barn Swallow",
     "taxon_id": 342169,
-    "taxon_ids": "1|2|3|7251|11853|11880|11901"
+    "taxon_ids": "1|2|3|7251|11853|11880|11901|342169"
   },
   {
     "id": 13015137,
@@ -10557,7 +10557,7 @@
     "scientific_name": "Lymnaeoidea",
     "common_name": "Pond Snails, Bladder Snails, and Allies",
     "taxon_id": 133806,
-    "taxon_ids": "1|47115|47114||||"
+    "taxon_ids": "1|47115|47114|||||133806"
   },
   {
     "id": 13197151,
@@ -10617,7 +10617,7 @@
     "scientific_name": "Anisoptera",
     "common_name": "Dragonflies",
     "taxon_id": 47927,
-    "taxon_ids": "1|47120|47158|47792|||"
+    "taxon_ids": "1|47120|47158|47792||||47927"
   },
   {
     "id": 13208069,
@@ -11217,7 +11217,7 @@
     "scientific_name": "Cercopoidea",
     "common_name": "Spittlebugs and Froghoppers",
     "taxon_id": 56194,
-    "taxon_ids": "1|47120|47158|47744|||"
+    "taxon_ids": "1|47120|47158|47744||||56194"
   },
   {
     "id": 13249925,
@@ -11247,7 +11247,7 @@
     "scientific_name": "Dichanthelium oligosanthes scribnerianum",
     "common_name": "Scribner's Panicgrass",
     "taxon_id": 240305,
-    "taxon_ids": "47126|211194|47163|47162|47434|128807|161798"
+    "taxon_ids": "47126|211194|47163|47162|47434|128807|161798|240305"
   },
   {
     "id": 13249995,
@@ -11682,7 +11682,7 @@
     "scientific_name": "Caelifera",
     "common_name": "Grasshoppers, Locusts, and Allies",
     "taxon_id": 67688,
-    "taxon_ids": "1|47120|47158|47651|||"
+    "taxon_ids": "1|47120|47158|47651||||67688"
   },
   {
     "id": 13372063,
@@ -11847,7 +11847,7 @@
     "scientific_name": "Tabaninae",
     "common_name": "Horse Flies",
     "taxon_id": 332389,
-    "taxon_ids": "1|47120|47158|47822|47821||"
+    "taxon_ids": "1|47120|47158|47822|47821|||332389"
   },
   {
     "id": 13423979,
@@ -11997,7 +11997,7 @@
     "scientific_name": "Cucujiformia",
     "common_name": "Cucujiform Beetles",
     "taxon_id": 372852,
-    "taxon_ids": "1|47120|47158|47208|||"
+    "taxon_ids": "1|47120|47158|47208||||372852"
   },
   {
     "id": 13564354,
@@ -12012,7 +12012,7 @@
     "scientific_name": "Asilinae",
     "common_name": null,
     "taxon_id": 326683,
-    "taxon_ids": "1|47120|47158|47822|47982||"
+    "taxon_ids": "1|47120|47158|47822|47982|||326683"
   },
   {
     "id": 13587245,
@@ -12027,7 +12027,7 @@
     "scientific_name": "Halictinae",
     "common_name": null,
     "taxon_id": 134106,
-    "taxon_ids": "1|47120|47158|47201|49707||"
+    "taxon_ids": "1|47120|47158|47201|49707|||134106"
   },
   {
     "id": 13587277,
@@ -12432,7 +12432,7 @@
     "scientific_name": "Parmelioideae",
     "common_name": null,
     "taxon_id": 1094690,
-    "taxon_ids": "47170|48250|54743|48327|54321||"
+    "taxon_ids": "47170|48250|54743|48327|54321|||1094690"
   },
   {
     "id": 13831437,
@@ -12522,7 +12522,7 @@
     "scientific_name": "Scarabaeoidea",
     "common_name": "Scarabs, Stag Beetles and Allies",
     "taxon_id": 48202,
-    "taxon_ids": "1|47120|47158|47208|||"
+    "taxon_ids": "1|47120|47158|47208||||48202"
   },
   {
     "id": 13831907,
@@ -12717,7 +12717,7 @@
     "scientific_name": "Eupeodes americanus",
     "common_name": null,
     "taxon_id": 963010,
-    "taxon_ids": "1|47120|47158|47822|49995|62455|"
+    "taxon_ids": "1|47120|47158|47822|49995|62455||963010"
   },
   {
     "id": 13836383,
@@ -13122,7 +13122,7 @@
     "scientific_name": "Hyla versicolor",
     "common_name": "Gray Treefrog Complex",
     "taxon_id": 922247,
-    "taxon_ids": "1|2|20978|20979|23540|23747|"
+    "taxon_ids": "1|2|20978|20979|23540|23747||922247"
   },
   {
     "id": 14331872,
@@ -13512,7 +13512,7 @@
     "scientific_name": "Limenitis arthemis arthemis",
     "common_name": "American White Admiral",
     "taxon_id": 58583,
-    "taxon_ids": "1|47120|47158|47157|47922|50881|60607"
+    "taxon_ids": "1|47120|47158|47157|47922|50881|60607|58583"
   },
   {
     "id": 14390797,
@@ -13572,7 +13572,7 @@
     "scientific_name": "Polistinae",
     "common_name": "Paper Wasps",
     "taxon_id": 343248,
-    "taxon_ids": "1|47120|47158|47201|52747||"
+    "taxon_ids": "1|47120|47158|47201|52747|||343248"
   },
   {
     "id": 14391838,
@@ -13617,7 +13617,7 @@
     "scientific_name": "Scarabaeoidea",
     "common_name": "Scarabs, Stag Beetles and Allies",
     "taxon_id": 48202,
-    "taxon_ids": "1|47120|47158|47208|||"
+    "taxon_ids": "1|47120|47158|47208||||48202"
   },
   {
     "id": 14399883,
@@ -13647,7 +13647,7 @@
     "scientific_name": "Scarabaeinae",
     "common_name": "Dung Beetles",
     "taxon_id": 125819,
-    "taxon_ids": "1|47120|47158|47208|48201||"
+    "taxon_ids": "1|47120|47158|47208|48201|||125819"
   },
   {
     "id": 14399972,
@@ -13662,7 +13662,7 @@
     "scientific_name": "Scarabaeinae",
     "common_name": "Dung Beetles",
     "taxon_id": 125819,
-    "taxon_ids": "1|47120|47158|47208|48201||"
+    "taxon_ids": "1|47120|47158|47208|48201|||125819"
   },
   {
     "id": 14400011,
@@ -13887,7 +13887,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 14441452,
@@ -13977,7 +13977,7 @@
     "scientific_name": "Oligochaeta",
     "common_name": "Earthworms and allies",
     "taxon_id": 333586,
-    "taxon_ids": "1|47491|63089||||"
+    "taxon_ids": "1|47491|63089|||||333586"
   },
   {
     "id": 14443459,
@@ -15312,7 +15312,7 @@
     "scientific_name": "Pentatomoidea",
     "common_name": "Stink Bugs, Shield Bugs, and Allies",
     "taxon_id": 47743,
-    "taxon_ids": "1|47120|47158|47744|||"
+    "taxon_ids": "1|47120|47158|47744||||47743"
   },
   {
     "id": 15439092,
@@ -15372,7 +15372,7 @@
     "scientific_name": "Asilinae",
     "common_name": null,
     "taxon_id": 326683,
-    "taxon_ids": "1|47120|47158|47822|47982||"
+    "taxon_ids": "1|47120|47158|47822|47982|||326683"
   },
   {
     "id": 15485713,
@@ -15387,7 +15387,7 @@
     "scientific_name": "Ichneumonoidea",
     "common_name": "Ichneumonid and Braconid Wasps",
     "taxon_id": 47200,
-    "taxon_ids": "1|47120|47158|47201|||"
+    "taxon_ids": "1|47120|47158|47201||||47200"
   },
   {
     "id": 15487992,
@@ -15582,7 +15582,7 @@
     "scientific_name": "Macrosiphini",
     "common_name": null,
     "taxon_id": 373734,
-    "taxon_ids": "1|47120|47158|47744|52381||"
+    "taxon_ids": "1|47120|47158|47744|52381|||373734"
   },
   {
     "id": 15795812,
@@ -15807,7 +15807,7 @@
     "scientific_name": "Astereae",
     "common_name": "asters and allies",
     "taxon_id": 461542,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||461542"
   },
   {
     "id": 16328065,
@@ -16272,7 +16272,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 16796064,
@@ -16482,7 +16482,7 @@
     "scientific_name": "Lobatae",
     "common_name": "red oaks",
     "taxon_id": 861036,
-    "taxon_ids": "47126|211194|47124|47853|47852|47851|"
+    "taxon_ids": "47126|211194|47124|47853|47852|47851||861036"
   },
   {
     "id": 16799413,
@@ -20082,7 +20082,7 @@
     "scientific_name": "Alnus incana rugosa",
     "common_name": "swamp alder",
     "taxon_id": 54237,
-    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377"
+    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377|54237"
   },
   {
     "id": 17469615,
@@ -20607,7 +20607,7 @@
     "scientific_name": "Bovini",
     "common_name": "Cattle and Bison",
     "taxon_id": 846321,
-    "taxon_ids": "1|2|40151|152870|42241||"
+    "taxon_ids": "1|2|40151|152870|42241|||846321"
   },
   {
     "id": 17475836,
@@ -20622,7 +20622,7 @@
     "scientific_name": "Anemoneae",
     "common_name": "anemones and allies",
     "taxon_id": 746724,
-    "taxon_ids": "47126|211194|47124|48232|48231||"
+    "taxon_ids": "47126|211194|47124|48232|48231|||746724"
   },
   {
     "id": 17475950,
@@ -20757,7 +20757,7 @@
     "scientific_name": "Solidago rigida humilis",
     "common_name": "stiff goldenrod",
     "taxon_id": 125722,
-    "taxon_ids": "47126|211194|47124|47605|47604|48678|125721"
+    "taxon_ids": "47126|211194|47124|47605|47604|48678|125721|125722"
   },
   {
     "id": 17477002,
@@ -21102,7 +21102,7 @@
     "scientific_name": "Asteroideae",
     "common_name": null,
     "taxon_id": 632790,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||632790"
   },
   {
     "id": 17484851,
@@ -21282,7 +21282,7 @@
     "scientific_name": "Astereae",
     "common_name": "asters and allies",
     "taxon_id": 461542,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||461542"
   },
   {
     "id": 17485012,
@@ -21297,7 +21297,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 17485384,
@@ -21672,7 +21672,7 @@
     "scientific_name": "Quercus",
     "common_name": "white oaks",
     "taxon_id": 861033,
-    "taxon_ids": "47126|211194|47124|47853|47852|47851|"
+    "taxon_ids": "47126|211194|47124|47853|47852|47851||861033"
   },
   {
     "id": 17496833,
@@ -23097,7 +23097,7 @@
     "scientific_name": "Lobatae",
     "common_name": "red oaks",
     "taxon_id": 861036,
-    "taxon_ids": "47126|211194|47124|47853|47852|47851|"
+    "taxon_ids": "47126|211194|47124|47853|47852|47851||861036"
   },
   {
     "id": 17498516,
@@ -23277,7 +23277,7 @@
     "scientific_name": "Drymocallis arguta arguta",
     "common_name": "Tall Cinquefoil",
     "taxon_id": 501654,
-    "taxon_ids": "47126|211194|47124|47132|47148|72104|204304"
+    "taxon_ids": "47126|211194|47124|47132|47148|72104|204304|501654"
   },
   {
     "id": 17499014,
@@ -23592,7 +23592,7 @@
     "scientific_name": "Alnus incana rugosa",
     "common_name": "swamp alder",
     "taxon_id": 54237,
-    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377"
+    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377|54237"
   },
   {
     "id": 17499514,
@@ -23952,7 +23952,7 @@
     "scientific_name": "Spilosomina",
     "common_name": null,
     "taxon_id": 123834,
-    "taxon_ids": "1|47120|47158|47157|121850||"
+    "taxon_ids": "1|47120|47158|47157|121850|||123834"
   },
   {
     "id": 19111281,
@@ -24642,7 +24642,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 19895774,
@@ -25227,7 +25227,7 @@
     "scientific_name": "Mustelinae",
     "common_name": "Weasels",
     "taxon_id": 526558,
-    "taxon_ids": "1|2|40151|41573|41770||"
+    "taxon_ids": "1|2|40151|41573|41770|||526558"
   },
   {
     "id": 20048539,
@@ -25617,7 +25617,7 @@
     "scientific_name": "Viola macloskeyi pallens",
     "common_name": "Smooth White Violet",
     "taxon_id": 238999,
-    "taxon_ids": "47126|211194|47124|51820|50828|50829|55632"
+    "taxon_ids": "47126|211194|47124|51820|50828|50829|55632|238999"
   },
   {
     "id": 20538569,
@@ -26787,7 +26787,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 22443642,
@@ -27117,7 +27117,7 @@
     "scientific_name": "Sciurinae",
     "common_name": "Typical and Flying Squirrels",
     "taxon_id": 332614,
-    "taxon_ids": "1|2|40151|43698|45933||"
+    "taxon_ids": "1|2|40151|43698|45933|||332614"
   },
   {
     "id": 22485712,
@@ -27522,7 +27522,7 @@
     "scientific_name": "Asteroideae",
     "common_name": null,
     "taxon_id": 632790,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||632790"
   },
   {
     "id": 23463527,
@@ -27747,7 +27747,7 @@
     "scientific_name": "Formicinae",
     "common_name": "Formicine Ants",
     "taxon_id": 244834,
-    "taxon_ids": "1|47120|47158|47201|47336||"
+    "taxon_ids": "1|47120|47158|47201|47336|||244834"
   },
   {
     "id": 23465103,
@@ -27762,7 +27762,7 @@
     "scientific_name": "Formicinae",
     "common_name": "Formicine Ants",
     "taxon_id": 244834,
-    "taxon_ids": "1|47120|47158|47201|47336||"
+    "taxon_ids": "1|47120|47158|47201|47336|||244834"
   },
   {
     "id": 23465328,
@@ -27777,7 +27777,7 @@
     "scientific_name": "Pterygota",
     "common_name": "Winged and Once-winged Insects",
     "taxon_id": 184884,
-    "taxon_ids": "1|47120|47158||||"
+    "taxon_ids": "1|47120|47158|||||184884"
   },
   {
     "id": 23465584,
@@ -27867,7 +27867,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 23466318,
@@ -28077,7 +28077,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 23467517,
@@ -28152,7 +28152,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 23468114,
@@ -28392,7 +28392,7 @@
     "scientific_name": "Placentalia",
     "common_name": "Placental Mammals",
     "taxon_id": 848320,
-    "taxon_ids": "1|2|40151||||"
+    "taxon_ids": "1|2|40151|||||848320"
   },
   {
     "id": 23470199,
@@ -28422,7 +28422,7 @@
     "scientific_name": "Lobatae",
     "common_name": "red oaks",
     "taxon_id": 861036,
-    "taxon_ids": "47126|211194|47124|47853|47852|47851|"
+    "taxon_ids": "47126|211194|47124|47853|47852|47851||861036"
   },
   {
     "id": 23470340,
@@ -28662,7 +28662,7 @@
     "scientific_name": "Vespinae",
     "common_name": "Hornets and Yellowjackets",
     "taxon_id": 84738,
-    "taxon_ids": "1|47120|47158|47201|52747||"
+    "taxon_ids": "1|47120|47158|47201|52747|||84738"
   },
   {
     "id": 23479563,
@@ -29022,7 +29022,7 @@
     "scientific_name": "Alnus incana rugosa",
     "common_name": "swamp alder",
     "taxon_id": 54237,
-    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377"
+    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377|54237"
   },
   {
     "id": 23760804,
@@ -29292,7 +29292,7 @@
     "scientific_name": "Deirochelyinae",
     "common_name": "Deirochelyine Turtles",
     "taxon_id": 797544,
-    "taxon_ids": "1|2|26036|39532|39760||"
+    "taxon_ids": "1|2|26036|39532|39760|||797544"
   },
   {
     "id": 24759584,
@@ -29877,7 +29877,7 @@
     "scientific_name": "Hymenochlaenae",
     "common_name": "Carex sect. Hymenochlaenae",
     "taxon_id": 633458,
-    "taxon_ids": "47126|211194|47163|47162|47161|48571|"
+    "taxon_ids": "47126|211194|47163|47162|47161|48571||633458"
   },
   {
     "id": 26446417,
@@ -29982,7 +29982,7 @@
     "scientific_name": "Poeae",
     "common_name": null,
     "taxon_id": 552962,
-    "taxon_ids": "47126|211194|47163|47162|47434||"
+    "taxon_ids": "47126|211194|47163|47162|47434|||552962"
   },
   {
     "id": 26456891,
@@ -30402,7 +30402,7 @@
     "scientific_name": "Lobatae",
     "common_name": "red oaks",
     "taxon_id": 861036,
-    "taxon_ids": "47126|211194|47124|47853|47852|47851|"
+    "taxon_ids": "47126|211194|47124|47853|47852|47851||861036"
   },
   {
     "id": 26458772,
@@ -30912,7 +30912,7 @@
     "scientific_name": "Lobatae",
     "common_name": "red oaks",
     "taxon_id": 861036,
-    "taxon_ids": "47126|211194|47124|47853|47852|47851|"
+    "taxon_ids": "47126|211194|47124|47853|47852|47851||861036"
   },
   {
     "id": 26864754,
@@ -32247,7 +32247,7 @@
     "scientific_name": "Rubus fruticosus",
     "common_name": "European bramble complex",
     "taxon_id": 55911,
-    "taxon_ids": "47126|211194|47124|47132|47148|47544|"
+    "taxon_ids": "47126|211194|47124|47132|47148|47544||55911"
   },
   {
     "id": 26882252,
@@ -32577,7 +32577,7 @@
     "scientific_name": "Cicindela formosa generosa",
     "common_name": "Eastern Sand Tiger Beetle",
     "taxon_id": 82455,
-    "taxon_ids": "1|47120|47158|47208|49567|49568|82453"
+    "taxon_ids": "1|47120|47158|47208|49567|49568|82453|82455"
   },
   {
     "id": 26939212,
@@ -32922,7 +32922,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 27180205,
@@ -33567,7 +33567,7 @@
     "scientific_name": "Oligochaeta",
     "common_name": "Earthworms and allies",
     "taxon_id": 333586,
-    "taxon_ids": "1|47491|63089||||"
+    "taxon_ids": "1|47491|63089|||||333586"
   },
   {
     "id": 28754660,
@@ -33882,7 +33882,7 @@
     "scientific_name": "Placentalia",
     "common_name": "Placental Mammals",
     "taxon_id": 848320,
-    "taxon_ids": "1|2|40151||||"
+    "taxon_ids": "1|2|40151|||||848320"
   },
   {
     "id": 28755144,
@@ -34017,7 +34017,7 @@
     "scientific_name": "Grylloidea",
     "common_name": "True Crickets and Allies",
     "taxon_id": 50158,
-    "taxon_ids": "1|47120|47158|47651|||"
+    "taxon_ids": "1|47120|47158|47651||||50158"
   },
   {
     "id": 28896753,
@@ -34332,7 +34332,7 @@
     "scientific_name": "Caelifera",
     "common_name": "Grasshoppers, Locusts, and Allies",
     "taxon_id": 67688,
-    "taxon_ids": "1|47120|47158|47651|||"
+    "taxon_ids": "1|47120|47158|47651||||67688"
   },
   {
     "id": 29051409,
@@ -34617,7 +34617,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 29052664,
@@ -35097,7 +35097,7 @@
     "scientific_name": "Anthophila",
     "common_name": "Bees",
     "taxon_id": 630955,
-    "taxon_ids": "1|47120|47158|47201|||"
+    "taxon_ids": "1|47120|47158|47201||||630955"
   },
   {
     "id": 30232765,
@@ -35247,7 +35247,7 @@
     "scientific_name": "Brachycera",
     "common_name": "Brachyceran Flies",
     "taxon_id": 48091,
-    "taxon_ids": "1|47120|47158|47822|||"
+    "taxon_ids": "1|47120|47158|47822||||48091"
   },
   {
     "id": 30232775,
@@ -36057,7 +36057,7 @@
     "scientific_name": "Agaricineae",
     "common_name": null,
     "taxon_id": 785517,
-    "taxon_ids": "47170|47169|50814|47167|||"
+    "taxon_ids": "47170|47169|50814|47167||||785517"
   },
   {
     "id": 30658345,
@@ -36507,7 +36507,7 @@
     "scientific_name": "Alnus incana rugosa",
     "common_name": "swamp alder",
     "taxon_id": 54237,
-    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377"
+    "taxon_ids": "47126|211194|47124|47853|49155|53352|75377|54237"
   },
   {
     "id": 31003698,
@@ -36732,7 +36732,7 @@
     "scientific_name": "Acrididea",
     "common_name": "Grasshoppers",
     "taxon_id": 700600,
-    "taxon_ids": "1|47120|47158|47651|||"
+    "taxon_ids": "1|47120|47158|47651||||700600"
   },
   {
     "id": 31477702,
@@ -36762,7 +36762,7 @@
     "scientific_name": "Calyptratae",
     "common_name": "Calyptrate Flies",
     "taxon_id": 342767,
-    "taxon_ids": "1|47120|47158|47822|||"
+    "taxon_ids": "1|47120|47158|47822||||342767"
   },
   {
     "id": 31477895,
@@ -36912,7 +36912,7 @@
     "scientific_name": "Agaricineae",
     "common_name": null,
     "taxon_id": 785517,
-    "taxon_ids": "47170|47169|50814|47167|||"
+    "taxon_ids": "47170|47169|50814|47167||||785517"
   },
   {
     "id": 32120073,
@@ -37227,7 +37227,7 @@
     "scientific_name": "Astereae",
     "common_name": "asters and allies",
     "taxon_id": 461542,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||461542"
   },
   {
     "id": 32485971,
@@ -37392,7 +37392,7 @@
     "scientific_name": "Pyrobombus",
     "common_name": null,
     "taxon_id": 538900,
-    "taxon_ids": "1|47120|47158|47201|47221|52775|"
+    "taxon_ids": "1|47120|47158|47201|47221|52775||538900"
   },
   {
     "id": 32728890,
@@ -37962,7 +37962,7 @@
     "scientific_name": "Lycosoidea",
     "common_name": "Wolf Spiders and Allies",
     "taxon_id": 367161,
-    "taxon_ids": "1|47120|47119|47118|||"
+    "taxon_ids": "1|47120|47119|47118||||367161"
   },
   {
     "id": 33145995,
@@ -39057,7 +39057,7 @@
     "scientific_name": "Life",
     "common_name": null,
     "taxon_id": 48460,
-    "taxon_ids": "||||||"
+    "taxon_ids": "|||||||48460"
   },
   {
     "id": 33210856,
@@ -39837,7 +39837,7 @@
     "scientific_name": "Diprioninae",
     "common_name": null,
     "taxon_id": 785331,
-    "taxon_ids": "1|47120|47158|47201|49453||"
+    "taxon_ids": "1|47120|47158|47201|49453|||785331"
   },
   {
     "id": 33483286,
@@ -40197,7 +40197,7 @@
     "scientific_name": "Astereae",
     "common_name": "asters and allies",
     "taxon_id": 461542,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||461542"
   },
   {
     "id": 35536572,
@@ -40707,7 +40707,7 @@
     "scientific_name": "Placentalia",
     "common_name": "Placental Mammals",
     "taxon_id": 848320,
-    "taxon_ids": "1|2|40151||||"
+    "taxon_ids": "1|2|40151|||||848320"
   },
   {
     "id": 37490924,
@@ -41337,7 +41337,7 @@
     "scientific_name": "Vespinae",
     "common_name": "Hornets and Yellowjackets",
     "taxon_id": 84738,
-    "taxon_ids": "1|47120|47158|47201|52747||"
+    "taxon_ids": "1|47120|47158|47201|52747|||84738"
   },
   {
     "id": 37529168,
@@ -41397,7 +41397,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 37783638,
@@ -41472,7 +41472,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 37786667,
@@ -41637,7 +41637,7 @@
     "scientific_name": "Vertebrata",
     "common_name": "Vertebrates",
     "taxon_id": 355675,
-    "taxon_ids": "1|2|||||"
+    "taxon_ids": "1|2||||||355675"
   },
   {
     "id": 38042042,
@@ -41757,7 +41757,7 @@
     "scientific_name": "Zygoptera",
     "common_name": "Damselflies",
     "taxon_id": 47928,
-    "taxon_ids": "1|47120|47158|47792|||"
+    "taxon_ids": "1|47120|47158|47792||||47928"
   },
   {
     "id": 38316088,
@@ -41817,7 +41817,7 @@
     "scientific_name": "Lobatae",
     "common_name": "red oaks",
     "taxon_id": 861036,
-    "taxon_ids": "47126|211194|47124|47853|47852|47851|"
+    "taxon_ids": "47126|211194|47124|47853|47852|47851||861036"
   },
   {
     "id": 38464442,
@@ -42717,7 +42717,7 @@
     "scientific_name": "Noctuinae",
     "common_name": "Cutworms and Dart Moths",
     "taxon_id": 122224,
-    "taxon_ids": "1|47120|47158|47157|48670||"
+    "taxon_ids": "1|47120|47158|47157|48670|||122224"
   },
   {
     "id": 49336050,
@@ -43302,7 +43302,7 @@
     "scientific_name": "Hesperiinae",
     "common_name": "Grass Skippers",
     "taxon_id": 122493,
-    "taxon_ids": "1|47120|47158|47157|47653||"
+    "taxon_ids": "1|47120|47158|47157|47653|||122493"
   },
   {
     "id": 51736757,
@@ -43377,7 +43377,7 @@
     "scientific_name": "Vespinae",
     "common_name": "Hornets and Yellowjackets",
     "taxon_id": 84738,
-    "taxon_ids": "1|47120|47158|47201|52747||"
+    "taxon_ids": "1|47120|47158|47201|52747|||84738"
   },
   {
     "id": 51758450,
@@ -43422,7 +43422,7 @@
     "scientific_name": "Anisoptera",
     "common_name": "Dragonflies",
     "taxon_id": 47927,
-    "taxon_ids": "1|47120|47158|47792|||"
+    "taxon_ids": "1|47120|47158|47792||||47927"
   },
   {
     "id": 52388105,
@@ -43647,7 +43647,7 @@
     "scientific_name": "Aphidomorpha",
     "common_name": "Aphids and Allies",
     "taxon_id": 901813,
-    "taxon_ids": "1|47120|47158|47744|||"
+    "taxon_ids": "1|47120|47158|47744||||901813"
   },
   {
     "id": 53419139,
@@ -43932,7 +43932,7 @@
     "scientific_name": "Polypodiidae",
     "common_name": "Leptosporangiate Ferns",
     "taxon_id": 764796,
-    "taxon_ids": "47126|211194|121943||||"
+    "taxon_ids": "47126|211194|121943|||||764796"
   },
   {
     "id": 54667423,
@@ -44127,7 +44127,7 @@
     "scientific_name": "Sterrhinae",
     "common_name": "Waves and Mochas",
     "taxon_id": 123037,
-    "taxon_ids": "1|47120|47158|47157|49530||"
+    "taxon_ids": "1|47120|47158|47157|49530|||123037"
   },
   {
     "id": 56760924,
@@ -44292,7 +44292,7 @@
     "scientific_name": "Cichorieae",
     "common_name": null,
     "taxon_id": 359450,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||359450"
   },
   {
     "id": 57378893,
@@ -44457,7 +44457,7 @@
     "scientific_name": "Cichorioideae",
     "common_name": "chicories, dandelions, and allies",
     "taxon_id": 447425,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||447425"
   },
   {
     "id": 57407511,
@@ -44787,7 +44787,7 @@
     "scientific_name": "Quercus",
     "common_name": "white oaks",
     "taxon_id": 861033,
-    "taxon_ids": "47126|211194|47124|47853|47852|47851|"
+    "taxon_ids": "47126|211194|47124|47853|47852|47851||861033"
   },
   {
     "id": 58357870,
@@ -45492,7 +45492,7 @@
     "scientific_name": "Hyla versicolor",
     "common_name": "Gray Treefrog Complex",
     "taxon_id": 922247,
-    "taxon_ids": "1|2|20978|20979|23540|23747|"
+    "taxon_ids": "1|2|20978|20979|23540|23747||922247"
   },
   {
     "id": 65422611,
@@ -45567,7 +45567,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 66157530,
@@ -47337,7 +47337,7 @@
     "scientific_name": "Chrysemys picta bellii",
     "common_name": "Western Painted Turtle",
     "taxon_id": 39773,
-    "taxon_ids": "1|2|26036|39532|39760|39770|39771"
+    "taxon_ids": "1|2|26036|39532|39760|39770|39771|39773"
   },
   {
     "id": 76623902,
@@ -47367,7 +47367,7 @@
     "scientific_name": "Chrysemys picta bellii",
     "common_name": "Western Painted Turtle",
     "taxon_id": 39773,
-    "taxon_ids": "1|2|26036|39532|39760|39770|39771"
+    "taxon_ids": "1|2|26036|39532|39760|39770|39771|39773"
   },
   {
     "id": 76623906,
@@ -47742,7 +47742,7 @@
     "scientific_name": "Lycosinae",
     "common_name": null,
     "taxon_id": 1235357,
-    "taxon_ids": "1|47120|47119|47118|47416||"
+    "taxon_ids": "1|47120|47119|47118|47416|||1235357"
   },
   {
     "id": 77914515,
@@ -47817,7 +47817,7 @@
     "scientific_name": "Coliadinae",
     "common_name": "Yellows and Sulphurs",
     "taxon_id": 119556,
-    "taxon_ids": "1|47120|47158|47157|48508||"
+    "taxon_ids": "1|47120|47158|47157|48508|||119556"
   },
   {
     "id": 77995361,
@@ -48012,7 +48012,7 @@
     "scientific_name": "Muroidea",
     "common_name": "Muroids",
     "taxon_id": 488924,
-    "taxon_ids": "1|2|40151|43698|||"
+    "taxon_ids": "1|2|40151|43698||||488924"
   },
   {
     "id": 79535517,
@@ -48462,7 +48462,7 @@
     "scientific_name": "Zygoptera",
     "common_name": "Damselflies",
     "taxon_id": 47928,
-    "taxon_ids": "1|47120|47158|47792|||"
+    "taxon_ids": "1|47120|47158|47792||||47928"
   },
   {
     "id": 80813732,
@@ -48687,7 +48687,7 @@
     "scientific_name": "Sericini",
     "common_name": null,
     "taxon_id": 322170,
-    "taxon_ids": "1|47120|47158|47208|48201||"
+    "taxon_ids": "1|47120|47158|47208|48201|||322170"
   },
   {
     "id": 80826592,
@@ -48822,7 +48822,7 @@
     "scientific_name": "Nematocera",
     "common_name": "Nematoceran Flies",
     "taxon_id": 154259,
-    "taxon_ids": "1|47120|47158|47822|||"
+    "taxon_ids": "1|47120|47158|47822||||154259"
   },
   {
     "id": 81362942,
@@ -48837,7 +48837,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 81478234,
@@ -48882,7 +48882,7 @@
     "scientific_name": "Cyperoideae",
     "common_name": null,
     "taxon_id": 873509,
-    "taxon_ids": "47126|211194|47163|47162|47161||"
+    "taxon_ids": "47126|211194|47163|47162|47161|||873509"
   },
   {
     "id": 81746437,
@@ -49077,7 +49077,7 @@
     "scientific_name": "Faboideae",
     "common_name": null,
     "taxon_id": 507502,
-    "taxon_ids": "47126|211194|47124|47123|47122||"
+    "taxon_ids": "47126|211194|47124|47123|47122|||507502"
   },
   {
     "id": 82466020,
@@ -49287,7 +49287,7 @@
     "scientific_name": "Physalis virginiana virginiana",
     "common_name": "Virginia Ground-cherry",
     "taxon_id": 242219,
-    "taxon_ids": "47126|211194|47124|48515|48516|51733|154825"
+    "taxon_ids": "47126|211194|47124|48515|48516|51733|154825|242219"
   },
   {
     "id": 83391104,
@@ -49587,7 +49587,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 83513374,
@@ -49872,7 +49872,7 @@
     "scientific_name": "Limenitis arthemis arthemis",
     "common_name": "American White Admiral",
     "taxon_id": 58583,
-    "taxon_ids": "1|47120|47158|47157|47922|50881|60607"
+    "taxon_ids": "1|47120|47158|47157|47922|50881|60607|58583"
   },
   {
     "id": 83699030,
@@ -49902,7 +49902,7 @@
     "scientific_name": "Asteroideae",
     "common_name": null,
     "taxon_id": 632790,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||632790"
   },
   {
     "id": 83735915,
@@ -49992,7 +49992,7 @@
     "scientific_name": "Delphinium carolinianum virescens",
     "common_name": "Prairie Larkspur",
     "taxon_id": 235570,
-    "taxon_ids": "47126|211194|47124|48232|48231|48493|161660"
+    "taxon_ids": "47126|211194|47124|48232|48231|48493|161660|235570"
   },
   {
     "id": 83842312,
@@ -50787,7 +50787,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 85529271,
@@ -52257,7 +52257,7 @@
     "scientific_name": "Gyponini",
     "common_name": null,
     "taxon_id": 603530,
-    "taxon_ids": "1|47120|47158|47744|53237||"
+    "taxon_ids": "1|47120|47158|47744|53237|||603530"
   },
   {
     "id": 88868762,
@@ -53307,7 +53307,7 @@
     "scientific_name": "Angiospermae",
     "common_name": "flowering plants",
     "taxon_id": 47125,
-    "taxon_ids": "47126|211194|||||"
+    "taxon_ids": "47126|211194||||||47125"
   },
   {
     "id": 90816039,
@@ -53727,7 +53727,7 @@
     "scientific_name": "Storeria occipitomaculata occipitomaculata",
     "common_name": "Northern Redbelly Snake",
     "taxon_id": 28559,
-    "taxon_ids": "1|2|26036|26172|26504|28555|28557"
+    "taxon_ids": "1|2|26036|26172|26504|28555|28557|28559"
   },
   {
     "id": 92283459,
@@ -54417,7 +54417,7 @@
     "scientific_name": "Scarabaeinae",
     "common_name": "Dung Beetles",
     "taxon_id": 125819,
-    "taxon_ids": "1|47120|47158|47208|48201||"
+    "taxon_ids": "1|47120|47158|47208|48201|||125819"
   },
   {
     "id": 93720751,
@@ -54867,7 +54867,7 @@
     "scientific_name": "Polyommatinae",
     "common_name": "Blues",
     "taxon_id": 58558,
-    "taxon_ids": "1|47120|47158|47157|47923||"
+    "taxon_ids": "1|47120|47158|47157|47923|||58558"
   },
   {
     "id": 95795702,
@@ -54897,7 +54897,7 @@
     "scientific_name": "Theria",
     "common_name": "Therians",
     "taxon_id": 848317,
-    "taxon_ids": "1|2|40151||||"
+    "taxon_ids": "1|2|40151|||||848317"
   },
   {
     "id": 96000751,
@@ -55947,7 +55947,7 @@
     "scientific_name": "Asteroideae",
     "common_name": null,
     "taxon_id": 632790,
-    "taxon_ids": "47126|211194|47124|47605|47604||"
+    "taxon_ids": "47126|211194|47124|47605|47604|||632790"
   },
   {
     "id": 96766789,
@@ -56217,7 +56217,7 @@
     "scientific_name": "Nezarini",
     "common_name": null,
     "taxon_id": 712842,
-    "taxon_ids": "1|47120|47158|47744|47742||"
+    "taxon_ids": "1|47120|47158|47744|47742|||712842"
   },
   {
     "id": 96819637,
@@ -56487,7 +56487,7 @@
     "scientific_name": "Euarchontoglires",
     "common_name": "Primates, Rodents, and Allies",
     "taxon_id": 848323,
-    "taxon_ids": "1|2|40151||||"
+    "taxon_ids": "1|2|40151|||||848323"
   },
   {
     "id": 98387206,
@@ -56757,7 +56757,7 @@
     "scientific_name": "Placentalia",
     "common_name": "Placental Mammals",
     "taxon_id": 848320,
-    "taxon_ids": "1|2|40151||||"
+    "taxon_ids": "1|2|40151|||||848320"
   },
   {
     "id": 98428592,
@@ -56772,7 +56772,7 @@
     "scientific_name": "Gryllidea",
     "common_name": "Crickets",
     "taxon_id": 358855,
-    "taxon_ids": "1|47120|47158|47651|||"
+    "taxon_ids": "1|47120|47158|47651||||358855"
   },
   {
     "id": 98431435,
@@ -56982,7 +56982,7 @@
     "scientific_name": "Serpentes",
     "common_name": "Snakes",
     "taxon_id": 85553,
-    "taxon_ids": "1|2|26036|26172|||"
+    "taxon_ids": "1|2|26036|26172||||85553"
   },
   {
     "id": 99364541,

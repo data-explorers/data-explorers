@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 def add_count_column(df, count_col):
     # count the number of taxon_id
     temp = df.copy()
@@ -41,22 +44,39 @@ def add_row(row, rank, index):
     temp['scientific_names'] = ('|').join(row['scientific_names'].split('|')[0: index+1])
     return temp
 
+def add_nonmain_row(row):
+    temp = {}
+    cols = [
+        'id', 'taxon_id', 'common_name', 'scientific_name',
+        'user_login', 'image_url', 'rank',
+        'taxon_ids', 'common_names', 'scientific_names'
+    ]
+    for col in cols:
+        temp[col] = row[col]            
+    return temp
 
 def create_taxa_df(df):
     # create a new df with rows for each taxa and eac higher taxa
     new_rows = []
+    ranks = ['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species']
+    
     for index, row in df.iterrows():
-        for index, rank in enumerate(['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species']):
+        for index, rank in enumerate(ranks):
             if pd.isna(row[rank]):
                 continue
                 
             temp = add_row(row, rank, index)
             new_rows.append(temp)
+        
+        # handle taxa that not one of the main ranks       
+        if row['taxon_id'] not in [row[rank + '_id'] for rank in ranks]:
+            temp = add_nonmain_row(row)
+            new_rows.append(temp)
+            
             
     new_df =  pd.DataFrame(new_rows) 
     
     temp = df[['is_species', 'observations_count', 'taxon_id']].drop_duplicates()
-    new_df['taxon_id'] = new_df['taxon_id'].astype(int)
     new_df = new_df.merge(temp, how='left')
     
     new_df.loc[new_df['observations_count'].isna(), 'observations_count'] = 0

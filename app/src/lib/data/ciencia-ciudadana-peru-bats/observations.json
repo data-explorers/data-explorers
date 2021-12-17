@@ -192,7 +192,7 @@
     "scientific_name": "Vespertilionoidea",
     "common_name": "Vespertilionoid Bats",
     "taxon_id": 446959,
-    "taxon_ids": "1|2|40151|40268|||"
+    "taxon_ids": "1|2|40151|40268||||446959"
   },
   {
     "id": 60467567,
@@ -207,7 +207,7 @@
     "scientific_name": "Vespertilioninae",
     "common_name": "Vesper Bats",
     "taxon_id": 846180,
-    "taxon_ids": "1|2|40151|40268|40269||"
+    "taxon_ids": "1|2|40151|40268|40269|||846180"
   },
   {
     "id": 60472216,
@@ -507,7 +507,7 @@
     "scientific_name": "Yangochiroptera",
     "common_name": null,
     "taxon_id": 446946,
-    "taxon_ids": "1|2|40151|40268|||"
+    "taxon_ids": "1|2|40151|40268||||446946"
   },
   {
     "id": 89238309,
@@ -522,7 +522,7 @@
     "scientific_name": "Yangochiroptera",
     "common_name": null,
     "taxon_id": 446946,
-    "taxon_ids": "1|2|40151|40268|||"
+    "taxon_ids": "1|2|40151|40268||||446946"
   },
   {
     "id": 89582155,
@@ -612,6 +612,6 @@
     "scientific_name": "Yangochiroptera",
     "common_name": null,
     "taxon_id": 446946,
-    "taxon_ids": "1|2|40151|40268|||"
+    "taxon_ids": "1|2|40151|40268||||446946"
   }
 ]

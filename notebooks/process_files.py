@@ -1,3 +1,6 @@
+ranks = ['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species']
+
+
 def add_rank_data(obj, rank, taxon):
     obj[f"{rank}_id"] = str(taxon['id'])
     if 'wikipedia_url' in taxon and taxon['wikipedia_url']:
@@ -73,9 +76,9 @@ def process_inat_data(json_data):
         result['ancestor_ids'] = ','.join([str(id) for id in json_data['ancestor_ids']])
         
     return result
+
            
 def add_concatenated_columns(inat_df):
-
     inat_df['taxon_ids'] = (inat_df['kingdom_id'] 
                             + '|' + inat_df['phylum_id'] 
                             + '|' + inat_df['class_id']
@@ -99,3 +102,15 @@ def add_concatenated_columns(inat_df):
                             + '|' + inat_df['family_common_name']
                             + '|' + inat_df['genus_common_name']
                             + '|' + inat_df['species_common_name'])
+    
+    inat_df.loc[inat_df['rank'].isin(ranks) == False, 'common_names'] = (
+        inat_df['common_names'] + '|' + inat_df['common_name']
+    )
+    
+    inat_df.loc[inat_df['rank'].isin(ranks) == False, 'scientific_names'] = (
+        inat_df['scientific_names'] + '|' + inat_df['scientific_name']
+    )
+    
+    inat_df.loc[inat_df['rank'].isin(ranks) == False, 'taxon_ids'] = (
+        inat_df['taxon_ids'] + '|' + inat_df['taxon_id']
+    )
