@@ -25,19 +25,19 @@
     let common_names = taxon.common_names.split('|');
     let taxonomy = [];
     let ranks = {
-      0: 'Kingdom',
-      1: 'Phylum',
-      2: 'Class',
-      3: 'Order',
-      4: 'Family',
-      5: 'Genus',
-      6: 'Species'
+      0: 'kingdom',
+      1: 'phylum',
+      2: 'class',
+      3: 'order',
+      4: 'family',
+      5: 'genus',
+      6: 'species'
     };
 
-    taxon_ids.forEach((taxon, i) => {
+    taxon_ids.forEach((id, i) => {
       if (taxon_ids[i]) {
         taxonomy.push({
-          taxon_rank: ranks[i],
+          taxon_rank: ranks[i] ? ranks[i] : taxon.rank,
           taxon_id: taxon_ids[i],
           taxon_name: formatTaxonDisplayName({
             common_name: common_names[i],
