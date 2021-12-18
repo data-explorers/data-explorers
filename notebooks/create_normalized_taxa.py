@@ -16,10 +16,6 @@ def add_count_column(df, count_col):
 
 
 def append_df(df):
-    #  try to match the species count that is shown on inaturalist project page
-    df["is_species"] = df["species"].notna()
-    adjust_is_species_for_higher_ranks(df)
-
     # count the number of observations for a taxon_id
     df = add_count_column(df, "observations_count")
     return df
@@ -87,7 +83,7 @@ def create_taxa_df(df):
 
     new_df = pd.DataFrame(new_rows)
 
-    temp = df[["is_species", "observations_count", "taxon_id"]].drop_duplicates()
+    temp = df[["observations_count", "taxon_id"]].drop_duplicates()
     new_df = new_df.merge(temp, how="left")
 
     new_df.loc[new_df["observations_count"].isna(), "observations_count"] = 0
@@ -103,24 +99,3 @@ def create_taxa_df(df):
     new_df = new_df.sort_values(["observations_count"], ascending=False)
 
     return new_df
-
-
-# try to match the species count that is shown on inaturalist project page
-# if a rank higher than species is the lowest occurence of the taxa, it is treated as
-# a species. e.g. if there are no species for genus AA, genus AA 'is_species' is True
-def adjust_is_species_for_higher_ranks(df):
-    adjust_is_species_for_rank(df, "genus")
-    adjust_is_species_for_rank(df, "family")
-    adjust_is_species_for_rank(df, "order")
-    adjust_is_species_for_rank(df, "class")
-    adjust_is_species_for_rank(df, "phylum")
-    adjust_is_species_for_rank(df, "kingdom")
-    df.loc[df["scientific_name"].str.contains(" × ") == True, "is_species"] = True
-
-
-def adjust_is_species_for_rank(df, rank):
-    tmp = df.copy()
-    taxa = list(df[df["is_species"] == True][rank].unique())
-    tmp = tmp[(tmp["is_species"] == False) & (tmp[rank].notna())]
-    for index, row in tmp[~tmp[rank].isin(taxa)].iterrows():
-        df.at[index, "is_species"] = True

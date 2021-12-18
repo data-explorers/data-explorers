@@ -10,7 +10,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|47220|47219",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|Honey Bees|Western Honey Bee",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Apis|Apis mellifera",
-    "is_species": true,
     "observations_count": 249,
     "taxa_count": 249
   },
@@ -25,7 +24,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|51111||557049",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|Large Carpenter Bees||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Xylocopa||Neoxylocopa",
-    "is_species": true,
     "observations_count": 50,
     "taxa_count": 50
   },
@@ -40,7 +38,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|57678||126545",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|||Metallic Sweat Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Lasioglossum||Dialictus",
-    "is_species": true,
     "observations_count": 16,
     "taxa_count": 16
   },
@@ -55,7 +52,6 @@
     "taxon_ids": "1|47120|47158|47201|127740|127741",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Plasterer Bees|Cellophane Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Colletidae|Colletes",
-    "is_species": true,
     "observations_count": 12,
     "taxa_count": 12
   },
@@ -70,7 +66,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|252943|1073687",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies||Brues' Mini-Digger",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Exomalopsis|Exomalopsis bruesi",
-    "is_species": true,
     "observations_count": 12,
     "taxa_count": 12
   },
@@ -85,7 +80,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|51111",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|Large Carpenter Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Xylocopa",
-    "is_species": true,
     "observations_count": 11,
     "taxa_count": 61
   },
@@ -100,7 +94,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|||203037",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|||Augochlorine Sweat Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|||Augochlorini",
-    "is_species": false,
     "observations_count": 11,
     "taxa_count": 11
   },
@@ -115,7 +108,6 @@
     "taxon_ids": "1|47120|47158|47201||||630955",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies||||Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera||||Anthophila",
-    "is_species": false,
     "observations_count": 7,
     "taxa_count": 7
   },
@@ -130,7 +122,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|252669|270959",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies||Segmented Turret Bee",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Melitoma|Melitoma segmentaria",
-    "is_species": true,
     "observations_count": 7,
     "taxa_count": 7
   },
@@ -145,7 +136,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|82524",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Augochlora",
-    "is_species": true,
     "observations_count": 6,
     "taxa_count": 7
   },
@@ -160,7 +150,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|174417||578099",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Centris||Centris",
-    "is_species": true,
     "observations_count": 5,
     "taxa_count": 5
   },
@@ -175,7 +164,6 @@
     "taxon_ids": "1|47120|47158|47201|52777|52784",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Mason, Leafcutter, Carder, and Resin Bees|Leafcutter, Mortar, and Resin Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Megachilidae|Megachile",
-    "is_species": true,
     "observations_count": 5,
     "taxa_count": 10
   },
@@ -190,7 +178,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|252810",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Pseudaugochlora",
-    "is_species": true,
     "observations_count": 4,
     "taxa_count": 4
   },
@@ -205,7 +192,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|61891",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|Blood Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Sphecodes",
-    "is_species": true,
     "observations_count": 4,
     "taxa_count": 4
   },
@@ -220,7 +206,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|174417",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Centris",
-    "is_species": true,
     "observations_count": 3,
     "taxa_count": 9
   },
@@ -235,7 +220,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|50086",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|Striped Sweat Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Agapostemon",
-    "is_species": true,
     "observations_count": 3,
     "taxa_count": 3
   },
@@ -250,7 +234,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|||121514",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|||Longhorn Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|||Eucerini",
-    "is_species": false,
     "observations_count": 3,
     "taxa_count": 3
   },
@@ -265,7 +248,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|||335597",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|||Halictini",
-    "is_species": false,
     "observations_count": 3,
     "taxa_count": 3
   },
@@ -280,7 +262,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|||134106",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|||Halictinae",
-    "is_species": false,
     "observations_count": 3,
     "taxa_count": 3
   },
@@ -295,7 +276,6 @@
     "taxon_ids": "1|47120|47158|47201|49707",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae",
-    "is_species": false,
     "observations_count": 3,
     "taxa_count": 58
   },
@@ -310,7 +290,6 @@
     "taxon_ids": "1|47120|47158|47201|52777|52784||700468",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Mason, Leafcutter, Carder, and Resin Bees|Leafcutter, Mortar, and Resin Bees||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Megachilidae|Megachile||Cressoniella",
-    "is_species": true,
     "observations_count": 3,
     "taxa_count": 3
   },
@@ -325,7 +304,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|252448",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Caenohalictus",
-    "is_species": true,
     "observations_count": 3,
     "taxa_count": 3
   },
@@ -340,7 +318,6 @@
     "taxon_ids": "1|47120|47158|47201|127740|127812",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Plasterer Bees|Masked Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Colletidae|Hylaeus",
-    "is_species": false,
     "observations_count": 2,
     "taxa_count": 6
   },
@@ -355,7 +332,6 @@
     "taxon_ids": "1|47120|47158|47201|127740|127812|424044",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Plasterer Bees|Masked Bees|Yellow-collared Masked Bee",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Colletidae|Hylaeus|Hylaeus euxanthus",
-    "is_species": true,
     "observations_count": 2,
     "taxa_count": 2
   },
@@ -370,7 +346,6 @@
     "taxon_ids": "1|47120|47158|47201|127740|127812||602825",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Plasterer Bees|Masked Bees||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Colletidae|Hylaeus||Hylaeopsis",
-    "is_species": false,
     "observations_count": 2,
     "taxa_count": 2
   },
@@ -385,7 +360,6 @@
     "taxon_ids": "1|47120|47158|47201|52777|52784||415012",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Mason, Leafcutter, Carder, and Resin Bees|Leafcutter, Mortar, and Resin Bees||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Megachilidae|Megachile||Eutricharaea",
-    "is_species": true,
     "observations_count": 2,
     "taxa_count": 2
   },
@@ -400,7 +374,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|252943",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Exomalopsis",
-    "is_species": false,
     "observations_count": 2,
     "taxa_count": 14
   },
@@ -415,7 +388,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|57682|1145796",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|Common Digger Bees|Arequipa Digger",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Anthophora|Anthophora arequipensis",
-    "is_species": true,
     "observations_count": 2,
     "taxa_count": 2
   },
@@ -430,7 +402,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|84751|271366",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies||Polychrome Orchid Bee",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Eulaema|Eulaema polychroma",
-    "is_species": true,
     "observations_count": 2,
     "taxa_count": 2
   },
@@ -445,7 +416,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|252639",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Leiopodus",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -460,7 +430,6 @@
     "taxon_ids": "1|47120|47158|47201|52777|57671||638430",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Mason, Leafcutter, Carder, and Resin Bees|Carder Bees||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Megachilidae|Anthidium||Anthidium",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -475,7 +444,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|82524||571282",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Augochlora||Oxystoglossella",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -490,7 +458,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|||199939",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|||Apine Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|||Apinae",
-    "is_species": false,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -505,7 +472,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|344448|344445",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies||Narrow Stingless Bee",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Tetragonisca|Tetragonisca angustula",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -520,7 +486,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|174417||578096",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Centris||Paracentris",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -535,7 +500,6 @@
     "taxon_ids": "1|47120|47158|47201|57668",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Mining Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Andrenidae",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -550,7 +514,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|344448",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Tetragonisca",
-    "is_species": false,
     "observations_count": 1,
     "taxa_count": 2
   },
@@ -565,7 +528,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|82526|133766",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees||Golden Sweat Bee",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Augochlorella|Augochlorella aurata",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -580,7 +542,6 @@
     "taxon_ids": "1|47120|47158|47201|127740|174590",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Plasterer Bees|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Colletidae|Caupolicana",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -595,7 +556,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|52775",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|Bumble Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Bombus",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -610,7 +570,6 @@
     "taxon_ids": "1|47120|47158|47201|127740|||636890",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Plasterer Bees|||",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Colletidae|||Neopasiphaeinae",
-    "is_species": false,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -625,7 +584,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|||335660",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|||Chimney Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|||Emphorini",
-    "is_species": false,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -640,7 +598,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|252966",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Thygater",
-    "is_species": true,
     "observations_count": 1,
     "taxa_count": 1
   },
@@ -655,7 +612,6 @@
     "taxon_ids": "1|47120|47158|47201|47221",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae",
-    "is_species": false,
     "observations_count": 1,
     "taxa_count": 355
   },
@@ -670,7 +626,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|57678",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Lasioglossum",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 16
   },
@@ -685,7 +640,6 @@
     "taxon_ids": "1",
     "common_names": "Animals",
     "scientific_names": "Animalia",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 452
   },
@@ -700,7 +654,6 @@
     "taxon_ids": "1|47120|47158|47201",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 452
   },
@@ -715,7 +668,6 @@
     "taxon_ids": "1|47120|47158|47201|52777|57671",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Mason, Leafcutter, Carder, and Resin Bees|Carder Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Megachilidae|Anthidium",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 1
   },
@@ -730,7 +682,6 @@
     "taxon_ids": "1|47120|47158",
     "common_names": "Animals|Arthropods|Insects",
     "scientific_names": "Animalia|Arthropoda|Insecta",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 452
   },
@@ -745,7 +696,6 @@
     "taxon_ids": "1|47120|47158|47201|49707|82526",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Sweat Bees|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Halictidae|Augochlorella",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 1
   },
@@ -760,7 +710,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|252669",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Melitoma",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 7
   },
@@ -775,7 +724,6 @@
     "taxon_ids": "1|47120|47158|47201|52777",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Mason, Leafcutter, Carder, and Resin Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Megachilidae",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 11
   },
@@ -790,7 +738,6 @@
     "taxon_ids": "1|47120|47158|47201|127740",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Plasterer Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Colletidae",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 20
   },
@@ -805,7 +752,6 @@
     "taxon_ids": "1|47120",
     "common_names": "Animals|Arthropods",
     "scientific_names": "Animalia|Arthropoda",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 452
   },
@@ -820,7 +766,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|57682",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|Common Digger Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Anthophora",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 2
   },
@@ -835,7 +780,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|84751",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Eulaema",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 2
   },
@@ -850,7 +794,6 @@
     "taxon_ids": "1|47120|47158|47201|47221|47220",
     "common_names": "Animals|Arthropods|Insects|Ants, Bees, Wasps, and Sawflies|Honey Bees, Bumble Bees, and Allies|Honey Bees",
     "scientific_names": "Animalia|Arthropoda|Insecta|Hymenoptera|Apidae|Apis",
-    "is_species": null,
     "observations_count": 0,
     "taxa_count": 249
   }
