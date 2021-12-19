@@ -36,6 +36,7 @@ def add_row(row, rank, index):
         temp["image_url"] = row[rank + "_photo_url"]
 
     temp["rank"] = rank
+    temp["parent_id"] = row["parent_id"]
     temp["taxon_ids"] = ("|").join(row["taxon_ids"].split("|")[0 : index + 1])
     temp["common_names"] = ("|").join(row["common_names"].split("|")[0 : index + 1])
     temp["scientific_names"] = ("|").join(
@@ -54,6 +55,7 @@ def add_nonmain_row(row):
         "user_login",
         "image_url",
         "rank",
+        "parent_id",
         "taxon_ids",
         "common_names",
         "scientific_names",

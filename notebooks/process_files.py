@@ -71,6 +71,8 @@ def process_inat_data(json_data):
 
     if "ancestor_ids" in json_data and json_data["ancestor_ids"]:
         result["ancestor_ids"] = ",".join([str(id) for id in json_data["ancestor_ids"]])
+        
+    result['parent_id'] = json_data['parent_id']
 
     return result
 
