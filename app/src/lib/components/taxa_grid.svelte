@@ -1,5 +1,5 @@
 <script>
-  import { toTitleCase, pluralize } from '$lib/formatUtils';
+  import { toTitleCase, pluralize, formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let taxa;
   export let projectPath;
@@ -17,19 +17,22 @@
 </script>
 
 <div class="grid lg:grid-cols-4 md:grid-cols-3  sm:grid-cols-2 justify-center gap-3">
-  {#each taxaDisplay as { taxa_count, image_url, taxon_id, scientific_name, common_name }}
+  {#each taxaDisplay as taxon}
     <div class="image-card">
-      <a href="{projectPath}/taxa/{taxon_id}">
+      <a href="{projectPath}/taxa/{taxon.taxon_id}">
         <figure>
-          <img src={image_url} alt="photo of {common_name}" />
+          <img src={taxon.image_url} alt="photo of {taxon.common_name}" />
         </figure>
       </a>
 
       <div class="image-card-body">
-        <a href="{projectPath}/taxa/{taxon_id}">
-          {#if common_name}<div class="text-lg font-medium">{toTitleCase(common_name)}</div>{/if}
-          {#if scientific_name}<div class="text-gray-400">({scientific_name})</div>{/if}
-          <div>{pluralize('observation', taxa_count)}</div>
+        <a href="{projectPath}/taxa/{taxon.taxon_id}">
+          {#if taxon.common_name}<span class="text-lg font-medium"
+              >{toTitleCase(taxon.common_name)}</span
+            >{/if}
+          {#if taxon.scientific_name}<span class="text-gray-400">({taxon.scientific_name})</span
+            >{/if}
+          <div>{pluralize('observation', taxon.taxa_count)}</div>
         </a>
       </div>
     </div>

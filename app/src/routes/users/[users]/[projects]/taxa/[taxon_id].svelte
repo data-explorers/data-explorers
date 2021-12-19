@@ -50,6 +50,7 @@
   import TaxaMedia from '$lib/components/taxa_media.svelte';
   import { defaultColorScheme } from '$lib/mapUtils';
   import Loader from '$lib/components/loader.svelte';
+  import { toTitleCase, pluralize, formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let taxon;
   export let user;
@@ -104,9 +105,9 @@
 
 <div class="prose max-w-none">
   <h1>
-    {#if taxon.common_name}{taxon.common_name}{/if}
+    {#if taxon.common_name}{toTitleCase(taxon.common_name)}{/if}
     {#if taxon.scientific_name}
-      <span class="text-2xl text-gray-400">({taxon.scientific_name})</span>
+      <span class="text-2xl text-gray-400 font-normal">({taxon.scientific_name})</span>
     {/if}
   </h1>
 

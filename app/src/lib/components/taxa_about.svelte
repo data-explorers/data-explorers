@@ -1,6 +1,6 @@
 <script>
   import GlobiList from '$lib/components/globi_list.svelte';
-  import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
   import { onMount } from 'svelte';
 
   export let project;
@@ -57,7 +57,7 @@
   });
 </script>
 
-<div class="prose">
+<div class="prose max-w-none">
   <h3>Description</h3>
 
   <p>
@@ -72,18 +72,6 @@
     voluptate duis ex mollit deserunt duis cupidatat tempor sint. Velit ea ipsum est exercitation
     excepteur laboris id.
   </p>
-
-  <h3>Taxonomy</h3>
-
-  {#each displayTaxonomy(taxon) as level}
-    <div>
-      {level.taxon_rank}: <a href="{projectPath}/taxa/{level.taxon_id}">{level.taxon_name}</a>
-    </div>
-  {/each}
-
-  <h3>iNaturalist Observations</h3>
-
-  <svelte:component this={RangeMap} {taxon} {project} />
 
   <h3>Native Status</h3>
 
@@ -102,21 +90,39 @@
     excepteur laboris id.
   </p>
 
-  <h3>Related Species</h3>
+  <h3>iNaturalist Observations</h3>
+
+  <svelte:component this={RangeMap} {taxon} {project} />
+
+  <h3>Taxonomy</h3>
+
+  {#each displayTaxonomy(taxon) as level}
+    <div>
+      {level.taxon_rank}: <a href="{projectPath}/taxa/{level.taxon_id}">{level.taxon_name}</a>
+    </div>
+  {/each}
+
+  <h3>Species Interactions</h3>
 
   <p>
-    Related species data comes from <a
+    Species interaction data comes from <a
       href="https://www.globalbioticinteractions.org/?interactionType=interactsWith&sourceTaxon={taxon.scientific_name}"
       >GloBI</a
     >.
   </p>
 
-  <GlobiList interactionTaxa={eatsTaxa} title="Eats" />
-  <GlobiList interactionTaxa={eatenByTaxa} title="Eaten by" />
-  <GlobiList interactionTaxa={pollinatesTaxa} title="Pollinates" />
-  <GlobiList interactionTaxa={pollinatedByTaxa} title="Pollinated by" />
-  <GlobiList interactionTaxa={preysOnTaxa} title="Preys on" />
-  <GlobiList interactionTaxa={preyedUponByTaxa} title="Preyed upon by" />
+  <div class="grid  md:grid-cols-2  sm:grid-cols-1 justify-center gap-3">
+    <div>
+      <GlobiList interactionTaxa={eatsTaxa} title="Eats" />
+      <GlobiList interactionTaxa={preysOnTaxa} title="Preys on" />
+      <GlobiList interactionTaxa={pollinatesTaxa} title="Pollinates" />
+    </div>
+    <div>
+      <GlobiList interactionTaxa={eatenByTaxa} title="Eaten by" />
+      <GlobiList interactionTaxa={preyedUponByTaxa} title="Preyed upon by" />
+      <GlobiList interactionTaxa={pollinatedByTaxa} title="Pollinated by" />
+    </div>
+  </div>
 
   <h3>More Information</h3>
   <a href="https://www.inaturalist.org/taxa/{taxon.taxon_id}">iNaturalist taxa</a>

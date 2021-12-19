@@ -1,7 +1,7 @@
 export function formatTaxonDisplayName(taxon, includeStyle) {
   let fullName = [];
   if (taxon.common_name) {
-    fullName.push(taxon.common_name);
+    fullName.push(toTitleCase(taxon.common_name));
   }
   if (taxon.scientific_name) {
     if (includeStyle) {

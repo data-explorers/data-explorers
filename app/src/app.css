@@ -30,6 +30,10 @@ footer {
   @apply underline;
 }
 
+.tab {
+  @apply text-base;
+}
+
 .prose h1:first-child {
   margin-top: 2rem;
 }
@@ -97,10 +101,9 @@ footer {
   padding: 1em;
 }
 
-.image-card .image-card-body a:hover > * {
-  opacity: 0.5;
+.image-card:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
 }
-
 .image-card img {
   height: 225px;
   object-fit: cover;
