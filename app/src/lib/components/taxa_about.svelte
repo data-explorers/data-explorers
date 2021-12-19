@@ -2,11 +2,14 @@
   import GlobiList from '$lib/components/globi_list.svelte';
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
   import { onMount } from 'svelte';
+  import TaxaObservedSpecies from '$lib/components/taxa_observed_species.svelte';
 
   export let project;
   export let taxon;
   export let interactions;
   export let projectPath;
+  export let observations;
+  export let taxa;
 
   $: eatsTaxa = interactions.filter((i) => i.interaction === 'eats');
   $: eatenByTaxa = interactions.filter((i) => i.interaction === 'eatenBy');
@@ -101,6 +104,8 @@
       {level.taxon_rank}: <a href="{projectPath}/taxa/{level.taxon_id}">{level.taxon_name}</a>
     </div>
   {/each}
+
+  <TaxaObservedSpecies {observations} {taxon} {projectPath} {taxa} />
 
   <h3>Species Interactions</h3>
 
