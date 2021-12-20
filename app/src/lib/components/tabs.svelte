@@ -8,9 +8,9 @@
   };
 </script>
 
-<div class="tabs my-4">
+<div class="tabs my-6 border-b-2">
   {#each tabs as tab}
-    <div class="tab tab-bordered" class:tab-active={activeTabValue === tab.value}>
+    <div class="tab" class:tab-active={activeTabValue === tab.value}>
       <span on:click={handleClick(tab.value)}>{tab.label}</span>
     </div>
   {/each}
@@ -22,3 +22,9 @@
     </div>
   {/if}
 {/each}
+
+<style>
+  .tab-active {
+    @apply font-bold;
+  }
+</style>

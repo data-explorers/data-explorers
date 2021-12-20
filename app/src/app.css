@@ -44,7 +44,7 @@ footer {
 
 .hero {
   padding: 0.5em;
-  margin: 1em 0;
+  margin: 0;
   display: grid;
   place-items: start;
   min-height: 150px;
