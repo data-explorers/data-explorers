@@ -3,12 +3,12 @@
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
   import { onMount } from 'svelte';
   import TaxaObservedSpecies from '$lib/components/taxa_observed_species.svelte';
+  import ChildTaxa from '$lib/components/taxa_child_taxa.svelte';
 
   export let project;
   export let taxon;
   export let interactions;
   export let projectPath;
-  export let observations;
   export let taxa;
 
   $: eatsTaxa = interactions.filter((i) => i.interaction === 'eats');
@@ -98,14 +98,18 @@
   <svelte:component this={RangeMap} {taxon} {project} />
 
   <h3>Taxonomy</h3>
+  <ul class="taxonomy">
+    {#each displayTaxonomy(taxon) as level}
+      <li class:active={taxon.taxon_id == level.taxon_id}>
+        {level.taxon_rank}: <a href="{projectPath}/taxa/{level.taxon_id}">{level.taxon_name}</a>
+      </li>
+    {/each}
+    <li>
+      <ChildTaxa {taxon} {projectPath} {taxa} />
+    </li>
+  </ul>
 
-  {#each displayTaxonomy(taxon) as level}
-    <div>
-      {level.taxon_rank}: <a href="{projectPath}/taxa/{level.taxon_id}">{level.taxon_name}</a>
-    </div>
-  {/each}
-
-  <TaxaObservedSpecies {observations} {taxon} {projectPath} {taxa} />
+  <TaxaObservedSpecies {taxon} {projectPath} {taxa} />
 
   <h3>Species Interactions</h3>
 
@@ -116,7 +120,7 @@
     >.
   </p>
 
-  <div class="grid  md:grid-cols-2  sm:grid-cols-1 justify-center gap-3">
+  <div class="grid md:grid-cols-2 sm:grid-cols-1 justify-center gap-3">
     <div>
       <GlobiList interactionTaxa={eatsTaxa} title="Eats" />
       <GlobiList interactionTaxa={preysOnTaxa} title="Preys on" />
@@ -132,3 +136,50 @@
   <h3>More Information</h3>
   <a href="https://www.inaturalist.org/taxa/{taxon.taxon_id}">iNaturalist taxa</a>
 </div>
+
+<style>
+  :root {
+    --step: 1rem;
+  }
+
+  .taxonomy li {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .taxonomy .active,
+  .taxonomy .active a {
+    font-weight: 700;
+  }
+  .taxonomy li:nth-child(1) {
+    margin-left: calc(var(--step) * 0);
+  }
+  .taxonomy li:nth-child(2) {
+    margin-left: calc(var(--step) * 1);
+  }
+  .taxonomy li:nth-child(3) {
+    margin-left: calc(var(--step) * 2);
+  }
+  .taxonomy li:nth-child(4) {
+    margin-left: calc(var(--step) * 3);
+  }
+  .taxonomy li:nth-child(5) {
+    margin-left: calc(var(--step) * 4);
+  }
+  .taxonomy li:nth-child(6) {
+    margin-left: calc(var(--step) * 5);
+  }
+  .taxonomy li:nth-child(7) {
+    margin-left: calc(var(--step) * 6);
+  }
+  .taxonomy li:nth-child(8) {
+    margin-left: calc(var(--step) * 7);
+  }
+
+  .prose ul > li::before {
+    content: none;
+  }
+  .prose ul > li {
+    position: normal;
+    padding-left: 0;
+  }
+</style>

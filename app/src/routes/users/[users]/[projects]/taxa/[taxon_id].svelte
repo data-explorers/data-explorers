@@ -35,7 +35,8 @@
         project,
         observations,
         interactions,
-        projectPath
+        projectPath,
+        taxa
       }
     };
   }
@@ -58,6 +59,7 @@
   export let observations;
   export let interactions;
   export let projectPath;
+  export let taxa;
 
   let loading = true;
 
@@ -75,7 +77,7 @@
     return {
       TaxaAbout: {
         component: TaxaAbout,
-        props: { project, taxon, interactions, projectPath, observations }
+        props: { project, taxon, interactions, projectPath, taxa }
       },
       TaxaImages: { component: TaxaImages, props: { observations } },
       TaxaMedia: { component: TaxaMedia, props: {} }

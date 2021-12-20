@@ -2,7 +2,6 @@
   import { speciesRanks } from '$lib/data/constants';
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
 
-  export let observations;
   export let taxon;
   export let projectPath;
   export let taxa;
@@ -10,48 +9,26 @@
   let page = 1;
   let limit = 20;
 
-  $: observedTaxa = getObservedTaxa(observations);
-  $: observedTaxaDisplay = observedTaxa.slice(0, page * limit);
-  $: showLoadMore = page * limit < observedTaxa.length;
+  $: observedSpecies = getObservedSpecies(taxa, taxon);
+  $: observedSpeciesDisplay = observedSpecies.slice(0, page * limit);
+  $: showLoadMore = page * limit < observedSpecies.length;
 
-  function getObservedTaxa(observations) {
-    let taxaObj = {};
-    let ids = [];
-
-    // get unique species from all the observations
-    observations
-      .filter((o) => speciesRanks.includes(o.rank))
-      .forEach((o) => {
-        if (!ids.includes(o.taxon_id)) {
-          // create new taxon object
-          taxaObj[o.taxon_id] = {
-            count: 1,
-            taxon_id: o.taxon_id,
-            name: formatTaxonDisplayName(o, true),
-            image_url: o.image_url
-              ? o.image_url.replace('medium', 'square')
-              : '/images/missing-image.png'
-          };
-        } else {
-          // increment count of existing taxon object
-          taxaObj[o.taxon_id]['count'] += 1;
-        }
-        ids.push(o.taxon_id);
-      });
-
-    return Object.values(taxaObj).sort((a, b) => b.count - a.count);
+  function getObservedSpecies(taxa, taxon) {
+    return taxa
+      .filter((t) => speciesRanks.includes(t.rank))
+      .filter((t) => t.taxon_ids.split('|').includes('' + taxon.taxon_id));
   }
 
   function loadMore() {
     page = page + 1;
-    observedTaxaDisplay = observedTaxa.slice(0, page * limit);
+    observedSpeciesDisplay = observedSpecies.slice(0, page * limit);
   }
 </script>
 
-{#if observedTaxa.length > 1}
-  <h3>{observedTaxa.length} Observed species for {formatTaxonDisplayName(taxon)}</h3>
+{#if observedSpecies.length > 1}
+  <h3>{observedSpecies.length} Observed species for {formatTaxonDisplayName(taxon)}</h3>
   <div class="grid md:grid-cols-2  sm:grid-cols-1 gap-2">
-    {#each observedTaxaDisplay as taxon}
+    {#each observedSpeciesDisplay as taxon}
       <div class="image-card-side">
         <a href="{projectPath}/taxa/{taxon.taxon_id}">
           <figure>
@@ -61,8 +38,8 @@
 
         <div class="image-card-side-body">
           <a href="{projectPath}/taxa/{taxon.taxon_id}">
-            {@html taxon.name}<br />
-            {pluralize('observation', taxon.count)}
+            {@html formatTaxonDisplayName(taxon)}<br />
+            {pluralize('observation', taxon.taxa_count)}
           </a>
         </div>
       </div>
@@ -97,14 +74,12 @@
   .image-card-side figure,
   .image-card-side figure > * {
     width: 100%;
-    background-color: red;
   }
 
   .image-card-side img {
-    /* object-fit: cover; */
-
+    object-fit: cover;
+    max-height: 75px;
     max-width: 75px;
-    background-color: red;
   }
 
   .image-card-side-body {
@@ -116,7 +91,5 @@
     width: 100%;
     display: inline-block;
     height: 100%;
-    /* line-height: 1.4; */
-    /* background-color: red; */
   }
 </style>
