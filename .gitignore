@@ -6,3 +6,4 @@ package
 .env
 .ipynb_checkpoints
 notebooks/temp
+*.code-workspace
