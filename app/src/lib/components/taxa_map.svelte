@@ -80,6 +80,8 @@
     if (coordinates.length > 0) {
       leafletMap.getMap().fitBounds(coordinates);
       dispatch('doneLoading');
+    } else {
+      dispatch('doneLoading');
     }
 
     leafletMap.getMap().on('zoomend', function () {
