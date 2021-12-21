@@ -2,7 +2,6 @@
   import 'leaflet/dist/leaflet.css';
   import { onMount } from 'svelte';
   import { LeafletMap, TileLayer, CircleMarker, Rectangle } from 'svelte-leafletjs';
-  import Popup from '$lib/components/map_popup_observation.svelte';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
   import { createEventDispatcher } from 'svelte';
 
@@ -58,6 +57,9 @@
     observations = observations;
   }
 
+  function handleMarkerClick(e, obs) {
+    dispatch('markerClick', { observation_id: obs.id, latlng: e.detail.latlng });
+  }
   // =====================
   // map
   // =====================
@@ -101,13 +103,13 @@
     {#if Array.isArray(groupedObservations)}
       {#each groupedObservations as obs}
         <CircleMarker
+          events={['click']}
+          on:click={(e) => handleMarkerClick(e, obs)}
           latLng={[obs.latitude, obs.longitude]}
           radius={circleRadius}
           color={mapOptions.defaultColor}
           fillColor={mapOptions.defaultColor}
-        >
-          <Popup observation={obs} />
-        </CircleMarker>
+        />
       {/each}
 
       <!-- display observations as circles by year -->
@@ -116,6 +118,8 @@
         {#if timeSpanHistory[year]}
           {#each observations as obs}
             <CircleMarker
+              events={['click']}
+              on:click={(e) => handleMarkerClick(e, obs)}
               latLng={[obs.latitude, obs.longitude]}
               radius={circleRadius}
               color={mapOptions.colorSchemeYear[modulo(year, mapOptions.colorSchemeYear.length)] ||
@@ -123,9 +127,7 @@
               fillColor={mapOptions.colorSchemeYear[
                 modulo(year, mapOptions.colorSchemeYear.length)
               ] || mapOptions.defaultColor}
-            >
-              <Popup observation={obs} />
-            </CircleMarker>
+            />
           {/each}
         {/if}
       {/each}
@@ -137,24 +139,24 @@
           {#each observations as obs}
             {#if coldMonths.includes(obs.month + 1)}
               <CircleMarker
+                events={['click']}
+                on:click={(e) => handleMarkerClick(e, obs)}
                 latLng={[obs.latitude, obs.longitude]}
                 radius={circleRadius}
                 color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
                 fillColor={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
-              >
-                <Popup observation={obs} />
-              </CircleMarker>
+              />
             {:else}
               <Rectangle
+                events={['click']}
+                on:click={(e) => handleMarkerClick(e, obs)}
                 latLngBounds={[
                   [obs.latitude - rectangleLatitude, obs.longitude - rectangleLongitude],
                   [obs.latitude + rectangleLatitude, obs.longitude + rectangleLongitude]
                 ]}
                 color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
                 fillColor={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
-              >
-                <Popup observation={obs} />
-              </Rectangle>
+              />
             {/if}
           {/each}
         {/if}

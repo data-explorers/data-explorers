@@ -51,7 +51,8 @@
   import TaxaMedia from '$lib/components/taxa_media.svelte';
   import { defaultColorScheme } from '$lib/mapUtils';
   import Loader from '$lib/components/loader.svelte';
-  import { toTitleCase, pluralize, formatTaxonDisplayName } from '$lib/formatUtils';
+  import { toTitleCase } from '$lib/formatUtils';
+  import ObservationBasic from '$lib/components/observation_basic.svelte';
 
   export let taxon;
   export let user;
@@ -62,6 +63,7 @@
   export let taxa;
 
   let loading = true;
+  $: observationDisplay = observations.filter((o) => o.id === taxon.id)[0];
 
   let mapOptions = {
     ...defaultColorScheme,
@@ -72,6 +74,10 @@
     center: [project.latitude || 0, project.longitude || 0],
     preferCanvas: true
   };
+
+  function changeObservation(e) {
+    observationDisplay = observations.filter((o) => o.id === e.detail.observation_id)[0];
+  }
 
   function tabsMetadata() {
     return {
@@ -116,12 +122,7 @@
   <h3>{observations.length} {observations.length === 1 ? 'observation' : 'observations'}</h3>
 
   <div class="grid md:grid-cols-2 gap-3">
-    <div>
-      {#if taxon.image_url}
-        <img src={taxon.image_url} alt="image of {taxon.scientific_name}" />
-      {/if}
-      <b>Observer</b>: {taxon.user_login}
-    </div>
+    <ObservationBasic observation={observationDisplay} />
 
     <div class="relative">
       {#if loading}
@@ -132,6 +133,7 @@
         {mapOptions}
         {observations}
         on:doneLoading={() => (loading = false)}
+        on:markerClick={changeObservation}
       />
     </div>
   </div>
