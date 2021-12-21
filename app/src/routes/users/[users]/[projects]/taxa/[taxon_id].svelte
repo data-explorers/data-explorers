@@ -85,7 +85,7 @@
         component: TaxaAbout,
         props: { project, taxon, interactions, projectPath, taxa }
       },
-      TaxaImages: { component: TaxaImages, props: { observations } },
+      TaxaImages: { component: TaxaImages, props: { observations, projectPath } },
       TaxaMedia: { component: TaxaMedia, props: {} }
     };
   }

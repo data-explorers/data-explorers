@@ -1,13 +1,18 @@
 <script>
-  export let observations;
   import TaxaImagesItem from '$lib/components/taxa_images_item.svelte';
   import { getMonthName } from '$lib/mapUtils';
   import { sortObservations, createGroupObservations } from '$lib/dataUtils';
+  import ObservationModal from '$lib/components/observation_modal.svelte';
+
+  export let observations;
+  export let projectPath;
 
   let page = 1;
   let limit = 24;
   let timeSpanValue = 'all';
   let orderByValue = 'newest';
+  let modalOpen = false;
+  let observationDisplay = {};
 
   // Use Map objects in #each blocks https://github.com/sveltejs/svelte/issues/5021
 
@@ -15,6 +20,7 @@
   $: observations = sortObservations(observations, orderByValue, timeSpanValue);
   $: observationsDisplay = observations.slice(0, page * limit);
   $: groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
+  $: observationsDisplayIds = observationsDisplay.map((o) => o.id);
 
   function loadMore() {
     page = page + 1;
@@ -33,6 +39,29 @@
     observations = sortObservations(observations, orderByValue, timeSpanValue);
     observationsDisplay = observations.slice(0, page * limit);
     groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
+  }
+
+  function changeObservation(e) {
+    modalOpen = true;
+    observationDisplay = observations.filter((o) => o.id === e.detail.observation_id)[0];
+  }
+
+  function prevSlide(e) {
+    let currentIndex = observationsDisplayIds.indexOf(e.detail.observation_id);
+    if (currentIndex === 0) {
+      observationDisplay = observationsDisplay[observationsDisplay.length - 1];
+    } else {
+      observationDisplay = observationsDisplay[currentIndex - 1];
+    }
+  }
+
+  function nextSlide(e) {
+    let currentIndex = observationsDisplayIds.indexOf(e.detail.observation_id);
+    if (currentIndex === observationsDisplay.length - 1) {
+      observationDisplay = observationsDisplay[0];
+    } else {
+      observationDisplay = observationsDisplay[currentIndex + 1];
+    }
   }
 
   $: showLoadMore = page * limit < observations.length;
@@ -76,7 +105,7 @@
   {#if Array.isArray(groupedObservations)}
     <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-3  items-end ">
       {#each groupedObservations as observation}
-        <TaxaImagesItem {observation} />
+        <TaxaImagesItem {observation} on:thumbnailClick={changeObservation} />
       {/each}
     </div>
   {:else}
@@ -96,3 +125,16 @@
     <button class="btn" class:hidden={!showLoadMore} on:click={loadMore}>Load More</button>
   </div>
 </div>
+
+{#if modalOpen}
+  <ObservationModal
+    on:prevClick={prevSlide}
+    on:nextClick={nextSlide}
+    on:click={() => (modalOpen = false)}
+    on:closeModal={() => (modalOpen = false)}
+    on:changeTaxon={() => (modalOpen = false)}
+    observation={observationDisplay}
+    observationsIds={observationsDisplayIds}
+    {projectPath}
+  />
+{/if}
