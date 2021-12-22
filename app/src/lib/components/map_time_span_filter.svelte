@@ -32,70 +32,70 @@
 {:else if mapOptions.observationsTimeSpan === 'month'}
   <div class="map-legend mt-2">
     {#each [...groupedObservations] as [month, obs]}
-      <div class="mr-3 inline">
-        <a
-          class="whitespace-nowrap"
-          href="#{month}"
-          class:active={timeSpanHistory[month]}
-          on:click|preventDefault={toggleTimeSpans}
-        >
-          {#if mapOptions.monthSeasonalMarkers}
-            {#if coldMonths.includes(month + 1)}
-              <CircleIcon
-                value={month}
-                color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
-              />
-              <span data-filter={month}>{getMonthName(month)}</span>
-            {:else}
-              <RectangleIcon
-                value={month}
-                color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
-              />
-              <span data-filter={month}>{getMonthName(month)}</span>
-            {/if}
-          {:else}
+      <div
+        class="mr-4 inline-block filter"
+        class:active={timeSpanHistory[month]}
+        on:click={toggleTimeSpans}
+        data-filter={month}
+      >
+        {#if mapOptions.monthSeasonalMarkers}
+          {#if coldMonths.includes(month + 1)}
             <CircleIcon
               value={month}
+              cursorPointer={true}
+              color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
+            />
+            <span data-filter={month}>{getMonthName(month)}</span>
+          {:else}
+            <RectangleIcon
+              value={month}
+              cursorPointer={true}
               color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
             />
             <span data-filter={month}>{getMonthName(month)}</span>
           {/if}
-        </a>
+        {:else}
+          <CircleIcon
+            value={month}
+            cursorPointer={true}
+            color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
+          />
+          <span data-filter={month}>{getMonthName(month)}</span>
+        {/if}
       </div>
     {/each}
   </div>
 {:else if mapOptions.observationsTimeSpan === 'year'}
   <div class="map-legend mt-2">
     {#each [...groupedObservations] as [year, obs]}
-      <div class="mr-3 inline">
-        <a
-          class="whitespace-nowrap"
-          href="#{year}"
-          class:active={timeSpanHistory[year]}
-          on:click|preventDefault={toggleTimeSpans}
-        >
-          {#if year === 'unknown'}
-            <CircleIcon value={year} color={mapOptions.defaultColor} />
-            <span data-filter={year}>{year}</span>
-          {:else}
-            <CircleIcon
-              value={year}
-              color={mapOptions.colorSchemeYear[modulo(year, mapOptions.colorSchemeYear.length)]}
-            />
-            <span data-filter={year}>{year}</span>
-          {/if}
-        </a>
+      <div
+        class="mr-4 inline-block filter"
+        class:active={timeSpanHistory[year]}
+        on:click={toggleTimeSpans}
+        data-filter={year}
+      >
+        {#if year === 'unknown'}
+          <CircleIcon value={year} color={mapOptions.defaultColor} cursorPointer={true} />
+          <span data-filter={year}>{year}</span>
+        {:else}
+          <CircleIcon
+            value={year}
+            cursorPointer={true}
+            color={mapOptions.colorSchemeYear[modulo(year, mapOptions.colorSchemeYear.length)]}
+          />
+          <span data-filter={year}>{year}</span>
+        {/if}
       </div>
     {/each}
   </div>
 {/if}
 
 <style>
-  .map-legend a {
+  .filter {
     opacity: 0.4;
-    text-decoration: none;
+    cursor: pointer;
   }
-  .map-legend a.active {
+  .filter.active {
     opacity: 1;
   }
 </style>
