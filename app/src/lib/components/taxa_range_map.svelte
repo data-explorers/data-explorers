@@ -1,6 +1,6 @@
 <script>
   import 'leaflet/dist/leaflet.css';
-  import { LeafletMap, TileLayer, Marker } from 'svelte-leafletjs';
+  import { LeafletMap, TileLayer } from 'svelte-leafletjs';
   import { tileLayerOptions, getMapTiles } from '$lib/mapUtils';
 
   export let taxon;
@@ -18,11 +18,6 @@
 
   let inatGrid = tiles.inatGrid;
   let inatGridOptions = { ...tileLayerOptions, attribution: inatGrid.attribution };
-  let inatPoint = tiles.inatPoint;
-  let inatPointOptions = { ...tileLayerOptions, attribution: inatPoint.attribution };
-
-  let inatRange = tiles.inatTaxonRange;
-  let inatRangeOptions = { ...tileLayerOptions, attribution: inatRange.attribution };
 </script>
 
 <div style="width: 65%; height: 400px;">

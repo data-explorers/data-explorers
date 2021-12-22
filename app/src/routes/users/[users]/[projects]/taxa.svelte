@@ -78,13 +78,6 @@
     display: inline-flex;
     flex-direction: row;
   }
-  .submenu a {
-    text-decoration: none;
-  }
-
-  .submenu a:hover {
-    opacity: 0.5;
-  }
 
   .submenu .active {
     --tw-border-opacity: 1;
