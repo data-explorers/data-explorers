@@ -132,26 +132,35 @@ export const getMapTiles = (taxonID) => {
       url: 'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
       attribution:
         '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    },
+    stamenTonerLight: {
+      url: 'https://stamen-tiles.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png',
+      attribution:
+        'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    },
+    stamenTerrain: {
+      url: 'https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg',
+      attribution:
+        'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    },
+    stamenWatercolor: {
+      url: 'https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg',
+      attribution:
+        'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }
   };
 };
 
 // https://forum.inaturalist.org/t/in-pursuit-of-mappiness-part-1/21864
-// export const tileUrl = 'https://api.inaturalist.org/v1/taxon_ranges/42069/{z}/{x}/{y}.png'
-// export const tileUrl = 'https://api.inaturalist.org/v1/grid/{z}/{x}/{y}.png?taxon_id=42069'
 
-export const tileUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-let attribution = '© OpenStreetMap contributors';
-
-// export const tileUrl = 'https://a.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png';
-// export const tileUrl = 'https://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png';
-// export const tileUrl = 'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png';
-// let attribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+let defaultMap = getMapTiles().osm;
+export const tileUrl = defaultMap.url;
 
 export const tileLayerOptions = {
   minZoom: 0,
   maxZoom: 20,
-  maxNativeZoom: 19
+  maxNativeZoom: 19,
+  attribution: defaultMap.attribution
 };
 
 export let defaultColorScheme = {
