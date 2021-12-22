@@ -46,6 +46,7 @@
   export let allObservations;
   export let taxa;
   export let projectPath;
+
   let observations = [];
   let item = '';
   let taxaHistory = []; // all selected taxa
@@ -86,13 +87,13 @@
   // type ahead select
   // =====================
 
-  function handleSelect(event) {
-    if (!event || !event.label) return;
+  function handleSelect(taxon) {
+    if (!taxon || !taxon.label) return;
     showDemoSpeciesPrompt = false;
     showIndicatorSpeciesPrompt = false;
 
     // prevent adding same taxon twice
-    if (taxaHistory.filter((t) => t.taxonId == event.id).length > 0) {
+    if (taxaHistory.filter((t) => t.taxon_id == taxon.taxon_id).length > 0) {
       return;
     }
     taxaCount += 1;
@@ -101,7 +102,7 @@
     // the observations is called.
     loading = true;
     setTimeout(() => {
-      displayObservationsForTaxon(event.label, event.id);
+      displayObservationsForTaxon(taxon);
     }, 100);
   }
 
@@ -115,6 +116,8 @@
   // data
   // =====================
 
+  // loadDemoSpecies();
+
   function loadDemoSpecies() {
     showDemoSpeciesPrompt = false;
 
@@ -122,12 +125,12 @@
       .filter((t) => t.rank === 'species')
       .slice(0, 3)
       .forEach((taxon) => {
-        if (taxaHistory.filter((t) => t.taxonId == taxon.taxon_id).length > 0) {
+        if (taxaHistory.filter((t) => t.taxon_id == taxon.taxon_id).length > 0) {
           return;
         }
         taxaCount += 1;
 
-        displayObservationsForTaxon(formatTaxonDisplayName(taxon), taxon.taxon_id);
+        displayObservationsForTaxon(taxon);
       });
   }
 
@@ -137,21 +140,21 @@
     taxa
       .filter((t) => t.taxon_group && t.observations_count > 0)
       .forEach((taxon) => {
-        if (taxaHistory.filter((t) => t.taxonId == taxon.taxon_id).length > 0) {
+        if (taxaHistory.filter((t) => t.taxon_id == taxon.taxon_id).length > 0) {
           return;
         }
         taxaCount += 1;
 
-        displayObservationsForTaxon(formatTaxonDisplayName(taxon), taxon.taxon_id);
+        displayObservationsForTaxon(taxon);
       });
   }
 
-  function displayObservationsForTaxon(taxonName, taxonId) {
+  function displayObservationsForTaxon(taxon) {
     let index = modulo(taxaCount, mapOptions.colorScheme.length);
 
     let selectedObservations = fecthObservationsByTaxonId(
       allObservations,
-      taxonId,
+      taxon.taxon_id,
       mapOptions.colorScheme[index]
     );
 
@@ -162,8 +165,10 @@
 
     // update filters
     taxaHistory = taxaHistory.concat({
-      taxonName,
-      taxonId,
+      taxon_name: formatTaxonDisplayName(taxon),
+      image_url: taxon.image_url,
+      taxa_count: taxon.taxa_count,
+      taxon_id: taxon.taxon_id,
       color: mapOptions.colorScheme[index],
       active: true,
       observations: selectedObservations
@@ -181,10 +186,10 @@
 
     // update filters & observations
     taxaHistory = taxaHistory.filter((t) => {
-      if (t.taxonId !== taxonId && t.active) {
+      if (t.taxon_id !== taxonId && t.active) {
         observations = observations.concat(t.observations);
       }
-      return t.taxonId !== taxonId;
+      return t.taxon_id !== taxonId;
     });
 
     // update observations
@@ -198,13 +203,16 @@
   }
 
   function toggleTaxon(e) {
-    let taxonId = Number(e.target.dataset['taxonId']);
+    let taxonId = Number(e.target.dataset['filter']);
+    if (!taxonId) {
+      return;
+    }
 
     // update filters
     let currentlyActive = true;
     loading = true;
     taxaHistory = taxaHistory.map((t) => {
-      if (t.taxonId === taxonId) {
+      if (t.taxon_id === taxonId) {
         currentlyActive = !t.active;
         return { ...t, active: !t.active };
       } else {
@@ -215,13 +223,13 @@
     // add observations
     if (currentlyActive) {
       observations = observations.concat(
-        taxaHistory.filter((t) => t.taxonId === taxonId)[0]['observations']
+        taxaHistory.filter((t) => t.taxon_id === taxonId)[0]['observations']
       );
       // remove observations
     } else {
       observations = [];
       taxaHistory.forEach((t) => {
-        if (t.taxonId !== taxonId && t.active) {
+        if (t.taxon_id !== taxonId && t.active) {
           observations = observations.concat(t.observations);
         }
       });
@@ -270,9 +278,9 @@
     Map = comp.default;
   });
   $: basicTaxaHistory = taxaHistory.map((t) => ({
-    taxonName: t.taxonName,
+    taxonName: t.taxon_name,
     color: t.color,
-    taxonId: t.taxonId,
+    taxonId: t.taxon_id,
     active: t.active
   }));
 
@@ -300,7 +308,7 @@
           searchFunction={loadOptions}
           onChange={handleSelect}
           labelFieldName="label"
-          valueFieldName="id"
+          valueFieldName="taxon_id"
           placeholder="Search species name"
           bind:selectedItem={item}
         />
@@ -320,9 +328,11 @@
         </label>
       {/if}
 
-      {#each taxaHistory as taxon (taxon.taxonId)}
-        <TaxonFilter {taxon} {toggleTaxon} {removeTaxon} {projectPath} />
-      {/each}
+      <div class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2">
+        {#each taxaHistory as taxon (taxon.taxon_id)}
+          <TaxonFilter {taxon} {toggleTaxon} {removeTaxon} {projectPath} />
+        {/each}
+      </div>
 
       {#if taxaHistory.length > 0}
         <TimeSpanFilters
@@ -377,6 +387,7 @@
         {timeSpanHistory}
         {showDemoMapLayer}
         {taxaHistory}
+        {projectPath}
       />
     </div>
   </div>

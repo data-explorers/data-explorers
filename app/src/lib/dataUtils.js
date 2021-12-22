@@ -20,7 +20,7 @@ export const fetchTaxaByName = (taxa, keyword) => {
             common_name: taxon.common_name,
             scientific_name: taxon.scientific_name,
             taxa_count: taxon.taxa_count,
-            observations_count: taxon.observations_count
+            image_url: taxon.image_url
           });
           selectedIds.push(taxon.taxon_id);
         }
@@ -39,7 +39,7 @@ export const fetchTaxaByName = (taxa, keyword) => {
             common_name: taxon.common_name,
             scientific_name: taxon.scientific_name,
             taxa_count: taxon.taxa_count,
-            observations_count: taxon.observations_count
+            image_url: taxon.image_url
           });
           selectedIds.push(taxon.taxon_id);
         }
@@ -51,10 +51,10 @@ export const fetchTaxaByName = (taxa, keyword) => {
     );
 
     // create data for suggestion menu
-    results = results.map((t) => {
+    results = results.map((taxon) => {
       return {
-        id: t.taxon_id,
-        label: formatTaxonDisplayName(t)
+        ...taxon,
+        label: formatTaxonDisplayName(taxon)
       };
     });
 

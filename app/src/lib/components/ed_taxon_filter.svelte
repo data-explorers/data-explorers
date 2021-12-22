@@ -7,30 +7,84 @@
   export let toggleTaxon;
   export let removeTaxon;
   export let projectPath;
+
+  $: toggleText = taxon.active ? 'click to hide species' : 'click to show species';
 </script>
 
-<div class="border p-1 mb-2 relative">
-  <label class="cursor-pointer inline-block">
-    <input type="checkbox" checked="checked" data-taxon-id={taxon.taxonId} on:click={toggleTaxon} />
-    <CircleIcon color={taxon.color} />
-    <span>{taxon.taxonName}, {pluralize('observation', taxon.observations.length)}</span>
-  </label><br />
-  <a href="{projectPath}/taxa/{taxon.taxonId}">More Info</a>
-  <button class="absolute" data-taxon-id={taxon.taxonId} on:click={removeTaxon}>
-    <XIcon value={taxon.taxonId} />
+<div class="border relative filter" class:active={taxon.active}>
+  <div class="image-card-side">
+    <figure>
+      {#if taxon.image_url}
+        <img src={taxon.image_url.replace('medium', 'square')} alt="photo of {taxon.taxon_name}" />
+      {:else}
+        <img src="/images/missing-image.png" alt="" />
+      {/if}
+    </figure>
+
+    <div class="image-card-side-body " data-filter={taxon.taxon_id}>
+      <div class="leading-normal">
+        <CircleIcon
+          clickHandler={toggleTaxon}
+          cursorPointer={true}
+          value={taxon.taxon_id}
+          color={taxon.color}
+        />
+        <span
+          class="cursor-pointer"
+          title={toggleText}
+          on:click={toggleTaxon}
+          data-filter={taxon.taxon_id}>{taxon.taxon_name}</span
+        ><br />
+
+        <span
+          class="cursor-pointer"
+          title={toggleText}
+          on:click={toggleTaxon}
+          data-filter={taxon.taxon_id}
+        >
+          {pluralize('observation', taxon.taxa_count)}
+        </span>
+      </div>
+    </div>
+  </div>
+  <button
+    class="absolute close-button"
+    title="click to delete species"
+    data-taxon-id={taxon.taxon_id}
+    on:click={removeTaxon}
+  >
+    <XIcon value={taxon.taxon_id} />
   </button>
+  <a href="{projectPath}/taxa/{taxon.taxon_id}">Species page</a>
 </div>
 
 <style>
-  label {
-    margin-right: 15px;
-  }
-  button {
+  .close-button {
     top: 0;
     right: 2px;
   }
 
-  a {
-    font-weight: 400;
+  .filter {
+    opacity: 0.5;
+  }
+
+  .filter.active {
+    opacity: 1;
+  }
+
+  .image-card-side {
+    border-width: 0;
+  }
+
+  .image-card-side-body {
+    margin-right: 18px;
+  }
+
+  .image-card-side:hover {
+    box-shadow: none;
+  }
+
+  .image-card-side a {
+    color: initial;
   }
 </style>

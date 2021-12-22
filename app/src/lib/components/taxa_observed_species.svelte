@@ -27,7 +27,7 @@
 
 {#if observedSpecies.length > 1}
   <h3>{observedSpecies.length} Observed species for {formatTaxonDisplayName(taxon)}</h3>
-  <div class="grid md:grid-cols-2  sm:grid-cols-1 gap-2">
+  <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-2">
     {#each observedSpeciesDisplay as taxon}
       <div class="image-card-side">
         <a href="{projectPath}/taxa/{taxon.taxon_id}">
@@ -45,7 +45,7 @@
 
         <div class="image-card-side-body">
           <a href="{projectPath}/taxa/{taxon.taxon_id}">
-            {@html formatTaxonDisplayName(taxon)}<br />
+            {@html formatTaxonDisplayName(taxon, true)}<br />
             {pluralize('observation', taxon.taxa_count)}
           </a>
         </div>
@@ -56,47 +56,3 @@
     <button class="btn" class:hidden={!showLoadMore} on:click={loadMore}>Load More</button>
   </div>
 {/if}
-
-<style>
-  .image-card-side {
-    display: flex;
-    @apply border;
-    align-items: stretch;
-    flex-direction: row;
-    overflow: hidden;
-    position: relative;
-  }
-
-  .image-card-side-body {
-    width: 100%;
-  }
-  .image-card-side:hover {
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.7);
-  }
-
-  .image-card-side figure {
-    min-width: 75px;
-  }
-
-  .image-card-side figure,
-  .image-card-side figure > * {
-    width: 100%;
-  }
-
-  .image-card-side img {
-    object-fit: cover;
-    max-height: 75px;
-    max-width: 75px;
-  }
-
-  .image-card-side-body {
-    margin-left: 10px;
-  }
-
-  .image-card-side-body a {
-    text-decoration: none;
-    width: 100%;
-    display: inline-block;
-    height: 100%;
-  }
-</style>

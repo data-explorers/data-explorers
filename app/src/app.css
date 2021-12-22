@@ -118,6 +118,39 @@ footer {
   }
 }
 
+.image-card-side {
+  display: flex;
+  @apply border;
+  align-items: stretch;
+  flex-direction: row;
+  overflow: hidden;
+  position: relative;
+}
+
+.image-card-side:hover {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.7);
+}
+
+.image-card-side figure {
+  width: 75px;
+  height: 75px;
+}
+
+.image-card-side img {
+  object-fit: cover;
+  height: 75px;
+  width: 75px;
+  min-width: 75px;
+}
+
+.image-card-side-body {
+  padding-left: 10px;
+}
+
+.image-card-side-body a {
+  color: initial;
+}
+
 /* https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
  sticky footer at bottom of page */
 

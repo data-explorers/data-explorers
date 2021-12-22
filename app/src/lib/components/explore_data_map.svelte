@@ -9,6 +9,7 @@
   export let groupedObservations;
   export let timeSpanHistory;
   export let showDemoMapLayer;
+  export let projectPath;
   // export let taxaHistory;
 
   let leafletMap;
@@ -65,7 +66,7 @@
           color={obs.color}
           fillColor={obs.fillColor}
         >
-          <MyPopup observation={obs} />
+          <MyPopup observation={obs} {projectPath} />
         </CircleMarker>
       {/each}
     {:else}
@@ -78,7 +79,7 @@
               color={obs.color}
               fillColor={obs.fillColor}
             >
-              <MyPopup observation={obs} />
+              <MyPopup observation={obs} {projectPath} />
             </CircleMarker>
           {/if}
         {/each}

@@ -1,9 +1,18 @@
 <script>
   export let color;
   export let value;
+  export let clickHandler = function () {};
+  export let cursorPointer = false;
 </script>
 
-<svg height="20" width="20" class="inline" data-filter={value}>
+<svg
+  class:cursor-pointer={cursorPointer}
+  on:click={clickHandler}
+  height="20"
+  width="20"
+  class="inline"
+  data-filter={value}
+>
   <circle
     cx="10"
     cy="10"
