@@ -27,9 +27,9 @@
   <h1>{taxa.length} Indicator Species</h1>
 
   <div class="grid lg:grid-cols-4 md:grid-cols-3  sm:grid-cols-2 justify-center gap-3">
-    {#each taxa as { image_url, common_name, observations_count, scientific_name, user_login, taxon_group, taxon_id, type }}
+    {#each taxa as taxon}
       <div class="image-card">
-        <a href="/users/{user.username}/{project.slug}/taxa/{taxon_id}">
+        <a href="/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}">
           <figure>
             {#if taxon.image_url}
               <img src={taxon.image_url} alt="photo of {formatTaxonDisplayName(taxon)}" />
@@ -40,12 +40,11 @@
         </a>
 
         <div class="image-card-body">
-          <a href="/users/{user.username}/{project.slug}/taxa/{taxon_id}">
-            {#if common_name}<div class="text-lg font-medium">{common_name}</div>{/if}
-            {#if scientific_name}<div class="text-gray-400">({scientific_name})</div>{/if}
-            <div>{pluralize('observation', observations_count)}</div>
-            <div>{taxon_group}</div>
-            <div>{type}</div>
+          <a href="/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}">
+            {@html formatTaxonDisplayName(taxon, true)}
+            <div>{pluralize('observation', taxon.observations_count)}</div>
+            <div>{taxon.taxon_group}</div>
+            <div>{taxon.type}</div>
           </a>
         </div>
       </div>
