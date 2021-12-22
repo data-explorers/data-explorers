@@ -1,5 +1,6 @@
 <script context="module">
   import data from '$lib/data/data.json';
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
 
   export async function load({ page }) {
     let page_parts = page.path.split('/');
@@ -30,7 +31,11 @@
       <div class="image-card">
         <a href="/users/{user.username}/{project.slug}/taxa/{taxon_id}">
           <figure>
-            <img src={image_url} alt="photo of {common_name}" />
+            {#if taxon.image_url}
+              <img src={taxon.image_url} alt="photo of {formatTaxonDisplayName(taxon)}" />
+            {:else}
+              <img src="/images/missing-image.png" alt="" />
+            {/if}
           </figure>
         </a>
 

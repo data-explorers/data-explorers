@@ -15,10 +15,15 @@
         <img
           class="mb-2"
           src={observation.image_url}
-          alt="image of {formatTaxonDisplayName(observation)}"
+          alt="photo of {formatTaxonDisplayName(observation)}"
         />
       </figure>
+    {:else}
+      <figure>
+        <img class="mb-2" src="/images/missing-image.png" alt="" />
+      </figure>
     {/if}
+
     <div class="relative py-2">
       <ShowMore {showMore} on:toggleShowMore={() => (showMore = !showMore)} />
       <div class="text-lg font-semibold">{@html formatTaxonDisplayName(observation, true)}</div>
@@ -47,7 +52,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: black;
   }
 
   img {

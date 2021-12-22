@@ -2,6 +2,7 @@
   import { fade } from 'svelte/transition';
   import { createEventDispatcher } from 'svelte';
   import ObservationData from '$lib/components/observation_data.svelte';
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let observation;
   export let projectPath;
@@ -24,7 +25,14 @@
       <ObservationData on:changeTaxon {observation} {projectPath} />
 
       <figure>
-        <img src={observation.image_url.replace('medium', 'large')} alt={observation.common_name} />
+        {#if observation.image_url}
+          <img
+            src={observation.image_url.replace('medium', 'large')}
+            alt="photo of {formatTaxonDisplayName(observation)}"
+          />
+        {:else}
+          <img src="/images/missing-image.png" alt="" />
+        {/if}
       </figure>
     </article>
   </main>

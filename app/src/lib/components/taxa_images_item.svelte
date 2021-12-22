@@ -12,11 +12,15 @@
   <div class="">
     <div on:click={() => dispatch('thumbnailClick', { observation_id: observation.id })}>
       <ModalMagnify>
-        <img
-          class="thumbnail"
-          src={observation.image_url}
-          alt="image of {observation.scientific_name}"
-        />
+        {#if observation.image_url}
+          <img
+            class="thumbnail"
+            src={observation.image_url}
+            alt="photo of {formatTaxonDisplayName(observation)}"
+          />
+        {:else}
+          <img src="/images/missing-image.png" alt="" />
+        {/if}
       </ModalMagnify>
     </div>
     <div class="p-4">

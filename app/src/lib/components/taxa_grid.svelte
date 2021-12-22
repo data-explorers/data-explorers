@@ -1,5 +1,6 @@
 <script>
   import { toTitleCase, pluralize } from '$lib/formatUtils';
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let taxa;
   export let projectPath;
@@ -21,7 +22,11 @@
     <div class="image-card">
       <a href="{projectPath}/taxa/{taxon.taxon_id}">
         <figure>
-          <img src={taxon.image_url} alt="photo of {taxon.common_name}" />
+          {#if taxon.image_url}
+            <img src={taxon.image_url} alt="photo of {formatTaxonDisplayName(taxon)}" />
+          {:else}
+            <img src="/images/missing-image.png" alt="" />
+          {/if}
         </figure>
       </a>
 
