@@ -122,7 +122,7 @@
   <h3>{observations.length} {observations.length === 1 ? 'observation' : 'observations'}</h3>
 
   <div class="grid md:grid-cols-2 gap-3">
-    <ObservationBasic observation={observationDisplay} />
+    <ObservationBasic observation={observationDisplay} {projectPath} />
 
     <div class="relative">
       {#if loading}

@@ -1,7 +1,7 @@
 <script>
-  import { fade, fly } from 'svelte/transition';
-  import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import { fade } from 'svelte/transition';
   import { createEventDispatcher } from 'svelte';
+  import ObservationData from '$lib/components/observation_data.svelte';
 
   export let observation;
   export let projectPath;
@@ -21,45 +21,7 @@
   <span class="close" on:click>&#10007;</span>
   <main>
     <article>
-      <div class="body prose">
-        <span class="text-lg font-semibold">{@html formatTaxonDisplayName(observation, true)}</span
-        ><br />
-        <b>Observer:</b>
-        {observation.user_login}<br />
-        {#if observation.time_observed_at}
-          <b>Date:</b> {new Date(observation.time_observed_at).toLocaleDateString()}<br />
-        {/if}
-
-        {#if observation.quality_grade}
-          <b>Quality grade:</b> {observation.quality_grade}<br />
-        {/if}
-        {#if observation.license}
-          <b>License:</b> {observation.license}<br />
-        {/if}
-        {#if observation.description}
-          <b>Description:</b> {observation.description}<br />
-        {/if}
-
-        {#if observation.coordinates_obscured}
-          <b>Coordinates are obscured:</b>
-          {#if observation.geoprivacy === 'obscured'}
-            Observer has choosen to obscure the coordinates.
-          {/if}
-          {#if observation.taxon_geoprivacy === 'obscured'}
-            Taxon is threatened or rare so the coordinates are obscured.
-          {/if}<br />
-        {/if}
-
-        <a
-          on:click={() => dispatch('changeTaxon', { taxon_id: observation.taxon_id })}
-          class="mr-4"
-          href="{projectPath}/taxa/{observation.taxon_id}">Species page</a
-        >
-
-        <a href="https://www.inaturalist.org/observations/{observation.id}"
-          >iNaturalist observation</a
-        >
-      </div>
+      <ObservationData on:changeTaxon {observation} {projectPath} />
 
       <figure>
         <img src={observation.image_url.replace('medium', 'large')} alt={observation.common_name} />
@@ -94,10 +56,6 @@
   img {
     /* max-height: 80vh; */
     border: 2px solid white;
-  }
-
-  .body {
-    padding: 1rem;
   }
 
   .close {

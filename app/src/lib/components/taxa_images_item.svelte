@@ -1,5 +1,4 @@
 <script>
-  import Modal from '$lib/components/modal.svelte';
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import { createEventDispatcher } from 'svelte';
@@ -21,11 +20,10 @@
       </ModalMagnify>
     </div>
     <div class="p-4">
-      {@html formatTaxonDisplayName(observation, true)}<br />
-
-      {observation.user_login}
+      <div>{@html formatTaxonDisplayName(observation, true)}</div>
+      <div>Observer: {observation.user_login}</div>
       {#if observation.time_observed_at}
-        at {new Date(observation.time_observed_at).toLocaleDateString()}
+        <div>Date: {new Date(observation.time_observed_at).toLocaleDateString()}</div>
       {/if}
     </div>
   </div>

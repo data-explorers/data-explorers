@@ -1,6 +1,11 @@
 <script>
   import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import ShowMore from '$lib/components/show_more.svelte';
+  import ObservationData from '$lib/components/observation_data.svelte';
+
   export let observation;
+  export let projectPath;
+  let showMore = false;
 </script>
 
 {#if observation}
@@ -14,11 +19,19 @@
         />
       </figure>
     {/if}
-    <div class="py-2">
-      {@html formatTaxonDisplayName(observation, true)}<br />
-      {observation.user_login}
+    <div class="relative py-2">
+      <ShowMore {showMore} on:toggleShowMore={() => (showMore = !showMore)} />
+      <div class="text-lg font-semibold">{@html formatTaxonDisplayName(observation, true)}</div>
+
+      {#if observation.user_login}
+        <div>Observer: {observation.user_login}</div>
+      {/if}
       {#if observation.time_observed_at}
-        at {new Date(observation.time_observed_at).toLocaleDateString()}
+        <div>Date: {new Date(observation.time_observed_at).toLocaleDateString()}</div>
+      {/if}
+
+      {#if showMore}
+        <ObservationData {observation} {projectPath} allData={false} />
       {/if}
 
       <div />
@@ -39,8 +52,5 @@
 
   img {
     max-height: 400px;
-  }
-
-  div {
   }
 </style>
