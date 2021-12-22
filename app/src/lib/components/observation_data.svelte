@@ -5,13 +5,16 @@
   export let observation;
   export let projectPath;
   export let allData = true;
+  export let compact = false;
 
   const dispatch = createEventDispatcher();
 </script>
 
-<div class="prose" class:p-4={allData}>
+<div class:prose={compact === false} class:p-4={allData && !compact}>
   {#if allData}
-    <div class="text-lg font-semibold">{@html formatTaxonDisplayName(observation, true)}</div>
+    <div class:text-lg={!compact} class:text-sm={compact} class="font-semibold leading-tight py-2">
+      {@html formatTaxonDisplayName(observation, true)}
+    </div>
   {/if}
   {#if allData && observation.user_login}
     <div>Observer: {observation.user_login}</div>
