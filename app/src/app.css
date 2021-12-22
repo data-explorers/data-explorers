@@ -4,18 +4,12 @@
 @tailwind utilities;
 
 :root {
-  --gray-200: rgb(229, 231, 235);
   --gray-300: rgb(209, 213, 219);
-  --gray-400: rgb(156, 163, 175);
-  --gray-500: rgb(107, 114, 128);
-  --gray-600: rgb(75, 85, 99);
-  --gray-700: rgb(55, 65, 81);
-  --gray-800: rgb(31, 41, 55);
-  --gray-900: rgb(17, 24, 39);
 
   --border-color: var(--gray-300);
   --text-color: var(--bc);
   --bg-gray: var(--gray-300);
+  --link-color: #0078a8;
 }
 
 footer {
@@ -67,8 +61,11 @@ footer {
   @apply mb-0;
 }
 
-.prose a {
+.prose a,
+a {
   @apply font-normal;
+  color: var(--link-color);
+  @apply no-underline;
 }
 
 .prose table,
@@ -88,8 +85,10 @@ footer {
   width: 100%;
 }
 
-.image-card a:link {
+.image-card a:link,
+.image-card a {
   text-decoration: none;
+  color: inherit;
 }
 
 .image-card .image-card-body h2 {
@@ -162,4 +161,8 @@ body {
 
 main {
   flex: 1;
+}
+
+.navbar a {
+  color: inherit;
 }
