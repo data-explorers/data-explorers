@@ -1,7 +1,3 @@
-<script>
-  export let modalname;
-</script>
-
 <div class="thumbnail-container">
   <figure>
     <slot />
