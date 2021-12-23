@@ -18,7 +18,7 @@
 {#each tabs as tab}
   {#if activeTabValue == tab.value}
     <div class="box">
-      <svelte:component this={tab.component} {...tab.props} />
+      <svelte:component this={tab.component} {...tab.props} on:zoomToObservation />
     </div>
   {/if}
 {/each}

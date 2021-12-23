@@ -3,6 +3,7 @@
   import { getMonthName } from '$lib/mapUtils';
   import { sortObservations, createGroupObservations } from '$lib/dataUtils';
   import ObservationModal from '$lib/components/observation_modal.svelte';
+  import { createEventDispatcher } from 'svelte';
 
   export let observations;
   export let projectPath;
@@ -13,6 +14,7 @@
   let orderByValue = 'newest';
   let modalOpen = false;
   let observationDisplay = {};
+  const dispatch = createEventDispatcher();
 
   // Use Map objects in #each blocks https://github.com/sveltejs/svelte/issues/5021
 
@@ -65,6 +67,11 @@
   }
 
   $: showLoadMore = page * limit < observations.length;
+
+  function zoomToObservation(e) {
+    dispatch('zoomToObservation', e.detail);
+    modalOpen = false;
+  }
 </script>
 
 <div class="prose max-w-none">
@@ -133,6 +140,7 @@
     on:click={() => (modalOpen = false)}
     on:closeModal={() => (modalOpen = false)}
     on:changeTaxon={() => (modalOpen = false)}
+    on:zoomToObservation={zoomToObservation}
     observation={observationDisplay}
     observationsIds={observationsDisplayIds}
     {projectPath}

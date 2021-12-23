@@ -44,7 +44,7 @@
           transition:fly={{ y: xValue, duration: 800 }}
         >
           <ShowMore {showMore} on:toggleShowMore={() => (showMore = !showMore)} />
-          <ObservationData {observation} {projectPath} allData={true} />
+          <ObservationData {observation} {projectPath} on:zoomToObservation />
         </div>
       {/if}
 

@@ -22,7 +22,7 @@
   <span class="close" on:click>&#10007;</span>
   <main>
     <article>
-      <ObservationData on:changeTaxon {observation} {projectPath} />
+      <ObservationData on:changeTaxon {observation} {projectPath} on:zoomToObservation />
 
       <figure>
         {#if observation.image_url}

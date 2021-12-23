@@ -17,6 +17,7 @@
 
   export let observations;
   export let mapOptions;
+  export let mapCenter;
 
   let leafletMap;
   let timeSpanHistory = {};
@@ -64,12 +65,18 @@
   // map
   // =====================
 
-  // make certain variables reactive so they chamge values when user zooms
-  // in and out of map
   $: if (leafletMap) {
+    // make rectangles change size as zoom changes
     zoomLevel = leafletMap.getMap().getZoom();
     rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
     rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
+
+    // recenter and zoom map on a given coordinate
+    if (mapCenter && mapCenter.longitude) {
+      document.getElementById('taxa-map').scrollIntoView();
+      leafletMap.getMap().flyTo([mapCenter.latitude, mapCenter.longitude], 20);
+      mapCenter = {};
+    }
   }
 
   // =====================
@@ -96,7 +103,7 @@
   });
 </script>
 
-<div style="width: 100%; height: 400px;">
+<div id="taxa-map" style="width: 100%; height: 400px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <TileLayer url={tileUrl} options={tileLayerOptions} />
     <!-- display observations as circles -->

@@ -63,6 +63,7 @@
   export let projectPath;
   export let taxa;
 
+  let mapCenter = {};
   let loading = true;
   $: observationDisplay = observations.filter((o) => o.id === taxon.id)[0];
 
@@ -91,6 +92,11 @@
       TaxaImages: { component: TaxaImages, props: { observations, projectPath } },
       TaxaMedia: { component: TaxaMedia, props: {} }
     };
+  }
+
+  function zoomToObservation(e) {
+    mapCenter = e.detail;
+    observationDisplay = observations.filter((o) => o.id === e.detail.observation_id)[0];
   }
 
   // make tabs reactive so that props are updated when the taxa url changes
@@ -125,7 +131,11 @@
   <h3>{observations.length} {observations.length === 1 ? 'observation' : 'observations'}</h3>
 
   <div class="grid md:grid-cols-2 gap-3">
-    <ObservationBasic observation={observationDisplay} {projectPath} />
+    <ObservationBasic
+      observation={observationDisplay}
+      {projectPath}
+      on:zoomToObservation={zoomToObservation}
+    />
 
     <div class="relative">
       {#if loading}
@@ -137,9 +147,10 @@
         {observations}
         on:doneLoading={() => (loading = false)}
         on:markerClick={changeObservation}
+        {mapCenter}
       />
     </div>
   </div>
 </div>
 
-<Tabs {tabs} />
+<Tabs {tabs} on:zoomToObservation={zoomToObservation} />

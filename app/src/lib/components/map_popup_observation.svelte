@@ -17,5 +17,10 @@
   {:else}
     <img class="mb-2" src="/images/missing-image.png" alt="" />
   {/if}
-  <ObservationData {observation} {projectPath} compact={true} />
+  <ObservationData
+    {observation}
+    {projectPath}
+    compactLayout={true}
+    enableZoomToObservation={false}
+  />
 </Popup>
