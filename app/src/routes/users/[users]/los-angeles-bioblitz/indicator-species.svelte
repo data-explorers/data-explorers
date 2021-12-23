@@ -37,16 +37,16 @@
               <img src="/images/missing-image.png" alt="" />
             {/if}
           </figure>
-        </a>
 
-        <div class="image-card-body">
-          <a href="/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}">
-            {@html formatTaxonDisplayName(taxon, true)}
+          <div class="image-card-body">
+            <div class="text-lg font-medium leading-normal">
+              {@html formatTaxonDisplayName(taxon, true)}
+            </div>
             <div>{pluralize('observation', taxon.observations_count)}</div>
             <div>{taxon.taxon_group}</div>
             <div>{taxon.type}</div>
-          </a>
-        </div>
+          </div>
+        </a>
       </div>
     {/each}
   </div>

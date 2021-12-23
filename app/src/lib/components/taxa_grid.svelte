@@ -28,18 +28,14 @@
             <img src="/images/missing-image.png" alt="" />
           {/if}
         </figure>
-      </a>
 
-      <div class="image-card-body">
-        <a href="{projectPath}/taxa/{taxon.taxon_id}">
-          {#if taxon.common_name}<span class="text-lg font-medium"
-              >{toTitleCase(taxon.common_name)}</span
-            >{/if}
-          {#if taxon.scientific_name}<span class="text-gray-400">({taxon.scientific_name})</span
-            >{/if}
+        <div class="image-card-body">
+          <div class="text-lg font-medium leading-normal">
+            {@html formatTaxonDisplayName(taxon, true)}
+          </div>
           <div>{pluralize('observation', taxon.taxa_count)}</div>
-        </a>
-      </div>
+        </div>
+      </a>
     </div>
   {/each}
 </div>

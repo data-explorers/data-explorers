@@ -7,41 +7,39 @@
   export let toggleTaxon;
   export let removeTaxon;
   export let projectPath;
-
-  $: toggleText = taxon.active ? 'click to hide species' : 'click to show species';
 </script>
 
 <div class="border relative filter" class:active={taxon.active}>
   <div class="image-card-side">
     <figure>
       {#if taxon.image_url}
-        <img src={taxon.image_url.replace('medium', 'square')} alt="photo of {taxon.taxon_name}" />
+        <img
+          class="cursor-pointer"
+          on:click={toggleTaxon}
+          data-filter={taxon.taxon_id}
+          src={taxon.image_url.replace('medium', 'square')}
+          alt="photo of {taxon.taxon_name}"
+        />
       {:else}
         <img src="/images/missing-image.png" alt="" />
       {/if}
     </figure>
 
-    <div class="image-card-side-body " data-filter={taxon.taxon_id}>
-      <div class="leading-normal">
+    <div
+      class="image-card-side-body cursor-pointer "
+      on:click={toggleTaxon}
+      data-filter={taxon.taxon_id}
+    >
+      <div class="leading-normal" data-filter={taxon.taxon_id}>
         <CircleIcon
           clickHandler={toggleTaxon}
           cursorPointer={true}
           value={taxon.taxon_id}
           color={taxon.color}
         />
-        <span
-          class="cursor-pointer"
-          title={toggleText}
-          on:click={toggleTaxon}
-          data-filter={taxon.taxon_id}>{taxon.taxon_name}</span
-        ><br />
+        <span class="cursor-pointer" data-filter={taxon.taxon_id}>{taxon.taxon_name}</span><br />
 
-        <span
-          class="cursor-pointer"
-          title={toggleText}
-          on:click={toggleTaxon}
-          data-filter={taxon.taxon_id}
-        >
+        <span class="cursor-pointer" data-filter={taxon.taxon_id}>
           {pluralize('observation', taxon.taxa_count)}
         </span>
       </div>

@@ -42,13 +42,12 @@
             {/if}
           </figure>
         </a>
-
-        <div class="image-card-side-body">
-          <a href="{projectPath}/taxa/{taxon.taxon_id}">
+        <a class="w-full" href="{projectPath}/taxa/{taxon.taxon_id}">
+          <div class="image-card-side-body">
             {@html formatTaxonDisplayName(taxon, true)}<br />
             {pluralize('observation', taxon.taxa_count)}
-          </a>
-        </div>
+          </div>
+        </a>
       </div>
     {/each}
   </div>

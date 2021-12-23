@@ -7,7 +7,7 @@
 
 <svg
   class:cursor-pointer={cursorPointer}
-  on:click={clickHandler}
+  on:click|stopPropagation={clickHandler}
   height="20"
   width="20"
   class="inline"
