@@ -11,11 +11,9 @@
     return taxa
       .filter((t) => t.parent_id == taxon.taxon_id)
       .sort((a, b) => {
-        if (a.common_name && b.common_name) {
-          return a.common_name.toLowerCase().localeCompare(b.common_name.toLowerCase());
-        } else {
-          return a.scientific_name.toLowerCase().localeCompare(b.scientific_name.toLowerCase());
-        }
+        let nameA = (a.common_name + a.scientific_name).toLowerCase();
+        let nameB = (b.common_name + b.scientific_name).toLowerCase();
+        return nameA.localeCompare(nameB);
       });
   }
 </script>
@@ -26,7 +24,7 @@
       <li>
         {taxon.rank}:
         <a href="{projectPath}/taxa/{taxon.taxon_id}">
-          {@html formatTaxonDisplayName(taxon, true)}
+          {@html formatTaxonDisplayName(taxon)}
         </a>
       </li>
     {/each}
