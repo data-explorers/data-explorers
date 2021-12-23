@@ -63,10 +63,19 @@
   export let projectPath;
   export let taxa;
 
+  $: observationDisplay = observations.filter((o) => o.id === taxon.id)[0];
+  // make tabs reactive so that props are updated when the taxa url changes
+  $: tabs = project.tabs_taxa.map((tab) => {
+    return {
+      label: tab.label,
+      value: tab.value,
+      component: tabsMetadata()[tab.component].component,
+      props: tabsMetadata()[tab.component].props
+    };
+  });
+
   let mapCenter = {};
   let loading = true;
-  $: observationDisplay = observations.filter((o) => o.id === taxon.id)[0];
-
   let mapOptions = {
     ...defaultColorScheme,
     zoom: project.zoom,
@@ -76,7 +85,6 @@
     center: [project.latitude || 0, project.longitude || 0],
     preferCanvas: true
   };
-
   let taxonIds = taxa.map((t) => t.taxon_id);
 
   function changeObservation(e) {
@@ -98,16 +106,6 @@
     mapCenter = e.detail;
     observationDisplay = observations.filter((o) => o.id === e.detail.observation_id)[0];
   }
-
-  // make tabs reactive so that props are updated when the taxa url changes
-  $: tabs = project.tabs_taxa.map((tab) => {
-    return {
-      label: tab.label,
-      value: tab.value,
-      component: tabsMetadata()[tab.component].component,
-      props: tabsMetadata()[tab.component].props
-    };
-  });
 
   // NOTE: must use dynamic import to load leaflet since leaflet depends on
   // window object. leaflet will not work with server side rendering.

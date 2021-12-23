@@ -1,4 +1,5 @@
 <script>
+  // Use Map objects in #each blocks https://github.com/sveltejs/svelte/issues/5021
   import TaxaImagesItem from '$lib/components/taxa_images_item.svelte';
   import { getMonthName } from '$lib/mapUtils';
   import { sortObservations, createGroupObservations } from '$lib/dataUtils';
@@ -8,6 +9,12 @@
   export let observations;
   export let projectPath;
 
+  $: observations = sortObservations(observations, orderByValue, timeSpanValue);
+  $: observationsDisplay = observations.slice(0, page * limit);
+  $: groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
+  $: observationsDisplayIds = observationsDisplay.map((o) => o.id);
+  $: showLoadMore = page * limit < observations.length;
+
   let page = 1;
   let limit = 24;
   let timeSpanValue = 'all';
@@ -15,14 +22,6 @@
   let modalOpen = false;
   let observationDisplay = {};
   const dispatch = createEventDispatcher();
-
-  // Use Map objects in #each blocks https://github.com/sveltejs/svelte/issues/5021
-
-  // make these variables reactive so that they change as the taxon url changes
-  $: observations = sortObservations(observations, orderByValue, timeSpanValue);
-  $: observationsDisplay = observations.slice(0, page * limit);
-  $: groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
-  $: observationsDisplayIds = observationsDisplay.map((o) => o.id);
 
   function loadMore() {
     page = page + 1;
@@ -65,8 +64,6 @@
       observationDisplay = observationsDisplay[currentIndex + 1];
     }
   }
-
-  $: showLoadMore = page * limit < observations.length;
 
   function zoomToObservation(e) {
     dispatch('zoomToObservation', e.detail);

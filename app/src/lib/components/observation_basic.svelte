@@ -8,6 +8,7 @@
   export let projectPath;
 
   $: xValue = showMore ? -20 : 20;
+
   let showMore = false;
 </script>
 

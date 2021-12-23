@@ -48,6 +48,18 @@
   export let taxa;
   export let projectPath;
 
+  $: basicTaxaHistory = taxaHistory.map((t) => ({
+    taxonName: t.taxon_name,
+    color: t.color,
+    taxonId: t.taxon_id,
+    active: t.active
+  }));
+
+  $: if (taxaHistory.length === 0) {
+    showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
+    showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
+  }
+
   let observations = [];
   let item = '';
   let taxaHistory = []; // all selected taxa
@@ -278,21 +290,6 @@
     const comp = await import('$lib/components/explore_data_map.svelte');
     Map = comp.default;
   });
-  $: basicTaxaHistory = taxaHistory.map((t) => ({
-    taxonName: t.taxon_name,
-    color: t.color,
-    taxonId: t.taxon_id,
-    active: t.active
-  }));
-
-  $: if (taxaHistory.length === 0) {
-    showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
-    showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
-  }
-
-  // =====================
-  // init
-  // =====================
 </script>
 
 <ProjectHeader {project} {user} />

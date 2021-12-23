@@ -6,12 +6,12 @@
   export let projectPath;
   export let taxa;
 
-  let page = 1;
-  let limit = 20;
-
   $: observedSpecies = getObservedSpecies(taxa, taxon);
   $: observedSpeciesDisplay = observedSpecies.slice(0, page * limit);
   $: showLoadMore = page * limit < observedSpecies.length;
+
+  let page = 1;
+  let limit = 20;
 
   function getObservedSpecies(taxa, taxon) {
     return taxa

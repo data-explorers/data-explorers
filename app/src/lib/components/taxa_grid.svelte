@@ -5,11 +5,11 @@
   export let taxa;
   export let projectPath;
 
-  let page = 1;
-  let limit = 24;
-
   $: taxaDisplay = taxa.slice(0, page * limit);
   $: showLoadMore = page * limit < taxa.length;
+
+  let page = 1;
+  let limit = 24;
 
   function loadMore() {
     page = page + 1;

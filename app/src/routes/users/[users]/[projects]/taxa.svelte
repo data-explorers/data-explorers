@@ -35,9 +35,6 @@
   export let taxa;
   export let user;
   export let projectPath;
-  let displayTaxa = [];
-  let submenuOptions = ranksReverse;
-  let currentRank = 'species';
 
   $: {
     if (currentRank === 'species') {
@@ -50,6 +47,10 @@
       displayTaxa = [];
     }
   }
+
+  let displayTaxa = [];
+  let submenuOptions = ranksReverse;
+  let currentRank = 'species';
 </script>
 
 <ProjectHeader {project} {user} />
