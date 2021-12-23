@@ -9,6 +9,11 @@
   $: observedSpecies = getObservedSpecies(taxa, taxon);
   $: observedSpeciesDisplay = observedSpecies.slice(0, page * limit);
   $: showLoadMore = page * limit < observedSpecies.length;
+  $: showObservedSpecies = (() => {
+    let checkOneSpecies =
+      observedSpecies.length == 1 && observedSpecies[0].taxon_id != taxon.taxon_id;
+    return observedSpecies.length > 1 || checkOneSpecies;
+  })();
 
   let page = 1;
   let limit = 20;
@@ -25,7 +30,7 @@
   }
 </script>
 
-{#if observedSpecies.length > 1}
+{#if showObservedSpecies}
   <h3>{observedSpecies.length} Observed species for {formatTaxonDisplayName(taxon)}</h3>
   <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-2">
     {#each observedSpeciesDisplay as taxon}
