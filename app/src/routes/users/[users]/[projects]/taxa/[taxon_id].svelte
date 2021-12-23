@@ -1,21 +1,22 @@
 <script context="module">
-  import allInteractions from '$lib/data/interactions.json';
+  import allInteractions from '$lib/data/interactions.csv';
   import data from '$lib/data/data.json';
+  import { convertTaxa, convertObservations } from '$lib/convert_data';
 
   // TODO: range map from inat
   // TODO: description from wikipedia
 
   export async function load({ page }) {
-    let taxaData = await import(`../../../../../lib/data/${page.params.projects}/taxa.json`);
-    let taxa = taxaData.default;
+    let taxaData = await import(`../../../../../lib/data/${page.params.projects}/taxa.csv`);
+    let taxa = convertTaxa(taxaData.default);
 
     // find taxon that has observations
     let taxon = taxa.filter((taxon) => taxon.taxon_id == Number(page.params.taxon_id))[0] || {};
 
     let observationData = await import(
-      `../../../../../lib/data/${page.params.projects}/observations.json`
+      `../../../../../lib/data/${page.params.projects}/observations.csv`
     );
-    let allObservations = observationData.default;
+    let allObservations = convertObservations(observationData.default);
     let observations = allObservations
       .filter((o) => o.taxon_ids)
       .filter((o) => o.taxon_ids.split('|').includes('' + page.params.taxon_id));

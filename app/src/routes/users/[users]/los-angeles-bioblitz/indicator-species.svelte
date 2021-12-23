@@ -12,7 +12,7 @@
 
 <script>
   import ProjectHeader from '$lib/components/project_header.svelte';
-  import allTaxa from '$lib/data/los-angeles-bioblitz/taxa.json';
+  import allTaxa from '$lib/data/los-angeles-bioblitz/taxa.csv';
   import { pluralize } from '$lib/formatUtils';
 
   let taxa = allTaxa.filter((t) => !!t.taxon_group);

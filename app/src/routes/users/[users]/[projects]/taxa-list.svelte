@@ -1,5 +1,6 @@
 <script context="module">
   import data from '$lib/data/data.json';
+  import { convertTaxa, convertObservations } from '$lib/convert_data';
 
   export async function load({ page }) {
     let user = data.filter((user) => user.username === page.params.users)[0];
@@ -10,7 +11,7 @@
       taxa = [];
       project = { tabs: [] };
     } else {
-      let res = await import(`../../../../lib/data/${project.slug}/taxa.json`);
+      let res = await import(`../../../../lib/data/${project.slug}/taxa.csv`);
       taxa = res.default;
       taxa = taxa.sort((a, b) => b.taxa_count - a.taxa_count);
     }

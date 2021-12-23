@@ -1,5 +1,6 @@
 <script context="module">
   import data from '$lib/data/data.json';
+  import { convertTaxa, convertObservations } from '$lib/convert_data';
 
   export async function load({ page }) {
     let user = data.filter((user) => user.username === page.params.users)[0];
@@ -10,12 +11,12 @@
     )[0];
     let projectPath = `/users/${user.username}/${project.slug}`;
 
-    let taxaData = await import(`../../../../lib/data/${page.params.projects}/taxa.json`);
-    let taxa = taxaData.default;
+    let taxaData = await import(`../../../../lib/data/${page.params.projects}/taxa.csv`);
+    let taxa = convertTaxa(taxaData.default);
     let observationData = await import(
-      `../../../../lib/data/${page.params.projects}/observations.json`
+      `../../../../lib/data/${page.params.projects}/observations.csv`
     );
-    let allObservations = observationData.default;
+    let allObservations = convertObservations(observationData.default);
 
     return { props: { project, user, currentTab, allObservations, taxa, projectPath } };
   }
