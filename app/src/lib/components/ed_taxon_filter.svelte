@@ -2,6 +2,7 @@
   import CircleIcon from '$lib/components/svg/circle.svelte';
   import XIcon from '$lib/components/svg/x.svelte';
   import { pluralize } from '$lib/formatUtils';
+  import { fade } from 'svelte/transition';
 
   export let taxon;
   export let toggleTaxon;
@@ -9,7 +10,7 @@
   export let projectPath;
 </script>
 
-<div class="border relative filter" class:active={taxon.active}>
+<div class="border relative filter" class:active={taxon.active} in:fade out:fade>
   <div class="image-card-side">
     <figure>
       {#if taxon.image_url}

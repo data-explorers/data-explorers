@@ -21,6 +21,7 @@
   .down-arrow {
     position: absolute;
     right: 0px;
+    top: 5px;
     padding: 0 5px;
     line-height: 1;
     cursor: pointer;

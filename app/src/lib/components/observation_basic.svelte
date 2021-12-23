@@ -2,9 +2,12 @@
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import ShowMore from '$lib/components/show_more.svelte';
   import ObservationData from '$lib/components/observation_data.svelte';
+  import { fly } from 'svelte/transition';
 
   export let observation;
   export let projectPath;
+
+  $: xValue = showMore ? -20 : 20;
   let showMore = false;
 </script>
 
@@ -36,7 +39,13 @@
       {/if}
 
       {#if showMore}
-        <ObservationData {observation} {projectPath} allData={false} />
+        <div
+          class="overlay w-full absolute bg-white z-10"
+          transition:fly={{ y: xValue, duration: 800 }}
+        >
+          <ShowMore {showMore} on:toggleShowMore={() => (showMore = !showMore)} />
+          <ObservationData {observation} {projectPath} allData={true} />
+        </div>
       {/if}
 
       <div />
@@ -47,6 +56,10 @@
 {/if}
 
 <style>
+  .overlay {
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+    top: 0;
+  }
   figure {
     min-height: 400px;
     display: flex;
