@@ -76,6 +76,8 @@
     preferCanvas: true
   };
 
+  let taxonIds = taxa.map((t) => t.taxon_id);
+
   function changeObservation(e) {
     observationDisplay = observations.filter((o) => o.id === e.detail.observation_id)[0];
   }
@@ -84,7 +86,7 @@
     return {
       TaxaAbout: {
         component: TaxaAbout,
-        props: { project, taxon, interactions, projectPath, taxa }
+        props: { project, taxon, interactions, projectPath, taxa, taxonIds }
       },
       TaxaImages: { component: TaxaImages, props: { observations, projectPath } },
       TaxaMedia: { component: TaxaMedia, props: {} }

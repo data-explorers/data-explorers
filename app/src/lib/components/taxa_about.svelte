@@ -10,6 +10,7 @@
   export let interactions;
   export let projectPath;
   export let taxa;
+  export let taxonIds;
 
   $: eatsTaxa = interactions.filter((i) => i.interaction === 'eats');
   $: eatenByTaxa = interactions.filter((i) => i.interaction === 'eatenBy');
@@ -117,19 +118,29 @@
     Species interaction data comes from <a
       href="https://www.globalbioticinteractions.org/?interactionType=interactsWith&sourceTaxon={taxon.scientific_name}"
       >GloBI</a
-    >.
+    >. The species with links are species that have observations.
   </p>
 
   <div class="grid md:grid-cols-2 sm:grid-cols-1 justify-center gap-3">
     <div>
-      <GlobiList interactionTaxa={eatsTaxa} title="Eats" />
-      <GlobiList interactionTaxa={preysOnTaxa} title="Preys on" />
-      <GlobiList interactionTaxa={pollinatesTaxa} title="Pollinates" />
+      <GlobiList interactionTaxa={eatsTaxa} title="Eats" {taxonIds} {projectPath} />
+      <GlobiList interactionTaxa={preysOnTaxa} title="Preys on" {taxonIds} {projectPath} />
+      <GlobiList interactionTaxa={pollinatesTaxa} title="Pollinates" {taxonIds} {projectPath} />
     </div>
     <div>
-      <GlobiList interactionTaxa={eatenByTaxa} title="Eaten by" />
-      <GlobiList interactionTaxa={preyedUponByTaxa} title="Preyed upon by" />
-      <GlobiList interactionTaxa={pollinatedByTaxa} title="Pollinated by" />
+      <GlobiList interactionTaxa={eatenByTaxa} title="Eaten by" {taxonIds} {projectPath} />
+      <GlobiList
+        interactionTaxa={preyedUponByTaxa}
+        title="Preyed upon by"
+        {taxonIds}
+        {projectPath}
+      />
+      <GlobiList
+        interactionTaxa={pollinatedByTaxa}
+        title="Pollinated by"
+        {taxonIds}
+        {projectPath}
+      />
     </div>
   </div>
 
