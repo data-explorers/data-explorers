@@ -49,7 +49,6 @@
           {:else}
             <RectangleIcon
               value={month}
-              cursorPointer={true}
               color={mapOptions.colorSchemeMonth[month] || mapOptions.defaultColor}
             />
             <span data-filter={month}>{getMonthName(month)}</span>
