@@ -24,34 +24,16 @@
       return [];
     }
 
-    let taxon_ids = taxon.taxon_ids.split('|');
-    let scientific_names = taxon.scientific_names.split('|');
-    let common_names = taxon.common_names.split('|');
-    let taxonomy = [];
-    let ranks = {
-      0: 'kingdom',
-      1: 'phylum',
-      2: 'class',
-      3: 'order',
-      4: 'family',
-      5: 'genus',
-      6: 'species'
-    };
-
-    taxon_ids.forEach((id, i) => {
-      if (taxon_ids[i]) {
-        taxonomy.push({
-          taxon_rank: ranks[i] ? ranks[i] : taxon.rank,
-          taxon_id: taxon_ids[i],
-          taxon_name: formatTaxonDisplayName({
-            common_name: common_names[i],
-            scientific_name: scientific_names[i]
-          })
-        });
-      }
+    let taxon_ids = taxon.taxon_ids.split('|').map((id) => (/\d+/.test(id) ? Number(id) : ''));
+    return taxon_ids.map((id) => {
+      let taxon = taxa.filter((t) => t.taxon_id === id)[0];
+      return {
+        rank: taxon.rank,
+        taxon_id: id,
+        taxon_name: formatTaxonDisplayName(taxon),
+        taxa_count: taxon.taxa_count
+      };
     });
-
-    return taxonomy;
   }
 
   let RangeMap;
@@ -102,7 +84,8 @@
   <ul class="taxonomy">
     {#each displayTaxonomy(taxon) as level}
       <li class:active={taxon.taxon_id == level.taxon_id}>
-        {level.taxon_rank}: <a href="{projectPath}/taxa/{level.taxon_id}">{level.taxon_name}</a>
+        {level.rank}: <a href="{projectPath}/taxa/{level.taxon_id}">{level.taxon_name}</a>
+        {pluralize('observation', level.taxa_count)}
       </li>
     {/each}
     <li>
