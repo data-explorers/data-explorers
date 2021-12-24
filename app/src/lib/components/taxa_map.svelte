@@ -19,18 +19,6 @@
   export let mapOptions;
   export let mapCenter;
 
-  let leafletMap;
-  let timeSpanHistory = {};
-  let zoomLevel = 0;
-  let circleRadius = 8;
-  let rectangleLatitude = 1;
-  let rectangleLongitude = 1;
-  let orderByValue = 'oldest';
-  let groupedObservations = [];
-  let sortedObservations = [];
-
-  const dispatch = createEventDispatcher();
-
   $: {
     observations = observations.filter((o) => o.latitude && o.longitude);
     sortedObservations = sortObservations(
@@ -47,6 +35,41 @@
     }
   }
 
+  $: coordinates = observations
+    .filter((o) => o.latitude && o.longitude)
+    .map((o) => [o.latitude, o.longitude]);
+
+  $: if (leafletMap) {
+    zoomMapToFitMarkers(coordinates);
+  }
+
+  $: if (leafletMap && mapOptions.observationsTimeSpan === 'month') {
+    // make rectangles change size as zoom changes
+    zoomLevel = leafletMap.getMap().getZoom();
+    rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
+    rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
+  }
+
+  $: if (leafletMap) {
+    // recenter and zoom map on a given coordinate
+    if (mapCenter && mapCenter.longitude) {
+      document.getElementById('taxa-map').scrollIntoView();
+      leafletMap.getMap().flyTo([mapCenter.latitude, mapCenter.longitude], 20);
+      mapCenter = {};
+    }
+  }
+
+  let leafletMap;
+  let timeSpanHistory = {};
+  let zoomLevel = 0;
+  let circleRadius = 8;
+  let rectangleLatitude = 1;
+  let rectangleLongitude = 1;
+  let orderByValue = 'oldest';
+  let groupedObservations = [];
+  let sortedObservations = [];
+  const dispatch = createEventDispatcher();
+
   function toggleTimeSpans(e) {
     let targetFilter = e.target.dataset['filter'];
     targetFilter = targetFilter === 'unknown' ? 'unknown' : Number(targetFilter);
@@ -61,21 +84,13 @@
   function handleMarkerClick(e, obs) {
     dispatch('markerClick', { observation_id: obs.id, latlng: e.detail.latlng });
   }
-  // =====================
-  // map
-  // =====================
 
-  $: if (leafletMap) {
-    // make rectangles change size as zoom changes
-    zoomLevel = leafletMap.getMap().getZoom();
-    rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
-    rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
-
-    // recenter and zoom map on a given coordinate
-    if (mapCenter && mapCenter.longitude) {
-      document.getElementById('taxa-map').scrollIntoView();
-      leafletMap.getMap().flyTo([mapCenter.latitude, mapCenter.longitude], 20);
-      mapCenter = {};
+  function zoomMapToFitMarkers(coordinates) {
+    if (coordinates.length > 0) {
+      leafletMap.getMap().fitBounds(coordinates);
+      dispatch('doneLoading');
+    } else {
+      dispatch('doneLoading');
     }
   }
 
@@ -83,16 +98,7 @@
   // init
   // =====================
 
-  let coordinates = observations.map((o) => [o.latitude, o.longitude]);
-
   onMount(() => {
-    if (coordinates.length > 0) {
-      leafletMap.getMap().fitBounds(coordinates);
-      dispatch('doneLoading');
-    } else {
-      dispatch('doneLoading');
-    }
-
     leafletMap.getMap().on('zoomend', function () {
       zoomLevel = leafletMap.getMap().getZoom();
       if (mapOptions.observationsTimeSpan === 'month') {
