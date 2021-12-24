@@ -6,6 +6,7 @@
 
   export let observation;
   export let projectPath;
+  export let taxon;
 
   $: xValue = showMore ? -20 : 20;
 
@@ -45,7 +46,7 @@
           transition:fly={{ y: xValue, duration: 800 }}
         >
           <ShowMore {showMore} on:toggleShowMore={() => (showMore = !showMore)} />
-          <ObservationData {observation} {projectPath} on:zoomToObservation />
+          <ObservationData {observation} {projectPath} {taxon} on:zoomToObservation />
         </div>
       {/if}
 

@@ -6,6 +6,7 @@
   export let projectPath;
   export let compactLayout = false;
   export let enableZoomToObservation = true;
+  export let taxon = {};
 
   const dispatch = createEventDispatcher();
 
@@ -60,11 +61,13 @@
     <span class="link-color mr-4" on:click={zoomToObservation}>Zoom map</span>
   {/if}
 
-  <a
-    on:click={() => dispatch('changeTaxon', { taxon_id: observation.taxon_id })}
-    class="mr-4"
-    href="{projectPath}/taxa/{observation.taxon_id}">Species page</a
-  >
+  {#if observation.taxon_id !== taxon.taxon_id}
+    <a
+      on:click={() => dispatch('changeTaxon', { taxon_id: observation.taxon_id })}
+      class="mr-4"
+      href="{projectPath}/taxa/{observation.taxon_id}">Species page</a
+    >
+  {/if}
 
   <a href="https://www.inaturalist.org/observations/{observation.id}">iNaturalist observation</a>
 </div>

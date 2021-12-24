@@ -8,6 +8,7 @@
 
   export let observations;
   export let projectPath;
+  export let taxon;
 
   $: observations = sortObservations(observations, orderByValue, timeSpanValue);
   $: observationsDisplay = observations.slice(0, page * limit);
@@ -141,5 +142,6 @@
     observation={observationDisplay}
     observationsIds={observationsDisplayIds}
     {projectPath}
+    {taxon}
   />
 {/if}

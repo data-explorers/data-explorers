@@ -97,7 +97,7 @@
         component: TaxaAbout,
         props: { project, taxon, interactions, projectPath, taxa, taxonIds }
       },
-      TaxaImages: { component: TaxaImages, props: { observations, projectPath } },
+      TaxaImages: { component: TaxaImages, props: { observations, projectPath, taxon } },
       TaxaMedia: { component: TaxaMedia, props: {} }
     };
   }
@@ -132,6 +132,7 @@
     <ObservationBasic
       observation={observationDisplay}
       {projectPath}
+      {taxon}
       on:zoomToObservation={zoomToObservation}
     />
 

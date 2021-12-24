@@ -6,6 +6,7 @@
 
   export let observation;
   export let projectPath;
+  export let taxon;
 
   const dispatch = createEventDispatcher();
 </script>
@@ -22,7 +23,7 @@
   <span class="close" on:click>&#10007;</span>
   <main>
     <article>
-      <ObservationData on:changeTaxon {observation} {projectPath} on:zoomToObservation />
+      <ObservationData on:changeTaxon {observation} {projectPath} {taxon} on:zoomToObservation />
 
       <figure>
         {#if observation.image_url}
