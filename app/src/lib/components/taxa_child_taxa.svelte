@@ -1,5 +1,5 @@
 <script>
-  import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
 
   export let taxon;
   export let projectPath;
@@ -10,11 +10,7 @@
   function getChildTaxa(taxa) {
     return taxa
       .filter((t) => t.parent_id == taxon.taxon_id)
-      .sort((a, b) => {
-        let nameA = (a.common_name + a.scientific_name).toLowerCase();
-        let nameB = (b.common_name + b.scientific_name).toLowerCase();
-        return nameA.localeCompare(nameB);
-      });
+      .sort((a, b) => b.taxa_count - a.taxa_count);
   }
 </script>
 
@@ -26,6 +22,7 @@
         <a href="{projectPath}/taxa/{taxon.taxon_id}">
           {@html formatTaxonDisplayName(taxon)}
         </a>
+        {pluralize('observation', taxon.taxa_count)}
       </li>
     {/each}
   </ul>
