@@ -5,6 +5,22 @@
 
   export let taxon;
   export let project;
+  let tiles;
+  let osm;
+  let osmOptions;
+  let inatGrid;
+  let inatGridOptions;
+  let inatTaxonRange;
+  let inatTaxonRangeOptions;
+
+  $: {
+    tiles = getMapTiles(taxon.taxon_id);
+    osm = tiles.osm;
+    osmOptions = { ...tileLayerOptions, attribution: osm.attribution };
+
+    inatGrid = tiles.inatGrid;
+    inatGridOptions = { ...tileLayerOptions, attribution: inatGrid.attribution };
+  }
 
   let mapOptions = {
     latitude: project.latitude,
@@ -12,12 +28,6 @@
     zoom: 4,
     center: [project.latitude, project.longitude]
   };
-  let tiles = getMapTiles(taxon.taxon_id);
-  let osm = tiles.osm;
-  let osmOptions = { ...tileLayerOptions, attribution: osm.attribution };
-
-  let inatGrid = tiles.inatGrid;
-  let inatGridOptions = { ...tileLayerOptions, attribution: inatGrid.attribution };
 </script>
 
 <div style="width: 65%; height: 400px;">
