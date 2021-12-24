@@ -1,7 +1,8 @@
 <script>
   import { createEventDispatcher } from 'svelte';
 
-  export let showMore;
+  export let showMore = false;
+  export let format = 'upDown';
   const dispatch = createEventDispatcher();
 
   function handleClick() {
@@ -10,15 +11,20 @@
   }
 </script>
 
-{#if showMore}
-  <span class="down-arrow" title="click to show less info" on:click={handleClick} />
+{#if format === 'upDown'}
+  {#if showMore}
+    <span class="arrow down-arrow" title="click to show less info" on:click={handleClick} />
+  {:else}
+    <span class="arrow up-arrow" title="click to show more info" on:click={handleClick} />
+  {/if}
+{:else if showMore}
+  <span class="arrow left-arrow" title="click to show less info" on:click={handleClick} />
 {:else}
-  <span class="up-arrow" title="click to show more info" on:click={handleClick} />
+  <span class="arrow right-arrow" title="click to show more info" on:click={handleClick} />
 {/if}
 
 <style>
-  .up-arrow,
-  .down-arrow {
+  .arrow {
     position: absolute;
     right: 0px;
     top: 5px;
@@ -36,6 +42,23 @@
   }
 
   .down-arrow::after {
+    display: inline-block;
+    transform: scale(1, 0.6);
+    content: '\2228';
+  }
+
+  .left-arrow {
+    transform: rotate(90deg);
+  }
+  .left-arrow::after {
+    display: inline-block;
+    transform: scale(1, 0.6);
+    content: '\2227';
+  }
+  .right-arrow {
+    transform: rotate(90deg);
+  }
+  .right-arrow::after {
     display: inline-block;
     transform: scale(1, 0.6);
     content: '\2228';
