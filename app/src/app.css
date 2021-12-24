@@ -146,8 +146,9 @@ a {
   padding-left: 10px;
 }
 
-.image-card-side-body a {
-  color: initial;
+.image-card-side a,
+.image-card-side a:link {
+  color: inherit;
 }
 
 /* https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/

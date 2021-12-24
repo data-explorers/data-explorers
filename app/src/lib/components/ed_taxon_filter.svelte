@@ -82,8 +82,4 @@
   .image-card-side:hover {
     box-shadow: none;
   }
-
-  .image-card-side a {
-    color: initial;
-  }
 </style>
