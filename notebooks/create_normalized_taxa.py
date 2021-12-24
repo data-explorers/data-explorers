@@ -153,18 +153,9 @@ def create_taxon(row, rank, rank_history):
         taxon["parent_id"] = row[rank + "_parent_id"]
 
     ids = []
-    names = []
-    common_names = []
     for rank in rank_history:
         ids.append(row[rank + "_id"])
-        names.append(row[rank])
-        common_name = (
-            row[rank + "_common_name"] if pd.notna(row[rank + "_common_name"]) else ''
-        )
-        common_names.append(common_name)
 
     taxon["taxon_ids"] = "|".join(ids)
-    taxon["common_names"] = "|".join(common_names)
-    taxon["scientific_names"] = "|".join(names)
 
     return taxon
