@@ -1,23 +1,27 @@
 <script>
   import 'leaflet/dist/leaflet.css';
   import { onMount } from 'svelte';
+  import { createEventDispatcher } from 'svelte';
+  import vegaEmbed from 'vega-embed';
   import { LeafletMap, TileLayer, CircleMarker, Rectangle } from 'svelte-leafletjs';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
-  import { createEventDispatcher } from 'svelte';
+  import barChartLiteSpec from '$lib/charts/bar_chart.json';
 
   import {
     coldMonths,
     rectangleLatitudeZoom,
     rectangleLongitudeZoom,
     tileLayerOptions,
-    tileUrl
+    tileUrl,
+    getMonthName
   } from '$lib/mapUtils';
   import { sortObservations, createGroupObservations } from '$lib/dataUtils';
-  import { modulo } from '$lib/miscUtils';
+  import { modulo, range } from '$lib/miscUtils';
 
   export let observations;
   export let mapOptions;
   export let mapCenter;
+  let chartData;
 
   $: {
     observations = observations.filter((o) => o.latitude && o.longitude);
@@ -32,6 +36,50 @@
     );
     if (mapOptions.observationsTimeSpan !== 'all') {
       groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+    }
+
+    if (mapOptions.observationsTimeSpan === 'month') {
+      // set all months to zero
+      chartData = Array.from({ length: 12 }, (_, i) => ({
+        xValue: getMonthName(i),
+        yValue: 0,
+        label: ''
+      }));
+      groupedObservations.forEach((v, k) => {
+        chartData[k] = {
+          xValue: getMonthName(k),
+          yValue: v.length,
+          color: mapOptions.colorSchemeMonth[k],
+          label: v.length
+        };
+      });
+
+      barChartLiteSpec['data']['values'] = chartData;
+      drawChart(barChartLiteSpec);
+    } else if (mapOptions.observationsTimeSpan === 'year') {
+      // get all years between first and last observations
+      let years = [...groupedObservations.keys()].filter((y) => typeof y === 'number');
+      let allYears = range(years[0], years[years.length - 1]);
+      // set all years to zero
+      chartData = Array.from({ length: allYears.length }, (_, i) => ({
+        xValue: years[0] + i,
+        yValue: 0,
+        label: ''
+      }));
+      groupedObservations.forEach((v, k) => {
+        if (typeof k === 'number') {
+          let index = allYears.indexOf(k);
+          chartData[index] = {
+            xValue: k,
+            yValue: v.length,
+            color: mapOptions.colorSchemeYear[modulo(k, mapOptions.colorSchemeYear.length)],
+            label: v.length
+          };
+        }
+      });
+
+      barChartLiteSpec['data']['values'] = chartData;
+      drawChart(barChartLiteSpec);
     }
   }
 
@@ -94,11 +142,33 @@
     }
   }
 
+  function drawChart(barChartLiteSpec) {
+    // debugger
+    let tooltipOptions = {
+      formatTooltip: (value, sanitize) => {
+        return `${sanitize(value)} observations`;
+      }
+    };
+
+    vegaEmbed('#vis', barChartLiteSpec, { actions: false, tooltip: tooltipOptions })
+      .then((result) => {
+        result.view.addEventListener('click', function (event, item) {
+          console.log('CLICK', event, item);
+          timeSpanHistory[item.datum.xValue] = !timeSpanHistory[item.datum.xValue];
+        });
+      })
+      .catch(console.warn);
+  }
+
   // =====================
   // init
   // =====================
 
   onMount(() => {
+    if (mapOptions.observationsTimeSpan !== 'all') {
+      drawChart(barChartLiteSpec);
+    }
+
     leafletMap.getMap().on('zoomend', function () {
       zoomLevel = leafletMap.getMap().getZoom();
       if (mapOptions.observationsTimeSpan === 'month') {
@@ -186,3 +256,6 @@
   {toggleTimeSpans}
   {timeSpanHistory}
 />
+{#if mapOptions.observationsTimeSpan !== 'all'}
+  <div id="vis" class="w-full mt-4" />
+{/if}

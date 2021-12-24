@@ -1,4 +1,11 @@
 <script context="module">
+  // TODO:
+  // minimize menu
+  // add charts of observation counts
+  // show observation counts change with time span filter
+  // add inat range map and observatios for each taxon
+  // animate by week over time
+
   import data from '$lib/data/data.json';
   import { convertTaxa, convertObservations } from '$lib/convert_data';
 

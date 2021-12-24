@@ -3,7 +3,8 @@
   import data from '$lib/data/data.json';
   import { convertTaxa, convertObservations } from '$lib/convert_data';
 
-  // TODO: range map from inat
+  // TODO: show chart of observations over time
+  // TODO: show number of obsevations with time filters
   // TODO: description from wikipedia
 
   export async function load({ page }) {
@@ -153,3 +154,13 @@
 </div>
 
 <Tabs {tabs} on:zoomToObservation={zoomToObservation} />
+
+<style>
+  /*
+  Changing the time span re-renders the charts, which triggers autoscroll in
+  Chrome. This css fixes the autoscroll behavior in Chrome.
+https://stackoverflow.com/a/42562623 */
+  * {
+    overflow-anchor: none !important;
+  }
+</style>
