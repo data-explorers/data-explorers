@@ -95,7 +95,7 @@
     return {
       TaxaAbout: {
         component: TaxaAbout,
-        props: { project, taxon, interactions, projectPath, taxa, taxonIds }
+        props: { project, taxon, interactions, projectPath, taxa, taxonIds, observations }
       },
       TaxaImages: { component: TaxaImages, props: { observations, projectPath, taxon } },
       TaxaMedia: { component: TaxaMedia, props: {} }

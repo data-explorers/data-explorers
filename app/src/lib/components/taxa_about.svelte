@@ -11,6 +11,7 @@
   export let projectPath;
   export let taxa;
   export let taxonIds;
+  export let observations;
 
   $: eatsTaxa = interactions.filter((i) => i.interaction === 'eats');
   $: eatenByTaxa = interactions.filter((i) => i.interaction === 'eatenBy');
@@ -76,9 +77,11 @@
     excepteur laboris id.
   </p>
 
-  <h3>iNaturalist Observations</h3>
+  <h3>Taxon Range</h3>
 
-  <svelte:component this={RangeMap} {taxon} {project} />
+  <p>Note: Range maps are only available for some species.</p>
+
+  <svelte:component this={RangeMap} {taxon} {project} {observations} />
 
   <h3>Taxonomy</h3>
   <ul class="taxonomy">
