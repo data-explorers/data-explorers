@@ -167,3 +167,7 @@ main {
 .navbar a {
   color: inherit;
 }
+
+.leaflet-container {
+  font-size: 0.875rem !important;
+}
