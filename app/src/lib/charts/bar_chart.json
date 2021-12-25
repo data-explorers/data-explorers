@@ -3,13 +3,9 @@
   "description": "A simple bar chart with embedded data.",
   "width": "container",
   "height": 100,
-  "data": {
-    "values": []
-  },
+  "data": { "values": [] },
   "layer": [
-    {
-      "mark": "bar"
-    },
+    { "mark": "bar" },
     {
       "mark": {
         "type": "text",
@@ -32,11 +28,6 @@
       "sort": null
     },
     "y": { "field": "yValue", "type": "quantitative", "title": "observations" },
-    "tooltip": { "field": "yValue", "type": "quantitative" },
-    "color": {
-      "field": "color",
-      "type": "nominal",
-      "scale": null
-    }
+    "color": { "field": "color", "type": "nominal", "scale": null }
   }
 }

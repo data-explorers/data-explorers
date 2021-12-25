@@ -143,20 +143,8 @@
   }
 
   function drawChart(barChartLiteSpec) {
-    // debugger
-    let tooltipOptions = {
-      formatTooltip: (value, sanitize) => {
-        return `${sanitize(value)} observations`;
-      }
-    };
-
-    vegaEmbed('#vis', barChartLiteSpec, { actions: false, tooltip: tooltipOptions })
-      .then((result) => {
-        result.view.addEventListener('click', function (event, item) {
-          console.log('CLICK', event, item);
-          timeSpanHistory[item.datum.xValue] = !timeSpanHistory[item.datum.xValue];
-        });
-      })
+    vegaEmbed('#vis', barChartLiteSpec, { actions: false })
+      .then((result) => {})
       .catch(console.warn);
   }
 
