@@ -1,11 +1,11 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A simple bar chart with embedded data.",
+  "description": "A bar chart with labels, custom color and custom opacity",
+  "data": { "values": [] },
   "width": "container",
   "height": 100,
-  "data": { "values": [] },
   "layer": [
-    { "mark": "bar" },
+    { "mark": { "type": "bar", "width": { "band": 1 } } },
     {
       "mark": {
         "type": "text",
@@ -13,7 +13,7 @@
         "dy": -10
       },
       "encoding": {
-        "text": { "field": "label", "type": "nominal" },
+        "text": { "field": "yValue", "type": "quantitative" },
         "color": { "value": "black" }
       }
     }
@@ -24,10 +24,11 @@
       "field": "xValue",
       "type": "nominal",
       "axis": { "labelAngle": 0 },
-      "title": "",
+      "title": null,
       "sort": null
     },
     "y": { "field": "yValue", "type": "quantitative", "title": "observations" },
-    "color": { "field": "color", "type": "nominal", "scale": null }
+    "color": { "field": "color", "type": "nominal", "scale": null },
+    "opacity": { "field": "opacity", "type": "quantitative", "scale": null }
   }
 }

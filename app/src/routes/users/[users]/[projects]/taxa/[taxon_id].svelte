@@ -3,7 +3,6 @@
   import data from '$lib/data/data.json';
   import { convertTaxa, convertObservations } from '$lib/convert_data';
 
-  // TODO: show chart of observations over time
   // TODO: show number of obsevations with time filters
   // TODO: description from wikipedia
 
