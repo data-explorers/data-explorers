@@ -32,6 +32,7 @@
 <script>
   import { onMount } from 'svelte';
   import AutoComplete from 'simple-svelte-autocomplete';
+  import vegaEmbed from 'vega-embed';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
   import Loader from '$lib/components/loader.svelte';
   import ProjectHeader from '$lib/components/project_header.svelte';
@@ -39,7 +40,7 @@
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
   import TaxonFilter from '$lib/components/ed_taxon_filter.svelte';
   import { modulo } from '$lib/miscUtils';
-  import { darkGray, defaultColorScheme } from '$lib/mapUtils';
+  import { darkGray, defaultColorScheme, getMonthName } from '$lib/mapUtils';
   import {
     fetchTaxaByName,
     fecthObservationsByTaxonId,
@@ -47,6 +48,7 @@
     createGroupObservations
   } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import barChartSpec from '$lib/charts/bar_chart_group.json';
 
   export let project;
   export let user;
@@ -67,6 +69,92 @@
     showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
   }
 
+  $: {
+    if (mapOptions.observationsTimeSpan == 'all') {
+      let chartData = taxaHistory.map((t) => {
+        return {
+          xValue: t.taxon_name,
+          yValue: t.taxa_count,
+          group: '',
+          color: t.color,
+          label: t.taxa_count,
+          opacity: t.active ? 1 : inactiveOpacity
+        };
+      });
+
+      barChartSpec['data']['values'] = chartData;
+      // legend
+      barChartSpec['spec']['layer'][0]['encoding']['color']['scale'] = {
+        domain: taxaHistory.map((t) => t.taxon_name),
+        range: taxaHistory.map((t) => t.color)
+      };
+
+      drawChart(barChartSpec);
+    } else if (mapOptions.observationsTimeSpan == 'month') {
+      let chartData = [];
+      let monthlyCountsPerTaxon = {};
+      observations;
+      groupedObservations;
+      timeSpanHistory;
+
+      // create a count of the number of taxa per month
+      taxaHistory.forEach((taxon, index) => {
+        taxon.observations
+          .filter((o) => o.month != 'unknown')
+          .forEach((observation) => {
+            let taxonId = Number(taxon.taxon_id);
+            let month = Number(observation.month);
+            if (monthlyCountsPerTaxon[month]) {
+              if (monthlyCountsPerTaxon[month][taxonId]) {
+                monthlyCountsPerTaxon[month][taxonId]['count'] += 1;
+              } else {
+                monthlyCountsPerTaxon[month][taxonId] = {
+                  count: 1,
+                  color: taxon.color,
+                  taxon_name: taxon.taxon_name,
+                  opacity: taxon.active && timeSpanHistory[month] ? 1 : inactiveOpacity,
+                  order: index
+                };
+              }
+            } else {
+              monthlyCountsPerTaxon[month] = {
+                [taxonId]: {
+                  count: 1,
+                  color: taxon.color,
+                  taxon_name: taxon.taxon_name,
+                  opacity: taxon.active && timeSpanHistory[month] ? 1 : inactiveOpacity,
+                  order: index
+                }
+              };
+            }
+          });
+      });
+
+      // debugger
+
+      for (let month in monthlyCountsPerTaxon) {
+        let monthData = monthlyCountsPerTaxon[month];
+        for (let taxonId in monthData) {
+          let taxonData = monthData[taxonId];
+          chartData.push({
+            xValue: taxonData['taxon_name'],
+            yValue: taxonData['count'],
+            group: getMonthName(month),
+            color: taxonData['color'],
+            opacity: taxonData['opacity']
+          });
+        }
+      }
+      // debugger;
+      barChartSpec['facet']['sort'] = Object.keys(monthlyCountsPerTaxon).map((month) =>
+        getMonthName(month)
+      );
+      barChartSpec['data']['values'] = chartData;
+      barChartSpec['spec']['encoding']['x']['sort'] = taxaHistory.map((t) => t.taxon_name);
+      //  debugger
+      drawChart(barChartSpec);
+    }
+  }
   let observations = [];
   let item = '';
   let taxaHistory = []; // all selected taxa
@@ -79,6 +167,7 @@
   let showDemoMapLayer = false;
   let taxaCount = 0;
   let loading = false;
+  let inactiveOpacity = 0.25;
 
   allObservations = allObservations.filter((o) => o.latitude && o.longitude);
 
@@ -94,7 +183,7 @@
     zoom: project.zoom,
     latitude: project.latitude,
     longitude: project.longitude,
-    observationsTimeSpan: 'all',
+    observationsTimeSpan: 'month',
     colorSchemeMonth: Array(12).fill(darkGray),
     colorSchemeYear: [darkGray],
     defaultColor: darkGray,
@@ -136,14 +225,14 @@
   // data
   // =====================
 
-  // loadDemoSpecies();
+  loadDemoSpecies();
 
   function loadDemoSpecies() {
     showDemoSpeciesPrompt = false;
 
     taxa
       .filter((t) => t.rank === 'species')
-      .slice(0, 3)
+      .slice(0, 5)
       .forEach((taxon) => {
         if (taxaHistory.filter((t) => t.taxon_id == taxon.taxon_id).length > 0) {
           return;
@@ -288,6 +377,12 @@
     loading = false;
   }
 
+  function drawChart(barChartSpec) {
+    vegaEmbed('#observations-chart', barChartSpec, { actions: false })
+      .then((result) => {})
+      .catch(console.warn);
+  }
+
   // =====================
   // map
   // =====================
@@ -394,6 +489,7 @@
         {taxaHistory}
         {projectPath}
       />
+      <div id="observations-chart" class="w-full mt-4" />
     </div>
   </div>
 </div>
