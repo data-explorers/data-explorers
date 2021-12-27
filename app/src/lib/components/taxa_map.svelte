@@ -39,7 +39,7 @@
   }
 
   $: {
-    if (mapOptions.observationsTimeSpan === 'month') {
+    if (mounted && mapOptions.observationsTimeSpan === 'month') {
       // set chartData to 12 months of default values
       chartData = Array.from({ length: 12 }, (_, i) => ({
         xValue: getMonthName(i),
@@ -60,7 +60,7 @@
       barChartSpec['data']['values'] = chartData;
 
       drawChart(barChartSpec);
-    } else if (mapOptions.observationsTimeSpan === 'year') {
+    } else if (mounted && mapOptions.observationsTimeSpan === 'year') {
       // get all years between first and last observations
       let years = [...groupedObservations.keys()].filter((year) => typeof year === 'number');
       let allYears = range(years[0], years[years.length - 1]);
@@ -92,7 +92,7 @@
       barChartSpec['data']['values'] = chartData;
 
       drawChart(barChartSpec);
-    } else {
+    } else if (mounted) {
       chartData = [
         {
           xValue: 'All',
@@ -145,6 +145,7 @@
   const dispatch = createEventDispatcher();
   let chartData;
   let inactiveOpacity = 0.25;
+  let mounted = false;
 
   function toggleTimeSpans(e) {
     let targetFilter = e.target.dataset['filter'];
@@ -181,9 +182,7 @@
   // =====================
 
   onMount(() => {
-    if (mapOptions.observationsTimeSpan !== 'all') {
-      drawChart(barChartSpec);
-    }
+    mounted = true;
 
     leafletMap.getMap().on('zoomend', function () {
       zoomLevel = leafletMap.getMap().getZoom();
