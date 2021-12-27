@@ -5,7 +5,7 @@
   import vegaEmbed from 'vega-embed';
   import { LeafletMap, TileLayer, CircleMarker, Rectangle } from 'svelte-leafletjs';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
-  import barChartSpec from '$lib/charts/bar_chart.json';
+  import barChartJson from '$lib/charts/bar_chart.json';
 
   import {
     coldMonths,
@@ -146,6 +146,7 @@
   let chartData;
   let inactiveOpacity = 0.25;
   let mounted = false;
+  let barChartSpec = JSON.parse(JSON.stringify(barChartJson));
 
   function toggleTimeSpans(e) {
     let targetFilter = e.target.dataset['filter'];

@@ -49,8 +49,8 @@
     generateTimeSpanCounts
   } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
-  import barChartGroupSpec from '$lib/charts/bar_chart_group.json';
-  import barChartSpec from '$lib/charts/bar_chart.json';
+  import barChartGroupJson from '$lib/charts/bar_chart_group.json';
+  import barChartJson from '$lib/charts/bar_chart.json';
 
   export let project;
   export let user;
@@ -174,6 +174,8 @@
   let loading = true;
   let inactiveOpacity = 0.25;
   let mounted = false;
+  let barChartSpec = JSON.parse(JSON.stringify(barChartJson));
+  let barChartGroupSpec = JSON.parse(JSON.stringify(barChartGroupJson));
 
   allObservations = allObservations.filter((o) => o.latitude && o.longitude);
 
