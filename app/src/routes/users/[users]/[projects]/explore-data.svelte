@@ -166,8 +166,9 @@
   let showClimate = false;
   let showDemoMapLayer = false;
   let taxaCount = 0;
-  let loading = false;
+  let loading = true;
   let inactiveOpacity = 0.25;
+  let mounted = false;
 
   allObservations = allObservations.filter((o) => o.latitude && o.longitude);
 
@@ -391,6 +392,8 @@
   onMount(async () => {
     const comp = await import('$lib/components/explore_data_map.svelte');
     Map = comp.default;
+    loading = false;
+    mounted = true;
   });
 </script>
 
@@ -477,8 +480,12 @@
     </div>
 
     <div class="lg:col-span-7 relative">
-      {#if loading}
+      {#if mounted && loading}
         <Loader />
+      {/if}
+      {#if !mounted}
+        <Loader />
+        <div class="bg-gray-100" style="width: 100%; height: 600px;" />
       {/if}
       <svelte:component
         this={Map}
