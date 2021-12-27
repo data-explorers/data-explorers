@@ -1,8 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A bar chart with labels, custom color and custon opacity.",
+  "description": "A faceted bar chart with labels, custom color and custon opacity.",
   "data": { "values": [] },
-
   "facet": {
     "field": "group",
     "type": "nominal",
@@ -11,24 +10,29 @@
     "sort": null
   },
   "spec": {
-    "width": {"step": 30},
+    "width": { "step": 25 },
     "encoding": {
       "y": {
         "field": "yValue",
         "type": "quantitative",
         "title": "observations"
       },
-      "x": { "field": "xValue", "type": "nominal", "title": null, "sort": null, "axis": null },
+      "x": {
+        "field": "xValue",
+        "type": "nominal",
+        "title": null,
+        "sort": null,
+        "axis": { "labelAngle": 0, "labelOverlap": true }
+      },
       "opacity": { "field": "opacity", "type": "quantitative", "scale": null }
     },
     "layer": [
       {
-        "mark": {"type": "bar"},
+        "mark": { "type": "bar" },
         "encoding": {
           "color": {
-            "field": "xValue",
-            "type": "nominal",
-            "title": null
+            "field": "color",
+            "type": "nominal"
           }
         }
       },
@@ -52,9 +56,8 @@
   },
 
   "config": {
-    "view": { "stroke": "transparent" },
-    "facet": { "columns": 4 },
-    "axis": { "titleFontSize": 14, "labelFontSize": 14, "labelColor": "#333" },
+    "facet": { "columns": 2 },
+    "axis": { "titleFontSize": 14, "labelFontSize": 12, "labelColor": "#333" },
     "legend": {
       "titleFontSize": 14,
       "labelFontSize": 14,
@@ -66,5 +69,6 @@
     "header": { "titleFontSize": 14, "labelFontSize": 14, "labelColor": "#333" },
     "mark": { "fontSize": 12, "color": "#333" },
     "title": { "fontSize": 14, "color": "#333" }
-  }
+  },
+  "resolve": { "axis": { "x": "independent", "y": "independent" } }
 }

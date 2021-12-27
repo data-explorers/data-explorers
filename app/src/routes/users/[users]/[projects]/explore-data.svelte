@@ -48,7 +48,8 @@
     createGroupObservations
   } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
-  import barChartSpec from '$lib/charts/bar_chart_group.json';
+  import barChartGroupSpec from '$lib/charts/bar_chart_group.json';
+  import barChartSpec from '$lib/charts/bar_chart.json';
 
   export let project;
   export let user;
@@ -76,7 +77,7 @@
           xValue: t.taxon_name,
           yValue: t.taxa_count,
           group: '',
-          color: t.color,
+          color: t.taxon_name,
           label: t.taxa_count,
           opacity: t.active ? 1 : inactiveOpacity
         };
@@ -84,77 +85,70 @@
 
       barChartSpec['data']['values'] = chartData;
       // legend
-      barChartSpec['spec']['layer'][0]['encoding']['color']['scale'] = {
+      barChartSpec['encoding']['x']['axis'] = null;
+      barChartSpec['encoding']['color']['scale'] = {
         domain: taxaHistory.map((t) => t.taxon_name),
         range: taxaHistory.map((t) => t.color)
       };
+      barChartSpec['encoding']['color']['title'] = null;
 
       drawChart(barChartSpec);
     } else if (mapOptions.observationsTimeSpan == 'month') {
+      // observations;
+      // groupedObservations;
+      // timeSpanHistory;
       let chartData = [];
-      let monthlyCountsPerTaxon = {};
-      observations;
-      groupedObservations;
-      timeSpanHistory;
-
-      // create a count of the number of taxa per month
-      taxaHistory.forEach((taxon, index) => {
-        taxon.observations
-          .filter((o) => o.month != 'unknown')
-          .forEach((observation) => {
-            let taxonId = Number(taxon.taxon_id);
-            let month = Number(observation.month);
-            if (monthlyCountsPerTaxon[month]) {
-              if (monthlyCountsPerTaxon[month][taxonId]) {
-                monthlyCountsPerTaxon[month][taxonId]['count'] += 1;
-              } else {
-                monthlyCountsPerTaxon[month][taxonId] = {
-                  count: 1,
-                  color: taxon.color,
-                  taxon_name: taxon.taxon_name,
-                  opacity: taxon.active && timeSpanHistory[month] ? 1 : inactiveOpacity,
-                  order: index
-                };
-              }
-            } else {
-              monthlyCountsPerTaxon[month] = {
-                [taxonId]: {
-                  count: 1,
-                  color: taxon.color,
-                  taxon_name: taxon.taxon_name,
-                  opacity: taxon.active && timeSpanHistory[month] ? 1 : inactiveOpacity,
-                  order: index
-                }
-              };
-            }
-          });
-      });
-
-      // debugger
+      let monthlyCountsPerTaxon = generateTimeSpanCounts(taxaHistory, timeSpanHistory, 'month');
 
       for (let month in monthlyCountsPerTaxon) {
         let monthData = monthlyCountsPerTaxon[month];
         for (let taxonId in monthData) {
           let taxonData = monthData[taxonId];
           chartData.push({
-            xValue: taxonData['taxon_name'],
+            xValue: getMonthName(month),
             yValue: taxonData['count'],
-            group: getMonthName(month),
+            group: taxonData['taxon_name'],
             color: taxonData['color'],
             opacity: taxonData['opacity']
           });
         }
       }
-      // debugger;
-      barChartSpec['facet']['sort'] = Object.keys(monthlyCountsPerTaxon).map((month) =>
-        getMonthName(month)
-      );
-      barChartSpec['data']['values'] = chartData;
-      barChartSpec['spec']['encoding']['x']['sort'] = taxaHistory.map((t) => t.taxon_name);
-      //  debugger
-      drawChart(barChartSpec);
+
+      barChartGroupSpec['data']['values'] = chartData;
+      // ensure the charts are in the same order as the taxa filters
+      barChartGroupSpec['facet']['sort'] = taxaHistory.map((t) => t.taxon_name);
+      // hide legend
+      barChartGroupSpec['spec']['layer'][0]['encoding']['color']['scale'] = null;
+
+      drawChart(barChartGroupSpec);
+    } else {
+      let chartData = [];
+      let yearlyCountsPerTaxon = generateTimeSpanCounts(taxaHistory, timeSpanHistory, 'year');
+
+      for (let year in yearlyCountsPerTaxon) {
+        let yearData = yearlyCountsPerTaxon[year];
+        for (let taxonId in yearData) {
+          let taxonData = yearData[taxonId];
+          chartData.push({
+            xValue: year,
+            yValue: taxonData['count'],
+            group: taxonData['taxon_name'],
+            color: taxonData['color'],
+            opacity: taxonData['opacity']
+          });
+        }
+      }
+
+      barChartGroupSpec['data']['values'] = chartData;
+      // ensure the charts are in the same order as the taxa filters
+      barChartGroupSpec['facet']['sort'] = taxaHistory.map((t) => t.taxon_name);
+      // hide legend
+      barChartGroupSpec['spec']['layer'][0]['encoding']['color']['scale'] = null;
+
+      drawChart(barChartGroupSpec);
     }
   }
+
   let observations = [];
   let item = '';
   let taxaHistory = []; // all selected taxa
@@ -184,7 +178,7 @@
     zoom: project.zoom,
     latitude: project.latitude,
     longitude: project.longitude,
-    observationsTimeSpan: 'month',
+    observationsTimeSpan: 'year',
     colorSchemeMonth: Array(12).fill(darkGray),
     colorSchemeYear: [darkGray],
     defaultColor: darkGray,
@@ -223,7 +217,7 @@
   }
 
   // =====================
-  // data
+  // process observations data
   // =====================
 
   loadDemoSpecies();
@@ -288,6 +282,10 @@
     }
     loading = false;
   }
+
+  // =====================
+  // taxa filters
+  // =====================
 
   function removeTaxon(e) {
     loading = true;
@@ -355,6 +353,10 @@
     loading = false;
   }
 
+  // =====================
+  // time span filters
+  // =====================
+
   function toggleTimeSpans(e) {
     let targetFilter = e.target.dataset['filter'];
     targetFilter = targetFilter === 'unknown' ? 'unknown' : Number(targetFilter);
@@ -378,10 +380,57 @@
     loading = false;
   }
 
-  function drawChart(barChartSpec) {
-    vegaEmbed('#observations-chart', barChartSpec, { actions: false })
+  // =====================
+  // charts
+  // =====================
+
+  function drawChart(spec) {
+    vegaEmbed('#ed-chart', spec, { actions: false })
       .then((result) => {})
       .catch(console.warn);
+  }
+
+  function generateTimeSpanCounts(taxaHistory, timeSpanHistory, type) {
+    let timePeriodCountsPerTaxon = {};
+    let inactiveOpacity = 0.25;
+
+    function formatDefaultRecord(taxon, timePeriod) {
+      return {
+        count: 1,
+        color: taxon.color,
+        taxon_name: taxon.taxon_name,
+        opacity: taxon.active && timeSpanHistory[timePeriod] ? 1 : inactiveOpacity
+      };
+    }
+
+    // create a count of the number of taxa per month
+    taxaHistory.forEach((taxon) => {
+      taxon.observations
+        .filter((o) => o.month != 'unknown')
+        .forEach((observation) => {
+          let taxonId = Number(taxon.taxon_id);
+          let timePeriod = Number(observation[type]);
+          if (timePeriodCountsPerTaxon[timePeriod]) {
+            // increment count for existing time period and taxon
+            if (timePeriodCountsPerTaxon[timePeriod][taxonId]) {
+              timePeriodCountsPerTaxon[timePeriod][taxonId]['count'] += 1;
+              // add taxon to existing time period
+            } else {
+              timePeriodCountsPerTaxon[timePeriod][taxonId] = formatDefaultRecord(
+                taxon,
+                timePeriod
+              );
+            }
+            // add time period and taxon
+          } else {
+            timePeriodCountsPerTaxon[timePeriod] = {
+              [taxonId]: formatDefaultRecord(taxon, timePeriod)
+            };
+          }
+        });
+    });
+
+    return timePeriodCountsPerTaxon;
   }
 
   // =====================
@@ -496,7 +545,7 @@
         {taxaHistory}
         {projectPath}
       />
-      <div id="observations-chart" class="w-full mt-4" />
+      <div id="ed-chart" class="w-full mt-4" />
     </div>
   </div>
 </div>

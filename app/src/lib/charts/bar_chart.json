@@ -23,12 +23,27 @@
     "x": {
       "field": "xValue",
       "type": "nominal",
-      "axis": { "labelAngle": 0 },
+      "axis": { "labelAngle": 0, "labelLimit": 0 },
       "title": null,
       "sort": null
     },
     "y": { "field": "yValue", "type": "quantitative", "title": "observations" },
     "color": { "field": "color", "type": "nominal", "scale": null },
     "opacity": { "field": "opacity", "type": "quantitative", "scale": null }
+  },
+  "config": {
+    "facet": { "columns": 2 },
+    "axis": { "titleFontSize": 14, "labelFontSize": 12, "labelColor": "#333" },
+    "legend": {
+      "titleFontSize": 14,
+      "labelFontSize": 14,
+      "labelLimit": 0,
+      "orient": "right",
+      "columns": 1,
+      "labelColor": "#333"
+    },
+    "header": { "titleFontSize": 14, "labelFontSize": 14, "labelColor": "#333" },
+    "mark": { "fontSize": 12, "color": "#333" },
+    "title": { "fontSize": 14, "color": "#333" }
   }
 }
