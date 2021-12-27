@@ -1,8 +1,8 @@
 <script context="module">
-  import data from '$lib/data/data.json';
+  import settings from '$lib/data/settings.json';
 
   export async function load({ page }) {
-    let user = data.filter((user) => user.username === page.params.users)[0];
+    let user = settings.filter((user) => user.username === page.params.users)[0];
     let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
 
     return { props: { project, user } };

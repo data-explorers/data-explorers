@@ -1,7 +1,7 @@
 <script>
-  import data from '$lib/data/data.json';
-  for (let index = 0; index < data.length; index++) {
-    const user_data = data[index];
+  import settings from '$lib/data/settings.json';
+  for (let index = 0; index < settings.length; index++) {
+    const user_data = settings[index];
     if (user_data.projects.length === 1) {
       user_data.card_link = `/users/${user_data.username}/${user_data.projects[0].slug}`;
     } else {
@@ -14,7 +14,7 @@
   <h1>Projects</h1>
 
   <div class="grid lg:grid-cols-3 md:grid-cols-2 justify-center gap-3">
-    {#each data as user_data}
+    {#each settings as user_data}
       <div class="image-card">
         <a href={user_data.card_link}>
           <figure>

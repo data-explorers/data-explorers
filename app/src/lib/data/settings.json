@@ -20,6 +20,8 @@
         "zoom": 10,
         "contact": "",
         "observationsTimeSpan": "all",
+        "observedMonths": [5,6,7],
+        "observedYears": [2021],
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/l-a-bioblitz-challenge",
@@ -74,6 +76,8 @@
         "longitude": -73.9709,
         "zoom": 18,
         "observationsTimeSpan": "year",
+        "observedMonths": [4,5,10],
+        "observedYears": [2015, 2021],
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/user/lgertzer",
@@ -121,6 +125,8 @@
         "longitude": -77.033333,
         "zoom": 11,
         "observationsTimeSpan": "all",
+        "observedMonths": [0,1,2,3,4,5,6,7,8,9,10,11],
+        "observedYears": [2011, 2021],
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/murcielagos-en-mi-ciudad",
@@ -157,6 +163,8 @@
         "longitude": -77.033333,
         "zoom": 11,
         "observationsTimeSpan": "all",
+        "observedMonths": [0,1,2,3,4,5,6,7,8,9,10,11],
+        "observedYears": [2011, 2021],
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/abejas-en-mi-ciudad-lima",
@@ -200,6 +208,8 @@
         "longitude": -93.199403,
         "zoom": 14,
         "observationsTimeSpan": "month",
+        "observedMonths": [0,1,2,3,4,5,6,7,8,9,10,11],
+        "observedYears": [2012, 2021],
         "links": [
           {
             "url": "https://www.cedarcreek.umn.edu",

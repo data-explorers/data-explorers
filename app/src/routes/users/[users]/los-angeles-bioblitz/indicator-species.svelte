@@ -1,10 +1,10 @@
 <script context="module">
-  import data from '$lib/data/data.json';
+  import settings from '$lib/data/settings.json';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
 
   export async function load({ page }) {
     let page_parts = page.path.split('/');
-    let user = data.filter((user) => user.username === page_parts[2])[0];
+    let user = settings.filter((user) => user.username === page_parts[2])[0];
     let project = user.projects.filter((project) => project.slug === page_parts[3])[0];
     return { props: { user, project } };
   }

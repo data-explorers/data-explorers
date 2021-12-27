@@ -1,6 +1,6 @@
 <script context="module">
   import allInteractions from '$lib/data/interactions.csv';
-  import data from '$lib/data/data.json';
+  import settings from '$lib/data/settings.json';
   import { convertTaxa, convertObservations } from '$lib/convert_data';
 
   // TODO: show number of obsevations with time filters
@@ -21,7 +21,7 @@
       .filter((o) => o.taxon_ids)
       .filter((o) => o.taxon_ids.split('|').includes('' + page.params.taxon_id));
 
-    let user = data.filter((user) => user.username === page.params.users)[0];
+    let user = settings.filter((user) => user.username === page.params.users)[0];
     let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
     let interactions = allInteractions
       .filter((i) => i.subject_taxon_id)
