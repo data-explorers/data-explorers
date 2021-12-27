@@ -45,7 +45,8 @@
     fetchTaxaByName,
     fecthObservationsByTaxonId,
     sortObservations,
-    createGroupObservations
+    createGroupObservations,
+    generateTimeSpanCounts
   } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import barChartGroupSpec from '$lib/charts/bar_chart_group.json';
@@ -98,7 +99,12 @@
       // groupedObservations;
       // timeSpanHistory;
       let chartData = [];
-      let monthlyCountsPerTaxon = generateTimeSpanCounts(taxaHistory, timeSpanHistory, 'month');
+      let monthlyCountsPerTaxon = generateTimeSpanCounts(
+        'month',
+        taxaHistory,
+        timeSpanHistory,
+        inactiveOpacity
+      );
 
       for (let month in monthlyCountsPerTaxon) {
         let monthData = monthlyCountsPerTaxon[month];
@@ -123,7 +129,12 @@
       drawChart(barChartGroupSpec);
     } else {
       let chartData = [];
-      let yearlyCountsPerTaxon = generateTimeSpanCounts(taxaHistory, timeSpanHistory, 'year');
+      let yearlyCountsPerTaxon = generateTimeSpanCounts(
+        'year',
+        taxaHistory,
+        timeSpanHistory,
+        inactiveOpacity
+      );
 
       for (let year in yearlyCountsPerTaxon) {
         let yearData = yearlyCountsPerTaxon[year];
@@ -178,7 +189,7 @@
     zoom: project.zoom,
     latitude: project.latitude,
     longitude: project.longitude,
-    observationsTimeSpan: 'year',
+    observationsTimeSpan: 'all',
     colorSchemeMonth: Array(12).fill(darkGray),
     colorSchemeYear: [darkGray],
     defaultColor: darkGray,
@@ -390,49 +401,6 @@
       .catch(console.warn);
   }
 
-  function generateTimeSpanCounts(taxaHistory, timeSpanHistory, type) {
-    let timePeriodCountsPerTaxon = {};
-    let inactiveOpacity = 0.25;
-
-    function formatDefaultRecord(taxon, timePeriod) {
-      return {
-        count: 1,
-        color: taxon.color,
-        taxon_name: taxon.taxon_name,
-        opacity: taxon.active && timeSpanHistory[timePeriod] ? 1 : inactiveOpacity
-      };
-    }
-
-    // create a count of the number of taxa per month
-    taxaHistory.forEach((taxon) => {
-      taxon.observations
-        .filter((o) => o.month != 'unknown')
-        .forEach((observation) => {
-          let taxonId = Number(taxon.taxon_id);
-          let timePeriod = Number(observation[type]);
-          if (timePeriodCountsPerTaxon[timePeriod]) {
-            // increment count for existing time period and taxon
-            if (timePeriodCountsPerTaxon[timePeriod][taxonId]) {
-              timePeriodCountsPerTaxon[timePeriod][taxonId]['count'] += 1;
-              // add taxon to existing time period
-            } else {
-              timePeriodCountsPerTaxon[timePeriod][taxonId] = formatDefaultRecord(
-                taxon,
-                timePeriod
-              );
-            }
-            // add time period and taxon
-          } else {
-            timePeriodCountsPerTaxon[timePeriod] = {
-              [taxonId]: formatDefaultRecord(taxon, timePeriod)
-            };
-          }
-        });
-    });
-
-    return timePeriodCountsPerTaxon;
-  }
-
   // =====================
   // map
   // =====================
@@ -469,7 +437,7 @@
       {#if showDemoSpeciesPrompt}
         <label class="cursor-pointer block">
           <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />
-          <span>Show 3 most observed species</span>
+          <span>Show 5 most observed species</span>
         </label>
       {/if}
 

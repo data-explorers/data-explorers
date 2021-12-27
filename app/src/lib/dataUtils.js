@@ -1,5 +1,5 @@
 import { formatTaxonDisplayName } from '$lib/formatUtils';
-import { getDateRange, groupByMap } from '$lib/miscUtils';
+import { getDateRange, groupByMap, range } from '$lib/miscUtils';
 
 export const fetchTaxaByName = (taxa, keyword) => {
   // find taxa whose common name or scientific name matches the keyword
@@ -183,4 +183,65 @@ export function createGroupObservations(observations, timeSpanValue) {
     groups.set('unknown', invalidObservations);
   }
   return groups;
+}
+
+export function generateTimeSpanCounts(type, taxaHistory, timeSpanHistory, inactiveOpacity) {
+  let timePeriodCountsPerTaxon = {};
+  let missingPeriods = [];
+
+  function formatDefaultRecord(taxon, timePeriod) {
+    return {
+      count: 1,
+      color: taxon.color,
+      taxon_name: taxon.taxon_name,
+      opacity: taxon.active && timeSpanHistory[timePeriod] ? 1 : inactiveOpacity
+    };
+  }
+
+  // create a count of the number of taxa per month
+  taxaHistory.forEach((taxon) => {
+    taxon.observations
+      .filter((o) => o.month != 'unknown')
+      .forEach((observation) => {
+        let taxonId = Number(taxon.taxon_id);
+        let timePeriod = Number(observation[type]);
+        if (timePeriodCountsPerTaxon[timePeriod]) {
+          // increment count for existing time period and taxon
+          if (timePeriodCountsPerTaxon[timePeriod][taxonId]) {
+            timePeriodCountsPerTaxon[timePeriod][taxonId]['count'] += 1;
+            // add taxon to existing time period
+          } else {
+            timePeriodCountsPerTaxon[timePeriod][taxonId] = formatDefaultRecord(taxon, timePeriod);
+          }
+          // add time period and taxon
+        } else {
+          timePeriodCountsPerTaxon[timePeriod] = {
+            [taxonId]: formatDefaultRecord(taxon, timePeriod)
+          };
+        }
+      });
+  });
+
+  // add empty records for time periods that don't have observations
+  if (type === 'month') {
+    let months = Object.keys(timePeriodCountsPerTaxon).map((m) => Number(m));
+    let allMonths = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+    missingPeriods = allMonths.filter((num) => !months.includes(num));
+  } else if (type === 'year') {
+    let years = Object.keys(timePeriodCountsPerTaxon).map((y) => Number(y));
+    let allYears = range(years[0], years[years.length - 1]);
+    missingPeriods = allYears.filter((year) => !years.includes(year));
+  }
+
+  let taxon = taxaHistory[0];
+  missingPeriods.forEach((period) => {
+    timePeriodCountsPerTaxon[period] = {};
+    timePeriodCountsPerTaxon[period][taxon.taxon_id] = {
+      count: 0,
+      opacity: 0,
+      taxon_name: taxon.taxon_name
+    };
+  });
+
+  return timePeriodCountsPerTaxon;
 }
