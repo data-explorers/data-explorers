@@ -81,7 +81,7 @@
     zoom: project.zoom,
     latitude: project.latitude,
     longitude: project.longitude,
-    observationsTimeSpan: project.observationsTimeSpan,
+    observationsTimeSpan: project.observations_time_span,
     center: [project.latitude || 0, project.longitude || 0],
     preferCanvas: true
   };
@@ -147,6 +147,7 @@
         on:doneLoading={() => (loading = false)}
         on:markerClick={changeObservation}
         {mapCenter}
+        {project}
       />
     </div>
   </div>

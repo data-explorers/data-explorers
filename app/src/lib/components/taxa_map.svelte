@@ -21,6 +21,7 @@
   export let observations;
   export let mapOptions;
   export let mapCenter;
+  export let project;
 
   $: {
     observations = observations.filter((o) => o.latitude && o.longitude);
@@ -40,20 +41,26 @@
 
   $: {
     if (mounted && mapOptions.observationsTimeSpan === 'month') {
-      // set chartData to 12 months of default values
-      chartData = Array.from({ length: 12 }, (_, i) => ({
-        xValue: getMonthName(i),
-        yValue: 0,
-        opacity: 0
-      }));
+      // set default values for months that are observed
+      chartData = project.observed_months.map((m) => {
+        return {
+          xValue: getMonthName(m),
+          yValue: 0,
+          opacity: 0
+        };
+      });
+
       // fill chartData with real values
       groupedObservations.forEach((v, k) => {
-        chartData[k] = {
-          xValue: getMonthName(k),
-          yValue: v.length,
-          color: mapOptions.colorSchemeMonth[k],
-          opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
-        };
+        if (typeof k === 'number') {
+          let index = project.observed_months.indexOf(k);
+          chartData[index] = {
+            xValue: getMonthName(k),
+            yValue: v.length,
+            color: mapOptions.colorSchemeMonth[k],
+            opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
+          };
+        }
       });
 
       barChartSpec['layer'][0]['mark']['width']['band'] = 1;
@@ -62,15 +69,17 @@
       drawChart(barChartSpec);
     } else if (mounted && mapOptions.observationsTimeSpan === 'year') {
       // get all years between first and last observations
-      let years = [...groupedObservations.keys()].filter((year) => typeof year === 'number');
-      let allYears = range(years[0], years[years.length - 1]);
-      // set chartData to all years with default values
-      chartData = Array.from({ length: allYears.length }, (_, i) => ({
-        xValue: years[0] + i,
-        yValue: 0,
-        opacity: 1
-      }));
-      // fill chartData with real values
+      // let years = [...groupedObservations.keys()].filter((year) => typeof year === 'number');
+      let allYears = range(project.observed_years[0], project.observed_years[1]);
+
+      chartData = allYears.map((y) => {
+        return {
+          xValue: y,
+          yValue: 0,
+          opacity: 0
+        };
+      });
+
       groupedObservations.forEach((v, k) => {
         if (typeof k === 'number') {
           let index = allYears.indexOf(k);

@@ -103,7 +103,8 @@
         'month',
         taxaHistory,
         timeSpanHistory,
-        inactiveOpacity
+        inactiveOpacity,
+        project
       );
 
       for (let month in monthlyCountsPerTaxon) {
@@ -133,7 +134,8 @@
         'year',
         taxaHistory,
         timeSpanHistory,
-        inactiveOpacity
+        inactiveOpacity,
+        project
       );
 
       for (let year in yearlyCountsPerTaxon) {

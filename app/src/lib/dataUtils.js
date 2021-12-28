@@ -185,7 +185,17 @@ export function createGroupObservations(observations, timeSpanValue) {
   return groups;
 }
 
-export function generateTimeSpanCounts(type, taxaHistory, timeSpanHistory, inactiveOpacity) {
+export function generateTimeSpanCounts(
+  type,
+  taxaHistory,
+  timeSpanHistory,
+  inactiveOpacity,
+  project
+) {
+  if (taxaHistory.length === 0) {
+    return {};
+  }
+
   let timePeriodCountsPerTaxon = {};
   let missingPeriods = [];
 
@@ -222,14 +232,25 @@ export function generateTimeSpanCounts(type, taxaHistory, timeSpanHistory, inact
       });
   });
 
-  // add empty records for time periods that don't have observations
+  addMissingTimePeriods(type, timePeriodCountsPerTaxon, missingPeriods, taxaHistory, project);
+
+  return timePeriodCountsPerTaxon;
+}
+
+function addMissingTimePeriods(
+  type,
+  timePeriodCountsPerTaxon,
+  missingPeriods,
+  taxaHistory,
+  project
+) {
   if (type === 'month') {
     let months = Object.keys(timePeriodCountsPerTaxon).map((m) => Number(m));
-    let allMonths = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+    let allMonths = project.observed_months;
     missingPeriods = allMonths.filter((num) => !months.includes(num));
   } else if (type === 'year') {
     let years = Object.keys(timePeriodCountsPerTaxon).map((y) => Number(y));
-    let allYears = range(years[0], years[years.length - 1]);
+    let allYears = range(project.observed_years[0], project.observed_years[1]);
     missingPeriods = allYears.filter((year) => !years.includes(year));
   }
 
@@ -242,6 +263,4 @@ export function generateTimeSpanCounts(type, taxaHistory, timeSpanHistory, inact
       taxon_name: taxon.taxon_name
     };
   });
-
-  return timePeriodCountsPerTaxon;
 }
