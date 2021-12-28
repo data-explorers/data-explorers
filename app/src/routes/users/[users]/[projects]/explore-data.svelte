@@ -85,6 +85,7 @@
       });
 
       barChartSpec['data']['values'] = chartData;
+      barChartSpec['height'] = 200;
       // legend
       barChartSpec['encoding']['x']['axis'] = null;
       barChartSpec['encoding']['color']['scale'] = {
@@ -234,8 +235,6 @@
   // =====================
   // process observations data
   // =====================
-
-  loadDemoSpecies();
 
   function loadDemoSpecies() {
     showDemoSpeciesPrompt = false;

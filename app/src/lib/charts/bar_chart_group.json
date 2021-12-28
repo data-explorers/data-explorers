@@ -11,6 +11,7 @@
   },
   "spec": {
     "width": { "step": 25 },
+    "height": 200,
     "encoding": {
       "y": {
         "field": "yValue",
@@ -62,7 +63,7 @@
       "titleFontSize": 14,
       "labelFontSize": 14,
       "labelLimit": 0,
-      "orient": "right",
+      "orient": "bottom",
       "columns": 1,
       "labelColor": "#333"
     },
