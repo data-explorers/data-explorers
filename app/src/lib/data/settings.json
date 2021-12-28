@@ -19,9 +19,9 @@
         "longitude": -118.25,
         "zoom": 10,
         "contact": "",
-        "observationsTimeSpan": "all",
-        "observedMonths": [5,6,7],
-        "observedYears": [2021],
+        "observations_time_span": "all",
+        "observed_months": [5, 6, 7],
+        "observed_years": [2021, 2021],
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/l-a-bioblitz-challenge",
@@ -29,7 +29,12 @@
           }
         ],
         "tabs_project": [
-          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
+          {
+            "label": "About",
+            "component": "AboutProject",
+            "value": 0,
+            "link": ""
+          },
           {
             "label": "Indicator Species",
             "component": "TaxaGrid",
@@ -50,9 +55,21 @@
           }
         ],
         "tabs_taxa": [
-          { "label": "About", "component": "TaxaAbout", "value": 0 },
-          { "label": "Images", "component": "TaxaImages", "value": 1 }
-        ]
+          {
+            "label": "About",
+            "component": "TaxaAbout",
+            "value": 0
+          },
+          {
+            "label": "Images",
+            "component": "TaxaImages",
+            "value": 1
+          }
+        ],
+        "observations_count": 14841,
+        "observers_count": 1854,
+        "taxa_count": 1625,
+        "species_count": 1625
       }
     ]
   },
@@ -75,9 +92,9 @@
         "latitude": 41.1501,
         "longitude": -73.9709,
         "zoom": 18,
-        "observationsTimeSpan": "year",
-        "observedMonths": [4,5,10],
-        "observedYears": [2015, 2021],
+        "observations_time_span": "year",
+        "observed_months": [4, 5, 10],
+        "observed_years": [2015, 2021],
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/user/lgertzer",
@@ -89,8 +106,18 @@
           }
         ],
         "tabs_project": [
-          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
+          {
+            "label": "About",
+            "component": "AboutProject",
+            "value": 0,
+            "link": ""
+          },
+          {
+            "label": "Species",
+            "component": "TaxaGrid",
+            "value": 1,
+            "link": "taxa"
+          },
           {
             "label": "Explore Data",
             "component": "ExploreData",
@@ -99,34 +126,46 @@
           }
         ],
         "tabs_taxa": [
-          { "label": "About", "component": "TaxaAbout", "value": 0 },
-          { "label": "Images", "component": "TaxaImages", "value": 1 }
-        ]
+          {
+            "label": "About",
+            "component": "TaxaAbout",
+            "value": 0
+          },
+          {
+            "label": "Images",
+            "component": "TaxaImages",
+            "value": 1
+          }
+        ],
+        "observations_count": 1086,
+        "observers_count": 187,
+        "taxa_count": 250,
+        "species_count": 250
       }
     ]
   },
   {
     "username": "avilchez",
-    "card_title": "Ciencia Ciudadana Perú",
+    "card_title": "Ciencia Ciudadana Per\u00fa",
     "card_summary": "Est et aute Lorem veniam id amet adipisicing proident laboris.",
     "image": "https://picsum.photos/id/18",
     "projects": [
       {
         "id": 3,
-        "title": "Murciélagos en mi ciudad",
+        "title": "Murci\u00e9lagos en mi ciudad",
         "summary": "Est et aute Lorem veniam id amet adipisicing proident laboris.",
         "slug": "ciencia-ciudadana-peru-bats",
         "location": "Peru",
-        "start_date": "2020",
+        "start_date": "2011",
         "target_audience": "general public",
         "image": "https://picsum.photos/id/18",
         "description": "<p>Consequat est amet tempor minim minim. Irure mollit sint voluptate deserunt ullamco nisi sit ea cillum. Laboris laborum veniam consequat cupidatat veniam amet ex cupidatat enim ut aliqua amet. Est tempor quis officia officia fugiat ullamco ad deserunt ipsum. Irure amet labore nostrud irure consectetur irure.</p><p>Tempor aliqua nostrud exercitation enim ea labore consequat voluptate aute. Commodo quis ad labore veniam proident magna. Officia aliqua reprehenderit sint sunt velit ut enim reprehenderit fugiat exercitation do.</p>",
         "latitude": -12.05,
         "longitude": -77.033333,
         "zoom": 11,
-        "observationsTimeSpan": "all",
-        "observedMonths": [0,1,2,3,4,5,6,7,8,9,10,11],
-        "observedYears": [2011, 2021],
+        "observations_time_span": "all",
+        "observed_months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+        "observed_years": [2011, 2021],
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/murcielagos-en-mi-ciudad",
@@ -134,8 +173,18 @@
           }
         ],
         "tabs_project": [
-          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
+          {
+            "label": "About",
+            "component": "AboutProject",
+            "value": 0,
+            "link": ""
+          },
+          {
+            "label": "Species",
+            "component": "TaxaGrid",
+            "value": 1,
+            "link": "taxa"
+          },
           {
             "label": "Explore Data",
             "component": "ExploreData",
@@ -144,10 +193,26 @@
           }
         ],
         "tabs_taxa": [
-          { "label": "About", "component": "TaxaAbout", "value": 0 },
-          { "label": "Images", "component": "TaxaImages", "value": 1 },
-          { "label": "Videos & Sounds", "component": "TaxaMedia", "value": 2 }
-        ]
+          {
+            "label": "About",
+            "component": "TaxaAbout",
+            "value": 0
+          },
+          {
+            "label": "Images",
+            "component": "TaxaImages",
+            "value": 1
+          },
+          {
+            "label": "Videos & Sounds",
+            "component": "TaxaMedia",
+            "value": 2
+          }
+        ],
+        "observations_count": 41,
+        "observers_count": 16,
+        "taxa_count": 8,
+        "species_count": 8
       },
       {
         "id": 4,
@@ -155,16 +220,16 @@
         "summary": "Est et aute Lorem veniam id amet adipisicing proident laboris.",
         "slug": "ciencia-ciudadana-peru-bees",
         "location": "Peru",
-        "start_date": "2020",
+        "start_date": "2011",
         "target_audience": "general public",
         "image": "https://picsum.photos/id/18",
         "description": "<p>Consequat est amet tempor minim minim. Irure mollit sint voluptate deserunt ullamco nisi sit ea cillum. Laboris laborum veniam consequat cupidatat veniam amet ex cupidatat enim ut aliqua amet. Est tempor quis officia officia fugiat ullamco ad deserunt ipsum. Irure amet labore nostrud irure consectetur irure.</p><p>Tempor aliqua nostrud exercitation enim ea labore consequat voluptate aute. Commodo quis ad labore veniam proident magna. Officia aliqua reprehenderit sint sunt velit ut enim reprehenderit fugiat exercitation do.</p>",
         "latitude": -12.05,
         "longitude": -77.033333,
         "zoom": 11,
-        "observationsTimeSpan": "all",
-        "observedMonths": [0,1,2,3,4,5,6,7,8,9,10,11],
-        "observedYears": [2011, 2021],
+        "observations_time_span": "all",
+        "observed_months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+        "observed_years": [2011, 2021],
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/abejas-en-mi-ciudad-lima",
@@ -172,8 +237,18 @@
           }
         ],
         "tabs_project": [
-          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
+          {
+            "label": "About",
+            "component": "AboutProject",
+            "value": 0,
+            "link": ""
+          },
+          {
+            "label": "Species",
+            "component": "TaxaGrid",
+            "value": 1,
+            "link": "taxa"
+          },
           {
             "label": "Explore Data",
             "component": "ExploreData",
@@ -182,9 +257,21 @@
           }
         ],
         "tabs_taxa": [
-          { "label": "About", "component": "TaxaAbout", "value": 0 },
-          { "label": "Images", "component": "TaxaImages", "value": 1 }
-        ]
+          {
+            "label": "About",
+            "component": "TaxaAbout",
+            "value": 0
+          },
+          {
+            "label": "Images",
+            "component": "TaxaImages",
+            "value": 1
+          }
+        ],
+        "observations_count": 452,
+        "observers_count": 154,
+        "taxa_count": 8,
+        "species_count": 8
       }
     ]
   },
@@ -200,16 +287,16 @@
         "summary": "Ut officia ut nostrud amet deserunt non voluptate.",
         "slug": "cedar-creek-reserve",
         "location": "Cedar Creek Ecosystem Science Reserve, East Bethel, Minnesota, USA",
-        "start_date": "",
+        "start_date": "2012",
         "target_audience": "K-12 teachers and students",
         "image": "https://picsum.photos/id/1003",
         "description": "<p>Voluptate laboris dolor id cupidatat id sint in nostrud exercitation consectetur. Voluptate adipisicing consectetur sint proident cillum amet incididunt proident dolore. Lorem non Lorem ullamco eiusmod. Mollit est officia sint reprehenderit aliquip magna veniam consectetur duis elit sunt irure proident deserunt. Sunt in aliqua tempor velit aliquip consectetur magna veniam tempor consequat pariatur minim eiusmod. Voluptate aliqua excepteur veniam id ad pariatur sint incididunt voluptate et ut. Cupidatat aliqua eu laborum ex labore ex.</p><p>Occaecat anim consequat tempor exercitation elit. Proident eiusmod dolor sit Lorem amet qui. Aliquip voluptate in aliquip non veniam aute. Cillum irure duis consequat deserunt incididunt duis. Enim sunt consectetur laboris occaecat exercitation enim.</p>",
         "latitude": 45.402025,
         "longitude": -93.199403,
         "zoom": 14,
-        "observationsTimeSpan": "month",
-        "observedMonths": [0,1,2,3,4,5,6,7,8,9,10,11],
-        "observedYears": [2012, 2021],
+        "observations_time_span": "month",
+        "observed_months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+        "observed_years": [2012, 2021],
         "links": [
           {
             "url": "https://www.cedarcreek.umn.edu",
@@ -221,8 +308,18 @@
           }
         ],
         "tabs_project": [
-          { "label": "About", "component": "AboutProject", "value": 0, "link": "" },
-          { "label": "Species", "component": "TaxaGrid", "value": 1, "link": "taxa" },
+          {
+            "label": "About",
+            "component": "AboutProject",
+            "value": 0,
+            "link": ""
+          },
+          {
+            "label": "Species",
+            "component": "TaxaGrid",
+            "value": 1,
+            "link": "taxa"
+          },
           {
             "label": "Explore Data",
             "component": "ExploreData",
@@ -231,9 +328,21 @@
           }
         ],
         "tabs_taxa": [
-          { "label": "About", "component": "TaxaAbout", "value": 0 },
-          { "label": "Images", "component": "TaxaImages", "value": 1 }
-        ]
+          {
+            "label": "About",
+            "component": "TaxaAbout",
+            "value": 0
+          },
+          {
+            "label": "Images",
+            "component": "TaxaImages",
+            "value": 1
+          }
+        ],
+        "observations_count": 3807,
+        "observers_count": 290,
+        "taxa_count": 709,
+        "species_count": 709
       }
     ]
   }
