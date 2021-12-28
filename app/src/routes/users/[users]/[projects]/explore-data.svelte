@@ -72,7 +72,9 @@
   }
 
   $: {
-    if (mapOptions.observationsTimeSpan == 'all') {
+    if (taxaHistory.length === 0) {
+      // don't draw chart if no data
+    } else if (mapOptions.observationsTimeSpan == 'all') {
       let chartData = taxaHistory.map((t) => {
         return {
           xValue: t.taxon_name,
@@ -431,7 +433,7 @@
   <h1>{currentTab.label}</h1>
 
   <div class="grid lg:grid-cols-10 gap-3 mb-6">
-    <div class="lg:col-span-3">
+    <div class="lg:col-span-3 border border-gray-300 p-3">
       <h3 class="mt-0">Biodiversity</h3>
 
       <div class="max-w-lg mb-6 autocomplete">
@@ -459,7 +461,7 @@
         </label>
       {/if}
 
-      <div class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2">
+      <div class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2 mb-2">
         {#each taxaHistory as taxon (taxon.taxon_id)}
           <TaxonFilter {taxon} {toggleTaxon} {removeTaxon} {projectPath} />
         {/each}
@@ -524,7 +526,9 @@
         {taxaHistory}
         {projectPath}
       />
-      <div id="ed-chart" class="w-full mt-4" />
+      {#if taxaHistory.length > 0}
+        <div id="ed-chart" class="w-full mt-4" />
+      {/if}
     </div>
   </div>
 </div>
