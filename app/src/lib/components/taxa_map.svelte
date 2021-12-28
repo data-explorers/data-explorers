@@ -6,14 +6,12 @@
   import { LeafletMap, TileLayer, CircleMarker, Rectangle } from 'svelte-leafletjs';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
   import barChartJson from '$lib/charts/bar_chart.json';
-
   import {
     coldMonths,
     rectangleLatitudeZoom,
     rectangleLongitudeZoom,
-    tileLayerOptions,
-    tileUrl,
-    getMonthName
+    getMonthName,
+    getMapTiles
   } from '$lib/mapUtils';
   import { sortObservations, createGroupObservations } from '$lib/dataUtils';
   import { modulo, range } from '$lib/miscUtils';
@@ -158,6 +156,7 @@
   let inactiveOpacity = 0.25;
   let mounted = false;
   let barChartSpec = JSON.parse(JSON.stringify(barChartJson));
+  let tile = getMapTiles().OpenStreetMap;
 
   function toggleTimeSpans(e) {
     let targetFilter = e.target.dataset['filter'];
@@ -208,7 +207,7 @@
 
 <div id="taxa-map" style="width: 100%; height: 400px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
-    <TileLayer url={tileUrl} options={tileLayerOptions} />
+    <TileLayer url={tile.url} options={tile.options} />
     <!-- display observations as circles -->
     {#if Array.isArray(groupedObservations)}
       {#each groupedObservations as obs}

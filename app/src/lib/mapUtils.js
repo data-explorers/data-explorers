@@ -102,65 +102,147 @@ export function rectangleLongitudeZoom(zoomLevel) {
 
 export const getMapTiles = (taxonID) => {
   return {
-    inatGrid: {
+    InatGrid: {
       url: `https://api.inaturalist.org/v1/grid/{z}/{x}/{y}.png?taxon_id=${taxonID}`,
-      attribution: ''
+      options: {
+        attribution: 'Observation data by <a href="https://www.inaturalist.org/">iNaturalist</a>.',
+        minZoom: 0,
+        maxZoom: 21
+      }
     },
-    inatPoint: {
+    InatPoint: {
       url: `https://api.inaturalist.org/v1/points/{z}/{x}/{y}.png?taxon_id=${taxonID}`,
-      attribution: ''
+      options: {
+        attribution: 'Observation data by <a href="https://www.inaturalist.org/">iNaturalist</a>.',
+        minZoom: 0,
+        maxZoom: 21
+      }
     },
-    inatTaxonRange: {
+    InatTaxonRange: {
       url: `https://api.inaturalist.org/v1/taxon_ranges/${taxonID}/{z}/{x}/{y}.png`,
-      attribution: ''
+      options: {
+        attribution: 'Taxon range by <a href="https://www.inaturalist.org/">iNaturalist</a>.',
+        minZoom: 0,
+        maxZoom: 21
+      }
     },
-    osm: {
+    OpenStreetMap: {
       url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-      attribution: '© OpenStreetMap contributors'
+      options: {
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.',
+        minZoom: 0,
+        maxZoom: 19
+      }
     },
-    cartoVoyager: {
-      url: 'https://a.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png',
-      attribution:
-        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    StamenToner: {
+      url: 'https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png',
+      options: {
+        attribution:
+          'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+        minZoom: 0,
+        maxZoom: 19
+      }
     },
-    cartoDark: {
-      url: 'https://a.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png',
-      attribution:
-        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
-    },
-    cartoLight: {
-      url: 'https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
-      attribution:
-        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>'
-    },
-    stamenTonerLight: {
+    StamenTonerLight: {
       url: 'https://stamen-tiles.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}.png',
-      attribution:
-        'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      options: {
+        attribution:
+          'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+        minZoom: 0,
+        maxZoom: 19
+      }
     },
-    stamenTerrain: {
+    StamenTerrain: {
       url: 'https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg',
-      attribution:
-        'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      options: {
+        attribution:
+          'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+        minZoom: 0,
+        maxZoom: 16
+      }
     },
-    stamenWatercolor: {
+    StamenWatercolor: {
       url: 'https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg',
-      attribution:
-        'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      options: {
+        attribution:
+          'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.',
+        minZoom: 0,
+        maxZoom: 17
+      }
+    },
+
+    USGSTopo: {
+      url: 'https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}',
+      options: {
+        attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>',
+        minZoom: 0,
+        maxZoom: 16
+      }
+    },
+    USGSImagery: {
+      url: 'https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}',
+      options: {
+        attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>',
+        minZoom: 0,
+        maxZoom: 16
+      }
+    },
+    OpenTopo: {
+      url: 'https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png',
+      options: {
+        attribution:
+          'Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, <a href="http://viewfinderpanoramas.org">SRTM</a> | Map style: &copy; <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
+        minZoom: 0,
+        maxZoom: 17
+      }
+    },
+    GBIFClassic: {
+      url: 'https://tile.gbif.org/3857/omt/{z}/{x}/{y}@1x.png?style=gbif-classic',
+      options: {
+        attribution:
+          '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://www.openmaptiles.org/copyright">OpenMapTiles</a>.',
+        minZoom: 0,
+        maxZoom: 21
+      }
+    },
+    GBIFLight: {
+      url: 'https://tile.gbif.org/3857/omt/{z}/{x}/{y}@1x.png?style=gbif-light',
+      options: {
+        attribution:
+          '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://www.openmaptiles.org/copyright">OpenMapTiles</a>.',
+        minZoom: 0,
+        maxZoom: 21
+      }
+    },
+    GBIFGeyser: {
+      url: 'https://tile.gbif.org/3857/omt/{z}/{x}/{y}@1x.png?style=gbif-geyser',
+      options: {
+        attribution:
+          '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://www.openmaptiles.org/copyright">OpenMapTiles</a>.',
+        minZoom: 0,
+        maxZoom: 21
+      }
+    },
+    GBIFBright: {
+      url: 'https://tile.gbif.org/3857/omt/{z}/{x}/{y}@1x.png?style=osm-bright',
+      options: {
+        attribution:
+          '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://www.openmaptiles.org/copyright">OpenMapTiles</a>.',
+        minZoom: 0,
+        maxZoom: 21
+      }
+    },
+    GBIFNatural: {
+      url: 'https://tile.gbif.org/3857/omt/{z}/{x}/{y}@1x.png?style=gbif-natural',
+      options: {
+        attribution:
+          '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://www.openmaptiles.org/copyright">OpenMapTiles</a>.',
+        minZoom: 0,
+        maxZoom: 21
+      }
     }
   };
-};
-
-// https://forum.inaturalist.org/t/in-pursuit-of-mappiness-part-1/21864
-
-let defaultMap = getMapTiles().osm;
-export const tileUrl = defaultMap.url;
-
-export const tileLayerOptions = {
-  minZoom: 0,
-  maxZoom: 20,
-  maxNativeZoom: 19,
-  attribution: defaultMap.attribution
 };
 
 export let defaultColorScheme = {

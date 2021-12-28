@@ -1,32 +1,24 @@
 <script>
   import 'leaflet/dist/leaflet.css';
   import { LeafletMap, TileLayer, CircleMarker } from 'svelte-leafletjs';
-  import { tileLayerOptions, getMapTiles } from '$lib/mapUtils';
+  import { getMapTiles } from '$lib/mapUtils';
 
   export let taxon;
   export let project;
   export let observations;
   let tiles;
   let osm;
-  let osmOptions;
   let inatGrid;
-  let inatGridOptions;
   let inatTaxonRange;
-  let inatTaxonRangeOptions;
   let showRangeMap = true;
   let showAllInat = true;
   let showObservations = true;
 
   $: {
     tiles = getMapTiles(taxon.taxon_id);
-    osm = tiles.osm;
-    osmOptions = { ...tileLayerOptions, attribution: osm.attribution };
-
-    inatGrid = tiles.inatGrid;
-    inatGridOptions = { ...tileLayerOptions, attribution: inatGrid.attribution };
-
-    inatTaxonRange = tiles.inatTaxonRange;
-    inatTaxonRangeOptions = { ...tileLayerOptions, attribution: inatTaxonRange.attribution };
+    osm = tiles.OpenStreetMap;
+    inatGrid = tiles.InatGrid;
+    inatTaxonRange = tiles.InatTaxonRange;
   }
 
   let mapOptions = {
@@ -60,12 +52,12 @@
 
 <div class="mt-4" style="width: 65%; height: 400px;">
   <LeafletMap options={mapOptions}>
-    <TileLayer url={osm.url} options={osmOptions} />
+    <TileLayer url={osm.url} options={osm.options} />
     {#if showRangeMap}
-      <TileLayer url={`${inatTaxonRange.url}?color=%23feb24c`} options={inatTaxonRangeOptions} />
+      <TileLayer url={`${inatTaxonRange.url}?color=%23feb24c`} options={inatTaxonRange.options} />
     {/if}
     {#if showAllInat}
-      <TileLayer url={`${inatGrid.url}&color=%23f03b20`} options={inatGridOptions} />
+      <TileLayer url={`${inatGrid.url}&color=%23f03b20`} options={inatGrid.options} />
     {/if}
     {#if showObservations}
       {#each observations as observation}
