@@ -3,7 +3,13 @@
   import { onMount } from 'svelte';
   import { createEventDispatcher } from 'svelte';
   import vegaEmbed from 'vega-embed';
-  import { LeafletMap, TileLayer, CircleMarker, Rectangle } from 'svelte-leafletjs';
+  import {
+    LeafletMap,
+    CircleMarker,
+    Rectangle,
+    ScaleControl,
+    LayerControl
+  } from '$lib/vendor/svelte-leaflet';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
   import barChartJson from '$lib/charts/bar_chart.json';
   import {
@@ -11,7 +17,8 @@
     rectangleLatitudeZoom,
     rectangleLongitudeZoom,
     getMonthName,
-    getMapTiles
+    getMapTiles,
+    scaleControlOptions
   } from '$lib/mapUtils';
   import { sortObservations, createGroupObservations } from '$lib/dataUtils';
   import { modulo, range } from '$lib/miscUtils';
@@ -156,7 +163,16 @@
   let inactiveOpacity = 0.25;
   let mounted = false;
   let barChartSpec = JSON.parse(JSON.stringify(barChartJson));
-  let tile = getMapTiles().OpenStreetMap;
+  let scaleControl;
+  let tiles = getMapTiles();
+  let baseLayers = {
+    Street: tiles.OpenStreetMap,
+    Minimal: tiles.GBIFGeyser,
+    Terrain: tiles.StamenTerrain
+  };
+  if (project.country === 'USA') {
+    baseLayers['Satellite'] = tiles.USGSImagery;
+  }
 
   function toggleTimeSpans(e) {
     let targetFilter = e.target.dataset['filter'];
@@ -207,7 +223,6 @@
 
 <div id="taxa-map" style="width: 100%; height: 400px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
-    <TileLayer url={tile.url} options={tile.options} />
     <!-- display observations as circles -->
     {#if Array.isArray(groupedObservations)}
       {#each groupedObservations as obs}
@@ -271,6 +286,8 @@
         {/if}
       {/each}
     {/if}
+    <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
+    <LayerControl baseLayersData={baseLayers} />
   </LeafletMap>
 </div>
 

@@ -252,3 +252,7 @@ export let defaultColorScheme = {
   colorScheme: colorsSixTolBright,
   monthSeasonalMarkers: true
 };
+
+export let scaleControlOptions = {
+  maxWidth: 200
+};

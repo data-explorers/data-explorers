@@ -1,6 +1,6 @@
 <script>
   import 'leaflet/dist/leaflet.css';
-  import { LeafletMap, TileLayer, Marker } from 'svelte-leafletjs';
+  import { LeafletMap, TileLayer, Marker } from '$lib/vendor/svelte-leaflet';
   import { getMapTiles } from '$lib/mapUtils';
 
   export let mapOptions;
