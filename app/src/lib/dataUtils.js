@@ -210,26 +210,24 @@ export function generateTimeSpanCounts(
 
   // create a count of the number of taxa per month
   taxaHistory.forEach((taxon) => {
-    taxon.observations
-      .filter((o) => o.month != 'unknown')
-      .forEach((observation) => {
-        let taxonId = Number(taxon.taxon_id);
-        let timePeriod = Number(observation[type]);
-        if (timePeriodCountsPerTaxon[timePeriod]) {
-          // increment count for existing time period and taxon
-          if (timePeriodCountsPerTaxon[timePeriod][taxonId]) {
-            timePeriodCountsPerTaxon[timePeriod][taxonId]['count'] += 1;
-            // add taxon to existing time period
-          } else {
-            timePeriodCountsPerTaxon[timePeriod][taxonId] = formatDefaultRecord(taxon, timePeriod);
-          }
-          // add time period and taxon
+    taxon.observations.forEach((observation) => {
+      let taxonId = Number(taxon.taxon_id);
+      let timePeriod = observation[type] == 'unknown' ? 'unknown' : Number(observation[type]);
+      if (timePeriodCountsPerTaxon[timePeriod]) {
+        // increment count for existing time period and taxon
+        if (timePeriodCountsPerTaxon[timePeriod][taxonId]) {
+          timePeriodCountsPerTaxon[timePeriod][taxonId]['count'] += 1;
+          // add taxon to existing time period
         } else {
-          timePeriodCountsPerTaxon[timePeriod] = {
-            [taxonId]: formatDefaultRecord(taxon, timePeriod)
-          };
+          timePeriodCountsPerTaxon[timePeriod][taxonId] = formatDefaultRecord(taxon, timePeriod);
         }
-      });
+        // add time period and taxon
+      } else {
+        timePeriodCountsPerTaxon[timePeriod] = {
+          [taxonId]: formatDefaultRecord(taxon, timePeriod)
+        };
+      }
+    });
   });
 
   addMissingTimePeriods(type, timePeriodCountsPerTaxon, missingPeriods, taxaHistory, project);
@@ -244,6 +242,9 @@ function addMissingTimePeriods(
   taxaHistory,
   project
 ) {
+  // create empty placeholder records for time spans that don't have
+  // observations so that the chart will still show the empty time spans
+
   if (type === 'month') {
     let months = Object.keys(timePeriodCountsPerTaxon).map((m) => Number(m));
     let allMonths = project.observed_months;
@@ -254,6 +255,8 @@ function addMissingTimePeriods(
     missingPeriods = allYears.filter((year) => !years.includes(year));
   }
 
+  // Create empty placeholder records for the first taxon. All other
+  // taxa will also show the empty time spans since we are using faceted charts.
   let taxon = taxaHistory[0];
   missingPeriods.forEach((period) => {
     timePeriodCountsPerTaxon[period] = {};

@@ -113,7 +113,7 @@
         for (let taxonId in monthData) {
           let taxonData = monthData[taxonId];
           chartData.push({
-            xValue: getMonthName(month),
+            xValue: month === 'unknown' ? month : getMonthName(month),
             yValue: taxonData['count'],
             group: taxonData['taxon_name'],
             color: taxonData['color'],

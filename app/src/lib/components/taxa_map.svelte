@@ -41,26 +41,26 @@
 
   $: {
     if (mounted && mapOptions.observationsTimeSpan === 'month') {
+      let allMonths = [...project.observed_months];
+      if (timeSpanHistory['unknown'] !== undefined) {
+        allMonths.push('unknown');
+      }
+
       // set default values for months that are observed
-      chartData = project.observed_months.map((m) => {
-        return {
-          xValue: getMonthName(m),
-          yValue: 0,
-          opacity: 0
-        };
+      chartData = allMonths.map((m) => {
+        return { xValue: getMonthName(m), yValue: 0, opacity: 0 };
       });
 
       // fill chartData with real values
       groupedObservations.forEach((v, k) => {
-        if (typeof k === 'number') {
-          let index = project.observed_months.indexOf(k);
-          chartData[index] = {
-            xValue: getMonthName(k),
-            yValue: v.length,
-            color: mapOptions.colorSchemeMonth[k],
-            opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
-          };
-        }
+        let index = allMonths.indexOf(k);
+        let color = k === 'unknown' ? mapOptions.defaultColor : mapOptions.colorSchemeMonth[k];
+        chartData[index] = {
+          xValue: getMonthName(k),
+          yValue: v.length,
+          color: color,
+          opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
+        };
       });
 
       barChartSpec['layer'][0]['mark']['width']['band'] = 1;
@@ -69,27 +69,29 @@
       drawChart(barChartSpec);
     } else if (mounted && mapOptions.observationsTimeSpan === 'year') {
       // get all years between first and last observations
-      // let years = [...groupedObservations.keys()].filter((year) => typeof year === 'number');
       let allYears = range(project.observed_years[0], project.observed_years[1]);
+      if (timeSpanHistory['unknown'] !== undefined) {
+        allYears.push('unknown');
+      }
 
+      // set default values for years that are observed
       chartData = allYears.map((y) => {
-        return {
-          xValue: y,
-          yValue: 0,
-          opacity: 0
-        };
+        return { xValue: y, yValue: 0, opacity: 0 };
       });
 
+      // fill chartData with real values
       groupedObservations.forEach((v, k) => {
-        if (typeof k === 'number') {
-          let index = allYears.indexOf(k);
-          chartData[index] = {
-            xValue: k,
-            yValue: v.length,
-            color: mapOptions.colorSchemeYear[modulo(k, mapOptions.colorSchemeYear.length)],
-            opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
-          };
-        }
+        let index = allYears.indexOf(k);
+        let color =
+          k === 'unknown'
+            ? mapOptions.defaultColor
+            : mapOptions.colorSchemeYear[modulo(k, mapOptions.colorSchemeYear.length)];
+        chartData[index] = {
+          xValue: k,
+          yValue: v.length,
+          color: color,
+          opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
+        };
       });
 
       // limit the width of the bands if there is small number of bars
