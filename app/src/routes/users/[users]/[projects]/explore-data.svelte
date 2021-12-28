@@ -292,7 +292,11 @@
       observations: selectedObservations
     });
     if (mapOptions.observationsTimeSpan !== 'all') {
-      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+      // when adding new taxa, keep existing time span filters as is, and set new ones to true
+      groupedObservations.forEach(
+        (v, k) =>
+          (timeSpanHistory[k] = timeSpanHistory[k] !== undefined ? timeSpanHistory[k] : true)
+      );
     }
     loading = false;
   }
@@ -315,11 +319,13 @@
     });
 
     // update observations
+    observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
     groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
 
     // update filters
     if (mapOptions.observationsTimeSpan !== 'all') {
-      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+      // when removing taxa, keep the existing time span filter as is
+      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = timeSpanHistory[k]));
     }
     loading = false;
   }
@@ -362,7 +368,8 @@
 
     // update filters
     if (mapOptions.observationsTimeSpan !== 'all') {
-      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+      // when toggling taxon, keep existing time span as is
+      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = timeSpanHistory[k]));
     }
     loading = false;
   }
@@ -388,6 +395,7 @@
     // update filters
     timeSpanHistory = {};
     if (mapOptions.observationsTimeSpan !== 'all') {
+      // reset all time span filters when changing time span types
       groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
     }
 
