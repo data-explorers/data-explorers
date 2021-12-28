@@ -51,6 +51,18 @@
           <td>{project.target_audience}</td>
         </tr>
         <tr>
+          <th>Species</th>
+          <td>{project.species_count}</td>
+        </tr>
+        <tr>
+          <th>Observations</th>
+          <td>{project.observations_count}</td>
+        </tr>
+        <tr>
+          <th>Observers</th>
+          <td>{project.observers_count}</td>
+        </tr>
+        <tr>
           <th>Links</th>
           <td>
             {#each project.links as link}
