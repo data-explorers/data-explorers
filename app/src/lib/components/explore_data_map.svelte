@@ -1,9 +1,16 @@
 <script>
   import 'leaflet/dist/leaflet.css';
-  import { LeafletMap, TileLayer, CircleMarker, Popup, Rectangle } from 'svelte-leafletjs';
+  import {
+    LeafletMap,
+    CircleMarker,
+    Popup,
+    Rectangle,
+    ScaleControl,
+    LayerControl
+  } from '$lib/vendor/svelte-leaflet';
   import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
-  import { tileLayerOptions, tileUrl } from '$lib/mapUtils';
+  import { getMapTiles, scaleControlOptions } from '$lib/mapUtils';
 
   export let mapOptions;
   export let groupedObservations;
@@ -11,6 +18,7 @@
   export let showDemoMapLayer;
   export let projectPath;
   // export let taxaHistory;
+  export let country;
 
   let leafletMap;
   let circleRadius = 7;
@@ -33,6 +41,16 @@
     [0, 0],
     [0, 0]
   ];
+  let scaleControl;
+  let tiles = getMapTiles();
+  let baseLayers = {
+    Street: tiles.OpenStreetMap,
+    Minimal: tiles.GBIFGeyser,
+    Terrain: tiles.StamenTerrain
+  };
+  if (country === 'USA') {
+    baseLayers['Satellite'] = tiles.USGSImagery;
+  }
 
   onMount(() => {
     // if (coordinates.length > 0) {
@@ -56,8 +74,6 @@
 
 <div style="width: 100%; height: 600px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
-    <TileLayer url={tileUrl} options={tileLayerOptions} />
-
     {#if Array.isArray(groupedObservations)}
       {#each groupedObservations as obs}
         <CircleMarker
@@ -90,5 +106,7 @@
         <Popup>Demo map layer</Popup>
       </Rectangle>
     {/if}
+    <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
+    <LayerControl baseLayersData={baseLayers} />
   </LeafletMap>
 </div>

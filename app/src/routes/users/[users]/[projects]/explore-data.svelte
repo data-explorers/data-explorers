@@ -525,6 +525,7 @@
         {showDemoMapLayer}
         {taxaHistory}
         {projectPath}
+        country={project.country}
       />
       {#if taxaHistory.length > 0}
         <div id="ed-chart" class="w-full mt-4" />
