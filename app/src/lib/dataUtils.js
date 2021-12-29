@@ -148,7 +148,7 @@ export function sortObservations(observations, orderByValue, timeSpanValue) {
   return sortedObservations;
 }
 
-function logTime(message) {
+export function logTime(message) {
   console.log(new Date().toUTCString(), message);
 }
 
