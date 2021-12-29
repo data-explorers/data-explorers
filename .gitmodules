@@ -1,0 +1,3 @@
+[submodule "app/src/lib/vendor/svelte-leaflet"]
+	path = app/src/lib/vendor/svelte-leaflet
+	url = https://github.com/wykhuh/svelte-leaflet
