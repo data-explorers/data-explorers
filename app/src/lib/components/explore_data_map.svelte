@@ -11,9 +11,8 @@
     Rectangle,
     ScaleControl,
     LayerControl,
-    Icon,
-    Marker,
-    MarkerCluster
+    MarkerCluster,
+    EasyButton
   } from '$lib/vendor/svelte-leaflet';
   import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
@@ -28,21 +27,21 @@
   export let country;
 
   let leafletMap;
+  let map;
   let circleRadius = 7;
   let coordinates = [];
   let demoPolygon = [
     [0, 0],
     [0, 0]
   ];
-  let allMarkersInView = true;
+  let allPointsInMapStatus = true;
   let noTaxa = true;
   let scaleControl;
-  let userMarkerCluster = false;
-  let mounted = false;
-  let clusterLimit = 1000
-  let zoomLevel
-  let pointsInView = 0
-
+  let useMarkerCluster = false;
+  let clusterLimit = 1000;
+  let zoomLevel;
+  let pointsInMapCount = 0;
+  let fitBoundsButton;
   let tiles = getMapTiles();
   let baseLayers = {
     Street: tiles.OpenStreetMap,
@@ -54,7 +53,7 @@
   }
 
   $: {
-    if (taxaHistory.length > 0) {
+    if (leafletMap && taxaHistory.length > 0) {
       // coordinates be be in this format: [[lat, lon], [lat, lon]]
       coordinates = [];
       taxaHistory.map((t) => t.observations);
@@ -65,77 +64,111 @@
         }
       }
 
-      let currentBounds = leafletMap.getMap().getBounds();
+      let currentBounds = map.getBounds();
       let foo = coordinates.filter((coordinate) => {
         let latlng = new L.latLng(coordinate[0], coordinate[1]);
         return currentBounds.contains(latlng);
       });
 
-      pointsInView = calculatePointsInView(coordinates)
-      userMarkerCluster = pointsInView > clusterLimit;
-
+      pointsInMapCount = calculatePointsInMap(coordinates, map);
+      useMarkerCluster = pointsInMapCount > clusterLimit;
     }
 
     if (taxaHistory.length === 0) {
       noTaxa = true;
       // zoom map after the first taxa is loaded
     } else if (leafletMap && noTaxa && taxaHistory.length === 1) {
-      fitBounds(coordinates);
+      fitPointsInMap(coordinates, map);
       noTaxa = false;
-    } else if (taxaHistory.length > 1) {
+    } else if (leafletMap && taxaHistory.length > 1) {
       let observationBounds = L.latLngBounds(coordinates);
-      let currentBounds = leafletMap.getMap().getBounds();
-      allMarkersInView = currentBounds.contains(observationBounds);
+      let currentBounds = map.getBounds();
+      allPointsInMapStatus = currentBounds.contains(observationBounds);
     }
   }
 
-  function pointWithinBoundingBox(observation) {
-      let currentBounds = leafletMap.getMap().getBounds();
-      return currentBounds.contains(L.latLng(observation.latitude, observation.longitude));
+  // ===================
+  // map buttons
+  // ===================
+  $: {
+    if (fitBoundsButton) {
+      if (coordinates.length === 0) {
+        fitBoundsButton.getButton().disable();
+      } else {
+        if (allPointsInMapStatus) {
+          fitBoundsButton.getButton().disable();
+        } else {
+          fitBoundsButton.getButton().enable();
+        }
+      }
+    }
   }
 
-  function calculatePointsInView(coordinates) {
-    let currentBounds = leafletMap.getMap().getBounds();
+  // ===================
+  // map
+  // ===================
+
+  function isObservationInMap(observation, map) {
+    let currentBounds = map.getBounds();
+    return currentBounds.contains(L.latLng(observation.latitude, observation.longitude));
+  }
+
+  function areAllPointsInMap(coordinates, map) {
+    // determine if all the markers are inside the map bounding box
+    if (coordinates.length > 0) {
+      let currentBounds = map.getBounds();
+      let observationBounds = L.latLngBounds(coordinates);
+      return currentBounds.contains(observationBounds);
+    }
+  }
+
+  function calculatePointsInMap(coordinates, map) {
+    let currentBounds = map.getBounds();
     return coordinates.filter((coordinate) => {
       let latlng = new L.latLng(coordinate[0], coordinate[1]);
       return currentBounds.contains(latlng);
     }).length;
   }
 
-
-  function fitBounds(coordinates) {
-    allMarkersInView = true;
-    leafletMap.getMap().fitBounds(coordinates);
+  function fitPointsInMap(coordinates, map) {
+    map.fitBounds(coordinates);
+    allPointsInMapStatus = true;
   }
 
-  function createDemoPolygon() {
+  function createDemoPolygon(map) {
     // create a recteangle that is a third of the size the map bounds
-    let east = leafletMap.getMap().getBounds().getEast();
-    let west = leafletMap.getMap().getBounds().getWest();
-    let north = leafletMap.getMap().getBounds().getNorth();
-    let south = leafletMap.getMap().getBounds().getSouth();
-    var width =
-      leafletMap.getMap().getBounds().getEast() - leafletMap.getMap().getBounds().getWest();
-    var height =
-      leafletMap.getMap().getBounds().getNorth() - leafletMap.getMap().getBounds().getSouth();
-    demoPolygon = [
+    let mapBounds = map.getBounds();
+    let east = mapBounds.getEast();
+    let west = mapBounds.getWest();
+    let north = mapBounds.getNorth();
+    let south = mapBounds.getSouth();
+    var width = mapBounds.getEast() - mapBounds.getWest();
+    var height = mapBounds.getNorth() - mapBounds.getSouth();
+    return [
       [north - height * 0.3, east - width * 0.3],
       [south + height * 0.3, west + width * 0.3]
     ];
   }
 
+
+  // ===================
+  // life cycle
+  // ===================
+
   onMount(() => {
-    mounted = true;
-    createDemoPolygon();
+    map = leafletMap.getMap();
+    demoPolygon = createDemoPolygon(map);
+
     leafletMap.getMap().on('zoomend', function () {
-      zoomLevel = leafletMap.getMap().getZoom();
-      pointsInView = calculatePointsInView(coordinates)
-
+      zoomLevel = map.getZoom();
+      pointsInMapCount = calculatePointsInMap(coordinates, map);
+      allPointsInMapStatus = areAllPointsInMap(coordinates, map);
     });
-    leafletMap.getMap().on('moveend', function () {
-      zoomLevel = leafletMap.getMap().getZoom();
-      pointsInView = calculatePointsInView(coordinates)
 
+    leafletMap.getMap().on('moveend', function () {
+      zoomLevel = map.getZoom();
+      pointsInMapCount = calculatePointsInMap(coordinates, map);
+      allPointsInMapStatus = areAllPointsInMap(coordinates, map);
     });
   });
 
@@ -144,7 +177,7 @@
 <div style="width: 100%; height: 600px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <!-- marker clusters -->
-    {#if userMarkerCluster}
+    {#if useMarkerCluster}
       {#if Array.isArray(groupedObservations)}
         <MarkerCluster items={groupedObservations} />
       {:else}
@@ -154,10 +187,10 @@
           {/if}
         {/each}
       {/if}
-    <!-- individual markers -->
+      <!-- individual markers -->
     {:else if Array.isArray(groupedObservations)}
       {#each groupedObservations as obs}
-        {#if coordinates.length < clusterLimit || pointWithinBoundingBox(obs)}
+        {#if coordinates.length < clusterLimit || isObservationInMap(obs, map)}
           <CircleMarker
             latLng={[obs.latitude, obs.longitude]}
             radius={circleRadius}
@@ -168,7 +201,7 @@
           </CircleMarker>
         {/if}
       {/each}
-    <!-- individual markers grouped by time -->
+      <!-- individual markers grouped by time -->
     {:else}
       {#each [...groupedObservations] as [key, observations]}
         {#each observations as obs}
@@ -191,6 +224,11 @@
       </Rectangle>
     {/if}
     <EasyButton
+      bind:this={fitBoundsButton}
+      icon={'<span class="text-3xl leading-6">&sdotb;</span>'}
+      callback={() => fitPointsInMap(coordinates, map)}
+      title="show all observations on map"
+    />
     <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
     <LayerControl baseLayersData={baseLayers} />
   </LeafletMap>
