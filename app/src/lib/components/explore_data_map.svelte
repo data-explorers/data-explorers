@@ -42,6 +42,7 @@
   let zoomLevel;
   let pointsInMapCount = 0;
   let fitBoundsButton;
+  let toggleMarkerModeButton;
   let tiles = getMapTiles();
   let baseLayers = {
     Street: tiles.OpenStreetMap,
@@ -71,6 +72,12 @@
       });
 
       pointsInMapCount = calculatePointsInMap(coordinates, map);
+      if(pointsInMapCount > clusterLimit) {
+        toggleMarkerModeButton.getButton().state('show-clusters');
+      } else {
+        toggleMarkerModeButton.getButton().state('show-markers');
+      }
+      // todo
       useMarkerCluster = pointsInMapCount > clusterLimit;
     }
 
@@ -103,6 +110,42 @@
       }
     }
   }
+
+  $: {
+    if (toggleMarkerModeButton) {
+      if (coordinates.length === 0) {
+        toggleMarkerModeButton.getButton().disable();
+      } else {
+        toggleMarkerModeButton.getButton().enable();
+      }
+    }
+  }
+
+  let toggleMarkerModeStates = {
+    states: [
+      {
+        stateName: 'show-markers',
+        icon: '<span class="text-4xl font-black leading-5">&Colon;</span>',
+        title: 'switch to clustered markers',
+        onClick: function (control) {
+          useMarkerCluster = true;
+          control.state('show-clusters');
+        }
+      },
+    {
+        stateName: 'show-clusters',
+        icon: '<span class="text-6xl leading-6">&middot;</span>',
+        title: 'switch to individual markers',
+
+        onClick: function (control) {
+          useMarkerCluster = false;
+
+          control.state('show-markers');
+        }
+      },
+
+    ]
+  };
 
   // ===================
   // map
@@ -229,6 +272,7 @@
       callback={() => fitPointsInMap(coordinates, map)}
       title="show all observations on map"
     />
+    <EasyButton bind:this={toggleMarkerModeButton} states={toggleMarkerModeStates} />
     <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
     <LayerControl baseLayersData={baseLayers} />
   </LeafletMap>
