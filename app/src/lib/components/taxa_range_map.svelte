@@ -1,6 +1,6 @@
 <script>
   import 'leaflet/dist/leaflet.css';
-  import { LeafletMap, TileLayer, CircleMarker } from 'svelte-leafletjs';
+  import { LeafletMap, TileLayer, CircleMarker } from '$lib/vendor/svelte-leaflet';
   import { getMapTiles } from '$lib/mapUtils';
 
   export let taxon;
