@@ -18,8 +18,6 @@
   import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
   import { getMapTiles, scaleControlOptions } from '$lib/mapUtils';
-  import { logTime } from '$lib/dataUtils';
-import { columnsNotSupportByRowCol } from 'vega-lite/src/log/message';
 
   export let mapOptions;
   export let groupedObservations;
@@ -81,8 +79,8 @@ import { columnsNotSupportByRowCol } from 'vega-lite/src/log/message';
     if (taxaHistory.length === 0) {
       noTaxa = true;
       // zoom map after the first taxa is loaded
-    } else if (noTaxa && taxaHistory.length === 1) {
-      // fitBounds();
+    } else if (leafletMap && noTaxa && taxaHistory.length === 1) {
+      fitBounds(coordinates);
       noTaxa = false;
     } else if (taxaHistory.length > 1) {
       let observationBounds = L.latLngBounds(coordinates);
@@ -142,29 +140,9 @@ import { columnsNotSupportByRowCol } from 'vega-lite/src/log/message';
   });
 
 </script>
-{#if leafletMap}
- zoom: {zoomLevel}<br>
- {/if}
-{#if taxaHistory.length > 0}
-points #: { pointsInView}<br>
-coordinates #: { coordinates.length}<br>
 
-don't check each marker: {coordinates.length < clusterLimit }
-{/if}
-
-{#if !allMarkersInView}
-  <div on:click={fitBounds}>Zoom out to see all observations</div>
-{/if}
 <div style="width: 100%; height: 600px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
-    {#if showDemoMapLayer}
-      <Rectangle latLngBounds={demoPolygon} color="#777" fillColor="#777">
-        <Popup>Demo map layer</Popup>
-      </Rectangle>
-    {/if}
-    <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
-    <LayerControl baseLayersData={baseLayers} />
-
     <!-- marker clusters -->
     {#if userMarkerCluster}
       {#if Array.isArray(groupedObservations)}
@@ -207,5 +185,13 @@ don't check each marker: {coordinates.length < clusterLimit }
         {/each}
       {/each}
     {/if}
+    {#if showDemoMapLayer}
+      <Rectangle latLngBounds={demoPolygon} color="#777" fillColor="#777">
+        <Popup>Demo map layer</Popup>
+      </Rectangle>
+    {/if}
+    <EasyButton
+    <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
+    <LayerControl baseLayersData={baseLayers} />
   </LeafletMap>
 </div>
