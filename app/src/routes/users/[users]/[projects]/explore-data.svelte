@@ -474,6 +474,7 @@
           {groupedObservations}
           {toggleTimeSpans}
           {timeSpanHistory}
+          activeTaxaCount={taxaHistory.filter((t) => t.active).length}
         />
       {/if}
 

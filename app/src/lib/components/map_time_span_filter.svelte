@@ -9,6 +9,7 @@
   export let groupedObservations;
   export let toggleTimeSpans;
   export let timeSpanHistory;
+  export let activeTaxaCount;
 </script>
 
 <div class="form-control inline-block mt-4">
@@ -16,6 +17,7 @@
     <span class="label-text">Time Span</span>
   </label>
   <select
+    disabled={activeTaxaCount === 0}
     bind:value={mapOptions.observationsTimeSpan}
     name="group"
     class="select select-bordered h-8 min-h-0"

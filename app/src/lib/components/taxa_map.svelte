@@ -298,5 +298,6 @@
   {groupedObservations}
   {toggleTimeSpans}
   {timeSpanHistory}
+  activeTaxaCount={1}
 />
 <div id="observations-chart" class="w-full mt-4" />
