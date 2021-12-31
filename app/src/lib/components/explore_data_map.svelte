@@ -13,6 +13,7 @@
   import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
   import { getMapTiles, scaleControlOptions } from '$lib/mapUtils';
+  import { tooltip } from '$lib/tooltip.js';
 
   export let mapOptions;
   // NOTE: groupedObservations are filtered by taxa and grouped by time spans
@@ -302,7 +303,17 @@
     <div class="stat-value">{observationsSelectedCount}</div>
   </div>
   <div class="stat place-items-center place-content-center">
-    <div class="stat-title">Observations on Map</div>
+    <div class="stat-title">
+      Observations on Map
+      {#if observationsDisplayCount >= clusterLimit}
+        <span
+          use:tooltip
+          class="text-red-600"
+          title="Since there are over 1000 observations, the map will use clustered markers."
+          >*</span
+        >
+      {/if}
+    </div>
     <div class="stat-value">{observationsDisplayCount}</div>
   </div>
 </div>

@@ -1,5 +1,6 @@
 <script>
   import { createEventDispatcher } from 'svelte';
+  import { tooltip } from '$lib/tooltip.js';
 
   export let showMore = false;
   export let format = 'upDown';
@@ -13,14 +14,34 @@
 
 {#if format === 'upDown'}
   {#if showMore}
-    <span class="arrow down-arrow" title="click to show less info" on:click={handleClick} />
+    <span
+      class="arrow down-arrow"
+      title="click to show less info"
+      use:tooltip
+      on:click={handleClick}
+    />
   {:else}
-    <span class="arrow up-arrow" title="click to show more info" on:click={handleClick} />
+    <span
+      class="arrow up-arrow"
+      title="click to show more info"
+      use:tooltip
+      on:click={handleClick}
+    />
   {/if}
 {:else if showMore}
-  <span class="arrow left-arrow" title="click to show less info" on:click={handleClick} />
+  <span
+    class="arrow left-arrow"
+    title="click to show less info"
+    use:tooltip
+    on:click={handleClick}
+  />
 {:else}
-  <span class="arrow right-arrow" title="click to show more info" on:click={handleClick} />
+  <span
+    class="arrow right-arrow"
+    title="click to show more info"
+    use:tooltip
+    on:click={handleClick}
+  />
 {/if}
 
 <style>

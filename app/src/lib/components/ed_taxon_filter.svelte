@@ -3,6 +3,7 @@
   import XIcon from '$lib/components/svg/x.svelte';
   import { pluralize } from '$lib/formatUtils';
   import { fade } from 'svelte/transition';
+  import { tooltip } from '$lib/tooltip.js';
 
   export let taxon;
   export let toggleTaxon;
@@ -47,6 +48,7 @@
     </div>
   </div>
   <button
+    use:tooltip
     class="absolute close-button"
     title="click to delete species"
     data-taxon-id={taxon.taxon_id}
