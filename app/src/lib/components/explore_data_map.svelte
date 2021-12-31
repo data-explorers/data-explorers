@@ -32,7 +32,6 @@
     [0, 0],
     [0, 0]
   ];
-  let allPointsInMapStatus = true;
   let noTaxa = true;
   let useMarkerCluster = false;
   let userSelectedMarkerType = 'markers';
@@ -71,7 +70,6 @@
       observationsDisplay = getObservationsDisplay(observationsSelected);
       observationsDisplayCount = countObservations(observationsDisplay);
 
-      allPointsInMapStatus = areAllPointsInMap(coordinates, map);
       observationsDirty = false;
     }
   }
@@ -130,11 +128,7 @@
     if (coordinates.length === 0) {
       fitBoundsButton.getButton().disable();
     } else {
-      if (allPointsInMapStatus) {
-        fitBoundsButton.getButton().disable();
-      } else {
-        fitBoundsButton.getButton().enable();
-      }
+      fitBoundsButton.getButton().enable();
     }
   }
 
@@ -251,7 +245,6 @@
 
   function fitPointsInMap(coordinates, map) {
     map.fitBounds(coordinates);
-    allPointsInMapStatus = true;
   }
 
   function createDemoPolygon(map) {
