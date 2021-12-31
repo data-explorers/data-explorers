@@ -1,9 +1,5 @@
 <script>
   import 'leaflet/dist/leaflet.css';
-  // import pointWithinPolygon from '@turf/points-within-polygon';
-  // import {point, points, polygon, polygons} from '@turf/helpers'
-  import * as turf from '@turf/turf';
-  // import * as L from 'leaflet'
   import {
     LeafletMap,
     CircleMarker,
@@ -19,6 +15,7 @@
   import { getMapTiles, scaleControlOptions } from '$lib/mapUtils';
 
   export let mapOptions;
+  // NOTE: groupedObservations are filtered by taxa and grouped by time spans
   export let groupedObservations;
   export let timeSpanHistory;
   export let showDemoMapLayer;
@@ -36,14 +33,18 @@
   ];
   let allPointsInMapStatus = true;
   let noTaxa = true;
-  let scaleControl;
   let useMarkerCluster = false;
   let clusterLimit = 1000;
   let zoomLevel;
-  let pointsInMapCount = 0;
   let fitBoundsButton;
   let toggleMarkerModeButton;
   let tiles = getMapTiles();
+  let observationsSelected = [];
+  let observationsDisplay = [];
+  let observationsDisplayCount = 0;
+  let observationsSelectedCount = 0;
+  let observationsDirty = false;
+
   let baseLayers = {
     Street: tiles.OpenStreetMap,
     Minimal: tiles.GBIFGeyser,
@@ -53,71 +54,77 @@
     baseLayers['Satellite'] = tiles.USGSImagery;
   }
 
+  // update observation counts and displayed observations
   $: {
-    if (leafletMap && taxaHistory.length > 0) {
-      // coordinates be be in this format: [[lat, lon], [lat, lon]]
-      coordinates = [];
-      taxaHistory.map((t) => t.observations);
-      let temp = taxaHistory.map((t) => t.observations);
-      for (let i = 0; i < temp.length; i++) {
-        for (let j = 0; j < temp[i].length; j++) {
-          coordinates.push([temp[i][j].latitude, temp[i][j].longitude]);
+    if (leafletMap) {
+      timeSpanHistory;
+      observationsDirty;
+
+      // filter observations by timespans
+      observationsSelected = getObservationsSelected(groupedObservations);
+      observationsSelectedCount = countObservations(observationsSelected);
+
+      // filter observations by map bounding box
+      observationsDisplay = getObservationsDisplay(observationsSelected);
+      observationsDisplayCount = countObservations(observationsDisplay);
+
+      allPointsInMapStatus = areAllPointsInMap(coordinates, map);
+      observationsDirty = false;
+    }
+  }
+
+  $: {
+    if (leafletMap) {
+      if (taxaHistory.length > 0) {
+        // coordinates be be in this format: [[lat, lon], [lat, lon]]
+        coordinates = [];
+        taxaHistory.map((t) => t.observations);
+        let temp = taxaHistory.map((t) => t.observations);
+        for (let i = 0; i < temp.length; i++) {
+          for (let j = 0; j < temp[i].length; j++) {
+            coordinates.push([temp[i][j].latitude, temp[i][j].longitude]);
+          }
+        }
+      } else {
+        coordinates = [];
+      }
+
+      // set noTaxa when all the added taxa are removed
+      if (taxaHistory.length === 0) {
+        noTaxa = true;
+      } else if (taxaHistory.length === 1) {
+        // recenter map after the first taxa is added
+        if (noTaxa) {
+          fitPointsInMap(coordinates, map);
+          noTaxa = false;
         }
       }
-
-      let currentBounds = map.getBounds();
-      let foo = coordinates.filter((coordinate) => {
-        let latlng = new L.latLng(coordinate[0], coordinate[1]);
-        return currentBounds.contains(latlng);
-      });
-
-      pointsInMapCount = calculatePointsInMap(coordinates, map);
-      if(pointsInMapCount > clusterLimit) {
-        toggleMarkerModeButton.getButton().state('show-clusters');
-      } else {
-        toggleMarkerModeButton.getButton().state('show-markers');
-      }
-      // todo
-      useMarkerCluster = pointsInMapCount > clusterLimit;
-    }
-
-    if (taxaHistory.length === 0) {
-      noTaxa = true;
-      // zoom map after the first taxa is loaded
-    } else if (leafletMap && noTaxa && taxaHistory.length === 1) {
-      fitPointsInMap(coordinates, map);
-      noTaxa = false;
-    } else if (leafletMap && taxaHistory.length > 1) {
-      let observationBounds = L.latLngBounds(coordinates);
-      let currentBounds = map.getBounds();
-      allPointsInMapStatus = currentBounds.contains(observationBounds);
     }
   }
 
   // ===================
   // map buttons
   // ===================
-  $: {
-    if (fitBoundsButton) {
-      if (coordinates.length === 0) {
+
+  $: if (fitBoundsButton) {
+    if (coordinates.length === 0) {
+      fitBoundsButton.getButton().disable();
+    } else {
+      if (allPointsInMapStatus) {
         fitBoundsButton.getButton().disable();
       } else {
-        if (allPointsInMapStatus) {
-          fitBoundsButton.getButton().disable();
-        } else {
-          fitBoundsButton.getButton().enable();
-        }
+        fitBoundsButton.getButton().enable();
       }
     }
   }
 
-  $: {
-    if (toggleMarkerModeButton) {
-      if (coordinates.length === 0) {
-        toggleMarkerModeButton.getButton().disable();
-      } else {
-        toggleMarkerModeButton.getButton().enable();
-      }
+  $: if (toggleMarkerModeButton) {
+    if (coordinates.length === 0) {
+      toggleMarkerModeButton.getButton().disable();
+    } else if (countObservations(observationsDisplay) > clusterLimit) {
+      toggleMarkerModeButton.getButton().disable();
+    } else {
+      toggleMarkerModeButton.getButton().enable();
     }
   }
 
@@ -126,30 +133,81 @@
       {
         stateName: 'show-markers',
         icon: '<span class="text-4xl font-black leading-5">&Colon;</span>',
-        title: 'switch to clustered markers',
+        title: 'click to show clustered markers',
         onClick: function (control) {
           useMarkerCluster = true;
           control.state('show-clusters');
         }
       },
-    {
+      {
         stateName: 'show-clusters',
         icon: '<span class="text-6xl leading-6">&middot;</span>',
-        title: 'switch to individual markers',
-
+        title: 'click to show individual markers',
         onClick: function (control) {
           useMarkerCluster = false;
-
           control.state('show-markers');
         }
-      },
-
+      }
     ]
   };
 
   // ===================
   // map
   // ===================
+  function countObservations(observations) {
+    if (Array.isArray(observations)) {
+      return observations.length;
+    } else {
+      return [...observations].reduce((total, current) => {
+        return total + current[1].length;
+      }, 0);
+    }
+  }
+
+  function getObservationsSelected(groupedObservations) {
+    let observations;
+
+    // if no time spans filters
+    if (Object.keys(timeSpanHistory).length === 0) {
+      observations = [...groupedObservations];
+      // filter groupedObservations by spans filters
+    } else {
+      observations = new Map();
+      groupedObservations.forEach((value, key) => {
+        if (timeSpanHistory[key]) {
+          observations.set(key, value);
+        }
+      });
+    }
+
+    return observations;
+  }
+
+  function getObservationsDisplay(groupedObservations) {
+    let observations;
+    if (Array.isArray(groupedObservations)) {
+      observations = groupedObservations.filter((o) => isObservationInMap(o, map));
+    } else {
+      // if we are using marker clusters, flatten groupedObservations into an array
+      if (useMarkerCluster) {
+        let flatObservations = [];
+        groupedObservations.forEach((values, key) => {
+          values = values.filter((o) => isObservationInMap(o, map));
+          flatObservations = flatObservations.concat(values);
+        });
+        observations = flatObservations;
+        // if we are using individual markers, create a new Map
+      } else {
+        observations = new Map();
+        groupedObservations.forEach((values, key) => {
+          values = values.filter((o) => isObservationInMap(o, map));
+          observations.set(key, values);
+        });
+      }
+    }
+
+    return observations;
+  }
 
   function isObservationInMap(observation, map) {
     let currentBounds = map.getBounds();
@@ -163,14 +221,6 @@
       let observationBounds = L.latLngBounds(coordinates);
       return currentBounds.contains(observationBounds);
     }
-  }
-
-  function calculatePointsInMap(coordinates, map) {
-    let currentBounds = map.getBounds();
-    return coordinates.filter((coordinate) => {
-      let latlng = new L.latLng(coordinate[0], coordinate[1]);
-      return currentBounds.contains(latlng);
-    }).length;
   }
 
   function fitPointsInMap(coordinates, map) {
@@ -193,7 +243,6 @@
     ];
   }
 
-
   // ===================
   // life cycle
   // ===================
@@ -202,38 +251,55 @@
     map = leafletMap.getMap();
     demoPolygon = createDemoPolygon(map);
 
-    leafletMap.getMap().on('zoomend', function () {
+    map.on('zoomend', function () {
       zoomLevel = map.getZoom();
-      pointsInMapCount = calculatePointsInMap(coordinates, map);
-      allPointsInMapStatus = areAllPointsInMap(coordinates, map);
+      observationsDirty = true;
     });
 
-    leafletMap.getMap().on('moveend', function () {
-      zoomLevel = map.getZoom();
-      pointsInMapCount = calculatePointsInMap(coordinates, map);
-      allPointsInMapStatus = areAllPointsInMap(coordinates, map);
+    map.on('moveend', function () {
+      observationsDirty = true;
     });
   });
-
 </script>
+
+<div class="w-full shadow rounded-none stats">
+  <div class="stat place-items-center place-content-center">
+    <div class="stat-title">Total Observations</div>
+    <div class="stat-value">{coordinates.length}</div>
+  </div>
+  <div class="stat place-items-center place-content-center">
+    <div class="stat-title">Selected Observations</div>
+    <div class="stat-value">{observationsSelectedCount}</div>
+  </div>
+  <div class="stat place-items-center place-content-center">
+    <div class="stat-title">Observations on Map</div>
+    <div class="stat-value">{observationsDisplayCount}</div>
+  </div>
+</div>
 
 <div style="width: 100%; height: 600px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
+    <!-- base layers must be set up before MarkerCluster  -->
+    <LayerControl baseLayersData={baseLayers} />
     <!-- marker clusters -->
     {#if useMarkerCluster}
-      {#if Array.isArray(groupedObservations)}
-        <MarkerCluster items={groupedObservations} />
-      {:else}
-        {#each [...groupedObservations] as [key, observations]}
-          {#if timeSpanHistory[key]}
-            <MarkerCluster items={observations} />
-          {/if}
-        {/each}
-      {/if}
+      <MarkerCluster items={observationsDisplay} />
       <!-- individual markers -->
-    {:else if Array.isArray(groupedObservations)}
-      {#each groupedObservations as obs}
-        {#if coordinates.length < clusterLimit || isObservationInMap(obs, map)}
+    {:else if Array.isArray(observationsDisplay)}
+      {#each observationsDisplay as obs}
+        <CircleMarker
+          latLng={[obs.latitude, obs.longitude]}
+          radius={circleRadius}
+          color={obs.color}
+          fillColor={obs.fillColor}
+        >
+          <MyPopup observation={obs} {projectPath} />
+        </CircleMarker>
+      {/each}
+      <!-- individual markers grouped by time -->
+    {:else}
+      {#each [...observationsDisplay] as [key, observations]}
+        {#each observations as obs}
           <CircleMarker
             latLng={[obs.latitude, obs.longitude]}
             radius={circleRadius}
@@ -242,22 +308,6 @@
           >
             <MyPopup observation={obs} {projectPath} />
           </CircleMarker>
-        {/if}
-      {/each}
-      <!-- individual markers grouped by time -->
-    {:else}
-      {#each [...groupedObservations] as [key, observations]}
-        {#each observations as obs}
-          {#if timeSpanHistory[key]}
-            <CircleMarker
-              latLng={[obs.latitude, obs.longitude]}
-              radius={circleRadius}
-              color={obs.color}
-              fillColor={obs.fillColor}
-            >
-              <MyPopup observation={obs} {projectPath} />
-            </CircleMarker>
-          {/if}
         {/each}
       {/each}
     {/if}
@@ -270,10 +320,9 @@
       bind:this={fitBoundsButton}
       icon={'<span class="text-3xl leading-6">&sdotb;</span>'}
       callback={() => fitPointsInMap(coordinates, map)}
-      title="show all observations on map"
+      title="click to fit all observations on map"
     />
     <EasyButton bind:this={toggleMarkerModeButton} states={toggleMarkerModeStates} />
-    <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
-    <LayerControl baseLayersData={baseLayers} />
+    <ScaleControl position="bottomleft" options={scaleControlOptions} />
   </LeafletMap>
 </div>
