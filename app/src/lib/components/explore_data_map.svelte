@@ -34,6 +34,7 @@
   let allPointsInMapStatus = true;
   let noTaxa = true;
   let useMarkerCluster = false;
+  let userSelectedMarkerType = 'markers';
   let clusterLimit = 1000;
   let zoomLevel;
   let fitBoundsButton;
@@ -44,6 +45,7 @@
   let observationsDisplayCount = 0;
   let observationsSelectedCount = 0;
   let observationsDirty = false;
+  let maxZoom = 0;
 
   let baseLayers = {
     Street: tiles.OpenStreetMap,
@@ -70,6 +72,23 @@
 
       allPointsInMapStatus = areAllPointsInMap(coordinates, map);
       observationsDirty = false;
+    }
+  }
+
+  // automatically toggle clusters/markers for max zoom of map
+  $: {
+    // switch to individual markers
+    if (useMarkerCluster && zoomLevel + 1 >= maxZoom) {
+      toggleMarkerModeButton.getButton().state('show-markers');
+      useMarkerCluster = false;
+      observationsDisplay = getObservationsDisplay(observationsDisplay);
+    }
+
+    // switch to clusters
+    if (!useMarkerCluster && userSelectedMarkerType === 'clusters' && zoomLevel === maxZoom - 2) {
+      toggleMarkerModeButton.getButton().state('show-clusters');
+      useMarkerCluster = true;
+      observationsDisplay = getObservationsDisplay(observationsDisplay);
     }
   }
 
@@ -136,7 +155,10 @@
         title: 'click to show clustered markers',
         onClick: function (control) {
           useMarkerCluster = true;
+          userSelectedMarkerType = 'clusters';
           control.state('show-clusters');
+          observationsDisplay = getObservationsDisplay(observationsDisplay);
+          observationsDisplayCount = countObservations(observationsDisplay);
         }
       },
       {
@@ -145,7 +167,10 @@
         title: 'click to show individual markers',
         onClick: function (control) {
           useMarkerCluster = false;
+          userSelectedMarkerType = 'markers';
           control.state('show-markers');
+          observationsDisplay = getObservationsDisplay(observationsDisplay);
+          observationsDisplayCount = countObservations(observationsDisplay);
         }
       }
     ]
@@ -250,6 +275,7 @@
   onMount(() => {
     map = leafletMap.getMap();
     demoPolygon = createDemoPolygon(map);
+    maxZoom = map.getMaxZoom();
 
     map.on('zoomend', function () {
       zoomLevel = map.getZoom();
@@ -258,6 +284,10 @@
 
     map.on('moveend', function () {
       observationsDirty = true;
+    });
+
+    map.on('baselayerchange', function (e) {
+      maxZoom = map.getMaxZoom();
     });
   });
 </script>
