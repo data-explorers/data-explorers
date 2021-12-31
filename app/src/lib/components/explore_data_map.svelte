@@ -91,6 +91,29 @@
     }
   }
 
+  // automatically toggle clusters/markers if there are many observations
+  $: {
+    // switch to clusters
+    if (!useMarkerCluster && observationsDisplayCount >= clusterLimit) {
+      toggleMarkerModeButton.getButton().state('show-clusters');
+      useMarkerCluster = true;
+      observationsDisplay = getObservationsDisplay(observationsDisplay);
+      observationsDisplayCount = countObservations(observationsDisplay);
+    }
+
+    // switch to individual markers
+    if (
+      useMarkerCluster &&
+      userSelectedMarkerType === 'markers' &&
+      observationsDisplayCount < clusterLimit
+    ) {
+      toggleMarkerModeButton.getButton().state('show-markers');
+      useMarkerCluster = false;
+      observationsDisplay = getObservationsDisplay(observationsDisplay);
+      observationsDisplayCount = countObservations(observationsDisplay);
+    }
+  }
+
   $: {
     if (leafletMap) {
       if (taxaHistory.length > 0) {
