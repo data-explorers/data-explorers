@@ -79,8 +79,13 @@ export let darkGray = '#525252';
 
 export function getMonthName(month) {
   // https://reactgo.com/convert-month-number-to-name-js/
+
+  // this regex handles both numbers string numbers
   if (/^[0-9]+$/.test(month)) {
     const date = new Date();
+    // set date to middle of the month to avoid weird conversion for start/end
+    // of the month
+    date.setDate(15);
     date.setMonth(month);
     return date.toLocaleString('default', { month: 'short' });
   } else {
