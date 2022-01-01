@@ -6,7 +6,6 @@
     Popup,
     Rectangle,
     ScaleControl,
-    LayerControl,
     MarkerCluster,
     EasyButton
   } from '$lib/vendor/svelte-leaflet';
@@ -14,6 +13,7 @@
   import { onMount } from 'svelte';
   import { getMapTiles, scaleControlOptions } from '$lib/mapUtils';
   import { tooltip } from '$lib/tooltip.js';
+  import MapLayersControl from '$lib/components/map_layers_control.svelte';
 
   export let mapOptions;
   // NOTE: groupedObservations are filtered by taxa and grouped by time spans
@@ -39,22 +39,12 @@
   let zoomLevel;
   let fitBoundsButton;
   let toggleMarkerModeButton;
-  let tiles = getMapTiles();
   let observationsSelected = [];
   let observationsDisplay = [];
   let observationsDisplayCount = 0;
   let observationsSelectedCount = 0;
   let observationsDirty = false;
   let maxZoom = 0;
-
-  let baseLayers = {
-    Street: tiles.OpenStreetMap,
-    Minimal: tiles.GBIFGeyser,
-    Terrain: tiles.StamenTerrain
-  };
-  if (country === 'USA') {
-    baseLayers['Satellite'] = tiles.USGSImagery;
-  }
 
   // update observation counts and displayed observations
   $: {
@@ -337,7 +327,7 @@
 <div style="width: 100%; height: 600px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <!-- base layers must be set up before MarkerCluster  -->
-    <LayerControl baseLayersData={baseLayers} />
+    <MapLayersControl {country} />
     <!-- marker clusters -->
     {#if useMarkerCluster}
       <MarkerCluster items={observationsDisplay} />
