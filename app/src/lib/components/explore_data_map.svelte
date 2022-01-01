@@ -149,6 +149,12 @@
     ];
   }
 
+  function resizeMap() {
+    if (map) {
+      map.invalidateSize();
+    }
+  }
+
   // ===================
   // life cycle
   // ===================
@@ -174,6 +180,7 @@
 </script>
 
 <div class="w-full shadow rounded-none stats">
+<svelte:window on:resize={resizeMap} />
   <div class="stat place-items-center place-content-center">
     <div class="stat-title">Total Observations</div>
     <div class="stat-value">{coordinates.length}</div>
