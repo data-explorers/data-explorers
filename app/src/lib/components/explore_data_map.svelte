@@ -82,17 +82,6 @@
       } else {
         coordinates = [];
       }
-
-      // set noTaxa when all the added taxa are removed
-      if (taxaHistory.length === 0) {
-        noTaxa = true;
-      } else if (taxaHistory.length === 1) {
-        // recenter map after the first taxa is added
-        if (noTaxa) {
-          fitPointsInMap(coordinates, map);
-          noTaxa = false;
-        }
-      }
     }
   }
 
