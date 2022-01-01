@@ -13,6 +13,7 @@
   import { onMount } from 'svelte';
   import { getMapTiles, scaleControlOptions } from '$lib/mapUtils';
   import { tooltip } from '$lib/tooltip.js';
+  import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
   import MapLayersControl from '$lib/components/map_layers_control.svelte';
 
   export let mapOptions;
@@ -137,13 +138,6 @@
   // map buttons
   // ===================
 
-  $: if (fitBoundsButton) {
-    if (coordinates.length === 0) {
-      fitBoundsButton.getButton().disable();
-    } else {
-      fitBoundsButton.getButton().enable();
-    }
-  }
 
   $: if (toggleMarkerModeButton) {
     if (coordinates.length === 0) {
@@ -363,11 +357,7 @@
         <Popup>Demo map layer</Popup>
       </Rectangle>
     {/if}
-    <EasyButton
-      bind:this={fitBoundsButton}
-      icon={'<span class="text-3xl leading-6">&sdotb;</span>'}
-      callback={() => fitPointsInMap(coordinates, map)}
-      title="click to fit all observations on map"
+    <FitBoundsButton {map} {coordinates} />
     />
     <EasyButton bind:this={toggleMarkerModeButton} states={toggleMarkerModeStates} />
     <ScaleControl position="bottomleft" options={scaleControlOptions} />
