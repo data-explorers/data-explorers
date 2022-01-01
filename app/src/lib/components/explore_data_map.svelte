@@ -11,10 +11,12 @@
   } from '$lib/vendor/svelte-leaflet';
   import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
-  import { getMapTiles, scaleControlOptions } from '$lib/mapUtils';
+  import { scaleControlOptions, fitPointsInMap, isObservationInMap } from '$lib/mapUtils';
+  import { getObservationsSelected, countObservations } from '$lib/dataUtils';
   import { tooltip } from '$lib/tooltip.js';
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
   import MapLayersControl from '$lib/components/map_layers_control.svelte';
+  import ToggleMarkerTypeButton from '$lib/components/map_toggle_marker_type_button.svelte';
 
   export let mapOptions;
   // NOTE: groupedObservations are filtered by taxa and grouped by time spans
@@ -54,7 +56,7 @@
       observationsDirty;
 
       // filter observations by timespans
-      observationsSelected = getObservationsSelected(groupedObservations);
+      observationsSelected = getObservationsSelected(groupedObservations, timeSpanHistory);
       observationsSelectedCount = countObservations(observationsSelected);
 
       // filter observations by map bounding box
@@ -62,46 +64,6 @@
       observationsDisplayCount = countObservations(observationsDisplay);
 
       observationsDirty = false;
-    }
-  }
-
-  // automatically toggle clusters/markers for max zoom of map
-  $: {
-    // switch to individual markers
-    if (useMarkerCluster && zoomLevel + 1 >= maxZoom) {
-      toggleMarkerModeButton.getButton().state('show-markers');
-      useMarkerCluster = false;
-      observationsDisplay = getObservationsDisplay(observationsDisplay);
-    }
-
-    // switch to clusters
-    if (!useMarkerCluster && userSelectedMarkerType === 'clusters' && zoomLevel === maxZoom - 2) {
-      toggleMarkerModeButton.getButton().state('show-clusters');
-      useMarkerCluster = true;
-      observationsDisplay = getObservationsDisplay(observationsDisplay);
-    }
-  }
-
-  // automatically toggle clusters/markers if there are many observations
-  $: {
-    // switch to clusters
-    if (!useMarkerCluster && observationsDisplayCount >= clusterLimit) {
-      toggleMarkerModeButton.getButton().state('show-clusters');
-      useMarkerCluster = true;
-      observationsDisplay = getObservationsDisplay(observationsDisplay);
-      observationsDisplayCount = countObservations(observationsDisplay);
-    }
-
-    // switch to individual markers
-    if (
-      useMarkerCluster &&
-      userSelectedMarkerType === 'markers' &&
-      observationsDisplayCount < clusterLimit
-    ) {
-      toggleMarkerModeButton.getButton().state('show-markers');
-      useMarkerCluster = false;
-      observationsDisplay = getObservationsDisplay(observationsDisplay);
-      observationsDisplayCount = countObservations(observationsDisplay);
     }
   }
 
@@ -138,88 +100,35 @@
   // map buttons
   // ===================
 
-
-  $: if (toggleMarkerModeButton) {
-    if (coordinates.length === 0) {
-      toggleMarkerModeButton.getButton().disable();
-    } else if (countObservations(observationsDisplay) > clusterLimit) {
-      toggleMarkerModeButton.getButton().disable();
-    } else {
-      toggleMarkerModeButton.getButton().enable();
-    }
+  function changeMarkerModeOnClick(e) {
+    useMarkerCluster = e.detail.useMarkerCluster;
+    userSelectedMarkerType = e.detail.userSelectedMarkerType;
+    observationsDisplay = getObservationsDisplay(observationsDisplay);
   }
 
-  let toggleMarkerModeStates = {
-    states: [
-      {
-        stateName: 'show-markers',
-        icon: '<span class="text-4xl font-black leading-5">&Colon;</span>',
-        title: 'click to show clustered markers',
-        onClick: function (control) {
-          useMarkerCluster = true;
-          userSelectedMarkerType = 'clusters';
-          control.state('show-clusters');
-          observationsDisplay = getObservationsDisplay(observationsDisplay);
-          observationsDisplayCount = countObservations(observationsDisplay);
-        }
-      },
-      {
-        stateName: 'show-clusters',
-        icon: '<span class="text-6xl leading-6">&middot;</span>',
-        title: 'click to show individual markers',
-        onClick: function (control) {
-          useMarkerCluster = false;
-          userSelectedMarkerType = 'markers';
-          control.state('show-markers');
-          observationsDisplay = getObservationsDisplay(observationsDisplay);
-          observationsDisplayCount = countObservations(observationsDisplay);
-        }
-      }
-    ]
-  };
+  function changeMarkerModeAutomatic(e) {
+    useMarkerCluster = e.detail.useMarkerCluster;
+    observationsDisplay = getObservationsDisplay(observationsDisplay);
+  }
 
   // ===================
   // map
   // ===================
-  function countObservations(observations) {
-    if (Array.isArray(observations)) {
-      return observations.length;
-    } else {
-      return [...observations].reduce((total, current) => {
-        return total + current[1].length;
-      }, 0);
-    }
-  }
 
-  function getObservationsSelected(groupedObservations) {
-    let observations;
-
-    // if no time spans filters
-    if (Object.keys(timeSpanHistory).length === 0) {
-      observations = [...groupedObservations];
-      // filter groupedObservations by spans filters
-    } else {
-      observations = new Map();
-      groupedObservations.forEach((value, key) => {
-        if (timeSpanHistory[key]) {
-          observations.set(key, value);
-        }
-      });
-    }
-
-    return observations;
-  }
-
+  // NOTE: can't move this function to separate file because adding
+  // useMarkerCluster as a parameter and calling getObservationsDisplay in
+  // reactive block that sets the observationsDisplay and counts breaks the
+  // reactive block that checks observationsDisplayCount >= clusterLimit.
   function getObservationsDisplay(groupedObservations) {
     let observations;
     if (Array.isArray(groupedObservations)) {
-      observations = groupedObservations.filter((o) => isObservationInMap(o, map));
+      observations = groupedObservations.filter((o) => isObservationInMap(o, map, L));
     } else {
       // if we are using marker clusters, flatten groupedObservations into an array
       if (useMarkerCluster) {
         let flatObservations = [];
         groupedObservations.forEach((values, key) => {
-          values = values.filter((o) => isObservationInMap(o, map));
+          values = values.filter((o) => isObservationInMap(o, map, L));
           flatObservations = flatObservations.concat(values);
         });
         observations = flatObservations;
@@ -227,31 +136,13 @@
       } else {
         observations = new Map();
         groupedObservations.forEach((values, key) => {
-          values = values.filter((o) => isObservationInMap(o, map));
+          values = values.filter((o) => isObservationInMap(o, map, L));
           observations.set(key, values);
         });
       }
     }
 
     return observations;
-  }
-
-  function isObservationInMap(observation, map) {
-    let currentBounds = map.getBounds();
-    return currentBounds.contains(L.latLng(observation.latitude, observation.longitude));
-  }
-
-  function areAllPointsInMap(coordinates, map) {
-    // determine if all the markers are inside the map bounding box
-    if (coordinates.length > 0) {
-      let currentBounds = map.getBounds();
-      let observationBounds = L.latLngBounds(coordinates);
-      return currentBounds.contains(observationBounds);
-    }
-  }
-
-  function fitPointsInMap(coordinates, map) {
-    map.fitBounds(coordinates);
   }
 
   function createDemoPolygon(map) {
@@ -309,7 +200,7 @@
         <span
           use:tooltip
           class="text-red-600"
-          title="Since there are over 1000 observations, the map will use clustered markers."
+          title="Since there are over {clusterLimit} observations on the map, the map use clustered markers."
           >*</span
         >
       {/if}
@@ -358,8 +249,18 @@
       </Rectangle>
     {/if}
     <FitBoundsButton {map} {coordinates} />
+    <ToggleMarkerTypeButton
+      bind:this={toggleMarkerModeButton}
+      on:changeMarkerModeOnClick={changeMarkerModeOnClick}
+      on:changeMarkerModeAutomatic={changeMarkerModeAutomatic}
+      {coordinates}
+      {useMarkerCluster}
+      {observationsDisplayCount}
+      {clusterLimit}
+      {userSelectedMarkerType}
+      {zoomLevel}
+      {maxZoom}
     />
-    <EasyButton bind:this={toggleMarkerModeButton} states={toggleMarkerModeStates} />
     <ScaleControl position="bottomleft" options={scaleControlOptions} />
   </LeafletMap>
 </div>

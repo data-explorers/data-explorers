@@ -105,6 +105,26 @@ export function rectangleLongitudeZoom(zoomLevel) {
   return 10 / 2 ** zoomLevel;
 }
 
+export function fitPointsInMap(coordinates, map) {
+  if (coordinates.length > 0) {
+    map.fitBounds(coordinates);
+  }
+}
+
+export function isObservationInMap(observation, map, L) {
+  let currentBounds = map.getBounds();
+  return currentBounds.contains(L.latLng(observation.latitude, observation.longitude));
+}
+
+export function areAllPointsInMap(coordinates, map, L) {
+  // determine if all the markers are inside the map bounding box
+  if (coordinates.length > 0) {
+    let currentBounds = map.getBounds();
+    let observationBounds = L.latLngBounds(coordinates);
+    return currentBounds.contains(observationBounds);
+  }
+}
+
 export const getMapTiles = (taxonID) => {
   return {
     InatGrid: {

@@ -1,5 +1,6 @@
 import { formatTaxonDisplayName } from '$lib/formatUtils';
 import { getDateRange, groupByMap, range } from '$lib/miscUtils';
+import { isObservationInMap } from '$lib/mapUtils';
 
 export const fetchTaxaByName = (taxa, keyword) => {
   // find taxa whose common name or scientific name matches the keyword
@@ -266,4 +267,59 @@ function addMissingTimePeriods(
       taxon_name: taxon.taxon_name
     };
   });
+}
+
+export function countObservations(observations) {
+  if (Array.isArray(observations)) {
+    return observations.length;
+  } else {
+    return [...observations].reduce((total, current) => {
+      return total + current[1].length;
+    }, 0);
+  }
+}
+
+export function getObservationsSelected(groupedObservations, timeSpanHistory) {
+  let observations;
+
+  // if no time spans filters
+  if (Object.keys(timeSpanHistory).length === 0) {
+    observations = [...groupedObservations];
+    // filter groupedObservations by spans filters
+  } else {
+    observations = new Map();
+    groupedObservations.forEach((value, key) => {
+      if (timeSpanHistory[key]) {
+        observations.set(key, value);
+      }
+    });
+  }
+
+  return observations;
+}
+
+export function getObservationsDisplay(groupedObservations, useMarkerCluster, map, L) {
+  let observations;
+  if (Array.isArray(groupedObservations)) {
+    observations = groupedObservations.filter((o) => isObservationInMap(o, map, L));
+  } else {
+    // if we are using marker clusters, flatten groupedObservations into an array
+    if (useMarkerCluster) {
+      let flatObservations = [];
+      groupedObservations.forEach((values, key) => {
+        values = values.filter((o) => isObservationInMap(o, map, L));
+        flatObservations = flatObservations.concat(values);
+      });
+      observations = flatObservations;
+      // if we are using individual markers, create a new Map
+    } else {
+      observations = new Map();
+      groupedObservations.forEach((values, key) => {
+        values = values.filter((o) => isObservationInMap(o, map, L));
+        observations.set(key, values);
+      });
+    }
+  }
+
+  return observations;
 }
