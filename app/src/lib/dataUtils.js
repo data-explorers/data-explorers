@@ -63,7 +63,7 @@ export const fetchTaxaByName = (taxa, keyword) => {
   });
 };
 
-export const fecthObservationsByTaxonId = (observations, taxonId, color) => {
+export const fetchObservationsByTaxonId = (observations, taxonId, color) => {
   // return all observations for a taxonId
   let results = observations
     .filter((o) => o.taxon_ids)
@@ -188,6 +188,7 @@ export function createGroupObservations(observations, timeSpanValue) {
 
 export function generateTimeSpanCounts(
   type,
+  observations,
   taxaHistory,
   timeSpanHistory,
   inactiveOpacity,
@@ -211,24 +212,26 @@ export function generateTimeSpanCounts(
 
   // create a count of the number of taxa per month
   taxaHistory.forEach((taxon) => {
-    taxon.observations.forEach((observation) => {
-      let taxonId = Number(taxon.taxon_id);
-      let timePeriod = observation[type] == 'unknown' ? 'unknown' : Number(observation[type]);
-      if (timePeriodCountsPerTaxon[timePeriod]) {
-        // increment count for existing time period and taxon
-        if (timePeriodCountsPerTaxon[timePeriod][taxonId]) {
-          timePeriodCountsPerTaxon[timePeriod][taxonId]['count'] += 1;
-          // add taxon to existing time period
+    observations
+      .filter((o) => taxon.observations.includes(o.id))
+      .forEach((observation) => {
+        let taxonId = Number(taxon.taxon_id);
+        let timePeriod = observation[type] == 'unknown' ? 'unknown' : Number(observation[type]);
+        if (timePeriodCountsPerTaxon[timePeriod]) {
+          // increment count for existing time period and taxon
+          if (timePeriodCountsPerTaxon[timePeriod][taxonId]) {
+            timePeriodCountsPerTaxon[timePeriod][taxonId]['count'] += 1;
+            // add taxon to existing time period
+          } else {
+            timePeriodCountsPerTaxon[timePeriod][taxonId] = formatDefaultRecord(taxon, timePeriod);
+          }
+          // add time period and taxon
         } else {
-          timePeriodCountsPerTaxon[timePeriod][taxonId] = formatDefaultRecord(taxon, timePeriod);
+          timePeriodCountsPerTaxon[timePeriod] = {
+            [taxonId]: formatDefaultRecord(taxon, timePeriod)
+          };
         }
-        // add time period and taxon
-      } else {
-        timePeriodCountsPerTaxon[timePeriod] = {
-          [taxonId]: formatDefaultRecord(taxon, timePeriod)
-        };
-      }
-    });
+      });
   });
 
   addMissingTimePeriods(type, timePeriodCountsPerTaxon, missingPeriods, taxaHistory, project);
@@ -269,13 +272,28 @@ function addMissingTimePeriods(
   });
 }
 
-export function countObservations(observations) {
+export function countObservations(observations, field='id') {
   if (Array.isArray(observations)) {
-    return observations.length;
+    return new Set(observations.map(o => o[field])).size
   } else {
-    return [...observations].reduce((total, current) => {
-      return total + current[1].length;
-    }, 0);
+    let uniqueIds = new Set
+    observations.forEach((values, key) => {
+      values.forEach(o => uniqueIds.add(o[field]))
+    });
+    return uniqueIds.size
+  }
+}
+
+
+export function countSpecies(observations) {
+  if (Array.isArray(observations)) {
+    return new Set(observations.map(o => o.taxon_id)).size;
+  } else {
+    let uniqueIds = new Set
+    observations.forEach((values, key) => {
+      values.forEach(o => uniqueIds.add(o.id))
+    });
+    return uniqueIds.size
   }
 }
 

@@ -17,6 +17,7 @@
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
   import MapLayersControl from '$lib/components/map_layers_control.svelte';
   import ToggleMarkerTypeButton from '$lib/components/map_toggle_marker_type_button.svelte';
+import { values } from 'vega-lite/src/compile/axis/properties';
 
   export let mapOptions;
   // NOTE: groupedObservations are filtered by taxa and grouped by time spans
@@ -70,14 +71,14 @@
   $: {
     if (leafletMap) {
       if (taxaHistory.length > 0) {
-        // coordinates be be in this format: [[lat, lon], [lat, lon]]
-        coordinates = [];
-        taxaHistory.map((t) => t.observations);
-        let temp = taxaHistory.map((t) => t.observations);
-        for (let i = 0; i < temp.length; i++) {
-          for (let j = 0; j < temp[i].length; j++) {
-            coordinates.push([temp[i][j].latitude, temp[i][j].longitude]);
-          }
+        if(Array.isArray(groupedObservations)) {
+          coordinates = groupedObservations.map((o) => [o.latitude, o.longitude]);
+        } else {
+          let tempObservations = []
+          coordinates = groupedObservations.forEach((values, key)=> {
+            tempObservations = tempObservations.concat(values)
+          })
+          coordinates = tempObservations.map((o) => [o.latitude, o.longitude]);
         }
       } else {
         coordinates = [];

@@ -43,7 +43,7 @@
   import { darkGray, defaultColorScheme, getMonthName } from '$lib/mapUtils';
   import {
     fetchTaxaByName,
-    fecthObservationsByTaxonId,
+    fetchObservationsByTaxonId,
     sortObservations,
     createGroupObservations,
     generateTimeSpanCounts
@@ -59,12 +59,6 @@
   export let taxa;
   export let projectPath;
 
-  $: basicTaxaHistory = taxaHistory.map((t) => ({
-    taxonName: t.taxon_name,
-    color: t.color,
-    taxonId: t.taxon_id,
-    active: t.active
-  }));
 
   $: if (taxaHistory.length === 0) {
     showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
@@ -72,6 +66,7 @@
     timeSpanHistory = {};
   }
 
+  // format data for charts
   $: {
     if (taxaHistory.length === 0) {
       // don't draw chart if no data
@@ -99,12 +94,10 @@
 
       drawChart(barChartSpec);
     } else if (mapOptions.observationsTimeSpan == 'month') {
-      // observations;
-      // groupedObservations;
-      // timeSpanHistory;
       let chartData = [];
       let monthlyCountsPerTaxon = generateTimeSpanCounts(
         'month',
+        observations,
         taxaHistory,
         timeSpanHistory,
         inactiveOpacity,
@@ -136,6 +129,7 @@
       let chartData = [];
       let yearlyCountsPerTaxon = generateTimeSpanCounts(
         'year',
+        observations,
         taxaHistory,
         timeSpanHistory,
         inactiveOpacity,
@@ -166,14 +160,16 @@
     }
   }
 
-  let observations = [];
   let item = '';
+  let observations = []; // all observations for searched taxa
+  let observationsIds = new Set(); // all observation ids for searched taxa
+  let observationsDisplay = []; // observations filtered by taxaHistory and timeSpanHistory
+  let groupedObservations = []; // filtered observations grouped by time span
   let taxaHistory = []; // all selected taxa
+  let timeSpanHistory = {}; // all the time spans
   let showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
   let showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
   let orderByValue = 'oldest';
-  let groupedObservations = []; // what is sent to the Map and TimeSpanFilters
-  let timeSpanHistory = {}; // all the time spans
   let showClimate = false;
   let showDemoMapLayer = false;
   let taxaCount = 0;
@@ -225,7 +221,7 @@
     // the observations is called.
     loading = true;
     setTimeout(() => {
-      displayObservationsForTaxon(taxon);
+      addObservationsForTaxon(taxon);
     }, 100);
   }
 
@@ -244,14 +240,11 @@
 
     taxa
       .filter((t) => t.rank === 'species')
+      .sort((a, b) => b.taxa_count - a.taxa_count)
       .slice(0, 5)
       .forEach((taxon) => {
-        if (taxaHistory.filter((t) => t.taxon_id == taxon.taxon_id).length > 0) {
-          return;
-        }
         taxaCount += 1;
-
-        displayObservationsForTaxon(taxon);
+        addObservationsForTaxon(taxon);
       });
   }
 
@@ -260,29 +253,39 @@
 
     taxa
       .filter((t) => t.taxon_group && t.observations_count > 0)
+      .sort((a, b) => b.taxa_count - a.taxa_count)
       .forEach((taxon) => {
-        if (taxaHistory.filter((t) => t.taxon_id == taxon.taxon_id).length > 0) {
-          return;
-        }
         taxaCount += 1;
-
-        displayObservationsForTaxon(taxon);
+        addObservationsForTaxon(taxon);
       });
   }
 
-  function displayObservationsForTaxon(taxon) {
+  function addObservationsForTaxon(taxon) {
     let index = modulo(taxaCount, mapOptions.colorScheme.length);
 
-    let selectedObservations = fecthObservationsByTaxonId(
+    let selectedObservations = fetchObservationsByTaxonId(
       allObservations,
       taxon.taxon_id,
       mapOptions.colorScheme[index]
     );
 
-    // update observations
-    observations = observations.concat(selectedObservations);
-    observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
-    groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
+    // update observations & observationsIds
+    selectedObservations.forEach((o) => {
+      // only add observations that weren't added by other taxa
+      if (!observationsIds.has(o.id)) {
+        observationsIds.add(o.id);
+        observations.push(o);
+      }
+    });
+    observationsDisplay = sortObservations(
+      observations,
+      orderByValue,
+      mapOptions.observationsTimeSpan
+    );
+    groupedObservations = createGroupObservations(
+      observationsDisplay,
+      mapOptions.observationsTimeSpan
+    );
 
     // update filters
     taxaHistory = taxaHistory.concat({
@@ -292,8 +295,10 @@
       taxon_id: taxon.taxon_id,
       color: mapOptions.colorScheme[index],
       active: true,
-      observations: selectedObservations
+      observations: selectedObservations.map(o => o.id)
     });
+
+    // update time span filters
     if (mapOptions.observationsTimeSpan !== 'all') {
       // when adding new taxa, keep existing time span filters as is, and set new ones to true
       groupedObservations.forEach(
@@ -301,6 +306,7 @@
           (timeSpanHistory[k] = timeSpanHistory[k] !== undefined ? timeSpanHistory[k] : true)
       );
     }
+
     loading = false;
   }
 
@@ -311,18 +317,23 @@
   function removeTaxon(e) {
     loading = true;
     let taxonId = Number(e.target.dataset['taxonId']);
-    observations = [];
 
-    // update filters & observations
+    // update filters & observationsIds
+    observationsIds = new Set();
     taxaHistory = taxaHistory.filter((t) => {
       if (t.taxon_id !== taxonId && t.active) {
-        observations = observations.concat(t.observations);
+        t.observations.forEach((id) => observationsIds.add(id));
       }
       return t.taxon_id !== taxonId;
     });
 
     // update observations
-    observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
+    observations = observations.filter((o) => observationsIds.has(o.id));
+    observationsDisplay = sortObservations(
+      observations,
+      orderByValue,
+      mapOptions.observationsTimeSpan
+    );
     groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
 
     // update filters
@@ -353,21 +364,30 @@
 
     // add observations
     if (currentlyActive) {
-      observations = observations.concat(
-        taxaHistory.filter((t) => t.taxon_id === taxonId)[0]['observations']
-      );
+      taxaHistory
+        .filter((t) => t.taxon_id === taxonId)[0]
+        ['observations'].forEach((id) => observationsIds.add(id));
       // remove observations
     } else {
-      observations = [];
+      observationsIds = new Set();
       taxaHistory.forEach((t) => {
         if (t.taxon_id !== taxonId && t.active) {
-          observations = observations.concat(t.observations);
+          t.observations.forEach((id) => observationsIds.add(id));
         }
       });
     }
+
     // update observations
-    observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
-    groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
+    observationsDisplay = observations.filter((o) => observationsIds.has(o.id));
+    observationsDisplay = sortObservations(
+      observationsDisplay,
+      orderByValue,
+      mapOptions.observationsTimeSpan
+    );
+    groupedObservations = createGroupObservations(
+      observationsDisplay,
+      mapOptions.observationsTimeSpan
+    );
 
     // update filters
     if (mapOptions.observationsTimeSpan !== 'all') {
@@ -385,20 +405,27 @@
     let targetFilter = e.target.dataset['filter'];
     targetFilter = targetFilter === 'unknown' ? 'unknown' : Number(targetFilter);
 
-    // update observations
+    // update filters
     timeSpanHistory[targetFilter] = !timeSpanHistory[targetFilter];
   }
 
   function selectTimeSpanHandler() {
     loading = true;
     // update observations
-    observations = sortObservations(observations, orderByValue, mapOptions.observationsTimeSpan);
-    groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
+    observationsDisplay = sortObservations(
+      observationsDisplay,
+      orderByValue,
+      mapOptions.observationsTimeSpan
+    );
+    groupedObservations = createGroupObservations(
+      observationsDisplay,
+      mapOptions.observationsTimeSpan
+    );
 
     // update filters
+    // reset all time span filters when changing time span types
     timeSpanHistory = {};
     if (mapOptions.observationsTimeSpan !== 'all') {
-      // reset all time span filters when changing time span types
       groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
     }
 
