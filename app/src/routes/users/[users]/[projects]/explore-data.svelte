@@ -69,6 +69,7 @@
   $: if (taxaHistory.length === 0) {
     showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
     showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
+    timeSpanHistory = {};
   }
 
   $: {
