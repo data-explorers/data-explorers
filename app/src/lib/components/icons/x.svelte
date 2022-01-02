@@ -7,10 +7,12 @@
 <style>
   span {
     display: inline-block;
+    text-align: center;
     font-size: 1.5rem;
-    padding: 0 4px 4px 4px;
-    margin-top: 4px;
-    background-color: lightgreen;
     line-height: 1;
+    width: 25px;
+    height: 25px;
+
+    font-weight: 300;
   }
 </style>

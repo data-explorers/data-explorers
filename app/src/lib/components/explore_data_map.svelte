@@ -7,11 +7,17 @@
     Rectangle,
     ScaleControl,
     MarkerCluster,
-    EasyButton
+    EasyButton,
+    TileLayer
   } from '$lib/vendor/svelte-leaflet';
   import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
-  import { scaleControlOptions, fitPointsInMap, isObservationInMap } from '$lib/mapUtils';
+  import {
+    scaleControlOptions,
+    fitPointsInMap,
+    isObservationInMap,
+    getMapTiles
+  } from '$lib/mapUtils';
   import { getObservationsSelected, countObservations, countSpecies } from '$lib/dataUtils';
   import { tooltip } from '$lib/tooltip.js';
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
@@ -51,6 +57,10 @@ import { values } from 'vega-lite/src/compile/axis/properties';
   let maxZoom = 0;
   let speciesCount = 0;
   let speciesDisplayCount = 0;
+
+  let tiles = getMapTiles();
+  let inatTaxonRange = tiles.InatTaxonRange;
+  let inatGrid = tiles.InatGrid;
 
   // update observation counts and displayed observations
   $: {
@@ -220,6 +230,14 @@ import { values } from 'vega-lite/src/compile/axis/properties';
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <!-- base layers must be set up before MarkerCluster  -->
     <MapLayersControl {country} />
+    {#each taxaHistory as taxon}
+      {#if taxon.showInatTaxonRange}
+        <TileLayer zIndex={201} url={taxon.InatTaxonRangeUrl} />
+      {/if}
+      {#if taxon.showInatGrid}
+        <TileLayer zIndex={201} url={taxon.InatGridUrl} />
+      {/if}
+    {/each}
     <!-- marker clusters -->
     {#if useMarkerCluster}
       <MarkerCluster items={observationsDisplay} />

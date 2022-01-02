@@ -2,13 +2,22 @@
   import CircleIcon from '$lib/components/icons/circle.svelte';
   import XIcon from '$lib/components/icons/x.svelte';
   import { pluralize } from '$lib/formatUtils';
-  import { fade } from 'svelte/transition';
+  import { fade, fly } from 'svelte/transition';
   import { tooltip } from '$lib/tooltip.js';
+  import { getObservedSpecies } from '$lib/dataUtils';
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import ShowMore from '$lib/components/show_more.svelte';
 
   export let taxon;
+  export let taxa;
   export let toggleTaxon;
   export let removeTaxon;
   export let projectPath;
+  export let toggleInatGrid;
+  export let toggleInatTaxonRange;
+
+  let showMore = false;
+  let observedSpecies = getObservedSpecies(taxa, taxon);
 </script>
 
 <div class="border relative filter" class:active={taxon.active} in:fade out:fade>
@@ -40,29 +49,63 @@
           color={taxon.color}
         />
         <span class="cursor-pointer" data-filter={taxon.taxon_id}>{taxon.taxon_name}</span><br />
-
         <span class="cursor-pointer" data-filter={taxon.taxon_id}>
           {pluralize('observation', taxon.taxa_count)}
-        </span>
+        </span><br />
       </div>
     </div>
   </div>
+  <ShowMore border={true} on:toggleShowMore={(e) => (showMore = e.detail.showMore)} />
   <button
     use:tooltip
-    class="absolute close-button"
+    class="absolute close-button border border-1"
     title="click to delete species"
     data-taxon-id={taxon.taxon_id}
     on:click={removeTaxon}
   >
     <XIcon value={taxon.taxon_id} />
   </button>
-  <a href="{projectPath}/taxa/{taxon.taxon_id}">Species page</a>
+
+  {#if showMore}
+    <div class="py-1 px-2" in:fade out:fade>
+      <a href="{projectPath}/taxa/{taxon.taxon_id}">Species page</a> <br />
+
+      taxonomic rank: {taxon.rank}<br />
+
+      <label class="cursor-pointer block">
+        <input type="checkbox" class="mr-1" on:click={() => toggleInatGrid(taxon.taxon_id)} />all
+        iNaturalist observations
+      </label>
+      <label class="cursor-pointer block">
+        <input
+          type="checkbox"
+          class="mr-1"
+          on:click={() => toggleInatTaxonRange(taxon.taxon_id)}
+        />Taxon range
+      </label>
+      {#if observedSpecies.length > 0}
+        {observedSpecies.length} observed species
+        <ul>
+          {#each observedSpecies as species}
+            <li>{@html formatTaxonDisplayName(species, true)}</li>
+          {/each}
+        </ul>
+      {/if}
+    </div>
+  {/if}
 </div>
 
 <style>
+  ul {
+    margin-top: 0;
+  }
+
+  li {
+    margin: 0;
+  }
   .close-button {
-    top: 0;
-    right: 2px;
+    top: 25px;
+    right: 0;
   }
 
   .filter {
@@ -78,7 +121,7 @@
   }
 
   .image-card-side-body {
-    margin-right: 18px;
+    margin-right: 35px;
   }
 
   .image-card-side:hover {

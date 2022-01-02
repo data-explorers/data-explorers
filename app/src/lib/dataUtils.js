@@ -22,7 +22,8 @@ export const fetchTaxaByName = (taxa, keyword) => {
             common_name: taxon.common_name,
             scientific_name: taxon.scientific_name,
             taxa_count: taxon.taxa_count,
-            image_url: taxon.image_url
+            image_url: taxon.image_url,
+            rank: taxon.rank
           });
           selectedIds.push(taxon.taxon_id);
         }

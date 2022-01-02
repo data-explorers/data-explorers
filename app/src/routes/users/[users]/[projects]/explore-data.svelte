@@ -40,7 +40,7 @@
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
   import TaxonFilter from '$lib/components/ed_taxon_filter.svelte';
   import { modulo } from '$lib/miscUtils';
-  import { darkGray, defaultColorScheme, getMonthName } from '$lib/mapUtils';
+  import { darkGray, defaultColorScheme, getMonthName, getMapTiles } from '$lib/mapUtils';
   import {
     fetchTaxaByName,
     fetchObservationsByTaxonId,
@@ -288,14 +288,21 @@
     );
 
     // update filters
+    let tiles = getMapTiles(taxon.taxon_id);
+    let color = mapOptions.colorScheme[index];
     taxaHistory = taxaHistory.concat({
       taxon_name: formatTaxonDisplayName(taxon),
       image_url: taxon.image_url,
       taxa_count: taxon.taxa_count,
       taxon_id: taxon.taxon_id,
-      color: mapOptions.colorScheme[index],
+      color: color,
+      rank: taxon.rank,
       active: true,
-      observations: selectedObservations.map(o => o.id)
+      observations: selectedObservations.map((o) => o.id),
+      showInatGrid: false,
+      InatGridUrl: `${tiles.InatGrid.url}&color=%23${color.replace('#', '')}`,
+      showInatTaxonRange: false,
+      InatTaxonRangeUrl: `${tiles.InatTaxonRange.url}?color=%23${color.replace('#', '')}`
     });
 
     // update time span filters
@@ -313,6 +320,16 @@
   // =====================
   // taxa filters
   // =====================
+
+  function toggleInatGrid(taxon_id) {
+    let index = taxaHistory.map((t) => t.taxon_id).indexOf(taxon_id);
+    taxaHistory[index].showInatGrid = !taxaHistory[index].showInatGrid;
+  }
+
+  function toggleInatTaxonRange(taxon_id) {
+    let index = taxaHistory.map((t) => t.taxon_id).indexOf(taxon_id);
+    taxaHistory[index].showInatTaxonRange = !taxaHistory[index].showInatTaxonRange;
+  }
 
   function removeTaxon(e) {
     loading = true;
@@ -491,7 +508,15 @@
 
       <div class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2 mb-2">
         {#each taxaHistory as taxon (taxon.taxon_id)}
-          <TaxonFilter {taxon} {toggleTaxon} {removeTaxon} {projectPath} />
+          <TaxonFilter
+            {taxa}
+            {taxon}
+            {toggleTaxon}
+            {removeTaxon}
+            {toggleInatGrid}
+            {toggleInatTaxonRange}
+            {projectPath}
+          />
         {/each}
       </div>
 

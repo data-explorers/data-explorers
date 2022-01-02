@@ -4,11 +4,15 @@
 
   export let showMore = false;
   export let format = 'upDown';
+  export let top = 0;
+  export let right = 0;
+  export let border;
+
   const dispatch = createEventDispatcher();
 
   function handleClick() {
     showMore = !showMore;
-    dispatch('toggleShowMore');
+    dispatch('toggleShowMore', { showMore: showMore });
   }
 </script>
 
@@ -16,6 +20,9 @@
   {#if showMore}
     <span
       class="arrow down-arrow"
+      class:border
+      class:border-1={border}
+      style="top: {top}; right: {right}"
       title="click to show less info"
       use:tooltip
       on:click={handleClick}
@@ -23,6 +30,9 @@
   {:else}
     <span
       class="arrow up-arrow"
+      class:border
+      class:border-1={border}
+      style="top: {top}; right: {right}"
       title="click to show more info"
       use:tooltip
       on:click={handleClick}
@@ -31,6 +41,9 @@
 {:else if showMore}
   <span
     class="arrow left-arrow"
+    class:border
+    class:border-1={border}
+    style="top: {top}; right: {right}"
     title="click to show less info"
     use:tooltip
     on:click={handleClick}
@@ -38,6 +51,9 @@
 {:else}
   <span
     class="arrow right-arrow"
+    class:border
+    class:border-1={border}
+    style="top: {top}; right: {right}"
     title="click to show more info"
     use:tooltip
     on:click={handleClick}
@@ -47,14 +63,15 @@
 <style>
   .arrow {
     position: absolute;
-    right: 0px;
-    top: 5px;
-    padding: 0 5px;
-    line-height: 1;
     cursor: pointer;
-    font-size: 1.75rem;
-    font-weight: 900;
     display: inline-block;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1;
+    width: 27px;
+    height: 25px;
+
+    font-weight: 900;
   }
   .up-arrow::after {
     display: inline-block;
