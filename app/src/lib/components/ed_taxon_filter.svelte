@@ -1,6 +1,6 @@
 <script>
-  import CircleIcon from '$lib/components/svg/circle.svelte';
-  import XIcon from '$lib/components/svg/x.svelte';
+  import CircleIcon from '$lib/components/icons/circle.svelte';
+  import XIcon from '$lib/components/icons/x.svelte';
   import { pluralize } from '$lib/formatUtils';
   import { fade } from 'svelte/transition';
   import { tooltip } from '$lib/tooltip.js';

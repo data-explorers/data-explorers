@@ -1,8 +1,8 @@
 <script>
   import { getMonthName, coldMonths } from '$lib/mapUtils';
   import { modulo } from '$lib/miscUtils';
-  import CircleIcon from '$lib/components/svg/circle.svelte';
-  import RectangleIcon from '$lib/components/svg/rectangle.svelte';
+  import CircleIcon from '$lib/components/icons/circle.svelte';
+  import RectangleIcon from '$lib/components/icons/rectangle.svelte';
 
   export let mapOptions;
   export let selectTimeSpanHandler;
