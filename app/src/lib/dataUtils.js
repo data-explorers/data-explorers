@@ -342,3 +342,10 @@ export function getObservationsDisplay(groupedObservations, useMarkerCluster, ma
 
   return observations;
 }
+
+export function getObservedSpecies(taxa, taxon) {
+  return taxa
+    .filter((t) => speciesRanks.includes(t.rank))
+    .filter((t) => t.taxon_id !== taxon.taxon_id)
+    .filter((t) => t.taxon_ids.split('|').includes('' + taxon.taxon_id));
+}

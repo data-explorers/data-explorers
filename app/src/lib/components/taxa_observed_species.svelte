@@ -1,6 +1,7 @@
 <script>
   import { speciesRanks } from '$lib/data/constants';
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
+  import { getObservedSpecies } from '$lib/dataUtils';
 
   export let taxon;
   export let projectPath;
@@ -17,13 +18,6 @@
 
   let page = 1;
   let limit = 20;
-
-  function getObservedSpecies(taxa, taxon) {
-    return taxa
-      .filter((t) => speciesRanks.includes(t.rank))
-      .filter((t) => t.taxon_id !== taxon.taxon_id)
-      .filter((t) => t.taxon_ids.split('|').includes('' + taxon.taxon_id));
-  }
 
   function loadMore() {
     page = page + 1;
