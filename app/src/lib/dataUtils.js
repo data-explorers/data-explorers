@@ -1,6 +1,7 @@
 import { formatTaxonDisplayName } from '$lib/formatUtils';
 import { getDateRange, groupByMap, range } from '$lib/miscUtils';
 import { isObservationInMap } from '$lib/mapUtils';
+import { speciesRanks } from '$lib/data/constants';
 
 export const fetchTaxaByName = (taxa, keyword) => {
   // find taxa whose common name or scientific name matches the keyword
@@ -272,28 +273,28 @@ function addMissingTimePeriods(
   });
 }
 
-export function countObservations(observations, field='id') {
+export function countObservations(observations, field = 'id') {
   if (Array.isArray(observations)) {
-    return new Set(observations.map(o => o[field])).size
+    return new Set(observations.map((o) => o[field])).size;
   } else {
-    let uniqueIds = new Set
+    let uniqueIds = new Set();
     observations.forEach((values, key) => {
-      values.forEach(o => uniqueIds.add(o[field]))
+      values.forEach((o) => uniqueIds.add(o[field]));
     });
-    return uniqueIds.size
+    return uniqueIds.size;
   }
 }
 
-
 export function countSpecies(observations) {
   if (Array.isArray(observations)) {
-    return new Set(observations.map(o => o.taxon_id)).size;
+    return new Set(observations.filter((o) => speciesRanks.includes(o.rank)).map((o) => o.taxon_id))
+      .size;
   } else {
-    let uniqueIds = new Set
+    let uniqueIds = new Set();
     observations.forEach((values, key) => {
-      values.forEach(o => uniqueIds.add(o.id))
+      values.filter((o) => speciesRanks.includes(o.rank)).forEach((o) => uniqueIds.add(o.taxon_id));
     });
-    return uniqueIds.size
+    return uniqueIds.size;
   }
 }
 

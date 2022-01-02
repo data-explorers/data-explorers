@@ -12,7 +12,7 @@
   import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
   import { scaleControlOptions, fitPointsInMap, isObservationInMap } from '$lib/mapUtils';
-  import { getObservationsSelected, countObservations } from '$lib/dataUtils';
+  import { getObservationsSelected, countObservations, countSpecies } from '$lib/dataUtils';
   import { tooltip } from '$lib/tooltip.js';
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
   import MapLayersControl from '$lib/components/map_layers_control.svelte';
@@ -49,6 +49,8 @@ import { values } from 'vega-lite/src/compile/axis/properties';
   let observationsSelectedCount = 0;
   let observationsDirty = false;
   let maxZoom = 0;
+  let speciesCount = 0;
+  let speciesDisplayCount = 0;
 
   // update observation counts and displayed observations
   $: {
@@ -59,10 +61,12 @@ import { values } from 'vega-lite/src/compile/axis/properties';
       // filter observations by timespans
       observationsSelected = getObservationsSelected(groupedObservations, timeSpanHistory);
       observationsSelectedCount = countObservations(observationsSelected);
+      speciesCount = countSpecies(observationsSelected);
 
       // filter observations by map bounding box
       observationsDisplay = getObservationsDisplay(observationsSelected);
       observationsDisplayCount = countObservations(observationsDisplay);
+      speciesDisplayCount = countSpecies(observationsDisplay);
 
       observationsDirty = false;
     }
@@ -180,19 +184,16 @@ import { values } from 'vega-lite/src/compile/axis/properties';
   });
 </script>
 
-<div class="w-full shadow rounded-none stats">
 <svelte:window on:resize={resizeMap} />
+
+<div class="md:w-full rounded-none border stats">
   <div class="stat place-items-center place-content-center">
-    <div class="stat-title">Total Observations</div>
-    <div class="stat-value">{coordinates.length}</div>
-  </div>
-  <div class="stat place-items-center place-content-center">
-    <div class="stat-title">Selected Observations</div>
+    <div class="stat-title">Observations</div>
     <div class="stat-value">{observationsSelectedCount}</div>
   </div>
   <div class="stat place-items-center place-content-center">
     <div class="stat-title">
-      Observations on Map
+      Observations in map
       {#if observationsDisplayCount >= clusterLimit}
         <span
           use:tooltip
@@ -203,6 +204,15 @@ import { values } from 'vega-lite/src/compile/axis/properties';
       {/if}
     </div>
     <div class="stat-value">{observationsDisplayCount}</div>
+  </div>
+  <div class="stat place-items-center place-content-center">
+    <div class="stat-title">Species</div>
+    <div class="stat-value">{speciesCount}</div>
+  </div>
+
+  <div class="stat place-items-center place-content-center">
+    <div class="stat-title">Species in map</div>
+    <div class="stat-value">{speciesDisplayCount}</div>
   </div>
 </div>
 
@@ -261,3 +271,9 @@ import { values } from 'vega-lite/src/compile/axis/properties';
     <ScaleControl position="bottomleft" options={scaleControlOptions} />
   </LeafletMap>
 </div>
+
+<style>
+  .stat-title {
+    white-space: normal;
+  }
+</style>
