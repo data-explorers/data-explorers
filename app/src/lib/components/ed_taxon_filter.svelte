@@ -6,7 +6,7 @@
   import { tooltip } from '$lib/tooltip.js';
   import { getObservedSpecies } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
-  import ShowMore from '$lib/components/show_more.svelte';
+  import Ellipse from '$lib/components/icons/ellipse.svelte';
 
   export let taxon;
   export let taxa;
@@ -20,58 +20,49 @@
   let observedSpecies = getObservedSpecies(taxa, taxon);
 </script>
 
-<div class="border relative filter" class:active={taxon.active} in:fade out:fade>
-  <div class="image-card-side">
+<div class="border relative filter">
+  <div class="filter-menu dropdown dropdown-end dropdown-top">
+    <button tabindex="0" class="hover:bg-gray-200" data-taxon-id={taxon.taxon_id}>
+      <Ellipse border={true} value={taxon.taxon_id} />
+    </button>
+
+    <ul tabindex="0" class="shadow border bg-base-100 border-2 py-2 px-4 menu dropdown-content ">
+      <li data-taxon-id={taxon.taxon_id} on:click={toggleTaxon}>
+        {#if taxon.active}Hide{:else}Show{/if} species
+      </li>
+      <li on:click={() => (showMore = !showMore)}>
+        Show {#if showMore}less{:else}more{/if} info
+      </li>
+      <li data-taxon-id={taxon.taxon_id} on:click={removeTaxon}>Delete species</li>
+    </ul>
+  </div>
+  <div class="image-card-side " class:active={taxon.active} in:fade out:fade>
     <figure>
       {#if taxon.image_url}
-        <img
-          class="cursor-pointer"
-          on:click={toggleTaxon}
-          data-filter={taxon.taxon_id}
-          src={taxon.image_url.replace('medium', 'square')}
-          alt="photo of {taxon.taxon_name}"
-        />
+        <img src={taxon.image_url.replace('medium', 'square')} alt="photo of {taxon.taxon_name}" />
       {:else}
         <img src="/images/missing-image.png" alt="" />
       {/if}
     </figure>
 
-    <div
-      class="image-card-side-body cursor-pointer "
-      on:click={toggleTaxon}
-      data-filter={taxon.taxon_id}
-    >
-      <div class="leading-normal" data-filter={taxon.taxon_id}>
-        <CircleIcon
-          clickHandler={toggleTaxon}
-          cursorPointer={true}
-          value={taxon.taxon_id}
-          color={taxon.color}
-        />
-        <span class="cursor-pointer" data-filter={taxon.taxon_id}>{taxon.taxon_name}</span><br />
-        <span class="cursor-pointer" data-filter={taxon.taxon_id}>
-          {pluralize('observation', taxon.taxa_count)}
-        </span><br />
+    <div class="image-card-side-body">
+      <div class="leading-normal" data-taxon-id={taxon.taxon_id}>
+        <CircleIcon value={taxon.taxon_id} color={taxon.color} />
+        <span>{taxon.taxon_name}</span><br />
+        <span>{pluralize('observation', taxon.taxa_count)}</span><br />
       </div>
     </div>
   </div>
-  <ShowMore border={true} on:toggleShowMore={(e) => (showMore = e.detail.showMore)} />
-  <button
-    use:tooltip
-    class="absolute close-button border border-1"
-    title="click to delete species"
-    data-taxon-id={taxon.taxon_id}
-    on:click={removeTaxon}
-  >
-    <XIcon value={taxon.taxon_id} />
-  </button>
-
   {#if showMore}
-    <div class="py-1 px-2" in:fade out:fade>
-      <a href="{projectPath}/taxa/{taxon.taxon_id}">Species page</a> <br />
+    <div class="py-1 px-2 card-more-content" in:fade out:fade class:active={taxon.active}>
+      <dl>
+        <dt>link</dt>
+        <dd><a href="{projectPath}/taxa/{taxon.taxon_id}">Species page</a></dd>
+        <dt>taxonomic rank</dt>
+        <dd>{taxon.rank}</dd>
+      </dl>
 
-      taxonomic rank: {taxon.rank}<br />
-
+      <span class="font-medium inline-block">Map layers</span>
       <label class="cursor-pointer block">
         <input type="checkbox" class="mr-1" on:click={() => toggleInatGrid(taxon.taxon_id)} />all
         iNaturalist observations
@@ -83,9 +74,10 @@
           on:click={() => toggleInatTaxonRange(taxon.taxon_id)}
         />Taxon range
       </label>
+
       {#if observedSpecies.length > 0}
-        {observedSpecies.length} observed species
-        <ul>
+        <span class="font-medium mt-2 inline-block">{observedSpecies.length} observed species</span>
+        <ul class="observed-species">
           {#each observedSpecies as species}
             <li>{@html formatTaxonDisplayName(species, true)}</li>
           {/each}
@@ -96,35 +88,68 @@
 </div>
 
 <style>
-  ul {
-    margin-top: 0;
-  }
-
-  li {
+  ul.menu,
+  ul.observed-species {
     margin: 0;
   }
-  .close-button {
-    top: 25px;
+
+  .menu li::before {
+    content: none;
+  }
+
+  .observed-species li {
+    margin: 0;
+    padding-left: 20px;
+  }
+
+  .menu li {
+    margin: 0;
+    padding-left: 0;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+
+  .menu li:hover {
+    text-decoration: underline;
+  }
+  .filter-menu {
+    float: right;
+    /* position: absolute; */
+    top: 0;
     right: 0;
   }
 
-  .filter {
+  .image-card-side,
+  .card-more-content {
     opacity: 0.5;
   }
 
-  .filter.active {
+  .image-card-side.active,
+  .card-more-content.active {
     opacity: 1;
   }
 
   .image-card-side {
     border-width: 0;
-  }
-
-  .image-card-side-body {
-    margin-right: 35px;
+    padding: 5px 0;
   }
 
   .image-card-side:hover {
     box-shadow: none;
+  }
+
+  dl {
+    @apply mb-2;
+  }
+
+  dt {
+    float: left;
+    clear: left;
+    @apply font-medium;
+    padding-right: 0.5rem;
+  }
+
+  dt::after {
+    content: ':';
   }
 </style>

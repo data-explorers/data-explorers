@@ -39,7 +39,7 @@
   import Modal from '$lib/components/modal.svelte';
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
   import TaxonFilter from '$lib/components/ed_taxon_filter.svelte';
-  import { modulo } from '$lib/miscUtils';
+  import { modulo, lightenDarkenColor } from '$lib/miscUtils';
   import { darkGray, defaultColorScheme, getMonthName, getMapTiles } from '$lib/mapUtils';
   import {
     fetchTaxaByName,
@@ -58,7 +58,6 @@
   export let allObservations;
   export let taxa;
   export let projectPath;
-
 
   $: if (taxaHistory.length === 0) {
     showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
@@ -290,6 +289,8 @@
     // update filters
     let tiles = getMapTiles(taxon.taxon_id);
     let color = mapOptions.colorScheme[index];
+    let lighterColor = lightenDarkenColor(color, 10);
+
     taxaHistory = taxaHistory.concat({
       taxon_name: formatTaxonDisplayName(taxon),
       image_url: taxon.image_url,
@@ -300,9 +301,9 @@
       active: true,
       observations: selectedObservations.map((o) => o.id),
       showInatGrid: false,
-      InatGridUrl: `${tiles.InatGrid.url}&color=%23${color.replace('#', '')}`,
+      InatGridUrl: `${tiles.InatGrid.url}&color=%23${lighterColor}`,
       showInatTaxonRange: false,
-      InatTaxonRangeUrl: `${tiles.InatTaxonRange.url}?color=%23${color.replace('#', '')}`
+      InatTaxonRangeUrl: `${tiles.InatTaxonRange.url}?color=%23${lighterColor}`
     });
 
     // update time span filters
@@ -362,7 +363,7 @@
   }
 
   function toggleTaxon(e) {
-    let taxonId = Number(e.target.dataset['filter']);
+    let taxonId = Number(e.target.dataset['taxonId']);
     if (!taxonId) {
       return;
     }

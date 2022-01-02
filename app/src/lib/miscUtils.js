@@ -66,3 +66,20 @@ function getMonthsBetween(dateFrom, dateTo) {
   }
   return dates;
 }
+
+export function lightenDarkenColor(color, percent) {
+  // https://stackoverflow.com/a/13532993
+  function convert(hexSubstring) {
+    var value = parseInt(hexSubstring, 16);
+    value = parseInt((value * (100 + percent)) / 100);
+    value = value < 255 ? value : 255;
+    return value.toString(16).length == 1 ? '0' + value.toString(16) : value.toString(16);
+  }
+
+  color = color.replace('#', '');
+  var R = convert(color.substring(0, 2));
+  var G = convert(color.substring(2, 4));
+  var B = convert(color.substring(4, 6));
+
+  return R + G + B;
+}
