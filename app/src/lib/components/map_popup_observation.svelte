@@ -26,3 +26,9 @@
     />
   {/if}
 </MyPopup>
+
+<style>
+  img {
+    min-height: 100px;
+  }
+</style>
