@@ -1,5 +1,7 @@
 import tippy from 'tippy.js';
 import 'tippy.js/dist/tippy.css';
+import 'tippy.js/themes/light.css';
+import '$lib/styles/tippy-grey.css';
 
 // https://dev.to/danawoodman/svelte-quick-tip-using-actions-to-integrate-with-javascript-libraries-tippy-tooltips-2m94
 export function tooltip(node, params = {}) {
@@ -21,6 +23,8 @@ export function tooltip(node, params = {}) {
   // we don't want the default behavior of it
   // showing up on hover.
   node.title = '';
+
+  params.theme = params.theme || 'grey';
 
   // Support any of the Tippy props by forwarding all "params":
   // https://atomiks.github.io/tippyjs/v6/all-props/
