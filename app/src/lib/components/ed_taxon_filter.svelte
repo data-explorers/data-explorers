@@ -15,9 +15,14 @@
   export let projectPath;
   export let toggleInatGrid;
   export let toggleInatTaxonRange;
+  export let taxaHistory;
 
   let showMore = false;
   let observedSpecies = getObservedSpecies(taxa, taxon);
+  let index = taxaHistory.map((t) => t.taxon_id).indexOf(taxon.taxon_id);
+  let showInatTaxonRange = taxaHistory[index].showInatTaxonRange
+  let showInatGrid = taxaHistory[index].showInatGrid
+
 </script>
 
 <div class="border relative filter">
@@ -64,13 +69,18 @@
 
       <span class="font-medium inline-block">Map layers</span>
       <label class="cursor-pointer block">
-        <input type="checkbox" class="mr-1" on:click={() => toggleInatGrid(taxon.taxon_id)} />all
-        iNaturalist observations
+        <input
+          type="checkbox"
+          class="mr-1"
+          bind:checked={showInatGrid}
+          on:click={() => toggleInatGrid(taxon.taxon_id)}
+        />all iNaturalist observations
       </label>
       <label class="cursor-pointer block">
         <input
           type="checkbox"
           class="mr-1"
+          bind:checked={showInatTaxonRange}
           on:click={() => toggleInatTaxonRange(taxon.taxon_id)}
         />Taxon range
       </label>

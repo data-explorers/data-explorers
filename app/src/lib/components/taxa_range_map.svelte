@@ -33,19 +33,23 @@
   <input
     type="checkbox"
     class="mr-1"
-    checked
+    bind:checked={showObservations}
     on:click={() => (showObservations = !showObservations)}
   />project observations
-</label>
-<label class="cursor-pointer mr-3">
-  <input type="checkbox" class="mr-1" checked on:click={() => (showAllInat = !showAllInat)} />all
-  iNaturalist observations
 </label>
 <label class="cursor-pointer mr-3">
   <input
     type="checkbox"
     class="mr-1"
-    checked
+    bind:checked={showAllInat}
+    on:click={() => (showAllInat = !showAllInat)}
+  />all iNaturalist observations
+</label>
+<label class="cursor-pointer mr-3">
+  <input
+    type="checkbox"
+    class="mr-1"
+    bind:checked={showRangeMap}
     on:click={() => (showRangeMap = !showRangeMap)}
   />range map
 </label>

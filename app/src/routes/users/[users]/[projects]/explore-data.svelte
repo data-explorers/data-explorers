@@ -564,6 +564,7 @@
                 {toggleInatGrid}
                 {toggleInatTaxonRange}
                 {projectPath}
+                {taxaHistory}
               />
             {/each}
           </div>
