@@ -20,7 +20,6 @@ export function convertTaxa(taxa) {
       parent_id: Number(t.parent_id),
       taxa_count: Number(t.taxa_count),
       taxon_id: Number(t.taxon_id),
-      observations_count: Number(t.observations_count)
     };
   });
 }

@@ -1,5 +1,4 @@
 <script>
-  import { speciesRanks } from '$lib/data/constants';
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
   import { getObservedSpecies } from '$lib/dataUtils';
 

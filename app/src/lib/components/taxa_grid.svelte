@@ -1,5 +1,5 @@
 <script>
-  import { toTitleCase, pluralize } from '$lib/formatUtils';
+  import { pluralize } from '$lib/formatUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let taxa;

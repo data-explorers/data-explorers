@@ -36,7 +36,7 @@ export function getDateRange(startDate, endDate, steps = 1) {
   return dateArray;
 }
 
-function getNumberOfMonthsBetween(dateFrom, dateTo) {
+export function getNumberOfMonthsBetween(dateFrom, dateTo) {
   // https://stackoverflow.com/a/4312956
   let dateObjFrom = new Date(dateFrom);
   let dateObjTo = new Date(dateTo);
@@ -47,7 +47,7 @@ function getNumberOfMonthsBetween(dateFrom, dateTo) {
   );
 }
 
-function getMonthsBetween(dateFrom, dateTo) {
+export function getMonthsBetween(dateFrom, dateTo) {
   // https://stackoverflow.com/a/30465299
   var start = dateFrom.split('-');
   var end = dateTo.split('-');

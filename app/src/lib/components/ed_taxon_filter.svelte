@@ -1,9 +1,7 @@
 <script>
   import CircleIcon from '$lib/components/icons/circle.svelte';
-  import XIcon from '$lib/components/icons/x.svelte';
   import { pluralize } from '$lib/formatUtils';
-  import { fade, fly } from 'svelte/transition';
-  import { tooltip } from '$lib/tooltip.js';
+  import { fade } from 'svelte/transition';
   import { getObservedSpecies } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import Ellipse from '$lib/components/icons/ellipse.svelte';
@@ -20,9 +18,8 @@
   let showMore = false;
   let observedSpecies = getObservedSpecies(taxa, taxon);
   let index = taxaHistory.map((t) => t.taxon_id).indexOf(taxon.taxon_id);
-  let showInatTaxonRange = taxaHistory[index].showInatTaxonRange
-  let showInatGrid = taxaHistory[index].showInatGrid
-
+  let showInatTaxonRange = taxaHistory[index].showInatTaxonRange;
+  let showInatGrid = taxaHistory[index].showInatGrid;
 </script>
 
 <div class="border relative filter">

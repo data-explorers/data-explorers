@@ -13,7 +13,6 @@
   import { onMount } from 'svelte';
   import { scaleControlOptions, isObservationInMap } from '$lib/mapUtils';
   import { getObservationsSelected, countObservations, countSpecies } from '$lib/dataUtils';
-  import { tooltip } from '$lib/tooltip.js';
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
   import MapLayersControl from '$lib/components/map_layers_control.svelte';
   import ToggleMarkerTypeButton from '$lib/components/map_toggle_marker_type_button.svelte';
@@ -23,10 +22,8 @@
   export let groupedObservations;
   export let timeSpanHistory;
   export let showDemoMapLayer;
-  export let projectPath;
   export let taxaHistory;
   export let country;
-  export let observations;
   export let mapCenter;
 
   let leafletMap;
@@ -270,15 +267,3 @@
     <ScaleControl position="bottomleft" options={scaleControlOptions} />
   </LeafletMap>
 </div>
-
-<style>
-  .stat-title {
-    white-space: normal;
-  }
-
-  .observation-container {
-    z-index: 2000;
-    background: wheat;
-    max-width: 300px;
-  }
-</style>

@@ -46,7 +46,7 @@ export let colorsSixDivergeGroup = [
 ];
 export let colorsSixDiverge = colorsSixDivergeGroup[0];
 
-let colorsFiveSingleHue = [
+export let colorsFiveSingleHue = [
   ['#c6dbef', '#9ecae1', '#6baed6', '#3182bd', '#08519c'],
   ['#c7e9c0', '#a1d99b', '#74c476', '#31a354', '#006d2c'],
   ['#d9d9d9', '#bdbdbd', '#969696', '#636363', '#252525'],

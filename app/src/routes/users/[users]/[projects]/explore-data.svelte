@@ -653,7 +653,6 @@
         {timeSpanHistory}
         {showDemoMapLayer}
         {taxaHistory}
-        {projectPath}
         {mapCenter}
         country={project.country}
         on:markerClick={changeObservation}
