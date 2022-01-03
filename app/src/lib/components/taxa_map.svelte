@@ -144,7 +144,8 @@
     // recenter and zoom map on a given coordinate
     if (mapCenter && mapCenter.longitude) {
       document.getElementById('taxa-map').scrollIntoView();
-      leafletMap.getMap().flyTo([mapCenter.latitude, mapCenter.longitude], 20);
+      let map = leafletMap.getMap();
+      map.flyTo([mapCenter.latitude, mapCenter.longitude], map.getMaxZoom() - 1);
       mapCenter = {};
     }
   }

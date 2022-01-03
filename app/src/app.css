@@ -171,3 +171,7 @@ main {
 .leaflet-container {
   font-size: 0.875rem !important;
 }
+
+.label-text {
+  @apply text-base;
+}

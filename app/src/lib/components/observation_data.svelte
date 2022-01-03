@@ -2,7 +2,7 @@
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import { createEventDispatcher } from 'svelte';
 
-  export let observation;
+  export let observation = {};
   export let projectPath;
   export let compactLayout = false;
   export let enableZoomToObservation = true;
@@ -20,9 +20,9 @@
 </script>
 
 <div class:prose={compactLayout === false} class:p-4={!compactLayout}>
-  <div class="text-lg mt-2 font-medium">
+  <h3>
     {@html formatTaxonDisplayName(observation, true)}
-  </div>
+  </h3>
   <dl>
     {#if observation.user_login}
       <dt>Observer</dt>
@@ -58,7 +58,7 @@
   </dl>
 
   {#if enableZoomToObservation}
-    <span class="link-color mr-4" on:click={zoomToObservation}>Zoom map</span>
+    <span class="link-color mr-4" on:click={zoomToObservation}>Show on map</span>
   {/if}
 
   {#if observation.taxon_id !== taxon.taxon_id}

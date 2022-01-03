@@ -1,5 +1,6 @@
 <script>
   import 'leaflet/dist/leaflet.css';
+  import { createEventDispatcher } from 'svelte';
   import {
     LeafletMap,
     CircleMarker,
@@ -7,23 +8,15 @@
     Rectangle,
     ScaleControl,
     MarkerCluster,
-    EasyButton,
     TileLayer
   } from '$lib/vendor/svelte-leaflet';
-  import MyPopup from '$lib/components/map_popup_observation.svelte';
   import { onMount } from 'svelte';
-  import {
-    scaleControlOptions,
-    fitPointsInMap,
-    isObservationInMap,
-    getMapTiles
-  } from '$lib/mapUtils';
+  import { scaleControlOptions, isObservationInMap } from '$lib/mapUtils';
   import { getObservationsSelected, countObservations, countSpecies } from '$lib/dataUtils';
   import { tooltip } from '$lib/tooltip.js';
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
   import MapLayersControl from '$lib/components/map_layers_control.svelte';
   import ToggleMarkerTypeButton from '$lib/components/map_toggle_marker_type_button.svelte';
-import { values } from 'vega-lite/src/compile/axis/properties';
 
   export let mapOptions;
   // NOTE: groupedObservations are filtered by taxa and grouped by time spans
@@ -33,6 +26,8 @@ import { values } from 'vega-lite/src/compile/axis/properties';
   export let projectPath;
   export let taxaHistory;
   export let country;
+  export let observations;
+  export let mapCenter;
 
   let leafletMap;
   let map;
@@ -42,12 +37,10 @@ import { values } from 'vega-lite/src/compile/axis/properties';
     [0, 0],
     [0, 0]
   ];
-  let noTaxa = true;
   let useMarkerCluster = false;
   let userSelectedMarkerType = 'markers';
   let clusterLimit = 1000;
   let zoomLevel;
-  let fitBoundsButton;
   let toggleMarkerModeButton;
   let observationsSelected = [];
   let observationsDisplay = [];
@@ -58,9 +51,7 @@ import { values } from 'vega-lite/src/compile/axis/properties';
   let speciesCount = 0;
   let speciesDisplayCount = 0;
 
-  let tiles = getMapTiles();
-  let inatTaxonRange = tiles.InatTaxonRange;
-  let inatGrid = tiles.InatGrid;
+  const dispatch = createEventDispatcher();
 
   // update observation counts and displayed observations
   $: {
@@ -78,6 +69,13 @@ import { values } from 'vega-lite/src/compile/axis/properties';
       observationsDisplayCount = countObservations(observationsDisplay);
       speciesDisplayCount = countSpecies(observationsDisplay);
 
+      dispatch('updateStats', {
+        observationsSelectedCount,
+        speciesCount,
+        observationsDisplayCount,
+        speciesDisplayCount
+      });
+
       observationsDirty = false;
     }
   }
@@ -85,18 +83,27 @@ import { values } from 'vega-lite/src/compile/axis/properties';
   $: {
     if (leafletMap) {
       if (taxaHistory.length > 0) {
-        if(Array.isArray(groupedObservations)) {
+        if (Array.isArray(groupedObservations)) {
           coordinates = groupedObservations.map((o) => [o.latitude, o.longitude]);
         } else {
-          let tempObservations = []
-          coordinates = groupedObservations.forEach((values, key)=> {
-            tempObservations = tempObservations.concat(values)
-          })
+          let tempObservations = [];
+          coordinates = groupedObservations.forEach((values, key) => {
+            tempObservations = tempObservations.concat(values);
+          });
           coordinates = tempObservations.map((o) => [o.latitude, o.longitude]);
         }
       } else {
         coordinates = [];
       }
+    }
+  }
+
+  $: if (leafletMap) {
+    // recenter and zoom map on a given coordinate
+    if (mapCenter && mapCenter.longitude) {
+      let map = leafletMap.getMap();
+      map.flyTo([mapCenter.latitude, mapCenter.longitude], map.getMaxZoom() - 1);
+      mapCenter = {};
     }
   }
 
@@ -170,6 +177,10 @@ import { values } from 'vega-lite/src/compile/axis/properties';
     }
   }
 
+  function handleMarkerClick(e, obs) {
+    dispatch('markerClick', { observation_id: obs.id, latlng: e.detail.latlng });
+  }
+
   // ===================
   // life cycle
   // ===================
@@ -196,37 +207,7 @@ import { values } from 'vega-lite/src/compile/axis/properties';
 
 <svelte:window on:resize={resizeMap} />
 
-<div class="md:w-full rounded-none border stats">
-  <div class="stat place-items-center place-content-center">
-    <div class="stat-title">Observations</div>
-    <div class="stat-value">{observationsSelectedCount}</div>
-  </div>
-  <div class="stat place-items-center place-content-center">
-    <div class="stat-title">
-      Observations in map
-      {#if observationsDisplayCount >= clusterLimit}
-        <span
-          use:tooltip
-          class="text-red-600"
-          title="Since there are over {clusterLimit} observations on the map, the map use clustered markers."
-          >*</span
-        >
-      {/if}
-    </div>
-    <div class="stat-value">{observationsDisplayCount}</div>
-  </div>
-  <div class="stat place-items-center place-content-center">
-    <div class="stat-title">Species</div>
-    <div class="stat-value">{speciesCount}</div>
-  </div>
-
-  <div class="stat place-items-center place-content-center">
-    <div class="stat-title">Species in map</div>
-    <div class="stat-value">{speciesDisplayCount}</div>
-  </div>
-</div>
-
-<div style="width: 100%; height: 600px;">
+<div style="width: 100%; height: 85vh;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <!-- base layers must be set up before MarkerCluster  -->
     <MapLayersControl {country} />
@@ -245,26 +226,26 @@ import { values } from 'vega-lite/src/compile/axis/properties';
     {:else if Array.isArray(observationsDisplay)}
       {#each observationsDisplay as obs}
         <CircleMarker
+          events={['click']}
+          on:click={(e) => handleMarkerClick(e, obs)}
           latLng={[obs.latitude, obs.longitude]}
           radius={circleRadius}
           color={obs.color}
           fillColor={obs.fillColor}
-        >
-          <MyPopup observation={obs} {projectPath} />
-        </CircleMarker>
+        />
       {/each}
       <!-- individual markers grouped by time -->
     {:else}
       {#each [...observationsDisplay] as [key, observations]}
         {#each observations as obs}
           <CircleMarker
+            events={['click']}
+            on:click={(e) => handleMarkerClick(e, obs)}
             latLng={[obs.latitude, obs.longitude]}
             radius={circleRadius}
             color={obs.color}
             fillColor={obs.fillColor}
-          >
-            <MyPopup observation={obs} {projectPath} />
-          </CircleMarker>
+          />
         {/each}
       {/each}
     {/if}
@@ -293,5 +274,11 @@ import { values } from 'vega-lite/src/compile/axis/properties';
 <style>
   .stat-title {
     white-space: normal;
+  }
+
+  .observation-container {
+    z-index: 2000;
+    background: wheat;
+    max-width: 300px;
   }
 </style>

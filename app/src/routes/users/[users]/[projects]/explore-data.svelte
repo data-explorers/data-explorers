@@ -51,6 +51,9 @@
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import barChartGroupJson from '$lib/charts/bar_chart_group.json';
   import barChartJson from '$lib/charts/bar_chart.json';
+  import ObservationData from '$lib/components/observation_data.svelte';
+  import { tooltip } from '$lib/tooltip.js';
+  import XIcon from '$lib/components/icons/x.svelte';
 
   export let project;
   export let user;
@@ -63,6 +66,7 @@
     showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
     showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
     timeSpanHistory = {};
+    observationDisplay = null;
   }
 
   // format data for charts
@@ -177,15 +181,15 @@
   let mounted = false;
   let barChartSpec = JSON.parse(JSON.stringify(barChartJson));
   let barChartGroupSpec = JSON.parse(JSON.stringify(barChartGroupJson));
+  let observationDisplay;
+  let observationsSelectedCount = 0;
+  let observationsDisplayCount = 0;
+  let clusterLimit = 1000;
+  let speciesCount = 0;
+  let speciesDisplayCount = 0;
+  let mapCenter = {};
 
   allObservations = allObservations.filter((o) => o.latitude && o.longitude);
-
-  function logging() {
-    console.log('observations', observations);
-    console.log('taxaHistory', taxaHistory);
-    console.log('groupedObservations', groupedObservations);
-    console.log('timeSpanHistory', timeSpanHistory);
-  }
 
   let mapOptions = {
     ...defaultColorScheme,
@@ -285,6 +289,8 @@
       observationsDisplay,
       mapOptions.observationsTimeSpan
     );
+
+    observationDisplay = observationsDisplay[0];
 
     // update filters
     let tiles = getMapTiles(taxon.taxon_id);
@@ -464,6 +470,21 @@
   // map
   // =====================
 
+  function zoomToObservation(e) {
+    mapCenter = e.detail;
+  }
+
+  function updateStatsHandler(e) {
+    observationsDisplayCount = e.detail.observationsDisplayCount;
+    observationsSelectedCount = e.detail.observationsSelectedCount;
+    speciesCount = e.detail.speciesCount;
+    speciesDisplayCount = e.detail.speciesDisplayCount;
+  }
+
+  function changeObservation(e) {
+    observationDisplay = observations.filter((o) => o.id === e.detail.observation_id)[0];
+  }
+
   let Map;
   onMount(async () => {
     const comp = await import('$lib/components/explore_data_map.svelte');
@@ -478,49 +499,165 @@
 <div class="prose max-w-none">
   <h1>{currentTab.label}</h1>
 
-  <div class="grid lg:grid-cols-10 gap-3 mb-6">
-    <div class="lg:col-span-3 border border-gray-300 p-3">
-      <h3 class="mt-0">Biodiversity</h3>
+  <div class="grid lg:grid-cols-10 mb-6">
+    <div class="lg:col-span-3 border-0 lg:border-r-2">
+      <div class="grid">
+        <!-- observation data -->
+        {#if observationDisplay}
+          <section
+            class="px-3 relative observation-container text-sm mb-0 md:mb-3 overflow-x-auto order-last lg:order-first"
+          >
+            {#if observationDisplay.image_url}
+              <img
+                class="float-right lg:float-none"
+                src={observationDisplay.image_url.replace('medium', 'small')}
+                alt="photo of {formatTaxonDisplayName(observationDisplay)}"
+              />
+            {:else}
+              <img class="float-right lg:float-none" src="/images/missing-image.png" alt="" />
+            {/if}
 
-      <div class="max-w-lg mb-6 autocomplete">
-        <AutoComplete
-          searchFunction={loadOptions}
-          onChange={handleSelect}
-          labelFieldName="label"
-          valueFieldName="taxon_id"
-          placeholder="Search species name"
-          bind:selectedItem={item}
-        />
+            <ObservationData
+              on:zoomToObservation={zoomToObservation}
+              observation={observationDisplay}
+              {projectPath}
+              compactLayout={true}
+            />
+          </section>
+        {/if}
+        <!-- searched taxa -->
+        <section class="px-3">
+          <h3>Biodiversity</h3>
+
+          <div class="max-w-lg mb-6 autocomplete">
+            <AutoComplete
+              searchFunction={loadOptions}
+              onChange={handleSelect}
+              labelFieldName="label"
+              valueFieldName="taxon_id"
+              placeholder="Search species name"
+              bind:selectedItem={item}
+            />
+          </div>
+
+          {#if showDemoSpeciesPrompt}
+            <label class="cursor-pointer block">
+              <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />
+              <span>Show 5 most observed species</span>
+            </label>
+          {/if}
+
+          {#if showIndicatorSpeciesPrompt}
+            <label class="cursor-pointer block">
+              <input type="checkbox" class="mr-2" on:click={() => loadIndicatorSpecies()} />
+              <span>Show indicator species</span>
+            </label>
+          {/if}
+
+          <div class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2 mb-2">
+            {#each taxaHistory as taxon (taxon.taxon_id)}
+              <TaxonFilter
+                {taxa}
+                {taxon}
+                {toggleTaxon}
+                {removeTaxon}
+                {toggleInatGrid}
+                {toggleInatTaxonRange}
+                {projectPath}
+              />
+            {/each}
+          </div>
+        </section>
+
+        <!-- Environmental Factors -->
+        <section class="px-3">
+          <h3>Environmental Factors</h3>
+          <div class="mb-4">
+            <label class="cursor-pointer block">
+              <input type="checkbox" bind:checked={showClimate} />
+              <span>Temperature and Preciptation</span>
+            </label>
+
+            <label class="cursor-pointer block">
+              <input type="checkbox" bind:checked={showDemoMapLayer} />
+              <span>Demo map layer</span>
+            </label>
+          </div>
+
+          {#if showClimate}
+            <span>Temperature and Preciptation 2019</span>
+            <ModalMagnify modalname="my-modal">
+              <img
+                src="/images/{user.username}/{project.slug}/climate-chart-small.png"
+                alt="climate chart for {project.location}"
+              />
+            </ModalMagnify>
+
+            <Modal modalname="my-modal">
+              <img
+                slot="popup"
+                src="/images/{user.username}/{project.slug}/climate-chart.png"
+                alt="climate chart for {project.location}"
+              />
+            </Modal>
+          {/if}
+        </section>
+      </div>
+    </div>
+
+    <div class="lg:col-span-7">
+      <!-- stats -->
+      <div class="w-full rounded-none border stats">
+        <div class="stat place-items-center place-content-center">
+          <div class="stat-title">Observations</div>
+          <div class="stat-value">{observationsSelectedCount}</div>
+        </div>
+        <div class="stat place-items-center place-content-center">
+          <div class="stat-title">
+            Observations on map
+            {#if observationsDisplayCount >= clusterLimit}
+              <span
+                use:tooltip
+                class="text-red-600"
+                title="Since there are over {clusterLimit} observations on the map, the map uses clustered markers."
+                >*</span
+              >
+            {/if}
+          </div>
+          <div class="stat-value">{observationsDisplayCount}</div>
+        </div>
+        <div class="stat place-items-center place-content-center">
+          <div class="stat-title">Species</div>
+          <div class="stat-value">{speciesCount}</div>
+        </div>
+
+        <div class="stat place-items-center place-content-center">
+          <div class="stat-title">Species on map</div>
+          <div class="stat-value">{speciesDisplayCount}</div>
+        </div>
       </div>
 
-      {#if showDemoSpeciesPrompt}
-        <label class="cursor-pointer block">
-          <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />
-          <span>Show 5 most observed species</span>
-        </label>
+      <!-- map -->
+      {#if mounted && loading}
+        <Loader />
       {/if}
-
-      {#if showIndicatorSpeciesPrompt}
-        <label class="cursor-pointer block">
-          <input type="checkbox" class="mr-2" on:click={() => loadIndicatorSpecies()} />
-          <span>Show indicator species</span>
-        </label>
+      {#if !mounted}
+        <Loader />
+        <div class="bg-gray-100" style="width: 100%; height: 85vh;" />
       {/if}
-
-      <div class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2 mb-2">
-        {#each taxaHistory as taxon (taxon.taxon_id)}
-          <TaxonFilter
-            {taxa}
-            {taxon}
-            {toggleTaxon}
-            {removeTaxon}
-            {toggleInatGrid}
-            {toggleInatTaxonRange}
-            {projectPath}
-          />
-        {/each}
-      </div>
-
+      <svelte:component
+        this={Map}
+        {mapOptions}
+        {groupedObservations}
+        {timeSpanHistory}
+        {showDemoMapLayer}
+        {taxaHistory}
+        {projectPath}
+        {mapCenter}
+        country={project.country}
+        on:markerClick={changeObservation}
+        on:updateStats={updateStatsHandler}
+      />
       {#if taxaHistory.length > 0}
         <TimeSpanFilters
           {mapOptions}
@@ -531,57 +668,7 @@
           activeTaxaCount={taxaHistory.filter((t) => t.active).length}
         />
       {/if}
-
-      <h3>Environmental Factors</h3>
-      <div class="mb-4">
-        <label class="cursor-pointer block">
-          <input type="checkbox" bind:checked={showClimate} />
-          <span>Temperature and Preciptation</span>
-        </label>
-
-        <label class="cursor-pointer block">
-          <input type="checkbox" bind:checked={showDemoMapLayer} />
-          <span>Demo map layer</span>
-        </label>
-      </div>
-
-      {#if showClimate}
-        <span>Temperature and Preciptation 2019</span>
-        <ModalMagnify modalname="my-modal">
-          <img
-            src="/images/{user.username}/{project.slug}/climate-chart-small.png"
-            alt="climate chart for {project.location}"
-          />
-        </ModalMagnify>
-
-        <Modal modalname="my-modal">
-          <img
-            slot="popup"
-            src="/images/{user.username}/{project.slug}/climate-chart.png"
-            alt="climate chart for {project.location}"
-          />
-        </Modal>
-      {/if}
-    </div>
-
-    <div class="lg:col-span-7 relative">
-      {#if mounted && loading}
-        <Loader />
-      {/if}
-      {#if !mounted}
-        <Loader />
-        <div class="bg-gray-100" style="width: 100%; height: 600px;" />
-      {/if}
-      <svelte:component
-        this={Map}
-        {mapOptions}
-        {groupedObservations}
-        {timeSpanHistory}
-        {showDemoMapLayer}
-        {taxaHistory}
-        {projectPath}
-        country={project.country}
-      />
+      <!-- charts -->
       {#if taxaHistory.length > 0}
         <div id="ed-chart" class="w-full mt-4" />
       {/if}
@@ -623,7 +710,27 @@ https://gitanswer.com/svelte-add-an-option-to-prevent-removal-of-unused-css-sele
     color: var(--text-color);
   }
 
+  .observation-container img {
+    max-height: 150px;
+    margin-top: 1.75rem;
+    right: 0;
+    top: 0;
+  }
+  @media (min-width: 1024px) {
+    .observation-container img {
+      margin-top: 0;
+    }
+  }
+  .stat-value {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: normal;
+  }
+
+  .stat {
+    padding: 0.5rem 1rem;
+  }
   h3:first-of-type {
-    margin-top: 0;
+    margin-top: 1.25rem;
   }
 </style>
