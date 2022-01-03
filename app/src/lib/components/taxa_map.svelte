@@ -22,6 +22,7 @@
   } from '$lib/mapUtils';
   import { sortObservations, createGroupObservations } from '$lib/dataUtils';
   import { modulo, range } from '$lib/miscUtils';
+  import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
 
   export let observations;
   export let mapOptions;
@@ -135,7 +136,7 @@
 
   $: if (leafletMap && mapOptions.observationsTimeSpan === 'month') {
     // make rectangles change size as zoom changes
-    zoomLevel = leafletMap.getMap().getZoom();
+    zoomLevel = map.getZoom();
     rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
     rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
   }
@@ -144,13 +145,14 @@
     // recenter and zoom map on a given coordinate
     if (mapCenter && mapCenter.longitude) {
       document.getElementById('taxa-map').scrollIntoView();
-      let map = leafletMap.getMap();
+      let map = map;
       map.flyTo([mapCenter.latitude, mapCenter.longitude], map.getMaxZoom() - 1);
       mapCenter = {};
     }
   }
 
   let leafletMap;
+  let map
   let timeSpanHistory = {};
   let zoomLevel = 0;
   let circleRadius = 8;
@@ -192,7 +194,7 @@
 
   function zoomMapToFitMarkers(coordinates) {
     if (coordinates.length > 0) {
-      leafletMap.getMap().fitBounds(coordinates);
+      map.fitBounds(coordinates);
       dispatch('doneLoading');
     } else {
       dispatch('doneLoading');
@@ -211,9 +213,10 @@
 
   onMount(() => {
     mounted = true;
+    map = leafletMap.getMap()
 
-    leafletMap.getMap().on('zoomend', function () {
-      zoomLevel = leafletMap.getMap().getZoom();
+    map.on('zoomend', function () {
+      zoomLevel = map.getZoom();
       if (mapOptions.observationsTimeSpan === 'month') {
         rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
         rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
@@ -287,6 +290,7 @@
         {/if}
       {/each}
     {/if}
+    <FitBoundsButton {map} {coordinates} />
     <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
     <LayerControl baseLayersData={baseLayers} />
   </LeafletMap>
