@@ -8,6 +8,7 @@
     CircleMarker,
     Rectangle,
     ScaleControl,
+    MarkerCluster
   } from '$lib/vendor/svelte-leaflet';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
   import barChartJson from '$lib/charts/bar_chart.json';
@@ -33,6 +34,7 @@
   import { tooltip } from '$lib/tooltip.js';
   import InfoIcon from '$lib/components/icons/info.svelte';
   import MapSpeciesList from '$lib/components/map_species_list.svelte';
+  import ToggleMarkerTypeButton from '$lib/components/map_toggle_marker_type_button.svelte';
 
   export let observations;
   export let mapOptions;
@@ -204,6 +206,10 @@
   let mounted = false;
   let barChartSpec = JSON.parse(JSON.stringify(barChartJson));
   let scaleControl;
+  let useMarkerCluster = false;
+  let userSelectedMarkerType = 'markers';
+  let clusterLimit = 1000;
+  let toggleMarkerModeButton;
   let observationsSelected = [];
   let observationsDisplay = [];
   let observationsDisplayCount = 0;
@@ -215,6 +221,21 @@
   let showSpeciesList = false;
   let speciesList = [];
   let showSpeciesListIcon = false;
+
+  // ===================
+  // map buttons
+  // ===================
+
+  function changeMarkerModeOnClick(e) {
+    useMarkerCluster = e.detail.useMarkerCluster;
+    userSelectedMarkerType = e.detail.userSelectedMarkerType;
+    observationsDisplay = getObservationsDisplay(observationsDisplay);
+  }
+
+  function changeMarkerModeAutomatic(e) {
+    useMarkerCluster = e.detail.useMarkerCluster;
+    observationsDisplay = getObservationsDisplay(observationsDisplay);
+  }
 
   // ===================
   // map
@@ -285,6 +306,7 @@
   }
 
   function zoomMapToFitMarkers(coordinates) {
+    //
     // fitPointsInMap does not dispatch message.
     if (coordinates.length > 0) {
       map.fitBounds(coordinates);
@@ -312,6 +334,7 @@
     mounted = true;
     map = leafletMap.getMap();
     zoomLevel = map.getZoom();
+    maxZoom = map.getMaxZoom();
 
     updateShapeMarkers(zoomLevel);
 
@@ -372,9 +395,12 @@
 </div>
 <div id="taxa-map" style="width: 100%; height: 400px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
-    <!-- display observations as circles -->
-    {#if Array.isArray(observationsDisplay)}
     <MapLayersControl country={project.country} />
+    <!-- marker clusters -->
+    {#if useMarkerCluster}
+      <MarkerCluster items={observationsDisplay} />
+      <!-- display observations as circles -->
+    {:else if Array.isArray(observationsDisplay)}
       {#each observationsDisplay as obs}
         <CircleMarker
           events={['click']}
@@ -433,6 +459,18 @@
       {/each}
     {/if}
     <FitBoundsButton {map} {coordinates} />
+    <ToggleMarkerTypeButton
+      bind:this={toggleMarkerModeButton}
+      on:changeMarkerModeOnClick={changeMarkerModeOnClick}
+      on:changeMarkerModeAutomatic={changeMarkerModeAutomatic}
+      {coordinates}
+      {useMarkerCluster}
+      {observationsDisplayCount}
+      {clusterLimit}
+      {userSelectedMarkerType}
+      {zoomLevel}
+      {maxZoom}
+    />
     <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
   </LeafletMap>
 </div>
