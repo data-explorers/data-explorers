@@ -53,7 +53,8 @@
   import barChartJson from '$lib/charts/bar_chart.json';
   import ObservationData from '$lib/components/observation_data.svelte';
   import { tooltip } from '$lib/tooltip.js';
-  import XIcon from '$lib/components/icons/x.svelte';
+  import InfoIcon from '$lib/components/icons/info.svelte';
+  import MapSpeciesList from '$lib/components/map_species_list.svelte';
 
   export let project;
   export let user;
@@ -187,6 +188,9 @@
   let clusterLimit = 1000;
   let speciesCount = 0;
   let speciesDisplayCount = 0;
+  let speciesList = [];
+  let showSpeciesList = false;
+  let showSpeciesListIcon = false;
   let mapCenter = {};
 
   allObservations = allObservations.filter((o) => o.latitude && o.longitude);
@@ -499,11 +503,21 @@
     observationsSelectedCount = e.detail.observationsSelectedCount;
     speciesCount = e.detail.speciesCount;
     speciesDisplayCount = e.detail.speciesDisplayCount;
+    speciesList = e.detail.speciesList;
+    showSpeciesListIcon = e.detail.showSpeciesListIcon;
   }
 
   function changeObservation(e) {
     observationDisplay = observations.filter((o) => o.id === e.detail.observation_id)[0];
   }
+
+  function toggleSpeciesList() {
+    showSpeciesList = !showSpeciesList;
+  }
+
+  // =====================
+  // life cycle
+  // =====================
 
   let Map;
   onMount(async () => {
@@ -525,7 +539,7 @@
         <!-- observation data -->
         {#if observationDisplay}
           <section
-            class="px-3 relative observation-container text-sm mb-0 md:mb-3 overflow-x-auto order-last lg:order-first"
+            class="px-3 relative observation-container mb-0 md:mb-3 overflow-x-auto order-last lg:order-first"
           >
             {#if observationDisplay.image_url}
               <img
@@ -654,7 +668,20 @@
 
         <div class="stat place-items-center place-content-center">
           <div class="stat-title">Species on map</div>
-          <div class="stat-value">{speciesDisplayCount}</div>
+          <div class="stat-value">
+            {speciesDisplayCount}
+            {#if showSpeciesListIcon}
+              {#if showSpeciesList}
+                <span use:tooltip title="click hide to species list" on:click={toggleSpeciesList}
+                  ><InfoIcon /></span
+                >
+              {:else}
+                <span use:tooltip title="click show to species list" on:click={toggleSpeciesList}
+                  ><InfoIcon /></span
+                >
+              {/if}
+            {/if}
+          </div>
         </div>
       </div>
 
@@ -678,15 +705,23 @@
         on:markerClick={changeObservation}
         on:updateStats={updateStatsHandler}
       />
+
+      <!-- species list -->
+      <section class="pl-2">
+        <MapSpeciesList {showSpeciesList} {speciesList} />
+      </section>
+
       {#if taxaHistory.length > 0}
-        <TimeSpanFilters
-          {mapOptions}
-          {selectTimeSpanHandler}
-          {groupedObservations}
-          {toggleTimeSpans}
-          {timeSpanHistory}
-          activeTaxaCount={taxaHistory.filter((t) => t.active).length}
-        />
+        <section class="pl-2">
+          <TimeSpanFilters
+            {mapOptions}
+            {selectTimeSpanHandler}
+            {groupedObservations}
+            {toggleTimeSpans}
+            {timeSpanHistory}
+            activeTaxaCount={taxaHistory.filter((t) => t.active).length}
+          />
+        </section>
       {/if}
       <!-- charts -->
       {#if taxaHistory.length > 0}
@@ -742,12 +777,12 @@ https://gitanswer.com/svelte-add-an-option-to-prevent-removal-of-unused-css-sele
     }
   }
   .stat-value {
-    font-size: 1.25rem;
-    line-height: 1.75rem;
+    @apply text-base;
     font-weight: normal;
   }
 
   .stat {
+    @apply text-base;
     padding: 0.5rem 1rem;
   }
   h3:first-of-type {

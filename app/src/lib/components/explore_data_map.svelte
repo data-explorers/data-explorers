@@ -12,7 +12,12 @@
   } from '$lib/vendor/svelte-leaflet';
   import { onMount } from 'svelte';
   import { scaleControlOptions, isObservationInMap } from '$lib/mapUtils';
-  import { getObservationsSelected, countObservations, countSpecies } from '$lib/dataUtils';
+  import {
+    getObservationsSelected,
+    countObservations,
+    countSpecies,
+    getSpecies
+  } from '$lib/dataUtils';
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
   import MapLayersControl from '$lib/components/map_layers_control.svelte';
   import ToggleMarkerTypeButton from '$lib/components/map_toggle_marker_type_button.svelte';
@@ -25,6 +30,11 @@
   export let taxaHistory;
   export let country;
   export let mapCenter;
+  export let speciesCount;
+  export let speciesDisplayCount;
+  export let speciesList;
+  export let showSpeciesListIcon;
+  export let showSpeciesList;
 
   let leafletMap;
   let map;
@@ -45,8 +55,6 @@
   let observationsSelectedCount = 0;
   let observationsDirty = false;
   let maxZoom = 0;
-  let speciesCount = 0;
-  let speciesDisplayCount = 0;
 
   const dispatch = createEventDispatcher();
 
@@ -59,18 +67,24 @@
       // filter observations by timespans
       observationsSelected = getObservationsSelected(groupedObservations, timeSpanHistory);
       observationsSelectedCount = countObservations(observationsSelected);
-      speciesCount = countSpecies(observationsSelected);
 
       // filter observations by map bounding box
       observationsDisplay = getObservationsDisplay(observationsSelected);
       observationsDisplayCount = countObservations(observationsDisplay);
-      speciesDisplayCount = countSpecies(observationsDisplay);
+
+      // species data
+      speciesCount = countSpecies(observationsSelected);
+      speciesList = getSpecies(observationsDisplay);
+      speciesDisplayCount = speciesList.length;
+      showSpeciesListIcon = speciesList.length > 0;
 
       dispatch('updateStats', {
         observationsSelectedCount,
-        speciesCount,
         observationsDisplayCount,
-        speciesDisplayCount
+        speciesCount,
+        speciesDisplayCount,
+        speciesList,
+        showSpeciesListIcon
       });
 
       observationsDirty = false;
@@ -179,6 +193,10 @@
     dispatch('markerClick', { observation_id: obs.id, latlng: e.detail.latlng });
   }
 
+  function toggleSpeciesList() {
+    showSpeciesList = !showSpeciesList;
+  }
+
   // ===================
   // life cycle
   // ===================
@@ -205,7 +223,7 @@
 
 <svelte:window on:resize={resizeMap} />
 
-<div style="width: 100%; height: 85vh;">
+<div style="width: 100%; height: 80vh;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <!-- base layers must be set up before MarkerCluster  -->
     <MapLayersControl {country} />
