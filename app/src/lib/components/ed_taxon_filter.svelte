@@ -20,25 +20,13 @@
   let index = taxaHistory.map((t) => t.taxon_id).indexOf(taxon.taxon_id);
   let showInatTaxonRange = taxaHistory[index].showInatTaxonRange;
   let showInatGrid = taxaHistory[index].showInatGrid;
+  let showObservedSpecies =
+    observedSpecies.length > 1 ||
+    (observedSpecies.length == 1 && observedSpecies[0].taxon_id == !taxon.taxon_id);
 </script>
 
 <div class="border relative filter">
-  <div class="filter-menu dropdown dropdown-end dropdown-top">
-    <button tabindex="0" class="hover:bg-gray-200" data-taxon-id={taxon.taxon_id}>
-      <Ellipse border={true} value={taxon.taxon_id} />
-    </button>
-
-    <ul tabindex="0" class="shadow border bg-base-100 border-2 py-2 px-4 menu dropdown-content ">
-      <li data-taxon-id={taxon.taxon_id} on:click={toggleTaxon}>
-        {#if taxon.active}Hide{:else}Show{/if} species
-      </li>
-      <li on:click={() => (showMore = !showMore)}>
-        Show {#if showMore}less{:else}more{/if} info
-      </li>
-      <li data-taxon-id={taxon.taxon_id} on:click={removeTaxon}>Delete species</li>
-    </ul>
-  </div>
-  <div class="image-card-side " class:active={taxon.active} in:fade out:fade>
+  <div class="image-card-side" class:active={taxon.active} in:fade out:fade>
     <figure>
       {#if taxon.image_url}
         <img src={taxon.image_url.replace('medium', 'square')} alt="photo of {taxon.taxon_name}" />
@@ -55,6 +43,17 @@
       </div>
     </div>
   </div>
+
+  <ul class="text-sm submenu bg-gray-100 grid grid-cols-3">
+    <li data-taxon-id={taxon.taxon_id} on:click={toggleTaxon}>
+      {#if taxon.active}Hide{:else}Show{/if}
+    </li>
+    <li on:click={() => (showMore = !showMore)}>
+      {#if showMore}Less{:else}More{/if} info
+    </li>
+    <li data-taxon-id={taxon.taxon_id} on:click={removeTaxon}>Delete</li>
+  </ul>
+
   {#if showMore}
     <div class="py-1 px-2 card-more-content" in:fade out:fade class:active={taxon.active}>
       <dl>
@@ -82,7 +81,7 @@
         />Taxon range
       </label>
 
-      {#if observedSpecies.length > 0}
+      {#if showObservedSpecies}
         <span class="font-medium mt-2 inline-block">{observedSpecies.length} observed species</span>
         <ul class="observed-species">
           {#each observedSpecies as species}
@@ -95,13 +94,9 @@
 </div>
 
 <style>
-  ul.menu,
+  ul.submenu,
   ul.observed-species {
     margin: 0;
-  }
-
-  .menu li::before {
-    content: none;
   }
 
   .observed-species li {
@@ -109,21 +104,21 @@
     padding-left: 20px;
   }
 
-  .menu li {
-    margin: 0;
-    padding-left: 0;
-    white-space: nowrap;
+  .submenu {
+    justify-items: center;
+  }
+
+  .submenu li::before {
+    content: none;
+  }
+
+  .submenu li {
+    padding-left: 0px;
     cursor: pointer;
   }
 
-  .menu li:hover {
+  .submenu li:hover {
     text-decoration: underline;
-  }
-  .filter-menu {
-    float: right;
-    /* position: absolute; */
-    top: 0;
-    right: 0;
   }
 
   .image-card-side,
@@ -138,7 +133,10 @@
 
   .image-card-side {
     border-width: 0;
-    padding: 5px 0;
+  }
+
+  .image-card-side-body {
+    padding: 5px 10px;
   }
 
   .image-card-side:hover {
