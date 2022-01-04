@@ -618,24 +618,6 @@
               <span>Demo map layer</span>
             </label>
           </div>
-
-          {#if showClimate}
-            <span>Temperature and Preciptation 2019</span>
-            <ModalMagnify modalname="my-modal">
-              <img
-                src="/images/{user.username}/{project.slug}/climate-chart-small.png"
-                alt="climate chart for {project.location}"
-              />
-            </ModalMagnify>
-
-            <Modal modalname="my-modal">
-              <img
-                slot="popup"
-                src="/images/{user.username}/{project.slug}/climate-chart.png"
-                alt="climate chart for {project.location}"
-              />
-            </Modal>
-          {/if}
         </section>
       </div>
     </div>
@@ -726,6 +708,14 @@
       <!-- charts -->
       {#if taxaHistory.length > 0}
         <div id="ed-chart" class="w-full mt-4" />
+      {/if}
+      {#if showClimate}
+        <h3 class="text-center">Temperature and Preciptation</h3>
+
+        <img
+          src="/images/{user.username}/{project.slug}/climate-chart.png"
+          alt="climate chart for {project.location}"
+        />
       {/if}
     </div>
   </div>
