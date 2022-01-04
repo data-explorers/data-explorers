@@ -42,13 +42,13 @@
     min-height: 255px;
   }
   figure {
-    min-height: 400px;
+    min-height: 450px;
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
   img {
-    max-height: 400px;
+    max-height: 450px;
   }
 </style>

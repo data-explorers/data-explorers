@@ -77,6 +77,7 @@
     }
   }
 
+  // sets coordinates
   $: {
     if (leafletMap) {
       if (taxaHistory.length > 0) {

@@ -299,6 +299,29 @@ export function countSpecies(observations) {
   }
 }
 
+export function getSpecies(observations) {
+  if (Array.isArray(observations)) {
+    let uniqueTaxa = {};
+    observations
+      .filter((o) => speciesRanks.includes(o.rank))
+      .forEach((o) => {
+        uniqueTaxa[o.taxon_id] = { taxon_id: o.taxon_id, name: formatTaxonDisplayName(o, true) };
+      });
+
+    return Object.values(uniqueTaxa);
+  } else {
+    let uniqueTaxa = {};
+    observations.forEach((values, key) => {
+      values
+        .filter((o) => speciesRanks.includes(o.rank))
+        .forEach((o) => {
+          uniqueTaxa[o.taxon_id] = { taxon_id: o.taxon_id, name: formatTaxonDisplayName(o, true) };
+        });
+    });
+    return Object.values(uniqueTaxa);
+  }
+}
+
 export function getObservationsSelected(groupedObservations, timeSpanHistory) {
   let observations;
 
