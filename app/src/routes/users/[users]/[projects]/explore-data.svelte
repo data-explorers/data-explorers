@@ -346,7 +346,14 @@
     observationsIds = new Set();
     taxaHistory = taxaHistory.filter((t) => {
       if (t.taxon_id !== taxonId && t.active) {
-        t.observations.forEach((id) => observationsIds.add(id));
+        t.observations.forEach((id) => {
+          // reassign color to handle cases when taxa from same lineage are removed
+          let obs = observations.filter((o) => o.id === id)[0];
+          obs.color = t.color;
+          obs.fillColor = t.color;
+          // get observation id
+          observationsIds.add(id);
+        });
       }
       return t.taxon_id !== taxonId;
     });
@@ -388,15 +395,28 @@
 
     // add observations
     if (currentlyActive) {
-      taxaHistory
-        .filter((t) => t.taxon_id === taxonId)[0]
-        ['observations'].forEach((id) => observationsIds.add(id));
+      let taxon = taxaHistory.filter((t) => t.taxon_id === taxonId)[0];
+      taxon['observations'].forEach((id) => {
+        // reassign color to handle cases when taxa from same lineage are toggled
+        let obs = observations.filter((o) => o.id === id)[0];
+        obs.color = taxon.color;
+        obs.fillColor = taxon.color;
+        // get observation id
+        observationsIds.add(id);
+      });
       // remove observations
     } else {
       observationsIds = new Set();
       taxaHistory.forEach((t) => {
         if (t.taxon_id !== taxonId && t.active) {
-          t.observations.forEach((id) => observationsIds.add(id));
+          t.observations.forEach((id) => {
+            // reassign color to handle cases when taxa from same lineage are toggled
+            let obs = observations.filter((o) => o.id === id)[0];
+            obs.color = t.color;
+            obs.fillColor = t.color;
+            // get observation id
+            observationsIds.add(id);
+          });
         }
       });
     }
