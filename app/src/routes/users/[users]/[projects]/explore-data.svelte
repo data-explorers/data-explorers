@@ -7,7 +7,7 @@
   // animate by week over time
 
   import settings from '$lib/data/settings.json';
-  import { convertTaxa, convertObservations } from '$lib/convert_data';
+  import { formatRawTaxa, formatRawObservations } from '$lib/convert_data';
 
   export async function load({ page }) {
     let user = settings.filter((user) => user.username === page.params.users)[0];
@@ -19,11 +19,11 @@
     let projectPath = `/users/${user.username}/${project.slug}`;
 
     let taxaData = await import(`../../../../lib/data/${page.params.projects}/taxa.csv`);
-    let taxa = convertTaxa(taxaData.default);
+    let taxa = formatRawTaxa(taxaData.default);
     let observationData = await import(
       `../../../../lib/data/${page.params.projects}/observations.csv`
     );
-    let allObservations = convertObservations(observationData.default);
+    let allObservations = formatRawObservations(observationData.default);
 
     return { props: { project, user, currentTab, allObservations, taxa, projectPath } };
   }

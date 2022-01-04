@@ -1,14 +1,14 @@
 <script context="module">
   import allInteractions from '$lib/data/interactions.csv';
   import settings from '$lib/data/settings.json';
-  import { convertTaxa, convertObservations } from '$lib/convert_data';
+  import { formatRawTaxa, formatRawObservations } from '$lib/convert_data';
 
   // TODO: show number of obsevations with time filters
   // TODO: description from wikipedia
 
   export async function load({ page }) {
     let taxaData = await import(`../../../../../lib/data/${page.params.projects}/taxa.csv`);
-    let taxa = convertTaxa(taxaData.default);
+    let taxa = formatRawTaxa(taxaData.default);
 
     // find taxon that has observations
     let taxon = taxa.filter((taxon) => taxon.taxon_id == Number(page.params.taxon_id))[0] || {};
@@ -16,7 +16,7 @@
     let observationData = await import(
       `../../../../../lib/data/${page.params.projects}/observations.csv`
     );
-    let allObservations = convertObservations(observationData.default);
+    let allObservations = formatRawObservations(observationData.default);
     let observations = allObservations
       .filter((o) => o.taxon_ids)
       .filter((o) => o.taxon_ids.split('|').includes('' + page.params.taxon_id));

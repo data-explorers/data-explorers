@@ -1,4 +1,4 @@
-export function convertObservations(observations) {
+export function formatRawObservations(observations) {
   return observations.map((o) => {
     return {
       ...o,
@@ -11,7 +11,7 @@ export function convertObservations(observations) {
   });
 }
 
-export function convertTaxa(taxa) {
+export function formatRawTaxa(taxa) {
   return taxa.map((t) => {
     return {
       ...t,
@@ -19,7 +19,7 @@ export function convertTaxa(taxa) {
       observations_count: Number(t.observations_count),
       parent_id: Number(t.parent_id),
       taxa_count: Number(t.taxa_count),
-      taxon_id: Number(t.taxon_id),
+      taxon_id: Number(t.taxon_id)
     };
   });
 }
