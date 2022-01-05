@@ -1,11 +1,12 @@
 <script context="module">
   import settings from '$lib/data/settings.json';
+  import { base } from '$app/paths';
 
   export async function load({ page }) {
     let user = settings.filter((user) => user.username === page.params.users)[0];
     let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
     let taxa;
-    let projectPath = `/users/${user.username}/${project.slug}`;
+    let projectPath = `${base}/users/${user.username}/${project.slug}`;
 
     if (!project) {
       taxa = [];

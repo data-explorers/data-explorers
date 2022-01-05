@@ -2,6 +2,7 @@
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import ObservationData from '$lib/components/observation_data.svelte';
   import { MyPopup } from '$lib/vendor/svelte-leaflet';
+  import { base } from '$app/paths';
 
   export let observation;
   export let projectPath;
@@ -16,7 +17,7 @@
         alt="photo of {formatTaxonDisplayName(observation)}"
       />
     {:else}
-      <img class="mb-2" src="/images/missing-image.png" alt="" />
+      <img class="mb-2" src="{base}/images/missing-image.png" alt="" />
     {/if}
     <ObservationData
       {observation}

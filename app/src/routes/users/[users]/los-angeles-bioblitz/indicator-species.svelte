@@ -1,6 +1,7 @@
 <script context="module">
   import settings from '$lib/data/settings.json';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import { base } from '$app/paths';
 
   export async function load({ page }) {
     let page_parts = page.path.split('/');
@@ -27,12 +28,12 @@
     <div class="grid lg:grid-cols-4 md:grid-cols-3  sm:grid-cols-2 justify-center gap-3">
       {#each taxa as taxon}
         <div class="image-card">
-          <a href="/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}">
+          <a href="{base}/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}">
             <figure>
               {#if taxon.image_url}
                 <img src={taxon.image_url} alt="photo of {formatTaxonDisplayName(taxon)}" />
               {:else}
-                <img src="/images/missing-image.png" alt="" />
+                <img src="{base}/images/missing-image.png" alt="" />
               {/if}
             </figure>
 

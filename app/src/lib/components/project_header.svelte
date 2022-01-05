@@ -2,12 +2,13 @@
   export let project;
   export let user;
   import { page } from '$app/stores';
+  import { base } from '$app/paths';
 
   let tabs = project.tabs_project.map((tab) => {
     return {
       label: tab.label,
       value: tab.value,
-      slug: `/users/${user.username}/${project.slug}/${tab.link}`,
+      slug: `${base}/users/${user.username}/${project.slug}/${tab.link}`,
       link: tab.link.length > 0 ? tab.link : project.slug
     };
   });
@@ -30,6 +31,6 @@
         href={tab.slug}>{tab.label}</a
       >
     {/each}
-    <a class="hidden" href="/users/{user.username}/{project.slug}/taxa-list">list</a>
+    <a class="hidden" href="{base}/users/{user.username}/{project.slug}/taxa-list">list</a>
   </div>
 </div>

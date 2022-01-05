@@ -8,6 +8,7 @@
 
   import settings from '$lib/data/settings.json';
   import { formatRawTaxa, formatRawObservations } from '$lib/convert_data';
+  import { base } from '$app/paths';
 
   export async function load({ page }) {
     let user = settings.filter((user) => user.username === page.params.users)[0];
@@ -16,7 +17,7 @@
     let currentTab = project.tabs_project.filter(
       (tab) => tab.link === pathParts[pathParts.length - 1]
     )[0];
-    let projectPath = `/users/${user.username}/${project.slug}`;
+    let projectPath = `${base}/users/${user.username}/${project.slug}`;
 
     let taxaData = await import(`../../../../lib/data/${page.params.projects}/taxa.csv`);
     let taxa = formatRawTaxa(taxaData.default);
@@ -543,7 +544,7 @@
                 alt="photo of {formatTaxonDisplayName(observationDisplay)}"
               />
             {:else}
-              <img class="float-right lg:float-none" src="/images/missing-image.png" alt="" />
+              <img class="float-right lg:float-none" src="{base}/images/missing-image.png" alt="" />
             {/if}
 
             <ObservationData
@@ -708,7 +709,7 @@
         <h3 class="text-center">Temperature and Preciptation</h3>
 
         <img
-          src="/images/{user.username}/{project.slug}/climate-chart.png"
+          src="{base}/images/{user.username}/{project.slug}/climate-chart.png"
           alt="climate chart for {project.location}"
         />
       {/if}
