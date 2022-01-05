@@ -10,28 +10,30 @@
   }
 </script>
 
-<div class="prose max-w-none">
-  <h1>Projects</h1>
+<main class="container mx-auto">
+  <div class="prose max-w-none">
+    <h1>Projects</h1>
 
-  <div class="grid lg:grid-cols-3 md:grid-cols-2 justify-center gap-3">
-    {#each settings as user_data}
-      <div class="image-card">
-        <a href={user_data.card_link}>
-          <figure>
-            <img
-              src="/images/{user_data.username}/user.jpg"
-              alt="Photo for {user_data.card_title}"
-            />
-          </figure>
-        </a>
-
-        <div class="image-card-body">
+    <div class="grid lg:grid-cols-3 md:grid-cols-2 justify-center gap-3">
+      {#each settings as user_data}
+        <div class="image-card">
           <a href={user_data.card_link}>
-            <h2>{user_data.card_title}</h2>
-            <p>{user_data.card_summary}</p>
+            <figure>
+              <img
+                src="/images/{user_data.username}/user.jpg"
+                alt="Photo for {user_data.card_title}"
+              />
+            </figure>
           </a>
+
+          <div class="image-card-body">
+            <a href={user_data.card_link}>
+              <h2>{user_data.card_title}</h2>
+              <p>{user_data.card_summary}</p>
+            </a>
+          </div>
         </div>
-      </div>
-    {/each}
+      {/each}
+    </div>
   </div>
-</div>
+</main>

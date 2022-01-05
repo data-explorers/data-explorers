@@ -11,31 +11,34 @@
 
 <script>
   import UserHeader from '$lib/components/user_header.svelte';
+
   export let projects;
   export let user;
 </script>
 
 <UserHeader {user} />
 
-<div class="prose max-w-none">
-  <h1>Projects</h1>
+<main class="container mx-auto">
+  <div class="prose max-w-none">
+    <h1>Projects</h1>
 
-  <div class="grid lg:grid-cols-3 md:grid-cols-2  justify-center gap-3">
-    {#each projects as project}
-      <div class="image-card">
-        <a href="/users/{user.username}/{project.slug}">
-          <figure>
-            <img src="{project.image}/400/250" alt="Photo for {project.title}" />
-          </figure>
-        </a>
-
-        <div class="image-card-body">
+    <div class="grid lg:grid-cols-3 md:grid-cols-2  justify-center gap-3">
+      {#each projects as project}
+        <div class="image-card">
           <a href="/users/{user.username}/{project.slug}">
-            <h2>{project.title}</h2>
-            <p>{project.summary}</p>
+            <figure>
+              <img src="{project.image}/400/250" alt="Photo for {project.title}" />
+            </figure>
           </a>
+
+          <div class="image-card-body">
+            <a href="/users/{user.username}/{project.slug}">
+              <h2>{project.title}</h2>
+              <p>{project.summary}</p>
+            </a>
+          </div>
         </div>
-      </div>
-    {/each}
+      {/each}
+    </div>
   </div>
-</div>
+</main>

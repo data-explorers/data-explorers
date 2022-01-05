@@ -44,7 +44,6 @@
 </script>
 
 <script>
-  import ProjectHeader from '$lib/components/project_header.svelte';
   import { onMount } from 'svelte';
   import Tabs from '$lib/components/tabs.svelte';
   import TaxaAbout from '$lib/components/taxa_about.svelte';
@@ -116,43 +115,43 @@
   });
 </script>
 
-<ProjectHeader {project} {user} />
-
-<div class="prose max-w-none">
-  <h1>
-    {#if taxon.common_name}{toTitleCase(taxon.common_name)}{/if}
-    {#if taxon.scientific_name}
-      <span class="text-2xl text-gray-400 font-normal">({taxon.scientific_name})</span>
-    {/if}
-  </h1>
-
-  <div class="grid md:grid-cols-2 gap-3">
-    <ObservationBasic
-      observation={observationDisplay}
-      {projectPath}
-      {taxon}
-      on:zoomToObservation={zoomToObservation}
-    />
-
-    <div class="relative">
-      {#if loading}
-        <Loader />
+<main class="container mx-auto">
+  <div class="prose max-w-none">
+    <h1>
+      {#if taxon.common_name}{toTitleCase(taxon.common_name)}{/if}
+      {#if taxon.scientific_name}
+        <span class="text-2xl text-gray-400 font-normal">({taxon.scientific_name})</span>
       {/if}
-      <svelte:component
-        this={Map}
-        {mapOptions}
-        {observations}
-        on:doneLoading={() => (loading = false)}
-        on:markerClick={changeObservation}
-        {mapCenter}
-        {project}
+    </h1>
+
+    <div class="grid md:grid-cols-2 gap-3">
+      <ObservationBasic
+        observation={observationDisplay}
+        {projectPath}
         {taxon}
+        on:zoomToObservation={zoomToObservation}
       />
+
+      <div class="relative">
+        {#if loading}
+          <Loader />
+        {/if}
+        <svelte:component
+          this={Map}
+          {mapOptions}
+          {observations}
+          on:doneLoading={() => (loading = false)}
+          on:markerClick={changeObservation}
+          {mapCenter}
+          {project}
+          {taxon}
+        />
+      </div>
     </div>
   </div>
-</div>
 
-<Tabs {tabs} on:zoomToObservation={zoomToObservation} />
+  <Tabs {tabs} on:zoomToObservation={zoomToObservation} />
+</main>
 
 <style>
   /*

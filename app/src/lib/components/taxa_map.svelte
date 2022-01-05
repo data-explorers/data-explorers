@@ -489,11 +489,16 @@
 
 <style>
   .stat-value {
-    @apply text-sm;
+    @apply text-base;
     font-weight: normal;
   }
   .stat {
     padding: 0.25rem 0.5rem;
-    @apply text-sm;
+    @apply text-base;
+  }
+
+  .stat-title {
+    white-space: normal;
+    text-align: center;
   }
 </style>

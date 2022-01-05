@@ -35,9 +35,6 @@
   import vegaEmbed from 'vega-embed';
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
   import Loader from '$lib/components/loader.svelte';
-  import ProjectHeader from '$lib/components/project_header.svelte';
-  import Modal from '$lib/components/modal.svelte';
-  import ModalMagnify from '$lib/components/modal-magnify.svelte';
   import TaxonFilter from '$lib/components/ed_taxon_filter.svelte';
   import { modulo, lightenDarkenColor } from '$lib/miscUtils';
   import { darkGray, defaultColorScheme, getMonthName, getMapTiles } from '$lib/mapUtils';
@@ -528,18 +525,16 @@
   });
 </script>
 
-<ProjectHeader {project} {user} />
-
 <div class="prose max-w-none">
-  <h1>{currentTab.label}</h1>
+  <h1 class="px-2">{currentTab.label}</h1>
 
   <div class="grid lg:grid-cols-10 mb-6">
-    <div class="lg:col-span-3 border-0 lg:border-r-2">
+    <div class="lg:col-span-3 border-0 lg:border-r-2 border-t">
       <div class="grid">
         <!-- observation data -->
         {#if observationDisplay}
           <section
-            class="px-3 relative observation-container mb-0 md:mb-3 overflow-x-auto order-last lg:order-first"
+            class="px-3 mb-6 lg:mb-0 observation-container overflow-x-auto order-last lg:order-first"
           >
             {#if observationDisplay.image_url}
               <img
@@ -770,10 +765,13 @@ https://gitanswer.com/svelte-add-an-option-to-prevent-removal-of-unused-css-sele
     @apply text-base;
     font-weight: normal;
   }
-
   .stat {
     @apply text-base;
     padding: 0.5rem 1rem;
+  }
+  .stat-title {
+    white-space: normal;
+    text-align: center;
   }
   h3:first-of-type {
     margin-top: 1.25rem;

@@ -107,7 +107,7 @@
     >. The species with links are species that have observations.
   </p>
 
-  <div class="grid md:grid-cols-2 sm:grid-cols-1 justify-center gap-3">
+  <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-3">
     <div>
       <GlobiList interactionTaxa={eatsTaxa} title="Eats" {taxonIds} {projectPath} />
       <GlobiList interactionTaxa={preysOnTaxa} title="Preys on" {taxonIds} {projectPath} />

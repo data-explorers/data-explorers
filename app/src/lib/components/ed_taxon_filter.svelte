@@ -45,11 +45,11 @@
   </div>
 
   <ul class="text-sm submenu bg-gray-100 grid grid-cols-3">
-    <li data-taxon-id={taxon.taxon_id} on:click={toggleTaxon}>
-      {#if taxon.active}Hide{:else}Show{/if}
-    </li>
     <li on:click={() => (showMore = !showMore)}>
       {#if showMore}Less{:else}More{/if} info
+    </li>
+    <li data-taxon-id={taxon.taxon_id} on:click={toggleTaxon}>
+      {#if taxon.active}Hide{:else}Show{/if}
     </li>
     <li data-taxon-id={taxon.taxon_id} on:click={removeTaxon}>Delete</li>
   </ul>
