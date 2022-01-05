@@ -20,7 +20,6 @@
 </script>
 
 <script>
-  import ProjectHeader from '$lib/components/project_header.svelte';
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
 
   export let project;
@@ -28,21 +27,21 @@
   export let user;
 </script>
 
-<ProjectHeader {project} {user} />
-
-<div class="prose">
-  <h1>Taxa List</h1>
-  {pluralize('taxon', taxa.length)}
-  <ul>
-    {#each taxa as taxon}
-      <li>
-        <a href="/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}"
-          >{@html formatTaxonDisplayName(taxon, true)}</a
-        >, {pluralize('observation', taxon.taxa_count)}, {taxon.rank}
-      </li>
-    {/each}
-  </ul>
-</div>
+<main class="container mx-auto">
+  <div class="prose">
+    <h1>Taxa List</h1>
+    {pluralize('taxon', taxa.length)}
+    <ul>
+      {#each taxa as taxon}
+        <li>
+          <a href="/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}"
+            >{@html formatTaxonDisplayName(taxon, true)}</a
+          >, {pluralize('observation', taxon.taxa_count)}, {taxon.rank}
+        </li>
+      {/each}
+    </ul>
+  </div>
+</main>
 
 <style>
 </style>

@@ -5,15 +5,13 @@
     let user = settings.filter((user) => user.username === page.params.users)[0];
     let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
 
-    return { props: { project, user } };
+    return { props: { project } };
   }
 </script>
 
 <script>
   import { onMount } from 'svelte';
-  import ProjectHeader from '$lib/components/project_header.svelte';
   export let project;
-  export let user;
 
   let mapOptions = {
     latitude: project.latitude,
@@ -31,59 +29,59 @@
   });
 </script>
 
-<ProjectHeader {project} {user} />
-
-<div class="prose max-w-none">
-  <h1>About</h1>
-  <div class="grid lg:grid-cols-3 gap-3">
-    <div class="lg:col-span-2 prose">
-      <table class="table table-compact">
-        <tr>
-          <th>Location</th>
-          <td>{project.location}</td>
-        </tr>
-        <tr>
-          <th>Start Date</th>
-          <td>{project.start_date}</td>
-        </tr>
-        <tr>
-          <th>Audience</th>
-          <td>{project.target_audience}</td>
-        </tr>
-        <tr>
-          <th>Species</th>
-          <td>{project.species_count}</td>
-        </tr>
-        <tr>
-          <th>Observations</th>
-          <td>{project.observations_count}</td>
-        </tr>
-        <tr>
-          <th>Observers</th>
-          <td>{project.observers_count}</td>
-        </tr>
-        <tr>
-          <th>Links</th>
-          <td>
-            {#each project.links as link}
-              <a class="inline-block mr-4" href={link.url}>{link.text}</a>
-            {/each}
-          </td>
-        </tr>
-      </table>
-      {@html project.description}
+<main class="container mx-auto">
+  <div class="prose max-w-none">
+    <h1>About</h1>
+    <div class="grid lg:grid-cols-3 gap-3">
+      <div class="lg:col-span-2">
+        <table class="table table-compact">
+          <tr>
+            <th>Location</th>
+            <td>{project.location}</td>
+          </tr>
+          <tr>
+            <th>Start Date</th>
+            <td>{project.start_date}</td>
+          </tr>
+          <tr>
+            <th>Audience</th>
+            <td>{project.target_audience}</td>
+          </tr>
+          <tr>
+            <th>Species</th>
+            <td>{project.species_count}</td>
+          </tr>
+          <tr>
+            <th>Observations</th>
+            <td>{project.observations_count}</td>
+          </tr>
+          <tr>
+            <th>Observers</th>
+            <td>{project.observers_count}</td>
+          </tr>
+          <tr>
+            <th>Links</th>
+            <td>
+              {#each project.links as link}
+                <a class="inline-block mr-4" href={link.url}>{link.text}</a>
+              {/each}
+            </td>
+          </tr>
+        </table>
+        {@html project.description}
+      </div>
+      <div>
+        <svelte:component this={Map} {mapOptions} />
+      </div>
     </div>
-    <div>
-      <svelte:component this={Map} {mapOptions} />
+
+    <div class="">
+      <h2>Project Questions</h2>
+      <ol>
+        <li>Sint labore sunt magna duis officia pariatur ut?</li>
+        <li>Officia in ea non non aliquip ad duis est veniam proident in ut velit dolor?</li>
+        <li>Id incididunt cillum magna dolor?</li>
+      </ol>
     </div>
   </div>
-
-  <div class="">
-    <h2>Project Questions</h2>
-    <ol>
-      <li>Sint labore sunt magna duis officia pariatur ut?</li>
-      <li>Officia in ea non non aliquip ad duis est veniam proident in ut velit dolor?</li>
-      <li>Id incididunt cillum magna dolor?</li>
-    </ol>
-  </div>
-</div>
+</main>

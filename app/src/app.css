@@ -154,7 +154,7 @@ a {
 /* https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
  sticky footer at bottom of page */
 
-body {
+#svelte {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
@@ -174,4 +174,13 @@ main {
 
 .label-text {
   @apply text-base;
+}
+
+main.container {
+  @apply px-2;
+}
+
+.table td,
+.table th {
+  white-space: normal;
 }

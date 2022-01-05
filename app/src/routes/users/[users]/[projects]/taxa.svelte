@@ -20,19 +20,16 @@
       taxa = res.default;
     }
 
-    return { props: { project, taxa, user, projectPath } };
+    return { props: { taxa, projectPath } };
   }
 </script>
 
 <script>
   import TaxaGrid from '$lib/components/taxa_grid.svelte';
-  import ProjectHeader from '$lib/components/project_header.svelte';
   import { ranksReverse, speciesRanks } from '$lib/data/constants';
   import { toTitleCase, pluralize } from '$lib/formatUtils';
 
-  export let project;
   export let taxa;
-  export let user;
   export let projectPath;
 
   $: {
@@ -52,27 +49,27 @@
   let currentRank = 'species';
 </script>
 
-<ProjectHeader {project} {user} />
+<main class="container mx-auto">
+  <div class="prose max-w-none">
+    <h1>{toTitleCase(pluralize(currentRank, displayTaxa.length))}</h1>
 
-<div class="prose max-w-none">
-  <h1>{toTitleCase(pluralize(currentRank, displayTaxa.length))}</h1>
+    <ul class="submenu">
+      {#each submenuOptions as option}
+        <li
+          class="px-3"
+          class:active={option === currentRank}
+          on:click={() => (currentRank = option)}
+        >
+          {option}
+        </li>
+      {/each}
+    </ul>
 
-  <ul class="submenu">
-    {#each submenuOptions as option}
-      <li
-        class="px-3"
-        class:active={option === currentRank}
-        on:click={() => (currentRank = option)}
-      >
-        {option}
-      </li>
-    {/each}
-  </ul>
-
-  {#if displayTaxa.length > 0}
-    <TaxaGrid taxa={displayTaxa} {projectPath} />
-  {/if}
-</div>
+    {#if displayTaxa.length > 0}
+      <TaxaGrid taxa={displayTaxa} {projectPath} />
+    {/if}
+  </div>
+</main>
 
 <style>
   .submenu {

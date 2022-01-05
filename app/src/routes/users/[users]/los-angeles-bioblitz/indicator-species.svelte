@@ -11,7 +11,6 @@
 </script>
 
 <script>
-  import ProjectHeader from '$lib/components/project_header.svelte';
   import allTaxa from '$lib/data/los-angeles-bioblitz/taxa.csv';
   import { pluralize } from '$lib/formatUtils';
 
@@ -21,33 +20,33 @@
   export let project;
 </script>
 
-<ProjectHeader {project} {user} />
+<main class="container mx-auto">
+  <div class="prose max-w-none">
+    <h1>{taxa.length} Indicator Species</h1>
 
-<div class="prose max-w-none">
-  <h1>{taxa.length} Indicator Species</h1>
+    <div class="grid lg:grid-cols-4 md:grid-cols-3  sm:grid-cols-2 justify-center gap-3">
+      {#each taxa as taxon}
+        <div class="image-card">
+          <a href="/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}">
+            <figure>
+              {#if taxon.image_url}
+                <img src={taxon.image_url} alt="photo of {formatTaxonDisplayName(taxon)}" />
+              {:else}
+                <img src="/images/missing-image.png" alt="" />
+              {/if}
+            </figure>
 
-  <div class="grid lg:grid-cols-4 md:grid-cols-3  sm:grid-cols-2 justify-center gap-3">
-    {#each taxa as taxon}
-      <div class="image-card">
-        <a href="/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}">
-          <figure>
-            {#if taxon.image_url}
-              <img src={taxon.image_url} alt="photo of {formatTaxonDisplayName(taxon)}" />
-            {:else}
-              <img src="/images/missing-image.png" alt="" />
-            {/if}
-          </figure>
-
-          <div class="image-card-body">
-            <div class="text-lg font-medium leading-normal">
-              {@html formatTaxonDisplayName(taxon, true)}
+            <div class="image-card-body">
+              <div class="text-lg font-medium leading-normal">
+                {@html formatTaxonDisplayName(taxon, true)}
+              </div>
+              <div>{pluralize('observation', taxon.observations_count)}</div>
+              <div>{taxon.taxon_group}</div>
+              <div>{taxon.type}</div>
             </div>
-            <div>{pluralize('observation', taxon.observations_count)}</div>
-            <div>{taxon.taxon_group}</div>
-            <div>{taxon.type}</div>
-          </div>
-        </a>
-      </div>
-    {/each}
+          </a>
+        </div>
+      {/each}
+    </div>
   </div>
-</div>
+</main>
