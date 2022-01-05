@@ -5,6 +5,7 @@
   import { getObservedSpecies } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import Ellipse from '$lib/components/icons/ellipse.svelte';
+  import { base } from '$app/paths';
 
   export let taxon;
   export let taxa;
@@ -31,7 +32,7 @@
       {#if taxon.image_url}
         <img src={taxon.image_url.replace('medium', 'square')} alt="photo of {taxon.taxon_name}" />
       {:else}
-        <img src="/images/missing-image.png" alt="" />
+        <img src="{base}/images/missing-image.png" alt="" />
       {/if}
     </figure>
 

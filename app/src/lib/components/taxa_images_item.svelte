@@ -2,6 +2,7 @@
   import ModalMagnify from '$lib/components/modal-magnify.svelte';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import { createEventDispatcher } from 'svelte';
+  import { base } from '$app/paths';
 
   export let observation;
 
@@ -19,7 +20,7 @@
             alt="photo of {formatTaxonDisplayName(observation)}"
           />
         {:else}
-          <img src="/images/missing-image.png" alt="" />
+          <img src="{base}/images/missing-image.png" alt="" />
         {/if}
       </ModalMagnify>
     </div>

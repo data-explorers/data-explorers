@@ -1,5 +1,6 @@
 <script>
   import '../app.css';
+  import { base } from '$app/paths';
 </script>
 
 <header>
@@ -9,7 +10,7 @@
         <a class="text-lg font-bold" href="/"> Data Explorers </a>
       </div>
       <div class="px-2 mx-2">
-        <a class="" href="/about"> About </a>
+        <a class="" href="{base}/about"> About </a>
       </div>
     </div>
   </nav>

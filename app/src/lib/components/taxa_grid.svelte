@@ -1,6 +1,7 @@
 <script>
   import { pluralize } from '$lib/formatUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import { base } from '$app/paths';
 
   export let taxa;
   export let projectPath;
@@ -25,7 +26,7 @@
           {#if taxon.image_url}
             <img src={taxon.image_url} alt="photo of {formatTaxonDisplayName(taxon)}" />
           {:else}
-            <img src="/images/missing-image.png" alt="" />
+            <img src="{base}/images/missing-image.png" alt="" />
           {/if}
         </figure>
 

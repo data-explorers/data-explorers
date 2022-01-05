@@ -1,6 +1,7 @@
 <script>
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
   import { getObservedSpecies } from '$lib/dataUtils';
+  import { base } from '$app/paths';
 
   export let taxon;
   export let projectPath;
@@ -37,7 +38,7 @@
                 alt="photo of {formatTaxonDisplayName(taxon)}"
               />
             {:else}
-              <img src="/images/missing-image.png" alt="" />
+              <img src="{base}/images/missing-image.png" alt="" />
             {/if}
           </figure>
         </a>

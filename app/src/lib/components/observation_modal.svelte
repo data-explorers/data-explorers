@@ -3,6 +3,7 @@
   import { createEventDispatcher } from 'svelte';
   import ObservationData from '$lib/components/observation_data.svelte';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
+  import { base } from '$app/paths';
 
   export let observation;
   export let projectPath;
@@ -32,7 +33,7 @@
             alt="photo of {formatTaxonDisplayName(observation)}"
           />
         {:else}
-          <img src="/images/missing-image.png" alt="" />
+          <img src="{base}/images/missing-image.png" alt="" />
         {/if}
       </figure>
     </article>

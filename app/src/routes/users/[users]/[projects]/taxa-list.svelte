@@ -21,6 +21,7 @@
 
 <script>
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
+  import { base } from '$app/paths';
 
   export let project;
   export let taxa;
@@ -34,7 +35,7 @@
     <ul>
       {#each taxa as taxon}
         <li>
-          <a href="/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}"
+          <a href="{base}/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}"
             >{@html formatTaxonDisplayName(taxon, true)}</a
           >, {pluralize('observation', taxon.taxa_count)}, {taxon.rank}
         </li>

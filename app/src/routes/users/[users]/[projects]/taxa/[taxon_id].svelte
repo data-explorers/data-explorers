@@ -2,6 +2,7 @@
   import allInteractions from '$lib/data/interactions.csv';
   import settings from '$lib/data/settings.json';
   import { formatRawTaxa, formatRawObservations } from '$lib/convert_data';
+  import { base } from '$app/paths';
 
   // TODO: show number of obsevations with time filters
   // TODO: description from wikipedia
@@ -27,7 +28,7 @@
       .filter((i) => i.subject_taxon_id)
       .filter((i) => i.subject_taxon_id == page.params.taxon_id);
 
-    let projectPath = `/users/${user.username}/${project.slug}`;
+    let projectPath = `${base}/users/${user.username}/${project.slug}`;
 
     return {
       props: {

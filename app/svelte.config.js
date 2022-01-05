@@ -1,6 +1,7 @@
 import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-static';
 import dsv from '@rollup/plugin-dsv';
+const dev = process.env.NODE_ENV === 'development';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -13,6 +14,9 @@ const config = {
       assets: 'build',
       fallback: null
     }),
+    paths: {
+      base: dev ? '' : "/inaturalist_data_explorer"
+    },
     vite: {
       optimizeDeps: {
         include: ['just-throttle', 'dayjs']

@@ -1,11 +1,13 @@
 <script>
   import settings from '$lib/data/settings.json';
+  import { base } from '$app/paths';
+
   for (let index = 0; index < settings.length; index++) {
     const user_data = settings[index];
     if (user_data.projects.length === 1) {
-      user_data.card_link = `/users/${user_data.username}/${user_data.projects[0].slug}`;
+      user_data.card_link = `${base}/users/${user_data.username}/${user_data.projects[0].slug}`;
     } else {
-      user_data.card_link = `/users/${user_data.username}`;
+      user_data.card_link = `${base}/users/${user_data.username}`;
     }
   }
 </script>
@@ -20,7 +22,7 @@
           <a href={user_data.card_link}>
             <figure>
               <img
-                src="/images/{user_data.username}/user.jpg"
+                src="{base}/images/{user_data.username}/user.jpg"
                 alt="Photo for {user_data.card_title}"
               />
             </figure>
