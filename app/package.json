@@ -15,13 +15,12 @@
     "@rollup/plugin-dsv": "^2.0.2",
     "@sveltejs/adapter-static": "^1.0.0-next.21",
     "@sveltejs/kit": "next",
-    "@turf/helpers": "^6.5.0",
-    "@turf/points-within-polygon": "^6.5.0",
-    "@turf/turf": "^6.5.0",
+    "@tailwindcss/typography": "^0.5.0",
     "autoprefixer": "^10.3.7",
     "babel-jest": "^27.4.4",
     "babel-plugin-module-resolver": "^4.1.0",
     "cssnano": "^5.0.8",
+    "daisyui": "^1.22.0",
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-svelte3": "^3.2.1",
@@ -35,12 +34,9 @@
     "prettier-plugin-svelte": "^2.4.0",
     "simple-svelte-autocomplete": "^2.2.4",
     "svelte": "^3.42.6",
-    "svelte-calendar": "^3.1.6",
     "svelte-leafletjs": "^0.8.0",
     "svelte-preprocess": "^4.9.8",
-    "svelte-range-slider-pips": "^2.0.0",
-    "svelte-select": "^4.4.6",
-    "tailwindcss": "^2.2.16",
+    "tailwindcss": "^3.0.12",
     "tippy.js": "^6.3.7",
     "vega": "^5.21.0",
     "vega-embed": "^6.20.5",
@@ -48,12 +44,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@deck.gl/core": "^8.6.4",
-    "@deck.gl/layers": "^8.6.4",
-    "@tailwindcss/typography": "^0.4.1",
-    "daisyui": "^1.16.2",
-    "lodash.groupby": "^4.6.0",
-    "papaparse": "^5.3.1"
+    "lodash.groupby": "^4.6.0"
   },
   "jest": {
     "transform": {

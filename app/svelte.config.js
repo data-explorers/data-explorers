@@ -18,9 +18,6 @@ const config = {
       base: dev ? '' : '/inaturalist_data_explorer'
     },
     vite: {
-      optimizeDeps: {
-        include: ['just-throttle', 'dayjs']
-      },
       plugins: [dsv()]
     }
   },
