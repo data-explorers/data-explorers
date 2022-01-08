@@ -42,10 +42,11 @@
   export let project;
   export let taxon;
 
-  // load and filter observations
+  // load and filter observations every time taxa changes
   $: {
     observations = observations.filter((o) => o.latitude && o.longitude);
     coordinates = observations.map((o) => [o.latitude, o.longitude]);
+    timeSpanHistory = {};
   }
 
   // sort and group observations
@@ -62,10 +63,16 @@
       mapOptions.observationsTimeSpan
     );
 
-    // create timeSpanHistory if it doesn't already exist
-    if (mapOptions.observationsTimeSpan !== 'all' && Object.keys(timeSpanHistory).length === 0) {
-      groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+    if (mapOptions.observationsTimeSpan !== 'all') {
+      // create timeSpanHistory if it doesn't already exist
+      if (Object.keys(timeSpanHistory).length === 0) {
+        groupedObservations.forEach((v, k) => (timeSpanHistory[k] = true));
+      }
     }
+  }
+
+  $: if (leafletMap) {
+    zoomMapToFitMarkers(coordinates);
   }
 
   // update observation counts and displayed observations
@@ -92,10 +99,6 @@
 
       observationsDirty = false;
     }
-  }
-
-  $: if (leafletMap) {
-    zoomMapToFitMarkers(coordinates);
   }
 
   // update charts
@@ -489,12 +492,12 @@
 
 <style>
   .stat-value {
-    @apply text-base;
+    @apply text-sm;
     font-weight: normal;
   }
   .stat {
     padding: 0.25rem 0.5rem;
-    @apply text-base;
+    @apply text-sm;
   }
 
   .stat-title {
