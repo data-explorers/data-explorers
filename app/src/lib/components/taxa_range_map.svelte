@@ -24,10 +24,12 @@
   let mapOptions = {
     latitude: project.latitude,
     longitude: project.longitude,
-    zoom: 4,
+    zoom: 1,
     center: [project.latitude, project.longitude]
   };
 </script>
+
+<h3>Taxon Range</h3>
 
 <label class="cursor-pointer mr-3">
   <input
@@ -54,7 +56,7 @@
   />range map
 </label>
 
-<div class="mt-4" style="width: 65%; height: 400px;">
+<div class="mt-4" style="width: 50%; height: 400px;">
   <LeafletMap options={mapOptions}>
     <TileLayer url={osm.url} options={osm.options} />
     {#if showRangeMap}
@@ -75,3 +77,10 @@
     {/if}
   </LeafletMap>
 </div>
+
+<p>Note: Range maps are only available for some species.</p>
+<p>
+  Taxon range and observation data are from <a
+    href="https://www.inaturalist.org/">iNaturalist</a
+  >.
+</p>
