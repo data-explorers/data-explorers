@@ -274,13 +274,13 @@ function addMissingTimePeriods(
   });
 }
 
-export function countObservations(observations, field = 'id') {
+export function countObservations(observations) {
   if (Array.isArray(observations)) {
-    return new Set(observations.map((o) => o[field])).size;
+    return new Set(observations.map((o) => o['id'])).size;
   } else {
     let uniqueIds = new Set();
     observations.forEach((values, key) => {
-      values.forEach((o) => uniqueIds.add(o[field]));
+      values.forEach((o) => uniqueIds.add(o['id']));
     });
     return uniqueIds.size;
   }
@@ -336,32 +336,6 @@ export function getObservationsSelected(groupedObservations, timeSpanHistory) {
         observations.set(key, value);
       }
     });
-  }
-
-  return observations;
-}
-
-export function getObservationsDisplay(groupedObservations, useMarkerCluster, map, L) {
-  let observations;
-  if (Array.isArray(groupedObservations)) {
-    observations = groupedObservations.filter((o) => isObservationInMap(o, map, L));
-  } else {
-    // if we are using marker clusters, flatten groupedObservations into an array
-    if (useMarkerCluster) {
-      let flatObservations = [];
-      groupedObservations.forEach((values, key) => {
-        values = values.filter((o) => isObservationInMap(o, map, L));
-        flatObservations = flatObservations.concat(values);
-      });
-      observations = flatObservations;
-      // if we are using individual markers, create a new Map
-    } else {
-      observations = new Map();
-      groupedObservations.forEach((values, key) => {
-        values = values.filter((o) => isObservationInMap(o, map, L));
-        observations.set(key, values);
-      });
-    }
   }
 
   return observations;
