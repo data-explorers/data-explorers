@@ -81,6 +81,7 @@
 <p>Note: Range maps are only available for some species.</p>
 <p>
   Taxon range and observation data are from <a
+    class="external-link"
     href="https://www.inaturalist.org/">iNaturalist</a
   >.
 </p>

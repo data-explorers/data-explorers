@@ -184,3 +184,8 @@ main.container {
 .table th {
   white-space: normal;
 }
+
+.external-link::after {
+  content: '\2197';
+  margin-left: 4px;
+}

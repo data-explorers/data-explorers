@@ -67,7 +67,9 @@
     >
   {/if}
 
-  <a href="https://www.inaturalist.org/observations/{observation.id}">iNaturalist observation</a>
+  <a class="external-link" href="https://www.inaturalist.org/observations/{observation.id}"
+    >iNaturalist observation</a
+  >
 </div>
 
 <style>

@@ -61,5 +61,7 @@
   <TaxaSpeciesInteractions {interactions} {projectPath} {taxonIds} {taxon} />
 
   <h3>More Information</h3>
-  <a href="https://www.inaturalist.org/taxa/{taxon.taxon_id}">iNaturalist taxa</a>
+  <a class="external-link" href="https://www.inaturalist.org/taxa/{taxon.taxon_id}"
+    >iNaturalist taxa</a
+  >
 </div>

@@ -49,6 +49,7 @@
 
 <p>
   Species interaction data comes from <a
+    class="external-link"
     href="https://www.globalbioticinteractions.org/?interactionType=interactsWith&sourceTaxon={taxon.scientific_name}"
     >GloBI</a
   >.
