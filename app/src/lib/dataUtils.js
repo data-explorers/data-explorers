@@ -1,5 +1,5 @@
 import { formatTaxonDisplayName } from '$lib/formatUtils';
-import { getDateRange, convertObjectsToMap, range } from '$lib/miscUtils';
+import { getDateRange, convertObjectsToMap } from '$lib/miscUtils';
 import { speciesRanks } from '$lib/data/constants';
 export const fetchTaxaByName = (taxa, keyword) => {
   // find taxa whose common name or scientific name matches the keyword
@@ -187,92 +187,6 @@ export function groupObservationsbyTime(observations, timeSpanValue) {
   return groups;
 }
 
-export function generateTimeSpanCounts(
-  type,
-  observations,
-  taxaHistory,
-  timeSpanHistory,
-  inactiveOpacity,
-  project
-) {
-  if (taxaHistory.length === 0) {
-    return {};
-  }
-
-  let timePeriodCountsPerTaxon = {};
-  let missingPeriods = [];
-
-  function formatDefaultRecord(taxon, timePeriod) {
-    return {
-      count: 1,
-      color: taxon.color,
-      taxon_name: taxon.taxon_name,
-      opacity: taxon.active && timeSpanHistory[timePeriod] ? 1 : inactiveOpacity
-    };
-  }
-
-  // create a count of the number of taxa per month
-  taxaHistory.forEach((taxon) => {
-    observations
-      .filter((o) => taxon.observations.includes(o.id))
-      .forEach((observation) => {
-        let taxonId = Number(taxon.taxon_id);
-        let timePeriod = observation[type] == 'unknown' ? 'unknown' : Number(observation[type]);
-        if (timePeriodCountsPerTaxon[timePeriod]) {
-          // increment count for existing time period and taxon
-          if (timePeriodCountsPerTaxon[timePeriod][taxonId]) {
-            timePeriodCountsPerTaxon[timePeriod][taxonId]['count'] += 1;
-            // add taxon to existing time period
-          } else {
-            timePeriodCountsPerTaxon[timePeriod][taxonId] = formatDefaultRecord(taxon, timePeriod);
-          }
-          // add time period and taxon
-        } else {
-          timePeriodCountsPerTaxon[timePeriod] = {
-            [taxonId]: formatDefaultRecord(taxon, timePeriod)
-          };
-        }
-      });
-  });
-
-  addMissingTimePeriods(type, timePeriodCountsPerTaxon, missingPeriods, taxaHistory, project);
-
-  return timePeriodCountsPerTaxon;
-}
-
-function addMissingTimePeriods(
-  type,
-  timePeriodCountsPerTaxon,
-  missingPeriods,
-  taxaHistory,
-  project
-) {
-  // create empty placeholder records for time spans that don't have
-  // observations so that the chart will still show the empty time spans
-
-  if (type === 'month') {
-    let months = Object.keys(timePeriodCountsPerTaxon).map((m) => Number(m));
-    let allMonths = project.observed_months;
-    missingPeriods = allMonths.filter((num) => !months.includes(num));
-  } else if (type === 'year') {
-    let years = Object.keys(timePeriodCountsPerTaxon).map((y) => Number(y));
-    let allYears = range(project.observed_years[0], project.observed_years[1]);
-    missingPeriods = allYears.filter((year) => !years.includes(year));
-  }
-
-  // Create empty placeholder records for the first taxon. All other
-  // taxa will also show the empty time spans since we are using faceted charts.
-  let taxon = taxaHistory[0];
-  missingPeriods.forEach((period) => {
-    timePeriodCountsPerTaxon[period] = {};
-    timePeriodCountsPerTaxon[period][taxon.taxon_id] = {
-      count: 0,
-      opacity: 0,
-      taxon_name: taxon.taxon_name
-    };
-  });
-}
-
 export function countObservations(observations) {
   if (Array.isArray(observations)) {
     return new Set(observations.map((o) => o['id'])).size;
@@ -345,4 +259,13 @@ export function getObservedSpecies(taxa, taxon) {
     .filter((t) => speciesRanks.includes(t.rank))
     .filter((t) => t.observations_count > 0)
     .filter((t) => t.taxon_ids.split('|').includes('' + taxon.taxon_id));
+}
+
+export function updateTimeSpans(e, timeSpanHistory) {
+  let targetFilter = e.target.dataset['filter'];
+  targetFilter = targetFilter === 'unknown' ? 'unknown' : Number(targetFilter);
+
+  // update filters
+  timeSpanHistory[targetFilter] = !timeSpanHistory[targetFilter];
+  return timeSpanHistory;
 }

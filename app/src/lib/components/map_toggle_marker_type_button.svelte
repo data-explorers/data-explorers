@@ -3,7 +3,7 @@
   import { createEventDispatcher } from 'svelte';
 
   export let useMarkerCluster;
-  export let observationsDisplayCount;
+  export let observationsOnMapCount;
   export let clusterLimit;
   export let userSelectedMarkerType;
   export let coordinates;
@@ -63,9 +63,9 @@
   }
 
   // automatically toggle clusters/markers if there are many observations
-  $: if (observationsDisplayCount > 0) {
+  $: if (observationsOnMapCount > 0) {
     // switch to clusters
-    if (!useMarkerCluster && observationsDisplayCount >= clusterLimit) {
+    if (!useMarkerCluster && observationsOnMapCount >= clusterLimit) {
       toggleMarkerModeButton.getButton().state('show-clusters');
       dispatch('changeMarkerModeAutomatic', {
         useMarkerCluster: true
@@ -74,7 +74,7 @@
     } else if (
       useMarkerCluster &&
       userSelectedMarkerType === 'markers' &&
-      observationsDisplayCount < clusterLimit
+      observationsOnMapCount < clusterLimit
     ) {
       toggleMarkerModeButton.getButton().state('show-markers');
       dispatch('changeMarkerModeAutomatic', {
@@ -86,7 +86,7 @@
   $: if (toggleMarkerModeButton) {
     if (coordinates.length === 0) {
       toggleMarkerModeButton.getButton().disable();
-    } else if (observationsDisplayCount > clusterLimit) {
+    } else if (observationsOnMapCount > clusterLimit) {
       toggleMarkerModeButton.getButton().disable();
     } else {
       toggleMarkerModeButton.getButton().enable();

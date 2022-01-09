@@ -34,7 +34,6 @@
   export let speciesDisplayCount;
   export let speciesList;
   export let showSpeciesListIcon;
-  export let showSpeciesList;
 
   let leafletMap;
   let map;
@@ -50,15 +49,15 @@
   let zoomLevel;
   let toggleMarkerModeButton;
   let observationsSelected = [];
-  let observationsDisplay = [];
-  let observationsDisplayCount = 0;
+  let observationsOnMap = [];
+  let observationsOnMapCount = 0;
   let observationsSelectedCount = 0;
   let observationsDirty = false;
   let maxZoom = 0;
 
   const dispatch = createEventDispatcher();
 
-  // update observation counts and displayed observations
+  // update observation counts and observations
   $: {
     if (leafletMap) {
       timeSpanHistory;
@@ -69,22 +68,23 @@
       observationsSelectedCount = countObservations(observationsSelected);
 
       // filter observations by map bounding box
-      observationsDisplay = getObservationsDisplay(observationsSelected);
-      observationsDisplayCount = countObservations(observationsDisplay);
+      observationsOnMap = getObservationsOnMap(observationsSelected);
+      observationsOnMapCount = countObservations(observationsOnMap);
 
       // species data
       speciesCount = countSpecies(observationsSelected);
-      speciesList = getSpecies(observationsDisplay);
+      speciesList = getSpecies(observationsOnMap);
       speciesDisplayCount = speciesList.length;
       showSpeciesListIcon = speciesList.length > 0;
 
       dispatch('updateStats', {
         observationsSelectedCount,
-        observationsDisplayCount,
+        observationsOnMapCount,
         speciesCount,
         speciesDisplayCount,
         speciesList,
-        showSpeciesListIcon
+        showSpeciesListIcon,
+        observationsOnMap
       });
 
       observationsDirty = false;
@@ -126,12 +126,12 @@
   function changeMarkerModeOnClick(e) {
     useMarkerCluster = e.detail.useMarkerCluster;
     userSelectedMarkerType = e.detail.userSelectedMarkerType;
-    observationsDisplay = getObservationsDisplay(observationsDisplay);
+    observationsOnMap = getObservationsOnMap(observationsOnMap);
   }
 
   function changeMarkerModeAutomatic(e) {
     useMarkerCluster = e.detail.useMarkerCluster;
-    observationsDisplay = getObservationsDisplay(observationsDisplay);
+    observationsOnMap = getObservationsOnMap(observationsOnMap);
   }
 
   // ===================
@@ -139,10 +139,10 @@
   // ===================
 
   // NOTE: can't move this function to separate file because adding
-  // useMarkerCluster as a parameter and calling getObservationsDisplay in
-  // reactive block that sets the observationsDisplay and counts breaks the
-  // reactive block that checks observationsDisplayCount >= clusterLimit.
-  function getObservationsDisplay(groupedObservations) {
+  // useMarkerCluster as a parameter and calling getObservationsOnMap in
+  // reactive block that sets the observationsOnMap and counts breaks the
+  // reactive block that checks observationsOnMapCount >= clusterLimit.
+  function getObservationsOnMap(groupedObservations) {
     let observations;
     if (Array.isArray(groupedObservations)) {
       observations = groupedObservations.filter((o) => isObservationInMap(o, map, L));
@@ -193,10 +193,6 @@
     dispatch('markerClick', { observation_id: obs.id, latlng: e.detail.latlng });
   }
 
-  function toggleSpeciesList() {
-    showSpeciesList = !showSpeciesList;
-  }
-
   // ===================
   // life cycle
   // ===================
@@ -223,7 +219,7 @@
 
 <svelte:window on:resize={resizeMap} />
 
-<div style="width: 100%; height: 80vh;">
+<div style="width: 100%; height: 70vh;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <!-- base layers must be set up before MarkerCluster  -->
     <MapLayersControl {country} />
@@ -237,10 +233,10 @@
     {/each}
     <!-- marker clusters -->
     {#if useMarkerCluster}
-      <MarkerCluster items={observationsDisplay} />
+      <MarkerCluster items={observationsOnMap} />
       <!-- individual markers -->
-    {:else if Array.isArray(observationsDisplay)}
-      {#each observationsDisplay as obs}
+    {:else if Array.isArray(observationsOnMap)}
+      {#each observationsOnMap as obs}
         <CircleMarker
           events={['click']}
           on:click={(e) => handleMarkerClick(e, obs)}
@@ -252,7 +248,7 @@
       {/each}
       <!-- individual markers grouped by time -->
     {:else}
-      {#each [...observationsDisplay] as [key, observations]}
+      {#each [...observationsOnMap] as [key, observations]}
         {#each observations as obs}
           <CircleMarker
             events={['click']}
@@ -277,7 +273,7 @@
       on:changeMarkerModeAutomatic={changeMarkerModeAutomatic}
       {coordinates}
       {useMarkerCluster}
-      {observationsDisplayCount}
+      {observationsOnMapCount}
       {clusterLimit}
       {userSelectedMarkerType}
       {zoomLevel}
