@@ -1,7 +1,6 @@
 <script>
   import 'leaflet/dist/leaflet.css';
-  import { onMount } from 'svelte';
-  import { createEventDispatcher } from 'svelte';
+  import { createEventDispatcher, onMount } from 'svelte';
   import vegaEmbed from 'vega-embed';
   import {
     LeafletMap,
@@ -10,8 +9,6 @@
     ScaleControl,
     MarkerCluster
   } from '$lib/vendor/svelte-leaflet';
-  import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
-  import barChartJson from '$lib/charts/bar_chart.json';
   import {
     coldMonths,
     rectangleLatitudeZoom,
@@ -26,15 +23,25 @@
     getObservationsSelected,
     countObservations,
     countSpecies,
-    getSpecies
+    getSpecies,
+    updateTimeSpans
   } from '$lib/dataUtils';
   import { modulo, range } from '$lib/miscUtils';
+  import { tooltip } from '$lib/tooltip.js';
+  import {
+    setupTaxaAllChart,
+    setupTaxaMonthChart,
+    setupTaxaYearChart
+  } from '$lib/charts/chartUtils';
+
+  import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
   import MapLayersControl from '$lib/components/map_layers_control.svelte';
-  import { tooltip } from '$lib/tooltip.js';
   import InfoIcon from '$lib/components/icons/info.svelte';
   import MapSpeciesList from '$lib/components/map_species_list.svelte';
   import ToggleMarkerTypeButton from '$lib/components/map_toggle_marker_type_button.svelte';
+
+  import barChartJson from '$lib/charts/bar_chart.json';
 
   export let observations;
   export let mapOptions;
@@ -86,12 +93,12 @@
       observationsSelectedCount = countObservations(observationsSelected);
 
       // filter observations by map bounding box
-      observationsDisplay = getObservationsDisplay(observationsSelected);
-      observationsDisplayCount = countObservations(observationsDisplay);
+      observationsOnMap = getObservationsOnMap(observationsSelected);
+      observationsOnMapCount = countObservations(observationsOnMap);
 
       // species data
       speciesCount = countSpecies(observationsSelected);
-      speciesList = getSpecies(observationsDisplay);
+      speciesList = getSpecies(observationsOnMap);
       speciesDisplayCount = speciesList.length;
       showSpeciesListIcon =
         speciesList.length > 1 ||
@@ -101,85 +108,63 @@
     }
   }
 
-  // update charts
-  $: {
-    if (mounted && mapOptions.observationsTimeSpan === 'month') {
-      let allMonths = [...project.observed_months];
-      if (timeSpanHistory['unknown'] !== undefined) {
-        allMonths.push('unknown');
-      }
+  // format data for charts
+  $: if (mounted && !syncMapAndCharts) {
+    if (mapOptions.observationsTimeSpan === 'month') {
+      let spec = setupTaxaMonthChart(
+        barChartSpec,
+        inactiveOpacity,
+        timeSpanHistory,
+        mapOptions,
+        groupedObservations,
+        project
+      );
 
-      // set default values for months that are observed
-      chartData = allMonths.map((m) => {
-        return { xValue: getMonthName(m), yValue: 0, opacity: 0 };
-      });
+      drawChart(spec);
+    } else if (mapOptions.observationsTimeSpan === 'year') {
+      let spec = setupTaxaYearChart(
+        barChartSpec,
+        inactiveOpacity,
+        timeSpanHistory,
+        mapOptions,
+        groupedObservations,
+        project
+      );
 
-      // fill chartData with real values
-      groupedObservations.forEach((v, k) => {
-        let index = allMonths.indexOf(k);
-        let color = k === 'unknown' ? mapOptions.defaultColor : mapOptions.colorSchemeMonth[k];
-        chartData[index] = {
-          xValue: getMonthName(k),
-          yValue: v.length,
-          color: color,
-          opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
-        };
-      });
+      drawChart(spec);
+    } else if (mapOptions.observationsTimeSpan === 'all') {
+      let spec = setupTaxaAllChart(barChartSpec, mapOptions, groupedObservations);
+      drawChart(spec);
+    }
+  }
 
-      barChartSpec['layer'][0]['mark']['width']['band'] = 1;
-      barChartSpec['data']['values'] = chartData;
+  // format data for synced charts
+  $: if (mounted && syncMapAndCharts) {
+    if (mapOptions.observationsTimeSpan === 'month') {
+      let spec = setupTaxaMonthChart(
+        barChartSpec,
+        inactiveOpacity,
+        timeSpanHistory,
+        mapOptions,
+        observationsOnMap,
+        project
+      );
 
-      drawChart(barChartSpec);
-    } else if (mounted && mapOptions.observationsTimeSpan === 'year') {
-      // get all years between first and last observations
-      let allYears = range(project.observed_years[0], project.observed_years[1]);
-      if (timeSpanHistory['unknown'] !== undefined) {
-        allYears.push('unknown');
-      }
+      drawChart(spec);
+    } else if (mapOptions.observationsTimeSpan === 'year') {
+      let spec = setupTaxaYearChart(
+        barChartSpec,
+        inactiveOpacity,
+        timeSpanHistory,
+        mapOptions,
+        observationsOnMap,
+        project
+      );
 
-      // set default values for years that are observed
-      chartData = allYears.map((y) => {
-        return { xValue: y, yValue: 0, opacity: 0 };
-      });
-
-      // fill chartData with real values
-      groupedObservations.forEach((v, k) => {
-        let index = allYears.indexOf(k);
-        let color =
-          k === 'unknown'
-            ? mapOptions.defaultColor
-            : mapOptions.colorSchemeYear[modulo(k, mapOptions.colorSchemeYear.length)];
-        chartData[index] = {
-          xValue: k,
-          yValue: v.length,
-          color: color,
-          opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
-        };
-      });
-
-      // limit the width of the bands if there is small number of bars
-      if (Object.keys(allYears).length <= 4) {
-        barChartSpec['layer'][0]['mark']['width']['band'] = 0.6;
-      } else {
-        barChartSpec['layer'][0]['mark']['width']['band'] = 1;
-      }
-      barChartSpec['data']['values'] = chartData;
-
-      drawChart(barChartSpec);
-    } else if (mounted) {
-      chartData = [
-        {
-          xValue: 'All',
-          yValue: groupedObservations.length,
-          color: mapOptions.defaultColor,
-          opacity: 1
-        }
-      ];
-
-      // limit the width of the band since there is only one bar
-      barChartSpec['layer'][0]['mark']['width']['band'] = 0.6;
-      barChartSpec['data']['values'] = chartData;
-      drawChart(barChartSpec);
+      drawChart(spec);
+    } else if (mapOptions.observationsTimeSpan === 'all') {
+      let spec = setupTaxaAllChart(barChartSpec, mapOptions, observationsOnMap);
+      drawChart(spec);
     }
   }
 
@@ -204,7 +189,6 @@
   let groupedObservations = [];
   let sortedObservations = [];
   const dispatch = createEventDispatcher();
-  let chartData;
   let inactiveOpacity = 0.25;
   let mounted = false;
   let barChartSpec = JSON.parse(JSON.stringify(barChartJson));
@@ -214,8 +198,8 @@
   let clusterLimit = 1000;
   let toggleMarkerModeButton;
   let observationsSelected = [];
-  let observationsDisplay = [];
-  let observationsDisplayCount = 0;
+  let observationsOnMap = [];
+  let observationsOnMapCount = 0;
   let observationsSelectedCount = 0;
   let observationsDirty = false;
   let maxZoom = 0;
@@ -224,6 +208,7 @@
   let showSpeciesList = false;
   let speciesList = [];
   let showSpeciesListIcon = false;
+  let syncMapAndCharts = false;
 
   // ===================
   // map buttons
@@ -232,12 +217,12 @@
   function changeMarkerModeOnClick(e) {
     useMarkerCluster = e.detail.useMarkerCluster;
     userSelectedMarkerType = e.detail.userSelectedMarkerType;
-    observationsDisplay = getObservationsDisplay(observationsDisplay);
+    observationsOnMap = getObservationsOnMap(observationsOnMap);
   }
 
   function changeMarkerModeAutomatic(e) {
     useMarkerCluster = e.detail.useMarkerCluster;
-    observationsDisplay = getObservationsDisplay(observationsDisplay);
+    observationsOnMap = getObservationsOnMap(observationsOnMap);
   }
 
   // ===================
@@ -245,10 +230,10 @@
   // ===================
 
   // NOTE: can't move this function to separate file because adding
-  // useMarkerCluster as a parameter and calling getObservationsDisplay in
-  // reactive block that sets the observationsDisplay and counts breaks the
-  // reactive block that checks observationsDisplayCount >= clusterLimit.
-  function getObservationsDisplay(groupedObservations) {
+  // useMarkerCluster as a parameter and calling getObservationsOnMap in
+  // reactive block that sets the observationsOnMap and counts breaks the
+  // reactive block that checks observationsOnMapCount >= clusterLimit.
+  function getObservationsOnMap(groupedObservations) {
     let observations;
     if (Array.isArray(groupedObservations)) {
       observations = groupedObservations.filter((o) => isObservationInMap(o, map, L));
@@ -289,10 +274,7 @@
   // =====================
 
   function toggleTimeSpans(e) {
-    let targetFilter = e.target.dataset['filter'];
-    targetFilter = targetFilter === 'unknown' ? 'unknown' : Number(targetFilter);
-    // update filters
-    timeSpanHistory[targetFilter] = !timeSpanHistory[targetFilter];
+    timeSpanHistory = updateTimeSpans(e, timeSpanHistory);
   }
 
   function selectTimeSpanHandler() {
@@ -362,7 +344,7 @@
   <div class="stat place-items-center place-content-center">
     <div class="stat-title">
       Observations on map
-      {#if observationsDisplayCount >= clusterLimit}
+      {#if observationsOnMapCount >= clusterLimit}
         <span
           use:tooltip
           class="text-red-600"
@@ -371,7 +353,7 @@
         >
       {/if}
     </div>
-    <div class="stat-value">{observationsDisplayCount}</div>
+    <div class="stat-value">{observationsOnMapCount}</div>
   </div>
   <div class="stat place-items-center place-content-center">
     <div class="stat-title">Species</div>
@@ -401,10 +383,10 @@
     <MapLayersControl country={project.country} />
     <!-- marker clusters -->
     {#if useMarkerCluster}
-      <MarkerCluster items={observationsDisplay} />
+      <MarkerCluster items={observationsOnMap} />
       <!-- display observations as circles -->
-    {:else if Array.isArray(observationsDisplay)}
-      {#each observationsDisplay as obs}
+    {:else if Array.isArray(observationsOnMap)}
+      {#each observationsOnMap as obs}
         <CircleMarker
           events={['click']}
           on:click={(e) => handleMarkerClick(e, obs)}
@@ -417,7 +399,7 @@
 
       <!-- display observations as circles by year -->
     {:else if mapOptions.observationsTimeSpan === 'year'}
-      {#each [...observationsDisplay] as [year, observations]}
+      {#each [...observationsOnMap] as [year, observations]}
         {#each observations as obs}
           <CircleMarker
             events={['click']}
@@ -435,7 +417,7 @@
 
       <!-- display observations as circle and rectangles by month -->
     {:else}
-      {#each [...observationsDisplay] as [month, observations]}
+      {#each [...observationsOnMap] as [month, observations]}
         {#each observations as obs}
           {#if coldMonths.includes(obs.month + 1)}
             <CircleMarker
@@ -468,7 +450,7 @@
       on:changeMarkerModeAutomatic={changeMarkerModeAutomatic}
       {coordinates}
       {useMarkerCluster}
-      {observationsDisplayCount}
+      {observationsOnMapCount}
       {clusterLimit}
       {userSelectedMarkerType}
       {zoomLevel}
@@ -488,6 +470,12 @@
   {timeSpanHistory}
   activeTaxaCount={1}
 />
+
+<label class="cursor-pointer mt-2 inline-block">
+  <input type="checkbox" bind:checked={syncMapAndCharts} />
+  <span>Sync map and charts</span>
+  <span use:tooltip title="Automatically update charts as map changes."><InfoIcon /></span>
+</label>
 <div id="observations-chart" class="w-full mt-4" />
 
 <style>

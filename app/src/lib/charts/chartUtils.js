@@ -211,6 +211,110 @@ export function setupExploreDataYearChart(
   return spec;
 }
 
+export function setupTaxaAllChart(spec, mapOptions, observations) {
+  let chartData = [
+    {
+      xValue: 'All',
+      yValue: observations.length,
+      color: mapOptions.defaultColor,
+      opacity: 1
+    }
+  ];
+
+  // limit the width of the band since there is only one bar
+  spec['layer'][0]['mark']['width']['band'] = 0.6;
+  spec['data']['values'] = chartData;
+  return spec;
+}
+
+export function setupTaxaMonthChart(
+  spec,
+  inactiveOpacity,
+  timeSpanHistory,
+  mapOptions,
+  observations,
+  project
+) {
+  let chartData = [];
+  let allMonths = [...project.observed_months];
+  if (timeSpanHistory['unknown'] !== undefined) {
+    allMonths.push('unknown');
+  }
+
+  // set default values for months that are observed
+  chartData = allMonths.map((m) => {
+    return { xValue: getMonthName(m), yValue: 0, opacity: 0 };
+  });
+
+  // fill chartData with real values
+  if (Array.isArray(observations)) {
+    observations = groupObservationsbyTime(observations, 'month');
+  }
+  observations.forEach((v, k) => {
+    let index = allMonths.indexOf(k);
+    let color = k === 'unknown' ? mapOptions.defaultColor : mapOptions.colorSchemeMonth[k];
+    chartData[index] = {
+      xValue: getMonthName(k),
+      yValue: v.length,
+      color: color,
+      opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
+    };
+  });
+
+  spec['layer'][0]['mark']['width']['band'] = 1;
+  spec['data']['values'] = chartData;
+  return spec;
+}
+
+export function setupTaxaYearChart(
+  spec,
+  inactiveOpacity,
+  timeSpanHistory,
+  mapOptions,
+  observations,
+  project
+) {
+  let chartData = [];
+  // get all years between first and last observations
+  let allYears = range(project.observed_years[0], project.observed_years[1]);
+  if (timeSpanHistory['unknown'] !== undefined) {
+    allYears.push('unknown');
+  }
+
+  // set default values for years that are observed
+  chartData = allYears.map((y) => {
+    return { xValue: y, yValue: 0, opacity: 0 };
+  });
+
+  // fill chartData with real values
+  if (Array.isArray(observations)) {
+    observations = groupObservationsbyTime(observations, 'year');
+  }
+  observations.forEach((v, k) => {
+    let index = allYears.indexOf(k);
+    let color =
+      k === 'unknown'
+        ? mapOptions.defaultColor
+        : mapOptions.colorSchemeYear[modulo(k, mapOptions.colorSchemeYear.length)];
+    chartData[index] = {
+      xValue: k,
+      yValue: v.length,
+      color: color,
+      opacity: timeSpanHistory[k] ? 1 : inactiveOpacity
+    };
+  });
+
+  // limit the width of the bands if there is small number of bars
+  if (Object.keys(allYears).length <= 4) {
+    spec['layer'][0]['mark']['width']['band'] = 0.6;
+  } else {
+    spec['layer'][0]['mark']['width']['band'] = 1;
+  }
+  spec['data']['values'] = chartData;
+
+  return spec;
+}
+
 export function drawChart(spec, chartSelector) {
   vegaEmbed(chartSelector, spec, { actions: false })
     .then((result) => {})
