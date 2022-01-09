@@ -1,4 +1,5 @@
-export function groupByMap(arrayOfObjects, key) {
+export function convertObjectsToMap(arrayOfObjects, key) {
+  // converts an array of objects into a Map
   let map = new Map();
   arrayOfObjects.forEach((object) => {
     if (map.get(object[key])) {

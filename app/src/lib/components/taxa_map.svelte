@@ -22,7 +22,7 @@
   } from '$lib/mapUtils';
   import {
     sortObservations,
-    createGroupObservations,
+    groupObservationsbyTime,
     getObservationsSelected,
     countObservations,
     countSpecies,
@@ -58,7 +58,7 @@
       orderByValue,
       mapOptions.observationsTimeSpan
     );
-    groupedObservations = createGroupObservations(
+    groupedObservations = groupObservationsbyTime(
       sortedObservations,
       mapOptions.observationsTimeSpan
     );

@@ -43,7 +43,7 @@
     fetchTaxaByName,
     fetchObservationsByTaxonId,
     sortObservations,
-    createGroupObservations,
+    groupObservationsbyTime,
     generateTimeSpanCounts
   } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
@@ -287,7 +287,7 @@
       orderByValue,
       mapOptions.observationsTimeSpan
     );
-    groupedObservations = createGroupObservations(
+    groupedObservations = groupObservationsbyTime(
       observationsDisplay,
       mapOptions.observationsTimeSpan
     );
@@ -367,7 +367,7 @@
       orderByValue,
       mapOptions.observationsTimeSpan
     );
-    groupedObservations = createGroupObservations(observations, mapOptions.observationsTimeSpan);
+    groupedObservations = groupObservationsbyTime(observations, mapOptions.observationsTimeSpan);
 
     // update filters
     if (mapOptions.observationsTimeSpan !== 'all') {
@@ -430,7 +430,7 @@
       orderByValue,
       mapOptions.observationsTimeSpan
     );
-    groupedObservations = createGroupObservations(
+    groupedObservations = groupObservationsbyTime(
       observationsDisplay,
       mapOptions.observationsTimeSpan
     );
@@ -463,7 +463,7 @@
       orderByValue,
       mapOptions.observationsTimeSpan
     );
-    groupedObservations = createGroupObservations(
+    groupedObservations = groupObservationsbyTime(
       observationsDisplay,
       mapOptions.observationsTimeSpan
     );

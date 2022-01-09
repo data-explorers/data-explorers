@@ -1,8 +1,6 @@
 import { formatTaxonDisplayName } from '$lib/formatUtils';
-import { getDateRange, groupByMap, range } from '$lib/miscUtils';
-import { isObservationInMap } from '$lib/mapUtils';
+import { getDateRange, convertObjectsToMap, range } from '$lib/miscUtils';
 import { speciesRanks } from '$lib/data/constants';
-
 export const fetchTaxaByName = (taxa, keyword) => {
   // find taxa whose common name or scientific name matches the keyword
   return new Promise((resolve, _reject) => {
@@ -155,7 +153,8 @@ export function logTime(message) {
   console.log(new Date().toUTCString(), message);
 }
 
-export function createGroupObservations(observations, timeSpanValue) {
+export function groupObservationsbyTime(observations, timeSpanValue) {
+  // groups an array of observations by time period.
   // use Map instead of Object because Map retains insertion order of the keys
   let groups = new Map();
   let validObservations = [];
@@ -165,14 +164,14 @@ export function createGroupObservations(observations, timeSpanValue) {
   });
 
   if (timeSpanValue === 'month') {
-    groups = groupByMap(
+    groups = convertObjectsToMap(
       validObservations.map((o) => {
         return { ...o, month: new Date(o.time_observed_at).getMonth() };
       }),
       'month'
     );
   } else if (timeSpanValue === 'year') {
-    groups = groupByMap(
+    groups = convertObjectsToMap(
       validObservations.map((o) => {
         return { ...o, year: new Date(o.time_observed_at).getFullYear() };
       }),

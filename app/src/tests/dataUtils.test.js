@@ -4,7 +4,7 @@ import {
   sortObservationsNewestMonthFirst,
   sortObservationsOldestMonthFirst,
   sortObservations,
-  createGroupObservations
+  groupObservationsbyTime
 } from '$lib/dataUtils';
 
 describe('sort dates', () => {
@@ -224,7 +224,7 @@ describe('sort dates', () => {
   });
 });
 
-describe('createGroupObservations', () => {
+describe('groupObservationsbyTime', () => {
   let observations = [
     { time_observed_at: '2020-03-03' },
     { time_observed_at: '2021-02-12' },
@@ -251,7 +251,7 @@ describe('createGroupObservations', () => {
       { month: 2, time_observed_at: '2021-03-13' }
     ]);
 
-    let results = createGroupObservations(observations, 'month');
+    let results = groupObservationsbyTime(observations, 'month');
 
     expect(results).toEqual(expected);
   });
@@ -268,7 +268,7 @@ describe('createGroupObservations', () => {
     ]);
     expected.set('unknown', [{ time_observed_at: null }]);
 
-    let results = createGroupObservations(observations_without_date, 'month');
+    let results = groupObservationsbyTime(observations_without_date, 'month');
 
     expect(results).toEqual(expected);
   });
@@ -284,7 +284,7 @@ describe('createGroupObservations', () => {
       { year: 2021, time_observed_at: '2021-03-13' }
     ]);
 
-    let results = createGroupObservations(observations, 'year');
+    let results = groupObservationsbyTime(observations, 'year');
 
     expect(results).toEqual(expected);
   });
@@ -301,7 +301,7 @@ describe('createGroupObservations', () => {
     ]);
     expected.set('unknown', [{ time_observed_at: null }]);
 
-    let results = createGroupObservations(observations_without_date, 'year');
+    let results = groupObservationsbyTime(observations_without_date, 'year');
 
     expect(results).toEqual(expected);
   });
@@ -330,7 +330,7 @@ describe('sorts and groups observations', () => {
     ];
 
     let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
-    let groupedObservations = createGroupObservations(observations, timeSpanValue);
+    let groupedObservations = groupObservationsbyTime(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
@@ -351,7 +351,7 @@ describe('sorts and groups observations', () => {
     expected.set('unknown', [{ time_observed_at: null }]);
 
     let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
-    let groupedObservations = createGroupObservations(observations, timeSpanValue);
+    let groupedObservations = groupObservationsbyTime(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
@@ -372,7 +372,7 @@ describe('sorts and groups observations', () => {
     expected.set('unknown', [{ time_observed_at: null }]);
 
     let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
-    let groupedObservations = createGroupObservations(observations, timeSpanValue);
+    let groupedObservations = groupObservationsbyTime(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
@@ -390,7 +390,7 @@ describe('sorts and groups observations', () => {
     ];
 
     let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
-    let groupedObservations = createGroupObservations(observations, timeSpanValue);
+    let groupedObservations = groupObservationsbyTime(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
@@ -411,7 +411,7 @@ describe('sorts and groups observations', () => {
     expected.set('unknown', [{ time_observed_at: null }]);
 
     let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
-    let groupedObservations = createGroupObservations(observations, timeSpanValue);
+    let groupedObservations = groupObservationsbyTime(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });
@@ -432,7 +432,7 @@ describe('sorts and groups observations', () => {
     expected.set('unknown', [{ time_observed_at: null }]);
 
     let observations = sortObservations(rawObservations, orderByValue, timeSpanValue);
-    let groupedObservations = createGroupObservations(observations, timeSpanValue);
+    let groupedObservations = groupObservationsbyTime(observations, timeSpanValue);
 
     expect(groupedObservations).toEqual(expected);
   });

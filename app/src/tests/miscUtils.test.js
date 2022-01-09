@@ -1,4 +1,4 @@
-import { range, groupByMap } from '$lib/miscUtils';
+import { range, convertObjectsToMap } from '$lib/miscUtils';
 
 describe('range', () => {
   test('returns array of integers from first value to second value when given 2 integers', () => {
@@ -11,7 +11,7 @@ describe('range', () => {
   });
 });
 
-describe('groupByMap', () => {
+describe('convertObjectsToMap', () => {
   test('returns a map with objects grouped by a given object key', () => {
     let objects = [
       { a: 2, b: 'a' },
@@ -27,7 +27,7 @@ describe('groupByMap', () => {
     expected.set(3, [{ a: 3, b: 'b' }]);
     expected.set(1, [{ a: 1, b: 'd' }]);
 
-    let results = groupByMap(objects, 'a');
+    let results = convertObjectsToMap(objects, 'a');
 
     expect(results).toEqual(expected);
 

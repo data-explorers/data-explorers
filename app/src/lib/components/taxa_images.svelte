@@ -2,7 +2,7 @@
   // Use Map objects in #each blocks https://github.com/sveltejs/svelte/issues/5021
   import TaxaImagesItem from '$lib/components/taxa_images_item.svelte';
   import { getMonthName } from '$lib/mapUtils';
-  import { sortObservations, createGroupObservations } from '$lib/dataUtils';
+  import { sortObservations, groupObservationsbyTime } from '$lib/dataUtils';
   import ObservationModal from '$lib/components/observation_modal.svelte';
   import { createEventDispatcher } from 'svelte';
 
@@ -12,7 +12,7 @@
 
   $: observations = sortObservations(observations, orderByValue, timeSpanValue);
   $: observationsDisplay = observations.slice(0, page * limit);
-  $: groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
+  $: groupedObservations = groupObservationsbyTime(observationsDisplay, timeSpanValue);
   $: observationsDisplayIds = observationsDisplay.map((o) => o.id);
   $: showLoadMore = page * limit < observations.length;
 
@@ -28,19 +28,19 @@
     page = page + 1;
     observations = sortObservations(observations, orderByValue, timeSpanValue);
     observationsDisplay = observations.slice(0, page * limit);
-    groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
+    groupedObservations = groupObservationsbyTime(observationsDisplay, timeSpanValue);
   }
 
   function handleOrderBy() {
     observations = sortObservations(observations, orderByValue, timeSpanValue);
     observationsDisplay = observations.slice(0, page * limit);
-    groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
+    groupedObservations = groupObservationsbyTime(observationsDisplay, timeSpanValue);
   }
 
   function selectTimeSpanHandler() {
     observations = sortObservations(observations, orderByValue, timeSpanValue);
     observationsDisplay = observations.slice(0, page * limit);
-    groupedObservations = createGroupObservations(observationsDisplay, timeSpanValue);
+    groupedObservations = groupObservationsbyTime(observationsDisplay, timeSpanValue);
   }
 
   function changeObservation(e) {
