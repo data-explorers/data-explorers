@@ -87,15 +87,7 @@
   }
   .prose ul {
     list-style-type: none;
-    margin-top: 0;
-  }
-
-  .prose li {
+    margin: 0 0 0.5rem 0;
     padding: 0;
-    padding: 0 0.6em;
-  }
-
-  .prose ul > li::before {
-    content: none;
   }
 </style>

@@ -102,19 +102,16 @@
 
   .observed-species li {
     margin: 0;
-    padding-left: 20px;
+    padding: 0;
   }
 
   .submenu {
     justify-items: center;
-  }
-
-  .submenu li::before {
-    content: none;
+    list-style: none;
+    padding: 0;
   }
 
   .submenu li {
-    padding-left: 0px;
     cursor: pointer;
   }
 

@@ -30,21 +30,13 @@
 
 <style>
   ul {
-    margin-top: 0 !important;
-    margin-top: 0 !important;
+    margin: 0;
+    padding: 0;
+    list-style: none;
   }
 
   li {
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-
-  ul > li::before {
-    content: none;
-  }
-
-  ul > li {
-    position: normal;
-    padding-left: 0;
+    margin: 0;
+    padding: 0;
   }
 </style>

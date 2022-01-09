@@ -763,14 +763,15 @@ https://gitanswer.com/svelte-add-an-option-to-prevent-removal-of-unused-css-sele
     }
   }
   .stat-value {
-    @apply text-base;
+    @apply text-sm;
     font-weight: normal;
   }
   .stat {
-    @apply text-base;
+    @apply text-sm;
     padding: 0.5rem 1rem;
   }
   .stat-title {
+    @apply text-sm;
     white-space: normal;
     text-align: center;
   }

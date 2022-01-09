@@ -42,9 +42,14 @@
     --step: 1.25rem;
   }
 
+  .taxonomy {
+    list-style: none;
+    padding: 0;
+  }
+
   .taxonomy li {
-    margin-top: 0;
-    margin-bottom: 0;
+    padding: 0;
+    margin: 0;
   }
   .taxonomy .active,
   .taxonomy .active a {
@@ -73,13 +78,5 @@
   }
   .taxonomy li:nth-child(8) {
     margin-left: calc(var(--step) * 7);
-  }
-
-  ul > li::before {
-    content: none;
-  }
-  ul > li {
-    position: normal;
-    padding-left: 0;
   }
 </style>
