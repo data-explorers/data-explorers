@@ -1,5 +1,5 @@
 <script>
-  export let value;
+  export let value = null;
 </script>
 
 <span data-taxon-id={value}>&times</span>

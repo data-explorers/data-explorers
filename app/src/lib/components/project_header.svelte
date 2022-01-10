@@ -16,7 +16,7 @@
 
 <div class="hero" style="background-image: url(&quot;{project.image}/1600/500&quot;);">
   <div class="container mx-auto">
-    <div class="text-neutral-content bg-black bg-opacity-50 p-1 inline-block">
+    <div class="text-neutral-content bg-neutral bg-opacity-50 p-1 inline-block">
       <h1>{project.title}</h1>
     </div>
   </div>

@@ -1,4 +1,4 @@
-<svg width="30" height="30" viewBox="0 0 500.00001 500.00001">
+<svg width="30" height="30" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" version="1.0">
   <g id="layer1" transform="translate(0,-552.36216)">
     <g id="g1400" transform="translate(-4.3609793,-7.6704785)">
       <path

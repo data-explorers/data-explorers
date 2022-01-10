@@ -1,9 +1,6 @@
 <script context="module">
   // TODO:
   // minimize menu
-  // add charts of observation counts
-  // show observation counts change with time span filter
-  // add inat range map and observatios for each taxon
   // animate by week over time
 
   import settings from '$lib/data/settings.json';
@@ -31,6 +28,7 @@
 </script>
 
 <script>
+  import { fade } from 'svelte/transition';
   import { onMount } from 'svelte';
   import AutoComplete from 'simple-svelte-autocomplete';
   import { modulo, lightenDarkenColor } from '$lib/miscUtils';
@@ -57,6 +55,8 @@
   import ObservationData from '$lib/components/observation_data.svelte';
   import InfoIcon from '$lib/components/icons/info.svelte';
   import MapSpeciesList from '$lib/components/map_species_list.svelte';
+  import ShowMore from '$lib/components/show_more.svelte';
+  import XIcon from '$lib/components/icons/x.svelte';
 
   import barChartGroupJson from '$lib/charts/bar_chart_group.json';
   import barChartJson from '$lib/charts/bar_chart.json';
@@ -177,6 +177,9 @@
   let chartSelector = '#ed-chart';
   let syncMapAndCharts = false;
   let orderByValue = 'oldest';
+  let showObservationHighlight = false;
+  let showBiodiversity = true;
+  let showEnvironment = true;
 
   projectObservations = projectObservations.filter((o) => o.latitude && o.longitude);
 
@@ -522,78 +525,71 @@
   <div class="grid lg:grid-cols-10 mb-6">
     <div class="lg:col-span-3 border-0 lg:border-r-2 border-t">
       <div class="grid">
-        <!-- observation data -->
-        {#if observationHighlight}
-          <section
-            class="px-3 mb-6 lg:mb-0 observation-container overflow-x-auto order-last lg:order-first"
-          >
-            {#if observationHighlight.image_url}
-              <img
-                class="float-right lg:float-none"
-                src={observationHighlight.image_url.replace('medium', 'small')}
-                alt="photo of {formatTaxonDisplayName(observationHighlight)}"
+        <!-- searched taxa -->
+        <h3 class="bg-gray-200 mt-0 px-3 py-1">
+          Biodiversity
+          <ShowMore
+            showMore={true}
+            position={'normal'}
+            on:toggleShowMore={(e) => (showBiodiversity = e.detail.showMore)}
+          />
+        </h3>
+
+        {#if showBiodiversity}
+          <section class="px-3 mb-3" transition:fade>
+            <div class="max-w-lg mb-6 autocomplete">
+              <AutoComplete
+                searchFunction={loadOptions}
+                onChange={handleSelect}
+                labelFieldName="label"
+                valueFieldName="taxon_id"
+                placeholder="Search species name"
+                bind:selectedItem={item}
               />
-            {:else}
-              <img class="float-right lg:float-none" src="{base}/images/missing-image.png" alt="" />
+            </div>
+
+            {#if showDemoSpeciesPrompt}
+              <label transition:fade class="cursor-pointer block">
+                <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />
+                <span>Show 5 most observed species</span>
+              </label>
             {/if}
 
-            <ObservationData
-              on:zoomToObservation={zoomToObservation}
-              observation={observationHighlight}
-              {projectPath}
-              compactLayout={true}
-            />
+            {#if showIndicatorSpeciesPrompt}
+              <label transition:fade class="cursor-pointer block">
+                <input type="checkbox" class="mr-2" on:click={() => loadIndicatorSpecies()} />
+                <span>Show indicator species</span>
+              </label>
+            {/if}
+
+            <div transition:fade class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2">
+              {#each taxaHistory as taxon (taxon.taxon_id)}
+                <TaxonFilter
+                  {taxa}
+                  {taxon}
+                  {toggleTaxon}
+                  {removeTaxon}
+                  {toggleInatGrid}
+                  {toggleInatTaxonRange}
+                  {projectPath}
+                  {taxaHistory}
+                />
+              {/each}
+            </div>
           </section>
         {/if}
-        <!-- searched taxa -->
-        <section class="px-3">
-          <h3>Biodiversity</h3>
-
-          <div class="max-w-lg mb-6 autocomplete">
-            <AutoComplete
-              searchFunction={loadOptions}
-              onChange={handleSelect}
-              labelFieldName="label"
-              valueFieldName="taxon_id"
-              placeholder="Search species name"
-              bind:selectedItem={item}
-            />
-          </div>
-
-          {#if showDemoSpeciesPrompt}
-            <label class="cursor-pointer block">
-              <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />
-              <span>Show 5 most observed species</span>
-            </label>
-          {/if}
-
-          {#if showIndicatorSpeciesPrompt}
-            <label class="cursor-pointer block">
-              <input type="checkbox" class="mr-2" on:click={() => loadIndicatorSpecies()} />
-              <span>Show indicator species</span>
-            </label>
-          {/if}
-
-          <div class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2 mb-2">
-            {#each taxaHistory as taxon (taxon.taxon_id)}
-              <TaxonFilter
-                {taxa}
-                {taxon}
-                {toggleTaxon}
-                {removeTaxon}
-                {toggleInatGrid}
-                {toggleInatTaxonRange}
-                {projectPath}
-                {taxaHistory}
-              />
-            {/each}
-          </div>
-        </section>
 
         <!-- Environmental Factors -->
-        <section class="px-3">
-          <h3>Environmental Factors</h3>
-          <div class="mb-4">
+        <h3 class="bg-gray-200 mt-0 px-3 py-1">
+          Environmental Factors
+          <ShowMore
+            showMore={true}
+            position={'normal'}
+            on:toggleShowMore={(e) => (showEnvironment = e.detail.showMore)}
+          />
+        </h3>
+        {#if showEnvironment}
+          <section class="px-3 mb-3" transition:fade>
             <label class="cursor-pointer block">
               <input type="checkbox" bind:checked={showClimate} />
               <span>Temperature and Preciptation</span>
@@ -603,8 +599,8 @@
               <input type="checkbox" bind:checked={showDemoMapLayer} />
               <span>Demo map layer</span>
             </label>
-          </div>
-        </section>
+          </section>
+        {/if}
       </div>
     </div>
 
@@ -656,20 +652,49 @@
       <!-- map -->
       {#if mounted && loading}
         <Loader />
-        <div class="bg-gray-100" style="width: 100%; height: 70vh;" />
+        <div class="bg-gray-100" style="width: 100%; height: 75vh;" />
       {/if}
-      <svelte:component
-        this={Map}
-        {mapOptions}
-        {groupedObservations}
-        {timeSpanHistory}
-        {showDemoMapLayer}
-        {taxaHistory}
-        {mapCenter}
-        country={project.country}
-        on:markerClick={changeObservation}
-        on:updateStats={updateStatsHandler}
-      />
+      <div class="relative">
+        <svelte:component
+          this={Map}
+          {mapOptions}
+          {groupedObservations}
+          {timeSpanHistory}
+          {showDemoMapLayer}
+          {taxaHistory}
+          {mapCenter}
+          country={project.country}
+          on:markerClick={changeObservation}
+          on:updateStats={updateStatsHandler}
+        />
+
+        <!-- observation data -->
+        {#if  showObservationHighlight}
+          <div class="absolute observation-container bg-white text-sm overflow-auto">
+              <span on:click={() => showObservationHighlight=false} class="close-button"><XIcon /></span>
+              <section class="px-3 mb-3" transition:fade>
+                {#if observationHighlight.image_url}
+                  <img
+                    src={observationHighlight.image_url.replace('medium', 'small')}
+                    alt="photo of {formatTaxonDisplayName(observationHighlight)}"
+                  />
+                {:else}
+                  <img
+                    class="float-right lg:float-none"
+                    src="{base}/images/missing-image.png"
+                    alt=""
+                  />
+                {/if}
+                <ObservationData
+                  on:zoomToObservation={zoomToObservation}
+                  observation={observationHighlight}
+                  {projectPath}
+                  compactLayout={true}
+                />
+              </section>
+          </div>
+        {/if}
+      </div>
 
       <div class="px-3">
         <!-- species list -->
@@ -694,9 +719,7 @@
         {#if taxaHistory.length > 0}
           <label class="cursor-pointer mt-2 inline-block">
             <input type="checkbox" bind:checked={syncMapAndCharts} />
-            <span>Sync map and charts</span>
-            <span use:tooltip title="Automatically update charts as map changes."><InfoIcon /></span
-            >
+            <span>Update charts as map changes</span>
           </label>
           <div id="ed-chart" class="w-full mt-4" />
         {/if}
@@ -747,17 +770,19 @@ https://gitanswer.com/svelte-add-an-option-to-prevent-removal-of-unused-css-sele
     color: var(--text-color);
   }
 
+  .observation-container {
+    width: 250px;
+    max-height: 58vh;
+    bottom: 20px;
+    right: 5px;
+    z-index: 1005;
+  }
+
   .observation-container img {
     max-height: 150px;
-    margin-top: 1.75rem;
-    right: 0;
-    top: 0;
+    margin-top: 10px;
   }
-  @media (min-width: 1024px) {
-    .observation-container img {
-      margin-top: 0;
-    }
-  }
+
   .stat-value {
     @apply text-sm;
     font-weight: normal;
@@ -771,7 +796,11 @@ https://gitanswer.com/svelte-add-an-option-to-prevent-removal-of-unused-css-sele
     white-space: normal;
     text-align: center;
   }
-  h3:first-of-type {
-    margin-top: 1.25rem;
+
+  .close-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: white;
   }
 </style>

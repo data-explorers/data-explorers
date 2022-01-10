@@ -24,7 +24,6 @@ export function tooltip(node, params = {}) {
   // showing up on hover.
   node.title = '';
 
-  params.theme = params.theme || 'grey';
 
   // Support any of the Tippy props by forwarding all "params":
   // https://atomiks.github.io/tippyjs/v6/all-props/

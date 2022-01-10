@@ -4,7 +4,6 @@
   import { formatRawTaxa, formatRawObservations } from '$lib/convert_data';
   import { base } from '$app/paths';
 
-  // TODO: show number of obsevations with time filters
   // TODO: description from wikipedia
 
   export async function load({ page }) {

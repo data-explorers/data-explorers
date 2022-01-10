@@ -473,8 +473,7 @@
 
 <label class="cursor-pointer mt-2 inline-block">
   <input type="checkbox" bind:checked={syncMapAndCharts} />
-  <span>Sync map and charts</span>
-  <span use:tooltip title="Automatically update charts as map changes."><InfoIcon /></span>
+  <span>Update charts as map changes</span>
 </label>
 <div id="observations-chart" class="w-full mt-4" />
 

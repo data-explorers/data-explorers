@@ -7,12 +7,13 @@
   export let top = 0;
   export let right = 0;
   export let border;
+  export let position = 'absolute';
 
   const dispatch = createEventDispatcher();
 
   function handleClick() {
     showMore = !showMore;
-    dispatch('toggleShowMore', { showMore: showMore });
+    dispatch('toggleShowMore', { showMore });
   }
 </script>
 
@@ -22,6 +23,7 @@
       class="arrow down-arrow"
       class:border
       class:border-1={border}
+      class:absolute={position == 'absolute'}
       style="top: {top}; right: {right}"
       title="click to show less info"
       use:tooltip
@@ -32,6 +34,7 @@
       class="arrow up-arrow"
       class:border
       class:border-1={border}
+      class:absolute={position == 'absolute'}
       style="top: {top}; right: {right}"
       title="click to show more info"
       use:tooltip
@@ -43,6 +46,7 @@
     class="arrow left-arrow"
     class:border
     class:border-1={border}
+    class:absolute={position == 'absolute'}
     style="top: {top}; right: {right}"
     title="click to show less info"
     use:tooltip
@@ -53,6 +57,7 @@
     class="arrow right-arrow"
     class:border
     class:border-1={border}
+    class:absolute={position == 'absolute'}
     style="top: {top}; right: {right}"
     title="click to show more info"
     use:tooltip
@@ -62,7 +67,6 @@
 
 <style>
   .arrow {
-    position: absolute;
     cursor: pointer;
     display: inline-block;
     text-align: center;
@@ -70,7 +74,6 @@
     line-height: 1;
     width: 27px;
     height: 25px;
-
     font-weight: 900;
   }
   .up-arrow::after {

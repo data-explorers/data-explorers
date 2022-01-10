@@ -20,7 +20,7 @@
 </script>
 
 <div class:prose={compactLayout === false} class:p-4={!compactLayout}>
-  <h3>{@html formatTaxonDisplayName(observation, true)}</h3>
+  <h3 class:small={compactLayout}>{@html formatTaxonDisplayName(observation, true)}</h3>
   <dl>
     {#if observation.user_login}
       <dt>Observer</dt>
@@ -73,6 +73,10 @@
 </div>
 
 <style>
+
+  h3.small {
+    font-size: inherit;
+  }
   h3 {
     @apply mt-2;
     @apply mb-2;
@@ -97,5 +101,9 @@
 
   dt::after {
     content: ':';
+  }
+
+  a {
+    white-space: nowrap;
   }
 </style>
