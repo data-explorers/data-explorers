@@ -8,7 +8,8 @@
 
   --border-color: var(--gray-300);
   --text-color: var(--bc);
-  --bg-gray: var(--gray-300);
+  --bg-gray-300: var(--gray-300);
+  --bg-gray-200: rgb(229 231 235);
   --link-color: #0078a8;
 }
 
@@ -188,4 +189,8 @@ main.container {
 .external-link::after {
   content: '\2197';
   margin-left: 4px;
+}
+
+.btn {
+  @apply normal-case;
 }

@@ -317,6 +317,23 @@
   // taxa filters
   // =====================
 
+  function resetTaxa() {
+    item = '';
+    // all observations for searched taxa; not affected by taxa or time filters
+    observations = {};
+    // observation ids for searched taxa
+    observationsIds = new Set();
+    // observation ids filtered by active taxa
+    activeObservationsIds = new Set();
+    // observations filtered by active taxa, grouped by time span
+    groupedObservations = [];
+    // observations filter by active taxa, time, map bbox
+    observationsOnMap = [];
+    taxaHistory = []; // all searched taxa
+    timeSpanHistory = {}; // all the time spans
+    logObservations('resetTaxa');
+  }
+
   function removeTaxon(e) {
     loading = true;
     let taxonId = Number(e.target.dataset['taxonId']);
@@ -342,9 +359,9 @@
     });
 
     // remove observations for deleted taxon
-    let tempObservations = {}
-    observationsIds.forEach(id => tempObservations[id] = observations[id])
-    observations = tempObservations
+    let tempObservations = {};
+    observationsIds.forEach((id) => (tempObservations[id] = observations[id]));
+    observations = tempObservations;
     logObservations('removeTaxon');
 
     groupedObservations = updateGroupObservations();
@@ -354,7 +371,7 @@
   }
 
   function toggleTaxon(e) {
-    loading = true
+    loading = true;
     let taxonId = Number(e.target.dataset['taxonId']);
     if (!taxonId) {
       return;
@@ -403,7 +420,7 @@
 
   function updateGroupObservations() {
     // select, sort, and group active observations
-    let activeObservations = [...activeObservationsIds].map(id => observations[id])
+    let activeObservations = [...activeObservationsIds].map((id) => observations[id]);
     activeObservations = sortObservations(
       activeObservations,
       orderByValue,
@@ -415,7 +432,7 @@
   function updateObservationColor(color, id) {
     // if (observationsOnMap.length > clusterLimit) { return}
     // reassign color to handle cases when taxa from same lineage are toggled
-    let obs = observations[id]
+    let obs = observations[id];
     obs.color = color;
     obs.fillColor = color;
   }
@@ -498,7 +515,7 @@
   }
 
   function changeObservation(e) {
-    showObservationHighlight = true
+    showObservationHighlight = true;
     observationHighlight = observations[e.detail.observation_id];
   }
 
@@ -537,16 +554,20 @@
 
         {#if showBiodiversity}
           <section class="px-3 mb-3" transition:fade>
-            <div class="max-w-lg mb-6 autocomplete">
+            <div class="max-w-lg mb-4 autocomplete">
               <AutoComplete
                 searchFunction={loadOptions}
                 onChange={handleSelect}
                 labelFieldName="label"
                 valueFieldName="taxon_id"
                 placeholder="Search species name"
+                hideArrow={true}
                 bind:selectedItem={item}
               />
             </div>
+            {#if taxaHistory.length > 5}
+              <span class="btn btn-sm btn-outline mb-4 " on:click={resetTaxa}>Delete all</span>
+            {/if}
 
             {#if showDemoSpeciesPrompt}
               <label transition:fade class="cursor-pointer block">
@@ -669,29 +690,32 @@
         />
 
         <!-- observation data -->
-        {#if  showObservationHighlight}
+        {#if showObservationHighlight}
           <div class="absolute observation-container bg-white text-sm overflow-auto">
-              <span on:click={() => showObservationHighlight=false} class="close-button"><XIcon /></span>
-              <section class="px-3 mb-3" transition:fade>
-                {#if observationHighlight.image_url}
-                  <img
-                    src={observationHighlight.image_url.replace('medium', 'small')}
-                    alt="photo of {formatTaxonDisplayName(observationHighlight)}"
-                  />
-                {:else}
-                  <img
-                    class="float-right lg:float-none"
-                    src="{base}/images/missing-image.png"
-                    alt=""
-                  />
-                {/if}
-                <ObservationData
-                  on:zoomToObservation={zoomToObservation}
-                  observation={observationHighlight}
-                  {projectPath}
-                  compactLayout={true}
+            <span
+              on:click={() => (showObservationHighlight = false)}
+              class="close-button cursor-pointer"><XIcon /></span
+            >
+            <section class="px-3 mb-3" transition:fade>
+              {#if observationHighlight.image_url}
+                <img
+                  src={observationHighlight.image_url.replace('medium', 'small')}
+                  alt="photo of {formatTaxonDisplayName(observationHighlight)}"
                 />
-              </section>
+              {:else}
+                <img
+                  class="float-right lg:float-none"
+                  src="{base}/images/missing-image.png"
+                  alt=""
+                />
+              {/if}
+              <ObservationData
+                on:zoomToObservation={zoomToObservation}
+                observation={observationHighlight}
+                {projectPath}
+                compactLayout={true}
+              />
+            </section>
           </div>
         {/if}
       </div>
@@ -766,12 +790,13 @@ https://gitanswer.com/svelte-add-an-option-to-prevent-removal-of-unused-css-sele
 
   /* autocomplete-list-item */
   .autocomplete :global(.autocomplete-list-item.selected) {
-    background-color: var(--bg-gray);
+    background-color: var(--bg-gray-200);
     color: var(--text-color);
   }
 
   .observation-container {
-    width: 250px;
+    width: 30%;
+    max-width: 350px;
     max-height: 58vh;
     bottom: 20px;
     right: 5px;

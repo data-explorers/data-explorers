@@ -73,7 +73,6 @@
 </div>
 
 <style>
-
   h3.small {
     font-size: inherit;
   }
