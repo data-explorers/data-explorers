@@ -2,8 +2,8 @@
   import settings from '$lib/data/settings.json';
   import { base } from '$app/paths';
 
-  export async function load({ page }) {
-    let user = settings.filter((user) => user.username === page.params.users)[0];
+  export async function load({ params }) {
+    let user = settings.filter((user) => user.username === params.users)[0];
     let projects = user.projects;
 
     return { props: { user, projects } };

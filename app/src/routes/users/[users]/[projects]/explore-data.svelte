@@ -7,19 +7,20 @@
   import { formatRawTaxa, formatRawObservations } from '$lib/convert_data';
   import { base } from '$app/paths';
 
-  export async function load({ page }) {
-    let user = settings.filter((user) => user.username === page.params.users)[0];
-    let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
-    let pathParts = page.path.split('/');
+  export async function load({ params, url }) {
+    let user = settings.filter((user) => user.username === params.users)[0];
+    let project = user.projects.filter((project) => project.slug === params.projects)[0];
+    let pathParts = url.pathname.split('/');
     let currentTab = project.tabs_project.filter(
       (tab) => tab.link === pathParts[pathParts.length - 1]
     )[0];
+
     let projectPath = `${base}/users/${user.username}/${project.slug}`;
 
-    let taxaData = await import(`../../../../lib/data/${page.params.projects}/taxa.csv`);
+    let taxaData = await import(`../../../../lib/data/${params.projects}/taxa.csv`);
     let taxa = formatRawTaxa(taxaData.default);
     let observationData = await import(
-      `../../../../lib/data/${page.params.projects}/observations.csv`
+      `../../../../lib/data/${params.projects}/observations.csv`
     );
     let projectObservations = formatRawObservations(observationData.default);
 

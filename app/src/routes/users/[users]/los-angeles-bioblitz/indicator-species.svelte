@@ -3,10 +3,11 @@
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import { base } from '$app/paths';
 
-  export async function load({ page }) {
-    let page_parts = page.path.split('/');
-    let user = settings.filter((user) => user.username === page_parts[2])[0];
+  export async function load({ params, url }) {
+    let page_parts = url.pathname.split('/');
+    let user = settings.filter((user) => user.username === params.users)[0];
     let project = user.projects.filter((project) => project.slug === page_parts[3])[0];
+
     return { props: { user, project } };
   }
 </script>

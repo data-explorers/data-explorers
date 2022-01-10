@@ -1,21 +1,15 @@
 <script context="module">
   import settings from '$lib/data/settings.json';
 
-  export async function load({ page }) {
-    let user = settings.filter((user) => user.username === page.params.users)[0];
-    let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
-    let taxa;
+  export async function load({ params }) {
+    let user = settings.filter((user) => user.username === params.users)[0];
+    let project = user.projects.filter((project) => project.slug === params.projects)[0];
 
-    if (!project) {
-      taxa = [];
-      project = { tabs: [] };
-    } else {
-      let res = await import(`../../../../lib/data/${project.slug}/taxa.csv`);
-      taxa = res.default;
-      taxa = taxa.sort((a, b) => b.taxa_count - a.taxa_count);
-    }
+    let res = await import(`../../../../lib/data/${project.slug}/taxa.csv`);
+    let taxa = res.default;
+    taxa = taxa.sort((a, b) => b.taxa_count - a.taxa_count);
 
-    return { props: { project, taxa, user, pagePath: page.path } };
+    return { props: { project, taxa, user } };
   }
 </script>
 

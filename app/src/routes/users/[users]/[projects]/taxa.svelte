@@ -2,9 +2,9 @@
   import settings from '$lib/data/settings.json';
   import { base } from '$app/paths';
 
-  export async function load({ page }) {
-    let user = settings.filter((user) => user.username === page.params.users)[0];
-    let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
+  export async function load({ params }) {
+    let user = settings.filter((user) => user.username === params.users)[0];
+    let project = user.projects.filter((project) => project.slug === params.projects)[0];
     let taxa;
     let projectPath = `${base}/users/${user.username}/${project.slug}`;
 

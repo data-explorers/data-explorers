@@ -27,7 +27,7 @@
     {#each tabs as tab}
       <a
         class="tab tab-bordered"
-        class:tab-active={$page.path.split('/')[$page.path.split('/').length - 1] === tab.link}
+        class:tab-active={$page.url.pathname.split('/')[$page.url.pathname.split('/').length - 1] === tab.link}
         href={tab.slug}>{tab.label}</a
       >
     {/each}

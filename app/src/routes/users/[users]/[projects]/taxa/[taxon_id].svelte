@@ -6,26 +6,26 @@
 
   // TODO: description from wikipedia
 
-  export async function load({ page }) {
-    let taxaData = await import(`../../../../../lib/data/${page.params.projects}/taxa.csv`);
+  export async function load({ params }) {
+    let taxaData = await import(`../../../../../lib/data/${params.projects}/taxa.csv`);
     let taxa = formatRawTaxa(taxaData.default);
 
     // find taxon that has observations
-    let taxon = taxa.filter((taxon) => taxon.taxon_id == Number(page.params.taxon_id))[0] || {};
+    let taxon = taxa.filter((taxon) => taxon.taxon_id == Number(params.taxon_id))[0] || {};
 
     let observationData = await import(
-      `../../../../../lib/data/${page.params.projects}/observations.csv`
+      `../../../../../lib/data/${params.projects}/observations.csv`
     );
     let allObservations = formatRawObservations(observationData.default);
     let observations = allObservations
       .filter((o) => o.taxon_ids)
-      .filter((o) => o.taxon_ids.split('|').includes('' + page.params.taxon_id));
+      .filter((o) => o.taxon_ids.split('|').includes('' + params.taxon_id));
 
-    let user = settings.filter((user) => user.username === page.params.users)[0];
-    let project = user.projects.filter((project) => project.slug === page.params.projects)[0];
+    let user = settings.filter((user) => user.username === params.users)[0];
+    let project = user.projects.filter((project) => project.slug === params.projects)[0];
     let interactions = allInteractions
       .filter((i) => i.subject_taxon_id)
-      .filter((i) => i.subject_taxon_id == page.params.taxon_id);
+      .filter((i) => i.subject_taxon_id == params.taxon_id);
 
     let projectPath = `${base}/users/${user.username}/${project.slug}`;
 
