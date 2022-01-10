@@ -10,23 +10,22 @@
 
 		
 
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/start-6a0c6ef7.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/vendor-a1a75673.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/preload-helper-768eda0e.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/paths-28a87002.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/__layout.svelte-ac89a271.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/about.svelte-1f39e36d.js">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/start-464e9d0a.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/vendor-626d706b.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/pages/__layout.svelte-ffe7e412.css">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/start-d76a68d9.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/vendor-181e6373.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/preload-helper-768eda0e.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/paths-28a87002.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/__layout.svelte-4733dca0.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/about.svelte-48839858.js">
 
 		<script type="module">
-			import { start } from "/inaturalist_data_explorer/_app/start-6a0c6ef7.js";
+			import { start } from "/inaturalist_data_explorer/_app/start-d76a68d9.js";
 			start({
 				target: document.querySelector("#svelte"),
-				paths: {"base":"/inaturalist_data_explorer","assets":""},
+				paths: {"base":"/inaturalist_data_explorer","assets":"/inaturalist_data_explorer"},
 				session: {},
-				host: location.host,
 				route: true,
 				spa: false,
 				trailing_slash: "never",
@@ -34,15 +33,11 @@
 					status: 200,
 					error: null,
 					nodes: [
-						import("/inaturalist_data_explorer/_app/pages/__layout.svelte-ac89a271.js"),
-						import("/inaturalist_data_explorer/_app/pages/about.svelte-1f39e36d.js")
+						import("/inaturalist_data_explorer/_app/pages/__layout.svelte-4733dca0.js"),
+						import("/inaturalist_data_explorer/_app/pages/about.svelte-48839858.js")
 					],
-					page: {
-						host: location.host, // TODO this is redundant
-						path: "\u002Fabout",
-						query: new URLSearchParams(""),
-						params: {}
-					}
+					url: new URL("http://prerender/about"),
+					params: {}
 				}
 			});
 		</script>
@@ -66,10 +61,7 @@
 
 <footer class="mt-8 p-6 footer bg-neutral text-neutral-content"><div class="container mx-auto"><p>Copyright © 2021</p></div></footer>
 
-
-
-			
-		</div>
+</div>
     </body>
   </html>
 </html>

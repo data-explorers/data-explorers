@@ -10,31 +10,30 @@
 
 		
 
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/start-6a0c6ef7.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/vendor-a1a75673.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/preload-helper-768eda0e.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/paths-28a87002.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/__layout.svelte-ac89a271.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-ff8b90e6.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/settings-ef690396.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-d2cffed0.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/observation_data-2b3f5cba.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/formatUtils-77b182ad.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/constants-3d7024b8.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/mapUtils-e9636914.js">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/start-464e9d0a.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/vendor-626d706b.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/pages/__layout.svelte-ffe7e412.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-4fb33f57.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/observation_data-ce6973a6.css">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/start-d76a68d9.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/vendor-181e6373.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/preload-helper-768eda0e.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/paths-28a87002.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/__layout.svelte-4733dca0.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-6a8960ab.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/settings-ef690396.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-1416ea3a.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/observation_data-5a0f0216.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/formatUtils-77b182ad.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/constants-3d7024b8.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/mapUtils-e9636914.js">
 
 		<script type="module">
-			import { start } from "/inaturalist_data_explorer/_app/start-6a0c6ef7.js";
+			import { start } from "/inaturalist_data_explorer/_app/start-d76a68d9.js";
 			start({
 				target: document.querySelector("#svelte"),
-				paths: {"base":"/inaturalist_data_explorer","assets":""},
+				paths: {"base":"/inaturalist_data_explorer","assets":"/inaturalist_data_explorer"},
 				session: {},
-				host: location.host,
 				route: true,
 				spa: false,
 				trailing_slash: "never",
@@ -42,16 +41,12 @@
 					status: 200,
 					error: null,
 					nodes: [
-						import("/inaturalist_data_explorer/_app/pages/__layout.svelte-ac89a271.js"),
-						import("/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-ff8b90e6.js"),
-						import("/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-d2cffed0.js")
+						import("/inaturalist_data_explorer/_app/pages/__layout.svelte-4733dca0.js"),
+						import("/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-6a8960ab.js"),
+						import("/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-1416ea3a.js")
 					],
-					page: {
-						host: location.host, // TODO this is redundant
-						path: "\u002Fusers\u002Fmbarton\u002Flos-angeles-bioblitz\u002Ftaxa\u002F3901",
-						query: new URLSearchParams(""),
-						params: {users:"mbarton",projects:"los-angeles-bioblitz",taxon_id:"3901"}
-					}
+					url: new URL("http://prerender/users/mbarton/los-angeles-bioblitz/taxa/3901"),
+					params: {users:"mbarton",projects:"los-angeles-bioblitz",taxon_id:"3901"}
 				}
 			});
 		</script>
@@ -184,10 +179,7 @@
 
 <footer class="mt-8 p-6 footer bg-neutral text-neutral-content"><div class="container mx-auto"><p>Copyright © 2021</p></div></footer>
 
-
-
-			
-		</div>
+</div>
     </body>
   </html>
 </html>
