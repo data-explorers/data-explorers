@@ -19,9 +19,7 @@
 
     let taxaData = await import(`../../../../lib/data/${params.projects}/taxa.csv`);
     let taxa = formatRawTaxa(taxaData.default);
-    let observationData = await import(
-      `../../../../lib/data/${params.projects}/observations.csv`
-    );
+    let observationData = await import(`../../../../lib/data/${params.projects}/observations.csv`);
     let projectObservations = formatRawObservations(observationData.default);
 
     return { props: { project, user, currentTab, projectObservations, taxa, projectPath } };
