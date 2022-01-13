@@ -1,10 +1,10 @@
 {
   ".svelte-kit/build/runtime/internal/start.js": {
-    "file": "start-720cce2e.js",
+    "file": "start-67a2e66b.js",
     "src": ".svelte-kit/build/runtime/internal/start.js",
     "isEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_preload-helper-768eda0e.js",
       "_paths-28a87002.js"
     ],
@@ -24,78 +24,78 @@
       "src/routes/users/[users].svelte"
     ],
     "css": [
-      "assets/start-464e9d0a.css"
+      "assets/start-d5b4de3e.css"
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-4733dca0.js",
+    "file": "pages/__layout.svelte-1d9a409b.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_paths-28a87002.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-c094b381.css"
+      "assets/pages/__layout.svelte-8ba8fe65.css"
     ]
   },
   ".svelte-kit/build/components/error.svelte": {
-    "file": "error.svelte-491a146e.js",
+    "file": "error.svelte-e6815e6e.js",
     "src": ".svelte-kit/build/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js"
+      "_vendor-ac733917.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-47694496.js",
+    "file": "pages/index.svelte-b2dbfff8.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_settings-ef690396.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-48839858.js",
+    "file": "pages/about.svelte-5ae00f71.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js"
+      "_vendor-ac733917.js"
     ]
   },
   "src/routes/theme.svelte": {
-    "file": "pages/theme.svelte-a2b19eaa.js",
+    "file": "pages/theme.svelte-c7068206.js",
     "src": "src/routes/theme.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js"
+      "_vendor-ac733917.js"
     ]
   },
   "src/routes/users/[users]/__layout.svelte": {
-    "file": "pages/users/_users_/__layout.svelte-6a8960ab.js",
+    "file": "pages/users/_users_/__layout.svelte-0e7125a6.js",
     "src": "src/routes/users/[users]/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_settings-ef690396.js",
       "_paths-28a87002.js"
     ]
   },
   "src/routes/users/[users]/los-angeles-bioblitz/indicator-species.svelte": {
-    "file": "pages/users/_users_/los-angeles-bioblitz/indicator-species.svelte-01ecdb0e.js",
+    "file": "pages/users/_users_/los-angeles-bioblitz/indicator-species.svelte-116cabda.js",
     "src": "src/routes/users/[users]/los-angeles-bioblitz/indicator-species.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_paths-28a87002.js",
       "_formatUtils-77b182ad.js",
       "_settings-ef690396.js",
@@ -103,19 +103,19 @@
     ]
   },
   "src/routes/users/[users]/[projects]/explore-data.svelte": {
-    "file": "pages/users/_users_/_projects_/explore-data.svelte-1e07a97a.js",
+    "file": "pages/users/_users_/_projects_/explore-data.svelte-a06b007b.js",
     "src": "src/routes/users/[users]/[projects]/explore-data.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-768eda0e.js",
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_paths-28a87002.js",
-      "_observation_data-5a0f0216.js",
+      "_observation_data-90cf8ccf.js",
       "_settings-ef690396.js",
       "_mapUtils-e9636914.js",
       "_formatUtils-77b182ad.js",
-      "_bar_chart-3f1158c2.js",
+      "_bar_chart-bb2a7185.js",
       "_constants-3d7024b8.js"
     ],
     "dynamicImports": [
@@ -132,17 +132,17 @@
       "src/lib/components/explore_data_map.svelte"
     ],
     "css": [
-      "assets/pages/users/_users_/_projects_/explore-data.svelte-fcfe02ac.css"
+      "assets/pages/users/_users_/_projects_/explore-data.svelte-49df3b74.css"
     ]
   },
   "src/routes/users/[users]/[projects]/taxa-list.svelte": {
-    "file": "pages/users/_users_/_projects_/taxa-list.svelte-0c5d41d5.js",
+    "file": "pages/users/_users_/_projects_/taxa-list.svelte-7d9c988a.js",
     "src": "src/routes/users/[users]/[projects]/taxa-list.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-768eda0e.js",
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_settings-ef690396.js",
       "_formatUtils-77b182ad.js",
       "_paths-28a87002.js"
@@ -156,15 +156,15 @@
     ]
   },
   "src/routes/users/[users]/[projects]/taxa/[taxon_id].svelte": {
-    "file": "pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-1416ea3a.js",
+    "file": "pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-93de0785.js",
     "src": "src/routes/users/[users]/[projects]/taxa/[taxon_id].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-768eda0e.js",
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_paths-28a87002.js",
-      "_observation_data-5a0f0216.js",
+      "_observation_data-90cf8ccf.js",
       "_settings-ef690396.js",
       "_formatUtils-77b182ad.js",
       "_mapUtils-e9636914.js",
@@ -185,17 +185,17 @@
       "src/lib/components/taxa_map.svelte"
     ],
     "css": [
-      "assets/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-4fb33f57.css"
+      "assets/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-33959d23.css"
     ]
   },
   "src/routes/users/[users]/[projects]/taxa.svelte": {
-    "file": "pages/users/_users_/_projects_/taxa.svelte-eadf171b.js",
+    "file": "pages/users/_users_/_projects_/taxa.svelte-add47287.js",
     "src": "src/routes/users/[users]/[projects]/taxa.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-768eda0e.js",
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_paths-28a87002.js",
       "_settings-ef690396.js",
       "_formatUtils-77b182ad.js",
@@ -209,17 +209,17 @@
       "src/lib/data/los-angeles-bioblitz/taxa.csv"
     ],
     "css": [
-      "assets/pages/users/_users_/_projects_/taxa.svelte-f98e17b2.css"
+      "assets/pages/users/_users_/_projects_/taxa.svelte-947fb566.css"
     ]
   },
   "src/routes/users/[users]/[projects].svelte": {
-    "file": "pages/users/_users_/_projects_.svelte-e8ec07e9.js",
+    "file": "pages/users/_users_/_projects_.svelte-16315480.js",
     "src": "src/routes/users/[users]/[projects].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-768eda0e.js",
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_settings-ef690396.js"
     ],
     "dynamicImports": [
@@ -227,20 +227,20 @@
     ]
   },
   "src/routes/users/[users].svelte": {
-    "file": "pages/users/_users_.svelte-8ea141f2.js",
+    "file": "pages/users/_users_.svelte-3916ea89.js",
     "src": "src/routes/users/[users].svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_paths-28a87002.js",
       "_settings-ef690396.js"
     ]
   },
-  "_vendor-181e6373.js": {
-    "file": "chunks/vendor-181e6373.js",
+  "_vendor-ac733917.js": {
+    "file": "chunks/vendor-ac733917.js",
     "css": [
-      "assets/vendor-626d706b.css"
+      "assets/vendor-9877410d.css"
     ]
   },
   "_paths-28a87002.js": {
@@ -260,29 +260,29 @@
     "src": "src/lib/data/los-angeles-bioblitz/taxa.csv",
     "isDynamicEntry": true
   },
-  "_observation_data-5a0f0216.js": {
-    "file": "chunks/observation_data-5a0f0216.js",
+  "_observation_data-90cf8ccf.js": {
+    "file": "chunks/observation_data-90cf8ccf.js",
     "imports": [
       "_formatUtils-77b182ad.js",
       "_constants-3d7024b8.js",
-      "_vendor-181e6373.js"
+      "_vendor-ac733917.js"
     ],
     "css": [
-      "assets/observation_data-ce6973a6.css"
+      "assets/observation_data-f8b72239.css"
     ]
   },
   "_mapUtils-e9636914.js": {
     "file": "chunks/mapUtils-e9636914.js"
   },
-  "_bar_chart-3f1158c2.js": {
-    "file": "chunks/bar_chart-3f1158c2.js",
+  "_bar_chart-bb2a7185.js": {
+    "file": "chunks/bar_chart-bb2a7185.js",
     "imports": [
-      "_vendor-181e6373.js",
+      "_vendor-ac733917.js",
       "_mapUtils-e9636914.js",
-      "_observation_data-5a0f0216.js"
+      "_observation_data-90cf8ccf.js"
     ],
     "css": [
-      "assets/bar_chart-2f35fe1c.css"
+      "assets/bar_chart-e4e7a893.css"
     ]
   },
   "_constants-3d7024b8.js": {
@@ -334,92 +334,92 @@
     "isDynamicEntry": true
   },
   "src/lib/components/explore_data_map.svelte": {
-    "file": "chunks/explore_data_map-428a2267.js",
+    "file": "chunks/explore_data_map-95bead22.js",
     "src": "src/lib/components/explore_data_map.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
-      "_index-3e2e77ec.js",
+      "_vendor-ac733917.js",
+      "_index-0ee43062.js",
       "_mapUtils-e9636914.js",
-      "_observation_data-5a0f0216.js",
-      "_map_toggle_marker_type_button-05cd7001.js",
-      "_TileLayer-4665cb09.js",
-      "_CircleMarker-ae9b1e84.js",
+      "_observation_data-90cf8ccf.js",
+      "_map_toggle_marker_type_button-8e34cd5a.js",
+      "_TileLayer-dc3005ae.js",
+      "_CircleMarker-a705a7f9.js",
       "_formatUtils-77b182ad.js",
       "_constants-3d7024b8.js"
     ]
   },
-  "_index-3e2e77ec.js": {
-    "file": "chunks/index-3e2e77ec.js",
+  "_index-0ee43062.js": {
+    "file": "chunks/index-0ee43062.js",
     "imports": [
-      "_vendor-181e6373.js"
+      "_vendor-ac733917.js"
     ],
     "css": [
-      "assets/index-655e5209.css"
+      "assets/index-a02ee4b4.css"
     ]
   },
-  "_map_toggle_marker_type_button-05cd7001.js": {
-    "file": "chunks/map_toggle_marker_type_button-05cd7001.js",
+  "_map_toggle_marker_type_button-8e34cd5a.js": {
+    "file": "chunks/map_toggle_marker_type_button-8e34cd5a.js",
     "imports": [
-      "_vendor-181e6373.js",
-      "_index-3e2e77ec.js",
+      "_vendor-ac733917.js",
+      "_index-0ee43062.js",
       "_mapUtils-e9636914.js"
     ]
   },
-  "_TileLayer-4665cb09.js": {
-    "file": "chunks/TileLayer-4665cb09.js",
+  "_TileLayer-dc3005ae.js": {
+    "file": "chunks/TileLayer-dc3005ae.js",
     "imports": [
-      "_vendor-181e6373.js",
-      "_index-3e2e77ec.js"
+      "_vendor-ac733917.js",
+      "_index-0ee43062.js"
     ]
   },
-  "_CircleMarker-ae9b1e84.js": {
-    "file": "chunks/CircleMarker-ae9b1e84.js",
+  "_CircleMarker-a705a7f9.js": {
+    "file": "chunks/CircleMarker-a705a7f9.js",
     "imports": [
-      "_vendor-181e6373.js",
-      "_index-3e2e77ec.js"
+      "_vendor-ac733917.js",
+      "_index-0ee43062.js"
     ]
   },
   "src/lib/components/taxa_map.svelte": {
-    "file": "chunks/taxa_map-2425a26c.js",
+    "file": "chunks/taxa_map-0567a130.js",
     "src": "src/lib/components/taxa_map.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
-      "_index-3e2e77ec.js",
+      "_vendor-ac733917.js",
+      "_index-0ee43062.js",
       "_mapUtils-e9636914.js",
-      "_observation_data-5a0f0216.js",
-      "_bar_chart-3f1158c2.js",
-      "_map_toggle_marker_type_button-05cd7001.js",
-      "_CircleMarker-ae9b1e84.js",
+      "_observation_data-90cf8ccf.js",
+      "_bar_chart-bb2a7185.js",
+      "_map_toggle_marker_type_button-8e34cd5a.js",
+      "_CircleMarker-a705a7f9.js",
       "_formatUtils-77b182ad.js",
       "_constants-3d7024b8.js"
     ],
     "css": [
-      "assets/taxa_map-6227b7ea.css"
+      "assets/taxa_map-2926e294.css"
     ]
   },
   "src/lib/components/taxa_range_map.svelte": {
-    "file": "chunks/taxa_range_map-36d901ad.js",
+    "file": "chunks/taxa_range_map-e5daf554.js",
     "src": "src/lib/components/taxa_range_map.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
-      "_index-3e2e77ec.js",
+      "_vendor-ac733917.js",
+      "_index-0ee43062.js",
       "_mapUtils-e9636914.js",
-      "_TileLayer-4665cb09.js",
-      "_CircleMarker-ae9b1e84.js"
+      "_TileLayer-dc3005ae.js",
+      "_CircleMarker-a705a7f9.js"
     ]
   },
   "src/lib/components/project_map.svelte": {
-    "file": "chunks/project_map-635a2bbe.js",
+    "file": "chunks/project_map-6ed57c32.js",
     "src": "src/lib/components/project_map.svelte",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-181e6373.js",
-      "_index-3e2e77ec.js",
+      "_vendor-ac733917.js",
+      "_index-0ee43062.js",
       "_mapUtils-e9636914.js",
-      "_TileLayer-4665cb09.js"
+      "_TileLayer-dc3005ae.js"
     ]
   }
 }
