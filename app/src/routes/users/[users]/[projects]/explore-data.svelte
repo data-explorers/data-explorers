@@ -171,7 +171,6 @@
   let speciesDisplayCount = 0;
   let speciesList = [];
   let showSpeciesList = false;
-  let showSpeciesListIcon = false;
   let mapCenter = {};
   let chartSelector = '#ed-chart';
   let syncMapAndCharts = false;
@@ -500,7 +499,6 @@
     speciesCount = e.detail.speciesCount;
     speciesDisplayCount = e.detail.speciesDisplayCount;
     speciesList = e.detail.speciesList;
-    showSpeciesListIcon = e.detail.showSpeciesListIcon;
     let obs = e.detail.observationsOnMap;
 
     if (!Array.isArray(obs)) {
@@ -516,10 +514,6 @@
   function changeObservation(e) {
     showObservationHighlight = true;
     observationHighlight = observations[e.detail.observation_id];
-  }
-
-  function toggleSpeciesList() {
-    showSpeciesList = !showSpeciesList;
   }
 
   // =====================
@@ -654,17 +648,6 @@
           <div class="stat-title">Species on map</div>
           <div class="stat-value">
             {speciesDisplayCount}
-            {#if showSpeciesListIcon}
-              {#if showSpeciesList}
-                <span use:tooltip title="click hide to species list" on:click={toggleSpeciesList}
-                  ><InfoIcon /></span
-                >
-              {:else}
-                <span use:tooltip title="click show to species list" on:click={toggleSpeciesList}
-                  ><InfoIcon /></span
-                >
-              {/if}
-            {/if}
           </div>
         </div>
       </div>
@@ -721,6 +704,21 @@
 
       <div class="px-3">
         <!-- species list -->
+        {#if taxaHistory.length > 0}
+          <label class="cursor-pointer mt-2 mr-3 inline-block">
+            <input type="checkbox" bind:checked={syncMapAndCharts} />
+            <span>Update charts as map changes</span>
+          </label>
+        {/if}
+
+        {#if taxaHistory.length > 0}
+          <label class="cursor-pointer mt-2 inline-block">
+            <input type="checkbox" bind:checked={showSpeciesList} />
+            <span>Show species list</span>
+          </label>
+        {/if}
+        <br />
+
         <section>
           <MapSpeciesList {showSpeciesList} {speciesList} />
         </section>
@@ -740,12 +738,9 @@
         <!-- charts -->
 
         {#if taxaHistory.length > 0}
-          <label class="cursor-pointer mt-2 inline-block">
-            <input type="checkbox" bind:checked={syncMapAndCharts} />
-            <span>Update charts as map changes</span>
-          </label>
           <div id="ed-chart" class="w-full mt-4" />
         {/if}
+
         {#if showClimate}
           <h3 class="text-center">Temperature and Preciptation</h3>
 

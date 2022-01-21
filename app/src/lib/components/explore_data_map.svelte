@@ -33,7 +33,7 @@
   export let speciesCount;
   export let speciesDisplayCount;
   export let speciesList;
-  export let showSpeciesListIcon;
+  export let showSpeciesListInput;
 
   let leafletMap;
   let map;
@@ -75,7 +75,6 @@
       speciesCount = countSpecies(observationsSelected);
       speciesList = getSpecies(observationsOnMap);
       speciesDisplayCount = speciesList.length;
-      showSpeciesListIcon = speciesList.length > 0;
 
       dispatch('updateStats', {
         observationsSelectedCount,
@@ -83,7 +82,6 @@
         speciesCount,
         speciesDisplayCount,
         speciesList,
-        showSpeciesListIcon,
         observationsOnMap
       });
 

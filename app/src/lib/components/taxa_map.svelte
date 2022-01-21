@@ -100,7 +100,7 @@
       speciesCount = countSpecies(observationsSelected);
       speciesList = getSpecies(observationsOnMap);
       speciesDisplayCount = speciesList.length;
-      showSpeciesListIcon =
+      showSpeciesListInput =
         speciesList.length > 1 ||
         (speciesList.length == 1 && speciesList[0]['taxon_id'] !== taxon.taxon_id);
 
@@ -207,7 +207,7 @@
   let speciesDisplayCount = 0;
   let showSpeciesList = false;
   let speciesList = [];
-  let showSpeciesListIcon = false;
+  let showSpeciesListInput = false;
   let syncMapAndCharts = false;
 
   // ===================
@@ -263,10 +263,6 @@
     // make rectangles change size as zoom changes
     rectangleLatitude = rectangleLatitudeZoom(zoomLevel);
     rectangleLongitude = rectangleLongitudeZoom(zoomLevel);
-  }
-
-  function toggleSpeciesList() {
-    showSpeciesList = !showSpeciesList;
   }
 
   // =====================
@@ -364,17 +360,6 @@
     <div class="stat-title">Species on map</div>
     <div class="stat-value">
       {speciesDisplayCount}
-      {#if showSpeciesListIcon}
-        {#if showSpeciesList}
-          <span use:tooltip title="click hide to species list" on:click={toggleSpeciesList}
-            ><InfoIcon /></span
-          >
-        {:else}
-          <span use:tooltip title="click show to species list" on:click={toggleSpeciesList}
-            ><InfoIcon /></span
-          >
-        {/if}
-      {/if}
     </div>
   </div>
 </div>
@@ -459,6 +444,20 @@
     <ScaleControl bind:this={scaleControl} position="bottomleft" options={scaleControlOptions} />
   </LeafletMap>
 </div>
+
+<label class="cursor-pointer mt-2 mr-3 inline-block">
+  <input type="checkbox" bind:checked={syncMapAndCharts} />
+  <span>Update charts as map changes</span>
+</label>
+
+{#if showSpeciesListInput}
+  <label class="cursor-pointer mt-2 inline-block">
+    <input type="checkbox" bind:checked={showSpeciesList} />
+    <span>Show species list</span>
+  </label>
+{/if}
+<br />
+
 <MapSpeciesList {showSpeciesList} {speciesList} />
 
 <!-- map legend -->
@@ -471,10 +470,6 @@
   activeTaxaCount={1}
 />
 
-<label class="cursor-pointer mt-2 inline-block">
-  <input type="checkbox" bind:checked={syncMapAndCharts} />
-  <span>Update charts as map changes</span>
-</label>
 <div id="observations-chart" class="w-full mt-4" />
 
 <style>
