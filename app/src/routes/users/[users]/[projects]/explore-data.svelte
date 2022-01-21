@@ -302,8 +302,7 @@
 
     // update time span filters
     if (mapOptions.observationsTimeSpan !== 'all') {
-      // when adding new taxa, keep existing time span filters as is, and set
-      // new ones to true
+      // keep existing time span filters as is, and set new ones to true
       groupedObservations.forEach(
         (v, k) =>
           (timeSpanHistory[k] = timeSpanHistory[k] !== undefined ? timeSpanHistory[k] : true)
@@ -367,6 +366,14 @@
     groupedObservations = updateGroupObservations();
     logObservations('removeTaxon');
 
+    // update filters
+    // delete filters for time spans that no longer exist
+    Object.keys(timeSpanHistory).forEach((k) => {
+      if (!groupedObservations.has(Number(k))) {
+        delete timeSpanHistory[k];
+      }
+    });
+
     loading = false;
   }
 
@@ -413,6 +420,21 @@
 
     // update observations
     groupedObservations = updateGroupObservations();
+
+    // update filters
+    // delete filters for time spans that no longer exist
+    if (mapOptions.observationsTimeSpan !== 'all') {
+      Object.keys(timeSpanHistory).forEach((k) => {
+        if (!groupedObservations.has(Number(k))) {
+          delete timeSpanHistory[k];
+        }
+      });
+      // keep existing time span filters as is, and set new ones to true
+      groupedObservations.forEach((v, k) => {
+        timeSpanHistory[k] = timeSpanHistory[k] !== undefined ? timeSpanHistory[k] : true;
+      });
+    }
+
     logObservations('toggleTaxon');
 
     loading = false;
