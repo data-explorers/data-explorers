@@ -16,7 +16,7 @@
   let mapOptions = {
     latitude: project.latitude,
     longitude: project.longitude,
-    zoom: 3,
+    zoom: project.projectZoom,
     center: [project.latitude || 0, project.longitude || 0]
   };
 
