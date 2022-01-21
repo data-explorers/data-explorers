@@ -12,7 +12,7 @@ def fetchGlobi(taxon_name, interaction):
     if response.status_code == 200:
         json_data = response.json()
         if len(json_data['data']) > 0:
-            return json_data['data'][0][2]
+            return { json_data['data'][0][2] }
 
             
 def fetchiNat(taxon_name):
