@@ -560,7 +560,7 @@
                 bind:selectedItem={item}
               />
             </div>
-            {#if taxaHistory.length > 5}
+            {#if taxaHistory.length > 3}
               <span class="btn btn-sm btn-outline mb-4 " on:click={resetTaxa}>Delete all</span>
             {/if}
 
