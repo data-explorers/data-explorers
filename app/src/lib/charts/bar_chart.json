@@ -23,7 +23,7 @@
     "x": {
       "field": "xValue",
       "type": "nominal",
-      "axis": { "labelAngle": 0, "labelLimit": 0 },
+      "axis": { "labelAngle": 0, "labelLimit": 0, "labelOverlap": true },
       "title": null,
       "sort": null
     },
