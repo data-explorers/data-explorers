@@ -1,3 +1,7 @@
+import time
+import numpy as np
+import requests
+
 def fetchGlobi(taxon_name, interaction):
     time.sleep(0.25)
     apiBase = 'https://api.globalbioticinteractions.org/taxon'
@@ -76,58 +80,22 @@ def formatInteractions(taxa_df, row, interaction, interactionLimit = 3):
         else:
             not_found_names.append(name)
             
-    # if Globi taxon name isn't in taxa dataframe, look up taxon name in iNat api
     for name in not_found_names:
-        if name in search_cache:
+        if count < interactionLimit:
             interaction_results = {
                 'subject_taxon_id': row['taxon_id'],
                 'subject_common_name': row['common_name'],
                 'subject_scientific_name': row['scientific_name'],
 
                 'target_scientific_name': name, 
-                'target_common_name': search_cache[name]['common_name'],
-                'target_taxon_id': search_cache[name]['taxon_id'],
+                'target_common_name': np.nan,
+                'target_taxon_id': np.nan,
                 'interaction': interaction,
             }
             interactions.append(interaction_results)
+
             count += 1
             
-        elif count < interactionLimit:
-            search_results = None
-            search_results = fetchiNat(name)
-            if search_results:
-                interaction_results = {
-                    'subject_taxon_id': row['taxon_id'],
-                    'subject_common_name': row['common_name'],
-                    'subject_scientific_name': row['scientific_name'],
-                    
-                    'target_scientific_name': name, 
-                    'target_common_name': search_results['common_name'],
-                    'target_taxon_id': search_results['taxon_id'],
-                    'interaction': interaction,
-                }
-                interactions.append(interaction_results)
-                
-                search_cache[name] = {
-                    "target_taxon_id": search_results['taxon_id'], 
-                    'target_common_name': search_results['common_name'],
-                    'target_scientific_name': name, 
-                }
-                count += 1
-            else:
-                interaction_results = {
-                    'subject_taxon_id': row['taxon_id'],
-                    'subject_common_name': row['common_name'],
-                    'subject_scientific_name': row['scientific_name'],
-                    
-                    'target_scientific_name': name, 
-                    'target_common_name': np.nan,
-                    'target_taxon_id': np.nan,
-                    'interaction': interaction,
-                }
-                interactions.append(interaction_results)
-                
-                count += 1
     return interactions
 
     
