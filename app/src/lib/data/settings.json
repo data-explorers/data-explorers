@@ -23,7 +23,6 @@
         "observed_months": [5, 6, 7],
         "observed_years": [2021, 2021],
         "country": "USA",
-        "clusterZoomLimit": 13,
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/l-a-bioblitz-challenge",
@@ -98,7 +97,6 @@
         "observed_months": [4, 5, 10],
         "observed_years": [2015, 2021],
         "country": "USA",
-        "clusterZoomLimit": 16,
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/user/lgertzer",
@@ -171,7 +169,6 @@
         "observed_months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
         "observed_years": [2011, 2021],
         "country": "PER",
-        "clusterZoomLimit": 10,
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/murcielagos-en-mi-ciudad",
@@ -237,7 +234,6 @@
         "observed_months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
         "observed_years": [2011, 2021],
         "country": "PER",
-        "clusterZoomLimit": 10,
         "links": [
           {
             "url": "https://www.inaturalist.org/projects/abejas-en-mi-ciudad-lima",
@@ -306,7 +302,6 @@
         "observed_months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
         "observed_years": [2012, 2021],
         "country": "USA",
-        "clusterZoomLimit": 15,
         "links": [
           {
             "url": "https://www.cedarcreek.umn.edu",
@@ -314,6 +309,79 @@
           },
           {
             "url": "https://www.inaturalist.org/projects/biodiversity-of-cedar-creek",
+            "text": "iNaturalist Project"
+          }
+        ],
+        "tabs_project": [
+          {
+            "label": "About",
+            "component": "AboutProject",
+            "value": 0,
+            "link": ""
+          },
+          {
+            "label": "Species",
+            "component": "TaxaGrid",
+            "value": 1,
+            "link": "taxa"
+          },
+          {
+            "label": "Explore Data",
+            "component": "ExploreData",
+            "value": 2,
+            "link": "explore-data"
+          }
+        ],
+        "tabs_taxa": [
+          {
+            "label": "About",
+            "component": "TaxaAbout",
+            "value": 0
+          },
+          {
+            "label": "Images",
+            "component": "TaxaImages",
+            "value": 1
+          }
+        ],
+        "observations_count": 3807,
+        "observers_count": 290,
+        "taxa_count": 709,
+        "species_count": 709
+      }
+    ]
+  },
+  {
+    "username": "rhelm",
+    "card_title": "Global Ocean Surface Ecosystem Alliance (GO-SEA)",
+    "card_summary": "Ut officia ut nostrud amet deserunt non voluptate.",
+    "image": "https://picsum.photos/id/1061",
+    "projects": [
+      {
+        "id": 6,
+        "title": "Global Ocean Surface Ecosystem Alliance (GO-SEA)",
+        "summary": "Ut officia ut nostrud amet deserunt non voluptate.",
+        "slug": "go-sea",
+        "location": "Oceans",
+        "start_date": "2021",
+        "target_audience": "General public",
+        "image": "https://picsum.photos/id/1061",
+        "description": "<p>Voluptate laboris dolor id cupidatat id sint in nostrud exercitation consectetur. Voluptate adipisicing consectetur sint proident cillum amet incididunt proident dolore. Lorem non Lorem ullamco eiusmod. Mollit est officia sint reprehenderit aliquip magna veniam consectetur duis elit sunt irure proident deserunt. Sunt in aliqua tempor velit aliquip consectetur magna veniam tempor consequat pariatur minim eiusmod. Voluptate aliqua excepteur veniam id ad pariatur sint incididunt voluptate et ut. Cupidatat aliqua eu laborum ex labore ex.</p><p>Occaecat anim consequat tempor exercitation elit. Proident eiusmod dolor sit Lorem amet qui. Aliquip voluptate in aliquip non veniam aute. Cillum irure duis consequat deserunt incididunt duis. Enim sunt consectetur laboris occaecat exercitation enim.</p>",
+        "latitude": 30,
+        "longitude": -40,
+        "zoom": 1,
+        "projectZoom": 0,
+        "observations_time_span": "month",
+        "observed_months": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+        "observed_years": [2000, 2021],
+        "country": "",
+        "links": [
+          {
+            "url": "https://goseascience.org",
+            "text": "Global Ocean Surface Ecosystem Alliance (GO-SEA)"
+          },
+          {
+            "url": "https://www.inaturalist.org/projects/go-sea",
             "text": "iNaturalist Project"
           }
         ],
