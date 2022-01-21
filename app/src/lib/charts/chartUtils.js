@@ -89,7 +89,13 @@ function addMissingTimePeriods(
   });
 }
 
-export function setupExploreDataAllChart(spec, inactiveOpacity, taxaHistory, observations) {
+export function setupExploreDataAllChart(
+  spec,
+  inactiveOpacity,
+  taxaHistory,
+  observations,
+  project
+) {
   let ids = observations.map((o) => o.id);
   let chartData = taxaHistory.map((t) => {
     return {
@@ -101,6 +107,12 @@ export function setupExploreDataAllChart(spec, inactiveOpacity, taxaHistory, obs
       opacity: t.active ? 1 : inactiveOpacity
     };
   });
+
+  let years = project.observed_years;
+
+  if (years[1] - years[0] > 13) {
+    spec.config.facet.columns = 1;
+  }
 
   spec['data']['values'] = chartData;
   spec['height'] = 200;

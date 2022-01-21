@@ -83,7 +83,8 @@
         barChartSpec,
         inactiveOpacity,
         taxaHistory,
-        chartObservations
+        chartObservations,
+        project
       );
     } else if (mapOptions.observationsTimeSpan == 'month') {
       spec = setupExploreDataMonthChart(
@@ -116,7 +117,8 @@
         barChartSpec,
         inactiveOpacity,
         taxaHistory,
-        chartObservations
+        chartObservations,
+        project
       );
     } else if (mapOptions.observationsTimeSpan == 'month') {
       spec = setupExploreDataMonthChart(
@@ -455,7 +457,7 @@
   function selectTimeSpanHandler() {
     loading = true;
     let tmpObservations = sortObservations(
-      Object.values(observations),
+      Object.values(observations).filter((o) => activeObservationsIds.has(o.id)),
       orderByValue,
       mapOptions.observationsTimeSpan
     );
