@@ -45,7 +45,7 @@
     </div>
   </div>
 
-  <ul class="text-sm submenu bg-gray-100 grid grid-cols-3">
+  <ul class="text-sm submenu bg-gray-100 grid grid-cols-3" class:active={taxon.active}>
     <li on:click={() => (showMore = !showMore)}>
       {#if showMore}Less{:else}More{/if} info
     </li>
@@ -121,11 +121,16 @@
 
   .image-card-side,
   .card-more-content {
-    opacity: 0.5;
+    opacity: 0.3;
+  }
+
+  .submenu {
+    opacity: 0.6;
   }
 
   .image-card-side.active,
-  .card-more-content.active {
+  .card-more-content.active,
+  .submenu.active {
     opacity: 1;
   }
 
