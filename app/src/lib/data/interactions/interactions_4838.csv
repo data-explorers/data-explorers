@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4838,47426,Tonicella,,eats
+4838,48919,Littorina,Periwinkles,eats
+4838,48921,Hydrozoa,Hydrozoans,eats
+4838,48752,Lottia,Lottia Limpets,eats
+4838,81610,Balanus glandula,Pacific Acorn Barnacle,eats
+4838,53830,Trochidae,Top Snails,eats
+4838,63243,Lottia pelta,Shield Limpet,eats
+4838,47630,Mopalia,,eats
+4838,47676,Acmaea mitra,Whitecap Limpet,eats
+4838,62807,Mytilus,Black Mussels,eats
+4838,49581,Nereididae,,eats
+4838,429195,Nucella emarginata,Emarginate Dogwinkle,eats
+4838,81644,Crepidula,Typical Slippersnails,eats
+4838,47115,Mollusca,Molluscs,eats
+4838,62806,Mytilus californianus,California Mussel,eats
+4838,64148,Diodora aspera,Rough Keyhole Limpet,eats
+4838,129860,Lottia fenestrata,Chocolate Limpet,eats
+4838,,Tectura persona,,eats
+4838,,Strongylocentrotus franciscanus,,eats
+4838,117641,Nucella lamellosa,Wrinkled Purple,eats
+4838,83329,Buccinidae,True Whelks,eats
+4838,51280,Nemertea,Ribbon Worms,eats
+4838,,Protothaca staminea,,eats
+4838,69998,Nucella canaliculata,Channeled Dog Winkle,eats
+4838,,Leptasterias,,eats
+4838,,Tectura scutum,,eats
+4838,117613,Saxidomus,,eats
+4838,,Synisoma,,eats
+4838,69872,Phascolosoma,,eats
+4838,47632,Katharina tunicata,Black Leather Chiton,eats
+4838,117571,Clupea pallasii,Pacific herring,eats
+4838,,Palaeoheterodonta,,eats
+4838,,Collisella digitalis,,eats
+4838,,Thais emarginata,,eats
+4838,,Notoacmea scutum,,eats
+4838,,Lottia strigatella,,eats
+4838,,Notoacmea persona,,eats
+4838,,Collisella pelta,,eats
+4838,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4838,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4838,8010,Corvus corax,Common Raven,eatenBy
+4838,605992,Magallana gigas,Pacific Oyster,preysOn

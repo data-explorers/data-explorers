@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54134,47561,Pinus,pines,eats
+54134,136329,Pinopsida,conifers,eats
+54134,63573,Picea,spruces,eats
+54134,,Broadleaved trees and shrubs,,eats
+54134,,Magnoliophyta,,eats
+54134,,Betula pendula,,eats
+54134,,Triaxomera parasitella,,eatenBy
+54134,,Nemaxera betulinella,,eatenBy
+54134,,Badhamia utricularis,,eatenBy
+54134,,Nectria peziza,,eatenBy
+54134,,Clitopilus hobsonii,,eatenBy
+54134,,Entoloma parasiticum,,eatenBy

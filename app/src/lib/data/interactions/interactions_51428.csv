@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51428,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+51428,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eatenBy
+51428,81606,Littorina littorea,Common Periwinkle,eatenBy
+51428,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+51428,709642,Athyonidium chilensis,,eatenBy
+51428,132531,Archosargus rhomboidalis,Western Atlantic Seabream,eatenBy
+51428,84097,Siganus,Rabbitfishes,eatenBy
+51428,,Scartichthys viridis,,eatenBy
+51428,99535,Dormitator latifrons,Pacific Fat Sleeper,eatenBy
+51428,55533,Chanos chanos,Milkfish,eatenBy
+51428,,Liza alata,,eatenBy
+51428,121196,Acanthurus coeruleus,Atlantic Blue Tang,eatenBy
+51428,1032318,Acanthurus bahianus,Brazilian Ocean Surgeonfish,eatenBy
+51428,121195,Acanthurus chirurgus,Doctorfish,eatenBy
+51428,445800,Clinus cottoides,bluntnose klipfish,eatenBy
+51428,,Nodolittorina tuberculata - Littorina sp.,,eatenBy
+51428,49514,Acanthopleura granulata,West Indian Fuzzy Chiton,eatenBy
+51428,517492,Fissurella barbadensis,,eatenBy
+51428,122127,Tripneustes gratilla,Collector Urchin,eatenBy
+51428,56653,Haliotis fulgens,Green Abalone,eatenBy
+51428,470530,Chiton granosus,,eatenBy
+51428,,fissurella  puhlcra,,eatenBy
+51428,470139,Scurria zebrina,,eatenBy
+51428,,tonicia  elegans,,eatenBy
+51428,,chiton  latus,,eatenBy
+51428,328837,Fissurella crassa,Thick keyhole limpet,eatenBy
+51428,328874,Acanthopleura echinata,,eatenBy
+51428,824877,Scurria ceciliana,,eatenBy
+51428,,Lottia orbigny,,eatenBy
+51428,524126,Chaetopleura peruviana,,eatenBy
+51428,,fissurella  cummingii,,eatenBy
+51428,,fissurella  limbata,,eatenBy
+51428,,chiton  cummingii,,eatenBy
+51428,,scurria  araucana,,eatenBy
+51428,470504,Tegula atra,Smooth Black Tegula,eatenBy
+51428,784430,Scurria viridula,,eatenBy
+51428,519446,Scurria variabilis,,eatenBy
+51428,560189,Scurria plana,,eatenBy
+51428,603066,Tonicia chilensis,Variable Tonicia,eatenBy
+51428,603053,Scurria scurra,,eatenBy
+51428,,tonicia  benaventii,,eatenBy
+51428,524299,Fissurella costata,,eatenBy
+51428,,enoplochiton  niger,,eatenBy
+51428,,siphonaria lesoni,,eatenBy
+51428,819515,Fissurella picta,,eatenBy
+51428,630756,Fissurella maxima,,eatenBy
+51428,1276450,Trimusculus peruvianus,,eatenBy
+51428,7113,Chloephaga hybrida,Kelp Goose,eatenBy
+51428,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preyedUponBy
+51428,48919,Littorina,Periwinkles,preyedUponBy
+51428,972913,Lottia leucopleura,,preyedUponBy
+51428,49514,Acanthopleura granulata,West Indian Fuzzy Chiton,preyedUponBy
+51428,517492,Fissurella barbadensis,,preyedUponBy
+51428,,Nodolittorina tuberculata,,preyedUponBy

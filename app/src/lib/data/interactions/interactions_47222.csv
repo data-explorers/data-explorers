@@ -1,0 +1,201 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47222,576512,Paragenipa,,eats
+47222,,Memecylon elaeagni,,eats
+47222,365690,Nephrosperma van-houtteanum,,eats
+47222,,Erythroxlum sechellarum,,eats
+47222,,Dillenia,,eats
+47222,365729,Phoenicophorium borsigianum,,eats
+47222,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+47222,121308,Stagmomantis limbata,Arizona Mantis,eatenBy
+47222,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+47222,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+47222,16833,Myiozetetes cayanensis,Rusty-margined Flycatcher,eatenBy
+47222,16842,Myiozetetes similis,Social Flycatcher,eatenBy
+47222,,Bryconamericus alpha,,eatenBy
+47222,,Laphria thoracica,,eatenBy
+47222,,Misumenoides formosipes,,eatenBy
+47222,,Phymata pacifica,,eatenBy
+47222,59281,Thomisus onustus,Pink Crab Spider,eatenBy
+47222,245656,Synema globosum,Napoleon Spider,eatenBy
+47222,,Cerceris rybyensis,,eatenBy
+47222,,Apiomerus californicus,,eatenBy
+47222,153441,Symphyotrichum cordifolium,Common Blue Wood Aster,pollinates
+47222,50278,Parthenocissus quinquefolia,Virginia creeper,pollinates
+47222,53582,Liriodendron tulipifera,tulip tree,pollinates
+47222,116735,Rudbeckia laciniata,cutleaf coneflower,pollinates
+47222,47544,Rubus,brambles,pollinates
+47222,51044,Sanguinaria canadensis,bloodroot,pollinates
+47222,54834,Prunus serotina,black cherry,pollinates
+47222,136376,Rudbeckia triloba,brown-eyed Susan,pollinates
+47222,81705,Phlox divaricata,blue phlox,pollinates
+47222,75598,Artemisia tridentata,Big Sagebrush,pollinates
+47222,58738,Rhus aromatica,fragrant sumac,pollinates
+47222,47130,Ribes,currants and gooseberries,pollinates
+47222,47902,Opuntia,Prickly Pears,pollinates
+47222,57934,Ericameria nauseosa,Rubber Rabbitbrush,pollinates
+47222,49339,Encelia farinosa,brittlebush,pollinates
+47222,50812,Scrophularia californica,California beeplant,pollinates
+47222,50320,Lathyrus vestitus,Pacific pea,pollinates
+47222,53359,Baccharis pilularis,coyote brush,pollinates
+47222,53405,Heteromeles arbutifolia,Toyon,pollinates
+47222,52764,Prunella vulgaris,common selfheal,pollinates
+47222,85320,Monarda fistulosa,wild bergamot,pollinates
+47222,83799,Mitchella repens,partridgeberry,pollinates
+47222,61119,Ilex verticillata,winterberry holly,pollinates
+47222,126655,Eurybia macrophylla,large-leaved aster,pollinates
+47222,55402,Trillium grandiflorum,large white trillium,pollinates
+47222,56224,Caltha palustris,marsh marigold,pollinates
+47222,67983,Diervilla lonicera,northern bush honeysuckle,pollinates
+47222,81528,Lupinus perennis,sundial lupine,pollinates
+47222,51062,Maianthemum racemosum,Solomon's plume,pollinates
+47222,62376,Gaultheria procumbens,Eastern Teaberry,pollinates
+47222,132767,Chamaedaphne calyculata,leatherleaf,pollinates
+47222,125381,Asclepias incarnata,swamp milkweed,pollinates
+47222,64538,Celastrus scandens,American bittersweet,pollinates
+47222,126823,Spiraea alba,white meadowsweet,pollinates
+47222,49868,Aquilegia canadensis,red columbine,pollinates
+47222,82316,Chelone glabra,white turtlehead,pollinates
+47222,128942,Silene stellata,starry campion,pollinates
+47222,81942,Penstemon digitalis,foxglove beardtongue,pollinates
+47222,49226,Amelanchier arborea,common serviceberry,pollinates
+47222,224007,Lithospermum caroliniense,hairy puccoon,pollinates
+47222,81598,Dalea candida,white prairie clover,pollinates
+47222,126654,Symphyotrichum ericoides,white heath aster,pollinates
+47222,161660,Delphinium carolinianum,Wild Blue Larkspur,pollinates
+47222,62292,Asclepias speciosa,showy milkweed,pollinates
+47222,63319,Verbena stricta,hoary vervain,pollinates
+47222,47912,Asclepias tuberosa,butterfly milkweed,pollinates
+47222,158286,Amorpha canescens,leadplant,pollinates
+47222,54762,Acer saccharinum,silver maple,pollinates
+47222,53921,Mentzelia,Blazingstars,pollinates
+47222,47351,Prunus,"plums, cherries, and allies",pollinates
+47222,130376,Solidago speciosa,showy goldenrod,pollinates
+47222,63547,Dalea purpurea,purple prairie clover,pollinates
+47222,58728,Berberis,Barberries,pollinates
+47222,49230,Amelanchier,serviceberries,pollinates
+47222,58333,Lycium,boxthorns,pollinates
+47222,58803,Brickellia californica,California Brickellbush,pollinates
+47222,47452,Acacia,wattles,pollinates
+47222,54811,Rhamnus cathartica,common buckthorn,pollinates
+47222,51876,Trifolium,clovers,pollinates
+47222,52348,Senna,sennas,pollinates
+47222,49917,Sisyrinchium,blue-eyed grasses,pollinates
+47222,47121,Lupinus,lupines,pollinates
+47222,79109,Silene latifolia,white campion,pollinates
+47222,56036,Kniphofia,Pokers,pollinates
+47222,49674,Ceanothus,,pollinates
+47222,75762,Berteroa incana,hoary alyssum,pollinates
+47222,54999,Eriogonum fasciculatum,California buckwheat,pollinates
+47222,62312,Campanula rotundifolia,Harebell,pollinates
+47222,48353,Vaccinium,"blueberries, cranberries, and allies",pollinates
+47222,78174,Nasturtium officinale,watercress,pollinates
+47222,48225,Eschscholzia californica,California poppy,pollinates
+47222,57849,Nuphar,yellow pond-lilies,pollinates
+47222,53051,Epilobium canum,California fuchsia,pollinates
+47222,58937,Lythrum,lythrums,pollinates
+47222,58907,Melilotus albus,White Sweetclover,pollinates
+47222,56992,Lobularia maritima,sweet alyssum,pollinates
+47222,53078,Pseudognaphalium,rabbit-tobaccos,pollinates
+47222,55406,Petunia,petunias,pollinates
+47222,50641,Solanum,nightshades,pollinates
+47222,48152,Cynoglossum officinale,hound's-tongue,pollinates
+47222,117443,Symphyotrichum novae-angliae,New England aster,pollinates
+47222,63749,Vaccinium macrocarpon,American Cranberry,pollinates
+47222,57983,Helianthus annuus,Common Sunflower,pollinates
+47222,54143,Tragopogon dubius,Yellow Salsify,pollinates
+47222,53317,Verbena,Vervain,pollinates
+47222,48367,Penstemon,beardtongues,pollinates
+47222,53060,Galium,bedstraws,pollinates
+47222,52821,Achillea millefolium,Common Yarrow,pollinates
+47222,77902,Lycium barbarum,matrimony vine,pollinates
+47222,50809,Scrophularia,figworts,pollinates
+47222,53353,Arctostaphylos glandulosa,Eastwood's Manzanita,pollinates
+47222,51901,Antennaria,pussytoes,pollinates
+47222,53021,Convolvulus arvensis,field bindweed,pollinates
+47222,75429,Anchusa azurea,Italian Bugloss,pollinates
+47222,57793,Gilia capitata,bluehead gilia,pollinates
+47222,57699,Cryptantha intermedia,Clearwater cryptantha,pollinates
+47222,51691,Lupinus albifrons,Silver Lupine,pollinates
+47222,47597,Chlorogalum pomeridianum,wavy-leafed soap plant,pollinates
+47222,58319,Salix laevigata,red willow,pollinates
+47222,58219,Clarkia cylindrica,Speckled Clarkia,pollinates
+47222,127907,Chamaecrista fasciculata,partridge pea,pollinates
+47222,50859,Catalpa bignonioides,southern catalpa,pollinates
+47222,159830,Cardamine bulbosa,bulbous cress,pollinates
+47222,130991,Tradescantia virginiana,Virginia spiderwort,pollinates
+47222,47888,Impatiens capensis,common jewelweed,pollinates
+47222,54876,Trichostema,bluecurls,pollinates
+47222,120179,Doellingeria umbellata,flat-top white aster,pollinates
+47222,47192,Cornus canadensis,Canadian bunchberry,pollinates
+47222,117440,Eutrochium maculatum,spotted Joe-Pye weed,pollinates
+47222,84300,Sambucus canadensis,American black elderberry,pollinates
+47222,84542,Vaccinium angustifolium,lowbush blueberry,pollinates
+47222,167829,Rhus typhina,staghorn sumac,pollinates
+47222,120580,Gentiana andrewsii,closed bottle gentian,pollinates
+47222,48726,Iris versicolor,northern blue flag,pollinates
+47222,53207,Senecio,groundsels,pollinates
+47222,62691,Lupinus argenteus,silvery lupine,pollinates
+47222,50829,Viola,violets,pollinates
+47222,57460,Geum triflorum,prairie smoke,pollinates
+47222,53268,Maianthemum stellatum,star-flowered lily-of-the-valley,pollinates
+47222,47689,Geraniaceae,Geranium family,pollinates
+47222,59008,Salix exigua,Narrowleaf Willow,pollinates
+47222,47193,Cornus,dogwoods,pollinates
+47222,76623,Delphinium cardinale,Scarlet Larkspur,pollinates
+47222,58796,Asclepias eriocarpa,woollypod milkweed,pollinates
+47222,55009,Rhus integrifolia,lemonade berry,pollinates
+47222,47906,Asclepias,milkweeds,pollinates
+47222,50644,Salvia,Sages,pollinates
+47222,77356,Helianthus gracilentus,slender sunflower,pollinates
+47222,53316,Verbena lasiostachys,western vervain,pollinates
+47222,53360,Ceanothus oliganthus,hairy ceanothus,pollinates
+47222,76171,Ceanothus crassifolius,hoaryleaf ceanothus,pollinates
+47222,61946,Romneya coulteri,Coulter's matilija poppy,pollinates
+47222,51735,Clarkia unguiculata,Elegant Clarkia,pollinates
+47222,57250,Prunus ilicifolia,hollyleaf cherry,pollinates
+47222,58831,Heterotheca grandiflora,Telegraphweed,pollinates
+47222,58191,Salvia leucophylla,purple sage,pollinates
+47222,58931,Trichostema lanatum,woolly bluecurls,pollinates
+47222,57358,Amorpha californica,California False Indigo,pollinates
+47222,53092,Helenium puberulum,Rosilla,pollinates
+47222,78887,Rosa woodsii,Woods' rose,pollinates
+47222,50879,Erigeron,fleabanes and horseweeds,pollinates
+47222,49465,Trillium,trilliums,pollinates
+47222,49347,Phacelia,Scorpionweeds,pollinates
+47222,47727,Acer,maples,pollinates
+47222,48939,Eriogonum,wild buckwheats,pollinates
+47222,55735,Sedum,stonecrops,pollinates
+47222,48678,Solidago,goldenrods,pollinates
+47222,52689,Sambucus,elders,pollinates
+47222,48528,Symphoricarpos,snowberries,pollinates
+47222,48493,Delphinium,larkspurs,pollinates
+47222,57952,Coreopsis,Tickseed,pollinates
+47222,128931,Vitis aestivalis,summer grape,pollinates
+47222,52736,Monarda,beebalms and bergamots,pollinates
+47222,62742,Rudbeckia,black-eyed Susans and coneflowers,pollinates
+47222,56112,Symphyotrichum,American asters,pollinates
+47222,56955,Helianthus,sunflowers,pollinates
+47222,47701,Geranium,geraniums and cranesbills,pollinates
+47222,53438,Rosa,roses,pollinates
+47222,48690,Liatris,blazing-stars,pollinates
+47222,52935,Eupatorium,bonesets,pollinates
+47222,58058,Heliotropium curassavicum,alkali heliotrope,pollinates
+47222,75732,Bacopa monnieri,Herb-of-Grace,pollinates
+47222,60879,Ipomoea pes-caprae,Beach Morning Glory,pollinates
+47222,70254,Coprosma,Coprosma,pollinates
+47222,777371,Diplacus aurantiacus,orange bush monkeyflower,pollinates
+47222,57137,Malacothamnus fasciculatus,chaparral bush-mallow,pollinates
+47222,47146,Adenostoma fasciculatum,chamise,pollinates
+47222,48071,Sagittaria,Arrowheads,pollinates
+47222,48070,Sagittaria latifolia,broadleaf arrowhead,pollinates
+47222,53864,Abutilon,Indian mallows,pollinates
+47222,50822,Agave,century plants,pollinates
+47222,119045,Eupatorium perfoliatum,common boneset,pollinates
+47222,79141,Solanum nigrum,black nightshade,pollinates
+47222,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47222,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+47222,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+47222,,Cerceris rybyensis,,preyedUponBy
+47222,,Acanthodactylus erythrurus,,preyedUponBy
+47222,,Pselliopus barberi,,preyedUponBy
+47222,59281,Thomisus onustus,Pink Crab Spider,preyedUponBy

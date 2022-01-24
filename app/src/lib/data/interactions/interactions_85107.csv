@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85107,68764,Ostracoda,Seed Shrimp,eats
+85107,85493,Crustacea,Crustaceans,eats
+85107,1,Animalia,Animals,eats
+85107,121643,Copepoda,Copepods,eats
+85107,,Unspecified zooplankton,,eats
+85107,69676,Thunnus,Bluefin Tunas,eatenBy
+85107,115167,Xiphias gladius,Swordfish,eatenBy
+85107,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+85107,459205,Beryx splendens,Alfonsino,eatenBy
+85107,432457,Illex argentinus,Argentine Shortfin Squid,eatenBy
+85107,69676,Thunnus,Bluefin Tunas,preyedUponBy
+85107,459205,Beryx splendens,Alfonsino,preyedUponBy
+85107,115167,Xiphias gladius,Swordfish,preyedUponBy
+85107,432457,Illex argentinus,Argentine Shortfin Squid,preyedUponBy
+85107,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy

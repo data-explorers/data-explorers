@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83799,17355,Vireo,Vireos,eatenBy
+83799,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+83799,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+83799,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+83799,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+83799,12890,Catharus guttatus,Hermit Thrush,eatenBy
+83799,12727,Turdus migratorius,American Robin,eatenBy
+83799,12901,Catharus fuscescens,Veery,eatenBy
+83799,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+83799,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+83799,12942,Sialia sialis,Eastern Bluebird,eatenBy
+83799,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+83799,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+83799,19660,Regulus,Kinglets,eatenBy
+83799,18236,Colaptes auratus,Northern Flicker,eatenBy
+83799,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+83799,46020,Sciurus niger,Fox Squirrel,eatenBy
+83799,906,Meleagris gallopavo,Wild Turkey,eatenBy
+83799,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+83799,18205,Melanerpes carolinus,Red-bellied Woodpecker,eatenBy
+83799,12883,Catharus minimus,Gray-cheeked Thrush,eatenBy
+83799,,Empidonax virescens,,eatenBy
+83799,,Vireo flavifrons,,eatenBy
+83799,17408,Vireo griseus,White-eyed Vireo,eatenBy
+83799,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

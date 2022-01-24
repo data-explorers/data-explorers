@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53350,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+53350,67560,Adelpha californica,California Sister,eatenBy
+53350,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+53350,47219,Apis mellifera,Western Honey Bee,eatenBy
+53350,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+53350,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+53350,55785,Ochlodes agricola,Rural Skipper,eatenBy
+53350,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+53350,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+53350,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+53350,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+53350,6317,Calypte anna,Anna's Hummingbird,eatenBy
+53350,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+53350,48662,Danaus plexippus,Monarch,eatenBy
+53350,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+53350,127510,Fomes fomentarius,Hoof Fungus,eatenBy
+53350,,Periphyllus californiensis,,eatenBy
+53350,,Satyrium californica,,eatenBy
+53350,127170,Hemaris thetis,Rocky Mountain Clearwing,eatenBy
+53350,149058,Deudorix,Cornelians and Playboys,eatenBy
+53350,57516,Bombus terrestris,Buff-tailed Bumble Bee,eatenBy
+53350,,Phyllosticta sphaeropsoidea,,eatenBy
+53350,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+53350,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+53350,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+53350,,Melolontha melolontha,,eatenBy
+53350,,Cossus cossus,,eatenBy
+53350,60930,Diaspidiotus perniciosus,Pernicious Scale,eatenBy
+53350,,Diaspidiotus ostreaeformis,,eatenBy
+53350,,Lepidosaphes ulmi,,eatenBy
+53350,,Argyresthia glaucinella,,eatenBy
+53350,,Olethreutes ochrosuffusanum,,eatenBy
+53350,,Pseudexentera spoliana,,eatenBy
+53350,,Zeiraphera,,eatenBy
+53350,,Olethreutes hippocastanum,,eatenBy
+53350,426012,Archips rileyana,Southern Ugly-nest Caterpillar Moth,eatenBy
+53350,,Oiketicus abbotii,,eatenBy
+53350,,Malacosoma californica,,eatenBy
+53350,,Cameraria aesculisella,,eatenBy
+53350,,Zeuzera pyrina,,eatenBy
+53350,,Holophysis emblemella,,eatenBy
+53350,,Guignardia aesculi,,eatenBy
+53350,,Rhodotus palmatus,,eatenBy
+53350,,Rigidoporus ulmarius,,eatenBy
+53350,,Panellus serotinus,,eatenBy
+53350,,Hypoxylon howeanum,,eatenBy
+53350,,Daedaleopsis confragosa,,eatenBy
+53350,,Chytridium xilophilum,,eatenBy
+53350,,Myathropa florea,,eatenBy
+53350,486804,Brachyopa insensilis,,eatenBy
+53350,,Ferdinandea,,eatenBy
+53350,,Mallota cimbiciformis,,eatenBy
+53350,,Brachyopa bicolor,,eatenBy
+53350,,Acrodontium hydnicola,,eatenBy
+53350,,Cylindrodendrum album,,eatenBy
+53350,,Haplariopsis fagicola,,eatenBy
+53350,,Coniochaeta velutina,,eatenBy
+53350,381604,Chalara cylindrosperma,,eatenBy
+53350,,Camposporium pellucidum,,eatenBy
+53350,,Diatrype stigma,,eatenBy
+53350,,Crocicreas subhyalinum,,eatenBy
+53350,,Candelabrum spinulosum,,eatenBy
+53350,,Diaporthe eres,,eatenBy
+53350,,Camposporium cambrense,,eatenBy
+53350,,Chalara affinis,,eatenBy
+53350,,Dictyochaeta fertilis,,eatenBy
+53350,,Hyaloscypha hyalina,,eatenBy
+53350,,Discosphaerina fagi,,eatenBy
+53350,,Nectria pallidula,,eatenBy
+53350,,Nectria cinnabarina,,eatenBy
+53350,,Kretzschmaria deusta,,eatenBy
+53350,,Nectria ralfsii,,eatenBy
+53350,,Nectria peziza,,eatenBy
+53350,,Pezicula cinnamomea,,eatenBy
+53350,,Melanopsamma pomiformis,,eatenBy
+53350,,Menispora britannica,,eatenBy
+53350,,Nitschkia cupularis,,eatenBy
+53350,,Phragmocephala elliptica,,eatenBy
+53350,,Phialina lachnobrachya,,eatenBy
+53350,,Nectria coccinea,,eatenBy
+53350,,Nitschkia grevillei,,eatenBy
+53350,976851,Sclerophora pallida,,eatenBy
+53350,,Pyrenopeziza petiolaris,,eatenBy
+53350,,Pulvinaria regalis,,eatenBy
+53350,,Serpula himantioides,,eatenBy
+53350,,Spongipellis delectans,,eatenBy
+53350,,Skeletocutis carneogrisea,,eatenBy
+53350,410641,Trametes gibbosa,Lumpy Bracket,eatenBy
+53350,,Volvariella bombycina,,eatenBy
+53350,,Trametes ochracea,,eatenBy
+53350,,Phlebiella grisella,,eatenBy
+53350,,Panus conchatus,,eatenBy
+53350,,Plicatura crispa,,eatenBy
+53350,,Pluteus podospileus,,eatenBy
+53350,334340,Pleurotus dryinus,Veiled Oyster,eatenBy
+53350,,Meripilus giganteus,,eatenBy
+53350,,Peniophora nuda,,eatenBy
+53350,,Pleurotus pulmonarius,,eatenBy
+53350,,Oxyporus latemarginatus,,eatenBy
+53350,,Kuehneromyces mutabilis,,eatenBy
+53350,57678,Lasioglossum,,pollinatedBy
+53350,52775,Bombus,Bumble Bees,pollinatedBy
+53350,,Philopota nigroaenea ,,pollinatedBy
+53350,,,,pollinatedBy
+53350,,Xylocopa appendiculata,,pollinatedBy
+53350,,Episyrphus balteatus,,pollinatedBy

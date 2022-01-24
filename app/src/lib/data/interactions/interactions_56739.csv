@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56739,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+56739,48548,Vanessa cardui,Painted Lady,eatenBy
+56739,231425,Spodoptera exigua,Beet Armyworm Moth,eatenBy
+56739,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+56739,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+56739,60921,Icerya purchasi,Cottony cushion scale,eatenBy
+56739,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+56739,47219,Apis mellifera,Western Honey Bee,eatenBy
+56739,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+56739,,Amsacta moorei,,eatenBy
+56739,,Parasa vivida,,eatenBy
+56739,,Agrotis ipsilon,,eatenBy
+56739,,Achaea janata,,eatenBy
+56739,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+56739,,Tetranychus urticae,,eatenBy
+56739,,Tetranychus pacificus,,eatenBy
+56739,,Thalassodes pilaria,,eatenBy
+56739,196588,Hyposidra talaca,Black Looper,eatenBy
+56739,716067,Pseudaulacaspis pentagona,,eatenBy
+56739,,Pseudaulacaspis eugeniae,,eatenBy
+56739,330222,Hemiberlesia lataniae,Latania scale,eatenBy
+56739,,Aonidiella orientalis,,eatenBy
+56739,,Aonidiella aurantii,,eatenBy
+56739,,Thaumatotibia leucotreta,,eatenBy
+56739,,Archips micaceana,,eatenBy
+56739,,Samia walkeri,,eatenBy
+56739,,Samia cynthia,,eatenBy
+56739,,Imbrasia petiveri,,eatenBy
+56739,,Samia ricini,,eatenBy
+56739,,Rothschildia lebeau,,eatenBy
+56739,,Coelonia solani,,eatenBy
+56739,,Rothschildia aurota,,eatenBy
+56739,,Rothschildia,,eatenBy
+56739,,Opogona aurisquamosa,,eatenBy
+56739,,Phycita diaphana,,eatenBy
+56739,894927,Conogethes punctiferalis,,eatenBy
+56739,,Ostrinia nubilalis,,eatenBy
+56739,,Automeris complicata,,eatenBy
+56739,125071,Attacus atlas,Atlas Moth,eatenBy
+56739,,Euzopherodes ephestialis,,eatenBy
+56739,,Ostrinia scapulalis,,eatenBy
+56739,,Automeris zozine,,eatenBy
+56739,548953,Cryptoblabes gnidiella,,eatenBy
+56739,,Ectomyelois ceratoniae,,eatenBy
+56739,,Phycita eremica,,eatenBy
+56739,,Eacles imperialis,,eatenBy
+56739,,Aurivillius arata,,eatenBy
+56739,,Pseudautomeris brasiliensis,,eatenBy
+56739,,Citheronia laocoon,,eatenBy
+56739,,Eurytela hiarbas,,eatenBy
+56739,205605,Acria emarginella,,eatenBy
+56739,349768,Charaxes etesipe,Savannah Charaxes,eatenBy
+56739,,Cethosia cyane,,eatenBy
+56739,,Ariadne merione,,eatenBy
+56739,,Eurytela dryope,,eatenBy
+56739,,Spodoptera eridania,,eatenBy
+56739,,Papaipema nebris,,eatenBy
+56739,,Dysgonia algira,,eatenBy
+56739,,Achaea serva,,eatenBy
+56739,,Euproctis fraterna,,eatenBy
+56739,,Achaea,,eatenBy
+56739,,Amyna octo,,eatenBy
+56739,,Euproctis punctifera,,eatenBy
+56739,,Sphrageidus producta,,eatenBy
+56739,1299184,Euproctis rubricosta,,eatenBy
+56739,354729,Eudasychira georgiana,Georgiana's Tussock,eatenBy
+56739,,Dasychira georgiana,,eatenBy
+56739,,Dasychira albiplaga,,eatenBy
+56739,,Orgyia mixta,,eatenBy
+56739,,Euproctis lunata,,eatenBy
+56739,,Dysgonia stuposa,,eatenBy
+56739,,Achaea argilla,,eatenBy
+56739,1292389,Parasa lepida,,eatenBy
+56739,318870,Thosea sinensis,,eatenBy
+56739,,Nymula,,eatenBy
+56739,,Phobetron hipparchia,,eatenBy
+56739,,Streblote concavum,,eatenBy
+56739,,Sibine trimacula,,eatenBy
+56739,,Altha nivea,,eatenBy
+56739,,Thalassodes quadraria,,eatenBy
+56739,,Birthosea,,eatenBy
+56739,,Prasinocyma simiaria,,eatenBy
+56739,,Parasa canangae,,eatenBy
+56739,,Acrocercops conflua,,eatenBy
+56739,,Prasinocyma tandi,,eatenBy
+56739,208107,Berta chrysolineata,,eatenBy
+56739,,Hasora chromus,,eatenBy
+56739,,Prasinocyma vermicularia,,eatenBy
+56739,,Colocleora simulatrix,,eatenBy
+56739,243770,Ascotis selenaria,Citrus-looper,eatenBy
+56739,,Eupterote geminata,,eatenBy
+56739,,Ascotis reciprocaria,,eatenBy
+56739,,Stomphastis thraustica,,eatenBy
+56739,,Pyroderces rileyi,,eatenBy
+56739,,Setora nitens,,eatenBy
+56739,785422,Amsacta lactinea,,eatenBy
+56739,,Trichogyia semifascia,,eatenBy
+56739,658060,Cleora tulbaghata,,eatenBy
+56739,1325848,Parasa trapezoidea,,eatenBy
+56739,,Parasa herbifera,,eatenBy
+56739,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+56739,141725,Nezara viridula,Southern Green Stink Bug,preyedUponBy
+56739,,Rhaphigaster nebulosa,,preyedUponBy

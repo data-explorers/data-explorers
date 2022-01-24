@@ -1,0 +1,80 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+6993,211194,Tracheophyta,vascular plants,eats
+6993,1,Animalia,Animals,eats
+6993,48147,Isopoda,Isopods,eats
+6993,47628,Amphipoda,Amphipods,eats
+6993,47186,Decapoda,Decapods,eats
+6993,47114,Gastropoda,Gastropods,eats
+6993,47584,Bivalvia,Bivalves,eats
+6993,47124,Magnoliopsida,dicots,eats
+6993,53275,Chironomidae,Non-biting Midges,eats
+6993,2,Chordata,Chordates,eats
+6993,62164,Trichoptera,Caddisflies,eats
+6993,47120,Arthropoda,Arthropods,eats
+6993,47158,Insecta,Insects,eats
+6993,47208,Coleoptera,Beetles,eats
+6993,47115,Mollusca,Molluscs,eats
+6993,84735,Corixidae,Water Boatmen,eats
+6993,48011,Ephemeroptera,Mayflies,eats
+6993,47792,Odonata,Dragonflies and Damselflies,eats
+6993,121639,Brachyura,True Crabs,eats
+6993,85493,Crustacea,Crustaceans,eats
+6993,47190,Grapsidae,Shore Crabs,eats
+6993,,Others,,eats
+6993,,others,,eats
+6993,,Alitta williami,,eats
+6993,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+6993,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+6993,144594,Bubo scandiacus,Snowy Owl,eatenBy
+6993,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+6993,47584,Bivalvia,Bivalves,preysOn
+6993,47114,Gastropoda,Gastropods,preysOn
+6993,49809,Bulla,,preysOn
+6993,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+6993,84988,Pyramidellidae,Pyramid Snails,preysOn
+6993,,Haminoea vesicula,,preysOn
+6993,,Uca crenulata,,preysOn
+6993,,Cerithidea californica,,preysOn
+6993,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+6993,81608,Geukensia demissa,Atlantic Ribbed Mussel,preysOn
+6993,,Opisthobranchia,,preysOn
+6993,479426,Chionista fluctifraga,Smooth Venus,preysOn
+6993,,Gammaridea,,preysOn
+6993,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+6993,117608,Saxidomus nuttalli,California Butterclam,preysOn
+6993,328432,Chione californiensis,California Venus,preysOn
+6993,,Protothaca staminea,,preysOn
+6993,,Macoma secta,,preysOn
+6993,,Acteocina inculta,,preysOn
+6993,117622,Nuttallia nuttallii,Purple Clam,preysOn
+6993,,Nassarius tiarula,,preysOn
+6993,179828,Laevicardium substriatum,Pacific Eggcockle,preysOn
+6993,,green gammaridean,,preysOn
+6993,339172,Austrobilharzia,,preysOn
+6993,,Protothaca,,preysOn
+6993,,Hysterolecitha,,preysOn
+6993,,Cloacitrema michiganense,,preysOn
+6993,339249,Acanthoparyphium,,preysOn
+6993,,Parorchis acanthus,,preysOn
+6993,339183,Euhaplorchis californiensis,,preysOn
+6993,339174,Cyathocotylidae,,preysOn
+6993,,Stictodora hancocki,,preysOn
+6993,,Eugregarinida,,preysOn
+6993,,Anisogammarus confervicolus,,preysOn
+6993,,Portunion conformis,,preysOn
+6993,,Carcinonemertes,,preysOn
+6993,,Picornaviridae,,preysOn
+6993,339182,Phocitremoides ovale,,preysOn
+6993,339245,Himasthla,,preysOn
+6993,,Large xiphideocercaria,,preysOn
+6993,,Pygidiopsoides spindalis,,preysOn
+6993,339199,Catatropis johnstoni,,preysOn
+6993,339177,Microphallidae,,preysOn
+6993,,Renicola cerithidicola,,preysOn
+6993,,Mesostephanus appendiculatoides,,preysOn
+6993,,Probolocoryphe uca,,preysOn
+6993,339176,Renicola buchanani,,preysOn
+6993,339200,Himasthla rhigedana,,preysOn
+6993,,Alitta williami,,preysOn
+6993,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+6993,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy

@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51097,75445,Anethum graveolens,Dill,eats
+51097,52836,Angelica,,eats
+51097,76610,Daucus carota,wild carrot,eats
+51097,53052,Foeniculum vulgare,fennel,eats
+51097,52998,Conium maculatum,poison hemlock,eats
+51097,52999,Conium,,eats
+51097,75453,Angelica lucida,sea-watch,eats
+51097,60125,Cicuta maculata,water hemlock,eats
+51097,56727,Daucus,carrots,eats
+51097,71969,Anethum,,eats
+51097,53053,Foeniculum,,eats
+51097,54899,Pastinaca,parsnip,eats
+51097,60126,Cicuta,water hemlocks,eats
+51097,57283,Centranthus ruber,Red Valerian,eats
+51097,636795,Salvia rosmarinus,Rosemary,eats
+51097,75916,Buddleja davidii,Butterfly bush,eats
+51097,247135,Bougainvillia,,eats
+51097,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+51097,52972,Epilobium,willowherbs,eats
+51097,47204,Brassicaceae,mustard family,eats
+51097,47124,Magnoliopsida,dicots,eats
+51097,58191,Salvia leucophylla,purple sage,eats
+51097,55978,Malva,Mallows,eats
+51097,574731,Brassiceae,,eats
+51097,48561,Cirsium,thistles,eats
+51097,72389,Tagetes,marigolds,eats
+51097,72232,Melaleuca,bottlebrushes,eats
+51097,48160,Centaurea,knapweeds,eats
+51097,52182,Monardella,,eats
+51097,55410,Raphanus sativus,wild radish,eats
+51097,79487,Verbena bonariensis,purpletop vervain,eats
+51097,63366,Limonium,Sea-Lavenders,eats
+51097,72281,Pelargonium,geraniums and storksbills,eats
+51097,49140,Amsinckia,Fiddlenecks,eats
+51097,52588,Centaurea solstitialis,Yellow Star-Thistle,eats
+51097,49323,Carpobrotus,sea figs,eats
+51097,632790,Asteroideae,,eats
+51097,53051,Epilobium canum,California fuchsia,eats
+51097,61906,Helminthotheca echioides,bristly oxtongue,eats
+51097,143799,Sambucus cerulea,blue elder,eats
+51097,61905,Lavandula,Lavender,eats
+51097,77755,Limonium perezii,Perez's sea lavender,eats
+51097,52818,Achillea,yarrows,eats
+51097,48939,Eriogonum,wild buckwheats,eats
+51097,55412,Raphanus,Radishes,eats
+51097,78966,Salvia clevelandii,Cleveland Sage,eats
+51097,57723,Echium candicans,Pride of Madeira,eats
+51097,53317,Verbena,Vervain,eats
+51097,56175,Echium,Viper's-buglosses,eats
+51097,53270,Sonchus,sow thistles,eats
+51097,52472,Vicia,Vetches,eats
+51097,53169,Oxalis pes-caprae,Bermuda buttercup,eats
+51097,723302,Maleae,,eats
+51097,52821,Achillea millefolium,Common Yarrow,eats
+51097,75931,Calendula officinalis,pot marigold,eats
+51097,81794,Glandularia,mock vervain,eats
+51097,936160,Verbeneae,,eats
+51097,54051,Crepis,Hawksbeard,eats
+51097,53597,Narcissus,daffodils,eats
+51097,48699,Apiaceae,carrot family,eats
+51097,52989,Cirsium vulgare,Bull Thistle,eats
+51097,72308,Plumbago,plumbagos,eats
+51097,359450,Cichorieae,,eats
+51097,53350,Aesculus,buckeyes and horse-chestnuts,eats
+51097,47125,Angiospermae,flowering plants,eats
+51097,54999,Eriogonum fasciculatum,California buckwheat,eats
+51097,52621,Cirsium occidentale,Cobwebby Thistle,eats
+51097,50644,Salvia,Sages,eats
+51097,47544,Rubus,brambles,eats
+51097,52635,Agastache,Hyssop,eats
+51097,53113,Brassica,cabbages and mustards,eats
+51097,52181,Monardella villosa,Coyote Mint,eats
+51097,49674,Ceanothus,,eats
+51097,57317,Vicia villosa,hairy vetch,eats
+51097,53326,Vinca major,greater periwinkle,eats
+51097,48628,Echinacea,coneflowers,eats
+51097,53327,Vinca,periwinkles,eats
+51097,75602,Asclepias curassavica,tropical milkweed,eats
+51097,53359,Baccharis pilularis,coyote brush,eats
+51097,64571,Buddleja,butterfly bushes and allies,eats
+51097,51097,Papilio zelicaon,Anise Swallowtail,eats
+51097,58168,Frankenia salina,Alkali Heath,eats
+51097,,Carum,,eats
+51097,,Angelica hendersoni,,eats
+51097,,Perideridia gairdneri,,eats
+51097,,Angelica tomentosa,,eats
+51097,,Pteryxia,,eats
+51097,,Lomatium grayi,,eats
+51097,,Petroselinum crispum,,eats
+51097,56726,Daucus pusillus,American wild carrot,eats
+51097,,Tauschia,,eats
+51097,,Pimpinella,,eats
+51097,,Lomatium utriculatum,,eats
+51097,,Anthriscus cerefolium,,eats
+51097,,Perideridia kelloggii,,eats
+51097,,Sphenosciadium capitellatum,,eats
+51097,,Conioselinum scopulorum,,eats
+51097,,Heracleum,,eats
+51097,,Cymopterus lemmonii,,eats
+51097,,Zizia,,eats
+51097,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+51097,,Sassacus papenhoei,,eatenBy
+51097,53052,Foeniculum vulgare,fennel,preysOn

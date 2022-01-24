@@ -1,0 +1,73 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51953,53376,Cotoneaster,Cotoneasters,eats
+51953,,Enaphalodes atomarius,,eats
+51953,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+51953,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+51953,17009,Sayornis saya,Say's Phoebe,eatenBy
+51953,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+51953,,Chariessa pilosa,,eatenBy
+51953,,http://treatment.plazi.org/id/F2F13FBC4371352E23BF4B93A3E32D3A,,eatenBy
+51953,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+51953,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+51953,19577,Chordeiles minor,Common Nighthawk,eatenBy
+51953,,Corvus caurinus,,eatenBy
+51953,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+51953,5017,Bubulcus ibis,Cattle Egret,eatenBy
+51953,52111,Baccharis,,pollinates
+51953,57628,Eryngium,Eryngos,pollinates
+51953,52935,Eupatorium,bonesets,pollinates
+51953,53207,Senecio,groundsels,pollinates
+51953,47602,Taraxacum officinale,common dandelion,pollinates
+51953,57278,Ailanthus altissima,tree-of-heaven,pollinates
+51953,52821,Achillea millefolium,Common Yarrow,pollinates
+51953,48442,Gaultheria,Wintergreen,pollinates
+51953,,Galianthe brasiliensis,,pollinates
+51953,,Clethra,,pollinates
+51953,,Eupatorium compressum,,pollinates
+51953,,Eremanthus erythropappus,,pollinates
+51953,,Achyrocline satureioides,,pollinates
+51953,,Paepalanthus paulensis,,pollinates
+51953,,Galianthe angustifolia,,pollinates
+51953,,Vernonia,,pollinates
+51953,,Dryas integrifolia,,pollinates
+51953,,Potentilla nivea,,pollinates
+51953,,Taraxacum arctogenum,,pollinates
+51953,461583,Berberis empetrifolia,,pollinates
+51953,,Gaultheria mucronata,,pollinates
+51953,178226,Eucryphia cordifolia,Ulmo,pollinates
+51953,,Azorella monantha,,pollinates
+51953,,Discaria nana,,pollinates
+51953,,Olsynium junceum,,pollinates
+51953,602052,Euphorbia portulacoides,,pollinates
+51953,,Perezia carthamoides,,pollinates
+51953,1264568,Hypochaeris thrincioides,,pollinates
+51953,77452,Hornungia procumbens,Prostrate Hutchinsia,pollinates
+51953,,Senecio bustillosianus,,pollinates
+51953,50851,Cerastium arvense,field chickweed,pollinates
+51953,,Azorella madreporica,,pollinates
+51953,407472,Myosotis colensoi,,pollinates
+51953,,Eriogonum ovalifolium vineum,,pollinates
+51953,51556,Sympetrum,Meadowhawks,preyedUponBy
+51953,51469,Aeshnidae,Darners,preyedUponBy
+51953,47927,Anisoptera,Dragonflies,preyedUponBy
+51953,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+51953,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+51953,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+51953,153861,Tibellus maritimus,,preyedUponBy
+51953,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+51953,,Hyla arborea,,preyedUponBy
+51953,121444,Larinioides,,preyedUponBy
+51953,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+51953,,Sympetrum striolatum,,preyedUponBy
+51953,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+51953,,Orthetrum,,preyedUponBy
+51953,82118,Dolomedes,Fishing Spiders,preyedUponBy
+51953,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+51953,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+51953,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+51953,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+51953,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy
+51953,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+51953,486456,Colonus sylvanus,Sylvan Jumping Spider,preyedUponBy
+51953,,Micrommata,,preyedUponBy
+51953,,Trichonephila clavipes,,preyedUponBy

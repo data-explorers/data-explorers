@@ -1,0 +1,146 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51702,55215,Aphis,,eats
+51702,47158,Insecta,Insects,eats
+51702,54491,Corylus avellana,common hazel,eats
+51702,53196,Rumex,docks,eats
+51702,48561,Cirsium,thistles,eats
+51702,76610,Daucus carota,wild carrot,eats
+51702,51884,Urtica dioica,stinging nettle,eats
+51702,53359,Baccharis pilularis,coyote brush,eats
+51702,52821,Achillea millefolium,Common Yarrow,eats
+51702,53052,Foeniculum vulgare,fennel,eats
+51702,574731,Brassiceae,,eats
+51702,50644,Salvia,Sages,eats
+51702,605446,Heliantheae,sunflowers and allies,eats
+51702,72389,Tagetes,marigolds,eats
+51702,632790,Asteroideae,,eats
+51702,52111,Baccharis,,eats
+51702,53438,Rosa,roses,eats
+51702,48939,Eriogonum,wild buckwheats,eats
+51702,52998,Conium maculatum,poison hemlock,eats
+51702,48699,Apiaceae,carrot family,eats
+51702,790553,Apioideae,,eats
+51702,52818,Achillea,yarrows,eats
+51702,55757,Chelidonium majus,Greater celandine,eats
+51702,56992,Lobularia maritima,sweet alyssum,eats
+51702,53395,Eriophyllum confertiflorum,Golden Yarrow,eats
+51702,76465,Crassula ovata,jade plant,eats
+51702,48225,Eschscholzia californica,California poppy,eats
+51702,933404,Centaurea cyanus,Cornflower,eats
+51702,47351,Prunus,"plums, cherries, and allies",eats
+51702,53423,Frangula californica,coffeeberry,eats
+51702,47603,Taraxacum,dandelions,eats
+51702,56851,Asclepias fascicularis,narrowleaf milkweed,eats
+51702,64237,Phragmites australis,common reed,eats
+51702,53097,Hirschfeldia incana,Shortpod Mustard,eats
+51702,901813,Aphidomorpha,Aphids and Allies,eats
+51702,53453,Salix,Willows,eats
+51702,51876,Trifolium,clovers,eats
+51702,60982,Cakile maritima,European Searocket,eats
+51702,53270,Sonchus,sow thistles,eats
+51702,373734,Macrosiphini,,eats
+51702,71154,Aphis nerii,Oleander Aphid,eats
+51702,47121,Lupinus,lupines,eats
+51702,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eats
+51702,,Dilachnus,,eats
+51702,,Acyrthosiphon,,eats
+51702,,Arytainilla spartiophila,,eats
+51702,,Arytaina genistae,,eats
+51702,155124,Cornus sanguinea,common dogwood,eats
+51702,51147,Crataegus monogyna,common hawthorn,eats
+51702,55811,Prunus spinosa,Blackthorn,eats
+51702,47570,Populus alba,white poplar,eats
+51702,55847,Euonymus europaeus,Spindle,eats
+51702,,Lantana montevidensis,,eats
+51702,50334,Lantana,,eats
+51702,57078,Trifolium hirtum,Rose Clover,eats
+51702,,Apieae,,eats
+51702,,Petroselinum crispum,,eats
+51702,,Angelica hendersonii,,eats
+51702,,Pinus sylvestris,,eats
+51702,,Hylotelephium telephium telephium,,eats
+51702,,Torilis,,eats
+51702,56726,Daucus pusillus,American wild carrot,eats
+51702,55512,Didemnum,Wrinkled Sea Mats,eats
+51702,,Betula pendula,,eats
+51702,,Aeonium arboreum,,eats
+51702,52380,Aphidoidea,,eats
+51702,,Eupatorium serotinum,,eats
+51702,,Pastinaca sativa,,eats
+51702,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+51702,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+51702,130304,Agelena labyrinthica,Labyrinth spider,eatenBy
+51702,,Linyphia triangularis,,eatenBy
+51702,52628,Araneus diadematus,Cross Orbweaver,eatenBy
+51702,,Laphria thoracica,,eatenBy
+51702,52821,Achillea millefolium,Common Yarrow,pollinates
+51702,57563,Cynara cardunculus,Artichoke Thistle,pollinates
+51702,,Vicia hirsuta,,pollinates
+51702,,Trifolium dubium,,pollinates
+51702,56174,Echium vulgare,viper's-bugloss,pollinates
+51702,,Sinapis alba,,pollinates
+51702,55215,Aphis,,preysOn
+51702,52381,Aphididae,Aphids,preysOn
+51702,145414,Aphis craccivora,Cowpea Aphid,preysOn
+51702,71154,Aphis nerii,Oleander Aphid,preysOn
+51702,52447,Cicadella viridis,Green Leafhopper,preysOn
+51702,,Drymus ryei,,preysOn
+51702,,http://treatment.plazi.org/id/03F71D4ABD2FFFE9FF171CF4FD25FE0E,,preysOn
+51702,673968,Macrosteles sexnotatus,,preysOn
+51702,911726,Agallia brachyptera,,preysOn
+51702,,Errastunus ocellaris,,preysOn
+51702,204105,Anoscopus serratulae,,preysOn
+51702,,Cosmoscarta abdominalis,,preysOn
+51702,,Deltocephalus pulicaris,,preysOn
+51702,606260,Eupteryx vittata,,preysOn
+51702,914679,Macrosteles maculosus,,preysOn
+51702,,Elymana sulphurella,,preysOn
+51702,,Cicadula persimilis,,preysOn
+51702,,http://treatment.plazi.org/id/A91487973F0EFFF0FF2FAFFDFD9AFB1B,,preysOn
+51702,,Empoasca decipiens,,preysOn
+51702,735331,Arthaldeus pascuellus,,preysOn
+51702,606261,Eupteryx notata,,preysOn
+51702,703086,Euscelis incisus,,preysOn
+51702,,Zyginidia scutellaris,,preysOn
+51702,,Megadelphax sordidula,,preysOn
+51702,735329,Ophiola decumana,,preysOn
+51702,,Psammotettix helvolus,,preysOn
+51702,204886,Neoaliturus fenestratus,,preysOn
+51702,914765,Psammotettix confinis,,preysOn
+51702,,Empoasca solani,,preysOn
+51702,204787,Doratura stylata,,preysOn
+51702,,Emelyanoviana mollicula,,preysOn
+51702,768727,Eupteryx calcarata,,preysOn
+51702,,Dicranotropis hamata,,preysOn
+51702,,http://treatment.plazi.org/id/7212D693A066054FD8A810503410BAB9,,preysOn
+51702,,Kosswigianella spinosus,,preysOn
+51702,914676,Macrosteles laevis,,preysOn
+51702,219849,Eupteryx atropunctata,,preysOn
+51702,,Megophthalmus scanicus,,preysOn
+51702,,Anaceratagallia ribauti,,preysOn
+51702,,Chlorita paolii,,preysOn
+51702,,Arytainilla spartiophila,,preysOn
+51702,,Arytaina genistae,,preysOn
+51702,,Acyrthosiphon,,preysOn
+51702,,Phaedon cochleariae,,preysOn
+51702,52380,Aphidoidea,,preysOn
+51702,393053,Myzus cerasi,Black Cherry Aphid,preysOn
+51702,,Aphis cytisorum cytisorum,,preysOn
+51702,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+51702,13858,Passer domesticus,House Sparrow,preyedUponBy
+51702,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+51702,,Mangora acalypha,,preyedUponBy
+51702,121779,Agalenatea redii,Gorse Orbweaver,preyedUponBy
+51702,,Allagelena gracilens,,preyedUponBy
+51702,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+51702,153855,Tibellus oblongus,Oblong Running Spider,preyedUponBy
+51702,129017,Araniella cucurbitina,Cucumber Green Spider,preyedUponBy
+51702,,Aculepeira ceropegia,,preyedUponBy
+51702,,Geophilus truncorum,,preyedUponBy
+51702,495490,Cychrus attenuatus,,preyedUponBy
+51702,,Lithobius forficatus,,preyedUponBy
+51702,56552,Carabus nemoralis,Bronze Ground Beetle,preyedUponBy
+51702,230519,Schendyla nemorensis,,preyedUponBy
+51702,,Cochlodryas,,preyedUponBy
+51702,,Amaurobius fenestralis,,preyedUponBy
+51702,,Laphria thoracica,,preyedUponBy

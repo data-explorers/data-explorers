@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+343310,47851,Quercus,oaks,eats
+343310,12937,Sialia mexicana,Western Bluebird,eatenBy
+343310,,Freysuila phorodendri,,eatenBy
+343310,,Acalitus phoradendronis,,eatenBy

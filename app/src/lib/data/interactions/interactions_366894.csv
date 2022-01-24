@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+366894,53275,Chironomidae,Non-biting Midges,eats
+366894,51225,Tipulidae,Large Crane Flies,eats
+366894,47118,Araneae,Spiders,eats
+366894,,Cylindroiulus punctatus,,eats
+366894,,Icosium tomentosum,,eats
+366894,,Pyrrhocoroidea,,eats
+366894,7458,Certhia americana,Brown Creeper,eatenBy
+366894,453928,Lygaeus kalmii kalmii,Western Small Milkweed Bug,preysOn
+366894,62045,Lygaeus kalmii,Small Milkweed Bug,preysOn
+366894,630955,Anthophila,Bees,preysOn
+366894,61858,Lucilia,Greenbottle Flies,preysOn
+366894,61267,Heteroptera,True Bugs,preysOn
+366894,47219,Apis mellifera,Western Honey Bee,preysOn
+366894,48484,Harmonia axyridis,Asian Lady Beetle,preysOn

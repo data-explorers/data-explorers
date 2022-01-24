@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52152,226718,Otiorhynchus sulcatus,Black Vine Weevil,eatenBy
+52152,48662,Danaus plexippus,Monarch,eatenBy
+52152,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+52152,963010,Eupeodes americanus,,eatenBy
+52152,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+52152,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+52152,,Helicoverpa phloxiphaga,,eatenBy
+52152,,Xylena exsoleta,,eatenBy
+52152,81676,Lacinipolia olivacea,Olive Arches Moth,eatenBy
+52152,,Melanchra persicariae,,eatenBy
+52152,178142,Gazoryctra,,eatenBy
+52152,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+52152,,Xylocopa virginica,,eatenBy
+52152,,Hemaris thysbe,,eatenBy
+52152,,Pholisora catullus,,eatenBy
+52152,,Myzus persicae,,eatenBy
+52152,,Trypeta zoe,,eatenBy
+52152,,Pyrenochaeta phlogis,,eatenBy
+52152,221040,Heliothis oregonica,Oregon Gem Moth,eatenBy
+52152,133631,Polites peckius,Peck's Skipper,eatenBy
+52152,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+52152,47157,Lepidoptera,Butterflies and Moths,pollinatedBy

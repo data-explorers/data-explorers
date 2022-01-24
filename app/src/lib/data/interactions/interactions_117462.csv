@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117462,49539,Pisaster brevispinus,Giant Pink Sea Star,eatenBy
+117462,125663,Kelletia kelletii,Kellet's Whelk,eatenBy
+117462,48833,Pisaster giganteus,Giant Sea Star,eatenBy
+117462,125663,Kelletia kelletii,Kellet's Whelk,preyedUponBy
+117462,48833,Pisaster giganteus,Giant Sea Star,preyedUponBy
+117462,49539,Pisaster brevispinus,Giant Pink Sea Star,preyedUponBy

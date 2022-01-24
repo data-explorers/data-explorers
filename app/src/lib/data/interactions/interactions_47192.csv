@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47192,42158,Cervidae,Deer,eatenBy
+47192,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+47192,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47192,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47192,,American black bear,,eatenBy
+47192,,Snowshoe hare,,eatenBy
+47192,,Phytomyza agromyzina,,eatenBy
+47192,,Antispila freemani,,eatenBy
+47192,,Probole nepiasaria,,eatenBy
+47192,215888,Caloptilia canadensisella,,eatenBy
+47192,,Machimia tentoriferella,,eatenBy
+47192,133620,Archips purpurana,Omnivorous Leafroller,eatenBy
+47192,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+47192,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+47192,,Pinicola enucleator,,eatenBy
+47192,61891,Sphecodes,Blood Bees,pollinatedBy
+47192,81980,Syritta,,pollinatedBy
+47192,51557,Bombylius major,Greater Bee Fly,pollinatedBy
+47192,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+47192,126545,Dialictus,Metallic Sweat Bees,pollinatedBy
+47192,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47192,47208,Coleoptera,Beetles,pollinatedBy
+47192,128670,Bombus vagans,Half-black Bumble Bee,pollinatedBy
+47192,54068,Boloria selene,Silver-bordered Fritillary,pollinatedBy
+47192,,Eclimus,,pollinatedBy
+47192,,Ancistrocerus,,pollinatedBy
+47192,,Andrena nivalis,,pollinatedBy
+47192,,Celastrina argiolus,,pollinatedBy
+47192,,Nomada sayi,,pollinatedBy
+47192,,Evodinus monticola,,pollinatedBy
+47192,,Xylota,,pollinatedBy
+47192,133655,Tropidia quadrata,Common Thick-leg Fly,pollinatedBy
+47192,198853,Osmia proxima,,pollinatedBy
+47192,,Pieris napi,,pollinatedBy
+47192,,Chalcosyrphus nemorum,,pollinatedBy
+47192,,Anthaxia expansa,,pollinatedBy
+47192,,Chalcosyrphus,,pollinatedBy
+47192,,Zeraea americana,,pollinatedBy
+47192,,Blera confusa,,pollinatedBy
+47192,,Lasioglossum quebecense,,pollinatedBy
+47192,131123,Eusphalerum,,pollinatedBy
+47192,63753,Anthonomus,,pollinatedBy
+47192,,Temnostoma balyras,,pollinatedBy
+47192,,Cantharis,,pollinatedBy
+47192,,Hylaeus basalis,,pollinatedBy
+47192,,http://treatment.plazi.org/id/0392879B737BAB2943D5FAB8FB72FA71,,pollinatedBy
+47192,,Andrena miranda,,pollinatedBy
+47192,,Paramyia nitens,,pollinatedBy
+47192,,Blera nigripes,,pollinatedBy
+47192,233119,Tychius stephensi,Red Clover Seed Weevil,pollinatedBy
+47192,915513,Xylota hinei,Hine's Leafwalker,pollinatedBy
+47192,,Orsodacne atra,,pollinatedBy
+47192,,Andrena w-scripta,,pollinatedBy
+47192,,Parasyrphus relictus,,pollinatedBy
+47192,,Andrena sigmundi,,pollinatedBy
+47192,,Lygus rufidorsus,,pollinatedBy
+47192,,Phaonia serva,,pollinatedBy
+47192,174024,Dalopius,,pollinatedBy
+47192,,Temnostoma alternans,,pollinatedBy
+47192,,http://treatment.plazi.org/id/C04AB37A47FF8292046DC8BAC8787EF6,,pollinatedBy
+47192,,Temnostoma barberi,,pollinatedBy
+47192,155085,Bombus perplexus,Perplexing Bumble Bee,pollinatedBy
+47192,,Pidonia ruficollis,,pollinatedBy
+47192,,Judolia montivagans,,pollinatedBy
+47192,,Blera badia,,pollinatedBy
+47192,,Psithyrus,,pollinatedBy
+47192,,Evylaeus,,pollinatedBy
+47192,,Mallota posticata,,pollinatedBy
+47192,199115,Halictus confusus,Confusing Furrow Bee,pollinatedBy
+47192,,http://treatment.plazi.org/id/EB78064EA3649A3461B6E82C4EC6608F,,pollinatedBy
+47192,,Eudasyphora cyanicolor,,pollinatedBy
+47192,,Sarcophaga nearctica,,pollinatedBy
+47192,701288,Chalcosyrphus inarmatus,Yellow-haired Leafwalker,pollinatedBy
+47192,,Crabro,,pollinatedBy
+47192,,http://treatment.plazi.org/id/0392879B735DAB0F43D5FF48FB7CFDC5,,pollinatedBy
+47192,,Sphaerophoria bifurcata,,pollinatedBy
+47192,,http://treatment.plazi.org/id/0392879B735FAB0C43D5F883FC37FE37,,pollinatedBy
+47192,,Orthonevra pulchella,,pollinatedBy
+47192,,Andrena melanochroa,,pollinatedBy
+47192,,Cheilosia,,pollinatedBy
+47192,,Sphaerophoria longipilosa,,pollinatedBy
+47192,212360,Acmaeopsoides rufula,,pollinatedBy
+47192,,Bombus ternarius,,pollinatedBy

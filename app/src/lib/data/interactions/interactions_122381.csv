@@ -1,0 +1,64 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+122381,57317,Vicia villosa,hairy vetch,eats
+122381,49370,Astragalus,milkvetches,eats
+122381,85324,Desmodium,ticktrefoils,eats
+122381,51875,Trifolium pratense,red clover,eats
+122381,51876,Trifolium,clovers,eats
+122381,119139,Lespedeza,bush clovers and lespedezas,eats
+122381,50321,Lathyrus,sweet peas and vetchlings,eats
+122381,57056,Medicago lupulina,Black Medick,eats
+122381,55745,Trifolium repens,white clover,eats
+122381,57065,Melilotus indicus,small melilot,eats
+122381,81528,Lupinus perennis,sundial lupine,eats
+122381,53320,Vicia americana,American vetch,eats
+122381,52472,Vicia,Vetches,eats
+122381,79155,Solidago velutina,velvety goldenrod,eats
+122381,47436,Lotus,bird's-foot trefoils and deervetches,eats
+122381,48678,Solidago,goldenrods,eats
+122381,58058,Heliotropium curassavicum,alkali heliotrope,eats
+122381,117443,Symphyotrichum novae-angliae,New England aster,eats
+122381,126846,Vitex,,eats
+122381,57049,Acmispon americanus,Spanish clover,eats
+122381,57057,Medicago sativa,Alfalfa,eats
+122381,47435,Lotus corniculatus,bird's-foot trefoil,eats
+122381,47434,Poaceae,grasses,eats
+122381,142279,Symphyotrichum pilosum,hairy white oldfield aster,eats
+122381,127186,Securigera varia,purple crownvetch,eats
+122381,143803,Persicaria longiseta,low smartweed,eats
+122381,67808,Solidago canadensis,Canada goldenrod,eats
+122381,57952,Coreopsis,Tickseed,eats
+122381,47911,Asclepias syriaca,common milkweed,eats
+122381,62742,Rudbeckia,black-eyed Susans and coneflowers,eats
+122381,48230,Ranunculus,buttercups,eats
+122381,54999,Eriogonum fasciculatum,California buckwheat,eats
+122381,53097,Hirschfeldia incana,Shortpod Mustard,eats
+122381,59040,Phyla nodiflora,turkey tangle frogfruit,eats
+122381,,Vicia cracca,,eats
+122381,,Trifolium willdenovii,,eats
+122381,,Melilotus officinalis,,eats
+122381,,Phaseolus,,eats
+122381,,Trifolium hybridum,,eats
+122381,,Vicia sativa,,eats
+122381,,Lupinus nanus,,eats
+122381,85340,Galactia,,eats
+122381,,Verbesina virginica,,eats
+122381,119343,Symphyotrichum oblongifolium,Aromatic Aster,eats
+122381,,Ageratina altissima,,eats
+122381,,Eriogonum fasciculatum foliolosum,,eats
+122381,,Silphium perfoliatum,,eats
+122381,,Mentha pulegium,,eats
+122381,,Packera obovata,,eats
+122381,,Verbesina alternifolia,,eats
+122381,,Agrimonia,,eats
+122381,514631,Ranunculus chius,Eastern Buttercup,eats
+122381,,Coreopsis tripteris,,eats
+122381,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+122381,85313,Physostegia virginiana,obedient plant,eats
+122381,132450,Zinnia,,eats
+122381,,Pycnanthemum tenuifolium,,eats
+122381,,Kummerowia striata,,eats
+122381,,Vernonia,,eats
+122381,,Geranium molle,,eats
+122381,,Eupatorium serotinum,,eats
+122381,57049,Acmispon americanus,Spanish clover,eatenBy
+122381,55745,Trifolium repens,white clover,pollinates

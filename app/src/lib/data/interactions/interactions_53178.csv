@@ -1,0 +1,109 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53178,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+53178,48548,Vanessa cardui,Painted Lady,eatenBy
+53178,58578,Euphydryas phaeton,Baltimore Checkerspot,eatenBy
+53178,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+53178,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+53178,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+53178,52775,Bombus,Bumble Bees,eatenBy
+53178,47219,Apis mellifera,Western Honey Bee,eatenBy
+53178,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+53178,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+53178,73044,Melozone crissalis,California Towhee,eatenBy
+53178,1409,Callipepla californica,California Quail,eatenBy
+53178,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+53178,197079,Junonia villida,Meadow Argus,eatenBy
+53178,790048,Candalides heathi,Rayed Blue,eatenBy
+53178,,Neotoxoptera oliveri,,eatenBy
+53178,,Tenthredo obsoleta,,eatenBy
+53178,,Ophonus azureus,,eatenBy
+53178,,Amara aulica,,eatenBy
+53178,130433,Amara aenea,Common Sun Beetle,eatenBy
+53178,130452,Amara plebeja,,eatenBy
+53178,,Ophonus schaubergerianus,,eatenBy
+53178,,Diachromus germanus,,eatenBy
+53178,,Pachytomella arallela,,eatenBy
+53178,,Athous bicolor,,eatenBy
+53178,,Drymus sylvaticus,,eatenBy
+53178,,Chorthippus biguttulus,,eatenBy
+53178,552756,Orius niger,,eatenBy
+53178,,Chorthippus apricarius,,eatenBy
+53178,,Drymus ryei,,eatenBy
+53178,,Exomias pellucidus,,eatenBy
+53178,,Anisodactylus binotatus,,eatenBy
+53178,547575,Anthicus antherinus,,eatenBy
+53178,,Peritrechus nubilus,,eatenBy
+53178,,Peritrechus geniculatus,,eatenBy
+53178,,Rhyparochromus pini,,eatenBy
+53178,,Agrypnus murinus,,eatenBy
+53178,,Sphragisticus nebulosus,,eatenBy
+53178,,Chorthippus parallelus,,eatenBy
+53178,606260,Eupteryx vittata,,eatenBy
+53178,504708,Ophonus laticollis,,eatenBy
+53178,,Helophorus griseus,,eatenBy
+53178,606261,Eupteryx notata,,eatenBy
+53178,,Emelyanoviana mollicula,,eatenBy
+53178,,Coriomeris denticulatus,,eatenBy
+53178,,Helophorus nubilus,,eatenBy
+53178,,Chorthippus dorsatus,,eatenBy
+53178,,Exomias trichopterus,,eatenBy
+53178,,Adrastus rachifer,,eatenBy
+53178,523365,Harpalus griseus,,eatenBy
+53178,,Hemicrepidius hirtus,,eatenBy
+53178,,Harpalus distinguendus,,eatenBy
+53178,,Amara ovata,,eatenBy
+53178,,Anaceratagallia ribauti,,eatenBy
+53178,,Amara equestris,,eatenBy
+53178,997191,Longitarsus noricus,,eatenBy
+53178,,Amara sinuosa,,eatenBy
+53178,,Amara lunicollis,,eatenBy
+53178,550416,Stygnocoris rusticus,,eatenBy
+53178,456218,Agriotes obscurus,,eatenBy
+53178,,Amara eurynota,,eatenBy
+53178,131102,Harpalus tardus,,eatenBy
+53178,204590,Plagiognathus arbustorum,Common Nettle Flower Bug,eatenBy
+53178,,Alophus triguttatus,,eatenBy
+53178,,Chorthippus albomarginatus,,eatenBy
+53178,,Amara quenseli,,eatenBy
+53178,,Trechus quadristriatus,,eatenBy
+53178,,Hypera plantaginis,,eatenBy
+53178,48505,Junonia coenia,Common Buckeye,eatenBy
+53178,1040836,Junonia evarete,South American Tropical Buckeye,eatenBy
+53178,,Mellicta athalia,,eatenBy
+53178,,Melitaea cinxia,,eatenBy
+53178,,Euphydryas anicia,,eatenBy
+53178,,Melitaea diamina,,eatenBy
+53178,,Mellicta britomartis,,eatenBy
+53178,,Occidryas chalcedona,,eatenBy
+53178,,Euphydryas editha,,eatenBy
+53178,,Mellicta parthenoides,,eatenBy
+53178,,Euphydryas aurinia,,eatenBy
+53178,,Melitaea didyma,,eatenBy
+53178,,Mellicta aurelia,,eatenBy
+53178,43354,Tapirus pinchaque,Mountain Tapir,eatenBy
+53178,,Capreolus capreolus italicus,,eatenBy
+53178,,Graptus triguttatus,,eatenBy
+53178,,Phomopsis subordinaria,,eatenBy
+53178,,Rhabdospora pachyderma,,eatenBy
+53178,,Phytomyza plantaginis,,eatenBy
+53178,,Tenthredo (Eurogaster) obsoleta,,eatenBy
+53178,,Thrips nigropilosus,,eatenBy
+53178,,Chrysolina banksi,,eatenBy
+53178,631321,Mecinus labilis,,eatenBy
+53178,,Trichosirocalus rufulus,,eatenBy
+53178,,Trichosirocalus troglodytes,,eatenBy
+53178,,Mecinus circulatus,,eatenBy
+53178,,Mecinus pascuorum,,eatenBy
+53178,,Mecinus pyraster,,eatenBy
+53178,,Spilopodia nervisequa,,eatenBy
+53178,,Phoma polygramma,,eatenBy
+53178,,Pleospora herbarum,,eatenBy
+53178,,Leptospora rubella,,eatenBy
+53178,47220,Apis,Honey Bees,pollinatedBy
+53178,,Syrphus,,pollinatedBy
+53178,,Meliscaeva,,pollinatedBy
+53178,,Wind,,pollinatedBy
+53178,,Cantharis lateralis,,preyedUponBy
+53178,,Amara communis,,preyedUponBy
+53178,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+53178,,Pseudophonus rufipes,,preyedUponBy

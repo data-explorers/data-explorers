@@ -1,0 +1,130 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44259,4638,Falco,Typical Falcons,eats
+44259,56955,Helianthus,sunflowers,eats
+44259,47126,Plantae,plants,eats
+44259,47158,Insecta,Insects,eats
+44259,47726,Acer negundo,boxelder,eats
+44259,,Invertebrata,,eats
+44259,,Embryophyta,,eats
+44259,42051,Canis latrans,Coyote,eatenBy
+44259,41976,Lynx rufus,Bobcat,eatenBy
+44259,42007,Puma concolor,Mountain Lion,eatenBy
+44259,42069,Vulpes vulpes,Red Fox,eatenBy
+44259,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44259,4672,Falco columbarius,Merlin,eatenBy
+44259,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+44259,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44259,526558,Mustelinae,Weasels,eatenBy
+44259,5163,Circus,Harriers,eatenBy
+44259,144455,Ardea alba,Great Egret,eatenBy
+44259,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eatenBy
+44259,4638,Falco,Typical Falcons,eatenBy
+44259,981,Phasianus colchicus,Ring-necked Pheasant,eatenBy
+44259,4381,Larus fuscus,Lesser Black-backed Gull,eatenBy
+44259,20445,Tyto alba,Barn Owl,eatenBy
+44259,8010,Corvus corax,Common Raven,eatenBy
+44259,4665,Falco sparverius,American Kestrel,eatenBy
+44259,5277,Elanus leucurus,White-tailed Kite,eatenBy
+44259,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+44259,19893,Strix varia,Barred Owl,eatenBy
+44259,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+44259,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+44259,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+44259,42048,Canis lupus,Gray Wolf,eatenBy
+44259,851014,Canis aureus,Golden Jackal,eatenBy
+44259,922459,Felis silvestris,European Wildcat,eatenBy
+44259,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+44259,41979,Lynx lynx,Eurasian Lynx,eatenBy
+44259,41798,Martes americana,American Marten,eatenBy
+44259,41796,Martes martes,Eurasian Pine Marten,eatenBy
+44259,41800,Martes foina,Stone Marten,eatenBy
+44259,,Neovison vison,,eatenBy
+44259,569428,Mustela nivalis,Least Weasel,eatenBy
+44259,41812,Mustela putorius,Western Polecat,eatenBy
+44259,,Martes pennanti,,eatenBy
+44259,41795,Martes zibellina,Sable,eatenBy
+44259,41808,Mustela erminea,Eurasian Stoat,eatenBy
+44259,41805,Mustela lutreola,European Mink,eatenBy
+44259,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+44259,,number RWD 27530,,eatenBy
+44259,,identifier RMRP ID 14-032,,eatenBy
+44259,,Ermine,,eatenBy
+44259,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+44259,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+44259,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+44259,,Spermophilus tridecemlineatus,,eatenBy
+44259,,http://arctos.database.museum/guid/DMNS:Bird:34981,,eatenBy
+44259,,http://arctos.database.museum/guid/DMNS:Bird:34728,,eatenBy
+44259,4951,Ardea purpurea,Purple Heron,eatenBy
+44259,4954,Ardea cinerea,Grey Heron,eatenBy
+44259,5017,Bubulcus ibis,Cattle Egret,eatenBy
+44259,4943,Egretta garzetta,Little Egret,eatenBy
+44259,,Botaurus stellaris,,eatenBy
+44259,4733,Ciconia ciconia,White Stork,eatenBy
+44259,4736,Ciconia nigra,Black Stork,eatenBy
+44259,204527,Ixobrychus minutus,Little Bittern,eatenBy
+44259,5178,Circus macrourus,Pallid Harrier,eatenBy
+44259,5268,Milvus migrans,Black Kite,eatenBy
+44259,5267,Milvus milvus,Red Kite,eatenBy
+44259,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+44259,559064,Circus cyaneus,Hen Harrier,eatenBy
+44259,,Circaetus gallicus,,eatenBy
+44259,5275,Elanus caeruleus,Black-winged Kite,eatenBy
+44259,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+44259,204472,Buteo buteo,Common Buzzard,eatenBy
+44259,,Aquila clanga,,eatenBy
+44259,4643,Falco subbuteo,Eurasian Hobby,eatenBy
+44259,5192,Buteo rufinus,Long-legged Buzzard,eatenBy
+44259,,Aquila pomarina,,eatenBy
+44259,,Aquila heliaca,,eatenBy
+44259,5083,Aquila nipalensis,Steppe Eagle,eatenBy
+44259,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+44259,,Aquila chrysaetos,,eatenBy
+44259,4923,Burhinus oedicnemus,Eurasian Stone-curlew,eatenBy
+44259,77,Otis tarda,Great Bustard,eatenBy
+44259,4657,Falco rusticolus,Gyrfalcon,eatenBy
+44259,41,Grus grus,Common Crane,eatenBy
+44259,4691,Falco cherrug,Saker Falcon,eatenBy
+44259,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+44259,204533,Larus argentatus,Herring Gull,eatenBy
+44259,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+44259,4368,Larus marinus,Great Black-backed Gull,eatenBy
+44259,144297,Stercorarius skua,Great Skua,eatenBy
+44259,3896,Numenius arquata,Eurasian Curlew,eatenBy
+44259,4356,Larus canus,Mew Gull,eatenBy
+44259,4389,Larus cachinnans,Caspian Gull,eatenBy
+44259,20244,Otus scops,Eurasian Scops Owl,eatenBy
+44259,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+44259,20307,Asio otus,Long-eared Owl,eatenBy
+44259,,Glaucidium passerinum,,eatenBy
+44259,204519,Halcyon smyrnensis,White-throated Kingfisher,eatenBy
+44259,144594,Bubo scandiacus,Snowy Owl,eatenBy
+44259,20359,Aegolius funereus,Boreal Owl,eatenBy
+44259,19998,Athene noctua,Little Owl,eatenBy
+44259,20315,Asio flammeus,Short-eared Owl,eatenBy
+44259,906982,Lanius meridionalis,Iberian Grey Shrike,eatenBy
+44259,559070,Lanius excubitor,Great Gray Shrike,eatenBy
+44259,12038,Lanius collurio,Red-backed Shrike,eatenBy
+44259,19898,Strix aluco,Tawny Owl,eatenBy
+44259,47158,Insecta,Insects,preysOn
+44259,146199,Lampropeltis californiae,California King Snake,preyedUponBy
+44259,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+44259,48268,Crotalus oreganus,Western Rattlesnake,preyedUponBy
+44259,5163,Circus,Harriers,preyedUponBy
+44259,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+44259,4665,Falco sparverius,American Kestrel,preyedUponBy
+44259,906,Meleagris gallopavo,Wild Turkey,preyedUponBy
+44259,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+44259,200661,Coluber constrictor mormon,Western Yellow-bellied Racer,preyedUponBy
+44259,,Pituophis catenifer deserticola,,preyedUponBy
+44259,60347,Pituophis catenifer sayi,Bullsnake,preyedUponBy
+44259,30924,Vipera latastei,Lataste's Viper,preyedUponBy
+44259,74009,Zamenis longissimus,Aesculapian Snake,preyedUponBy
+44259,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+44259,966698,Vipera berus,Adder,preyedUponBy
+44259,30761,Crotalus polystictus,Mexican Lancehead Rattlesnake,preyedUponBy
+44259,30901,Vipera ursinii,Meadow Viper,preyedUponBy
+44259,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+44259,20306,Asio,Eared Owls and Allies,preyedUponBy
+44259,41979,Lynx lynx,Eurasian Lynx,preyedUponBy
+44259,20315,Asio flammeus,Short-eared Owl,preyedUponBy

@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44061,56955,Helianthus,sunflowers,eats
+44061,42051,Canis latrans,Coyote,eatenBy
+44061,41976,Lynx rufus,Bobcat,eatenBy
+44061,526558,Mustelinae,Weasels,eatenBy
+44061,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44061,5277,Elanus leucurus,White-tailed Kite,eatenBy
+44061,8010,Corvus corax,Common Raven,eatenBy
+44061,20445,Tyto alba,Barn Owl,eatenBy
+44061,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+44061,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+44061,19959,Strix occidentalis,Spotted Owl,eatenBy
+44061,30692,Crotalus,Rattlesnakes,preyedUponBy
+44061,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+44061,30751,Crotalus cerastes,Sidewinder,preyedUponBy

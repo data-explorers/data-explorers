@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83842,54779,Quercus alba,white oak,eats
+83842,47851,Quercus,oaks,eats
+83842,49033,Myrica,,eats
+83842,,Morella pensylvanica,,eats
+83842,,Comptonia peregrina,,eats
+83842,,Myrica gale,,eats
+83842,12727,Turdus migratorius,American Robin,eatenBy
+83842,,Parus major,,eatenBy
+83842,,Parkesia motacilla,,eatenBy
+83842,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+83842,41147,Macrotus californicus,California Leaf-nosed Bat,preyedUponBy
+83842,,Corynorhinus townsendii,,preyedUponBy
+83842,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

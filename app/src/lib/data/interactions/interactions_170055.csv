@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+170055,68244,Euptoieta claudia,Variegated Fritillary,eatenBy
+170055,47219,Apis mellifera,Western Honey Bee,eatenBy
+170055,82279,Automeris io,Io Moth,eatenBy
+170055,68268,Euptoieta hegesia,Mexican Fritillary,eatenBy
+170055,,Didelphis albiventris,,eatenBy
+170055,,Acraea terpsicore,,eatenBy
+170055,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+170055,,,,pollinatedBy
+170055,,Trochilus polytmus,,pollinatedBy
+170055,,Xylocopa fenestrata,,pollinatedBy

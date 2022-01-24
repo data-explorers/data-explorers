@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+136376,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+136376,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,eatenBy
+136376,119988,Scolia bicincta,Double-banded Scoliid Wasp,eatenBy
+136376,,Colletes compactus,,eatenBy
+136376,82175,Syngamia florella,Orange-spotted Flower Moth,eatenBy
+136376,,Scolia nobilitata,,eatenBy
+136376,,Agapostemon splendens,,eatenBy
+136376,526062,Halictus poeyi,Poey's Furrow Bee,eatenBy
+136376,223180,Lepidophora lutea,,eatenBy
+136376,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+136376,81959,Cerceris,Typical Weevil Wasps and Allies,pollinatedBy
+136376,61356,Vespula,Ground Yellowjackets,pollinatedBy
+136376,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+136376,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+136376,47208,Coleoptera,Beetles,pollinatedBy
+136376,47822,Diptera,Flies,pollinatedBy
+136376,57668,Andrenidae,Mining Bees,pollinatedBy
+136376,49707,Halictidae,Sweat Bees,pollinatedBy
+136376,52781,Melissodes,,pollinatedBy
+136376,,Typocerus lugubris,,pollinatedBy
+136376,,Vipio,,pollinatedBy
+136376,,Cerotoma,,pollinatedBy
+136376,,Hoplisus simillimus,,pollinatedBy
+136376,,Mesogramma,,pollinatedBy
+136376,,Andrena pruni,,pollinatedBy
+136376,,Aldrichia ehrmanii,,pollinatedBy
+136376,,Sapyga centrata,,pollinatedBy
+136376,,Elis,,pollinatedBy
+136376,,Heterosarus,,pollinatedBy
+136376,,Spallanzania hesperidarum,,pollinatedBy
+136376,,Rhamphomyia priapulus,,pollinatedBy
+136376,,Pholisora,,pollinatedBy
+136376,,Machaeris,,pollinatedBy
+136376,,Pseudopanurgus,,pollinatedBy
+136376,,Chrysocharis oscinidis,,pollinatedBy
+136376,,Epicauta trichrus,,pollinatedBy
+136376,1120891,Feltia subgothica,Subgothic and Tricose Darts,pollinatedBy
+136376,299141,Urosigalphus femoratus,,pollinatedBy
+136376,,Sturmia,,pollinatedBy
+136376,177484,Leptura,,pollinatedBy
+136376,,Eumyotheria illinoensis,,pollinatedBy
+136376,,http://treatment.plazi.org/id/9CAD1D43FC3248CEACA3CC32C4072FCA,,pollinatedBy
+136376,,Self pollinated,,pollinatedBy
+136376,513974,Andrena rudbeckiae,Coneflower Mining Bee,pollinatedBy
+136376,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+136376,,http://treatment.plazi.org/id/F92FF6BA7B28F3E00DFD8E0C4211EFAD,,pollinatedBy
+136376,,http://treatment.plazi.org/id/C72136B726E5580342B37994B63EAA2E,,pollinatedBy
+136376,,http://treatment.plazi.org/id/9F0ACE0AA3C452C1850412F3D581D68D,,pollinatedBy

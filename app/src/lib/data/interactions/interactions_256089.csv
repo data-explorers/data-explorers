@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+256089,151429,Sepia officinalis,European Common Cuttlefish,eats
+256089,48921,Hydrozoa,Hydrozoans,eats
+256089,85493,Crustacea,Crustaceans,eats
+256089,203478,Evadne,,eats
+256089,252869,Siphonophora,,eats
+256089,472067,Penilia avirostris,,eats
+256089,,Medusozoa,,eats
+256089,472067,Penilia avirostris,,preysOn

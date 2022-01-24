@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61845,17408,Vireo griseus,White-eyed Vireo,eatenBy
+61845,17394,Vireo gilvus,Warbling Vireo,eatenBy
+61845,41077,Phyllostomus discolor,pale spear-nosed bat,preyedUponBy

@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3806,47178,Actinopterygii,Ray-finned Fishes,eats
+3806,47459,Cephalopoda,Cephalopods,eats
+3806,,Zooplankton,,eats
+3806,344134,Euphausia superba,Antarctic Krill,eats
+3806,,Pisces,,eats
+3806,41687,Phocidae,Earless Seals,eatenBy
+3806,424322,Odontoceti,Toothed Whales,eatenBy
+3806,41724,Hydrurga leptonyx,Leopard Seal,eatenBy
+3806,4191,Phoebetria palpebrata,Light-mantled Albatross,eatenBy
+3806,4196,Macronectes,Giant Petrels,eatenBy
+3806,4198,Macronectes giganteus,Southern Giant-Petrel,eatenBy
+3806,41751,Arctocephalus gazella,Antarctic Fur Seal,eatenBy
+3806,144433,Thalassarche melanophris,Black-browed Albatross,eatenBy
+3806,4090,Thalassarche chrysostoma,Gray-headed Albatross,eatenBy
+3806,41731,Leptonychotes weddellii,Weddell Seal,eatenBy
+3806,618295,Dissostichus mawsoni,Antarctic toothfish,eatenBy
+3806,,Catharacta,,eatenBy
+3806,47459,Cephalopoda,Cephalopods,preysOn
+3806,,E. crystallorophias,,preysOn
+3806,344134,Euphausia superba,Antarctic Krill,preysOn
+3806,,Pisces,,preysOn
+3806,42251,Gazella,Slender Gazelles,preysOn
+3806,41724,Hydrurga leptonyx,Leopard Seal,preysOn
+3806,41687,Phocidae,Earless Seals,preyedUponBy
+3806,424322,Odontoceti,Toothed Whales,preyedUponBy
+3806,,leopard seals,,preyedUponBy
+3806,,Krill larvae,,preyedUponBy
+3806,,Krill adult,,preyedUponBy
+3806,,Small demersals,,preyedUponBy

@@ -1,0 +1,152 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130033,47686,Protozoa,protozoans,eats
+130033,,Detritus,,eats
+130033,,bacteria - protozoa,,eats
+130033,84735,Corixidae,Water Boatmen,eatenBy
+130033,47818,Libellula,Chasers and King Skimmers,eatenBy
+130033,52520,Aeshna,Hawkers and Typical Darners,eatenBy
+130033,51556,Sympetrum,Meadowhawks,eatenBy
+130033,88028,Dorocordulia,Lesser Emerald Dragonflies,eatenBy
+130033,81576,Belostoma,,eatenBy
+130033,177589,Laccophilus,,eatenBy
+130033,56557,Notonecta,Milky Backswimmers,eatenBy
+130033,,Tanypodinae,,eatenBy
+130033,51129,Gomphus,,eatenBy
+130033,,Toxorhynchites,,eatenBy
+130033,,Corethrella,,eatenBy
+130033,,Polycentropus,,eatenBy
+130033,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+130033,68076,Oncorhynchus aguabonita,Golden Trout,eatenBy
+130033,25637,Rana muscosa,Southern Mountain Yellow-legged Frog,eatenBy
+130033,47518,Salmo trutta,Brown Trout,eatenBy
+130033,57845,Sialis,,eatenBy
+130033,,Hydroporini,,eatenBy
+130033,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+130033,84734,Agabus,,eatenBy
+130033,,Dytiscus,,eatenBy
+130033,,Mochlonyx,,eatenBy
+130033,,Graphoderus,,eatenBy
+130033,,Gyrinus,,eatenBy
+130033,,Laccornis,,eatenBy
+130033,,Callicorixa,,eatenBy
+130033,,Colymbetes,,eatenBy
+130033,,Acilius,,eatenBy
+130033,,Desmopachria,,eatenBy
+130033,,Leuccorhinia,,eatenBy
+130033,,Hydroporus,,eatenBy
+130033,177448,Limnephilus,,eatenBy
+130033,,Chaoborus,,eatenBy
+130033,,Ranatra,,eatenBy
+130033,176596,Oecetis,,eatenBy
+130033,,Liodessus,,eatenBy
+130033,,Cordulia,,eatenBy
+130033,,Ilybius,,eatenBy
+130033,,Rhantus,,eatenBy
+130033,,Hygrotus,,eatenBy
+130033,,Somatochlora,,eatenBy
+130033,11941,Riparia riparia,Bank Swallow,eatenBy
+130033,6667,Cypseloides niger,Black Swift,eatenBy
+130033,130989,Euthamia graminifolia,flat-topped goldenrod,pollinates
+130033,52344,Ipomoea purpurea,common morning-glory,pollinates
+130033,154473,Pycnanthemum virginianum,Virginia mountain mint,pollinates
+130033,50790,Linaria vulgaris,common toadflax,pollinates
+130033,57457,Stachys palustris,Marsh Woundwort,pollinates
+130033,53207,Senecio,groundsels,pollinates
+130033,52119,Populus deltoides,Eastern Cottonwood,pollinates
+130033,84160,Nelumbo lutea,American lotus,pollinates
+130033,,Myosotis,,pollinates
+130033,128839,Lobelia spicata,pale-spiked lobelia,pollinates
+130033,48038,Lobelia cardinalis,cardinal flower,pollinates
+130033,,Veronicastrum virginicum,,pollinates
+130033,,Scutellaria,,pollinates
+130033,59042,Phyla lanceolata,lanceleaf frogfruit,pollinates
+130033,,Polygonum amphibium,,pollinates
+130033,,Rubus villosus,,pollinates
+130033,,Vernonia fasciculata,,pollinates
+130033,,Sicyos angulatus,,pollinates
+130033,,Proboscidea louisianica,,pollinates
+130033,,Melanthium virginicum,,pollinates
+130033,,Polygonum lapathifolium,,pollinates
+130033,167607,Pycnanthemum flexuosum,Savanna Mountainmint,pollinates
+130033,,Penstemon laevigatus,,pollinates
+130033,,Mimulus ringens,,pollinates
+130033,,Pyrus coronaria,,pollinates
+130033,,Petalostemum,,pollinates
+130033,50625,Ptelea trifoliata,common hoptree,pollinates
+130033,155000,Salix cordata,sand dune willow,pollinates
+130033,,Polygala sanguinea,,pollinates
+130033,82536,Viola pedata,bird's foot violet,pollinates
+130033,,Ranunculus recurvatus,,pollinates
+130033,119737,Ipomoea pandurata,wild potato vine,pollinates
+130033,,Polygonum foliosum paludicola,,pollinates
+130033,,Persicaria maculosa maculosa,,pollinates
+130033,,Silphium terebinthinaceum,,pollinates
+130033,,Vitis cordifolia,,pollinates
+130033,,Smilacina racemosa,,pollinates
+130033,,Seymeria,,pollinates
+130033,,Polemonium reptans,,pollinates
+130033,,Morinda royoc,,pollinates
+130033,51556,Sympetrum,Meadowhawks,preyedUponBy
+130033,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+130033,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+130033,81576,Belostoma,,preyedUponBy
+130033,177589,Laccophilus,,preyedUponBy
+130033,82081,Theridion,Tangleweb Spiders,preyedUponBy
+130033,48139,Salticidae,Jumping Spiders,preyedUponBy
+130033,51469,Aeshnidae,Darners,preyedUponBy
+130033,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+130033,47927,Anisoptera,Dragonflies,preyedUponBy
+130033,84735,Corixidae,Water Boatmen,preyedUponBy
+130033,,Leuccorhinia,,preyedUponBy
+130033,177448,Limnephilus,,preyedUponBy
+130033,56557,Notonecta,Milky Backswimmers,preyedUponBy
+130033,,Graphoderus,,preyedUponBy
+130033,,Liodessus,,preyedUponBy
+130033,,Laccornis,,preyedUponBy
+130033,,Ranatra,,preyedUponBy
+130033,,Dytiscus,,preyedUponBy
+130033,84734,Agabus,,preyedUponBy
+130033,,Hydroporus,,preyedUponBy
+130033,,Ilybius,,preyedUponBy
+130033,,Chaoborus,,preyedUponBy
+130033,176596,Oecetis,,preyedUponBy
+130033,,Somatochlora,,preyedUponBy
+130033,,Gyrinus,,preyedUponBy
+130033,,Callicorixa,,preyedUponBy
+130033,,Acilius,,preyedUponBy
+130033,,Rhantus,,preyedUponBy
+130033,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+130033,121444,Larinioides,,preyedUponBy
+130033,82118,Dolomedes,Fishing Spiders,preyedUponBy
+130033,,Sympetrum striolatum,,preyedUponBy
+130033,,Orthetrum,,preyedUponBy
+130033,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+130033,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+130033,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+130033,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+130033,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+130033,,Paravespula vulgaris,,preyedUponBy
+130033,556059,Dolichopus nitidus,,preyedUponBy
+130033,51679,Coenagrion,Northern Bluets,preyedUponBy
+130033,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+130033,,Araneus sturmi,,preyedUponBy
+130033,357413,Evarcha arcuata,,preyedUponBy
+130033,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+130033,,Coenagrion pulchellum,,preyedUponBy
+130033,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+130033,232475,Thanatus striatus,Five-striped Spider,preyedUponBy
+130033,,Dolichovespula sylvestris,,preyedUponBy
+130033,,Orthetrum cancellatum,,preyedUponBy
+130033,121766,Micrommata virescens,Green Huntsman Spider,preyedUponBy
+130033,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+130033,57845,Sialis,,preyedUponBy
+130033,47516,Oncorhynchus mykiss,Rainbow Trout,preyedUponBy
+130033,,Hydroporini,,preyedUponBy
+130033,49596,Salvelinus fontinalis,Brook Trout,preyedUponBy
+130033,,Polycentropus,,preyedUponBy
+130033,47518,Salmo trutta,Brown Trout,preyedUponBy
+130033,25637,Rana muscosa,Southern Mountain Yellow-legged Frog,preyedUponBy
+130033,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+130033,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+130033,,Litoria fallax,,preyedUponBy
+130033,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy

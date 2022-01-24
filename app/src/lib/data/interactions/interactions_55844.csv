@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55844,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+55844,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+55844,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+55844,,Oiketicus,,eatenBy
+55844,,Ceuthospora feurichii,,eatenBy
+55844,,Macrophoma vincae,,eatenBy
+55844,,Phacidium vincae,,eatenBy
+55844,,Phomopsis lirella,,eatenBy
+55844,47219,Apis mellifera,Western Honey Bee,pollinatedBy

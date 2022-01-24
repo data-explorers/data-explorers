@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+163112,47219,Apis mellifera,Western Honey Bee,eatenBy
+163112,6317,Calypte anna,Anna's Hummingbird,eatenBy
+163112,52775,Bombus,Bumble Bees,eatenBy
+163112,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+163112,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+163112,,Colibri thalassinus cyanotus,,eatenBy
+163112,,Metallura tyrianthina,,eatenBy
+163112,,Tenthredo (Tenthredella) colon,,eatenBy
+163112,,Basidiodendron cinereum,,eatenBy
+163112,,Peniophora violaceolivida,,eatenBy
+163112,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+163112,,Vespula alascensis,,eatenBy
+163112,497142,Bombus dahlbomii,Giant Bumble Bee,eatenBy
+163112,133704,Bombus ruderatus,Large Garden Bumble Bee,eatenBy
+163112,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+163112,,Sephanoides sephanoides,,pollinatedBy
+163112,133704,Bombus ruderatus,Large Garden Bumble Bee,pollinatedBy
+163112,497142,Bombus dahlbomii,Giant Bumble Bee,pollinatedBy

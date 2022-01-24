@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+147370,47158,Insecta,Insects,eats
+147370,47336,Formicidae,Ants,eats
+147370,372712,Nylanderia flavipes,Yellow-footed Ant,eats
+147370,,Prenolepis imparis,,eats
+147370,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+147370,,Parkesia motacilla,,eatenBy
+147370,,Empidonax virescens,,eatenBy
+147370,47158,Insecta,Insects,preysOn
+147370,47336,Formicidae,Ants,preysOn
+147370,53237,Cicadellidae,Typical Leafhoppers,preysOn
+147370,47822,Diptera,Flies,preysOn
+147370,184884,Pterygota,Winged and Once-winged Insects,preysOn

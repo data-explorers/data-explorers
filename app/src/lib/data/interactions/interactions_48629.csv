@@ -1,0 +1,145 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48629,55811,Prunus spinosa,Blackthorn,eats
+48629,54135,Satyrium,Satyrid Hairstreaks,eatenBy
+48629,118494,Macaria,,eatenBy
+48629,42069,Vulpes vulpes,Red Fox,eatenBy
+48629,14850,Sturnus vulgaris,European Starling,eatenBy
+48629,13858,Passer domesticus,House Sparrow,eatenBy
+48629,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+48629,119340,Amphipyra pyramidoides,American Copper Underwing,eatenBy
+48629,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+48629,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+48629,211345,Stigmella,,eatenBy
+48629,,Cosmia trapezina,,eatenBy
+48629,,Aporia crataegi,,eatenBy
+48629,,Allophyes oxycanthae,,eatenBy
+48629,,Diloba caeruleocephala,,eatenBy
+48629,335848,Erannis defoliaria,Mottled Umber,eatenBy
+48629,244656,Orthosia incerta,Clouded Drab,eatenBy
+48629,,Malacosoma neustria,,eatenBy
+48629,,Chloroclystis rectangulata,,eatenBy
+48629,,Xestia triangulum,,eatenBy
+48629,,Nola confusalis,,eatenBy
+48629,,Agriopis marginaria,,eatenBy
+48629,,Phigalia pilosaria,,eatenBy
+48629,,Thalera fimbrialis,,eatenBy
+48629,,Orthosia gothica,,eatenBy
+48629,,Eriogaster lanestris ,,eatenBy
+48629,,Operophtera brumata,,eatenBy
+48629,,Selenia dentaria,,eatenBy
+48629,212855,Agrochola lota,Red-line Quaker,eatenBy
+48629,,Acronicta psi,,eatenBy
+48629,,Orgyia antiqua,,eatenBy
+48629,,Abraxas grossulariata,,eatenBy
+48629,,Asteroscopus sphinx,,eatenBy
+48629,,Colotois pennaria,,eatenBy
+48629,,Xestia baja,,eatenBy
+48629,,Acronicta strigosa,,eatenBy
+48629,,Electrophaes corylata,,eatenBy
+48629,,Graphiphora augur,,eatenBy
+48629,483380,Orgyia recens,Scarce Vapourer,eatenBy
+48629,,Stauropus fagi,,eatenBy
+48629,,Saturnia pavonia,,eatenBy
+48629,,Eurois occulta,,eatenBy
+48629,,Theria rupicapraria,,eatenBy
+48629,,Naenia typica,,eatenBy
+48629,,Epirrita christyi,,eatenBy
+48629,,Blepharita satura,,eatenBy
+48629,,Cosmia pyralina,,eatenBy
+48629,,Conistra ligula,,eatenBy
+48629,,Odontopera bidentata,,eatenBy
+48629,205220,Ourapteryx sambucaria,Swallow-tailed Moth,eatenBy
+48629,,Chloroclystis chloerata,,eatenBy
+48629,,Aleucis,,eatenBy
+48629,,Selenia lunularia,,eatenBy
+48629,,Diarsia mendica,,eatenBy
+48629,,Eupithecia exiguata,,eatenBy
+48629,,Trichiura crataegi,,eatenBy
+48629,125312,Callimorpha dominula,Scarlet Tiger,eatenBy
+48629,,Perconia strigillaria,,eatenBy
+48629,,Angerona prunaria,,eatenBy
+48629,335485,Chloroclysta siterata,Red-green Carpet,eatenBy
+48629,,Epirrita dilutata,,eatenBy
+48629,,Orthosia gracilis,,eatenBy
+48629,,Hydrelia sylvata,,eatenBy
+48629,,Opisthograptis luteolata,,eatenBy
+48629,,Eupsilia transversa,,eatenBy
+48629,,Thecla betulae,,eatenBy
+48629,,Campaea margaritata,,eatenBy
+48629,,Nola cucullatella,,eatenBy
+48629,,Crocallis elinguaria,,eatenBy
+48629,,Colocasia coryli,,eatenBy
+48629,56639,Agriopis aurantiaria,Scarce Umber Moth,eatenBy
+48629,,Plemyria rubiginata,,eatenBy
+48629,,Smerinthus ocellata,,eatenBy
+48629,,Egira conspicillaris,,eatenBy
+48629,,Gastropacha quercifolia,,eatenBy
+48629,,Lomographa temerata,,eatenBy
+48629,,Ennomos autumnaria,,eatenBy
+48629,,Euproctis chrysorrhoea,,eatenBy
+48629,,Dasycampa,,eatenBy
+48629,56582,Lasiocampa quercus,Oak Eggar,eatenBy
+48629,,Cilix glaucata,,eatenBy
+48629,,Acronicta tridens,,eatenBy
+48629,1015984,Pareophora pruni,,eatenBy
+48629,,Hoplocampa fulvicornis,,eatenBy
+48629,,Hoplocampa flava,,eatenBy
+48629,,Nematus (Nematus) lucidus,,eatenBy
+48629,,Hoplocampa chrysorrhoea,,eatenBy
+48629,,Magdalis ruficornis,,eatenBy
+48629,,Magdalis barbicornis,,eatenBy
+48629,,Scolytus rugulosus,,eatenBy
+48629,,Magdalis cerasi,,eatenBy
+48629,,Apodemus flavicollis,,eatenBy
+48629,,Apodemus sylvaticus,,eatenBy
+48629,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+48629,8029,Corvus frugilegus,Rook,eatenBy
+48629,,Alectoris rufa,,eatenBy
+48629,,Myodes glareolus,,eatenBy
+48629,,Carduelis chloris,,eatenBy
+48629,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+48629,,Carduelis carduelis,,eatenBy
+48629,,Turdus iliacus,,eatenBy
+48629,47652,Erynnis,Duskywings,pollinatedBy
+48629,52756,Polistes,Umbrella Paper Wasps,pollinatedBy
+48629,325491,Sayapis,,pollinatedBy
+48629,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+48629,,Acontia candefacta,,pollinatedBy
+48629,,Phor,,pollinatedBy
+48629,465593,Mutilla,,pollinatedBy
+48629,,Centrinus,,pollinatedBy
+48629,,Ripiphorus,,pollinatedBy
+48629,,Photinus pyralis,,pollinatedBy
+48629,,Hiatomyia cyanescens,,pollinatedBy
+48629,,Metoposarcophaga,,pollinatedBy
+48629,628299,Diceratosmia,,pollinatedBy
+48629,,Bracon,,pollinatedBy
+48629,,Glypta,,pollinatedBy
+48629,,Brachicoma,,pollinatedBy
+48629,130121,Chrysis,,pollinatedBy
+48629,,Euschistus ictericus,,pollinatedBy
+48629,,Corimelaena pulicaria,,pollinatedBy
+48629,,Lampronota,,pollinatedBy
+48629,,Empis distans,,pollinatedBy
+48629,,Triepeolus donatus,,pollinatedBy
+48629,177484,Leptura,,pollinatedBy
+48629,,Hypostena,,pollinatedBy
+48629,,Teleas,,pollinatedBy
+48629,,Leucopis minor,,pollinatedBy
+48629,,Parhelophilus divisus,,pollinatedBy
+48629,,Polysphincta,,pollinatedBy
+48629,,Panzeria,,pollinatedBy
+48629,,Phyto,,pollinatedBy
+48629,,Hylemya,,pollinatedBy
+48629,,Holonomada,,pollinatedBy
+48629,,Ceriana,,pollinatedBy
+48629,,Ceropales,,pollinatedBy
+48629,,Xyalosema,,pollinatedBy
+48629,,Themira putris,,pollinatedBy
+48629,,Anoplius illinoensis,,pollinatedBy
+48629,,Batizonus algidus,,pollinatedBy
+48629,,Syntomopus americanus,,pollinatedBy
+48629,,Osmia lignaria,,pollinatedBy
+48629,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+48629,905302,Lissodema denticolle,,preyedUponBy
+48629,976493,Sphaeriestes stockmanni,,preyedUponBy

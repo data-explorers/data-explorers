@@ -1,0 +1,160 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48328,1,Animalia,Animals,eats
+48328,85493,Crustacea,Crustaceans,eats
+48328,47115,Mollusca,Molluscs,eats
+48328,47584,Bivalvia,Bivalves,eats
+48328,47114,Gastropoda,Gastropods,eats
+48328,,Microcalanus,,eats
+48328,,Calanus hyperboreus,,eats
+48328,,Metridia longa,,eats
+48328,372502,Calanus finmarchicus,,eats
+48328,,Oithona spinirostris,,eats
+48328,,Calanus glacialis,,eats
+48328,203495,Pseudocalanus,,eats
+48328,144129,Cephalocarida,Horseshoe Shrimps,eats
+48328,117571,Clupea pallasii,Pacific herring,eats
+48328,,Pisces,,eats
+48328,338754,Symbion pandora,,eats
+48328,128750,Sciaenops ocellatus,Red Drum,eats
+48328,,Gnathostomata,,eats
+48328,,Synchaeta cecilia,,eats
+48328,126921,Brachionus,,eats
+48328,,Eurytemora hirundoides,,eats
+48328,,Pseudocalanus acuspes,,eats
+48328,203471,Centropages hamatus,,eats
+48328,203467,Temora longicornis,,eats
+48328,,Podon,,eats
+48328,195081,Acartia,,eats
+48328,203477,Evadne nordmanni,,eats
+48328,201774,Paracalanus,,eats
+48328,,Oithona similis,,eats
+48328,549845,Oithona davisae,,eats
+48328,201778,Calanus sinicus,,eats
+48328,679265,Oikopleura dioica,,eats
+48328,1272678,Acartia omorii,,eats
+48328,,Medusozoa,,eats
+48328,1023075,Rathkea octopunctata,,eats
+48328,480415,Acartia clausi,,eats
+48328,,Paracalanus parvus,,eats
+48328,329013,Pseudocalanus elongatus,,eats
+48328,,Calanus euxinus,,eats
+48328,1297371,Bosmina coregoni,baltic long-nosed waterflea,eats
+48328,69838,Cyanea capillata,Lion's Mane Jelly,eatenBy
+48328,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+48328,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+48328,48478,Chrysaora quinquecirrha,Atlantic Sea Nettle,eatenBy
+48328,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+48328,63740,Gadus morhua,Atlantic Cod,eatenBy
+48328,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+48328,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+48328,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+48328,213518,Anarhichas denticulatus,Northern Wolffish,eatenBy
+48328,295474,Libinia dubia,Longnose Spider Crab,eatenBy
+48328,,Flabellina verrucosa,,eatenBy
+48328,329118,Sapphirina,,preysOn
+48328,180788,Mnemiopsis leidyi,Common Comb Jelly,preysOn
+48328,483880,Alona costata,,preysOn
+48328,,Ectocyclops phaleratus,,preysOn
+48328,,Eubosmina coregoni,,preysOn
+48328,,Coullana canadensis,,preysOn
+48328,533824,Ceriodaphnia lacustris,,preysOn
+48328,1110969,Lathonura rectirostris,,preysOn
+48328,,Ectinosoma compressum,,preysOn
+48328,201760,Nannocalanus,,preysOn
+48328,338145,Diaphanosoma,,preysOn
+48328,567474,Acartia hudsonica,,preysOn
+48328,,Metridia princeps,,preysOn
+48328,203471,Centropages hamatus,,preysOn
+48328,168927,Sida crystallina,,preysOn
+48328,483834,Ceriodaphnia quadrangula,,preysOn
+48328,1297371,Bosmina coregoni,baltic long-nosed waterflea,preysOn
+48328,984261,Temora turbinata,,preysOn
+48328,1196588,Corycaeus crassiusculus,,preysOn
+48328,,Pararobertsonia chesapeakensis,,preysOn
+48328,,Pleopis polyphemoides,,preysOn
+48328,483859,Monospilus dispar,,preysOn
+48328,950701,Eurytemora americana,,preysOn
+48328,472067,Penilia avirostris,,preysOn
+48328,983551,Oithona colcarva,,preysOn
+48328,171609,Simocephalus,,preysOn
+48328,,Pontella meadi,,preysOn
+48328,,Corycaeus amazonicus,,preysOn
+48328,203467,Temora longicornis,,preysOn
+48328,97990,Clupea harengus,Atlantic Herring,preysOn
+48328,87923,Diaptomus,,preysOn
+48328,1110968,Podon intermedius,,preysOn
+48328,,Labidocera wollastoni,,preysOn
+48328,219884,Eurytemora affinis,,preysOn
+48328,,Pontella meadii,,preysOn
+48328,1023066,Labidocera aestiva,,preysOn
+48328,212213,Acanthocyclops vernalis,,preysOn
+48328,,Macrocyclops,,preysOn
+48328,,Clytemnestra rostrata,,preysOn
+48328,338141,Chydorus,,preysOn
+48328,567473,Tortanus discaudatus,,preysOn
+48328,1349347,Tisbe furcata,,preysOn
+48328,,Paralaophonte brevirostris,,preysOn
+48328,,Metis,,preysOn
+48328,1019939,Leptodora kindtii,,preysOn
+48328,203468,Bosmina longirostris,Elephant Water Flea,preysOn
+48328,295156,Acetes americanus,Aviu shrimp,preysOn
+48328,,Pseudodiaptomus coronatus,,preysOn
+48328,,Farranula gracilis,,preysOn
+48328,,Paracalanus crassirostris,,preysOn
+48328,984283,Euterpina acutifrons,,preysOn
+48328,203387,Mesocyclops edax,,preysOn
+48328,,Harpacticus gracilis,,preysOn
+48328,,Cyclops vernalis,,preysOn
+48328,,Alteutha depressa,,preysOn
+48328,483862,Latona setifera,,preysOn
+48328,,Zausodes arenicolus,,preysOn
+48328,626372,Daphnia retrocurva,,preysOn
+48328,,Halicyclops magniceps,,preysOn
+48328,1080182,Picripleuroxus striatus,,preysOn
+48328,329012,Centropages furcatus,,preysOn
+48328,,Diaphanosoma leuchtenbergia,,preysOn
+48328,,Harpacticus chelifer,,preysOn
+48328,338150,Camptocercus rectirostris,,preysOn
+48328,,Leptinogaster major,,preysOn
+48328,,Subeucalanus pileatus,,preysOn
+48328,493544,Diacyclops thomasi,,preysOn
+48328,203397,Acartia tonsa,,preysOn
+48328,,Paracyclops fibriatus,,preysOn
+48328,203478,Evadne,,preysOn
+48328,688301,Scapholeberis kingi,,preysOn
+48328,,Alonella,,preysOn
+48328,201726,Corycaeus speciosus,,preysOn
+48328,,Saphirella,,preysOn
+48328,218302,Diacyclops bicuspidatus,,preysOn
+48328,201774,Paracalanus,,preysOn
+48328,339089,Ergasilus,,preysOn
+48328,201724,Temora stylifera,,preysOn
+48328,,Daphnia lumholtzi,,preysOn
+48328,,Alona affinis,,preysOn
+48328,483871,Leydigia leydigi,,preysOn
+48328,219709,Eucyclops agilis,,preysOn
+48328,329131,Caligus,,preysOn
+48328,1003858,Ilyocryptus spinifer,,preysOn
+48328,,Diosaccus tenuicornis,,preysOn
+48328,,Daphnia pulex,,preysOn
+48328,329109,Oncaea,,preysOn
+48328,329024,Rhincalanus nasutus,,preysOn
+48328,126921,Brachionus,,preysOn
+48328,,Oithona similis,,preysOn
+48328,549845,Oithona davisae,,preysOn
+48328,679265,Oikopleura dioica,,preysOn
+48328,201778,Calanus sinicus,,preysOn
+48328,1023075,Rathkea octopunctata,,preysOn
+48328,,Paracalanus parvus,,preysOn
+48328,329013,Pseudocalanus elongatus,,preysOn
+48328,480415,Acartia clausi,,preysOn
+48328,203477,Evadne nordmanni,,preysOn
+48328,69838,Cyanea capillata,Lion's Mane Jelly,preyedUponBy
+48328,39677,Dermochelys coriacea,Leatherback Sea Turtle,preyedUponBy
+48328,48478,Chrysaora quinquecirrha,Atlantic Sea Nettle,preyedUponBy
+48328,52966,Phacellophora camtschatica,Egg-yolk Jelly,preyedUponBy
+48328,39836,Malaclemys terrapin,Diamondback Terrapin,preyedUponBy
+48328,481600,Cratena pilata,Striped Nudibranch,preyedUponBy
+48328,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+48328,96740,Caranx crysos,Blue Runner,preyedUponBy
+48328,,Flabellina verrucosa,,preyedUponBy

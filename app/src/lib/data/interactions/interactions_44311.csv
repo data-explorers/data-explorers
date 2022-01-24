@@ -1,0 +1,146 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44311,48571,Carex,true sedges,eats
+44311,58721,Larix laricina,tamarack,eats
+44311,48726,Iris versicolor,northern blue flag,eats
+44311,48229,Ranunculus repens,Creeping buttercup,eats
+44311,67860,Brachythecium,,eats
+44311,67748,Maianthemum canadense,Canada mayflower,eats
+44311,53178,Plantago lanceolata,ribwort plantain,eats
+44311,53268,Maianthemum stellatum,star-flowered lily-of-the-valley,eats
+44311,47602,Taraxacum officinale,common dandelion,eats
+44311,116361,Acer spicatum,Mountain Maple,eats
+44311,54774,Viburnum,viburnums,eats
+44311,57190,Phleum pratense,Timothy grass,eats
+44311,47208,Coleoptera,Beetles,eats
+44311,54294,Peltigera,pelt lichens,eats
+44311,52821,Achillea millefolium,Common Yarrow,eats
+44311,132767,Chamaedaphne calyculata,leatherleaf,eats
+44311,52972,Epilobium,willowherbs,eats
+44311,51876,Trifolium,clovers,eats
+44311,47758,Oxalis,woodsorrels,eats
+44311,47157,Lepidoptera,Butterflies and Moths,eats
+44311,67912,Polytrichum,haircap mosses,eats
+44311,54704,Sphagnum,Sphagnum mosses,eats
+44311,47192,Cornus canadensis,Canadian bunchberry,eats
+44311,44311,Microtus pennsylvanicus,Meadow Vole,eats
+44311,58725,Juniperus communis,common juniper,eats
+44311,53195,Rumex acetosella,Sheep's sorrel,eats
+44311,47158,Insecta,Insects,eats
+44311,53460,Gaultheria hispidula,creeping snowberry,eats
+44311,130677,Pleurozium schreberi,Red-stemmed Feather Moss,eats
+44311,52162,Cakile edentula,American searocket,eats
+44311,,Sphagnum recurvum,,eats
+44311,,http://treatment.plazi.org/id/50341975FBE28C6A7D3C04BAB986D2AD,,eats
+44311,,Luzula campestris,,eats
+44311,,Conioselinum pacificum,,eats
+44311,,Abies balsamea,,eats
+44311,,Juniperus horizontallis,,eats
+44311,,Panicum capillare,,eats
+44311,,Vaccinum angustifolium,,eats
+44311,,http://treatment.plazi.org/id/DC7DE43254C0691047D09B3B9A666B55,,eats
+44311,,Rosa nitida,,eats
+44311,,Sanguisorba canadensis,,eats
+44311,,Rhododendron canadense,,eats
+44311,,Cochlearia tridactylites,,eats
+44311,,Dicranum scoparium,,eats
+44311,,Mertensia maritima,,eats
+44311,,Endogone,,eats
+44311,,Picea mariana,,eats
+44311,,Vaccinum uliginosum,,eats
+44311,,Empetrum nigrum,,eats
+44311,,Leontondon autumnalis,,eats
+44311,,http://treatment.plazi.org/id/8CDDB8FE5199BEA9FC8C197936C1A53C,,eats
+44311,,Vaccinum oxycoccus,,eats
+44311,,Atriplex patula,,eats
+44311,,Alopecurus pratensis,,eats
+44311,,Andromeda polifolia latifolia,,eats
+44311,,Thalictrum pubescens,,eats
+44311,,Veronica agrestis,,eats
+44311,160036,Carex nigra,smooth black sedge,eats
+44311,52651,Sarracenia purpurea,purple pitcher plant,eats
+44311,,Ceratodon purpureus,,eats
+44311,,Elymus repens,,eats
+44311,126888,Solidago sempervirens,northern seaside goldenrod,eats
+44311,56861,Symphyotrichum chilense,Pacific Aster,eats
+44311,,Sorbus decora,,eats
+44311,,Iris setosa,,eats
+44311,,Alnus crispa,,eats
+44311,,Potentilla norvegica,,eats
+44311,,Muhlenbergia sobolifera,,eats
+44311,51645,Rubus parvifolius,small-leaf bramble,eats
+44311,,Lathyrus japonicus,,eats
+44311,204169,Trichophorum cespitosum,Tufted Bulrush,eats
+44311,,Myrica gale,,eats
+44311,,Sedum rosea,,eats
+44311,,Plantago maritima juncoides,,eats
+44311,161868,Dicranum polysetum,Waxyleaf Moss,eats
+44311,,Poa compressa,,eats
+44311,,Aster,,eats
+44311,,Betula michauxii,,eats
+44311,,Ledum groenlandicum,,eats
+44311,,Hieracium floribundum,,eats
+44311,,Galium elongatum,,eats
+44311,,Ilex mucronata,,eats
+44311,,Pyrus floribunda,,eats
+44311,,Lonicera villosa,,eats
+44311,,Taxus canadensis,,eats
+44311,,Vaccinum vitis-idaea,,eats
+44311,42051,Canis latrans,Coyote,eatenBy
+44311,41976,Lynx rufus,Bobcat,eatenBy
+44311,42069,Vulpes vulpes,Red Fox,eatenBy
+44311,19350,Strigiformes,Owls,eatenBy
+44311,67570,Falconiformes,Falcons and Caracaras,eatenBy
+44311,41801,Mustela,,eatenBy
+44311,26172,Squamata,Snakes and Lizards,eatenBy
+44311,20445,Tyto alba,Barn Owl,eatenBy
+44311,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44311,42054,Vulpes,Typical Foxes,eatenBy
+44311,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+44311,20413,Tytonidae,Barn-Owls,eatenBy
+44311,4665,Falco sparverius,American Kestrel,eatenBy
+44311,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44311,19893,Strix varia,Barred Owl,eatenBy
+44311,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+44311,558446,Circus hudsonius,Northern Harrier,eatenBy
+44311,4672,Falco columbarius,Merlin,eatenBy
+44311,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+44311,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+44311,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+44311,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+44311,922459,Felis silvestris,European Wildcat,eatenBy
+44311,41798,Martes americana,American Marten,eatenBy
+44311,,Martes pennanti,,eatenBy
+44311,41644,Ursus maritimus,Polar Bear,eatenBy
+44311,20307,Asio otus,Long-eared Owl,eatenBy
+44311,19975,Athene cunicularia,Burrowing Owl,eatenBy
+44311,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+44311,20315,Asio flammeus,Short-eared Owl,eatenBy
+44311,,http://arctos.database.museum/guid/DMNS:Bird:34623,,eatenBy
+44311,,Coyote,,eatenBy
+44311,,Canadian lynx,,eatenBy
+44311,,American marten,,eatenBy
+44311,,Ermine,,eatenBy
+44311,,American mink,,eatenBy
+44311,41641,Ursus arctos,Brown Bear,eatenBy
+44311,144594,Bubo scandiacus,Snowy Owl,eatenBy
+44311,19890,Strix nebulosa,Great Gray Owl,eatenBy
+44311,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+44311,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+44311,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+44311,558512,Lanius borealis,Northern Shrike,eatenBy
+44311,143853,Pica hudsonia,Black-billed Magpie,eatenBy
+44311,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+44311,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+44311,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+44311,44311,Microtus pennsylvanicus,Meadow Vole,preysOn
+44311,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+44311,4665,Falco sparverius,American Kestrel,preyedUponBy
+44311,3,Aves,Birds,preyedUponBy
+44311,144455,Ardea alba,Great Egret,preyedUponBy
+44311,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+44311,44311,Microtus pennsylvanicus,Meadow Vole,preyedUponBy
+44311,42069,Vulpes vulpes,Red Fox,preyedUponBy
+44311,29824,Lampropeltis calligaster rhombomaculata,Mole Kingsnake,preyedUponBy
+44311,27149,Coluber constrictor constrictor,Northern Black Racer,preyedUponBy
+44311,73887,Pantherophis guttatus,Corn Snake,preyedUponBy
+44311,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy

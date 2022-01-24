@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59699,48778,Lepas anserifera,Goose Barnacle,eatenBy
+59699,50531,Fiona pinnata,,eatenBy
+59699,50498,Glaucus atlanticus,Sea Swallow,eatenBy
+59699,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+59699,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+59699,,Puffinus griseus,,eatenBy
+59699,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+59699,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+59699,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy

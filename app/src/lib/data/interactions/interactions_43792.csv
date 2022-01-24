@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43792,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+43792,41852,Gulo gulo,Wolverine,eatenBy
+43792,41979,Lynx lynx,Eurasian Lynx,eatenBy
+43792,41798,Martes americana,American Marten,eatenBy
+43792,,Martes pennanti,,eatenBy

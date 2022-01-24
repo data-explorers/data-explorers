@@ -1,0 +1,58 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+979757,52381,Aphididae,Aphids,eats
+979757,47208,Coleoptera,Beetles,eats
+979757,48736,Curculionidae,True Weevils,eats
+979757,47535,Araneidae,Orbweavers,eats
+979757,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+979757,47158,Insecta,Insects,eats
+979757,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+979757,47157,Lepidoptera,Butterflies and Moths,eats
+979757,48486,Coccinellidae,Lady Beetles,eats
+979757,61267,Heteroptera,True Bugs,eats
+979757,53225,Rhopalidae,Scentless Plant Bugs,eats
+979757,211194,Tracheophyta,vascular plants,eats
+979757,53237,Cicadellidae,Typical Leafhoppers,eats
+979757,47118,Araneae,Spiders,eats
+979757,47336,Formicidae,Ants,eats
+979757,47822,Diptera,Flies,eats
+979757,47742,Pentatomidae,Stink Bugs,eats
+979757,48194,Psyllidae,jumping plant lice,eats
+979757,53506,Tingidae,Lace Bugs,eats
+979757,47124,Magnoliopsida,dicots,eats
+979757,49456,Coccidae,Soft scales,eats
+979757,54834,Prunus serotina,black cherry,eats
+979757,48599,Phytolacca americana,American pokeweed,eats
+979757,53398,Eucalyptus globulus,Eurabbie,eats
+979757,473531,Eucalypteae,gum trees,eats
+979757,51815,Eucalyptus,eucalyptus,eats
+979757,50644,Salvia,Sages,eats
+979757,72232,Melaleuca,bottlebrushes,eats
+979757,118492,Helicoverpa zea,Corn Earworm Moth,eats
+979757,155373,Glycaspis brimblecombei,Red Gum Lerp Psyllid,eats
+979757,48686,Typha,bulrushes and cattails,eats
+979757,47567,Salicaceae,willow family,eats
+979757,184884,Pterygota,Winged and Once-winged Insects,eats
+979757,69819,Ligustrum,privets,eats
+979757,61863,Cercopidae,Froghoppers,eats
+979757,129878,Nabidae,Damsel Bugs,eats
+979757,,Saissetia oleae,,eats
+979757,130905,Vitis cinerea,graybark grape,eats
+979757,,Sassafras albidum,,eats
+979757,,Aralia spinosa,,eats
+979757,,Asphodeloideae,,eats
+979757,,Chasmanthe,,eats
+979757,,Aloe arborescens,,eats
+979757,71956,Aloe,Aloes,eats
+979757,50333,Lantana camara,common lantana,eats
+979757,,Melaleuca leucadendra,,eats
+979757,,Cestrum,,eats
+979757,,Punica granatum,,eats
+979757,,Persea americana,,eats
+979757,,Triadica sebifera,,eats
+979757,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+979757,,Schotia brachypetala,,eats
+979757,,Arbutoideae,,eats
+979757,,Chasmanthe floribunda,,eats
+979757,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+979757,47157,Lepidoptera,Butterflies and Moths,preysOn
+979757,47196,Timema,Timemas,preysOn

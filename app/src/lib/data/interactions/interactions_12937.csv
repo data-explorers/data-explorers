@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+12937,1,Animalia,Animals,eats
+12937,211194,Tracheophyta,vascular plants,eats
+12937,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+12937,47157,Lepidoptera,Butterflies and Moths,eats
+12937,47208,Coleoptera,Beetles,eats
+12937,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+12937,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+12937,47120,Arthropoda,Arthropods,eats
+12937,48987,Hippodamia convergens,Convergent Lady Beetle,eats
+12937,231080,Sitona hispidulus,Clover Weevil,eats
+12937,173324,Blapstinus,,eats
+12937,345140,Polycaon stoutii,Stout's Hardwood Borer,eats
+12937,48972,Polygonum,knotweeds,eats
+12937,57354,Schinus molle,Peruvian Pepper Tree,eats
+12937,50999,Ficus,Figs,eats
+12937,52689,Sambucus,elders,eats
+12937,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+12937,47118,Araneae,Spiders,eats
+12937,128712,Coccinella californica,California Lady Beetle,eats
+12937,47158,Insecta,Insects,eats
+12937,53196,Rumex,docks,eats
+12937,47351,Prunus,"plums, cherries, and allies",eats
+12937,47124,Magnoliopsida,dicots,eats
+12937,47822,Diptera,Flies,eats
+12937,47544,Rubus,brambles,eats
+12937,60773,Vitis,grapevines,eats
+12937,49567,Carabidae,Ground Beetles,eats
+12937,343310,Phoradendron villosum,oak mistletoe,eats
+12937,69758,Lumbricidae,Earthworms,eats
+12937,143792,Pistacia chinensis,Chinese pistache,eats
+12937,47742,Pentatomidae,Stink Bugs,eats
+12937,86400,Ammopelmatus,North American Jerusalem Crickets,eats
+12937,56832,Nymphalis antiopa,Mourning Cloak,eats
+12937,122224,Noctuinae,Cutworms and Dart Moths,eats
+12937,48111,Mantidae,Mantids,eats
+12937,84634,Cyclocephala,Masked Chafers,eats
+12937,143799,Sambucus cerulea,blue elder,eats
+12937,48670,Noctuidae,Cutworm Moths and Allies,eats
+12937,58308,Rhamnus ilicifolia,hollyleaf redberry,eats
+12937,50892,Euphydryas chalcedona,Variable Checkerspot,eats
+12937,48201,Scarabaeidae,Scarabs,eats
+12937,81545,Lumbricus terrestris,Common Earthworm,eats
+12937,49671,Phoradendron,leafy mistletoes,eats
+12937,47793,Dermaptera,Earwigs,eats
+12937,122455,Plusiinae,Plusiine Looper Moths,eats
+12937,,Euchelicerata,,eats
+12937,,Dellacasiellus fucosus,,eats
+12937,,Calamosternus granarius,,eats
+12937,,Solanum ptychanthum,,eats
+12937,,Amelanchier alnifolia,,eats
+12937,,Blapstinus dilatatus,,eats
+12937,635202,Sitona californius,,eats
+12937,970288,Otophorus haemorrhoidalis,,eats
+12937,131952,Silpha,,eats
+12937,,Labarrus lividus,,eats
+12937,121294,Curculio,Nut and Acorn Weevils,eats
+12937,,Rhigopsis effracta,,eats
+12937,,Chrysomela,,eats
+12937,,Aphodius,,eats
+12937,,Phoradendron californicum,,eats
+12937,133977,Sinea diadema,Spined Assassin Bug,eats
+12937,,Vrilletta murrayi,,eats
+12937,,Messor andrei,,eats
+12937,,Rhus copallinum,,eats
+12937,,Amara aurata,,eats
+12937,,Saissetia oleae,,eats
+12937,,Phoradendron serotinum,,eats
+12937,,Phoradendron juniperinum,,eats
+12937,57243,Rhamnus crocea,Redberry Buckthorn,eats
+12937,,Visceae,,eats
+12937,20044,Bubo virginianus,Great Horned Owl,eatenBy
+12937,4672,Falco columbarius,Merlin,eatenBy
+12937,4756,Cathartes aura,Turkey Vulture,eatenBy
+12937,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+12937,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+12937,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+12937,47607,Noctuoidea,Owlet Moths and Allies,preysOn
+12937,47157,Lepidoptera,Butterflies and Moths,preysOn
+12937,47158,Insecta,Insects,preysOn
+12937,56832,Nymphalis antiopa,Mourning Cloak,preysOn
+12937,47208,Coleoptera,Beetles,preysOn
+12937,333586,Oligochaeta,Earthworms and allies,preysOn
+12937,,Cordulegaster dorsalis,,preysOn

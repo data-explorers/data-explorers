@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4515,121639,Brachyura,True Crabs,eats
+4515,153112,Euphausiacea,krill,eats
+4515,152974,Pholis gunnellus,Rock gunnel,eats
+4515,165100,Mallotus villosus,Capelin,eats
+4515,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+4515,8010,Corvus corax,Common Raven,eatenBy
+4515,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4515,41644,Ursus maritimus,Polar Bear,eatenBy
+4515,112841,Somniosus microcephalus,Greenland Shark,eatenBy

@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53357,53357,Artemisia californica,California sagebrush,eats
+53357,47219,Apis mellifera,Western Honey Bee,eatenBy
+53357,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+53357,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+53357,53357,Artemisia californica,California sagebrush,eatenBy
+53357,,Dipodomys stephensi,,eatenBy
+53357,,Aseptis susquesa,,eatenBy
+53357,,Eupithecia acutipennis,,eatenBy
+53357,211808,Ptycerata,,eatenBy
+53357,,Rhopalomyia floccosa,,eatenBy
+53357,,Aceria paracalifornica,,eatenBy
+53357,,Amonostherium lichtensioides,,eatenBy
+53357,,Epameibaphis atricornis,,eatenBy
+53357,,Saxinis deserticola,,eatenBy
+53357,372415,Synecdoche rubella,,eatenBy

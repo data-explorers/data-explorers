@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+128712,52818,Achillea,yarrows,eats
+128712,48699,Apiaceae,carrot family,eats
+128712,52998,Conium maculatum,poison hemlock,eats
+128712,52821,Achillea millefolium,Common Yarrow,eats
+128712,51876,Trifolium,clovers,eats
+128712,53052,Foeniculum vulgare,fennel,eats
+128712,53359,Baccharis pilularis,coyote brush,eats
+128712,47121,Lupinus,lupines,eats
+128712,61905,Lavandula,Lavender,eats
+128712,,Allium,,eats
+128712,,Angelica hendersonii,,eats
+128712,,Achillea filipendulina,,eats
+128712,12937,Sialia mexicana,Western Bluebird,eatenBy
+128712,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+128712,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+128712,17009,Sayornis saya,Say's Phoebe,eatenBy
+128712,17013,Sayornis nigricans,Black Phoebe,eatenBy
+128712,17356,Vireo bellii,Bell's Vireo,eatenBy
+128712,17355,Vireo,Vireos,eatenBy
+128712,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+128712,17394,Vireo gilvus,Warbling Vireo,eatenBy

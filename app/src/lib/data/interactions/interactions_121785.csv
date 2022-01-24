@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121785,47982,Asilidae,Robber Flies,eatenBy
+121785,,Dipodomys,,eatenBy
+121785,47220,Apis,Honey Bees,pollinatedBy
+121785,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

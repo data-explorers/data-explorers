@@ -1,0 +1,111 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47452,133824,Chrysobothris,,eatenBy
+47452,60924,Icerya,Cushion Scale Insects,eatenBy
+47452,48185,Acizzia uncatoides,,eatenBy
+47452,47154,Cydia,,eatenBy
+47452,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+47452,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+47452,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+47452,47219,Apis mellifera,Western Honey Bee,eatenBy
+47452,6317,Calypte anna,Anna's Hummingbird,eatenBy
+47452,7266,Psaltriparus minimus,Bushtit,eatenBy
+47452,54573,Schizophyllum commune,splitgill mushroom,eatenBy
+47452,52775,Bombus,Bumble Bees,eatenBy
+47452,59152,Leptotes marina,Marine Blue,eatenBy
+47452,48548,Vanessa cardui,Painted Lady,eatenBy
+47452,7251,Passeriformes,Perching Birds,eatenBy
+47452,43698,Rodentia,Rodents,eatenBy
+47452,60921,Icerya purchasi,Cottony cushion scale,eatenBy
+47452,319203,Dasineura,,eatenBy
+47452,203276,Orius,,eatenBy
+47452,1409,Callipepla californica,California Quail,eatenBy
+47452,,Thalaina macfarlandi,,eatenBy
+47452,,Thalaina clara,,eatenBy
+47452,,Thalaina angulosa,,eatenBy
+47452,,Stangeia xerodes,,eatenBy
+47452,,Scirtothrips solus,,eatenBy
+47452,,Scirtothrips moneres,,eatenBy
+47452,,Schwarzithrips zammit,,eatenBy
+47452,,Schwarzithrips glyphis,,eatenBy
+47452,451010,Pholodes sinistraria,Sinister Moth,eatenBy
+47452,,Phallaria ophiusaria,,eatenBy
+47452,,Pasiphilodes testulata,,eatenBy
+47452,,Neobubastes nickerli,,eatenBy
+47452,,Nascioides multesimus,,eatenBy
+47452,,Microdes squamulata,,eatenBy
+47452,,Melobasis thoracica,,eatenBy
+47452,,Melobasis septemplagiata,,eatenBy
+47452,,Melobasis picticollis,,eatenBy
+47452,,Hypochrysops delicia,,eatenBy
+47452,,Homoeotrachelus australasiae,,eatenBy
+47452,,Gymnoscelis lophopus,,eatenBy
+47452,341909,Ectropis excursaria,Twig Looper,eatenBy
+47452,,Chrysolopus spectabilis,,eatenBy
+47452,,Chlorocoma dichloraria,,eatenBy
+47452,,Chloroclystis approximata,,eatenBy
+47452,,Castiarina verdiceps,,eatenBy
+47452,321367,Capusa senilis,,eatenBy
+47452,,Anthrenocerus confertus,,eatenBy
+47452,1064259,Androchela milvaria,,eatenBy
+47452,,Akainothrips nyngani,,eatenBy
+47452,,Akainothrips magnetis,,eatenBy
+47452,,Akainothrips festus,,eatenBy
+47452,,Akainothrips dalbyensis,,eatenBy
+47452,,Akainothrips crambus,,eatenBy
+47452,625028,Agrilus hypoleucus,,eatenBy
+47452,,Yangupia occidentalis,,eatenBy
+47452,,Crypthemichionaspis nigra,,eatenBy
+47452,,Trullifiorinia acaciae,,eatenBy
+47452,,Tropiphlepsia badia,,eatenBy
+47452,,Thaumastocoris nadeli,,eatenBy
+47452,545283,Sextius virescens,Green Treehopper,eatenBy
+47452,,Rosopaella cuprea,,eatenBy
+47452,,Rhizaspidiotus gidgei,,eatenBy
+47452,,Pseudozaphanera wariensis,,eatenBy
+47452,,Pseudaonidia dimidiata,,eatenBy
+47452,,Polyozus australianus,,eatenBy
+47452,,Poecilometis fuscescens,,eatenBy
+47452,569119,Pinnaspis buxi,coconut scale,eatenBy
+47452,,Pinnaspis aspidistriae,,eatenBy
+47452,,Parlatoria fulleri,,eatenBy
+47452,,Parafiorinia rubra,,eatenBy
+47452,,Octaspidiotus subrubescens,,eatenBy
+47452,,Nysius vinitor,,eatenBy
+47452,,Newmaniana mullensis,,eatenBy
+47452,,Neomorgania eucalypti,,eatenBy
+47452,,Monaonidiella nivea,,eatenBy
+47452,,Monaonidiella cerata,,eatenBy
+47452,,Metandaspis recurvata,,eatenBy
+47452,,Mcateella splendida,,eatenBy
+47452,391720,Lindingaspis rossi,Ross' Black Scale,eatenBy
+47452,,Leptoglossus gonagra,,eatenBy
+47452,,Lepidosaphes,,eatenBy
+47452,,Lepidosaphes casuarinae,,eatenBy
+47452,,Kirkaldyella ortholata,,eatenBy
+47452,,Kirkaldyella anasillosi,,eatenBy
+47452,,Ipo conferta,,eatenBy
+47452,1086740,Inoma fuscata,,eatenBy
+47452,,Hemiberlesia rapax,,eatenBy
+47452,330222,Hemiberlesia lataniae,Latania scale,eatenBy
+47452,,Hemaspidis hemichionaspiformis,,eatenBy
+47452,,Gymnaspis acaciae,,eatenBy
+47452,856612,Eutryonia monstrifera,,eatenBy
+47452,,Eulaingia stenophyllae,,eatenBy
+47452,,Eufroggattia tuberculata,,eatenBy
+47452,,Duplaspidiotus carptellus,,eatenBy
+47452,,Dialeuropora,,eatenBy
+47452,202774,Coridromius chenopoderis,,eatenBy
+47452,,Coleotichus costatus,,eatenBy
+47452,,Coccomytilus convexus,,eatenBy
+47452,,Coccomytilus acaciae,,eatenBy
+47452,,Clavaspis subfervens,,eatenBy
+47452,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+47452,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47452,61356,Vespula,Ground Yellowjackets,pollinatedBy
+47452,3,Aves,Birds,pollinatedBy
+47452,52777,Megachilidae,"Mason, Leafcutter, Carder, and Resin Bees",pollinatedBy
+47452,47213,Sphingidae,Sphinx Moths,pollinatedBy
+47452,47822,Diptera,Flies,pollinatedBy
+47452,47208,Coleoptera,Beetles,pollinatedBy
+47452,,Anoura,,pollinatedBy
+47452,,Poicephalus meyeri,,pollinatedBy

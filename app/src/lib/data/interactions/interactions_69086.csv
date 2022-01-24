@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69086,,Prunus laurocerasus,,eats
+69086,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+69086,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+69086,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+69086,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+69086,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+69086,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+69086,18236,Colaptes auratus,Northern Flicker,eatenBy
+69086,41641,Ursus arctos,Brown Bear,eatenBy
+69086,13732,Anthus rubescens,American Pipit,eatenBy
+69086,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+69086,57677,Halictus,Furrow Bees,pollinates
+69086,,Kerria japonica,,pollinates
+69086,13858,Passer domesticus,House Sparrow,preyedUponBy
+69086,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy
+69086,,Motacilla alba,,preyedUponBy
+69086,245656,Synema globosum,Napoleon Spider,preyedUponBy
+69086,,Solenopsis fugax,,preyedUponBy

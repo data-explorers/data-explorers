@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+78174,,Detritus,,eats
+78174,,autochthonous detritus,,eats
+78174,1267536,Tharsalea helloides,Purplish Copper,eatenBy
+78174,,Amalorrhynchus melanarius,,eatenBy
+78174,,Hydrellia,,eatenBy
+78174,,Gammarus bousfieldi,,eatenBy
+78174,,Gammarus minus,,eatenBy
+78174,,Cambarus bartonii,,eatenBy
+78174,,G. bousfieldi,,eatenBy
+78174,,Leptophobia eleone,,eatenBy
+78174,,Leptophobia aripa,,eatenBy
+78174,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+78174,,Phyciodes mylitta,,eatenBy
+78174,47822,Diptera,Flies,pollinatedBy
+78174,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+78174,47220,Apis,Honey Bees,pollinatedBy
+78174,,Self pollinated,,pollinatedBy

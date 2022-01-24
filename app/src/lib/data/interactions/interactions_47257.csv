@@ -1,0 +1,96 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47257,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+47257,47459,Cephalopoda,Cephalopods,eats
+47257,47178,Actinopterygii,Ray-finned Fishes,eats
+47257,47115,Mollusca,Molluscs,eats
+47257,1,Animalia,Animals,eats
+47257,21359,Bufonidae,True Toads,eats
+47257,121639,Brachyura,True Crabs,eats
+47257,85493,Crustacea,Crustaceans,eats
+47257,49606,Balistes capriscus,Grey Triggerfish,eats
+47257,69676,Thunnus,Bluefin Tunas,eats
+47257,57301,Hyporhamphus,,eats
+47257,130178,Sargassum,Sargassum,eats
+47257,47232,Carangidae,Jacks,eats
+47257,85777,Exocoetidae,Flyingfishes,eats
+47257,48842,Echeneidae,Remoras,eats
+47257,47126,Plantae,plants,eats
+47257,246398,Argonauta,Argonauts,eats
+47257,56943,Katsuwonus pelamis,Skipjack Tuna,eats
+47257,49612,Balistidae,Triggerfishes,eats
+47257,49270,Diodontidae,Porcupinefishes,eats
+47257,,Gnathostomata,,eats
+47257,87865,Decapterus,,eats
+47257,49271,Diodon,,eats
+47257,88349,Exocoetus,,eats
+47257,,,,eats
+47257,,Pisces,,eats
+47257,120662,Orcynopsis unicolor,Plain Bonito,eats
+47257,,Detritus,,eats
+47257,,Invertebrata,,eats
+47257,,Tetrapoda,,eats
+47257,,middle pelagic,,eats
+47257,106026,Monolene maculipinna,,eats
+47257,,Osteichthyes,,eats
+47257,52313,Diodon hystrix,Spotted Porcupinefish,eats
+47257,154499,Scomberomorus cavalla,King Mackerel,eats
+47257,90915,Peprilus,,eats
+47257,179507,Peprilus triacanthus,Butterfish,eats
+47257,118599,Sardinella aurita,Round Sardinella,eats
+47257,56940,Sarda sarda,Atlantic Bonito,eats
+47257,47231,Caranx,Kingfishes,eats
+47257,98531,Coryphaena hippurus,Common Dolphinfish,eats
+47257,49928,Chilomycterus,Burrfishes,eats
+47257,82337,Loligo,,eats
+47257,177104,Auxis thazard,Frigate Tuna,eats
+47257,317204,Macroparalepis affinis,,eats
+47257,49598,Selene setapinnis,Atlantic Moonfish,eats
+47257,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eats
+47257,49617,Scomberomorus regalis,Cero,eats
+47257,120614,Euthynnus alletteratus,Little Tunny,eats
+47257,49499,Aluterus,,eats
+47257,,Peprilus alepidotus,,eats
+47257,179427,Aluterus schoepfii,Orange Filefish,eats
+47257,123659,Decapterus punctatus,Cigar Minnow,eats
+47257,93641,Alectis ciliaris,Pennantfish,eats
+47257,,Etrumeus teres,,eats
+47257,317047,Cheilopogon melanurus,Atlantic Flyingfish,eats
+47257,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+47257,55016,Dactylopterus volitans,Flying Gurnard,eats
+47257,,Black plastic,,eats
+47257,52614,Zostera marina,Eelgrass,eats
+47257,86795,Auxis,,eats
+47257,87813,Cypselurus,,eats
+47257,195288,Raninidae,Frog Crabs,eats
+47257,,Unid.�food������������������������������������������������,,eats
+47257,,Unid. bothid,,eats
+47257,47176,Monacanthidae,Filefishes,eats
+47257,,Unid. echeneid,,eats
+47257,,Unid. diodontid,,eats
+47257,,Unid. food,,eats
+47257,179557,Hyporhamphus unifasciatus,Common Halfbeak,eats
+47257,,Macroparalepsis affine,,eats
+47257,3797,Sula leucogaster,Brown Booby,eatenBy
+47257,,Diodon eydouxii,,eatenBy
+47257,56943,Katsuwonus pelamis,Skipjack Tuna,preysOn
+47257,49606,Balistes capriscus,Grey Triggerfish,preysOn
+47257,57301,Hyporhamphus,,preysOn
+47257,118677,Auxis rochei,Bullet Tuna,preysOn
+47257,179507,Peprilus triacanthus,Butterfish,preysOn
+47257,49598,Selene setapinnis,Atlantic Moonfish,preysOn
+47257,55016,Dactylopterus volitans,Flying Gurnard,preysOn
+47257,120614,Euthynnus alletteratus,Little Tunny,preysOn
+47257,154499,Scomberomorus cavalla,King Mackerel,preysOn
+47257,118599,Sardinella aurita,Round Sardinella,preysOn
+47257,109046,Peprilus paru,Harvestfish,preysOn
+47257,,Etrumeus teres,,preysOn
+47257,52313,Diodon hystrix,Spotted Porcupinefish,preysOn
+47257,317047,Cheilopogon melanurus,Atlantic Flyingfish,preysOn
+47257,93641,Alectis ciliaris,Pennantfish,preysOn
+47257,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preysOn
+47257,317204,Macroparalepis affinis,,preysOn
+47257,123659,Decapterus punctatus,Cigar Minnow,preysOn
+47257,49617,Scomberomorus regalis,Cero,preysOn
+47257,177104,Auxis thazard,Frigate Tuna,preysOn
+47257,56940,Sarda sarda,Atlantic Bonito,preysOn
+47257,52315,Carcharhinus albimarginatus,Silvertip Shark,preyedUponBy

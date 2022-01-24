@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51200,48921,Hydrozoa,Hydrozoans,eats
+51200,152275,Thalassiosirales,,eats
+51200,123862,Chaetoceros,,eats
+51200,123880,Bacillariophyceae,Diatoms,eats
+51200,50863,Chlorophyta,green algae,eats
+51200,774725,Pyramimonadophyceae,,eats
+51200,,Foraminiferida,,eats
+51200,495552,Hermissenda crassicornis,Thick-horned Nudibranch,eats
+51200,,Detritus complex,,eats
+51200,,Gammaridea,,eats
+51200,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+51200,4415,Cepphus columba,Pigeon Guillemot,eatenBy
+51200,4519,Uria aalge,Common Murre,eatenBy
+51200,43584,Homo sapiens,Human,eatenBy
+51200,4620,Gavia,Loons,eatenBy
+51200,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+51200,118601,Trisopterus luscus,Pouting,eatenBy
+51200,,Psetta maxima,,eatenBy
+51200,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+51200,48397,Raja clavata,Thornback Skate,eatenBy
+51200,,Microchirus variegatus,,eatenBy
+51200,111527,Raja montagui,Spotted Skate,eatenBy
+51200,96130,Buglossidium luteum,Solenette,eatenBy
+51200,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+51200,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+51200,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+51200,118636,Scophthalmus rhombus,Brill,eatenBy
+51200,41720,Erignathus barbatus,Bearded Seal,eatenBy
+51200,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+51200,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+51200,430553,Merlangius merlangus,Whiting,eatenBy
+51200,48402,Amblyraja radiata,Thorny Skate,eatenBy
+51200,615943,Palmoliparis beckeri,,eatenBy
+51200,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+51200,229820,Rastrinus scutiger,,eatenBy
+51200,222150,Icelus spatula,Spatulate Sculpin,eatenBy
+51200,232947,Triglops pingelii,Ribbed Sculpin,eatenBy
+51200,228388,Pleurogrammus monopterygius,Atka Mackerel,eatenBy
+51200,215458,Brosme brosme,Cusk,eatenBy
+51200,196574,Parapercis hexophtalma,Spotted sandperch,eatenBy
+51200,204571,Lutjanus fulviflamma,Blackspot Snapper,eatenBy
+51200,128153,Equetus punctatus,Spotted Drum,eatenBy
+51200,86650,Artedius,,eatenBy
+51200,51353,Anoplopoma fimbria,Sablefish,eatenBy
+51200,64450,Sebastes alutus,Pacific Ocean Perch,eatenBy
+51200,87031,Bothrocara,,eatenBy
+51200,230754,Sebastes borealis,Shortraker Rockfish,eatenBy
+51200,230756,Sebastes helvomaculatus,Rosethorn Rockfish,eatenBy
+51200,229837,Reinhardtius hippoglossoides,Greenland Halibut,eatenBy
+51200,,Theragra chalcogramma,,eatenBy
+51200,180032,Hippoglossoides elassodon,Flathead Sole,eatenBy
+51200,87642,Coryphaenoides,,eatenBy
+51200,,Rhinoraja taranetzi,,eatenBy
+51200,41766,Odobenus rosmarus,Walrus,eatenBy
+51200,89716,Malacocottus,,eatenBy
+51200,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+51200,95508,Bathyraja maculata,Whiteblotched Skate,eatenBy
+51200,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+51200,212924,Albatrossia pectoralis,Giant Grenadier,eatenBy
+51200,,Hypsagonus quadricornis,,eatenBy
+51200,,Raja rhina,,eatenBy
+51200,64454,Sebastes ciliatus,Dusky rockfish,eatenBy
+51200,119412,Bopyridae,Decapod Ectoparasitic Isopods,eatenBy
+51200,4547,Ptychoramphus aleuticus,Cassin's Auklet,eatenBy
+51200,4516,Uria lomvia,Thick-billed Murre,eatenBy
+51200,91981,Sebastolobus,,eatenBy
+51200,83159,Liparis,Widelip Orchids,eatenBy
+51200,53692,Oncorhynchus kisutch,Coho Salmon,eatenBy
+51200,67360,Xiphister atropurpureus,Black Prickleback,eatenBy
+51200,218156,Dasycottus setiger,Spinyhead Sculpin,eatenBy
+51200,226090,Occella dodecaedron,,eatenBy
+51200,86890,Bathymaster,,eatenBy
+51200,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+51200,86897,Bathyraja,,eatenBy
+51200,214885,Bathyagonus nigripinnis,Blackfin Poacher,eatenBy
+51200,47642,Hemitripterus,,eatenBy
+51200,95490,Bathyraja aleutica,Aleutian Skate,eatenBy
+51200,180030,Glyptocephalus zachirus,Rex Sole,eatenBy
+51200,64472,Sebastes aleutianus,Rougheye Rockfish,eatenBy
+51200,95500,Bathyraja interrupta,Sandpaper Skate,eatenBy
+51200,117538,Oligocottus snyderi,Fluffy Sculpin,eatenBy
+51200,92631,Triglops,,eatenBy
+51200,223181,Lepidopsetta polyxystra,Northern Rock Sole,eatenBy
+51200,74103,Balaena mysticetus,Bowhead Whale,eatenBy
+51200,223674,Limanda aspera,Yellowfin Sole,eatenBy
+51200,4283,Phalacrocorax pelagicus,Pelagic Cormorant,eatenBy
+51200,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+51200,49597,Salvelinus,Chars,eatenBy
+51200,,Reinhardtius stomias,,eatenBy
+51200,95518,Bathyraja parmifera,Alaska Skate,eatenBy
+51200,83439,Centropristis striata,Black Sea Bass,eatenBy
+51200,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+51200,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+51200,529563,Asterorhombus cocosensis,Angler Flatfish,eatenBy
+51200,63740,Gadus morhua,Atlantic Cod,eatenBy
+51200,111616,Rhacochilus vacca,Pile surfperch,eatenBy
+51200,47628,Amphipoda,Amphipods,preysOn
+51200,123880,Bacillariophyceae,Diatoms,preysOn
+51200,48921,Hydrozoa,Hydrozoans,preysOn
+51200,,Zooplankton,,preysOn
+51200,,Phytoplankton,,preysOn
+51200,495552,Hermissenda crassicornis,Thick-horned Nudibranch,preysOn
+51200,,Detritus complex,,preysOn
+51200,47645,Cottidae,Typical Sculpins,preyedUponBy
+51200,,Zooplankton,,preyedUponBy
+51200,619164,Pholis crassispina,,preyedUponBy

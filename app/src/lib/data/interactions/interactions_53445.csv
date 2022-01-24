@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53445,53445,Rubus ursinus,trailing blackberry,eats
+53445,47219,Apis mellifera,Western Honey Bee,eatenBy
+53445,52484,Celastrina echo,Echo Azure,eatenBy
+53445,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+53445,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+53445,52775,Bombus,Bumble Bees,eatenBy
+53445,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+53445,1081332,Lon melane,Umber Skipper,eatenBy
+53445,48548,Vanessa cardui,Painted Lady,eatenBy
+53445,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+53445,53445,Rubus ursinus,trailing blackberry,eatenBy
+53445,210423,Callophrys viridis,Coastal Green Hairstreak,eatenBy
+53445,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+53445,,Pieris marginalis,,eatenBy
+53445,345300,Andrena nigrocaerulea,Blue-and-black Mining Bee,eatenBy
+53445,,Coenonympha california california,,eatenBy
+53445,,Orgyia vetusta,,eatenBy
+53445,,Autographa californica,,eatenBy
+53445,,Argyrotaenia citrana,,eatenBy
+53445,,Corvus caurinus,,eatenBy

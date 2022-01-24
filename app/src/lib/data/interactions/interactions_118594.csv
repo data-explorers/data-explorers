@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118594,47186,Decapoda,Decapods,eats
+118594,47158,Insecta,Insects,eats
+118594,85493,Crustacea,Crustaceans,eats
+118594,,Oithona spinirostris,,eats
+118594,480415,Acartia clausi,,eats
+118594,372502,Calanus finmarchicus,,eats
+118594,341617,Thalassiosira,,eats
+118594,203742,Skeletonema costatum,,eats
+118594,,Nitzschia closterium,,eats
+118594,,Podosira stelliger,,eats
+118594,1005749,Phaeocystis pouchetii,,eats
+118594,,Pisces,,eats
+118594,,,,eats
+118594,41440,Phocoena phocoena,Harbour Porpoise,eatenBy
+118594,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+118594,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+118594,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+118594,118601,Trisopterus luscus,Pouting,eatenBy
+118594,41461,Delphinapterus leucas,Beluga,eatenBy
+118594,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+118594,324558,Loligo vulgaris,European Squid,eatenBy
+118594,41733,Halichoerus grypus,Grey Seal,eatenBy
+118594,63740,Gadus morhua,Atlantic Cod,eatenBy
+118594,118636,Scophthalmus rhombus,Brill,eatenBy
+118594,,Psetta maxima,,eatenBy
+118594,,Zosterisessor ophiocephalus,,eatenBy
+118594,416585,Scophthalmus maximus,Turbot,eatenBy
+118594,1,Animalia,Animals,preysOn
+118594,329013,Pseudocalanus elongatus,,preysOn
+118594,,Osteichthyes,,preysOn
+118594,203475,Metridia lucens,,preysOn
+118594,480415,Acartia clausi,,preysOn
+118594,203467,Temora longicornis,,preysOn
+118594,,Eucalanus elongatus elongatus,,preysOn
+118594,,Centropages typicus,,preysOn
+118594,,Paracalanus parvus,,preysOn
+118594,,Microcalanus pusillis,,preysOn
+118594,,Eutemora hirundoides,,preysOn
+118594,346580,Calanus helgolandicus,,preysOn
+118594,41708,Phoca vitulina,Harbor Seal,preyedUponBy
+118594,,Sterna sandvicensis,,preyedUponBy
+118594,113064,Squatina squatina,Angelshark,preyedUponBy

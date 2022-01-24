@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47332,47219,Apis mellifera,Western Honey Bee,eatenBy
+47332,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+47332,199130,Megachile montivaga,,eatenBy

@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130504,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+130504,12727,Turdus migratorius,American Robin,eatenBy
+130504,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+130504,126823,Spiraea alba,white meadowsweet,pollinates
+130504,,Laphria thoracica,,preyedUponBy

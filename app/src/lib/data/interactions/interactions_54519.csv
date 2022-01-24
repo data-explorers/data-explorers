@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54519,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+54519,473,Fulica americana,American Coot,eatenBy
+54519,6930,Anas platyrhynchos,Mallard,eatenBy
+54519,7044,Aythya collaris,Ring-necked Duck,eatenBy
+54519,,Neargyractis moniligeralis,,eatenBy
+54519,,Synclita tinealis,,eatenBy
+54519,,Synclita obliteralis,,eatenBy
+54519,,Tanysphyrus lemnae,,eatenBy
+54519,,Lemnaphila scotlandae,,eatenBy
+54519,,Rhopalosiphum nymphaeae,,eatenBy
+54519,,Fulica americana columbiana,,eatenBy
+54519,56903,Cichlasoma,,eatenBy
+54519,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+54519,,Acrocheilus alutaceus,,eatenBy
+54519,,Ctenopharyngodon idella,,eatenBy
+54519,,Trichopodus trichopterus,,eatenBy
+54519,188582,Trichopodus pectoralis,Snakeskin gourami,eatenBy
+54519,,Garra gotyla,,eatenBy
+54519,,Eriocheir sinensis,,eatenBy
+54519,69989,Rutilus rutilus,Common Roach,eatenBy
+54519,7054,Aythya affinis,Lesser Scaup,eatenBy
+54519,7056,Aythya americana,Redhead,eatenBy
+54519,162,Porzana carolina,Sora,eatenBy
+54519,,Anas americana,,eatenBy
+54519,7047,Aythya marila,Greater Scaup,eatenBy
+54519,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+54519,6990,Bucephala clangula,Common Goldeneye,eatenBy
+54519,7057,Aythya valisineria,Canvasback,eatenBy
+54519,7072,Tadorna variegata,Paradise Shelduck,eatenBy
+54519,243,Rallus limicola,Virginia Rail,eatenBy

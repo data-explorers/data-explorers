@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129305,59029,Verbascum thapsus,great mullein,eats
+129305,,Symphoricarpos albus,,eats
+129305,13858,Passer domesticus,House Sparrow,eatenBy
+129305,12942,Sialia sialis,Eastern Bluebird,eatenBy
+129305,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+129305,,Prionyx atratus,,preyedUponBy
+129305,,Argiope aurantia,,preyedUponBy

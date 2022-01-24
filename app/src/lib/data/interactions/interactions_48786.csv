@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48786,47115,Mollusca,Molluscs,eats
+48786,48786,Pollicipes polymerus,Gooseneck Barnacle,eats
+48786,,Phytoplankton,,eats
+48786,,Zooplankton,,eats
+48786,47668,Asteroidea,Sea Stars,eatenBy
+48786,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+48786,48786,Pollicipes polymerus,Gooseneck Barnacle,eatenBy
+48786,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+48786,130214,Buccinum,,eatenBy
+48786,,Corvus caurinus,,eatenBy

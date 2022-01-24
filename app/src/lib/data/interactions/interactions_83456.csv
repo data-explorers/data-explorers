@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83456,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+83456,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+83456,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+83456,,Bombus fraternus,,eatenBy
+83456,129428,Acronicta oblinita,Smeared Dagger,eatenBy
+83456,,Eudryas unio,,eatenBy
+83456,144479,Gallinula galeata,Common Gallinule,eatenBy

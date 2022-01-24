@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82177,51769,Gaillardia,Blanket Flowers,eats
+82177,47336,Formicidae,Ants,eatenBy
+82177,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+82177,9601,Quiscalus major,Boat-tailed Grackle,eatenBy

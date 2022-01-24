@@ -1,0 +1,115 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47351,7998,Corvus,Crows and Ravens,eatenBy
+47351,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+47351,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+47351,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+47351,48548,Vanessa cardui,Painted Lady,eatenBy
+47351,58586,Limenitis archippus,Viceroy,eatenBy
+47351,60607,Limenitis arthemis,Red-spotted Admiral,eatenBy
+47351,211345,Stigmella,,eatenBy
+47351,146979,Dasychira,,eatenBy
+47351,119340,Amphipyra pyramidoides,American Copper Underwing,eatenBy
+47351,81682,Campaea,,eatenBy
+47351,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+47351,12727,Turdus migratorius,American Robin,eatenBy
+47351,58700,Apiosporina morbosa,black knot,eatenBy
+47351,47219,Apis mellifera,Western Honey Bee,eatenBy
+47351,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+47351,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+47351,52775,Bombus,Bumble Bees,eatenBy
+47351,48662,Danaus plexippus,Monarch,eatenBy
+47351,54064,Polygonia comma,Eastern Comma,eatenBy
+47351,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+47351,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+47351,3108,Patagioenas fasciata,Band-tailed Pigeon,eatenBy
+47351,67760,Popillia japonica,Japanese Beetle,eatenBy
+47351,14850,Sturnus vulgaris,European Starling,eatenBy
+47351,199840,Haemorhous mexicanus,House Finch,eatenBy
+47351,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+47351,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+47351,6317,Calypte anna,Anna's Hummingbird,eatenBy
+47351,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+47351,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+47351,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+47351,53648,Nomada,Nomad Bees,eatenBy
+47351,73044,Melozone crissalis,California Towhee,eatenBy
+47351,12705,Turdus,Typical Thrushes,eatenBy
+47351,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+47351,9522,Melozone,Ground-Sparrows and Brown Towhees,eatenBy
+47351,9346,Icterus galbula,Baltimore Oriole,eatenBy
+47351,8010,Corvus corax,Common Raven,eatenBy
+47351,9915,Piranga rubra,Summer Tanager,eatenBy
+47351,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47351,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+47351,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+47351,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+47351,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+47351,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+47351,199404,Ceratitis capitata,Mediterranean Fruit Fly,eatenBy
+47351,84612,Polyphylla decemlineata,Ten-lined June Beetle,eatenBy
+47351,127511,Fomes,,eatenBy
+47351,889,Bonasa,,eatenBy
+47351,42069,Vulpes vulpes,Red Fox,eatenBy
+47351,494559,Polydrusus formosus,Green Immigrant Leaf Weevil,eatenBy
+47351,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47351,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47351,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+47351,8021,Corvus brachyrhynchos,American Crow,eatenBy
+47351,3017,Columba livia,Rock Pigeon,eatenBy
+47351,12937,Sialia mexicana,Western Bluebird,eatenBy
+47351,12942,Sialia sialis,Eastern Bluebird,eatenBy
+47351,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47351,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47351,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+47351,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+47351,1409,Callipepla californica,California Quail,eatenBy
+47351,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+47351,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+47351,9100,Melospiza melodia,Song Sparrow,eatenBy
+47351,,Calyptra eustrigata,,eatenBy
+47351,,Calyptra ophideroides,,eatenBy
+47351,,Calyptra pseudobicolor,,eatenBy
+47351,,Calyptra bicolor,,eatenBy
+47351,,North American deermouse,,eatenBy
+47351,,Spermophilus franklinii,,eatenBy
+47351,,canker,,eatenBy
+47351,,Lepus americanus,,eatenBy
+47351,451010,Pholodes sinistraria,Sinister Moth,eatenBy
+47351,,Netrocoryne repanda,,eatenBy
+47351,,Hypochrysops ignitus,,eatenBy
+47351,,Anoplognathus olivieri,,eatenBy
+47351,,Rhopalosiphum rufiabdominale,,eatenBy
+47351,,Rhopalosiphum padi,,eatenBy
+47351,,Rhopalosiphum nymphaeae,,eatenBy
+47351,,Rhopalosiphum musae,,eatenBy
+47351,393053,Myzus cerasi,Black Cherry Aphid,eatenBy
+47351,143343,Hyalopterus pruni,Mealy Plum Aphid,eatenBy
+47351,202774,Coridromius chenopoderis,,eatenBy
+47351,,Brachycaudus persicae,,eatenBy
+47351,,Brachycaudus helichrysi,,eatenBy
+47351,,Pristiphora (Micronematus) monogyniae,,eatenBy
+47351,386969,Caliroa cerasi,Cherry Slug Sawfly,eatenBy
+47351,,Rhogogaster punctulata,,eatenBy
+47351,,Tenthredo ferruginea,,eatenBy
+47351,,Pristiphora appendiculata,,eatenBy
+47351,,Sterictiphora angelicae,,eatenBy
+47351,,Pristiphora biscalis,,eatenBy
+47351,,Pamphilius sylvaticus,,eatenBy
+47351,,Neurotoma saltuum,,eatenBy
+47351,,Ctenomorpha marginipennis,,eatenBy
+47351,,Ptycholoma lecheana,,eatenBy
+47351,,Sparganothis reticulatana,,eatenBy
+47351,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47351,47822,Diptera,Flies,pollinatedBy
+47351,47208,Coleoptera,Beetles,pollinatedBy
+47351,,Eristalis cerealis ,,pollinatedBy
+47351,,Episyrphus balteatus,,pollinatedBy
+47351,,Priophorus nigricans ,,pollinatedBy
+47351,,Loderus insulicola ,,pollinatedBy
+47351,,,,pollinatedBy
+47351,,Libythea celtis ,,pollinatedBy
+47351,,Eurema hecabe ,,pollinatedBy
+47351,,Polistes mandarinus ,,pollinatedBy
+47351,,Helophilus virgatus ,,pollinatedBy
+47351,,Empis flavofasalis ,,pollinatedBy
+47351,41638,Ursus americanus,American Black Bear,preyedUponBy

@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4204,4204,Podiceps,Typical Grebes,eats
+4204,49581,Nereididae,,eats
+4204,68764,Ostracoda,Seed Shrimp,eats
+4204,85532,Mysida,Opossum Shrimps,eats
+4204,,Gammaridea,,eats
+4204,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4204,47290,Crangonidae,,eats
+4204,90535,Osmerus,,eats
+4204,117571,Clupea pallasii,Pacific herring,eats
+4204,47646,Myoxocephalus,Shorthorn Sculpins,eats
+4204,4204,Podiceps,Typical Grebes,eatenBy
+4204,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4204,20044,Bubo virginianus,Great Horned Owl,eatenBy
+4204,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4204,144594,Bubo scandiacus,Snowy Owl,eatenBy

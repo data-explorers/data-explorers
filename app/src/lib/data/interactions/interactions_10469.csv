@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10469,47336,Formicidae,Ants,eats
+10469,47792,Odonata,Dragonflies and Damselflies,eats
+10469,47124,Magnoliopsida,dicots,eats
+10469,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+10469,52381,Aphididae,Aphids,eats
+10469,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+10469,47157,Lepidoptera,Butterflies and Moths,eats
+10469,48736,Curculionidae,True Weevils,eats
+10469,64161,Triticum aestivum,Bread Wheat,eats
+10469,49567,Carabidae,Ground Beetles,eats
+10469,47822,Diptera,Flies,eats
+10469,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10469,47118,Araneae,Spiders,eats
+10469,1,Animalia,Animals,eats
+10469,211194,Tracheophyta,vascular plants,eats
+10469,47120,Arthropoda,Arthropods,eats
+10469,47208,Coleoptera,Beetles,eats
+10469,56955,Helianthus,sunflowers,eats
+10469,47158,Insecta,Insects,eats
+10469,52698,Avena fatua,wild oat,eats
+10469,47434,Poaceae,grasses,eats
+10469,47928,Zygoptera,Damselflies,eats
+10469,47927,Anisoptera,Dragonflies,eats
+10469,125816,Auchenorrhyncha,True Hoppers,eats
+10469,72458,Actitis macularius,Spotted Sandpiper,eats
+10469,57156,Avena sativa,Oat,eats
+10469,52797,Hordeum,Barleys,eats
+10469,48448,Zea mays,Maize,eats
+10469,,Panicum miliaceum,,eats

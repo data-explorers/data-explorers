@@ -1,0 +1,88 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49052,47628,Amphipoda,Amphipods,eats
+49052,49725,Pugettia,,eats
+49052,48174,Paguridae,Pagurid Hermit Crabs,eats
+49052,47827,Cancer,,eats
+49052,48394,Gymnolaemata,,eats
+49052,49518,Serpulidae,Serpulid Tubeworms,eats
+49052,49052,Anthopleura,,eats
+49052,81610,Balanus glandula,Pacific Acorn Barnacle,eats
+49052,48921,Hydrozoa,Hydrozoans,eats
+49052,62807,Mytilus,Black Mussels,eats
+49052,123880,Bacillariophyceae,Diatoms,eats
+49052,48919,Littorina,Periwinkles,eats
+49052,53830,Trochidae,Top Snails,eats
+49052,121639,Brachyura,True Crabs,eats
+49052,,heterophoxus-steph,,eats
+49052,,pyramidellid,,eats
+49052,,colurostylis-lemu,,eats
+49052,,Curtuteria,,eats
+49052,,Gymnophallus,,eats
+49052,,Cymodopsis,,eats
+49052,,helmsi,,eats
+49052,378619,Zeacumantus,,eats
+49052,,phoxocephalus-reg,,eats
+49052,,pontharpinia-aust,,eats
+49052,376196,Diloma,,eats
+49052,,Zooplankton,,eats
+49052,,Pleuronectiformes,,eats
+49052,,meiofauna,,eats
+49052,,diastylopsis-thil,,eats
+49052,,maritrema novae,,eats
+49052,,Protothaca staminea,,eats
+49052,,Foraminiferida,,eats
+49052,47658,Semibalanus cariosus,Thatched Barnacle,eats
+49052,,Detritus complex,,eats
+49052,,Tectura scutum,,eats
+49052,117571,Clupea pallasii,Pacific herring,eats
+49052,67333,Bacteria,bacteria,eatenBy
+49052,43584,Homo sapiens,Human,eatenBy
+49052,47825,Pycnogonida,Pycnogonids,eatenBy
+49052,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+49052,49052,Anthopleura,,eatenBy
+49052,53693,Hypsypops rubicundus,Garibaldi,eatenBy
+49052,,Cypraea spadicea,,eatenBy
+49052,63382,Dermasterias imbricata,Leather Star,eatenBy
+49052,495552,Hermissenda crassicornis,Thick-horned Nudibranch,eatenBy
+49052,498116,Aeolidia papillosa,Common Grey Sea Slug,eatenBy
+49052,47628,Amphipoda,Amphipods,preysOn
+49052,48174,Paguridae,Pagurid Hermit Crabs,preysOn
+49052,48919,Littorina,Periwinkles,preysOn
+49052,123880,Bacillariophyceae,Diatoms,preysOn
+49052,49052,Anthopleura,,preysOn
+49052,62807,Mytilus,Black Mussels,preysOn
+49052,53830,Trochidae,Top Snails,preysOn
+49052,49725,Pugettia,,preysOn
+49052,48394,Gymnolaemata,,preysOn
+49052,48921,Hydrozoa,Hydrozoans,preysOn
+49052,47827,Cancer,,preysOn
+49052,52319,Platyhelminthes,Flatworms,preysOn
+49052,81610,Balanus glandula,Pacific Acorn Barnacle,preysOn
+49052,,Pleuronectiformes,,preysOn
+49052,,colurostylis-lemu,,preysOn
+49052,,Gymnophallus,,preysOn
+49052,,Zooplankton,,preysOn
+49052,,helmsi,,preysOn
+49052,376196,Diloma,,preysOn
+49052,,diastylopsis-thil,,preysOn
+49052,,meiofauna,,preysOn
+49052,,heterophoxus-steph,,preysOn
+49052,378619,Zeacumantus,,preysOn
+49052,,phoxocephalus-reg,,preysOn
+49052,,Cymodopsis,,preysOn
+49052,,pyramidellid,,preysOn
+49052,,pontharpinia-aust,,preysOn
+49052,,Detritus complex,,preysOn
+49052,,Phytoplankton,,preysOn
+49052,,Tectura scutum,,preysOn
+49052,,Protothaca staminea,,preysOn
+49052,47658,Semibalanus cariosus,Thatched Barnacle,preysOn
+49052,551648,Canalipalpata,,preysOn
+49052,67333,Bacteria,bacteria,preyedUponBy
+49052,49052,Anthopleura,,preyedUponBy
+49052,47645,Cottidae,Typical Sculpins,preyedUponBy
+49052,,Cypraea spadicea,,preyedUponBy
+49052,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+49052,53693,Hypsypops rubicundus,Garibaldi,preyedUponBy
+49052,498116,Aeolidia papillosa,Common Grey Sea Slug,preyedUponBy
+49052,495552,Hermissenda crassicornis,Thick-horned Nudibranch,preyedUponBy

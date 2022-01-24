@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+143452,60773,Vitis,grapevines,eats
+143452,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+143452,79519,Vitis vinifera,wine grape,eats
+143452,50280,Parthenocissus,,eats
+143452,,Oxydendrum arboreum,,eats
+143452,,Parthenocissus tricuspidata,,eats
+143452,,Ampelopsis brevipedunculata,,eats
+143452,,Ampelopsis,,eats
+143452,,Abronia macrocarpa,,pollinates
+143452,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+143452,,Corynorhinus townsendii,,preyedUponBy

@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127740,11867,Progne subis,Purple Martin,eatenBy
+127740,635198,Solanum peruvianum,Peruvian tomato,pollinates
+127740,490877,Rhaphithamnus spinosus,Prickly myrtle,pollinates
+127740,164524,Lepidium papilliferum,Slickspot peppergrass,pollinates
+127740,206261,Echinodorus grandiflorus,Large-flowered Amazon,pollinates
+127740,77780,Linnaea borealis,twinflower,pollinates
+127740,,Monarda punctata,,pollinates
+127740,,Purshia subintegra,,pollinates
+127740,,Cypripedium montanum,,pollinates
+127740,,Diogmites,,preyedUponBy
+127740,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

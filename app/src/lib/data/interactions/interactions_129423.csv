@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129423,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eats
+129423,,Rubus pensilvanicus,,eats
+129423,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+129423,,Empidonax virescens,,eatenBy
+129423,,Parkesia motacilla,,eatenBy
+129423,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+129423,49996,Anthomyiidae,Root-maggot Flies,preysOn
+129423,468067,Zadontomerus,,preysOn
+129423,47821,Tabanidae,Horse and Deer Flies,preysOn
+129423,47199,Ichneumonidae,Ichneumonid Wasps,preysOn
+129423,47822,Diptera,Flies,preysOn
+129423,630955,Anthophila,Bees,preysOn
+129423,52775,Bombus,Bumble Bees,preysOn
+129423,47158,Insecta,Insects,preysOn
+129423,48959,Reduviidae,Assassin Bugs,preysOn
+129423,68020,Dolichopodidae,Long-legged Flies,preysOn
+129423,47336,Formicidae,Ants,preysOn
+129423,,Sciaridae,,preysOn
+129423,,Fulgoromorpha,,preysOn
+129423,,Symphyta,,preysOn
+129423,,Propylea quatuordecimpunctata,,preysOn
+129423,,Andrena,,preysOn
+129423,,Phidippus whitmani,,preyedUponBy

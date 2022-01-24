@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67912,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+67912,,Septoria thecicola,,eatenBy
+67912,949,Lagopus muta,Rock Ptarmigan,eatenBy
+67912,7170,Clangula hyemalis,Long-tailed Duck,eatenBy

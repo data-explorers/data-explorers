@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+358855,32055,Elgaria multicarinata,Southern Alligator Lizard,eatenBy
+358855,34435,Hemidactylus turcicus,Mediterranean House Gecko,eatenBy
+358855,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+358855,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+358855,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+358855,7562,Troglodytes aedon,House Wren,eatenBy
+358855,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+358855,,Anolis carolinensis,,eatenBy
+358855,,Hadrurus arizonensis,,eatenBy
+358855,320610,Sceloporus magister,Desert Spiny Lizard,eatenBy
+358855,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+358855,14886,Mimus polyglottos,Northern Mockingbird,preyedUponBy
+358855,119122,Araneus trifolium,Shamrock Orbweaver,preyedUponBy
+358855,1986,Geococcyx californianus,Greater Roadrunner,preyedUponBy
+358855,153838,Phidippus cardinalis,Cardinal Jumping Spider,preyedUponBy
+358855,19975,Athene cunicularia,Burrowing Owl,preyedUponBy
+358855,71034,Tenodera sinensis,Chinese Mantis,preyedUponBy
+358855,,Scytodes thoracica,,preyedUponBy
+358855,20244,Otus scops,Eurasian Scops Owl,preyedUponBy

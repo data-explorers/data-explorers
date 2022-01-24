@@ -1,0 +1,177 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81576,64970,Anaxyrus boreas,Western Toad,eats
+81576,67731,Anax junius,Common Green Darner,eats
+81576,81576,Belostoma,,eats
+81576,52864,Tramea,Saddlebag Gliders,eats
+81576,84670,Ephydridae,Shore Flies,eats
+81576,133623,Tropisternus,,eats
+81576,53275,Chironomidae,Non-biting Midges,eats
+81576,27818,Taricha torosa,California Newt,eats
+81576,133821,Physa,,eats
+81576,174572,Callibaetis,Speckled Duns,eats
+81576,54960,Nematoda,Nematodes,eats
+81576,129189,Hyalella,,eats
+81576,62989,Aedes,,eats
+81576,50175,Enallagma,Bluets,eats
+81576,88028,Dorocordulia,Lesser Emerald Dragonflies,eats
+81576,130033,Culex,,eats
+81576,51556,Sympetrum,Meadowhawks,eats
+81576,177589,Laccophilus,,eats
+81576,47818,Libellula,Chasers and King Skimmers,eats
+81576,26721,Ambystoma,Mole Salamanders,eats
+81576,,Nyctotherus,,eats
+81576,24259,Pseudacris regilla,Northern Pacific Tree Frog,eats
+81576,51679,Coenagrion,Northern Bluets,eats
+81576,,Cephalogonimus americanus,,eats
+81576,,Halipegus,,eats
+81576,,Gregarinidae,,eats
+81576,69803,Ceratopogonidae,Biting Midges,eats
+81576,177989,Haliplus,,eats
+81576,,Ribeiroia ondatrae,,eats
+81576,,Batrachochytrium dendrobatidis,,eats
+81576,124813,Alaria,,eats
+81576,,Echinostoma trivolvis,,eats
+81576,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+81576,,Megalodiscus,,eats
+81576,,Lethocerus americanus,,eats
+81576,,Daubaylia,,eats
+81576,,Corynosoma constrictum,,eats
+81576,,Opalina,,eats
+81576,,Echinostoma,,eats
+81576,,Lestes,,eats
+81576,67016,Rana draytonii,California Red-legged Frog,eats
+81576,,Planorbella,,eats
+81576,84734,Agabus,,eats
+81576,,Banksiola,,eats
+81576,,Laccornis,,eats
+81576,,Somatochlora,,eats
+81576,173184,Anabolia,,eats
+81576,,Hydrochara,,eats
+81576,,Callicorixa,,eats
+81576,,Coptotomus,,eats
+81576,,Ilybius,,eats
+81576,,Colymbetes,,eats
+81576,177448,Limnephilus,,eats
+81576,,Sigara,,eats
+81576,,Hydrobius,,eats
+81576,,Cordulia,,eats
+81576,148201,Helisoma,,eats
+81576,123594,Anaxyrus americanus americanus,Eastern American Toad,eats
+81576,,Lymnaea,,eats
+81576,,Hesperocorixa,,eats
+81576,,Rhantus,,eats
+81576,,Acilius,,eats
+81576,25474,Rana,Pond Frogs,eats
+81576,,Graphoderus,,eats
+81576,,Dytiscus,,eats
+81576,,Leuccorhinia,,eats
+81576,473,Fulica americana,American Coot,eatenBy
+81576,52864,Tramea,Saddlebag Gliders,eatenBy
+81576,64970,Anaxyrus boreas,Western Toad,eatenBy
+81576,27818,Taricha torosa,California Newt,eatenBy
+81576,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+81576,133623,Tropisternus,,eatenBy
+81576,81576,Belostoma,,eatenBy
+81576,67731,Anax junius,Common Green Darner,eatenBy
+81576,4956,Ardea herodias,Great Blue Heron,eatenBy
+81576,47818,Libellula,Chasers and King Skimmers,eatenBy
+81576,52520,Aeshna,Hawkers and Typical Darners,eatenBy
+81576,88028,Dorocordulia,Lesser Emerald Dragonflies,eatenBy
+81576,4234,Aechmophorus clarkii,Clark's Grebe,eatenBy
+81576,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+81576,4209,Podiceps auritus,Horned Grebe,eatenBy
+81576,51679,Coenagrion,Northern Bluets,eatenBy
+81576,56557,Notonecta,Milky Backswimmers,eatenBy
+81576,67016,Rana draytonii,California Red-legged Frog,eatenBy
+81576,,Lethocerus americanus,,eatenBy
+81576,24259,Pseudacris regilla,Northern Pacific Tree Frog,eatenBy
+81576,,Lestes,,eatenBy
+81576,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+81576,121463,Arrenurus,Water Mites,eatenBy
+81576,,Acilius,,eatenBy
+81576,,Graphoderus,,eatenBy
+81576,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+81576,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+81576,,Bagrus bajad,,eatenBy
+81576,,Bagrus docmak,,eatenBy
+81576,,Cordulia,,eatenBy
+81576,,Lethocerus,,eatenBy
+81576,,Dytiscus,,eatenBy
+81576,,Tachybaptus dominicus,,eatenBy
+81576,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+81576,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+81576,144479,Gallinula galeata,Common Gallinule,eatenBy
+81576,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+81576,5017,Bubulcus ibis,Cattle Egret,eatenBy
+81576,4937,Egretta caerulea,Little Blue Heron,eatenBy
+81576,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+81576,84670,Ephydridae,Shore Flies,preysOn
+81576,64970,Anaxyrus boreas,Western Toad,preysOn
+81576,174572,Callibaetis,Speckled Duns,preysOn
+81576,27818,Taricha torosa,California Newt,preysOn
+81576,129189,Hyalella,,preysOn
+81576,53275,Chironomidae,Non-biting Midges,preysOn
+81576,133623,Tropisternus,,preysOn
+81576,81576,Belostoma,,preysOn
+81576,67731,Anax junius,Common Green Darner,preysOn
+81576,133821,Physa,,preysOn
+81576,52864,Tramea,Saddlebag Gliders,preysOn
+81576,47818,Libellula,Chasers and King Skimmers,preysOn
+81576,130033,Culex,,preysOn
+81576,62989,Aedes,,preysOn
+81576,26721,Ambystoma,Mole Salamanders,preysOn
+81576,88028,Dorocordulia,Lesser Emerald Dragonflies,preysOn
+81576,23747,Hyla,Holarctic Treefrogs,preysOn
+81576,50175,Enallagma,Bluets,preysOn
+81576,51556,Sympetrum,Meadowhawks,preysOn
+81576,177589,Laccophilus,,preysOn
+81576,177749,Hydrophilus,Giant Water Scavenger Beetles,preysOn
+81576,,Pseudiacris regilla,,preysOn
+81576,,Lestes,,preysOn
+81576,148201,Helisoma,,preysOn
+81576,177989,Haliplus,,preysOn
+81576,67016,Rana draytonii,California Red-legged Frog,preysOn
+81576,69803,Ceratopogonidae,Biting Midges,preysOn
+81576,51679,Coenagrion,Northern Bluets,preysOn
+81576,,Letherocerus americanus,,preysOn
+81576,,Graphoderus,,preysOn
+81576,,Acilius,,preysOn
+81576,,Lymnaea,,preysOn
+81576,,Cordulia,,preysOn
+81576,,Ilybius,,preysOn
+81576,,Rhantus,,preysOn
+81576,,Laccornis,,preysOn
+81576,,Hydrobius,,preysOn
+81576,,Banksiola,,preysOn
+81576,,Somatochlora,,preysOn
+81576,25474,Rana,Pond Frogs,preysOn
+81576,,Colymbetes,,preysOn
+81576,177448,Limnephilus,,preysOn
+81576,173184,Anabolia,,preysOn
+81576,,Hydrochara,,preysOn
+81576,,Dytiscus,,preysOn
+81576,,Sigara,,preysOn
+81576,,Hesperocorixa,,preysOn
+81576,,Coptotomus,,preysOn
+81576,,Callicorixa,,preysOn
+81576,84734,Agabus,,preysOn
+81576,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+81576,473,Fulica americana,American Coot,preyedUponBy
+81576,27818,Taricha torosa,California Newt,preyedUponBy
+81576,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+81576,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+81576,133623,Tropisternus,,preyedUponBy
+81576,81576,Belostoma,,preyedUponBy
+81576,52864,Tramea,Saddlebag Gliders,preyedUponBy
+81576,67731,Anax junius,Common Green Darner,preyedUponBy
+81576,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+81576,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+81576,56557,Notonecta,Milky Backswimmers,preyedUponBy
+81576,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+81576,,Letherocerus americanus,,preyedUponBy
+81576,,Lestes,,preyedUponBy
+81576,,Pseudiacris regilla,,preyedUponBy
+81576,51679,Coenagrion,Northern Bluets,preyedUponBy
+81576,,Graphoderus,,preyedUponBy
+81576,,Lethocerus,,preyedUponBy
+81576,,Acilius,,preyedUponBy

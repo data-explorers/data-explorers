@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67693,4665,Falco sparverius,American Kestrel,eatenBy
+67693,118552,Felis catus,Domestic Cat,eatenBy
+67693,,Salvadora hexalepis virgultea,,eatenBy
+67693,28749,Salvadora grahamiae,Eastern Patch-nosed Snake,eatenBy
+67693,16956,Pitangus sulphuratus,Great Kiskadee,eatenBy
+67693,29404,Mastigodryas melanolomus,Dryad Snake,eatenBy
+67693,30692,Crotalus,Rattlesnakes,preyedUponBy
+67693,4665,Falco sparverius,American Kestrel,preyedUponBy
+67693,118552,Felis catus,Domestic Cat,preyedUponBy
+67693,1986,Geococcyx californianus,Greater Roadrunner,preyedUponBy
+67693,,Conophis vittatus,,preyedUponBy
+67693,,Coluber bilineatus,,preyedUponBy
+67693,30748,Crotalus enyo,Lower California Rattlesnake,preyedUponBy
+67693,,Drymobius margaritiferus fistulosus,,preyedUponBy
+67693,,Coluber taeniatus,,preyedUponBy
+67693,28762,Rhinocheilus lecontei,Long-nosed Snake,preyedUponBy
+67693,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy
+67693,,Lampropeltis alterna,,preyedUponBy
+67693,30743,Crotalus lepidus klauberi,Banded Rock Rattlesnake,preyedUponBy
+67693,,Manolepis putnami,,preyedUponBy
+67693,83515,Oxybelis aeneus,Brown Vinesnake,preyedUponBy
+67693,,Coluber schotti,,preyedUponBy
+67693,,Conophis lineatus,,preyedUponBy
+67693,32290,Loxocemus bicolor,Mexican Burrowing Python,preyedUponBy
+67693,30740,Crotalus lepidus,Rock Rattlesnake,preyedUponBy
+67693,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+67693,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+67693,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+67693,28246,Arizona elegans,Glossy Snake,preyedUponBy
+67693,,Coluber flagellum testaceus,,preyedUponBy
+67693,,Latrodectus mactans,,preyedUponBy
+67693,29404,Mastigodryas melanolomus,Dryad Snake,preyedUponBy

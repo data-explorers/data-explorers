@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+879,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+879,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+879,42101,Cuon alpinus,Dhole,eatenBy
+879,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+879,30335,Drymarchon corais,Indigo Snake,preyedUponBy
+879,30476,Naja nigricollis,Black-necked Spitting Cobra,preyedUponBy
+879,,Broghammerus reticulatus,,preyedUponBy

@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64968,28362,Thamnophis sirtalis,Common Garter Snake,eatenBy
+64968,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+64968,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,eatenBy
+64968,,Thamnophis sirtalis pallidulus,,eatenBy
+64968,9744,Agelaius phoeniceus,Red-winged Blackbird,preysOn
+64968,882,Gallus gallus,Red Junglefowl,preyedUponBy
+64968,890,Bonasa umbellus,Ruffed Grouse,preyedUponBy
+64968,6930,Anas platyrhynchos,Mallard,preyedUponBy
+64968,8021,Corvus brachyrhynchos,American Crow,preyedUponBy
+64968,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+64968,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+64968,5227,Buteo platypterus,Broad-winged Hawk,preyedUponBy
+64968,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+64968,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+64968,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+64968,28339,Thamnophis,Garter Snakes,preyedUponBy
+64968,19765,Megascops asio,Eastern Screech-Owl,preyedUponBy
+64968,559064,Circus cyaneus,Hen Harrier,preyedUponBy
+64968,29328,Nerodia erythrogaster,Plain-bellied Watersnake,preyedUponBy

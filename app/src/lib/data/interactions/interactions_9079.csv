@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9079,20044,Bubo virginianus,Great Horned Owl,eatenBy
+9079,4665,Falco sparverius,American Kestrel,eatenBy
+9079,20445,Tyto alba,Barn Owl,eatenBy
+9079,,Onygena equina,,eatenBy
+9079,144594,Bubo scandiacus,Snowy Owl,eatenBy
+9079,20315,Asio flammeus,Short-eared Owl,eatenBy
+9079,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy

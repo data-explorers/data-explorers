@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+32058,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+32058,47383,Latrodectus geometricus,Brown Widow,eatenBy
+32058,,Buteo lineatus elegans,,eatenBy
+32058,36204,Sceloporus occidentalis,Western Fence Lizard,preysOn
+32058,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+32058,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy

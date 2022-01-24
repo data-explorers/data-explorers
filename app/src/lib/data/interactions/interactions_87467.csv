@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+87467,85493,Crustacea,Crustaceans,eats
+87467,1,Animalia,Animals,eats
+87467,121643,Copepoda,Copepods,eats
+87467,47628,Amphipoda,Amphipods,eats
+87467,47490,Polychaeta,Polychaete Worms,eats
+87467,47178,Actinopterygii,Ray-finned Fishes,eats
+87467,152823,Siphonophorae,Siphonophores,eats
+87467,47115,Mollusca,Molluscs,eats
+87467,485078,Oikopleura,,eats
+87467,68764,Ostracoda,Seed Shrimp,eats
+87467,151827,Chaetognatha,Arrow Worms,eats
+87467,47186,Decapoda,Decapods,eats
+87467,47668,Asteroidea,Sea Stars,eats
+87467,48824,Porifera,Sponges,eats
+87467,48147,Isopoda,Isopods,eats
+87467,47158,Insecta,Insects,eats
+87467,129725,Appendicularia,Pelagic Tunicates,eats
+87467,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+87467,201733,Corycaeus,,eats
+87467,329010,Candacia,,eats
+87467,201712,Euchaeta,,eats
+87467,181154,Rhinacanthus,,eats
+87467,201781,Calanus,,eats
+87467,201719,Pleuromamma,,eats
+87467,329109,Oncaea,,eats
+87467,201758,Eucalanus,,eats
+87467,,Aetideus,,eats
+87467,201753,Scolecithrix,,eats
+87467,,unspecified zooplankton,,eats
+87467,,,,eats
+87467,,Algae,,eats
+87467,746898,Trichodesmium thiebautii,,eats
+87467,,Thecosomata,,eats
+87467,,Detritus,,eats
+87467,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+87467,,Debris,,eats
+87467,195270,Sergestidae,,eats
+87467,123690,Caranx melampygus,Bluefin Trevally,eatenBy
+87467,100110,Epinephelus itajara,Atlantic Goliath Grouper,eatenBy
+87467,104853,Lutjanus analis,Mutton Snapper,eatenBy
+87467,64466,Mycteroperca interstitialis,Yellowmouth Grouper,eatenBy
+87467,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+87467,96740,Caranx crysos,Blue Runner,eatenBy
+87467,100104,Epinephelus guttatus,Red Hind,eatenBy
+87467,4537,Anous minutus,Black Noddy,eatenBy

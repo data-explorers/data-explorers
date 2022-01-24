@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63275,47727,Acer,maples,eats
+63275,47851,Quercus,oaks,eats
+63275,53549,Ulmus,elms,eats
+63275,194476,Cerrena unicolor,Mossy Maze Polypore,eats
+63275,,"(timber, imported)",,eats
+63275,,sapwood,,eats
+63275,,Broadleaved trees,,eats
+63275,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+63275,17355,Vireo,Vireos,eatenBy
+63275,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+63275,16100,Contopus virens,Eastern Wood-Pewee,eatenBy

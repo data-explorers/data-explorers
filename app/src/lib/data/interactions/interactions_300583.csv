@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+300583,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+300583,48678,Solidago,goldenrods,eats
+300583,50879,Erigeron,fleabanes and horseweeds,eats
+300583,122970,Helianthus tuberosus,Jerusalem artichoke,eats
+300583,67808,Solidago canadensis,Canada goldenrod,eats
+300583,48939,Eriogonum,wild buckwheats,eats
+300583,76445,Coreopsis tinctoria,plains coreopsis,eats
+300583,,Eryngium hookeri,,eats
+300583,,Eriogonum fasciculatum foliolosum,,eats
+300583,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+300583,,Rudbeckia fulgida,,eats
+300583,,Helianthus exilis,,eats
+300583,,Pycnanthemum tenuifolium,,eats
+300583,51768,Gaillardia pulchella,Indian blanket,eats
+300583,177795,Homoeosoma,,preysOn

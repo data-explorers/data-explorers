@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+467402,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+467402,50597,Cardiidae,Cockles,preysOn
+467402,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+467402,47490,Polychaeta,Polychaete Worms,preysOn
+467402,117650,Mytilus edulis,Blue Mussel,preysOn
+467402,324563,Pecten maximus,Great Scallop,preysOn
+467402,469347,Anomia ephippium,Saddle Oyster,preysOn
+467402,81606,Littorina littorea,Common Periwinkle,preysOn
+467402,171919,Musculus costulatus,Ribbed Crenella,preysOn
+467402,896207,Macomangulus tenuis,Thin Tellin,preysOn
+467402,483026,Turtonia minuta,,preysOn
+467402,498442,Solecurtus strigilatus,rosy razor clam,preysOn
+467402,69184,Venerupis,Carpet-shells,preysOn
+467402,210292,Chthamalus stellatus,Poli's Stellate Barnacle,preysOn
+467402,482656,Akera bullata,Thin Bubble-shell,preysOn
+467402,210230,Cerastoderma edule,Common Cockle,preysOn
+467402,154706,Patella vulgata,Common European Limpet,preysOn
+467402,49606,Balistes capriscus,Grey Triggerfish,preyedUponBy
+467402,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+467402,125291,Molva molva,European Ling,preyedUponBy
+467402,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+467402,61387,Limanda limanda,Sand Dab,preyedUponBy
+467402,55396,Solea solea,Common Sole,preyedUponBy
+467402,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+467402,109631,Platichthys flesus,European Flounder,preyedUponBy
+467402,103913,Labrus mixtus,Cuckoo Wrasse,preyedUponBy

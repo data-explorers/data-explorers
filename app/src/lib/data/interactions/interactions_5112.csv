@@ -1,0 +1,239 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5112,40151,Mammalia,Mammals,eats
+5112,2,Chordata,Chordates,eats
+5112,3,Aves,Birds,eats
+5112,1,Animalia,Animals,eats
+5112,46257,Tamiasciurus,Pine Squirrels,eats
+5112,9132,Spizella,Spizella Sparrows,eats
+5112,9526,Sturnella,Eastern and Western Meadowlarks,eats
+5112,8228,Cyanocitta,Blue and Steller's Jays,eats
+5112,9599,Quiscalus,Typical Grackles,eats
+5112,9091,Melospiza,Melospiza Sparrows,eats
+5112,10093,Junco,Juncos,eats
+5112,1405,Callipepla,Crested Quails,eats
+5112,18230,Colaptes,Flickers and Allies,eats
+5112,9405,Pipilo,Typical Towhees,eats
+5112,9175,Zonotrichia,Zonotrichia Sparrows,eats
+5112,13269,Hylocichla,,eats
+5112,520586,Tamias,,eats
+5112,12705,Turdus,Typical Thrushes,eats
+5112,3454,Zenaida macroura,Mourning Dove,eats
+5112,9083,Cardinalis cardinalis,Northern Cardinal,eats
+5112,3017,Columba livia,Rock Pigeon,eats
+5112,13858,Passer domesticus,House Sparrow,eats
+5112,474210,Spizelloides arborea,American Tree Sparrow,eats
+5112,14850,Sturnus vulgaris,European Starling,eats
+5112,10094,Junco hyemalis,Dark-eyed Junco,eats
+5112,8229,Cyanocitta cristata,Blue Jay,eats
+5112,71349,Parulidae,New World Warblers,eats
+5112,144815,Poecile atricapillus,Black-capped Chickadee,eats
+5112,12727,Turdus migratorius,American Robin,eats
+5112,43096,Sylvilagus,Cottontail Rabbits,eats
+5112,9424,Pipilo erythrophthalmus,Eastern Towhee,eats
+5112,44259,Microtus,Meadow Voles,eats
+5112,9100,Melospiza melodia,Song Sparrow,eats
+5112,9919,Piranga ludoviciana,Western Tanager,eats
+5112,44737,Neotoma,Woodrats,eats
+5112,199841,Haemorhous purpureus,Purple Finch,eats
+5112,9156,Passerella iliaca,Fox Sparrow,eats
+5112,13685,Passeridae,Old World Sparrows,eats
+5112,18236,Colaptes auratus,Northern Flicker,eats
+5112,7823,Corvidae,"Crows, Jays, and Magpies",eats
+5112,19743,Megascops kennicottii,Western Screech-Owl,eats
+5112,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+5112,145310,Spinus tristis,American Goldfinch,eats
+5112,44749,Neotoma fuscipes,Dusky-footed Woodrat,eats
+5112,981,Phasianus colchicus,Ring-necked Pheasant,eats
+5112,890,Bonasa umbellus,Ruffed Grouse,eats
+5112,36204,Sceloporus occidentalis,Western Fence Lizard,eats
+5112,45933,Sciuridae,Squirrels,eats
+5112,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eats
+5112,7428,Bombycilla cedrorum,Cedar Waxwing,eats
+5112,7824,Aphelocoma,Scrub-Jays and Allies,eats
+5112,4793,Charadrius vociferus,Killdeer,eats
+5112,7458,Certhia americana,Brown Creeper,eats
+5112,4665,Falco sparverius,American Kestrel,eats
+5112,10373,Molothrus ater,Brown-headed Cowbird,eats
+5112,1409,Callipepla californica,California Quail,eats
+5112,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eats
+5112,9535,Sturnella neglecta,Western Meadowlark,eats
+5112,10325,Euphagus cyanocephalus,Brewer's Blackbird,eats
+5112,12937,Sialia mexicana,Western Bluebird,eats
+5112,43112,Sylvilagus bachmani,Brush Rabbit,eats
+5112,6930,Anas platyrhynchos,Mallard,eats
+5112,28339,Thamnophis,Garter Snakes,eats
+5112,574,Phasianidae,"Pheasants, Grouse, and Allies",eats
+5112,14823,Sitta canadensis,Red-breasted Nuthatch,eats
+5112,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eats
+5112,16791,Tyrannus verticalis,Western Kingbird,eats
+5112,473,Fulica americana,American Coot,eats
+5112,14995,Dumetella carolinensis,Gray Catbird,eats
+5112,44185,Muridae,Old World Mice and Rats,eats
+5112,9346,Icterus galbula,Baltimore Oriole,eats
+5112,14898,Toxostoma rufum,Brown Thrasher,eats
+5112,9420,Pipilo maculatus,Spotted Towhee,eats
+5112,7294,Eremophila alpestris,Horned Lark,eats
+5112,1965,Coccyzus americanus,Yellow-billed Cuckoo,eats
+5112,59911,Mimidae,Mockingbirds and Thrashers,eats
+5112,9607,Quiscalus mexicanus,Great-tailed Grackle,eats
+5112,48894,Scorpiones,Scorpions,eats
+5112,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eats
+5112,38634,Teiidae,Whiptails and Tegus,eats
+5112,16079,Contopus sordidulus,Western Wood-Pewee,eats
+5112,1986,Geococcyx californianus,Greater Roadrunner,eats
+5112,29044,Pituophis catenifer,Gopher Snake,eats
+5112,9915,Piranga rubra,Summer Tanager,eats
+5112,145245,Setophaga coronata,Yellow-rumped Warbler,eats
+5112,10479,Chondestes grammacus,Lark Sparrow,eats
+5112,145238,Setophaga petechia,Yellow Warbler,eats
+5112,199840,Haemorhous mexicanus,House Finch,eats
+5112,16779,Tyrannus vociferans,Cassin's Kingbird,eats
+5112,12890,Catharus guttatus,Hermit Thrush,eats
+5112,16447,Pyrocephalus rubinus,Vermilion Flycatcher,eats
+5112,45763,Ondatra zibethicus,Muskrat,eats
+5112,71305,Cardinalidae,Cardinals and Allies,eats
+5112,17356,Vireo bellii,Bell's Vireo,eats
+5112,506118,Aphelocoma californica,California Scrub-Jay,eats
+5112,9315,Icterus,New World Orioles,eats
+5112,906,Meleagris gallopavo,Wild Turkey,eats
+5112,44349,Peromyscus,North American Deer Mice,eats
+5112,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+5112,46217,Tamias striatus,Eastern Chipmunk,eats
+5112,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+5112,14801,Sitta carolinensis,White-breasted Nuthatch,eats
+5112,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+5112,46272,Glaucomys volans,Southern Flying Squirrel,eats
+5112,46020,Sciurus niger,Fox Squirrel,eats
+5112,13270,Hylocichla mustelina,Wood Thrush,eats
+5112,46260,Tamiasciurus hudsonicus,American Red Squirrel,eats
+5112,16782,Tyrannus tyrannus,Eastern Kingbird,eats
+5112,17008,Sayornis phoebe,Eastern Phoebe,eats
+5112,9528,Sturnella magna,Eastern Meadowlark,eats
+5112,9921,Piranga olivacea,Scarlet Tanager,eats
+5112,9602,Quiscalus quiscula,Common Grackle,eats
+5112,11867,Progne subis,Purple Martin,eats
+5112,43840,Zapus hudsonius,Meadow Jumping Mouse,eats
+5112,47014,Scalopus aquaticus,Eastern Mole,eats
+5112,7251,Passeriformes,Perching Birds,eats
+5112,36141,Sceloporus,Spiny Lizards,eats
+5112,2715,Columbidae,Pigeons and Doves,eats
+5112,17599,Picidae,Woodpeckers,eats
+5112,26172,Squamata,Snakes and Lizards,eats
+5112,44575,Rattus rattus,Black Rat,eats
+5112,44396,Peromyscus maniculatus,Deer Mouse,eats
+5112,44576,Rattus norvegicus,Brown Rat,eats
+5112,9913,Piranga,Piranga Tanagers,eats
+5112,18209,Melanerpes formicivorus,Acorn Woodpecker,eats
+5112,882,Gallus gallus,Red Junglefowl,eats
+5112,12901,Catharus fuscescens,Veery,eats
+5112,8021,Corvus brachyrhynchos,American Crow,eats
+5112,12942,Sialia sialis,Eastern Bluebird,eats
+5112,891704,Vireo olivaceus,Red-eyed Vireo,eats
+5112,10247,Setophaga ruticilla,American Redstart,eats
+5112,44311,Microtus pennsylvanicus,Meadow Vole,eats
+5112,74677,Myodes gapperi,Southern Red-backed Vole,eats
+5112,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+5112,44395,Peromyscus leucopus,White-footed Mouse,eats
+5112,3936,Scolopax minor,American Woodcock,eats
+5112,43698,Rodentia,Rodents,eats
+5112,2969,Streptopelia decaocto,Eurasian Collared-Dove,eats
+5112,7601,Cistothorus palustris,Marsh Wren,eats
+5112,14886,Mimus polyglottos,Northern Mockingbird,eats
+5112,122767,Columba livia domestica,Feral Pigeon,eats
+5112,355675,Vertebrata,Vertebrates,eats
+5112,180007,Otospermophilus beecheyi,California Ground Squirrel,eats
+5112,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+5112,48460,Life,,eats
+5112,44540,Rattus,Old World Rats,eats
+5112,559248,Passerellidae,New World Sparrows,eats
+5112,11901,Hirundo rustica,Barn Swallow,eats
+5112,505478,Gallus gallus domesticus,Domestic Chicken,eats
+5112,2708,Columbiformes,Pigeons and Doves,eats
+5112,5112,Accipiter cooperii,Cooper's Hawk,eats
+5112,7576,Thryomanes bewickii,Bewick's Wren,eats
+5112,5020,Butorides virescens,Green Heron,eats
+5112,43115,Sylvilagus audubonii,Desert Cottontail,eats
+5112,204094,Cairina moschata domestica,Domestic Muscovy Duck,eats
+5112,20044,Bubo virginianus,Great Horned Owl,eatenBy
+5112,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+5112,,Bubo virginianus pacificus,,eatenBy
+5112,,Aquila chrysaetos,,eatenBy
+5112,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+5112,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+5112,3864,Calidris minutilla,Least Sandpiper,preysOn
+5112,3855,Calidris mauri,Western Sandpiper,preysOn
+5112,64968,Anaxyrus americanus,American Toad,preysOn
+5112,891704,Vireo olivaceus,Red-eyed Vireo,preysOn
+5112,7562,Troglodytes aedon,House Wren,preysOn
+5112,14898,Toxostoma rufum,Brown Thrasher,preysOn
+5112,72458,Actitis macularius,Spotted Sandpiper,preysOn
+5112,3,Aves,Birds,preysOn
+5112,43096,Sylvilagus,Cottontail Rabbits,preysOn
+5112,44576,Rattus norvegicus,Brown Rat,preysOn
+5112,40151,Mammalia,Mammals,preysOn
+5112,1,Animalia,Animals,preysOn
+5112,2715,Columbidae,Pigeons and Doves,preysOn
+5112,18209,Melanerpes formicivorus,Acorn Woodpecker,preysOn
+5112,43095,Leporidae,Hares and Rabbits,preysOn
+5112,3454,Zenaida macroura,Mourning Dove,preysOn
+5112,45933,Sciuridae,Squirrels,preysOn
+5112,122767,Columba livia domestica,Feral Pigeon,preysOn
+5112,18236,Colaptes auratus,Northern Flicker,preysOn
+5112,7576,Thryomanes bewickii,Bewick's Wren,preysOn
+5112,13858,Passer domesticus,House Sparrow,preysOn
+5112,2969,Streptopelia decaocto,Eurasian Collared-Dove,preysOn
+5112,8229,Cyanocitta cristata,Blue Jay,preysOn
+5112,355675,Vertebrata,Vertebrates,preysOn
+5112,43111,Sylvilagus floridanus,Eastern Cottontail,preysOn
+5112,46017,Sciurus carolinensis,Eastern Gray Squirrel,preysOn
+5112,9602,Quiscalus quiscula,Common Grackle,preysOn
+5112,43698,Rodentia,Rodents,preysOn
+5112,9744,Agelaius phoeniceus,Red-winged Blackbird,preysOn
+5112,3017,Columba livia,Rock Pigeon,preysOn
+5112,8021,Corvus brachyrhynchos,American Crow,preysOn
+5112,180007,Otospermophilus beecheyi,California Ground Squirrel,preysOn
+5112,9607,Quiscalus mexicanus,Great-tailed Grackle,preysOn
+5112,14850,Sturnus vulgaris,European Starling,preysOn
+5112,3857,Calidris alpina,Dunlin,preysOn
+5112,339200,Himasthla rhigedana,,preysOn
+5112,339174,Cyathocotylidae,,preysOn
+5112,339182,Phocitremoides ovale,,preysOn
+5112,339183,Euhaplorchis californiensis,,preysOn
+5112,339245,Himasthla,,preysOn
+5112,339172,Austrobilharzia,,preysOn
+5112,339199,Catatropis johnstoni,,preysOn
+5112,,Parorchis acanthus,,preysOn
+5112,339176,Renicola buchanani,,preysOn
+5112,,Cloacitrema michiganense,,preysOn
+5112,339249,Acanthoparyphium,,preysOn
+5112,,Renicola cerithidicola,,preysOn
+5112,,Large xiphideocercaria,,preysOn
+5112,,Pygidiopsoides spindalis,,preysOn
+5112,,Stictodora hancocki,,preysOn
+5112,,Plasmodium,,preysOn
+5112,,Probolocoryphe uca,,preysOn
+5112,,Dilepididae,,preysOn
+5112,,bronze grackle,,preysOn
+5112,,Dendroica petechia,,preysOn
+5112,,least flycatcher,,preysOn
+5112,,towhee,,preysOn
+5112,,chickadee,,preysOn
+5112,,baltimore oriole,,preysOn
+5112,,maryland yellowthroat,,preysOn
+5112,,songsparrow,,preysOn
+5112,,redwinged blackbird,,preysOn
+5112,,gold finch,,preysOn
+5112,,willow thrush,,preysOn
+5112,,warbling vireo,,preysOn
+5112,,rosebreasted grosbeak,,preysOn
+5112,,catbird,,preysOn
+5112,,rosebreasted grossbeak,,preysOn
+5112,,Actitus macularia,,preysOn
+5112,,Marmotini,,preysOn
+5112,,Melanerpes aurifrons,,preysOn
+5112,325776,Neotominae,North American Mice and Rats,preysOn
+5112,,Colaptes auratus luteus,,preysOn
+5112,,Zonotrichia leucophrys,,preysOn
+5112,18161,Melanerpes uropygialis,Gila Woodpecker,preysOn
+5112,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+5112,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy

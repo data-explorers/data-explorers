@@ -1,0 +1,110 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+19350,44027,Geomyidae,Pocket Gophers,eats
+19350,520586,Tamias,,eats
+19350,44396,Peromyscus maniculatus,Deer Mouse,eats
+19350,46078,Marmota,Marmots,eats
+19350,333586,Oligochaeta,Earthworms and allies,eats
+19350,526558,Mustelinae,Weasels,eats
+19350,72458,Actitis macularius,Spotted Sandpiper,eats
+19350,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+19350,44311,Microtus pennsylvanicus,Meadow Vole,eats
+19350,44395,Peromyscus leucopus,White-footed Mouse,eats
+19350,42652,Didelphis virginiana,Virginia Opossum,eats
+19350,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+19350,59815,Sorex cinereus,Masked Shrew,eats
+19350,41663,Procyon lotor,Common Raccoon,eats
+19350,11901,Hirundo rustica,Barn Swallow,eats
+19350,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+19350,13858,Passer domesticus,House Sparrow,eats
+19350,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+19350,46020,Sciurus niger,Fox Squirrel,eats
+19350,8010,Corvus corax,Common Raven,eats
+19350,46217,Tamias striatus,Eastern Chipmunk,eats
+19350,46272,Glaucomys volans,Southern Flying Squirrel,eats
+19350,3,Aves,Birds,eats
+19350,41801,Mustela,,eats
+19350,179974,Spermophilus,Old World Ground Squirrels,eats
+19350,,Lepus,,eats
+19350,,Arvicolinae,,eats
+19350,,Dipodomys compactus,,eats
+19350,47051,Neurotrichus gibbsii,American Shrewmole,eats
+19350,41376,Taphozous melanopogon,Black-bearded Tomb Bat,eats
+19350,,Pipistrellus hesperus,,eats
+19350,,Zapus princeps,,eats
+19350,,Blarina hylophaga,,eats
+19350,5676,Amazilia tzacatl,Rufous-tailed Hummingbird,eats
+19350,,Neotragus moschatus,,eats
+19350,,Peromyscus truei,,eats
+19350,,Lepus capensis,,eats
+19350,,Hypsignathus monstrosus,,eats
+19350,43683,Callicebus personatus,Northern Masked Titi,eats
+19350,,Paraechinus aethiopicus,,eats
+19350,,Myotis austroriparius,,eats
+19350,46510,Sorex merriami,Merriam's Shrew,eats
+19350,44090,Chaetodipus formosus,Long-tailed Pocket Mouse,eats
+19350,,Raphicerus sharpei,,eats
+19350,,Onychomys arenicola,,eats
+19350,,Epomophorus gambianus,,eats
+19350,4938,Egretta tricolor,Tricolored Heron,eats
+19350,925950,Conepatus chinga,Molina's Hog-nosed Skunk,eats
+19350,19577,Chordeiles minor,Common Nighthawk,eats
+19350,,Megaderma lyra,,eats
+19350,28423,Thamnophis butleri,Butler's Garter Snake,eats
+19350,,Perognathus fasciatus,,eats
+19350,,Mazama gouazoupira,,eats
+19350,44705,Mus musculus,House Mouse,eats
+19350,,Microtus ochrogaster,,eats
+19350,,Ratufa indica,,eats
+19350,40592,Miniopterus australis,Little Long-fingered Bat,eats
+19350,,Dipodomys microps,,eats
+19350,,Peromyscus boylii,,eats
+19350,,Lemmiscus curtatus,,eats
+19350,,Eidolon helvum,,eats
+19350,3460,Zenaida asiatica,White-winged Dove,eats
+19350,46414,Sorex araneus,Common Shrew,eats
+19350,,Otus asio,,eats
+19350,922459,Felis silvestris,European Wildcat,eats
+19350,,Dipodomys californicus,,eats
+19350,,Myopus schisticolor,,eats
+19350,46407,Sorex dispar,Gray Long-tailed Shrew,eats
+19350,,Notomys alexis,,eats
+19350,,Peromyscus polionotus,,eats
+19350,,Pteropus samoensis,,eats
+19350,,Lasiurus seminolus,,eats
+19350,40352,Myotis grisescens,Gray Bat,eats
+19350,,Peromyscus gossypinus,,eats
+19350,40569,Nycticeius humeralis,Evening Bat,eats
+19350,,Picoides scalaris,,eats
+19350,,Leontopithecus chrysopygus,,eats
+19350,,Solenodon cubanus,,eats
+19350,,Miopithecus talapoin,,eats
+19350,,Dipodomys deserti,,eats
+19350,40509,Eptesicus fuscus,Big Brown Bat,eats
+19350,,Blarina carolinensis,,eats
+19350,,Mustela frenata,,eats
+19350,,Saguinus nigricollis,,eats
+19350,26729,Ambystoma annulatum,Ringed Salamander,eats
+19350,44667,Meriones crassus,Sundevall's Jird,eats
+19350,,Tamias alpinus,,eats
+19350,,Macaca sylvanus,,eats
+19350,,Chaetodipus baileyi,,eats
+19350,40719,Hipposideros diadema,Diadem Roundleaf Bat,eats
+19350,,Gymnobelideus leadbeateri,,eats
+19350,43109,Sylvilagus nuttallii,Mountain Cottontail,eats
+19350,,Microcebus rufus,,eats
+19350,,Arctocebus calabarensis,,eats
+19350,,Natalus lepidus,,eats
+19350,44653,Tatera indica,Indian Gerbil,eats
+19350,569428,Mustela nivalis,Least Weasel,eats
+19350,,Eulemur rubriventer,,eats
+19350,44598,Akodon cursor,Cursor Grass Mouse,eats
+19350,,Elephantulus rufescens,,eats
+19350,44326,Microtus californicus,California Vole,preysOn
+19350,44062,Thomomys bottae,Botta's Pocket Gopher,preysOn
+19350,3454,Zenaida macroura,Mourning Dove,preysOn
+19350,326296,Bufo bufo,European Toad,preysOn
+19350,,Myotis austroriparius,,preysOn
+19350,40348,Myotis velifer,Cave Myotis,preysOn
+19350,,Nycteris macrotis,,preysOn
+19350,,Macronycteris vittatus,,preysOn
+19350,,Scolopendra polymorpha,,preysOn

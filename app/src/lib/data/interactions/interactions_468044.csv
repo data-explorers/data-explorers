@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+468044,123862,Chaetoceros,,eats
+468044,123880,Bacillariophyceae,Diatoms,eats
+468044,,Bacteriastrum,,eats
+468044,,Phytoplankton,,eats
+468044,,Thalassiosira weisflogii,,preysOn
+468044,992645,Heterocapsa triquetra,,preysOn
+468044,,Chattonella marina,,preysOn
+468044,,Heterosigma akashiwo,,preysOn

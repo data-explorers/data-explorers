@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81862,47120,Arthropoda,Arthropods,eats
+81862,54541,Hippocampus,Seahorses,eatenBy
+81862,,Acanthoclinus marilynae,,eatenBy
+81862,,Acanthoclinus fuscus,,eatenBy

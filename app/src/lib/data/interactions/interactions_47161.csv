@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47161,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+47161,42158,Cervidae,Deer,eatenBy
+47161,6888,Anseriformes,Waterfowl,eatenBy
+47161,7086,Branta,Black Geese,eatenBy
+47161,53237,Cicadellidae,Typical Leafhoppers,eatenBy
+47161,60922,Coccoidea,Scale Insects,eatenBy
+47161,7089,Branta canadensis,Canada Goose,eatenBy
+47161,7043,Aythya,"Scaups, Pochards, and Allies",eatenBy
+47161,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+47161,41644,Ursus maritimus,Polar Bear,eatenBy
+47161,,Dolerus (Poodolerus) nitens,,eatenBy
+47161,,Selandria melanosterna,,eatenBy
+47161,,Dolerus (Poodolerus) asper,,eatenBy
+47161,,Dolerus (Poodolerus) possilensis,,eatenBy
+47161,497699,Macrophya duodecimpunctata,,eatenBy
+47161,,Dolerus (Poodolerus) haematodes,,eatenBy
+47161,,Dolerus (Poodolerus) stygius,,eatenBy
+47161,893630,Tenthredopsis nassata,Common Tenthredopsis,eatenBy
+47161,359375,Selandria serva,,eatenBy
+47161,,Resinomycena saccharifera,,eatenBy
+47161,,Anas clypeata,,eatenBy
+47161,,Arctic hare,,eatenBy
+47161,,Common muskrat,,eatenBy
+47161,,Psylloidea,,eatenBy
+47161,52380,Aphidoidea,,eatenBy
+47161,,Ovibos moschatus,,eatenBy
+47161,,Rangifer tarandus,,eatenBy
+47161,,Lepus arcticus,,eatenBy
+47161,,"Thymelicus leoninus (Butler, 1878)",,eatenBy
+47161,,Coenonympha oedippus,,eatenBy
+47161,,Minois dryas,,eatenBy
+47161,162,Porzana carolina,Sora,eatenBy
+47161,243,Rallus limicola,Virginia Rail,eatenBy
+47161,72502,Anas chlorotis,Brown Teal,eatenBy
+47161,542,Coturnicops noveboracensis,Yellow Rail,eatenBy
+47161,519,Porphyrio martinica,Purple Gallinule,eatenBy
+47161,,Stictonetta naevosa,,eatenBy
+47161,7176,Chenonetta jubata,Australian Wood Duck,eatenBy
+47161,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+47161,,Acanthis flammea,,eatenBy
+47161,7174,Malacorhynchus membranaceus,Pink-eared Duck,eatenBy
+47161,,Chen canagica,,eatenBy
+47161,558426,Anser caerulescens,Snow Goose,eatenBy
+47161,7074,Oxyura australis,Blue-billed Duck,eatenBy
+47161,558437,Spatula rhynchotis,Australasian Shoveler,eatenBy
+47161,6914,Cygnus atratus,Black Swan,eatenBy
+47161,6896,Dendrocygna arcuata,Wandering Whistling-Duck,eatenBy
+47161,6905,Anseranas semipalmata,Magpie Goose,eatenBy
+47161,6987,Anas superciliosa,Pacific Black Duck,eatenBy
+47161,6895,Dendrocygna eytoni,Plumed Whistling-Duck,eatenBy
+47161,7128,Nettapus coromandelianus,Cotton Pygmy-Goose,eatenBy
+47161,6937,Anas crecca,Green-winged Teal,eatenBy
+47161,,Anas castanea,,eatenBy
+47161,,Anas americana,,eatenBy

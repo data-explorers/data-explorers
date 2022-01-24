@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47551,,Chlorostilbon maugaeus,,eatenBy
+47551,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47551,,Corvus caurinus,,eatenBy
+47551,113846,Telebasis salva,Desert Firetail,preysOn
+47551,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+47551,94577,Argia translata,Dusky Dancer,preysOn
+47551,,Pyrrhosoma nymphula,,preysOn
+47551,94571,Argia sedula,Blue-ringed Dancer,preysOn
+47551,,Ischnura hastata,,preysOn
+47551,,Enallagma civile,,preysOn
+47551,50190,Cicadoidea,Cicadas,preysOn
+47551,,Thripidae,,preysOn
+47551,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47551,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47551,50867,Argiope bruennichi,Wasp Spider,preyedUponBy

@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4783,47120,Arthropoda,Arthropods,eats
+4783,,saprovores,,eats
+4783,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4783,41801,Mustela,,eatenBy
+4783,4479,Stercorarius,Skuas and Jaegers,eatenBy
+4783,48919,Littorina,Periwinkles,preysOn
+4783,81636,Mya,,preysOn
+4783,62807,Mytilus,Black Mussels,preysOn
+4783,47120,Arthropoda,Arthropods,preysOn
+4783,52524,Carcinus,Green Crabs,preysOn
+4783,59807,Gammarus,,preysOn
+4783,203392,Jaera,,preysOn
+4783,71252,Macoma,,preysOn
+4783,378019,Rissoa,,preysOn
+4783,123639,Spionidae,,preysOn
+4783,338440,Tubificoides,,preysOn
+4783,337828,Hediste,,preysOn
+4783,,Hydrobia,,preysOn
+4783,,Turboella,,preysOn
+4783,,Fimbria,,preysOn
+4783,48817,Crangon,,preysOn
+4783,91276,Potamopyrgus,,preysOn
+4783,210231,Cerastoderma,,preysOn
+4783,87522,Clevelandia,,preysOn
+4783,4342,Laridae,"Gulls, Terns, and Skimmers",preyedUponBy
+4783,42069,Vulpes vulpes,Red Fox,preyedUponBy
+4783,3,Aves,Birds,preyedUponBy
+4783,233598,Vulpes lagopus,Arctic Fox,preyedUponBy
+4783,5167,Circus pygargus,Montagu's Harrier,preyedUponBy
+4783,,Stercocarius spec.,,preyedUponBy
+4783,144594,Bubo scandiacus,Snowy Owl,preyedUponBy
+4783,4555,Pagophila eburnea,Ivory Gull,preyedUponBy

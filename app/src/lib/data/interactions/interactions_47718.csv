@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47718,119994,Vespula maculifrons,Eastern Yellowjacket,eatenBy
+47718,11867,Progne subis,Purple Martin,eatenBy
+47718,14850,Sturnus vulgaris,European Starling,eatenBy
+47718,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47718,12716,Turdus merula,Eurasian Blackbird,eatenBy
+47718,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+47718,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+47718,,Plecotus auritus,,preyedUponBy
+47718,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+47718,,Corynorhinus townsendii,,preyedUponBy

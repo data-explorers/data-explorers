@@ -1,0 +1,174 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47602,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+47602,13858,Passer domesticus,House Sparrow,eatenBy
+47602,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+47602,143734,Eupithecia miserulata,Common Eupithecia Moth,eatenBy
+47602,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+47602,309466,Aphis gossypii,Melon Aphid,eatenBy
+47602,252448,Caenohalictus,,eatenBy
+47602,49995,Syrphidae,Hover Flies,eatenBy
+47602,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+47602,47219,Apis mellifera,Western Honey Bee,eatenBy
+47602,127747,Halictus rubicundus,Orange-legged Furrow Bee,eatenBy
+47602,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+47602,126532,Toxomerus geminatus,Eastern Calligrapher,eatenBy
+47602,48662,Danaus plexippus,Monarch,eatenBy
+47602,55626,Pieris rapae,Cabbage White,eatenBy
+47602,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+47602,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+47602,121517,Bombus terricola,Yellow-banded Bumble Bee,eatenBy
+47602,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+47602,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+47602,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+47602,126545,Dialictus,Metallic Sweat Bees,eatenBy
+47602,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+47602,468067,Zadontomerus,,eatenBy
+47602,84640,Polistes dominula,European Paper Wasp,eatenBy
+47602,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+47602,52775,Bombus,Bumble Bees,eatenBy
+47602,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+47602,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+47602,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+47602,55655,Lycaena phlaeas,Small Copper,eatenBy
+47602,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+47602,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+47602,49133,Vanessa atalanta,Red Admiral,eatenBy
+47602,41638,Ursus americanus,American Black Bear,eatenBy
+47602,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+47602,57674,Osmia,Mason Bees,eatenBy
+47602,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47602,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47602,,Lepus townsendii,,eatenBy
+47602,42429,Antilocapra americana,Pronghorn,eatenBy
+47602,,Harpalus affinis,,eatenBy
+47602,,Amara conularis,,eatenBy
+47602,,Harpalus rufipes,,eatenBy
+47602,,Poecilus cupreus,,eatenBy
+47602,131931,Pterostichus melanarius,Rain-beetle,eatenBy
+47602,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+47602,,Emberiza citrinella,,eatenBy
+47602,,Carduelis carduelis,,eatenBy
+47602,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+47602,,Columba palumbus,,eatenBy
+47602,8029,Corvus frugilegus,Rook,eatenBy
+47602,,Carduelis chloris,,eatenBy
+47602,,Alectoris rufa,,eatenBy
+47602,,Aphelia alleniana,,eatenBy
+47602,,Celypha rosaceana,,eatenBy
+47602,,Autographa biloba,,eatenBy
+47602,,Autographa bimaculata,,eatenBy
+47602,,Xylena exsoleta,,eatenBy
+47602,,Autographa mappa,,eatenBy
+47602,,Xestia c-nigrum,,eatenBy
+47602,,Protorthodes oviduca,,eatenBy
+47602,,Polia detracta,,eatenBy
+47602,,Blepharita sommeri,,eatenBy
+47602,,Protorthodes incincta,,eatenBy
+47602,,Lacinipolia meditata,,eatenBy
+47602,,Pseudorthodes vecors,,eatenBy
+47602,,Lacinipolia laudabilis,,eatenBy
+47602,,Orthosia gracilis,,eatenBy
+47602,,Lacinipolia lustralis,,eatenBy
+47602,,Caradrina morpheus,,eatenBy
+47602,,Blepharita amica,,eatenBy
+47602,,Lacinipolia comis,,eatenBy
+47602,,Leuconycta lepidula,,eatenBy
+47602,,Phlogophora iris,,eatenBy
+47602,222584,Lacinipolia erecta,Erect Arches,eatenBy
+47602,,Melanchra picta,,eatenBy
+47602,,Lacinipolia implicata,,eatenBy
+47602,320763,Hoplodrina ambigua,Vine's Rustic,eatenBy
+47602,,Lacinipolia explicata,,eatenBy
+47602,,Synchlora aerata,,eatenBy
+47602,,Turuptiana,,eatenBy
+47602,,Holomelina aurantiaca,,eatenBy
+47602,354660,Spilosoma glatignyi,black-and-white tiger moth,eatenBy
+47602,,Grammia doris,,eatenBy
+47602,,Spilosoma vagans,,eatenBy
+47602,,Neoarctia beanii,,eatenBy
+47602,914676,Macrosteles laevis,,eatenBy
+47602,,microbes,,eatenBy
+47602,,Ophonus azureus,,eatenBy
+47602,130433,Amara aenea,Common Sun Beetle,eatenBy
+47602,,Pachytomella arallela,,eatenBy
+47602,,Diachromus germanus,,eatenBy
+47602,,Orthocephalus saltator,,eatenBy
+47602,130452,Amara plebeja,,eatenBy
+47602,,Amara sinuosa,,eatenBy
+47602,,Athous bicolor,,eatenBy
+47602,,Cerapion onopordi,,eatenBy
+47602,552756,Orius niger,,eatenBy
+47602,,Exomias pellucidus,,eatenBy
+47602,449683,Phormia regina,Black Blow Fly,pollinatedBy
+47602,48060,Prosopis,mesquites,pollinatedBy
+47602,136563,Coccinella novemnotata,Nine-spotted Lady Beetle,pollinatedBy
+47602,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+47602,57677,Halictus,Furrow Bees,pollinatedBy
+47602,52965,Sphaerophoria,Globetails,pollinatedBy
+47602,52487,Helophilus,Marsh Flies,pollinatedBy
+47602,50086,Agapostemon,Striped Sweat Bees,pollinatedBy
+47602,57674,Osmia,Mason Bees,pollinatedBy
+47602,47822,Diptera,Flies,pollinatedBy
+47602,51558,Bombyliidae,Bee Flies,pollinatedBy
+47602,51953,Tachinidae,Bristle Flies,pollinatedBy
+47602,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+47602,49995,Syrphidae,Hover Flies,pollinatedBy
+47602,121922,Eublemma,,pollinatedBy
+47602,,Euphorus,,pollinatedBy
+47602,176289,Orphilus,,pollinatedBy
+47602,,Biomyia,,pollinatedBy
+47602,,Holandrena,,pollinatedBy
+47602,,Bruchus,,pollinatedBy
+47602,,Aspila,,pollinatedBy
+47602,,Hypostena,,pollinatedBy
+47602,,Ichneumon succinctus,,pollinatedBy
+47602,,Trachandrena,,pollinatedBy
+47602,322713,Sapromyza,,pollinatedBy
+47602,,Anthophora terminalis,,pollinatedBy
+47602,,Brachypalpus,,pollinatedBy
+47602,,Aldrichia ehrmanii,,pollinatedBy
+47602,,Priocnemoides,,pollinatedBy
+47602,,Evylaeus,,pollinatedBy
+47602,,Zodion palpalis,,pollinatedBy
+47602,52925,Phyciodes tharos,Pearl Crescent,pollinatedBy
+47602,,Cemolobus ipomoeae,,pollinatedBy
+47602,371923,Senotainia,,pollinatedBy
+47602,,Polysphincta,,pollinatedBy
+47602,,Centrinites strigicollis,,pollinatedBy
+47602,,Sapyga centrata,,pollinatedBy
+47602,,Conura torvina,,pollinatedBy
+47602,,Tetrachrysis,,pollinatedBy
+47602,,Pholisora,,pollinatedBy
+47602,,Phor,,pollinatedBy
+47602,,Episyrphus balteatus,,pollinatedBy
+47602,,Siphona,,pollinatedBy
+47602,,http://treatment.plazi.org/id/D88F6906CAD8356A1200AD2C1917FB5C,,pollinatedBy
+47602,,Aricia agestis,,pollinatedBy
+47602,,http://treatment.plazi.org/id/588934C5A3D81B78F71DEEB7F083B91E,,pollinatedBy
+47602,,Bombylius fuliginosus ,,pollinatedBy
+47602,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy
+47602,,Spallanzania,,pollinatedBy
+47602,,Delia hirticrura,,pollinatedBy
+47602,,Polyommatus icarus ,,pollinatedBy
+47602,,Lycaena phlaeas ,,pollinatedBy
+47602,,Metasyrphus corollae,,pollinatedBy
+47602,,Andrena,,pollinatedBy
+47602,,Megaselia diversa ,,pollinatedBy
+47602,,Stenomacrus,,pollinatedBy
+47602,345325,Micropsectra,,pollinatedBy
+47602,,Fannia,,pollinatedBy
+47602,372226,Alysiinae,,pollinatedBy
+47602,,Scathophaga stercoraria,,pollinatedBy
+47602,,Panameria tenebrata,,pollinatedBy
+47602,,Agapostemon splendens,,pollinatedBy
+47602,,Yramea,,pollinatedBy
+47602,,Scaeva melanostoma,,pollinatedBy
+47602,574528,Liphanthus,,pollinatedBy
+47602,512755,Megachile semirufa,,pollinatedBy
+47602,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+47602,,Self pollinated,,pollinatedBy
+47602,,Osmia lignaria,,pollinatedBy
+47602,,Amara communis,,preyedUponBy
+47602,,Cantharis lateralis,,preyedUponBy
+47602,,Aeolothrips intermedius,,preyedUponBy
+47602,,Cantharis fusca,,preyedUponBy

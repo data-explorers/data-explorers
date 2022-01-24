@@ -5,14 +5,19 @@ import requests
 def fetchGlobi(taxon_name, interaction):
     time.sleep(0.25)
     apiBase = 'https://api.globalbioticinteractions.org/taxon'
-    url = f'{apiBase}/{taxon_name}/{interaction}'
-    # print(url)
+    url = f'{apiBase}/{taxon_name}/{interaction}?excludeChildTaxa=true'
+    taxa = None
     
     response = requests.get(url)
     if response.status_code == 200:
         json_data = response.json()
+        
         if len(json_data['data']) > 0:
-            return { json_data['data'][0][2] }
+            for res in json_data['data']:
+                if res[0] == taxon_name and res[1] == interaction:
+                    taxa = res[2]
+    return taxa
+                    
 
             
 def fetchiNat(taxon_name):
@@ -26,9 +31,17 @@ def fetchiNat(taxon_name):
         return
     if taxon_name.startswith('secretions'):
         return
-
+    if taxon_name[0].islower():
+        return
+    if taxon_name.startswith('MCZ'):
+        return
+    if '(' in taxon_name:
+        return
+    if '.' in taxon_name:
+        return
     
-    time.sleep(0.25)
+    
+    time.sleep(0.4)
     url = f'https://api.inaturalist.org/v1/taxa?q={taxon_name}'
     # print(url)
     
@@ -36,17 +49,17 @@ def fetchiNat(taxon_name):
     if response.status_code == 200:
         json_data = response.json()
         if len(json_data['results']) > 0:
-            result =json_data['results'][0]
-            data = {
-                'scientific_name': result['name'], 
-                'taxon_id': result['id'], 
-            }
-            if 'preferred_common_name' in result:
-                data['common_name'] =  result['preferred_common_name']
-            else:
-                data['common_name'] = ''
-            return data
-
+            for result in json_data['results']:
+                if result['name'] == taxon_name:
+                    data = {
+                        'scientific_name': result['name'], 
+                        'taxon_id': result['id'], 
+                    }
+                    if 'preferred_common_name' in result:
+                        data['common_name'] =  result['preferred_common_name']
+                    else:
+                        data['common_name'] = ''
+                    return data
             
             
 def formatInteractions(taxa_df, row, interaction, interactionLimit = 3): 
@@ -99,3 +112,6 @@ def formatInteractions(taxa_df, row, interaction, interactionLimit = 3):
     return interactions
 
     
+def add_inat_taxa_data(df, results):
+    df.loc[df['target_scientific_name'] == results['scientific_name'], 'target_common_name'] = results['common_name']
+    df.loc[df['target_scientific_name'] == results['scientific_name'], 'target_taxon_id'] = results['taxon_id']

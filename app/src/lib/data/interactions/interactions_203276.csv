@@ -1,0 +1,45 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+203276,47452,Acacia,wattles,eats
+203276,50334,Lantana,,eats
+203276,,Glochidion,,eats
+203276,,Cissus antarctica,,eats
+203276,60335,Rhizophora mangle,red mangrove,eats
+203276,13732,Anthus rubescens,American Pipit,eatenBy
+203276,55659,Pyrausta,Mint Moths,preysOn
+203276,177071,Melipotis,,preysOn
+203276,324640,Ephestia kuehniella,Mediterranean Flour Moth,preysOn
+203276,,Corcyra cephalonica,,preysOn
+203276,,thrips,,preysOn
+203276,196941,Suidasia,,preysOn
+203276,83806,Helicoverpa armigera,Cotton Bollworm Moth,preysOn
+203276,,Sitotroga cerealella,,preysOn
+203276,,Pyraustidae,,preysOn
+203276,,Ascia monuste,,preysOn
+203276,,Phoebis agarithe,,preysOn
+203276,,Neurothrips magnafemoraus,,preysOn
+203276,,Bema ydda,,preysOn
+203276,,Haplothrips flavipes,,preysOn
+203276,,Oiketicus abbottii,,preysOn
+203276,,Orgygia detrita,,preysOn
+203276,,Tetranychus,,preysOn
+203276,,Phocides batabano,,preysOn
+203276,,Liothrips,,preysOn
+203276,,Ecdytolopha,,preysOn
+203276,82279,Automeris io,Io Moth,preysOn
+203276,,Alarodia slossoniae,,preysOn
+203276,,Oxydia,,preysOn
+203276,,Pseudothrips inequalis,,preysOn
+203276,176795,Nemapogon,,preysOn
+203276,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+203276,250072,Metacyrba,,preyedUponBy
+203276,5020,Butorides virescens,Green Heron,preyedUponBy
+203276,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+203276,,Dendroica,,preyedUponBy
+203276,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+203276,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+203276,84495,Paraphidippus,,preyedUponBy
+203276,420613,Stoidis,,preyedUponBy
+203276,,Pirata,,preyedUponBy
+203276,354274,Ballus,,preyedUponBy
+203276,49880,Misumenops,,preyedUponBy
+203276,528125,Charletonia,,preyedUponBy

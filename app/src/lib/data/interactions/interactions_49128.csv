@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49128,,Detritus,,eats
+49128,,plankton,,eats
+49128,48834,Pisaster,Giant Sea Stars,eatenBy
+49128,63740,Gadus morhua,Atlantic Cod,eatenBy
+49128,,Seariesia,,eatenBy
+49128,,Leptasterias,,eatenBy
+49128,193907,Thais,,eatenBy
+49128,84083,Spinachia spinachia,Sea Stickleback,eatenBy
+49128,68597,Sebastes caurinus,copper rockfish,eatenBy
+49128,188070,Plecoglossus altivelis,Sweetfish,eatenBy
+49128,7031,Melanitta,Scoters,eatenBy
+49128,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+49128,,plankton,,preysOn
+49128,48834,Pisaster,Giant Sea Stars,preyedUponBy
+49128,,Leptasterias,,preyedUponBy

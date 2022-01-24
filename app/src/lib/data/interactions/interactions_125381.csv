@@ -1,0 +1,99 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+125381,48662,Danaus plexippus,Monarch,eatenBy
+125381,67760,Popillia japonica,Japanese Beetle,eatenBy
+125381,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+125381,121517,Bombus terricola,Yellow-banded Bumble Bee,eatenBy
+125381,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+125381,84738,Vespinae,Hornets and Yellowjackets,eatenBy
+125381,84640,Polistes dominula,European Paper Wasp,eatenBy
+125381,126532,Toxomerus geminatus,Eastern Calligrapher,eatenBy
+125381,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+125381,47980,Speyeria cybele,Great Spangled Fritillary,eatenBy
+125381,82527,Augochloropsis metallica,Metallic Epauletted-Sweat bee,eatenBy
+125381,118559,Tetraopes tetrophthalmus,Red Milkweed Beetle,eatenBy
+125381,55556,Oncopeltus fasciatus,Large Milkweed Bug,eatenBy
+125381,58532,Colias eurytheme,Orange Sulphur,eatenBy
+125381,71154,Aphis nerii,Oleander Aphid,eatenBy
+125381,119994,Vespula maculifrons,Eastern Yellowjacket,eatenBy
+125381,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+125381,126545,Dialictus,Metallic Sweat Bees,eatenBy
+125381,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+125381,47219,Apis mellifera,Western Honey Bee,eatenBy
+125381,,Danaus gilippus,,eatenBy
+125381,,Cycnia tenera,,eatenBy
+125381,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,eatenBy
+125381,,Satyrium calanus,,eatenBy
+125381,,Dolichovespula norvegicoides,,eatenBy
+125381,,Vespula consobrina,,eatenBy
+125381,,Xylocopa virginica virginica,,eatenBy
+125381,,Hylaeus leptocephalus,,eatenBy
+125381,1268230,Thorybes lyciades,Hoary Edge,eatenBy
+125381,,Xylocopa virginica,,eatenBy
+125381,,Dolichovespula arctica,,eatenBy
+125381,,Labidomera clivicollis,,eatenBy
+125381,,Satyrium acadica,,eatenBy
+125381,48738,Sphex pensylvanicus,Great Black Digger Wasp,eatenBy
+125381,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+125381,,Lasioglossum pectorale,,eatenBy
+125381,,Augochloropsis sumptuosa,,eatenBy
+125381,,Hylaeus modestus,,eatenBy
+125381,58519,Pompeius verna,Little Glassywing,eatenBy
+125381,,Calycopis cecrops,,eatenBy
+125381,,Acanalonia conica,,eatenBy
+125381,,Hemaris thysbe,,eatenBy
+125381,,Papilio cresphontes,,eatenBy
+125381,,Papilio troilus,,eatenBy
+125381,,Megachile sculpturalis,,eatenBy
+125381,131862,Typocerus velutinus,Banded Longhorn Beetle,eatenBy
+125381,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+125381,,Bombus fernaldae,,eatenBy
+125381,,Euphyes vestris,,eatenBy
+125381,61858,Lucilia,Greenbottle Flies,pollinatedBy
+125381,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+125381,120114,Anthrenus,Carpet Beetles,pollinatedBy
+125381,130131,Ectemnius,,pollinatedBy
+125381,53648,Nomada,Nomad Bees,pollinatedBy
+125381,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+125381,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+125381,47822,Diptera,Flies,pollinatedBy
+125381,47208,Coleoptera,Beetles,pollinatedBy
+125381,5562,Trochilidae,Hummingbirds,pollinatedBy
+125381,58531,Colias philodice,Clouded Sulphur,pollinatedBy
+125381,47225,Papilio,Common Swallowtails,pollinatedBy
+125381,120215,Bombus griseocollis,Brown-belted Bumble Bee,pollinatedBy
+125381,55626,Pieris rapae,Cabbage White,pollinatedBy
+125381,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+125381,48662,Danaus plexippus,Monarch,pollinatedBy
+125381,85362,Sphex ichneumoneus,Great Golden Digger Wasp,pollinatedBy
+125381,58586,Limenitis archippus,Viceroy,pollinatedBy
+125381,,Lispa consanguinea,,pollinatedBy
+125381,,Triepeolus cressonii,,pollinatedBy
+125381,,Anoplius illinoensis,,pollinatedBy
+125381,,Carmenta pyralidiformis,,pollinatedBy
+125381,,Frontina,,pollinatedBy
+125381,,Cheilosia capillata,,pollinatedBy
+125381,,Tetralonia,,pollinatedBy
+125381,,Anosia plexippus,,pollinatedBy
+125381,,Heringia salax,,pollinatedBy
+125381,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+125381,,Eugnamptus angustatus,,pollinatedBy
+125381,572115,Pseudopanurgus labrosus,,pollinatedBy
+125381,,Haltichella,,pollinatedBy
+125381,,Onthophagus pennsylvanicus,,pollinatedBy
+125381,265669,Ageniella accepta,,pollinatedBy
+125381,,Epistrophe emarginata,,pollinatedBy
+125381,,Teleas,,pollinatedBy
+125381,,Anoplius virginiensis,,pollinatedBy
+125381,,Cryptocheilus,,pollinatedBy
+125381,,Stictiella,,pollinatedBy
+125381,,Trichiotinus affinis,,pollinatedBy
+125381,,Anthemurgus passiflorae,,pollinatedBy
+125381,,Leionotus scrophulariae,,pollinatedBy
+125381,,Spallanzania hesperidarum,,pollinatedBy
+125381,,Epalpus,,pollinatedBy
+125381,,Hammomyia,,pollinatedBy
+125381,,Cylindromyia rufipes,,pollinatedBy
+125381,,N/A N/A,,pollinatedBy
+125381,,Bombus nevadensis,,pollinatedBy
+125381,,Megachile latimanus,,pollinatedBy
+125381,,Sphex pennsylvanicus,,pollinatedBy

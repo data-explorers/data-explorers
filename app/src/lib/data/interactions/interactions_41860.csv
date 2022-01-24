@@ -1,0 +1,97 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41860,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+41860,47178,Actinopterygii,Ray-finned Fishes,eats
+41860,47186,Decapoda,Decapods,eats
+41860,47115,Mollusca,Molluscs,eats
+41860,47549,Echinodermata,Echinoderms,eats
+41860,47120,Arthropoda,Arthropods,eats
+41860,85493,Crustacea,Crustaceans,eats
+41860,62807,Mytilus,Black Mussels,eats
+41860,49053,Cryptochiton stelleri,Gumboot Chiton,eats
+41860,6922,Anas,"Mallards, Pintails, and Allies",eats
+41860,54525,Pectinidae,Scallops,eats
+41860,120959,Modiolus,,eats
+41860,4620,Gavia,Loons,eats
+41860,47827,Cancer,,eats
+41860,81636,Mya,,eats
+41860,117700,Cucumaria,,eats
+41860,47582,Ostreidae,True Oysters,eats
+41860,48174,Paguridae,Pagurid Hermit Crabs,eats
+41860,53830,Trochidae,Top Snails,eats
+41860,69926,Clinocardium,,eats
+41860,49725,Pugettia,,eats
+41860,1,Animalia,Animals,eats
+41860,47459,Cephalopoda,Cephalopods,eats
+41860,121639,Brachyura,True Crabs,eats
+41860,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+41860,117646,Nassarius fossatus,Channeled Basket Snail,eats
+41860,47584,Bivalvia,Bivalves,eats
+41860,117618,Panopea generosa,Pacific Geoduck,eats
+41860,49723,Pugettia producta,Northern Kelp Crab,eats
+41860,69925,Clinocardium nuttallii,Nuttall's Cockle,eats
+41860,48830,Patiria miniata,Bat Star,eats
+41860,469740,Cycloxanthops novemdentatus,Nine-tooth Pebble Crab,eats
+41860,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eats
+41860,51790,Polinices,,eats
+41860,206911,Tivela stultorum,Pismo Clam,eats
+41860,,marine invertebrates,,eats
+41860,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eats
+41860,47632,Katharina tunicata,Black Leather Chiton,eats
+41860,171805,Tellina,,eats
+41860,7036,Melanitta perspicillata,Surf Scoter,eats
+41860,83329,Buccinidae,True Whelks,eats
+41860,71252,Macoma,,eats
+41860,,Protothaca staminea,,eats
+41860,459589,Hyas,,eats
+41860,246556,Tectonatica,,eats
+41860,85983,Pharidae,,eats
+41860,47290,Crangonidae,,eats
+41860,47673,Pycnopodia helianthoides,Sunflower Sea Star,eats
+41860,68653,Pododesmus,False jingles,eats
+41860,,Evasterias troscheli,,eats
+41860,,Echiura,,eats
+41860,48863,Enteroctopus dofleini,Giant Pacific Octopus,eats
+41860,123805,Paralithodes,,eats
+41860,361770,Chionoecetes opilio,Snow Crab,eats
+41860,69872,Phascolosoma,,eats
+41860,483143,Saxicavella,,eats
+41860,117613,Saxidomus,,eats
+41860,,Strongylocentrotus franciscanus,,eats
+41860,68594,Hexagrammos lagocephalus,Rock greenling,eats
+41860,51280,Nemertea,Ribbon Worms,eats
+41860,359388,Chionoecetes bairdi,Tanner crab,eats
+41860,,Entodesma saxicola,,eats
+41860,117624,Tresus,Gaper Clams,eats
+41860,192690,Echinarachnius parma,Common Sand Dollar,eats
+41860,171917,Musculus,,eats
+41860,,Aspidochirotacea,,eats
+41860,52539,Ophiodon elongatus,Lingcod,eats
+41860,340493,Octocorallia,Octocorals,eats
+41860,428796,Mactromeris,,eats
+41860,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+41860,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+41860,117641,Nucella lamellosa,Wrinkled Purple,eats
+41860,180391,Telmessus cheiragonus,Helmet Crab,eats
+41860,,Gnathostomata,,eats
+41860,,Unidentified sea urchin,,eats
+41860,,Pisces,,eats
+41860,43584,Homo sapiens,Human,eatenBy
+41860,41740,Zalophus californianus,California Sea Lion,eatenBy
+41860,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+41860,42054,Vulpes,Typical Foxes,eatenBy
+41860,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+41860,50873,Carcharodon carcharias,Great White Shark,eatenBy
+41860,41521,Orcinus orca,Orca,eatenBy
+41860,,Pseudoterranova,,eatenBy
+41860,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+41860,117646,Nassarius fossatus,Channeled Basket Snail,preysOn
+41860,47584,Bivalvia,Bivalves,preysOn
+41860,47828,Cancridae,Rock Crabs,preysOn
+41860,121639,Brachyura,True Crabs,preysOn
+41860,475988,Euechinoidea,sea urchins,preysOn
+41860,48863,Enteroctopus dofleini,Giant Pacific Octopus,preysOn
+41860,,Tresus nuttallii,,preysOn
+41860,333608,Leukoma staminea,Pacific Littleneck Clam,preysOn
+41860,206911,Tivela stultorum,Pismo Clam,preysOn
+41860,117613,Saxidomus,,preysOn
+41860,50873,Carcharodon carcharias,Great White Shark,preyedUponBy

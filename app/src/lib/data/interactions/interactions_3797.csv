@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3797,1,Animalia,Animals,eats
+3797,51911,Engraulidae,Anchovies,eats
+3797,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+3797,85777,Exocoetidae,Flyingfishes,eats
+3797,2,Chordata,Chordates,eats
+3797,51912,Engraulis,,eats
+3797,47459,Cephalopoda,Cephalopods,eats
+3797,83316,Ommastrephidae,Flying Squids,eats
+3797,47232,Carangidae,Jacks,eats
+3797,56943,Katsuwonus pelamis,Skipjack Tuna,eats
+3797,114122,Thunnus alalunga,Albacore,eats
+3797,194905,Nomeus gronovii,Bluebottle-fish,eats
+3797,109633,Platybelone argalus,Keeltail Needlefish,eats
+3797,85928,Nomeidae,Driftfishes,eats
+3797,246395,Ommastrephes,,eats
+3797,118710,Naucrates ductor,Pilotfish,eats
+3797,57298,Hemiramphidae,Halfbeaks,eats
+3797,48842,Echeneidae,Remoras,eats
+3797,48147,Isopoda,Isopods,eats
+3797,51552,Seriola,Amberjacks,eats
+3797,49390,Blenniidae,Combtooth Blennies,eats
+3797,47257,Acanthocybium solandri,Wahoo,eats
+3797,52461,Belonidae,Needlefishes,eats
+3797,47178,Actinopterygii,Ray-finned Fishes,eats
+3797,92583,Trachurus,Jack Mackerels,eats
+3797,49689,Kyphosus,Chubs,eats
+3797,63770,Engraulis mordax,Northern Anchovy,eats
+3797,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+3797,47229,Selar crumenophthalmus,Bigeye Scad,eats
+3797,120672,Scomberesox saurus,Atlantic Saury,eats
+3797,179500,Oxyporhamphus micropterus,Beaked Flyingfish,eats
+3797,450428,Centrolophus niger,Rudderfish,eats
+3797,87865,Decapterus,,eats
+3797,,Benthodesmus simonyi,,eats
+3797,120657,Exocoetus volitans,Cosmopolitan Flyingfish,eats
+3797,49626,Holocentrus adscensionis,Squirrelfish,eats
+3797,63412,Ophioblennius atlanticus,East Atlantic Redlip Blenny,eats
+3797,49628,Holocentridae,Squirrelfishes and Soldierfishes,eats
+3797,47619,Acanthuridae,"Surgeonfishes, Tangs, and Unicornfishes",eats
+3797,118620,Mullidae,Goatfishes,eats
+3797,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eats
+3797,246396,Sthenoteuthis,,eats
+3797,59931,Acanthurus triostegus,Convict Surgeonfish,eats
+3797,122918,Coryphaena equiselis,Pompano Dolphinfish,eats
+3797,53567,Sargocentron diadema,Crown Squirrelfish,eats
+3797,489353,Hyporhamphus acutus,Acute Halfbeak,eats
+3797,63416,Priacanthidae,Bigeyes,eats
+3797,63691,Cololabis saira,Pacific Saury,eats
+3797,47231,Caranx,Kingfishes,eats
+3797,102883,Hirundichthys rondeletii,Blackwing Flyingfish,eats
+3797,87813,Cypselurus,,eats
+3797,,Parexocoetus brachypterus,,eats
+3797,194881,Decapterus macrosoma,Slender Scad,eats
+3797,194835,Euleptorhamphus viridis,Longfin Garfish,eats
+3797,194883,Gempylus serpens,Snake Mackerel,eats
+3797,121225,Decapterus macarellus,Mackerel Scad,eats
+3797,88349,Exocoetus,,eats
+3797,63417,Priacanthus,,eats
+3797,111585,Remora brachyptera,Spearfish Remora,eats
+3797,98531,Coryphaena hippurus,Common Dolphinfish,eats
+3797,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+3797,120658,Hirundichthys speculiger,Mirrorwing Flyingfish,eats
+3797,121572,Sphyraena helleri,Heller's Barracuda,eats
+3797,87641,Coryphaena,Dolphinfishes,eats
+3797,194831,Cheilopogon spilonotopterus,Stained Flyingfish,eats
+3797,389233,Eucleoteuthis luminosa,luminous flying squid,eats
+3797,88463,Gempylus,,eats
+3797,135196,Ablennes hians,Flat Needlefish,eats
+3797,98856,Cymolutes lecluse,Hawaiian Knifefish,eats
+3797,194903,Psenes cyanophrys,Freckled Driftfish,eats
+3797,93854,Ammodytoides gilli,,eats
+3797,194833,Cheilopogon atrisignis,Glider Flyingfish,eats
+3797,123660,Decapterus tabl,Rough-ear Scad,eats
+3797,132397,Kyphosus bigibbus,Grey Drummer,eats
+3797,198228,Atherinomorus insularum,Hawaiian Islands silverside,eats
+3797,146888,Illex,Shortfin Squids,eats
+3797,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+3797,49285,Halichoeres,,eats
+3797,447397,Engraulis anchoita,Argentine Anchoita,eats
+3797,63413,Ophioblennius,,eats
+3797,97095,Cetengraulis mysticetus,Pacific Anchoveta,eats
+3797,,Kondakovia longimana,,eats
+3797,,Teuthida,,eats
+3797,328042,Engraulis japonicus,Japanese Anchovy,eats
+3797,47234,Selar,,eats
+3797,55398,Solea,,eats
+3797,529803,Spratelloides delicatulus,Blueback Sprat,eats
+3797,91949,Scomberoides,Queenfishes,eats
+3797,119422,Mulloidichthys,,eats
+3797,118678,Scomber scombrus,Atlantic Mackerel,eats
+3797,51910,Engraulis encrasicolus,European Anchovy,eats
+3797,254742,Astyris lunata,Lunate Dove Shell,eats
+3797,55208,Lethrinus,,eats
+3797,49619,Scomberomorus,,eats
+3797,502271,Engraulis australis,Australian Anchovy,eats
+3797,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+3797,,Others,,eats
+3797,529790,Amblygaster sirm,Spotted Sardinella,eats
+3797,,,,eats
+3797,82337,Loligo,,eats
+3797,49587,Micropterus salmoides,Largemouth Bass,preysOn
+3797,52461,Belonidae,Needlefishes,preysOn
+3797,47178,Actinopterygii,Ray-finned Fishes,preysOn
+3797,85777,Exocoetidae,Flyingfishes,preysOn
+3797,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+3797,515419,Lampropeltis triangulum,Eastern Milksnake,preyedUponBy

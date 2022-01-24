@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67740,12942,Sialia sialis,Eastern Bluebird,eatenBy
+67740,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+67740,,Aphloia theiformis,,eatenBy
+67740,,Tambourissa,,eatenBy
+67740,,Gaertnera,,eatenBy
+67740,64343,Coffea,Coffees,eatenBy
+67740,6667,Cypseloides niger,Black Swift,eatenBy
+67740,52935,Eupatorium,bonesets,pollinates
+67740,53270,Sonchus,sow thistles,pollinates
+67740,64343,Coffea,Coffees,pollinates
+67740,,Gaertnera,,pollinates
+67740,,Aphloia theiformis,,pollinates
+67740,,Hydrocharis,,pollinates
+67740,556361,Phragmites australis australis,European reed,pollinates
+67740,,Argyranthemum tenerifae,,pollinates
+67740,,Lindera,,pollinates
+67740,,Fallopia japonica,,pollinates
+67740,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

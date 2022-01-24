@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+263950,47157,Lepidoptera,Butterflies and Moths,preysOn
+263950,47990,Tephritidae,Fruit Flies,preysOn
+263950,,Allocosa,,preysOn

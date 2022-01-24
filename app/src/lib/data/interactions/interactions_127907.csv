@@ -1,0 +1,66 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127907,127907,Chamaecrista fasciculata,partridge pea,eats
+127907,48550,Phoebis sennae,Cloudless Sulphur,eatenBy
+127907,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+127907,127907,Chamaecrista fasciculata,partridge pea,eatenBy
+127907,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+127907,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,eatenBy
+127907,47219,Apis mellifera,Western Honey Bee,eatenBy
+127907,216649,Chauliognathus pensylvanicus,Goldenrod Soldier Beetle,eatenBy
+127907,69940,Hemiargus ceraunus,Ceraunus Blue,eatenBy
+127907,,Agapostemon splendens,,eatenBy
+127907,120010,Polistes metricus,Metric Paper Wasp,eatenBy
+127907,,Gorytes smithii,,eatenBy
+127907,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+127907,,Isodontia auripes,,eatenBy
+127907,,Polyhymno luteostrigella,,eatenBy
+127907,143105,Pleuroprucha insulsaria,Common Tan Wave,eatenBy
+127907,,Abaeis nicippe,,eatenBy
+127907,,Caristanius decoloralis,,eatenBy
+127907,,Adelphia petrella,,eatenBy
+127907,82279,Automeris io,Io Moth,eatenBy
+127907,,Fundella pellucens,,eatenBy
+127907,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+127907,48739,Sphex,,pollinatedBy
+127907,127741,Colletes,Cellophane Bees,pollinatedBy
+127907,57677,Halictus,Furrow Bees,pollinatedBy
+127907,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+127907,55488,Diabrotica,,pollinatedBy
+127907,48060,Prosopis,mesquites,pollinatedBy
+127907,52965,Sphaerophoria,Globetails,pollinatedBy
+127907,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+127907,,Sepsis violacea,,pollinatedBy
+127907,250754,Liris,,pollinatedBy
+127907,,Typocerus,,pollinatedBy
+127907,,Apallates coxendix,,pollinatedBy
+127907,,Cylindromyia interrupta,,pollinatedBy
+127907,,Carmenta pyralidiformis,,pollinatedBy
+127907,219712,Euderces picipes,,pollinatedBy
+127907,,Rhamphomyia mutabilis,,pollinatedBy
+127907,,Calythea nigricans,,pollinatedBy
+127907,,Didea fasciata ,,pollinatedBy
+127907,,Phasia robertsonii,,pollinatedBy
+127907,,Vipio,,pollinatedBy
+127907,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+127907,643325,Pompiloides,,pollinatedBy
+127907,,Eumyotheria illinoensis,,pollinatedBy
+127907,,Scolia nobilitata,,pollinatedBy
+127907,,Hyalurgus,,pollinatedBy
+127907,177484,Leptura,,pollinatedBy
+127907,52488,Syrphus ribesii,Common Flower Fly,pollinatedBy
+127907,,http://treatment.plazi.org/id/C72A42F42D1D9E7809CB45EE0F3C055E,,pollinatedBy
+127907,,Poecilopompilus,,pollinatedBy
+127907,,Calocoris rapidus,,pollinatedBy
+127907,,Limnophora narona,,pollinatedBy
+127907,,Bracon,,pollinatedBy
+127907,,Sphecodium,,pollinatedBy
+127907,,Megachile campanulae,,pollinatedBy
+127907,,Formica rufibarbis,,pollinatedBy
+127907,322713,Sapromyza,,pollinatedBy
+127907,,Tiphia,,pollinatedBy
+127907,,Carceris robertsonii,,pollinatedBy
+127907,,Drepanium,,pollinatedBy
+127907,,Cylindromyia rufipes,,pollinatedBy
+127907,320563,Anthocomus,,pollinatedBy
+127907,,Epistrophe emarginata,,pollinatedBy
+127907,,Corizus,,pollinatedBy

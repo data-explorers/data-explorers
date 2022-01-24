@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+25473,65979,Lithobates catesbeianus,American Bullfrog,eatenBy
+25473,19893,Strix varia,Barred Owl,eatenBy
+25473,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+25473,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+25473,4733,Ciconia ciconia,White Stork,eatenBy
+25473,,Trimeresurus stejnegeri,,eatenBy
+25473,966787,Natrix natrix,grass snake,eatenBy
+25473,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+25473,5017,Bubulcus ibis,Cattle Egret,eatenBy
+25473,4937,Egretta caerulea,Little Blue Heron,eatenBy
+25473,2548,Megaceryle alcyon,Belted Kingfisher,preyedUponBy
+25473,7109,Lophodytes cucullatus,Hooded Merganser,preyedUponBy
+25473,4733,Ciconia ciconia,White Stork,preyedUponBy
+25473,,Acrocephalus arundinaceus,,preyedUponBy
+25473,28994,Psammophis leopardinus,Leopard Grass Snake,preyedUponBy
+25473,,Xenochrophis piscator,,preyedUponBy
+25473,30476,Naja nigricollis,Black-necked Spitting Cobra,preyedUponBy
+25473,,Hebius octolineatum,,preyedUponBy
+25473,,Philothamnus angolensis,,preyedUponBy
+25473,82808,Crotaphopeltis hotamboeia,Red-lipped Snake,preyedUponBy
+25473,,Rhabdophis subminiatus helleri,,preyedUponBy
+25473,28829,Rhabdophis tigrinus,Tiger Keelback,preyedUponBy
+25473,,Dinodon rufozonatum,,preyedUponBy
+25473,29359,Natriciteres olivacea,Olive Marsh Snake,preyedUponBy
+25473,,Psammodynastes pulverulentus,,preyedUponBy
+25473,,Philothamnus ornatus,,preyedUponBy
+25473,,Trimeresurus stejnegeri stejnegeri,,preyedUponBy
+25473,,Psammophylax variabilis,,preyedUponBy
+25473,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+25473,30481,Naja anchietae,Anchieta's Cobra,preyedUponBy
+25473,29832,Amphiesma stolatum,Buff Striped Keelback,preyedUponBy
+25473,,Lycodonomorphus rufulus mlanjensis,,preyedUponBy
+25473,26835,Drymobius margaritiferus,Speckled Racer,preyedUponBy
+25473,,Troglodytes troglodytes,,preyedUponBy

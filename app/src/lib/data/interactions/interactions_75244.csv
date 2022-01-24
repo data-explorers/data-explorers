@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+75244,,Lithariapteryx abroniaeella,,eatenBy
+75244,75244,Abronia maritima,red sand-verbena,preysOn
+75244,180007,Otospermophilus beecheyi,California Ground Squirrel,preyedUponBy
+75244,75244,Abronia maritima,red sand-verbena,preyedUponBy

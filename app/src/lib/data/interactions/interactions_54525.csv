@@ -1,0 +1,63 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54525,152275,Thalassiosirales,,eats
+54525,123862,Chaetoceros,,eats
+54525,203808,Navicula,,eats
+54525,,Prymnesiophyceae,,eats
+54525,339072,Prorocentrum,,eats
+54525,,Detritus complex,,eats
+54525,,Chrysophyta,,eats
+54525,774725,Pyramimonadophyceae,,eats
+54525,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+54525,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+54525,43584,Homo sapiens,Human,eatenBy
+54525,47827,Cancer,,eatenBy
+54525,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+54525,41860,Enhydra lutris,Sea Otter,eatenBy
+54525,609262,Sanopus barbatus,Bearded Toadfish,eatenBy
+54525,93903,Amphichthys cryptocentrus,Bocon Toadfish,eatenBy
+54525,118601,Trisopterus luscus,Pouting,eatenBy
+54525,430553,Merlangius merlangus,Whiting,eatenBy
+54525,48397,Raja clavata,Thornback Skate,eatenBy
+54525,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+54525,,Trisopterus minutus,,eatenBy
+54525,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+54525,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+54525,47523,Pleuronectes platessa,European Plaice,eatenBy
+54525,61387,Limanda limanda,Sand Dab,eatenBy
+54525,99394,Dipturus batis,Common Skate,eatenBy
+54525,63740,Gadus morhua,Atlantic Cod,eatenBy
+54525,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+54525,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+54525,118671,Sparus aurata,Gilthead Seabream,eatenBy
+54525,224123,Lopholatilus chamaeleonticeps,Tilefish,eatenBy
+54525,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+54525,233996,Zoarces americanus,Ocean Pout,eatenBy
+54525,51372,Opsanus tau,Oyster Toadfish,eatenBy
+54525,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+54525,131388,Haemulon melanurum,Cottonwick,eatenBy
+54525,49432,Lachnolaimus maximus,Hogfish,eatenBy
+54525,108196,Pagrus pagrus,Red Porgy,eatenBy
+54525,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+54525,,Pteraster tesselatus,,eatenBy
+54525,84182,Hydrolagus colliei,Spotted Ratfish,eatenBy
+54525,376425,Fusitriton,,eatenBy
+54525,89655,Lycodes,,eatenBy
+54525,48903,Asterias,,eatenBy
+54525,,Leptasterias,,eatenBy
+54525,183018,Lepidopsetta bilineata,Rock sole,eatenBy
+54525,,Melanitta fusca,,eatenBy
+54525,180032,Hippoglossoides elassodon,Flathead Sole,eatenBy
+54525,,Crossaster papposus,,eatenBy
+54525,,Evasterias troscheli,,eatenBy
+54525,47710,Pandalidae,,eatenBy
+54525,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+54525,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+54525,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+54525,83329,Buccinidae,True Whelks,eatenBy
+54525,,Theragra chalcogramma,,eatenBy
+54525,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+54525,204533,Larus argentatus,Herring Gull,eatenBy
+54525,123805,Paralithodes,,eatenBy
+54525,47524,Pleuronectes,,eatenBy
+54525,86443,Anarhichas,,eatenBy
+54525,180029,Gadus macrocephalus,Pacific Cod,eatenBy

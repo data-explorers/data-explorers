@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+777371,777371,Diplacus aurantiacus,orange bush monkeyflower,eats
+777371,6317,Calypte anna,Anna's Hummingbird,eatenBy
+777371,47219,Apis mellifera,Western Honey Bee,eatenBy
+777371,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+777371,82525,Augochlorella pomoniella,Peridot Sweat Bee,eatenBy
+777371,346970,Callophrys dumetorum,Lotus Hairstreak,eatenBy
+777371,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+777371,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+777371,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+777371,6359,Selasphorus sasin,Allen's Hummingbird,eatenBy
+777371,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+777371,124420,Bombus californicus,California Bumble Bee,eatenBy
+777371,777371,Diplacus aurantiacus,orange bush monkeyflower,eatenBy
+777371,6358,Selasphorus,"Rufous, Allen's, and Allied Hummingbirds",eatenBy
+777371,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+777371,,Tetralimonius ornatulus,,eatenBy
+777371,334616,Battus philenor hirsuta,California Pipevine Swallowtail,eatenBy
+777371,,Eulonchus marginatus,,eatenBy
+777371,52488,Syrphus ribesii,Common Flower Fly,eatenBy
+777371,259699,Eulonchus smaragdinus,,eatenBy
+777371,,Melanostoma mellinum,,eatenBy
+777371,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+777371,5562,Trochilidae,Hummingbirds,pollinatedBy
+777371,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

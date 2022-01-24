@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49053,117814,Odonthalia washingtoniensis,flat sea brush,eats
+49053,125877,Costaria costata,seersucker kelp,eats
+49053,621184,Ulvaria,,eats
+49053,339056,Urospora,,eats
+49053,117821,Mastocarpus,encrusting red algae,eats
+49053,376425,Fusitriton,,eats
+49053,124813,Alaria,,eats
+49053,244533,Hedophyllum sessile,sea cabbage kelp,eats
+49053,,Biofilm Complex,,eats
+49053,8010,Corvus corax,Common Raven,eatenBy
+49053,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49053,43584,Homo sapiens,Human,eatenBy
+49053,41860,Enhydra lutris,Sea Otter,eatenBy
+49053,49095,Pagurus samuelis,Blueband Hermit Crab,eatenBy
+49053,376425,Fusitriton,,eatenBy
+49053,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+49053,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+49053,67629,Oligocottus maculosus,Tidepool Sculpin,eatenBy
+49053,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+49053,621184,Ulvaria,,preysOn
+49053,117807,Mastocarpus papillatus,Turkish washcloth,preysOn
+49053,125877,Costaria costata,seersucker kelp,preysOn
+49053,339056,Urospora,,preysOn
+49053,124813,Alaria,,preysOn
+49053,244533,Hedophyllum sessile,sea cabbage kelp,preysOn
+49053,117814,Odonthalia washingtoniensis,flat sea brush,preysOn
+49053,,Biofilm complex,,preysOn
+49053,376425,Fusitriton,,preysOn
+49053,47645,Cottidae,Typical Sculpins,preyedUponBy
+49053,376425,Fusitriton,,preyedUponBy
+49053,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy

@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+231080,51876,Trifolium,clovers,eats
+231080,12727,Turdus migratorius,American Robin,eatenBy
+231080,12942,Sialia sialis,Eastern Bluebird,eatenBy
+231080,12937,Sialia mexicana,Western Bluebird,eatenBy
+231080,11867,Progne subis,Purple Martin,eatenBy
+231080,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+231080,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+231080,12890,Catharus guttatus,Hermit Thrush,eatenBy
+231080,,Mycetoporus nigricollis,,eatenBy
+231080,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+231080,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+231080,13732,Anthus rubescens,American Pipit,eatenBy
+231080,11941,Riparia riparia,Bank Swallow,eatenBy
+231080,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+231080,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+231080,17394,Vireo gilvus,Warbling Vireo,eatenBy
+231080,,Vireo flavifrons,,eatenBy
+231080,17408,Vireo griseus,White-eyed Vireo,eatenBy
+231080,61524,Forficula auricularia,European Earwig,preyedUponBy
+231080,84644,Phalangium opilio,European Harvestman,preyedUponBy
+231080,,Philonthus rotundicollis,,preyedUponBy
+231080,,Xantholinus dvoraki,,preyedUponBy
+231080,212779,Agonum muelleri,,preyedUponBy
+231080,213121,Amara bifrons,,preyedUponBy
+231080,,Cantharis fusca,,preyedUponBy
+231080,135289,Myrmarachne formicaria,,preyedUponBy
+231080,268273,Brachinus explodens,,preyedUponBy
+231080,,Leistus ferrugineus,,preyedUponBy
+231080,,Mangora acalypha,,preyedUponBy
+231080,,Amara consularis,,preyedUponBy
+231080,547856,Synuchus vivalis,,preyedUponBy
+231080,,Poecilus versicolor,,preyedUponBy
+231080,,Amara ovata,,preyedUponBy
+231080,,Gyrohypnus angustatus,,preyedUponBy
+231080,,Pardosa saltans,,preyedUponBy
+231080,605685,Coelotes terrestris,,preyedUponBy
+231080,,Platynus assimilis,,preyedUponBy
+231080,,Clubiona brevipes,,preyedUponBy
+231080,,Philonthus tenuicornis,,preyedUponBy
+231080,,Alopecosa pulverulenta,,preyedUponBy
+231080,,Lathrobium pallidum,,preyedUponBy
+231080,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+231080,,Philonthus laminatus,,preyedUponBy
+231080,,Amara quenseli,,preyedUponBy
+231080,153536,Phlegra fasciata,,preyedUponBy
+231080,,Xysticus acerbus,,preyedUponBy
+231080,,Tasgius pedator,,preyedUponBy
+231080,,Lathrobium fulvipenne,,preyedUponBy
+231080,,Alopecosa cuneata,,preyedUponBy
+231080,,Trogulus closanicus,,preyedUponBy
+231080,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+231080,,Anisodactylus binotatus,,preyedUponBy
+231080,,Platydracus stercorarius,,preyedUponBy
+231080,,Calathus erratus,,preyedUponBy
+231080,,Stomis pumicatus,,preyedUponBy
+231080,,Amara similata,,preyedUponBy
+231080,,Agrypnus murinus,,preyedUponBy
+231080,,Harpalus affinis,,preyedUponBy
+231080,,Tasgius melanarius,,preyedUponBy
+231080,,Harpalus distinguendus,,preyedUponBy
+231080,,Paederus littoralis,,preyedUponBy
+231080,,Pseudophonus rufipes,,preyedUponBy
+231080,,Anchomenus dorsalis,,preyedUponBy
+231080,130452,Amara plebeja,,preyedUponBy
+231080,,Amara aulica,,preyedUponBy
+231080,,Trochosa terricola,,preyedUponBy
+231080,245656,Synema globosum,Napoleon Spider,preyedUponBy
+231080,130433,Amara aenea,Common Sun Beetle,preyedUponBy
+231080,216011,Cantharis rufa,,preyedUponBy
+231080,,Tetragnatha pinicola,,preyedUponBy
+231080,121779,Agalenatea redii,Gorse Orbweaver,preyedUponBy
+231080,,Xantholinus linearis,,preyedUponBy
+231080,,Carpelimus punctatellus,,preyedUponBy
+231080,,Calathus fuscipes,,preyedUponBy
+231080,129017,Araniella cucurbitina,Cucumber Green Spider,preyedUponBy
+231080,,Haplodrassus signifer,,preyedUponBy
+231080,,Quedius invreae,,preyedUponBy
+231080,,Bolitobius castaneus,,preyedUponBy
+231080,,Poecilus cupreus,,preyedUponBy
+231080,,Tetragnatha extensa,,preyedUponBy
+231080,1007092,Quedius persimilis,,preyedUponBy
+231080,,Harpalus rufipes,,preyedUponBy
+231080,,Philonthus concinnus,,preyedUponBy
+231080,,Xantholinus longiventris,,preyedUponBy
+231080,131819,Loricera pilicornis,,preyedUponBy
+231080,,Arctosa lutetiana,,preyedUponBy
+231080,,Pterostichus vernalis,,preyedUponBy
+231080,,Amara convexior,,preyedUponBy
+231080,,Amara equestris,,preyedUponBy
+231080,,Amara familiaris,,preyedUponBy
+231080,,Philonthus succicola,,preyedUponBy
+231080,,Rgonycha fulva,,preyedUponBy
+231080,71061,Xysticus cristatus,,preyedUponBy
+231080,,Tachinus rufipes,,preyedUponBy
+231080,131009,Calathus melanocephalus,,preyedUponBy
+231080,,Amara sinuosa,,preyedUponBy
+231080,,Pterostichus minor,,preyedUponBy
+231080,360548,Zora spinimana,,preyedUponBy
+231080,,Aculepeira ceropegia,,preyedUponBy
+231080,153855,Tibellus oblongus,Oblong Running Spider,preyedUponBy
+231080,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+231080,,Gabrius osseticus,,preyedUponBy

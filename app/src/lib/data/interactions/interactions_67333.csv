@@ -1,0 +1,354 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67333,67333,Bacteria,bacteria,eats
+67333,47126,Plantae,plants,eats
+67333,47158,Insecta,Insects,eats
+67333,123880,Bacillariophyceae,Diatoms,eats
+67333,126917,Rotifera,Rotifers,eats
+67333,118996,Ciliophora,Ciliates,eats
+67333,47628,Amphipoda,Amphipods,eats
+67333,47584,Bivalvia,Bivalves,eats
+67333,49052,Anthopleura,,eats
+67333,353999,Cominella,,eats
+67333,6930,Anas platyrhynchos,Mallard,eats
+67333,,Detritus,,eats
+67333,,Phytoplankton,,eats
+67333,,no name,,eats
+67333,,particulate organic matter,,eats
+67333,,sediment,,eats
+67333,,carrion,,eats
+67333,,Organic macrodebris,,eats
+67333,,Macroalgae,,eats
+67333,,recently drowned insects,,eats
+67333,,older organic debris,,eats
+67333,,organic macrodebris,,eats
+67333,,litter - detritus - humus,,eats
+67333,,DOM,,eats
+67333,,pore-water dissolved organic carbon,,eats
+67333,,HNF,,eats
+67333,,Herbivorous Crustaceans,,eats
+67333,379627,Macrophthalmus,,eats
+67333,645969,Sphaerodorum,,eats
+67333,,hemigrapsus edw,,eats
+67333,338434,Heteromastus,,eats
+67333,114354,Triakis megalopterus,Spotted Gully Shark,eats
+67333,,profilicollis novae,,eats
+67333,376943,Macroclymenella,,eats
+67333,964469,Acuariidae,,eats
+67333,,phoxocephalus-reg,,eats
+67333,203767,Spio,,eats
+67333,,profilicollis anta,,eats
+67333,,colurostylis-lemu,,eats
+67333,48051,Phoronida,Horseshoe Worms,eats
+67333,,barracuta,,eats
+67333,,helmsi,,eats
+67333,379514,Austrovenus,,eats
+67333,,Cymodopsis,,eats
+67333,92181,Sprattus,,eats
+67333,1256330,Levinseniella,,eats
+67333,,Enopla,,eats
+67333,,tanaidacid,,eats
+67333,4853,Vanellus,Lapwings,eats
+67333,378619,Zeacumantus,,eats
+67333,56661,Callianassa,Sand Prawns,eats
+67333,,paraonid,,eats
+67333,,exogone-hetero,,eats
+67333,370628,Macomona,,eats
+67333,,BBgull,,eats
+67333,417625,Ascarophis,,eats
+67333,470053,Heterosquilla,,eats
+67333,,hesionid 1,,eats
+67333,,Curtuteria,,eats
+67333,,meiofauna,,eats
+67333,195019,Exogone,,eats
+67333,,capitellid 2,,eats
+67333,407408,Boccardia acus,,eats
+67333,,Zooplankton,,eats
+67333,,pontharpinia-aust,,eats
+67333,4843,Haematopus ostralegus,Eurasian Oystercatcher,eats
+67333,,Pleuronectiformes,,eats
+67333,,RBgull,,eats
+67333,,pyramidellid,,eats
+67333,,heterophoxus-steph,,eats
+67333,,diastylopsis-thil,,eats
+67333,,maritrema novae,,eats
+67333,380023,Boccardia syrtis,,eats
+67333,949282,Decamastus,,eats
+67333,376196,Diloma,,eats
+67333,193932,Nucula,,eats
+67333,377634,Perrierina,,eats
+67333,,capitellid 1,,eats
+67333,,Gymnophallus,,eats
+67333,,scoloplos-john,,eats
+67333,368098,Perinereis,,eats
+67333,,prinospio,,eats
+67333,376960,Malacoceros,,eats
+67333,,hemigrapsus cre,,eats
+67333,375495,Abarenicola,,eats
+67333,,WFtern,,eats
+67333,,WFheron,,eats
+67333,88101,Edwardsia,,eats
+67333,,root exudates,,eats
+67333,48836,Ophiuroidea,Brittle Stars,eatenBy
+67333,48173,Pagurus,,eatenBy
+67333,47114,Gastropoda,Gastropods,eatenBy
+67333,47490,Polychaeta,Polychaete Worms,eatenBy
+67333,126917,Rotifera,Rotifers,eatenBy
+67333,47158,Insecta,Insects,eatenBy
+67333,54960,Nematoda,Nematodes,eatenBy
+67333,67333,Bacteria,bacteria,eatenBy
+67333,47686,Protozoa,protozoans,eatenBy
+67333,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+67333,123880,Bacillariophyceae,Diatoms,eatenBy
+67333,1,Animalia,Animals,eatenBy
+67333,51508,Ctenophora,Comb Jellies,eatenBy
+67333,129725,Appendicularia,Pelagic Tunicates,eatenBy
+67333,118996,Ciliophora,Ciliates,eatenBy
+67333,121643,Copepoda,Copepods,eatenBy
+67333,85493,Crustacea,Crustaceans,eatenBy
+67333,333586,Oligochaeta,Earthworms and allies,eatenBy
+67333,85514,Cyclopoida,Cyclopoid Copepods,eatenBy
+67333,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+67333,47628,Amphipoda,Amphipods,eatenBy
+67333,132473,Lagodon rhomboides,Pinfish,eatenBy
+67333,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+67333,486999,Munida gregaria,Swarming Squat Lobster,eatenBy
+67333,122241,Donax variabilis,Coquina,eatenBy
+67333,62806,Mytilus californianus,California Mussel,eatenBy
+67333,48824,Porifera,Sponges,eatenBy
+67333,348288,Foraminifera,Foraminifers,eatenBy
+67333,69838,Cyanea capillata,Lion's Mane Jelly,eatenBy
+67333,47811,Ascidiacea,Sea Squirts,eatenBy
+67333,342912,Caridea,Caridean Shrimps,eatenBy
+67333,47584,Bivalvia,Bivalves,eatenBy
+67333,121639,Brachyura,True Crabs,eatenBy
+67333,339322,Paraonidae,,eatenBy
+67333,775805,Pteropoda,Sea Butterflies,eatenBy
+67333,84670,Ephydridae,Shore Flies,eatenBy
+67333,64970,Anaxyrus boreas,Western Toad,eatenBy
+67333,53275,Chironomidae,Non-biting Midges,eatenBy
+67333,133821,Physa,,eatenBy
+67333,129189,Hyalella,,eatenBy
+67333,153112,Euphausiacea,krill,eatenBy
+67333,122240,Porcellio,,eatenBy
+67333,48284,Oniscus asellus,Common Shiny Woodlouse,eatenBy
+67333,48292,Philoscia muscorum,Common Striped Woodlouse,eatenBy
+67333,48291,Oniscidae,Sow Bugs,eatenBy
+67333,48295,Armadillidium,Pillbugs,eatenBy
+67333,81547,Lumbricus,,eatenBy
+67333,63089,Clitellata,Clitellates,eatenBy
+67333,69758,Lumbricidae,Earthworms,eatenBy
+67333,49470,Collembola,Springtails,eatenBy
+67333,47119,Arachnida,Arachnids,eatenBy
+67333,324563,Pecten maximus,Great Scallop,eatenBy
+67333,62408,Botryllus schlosseri,Star Tunicate,eatenBy
+67333,359918,Melarhaphe neritoides,Small Periwinkle,eatenBy
+67333,129409,Chironomus,,eatenBy
+67333,48921,Hydrozoa,Hydrozoans,eatenBy
+67333,130225,Dinophyceae,,eatenBy
+67333,129864,Haliclona,,eatenBy
+67333,48394,Gymnolaemata,,eatenBy
+67333,68764,Ostracoda,Seed Shrimp,eatenBy
+67333,47582,Ostreidae,True Oysters,eatenBy
+67333,81644,Crepidula,Typical Slippersnails,eatenBy
+67333,49518,Serpulidae,Serpulid Tubeworms,eatenBy
+67333,51104,Thaliacea,Thaliaceans,eatenBy
+67333,,Deposit-feeding peracaridan crustaceans,,eatenBy
+67333,,Microfauna,,eatenBy
+67333,,Meiofauna,,eatenBy
+67333,244267,Cyclops,,eatenBy
+67333,209041,Moina,,eatenBy
+67333,,macrobenthos,,eatenBy
+67333,208372,Capitella,,eatenBy
+67333,171262,Bosmina,,eatenBy
+67333,87850,Daphnia,Water-fleas,eatenBy
+67333,,filter feeders,,eatenBy
+67333,,Zooplankton,,eatenBy
+67333,,deposit feeders,,eatenBy
+67333,,Tubificidae,,eatenBy
+67333,,Culex navalis,,eatenBy
+67333,,Culex curtipalpis,,eatenBy
+67333,,Dasyhelea nepenthicola,,eatenBy
+67333,,Uranotaenia moultoni,,eatenBy
+67333,,Histiostomatidae,,eatenBy
+67333,,Dasyhelea ampullariae,,eatenBy
+67333,,Culex lucaris,,eatenBy
+67333,,Culex acutipalus,,eatenBy
+67333,1102971,Tripteroides bambusa,Bamboo Mosquito,eatenBy
+67333,,Culex hewitti,,eatenBy
+67333,,Tripteroides nepenthis,,eatenBy
+67333,,Tripteroides tenax,,eatenBy
+67333,,Uranotaenia bosseri,,eatenBy
+67333,,Uranotaenia nepenthes,,eatenBy
+67333,,Uranotaenia brunhesi,,eatenBy
+67333,1154604,Creutzeria seychellensis,,eatenBy
+67333,1337935,Tripteroides dofleini,,eatenBy
+67333,,Uranotaenia damasei,,eatenBy
+67333,,Creutzeria,,eatenBy
+67333,155529,Uranotaenia nivipleura,,eatenBy
+67333,,Zwickia guentheri,,eatenBy
+67333,,Uranotaenia belkini,,eatenBy
+67333,51363,Brevoortia tyrannus,Atlantic Menhaden,eatenBy
+67333,118996,Ciliophora,Ciliates,preysOn
+67333,126917,Rotifera,Rotifers,preysOn
+67333,47628,Amphipoda,Amphipods,preysOn
+67333,353999,Cominella,,preysOn
+67333,6930,Anas platyrhynchos,Mallard,preysOn
+67333,47584,Bivalvia,Bivalves,preysOn
+67333,49052,Anthopleura,,preysOn
+67333,,Prymnesiophyceae,,preysOn
+67333,,Detritus,,preysOn
+67333,,Nauplii,,preysOn
+67333,,Pleuronectiformes,,preysOn
+67333,470053,Heterosquilla,,preysOn
+67333,,Zooplankton,,preysOn
+67333,203767,Spio,,preysOn
+67333,4843,Haematopus ostralegus,Eurasian Oystercatcher,preysOn
+67333,376196,Diloma,,preysOn
+67333,48051,Phoronida,Horseshoe Worms,preysOn
+67333,92181,Sprattus,,preysOn
+67333,,Cymodopsis,,preysOn
+67333,,meiofauna,,preysOn
+67333,380023,Boccardia syrtis,,preysOn
+67333,,hemigrapsus cre,,preysOn
+67333,379514,Austrovenus,,preysOn
+67333,4853,Vanellus,Lapwings,preysOn
+67333,,BBgull,,preysOn
+67333,114354,Triakis megalopterus,Spotted Gully Shark,preysOn
+67333,,scoloplos-john,,preysOn
+67333,407408,Boccardia acus,,preysOn
+67333,370628,Macomona,,preysOn
+67333,,capitellid 1,,preysOn
+67333,,exogone-hetero,,preysOn
+67333,,pontharpinia-aust,,preysOn
+67333,377634,Perrierina,,preysOn
+67333,,prinospio,,preysOn
+67333,378619,Zeacumantus,,preysOn
+67333,,Enopla,,preysOn
+67333,375495,Abarenicola,,preysOn
+67333,,diastylopsis-thil,,preysOn
+67333,376960,Malacoceros,,preysOn
+67333,,WFheron,,preysOn
+67333,379627,Macrophthalmus,,preysOn
+67333,,hemigrapsus edw,,preysOn
+67333,645969,Sphaerodorum,,preysOn
+67333,,phoxocephalus-reg,,preysOn
+67333,,barracuta,,preysOn
+67333,56661,Callianassa,Sand Prawns,preysOn
+67333,,hesionid 1,,preysOn
+67333,368098,Perinereis,,preysOn
+67333,,Gymnophallus,,preysOn
+67333,193932,Nucula,,preysOn
+67333,,colurostylis-lemu,,preysOn
+67333,,helmsi,,preysOn
+67333,376943,Macroclymenella,,preysOn
+67333,338434,Heteromastus,,preysOn
+67333,,RBgull,,preysOn
+67333,,pyramidellid,,preysOn
+67333,195019,Exogone,,preysOn
+67333,949282,Decamastus,,preysOn
+67333,,tanaidacid,,preysOn
+67333,,WFtern,,preysOn
+67333,,heterophoxus-steph,,preysOn
+67333,88101,Edwardsia,,preysOn
+67333,,capitellid 2,,preysOn
+67333,,paraonid,,preysOn
+67333,84670,Ephydridae,Shore Flies,preyedUponBy
+67333,53275,Chironomidae,Non-biting Midges,preyedUponBy
+67333,133821,Physa,,preyedUponBy
+67333,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+67333,129189,Hyalella,,preyedUponBy
+67333,47686,Protozoa,protozoans,preyedUponBy
+67333,126917,Rotifera,Rotifers,preyedUponBy
+67333,47158,Insecta,Insects,preyedUponBy
+67333,47628,Amphipoda,Amphipods,preyedUponBy
+67333,120959,Modiolus,,preyedUponBy
+67333,49265,Sphoeroides spengleri,Bandtail Puffer,preyedUponBy
+67333,775805,Pteropoda,Sea Butterflies,preyedUponBy
+67333,1,Animalia,Animals,preyedUponBy
+67333,47490,Polychaeta,Polychaete Worms,preyedUponBy
+67333,47114,Gastropoda,Gastropods,preyedUponBy
+67333,48173,Pagurus,,preyedUponBy
+67333,48836,Ophiuroidea,Brittle Stars,preyedUponBy
+67333,333586,Oligochaeta,Earthworms and allies,preyedUponBy
+67333,118996,Ciliophora,Ciliates,preyedUponBy
+67333,85514,Cyclopoida,Cyclopoid Copepods,preyedUponBy
+67333,153112,Euphausiacea,krill,preyedUponBy
+67333,68764,Ostracoda,Seed Shrimp,preyedUponBy
+67333,48394,Gymnolaemata,,preyedUponBy
+67333,48921,Hydrozoa,Hydrozoans,preyedUponBy
+67333,129864,Haliclona,,preyedUponBy
+67333,171609,Simocephalus,,preyedUponBy
+67333,,Zooplankton,,preyedUponBy
+67333,69803,Ceratopogonidae,Biting Midges,preyedUponBy
+67333,,Tubificidae,,preyedUponBy
+67333,,meiofauna,,preyedUponBy
+67333,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+67333,148201,Helisoma,,preyedUponBy
+67333,68304,Cyzicus californicus,California Clam Shrimp,preyedUponBy
+67333,,Dero,,preyedUponBy
+67333,,Pseudiacris regilla,,preyedUponBy
+67333,,Processa nouveli holthuisi,,preyedUponBy
+67333,,Processa modica modica,,preyedUponBy
+67333,244267,Cyclops,,preyedUponBy
+67333,209041,Moina,,preyedUponBy
+67333,87923,Diaptomus,,preyedUponBy
+67333,,other macrofauna,,preyedUponBy
+67333,,carnivore polychaetes,,preyedUponBy
+67333,176787,Nemoura,,preyedUponBy
+67333,347615,Eiseniella,,preyedUponBy
+67333,59807,Gammarus,,preyedUponBy
+67333,177502,Leptophlebia,,preyedUponBy
+67333,177448,Limnephilus,,preyedUponBy
+67333,483822,Holopedium,,preyedUponBy
+67333,60398,Lepidurus,,preyedUponBy
+67333,,Mystacides,,preyedUponBy
+67333,,Bosminia,,preyedUponBy
+67333,,pontharpinia-aust,,preyedUponBy
+67333,368098,Perinereis,,preyedUponBy
+67333,376943,Macroclymenella,,preyedUponBy
+67333,,prinospio,,preyedUponBy
+67333,,capitellid 2,,preyedUponBy
+67333,,heterophoxus-steph,,preyedUponBy
+67333,380023,Boccardia syrtis,,preyedUponBy
+67333,,capitellid 1,,preyedUponBy
+67333,88101,Edwardsia,,preyedUponBy
+67333,195019,Exogone,,preyedUponBy
+67333,,paraonid,,preyedUponBy
+67333,,exogone-hetero,,preyedUponBy
+67333,203767,Spio,,preyedUponBy
+67333,338434,Heteromastus,,preyedUponBy
+67333,375495,Abarenicola,,preyedUponBy
+67333,,scoloplos-john,,preyedUponBy
+67333,,tanaidacid,,preyedUponBy
+67333,407408,Boccardia acus,,preyedUponBy
+67333,949282,Decamastus,,preyedUponBy
+67333,376960,Malacoceros,,preyedUponBy
+67333,645969,Sphaerodorum,,preyedUponBy
+67333,,phoxocephalus-reg,,preyedUponBy
+67333,,filter feeders,,preyedUponBy
+67333,129210,Manayunkia,,preyedUponBy
+67333,739327,Uca,Narrow-fronted Fiddler Crabs,preyedUponBy
+67333,203782,Streblospio,,preyedUponBy
+67333,123373,Sesarma,American Marsh Crabs,preyedUponBy
+67333,208372,Capitella,,preyedUponBy
+67333,195776,Meoma ventricosa,Red Heart Urchin,preyedUponBy
+67333,295220,Paguristes grayi,,preyedUponBy
+67333,,Triphora intermedia,,preyedUponBy
+67333,260318,Calcinus tibicen,Orangeclaw Hermit Crab,preyedUponBy
+67333,,Hexapanopeus caribbaeus,,preyedUponBy
+67333,131515,Monacanthus ciliatus,Fringed Filefish,preyedUponBy
+67333,120069,Lytechinus variegatus,Variegated Sea Urchin,preyedUponBy
+67333,49933,Parablennius marmoreus,Seaweed Blenny,preyedUponBy
+67333,,Hippolyte pleuracanthus,,preyedUponBy
+67333,130055,Paguristes cadenati,Red Reef Hermit,preyedUponBy
+67333,503480,Tellinella listeri,Speckled Tellin,preyedUponBy
+67333,146829,Anchoa hepsetus,Striped Anchovy,preyedUponBy
+67333,131500,Gnatholepis thompsoni,Goldspot Goby,preyedUponBy
+67333,295508,Parapinnixa bouvieri,,preyedUponBy
+67333,128128,Isostichopus badionotus,Chocolate Chip Cucumber,preyedUponBy
+67333,96936,Centropyge argi,Cherubfish,preyedUponBy
+67333,260349,Petrolisthes jugosus,,preyedUponBy
+67333,,Pagurus bonairensis,,preyedUponBy
+67333,62592,Coryphopterus glaucofraenum,Bridled Goby,preyedUponBy
+67333,295503,Domecia acanthophora,Elkhorn Coral Crab,preyedUponBy
+67333,376765,Kinbergonuphis,,preyedUponBy

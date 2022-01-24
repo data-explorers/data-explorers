@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+972793,54779,Quercus alba,white oak,eats
+972793,,Mesarion,,eatenBy
+972793,224203,Lycoperdina ferruginea,,preyedUponBy

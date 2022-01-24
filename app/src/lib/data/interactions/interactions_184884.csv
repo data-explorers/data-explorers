@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+184884,68062,Menemerus bivittatus,Gray Wall Jumping Spider,eatenBy
+184884,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+184884,17013,Sayornis nigricans,Black Phoebe,eatenBy
+184884,9915,Piranga rubra,Summer Tanager,eatenBy
+184884,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+184884,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+184884,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+184884,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+184884,67708,Argiope trifasciata,Banded Garden Spider,eatenBy
+184884,67706,Argiope argentata,Silver Garden Orbweaver,eatenBy
+184884,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+184884,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+184884,9721,Geothlypis trichas,Common Yellowthroat,eatenBy
+184884,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+184884,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+184884,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+184884,117095,Regulus calendula,Ruby-crowned Kinglet,eatenBy
+184884,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+184884,145242,Setophaga palmarum,Palm Warbler,eatenBy
+184884,14850,Sturnus vulgaris,European Starling,eatenBy
+184884,6317,Calypte anna,Anna's Hummingbird,eatenBy
+184884,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+184884,16447,Pyrocephalus rubinus,Vermilion Flycatcher,eatenBy
+184884,7458,Certhia americana,Brown Creeper,eatenBy
+184884,16028,Myiarchus crinitus,Great Crested Flycatcher,eatenBy
+184884,9100,Melospiza melodia,Song Sparrow,eatenBy
+184884,133963,Cyclosa turbinata,Humped Trashline Orbweaver,eatenBy
+184884,104574,Libellula croceipennis,Neon Skimmer,eatenBy
+184884,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+184884,155279,Zygiella x-notata,Silver-sided Sector Spider,eatenBy
+184884,,Zelus longipes,,eatenBy
+184884,48765,Heteropoda venatoria,Pantropical Huntsman Spider,eatenBy
+184884,,Vireo flavifrons,,eatenBy
+184884,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+184884,,Polistes major major,,eatenBy
+184884,116461,Anolis sagrei,Brown Anole,eatenBy
+184884,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+184884,16787,Tyrannus melancholicus,Tropical Kingbird,eatenBy
+184884,147243,Rabidosa carrana,,eatenBy
+184884,,Centruroides hentzi,,eatenBy
+184884,36488,Anolis cristatellus,Crested Anole,eatenBy
+184884,,Helmitheros vermivorum,,eatenBy
+184884,,Setophaga citrina,,eatenBy
+184884,61508,Ischnura elegans,Blue-tailed Damselfly,eatenBy
+184884,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+184884,,Archilochus colubris,,eatenBy
+184884,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+184884,2191,Merops apiaster,European Bee-eater,eatenBy
+184884,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+184884,,Sylvia cantillans albistriata,,eatenBy
+184884,,Thryothorus ludovicianus,,eatenBy
+184884,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+184884,430553,Merlangius merlangus,Whiting,eatenBy
+184884,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+184884,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+184884,,Trichogenes longipinnis,,eatenBy
+184884,68077,Salvelinus malma,Dolly Varden Trout,eatenBy
+184884,43577,Pan troglodytes,Chimpanzee,eatenBy
+184884,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+184884,7562,Troglodytes aedon,House Wren,preyedUponBy
+184884,14850,Sturnus vulgaris,European Starling,preyedUponBy
+184884,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+184884,18209,Melanerpes formicivorus,Acorn Woodpecker,preyedUponBy
+184884,9083,Cardinalis cardinalis,Northern Cardinal,preyedUponBy
+184884,67708,Argiope trifasciata,Banded Garden Spider,preyedUponBy
+184884,147370,Naphrys pulex,flea jumping spider,preyedUponBy
+184884,58416,Phidippus clarus,Brilliant Jumping Spider,preyedUponBy
+184884,230433,Sassacus vitis,Buttonhook Leaf-beetle Jumping Spider,preyedUponBy
+184884,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+184884,712034,Dendryphantini,,preyedUponBy
+184884,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,preyedUponBy
+184884,14886,Mimus polyglottos,Northern Mockingbird,preyedUponBy
+184884,,Phycosoma digitula,,preyedUponBy
+184884,,Ceriagrion cerinorubellum,,preyedUponBy
+184884,1971,Crotophaga ani,Smooth-billed Ani,preyedUponBy
+184884,,Sympetrum striolatum,,preyedUponBy
+184884,,Araniella,,preyedUponBy
+184884,,Tmarus,,preyedUponBy
+184884,130304,Agelena labyrinthica,Labyrinth spider,preyedUponBy
+184884,,Carabus monilis,,preyedUponBy
+184884,13094,Erithacus rubecula,European Robin,preyedUponBy
+184884,,Eriophora fuliginea,,preyedUponBy
+184884,,Dioctria linearis,,preyedUponBy
+184884,,Apiomerus crassipes,,preyedUponBy
+184884,194792,Carabus auratus,Golden Ground Beetle,preyedUponBy
+184884,,Carabus regalis,,preyedUponBy
+184884,133769,Coenosia tigrina,,preyedUponBy
+184884,126155,Vespula germanica,German Yellowjacket,preyedUponBy
+184884,15282,Sylvia atricapilla,Eurasian Blackcap,preyedUponBy
+184884,,Zonotrichia leucophrys,,preyedUponBy
+184884,,Pyrrhomyias cinnamomeus,,preyedUponBy
+184884,,Colonus puerperus,,preyedUponBy
+184884,,Aphirape,,preyedUponBy
+184884,297992,Nesticodes rufipes,Red House Spider,preyedUponBy
+184884,297889,Eriophora edax,,preyedUponBy
+184884,,Ischnura heterosticta,,preyedUponBy
+184884,2191,Merops apiaster,European Bee-eater,preyedUponBy
+184884,135239,Dioctria hyalipennis,Stripe-legged Robberfly,preyedUponBy
+184884,148090,Pelegrina galathea,Peppered Jumping Spider,preyedUponBy
+184884,,Micrommata ligurina,,preyedUponBy
+184884,245656,Synema globosum,Napoleon Spider,preyedUponBy
+184884,64581,Gerris lacustris,common pond skater,preyedUponBy
+184884,,Rhipidura fuliginosa,,preyedUponBy

@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50597,,PhytoP,,eats
+50597,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+50597,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+50597,55396,Solea solea,Common Sole,eatenBy
+50597,63740,Gadus morhua,Atlantic Cod,eatenBy
+50597,,Melanitta fusca,,eatenBy
+50597,,Zooplankton,,preysOn
+50597,210294,Lipophrys pholis,Shanny,preyedUponBy
+50597,52523,Carcinus maenas,European Green Crab,preyedUponBy
+50597,467402,Ocenebra erinaceus,European Sting Winkle,preyedUponBy
+50597,342285,Lipophrys trigloides,,preyedUponBy
+50597,118706,Gobius paganellus,Rock Goby,preyedUponBy
+50597,118704,Gobius niger,Black Goby,preyedUponBy
+50597,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy

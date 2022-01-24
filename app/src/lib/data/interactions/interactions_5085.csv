@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5085,10094,Junco hyemalis,Dark-eyed Junco,eats
+5085,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+5085,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+5085,,Aquila chrysaetos,,eatenBy
+5085,3,Aves,Birds,preysOn
+5085,122767,Columba livia domestica,Feral Pigeon,preysOn
+5085,,Columba palumbus,,preysOn
+5085,40522,Lasiurus borealis,Eastern Red Bat,preysOn
+5085,,Columba palumbus,,preyedUponBy

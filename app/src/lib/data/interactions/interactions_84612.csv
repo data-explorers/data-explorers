@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84612,47544,Rubus,brambles,eats
+84612,47351,Prunus,"plums, cherries, and allies",eats
+84612,58736,Pyrus,pears,eats
+84612,54500,Malus,apples,eats
+84612,53858,Solanum tuberosum,potato,eats
+84612,50299,Fragaria,strawberries,eats
+84612,53438,Rosa,roses,eats
+84612,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+84612,16791,Tyrannus verticalis,Western Kingbird,preyedUponBy

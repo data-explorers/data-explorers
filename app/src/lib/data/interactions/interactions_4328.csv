@@ -1,0 +1,87 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4328,172020,Lolliguncula brevis,Atlantic brief squid,eats
+4328,1,Animalia,Animals,eats
+4328,879,Gallus,Junglefowl,eats
+4328,132473,Lagodon rhomboides,Pinfish,eats
+4328,52460,Tylosurus crocodilus,Crocodile Needlefish,eats
+4328,48147,Isopoda,Isopods,eats
+4328,107889,Oreochromis mossambicus,Mozambique Tilapia,eats
+4328,89853,Menidia,,eats
+4328,121639,Brachyura,True Crabs,eats
+4328,47186,Decapoda,Decapods,eats
+4328,85493,Crustacea,Crustaceans,eats
+4328,47178,Actinopterygii,Ray-finned Fishes,eats
+4328,51911,Engraulidae,Anchovies,eats
+4328,51404,Trichiurus lepturus,Largehead Hairtail,eats
+4328,179620,Cynoscion nebulosus,Spotted Seatrout,eats
+4328,94070,Anchoa mitchilli,Bay Anchovy,eats
+4328,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eats
+4328,177104,Auxis thazard,Frigate Tuna,eats
+4328,,Harengula jaguana,,eats
+4328,179564,Larimus fasciatus,Banded Drum,eats
+4328,123659,Decapterus punctatus,Cigar Minnow,eats
+4328,179568,Hemicaranx amblyrhynchus,Bluntnose Jack,eats
+4328,49269,Diodon holocanthus,Longspined Porcupinefish,eats
+4328,51364,Brevoortia patronus,Gulf Menhaden,eats
+4328,179563,Leiostomus xanthurus,Spot Croaker,eats
+4328,106222,Mugil cephalus,Sea Mullet,eats
+4328,179463,Stenotomus caprinus,Longspine porgy,eats
+4328,,Gobioides broussonnetii,,eats
+4328,146600,Micropogonias undulatus,Atlantic Croaker,eats
+4328,98945,Cyprinodon variegatus,Sheepshead Minnow,eats
+4328,179496,Peprilus burti,Gulf Butterfish,eats
+4328,179633,Chloroscombrus chrysurus,Atlantic Bumper,eats
+4328,179572,Hemiramphus brasiliensis,Ballyhoo,eats
+4328,179508,Bagre marinus,Gafftopsail Catfish,eats
+4328,96740,Caranx crysos,Blue Runner,eats
+4328,54440,Synodus foetens,Inshore Lizardfish,eats
+4328,49421,Diplectrum formosum,Sand Perch,eats
+4328,124316,Lutjanus campechanus,Northern Red Snapper,eats
+4328,179428,Anchoa lyolepis,Dusky Anchovy,eats
+4328,,Symphurus urospilus,,eats
+4328,109046,Peprilus paru,Harvestfish,eats
+4328,179545,Menticirrhus americanus,Southern Kingfish,eats
+4328,128750,Sciaenops ocellatus,Red Drum,eats
+4328,179512,Bairdiella chrysoura,Silver Perch,eats
+4328,105567,Menidia beryllina,Inland Silverside,eats
+4328,154499,Scomberomorus cavalla,King Mackerel,eats
+4328,,Farfantepenaeus duorarum,,eats
+4328,49598,Selene setapinnis,Atlantic Moonfish,eats
+4328,179491,Prionotus tribulus,Bighead Searobin,eats
+4328,179630,Citharichthys spilopterus,Bay Whiff,eats
+4328,,Calamus proridens,,eats
+4328,179623,Cynoscion arenarius,Sand Seatrout,eats
+4328,49431,Orthopristis chrysoptera,Pigfish,eats
+4328,179519,Opisthonema oglinum,Atlantic Thread Herring,eats
+4328,146829,Anchoa hepsetus,Striped Anchovy,eats
+4328,,Fundulus majalis,,eats
+4328,62617,Cetengraulis edentulus,Atlantic Anchoveta,eats
+4328,88733,Harengula,,eats
+4328,179537,Mugil curema,White Mullet,eats
+4328,,Teleostei,,eats
+4328,103606,Jenkinsia lamprotaenia,Dwarf Round Herring,eats
+4328,51363,Brevoortia tyrannus,Atlantic Menhaden,eats
+4328,,Coryphaenidae,,eats
+4328,,Gnathostomata,,eats
+4328,,Sebastidae,,eats
+4328,113308,Strongylura marina,Atlantic Needlefish,eats
+4328,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4328,63770,Engraulis mordax,Northern Anchovy,preysOn
+4328,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+4328,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4328,63691,Cololabis saira,Pacific Saury,preysOn
+4328,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+4328,63687,Embiotocidae,Surfperches,preysOn
+4328,47762,Sebastes,Rockfishes,preysOn
+4328,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4328,117564,Clevelandia ios,Arrow Gobi,preysOn
+4328,,Ilypnus gilberti,,preysOn
+4328,106222,Mugil cephalus,Sea Mullet,preysOn
+4328,101455,Gillichthys mirabilis,Longjaw Mudsucker,preysOn
+4328,111467,Quietula y-cauda,Shadow Goby,preysOn
+4328,103210,Hypsoblennius gentilis,Bay Blenny,preysOn
+4328,82326,Hypsopsetta guttulata,Diamond turbot,preysOn
+4328,179533,Fundulus parvipinnis,California Killifish,preysOn
+4328,108561,Paralichthys californicus,California Halibut,preysOn
+4328,71234,Porichthys myriaster,Specklefin Midshipman,preysOn
+4328,81963,Girella nigricans,Opaleye,preysOn

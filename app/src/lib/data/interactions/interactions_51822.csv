@@ -1,0 +1,132 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51822,133207,Liorhyssus hyalinus,Hyaline Grass Bug,eatenBy
+51822,55215,Aphis,,eatenBy
+51822,48662,Danaus plexippus,Monarch,eatenBy
+51822,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+51822,127812,Hylaeus,Masked Bees,eatenBy
+51822,47219,Apis mellifera,Western Honey Bee,eatenBy
+51822,247434,Dilophus,,eatenBy
+51822,265798,Isodontia philadelphica,,eatenBy
+51822,300137,Isodontia elegans,Elegant Grass-carrying Wasp,eatenBy
+51822,70071,Hyles euphorbiae,Leafy Spurge Hawkmoth,eatenBy
+51822,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+51822,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+51822,52775,Bombus,Bumble Bees,eatenBy
+51822,1081332,Lon melane,Umber Skipper,eatenBy
+51822,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+51822,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+51822,84640,Polistes dominula,European Paper Wasp,eatenBy
+51822,906,Meleagris gallopavo,Wild Turkey,eatenBy
+51822,3454,Zenaida macroura,Mourning Dove,eatenBy
+51822,9152,Spizella pusilla,Field Sparrow,eatenBy
+51822,8021,Corvus brachyrhynchos,American Crow,eatenBy
+51822,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+51822,,Danaus chrysippus,,eatenBy
+51822,,Papilio demodocus,,eatenBy
+51822,,Zizeeria knysna,,eatenBy
+51822,,Ipoides laeta,,eatenBy
+51822,,Chamaesphecia tenthrediniformis,,eatenBy
+51822,143586,Erinnyis ello,Ello Sphinx,eatenBy
+51822,,Chamaesphecia cyanopasta,,eatenBy
+51822,,Chamaesphecia taediiformis,,eatenBy
+51822,,Episimus argutana,,eatenBy
+51822,,Singhalia cymogramma,,eatenBy
+51822,,Chamaesphecia iranica,,eatenBy
+51822,,Promalactis isothea,,eatenBy
+51822,,Ectoedemia jubae,,eatenBy
+51822,,Achaea janata,,eatenBy
+51822,,Simyra dentinosa,,eatenBy
+51822,,Oxicesta serratae,,eatenBy
+51822,1328549,Sabalia jacksoni,,eatenBy
+51822,,Acronicta cinerea,,eatenBy
+51822,,Oxicesta geographica,,eatenBy
+51822,,Pygarctia spraguei,,eatenBy
+51822,,Carcinopyga proserpina,,eatenBy
+51822,,Pygarctia murina,,eatenBy
+51822,,Hylaeus punctatus,,eatenBy
+51822,,Uromyces pisi-sativi,,eatenBy
+51822,363206,Chariesterus antennator,Euphorbia Bug,eatenBy
+51822,,Simosyrphus,,eatenBy
+51822,,Camponotus grandidieri,,eatenBy
+51822,,Lasioglossum mahense,,eatenBy
+51822,,Technomyrmex albipes,,eatenBy
+51822,,Papio ursinus,,eatenBy
+51822,,Poicephalus robustus suahelicus,,eatenBy
+51822,,Colius striatus,,eatenBy
+51822,987653,Aphthona atrocaerulea,,eatenBy
+51822,,Aphthona melancholica,,eatenBy
+51822,,Aphthona euphorbiae,,eatenBy
+51822,,Dicranocephalus agilis,,eatenBy
+51822,,Cryptocephalus moraei,,eatenBy
+51822,,Cultellunguis americanus,,eatenBy
+51822,,Coccinella trifasciata subversa,,eatenBy
+51822,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+51822,,Trichopoda indivisa,,eatenBy
+51822,52233,Eumerus,,eatenBy
+51822,,Melampsora euphorbiae,,eatenBy
+51822,1026114,Uromyces tuberculatus,,eatenBy
+51822,,Dicranocephalus medius,,eatenBy
+51822,,Polistes fuscatus,,eatenBy
+51822,,Agapostemon splendens,,eatenBy
+51822,3545,Columbina passerina,Common Ground Dove,eatenBy
+51822,73412,Spindalis portoricensis,Puerto Rican Spindalis,eatenBy
+51822,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+51822,,Callipepla gambelii,,eatenBy
+51822,,Pooecetes gramineus,,eatenBy
+51822,,Spizella breweri,,eatenBy
+51822,,Anthus spragueii,,eatenBy
+51822,,Calcarius pictus,,eatenBy
+51822,13732,Anthus rubescens,American Pipit,eatenBy
+51822,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+51822,53648,Nomada,Nomad Bees,pollinatedBy
+51822,52756,Polistes,Umbrella Paper Wasps,pollinatedBy
+51822,127812,Hylaeus,Masked Bees,pollinatedBy
+51822,57678,Lasioglossum,,pollinatedBy
+51822,61858,Lucilia,Greenbottle Flies,pollinatedBy
+51822,62781,Camponotus,Carpenter and Sugar Ants,pollinatedBy
+51822,120489,Sarcophaga,Common Flesh Flies,pollinatedBy
+51822,119115,Calliphora vicina,Blue Blowfly,pollinatedBy
+51822,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+51822,,Simosyrphus,,pollinatedBy
+51822,,Lasioglossum mahense,,pollinatedBy
+51822,,Plagiolepis pygmaea,,pollinatedBy
+51822,,,,pollinatedBy
+51822,,Sphecodes marginatus ,,pollinatedBy
+51822,,Eucera gracilipes,,pollinatedBy
+51822,,Tachina canariensis,,pollinatedBy
+51822,,Andrena,,pollinatedBy
+51822,,Adela,,pollinatedBy
+51822,,Lucilia sericata ,,pollinatedBy
+51822,,Usia forcipata ,,pollinatedBy
+51822,52233,Eumerus,,pollinatedBy
+51822,537690,Sapyga quinquepunctata,,pollinatedBy
+51822,,Bibio hortulanus,,pollinatedBy
+51822,,Graphomyia maculata ,,pollinatedBy
+51822,,Neomyia cornicina,,pollinatedBy
+51822,,Psilothrix cyaneus ,,pollinatedBy
+51822,,Leucophora,,pollinatedBy
+51822,,Podonta milleri ,,pollinatedBy
+51822,,Stevenia signata,,pollinatedBy
+51822,,Phasia,,pollinatedBy
+51822,,Zodion,,pollinatedBy
+51822,,Empis,,pollinatedBy
+51822,,Bibio leucopterus ,,pollinatedBy
+51822,70151,Calliphora vomitoria,Orange-bearded Bluebottle Fly,pollinatedBy
+51822,,Paregle audacula,,pollinatedBy
+51822,,http://treatment.plazi.org/id/9F790FC17E7E824618D924A97887058D,,pollinatedBy
+51822,,Pemphredon lethifer,,pollinatedBy
+51822,,Malachius,,pollinatedBy
+51822,,Oxytorus armatus,,pollinatedBy
+51822,,Cuphocera,,pollinatedBy
+51822,,Helina evecta,,pollinatedBy
+51822,,Episyrphus balteatus,,pollinatedBy
+51822,,Hydrotaea,,pollinatedBy
+51822,,Conophorus glaucescens ,,pollinatedBy
+51822,,Scathophaga stercoraria,,pollinatedBy
+51822,,Delia platura ,,pollinatedBy
+51822,,Phyto,,pollinatedBy
+51822,,Pollenia,,pollinatedBy
+51822,,Orellia falcata,,pollinatedBy
+51822,,Chelostoma,,pollinatedBy
+51822,,Macrophya,,pollinatedBy
+51822,,Dionaea aurifrons,,pollinatedBy

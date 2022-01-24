@@ -1,0 +1,73 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4531,195134,Euphausiidae,Euphotic Krill,eats
+4531,85532,Mysida,Opossum Shrimps,eats
+4531,195136,Euphausia,,eats
+4531,85493,Crustacea,Crustaceans,eats
+4531,63770,Engraulis mordax,Northern Anchovy,eats
+4531,121643,Copepoda,Copepods,eats
+4531,47628,Amphipoda,Amphipods,eats
+4531,,Gammaridea,,eats
+4531,169919,Trichodon trichodon,Pacific Sandfish,eats
+4531,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4531,,Theragra chalcogramma,,eats
+4531,296029,Thysanoessa spinifera,,eats
+4531,165100,Mallotus villosus,Capelin,eats
+4531,329000,Thysanoessa raschii,,eats
+4531,69922,Oncorhynchus nerka,Sockeye Salmon,eats
+4531,47710,Pandalidae,,eats
+4531,195087,Thysanoessa inermis,,eats
+4531,201713,Euphausia pacifica,North Pacific krill,eats
+4531,98855,Cymatogaster aggregata,Shiner Surfperch,eats
+4531,,Gnathostomata,,eats
+4531,117571,Clupea pallasii,Pacific herring,eats
+4531,55535,Sardinops sagax,Pacific Sardine,eats
+4531,63742,Gadidae,Cods and Haddocks,eats
+4531,218966,Eleginus gracilis,Saffron Cod,eats
+4531,,Etrumeus teres,,eats
+4531,180029,Gadus macrocephalus,Pacific Cod,eats
+4531,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+4531,55398,Solea,,eats
+4531,120702,Micromesistius poutassou,Blue Whiting,eats
+4531,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4531,85289,Pseudophycis bachus,Red cod,eats
+4531,215318,Boreogadus saida,Arctic Cod,eats
+4531,324532,Sprattus sprattus,European Sprat,eats
+4531,129185,Mysis,,eats
+4531,97990,Clupea harengus,Atlantic Herring,eats
+4531,86396,Ammodytes,,eats
+4531,614162,Micromesistius australis,Southern blue whiting,eats
+4531,47525,Pleuronectidae,Righteye Flounders,eats
+4531,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4531,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4531,,Pleuronectiformes,,eats
+4531,228496,Pollachius virens,Pollock,eats
+4531,,Pisces,,eats
+4531,63740,Gadus morhua,Atlantic Cod,eats
+4531,108016,Osmerus eperlanus,Smelt,eats
+4531,118600,Sardina pilchardus,European Sardine,eats
+4531,213402,Ammodytes americanus,American Sand Lance,eats
+4531,119501,Clupea pallasii pallasii,Pacific herring,eats
+4531,,Macruronus magellanicus,,eats
+4531,88265,Etrumeus,Red-eye Round Herrings,eats
+4531,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4531,82353,Merluccius,Hakes,eats
+4531,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4531,107572,Oncorhynchus keta,Chum Salmon,eats
+4531,107570,Oncorhynchus gorbuscha,Pink Salmon,eats
+4531,8010,Corvus corax,Common Raven,eatenBy
+4531,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4531,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4531,41521,Orcinus orca,Orca,eatenBy
+4531,41757,Callorhinus ursinus,Northern Fur Seal,eatenBy
+4531,153112,Euphausiacea,krill,preysOn
+4531,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+4531,63770,Engraulis mordax,Northern Anchovy,preysOn
+4531,117571,Clupea pallasii,Pacific herring,preysOn
+4531,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+4531,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4531,201713,Euphausia pacifica,North Pacific krill,preysOn
+4531,55535,Sardinops sagax,Pacific Sardine,preysOn
+4531,296029,Thysanoessa spinifera,,preysOn
+4531,85949,Osmeridae,Smelts,preysOn
+4531,49236,Clupeidae,"Shads, Sardines, and Menhadens",preysOn
+4531,86396,Ammodytes,,preysOn

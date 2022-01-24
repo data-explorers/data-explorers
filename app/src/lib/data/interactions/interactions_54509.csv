@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54509,47398,Paguroidea,Hermit Crabs,eats
+54509,85493,Crustacea,Crustaceans,eats
+54509,47115,Mollusca,Molluscs,eats
+54509,47188,Pachygrapsus crassipes,Striped Shore Crab,eats
+54509,117650,Mytilus edulis,Blue Mussel,eats
+54509,121180,Megastraea undosa,Wavy Turban,eats
+54509,56652,Haliotis rufescens,Red Abalone,eats
+54509,103211,Hypsoblennius gilberti,Notchbrow Blenny,eats
+54509,48173,Pagurus,,eats
+54509,460365,Tegula funebralis,Black Tegula,eats
+54509,,Argopecten aequisulcatus,,eats
+54509,103210,Hypsoblennius gentilis,Bay Blenny,eats
+54509,,Olivella biplicata,,eats
+54509,430089,Chione undatella,Wavy Chione,eats
+54509,,Leptopecten,,eats
+54509,117660,Notoacmea,,eats
+54509,56649,Haliotis cracherodii,Black Abalone,eats
+54509,333608,Leukoma staminea,Pacific Littleneck Clam,eats
+54509,125663,Kelletia kelletii,Kellet's Whelk,eats
+54509,56653,Haliotis fulgens,Green Abalone,eats
+54509,56678,Haliotis corrugata,Pink Abalone,eats
+54509,,Norrisia norrisi,,eats
+54509,,Gnathostomata,,eats
+54509,,Collisella,,eats
+54509,4345,Larus occidentalis,Western Gull,eatenBy
+54509,460365,Tegula funebralis,Black Tegula,preysOn
+54509,56652,Haliotis rufescens,Red Abalone,preysOn
+54509,117650,Mytilus edulis,Blue Mussel,preysOn
+54509,56649,Haliotis cracherodii,Black Abalone,preysOn
+54509,333608,Leukoma staminea,Pacific Littleneck Clam,preysOn
+54509,,Norrisia norrisi,,preysOn
+54509,56678,Haliotis corrugata,Pink Abalone,preysOn
+54509,56653,Haliotis fulgens,Green Abalone,preysOn
+54509,41728,Mirounga angustirostris,Northern Elephant Seal,preyedUponBy

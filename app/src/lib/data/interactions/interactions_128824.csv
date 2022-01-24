@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+128824,43095,Leporidae,Hares and Rabbits,eats
+128824,2,Chordata,Chordates,eats
+128824,53359,Baccharis pilularis,coyote brush,eats
+128824,62742,Rudbeckia,black-eyed Susans and coneflowers,eats
+128824,76610,Daucus carota,wild carrot,eats
+128824,49674,Ceanothus,,eats
+128824,57952,Coreopsis,Tickseed,eats
+128824,790553,Apioideae,,eats
+128824,461542,Astereae,asters and allies,eats
+128824,62741,Rudbeckia hirta,black-eyed Susan,eats
+128824,76465,Crassula ovata,jade plant,eats
+128824,48939,Eriogonum,wild buckwheats,eats
+128824,3,Aves,Birds,eats
+128824,142279,Symphyotrichum pilosum,hairy white oldfield aster,eats
+128824,,rabbit carcass,,eats
+128824,161582,Dahlia pinnata,Garden Dahlia,eats
+128824,58465,Dahlia,Dahlias,eats
+128824,,Aster,,eats
+128824,55137,Arctostaphylos manzanita,Common Manzanita,eats
+128824,61610,Efferia,,eatenBy
+128824,,Efferia aestuans,,eatenBy
+128824,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+128824,57628,Eryngium,Eryngos,pollinates
+128824,53052,Foeniculum vulgare,fennel,pollinates
+128824,511749,Eryngium floribundum,,pollinates
+128824,,Eryngium stenophyllum,,pollinates
+128824,,Baccharis articulata,,pollinates
+128824,,Senecio bravensis,,pollinates
+128824,,Baccharis tandilensis,,pollinates
+128824,1063807,Gyptis lanigera,,pollinates
+128824,,Achyrocline satureoides,,pollinates
+128824,,Baccharis coridifolia,,pollinates
+128824,,Eupatorium steetzii,,pollinates
+128824,158769,Asimina parviflora,Small-Flower Pawpaw,pollinates
+128824,119535,Phymata,Jagged Ambush Bugs,preyedUponBy
+128824,,Drosera binata,,preyedUponBy
+128824,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

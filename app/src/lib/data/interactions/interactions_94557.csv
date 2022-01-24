@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+94557,85408,Erythemis collocata,Western Pondhawk,eatenBy
+94557,61495,Erythemis simplicicollis,Eastern Pondhawk,eatenBy
+94557,,Dolichovespula maculata,,eatenBy
+94557,94557,Argia moesta,Powdered Dancer,preysOn
+94557,103498,Ischnura posita,Fragile Forktail,preysOn
+94557,94571,Argia sedula,Blue-ringed Dancer,preysOn
+94557,,Enallagma exsulans,,preysOn
+94557,99892,Enallagma basidens,Double-striped Bluet,preysOn
+94557,,Graphocephala coccinea,,preysOn
+94557,94557,Argia moesta,Powdered Dancer,preyedUponBy
+94557,47118,Araneae,Spiders,preyedUponBy
+94557,47119,Arachnida,Arachnids,preyedUponBy
+94557,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy
+94557,,Hagenius brevistylus,,preyedUponBy
+94557,520986,Hylogomphus adelphus,Mustached Clubtail,preyedUponBy

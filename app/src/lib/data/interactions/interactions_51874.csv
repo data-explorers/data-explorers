@@ -1,0 +1,108 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51874,51874,Lonicera,honeysuckles,eats
+51874,,Lonicera splendid,,eats
+51874,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+51874,51874,Lonicera,honeysuckles,eatenBy
+51874,8010,Corvus corax,Common Raven,eatenBy
+51874,42069,Vulpes vulpes,Red Fox,eatenBy
+51874,58578,Euphydryas phaeton,Baltimore Checkerspot,eatenBy
+51874,50896,Euphydryas,,eatenBy
+51874,12890,Catharus guttatus,Hermit Thrush,eatenBy
+51874,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+51874,12727,Turdus migratorius,American Robin,eatenBy
+51874,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+51874,335848,Erannis defoliaria,Mottled Umber,eatenBy
+51874,,Eupoecilia ambiguella,,eatenBy
+51874,218898,Egira alternans,Alternate Woodling,eatenBy
+51874,,Hyadaphis foeniculi,,eatenBy
+51874,,Hemaris diffinis,,eatenBy
+51874,,Euphydryas editha,,eatenBy
+51874,,Pleromelloida cinerea,,eatenBy
+51874,,Behrensia conchiformis,,eatenBy
+51874,,Ahlbergia,,eatenBy
+51874,,Ficedula hypoleuca,,eatenBy
+51874,12735,Turdus viscivorus,Mistle Thrush,eatenBy
+51874,12748,Turdus philomelos,Song Thrush,eatenBy
+51874,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+51874,12716,Turdus merula,Eurasian Blackbird,eatenBy
+51874,12707,Turdus pilaris,Fieldfare,eatenBy
+51874,,Cyanistes caeruleus,,eatenBy
+51874,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+51874,,Sitta europaea,,eatenBy
+51874,,Sylvia communis,,eatenBy
+51874,,Lophophanes cristatus,,eatenBy
+51874,,Periparus ater,,eatenBy
+51874,,Sylvia cantillans,,eatenBy
+51874,,Serinus serinus,,eatenBy
+51874,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+51874,,Garrulus glandarius,,eatenBy
+51874,13094,Erithacus rubecula,European Robin,eatenBy
+51874,,Phoenicurus ochruros,,eatenBy
+51874,12740,Turdus torquatus,Ring Ouzel,eatenBy
+51874,15302,Sylvia borin,Garden Warbler,eatenBy
+51874,,Turdus iliacus,,eatenBy
+51874,,Sylvia melanocephala,,eatenBy
+51874,891696,Pica pica,Eurasian Magpie,eatenBy
+51874,204496,Corvus corone,Carrion Crow,eatenBy
+51874,,Coccothraustes coccothraustes,,eatenBy
+51874,,Emberiza,,eatenBy
+51874,,Loxia curvirostra,,eatenBy
+51874,,Sylvia conspicillata,,eatenBy
+51874,,Columba palumbus,,eatenBy
+51874,,Carduelis citrinella,,eatenBy
+51874,,Parus major,,eatenBy
+51874,,Phoenicurus phoenicurus,,eatenBy
+51874,41800,Martes foina,Stone Marten,eatenBy
+51874,,Limenitis camilla,,eatenBy
+51874,,Limenitis moltrechti,,eatenBy
+51874,,Celastrina argiolus,,eatenBy
+51874,,Euphydryas aurinia,,eatenBy
+51874,,Euphydryas gillettii,,eatenBy
+51874,,Occidryas chalcedona,,eatenBy
+51874,,Euphydryas maturna,,eatenBy
+51874,,Limenitis reducta,,eatenBy
+51874,482946,Limenitis doerriesi,,eatenBy
+51874,,Rhopalomyzus (Judenkoa) lonicerae,,eatenBy
+51874,,Poecile palustris,,eatenBy
+51874,144812,Poecile montanus,Willow Tit,eatenBy
+51874,,Karstenia lonicerae,,eatenBy
+51874,327981,Gloniopsis praelonga,,eatenBy
+51874,,Phomopsis lonicerae,,eatenBy
+51874,,Cytospora lonicerae,,eatenBy
+51874,,Valsa olivacea,,eatenBy
+51874,,Tenthredo vespa,,eatenBy
+51874,564850,Tenthredo livida,Variable Tenthredo,eatenBy
+51874,,Phoma minutula,,eatenBy
+51874,,Septoria lonicerae,,eatenBy
+51874,,Diplodia lonicerae,,eatenBy
+51874,,Diaporthe eres,,eatenBy
+51874,987473,Amphisphaerella xylostei,,eatenBy
+51874,,Diaporthe pardalota,,eatenBy
+51874,,Coleophoma empetri,,eatenBy
+51874,,Zaraea fasciata,,eatenBy
+51874,,Zaraea lonicerae,,eatenBy
+51874,,Zaraea aenea,,eatenBy
+51874,,Merismodes bresadolae,,eatenBy
+51874,,Parthenolecanium corni,,eatenBy
+51874,,Hyadaphis passerinii,,eatenBy
+51874,,Rhagoletis cerasi,,eatenBy
+51874,,Unguiculella robergei,,eatenBy
+51874,,Niptera ramincola,,eatenBy
+51874,,Melanomma pulvis-pyrius,,eatenBy
+51874,,Lachnum corticale,,eatenBy
+51874,,Melanomma fuscidulum,,eatenBy
+51874,,Melomastia mastoidea,,eatenBy
+51874,,Hysterographium mori,,eatenBy
+51874,,Lachnum barbatum,,eatenBy
+51874,,Camposporium cambrense,,eatenBy
+51874,,Limenitis glorifica,,eatenBy
+51874,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+51874,12951,Myadestes townsendi,Townsend's Solitaire,eatenBy
+51874,,Pinicola enucleator,,eatenBy
+51874,52775,Bombus,Bumble Bees,pollinatedBy
+51874,121922,Eublemma,,pollinatedBy
+51874,,Andrena,,pollinatedBy
+51874,,,,pollinatedBy
+51874,,Ceratina megastigmata ,,pollinatedBy
+51874,,Melangyna ezoensis ,,pollinatedBy
+51874,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

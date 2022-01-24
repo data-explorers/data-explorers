@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56240,123888,Synedra,,eats
+56240,339306,Cocconeis,,eats
+56240,,Detritus,,eats
+56240,311291,Nitzschia,,eats
+56240,,Diatoma,,eats
+56240,,Hydropsyche occidentalis,,eats
+56240,,Meridion,,eats
+56240,246074,Epithemia,,eats
+56240,123886,Gomphonema,,eats
+56240,1302968,Hyalella azteca,,eats
+56240,,Rhoicoenia,,eats
+56240,203808,Navicula,,eats
+56240,,Cladophora glomerata,,eats
+56240,,Echinella,,eats
+56240,,Khakista,,eats
+56240,,Arca,,eats
+56240,,Hyallella azteca,,eats
+56240,,Rhoicosphenia,,eats
+56240,,Hyallella azteca,,preysOn
+56240,,Hydropsyche occidentalis,,preysOn

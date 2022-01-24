@@ -1,0 +1,114 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53152,59152,Leptotes marina,Marine Blue,eatenBy
+53152,143854,Bombus borealis,Northern Amber Bumble Bee,eatenBy
+53152,50931,Strymon melinus,Gray Hairstreak,eatenBy
+53152,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+53152,58531,Colias philodice,Clouded Sulphur,eatenBy
+53152,58532,Colias eurytheme,Orange Sulphur,eatenBy
+53152,58533,Colias,Clouded Yellows,eatenBy
+53152,59188,Erynnis funeralis,Funereal Duskywing,eatenBy
+53152,48548,Vanessa cardui,Painted Lady,eatenBy
+53152,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+53152,906,Meleagris gallopavo,Wild Turkey,eatenBy
+53152,,Zizina otis,,eatenBy
+53152,,Ciampa arietaria,,eatenBy
+53152,,Creontiades dilutus,,eatenBy
+53152,,Epiphyas postvittana,,eatenBy
+53152,,Merophyas divulsana,,eatenBy
+53152,371606,Archips machlopis,,eatenBy
+53152,,Grapholita compositella,,eatenBy
+53152,,Syricoris rivulana,,eatenBy
+53152,,Etiella behrii,,eatenBy
+53152,,Nomophila noctuella,,eatenBy
+53152,,Bembecia ichneumoniformis,,eatenBy
+53152,129362,Zerene cesonia,Southern Dogface,eatenBy
+53152,,Oncocera semirubella,,eatenBy
+53152,,Trichoplusia orichalcea,,eatenBy
+53152,,Mythimna convecta,,eatenBy
+53152,,Spindasis,,eatenBy
+53152,,Lacinipolia explicata,,eatenBy
+53152,208507,Azanus jesous,African Babul Blue,eatenBy
+53152,,Actizera stellata,,eatenBy
+53152,,Leptotes pirithous,,eatenBy
+53152,554882,Phyllonorycter medicaginella,,eatenBy
+53152,69940,Hemiargus ceraunus,Ceraunus Blue,eatenBy
+53152,,Everes argiades,,eatenBy
+53152,409217,Zermizinga indocilisaria,Lucerne looper,eatenBy
+53152,,Dichomeris acuminatus,,eatenBy
+53152,,Syncopacma taeniolella,,eatenBy
+53152,,Xanthorhoe vicissata,,eatenBy
+53152,,Megophthalmus scanicus,,eatenBy
+53152,,Ophonus azureus,,eatenBy
+53152,703086,Euscelis incisus,,eatenBy
+53152,130433,Amara aenea,Common Sun Beetle,eatenBy
+53152,,Amara aulica,,eatenBy
+53152,,Ophonus schaubergerianus,,eatenBy
+53152,,Amara sinuosa,,eatenBy
+53152,,Pachytomella arallela,,eatenBy
+53152,130452,Amara plebeja,,eatenBy
+53152,,Diachromus germanus,,eatenBy
+53152,,Apion pisi,,eatenBy
+53152,,Ischnopterapion loti,,eatenBy
+53152,,Chorthippus apricarius,,eatenBy
+53152,552756,Orius niger,,eatenBy
+53152,,Drymus ryei,,eatenBy
+53152,,Aphrodes makarovi,,eatenBy
+53152,,Bruchela rufipes,,eatenBy
+53152,,Chorthippus biguttulus,,eatenBy
+53152,,Athous bicolor,,eatenBy
+53152,,Catapion seniculus,,eatenBy
+53152,,Chorthippus albomarginatus,,eatenBy
+53152,,Plagiognathus chrysanthemi,,eatenBy
+53152,,Exomias trichopterus,,eatenBy
+53152,,Exomias pellucidus,,eatenBy
+53152,,Agrypnus murinus,,eatenBy
+53152,,Drymus sylvaticus,,eatenBy
+53152,,Corizus hyoscyami,,eatenBy
+53152,,Empoasca decipiens,,eatenBy
+53152,,Sphragisticus nebulosus,,eatenBy
+53152,,Thrips,,eatenBy
+53152,,Coriomeris denticulatus,,eatenBy
+53152,,Aphrodes bicincta,,eatenBy
+53152,,Anaceratagallia ribauti,,eatenBy
+53152,,Rhyparochromus pini,,eatenBy
+53152,,Berytinus clavipes,,eatenBy
+53152,,Chorthippus parallelus,,eatenBy
+53152,,Helophorus nubilus,,eatenBy
+53152,,Empoasca solani,,eatenBy
+53152,,Harpalus rubripes,,eatenBy
+53152,,Carpocoris fuscispinus,,eatenBy
+53152,,Agriotes sputator,,eatenBy
+53152,,Hemicrepidius hirtus,,eatenBy
+53152,887671,Chlamydatus saltitans,,eatenBy
+53152,456218,Agriotes obscurus,,eatenBy
+53152,,Amara ovata,,eatenBy
+53152,61886,Lygus,Lygus Bugs,eatenBy
+53152,523365,Harpalus griseus,,eatenBy
+53152,,Harpalus distinguendus,,eatenBy
+53152,,Hypera suspiciosa,,eatenBy
+53152,555937,Halticus apterus,,eatenBy
+53152,,Adrastus rachifer,,eatenBy
+53152,532817,Adelphocoris seticornis,,eatenBy
+53152,84508,Adelphocoris lineolatus,Alfalfa Plant Bug,eatenBy
+53152,532814,Adelphocoris quadripunctatus,,eatenBy
+53152,,Amara equestris,,eatenBy
+53152,,Chlamydatus,,eatenBy
+53152,,Bathysolen nubilis,,eatenBy
+53152,,Amara lunicollis,,eatenBy
+53152,550416,Stygnocoris rusticus,,eatenBy
+53152,553215,Gargara genistae,,eatenBy
+53152,547603,Stenopterapion tenue,,eatenBy
+53152,,Amara eurynota,,eatenBy
+53152,47220,Apis,Honey Bees,pollinatedBy
+53152,,http://treatment.plazi.org/id/C72136B726E5580342B37994B63EAA2E,,pollinatedBy
+53152,,Megachile diligens,,pollinatedBy
+53152,,Megachile dentitarsus,,pollinatedBy
+53152,,Megachile rubripes,,pollinatedBy
+53152,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+53152,,http://treatment.plazi.org/id/76EC6770561BAE34F43D572C24F11653,,pollinatedBy
+53152,,Nomia melanderi,,pollinatedBy
+53152,,http://treatment.plazi.org/id/7DCCB1556498F8BED00AB015E3FF9FEB,,pollinatedBy
+53152,,Amara communis,,preyedUponBy
+53152,,Cantharis lateralis,,preyedUponBy
+53152,,Aeolothrips intermedius,,preyedUponBy
+53152,,Cantharis fusca,,preyedUponBy

@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54010,48972,Polygonum,knotweeds,eats
+54010,53196,Rumex,docks,eats
+54010,78678,Polygonum aviculare,Prostrate Knotweed,eats
+54010,,Rheum,,eats
+54010,,Rumex lanceolatus,,eats
+54010,,Muehlenbeckia axillaris,,eats
+54010,53104,Hypochaeris radicata,Common Cat's-ear,pollinates
+54010,56992,Lobularia maritima,sweet alyssum,pollinates
+54010,400575,Celmisia gracilenta,Common Mountain Daisy,pollinates
+54010,,Pimelea,,pollinates
+54010,,Muehlenbeckia axillaris,,pollinates
+54010,,Raoulia,,pollinates
+54010,,Isotoma fluviatilis,,pollinates
+54010,,Discaria toumatou,,pollinates
+54010,,Taraxacum arctogenum,,pollinates
+54010,,Papaver radicatum,,pollinates
+54010,163256,Geranium caespitosum,pinewoods geranium,pollinates

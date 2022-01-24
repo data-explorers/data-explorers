@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50809,58578,Euphydryas phaeton,Baltimore Checkerspot,eatenBy
+50809,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+50809,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+50809,453267,Dichrorampha radicicolana,,eatenBy
+50809,472758,Pandemis dumetana,Thicket Twist,eatenBy
+50809,,Didymaeformia,,eatenBy
+50809,218925,Elaphria chalcedonia,Chalcedony Midget,eatenBy
+50809,,Cucullia verbasci,,eatenBy
+50809,,Cucullia scrophulariphila,,eatenBy
+50809,,Melitaea didyma,,eatenBy
+50809,,Melitaea trivia,,eatenBy
+50809,,Occidryas chalcedona,,eatenBy
+50809,451377,Cionus scrophulariae,Common Figwort Weevil,eatenBy
+50809,,Cionus alauda,,eatenBy
+50809,,Longitarsus nigrofasciatus,,eatenBy
+50809,,Longitarsus agilis,,eatenBy
+50809,,Cleopus pulchellus,,eatenBy
+50809,,Cionus tuberculosus,,eatenBy
+50809,,Cionus hortulanus,,eatenBy
+50809,,Phoma nebulosa,,eatenBy
+50809,,Pachyprotasis rapae,,eatenBy
+50809,,Pachyprotasis simulans,,eatenBy
+50809,,Longitarsus rutilus,,eatenBy
+50809,,Dolichovespula arenaria,,eatenBy
+50809,,Cucullia scrophulariae,,eatenBy
+50809,,Xylena exsoleta,,eatenBy
+50809,,Contarinia scrophulariae,,eatenBy
+50809,,Tenthredo scrophulariae,,eatenBy
+50809,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+50809,61356,Vespula,Ground Yellowjackets,pollinatedBy
+50809,127777,Vespula vulgaris,Common European Yellowjacket,pollinatedBy
+50809,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+50809,126155,Vespula germanica,German Yellowjacket,pollinatedBy

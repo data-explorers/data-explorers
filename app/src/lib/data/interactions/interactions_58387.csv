@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58387,59195,Lerodea eufala,Eufala Skipper,eatenBy
+58387,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+58387,3454,Zenaida macroura,Mourning Dove,eatenBy
+58387,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+58387,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+58387,9602,Quiscalus quiscula,Common Grackle,eatenBy
+58387,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+58387,203832,Euproctis,,eatenBy
+58387,,Ostrinia furnacalis,,eatenBy
+58387,,Eoreuma loftini,,eatenBy
+58387,,Mus sp.,,eatenBy
+58387,,North American deermouse,,eatenBy
+58387,153099,Telicota,,eatenBy
+58387,,Diatraea saccharalis,,eatenBy
+58387,,Leucania subpunctata,,eatenBy
+58387,,Euproctis lunata,,eatenBy
+58387,,Spodoptera frugiperda,,eatenBy
+58387,,Nastra neamathla,,eatenBy
+58387,,Nastra lherminier,,eatenBy
+58387,,Nyctelius nyctelius,,eatenBy
+58387,,Nastra julia,,eatenBy
+58387,,Ctenucha brunnea,,eatenBy
+58387,,Urbanus procne,,eatenBy
+58387,,Lerema accius,,eatenBy
+58387,,Sitobion avenae,,eatenBy
+58387,3460,Zenaida asiatica,White-winged Dove,eatenBy
+58387,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+58387,,Cyrtonyx montezumae,,eatenBy
+58387,,Callipepla gambelii,,eatenBy
+58387,6893,Dendrocygna autumnalis,Black-bellied Whistling-Duck,eatenBy

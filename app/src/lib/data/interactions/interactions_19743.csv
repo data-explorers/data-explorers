@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+19743,47158,Insecta,Insects,eats
+19743,3,Aves,Birds,eats
+19743,1,Animalia,Animals,eats
+19743,44349,Peromyscus,North American Deer Mice,eats
+19743,46342,Sorex,Long-tailed Shrews,eats
+19743,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+19743,44419,Reithrodontomys,American Harvest Mice,eats
+19743,44737,Neotoma,Woodrats,eats
+19743,44259,Microtus,Meadow Voles,eats
+19743,26172,Squamata,Snakes and Lizards,eats
+19743,44061,Thomomys,Western Pocket Gophers,eats
+19743,53816,Tenebrionidae,Darkling Beetles,eats
+19743,13858,Passer domesticus,House Sparrow,eats
+19743,14850,Sturnus vulgaris,European Starling,eats
+19743,44396,Peromyscus maniculatus,Deer Mouse,eats
+19743,61524,Forficula auricularia,European Earwig,eats
+19743,49567,Carabidae,Ground Beetles,eats
+19743,44311,Microtus pennsylvanicus,Meadow Vole,eats
+19743,40151,Mammalia,Mammals,eats
+19743,47186,Decapoda,Decapods,eats
+19743,48894,Scorpiones,Scorpions,eats
+19743,40268,Chiroptera,Bats,eats
+19743,47187,Malacostraca,Malacostracans,eats
+19743,47208,Coleoptera,Beetles,eats
+19743,26036,Reptilia,Reptiles,eats
+19743,47793,Dermaptera,Earwigs,eats
+19743,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+19743,7251,Passeriformes,Perching Birds,eats
+19743,47491,Annelida,Segmented Worms,eats
+19743,47120,Arthropoda,Arthropods,eats
+19743,47178,Actinopterygii,Ray-finned Fishes,eats
+19743,,Dipodomys,,eats
+19743,,Mus,,eats
+19743,179974,Spermophilus,Old World Ground Squirrels,eats
+19743,,Teleostei,,eats
+19743,,Perognathus,,eats
+19743,,Sorex vagrans,,eats
+19743,,Neotoma cinerea,,eats
+19743,44705,Mus musculus,House Mouse,eats
+19743,,Perognathus parvus,,eats
+19743,,Microtus montanus,,eats
+19743,43109,Sylvilagus nuttallii,Mountain Cottontail,eats
+19743,,Euchelicerata,,eats
+19743,,Thomomys townsendii,,eats
+19743,44124,Dipodomys ordii,Ord's Kangaroo Rat,eats
+19743,19893,Strix varia,Barred Owl,eatenBy
+19743,41663,Procyon lotor,Common Raccoon,eatenBy
+19743,20044,Bubo virginianus,Great Horned Owl,eatenBy
+19743,7823,Corvidae,"Crows, Jays, and Magpies",eatenBy
+19743,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+19743,19959,Strix occidentalis,Spotted Owl,eatenBy
+19743,,Pituophis melanoleucus,,eatenBy
+19743,5108,Accipiter gentilis,Northern Goshawk,eatenBy

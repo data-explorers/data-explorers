@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41478,85532,Mysida,Opossum Shrimps,eats
+41478,47827,Cancer,,eats
+41478,117606,Nephtyidae,Catworms,eats
+41478,47628,Amphipoda,Amphipods,eats
+41478,85493,Crustacea,Crustaceans,eats
+41478,144115,Cumacea,Hooded Shrimp,eats
+41478,123639,Spionidae,,eats
+41478,117571,Clupea pallasii,Pacific herring,eats
+41478,,Synisoma,,eats
+41478,193936,Yoldia,,eats
+41478,,Gammaridea,,eats
+41478,176058,Ampharetidae,,eats
+41478,337284,Opheliidae,,eats
+41478,171805,Tellina,,eats
+41478,43584,Homo sapiens,Human,eatenBy
+41478,41521,Orcinus orca,Orca,eatenBy
+41478,,Somniosus pacificus,,eatenBy
+41478,4141,Phoebastria nigripes,Black-footed Albatross,eatenBy
+41478,153112,Euphausiacea,krill,preysOn
+41478,117571,Clupea pallasii,Pacific herring,preysOn
+41478,,Cancer magister,,preysOn
+41478,41521,Orcinus orca,Orca,preyedUponBy

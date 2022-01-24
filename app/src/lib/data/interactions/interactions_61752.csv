@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61752,85493,Crustacea,Crustaceans,eats
+61752,1,Animalia,Animals,eats
+61752,52523,Carcinus maenas,European Green Crab,eats
+61752,47490,Polychaeta,Polychaete Worms,eats
+61752,48563,Triglidae,Searobins,eats
+61752,86396,Ammodytes,,eats
+61752,47290,Crangonidae,,eats
+61752,,Osteichthyes,,eats
+61752,47709,Pandalus,,eats
+61752,55396,Solea solea,Common Sole,eats
+61752,120553,Cancer pagurus,Edible Crab,eats
+61752,47525,Pleuronectidae,Righteye Flounders,eats
+61752,118601,Trisopterus luscus,Pouting,eats
+61752,195173,Macropipus,,eats
+61752,,Gnathostomata,,eats
+61752,,Pisces,,eats
+61752,91235,Pomatoschistus,,eats
+61752,118717,Callionymus lyra,Common dragonet,eats
+61752,118851,Crangon crangon,Brown Shrimp,eats
+61752,430553,Merlangius merlangus,Whiting,eats
+61752,55397,Soleidae,True Soles,eats
+61752,118717,Callionymus lyra,Common dragonet,preysOn
+61752,430553,Merlangius merlangus,Whiting,preysOn

@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+212047,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+212047,12716,Turdus merula,Eurasian Blackbird,eatenBy
+212047,,Laphria canis,,preyedUponBy

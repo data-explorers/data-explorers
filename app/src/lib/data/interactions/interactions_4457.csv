@@ -1,0 +1,88 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4457,47178,Actinopterygii,Ray-finned Fishes,eats
+4457,121639,Brachyura,True Crabs,eats
+4457,85777,Exocoetidae,Flyingfishes,eats
+4457,92583,Trachurus,Jack Mackerels,eats
+4457,85611,Atherinidae,Old World Silversides,eats
+4457,51912,Engraulis,,eats
+4457,47186,Decapoda,Decapods,eats
+4457,63770,Engraulis mordax,Northern Anchovy,eats
+4457,47459,Cephalopoda,Cephalopods,eats
+4457,85493,Crustacea,Crustaceans,eats
+4457,98855,Cymatogaster aggregata,Shiner Surfperch,eats
+4457,179533,Fundulus parvipinnis,California Killifish,eats
+4457,165100,Mallotus villosus,Capelin,eats
+4457,614162,Micromesistius australis,Southern blue whiting,eats
+4457,47525,Pleuronectidae,Righteye Flounders,eats
+4457,55535,Sardinops sagax,Pacific Sardine,eats
+4457,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4457,213402,Ammodytes americanus,American Sand Lance,eats
+4457,502271,Engraulis australis,Australian Anchovy,eats
+4457,228496,Pollachius virens,Pollock,eats
+4457,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4457,,Teuthida,,eats
+4457,86396,Ammodytes,,eats
+4457,254742,Astyris lunata,Lunate Dove Shell,eats
+4457,328042,Engraulis japonicus,Japanese Anchovy,eats
+4457,55398,Solea,,eats
+4457,324532,Sprattus sprattus,European Sprat,eats
+4457,97990,Clupea harengus,Atlantic Herring,eats
+4457,180029,Gadus macrocephalus,Pacific Cod,eats
+4457,82353,Merluccius,Hakes,eats
+4457,,Frigidoalvania cruenta,,eats
+4457,88265,Etrumeus,Red-eye Round Herrings,eats
+4457,118600,Sardina pilchardus,European Sardine,eats
+4457,82337,Loligo,,eats
+4457,,Etrumeus teres,,eats
+4457,87865,Decapterus,,eats
+4457,,Macruronus magellanicus,,eats
+4457,120702,Micromesistius poutassou,Blue Whiting,eats
+4457,,Kondakovia longimana,,eats
+4457,,Gnathostomata,,eats
+4457,447397,Engraulis anchoita,Argentine Anchoita,eats
+4457,63740,Gadus morhua,Atlantic Cod,eats
+4457,85289,Pseudophycis bachus,Red cod,eats
+4457,215318,Boreogadus saida,Arctic Cod,eats
+4457,51910,Engraulis encrasicolus,European Anchovy,eats
+4457,117571,Clupea pallasii,Pacific herring,eats
+4457,218966,Eleginus gracilis,Saffron Cod,eats
+4457,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4457,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+4457,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4457,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+4457,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4457,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+4457,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4457,146888,Illex,Shortfin Squids,eats
+4457,,Pisces,,eats
+4457,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4457,63770,Engraulis mordax,Northern Anchovy,preysOn
+4457,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+4457,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4457,,Nerocila californica,,preysOn
+4457,,trypanorynch,,preysOn
+4457,,Dilepididae,,preysOn
+4457,914144,Galactosomum,,preysOn
+4457,,Stictodora hancocki,,preysOn
+4457,,Mesostephanus appendiculatoides,,preysOn
+4457,117564,Clevelandia ios,Arrow Gobi,preysOn
+4457,209100,Gyrodactylus,,preysOn
+4457,339176,Renicola buchanani,,preysOn
+4457,,Spirocamallanus pereirai,,preysOn
+4457,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4457,,Trichodina,,preysOn
+4457,339183,Euhaplorchis californiensis,,preysOn
+4457,179533,Fundulus parvipinnis,California Killifish,preysOn
+4457,339182,Phocitremoides ovale,,preysOn
+4457,339174,Cyathocotylidae,,preysOn
+4457,,Ergasilus auritus,,preysOn
+4457,,Renicola cerithidicola,,preysOn
+4457,,Pygidiopsoides spindalis,,preysOn
+4457,117567,Spirinchus starksi,Night Smelt,preysOn
+4457,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4457,111467,Quietula y-cauda,Shadow Goby,preysOn
+4457,,Ilypnus gilberti,,preysOn
+4457,81963,Girella nigricans,Opaleye,preysOn
+4457,117563,Acanthogobius flavimanus,Yellowfin Goby,preysOn
+4457,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+4457,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy

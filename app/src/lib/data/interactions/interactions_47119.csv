@@ -1,0 +1,190 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47119,47822,Diptera,Flies,eats
+47119,51225,Tipulidae,Large Crane Flies,eats
+47119,47628,Amphipoda,Amphipods,eats
+47119,53275,Chironomidae,Non-biting Midges,eats
+47119,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+47119,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+47119,47157,Lepidoptera,Butterflies and Moths,eats
+47119,49470,Collembola,Springtails,eats
+47119,47336,Formicidae,Ants,eats
+47119,83201,Thysanoptera,Thrips,eats
+47119,48561,Cirsium,thistles,eats
+47119,67333,Bacteria,bacteria,eats
+47119,904362,Hemilucilia segmentaria,,eats
+47119,120921,Cochliomyia macellaria,Secondary Screwworm Fly,eats
+47119,700122,Lucilia eximia,,eats
+47119,,Paracoenia turbida,,eats
+47119,,Lamproscatella dichaeta,,eats
+47119,,Microcoelepis,,eats
+47119,52790,Mesostigmata,Mesostigs,eats
+47119,262721,Anystis baccarum,,eats
+47119,,P. turbida adults,,eats
+47119,,Microcoelepis sp.,,eats
+47119,,C.,,eats
+47119,,Eximia,,eats
+47119,,Agapanthia,,eats
+47119,203303,Empoasca fabae,Potato Leafhopper,eats
+47119,,Microfungi,,eats
+47119,,Detritus,,eats
+47119,14801,Sitta carolinensis,White-breasted Nuthatch,eatenBy
+47119,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+47119,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47119,9721,Geothlypis trichas,Common Yellowthroat,eatenBy
+47119,117095,Regulus calendula,Ruby-crowned Kinglet,eatenBy
+47119,4665,Falco sparverius,American Kestrel,eatenBy
+47119,16028,Myiarchus crinitus,Great Crested Flycatcher,eatenBy
+47119,49556,Chilopoda,Centipedes,eatenBy
+47119,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+47119,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+47119,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47119,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+47119,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+47119,7458,Certhia americana,Brown Creeper,eatenBy
+47119,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+47119,,Northern myotis,,eatenBy
+47119,13632,Baeolophus bicolor,Tufted Titmouse,eatenBy
+47119,17394,Vireo gilvus,Warbling Vireo,eatenBy
+47119,368117,Melanotaenia splendida,Eastern Rainbowfish,eatenBy
+47119,,Rediogobius bikolanus,,eatenBy
+47119,368587,Hypseleotris compressa,Empire Gudgeon,eatenBy
+47119,93797,Ambassis agassizii,Agassiz's Glassfish,eatenBy
+47119,49977,Danio rerio,Zebra Danio,eatenBy
+47119,97280,Channa striata,Striped Snakehead,eatenBy
+47119,107366,Odontostilbe fugitiva,,eatenBy
+47119,53520,Synbranchus marmoratus,Marbled Swamp Eel,eatenBy
+47119,53692,Oncorhynchus kisutch,Coho Salmon,eatenBy
+47119,105565,Membras martinica,Rough silverside,eatenBy
+47119,105567,Menidia beryllina,Inland Silverside,eatenBy
+47119,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+47119,17943,Dendrocopos leucotos,White-backed Woodpecker,eatenBy
+47119,,Dendrocopos minor,,eatenBy
+47119,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+47119,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+47119,101057,Fundulus grandis,Gulf Killifish,eatenBy
+47119,1023724,Stegastes variabilis,Brazilian Cocoa Damselfish,eatenBy
+47119,74602,Micronycteris microtis,Common Big-eared Bat,eatenBy
+47119,553515,Rhinella marina,Cane Toad,eatenBy
+47119,41720,Erignathus barbatus,Bearded Seal,eatenBy
+47119,36432,Anolis gingivinus,Anguilla Anole,eatenBy
+47119,,Apodiformes,,eatenBy
+47119,,Grassquit,,eatenBy
+47119,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+47119,,Dendroica petechia,,eatenBy
+47119,,Elaenia,,eatenBy
+47119,36582,Anolis pogus,bearded anole,eatenBy
+47119,,Barbus,,eatenBy
+47119,95605,Bedotia masoala,,eatenBy
+47119,610027,Cetopsis oliveirai,,eatenBy
+47119,610823,Mimagoniates rheocharis,,eatenBy
+47119,608817,Auchenipterichthys punctatus,,eatenBy
+47119,611006,Ptychocharax rhyacophila,,eatenBy
+47119,371594,Iheringichthys labrosus,,eatenBy
+47119,410561,Retropinna retropinna,New Zealand Common Smelt,eatenBy
+47119,,Arrhamphus krefftii,,eatenBy
+47119,,Rivulus hartii,,eatenBy
+47119,491991,Caquetaia kraussii,Krauss' Basketmouth,eatenBy
+47119,620752,Pygocentrus cariba,Black Spot Piranha,eatenBy
+47119,109315,Phoxinus phoxinus,European Minnow,eatenBy
+47119,179511,Astyanax fasciatus,Banded Astyanax,eatenBy
+47119,516329,Astyanax bimaculatus,Twospot Astyanax,eatenBy
+47119,104952,Lythrurus ardens,Rosefin shiner,eatenBy
+47119,187244,Clupeichthys aesarnensis,Thai River Sprat,eatenBy
+47119,368795,Ambassis agrammus,Sailfin Glassfish,eatenBy
+47119,180181,Lycengraulis grossidens,Atlantic Sabretooth Anchovy,eatenBy
+47119,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+47119,461979,Canthidermis macrolepis,Large-scale Triggerfish,eatenBy
+47119,97986,Clinostomus funduloides,Rosyside Dace,eatenBy
+47119,47518,Salmo trutta,Brown Trout,eatenBy
+47119,109013,Pelecus cultratus,Ziege,eatenBy
+47119,91345,Prosopium,Freshwater Whitefishes,eatenBy
+47119,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+47119,188582,Trichopodus pectoralis,Snakeskin gourami,eatenBy
+47119,107888,Oreochromis mortimeri,Kariba Tilapia,eatenBy
+47119,611164,Aequidens gerciliae,,eatenBy
+47119,114127,Thymallus thymallus,Grayling,eatenBy
+47119,61387,Limanda limanda,Sand Dab,eatenBy
+47119,72502,Anas chlorotis,Brown Teal,eatenBy
+47119,145249,Setophaga discolor,Prairie Warbler,eatenBy
+47119,10442,Limnothlypis swainsonii,Swainson's Warbler,eatenBy
+47119,793289,Ammospiza caudacuta,Saltmarsh Sparrow,eatenBy
+47119,9611,Leucosticte atrata,Black Rosy-Finch,eatenBy
+47119,7067,Tadorna tadorna,Common Shelduck,eatenBy
+47119,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+47119,81923,Halyomorpha halys,Brown Marmorated Stink Bug,preysOn
+47119,94557,Argia moesta,Powdered Dancer,preysOn
+47119,99912,Enallagma geminatum,Skimming Bluet,preysOn
+47119,47822,Diptera,Flies,preysOn
+47119,48561,Cirsium,thistles,preysOn
+47119,47628,Amphipoda,Amphipods,preysOn
+47119,51225,Tipulidae,Large Crane Flies,preysOn
+47119,53275,Chironomidae,Non-biting Midges,preysOn
+47119,54960,Nematoda,Nematodes,preysOn
+47119,99892,Enallagma basidens,Double-striped Bluet,preysOn
+47119,94551,Argia immunda,Kiowa Dancer,preysOn
+47119,,Erythemis vesiculosa,,preysOn
+47119,111129,Pseudothemis zonata,Pied Skimmer,preysOn
+47119,61495,Erythemis simplicicollis,Eastern Pondhawk,preysOn
+47119,203303,Empoasca fabae,Potato Leafhopper,preysOn
+47119,,P. turbida adults,,preysOn
+47119,,Microcoelepis sp.,,preysOn
+47119,,Lamproscatella dichaeta,,preysOn
+47119,,C.,,preysOn
+47119,,Agapanthia,,preysOn
+47119,133790,Chalybion californicum,Nearctic Blue Mud-dauber Wasp,preyedUponBy
+47119,16779,Tyrannus vociferans,Cassin's Kingbird,preyedUponBy
+47119,144815,Poecile atricapillus,Black-capped Chickadee,preyedUponBy
+47119,14801,Sitta carolinensis,White-breasted Nuthatch,preyedUponBy
+47119,16028,Myiarchus crinitus,Great Crested Flycatcher,preyedUponBy
+47119,891704,Vireo olivaceus,Red-eyed Vireo,preyedUponBy
+47119,9721,Geothlypis trichas,Common Yellowthroat,preyedUponBy
+47119,47208,Coleoptera,Beetles,preyedUponBy
+47119,47114,Gastropoda,Gastropods,preyedUponBy
+47119,27289,Chionactis occipitalis,Mohave Shovel-Nosed Snake,preyedUponBy
+47119,29353,Natriciteres variegata,Variable Marsh Snake,preyedUponBy
+47119,27282,Chionactis palarostris,Sonoran Shovel-nosed Snake,preyedUponBy
+47119,26928,Conopsis biserialis,Two-lined Mexican Earth Snake,preyedUponBy
+47119,29358,Natriciteres fuliginoides,Marsh Snake,preyedUponBy
+47119,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+47119,27302,Chilomeniscus stramineus,Sand Snake,preyedUponBy
+47119,,Rediogobius bikolanus,,preyedUponBy
+47119,93797,Ambassis agassizii,Agassiz's Glassfish,preyedUponBy
+47119,,Picoides villosus,,preyedUponBy
+47119,204497,Cracticus torquatus,Grey Butcherbird,preyedUponBy
+47119,7462,Certhia brachydactyla,Short-toed Treecreeper,preyedUponBy
+47119,7697,Cisticola juncidis,Zitting Cisticola,preyedUponBy
+47119,338504,Xanthocnemis zealandica,Red Damselfly,preyedUponBy
+47119,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy
+47119,368587,Hypseleotris compressa,Empire Gudgeon,preyedUponBy
+47119,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+47119,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+47119,,Hypsugo bodenheimeri,,preyedUponBy
+47119,183176,Asellia tridens,Geoffroy's Trident Leaf-nosed Bat,preyedUponBy
+47119,,Hypsugo cadornae,,preyedUponBy
+47119,40625,Ia io,Great Evening Bat,preyedUponBy
+47119,40576,Nyctalus lasiopterus,Giant Noctule,preyedUponBy
+47119,40304,Myotis pequinius,Peking myotis,preyedUponBy
+47119,40272,Myotis macrodactylus,big-footed myotis,preyedUponBy
+47119,74717,Myotis punicus,Felten's myotis,preyedUponBy
+47119,,Artibeus jamaicensis,,preyedUponBy
+47119,1150085,Myotis myotis,,preyedUponBy
+47119,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+47119,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+47119,13632,Baeolophus bicolor,Tufted Titmouse,preyedUponBy
+47119,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+47119,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+47119,,Aranae,,preyedUponBy
+47119,,Family Staphylinidae,,preyedUponBy
+47119,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+47119,124432,Deroceras reticulatum,Milky Slug,preyedUponBy
+47119,130638,Bembidion lampros,,preyedUponBy
+47119,,Platynus assimilis,,preyedUponBy
+47119,,Family Theriidae,,preyedUponBy
+47119,131819,Loricera pilicornis,,preyedUponBy
+47119,,Family Linyphiidae,,preyedUponBy
+47119,,Nebria brevicollis,,preyedUponBy
+47119,491922,Oxypselaphus obscurus,,preyedUponBy
+47119,,Family Pselaphidae,,preyedUponBy
+47119,,Order Pseudoscorpionidae,,preyedUponBy
+47119,,Family Lithobiidae,,preyedUponBy
+47119,,Pterostichus diligens,,preyedUponBy

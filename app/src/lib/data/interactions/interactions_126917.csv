@@ -1,0 +1,228 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126917,67333,Bacteria,bacteria,eats
+126917,123880,Bacillariophyceae,Diatoms,eats
+126917,118996,Ciliophora,Ciliates,eats
+126917,126917,Rotifera,Rotifers,eats
+126917,,nannoplankton,,eats
+126917,,Phytoplankton,,eats
+126917,,bacterioplankton,,eats
+126917,,particulate organic matter,,eats
+126917,,Detritus,,eats
+126917,,Algae,,eats
+126917,,Small coccal algae,,eats
+126917,,Filamentous blue and green algae,,eats
+126917,,Heterotrophic bacteria,,eats
+126917,,Heterotrophic nanoflagellates,,eats
+126917,,Autotrophic picoplankton,,eats
+126917,,Larger ciliates (omnivore),,eats
+126917,,Large single-cell algae or colonies,,eats
+126917,,Single-cell algae,,eats
+126917,,Carnivorous Crustaceans,,eats
+126917,,Pisces,,eats
+126917,,Herbivorous Crustaceans,,eats
+126917,,Nanoflagellates and ciliates,,eats
+126917,,algae - bacteria - detritus,,eats
+126917,47158,Insecta,Insects,eatenBy
+126917,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+126917,57861,Utricularia,Bladderworts,eatenBy
+126917,121643,Copepoda,Copepods,eatenBy
+126917,126917,Rotifera,Rotifers,eatenBy
+126917,67333,Bacteria,bacteria,eatenBy
+126917,118996,Ciliophora,Ciliates,eatenBy
+126917,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+126917,53911,Cyprinus carpio,European Carp,eatenBy
+126917,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+126917,246877,Asplanchna,,eatenBy
+126917,244267,Cyclops,,eatenBy
+126917,129900,Chaoborus flavicans,,eatenBy
+126917,,Zooplankton,,eatenBy
+126917,88205,Epischura,,eatenBy
+126917,,Chaoborus,,eatenBy
+126917,247968,Hexatoma,,eatenBy
+126917,,Heteroscope,,eatenBy
+126917,,Palaemonetes paludosus,,eatenBy
+126917,,Acetes intermedius,,eatenBy
+126917,,Phytoplankton,,eatenBy
+126917,,Mostly cladocerans (daphnids),,eatenBy
+126917,,Cephalaspidomorphi,,eatenBy
+126917,60395,Branchiopoda,Branchiopods,eatenBy
+126917,,HNF,,eatenBy
+126917,,Dreissenid mussels,,eatenBy
+126917,49237,Alosa,Anadromous Shads,eatenBy
+126917,608841,Entomocorus radiosus,,eatenBy
+126917,491991,Caquetaia kraussii,Krauss' Basketmouth,eatenBy
+126917,,Barbus longiceps,,eatenBy
+126917,,Arrhamphus krefftii,,eatenBy
+126917,,Astatotilapia burtoni,,eatenBy
+126917,,Thynnichthys sandkhol,,eatenBy
+126917,,Tor tor,,eatenBy
+126917,106797,Neolebias trewavasae,,eatenBy
+126917,179511,Astyanax fasciatus,Banded Astyanax,eatenBy
+126917,,Astyanax schubarti,,eatenBy
+126917,516329,Astyanax bimaculatus,Twospot Astyanax,eatenBy
+126917,95811,Blicca bjoerkna,Silver Bream,eatenBy
+126917,,Xyrauchen texanus,,eatenBy
+126917,,Chrysichthys nigrodigitatus,,eatenBy
+126917,,Oreochromis niloticus,,eatenBy
+126917,,Nematalosa nasus,,eatenBy
+126917,,Liza falcipinnis,,eatenBy
+126917,,Liza dumerili,,eatenBy
+126917,,Ehirava fluviatilis,,eatenBy
+126917,100359,Erimyzon oblongus,Eastern Creek Chubsucker,eatenBy
+126917,93704,Alosa fallax,Twaite Shad,eatenBy
+126917,98434,Coregonus albula,European Cisco,eatenBy
+126917,49229,Alosa alosa,Allis Shad,eatenBy
+126917,55533,Chanos chanos,Milkfish,eatenBy
+126917,51910,Engraulis encrasicolus,European Anchovy,eatenBy
+126917,,Liza ramada,,eatenBy
+126917,118671,Sparus aurata,Gilthead Seabream,eatenBy
+126917,,Liza saliens,,eatenBy
+126917,206811,Tetrapleurodon geminis,Jacona Lamprey,eatenBy
+126917,607562,Tetrapleurodon spadiceus,Chapala Lamprey,eatenBy
+126917,,Siluranodon auritus,,eatenBy
+126917,,Caspiosoma caspium,,eatenBy
+126917,,Tenualosa reevesii,,eatenBy
+126917,222067,Hypomesus nipponensis,Japanese Pond Smelt,eatenBy
+126917,,Konosirus punctatus,,eatenBy
+126917,,Hoplosternum littorale,,eatenBy
+126917,,Tilapia rendalli,,eatenBy
+126917,,Phalloptychus januarius,,eatenBy
+126917,,Poecilia vivipara,,eatenBy
+126917,,Xenocypris argentea,,eatenBy
+126917,,Pseudorasbora parva,,eatenBy
+126917,109321,Phractolaemus ansorgii,Hingemouth,eatenBy
+126917,,Liza aurata,,eatenBy
+126917,106222,Mugil cephalus,Sea Mullet,eatenBy
+126917,49614,Lepomis gibbosus,Pumpkinseed,eatenBy
+126917,104840,Luciobarbus guiraonis,Eastern Iberian barbel,eatenBy
+126917,69989,Rutilus rutilus,Common Roach,eatenBy
+126917,,Acanthobrama terraesanctae,,eatenBy
+126917,,Barbus bifrenatus,,eatenBy
+126917,,Barbus toppini,,eatenBy
+126917,,Barbus,,eatenBy
+126917,,Barbus paludinosus,,eatenBy
+126917,,Haplochromis kamiranzovu,,eatenBy
+126917,102227,Haplochromis olivaceus,Olive Kivu Haplo,eatenBy
+126917,564361,Megalechis picta,Bartail Hoplo,eatenBy
+126917,,Callichthys callichthys,,eatenBy
+126917,,Labeo calbasu,,eatenBy
+126917,,Oreochromis mweruensis,,eatenBy
+126917,,Pollimyrus adspersus,,eatenBy
+126917,,Brevimyrus niger,,eatenBy
+126917,121307,Petrocephalus bovei,,eatenBy
+126917,621963,Triportheus angulatus,,eatenBy
+126917,620747,Mylossoma aureum,,eatenBy
+126917,610461,Ctenobrycon hauxwellianus,,eatenBy
+126917,99545,Dorosoma petenense,Threadfin Shad,eatenBy
+126917,,Leuciscus leuciscus,,eatenBy
+126917,,Squalius cephalus,,eatenBy
+126917,93611,Alburnus alburnus,Bleak,eatenBy
+126917,,Pungitius pungitius,,eatenBy
+126917,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+126917,344748,Pomatoschistus minutus,Sand Goby,eatenBy
+126917,109062,Perca fluviatilis,European Perch,eatenBy
+126917,97990,Clupea harengus,Atlantic Herring,eatenBy
+126917,67333,Bacteria,bacteria,preysOn
+126917,118996,Ciliophora,Ciliates,preysOn
+126917,,Heterotrophic bacteria,,preysOn
+126917,,Mesocyclops,,preysOn
+126917,47158,Insecta,Insects,preyedUponBy
+126917,121643,Copepoda,Copepods,preyedUponBy
+126917,118996,Ciliophora,Ciliates,preyedUponBy
+126917,67333,Bacteria,bacteria,preyedUponBy
+126917,81634,Mya arenaria,Soft-shelled Clam,preyedUponBy
+126917,118832,Semibalanus balanoides,Northern Acorn Barnacle,preyedUponBy
+126917,329118,Sapphirina,,preyedUponBy
+126917,203466,Idotea balthica,Baltic Isopod,preyedUponBy
+126917,256083,Liriope tetraphylla,,preyedUponBy
+126917,55025,Anomia,,preyedUponBy
+126917,48478,Chrysaora quinquecirrha,Atlantic Sea Nettle,preyedUponBy
+126917,117650,Mytilus edulis,Blue Mussel,preyedUponBy
+126917,349374,Rhopilema verrilli,Mushroom Jelly,preyedUponBy
+126917,69838,Cyanea capillata,Lion's Mane Jelly,preyedUponBy
+126917,180788,Mnemiopsis leidyi,Common Comb Jelly,preyedUponBy
+126917,244267,Cyclops,,preyedUponBy
+126917,246877,Asplanchna,,preyedUponBy
+126917,,Cephalaspidomorphi,,preyedUponBy
+126917,60395,Branchiopoda,Branchiopods,preyedUponBy
+126917,,Dreissenid mussels,,preyedUponBy
+126917,49237,Alosa,Anadromous Shads,preyedUponBy
+126917,,Heteroscope,,preyedUponBy
+126917,,Diaphanosoma leuchtenbergia,,preyedUponBy
+126917,1003858,Ilyocryptus spinifer,,preyedUponBy
+126917,483862,Latona setifera,,preyedUponBy
+126917,1110969,Lathonura rectirostris,,preyedUponBy
+126917,533824,Ceriodaphnia lacustris,,preyedUponBy
+126917,,Labidocera wollastoni,,preyedUponBy
+126917,,Daphnia pulex,,preyedUponBy
+126917,87923,Diaptomus,,preyedUponBy
+126917,,Pontella meadi,,preyedUponBy
+126917,219884,Eurytemora affinis,,preyedUponBy
+126917,950701,Eurytemora americana,,preyedUponBy
+126917,626372,Daphnia retrocurva,,preyedUponBy
+126917,1297371,Bosmina coregoni,baltic long-nosed waterflea,preyedUponBy
+126917,,Daphnia lumholtzi,,preyedUponBy
+126917,203478,Evadne,,preyedUponBy
+126917,329012,Centropages furcatus,,preyedUponBy
+126917,,Alonella,,preyedUponBy
+126917,,Subeucalanus pileatus,,preyedUponBy
+126917,201774,Paracalanus,,preyedUponBy
+126917,71252,Macoma,,preyedUponBy
+126917,203471,Centropages hamatus,,preyedUponBy
+126917,1281933,Monoculodes,,preyedUponBy
+126917,,Ischadium recurvum,,preyedUponBy
+126917,,Paracalanus crassirostris,,preyedUponBy
+126917,,Stenothoe minuta,,preyedUponBy
+126917,,Coullana canadensis,,preyedUponBy
+126917,1232815,Microprotopus raneyi,,preyedUponBy
+126917,,Macoma tenta,,preyedUponBy
+126917,,Pontella meadii,,preyedUponBy
+126917,212213,Acanthocyclops vernalis,,preyedUponBy
+126917,168927,Sida crystallina,,preyedUponBy
+126917,338145,Diaphanosoma,,preyedUponBy
+126917,248382,Lembos,,preyedUponBy
+126917,203397,Acartia tonsa,,preyedUponBy
+126917,248413,Bowmaniella,,preyedUponBy
+126917,151644,Mytilopsis leucophaeata,Dark Falsemussel,preyedUponBy
+126917,567474,Acartia hudsonica,,preyedUponBy
+126917,1080182,Picripleuroxus striatus,,preyedUponBy
+126917,493544,Diacyclops thomasi,,preyedUponBy
+126917,,Macoma balthica,,preyedUponBy
+126917,1023036,Heteromysis formosa,,preyedUponBy
+126917,260807,Rudilemboides naglei,,preyedUponBy
+126917,,Pleusymtes glaber,,preyedUponBy
+126917,201760,Nannocalanus,,preyedUponBy
+126917,,Ensis directus,,preyedUponBy
+126917,338141,Chydorus,,preyedUponBy
+126917,,Paralaophonte brevirostris,,preyedUponBy
+126917,64646,Jassa falcata,Mottled Tubemaker,preyedUponBy
+126917,483880,Alona costata,,preyedUponBy
+126917,260810,Batea catharinensis,,preyedUponBy
+126917,1349347,Tisbe furcata,,preyedUponBy
+126917,,Balanus subalbius,,preyedUponBy
+126917,483834,Ceriodaphnia quadrangula,,preyedUponBy
+126917,209052,Monocorophium insidiosum,,preyedUponBy
+126917,567473,Tortanus discaudatus,,preyedUponBy
+126917,171609,Simocephalus,,preyedUponBy
+126917,,Ectinosoma compressum,,preyedUponBy
+126917,208873,Noetia ponderosa,Ponderous Ark,preyedUponBy
+126917,196326,Lunarca ovalis,Blood Ark,preyedUponBy
+126917,203400,Cyathura polita,,preyedUponBy
+126917,329109,Oncaea,,preyedUponBy
+126917,,Edotia triloba,,preyedUponBy
+126917,,Cyclops vernalis,,preyedUponBy
+126917,1023066,Labidocera aestiva,,preyedUponBy
+126917,201724,Temora stylifera,,preyedUponBy
+126917,248417,Metamysidopsis,,preyedUponBy
+126917,,Leptinogaster major,,preyedUponBy
+126917,984261,Temora turbinata,,preyedUponBy
+126917,,Photis reinhardi,,preyedUponBy
+126917,,Harpacticus chelifer,,preyedUponBy
+126917,,Ectocyclops phaleratus,,preyedUponBy
+126917,954167,Gammarus daiberi,,preyedUponBy
+126917,,Pararobertsonia chesapeakensis,,preyedUponBy
+126917,1196588,Corycaeus crassiusculus,,preyedUponBy
+126917,472067,Penilia avirostris,,preyedUponBy
+126917,,Diosaccus tenuicornis,,preyedUponBy
+126917,483871,Leydigia leydigi,,preyedUponBy
+126917,,Macoma phenax,,preyedUponBy

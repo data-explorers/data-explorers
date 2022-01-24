@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118991,949,Lagopus muta,Rock Ptarmigan,eatenBy
+118991,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+118991,178226,Eucryphia cordifolia,Ulmo,pollinates
+118991,,Amomyrtus meli,,pollinates
+118991,,Myrceugenia parvifolia,,pollinates
+118991,855444,Myrceugenia ovata,,pollinates
+118991,410654,Amomyrtus luma,Luma,pollinates
+118991,77844,Luma apiculata,arrayan,pollinates
+118991,335546,Caldcluvia paniculata,,pollinates
+118991,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy

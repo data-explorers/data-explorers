@@ -1,0 +1,114 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83072,,Ligustru vulgare,,eats
+83072,42069,Vulpes vulpes,Red Fox,eatenBy
+83072,14850,Sturnus vulgaris,European Starling,eatenBy
+83072,13858,Passer domesticus,House Sparrow,eatenBy
+83072,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+83072,50786,Vanessa annabella,West Coast Lady,eatenBy
+83072,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+83072,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+83072,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+83072,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+83072,143854,Bombus borealis,Northern Amber Bumble Bee,eatenBy
+83072,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+83072,58531,Colias philodice,Clouded Sulphur,eatenBy
+83072,,Macrophya punctumalbum,,eatenBy
+83072,,Xyleborus monographus,,eatenBy
+83072,13094,Erithacus rubecula,European Robin,eatenBy
+83072,,Phoenicurus ochruros,,eatenBy
+83072,,Luscinia megarhynchos,,eatenBy
+83072,855297,Meles meles,European Badger,eatenBy
+83072,12716,Turdus merula,Eurasian Blackbird,eatenBy
+83072,13141,Monticola solitarius,Blue Rock-Thrush,eatenBy
+83072,15303,Sylvia undata,Dartford Warbler,eatenBy
+83072,,Oriolus oriolus,,eatenBy
+83072,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+83072,891696,Pica pica,Eurasian Magpie,eatenBy
+83072,,Sylvia cantillans,,eatenBy
+83072,43042,Erinaceus europaeus,Common Hedgehog,eatenBy
+83072,,Sylvia communis,,eatenBy
+83072,,Sylvia,,eatenBy
+83072,41800,Martes foina,Stone Marten,eatenBy
+83072,,Ficedula hypoleuca,,eatenBy
+83072,15302,Sylvia borin,Garden Warbler,eatenBy
+83072,,Phoenicurus phoenicurus,,eatenBy
+83072,55371,Saxicola torquatus,African Stonechat,eatenBy
+83072,,Turdus iliacus,,eatenBy
+83072,12748,Turdus philomelos,Song Thrush,eatenBy
+83072,,Sylvia melanocephala,,eatenBy
+83072,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+83072,,Columba palumbus,,eatenBy
+83072,144812,Poecile montanus,Willow Tit,eatenBy
+83072,145360,Chloris chloris,European Greenfinch,eatenBy
+83072,,Garrulus glandarius,,eatenBy
+83072,,Regulus ignicapilla,,eatenBy
+83072,,Phylloscopus,,eatenBy
+83072,,Cyanistes caeruleus,,eatenBy
+83072,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+83072,,Parus major,,eatenBy
+83072,,Troglodytes troglodytes,,eatenBy
+83072,,Hippolais icterina,,eatenBy
+83072,,Setophaga striata,,eatenBy
+83072,,Passer montanus,,eatenBy
+83072,,Fringilla montifringilla,,eatenBy
+83072,,Poecile palustris,,eatenBy
+83072,,Emberiza citrinella,,eatenBy
+83072,,Coccothraustes coccothraustes,,eatenBy
+83072,,Sylvia curruca,,eatenBy
+83072,12735,Turdus viscivorus,Mistle Thrush,eatenBy
+83072,12707,Turdus pilaris,Fieldfare,eatenBy
+83072,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+83072,,Columba oenas,,eatenBy
+83072,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+83072,,Dendrocopos medius,,eatenBy
+83072,201282,Gallinula chloropus,Common Moorhen,eatenBy
+83072,,Aegithalos caudatus,,eatenBy
+83072,204496,Corvus corone,Carrion Crow,eatenBy
+83072,,Picus viridis,,eatenBy
+83072,12740,Turdus torquatus,Ring Ouzel,eatenBy
+83072,,Papilio troilus,,eatenBy
+83072,,Papilio canadensis,,eatenBy
+83072,,Euphydryas maturna,,eatenBy
+83072,,Capreolus capreolus italicus,,eatenBy
+83072,,Psittacula krameri,,eatenBy
+83072,,Myodes glareolus,,eatenBy
+83072,,Peniophora cinerea,,eatenBy
+83072,,Phellinus pomaceus,,eatenBy
+83072,,Inonotus radiatus,,eatenBy
+83072,,Chionaspis salicis,,eatenBy
+83072,,Diatrype stigma,,eatenBy
+83072,,Orsodacne cerasi,,eatenBy
+83072,,Camarosporium syringiae,,eatenBy
+83072,,Phoma syringae,,eatenBy
+83072,,Tenthredo vespa,,eatenBy
+83072,,Cytospora syringiae,,eatenBy
+83072,,Phomopsis depressa,,eatenBy
+83072,,Otiorhynchus (Tournieria) crataegi,,eatenBy
+83072,321981,Pandemis heparana,Dark Fruit-tree Tortrix,eatenBy
+83072,,Hyalophora columbia,,eatenBy
+83072,,Hyalophora euryalus,,eatenBy
+83072,,Rothschildia lebeau,,eatenBy
+83072,,Ludia delegorguei,,eatenBy
+83072,,Samia cynthia,,eatenBy
+83072,,Sphinx drupiferarum,,eatenBy
+83072,,Sphinx perelegans,,eatenBy
+83072,126568,Manduca rustica,Rustic Sphinx,eatenBy
+83072,,Paonias myops,,eatenBy
+83072,,Callosamia promethea,,eatenBy
+83072,,Attacus caesar,,eatenBy
+83072,,Coscinocera hercules,,eatenBy
+83072,,Automeris rubrescens,,eatenBy
+83072,,Automeris aurantiaca,,eatenBy
+83072,,Leucanella leucane,,eatenBy
+83072,48662,Danaus plexippus,Monarch,pollinatedBy
+83072,56832,Nymphalis antiopa,Mourning Cloak,pollinatedBy
+83072,,Oxycetonia jucunda ,,pollinatedBy
+83072,,Eurystylus coelestialium ,,pollinatedBy
+83072,,Anthrenus verbasci ,,pollinatedBy
+83072,,,,pollinatedBy
+83072,,Nonartha cyaneum ,,pollinatedBy
+83072,,Bruchidius dorsalis ,,pollinatedBy
+83072,,Mordellistena,,pollinatedBy
+83072,,Carpophilus chalybeus ,,pollinatedBy
+83072,129219,Euphoria fulgida,Emerald Euphoria,pollinatedBy
+83072,,Papilio canadensis,,pollinatedBy

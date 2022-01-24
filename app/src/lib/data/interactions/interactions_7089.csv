@@ -1,0 +1,73 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7089,55745,Trifolium repens,white clover,eats
+7089,211194,Tracheophyta,vascular plants,eats
+7089,57057,Medicago sativa,Alfalfa,eats
+7089,47434,Poaceae,grasses,eats
+7089,64161,Triticum aestivum,Bread Wheat,eats
+7089,47162,Poales,"grasses, sedges, cattails, and allies",eats
+7089,51876,Trifolium,clovers,eats
+7089,58389,Sorghum bicolor,Sorghum,eats
+7089,47124,Magnoliopsida,dicots,eats
+7089,56955,Helianthus,sunflowers,eats
+7089,79317,Taraxacum erythrospermum,red-seeded dandelion,eats
+7089,57190,Phleum pratense,Timothy grass,eats
+7089,52809,Poa,Meadow-grasses,eats
+7089,47746,Equisetum,horsetails,eats
+7089,47161,Cyperaceae,sedges,eats
+7089,1,Animalia,Animals,eats
+7089,48571,Carex,true sedges,eats
+7089,133387,Ericaceae,heath family,eats
+7089,4385,Larus californicus,California Gull,eats
+7089,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+7089,60304,Paspalum,Paspalum,eats
+7089,58371,Cynodon dactylon,Bermuda grass,eats
+7089,75732,Bacopa monnieri,Herb-of-Grace,eats
+7089,47603,Taraxacum,dandelions,eats
+7089,47178,Actinopterygii,Ray-finned Fishes,eats
+7089,50863,Chlorophyta,green algae,eats
+7089,47158,Insecta,Insects,eats
+7089,48448,Zea mays,Maize,eats
+7089,48688,Setaria pumila,yellow foxtail,eats
+7089,,Glycine max,,eats
+7089,,Triglochin palustris,,eats
+7089,,Plantago maritima,,eats
+7089,,Sparganium,,eats
+7089,,Eleocharis,,eats
+7089,,Algae,,eats
+7089,54687,Phyllocladus trichomanoides,celery pine,eats
+7089,,Aristotelia fruticosa,,eats
+7089,,Coprosma perpusilla,,eats
+7089,,Gaultheria depressa,,eats
+7089,,Cyathodes fraseri,,eats
+7089,,Acrothamnus colensoi,,eats
+7089,,Gaultheria crassa,,eats
+7089,,Pentachondra pumila,,eats
+7089,135702,Podocarpus nivalis,snow totara,eats
+7089,,Coprosma propinqua,,eats
+7089,,Muehlenbeckia axillaris,,eats
+7089,,Coprosma petriei,,eats
+7089,52614,Zostera marina,Eelgrass,eats
+7089,7024,Somateria mollissima,Common Eider,eats
+7089,117571,Clupea pallasii,Pacific herring,eats
+7089,8021,Corvus brachyrhynchos,American Crow,eatenBy
+7089,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+7089,43584,Homo sapiens,Human,eatenBy
+7089,8010,Corvus corax,Common Raven,eatenBy
+7089,41880,Mephitis mephitis,Striped Skunk,eatenBy
+7089,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+7089,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+7089,42054,Vulpes,Typical Foxes,eatenBy
+7089,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+7089,6930,Anas platyrhynchos,Mallard,eatenBy
+7089,4756,Cathartes aura,Turkey Vulture,eatenBy
+7089,1264432,Neogale vison,American Mink,eatenBy
+7089,,Canis lupus familiaris,,eatenBy
+7089,41644,Ursus maritimus,Polar Bear,eatenBy
+7089,,Aquila chrysaetos,,eatenBy
+7089,144594,Bubo scandiacus,Snowy Owl,eatenBy
+7089,204533,Larus argentatus,Herring Gull,eatenBy
+7089,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+7089,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+7089,43584,Homo sapiens,Human,preyedUponBy
+7089,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+7089,,Corvus cornix,,preyedUponBy

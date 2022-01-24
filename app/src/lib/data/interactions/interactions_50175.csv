@@ -1,0 +1,139 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50175,247660,Polypedilum,,eats
+50175,121643,Copepoda,Copepods,eats
+50175,333586,Oligochaeta,Earthworms and allies,eats
+50175,53275,Chironomidae,Non-biting Midges,eats
+50175,50175,Enallagma,Bluets,eats
+50175,788190,Paratarsotomus macropalpis,,eats
+50175,247737,Larsia,,eats
+50175,247694,Ablabesmyia,,eats
+50175,247741,Procladius,,eats
+50175,174181,Corynoneura,,eats
+50175,247719,Djalmabatista,,eats
+50175,1011286,Chaetocladius,,eats
+50175,130980,Clinotanypus,,eats
+50175,120561,Cricotopus,,eats
+50175,475373,Guttipelopia,,eats
+50175,126613,Glyptotendipes,,eats
+50175,,Ophryoxus gracilis,,eats
+50175,376084,Cryptochironomus,,eats
+50175,294394,Chaoborus punctipennis,,eats
+50175,338141,Chydorus,,eats
+50175,688301,Scapholeberis kingi,,eats
+50175,,Acanthocyclops,,eats
+50175,247658,Paratanytarsus,,eats
+50175,378586,Xenochironomus,,eats
+50175,,Disparalona acutirostris,,eats
+50175,472252,Paratendipes,,eats
+50175,247650,Parachironomus,,eats
+50175,,Macrocyclops albidus,,eats
+50175,,Alona quadrangularis,,eats
+50175,,Alona rustica,,eats
+50175,,Alona affinis,,eats
+50175,,Alona intermedia,,eats
+50175,480716,Eucyclops serrulatus,,eats
+50175,247662,Stenochironomus,,eats
+50175,345325,Micropsectra,,eats
+50175,,Acantholeberis curvirostris,,eats
+50175,247596,Cladopelma,,eats
+50175,247665,Tanytarsus,,eats
+50175,366249,Nanocladius,,eats
+50175,366243,Microtendipes,,eats
+50175,492986,Pseudochironomus,,eats
+50175,168927,Sida crystallina,,eats
+50175,,Microcyclops rubellus,,eats
+50175,86355,Alona,,eats
+50175,,Crangonyx gracilis,,eats
+50175,,Rheotanytarsus,,eats
+50175,,Diacyclops,,eats
+50175,,Lepadella,,eats
+50175,203370,Keratella,,eats
+50175,87850,Daphnia,Water-fleas,eats
+50175,,Alonella,,eats
+50175,,Chaoborus,,eats
+50175,,Trichocerca,,eats
+50175,171629,Scapholeberis,,eats
+50175,87923,Diaptomus,,eats
+50175,,Hexarthra,,eats
+50175,,Gastropus,,eats
+50175,,Polyarthra,,eats
+50175,,Lestes,,eats
+50175,,Eubranchipus,,eats
+50175,247740,Pentaneura,,eats
+50175,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+50175,88028,Dorocordulia,Lesser Emerald Dragonflies,eatenBy
+50175,51556,Sympetrum,Meadowhawks,eatenBy
+50175,47818,Libellula,Chasers and King Skimmers,eatenBy
+50175,52520,Aeshna,Hawkers and Typical Darners,eatenBy
+50175,81576,Belostoma,,eatenBy
+50175,50175,Enallagma,Bluets,eatenBy
+50175,133623,Tropisternus,,eatenBy
+50175,58652,Umbra,,eatenBy
+50175,58637,Ambloplites rupestris,Rock Bass,eatenBy
+50175,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy
+50175,58627,Perca flavescens,Yellow Perch,eatenBy
+50175,,Graphoderus,,eatenBy
+50175,,Dytiscus,,eatenBy
+50175,,Lethocerus,,eatenBy
+50175,,Banksiola,,eatenBy
+50175,173833,Dineutus,,eatenBy
+50175,,Hydrobius,,eatenBy
+50175,,Acilius,,eatenBy
+50175,,Somatochlora,,eatenBy
+50175,,Coptotomus,,eatenBy
+50175,,Lestes,,eatenBy
+50175,,Leuccorhinia,,eatenBy
+50175,,Gyrinus,,eatenBy
+50175,,Hydrochara,,eatenBy
+50175,,Cordulia,,eatenBy
+50175,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+50175,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+50175,,Amia calva,,eatenBy
+50175,104464,Lestes vigilax,Swamp Spreadwing,eatenBy
+50175,,Phanogomphus kurilis,,eatenBy
+50175,247660,Polypedilum,,preysOn
+50175,53275,Chironomidae,Non-biting Midges,preysOn
+50175,50175,Enallagma,Bluets,preysOn
+50175,,Rheotanytarsus,,preysOn
+50175,247740,Pentaneura,,preysOn
+50175,174181,Corynoneura,,preysOn
+50175,,Lepadella,,preysOn
+50175,171629,Scapholeberis,,preysOn
+50175,87923,Diaptomus,,preysOn
+50175,,Alonella,,preysOn
+50175,,Gastropus,,preysOn
+50175,338141,Chydorus,,preysOn
+50175,,Eubranchipus,,preysOn
+50175,,Polyarthra,,preysOn
+50175,,Chaoborus,,preysOn
+50175,,Hexarthra,,preysOn
+50175,,Diacyclops,,preysOn
+50175,87850,Daphnia,Water-fleas,preysOn
+50175,,Trichocerca,,preysOn
+50175,,Lestes,,preysOn
+50175,,Acanthocyclops,,preysOn
+50175,203370,Keratella,,preysOn
+50175,51556,Sympetrum,Meadowhawks,preyedUponBy
+50175,133623,Tropisternus,,preyedUponBy
+50175,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+50175,50175,Enallagma,Bluets,preyedUponBy
+50175,81576,Belostoma,,preyedUponBy
+50175,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+50175,,Lethocerus,,preyedUponBy
+50175,,Banksiola,,preyedUponBy
+50175,,Leuccorhinia,,preyedUponBy
+50175,,Lestes,,preyedUponBy
+50175,,Somatochlora,,preyedUponBy
+50175,,Cordulia,,preyedUponBy
+50175,,Hydrobius,,preyedUponBy
+50175,,Graphoderus,,preyedUponBy
+50175,,Coptotomus,,preyedUponBy
+50175,,Acilius,,preyedUponBy
+50175,,Gyrinus,,preyedUponBy
+50175,,Hydrochara,,preyedUponBy
+50175,,Dytiscus,,preyedUponBy
+50175,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy
+50175,,Lestes inaequalis,,preyedUponBy
+50175,,Nasiaeschna pentacantha,,preyedUponBy
+50175,,Laphria sericea,,preyedUponBy
+50175,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy

@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+124184,64161,Triticum aestivum,Bread Wheat,eats
+124184,48514,Capsicum annuum,chili pepper,eats
+124184,60773,Vitis,grapevines,eats
+124184,47561,Pinus,pines,eats
+124184,54491,Corylus avellana,common hazel,eats
+124184,53112,Brassica nigra,Black Mustard,eats
+124184,48449,Zea,Corns and Teosintes,eats
+124184,55571,Larix,larches,eats
+124184,3800,Morus,Gannets,eats
+124184,48517,Capsicum,peppers,eats
+124184,58390,Triticum,Wheats,eats
+124184,60218,Ficus carica,common fig,eats
+124184,122971,Zingiber officinale,Ginger,eats
+124184,79519,Vitis vinifera,wine grape,eats
+124184,78555,Phoenix dactylifera,Date Palm,eats
+124184,55425,Cucurbita,gourds,eats
+124184,57983,Helianthus annuus,Common Sunflower,eats
+124184,145601,Fagopyrum esculentum,Common Buckwheat,eats
+124184,48448,Zea mays,Maize,eats
+124184,57309,Vicia faba,fava bean,eats
+124184,,Dipteryx odorata,,eats
+124184,,Vigna,,eats
+124184,122850,Phaseolus vulgaris,Common Bean,eats
+124184,,Lens culinaris,,eats
+124184,,Brassica oleracea,,eats
+124184,121763,Castanea sativa,Sweet Chestnut,eats
+124184,,Gleditsia,,eats
+124184,,Oryza sativa,,eats
+124184,,Cicer arietinum,,eats
+124184,,Myristica fragrans,,eats
+124184,,Camellia sinensis,,eats
+124184,,Hordeum vulgare,,eats
+124184,61382,Oryza,,eats
+124184,,Juglans regia,,eats
+124184,123697,Ziziphus mauritiana,Chinese Apple,eats
+124184,,Ceratonia siliqua,,eats
+124184,,Phaseolus,,eats
+124184,,Orbignya barbosiana,,eats
+124184,,Manilkara zapota,,eats
+124184,,Glycine max,,eats
+124184,,Gossypium herbaceum,,eats
+124184,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+124184,,Empidonax virescens,,eatenBy
+124184,,Lyctocoris campestris,,preyedUponBy
+124184,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

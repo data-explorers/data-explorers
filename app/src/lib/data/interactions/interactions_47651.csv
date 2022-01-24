@@ -1,0 +1,320 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47651,47126,Plantae,plants,eats
+47651,52788,Acari,Mites and Ticks,eats
+47651,49470,Collembola,Springtails,eats
+47651,47336,Formicidae,Ants,eats
+47651,125816,Auchenorrhyncha,True Hoppers,eats
+47651,47822,Diptera,Flies,eats
+47651,47208,Coleoptera,Beetles,eats
+47651,48147,Isopoda,Isopods,eats
+47651,79185,Sporobolus cryptandrus,Sand Dropseed,eats
+47651,71257,Bouteloua gracilis,Blue Grama,eats
+47651,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+47651,47118,Araneae,Spiders,eats
+47651,48571,Carex,true sedges,eats
+47651,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+47651,57934,Ericameria nauseosa,Rubber Rabbitbrush,eats
+47651,47120,Arthropoda,Arthropods,eats
+47651,47224,Papilionoidea,Butterflies,eats
+47651,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+47651,56955,Helianthus,sunflowers,eats
+47651,72378,Stipa,Needle Grasses,eats
+47651,,Schismus barbatus,,eats
+47651,,perennials,,eats
+47651,,Eragrostis,,eats
+47651,,leaves,,eats
+47651,,shrubs,,eats
+47651,,Detritus,,eats
+47651,,Isoptera,,eats
+47651,,live leaves,,eats
+47651,,Eleutherodactylus coqui,,eats
+47651,166864,Picradeniopsis oppositifolia,Oppositeleaf False Bahia,eats
+47651,,Opuntia macrorhiza,,eats
+47651,,Elymus elymoides,,eats
+47651,,Pascopyrum smithii,,eats
+47651,58072,Descurainia pinnata,Western Tansymustard,eats
+47651,,lichen forb/shrub,,eats
+47651,,Kochia,,eats
+47651,130379,Liatris punctata,dotted gayfeather,eats
+47651,146898,Artemisia frigida,fringed sagebrush,eats
+47651,,Furgaleus,,eats
+47651,,Atriplex canescens,,eats
+47651,,Peritoma serrulata,,eats
+47651,,forbs,,eats
+47651,,Leaves,,eats
+47651,52790,Mesostigmata,Mesostigs,eats
+47651,,herbs - grass - shrubs,,eats
+47651,71950,Agropyron,,eats
+47651,52693,Agrostis,bent grass,eats
+47651,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eatenBy
+47651,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+47651,12901,Catharus fuscescens,Veery,eatenBy
+47651,12890,Catharus guttatus,Hermit Thrush,eatenBy
+47651,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+47651,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47651,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+47651,4209,Podiceps auritus,Horned Grebe,eatenBy
+47651,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47651,4940,Egretta thula,Snowy Egret,eatenBy
+47651,144455,Ardea alba,Great Egret,eatenBy
+47651,10469,Xanthocephalus,,eatenBy
+47651,12942,Sialia sialis,Eastern Bluebird,eatenBy
+47651,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+47651,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+47651,73155,Passerina caerulea,Blue Grosbeak,eatenBy
+47651,508048,Antigone canadensis,Sandhill Crane,eatenBy
+47651,4665,Falco sparverius,American Kestrel,eatenBy
+47651,4793,Charadrius vociferus,Killdeer,eatenBy
+47651,145238,Setophaga petechia,Yellow Warbler,eatenBy
+47651,5020,Butorides virescens,Green Heron,eatenBy
+47651,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+47651,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+47651,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47651,981,Phasianus colchicus,Ring-necked Pheasant,eatenBy
+47651,20445,Tyto alba,Barn Owl,eatenBy
+47651,8010,Corvus corax,Common Raven,eatenBy
+47651,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+47651,558446,Circus hudsonius,Northern Harrier,eatenBy
+47651,20044,Bubo virginianus,Great Horned Owl,eatenBy
+47651,9921,Piranga olivacea,Scarlet Tanager,eatenBy
+47651,1965,Coccyzus americanus,Yellow-billed Cuckoo,eatenBy
+47651,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+47651,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47651,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+47651,1409,Callipepla californica,California Quail,eatenBy
+47651,13858,Passer domesticus,House Sparrow,eatenBy
+47651,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+47651,7294,Eremophila alpestris,Horned Lark,eatenBy
+47651,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47651,9602,Quiscalus quiscula,Common Grackle,eatenBy
+47651,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47651,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+47651,7562,Troglodytes aedon,House Wren,eatenBy
+47651,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+47651,7107,Aix sponsa,Wood Duck,eatenBy
+47651,14850,Sturnus vulgaris,European Starling,eatenBy
+47651,9346,Icterus galbula,Baltimore Oriole,eatenBy
+47651,16768,Tyrannus,Kingbirds,eatenBy
+47651,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+47651,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47651,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+47651,17009,Sayornis saya,Say's Phoebe,eatenBy
+47651,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+47651,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+47651,17013,Sayornis nigricans,Black Phoebe,eatenBy
+47651,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+47651,12937,Sialia mexicana,Western Bluebird,eatenBy
+47651,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+47651,12727,Turdus migratorius,American Robin,eatenBy
+47651,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+47651,10227,Passerina cyanea,Indigo Bunting,eatenBy
+47651,7497,Polioptila californica,California Gnatcatcher,eatenBy
+47651,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+47651,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+47651,9721,Geothlypis trichas,Common Yellowthroat,eatenBy
+47651,10247,Setophaga ruticilla,American Redstart,eatenBy
+47651,13633,Baeolophus inornatus,Oak Titmouse,eatenBy
+47651,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+47651,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+47651,11867,Progne subis,Purple Martin,eatenBy
+47651,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+47651,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+47651,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+47651,11901,Hirundo rustica,Barn Swallow,eatenBy
+47651,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+47651,10479,Chondestes grammacus,Lark Sparrow,eatenBy
+47651,9091,Melospiza,Melospiza Sparrows,eatenBy
+47651,9100,Melospiza melodia,Song Sparrow,eatenBy
+47651,9135,Spizella passerina,Chipping Sparrow,eatenBy
+47651,9152,Spizella pusilla,Field Sparrow,eatenBy
+47651,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+47651,7998,Corvus,Crows and Ravens,eatenBy
+47651,8229,Cyanocitta cristata,Blue Jay,eatenBy
+47651,8021,Corvus brachyrhynchos,American Crow,eatenBy
+47651,18236,Colaptes auratus,Northern Flicker,eatenBy
+47651,14801,Sitta carolinensis,White-breasted Nuthatch,eatenBy
+47651,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47651,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47651,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47651,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+47651,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+47651,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+47651,73044,Melozone crissalis,California Towhee,eatenBy
+47651,9919,Piranga ludoviciana,Western Tanager,eatenBy
+47651,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+47651,980017,Tyrannidae,Tyrant Flycatchers,eatenBy
+47651,3,Aves,Birds,eatenBy
+47651,42044,Canis,Wolves and Dogs,eatenBy
+47651,66003,Lithobates pipiens,Northern Leopard Frog,eatenBy
+47651,47822,Diptera,Flies,eatenBy
+47651,47735,Diplopoda,Millipedes,eatenBy
+47651,44396,Peromyscus maniculatus,Deer Mouse,eatenBy
+47651,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+47651,47982,Asilidae,Robber Flies,eatenBy
+47651,16028,Myiarchus crinitus,Great Crested Flycatcher,eatenBy
+47651,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+47651,42051,Canis latrans,Coyote,eatenBy
+47651,42069,Vulpes vulpes,Red Fox,eatenBy
+47651,49552,Scutigera coleoptrata,House Centipede,eatenBy
+47651,83844,Oxyopes salticus,Striped Lynx Spider,eatenBy
+47651,129902,Camponotus pennsylvanicus,Eastern Black Carpenter Ant,eatenBy
+47651,67708,Argiope trifasciata,Banded Garden Spider,eatenBy
+47651,7293,Eremophila,Horned Larks,eatenBy
+47651,44349,Peromyscus,North American Deer Mice,eatenBy
+47651,163632,Helianthus schweinitzii,Schweinitz's Sunflower,pollinates
+47651,48286,Rhinophoridae,Woodlouse Flies,preysOn
+47651,61267,Heteroptera,True Bugs,preysOn
+47651,49567,Carabidae,Ground Beetles,preysOn
+47651,52381,Aphididae,Aphids,preysOn
+47651,70144,Muscidae,House Flies and Allies,preysOn
+47651,52910,Sarcophagidae,Flesh Flies,preysOn
+47651,53237,Cicadellidae,Typical Leafhoppers,preysOn
+47651,48086,Agromyzidae,Leaf-miner Flies,preysOn
+47651,56189,Philaenus spumarius,Meadow spittlebug,preysOn
+47651,60393,Tipula,,preysOn
+47651,52425,Chrysopidae,Green Lacewings,preysOn
+47651,133495,Deltocephalinae,,preysOn
+47651,84670,Ephydridae,Shore Flies,preysOn
+47651,47157,Lepidoptera,Butterflies and Moths,preysOn
+47651,47951,Staphylinidae,Rove Beetles,preysOn
+47651,52073,Fulgoroidea,Planthoppers,preysOn
+47651,47158,Insecta,Insects,preysOn
+47651,55351,Phoridae,Humpbacked Flies,preysOn
+47651,61860,Calliphoridae,Blow Flies,preysOn
+47651,47208,Coleoptera,Beetles,preysOn
+47651,47992,Limoniidae,Limoniid Crane Flies,preysOn
+47651,53275,Chironomidae,Non-biting Midges,preysOn
+47651,47649,Acrididae,Short-horned Grasshoppers,preysOn
+47651,47742,Pentatomidae,Stink Bugs,preysOn
+47651,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+47651,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+47651,127593,Chloropidae,Frit Flies,preysOn
+47651,70127,Stratiomyidae,Soldier Flies,preysOn
+47651,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+47651,174422,Hybotidae,Hybotid Dance Flies,preysOn
+47651,605071,Cicadina,,preysOn
+47651,50190,Cicadoidea,Cicadas,preysOn
+47651,69803,Ceratopogonidae,Biting Midges,preysOn
+47651,248060,Dixella,,preysOn
+47651,177395,Limonia,,preysOn
+47651,578473,Herina frondescentiae,,preysOn
+47651,,Sternorrhyncha,,preysOn
+47651,,Eupterygini,,preysOn
+47651,,Sciaridae,,preysOn
+47651,52380,Aphidoidea,,preysOn
+47651,,Sepedon spinipes,,preysOn
+47651,,Herina parva,,preysOn
+47651,,Pherbina coryleti,,preysOn
+47651,,Haematopota,,preysOn
+47651,49460,Empididae,Dance Flies,preysOn
+47651,,Episyrphus balteatus,,preysOn
+47651,,Limnia paludicola,,preysOn
+47651,123608,Delphacidae,,preysOn
+47651,,Delphacinae,,preysOn
+47651,,Pipinculus sp,,preysOn
+47651,1281108,Ilione lineata,,preysOn
+47651,546367,Nemotelus pantherinus,Fen Snout,preysOn
+47651,52447,Cicadella viridis,Green Leafhopper,preysOn
+47651,129878,Nabidae,Damsel Bugs,preysOn
+47651,,Ilione albiseta,,preysOn
+47651,,Sphaerocidae,,preysOn
+47651,16028,Myiarchus crinitus,Great Crested Flycatcher,preyedUponBy
+47651,4665,Falco sparverius,American Kestrel,preyedUponBy
+47651,14886,Mimus polyglottos,Northern Mockingbird,preyedUponBy
+47651,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+47651,84640,Polistes dominula,European Paper Wasp,preyedUponBy
+47651,10479,Chondestes grammacus,Lark Sparrow,preyedUponBy
+47651,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+47651,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+47651,129305,Melanoplus bivittatus,Two-striped Grasshopper,preyedUponBy
+47651,12942,Sialia sialis,Eastern Bluebird,preyedUponBy
+47651,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,preyedUponBy
+47651,10094,Junco hyemalis,Dark-eyed Junco,preyedUponBy
+47651,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47651,16779,Tyrannus vociferans,Cassin's Kingbird,preyedUponBy
+47651,58416,Phidippus clarus,Brilliant Jumping Spider,preyedUponBy
+47651,67708,Argiope trifasciata,Banded Garden Spider,preyedUponBy
+47651,9100,Melospiza melodia,Song Sparrow,preyedUponBy
+47651,9721,Geothlypis trichas,Common Yellowthroat,preyedUponBy
+47651,16010,Myiarchus cinerascens,Ash-throated Flycatcher,preyedUponBy
+47651,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+47651,47552,Argiope,Garden Orbweavers,preyedUponBy
+47651,40270,Myotis,Mouse-eared Bats,preyedUponBy
+47651,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+47651,40477,Eptesicus,House Bats,preyedUponBy
+47651,7293,Eremophila,Horned Larks,preyedUponBy
+47651,7998,Corvus,Crows and Ravens,preyedUponBy
+47651,28339,Thamnophis,Garter Snakes,preyedUponBy
+47651,20979,Anura,Frogs and Toads,preyedUponBy
+47651,47118,Araneae,Spiders,preyedUponBy
+47651,66003,Lithobates pipiens,Northern Leopard Frog,preyedUponBy
+47651,42069,Vulpes vulpes,Red Fox,preyedUponBy
+47651,47866,Thomisidae,Crab Spiders,preyedUponBy
+47651,47951,Staphylinidae,Rove Beetles,preyedUponBy
+47651,47550,Tetragnatha,,preyedUponBy
+47651,47345,Agelenidae,Funnel Weavers,preyedUponBy
+47651,48124,Tettigoniidae,Katydids,preyedUponBy
+47651,,Coluber flagellum testaceus,,preyedUponBy
+47651,115819,Mastigodryas boddaerti boddaerti,,preyedUponBy
+47651,64079,Stenorrhina degenhardtii,Degenhardt's Scorpion-eating Snake,preyedUponBy
+47651,,Thamnophis sirtalis parietalis,,preyedUponBy
+47651,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+47651,29630,Saphenophis boursieri,Spotted Genuine-Snake,preyedUponBy
+47651,,Coluber flagellum,,preyedUponBy
+47651,30392,Dipsas catesbyi,Catesby's Snail-eater,preyedUponBy
+47651,30152,Erythrolamprus aesculapii,Aesculapian False Coral Snake,preyedUponBy
+47651,,Hypsiglena torquata,,preyedUponBy
+47651,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+47651,29358,Natriciteres fuliginoides,Marsh Snake,preyedUponBy
+47651,30901,Vipera ursinii,Meadow Viper,preyedUponBy
+47651,26933,Conopsis lineata,Lined Tolucan Ground Snake,preyedUponBy
+47651,27282,Chionactis palarostris,Sonoran Shovel-nosed Snake,preyedUponBy
+47651,30098,Ficimia publia,Blotched Hooknose Snake,preyedUponBy
+47651,28649,Sonora semiannulata,Ground Snake,preyedUponBy
+47651,27289,Chionactis occipitalis,Mohave Shovel-Nosed Snake,preyedUponBy
+47651,26920,Conopsis nasus,Largenose Earth Snake,preyedUponBy
+47651,31079,Echis carinatus,Saw-scaled Viper,preyedUponBy
+47651,35245,Hemiaspis signata,Black-bellied Swamp Snake,preyedUponBy
+47651,29982,Gyalopion quadrangulare,Thornscrub Hook-nosed Snake,preyedUponBy
+47651,28762,Rhinocheilus lecontei,Long-nosed Snake,preyedUponBy
+47651,,Ficimia streckeri,,preyedUponBy
+47651,28553,Symphimus mayae,Yucatán White-lipped Snake,preyedUponBy
+47651,28930,Pseudoficimia frontalis,False Ficimia,preyedUponBy
+47651,1250059,Philodryas agassizii,Scorpion Snake,preyedUponBy
+47651,29832,Amphiesma stolatum,Buff Striped Keelback,preyedUponBy
+47651,29985,Gyalopion canum,Chihuahuan Hook-nosed Snake,preyedUponBy
+47651,34913,Nothobachia ablephara,Nothobachia,preyedUponBy
+47651,28645,Sonora aemula,Filetail Ground Snake,preyedUponBy
+47651,28577,Stenorrhina freminvillei,Blood Snake,preyedUponBy
+47651,32512,Rena dulcis,Texas Blind Snake,preyedUponBy
+47651,26928,Conopsis biserialis,Two-lined Mexican Earth Snake,preyedUponBy
+47651,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+47651,35161,Pseudechis australis,Mulga Snake,preyedUponBy
+47651,,Oligodon albocinctus,,preyedUponBy
+47651,,Ramphotyphlops braminus,,preyedUponBy
+47651,29353,Natriciteres variegata,Variable Marsh Snake,preyedUponBy
+47651,27035,Hierophis viridiflavus carbonarius,,preyedUponBy
+47651,,Liopeltis philippinus,,preyedUponBy
+47651,29219,Oligodon torquatus,,preyedUponBy
+47651,,Austrelaps ramsayi,,preyedUponBy
+47651,29220,Oligodon theobaldi,Theobald's Kukri Snake,preyedUponBy
+47651,29267,Oligodon cinereus,Black Cross-barred Kukri Snake,preyedUponBy
+47651,,Vipera ursinii graeca,,preyedUponBy
+47651,13632,Baeolophus bicolor,Tufted Titmouse,preyedUponBy
+47651,96223,Bunaka gyrinoides,Greenback Gudgeon,preyedUponBy
+47651,,Megaderma lyra,,preyedUponBy
+47651,,Scotozous dormeri,,preyedUponBy
+47651,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+47651,,Tadarida aegyptiaca,,preyedUponBy
+47651,40449,Otonycteris hemprichii,Desert Long-eared Bat,preyedUponBy
+47651,,Pipistrellus tenuis,,preyedUponBy
+47651,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+47651,,Carabus hummeli,,preyedUponBy
+47651,,Argiope aemula,,preyedUponBy
+47651,145233,Setophaga americana,Northern Parula,preyedUponBy
+47651,1971,Crotophaga ani,Smooth-billed Ani,preyedUponBy
+47651,1979,Guira guira,Guira Cuckoo,preyedUponBy
+47651,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,preyedUponBy
+47651,298234,Frigga pratensis,,preyedUponBy
+47651,54327,Vespa crabro,European Hornet,preyedUponBy
+47651,,Mantis religiosa,,preyedUponBy

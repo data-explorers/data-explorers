@@ -1,0 +1,81 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47982,47822,Diptera,Flies,eats
+47982,47208,Coleoptera,Beetles,eats
+47982,47927,Anisoptera,Dragonflies,eats
+47982,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+47982,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+47982,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+47982,121785,Tradescantia occidentalis,Western Spiderwort,eats
+47982,57983,Helianthus annuus,Common Sunflower,eats
+47982,47126,Plantae,plants,eats
+47982,47224,Papilionoidea,Butterflies,eats
+47982,125816,Auchenorrhyncha,True Hoppers,eats
+47982,47157,Lepidoptera,Butterflies and Moths,eats
+47982,47792,Odonata,Dragonflies and Damselflies,eats
+47982,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+47982,,forbs,,eats
+47982,,Fungus,,eats
+47982,138584,Sophora nuttalliana,Silky Sophora,eats
+47982,,Hemerobiiforbia,,eats
+47982,,Musineon,,eats
+47982,,Opuntia macrorhiza,,eats
+47982,,Lathyrus brachycalyx,,eats
+47982,,Atriplex canescens,,eats
+47982,,prairie spiderwart (forb/shrub),,eats
+47982,,commonsunflower (forb/shrub),,eats
+47982,,plains prickly pear (forb/shrub),,eats
+47982,,unknown forbs,,eats
+47982,,fungus (forb/shrub),,eats
+47982,,unidentified seeds (forb/shrub),,eats
+47982,,Lathyrus eucosmus,,eats
+47982,,fourwing saltbrush (forb/shrub),,eats
+47982,,musineon (forb/shrub),,eats
+47982,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+47982,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+47982,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47982,17009,Sayornis saya,Say's Phoebe,eatenBy
+47982,16768,Tyrannus,Kingbirds,eatenBy
+47982,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+47982,11867,Progne subis,Purple Martin,eatenBy
+47982,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47982,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47982,14850,Sturnus vulgaris,European Starling,eatenBy
+47982,,Laphria virginica,,eatenBy
+47982,,Neomochtherus pallipes,,eatenBy
+47982,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47982,17408,Vireo griseus,White-eyed Vireo,eatenBy
+47982,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+47982,6667,Cypseloides niger,Black Swift,eatenBy
+47982,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+47982,,Spizella breweri,,eatenBy
+47982,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+47982,,Dendroica kirtlandii,,eatenBy
+47982,,Thelesperma subnudum,,pollinates
+47982,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+47982,47219,Apis mellifera,Western Honey Bee,preysOn
+47982,59152,Leptotes marina,Marine Blue,preysOn
+47982,,Enallagma aspersum,,preysOn
+47982,61495,Erythemis simplicicollis,Eastern Pondhawk,preysOn
+47982,103289,Ictinogomphus rapax,Common Clubtail,preysOn
+47982,,Paracercion plagiosum,,preysOn
+47982,,Cyclotrypema furcata,,preysOn
+47982,,Neurothemis fluctuans,,preysOn
+47982,,Chlorophanus excisus,,preysOn
+47982,,Triorla interrupta,,preysOn
+47982,84549,Plathemis lydia,Common Whitetail,preysOn
+47982,,Promachus hinei,,preysOn
+47982,,Erechthias chionodira,,preysOn
+47982,126155,Vespula germanica,German Yellowjacket,preysOn
+47982,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+47982,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+47982,58416,Phidippus clarus,Brilliant Jumping Spider,preyedUponBy
+47982,7493,Polioptila caerulea,Blue-gray Gnatcatcher,preyedUponBy
+47982,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47982,,Bufo marinus,,preyedUponBy
+47982,37456,Tiliqua scincoides,Common Blue-tongued Skink,preyedUponBy
+47982,,Dolichovespula maculata,,preyedUponBy
+47982,,Neomochtherus pallipes,,preyedUponBy
+47982,58424,Phidippus texanus,,preyedUponBy
+47982,,Atomosia puella,,preyedUponBy
+47982,,Merops viridis,,preyedUponBy
+47982,227734,Phidippus apacheanus,Apache Jumping Spider,preyedUponBy

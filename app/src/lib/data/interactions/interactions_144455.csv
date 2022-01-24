@@ -1,0 +1,221 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144455,1,Animalia,Animals,eats
+144455,47120,Arthropoda,Arthropods,eats
+144455,47186,Decapoda,Decapods,eats
+144455,54661,Mugilidae,Mullets,eats
+144455,59116,Poeciliidae,Livebearers and Lampeyes,eats
+144455,47308,Gobiidae,Gobies,eats
+144455,59653,Gerridae,Water Striders,eats
+144455,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+144455,54196,Cichlidae,Cichlids,eats
+144455,47336,Formicidae,Ants,eats
+144455,47792,Odonata,Dragonflies and Damselflies,eats
+144455,47118,Araneae,Spiders,eats
+144455,47208,Coleoptera,Beetles,eats
+144455,47158,Insecta,Insects,eats
+144455,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+144455,211194,Tracheophyta,vascular plants,eats
+144455,81570,Belostomatidae,Giant Water Bugs,eats
+144455,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+144455,49507,Callinectes,,eats
+144455,127444,Hydrophilidae,Water Scavenger Beetles,eats
+144455,84111,Pomacea,Common Apple Snails,eats
+144455,47115,Mollusca,Molluscs,eats
+144455,54662,Mugil,Common Mullets,eats
+144455,49504,Callinectes sapidus,Atlantic Blue Crab,eats
+144455,44259,Microtus,Meadow Voles,eats
+144455,20978,Amphibia,Amphibians,eats
+144455,40151,Mammalia,Mammals,eats
+144455,85493,Crustacea,Crustaceans,eats
+144455,26036,Reptilia,Reptiles,eats
+144455,47178,Actinopterygii,Ray-finned Fishes,eats
+144455,488924,Muroidea,Muroids,eats
+144455,49591,Lepomis macrochirus,Bluegill,eats
+144455,36074,Phrynosomatidae,Phrynosomatid Lizards,eats
+144455,44062,Thomomys bottae,Botta's Pocket Gopher,eats
+144455,62550,Seiurus aurocapilla,Ovenbird,eats
+144455,36982,Scincidae,Skinks,eats
+144455,39532,Testudines,Turtles and Tortoises,eats
+144455,60340,Lithobates,American Water Frogs,eats
+144455,39566,Apalone ferox,Florida Softshell Turtle,eats
+144455,48460,Life,,eats
+144455,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+144455,45763,Ondatra zibethicus,Muskrat,eats
+144455,49592,Lepomis,Common Sunfishes,eats
+144455,85552,Sauria,Lizards,eats
+144455,64970,Anaxyrus boreas,Western Toad,eats
+144455,65979,Lithobates catesbeianus,American Bullfrog,eats
+144455,32055,Elgaria multicarinata,Southern Alligator Lizard,eats
+144455,49175,Siluriformes,Catfishes,eats
+144455,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,eats
+144455,44326,Microtus californicus,California Vole,eats
+144455,38671,Aspidoscelis tigris,Western Whiptail,eats
+144455,26172,Squamata,Snakes and Lizards,eats
+144455,479459,Anniella stebbinsi,San Diegan Legless Lizard,eats
+144455,43698,Rodentia,Rodents,eats
+144455,47233,Perciformes,Perch-like Fishes,eats
+144455,121639,Brachyura,True Crabs,eats
+144455,,Teleostei,,eats
+144455,,Belonesox belizanus,,eats
+144455,,Gambusia yucatana,,eats
+144455,,Petenia splendida,,eats
+144455,179596,Floridichthys carpio,Goldspotted Killifish,eats
+144455,98945,Cyprinodon variegatus,Sheepshead Minnow,eats
+144455,179511,Astyanax fasciatus,Banded Astyanax,eats
+144455,,Thorichthys meeki,,eats
+144455,,Parachromis friedrichsthalii,,eats
+144455,56903,Cichlasoma,,eats
+144455,,Garmanella pulchra,,eats
+144455,206834,Rhamdia guatemalensis,Pale Catfish,eats
+144455,179600,Eucinostomus argenteus,Spotfin Mojarra,eats
+144455,94800,Atherinomorus stipes,Hardhead Silverside,eats
+144455,,Cichlasoma urophthalma,,eats
+144455,,Cichlasoma salvini,,eats
+144455,,Poecilia orri,,eats
+144455,739327,Uca,Narrow-fronted Fiddler Crabs,eats
+144455,49438,Centropomidae,Snooks,eats
+144455,,Elopidae,,eats
+144455,,Anolis,,eats
+144455,435312,Xiphocaris,,eats
+144455,99544,Dorosoma cepedianum,American Gizzard Shad,eats
+144455,,Oryza sativa,,eats
+144455,317477,Micropogonias furnieri,Whitemouth Croaker,eats
+144455,50984,Pomatomus saltatrix,Bluefish,eats
+144455,608789,Odontesthes argentinensis,,eats
+144455,,Rhamdia quelen,,eats
+144455,,Characidae,,eats
+144455,,Jenynsia multidentata,,eats
+144455,86705,Astyanax,,eats
+144455,51042,Penaeidae,Penaeid Shrimps,eats
+144455,23998,Hyla sarda,Sardinian Tree Frog,eats
+144455,,Sorex tundrensis,,eats
+144455,,Mesocricetus raddei,,eats
+144455,,Sorex samniticus,,eats
+144455,25665,Rana iberica,Iberian Frog,eats
+144455,,Lacerta pamphylica,,eats
+144455,44310,Microtus gregalis,Narrow-headed Vole,eats
+144455,,Crocidura canariensis,,eats
+144455,,Acomys nesiotes,,eats
+144455,27717,Triturus carnifex,Italian Crested Newt,eats
+144455,,Apodemus agrarius,,eats
+144455,27840,Salamandrina terdigitata,Southern Spectacled Salamander,eats
+144455,8010,Corvus corax,Common Raven,eatenBy
+144455,71306,Cathartidae,New World Vultures,eatenBy
+144455,41663,Procyon lotor,Common Raccoon,eatenBy
+144455,7823,Corvidae,"Crows, Jays, and Magpies",eatenBy
+144455,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+144455,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+144455,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+144455,,Aquila clanga,,eatenBy
+144455,4691,Falco cherrug,Saker Falcon,eatenBy
+144455,204533,Larus argentatus,Herring Gull,eatenBy
+144455,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+144455,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+144455,4389,Larus cachinnans,Caspian Gull,eatenBy
+144455,,Coloeus monedula,,eatenBy
+144455,8029,Corvus frugilegus,Rook,eatenBy
+144455,204496,Corvus corone,Carrion Crow,eatenBy
+144455,42134,Sus scrofa,Wild Boar,eatenBy
+144455,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+144455,,Elaphe situla,,eatenBy
+144455,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+144455,39407,Varanus griseus,Desert Monitor,eatenBy
+144455,28451,Telescopus nigriceps,Black headed snake,eatenBy
+144455,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+144455,27035,Hierophis viridiflavus carbonarius,,eatenBy
+144455,4765,Coragyps atratus,Black Vulture,eatenBy
+144455,,Python molurus bivittatus,,eatenBy
+144455,26159,Alligator mississippiensis,American Alligator,eatenBy
+144455,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+144455,63770,Engraulis mordax,Northern Anchovy,preysOn
+144455,47178,Actinopterygii,Ray-finned Fishes,preysOn
+144455,26718,Caudata,Salamanders,preysOn
+144455,85553,Serpentes,Snakes,preysOn
+144455,65979,Lithobates catesbeianus,American Bullfrog,preysOn
+144455,47158,Insecta,Insects,preysOn
+144455,7251,Passeriformes,Perching Birds,preysOn
+144455,85552,Sauria,Lizards,preysOn
+144455,47783,Astacoidea,Northern Hemisphere Crayfishes,preysOn
+144455,311310,Astacidea,Crayfishes and Lobsters,preysOn
+144455,39566,Apalone ferox,Florida Softshell Turtle,preysOn
+144455,49588,Centrarchidae,Freshwater Sunfishes,preysOn
+144455,49592,Lepomis,Common Sunfishes,preysOn
+144455,32055,Elgaria multicarinata,Southern Alligator Lizard,preysOn
+144455,44027,Geomyidae,Pocket Gophers,preysOn
+144455,69758,Lumbricidae,Earthworms,preysOn
+144455,36094,Uta stansburiana,Common Side-blotched Lizard,preysOn
+144455,40151,Mammalia,Mammals,preysOn
+144455,49591,Lepomis macrochirus,Bluegill,preysOn
+144455,43698,Rodentia,Rodents,preysOn
+144455,44311,Microtus pennsylvanicus,Meadow Vole,preysOn
+144455,54196,Cichlidae,Cichlids,preysOn
+144455,44062,Thomomys bottae,Botta's Pocket Gopher,preysOn
+144455,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preysOn
+144455,44326,Microtus californicus,California Vole,preysOn
+144455,479459,Anniella stebbinsi,San Diegan Legless Lizard,preysOn
+144455,121639,Brachyura,True Crabs,preysOn
+144455,,Trichodina,,preysOn
+144455,,Dilepididae,,preysOn
+144455,,Spirocamallanus pereirai,,preysOn
+144455,209100,Gyrodactylus,,preysOn
+144455,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+144455,339174,Cyathocotylidae,,preysOn
+144455,,Pygidiopsoides spindalis,,preysOn
+144455,,Renicola cerithidicola,,preysOn
+144455,,Hysterolecitha,,preysOn
+144455,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+144455,,Stictodora hancocki,,preysOn
+144455,106222,Mugil cephalus,Sea Mullet,preysOn
+144455,339176,Renicola buchanani,,preysOn
+144455,,trypanorynch,,preysOn
+144455,101455,Gillichthys mirabilis,Longjaw Mudsucker,preysOn
+144455,63081,Hirudinea,Leeches,preysOn
+144455,339183,Euhaplorchis californiensis,,preysOn
+144455,117564,Clevelandia ios,Arrow Gobi,preysOn
+144455,914144,Galactosomum,,preysOn
+144455,,Mesostephanus appendiculatoides,,preysOn
+144455,339182,Phocitremoides ovale,,preysOn
+144455,,Nerocila californica,,preysOn
+144455,179533,Fundulus parvipinnis,California Killifish,preysOn
+144455,,Ergasilus auritus,,preysOn
+144455,,Ilypnus gilberti,,preysOn
+144455,82326,Hypsopsetta guttulata,Diamond turbot,preysOn
+144455,111467,Quietula y-cauda,Shadow Goby,preysOn
+144455,81963,Girella nigricans,Opaleye,preysOn
+144455,117563,Acanthogobius flavimanus,Yellowfin Goby,preysOn
+144455,71234,Porichthys myriaster,Specklefin Midshipman,preysOn
+144455,108561,Paralichthys californicus,California Halibut,preysOn
+144455,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+144455,103210,Hypsoblennius gentilis,Bay Blenny,preysOn
+144455,,Arvicolinae,,preysOn
+144455,,Anolis,,preysOn
+144455,,Monopterus albus,,preysOn
+144455,,Oreochromis niloticus,,preysOn
+144455,179620,Cynoscion nebulosus,Spotted Seatrout,preysOn
+144455,144479,Gallinula galeata,Common Gallinule,preysOn
+144455,,Phrynops geoffroanus,,preysOn
+144455,539765,Haldea striatula,Rough Earthsnake,preysOn
+144455,,Lithobates sphenocephalus,,preysOn
+144455,,Neogobius melanostomus,,preysOn
+144455,27805,Notophthalmus viridescens,Eastern Newt,preysOn
+144455,,Carassius,,preysOn
+144455,116461,Anolis sagrei,Brown Anole,preysOn
+144455,49219,Anguilla rostrata,American Eel,preysOn
+144455,346595,Tetrameres,,preysOn
+144455,,Pisanianura,,preysOn
+144455,26796,Amphiuma means,Two-toed Amphiuma,preysOn
+144455,,Ophisaurus,,preysOn
+144455,58635,Lepomis megalotis,Longear Sunfish,preysOn
+144455,,Pimephales promelas,,preysOn
+144455,,Laterallus ruber,,preysOn
+144455,,Ameiurus,,preysOn
+144455,,Xenopus laevis,,preysOn
+144455,,Lithobates grylio,,preysOn
+144455,,Zenarchopterus buffonis,,preysOn
+144455,195286,Callinectes arcuatus,Arched Swimming Crab,preysOn
+144455,51042,Penaeidae,Penaeid Shrimps,preysOn
+144455,,Scardinius erythrophthalmus,,preysOn
+144455,,Eunectes notaeus,,preyedUponBy
+144455,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+144455,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+144455,26159,Alligator mississippiensis,American Alligator,preyedUponBy

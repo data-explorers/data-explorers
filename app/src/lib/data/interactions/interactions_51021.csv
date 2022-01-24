@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51021,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+51021,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+51021,48645,Megathura crenulata,Giant Keyhole Limpet,eatenBy
+51021,49054,Acanthochitonidae,,eatenBy
+51021,68104,Bryozoa,Bryozoans,eatenBy
+51021,64150,Diodora,,eatenBy
+51021,48918,Littorinidae,Periwinkle Snails,eatenBy
+51021,47429,Polyplacophora,Chitons,eatenBy
+51021,49532,Sphaeromatidae,Typical Seapills,eatenBy
+51021,49507,Callinectes,,eatenBy
+51021,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,eatenBy
+51021,121643,Copepoda,Copepods,eatenBy
+51021,48147,Isopoda,Isopods,eatenBy
+51021,68764,Ostracoda,Seed Shrimp,eatenBy
+51021,47158,Insecta,Insects,eatenBy
+51021,88563,Gobius,,eatenBy
+51021,210294,Lipophrys pholis,Shanny,eatenBy
+51021,153169,Palaemon elegans,Rockpool Prawn,eatenBy
+51021,446757,Acanthochitona crinita,Bristly Mail-shell,eatenBy
+51021,48580,Idotea,,eatenBy
+51021,50543,Aplysia dactylomela,spotted seahare,eatenBy
+51021,47490,Polychaeta,Polychaete Worms,eatenBy
+51021,135283,Acanthurus lineatus,Striped Surgeonfish,eatenBy
+51021,,Scartichthys viridis,,eatenBy
+51021,84097,Siganus,Rabbitfishes,eatenBy
+51021,52451,Naso lituratus,Pacific Orange-spine Unicornfish,eatenBy
+51021,49924,Stegastes fuscus,Dusky Damselfish,eatenBy
+51021,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+51021,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+51021,35347,Amblyrhynchus cristatus,Marine Iguana,eatenBy
+51021,56653,Haliotis fulgens,Green Abalone,eatenBy
+51021,56678,Haliotis corrugata,Pink Abalone,eatenBy
+51021,428652,Turbo marmoratus,Green Turban,eatenBy
+51021,490581,Axiopsis serratifrons,,eatenBy
+51021,105832,Microspathodon dorsalis,Giant Damselfish,eatenBy
+51021,56797,Holacanthus passer,King Angelfish,eatenBy
+51021,106624,Naso vlamingii,Bignose Unicornfish,eatenBy
+51021,49641,Zebrasoma scopas,Brown Tang,eatenBy
+51021,132407,Naso annulatus,Whitemargin Unicornfish,eatenBy
+51021,51356,Kyphosus cinerascens,Highfin Chub,eatenBy
+51021,210173,Kyphosus vaigiensis,Brassy Drummer,eatenBy
+51021,187737,Naso tuberosus,Humphead Unicornfish,eatenBy
+51021,1032318,Acanthurus bahianus,Brazilian Ocean Surgeonfish,eatenBy
+51021,121195,Acanthurus chirurgus,Doctorfish,eatenBy
+51021,121196,Acanthurus coeruleus,Atlantic Blue Tang,eatenBy
+51021,132397,Kyphosus bigibbus,Grey Drummer,eatenBy
+51021,121658,Naso unicornis,Bluespine Unicornfish,eatenBy
+51021,47235,Holacanthus ciliaris,Queen Angelfish,eatenBy
+51021,347389,Lithopoma,,eatenBy
+51021,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+51021,179833,Lytechinus anamesus,white sea urchin,eatenBy
+51021,81963,Girella nigricans,Opaleye,eatenBy
+51021,105388,Medialuna californiensis,Halfmoon,eatenBy
+51021,130867,Ischnochiton,,eatenBy
+51021,83718,Tanaidacea,Tanaids,eatenBy
+51021,348893,Parvulastra exigua,Dwarf Cushion Star,eatenBy
+51021,445653,Antennablennius bifilum,horned rockskipper,eatenBy
+51021,48837,Ophiurida,,eatenBy
+51021,423834,Clibanarius virescens,Yellow-footed Hermit Crab,eatenBy
+51021,172073,Rissoidae,Spire-shells,eatenBy
+51021,130090,Porcellana,,eatenBy
+51021,,Thalamita crenata,,eatenBy
+51021,446469,Scartella emarginata,maned blenny,eatenBy
+51021,372109,Metopograpsus messor,Purple Estuarine Rock Crab,eatenBy
+51021,446125,Istiblennius edentulus,Rippled Rockskipper,eatenBy
+51021,466913,Oxystele,,eatenBy
+51021,,Amphitoidae,,eatenBy
+51021,128828,Eriphia smithii,Red-eyed Reef Crab,eatenBy
+51021,89165,Istigobius,,eatenBy
+51021,429549,Menaethius monoceros,One-horned Spider Crab,eatenBy
+51021,128719,Echinometra mathaei,Indo-Pacific Rock-boring Urchin,eatenBy
+51021,875623,Tegula viridula,,eatenBy
+51021,680310,Orthoprotella mayeri,,eatenBy
+51021,179515,Bathygobius soporator,Frillfin Goby,eatenBy
+51021,255518,Eulithidium affine,,eatenBy
+51021,317131,Haemulon parra,Sailor's Choice,eatenBy
+51021,55803,Cirolanidae,,eatenBy
+51021,171643,Melitidae,Bivalve Scuds,eatenBy
+51021,120708,Scartella cristata,Molly Miller,eatenBy
+51021,638446,Acanthonyx quadridentatus,Fourtooth Decorator Crab,eatenBy
+51021,95478,Bathygobius fuscus,Dusky Frillgoby,eatenBy
+51021,128831,Eriphia gonagra,Redfinger Rubble Crab,eatenBy
+51021,195201,Pachygrapsus transversus,Mottled Shore Crab,eatenBy
+51021,47629,Caprella,,eatenBy
+51021,,Omalogyra atomus,,eatenBy
+51021,118692,Coryphoblennius galerita,Montagu's Blenny,eatenBy
+51021,51488,Ammotheidae,,eatenBy
+51021,777268,Pirimela denticulata,Toothed Crab,eatenBy
+51021,128834,Eriphia verrucosa,Warty Crab,eatenBy
+51021,59806,Gammaridae,,eatenBy
+51021,,Liza ramada,,eatenBy
+51021,67578,Grapsus adscensionis,East Atlantic Sally Lightfoot Crab,eatenBy
+51021,494436,Acanthonyx lunulatus,,eatenBy
+51021,260410,Menippe nodifrons,Cuban Stone Crab,eatenBy
+51021,499535,Fissurella rosea,Rosy Keyhole Limpet,eatenBy
+51021,259878,Hippolyte obliquimanus,,eatenBy
+51021,48645,Megathura crenulata,Giant Keyhole Limpet,preyedUponBy
+51021,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+51021,347389,Lithopoma,,preyedUponBy
+51021,179833,Lytechinus anamesus,white sea urchin,preyedUponBy
+51021,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+51021,81963,Girella nigricans,Opaleye,preyedUponBy
+51021,105388,Medialuna californiensis,Halfmoon,preyedUponBy

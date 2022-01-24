@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+28557,47120,Arthropoda,Arthropods,eats
+28557,8021,Corvus brachyrhynchos,American Crow,eatenBy
+28557,46341,Soricidae,Shrews,eatenBy
+28557,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+28557,41663,Procyon lotor,Common Raccoon,eatenBy
+28557,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+28557,,Spermophilus tridecemlineatus,,eatenBy
+28557,922459,Felis silvestris,European Wildcat,eatenBy
+28557,515419,Lampropeltis triangulum,Eastern Milksnake,eatenBy
+28557,47114,Gastropoda,Gastropods,preysOn
+28557,,Micrurus fulvius,,preyedUponBy

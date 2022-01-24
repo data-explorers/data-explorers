@@ -1,0 +1,136 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51104,123862,Chaetoceros,,eats
+51104,67334,Cyanobacteria,cyanobacteria,eats
+51104,67333,Bacteria,bacteria,eats
+51104,152275,Thalassiosirales,,eats
+51104,123865,Coscinodiscus,,eats
+51104,203644,Scrippsiella,,eats
+51104,,Chrysophyta,,eats
+51104,345020,Thalassiothrix,,eats
+51104,203808,Navicula,,eats
+51104,203622,Rhizosoleniaceae,,eats
+51104,339072,Prorocentrum,,eats
+51104,340479,Radiolaria,,eats
+51104,359995,Thalassionema nitzschioides,,eats
+51104,,Prymnesiophyceae,,eats
+51104,200862,Bacillariaceae,,eats
+51104,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eats
+51104,295894,Vibilia stebbingi,,eats
+51104,617783,Electrona antarctica,,eats
+51104,617786,Gymnoscopelus braueri,,eats
+51104,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+51104,39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,eatenBy
+51104,187047,Allothunnus fallai,Slender tuna,eatenBy
+51104,114122,Thunnus alalunga,Albacore,eatenBy
+51104,52966,Phacellophora camtschatica,Egg-yolk Jelly,eatenBy
+51104,41728,Mirounga angustirostris,Northern Elephant Seal,eatenBy
+51104,195136,Euphausia,,eatenBy
+51104,126967,Pyura,Red-baits,eatenBy
+51104,48483,Chrysaora,Sea Nettles,eatenBy
+51104,48921,Hydrozoa,Hydrozoans,eatenBy
+51104,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+51104,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+51104,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+51104,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+51104,540910,Schedophilus velaini,Ocean Blue-eye Trevalla,eatenBy
+51104,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eatenBy
+51104,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+51104,,Trematomus bernacchii,,eatenBy
+51104,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+51104,430553,Merlangius merlangus,Whiting,eatenBy
+51104,94105,Anguilla anguilla,European Eel,eatenBy
+51104,215318,Boreogadus saida,Arctic Cod,eatenBy
+51104,118600,Sardina pilchardus,European Sardine,eatenBy
+51104,118656,Pagellus acarne,Axillary Seabream,eatenBy
+51104,118657,Pagellus bogaraveo,Blackspot Seabream,eatenBy
+51104,530627,Phosichthys argenteus,Silver Lightfish,eatenBy
+51104,530419,Diaphus danae,Dana Lanternfish,eatenBy
+51104,64478,Sebastes entomelas,Widow Rockfish,eatenBy
+51104,51362,Alosa pseudoharengus,Alewife,eatenBy
+51104,64471,Sebastes mystinus,Blue Rockfish,eatenBy
+51104,411070,Lepidorhynchus denticulatus,Toothed Whiptail,eatenBy
+51104,608520,Argentina elongata,,eatenBy
+51104,90371,Notothenia,,eatenBy
+51104,616975,Coelorinchus aspercephalus,Oblique banded rattail,eatenBy
+51104,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+51104,93644,Alepisaurus ferox,Longnose Lancetfish,eatenBy
+51104,100430,Etelis carbunculus,Ruby Snapper,eatenBy
+51104,49508,Aprion virescens,Green Jobfish,eatenBy
+51104,410999,Etelis coruscans,Flame Snapper,eatenBy
+51104,122914,Pristipomoides filamentosus,Rosy Snapper,eatenBy
+51104,110361,Prionace glauca,Blue Shark,eatenBy
+51104,230764,Sebastes zacentrus,Sharpchin Rockfish,eatenBy
+51104,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+51104,107570,Oncorhynchus gorbuscha,Pink Salmon,eatenBy
+51104,228388,Pleurogrammus monopterygius,Atka Mackerel,eatenBy
+51104,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+51104,53692,Oncorhynchus kisutch,Coho Salmon,eatenBy
+51104,233953,Zaprora silenus,Prowfish,eatenBy
+51104,,Theragra chalcogramma,,eatenBy
+51104,230756,Sebastes helvomaculatus,Rosethorn Rockfish,eatenBy
+51104,,Strongylocentrotus franciscanus,,eatenBy
+51104,231540,Stenobrachius leucopsarus,Northern Lampfish,eatenBy
+51104,64450,Sebastes alutus,Pacific Ocean Perch,eatenBy
+51104,89654,Lycodapus,,eatenBy
+51104,340493,Octocorallia,Octocorals,eatenBy
+51104,41426,Berardius bairdii,Baird's Beaked Whale,eatenBy
+51104,67526,Diomedeidae,Albatrosses,eatenBy
+51104,105599,Merluccius productus,Pacific Hake,eatenBy
+51104,230754,Sebastes borealis,Shortraker Rockfish,eatenBy
+51104,64465,Sebastes pinniger,Canary Rockfish,eatenBy
+51104,51353,Anoplopoma fimbria,Sablefish,eatenBy
+51104,41402,Mesoplodon,Mesoplodont Whales,eatenBy
+51104,87642,Coryphaenoides,,eatenBy
+51104,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+51104,64477,Sebastes flavidus,Yellowtail Rockfish,eatenBy
+51104,232317,Tarletonbeania crenularis,Blue Lanternfish,eatenBy
+51104,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+51104,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+51104,48416,Citharichthys,,eatenBy
+51104,107572,Oncorhynchus keta,Chum Salmon,eatenBy
+51104,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+51104,108614,Paranthias furcifer,Atlantic Creolefish,eatenBy
+51104,108196,Pagrus pagrus,Red Porgy,eatenBy
+51104,1321176,Cyllopus lucasii,,eatenBy
+51104,295887,Vibilia antarctica,,eatenBy
+51104,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+51104,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+51104,260307,Plesionika martia,Golden shrimp,eatenBy
+51104,324560,Alloteuthis media,Midsize Squid,eatenBy
+51104,110696,Protomyctophum luciferum,,eatenBy
+51104,226037,Notoscopelus resplendens,Patchwork Lanternfish,eatenBy
+51104,530440,Hygophum hanseni,Hansen's Lanternfish,eatenBy
+51104,317181,Lampanyctus alatus,Winged Lanternfish,eatenBy
+51104,317153,Hygophum hygomii,Hygom's Lanternfish,eatenBy
+51104,459279,Lampanyctus pusillus,Pygmy Lanternfish,eatenBy
+51104,530456,Symbolophorus barnardi,Barnard's Lanternfish,eatenBy
+51104,530438,Gymnoscopelus microlampas,Minispotted Lanternfish,eatenBy
+51104,617817,Protomyctophum andriashevi,,eatenBy
+51104,317036,Ceratoscopelus warmingii,Warming's Lanternfish,eatenBy
+51104,103965,Lampadena pontifex,,eatenBy
+51104,617785,Gymnoscopelus bolini,,eatenBy
+51104,617788,Gymnoscopelus nicholsi,,eatenBy
+51104,317001,Benthosema suborbitale,Dimple Lanternfish,eatenBy
+51104,530435,Electrona subaspera,Rough Lanternfish,eatenBy
+51104,103722,Krefftichthys anderssoni,,eatenBy
+51104,530446,Metelectrona herwigi,Herwig Lanternfish,eatenBy
+51104,617783,Electrona antarctica,,eatenBy
+51104,459369,Diaphus taaningi,,eatenBy
+51104,120700,Diaphus meadi,Mead's Lanternfish,eatenBy
+51104,530457,Symbolophorus boops,Spotfin Lanternfish,eatenBy
+51104,,Medium demersals,,preysOn
+51104,,Benthic infauna,,preysOn
+51104,617783,Electrona antarctica,,preysOn
+51104,541733,Notothenia rossii,Marbled Rockcod,preysOn
+51104,,L. weddellii/O. rossii,,preysOn
+51104,42251,Gazella,Slender Gazelles,preysOn
+51104,,Large demersals,,preysOn
+51104,,Small demersals,,preysOn
+51104,,Carcinophagus,,preysOn
+51104,,G. braueri (90-120mm),,preyedUponBy
+51104,,Zooplankton,,preyedUponBy
+51104,,Krill larvae,,preyedUponBy
+51104,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preyedUponBy
+51104,617786,Gymnoscopelus braueri,,preyedUponBy
+51104,617783,Electrona antarctica,,preyedUponBy
+51104,295894,Vibilia stebbingi,,preyedUponBy

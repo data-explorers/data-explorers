@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68165,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+68165,53437,Rosa californica,California Wild Rose,eats
+68165,48939,Eriogonum,wild buckwheats,eats
+68165,53359,Baccharis pilularis,coyote brush,eats
+68165,60218,Ficus carica,common fig,eats
+68165,47434,Poaceae,grasses,eats
+68165,67737,Rhionaeschna multicolor,Blue-eyed Darner,eats
+68165,49339,Encelia farinosa,brittlebush,eats
+68165,57095,Eriodictyon californicum,California yerba santa,eats
+68165,,Leucadendron,,eats
+68165,,Calosoma,,eats
+68165,,Sceloporus occidentalis longipes,,eats
+68165,443832,Sophora fernandeziana,,pollinates
+68165,,Pyxidanthera barbulata,,pollinates
+68165,47158,Insecta,Insects,preysOn
+68165,47793,Dermaptera,Earwigs,preysOn

@@ -1,0 +1,58 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4789,4672,Falco columbarius,Merlin,eatenBy
+4789,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4789,8010,Corvus corax,Common Raven,eatenBy
+4789,42069,Vulpes vulpes,Red Fox,eatenBy
+4789,4736,Ciconia nigra,Black Stork,eatenBy
+4789,4733,Ciconia ciconia,White Stork,eatenBy
+4789,559064,Circus cyaneus,Hen Harrier,eatenBy
+4789,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+4789,5178,Circus macrourus,Pallid Harrier,eatenBy
+4789,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+4789,5081,Aquila adalberti,Spanish Eagle,eatenBy
+4789,41,Grus grus,Common Crane,eatenBy
+4789,4657,Falco rusticolus,Gyrfalcon,eatenBy
+4789,3896,Numenius arquata,Eurasian Curlew,eatenBy
+4789,204533,Larus argentatus,Herring Gull,eatenBy
+4789,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4789,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+4789,77,Otis tarda,Great Bustard,eatenBy
+4789,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+4789,4368,Larus marinus,Great Black-backed Gull,eatenBy
+4789,144297,Stercorarius skua,Great Skua,eatenBy
+4789,144522,Ichthyaetus audouinii,Audouin's Gull,eatenBy
+4789,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4789,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4789,4389,Larus cachinnans,Caspian Gull,eatenBy
+4789,204519,Halcyon smyrnensis,White-throated Kingfisher,eatenBy
+4789,19910,Strix uralensis,Ural Owl,eatenBy
+4789,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4789,20315,Asio flammeus,Short-eared Owl,eatenBy
+4789,19898,Strix aluco,Tawny Owl,eatenBy
+4789,20307,Asio otus,Long-eared Owl,eatenBy
+4789,8029,Corvus frugilegus,Rook,eatenBy
+4789,204496,Corvus corone,Carrion Crow,eatenBy
+4789,,Coloeus monedula,,eatenBy
+4789,851014,Canis aureus,Golden Jackal,eatenBy
+4789,42048,Canis lupus,Gray Wolf,eatenBy
+4789,41961,Felis chaus,Jungle Cat,eatenBy
+4789,922459,Felis silvestris,European Wildcat,eatenBy
+4789,41900,Herpestes ichneumon,Ichneumon,eatenBy
+4789,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+4789,855297,Meles meles,European Badger,eatenBy
+4789,41808,Mustela erminea,Eurasian Stoat,eatenBy
+4789,41812,Mustela putorius,Western Polecat,eatenBy
+4789,41805,Mustela lutreola,European Mink,eatenBy
+4789,74670,Mustela eversmanii,Steppe Polecat,eatenBy
+4789,42134,Sus scrofa,Wild Boar,eatenBy
+4789,42065,Vulpes corsac,Corsac Fox,eatenBy
+4789,41641,Ursus arctos,Brown Bear,eatenBy
+4789,64714,Vaccinium uliginosum,bog bilberry,eatenBy
+4789,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4789,,Elaphe situla,,eatenBy
+4789,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+4789,39407,Varanus griseus,Desert Monitor,eatenBy
+4789,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+4789,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4789,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4789,28451,Telescopus nigriceps,Black headed snake,eatenBy

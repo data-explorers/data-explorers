@@ -1,0 +1,122 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47266,342912,Caridea,Caridean Shrimps,eats
+47266,47459,Cephalopoda,Cephalopods,eats
+47266,47178,Actinopterygii,Ray-finned Fishes,eats
+47266,1,Animalia,Animals,eats
+47266,47490,Polychaeta,Polychaete Worms,eats
+47266,47120,Arthropoda,Arthropods,eats
+47266,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+47266,51508,Ctenophora,Comb Jellies,eats
+47266,41573,Carnivora,Carnivorans,eats
+47266,51911,Engraulidae,Anchovies,eats
+47266,92583,Trachurus,Jack Mackerels,eats
+47266,195355,Hyperiidae,,eats
+47266,120676,Trachurus picturatus,Blue Jack Mackerel,eats
+47266,,Suprabenthos,,eats
+47266,99979,Engraulis ringens,Peruvian Anchoveta,eats
+47266,,Gelatinous zooplankton,,eats
+47266,,Ethmidium maculatum,,eats
+47266,1126296,Astarte arctica,,eats
+47266,52306,Squalus acanthias,White-spotted Dogfish,eats
+47266,83846,Urophycis chuss,squirrel hake,eats
+47266,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+47266,233276,Urophycis regia,Spotted Hake,eats
+47266,49961,Mustelus canis,Dusky Smooth-hound,eats
+47266,97990,Clupea harengus,Atlantic Herring,eats
+47266,69842,Scomber,,eats
+47266,233277,Urophycis tenuis,White Hake,eats
+47266,224886,Merluccius bilinearis,Silver Hake,eats
+47266,51362,Alosa pseudoharengus,Alewife,eats
+47266,179507,Peprilus triacanthus,Butterfish,eats
+47266,151762,Venustaconcha ellipsiformis,Ellipse,eats
+47266,486530,Gobiopsis atrata,New Zealand Black Goby,eats
+47266,82353,Merluccius,Hakes,eats
+47266,459368,Diaphus splendidus,Horned Lanternfish,eats
+47266,85792,Gonostomatidae,Bristlemouths,eats
+47266,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+47266,,Etrumeus teres,,eats
+47266,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+47266,529915,Thyrsitoides marleyi,Black Snoek,eats
+47266,,chub mackerel,,eats
+47266,82352,Merlucciidae,Merlucciid Hakes,eats
+47266,118600,Sardina pilchardus,European Sardine,eats
+47266,1248690,Amoya moloanus,,eats
+47266,317152,Hygophum benoiti,,eats
+47266,,other pelagics,,eats
+47266,317449,Vinciguerria attenuata,Slender Lightfish,eats
+47266,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+47266,41479,Delphinidae,Oceanic Dolphins,eatenBy
+47266,43584,Homo sapiens,Human,eatenBy
+47266,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eatenBy
+47266,41437,Phocoenidae,Porpoises,eatenBy
+47266,41687,Phocidae,Earless Seals,eatenBy
+47266,3,Aves,Birds,eatenBy
+47266,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+47266,47273,Elasmobranchii,Elasmobranchs,eatenBy
+47266,56943,Katsuwonus pelamis,Skipjack Tuna,eatenBy
+47266,47257,Acanthocybium solandri,Wahoo,eatenBy
+47266,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+47266,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+47266,41525,Delphinus capensis,Long-beaked Common Dolphin,eatenBy
+47266,3797,Sula leucogaster,Brown Booby,eatenBy
+47266,3793,Sula sula,Red-footed Booby,eatenBy
+47266,,Chondrichthyes,,eatenBy
+47266,,Demersal piscivores,,eatenBy
+47266,317435,Urophycis cirrata,Gulf Hake,eatenBy
+47266,424322,Odontoceti,Toothed Whales,eatenBy
+47266,,Commercial sparids 2,,eatenBy
+47266,,Seabirds,,eatenBy
+47266,92881,Xiphias,,eatenBy
+47266,47542,Istiophoridae,Billfishes,eatenBy
+47266,41539,Pseudorca crassidens,False Killer Whale,eatenBy
+47266,225824,Nesiarchus nasutus,Black Gemfish,eatenBy
+47266,136618,Istiophorus albicans,Atlantic Sailfish,eatenBy
+47266,110361,Prionace glauca,Blue Shark,eatenBy
+47266,115167,Xiphias gladius,Swordfish,eatenBy
+47266,68050,Alopias pelagicus,Pelagic Thresher Shark,eatenBy
+47266,187571,Kajikia albida,Atlantic White Marlin,eatenBy
+47266,213895,Aphanopus carbo,Black Scabbardfish,eatenBy
+47266,147455,Makaira nigricans,Blue Marlin,eatenBy
+47266,317007,Brama caribbea,,eatenBy
+47266,101187,Galeus nipponensis,Broadfin Sawtail Catshark,eatenBy
+47266,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+47266,93696,Alopias vulpinus,Thresher Shark,eatenBy
+47266,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+47266,119719,Istiophorus platypterus,Indo-Pacific Sailfish,eatenBy
+47266,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+47266,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+47266,179456,Stellifer lanceolatus,American Stardrum,eatenBy
+47266,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+47266,51401,Trachinotus ovatus,Pompano,eatenBy
+47266,3786,Sula nebouxii,Blue-footed Booby,eatenBy
+47266,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+47266,4537,Anous minutus,Black Noddy,eatenBy
+47266,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+47266,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+47266,4535,Anous stolidus,Brown Noddy,eatenBy
+47266,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+47266,4566,Gygis alba,White Tern,eatenBy
+47266,4636,Fregata minor,Great Frigatebird,eatenBy
+47266,4101,Puffinus nativitatis,Christmas Shearwater,eatenBy
+47266,4436,Sterna dougallii,Roseate Tern,eatenBy
+47266,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+47266,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+47266,47459,Cephalopoda,Cephalopods,preysOn
+47266,120676,Trachurus picturatus,Blue Jack Mackerel,preysOn
+47266,41573,Carnivora,Carnivorans,preysOn
+47266,,other pelagics,,preysOn
+47266,118600,Sardina pilchardus,European Sardine,preysOn
+47266,317152,Hygophum benoiti,,preysOn
+47266,,chub mackerel,,preysOn
+47266,82352,Merlucciidae,Merlucciid Hakes,preysOn
+47266,1248690,Amoya moloanus,,preysOn
+47266,317449,Vinciguerria attenuata,Slender Lightfish,preysOn
+47266,99979,Engraulis ringens,Peruvian Anchoveta,preysOn
+47266,,Etrumeus teres,,preysOn
+47266,,Other pelagics,,preysOn
+47266,,Chub mackerel,,preysOn
+47266,317435,Urophycis cirrata,Gulf Hake,preyedUponBy
+47266,,Commercial sparids (2),,preyedUponBy
+47266,,Chondrichthyes,,preyedUponBy
+47266,,Demersal piscivores,,preyedUponBy
+47266,424322,Odontoceti,Toothed Whales,preyedUponBy

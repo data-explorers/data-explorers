@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118710,1,Animalia,Animals,eats
+118710,85493,Crustacea,Crustaceans,eats
+118710,47628,Amphipoda,Amphipods,eats
+118710,121643,Copepoda,Copepods,eats
+118710,195355,Hyperiidae,,eats
+118710,48147,Isopoda,Isopods,eats
+118710,48779,Lepadidae,Goose Barnacles,eats
+118710,153112,Euphausiacea,krill,eats
+118710,47186,Decapoda,Decapods,eats
+118710,85912,Mysidae,,eats
+118710,49796,Stomatopoda,Mantis Shrimps,eats
+118710,,Gnathostomata,,eats
+118710,,,,eats
+118710,195266,Sergestes,,eats
+118710,,Alciopidae,,eats
+118710,,Pisces,,eats
+118710,,Atlantidae,,eats
+118710,,Cephalaspidomorphi,,eats
+118710,496460,Stigmatomyces,,eats
+118710,3793,Sula sula,Red-footed Booby,eatenBy
+118710,3797,Sula leucogaster,Brown Booby,eatenBy
+118710,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+118710,4537,Anous minutus,Black Noddy,eatenBy
+118710,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+118710,4566,Gygis alba,White Tern,eatenBy
+118710,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+118710,4535,Anous stolidus,Brown Noddy,eatenBy
+118710,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+118710,4436,Sterna dougallii,Roseate Tern,eatenBy
+118710,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+118710,188556,Tetrapturus belone,Mediterranean Spearfish,eatenBy
+118710,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy

@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47457,153112,Euphausiacea,krill,eats
+47457,47178,Actinopterygii,Ray-finned Fishes,eats
+47457,342912,Caridea,Caridean Shrimps,eats
+47457,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47457,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+47457,41440,Phocoena phocoena,Harbour Porpoise,eatenBy
+47457,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+47457,69676,Thunnus,Bluefin Tunas,eatenBy
+47457,430553,Merlangius merlangus,Whiting,eatenBy
+47457,101176,Galeorhinus galeus,School Shark,eatenBy
+47457,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+47457,104534,Leucoraja fullonica,Shagreen Skate,eatenBy
+47457,228496,Pollachius virens,Pollock,eatenBy
+47457,112381,Scyliorhinus stellaris,Nursehound,eatenBy
+47457,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47457,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+47457,47523,Pleuronectes platessa,European Plaice,eatenBy
+47457,125291,Molva molva,European Ling,eatenBy
+47457,63740,Gadus morhua,Atlantic Cod,eatenBy
+47457,118610,Lophius piscatorius,Angler,eatenBy
+47457,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+47457,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+47457,144433,Thalassarche melanophris,Black-browed Albatross,eatenBy
+47457,41450,Neophocaena phocaenoides,Finless Porpoise,eatenBy
+47457,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+47457,41529,Globicephala melas,Long-finned Pilot Whale,eatenBy
+47457,,Cephalorhynchus commersonii,,eatenBy
+47457,41733,Halichoerus grypus,Grey Seal,eatenBy
+47457,41751,Arctocephalus gazella,Antarctic Fur Seal,eatenBy
+47457,41731,Leptonychotes weddellii,Weddell Seal,eatenBy
+47457,194676,Dissostichus eleginoides,Patagonian Toothfish,eatenBy
+47457,508990,Diomedea exulans,Wandering Albatross,eatenBy
+47457,4168,Daption capense,Cape Petrel,eatenBy
+47457,4195,Pagodroma nivea,Snow Petrel,eatenBy
+47457,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+47457,52539,Ophiodon elongatus,Lingcod,eatenBy
+47457,317007,Brama caribbea,,eatenBy
+47457,122033,Elagatis bipinnulata,Rainbow Runner,eatenBy
+47457,68597,Sebastes caurinus,copper rockfish,eatenBy
+47457,3808,Pygoscelis papua,Gentoo Penguin,eatenBy
+47457,3825,Eudyptes chrysolophus,Macaroni Penguin,eatenBy
+47457,48397,Raja clavata,Thornback Skate,eatenBy
+47457,131530,Lutjanus synagris,Lane Snapper,eatenBy
+47457,131388,Haemulon melanurum,Cottonwick,eatenBy
+47457,52539,Ophiodon elongatus,Lingcod,preyedUponBy
+47457,51353,Anoplopoma fimbria,Sablefish,preyedUponBy

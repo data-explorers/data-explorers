@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51112,7044,Aythya collaris,Ring-necked Duck,eatenBy
+51112,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+51112,473,Fulica americana,American Coot,eatenBy
+51112,112107,Scaphirhynchus platorynchus,Shovelnose Sturgeon,eatenBy
+51112,,Pylodictis olivaris,,eatenBy
+51112,93187,Acipenser oxyrinchus,Atlantic Sturgeon,eatenBy
+51112,93181,Acipenser fulvescens,Lake Sturgeon,eatenBy
+51112,7054,Aythya affinis,Lesser Scaup,eatenBy
+51112,6990,Bucephala clangula,Common Goldeneye,eatenBy
+51112,7057,Aythya valisineria,Canvasback,eatenBy
+51112,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy

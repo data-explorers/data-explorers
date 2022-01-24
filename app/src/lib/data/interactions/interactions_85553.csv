@@ -1,0 +1,206 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85553,3,Aves,Birds,eats
+85553,47120,Arthropoda,Arthropods,eats
+85553,47118,Araneae,Spiders,eats
+85553,43698,Rodentia,Rodents,eats
+85553,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+85553,574,Phasianidae,"Pheasants, Grouse, and Allies",eats
+85553,44326,Microtus californicus,California Vole,eats
+85553,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+85553,9156,Passerella iliaca,Fox Sparrow,eats
+85553,14886,Mimus polyglottos,Northern Mockingbird,eats
+85553,12890,Catharus guttatus,Hermit Thrush,eats
+85553,20445,Tyto alba,Barn Owl,eats
+85553,,hyperparisitoids,,eats
+85553,,Aporosaura,,eats
+85553,,Typhlosaurus,,eats
+85553,,Pteroclididae,,eats
+85553,26159,Alligator mississippiensis,American Alligator,eats
+85553,,Epomophorus gambianus,,eats
+85553,,Picoides scalaris,,eats
+85553,40352,Myotis grisescens,Gray Bat,eats
+85553,,Blarina carolinensis,,eats
+85553,26729,Ambystoma annulatum,Ringed Salamander,eats
+85553,,Megaderma lyra,,eats
+85553,,Elephantulus rufescens,,eats
+85553,,Dipodomys microps,,eats
+85553,47051,Neurotrichus gibbsii,American Shrewmole,eats
+85553,925950,Conepatus chinga,Molina's Hog-nosed Skunk,eats
+85553,,Blarina hylophaga,,eats
+85553,,Neotragus moschatus,,eats
+85553,,Saguinus nigricollis,,eats
+85553,,Amphispiza bilineata,,eats
+85553,,Ratufa indica,,eats
+85553,,Peromyscus gossypinus,,eats
+85553,,Cebus olivaceus,,eats
+85553,44653,Tatera indica,Indian Gerbil,eats
+85553,,Leontopithecus chrysopygus,,eats
+85553,,Notomys alexis,,eats
+85553,,Elephantulus myurus,,eats
+85553,,Spermophilus lateralis,,eats
+85553,5416,Ictinia mississippiensis,Mississippi Kite,eats
+85553,,Peromyscus polionotus,,eats
+85553,,Hylobates klossii,,eats
+85553,44066,Thomomys talpoides,Northern Pocket Gopher,eats
+85553,,Nyctinomops laticaudatus,,eats
+85553,,Solenodon cubanus,,eats
+85553,,Microtus ochrogaster,,eats
+85553,,Miopithecus talapoin,,eats
+85553,,Eidolon helvum,,eats
+85553,,Plecotus rafinesquii,,eats
+85553,46407,Sorex dispar,Gray Long-tailed Shrew,eats
+85553,40719,Hipposideros diadema,Diadem Roundleaf Bat,eats
+85553,40569,Nycticeius humeralis,Evening Bat,eats
+85553,45292,Hydromys chrysogaster,Rakali,eats
+85553,,Onychomys arenicola,,eats
+85553,,Lasiurus seminolus,,eats
+85553,,Lemmiscus curtatus,,eats
+85553,46255,Ammospermophilus leucurus,White-tailed Antelope Squirrel,eats
+85553,,Orthogeomys heterodus,,eats
+85553,,Dipodomys californicus,,eats
+85553,,Conepatus leuconotus,,eats
+85553,,Natalus lepidus,,eats
+85553,,Diaemus youngi,,eats
+85553,4763,Sarcoramphus papa,King Vulture,eats
+85553,,Carpodacus mexicanus,,eats
+85553,19577,Chordeiles minor,Common Nighthawk,eats
+85553,42649,Didelphis marsupialis,Southern Opossum,eats
+85553,,Wilsonia citrina,,eats
+85553,44598,Akodon cursor,Cursor Grass Mouse,eats
+85553,,Chaetodipus baileyi,,eats
+85553,3,Aves,Birds,eatenBy
+85553,574,Phasianidae,"Pheasants, Grouse, and Allies",eatenBy
+85553,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+85553,8021,Corvus brachyrhynchos,American Crow,eatenBy
+85553,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+85553,4956,Ardea herodias,Great Blue Heron,eatenBy
+85553,4665,Falco sparverius,American Kestrel,eatenBy
+85553,4756,Cathartes aura,Turkey Vulture,eatenBy
+85553,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+85553,42069,Vulpes vulpes,Red Fox,eatenBy
+85553,42051,Canis latrans,Coyote,eatenBy
+85553,8010,Corvus corax,Common Raven,eatenBy
+85553,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+85553,4940,Egretta thula,Snowy Egret,eatenBy
+85553,20044,Bubo virginianus,Great Horned Owl,eatenBy
+85553,19893,Strix varia,Barred Owl,eatenBy
+85553,,American mink,,eatenBy
+85553,,Aquila chrysaetos,,eatenBy
+85553,,Felis silvestris lybica,,eatenBy
+85553,,Canis lupus familiaris,,eatenBy
+85553,42048,Canis lupus,Gray Wolf,eatenBy
+85553,19975,Athene cunicularia,Burrowing Owl,eatenBy
+85553,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+85553,553515,Rhinella marina,Cane Toad,eatenBy
+85553,,Swainson's hawk,,eatenBy
+85553,41676,Bassariscus astutus,Ringtail,eatenBy
+85553,,Kaupifalco monogrammicus,,eatenBy
+85553,,Bucorvus leadbeateri,,eatenBy
+85553,,Bucorvus abyssinicus,,eatenBy
+85553,,Circaetus gallicus,,eatenBy
+85553,47518,Salmo trutta,Brown Trout,eatenBy
+85553,,Terathopius ecaudatus,,eatenBy
+85553,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+85553,201043,Geranoaetus albicaudatus,White-tailed Hawk,eatenBy
+85553,,Ardea melanocephala,,eatenBy
+85553,,Eudocimus albus,,eatenBy
+85553,4937,Egretta caerulea,Little Blue Heron,eatenBy
+85553,5017,Bubulcus ibis,Cattle Egret,eatenBy
+85553,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+85553,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+85553,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+85553,4951,Ardea purpurea,Purple Heron,eatenBy
+85553,144455,Ardea alba,Great Egret,preyedUponBy
+85553,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+85553,19893,Strix varia,Barred Owl,preyedUponBy
+85553,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+85553,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+85553,73592,Actinemys marmorata,Western Pond Turtle,preyedUponBy
+85553,12727,Turdus migratorius,American Robin,preyedUponBy
+85553,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+85553,8021,Corvus brachyrhynchos,American Crow,preyedUponBy
+85553,5227,Buteo platypterus,Broad-winged Hawk,preyedUponBy
+85553,,Agkistrodon piscivorus leucostoma,,preyedUponBy
+85553,,Echis ocellatus,,preyedUponBy
+85553,28942,Pseudoboa nigra,Black False Boa,preyedUponBy
+85553,27149,Coluber constrictor constrictor,Northern Black Racer,preyedUponBy
+85553,29813,Lampropeltis getula,Eastern Kingsnake,preyedUponBy
+85553,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+85553,,Amblyodipsas polylepis,,preyedUponBy
+85553,26583,Diadophis punctatus regalis,Regal Ringneck Snake,preyedUponBy
+85553,29003,Prosymna ambigua,Angolan Shovel-snout,preyedUponBy
+85553,,Gonionotophis capensis,,preyedUponBy
+85553,30481,Naja anchietae,Anchieta's Cobra,preyedUponBy
+85553,30740,Crotalus lepidus,Rock Rattlesnake,preyedUponBy
+85553,30448,Bungarus fasciatus,Banded Krait,preyedUponBy
+85553,28649,Sonora semiannulata,Ground Snake,preyedUponBy
+85553,,Coluber taeniatus,,preyedUponBy
+85553,32278,Cylindrophis ruffus,Red Cylinder Snake,preyedUponBy
+85553,27623,Boiga dendrophila,Gold-ringed Cat Snake,preyedUponBy
+85553,95866,Boiruna maculata,False Mussurana,preyedUponBy
+85553,110953,Pseudoboa martinsi,Pale Collared Scarlet Snake,preyedUponBy
+85553,27618,Boiruna sertaneja,,preyedUponBy
+85553,,Clelia plumbea,,preyedUponBy
+85553,515419,Lampropeltis triangulum,Eastern Milksnake,preyedUponBy
+85553,28945,Pseudoboa haasi,Paraná False Boa,preyedUponBy
+85553,32131,Aspidites ramsayi,Woma Python,preyedUponBy
+85553,28493,Tantilla nigriceps,Plains Black-headed Snake,preyedUponBy
+85553,,Atractaspis aterrima,,preyedUponBy
+85553,,Coluber flagellum,,preyedUponBy
+85553,,Cemophora coccinea copei,,preyedUponBy
+85553,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+85553,30767,Bothrops,Neotropical Lanceheads,preyedUponBy
+85553,,Bungarus flaviceps,,preyedUponBy
+85553,,Thamnodynastes hypoconia,,preyedUponBy
+85553,30784,Bothrops moojeni,Brazilian Lancehead,preyedUponBy
+85553,68340,Elaphe quadrivirgata,Japanese Four-lined Ratsnake,preyedUponBy
+85553,116496,Atractaspis bibronii,Southern Stiletto Snake,preyedUponBy
+85553,,Bothriopsis bilineata,,preyedUponBy
+85553,30743,Crotalus lepidus klauberi,Banded Rock Rattlesnake,preyedUponBy
+85553,30798,Bothrops asper,Terciopelo,preyedUponBy
+85553,32127,Aspidites melanocephalus,Black-headed Python,preyedUponBy
+85553,106446,Naja annulifera,Snouted Cobra,preyedUponBy
+85553,32194,Liasis olivaceus,Olive Python,preyedUponBy
+85553,,Pseudoboa neuwiedii,,preyedUponBy
+85553,,Psammophis lineatus,,preyedUponBy
+85553,30442,Bungarus multicinctus,Many-banded Krait,preyedUponBy
+85553,83877,Bothrops jararacussu,Jararacussu,preyedUponBy
+85553,29014,Prosymna janii,Mozambique Shovel-snout,preyedUponBy
+85553,95916,Bothrops leucurus,Whitetail Lancehead,preyedUponBy
+85553,,Pseudechis guttatus,,preyedUponBy
+85553,,Ophiophagus hannah,,preyedUponBy
+85553,,Liophis poecilogyrus,,preyedUponBy
+85553,539420,Bothrops pauloensis,Cerrado Lancehead,preyedUponBy
+85553,27035,Hierophis viridiflavus carbonarius,,preyedUponBy
+85553,28671,Sibynophis collaris,Collared Black-headed Snake,preyedUponBy
+85553,,Lycophidion meleagre,,preyedUponBy
+85553,,Platyceps rhodorachis,,preyedUponBy
+85553,,Micropechis ikaheca,,preyedUponBy
+85553,116502,Atractaspis duerdeni,Beaked Burrowing Asp,preyedUponBy
+85553,,Xenodon nattereri,,preyedUponBy
+85553,539421,Bothrops pubescens,,preyedUponBy
+85553,,Bothrops matogrossensis,,preyedUponBy
+85553,,Liophidium vaillanti,,preyedUponBy
+85553,,Gonionotophis nyassae,,preyedUponBy
+85553,,Thelotornis capensis oatesi,,preyedUponBy
+85553,116500,Atractaspis corpulenta,Fat Burrowing Asp,preyedUponBy
+85553,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy
+85553,,Buteo lineatus extimus,,preyedUponBy
+85553,,Coracias caudatus,,preyedUponBy
+85553,912622,Agkistrodon contortrix,Eastern Copperhead,preyedUponBy
+85553,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+85553,,Caracara cheriway,,preyedUponBy
+85553,4719,Herpetotheres cachinnans,Laughing Falcon,preyedUponBy
+85553,,Ardea melanocephala,,preyedUponBy
+85553,,Melierax metabates,,preyedUponBy
+85553,,Tliltocatl vagans,,preyedUponBy
+85553,,Circaetus pectoralis,,preyedUponBy
+85553,5308,Haliaeetus vocifer,African Fish-Eagle,preyedUponBy
+85553,,Kaupifalco monogrammicus,,preyedUponBy
+85553,,Bucorvus leadbeateri,,preyedUponBy
+85553,,Bucorvus abyssinicus,,preyedUponBy
+85553,,Pheidole obscurithorax,,preyedUponBy
+85553,,Circaetus gallicus,,preyedUponBy
+85553,47518,Salmo trutta,Brown Trout,preyedUponBy
+85553,,Terathopius ecaudatus,,preyedUponBy
+85553,,Rupornis magnirostris,,preyedUponBy

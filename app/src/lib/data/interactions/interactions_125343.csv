@@ -1,0 +1,110 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+125343,,Detritus,,eats
+125343,,Pyrrophycophyta,,eats
+125343,,Khakista,,eats
+125343,3938,Arenaria interpres,Ruddy Turnstone,eatenBy
+125343,63740,Gadus morhua,Atlantic Cod,eatenBy
+125343,,sediment,,eatenBy
+125343,210217,Onuphidae,,eatenBy
+125343,3857,Calidris alpina,Dunlin,eatenBy
+125343,47126,Plantae,plants,preysOn
+125343,329118,Sapphirina,,preysOn
+125343,,Microphallus claviformis,,preysOn
+125343,,Ceracaria #15,,preysOn
+125343,,Gymnophallus choledochus,,preysOn
+125343,,Himasthla elongata,,preysOn
+125343,,Psilostomum brevicolle,,preysOn
+125343,,Podocotyle atomon,,preysOn
+125343,,Cryptocotyle concavum,,preysOn
+125343,,Gymnophallus somateriae,,preysOn
+125343,,Levinseniella brachysoma,,preysOn
+125343,,Himasthla interrupta,,preysOn
+125343,,Cryptocotyle jejuna,,preysOn
+125343,,Labratrema minumus,,preysOn
+125343,,Deropristis inflata,,preysOn
+125343,,Maritrema subdolum,,preysOn
+125343,,Cryptocotyle lingua,,preysOn
+125343,,Renicola roscovita,,preysOn
+125343,,Himasthla continua,,preysOn
+125343,,Protista,,preysOn
+125343,,Paralaophonte brevirostris,,preysOn
+125343,329012,Centropages furcatus,,preysOn
+125343,,Saphirella,,preysOn
+125343,339089,Ergasilus,,preysOn
+125343,,Ectocyclops phaleratus,,preysOn
+125343,1196588,Corycaeus crassiusculus,,preysOn
+125343,,Metridia princeps,,preysOn
+125343,,Pararobertsonia chesapeakensis,,preysOn
+125343,567474,Acartia hudsonica,,preysOn
+125343,219884,Eurytemora affinis,,preysOn
+125343,218302,Diacyclops bicuspidatus,,preysOn
+125343,,Leptinogaster major,,preysOn
+125343,201774,Paracalanus,,preysOn
+125343,,Pseudodiaptomus coronatus,,preysOn
+125343,,Metis,,preysOn
+125343,203471,Centropages hamatus,,preysOn
+125343,,Labidocera wollastoni,,preysOn
+125343,203387,Mesocyclops edax,,preysOn
+125343,,Pontella meadii,,preysOn
+125343,329109,Oncaea,,preysOn
+125343,203467,Temora longicornis,,preysOn
+125343,493544,Diacyclops thomasi,,preysOn
+125343,201724,Temora stylifera,,preysOn
+125343,219709,Eucyclops agilis,,preysOn
+125343,,Harpacticus chelifer,,preysOn
+125343,,Corycaeus amazonicus,,preysOn
+125343,329024,Rhincalanus nasutus,,preysOn
+125343,201726,Corycaeus speciosus,,preysOn
+125343,,Alteutha depressa,,preysOn
+125343,950701,Eurytemora americana,,preysOn
+125343,295156,Acetes americanus,Aviu shrimp,preysOn
+125343,983551,Oithona colcarva,,preysOn
+125343,,Halicyclops magniceps,,preysOn
+125343,984283,Euterpina acutifrons,,preysOn
+125343,,Harpacticus gracilis,,preysOn
+125343,984261,Temora turbinata,,preysOn
+125343,,Macrocyclops,,preysOn
+125343,,Ectinosoma compressum,,preysOn
+125343,,Coullana canadensis,,preysOn
+125343,212213,Acanthocyclops vernalis,,preysOn
+125343,567473,Tortanus discaudatus,,preysOn
+125343,,Clytemnestra rostrata,,preysOn
+125343,,Pontella meadi,,preysOn
+125343,,Paracyclops fibriatus,,preysOn
+125343,201760,Nannocalanus,,preysOn
+125343,,Farranula gracilis,,preysOn
+125343,1023066,Labidocera aestiva,,preysOn
+125343,329131,Caligus,,preysOn
+125343,1349347,Tisbe furcata,,preysOn
+125343,,Subeucalanus pileatus,,preysOn
+125343,,Diosaccus tenuicornis,,preysOn
+125343,87923,Diaptomus,,preysOn
+125343,,Zausodes arenicolus,,preysOn
+125343,203397,Acartia tonsa,,preysOn
+125343,,Paracalanus crassirostris,,preysOn
+125343,,Cyclops vernalis,,preysOn
+125343,101053,Fundulus diaphanus,banded killifish,preyedUponBy
+125343,49591,Lepomis macrochirus,Bluegill,preyedUponBy
+125343,54539,Syngnathus,Pipe-fishes,preyedUponBy
+125343,204496,Corvus corone,Carrion Crow,preyedUponBy
+125343,,Limulus polyphemus,,preyedUponBy
+125343,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+125343,216647,Chasmodes bosquianus,Striped Blenny,preyedUponBy
+125343,179598,Eucinostomus gula,Silver Jenny,preyedUponBy
+125343,179427,Aluterus schoepfii,Orange Filefish,preyedUponBy
+125343,146829,Anchoa hepsetus,Striped Anchovy,preyedUponBy
+125343,104824,Lucania parva,rainwater killifish,preyedUponBy
+125343,146600,Micropogonias undulatus,Atlantic Croaker,preyedUponBy
+125343,179454,Syacium papillosum,Dusky Flounder,preyedUponBy
+125343,48902,Asterias forbesi,Forbes's Sea Star,preyedUponBy
+125343,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+125343,93844,Ameiurus catus,White Catfish,preyedUponBy
+125343,179447,Trachurus lathami,Rough Scad,preyedUponBy
+125343,179620,Cynoscion nebulosus,Spotted Seatrout,preyedUponBy
+125343,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+125343,61388,Scophthalmus aquosus,Windowpane Flounder,preyedUponBy
+125343,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy
+125343,56042,Prionotus carolinus,Northern Searobin,preyedUponBy
+125343,317228,Mullus auratus,Red Goatfish,preyedUponBy
+125343,179445,Trachinotus falcatus,Permit,preyedUponBy
+125343,179444,Upeneus parvus,Dwarf Goatfish,preyedUponBy

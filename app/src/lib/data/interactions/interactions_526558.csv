@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+526558,44259,Microtus,Meadow Voles,eats
+526558,44061,Thomomys,Western Pocket Gophers,eats
+526558,13547,Paridae,"Tits, Chickadees, and Titmice",eats
+526558,12935,Sialia,Bluebirds,eats
+526558,44349,Peromyscus,North American Deer Mice,eats
+526558,67561,Charadriiformes,Shorebirds and Allies,eats
+526558,43095,Leporidae,Hares and Rabbits,eats
+526558,44027,Geomyidae,Pocket Gophers,eats
+526558,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+526558,,Spermophilus richardsonii,,eats
+526558,,Spermophilus tridecemlineatus,,eats
+526558,,Arvicolinae,,eats
+526558,179974,Spermophilus,Old World Ground Squirrels,eats
+526558,15681,Calcarius,Typical Longspurs,eats
+526558,,Microtus ochrogaster,,eats
+526558,19350,Strigiformes,Owls,eatenBy
+526558,43584,Homo sapiens,Human,eatenBy
+526558,20044,Bubo virginianus,Great Horned Owl,eatenBy
+526558,4479,Stercorarius,Skuas and Jaegers,eatenBy
+526558,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+526558,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",preysOn
+526558,40346,Myotis lucifugus,Little Brown Bat,preysOn

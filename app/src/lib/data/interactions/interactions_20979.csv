@@ -1,0 +1,186 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+20979,47158,Insecta,Insects,eats
+20979,47118,Araneae,Spiders,eats
+20979,47114,Gastropoda,Gastropods,eats
+20979,,Algae,,eats
+20979,129260,Orchelimum vulgare,Common Meadow Katydid,eats
+20979,24267,Pseudacris triseriata,Western Chorus Frog,eats
+20979,201282,Gallinula chloropus,Common Moorhen,eats
+20979,28562,Storeria dekayi,Dekay's Brownsnake,eats
+20979,,Mellisuga helenae,,eats
+20979,27186,Plethodon cinereus,Eastern Red-backed Salamander,eats
+20979,5676,Amazilia tzacatl,Rufous-tailed Hummingbird,eats
+20979,,Detritus,,eats
+20979,,emergent carnivorous insects,,eats
+20979,,emergent herbivorous insects,,eats
+20979,,insects in herb and surface stratum - Diptera - Hemiptera - grasshoppers - etc.,,eats
+20979,,insects (mature forest),,eats
+20979,,spiders (mature forest),,eats
+20979,42069,Vulpes vulpes,Red Fox,eatenBy
+20979,28339,Thamnophis,Garter Snakes,eatenBy
+20979,39532,Testudines,Turtles and Tortoises,eatenBy
+20979,20044,Bubo virginianus,Great Horned Owl,eatenBy
+20979,4940,Egretta thula,Snowy Egret,eatenBy
+20979,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+20979,5020,Butorides virescens,Green Heron,eatenBy
+20979,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+20979,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+20979,19893,Strix varia,Barred Owl,eatenBy
+20979,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+20979,42048,Canis lupus,Gray Wolf,eatenBy
+20979,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+20979,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+20979,41796,Martes martes,Eurasian Pine Marten,eatenBy
+20979,,Corallus hortulanus,,eatenBy
+20979,,American mink,,eatenBy
+20979,,Crocodylus niloticus,,eatenBy
+20979,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+20979,3978,Actitis hypoleucos,Common Sandpiper,eatenBy
+20979,3879,Tringa totanus,Common Redshank,eatenBy
+20979,553515,Rhinella marina,Cane Toad,eatenBy
+20979,26159,Alligator mississippiensis,American Alligator,eatenBy
+20979,19975,Athene cunicularia,Burrowing Owl,eatenBy
+20979,,snakes - gharial - turtles,,eatenBy
+20979,,S. fontinalis (12-20,,eatenBy
+20979,,Trichomycterus maracaya,,eatenBy
+20979,104980,Maccullochella peelii,Murray Cod,eatenBy
+20979,53517,Monopterus cuchia,Cuchia Eel,eatenBy
+20979,,Scleropages leichardti,,eatenBy
+20979,,Hephaestus fuliginosus,,eatenBy
+20979,,Clarias brachysoma,,eatenBy
+20979,97280,Channa striata,Striped Snakehead,eatenBy
+20979,,Channa maculata,,eatenBy
+20979,68075,Oncorhynchus clarkii,Cutthroat Trout,eatenBy
+20979,,Neoceratodus forsteri,,eatenBy
+20979,,Anguilla marmorata,,eatenBy
+20979,,Labeobarbus capensis,,eatenBy
+20979,,Schilbe intermedius,,eatenBy
+20979,187548,Hucho taimen,Siberian Taimen,eatenBy
+20979,,Esox masquinongy,,eatenBy
+20979,51367,Esox niger,Chain Pickerel,eatenBy
+20979,,Horabagrus brachysoma,,eatenBy
+20979,,Scleropages jardinii,,eatenBy
+20979,47353,Lates calcarifer,Barramundi,eatenBy
+20979,569443,Cichla orinocensis,Orinoco Peacock Bass,eatenBy
+20979,112581,Silurus glanis,Wels Catfish,eatenBy
+20979,55387,Esox lucius,Northern Pike,eatenBy
+20979,,Hucho perryi,,eatenBy
+20979,,Clarias agboyiensis,,eatenBy
+20979,47518,Salmo trutta,Brown Trout,eatenBy
+20979,317079,Diplodus holbrookii,Spottail Pinfish,eatenBy
+20979,,Squalius cephalus,,eatenBy
+20979,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+20979,4937,Egretta caerulea,Little Blue Heron,eatenBy
+20979,4938,Egretta tricolor,Tricolored Heron,eatenBy
+20979,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+20979,5017,Bubulcus ibis,Cattle Egret,eatenBy
+20979,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+20979,9609,Quiscalus niger,Greater Antillean Grackle,eatenBy
+20979,,Rallus elegans,,eatenBy
+20979,4742,Mycteria americana,Wood Stork,eatenBy
+20979,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+20979,7004,Mergus merganser,Common Merganser,eatenBy
+20979,14895,Toxostoma longirostre,Long-billed Thrasher,eatenBy
+20979,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+20979,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+20979,,Pipistrellus subflavus,,preysOn
+20979,5163,Circus,Harriers,preyedUponBy
+20979,4265,Phalacrocorax auritus,Double-crested Cormorant,preyedUponBy
+20979,20445,Tyto alba,Barn Owl,preyedUponBy
+20979,6921,Cygnus olor,Mute Swan,preyedUponBy
+20979,6930,Anas platyrhynchos,Mallard,preyedUponBy
+20979,8010,Corvus corax,Common Raven,preyedUponBy
+20979,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+20979,4793,Charadrius vociferus,Killdeer,preyedUponBy
+20979,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+20979,29925,Heterodon platirhinos,Eastern Hognose Snake,preyedUponBy
+20979,28339,Thamnophis,Garter Snakes,preyedUponBy
+20979,5268,Milvus migrans,Black Kite,preyedUponBy
+20979,8000,Corvus monedula,Eurasian Jackdaw,preyedUponBy
+20979,204472,Buteo buteo,Common Buzzard,preyedUponBy
+20979,4954,Ardea cinerea,Grey Heron,preyedUponBy
+20979,559064,Circus cyaneus,Hen Harrier,preyedUponBy
+20979,,Podiceps grisegena,,preyedUponBy
+20979,6933,Anas acuta,Northern Pintail,preyedUponBy
+20979,204527,Ixobrychus minutus,Little Bittern,preyedUponBy
+20979,3896,Numenius arquata,Eurasian Curlew,preyedUponBy
+20979,,Cinclus cinclus,,preyedUponBy
+20979,559070,Lanius excubitor,Great Gray Shrike,preyedUponBy
+20979,,Mergellus albellus,,preyedUponBy
+20979,515495,Corvus corone corone,Western Carrion Crow,preyedUponBy
+20979,,Botaurus stellaris,,preyedUponBy
+20979,3878,Tringa nebularia,Common Greenshank,preyedUponBy
+20979,7045,Aythya ferina,Common Pochard,preyedUponBy
+20979,4923,Burhinus oedicnemus,Eurasian Stone-curlew,preyedUponBy
+20979,7046,Aythya fuligula,Tufted Duck,preyedUponBy
+20979,,Anas strepera,,preyedUponBy
+20979,8029,Corvus frugilegus,Rook,preyedUponBy
+20979,4512,Chlidonias niger,Black Tern,preyedUponBy
+20979,19998,Athene noctua,Little Owl,preyedUponBy
+20979,472766,Falco tinnunculus,Eurasian Kestrel,preyedUponBy
+20979,,Garrulus glandarius,,preyedUponBy
+20979,3879,Tringa totanus,Common Redshank,preyedUponBy
+20979,5106,Accipiter nisus,Eurasian Sparrowhawk,preyedUponBy
+20979,5173,Circus aeruginosus,Eurasian Marsh-Harrier,preyedUponBy
+20979,19898,Strix aluco,Tawny Owl,preyedUponBy
+20979,,Corvus cornix,,preyedUponBy
+20979,146537,Xenodon dorbignyi,South American Hognose Snake,preyedUponBy
+20979,26835,Drymobius margaritiferus,Speckled Racer,preyedUponBy
+20979,29105,Philodryas olfersii,Lichtenstein's Green Racer,preyedUponBy
+20979,,Liophis typhlus,,preyedUponBy
+20979,104905,Lygophis anomalus,Gunther´s Striped Snake,preyedUponBy
+20979,115771,Leptodeira annulata annulata,,preyedUponBy
+20979,,Hydrodynastes gigas,,preyedUponBy
+20979,,Dendrophidion nuchale,,preyedUponBy
+20979,,Erythrolamprus poecilogyrus,,preyedUponBy
+20979,,Liophis miliaris,,preyedUponBy
+20979,,Erythrolamprus poecilogyrus sublineatus,,preyedUponBy
+20979,539696,Erythrolamprus reginae,Royal Ground Snake,preyedUponBy
+20979,29976,Helicops angulatus,Mountain Keelback,preyedUponBy
+20979,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+20979,,Drymobius margaritiferus occidentalis,,preyedUponBy
+20979,26609,Dendrophidion percarinatum,Barred Forest Racer,preyedUponBy
+20979,,Drymobius chloroticus,,preyedUponBy
+20979,29404,Mastigodryas melanolomus,Dryad Snake,preyedUponBy
+20979,,Erythrolamprus jaegeri coralliventris,,preyedUponBy
+20979,99657,Echinanthera undulata,,preyedUponBy
+20979,,Thamnophis valida,,preyedUponBy
+20979,,Xenodon rabdocephalus,,preyedUponBy
+20979,,Xenodon severus,,preyedUponBy
+20979,,Liophis poecilogyrus,,preyedUponBy
+20979,,Leptodeira annulata,,preyedUponBy
+20979,,Erythrolamprus breviceps,,preyedUponBy
+20979,,Liophis epinephelus,,preyedUponBy
+20979,29104,Philodryas nattereri,Paraguay Green Racer,preyedUponBy
+20979,29688,Leptophis ahaetulla,Giant Parrot Snake,preyedUponBy
+20979,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+20979,,Echis ocellatus,,preyedUponBy
+20979,29395,Mastigodryas boddaerti,Boddaert's Tropical Racer,preyedUponBy
+20979,,Chironius exoletus,,preyedUponBy
+20979,28942,Pseudoboa nigra,Black False Boa,preyedUponBy
+20979,,Siphlophis cervinus,,preyedUponBy
+20979,,Chironius fuscus,,preyedUponBy
+20979,26821,Drymoluber dichrous,Northern Woodland Racer,preyedUponBy
+20979,,Waglerophis merremi,,preyedUponBy
+20979,115819,Mastigodryas boddaerti boddaerti,,preyedUponBy
+20979,29972,Helicops polylepis,Norman's Keelback,preyedUponBy
+20979,,Thamnodynastes strigatus,,preyedUponBy
+20979,29327,Nerodia cyclopion,Mississippi Green Watersnake,preyedUponBy
+20979,,Mastigodryas bifossatus,,preyedUponBy
+20979,,Philodryas viridissima,,preyedUponBy
+20979,,Chironius laevicollis,,preyedUponBy
+20979,30481,Naja anchietae,Anchieta's Cobra,preyedUponBy
+20979,30798,Bothrops asper,Terciopelo,preyedUponBy
+20979,,Regina alleni,,preyedUponBy
+20979,539697,Erythrolamprus semiaureus,Golden Liophis,preyedUponBy
+20979,31031,Ovophis okinavensis,Okinawa Pitviper,preyedUponBy
+20979,68340,Elaphe quadrivirgata,Japanese Four-lined Ratsnake,preyedUponBy
+20979,30784,Bothrops moojeni,Brazilian Lancehead,preyedUponBy
+20979,,Thamnodynastes hypoconia,,preyedUponBy
+20979,,Simophis rhinostoma,,preyedUponBy
+20979,145794,Rhadinella hannsteini,Hannstein's Spot-lipped Snake,preyedUponBy
+20979,35270,Echiopsis curta,Bardick,preyedUponBy
+20979,82808,Crotaphopeltis hotamboeia,Red-lipped Snake,preyedUponBy
+20979,28337,Thelotornis capensis capensis,Southern Vine Snake,preyedUponBy
+20979,28651,Siphlophis worontzowi,Worontzow's Spotted Night Snake,preyedUponBy
+20979,539050,Bothrops jararaca,Yarará Lancehead,preyedUponBy

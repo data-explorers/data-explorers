@@ -1,0 +1,127 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57057,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+57057,118492,Helicoverpa zea,Corn Earworm Moth,eatenBy
+57057,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+57057,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+57057,58532,Colias eurytheme,Orange Sulphur,eatenBy
+57057,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+57057,58533,Colias,Clouded Yellows,eatenBy
+57057,146953,Geocoris,,eatenBy
+57057,330929,Creontiades,,eatenBy
+57057,59152,Leptotes marina,Marine Blue,eatenBy
+57057,59188,Erynnis funeralis,Funereal Duskywing,eatenBy
+57057,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+57057,50931,Strymon melinus,Gray Hairstreak,eatenBy
+57057,48548,Vanessa cardui,Painted Lady,eatenBy
+57057,58531,Colias philodice,Clouded Sulphur,eatenBy
+57057,47219,Apis mellifera,Western Honey Bee,eatenBy
+57057,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+57057,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+57057,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+57057,143615,Udea rubigalis,Celery Leaftier Moth,eatenBy
+57057,508048,Antigone canadensis,Sandhill Crane,eatenBy
+57057,7089,Branta canadensis,Canada Goose,eatenBy
+57057,,Epilachna varivestis,,eatenBy
+57057,,Anticarsia gemmatalis,,eatenBy
+57057,,Spodoptera frugiperda,,eatenBy
+57057,,Autographa gamma,,eatenBy
+57057,,Autographa californica,,eatenBy
+57057,,Dichomeris acuminata,,eatenBy
+57057,,Autographa biloba,,eatenBy
+57057,,Plathypena scabra,,eatenBy
+57057,,Spodoptera praefica,,eatenBy
+57057,,Dasychira mendosa,,eatenBy
+57057,,Colias electo,,eatenBy
+57057,424213,Colias lesbia,Lesbia Clouded Yellow,eatenBy
+57057,,Hepialus lupulinus,,eatenBy
+57057,,Megachile rotundata,,eatenBy
+57057,196616,Hypera postica,Alfalfa Weevil,eatenBy
+57057,,Gryllus pennsylvanicus,,eatenBy
+57057,,Loxostege sticticalis,,eatenBy
+57057,203303,Empoasca fabae,Potato Leafhopper,eatenBy
+57057,,Archips argyrospila,,eatenBy
+57057,,Xenotemna pallorana,,eatenBy
+57057,,Amphimallon majalis,,eatenBy
+57057,226714,Otiorhynchus ligustici,,eatenBy
+57057,,Spodoptera eridania,,eatenBy
+57057,,Melanoplus femurrubrum,,eatenBy
+57057,,Discestra trifolii,,eatenBy
+57057,243770,Ascotis selenaria,Citrus-looper,eatenBy
+57057,,Acyrthosiphon pisum,,eatenBy
+57057,,Tetranychus ludeni,,eatenBy
+57057,,Mythimna unipunctata,,eatenBy
+57057,,Agrotis subterranea,,eatenBy
+57057,,Encoptolophus costalis,,eatenBy
+57057,,Therioaphis,,eatenBy
+57057,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+57057,,Lacanobia suasa,,eatenBy
+57057,,Lacanobia,,eatenBy
+57057,,Caenurgina erechtea,,eatenBy
+57057,,Heliothis maritima,,eatenBy
+57057,,Hypera punctata,,eatenBy
+57057,,Apion,,eatenBy
+57057,,Sitona lineatus,,eatenBy
+57057,,Epinotia aporema,,eatenBy
+57057,330167,Piezodorus guildinii,Red-banded Stink Bug,eatenBy
+57057,,Lygus lineolaris,,eatenBy
+57057,,Acyrthosiphon kondoi,,eatenBy
+57057,,Mocis latipes,,eatenBy
+57057,,Diabrotica balteata,,eatenBy
+57057,,Mocis frugalis,,eatenBy
+57057,,Merophyas divulsana,,eatenBy
+57057,,Cydia medicaginis,,eatenBy
+57057,224621,Melanoplus bruneri,Bruner's Spur-throat Grasshopper,eatenBy
+57057,,Dipodomys,,eatenBy
+57057,,Lepus californicus,,eatenBy
+57057,,Therioaphis trifolii,,eatenBy
+57057,,Nysius vinitor,,eatenBy
+57057,,Dictyotus caenosus,,eatenBy
+57057,,Creontiades dilutus,,eatenBy
+57057,,Cletus bipunctatus,,eatenBy
+57057,,Cicadulina bimaculata,,eatenBy
+57057,,Choerocoris paganus,,eatenBy
+57057,,Batracomorphus angustatus,,eatenBy
+57057,330061,Balclutha incisa,,eatenBy
+57057,,Austroasca alfalfae,,eatenBy
+57057,,Anzygina sativae,,eatenBy
+57057,69940,Hemiargus ceraunus,Ceraunus Blue,eatenBy
+57057,,Lampides boeticus,,eatenBy
+57057,,Polyommatus icarus,,eatenBy
+57057,,Leptotes plinius,,eatenBy
+57057,,Zizina labradus,,eatenBy
+57057,,Nymphalis californica,,eatenBy
+57057,,Glaucopsyche alexis,,eatenBy
+57057,,Thorybes pylades,,eatenBy
+57057,,Leptotes pirithous,,eatenBy
+57057,129362,Zerene cesonia,Southern Dogface,eatenBy
+57057,,Colias hyale,,eatenBy
+57057,,Zizina,,eatenBy
+57057,,Morpho helenor,,eatenBy
+57057,,Zerene eurydice,,eatenBy
+57057,62766,Issoria lathonia,Queen of Spain Fritillary,eatenBy
+57057,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+57057,57678,Lasioglossum,,pollinatedBy
+57057,120215,Bombus griseocollis,Brown-belted Bumble Bee,pollinatedBy
+57057,68244,Euptoieta claudia,Variegated Fritillary,pollinatedBy
+57057,133766,Augochlorella aurata,Golden Sweat Bee,pollinatedBy
+57057,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+57057,53067,Bembix,,pollinatedBy
+57057,56887,Bombus pensylvanicus,American Bumble Bee,pollinatedBy
+57057,121504,Svastra obliqua,Oblique Longhorn,pollinatedBy
+57057,,Hesperia uncas,,pollinatedBy
+57057,199115,Halictus confusus,Confusing Furrow Bee,pollinatedBy
+57057,,Pterocheilus sp.,,pollinatedBy
+57057,,Megachile texana,,pollinatedBy
+57057,,Megachile latimanus,,pollinatedBy
+57057,,http://treatment.plazi.org/id/A61A09B380185011A57765F1D780E0FD,,pollinatedBy
+57057,,Pyrgus communis,,pollinatedBy
+57057,,Andrena,,pollinatedBy
+57057,,N/A N/A,,pollinatedBy
+57057,,http://treatment.plazi.org/id/CA4F5EE14A73547D98C564415D02861A,,pollinatedBy
+57057,,Melissodes sp.,,pollinatedBy
+57057,,Botanophila sp.,,pollinatedBy
+57057,,Toxomerus sp.,,pollinatedBy
+57057,133655,Tropidia quadrata,Common Thick-leg Fly,pollinatedBy
+57057,,http://treatment.plazi.org/id/C04AB37A47FF8292046DC8BAC8787EF6,,pollinatedBy
+57057,,Pholisora catullus,,pollinatedBy
+57057,,http://treatment.plazi.org/id/7DCCB1556498F8BED00AB015E3FF9FEB,,pollinatedBy

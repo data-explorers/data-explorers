@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+133791,75602,Asclepias curassavica,tropical milkweed,eats
+133791,,Ampelopsis arborea,,eats
+133791,,Heterotheca subaxillaris,,eats
+133791,,Physalis cinerascens,,eats
+133791,,Buddleja cordata,,eats
+133791,128131,Cassis,,eats
+133791,48662,Danaus plexippus,Monarch,preysOn

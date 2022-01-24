@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54520,309466,Aphis gossypii,Melon Aphid,eatenBy
+54520,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+54520,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+54520,153887,Polistes aurifer,Golden Paper Wasp,eatenBy
+54520,,Trypeta zoe,,eatenBy
+54520,,Trypeta artemisiae,,eatenBy
+54520,,Trupanea stellata,,eatenBy
+54520,,Macrosiphoniella artemisiae,,eatenBy
+54520,,Aphis fabae,,eatenBy
+54520,320786,Eristalis arbustorum,European Drone Fly,eatenBy

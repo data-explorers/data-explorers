@@ -1,0 +1,70 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82771,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+82771,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+82771,6317,Calypte anna,Anna's Hummingbird,eatenBy
+82771,,Doleschallia bisaltide,,eatenBy
+82771,,Doleschallia tongana,,eatenBy
+82771,,Charaxes numenes,,eatenBy
+82771,356393,Charaxes castor,Giant Charaxes,eatenBy
+82771,,Candalides absimilis,,eatenBy
+82771,,Astraptes fulgerator,,eatenBy
+82771,,Astraptes alardus,,eatenBy
+82771,,Aonidiella aurantii,,eatenBy
+82771,,Clavaspis herculeana,,eatenBy
+82771,330230,Pinnaspis strachani,,eatenBy
+82771,,Terastia meticulosalis,,eatenBy
+82771,,Cryptophlebia vitiensis,,eatenBy
+82771,,Adoxophyes libralis,,eatenBy
+82771,461434,Striglina scitaria,,eatenBy
+82771,,Falcatula falcatus,,eatenBy
+82771,,Urota sinope,,eatenBy
+82771,418691,Imbrasia,,eatenBy
+82771,,Eacles imperialis,,eatenBy
+82771,,Terastia egialealis,,eatenBy
+82771,555895,Automeris janus,,eatenBy
+82771,,Agathodes ostentalis,,eatenBy
+82771,,Agathodes designalis,,eatenBy
+82771,,Agathodes,,eatenBy
+82771,,Automeris,,eatenBy
+82771,,Agathodes caliginosalis,,eatenBy
+82771,425332,Leucanella memusae,,eatenBy
+82771,,Lineodes contortalis,,eatenBy
+82771,,Epicorsia oedipodalis,,eatenBy
+82771,,Timocratica albella,,eatenBy
+82771,,Epidonta variegata,,eatenBy
+82771,,Epidonta duplicata,,eatenBy
+82771,,Leucoptera erythrinella,,eatenBy
+82771,,Calliteara horsfieldii,,eatenBy
+82771,,Dasychira plagiata,,eatenBy
+82771,,Chalcocelis albiguttatus,,eatenBy
+82771,,Celastrina argiolus,,eatenBy
+82771,,Cheromettia sumatrensis,,eatenBy
+82771,,Pachypasa subfascia,,eatenBy
+82771,,Endoclita damor,,eatenBy
+82771,500675,Darna,,eatenBy
+82771,,Xyleutes ceramica,,eatenBy
+82771,,Amerila bubo,,eatenBy
+82771,,Thosea bipartita,,eatenBy
+82771,1292389,Parasa lepida,,eatenBy
+82771,,Thosea borneensis,,eatenBy
+82771,,Spicara,,eatenBy
+82771,,Narosa doenia,,eatenBy
+82771,,Streblote dorsalis,,eatenBy
+82771,,Brenthia catenata,,eatenBy
+82771,,Birthama,,eatenBy
+82771,,Poicephalus robustus suahelicus,,eatenBy
+82771,,Colius striatus,,eatenBy
+82771,,Eidolon helvum,,eatenBy
+82771,40870,Pteropus,Flying Foxes,eatenBy
+82771,40793,Cynopterus brachyotis,Lesser Short-nosed Fruit Bat,eatenBy
+82771,,Brotogeris chiriri,,eatenBy
+82771,,Trichoglossus haematodus moluccanus,,eatenBy
+82771,202505,Zosterops lateralis,Silvereye,eatenBy
+82771,10199,Coereba flaveola,Bananaquit,eatenBy
+82771,,Enchenopa quadricolor,,eatenBy
+82771,3,Aves,Birds,pollinatedBy
+82771,7251,Passeriformes,Perching Birds,pollinatedBy
+82771,5562,Trochilidae,Hummingbirds,pollinatedBy
+82771,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+82771,,Heliomaster constantii,,pollinatedBy
+82771,9227,Serinus,Eurasian Serins and Canaries,pollinatedBy

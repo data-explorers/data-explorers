@@ -1,0 +1,136 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56088,56088,Robinia pseudoacacia,black locust,eats
+56088,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+56088,81656,Nematocampa resistaria,Horned Spanworm Moth,eatenBy
+56088,81560,Epargyreus,,eatenBy
+56088,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+56088,58531,Colias philodice,Clouded Sulphur,eatenBy
+56088,143854,Bombus borealis,Northern Amber Bumble Bee,eatenBy
+56088,43794,Castor canadensis,American Beaver,eatenBy
+56088,119171,Meconema,,eatenBy
+56088,56088,Robinia pseudoacacia,black locust,eatenBy
+56088,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+56088,3017,Columba livia,Rock Pigeon,eatenBy
+56088,,Hedobia imperialis,,eatenBy
+56088,491082,Hadrobregmus denticollis,,eatenBy
+56088,,Ecdytolopha insiticiana,,eatenBy
+56088,,Ludia delegorguei,,eatenBy
+56088,430006,Imbrasia ertli,,eatenBy
+56088,,Paranthrene robiniae,,eatenBy
+56088,,Imbrasia oyemensis,,eatenBy
+56088,,Pseudautomeris latus,,eatenBy
+56088,,Automeris iris,,eatenBy
+56088,256341,Syssphinx molina,,eatenBy
+56088,,Cinabra hyperbius,,eatenBy
+56088,,Automeris maeonia,,eatenBy
+56088,,Etiella zinckenella,,eatenBy
+56088,,Automeris zozine,,eatenBy
+56088,,Citioica anthonilis,,eatenBy
+56088,1343294,Automeris styx,,eatenBy
+56088,,Hemileuca lex,,eatenBy
+56088,,Actias luna,,eatenBy
+56088,,Molippa sabina,,eatenBy
+56088,,Hylesia lineata,,eatenBy
+56088,,Automeris randa,,eatenBy
+56088,,Pseudodirphia,,eatenBy
+56088,,Automeris banus,,eatenBy
+56088,1149228,Automeris annulata,,eatenBy
+56088,,Leucanella leucane,,eatenBy
+56088,,Pseudodirphia eumedide,,eatenBy
+56088,,Automeris complicata,,eatenBy
+56088,,Elasmopalpus lignosellus,,eatenBy
+56088,,Sphingicampa bicolor,,eatenBy
+56088,425332,Leucanella memusae,,eatenBy
+56088,,Oiketicus,,eatenBy
+56088,82279,Automeris io,Io Moth,eatenBy
+56088,,Automeris tridens,,eatenBy
+56088,,Agonopterix robiniella,,eatenBy
+56088,,Polyura sempronius,,eatenBy
+56088,358340,Neptis philyra,Long-streak Sailor,eatenBy
+56088,130339,Neptis hylas,Common Sailer,eatenBy
+56088,,Pterostoma sinicum,,eatenBy
+56088,233944,Zale undularis,Black Zale Moth,eatenBy
+56088,,Euparthenos nubilis,,eatenBy
+56088,,Zale unilineata,,eatenBy
+56088,,Pseudanthracia coracias,,eatenBy
+56088,,Schizura unicornis,,eatenBy
+56088,,Catocala illecta,,eatenBy
+56088,,Papaipema nebris,,eatenBy
+56088,,Lampides boeticus,,eatenBy
+56088,,Euproctis chrysorrhoea,,eatenBy
+56088,,Orgyia mixta,,eatenBy
+56088,,Alsophila pometaria,,eatenBy
+56088,,Caloptilia stigmatella,,eatenBy
+56088,,Parectopa robiniella,,eatenBy
+56088,,Phyllonorycter fitchella,,eatenBy
+56088,,Semiothisa ocellinata,,eatenBy
+56088,,Semiothisa aemulataria,,eatenBy
+56088,,Ectropis obliqua,,eatenBy
+56088,,Prionoxystus robiniae,,eatenBy
+56088,,Ectropis bistortata,,eatenBy
+56088,,Lophocampa caryae,,eatenBy
+56088,243770,Ascotis selenaria,Citrus-looper,eatenBy
+56088,,Nematocampa filamentaria,,eatenBy
+56088,,Semiothisa nigrocomma,,eatenBy
+56088,120217,Halysidota tessellaris,Banded Tussock Moth,eatenBy
+56088,,Pyrosis undulosa,,eatenBy
+56088,,Erynnis icelus,,eatenBy
+56088,,Neptis sappho,,eatenBy
+56088,,Erynnis zarucco,,eatenBy
+56088,,Celastrina argiolus,,eatenBy
+56088,51614,Eurema hecabe,Common Grass Yellow,eatenBy
+56088,354564,Coeliades forestan,Striped Policeman,eatenBy
+56088,,Colias electo,,eatenBy
+56088,,Rigidoporus ulmarius,,eatenBy
+56088,,Psittacula krameri,,eatenBy
+56088,,Meripilus giganteus,,eatenBy
+56088,,Perenniporia fraxinea,,eatenBy
+56088,,Ganoderma australe,,eatenBy
+56088,125932,Ganoderma lucidum,lacquered bracket,eatenBy
+56088,,Nectria pallidula,,eatenBy
+56088,,Cucurbitaria elongata,,eatenBy
+56088,,Aglaospora profusa,,eatenBy
+56088,,Gliocladium roseum,,eatenBy
+56088,,Diaporthe oncostoma,,eatenBy
+56088,,Bruchidius cisti,,eatenBy
+56088,1031293,Camarosporium robiniae,,eatenBy
+56088,,Phomopsis oncostoma,,eatenBy
+56088,,Cytosporina ludibunda,,eatenBy
+56088,,Phomopsis petiolorum,,eatenBy
+56088,,Nematus tibialis,,eatenBy
+56088,,Anticarsia gemmatalis,,eatenBy
+56088,,Lepidosaphes ulmi,,eatenBy
+56088,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+56088,47220,Apis,Honey Bees,pollinatedBy
+56088,5562,Trochilidae,Hummingbirds,pollinatedBy
+56088,449683,Phormia regina,Black Blow Fly,pollinatedBy
+56088,176923,Mordella,,pollinatedBy
+56088,133765,Eumenes fraternus,Fraternal Potter Wasp,pollinatedBy
+56088,130131,Ectemnius,,pollinatedBy
+56088,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+56088,53068,Bembix spinolae,,pollinatedBy
+56088,,Lygaeus turcicus,,pollinatedBy
+56088,1029923,Eucera belfragei,,pollinatedBy
+56088,,Tiphia,,pollinatedBy
+56088,,Holonomada,,pollinatedBy
+56088,,Anoplius illinoensis,,pollinatedBy
+56088,,Scolia nobilitata,,pollinatedBy
+56088,,Hoplitis,,pollinatedBy
+56088,,Calocoris rapidus,,pollinatedBy
+56088,,Dasiops latifrons,,pollinatedBy
+56088,,Acontia candefacta,,pollinatedBy
+56088,,Phor,,pollinatedBy
+56088,,Spallanzania hesperidarum,,pollinatedBy
+56088,,Cynomyia,,pollinatedBy
+56088,,Polysphincta,,pollinatedBy
+56088,,Sinophorus furus,,pollinatedBy
+56088,,Machaeris,,pollinatedBy
+56088,,Leptometopa latipes,,pollinatedBy
+56088,,Bracon,,pollinatedBy
+56088,,Phyto,,pollinatedBy
+56088,,Triepeolus donatus,,pollinatedBy
+56088,,Lispe albitarsis,,pollinatedBy
+56088,,Brachycoma sarcophagina,,pollinatedBy
+56088,,Asclera puncticollis,,pollinatedBy
+56088,,Mesogramma,,pollinatedBy
+56088,,Nomada denticulata,,pollinatedBy

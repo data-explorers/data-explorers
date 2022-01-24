@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47804,,Phytoplankton,,eats
+47804,,phytoplankton - suspended detritus,,eats
+47804,,Zooplankton,,eats
+47804,204776,Pseudocaranx dentex,Silver Trevally,eatenBy
+47804,542836,Octopus mimus,Changos Octopus,eatenBy
+47804,,Cribrina,,eatenBy
+47804,120708,Scartella cristata,Molly Miller,eatenBy
+47804,179445,Trachinotus falcatus,Permit,eatenBy
+47804,411160,Cheilodactylus spectabilis,Banded Morwong,eatenBy
+47804,130054,Haemulon carbonarium,Caesar Grunt,eatenBy
+47804,130051,Hypoplectrus puella,Barred Hamlet,eatenBy
+47804,108196,Pagrus pagrus,Red Porgy,eatenBy
+47804,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+47804,112303,Sciades parkeri,Gillbacker Sea Catfish,eatenBy
+47804,608614,Sciades proops,,eatenBy
+47804,93041,Acanthistius pictus,Brick Seabass,eatenBy
+47804,108549,Paralabrax humeralis,,eatenBy
+47804,86422,Amphistichus,,eatenBy
+47804,,Pagrus auratus,,eatenBy
+47804,64482,Acanthoclinus littoreus,New Zealand Rockfish,eatenBy
+47804,253684,Octopus hubbsorum,Hubb's Octopus,eatenBy
+47804,709642,Athyonidium chilensis,,eatenBy
+47804,,Zooplankton,,preysOn
+47804,,Pisces,,preyedUponBy
+47804,,Cribrina,,preyedUponBy

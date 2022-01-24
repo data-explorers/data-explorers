@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119340,47351,Prunus,"plums, cherries, and allies",eats
+119340,49487,Rhododendron,rhododendrons and azaleas,eats
+119340,49005,Quercus rubra,northern red oak,eats
+119340,47544,Rubus,brambles,eats
+119340,48629,Prunus americana,American plum,eats
+119340,78755,Prunus persica,Peach,eats
+119340,54834,Prunus serotina,black cherry,eats
+119340,54781,Quercus macrocarpa,bur oak,eats
+119340,54840,Populus tremuloides,trembling aspen,eats
+119340,82110,Rubus allegheniensis,Allegheny blackberry,eats
+119340,54779,Quercus alba,white oak,eats
+119340,47851,Quercus,oaks,eats
+119340,54854,Tilia americana,basswood,eats
+119340,,Populus nigra,,eats
+119340,,Populus grandidentata,,eats
+119340,,Prunus domestica,,eats
+119340,63951,Pyrus communis,Common Pear,eats
+119340,,Quercus coccinea,,eats
+119340,,Quercus palustris,,eats
+119340,,Quercus gomeziana,,eats
+119340,,Fraxinus pennsylvanica,,eats
+119340,,Parkesia motacilla,,eatenBy
+119340,,Corynorhinus rafinesquii,,preyedUponBy
+119340,,Corynorhinus townsendii,,preyedUponBy
+119340,,Dolomedes tenebrosus,,preyedUponBy

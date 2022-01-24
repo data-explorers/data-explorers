@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+589815,47219,Apis mellifera,Western Honey Bee,eatenBy
+589815,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+589815,,Burnsius communis,,eatenBy
+589815,18921,Platycercus elegans,Crimson Rosella,eatenBy

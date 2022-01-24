@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+124431,50829,Viola,violets,eats
+124431,52821,Achillea millefolium,Common Yarrow,eats
+124431,461542,Astereae,asters and allies,eats
+124431,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+124431,52998,Conium maculatum,poison hemlock,eats
+124431,53052,Foeniculum vulgare,fennel,eats
+124431,71154,Aphis nerii,Oleander Aphid,eats
+124431,56992,Lobularia maritima,sweet alyssum,eats
+124431,56851,Asclepias fascicularis,narrowleaf milkweed,eats
+124431,52818,Achillea,yarrows,eats
+124431,124431,Cycloneda sanguinea,Spotless Lady Beetle,eats
+124431,79495,Verbesina encelioides,cowpen daisy,eats
+124431,54605,Marrubium vulgare,White Horehound,eats
+124431,50334,Lantana,,eats
+124431,55512,Didemnum,Wrinkled Sea Mats,eats
+124431,52380,Aphidoidea,,eats
+124431,154340,Gryllodes sigillatus,Tropical House Cricket,eatenBy
+124431,124431,Cycloneda sanguinea,Spotless Lady Beetle,eatenBy
+124431,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+124431,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+124431,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+124431,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+124431,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+124431,16102,Contopus latirostris,Lesser Antillean Pewee,eatenBy
+124431,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+124431,16771,Tyrannus caudifasciatus,Loggerhead Kingbird,eatenBy
+124431,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+124431,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+124431,11855,Petrochelidon fulva,Cave Swallow,eatenBy
+124431,,Lysimachia lanceolata,,pollinates
+124431,54836,Zanthoxylum americanum,prickly ash,pollinates
+124431,128040,Viola cucullata,marsh blue violet,pollinates
+124431,71154,Aphis nerii,Oleander Aphid,preysOn
+124431,52381,Aphididae,Aphids,preysOn
+124431,52380,Aphidoidea,,preysOn
+124431,,Pseudomyrmex gracilis,,preyedUponBy

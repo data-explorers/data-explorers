@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+794239,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+794239,57516,Bombus terrestris,Buff-tailed Bumble Bee,eatenBy
+794239,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+794239,57678,Lasioglossum,,pollinatedBy
+794239,,Nonartha cyaneum ,,pollinatedBy
+794239,428357,Bombus ignitus,Fiery-tailed Bumble Bee,pollinatedBy

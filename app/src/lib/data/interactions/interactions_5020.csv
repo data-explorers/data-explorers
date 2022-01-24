@@ -1,0 +1,117 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5020,20979,Anura,Frogs and Toads,eats
+5020,2,Chordata,Chordates,eats
+5020,51468,Anax,Emperors and Green Darners,eats
+5020,49587,Micropterus salmoides,Largemouth Bass,eats
+5020,66012,Lithobates sylvaticus,Wood Frog,eats
+5020,49588,Centrarchidae,Freshwater Sunfishes,eats
+5020,58648,Fundulus,Typical Killifishes,eats
+5020,51222,Procambarus,,eats
+5020,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+5020,47124,Magnoliopsida,dicots,eats
+5020,47792,Odonata,Dragonflies and Damselflies,eats
+5020,47158,Insecta,Insects,eats
+5020,47822,Diptera,Flies,eats
+5020,47186,Decapoda,Decapods,eats
+5020,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+5020,47649,Acrididae,Short-horned Grasshoppers,eats
+5020,1,Animalia,Animals,eats
+5020,48670,Noctuidae,Cutworm Moths and Allies,eats
+5020,49609,Cyprinidae,Cyprinids,eats
+5020,26036,Reptilia,Reptiles,eats
+5020,47491,Annelida,Segmented Worms,eats
+5020,47120,Arthropoda,Arthropods,eats
+5020,20978,Amphibia,Amphibians,eats
+5020,40151,Mammalia,Mammals,eats
+5020,47178,Actinopterygii,Ray-finned Fishes,eats
+5020,49591,Lepomis macrochirus,Bluegill,eats
+5020,67735,Rhionaeschna,Neotropical Darners,eats
+5020,67737,Rhionaeschna multicolor,Blue-eyed Darner,eats
+5020,59774,Pachydiplax longipennis,Blue Dasher,eats
+5020,67731,Anax junius,Common Green Darner,eats
+5020,59115,Gambusia affinis,Western Mosquitofish,eats
+5020,,Necturus,,eats
+5020,,Esox americanus,,eats
+5020,99544,Dorosoma cepedianum,American Gizzard Shad,eats
+5020,,Scapteriscus didactylus,,eats
+5020,,Anolis,,eats
+5020,22979,Leptodactylus albilabris,Caribbean White-lipped Frog,eats
+5020,,Teleostei,,eats
+5020,47542,Istiophoridae,Billfishes,eats
+5020,58612,Carassius auratus,Goldfish,eats
+5020,,aquatic or marine worms,,eats
+5020,,billfish,,eats
+5020,,minnow 2,,eats
+5020,,minnow 1,,eats
+5020,,Pisanianura,,eats
+5020,,Clarias batrachus,,eats
+5020,,Zonotrichia leucophrys,,eats
+5020,,Rana boylii,,eats
+5020,58655,Ictaluridae,North American Freshwater Catfishes,eats
+5020,116461,Anolis sagrei,Brown Anole,eats
+5020,67570,Falconiformes,Falcons and Caracaras,eatenBy
+5020,8021,Corvus brachyrhynchos,American Crow,eatenBy
+5020,9602,Quiscalus quiscula,Common Grackle,eatenBy
+5020,41663,Procyon lotor,Common Raccoon,eatenBy
+5020,26172,Squamata,Snakes and Lizards,eatenBy
+5020,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+5020,203276,Orius,,preysOn
+5020,47792,Odonata,Dragonflies and Damselflies,preysOn
+5020,47178,Actinopterygii,Ray-finned Fishes,preysOn
+5020,65979,Lithobates catesbeianus,American Bullfrog,preysOn
+5020,1,Animalia,Animals,preysOn
+5020,47927,Anisoptera,Dragonflies,preysOn
+5020,49591,Lepomis macrochirus,Bluegill,preysOn
+5020,60340,Lithobates,American Water Frogs,preysOn
+5020,49588,Centrarchidae,Freshwater Sunfishes,preysOn
+5020,47233,Perciformes,Perch-like Fishes,preysOn
+5020,67735,Rhionaeschna,Neotropical Darners,preysOn
+5020,59115,Gambusia affinis,Western Mosquitofish,preysOn
+5020,59774,Pachydiplax longipennis,Blue Dasher,preysOn
+5020,67731,Anax junius,Common Green Darner,preysOn
+5020,50147,Celithemis eponina,Halloween Pennant,preysOn
+5020,59116,Poeciliidae,Livebearers and Lampeyes,preysOn
+5020,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+5020,117564,Clevelandia ios,Arrow Gobi,preysOn
+5020,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+5020,179533,Fundulus parvipinnis,California Killifish,preysOn
+5020,29335,Natrix,,preysOn
+5020,518452,Carthasis decoratus,,preysOn
+5020,,Tafaliscu lurida,,preysOn
+5020,,Paraleyrodes,,preysOn
+5020,,Cycloptilum,,preysOn
+5020,464046,Rhagovelia plumbea,,preysOn
+5020,503114,Metatropiphorus belfragii,,preysOn
+5020,,Cyrtoxipha,,preysOn
+5020,,Tetraluerodes,,preysOn
+5020,,Dufouriellus afer,,preysOn
+5020,330174,Pentacora sphacelata,,preysOn
+5020,,Oebalus pugnax,,preysOn
+5020,,Psallus,,preysOn
+5020,,Aleurothrixus,,preysOn
+5020,,Littoraria angulifera,,preysOn
+5020,,Hapithus gryllodes,,preysOn
+5020,,trypanorynch,,preysOn
+5020,,Stictodora hancocki,,preysOn
+5020,,Ergasilus auritus,,preysOn
+5020,,Nerocila californica,,preysOn
+5020,339182,Phocitremoides ovale,,preysOn
+5020,,Renicola cerithidicola,,preysOn
+5020,914144,Galactosomum,,preysOn
+5020,209100,Gyrodactylus,,preysOn
+5020,,Dilepididae,,preysOn
+5020,,Pygidiopsoides spindalis,,preysOn
+5020,,Trichodina,,preysOn
+5020,339183,Euhaplorchis californiensis,,preysOn
+5020,339174,Cyathocotylidae,,preysOn
+5020,339176,Renicola buchanani,,preysOn
+5020,,Spirocamallanus pereirai,,preysOn
+5020,,Mesostephanus appendiculatoides,,preysOn
+5020,,minnow 2,,preysOn
+5020,,minnow 1,,preysOn
+5020,,billfish,,preysOn
+5020,,Pisanianura,,preysOn
+5020,109885,Poecilia latipinna,Sailfin Molly,preysOn
+5020,101204,Gambusia holbrooki,Eastern Mosquitofish,preysOn
+5020,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+5020,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy

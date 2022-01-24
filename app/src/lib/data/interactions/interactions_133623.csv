@@ -1,0 +1,157 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+133623,84670,Ephydridae,Shore Flies,eats
+133623,53275,Chironomidae,Non-biting Midges,eats
+133623,174572,Callibaetis,Speckled Duns,eats
+133623,81576,Belostoma,,eats
+133623,133821,Physa,,eats
+133623,67731,Anax junius,Common Green Darner,eats
+133623,129189,Hyalella,,eats
+133623,133623,Tropisternus,,eats
+133623,211194,Tracheophyta,vascular plants,eats
+133623,52864,Tramea,Saddlebag Gliders,eats
+133623,50175,Enallagma,Bluets,eats
+133623,,carrion,,eats
+133623,,Detritus,,eats
+133623,,Cephalogonimus americanus,,eats
+133623,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+133623,51679,Coenagrion,Northern Bluets,eats
+133623,68304,Cyzicus californicus,California Clam Shrimp,eats
+133623,,meiofauna,,eats
+133623,,Diaptomidae,,eats
+133623,,Gregarinidae,,eats
+133623,,benthic microalgae/periphyton,,eats
+133623,,Nyctotherus,,eats
+133623,,Lethocerus americanus,,eats
+133623,124813,Alaria,,eats
+133623,69803,Ceratopogonidae,Biting Midges,eats
+133623,,Ribeiroia ondatrae,,eats
+133623,,Megalodiscus,,eats
+133623,,Corynosoma constrictum,,eats
+133623,,Halipegus,,eats
+133623,177989,Haliplus,,eats
+133623,,Zooplankton,,eats
+133623,171609,Simocephalus,,eats
+133623,,Echinostoma,,eats
+133623,121463,Arrenurus,Water Mites,eats
+133623,,Daubaylia,,eats
+133623,,Planorbella,,eats
+133623,,Macrocyclops,,eats
+133623,,Dero,,eats
+133623,,Opalina,,eats
+133623,,Tubificidae,,eats
+133623,,Echinostoma trivolvis,,eats
+133623,,Lestes,,eats
+133623,,Erpobdella,,eats
+133623,,Alonella,,eats
+133623,,Hydrochus,,eats
+133623,,Lymnaea,,eats
+133623,,Hydrobius,,eats
+133623,,Helophorus,,eats
+133623,338141,Chydorus,,eats
+133623,,Anacaena,,eats
+133623,148201,Helisoma,,eats
+133623,,Diacyclops,,eats
+133623,171629,Scapholeberis,,eats
+133623,87850,Daphnia,Water-fleas,eats
+133623,,Cymbiodyta,,eats
+133623,25474,Rana,Pond Frogs,eats
+133623,173601,Enochrus,,eats
+133623,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+133623,4209,Podiceps auritus,Horned Grebe,eatenBy
+133623,17013,Sayornis nigricans,Black Phoebe,eatenBy
+133623,11867,Progne subis,Purple Martin,eatenBy
+133623,52864,Tramea,Saddlebag Gliders,eatenBy
+133623,81576,Belostoma,,eatenBy
+133623,27818,Taricha torosa,California Newt,eatenBy
+133623,67731,Anax junius,Common Green Darner,eatenBy
+133623,64970,Anaxyrus boreas,Western Toad,eatenBy
+133623,133623,Tropisternus,,eatenBy
+133623,473,Fulica americana,American Coot,eatenBy
+133623,4956,Ardea herodias,Great Blue Heron,eatenBy
+133623,52520,Aeshna,Hawkers and Typical Darners,eatenBy
+133623,88028,Dorocordulia,Lesser Emerald Dragonflies,eatenBy
+133623,47818,Libellula,Chasers and King Skimmers,eatenBy
+133623,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+133623,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+133623,5017,Bubulcus ibis,Cattle Egret,eatenBy
+133623,67016,Rana draytonii,California Red-legged Frog,eatenBy
+133623,56557,Notonecta,Milky Backswimmers,eatenBy
+133623,24259,Pseudacris regilla,Northern Pacific Tree Frog,eatenBy
+133623,,Hesperocorixa,,eatenBy
+133623,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+133623,51679,Coenagrion,Northern Bluets,eatenBy
+133623,,Lethocerus americanus,,eatenBy
+133623,,Lestes,,eatenBy
+133623,,Cordulia,,eatenBy
+133623,,Lethocerus,,eatenBy
+133623,,Graphoderus,,eatenBy
+133623,,Somatochlora,,eatenBy
+133623,,Chrysemis,,eatenBy
+133623,,Hydrochara,,eatenBy
+133623,,Acilius,,eatenBy
+133623,129189,Hyalella,,preysOn
+133623,133623,Tropisternus,,preysOn
+133623,174572,Callibaetis,Speckled Duns,preysOn
+133623,84670,Ephydridae,Shore Flies,preysOn
+133623,52864,Tramea,Saddlebag Gliders,preysOn
+133623,81576,Belostoma,,preysOn
+133623,133821,Physa,,preysOn
+133623,53275,Chironomidae,Non-biting Midges,preysOn
+133623,67731,Anax junius,Common Green Darner,preysOn
+133623,47126,Plantae,plants,preysOn
+133623,50175,Enallagma,Bluets,preysOn
+133623,,Lestes,,preysOn
+133623,171609,Simocephalus,,preysOn
+133623,177749,Hydrophilus,Giant Water Scavenger Beetles,preysOn
+133623,,Gregarinidae,,preysOn
+133623,,Megalodiscus,,preysOn
+133623,68304,Cyzicus californicus,California Clam Shrimp,preysOn
+133623,,Letherocerus americanus,,preysOn
+133623,177989,Haliplus,,preysOn
+133623,,Tubificidae,,preysOn
+133623,,benthic microalgae/periphyton,,preysOn
+133623,69803,Ceratopogonidae,Biting Midges,preysOn
+133623,,Nyctotherus,,preysOn
+133623,,meiofauna,,preysOn
+133623,,Zooplankton,,preysOn
+133623,,Diaptomidae,,preysOn
+133623,,Opalina,,preysOn
+133623,51679,Coenagrion,Northern Bluets,preysOn
+133623,148201,Helisoma,,preysOn
+133623,,Erpobdella,,preysOn
+133623,,Dero,,preysOn
+133623,,Macrocyclops,,preysOn
+133623,,Hydrobius,,preysOn
+133623,,Acanthocyclops,,preysOn
+133623,173601,Enochrus,,preysOn
+133623,,Anacaena,,preysOn
+133623,,Lymnaea,,preysOn
+133623,,Hydrochus,,preysOn
+133623,,Helophorus,,preysOn
+133623,,Alonella,,preysOn
+133623,87850,Daphnia,Water-fleas,preysOn
+133623,,Diacyclops,,preysOn
+133623,473,Fulica americana,American Coot,preyedUponBy
+133623,27818,Taricha torosa,California Newt,preyedUponBy
+133623,67731,Anax junius,Common Green Darner,preyedUponBy
+133623,81576,Belostoma,,preyedUponBy
+133623,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+133623,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+133623,133623,Tropisternus,,preyedUponBy
+133623,52864,Tramea,Saddlebag Gliders,preyedUponBy
+133623,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+133623,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+133623,56557,Notonecta,Milky Backswimmers,preyedUponBy
+133623,51679,Coenagrion,Northern Bluets,preyedUponBy
+133623,,Hesperocorixa,,preyedUponBy
+133623,,Letherocerus americanus,,preyedUponBy
+133623,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+133623,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+133623,,Lestes,,preyedUponBy
+133623,,Pseudiacris regilla,,preyedUponBy
+133623,,Lethocerus,,preyedUponBy
+133623,,Chrysemis,,preyedUponBy
+133623,,Acilius,,preyedUponBy
+133623,,Graphoderus,,preyedUponBy
+133623,,Somatochlora,,preyedUponBy
+133623,,Hydrochara,,preyedUponBy

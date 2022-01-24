@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49333,,Deposit-feeding peracaridan crustaceans,,eats
+49333,,Meiofauna,,eats
+49333,,Epiphyte-grazing amphipods,,eats
+49333,,Macro-epiphytes,,eats
+49333,,Pungitius pungitius pungitius,,eats
+49333,,Zooplankton,,eats
+49333,179563,Leiostomus xanthurus,Spot Croaker,eats
+49333,,Detritus,,eats
+49333,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+49333,4940,Egretta thula,Snowy Egret,eatenBy
+49333,,Fish and crustacean-eating birds,,eatenBy
+49333,128750,Sciaenops ocellatus,Red Drum,eatenBy
+49333,4937,Egretta caerulea,Little Blue Heron,eatenBy
+49333,,Macro-epiphytes,,preysOn
+49333,179563,Leiostomus xanthurus,Spot Croaker,preysOn
+49333,,Deposit-feeding peracaridan crustaceans,,preysOn
+49333,,Fish and crustacean-eating birds,,preyedUponBy
+49333,128750,Sciaenops ocellatus,Red Drum,preyedUponBy
+49333,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy

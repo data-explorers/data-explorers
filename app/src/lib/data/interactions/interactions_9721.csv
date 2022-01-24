@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9721,47118,Araneae,Spiders,eats
+9721,47336,Formicidae,Ants,eats
+9721,47208,Coleoptera,Beetles,eats
+9721,47114,Gastropoda,Gastropods,eats
+9721,47157,Lepidoptera,Butterflies and Moths,eats
+9721,47158,Insecta,Insects,eats
+9721,47124,Magnoliopsida,dicots,eats
+9721,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9721,47822,Diptera,Flies,eats
+9721,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+9721,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9721,47792,Odonata,Dragonflies and Damselflies,eats
+9721,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9721,125816,Auchenorrhyncha,True Hoppers,eats
+9721,47119,Arachnida,Arachnids,eats
+9721,49470,Collembola,Springtails,eats
+9721,184884,Pterygota,Winged and Once-winged Insects,eats
+9721,,insects - Disyonicha quinquevitata - Collembola,,eats
+9721,,Trema micrantha,,eats
+9721,47336,Formicidae,Ants,eatenBy
+9721,19893,Strix varia,Barred Owl,eatenBy
+9721,,Cooper's and sharpshinned hawks,,eatenBy
+9721,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+9721,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+9721,47119,Arachnida,Arachnids,preysOn
+9721,47157,Lepidoptera,Butterflies and Moths,preysOn
+9721,47208,Coleoptera,Beetles,preysOn
+9721,47822,Diptera,Flies,preysOn
+9721,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+9721,47219,Apis mellifera,Western Honey Bee,preysOn
+9721,47927,Anisoptera,Dragonflies,preysOn
+9721,47158,Insecta,Insects,preysOn

@@ -1,0 +1,264 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47124,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+47124,53911,Cyprinus carpio,European Carp,eatenBy
+47124,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+47124,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+47124,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+47124,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+47124,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+47124,52484,Celastrina echo,Echo Azure,eatenBy
+47124,55626,Pieris rapae,Cabbage White,eatenBy
+47124,47219,Apis mellifera,Western Honey Bee,eatenBy
+47124,50786,Vanessa annabella,West Coast Lady,eatenBy
+47124,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+47124,49133,Vanessa atalanta,Red Admiral,eatenBy
+47124,48548,Vanessa cardui,Painted Lady,eatenBy
+47124,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+47124,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+47124,51557,Bombylius major,Greater Bee Fly,eatenBy
+47124,48662,Danaus plexippus,Monarch,eatenBy
+47124,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+47124,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+47124,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+47124,6317,Calypte anna,Anna's Hummingbird,eatenBy
+47124,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+47124,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+47124,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+47124,145238,Setophaga petechia,Yellow Warbler,eatenBy
+47124,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+47124,52775,Bombus,Bumble Bees,eatenBy
+47124,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+47124,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47124,8229,Cyanocitta cristata,Blue Jay,eatenBy
+47124,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+47124,44062,Thomomys bottae,Botta's Pocket Gopher,eatenBy
+47124,120156,Musca domestica,Housefly,eatenBy
+47124,226718,Otiorhynchus sulcatus,Black Vine Weevil,eatenBy
+47124,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eatenBy
+47124,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+47124,12901,Catharus fuscescens,Veery,eatenBy
+47124,12890,Catharus guttatus,Hermit Thrush,eatenBy
+47124,9915,Piranga rubra,Summer Tanager,eatenBy
+47124,9921,Piranga olivacea,Scarlet Tanager,eatenBy
+47124,9346,Icterus galbula,Baltimore Oriole,eatenBy
+47124,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47124,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+47124,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47124,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47124,9721,Geothlypis trichas,Common Yellowthroat,eatenBy
+47124,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+47124,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47124,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+47124,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+47124,6930,Anas platyrhynchos,Mallard,eatenBy
+47124,558433,Spatula discors,Blue-winged Teal,eatenBy
+47124,10469,Xanthocephalus,,eatenBy
+47124,7006,Anser,Grey Geese,eatenBy
+47124,558439,Mareca strepera,Gadwall,eatenBy
+47124,73155,Passerina caerulea,Blue Grosbeak,eatenBy
+47124,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+47124,8021,Corvus brachyrhynchos,American Crow,eatenBy
+47124,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+47124,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+47124,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+47124,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+47124,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+47124,7294,Eremophila alpestris,Horned Lark,eatenBy
+47124,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+47124,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47124,7107,Aix sponsa,Wood Duck,eatenBy
+47124,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47124,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+47124,7044,Aythya collaris,Ring-necked Duck,eatenBy
+47124,144496,Gallinago delicata,Wilson's Snipe,eatenBy
+47124,4665,Falco sparverius,American Kestrel,eatenBy
+47124,1959,Coccyzus,Coccyzus Cuckoos,eatenBy
+47124,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+47124,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+47124,4793,Charadrius vociferus,Killdeer,eatenBy
+47124,5020,Butorides virescens,Green Heron,eatenBy
+47124,72458,Actitis macularius,Spotted Sandpiper,eatenBy
+47124,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47124,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47124,473,Fulica americana,American Coot,eatenBy
+47124,3454,Zenaida macroura,Mourning Dove,eatenBy
+47124,981,Phasianus colchicus,Ring-necked Pheasant,eatenBy
+47124,508048,Antigone canadensis,Sandhill Crane,eatenBy
+47124,1409,Callipepla californica,California Quail,eatenBy
+47124,13858,Passer domesticus,House Sparrow,eatenBy
+47124,9100,Melospiza melodia,Song Sparrow,eatenBy
+47124,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+47124,6921,Cygnus olor,Mute Swan,eatenBy
+47124,6915,Cygnus buccinator,Trumpeter Swan,eatenBy
+47124,6993,Bucephala albeola,Bufflehead,eatenBy
+47124,7089,Branta canadensis,Canada Goose,eatenBy
+47124,17356,Vireo bellii,Bell's Vireo,eatenBy
+47124,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+47124,17355,Vireo,Vireos,eatenBy
+47124,9602,Quiscalus quiscula,Common Grackle,eatenBy
+47124,199840,Haemorhous mexicanus,House Finch,eatenBy
+47124,14850,Sturnus vulgaris,European Starling,eatenBy
+47124,3936,Scolopax minor,American Woodcock,eatenBy
+47124,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+47124,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+47124,3873,Limnodromus scolopaceus,Long-billed Dowitcher,eatenBy
+47124,7562,Troglodytes aedon,House Wren,eatenBy
+47124,16768,Tyrannus,Kingbirds,eatenBy
+47124,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+47124,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+47124,17013,Sayornis nigricans,Black Phoebe,eatenBy
+47124,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+47124,17009,Sayornis saya,Say's Phoebe,eatenBy
+47124,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+47124,12727,Turdus migratorius,American Robin,eatenBy
+47124,10227,Passerina cyanea,Indigo Bunting,eatenBy
+47124,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+47124,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+47124,18236,Colaptes auratus,Northern Flicker,eatenBy
+47124,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+47124,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+47124,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+47124,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+47124,9135,Spizella passerina,Chipping Sparrow,eatenBy
+47124,9182,Zonotrichia querula,Harris's Sparrow,eatenBy
+47124,9091,Melospiza,Melospiza Sparrows,eatenBy
+47124,9184,Zonotrichia albicollis,White-throated Sparrow,eatenBy
+47124,10479,Chondestes grammacus,Lark Sparrow,eatenBy
+47124,9152,Spizella pusilla,Field Sparrow,eatenBy
+47124,8010,Corvus corax,Common Raven,eatenBy
+47124,7998,Corvus,Crows and Ravens,eatenBy
+47124,3017,Columba livia,Rock Pigeon,eatenBy
+47124,3108,Patagioenas fasciata,Band-tailed Pigeon,eatenBy
+47124,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+47124,12937,Sialia mexicana,Western Bluebird,eatenBy
+47124,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+47124,792976,Dryobates,Dryobates Woodpeckers,eatenBy
+47124,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+47124,7458,Certhia americana,Brown Creeper,eatenBy
+47124,14801,Sitta carolinensis,White-breasted Nuthatch,eatenBy
+47124,14823,Sitta canadensis,Red-breasted Nuthatch,eatenBy
+47124,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47124,4756,Cathartes aura,Turkey Vulture,eatenBy
+47124,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+47124,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+47124,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+47124,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+47124,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+47124,19660,Regulus,Kinglets,eatenBy
+47124,10247,Setophaga ruticilla,American Redstart,eatenBy
+47124,9424,Pipilo erythrophthalmus,Eastern Towhee,eatenBy
+47124,199841,Haemorhous purpureus,Purple Finch,eatenBy
+47124,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+47124,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+47124,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+47124,73044,Melozone crissalis,California Towhee,eatenBy
+47124,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+47124,145310,Spinus tristis,American Goldfinch,eatenBy
+47124,16598,Empidonax difficilis,Pacific-slope Flycatcher,eatenBy
+47124,14906,Toxostoma redivivum,California Thrasher,eatenBy
+47124,7266,Psaltriparus minimus,Bushtit,eatenBy
+47124,7497,Polioptila californica,California Gnatcatcher,eatenBy
+47124,13633,Baeolophus inornatus,Oak Titmouse,eatenBy
+47124,15256,Chamaea fasciata,Wrentit,eatenBy
+47124,7601,Cistothorus palustris,Marsh Wren,eatenBy
+47124,3894,Numenius,Curlews,eatenBy
+47124,127741,Colletes,Cellophane Bees,pollinatedBy
+47124,57671,Anthidium,Carder Bees,pollinatedBy
+47124,52491,Eristalis,Drone Flies,pollinatedBy
+47124,57682,Anthophora,Common Digger Bees,pollinatedBy
+47124,118969,Allograpta,Streaktails,pollinatedBy
+47124,176923,Mordella,,pollinatedBy
+47124,465572,Fazia,,pollinatedBy
+47124,174590,Caupolicana,,pollinatedBy
+47124,1145796,Anthophora arequipensis,,pollinatedBy
+47124,41133,Platalina genovensium,long-snouted bat,pollinatedBy
+47124,62330,Peleteria,,pollinatedBy
+47124,51538,Leptotes,Common Blues,pollinatedBy
+47124,50341,Hylephila,,pollinatedBy
+47124,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+47124,252943,Exomalopsis,,pollinatedBy
+47124,58753,Toxomerus,Calligrapher Flies,pollinatedBy
+47124,1235773,Platynocera,,pollinatedBy
+47124,,Sphecodes chilensis,,pollinatedBy
+47124,424215,Tatochila mercedis,Common White Tatochila,pollinatedBy
+47124,784960,Svastrides melanura,Black-tailed Longhorn,pollinatedBy
+47124,121357,Platycheirus,Sedgesitters,pollinatedBy
+47124,357598,Vanessa terpsichore,Chilean Lady,pollinatedBy
+47124,243760,Frankliniella occidentalis,Western Flower Thrips,pollinatedBy
+47124,,Sephanoides sephanoides,,pollinatedBy
+47124,133704,Bombus ruderatus,Large Garden Bumble Bee,pollinatedBy
+47124,571004,Cadeguala occidentalis,,pollinatedBy
+47124,1261261,Notiocheilosia nitescens,,pollinatedBy
+47124,639802,Acrophthalmyda paulseni,,pollinatedBy
+47124,1247317,Chilicola herbsti,,pollinatedBy
+47124,423998,Cosmosatyrus,,pollinatedBy
+47124,574409,Xeromelissa rozeni,,pollinatedBy
+47124,6255,Patagona gigas,Giant Hummingbird,pollinatedBy
+47124,6410,Sephanoides fernandensis,Juan Fernández Firecrown,pollinatedBy
+47124,,Colletes murinus,,pollinatedBy
+47124,1139399,Triploechus heteronevrus,,pollinatedBy
+47124,574528,Liphanthus,,pollinatedBy
+47124,,Arctodium vulpinus,,pollinatedBy
+47124,,Caenohalictus dolator,,pollinatedBy
+47124,460971,Acromyrmex lobicornis,,pollinatedBy
+47124,991825,Colletes lucens,Yellow-backed Cellophane bee,pollinatedBy
+47124,574413,Xeromelissa xanthorhina,,pollinatedBy
+47124,883256,Palpada meigenii,,pollinatedBy
+47124,,Ctenucha vittigerum,,pollinatedBy
+47124,,Acamptopoeum submetallicum,,pollinatedBy
+47124,780176,Alloscirtetica gayi,Gay's Austral-Longhorn,pollinatedBy
+47124,746907,Eryphus laetus,,pollinatedBy
+47124,469884,Yramea cytheris,Cytheris Fritillary,pollinatedBy
+47124,6056,Lafresnaya lafresnayi,Mountain Velvetbreast,pollinatedBy
+47124,574414,Xeromelissa luisa,,pollinatedBy
+47124,,Pseudodendrothrips mori,,pollinatedBy
+47124,385111,Aeolothrips fasciatus,Banded Thrips,pollinatedBy
+47124,884644,Dolichogyna,,pollinatedBy
+47124,,Mourecotelles mixtus,,pollinatedBy
+47124,,Rhophitulus herbsti,,pollinatedBy
+47124,,Spinoliella rozeni,,pollinatedBy
+47124,780447,Ruizantheda proxima,Spotted Hairy-eyed Sweat bee,pollinatedBy
+47124,,Krankliniella cestrum,,pollinatedBy
+47124,,Elaenia,,pollinatedBy
+47124,915572,Alloscirtetica rufitarsis,,pollinatedBy
+47124,574506,Alloscirtetica,,pollinatedBy
+47124,,Trichothurgus herbsti,,pollinatedBy
+47124,,Caenohalictus monilicornis,,pollinatedBy
+47124,,Scaptia atra,,pollinatedBy
+47124,602787,Policana,,pollinatedBy
+47124,1147373,Chalepogenus herbsti,Herbst's Mini-Oil digger,pollinatedBy
+47124,490644,Trichophthalma,,pollinatedBy
+47124,,Tatochila blanchardi,,pollinatedBy
+47124,577449,Callonychium coquimbense,,pollinatedBy
+47124,126155,Vespula germanica,German Yellowjacket,pollinatedBy
+47124,,Yramea lathonoides,,pollinatedBy
+47124,,Xenochilicola mamigna,,pollinatedBy
+47124,307139,Aptinothrips rufus,Grass Thrip,pollinatedBy
+47124,1025550,Chilicola inermis,,pollinatedBy
+47124,5848,Oreotrochilus leucopleurus,White-sided Hillstar,pollinatedBy
+47124,,Scaptia albifrons,,pollinatedBy
+47124,,Centris buchholzi,,pollinatedBy
+47124,489743,Diphaglossa gayi,,pollinatedBy
+47124,,Corynura heterochlora,,pollinatedBy
+47124,,Colibri coruscans,,pollinatedBy
+47124,,Caenohalictus azarae,,pollinatedBy
+47124,,Plectonotum krausei,,pollinatedBy
+47124,979840,Oreotrochilus estella,Andean Hillstar,pollinatedBy
+47124,512755,Megachile semirufa,,pollinatedBy
+47124,,Leioproctus semicyaneus,,pollinatedBy
+47124,,Corynura lepida,,pollinatedBy
+47124,,Amecocerus elguetai,,pollinatedBy
+47124,,Corynura chloris,,pollinatedBy
+47124,497142,Bombus dahlbomii,Giant Bumble Bee,pollinatedBy
+47124,1106756,Xylocopa viridigastra,Green-tailed Carpenter,pollinatedBy
+47124,6309,Rhodopis vesper,Oasis Hummingbird,pollinatedBy
+47124,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy
+47124,769040,Colletes seminitidus,,pollinatedBy
+47124,,Dasybasis pruinivitta,,pollinatedBy
+47124,,http://treatment.plazi.org/id/7DCCB1556498F8BED00AB015E3FF9FEB,,pollinatedBy
+47124,785998,Centris chilensis,Chilean Oil-Digger,pollinatedBy
+47124,780634,Pseudolucia chilensis,,pollinatedBy
+47124,,Leioproctus atacama,,pollinatedBy
+47124,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+47124,,Trichothurgus dubius,,pollinatedBy
+47124,,Pompilus pachylopus,,pollinatedBy

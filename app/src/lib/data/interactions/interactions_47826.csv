@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47826,47115,Mollusca,Molluscs,eats
+47826,47549,Echinodermata,Echinoderms,eats
+47826,117696,Dendraster excentricus,Eccentric Sand Dollar,eats
+47826,81634,Mya arenaria,Soft-shelled Clam,eats
+47826,,Littorina sitkana,,eats
+47826,,Tresus capax,,eats
+47826,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+47826,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+47826,68597,Sebastes caurinus,copper rockfish,eatenBy
+47826,52297,Triakis semifasciata,Leopard Shark,eatenBy
+47826,106254,Mustelus californicus,Gray Smooth-hound,eatenBy
+47826,106258,Mustelus henlei,Brown Smooth-hound,eatenBy
+47826,515893,Platycephalus laevigatus,Rock Flathead,eatenBy
+47826,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+47826,,Corvus caurinus,,eatenBy
+47826,343269,Ruditapes philippinarum,Japanese Littleneck,preysOn
+47826,81634,Mya arenaria,Soft-shelled Clam,preysOn
+47826,,Pandalus danae,,preysOn
+47826,117520,Enhydra lutris nereis,Southern Sea Otter,preyedUponBy
+47826,4385,Larus californicus,California Gull,preyedUponBy
+47826,106258,Mustelus henlei,Brown Smooth-hound,preyedUponBy
+47826,106254,Mustelus californicus,Gray Smooth-hound,preyedUponBy
+47826,47760,Sebastes melanops,Black rockfish,preyedUponBy
+47826,68597,Sebastes caurinus,copper rockfish,preyedUponBy
+47826,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy
+47826,4399,Larus glaucescens,Glaucous-winged Gull,preyedUponBy

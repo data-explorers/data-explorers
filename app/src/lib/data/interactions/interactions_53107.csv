@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53107,1409,Callipepla californica,California Quail,eatenBy
+53107,,Harpalus affinis,,eatenBy
+53107,,Harpalus rufipes,,eatenBy
+53107,,Campiglossa misella,,eatenBy
+53107,,Ensina sonchi,,eatenBy
+53107,,Trupanea amoena,,eatenBy
+53107,,Cuscuta europaea,,eatenBy
+53107,,Acyrthosiphon lactucae,,eatenBy
+53107,,Psyllobora vigintiduopunctata,,eatenBy
+53107,,Palomena prasina,,eatenBy
+53107,,Hecatera dysodea,,eatenBy
+53107,1046281,Herpetogramma hipponalis,,eatenBy
+53107,,Corcyra cephalonica,,eatenBy
+53107,,Spodoptera litura,,eatenBy
+53107,,Oreortyx pictus,,eatenBy
+53107,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+53107,,Zonotrichia leucophrys,,eatenBy
+53107,1240,Dendragapus,Blue Grouse,eatenBy
+53107,831,Perdix perdix,Gray Partridge,eatenBy
+53107,47822,Diptera,Flies,pollinatedBy
+53107,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+53107,,Self pollinated,,pollinatedBy

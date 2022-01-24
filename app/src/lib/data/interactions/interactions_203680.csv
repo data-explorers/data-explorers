@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+203680,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+203680,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+203680,,Phytomyza rufescens,,eatenBy
+203680,,Olibrus liquidus,,eatenBy
+203680,,Antitype chi,,eatenBy
+203680,,Bombus ternarius,,eatenBy
+203680,1081323,Lon hobomok,Hobomok Skipper,pollinatedBy
+203680,143854,Bombus borealis,Northern Amber Bumble Bee,pollinatedBy

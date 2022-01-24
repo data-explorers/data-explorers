@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55339,,Algae,,eats
+55339,,autochthonous detritus,,eats
+55339,,Detritus,,eats
+55339,60393,Tipula,,eatenBy
+55339,6915,Cygnus buccinator,Trumpeter Swan,eatenBy
+55339,,G. bousfieldi,,eatenBy
+55339,,Gammarus minus,,eatenBy
+55339,,Cambarus bartonii,,eatenBy
+55339,,Asellus bivittatus,,eatenBy
+55339,,Gammarus bousfieldi,,eatenBy
+55339,,Caecidotea brevicauda,,eatenBy

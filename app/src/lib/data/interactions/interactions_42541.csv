@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42541,39532,Testudines,Turtles and Tortoises,eats
+42541,41976,Lynx rufus,Bobcat,eatenBy
+42541,42069,Vulpes vulpes,Red Fox,eatenBy
+42541,42007,Puma concolor,Mountain Lion,eatenBy
+42541,41663,Procyon lotor,Common Raccoon,eatenBy
+42541,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+42541,41988,Leopardus wiedii,Margay,eatenBy
+42541,41987,Leopardus tigrinus,Northern Tigrina,eatenBy
+42541,41997,Leopardus pardalis,Ocelot,eatenBy
+42541,,Puma yagouaroundi,,eatenBy
+42541,30693,Crotalus durissus,Neotropical Rattlesnake,preyedUponBy
+42541,30767,Bothrops,Neotropical Lanceheads,preyedUponBy
+42541,539421,Bothrops pubescens,,preyedUponBy
+42541,28256,Tropidodryas striaticeps,Jiboinha,preyedUponBy
+42541,539037,Bothrops alternatus,Urutu Lancehead,preyedUponBy
+42541,,Drymarchon corais corais,,preyedUponBy
+42541,114565,Tropidodryas serra,Serra Snake,preyedUponBy

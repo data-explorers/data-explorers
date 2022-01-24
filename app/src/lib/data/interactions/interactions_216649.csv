@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+216649,48678,Solidago,goldenrods,eats
+216649,130989,Euthamia graminifolia,flat-topped goldenrod,eats
+216649,47912,Asclepias tuberosa,butterfly milkweed,eats
+216649,56955,Helianthus,sunflowers,eats
+216649,125721,Solidago rigida,stiff-leaved goldenrod,eats
+216649,57952,Coreopsis,Tickseed,eats
+216649,55735,Sedum,stonecrops,eats
+216649,119045,Eupatorium perfoliatum,common boneset,eats
+216649,52989,Cirsium vulgare,Bull Thistle,eats
+216649,127907,Chamaecrista fasciculata,partridge pea,eats
+216649,76610,Daucus carota,wild carrot,eats
+216649,,Verbesina alternifolia,,eats
+216649,,Eupatorium serotinum,,eats
+216649,125699,Helianthus mollis,ashy sunflower,eats
+216649,117438,Dipsacus laciniatus,cutleaf teasel,eats
+216649,,Pycnanthemum verticillatum pilosum,,eats
+216649,,Agrimonia,,eats
+216649,,Heliopsis helianthoides,,eats
+216649,,Palafoxia,,eats
+216649,,Solidago altissima,,eats
+216649,55655,Lycaena phlaeas,Small Copper,pollinates
+216649,,Monobia quadridens,,pollinates
+216649,48957,Arilus cristatus,Wheel Bug,preyedUponBy

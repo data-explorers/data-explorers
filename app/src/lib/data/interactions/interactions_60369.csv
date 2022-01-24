@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60369,127511,Fomes,,eatenBy
+60369,7998,Corvus,Crows and Ravens,eatenBy
+60369,46260,Tamiasciurus hudsonicus,American Red Squirrel,eatenBy
+60369,889,Bonasa,,eatenBy
+60369,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+60369,,Saperda,,eatenBy
+60369,,Evolomys,,eatenBy
+60369,,Clepsis melaleucana,,eatenBy
+60369,,Olethreutes bipunctana,,eatenBy
+60369,,Elaeocarpus,,eatenBy
+60369,,insects (mature forest),,eatenBy
+60369,,canker,,eatenBy
+60369,,Rossmanomyces pyrolae,,eatenBy
+60369,52775,Bombus,Bumble Bees,pollinatedBy
+60369,62455,Eupeodes,Aphideaters,pollinatedBy
+60369,176621,Nysius,False chinch bugs,pollinatedBy
+60369,62989,Aedes,,pollinatedBy
+60369,,Platycheirus scutatus,,pollinatedBy
+60369,359320,Bombus diversus,Diverse Bumble Bee,pollinatedBy
+60369,,Syrphus vitripennis ,,pollinatedBy
+60369,,Lasioglossum laeviventre ,,pollinatedBy
+60369,,Andrena parathoracina ,,pollinatedBy
+60369,,Pidonia signifera ,,pollinatedBy
+60369,,Pidonia grallatrix ,,pollinatedBy
+60369,,Meligethes morosus ,,pollinatedBy
+60369,,Bombus hypocrita,,pollinatedBy
+60369,,Pidonia masakii ,,pollinatedBy
+60369,,Pidonia oyamae ,,pollinatedBy
+60369,,Pidonia yokoyamai ,,pollinatedBy
+60369,,Pidonia signata ,,pollinatedBy
+60369,,Pidonia semiobscura ,,pollinatedBy
+60369,,Anaspis funagata ,,pollinatedBy
+60369,,Phaonia,,pollinatedBy
+60369,,Spilogona,,pollinatedBy

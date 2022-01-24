@@ -1,0 +1,105 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+39677,48332,Scyphozoa,True Jellies,eats
+39677,51508,Ctenophora,Comb Jellies,eats
+39677,128144,Cassiopea,Upsidedown Jellies,eats
+39677,1,Animalia,Animals,eats
+39677,510784,Apolemia,,eats
+39677,319373,Rhizostoma,Barrel Jellies,eats
+39677,51104,Thaliacea,Thaliaceans,eats
+39677,333778,Catostylus,Blubber Jellies,eats
+39677,154711,Cyanea,Lion's Mane Jellies,eats
+39677,48329,Aurelia,Moon Jellies,eats
+39677,48483,Chrysaora,Sea Nettles,eats
+39677,247213,Pelagia,Purple-striped Jellies,eats
+39677,126395,Stomolophus,Cannonball Jellies,eats
+39677,51109,Pyrosoma,,eats
+39677,69838,Cyanea capillata,Lion's Mane Jelly,eats
+39677,126393,Stomolophus meleagris,Cannonball Jelly,eats
+39677,319371,Rhizostoma pulmo,Barrel Jelly,eats
+39677,48328,Aurelia aurita,Moon Jelly,eats
+39677,360314,Chrysaora hysoscella,Compass Jelly,eats
+39677,447777,Cyanea lamarckii,Blue Jelly,eats
+39677,85493,Crustacea,Crustaceans,eats
+39677,92583,Trachurus,Jack Mackerels,eats
+39677,47158,Insecta,Insects,eats
+39677,256070,Aequorea macrodactyla,,eats
+39677,,Medusozoa,,eats
+39677,255961,Linuche unguiculata,Thimble Jelly,eats
+39677,,Urochordata,,eats
+39677,525648,Alatina alata,Sea Wasp,eats
+39677,,Gnathostomata,,eats
+39677,83849,Urophycis,,eats
+39677,195329,Hyperia,,eats
+39677,,Libina sp.,,eats
+39677,295329,Pilumnus lacteus,,eats
+39677,,Mithrax verrucosus,,eats
+39677,,Pachycheles susanae,,eats
+39677,,Pagurus bonairensis,,eats
+39677,295500,Pilumnus marshi,,eats
+39677,248353,Mithrax,,eats
+39677,700391,Ericerodes gracilipes,unicorn neck crab,eats
+39677,,Micropanope nuttingi,,eats
+39677,295342,Paraliomera dispar,,eats
+39677,295394,Paguristes tortugae,,eats
+39677,201727,Aglaura hemistoma,,eats
+39677,665296,Eudoxoides spiralis,,eats
+39677,295498,Pilumnus gemmatus,,eats
+39677,,Petrolisthes rosariensis,,eats
+39677,,Mithrax hemphilli,,eats
+39677,,Mithrax spinosissimus,,eats
+39677,295330,Pilumnus longleyi,,eats
+39677,,Mithrax pilosus,,eats
+39677,201723,Abylopsis tetragona,,eats
+39677,130055,Paguristes cadenati,Red Reef Hermit,eats
+39677,361286,Mithraculus sculptus,Green Clinging Crab,eats
+39677,260422,Pilumnus pannosus,Beaded Hairy Crab,eats
+39677,,Hexapanopeus caribbaeus,,eats
+39677,346475,Mithraculus cinctimanus,banded clinging crab,eats
+39677,672393,Lensia subtiloides,,eats
+39677,,Mithrax caribbaeus,,eats
+39677,205376,Zeuxidia,Saturns,eats
+39677,662468,Diphyes bojani,,eats
+39677,295506,Paraliomera longimana,,eats
+39677,260370,Pitho sexdentata,,eats
+39677,986312,Pitho quadridentata,,eats
+39677,128121,Stenorhynchus seticornis,Yellowline Arrow Crab,eats
+39677,,Podochela riisei,,eats
+39677,1225073,Garthiope barbadensis,,eats
+39677,195257,Gnathophylloides mineri,Squat Urchin Shrimp,eats
+39677,,Periclimenes pedersoni,,eats
+39677,,Microphrys interruptus,,eats
+39677,,Mithrax holderi,,eats
+39677,260372,Pitho lherminieri,,eats
+39677,204905,Tozeuma carolinense,Arrow Shrimp,eats
+39677,295266,Pitho aculeata,,eats
+39677,,Pilumnus holosericus,,eats
+39677,,Pilumnus diomedeae,,eats
+39677,51026,Petrolisthes galathinus,banded porcelain crab,eats
+39677,295220,Paguristes grayi,,eats
+39677,,Microphrys bicornutus,,eats
+39677,,Microphrys antillensis,,eats
+39677,260322,Pagurus brevidactylus,,eats
+39677,,Pachycheles serratus,,eats
+39677,,Pachycheles riisei,,eats
+39677,295359,Parapinnixa hendersoni,,eats
+39677,295331,Pilumnus sayi,Spineback Hairy Crab,eats
+39677,646396,Abylopsis eschscholtzi,,eats
+39677,295503,Domecia acanthophora,Elkhorn Coral Crab,eats
+39677,295508,Parapinnixa bouvieri,,eats
+39677,195201,Pachygrapsus transversus,Mottled Shore Crab,eats
+39677,,Mithraculus ruber,,eats
+39677,,Pilumnus reticulatus,,eats
+39677,260349,Petrolisthes jugosus,,eats
+39677,700390,Coryrhynchus sidneyi,shortfinger neck crab,eats
+39677,53875,Ocypode quadrata,Atlantic Ghost Crab,eatenBy
+39677,8001,Corvus ossifragus,Fish Crow,eatenBy
+39677,50873,Carcharodon carcharias,Great White Shark,eatenBy
+39677,100110,Epinephelus itajara,Atlantic Goliath Grouper,eatenBy
+39677,69838,Cyanea capillata,Lion's Mane Jelly,preysOn
+39677,126393,Stomolophus meleagris,Cannonball Jelly,preysOn
+39677,319371,Rhizostoma pulmo,Barrel Jelly,preysOn
+39677,360314,Chrysaora hysoscella,Compass Jelly,preysOn
+39677,48328,Aurelia aurita,Moon Jelly,preysOn
+39677,447777,Cyanea lamarckii,Blue Jelly,preysOn
+39677,50873,Carcharodon carcharias,Great White Shark,preyedUponBy
+39677,,no name,,preyedUponBy

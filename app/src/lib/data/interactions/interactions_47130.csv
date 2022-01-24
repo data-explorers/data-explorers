@@ -1,0 +1,114 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47130,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+47130,54064,Polygonia comma,Eastern Comma,eatenBy
+47130,334057,Dichorda illustraria,,eatenBy
+47130,49921,Nymphalis,Tortoiseshells,eatenBy
+47130,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+47130,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+47130,81655,Nematocampa,,eatenBy
+47130,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+47130,48662,Danaus plexippus,Monarch,eatenBy
+47130,6317,Calypte anna,Anna's Hummingbird,eatenBy
+47130,52775,Bombus,Bumble Bees,eatenBy
+47130,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+47130,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+47130,47219,Apis mellifera,Western Honey Bee,eatenBy
+47130,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+47130,520586,Tamias,,eatenBy
+47130,12890,Catharus guttatus,Hermit Thrush,eatenBy
+47130,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47130,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47130,12727,Turdus migratorius,American Robin,eatenBy
+47130,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+47130,12942,Sialia sialis,Eastern Bluebird,eatenBy
+47130,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+47130,,Nasonovia ribisnigri,,eatenBy
+47130,,Hyperomyzus lactucae,,eatenBy
+47130,,Aspidites,,eatenBy
+47130,,Nematus (Kontuniemiana) olfaciens,,eatenBy
+47130,,Agrilus cuprescens,,eatenBy
+47130,,Clepsis persicana,,eatenBy
+47130,527197,Exapate congelatella,Autumnal Shade,eatenBy
+47130,,Lobesia botrana,,eatenBy
+47130,,Cornicacoecia lafauryana,,eatenBy
+47130,,Epinotia castaneana,,eatenBy
+47130,,Orthotaenia undulana,,eatenBy
+47130,217191,Clepsis spectrana,Cyclamen Tortrix,eatenBy
+47130,,Acleris maccana,,eatenBy
+47130,,Adoxophyes orana,,eatenBy
+47130,,Euhyponomeutoides ribesiella,,eatenBy
+47130,,Synanthedon tipuliformis,,eatenBy
+47130,,Hyalophora columbia,,eatenBy
+47130,,Syricoris rivulana,,eatenBy
+47130,212929,Alcathoe caudata,Clematis Clearwing Moth,eatenBy
+47130,,Eupoecilia ambiguella,,eatenBy
+47130,49348,Hyles lineata,White-lined Sphinx,eatenBy
+47130,47919,Antheraea polyphemus,Polyphemus Moth,eatenBy
+47130,,Zophodia grossulariae,,eatenBy
+47130,82279,Automeris io,Io Moth,eatenBy
+47130,,Zophodia grossulariella,,eatenBy
+47130,,Lampronia,,eatenBy
+47130,,Agonopterix antennariella,,eatenBy
+47130,68262,Polygonia faunus,Green Comma,eatenBy
+47130,,Polygonia vau-album,,eatenBy
+47130,,Polygonia gracilis,,eatenBy
+47130,,Crocigrapha normani,,eatenBy
+47130,,Polymixis flavicincta,,eatenBy
+47130,68269,Aglais milberti,Milbert's Tortoiseshell,eatenBy
+47130,,Spiramater lutra,,eatenBy
+47130,,Eupsilia tristigmata,,eatenBy
+47130,,Malacosoma californica,,eatenBy
+47130,,Dysstroma hersiliata,,eatenBy
+47130,,Dysstroma truncata,,eatenBy
+47130,,Nemoria unitaria,,eatenBy
+47130,218839,Dysstroma formosa,Formosa Carpet Moth,eatenBy
+47130,,Eulithis propulsata,,eatenBy
+47130,,Eulithis prunata,,eatenBy
+47130,230882,Sicya macularia,Sharp-lined Yellow,eatenBy
+47130,,Synchlora aerata,,eatenBy
+47130,,Korscheltellus lupulinus,,eatenBy
+47130,,Phyllonorycter ribefoliae,,eatenBy
+47130,,Mesothea incertata,,eatenBy
+47130,,Eulithis destinata,,eatenBy
+47130,,Itame ribearia,,eatenBy
+47130,,Anacamptodes ephyraria,,eatenBy
+47130,,Abraxas grossulariata,,eatenBy
+47130,,Eupithecia assimilata,,eatenBy
+47130,,Biston betularia,,eatenBy
+47130,,Alcis repandata,,eatenBy
+47130,216383,Cepphis armataria,Scallop Moth,eatenBy
+47130,,Celastrina argiolus,,eatenBy
+47130,60896,Callophrys rubi,Green Hairstreak,eatenBy
+47130,,Polygonia c-album,,eatenBy
+47130,,Tharsalea arota,,eatenBy
+47130,,Trichocladium opacum,,eatenBy
+47130,716067,Pseudaulacaspis pentagona,,eatenBy
+47130,,Nematus (Kontuniemiana) leucotrochus,,eatenBy
+47130,,Nematus olfaciens,,eatenBy
+47130,,Cytospora ribis,,eatenBy
+47130,,Hyperomyzus (Hyperomyzella) rhinanthi,,eatenBy
+47130,,Helminthosporium velutinum,,eatenBy
+47130,,Chaetosphaeria inaequalis,,eatenBy
+47130,,Melanomma pulvis-pyrius,,eatenBy
+47130,,Nectria cinnabarina,,eatenBy
+47130,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+47130,,Parthenolecanium corni,,eatenBy
+47130,396032,Pulvinaria vitis,Cottony Grape Scale,eatenBy
+47130,,Otiorhynchus (Dorymerus) singularis,,eatenBy
+47130,,Aphis (Bursaphis) schneideri,,eatenBy
+47130,49575,Pseudococcus,,eatenBy
+47130,,Orthotylus (Orthotylus) marginalis,,eatenBy
+47130,,Rosellinia thelena,,eatenBy
+47130,47158,Insecta,Insects,pollinatedBy
+47130,47220,Apis,Honey Bees,pollinatedBy
+47130,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47130,49995,Syrphidae,Hover Flies,pollinatedBy
+47130,5562,Trochilidae,Hummingbirds,pollinatedBy
+47130,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+47130,68719,Scathophagidae,Dung Flies,pollinatedBy
+47130,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+47130,,Self pollinated,,pollinatedBy
+47130,,Osmia lignaria,,pollinatedBy
+47130,,Andrena nivalis,,pollinatedBy
+47130,,Eusphalerum parallelum ,,pollinatedBy
+47130,,,,pollinatedBy

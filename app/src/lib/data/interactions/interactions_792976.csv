@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+792976,47158,Insecta,Insects,eats
+792976,47208,Coleoptera,Beetles,eats
+792976,47336,Formicidae,Ants,eats
+792976,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+792976,47375,Pinales,conifers,eats
+792976,47120,Arthropoda,Arthropods,eats
+792976,47124,Magnoliopsida,dicots,eats
+792976,49567,Carabidae,Ground Beetles,eats
+792976,82232,Blattidae,Household Cockroaches,eats
+792976,47792,Odonata,Dragonflies and Damselflies,eats
+792976,47157,Lepidoptera,Butterflies and Moths,eats
+792976,47118,Araneae,Spiders,eats
+792976,52884,Gryllidae,True Crickets,eats
+792976,47649,Acrididae,Short-horned Grasshoppers,eats
+792976,,Hapithus luteolira,,eats
+792976,73887,Pantherophis guttatus,Corn Snake,preyedUponBy

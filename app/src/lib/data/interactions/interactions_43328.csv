@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43328,,herbs - grass - shrubs,,eats
+43328,42007,Puma concolor,Mountain Lion,eatenBy
+43328,41167,Desmodus,,eatenBy
+43328,42006,Puma,,eatenBy
+43328,41963,Panthera pardus,Leopard,eatenBy
+43328,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+43328,,Diaemus,,eatenBy

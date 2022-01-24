@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51538,48060,Prosopis,mesquites,eats
+51538,72308,Plumbago,plumbagos,eats
+51538,,Plumbago auriculata,,eats
+51538,,Vigna,,eats
+51538,,Crotalaria,,eats
+51538,131569,Crotalaria incana,shakeshake,eats
+51538,,Cardiospermum halicacabum,,eats
+51538,83365,Indigofera,Indigos,eats
+51538,,Cardiospermum,,eats
+51538,47124,Magnoliopsida,dicots,pollinates
+51538,59041,Phyla,frogfruits,pollinates
+51538,,Boerhavia erecta,,pollinates
+51538,,Vigna luteola,,pollinates
+51538,,Solanum cheesmaniae,,pollinates
+51538,169915,Tribulus cistoides,Jamaican feverplant,pollinates
+51538,,Tournefortia psilostachya,,pollinates
+51538,79077,Sida rhombifolia,Cuban jute,pollinates
+51538,,Momordica charantia,,pollinates
+51538,,Justicia galapagana,,pollinates

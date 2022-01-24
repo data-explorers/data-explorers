@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+29925,64747,Anaxyrus,North American Toads,eats
+29925,,Coluber constrictor,,eatenBy
+29925,65979,Lithobates catesbeianus,American Bullfrog,preysOn
+29925,66003,Lithobates pipiens,Northern Leopard Frog,preysOn
+29925,26749,Ambystoma tigrinum,Tiger Salamander,preysOn
+29925,20979,Anura,Frogs and Toads,preysOn
+29925,,Anaxyrus cognatus,,preysOn
+29925,,Anaxyrus terrestris,,preysOn
+29925,,Anaxyrus fowleri,,preysOn
+29925,,Lithobates areolatus circulosus,,preysOn
+29925,27805,Notophthalmus viridescens,Eastern Newt,preysOn
+29925,492702,Phyllophaga aemula,,preysOn
+29925,26695,Scaphiopus holbrookii,Eastern Spadefoot,preysOn
+29925,,Sigmoria laticurvosa,,preysOn

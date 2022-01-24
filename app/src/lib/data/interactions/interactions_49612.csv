@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49612,127711,Histrio histrio,Sargassumfish,eatenBy
+49612,56943,Katsuwonus pelamis,Skipjack Tuna,eatenBy
+49612,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+49612,69676,Thunnus,Bluefin Tunas,eatenBy
+49612,47257,Acanthocybium solandri,Wahoo,eatenBy
+49612,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49612,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+49612,109743,Plectropomus leopardus,Leopard Coralgrouper,eatenBy
+49612,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+49612,113065,Squatina tergocellata,Ornate Angelshark,eatenBy
+49612,122033,Elagatis bipinnulata,Rainbow Runner,eatenBy
+49612,317104,Fistularia petimba,Rough Flutemouth,eatenBy
+49612,100106,Epinephelus hexagonatus,Wirenet Rockcod,eatenBy
+49612,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+49612,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+49612,100430,Etelis carbunculus,Ruby Snapper,eatenBy
+49612,49508,Aprion virescens,Green Jobfish,eatenBy
+49612,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+49612,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49612,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+49612,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+49612,147455,Makaira nigricans,Blue Marlin,eatenBy
+49612,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+49612,4566,Gygis alba,White Tern,eatenBy
+49612,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+49612,4537,Anous minutus,Black Noddy,eatenBy
+49612,4636,Fregata minor,Great Frigatebird,eatenBy
+49612,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+49612,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+49612,,Pseudolaticauda semifasciata,,preyedUponBy

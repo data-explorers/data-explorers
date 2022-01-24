@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1965,47157,Lepidoptera,Butterflies and Moths,eats
+1965,47208,Coleoptera,Beetles,eats
+1965,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+1965,125816,Auchenorrhyncha,True Hoppers,eats
+1965,47822,Diptera,Flies,eats
+1965,47118,Araneae,Spiders,eats
+1965,61267,Heteroptera,True Bugs,eats
+1965,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+1965,48111,Mantidae,Mantids,eats
+1965,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+1965,47158,Insecta,Insects,eats
+1965,50186,Cicadidae,Typical Cicadas,eats
+1965,47367,Opiliones,Harvestmen,eats
+1965,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+1965,60218,Ficus carica,common fig,eats
+1965,132095,Diaprepes,,eats
+1965,47802,Lymantria dispar,LD Moth,eats
+1965,172847,Alabama argillacea,,eats
+1965,555168,Dendropsophus molitor,Green Dotted Tree Frog,eats
+1965,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+1965,20044,Bubo virginianus,Great Horned Owl,eatenBy
+1965,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+1965,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+1965,5186,Buteo brachyurus,Short-tailed Hawk,eatenBy
+1965,4645,Falco femoralis,Aplomado Falcon,eatenBy
+1965,47157,Lepidoptera,Butterflies and Moths,preysOn
+1965,,Neilonellidae,,preysOn
+1965,29044,Pituophis catenifer,Gopher Snake,preyedUponBy

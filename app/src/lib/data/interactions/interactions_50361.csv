@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50361,7043,Aythya,"Scaups, Pochards, and Allies",eatenBy
+50361,,Scleropages jardinii,,eatenBy
+50361,,Hydrellia maura,,eatenBy
+50361,,Anas penelope,,eatenBy
+50361,7128,Nettapus coromandelianus,Cotton Pygmy-Goose,eatenBy
+50361,,Nettapus pulchellus,,eatenBy
+50361,6896,Dendrocygna arcuata,Wandering Whistling-Duck,eatenBy
+50361,6914,Cygnus atratus,Black Swan,eatenBy
+50361,558437,Spatula rhynchotis,Australasian Shoveler,eatenBy
+50361,7074,Oxyura australis,Blue-billed Duck,eatenBy
+50361,7174,Malacorhynchus membranaceus,Pink-eared Duck,eatenBy
+50361,,Stictonetta naevosa,,eatenBy
+50361,7178,Biziura lobata,Musk Duck,eatenBy
+50361,7031,Melanitta,Scoters,eatenBy
+50361,7036,Melanitta perspicillata,Surf Scoter,eatenBy

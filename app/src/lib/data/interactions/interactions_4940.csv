@@ -1,0 +1,175 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4940,47208,Coleoptera,Beetles,eats
+4940,47927,Anisoptera,Dragonflies,eats
+4940,52134,Culicidae,Mosquitoes,eats
+4940,59115,Gambusia affinis,Western Mosquitofish,eats
+4940,49591,Lepomis macrochirus,Bluegill,eats
+4940,52629,Araneus,Angulate and Roundshouldered Orbweavers,eats
+4940,47822,Diptera,Flies,eats
+4940,47158,Insecta,Insects,eats
+4940,47157,Lepidoptera,Butterflies and Moths,eats
+4940,51222,Procambarus,,eats
+4940,81570,Belostomatidae,Giant Water Bugs,eats
+4940,20979,Anura,Frogs and Toads,eats
+4940,127444,Hydrophilidae,Water Scavenger Beetles,eats
+4940,49592,Lepomis,Common Sunfishes,eats
+4940,57659,Dytiscidae,Predaceous Diving Beetles,eats
+4940,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+4940,47792,Odonata,Dragonflies and Damselflies,eats
+4940,47186,Decapoda,Decapods,eats
+4940,47491,Annelida,Segmented Worms,eats
+4940,47118,Araneae,Spiders,eats
+4940,26036,Reptilia,Reptiles,eats
+4940,2,Chordata,Chordates,eats
+4940,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+4940,1,Animalia,Animals,eats
+4940,59116,Poeciliidae,Livebearers and Lampeyes,eats
+4940,48147,Isopoda,Isopods,eats
+4940,51469,Aeshnidae,Darners,eats
+4940,59117,Gambusia,Mosquitofishes,eats
+4940,51911,Engraulidae,Anchovies,eats
+4940,59653,Gerridae,Water Striders,eats
+4940,49587,Micropterus salmoides,Largemouth Bass,eats
+4940,49588,Centrarchidae,Freshwater Sunfishes,eats
+4940,47649,Acrididae,Short-horned Grasshoppers,eats
+4940,54661,Mugilidae,Mullets,eats
+4940,47190,Grapsidae,Shore Crabs,eats
+4940,52884,Gryllidae,True Crickets,eats
+4940,20978,Amphibia,Amphibians,eats
+4940,54196,Cichlidae,Cichlids,eats
+4940,47120,Arthropoda,Arthropods,eats
+4940,49333,Cyprinodontiformes,"Rivulines, Killifishes, and Livebearers",eats
+4940,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+4940,49507,Callinectes,,eats
+4940,54539,Syngnathus,Pipe-fishes,eats
+4940,81791,Nereis,,eats
+4940,84735,Corixidae,Water Boatmen,eats
+4940,23540,Hylidae,Tree Frogs and Allies,eats
+4940,47928,Zygoptera,Damselflies,eats
+4940,48124,Tettigoniidae,Katydids,eats
+4940,66003,Lithobates pipiens,Northern Leopard Frog,eats
+4940,63089,Clitellata,Clitellates,eats
+4940,26172,Squamata,Snakes and Lizards,eats
+4940,48670,Noctuidae,Cutworm Moths and Allies,eats
+4940,85553,Serpentes,Snakes,eats
+4940,47178,Actinopterygii,Ray-finned Fishes,eats
+4940,47115,Mollusca,Molluscs,eats
+4940,54538,Syngnathus leptorhynchus,Bay Pipefish,eats
+4940,103211,Hypsoblennius gilberti,Notchbrow Blenny,eats
+4940,9981,Passerculus sandwichensis,Savannah Sparrow,eats
+4940,65979,Lithobates catesbeianus,American Bullfrog,eats
+4940,64221,Bipalium kewense,Shovel-headed Garden Worm,eats
+4940,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+4940,67731,Anax junius,Common Green Darner,eats
+4940,43698,Rodentia,Rodents,eats
+4940,101051,Fundulus chrysotus,golden topminnow,eats
+4940,,Esox,,eats
+4940,202430,Fundulus confluentus,Marsh Killifish,eats
+4940,,Elassoma evergladei,,eats
+4940,,Lepomis marginatus,,eats
+4940,85127,Lepomis microlophus,Redear Sunfish,eats
+4940,,Cichlasoma urophthalma,,eats
+4940,,Agasicles hygrophila,,eats
+4940,179596,Floridichthys carpio,Goldspotted Killifish,eats
+4940,,Lepomis punctatus,,eats
+4940,179472,Pterygoplichthys multiradiatus,Orinoco Sailfin Catfish,eats
+4940,102482,Hemichromis letourneuxi,Letourneuxi's Jewel Cichlid,eats
+4940,98945,Cyprinodon variegatus,Sheepshead Minnow,eats
+4940,,Heterandria formosa,,eats
+4940,109885,Poecilia latipinna,Sailfin Molly,eats
+4940,,Lucania goodei,,eats
+4940,103632,Jordanella floridae,American Flagfish,eats
+4940,,Adinia xenica,,eats
+4940,,Palaemonetes paludosus,,eats
+4940,,Belonesox belizanus,,eats
+4940,99992,Enneacanthus gloriosus,Blue-spotted Sunfish,eats
+4940,104824,Lucania parva,rainwater killifish,eats
+4940,,Teleostei,,eats
+4940,,Eleotridae,,eats
+4940,,Aplocheilidae,,eats
+4940,206834,Rhamdia guatemalensis,Pale Catfish,eats
+4940,,Cichlasoma salvini,,eats
+4940,179511,Astyanax fasciatus,Banded Astyanax,eats
+4940,,Petenia splendida,,eats
+4940,,Gambusia yucatana,,eats
+4940,,Garmanella pulchra,,eats
+4940,,Parachromis friedrichsthalii,,eats
+4940,,Cichlasoma octofasciata,,eats
+4940,,Poecilia orri,,eats
+4940,,Thorichthys meeki,,eats
+4940,179439,Xiphophorus maculatus,Southern Platyfish,eats
+4940,,Lepomis gulosus,,eats
+4940,20044,Bubo virginianus,Great Horned Owl,eatenBy
+4940,8021,Corvus brachyrhynchos,American Crow,eatenBy
+4940,19893,Strix varia,Barred Owl,eatenBy
+4940,41663,Procyon lotor,Common Raccoon,eatenBy
+4940,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4940,,Python molurus bivittatus,,eatenBy
+4940,,Elaphe obsoleta,,eatenBy
+4940,26159,Alligator mississippiensis,American Alligator,eatenBy
+4940,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+4940,8001,Corvus ossifragus,Fish Crow,eatenBy
+4940,,Caiman crocodilus,,eatenBy
+4940,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+4940,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+4940,84670,Ephydridae,Shore Flies,preysOn
+4940,47822,Diptera,Flies,preysOn
+4940,63770,Engraulis mordax,Northern Anchovy,preysOn
+4940,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4940,1303737,Blenniiformes,Blennies,preysOn
+4940,47792,Odonata,Dragonflies and Damselflies,preysOn
+4940,51221,Procambarus clarkii,Red Swamp Crayfish,preysOn
+4940,67731,Anax junius,Common Green Darner,preysOn
+4940,85552,Sauria,Lizards,preysOn
+4940,52460,Tylosurus crocodilus,Crocodile Needlefish,preysOn
+4940,,Hysterolecitha,,preysOn
+4940,209100,Gyrodactylus,,preysOn
+4940,,Portunion conformis,,preysOn
+4940,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+4940,179533,Fundulus parvipinnis,California Killifish,preysOn
+4940,63081,Hirudinea,Leeches,preysOn
+4940,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+4940,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4940,,Ephydra,,preysOn
+4940,339177,Microphallidae,,preysOn
+4940,101455,Gillichthys mirabilis,Longjaw Mudsucker,preysOn
+4940,,Uca crenulata,,preysOn
+4940,339200,Himasthla rhigedana,,preysOn
+4940,,Dilepididae,,preysOn
+4940,,trypanorynch,,preysOn
+4940,,Stictodora hancocki,,preysOn
+4940,339174,Cyathocotylidae,,preysOn
+4940,,Parorchis acanthus,,preysOn
+4940,,Picornaviridae,,preysOn
+4940,,Trichodina,,preysOn
+4940,,Cloacitrema michiganense,,preysOn
+4940,,Pygidiopsoides spindalis,,preysOn
+4940,,Mesostephanus appendiculatoides,,preysOn
+4940,,Probolocoryphe uca,,preysOn
+4940,339182,Phocitremoides ovale,,preysOn
+4940,,Carcinonemertes,,preysOn
+4940,,Nerocila californica,,preysOn
+4940,117564,Clevelandia ios,Arrow Gobi,preysOn
+4940,339176,Renicola buchanani,,preysOn
+4940,,Ergasilus auritus,,preysOn
+4940,,Eugregarinida,,preysOn
+4940,,Spirocamallanus pereirai,,preysOn
+4940,339183,Euhaplorchis californiensis,,preysOn
+4940,,Renicola cerithidicola,,preysOn
+4940,914144,Galactosomum,,preysOn
+4940,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4940,111467,Quietula y-cauda,Shadow Goby,preysOn
+4940,71234,Porichthys myriaster,Specklefin Midshipman,preysOn
+4940,,Ilypnus gilberti,,preysOn
+4940,103210,Hypsoblennius gentilis,Bay Blenny,preysOn
+4940,82326,Hypsopsetta guttulata,Diamond turbot,preysOn
+4940,81963,Girella nigricans,Opaleye,preysOn
+4940,108561,Paralichthys californicus,California Halibut,preysOn
+4940,117563,Acanthogobius flavimanus,Yellowfin Goby,preysOn
+4940,26765,Ambystoma mavortium,Barred Tiger Salamander,preysOn
+4940,68492,Hemidactylus mabouia,Tropical House Gecko,preysOn
+4940,,Penaeus setiferus,,preysOn
+4940,,Pisanianura,,preysOn
+4940,99545,Dorosoma petenense,Threadfin Shad,preysOn
+4940,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+4940,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy

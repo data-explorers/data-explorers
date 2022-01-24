@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55411,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+55411,55626,Pieris rapae,Cabbage White,eatenBy
+55411,49995,Syrphidae,Hover Flies,eatenBy
+55411,47219,Apis mellifera,Western Honey Bee,eatenBy
+55411,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+55411,48548,Vanessa cardui,Painted Lady,eatenBy
+55411,326910,Brevicoryne brassicae,Cabbage Aphid,eatenBy
+55411,637649,Tortrix capensana,,eatenBy
+55411,,Ascia monuste,,eatenBy
+55411,,Xanthorhoe fluctuata,,eatenBy
+55411,,Tatochila autodice,,eatenBy
+55411,,Pieris napi,,eatenBy
+55411,,Pieris brassicae,,eatenBy
+55411,,Megachile amparo,,eatenBy
+55411,,Bombus pauloensis,,eatenBy
+55411,497332,Bombus hortulanus,Andean Gardener Bumble Bee,eatenBy
+55411,,Thygater aethiops,,eatenBy
+55411,,Eurydema (Eurydema) oleracea,,eatenBy
+55411,,Tenthredo (Elinora) flaveola,,eatenBy
+55411,,Tenthredo (Elinora) dominiquei,,eatenBy
+55411,,Leptophobia aripa,,eatenBy
+55411,,Ceutorhynchus obstrictus,,eatenBy
+55411,,Tenthredo baetica,,eatenBy
+55411,,Athalia ancilla,,eatenBy
+55411,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+55411,55626,Pieris rapae,Cabbage White,pollinatedBy
+55411,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+55411,47220,Apis,Honey Bees,pollinatedBy
+55411,49995,Syrphidae,Hover Flies,pollinatedBy
+55411,56293,Macroglossum stellatarum,Eurasian Hummingbird Hawkmoth,pollinatedBy
+55411,,Chrysotoxum triarcuatum ,,pollinatedBy
+55411,,Anthophora alluaudi,,pollinatedBy

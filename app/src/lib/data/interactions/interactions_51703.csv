@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51703,16771,Tyrannus caudifasciatus,Loggerhead Kingbird,eatenBy
+51703,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+51703,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+51703,53211,Senecio vulgaris,common groundsel,pollinates
+51703,,Cardaria draba,,pollinates
+51703,77965,Matricaria chamomilla,German Chamomile,pollinates
+51703,,Scandix australis,,pollinates
+51703,,Chrysanthemum,,pollinates
+51703,,Reseda alba,,pollinates
+51703,,Carduus pycnocephalus,,pollinates
+51703,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy

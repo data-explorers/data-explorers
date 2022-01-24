@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+173730,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+173730,54762,Acer saccharinum,silver maple,pollinates
+173730,55748,Veronica arvensis,corn speedwell,pollinates
+173730,,http://treatment.plazi.org/id/7CF5D90BA350ADBB07186A8272DB4681,,pollinates
+173730,,Desmodium canescens,,pollinates
+173730,,Boechera dentata,,pollinates
+173730,58795,Apocynum cannabinum,hemp dogbane,pollinates

@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81528,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+81528,48548,Vanessa cardui,Painted Lady,eatenBy
+81528,58532,Colias eurytheme,Orange Sulphur,eatenBy
+81528,58531,Colias philodice,Clouded Sulphur,eatenBy
+81528,,Lycaeides melissa,,eatenBy
+81528,,Everes argiades,,eatenBy
+81528,,Anacampsis lupinella,,eatenBy
+81528,,Erynnis baptisiae,,eatenBy
+81528,,Incisalia,,eatenBy
+81528,,Erynnis persius,,eatenBy
+81528,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+81528,47208,Coleoptera,Beetles,pollinatedBy

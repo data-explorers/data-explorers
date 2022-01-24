@@ -1,0 +1,78 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+72165,174388,Chaetocnema,,eats
+72165,52756,Polistes,Umbrella Paper Wasps,eats
+72165,120489,Sarcophaga,Common Flesh Flies,eats
+72165,120156,Musca domestica,Housefly,eats
+72165,68941,Brachymyrmex,Rover Ants,eats
+72165,47219,Apis mellifera,Western Honey Bee,eats
+72165,81980,Syritta,,eats
+72165,55558,Lygaeidae,Seed Bugs,eats
+72165,326655,Stomorhina lunata,Locust Blowfly,eats
+72165,329983,Ornidia obesa,Common Green Jewel Fly,eats
+72165,,Chrysomya megacephala,,eats
+72165,,Dysauxes florida,,eats
+72165,,Lygistorrhina,,eats
+72165,,Tarundia servillei,,eats
+72165,,Fannia,,eats
+72165,,Psilopa iceryae,,eats
+72165,,Panara,,eats
+72165,1187258,Pachycerina crinicornis,,eats
+72165,,Acopsis viridicans,,eats
+72165,49133,Vanessa atalanta,Red Admiral,eatenBy
+72165,48548,Vanessa cardui,Painted Lady,eatenBy
+72165,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+72165,,Ausejanus albisignatus,,eatenBy
+72165,991446,Eupoecilia cebrana,,eatenBy
+72165,,Gypsochares,,eatenBy
+72165,,Eublemma ostrina,,eatenBy
+72165,,Eublemma minutata,,eatenBy
+72165,,Tebenna micalis,,eatenBy
+72165,,Asterivora lampadias,,eatenBy
+72165,,Vanessa kershawi,,eatenBy
+72165,,Gorilla beringei,,eatenBy
+72165,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+72165,174388,Chaetocnema,,pollinatedBy
+72165,68941,Brachymyrmex,Rover Ants,pollinatedBy
+72165,55558,Lygaeidae,Seed Bugs,pollinatedBy
+72165,81980,Syritta,,pollinatedBy
+72165,52756,Polistes,Umbrella Paper Wasps,pollinatedBy
+72165,120156,Musca domestica,Housefly,pollinatedBy
+72165,133320,Scoparia,,pollinatedBy
+72165,120114,Anthrenus,Carpet Beetles,pollinatedBy
+72165,886834,Acmaeodera,,pollinatedBy
+72165,57678,Lasioglossum,,pollinatedBy
+72165,155108,Ceratina,Small Carpenter Bees,pollinatedBy
+72165,127741,Colletes,Cellophane Bees,pollinatedBy
+72165,,Acopsis viridicans,,pollinatedBy
+72165,,Lygistorrhina,,pollinatedBy
+72165,,Tarundia servillei,,pollinatedBy
+72165,,Psilopa iceryae ,,pollinatedBy
+72165,,Pachycerina crinicornis ,,pollinatedBy
+72165,,Panara,,pollinatedBy
+72165,,Chrysomya megacephala ,,pollinatedBy
+72165,,Sarcophaga arno ,,pollinatedBy
+72165,326655,Stomorhina lunata,Locust Blowfly,pollinatedBy
+72165,,Fannia pusio ,,pollinatedBy
+72165,,http://treatment.plazi.org/id/FA02BC3CC974FFAA9516FCC14B0207BD,,pollinatedBy
+72165,,Dysauxes florida,,pollinatedBy
+72165,,Avibrissina,,pollinatedBy
+72165,,Pasiphila,,pollinatedBy
+72165,178129,Gelechia,,pollinatedBy
+72165,,Melangyna,,pollinatedBy
+72165,389305,Eudonia sabulosella,Sod webworm,pollinatedBy
+72165,,,,pollinatedBy
+72165,,Cyphon,,pollinatedBy
+72165,,Lepidomyia,,pollinatedBy
+72165,,Melangyna novaezelandiae,,pollinatedBy
+72165,,Glaucocharis,,pollinatedBy
+72165,,Exoprosopa italica,,pollinatedBy
+72165,,Plebejus argus,,pollinatedBy
+72165,,Lindenius luteiventris ,,pollinatedBy
+72165,,http://treatment.plazi.org/id/B312EE15F55EA517597481E333FDE934,,pollinatedBy
+72165,52964,Sphaerophoria scripta,Long Hover Fly,pollinatedBy
+72165,,Ells cillosa,,pollinatedBy
+72165,,Lasius niger,,pollinatedBy
+72165,,Meria tripunctata,,pollinatedBy
+72165,484489,Colletes fodiens,Hairy-saddled Cellophane Bee,pollinatedBy
+72165,,Phthiria,,pollinatedBy
+72165,,Paragus tibialis ,,pollinatedBy

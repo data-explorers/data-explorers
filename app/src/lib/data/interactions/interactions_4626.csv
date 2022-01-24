@@ -1,0 +1,88 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4626,47178,Actinopterygii,Ray-finned Fishes,eats
+4626,47158,Insecta,Insects,eats
+4626,85493,Crustacea,Crustaceans,eats
+4626,47188,Pachygrapsus crassipes,Striped Shore Crab,eats
+4626,47186,Decapoda,Decapods,eats
+4626,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4626,109631,Platichthys flesus,European Flounder,eats
+4626,94105,Anguilla anguilla,European Eel,eats
+4626,483237,Zoarces viviparus,Viviparous Blenny,eats
+4626,47639,Myoxocephalus scorpius,Shorthorn Sculpin,eats
+4626,63740,Gadus morhua,Atlantic Cod,eats
+4626,134985,Rana macrocnemis,Taurus Frog,eats
+4626,67023,Rana tavasensis,Tavas Mountain Frog,eats
+4626,66314,Pelophylax bedriagae,Levant Green Frog,eats
+4626,25660,Rana pyrenaica,Pyrenean frog,eats
+4626,,Pelophylax caralitanus,,eats
+4626,66315,Pelophylax bergeri,Italian Pool Frog,eats
+4626,66319,Pelophylax cretensis,Cretan Frog,eats
+4626,66336,Pelophylax shqipericus,Albanian Water Frog,eats
+4626,25488,Rana arvalis,Moor Frog,eats
+4626,1319812,Pelophylax perezi,Perez's and Graf's frogs,eats
+4626,,Pelophylax cerigensis,,eats
+4626,25616,Rana italica,Italian Stream Frog,eats
+4626,1319811,Pelophylax lessonae,Pool frog complex and its kleptons,eats
+4626,25664,Rana latastei,Italian Agile Frog,eats
+4626,66321,Pelophylax epeiroticus,Epirus Water Frog,eats
+4626,1319807,Pelophylax ridibundus,Marsh frog complex,eats
+4626,66327,Pelophylax kurtmuelleri,Balkan Frog,eats
+4626,25697,Rana graeca,Greek frog,eats
+4626,25591,Rana temporaria,European Common Frog,eats
+4626,25669,Rana dalmatina,Agile Frog,eats
+4626,25665,Rana iberica,Iberian Frog,eats
+4626,,Pelophylax kl. grafi,,eats
+4626,66322,Pelophylax esculentus,Edible Frog,eats
+4626,,Pelophylax kl. hispanicus,,eats
+4626,,aquatic or marine worms,,eats
+4626,53740,Libinia emarginata,Portly Spider Crab,eats
+4626,85721,Cynoglossidae,Tonguefishes,eats
+4626,61383,Homarus americanus,American Lobster,eats
+4626,1303751,Pleuronectoidei,Flatfishes,eats
+4626,,Sander vitreus vitreus,,eats
+4626,,Gnathostomata,,eats
+4626,58627,Perca flavescens,Yellow Perch,eats
+4626,,Micropterus dolomieu,,eats
+4626,8010,Corvus corax,Common Raven,eatenBy
+4626,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+4626,,Aquila clanga,,eatenBy
+4626,4657,Falco rusticolus,Gyrfalcon,eatenBy
+4626,144297,Stercorarius skua,Great Skua,eatenBy
+4626,204533,Larus argentatus,Herring Gull,eatenBy
+4626,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+4626,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4626,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4626,4389,Larus cachinnans,Caspian Gull,eatenBy
+4626,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4626,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+4626,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4626,204496,Corvus corone,Carrion Crow,eatenBy
+4626,41852,Gulo gulo,Wolverine,eatenBy
+4626,42134,Sus scrofa,Wild Boar,eatenBy
+4626,41812,Mustela putorius,Western Polecat,eatenBy
+4626,41805,Mustela lutreola,European Mink,eatenBy
+4626,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4626,,Elaphe situla,,eatenBy
+4626,39407,Varanus griseus,Desert Monitor,eatenBy
+4626,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+4626,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4626,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4626,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4626,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+4626,121639,Brachyura,True Crabs,preysOn
+4626,47233,Perciformes,Perch-like Fishes,preysOn
+4626,52523,Carcinus maenas,European Green Crab,preysOn
+4626,47783,Astacoidea,Northern Hemisphere Crayfishes,preysOn
+4626,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4626,117564,Clevelandia ios,Arrow Gobi,preysOn
+4626,101455,Gillichthys mirabilis,Longjaw Mudsucker,preysOn
+4626,179533,Fundulus parvipinnis,California Killifish,preysOn
+4626,82326,Hypsopsetta guttulata,Diamond turbot,preysOn
+4626,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4626,106222,Mugil cephalus,Sea Mullet,preysOn
+4626,111467,Quietula y-cauda,Shadow Goby,preysOn
+4626,152974,Pholis gunnellus,Rock gunnel,preysOn
+4626,85721,Cynoglossidae,Tonguefishes,preysOn
+4626,83170,Platichthys stellatus,Starry Flounder,preysOn
+4626,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+4626,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy

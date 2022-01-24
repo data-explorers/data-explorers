@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+203347,47170,Fungi,Fungi Including Lichens,eats
+203347,,Algae,,eats
+203347,,Detritus,,eats
+203347,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+203347,4263,Phalacrocorax,Typical Cormorants and Shags,preyedUponBy
+203347,47792,Odonata,Dragonflies and Damselflies,preyedUponBy
+203347,464046,Rhagovelia plumbea,,preyedUponBy
+203347,,Meioneta,,preyedUponBy
+203347,172185,Veigaia,,preyedUponBy
+203347,,Dendroica,,preyedUponBy
+203347,330174,Pentacora sphacelata,,preyedUponBy
+203347,,Arctoseius,,preyedUponBy
+203347,249420,Bdella,,preyedUponBy
+203347,29335,Natrix,,preyedUponBy
+203347,82118,Dolomedes,Fishing Spiders,preyedUponBy

@@ -1,0 +1,289 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47336,52788,Acari,Mites and Ticks,eats
+47336,49470,Collembola,Springtails,eats
+47336,47126,Plantae,plants,eats
+47336,47170,Fungi,Fungi Including Lichens,eats
+47336,55746,Misumena vatia,Goldenrod Crab Spider,eats
+47336,48548,Vanessa cardui,Painted Lady,eats
+47336,125816,Auchenorrhyncha,True Hoppers,eats
+47336,47208,Coleoptera,Beetles,eats
+47336,52381,Aphididae,Aphids,eats
+47336,53237,Cicadellidae,Typical Leafhoppers,eats
+47336,72388,Syzygium,Waterberries,eats
+47336,47628,Amphipoda,Amphipods,eats
+47336,9721,Geothlypis trichas,Common Yellowthroat,eats
+47336,82177,Hermetia illucens,Black Soldier Fly,eats
+47336,36094,Uta stansburiana,Common Side-blotched Lizard,eats
+47336,47219,Apis mellifera,Western Honey Bee,eats
+47336,133790,Chalybion californicum,Nearctic Blue Mud-dauber Wasp,eats
+47336,57665,Cotinis mutabilis,Figeater Beetle,eats
+47336,82231,Periplaneta americana,American Cockroach,eats
+47336,67737,Rhionaeschna multicolor,Blue-eyed Darner,eats
+47336,133220,Acheta domesticus,House Cricket,eats
+47336,,nectar and floral,,eats
+47336,3460,Zenaida asiatica,White-winged Dove,eats
+47336,,dead leaves,,eats
+47336,,Detritus,,eats
+47336,,Eleutherodactylus coqui,,eats
+47336,,decayed vegetation,,eats
+47336,247968,Hexatoma,,eats
+47336,,Nectar and floral,,eats
+47336,52790,Mesostigmata,Mesostigs,eats
+47336,365690,Nephrosperma van-houtteanum,,eats
+47336,366006,Roscheria melanochaetes,,eats
+47336,182097,Soulamea,,eats
+47336,,Erythroxlum sechellarum,,eats
+47336,,Craterispermum microdon,,eats
+47336,183430,Excoecaria,,eats
+47336,51600,Psychotria,wild coffees,eats
+47336,185785,Mimusops,Red Milkwoods,eats
+47336,,Canthium,,eats
+47336,122777,Cinnamomum verum,Ceylon cinnamon,eats
+47336,,Psidium cattleianum,,eats
+47336,,Campnospermum seychellarum,,eats
+47336,,Memecylon elaeagni,,eats
+47336,576512,Paragenipa,,eats
+47336,,Dillenia,,eats
+47336,365729,Phoenicophorium borsigianum,,eats
+47336,,Premna serratifolia,,eats
+47336,,Aphloia theiformis,,eats
+47336,,Ochna,,eats
+47336,,http://treatment.plazi.org/id/F2DBC15DD8BB27ECF090241B35216B1C,,eats
+47336,,Acacia tortilis,,eats
+47336,,Ebenus armitagei,,eats
+47336,,Muehlenbeckia tamnifolia,,eats
+47336,,Cormus domestica,,eats
+47336,,Litopus latipes dispar,,eats
+47336,477740,Tigrosa annexa,,eats
+47336,,Argiope aurantia,,eats
+47336,,Mangora gibberosa,,eats
+47336,68492,Hemidactylus mabouia,Tropical House Gecko,eats
+47336,,Graphocephala coccinea,,eats
+47336,,Cuculus canorus,,eats
+47336,,Streptopelia senegalensis senegalensis,,eats
+47336,,Archilochus colubris,,eats
+47336,,Acer pseudoplatanus,,eats
+47336,539765,Haldea striatula,Rough Earthsnake,eats
+47336,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+47336,17356,Vireo bellii,Bell's Vireo,eatenBy
+47336,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+47336,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+47336,47118,Araneae,Spiders,eatenBy
+47336,5562,Trochilidae,Hummingbirds,eatenBy
+47336,49556,Chilopoda,Centipedes,eatenBy
+47336,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47336,47119,Arachnida,Arachnids,eatenBy
+47336,18230,Colaptes,Flickers and Allies,eatenBy
+47336,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+47336,109633,Platybelone argalus,Keeltail Needlefish,eatenBy
+47336,147370,Naphrys pulex,flea jumping spider,eatenBy
+47336,47383,Latrodectus geometricus,Brown Widow,eatenBy
+47336,3938,Arenaria interpres,Ruddy Turnstone,eatenBy
+47336,12727,Turdus migratorius,American Robin,eatenBy
+47336,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+47336,13858,Passer domesticus,House Sparrow,eatenBy
+47336,9602,Quiscalus quiscula,Common Grackle,eatenBy
+47336,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eatenBy
+47336,12901,Catharus fuscescens,Veery,eatenBy
+47336,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+47336,12890,Catharus guttatus,Hermit Thrush,eatenBy
+47336,9721,Geothlypis trichas,Common Yellowthroat,eatenBy
+47336,10247,Setophaga ruticilla,American Redstart,eatenBy
+47336,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+47336,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47336,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+47336,4209,Podiceps auritus,Horned Grebe,eatenBy
+47336,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47336,10469,Xanthocephalus,,eatenBy
+47336,4793,Charadrius vociferus,Killdeer,eatenBy
+47336,145238,Setophaga petechia,Yellow Warbler,eatenBy
+47336,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47336,20044,Bubo virginianus,Great Horned Owl,eatenBy
+47336,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+47336,1409,Callipepla californica,California Quail,eatenBy
+47336,17355,Vireo,Vireos,eatenBy
+47336,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+47336,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47336,7562,Troglodytes aedon,House Wren,eatenBy
+47336,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+47336,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+47336,17009,Sayornis saya,Say's Phoebe,eatenBy
+47336,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+47336,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+47336,14850,Sturnus vulgaris,European Starling,eatenBy
+47336,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+47336,792976,Dryobates,Dryobates Woodpeckers,eatenBy
+47336,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+47336,18236,Colaptes auratus,Northern Flicker,eatenBy
+47336,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+47336,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+47336,144455,Ardea alba,Great Egret,eatenBy
+47336,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+47336,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+47336,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47336,9346,Icterus galbula,Baltimore Oriole,eatenBy
+47336,11867,Progne subis,Purple Martin,eatenBy
+47336,11901,Hirundo rustica,Barn Swallow,eatenBy
+47336,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+47336,8010,Corvus corax,Common Raven,eatenBy
+47336,8021,Corvus brachyrhynchos,American Crow,eatenBy
+47336,9919,Piranga ludoviciana,Western Tanager,eatenBy
+47336,14823,Sitta canadensis,Red-breasted Nuthatch,eatenBy
+47336,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+47336,19660,Regulus,Kinglets,eatenBy
+47336,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+47336,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47336,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+47336,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+47336,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+47336,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+47336,7294,Eremophila alpestris,Horned Lark,eatenBy
+47336,3894,Numenius,Curlews,eatenBy
+47336,12942,Sialia sialis,Eastern Bluebird,eatenBy
+47336,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+47336,41641,Ursus arctos,Brown Bear,eatenBy
+47336,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+47336,16842,Myiozetetes similis,Social Flycatcher,eatenBy
+47336,16833,Myiozetetes cayanensis,Rusty-margined Flycatcher,eatenBy
+47336,,Vermivora luciae,,eatenBy
+47336,,Dendroica petechia,,eatenBy
+47336,,Icteria virens,,eatenBy
+47336,114127,Thymallus thymallus,Grayling,eatenBy
+47336,,Mus sp.,,eatenBy
+47336,,American black bear,,eatenBy
+47336,,North American deermouse,,eatenBy
+47336,14984,Margarops fuscatus,Pearly-eyed Thrasher,eatenBy
+47336,36432,Anolis gingivinus,Anguilla Anole,eatenBy
+47336,36582,Anolis pogus,bearded anole,eatenBy
+47336,10019,Loxigilla noctis,Lesser Antillean Bullfinch,eatenBy
+47336,40509,Eptesicus fuscus,Big Brown Bat,eatenBy
+47336,36485,Anolis cuvieri,Cuvier's Anole,eatenBy
+47336,33730,Sphaerodactylus klauberi,Puerto Rican Upland Sphaero,eatenBy
+47336,22411,Eleutherodactylus portoricensis,Forest Coqui,eatenBy
+47336,36445,Anolis evermanni,Emerald anole,eatenBy
+47336,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+47336,,Anthracothorax viridis,,eatenBy
+47336,,Eleutherodactylus wightmanae,,eatenBy
+47336,56992,Lobularia maritima,sweet alyssum,pollinates
+47336,50931,Strymon melinus,Gray Hairstreak,pollinates
+47336,893823,Dielis plumipes,Feather-legged Scoliid Wasp,pollinates
+47336,178226,Eucryphia cordifolia,Ulmo,pollinates
+47336,,Nastanthus spathulatus,,pollinates
+47336,,Wahlenbergia fernandeziana,,pollinates
+47336,77452,Hornungia procumbens,Prostrate Hutchinsia,pollinates
+47336,,Wahlenbergia berteroi,,pollinates
+47336,,Nastanthus agglomeratus,,pollinates
+47336,,Gazania krebsiana,,pollinates
+47336,170203,Viburnum plicatum,Japanese snowball,pollinates
+47336,,Lestica clypeata,,pollinates
+47336,,Hesperia uncas,,pollinates
+47336,,Sorbus scopulina cascadensis,,pollinates
+47336,48662,Danaus plexippus,Monarch,preysOn
+47336,47219,Apis mellifera,Western Honey Bee,preysOn
+47336,81495,Libellula pulchella,Twelve-spotted Skimmer,preysOn
+47336,,Erionota torus,,preysOn
+47336,126155,Vespula germanica,German Yellowjacket,preysOn
+47336,,Magicicada septendecim,,preysOn
+47336,,Polyommatus icarus,,preysOn
+47336,,Epitheca marginata,,preysOn
+47336,320607,Sceliphron spirifex,Mud Dauber,preysOn
+47336,18230,Colaptes,Flickers and Allies,preyedUponBy
+47336,40477,Eptesicus,House Bats,preyedUponBy
+47336,41293,Tadarida,,preyedUponBy
+47336,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+47336,47586,Oecobius,Wall Spiders,preyedUponBy
+47336,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+47336,82116,Agelenopsis,Grass Spiders,preyedUponBy
+47336,129423,Zelus luridus,Pale Green Assassin Bug,preyedUponBy
+47336,486453,Colonus hesperus,,preyedUponBy
+47336,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+47336,9135,Spizella passerina,Chipping Sparrow,preyedUponBy
+47336,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+47336,147370,Naphrys pulex,flea jumping spider,preyedUponBy
+47336,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47336,153535,Phidippus princeps,Grayish Jumping Spider,preyedUponBy
+47336,82418,Cicindela punctulata,Punctured Tiger Beetle,preyedUponBy
+47336,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+47336,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+47336,,Rhinotyphlops lalandei,,preyedUponBy
+47336,,Megatyphlops schlegelii schlegelii,,preyedUponBy
+47336,,Anilios ligatus,,preyedUponBy
+47336,,Leptotyphlops incognitus,,preyedUponBy
+47336,,Megatyphlops schlegelii petersii,,preyedUponBy
+47336,,Leptotyphlops scutifrons,,preyedUponBy
+47336,,Afrotyphlops mucruso,,preyedUponBy
+47336,539291,Anilios nigrescens,Blackish Blind Snake,preyedUponBy
+47336,,Anilios hamatus,,preyedUponBy
+47336,,Anilios wiedii,,preyedUponBy
+47336,,Anilios proximus,,preyedUponBy
+47336,,Afrotyphlops fornasinii,,preyedUponBy
+47336,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+47336,32696,Afrotyphlops bibronii,Bibron's Blind Snake,preyedUponBy
+47336,,Afrotyphlops obtusus,,preyedUponBy
+47336,,Anilios pinguis,,preyedUponBy
+47336,539303,Anilios waitii,Beaked Blind Snake,preyedUponBy
+47336,539265,Anilios australis,Southern Blind Snake,preyedUponBy
+47336,,Anilios polygrammicus,,preyedUponBy
+47336,32512,Rena dulcis,Texas Blind Snake,preyedUponBy
+47336,,Anilios bituberculatus,,preyedUponBy
+47336,30293,Eirenis modestus,Ring-Headed Dwarf Snake,preyedUponBy
+47336,,Afrotyphlops punctatus,,preyedUponBy
+47336,,Helminthophis frontalis,,preyedUponBy
+47336,,Liotyphlops beui,,preyedUponBy
+47336,,Argyrophis diardii,,preyedUponBy
+47336,,Ramphotyphlops braminus,,preyedUponBy
+47336,68077,Salvelinus malma,Dolly Varden Trout,preyedUponBy
+47336,,Neivamyrmex pilosus,,preyedUponBy
+47336,,Eciton lucanoides,,preyedUponBy
+47336,,Eciton,,preyedUponBy
+47336,,Eciton hamatum,,preyedUponBy
+47336,,Neivamyrmex gibbatus,,preyedUponBy
+47336,,Eciton mexicanum,,preyedUponBy
+47336,,Hypoponera foreli,,preyedUponBy
+47336,300419,Eciton vagans,,preyedUponBy
+47336,,Eciton dulcium,,preyedUponBy
+47336,,Nomamyrmex esenbeckii,,preyedUponBy
+47336,2464,Todiramphus sanctus,Sacred Kingfisher,preyedUponBy
+47336,,Carlia schmeltzii,,preyedUponBy
+47336,,Crinia deserticola,,preyedUponBy
+47336,,Centrops phasianus,,preyedUponBy
+47336,,Uperoleia mimula,,preyedUponBy
+47336,66479,Platyplectrum ornatum,Ornate Burrowing Frog,preyedUponBy
+47336,,Carlia pectoralis,,preyedUponBy
+47336,,Ctenotus taeniolatus,,preyedUponBy
+47336,23643,Litoria inermis,Bumpy Rocket Frog,preyedUponBy
+47336,,Dicrurus bracteatus,,preyedUponBy
+47336,37157,Cryptoblepharus virgatus,Cream-striped Shining-skink,preyedUponBy
+47336,,Carlia jarnoldae,,preyedUponBy
+47336,,Carlia munda,,preyedUponBy
+47336,31215,Chlamydosaurus kingii,Frilled Lizard,preyedUponBy
+47336,4925,Burhinus grallarius,Bush Stone-curlew,preyedUponBy
+47336,,Bufo marinus,,preyedUponBy
+47336,,Litoria gracilenta,,preyedUponBy
+47336,,Uperoleia lithomoda,,preyedUponBy
+47336,2417,Dacelo leachii,Blue-winged Kookaburra,preyedUponBy
+47336,,Tachyglossus aculeatus,,preyedUponBy
+47336,,Cryptoblepharus plagiocephalus,,preyedUponBy
+47336,,Litoria caerulea,,preyedUponBy
+47336,37456,Tiliqua scincoides,Common Blue-tongued Skink,preyedUponBy
+47336,,Litoria fallax,,preyedUponBy
+47336,,Morethia taeniopleura,,preyedUponBy
+47336,2413,Dacelo novaeguineae,Laughing Kookaburra,preyedUponBy
+47336,,Litoria alboguttata,,preyedUponBy
+47336,,Litoria novaehollandiae,,preyedUponBy
+47336,,Litoria brevipes,,preyedUponBy
+47336,,Litoria rubella,,preyedUponBy
+47336,14505,Chlamydera nuchalis,Great Bowerbird,preyedUponBy
+47336,2441,Todiramphus,Australo-Pacific Kingfishers,preyedUponBy
+47336,,Systellonotus triguttatus,,preyedUponBy
+47336,,Megaderma lyra,,preyedUponBy
+47336,41277,Eumops perotis,Western Bonneted Bat,preyedUponBy
+47336,40349,Myotis leibii,Eastern Small-footed Myotis,preyedUponBy
+47336,,Mystacina tuberculata,,preyedUponBy
+47336,,Myotis dasycneme,,preyedUponBy
+47336,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+47336,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+47336,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+47336,765528,Hypsugo savii,Savi's Pipistrelle,preyedUponBy
+47336,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+47336,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy

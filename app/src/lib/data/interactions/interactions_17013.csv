@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+17013,47118,Araneae,Spiders,eats
+17013,47124,Magnoliopsida,dicots,eats
+17013,47822,Diptera,Flies,eats
+17013,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+17013,47792,Odonata,Dragonflies and Damselflies,eats
+17013,47208,Coleoptera,Beetles,eats
+17013,47157,Lepidoptera,Butterflies and Moths,eats
+17013,61267,Heteroptera,True Bugs,eats
+17013,81769,Blattodea,Cockroaches and Termites,eats
+17013,85586,Anthicidae,Ant-like Flower Beetles,eats
+17013,132021,Philonthus,,eats
+17013,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+17013,48987,Hippodamia convergens,Convergent Lady Beetle,eats
+17013,133623,Tropisternus,,eats
+17013,47544,Rubus,brambles,eats
+17013,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+17013,128712,Coccinella californica,California Lady Beetle,eats
+17013,173324,Blapstinus,,eats
+17013,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+17013,47688,Erodium,stork's-bills,eats
+17013,55488,Diabrotica,,eats
+17013,47158,Insecta,Insects,eats
+17013,53387,Cornus sericea,red osier dogwood,eats
+17013,47193,Cornus,dogwoods,eats
+17013,47120,Arthropoda,Arthropods,eats
+17013,52689,Sambucus,elders,eats
+17013,50786,Vanessa annabella,West Coast Lady,eats
+17013,184884,Pterygota,Winged and Once-winged Insects,eats
+17013,47793,Dermaptera,Earwigs,eats
+17013,308726,Anthophora californica,California Digger Bee,eats
+17013,60417,Nephrotoma,Tiger Crane Flies,eats
+17013,69758,Lumbricidae,Earthworms,eats
+17013,48111,Mantidae,Mantids,eats
+17013,47927,Anisoptera,Dragonflies,eats
+17013,61998,Steatoda,False Widow Spiders,eats
+17013,48548,Vanessa cardui,Painted Lady,eats
+17013,47794,Raphidioptera,Snakeflies,eats
+17013,179916,Tipulomorpha,Crane Flies,eats
+17013,82116,Agelenopsis,Grass Spiders,eats
+17013,48507,Vanessa,Ladies and Related Admirals,eats
+17013,121183,Mythimna unipuncta,White-speck Moth,eats
+17013,55626,Pieris rapae,Cabbage White,eats
+17013,67560,Adelpha californica,California Sister,eats
+17013,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eats
+17013,68138,Sympetrum corruptum,Variegated Meadowhawk,eats
+17013,,Planolinus tenellus,,eats
+17013,,Saprinus,,eats
+17013,69766,Gastrophysa,,eats
+17013,,Calamosternus granarius,,eats
+17013,,Saprinus lugens,,eats
+17013,,Lichnanthe ursina,,eats
+17013,,Geomysaprinus obscurus,,eats
+17013,,Carpophilus hemipterus,,eats
+17013,,Canthon,,eats
+17013,,Aphodius fimetarius,,eats
+17013,,Elaphrus riparius,,eats
+17013,635568,Notoxus lustrellus,,eats
+17013,,Onthophagus,,eats
+17013,214554,Atholus bimaculatus,,eats
+17013,,Chrysomela scripta,,eats
+17013,,Lapsus tristis,,eats
+17013,,Hippodamia quinquesignata,,eats
+17013,,Cryptorhopalum apicale,,eats
+17013,,Chilocorus orbus,,eats
+17013,,Laccobius ellipticus,,eats
+17013,213160,Amara longula,,eats
+17013,,Bradycellus rupestris,,eats
+17013,,Xerosaprinus fimbriatus,,eats
+17013,765394,Sambucus nigra,European black elderberry,eats
+17013,,Aphodius,,eats
+17013,,Brahea,,eats
+17013,,Agrotis ipsilon,,eats
+17013,,Agraulis vanillae,,eats
+17013,61356,Vespula,Ground Yellowjackets,preysOn
+17013,50786,Vanessa annabella,West Coast Lady,preysOn
+17013,47158,Insecta,Insects,preysOn
+17013,68138,Sympetrum corruptum,Variegated Meadowhawk,preysOn
+17013,67737,Rhionaeschna multicolor,Blue-eyed Darner,preysOn
+17013,47208,Coleoptera,Beetles,preysOn
+17013,47118,Araneae,Spiders,preysOn
+17013,121612,Estigmene acrea,Salt Marsh Moth,preysOn
+17013,56557,Notonecta,Milky Backswimmers,preysOn
+17013,96036,Brechmorhoga mendax,Pale-faced Clubskimmer,preysOn

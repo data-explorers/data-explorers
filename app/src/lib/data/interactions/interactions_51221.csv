@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51221,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+51221,,Pelophylax,,eats
+51221,326296,Bufo bufo,European Toad,eats
+51221,25616,Rana italica,Italian Stream Frog,eats
+51221,,Detritus,,eats
+51221,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+51221,2548,Megaceryle alcyon,Belted Kingfisher,eatenBy
+51221,41777,Lontra canadensis,North American River Otter,eatenBy
+51221,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+51221,4956,Ardea herodias,Great Blue Heron,eatenBy
+51221,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eatenBy
+51221,41663,Procyon lotor,Common Raccoon,eatenBy
+51221,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+51221,4940,Egretta thula,Snowy Egret,eatenBy
+51221,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+51221,144455,Ardea alba,Great Egret,eatenBy
+51221,1264432,Neogale vison,American Mink,eatenBy
+51221,51221,Procambarus clarkii,Red Swamp Crayfish,eatenBy
+51221,55387,Esox lucius,Northern Pike,eatenBy
+51221,41850,Lutra lutra,Eurasian Otter,eatenBy
+51221,,Fulica atra,,eatenBy
+51221,4208,Podiceps cristatus,Great Crested Grebe,eatenBy
+51221,,Tinca tinca,,eatenBy
+51221,3739,Threskiornis aethiopicus,African Sacred Ibis,eatenBy
+51221,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+51221,5017,Bubulcus ibis,Cattle Egret,eatenBy
+51221,49587,Micropterus salmoides,Largemouth Bass,preyedUponBy
+51221,2548,Megaceryle alcyon,Belted Kingfisher,preyedUponBy
+51221,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,preyedUponBy
+51221,4940,Egretta thula,Snowy Egret,preyedUponBy
+51221,7109,Lophodytes cucullatus,Hooded Merganser,preyedUponBy
+51221,55387,Esox lucius,Northern Pike,preyedUponBy
+51221,29327,Nerodia cyclopion,Mississippi Green Watersnake,preyedUponBy
+51221,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+51221,4937,Egretta caerulea,Little Blue Heron,preyedUponBy
+51221,4943,Egretta garzetta,Little Egret,preyedUponBy
+51221,,Tinca tinca,,preyedUponBy

@@ -1,0 +1,101 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+78755,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+78755,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+78755,199404,Ceratitis capitata,Mediterranean Fruit Fly,eatenBy
+78755,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+78755,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+78755,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+78755,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+78755,119340,Amphipyra pyramidoides,American Copper Underwing,eatenBy
+78755,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+78755,199939,Apinae,Apine Bees,eatenBy
+78755,47219,Apis mellifera,Western Honey Bee,eatenBy
+78755,48473,Ganoderma applanatum,artist's bracket,eatenBy
+78755,13858,Passer domesticus,House Sparrow,eatenBy
+78755,6317,Calypte anna,Anna's Hummingbird,eatenBy
+78755,57665,Cotinis mutabilis,Figeater Beetle,eatenBy
+78755,46020,Sciurus niger,Fox Squirrel,eatenBy
+78755,,Calyptra eustrigata,,eatenBy
+78755,,Calyptra pseudobicolor,,eatenBy
+78755,,Calyptra fasciata,,eatenBy
+78755,,Calyptra bicolor,,eatenBy
+78755,,Calyptra ophideroides,,eatenBy
+78755,208104,Calyptra minuticornis,,eatenBy
+78755,,Grapholita molesta,,eatenBy
+78755,,Cydia pomonella,,eatenBy
+78755,,Anomis argillacea,,eatenBy
+78755,243760,Frankliniella occidentalis,Western Flower Thrips,eatenBy
+78755,,Boisea trivittata,,eatenBy
+78755,,Maladera castanea,,eatenBy
+78755,,Archips argyrospila,,eatenBy
+78755,,Phalera bucephala,,eatenBy
+78755,,Myzus persicae,,eatenBy
+78755,,Panonychus ulmi,,eatenBy
+78755,,Grapholita funebrana,,eatenBy
+78755,335848,Erannis defoliaria,Mottled Umber,eatenBy
+78755,,Taeniothrips inconsequens,,eatenBy
+78755,143343,Hyalopterus pruni,Mealy Plum Aphid,eatenBy
+78755,716067,Pseudaulacaspis pentagona,,eatenBy
+78755,,Lygus lineolaris,,eatenBy
+78755,,Conotrachelus nenuphar,,eatenBy
+78755,,Brachycaudus amygdalinus,,eatenBy
+78755,386969,Caliroa cerasi,Cherry Slug Sawfly,eatenBy
+78755,,Aspidiotus destructor,,eatenBy
+78755,,Clepsis persicana,,eatenBy
+78755,321981,Pandemis heparana,Dark Fruit-tree Tortrix,eatenBy
+78755,,Platynota flavedana,,eatenBy
+78755,499055,Choristoneura longicellana,,eatenBy
+78755,,Argyresthia albistria,,eatenBy
+78755,,Homona magnanima,,eatenBy
+78755,,Argyrotaenia citrana,,eatenBy
+78755,,Acleris minuta,,eatenBy
+78755,472754,Archips fuscocupreanus,,eatenBy
+78755,,Thaumatotibia leucotreta,,eatenBy
+78755,499054,Spilonota albicana,,eatenBy
+78755,,Choristoneura diversana,,eatenBy
+78755,,Spilonota ocellana,,eatenBy
+78755,,Archips termias,,eatenBy
+78755,,Synanthedon exitiosa,,eatenBy
+78755,,Rothschildia lebeau,,eatenBy
+78755,,Enarmonia formosana,,eatenBy
+78755,232121,Synanthedon pictipes,Lesser Peachtree Borer Moth,eatenBy
+78755,,Archips rosana,,eatenBy
+78755,491468,Rothschildia hesperus,,eatenBy
+78755,,Rothschildia aurota,,eatenBy
+78755,,Callosamia promethea,,eatenBy
+78755,,Automeris aurantiaca,,eatenBy
+78755,,Moodna ostrinella,,eatenBy
+78755,,Citheronia brissotii,,eatenBy
+78755,,Oiketicus,,eatenBy
+78755,,Thyridopteryx ephemeraeformis,,eatenBy
+78755,,Acrobasis indigenella,,eatenBy
+78755,,Papilio troilus,,eatenBy
+78755,,Euzophera bigella,,eatenBy
+78755,,Amyelois transitella,,eatenBy
+78755,,Kallima inachus,,eatenBy
+78755,,Promalactis,,eatenBy
+78755,123611,Promalactis suzukiella,Suzuki's Promalactis Moth,eatenBy
+78755,,Stathmopoda,,eatenBy
+78755,,Gonionota melobaphes,,eatenBy
+78755,,Datana ministra,,eatenBy
+78755,,Lagoptera juno,,eatenBy
+78755,,Serrodes partita,,eatenBy
+78755,,Dysgonia algira,,eatenBy
+78755,,Oraesia excavata,,eatenBy
+78755,,Agrochola bicolorago,,eatenBy
+78755,,Spodoptera frugiperda,,eatenBy
+78755,,Diloba caeruleocephala,,eatenBy
+78755,,Euproctis chrysorrhoea,,eatenBy
+78755,,Eudocima,,eatenBy
+78755,,Chamyris cerintha,,eatenBy
+78755,129428,Acronicta oblinita,Smeared Dagger,eatenBy
+78755,,Megalopyge urens,,eatenBy
+78755,,Acronicta tridens,,eatenBy
+78755,,Achaea lienardi,,eatenBy
+78755,,Acronicta longa,,eatenBy
+78755,,Pachypasa capensis,,eatenBy
+78755,,Operophtera brumata,,eatenBy
+78755,,Alsophila pometaria,,eatenBy
+78755,,Recurvaria nanella,,eatenBy
+78755,220103,Filatima persicaeella,,eatenBy
+78755,,Anarsia lineatella,,eatenBy

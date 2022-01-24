@@ -1,0 +1,136 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53911,47120,Arthropoda,Arthropods,eats
+53911,47126,Plantae,plants,eats
+53911,85493,Crustacea,Crustaceans,eats
+53911,47115,Mollusca,Molluscs,eats
+53911,47158,Insecta,Insects,eats
+53911,154259,Nematocera,Nematoceran Flies,eats
+53911,129409,Chironomus,,eats
+53911,1,Animalia,Animals,eats
+53911,47124,Magnoliopsida,dicots,eats
+53911,62164,Trichoptera,Caddisflies,eats
+53911,126917,Rotifera,Rotifers,eats
+53911,53275,Chironomidae,Non-biting Midges,eats
+53911,54960,Nematoda,Nematodes,eats
+53911,47822,Diptera,Flies,eats
+53911,47491,Annelida,Segmented Worms,eats
+53911,333586,Oligochaeta,Earthworms and allies,eats
+53911,47114,Gastropoda,Gastropods,eats
+53911,121643,Copepoda,Copepods,eats
+53911,48147,Isopoda,Isopods,eats
+53911,68138,Sympetrum corruptum,Variegated Meadowhawk,eats
+53911,47927,Anisoptera,Dragonflies,eats
+53911,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+53911,47628,Amphipoda,Amphipods,eats
+53911,,Pisces,,eats
+53911,,Cephalaspidomorphi,,eats
+53911,,,,eats
+53911,,Physella acuta,,eats
+53911,247741,Procladius,,eats
+53911,,Pisidium,,eats
+53911,,Prymnesiophyceae,,eats
+53911,,Candona,,eats
+53911,129900,Chaoborus flavicans,,eats
+53911,,Echinogammarus,,eats
+53911,,Alona affinis,,eats
+53911,,Detritus,,eats
+53911,,Gnathostomata,,eats
+53911,171262,Bosmina,,eats
+53911,,Tubifex,,eats
+53911,,Nais,,eats
+53911,,Telmatogetoninae,,eats
+53911,,Stylaria,,eats
+53911,244267,Cyclops,,eats
+53911,,Varia,,eats
+53911,,Dreissena,,eats
+53911,92157,Sphaerium,,eats
+53911,,Phytoplankton,,eats
+53911,,plank. invertebrates,,eats
+53911,,debris,,eats
+53911,,macroinvertebrates,,eats
+53911,,Zooplankton,,eats
+53911,,Algae,,eats
+53911,,Gammaridea,,eats
+53911,116340,Dreissena polymorpha,Zebra Mussel,eats
+53911,64637,Corophium,,eats
+53911,,Chelicorophium curvispinum,,eats
+53911,,macrophyte,,eats
+53911,,Osteichthyes,,eats
+53911,,blackfly,,eats
+53911,,other benth. Invertebratess,,eats
+53911,43584,Homo sapiens,Human,eatenBy
+53911,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+53911,4956,Ardea herodias,Great Blue Heron,eatenBy
+53911,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+53911,116999,Pandion haliaetus,Osprey,eatenBy
+53911,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+53911,73592,Actinemys marmorata,Western Pond Turtle,eatenBy
+53911,4209,Podiceps auritus,Horned Grebe,eatenBy
+53911,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+53911,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+53911,20044,Bubo virginianus,Great Horned Owl,eatenBy
+53911,4334,Pelecanus erythrorhynchos,American White Pelican,eatenBy
+53911,8010,Corvus corax,Common Raven,eatenBy
+53911,,Esox masquinongy,,eatenBy
+53911,55387,Esox lucius,Northern Pike,eatenBy
+53911,64346,Natrix tessellata,Tessellated Water Snake,eatenBy
+53911,104980,Maccullochella peelii,Murray Cod,eatenBy
+53911,102975,Huso huso,Beluga,eatenBy
+53911,,Amia calva,,eatenBy
+53911,106195,Morone chrysops,White Bass,eatenBy
+53911,,Silurus soldatovi,,eatenBy
+53911,519,Porphyrio martinica,Purple Gallinule,eatenBy
+53911,201282,Gallinula chloropus,Common Moorhen,eatenBy
+53911,,Fulica americana columbiana,,eatenBy
+53911,41850,Lutra lutra,Eurasian Otter,eatenBy
+53911,,Phytoplankton,,eatenBy
+53911,,Detritus,,eatenBy
+53911,368294,Leiopotherapon unicolor,Spangled Perch,eatenBy
+53911,,Siniperca chuatsi,,eatenBy
+53911,,Petromyzon marinus,,eatenBy
+53911,,Esox,,eatenBy
+53911,,Tachysurus fulvidraco,,eatenBy
+53911,112581,Silurus glanis,Wels Catfish,eatenBy
+53911,51392,Morone saxatilis,Striped Bass,eatenBy
+53911,,Circus approximans,,eatenBy
+53911,204533,Larus argentatus,Herring Gull,eatenBy
+53911,126619,Pandion haliaetus carolinensis,North American Osprey,eatenBy
+53911,,Pelecanus conspicillatus,,eatenBy
+53911,3739,Threskiornis aethiopicus,African Sacred Ibis,eatenBy
+53911,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+53911,5017,Bubulcus ibis,Cattle Egret,eatenBy
+53911,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+53911,,Podiceps grisegena,,eatenBy
+53911,4327,Pelecanus onocrotalus,Great White Pelican,eatenBy
+53911,4943,Egretta garzetta,Little Egret,eatenBy
+53911,53911,Cyprinus carpio,European Carp,preysOn
+53911,,Physella acuta,,preysOn
+53911,,Fish-eating birds,,preysOn
+53911,104519,Leucaspius delineatus,Sunbleak,preysOn
+53911,1,Animalia,Animals,preyedUponBy
+53911,49587,Micropterus salmoides,Largemouth Bass,preyedUponBy
+53911,116999,Pandion haliaetus,Osprey,preyedUponBy
+53911,53911,Cyprinus carpio,European Carp,preyedUponBy
+53911,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+53911,64346,Natrix tessellata,Tessellated Water Snake,preyedUponBy
+53911,144129,Cephalocarida,Horseshoe Shrimps,preyedUponBy
+53911,,Wallago attu,,preyedUponBy
+53911,47353,Lates calcarifer,Barramundi,preyedUponBy
+53911,,Chitala chitala,,preyedUponBy
+53911,97280,Channa striata,Striped Snakehead,preyedUponBy
+53911,,Sperata seenghala,,preyedUponBy
+53911,81554,Ictalurus punctatus,Channel Catfish,preyedUponBy
+53911,47516,Oncorhynchus mykiss,Rainbow Trout,preyedUponBy
+53911,,Siniperca chuatsi,,preyedUponBy
+53911,,Petromyzon marinus,,preyedUponBy
+53911,,no name,,preyedUponBy
+53911,,Ptychocheilus oregonensis,,preyedUponBy
+53911,,Amia calva,,preyedUponBy
+53911,94609,Argyrosomus hololepidotus,Madagascar Meagre,preyedUponBy
+53911,104980,Maccullochella peelii,Murray Cod,preyedUponBy
+53911,109062,Perca fluviatilis,European Perch,preyedUponBy
+53911,513703,Macquaria ambigua,Golden Perch,preyedUponBy
+53911,112581,Silurus glanis,Wels Catfish,preyedUponBy
+53911,55387,Esox lucius,Northern Pike,preyedUponBy
+53911,51392,Morone saxatilis,Striped Bass,preyedUponBy
+53911,126619,Pandion haliaetus carolinensis,North American Osprey,preyedUponBy

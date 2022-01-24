@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+133824,47561,Pinus,pines,eats
+133824,47452,Acacia,wattles,eats
+133824,51815,Eucalyptus,eucalyptus,eats
+133824,,Allocasuarina verticillata,,eats
+133824,,Thryptomene,,eats
+133824,60335,Rhizophora mangle,red mangrove,eats
+133824,,phloem (Pinus spp.),,eats
+133824,17355,Vireo,Vireos,eatenBy
+133824,,Temnochila virescens,,eatenBy
+133824,,Orussus,,eatenBy
+133824,16102,Contopus latirostris,Lesser Antillean Pewee,eatenBy
+133824,9609,Quiscalus niger,Greater Antillean Grackle,eatenBy
+133824,,Vireo flavifrons,,eatenBy
+133824,17394,Vireo gilvus,Warbling Vireo,eatenBy
+133824,16071,Myiodynastes luteiventris,Sulphur-bellied Flycatcher,eatenBy
+133824,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+133824,307026,Labidura riparia,Shore Earwig,preyedUponBy
+133824,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+133824,82081,Theridion,Tangleweb Spiders,preyedUponBy
+133824,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+133824,250072,Metacyrba,,preyedUponBy
+133824,121467,Uloborus,Feather-legged Spiders,preyedUponBy
+133824,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+133824,,Dendroica,,preyedUponBy
+133824,,Tyrannochelifer,,preyedUponBy
+133824,49541,Gasteracantha,Spiny Orbweavers,preyedUponBy
+133824,354274,Ballus,,preyedUponBy
+133824,,Scleroderma macrogaster,,preyedUponBy
+133824,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+133824,,Nephila clavipes,,preyedUponBy
+133824,84495,Paraphidippus,,preyedUponBy
+133824,266087,Pachodynerus nasidens,Keyhole Wasp,preyedUponBy
+133824,420613,Stoidis,,preyedUponBy
+133824,263718,Argyrodes nephilae,,preyedUponBy
+133824,,Temnochila virescens,,preyedUponBy

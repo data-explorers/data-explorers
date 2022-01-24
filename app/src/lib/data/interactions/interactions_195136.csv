@@ -1,0 +1,144 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+195136,121643,Copepoda,Copepods,eats
+195136,129725,Appendicularia,Pelagic Tunicates,eats
+195136,118996,Ciliophora,Ciliates,eats
+195136,123862,Chaetoceros,,eats
+195136,195136,Euphausia,,eats
+195136,51104,Thaliacea,Thaliaceans,eats
+195136,151827,Chaetognatha,Arrow Worms,eats
+195136,68764,Ostracoda,Seed Shrimp,eats
+195136,318459,Pennales,Pennate diatoms,eats
+195136,152275,Thalassiosirales,,eats
+195136,47126,Plantae,plants,eats
+195136,195081,Acartia,,eats
+195136,,Phytoplankton,,eats
+195136,201781,Calanus,,eats
+195136,,Detritus,,eats
+195136,340479,Radiolaria,,eats
+195136,,Prymnesiophyceae,,eats
+195136,203808,Navicula,,eats
+195136,203470,Oithona,,eats
+195136,180343,Metridinidae,,eats
+195136,,Detritus complex,,eats
+195136,200862,Bacillariaceae,,eats
+195136,123865,Coscinodiscus,,eats
+195136,203396,Centropages,,eats
+195136,201747,Clausocalanidae,,eats
+195136,,Foraminiferida,,eats
+195136,,Tintinnina,,eats
+195136,152530,Laboulbeniales,,eats
+195136,151827,Chaetognatha,Arrow Worms,eatenBy
+195136,41547,Balaenoptera,,eatenBy
+195136,48921,Hydrozoa,Hydrozoans,eatenBy
+195136,4063,Oceanodroma,,eatenBy
+195136,4531,Brachyramphus marmoratus,Marbled Murrelet,eatenBy
+195136,4424,Sterna,Typical Terns,eatenBy
+195136,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+195136,4561,Synthliboramphus antiquus,Ancient Murrelet,eatenBy
+195136,41728,Mirounga angustirostris,Northern Elephant Seal,eatenBy
+195136,4519,Uria aalge,Common Murre,eatenBy
+195136,195136,Euphausia,,eatenBy
+195136,41566,Megaptera novaeangliae,Humpback Whale,eatenBy
+195136,4130,Pelecanoides urinatrix,Common Diving-Petrel,eatenBy
+195136,187047,Allothunnus fallai,Slender tuna,eatenBy
+195136,,Medusozoa,,eatenBy
+195136,63740,Gadus morhua,Atlantic Cod,eatenBy
+195136,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+195136,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+195136,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+195136,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+195136,228496,Pollachius virens,Pollock,eatenBy
+195136,,Trigla lucerna,,eatenBy
+195136,48397,Raja clavata,Thornback Skate,eatenBy
+195136,48402,Amblyraja radiata,Thorny Skate,eatenBy
+195136,111527,Raja montagui,Spotted Skate,eatenBy
+195136,118601,Trisopterus luscus,Pouting,eatenBy
+195136,,Aspitrigla cuculus,,eatenBy
+195136,,Trisopterus minutus,,eatenBy
+195136,430553,Merlangius merlangus,Whiting,eatenBy
+195136,,P. bolini,,eatenBy
+195136,,S. gazellae (30-60mm),,eatenBy
+195136,,S. gazellae (60-90mm),,eatenBy
+195136,617786,Gymnoscopelus braueri,,eatenBy
+195136,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+195136,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+195136,103965,Lampadena pontifex,,eatenBy
+195136,617783,Electrona antarctica,,eatenBy
+195136,317181,Lampanyctus alatus,Winged Lanternfish,eatenBy
+195136,617785,Gymnoscopelus bolini,,eatenBy
+195136,459369,Diaphus taaningi,,eatenBy
+195136,530452,Protomyctophum normani,Norman's Lanternfish,eatenBy
+195136,530457,Symbolophorus boops,Spotfin Lanternfish,eatenBy
+195136,530440,Hygophum hanseni,Hansen's Lanternfish,eatenBy
+195136,1316623,Pleuragramma antarcticum,,eatenBy
+195136,68075,Oncorhynchus clarkii,Cutthroat Trout,eatenBy
+195136,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+195136,95500,Bathyraja interrupta,Sandpaper Skate,eatenBy
+195136,104926,Lyopsetta exilis,Slender Sole,eatenBy
+195136,212924,Albatrossia pectoralis,Giant Grenadier,eatenBy
+195136,64450,Sebastes alutus,Pacific Ocean Perch,eatenBy
+195136,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+195136,232317,Tarletonbeania crenularis,Blue Lanternfish,eatenBy
+195136,53692,Oncorhynchus kisutch,Coho Salmon,eatenBy
+195136,85888,Melamphaidae,Bigscales,eatenBy
+195136,64465,Sebastes pinniger,Canary Rockfish,eatenBy
+195136,228388,Pleurogrammus monopterygius,Atka Mackerel,eatenBy
+195136,223674,Limanda aspera,Yellowfin Sole,eatenBy
+195136,63386,Sebastes maliger,Quillback Rockfish,eatenBy
+195136,699271,Anisakis,,eatenBy
+195136,92581,Trachipterus,,eatenBy
+195136,47760,Sebastes melanops,Black rockfish,eatenBy
+195136,64448,Sebastes diploproa,Splitnose Rockfish,eatenBy
+195136,64462,Sebastes crameri,Darkblotched Rockfish,eatenBy
+195136,68597,Sebastes caurinus,copper rockfish,eatenBy
+195136,230755,Sebastes elongatus,Greenstriped Rockfish,eatenBy
+195136,103967,Lampanyctus jordani,Brokenline Lanternfish,eatenBy
+195136,,Moroteuthis,,eatenBy
+195136,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+195136,994568,Thalassomyces,,eatenBy
+195136,231540,Stenobrachius leucopsarus,Northern Lampfish,eatenBy
+195136,117571,Clupea pallasii,Pacific herring,eatenBy
+195136,4547,Ptychoramphus aleuticus,Cassin's Auklet,eatenBy
+195136,86082,Stomiidae,Barbeled Dragonfishes,eatenBy
+195136,91362,Protomyctophum,,eatenBy
+195136,64464,Sebastes jordani,Shortbelly Rockfish,eatenBy
+195136,,Puffinus tenuirostris,,eatenBy
+195136,93644,Alepisaurus ferox,Longnose Lancetfish,eatenBy
+195136,51353,Anoplopoma fimbria,Sablefish,eatenBy
+195136,47642,Hemitripterus,,eatenBy
+195136,49243,Alosa sapidissima,American shad,eatenBy
+195136,91981,Sebastolobus,,eatenBy
+195136,107572,Oncorhynchus keta,Chum Salmon,eatenBy
+195136,64477,Sebastes flavidus,Yellowtail Rockfish,eatenBy
+195136,372878,Hyperiidea,,eatenBy
+195136,47710,Pandalidae,,eatenBy
+195136,69922,Oncorhynchus nerka,Sockeye Salmon,eatenBy
+195136,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+195136,,Reinhardtius stomias,,eatenBy
+195136,92219,Stenobrachius,,eatenBy
+195136,230764,Sebastes zacentrus,Sharpchin Rockfish,eatenBy
+195136,107570,Oncorhynchus gorbuscha,Pink Salmon,eatenBy
+195136,,Theragra chalcogramma,,eatenBy
+195136,432389,Berryteuthis anonychus,Smallfin Armhook Squid,eatenBy
+195136,230756,Sebastes helvomaculatus,Rosethorn Rockfish,eatenBy
+195136,223181,Lepidopsetta polyxystra,Northern Rock Sole,eatenBy
+195136,89654,Lycodapus,,eatenBy
+195136,964671,Contracaecum,,eatenBy
+195136,223605,Leuroglossus schmidti,Northern Smoothtongue,eatenBy
+195136,4494,Rissa tridactyla,Black-legged Kittiwake,eatenBy
+195136,117523,Sebastes wilsoni,Pygmy Rockfish,eatenBy
+195136,4561,Synthliboramphus antiquus,Ancient Murrelet,preyedUponBy
+195136,41728,Mirounga angustirostris,Northern Elephant Seal,preyedUponBy
+195136,,Theragra chalcogramma,,preyedUponBy
+195136,115167,Xiphias gladius,Swordfish,preyedUponBy
+195136,107572,Oncorhynchus keta,Chum Salmon,preyedUponBy
+195136,52539,Ophiodon elongatus,Lingcod,preyedUponBy
+195136,229295,Psychrolutes sigalutes,Soft Sculpin,preyedUponBy
+195136,51881,Rhamphocottus richardsonii,Grunt Sculpin,preyedUponBy
+195136,610070,Chionodraco rastrospinosus,Ocellated icefish,preyedUponBy
+195136,1316623,Pleuragramma antarcticum,,preyedUponBy
+195136,,Zeus faber,,preyedUponBy
+195136,51353,Anoplopoma fimbria,Sablefish,preyedUponBy
+195136,105599,Merluccius productus,Pacific Hake,preyedUponBy
+195136,144502,Chroicocephalus philadelphia,Bonaparte's Gull,preyedUponBy
+195136,,P. bolini,,preyedUponBy

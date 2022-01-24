@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82095,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+82095,198856,Bombus auricomus,Black-and-gold Bumble Bee,eatenBy
+82095,,Sirexcipula kabatiana,,eatenBy
+82095,,Xylocopa virginica,,eatenBy
+82095,359320,Bombus diversus,Diverse Bumble Bee,pollinatedBy
+82095,,Haplothrips,,pollinatedBy
+82095,,Episyrphus balteatus,,pollinatedBy

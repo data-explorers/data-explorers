@@ -1,0 +1,87 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58371,59195,Lerodea eufala,Eufala Skipper,eatenBy
+58371,58504,Polites,,eatenBy
+58371,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+58371,59194,Ochlodes sylvanoides,Woodland Skipper,eatenBy
+58371,7089,Branta canadensis,Canada Goose,eatenBy
+58371,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+58371,7086,Branta,Black Geese,eatenBy
+58371,72486,Alopochen aegyptiaca,Egyptian Goose,eatenBy
+58371,213631,Anicla infecta,Green Cutworm Moth,eatenBy
+58371,7018,Anser anser,Greylag Goose,eatenBy
+58371,,Spodoptera frugiperda,,eatenBy
+58371,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+58371,203832,Euproctis,,eatenBy
+58371,,Hylephila phylaeus,,eatenBy
+58371,,Taractrocera papyria,,eatenBy
+58371,,Ocybadistes walkeri,,eatenBy
+58371,,Hypocysta metirius,,eatenBy
+58371,,Heteronympha merope,,eatenBy
+58371,,Anisynta cynone,,eatenBy
+58371,,Pseudopachybrachius guttus,,eatenBy
+58371,330061,Balclutha incisa,,eatenBy
+58371,,Nanosesarma minutum,,eatenBy
+58371,,Bactra bactrana,,eatenBy
+58371,,Bactra commensalis,,eatenBy
+58371,82279,Automeris io,Io Moth,eatenBy
+58371,,Salebria inhonesta,,eatenBy
+58371,,Sclerobia tritalis,,eatenBy
+58371,,Ypthima formosana,,eatenBy
+58371,736377,Ypthima motschulskyi,,eatenBy
+58371,,Melanargia occitanica,,eatenBy
+58371,,Pararge aegeria,,eatenBy
+58371,,Spodoptera mauritia,,eatenBy
+58371,,Leucania latiuscula,,eatenBy
+58371,,Spodoptera cilium,,eatenBy
+58371,,Nastra julia,,eatenBy
+58371,1299152,Epitoxis albicincta,,eatenBy
+58371,,Spilosoma obliqua,,eatenBy
+58371,,Atalopedes campestris,,eatenBy
+58371,,Panoquina panoquinoides,,eatenBy
+58371,539096,Yphthimoides celmis,,eatenBy
+58371,,Pseudonympha magus,,eatenBy
+58371,,Megisto rubricata,,eatenBy
+58371,,Copaeodes aurantiaca,,eatenBy
+58371,,Hermeuptychia sosybius,,eatenBy
+58371,129393,Cyllopsis pertepida,Canyonland Satyr,eatenBy
+58371,,Hermeuptychia hermes,,eatenBy
+58371,,Urbanus procne,,eatenBy
+58371,,Ypthima baldus,,eatenBy
+58371,153099,Telicota,,eatenBy
+58371,,Poanes melane,,eatenBy
+58371,347592,Ypthima asterope,Common Three-ring,eatenBy
+58371,,Neita extensa,,eatenBy
+58371,,Amblyscirtes vialis,,eatenBy
+58371,,Cyllopsis gemma,,eatenBy
+58371,,Argyrophorus argenteus,,eatenBy
+58371,202451,Copaeodes minima,Southern Skipperling,eatenBy
+58371,,Hipparchia fidia,,eatenBy
+58371,,Panoquina panoquin,,eatenBy
+58371,,Decinea percosius,,eatenBy
+58371,9869,Sicalis luteola,Grassland Yellow-Finch,eatenBy
+58371,,Ascochyta graminea,,eatenBy
+58371,,Euplectes albonotatus,,eatenBy
+58371,,Capreolus capreolus italicus,,eatenBy
+58371,,Ustilago cynodontis,,eatenBy
+58371,330186,Hysteroneura setariae,,eatenBy
+58371,123608,Delphacidae,,eatenBy
+58371,7008,Anser indicus,Bar-headed Goose,eatenBy
+58371,6905,Anseranas semipalmata,Magpie Goose,eatenBy
+58371,6893,Dendrocygna autumnalis,Black-bellied Whistling-Duck,eatenBy
+58371,43329,Equus,Equines,preyedUponBy
+58371,,Pedetes capensis,,preyedUponBy
+58371,,Loxodonta africana,,preyedUponBy
+58371,,Aepyceros melampus,,preyedUponBy
+58371,,Gazella thomsonii,,preyedUponBy
+58371,,Damaliscus korrigum,,preyedUponBy
+58371,,Connochaetes taurinus,,preyedUponBy
+58371,43088,Heterohyrax brucei,Bush Hyrax,preyedUponBy
+58371,,Phacochoerus africanus,,preyedUponBy
+58371,,Rhabdomys pumilio,,preyedUponBy
+58371,,Kobus ellipsiprymnus,,preyedUponBy
+58371,,Procavia capensis,,preyedUponBy
+58371,,Alcelaphus buselaphus,,preyedUponBy
+58371,,Taurotragus oryx,,preyedUponBy
+58371,,Hippopotamus amphibius,,preyedUponBy
+58371,,Gazella granti,,preyedUponBy
+58371,,Syncerus caffer,,preyedUponBy

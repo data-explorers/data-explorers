@@ -1,0 +1,105 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+148395,81769,Blattodea,Cockroaches and Termites,preysOn
+148395,52425,Chrysopidae,Green Lacewings,preysOn
+148395,47118,Araneae,Spiders,preysOn
+148395,47742,Pentatomidae,Stink Bugs,preysOn
+148395,47367,Opiliones,Harvestmen,preysOn
+148395,47535,Araneidae,Orbweavers,preysOn
+148395,48139,Salticidae,Jumping Spiders,preysOn
+148395,53816,Tenebrionidae,Darkling Beetles,preysOn
+148395,53248,Elateridae,Click Beetles,preysOn
+148395,67662,Geophilomorpha,Soil Centipedes,preysOn
+148395,126791,Nitidulidae,Sap-feeding Beetles,preysOn
+148395,47951,Staphylinidae,Rove Beetles,preysOn
+148395,47416,Lycosidae,Wolf Spiders,preysOn
+148395,47866,Thomisidae,Crab Spiders,preysOn
+148395,47371,Theridiidae,Cobweb Spiders,preysOn
+148395,148395,Trochosa,,preysOn
+148395,51146,Chrysomelidae,Leaf Beetles,preysOn
+148395,47208,Coleoptera,Beetles,preysOn
+148395,1151405,Lesteva sicula,,preysOn
+148395,131962,Stenus,,preysOn
+148395,153636,Zelotes,,preysOn
+148395,203350,Anacaena limbata,,preysOn
+148395,,Pirata,,preysOn
+148395,,Hypocyphtus discoideus,,preysOn
+148395,,Dryops auriculatus,,preysOn
+148395,554158,Chartoscirta cincta,,preysOn
+148395,1006257,Platystethus nodifrons,,preysOn
+148395,131943,Rugilus rufipes,,preysOn
+148395,360548,Zora spinimana,,preysOn
+148395,86114,Trichoniscidae,,preysOn
+148395,,Pirata tenuitarsis,,preysOn
+148395,,Propylaea quatuordecimpunctata,,preysOn
+148395,1123175,Pelochares versicolor,,preysOn
+148395,991295,Erichsonius cinerascens,,preysOn
+148395,,Diplocampa assimile,,preysOn
+148395,69599,Tetramorium,Fierce ants,preysOn
+148395,551912,Bembidion assimile,,preysOn
+148395,,Dryops,,preysOn
+148395,,Cypha,,preysOn
+148395,494566,Athous subfuscus,,preysOn
+148395,783981,Tapinocyba insecta,,preysOn
+148395,,Agriotinae sp1 (juv),,preysOn
+148395,174025,Dalopius marginatus,,preysOn
+148395,,Athous,,preysOn
+148395,,Pachygnatha degeeri,,preysOn
+148395,452503,Robertus lividus,,preysOn
+148395,132015,Rugilus,,preysOn
+148395,230519,Schendyla nemorensis,,preysOn
+148395,490815,Neobisium carcinoides,Moss Neobisid,preysOn
+148395,,Lithobius,,preysOn
+148395,203275,Xantholinus,,preysOn
+148395,,Gyrohypnus,,preysOn
+148395,1004280,Othius subuliformis,,preysOn
+148395,504180,Microlestes minutulus,,preysOn
+148395,706059,Gongylidiellum latebricola,,preysOn
+148395,784182,Pocadicnemis juncea,,preysOn
+148395,,Brachyderinae sp.,,preysOn
+148395,,Euophrys frontalis,,preysOn
+148395,,Dicyrtoma fusca,,preysOn
+148395,706060,Monocephalus fuscipes,,preysOn
+148395,883059,Athous zebei,,preysOn
+148395,177515,Leptacinus,,preysOn
+148395,318917,Euryopis flavomaculata,,preysOn
+148395,793485,Stenus impressus,,preysOn
+148395,,Stenus mendicus,,preysOn
+148395,,Tomocerus flavescens,,preysOn
+148395,784293,Pelecopsis radicicola,,preysOn
+148395,,Adrastus,,preysOn
+148395,510480,Othius,,preysOn
+148395,568199,Lithobius curtipes,,preysOn
+148395,,Scolytinae,,preysOn
+148395,,Stenus clavicornis,,preysOn
+148395,,Pergamasus norvegicus,,preysOn
+148395,230814,Sepedophilus testaceus,,preysOn
+148395,,Neon reticulatus,,preysOn
+148395,,Microneta viaria,,preysOn
+148395,121773,Clubionidae,Sac Spiders,preysOn
+148395,,Hahniidae,,preysOn
+148395,,Stenus humilis,,preysOn
+148395,,Euophrys herbigrada,,preysOn
+148395,457780,Geostiba circellaris,,preysOn
+148395,359911,Staphylininae,,preysOn
+148395,,Sericornis (Arfakornis),,preysOn
+148395,,Olophrum piceum,,preysOn
+148395,,Ceratinella scabrosa,,preysOn
+148395,,Mycetoporus mulsanti,,preysOn
+148395,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+148395,49567,Carabidae,Ground Beetles,preyedUponBy
+148395,148395,Trochosa,,preyedUponBy
+148395,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+148395,,Gabrius fermoralis,,preyedUponBy
+148395,,Paederus riparius,,preyedUponBy
+148395,505524,Pirata piscatorius,,preyedUponBy
+148395,,Lathrobium fovalum,,preyedUponBy
+148395,,Lithobius,,preyedUponBy
+148395,1086379,Tetartopeus terminatum,,preyedUponBy
+148395,359911,Staphylininae,,preyedUponBy
+148395,,Gabrius fermoralis (Hochh.),,preyedUponBy
+148395,,Lathrobium fovalum (Steph.),,preyedUponBy
+148395,230519,Schendyla nemorensis,,preyedUponBy
+148395,71061,Xysticus cristatus,,preyedUponBy
+148395,637234,Xysticus erraticus,,preyedUponBy
+148395,,Cochlodryas,,preyedUponBy
+148395,568199,Lithobius curtipes,,preyedUponBy

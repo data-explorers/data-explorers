@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47232,49235,Clupeiformes,Herrings,eats
+47232,54661,Mugilidae,Mullets,eats
+47232,49506,Portunidae,Swimming Crabs,eats
+47232,47584,Bivalvia,Bivalves,eats
+47232,47114,Gastropoda,Gastropods,eats
+47232,88563,Gobius,,eats
+47232,342912,Caridea,Caridean Shrimps,eats
+47232,47178,Actinopterygii,Ray-finned Fishes,eats
+47232,47232,Carangidae,Jacks,eats
+47232,47186,Decapoda,Decapods,eats
+47232,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+47232,51911,Engraulidae,Anchovies,eats
+47232,47459,Cephalopoda,Cephalopods,eats
+47232,47686,Protozoa,protozoans,eats
+47232,49944,Gerreidae,Mojarras,eats
+47232,49438,Centropomidae,Snooks,eats
+47232,94904,Auchenoglanis biscutatus,,eats
+47232,,Infauna,,eats
+47232,,Detritus,,eats
+47232,49692,Scaridae,Parrotfishes,eats
+47232,,benthic autotrophs,,eats
+47232,98501,Coris aygula,Clown Coris,eats
+47232,47295,Lutjanidae,Snappers,eatenBy
+47232,49235,Clupeiformes,Herrings,eatenBy
+47232,3,Aves,Birds,eatenBy
+47232,47232,Carangidae,Jacks,eatenBy
+47232,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47232,48147,Isopoda,Isopods,eatenBy
+47232,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+47232,127711,Histrio histrio,Sargassumfish,eatenBy
+47232,56943,Katsuwonus pelamis,Skipjack Tuna,eatenBy
+47232,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,eatenBy
+47232,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+47232,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+47232,47257,Acanthocybium solandri,Wahoo,eatenBy
+47232,3793,Sula sula,Red-footed Booby,eatenBy
+47232,3797,Sula leucogaster,Brown Booby,eatenBy
+47232,,Sea,,eatenBy
+47232,49438,Centropomidae,Snooks,eatenBy
+47232,,Pungitius pungitius pungitius,,eatenBy
+47232,,Chondrichthyes,,eatenBy
+47232,41450,Neophocaena phocaenoides,Finless Porpoise,eatenBy
+47232,4264,Phalacrocorax fuscicollis,Indian Cormorant,eatenBy
+47232,,Enhydrina schistosa,,eatenBy
+47232,123962,Dosidicus gigas,Humboldt Squid,eatenBy
+47232,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+47232,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+47232,621641,Eupleurogrammus muticus,Smallhead hairtail,eatenBy
+47232,90190,Nemipterus,Threadfin Breams,eatenBy
+47232,529910,Rexea antefurcata,Longfin Gemfish,eatenBy
+47232,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+47232,187569,Istiompax indica,Black Marlin,eatenBy
+47232,110361,Prionace glauca,Blue Shark,eatenBy
+47232,122033,Elagatis bipinnulata,Rainbow Runner,eatenBy
+47232,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+47232,91882,Saurida,,eatenBy
+47232,132369,Scomberomorus commerson,Narrow-banded Spanish Mackerel,eatenBy
+47232,54440,Synodus foetens,Inshore Lizardfish,eatenBy
+47232,119719,Istiophorus platypterus,Indo-Pacific Sailfish,eatenBy
+47232,147455,Makaira nigricans,Blue Marlin,eatenBy
+47232,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+47232,108196,Pagrus pagrus,Red Porgy,eatenBy
+47232,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+47232,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47232,131388,Haemulon melanurum,Cottonwick,eatenBy
+47232,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+47232,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+47232,187571,Kajikia albida,Atlantic White Marlin,eatenBy
+47232,56766,Sphyrna mokarran,Great Hammerhead,eatenBy
+47232,120694,Lobotes surinamensis,Atlantic Tripletail,eatenBy
+47232,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+47232,4537,Anous minutus,Black Noddy,eatenBy
+47232,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+47232,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+47232,4535,Anous stolidus,Brown Noddy,eatenBy
+47232,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+47232,4566,Gygis alba,White Tern,eatenBy
+47232,4044,Pterodroma hypoleuca,Bonin Petrel,eatenBy
+47232,4101,Puffinus nativitatis,Christmas Shearwater,eatenBy
+47232,4436,Sterna dougallii,Roseate Tern,eatenBy
+47232,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+47232,49235,Clupeiformes,Herrings,preysOn
+47232,88563,Gobius,,preysOn
+47232,47584,Bivalvia,Bivalves,preysOn
+47232,47114,Gastropoda,Gastropods,preysOn
+47232,54661,Mugilidae,Mullets,preysOn
+47232,342912,Caridea,Caridean Shrimps,preysOn
+47232,49506,Portunidae,Swimming Crabs,preysOn
+47232,85493,Crustacea,Crustaceans,preysOn
+47232,47126,Plantae,plants,preysOn
+47232,49507,Callinectes,,preysOn
+47232,49438,Centropomidae,Snooks,preysOn
+47232,,Infauna,,preysOn
+47232,49944,Gerreidae,Mojarras,preysOn
+47232,94904,Auchenoglanis biscutatus,,preysOn
+47232,,Clupeoids,,preysOn
+47232,,Litopenaeus,,preysOn
+47232,,Belonoids,,preysOn
+47232,47295,Lutjanidae,Snappers,preyedUponBy
+47232,49235,Clupeiformes,Herrings,preyedUponBy
+47232,200388,Hydrophis hardwickii,Hardwicke’s Spine-bellied Seasnake,preyedUponBy
+47232,,Sea,,preyedUponBy
+47232,49438,Centropomidae,Snooks,preyedUponBy
+47232,,Pungitius pungitius pungitius,,preyedUponBy
+47232,,Centropomids,,preyedUponBy
+47232,,Scianids,,preyedUponBy

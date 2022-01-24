@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123745,257156,Phyllocnistis citrella,Citrus Leafminer,eatenBy
+123745,,Melursus ursinus,,eatenBy
+123745,496560,Papilio fuscus,Fuscous Swallowtail,eatenBy
+123745,430274,Papilio ambrax,Ambrax Swallowtail,eatenBy
+123745,,Papilio aegeus,,eatenBy
+123745,,Diaphorina citri,,eatenBy
+123745,,Papilio polytes,,eatenBy
+123745,,Papilio demoleus,,eatenBy
+123745,,Papilio polymnestor,,eatenBy
+123745,,Rousettus leschenaultii,,eatenBy
+123745,,Pteropus giganteus,,eatenBy
+123745,40792,Cynopterus sphinx,Greater Short-nosed Fruit Bat,eatenBy
+123745,,Agraulis vanillae,,eatenBy
+123745,,Prosotas nora,,eatenBy

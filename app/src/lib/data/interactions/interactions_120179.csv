@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+120179,119994,Vespula maculifrons,Eastern Yellowjacket,eatenBy
+120179,143854,Bombus borealis,Northern Amber Bumble Bee,eatenBy
+120179,,Polistes fuscatus,,eatenBy
+120179,,Dolichovespula maculata,,eatenBy
+120179,,Vespula consobrina,,eatenBy
+120179,,Vespula alascensis,,eatenBy
+120179,,Dolichovespula arenaria,,eatenBy
+120179,,Dolichovespula norvegicoides,,eatenBy
+120179,,Bombus ternarius,,eatenBy
+120179,,Ophiomyia maura,,eatenBy
+120179,,Nemorimyza posticata,,eatenBy
+120179,47208,Coleoptera,Beetles,pollinatedBy
+120179,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+120179,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+120179,48662,Danaus plexippus,Monarch,pollinatedBy

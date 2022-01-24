@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51109,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+51109,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+51109,118629,Helicolenus dactylopterus,Blackbelly Rosefish,eatenBy
+51109,,Cubiceps capensis,,eatenBy
+51109,,Cubiceps baxteri,,eatenBy
+51109,,Hoplostethus atlanticus,,eatenBy
+51109,,Masturus lanceolatus,,eatenBy
+51109,120654,Luvarus imperialis,Louvar,eatenBy
+51109,103081,Hyperoglyphe perciformis,Barrelfish,eatenBy
+51109,,Schedophilus ovalis,,eatenBy
+51109,4162,Pachyptila crassirostris,Fulmar Prion,eatenBy
+51109,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+51109,,Epinephelus undulosus,,eatenBy

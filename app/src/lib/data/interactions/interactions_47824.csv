@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47824,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+47824,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+47824,20307,Asio otus,Long-eared Owl,eatenBy
+47824,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47824,,Salpinctes obsoletus,,eatenBy
+47824,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+47824,29985,Gyalopion canum,Chihuahuan Hook-nosed Snake,preyedUponBy
+47824,,Echis ocellatus,,preyedUponBy
+47824,31079,Echis carinatus,Saw-scaled Viper,preyedUponBy
+47824,28649,Sonora semiannulata,Ground Snake,preyedUponBy
+47824,,Mesomexovis punctatus,,preyedUponBy
+47824,41186,Nycteris grandis,Large Slit-faced Bat,preyedUponBy
+47824,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+47824,40449,Otonycteris hemprichii,Desert Long-eared Bat,preyedUponBy

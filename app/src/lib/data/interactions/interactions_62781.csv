@@ -1,0 +1,91 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62781,77496,Ipomoea indica,oceanblue morning glory,eats
+62781,40151,Mammalia,Mammals,eats
+62781,344852,Euodia,,eats
+62781,,Endospermum myrmecophilum,,eats
+62781,,Macaranga involucrata,,eats
+62781,360343,Flagellaria indica,Indian Bushcane,eats
+62781,,Clerodendrum tracyanum,,eats
+62781,,Ardisia pachyrrhachis,,eats
+62781,,Dysoxylum pettigrewianum,,eats
+62781,,Homalanthus novoguineensis,,eats
+62781,700122,Lucilia eximia,,eats
+62781,120921,Cochliomyia macellaria,Secondary Screwworm Fly,eats
+62781,904362,Hemilucilia segmentaria,,eats
+62781,,mammal carcass,,eats
+62781,,Eximia,,eats
+62781,,Agapanthia,,eats
+62781,,C.,,eats
+62781,4209,Podiceps auritus,Horned Grebe,eatenBy
+62781,17356,Vireo bellii,Bell's Vireo,eatenBy
+62781,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+62781,17355,Vireo,Vireos,eatenBy
+62781,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+62781,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+62781,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+62781,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+62781,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+62781,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+62781,18236,Colaptes auratus,Northern Flicker,eatenBy
+62781,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+62781,12727,Turdus migratorius,American Robin,eatenBy
+62781,12942,Sialia sialis,Eastern Bluebird,eatenBy
+62781,,Ogyris idmo,,eatenBy
+62781,,Dryobates albolarvatus,,eatenBy
+62781,5017,Bubulcus ibis,Cattle Egret,eatenBy
+62781,12718,Turdus plumbeus,Red-legged Thrush,eatenBy
+62781,,Vireo flavifrons,,eatenBy
+62781,17408,Vireo griseus,White-eyed Vireo,eatenBy
+62781,17394,Vireo gilvus,Warbling Vireo,eatenBy
+62781,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+62781,,Empidonax flaviventris,,eatenBy
+62781,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+62781,,Picoides pubescens,,eatenBy
+62781,,Picoides villosus,,eatenBy
+62781,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+62781,,Sphyrapicus thyroideus,,eatenBy
+62781,,Pinicola enucleator,,eatenBy
+62781,56175,Echium,Viper's-buglosses,pollinates
+62781,53022,Convolvulus,bindweeds,pollinates
+62781,51822,Euphorbia,spurges,pollinates
+62781,57628,Eryngium,Eryngos,pollinates
+62781,,Schinus patagonicus,,pollinates
+62781,,Noechamaelea pulverulenta,,pollinates
+62781,,Periploca,,pollinates
+62781,,Plocama pendula,,pollinates
+62781,,Aechmea paniculigera,,pollinates
+62781,,,,pollinates
+62781,,Byrsonima,,pollinates
+62781,,Wallenia,,pollinates
+62781,62830,Cordia lutea,yellow geiger,pollinates
+62781,,Cryptocarpus pyriformis,,pollinates
+62781,,Osyris quadripartita,,pollinates
+62781,,Xylocopa virginica,,pollinates
+62781,,Baccharis coridifolia,,pollinates
+62781,,Gomphrena perennis,,pollinates
+62781,,Eryngium stenophyllum,,pollinates
+62781,,Senecio bravensis,,pollinates
+62781,,Eupatorium tenacetifolium,,pollinates
+62781,,Achyrocline satureoides,,pollinates
+62781,,Stevia satureiifolia,,pollinates
+62781,,Baccharis tandilensis,,pollinates
+62781,1063807,Gyptis lanigera,,pollinates
+62781,511749,Eryngium floribundum,,pollinates
+62781,,Agalinis genistifolia,,pollinates
+62781,,Oxalis articulata,,pollinates
+62781,,Vernonia echioides,,pollinates
+62781,,Agapanthia,,preysOn
+62781,,Eximia,,preysOn
+62781,,C.,,preysOn
+62781,,Hypoponera foreli,,preyedUponBy
+62781,,Neivamyrmex gibbatus,,preyedUponBy
+62781,,Eciton lucanoides,,preyedUponBy
+62781,,Nomamyrmex esenbeckii,,preyedUponBy
+62781,,Eciton hamatum,,preyedUponBy
+62781,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+62781,,Eciton dulcium,,preyedUponBy
+62781,,Strigoplus guizhouensis,,preyedUponBy
+62781,,Smeringopus pallidus,,preyedUponBy
+62781,,Phycosoma digitula,,preyedUponBy
+62781,,Danaus chrysippus,,preyedUponBy
+62781,56521,Reduvius personatus,Masked Hunter,preyedUponBy

@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64647,130178,Sargassum,Sargassum,eats
+64647,67423,Ulva lactuca,broadleaf sea lettuce,eats
+64647,50862,Codium,Codiums,eats
+64647,129737,Colpomenia peregrina,Oyster-thief,eats
+64647,182852,Sphacelaria cirrosa,,eats
+64647,51024,Dictyota dichotoma,Forked ribbons,eats
+64647,,PhytoP,,eats
+64647,343396,Bifurcaria bifurcata,,eats
+64647,461577,Ellisolandia elongata,,eats
+64647,5017,Bubulcus ibis,Cattle Egret,eatenBy
+64647,618332,Trematomus newnesi,Dusky rockcod,eatenBy
+64647,4161,Pachyptila salvini,Salvin's Prion,eatenBy
+64647,55396,Solea solea,Common Sole,eatenBy
+64647,121643,Copepoda,Copepods,preysOn
+64647,,Zooplankton,,preysOn
+64647,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+64647,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy

@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117623,,Psetta maxima,,eatenBy
+117623,48397,Raja clavata,Thornback Skate,eatenBy
+117623,55396,Solea solea,Common Sole,eatenBy
+117623,481841,Microstomus kitt,Lemon Sole,eatenBy
+117623,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+117623,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+117623,109631,Platichthys flesus,European Flounder,eatenBy
+117623,47523,Pleuronectes platessa,European Plaice,eatenBy
+117623,61387,Limanda limanda,Sand Dab,eatenBy
+117623,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+117623,57814,Pogonias cromis,Black Drum,eatenBy
+117623,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+117623,63740,Gadus morhua,Atlantic Cod,eatenBy
+117623,51178,Astropecten indicus,Plain Sand Star,eatenBy

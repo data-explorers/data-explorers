@@ -1,0 +1,116 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57145,47219,Apis mellifera,Western Honey Bee,eats
+57145,133762,Villa,,eats
+57145,47961,Cerambycidae,Longhorn Beetles,eats
+57145,174388,Chaetocnema,,eats
+57145,57145,Olea,Olives,eats
+57145,,Psilopa iceryae,,eats
+57145,,Allograpta nasuta,,eats
+57145,,Paragus borbonicus,,eats
+57145,,Bactrocera cucurbitae,,eats
+57145,326655,Stomorhina lunata,Locust Blowfly,eats
+57145,,Chrysomya megacephala,,eats
+57145,,Technomyrmex albipes,,eats
+57145,,Ahasverus advena,,eats
+57145,55468,Sabulodes,,eatenBy
+57145,3000,Columba,Old World Pigeons,eatenBy
+57145,1,Animalia,Animals,eatenBy
+57145,42069,Vulpes vulpes,Red Fox,eatenBy
+57145,57145,Olea,Olives,eatenBy
+57145,,Cossus cossus,,eatenBy
+57145,,Grapholita,,eatenBy
+57145,49348,Hyles lineata,White-lined Sphinx,eatenBy
+57145,,Chrysomphalus aonidum,,eatenBy
+57145,330227,Lepidosaphes beckii,Citrus Mussel Scale,eatenBy
+57145,330222,Hemiberlesia lataniae,Latania scale,eatenBy
+57145,716067,Pseudaulacaspis pentagona,,eatenBy
+57145,270318,Phyllophaga ephilida,,eatenBy
+57145,,Saissetia persimilis,,eatenBy
+57145,,Hemiberlesia rapax,,eatenBy
+57145,,Diaspidiotus ostreaeformis,,eatenBy
+57145,,Chrysomphalus dictyospermi,,eatenBy
+57145,,Zelleria oleastrella,,eatenBy
+57145,325504,Rhombophylla,,eatenBy
+57145,121854,Psilogramma menephron,Privet Hawkmoth,eatenBy
+57145,,Thalathoides,,eatenBy
+57145,,Athyma ranga,,eatenBy
+57145,,Pangrapta shivula,,eatenBy
+57145,,Craniophora,,eatenBy
+57145,,Problepsis deliaria,,eatenBy
+57145,,Cricetomys gambianus,,eatenBy
+57145,43486,Cercopithecus mitis,Blue Monkey,eatenBy
+57145,41627,Civettictis civetta,African Civet,eatenBy
+57145,,Bycanistes brevis,,eatenBy
+57145,,Colobus angolensis,,eatenBy
+57145,,Epomophorus wahlbergi,,eatenBy
+57145,,Colius striatus,,eatenBy
+57145,,Eulemur fulvus,,eatenBy
+57145,,Urocolius indicus,,eatenBy
+57145,,Deudorix antalus,,eatenBy
+57145,42424,Sylvicapra grimmia,Bush Duiker,eatenBy
+57145,,Tragelaphus scriptus,,eatenBy
+57145,,Treron calvus,,eatenBy
+57145,,Tockus,,eatenBy
+57145,,Nandinia binotata,,eatenBy
+57145,,Neotragus moschatus,,eatenBy
+57145,,Loxodonta africana,,eatenBy
+57145,,Otolemur garnettii,,eatenBy
+57145,,Papio cynocephalus,,eatenBy
+57145,,Ploceus cucullatus,,eatenBy
+57145,,Francolinus afer,,eatenBy
+57145,41599,Genetta maculata,Rusty-spotted Genet,eatenBy
+57145,40092,Stigmochelys pardalis,Leopard Tortoise,eatenBy
+57145,,Kinixys belliana,,eatenBy
+57145,,Ichneumia albicauda,,eatenBy
+57145,44173,Hystrix africaeaustralis,Cape Porcupine,eatenBy
+57145,,Eidolon helvum,,eatenBy
+57145,,Broadleysaurus major major,,eatenBy
+57145,13548,Parus,Great Tits and Allies,eatenBy
+57145,,Phoeniculus purpureus,,eatenBy
+57145,8268,Dicrurus adsimilis,Fork-tailed Drongo,eatenBy
+57145,,Onychognathus morio,,eatenBy
+57145,,Geokichla guttata,,eatenBy
+57145,,Amblyospiza albifrons,,eatenBy
+57145,14588,Pycnonotus barbatus,Common Bulbul,eatenBy
+57145,,Notopholia corrusca,,eatenBy
+57145,,Pogoniulus pusillus,,eatenBy
+57145,,Zosterops pallidus,,eatenBy
+57145,,Andropadus importunus,,eatenBy
+57145,,Ploceus,,eatenBy
+57145,,Lamprotornis nitens,,eatenBy
+57145,,Oriolus,,eatenBy
+57145,,Tauraco,,eatenBy
+57145,,Turdus olivaceus,,eatenBy
+57145,,Bycanistes bucinator,,eatenBy
+57145,7958,Coracina caesia,Grey Cuckooshrike,eatenBy
+57145,,Lybius torquatus,,eatenBy
+57145,,Columba larvata,,eatenBy
+57145,,Cinnyricinclus leucogaster,,eatenBy
+57145,9227,Serinus,Eurasian Serins and Canaries,eatenBy
+57145,,Cercopithecidae,,eatenBy
+57145,19056,Poicephalus robustus,Cape Parrot,eatenBy
+57145,,Ruwenzorornis johnstoni,,eatenBy
+57145,7250,Corythaeola cristata,Great Blue Turaco,eatenBy
+57145,,Arizelocichla milanjensis,,eatenBy
+57145,,Arizelocichla fusciceps,,eatenBy
+57145,15302,Sylvia borin,Garden Warbler,eatenBy
+57145,46105,Paraxerus,Bush Squirrels,eatenBy
+57145,,Onychognathus walleri,,eatenBy
+57145,117064,Pogoniulus leucomystax,Moustached Tinkerbird,eatenBy
+57145,,Zosterops senegalensis,,eatenBy
+57145,,Euphyllura olivina,,eatenBy
+57145,56530,Acherontia atropos,Death's Head Hawkmoth,eatenBy
+57145,,Craniophora paragrapha,,eatenBy
+57145,133762,Villa,,pollinatedBy
+57145,174388,Chaetocnema,,pollinatedBy
+57145,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+57145,47961,Cerambycidae,Longhorn Beetles,pollinatedBy
+57145,,Allograpta nasuta,,pollinatedBy
+57145,326655,Stomorhina lunata,Locust Blowfly,pollinatedBy
+57145,,Psilopa iceryae ,,pollinatedBy
+57145,,Technomyrmex albipes ,,pollinatedBy
+57145,,Ahasverus advena ,,pollinatedBy
+57145,,Paragus borbonicus,,pollinatedBy
+57145,,Chrysomya megacephala ,,pollinatedBy
+57145,,Bactrocera cucurbitae,,pollinatedBy
+57145,,Giraffa camelopardalis,,preyedUponBy

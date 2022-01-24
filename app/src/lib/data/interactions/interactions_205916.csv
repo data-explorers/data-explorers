@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+205916,486456,Colonus sylvanus,Sylvan Jumping Spider,eats
+205916,56834,Embiidina,Webspinners,preysOn
+205916,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",preysOn
+205916,,Euglossa,,preysOn

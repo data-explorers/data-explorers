@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49051,68104,Bryozoa,Bryozoans,eats
+49051,117666,Pleuroncodes planipes,Tuna Crab,eats
+49051,,Urochordata,,eats
+49051,63382,Dermasterias imbricata,Leather Star,eatenBy
+49051,53693,Hypsypops rubicundus,Garibaldi,eatenBy
+49051,,Cypraea spadicea,,eatenBy
+49051,68104,Bryozoa,Bryozoans,preysOn
+49051,85493,Crustacea,Crustaceans,preysOn
+49051,,Urochordata,,preysOn
+49051,53693,Hypsypops rubicundus,Garibaldi,preyedUponBy
+49051,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+49051,,Cypraea spadicea,,preyedUponBy

@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+250160,67720,Asphondylia,,eats
+250160,176401,Eupelmidae,,eatenBy
+250160,,Phyllobaenus atriplexus,,eatenBy
+250160,,Torymus capillaceus,,eatenBy
+250160,,Eupelmid n. genus,,eatenBy
+250160,,Eupelmid gen. n.,,eatenBy
+250160,,Torymus,,eatenBy
+250160,49540,Gasteracantha cancriformis,Spinybacked Orbweaver,eatenBy
+250160,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+250160,,Phyllobaenus atriplexus,,preyedUponBy

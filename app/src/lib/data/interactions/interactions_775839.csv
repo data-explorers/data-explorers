@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+775839,8021,Corvus brachyrhynchos,American Crow,eatenBy
+775839,144491,Tringa semipalmata,Willet,eatenBy
+775839,204496,Corvus corone,Carrion Crow,eatenBy
+775839,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy

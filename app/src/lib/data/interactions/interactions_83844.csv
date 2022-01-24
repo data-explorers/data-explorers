@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83844,53438,Rosa,roses,eats
+83844,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+83844,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+83844,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+83844,122222,Condylostylus,,preysOn
+83844,47158,Insecta,Insects,preysOn
+83844,,Psychodinae,,preysOn
+83844,,Habronattus coecatus,,preyedUponBy

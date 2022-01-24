@@ -1,0 +1,203 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47818,121643,Copepoda,Copepods,eats
+47818,333586,Oligochaeta,Earthworms and allies,eats
+47818,53275,Chironomidae,Non-biting Midges,eats
+47818,247660,Polypedilum,,eats
+47818,50175,Enallagma,Bluets,eats
+47818,81576,Belostoma,,eats
+47818,130033,Culex,,eats
+47818,177589,Laccophilus,,eats
+47818,62989,Aedes,,eats
+47818,133623,Tropisternus,,eats
+47818,247662,Stenochironomus,,eats
+47818,130980,Clinotanypus,,eats
+47818,475373,Guttipelopia,,eats
+47818,247658,Paratanytarsus,,eats
+47818,,Alona quadrangularis,,eats
+47818,247741,Procladius,,eats
+47818,247694,Ablabesmyia,,eats
+47818,,Crangonyx gracilis,,eats
+47818,,Caenis,,eats
+47818,,Alona intermedia,,eats
+47818,86355,Alona,,eats
+47818,,Acantholeberis curvirostris,,eats
+47818,,Alona rustica,,eats
+47818,,Microcyclops rubellus,,eats
+47818,1011286,Chaetocladius,,eats
+47818,688301,Scapholeberis kingi,,eats
+47818,366249,Nanocladius,,eats
+47818,247596,Cladopelma,,eats
+47818,378586,Xenochironomus,,eats
+47818,,Bezzia,,eats
+47818,,Alona affinis,,eats
+47818,788190,Paratarsotomus macropalpis,,eats
+47818,338141,Chydorus,,eats
+47818,376084,Cryptochironomus,,eats
+47818,247737,Larsia,,eats
+47818,294394,Chaoborus punctipennis,,eats
+47818,345325,Micropsectra,,eats
+47818,,Disparalona acutirostris,,eats
+47818,,Acanthocyclops,,eats
+47818,120561,Cricotopus,,eats
+47818,247719,Djalmabatista,,eats
+47818,247650,Parachironomus,,eats
+47818,472252,Paratendipes,,eats
+47818,247665,Tanytarsus,,eats
+47818,480716,Eucyclops serrulatus,,eats
+47818,,Macrocyclops albidus,,eats
+47818,366243,Microtendipes,,eats
+47818,126613,Glyptotendipes,,eats
+47818,,Ophryoxus gracilis,,eats
+47818,174181,Corynoneura,,eats
+47818,168927,Sida crystallina,,eats
+47818,492986,Pseudochironomus,,eats
+47818,87850,Daphnia,Water-fleas,eats
+47818,,Hygrotus,,eats
+47818,,Acilius,,eats
+47818,84734,Agabus,,eats
+47818,87923,Diaptomus,,eats
+47818,173833,Dineutus,,eats
+47818,,Helophorus,,eats
+47818,,Gyrinus,,eats
+47818,,Hydrochara,,eats
+47818,,Graphoderus,,eats
+47818,123594,Anaxyrus americanus americanus,Eastern American Toad,eats
+47818,,Desmopachria,,eats
+47818,122269,Lynceus,,eats
+47818,,Lethocerus,,eats
+47818,,Coptotomus,,eats
+47818,,Diacyclops,,eats
+47818,,Colymbetes,,eats
+47818,,Eubranchipus,,eats
+47818,,Cymbiodyta,,eats
+47818,,Lestes,,eats
+47818,,Anacaena,,eats
+47818,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+47818,,Liodessus,,eats
+47818,,Laccornis,,eats
+47818,,Hirudenea,,eats
+47818,,Lymnaea,,eats
+47818,,Ilybius,,eats
+47818,,Hydroporus,,eats
+47818,,Dytiscus,,eats
+47818,,Listronotus,,eats
+47818,177989,Haliplus,,eats
+47818,148201,Helisoma,,eats
+47818,,Sphaeriidae,,eats
+47818,,Alonella,,eats
+47818,173601,Enochrus,,eats
+47818,,Hydrobius,,eats
+47818,,Hydrochus,,eats
+47818,171629,Scapholeberis,,eats
+47818,,Rhantus,,eats
+47818,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+47818,81576,Belostoma,,eatenBy
+47818,11867,Progne subis,Purple Martin,eatenBy
+47818,58637,Ambloplites rupestris,Rock Bass,eatenBy
+47818,58627,Perca flavescens,Yellow Perch,eatenBy
+47818,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+47818,,Bagrus bajad,,eatenBy
+47818,,Graphoderus,,eatenBy
+47818,,Acilius,,eatenBy
+47818,,Dytiscus,,eatenBy
+47818,,Lethocerus,,eatenBy
+47818,,Carassius carassius,,eatenBy
+47818,133623,Tropisternus,,preysOn
+47818,62989,Aedes,,preysOn
+47818,130033,Culex,,preysOn
+47818,177589,Laccophilus,,preysOn
+47818,50175,Enallagma,Bluets,preysOn
+47818,53275,Chironomidae,Non-biting Midges,preysOn
+47818,53248,Elateridae,Click Beetles,preysOn
+47818,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+47818,47199,Ichneumonidae,Ichneumonid Wasps,preysOn
+47818,85862,Leptoceridae,Long-horned Caddisflies,preysOn
+47818,47928,Zygoptera,Damselflies,preysOn
+47818,70144,Muscidae,House Flies and Allies,preysOn
+47818,317549,Dipogon,,preysOn
+47818,127593,Chloropidae,Frit Flies,preysOn
+47818,47157,Lepidoptera,Butterflies and Moths,preysOn
+47818,52910,Sarcophagidae,Flesh Flies,preysOn
+47818,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+47818,61739,Agrotis,,preysOn
+47818,61860,Calliphoridae,Blow Flies,preysOn
+47818,84670,Ephydridae,Shore Flies,preysOn
+47818,127812,Hylaeus,Masked Bees,preysOn
+47818,49704,Tabanus,True Horse Flies,preysOn
+47818,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+47818,,Cymbiodyta,,preysOn
+47818,,Rhantus,,preysOn
+47818,177749,Hydrophilus,Giant Water Scavenger Beetles,preysOn
+47818,,Hydrochus,,preysOn
+47818,,Helophorus,,preysOn
+47818,,Alonella,,preysOn
+47818,,Hydroporus,,preysOn
+47818,,Graphoderus,,preysOn
+47818,,Desmopachria,,preysOn
+47818,,Hydrobius,,preysOn
+47818,84734,Agabus,,preysOn
+47818,,Acilius,,preysOn
+47818,,Diacyclops,,preysOn
+47818,148201,Helisoma,,preysOn
+47818,,Laccornis,,preysOn
+47818,,Dytiscus,,preysOn
+47818,,Hirudenea,,preysOn
+47818,177989,Haliplus,,preysOn
+47818,171629,Scapholeberis,,preysOn
+47818,,Hydrochara,,preysOn
+47818,,Sphaeriidae,,preysOn
+47818,87923,Diaptomus,,preysOn
+47818,,Liodessus,,preysOn
+47818,,Listronotus,,preysOn
+47818,87850,Daphnia,Water-fleas,preysOn
+47818,338141,Chydorus,,preysOn
+47818,122269,Lynceus,,preysOn
+47818,,Gyrinus,,preysOn
+47818,,Eubranchipus,,preysOn
+47818,,Colymbetes,,preysOn
+47818,,Acanthocyclops,,preysOn
+47818,173833,Dineutus,,preysOn
+47818,,Lestes,,preysOn
+47818,173601,Enochrus,,preysOn
+47818,,Ilybius,,preysOn
+47818,,Anacaena,,preysOn
+47818,,Lymnaea,,preysOn
+47818,,Lethocerus,,preysOn
+47818,,Hygrotus,,preysOn
+47818,,Coptotomus,,preysOn
+47818,,Otitinae,,preysOn
+47818,1087985,Swammerdamella brevicornis,,preysOn
+47818,578473,Herina frondescentiae,,preysOn
+47818,,Sepedon spinipes,,preysOn
+47818,,Cytilus sericeus,,preysOn
+47818,495985,Limnobaris dolorosa,,preysOn
+47818,174422,Hybotidae,Hybotid Dance Flies,preysOn
+47818,,Chrysotus cilipes,,preysOn
+47818,,Agriotes lineatus,,preysOn
+47818,177092,Meligethes,,preysOn
+47818,123596,Chilocorus bipustulatus,Heather Ladybird,preysOn
+47818,,Chaetocnema confusa,,preysOn
+47818,,Limnephilidae,,preysOn
+47818,,Neoascia,,preysOn
+47818,216011,Cantharis rufa,,preysOn
+47818,,Thripomorpha paludicola,,preysOn
+47818,,Limnia paludicola,,preysOn
+47818,,Sciaridae,,preysOn
+47818,,Herina germinationis,,preysOn
+47818,,Aprostocetus,,preysOn
+47818,,Herina parva,,preysOn
+47818,,Episyrphus balteatus,,preysOn
+47818,69803,Ceratopogonidae,Biting Midges,preysOn
+47818,,Athericidae,,preysOn
+47818,52380,Aphidoidea,,preysOn
+47818,,Ilione albiseta,,preysOn
+47818,203213,Diapriidae,,preysOn
+47818,,Oedemera nobilis,,preysOn
+47818,81576,Belostoma,,preyedUponBy
+47818,,Lethocerus,,preyedUponBy
+47818,,Graphoderus,,preyedUponBy
+47818,,Acilius,,preyedUponBy
+47818,,Dytiscus,,preyedUponBy
+47818,,Araneus bicentenarius,,preyedUponBy
+47818,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+47818,4643,Falco subbuteo,Eurasian Hobby,preyedUponBy

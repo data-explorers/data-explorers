@@ -1,0 +1,79 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57659,123594,Anaxyrus americanus americanus,Eastern American Toad,eats
+57659,4940,Egretta thula,Snowy Egret,eatenBy
+57659,4209,Podiceps auritus,Horned Grebe,eatenBy
+57659,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+57659,558433,Spatula discors,Blue-winged Teal,eatenBy
+57659,6930,Anas platyrhynchos,Mallard,eatenBy
+57659,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+57659,7044,Aythya collaris,Ring-necked Duck,eatenBy
+57659,558439,Mareca strepera,Gadwall,eatenBy
+57659,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+57659,3759,Plegadis chihi,White-faced Ibis,eatenBy
+57659,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+57659,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+57659,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+57659,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+57659,11867,Progne subis,Purple Martin,eatenBy
+57659,6915,Cygnus buccinator,Trumpeter Swan,eatenBy
+57659,4234,Aechmophorus clarkii,Clark's Grebe,eatenBy
+57659,114127,Thymallus thymallus,Grayling,eatenBy
+57659,,Crocodylus niloticus,,eatenBy
+57659,48648,Salmo salar,Atlantic Salmon,eatenBy
+57659,,Hemibrycon sanjuanensis,,eatenBy
+57659,,Galaxias anomalus,,eatenBy
+57659,446027,Galaxias depressiceps,Taieri Flathead Galaxias,eatenBy
+57659,51333,Macquaria australasica,Macquarie Perch,eatenBy
+57659,187244,Clupeichthys aesarnensis,Thai River Sprat,eatenBy
+57659,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+57659,,Brycinus leuciscus,,eatenBy
+57659,,Gobio cynocephalus,,eatenBy
+57659,,Thymallus arcticus,,eatenBy
+57659,,Clarias macrocephalus,,eatenBy
+57659,,Scleropages jardinii,,eatenBy
+57659,47518,Salmo trutta,Brown Trout,eatenBy
+57659,,Umbra limi,,eatenBy
+57659,,Hiodon alosoides,,eatenBy
+57659,,Catostomus commersonii,,eatenBy
+57659,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+57659,179593,Fundulus similis,Longnose Killifish,eatenBy
+57659,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+57659,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+57659,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+57659,,Fulica americana columbiana,,eatenBy
+57659,458,Aramides saracura,Slaty-breasted Wood-Rail,eatenBy
+57659,3739,Threskiornis aethiopicus,African Sacred Ibis,eatenBy
+57659,4937,Egretta caerulea,Little Blue Heron,eatenBy
+57659,4938,Egretta tricolor,Tricolored Heron,eatenBy
+57659,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+57659,6994,Bucephala islandica,Barrow's Goldeneye,eatenBy
+57659,5017,Bubulcus ibis,Cattle Egret,eatenBy
+57659,6924,Anas rubripes,American Black Duck,eatenBy
+57659,,Podiceps grisegena,,eatenBy
+57659,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+57659,4235,Aechmophorus occidentalis,Western Grebe,eatenBy
+57659,162,Porzana carolina,Sora,eatenBy
+57659,243,Rallus limicola,Virginia Rail,eatenBy
+57659,,Rallus elegans,,eatenBy
+57659,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+57659,7174,Malacorhynchus membranaceus,Pink-eared Duck,eatenBy
+57659,7057,Aythya valisineria,Canvasback,eatenBy
+57659,7054,Aythya affinis,Lesser Scaup,eatenBy
+57659,7182,Amazonetta brasiliensis,Brazilian Teal,eatenBy
+57659,4512,Chlidonias niger,Black Tern,eatenBy
+57659,144479,Gallinula galeata,Common Gallinule,eatenBy
+57659,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+57659,,Corvus caurinus,,eatenBy
+57659,,Tachybaptus dominicus,,eatenBy
+57659,326296,Bufo bufo,European Toad,preysOn
+57659,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+57659,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+57659,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy
+57659,,Taphozous georgianus,,preyedUponBy
+57659,40661,Rhinolophus megaphyllus,Eastern Horseshoe Bat,preyedUponBy
+57659,41290,Mormopterus planiceps,Southern Free-tailed Bat,preyedUponBy
+57659,40544,Chalinolobus gouldii,Gould's Wattled Bat,preyedUponBy
+57659,40552,Chalinolobus nigrogriseus,Hoary Wattled Bat,preyedUponBy
+57659,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+57659,40348,Myotis velifer,Cave Myotis,preyedUponBy
+57659,40572,Nyctalus noctula,Common Noctule,preyedUponBy

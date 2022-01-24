@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47677,68769,Ascophyllum,,eats
+47677,,encrusting and mat-forming algae,,eats
+47677,,Detritus,,eats
+47677,,Algae,,eats
+47677,,Encrusting and mat-forming algae,,eats
+47677,,plankton - suspended detritus,,eats
+47677,58648,Fundulus,Typical Killifishes,eatenBy
+47677,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47677,,Leptasterias,,eatenBy
+47677,,Cribrina,,eatenBy
+47677,193907,Thais,,eatenBy
+47677,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+47677,128986,Calamus,Rattan palms,eatenBy
+47677,446050,Gobioclinus guppyi,Mimic Blenny,eatenBy
+47677,101420,Gerres cinereus,Yellowfin Mojarra,eatenBy
+47677,49942,Halichoeres radiatus,Puddingwife,eatenBy
+47677,52313,Diodon hystrix,Spotted Porcupinefish,eatenBy
+47677,179551,Labrisomus nuchipinnis,Hairy Blenny,eatenBy
+47677,317345,Sargocentron vexillarium,Dusky Squirrelfish,eatenBy
+47677,49491,Thalassoma bifasciatum,Caribbean Bluehead Wrasse,eatenBy
+47677,95066,Balistes vetula,Queen Triggerfish,eatenBy
+47677,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+47677,4235,Aechmophorus occidentalis,Western Grebe,eatenBy
+47677,7031,Melanitta,Scoters,eatenBy
+47677,193907,Thais,,preyedUponBy
+47677,,Leptasterias,,preyedUponBy

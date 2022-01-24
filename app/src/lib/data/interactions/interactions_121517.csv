@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121517,117440,Eutrochium maculatum,spotted Joe-Pye weed,eats
+121517,130989,Euthamia graminifolia,flat-topped goldenrod,eats
+121517,48678,Solidago,goldenrods,eats
+121517,125381,Asclepias incarnata,swamp milkweed,eats
+121517,55910,Hieracium,hawkweeds,eats
+121517,47912,Asclepias tuberosa,butterfly milkweed,eats
+121517,52836,Angelica,,eats
+121517,58907,Melilotus albus,White Sweetclover,eats
+121517,51876,Trifolium,clovers,eats
+121517,48970,Antirrhinum,Snapdragons,eats
+121517,48622,Nepeta cataria,Catnip,eats
+121517,69819,Ligustrum,privets,eats
+121517,53438,Rosa,roses,eats
+121517,53453,Salix,Willows,eats
+121517,47602,Taraxacum officinale,common dandelion,eats
+121517,48681,Spiraea,meadowsweet,eats
+121517,55745,Trifolium repens,white clover,eats
+121517,48160,Centaurea,knapweeds,eats
+121517,119045,Eupatorium perfoliatum,common boneset,eats
+121517,,Salix fragilis,,eats
+121517,,Vicia cracca,,eats
+121517,126575,Centaurea nigra,black knapweed,eats
+121517,61396,Origanum vulgare,Oregano,eats
+121517,,Sorbaria sorbifolia,,eats
+121517,,Solidagininae,,eats
+121517,564969,Chamaenerion angustifolium,fireweed,eats
+121517,52599,Pontederia cordata,pickerelweed,eats
+121517,59549,Lupinus polyphyllus,Large-leaved lupine,eats
+121517,158380,Angelica sylvestris,Wild Angelica,eats
+121517,,Rosa rugosa,,eats
+121517,,Limonium carolinianum,,eats
+121517,56174,Echium vulgare,viper's-bugloss,eats
+121517,,Valeriana officinalis,,eats
+121517,,Trifolium hybridum,,pollinates
+121517,,Hypericum perforatum,,pollinates
+121517,155085,Bombus perplexus,Perplexing Bumble Bee,pollinates
+121517,630955,Anthophila,Bees,pollinatedBy
+121517,52775,Bombus,Bumble Bees,pollinatedBy
+121517,120215,Bombus griseocollis,Brown-belted Bumble Bee,pollinatedBy
+121517,155085,Bombus perplexus,Perplexing Bumble Bee,pollinatedBy
+121517,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+121517,55747,Misumena,Flower Crab Spiders,preyedUponBy

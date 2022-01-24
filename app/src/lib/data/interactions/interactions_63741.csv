@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63741,47186,Decapoda,Decapods,eatenBy
+63741,121643,Copepoda,Copepods,eatenBy
+63741,195134,Euphausiidae,Euphotic Krill,eatenBy
+63741,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+63741,4381,Larus fuscus,Lesser Black-backed Gull,eatenBy
+63741,4389,Larus cachinnans,Caspian Gull,eatenBy
+63741,,Larus audouinii,,eatenBy
+63741,485629,Pterodroma heraldica,Herald Petrel,eatenBy
+63741,4048,Pterodroma ultima,Murphy's Petrel,eatenBy
+63741,,Otaria flavescens,,eatenBy
+63741,63740,Gadus morhua,Atlantic Cod,eatenBy
+63741,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+63741,228496,Pollachius virens,Pollock,eatenBy
+63741,,Zeus faber,,eatenBy
+63741,118603,Merluccius merluccius,European Hake,eatenBy
+63741,,Trisopterus minutus,,eatenBy
+63741,430553,Merlangius merlangus,Whiting,eatenBy
+63741,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+63741,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+63741,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+63741,101176,Galeorhinus galeus,School Shark,eatenBy
+63741,51322,Dalatias licha,Black Shark,eatenBy
+63741,229837,Reinhardtius hippoglossoides,Greenland Halibut,eatenBy
+63741,118610,Lophius piscatorius,Angler,eatenBy
+63741,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+63741,204533,Larus argentatus,Herring Gull,eatenBy
+63741,4368,Larus marinus,Great Black-backed Gull,eatenBy
+63741,430553,Merlangius merlangus,Whiting,preyedUponBy
+63741,118603,Merluccius merluccius,European Hake,preyedUponBy
+63741,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+63741,,Trisopterus minutus,,preyedUponBy
+63741,481840,Lepidorhombus whiffiagonis,Megrim,preyedUponBy
+63741,,Zeus faber,,preyedUponBy

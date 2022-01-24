@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+201542,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+201542,106252,Mustelus antarcticus,Gummy Shark,eatenBy
+201542,101176,Galeorhinus galeus,School Shark,eatenBy
+201542,85294,Arripis truttacea,Western Australian Salmon,eatenBy
+201542,41529,Globicephala melas,Long-finned Pilot Whale,eatenBy
+201542,41482,Tursiops truncatus,Common Bottlenose Dolphin,preyedUponBy
+201542,101176,Galeorhinus galeus,School Shark,preyedUponBy
+201542,106252,Mustelus antarcticus,Gummy Shark,preyedUponBy
+201542,85294,Arripis truttacea,Western Australian Salmon,preyedUponBy
+201542,41529,Globicephala melas,Long-finned Pilot Whale,preyedUponBy

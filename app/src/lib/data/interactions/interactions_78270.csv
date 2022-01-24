@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+78270,300315,Atta mexicana,Chicatana Leafcutter Ant,eatenBy
+78270,57690,Bombus sonorus,Sonoran Bumble Bee,pollinatedBy
+78270,,Cactophagus spinolae,,preyedUponBy

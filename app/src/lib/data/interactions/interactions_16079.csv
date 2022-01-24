@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+16079,47208,Coleoptera,Beetles,eats
+16079,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+16079,121516,Chalcididae,Chalcidid Wasps,eats
+16079,61860,Calliphoridae,Blow Flies,eats
+16079,63187,Braconidae,Braconid Wasps,eats
+16079,47922,Nymphalidae,Brush-footed Butterflies,eats
+16079,48736,Curculionidae,True Weevils,eats
+16079,61267,Heteroptera,True Bugs,eats
+16079,53225,Rhopalidae,Scentless Plant Bugs,eats
+16079,54964,Buprestidae,Metallic Wood-boring Beetles,eats
+16079,52910,Sarcophagidae,Flesh Flies,eats
+16079,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+16079,53237,Cicadellidae,Typical Leafhoppers,eats
+16079,51146,Chrysomelidae,Leaf Beetles,eats
+16079,47157,Lepidoptera,Butterflies and Moths,eats
+16079,62164,Trichoptera,Caddisflies,eats
+16079,125816,Auchenorrhyncha,True Hoppers,eats
+16079,47821,Tabanidae,Horse and Deer Flies,eats
+16079,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+16079,202796,Therevidae,Stiletto Flies,eats
+16079,52775,Bombus,Bumble Bees,eats
+16079,48201,Scarabaeidae,Scarabs,eats
+16079,60628,Tenthredinidae,Common Sawflies,eats
+16079,48091,Brachycera,Brachyceran Flies,eats
+16079,70144,Muscidae,House Flies and Allies,eats
+16079,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eats
+16079,47822,Diptera,Flies,eats
+16079,47199,Ichneumonidae,Ichneumonid Wasps,eats
+16079,49530,Geometridae,Geometer Moths,eats
+16079,49995,Syrphidae,Hover Flies,eats
+16079,47961,Cerambycidae,Longhorn Beetles,eats
+16079,60470,Rhagionidae,Snipe Flies,eats
+16079,136563,Coccinella novemnotata,Nine-spotted Lady Beetle,eats
+16079,128712,Coccinella californica,California Lady Beetle,eats
+16079,70058,Agrilus,,eats
+16079,124431,Cycloneda sanguinea,Spotless Lady Beetle,eats
+16079,47124,Magnoliopsida,dicots,eats
+16079,48987,Hippodamia convergens,Convergent Lady Beetle,eats
+16079,47120,Arthropoda,Arthropods,eats
+16079,173324,Blapstinus,,eats
+16079,49703,Chrysops,,eats
+16079,53248,Elateridae,Click Beetles,eats
+16079,47158,Insecta,Insects,eats
+16079,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",eats
+16079,49567,Carabidae,Ground Beetles,eats
+16079,48011,Ephemeroptera,Mayflies,eats
+16079,47927,Anisoptera,Dragonflies,eats
+16079,47824,Solifugae,Solifuges,eats
+16079,48486,Coccinellidae,Lady Beetles,eats
+16079,47118,Araneae,Spiders,eats
+16079,47653,Hesperiidae,Skippers,eats
+16079,47222,Apoidea,Bees and Apoid Wasps,eats
+16079,61863,Cercopidae,Froghoppers,eats
+16079,49460,Empididae,Dance Flies,eats
+16079,129878,Nabidae,Damsel Bugs,eats
+16079,,Cephidae,,eats
+16079,,Camponotus herculeanus,,eats
+16079,,Archips fumiferana,,eats
+16079,,Planolinus tenellus,,eats
+16079,,Agriotes,,eats
+16079,,Canthon,,eats
+16079,121294,Curculio,Nut and Acorn Weevils,eats
+16079,,Carpophilus hemipterus,,eats
+16079,,Aphodius,,eats
+16079,,Coccinella transversoguttata,,eats
+16079,,Ptilinus basalis,,eats
+16079,1026891,Xerosaprinus plenus,,eats
+16079,69766,Gastrophysa,,eats
+16079,,Hippodamia quinquesignata,,eats
+16079,214554,Atholus bimaculatus,,eats
+16079,,Baris rubripes,,eats
+16079,,Trogossitidae,,eats
+16079,,Rhynchites,,eats
+16079,49525,Scutelleridae,Jewel Bugs,eats
+16079,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+16079,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy

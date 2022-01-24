@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47382,47793,Dermaptera,Earwigs,eats
+47382,47961,Cerambycidae,Longhorn Beetles,eats
+47382,57665,Cotinis mutabilis,Figeater Beetle,eats
+47382,38671,Aspidoscelis tigris,Western Whiptail,eats
+47382,,Anabrus simplex,,eats
+47382,26916,Contia tenuis,Sharp-tailed Snake,eats
+47382,69114,Pogonomyrmex,Harvester Ants,preysOn
+47382,334679,Capnobotes occidentalis,Western Longwing,preysOn
+47382,61881,Habronattus,Paradise Spiders,preyedUponBy

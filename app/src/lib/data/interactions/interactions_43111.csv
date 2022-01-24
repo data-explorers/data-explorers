@@ -1,0 +1,59 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43111,47906,Asclepias,milkweeds,eats
+43111,51876,Trifolium,clovers,eats
+43111,47434,Poaceae,grasses,eats
+43111,47162,Poales,"grasses, sedges, cattails, and allies",eats
+43111,,Opuntia humifusa,,eats
+43111,,Quercus geminata,,eats
+43111,,Smilax auriculata,,eats
+43111,,Uniola paniculata,,eats
+43111,42051,Canis latrans,Coyote,eatenBy
+43111,41976,Lynx rufus,Bobcat,eatenBy
+43111,42007,Puma concolor,Mountain Lion,eatenBy
+43111,41663,Procyon lotor,Common Raccoon,eatenBy
+43111,42069,Vulpes vulpes,Red Fox,eatenBy
+43111,41801,Mustela,,eatenBy
+43111,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+43111,43584,Homo sapiens,Human,eatenBy
+43111,19350,Strigiformes,Owls,eatenBy
+43111,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+43111,61858,Lucilia,Greenbottle Flies,eatenBy
+43111,1264431,Neogale frenata,Long-tailed Weasel,eatenBy
+43111,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+43111,4756,Cathartes aura,Turkey Vulture,eatenBy
+43111,20044,Bubo virginianus,Great Horned Owl,eatenBy
+43111,20445,Tyto alba,Barn Owl,eatenBy
+43111,19893,Strix varia,Barred Owl,eatenBy
+43111,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+43111,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+43111,558446,Circus hudsonius,Northern Harrier,eatenBy
+43111,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+43111,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+43111,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+43111,42048,Canis lupus,Gray Wolf,eatenBy
+43111,,Puma yagouaroundi,,eatenBy
+43111,41796,Martes martes,Eurasian Pine Marten,eatenBy
+43111,41798,Martes americana,American Marten,eatenBy
+43111,41800,Martes foina,Stone Marten,eatenBy
+43111,41970,Panthera onca,Jaguar,eatenBy
+43111,259078,Culex tarsalis,Western Encephalitis Mosquito,eatenBy
+43111,49701,Chrysops atlanticus,Atlantic Deer Fly,eatenBy
+43111,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,eatenBy
+43111,,Caracara cheriway,,eatenBy
+43111,20315,Asio flammeus,Short-eared Owl,eatenBy
+43111,20307,Asio otus,Long-eared Owl,eatenBy
+43111,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+43111,144594,Bubo scandiacus,Snowy Owl,eatenBy
+43111,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+43111,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+43111,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+43111,42051,Canis latrans,Coyote,preyedUponBy
+43111,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+43111,118552,Felis catus,Domestic Cat,preyedUponBy
+43111,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+43111,,Coluber flagellum,,preyedUponBy
+43111,,Pantherophis alleghaniensis,,preyedUponBy
+43111,30721,Crotalus triseriatus,Dusky Rattlesnake,preyedUponBy
+43111,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+43111,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+43111,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy

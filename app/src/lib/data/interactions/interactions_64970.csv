@@ -1,0 +1,115 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64970,67333,Bacteria,bacteria,eats
+64970,59653,Gerridae,Water Striders,eats
+64970,174572,Callibaetis,Speckled Duns,eats
+64970,67731,Anax junius,Common Green Darner,eats
+64970,133821,Physa,,eats
+64970,81576,Belostoma,,eats
+64970,129189,Hyalella,,eats
+64970,53275,Chironomidae,Non-biting Midges,eats
+64970,64970,Anaxyrus boreas,Western Toad,eats
+64970,27818,Taricha torosa,California Newt,eats
+64970,52864,Tramea,Saddlebag Gliders,eats
+64970,84670,Ephydridae,Shore Flies,eats
+64970,133623,Tropisternus,,eats
+64970,54960,Nematoda,Nematodes,eats
+64970,,carrion,,eats
+64970,,Detritus,,eats
+64970,,Phytoplankton,,eats
+64970,,Nyctotherus,,eats
+64970,,Opalina,,eats
+64970,,Gregarinidae,,eats
+64970,,benthic microalgae/periphyton,,eats
+64970,,Planorbella,,eats
+64970,121463,Arrenurus,Water Mites,eats
+64970,56557,Notonecta,Milky Backswimmers,eats
+64970,51679,Coenagrion,Northern Bluets,eats
+64970,69803,Ceratopogonidae,Biting Midges,eats
+64970,,Lestes,,eats
+64970,,Daubaylia,,eats
+64970,24259,Pseudacris regilla,Northern Pacific Tree Frog,eats
+64970,124813,Alaria,,eats
+64970,177989,Haliplus,,eats
+64970,,Batrachochytrium dendrobatidis,,eats
+64970,,Echinostoma trivolvis,,eats
+64970,,Cephalogonimus americanus,,eats
+64970,,Halipegus,,eats
+64970,,Ribeiroia ondatrae,,eats
+64970,,Megalodiscus,,eats
+64970,,Corynosoma constrictum,,eats
+64970,,Echinostoma,,eats
+64970,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+64970,,Lethocerus americanus,,eats
+64970,,Hesperocorixa,,eats
+64970,67731,Anax junius,Common Green Darner,eatenBy
+64970,52864,Tramea,Saddlebag Gliders,eatenBy
+64970,4956,Ardea herodias,Great Blue Heron,eatenBy
+64970,81576,Belostoma,,eatenBy
+64970,64970,Anaxyrus boreas,Western Toad,eatenBy
+64970,27818,Taricha torosa,California Newt,eatenBy
+64970,473,Fulica americana,American Coot,eatenBy
+64970,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+64970,42051,Canis latrans,Coyote,eatenBy
+64970,144455,Ardea alba,Great Egret,eatenBy
+64970,,Echinostoma trivolvis,,eatenBy
+64970,28418,Thamnophis atratus,Aquatic Garter Snake,eatenBy
+64970,,Lethocerus americanus,,eatenBy
+64970,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+64970,,Spermophilus beecheyi,,eatenBy
+64970,124813,Alaria,,eatenBy
+64970,,Cephalogonimus americanus,,eatenBy
+64970,56557,Notonecta,Milky Backswimmers,eatenBy
+64970,,Ribeiroia ondatrae,,eatenBy
+64970,,Echinostoma,,eatenBy
+64970,67016,Rana draytonii,California Red-legged Frog,eatenBy
+64970,,Opalina,,eatenBy
+64970,,Batrachochytrium dendrobatidis,,eatenBy
+64970,,Nyctotherus,,eatenBy
+64970,,Halipegus,,eatenBy
+64970,,Thamnophis sirtalis infernalis,,eatenBy
+64970,28371,Thamnophis sirtalis fitchi,Valley Garter Snake,eatenBy
+64970,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+64970,133623,Tropisternus,,preysOn
+64970,52864,Tramea,Saddlebag Gliders,preysOn
+64970,81576,Belostoma,,preysOn
+64970,84670,Ephydridae,Shore Flies,preysOn
+64970,67731,Anax junius,Common Green Darner,preysOn
+64970,59653,Gerridae,Water Striders,preysOn
+64970,53275,Chironomidae,Non-biting Midges,preysOn
+64970,129189,Hyalella,,preysOn
+64970,133821,Physa,,preysOn
+64970,27818,Taricha torosa,California Newt,preysOn
+64970,174572,Callibaetis,Speckled Duns,preysOn
+64970,64970,Anaxyrus boreas,Western Toad,preysOn
+64970,67333,Bacteria,bacteria,preysOn
+64970,,Letherocerus americanus,,preysOn
+64970,177749,Hydrophilus,Giant Water Scavenger Beetles,preysOn
+64970,,Hesperocorixa,,preysOn
+64970,51679,Coenagrion,Northern Bluets,preysOn
+64970,,benthic microalgae/periphyton,,preysOn
+64970,177989,Haliplus,,preysOn
+64970,,Pseudiacris regilla,,preysOn
+64970,69803,Ceratopogonidae,Biting Midges,preysOn
+64970,,Gregarinidae,,preysOn
+64970,,Lestes,,preysOn
+64970,148201,Helisoma,,preysOn
+64970,,Phytoplankton,,preysOn
+64970,56557,Notonecta,Milky Backswimmers,preysOn
+64970,,Spilosoma vestalis,,preysOn
+64970,27818,Taricha torosa,California Newt,preyedUponBy
+64970,81576,Belostoma,,preyedUponBy
+64970,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+64970,473,Fulica americana,American Coot,preyedUponBy
+64970,52864,Tramea,Saddlebag Gliders,preyedUponBy
+64970,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+64970,42051,Canis latrans,Coyote,preyedUponBy
+64970,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+64970,67731,Anax junius,Common Green Darner,preyedUponBy
+64970,,Perisoreus canadensis,,preyedUponBy
+64970,146173,Hypsiglena chlorophaea,Desert Nightsnake,preyedUponBy
+64970,,Spermophilus beecheyi,,preyedUponBy
+64970,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+64970,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+64970,,Letherocerus americanus,,preyedUponBy
+64970,28418,Thamnophis atratus,Aquatic Garter Snake,preyedUponBy
+64970,56557,Notonecta,Milky Backswimmers,preyedUponBy

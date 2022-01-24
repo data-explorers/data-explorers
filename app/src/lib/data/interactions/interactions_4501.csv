@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4501,85493,Crustacea,Crustaceans,eats
+4501,153112,Euphausiacea,krill,eats
+4501,85574,Ammodytidae,Sand Lances,eats
+4501,,Gnathostomata,,eats
+4501,165100,Mallotus villosus,Capelin,eats
+4501,97990,Clupea harengus,Atlantic Herring,eats
+4501,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4501,213402,Ammodytes americanus,American Sand Lance,eats
+4501,86396,Ammodytes,,eats
+4501,,Etrumeus teres,,eats
+4501,55535,Sardinops sagax,Pacific Sardine,eats
+4501,118600,Sardina pilchardus,European Sardine,eats
+4501,,Pisces,,eats
+4501,117571,Clupea pallasii,Pacific herring,eats
+4501,324532,Sprattus sprattus,European Sprat,eats
+4501,88265,Etrumeus,Red-eye Round Herrings,eats
+4501,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4501,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4501,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+4501,8010,Corvus corax,Common Raven,eatenBy
+4501,42069,Vulpes vulpes,Red Fox,eatenBy
+4501,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+4501,4657,Falco rusticolus,Gyrfalcon,eatenBy
+4501,4368,Larus marinus,Great Black-backed Gull,eatenBy
+4501,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+4501,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+4501,144297,Stercorarius skua,Great Skua,eatenBy
+4501,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4501,204533,Larus argentatus,Herring Gull,eatenBy
+4501,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4501,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4501,4389,Larus cachinnans,Caspian Gull,eatenBy
+4501,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4501,19898,Strix aluco,Tawny Owl,eatenBy
+4501,,Coloeus monedula,,eatenBy
+4501,204496,Corvus corone,Carrion Crow,eatenBy
+4501,8029,Corvus frugilegus,Rook,eatenBy
+4501,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4501,42048,Canis lupus,Gray Wolf,eatenBy
+4501,41900,Herpestes ichneumon,Ichneumon,eatenBy
+4501,41852,Gulo gulo,Wolverine,eatenBy
+4501,64714,Vaccinium uliginosum,bog bilberry,eatenBy
+4501,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4501,,Elaphe situla,,eatenBy
+4501,39407,Varanus griseus,Desert Monitor,eatenBy
+4501,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4501,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4501,28451,Telescopus nigriceps,Black headed snake,eatenBy

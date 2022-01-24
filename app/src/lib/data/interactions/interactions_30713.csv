@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+30713,43096,Sylvilagus,Cottontail Rabbits,eats
+30713,43698,Rodentia,Rodents,eats
+30713,180007,Otospermophilus beecheyi,California Ground Squirrel,eats
+30713,36094,Uta stansburiana,Common Side-blotched Lizard,eats
+30713,,Dipodomys,,eats
+30713,,Sceloporus occidentalis longipes,,eats
+30713,146199,Lampropeltis californiae,California King Snake,eatenBy
+30713,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+30713,43698,Rodentia,Rodents,preysOn
+30713,42652,Didelphis virginiana,Virginia Opossum,preysOn
+30713,27444,Batrachoseps,Slender Salamanders,preysOn
+30713,146199,Lampropeltis californiae,California King Snake,preyedUponBy
+30713,,Coluber flagellum,,preyedUponBy

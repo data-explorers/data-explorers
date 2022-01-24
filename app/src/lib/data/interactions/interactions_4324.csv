@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4324,63770,Engraulis mordax,Northern Anchovy,eats
+4324,118597,Belone belone,Garfish,eats
+4324,51912,Engraulis,,eats
+4324,,Odontesthes,,eats
+4324,,Gnathostomata,,eats
+4324,,Oreochromis niloticus,,eats
+4324,118600,Sardina pilchardus,European Sardine,eats
+4324,328042,Engraulis japonicus,Japanese Anchovy,eats
+4324,120672,Scomberesox saurus,Atlantic Saury,eats
+4324,97990,Clupea harengus,Atlantic Herring,eats
+4324,55535,Sardinops sagax,Pacific Sardine,eats
+4324,254742,Astyris lunata,Lunate Dove Shell,eats
+4324,,Etrumeus teres,,eats
+4324,63691,Cololabis saira,Pacific Saury,eats
+4324,324532,Sprattus sprattus,European Sprat,eats
+4324,51910,Engraulis encrasicolus,European Anchovy,eats
+4324,502271,Engraulis australis,Australian Anchovy,eats
+4324,88265,Etrumeus,Red-eye Round Herrings,eats
+4324,117571,Clupea pallasii,Pacific herring,eats
+4324,447397,Engraulis anchoita,Argentine Anchoita,eats
+4324,,Pisces,,eats
+4324,,Aratus pisonii,,preysOn
+4324,,Littoraria angulifera,,preysOn

@@ -1,0 +1,69 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53405,53405,Heteromeles arbutifolia,Toyon,eats
+53405,886834,Acmaeodera,,eatenBy
+53405,12890,Catharus guttatus,Hermit Thrush,eatenBy
+53405,50931,Strymon melinus,Gray Hairstreak,eatenBy
+53405,69145,Coenonympha california,Common Ringlet,eatenBy
+53405,47219,Apis mellifera,Western Honey Bee,eatenBy
+53405,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+53405,52775,Bombus,Bumble Bees,eatenBy
+53405,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+53405,84640,Polistes dominula,European Paper Wasp,eatenBy
+53405,53843,Brephidium exilis,Western Pygmy-Blue,eatenBy
+53405,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+53405,1021509,Junonia grisea,Gray Buckeye,eatenBy
+53405,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+53405,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+53405,199841,Haemorhous purpureus,Purple Finch,eatenBy
+53405,6317,Calypte anna,Anna's Hummingbird,eatenBy
+53405,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+53405,12727,Turdus migratorius,American Robin,eatenBy
+53405,48548,Vanessa cardui,Painted Lady,eatenBy
+53405,53405,Heteromeles arbutifolia,Toyon,eatenBy
+53405,14906,Toxostoma redivivum,California Thrasher,eatenBy
+53405,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+53405,52484,Celastrina echo,Echo Azure,eatenBy
+53405,59138,Satyrium saepium,Hedgerow Hairstreak,eatenBy
+53405,311630,Acmaeodera prorsa,,eatenBy
+53405,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+53405,127812,Hylaeus,Masked Bees,eatenBy
+53405,57678,Lasioglossum,,eatenBy
+53405,46020,Sciurus niger,Fox Squirrel,eatenBy
+53405,48662,Danaus plexippus,Monarch,eatenBy
+53405,128845,Copestylum mexicanum,Mexican Cactus Fly,eatenBy
+53405,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+53405,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+53405,199840,Haemorhous mexicanus,House Finch,eatenBy
+53405,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+53405,58606,Cercyonis pegala,Common Wood-Nymph,eatenBy
+53405,15256,Chamaea fasciata,Wrentit,eatenBy
+53405,3108,Patagioenas fasciata,Band-tailed Pigeon,eatenBy
+53405,,Orgyia vetusta,,eatenBy
+53405,,Callophrys augustinus,,eatenBy
+53405,,Stigmella heteromelis,,eatenBy
+53405,,Eristalis hirta,,eatenBy
+53405,,Myathropa florea,,eatenBy
+53405,68243,Speyeria adiaste,Unsilvered Fritillary,eatenBy
+53405,,Eristalinus aeneus,,eatenBy
+53405,,Boisea rubrolineata,,eatenBy
+53405,,Calophya californica,,eatenBy
+53405,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+53405,,Tharsalea xanthoides,,eatenBy
+53405,,Cercyonis sthenele,,eatenBy
+53405,,Atlides halesus,,eatenBy
+53405,59136,Satyrium tetra,Mountain Mahogany Hairstreak,eatenBy
+53405,,Heliothodes diminutiva,,eatenBy
+53405,,Spilomyia interrupta,,eatenBy
+53405,,Isodontia mexicana,,eatenBy
+53405,,Phyciodes mylitta,,eatenBy
+53405,54181,Speyeria callippe,Callippe Fritillary,eatenBy
+53405,116725,Anastrangalia laetifica,Dimorphic Flower Longhorn Beetle,eatenBy
+53405,,Vespula alascensis,,eatenBy
+53405,,Gammarotettix bilobatus,,eatenBy
+53405,,Nymphalis californica,,eatenBy
+53405,,Strophiona tigrina,,eatenBy
+53405,,Timema californicum,,eatenBy
+53405,144820,Poecile rufescens,Chestnut-backed Chickadee,eatenBy
+53405,,Triodoclytus lanifer,,eatenBy
+53405,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+53405,5562,Trochilidae,Hummingbirds,pollinatedBy

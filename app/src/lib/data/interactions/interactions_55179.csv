@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55179,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+55179,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+55179,89420,Lepophidium,,eatenBy

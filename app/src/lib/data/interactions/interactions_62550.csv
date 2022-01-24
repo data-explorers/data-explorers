@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62550,47114,Gastropoda,Gastropods,eats
+62550,47118,Araneae,Spiders,eats
+62550,47336,Formicidae,Ants,eats
+62550,47157,Lepidoptera,Butterflies and Moths,eats
+62550,47208,Coleoptera,Beetles,eats
+62550,47158,Insecta,Insects,eats
+62550,47124,Magnoliopsida,dicots,eats
+62550,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+62550,47822,Diptera,Flies,eats
+62550,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+62550,47735,Diplopoda,Millipedes,eats
+62550,1,Animalia,Animals,eats
+62550,49556,Chilopoda,Centipedes,eats
+62550,47951,Staphylinidae,Rove Beetles,eats
+62550,49567,Carabidae,Ground Beetles,eats
+62550,176197,Otiorhynchus,,eats
+62550,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+62550,83187,Psocodea,"Barklice, Booklice, and Parasitic Lice",eats
+62550,47792,Odonata,Dragonflies and Damselflies,eats
+62550,47120,Arthropoda,Arthropods,eats
+62550,20979,Anura,Frogs and Toads,eats
+62550,60304,Paspalum,Paspalum,eats
+62550,48736,Curculionidae,True Weevils,eats
+62550,47742,Pentatomidae,Stink Bugs,eats
+62550,48201,Scarabaeidae,Scarabs,eats
+62550,48091,Brachycera,Brachyceran Flies,eats
+62550,47199,Ichneumonidae,Ichneumonid Wasps,eats
+62550,60628,Tenthredinidae,Common Sawflies,eats
+62550,53248,Elateridae,Click Beetles,eats
+62550,57804,Berytidae,Stilt Bugs,eats
+62550,57409,Phalangiidae,Phalangiid Harvestmen,eats
+62550,52932,Cantharidae,Soldier Beetles,eats
+62550,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+62550,56097,Bibionidae,March Flies,eats
+62550,61267,Heteroptera,True Bugs,eats
+62550,47793,Dermaptera,Earwigs,eats
+62550,47119,Arachnida,Arachnids,eats
+62550,81769,Blattodea,Cockroaches and Termites,eats
+62550,51225,Tipulidae,Large Crane Flies,eats
+62550,47961,Cerambycidae,Longhorn Beetles,eats
+62550,47115,Mollusca,Molluscs,eats
+62550,47126,Plantae,plants,eats
+62550,,Miconia affinis,,eats
+62550,,Clidemia,,eats
+62550,,Conostegia subcrustulata,,eats
+62550,,Euchelicerata,,eats
+62550,,Blattoidea,,eats
+62550,,Cyphomyrmex rimosus,,eats
+62550,,Cucumis,,eats
+62550,91114,Planorbis,,eats
+62550,,Subulina,,eats
+62550,,Euscepes porcellus,,eats
+62550,48887,Miconia,,eats
+62550,,Wasmannia auropunctata,,eats
+62550,,Eleutherodactylus,,eats
+62550,,Ichnanthus pallens,,eats
+62550,,Hypoxis,,eats
+62550,,Archips fumiferana,,eats
+62550,54944,Fulgoridae,Lanternbugs,eats
+62550,,Eleutherodactylus coqui,,eats
+62550,22423,Eleutherodactylus richmondi,Ground Coqui,eats
+62550,22411,Eleutherodactylus portoricensis,Forest Coqui,eats
+62550,,Eleutherodactylus wightmanae,,eats
+62550,22620,Eleutherodactylus eneidae,Mottled Coqui,eats
+62550,,Stylomatophora,,eats
+62550,22619,Eleutherodactylus hedricki,Tree-hole Coqui,eats
+62550,49059,Phasmatidae,,eats
+62550,,Miconia lacera,,eats
+62550,,Miconia argentea,,eats
+62550,,Miconia minutiflora,,eats
+62550,,Miconia impetiolaris,,eats
+62550,,Siparuna grandiflora,,eats
+62550,,Dendropanax arboreus,,eats
+62550,,Miconia approximata,,eats
+62550,,Pinzona coriacea,,eats
+62550,,Urera baccifera,,eats
+62550,,Bertiera angustifolia,,eats
+62550,51600,Psychotria,wild coffees,eats
+62550,,Clibadium surinamense,,eats
+62550,,Vitex cooperi,,eats
+62550,,Neea psychotrioides,,eats
+62550,,Sabicea villosa,,eats
+62550,,Psychotria cyanococca,,eats
+62550,,Heliconia wagneriana,,eats
+62550,,Psychotria grandistipulata,,eats
+62550,,Hamelia patens,,eats
+62550,133455,Alchornea,,eats
+62550,927567,Drymonia pilifera,,eats
+62550,,Psychotria brachiata,,eats
+62550,,Psychotria elata,,eats
+62550,,Clusia palmana,,eats
+62550,,Clidemia crenulata,,eats
+62550,,Passiflora auriculata,,eats
+62550,,Miconia barbinervis,,eats
+62550,,Miconia prasina,,eats
+62550,,Phytolacca rivinoides,,eats
+62550,,Ardisia auriculata,,eats
+62550,,Besleria columneoides,,eats
+62550,,Clidemia dentata,,eats
+62550,,Conostegia bracteata,,eats
+62550,47822,Diptera,Flies,eatenBy
+62550,54960,Nematoda,Nematodes,eatenBy
+62550,144455,Ardea alba,Great Egret,eatenBy
+62550,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+62550,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+62550,20307,Asio otus,Long-eared Owl,eatenBy

@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49194,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+49194,48548,Vanessa cardui,Painted Lady,eatenBy
+49194,1102259,Copestylum violaceum,,eatenBy
+49194,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+49194,48662,Danaus plexippus,Monarch,eatenBy
+49194,6317,Calypte anna,Anna's Hummingbird,eatenBy
+49194,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+49194,55626,Pieris rapae,Cabbage White,eatenBy
+49194,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+49194,49348,Hyles lineata,White-lined Sphinx,eatenBy
+49194,194331,Phyciodes pallescens,Mexican Crescent,pollinatedBy

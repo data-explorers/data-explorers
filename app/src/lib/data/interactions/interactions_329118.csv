@@ -1,0 +1,168 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+329118,67334,Cyanobacteria,cyanobacteria,eats
+329118,,Prymnesiophyceae,,eats
+329118,,Pyrrophycophyta,,eats
+329118,,Khakista,,eats
+329118,118624,Syngnathus acus,Greater Pipefish,eatenBy
+329118,55535,Sardinops sagax,Pacific Sardine,eatenBy
+329118,324532,Sprattus sprattus,European Sprat,eatenBy
+329118,51910,Engraulis encrasicolus,European Anchovy,eatenBy
+329118,126917,Rotifera,Rotifers,preysOn
+329118,329118,Sapphirina,,preysOn
+329118,118996,Ciliophora,Ciliates,preysOn
+329118,201726,Corycaeus speciosus,,preysOn
+329118,,Corycaeus amazonicus,,preysOn
+329118,,Metridia princeps,,preysOn
+329118,203467,Temora longicornis,,preysOn
+329118,87923,Diaptomus,,preysOn
+329118,,Coullana canadensis,,preysOn
+329118,329109,Oncaea,,preysOn
+329118,219884,Eurytemora affinis,,preysOn
+329118,329024,Rhincalanus nasutus,,preysOn
+329118,567473,Tortanus discaudatus,,preysOn
+329118,295156,Acetes americanus,Aviu shrimp,preysOn
+329118,,Ectinosoma compressum,,preysOn
+329118,219709,Eucyclops agilis,,preysOn
+329118,212213,Acanthocyclops vernalis,,preysOn
+329118,,Harpacticus gracilis,,preysOn
+329118,,Zausodes arenicolus,,preysOn
+329118,567474,Acartia hudsonica,,preysOn
+329118,,Diosaccus tenuicornis,,preysOn
+329118,,Alteutha depressa,,preysOn
+329118,339089,Ergasilus,,preysOn
+329118,,Pontella meadi,,preysOn
+329118,1196588,Corycaeus crassiusculus,,preysOn
+329118,950701,Eurytemora americana,,preysOn
+329118,1023066,Labidocera aestiva,,preysOn
+329118,,Harpacticus chelifer,,preysOn
+329118,493544,Diacyclops thomasi,,preysOn
+329118,1349347,Tisbe furcata,,preysOn
+329118,,Clytemnestra rostrata,,preysOn
+329118,,Saphirella,,preysOn
+329118,984283,Euterpina acutifrons,,preysOn
+329118,,Ectocyclops phaleratus,,preysOn
+329118,203387,Mesocyclops edax,,preysOn
+329118,,Farranula gracilis,,preysOn
+329118,201760,Nannocalanus,,preysOn
+329118,,Pararobertsonia chesapeakensis,,preysOn
+329118,,Subeucalanus pileatus,,preysOn
+329118,329012,Centropages furcatus,,preysOn
+329118,201774,Paracalanus,,preysOn
+329118,983551,Oithona colcarva,,preysOn
+329118,,Labidocera wollastoni,,preysOn
+329118,203471,Centropages hamatus,,preysOn
+329118,,Macrocyclops,,preysOn
+329118,,Metis,,preysOn
+329118,,Cyclops vernalis,,preysOn
+329118,984261,Temora turbinata,,preysOn
+329118,,Halicyclops magniceps,,preysOn
+329118,329131,Caligus,,preysOn
+329118,,Leptinogaster major,,preysOn
+329118,,Paralaophonte brevirostris,,preysOn
+329118,201724,Temora stylifera,,preysOn
+329118,,Paracyclops fibriatus,,preysOn
+329118,,Pontella meadii,,preysOn
+329118,218302,Diacyclops bicuspidatus,,preysOn
+329118,,Paracalanus crassirostris,,preysOn
+329118,203397,Acartia tonsa,,preysOn
+329118,,Pseudodiaptomus coronatus,,preysOn
+329118,329118,Sapphirina,,preyedUponBy
+329118,48328,Aurelia aurita,Moon Jelly,preyedUponBy
+329118,125343,Crepidula fornicata,Common Atlantic Slippersnail,preyedUponBy
+329118,101053,Fundulus diaphanus,banded killifish,preyedUponBy
+329118,48478,Chrysaora quinquecirrha,Atlantic Sea Nettle,preyedUponBy
+329118,87923,Diaptomus,,preyedUponBy
+329118,,Subeucalanus pileatus,,preyedUponBy
+329118,,Pontella meadii,,preyedUponBy
+329118,1023066,Labidocera aestiva,,preyedUponBy
+329118,,Palaemonetes pugio,,preyedUponBy
+329118,950701,Eurytemora americana,,preyedUponBy
+329118,201760,Nannocalanus,,preyedUponBy
+329118,201774,Paracalanus,,preyedUponBy
+329118,203471,Centropages hamatus,,preyedUponBy
+329118,,Paracalanus crassirostris,,preyedUponBy
+329118,,Alteutha depressa,,preyedUponBy
+329118,201724,Temora stylifera,,preyedUponBy
+329118,,Harpacticus chelifer,,preyedUponBy
+329118,,Labidocera wollastoni,,preyedUponBy
+329118,219884,Eurytemora affinis,,preyedUponBy
+329118,,Haminoea solitaria,,preyedUponBy
+329118,,Paracyclops fibriatus,,preyedUponBy
+329118,329109,Oncaea,,preyedUponBy
+329118,,Saphirella,,preyedUponBy
+329118,,Pseudodiaptomus coronatus,,preyedUponBy
+329118,,Epitonium rupicola,,preyedUponBy
+329118,1196588,Corycaeus crassiusculus,,preyedUponBy
+329118,,Retusa,,preyedUponBy
+329118,,Pararobertsonia chesapeakensis,,preyedUponBy
+329118,,Metridia princeps,,preyedUponBy
+329118,,Coullana canadensis,,preyedUponBy
+329118,55297,Clione limacina,Naked Sea Butterfly,preyedUponBy
+329118,212213,Acanthocyclops vernalis,,preyedUponBy
+329118,,Palaemonetes intermedius,,preyedUponBy
+329118,201726,Corycaeus speciosus,,preyedUponBy
+329118,,Macrocyclops,,preyedUponBy
+329118,1349347,Tisbe furcata,,preyedUponBy
+329118,329012,Centropages furcatus,,preyedUponBy
+329118,,Corycaeus amazonicus,,preyedUponBy
+329118,,Cyclops vernalis,,preyedUponBy
+329118,,Pontella meadi,,preyedUponBy
+329118,567473,Tortanus discaudatus,,preyedUponBy
+329118,493544,Diacyclops thomasi,,preyedUponBy
+329118,984261,Temora turbinata,,preyedUponBy
+329118,,Clytemnestra rostrata,,preyedUponBy
+329118,567474,Acartia hudsonica,,preyedUponBy
+329118,983551,Oithona colcarva,,preyedUponBy
+329118,,Harpacticus gracilis,,preyedUponBy
+329118,1023036,Heteromysis formosa,,preyedUponBy
+329118,248413,Bowmaniella,,preyedUponBy
+329118,345356,Limacina helicina,Helicid Pteropod,preyedUponBy
+329118,248417,Metamysidopsis,,preyedUponBy
+329118,,Diosaccus tenuicornis,,preyedUponBy
+329118,905575,Americamysis bigelowi,,preyedUponBy
+329118,219709,Eucyclops agilis,,preyedUponBy
+329118,253748,Japonactaeon punctostriatus,,preyedUponBy
+329118,203397,Acartia tonsa,,preyedUponBy
+329118,,Ectocyclops phaleratus,,preyedUponBy
+329118,,Halicyclops magniceps,,preyedUponBy
+329118,339089,Ergasilus,,preyedUponBy
+329118,100515,Etheostoma olmstedi,Tessellated Darter,preyedUponBy
+329118,329024,Rhincalanus nasutus,,preyedUponBy
+329118,,Ectinosoma compressum,,preyedUponBy
+329118,100359,Erimyzon oblongus,Eastern Creek Chubsucker,preyedUponBy
+329118,,Farranula gracilis,,preyedUponBy
+329118,179427,Aluterus schoepfii,Orange Filefish,preyedUponBy
+329118,975982,Neomysis americana,,preyedUponBy
+329118,,Zausodes arenicolus,,preyedUponBy
+329118,203387,Mesocyclops edax,,preyedUponBy
+329118,329131,Caligus,,preyedUponBy
+329118,907526,Edwardsia elegans,,preyedUponBy
+329118,99544,Dorosoma cepedianum,American Gizzard Shad,preyedUponBy
+329118,49237,Alosa,Anadromous Shads,preyedUponBy
+329118,218302,Diacyclops bicuspidatus,,preyedUponBy
+329118,203467,Temora longicornis,,preyedUponBy
+329118,105565,Membras martinica,Rough silverside,preyedUponBy
+329118,56043,Stenotomus chrysops,Scup,preyedUponBy
+329118,51371,Pseudopleuronectes americanus,Winter Flounder,preyedUponBy
+329118,105567,Menidia beryllina,Inland Silverside,preyedUponBy
+329118,58618,Luxilus cornutus,Common Shiner,preyedUponBy
+329118,54540,Hippocampus erectus,Northern Seahorse,preyedUponBy
+329118,84432,Morone americana,White Perch,preyedUponBy
+329118,69840,Scomber japonicus,Pacific Chub Mackerel,preyedUponBy
+329118,51404,Trichiurus lepturus,Largehead Hairtail,preyedUponBy
+329118,58609,Lepisosteus osseus,Longnose Gar,preyedUponBy
+329118,146600,Micropogonias undulatus,Atlantic Croaker,preyedUponBy
+329118,179598,Eucinostomus gula,Silver Jenny,preyedUponBy
+329118,96911,Centrarchus macropterus,Flier,preyedUponBy
+329118,61388,Scophthalmus aquosus,Windowpane Flounder,preyedUponBy
+329118,51392,Morone saxatilis,Striped Bass,preyedUponBy
+329118,50984,Pomatomus saltatrix,Bluefish,preyedUponBy
+329118,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+329118,179464,Symphurus plagiusa,Blackcheek Tonguefish,preyedUponBy
+329118,104824,Lucania parva,rainwater killifish,preyedUponBy
+329118,146829,Anchoa hepsetus,Striped Anchovy,preyedUponBy
+329118,113308,Strongylura marina,Atlantic Needlefish,preyedUponBy
+329118,99992,Enneacanthus gloriosus,Blue-spotted Sunfish,preyedUponBy
+329118,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+329118,49243,Alosa sapidissima,American shad,preyedUponBy
+329118,106222,Mugil cephalus,Sea Mullet,preyedUponBy

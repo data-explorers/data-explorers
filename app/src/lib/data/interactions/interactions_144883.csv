@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144883,47120,Arthropoda,Arthropods,eats
+144883,47822,Diptera,Flies,eats
+144883,47208,Coleoptera,Beetles,eats
+144883,51225,Tipulidae,Large Crane Flies,eats
+144883,49567,Carabidae,Ground Beetles,eats
+144883,47336,Formicidae,Ants,eats
+144883,47367,Opiliones,Harvestmen,eats
+144883,53248,Elateridae,Click Beetles,eats
+144883,47742,Pentatomidae,Stink Bugs,eats
+144883,47345,Agelenidae,Funnel Weavers,eats
+144883,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+144883,47118,Araneae,Spiders,eats
+144883,82067,Melyridae,Soft-winged Flower Beetles,eats
+144883,48486,Coccinellidae,Lady Beetles,eats
+144883,47119,Arachnida,Arachnids,eats
+144883,211194,Tracheophyta,vascular plants,eats
+144883,132036,Phalacridae,Shining Flower Beetles,eats
+144883,52932,Cantharidae,Soldier Beetles,eats
+144883,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+144883,53506,Tingidae,Lace Bugs,eats
+144883,48670,Noctuidae,Cutworm Moths and Allies,eats
+144883,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+144883,48139,Salticidae,Jumping Spiders,eats
+144883,49556,Chilopoda,Centipedes,eats
+144883,48736,Curculionidae,True Weevils,eats
+144883,47735,Diplopoda,Millipedes,eats
+144883,47951,Staphylinidae,Rove Beetles,eats
+144883,47114,Gastropoda,Gastropods,eats
+144883,47961,Cerambycidae,Longhorn Beetles,eats
+144883,47199,Ichneumonidae,Ichneumonid Wasps,eats
+144883,47157,Lepidoptera,Butterflies and Moths,eats
+144883,55351,Phoridae,Humpbacked Flies,eats
+144883,47158,Insecta,Insects,eats
+144883,,Archips fumiferana,,eats
+144883,,Pseudoscorpiones,,eats
+144883,,Julida,,eats
+144883,,Sminthuridae,,eats
+144883,,Byrrhidae,,eats
+144883,,Scelionidae,,eats
+144883,,Chordeumatida,,eats
+144883,,Hypogastruridae,,eats
+144883,13632,Baeolophus bicolor,Tufted Titmouse,preyedUponBy

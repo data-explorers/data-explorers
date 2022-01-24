@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53269,47219,Apis mellifera,Western Honey Bee,eatenBy
+53269,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+53269,58532,Colias eurytheme,Orange Sulphur,eatenBy
+53269,52381,Aphididae,Aphids,eatenBy
+53269,55626,Pieris rapae,Cabbage White,eatenBy
+53269,1409,Callipepla californica,California Quail,eatenBy
+53269,9100,Melospiza melodia,Song Sparrow,eatenBy
+53269,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+53269,,Xenaleyrodes eucalypti,,eatenBy
+53269,,Nysius vinitor,,eatenBy
+53269,,Hyperomyzus,,eatenBy
+53269,,Aleyrodes proletella,,eatenBy
+53269,,Celypha rosaceana,,eatenBy
+53269,,Spodoptera eridania,,eatenBy
+53269,,Myzus persicae,,eatenBy
+53269,43354,Tapirus pinchaque,Mountain Tapir,eatenBy
+53269,,Macrosiphum euphorbiae,,eatenBy
+53269,,Megachile amparo,,eatenBy
+53269,,Bombus pauloensis,,eatenBy
+53269,,Thrips tabaci,,eatenBy
+53269,,Agrotis ipsilon,,eatenBy
+53269,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+53269,,Trupanea amoena,,eatenBy
+53269,,Ensina sonchi,,eatenBy
+53269,,Hyperomyzus (Hyperomyzus) lactucae,,eatenBy
+53269,,Diplodina sonchi,,eatenBy
+53269,,Phytomyza syngenesiae,,eatenBy
+53269,,Uroleucon sonchi,,eatenBy
+53269,556183,Carduelis carduelis britannica,British Goldfinch,eatenBy
+53269,18920,Platycercus eximius,Eastern Rosella,eatenBy
+53269,,Golovinomyces sonchicola,,eatenBy
+53269,,Episyrphus balteatus,,eatenBy
+53269,,Zonotrichia leucophrys,,eatenBy
+53269,,Astylus quadrilineatus,,pollinatedBy
+53269,1106668,Xylocopa ciliata,,pollinatedBy
+53269,,Xylocopa darwini,,pollinatedBy

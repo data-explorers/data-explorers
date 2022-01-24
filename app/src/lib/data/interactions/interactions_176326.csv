@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+176326,17355,Vireo,Vireos,eatenBy
+176326,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+176326,17356,Vireo bellii,Bell's Vireo,eatenBy
+176326,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+176326,17394,Vireo gilvus,Warbling Vireo,eatenBy
+176326,,Vireo flavifrons,,eatenBy
+176326,17408,Vireo griseus,White-eyed Vireo,eatenBy

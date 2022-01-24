@@ -1,0 +1,106 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+21359,123837,Megaselia,,eatenBy
+21359,47257,Acanthocybium solandri,Wahoo,eatenBy
+21359,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eatenBy
+21359,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+21359,,Pheidole,,eatenBy
+21359,,Euxesta,,eatenBy
+21359,,Leptocera,,eatenBy
+21359,,Fannia,,eatenBy
+21359,,http://treatment.plazi.org/id/F2F13FBC4371352E23BF4B93A3E32D3A,,eatenBy
+21359,,Eumacronychia sternalis,,eatenBy
+21359,,Atherigena orientalis,,eatenBy
+21359,,Hemilucilia flavifacies,,eatenBy
+21359,,Ectatomma ruidum,,eatenBy
+21359,449255,Helicobia,,eatenBy
+21359,,Cyrtoneurina conspersa,,eatenBy
+21359,,Eurysternus plebejus,,eatenBy
+21359,,Eurysternus caribaeus,,eatenBy
+21359,,Onthophagus praecellens,,eatenBy
+21359,,Monomorium carbonarium,,eatenBy
+21359,,Pseudomyrmex,,eatenBy
+21359,329514,Dermestes carnivorus,,eatenBy
+21359,700122,Lucilia eximia,,eatenBy
+21359,,Helicobia rapax,,eatenBy
+21359,245045,Acaridae,Stored Products Mites,eatenBy
+21359,,Cyrtoneurina gemina,,eatenBy
+21359,,Sphaerocera,,eatenBy
+21359,,Camponotus rectangularis,,eatenBy
+21359,,Coilodes,,eatenBy
+21359,,Solenopsis geminata,,eatenBy
+21359,,Chrysotus,,eatenBy
+21359,,Camponotus atriceps,,eatenBy
+21359,1348035,Epiplatea hondurana,,eatenBy
+21359,,Phocoscelus arthriticus,,eatenBy
+21359,,Deltochilum lobipes,,eatenBy
+21359,,Pachycondyla,,eatenBy
+21359,,Eurysternus,,eatenBy
+21359,,Odontomachus haematodus,,eatenBy
+21359,,Glyphidops flavifrons,,eatenBy
+21359,,Graphomya,,eatenBy
+21359,251067,Anaides,,eatenBy
+21359,,Eulotus,,eatenBy
+21359,,G. sp. larvae,,eatenBy
+21359,,H. repax larvae,,eatenBy
+21359,,C.,,eatenBy
+21359,,H. flavifacies larvae,,eatenBy
+21359,,acarid (unspecified),,eatenBy
+21359,,Hemichroa,,eatenBy
+21359,,E. caludicans,,eatenBy
+21359,,Eximia,,eatenBy
+21359,,Procapra gutturosa,,eatenBy
+21359,,E. sternalis larvae,,eatenBy
+21359,176404,Euspilotus,,eatenBy
+21359,,Plebejus,,eatenBy
+21359,63718,Albula vulpes,Bonefish,eatenBy
+21359,47229,Selar crumenophthalmus,Bigeye Scad,eatenBy
+21359,28371,Thamnophis sirtalis fitchi,Valley Garter Snake,eatenBy
+21359,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+21359,5017,Bubulcus ibis,Cattle Egret,eatenBy
+21359,4937,Egretta caerulea,Little Blue Heron,eatenBy
+21359,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+21359,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+21359,,Liophis poecilogyrus,,preyedUponBy
+21359,29976,Helicops angulatus,Mountain Keelback,preyedUponBy
+21359,,Erythrolamprus poecilogyrus,,preyedUponBy
+21359,82808,Crotaphopeltis hotamboeia,Red-lipped Snake,preyedUponBy
+21359,30652,Hemachatus haemachatus,Rinkhals,preyedUponBy
+21359,30820,Causus rhombeatus,Rhombic Night Adder,preyedUponBy
+21359,29353,Natriciteres variegata,Variable Marsh Snake,preyedUponBy
+21359,96895,Causus maculatus,Spotted Night Adder,preyedUponBy
+21359,29358,Natriciteres fuliginoides,Marsh Snake,preyedUponBy
+21359,,Liophis typhlus,,preyedUponBy
+21359,30487,Naja nivea,Cape Cobra,preyedUponBy
+21359,30819,Causus resimus,Green Night Adder,preyedUponBy
+21359,30488,Naja mossambica,Mozambique Spitting Cobra,preyedUponBy
+21359,,Dipsadoboa duchesnei,,preyedUponBy
+21359,104905,Lygophis anomalus,Gunther´s Striped Snake,preyedUponBy
+21359,29832,Amphiesma stolatum,Buff Striped Keelback,preyedUponBy
+21359,28876,Psomophis genimaculatus,Spirit Diminutive Snake,preyedUponBy
+21359,29975,Helicops leopardinus,Leopard Keelback,preyedUponBy
+21359,109305,Philothamnus irregularis,Common Bush Snake,preyedUponBy
+21359,29229,Oligodon purpurascens,Brown Kukri Snake,preyedUponBy
+21359,30442,Bungarus multicinctus,Many-banded Krait,preyedUponBy
+21359,30464,Aspidelaps lubricus,Cape Coral Snake,preyedUponBy
+21359,,Gonionotophis crossi,,preyedUponBy
+21359,30823,Causus lichtensteinii,Forest Night Adder,preyedUponBy
+21359,31079,Echis carinatus,Saw-scaled Viper,preyedUponBy
+21359,106446,Naja annulifera,Snouted Cobra,preyedUponBy
+21359,30851,Bitis arietans,Puff Adder,preyedUponBy
+21359,539770,Hebius beddomei,Nilgiri keelback,preyedUponBy
+21359,28334,Thelotornis capensis,Twig Snake,preyedUponBy
+21359,99383,Dipsadoboa unicolor,Günther's Green Tree Snake,preyedUponBy
+21359,28827,Rhabdophis subminiatus,Red-necked Keelback,preyedUponBy
+21359,116118,Rhabdophis subminiatus subminiatus,,preyedUponBy
+21359,,Gonionotophis capensis,,preyedUponBy
+21359,,Boaedon fuliginosus fuliginosus,,preyedUponBy
+21359,,Xenochrophis piscator,,preyedUponBy
+21359,30476,Naja nigricollis,Black-necked Spitting Cobra,preyedUponBy
+21359,,Ptyas mucosa,,preyedUponBy
+21359,,Macropisthodon rudis,,preyedUponBy
+21359,28285,Tretanorhinus nigroluteus,Orangebelly Swamp Snake,preyedUponBy
+21359,32150,Python molurus,Indian Python,preyedUponBy
+21359,,Philothamnus angolensis,,preyedUponBy
+21359,28829,Rhabdophis tigrinus,Tiger Keelback,preyedUponBy
+21359,30408,Dendroaspis jamesoni,Jameson's Mamba,preyedUponBy
+21359,5017,Bubulcus ibis,Cattle Egret,preyedUponBy

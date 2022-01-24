@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44082,41976,Lynx rufus,Bobcat,eatenBy
+44082,20445,Tyto alba,Barn Owl,eatenBy
+44082,30748,Crotalus enyo,Lower California Rattlesnake,preyedUponBy
+44082,30743,Crotalus lepidus klauberi,Banded Rock Rattlesnake,preyedUponBy
+44082,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+44082,30751,Crotalus cerastes,Sidewinder,preyedUponBy

@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+296032,,Phytoplankton,,eats
+296032,187047,Allothunnus fallai,Slender tuna,eatenBy
+296032,459652,Pasiphaea multidentata,Pink Glass Shrimp,eatenBy
+296032,432457,Illex argentinus,Argentine Shortfin Squid,eatenBy
+296032,530438,Gymnoscopelus microlampas,Minispotted Lanternfish,eatenBy
+296032,317153,Hygophum hygomii,Hygom's Lanternfish,eatenBy
+296032,530452,Protomyctophum normani,Norman's Lanternfish,eatenBy
+296032,110696,Protomyctophum luciferum,,eatenBy
+296032,617817,Protomyctophum andriashevi,,eatenBy
+296032,617819,Protomyctophum bolini,,eatenBy
+296032,103965,Lampadena pontifex,,eatenBy
+296032,617789,Gymnoscopelus opisthopterus,,eatenBy
+296032,617821,Protomyctophum choriodon,,eatenBy
+296032,120608,Gadiculus argenteus,Silvery Pout,eatenBy
+296032,530446,Metelectrona herwigi,Herwig Lanternfish,eatenBy
+296032,530457,Symbolophorus boops,Spotfin Lanternfish,eatenBy
+296032,317036,Ceratoscopelus warmingii,Warming's Lanternfish,eatenBy
+296032,317453,Xenodermichthys copei,Bluntsnout Slickhead,eatenBy
+296032,530442,Lampanyctodes hectoris,Hector's Lanternfish,eatenBy
+296032,114273,Trachurus murphyi,Peruvian Jack Mackerel,eatenBy
+296032,120636,Hymenocephalus italicus,Glasshead grenadier,eatenBy
+296032,511413,Cyttus traversi,King Dory,eatenBy
+296032,459325,Maurolicus muelleri,Pearlside,eatenBy
+296032,100597,Etmopterus spinax,Velvet Belly Lantern Shark,eatenBy
+296032,194867,Diogenichthys atlanticus,Atlantic Lanternfish,eatenBy
+296032,530440,Hygophum hanseni,Hansen's Lanternfish,eatenBy
+296032,103722,Krefftichthys anderssoni,,eatenBy
+296032,617783,Electrona antarctica,,eatenBy
+296032,317181,Lampanyctus alatus,Winged Lanternfish,eatenBy
+296032,459373,Diaphus luetkeni,Luetken's Lanternfish,eatenBy
+296032,459279,Lampanyctus pusillus,Pygmy Lanternfish,eatenBy
+296032,530433,Electrona carlsbergi,Carlsberg's Lanternfish,eatenBy
+296032,530443,Lampanyctus australis,Austral Lanternfish,eatenBy
+296032,530421,Diaphus hudsoni,Hudson's Lanternfish,eatenBy
+296032,530435,Electrona subaspera,Rough Lanternfish,eatenBy
+296032,120683,Lobianchia dofleini,Doflein's Lanternfish,eatenBy
+296032,317001,Benthosema suborbitale,Dimple Lanternfish,eatenBy
+296032,530434,Electrona paucirastra,Belted Lanternfish,eatenBy
+296032,120700,Diaphus meadi,Mead's Lanternfish,eatenBy
+296032,530456,Symbolophorus barnardi,Barnard's Lanternfish,eatenBy
+296032,459365,Diaphus effulgens,Headlight Lanternfish,eatenBy
+296032,530455,Scopelopsis multipunctatus,Multispot Lanternfish,eatenBy
+296032,226037,Notoscopelus resplendens,Patchwork Lanternfish,eatenBy
+296032,459369,Diaphus taaningi,,eatenBy
+296032,617785,Gymnoscopelus bolini,,eatenBy
+296032,617788,Gymnoscopelus nicholsi,,eatenBy
+296032,187047,Allothunnus fallai,Slender tuna,preyedUponBy
+296032,120636,Hymenocephalus italicus,Glasshead grenadier,preyedUponBy
+296032,114273,Trachurus murphyi,Peruvian Jack Mackerel,preyedUponBy
+296032,317453,Xenodermichthys copei,Bluntsnout Slickhead,preyedUponBy
+296032,317036,Ceratoscopelus warmingii,Warming's Lanternfish,preyedUponBy
+296032,530457,Symbolophorus boops,Spotfin Lanternfish,preyedUponBy
+296032,530446,Metelectrona herwigi,Herwig Lanternfish,preyedUponBy
+296032,432457,Illex argentinus,Argentine Shortfin Squid,preyedUponBy
+296032,120608,Gadiculus argenteus,Silvery Pout,preyedUponBy

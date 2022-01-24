@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48969,53248,Elateridae,Click Beetles,eatenBy
+48969,47219,Apis mellifera,Western Honey Bee,eatenBy
+48969,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+48969,252448,Caenohalictus,,eatenBy
+48969,52775,Bombus,Bumble Bees,eatenBy
+48969,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+48969,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+48969,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+48969,,Falseuncaria ruficiliana,,eatenBy
+48969,,Cochylis roseana,,eatenBy
+48969,51566,Junonia orithya,Blue Pansy,eatenBy
+48969,,Mellicta deione,,eatenBy
+48969,51654,Junonia almana,Peacock Pansy,eatenBy
+48969,,Stenoptilodes taprobanes,,eatenBy
+48969,197079,Junonia villida,Meadow Argus,eatenBy
+48969,,Xestia baja,,eatenBy
+48969,,Acompsia tripunctella,,eatenBy
+48969,1040836,Junonia evarete,South American Tropical Buckeye,eatenBy
+48969,48505,Junonia coenia,Common Buckeye,eatenBy
+48969,,Argyreus hyperbius,,eatenBy
+48969,,Myzus persicae,,eatenBy
+48969,,Copitarsia decolora,,eatenBy
+48969,,Brachypterolus antirrhini,,eatenBy
+48969,,Brachypterolus vestitus,,eatenBy
+48969,382580,Heteropatella antirrhini,,eatenBy
+48969,,Chrysolina intermedia,,eatenBy
+48969,,Chrysolina sanguinolenta,,eatenBy
+48969,,Septoria antirrhini,,eatenBy
+48969,,Pachyprotasis rapae,,eatenBy
+48969,,Athalia cordata,,eatenBy
+48969,62453,Anthidium manicatum,European Woolcarder Bee,eatenBy
+48969,47220,Apis,Honey Bees,pollinatedBy
+48969,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

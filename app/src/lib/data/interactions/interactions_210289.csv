@@ -1,0 +1,106 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+210289,,no name,,eats
+210289,,Phytoplankton,,eats
+210289,,Zooplankton,,eats
+210289,,plankton,,eats
+210289,39657,Cheloniidae,Typical Sea Turtles,eatenBy
+210289,47114,Gastropoda,Gastropods,eatenBy
+210289,121639,Brachyura,True Crabs,eatenBy
+210289,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+210289,195901,Heliaster,,eatenBy
+210289,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+210289,48834,Pisaster,Giant Sea Stars,eatenBy
+210289,49699,Pisaster ochraceus,Ochre Sea Star,eatenBy
+210289,47827,Cancer,,eatenBy
+210289,94130,Anisotremus davidsonii,Sargo,eatenBy
+210289,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+210289,132473,Lagodon rhomboides,Pinfish,eatenBy
+210289,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+210289,99269,Dicentrarchus labrax,European Seabass,eatenBy
+210289,51659,Anthopleura xanthogrammica,Giant Green Anemone,eatenBy
+210289,49402,Abudefduf saxatilis,Atlantic Sergeant Major,eatenBy
+210289,47428,Neoloricata,Neoloricate Chitons,eatenBy
+210289,226272,Ogcocephalus nasutus,Shortnose batfish,eatenBy
+210289,49432,Lachnolaimus maximus,Hogfish,eatenBy
+210289,130054,Haemulon carbonarium,Caesar Grunt,eatenBy
+210289,94800,Atherinomorus stipes,Hardhead Silverside,eatenBy
+210289,482966,Acanthocyclus,,eatenBy
+210289,,Concholepas concholepas,,eatenBy
+210289,255868,Heliaster helianthus,South American Multiradiate Sun Star,eatenBy
+210289,505078,Sicyases sanguineus,,eatenBy
+210289,362107,Crassilabrum crassilabrum,,eatenBy
+210289,67632,Acanthina,,eatenBy
+210289,475462,Vasula melones,Gourd Rock Snail,eatenBy
+210289,,Thais triangularis,,eatenBy
+210289,,Purpura,,eatenBy
+210289,246747,Opeatostoma,,eatenBy
+210289,337278,Emplectonema,,eatenBy
+210289,,Leptasterias,,eatenBy
+210289,292601,Stramonita canaliculata,Hays' Rocksnail,eatenBy
+210289,47674,Pycnopodia,,eatenBy
+210289,,Searlesia,,eatenBy
+210289,371067,Nucella lima,File Dog Winkle,eatenBy
+210289,193907,Thais,,eatenBy
+210289,210219,Necora puber,Velvet Swimming Crab,eatenBy
+210289,4146,Oceanites oceanicus,Wilson's Storm-Petrel,eatenBy
+210289,618319,Patagonotothen guntheri,Yellowfin Notothen,eatenBy
+210289,,Lythrypnus zebra,,eatenBy
+210289,104964,Lythrypnus dalli,blue-banded Goby,eatenBy
+210289,342285,Lipophrys trigloides,,eatenBy
+210289,120708,Scartella cristata,Molly Miller,eatenBy
+210289,338049,Parablennius pilicornis,Ringneck Blenny,eatenBy
+210289,118624,Syngnathus acus,Greater Pipefish,eatenBy
+210289,147118,Eucinostomus melanopterus,Flagfin mojarra,eatenBy
+210289,99979,Engraulis ringens,Peruvian Anchoveta,eatenBy
+210289,228388,Pleurogrammus monopterygius,Atka Mackerel,eatenBy
+210289,118600,Sardina pilchardus,European Sardine,eatenBy
+210289,479865,Cheilodactylus variegatus,Peruvian morwong,eatenBy
+210289,224388,Malacocottus zonurus,Darkfin Sculpin,eatenBy
+210289,88813,Hemilepidotus,Irish Lords,eatenBy
+210289,130238,Ammodytes hexapterus,Arctic Sand Lance,eatenBy
+210289,324532,Sprattus sprattus,European Sprat,eatenBy
+210289,103911,Labrus bergylta,Ballan Wrasse,eatenBy
+210289,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+210289,213403,Ammodytes dubius,Northern Sand Lance,eatenBy
+210289,360950,Sparodon durbanensis,Musselcracker Seabream,eatenBy
+210289,245763,Rhabdosargus sarba,Tarwhine,eatenBy
+210289,317079,Diplodus holbrookii,Spottail Pinfish,eatenBy
+210289,123659,Decapterus punctatus,Cigar Minnow,eatenBy
+210289,,Selaroides leptolepis,,eatenBy
+210289,218966,Eleginus gracilis,Saffron Cod,eatenBy
+210289,179880,Chromis viridis,Blue-green Chromis,eatenBy
+210289,102059,Halichoeres melanurus,Pinstriped Wrasse,eatenBy
+210289,334965,Pomachromis richardsoni,Richardson's Damsel,eatenBy
+210289,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+210289,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+210289,53699,Semicossyphus pulcher,California sheephead,eatenBy
+210289,48833,Pisaster giganteus,Giant Sea Star,eatenBy
+210289,49539,Pisaster brevispinus,Giant Pink Sea Star,eatenBy
+210289,117555,Embiotoca lateralis,Striped surfperch,eatenBy
+210289,111616,Rhacochilus vacca,Pile surfperch,eatenBy
+210289,117554,Embiotoca jacksoni,Black surfperch,eatenBy
+210289,63382,Dermasterias imbricata,Leather Star,eatenBy
+210289,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+210289,63740,Gadus morhua,Atlantic Cod,eatenBy
+210289,179633,Chloroscombrus chrysurus,Atlantic Bumper,eatenBy
+210289,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+210289,94070,Anchoa mitchilli,Bay Anchovy,eatenBy
+210289,146829,Anchoa hepsetus,Striped Anchovy,eatenBy
+210289,179463,Stenotomus caprinus,Longspine porgy,eatenBy
+210289,,Anchoa cubana,,eatenBy
+210289,616982,Coelorinchus caribbaeus,,eatenBy
+210289,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+210289,179593,Fundulus similis,Longnose Killifish,eatenBy
+210289,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+210289,98945,Cyprinodon variegatus,Sheepshead Minnow,eatenBy
+210289,105567,Menidia beryllina,Inland Silverside,eatenBy
+210289,105565,Membras martinica,Rough silverside,eatenBy
+210289,49750,Archosargus probatocephalus,Sheepshead,eatenBy
+210289,82264,Chilomycterus schoepfii,Striped Burrfish,eatenBy
+210289,108614,Paranthias furcifer,Atlantic Creolefish,eatenBy
+210289,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+210289,49431,Orthopristis chrysoptera,Pigfish,eatenBy
+210289,51364,Brevoortia patronus,Gulf Menhaden,eatenBy
+210289,179519,Opisthonema oglinum,Atlantic Thread Herring,eatenBy
+210289,118599,Sardinella aurita,Round Sardinella,eatenBy
+210289,50766,Muricidae,Murex Snails,preyedUponBy

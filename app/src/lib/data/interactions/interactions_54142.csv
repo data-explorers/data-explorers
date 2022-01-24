@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54142,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+54142,906,Meleagris gallopavo,Wild Turkey,eatenBy
+54142,,Phomopsis albicans,,eatenBy
+54142,,Pygopleurus vulpes,,eatenBy
+54142,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy

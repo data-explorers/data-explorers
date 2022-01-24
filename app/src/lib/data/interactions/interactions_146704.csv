@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+146704,67706,Argiope argentata,Silver Garden Orbweaver,preysOn
+146704,533974,Crinocerus sanctus,,preysOn
+146704,,Schistocerca cancellata,,preysOn

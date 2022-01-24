@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+152870,4756,Cathartes aura,Turkey Vulture,eatenBy
+152870,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+152870,111451,Python natalensis,Southern African Python,eatenBy
+152870,41963,Panthera pardus,Leopard,preyedUponBy
+152870,42101,Cuon alpinus,Dhole,preyedUponBy

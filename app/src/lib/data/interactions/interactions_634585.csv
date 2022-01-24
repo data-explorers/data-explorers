@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+634585,122326,Salpida,Salps,eats
+634585,117709,Cydippida,Cydippids,eats
+634585,47178,Actinopterygii,Ray-finned Fishes,eats
+634585,485079,Oikopleuridae,,eats
+634585,85910,Myctophidae,Lanternfishes,eats
+634585,153112,Euphausiacea,krill,eats
+634585,121643,Copepoda,Copepods,eats
+634585,195418,Aeginidae,,eats
+634585,245317,Cranchiidae,Cranch Squids,eats
+634585,195427,Cuninidae,,eatenBy

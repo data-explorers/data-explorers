@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51935,247968,Hexatoma,,eats
+51935,,Aedes camptorhynchus,,eats
+51935,606827,Euander lacertosus,Strawberry Bug,eatenBy
+51935,,Buckleria,,eatenBy
+51935,,Buckleria paludum,,eatenBy
+51935,58753,Toxomerus,Calligrapher Flies,pollinatedBy
+51935,49995,Syrphidae,Hover Flies,pollinatedBy
+51935,47158,Insecta,Insects,preysOn
+51935,,Enallagma boreale,,preysOn

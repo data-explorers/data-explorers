@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+245713,49556,Chilopoda,Centipedes,eats
+245713,,Chromobacterium,,eats
+245713,,Bacillus/soil bacterium,,eats
+245713,,Sphingomonas,,eats
+245713,,Chromobacterium violaceum,,eats
+245713,,Flectobacillus,,eats
+245713,560379,Rhizobium rhizogenes,,eats
+245713,,Rhodoferax,,eats
+245713,,Eukaryote- yeast,,eats
+245713,,Pseudomonas,,eats
+245713,,Cytophagales,,eats
+245713,,Klebsiella,,eats
+245713,,Chryseobacterium,,eats
+245713,,Microbacterium,,eats
+245713,,Dileptis,,eatenBy
+245713,60395,Branchiopoda,Branchiopods,eatenBy
+245713,,Copepod unknown,,eatenBy
+245713,,Wyeomyia smithii,,eatenBy
+245713,,Fletcherimyia fletcheri,,eatenBy
+245713,,Acineta,,eatenBy

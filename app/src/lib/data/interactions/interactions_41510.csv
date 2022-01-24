@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41510,47459,Cephalopoda,Cephalopods,eats
+41510,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+41510,63770,Engraulis mordax,Northern Anchovy,preysOn
+41510,85910,Myctophidae,Lanternfishes,preysOn
+41510,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+41510,180029,Gadus macrocephalus,Pacific Cod,preysOn
+41510,53692,Oncorhynchus kisutch,Coho Salmon,preysOn
+41510,63742,Gadidae,Cods and Haddocks,preysOn
+41510,85949,Osmeridae,Smelts,preysOn
+41510,47522,Oncorhynchus,Pacific Salmons and Trouts,preysOn
+41510,165100,Mallotus villosus,Capelin,preysOn
+41510,117571,Clupea pallasii,Pacific herring,preysOn
+41510,51353,Anoplopoma fimbria,Sablefish,preysOn
+41510,69922,Oncorhynchus nerka,Sockeye Salmon,preysOn
+41510,107572,Oncorhynchus keta,Chum Salmon,preysOn
+41510,107570,Oncorhynchus gorbuscha,Pink Salmon,preysOn
+41510,614161,Gadus chalcogrammus,Alaska Pollock,preysOn
+41510,105599,Merluccius productus,Pacific Hake,preysOn
+41510,47525,Pleuronectidae,Righteye Flounders,preysOn
+41510,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+41510,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+41510,55535,Sardinops sagax,Pacific Sardine,preysOn
+41510,113994,Thaleichthys pacificus,Eulachon,preysOn
+41510,432389,Berryteuthis anonychus,Smallfin Armhook Squid,preysOn
+41510,194864,Myctophum nitidulum,Pearly-spotted Lanternfish,preysOn
+41510,87920,Diaphus,,preysOn
+41510,,Nannobrachium regale,,preysOn
+41510,226037,Notoscopelus resplendens,Patchwork Lanternfish,preysOn
+41510,87303,Ceratoscopelus,,preysOn
+41510,432422,Gonatopsis borealis,Boreopacific Armhook Squid,preysOn
+41510,92390,Tarletonbeania,,preysOn
+41510,92325,Symbolophorus,,preysOn
+41510,92219,Stenobrachius,,preysOn
+41510,317180,Lampadena urophaos,Tail-light Lanternfish,preysOn
+41510,617758,Diaphus gigas,,preysOn
+41510,337528,Gonatidae,Armhook Squids,preysOn
+41510,,Myctophum asperum,,preysOn
+41510,222155,Icichthys lockingtoni,Medusafish,preysOn
+41510,89327,Lampanyctus,,preysOn
+41510,90370,Notoscopelus,,preysOn
+41510,218322,Diaphus theta,California Headlightfish,preysOn
+41510,91362,Protomyctophum,,preysOn
+41510,337529,Gonatus,Gonate Squids,preysOn
+41510,103967,Lampanyctus jordani,Brokenline Lanternfish,preysOn
+41510,63691,Cololabis saira,Pacific Saury,preysOn
+41510,88988,Hygophum,,preysOn
+41510,,Onychoteuthis borealijaponicus,,preysOn
+41510,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+41510,47762,Sebastes,Rockfishes,preysOn
+41510,432791,Gonatopsis,,preysOn
+41510,232054,Symbolophorus californiensis,Bigfin Lanternfish,preysOn

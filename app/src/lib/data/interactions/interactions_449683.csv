@@ -1,0 +1,41 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+449683,2,Chordata,Chordates,eats
+449683,3,Aves,Birds,eats
+449683,,Sus scrofa domesticus,,eats
+449683,,Parkesia motacilla,,eatenBy
+449683,63319,Verbena stricta,hoary vervain,pollinates
+449683,55745,Trifolium repens,white clover,pollinates
+449683,51875,Trifolium pratense,red clover,pollinates
+449683,52899,Solanum carolinense,Carolina horsenettle,pollinates
+449683,56088,Robinia pseudoacacia,black locust,pollinates
+449683,48070,Sagittaria latifolia,broadleaf arrowhead,pollinates
+449683,47602,Taraxacum officinale,common dandelion,pollinates
+449683,53438,Rosa,roses,pollinates
+449683,49916,Sisyrinchium angustifolium,narrow-leaved blue-eyed grass,pollinates
+449683,53268,Maianthemum stellatum,star-flowered lily-of-the-valley,pollinates
+449683,67808,Solidago canadensis,Canada goldenrod,pollinates
+449683,130991,Tradescantia virginiana,Virginia spiderwort,pollinates
+449683,,Rubus villosus,,pollinates
+449683,,Scutellaria,,pollinates
+449683,168032,Rubus canadensis,Smooth Blackberry,pollinates
+449683,,Descurainia argentina,,pollinates
+449683,128841,Rosa setigera,climbing prairie rose,pollinates
+449683,,Stellaria longifolia,,pollinates
+449683,,Lysimachia lanceolata,,pollinates
+449683,,Uvularia grandiflora,,pollinates
+449683,,Steironema ciliatum,,pollinates
+449683,130364,Taenidia integerrima,yellow pimpernel,pollinates
+449683,,Strophostyles leiosperma,,pollinates
+449683,79488,Verbena bracteata,Bigbract Verbena,pollinates
+449683,,Salix longifolia,,pollinates
+449683,238329,Ruellia caroliniensis ciliosa,,pollinates
+449683,82819,Valerianella radiata,beaked cornsalad,pollinates
+449683,129652,Scutellaria parvula,small skullcap,pollinates
+449683,,Salix nigra,,pollinates
+449683,,Smilax hispida,,pollinates
+449683,,Rudbeckia subtomentosa,,pollinates
+449683,64293,Triodanis perfoliata,clasping Venus's looking glass,pollinates
+449683,,Stylosanthes biflora,,pollinates
+449683,130365,Sanicula marilandica,Maryland Black-snakeroot,pollinates
+449683,,Penstemon gracilis,,pollinates
+449683,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67720,58112,Atriplex,Saltbushes,eats
+67720,50641,Solanum,nightshades,eats
+67720,,Atriplex canescens,,eats
+67720,,Atriplex polycarpa,,eats
+67720,369256,Enchylaena tomentosa,Barrier Saltbush,eats
+67720,,Tecticornia arbuscula,,eats
+67720,,Solanum physalifolium,,eats
+67720,,Solanum excisirhombeum,,eats
+67720,,Sclerolaena diacantha,,eats
+67720,122711,Dodonaea viscosa,Varnishleaf,eats
+67720,,Anthocercis viscosa viscosa,,eats
+67720,75413,Ambrosia salsola,cheesebush,eats
+67720,250160,Conura,,eatenBy
+67720,,Rileya cecidomyiae,,eatenBy
+67720,,Torymus umbilicatus,,eatenBy
+67720,,Torymus capillaceus,,eatenBy
+67720,,Galeopsomyia,,eatenBy
+67720,,Phyllobaenus atriplexus,,eatenBy
+67720,377723,Platygaster,,eatenBy
+67720,203300,Tetrastichus,,eatenBy
+67720,,Torymus atriplicis,,eatenBy
+67720,,Tenuipetiolus,,eatenBy
+67720,,Torymus,,eatenBy
+67720,,Rileyi piercei,,eatenBy
+67720,,Pseudocatolaccus guizoti,,eatenBy
+67720,176401,Eupelmidae,,eatenBy
+67720,,Rileya piercei,,eatenBy
+67720,,Eupelmid gen. n.,,eatenBy
+67720,,Eupelmid n. genus,,eatenBy
+67720,,Phyllobaenus atriplexus,,preyedUponBy

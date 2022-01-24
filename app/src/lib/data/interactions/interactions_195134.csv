@@ -1,0 +1,144 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+195134,118996,Ciliophora,Ciliates,eats
+195134,63741,Gadiformes,Cods,eats
+195134,121643,Copepoda,Copepods,eats
+195134,195134,Euphausiidae,Euphotic Krill,eats
+195134,151880,Sarcomastigophora,,eats
+195134,68764,Ostracoda,Seed Shrimp,eats
+195134,123880,Bacillariophyceae,Diatoms,eats
+195134,67334,Cyanobacteria,cyanobacteria,eats
+195134,130225,Dinophyceae,,eats
+195134,48921,Hydrozoa,Hydrozoans,eats
+195134,,Phytoplankton,,eats
+195134,,Dinoflagellata,,eats
+195134,,Prymnesiophyceae,,eats
+195134,,Detritus complex,,eats
+195134,340479,Radiolaria,,eats
+195134,,Foraminiferida,,eats
+195134,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+195134,118597,Belone belone,Garfish,eatenBy
+195134,151827,Chaetognatha,Arrow Worms,eatenBy
+195134,85777,Exocoetidae,Flyingfishes,eatenBy
+195134,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+195134,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+195134,41558,Balaenoptera edeni,Eden's Whale,eatenBy
+195134,41566,Megaptera novaeangliae,Humpback Whale,eatenBy
+195134,41550,Balaenoptera acutorostrata,Minke Whale,eatenBy
+195134,4158,Pachyptila turtur,Fairy Prion,eatenBy
+195134,4130,Pelecanoides urinatrix,Common Diving-Petrel,eatenBy
+195134,4424,Sterna,Typical Terns,eatenBy
+195134,4561,Synthliboramphus antiquus,Ancient Murrelet,eatenBy
+195134,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+195134,48836,Ophiuroidea,Brittle Stars,eatenBy
+195134,4063,Oceanodroma,,eatenBy
+195134,48921,Hydrozoa,Hydrozoans,eatenBy
+195134,4531,Brachyramphus marmoratus,Marbled Murrelet,eatenBy
+195134,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+195134,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+195134,4519,Uria aalge,Common Murre,eatenBy
+195134,195134,Euphausiidae,Euphotic Krill,eatenBy
+195134,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+195134,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+195134,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+195134,118601,Trisopterus luscus,Pouting,eatenBy
+195134,430553,Merlangius merlangus,Whiting,eatenBy
+195134,,Psetta maxima,,eatenBy
+195134,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+195134,363797,Gaidropsarus vulgaris,Three-bearded Rockling,eatenBy
+195134,48397,Raja clavata,Thornback Skate,eatenBy
+195134,,Trigloporus lastoviza,,eatenBy
+195134,106253,Mustelus asterias,Starry Smooth-hound,eatenBy
+195134,324532,Sprattus sprattus,European Sprat,eatenBy
+195134,111527,Raja montagui,Spotted Skate,eatenBy
+195134,55396,Solea solea,Common Sole,eatenBy
+195134,120608,Gadiculus argenteus,Silvery Pout,eatenBy
+195134,104534,Leucoraja fullonica,Shagreen Skate,eatenBy
+195134,130386,Taurulus bubalis,Longspined Bullhead,eatenBy
+195134,120617,Arnoglossus laterna,Mediterranean Scaldfish,eatenBy
+195134,86396,Ammodytes,,eatenBy
+195134,367966,Ammodytes tobianus,Lesser Sand Lance,eatenBy
+195134,228496,Pollachius virens,Pollock,eatenBy
+195134,118619,Mullus surmuletus,Striped Red Mullet,eatenBy
+195134,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+195134,,Trisopterus minutus,,eatenBy
+195134,459325,Maurolicus muelleri,Pearlside,eatenBy
+195134,320793,Trisopterus esmarkii,Norway Pout,eatenBy
+195134,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+195134,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eatenBy
+195134,51398,Argentina sphyraena,European Argentine,eatenBy
+195134,118649,Echiichthys vipera,Lesser Weever,eatenBy
+195134,481841,Microstomus kitt,Lemon Sole,eatenBy
+195134,94651,Arnoglossus imperialis,Imperial Scaldfish,eatenBy
+195134,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+195134,97990,Clupea harengus,Atlantic Herring,eatenBy
+195134,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+195134,92628,Trigla,Gurnards,eatenBy
+195134,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+195134,89001,Hyperoplus,,eatenBy
+195134,,GOBIDAE,,eatenBy
+195134,,Enchelyopus cimbrius,,eatenBy
+195134,120648,Lepidorhombus boscii,Four-spotted Megrim,eatenBy
+195134,47523,Pleuronectes platessa,European Plaice,eatenBy
+195134,118603,Merluccius merluccius,European Hake,eatenBy
+195134,51910,Engraulis encrasicolus,European Anchovy,eatenBy
+195134,61387,Limanda limanda,Sand Dab,eatenBy
+195134,103913,Labrus mixtus,Cuckoo Wrasse,eatenBy
+195134,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+195134,63740,Gadus morhua,Atlantic Cod,eatenBy
+195134,64589,Capros aper,Boarfish,eatenBy
+195134,118629,Helicolenus dactylopterus,Blackbelly Rosefish,eatenBy
+195134,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+195134,111518,Raja brachyura,Blonde Skate,eatenBy
+195134,118610,Lophius piscatorius,Angler,eatenBy
+195134,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+195134,49229,Alosa alosa,Allis Shad,eatenBy
+195134,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+195134,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+195134,,Thunnini,,eatenBy
+195134,1316623,Pleuragramma antarcticum,,eatenBy
+195134,3825,Eudyptes chrysolophus,Macaroni Penguin,eatenBy
+195134,41729,Mirounga leonina,Southern Elephant Seal,eatenBy
+195134,,Nauticaris marionis,,eatenBy
+195134,147551,Balaenoptera musculus intermedia,Antarctic Blue Whale,eatenBy
+195134,41571,Eubalaena australis,Southern Right Whale,eatenBy
+195134,147550,Balaenoptera musculus brevicauda,Pygmy Blue Whale,eatenBy
+195134,610057,Chaenodraco wilsoni,,eatenBy
+195134,87423,Chionodraco,,eatenBy
+195134,610076,Pagetopsis macropterus,,eatenBy
+195134,,Trematomus scotti,,eatenBy
+195134,617783,Electrona antarctica,,eatenBy
+195134,432420,Galiteuthis glacialis,Glacial Cranch Squid,eatenBy
+195134,,Kondakovia longimana,,eatenBy
+195134,41763,Phocarctos hookeri,New Zealand Sea Lion,eatenBy
+195134,3820,Aptenodytes forsteri,Emperor Penguin,eatenBy
+195134,41731,Leptonychotes weddellii,Weddell Seal,eatenBy
+195134,120646,Stomias gracilis,,eatenBy
+195134,530433,Electrona carlsbergi,Carlsberg's Lanternfish,eatenBy
+195134,530453,Protomyctophum parallelum,Parallel Lanternfish,eatenBy
+195134,41562,Balaenoptera physalus,Fin Whale,preyedUponBy
+195134,114122,Thunnus alalunga,Albacore,preyedUponBy
+195134,4519,Uria aalge,Common Murre,preyedUponBy
+195134,4547,Ptychoramphus aleuticus,Cassin's Auklet,preyedUponBy
+195134,41559,Balaenoptera borealis,Sei Whale,preyedUponBy
+195134,180029,Gadus macrocephalus,Pacific Cod,preyedUponBy
+195134,95500,Bathyraja interrupta,Sandpaper Skate,preyedUponBy
+195134,110361,Prionace glauca,Blue Shark,preyedUponBy
+195134,54191,Oncorhynchus tshawytscha,Chinook Salmon,preyedUponBy
+195134,64465,Sebastes pinniger,Canary Rockfish,preyedUponBy
+195134,64462,Sebastes crameri,Darkblotched Rockfish,preyedUponBy
+195134,64450,Sebastes alutus,Pacific Ocean Perch,preyedUponBy
+195134,64477,Sebastes flavidus,Yellowtail Rockfish,preyedUponBy
+195134,64448,Sebastes diploproa,Splitnose Rockfish,preyedUponBy
+195134,123962,Dosidicus gigas,Humboldt Squid,preyedUponBy
+195134,105599,Merluccius productus,Pacific Hake,preyedUponBy
+195134,64478,Sebastes entomelas,Widow Rockfish,preyedUponBy
+195134,230764,Sebastes zacentrus,Sharpchin Rockfish,preyedUponBy
+195134,230755,Sebastes elongatus,Greenstriped Rockfish,preyedUponBy
+195134,117523,Sebastes wilsoni,Pygmy Rockfish,preyedUponBy
+195134,,Raja rhina,,preyedUponBy
+195134,112423,Sebastolobus alascanus,Shortspine Thornyhead,preyedUponBy
+195134,51353,Anoplopoma fimbria,Sablefish,preyedUponBy
+195134,180031,Microstomus pacificus,Pacific Dover Sole,preyedUponBy
+195134,,Reinhardtius stomias,,preyedUponBy
+195134,144502,Chroicocephalus philadelphia,Bonaparte's Gull,preyedUponBy
+195134,,Myctophum asperum,,preyedUponBy

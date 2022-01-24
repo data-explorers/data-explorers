@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+311434,373844,Anthemideae,"Chamomiles, yarrows, and allies",eats
+311434,48699,Apiaceae,carrot family,eats
+311434,47124,Magnoliopsida,dicots,eats
+311434,59904,Glebionis coronaria,Garland Daisy,eats
+311434,53052,Foeniculum vulgare,fennel,eats
+311434,52821,Achillea millefolium,Common Yarrow,eats
+311434,359450,Cichorieae,,eats
+311434,636795,Salvia rosmarinus,Rosemary,eats
+311434,61906,Helminthotheca echioides,bristly oxtongue,eats
+311434,632790,Asteroideae,,eats
+311434,48939,Eriogonum,wild buckwheats,eats
+311434,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+311434,48226,Eschscholzia,,eats
+311434,51890,Crassulaceae,stonecrop family,eats
+311434,48969,Antirrhinum majus,Snapdragon,eats
+311434,52818,Achillea,yarrows,eats
+311434,55410,Raphanus sativus,wild radish,eats
+311434,48225,Eschscholzia californica,California poppy,eats
+311434,53207,Senecio,groundsels,eats
+311434,53438,Rosa,roses,eats
+311434,47204,Brassicaceae,mustard family,eats
+311434,50641,Solanum,nightshades,eats
+311434,51822,Euphorbia,spurges,eats
+311434,59906,Glebionis,,eats
+311434,56992,Lobularia maritima,sweet alyssum,eats
+311434,48678,Solidago,goldenrods,eats
+311434,48623,Lamiaceae,mint family,eats
+311434,55563,Bellis perennis,common daisy,eats
+311434,76923,Erigeron karvinskianus,Santa Barbara daisy,eats
+311434,461542,Astereae,asters and allies,eats
+311434,54999,Eriogonum fasciculatum,California buckwheat,eats
+311434,53405,Heteromeles arbutifolia,Toyon,eats
+311434,47544,Rubus,brambles,eats
+311434,77719,Leucanthemum maximum,Shasta Daisy,eats
+311434,49674,Ceanothus,,eats
+311434,64322,Cistus,Shrubby Rock-roses,eats
+311434,447425,Cichorioideae,"chicories, dandelions, and allies",eats
+311434,60982,Cakile maritima,European Searocket,eats
+311434,53359,Baccharis pilularis,coyote brush,eats
+311434,58831,Heterotheca grandiflora,Telegraphweed,eats
+311434,63366,Limonium,Sea-Lavenders,eats
+311434,58819,Deinandra fasciculata,Clustered Tarweed,eats
+311434,53097,Hirschfeldia incana,Shortpod Mustard,eats
+311434,56112,Symphyotrichum,American asters,eats
+311434,,Lantana montevidensis,,eats
+311434,,Ruta,,eats
+311434,56846,Torilis arvensis,common hedge parsley,eats
+311434,,Potentilla gracilis,,eats
+311434,61396,Origanum vulgare,Oregano,eats
+311434,,Madia elegans,,eats
+311434,,Matricaria discoidea,,eats
+311434,,Citrus × limon,,eats
+311434,,Layia platyglossa,,eats
+311434,632791,Calenduleae,marigolds and allies,eats
+311434,,Arctotis,,eats
+311434,,Ceanothus thyrsiflorus,,eats
+311434,,Coleonema,,eats
+311434,,Ranunculus californicus,,eats
+311434,,Aster,,eats
+311434,,Blennosperma nanum,,eats
+311434,,Coriandrum sativum,,eats
+311434,,Berlandiera lyrata,,eats
+311434,,Chamaemelum nobile,,eats
+311434,55137,Arctostaphylos manzanita,Common Manzanita,eats
+311434,,Baccharis glutinosa,,eats
+311434,,Erigeron glaucus,,eats
+311434,,Eriophyllum staechadifolium,,eats
+311434,56861,Symphyotrichum chilense,Pacific Aster,eats
+311434,,Bloomeria crocea,,eats
+311434,,Coriandrum,,eats
+311434,,Murdannia keisak,,pollinates
+311434,565402,Aster hispidus,,pollinates
+311434,,Solidago virgaurea,,pollinates
+311434,334575,Convolvulus cantabrica,Cantabrican morning glory,pollinates
+311434,,Helichrysum stoechas,,pollinates
+311434,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+171484,85493,Crustacea,Crustaceans,eats
+171484,,sediment,,eats
+171484,,Detritus,,eats
+171484,132473,Lagodon rhomboides,Pinfish,eatenBy
+171484,,Octopus briareus,,eatenBy
+171484,63740,Gadus morhua,Atlantic Cod,eatenBy
+171484,430553,Merlangius merlangus,Whiting,eatenBy
+171484,48397,Raja clavata,Thornback Skate,eatenBy
+171484,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+171484,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+171484,49431,Orthopristis chrysoptera,Pigfish,eatenBy
+171484,131480,Serranus notospilus,Saddle Bass,eatenBy
+171484,128750,Sciaenops ocellatus,Red Drum,eatenBy
+171484,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+171484,52522,Ovalipes,,preyedUponBy
+171484,54539,Syngnathus,Pipe-fishes,preyedUponBy
+171484,53739,Cancer irroratus,Atlantic Rock Crab,preyedUponBy
+171484,47230,Caranx hippos,Atlantic Crevalle Jack,preyedUponBy
+171484,213402,Ammodytes americanus,American Sand Lance,preyedUponBy
+171484,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+171484,317228,Mullus auratus,Red Goatfish,preyedUponBy
+171484,179445,Trachinotus falcatus,Permit,preyedUponBy
+171484,113308,Strongylura marina,Atlantic Needlefish,preyedUponBy
+171484,83439,Centropristis striata,Black Sea Bass,preyedUponBy
+171484,179454,Syacium papillosum,Dusky Flounder,preyedUponBy
+171484,131458,Diplectrum bivittatum,Dwarf Sand Perch,preyedUponBy
+171484,51405,Elops saurus,Ladyfish,preyedUponBy
+171484,128750,Sciaenops ocellatus,Red Drum,preyedUponBy
+171484,179444,Upeneus parvus,Dwarf Goatfish,preyedUponBy
+171484,233276,Urophycis regia,Spotted Hake,preyedUponBy
+171484,194675,Lophius americanus,American Monkfish,preyedUponBy
+171484,112459,Semotilus corporalis,Fallfish,preyedUponBy
+171484,82264,Chilomycterus schoepfii,Striped Burrfish,preyedUponBy
+171484,62393,Cancer borealis,Jonah Crab,preyedUponBy
+171484,49225,Alosa aestivalis,Blueback Shad,preyedUponBy
+171484,47242,Fistularia tabacaria,Atlantic Bluespotted Cornetfish,preyedUponBy
+171484,49431,Orthopristis chrysoptera,Pigfish,preyedUponBy
+171484,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+171484,179469,Selene vomer,Lookdown,preyedUponBy
+171484,96740,Caranx crysos,Blue Runner,preyedUponBy
+171484,93844,Ameiurus catus,White Catfish,preyedUponBy
+171484,146796,Sphoeroides maculatus,Northern Puffer,preyedUponBy
+171484,49421,Diplectrum formosum,Sand Perch,preyedUponBy

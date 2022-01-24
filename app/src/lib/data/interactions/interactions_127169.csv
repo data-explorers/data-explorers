@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127169,47732,Syringa,Lilacs,eats
+127169,49883,Betula papyrifera,paper birch,eats
+127169,49882,Betula alleghaniensis,yellow birch,eats
+127169,54832,Prunus nigra,Canada plum,eats
+127169,54834,Prunus serotina,black cherry,eats
+127169,,Prunus pensylvanica,,eats
+127169,58210,Mirabilis multiflora,Colorado Four o'Clock,pollinates

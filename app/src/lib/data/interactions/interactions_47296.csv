@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47296,85493,Crustacea,Crustaceans,eats
+47296,47178,Actinopterygii,Ray-finned Fishes,eats
+47296,1,Animalia,Animals,eats
+47296,47115,Mollusca,Molluscs,eats
+47296,47459,Cephalopoda,Cephalopods,eats
+47296,49948,Anisotremus,,eats
+47296,49263,Haemulidae,Grunts,eats
+47296,49172,Sciaenidae,Drums,eats
+47296,49284,Labridae,Wrasses,eats
+47296,47490,Polychaeta,Polychaete Worms,eats
+47296,121639,Brachyura,True Crabs,eats
+47296,47491,Annelida,Segmented Worms,eats
+47296,342912,Caridea,Caridean Shrimps,eats
+47296,47549,Echinodermata,Echinoderms,eats
+47296,47584,Bivalvia,Bivalves,eats
+47296,47114,Gastropoda,Gastropods,eats
+47296,55808,Squilla,,eats
+47296,51549,Seriola dumerili,Greater Amberjack,eats
+47296,55807,Squillidae,Squillid Mantis Shrimps,eats
+47296,,,,eats
+47296,,Gnathostomata,,eats
+47296,,Pisces,,eats
+47296,,unspecified invertebrates,,eats
+47296,,unspecified plankton,,eats
+47296,,unidentified planktonic organisms,,eats
+47296,,Detritus,,eats
+47296,,Zooplankton,,eats
+47296,,Osteichthyes,,eats
+47296,87865,Decapterus,,eats
+47296,,debris,,eats
+47296,295543,Meiosquilla schmitti,,eats
+47296,295147,Rimapenaeus constrictus,Roughneck Shrimp,eats
+47296,48564,Prionotus,,eats
+47296,317317,Prionotus stearnsi,Shortwing Searobin,eats
+47296,47229,Selar crumenophthalmus,Bigeye Scad,eats
+47296,121225,Decapterus macarellus,Mackerel Scad,eats
+47296,180389,Ctenochaetus striatus,Lined Bristletooth,eats
+47296,347936,Upeneus sulphureus,Sunrise Goatfish,eats
+47296,121190,Calappidae,Box Crabs,eats
+47296,127705,Portunus,,eats
+47296,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+47296,35260,Aipysurus laevis,Olive Sea Snake,eatenBy
+47296,41738,Zalophus wollebaeki,Galápagos Sea Lion,eatenBy
+47296,49746,Epinephelus striatus,Nassau Grouper,eatenBy
+47296,180389,Ctenochaetus striatus,Lined Bristletooth,preysOn
+47296,121225,Decapterus macarellus,Mackerel Scad,preysOn
+47296,47229,Selar crumenophthalmus,Bigeye Scad,preysOn

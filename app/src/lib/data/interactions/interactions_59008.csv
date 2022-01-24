@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59008,58586,Limenitis archippus,Viceroy,eatenBy
+59008,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+59008,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+59008,334169,Euura,,eatenBy
+59008,232215,Tachyerges ephippiatus,,eatenBy
+59008,,Rhynchaenus niger,,eatenBy
+59008,,Altica prasina prasina,,eatenBy
+59008,,Altica bimarginata bimarginata,,eatenBy
+59008,,Hyalophora euryalus,,eatenBy
+59008,,Hyalophora columbia,,eatenBy
+59008,,Rothschildia lebeau,,eatenBy
+59008,,Saturnia,,eatenBy
+59008,,Hyalophora kasloensis,,eatenBy
+59008,,Synanthedon formicaeformis,,eatenBy
+59008,47919,Antheraea polyphemus,Polyphemus Moth,eatenBy
+59008,49348,Hyles lineata,White-lined Sphinx,eatenBy
+59008,,Hemileuca maia,,eatenBy
+59008,,http://treatment.plazi.org/id/8A923023FD2D40E5C9C9E32D687E287F,,eatenBy
+59008,,Micrurapteryx salicifoliella,,eatenBy
+59008,,Aristotelia fungivorella,,eatenBy
+59008,,Aristotelia salicifungiella,,eatenBy
+59008,203866,Rabdophaga strobiloides,Willow Pinecone Gall Midge,eatenBy
+59008,,Aculops aenigma,,eatenBy
+59008,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+59008,47157,Lepidoptera,Butterflies and Moths,pollinatedBy

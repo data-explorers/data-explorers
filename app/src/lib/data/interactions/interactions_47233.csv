@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47233,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+47233,116999,Pandion haliaetus,Osprey,eatenBy
+47233,39782,Trachemys scripta,Common Slider,eatenBy
+47233,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47233,144455,Ardea alba,Great Egret,eatenBy
+47233,41708,Phoca vitulina,Harbor Seal,eatenBy
+47233,4631,Fregata magnificens,Magnificent Frigatebird,eatenBy
+47233,7004,Mergus merganser,Common Merganser,eatenBy
+47233,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+47233,4389,Larus cachinnans,Caspian Gull,eatenBy
+47233,3812,Spheniscus magellanicus,Magellanic Penguin,eatenBy
+47233,,Larus audouinii,,eatenBy
+47233,4951,Ardea purpurea,Purple Heron,eatenBy
+47233,4954,Ardea cinerea,Grey Heron,eatenBy
+47233,104853,Lutjanus analis,Mutton Snapper,eatenBy
+47233,569437,Cichla intermedia,Royal Peacock Bass,eatenBy
+47233,342473,Cichla temensis,Speckled Peacock Bass,eatenBy
+47233,569443,Cichla orinocensis,Orinoco Peacock Bass,eatenBy
+47233,97947,Clarias ngamensis,Blunttooth Catfish,eatenBy
+47233,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+47233,97954,Clarias theodorae,Snake Catfish,eatenBy
+47233,97952,Clarias stappersii,Blotched Catfish,eatenBy
+47233,316996,Bembrops anatirostris,Duckbill Flathead,eatenBy
+47233,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47233,3808,Pygoscelis papua,Gentoo Penguin,eatenBy
+47233,52865,Tramea lacerata,Black Saddlebags,preysOn
+47233,4626,Gavia immer,Common Loon,preyedUponBy
+47233,5020,Butorides virescens,Green Heron,preyedUponBy
+47233,116999,Pandion haliaetus,Osprey,preyedUponBy
+47233,26182,Acrochordus granulatus,Marine File Snake,preyedUponBy
+47233,200388,Hydrophis hardwickii,Hardwicke’s Spine-bellied Seasnake,preyedUponBy
+47233,143293,Dolomedes scriptus,Striped Fishing Spider,preyedUponBy
+47233,5308,Haliaeetus vocifer,African Fish-Eagle,preyedUponBy
+47233,4951,Ardea purpurea,Purple Heron,preyedUponBy
+47233,4954,Ardea cinerea,Grey Heron,preyedUponBy

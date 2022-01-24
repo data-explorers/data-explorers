@@ -1,0 +1,39 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130376,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+130376,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+130376,204701,Melanchra adjuncta,Hitched Arches,eatenBy
+130376,132071,Coenosia,Tiger Flies,pollinatedBy
+130376,47652,Erynnis,Duskywings,pollinatedBy
+130376,119074,Chlorion,,pollinatedBy
+130376,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+130376,47208,Coleoptera,Beetles,pollinatedBy
+130376,47822,Diptera,Flies,pollinatedBy
+130376,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+130376,61356,Vespula,Ground Yellowjackets,pollinatedBy
+130376,,Bracon,,pollinatedBy
+130376,,Holandrena,,pollinatedBy
+130376,,Rhamphomyia priapulus,,pollinatedBy
+130376,,Apallates coxendix,,pollinatedBy
+130376,,Acontia candefacta,,pollinatedBy
+130376,,Bibio albipennis,,pollinatedBy
+130376,,Ripiphorus,,pollinatedBy
+130376,,Elis,,pollinatedBy
+130376,,Zaodontomerus,,pollinatedBy
+130376,,Centrinites strigicollis,,pollinatedBy
+130376,,Themira putris,,pollinatedBy
+130376,,Megaselia fungicola,,pollinatedBy
+130376,322713,Sapromyza,,pollinatedBy
+130376,,Sapyga centrata,,pollinatedBy
+130376,,Bombylius helvus,,pollinatedBy
+130376,198823,Pyrisitia lisa lisa,Northern Little Yellow,pollinatedBy
+130376,1292982,Meromyza americana,,pollinatedBy
+130376,47342,Crematogaster,Cocktail Ants,pollinatedBy
+130376,,Trachandrena,,pollinatedBy
+130376,,Anoplius illinoensis,,pollinatedBy
+130376,,Andrena pruni,,pollinatedBy
+130376,,Hesperia,,pollinatedBy
+130376,,Mordellistena aspersa,,pollinatedBy
+130376,250657,Metopius,,pollinatedBy
+130376,,Sphecodium,,pollinatedBy
+130376,,Tiphia,,pollinatedBy
+130376,,Zaira georgiae,,pollinatedBy

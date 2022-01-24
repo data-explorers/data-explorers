@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+199946,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+199946,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+199946,13732,Anthus rubescens,American Pipit,eatenBy
+199946,17394,Vireo gilvus,Warbling Vireo,eatenBy
+199946,17408,Vireo griseus,White-eyed Vireo,eatenBy
+199946,,Progne dominicensis,,eatenBy
+199946,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+199946,16024,Myiarchus antillarum,Puerto Rican Flycatcher,eatenBy
+199946,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+199946,12718,Turdus plumbeus,Red-legged Thrush,eatenBy

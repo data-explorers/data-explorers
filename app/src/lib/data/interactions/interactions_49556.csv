@@ -1,0 +1,163 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49556,49470,Collembola,Springtails,eats
+49556,52788,Acari,Mites and Ticks,eats
+49556,47208,Coleoptera,Beetles,eats
+49556,47822,Diptera,Flies,eats
+49556,47336,Formicidae,Ants,eats
+49556,48147,Isopoda,Isopods,eats
+49556,47118,Araneae,Spiders,eats
+49556,47119,Arachnida,Arachnids,eats
+49556,,Isoptera,,eats
+49556,,Detritus,,eats
+49556,52790,Mesostigmata,Mesostigs,eats
+49556,365690,Nephrosperma van-houtteanum,,eats
+49556,185785,Mimusops,Red Milkwoods,eats
+49556,576512,Paragenipa,,eats
+49556,,Erythroxlum sechellarum,,eats
+49556,,Canthium,,eats
+49556,365729,Phoenicophorium borsigianum,,eats
+49556,366006,Roscheria melanochaetes,,eats
+49556,,Campnospermum seychellarum,,eats
+49556,345435,Epithemia sorex,,eats
+49556,,Khakista,,eats
+49556,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+49556,12942,Sialia sialis,Eastern Bluebird,eatenBy
+49556,4665,Falco sparverius,American Kestrel,eatenBy
+49556,20044,Bubo virginianus,Great Horned Owl,eatenBy
+49556,12727,Turdus migratorius,American Robin,eatenBy
+49556,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+49556,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+49556,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+49556,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+49556,8021,Corvus brachyrhynchos,American Crow,eatenBy
+49556,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+49556,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+49556,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49556,3892,Tringa melanoleuca,Greater Yellowlegs,eatenBy
+49556,245713,Colpoda,,eatenBy
+49556,52672,Dryopteris,wood ferns,eatenBy
+49556,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+49556,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+49556,5017,Bubulcus ibis,Cattle Egret,eatenBy
+49556,19975,Athene cunicularia,Burrowing Owl,eatenBy
+49556,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+49556,,Vireo atricapilla,,eatenBy
+49556,,Alectoris chukar,,eatenBy
+49556,,Cyrtonyx montezumae,,eatenBy
+49556,,Psiloscops flammeolus,,eatenBy
+49556,14895,Toxostoma longirostre,Long-billed Thrasher,eatenBy
+49556,,Corvus caurinus,,eatenBy
+49556,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+49556,,Picoides villosus,,eatenBy
+49556,10442,Limnothlypis swainsonii,Swainson's Warbler,eatenBy
+49556,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+49556,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+49556,,Mus sp.,,eatenBy
+49556,,North American deermouse,,eatenBy
+49556,145090,Allenia fusca,Scaly-breasted Thrasher,eatenBy
+49556,14984,Margarops fuscatus,Pearly-eyed Thrasher,eatenBy
+49556,36432,Anolis gingivinus,Anguilla Anole,eatenBy
+49556,36582,Anolis pogus,bearded anole,eatenBy
+49556,,Trichomycterus caliensis,,eatenBy
+49556,,Umbra limi,,eatenBy
+49556,3931,Scolopax rusticola,Eurasian Woodcock,eatenBy
+49556,,Herpestes javanicus,,eatenBy
+49556,,Phalaropus fulicarius,,eatenBy
+49556,553515,Rhinella marina,Cane Toad,eatenBy
+49556,,Colpidium,,eatenBy
+49556,,unknown protozoan,,eatenBy
+49556,,Spirostomum,,eatenBy
+49556,,Cyclidium,,eatenBy
+49556,,Hastatella,,eatenBy
+49556,,Loricate rotifers,,eatenBy
+49556,,Vorticella,,eatenBy
+49556,,Fletcherimyia fletcheri,,eatenBy
+49556,,Cinetochilum,,eatenBy
+49556,,Petalomonas,,eatenBy
+49556,,Habrotrocha rosa,,eatenBy
+49556,,unknown ciliate,,eatenBy
+49556,,Entosiphon,,eatenBy
+49556,,Anisonema,,eatenBy
+49556,151829,Gastrotricha,Gastrotrichs,eatenBy
+49556,,Chlamydodon,,eatenBy
+49556,,Chrysophyta,,eatenBy
+49556,,unknown flagellate,,eatenBy
+49556,,Copepod unknown,,eatenBy
+49556,,Halteria,,eatenBy
+49556,,Menoidium,,eatenBy
+49556,,Euglena,,eatenBy
+49556,,Euplotes,,eatenBy
+49556,,Amoeba,,eatenBy
+49556,244400,Paramecium,Paramecium,eatenBy
+49556,,Wyeomyia smithii,,eatenBy
+49556,,Cercomonas,,eatenBy
+49556,,Notoselenus,,eatenBy
+49556,,unknown Hypotrich,,eatenBy
+49556,60395,Branchiopoda,Branchiopods,eatenBy
+49556,,Tachysoma,,eatenBy
+49556,,Saraceniopus spp,,eatenBy
+49556,,Bodo,,eatenBy
+49556,,Unknown rotifers,,eatenBy
+49556,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+49556,51333,Macquaria australasica,Macquarie Perch,eatenBy
+49556,608693,Astroblepus cyclopus,Esmeralda's climbing catfish,eatenBy
+49556,,Euscorpius beta,,eatenBy
+49556,,Elgaria coerulea,,eatenBy
+49556,,Falco naumanni,,eatenBy
+49556,,Halcyon albiventris vociferans,,eatenBy
+49556,28489,Tantilla planiceps,Western Black-headed Snake,preyedUponBy
+49556,,Tantilla impensa,,preyedUponBy
+49556,,Scolecophis atrocinctus,,preyedUponBy
+49556,,Micrurus diastema,,preyedUponBy
+49556,27302,Chilomeniscus stramineus,Sand Snake,preyedUponBy
+49556,539416,Bothrops itapetiningae,São Paulo Lancehead,preyedUponBy
+49556,30784,Bothrops moojeni,Brazilian Lancehead,preyedUponBy
+49556,28524,Tantilla bocourti,Bocourt's Black-headed Snake,preyedUponBy
+49556,28505,Tantilla gracilis,Flat-headed Snake,preyedUponBy
+49556,28499,Tantilla hobartsmithi,Southwestern Blackhead Snake,preyedUponBy
+49556,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+49556,29358,Natriciteres fuliginoides,Marsh Snake,preyedUponBy
+49556,28516,Tantilla coronata,Southeastern Crowned Snake,preyedUponBy
+49556,539413,Bothrops erythromelas,Caatinga Lancehead,preyedUponBy
+49556,28493,Tantilla nigriceps,Plains Black-headed Snake,preyedUponBy
+49556,28649,Sonora semiannulata,Ground Snake,preyedUponBy
+49556,31079,Echis carinatus,Saw-scaled Viper,preyedUponBy
+49556,28469,Tantilla wilcoxi,Chihuahuan Black-headed Snake,preyedUponBy
+49556,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+49556,539050,Bothrops jararaca,Yarará Lancehead,preyedUponBy
+49556,,Denisonia devisi,,preyedUponBy
+49556,28519,Tantilla capistrata,Capistrata Centipede Snake,preyedUponBy
+49556,30307,Eirenis coronella,Crowned Dwarf Racer,preyedUponBy
+49556,83877,Bothrops jararacussu,Jararacussu,preyedUponBy
+49556,539421,Bothrops pubescens,,preyedUponBy
+49556,28470,Tantilla yaquia,Yaqui Black-headed Snake,preyedUponBy
+49556,30767,Bothrops,Neotropical Lanceheads,preyedUponBy
+49556,,Tantilla supracincta,,preyedUponBy
+49556,,Tantilla tayrae,,preyedUponBy
+49556,539420,Bothrops pauloensis,Cerrado Lancehead,preyedUponBy
+49556,30829,Bothrocophias hyoprora,Amazonian Toad-headed Pitviper,preyedUponBy
+49556,,Tantilla flavilineata,,preyedUponBy
+49556,73963,Tantilla jani,Jan's Centipede Snake,preyedUponBy
+49556,,Aparallactus capensis capensis,,preyedUponBy
+49556,30796,Bothrops brazili,Brazil's Lancehead,preyedUponBy
+49556,26888,Coronella girondica,Southern Smooth Snake,preyedUponBy
+49556,,Tantilla cucullata,,preyedUponBy
+49556,28509,Tantilla cuniculator,Peten Centipede Snake,preyedUponBy
+49556,26373,Aparallactus guentheri,Uluguru Centipede-Eater,preyedUponBy
+49556,,Bothrops matogrossensis,,preyedUponBy
+49556,,Leioheterodon modestus,,preyedUponBy
+49556,,Aparallactus werneri,,preyedUponBy
+49556,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+49556,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+49556,40677,Rhinolophus euryale,Mediterranean horseshoe bat,preyedUponBy
+49556,,Rhinolophus blasii,,preyedUponBy
+49556,74717,Myotis punicus,Felten's myotis,preyedUponBy
+49556,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+49556,40449,Otonycteris hemprichii,Desert Long-eared Bat,preyedUponBy
+49556,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+49556,1150085,Myotis myotis,,preyedUponBy
+49556,41326,Macroderma gigas,Australian False Vampire Bat,preyedUponBy
+49556,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+49556,,Euscorpius beta,,preyedUponBy
+49556,,Otus lettia,,preyedUponBy
+49556,,Galerita,,preyedUponBy

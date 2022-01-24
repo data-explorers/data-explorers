@@ -1,0 +1,173 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4647,1,Animalia,Animals,eats
+4647,40151,Mammalia,Mammals,eats
+4647,3,Aves,Birds,eats
+4647,145245,Setophaga coronata,Yellow-rumped Warbler,eats
+4647,3873,Limnodromus scolopaceus,Long-billed Dowitcher,eats
+4647,6922,Anas,"Mallards, Pintails, and Allies",eats
+4647,10093,Junco,Juncos,eats
+4647,3977,Actitis,Common and Spotted Sandpipers,eats
+4647,9175,Zonotrichia,Zonotrichia Sparrows,eats
+4647,3912,Gallinago,Typical Snipes,eats
+4647,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eats
+4647,18230,Colaptes,Flickers and Allies,eats
+4647,3864,Calidris minutilla,Least Sandpiper,eats
+4647,12705,Turdus,Typical Thrushes,eats
+4647,17599,Picidae,Woodpeckers,eats
+4647,3874,Tringa,"Shanks, Tattlers, and Allies",eats
+4647,16597,Empidonax,Empidonax Flycatchers,eats
+4647,10246,Setophaga,Setophaga Warblers,eats
+4647,6912,Anatidae,"Ducks, Geese, and Swans",eats
+4647,4343,Larus,Large White-headed Gulls,eats
+4647,7427,Bombycilla,Waxwings,eats
+4647,11853,Hirundinidae,Swallows and Martins,eats
+4647,4209,Podiceps auritus,Horned Grebe,eats
+4647,13547,Paridae,"Tits, Chickadees, and Titmice",eats
+4647,144320,Chroicocephalus,Masked Gulls,eats
+4647,3835,Scolopacidae,Sandpipers and Allies,eats
+4647,7043,Aythya,"Scaups, Pochards, and Allies",eats
+4647,4204,Podiceps,Typical Grebes,eats
+4647,10321,Euphagus,Rusty and Brewer's Blackbirds,eats
+4647,4424,Sterna,Typical Terns,eats
+4647,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+4647,2,Chordata,Chordates,eats
+4647,17007,Sayornis,Phoebes,eats
+4647,71349,Parulidae,New World Warblers,eats
+4647,4638,Falco,Typical Falcons,eats
+4647,979618,Petrochelidon,Cliff Swallows and Allies,eats
+4647,3836,Calidris,Calidris Sandpipers,eats
+4647,15977,Turdidae,Thrushes,eats
+4647,45933,Sciuridae,Squirrels,eats
+4647,9155,Passerella,,eats
+4647,4342,Laridae,"Gulls, Terns, and Skimmers",eats
+4647,979751,Leiothlypis,Leiothlypis Warblers,eats
+4647,6993,Bucephala albeola,Bufflehead,eats
+4647,18236,Colaptes auratus,Northern Flicker,eats
+4647,4665,Falco sparverius,American Kestrel,eats
+4647,890,Bonasa umbellus,Ruffed Grouse,eats
+4647,12727,Turdus migratorius,American Robin,eats
+4647,7251,Passeriformes,Perching Birds,eats
+4647,8010,Corvus corax,Common Raven,eats
+4647,3959,Phalaropus lobatus,Red-necked Phalarope,eats
+4647,6930,Anas platyrhynchos,Mallard,eats
+4647,7294,Eremophila alpestris,Horned Lark,eats
+4647,67561,Charadriiformes,Shorebirds and Allies,eats
+4647,3017,Columba livia,Rock Pigeon,eats
+4647,4647,Falco peregrinus,Peregrine Falcon,eats
+4647,4203,Podicipedidae,Grebes,eats
+4647,4509,Fratercula cirrhata,Tufted Puffin,eats
+4647,3849,Calidris alba,Sanderling,eats
+4647,981,Phasianus colchicus,Ring-necked Pheasant,eats
+4647,3938,Arenaria interpres,Ruddy Turnstone,eats
+4647,11901,Hirundo rustica,Barn Swallow,eats
+4647,4519,Uria aalge,Common Murre,eats
+4647,7086,Branta,Black Geese,eats
+4647,7018,Anser anser,Greylag Goose,eats
+4647,3951,Limosa lapponica,Bar-tailed Godwit,eats
+4647,3901,Numenius phaeopus,Whimbrel,eats
+4647,2969,Streptopelia decaocto,Eurasian Collared-Dove,eats
+4647,14850,Sturnus vulgaris,European Starling,eats
+4647,4504,Fratercula arctica,Atlantic Puffin,eats
+4647,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eats
+4647,4501,Alca torda,Razorbill,eats
+4647,472,Fulica,Coots,eats
+4647,13858,Passer domesticus,House Sparrow,eats
+4647,4789,Charadrius alexandrinus,Kentish Plover,eats
+4647,7006,Anser,Grey Geese,eats
+4647,44259,Microtus,Meadow Voles,eats
+4647,20445,Tyto alba,Barn Owl,eats
+4647,72458,Actitis macularius,Spotted Sandpiper,eats
+4647,4246,Podilymbus podiceps,Pied-billed Grebe,eats
+4647,144530,Sternula antillarum,Least Tern,eats
+4647,9981,Passerculus sandwichensis,Savannah Sparrow,eats
+4647,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+4647,4496,Rynchops niger,Black Skimmer,eats
+4647,144485,Charadrius nivosus,Snowy Plover,eats
+4647,4531,Brachyramphus marmoratus,Marbled Murrelet,eats
+4647,4838,Haematopus bachmani,Black Oystercatcher,eats
+4647,4063,Oceanodroma,,eats
+4647,6989,Bucephala,Goldeneyes and Bufflehead,eats
+4647,4561,Synthliboramphus antiquus,Ancient Murrelet,eats
+4647,4415,Cepphus columba,Pigeon Guillemot,eats
+4647,3941,Arenaria melanocephala,Black Turnstone,eats
+4647,36204,Sceloporus occidentalis,Western Fence Lizard,eats
+4647,11931,Tachycineta thalassina,Violet-green Swallow,eats
+4647,122767,Columba livia domestica,Feral Pigeon,eats
+4647,4836,Himantopus mexicanus,Black-necked Stilt,eats
+4647,3454,Zenaida macroura,Mourning Dove,eats
+4647,9535,Sturnella neglecta,Western Meadowlark,eats
+4647,4940,Egretta thula,Snowy Egret,eats
+4647,154,Rallidae,"Rails, Gallinules, and Coots",eats
+4647,4457,Sterna forsteri,Forster's Tern,eats
+4647,473,Fulica americana,American Coot,eats
+4647,4793,Charadrius vociferus,Killdeer,eats
+4647,2708,Columbiformes,Pigeons and Doves,eats
+4647,8229,Cyanocitta cristata,Blue Jay,eats
+4647,8021,Corvus brachyrhynchos,American Crow,eats
+4647,4345,Larus occidentalis,Western Gull,eats
+4647,4885,Recurvirostra americana,American Avocet,eats
+4647,47178,Actinopterygii,Ray-finned Fishes,eats
+4647,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+4647,8010,Corvus corax,Common Raven,eatenBy
+4647,42069,Vulpes vulpes,Red Fox,eatenBy
+4647,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4647,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+4647,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4647,19898,Strix aluco,Tawny Owl,eatenBy
+4647,204496,Corvus corone,Carrion Crow,eatenBy
+4647,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4647,,Elaphe situla,,eatenBy
+4647,39407,Varanus griseus,Desert Monitor,eatenBy
+4647,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4647,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4647,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4647,,Aquila chrysaetos,,eatenBy
+4647,4657,Falco rusticolus,Gyrfalcon,eatenBy
+4647,,Myiopsitta monachus,,eatenBy
+4647,3951,Limosa lapponica,Bar-tailed Godwit,preysOn
+4647,6930,Anas platyrhynchos,Mallard,preysOn
+4647,3901,Numenius phaeopus,Whimbrel,preysOn
+4647,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preysOn
+4647,20979,Anura,Frogs and Toads,preysOn
+4647,447155,Larinae,Gulls,preysOn
+4647,3849,Calidris alba,Sanderling,preysOn
+4647,6912,Anatidae,"Ducks, Geese, and Swans",preysOn
+4647,122767,Columba livia domestica,Feral Pigeon,preysOn
+4647,14850,Sturnus vulgaris,European Starling,preysOn
+4647,3017,Columba livia,Rock Pigeon,preysOn
+4647,3,Aves,Birds,preysOn
+4647,9528,Sturnella magna,Eastern Meadowlark,preysOn
+4647,4665,Falco sparverius,American Kestrel,preysOn
+4647,6553,Aeronautes saxatalis,White-throated Swift,preysOn
+4647,144497,Phalaropus tricolor,Wilson's Phalarope,preysOn
+4647,67561,Charadriiformes,Shorebirds and Allies,preysOn
+4647,7251,Passeriformes,Perching Birds,preysOn
+4647,154,Rallidae,"Rails, Gallinules, and Coots",preysOn
+4647,18236,Colaptes auratus,Northern Flicker,preysOn
+4647,4647,Falco peregrinus,Peregrine Falcon,preysOn
+4647,8229,Cyanocitta cristata,Blue Jay,preysOn
+4647,3896,Numenius arquata,Eurasian Curlew,preysOn
+4647,7067,Tadorna tadorna,Common Shelduck,preysOn
+4647,,Chroicocephalus ridibundus,,preysOn
+4647,4889,Pluvialis apricaria,European Golden Plover,preysOn
+4647,4892,Pluvialis squatarola,Black-bellied Plover,preysOn
+4647,4356,Larus canus,Mew Gull,preysOn
+4647,3857,Calidris alpina,Dunlin,preysOn
+4647,3845,Calidris canutus,Red Knot,preysOn
+4647,,Anas penelope,,preysOn
+4647,,Recurvirostra avosetta,,preysOn
+4647,6933,Anas acuta,Northern Pintail,preysOn
+4647,3879,Tringa totanus,Common Redshank,preysOn
+4647,3878,Tringa nebularia,Common Greenshank,preysOn
+4647,6937,Anas crecca,Green-winged Teal,preysOn
+4647,4843,Haematopus ostralegus,Eurasian Oystercatcher,preysOn
+4647,4801,Charadrius hiaticula,Common Ringed Plover,preysOn
+4647,3882,Tringa erythropus,Spotted Redshank,preysOn
+4647,,Pteropus anetianus,,preysOn
+4647,40870,Pteropus,Flying Foxes,preysOn
+4647,25474,Rana,Pond Frogs,preysOn
+4647,4364,Larus delawarensis,Ring-billed Gull,preysOn
+4647,,Leucophaeus modestus,,preysOn
+4647,144517,Ichthyaetus melanocephalus,Mediterranean Gull,preysOn
+4647,,Colaptes auratus cafer,,preysOn
+4647,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy

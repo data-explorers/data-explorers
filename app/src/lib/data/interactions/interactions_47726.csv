@@ -1,0 +1,83 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47726,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+47726,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+47726,81655,Nematocampa,,eatenBy
+47726,81681,Campaea perlata,Pale Beauty,eatenBy
+47726,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+47726,44259,Microtus,Meadow Voles,eatenBy
+47726,127510,Fomes fomentarius,Hoof Fungus,eatenBy
+47726,,Ptycholoma lecheana,,eatenBy
+47726,,Clepsis persicana,,eatenBy
+47726,143282,Pandemis limitata,Three-lined Leafroller Moth,eatenBy
+47726,,Archips negundana,,eatenBy
+47726,,Archips argyrospila,,eatenBy
+47726,,Adoxophyes negundana,,eatenBy
+47726,228845,Proteoteras crescentana,Black-crescent Proteoteras Moth,eatenBy
+47726,,Eacles imperialis,,eatenBy
+47726,,Laetilia coccidivora,,eatenBy
+47726,,Oiketicus abbotii,,eatenBy
+47726,,Datana ministra,,eatenBy
+47726,,Oligocentria lignicolor,,eatenBy
+47726,,Xylena cineritia,,eatenBy
+47726,,Lithophane georgii,,eatenBy
+47726,,Orthosia hibisci,,eatenBy
+47726,,Papaipema cataphracta,,eatenBy
+47726,,Zale galbanata,,eatenBy
+47726,,Crocigrapha normani,,eatenBy
+47726,,Orgyia leuschneri,,eatenBy
+47726,47802,Lymantria dispar,LD Moth,eatenBy
+47726,,Acronicta sperata,,eatenBy
+47726,,Caloptilia alnivorella,,eatenBy
+47726,,Nematocampa filamentaria,,eatenBy
+47726,,Iridopsis larvaria,,eatenBy
+47726,,Paleacrita vernata,,eatenBy
+47726,,Semiothisa aemulataria,,eatenBy
+47726,,Erannis tiliaria,,eatenBy
+47726,,Ectropis crepuscularia,,eatenBy
+47726,127133,Hyphantria cunea,Fall Webworm Moth,eatenBy
+47726,,Biston betularia,,eatenBy
+47726,,Sabulodes caberata,,eatenBy
+47726,120217,Halysidota tessellaris,Banded Tussock Moth,eatenBy
+47726,213498,Anacampsis niveopulvella,Pale-headed Aspen Leafroller Moth,eatenBy
+47726,,Haploa lecontei,,eatenBy
+47726,,Satyrium calanus,,eatenBy
+47726,,Rigidoporus ulmarius,,eatenBy
+47726,,Valsa ambiens leucostomoides,,eatenBy
+47726,,Cryptodiaporthe lebiseyi,,eatenBy
+47726,,Contarinia negundinis,,eatenBy
+47726,,Proteoteras willingana,,eatenBy
+47726,,Aceria negundi,,eatenBy
+47726,,Cerioporus squamosus,,eatenBy
+47726,,Cuscuta lupuliformis,,eatenBy
+47726,,Amphipyra berbera,,eatenBy
+47726,,Flammulina velutipes,,eatenBy
+47726,198991,Andrena frigida,Frigid Mining Bee,eatenBy
+47726,9800,Coccothraustes vespertinus,Evening Grosbeak,eatenBy
+47726,52965,Sphaerophoria,Globetails,pollinatedBy
+47726,53648,Nomada,Nomad Bees,pollinatedBy
+47726,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+47726,,Pentaria trifasciata,,pollinatedBy
+47726,,Acanthoscelides obtectus,,pollinatedBy
+47726,,Physocephala texana,,pollinatedBy
+47726,,Anoplius illinoensis,,pollinatedBy
+47726,,Brachypalpus,,pollinatedBy
+47726,,Callandrena,,pollinatedBy
+47726,,Pseudosiobla,,pollinatedBy
+47726,,Andrena,,pollinatedBy
+47726,,Rhamphomyia limbata,,pollinatedBy
+47726,,Amegilla,,pollinatedBy
+47726,572115,Pseudopanurgus labrosus,,pollinatedBy
+47726,,Cryptorhopalum triste,,pollinatedBy
+47726,299141,Urosigalphus femoratus,,pollinatedBy
+47726,,Ichneumon longulus,,pollinatedBy
+47726,,Scymnus consobrinus,,pollinatedBy
+47726,,Aedes vexans,,pollinatedBy
+47726,,Spallanzania hesperidarum,,pollinatedBy
+47726,,Tiphia,,pollinatedBy
+47726,,Vermiculissimum,,pollinatedBy
+47726,,Parhelophilus divisus,,pollinatedBy
+47726,233377,Valgus canaliculatus,,pollinatedBy
+47726,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+47726,,Coelioxys germana,,pollinatedBy
+47726,,Evylaeus,,pollinatedBy
+47726,46017,Sciurus carolinensis,Eastern Gray Squirrel,preyedUponBy

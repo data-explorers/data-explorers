@@ -1,0 +1,78 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+152823,47186,Decapoda,Decapods,eats
+152823,152822,Narcomedusae,,eats
+152823,122326,Salpida,Salps,eats
+152823,152823,Siphonophorae,Siphonophores,eats
+152823,153112,Euphausiacea,krill,eats
+152823,117709,Cydippida,Cydippids,eats
+152823,51508,Ctenophora,Comb Jellies,eats
+152823,800860,Salpa thompsoni,,eatenBy
+152823,87467,Chromis,Chromis,eatenBy
+152823,48330,Ulmaridae,Ulmarid Jellies,eatenBy
+152823,49537,Campanulariidae,,eatenBy
+152823,51511,Beroidae,,eatenBy
+152823,152823,Siphonophorae,Siphonophores,eatenBy
+152823,253737,Vampyroteuthis infernalis,Vampire Squid,eatenBy
+152823,253729,Onykia carriboea,Tropical Clubhook Squid,eatenBy
+152823,680031,Oplophorus gracilirostris,,eatenBy
+152823,617783,Electrona antarctica,,eatenBy
+152823,,Scaphocalanus farrani,,eatenBy
+152823,295894,Vibilia stebbingi,,eatenBy
+152823,,Heterorhabdus austrinus,,eatenBy
+152823,,Spinocalanus abyssalis,,eatenBy
+152823,,Triconia antarctica,,eatenBy
+152823,,Pseudosagitta gazellae,,eatenBy
+152823,617786,Gymnoscopelus braueri,,eatenBy
+152823,,Euchirella rostromagna,,eatenBy
+152823,,Solidosagitta marri,,eatenBy
+152823,975132,Eukrohnia hamata,,eatenBy
+152823,,Haloptilus ocellatus,,eatenBy
+152823,201742,Pleuromamma robusta,,eatenBy
+152823,,Metridia curticauda,,eatenBy
+152823,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eatenBy
+152823,,Calanoides acutus,,eatenBy
+152823,952607,Euphausia frigida,,eatenBy
+152823,,Rhincalanus gigas,,eatenBy
+152823,,Notolepis coatsi,,eatenBy
+152823,292943,Clio pyramidata,,eatenBy
+152823,,Gaetanus tenuispinus,,eatenBy
+152823,344134,Euphausia superba,Antarctic Krill,eatenBy
+152823,,Thysanoessa macrura,,eatenBy
+152823,,Paraeuchaeta antarctica,,eatenBy
+152823,,Calanus propinquus,,eatenBy
+152823,,Pseudoamallothrix cenotelis,,eatenBy
+152823,,Metridia gerlachei,,eatenBy
+152823,222155,Icichthys lockingtoni,Medusafish,eatenBy
+152823,107685,Opisthonema libertate,Pacific Thread Herring,eatenBy
+152823,112419,Sebastes mentella,Deepwater Redfish,eatenBy
+152823,64477,Sebastes flavidus,Yellowtail Rockfish,eatenBy
+152823,450428,Centrolophus niger,Rudderfish,eatenBy
+152823,459175,Alepocephalus bairdii,Baird's Smoothhead,eatenBy
+152823,459327,Argyropelecus aculeatus,Atlantic Silver Hatchetfish,eatenBy
+152823,55535,Sardinops sagax,Pacific Sardine,eatenBy
+152823,52464,Melichthys niger,Black Triggerfish,eatenBy
+152823,210173,Kyphosus vaigiensis,Brassy Drummer,eatenBy
+152823,179646,Canthidermis maculata,Spotted Oceanic Triggerfish,eatenBy
+152823,47228,Caranx sexfasciatus,Bigeye Trevally,eatenBy
+152823,51356,Kyphosus cinerascens,Highfin Chub,eatenBy
+152823,122033,Elagatis bipinnulata,Rainbow Runner,eatenBy
+152823,113903,Terapon theraps,Largescale Grunter,eatenBy
+152823,131388,Haemulon melanurum,Cottonwick,eatenBy
+152823,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+152823,108614,Paranthias furcifer,Atlantic Creolefish,eatenBy
+152823,,Chromis cyanea,,eatenBy
+152823,49306,Stegastes,Gregories,eatenBy
+152823,,Chromis multilineata,,eatenBy
+152823,195418,Aeginidae,,eatenBy
+152823,195427,Cuninidae,,eatenBy
+152823,706666,Lampoctenidae,,eatenBy
+152823,495478,Haemulon vittatum,Boga,eatenBy
+152823,97983,Clepticus parrae,Creole Wrasse,eatenBy
+152823,179519,Opisthonema oglinum,Atlantic Thread Herring,eatenBy
+152823,64468,Sebastes emphaeus,Puget Sound Rockfish,eatenBy
+152823,131518,Xanthichthys ringens,Sargassum Triggerfish,eatenBy
+152823,115035,Xanthichthys mento,Crosshatch Triggerfish,eatenBy
+152823,64478,Sebastes entomelas,Widow Rockfish,eatenBy
+152823,96265,Bythaelurus canescens,Dusky Catshark,eatenBy
+152823,530433,Electrona carlsbergi,Carlsberg's Lanternfish,eatenBy
+152823,459381,Epigonus telescopus,Black Deepsea Cardinalfish,eatenBy

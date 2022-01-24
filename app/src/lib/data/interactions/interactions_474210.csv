@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+474210,211194,Tracheophyta,vascular plants,eats
+474210,1,Animalia,Animals,eats
+474210,47434,Poaceae,grasses,eats
+474210,47124,Magnoliopsida,dicots,eats
+474210,47158,Insecta,Insects,eats
+474210,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+474210,47118,Araneae,Spiders,eats
+474210,47157,Lepidoptera,Butterflies and Moths,eats
+474210,72122,Eriophorum,Cottongrass,eats
+474210,47822,Diptera,Flies,eats
+474210,48571,Carex,true sedges,eats
+474210,47204,Brassicaceae,mustard family,eats
+474210,47115,Mollusca,Molluscs,eats
+474210,52326,Amaranthus,amaranths,eats
+474210,63573,Picea,spruces,eats
+474210,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+474210,53113,Brassica,cabbages and mustards,eats
+474210,47208,Coleoptera,Beetles,eats
+474210,47119,Arachnida,Arachnids,eats
+474210,48567,Caryophyllaceae,pink family,eats
+474210,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+474210,55824,Draba,Drabas,eats
+474210,,Empetrum nigrum,,eats
+474210,,Scirpus,,eats
+474210,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+474210,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+474210,20307,Asio otus,Long-eared Owl,eatenBy
+474210,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+474210,20315,Asio flammeus,Short-eared Owl,eatenBy
+474210,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+474210,4665,Falco sparverius,American Kestrel,preyedUponBy

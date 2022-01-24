@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+154340,124431,Cycloneda sanguinea,Spotless Lady Beetle,eats
+154340,47208,Coleoptera,Beetles,eats
+154340,47219,Apis mellifera,Western Honey Bee,eats
+154340,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+154340,47383,Latrodectus geometricus,Brown Widow,eatenBy
+154340,16447,Pyrocephalus rubinus,Vermilion Flycatcher,eatenBy
+154340,1986,Geococcyx californianus,Greater Roadrunner,preyedUponBy

@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47434,42866,Macropus agilis,Agile Wallaby,eats
+47434,7018,Anser anser,Greylag Goose,eatenBy
+47434,2969,Streptopelia decaocto,Eurasian Collared-Dove,eatenBy
+47434,13858,Passer domesticus,House Sparrow,eatenBy
+47434,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+47434,9100,Melospiza melodia,Song Sparrow,eatenBy
+47434,1081332,Lon melane,Umber Skipper,eatenBy
+47434,199840,Haemorhous mexicanus,House Finch,eatenBy
+47434,46020,Sciurus niger,Fox Squirrel,eatenBy
+47434,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+47434,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+47434,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+47434,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+47434,43115,Sylvilagus audubonii,Desert Cottontail,eatenBy
+47434,10227,Passerina cyanea,Indigo Bunting,eatenBy
+47434,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+47434,73155,Passerina caerulea,Blue Grosbeak,eatenBy
+47434,59119,Pontia protodice,Checkered White,eatenBy
+47434,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+47434,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+47434,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+47434,7089,Branta canadensis,Canada Goose,eatenBy
+47434,13633,Baeolophus inornatus,Oak Titmouse,eatenBy
+47434,42007,Puma concolor,Mountain Lion,eatenBy
+47434,43111,Sylvilagus floridanus,Eastern Cottontail,eatenBy
+47434,68165,Linepithema humile,Argentine Ant,eatenBy
+47434,41638,Ursus americanus,American Black Bear,eatenBy
+47434,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+47434,473,Fulica americana,American Coot,eatenBy
+47434,43112,Sylvilagus bachmani,Brush Rabbit,eatenBy
+47434,204094,Cairina moschata domestica,Domestic Muscovy Duck,eatenBy
+47434,42069,Vulpes vulpes,Red Fox,eatenBy
+47434,42051,Canis latrans,Coyote,eatenBy
+47434,41976,Lynx rufus,Bobcat,eatenBy
+47434,67760,Popillia japonica,Japanese Beetle,eatenBy
+47434,60922,Coccoidea,Scale Insects,eatenBy
+47434,53237,Cicadellidae,Typical Leafhoppers,eatenBy
+47434,54573,Schizophyllum commune,splitgill mushroom,eatenBy
+47434,9602,Quiscalus quiscula,Common Grackle,eatenBy
+47434,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47434,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47434,6930,Anas platyrhynchos,Mallard,eatenBy
+47434,558433,Spatula discors,Blue-winged Teal,eatenBy
+47434,7294,Eremophila alpestris,Horned Lark,eatenBy
+47434,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47434,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+47434,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47434,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47434,981,Phasianus colchicus,Ring-necked Pheasant,eatenBy
+47434,508048,Antigone canadensis,Sandhill Crane,eatenBy
+47434,1409,Callipepla californica,California Quail,eatenBy
+47434,7043,Aythya,"Scaups, Pochards, and Allies",eatenBy
+47434,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+47434,558439,Mareca strepera,Gadwall,eatenBy
+47434,14850,Sturnus vulgaris,European Starling,eatenBy
+47434,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+47434,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47434,18236,Colaptes auratus,Northern Flicker,eatenBy
+47434,10469,Xanthocephalus,,eatenBy
+47434,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+47434,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+47434,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+47434,9135,Spizella passerina,Chipping Sparrow,eatenBy
+47434,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+47434,9184,Zonotrichia albicollis,White-throated Sparrow,eatenBy
+47434,10479,Chondestes grammacus,Lark Sparrow,eatenBy
+47434,9182,Zonotrichia querula,Harris's Sparrow,eatenBy
+47434,9152,Spizella pusilla,Field Sparrow,eatenBy
+47434,9156,Passerella iliaca,Fox Sparrow,eatenBy
+47434,8010,Corvus corax,Common Raven,eatenBy
+47434,7998,Corvus,Crows and Ravens,eatenBy
+47434,8021,Corvus brachyrhynchos,American Crow,eatenBy
+47434,3017,Columba livia,Rock Pigeon,eatenBy
+47434,3454,Zenaida macroura,Mourning Dove,eatenBy
+47434,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+47434,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+47434,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+47434,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47434,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+47434,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+47434,73044,Melozone crissalis,California Towhee,eatenBy
+47434,893630,Tenthredopsis nassata,Common Tenthredopsis,eatenBy
+47434,130721,Eutomostethus ephippium,,eatenBy
+47434,,Dolerus (Poodolerus) nitens,,eatenBy
+47434,,Dolerus (Poodolerus) aeneus,,eatenBy
+47434,,Dolerus (Poodolerus) anthracinus,,eatenBy
+47434,,Dolerus (Poodolerus) haematodes,,eatenBy
+47434,,Pachynematus clitellatus,,eatenBy
+47434,,Dolerus (Poodolerus) puncticollis,,eatenBy
+47434,,Dolerus varispinus,,eatenBy
+47434,510327,Cephus pygmeus,European Wheat Stem Sawfly,eatenBy
+47434,1084123,Pachynematus lichtwardti,,eatenBy
+47434,,Dolerus (Poodolerus) picipes,,eatenBy
+47434,497699,Macrophya duodecimpunctata,,eatenBy
+47434,,Dolerus (Poodolerus) gonager,,eatenBy
+47434,,Dolerus (Poodolerus) possilensis,,eatenBy
+47434,990809,Dolerus fumosus,,eatenBy
+47434,857029,Tenthredopsis litterata,Large Tenthredopsis,eatenBy
+47434,359375,Selandria serva,,eatenBy
+47434,703525,Tenthredo maculata,Large Yellow-girdled Tenthredo,eatenBy
+47434,715641,Trachelus tabidus,,eatenBy

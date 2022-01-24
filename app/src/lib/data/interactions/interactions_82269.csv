@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82269,51876,Trifolium,clovers,eats
+82269,57190,Phleum pratense,Timothy grass,eats
+82269,58335,Nicotiana,tobaccos,eats
+82269,60307,Poa pratensis,Smooth Meadow-grass,eats
+82269,,Deschampsia,,eats
+82269,,Festuca rubra,,eats
+82269,48448,Zea mays,Maize,eats
+82269,58907,Melilotus albus,White Sweetclover,pollinates
+82269,59029,Verbascum thapsus,great mullein,pollinates
+82269,55745,Trifolium repens,white clover,pollinates
+82269,53207,Senecio,groundsels,pollinates
+82269,,Chaerophyllum,,pollinates
+82269,158380,Angelica sylvestris,Wild Angelica,pollinates
+82269,,Stachys sylvatica,,pollinates
+82269,,Tripleurospermum inodorum,,pollinates
+82269,,Vicia hirsuta,,pollinates

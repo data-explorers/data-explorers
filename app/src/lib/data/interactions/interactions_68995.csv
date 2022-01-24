@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68995,7562,Troglodytes aedon,House Wren,eatenBy
+68995,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+68995,18236,Colaptes auratus,Northern Flicker,eatenBy
+68995,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+68995,,Sphyrapicus thyroideus,,eatenBy
+68995,,Dryobates albolarvatus,,eatenBy
+68995,,Picoides pubescens,,eatenBy
+68995,,Picoides villosus,,eatenBy

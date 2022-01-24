@@ -1,0 +1,68 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54762,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+54762,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+54762,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+54762,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+54762,,Sparganothis,,eatenBy
+54762,,Episimus tyrius,,eatenBy
+54762,,Synanthedon acerni,,eatenBy
+54762,48094,Dryocampa rubicunda,Rosy Maple Moth,eatenBy
+54762,,Eacles imperialis,,eatenBy
+54762,,Colocasia propinquilinea,,eatenBy
+54762,,Heterocampa biundata,,eatenBy
+54762,,Machimia tentoriferella,,eatenBy
+54762,,Parallelia bistriaris,,eatenBy
+54762,,Orthosia hibisci,,eatenBy
+54762,,Heterocampa guttivitta,,eatenBy
+54762,,Leucoma salicis,,eatenBy
+54762,47802,Lymantria dispar,LD Moth,eatenBy
+54762,,Operophtera brumata,,eatenBy
+54762,,Paleacrita vernata,,eatenBy
+54762,,Speranza pustularia,,eatenBy
+54762,,Semiothisa aemulataria,,eatenBy
+54762,127133,Hyphantria cunea,Fall Webworm Moth,eatenBy
+54762,,Rhytisma americanum,,eatenBy
+54762,,Neoclytus acuminatus,,eatenBy
+54762,,Viscum album,,eatenBy
+54762,,Vasates quadripedes,,eatenBy
+54762,,Pollenia,,eatenBy
+54762,,Andrena,,eatenBy
+54762,155106,Eristalis dimidiata,Black-shouldered Drone Fly,eatenBy
+54762,,Drepanosiphum platanoidis,,eatenBy
+54762,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+54762,52781,Melissodes,,pollinatedBy
+54762,57671,Anthidium,Carder Bees,pollinatedBy
+54762,203323,Collops quadrimaculatus,Four-spotted Collops,pollinatedBy
+54762,173730,Drasteria,,pollinatedBy
+54762,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+54762,,Eugnoriste occidentalis,,pollinatedBy
+54762,,Gnathias,,pollinatedBy
+54762,,Vipio,,pollinatedBy
+54762,,Anoplius virginiensis,,pollinatedBy
+54762,,Evylaeus,,pollinatedBy
+54762,,Plagiotoma,,pollinatedBy
+54762,,Corizus,,pollinatedBy
+54762,,Spallanzania hesperidarum,,pollinatedBy
+54762,,Heringia salax,,pollinatedBy
+54762,,Lampronota,,pollinatedBy
+54762,,Chloralictus,,pollinatedBy
+54762,,Astata unicolor,,pollinatedBy
+54762,,Glypta,,pollinatedBy
+54762,,Cheilosia hoodiana,,pollinatedBy
+54762,,Amegilla,,pollinatedBy
+54762,,Ceratina dupla,,pollinatedBy
+54762,,Sarcophaga sinuata,,pollinatedBy
+54762,,Triepeolus cressonii,,pollinatedBy
+54762,,Scymnus consobrinus,,pollinatedBy
+54762,,Dasiops latifrons,,pollinatedBy
+54762,,Megacyllene decora,,pollinatedBy
+54762,,Bibio femoratus,,pollinatedBy
+54762,52488,Syrphus ribesii,Common Flower Fly,pollinatedBy
+54762,,Eumea caesar,,pollinatedBy
+54762,486837,Cemolobus,cemolobus bees,pollinatedBy
+54762,142276,Tetanocera,,pollinatedBy
+54762,,Trachandrena,,pollinatedBy
+54762,,Holonomada,,pollinatedBy
+54762,,Andrena,,pollinatedBy
+54762,,Mesopolobus fasciiventris,,pollinatedBy
+54762,,Wind,,pollinatedBy

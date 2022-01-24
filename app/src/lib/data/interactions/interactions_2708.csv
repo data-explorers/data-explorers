@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+2708,,Beccariophoenix madagascariensis,,eats
+2708,,Aglaia spectabilis,,eats
+2708,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+2708,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+2708,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+2708,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+2708,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+2708,369533,Cryptocarya hypospodia,North Queensland Purple Laurel,preysOn
+2708,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+2708,42051,Canis latrans,Coyote,preyedUponBy

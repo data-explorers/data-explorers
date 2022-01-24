@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64278,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+64278,,Zizeeria karsandra,,eatenBy
+64278,,Zizeeria knysna,,eatenBy
+64278,,Achaea janata,,eatenBy
+64278,,Grammodes stolida,,eatenBy
+64278,,Prodotis stolida,,eatenBy
+64278,49348,Hyles lineata,White-lined Sphinx,eatenBy
+64278,,Numida mitrata,,eatenBy

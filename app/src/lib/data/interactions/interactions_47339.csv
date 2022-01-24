@@ -1,0 +1,124 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47339,81566,Satyrium edwardsii,Edwards' Hairstreak,eatenBy
+47339,17355,Vireo,Vireos,eatenBy
+47339,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47339,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47339,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+47339,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+47339,18236,Colaptes auratus,Northern Flicker,eatenBy
+47339,41641,Ursus arctos,Brown Bear,eatenBy
+47339,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+47339,,Picoides pubescens,,eatenBy
+47339,,Dryobates albolarvatus,,eatenBy
+47339,,Picoides villosus,,eatenBy
+47339,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+47339,13732,Anthus rubescens,American Pipit,eatenBy
+47339,,Anthus spragueii,,eatenBy
+47339,,Aralia cordata,,pollinates
+47339,,Reynoutria japonica,,pollinates
+47339,635686,Astilbe thunbergii,Ostrich Plume,pollinates
+47339,,Lysimachia clethroides,,pollinates
+47339,,Cornus controversa,,pollinates
+47339,,Aucuba japonica,,pollinates
+47339,,Barbarea vulgaris,,pollinates
+47339,122239,Porcellionidae,Porcellionid Woodlice,preysOn
+47339,47868,Philodromidae,Running Crab Spiders,preysOn
+47339,47416,Lycosidae,Wolf Spiders,preysOn
+47339,81769,Blattodea,Cockroaches and Termites,preysOn
+47339,47866,Thomisidae,Crab Spiders,preysOn
+47339,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+47339,48139,Salticidae,Jumping Spiders,preysOn
+47339,47118,Araneae,Spiders,preysOn
+47339,53237,Cicadellidae,Typical Leafhoppers,preysOn
+47339,47951,Staphylinidae,Rove Beetles,preysOn
+47339,53275,Chironomidae,Non-biting Midges,preysOn
+47339,61267,Heteroptera,True Bugs,preysOn
+47339,56189,Philaenus spumarius,Meadow spittlebug,preysOn
+47339,47415,Pardosa,Thin-legged Wolf Spiders,preysOn
+47339,50168,Gnaphosidae,Ground Spiders,preysOn
+47339,55470,Arctosa,Bear Spiders,preysOn
+47339,,Acupalpus flavicollis,,preysOn
+47339,,Comantenna,,preysOn
+47339,,Vallonia pulchella,,preysOn
+47339,153717,Liocranidae,liocranid spiders,preysOn
+47339,131943,Rugilus rufipes,,preysOn
+47339,605071,Cicadina,,preysOn
+47339,548177,Neon valentulus,,preysOn
+47339,988384,Bryaxis bulbifer,,preysOn
+47339,131906,Oxytelus,,preysOn
+47339,,Ero,,preysOn
+47339,123608,Delphacidae,,preysOn
+47339,,Graptodytes granularis,,preysOn
+47339,233535,Vertigo pygmaea,Common Whorl-snail,preysOn
+47339,,Vertigo moulinsiana,,preysOn
+47339,251175,Edaphus,,preysOn
+47339,,Sitticus caricis,,preysOn
+47339,,Euconulus,,preysOn
+47339,991343,Euaesthetus ruficapillus,,preysOn
+47339,153881,Ozyptila,Leaflitter Crab Spiders,preysOn
+47339,371954,Ligidium hypnorum,Carr Slater,preysOn
+47339,52380,Aphidoidea,,preysOn
+47339,61762,Evarcha,,preysOn
+47339,86114,Trichoniscidae,,preysOn
+47339,232475,Thanatus striatus,Five-striped Spider,preysOn
+47339,,Anotylus intricatus,,preysOn
+47339,,Dryops auriculatus,,preysOn
+47339,121774,Clubiona,Leafcurling Sac Spiders,preysOn
+47339,,Zora,,preysOn
+47339,,Pirata,,preysOn
+47339,,Dryops,,preysOn
+47339,416678,Callobius claustrarius,,preysOn
+47339,,Eupterygini,,preysOn
+47339,131962,Stenus,,preysOn
+47339,,Haplothrips,,preysOn
+47339,146722,Marpissa,,preysOn
+47339,203242,Aleocharinae,,preysOn
+47339,569944,Limothrips denticornis,,preysOn
+47339,,Euconnus,,preysOn
+47339,121766,Micrommata virescens,Green Huntsman Spider,preysOn
+47339,357413,Evarcha arcuata,,preysOn
+47339,,Euconnus hirticollis,,preysOn
+47339,,Myllaena minuta,,preysOn
+47339,624522,Hebrus pusillus,,preysOn
+47339,,Nestus,,preysOn
+47339,55787,Pisaura mirabilis,European Nursery Web spider,preysOn
+47339,,Chaetarthria seminulum,,preysOn
+47339,153863,Thanatus,,preysOn
+47339,114536,Trochulus sericeus,,preysOn
+47339,,Hebrus ruficeps,,preysOn
+47339,451596,Oxyloma elegans,Slender Amber Snail,preysOn
+47339,1000693,Myllaena dubia,,preysOn
+47339,360744,Marpissa radiata,,preysOn
+47339,178192,Hebridae,Velvet Water Bugs,preysOn
+47339,531182,Clubiona subtilis,,preysOn
+47339,,Anthocomus rufus,,preysOn
+47339,,Sitticus,,preysOn
+47339,1151405,Lesteva sicula,,preysOn
+47339,153636,Zelotes,,preysOn
+47339,,Anisus leucostoma,,preysOn
+47339,554158,Chartoscirta cincta,,preysOn
+47339,47869,Tibellus,Slender Crab Spiders,preysOn
+47339,,Acanthinula aculeata,,preysOn
+47339,,Vertigo antivertigo,,preysOn
+47339,50190,Cicadoidea,Cicadas,preysOn
+47339,1017714,Stenus carbonarius,,preysOn
+47339,320563,Anthocomus,,preysOn
+47339,,Neodiprion sertifer,,preysOn
+47339,82081,Theridion,Tangleweb Spiders,preyedUponBy
+47339,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+47339,82418,Cicindela punctulata,Punctured Tiger Beetle,preyedUponBy
+47339,47951,Staphylinidae,Rove Beetles,preyedUponBy
+47339,784206,Trochosa spinipalpis,,preyedUponBy
+47339,359911,Staphylininae,,preyedUponBy
+47339,784329,Robertus insignis,,preyedUponBy
+47339,,Paederus riparius,,preyedUponBy
+47339,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+47339,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+47339,82118,Dolomedes,Fishing Spiders,preyedUponBy
+47339,468120,Anelosimus vittatus,,preyedUponBy
+47339,231469,Staphylinus erythropterus,,preyedUponBy
+47339,153747,Robertus,,preyedUponBy
+47339,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+47339,447460,Clubiona phragmitis,,preyedUponBy
+47339,,Tetrao urogallus,,preyedUponBy
+47339,,Solenopsis fugax,,preyedUponBy

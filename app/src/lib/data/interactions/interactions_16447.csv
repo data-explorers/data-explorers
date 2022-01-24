@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+16447,47158,Insecta,Insects,eats
+16447,47120,Arthropoda,Arthropods,eats
+16447,154340,Gryllodes sigillatus,Tropical House Cricket,eats
+16447,47653,Hesperiidae,Skippers,eats
+16447,184884,Pterygota,Winged and Once-winged Insects,eats
+16447,47157,Lepidoptera,Butterflies and Moths,eats
+16447,47927,Anisoptera,Dragonflies,eats
+16447,,Quercus humboldtii,,eats
+16447,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+16447,,Lestes australis,,preysOn

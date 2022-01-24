@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67561,47308,Gobiidae,Gobies,eats
+67561,47120,Arthropoda,Arthropods,eats
+67561,63288,Talitridae,Sandhoppers and Landhoppers,eats
+67561,194033,Coelopidae,Kelp Flies,eats
+67561,47822,Diptera,Flies,eats
+67561,53738,Ocypode,Ghost Crabs,eats
+67561,47414,Emerita analoga,Pacific Sand Crab,eats
+67561,47158,Insecta,Insects,eats
+67561,,saprovores,,eats
+67561,61806,Olivella,Dwarf Olives,eats
+67561,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+67561,526558,Mustelinae,Weasels,eatenBy
+67561,20044,Bubo virginianus,Great Horned Owl,eatenBy
+67561,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+67561,4479,Stercorarius,Skuas and Jaegers,eatenBy
+67561,233598,Vulpes lagopus,Arctic Fox,eatenBy
+67561,,Nannizzia ossicola,,eatenBy
+67561,26159,Alligator mississippiensis,American Alligator,eatenBy
+67561,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+67561,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+67561,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy

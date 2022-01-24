@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+26575,47115,Mollusca,Molluscs,eats
+26575,20978,Amphibia,Amphibians,eats
+26575,26036,Reptilia,Reptiles,eats
+26575,47491,Annelida,Segmented Worms,eats
+26575,41880,Mephitis mephitis,Striped Skunk,eatenBy
+26575,42652,Didelphis virginiana,Virginia Opossum,eatenBy
+26575,1986,Geococcyx californianus,Greater Roadrunner,eatenBy
+26575,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+26575,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+26575,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+26575,,Rana catesbeiana,,eatenBy
+26575,,Micrurus fulvius,,eatenBy
+26575,,Micruroides euryxanthus,,eatenBy
+26575,,Coluber constrictor,,eatenBy
+26575,42134,Sus scrofa,Wild Boar,eatenBy
+26575,,Otus asio,,eatenBy
+26575,,Lampropeltis holbrooki,,eatenBy
+26575,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+26575,26718,Caudata,Salamanders,preysOn
+26575,69755,Haplotaxida,,preysOn
+26575,27818,Taricha torosa,California Newt,preysOn
+26575,32055,Elgaria multicarinata,Southern Alligator Lizard,preysOn
+26575,28339,Thamnophis,Garter Snakes,preysOn
+26575,,Thamnophis couchii,,preysOn
+26575,,Ramphotyphlops braminus,,preysOn
+26575,,Eurycea quadridigitata,,preysOn
+26575,,Plethodon metcalfi,,preysOn
+26575,,Ambystoma talpoideum,,preysOn
+26575,27186,Plethodon cinereus,Eastern Red-backed Salamander,preysOn
+26575,27456,Batrachoseps stebbinsi,Tehachapi Slender Salamander,preysOn
+26575,,Desmognathus abditus,,preysOn
+26575,,Scincella lateralis,,preysOn
+26575,,Eurycea lucifuga,,preysOn
+26575,371962,Lampropeltis zonata,California Mountain Kingsnake,preysOn
+26575,,Plethodon glutinosus,,preysOn
+26575,26916,Contia tenuis,Sharp-tailed Snake,preysOn
+26575,,Plethodon dorsalis,,preysOn
+26575,1986,Geococcyx californianus,Greater Roadrunner,preyedUponBy
+26575,506118,Aphelocoma californica,California Scrub-Jay,preyedUponBy
+26575,118552,Felis catus,Domestic Cat,preyedUponBy
+26575,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+26575,12727,Turdus migratorius,American Robin,preyedUponBy
+26575,46217,Tamias striatus,Eastern Chipmunk,preyedUponBy
+26575,29813,Lampropeltis getula,Eastern Kingsnake,preyedUponBy
+26575,,Cemophora coccinea copei,,preyedUponBy
+26575,,Coluber constrictor,,preyedUponBy
+26575,,Lampropeltis elapsoides,,preyedUponBy
+26575,912622,Agkistrodon contortrix,Eastern Copperhead,preyedUponBy
+26575,515419,Lampropeltis triangulum,Eastern Milksnake,preyedUponBy
+26575,,Micrurus fulvius,,preyedUponBy

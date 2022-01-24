@@ -1,0 +1,60 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67742,40151,Mammalia,Mammals,eats
+67742,,Recently drowned insects,,eats
+67742,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+67742,61997,Steatoda grossa,False Black Widow,eatenBy
+67742,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+67742,11867,Progne subis,Purple Martin,eatenBy
+67742,7458,Certhia americana,Brown Creeper,eatenBy
+67742,,"Terrestrial predators living around the pitchers (spiders, mantids, dragonflies)",,eatenBy
+67742,,Colibri coruscans,,eatenBy
+67742,,Pseudomantis albofimbriata,,eatenBy
+67742,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+67742,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+67742,47535,Araneidae,Orbweavers,preyedUponBy
+67742,47118,Araneae,Spiders,preyedUponBy
+67742,51556,Sympetrum,Meadowhawks,preyedUponBy
+67742,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+67742,48124,Tettigoniidae,Katydids,preyedUponBy
+67742,82081,Theridion,Tangleweb Spiders,preyedUponBy
+67742,47550,Tetragnatha,,preyedUponBy
+67742,47866,Thomisidae,Crab Spiders,preyedUponBy
+67742,51469,Aeshnidae,Darners,preyedUponBy
+67742,47927,Anisoptera,Dragonflies,preyedUponBy
+67742,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+67742,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+67742,47928,Zygoptera,Damselflies,preyedUponBy
+67742,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+67742,153863,Thanatus,,preyedUponBy
+67742,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+67742,,Coenagrion pulchellum,,preyedUponBy
+67742,121444,Larinioides,,preyedUponBy
+67742,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+67742,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+67742,,Mangora acalypha,,preyedUponBy
+67742,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+67742,,Hercostomus assimilis,,preyedUponBy
+67742,51679,Coenagrion,Northern Bluets,preyedUponBy
+67742,,Dolichopus nubilius,,preyedUponBy
+67742,,Sitticus,,preyedUponBy
+67742,,Orthetrum,,preyedUponBy
+67742,556059,Dolichopus nitidus,,preyedUponBy
+67742,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+67742,,Somatochlora,,preyedUponBy
+67742,1200309,Argyra vestita,,preyedUponBy
+67742,,Sympetrum striolatum,,preyedUponBy
+67742,,Sitticus caricis,,preyedUponBy
+67742,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+67742,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+67742,,Ensifera,,preyedUponBy
+67742,49460,Empididae,Dance Flies,preyedUponBy
+67742,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+67742,,Campsicnemus scambus,,preyedUponBy
+67742,61762,Evarcha,,preyedUponBy
+67742,1200333,Teuchophorus calcaratus,,preyedUponBy
+67742,,"Dolichopus nubilius Meigen, 1924",,preyedUponBy
+67742,40592,Miniopterus australis,Little Long-fingered Bat,preyedUponBy
+67742,,Nyctophilus gouldi,,preyedUponBy
+67742,183164,Parastrellus hesperus,Canyon Bat,preyedUponBy
+67742,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+67742,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy

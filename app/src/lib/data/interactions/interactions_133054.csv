@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+133054,47822,Diptera,Flies,eats
+133054,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+133054,153635,Sergiolus,,preysOn
+133054,153595,Dictyna,,preysOn
+133054,51146,Chrysomelidae,Leaf Beetles,preysOn
+133054,153567,Anyphaena,,preysOn
+133054,177071,Melipotis,,preysOn
+133054,82081,Theridion,Tangleweb Spiders,preysOn
+133054,47951,Staphylinidae,Rove Beetles,preysOn
+133054,133054,Maevia inclemens,Dimorphic Jumping Spider,preysOn
+133054,203279,Scaphytopius,,preysOn
+133054,49995,Syrphidae,Hover Flies,preysOn
+133054,55659,Pyrausta,Mint Moths,preysOn
+133054,121467,Uloborus,Feather-legged Spiders,preysOn
+133054,67706,Argiope argentata,Silver Garden Orbweaver,preysOn
+133054,250072,Metacyrba,,preysOn
+133054,133824,Chrysobothris,,preysOn
+133054,203276,Orius,,preysOn
+133054,47550,Tetragnatha,,preysOn
+133054,47822,Diptera,Flies,preysOn
+133054,53237,Cicadellidae,Typical Leafhoppers,preysOn
+133054,342614,Entelegynae,Entelegyne Spiders,preysOn
+133054,179916,Tipulomorpha,Crane Flies,preysOn
+133054,153429,Culicomorpha,Mosquitoes and Midges,preysOn
+133054,62164,Trichoptera,Caddisflies,preysOn
+133054,47158,Insecta,Insects,preysOn
+133054,47120,Arthropoda,Arthropods,preysOn
+133054,47157,Lepidoptera,Butterflies and Moths,preysOn
+133054,49025,Membracoidea,Leafhoppers and Treehoppers,preysOn
+133054,,Nephila clavipes,,preysOn
+133054,178747,Tricorynus,,preysOn
+133054,208181,Arunta interclusa,mangrove cicada,preysOn
+133054,1244911,Pseudoacalles,,preysOn
+133054,,Ascia monuste,,preysOn
+133054,557422,Flatoidinus punctatus,,preysOn
+133054,,Tachys occulator,,preysOn
+133054,225137,Micronaspis floridana,,preysOn
+133054,,Leptostylus,,preysOn
+133054,230399,Sapintus fulvipes,,preysOn
+133054,503114,Metatropiphorus belfragii,,preysOn
+133054,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn
+133054,,Lynchia albipennis,,preysOn
+133054,135256,Eustala,,preysOn
+133054,,Oxacis,,preysOn
+133054,176795,Nemapogon,,preysOn
+133054,,Oebalus pugnax,,preysOn
+133054,,Trischidias atoma,,preysOn
+133054,49024,Membracidae,Typical Treehoppers,preysOn
+133054,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,preysOn
+133054,,Oxydia,,preysOn
+133054,,Aleurothrixus,,preysOn
+133054,57451,Scytodes,,preysOn
+133054,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preysOn
+133054,354274,Ballus,,preysOn
+133054,203330,Sericoderus,,preysOn
+133054,,Oiketicus abbottii,,preysOn
+133054,,Pyraustidae,,preysOn
+133054,329607,Holoparamecus,,preysOn
+133054,,Psocidus,,preysOn
+133054,518452,Carthasis decoratus,,preysOn
+133054,53273,Eriophora,,preysOn
+133054,330174,Pentacora sphacelata,,preysOn
+133054,,Bema ydda,,preysOn
+133054,129986,Oliarus,,preysOn
+133054,82279,Automeris io,Io Moth,preysOn
+133054,,Dufouriellus afer,,preysOn
+133054,49541,Gasteracantha,Spiny Orbweavers,preysOn
+133054,,Paraleyrodes,,preysOn
+133054,329886,Olfersia sordida,,preysOn
+133054,,Tetraluerodes,,preysOn
+133054,85716,Cucujidae,Flat bark beetles,preysOn
+133054,778499,Leucauge venusta,Orchard Orbweaver,preysOn
+133054,,Oxycopis suturalis,,preysOn
+133054,467803,Actinopteryx fucicola,,preysOn
+133054,,Psallus,,preysOn
+133054,49575,Pseudococcus,,preysOn
+133054,82118,Dolomedes,Fishing Spiders,preysOn
+133054,1159232,Tangia breviceps,,preysOn
+133054,420613,Stoidis,,preysOn
+133054,153839,Hentzia palmarum,Common Hentz Jumping Spider,preysOn
+133054,,Phoebis agarithe,,preysOn
+133054,263718,Argyrodes nephilae,,preysOn
+133054,49880,Misumenops,,preysOn
+133054,329733,Oxycopis,,preysOn
+133054,,Scydmaenidae,,preysOn
+133054,,Meioneta,,preysOn
+133054,468794,Vacusus vicinus,,preysOn
+133054,,Alarodia slossoniae,,preysOn
+133054,938094,Cryptorama minutum,,preysOn
+133054,,Ataxia,,preysOn
+133054,,Actenodes,,preysOn
+133054,,Phocides batabano,,preysOn
+133054,,Ecdytolopha,,preysOn
+133054,1300915,Marojala,,preysOn
+133054,,Aysha,,preysOn
+133054,,Cryptorhynchus minutissimus,,preysOn
+133054,153571,Mangora,,preysOn
+133054,,Pirata,,preysOn
+133054,844909,Ariadna arthuri,,preysOn
+133054,,Poecilipa rhizophorae,,preysOn
+133054,84463,Ceroplastes,Wax Scales,preysOn
+133054,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+133054,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+133054,250072,Metacyrba,,preyedUponBy
+133054,420613,Stoidis,,preyedUponBy
+133054,,Dendroica,,preyedUponBy
+133054,84495,Paraphidippus,,preyedUponBy
+133054,354274,Ballus,,preyedUponBy
+133054,49880,Misumenops,,preyedUponBy
+133054,,Pirata,,preyedUponBy
+133054,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy

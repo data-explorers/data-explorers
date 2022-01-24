@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58531,51876,Trifolium,clovers,eats
+58531,53320,Vicia americana,American vetch,eats
+58531,55745,Trifolium repens,white clover,eats
+58531,81528,Lupinus perennis,sundial lupine,eats
+58531,53151,Medicago polymorpha,bur clover,eats
+58531,50321,Lathyrus,sweet peas and vetchlings,eats
+58531,51875,Trifolium pratense,red clover,eats
+58531,57057,Medicago sativa,Alfalfa,eats
+58531,56088,Robinia pseudoacacia,black locust,eats
+58531,56089,Robinia,Locust Trees,eats
+58531,52472,Vicia,Vetches,eats
+58531,51723,Baptisia,Wild Indigos,eats
+58531,53152,Medicago,medics,eats
+58531,57067,Melilotus,melilots and sweetclovers,eats
+58531,47121,Lupinus,lupines,eats
+58531,47436,Lotus,bird's-foot trefoils and deervetches,eats
+58531,49370,Astragalus,milkvetches,eats
+58531,117443,Symphyotrichum novae-angliae,New England aster,eats
+58531,76610,Daucus carota,wild carrot,eats
+58531,122970,Helianthus tuberosus,Jerusalem artichoke,eats
+58531,83072,Syringa vulgaris,common lilac,eats
+58531,51769,Gaillardia,Blanket Flowers,eats
+58531,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+58531,142279,Symphyotrichum pilosum,hairy white oldfield aster,eats
+58531,,Trifolium aureum,,eats
+58531,,Astragalus iodanthus,,eats
+58531,,Vicia cracca,,eats
+58531,,Astragalus miser,,eats
+58531,,Trifolium hybridum,,eats
+58531,,Glycine max,,eats
+58531,,Baptisia tinctoria,,eats
+58531,61182,Thermopsis,Goldenbanners,eats
+58531,,Astragalus crassicarpus,,eats
+58531,,Pisum sativum,,eats
+58531,,Hedysarum,,eats
+58531,,Astragalus plattensis,,eats
+58531,,Thermopsis divaricarpa,,eats
+58531,,Pisum,,eats
+58531,,Caragana,,eats
+58531,122903,Glycine,Soybeans,eats
+58531,,http://treatment.plazi.org/id/03DD87D8FF9CD26EFDD8A2E97360FB23,,eats
+58531,,Cytisus,,eats
+58531,,Lathyrus leucanthus,,eats
+58531,,Dipsacus fullonum,,eats
+58531,,Gomphrena,,eats
+58531,119343,Symphyotrichum oblongifolium,Aromatic Aster,eats
+58531,,Pteromalus puparum,,eatenBy
+58531,125381,Asclepias incarnata,swamp milkweed,pollinates
+58531,77155,Fragaria virginiana,Virginia strawberry,pollinates
+58531,61321,Lythrum salicaria,purple loosestrife,pollinates
+58531,,Platanthera blephariglottis,,pollinates
+58531,,Echinacea angustifolia,,pollinates
+58531,,Vicia cracca,,pollinates
+58531,16782,Tyrannus tyrannus,Eastern Kingbird,preyedUponBy

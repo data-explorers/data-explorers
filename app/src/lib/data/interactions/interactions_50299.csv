@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50299,54068,Boloria selene,Silver-bordered Fritillary,eatenBy
+50299,48548,Vanessa cardui,Painted Lady,eatenBy
+50299,50931,Strymon melinus,Gray Hairstreak,eatenBy
+50299,81655,Nematocampa,,eatenBy
+50299,226718,Otiorhynchus sulcatus,Black Vine Weevil,eatenBy
+50299,84612,Polyphylla decemlineata,Ten-lined June Beetle,eatenBy
+50299,42051,Canis latrans,Coyote,eatenBy
+50299,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+50299,46020,Sciurus niger,Fox Squirrel,eatenBy
+50299,243984,Pyrausta californicalis,California Pyrausta Moth,eatenBy
+50299,309466,Aphis gossypii,Melon Aphid,eatenBy
+50299,52775,Bombus,Bumble Bees,eatenBy
+50299,59194,Ochlodes sylvanoides,Woodland Skipper,eatenBy
+50299,47219,Apis mellifera,Western Honey Bee,eatenBy
+50299,12890,Catharus guttatus,Hermit Thrush,eatenBy
+50299,12901,Catharus fuscescens,Veery,eatenBy
+50299,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+50299,12727,Turdus migratorius,American Robin,eatenBy
+50299,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+50299,73044,Melozone crissalis,California Towhee,eatenBy
+50299,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+50299,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+50299,1040783,Pyrgus,Grizzled Skippers,eatenBy
+50299,111447,Pyrgus malvoides,Southern Grizzled Skipper,eatenBy
+50299,332693,Pyrgus armoricanus,Oberthür's grizzled skipper,eatenBy
+50299,,Paradoxurus hermaphroditus,,eatenBy
+50299,,Helicoverpa phloxiphaga,,eatenBy
+50299,,Lacanobia,,eatenBy
+50299,,Lacanobia thalassina,,eatenBy
+50299,,Plathypena scabra,,eatenBy
+50299,,Hepialus lupulinus,,eatenBy
+50299,,Ctenicera aeripennis destructor,,eatenBy
+50299,,Phyllophaga fusca,,eatenBy
+50299,,Phyllophaga rugosa,,eatenBy
+50299,221586,Hydraecia micacea,Rosy Rustic,eatenBy
+50299,,Harpalus rufipes,,eatenBy
+50299,243760,Frankliniella occidentalis,Western Flower Thrips,eatenBy
+50299,,Boisea trivittata,,eatenBy
+50299,,Ophonus,,eatenBy
+50299,,Maladera castanea,,eatenBy
+50299,,Xenotemna pallorana,,eatenBy
+50299,,Amphimallon majalis,,eatenBy
+50299,,Abagrotis alternata,,eatenBy
+50299,,Tetranychus cinnabarinus,,eatenBy
+50299,454202,Aphis forbesi,,eatenBy
+50299,,Chaetosiphon fragaefolii,,eatenBy
+50299,,Chalcodermus aeneus,,eatenBy
+50299,,Lygus lineolaris,,eatenBy
+50299,,Anthonomus (Anthonomus) rubi,,eatenBy
+50299,,Neocoenorrhinus germanicus,,eatenBy
+50299,,Macrosiphum (Macrosiphum) euphorbiae,,eatenBy
+50299,,Lepyrus capucinus,,eatenBy
+50299,469720,Scolopostethus affinis,,eatenBy
+50299,,Coniella fragariae,,eatenBy
+50299,,Gnomonia comari,,eatenBy
+50299,,Phoma leveillei,,eatenBy
+50299,,Allantus calceatus,,eatenBy
+50299,,Claremontia brevicornis,,eatenBy
+50299,,Allantus cingulatus,,eatenBy
+50299,,Allantus cinctus,,eatenBy
+50299,,Empria liturata,,eatenBy
+50299,,Agromyza sulfuriceps,,eatenBy
+50299,,Agromyza idaeiana,,eatenBy
+50299,,Cladius (Priophorus) pallipes,,eatenBy
+50299,,Cladius pectinicornis,,eatenBy
+50299,,Otiorhynchus (Tournieria) ovatus,,eatenBy
+50299,,Barypeithes (Exomias) araneiformis,,eatenBy
+50299,,Calyptra canadensis,,eatenBy
+50299,,Pristiphora appendiculata,,eatenBy
+50299,217191,Clepsis spectrana,Cyclamen Tortrix,eatenBy
+50299,,Cnephasia longana,,eatenBy
+50299,,Cnephasia incertana,,eatenBy
+50299,,Decodes fragariana,,eatenBy
+50299,388183,Ctenopseustis obliquana,,eatenBy
+50299,,Eana georgiella,,eatenBy
+50299,,Platynota flavedana,,eatenBy
+50299,,Choristoneura lafauryana,,eatenBy
+50299,,Cacoecimorpha pronubana,,eatenBy
+50299,,Clepsis rurinana,,eatenBy
+50299,,Choristoneura zapulata,,eatenBy
+50299,637649,Tortrix capensana,,eatenBy
+50299,,Cornicacoecia lafauryana,,eatenBy
+50299,,Olethreutes olivaceana,,eatenBy
+50299,,Acleris fragariana,,eatenBy
+50299,,Olethreutes transversana,,eatenBy
+50299,133620,Archips purpurana,Omnivorous Leafroller,eatenBy
+50299,1336333,Archips breviplicanus,,eatenBy
+50299,,Archips micaceana,,eatenBy
+50299,,Acleris comariana,,eatenBy
+50299,,Olethreutes orthocosma,,eatenBy
+50299,,Hyles livornica,,eatenBy
+50299,,Ancylis muricana,,eatenBy
+50299,,Saturnia pavonia,,eatenBy
+50299,,Celypha lacunana,,eatenBy
+50299,,Udea ferrugalis,,eatenBy
+50299,,Omiodes simialis,,eatenBy
+50299,330496,Rhectocraspeda periusalis,Eggplant Webworm Moth,eatenBy
+50299,,Celypha cespitana,,eatenBy
+50299,,Lampronia praelatella,,eatenBy
+50299,,Ostrinia nubilalis,,eatenBy
+50299,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+50299,,Byturus,,pollinatedBy
+50299,,Meligethes morosus ,,pollinatedBy
+50299,,Oedemeronia subrobusta ,,pollinatedBy
+50299,,Cheilosia,,pollinatedBy
+50299,,Byturus atricollis ,,pollinatedBy
+50299,,,,pollinatedBy
+50299,,Lasioglossum laeviventre ,,pollinatedBy
+50299,,Melanostoma transversum ,,pollinatedBy
+50299,,Glyphipterix nigromarginata ,,pollinatedBy
+50299,,Meliscaeva omogensis ,,pollinatedBy

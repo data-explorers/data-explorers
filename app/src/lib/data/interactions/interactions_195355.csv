@@ -1,0 +1,117 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+195355,121643,Copepoda,Copepods,eats
+195355,,Detritus,,eats
+195355,617786,Gymnoscopelus braueri,,eats
+195355,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eats
+195355,617783,Electrona antarctica,,eats
+195355,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+195355,85777,Exocoetidae,Flyingfishes,eatenBy
+195355,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+195355,48921,Hydrozoa,Hydrozoans,eatenBy
+195355,47186,Decapoda,Decapods,eatenBy
+195355,48563,Triglidae,Searobins,eatenBy
+195355,47534,Cnidaria,Cnidarians,eatenBy
+195355,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+195355,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+195355,4158,Pachyptila turtur,Fairy Prion,eatenBy
+195355,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eatenBy
+195355,118710,Naucrates ductor,Pilotfish,eatenBy
+195355,56943,Katsuwonus pelamis,Skipjack Tuna,eatenBy
+195355,114122,Thunnus alalunga,Albacore,eatenBy
+195355,430553,Merlangius merlangus,Whiting,eatenBy
+195355,324532,Sprattus sprattus,European Sprat,eatenBy
+195355,86396,Ammodytes,,eatenBy
+195355,228496,Pollachius virens,Pollock,eatenBy
+195355,,Trisopterus minutus,,eatenBy
+195355,320793,Trisopterus esmarkii,Norway Pout,eatenBy
+195355,118649,Echiichthys vipera,Lesser Weever,eatenBy
+195355,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+195355,97990,Clupea harengus,Atlantic Herring,eatenBy
+195355,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+195355,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+195355,89001,Hyperoplus,,eatenBy
+195355,47523,Pleuronectes platessa,European Plaice,eatenBy
+195355,63740,Gadus morhua,Atlantic Cod,eatenBy
+195355,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+195355,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+195355,86319,Alepisaurus,,eatenBy
+195355,,Thunnini,,eatenBy
+195355,459368,Diaphus splendidus,Horned Lanternfish,eatenBy
+195355,151762,Venustaconcha ellipsiformis,Ellipse,eatenBy
+195355,61388,Scophthalmus aquosus,Windowpane Flounder,eatenBy
+195355,104533,Leucoraja erinacea,Little Skate,eatenBy
+195355,233277,Urophycis tenuis,White Hake,eatenBy
+195355,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eatenBy
+195355,86443,Anarhichas,,eatenBy
+195355,83846,Urophycis chuss,squirrel hake,eatenBy
+195355,69842,Scomber,,eatenBy
+195355,104540,Leucoraja ocellata,Winter Skate,eatenBy
+195355,49513,Cynoscion,Weakfishes,eatenBy
+195355,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+195355,51362,Alosa pseudoharengus,Alewife,eatenBy
+195355,233996,Zoarces americanus,Ocean Pout,eatenBy
+195355,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+195355,618988,Hippoglossina oblonga,Fourspot Flounder,eatenBy
+195355,215458,Brosme brosme,Cusk,eatenBy
+195355,,Sebastes marinus,,eatenBy
+195355,63742,Gadidae,Cods and Haddocks,eatenBy
+195355,50984,Pomatomus saltatrix,Bluefish,eatenBy
+195355,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+195355,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+195355,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+195355,233276,Urophycis regia,Spotted Hake,eatenBy
+195355,82349,Hippoglossus hippoglossus,Atlantic Halibut,eatenBy
+195355,326208,Ammodytes marinus,Raitt's Sand Lance,eatenBy
+195355,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+195355,48402,Amblyraja radiata,Thorny Skate,eatenBy
+195355,48817,Crangon,,eatenBy
+195355,1126296,Astarte arctica,,eatenBy
+195355,179507,Peprilus triacanthus,Butterfish,eatenBy
+195355,51390,Tautogolabrus adspersus,Cunner,eatenBy
+195355,194675,Lophius americanus,American Monkfish,eatenBy
+195355,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+195355,224886,Merluccius bilinearis,Silver Hake,eatenBy
+195355,56045,Limanda ferruginea,Yellowtail flounder,eatenBy
+195355,47634,Hemitripterus americanus,Sea Raven,eatenBy
+195355,424322,Odontoceti,Toothed Whales,eatenBy
+195355,253675,Argonauta nouryi,Noury's Argonaut,eatenBy
+195355,,Alle alle,,eatenBy
+195355,4418,Cepphus grylle,Black Guillemot,eatenBy
+195355,4494,Rissa tridactyla,Black-legged Kittiwake,eatenBy
+195355,226883,Pandalus goniurus,Humpy Shrimp,eatenBy
+195355,1072347,Plesionika gigliolii,Italian deepsea shrimp,eatenBy
+195355,525648,Alatina alata,Sea Wasp,eatenBy
+195355,74103,Balaena mysticetus,Bowhead Whale,eatenBy
+195355,260307,Plesionika martia,Golden shrimp,eatenBy
+195355,346857,Notostomus gibbosus,,eatenBy
+195355,4033,Pterodroma mollis,Soft-plumaged Petrel,eatenBy
+195355,93835,Amblyraja georgiana,Antarctic Starry Skate,eatenBy
+195355,41751,Arctocephalus gazella,Antarctic Fur Seal,eatenBy
+195355,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+195355,617783,Electrona antarctica,,eatenBy
+195355,3820,Aptenodytes forsteri,Emperor Penguin,eatenBy
+195355,,Trematomus bernacchii,,eatenBy
+195355,4146,Oceanites oceanicus,Wilson's Storm-Petrel,eatenBy
+195355,4161,Pachyptila salvini,Salvin's Prion,eatenBy
+195355,4136,Procellaria aequinoctialis,White-chinned Petrel,eatenBy
+195355,4200,Halobaena caerulea,Blue Petrel,eatenBy
+195355,4184,Fulmarus glacialoides,Southern Fulmar,eatenBy
+195355,4195,Pagodroma nivea,Snow Petrel,eatenBy
+195355,4163,Pachyptila belcheri,Slender-billed Prion,eatenBy
+195355,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+195355,367967,Hyperoplus lanceolatus,Great Sand Eel,eatenBy
+195355,317152,Hygophum benoiti,,eatenBy
+195355,,B. antarcticus (90-120mm),,eatenBy
+195355,,E. antarctica (60-90mm),,eatenBy
+195355,,B. antarcticus (60-90mm),,eatenBy
+195355,121643,Copepoda,Copepods,preysOn
+195355,85777,Exocoetidae,Flyingfishes,preyedUponBy
+195355,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+195355,,E. antarctica (60-90mm),,preyedUponBy
+195355,,G. braueri (60-90mm),,preyedUponBy
+195355,617786,Gymnoscopelus braueri,,preyedUponBy
+195355,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preyedUponBy
+195355,617783,Electrona antarctica,,preyedUponBy
+195355,,tuna 2,,preyedUponBy
+195355,,tuna 1,,preyedUponBy
+195355,317152,Hygophum benoiti,,preyedUponBy

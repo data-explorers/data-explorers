@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62312,,Strongylocoris leucocephalus,,eatenBy
+62312,,Phytomyza campanulae,,eatenBy
+62312,,Amauromyza gyrans,,eatenBy
+62312,,Chelostoma rapunculi,,eatenBy
+62312,381759,Coleosporium tussilaginis,,eatenBy
+62312,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+62312,57678,Lasioglossum,,pollinatedBy
+62312,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+62312,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+62312,1204075,Formica fusca,fusca-group Field Ants,pollinatedBy
+62312,52775,Bombus,Bumble Bees,pollinatedBy
+62312,57682,Anthophora,Common Digger Bees,pollinatedBy
+62312,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+62312,,Vespula rufa,,pollinatedBy
+62312,,Eriothrix rufomaculatus,,pollinatedBy
+62312,177484,Leptura,,pollinatedBy
+62312,,Melitta haemorrhoidalis,,pollinatedBy
+62312,188686,Macropis europaea,European Yellow Loosestrife Bee,pollinatedBy
+62312,,Scaeva selenitica,,pollinatedBy
+62312,,,,pollinatedBy
+62312,,Formica transkaucasica,,pollinatedBy
+62312,,http://treatment.plazi.org/id/BFE6A6BF9A2BB1B87E74CDE6D1655D79,,pollinatedBy
+62312,124910,Bombus pratorum,Early Bumble Bee,pollinatedBy
+62312,121357,Platycheirus,Sedgesitters,pollinatedBy
+62312,62456,Rhagonycha fulva,Common Red Soldier Beetle,pollinatedBy
+62312,,Miarus campanulae ,,pollinatedBy
+62312,,Episyrphus balteatus,,pollinatedBy
+62312,,Fixsenia,,pollinatedBy
+62312,,Odynerus annulatus,,pollinatedBy
+62312,130222,Bombus melanopygus,Black-tailed Bumble Bee,pollinatedBy
+62312,,Bombus huntii,,pollinatedBy
+62312,,Dufourea maura,,pollinatedBy

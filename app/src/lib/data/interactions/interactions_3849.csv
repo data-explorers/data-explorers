@@ -1,0 +1,100 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3849,48147,Isopoda,Isopods,eats
+3849,47490,Polychaeta,Polychaete Worms,eats
+3849,85493,Crustacea,Crustaceans,eats
+3849,47115,Mollusca,Molluscs,eats
+3849,1,Animalia,Animals,eats
+3849,176621,Nysius,False chinch bugs,eats
+3849,60393,Tipula,,eats
+3849,58573,Boloria,,eats
+3849,62989,Aedes,,eats
+3849,47415,Pardosa,Thin-legged Wolf Spiders,eats
+3849,62330,Peleteria,,eats
+3849,47414,Emerita analoga,Pacific Sand Crab,eats
+3849,53738,Ocypode,Ghost Crabs,eats
+3849,47182,Emerita talpoida,Atlantic Sand Crab,eats
+3849,363872,Catostylus tagi,Jelly Blubber,eats
+3849,,Donax semigranosus,,eats
+3849,,Archaeomysis vulgaris,,eats
+3849,,Excirolana chiltoni,,eats
+3849,,Limulus polyphemus,,eats
+3849,,unspecified small invertebrates,,eats
+3849,,errant polychaeta,,eats
+3849,455027,Collinsia spetsbergensis,Spetsbergen Dwarf Weaver,eats
+3849,,Hyposoter pectinatus,,eats
+3849,,Phaonia,,eats
+3849,,Procladius crassinervis,,eats
+3849,,Amauronematus nitidipleuris,,eats
+3849,,Sympistis nigrita,,eats
+3849,,Nephrotoma lundbecki,,eats
+3849,,Psectrocladius barbimanus,,eats
+3849,,Spilogona,,eats
+3849,,Drymeia,,eats
+3849,,Hyposoter frigidus,,eats
+3849,,Syngrapha,,eats
+3849,,Allocladius nanseni,,eats
+3849,173602,Entephria,,eats
+3849,,Myzus persicae,,eats
+3849,,Colias hecla,,eats
+3849,,Rhamphomyia,,eats
+3849,,Spelobia,,eats
+3849,,Aoplus groenlandicus,,eats
+3849,,Euxoa adumbrata drewseni,,eats
+3849,,Anarta richardsoni,,eats
+3849,,Parasyrphus tarsatus,,eats
+3849,247665,Tanytarsus,,eats
+3849,,Dolichogenidea sicaria,,eats
+3849,69803,Ceratopogonidae,Biting Midges,eats
+3849,,Mesochorus,,eats
+3849,,Apamea zeta,,eats
+3849,,Phygadeuon solidus,,eats
+3849,248379,Excirolana,,eats
+3849,4672,Falco columbarius,Merlin,eatenBy
+3849,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+3849,8010,Corvus corax,Common Raven,eatenBy
+3849,4733,Ciconia ciconia,White Stork,eatenBy
+3849,4736,Ciconia nigra,Black Stork,eatenBy
+3849,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+3849,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+3849,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+3849,5178,Circus macrourus,Pallid Harrier,eatenBy
+3849,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+3849,559064,Circus cyaneus,Hen Harrier,eatenBy
+3849,5081,Aquila adalberti,Spanish Eagle,eatenBy
+3849,41,Grus grus,Common Crane,eatenBy
+3849,4657,Falco rusticolus,Gyrfalcon,eatenBy
+3849,144297,Stercorarius skua,Great Skua,eatenBy
+3849,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+3849,3896,Numenius arquata,Eurasian Curlew,eatenBy
+3849,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+3849,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+3849,204533,Larus argentatus,Herring Gull,eatenBy
+3849,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+3849,4389,Larus cachinnans,Caspian Gull,eatenBy
+3849,144594,Bubo scandiacus,Snowy Owl,eatenBy
+3849,19898,Strix aluco,Tawny Owl,eatenBy
+3849,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+3849,20315,Asio flammeus,Short-eared Owl,eatenBy
+3849,20307,Asio otus,Long-eared Owl,eatenBy
+3849,204519,Halcyon smyrnensis,White-throated Kingfisher,eatenBy
+3849,,Coloeus monedula,,eatenBy
+3849,8029,Corvus frugilegus,Rook,eatenBy
+3849,204496,Corvus corone,Carrion Crow,eatenBy
+3849,233598,Vulpes lagopus,Arctic Fox,eatenBy
+3849,41852,Gulo gulo,Wolverine,eatenBy
+3849,855297,Meles meles,European Badger,eatenBy
+3849,41812,Mustela putorius,Western Polecat,eatenBy
+3849,41641,Ursus arctos,Brown Bear,eatenBy
+3849,41805,Mustela lutreola,European Mink,eatenBy
+3849,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+3849,,Elaphe situla,,eatenBy
+3849,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+3849,39407,Varanus griseus,Desert Monitor,eatenBy
+3849,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+3849,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+3849,27035,Hierophis viridiflavus carbonarius,,eatenBy
+3849,28451,Telescopus nigriceps,Black headed snake,eatenBy
+3849,48147,Isopoda,Isopods,preysOn
+3849,47182,Emerita talpoida,Atlantic Sand Crab,preysOn
+3849,,Errant polychaeta,,preysOn
+3849,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy

@@ -1,0 +1,113 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+145245,211194,Tracheophyta,vascular plants,eats
+145245,1,Animalia,Animals,eats
+145245,47822,Diptera,Flies,eats
+145245,125816,Auchenorrhyncha,True Hoppers,eats
+145245,47208,Coleoptera,Beetles,eats
+145245,47118,Araneae,Spiders,eats
+145245,47157,Lepidoptera,Butterflies and Moths,eats
+145245,47120,Arthropoda,Arthropods,eats
+145245,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+145245,48008,Ephemeridae,Burrowing Mayflies,eats
+145245,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+145245,53248,Elateridae,Click Beetles,eats
+145245,48201,Scarabaeidae,Scarabs,eats
+145245,62164,Trichoptera,Caddisflies,eats
+145245,51146,Chrysomelidae,Leaf Beetles,eats
+145245,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+145245,49567,Carabidae,Ground Beetles,eats
+145245,47535,Araneidae,Orbweavers,eats
+145245,47199,Ichneumonidae,Ichneumonid Wasps,eats
+145245,124299,Trichoplusia,,eats
+145245,51225,Tipulidae,Large Crane Flies,eats
+145245,47158,Insecta,Insects,eats
+145245,68995,Liometopum,Velvety Tree Ants,eats
+145245,53225,Rhopalidae,Scentless Plant Bugs,eats
+145245,47336,Formicidae,Ants,eats
+145245,53237,Cicadellidae,Typical Leafhoppers,eats
+145245,53506,Tingidae,Lace Bugs,eats
+145245,61267,Heteroptera,True Bugs,eats
+145245,57804,Berytidae,Stilt Bugs,eats
+145245,48194,Psyllidae,jumping plant lice,eats
+145245,47124,Magnoliopsida,dicots,eats
+145245,52381,Aphididae,Aphids,eats
+145245,184884,Pterygota,Winged and Once-winged Insects,eats
+145245,58732,Toxicodendron radicans,poison ivy,eats
+145245,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+145245,77835,Lonicera japonica,Japanese honeysuckle,eats
+145245,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+145245,125845,Prunus caroliniana,Carolina laurelcherry,eats
+145245,83799,Mitchella repens,partridgeberry,eats
+145245,48599,Phytolacca americana,American pokeweed,eats
+145245,54774,Viburnum,viburnums,eats
+145245,53398,Eucalyptus globulus,Eurabbie,eats
+145245,72232,Melaleuca,bottlebrushes,eats
+145245,120527,Melaleuca quinquenervia,Broad-leaved paperbark,eats
+145245,143792,Pistacia chinensis,Chinese pistache,eats
+145245,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+145245,1081332,Lon melane,Umber Skipper,eats
+145245,47793,Dermaptera,Earwigs,eats
+145245,53453,Salix,Willows,eats
+145245,79462,Ulmus parvifolia,Chinese elm,eats
+145245,51815,Eucalyptus,eucalyptus,eats
+145245,63605,Fremontodendron,,eats
+145245,48460,Life,,eats
+145245,47125,Angiospermae,flowering plants,eats
+145245,130872,Schinus terebinthifolia,Brazilian pepper,eats
+145245,64122,Malosma laurina,laurel sumac,eats
+145245,47927,Anisoptera,Dragonflies,eats
+145245,122024,Corymbia ficifolia,Red-flowering gum,eats
+145245,,Archips fumiferana,,eats
+145245,54944,Fulgoridae,Lanternbugs,eats
+145245,,Pseudoscorpiones,,eats
+145245,,Euchelicerata,,eats
+145245,61863,Cercopidae,Froghoppers,eats
+145245,129878,Nabidae,Damsel Bugs,eats
+145245,,Saissetia oleae,,eats
+145245,,Hemiberlesia rapax,,eats
+145245,,Ficus aurea,,eats
+145245,,Juglans nigra,,eats
+145245,54793,Lindera benzoin,northern spicebush,eats
+145245,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+145245,54777,Cornus florida,flowering dogwood,eats
+145245,,Menispermum canadense,,eats
+145245,,Smilax tamnoides,,eats
+145245,,Vitis vulpina,,eats
+145245,,Callicarpa americana,,eats
+145245,,Phoradendron serotinum,,eats
+145245,,Ilex cassine,,eats
+145245,,Celtis laevigata,,eats
+145245,,Persea borbonia,,eats
+145245,,Vaccinium arboreum,,eats
+145245,,Rhus copallinum,,eats
+145245,120006,Ilex decidua,possumhaw,eats
+145245,,Ilex opaca,,eats
+145245,81801,Viburnum rufidulum,Rusty Blackhaw,eats
+145245,,Nyssa sylvatica,,eats
+145245,,Smilax bona-nox,,eats
+145245,,Cornus foemina,,eats
+145245,,Vaccinium myrsinites,,eats
+145245,83074,Magnolia grandiflora,southern magnolia,eats
+145245,,Osmanthus americanus,,eats
+145245,,Symplocos tinctoria,,eats
+145245,,Smilax auriculata,,eats
+145245,,Smilax pumila,,eats
+145245,,Ampelopsis arborea,,eats
+145245,,Aralia spinosa,,eats
+145245,,Morella cerifera,,eats
+145245,,Asphodeloideae,,eats
+145245,,Triadica sebifera,,eats
+145245,,Chasmanthe,,eats
+145245,,Arbutus unedo,,eats
+145245,4345,Larus occidentalis,Western Gull,eatenBy
+145245,19893,Strix varia,Barred Owl,eatenBy
+145245,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+145245,4672,Falco columbarius,Merlin,eatenBy
+145245,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+145245,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+145245,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+145245,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+145245,20315,Asio flammeus,Short-eared Owl,eatenBy
+145245,47157,Lepidoptera,Butterflies and Moths,preysOn
+145245,4665,Falco sparverius,American Kestrel,preyedUponBy
+145245,4672,Falco columbarius,Merlin,preyedUponBy

@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63697,59699,Velella,,eats
+63697,59698,Velella velella,By-the-wind Sailor,eats
+63697,85493,Crustacea,Crustaceans,eats
+63697,47115,Mollusca,Molluscs,eats
+63697,1,Animalia,Animals,eats
+63697,47584,Bivalvia,Bivalves,eats
+63697,81634,Mya arenaria,Soft-shelled Clam,eats
+63697,121639,Brachyura,True Crabs,eats
+63697,48147,Isopoda,Isopods,eats
+63697,144117,Thecostraca,Barnacles and Allies,eats
+63697,81635,Myidae,Softshell Clams,eats
+63697,47126,Plantae,plants,eats
+63697,47178,Actinopterygii,Ray-finned Fishes,eats
+63697,47490,Polychaeta,Polychaete Worms,eats
+63697,50863,Chlorophyta,green algae,eats
+63697,47186,Decapoda,Decapods,eats
+63697,63697,Metacarcinus magister,Dungeness Crab,eats
+63697,,Medusozoa,,eats
+63697,52539,Ophiodon elongatus,Lingcod,eats
+63697,144115,Cumacea,Hooded Shrimp,eats
+63697,48415,Citharichthys sordidus,Pacific sanddab,eats
+63697,345517,Eogammarus,,eats
+63697,71252,Macoma,,eats
+63697,339110,Crangon nigricauda,Blacktail Bay Shrimp,eats
+63697,48817,Crangon,,eats
+63697,59806,Gammaridae,,eats
+63697,112983,Spirinchus thaleichthys,Longfin Smelt,eats
+63697,,Gnathostomata,,eats
+63697,177153,Mantura,,eats
+63697,339152,Cryptomya californica,California Softshell,eats
+63697,,Cancer magister,,eats
+63697,,unspecified gmmarids,,eats
+63697,,Crangon franciscorum,,eats
+63697,71253,Tellinidae,Tellins and Allies,eats
+63697,345352,Lissocrangon stylirostris,Smooth Bay Shrimp,eats
+63697,98855,Cymatogaster aggregata,Shiner Surfperch,eats
+63697,171805,Tellina,,eats
+63697,,Ammodytes hexaptera,,eats
+63697,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+63697,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+63697,4345,Larus occidentalis,Western Gull,eatenBy
+63697,,Tringa semipalmatus,,eatenBy
+63697,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+63697,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+63697,59698,Velella velella,By-the-wind Sailor,preysOn
+63697,117520,Enhydra lutris nereis,Southern Sea Otter,preyedUponBy
+63697,4345,Larus occidentalis,Western Gull,preyedUponBy
+63697,123962,Dosidicus gigas,Humboldt Squid,preyedUponBy
+63697,180029,Gadus macrocephalus,Pacific Cod,preyedUponBy
+63697,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy
+63697,4399,Larus glaucescens,Glaucous-winged Gull,preyedUponBy

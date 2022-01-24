@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+208724,47115,Mollusca,Molluscs,eats
+208724,47584,Bivalvia,Bivalves,eats
+208724,47585,Crassostrea virginica,Eastern Oyster,eats
+208724,125758,Mercenaria mercenaria,Northern Quahog,eats
+208724,,Ensis directus,,preysOn

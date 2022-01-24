@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+79185,44027,Geomyidae,Pocket Gophers,eatenBy
+79185,42406,Bison,Bison,eatenBy
+79185,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+79185,906,Meleagris gallopavo,Wild Turkey,eatenBy
+79185,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+79185,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+79185,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+79185,,Ovis,,eatenBy
+79185,179974,Spermophilus,Old World Ground Squirrels,eatenBy
+79185,,Dipodomys,,eatenBy
+79185,,Lepus townsendii,,eatenBy
+79185,,Bos taurus,,eatenBy
+79185,,Lepus californicus,,eatenBy
+79185,,Pooecetes gramineus,,eatenBy

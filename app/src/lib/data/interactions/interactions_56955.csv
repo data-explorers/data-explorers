@@ -1,0 +1,116 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56955,44061,Thomomys,Western Pocket Gophers,eatenBy
+56955,44259,Microtus,Meadow Voles,eatenBy
+56955,43584,Homo sapiens,Human,eatenBy
+56955,44027,Geomyidae,Pocket Gophers,eatenBy
+56955,62978,Chlosyne nycteis,Silvery Checkerspot,eatenBy
+56955,48548,Vanessa cardui,Painted Lady,eatenBy
+56955,48549,Vanessa virginiensis,American Lady,eatenBy
+56955,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+56955,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+56955,343382,Homoeosoma electella,American Sunflower Moth,eatenBy
+56955,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+56955,45933,Sciuridae,Squirrels,eatenBy
+56955,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+56955,47822,Diptera,Flies,eatenBy
+56955,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eatenBy
+56955,48670,Noctuidae,Cutworm Moths and Allies,eatenBy
+56955,48662,Danaus plexippus,Monarch,eatenBy
+56955,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+56955,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+56955,216649,Chauliognathus pensylvanicus,Goldenrod Soldier Beetle,eatenBy
+56955,47219,Apis mellifera,Western Honey Bee,eatenBy
+56955,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+56955,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+56955,224501,Megachile perihirta,Western Leafcutter,eatenBy
+56955,46020,Sciurus niger,Fox Squirrel,eatenBy
+56955,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+56955,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,eatenBy
+56955,8229,Cyanocitta cristata,Blue Jay,eatenBy
+56955,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+56955,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",eatenBy
+56955,72486,Alopochen aegyptiaca,Egyptian Goose,eatenBy
+56955,906,Meleagris gallopavo,Wild Turkey,eatenBy
+56955,3454,Zenaida macroura,Mourning Dove,eatenBy
+56955,7089,Branta canadensis,Canada Goose,eatenBy
+56955,10469,Xanthocephalus,,eatenBy
+56955,9602,Quiscalus quiscula,Common Grackle,eatenBy
+56955,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+56955,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+56955,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+56955,8021,Corvus brachyrhynchos,American Crow,eatenBy
+56955,7998,Corvus,Crows and Ravens,eatenBy
+56955,12727,Turdus migratorius,American Robin,eatenBy
+56955,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+56955,14801,Sitta carolinensis,White-breasted Nuthatch,eatenBy
+56955,9100,Melospiza melodia,Song Sparrow,eatenBy
+56955,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+56955,1409,Callipepla californica,California Quail,eatenBy
+56955,73044,Melozone crissalis,California Towhee,eatenBy
+56955,145310,Spinus tristis,American Goldfinch,eatenBy
+56955,199840,Haemorhous mexicanus,House Finch,eatenBy
+56955,,Spermophilus tridecemlineatus,,eatenBy
+56955,,Spermophilus richardsonii,,eatenBy
+56955,,Microtus ochrogaster,,eatenBy
+56955,,Chlosyne lacinia,,eatenBy
+56955,186842,Chlosyne gorgone,Gorgone Checkerspot,eatenBy
+56955,,Chlosyne californica,,eatenBy
+56955,,Estigmene acraea,,eatenBy
+56955,,Ctenicera aeripennis destructor,,eatenBy
+56955,221586,Hydraecia micacea,Rosy Rustic,eatenBy
+56955,,Loxostege sticticalis,,eatenBy
+56955,,Melanoplus angustipennis,,eatenBy
+56955,,Homoeosoma electellum,,eatenBy
+56955,,Brachycaudus helichrysi,,eatenBy
+56955,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+56955,,Hesperotettix viridis,,eatenBy
+56955,,Nysius vinitor,,eatenBy
+56955,,Streptopelia senegalensis,,eatenBy
+56955,,Merophyas divulsana,,eatenBy
+56955,,Platynota flavedana,,eatenBy
+56955,,Epiblema strenuana,,eatenBy
+56955,,Acherontia lachesis,,eatenBy
+56955,,Cochylis arthuri,,eatenBy
+56955,,Homoeosoma uncanale,,eatenBy
+56955,1046281,Herpetogramma hipponalis,,eatenBy
+56955,,Adaina montana,,eatenBy
+56955,,Hellinsia,,eatenBy
+56955,,Charidryas,,eatenBy
+56955,,Oidaematophorus,,eatenBy
+56955,,Xestia c-nigrum,,eatenBy
+56955,68269,Aglais milberti,Milbert's Tortoiseshell,eatenBy
+56955,,Chrysodeixis argentifera,,eatenBy
+56955,,Autographa flagellum,,eatenBy
+56955,,Autographa californica,,eatenBy
+56955,,Autographa precationis,,eatenBy
+56955,,Ogdoconta cinereola,,eatenBy
+56955,,Spodoptera eridania,,eatenBy
+56955,,Papaipema rigida,,eatenBy
+56955,224414,Mamestra configurata,Bertha Armyworm Moth,eatenBy
+56955,,Euproctis dewitzi,,eatenBy
+56955,,Cucullia dorsalis,,eatenBy
+56955,,Phrissogonus laticostata,,eatenBy
+56955,,Scrobipalpula artemisiella,,eatenBy
+56955,,Isophrictis similiella,,eatenBy
+56955,951209,Dichomeris flavocostella,Cream-edged Dichomeris Moth and Allies,eatenBy
+56955,,Dichomeris aleatrix,,eatenBy
+56955,,Bucculatrix illecebrosa,,eatenBy
+56955,,Spilosoma obliqua,,eatenBy
+56955,907332,Liriomyza strigata,,eatenBy
+56955,,Liriomyza eupatorii,,eatenBy
+56955,,wire worms,,eatenBy
+56955,52781,Melissodes,,pollinatedBy
+56955,49707,Halictidae,Sweat Bees,pollinatedBy
+56955,47220,Apis,Honey Bees,pollinatedBy
+56955,47208,Coleoptera,Beetles,pollinatedBy
+56955,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+56955,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+56955,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+56955,,Nomia melanderi,,pollinatedBy
+56955,,Andrena accepta,,pollinatedBy
+56955,,Dufourea,,pollinatedBy
+56955,,http://treatment.plazi.org/id/EFA2D9EE87F05E8EB207EC8EF0C3ACCB,,pollinatedBy
+56955,336484,Andrena aliciae,Yellow-faced Miner Bee,pollinatedBy
+56955,,http://treatment.plazi.org/id/C72136B726E5580342B37994B63EAA2E,,pollinatedBy
+56955,,Pseudopanurgus rugosus,,pollinatedBy
+56955,,Andrena helianthi,,pollinatedBy

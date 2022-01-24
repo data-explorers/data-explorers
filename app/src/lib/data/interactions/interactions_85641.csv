@@ -1,0 +1,64 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85641,47490,Polychaeta,Polychaete Worms,eats
+85641,47645,Cottidae,Typical Sculpins,eats
+85641,85641,Bothidae,Lefteye Flounders,eats
+85641,59635,Phragmatopoma californica,California Sandcastle Worm,eats
+85641,47628,Amphipoda,Amphipods,eats
+85641,223141,Leiocottus hirundo,lavender sculpin,eats
+85641,339286,Diopatra ornata,Ornate Tubeworm,eats
+85641,192656,Dodecaceria fewkesi,Fringed Filament Worm,eats
+85641,337292,Cirriformia luxuriosa,,eats
+85641,,Diaperoecia californica,,eats
+85641,338339,Pista elongata,Basket-top Spaghetti Worm,eats
+85641,317267,Orthonopias triacis,Snubnose Sculpin,eats
+85641,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+85641,85641,Bothidae,Lefteye Flounders,eatenBy
+85641,47641,Scorpaena guttata,California Scorpionfish,eatenBy
+85641,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+85641,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+85641,4547,Ptychoramphus aleuticus,Cassin's Auklet,eatenBy
+85641,,Procelsterna cerulea,,eatenBy
+85641,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+85641,430553,Merlangius merlangus,Whiting,eatenBy
+85641,110770,Psephurus gladius,Chinese Paddlefish,eatenBy
+85641,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+85641,47639,Myoxocephalus scorpius,Shorthorn Sculpin,eatenBy
+85641,57399,Fistularia commersonii,Bluespotted Cornetfish,eatenBy
+85641,100268,Eptatretus stoutii,Pacific Hagfish,eatenBy
+85641,52539,Ophiodon elongatus,Lingcod,eatenBy
+85641,49966,Mustelus,Smooth-Hounds,eatenBy
+85641,194675,Lophius americanus,American Monkfish,eatenBy
+85641,,Rhinobatos productus,,eatenBy
+85641,106258,Mustelus henlei,Brown Smooth-hound,eatenBy
+85641,52169,Stereolepis gigas,Giant sea bass,eatenBy
+85641,108547,Paralabrax clathratus,Kelp Bass,eatenBy
+85641,52297,Triakis semifasciata,Leopard Shark,eatenBy
+85641,113051,Squatina californica,Pacific Angelshark,eatenBy
+85641,108561,Paralichthys californicus,California Halibut,eatenBy
+85641,317369,Sebastes serranoides,olive rockfish,eatenBy
+85641,63740,Gadus morhua,Atlantic Cod,eatenBy
+85641,131452,Bellator militaris,Horned Searobin,eatenBy
+85641,179493,Pontinus longispinis,Longspine Scorpionfish,eatenBy
+85641,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+85641,131520,Trichopsetta ventralis,Sash Flounder,eatenBy
+85641,179454,Syacium papillosum,Dusky Flounder,eatenBy
+85641,179477,Prionotus longispinosus,Bigeye Searobin,eatenBy
+85641,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+85641,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+85641,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+85641,179622,Cyclopsetta chittendeni,,eatenBy
+85641,54440,Synodus foetens,Inshore Lizardfish,eatenBy
+85641,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+85641,49421,Diplectrum formosum,Sand Perch,eatenBy
+85641,4537,Anous minutus,Black Noddy,eatenBy
+85641,4535,Anous stolidus,Brown Noddy,eatenBy
+85641,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+85641,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+85641,4631,Fregata magnificens,Magnificent Frigatebird,eatenBy
+85641,4415,Cepphus columba,Pigeon Guillemot,preyedUponBy
+85641,4277,Phalacrocorax penicillatus,Brandt's Cormorant,preyedUponBy
+85641,106258,Mustelus henlei,Brown Smooth-hound,preyedUponBy
+85641,4631,Fregata magnificens,Magnificent Frigatebird,preyedUponBy
+85641,4547,Ptychoramphus aleuticus,Cassin's Auklet,preyedUponBy
+85641,105599,Merluccius productus,Pacific Hake,preyedUponBy
+85641,51353,Anoplopoma fimbria,Sablefish,preyedUponBy

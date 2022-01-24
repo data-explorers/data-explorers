@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50639,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+50639,52775,Bombus,Bumble Bees,eatenBy
+50639,47219,Apis mellifera,Western Honey Bee,eatenBy
+50639,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy

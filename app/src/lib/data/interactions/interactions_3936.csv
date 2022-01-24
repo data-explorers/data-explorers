@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3936,211194,Tracheophyta,vascular plants,eats
+3936,1,Animalia,Animals,eats
+3936,47158,Insecta,Insects,eats
+3936,47208,Coleoptera,Beetles,eats
+3936,47124,Magnoliopsida,dicots,eats
+3936,47822,Diptera,Flies,eats
+3936,47157,Lepidoptera,Butterflies and Moths,eats
+3936,63089,Clitellata,Clitellates,eats
+3936,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+3936,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+3936,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+3936,4672,Falco columbarius,Merlin,preysOn
+3936,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+3936,4672,Falco columbarius,Merlin,preyedUponBy

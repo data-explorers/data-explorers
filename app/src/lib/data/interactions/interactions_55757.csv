@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55757,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+55757,,Harpalus affinis,,eatenBy
+55757,,Harpalus rufipes,,eatenBy
+55757,,Chromatomyia horticola,,eatenBy
+55757,,Jaapiella chelidonii,,eatenBy
+55757,,Episyrphus balteatus,,pollinatedBy
+55757,70405,Melanostoma scalare,Ladder-backed Hover Fly,pollinatedBy

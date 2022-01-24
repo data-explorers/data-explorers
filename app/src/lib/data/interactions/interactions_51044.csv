@@ -1,0 +1,45 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51044,,Symphoricarpos albus,,eats
+51044,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+51044,,Platynota idaeusalis,,eatenBy
+51044,,Spodoptera eridania,,eatenBy
+51044,133765,Eumenes fraternus,Fraternal Potter Wasp,pollinatedBy
+51044,132071,Coenosia,Tiger Flies,pollinatedBy
+51044,57671,Anthidium,Carder Bees,pollinatedBy
+51044,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+51044,963010,Eupeodes americanus,,pollinatedBy
+51044,126532,Toxomerus geminatus,Eastern Calligrapher,pollinatedBy
+51044,51557,Bombylius major,Greater Bee Fly,pollinatedBy
+51044,47208,Coleoptera,Beetles,pollinatedBy
+51044,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+51044,47822,Diptera,Flies,pollinatedBy
+51044,,Reichertella pulicaria,,pollinatedBy
+51044,,Physocephala texana,,pollinatedBy
+51044,,Leskia,,pollinatedBy
+51044,,Brachypalpus,,pollinatedBy
+51044,,Hippelates plebejus,,pollinatedBy
+51044,,Cryptorhopalum triste,,pollinatedBy
+51044,,Cerotoma,,pollinatedBy
+51044,,Zaira georgiae,,pollinatedBy
+51044,299141,Urosigalphus femoratus,,pollinatedBy
+51044,,Conura torvina,,pollinatedBy
+51044,,Pachyophthalmus,,pollinatedBy
+51044,47342,Crematogaster,Cocktail Ants,pollinatedBy
+51044,,Centrinites strigicollis,,pollinatedBy
+51044,,Pseudopanurgus,,pollinatedBy
+51044,202569,Myrmosa,,pollinatedBy
+51044,,Holonomada,,pollinatedBy
+51044,,Spallanzania hesperidarum,,pollinatedBy
+51044,,Strangalia famelica,,pollinatedBy
+51044,,Strongygaster,,pollinatedBy
+51044,,Hoplitis,,pollinatedBy
+51044,,Chaerocampa tersa,,pollinatedBy
+51044,,Tetrachrysis,,pollinatedBy
+51044,,Carceris robertsonii,,pollinatedBy
+51044,,Scatophaga furcata,,pollinatedBy
+51044,,Andrena pruni,,pollinatedBy
+51044,,Mordellistena comata,,pollinatedBy
+51044,,Lasioglossum cressonii,,pollinatedBy
+51044,,Xylocopa virginica virginica,,pollinatedBy
+51044,,Andrena carlini,,pollinatedBy
+51044,,http://treatment.plazi.org/id/E3771B2A10FB446345F4663A701D15E4,,pollinatedBy

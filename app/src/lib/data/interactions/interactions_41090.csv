@@ -1,0 +1,124 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41090,50641,Solanum,nightshades,eats
+41090,76949,Eriobotrya japonica,Loquat,eats
+41090,59035,Solanum americanum,American black nightshade,eats
+41090,50999,Ficus,Figs,eats
+41090,78217,Nicandra physalodes,apple-of-Peru,eats
+41090,62809,Ceiba pentandra,Kapok Tree,eats
+41090,52346,Ipomoea,morning-glories,eats
+41090,48871,Inga,,eats
+41090,62819,Ceiba,,eats
+41090,,Mangifera indica,,eats
+41090,,Muntingia calabura,,eats
+41090,290772,Solanum rugosum,tabacon aspero,eats
+41090,,Piper aduncum,,eats
+41090,,Carica,,eats
+41090,,Ficus insipida,,eats
+41090,,Spondias mombin,,eats
+41090,278326,Piper amalago,jaborandi-manso,eats
+41090,,Ficus gomelleira,,eats
+41090,,Brosimum alicastrum,,eats
+41090,,Spondias radlkoferi,,eats
+41090,,Ficus nymphaeifolia,,eats
+41090,,Piper grande,,eats
+41090,83966,Cecropia glaziovii,Umbauba,eats
+41090,,Piper marginatum,,eats
+41090,,Ficus popenoei,,eats
+41090,,Solanum paniculatum,,eats
+41090,,Piper arboreum,,eats
+41090,,Dipteryx oleifera,,eats
+41090,538239,Piper gaudichaudianum,,eats
+41090,,Ficus benjamina,,eats
+41090,,Miconia prasina,,eats
+41090,,Clidemia hirta,,eats
+41090,,Clusia flavida,,eats
+41090,,Ficus luschnathiana,,eats
+41090,,Ficus yoponensis,,eats
+41090,,Ficus citrifolia,,eats
+41090,,Piper reticulatum,,eats
+41090,,Maclura tinctoria,,eats
+41090,1124971,Piper caldense,,eats
+41090,,Mammea suriga,,eats
+41090,,Solanum erianthum,,eats
+41090,,Cecropia hololeuca,,eats
+41090,,Cecropia pachystachya,,eats
+41090,278199,Ficus pertusa,,eats
+41090,,Ficus enormis,,eats
+41090,285894,Piper umbellatum,pariparoba,eats
+41090,,Ficus obtusifolia,,eats
+41090,,Ficus costaricana,,eats
+41090,285680,Ficus maxima,,eats
+41090,,Ficus tonduzii,,eats
+41090,,Vismia guianensis,,eats
+41090,,Piper crassinervium,,eats
+41090,,Clidemia debilis,,eats
+41090,278340,Piper cordulatum,,eats
+41090,,Schefflera morototoni,,eats
+41090,,Ficus paraensis,,eats
+41090,,Ficus retusa,,eats
+41090,,Quararibea asterolepis,,eats
+41090,,Ficus trigonata,,eats
+41090,154799,Anacardium excelsum,wild cashew,eats
+41090,,Solanum abitaguense,,eats
+41090,,Condaminea corymbosa,,eats
+41090,,Cecropia tessmannii,,eats
+41090,,Poulsenia armata,,eats
+41090,,Epiphyllum phyllanthus,,eats
+41090,886633,Solanum acaule,,eats
+41090,,Piper longispicum,,eats
+41090,,Cecropia peltata,,eats
+41090,,Cecropia insignis,,eats
+41090,,Anthurium karstenianum,,eats
+41090,,Vismia cayennensis,,eats
+41090,,Vismia tomentosa,,eats
+41090,285889,Piper obliquum,,eats
+41090,,Psammisia penduliflora,,eats
+41090,,Vismia japurensis,,eats
+41090,,Cecropia sararensis,,eats
+41090,,Solanum acerifolium,,eats
+41090,,Vismia gracilis,,eats
+41090,153264,Vismia baccifera,,eats
+41090,,Piper diffamatum,,eats
+41090,,Piper peltatum,,eats
+41090,,Piper hispidum,,eats
+41090,,Solanum dissimile,,eats
+41090,,Cecropia telealba,,eats
+41090,,Solanum grandiflorum,,eats
+41090,278324,Piper aequale,,eats
+41090,,Cecropia engleriana,,eats
+41090,,Anthurium bernardii,,eats
+41090,,Saurauia tomentosa,,eats
+41090,,Piper phytolaccifolium,,eats
+41090,,Asplundia vagans,,eats
+41090,,Solanum tanysepalum,,eats
+41090,,Cecropia ficifolia,,eats
+41090,,Solanum torvum,,eats
+41090,,Anthurium nymphaefolium,,eats
+41090,,Juanulloa mexicana,,eats
+41090,,Aechmea bracteata,,eats
+41090,,Piper yzabalanum,,eats
+41090,83969,Solanum bicolor,,eats
+41090,,Manilkara zapota,,eats
+41090,,Billbergia horrida,,pollinates
+41090,,Pachycereus,,pollinates
+41090,,Pachycereus weberi,,pollinates
+41090,,Bauhinia pauletia,,pollinates
+41090,,Bauhinia ungulata,,pollinates
+41090,47208,Coleoptera,Beetles,preysOn
+41090,48670,Noctuidae,Cutworm Moths and Allies,preysOn
+41090,47157,Lepidoptera,Butterflies and Moths,preysOn
+41090,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+41090,47822,Diptera,Flies,preysOn
+41090,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+41090,47158,Insecta,Insects,preysOn
+41090,,Trichobius joblingi,,preysOn
+41090,,Spodoptera latifascia,,preysOn
+41090,203445,Magusa orbifera,Orbed Narrow-wing Moth,preysOn
+41090,,Pseudophisma delunaris,,preysOn
+41090,,Coxina hadenoides,,preysOn
+41090,,Bleptina,,preysOn
+41090,,Coscaga picatalis,,preysOn
+41090,,Parachabora abydas,,preysOn
+41090,308352,Rhodnius prolixus,,preysOn
+41090,,Streblidae,,preysOn
+41090,,Senticolis triaspis mutabilis,,preyedUponBy

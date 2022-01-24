@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67328,47367,Opiliones,Harvestmen,eats
+67328,81923,Halyomorpha halys,Brown Marmorated Stink Bug,eats
+67328,47118,Araneae,Spiders,eats
+67328,47822,Diptera,Flies,eats
+67328,48484,Harmonia axyridis,Asian Lady Beetle,eats
+67328,,Euscorpius,,eats
+67328,47383,Latrodectus geometricus,Brown Widow,eatenBy
+67328,120474,Araneomorphae,Typical Spiders,preysOn
+67328,67328,Pholcus phalangioides,Long-bodied Cellar Spider,preysOn
+67328,116658,Siphanta acuta,Torpedo Bug,preysOn
+67328,179916,Tipulomorpha,Crane Flies,preysOn
+67328,59441,Chrysoperla,Common Green Lacewings,preysOn
+67328,56083,Armadillidium vulgare,Common Pill Woodlouse,preysOn
+67328,48484,Harmonia axyridis,Asian Lady Beetle,preysOn
+67328,47371,Theridiidae,Cobweb Spiders,preysOn
+67328,121444,Larinioides,,preysOn
+67328,340923,Scolypopa australis,Passionvine hopper,preysOn
+67328,67328,Pholcus phalangioides,Long-bodied Cellar Spider,preyedUponBy

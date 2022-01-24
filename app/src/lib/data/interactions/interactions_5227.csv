@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5227,2,Chordata,Chordates,eats
+5227,3,Aves,Birds,eats
+5227,40151,Mammalia,Mammals,eats
+5227,1,Animalia,Animals,eats
+5227,26718,Caudata,Salamanders,eats
+5227,64968,Anaxyrus americanus,American Toad,eats
+5227,74677,Myodes gapperi,Southern Red-backed Vole,eats
+5227,28362,Thamnophis sirtalis,Common Garter Snake,eats
+5227,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+5227,46260,Tamiasciurus hudsonicus,American Red Squirrel,eats
+5227,26172,Squamata,Snakes and Lizards,eats
+5227,44396,Peromyscus maniculatus,Deer Mouse,eats
+5227,66012,Lithobates sylvaticus,Wood Frog,eats
+5227,20979,Anura,Frogs and Toads,eats
+5227,46217,Tamias striatus,Eastern Chipmunk,eats
+5227,43698,Rodentia,Rodents,eats
+5227,890,Bonasa umbellus,Ruffed Grouse,eats
+5227,9424,Pipilo erythrophthalmus,Eastern Towhee,eats
+5227,44259,Microtus,Meadow Voles,eats
+5227,906,Meleagris gallopavo,Wild Turkey,eats
+5227,44349,Peromyscus,North American Deer Mice,eats
+5227,18236,Colaptes auratus,Northern Flicker,eats
+5227,47114,Gastropoda,Gastropods,eats
+5227,26036,Reptilia,Reptiles,eats
+5227,47208,Coleoptera,Beetles,eats
+5227,9156,Passerella iliaca,Fox Sparrow,eats
+5227,62550,Seiurus aurocapilla,Ovenbird,eats
+5227,59815,Sorex cinereus,Masked Shrew,eats
+5227,44185,Muridae,Old World Mice and Rats,eats
+5227,9184,Zonotrichia albicollis,White-throated Sparrow,eats
+5227,8229,Cyanocitta cristata,Blue Jay,eats
+5227,44311,Microtus pennsylvanicus,Meadow Vole,eats
+5227,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eats
+5227,63523,Melanoplus,,eats
+5227,46265,Glaucomys,New World Flying Squirrels,eats
+5227,26575,Diadophis punctatus,ring-necked snake,eats
+5227,979753,Leiothlypis ruficapilla,Nashville Warbler,eats
+5227,1965,Coccyzus americanus,Yellow-billed Cuckoo,eats
+5227,46355,Sorex palustris,American Water Shrew,eats
+5227,146314,Opheodrys vernalis,Smooth Greensnake,eats
+5227,9083,Cardinalis cardinalis,Northern Cardinal,eats
+5227,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+5227,61267,Heteroptera,True Bugs,eats
+5227,65979,Lithobates catesbeianus,American Bullfrog,eats
+5227,46342,Sorex,Long-tailed Shrews,eats
+5227,31888,Anguidae,Glass and Alligator Lizards,eats
+5227,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+5227,10373,Molothrus ater,Brown-headed Cowbird,eats
+5227,46927,Talpidae,Moles and Desmans,eats
+5227,47157,Lepidoptera,Butterflies and Moths,eats
+5227,28555,Storeria,American Brown Snakes,eats
+5227,64747,Anaxyrus,North American Toads,eats
+5227,28339,Thamnophis,Garter Snakes,eats
+5227,45933,Sciuridae,Squirrels,eats
+5227,118890,Conocephalus,Lesser Meadow Katydids,eats
+5227,53248,Elateridae,Click Beetles,eats
+5227,47336,Formicidae,Ants,eats
+5227,71251,Gryllus,,eats
+5227,47118,Araneae,Spiders,eats
+5227,43115,Sylvilagus audubonii,Desert Cottontail,eats
+5227,49567,Carabidae,Ground Beetles,eats
+5227,60538,Geotrupes,,eats
+5227,46881,Blarina,Short-tailed Shrews,eats
+5227,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+5227,48670,Noctuidae,Cutworm Moths and Allies,eats
+5227,85553,Serpentes,Snakes,eats
+5227,81547,Lumbricus,,eats
+5227,66003,Lithobates pipiens,Northern Leopard Frog,eats
+5227,28557,Storeria occipitomaculata,Red-bellied Snake,eats
+5227,7428,Bombycilla cedrorum,Cedar Waxwing,eats
+5227,10094,Junco hyemalis,Dark-eyed Junco,eats
+5227,47186,Decapoda,Decapods,eats
+5227,7251,Passeriformes,Perching Birds,eats
+5227,25473,Ranidae,Typical Frogs,eats
+5227,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+5227,21359,Bufonidae,True Toads,eats
+5227,44395,Peromyscus leucopus,White-footed Mouse,eats
+5227,47158,Insecta,Insects,eats
+5227,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+5227,12727,Turdus migratorius,American Robin,eats
+5227,13858,Passer domesticus,House Sparrow,eats
+5227,9100,Melospiza melodia,Song Sparrow,eats
+5227,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+5227,71349,Parulidae,New World Warblers,eats
+5227,44576,Rattus norvegicus,Brown Rat,eats
+5227,47014,Scalopus aquaticus,Eastern Mole,eats
+5227,44575,Rattus rattus,Black Rat,eats
+5227,3000,Columba,Old World Pigeons,eats
+5227,85552,Sauria,Lizards,eats
+5227,48124,Tettigoniidae,Katydids,eats
+5227,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,eats
+5227,47056,Condylura cristata,Star-nosed Mole,eats
+5227,47049,Parascalops breweri,Hairy-tailed Mole,eats
+5227,25474,Rana,Pond Frogs,eats
+5227,,Anaxyrus cognatus,,eats
+5227,,Tamias minimus,,eats
+5227,,Dipodidae,,eats
+5227,,Lepus americanus,,eats
+5227,,Crotaphytus collaris,,eats
+5227,,Microtus pinetorum,,eats
+5227,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+5227,19890,Strix nebulosa,Great Gray Owl,eatenBy
+5227,66012,Lithobates sylvaticus,Wood Frog,preysOn
+5227,64968,Anaxyrus americanus,American Toad,preysOn
+5227,85553,Serpentes,Snakes,preysOn
+5227,28559,Storeria occipitomaculata occipitomaculata,Northern Redbelly Snake,preysOn
+5227,46260,Tamiasciurus hudsonicus,American Red Squirrel,preysOn
+5227,28362,Thamnophis sirtalis,Common Garter Snake,preysOn
+5227,40346,Myotis lucifugus,Little Brown Bat,preysOn
+5227,35342,Iguana iguana,Green Iguana,preysOn
+5227,,Ameiva ameiva,,preysOn

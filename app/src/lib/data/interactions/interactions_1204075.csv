@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1204075,,Dilachnus,,eats
+1204075,,secretions of Dilachnus pini,,eats
+1204075,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+1204075,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+1204075,41641,Ursus arctos,Brown Bear,eatenBy
+1204075,,Empidonax flaviventris,,eatenBy
+1204075,50790,Linaria vulgaris,common toadflax,pollinates
+1204075,62312,Campanula rotundifolia,Harebell,pollinates
+1204075,48582,Sorbus,Rowans and Mountain Ashes,pollinates
+1204075,402509,Pilosella officinarum,mouse-eared hawkweed,pollinates
+1204075,,http://treatment.plazi.org/id/9C3EA076049CF79FE28D1D5ADD93DC86,,pollinates
+1204075,,Sium suave,,pollinates
+1204075,119450,Calluna vulgaris,common heather,pollinates
+1204075,162431,Erica tetralix,Cross-leaved Heath,pollinates
+1204075,,Potentilla erecta,,pollinates
+1204075,,Genista anglica,,pollinates
+1204075,56312,Vaccinium vitis-idaea,Lingonberry,pollinates
+1204075,,Galium saxatile,,pollinates
+1204075,,Scorzonea humilis,,pollinates
+1204075,64714,Vaccinium uliginosum,bog bilberry,pollinates
+1204075,,Genista pilosa,,pollinates
+1204075,,Solidago virgaurea,,pollinates
+1204075,48935,Arceuthobium americanum,lodgepole pine dwarf mistletoe,pollinates
+1204075,,secretions of Dilachnus pini,,preysOn
+1204075,,Formica sanguinea,,preyedUponBy
+1204075,,Microdon mutabilis,,preyedUponBy

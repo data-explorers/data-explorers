@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4234,81576,Belostoma,,eats
+4234,127444,Hydrophilidae,Water Scavenger Beetles,eats
+4234,57659,Dytiscidae,Predaceous Diving Beetles,eats
+4234,47158,Insecta,Insects,eats
+4234,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+4234,47792,Odonata,Dragonflies and Damselflies,eats
+4234,26777,Ambystoma mexicanum,Axolotl,eats
+4234,48415,Citharichthys sordidus,Pacific sanddab,eats
+4234,,Haliplidae,,eats
+4234,26777,Ambystoma mexicanum,Axolotl,preysOn
+4234,85949,Osmeridae,Smelts,preysOn

@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117100,1,Animalia,Animals,eats
+117100,211194,Tracheophyta,vascular plants,eats
+117100,47120,Arthropoda,Arthropods,eats
+117100,47822,Diptera,Flies,eats
+117100,47535,Araneidae,Orbweavers,eats
+117100,47157,Lepidoptera,Butterflies and Moths,eats
+117100,49530,Geometridae,Geometer Moths,eats
+117100,47124,Magnoliopsida,dicots,eats
+117100,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+117100,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+117100,47208,Coleoptera,Beetles,eats
+117100,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+117100,61267,Heteroptera,True Bugs,eats
+117100,47158,Insecta,Insects,eats
+117100,48486,Coccinellidae,Lady Beetles,eats
+117100,53237,Cicadellidae,Typical Leafhoppers,eats
+117100,47118,Araneae,Spiders,eats
+117100,48194,Psyllidae,jumping plant lice,eats
+117100,57804,Berytidae,Stilt Bugs,eats
+117100,49567,Carabidae,Ground Beetles,eats
+117100,47125,Angiospermae,flowering plants,eats
+117100,,Archips fumiferana,,eats
+117100,,Plecoptera,,eats
+117100,,Euchelicerata,,eats
+117100,,Dendroctonus brevicomis,,eats
+117100,61863,Cercopidae,Froghoppers,eats
+117100,129878,Nabidae,Damsel Bugs,eats
+117100,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+117100,47118,Araneae,Spiders,preysOn

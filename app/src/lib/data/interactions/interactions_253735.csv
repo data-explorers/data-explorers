@@ -1,0 +1,86 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+253735,47178,Actinopterygii,Ray-finned Fishes,eats
+253735,47459,Cephalopoda,Cephalopods,eats
+253735,90074,Myctophum,,eats
+253735,47115,Mollusca,Molluscs,eats
+253735,85493,Crustacea,Crustaceans,eats
+253735,246428,Histioteuthis,,eats
+253735,246426,Abraliopsis,,eats
+253735,253694,Ocythoe tuberculata,Football Octopus,eats
+253735,253676,Japetella diaphana,Diaphanous Pelagic Octopus,eats
+253735,,Gnathostomata,,eats
+253735,55535,Sardinops sagax,Pacific Sardine,eats
+253735,87744,Cubiceps,,eats
+253735,120645,Chauliodus sloani,Sloane's Viperfish,eats
+253735,87782,Cyclothone,,eats
+253735,617783,Electrona antarctica,,eats
+253735,90728,Paralepis,,eats
+253735,246435,Octopoteuthis,,eats
+253735,92265,Stomias,Scaly Dragonfishes,eats
+253735,432522,Ornithoteuthis volatilis,Shiny Bird Squid,eats
+253735,628348,Pterygosquilla armata,Patagonian Mantis Shrimp,eats
+253735,123962,Dosidicus gigas,Humboldt Squid,eats
+253735,316964,Argyropelecus affinis,Pacific Hatchetfish,eats
+253735,246418,Liocranchia,,eats
+253735,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eats
+253735,,Chtenopteryx,,eats
+253735,361765,Todarodes pacificus,Japanese Flying Squid,eats
+253735,67626,Nemichthys,,eats
+253735,432492,Onychoteuthis banksii,Common Clubhook Squid,eats
+253735,88988,Hygophum,,eats
+253735,432545,Todarodes sagittatus,European Flying Squid,eatenBy
+253735,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+253735,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+253735,69676,Thunnus,Bluefin Tunas,eatenBy
+253735,56943,Katsuwonus pelamis,Skipjack Tuna,eatenBy
+253735,41503,Stenella frontalis,Atlantic Spotted Dolphin,eatenBy
+253735,41539,Pseudorca crassidens,False Killer Whale,eatenBy
+253735,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eatenBy
+253735,123962,Dosidicus gigas,Humboldt Squid,eatenBy
+253735,83314,Hyaloteuthis pelagica,glassy flying squid,eatenBy
+253735,4164,Pachyptila desolata,Antarctic Prion,eatenBy
+253735,253672,Sthenoteuthis pteropus,Orangeback Squid,eatenBy
+253735,41545,Steno bredanensis,Rough-toothed Dolphin,eatenBy
+253735,74890,Physeter macrocephalus,Sperm Whale,eatenBy
+253735,93644,Alepisaurus ferox,Longnose Lancetfish,eatenBy
+253735,47537,Makaira mazara,Indo-Pacific Blue Marlin,eatenBy
+253735,110361,Prionace glauca,Blue Shark,eatenBy
+253735,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+253735,147455,Makaira nigricans,Blue Marlin,eatenBy
+253735,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+253735,56765,Sphyrna zygaena,Smooth Hammerhead,eatenBy
+253735,115167,Xiphias gladius,Swordfish,eatenBy
+253735,4202,Thalassoica antarctica,Antarctic Petrel,eatenBy
+253735,,Lagenodelphis hosei,,eatenBy
+253735,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+253735,361765,Todarodes pacificus,Japanese Flying Squid,preysOn
+253735,432522,Ornithoteuthis volatilis,Shiny Bird Squid,preysOn
+253735,253694,Ocythoe tuberculata,Football Octopus,preysOn
+253735,123962,Dosidicus gigas,Humboldt Squid,preysOn
+253735,328459,Sthenoteuthis oualaniensis,Purpleback Squid,preysOn
+253735,432492,Onychoteuthis banksii,Common Clubhook Squid,preysOn
+253735,253676,Japetella diaphana,Diaphanous Pelagic Octopus,preysOn
+253735,69676,Thunnus,Bluefin Tunas,preyedUponBy
+253735,56943,Katsuwonus pelamis,Skipjack Tuna,preyedUponBy
+253735,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy
+253735,41503,Stenella frontalis,Atlantic Spotted Dolphin,preyedUponBy
+253735,41526,Delphinus delphis,Short-beaked Common Dolphin,preyedUponBy
+253735,74890,Physeter macrocephalus,Sperm Whale,preyedUponBy
+253735,328459,Sthenoteuthis oualaniensis,Purpleback Squid,preyedUponBy
+253735,115167,Xiphias gladius,Swordfish,preyedUponBy
+253735,110361,Prionace glauca,Blue Shark,preyedUponBy
+253735,93644,Alepisaurus ferox,Longnose Lancetfish,preyedUponBy
+253735,123962,Dosidicus gigas,Humboldt Squid,preyedUponBy
+253735,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy
+253735,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preyedUponBy
+253735,,no name,,preyedUponBy
+253735,83314,Hyaloteuthis pelagica,glassy flying squid,preyedUponBy
+253735,147455,Makaira nigricans,Blue Marlin,preyedUponBy
+253735,41500,Stenella attenuata,Pantropical Spotted Dolphin,preyedUponBy
+253735,56765,Sphyrna zygaena,Smooth Hammerhead,preyedUponBy
+253735,4164,Pachyptila desolata,Antarctic Prion,preyedUponBy
+253735,41545,Steno bredanensis,Rough-toothed Dolphin,preyedUponBy
+253735,253672,Sthenoteuthis pteropus,Orangeback Squid,preyedUponBy
+253735,41539,Pseudorca crassidens,False Killer Whale,preyedUponBy
+253735,,Lagenodelphis hosei,,preyedUponBy
+253735,47537,Makaira mazara,Indo-Pacific Blue Marlin,preyedUponBy

@@ -1,0 +1,62 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48460,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+48460,67708,Argiope trifasciata,Banded Garden Spider,eatenBy
+48460,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+48460,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+48460,9915,Piranga rubra,Summer Tanager,eatenBy
+48460,9602,Quiscalus quiscula,Common Grackle,eatenBy
+48460,10247,Setophaga ruticilla,American Redstart,eatenBy
+48460,55626,Pieris rapae,Cabbage White,eatenBy
+48460,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+48460,4665,Falco sparverius,American Kestrel,eatenBy
+48460,46020,Sciurus niger,Fox Squirrel,eatenBy
+48460,72458,Actitis macularius,Spotted Sandpiper,eatenBy
+48460,13633,Baeolophus inornatus,Oak Titmouse,eatenBy
+48460,8010,Corvus corax,Common Raven,eatenBy
+48460,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+48460,4385,Larus californicus,California Gull,eatenBy
+48460,14850,Sturnus vulgaris,European Starling,eatenBy
+48460,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+48460,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+48460,8021,Corvus brachyrhynchos,American Crow,eatenBy
+48460,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+48460,145242,Setophaga palmarum,Palm Warbler,eatenBy
+48460,62229,Ischnura cervula,Pacific Forktail,eatenBy
+48460,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+48460,144455,Ardea alba,Great Egret,eatenBy
+48460,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+48460,144539,Thalasseus maximus,Royal Tern,eatenBy
+48460,18921,Platycercus elegans,Crimson Rosella,eatenBy
+48460,116845,Calyptorhynchus funereus,Yellow-tailed Black-Cockatoo,eatenBy
+48460,19009,Psephotus haematonotus,Red-rumped Parrot,eatenBy
+48460,,Trichoglossus haematodus moluccanus,,eatenBy
+48460,,Platycercus eximius diemenensis,,eatenBy
+48460,,Corvus cornix,,eatenBy
+48460,,Polytelis swainsonii,,eatenBy
+48460,,Glossopsitta concinna,,eatenBy
+48460,,Trachycephalus typhonius,,eatenBy
+48460,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+48460,144560,Eolophus roseicapilla,Galah,eatenBy
+48460,,Setophaga striata,,eatenBy
+48460,,Alisterus scapularis,,eatenBy
+48460,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+48460,202505,Zosterops lateralis,Silvereye,eatenBy
+48460,5416,Ictinia mississippiensis,Mississippi Kite,eatenBy
+48460,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+48460,367477,Rallus crepitans,Clapper Rail,eatenBy
+48460,,Setophaga pinus,,eatenBy
+48460,4892,Pluvialis squatarola,Black-bellied Plover,eatenBy
+48460,129364,Calephelis,,preysOn
+48460,74009,Zamenis longissimus,Aesculapian Snake,preysOn
+48460,,Evechinus chloroticus,,preysOn
+48460,94575,Argia tibialis,Blue-tipped Dancer,preysOn
+48460,,Enallagma civile,,preysOn
+48460,4415,Cepphus columba,Pigeon Guillemot,preyedUponBy
+48460,4246,Podilymbus podiceps,Pied-billed Grebe,preyedUponBy
+48460,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+48460,,Promachus rufipes,,preyedUponBy
+48460,28499,Tantilla hobartsmithi,Southwestern Blackhead Snake,preyedUponBy
+48460,,Pelegrina proterva,,preyedUponBy
+48460,20500,Casuarius casuarius,Southern Cassowary,preyedUponBy
+48460,,Aviceda subcristata,,preyedUponBy
+48460,179749,Phidippus regius,Regal Jumping Spider,preyedUponBy

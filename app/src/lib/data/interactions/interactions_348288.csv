@@ -1,0 +1,153 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+348288,67333,Bacteria,bacteria,eats
+348288,,Detritus,,eats
+348288,,diatom ORGANIC-3,,eats
+348288,,POM (detritus),,eats
+348288,800860,Salpa thompsoni,,eatenBy
+348288,68764,Ostracoda,Seed Shrimp,eatenBy
+348288,339322,Paraonidae,,eatenBy
+348288,49267,Sphoeroides,,eatenBy
+348288,132473,Lagodon rhomboides,Pinfish,eatenBy
+348288,430553,Merlangius merlangus,Whiting,eatenBy
+348288,118718,Callionymus maculatus,Spotted Dragonet,eatenBy
+348288,224163,Lumpenus lampretaeformis,Snakeblenny,eatenBy
+348288,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+348288,98753,Ctenolabrus rupestris,Goldsinny Wrasse,eatenBy
+348288,47523,Pleuronectes platessa,European Plaice,eatenBy
+348288,61387,Limanda limanda,Sand Dab,eatenBy
+348288,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+348288,109631,Platichthys flesus,European Flounder,eatenBy
+348288,118851,Crangon crangon,Brown Shrimp,eatenBy
+348288,483237,Zoarces viviparus,Viviparous Blenny,eatenBy
+348288,487285,Retusa obtusa,Arctic Barrel-bubble,eatenBy
+348288,344748,Pomatoschistus minutus,Sand Goby,eatenBy
+348288,110042,Pomatoschistus microps,Common Goby,eatenBy
+348288,,Paralichthys albigutta,,eatenBy
+348288,179593,Fundulus similis,Longnose Killifish,eatenBy
+348288,571229,Bathynomus giganteus,Giant Isopod,eatenBy
+348288,260571,Hepatus pudibundus,,eatenBy
+348288,195286,Callinectes arcuatus,Arched Swimming Crab,eatenBy
+348288,295305,Callinectes ornatus,Ornate Blue Crab,eatenBy
+348288,295304,Callinectes similis,Lesser Blue Crab,eatenBy
+348288,,Clavularia,,eatenBy
+348288,,Eunoe opalina,,eatenBy
+348288,1171863,Ophiosparte gigas,,eatenBy
+348288,,Nauticaris marionis,,eatenBy
+348288,344134,Euphausia superba,Antarctic Krill,eatenBy
+348288,533716,Labidiaster annulatus,,eatenBy
+348288,,Lucicutia gaussae,,eatenBy
+348288,,Abyssorchomene plebs,,eatenBy
+348288,,Alacia hettacra,,eatenBy
+348288,,Mimocalanus cultrifer,,eatenBy
+348288,,Aetideopsis antarctica,,eatenBy
+348288,,Antarctomysis maxima,,eatenBy
+348288,,Tomopteris carpenteri,,eatenBy
+348288,,Oithona similis,,eatenBy
+348288,693690,Tomopteris planktonis,,eatenBy
+348288,,Pseudoamallothrix cenotelis,,eatenBy
+348288,1321176,Cyllopus lucasii,,eatenBy
+348288,,Haloptilus ocellatus,,eatenBy
+348288,,Oncaea curvata,,eatenBy
+348288,,Spinocalanus abyssalis,,eatenBy
+348288,,Hyperiella dilatata,,eatenBy
+348288,,Pasiphaea scotiae,,eatenBy
+348288,,Scaphocalanus vervoorti,,eatenBy
+348288,674243,Maupasia coeca,,eatenBy
+348288,,Gaetanus tenuispinus,,eatenBy
+348288,409151,Tomopteris septentrionalis,,eatenBy
+348288,,Antarctomysis ohlinii,,eatenBy
+348288,,Heterorhabdus austrinus,,eatenBy
+348288,617783,Electrona antarctica,,eatenBy
+348288,,Pseudochirella mawsoni,,eatenBy
+348288,975132,Eukrohnia hamata,,eatenBy
+348288,,Thysanoessa macrura,,eatenBy
+348288,,Metaconchoecia skogsbergi,,eatenBy
+348288,682434,Pelagobia longicirrata,,eatenBy
+348288,1287828,Eusirus perdentatus,,eatenBy
+348288,,Pseudomma belgicae,,eatenBy
+348288,260964,Primno macropa,,eatenBy
+348288,,Scaphocalanus farrani,,eatenBy
+348288,295570,Eurythenes obesus,,eatenBy
+348288,,Lucicutia macrocera,,eatenBy
+348288,,Alacia belgicae,,eatenBy
+348288,,Drepanopsis frigidus,,eatenBy
+348288,,Parandania boecki,,eatenBy
+348288,,Mysidetes posthon,,eatenBy
+348288,201742,Pleuromamma robusta,,eatenBy
+348288,,Onchocalanus wolfendeni,,eatenBy
+348288,,Eusirus microps,,eatenBy
+348288,,Racovitzanus antarcticus,,eatenBy
+348288,,Pseudosagitta gazellae,,eatenBy
+348288,432420,Galiteuthis glacialis,Glacial Cranch Squid,eatenBy
+348288,,Spinocalanus abyssalis pygmaeus,,eatenBy
+348288,,Ctenocalanus citer,,eatenBy
+348288,,Amallothrix dentipes,,eatenBy
+348288,,Conchoecissa imbricata,,eatenBy
+348288,,Microcalanus pygmaeus,,eatenBy
+348288,,Pseudoamallothrix emarginata,,eatenBy
+348288,,Boroecia antipoda,,eatenBy
+348288,,Lucicutia wolfendeni,,eatenBy
+348288,,Stephos longipes,,eatenBy
+348288,,Abyssorchomene rossi,,eatenBy
+348288,,Dactylamblyops,,eatenBy
+348288,,Scaphocalanus antarcticus,,eatenBy
+348288,,Eusirus propeperdentatus,,eatenBy
+348288,,Scolecithricella minor,,eatenBy
+348288,,Triconia antarctica,,eatenBy
+348288,,Gaetanus kruppii,,eatenBy
+348288,,Paraeuchaeta similis,,eatenBy
+348288,,Spinocalanus magnus,,eatenBy
+348288,,Pseudochirella hirsuta,,eatenBy
+348288,,Calanus propinquus,,eatenBy
+348288,,Metridia curticauda,,eatenBy
+348288,466011,Eurythenes gryllus,,eatenBy
+348288,,Boreomysis,,eatenBy
+348288,,Metridia gerlachei,,eatenBy
+348288,,epipellic flora,,preysOn
+348288,,Epipellic flora,,preysOn
+348288,63770,Engraulis mordax,Northern Anchovy,preyedUponBy
+348288,54538,Syngnathus leptorhynchus,Bay Pipefish,preyedUponBy
+348288,850859,Oxyura jamaicensis,Ruddy Duck,preyedUponBy
+348288,800860,Salpa thompsoni,,preyedUponBy
+348288,94801,Atherinops affinis,Topsmelt Silverside,preyedUponBy
+348288,209018,Polydora,Shell-boring Spionids,preyedUponBy
+348288,117564,Clevelandia ios,Arrow Gobi,preyedUponBy
+348288,627095,Upogebia macginitieorum,,preyedUponBy
+348288,123639,Spionidae,,preyedUponBy
+348288,344748,Pomatoschistus minutus,Sand Goby,preyedUponBy
+348288,110042,Pomatoschistus microps,Common Goby,preyedUponBy
+348288,118851,Crangon crangon,Brown Shrimp,preyedUponBy
+348288,483237,Zoarces viviparus,Viviparous Blenny,preyedUponBy
+348288,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+348288,109631,Platichthys flesus,European Flounder,preyedUponBy
+348288,253748,Japonactaeon punctostriatus,,preyedUponBy
+348288,51371,Pseudopleuronectes americanus,Winter Flounder,preyedUponBy
+348288,,Epimeria macrodonta,,preyedUponBy
+348288,,Notocrangon antarcticus,,preyedUponBy
+348288,1162951,Ctenocidaris spinosa,,preyedUponBy
+348288,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preyedUponBy
+348288,,Chorismus antarcticus,,preyedUponBy
+348288,,Ophiacantha antarctica,,preyedUponBy
+348288,,Epimeria georgiana,,preyedUponBy
+348288,1194375,Epimeria similis,,preyedUponBy
+348288,,Heterophoxus videns,,preyedUponBy
+348288,195803,Aporocidaris milleri,,preyedUponBy
+348288,,Thysanoessa macrura,,preyedUponBy
+348288,1119461,Ophionotus victoriae,Victoria Brittle Star,preyedUponBy
+348288,952607,Euphausia frigida,,preyedUponBy
+348288,1212941,Puncturella conica,,preyedUponBy
+348288,1172008,Ophioplinthus gelida,,preyedUponBy
+348288,1163407,Sterechinus antarcticus,,preyedUponBy
+348288,,Clavularia frankiliana,,preyedUponBy
+348288,1118648,Sterechinus neumayeri,Antarctic sea urchin,preyedUponBy
+348288,,Gersemia antarctica,,preyedUponBy
+348288,1171999,Ophioplinthus brevirima,,preyedUponBy
+348288,1175083,Nuttallochiton mirandus,,preyedUponBy
+348288,1162949,Ctenocidaris perrieri,,preyedUponBy
+348288,1171939,Ophioperla koehleri,,preyedUponBy
+348288,651712,Astrotoma agassizii,,preyedUponBy
+348288,,Ctenocidaris gilberti,,preyedUponBy
+348288,,Austrocidaris canaliculata,,preyedUponBy
+348288,1171863,Ophiosparte gigas,,preyedUponBy
+348288,804554,Prodoris clavigera,,preyedUponBy
+348288,,Ophioceres incipiens,,preyedUponBy

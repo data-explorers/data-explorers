@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51637,13881,Lonchura,Munias and Australasian Mannikins,eatenBy
+51637,906,Meleagris gallopavo,Wild Turkey,eatenBy
+51637,9152,Spizella pusilla,Field Sparrow,eatenBy
+51637,9135,Spizella passerina,Chipping Sparrow,eatenBy
+51637,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+51637,14850,Sturnus vulgaris,European Starling,eatenBy
+51637,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+51637,9602,Quiscalus quiscula,Common Grackle,eatenBy
+51637,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+51637,,Borbo,,eatenBy
+51637,,Ypthima baldus,,eatenBy
+51637,736377,Ypthima motschulskyi,,eatenBy
+51637,58506,Polites themistocles,Tawny-edged Skipper,eatenBy
+51637,,Poanes melane,,eatenBy
+51637,,Hesperia sassacus,,eatenBy
+51637,,Hypocysta adiante,,eatenBy
+51637,,Erebia neoridas,,eatenBy
+51637,,Erebia ligea,,eatenBy
+51637,,Erebia euryale,,eatenBy
+51637,,Atalopedes campestris,,eatenBy
+51637,,Schizaphis,,eatenBy
+51637,,Mus sp.,,eatenBy
+51637,,North American deermouse,,eatenBy
+51637,,Euplectes albonotatus,,eatenBy
+51637,,Hylephila phylaeus,,eatenBy
+51637,,Leucania ursula,,eatenBy
+51637,,Leucania latiuscula,,eatenBy
+51637,,Elasmopalpus lignosellus,,eatenBy
+51637,,Passerina ciris,,eatenBy
+51637,162,Porzana carolina,Sora,eatenBy
+51637,,Peucaea aestivalis,,eatenBy
+51637,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+51637,43329,Equus,Equines,preyedUponBy
+51637,,Syncerus caffer,,preyedUponBy
+51637,,Procavia capensis,,preyedUponBy
+51637,,Connochaetes taurinus,,preyedUponBy
+51637,,Alcelaphus buselaphus,,preyedUponBy
+51637,,Papio anubis,,preyedUponBy
+51637,,Gazella thomsonii,,preyedUponBy
+51637,,Rhabdomys pumilio,,preyedUponBy
+51637,43088,Heterohyrax brucei,Bush Hyrax,preyedUponBy
+51637,,Pedetes capensis,,preyedUponBy
+51637,,Gazella granti,,preyedUponBy
+51637,,Kobus ellipsiprymnus,,preyedUponBy
+51637,,Taurotragus oryx,,preyedUponBy

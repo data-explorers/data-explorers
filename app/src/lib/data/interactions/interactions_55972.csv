@@ -1,0 +1,86 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55972,55972,Frangula alnus,alder buckthorn,eats
+55972,118494,Macaria,,eatenBy
+55972,13858,Passer domesticus,House Sparrow,eatenBy
+55972,42069,Vulpes vulpes,Red Fox,eatenBy
+55972,14850,Sturnus vulgaris,European Starling,eatenBy
+55972,782226,Pezicula frangulae,,eatenBy
+55972,55972,Frangula alnus,alder buckthorn,eatenBy
+55972,997249,Lymantor coryli,,eatenBy
+55972,,Spatalistis bifasciana,,eatenBy
+55972,527074,Ancylis unculana,Buckthorn Roller,eatenBy
+55972,,Saturnia pavonia,,eatenBy
+55972,,Actias selene,,eatenBy
+55972,,Epiphora mythimnia,,eatenBy
+55972,,Triphosa dubitata,,eatenBy
+55972,,Eupithecia subfuscata,,eatenBy
+55972,,Operophtera brumata,,eatenBy
+55972,,Biston betularia,,eatenBy
+55972,,Sorhagenia janiszewskae,,eatenBy
+55972,,Sitta europaea,,eatenBy
+55972,12748,Turdus philomelos,Song Thrush,eatenBy
+55972,,Coccothraustes coccothraustes,,eatenBy
+55972,12716,Turdus merula,Eurasian Blackbird,eatenBy
+55972,,Garrulus glandarius,,eatenBy
+55972,,Phylloscopus trochilus,,eatenBy
+55972,,Poecile palustris,,eatenBy
+55972,,Dendrocopos medius,,eatenBy
+55972,13094,Erithacus rubecula,European Robin,eatenBy
+55972,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+55972,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+55972,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+55972,,Parus major,,eatenBy
+55972,,Ficedula hypoleuca,,eatenBy
+55972,,Luscinia luscinia,,eatenBy
+55972,,Hippolais icterina,,eatenBy
+55972,15302,Sylvia borin,Garden Warbler,eatenBy
+55972,,Setophaga striata,,eatenBy
+55972,12735,Turdus viscivorus,Mistle Thrush,eatenBy
+55972,,Apodemus flavicollis,,eatenBy
+55972,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+55972,,Oriolus oriolus,,eatenBy
+55972,,Dryocopus martius,,eatenBy
+55972,144812,Poecile montanus,Willow Tit,eatenBy
+55972,,Columba palumbus,,eatenBy
+55972,12707,Turdus pilaris,Fieldfare,eatenBy
+55972,,Muscardinus avellanarius,,eatenBy
+55972,,Sylvia communis,,eatenBy
+55972,,Cyanistes caeruleus,,eatenBy
+55972,,Cettia cetti,,eatenBy
+55972,,Cyanopica cooki,,eatenBy
+55972,,Emberiza,,eatenBy
+55972,,Sylvia cantillans,,eatenBy
+55972,,Phylloscopus bonelli,,eatenBy
+55972,,Phoenicurus phoenicurus,,eatenBy
+55972,14849,Sturnus unicolor,Spotless Starling,eatenBy
+55972,,Sylvia melanocephala,,eatenBy
+55972,,Alces alces,,eatenBy
+55972,42407,Bison bonasus,European Bison,eatenBy
+55972,,Cervus elaphus,,eatenBy
+55972,42134,Sus scrofa,Wild Boar,eatenBy
+55972,,Capreolus capreolus,,eatenBy
+55972,41796,Martes martes,Eurasian Pine Marten,eatenBy
+55972,855297,Meles meles,European Badger,eatenBy
+55972,145360,Chloris chloris,European Greenfinch,eatenBy
+55972,,Phoenicurus ochruros,,eatenBy
+55972,,Columba oenas,,eatenBy
+55972,891696,Pica pica,Eurasian Magpie,eatenBy
+55972,,Sylvia curruca,,eatenBy
+55972,,Phylloscopus,,eatenBy
+55972,,Passer montanus,,eatenBy
+55972,204496,Corvus corone,Carrion Crow,eatenBy
+55972,,Turdus iliacus,,eatenBy
+55972,12740,Turdus torquatus,Ring Ouzel,eatenBy
+55972,,Exidia thuretiana,,eatenBy
+55972,,Leucostoma auerswaldii,,eatenBy
+55972,,Karstenula rhodostoma,,eatenBy
+55972,,Eutypella scoparia,,eatenBy
+55972,,Gibberella zeae,,eatenBy
+55972,,Haplosporella francisci,,eatenBy
+55972,,Godronia,,eatenBy
+55972,,Dichomera rhamnicola,,eatenBy
+55972,,Bucculatrix frangutella,,eatenBy
+55972,,Puccinia coronata,,eatenBy
+55972,,Erysiphe divaricata,,eatenBy
+55972,,Gonepteryx rhamni,,eatenBy
+55972,,Schizotus pectinicornis,,preyedUponBy

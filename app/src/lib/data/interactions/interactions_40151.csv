@@ -1,0 +1,263 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+40151,47178,Actinopterygii,Ray-finned Fishes,eats
+40151,92583,Trachurus,Jack Mackerels,eats
+40151,47158,Insecta,Insects,eats
+40151,47120,Arthropoda,Arthropods,eats
+40151,85493,Crustacea,Crustaceans,eats
+40151,341926,Hypophthalmus edentatus,Highwaterman Catfish,eats
+40151,172357,Hoplias malabaricus,Wolf Fish,eats
+40151,,Pseudoplatystoma reticulatus,,eats
+40151,92016,Serrasalmus,Pirambebas,eats
+40151,619247,Pseudoplatystoma reticulatum,Reticulated Sorubim,eats
+40151,494427,Pseudoplatystoma corruscans,Spotted Sorubim,eats
+40151,362665,Psectrogaster curviventris,,eats
+40151,620387,Plagioscion ternetzi,Freshwater croaker,eats
+40151,91798,Roeboides,,eats
+40151,362663,Acestrorhynchus pantaneiro,,eats
+40151,608207,Schizodon borellii,,eats
+40151,54192,Polynemidae,Threadfins,eats
+40151,,Mesopelagics,,eats
+40151,91866,Sardinella,Sardinellas,eats
+40151,,Miscelaneous,,eats
+40151,82353,Merluccius,Hakes,eats
+40151,,Small pelagics,,eats
+40151,,trunk,,eats
+40151,,hyperparisitoids,,eats
+40151,7054,Aythya affinis,Lesser Scaup,eats
+40151,3168,Gallicolumba luzonica,Luzon Bleeding-heart,eats
+40151,44598,Akodon cursor,Cursor Grass Mouse,eats
+40151,1167,Crossoptilon mantchuricum,Brown Eared-Pheasant,eats
+40151,46407,Sorex dispar,Gray Long-tailed Shrew,eats
+40151,42649,Didelphis marsupialis,Southern Opossum,eats
+40151,129260,Orchelimum vulgare,Common Meadow Katydid,eats
+40151,63740,Gadus morhua,Atlantic Cod,eats
+40151,,ducks (Lesser Scaup),,eats
+40151,409337,Aciphylla aurea,Golden Spaniard,eats
+40151,52110,Carmichaelia petriei,,eats
+40151,,Ampelopsis heterophylla brevipedunculata,,eats
+40151,48538,Cytisus scoparius,Scots broom,eats
+40151,42051,Canis latrans,Coyote,eatenBy
+40151,41976,Lynx rufus,Bobcat,eatenBy
+40151,42069,Vulpes vulpes,Red Fox,eatenBy
+40151,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+40151,42007,Puma concolor,Mountain Lion,eatenBy
+40151,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+40151,81769,Blattodea,Cockroaches and Termites,eatenBy
+40151,49683,Pyralidae,Pyralid Snout Moths,eatenBy
+40151,62781,Camponotus,Carpenter and Sugar Ants,eatenBy
+40151,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eatenBy
+40151,48201,Scarabaeidae,Scarabs,eatenBy
+40151,67742,Drosophilidae,Vinegar and Fruit Flies,eatenBy
+40151,53849,Silphidae,Burying and Carrion Beetles,eatenBy
+40151,48670,Noctuidae,Cutworm Moths and Allies,eatenBy
+40151,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+40151,8010,Corvus corax,Common Raven,eatenBy
+40151,116999,Pandion haliaetus,Osprey,eatenBy
+40151,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+40151,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+40151,4385,Larus californicus,California Gull,eatenBy
+40151,41777,Lontra canadensis,North American River Otter,eatenBy
+40151,5020,Butorides virescens,Green Heron,eatenBy
+40151,144455,Ardea alba,Great Egret,eatenBy
+40151,19893,Strix varia,Barred Owl,eatenBy
+40151,46020,Sciurus niger,Fox Squirrel,eatenBy
+40151,20445,Tyto alba,Barn Owl,eatenBy
+40151,28362,Thamnophis sirtalis,Common Garter Snake,eatenBy
+40151,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+40151,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+40151,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+40151,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,eatenBy
+40151,41167,Desmodus,,eatenBy
+40151,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+40151,558446,Circus hudsonius,Northern Harrier,eatenBy
+40151,4665,Falco sparverius,American Kestrel,eatenBy
+40151,4756,Cathartes aura,Turkey Vulture,eatenBy
+40151,5277,Elanus leucurus,White-tailed Kite,eatenBy
+40151,47144,Canis familiaris,Domestic Dog,eatenBy
+40151,54573,Schizophyllum commune,splitgill mushroom,eatenBy
+40151,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+40151,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+40151,20044,Bubo virginianus,Great Horned Owl,eatenBy
+40151,4672,Falco columbarius,Merlin,eatenBy
+40151,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+40151,9602,Quiscalus quiscula,Common Grackle,eatenBy
+40151,7998,Corvus,Crows and Ravens,eatenBy
+40151,8021,Corvus brachyrhynchos,American Crow,eatenBy
+40151,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+40151,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+40151,41919,Atilax paludinosus,Marsh Mongoose,eatenBy
+40151,851014,Canis aureus,Golden Jackal,eatenBy
+40151,42048,Canis lupus,Gray Wolf,eatenBy
+40151,,Herpestes urva,,eatenBy
+40151,41595,Genetta tigrina,Cape Genet,eatenBy
+40151,41957,Felis nigripes,Black-footed Cat,eatenBy
+40151,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+40151,,Canis mesomelas,,eatenBy
+40151,,Felis aurata,,eatenBy
+40151,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+40151,,Canis lupus rufus,,eatenBy
+40151,41627,Civettictis civetta,African Civet,eatenBy
+40151,41578,Cryptoprocta ferox,Fossa,eatenBy
+40151,41800,Martes foina,Stone Marten,eatenBy
+40151,516126,Lycalopex culpaeus,Culpeo,eatenBy
+40151,41796,Martes martes,Eurasian Pine Marten,eatenBy
+40151,516127,Lycalopex vetulus,Hoary Zorro,eatenBy
+40151,41975,Lynx pardinus,Iberian Lynx,eatenBy
+40151,41798,Martes americana,American Marten,eatenBy
+40151,74482,Leopardus guigna,Kodkod,eatenBy
+40151,41805,Mustela lutreola,European Mink,eatenBy
+40151,41813,Mustela sibirica,Siberian Weasel,eatenBy
+40151,,Martes pennanti,,eatenBy
+40151,,Neovison vison,,eatenBy
+40151,74671,Mustela itatsi,Japanese Weasel,eatenBy
+40151,41964,Panthera leo,Lion,eatenBy
+40151,41641,Ursus arctos,Brown Bear,eatenBy
+40151,,Hyaena brunnea,,eatenBy
+40151,41808,Mustela erminea,Eurasian Stoat,eatenBy
+40151,233598,Vulpes lagopus,Arctic Fox,eatenBy
+40151,41963,Panthera pardus,Leopard,eatenBy
+40151,42074,Vulpes ferrilata,Tibetan Fox,eatenBy
+40151,42089,Speothos venaticus,Bush Dog,eatenBy
+40151,,Uncia uncia,,eatenBy
+40151,42058,Vulpes zerda,Fennec Fox,eatenBy
+40151,32113,Candoia aspera,New Guinea ground boa,eatenBy
+40151,32116,Candoia bibroni,Bibron's Bevel-nosed Boa,eatenBy
+40151,474355,Chilabothrus striatus,Hispaniolan Boa,eatenBy
+40151,32093,Boa constrictor,Boa Constrictor,eatenBy
+40151,,Corallus hortulanus,,eatenBy
+40151,32232,Epicrates,Rainbow Boas,eatenBy
+40151,120921,Cochliomyia macellaria,Secondary Screwworm Fly,eatenBy
+40151,904362,Hemilucilia segmentaria,,eatenBy
+40151,329514,Dermestes carnivorus,,eatenBy
+40151,,Prochyliza azteca,,eatenBy
+40151,180367,Trigona,,eatenBy
+40151,700122,Lucilia eximia,,eatenBy
+40151,42055,Vulpes chama,Cape Fox,eatenBy
+40151,,Prionailurus iriomotensis,,eatenBy
+40151,20315,Asio flammeus,Short-eared Owl,eatenBy
+40151,332338,Lycalopex griseus,Chilla,eatenBy
+40151,62807,Mytilus,Black Mussels,preysOn
+40151,52524,Carcinus,Green Crabs,preysOn
+40151,85493,Crustacea,Crustaceans,preysOn
+40151,92583,Trachurus,Jack Mackerels,preysOn
+40151,47178,Actinopterygii,Ray-finned Fishes,preysOn
+40151,480298,Cornu aspersum,Garden Snail,preysOn
+40151,51391,Tautogolabrus,,preysOn
+40151,,ducks (Lesser Scaup),,preysOn
+40151,,P. reticulatum,,preysOn
+40151,,P. corruscans,,preysOn
+40151,,A. pantaneiro,,preysOn
+40151,,P.curviventris,,preysOn
+40151,92016,Serrasalmus,Pirambebas,preysOn
+40151,91798,Roeboides,,preysOn
+40151,,H. malabaricus,,preysOn
+40151,,S. borellii,,preysOn
+40151,,P. ternetzi,,preysOn
+40151,,H. edentatus,,preysOn
+40151,91866,Sardinella,Sardinellas,preysOn
+40151,,Small pelagics,,preysOn
+40151,,Mesopelagics,,preysOn
+40151,,Miscelaneous,,preysOn
+40151,54192,Polynemidae,Threadfins,preysOn
+40151,82353,Merluccius,Hakes,preysOn
+40151,20307,Asio otus,Long-eared Owl,preysOn
+40151,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+40151,30692,Crotalus,Rattlesnakes,preyedUponBy
+40151,20445,Tyto alba,Barn Owl,preyedUponBy
+40151,19893,Strix varia,Barred Owl,preyedUponBy
+40151,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+40151,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+40151,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+40151,4665,Falco sparverius,American Kestrel,preyedUponBy
+40151,8010,Corvus corax,Common Raven,preyedUponBy
+40151,42051,Canis latrans,Coyote,preyedUponBy
+40151,4981,Nycticorax nycticorax,Black-crowned Night-Heron,preyedUponBy
+40151,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+40151,5277,Elanus leucurus,White-tailed Kite,preyedUponBy
+40151,144455,Ardea alba,Great Egret,preyedUponBy
+40151,29824,Lampropeltis calligaster rhombomaculata,Mole Kingsnake,preyedUponBy
+40151,28246,Arizona elegans,Glossy Snake,preyedUponBy
+40151,30798,Bothrops asper,Terciopelo,preyedUponBy
+40151,29105,Philodryas olfersii,Lichtenstein's Green Racer,preyedUponBy
+40151,73766,Drymarchon melanurus,Central American Indigo Snake,preyedUponBy
+40151,29404,Mastigodryas melanolomus,Dryad Snake,preyedUponBy
+40151,28248,Arizona elegans occidentalis,California Glossy Snake,preyedUponBy
+40151,539045,Paraphimophis rusticus,Brown Musurana,preyedUponBy
+40151,29823,Lampropeltis calligaster,Prairie Kingsnake,preyedUponBy
+40151,30335,Drymarchon corais,Indigo Snake,preyedUponBy
+40151,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+40151,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+40151,28627,Spilotes pullatus,Chicken Snake,preyedUponBy
+40151,73887,Pantherophis guttatus,Corn Snake,preyedUponBy
+40151,26835,Drymobius margaritiferus,Speckled Racer,preyedUponBy
+40151,60347,Pituophis catenifer sayi,Bullsnake,preyedUponBy
+40151,29395,Mastigodryas boddaerti,Boddaert's Tropical Racer,preyedUponBy
+40151,,Coluber flagellum flagellum,,preyedUponBy
+40151,146173,Hypsiglena chlorophaea,Desert Nightsnake,preyedUponBy
+40151,,Philodryas viridissima,,preyedUponBy
+40151,912622,Agkistrodon contortrix,Eastern Copperhead,preyedUponBy
+40151,539399,Boa imperator,Central American Boa,preyedUponBy
+40151,28252,Arizona elegans candida,Mojave Glossy Snake,preyedUponBy
+40151,32194,Liasis olivaceus,Olive Python,preyedUponBy
+40151,30487,Naja nivea,Cape Cobra,preyedUponBy
+40151,30748,Crotalus enyo,Lower California Rattlesnake,preyedUponBy
+40151,29813,Lampropeltis getula,Eastern Kingsnake,preyedUponBy
+40151,,Antaresia stimsoni,,preyedUponBy
+40151,32087,Corallus caninus,Emerald Tree Boa,preyedUponBy
+40151,32237,Epicrates cenchria,Western Rainbow Boa,preyedUponBy
+40151,32150,Python molurus,Indian Python,preyedUponBy
+40151,30464,Aspidelaps lubricus,Cape Coral Snake,preyedUponBy
+40151,30693,Crotalus durissus,Neotropical Rattlesnake,preyedUponBy
+40151,27197,Mussurana bicolor,Two-colored Mussurana,preyedUponBy
+40151,30652,Hemachatus haemachatus,Rinkhals,preyedUponBy
+40151,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+40151,26638,Dendrelaphis punctulatus,Common Tree Snake,preyedUponBy
+40151,,Coluber schotti,,preyedUponBy
+40151,243962,Charina bottae,Northern Rubber Boa,preyedUponBy
+40151,347139,Bothrops ammodytoides,Patagonia Lancehead,preyedUponBy
+40151,114571,Tropidonophis mairii,Mair's Keelback,preyedUponBy
+40151,28945,Pseudoboa haasi,Paraná False Boa,preyedUponBy
+40151,32158,Python regius,Ball Python,preyedUponBy
+40151,29111,Philodryas baroni,Baron's Green Racer,preyedUponBy
+40151,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy
+40151,27149,Coluber constrictor constrictor,Northern Black Racer,preyedUponBy
+40151,32131,Aspidites ramsayi,Woma Python,preyedUponBy
+40151,29168,Oxyrhopus clathratus,Duméril's False Coral Snake,preyedUponBy
+40151,,Boa constrictor amarali,,preyedUponBy
+40151,95916,Bothrops leucurus,Whitetail Lancehead,preyedUponBy
+40151,539046,Bothrops neuwiedi,Jararaca Pintada,preyedUponBy
+40151,83877,Bothrops jararacussu,Jararacussu,preyedUponBy
+40151,539416,Bothrops itapetiningae,São Paulo Lancehead,preyedUponBy
+40151,966698,Vipera berus,Adder,preyedUponBy
+40151,27200,Mussurana quimi,Brazilian Mussurana,preyedUponBy
+40151,30477,Naja nigricincta,Western Barred Spitting Cobra,preyedUponBy
+40151,30743,Crotalus lepidus klauberi,Banded Rock Rattlesnake,preyedUponBy
+40151,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+40151,30784,Bothrops moojeni,Brazilian Lancehead,preyedUponBy
+40151,106446,Naja annulifera,Snouted Cobra,preyedUponBy
+40151,35083,Tropidechis carinatus,Rough-scaled Snake,preyedUponBy
+40151,30829,Bothrocophias hyoprora,Amazonian Toad-headed Pitviper,preyedUponBy
+40151,30442,Bungarus multicinctus,Many-banded Krait,preyedUponBy
+40151,236842,Lichanura trivirgata,Desert Rosy Boa,preyedUponBy
+40151,515419,Lampropeltis triangulum,Eastern Milksnake,preyedUponBy
+40151,30767,Bothrops,Neotropical Lanceheads,preyedUponBy
+40151,56629,Psammophis mossambicus,Olive Whip Snake,preyedUponBy
+40151,28958,Psammophis sibilans,Hissing Sand Snake,preyedUponBy
+40151,28966,Psammophis schokari,Forskal Sand Snake,preyedUponBy
+40151,30073,Compsophis infralineatus,Lined Forest Snake,preyedUponBy
+40151,30449,Bungarus ceylonicus,Ceylon Krait,preyedUponBy
+40151,30729,Crotalus pricei,Twin-spotted Rattlesnake,preyedUponBy
+40151,35270,Echiopsis curta,Bardick,preyedUponBy
+40151,539414,Bothrops fonsecai,Fonseca's Lancehead,preyedUponBy
+40151,29157,Oxyrhopus trigeminus,Brazilian False Coral Snake,preyedUponBy
+40151,200206,Corallus batesii,Bates's Tree Boa,preyedUponBy
+40151,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+40151,74009,Zamenis longissimus,Aesculapian Snake,preyedUponBy
+40151,32170,Morelia spilota variegata,Darwin Carpet Python,preyedUponBy
+40151,539420,Bothrops pauloensis,Cerrado Lancehead,preyedUponBy
+40151,30761,Crotalus polystictus,Mexican Lancehead Rattlesnake,preyedUponBy
+40151,539050,Bothrops jararaca,Yarará Lancehead,preyedUponBy
+40151,539037,Bothrops alternatus,Urutu Lancehead,preyedUponBy
+40151,,Corallus hortulanus,,preyedUponBy
+40151,28982,Psammophis trinasalis,Fork-marked Sand Snake,preyedUponBy
+40151,29166,Oxyrhopus guibei,Guibe´s Flame Snake,preyedUponBy

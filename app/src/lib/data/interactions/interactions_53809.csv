@@ -1,0 +1,91 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53809,82233,Periplaneta,,eats
+53809,61858,Lucilia,Greenbottle Flies,eats
+53809,75602,Asclepias curassavica,tropical milkweed,eats
+53809,47742,Pentatomidae,Stink Bugs,eats
+53809,48484,Harmonia axyridis,Asian Lady Beetle,eats
+53809,47794,Raphidioptera,Snakeflies,eats
+53809,52933,Chauliognathus,,eats
+53809,47224,Papilionoidea,Butterflies,eats
+53809,324726,Lycorma delicatula,Spotted Lanternfly,eats
+53809,,Holcocephala,,eats
+53809,50334,Lantana,,eats
+53809,,Danaus gilippus,,eats
+53809,,Malacosoma disstria,,eats
+53809,520978,Gomphurus externus,Plains Clubtail,eats
+53809,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,eats
+53809,12727,Turdus migratorius,American Robin,eatenBy
+53809,47220,Apis,Honey Bees,preysOn
+53809,121850,Erebidae,"Underwing, Tiger, Tussock, and Allied Moths",preysOn
+53809,179916,Tipulomorpha,Crane Flies,preysOn
+53809,47222,Apoidea,Bees and Apoid Wasps,preysOn
+53809,47416,Lycosidae,Wolf Spiders,preysOn
+53809,55626,Pieris rapae,Cabbage White,preysOn
+53809,53237,Cicadellidae,Typical Leafhoppers,preysOn
+53809,47219,Apis mellifera,Western Honey Bee,preysOn
+53809,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",preysOn
+53809,57678,Lasioglossum,,preysOn
+53809,48091,Brachycera,Brachyceran Flies,preysOn
+53809,81665,Orgyia leucostigma,White-marked Tussock Moth,preysOn
+53809,48959,Reduviidae,Assassin Bugs,preysOn
+53809,58523,Papilio polyxenes,Black Swallowtail,preysOn
+53809,52134,Culicidae,Mosquitoes,preysOn
+53809,47822,Diptera,Flies,preysOn
+53809,47157,Lepidoptera,Butterflies and Moths,preysOn
+53809,67688,Caelifera,"Grasshoppers, Locusts, and Allies",preysOn
+53809,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+53809,47982,Asilidae,Robber Flies,preysOn
+53809,71251,Gryllus,,preysOn
+53809,127741,Colletes,Cellophane Bees,preysOn
+53809,47158,Insecta,Insects,preysOn
+53809,630955,Anthophila,Bees,preysOn
+53809,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",preysOn
+53809,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,preysOn
+53809,47336,Formicidae,Ants,preysOn
+53809,342614,Entelegynae,Entelegyne Spiders,preysOn
+53809,126889,Toxomerus marginatus,Margined Calligrapher,preysOn
+53809,47367,Opiliones,Harvestmen,preysOn
+53809,49025,Membracoidea,Leafhoppers and Treehoppers,preysOn
+53809,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+53809,358855,Gryllidea,Crickets,preysOn
+53809,47793,Dermaptera,Earwigs,preysOn
+53809,47866,Thomisidae,Crab Spiders,preysOn
+53809,47224,Papilionoidea,Butterflies,preysOn
+53809,55265,Palpada,Plushback Flies,preysOn
+53809,367162,Dictynoidea,Meshweavers and Allies,preysOn
+53809,47535,Araneidae,Orbweavers,preysOn
+53809,343248,Polistinae,Paper Wasps,preysOn
+53809,48486,Coccinellidae,Lady Beetles,preysOn
+53809,47208,Coleoptera,Beetles,preysOn
+53809,47742,Pentatomidae,Stink Bugs,preysOn
+53809,47792,Odonata,Dragonflies and Damselflies,preysOn
+53809,47731,Lampyridae,Fireflies,preysOn
+53809,47551,Tetragnathidae,Long-jawed Orbweavers,preysOn
+53809,53810,Phidippus,,preysOn
+53809,52756,Polistes,Umbrella Paper Wasps,preysOn
+53809,61881,Habronattus,Paradise Spiders,preysOn
+53809,153429,Culicomorpha,Mosquitoes and Midges,preysOn
+53809,47120,Arthropoda,Arthropods,preysOn
+53809,53809,Phidippus audax,Bold Jumping Spider,preysOn
+53809,47118,Araneae,Spiders,preysOn
+53809,84950,Alypia octomaculata,Eight-spotted Forester Moth,preysOn
+53809,63160,Celithemis elisa,Calico Pennant,preysOn
+53809,119994,Vespula maculifrons,Eastern Yellowjacket,preysOn
+53809,52073,Fulgoroidea,Planthoppers,preysOn
+53809,49528,Forficulidae,Common Earwigs,preysOn
+53809,,Cisseps fulvicollis,,preysOn
+53809,324726,Lycorma delicatula,Spotted Lanternfly,preysOn
+53809,,Magicicada cassinii,,preysOn
+53809,,Phthiacnemia picta,,preysOn
+53809,,Blattella asahinai,,preysOn
+53809,199115,Halictus confusus,Confusing Furrow Bee,preysOn
+53809,,Stenocorus cinnamopterus,,preysOn
+53809,,Pentatomomorpha,,preysOn
+53809,228446,Podabrus tomentosus,,preysOn
+53809,,Agraulis vanillae incarnata,,preysOn
+53809,,Agraulis vanillae,,preysOn
+53809,520978,Gomphurus externus,Plains Clubtail,preysOn
+53809,,Malacosoma disstria,,preysOn
+53809,126513,Larinioides cornutus,Furrow Orbweaver,preysOn
+53809,62785,Ormenoides venusta,,preysOn
+53809,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy

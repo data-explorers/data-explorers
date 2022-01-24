@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57668,16768,Tyrannus,Kingbirds,eatenBy
+57668,,Setophaga pinus,,eatenBy
+57668,,Corvus caurinus,,eatenBy
+57668,19577,Chordeiles minor,Common Nighthawk,eatenBy
+57668,48225,Eschscholzia californica,California poppy,pollinates
+57668,54996,Sida,,pollinates
+57668,136376,Rudbeckia triloba,brown-eyed Susan,pollinates
+57668,51098,Gilia achilleifolia,California gilia,pollinates
+57668,,Alstroemeria caryophyllaea,,pollinates
+57668,,Fritillaria gentneri,,pollinates
+57668,359668,Physaria filiformis,Missouri bladderpod,pollinates
+57668,59461,Malvastrum,,pollinates
+57668,,Physaria obcordata,,pollinates
+57668,57863,Rhynchospora,Beaksedges,pollinates
+57668,128805,Gaylussacia baccata,black huckleberry,pollinates
+57668,,Berberis pinnata pinnata,,pollinates
+57668,,Cypripedium montanum,,pollinates
+57668,58361,Calochortus splendens,Splendid Mariposa Lily,pollinates

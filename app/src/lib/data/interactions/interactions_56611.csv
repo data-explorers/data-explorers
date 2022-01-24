@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56611,,Arytainilla spartiophila,,eats
+56611,,Orthotylus adenocarpi,,eats
+56611,,Orthotylus virescens,,eats
+56611,,Arytaina genistae,,eats
+56611,887633,Orthotylus concolor,,eats
+56611,,Leucoptera spartifoliella,,eats
+56611,,Parus major,,eatenBy
+56611,49995,Syrphidae,Hover Flies,preysOn
+56611,52381,Aphididae,Aphids,preysOn
+56611,53633,Macrosiphum rosae,Rose Aphid,preysOn
+56611,61267,Heteroptera,True Bugs,preysOn
+56611,127593,Chloropidae,Frit Flies,preysOn
+56611,47868,Philodromidae,Running Crab Spiders,preysOn
+56611,52073,Fulgoroidea,Planthoppers,preysOn
+56611,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+56611,53237,Cicadellidae,Typical Leafhoppers,preysOn
+56611,84670,Ephydridae,Shore Flies,preysOn
+56611,47866,Thomisidae,Crab Spiders,preysOn
+56611,133495,Deltocephalinae,,preysOn
+56611,55351,Phoridae,Humpbacked Flies,preysOn
+56611,56611,Philodromus,,preysOn
+56611,52425,Chrysopidae,Green Lacewings,preysOn
+56611,,Macrolophus pygmaeus,,preysOn
+56611,174329,Microphysidae,Minute Bladder Bugs,preysOn
+56611,52380,Aphidoidea,,preysOn
+56611,,Thripidae,,preysOn
+56611,143336,Phlaeothripidae,Tube-tailed Thrips,preysOn
+56611,50190,Cicadoidea,Cicadas,preysOn
+56611,605071,Cicadina,,preysOn
+56611,1087985,Swammerdamella brevicornis,,preysOn
+56611,,Callitula ferrierei,,preysOn
+56611,69803,Ceratopogonidae,Biting Midges,preysOn
+56611,,Sphaerocidae,,preysOn
+56611,,Haplothrips,,preysOn
+56611,123608,Delphacidae,,preysOn
+56611,,Sternorrhyncha,,preysOn
+56611,49460,Empididae,Dance Flies,preysOn
+56611,,Sciaridae,,preysOn
+56611,,Arytainilla spartiophila,,preysOn
+56611,,Arytaina genistae,,preysOn
+56611,,Leucoptera spartifoliella,,preysOn
+56611,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy
+56611,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+56611,56611,Philodromus,,preyedUponBy
+56611,,http://treatment.plazi.org/id/03A787DE616B9B73CDAE3A02FC26FAB8,,preyedUponBy
+56611,,Sceliphron deforme,,preyedUponBy
+56611,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+56611,129878,Nabidae,Damsel Bugs,preyedUponBy
+56611,146722,Marpissa,,preyedUponBy
+56611,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy

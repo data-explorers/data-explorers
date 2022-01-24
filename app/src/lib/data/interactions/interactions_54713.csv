@@ -1,0 +1,111 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54713,12705,Turdus,Typical Thrushes,eatenBy
+54713,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+54713,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+54713,40992,Artibeus,Neotropical Fruit Bats,eatenBy
+54713,45994,Sciurus,Tree Squirrels,eatenBy
+54713,,Clytolaema rubricauda,,eatenBy
+54713,,Thalurania glaucopis,,eatenBy
+54713,,Trialeurodes vaporariorum,,eatenBy
+54713,,Hippotion osiris,,eatenBy
+54713,,Amphion floridensis,,eatenBy
+54713,,Hyles livornica,,eatenBy
+54713,,Hyles gallii,,eatenBy
+54713,,Theretra clotho,,eatenBy
+54713,,Spargania magnoliata,,eatenBy
+54713,10719,Trichothraupis melanops,Black-goggled Tanager,eatenBy
+54713,,Euphonia pectoralis,,eatenBy
+54713,,Tangara,,eatenBy
+54713,,Turdus rufiventris,,eatenBy
+54713,,Philander frenatus,,eatenBy
+54713,,Tachyphonus coronatus,,eatenBy
+54713,,Chiroxiphia caudata,,eatenBy
+54713,,Cacicus,,eatenBy
+54713,,Thraupis ornata,,eatenBy
+54713,,Penelope obscura,,eatenBy
+54713,,Selenidera maculirostris,,eatenBy
+54713,,Thraupis cyanoptera,,eatenBy
+54713,,Carpornis cucullata,,eatenBy
+54713,,Tityra cayana,,eatenBy
+54713,,Trogon viridis,,eatenBy
+54713,,Platycichla flavipes,,eatenBy
+54713,,Sapajus apella,,eatenBy
+54713,72727,Cissopis leverianus,Magpie Tanager,eatenBy
+54713,,Aburria jacutinga,,eatenBy
+54713,,Tangara desmaresti,,eatenBy
+54713,,Myiodynastes maculatus,,eatenBy
+54713,9861,Saltator similis,Green-winged Saltator,eatenBy
+54713,,Schiffornis virescens,,eatenBy
+54713,,Ramphastos,,eatenBy
+54713,,Sturnira lilium,,eatenBy
+54713,,Patagioenas plumbea,,eatenBy
+54713,,Habia rubica,,eatenBy
+54713,,Stephanophorus diadematus,,eatenBy
+54713,8752,Lipaugus lanioides,Cinnamon-vented Piha,eatenBy
+54713,41110,Carollia perspicillata,Seba's Short-tailed Bat,eatenBy
+54713,,Hemithraupis ruficapilla,,eatenBy
+54713,,Trogon surrucura,,eatenBy
+54713,,Baillonius bailloni,,eatenBy
+54713,,Cerdocyon thous,,eatenBy
+54713,,Tangara seledon,,eatenBy
+54713,,Ilicura militaris,,eatenBy
+54713,,Mionectes rufiventris,,eatenBy
+54713,,Artibeus fimbriatus,,eatenBy
+54713,,Brachyteles arachnoides,,eatenBy
+54713,10293,Thraupis sayaca,Sayaca Tanager,eatenBy
+54713,,Elaenia,,eatenBy
+54713,,Procnias nudicollis,,eatenBy
+54713,,Attila rufus,,eatenBy
+54713,,Melanerpes flavifrons,,eatenBy
+54713,,Oxyruncus cristatus,,eatenBy
+54713,,Alouatta fusca,,eatenBy
+54713,,Celeus flavescens,,eatenBy
+54713,,Euphonia violacea,,eatenBy
+54713,,Pyroderus scutatus,,eatenBy
+54713,,Orthogonys chloricterus,,eatenBy
+54713,,Pachyramphus validus,,eatenBy
+54713,17424,Hylophilus poicilotis,Rufous-crowned Greenlet,eatenBy
+54713,16737,Megarynchus pitangua,Boat-billed Flycatcher,eatenBy
+54713,10506,Dacnis cayana,Blue Dacnis,eatenBy
+54713,,Trogon rufus,,eatenBy
+54713,,Artibeus lituratus,,eatenBy
+54713,,Brotogeris tirica,,eatenBy
+54713,,Sturnira tildae,,eatenBy
+54713,,Pyrrhura frontalis,,eatenBy
+54713,40995,Artibeus planirostris,Flat-faced Fruit-eating Bat,eatenBy
+54713,9282,Haplospiza unicolor,Uniform Finch,eatenBy
+54713,,Orchesticus abeillei,,eatenBy
+54713,12710,Turdus amaurochalinus,Creamy-bellied Thrush,eatenBy
+54713,12737,Turdus leucomelas,Pale-breasted Thrush,eatenBy
+54713,,Tachyphonus cristatus,,eatenBy
+54713,,Didelphis aurita,,eatenBy
+54713,43353,Tapirus terrestris,South American Tapir,eatenBy
+54713,,Baryphthengus ruficapillus,,eatenBy
+54713,,Pachyramphus castaneus,,eatenBy
+54713,,Vampyressa pusilla,,eatenBy
+54713,14878,Mimus saturninus,Chalk-browed Mockingbird,eatenBy
+54713,,Tinamus,,eatenBy
+54713,,Tityra inquisitor,,eatenBy
+54713,16787,Tyrannus melancholicus,Tropical Kingbird,eatenBy
+54713,,Saltator fuliginosus,,eatenBy
+54713,16956,Pitangus sulphuratus,Great Kiskadee,eatenBy
+54713,17060,Empidonomus varius,Variegated Flycatcher,eatenBy
+54713,,Micoureus demerarae,,eatenBy
+54713,10199,Coereba flaveola,Bananaquit,eatenBy
+54713,,Conopias trivirgatus,,eatenBy
+54713,16490,Phyllomyias fasciatus,Planalto Tyrannulet,eatenBy
+54713,,Turdus subalaris,,eatenBy
+54713,,Myiopagis caniceps,,eatenBy
+54713,42631,Marmosops paulensis,Brazilian Slender Opossum,eatenBy
+54713,,Pionus maximiliani,,eatenBy
+54713,,Eira barbara,,eatenBy
+54713,,Clytolaema rubricauda,,pollinatedBy
+54713,,Thalurania glaucopis,,pollinatedBy
+54713,,Stephanoxis lalandi,,pollinatedBy
+54713,5657,Phaethornis squalidus,Dusky-throated Hermit,pollinatedBy
+54713,,Number of flowers,,pollinatedBy
+54713,,Phaethornis eurynome,,pollinatedBy
+54713,,Numbers of flowers,,pollinatedBy
+54713,,Sephanoides sephanoides,,pollinatedBy
+54713,,Diglossa humeralis,,pollinatedBy
+54713,72811,Diglossa cyanea,Masked Flowerpiercer,pollinatedBy

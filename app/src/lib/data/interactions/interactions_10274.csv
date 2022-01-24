@@ -1,0 +1,73 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10274,211194,Tracheophyta,vascular plants,eats
+10274,1,Animalia,Animals,eats
+10274,47124,Magnoliopsida,dicots,eats
+10274,47158,Insecta,Insects,eats
+10274,53248,Elateridae,Click Beetles,eats
+10274,47208,Coleoptera,Beetles,eats
+10274,49567,Carabidae,Ground Beetles,eats
+10274,125816,Auchenorrhyncha,True Hoppers,eats
+10274,61267,Heteroptera,True Bugs,eats
+10274,47649,Acrididae,Short-horned Grasshoppers,eats
+10274,47961,Cerambycidae,Longhorn Beetles,eats
+10274,51146,Chrysomelidae,Leaf Beetles,eats
+10274,48486,Coccinellidae,Lady Beetles,eats
+10274,52697,Avena,Oats,eats
+10274,49456,Coccidae,Soft scales,eats
+10274,47351,Prunus,"plums, cherries, and allies",eats
+10274,47157,Lepidoptera,Butterflies and Moths,eats
+10274,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+10274,48201,Scarabaeidae,Scarabs,eats
+10274,54964,Buprestidae,Metallic Wood-boring Beetles,eats
+10274,47688,Erodium,stork's-bills,eats
+10274,126791,Nitidulidae,Sap-feeding Beetles,eats
+10274,47118,Araneae,Spiders,eats
+10274,58390,Triticum,Wheats,eats
+10274,49568,Cicindela,Common Tiger Beetles,eats
+10274,55488,Diabrotica,,eats
+10274,49372,Polygyridae,Polygyrid Snails,eats
+10274,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10274,50999,Ficus,Figs,eats
+10274,47731,Lampyridae,Fireflies,eats
+10274,47544,Rubus,brambles,eats
+10274,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+10274,48194,Psyllidae,jumping plant lice,eats
+10274,47822,Diptera,Flies,eats
+10274,47336,Formicidae,Ants,eats
+10274,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eats
+10274,52689,Sambucus,elders,eats
+10274,54765,Rhus,sumacs,eats
+10274,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+10274,47120,Arthropoda,Arthropods,eats
+10274,53195,Rumex acetosella,Sheep's sorrel,eats
+10274,48972,Polygonum,knotweeds,eats
+10274,47687,Erodium cicutarium,Redstem Stork's-bill,eats
+10274,53152,Medicago,medics,eats
+10274,53298,Stellaria media,common chickweed,eats
+10274,50299,Fragaria,strawberries,eats
+10274,3,Aves,Birds,eats
+10274,122024,Corymbia ficifolia,Red-flowering gum,eats
+10274,,Non-biological,,eats
+10274,,Ctenicera,,eats
+10274,,Dendroctonus brevicomis,,eats
+10274,,Calandrinia,,eats
+10274,,Saissetia oleae,,eats
+10274,,Chrysomela scripta,,eats
+10274,,Silybum,,eats
+10274,,Stellaria alsine,,eats
+10274,69766,Gastrophysa,,eats
+10274,61863,Cercopidae,Froghoppers,eats
+10274,418222,Malva pusilla,Small Mallow,eats
+10274,53075,Geranium dissectum,Cut-leaved crane's-bill,eats
+10274,,Cydia pomonella,,eats
+10274,,Solanum ptychanthum,,eats
+10274,52586,Silybum marianum,milk thistle,eats
+10274,,Calandrinia ciliata,,eats
+10274,,Amaranthus retroflexus,,eats
+10274,,Brahea,,eats
+10274,,Ficus benjamina,,eats
+10274,8010,Corvus corax,Common Raven,eatenBy
+10274,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+10274,4644,Falco mexicanus,Prairie Falcon,eatenBy
+10274,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+10274,48662,Danaus plexippus,Monarch,preysOn

@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48217,81606,Littorina littorea,Common Periwinkle,eatenBy
+48217,47490,Polychaeta,Polychaete Worms,eatenBy
+48217,54960,Nematoda,Nematodes,eatenBy
+48217,47158,Insecta,Insects,eatenBy
+48217,85521,Harpacticoida,Harpacticoid Copepods,eatenBy
+48217,52788,Acari,Mites and Ticks,eatenBy
+48217,333586,Oligochaeta,Earthworms and allies,eatenBy
+48217,53830,Trochidae,Top Snails,eatenBy
+48217,49532,Sphaeromatidae,Typical Seapills,eatenBy
+48217,48752,Lottia,Lottia Limpets,eatenBy
+48217,48919,Littorina,Periwinkles,eatenBy
+48217,49581,Nereididae,,eatenBy
+48217,47626,Caprellidae,Skeleton Shrimp,eatenBy
+48217,43584,Homo sapiens,Human,eatenBy
+48217,49725,Pugettia,,eatenBy
+48217,415169,Testudinalia testudinalis,Tortoiseshell Limpet,eatenBy
+48217,48916,Littorina obtusata,Flat Periwinkle,eatenBy
+48217,482297,Skeneopsis planorbis,,eatenBy
+48217,152971,Alitta virens,King Ragworm,eatenBy
+48217,337827,Hediste diversicolor,Estuary Ragworm,eatenBy
+48217,,Littorina saxatilis,,eatenBy
+48217,59807,Gammarus,,eatenBy
+48217,53739,Cancer irroratus,Atlantic Rock Crab,eatenBy
+48217,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+48217,1188785,Jaera albifrons,,eatenBy
+48217,,Helcion pellucida forma pellucida,,eatenBy
+48217,41644,Ursus maritimus,Polar Bear,eatenBy
+48217,,Calidris maritima,,eatenBy
+48217,7024,Somateria mollissima,Common Eider,eatenBy
+48217,,Synisoma,,eatenBy
+48217,84269,Oregonia,,eatenBy
+48217,,Gammaridea,,eatenBy
+48217,7087,Branta bernicla,Brant,eatenBy
+48217,129948,Lacuna,Lacuna Snails,eatenBy
+48217,542355,Siphonaria thersites,,eatenBy
+48217,47632,Katharina tunicata,Black Leather Chiton,eatenBy
+48217,87642,Coryphaenoides,,eatenBy
+48217,,Strongylocentrotus franciscanus,,eatenBy
+48217,47628,Amphipoda,Amphipods,preyedUponBy
+48217,48752,Lottia,Lottia Limpets,preyedUponBy
+48217,49581,Nereididae,,preyedUponBy
+48217,48919,Littorina,Periwinkles,preyedUponBy
+48217,49532,Sphaeromatidae,Typical Seapills,preyedUponBy
+48217,53830,Trochidae,Top Snails,preyedUponBy
+48217,49725,Pugettia,,preyedUponBy
+48217,47632,Katharina tunicata,Black Leather Chiton,preyedUponBy
+48217,129948,Lacuna,Lacuna Snails,preyedUponBy
+48217,542355,Siphonaria thersites,,preyedUponBy
+48217,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy
+48217,,Synisoma,,preyedUponBy
+48217,47629,Caprella,,preyedUponBy

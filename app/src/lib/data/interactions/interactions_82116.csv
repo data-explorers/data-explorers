@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82116,17013,Sayornis nigricans,Black Phoebe,eatenBy
+82116,,Parkesia motacilla,,eatenBy
+82116,486456,Colonus sylvanus,Sylvan Jumping Spider,eatenBy
+82116,47336,Formicidae,Ants,preysOn
+82116,47158,Insecta,Insects,preysOn
+82116,,Dysdercus mimulus,,preysOn
+82116,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy

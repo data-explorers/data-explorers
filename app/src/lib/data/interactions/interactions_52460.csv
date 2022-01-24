@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52460,342912,Caridea,Caridean Shrimps,eats
+52460,85493,Crustacea,Crustaceans,eats
+52460,47178,Actinopterygii,Ray-finned Fishes,eats
+52460,47186,Decapoda,Decapods,eats
+52460,47584,Bivalvia,Bivalves,eats
+52460,121639,Brachyura,True Crabs,eats
+52460,47115,Mollusca,Molluscs,eats
+52460,54662,Mugil,Common Mullets,eats
+52460,179428,Anchoa lyolepis,Dusky Anchovy,eats
+52460,1032318,Acanthurus bahianus,Brazilian Ocean Surgeonfish,eats
+52460,146829,Anchoa hepsetus,Striped Anchovy,eats
+52460,317134,Harengula humeralis,Redear herring,eats
+52460,179537,Mugil curema,White Mullet,eats
+52460,,,,eats
+52460,,Gnathostomata,,eats
+52460,,Osteichthyes,,eats
+52460,112991,Spratelloides gracilis,Slender Sprat,eats
+52460,,Teleostei,,eats
+52460,88852,Herklotsichthys,,eats
+52460,62617,Cetengraulis edentulus,Atlantic Anchoveta,eats
+52460,86453,Anchoa,,eats
+52460,55382,Acanthurus,,eats
+52460,,Pisces,,eats
+52460,147189,Tylosurus acus,Keeljaw Longtom,eatenBy
+52460,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+52460,47251,Sphyraena barracuda,Great Barracuda,eatenBy
+52460,56764,Sphyrna lewini,Scalloped Hammerhead,eatenBy
+52460,188767,Carcharhinus perezii,Caribbean Reef Shark,eatenBy
+52460,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+52460,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+52460,49617,Scomberomorus regalis,Cero,eatenBy
+52460,56765,Sphyrna zygaena,Smooth Hammerhead,eatenBy
+52460,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+52460,112991,Spratelloides gracilis,Slender Sprat,preysOn
+52460,62617,Cetengraulis edentulus,Atlantic Anchoveta,preysOn
+52460,317134,Harengula humeralis,Redear herring,preysOn
+52460,116999,Pandion haliaetus,Osprey,preyedUponBy
+52460,4940,Egretta thula,Snowy Egret,preyedUponBy
+52460,120614,Euthynnus alletteratus,Little Tunny,preyedUponBy

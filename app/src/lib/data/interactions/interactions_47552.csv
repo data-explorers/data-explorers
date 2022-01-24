@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47552,47934,Libellula luctuosa,Widow Skimmer,eats
+47552,,Charaxes jasius,,eats
+47552,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47552,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+47552,67731,Anax junius,Common Green Darner,preysOn
+47552,59774,Pachydiplax longipennis,Blue Dasher,preysOn
+47552,109161,Perithemis intensa,Mexican Amberwing,preysOn
+47552,52865,Tramea lacerata,Black Saddlebags,preysOn
+47552,61495,Erythemis simplicicollis,Eastern Pondhawk,preysOn
+47552,,Argiope aurantia,,preysOn
+47552,47934,Libellula luctuosa,Widow Skimmer,preysOn
+47552,,Argia fumipennis,,preysOn
+47552,59776,Perithemis tenera,Eastern Amberwing,preysOn
+47552,,Cicada orni,,preysOn
+47552,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy

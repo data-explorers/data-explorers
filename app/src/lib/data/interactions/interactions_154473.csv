@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+154473,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+154473,146852,Bicyrtes quadrifasciatus,Four-banded Stink Bug Wasp,eatenBy
+154473,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+154473,47219,Apis mellifera,Western Honey Bee,eatenBy
+154473,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+154473,,Sphinx eremitus,,eatenBy
+154473,,Isodontia mexicana,,eatenBy
+154473,,Isodontia auripes,,eatenBy
+154473,48738,Sphex pensylvanicus,Great Black Digger Wasp,eatenBy
+154473,340742,Sphex nudus,Katydid Wasp,eatenBy
+154473,,Xylocopa virginica,,eatenBy
+154473,178498,Phytocoris,,pollinatedBy
+154473,52491,Eristalis,Drone Flies,pollinatedBy
+154473,47652,Erynnis,Duskywings,pollinatedBy
+154473,127741,Colletes,Cellophane Bees,pollinatedBy
+154473,130033,Culex,,pollinatedBy
+154473,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+154473,572115,Pseudopanurgus labrosus,,pollinatedBy
+154473,,Polysphincta,,pollinatedBy
+154473,,Andrena carlini,,pollinatedBy
+154473,,Sarcophaga sinuata,,pollinatedBy
+154473,,Callandrena,,pollinatedBy
+154473,,Corimelaena pulicaria,,pollinatedBy
+154473,,Triepeolus donatus,,pollinatedBy
+154473,,Cynomyia,,pollinatedBy
+154473,,Chloralictus,,pollinatedBy
+154473,,Coelioxys octodentata,,pollinatedBy
+154473,,Chalcosyrphus nemorum,,pollinatedBy
+154473,,Colletes productus,,pollinatedBy
+154473,,Anthemurgus passiflorae,,pollinatedBy
+154473,,Anoplius illinoensis,,pollinatedBy
+154473,,Trineura,,pollinatedBy
+154473,501920,Figites,,pollinatedBy
+154473,,Cerotoma,,pollinatedBy
+154473,,Andrena pruni,,pollinatedBy
+154473,,Morellia micans,,pollinatedBy
+154473,341139,Exorista,,pollinatedBy
+154473,,Siphonella,,pollinatedBy
+154473,,Acontia candefacta,,pollinatedBy
+154473,628299,Diceratosmia,,pollinatedBy
+154473,,Evylaeus,,pollinatedBy
+154473,,Mordellistena comata,,pollinatedBy
+154473,,Coelioxys modesta,,pollinatedBy
+154473,,Ceratopogon,,pollinatedBy
+154473,699698,Neotrypetes,,pollinatedBy

@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126655,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+126655,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+126655,,Scrobipalpula manierreorum,,eatenBy
+126655,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+126655,61356,Vespula,Ground Yellowjackets,pollinatedBy
+126655,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+126655,47208,Coleoptera,Beetles,pollinatedBy

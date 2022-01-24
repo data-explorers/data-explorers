@@ -1,0 +1,72 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41553,47120,Arthropoda,Arthropods,eats
+41553,85493,Crustacea,Crustaceans,eats
+41553,248332,Munida,,eats
+41553,47628,Amphipoda,Amphipods,eats
+41553,47459,Cephalopoda,Cephalopods,eats
+41553,153112,Euphausiacea,krill,eats
+41553,121643,Copepoda,Copepods,eats
+41553,47178,Actinopterygii,Ray-finned Fishes,eats
+41553,47115,Mollusca,Molluscs,eats
+41553,,Zooplankton,,eats
+41553,,Pisces,,eats
+41553,,None,,eats
+41553,952605,Euphausia crystallorophias,,eats
+41553,952617,Euphausia vallentini,,eats
+41553,344134,Euphausia superba,Antarctic Krill,eats
+41553,,Gnathostomata,,eats
+41553,432418,Filippovia knipovitchi,Smooth Hooked Squid,eats
+41553,,Thysanoessa longipes,,eats
+41553,,Thysanoessa longicaudata,,eats
+41553,201713,Euphausia pacifica,North Pacific krill,eats
+41553,296029,Thysanoessa spinifera,,eats
+41553,195088,Nyctiphanes simplex,,eats
+41553,329000,Thysanoessa raschii,,eats
+41553,195087,Thysanoessa inermis,,eats
+41553,639178,Meganyctiphanes norvegica,Northern Krill,eats
+41553,153112,Euphausiacea,krill,preysOn
+41553,800860,Salpa thompsoni,,preysOn
+41553,47459,Cephalopoda,Cephalopods,preysOn
+41553,85910,Myctophidae,Lanternfishes,preysOn
+41553,296029,Thysanoessa spinifera,,preysOn
+41553,195088,Nyctiphanes simplex,,preysOn
+41553,201713,Euphausia pacifica,North Pacific krill,preysOn
+41553,610058,Champsocephalus gunnari,Mackerel icefish,preysOn
+41553,800858,Salpa gerlachei,,preysOn
+41553,617786,Gymnoscopelus braueri,,preysOn
+41553,617788,Gymnoscopelus nicholsi,,preysOn
+41553,617819,Protomyctophum bolini,,preysOn
+41553,,Paraeuchaeta antarctica,,preysOn
+41553,,Thysanoessa macrura,,preysOn
+41553,752813,Alluroteuthis antarcticus,Antarctic Neosquid,preysOn
+41553,,Onykia ingens,,preysOn
+41553,800852,Ihlea racovitzai,,preysOn
+41553,,Calanus propinquus,,preysOn
+41553,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preysOn
+41553,295545,Eucopia australis,,preysOn
+41553,952607,Euphausia frigida,,preysOn
+41553,,Kondakovia longimana,,preysOn
+41553,340950,Themisto gaudichaudii,,preysOn
+41553,260964,Primno macropa,,preysOn
+41553,,Rhincalanus gigas,,preysOn
+41553,618295,Dissostichus mawsoni,Antarctic toothfish,preysOn
+41553,,Antarctomysis maxima,,preysOn
+41553,,Calanoides acutus,,preysOn
+41553,392205,Martialia hyadesi,sevenstar flying squid,preysOn
+41553,617789,Gymnoscopelus opisthopterus,,preysOn
+41553,432480,Mesonychoteuthis hamiltoni,Colossal Squid,preysOn
+41553,295894,Vibilia stebbingi,,preysOn
+41553,389856,Gonatus antarcticus,Antarctic Gonate Squid,preysOn
+41553,,Metridia gerlachei,,preysOn
+41553,,Hyperiella dilatata,,preysOn
+41553,295887,Vibilia antarctica,,preysOn
+41553,,Notolepis coatsi,,preysOn
+41553,1321176,Cyllopus lucasii,,preysOn
+41553,952605,Euphausia crystallorophias,,preysOn
+41553,344134,Euphausia superba,Antarctic Krill,preysOn
+41553,,Euchaetomera,,preysOn
+41553,1316623,Pleuragramma antarcticum,,preysOn
+41553,432420,Galiteuthis glacialis,Glacial Cranch Squid,preysOn
+41553,,Zooplankton,,preysOn
+41553,,Pisces,,preysOn
+41553,432418,Filippovia knipovitchi,Smooth Hooked Squid,preysOn

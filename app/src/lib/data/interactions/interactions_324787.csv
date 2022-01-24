@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+324787,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+324787,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+324787,,Phyciodes mylitta,,eatenBy

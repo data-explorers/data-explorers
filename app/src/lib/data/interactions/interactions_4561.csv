@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4561,85493,Crustacea,Crustaceans,eats
+4561,4561,Synthliboramphus antiquus,Ancient Murrelet,eats
+4561,195136,Euphausia,,eats
+4561,195134,Euphausiidae,Euphotic Krill,eats
+4561,296029,Thysanoessa spinifera,,eats
+4561,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4561,82353,Merluccius,Hakes,eats
+4561,324532,Sprattus sprattus,European Sprat,eats
+4561,117571,Clupea pallasii,Pacific herring,eats
+4561,180029,Gadus macrocephalus,Pacific Cod,eats
+4561,228496,Pollachius virens,Pollock,eats
+4561,,Macruronus magellanicus,,eats
+4561,85289,Pseudophycis bachus,Red cod,eats
+4561,165100,Mallotus villosus,Capelin,eats
+4561,118600,Sardina pilchardus,European Sardine,eats
+4561,,Etrumeus teres,,eats
+4561,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4561,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4561,,Theragra chalcogramma,,eats
+4561,218966,Eleginus gracilis,Saffron Cod,eats
+4561,55535,Sardinops sagax,Pacific Sardine,eats
+4561,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4561,614162,Micromesistius australis,Southern blue whiting,eats
+4561,215318,Boreogadus saida,Arctic Cod,eats
+4561,119501,Clupea pallasii pallasii,Pacific herring,eats
+4561,120702,Micromesistius poutassou,Blue Whiting,eats
+4561,97990,Clupea harengus,Atlantic Herring,eats
+4561,63740,Gadus morhua,Atlantic Cod,eats
+4561,,Gnathostomata,,eats
+4561,88265,Etrumeus,Red-eye Round Herrings,eats
+4561,,Pisces,,eats
+4561,92631,Triglops,,eats
+4561,195087,Thysanoessa inermis,,eats
+4561,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4561,,Gammaridea,,eats
+4561,90535,Osmerus,,eats
+4561,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4561,4561,Synthliboramphus antiquus,Ancient Murrelet,eatenBy
+4561,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4561,42054,Vulpes,Typical Foxes,eatenBy
+4561,43584,Homo sapiens,Human,eatenBy
+4561,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4561,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+4561,153112,Euphausiacea,krill,preysOn
+4561,195136,Euphausia,,preysOn
+4561,87532,Clupea,,preysOn
+4561,201713,Euphausia pacifica,North Pacific krill,preysOn
+4561,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+4561,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4561,296029,Thysanoessa spinifera,,preysOn

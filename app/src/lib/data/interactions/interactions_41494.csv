@@ -1,0 +1,105 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41494,47459,Cephalopoda,Cephalopods,eats
+41494,54661,Mugilidae,Mullets,eats
+41494,118594,Atherina presbyter,Sand Smelt,eats
+41494,83316,Ommastrephidae,Flying Squids,eats
+41494,47308,Gobiidae,Gobies,eats
+41494,151429,Sepia officinalis,European Common Cuttlefish,eats
+41494,85493,Crustacea,Crustaceans,eats
+41494,195134,Euphausiidae,Euphotic Krill,eats
+41494,195355,Hyperiidae,,eats
+41494,85962,Paralepididae,Barracudinas,eats
+41494,85910,Myctophidae,Lanternfishes,eats
+41494,47115,Mollusca,Molluscs,eats
+41494,201529,Doryteuthis pleii,Slender Inshore Squid,eats
+41494,,Teutowenia megalops,,eats
+41494,,Gnathostomata,,eats
+41494,82337,Loligo,,eats
+41494,430553,Merlangius merlangus,Whiting,eats
+41494,,Nannobrachium atrum,,eats
+41494,253718,Histioteuthis reversa,Elongated Cock-eyed Squid,eats
+41494,92655,Trisopterus,,eats
+41494,,Lotidae,,eats
+41494,118851,Crangon crangon,Brown Shrimp,eats
+41494,143626,Sepiolidae,Bobtails,eats
+41494,118655,Spondyliosoma cantharus,Black Seabream,eats
+41494,432395,Brachioteuthis riisei,Common Arm Squid,eats
+41494,63742,Gadidae,Cods and Haddocks,eats
+41494,51910,Engraulis encrasicolus,European Anchovy,eats
+41494,87303,Ceratoscopelus,,eats
+41494,,Spondylosoma cantharus,,eats
+41494,432433,Gonatus steenstrupi,Atlantic Gonate Squid,eats
+41494,120702,Micromesistius poutassou,Blue Whiting,eats
+41494,118603,Merluccius merluccius,European Hake,eats
+41494,,Notoscopelus kroyeri,,eats
+41494,324561,Alloteuthis,,eats
+41494,474815,Chiroteuthis imperator,,eats
+41494,85994,Platytroctidae,Tubeshoulders,eats
+41494,,Systellapsis debilis,,eats
+41494,666635,Funchalia woodwardi,,eats
+41494,317089,Electrona risso,Risso's Lanternfish,eats
+41494,117641,Nucella lamellosa,Wrinkled Purple,eats
+41494,459211,Cubiceps gracilis,Longfin Cigarfish,eats
+41494,248514,Pasiphaea,,eats
+41494,151333,Heteroteuthis dispar,Odd Bobtail,eats
+41494,120672,Scomberesox saurus,Atlantic Saury,eats
+41494,224382,Magnisudis atlantica,Duckbill Barracudina,eats
+41494,459451,Serrivomer beanii,Stout Sawpalate,eats
+41494,92325,Symbolophorus,,eats
+41494,89327,Lampanyctus,,eats
+41494,246438,Onychoteuthis,,eats
+41494,459325,Maurolicus muelleri,Pearlside,eats
+41494,459652,Pasiphaea multidentata,Pink Glass Shrimp,eats
+41494,639178,Meganyctiphanes norvegica,Northern Krill,eats
+41494,432544,Teuthowenia megalops,Atlantic Cranch Squid,eats
+41494,459493,Acanthephyra purpurea,Fire-breathing Shrimp,eats
+41494,,Sergestes arcticus,,eats
+41494,,Bathylagichthys greyae,,eats
+41494,,Pisces,,eats
+41494,246421,Chiroteuthis,,eats
+41494,,Sergia robusta,,eats
+41494,,Diaphus metopoclampus,,eats
+41494,85627,Bathylagidae,Deep-sea Smelts,eats
+41494,225372,Myctophum punctatum,Spotted Lanternfish,eats
+41494,1071209,Pasiphaea sivado,White glass shrimp,eats
+41494,317196,Lobianchia gemellarii,Gemellar's Lanternfish,eats
+41494,246440,Pholidoteuthis,,eats
+41494,459329,Argyropelecus olfersii,Silver hatchetfish,eats
+41494,215151,Benthosema glaciale,Glacier Lanternfish,eats
+41494,786506,Stomias boa ferox,,eats
+41494,120645,Chauliodus sloani,Sloane's Viperfish,eats
+41494,253717,Histioteuthis corona,,eats
+41494,317453,Xenodermichthys copei,Bluntsnout Slickhead,eats
+41494,459492,Acanthephyra pelagica,,eats
+41494,246435,Octopoteuthis,,eats
+41494,253716,Histioteuthis bonnellii,Ornate Cock-eyed Squid,eats
+41494,214112,Arctozenus risso,Ribbon Barracudina,eats
+41494,,Ancistroteuthis lichtensteini,,eats
+41494,225824,Nesiarchus nasutus,Black Gemfish,eats
+41494,317277,Paralepis coregonoides,Sharpchin barracudina,eats
+41494,,Pasiphaea silvado,,eats
+41494,317204,Macroparalepis affinis,,eats
+41494,85681,Chiasmodontidae,Snaketooth Fishes,eats
+41494,432492,Onychoteuthis banksii,Common Clubhook Squid,eats
+41494,110361,Prionace glauca,Blue Shark,eatenBy
+41494,50873,Carcharodon carcharias,Great White Shark,eatenBy
+41494,151429,Sepia officinalis,European Common Cuttlefish,preysOn
+41494,328459,Sthenoteuthis oualaniensis,Purpleback Squid,preysOn
+41494,201529,Doryteuthis pleii,Slender Inshore Squid,preysOn
+41494,118851,Crangon crangon,Brown Shrimp,preysOn
+41494,459493,Acanthephyra purpurea,Fire-breathing Shrimp,preysOn
+41494,459492,Acanthephyra pelagica,,preysOn
+41494,432544,Teuthowenia megalops,Atlantic Cranch Squid,preysOn
+41494,253717,Histioteuthis corona,,preysOn
+41494,432395,Brachioteuthis riisei,Common Arm Squid,preysOn
+41494,,Ancistroteuthis lichtensteini,,preysOn
+41494,474815,Chiroteuthis imperator,,preysOn
+41494,639178,Meganyctiphanes norvegica,Northern Krill,preysOn
+41494,,Sergia robusta,,preysOn
+41494,253718,Histioteuthis reversa,Elongated Cock-eyed Squid,preysOn
+41494,151333,Heteroteuthis dispar,Odd Bobtail,preysOn
+41494,,Sergestes arcticus,,preysOn
+41494,459652,Pasiphaea multidentata,Pink Glass Shrimp,preysOn
+41494,50873,Carcharodon carcharias,Great White Shark,preyedUponBy
+41494,110361,Prionace glauca,Blue Shark,preyedUponBy
+41494,551307,Selachii,Sharks,preyedUponBy

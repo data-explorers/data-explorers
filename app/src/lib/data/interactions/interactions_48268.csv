@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48268,44540,Rattus,Old World Rats,eats
+48268,146199,Lampropeltis californiae,California King Snake,eatenBy
+48268,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+48268,,Rana catesbeiana,,eatenBy
+48268,44259,Microtus,Meadow Voles,preysOn
+48268,44431,Reithrodontomys megalotis,Western Harvest Mouse,preysOn
+48268,7251,Passeriformes,Perching Birds,preysOn
+48268,44396,Peromyscus maniculatus,Deer Mouse,preysOn
+48268,59815,Sorex cinereus,Masked Shrew,preysOn
+48268,46260,Tamiasciurus hudsonicus,American Red Squirrel,preysOn
+48268,37769,Plestiodon skiltonianus,Western Skink,preysOn
+48268,9100,Melospiza melodia,Song Sparrow,preysOn
+48268,43109,Sylvilagus nuttallii,Mountain Cottontail,preysOn
+48268,,Tamias amoenus,,preysOn
+48268,,Neotoma cinerea,,preysOn
+48268,44066,Thomomys talpoides,Northern Pocket Gopher,preysOn
+48268,,Sorex vagrans,,preysOn
+48268,,Perognathus parvus,,preysOn
+48268,,Marmota flaviventris,,preysOn
+48268,146199,Lampropeltis californiae,California King Snake,preyedUponBy
+48268,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+48268,,Coluber flagellum piceus,,preyedUponBy
+48268,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy

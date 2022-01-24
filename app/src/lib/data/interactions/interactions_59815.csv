@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59815,47120,Arthropoda,Arthropods,eats
+59815,63113,Blarina brevicauda,Northern Short-tailed Shrew,eatenBy
+59815,4637,Falconidae,Falcons and Caracaras,eatenBy
+59815,19350,Strigiformes,Owls,eatenBy
+59815,42069,Vulpes vulpes,Red Fox,eatenBy
+59815,41801,Mustela,,eatenBy
+59815,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+59815,26172,Squamata,Snakes and Lizards,eatenBy
+59815,20044,Bubo virginianus,Great Horned Owl,eatenBy
+59815,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+59815,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+59815,19893,Strix varia,Barred Owl,eatenBy
+59815,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+59815,20445,Tyto alba,Barn Owl,eatenBy
+59815,41798,Martes americana,American Marten,eatenBy
+59815,,Martes pennanti,,eatenBy
+59815,922459,Felis silvestris,European Wildcat,eatenBy
+59815,19975,Athene cunicularia,Burrowing Owl,eatenBy
+59815,,Northern Saw-Whet Owl,,eatenBy
+59815,20315,Asio flammeus,Short-eared Owl,eatenBy
+59815,19890,Strix nebulosa,Great Gray Owl,eatenBy
+59815,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+59815,20307,Asio otus,Long-eared Owl,eatenBy
+59815,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+59815,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+59815,48268,Crotalus oreganus,Western Rattlesnake,preyedUponBy
+59815,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+59815,12024,Lanius ludovicianus,Loggerhead Shrike,preyedUponBy

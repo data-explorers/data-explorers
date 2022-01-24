@@ -1,0 +1,86 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123631,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+123631,447552,Maja brachydactyla,Spiny Spider Crab,eatenBy
+123631,48580,Idotea,,eatenBy
+123631,47490,Polychaeta,Polychaete Worms,eatenBy
+123631,48147,Isopoda,Isopods,eatenBy
+123631,63288,Talitridae,Sandhoppers and Landhoppers,eatenBy
+123631,50543,Aplysia dactylomela,spotted seahare,eatenBy
+123631,68764,Ostracoda,Seed Shrimp,eatenBy
+123631,54960,Nematoda,Nematodes,eatenBy
+123631,48836,Ophiuroidea,Brittle Stars,eatenBy
+123631,49507,Callinectes,,eatenBy
+123631,153169,Palaemon elegans,Rockpool Prawn,eatenBy
+123631,47158,Insecta,Insects,eatenBy
+123631,210294,Lipophrys pholis,Shanny,eatenBy
+123631,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,eatenBy
+123631,88563,Gobius,,eatenBy
+123631,121643,Copepoda,Copepods,eatenBy
+123631,47676,Acmaea mitra,Whitecap Limpet,eatenBy
+123631,53830,Trochidae,Top Snails,eatenBy
+123631,47630,Mopalia,,eatenBy
+123631,47426,Tonicella,,eatenBy
+123631,47716,Majidae,Typical Spider Crabs,eatenBy
+123631,709642,Athyonidium chilensis,,eatenBy
+123631,,Thalamita danae,,eatenBy
+123631,349169,Temnopleurus toreumaticus,,eatenBy
+123631,56649,Haliotis cracherodii,Black Abalone,eatenBy
+123631,,Calidris maritima,,eatenBy
+123631,63740,Gadus morhua,Atlantic Cod,eatenBy
+123631,118684,Parablennius ruber,Portuguese blenny,eatenBy
+123631,,Scartichthys viridis,,eatenBy
+123631,98518,Coris sandeyeri,Eastern King Wrasse,eatenBy
+123631,49402,Abudefduf saxatilis,Atlantic Sergeant Major,eatenBy
+123631,499535,Fissurella rosea,Rosy Keyhole Limpet,eatenBy
+123631,255518,Eulithidium affine,,eatenBy
+123631,254716,Engina turbinella,,eatenBy
+123631,875623,Tegula viridula,,eatenBy
+123631,,Amphitoidae,,eatenBy
+123631,,Lithopoma phoebium,,eatenBy
+123631,83718,Tanaidacea,Tanaids,eatenBy
+123631,59806,Gammaridae,,eatenBy
+123631,179515,Bathygobius soporator,Frillfin Goby,eatenBy
+123631,295215,Clibanarius antillensis,,eatenBy
+123631,1010010,Ischnochiton striolatus,,eatenBy
+123631,259878,Hippolyte obliquimanus,,eatenBy
+123631,245452,Stenothoidae,,eatenBy
+123631,260256,Palaemon northropi,Caribbean bait prawn,eatenBy
+123631,49257,Pomacanthus paru,French Angelfish,eatenBy
+123631,195682,Ophiura,,eatenBy
+123631,317131,Haemulon parra,Sailor's Choice,eatenBy
+123631,120708,Scartella cristata,Molly Miller,eatenBy
+123631,,Harparticoida,,eatenBy
+123631,128831,Eriphia gonagra,Redfinger Rubble Crab,eatenBy
+123631,603341,Epialtus brasiliensis,,eatenBy
+123631,260410,Menippe nodifrons,Cuban Stone Crab,eatenBy
+123631,295305,Callinectes ornatus,Ornate Blue Crab,eatenBy
+123631,208871,Cerithium atratum,Dark Cerith,eatenBy
+123631,,Synisoma,,eatenBy
+123631,254742,Astyris lunata,Lunate Dove Shell,eatenBy
+123631,340881,Calliopiidae,,eatenBy
+123631,292259,Bittiolum varium,,eatenBy
+123631,254747,Columbella mercatoria,,eatenBy
+123631,195201,Pachygrapsus transversus,Mottled Shore Crab,eatenBy
+123631,108409,Parablennius parvicornis,Rock-pool Blenny,eatenBy
+123631,790340,Ischnoplax pectinata,,eatenBy
+123631,118692,Coryphoblennius galerita,Montagu's Blenny,eatenBy
+123631,,Omalogyra atomus,,eatenBy
+123631,,Liza ramada,,eatenBy
+123631,47629,Caprella,,eatenBy
+123631,246632,Barleeia,Barleysnails,eatenBy
+123631,494436,Acanthonyx lunulatus,,eatenBy
+123631,67578,Grapsus adscensionis,East Atlantic Sally Lightfoot Crab,eatenBy
+123631,777268,Pirimela denticulata,Toothed Crab,eatenBy
+123631,128834,Eriphia verrucosa,Warty Crab,eatenBy
+123631,357150,Tricolia,Pheasant-shells,eatenBy
+123631,,Gammaridea,,eatenBy
+123631,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+123631,47632,Katharina tunicata,Black Leather Chiton,eatenBy
+123631,47628,Amphipoda,Amphipods,preyedUponBy
+123631,53830,Trochidae,Top Snails,preyedUponBy
+123631,47426,Tonicella,,preyedUponBy
+123631,47676,Acmaea mitra,Whitecap Limpet,preyedUponBy
+123631,47630,Mopalia,,preyedUponBy
+123631,47632,Katharina tunicata,Black Leather Chiton,preyedUponBy
+123631,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy
+123631,,Synisoma,,preyedUponBy

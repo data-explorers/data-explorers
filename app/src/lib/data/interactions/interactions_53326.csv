@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53326,59124,Anthocharis sara,Sara Orangetip,eatenBy
+53326,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+53326,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+53326,,Thygater aethiops,,eatenBy
+53326,,Rhopalosiphoninus latysiphon,,eatenBy
+53326,,Phomopsis lirella,,eatenBy
+53326,,Myzus persicae,,eatenBy
+53326,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+53326,,Tuberculina sbrozzii,,eatenBy

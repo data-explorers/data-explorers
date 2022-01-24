@@ -1,0 +1,78 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52761,50931,Strymon melinus,Gray Hairstreak,eatenBy
+52761,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+52761,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+52761,47219,Apis mellifera,Western Honey Bee,eatenBy
+52761,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+52761,48060,Prosopis,mesquites,eatenBy
+52761,52775,Bombus,Bumble Bees,eatenBy
+52761,7044,Aythya collaris,Ring-necked Duck,eatenBy
+52761,,Dieuches notatus,,eatenBy
+52761,145617,Anthene,,eatenBy
+52761,149412,Eurema brigitta,Broad-bordered Grass Yellow,eatenBy
+52761,51614,Eurema hecabe,Common Grass Yellow,eatenBy
+52761,,Eurema desjardinsii,,eatenBy
+52761,,Eurema senegalensis,,eatenBy
+52761,,Gorilla beringei,,eatenBy
+52761,,Aplocera,,eatenBy
+52761,,Xenotemna pallorana,,eatenBy
+52761,,Bombus affinis,,eatenBy
+52761,,Candovia robinsoni,,eatenBy
+52761,,Acrophylla titan,,eatenBy
+52761,,Sparganothis sulfureana,,eatenBy
+52761,,Lathronympha strigana,,eatenBy
+52761,,Acleris maculidorsana,,eatenBy
+52761,,Archips xylosteana,,eatenBy
+52761,,Cochylis atricapitana,,eatenBy
+52761,479040,Agonopterix nubiferella,,eatenBy
+52761,,Nedra ramosula,,eatenBy
+52761,,Xestia c-nigrum,,eatenBy
+52761,,Remigia conveniens,,eatenBy
+52761,,Ectoedemia septembrella,,eatenBy
+52761,,Ectoedemia variicapitella,,eatenBy
+52761,,Leucoptera lustratella,,eatenBy
+52761,,Calybites,,eatenBy
+52761,876463,Caloptilia aurantiaca,,eatenBy
+52761,,Hemithea aestivaria,,eatenBy
+52761,,Phrissogonus laticostata,,eatenBy
+52761,,Zethenia albonotaria,,eatenBy
+52761,,Eupithecia subfuscata,,eatenBy
+52761,,Eucalybites auroguttella,,eatenBy
+52761,,Thalera fimbrialis,,eatenBy
+52761,,Adela violella,,eatenBy
+52761,,Nemophora dumeriliella,,eatenBy
+52761,,Chrysolina varians,,eatenBy
+52761,,Chrysolina brunsvicensis,,eatenBy
+52761,,Chrysolina hyperici,,eatenBy
+52761,,Cryptocephalus moraei,,eatenBy
+52761,337740,Rhopalus parumpunctatus,,eatenBy
+52761,,Cytospora hyperici,,eatenBy
+52761,,Bombus ternarius,,eatenBy
+52761,,Ectoedemia hypericella,,eatenBy
+52761,49995,Syrphidae,Hover Flies,pollinatedBy
+52761,49707,Halictidae,Sweat Bees,pollinatedBy
+52761,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+52761,335597,Halictini,,pollinatedBy
+52761,57674,Osmia,Mason Bees,pollinatedBy
+52761,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+52761,57678,Lasioglossum,,pollinatedBy
+52761,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+52761,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+52761,,Self pollinated,,pollinatedBy
+52761,,Cylindromyia dorsalis,,pollinatedBy
+52761,,Schwarziana quadripunctata,,pollinatedBy
+52761,,Megachile yasumatsui ,,pollinatedBy
+52761,,Rhinodia rostraria,,pollinatedBy
+52761,,Oxycetonia jucunda ,,pollinatedBy
+52761,,,,pollinatedBy
+52761,,Papilio machaon,,pollinatedBy
+52761,,Merodon longicornis,,pollinatedBy
+52761,,Merodon avidus,,pollinatedBy
+52761,,Scaeva pyrastri,,pollinatedBy
+52761,,Eristalinus aeneus,,pollinatedBy
+52761,319088,Oedemera flavipes,,pollinatedBy
+52761,,Metasyrphus corollae,,pollinatedBy
+52761,,Eumerus amoenus,,pollinatedBy
+52761,,Oxythyrea funesta ,,pollinatedBy
+52761,,Malachius,,pollinatedBy
+52761,501165,Rhodanthidium septemdentatum,Seven-toothed Red-Resin bee,pollinatedBy

@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+336654,29044,Pituophis catenifer,Gopher Snake,eats
+336654,,Pituophis catenifer deserticola,,eats
+336654,43698,Rodentia,Rodents,preysOn
+336654,1,Animalia,Animals,preysOn
+336654,,Thamnophis ordinoides,,preysOn

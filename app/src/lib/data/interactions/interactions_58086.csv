@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58086,47219,Apis mellifera,Western Honey Bee,eatenBy
+58086,52491,Eristalis,Drone Flies,pollinatedBy
+58086,57682,Anthophora,Common Digger Bees,pollinatedBy
+58086,57677,Halictus,Furrow Bees,pollinatedBy
+58086,57678,Lasioglossum,,pollinatedBy
+58086,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+58086,57674,Osmia,Mason Bees,pollinatedBy
+58086,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+58086,,Heringia,,pollinatedBy
+58086,,Andrena,,pollinatedBy
+58086,,http://treatment.plazi.org/id/C20D84F19990173CB971DD95099DBC4E,,pollinatedBy
+58086,,Psilothrix cyaneus ,,pollinatedBy
+58086,,Calocoris,,pollinatedBy
+58086,177092,Meligethes,,pollinatedBy
+58086,,Scaeva pyrastri,,pollinatedBy
+58086,,http://treatment.plazi.org/id/588934C5A3D81B78F71DEEB7F083B91E,,pollinatedBy
+58086,,Bombylius medius ,,pollinatedBy
+58086,,Pontia daplidice ,,pollinatedBy
+58086,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+58086,,Gonepteryx rhamni,,pollinatedBy
+58086,,Scaeva selenitica,,pollinatedBy
+58086,,Andrena bicolor,,pollinatedBy
+58086,,Eucera,,pollinatedBy
+58086,,Pieris brassicae,,pollinatedBy
+58086,,Merodon longicornis,,pollinatedBy
+58086,,Tehthredo zona,,pollinatedBy
+58086,70355,Eurydema,,pollinatedBy
+58086,,Artogeia rapae ,,pollinatedBy
+58086,,Euchloe ausonia,,pollinatedBy
+58086,,http://treatment.plazi.org/id/9F790FC17E7E824618D924A97887058D,,pollinatedBy
+58086,,Hoplitis,,pollinatedBy
+58086,70151,Calliphora vomitoria,Orange-bearded Bluebottle Fly,pollinatedBy
+58086,,Cuneala,,pollinatedBy
+58086,,Bombylius undatus ,,pollinatedBy
+58086,,Epicometis hirta ,,pollinatedBy
+58086,,Bombylius fuliginosus ,,pollinatedBy
+58086,,Metallinella,,pollinatedBy
+58086,,Meliscaeva auricollis ,,pollinatedBy
+58086,,Thymelicus acteon,,pollinatedBy
+58086,,Episyrphus balteatus,,pollinatedBy
+58086,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy
+58086,,Hemipenthes velutinus ,,pollinatedBy

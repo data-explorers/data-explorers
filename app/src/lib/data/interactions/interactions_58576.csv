@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58576,47911,Asclepias syriaca,common milkweed,eats
+58576,76610,Daucus carota,wild carrot,eats
+58576,61321,Lythrum salicaria,purple loosestrife,eats
+58576,47435,Lotus corniculatus,bird's-foot trefoil,pollinates
+58576,79317,Taraxacum erythrospermum,red-seeded dandelion,pollinates
+58576,48678,Solidago,goldenrods,pollinates
+58576,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+58576,47866,Thomisidae,Crab Spiders,preyedUponBy

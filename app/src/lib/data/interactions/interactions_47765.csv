@@ -1,0 +1,41 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47765,49172,Sciaenidae,Drums,eats
+47765,,Miscelaneous,,eats
+47765,91866,Sardinella,Sardinellas,eats
+47765,52197,Penaeus,,eats
+47765,,Middlebenthos,,eats
+47765,,Small pelagics,,eats
+47765,,Macrobenthos,,eats
+47765,98501,Coris aygula,Clown Coris,eats
+47765,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+47765,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47765,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+47765,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47765,82353,Merluccius,Hakes,eatenBy
+47765,91518,Pseudotolithus,,eatenBy
+47765,105109,Malacocephalus occidentalis,Western Softhead Grenadier,eatenBy
+47765,179454,Syacium papillosum,Dusky Flounder,eatenBy
+47765,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+47765,56766,Sphyrna mokarran,Great Hammerhead,eatenBy
+47765,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47765,47764,Mycteroperca,,eatenBy
+47765,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+47765,131388,Haemulon melanurum,Cottonwick,eatenBy
+47765,108196,Pagrus pagrus,Red Porgy,eatenBy
+47765,83439,Centropristis striata,Black Sea Bass,eatenBy
+47765,49637,Epinephelus morio,Red Grouper,eatenBy
+47765,,Lagenodelphis hosei,,eatenBy
+47765,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+47765,4631,Fregata magnificens,Magnificent Frigatebird,eatenBy
+47765,4566,Gygis alba,White Tern,eatenBy
+47765,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+47765,49172,Sciaenidae,Drums,preysOn
+47765,,Small pelagics,,preysOn
+47765,,Middlebenthos,,preysOn
+47765,52197,Penaeus,,preysOn
+47765,,Macrobenthos,,preysOn
+47765,,Miscelaneous,,preysOn
+47765,91866,Sardinella,Sardinellas,preysOn
+47765,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+47765,91518,Pseudotolithus,,preyedUponBy
+47765,82353,Merluccius,Hakes,preyedUponBy

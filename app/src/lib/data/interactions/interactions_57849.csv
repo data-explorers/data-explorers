@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57849,,Homophoberia cristata,,eatenBy
+57849,,Elophila nymphaeata,,eatenBy
+57849,218658,Donacia piscatrix,,eatenBy
+57849,,Donacia texana,,eatenBy
+57849,,Donacia palmata,,eatenBy
+57849,,Donacia proxima,,eatenBy
+57849,,Synclita obliteralis,,eatenBy
+57849,,Hyporhygma quadripunctatus,,eatenBy
+57849,47822,Diptera,Flies,pollinatedBy
+57849,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+57849,,Lasioglossum nelumbonis,,pollinatedBy
+57849,,Donacia,,pollinatedBy
+57849,,Hylaeus nelumbonis,,pollinatedBy
+57849,,Lasioglossum nymphaearum,,pollinatedBy

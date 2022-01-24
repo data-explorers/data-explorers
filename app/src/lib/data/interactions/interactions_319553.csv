@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+319553,121259,Chironemus marmoratus,Eastern Kelpfish,eatenBy
+319553,,Pagrus auratus,,eatenBy
+319553,118588,Conger wilsoni,Cape Conger,eatenBy
+319553,372278,Gymnothorax prasinus,Australian Green Moray,eatenBy
+319553,445777,Chrysoblephus laticeps,Roman Seabream,eatenBy
+319553,203918,Argyrosomus japonicus,Mulloway,eatenBy
+319553,114354,Triakis megalopterus,Spotted Gully Shark,eatenBy
+319553,609244,Chatrabus felinus,pleated toadfish,eatenBy
+319553,445808,Clinus superciliosus,Super klipfish,eatenBy
+319553,98324,Congiopodus torvus,smooth horsefish,eatenBy
+319553,608581,Galeichthys ater,Black Sea Catfish,eatenBy
+319553,49315,Octopus vulgaris,Common Octopus,eatenBy
+319553,49315,Octopus vulgaris,Common Octopus,preyedUponBy
+319553,429087,Oulactis magna,Giant Shore Anemone,preyedUponBy

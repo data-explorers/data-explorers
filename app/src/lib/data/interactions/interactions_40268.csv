@@ -1,0 +1,91 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+40268,47158,Insecta,Insects,eats
+40268,70152,Calliphora,,eats
+40268,194033,Coelopidae,Kelp Flies,eats
+40268,132575,Elaeis,oil palms,eats
+40268,50999,Ficus,Figs,eats
+40268,,Pipistrellus hesperus,,eats
+40268,41376,Taphozous melanopogon,Black-bearded Tomb Bat,eats
+40268,,Sechium edule,,eats
+40268,,Ficus religiosa,,eats
+40268,,Musa,,eats
+40268,,Eugenia prasina,,eats
+40268,62859,Psidium guajava,Common guava,eats
+40268,278242,Psidium cattleyanum,strawberry-guava,eats
+40268,50897,Asimina triloba,common pawpaw,eats
+40268,,Vitex doniana,,eats
+40268,,Grewia mollis,,eats
+40268,,Solanum stramonifolium,,eats
+40268,,Persea americana,,eats
+40268,,Annona senegalensis,,eats
+40268,,Borassus,,eats
+40268,319135,Azadirachta indica,Neem,eats
+40268,,Mangifera indica,,eats
+40268,42069,Vulpes vulpes,Red Fox,eatenBy
+40268,20044,Bubo virginianus,Great Horned Owl,eatenBy
+40268,4665,Falco sparverius,American Kestrel,eatenBy
+40268,19893,Strix varia,Barred Owl,eatenBy
+40268,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+40268,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+40268,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+40268,41997,Leopardus pardalis,Ocelot,eatenBy
+40268,41798,Martes americana,American Marten,eatenBy
+40268,41800,Martes foina,Stone Marten,eatenBy
+40268,41796,Martes martes,Eurasian Pine Marten,eatenBy
+40268,,Pseudoscops grammicus,,eatenBy
+40268,20307,Asio otus,Long-eared Owl,eatenBy
+40268,19975,Athene cunicularia,Burrowing Owl,eatenBy
+40268,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+40268,,Bucorvus leadbeateri,,eatenBy
+40268,,Senticolis triaspis,,eatenBy
+40268,19959,Strix occidentalis,Spotted Owl,eatenBy
+40268,4645,Falco femoralis,Aplomado Falcon,eatenBy
+40268,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+40268,64103,Agave americana,American century plant,pollinates
+40268,50822,Agave,century plants,pollinates
+40268,119302,Agave parryi,Parry's agave,pollinates
+40268,182095,Sonneratia,,pollinates
+40268,,Anacardium,,pollinates
+40268,,Mezonevron kavaiense,,pollinates
+40268,,Manfreda brachystacha,,pollinates
+40268,,Agave palmeri,,pollinates
+40268,,Pilosocereus,,pollinates
+40268,,Musa textilis,,pollinates
+40268,854780,Burmeistera cyclostigmata,,pollinates
+40268,,Burmeistera tenuiflora,,pollinates
+40268,53275,Chironomidae,Non-biting Midges,preysOn
+40268,505410,Polycentropus flavomaculatus,,preysOn
+40268,482056,Dinocras cephalotes,Large Stonefly,preysOn
+40268,5163,Circus,Harriers,preyedUponBy
+40268,11853,Hirundinidae,Swallows and Martins,preyedUponBy
+40268,,Bothriechis schlegelii,,preyedUponBy
+40268,,Corallus annulatus,,preyedUponBy
+40268,,Python sebae,,preyedUponBy
+40268,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+40268,27722,Toxicodryas blandingii,Blandings Tree Snake,preyedUponBy
+40268,,Corallus hortulanus,,preyedUponBy
+40268,,Philodryas aestiva,,preyedUponBy
+40268,,Boiga forsteni,,preyedUponBy
+40268,28627,Spilotes pullatus,Chicken Snake,preyedUponBy
+40268,27623,Boiga dendrophila,Gold-ringed Cat Snake,preyedUponBy
+40268,,Platyceps ventromaculatus,,preyedUponBy
+40268,539420,Bothrops pauloensis,Cerrado Lancehead,preyedUponBy
+40268,94205,Antaresia childreni,Children's Python,preyedUponBy
+40268,,Corallus ruschenbergerii,,preyedUponBy
+40268,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+40268,,Megaderma lyra,,preyedUponBy
+40268,,Macroderma,,preyedUponBy
+40268,,Chrysophlegma flavinucha,,preyedUponBy
+40268,20115,Ninox strenua,Powerful Owl,preyedUponBy
+40268,,Glaucidium perlatum,,preyedUponBy
+40268,,Corallus hortulana,,preyedUponBy
+40268,,Falco tinunculus,,preyedUponBy
+40268,,Macheiramphus alcinus,,preyedUponBy
+40268,204470,Bubo africanus,Spotted Eagle-Owl,preyedUponBy
+40268,5315,Haliaeetus leucogaster,White-bellied Sea-Eagle,preyedUponBy
+40268,,Aquila audax,,preyedUponBy
+40268,50238,Morelia spilota,Carpet Python,preyedUponBy
+40268,,Varanus,,preyedUponBy
+40268,26068,Crocodylus porosus,Saltwater Crocodile,preyedUponBy
+40268,,Crocodylus johnsoni,,preyedUponBy
+40268,,Orthriophis taeniurus,,preyedUponBy

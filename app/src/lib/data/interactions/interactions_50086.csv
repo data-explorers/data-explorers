@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50086,77719,Leucanthemum maximum,Shasta Daisy,eats
+50086,49322,Carpobrotus edulis,sea fig,eats
+50086,52989,Cirsium vulgare,Bull Thistle,eats
+50086,57934,Ericameria nauseosa,Rubber Rabbitbrush,eats
+50086,61906,Helminthotheca echioides,bristly oxtongue,eats
+50086,49323,Carpobrotus,sea figs,eats
+50086,55365,Grindelia,gumplants,eats
+50086,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+50086,47602,Taraxacum officinale,common dandelion,pollinates
+50086,47327,Calochortus,mariposa lilies,pollinates
+50086,,Eupatorium compressum,,pollinates
+50086,,,,pollinates
+50086,346401,Portlandia grandiflora,Jamaican tree-lily,pollinates
+50086,,Stanleya,,pollinates
+50086,,Prunus demissa,,pollinates
+50086,,Kallstroemia grandiflora,,pollinates
+50086,,Cypripedium parviflorum,,pollinates
+50086,,Opuntia polyacantha,,pollinates
+50086,,Oxytropis,,pollinates
+50086,,Lygodesmia juncea,,pollinates
+50086,,Acanthomintha ilicifolia,,pollinates
+50086,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+50086,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy

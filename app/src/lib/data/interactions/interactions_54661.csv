@@ -1,0 +1,113 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54661,85493,Crustacea,Crustaceans,eats
+54661,47114,Gastropoda,Gastropods,eats
+54661,47490,Polychaeta,Polychaete Worms,eats
+54661,47178,Actinopterygii,Ray-finned Fishes,eats
+54661,47459,Cephalopoda,Cephalopods,eats
+54661,47120,Arthropoda,Arthropods,eats
+54661,1,Animalia,Animals,eats
+54661,121639,Brachyura,True Crabs,eats
+54661,47584,Bivalvia,Bivalves,eats
+54661,342912,Caridea,Caridean Shrimps,eats
+54661,47126,Plantae,plants,eats
+54661,61387,Limanda limanda,Sand Dab,eats
+54661,,Pseudocuma longicorne,,eats
+54661,,Infauna,,eats
+54661,,Zooplankton,,eats
+54661,,Detritus,,eats
+54661,,Wigeongrass,,eats
+54661,,Phytoplankton,,eats
+54661,,Suprabenthos,,eats
+54661,,Meso and microzooplankton,,eats
+54661,260530,Parapenaeus politus,,eats
+54661,,Common octopus,,eats
+54661,49506,Portunidae,Swimming Crabs,eatenBy
+54661,47232,Carangidae,Jacks,eatenBy
+54661,47272,Rajiformes,Skates,eatenBy
+54661,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+54661,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+54661,116999,Pandion haliaetus,Osprey,eatenBy
+54661,144455,Ardea alba,Great Egret,eatenBy
+54661,4940,Egretta thula,Snowy Egret,eatenBy
+54661,,Pungitius pungitius pungitius,,eatenBy
+54661,113309,Strongylura scapularis,Shoulderspot Needlefish,eatenBy
+54661,49438,Centropomidae,Snooks,eatenBy
+54661,,Commercial sparids 2,,eatenBy
+54661,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",eatenBy
+54661,,Chondrichthyes,,eatenBy
+54661,128750,Sciaenops ocellatus,Red Drum,eatenBy
+54661,4327,Pelecanus onocrotalus,Great White Pelican,eatenBy
+54661,361765,Todarodes pacificus,Japanese Flying Squid,eatenBy
+54661,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+54661,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+54661,144536,Gelochelidon nilotica,Gull-billed Tern,eatenBy
+54661,41733,Halichoerus grypus,Grey Seal,eatenBy
+54661,,porpoise shark,,eatenBy
+54661,90190,Nemipterus,Threadfin Breams,eatenBy
+54661,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+54661,333753,Eleutheronema tetradactylum,Fourfinger Threadfin,eatenBy
+54661,84996,Carcharhinus leucas,Bull Shark,eatenBy
+54661,118679,Argyrosomus regius,Brown Meagre,eatenBy
+54661,127131,Scomberoides lysan,Lesser Queenfish,eatenBy
+54661,56764,Sphyrna lewini,Scalloped Hammerhead,eatenBy
+54661,118709,Lichia amia,Leerfish,eatenBy
+54661,50984,Pomatomus saltatrix,Bluefish,eatenBy
+54661,96750,Carcharhinus brachyurus,Bronze Whaler,eatenBy
+54661,96930,Centropomus nigrescens,Pacific Black Snook,eatenBy
+54661,49513,Cynoscion,Weakfishes,eatenBy
+54661,96931,Centropomus robalito,Yellowfin Snook,eatenBy
+54661,132369,Scomberomorus commerson,Narrow-banded Spanish Mackerel,eatenBy
+54661,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+54661,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+54661,119719,Istiophorus platypterus,Indo-Pacific Sailfish,eatenBy
+54661,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+54661,136618,Istiophorus albicans,Atlantic Sailfish,eatenBy
+54661,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+54661,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+54661,108562,Paralichthys lethostigma,Southern Flounder,eatenBy
+54661,51401,Trachinotus ovatus,Pompano,eatenBy
+54661,118590,Muraena helena,Mediterranean moray,eatenBy
+54661,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+54661,204496,Corvus corone,Carrion Crow,eatenBy
+54661,4368,Larus marinus,Great Black-backed Gull,eatenBy
+54661,,Enhydrina schistosa,,eatenBy
+54661,4938,Egretta tricolor,Tricolored Heron,eatenBy
+54661,4937,Egretta caerulea,Little Blue Heron,eatenBy
+54661,4537,Anous minutus,Black Noddy,eatenBy
+54661,4566,Gygis alba,White Tern,eatenBy
+54661,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+54661,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+54661,47490,Polychaeta,Polychaete Worms,preysOn
+54661,47114,Gastropoda,Gastropods,preysOn
+54661,47126,Plantae,plants,preysOn
+54661,47120,Arthropoda,Arthropods,preysOn
+54661,121639,Brachyura,True Crabs,preysOn
+54661,1,Animalia,Animals,preysOn
+54661,47178,Actinopterygii,Ray-finned Fishes,preysOn
+54661,47584,Bivalvia,Bivalves,preysOn
+54661,342912,Caridea,Caridean Shrimps,preysOn
+54661,47459,Cephalopoda,Cephalopods,preysOn
+54661,85493,Crustacea,Crustaceans,preysOn
+54661,,Zooplankton,,preysOn
+54661,,Infauna,,preysOn
+54661,,Common octopus,,preysOn
+54661,260530,Parapenaeus politus,,preysOn
+54661,,Meso and microzooplankton,,preysOn
+54661,,Suprabenthos,,preysOn
+54661,49506,Portunidae,Swimming Crabs,preyedUponBy
+54661,47232,Carangidae,Jacks,preyedUponBy
+54661,47272,Rajiformes,Skates,preyedUponBy
+54661,49507,Callinectes,,preyedUponBy
+54661,116999,Pandion haliaetus,Osprey,preyedUponBy
+54661,27357,Cerberus rynchops,Asian Bockadam,preyedUponBy
+54661,,Pungitius pungitius pungitius,,preyedUponBy
+54661,113309,Strongylura scapularis,Shoulderspot Needlefish,preyedUponBy
+54661,49438,Centropomidae,Snooks,preyedUponBy
+54661,,Commercial sparids (2),,preyedUponBy
+54661,,Elopids,,preyedUponBy
+54661,,Ariids,,preyedUponBy
+54661,,Lutjanids,,preyedUponBy
+54661,,Centropomids,,preyedUponBy
+54661,,Scianids,,preyedUponBy
+54661,126619,Pandion haliaetus carolinensis,North American Osprey,preyedUponBy
+54661,41850,Lutra lutra,Eurasian Otter,preyedUponBy

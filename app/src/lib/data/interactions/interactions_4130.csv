@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4130,153112,Euphausiacea,krill,eats
+4130,47628,Amphipoda,Amphipods,eats
+4130,121643,Copepoda,Copepods,eats
+4130,85493,Crustacea,Crustaceans,eats
+4130,195136,Euphausia,,eats
+4130,195134,Euphausiidae,Euphotic Krill,eats
+4130,47178,Actinopterygii,Ray-finned Fishes,eats
+4130,47186,Decapoda,Decapods,eats
+4130,121639,Brachyura,True Crabs,eats
+4130,,Hyperoche,,eats
+4130,,Calanoides acutus,,eats
+4130,260964,Primno macropa,,eats
+4130,340950,Themisto gaudichaudii,,eats
+4130,201712,Euchaeta,,eats
+4130,85507,Calanoida,Calanoid Copepods,eats
+4130,,Rhincalanus gigas,,eats
+4130,,Calanus simillimus,,eats
+4130,195135,Thysanoessa,,eats
+4130,,Drepanopus,,eats
+4130,,Pisces,,eats
+4130,,Calanus propinquus,,eats
+4130,,Cyllopus,,eats
+4130,,Hyperiella,,eats
+4130,344134,Euphausia superba,Antarctic Krill,eats
+4130,,Teuthida,,eats
+4130,,Drepanopus pectinatus,,eats
+4130,,Halicarcinus planatus,,eats
+4130,,Paraeuchaeta antarctica,,eats
+4130,,Allium sativum,,eats
+4130,,Mysidetes morbihanensis,,eats
+4130,,Gnathostomata,,eats
+4130,,others,,eats
+4130,,Others,,eats
+4130,,Catharacta,,eatenBy
+4130,4198,Macronectes giganteus,Southern Giant-Petrel,eatenBy
+4130,4196,Macronectes,Giant Petrels,eatenBy
+4130,,no name,,preyedUponBy

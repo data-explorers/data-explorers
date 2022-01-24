@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+153887,53359,Baccharis pilularis,coyote brush,eats
+153887,53052,Foeniculum vulgare,fennel,eats
+153887,153887,Polistes aurifer,Golden Paper Wasp,eats
+153887,48939,Eriogonum,wild buckwheats,eats
+153887,54520,Tanacetum parthenium,feverfew,eats
+153887,56851,Asclepias fascicularis,narrowleaf milkweed,eats
+153887,53423,Frangula californica,coffeeberry,eats
+153887,48225,Eschscholzia californica,California poppy,eats
+153887,60177,Atriplex semibaccata,berry saltbush,eats
+153887,55849,Amaryllidaceae,"amaryllis, onions, and allies",eats
+153887,54999,Eriogonum fasciculatum,California buckwheat,eats
+153887,48699,Apiaceae,carrot family,eats
+153887,53046,Eriogonum nudum,Naked Buckwheat,eats
+153887,58271,Eriogonum elongatum,Long-stemmed Buckwheat,eats
+153887,52108,Baccharis sarothroides,desert broom,eats
+153887,49338,Encelia,brittlebushes,eats
+153887,47121,Lupinus,lupines,eats
+153887,,Baccharis glutinosa,,eats
+153887,50333,Lantana camara,common lantana,eats
+153887,,Eriogonum fasciculatum foliolosum,,eats
+153887,,Perideridia,,eats
+153887,153887,Polistes aurifer,Golden Paper Wasp,eatenBy
+153887,16779,Tyrannus vociferans,Cassin's Kingbird,preyedUponBy

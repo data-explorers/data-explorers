@@ -1,0 +1,142 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4209,47120,Arthropoda,Arthropods,eats
+4209,47114,Gastropoda,Gastropods,eats
+4209,47961,Cerambycidae,Longhorn Beetles,eats
+4209,49567,Carabidae,Ground Beetles,eats
+4209,48736,Curculionidae,True Weevils,eats
+4209,47157,Lepidoptera,Butterflies and Moths,eats
+4209,48147,Isopoda,Isopods,eats
+4209,57659,Dytiscidae,Predaceous Diving Beetles,eats
+4209,62781,Camponotus,Carpenter and Sugar Ants,eats
+4209,70144,Muscidae,House Flies and Allies,eats
+4209,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+4209,127444,Hydrophilidae,Water Scavenger Beetles,eats
+4209,84735,Corixidae,Water Boatmen,eats
+4209,89853,Menidia,,eats
+4209,126791,Nitidulidae,Sap-feeding Beetles,eats
+4209,81570,Belostomatidae,Giant Water Bugs,eats
+4209,48011,Ephemeroptera,Mayflies,eats
+4209,47951,Staphylinidae,Rove Beetles,eats
+4209,53911,Cyprinus carpio,European Carp,eats
+4209,47336,Formicidae,Ants,eats
+4209,47742,Pentatomidae,Stink Bugs,eats
+4209,61267,Heteroptera,True Bugs,eats
+4209,81576,Belostoma,,eats
+4209,47118,Araneae,Spiders,eats
+4209,49609,Cyprinidae,Cyprinids,eats
+4209,49704,Tabanus,True Horse Flies,eats
+4209,54964,Buprestidae,Metallic Wood-boring Beetles,eats
+4209,70076,Euschistus,,eats
+4209,47645,Cottidae,Typical Sculpins,eats
+4209,51146,Chrysomelidae,Leaf Beetles,eats
+4209,53248,Elateridae,Click Beetles,eats
+4209,53275,Chironomidae,Non-biting Midges,eats
+4209,133623,Tropisternus,,eats
+4209,59653,Gerridae,Water Striders,eats
+4209,47186,Decapoda,Decapods,eats
+4209,81791,Nereis,,eats
+4209,47628,Amphipoda,Amphipods,eats
+4209,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+4209,47927,Anisoptera,Dragonflies,eats
+4209,47490,Polychaeta,Polychaete Worms,eats
+4209,47158,Insecta,Insects,eats
+4209,62164,Trichoptera,Caddisflies,eats
+4209,63089,Clitellata,Clitellates,eats
+4209,1,Animalia,Animals,eats
+4209,47208,Coleoptera,Beetles,eats
+4209,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+4209,85493,Crustacea,Crustaceans,eats
+4209,4209,Podiceps auritus,Horned Grebe,eats
+4209,54538,Syngnathus leptorhynchus,Bay Pipefish,eats
+4209,47178,Actinopterygii,Ray-finned Fishes,eats
+4209,221618,Hydrochara obtusata,,eats
+4209,,Nabis,,eats
+4209,100515,Etheostoma olmstedi,Tessellated Darter,eats
+4209,84734,Agabus,,eats
+4209,56557,Notonecta,Milky Backswimmers,eats
+4209,,Amara,,eats
+4209,,Hydroporus,,eats
+4209,,Percoidei,,eats
+4209,,Saprinus,,eats
+4209,,Heterocerus,,eats
+4209,,Anonyx multiarticulatus,,eats
+4209,,Gyrinidae,,eats
+4209,47644,Cottus,Freshwater Sculpins,eats
+4209,,Aphodius,,eats
+4209,,Stenolophus lecontei,,eats
+4209,,Berosus,,eats
+4209,,Myodocha serripes,,eats
+4209,,Peltodytes duodecimpunctatus,,eats
+4209,,Mysis stenolepis,,eats
+4209,177989,Haliplus,,eats
+4209,340881,Calliopiidae,,eats
+4209,83099,Crangon septemspinosa,Sand Shrimp,eats
+4209,,Mancasellus,,eats
+4209,,Hydrobius fuscipes,,eats
+4209,,Peltodytes callosus,,eats
+4209,,Palaemonetes vulgaris,,eats
+4209,,Chilothorax distinctus,,eats
+4209,,Anguilla,,eats
+4209,,Rhynchophorus,,eats
+4209,,Farfantepenaeus brasiliensis,,eats
+4209,,Ceratina dupla,,eats
+4209,,Hygrotus,,eats
+4209,59806,Gammaridae,,eats
+4209,82104,Cambarus,,eats
+4209,,Eusiridae,,eats
+4209,,Colymbetes,,eats
+4209,,Lasiglossum,,eats
+4209,216746,Chitonotus pugetensis,Roughback Sculpin,eats
+4209,,Crangon franciscorum,,eats
+4209,59807,Gammarus,,eats
+4209,,Stolephorus,,eats
+4209,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4209,,Hydrobius melaenus,,eats
+4209,,Haliplus ruficollis,,eats
+4209,,Phaeogenes,,eats
+4209,250269,Campoplex,,eats
+4209,,Colymbetes sculptilis,,eats
+4209,,Peltodytes edentulus,,eats
+4209,,Tiphia,,eats
+4209,,Tomicus,,eats
+4209,472,Fulica,Coots,eatenBy
+4209,8010,Corvus corax,Common Raven,eatenBy
+4209,4209,Podiceps auritus,Horned Grebe,eatenBy
+4209,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4209,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4209,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+4209,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+4209,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+4209,,Fulica atra,,eatenBy
+4209,,Aquila clanga,,eatenBy
+4209,144297,Stercorarius skua,Great Skua,eatenBy
+4209,475028,Porphyrio porphyrio,Western Swamphen,eatenBy
+4209,204533,Larus argentatus,Herring Gull,eatenBy
+4209,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+4209,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4209,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4209,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+4209,,Ichthyaetus ichthyaetus,,eatenBy
+4209,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4209,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4209,4389,Larus cachinnans,Caspian Gull,eatenBy
+4209,19898,Strix aluco,Tawny Owl,eatenBy
+4209,204496,Corvus corone,Carrion Crow,eatenBy
+4209,8029,Corvus frugilegus,Rook,eatenBy
+4209,42134,Sus scrofa,Wild Boar,eatenBy
+4209,41805,Mustela lutreola,European Mink,eatenBy
+4209,41812,Mustela putorius,Western Polecat,eatenBy
+4209,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4209,,Elaphe situla,,eatenBy
+4209,39407,Varanus griseus,Desert Monitor,eatenBy
+4209,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4209,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4209,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4209,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4209,117533,Clinocottus analis,Woolly Sculpin,preysOn
+4209,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+4209,1,Animalia,Animals,preysOn
+4209,,Pandalus danae,,preysOn
+4209,,Alitta,,preysOn
+4209,67629,Oligocottus maculosus,Tidepool Sculpin,preysOn
+4209,,Pholidae,,preysOn

@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129902,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+129902,48662,Danaus plexippus,Monarch,eats
+129902,326777,Aculeata,"Ants, Bees, and Stinging Wasps",eats
+129902,81839,Platycryptus undatus,Tan Jumping Spider,eats
+129902,48292,Philoscia muscorum,Common Striped Woodlouse,eats
+129902,247665,Tanytarsus,,eats
+129902,,Maclura pomifera,,eats
+129902,870778,Myomorpha,"Mice, Rats, and Hamsters",eats
+129902,12727,Turdus migratorius,American Robin,eatenBy
+129902,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+129902,17356,Vireo bellii,Bell's Vireo,eatenBy
+129902,17355,Vireo,Vireos,eatenBy
+129902,41641,Ursus arctos,Brown Bear,eatenBy
+129902,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+129902,17408,Vireo griseus,White-eyed Vireo,eatenBy
+129902,,Vireo flavifrons,,eatenBy
+129902,17394,Vireo gilvus,Warbling Vireo,eatenBy
+129902,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+129902,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+129902,47157,Lepidoptera,Butterflies and Moths,preysOn
+129902,,Lochmaeus manteo,,preysOn

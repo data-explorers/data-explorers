@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+800859,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+800859,114122,Thunnus alalunga,Albacore,eatenBy
+800859,51403,Seriolella punctata,Silver Warehou,eatenBy
+800859,115167,Xiphias gladius,Swordfish,eatenBy
+800859,188556,Tetrapturus belone,Mediterranean Spearfish,eatenBy

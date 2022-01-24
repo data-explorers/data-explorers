@@ -1,0 +1,115 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48582,360308,Eriosoma lanigerum,Woolly Apple Aphid,eatenBy
+48582,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+48582,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+48582,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+48582,53714,Grifola frondosa,hen of the woods,eatenBy
+48582,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+48582,,American moose,,eatenBy
+48582,,Snowshoe hare,,eatenBy
+48582,,Arctic hare,,eatenBy
+48582,,Pamphilius sylvaticus,,eatenBy
+48582,,Pristiphora appendiculata,,eatenBy
+48582,,Craesus septentrionalis,,eatenBy
+48582,564850,Tenthredo livida,Variable Tenthredo,eatenBy
+48582,,Rhogogaster chlorosoma,,eatenBy
+48582,,Rhogogaster punctulata,,eatenBy
+48582,386969,Caliroa cerasi,Cherry Slug Sawfly,eatenBy
+48582,,Cyanistes caeruleus,,eatenBy
+48582,,Orchestes pallicornis,,eatenBy
+48582,,Coleophora spinella,,eatenBy
+48582,12716,Turdus merula,Eurasian Blackbird,eatenBy
+48582,207527,Lyonetia clerkella,Apple Leafminer,eatenBy
+48582,,Xanthoria parietina,,eatenBy
+48582,,Aporia crataegi,,eatenBy
+48582,,Papilio canadensis,,eatenBy
+48582,,Nymphalis polychloros,,eatenBy
+48582,,Iphiclides podalirius,,eatenBy
+48582,208988,Satyrium spini,Blue-spot Hairstreak,eatenBy
+48582,,Thecla betulae,,eatenBy
+48582,,Daldinia concentrica,,eatenBy
+48582,,Polydrusus (Neoeustolus) cervinus,,eatenBy
+48582,,Phyllobius glaucus,,eatenBy
+48582,,Cladius (Priophorus) pallipes,,eatenBy
+48582,,Hoplocampa ariae,,eatenBy
+48582,,Diplococcium spicatum,,eatenBy
+48582,352962,Xylohypha ferruginosa,,eatenBy
+48582,,Taeniolina scripta,,eatenBy
+48582,,Dematioscypha dematiicola,,eatenBy
+48582,,Corynespora cambrensis,,eatenBy
+48582,,Actinocladium rhodosporum,,eatenBy
+48582,,Farlowiella carmichaeliana,,eatenBy
+48582,,Coccomyces coronatus,,eatenBy
+48582,,Amphisphaeria millepunctata,,eatenBy
+48582,,Eutypella sorbi,,eatenBy
+48582,,Dermea ariae,,eatenBy
+48582,,Dactylaria candidula,,eatenBy
+48582,,Cercophora caudata,,eatenBy
+48582,,Diatrype stigma,,eatenBy
+48582,,Dictyosporium toruloides,,eatenBy
+48582,,Diaporthe impulsa,,eatenBy
+48582,,Hypoxylon multiforme,,eatenBy
+48582,,Cryptocoryneum condensatum,,eatenBy
+48582,,Coronophora gregaria,,eatenBy
+48582,,Diaporthe eres,,eatenBy
+48582,,Chaetosphaeria innumera,,eatenBy
+48582,,Endophragmiella ellisii,,eatenBy
+48582,,Botryobasidium aureum,,eatenBy
+48582,,Claussenomyces atrovirens,,eatenBy
+48582,,Lasiosphaeria hirsuta,,eatenBy
+48582,,Nectria coccinea,,eatenBy
+48582,,Nectria mammoidea var. mammoidea,,eatenBy
+48582,,Nectria cinnabarina,,eatenBy
+48582,,Pseudospiropes subuliferus,,eatenBy
+48582,,Melanochaeta aotearoae,,eatenBy
+48582,,Nectria viridescens,,eatenBy
+48582,,Pezizellaster serratus,,eatenBy
+48582,,Hyaloscypha leuconica,,eatenBy
+48582,,Proliferodiscus pulveraceus,,eatenBy
+48582,,Leucostoma persoonii,,eatenBy
+48582,,Melanomma pulvis-pyrius,,eatenBy
+48582,,Propolis farinosa,,eatenBy
+48582,,Nemania serpens,,eatenBy
+48582,,Nectria galligena,,eatenBy
+48582,,Lasiosphaeria canescens,,eatenBy
+48582,,Lasiosphaeria spermoides,,eatenBy
+48582,,Graphium calicioides,,eatenBy
+48582,,Protounguicularia barbata f. resinacea,,eatenBy
+48582,,Trimmatostroma betulinum,,eatenBy
+48582,867902,Tympanis conspersa,,eatenBy
+48582,12707,Turdus pilaris,Fieldfare,eatenBy
+48582,12735,Turdus viscivorus,Mistle Thrush,eatenBy
+48582,,Turdus iliacus,,eatenBy
+48582,12748,Turdus philomelos,Song Thrush,eatenBy
+48582,,Phellinus pomaceus,,eatenBy
+48582,,Postia tephroleuca,,eatenBy
+48582,,Perenniporia fraxinea,,eatenBy
+48582,,Magdalis (Panus) barbicornis,,eatenBy
+48582,,Acanthosoma haemorrhoidale,,eatenBy
+48582,,Valsa ambiens,,eatenBy
+48582,,Sporidesmium folliculatum,,eatenBy
+48582,,Sporoschisma juvenile,,eatenBy
+48582,,Virgaria nigra,,eatenBy
+48582,,Spadicoides bina,,eatenBy
+48582,,Valsa ceratosperma,,eatenBy
+48582,,Pristiphora geniculata,,eatenBy
+48582,,Loxostege sticticalis,,eatenBy
+48582,,Argyresthia conjugella,,eatenBy
+48582,,Spilonota ocellana,,eatenBy
+48582,60930,Diaspidiotus perniciosus,Pernicious Scale,eatenBy
+48582,,Aphis pomi,,eatenBy
+48582,,Leucoptera malifoliella,,eatenBy
+48582,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+48582,120489,Sarcophaga,Common Flesh Flies,pollinatedBy
+48582,1204075,Formica fusca,fusca-group Field Ants,pollinatedBy
+48582,,,,pollinatedBy
+48582,,Andrena,,pollinatedBy
+48582,51287,Bellardia,,pollinatedBy
+48582,174025,Dalopius marginatus,,pollinatedBy
+48582,,Empis tessellata,,pollinatedBy
+48582,121357,Platycheirus,Sedgesitters,pollinatedBy
+48582,,Platycheirus peltatus,,pollinatedBy
+48582,,Bombus lucorum,,pollinatedBy
+48582,,Bombus pascuorum,,pollinatedBy
+48582,905302,Lissodema denticolle,,preyedUponBy
+48582,,Lissodema cursor,,preyedUponBy

@@ -1,0 +1,135 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+153169,50862,Codium,Codiums,eats
+153169,67423,Ulva lactuca,broadleaf sea lettuce,eats
+153169,48216,Fucus vesiculosus,bladder wrack,eats
+153169,343398,Saccorhiza polyschides,Furbellow,eats
+153169,130178,Sargassum,Sargassum,eats
+153169,130197,Ulva intestinalis,Gutweed,eats
+153169,123632,Corallina officinalis,Common Coralline,eats
+153169,123631,Corallina,,eats
+153169,54644,Ulva,sea lettuces,eats
+153169,57777,Rhodomelaceae,,eats
+153169,128238,Laurencia,,eats
+153169,51021,Dictyota,Y-branched Algae,eats
+153169,85521,Harpacticoida,Harpacticoid Copepods,eats
+153169,1,Animalia,Animals,eats
+153169,53275,Chironomidae,Non-biting Midges,eats
+153169,47126,Plantae,plants,eats
+153169,68764,Ostracoda,Seed Shrimp,eats
+153169,85493,Crustacea,Crustaceans,eats
+153169,53707,Cladophora,,eats
+153169,47158,Insecta,Insects,eats
+153169,123875,Melosira,,eats
+153169,129737,Colpomenia peregrina,Oyster-thief,eats
+153169,343396,Bifurcaria bifurcata,,eats
+153169,502380,Leathesia marina,Sea Cauliflower,eats
+153169,57779,Asparagopsis armata,Harpoonweed,eats
+153169,182852,Sphacelaria cirrosa,,eats
+153169,461577,Ellisolandia elongata,,eats
+153169,,Cystoseira tamariscifolia,,eats
+153169,1027504,Ceramium ciliatum,,eats
+153169,,Dictyopteris membranacea,,eats
+153169,,Gelidium spinosum,,eats
+153169,203723,Ceramium virgatum,,eats
+153169,790283,Gelidium corneum,,eats
+153169,130231,Saccharina latissima,Sea Belt,eats
+153169,182991,Palmaria palmata,Dulse,eats
+153169,322821,Sargassum vulgare,,eats
+153169,51024,Dictyota dichotoma,Forked ribbons,eats
+153169,130204,Mastocarpus stellatus,false Irish moss,eats
+153169,130176,Chondrus crispus,Irish moss,eats
+153169,,Padina pavonia,,eats
+153169,505597,Cladophora rupestris,,eats
+153169,701524,Furcellaria lumbricalis,,eats
+153169,131323,Caulerpa webbiana,Bottlebrush green seaweed,eats
+153169,182858,Cladostephus spongiosus,,eats
+153169,,Osmundea ramosissima,,eats
+153169,543094,Lomentaria articulata,,eats
+153169,201435,Ulva linza,Green string lettuce,eats
+153169,,Polysiphonia sp.,,eats
+153169,342096,Halopteris filicina,,eats
+153169,322735,Cladophora prolifera,,eats
+153169,342095,Codium adhaerens,,eats
+153169,182834,Ectocarpus siliculosus,,eats
+153169,124745,Cystoseira,,eats
+153169,57772,Fucus serratus,Saw Wrack,eats
+153169,1027511,Tricleocarpa cylindrica,,eats
+153169,59732,Valonia,,eats
+153169,,Liagora,,eats
+153169,,Nemalion helminthoides,,eats
+153169,,Phytoplankton,,eats
+153169,59807,Gammarus,,eats
+153169,311291,Nitzschia,,eats
+153169,,Enteromorpha intestinalis,,eats
+153169,337827,Hediste diversicolor,Estuary Ragworm,eats
+153169,,Pilayella littoralis,,eats
+153169,182842,Ectocarpaceae,,eats
+153169,246074,Epithemia,,eats
+153169,377977,Resania,,eats
+153169,,Neogobius melanostomus,,eats
+153169,,Detritus,,eats
+153169,,Rhoicosphenia curvata,,eats
+153169,339306,Cocconeis,,eats
+153169,339308,Achnanthes,,eats
+153169,,Gnathostomata,,eats
+153169,,Arca,,eats
+153169,123888,Synedra,,eats
+153169,118603,Merluccius merluccius,European Hake,eatenBy
+153169,,Trisopterus minutus,,eatenBy
+153169,151483,Sepietta oweniana,Common Bobtail,eatenBy
+153169,153169,Palaemon elegans,Rockpool Prawn,preysOn
+153169,49532,Sphaeromatidae,Typical Seapills,preysOn
+153169,47490,Polychaeta,Polychaete Worms,preysOn
+153169,48836,Ophiuroidea,Brittle Stars,preysOn
+153169,121643,Copepoda,Copepods,preysOn
+153169,47158,Insecta,Insects,preysOn
+153169,85532,Mysida,Opossum Shrimps,preysOn
+153169,68764,Ostracoda,Seed Shrimp,preysOn
+153169,81791,Nereis,,preysOn
+153169,,Zooplankton,,preysOn
+153169,526549,Palaemon adspersus,Baltic prawn,preysOn
+153169,,Liza ramada,,preysOn
+153169,,Palaemon longirostris,,preysOn
+153169,94786,Atherina boyeri,Big-scale Sand Smelt,preysOn
+153169,83718,Tanaidacea,Tanaids,preysOn
+153169,118600,Sardina pilchardus,European Sardine,preysOn
+153169,118499,Ampithoidae,,preysOn
+153169,245524,Lysianassidae,,preysOn
+153169,,Anthura,,preysOn
+153169,340881,Calliopiidae,,preysOn
+153169,59806,Gammaridae,,preysOn
+153169,118669,Diplodus sargus,White Bream,preysOn
+153169,245452,Stenothoidae,,preysOn
+153169,,Harparticoida,,preysOn
+153169,60692,Munnidae,Spiderwitchers,preysOn
+153169,144115,Cumacea,Hooded Shrimp,preysOn
+153169,,Membranipora membranaceae,,preysOn
+153169,203392,Jaera,,preysOn
+153169,,Leucothoidae,,preysOn
+153169,47629,Caprella,,preysOn
+153169,64643,Amphilochidae,,preysOn
+153169,130385,Palaemon serratus,Common Prawn,preysOn
+153169,245471,Iphimediidae,,preysOn
+153169,194018,Spirorbis spirorbis,Coil Worm,preysOn
+153169,129493,Actinia fragacea,Strawberry Anemone,preyedUponBy
+153169,153169,Palaemon elegans,Rockpool Prawn,preyedUponBy
+153169,130085,Actinia equina,Beadlet anemone,preyedUponBy
+153169,52523,Carcinus maenas,European Green Crab,preyedUponBy
+153169,88563,Gobius,,preyedUponBy
+153169,210294,Lipophrys pholis,Shanny,preyedUponBy
+153169,47490,Polychaeta,Polychaete Worms,preyedUponBy
+153169,118706,Gobius paganellus,Rock Goby,preyedUponBy
+153169,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+153169,357623,Aulactinia verrucosa,Gem Anemone,preyedUponBy
+153169,118669,Diplodus sargus,White Bream,preyedUponBy
+153169,130385,Palaemon serratus,Common Prawn,preyedUponBy
+153169,526549,Palaemon adspersus,Baltic prawn,preyedUponBy
+153169,,Palaemon longirostris,,preyedUponBy
+153169,118704,Gobius niger,Black Goby,preyedUponBy
+153169,,Liza ramada,,preyedUponBy
+153169,210219,Necora puber,Velvet Swimming Crab,preyedUponBy
+153169,195201,Pachygrapsus transversus,Mottled Shore Crab,preyedUponBy
+153169,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+153169,,Anemonia sargassensis,,preyedUponBy
+153169,,Trisopterus minutus,,preyedUponBy
+153169,151483,Sepietta oweniana,Common Bobtail,preyedUponBy

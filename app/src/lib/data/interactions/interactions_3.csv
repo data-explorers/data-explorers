@@ -1,0 +1,421 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3,48033,Paracentrotus,,eats
+3,52524,Carcinus,Green Crabs,eats
+3,47827,Cancer,,eats
+3,85493,Crustacea,Crustaceans,eats
+3,47178,Actinopterygii,Ray-finned Fishes,eats
+3,47459,Cephalopoda,Cephalopods,eats
+3,47158,Insecta,Insects,eats
+3,47126,Plantae,plants,eats
+3,47170,Fungi,Fungi Including Lichens,eats
+3,47120,Arthropoda,Arthropods,eats
+3,3,Aves,Birds,eats
+3,117607,Nephtys,Nephthys's Sand-worms,eats
+3,47414,Emerita analoga,Pacific Sand Crab,eats
+3,47628,Amphipoda,Amphipods,eats
+3,47118,Araneae,Spiders,eats
+3,47157,Lepidoptera,Butterflies and Moths,eats
+3,47584,Bivalvia,Bivalves,eats
+3,47822,Diptera,Flies,eats
+3,48201,Scarabaeidae,Scarabs,eats
+3,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+3,85553,Serpentes,Snakes,eats
+3,51225,Tipulidae,Large Crane Flies,eats
+3,53275,Chironomidae,Non-biting Midges,eats
+3,47232,Carangidae,Jacks,eats
+3,57298,Hemiramphidae,Halfbeaks,eats
+3,51911,Engraulidae,Anchovies,eats
+3,47686,Protozoa,protozoans,eats
+3,320326,Ciliata mustela,Five-bearded Rockling,eats
+3,48548,Vanessa cardui,Painted Lady,eats
+3,55746,Misumena vatia,Goldenrod Crab Spider,eats
+3,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+3,1,Animalia,Animals,eats
+3,41687,Phocidae,Earless Seals,eats
+3,41573,Carnivora,Carnivorans,eats
+3,92583,Trachurus,Jack Mackerels,eats
+3,53816,Tenebrionidae,Darkling Beetles,eats
+3,26172,Squamata,Snakes and Lizards,eats
+3,48301,Zygentoma,Silverfishes,eats
+3,46927,Talpidae,Moles and Desmans,eats
+3,48173,Pagurus,,eats
+3,47186,Decapoda,Decapods,eats
+3,47190,Grapsidae,Shore Crabs,eats
+3,62807,Mytilus,Black Mussels,eats
+3,8010,Corvus corax,Common Raven,eats
+3,53738,Ocypode,Ghost Crabs,eats
+3,,predatory invertebrates,,eats
+3,,defoliating invertebrates,,eats
+3,210120,Marthasterias,Long-armed Starfishes,eats
+3,210219,Necora puber,Velvet Swimming Crab,eats
+3,344134,Euphausia superba,Antarctic Krill,eats
+3,,plankton,,eats
+3,,canopy--leaves,,eats
+3,,leaves and trunks,,eats
+3,,Detritus,,eats
+3,,Paracoenia turbida,,eats
+3,,herbivores,,eats
+3,,Magnoliophyta,,eats
+3,,Lumbrinereis,,eats
+3,,filter feeders,,eats
+3,,meibenthos,,eats
+3,,deposit feeders,,eats
+3,107885,Oreochromis leucostictus,Blue-spotted Tilapia,eats
+3,44186,Gerbillus,Typical Gerbils,eats
+3,388132,Ctenarytaina thysanura,,eats
+3,846233,Talpinae,Old World Moles and Desmans,eats
+3,,Typhlosaurus,,eats
+3,,Aporosaura,,eats
+3,,Microcoelepis,,eats
+3,,Lamproscatella dichaeta,,eats
+3,49692,Scaridae,Parrotfishes,eats
+3,,Phytoplankton,,eats
+3,,Chondrichthyes,,eats
+3,118600,Sardina pilchardus,European Sardine,eats
+3,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+3,51910,Engraulis encrasicolus,European Anchovy,eats
+3,,Solea vulgaris,,eats
+3,,Trigla lucerna,,eats
+3,210231,Cerastoderma,,eats
+3,344748,Pomatoschistus minutus,Sand Goby,eats
+3,118589,Conger conger,European Conger,eats
+3,482055,Perla bipunctata,Large Stonefly,eats
+3,492291,Stenophylax,,eats
+3,546195,Crunoecia irrorata,,eats
+3,416524,Serratella ignita,Blue-winged Olive,eats
+3,1086691,Caenis rivulorum,,eats
+3,482058,Isoperla grammatica,Yellow Sally Stonefly,eats
+3,459194,Tinodes waeneri,Small Red Sedge,eats
+3,482056,Dinocras cephalotes,Large Stonefly,eats
+3,321932,Agapetus fuscipes,,eats
+3,541774,Simulium reptans,,eats
+3,498562,Hydropsyche instabilis,,eats
+3,505410,Polycentropus flavomaculatus,,eats
+3,,Limnophilus,,eats
+3,482050,Rhyacophila dorsalis,Sandfly Caddisfly,eats
+3,177738,Hydroptila,,eats
+3,546250,Plectrocnemia conspersa,,eats
+3,97990,Clupea harengus,Atlantic Herring,eats
+3,233277,Urophycis tenuis,White Hake,eats
+3,69842,Scomber,,eats
+3,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+3,5277,Elanus leucurus,White-tailed Kite,eatenBy
+3,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+3,558446,Circus hudsonius,Northern Harrier,eatenBy
+3,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+3,4672,Falco columbarius,Merlin,eatenBy
+3,20445,Tyto alba,Barn Owl,eatenBy
+3,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+3,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+3,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+3,20044,Bubo virginianus,Great Horned Owl,eatenBy
+3,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+3,19893,Strix varia,Barred Owl,eatenBy
+3,4665,Falco sparverius,American Kestrel,eatenBy
+3,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+3,8010,Corvus corax,Common Raven,eatenBy
+3,7998,Corvus,Crows and Ravens,eatenBy
+3,8021,Corvus brachyrhynchos,American Crow,eatenBy
+3,4756,Cathartes aura,Turkey Vulture,eatenBy
+3,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+3,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+3,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+3,42054,Vulpes,Typical Foxes,eatenBy
+3,3,Aves,Birds,eatenBy
+3,85553,Serpentes,Snakes,eatenBy
+3,67570,Falconiformes,Falcons and Caracaras,eatenBy
+3,47822,Diptera,Flies,eatenBy
+3,44540,Rattus,Old World Rats,eatenBy
+3,53738,Ocypode,Ghost Crabs,eatenBy
+3,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+3,41777,Lontra canadensis,North American River Otter,eatenBy
+3,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+3,4385,Larus californicus,California Gull,eatenBy
+3,116999,Pandion haliaetus,Osprey,eatenBy
+3,42007,Puma concolor,Mountain Lion,eatenBy
+3,46272,Glaucomys volans,Southern Flying Squirrel,eatenBy
+3,28362,Thamnophis sirtalis,Common Garter Snake,eatenBy
+3,46020,Sciurus niger,Fox Squirrel,eatenBy
+3,43584,Homo sapiens,Human,eatenBy
+3,41687,Phocidae,Earless Seals,eatenBy
+3,3901,Numenius phaeopus,Whimbrel,eatenBy
+3,41740,Zalophus californianus,California Sea Lion,eatenBy
+3,19350,Strigiformes,Owls,eatenBy
+3,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,eatenBy
+3,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+3,187047,Allothunnus fallai,Slender tuna,eatenBy
+3,118597,Belone belone,Garfish,eatenBy
+3,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+3,42051,Canis latrans,Coyote,eatenBy
+3,41976,Lynx rufus,Bobcat,eatenBy
+3,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+3,42069,Vulpes vulpes,Red Fox,eatenBy
+3,41663,Procyon lotor,Common Raccoon,eatenBy
+3,26041,Crocodylidae,Crocodiles,eatenBy
+3,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+3,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+3,128824,Lucilia sericata,Common European Greenbottle Fly,eatenBy
+3,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+3,20413,Tytonidae,Barn-Owls,eatenBy
+3,449683,Phormia regina,Black Blow Fly,eatenBy
+3,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+3,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+3,558512,Lanius borealis,Northern Shrike,eatenBy
+3,5017,Bubulcus ibis,Cattle Egret,eatenBy
+3,4657,Falco rusticolus,Gyrfalcon,eatenBy
+3,20307,Asio otus,Long-eared Owl,eatenBy
+3,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+3,4644,Falco mexicanus,Prairie Falcon,eatenBy
+3,20315,Asio flammeus,Short-eared Owl,eatenBy
+3,19890,Strix nebulosa,Great Gray Owl,eatenBy
+3,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+3,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+3,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+3,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+3,19798,Megascops trichopsis,Whiskered Screech-Owl,eatenBy
+3,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+3,19959,Strix occidentalis,Spotted Owl,eatenBy
+3,19975,Athene cunicularia,Burrowing Owl,eatenBy
+3,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+3,20359,Aegolius funereus,Boreal Owl,eatenBy
+3,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+3,144594,Bubo scandiacus,Snowy Owl,eatenBy
+3,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+3,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+3,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+3,199913,Buteo plagiatus,Gray Hawk,eatenBy
+3,5355,Parabuteo unicinctus,Harris's Hawk,eatenBy
+3,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+3,201043,Geranoaetus albicaudatus,White-tailed Hawk,eatenBy
+3,,Aquila chrysaetos,,eatenBy
+3,4636,Fregata minor,Great Frigatebird,eatenBy
+3,4645,Falco femoralis,Aplomado Falcon,eatenBy
+3,4368,Larus marinus,Great Black-backed Gull,eatenBy
+3,204533,Larus argentatus,Herring Gull,eatenBy
+3,542,Coturnicops noveboracensis,Yellow Rail,eatenBy
+3,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+3,338752,Artemisiospiza nevadensis,Sagebrush Sparrow,eatenBy
+3,,Corvus caurinus,,eatenBy
+3,143853,Pica hudsonia,Black-billed Magpie,eatenBy
+3,8319,Pica nuttalli,Yellow-billed Magpie,eatenBy
+3,199833,Antrostomus carolinensis,Chuck-will's-widow,eatenBy
+3,56036,Kniphofia,Pokers,pollinates
+3,47452,Acacia,wattles,pollinates
+3,82771,Erythrina,Coral trees,pollinates
+3,154711,Cyanea,Lion's Mane Jellies,pollinates
+3,48038,Lobelia cardinalis,cardinal flower,pollinates
+3,153022,Cuphea,Cigar plants,pollinates
+3,,Dracaena konaensis,,pollinates
+3,925859,Limonium gerberi,,pollinates
+3,125153,Erythrina sandwicensis,Wiliwili,pollinates
+3,72358,Sesbania,riverhemps,pollinates
+3,122525,Freycinetia arborea,'ie'ie,pollinates
+3,163775,Hibiscus waimeae,Kaua'i White Hibiscus,pollinates
+3,60447,Metrosideros polymorpha,'ohi'a lehua,pollinates
+3,159241,Bidens cosmoides,cosmosflower beggarticks,pollinates
+3,48891,Hibiscus,hibiscuses,pollinates
+3,157837,Abutilon eremitopetalum,Hiddenpetal Indian Mallow,pollinates
+3,168425,Santalum freycinetianum,Mountain Sandalwood,pollinates
+3,160727,Clermontia montis-loa,Mauna Loa clermontia,pollinates
+3,161648,Delissea rhytidosperma,Kauai delissea,pollinates
+3,157153,Claoxylon,,pollinates
+3,70036,Sophora chrysophylla,Māmane,pollinates
+3,126839,Abutilon menziesii,Ko'oloa 'ula,pollinates
+3,160722,Clermontia hawaiiensis,‘ōhā kēpau,pollinates
+3,122717,Hibiscus kokio,Red Rosemallow,pollinates
+3,163762,Hibiscus clayi,Clay's hibiscus,pollinates
+3,67750,Hibiscus arnottianus,White Rosemallow,pollinates
+3,67928,Cheirodendron trigynum,ʻŌlapa,pollinates
+3,156564,Pritchardia,Loulu Palms,pollinates
+3,67940,Clermontia,'ōhā wai,pollinates
+3,224065,Lobelia niihauensis,Ni'ihau lobelia,pollinates
+3,120676,Trachurus picturatus,Blue Jack Mackerel,preysOn
+3,1,Animalia,Animals,preysOn
+3,47178,Actinopterygii,Ray-finned Fishes,preysOn
+3,47459,Cephalopoda,Cephalopods,preysOn
+3,41573,Carnivora,Carnivorans,preysOn
+3,62807,Mytilus,Black Mussels,preysOn
+3,52524,Carcinus,Green Crabs,preysOn
+3,320326,Ciliata mustela,Five-bearded Rockling,preysOn
+3,53275,Chironomidae,Non-biting Midges,preysOn
+3,47628,Amphipoda,Amphipods,preysOn
+3,51225,Tipulidae,Large Crane Flies,preysOn
+3,4783,Charadriidae,Plovers and Lapwings,preysOn
+3,47186,Decapoda,Decapods,preysOn
+3,48173,Pagurus,,preysOn
+3,3,Aves,Birds,preysOn
+3,41687,Phocidae,Earless Seals,preysOn
+3,47584,Bivalvia,Bivalves,preysOn
+3,121643,Copepoda,Copepods,preysOn
+3,46017,Sciurus carolinensis,Eastern Gray Squirrel,preysOn
+3,48662,Danaus plexippus,Monarch,preysOn
+3,67731,Anax junius,Common Green Darner,preysOn
+3,44311,Microtus pennsylvanicus,Meadow Vole,preysOn
+3,67737,Rhionaeschna multicolor,Blue-eyed Darner,preysOn
+3,52381,Aphididae,Aphids,preysOn
+3,317152,Hygophum benoiti,,preysOn
+3,118600,Sardina pilchardus,European Sardine,preysOn
+3,82352,Merlucciidae,Merlucciid Hakes,preysOn
+3,1248690,Amoya moloanus,,preysOn
+3,99979,Engraulis ringens,Peruvian Anchoveta,preysOn
+3,317449,Vinciguerria attenuata,Slender Lightfish,preysOn
+3,,Etrumeus teres,,preysOn
+3,,other pelagics,,preysOn
+3,,chub mackerel,,preysOn
+3,51391,Tautogolabrus,,preysOn
+3,,deposit feeders,,preysOn
+3,,filter feeders,,preysOn
+3,,Pisces,,preysOn
+3,,Solea vulgaris,,preysOn
+3,344748,Pomatoschistus minutus,Sand Goby,preysOn
+3,51910,Engraulis encrasicolus,European Anchovy,preysOn
+3,210232,Scrobicularia plana,Peppery Furrow Shell,preysOn
+3,210231,Cerastoderma,,preysOn
+3,49236,Clupeidae,"Shads, Sardines, and Menhadens",preysOn
+3,118589,Conger conger,European Conger,preysOn
+3,,Trigla lucerna,,preysOn
+3,,carnivorous plankton,,preysOn
+3,,other herbivorous plankton,,preysOn
+3,344134,Euphausia superba,Antarctic Krill,preysOn
+3,27380,Desmognathus,Dusky Salamanders,preysOn
+3,25459,Xenopus muelleri,Müller's Platanna,preysOn
+3,26695,Scaphiopus holbrookii,Eastern Spadefoot,preysOn
+3,27186,Plethodon cinereus,Eastern Red-backed Salamander,preysOn
+3,,P. turbida pupae,,preysOn
+3,,Microcoelepis sp.,,preysOn
+3,,Lamproscatella dichaeta,,preysOn
+3,,P. turbida larvae,,preysOn
+3,41724,Hydrurga leptonyx,Leopard Seal,preysOn
+3,42251,Gazella,Slender Gazelles,preysOn
+3,92650,Triportheus,,preysOn
+3,91798,Roeboides,,preysOn
+3,,G. balzanii,,preysOn
+3,90007,Moenkhausia,,preysOn
+3,86705,Astyanax,,preysOn
+3,87965,Diplodon,,preysOn
+3,,Kincaidi,,preysOn
+3,,Atlantic silverside and bay anchovies,,preysOn
+3,,Blue crabs,,preysOn
+3,,Omnivorous crabs,,preysOn
+3,,Sheepshead minnow,,preysOn
+3,69955,Ariidae,Sea Catfishes,preysOn
+3,,Small Zoo,,preysOn
+3,91866,Sardinella,Sardinellas,preysOn
+3,,Large Zoo,,preysOn
+3,,Small pelagics,,preysOn
+3,,Miscelaneous,,preysOn
+3,,Zooplankton,,preysOn
+3,,Chub mackerel,,preysOn
+3,,Other pelagics,,preysOn
+3,55387,Esox lucius,Northern Pike,preysOn
+3,,Lumbrinereis,,preysOn
+3,211518,Notomastus,,preysOn
+3,,juvenile of high carnivores,,preysOn
+3,,blue crabs,,preysOn
+3,,Pipturus argenteus,,preysOn
+3,61495,Erythemis simplicicollis,Eastern Pondhawk,preysOn
+3,68233,Orthemis ferruginea,Roseate Skimmer,preysOn
+3,20356,Aegolius acadicus,Northern Saw-whet Owl,preysOn
+3,100215,Epitheca princeps,Prince Baskettail,preysOn
+3,61508,Ischnura elegans,Blue-tailed Damselfly,preysOn
+3,59776,Perithemis tenera,Eastern Amberwing,preysOn
+3,146199,Lampropeltis californiae,California King Snake,preyedUponBy
+3,29044,Pituophis catenifer,Gopher Snake,preyedUponBy
+3,3,Aves,Birds,preyedUponBy
+3,41687,Phocidae,Earless Seals,preyedUponBy
+3,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+3,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+3,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+3,4756,Cathartes aura,Turkey Vulture,preyedUponBy
+3,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+3,4665,Falco sparverius,American Kestrel,preyedUponBy
+3,19893,Strix varia,Barred Owl,preyedUponBy
+3,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+3,558446,Circus hudsonius,Northern Harrier,preyedUponBy
+3,5085,Accipiter,Accipiters,preyedUponBy
+3,8021,Corvus brachyrhynchos,American Crow,preyedUponBy
+3,8010,Corvus corax,Common Raven,preyedUponBy
+3,539696,Erythrolamprus reginae,Royal Ground Snake,preyedUponBy
+3,28627,Spilotes pullatus,Chicken Snake,preyedUponBy
+3,27149,Coluber constrictor constrictor,Northern Black Racer,preyedUponBy
+3,29178,Oxybelis fulgidus,Green Vine Snake,preyedUponBy
+3,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+3,28246,Arizona elegans,Glossy Snake,preyedUponBy
+3,26969,Coniophanes schmidti,Faded Black-striped Snake,preyedUponBy
+3,540223,Spilotes sulphureus,Amazon Puffing Snake,preyedUponBy
+3,29105,Philodryas olfersii,Lichtenstein's Green Racer,preyedUponBy
+3,540088,Phrynonax poecilonotus,Puffing Snake,preyedUponBy
+3,,Coluber flagellum,,preyedUponBy
+3,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+3,73887,Pantherophis guttatus,Corn Snake,preyedUponBy
+3,,Mastigodryas bifossatus,,preyedUponBy
+3,29104,Philodryas nattereri,Paraguay Green Racer,preyedUponBy
+3,540089,Phrynonax polylepis,Cutlass,preyedUponBy
+3,146320,Oxyrhopus petolarius,Forest Flame Snake,preyedUponBy
+3,28256,Tropidodryas striaticeps,Jiboinha,preyedUponBy
+3,60347,Pituophis catenifer sayi,Bullsnake,preyedUponBy
+3,30729,Crotalus pricei,Twin-spotted Rattlesnake,preyedUponBy
+3,,Corallus hortulanus,,preyedUponBy
+3,966787,Natrix natrix,grass snake,preyedUponBy
+3,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+3,32127,Aspidites melanocephalus,Black-headed Python,preyedUponBy
+3,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+3,29111,Philodryas baroni,Baron's Green Racer,preyedUponBy
+3,,Elachistodon westermanni,,preyedUponBy
+3,,Ahaetulla nasuta,,preyedUponBy
+3,26717,Dasypeltis scabra,Egg-eating Snake,preyedUponBy
+3,27623,Boiga dendrophila,Gold-ringed Cat Snake,preyedUponBy
+3,27700,Boiga cynodon,Dog-toothed Cat Snake,preyedUponBy
+3,30853,Bitis gabonica,Gaboon Viper,preyedUponBy
+3,32170,Morelia spilota variegata,Darwin Carpet Python,preyedUponBy
+3,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+3,94205,Antaresia childreni,Children's Python,preyedUponBy
+3,95862,Boiga ceylonensis,Sri Lanka Cat Snake,preyedUponBy
+3,114565,Tropidodryas serra,Serra Snake,preyedUponBy
+3,27657,Boiga nigriceps,Black-headed Cat Snake,preyedUponBy
+3,30877,Atheris squamigera,African Bush Viper,preyedUponBy
+3,540328,Zamenis scalaris,Ladder Snake,preyedUponBy
+3,32191,Liasis fuscus,Water Python,preyedUponBy
+3,27697,Boiga cyanea,Green Cat Snake,preyedUponBy
+3,115434,Boa constrictor constrictor,Amazonian Boa Constrictor,preyedUponBy
+3,,Gonionotophis capensis,,preyedUponBy
+3,27665,Boiga ochracea,Tawny Cat Snake,preyedUponBy
+3,,Boa constrictor amarali,,preyedUponBy
+3,539420,Bothrops pauloensis,Cerrado Lancehead,preyedUponBy
+3,68340,Elaphe quadrivirgata,Japanese Four-lined Ratsnake,preyedUponBy
+3,30477,Naja nigricincta,Western Barred Spitting Cobra,preyedUponBy
+3,146403,Rhachidelus brazili,Brazilian Bird Snake,preyedUponBy
+3,29168,Oxyrhopus clathratus,Duméril's False Coral Snake,preyedUponBy
+3,146045,Corallus blombergi,Ecuadorian Annulated Tree Boa,preyedUponBy
+3,32158,Python regius,Ball Python,preyedUponBy
+3,30784,Bothrops moojeni,Brazilian Lancehead,preyedUponBy
+3,32314,Tropidophis melanurus,Cuban Dwarf Boa,preyedUponBy
+3,95802,Bitis caudalis,Horned Adder,preyedUponBy
+3,27650,Boiga trigonata,Common Cat Snake,preyedUponBy
+3,30358,Dispholidus typus,Boomslang,preyedUponBy
+3,35083,Tropidechis carinatus,Rough-scaled Snake,preyedUponBy
+3,539416,Bothrops itapetiningae,São Paulo Lancehead,preyedUponBy
+3,539421,Bothrops pubescens,,preyedUponBy
+3,32194,Liasis olivaceus,Olive Python,preyedUponBy
+3,27673,Boiga kraepelini,Kelung Cat Snake,preyedUponBy
+3,30798,Bothrops asper,Terciopelo,preyedUponBy
+3,98399,Corallus cookii,Cook's Tree Boa,preyedUponBy
+3,27722,Toxicodryas blandingii,Blandings Tree Snake,preyedUponBy
+3,30743,Crotalus lepidus klauberi,Banded Rock Rattlesnake,preyedUponBy
+3,30488,Naja mossambica,Mozambique Spitting Cobra,preyedUponBy
+3,27661,Boiga siamensis,Eyed Cat Snake,preyedUponBy
+3,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+3,966698,Vipera berus,Adder,preyedUponBy
+3,95863,Boiga drapiezii,White-spotted Cat Snake,preyedUponBy
+3,27678,Boiga multomaculata,Many-spotted Cat Snake,preyedUponBy
+3,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+3,95916,Bothrops leucurus,Whitetail Lancehead,preyedUponBy
+3,115772,Leptophis ahaetulla marginatus,,preyedUponBy
+3,27720,Toxicodryas pulverulenta,Fischer's Cat Snake,preyedUponBy
+3,32213,Eunectes murinus,Green Anaconda,preyedUponBy
+3,30924,Vipera latastei,Lataste's Viper,preyedUponBy
+3,30767,Bothrops,Neotropical Lanceheads,preyedUponBy
+3,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+3,,Pseustes poecilonotus,,preyedUponBy
+3,28958,Psammophis sibilans,Hissing Sand Snake,preyedUponBy
+3,35270,Echiopsis curta,Bardick,preyedUponBy

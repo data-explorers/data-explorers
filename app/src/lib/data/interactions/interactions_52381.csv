@@ -1,0 +1,164 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52381,49671,Phoradendron,leafy mistletoes,eats
+52381,47561,Pinus,pines,eats
+52381,78882,Rosa multiflora,multiflora rose,eats
+52381,53269,Sonchus asper,prickly sowthistle,eats
+52381,53211,Senecio vulgaris,common groundsel,eats
+52381,402509,Pilosella officinarum,mouse-eared hawkweed,eats
+52381,632790,Asteroideae,,eats
+52381,211194,Tracheophyta,vascular plants,eats
+52381,,no name,,eats
+52381,,Erechtites minimus,,eats
+52381,,Senecio glomeratus,,eats
+52381,,Senecio hispidulus,,eats
+52381,75751,Berberis darwinii,Darwin's Barberry,eats
+52381,,Erechtites valerianifolius,,eats
+52381,79052,Senecio quadridentatus,cotton burnweed,eats
+52381,,Cardamine hirsuta,,eats
+52381,,Pergularia daemia,,eats
+52381,,Tuberolachnus salignus,,eats
+52381,,Fumaria capreolata,,eats
+52381,,Tecoma stans,,eats
+52381,,Espeletia grandiflora,,eats
+52381,,Schefflera,,eats
+52381,,Magnoliophyta,,eats
+52381,,Populus tremula,,eats
+52381,313246,Olla v-nigrum,Ashy Gray Lady Beetle,eatenBy
+52381,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+52381,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+52381,55489,Cycloneda munda,Polished Lady Beetle,eatenBy
+52381,117095,Regulus calendula,Ruby-crowned Kinglet,eatenBy
+52381,479803,Dioprosopa clavata,Four-speckled Hover Fly,eatenBy
+52381,309466,Aphis gossypii,Melon Aphid,eatenBy
+52381,47336,Formicidae,Ants,eatenBy
+52381,47118,Araneae,Spiders,eatenBy
+52381,10469,Xanthocephalus,,eatenBy
+52381,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+52381,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+52381,145238,Setophaga petechia,Yellow Warbler,eatenBy
+52381,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+52381,10247,Setophaga ruticilla,American Redstart,eatenBy
+52381,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+52381,145242,Setophaga palmarum,Palm Warbler,eatenBy
+52381,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+52381,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+52381,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+52381,14850,Sturnus vulgaris,European Starling,eatenBy
+52381,11867,Progne subis,Purple Martin,eatenBy
+52381,14823,Sitta canadensis,Red-breasted Nuthatch,eatenBy
+52381,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+52381,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+52381,7294,Eremophila alpestris,Horned Lark,eatenBy
+52381,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+52381,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+52381,145310,Spinus tristis,American Goldfinch,eatenBy
+52381,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+52381,47518,Salmo trutta,Brown Trout,eatenBy
+52381,114127,Thymallus thymallus,Grayling,eatenBy
+52381,226221,Oecanthus niveus,Narrow-winged Tree Cricket,eatenBy
+52381,,Chrysopis,,eatenBy
+52381,,Sitta pygmaea,,eatenBy
+52381,,Coelophora inaequalis,,eatenBy
+52381,,Picoides pubescens,,eatenBy
+52381,,Eupeodes pomus,,eatenBy
+52381,245656,Synema globosum,Napoleon Spider,eatenBy
+52381,,Frontinellina frutetorum,,eatenBy
+52381,,Geocoris megacephalus,,eatenBy
+52381,,Propylea quatuordecimpunctata,,eatenBy
+52381,,Anostirus castaneus,,eatenBy
+52381,360081,Ebrechtella tricuspidata,Triangle Crab Spider,eatenBy
+52381,,Hippodamia variegata,,eatenBy
+52381,486706,Dasysyrphus tricinctus,Yellow-girdled Fleckwing,eatenBy
+52381,,Perlodes microcephalus,,eatenBy
+52381,,Dendrocopos medius,,eatenBy
+52381,,Dendrocopos minor,,eatenBy
+52381,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+52381,,Aphidophagous predator (Parasyrphus tarsatus),,eatenBy
+52381,,Parasitoid (Diceretiella rapae),,eatenBy
+52381,245043,Cunaxidae,,eatenBy
+52381,,Chrysopis sp.,,eatenBy
+52381,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+52381,196805,Allotinus,,eatenBy
+52381,130782,Chilades,Jewel Blues,eatenBy
+52381,,Miletus biggsii,,eatenBy
+52381,,Miletus chinensis,,eatenBy
+52381,949,Lagopus muta,Rock Ptarmigan,eatenBy
+52381,,Salpinctes obsoletus,,eatenBy
+52381,,Oporornis philadelphia,,eatenBy
+52381,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+52381,979756,Leiothlypis peregrina,Tennessee Warbler,eatenBy
+52381,145236,Setophaga castanea,Bay-breasted Warbler,eatenBy
+52381,,Setophaga tigrina,,eatenBy
+52381,,Wilsonia canadensis,,eatenBy
+52381,,Alectoris chukar,,eatenBy
+52381,7603,Auriparus flaviceps,Verdin,eatenBy
+52381,,Calidris maritima,,eatenBy
+52381,17408,Vireo griseus,White-eyed Vireo,eatenBy
+52381,,Setophaga pinus,,eatenBy
+52381,,Dendroica kirtlandii,,eatenBy
+52381,144479,Gallinula galeata,Common Gallinule,eatenBy
+52381,145360,Chloris chloris,European Greenfinch,eatenBy
+52381,,Carduelis carduelis,,eatenBy
+52381,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+52381,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+52381,,Corvus caurinus,,eatenBy
+52381,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+52381,,Dryobates albolarvatus,,eatenBy
+52381,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+52381,6667,Cypseloides niger,Black Swift,eatenBy
+52381,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+52381,,Cynanthus latirostris,,eatenBy
+52381,559084,Eugenes fulgens,Rivoli's Hummingbird,eatenBy
+52381,5017,Bubulcus ibis,Cattle Egret,eatenBy
+52381,376148,Dasytes,,pollinates
+52381,56611,Philodromus,,preyedUponBy
+52381,124431,Cycloneda sanguinea,Spotless Lady Beetle,preyedUponBy
+52381,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,preyedUponBy
+52381,48484,Harmonia axyridis,Asian Lady Beetle,preyedUponBy
+52381,48987,Hippodamia convergens,Convergent Lady Beetle,preyedUponBy
+52381,62455,Eupeodes,Aphideaters,preyedUponBy
+52381,963010,Eupeodes americanus,,preyedUponBy
+52381,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+52381,47866,Thomisidae,Crab Spiders,preyedUponBy
+52381,47951,Staphylinidae,Rove Beetles,preyedUponBy
+52381,48124,Tettigoniidae,Katydids,preyedUponBy
+52381,47118,Araneae,Spiders,preyedUponBy
+52381,47793,Dermaptera,Earwigs,preyedUponBy
+52381,48486,Coccinellidae,Lady Beetles,preyedUponBy
+52381,3,Aves,Birds,preyedUponBy
+52381,48763,Neuroptera,"Antlions, Lacewings, and Allies",preyedUponBy
+52381,,Propylea quatuordecimpunctata,,preyedUponBy
+52381,,Heliophanus tribulosus,,preyedUponBy
+52381,,Coccinella undecimpunctata,,preyedUponBy
+52381,,Apolinus lividigaster,,preyedUponBy
+52381,,Adalia bipunctata,,preyedUponBy
+52381,,Picoides pubescens,,preyedUponBy
+52381,194656,Zeugomantispa minuta,Green Mantidfly,preyedUponBy
+52381,,Setophaga caerulescens,,preyedUponBy
+52381,,Phidippus whitmani,,preyedUponBy
+52381,,Deraeocoris ruber,,preyedUponBy
+52381,,Ochetellus glaber,,preyedUponBy
+52381,,Sitticus caricis,,preyedUponBy
+52381,129878,Nabidae,Damsel Bugs,preyedUponBy
+52381,123596,Chilocorus bipustulatus,Heather Ladybird,preyedUponBy
+52381,226195,Ochthephilum fracticorne,,preyedUponBy
+52381,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+52381,1151405,Lesteva sicula,,preyedUponBy
+52381,,Ensifera,,preyedUponBy
+52381,,Chrysotus cilipes,,preyedUponBy
+52381,547275,Antistea elegans,,preyedUponBy
+52381,131943,Rugilus rufipes,,preyedUponBy
+52381,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+52381,,Nestus,,preyedUponBy
+52381,784201,Liocranoeca striata,,preyedUponBy
+52381,,Pirata,,preyedUponBy
+52381,1017714,Stenus carbonarius,,preyedUponBy
+52381,1017741,Stenus ruralis,,preyedUponBy
+52381,,Heringia,,preyedUponBy
+52381,,Neocnemodon,,preyedUponBy
+52381,,Pilophorus perplexus,,preyedUponBy
+52381,,Aphidius colemani,,preyedUponBy
+52381,410619,Aphidoletes aphidimyza,,preyedUponBy
+52381,,Cyanistes caeruleus,,preyedUponBy
+52381,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+52381,40446,Vespertilio murinus,Particoloured Bat,preyedUponBy

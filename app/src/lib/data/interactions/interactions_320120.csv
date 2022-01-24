@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+320120,225227,Monoporeia affinis,,eatenBy
+320120,1110630,Pontoporeia femorata,,eatenBy
+320120,1161102,Geminigera cryophila,,preysOn
+320120,,unknown_cryptomonad unknown_cryptomonad,,preysOn
+320120,1018656,Teleaulax acuta,,preysOn
+320120,1018657,Teleaulax amphioxeia,,preysOn
+320120,485904,Dinophysis caudata,,preyedUponBy
+320120,320121,Dinophysis acuminata,,preyedUponBy
+320120,,Dinophysis infundibulum,,preyedUponBy
+320120,,Dinophysis fortii,,preyedUponBy

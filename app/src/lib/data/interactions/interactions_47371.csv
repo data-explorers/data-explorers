@@ -1,0 +1,205 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47371,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47371,7603,Auriparus flaviceps,Verdin,eatenBy
+47371,,Corvus caurinus,,eatenBy
+47371,,Sardinidion blackwalli,,eatenBy
+47371,48987,Hippodamia convergens,Convergent Lady Beetle,preysOn
+47371,50786,Vanessa annabella,West Coast Lady,preysOn
+47371,61903,Xysticus,Ground Crab Spiders,preysOn
+47371,49567,Carabidae,Ground Beetles,preysOn
+47371,47951,Staphylinidae,Rove Beetles,preysOn
+47371,47367,Opiliones,Harvestmen,preysOn
+47371,56083,Armadillidium vulgare,Common Pill Woodlouse,preysOn
+47371,47866,Thomisidae,Crab Spiders,preysOn
+47371,52425,Chrysopidae,Green Lacewings,preysOn
+47371,52073,Fulgoroidea,Planthoppers,preysOn
+47371,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+47371,53275,Chironomidae,Non-biting Midges,preysOn
+47371,61267,Heteroptera,True Bugs,preysOn
+47371,53237,Cicadellidae,Typical Leafhoppers,preysOn
+47371,47742,Pentatomidae,Stink Bugs,preysOn
+47371,47118,Araneae,Spiders,preysOn
+47371,373577,Typhlocybinae,,preysOn
+47371,62164,Trichoptera,Caddisflies,preysOn
+47371,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+47371,47339,Formica,"Wood, Mound, and Field Ants",preysOn
+47371,81769,Blattodea,Cockroaches and Termites,preysOn
+47371,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+47371,56189,Philaenus spumarius,Meadow spittlebug,preysOn
+47371,47208,Coleoptera,Beetles,preysOn
+47371,47371,Theridiidae,Cobweb Spiders,preysOn
+47371,48139,Salticidae,Jumping Spiders,preysOn
+47371,176197,Otiorhynchus,,preysOn
+47371,126791,Nitidulidae,Sap-feeding Beetles,preysOn
+47371,47535,Araneidae,Orbweavers,preysOn
+47371,53248,Elateridae,Click Beetles,preysOn
+47371,57652,Trombidiidae,True Velvet Mites,preysOn
+47371,47868,Philodromidae,Running Crab Spiders,preysOn
+47371,53816,Tenebrionidae,Darkling Beetles,preysOn
+47371,132449,Serica,,preysOn
+47371,203350,Anacaena limbata,,preysOn
+47371,153636,Zelotes,,preysOn
+47371,991295,Erichsonius cinerascens,,preysOn
+47371,,Diplocampa assimile,,preysOn
+47371,554158,Chartoscirta cincta,,preysOn
+47371,123608,Delphacidae,,preysOn
+47371,,Pteronemobius heydenii,,preysOn
+47371,1151405,Lesteva sicula,,preysOn
+47371,131943,Rugilus rufipes,,preysOn
+47371,173319,Brachygluta,,preysOn
+47371,52380,Aphidoidea,,preysOn
+47371,,Carpelimus manchuricus subtilicornis,,preysOn
+47371,,Comantenna,,preysOn
+47371,,Dryops auriculatus,,preysOn
+47371,130583,Anotylus,,preysOn
+47371,,Jassinae,,preysOn
+47371,131962,Stenus,,preysOn
+47371,,Lathrobium fovalum,,preysOn
+47371,371954,Ligidium hypnorum,Carr Slater,preysOn
+47371,1123175,Pelochares versicolor,,preysOn
+47371,605071,Cicadina,,preysOn
+47371,69599,Tetramorium,Fierce ants,preysOn
+47371,1006257,Platystethus nodifrons,,preysOn
+47371,,Cercyon sternalis,,preysOn
+47371,,Hypostenus latifrons,,preysOn
+47371,,Bidessus unistriatus,,preysOn
+47371,,Asellus aquaticus,,preysOn
+47371,251175,Edaphus,,preysOn
+47371,624522,Hebrus pusillus,,preysOn
+47371,360548,Zora spinimana,,preysOn
+47371,,Pachybrachius,,preysOn
+47371,,Armadillidium pictum,,preysOn
+47371,991343,Euaesthetus ruficapillus,,preysOn
+47371,,Hebrus ruficeps,,preysOn
+47371,50190,Cicadoidea,Cicadas,preysOn
+47371,,Zora,,preysOn
+47371,131906,Oxytelus,,preysOn
+47371,143336,Phlaeothripidae,Tube-tailed Thrips,preysOn
+47371,,Acupalpus flavicollis,,preysOn
+47371,,Nestus,,preysOn
+47371,,Anotylus intricatus,,preysOn
+47371,153881,Ozyptila,Leaflitter Crab Spiders,preysOn
+47371,,Polyhydrus lineatus,,preysOn
+47371,,Uroseius cylindricus,,preysOn
+47371,203242,Aleocharinae,,preysOn
+47371,,Lithobius,,preysOn
+47371,,Dryops,,preysOn
+47371,778686,Porrhomma microphthalmum,,preysOn
+47371,988384,Bryaxis bulbifer,,preysOn
+47371,153747,Robertus,,preysOn
+47371,,Euophrys frontalis,,preysOn
+47371,738601,Lithobius aeruginosus,,preysOn
+47371,178192,Hebridae,Velvet Water Bugs,preysOn
+47371,,Tomocerus flavescens,,preysOn
+47371,784185,Saloca diceros,,preysOn
+47371,,Pseudomopidae,,preysOn
+47371,,Graptodytes granularis,,preysOn
+47371,131937,Pterostichus strenuus,Rough-chested Blackclock,preysOn
+47371,,Veigaia nemorensis,,preysOn
+47371,,Chaetarthria seminulum,,preysOn
+47371,,Tapinocyba pallens,,preysOn
+47371,203275,Xantholinus,,preysOn
+47371,,Pergamasus septentrionalis,,preysOn
+47371,,Veigaia cerva,,preysOn
+47371,172978,Atheta,vexing rove beetles,preysOn
+47371,205480,Trichoniscus,,preysOn
+47371,67328,Pholcus phalangioides,Long-bodied Cellar Spider,preyedUponBy
+47371,82081,Theridion,Tangleweb Spiders,preyedUponBy
+47371,47118,Araneae,Spiders,preyedUponBy
+47371,47951,Staphylinidae,Rove Beetles,preyedUponBy
+47371,47345,Agelenidae,Funnel Weavers,preyedUponBy
+47371,202104,Harpalinae,,preyedUponBy
+47371,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+47371,49567,Carabidae,Ground Beetles,preyedUponBy
+47371,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+47371,52932,Cantharidae,Soldier Beetles,preyedUponBy
+47371,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+47371,47866,Thomisidae,Crab Spiders,preyedUponBy
+47371,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+47371,148395,Trochosa,,preyedUponBy
+47371,132021,Philonthus,,preyedUponBy
+47371,47416,Lycosidae,Wolf Spiders,preyedUponBy
+47371,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+47371,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+47371,61762,Evarcha,,preyedUponBy
+47371,,Sitticus caricis,,preyedUponBy
+47371,531182,Clubiona subtilis,,preyedUponBy
+47371,452503,Robertus lividus,,preyedUponBy
+47371,738601,Lithobius aeruginosus,,preyedUponBy
+47371,739596,Lithobius mutabilis,,preyedUponBy
+47371,905423,Lithobius macilentus,,preyedUponBy
+47371,153825,Ero furcata,,preyedUponBy
+47371,,Malthodes,,preyedUponBy
+47371,,Geophilus ribauti,,preyedUponBy
+47371,,Lithobius muticus,,preyedUponBy
+47371,525704,Trogulus tricarinatus,,preyedUponBy
+47371,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+47371,494566,Athous subfuscus,,preyedUponBy
+47371,,Lithobius,,preyedUponBy
+47371,498635,Lithobius piceus,,preyedUponBy
+47371,127023,Amaurobius,Lace web spider,preyedUponBy
+47371,521083,Strigamia acuminata,,preyedUponBy
+47371,130411,Abax,,preyedUponBy
+47371,494277,Molops piceus,,preyedUponBy
+47371,701197,Inermocoelotes inermis,,preyedUponBy
+47371,705967,Harpactea lepida,,preyedUponBy
+47371,362800,Clubiona comta,,preyedUponBy
+47371,,Geophilus studeri,,preyedUponBy
+47371,855514,Lithobius subtilis,,preyedUponBy
+47371,765638,Lithobius calcaratus,,preyedUponBy
+47371,407287,Lithobius melanops,,preyedUponBy
+47371,710435,Molops elatus,,preyedUponBy
+47371,568199,Lithobius curtipes,,preyedUponBy
+47371,,Lithobius borealis,,preyedUponBy
+47371,230519,Schendyla nemorensis,,preyedUponBy
+47371,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preyedUponBy
+47371,537133,Lithobius crassipes,,preyedUponBy
+47371,491325,Geophilus electricus,,preyedUponBy
+47371,,Xantholinus elegans,,preyedUponBy
+47371,131980,Trechus,,preyedUponBy
+47371,525960,Trogulus nepaeformis,,preyedUponBy
+47371,466998,Linyphia hortensis,,preyedUponBy
+47371,498645,Lithobius tricuspis,,preyedUponBy
+47371,498632,Lithobius dentatus,,preyedUponBy
+47371,130433,Amara aenea,Common Sun Beetle,preyedUponBy
+47371,360817,Coelotes,,preyedUponBy
+47371,,Trechinae,,preyedUponBy
+47371,,Harpalus affinis,,preyedUponBy
+47371,,Rhagonycha lignosa,,preyedUponBy
+47371,,Metellina segmentata,,preyedUponBy
+47371,496759,Geophilus insculptus,,preyedUponBy
+47371,778699,Macrargus rufus,,preyedUponBy
+47371,131881,Notiophilus,,preyedUponBy
+47371,605685,Coelotes terrestris,,preyedUponBy
+47371,131093,Harpalus,,preyedUponBy
+47371,233604,Walckenaeria atrotibialis,,preyedUponBy
+47371,784213,Ozyptila trux,,preyedUponBy
+47371,,Walckenaeria furcillata,,preyedUponBy
+47371,1255692,Enoplognatha ovata,Candy-striped Spider complex,preyedUponBy
+47371,,Cochlodryas,,preyedUponBy
+47371,701423,Histopona torpida,,preyedUponBy
+47371,131009,Calathus melanocephalus,,preyedUponBy
+47371,,Donacochara speciosa,,preyedUponBy
+47371,510481,Othius punctulatus,,preyedUponBy
+47371,131102,Harpalus tardus,,preyedUponBy
+47371,,Centomerus sylvaticus,,preyedUponBy
+47371,783673,Apostenus fuscus,,preyedUponBy
+47371,498011,Abax ovalis,,preyedUponBy
+47371,526528,Anelasmocephalus cambridgei,,preyedUponBy
+47371,491485,Pterostichus oblongopunctatus,Bronzed Blackclock,preyedUponBy
+47371,637234,Xysticus erraticus,,preyedUponBy
+47371,318917,Euryopis flavomaculata,,preyedUponBy
+47371,71061,Xysticus cristatus,,preyedUponBy
+47371,336908,Cryptops hortensis,Common Cryptops,preyedUponBy
+47371,,Pachygnatha degeeri,,preyedUponBy
+47371,131943,Rugilus rufipes,,preyedUponBy
+47371,357413,Evarcha arcuata,,preyedUponBy
+47371,227754,Philodromus dispar,Eurasian Running Crab Spider,preyedUponBy
+47371,,Lathrobium brunnipes,,preyedUponBy
+47371,360548,Zora spinimana,,preyedUponBy
+47371,1084459,Pterostichus chameleon,,preyedUponBy
+47371,,Haplodrassus silvstris,,preyedUponBy
+47371,,Pamagaeus bipustulatus,,preyedUponBy
+47371,,Amaurobius fenestralis,,preyedUponBy
+47371,154600,Agonum,,preyedUponBy
+47371,131880,Notiophilus biguttatus,,preyedUponBy

@@ -1,0 +1,105 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41496,47459,Cephalopoda,Cephalopods,eats
+41496,47178,Actinopterygii,Ray-finned Fishes,eats
+41496,47533,Anthozoa,Sea Anemones and Corals,eats
+41496,90074,Myctophum,,eats
+41496,85493,Crustacea,Crustaceans,eats
+41496,85962,Paralepididae,Barracudinas,eats
+41496,85910,Myctophidae,Lanternfishes,eats
+41496,49238,Sparidae,Seabreams and Porgies,eats
+41496,342912,Caridea,Caridean Shrimps,eats
+41496,,Gnathostomata,,eats
+41496,,unspecified mesopelagic squid,,eats
+41496,,Teuthida,,eats
+41496,,unspecified mesopelagic fish,,eats
+41496,618955,Lestidiops similis,,eats
+41496,529913,Rexea solandri,Gemfish,eats
+41496,530457,Symbolophorus boops,Spotfin Lanternfish,eats
+41496,317191,Lestrolepis intermedia,,eats
+41496,530436,Gonichthys barnesi,Barnes' Lanternfish,eats
+41496,317182,Lampanyctus nobilis,Noble Lanternfish,eats
+41496,103056,Hygophum proximum,Firefly Lanternfish,eats
+41496,530417,Diaphus chrysorhynchus,Goldnose Lanternfish,eats
+41496,317089,Electrona risso,Risso's Lanternfish,eats
+41496,,Nannobrachium atrum,,eats
+41496,,Diretmichthys parini,,eats
+41496,194867,Diogenichthys atlanticus,Atlantic Lanternfish,eats
+41496,317179,Lampadena luminosa,Luminous Lanternfish,eats
+41496,317451,Vinciguerria nimbaria,Narooma Lightfish,eats
+41496,83314,Hyaloteuthis pelagica,glassy flying squid,eats
+41496,432410,Enoploteuthis anapsis,,eats
+41496,317400,Symbolophorus evermanni,Evermann's Lanternfish,eats
+41496,87920,Diaphus,,eats
+41496,,Acropomatidae,,eats
+41496,246435,Octopoteuthis,,eats
+41496,432462,Leachia pacifica,Pacific Cranch Squid,eats
+41496,,Nannobrachium idostigma,,eats
+41496,,Ophichthyidae,,eats
+41496,617783,Electrona antarctica,,eats
+41496,246421,Chiroteuthis,,eats
+41496,530427,Diaphus parri,Parr's Lanternfish,eats
+41496,91957,Scopelogadus,,eats
+41496,432411,Enoploteuthis chunii,,eats
+41496,253701,Cranchia scabra,Rough Cranch Squid,eats
+41496,87009,Bolinichthys,,eats
+41496,317036,Ceratoscopelus warmingii,Warming's Lanternfish,eats
+41496,226037,Notoscopelus resplendens,Patchwork Lanternfish,eats
+41496,376710,Idioteuthis,,eats
+41496,194906,Cubiceps pauciradiatus,Longfin Cubehead,eats
+41496,90359,Notolepis,,eats
+41496,378098,Taonius,,eats
+41496,87587,Conger,Conger Eels,eats
+41496,246416,Helicocranchia,Piglet Squids,eats
+41496,,Coelorinchus,,eats
+41496,91676,Rexea,,eats
+41496,374200,Galiteuthis,,eats
+41496,99250,Diaphus rafinesquii,White-spotted Lantern Fish,eats
+41496,92306,Sudis,,eats
+41496,87081,Bregmaceros,,eats
+41496,86887,Bathylagus,,eats
+41496,213895,Aphanopus carbo,Black Scabbardfish,eats
+41496,91956,Scopeloberyx,,eats
+41496,459373,Diaphus luetkeni,Luetken's Lanternfish,eats
+41496,,Pisces,,eats
+41496,194864,Myctophum nitidulum,Pearly-spotted Lanternfish,eats
+41496,89826,Melamphaes,,eats
+41496,432492,Onychoteuthis banksii,Common Clubhook Squid,eats
+41496,,Myctophum brachygnathum,,eats
+41496,,Acanthephyra quadrispinosa,,eats
+41496,89324,Lampadena,,eats
+41496,88968,Howella,,eats
+41496,120645,Chauliodus sloani,Sloane's Viperfish,eats
+41496,,Myctophum asperum,,eats
+41496,390560,Histioteuthis miranda,Common Cock-eyed Squid,eats
+41496,617772,Diaphus sagamiensis,,eats
+41496,432787,Brachioteuthis,,eats
+41496,246427,Enoploteuthis,,eats
+41496,317181,Lampanyctus alatus,Winged Lanternfish,eats
+41496,127406,Myctophum aurolaternatum,Golden lanternfish,eats
+41496,,Hymenocephlus sp.,,eats
+41496,87642,Coryphaenoides,,eats
+41496,530491,Cubiceps whiteleggii,Coastal Cubehead,eats
+41496,246422,Grimalditeuthis,,eats
+41496,91954,Scopelarchus,,eats
+41496,85923,Neoscopelidae,Blackchins,eats
+41496,41521,Orcinus orca,Orca,eatenBy
+41496,85910,Myctophidae,Lanternfishes,preysOn
+41496,90074,Myctophum,,preysOn
+41496,,Nannobrachium idostigma,,preysOn
+41496,92325,Symbolophorus,,preysOn
+41496,87953,Diogenichthys,,preysOn
+41496,127406,Myctophum aurolaternatum,Golden lanternfish,preysOn
+41496,317000,Benthosema panamense,,preysOn
+41496,317183,Lampanyctus parvicauda,,preysOn
+41496,88988,Hygophum,,preysOn
+41496,87920,Diaphus,,preysOn
+41496,432410,Enoploteuthis anapsis,,preysOn
+41496,83314,Hyaloteuthis pelagica,glassy flying squid,preysOn
+41496,,Acanthephyra quadrispinosa,,preysOn
+41496,390560,Histioteuthis miranda,Common Cock-eyed Squid,preysOn
+41496,253701,Cranchia scabra,Rough Cranch Squid,preysOn
+41496,432462,Leachia pacifica,Pacific Cranch Squid,preysOn
+41496,432411,Enoploteuthis chunii,,preysOn
+41496,432492,Onychoteuthis banksii,Common Clubhook Squid,preysOn
+41496,,no name,,preyedUponBy
+41496,41521,Orcinus orca,Orca,preyedUponBy

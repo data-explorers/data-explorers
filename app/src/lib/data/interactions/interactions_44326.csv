@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44326,,Citrus × aurantium,,eats
+44326,4929,Ardeidae,"Herons, Egrets, and Bitterns",eatenBy
+44326,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44326,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44326,5277,Elanus leucurus,White-tailed Kite,eatenBy
+44326,42051,Canis latrans,Coyote,eatenBy
+44326,85553,Serpentes,Snakes,eatenBy
+44326,20445,Tyto alba,Barn Owl,eatenBy
+44326,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+44326,5163,Circus,Harriers,eatenBy
+44326,4665,Falco sparverius,American Kestrel,eatenBy
+44326,558446,Circus hudsonius,Northern Harrier,eatenBy
+44326,144455,Ardea alba,Great Egret,eatenBy
+44326,4672,Falco columbarius,Merlin,eatenBy
+44326,922459,Felis silvestris,European Wildcat,eatenBy
+44326,,Mustela frenata,,eatenBy
+44326,41808,Mustela erminea,Eurasian Stoat,eatenBy
+44326,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+44326,42070,Vulpes macrotis,Kit Fox,eatenBy
+44326,,Aquila chrysaetos,,eatenBy
+44326,20315,Asio flammeus,Short-eared Owl,eatenBy
+44326,20307,Asio otus,Long-eared Owl,eatenBy
+44326,19350,Strigiformes,Owls,preyedUponBy
+44326,5277,Elanus leucurus,White-tailed Kite,preyedUponBy
+44326,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+44326,144455,Ardea alba,Great Egret,preyedUponBy
+44326,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+44326,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+44326,28394,Thamnophis gigas,Giant Garter Snake,preyedUponBy
+44326,243962,Charina bottae,Northern Rubber Boa,preyedUponBy
+44326,19812,Glaucidium gnoma,Northern Pygmy-Owl,preyedUponBy

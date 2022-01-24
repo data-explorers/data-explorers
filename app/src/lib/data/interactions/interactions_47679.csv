@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47679,,Algae,,eats
+47679,,Macroalgae,,eats
+47679,,Prymnesiophyceae,,eats
+47679,48834,Pisaster,Giant Sea Stars,eatenBy
+47679,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47679,195901,Heliaster,,eatenBy
+47679,47186,Decapoda,Decapods,eatenBy
+47679,43584,Homo sapiens,Human,eatenBy
+47679,47668,Asteroidea,Sea Stars,eatenBy
+47679,,Leptasterias,,eatenBy
+47679,,Searlesia,,eatenBy
+47679,41776,Lontra felina,Marine Otter,eatenBy
+47679,505078,Sicyases sanguineus,,eatenBy
+47679,4852,Haematopus ater,Blackish Oystercatcher,eatenBy
+47679,4388,Larus dominicanus,Kelp Gull,eatenBy
+47679,255868,Heliaster helianthus,South American Multiradiate Sun Star,eatenBy
+47679,,Concholepas concholepas,,eatenBy
+47679,67632,Acanthina,,eatenBy
+47679,,Purpura,,eatenBy
+47679,475462,Vasula melones,Gourd Rock Snail,eatenBy
+47679,47674,Pycnopodia,,eatenBy
+47679,371067,Nucella lima,File Dog Winkle,eatenBy
+47679,,Thalamita danae,,eatenBy
+47679,180394,Pandalus platyceros,California Spot Prawn,eatenBy
+47679,47635,Cottus gobio,European Bullhead,eatenBy
+47679,446040,Gilloblennius tripennis,Thripenny,eatenBy
+47679,53574,Sargocentron punctatissimum,Speckled Squirrelfish,eatenBy
+47679,448285,Pinguipes brasilianus,Brazilian sandperch,eatenBy
+47679,614223,Chorisochismus dentex,rocksucker,eatenBy
+47679,445800,Clinus cottoides,bluntnose klipfish,eatenBy
+47679,,Seariesia,,eatenBy
+47679,,predaceous crabs,,eatenBy
+47679,,predaceous fish,,eatenBy
+47679,,Lutra felina,,eatenBy
+47679,47668,Asteroidea,Sea Stars,preyedUponBy
+47679,48834,Pisaster,Giant Sea Stars,preyedUponBy
+47679,195901,Heliaster,,preyedUponBy
+47679,,prehistoric Aleut man,,preyedUponBy
+47679,,nearshore fishes,,preyedUponBy
+47679,371067,Nucella lima,File Dog Winkle,preyedUponBy
+47679,,Leptasterias,,preyedUponBy
+47679,,Searlesia,,preyedUponBy
+47679,47674,Pycnopodia,,preyedUponBy
+47679,,predaceous fish,,preyedUponBy
+47679,,predaceous crabs,,preyedUponBy
+47679,67632,Acanthina,,preyedUponBy
+47679,475462,Vasula melones,Gourd Rock Snail,preyedUponBy

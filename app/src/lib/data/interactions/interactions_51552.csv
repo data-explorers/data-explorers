@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51552,47178,Actinopterygii,Ray-finned Fishes,eats
+51552,47459,Cephalopoda,Cephalopods,eats
+51552,51911,Engraulidae,Anchovies,eats
+51552,1,Animalia,Animals,eats
+51552,92583,Trachurus,Jack Mackerels,eats
+51552,85493,Crustacea,Crustaceans,eats
+51552,121639,Brachyura,True Crabs,eats
+51552,342912,Caridea,Caridean Shrimps,eats
+51552,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+51552,,Etrumeus teres,,eats
+51552,486530,Gobiopsis atrata,New Zealand Black Goby,eats
+51552,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+51552,,,,eats
+51552,,Invertebrata,,eats
+51552,,Detritus,,eats
+51552,,Gnathostomata,,eats
+51552,,Osteichthyes,,eats
+51552,69676,Thunnus,Bluefin Tunas,eatenBy
+51552,3797,Sula leucogaster,Brown Booby,eatenBy
+51552,3793,Sula sula,Red-footed Booby,eatenBy
+51552,,Chondrichthyes,,eatenBy
+51552,4535,Anous stolidus,Brown Noddy,eatenBy
+51552,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+51552,115167,Xiphias gladius,Swordfish,eatenBy
+51552,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+51552,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+51552,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+51552,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+51552,4566,Gygis alba,White Tern,eatenBy
+51552,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+51552,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+51552,115167,Xiphias gladius,Swordfish,preyedUponBy
+51552,,no name,,preyedUponBy

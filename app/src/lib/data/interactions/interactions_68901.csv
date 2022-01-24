@@ -1,0 +1,117 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68901,47822,Diptera,Flies,eats
+68901,53275,Chironomidae,Non-biting Midges,eats
+68901,47158,Insecta,Insects,eats
+68901,53237,Cicadellidae,Typical Leafhoppers,eats
+68901,48091,Brachycera,Brachyceran Flies,eats
+68901,47118,Araneae,Spiders,eats
+68901,48011,Ephemeroptera,Mayflies,eats
+68901,81579,Steatoda triangulosa,Triangulate Combfoot,eatenBy
+68901,47822,Diptera,Flies,preysOn
+68901,47927,Anisoptera,Dragonflies,preysOn
+68901,47158,Insecta,Insects,preysOn
+68901,179916,Tipulomorpha,Crane Flies,preysOn
+68901,62164,Trichoptera,Caddisflies,preysOn
+68901,47951,Staphylinidae,Rove Beetles,preysOn
+68901,47157,Lepidoptera,Butterflies and Moths,preysOn
+68901,473947,Empoascini,,preysOn
+68901,48011,Ephemeroptera,Mayflies,preysOn
+68901,48009,Baetidae,Small Mayflies,preysOn
+68901,60417,Nephrotoma,Tiger Crane Flies,preysOn
+68901,53275,Chironomidae,Non-biting Midges,preysOn
+68901,126532,Toxomerus geminatus,Eastern Calligrapher,preysOn
+68901,47336,Formicidae,Ants,preysOn
+68901,126889,Toxomerus marginatus,Margined Calligrapher,preysOn
+68901,82081,Theridion,Tangleweb Spiders,preysOn
+68901,53237,Cicadellidae,Typical Leafhoppers,preysOn
+68901,60470,Rhagionidae,Snipe Flies,preysOn
+68901,52134,Culicidae,Mosquitoes,preysOn
+68901,630955,Anthophila,Bees,preysOn
+68901,153429,Culicomorpha,Mosquitoes and Midges,preysOn
+68901,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+68901,342614,Entelegynae,Entelegyne Spiders,preysOn
+68901,51226,Tipuloidea,Typical Crane Flies,preysOn
+68901,47928,Zygoptera,Damselflies,preysOn
+68901,48091,Brachycera,Brachyceran Flies,preysOn
+68901,81681,Campaea perlata,Pale Beauty,preysOn
+68901,,Tytthus ygmaeus,,preysOn
+68901,914679,Macrosteles maculosus,,preysOn
+68901,624527,Nysius ericae,,preysOn
+68901,1004093,Odontothrips loti,,preysOn
+68901,883619,Acalypta carinata,,preysOn
+68901,,http://treatment.plazi.org/id/03F71D4ABD2FFFE9FF171CF4FD25FE0E,,preysOn
+68901,542434,Megalonotus emarginatus,,preysOn
+68901,768727,Eupteryx calcarata,,preysOn
+68901,606260,Eupteryx vittata,,preysOn
+68901,735331,Arthaldeus pascuellus,,preysOn
+68901,914765,Psammotettix confinis,,preysOn
+68901,547586,Apion cruentatum,,preysOn
+68901,914676,Macrosteles laevis,,preysOn
+68901,52447,Cicadella viridis,Green Leafhopper,preysOn
+68901,547575,Anthicus antherinus,,preysOn
+68901,204590,Plagiognathus arbustorum,Common Nettle Flower Bug,preysOn
+68901,,Melanotrichus flavosarsus,,preysOn
+68901,,Chlamydatus pullus,,preysOn
+68901,673968,Macrosteles sexnotatus,,preysOn
+68901,482740,Amblytylus nasutus,,preysOn
+68901,,Delphacodes exigua,,preysOn
+68901,,Megophthalmus scanicus,,preysOn
+68901,552756,Orius niger,,preysOn
+68901,,Charagochilus gyllenhallii,,preysOn
+68901,892083,Ribautodelphax albostriata,,preysOn
+68901,,Dicyphus globulifer,,preysOn
+68901,992484,Haplothrips aculeatus,,preysOn
+68901,703086,Euscelis incisus,,preysOn
+68901,911726,Agallia brachyptera,,preysOn
+68901,892074,Ditropsis flavipes,,preysOn
+68901,991605,Frankliniella tenuicornis,,preysOn
+68901,204787,Doratura stylata,,preysOn
+68901,887763,Acalypta nigrina,,preysOn
+68901,219849,Eupteryx atropunctata,,preysOn
+68901,606261,Eupteryx notata,,preysOn
+68901,,Dictyonota tricornis,,preysOn
+68901,,Kosswigianella spinosus,,preysOn
+68901,,Empoasca decipiens,,preysOn
+68901,735329,Ophiola decumana,,preysOn
+68901,,http://treatment.plazi.org/id/7212D693A066054FD8A810503410BAB9,,preysOn
+68901,525998,Mitostoma chrysomelas,,preysOn
+68901,,Cosmoscarta abdominalis,,preysOn
+68901,743172,Coryssomerus capucinus,,preysOn
+68901,174609,Atomaria,,preysOn
+68901,748452,Campylomma verbasci,,preysOn
+68901,130649,Bembidion obtusum,,preysOn
+68901,,Exomias pellucidus,,preysOn
+68901,988111,Atomaria atricapilla,,preysOn
+68901,569944,Limothrips denticornis,,preysOn
+68901,466488,Laodelphax striatella,small brown planthopper,preysOn
+68901,,Ceutorhynchus floralis,,preysOn
+68901,550273,Chaetocnema hortensis,,preysOn
+68901,547612,Trachys scrobiculatus,,preysOn
+68901,131081,Dyschirius globosus,,preysOn
+68901,131827,Microlestes maurus,,preysOn
+68901,997191,Longitarsus noricus,,preysOn
+68901,705044,Limobius borealis,,preysOn
+68901,547793,Hyperaspis campestris,,preysOn
+68901,1084822,Aphthona nigriceps,,preysOn
+68901,467743,Phyllotreta atra,,preysOn
+68901,131985,Tytthaspis sedecimpunctata,16-spot Ladybird,preysOn
+68901,488984,Protapion nigritarse,,preysOn
+68901,217828,Cryptophagus pilosus,,preysOn
+68901,1038727,Cryptophagus schmidti,,preysOn
+68901,229901,Rhinoncus pericarpius,,preysOn
+68901,922670,Holotrichapion aethiops,,preysOn
+68901,130412,Acupalpus meridianus,,preysOn
+68901,,Apion pisi,,preysOn
+68901,,Ischnopterapion loti,,preysOn
+68901,469720,Scolopostethus affinis,,preysOn
+68901,550416,Stygnocoris rusticus,,preysOn
+68901,988115,Atomaria nigriventris,,preysOn
+68901,547590,Catapion pubescens,,preysOn
+68901,496641,Xysticus ulmi,Swamp Crab Spider,preyedUponBy
+68901,245656,Synema globosum,Napoleon Spider,preyedUponBy
+68901,71061,Xysticus cristatus,,preyedUponBy
+68901,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+68901,153855,Tibellus oblongus,Oblong Running Spider,preyedUponBy
+68901,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+68901,173394,Taeniopterygidae,Winter Stoneflies,preyedUponBy
+68901,,http://treatment.plazi.org/id/03A787DE616B9B73CDAE3A02FC26FAB8,,preyedUponBy

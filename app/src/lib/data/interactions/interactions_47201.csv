@@ -1,0 +1,401 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47201,47170,Fungi,Fungi Including Lichens,eats
+47201,47126,Plantae,plants,eats
+47201,60922,Coccoidea,Scale Insects,eats
+47201,47157,Lepidoptera,Butterflies and Moths,eats
+47201,47628,Amphipoda,Amphipods,eats
+47201,52788,Acari,Mites and Ticks,eats
+47201,53237,Cicadellidae,Typical Leafhoppers,eats
+47201,47208,Coleoptera,Beetles,eats
+47201,52381,Aphididae,Aphids,eats
+47201,125816,Auchenorrhyncha,True Hoppers,eats
+47201,48561,Cirsium,thistles,eats
+47201,55746,Misumena vatia,Goldenrod Crab Spider,eats
+47201,48548,Vanessa cardui,Painted Lady,eats
+47201,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+47201,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+47201,47822,Diptera,Flies,eats
+47201,71257,Bouteloua gracilis,Blue Grama,eats
+47201,53211,Senecio vulgaris,common groundsel,eats
+47201,57983,Helianthus annuus,Common Sunflower,eats
+47201,52134,Culicidae,Mosquitoes,eats
+47201,67742,Drosophilidae,Vinegar and Fruit Flies,eats
+47201,128521,Phallus hadriani,dune stinkhorn,eats
+47201,247968,Hexatoma,,eats
+47201,,leaves,,eats
+47201,,Detritus,,eats
+47201,,nectar and floral,,eats
+47201,,Eleucine,,eats
+47201,,Acrosternum hilare,,eats
+47201,,Platypena scabra,,eats
+47201,,nectar,,eats
+47201,,sap,,eats
+47201,,Isoptera,,eats
+47201,,Magnoliophyta,,eats
+47201,49059,Phasmatidae,,eats
+47201,166864,Picradeniopsis oppositifolia,Oppositeleaf False Bahia,eats
+47201,126671,Sphaeralcea coccinea,Scarlet Globemallow,eats
+47201,,Opuntia macrorhiza,,eats
+47201,57979,Gutierrezia,matchweeds and snakeweeds,eats
+47201,,Yucca glauca,,eats
+47201,78836,Ratibida columnifera,upright prairie coneflower,eats
+47201,163720,Heterotheca canescens,Hoary False Goldenaster,eats
+47201,146898,Artemisia frigida,fringed sagebrush,eats
+47201,,Atriplex canescens,,eats
+47201,,Psoralidium tenuiflorum,,eats
+47201,,Peritoma serrulata,,eats
+47201,,Leaves,,eats
+47201,,Erythroxlum sechellarum,,eats
+47201,122777,Cinnamomum verum,Ceylon cinnamon,eats
+47201,,Deckenia nobilis,,eats
+47201,,plants - dead plants,,eats
+47201,,commonsunflower (forb/shrub),,eats
+47201,,plains prickly pear (forb/shrub),,eats
+47201,,hairy golden aster (forb/shrub),,eats
+47201,,broom snakeweed (forb/shrub),,eats
+47201,,small soapweed (forb/shrub),,eats
+47201,,scarlet globe mallow (forb/shrub),,eats
+47201,,slimflower scurf pea (forb/shrub),,eats
+47201,240020,Cirsium undulatum undulatum,wavy-leaf thistle,eats
+47201,,fourwing saltbrush (forb/shrub),,eats
+47201,,groundsel (forb/shrub),,eats
+47201,,Chondrosum gracile,,eats
+47201,183430,Excoecaria,,eats
+47201,366006,Roscheria melanochaetes,,eats
+47201,,Premna serratifolia,,eats
+47201,,Coriandrum sativum,,eats
+47201,,Quercus acutissima,,eats
+47201,,Nectar and floral,,eats
+47201,,Recently drowned insects,,eats
+47201,52790,Mesostigmata,Mesostigs,eats
+47201,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eatenBy
+47201,12890,Catharus guttatus,Hermit Thrush,eatenBy
+47201,12901,Catharus fuscescens,Veery,eatenBy
+47201,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+47201,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+47201,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47201,10247,Setophaga ruticilla,American Redstart,eatenBy
+47201,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+47201,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47201,4209,Podiceps auritus,Horned Grebe,eatenBy
+47201,12942,Sialia sialis,Eastern Bluebird,eatenBy
+47201,10469,Xanthocephalus,,eatenBy
+47201,11901,Hirundo rustica,Barn Swallow,eatenBy
+47201,11867,Progne subis,Purple Martin,eatenBy
+47201,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+47201,145238,Setophaga petechia,Yellow Warbler,eatenBy
+47201,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+47201,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+47201,10227,Passerina cyanea,Indigo Bunting,eatenBy
+47201,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+47201,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+47201,981,Phasianus colchicus,Ring-necked Pheasant,eatenBy
+47201,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+47201,9921,Piranga olivacea,Scarlet Tanager,eatenBy
+47201,1965,Coccyzus americanus,Yellow-billed Cuckoo,eatenBy
+47201,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47201,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+47201,1409,Callipepla californica,California Quail,eatenBy
+47201,13858,Passer domesticus,House Sparrow,eatenBy
+47201,9721,Geothlypis trichas,Common Yellowthroat,eatenBy
+47201,9915,Piranga rubra,Summer Tanager,eatenBy
+47201,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+47201,7294,Eremophila alpestris,Horned Lark,eatenBy
+47201,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+47201,17355,Vireo,Vireos,eatenBy
+47201,17356,Vireo bellii,Bell's Vireo,eatenBy
+47201,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+47201,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+47201,6317,Calypte anna,Anna's Hummingbird,eatenBy
+47201,9346,Icterus galbula,Baltimore Oriole,eatenBy
+47201,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+47201,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+47201,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47201,16768,Tyrannus,Kingbirds,eatenBy
+47201,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+47201,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+47201,17013,Sayornis nigricans,Black Phoebe,eatenBy
+47201,17009,Sayornis saya,Say's Phoebe,eatenBy
+47201,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+47201,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+47201,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+47201,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+47201,12937,Sialia mexicana,Western Bluebird,eatenBy
+47201,12727,Turdus migratorius,American Robin,eatenBy
+47201,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+47201,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+47201,7497,Polioptila californica,California Gnatcatcher,eatenBy
+47201,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+47201,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+47201,145242,Setophaga palmarum,Palm Warbler,eatenBy
+47201,13633,Baeolophus inornatus,Oak Titmouse,eatenBy
+47201,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+47201,144455,Ardea alba,Great Egret,eatenBy
+47201,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+47201,14850,Sturnus vulgaris,European Starling,eatenBy
+47201,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47201,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+47201,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+47201,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+47201,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+47201,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+47201,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+47201,9184,Zonotrichia albicollis,White-throated Sparrow,eatenBy
+47201,9100,Melospiza melodia,Song Sparrow,eatenBy
+47201,9135,Spizella passerina,Chipping Sparrow,eatenBy
+47201,9152,Spizella pusilla,Field Sparrow,eatenBy
+47201,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+47201,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+47201,8010,Corvus corax,Common Raven,eatenBy
+47201,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+47201,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+47201,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+47201,14801,Sitta carolinensis,White-breasted Nuthatch,eatenBy
+47201,7458,Certhia americana,Brown Creeper,eatenBy
+47201,14823,Sitta canadensis,Red-breasted Nuthatch,eatenBy
+47201,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+47201,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47201,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47201,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47201,19660,Regulus,Kinglets,eatenBy
+47201,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+47201,9919,Piranga ludoviciana,Western Tanager,eatenBy
+47201,7562,Troglodytes aedon,House Wren,eatenBy
+47201,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+47201,16598,Empidonax difficilis,Pacific-slope Flycatcher,eatenBy
+47201,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+47201,73044,Melozone crissalis,California Towhee,eatenBy
+47201,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+47201,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+47201,7266,Psaltriparus minimus,Bushtit,eatenBy
+47201,15256,Chamaea fasciata,Wrentit,eatenBy
+47201,14906,Toxostoma redivivum,California Thrasher,eatenBy
+47201,7601,Cistothorus palustris,Marsh Wren,eatenBy
+47201,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+47201,1959,Coccyzus,Coccyzus Cuckoos,eatenBy
+47201,47118,Araneae,Spiders,eatenBy
+47201,36299,Phrynosoma,Horned Lizards,eatenBy
+47201,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eatenBy
+47201,5562,Trochilidae,Hummingbirds,eatenBy
+47201,85553,Serpentes,Snakes,eatenBy
+47201,18236,Colaptes auratus,Northern Flicker,eatenBy
+47201,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+47201,47822,Diptera,Flies,eatenBy
+47201,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+47201,47982,Asilidae,Robber Flies,eatenBy
+47201,7293,Eremophila,Horned Larks,eatenBy
+47201,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+47201,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+47201,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+47201,4665,Falco sparverius,American Kestrel,eatenBy
+47201,118597,Belone belone,Garfish,eatenBy
+47201,47119,Arachnida,Arachnids,eatenBy
+47201,147189,Tylosurus acus,Keeljaw Longtom,eatenBy
+47201,58728,Berberis,Barberries,pollinates
+47201,52111,Baccharis,,pollinates
+47201,47544,Rubus,brambles,pollinates
+47201,55745,Trifolium repens,white clover,pollinates
+47201,51062,Maianthemum racemosum,Solomon's plume,pollinates
+47201,47452,Acacia,wattles,pollinates
+47201,76907,Erigeron canadensis,horseweed,pollinates
+47201,56992,Lobularia maritima,sweet alyssum,pollinates
+47201,58729,Toxicodendron rydbergii,western poison ivy,pollinates
+47201,55411,Raphanus raphanistrum,Jointed Charlock,pollinates
+47201,60251,Verbena hastata,blue vervain,pollinates
+47201,50879,Erigeron,fleabanes and horseweeds,pollinates
+47201,52989,Cirsium vulgare,Bull Thistle,pollinates
+47201,53107,Lactuca serriola,prickly lettuce,pollinates
+47201,62742,Rudbeckia,black-eyed Susans and coneflowers,pollinates
+47201,48071,Sagittaria,Arrowheads,pollinates
+47201,116735,Rudbeckia laciniata,cutleaf coneflower,pollinates
+47201,57952,Coreopsis,Tickseed,pollinates
+47201,51891,Dudleya,Liveforever,pollinates
+47201,52818,Achillea,yarrows,pollinates
+47201,48626,Oenothera,"evening primroses, sundrops, and beeblossoms",pollinates
+47201,80027,Monardella hypoleuca hypoleuca,white-veined monardella,pollinates
+47201,57983,Helianthus annuus,Common Sunflower,pollinates
+47201,52935,Eupatorium,bonesets,pollinates
+47201,61858,Lucilia,Greenbottle Flies,pollinates
+47201,50790,Linaria vulgaris,common toadflax,pollinates
+47201,373579,Asclepiadoideae,milkweeds,pollinates
+47201,1145486,Astragalus curvicaulis,,pollinates
+47201,,Perezia carthamoides,,pollinates
+47201,,Haplopappus chrysanthemifolius,,pollinates
+47201,,Warea amplexifolia,,pollinates
+47201,,Penstemon debilis,,pollinates
+47201,,Lupinus oreganus,,pollinates
+47201,,Lindera melissifolia,,pollinates
+47201,163632,Helianthus schweinitzii,Schweinitz's Sunflower,pollinates
+47201,83150,Euonymus americanus,strawberry bush,pollinates
+47201,,Argemone pleiacantha,,pollinates
+47201,75540,Arctostaphylos pringlei,Pringle's manzanita,pollinates
+47201,53377,Arctostaphylos glandulosa mollis,Transverse Range Manzanita,pollinates
+47201,158179,Allium gooddingii,,pollinates
+47201,,Linum lewisii,,pollinates
+47201,,Allium,,pollinates
+47201,59991,Comandra umbellata,Bastard Toadflax,pollinates
+47201,,Phoradendron serotinum,,pollinates
+47201,,Symphyotrichum laeve concinnum,,pollinates
+47201,,Ephedra campylopoda,,pollinates
+47201,51148,Crataegus,hawthorns,pollinates
+47201,,Ephedra aphylla,,pollinates
+47201,,http://treatment.plazi.org/id/D54D997630234E3DF3652C209670113A,,pollinates
+47201,,Gayophytum,,pollinates
+47201,167235,Polygonum cascadense,,pollinates
+47201,76630,Delphinium nuttallianum,Nuttall's larkspur,pollinates
+47201,128825,Coreopsis grandiflora,large-flowered tickseed,pollinates
+47201,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+47201,,Lithophragma parviflorum,,pollinates
+47201,,Psoralea esculenta,,pollinates
+47201,,Ranunculus aestivalis,,pollinates
+47201,340143,Flueggea virosa,snowberrytree,pollinates
+47201,50630,Erysimum,Wallflowers,pollinates
+47201,,Anacardium occidentale,,pollinates
+47201,,Wilkesia,,pollinates
+47201,,Lavandula latifolia,,pollinates
+47201,,Lonicera heterophylla,,pollinates
+47201,148006,Salvia farinacea,Mealy Blue Sage,pollinates
+47201,,Cuscuta epithymum,,pollinates
+47201,,Triphysaria pusilla,,pollinates
+47201,56099,Ajuga reptans,carpet bugle,pollinates
+47201,,Salvia splendens,,pollinates
+47201,,Capsicum frutescens,,pollinates
+47201,,Townsendia aprica,,pollinates
+47201,,Stachys tenuifolia,,pollinates
+47201,,Symphoricarpos albus,,pollinates
+47201,,Carduus nutans,,pollinates
+47201,53367,Cornus sericea sericea,American dogwood,pollinates
+47201,,Gelsemium rankinii,,pollinates
+47201,,Monarda punctata,,pollinates
+47201,78332,Paeonia brownii,Brown's Peony,pollinates
+47201,72358,Sesbania,riverhemps,pollinates
+47201,165645,Napaea dioica,Glade Mallow,pollinates
+47201,,Pyxidanthera barbulata,,pollinates
+47201,,Eriogonum ovalifolium vineum,,pollinates
+47201,,Amoreuxia,,pollinates
+47201,,Dudleya greenei,,pollinates
+47201,471197,Epipactis thunbergii,Persimmon Orchid,pollinates
+47201,,Ludwigia elegans,,pollinates
+47201,123473,Jacquemontia reclinata,Beach jacquemontia,pollinates
+47201,,Conyza subscaposa,,pollinates
+47201,131831,Oldenlandia,,pollinates
+47201,133311,Richardia scabra,Florida Pusley,pollinates
+47201,,Euphorbia heterophylla,,pollinates
+47201,,Clinopodium abyssinicum,,pollinates
+47201,,Aspilia pluriseta,,pollinates
+47201,,Musa spp.*,,pollinates
+47201,49033,Myrica,,pollinates
+47201,,Emilia,,pollinates
+47201,,Wahlenbergia abyssinica,,pollinates
+47201,,Vernonia lasiopus,,pollinates
+47201,,http://treatment.plazi.org/id/3C170C73D2FA02BDC18E1991B9797F39,,pollinates
+47201,169944,Tridax procumbens,Tridax daisy,pollinates
+47201,64342,Coffea arabica,Coffee,pollinates
+47201,62229,Ischnura cervula,Pacific Forktail,preysOn
+47201,47822,Diptera,Flies,preysOn
+47201,47157,Lepidoptera,Butterflies and Moths,preysOn
+47201,49470,Collembola,Springtails,preysOn
+47201,53273,Eriophora,,preysOn
+47201,94577,Argia translata,Dusky Dancer,preysOn
+47201,,Family Aphididae,,preysOn
+47201,,Cerceris rybyensis,,preysOn
+47201,13270,Hylocichla mustelina,Wood Thrush,preyedUponBy
+47201,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,preyedUponBy
+47201,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+47201,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+47201,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+47201,14886,Mimus polyglottos,Northern Mockingbird,preyedUponBy
+47201,61617,Machimus,,preyedUponBy
+47201,3938,Arenaria interpres,Ruddy Turnstone,preyedUponBy
+47201,9921,Piranga olivacea,Scarlet Tanager,preyedUponBy
+47201,119122,Araneus trifolium,Shamrock Orbweaver,preyedUponBy
+47201,506118,Aphelocoma californica,California Scrub-Jay,preyedUponBy
+47201,41090,Glossophaga soricina,Pallas's Long-tongued Bat,preyedUponBy
+47201,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+47201,40477,Eptesicus,House Bats,preyedUponBy
+47201,41293,Tadarida,,preyedUponBy
+47201,29630,Saphenophis boursieri,Spotted Genuine-Snake,preyedUponBy
+47201,28649,Sonora semiannulata,Ground Snake,preyedUponBy
+47201,26928,Conopsis biserialis,Two-lined Mexican Earth Snake,preyedUponBy
+47201,32512,Rena dulcis,Texas Blind Snake,preyedUponBy
+47201,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+47201,13632,Baeolophus bicolor,Tufted Titmouse,preyedUponBy
+47201,369054,Pseudomugil signifer,Pacific Blue Eye,preyedUponBy
+47201,,Kuhlia rupestris,,preyedUponBy
+47201,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy
+47201,93797,Ambassis agassizii,Agassiz's Glassfish,preyedUponBy
+47201,202148,Nematalosa erebi,Bony Bream,preyedUponBy
+47201,187422,Giuris margaritacea,Snakehead Gudgeon,preyedUponBy
+47201,74719,Myotis septentrionalis,Northern Myotis,preyedUponBy
+47201,,Tadarida aegyptiaca,,preyedUponBy
+47201,,Pipistrellus tenuis,,preyedUponBy
+47201,,Scotozous dormeri,,preyedUponBy
+47201,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+47201,,Megaderma lyra,,preyedUponBy
+47201,41277,Eumops perotis,Western Bonneted Bat,preyedUponBy
+47201,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+47201,,Trichonephila clavipes,,preyedUponBy
+47201,,Misumessus oblongus,,preyedUponBy
+47201,48957,Arilus cristatus,Wheel Bug,preyedUponBy
+47201,,Phidippus californicus,,preyedUponBy
+47201,,Zelus tetracanthus,,preyedUponBy
+47201,245656,Synema globosum,Napoleon Spider,preyedUponBy
+47201,,Dioctria cothurnata,,preyedUponBy
+47201,,Dioctria linearis,,preyedUponBy
+47201,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+47201,,Saxicola rubicola,,preyedUponBy
+47201,16787,Tyrannus melancholicus,Tropical Kingbird,preyedUponBy
+47201,,Mallophora leschenaulti,,preyedUponBy
+47201,,Araneus annulipes,,preyedUponBy
+47201,135239,Dioctria hyalipennis,Stripe-legged Robberfly,preyedUponBy
+47201,67598,Solenopsis invicta,Red Imported Fire Ant,preyedUponBy
+47201,,Phymata fasciata,,preyedUponBy
+47201,,Lophyra candida,,preyedUponBy
+47201,59281,Thomisus onustus,Pink Crab Spider,preyedUponBy
+47201,,Saropogon antipodus,,preyedUponBy
+47201,,Saropogon fascipes,,preyedUponBy
+47201,,Phidippus whitmani,,preyedUponBy
+47201,,Thiania bhamoensis,,preyedUponBy
+47201,,Notocyrtus dorsalis,,preyedUponBy
+47201,52651,Sarracenia purpurea,purple pitcher plant,preyedUponBy
+47201,,Family Thomisidae,,preyedUponBy
+47201,,Aranae,,preyedUponBy
+47201,40715,Hipposideros ater,Dusky Roundleaf Bat,preyedUponBy
+47201,40719,Hipposideros diadema,Diadem Roundleaf Bat,preyedUponBy
+47201,40661,Rhinolophus megaphyllus,Eastern Horseshoe Bat,preyedUponBy
+47201,40657,Rhinolophus pearsonii,Pearson's Horseshoe Bat,preyedUponBy
+47201,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+47201,40544,Chalinolobus gouldii,Gould's Wattled Bat,preyedUponBy
+47201,75228,Vespadelus regulus,Southern Forest Bat,preyedUponBy
+47201,75230,Vespadelus vulturnus,Little Forest Bat,preyedUponBy
+47201,40543,Chalinolobus morio,Chocolate Wattled Bat,preyedUponBy
+47201,75223,Vespadelus caurinus,Northern Cave Bat,preyedUponBy
+47201,75074,Scotorepens greyii,Little Broad-nosed Bat,preyedUponBy
+47201,74915,Pipistrellus westralis,Northern Pipistrelle,preyedUponBy
+47201,74893,Pipistrellus adamsi,Forest Pipistrelle,preyedUponBy
+47201,40552,Chalinolobus nigrogriseus,Hoary Wattled Bat,preyedUponBy
+47201,57534,Miniopterus schreibersii,Schreibers' Long-fingered Bat,preyedUponBy
+47201,765455,Mormopterus cobourgianus,Northern Coastal Free-tailed Bat,preyedUponBy
+47201,765458,Mormopterus lumsdenae,Northern Free-tailed Bat,preyedUponBy
+47201,74711,Myotis macropus,Large-footed Myotis,preyedUponBy
+47201,,Taphozous georgianus,,preyedUponBy
+47201,41342,Saccolaimus flaviventris,Yellow-bellied Pouched Bat,preyedUponBy
+47201,40779,Rhinonicteris aurantia,Orange Leaf-nosed Bat,preyedUponBy
+47201,,Hipposideros stenotis,,preyedUponBy
+47201,41326,Macroderma gigas,Australian False Vampire Bat,preyedUponBy
+47201,41141,Leptonycteris,Mexican Long-nosed Bats,preyedUponBy
+47201,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy
+47201,40286,Myotis nigricans,Black Myotis,preyedUponBy
+47201,40485,Eptesicus furinalis,Argentine Brown Bat,preyedUponBy
+47201,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+47201,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+47201,183170,Miniopterus manavi,Manavi Long-fingered Bat,preyedUponBy
+47201,74624,Miniopterus majori,Major's Long-fingered Bat,preyedUponBy
+47201,,Myotis goudoti,,preyedUponBy
+47201,41279,Mormopterus,,preyedUponBy
+47201,40608,Murina leucogaster,greater tube-nosed bat,preyedUponBy
+47201,765536,Chaerephon atsinanana,Madagascar Free-tailed Bat,preyedUponBy
+47201,40711,Aselliscus stoliczkanus,Stoliczka's Trident Bat,preyedUponBy
+47201,40444,Tylonycteris robustula,greater bamboo bat,preyedUponBy
+47201,40443,Tylonycteris pachypus,Lesser Bamboo Bat,preyedUponBy
+47201,,Scotophilus kuhlii,,preyedUponBy

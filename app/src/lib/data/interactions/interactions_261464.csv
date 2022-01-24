@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+261464,72016,Bothriochloa,Bluestems,eats
+261464,,Townsendia texensis,,eats
+261464,,Glandularia wrightii,,eats
+261464,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+261464,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+261464,16768,Tyrannus,Kingbirds,eatenBy
+261464,17408,Vireo griseus,White-eyed Vireo,eatenBy
+261464,17394,Vireo gilvus,Warbling Vireo,eatenBy
+261464,13732,Anthus rubescens,American Pipit,eatenBy

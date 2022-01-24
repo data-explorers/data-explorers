@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3817,47459,Cephalopoda,Cephalopods,eats
+3817,85493,Crustacea,Crustaceans,eats
+3817,153112,Euphausiacea,krill,eats
+3817,63770,Engraulis mordax,Northern Anchovy,eats
+3817,51912,Engraulis,,eats
+3817,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+3817,614162,Micromesistius australis,Southern blue whiting,eats
+3817,120702,Micromesistius poutassou,Blue Whiting,eats
+3817,228496,Pollachius virens,Pollock,eats
+3817,,Hyporamphus melanochir,,eats
+3817,88265,Etrumeus,Red-eye Round Herrings,eats
+3817,82337,Loligo,,eats
+3817,51910,Engraulis encrasicolus,European Anchovy,eats
+3817,146888,Illex,Shortfin Squids,eats
+3817,328042,Engraulis japonicus,Japanese Anchovy,eats
+3817,63740,Gadus morhua,Atlantic Cod,eats
+3817,447397,Engraulis anchoita,Argentine Anchoita,eats
+3817,97990,Clupea harengus,Atlantic Herring,eats
+3817,502271,Engraulis australis,Australian Anchovy,eats
+3817,82353,Merluccius,Hakes,eats
+3817,,Kondakovia longimana,,eats
+3817,215318,Boreogadus saida,Arctic Cod,eats
+3817,118600,Sardina pilchardus,European Sardine,eats
+3817,324532,Sprattus sprattus,European Sprat,eats
+3817,,Teuthida,,eats
+3817,180029,Gadus macrocephalus,Pacific Cod,eats
+3817,254742,Astyris lunata,Lunate Dove Shell,eats
+3817,614161,Gadus chalcogrammus,Alaska Pollock,eats
+3817,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+3817,117571,Clupea pallasii,Pacific herring,eats
+3817,,Gnathostomata,,eats
+3817,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+3817,218966,Eleginus gracilis,Saffron Cod,eats
+3817,,Etrumeus teres,,eats
+3817,85289,Pseudophycis bachus,Red cod,eats
+3817,55535,Sardinops sagax,Pacific Sardine,eats
+3817,,Macruronus magellanicus,,eats
+3817,,Hyperlophus vittatus,,eats
+3817,,Others,,eats
+3817,,others,,eats
+3817,,Pisces,,eats
+3817,41752,Arctocephalus forsteri,New Zealand Fur Seal,eatenBy
+3817,41759,Neophoca cinerea,Australian Sea Lion,eatenBy
+3817,355675,Vertebrata,Vertebrates,preyedUponBy
+3817,41752,Arctocephalus forsteri,New Zealand Fur Seal,preyedUponBy
+3817,41759,Neophoca cinerea,Australian Sea Lion,preyedUponBy

@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82020,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+82020,,Asclepias linaria,,preysOn
+82020,,Phidippus princeps pulcherrimus,,preyedUponBy
+82020,,Promachus rufipes,,preyedUponBy

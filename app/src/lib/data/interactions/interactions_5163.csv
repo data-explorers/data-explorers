@@ -1,0 +1,131 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5163,35707,Podarcis carbonelli,Carbonell’s Wall Lizard,eats
+5163,7294,Eremophila alpestris,Horned Lark,eats
+5163,981,Phasianus colchicus,Ring-necked Pheasant,eats
+5163,14850,Sturnus vulgaris,European Starling,eats
+5163,13858,Passer domesticus,House Sparrow,eats
+5163,44259,Microtus,Meadow Voles,eats
+5163,43095,Leporidae,Hares and Rabbits,eats
+5163,44540,Rattus,Old World Rats,eats
+5163,46342,Sorex,Long-tailed Shrews,eats
+5163,7251,Passeriformes,Perching Birds,eats
+5163,44326,Microtus californicus,California Vole,eats
+5163,6922,Anas,"Mallards, Pintails, and Allies",eats
+5163,6888,Anseriformes,Waterfowl,eats
+5163,,Darevskia alpina,,eats
+5163,,Acanthodactylus,,eats
+5163,,Lacerta pamphylica,,eats
+5163,66314,Pelophylax bedriagae,Levant Green Frog,eats
+5163,,Prometheomys schaposchnikowi,,eats
+5163,,Podarcis sicula,,eats
+5163,,Myodes glareolus,,eats
+5163,,Passer italiae,,eats
+5163,12908,Saxicola rubetra,Whinchat,eats
+5163,,Iberolacerta galani,,eats
+5163,,Anthus spinoletta,,eats
+5163,,Lacerta trilineata,,eats
+5163,,Podarcis hispanicus,,eats
+5163,,Lacerta media,,eats
+5163,,Microtus subterraneus,,eats
+5163,,Motacilla citreola,,eats
+5163,,Microtus socialis,,eats
+5163,,Hellenolacerta graeca,,eats
+5163,,Darevskia portschinskii,,eats
+5163,25660,Rana pyrenaica,Pyrenean frog,eats
+5163,46639,Crocidura serezkyensis,Lesser Rock Shrew,eats
+5163,,Microtus felteni,,eats
+5163,,Microtus daghestanicus,,eats
+5163,145360,Chloris chloris,European Greenfinch,eats
+5163,,Petronia petronia,,eats
+5163,,Emberiza pallasi,,eats
+5163,,Microtus schidlovskii,,eats
+5163,,Podarcis muralis,,eats
+5163,831,Perdix perdix,Gray Partridge,eats
+5163,,Melanocorypha leucoptera,,eats
+5163,,Myodes rutilus,,eats
+5163,35516,Psammodromus hispanicus,Spanish Psammodromus,eats
+5163,,Microtus arvalis,,eats
+5163,,Podarcis liolepis,,eats
+5163,,Podarcis erhardii,,eats
+5163,65450,Epidalea calamita,Natterjack Toad,eats
+5163,,Darevskia raddei nairensis,,eats
+5163,,Iberolacerta bonnali,,eats
+5163,,Pelophylax cerigensis,,eats
+5163,,Zootoca vivipara,,eats
+5163,,Iranolacerta brandtii,,eats
+5163,13686,Motacilla,Wagtails,eats
+5163,,Emberiza rustica,,eats
+5163,,Ammomanes deserti,,eats
+5163,,Carduelis carduelis,,eats
+5163,,Calandrella brachydactyla,,eats
+5163,,Arvicola scherman,,eats
+5163,,Passer moabiticus,,eats
+5163,,Mesocricetus newtoni,,eats
+5163,,Anthus hodgsoni,,eats
+5163,35912,Lacerta agilis,Sand Lizard,eats
+5163,,Crocidura leucodon,,eats
+5163,,Podarcis lilfordi,,eats
+5163,,Carpodacus erythrinus,,eats
+5163,,Calandrella rufescens,,eats
+5163,7347,Alauda arvensis,Eurasian Skylark,eats
+5163,,Iberolacerta aranica,,eats
+5163,,Darevskia rostombekovi,,eats
+5163,,Chionomys gud,,eats
+5163,,Bufotes variabilis,,eats
+5163,,Sylvia,,eats
+5163,15302,Sylvia borin,Garden Warbler,eats
+5163,,Darevskia praticola,,eats
+5163,,Eremias intermedia,,eats
+5163,,Sylvia ruppeli,,eats
+5163,66322,Pelophylax esculentus,Edible Frog,eats
+5163,,Sorex tundrensis,,eats
+5163,,Anthus pratensis,,eats
+5163,,Crocidura armenica,,eats
+5163,804,Coturnix coturnix,Common Quail,eats
+5163,,Gallotia stehlini,,eats
+5163,,Acanthodactylus erythrurus,,eats
+5163,,Crocidura zimmermanni,,eats
+5163,,Linaria flavirostris,,eats
+5163,10070,Fringilla coelebs,Common Chaffinch,eats
+5163,204480,Carpodacus rubicilla,Great Rosefinch,eats
+5163,,Bufotes balearica,,eats
+5163,,Darevskia clarkorum,,eats
+5163,,Lacerta strigata,,eats
+5163,,Darevskia lindholmi,,eats
+5163,,Emberiza,,eats
+5163,66327,Pelophylax kurtmuelleri,Balkan Frog,eats
+5163,,Emberiza cirlus,,eats
+5163,,Anthus campestris,,eats
+5163,9210,Emberiza leucocephalos,Pine Bunting,eats
+5163,,Emberiza cineracea,,eats
+5163,,Myodes rufocanus,,eats
+5163,8010,Corvus corax,Common Raven,eatenBy
+5163,42069,Vulpes vulpes,Red Fox,eatenBy
+5163,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+5163,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+5163,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+5163,19898,Strix aluco,Tawny Owl,eatenBy
+5163,204496,Corvus corone,Carrion Crow,eatenBy
+5163,42048,Canis lupus,Gray Wolf,eatenBy
+5163,851014,Canis aureus,Golden Jackal,eatenBy
+5163,41900,Herpestes ichneumon,Ichneumon,eatenBy
+5163,42065,Vulpes corsac,Corsac Fox,eatenBy
+5163,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+5163,,Elaphe situla,,eatenBy
+5163,39407,Varanus griseus,Desert Monitor,eatenBy
+5163,27035,Hierophis viridiflavus carbonarius,,eatenBy
+5163,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+5163,28451,Telescopus nigriceps,Black headed snake,eatenBy
+5163,20979,Anura,Frogs and Toads,preysOn
+5163,44259,Microtus,Meadow Voles,preysOn
+5163,7251,Passeriformes,Perching Birds,preysOn
+5163,44540,Rattus,Old World Rats,preysOn
+5163,6922,Anas,"Mallards, Pintails, and Allies",preysOn
+5163,44419,Reithrodontomys,American Harvest Mice,preysOn
+5163,6888,Anseriformes,Waterfowl,preysOn
+5163,46342,Sorex,Long-tailed Shrews,preysOn
+5163,40268,Chiroptera,Bats,preysOn
+5163,,migrant shorebirds,,preysOn
+5163,,Rallus,,preysOn
+5163,,Mus,,preysOn
+5163,,Nycteris hispida,,preysOn

@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81616,48919,Littorina,Periwinkles,eats
+81616,49518,Serpulidae,Serpulid Tubeworms,eats
+81616,,Detritus complex,,eats
+81616,,Tectura scutum,,eats
+81616,,Strongylocentrotus franciscanus,,eats
+81616,47827,Cancer,,eatenBy
+81616,43584,Homo sapiens,Human,eatenBy
+81616,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+81616,376425,Fusitriton,,eatenBy
+81616,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+81616,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+81616,83329,Buccinidae,True Whelks,eatenBy
+81616,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+81616,,Strongylocentrotus franciscanus,,eatenBy
+81616,48919,Littorina,Periwinkles,preysOn
+81616,,Phytoplankton,,preysOn
+81616,,Detritus complex,,preysOn
+81616,,Zooplankton,,preysOn
+81616,47827,Cancer,,preyedUponBy
+81616,376425,Fusitriton,,preyedUponBy
+81616,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy
+81616,47669,Orthasterias koehleri,Rainbow Star,preyedUponBy

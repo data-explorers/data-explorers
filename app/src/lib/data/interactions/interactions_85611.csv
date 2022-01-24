@@ -1,0 +1,80 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85611,,plankton,,eats
+85611,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+85611,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+85611,4424,Sterna,Typical Terns,eatenBy
+85611,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+85611,144539,Thalasseus maximus,Royal Tern,eatenBy
+85611,4353,Larus heermanni,Heermann's Gull,eatenBy
+85611,144541,Thalasseus sandvicensis,Sandwich Tern,eatenBy
+85611,144542,Thalasseus elegans,Elegant Tern,eatenBy
+85611,4343,Larus,Large White-headed Gulls,eatenBy
+85611,4457,Sterna forsteri,Forster's Tern,eatenBy
+85611,144530,Sternula antillarum,Least Tern,eatenBy
+85611,4345,Larus occidentalis,Western Gull,eatenBy
+85611,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+85611,47542,Istiophoridae,Billfishes,eatenBy
+85611,4453,Sterna sumatrana,Black-naped Tern,eatenBy
+85611,4425,Sterna trudeaui,Snowy-crowned Tern,eatenBy
+85611,4272,Phalacrocorax aristotelis,European Shag,eatenBy
+85611,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+85611,4436,Sterna dougallii,Roseate Tern,eatenBy
+85611,4428,Sterna aurantia,River Tern,eatenBy
+85611,4354,Larus livens,Yellow-footed Gull,eatenBy
+85611,144543,Thalasseus bengalensis,Lesser Crested Tern,eatenBy
+85611,144532,Sternula nereis,Fairy Tern,eatenBy
+85611,,Larus scopulinus,,eatenBy
+85611,,Larus atricilla,,eatenBy
+85611,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+85611,,Larus cirrocephalus,,eatenBy
+85611,4390,Larus pacificus,Pacific Gull,eatenBy
+85611,,Sternula lorata,,eatenBy
+85611,4461,Sterna acuticauda,Black-bellied Tern,eatenBy
+85611,4478,Sterna striata,White-fronted Tern,eatenBy
+85611,4371,Larus belcheri,Belcher's Gull,eatenBy
+85611,144538,Chlidonias albostriatus,Black-fronted Tern,eatenBy
+85611,4464,Sterna repressa,White-cheeked Tern,eatenBy
+85611,,Larus novaehollandiae,,eatenBy
+85611,,Larus fuliginosus,,eatenBy
+85611,,Larus brunnicephalus,,eatenBy
+85611,144529,Sternula albifrons,Little Tern,eatenBy
+85611,144534,Sternula saundersi,Saunders's Tern,eatenBy
+85611,,Larus audouinii,,eatenBy
+85611,55811,Prunus spinosa,Blackthorn,eatenBy
+85611,,billfish,,eatenBy
+85611,179466,Strongylura notata notata,Redfin needlefish,eatenBy
+85611,51404,Trichiurus lepturus,Largehead Hairtail,eatenBy
+85611,118709,Lichia amia,Leerfish,eatenBy
+85611,118679,Argyrosomus regius,Brown Meagre,eatenBy
+85611,85294,Arripis truttacea,Western Australian Salmon,eatenBy
+85611,56764,Sphyrna lewini,Scalloped Hammerhead,eatenBy
+85611,,Rhinobatos productus,,eatenBy
+85611,51491,Myliobatis californica,Bat Ray,eatenBy
+85611,106650,Negaprion brevirostris,Lemon Shark,eatenBy
+85611,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+85611,204570,Lutjanus ehrenbergii,Ehrenberg's Snapper,eatenBy
+85611,173863,Atule mate,Barred Yellowtail Scad,eatenBy
+85611,47251,Sphyraena barracuda,Great Barracuda,eatenBy
+85611,127131,Scomberoides lysan,Lesser Queenfish,eatenBy
+85611,96990,Cephalopholis boenak,Chocolate Grouper,eatenBy
+85611,47263,Sphyraena,Barracudas,eatenBy
+85611,121459,Lutjanus fulvus,Blacktail Snapper,eatenBy
+85611,182608,Lutjanus jocu,Dog Snapper,eatenBy
+85611,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+85611,49617,Scomberomorus regalis,Cero,eatenBy
+85611,111752,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark,eatenBy
+85611,55529,Carcharhinus limbatus,Common Blacktip Shark,eatenBy
+85611,128750,Sciaenops ocellatus,Red Drum,eatenBy
+85611,51405,Elops saurus,Ladyfish,eatenBy
+85611,50984,Pomatomus saltatrix,Bluefish,eatenBy
+85611,49437,Centropomus undecimalis,Common Snook,eatenBy
+85611,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+85611,3812,Spheniscus magellanicus,Magellanic Penguin,eatenBy
+85611,,plankton,,preysOn
+85611,144530,Sternula antillarum,Least Tern,preyedUponBy
+85611,144537,Hydroprogne caspia,Caspian Tern,preyedUponBy
+85611,4277,Phalacrocorax penicillatus,Brandt's Cormorant,preyedUponBy
+85611,51491,Myliobatis californica,Bat Ray,preyedUponBy
+85611,54191,Oncorhynchus tshawytscha,Chinook Salmon,preyedUponBy
+85611,,billfish,,preyedUponBy
+85611,55811,Prunus spinosa,Blackthorn,preyedUponBy

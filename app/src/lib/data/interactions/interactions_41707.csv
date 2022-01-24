@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41707,47178,Actinopterygii,Ray-finned Fishes,eats
+41707,165100,Mallotus villosus,Capelin,eats
+41707,,Zooplankton,,eats
+41707,87532,Clupea,,eats
+41707,50986,Pomatomus,,eats
+41707,,nearshore fishes,,eats
+41707,69842,Scomber,,eats
+41707,43584,Homo sapiens,Human,eatenBy
+41707,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+41707,41521,Orcinus orca,Orca,eatenBy
+41707,,prehistoric Aleut man,,eatenBy
+41707,,nearshore fishes,,preysOn
+41707,,prehistoric Aleut man,,preyedUponBy

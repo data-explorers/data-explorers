@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49716,49883,Betula papyrifera,paper birch,eats
+49716,48098,Acer rubrum,red maple,eats
+49716,54500,Malus,apples,eats
+49716,54834,Prunus serotina,black cherry,eats
+49716,49882,Betula alleghaniensis,yellow birch,eats
+49716,49203,Fagus,beeches,eats
+49716,47851,Quercus,oaks,eats
+49716,54806,Fraxinus,ashes,eats
+49716,53373,Corylus,hazels,eats
+49716,54768,Carpinus caroliniana,American hornbeam,eats
+49716,54860,Ulmus rubra,slippery elm,eats
+49716,52740,Vaccinium corymbosum,Northern highbush blueberry,eats
+49716,61237,Chaenomeles,Flowering quinces,eats
+49716,51148,Crataegus,hawthorns,eats
+49716,76469,Crataegus douglasii,Black Hawthorn,eats
+49716,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

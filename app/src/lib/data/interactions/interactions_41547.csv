@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41547,195136,Euphausia,,eats
+41547,344134,Euphausia superba,Antarctic Krill,eats
+41547,952605,Euphausia crystallorophias,,eats
+41547,,Zooplankton,,eats
+41547,432389,Berryteuthis anonychus,Smallfin Armhook Squid,eats
+41547,105599,Merluccius productus,Pacific Hake,eats
+41547,165100,Mallotus villosus,Capelin,eats
+41547,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+41547,,Thysanoessa longipes,,eats
+41547,195087,Thysanoessa inermis,,eats
+41547,107570,Oncorhynchus gorbuscha,Pink Salmon,eats
+41547,,Theragra chalcogramma,,eats
+41547,53692,Oncorhynchus kisutch,Coho Salmon,eats
+41547,567075,Neocalanus cristatus,,eats
+41547,43584,Homo sapiens,Human,eatenBy
+41547,41479,Delphinidae,Oceanic Dolphins,eatenBy
+41547,41521,Orcinus orca,Orca,eatenBy
+41547,699271,Anisakis,,eatenBy
+41547,344134,Euphausia superba,Antarctic Krill,preysOn
+41547,952605,Euphausia crystallorophias,,preysOn
+41547,43584,Homo sapiens,Human,preyedUponBy
+41547,41479,Delphinidae,Oceanic Dolphins,preyedUponBy

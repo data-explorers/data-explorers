@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57065,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+57065,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+57065,,Trichoplusia orichalcea,,eatenBy
+57065,,Chrysodeixis chalcites,,eatenBy
+57065,,Argina astrea,,eatenBy
+57065,,Sitona discoideus,,eatenBy
+57065,47219,Apis mellifera,Western Honey Bee,pollinatedBy

@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+39532,1,Animalia,Animals,eats
+39532,211194,Tracheophyta,vascular plants,eats
+39532,47126,Plantae,plants,eats
+39532,59117,Gambusia,Mosquitofishes,eats
+39532,47178,Actinopterygii,Ray-finned Fishes,eats
+39532,20979,Anura,Frogs and Toads,eats
+39532,,Algae,,eats
+39532,49334,Cyprinodontidae,Pupfishes,eats
+39532,58612,Carassius auratus,Goldfish,eats
+39532,,Emergent vascular plants,,eats
+39532,,Algal mats - Crusts,,eats
+39532,,submergent vascular plants,,eats
+39532,,algal mats - crusts,,eats
+39532,,emergent vascular plants,,eats
+39532,,animal carcasses,,eats
+39532,41663,Procyon lotor,Common Raccoon,eatenBy
+39532,42069,Vulpes vulpes,Red Fox,eatenBy
+39532,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+39532,67570,Falconiformes,Falcons and Caracaras,eatenBy
+39532,41661,Procyon,Raccoons,eatenBy
+39532,42541,Didelphidae,Opossums,eatenBy
+39532,144455,Ardea alba,Great Egret,eatenBy
+39532,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+39532,41641,Ursus arctos,Brown Bear,eatenBy
+39532,26159,Alligator mississippiensis,American Alligator,eatenBy
+39532,104980,Maccullochella peelii,Murray Cod,eatenBy
+39532,620752,Pygocentrus cariba,Black Spot Piranha,eatenBy
+39532,50873,Carcharodon carcharias,Great White Shark,eatenBy
+39532,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+39532,4765,Coragyps atratus,Black Vulture,eatenBy
+39532,,Animal carcasses,,preysOn
+39532,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+39532,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+39532,29813,Lampropeltis getula,Eastern Kingsnake,preyedUponBy
+39532,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+39532,26159,Alligator mississippiensis,American Alligator,preyedUponBy

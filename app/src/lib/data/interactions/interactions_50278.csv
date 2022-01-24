@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50278,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+50278,,Partheno quinquef,,eats
+50278,143452,Deidamia inscriptum,Lettered Sphinx,eatenBy
+50278,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+50278,14850,Sturnus vulgaris,European Starling,eatenBy
+50278,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+50278,18236,Colaptes auratus,Northern Flicker,eatenBy
+50278,12727,Turdus migratorius,American Robin,eatenBy
+50278,9602,Quiscalus quiscula,Common Grackle,eatenBy
+50278,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+50278,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+50278,12901,Catharus fuscescens,Veery,eatenBy
+50278,12890,Catharus guttatus,Hermit Thrush,eatenBy
+50278,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+50278,19660,Regulus,Kinglets,eatenBy
+50278,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+50278,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+50278,17355,Vireo,Vireos,eatenBy
+50278,12942,Sialia sialis,Eastern Bluebird,eatenBy
+50278,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+50278,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+50278,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+50278,122356,Eumorpha achemon,Achemon Sphinx,eatenBy
+50278,50278,Parthenocissus quinquefolia,Virginia creeper,eatenBy
+50278,84950,Alypia octomaculata,Eight-spotted Forester Moth,eatenBy
+50278,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+50278,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+50278,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+50278,,Eupoecilia ambiguella,,eatenBy
+50278,,Eumorpha pandorus,,eatenBy
+50278,,Darapsa myron,,eatenBy
+50278,,Amphion floridensis,,eatenBy
+50278,,Hippotion eson,,eatenBy
+50278,,Albuna fraxini,,eatenBy
+50278,,Eudryas grata,,eatenBy
+50278,,Phyllodesma americana,,eatenBy
+50278,,Euproctis chrysorrhoea,,eatenBy
+50278,963998,Thinopteryx crocoptera,,eatenBy
+50278,,Phyllocnistis ampelopsiella,,eatenBy
+50278,,Eulithis diversilineata,,eatenBy
+50278,,Ecliptopera delecta,,eatenBy
+50278,,Monochroa absconditella,,eatenBy
+50278,12883,Catharus minimus,Gray-cheeked Thrush,eatenBy
+50278,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+50278,,Vireo flavifrons,,eatenBy
+50278,17408,Vireo griseus,White-eyed Vireo,eatenBy
+50278,,Empidonax virescens,,eatenBy
+50278,18205,Melanerpes carolinus,Red-bellied Woodpecker,eatenBy
+50278,13094,Erithacus rubecula,European Robin,eatenBy
+50278,,Cytospora ampelopsidis,,eatenBy
+50278,,Phomopsis ampelopsidis,,eatenBy
+50278,,Eumorpha typhon,,eatenBy
+50278,,Enyo lugubris,,eatenBy
+50278,,Setophaga striata,,eatenBy
+50278,324726,Lycorma delicatula,Spotted Lanternfly,eatenBy
+50278,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+50278,130131,Ectemnius,,pollinatedBy
+50278,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+50278,176923,Mordella,,pollinatedBy
+50278,325491,Sayapis,,pollinatedBy
+50278,119074,Chlorion,,pollinatedBy
+50278,52756,Polistes,Umbrella Paper Wasps,pollinatedBy
+50278,52781,Melissodes,,pollinatedBy
+50278,47652,Erynnis,Duskywings,pollinatedBy
+50278,178498,Phytocoris,,pollinatedBy
+50278,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+50278,61356,Vespula,Ground Yellowjackets,pollinatedBy
+50278,,Epeolus pusillus,,pollinatedBy
+50278,,Corimelaena pulicaria,,pollinatedBy
+50278,,Triepeolus donatus,,pollinatedBy
+50278,538874,Bombias,,pollinatedBy
+50278,,Leionotus,,pollinatedBy
+50278,,Epalpus,,pollinatedBy
+50278,,Osmia atriventris,,pollinatedBy
+50278,,Bibio albipennis,,pollinatedBy
+50278,,Curtisapis,,pollinatedBy
+50278,,Cerotoma,,pollinatedBy
+50278,,Bracon,,pollinatedBy
+50278,,Oxybelus inornatus,,pollinatedBy
+50278,,Leskia,,pollinatedBy
+50278,320563,Anthocomus,,pollinatedBy
+50278,,Mordellistena aspersa,,pollinatedBy
+50278,,Siphonella,,pollinatedBy
+50278,,Parhelophilus divisus,,pollinatedBy
+50278,,Mesogramma,,pollinatedBy
+50278,,Ortholomus,,pollinatedBy
+50278,,Sapyga centrata,,pollinatedBy
+50278,1292982,Meromyza americana,,pollinatedBy
+50278,,Polysphincta,,pollinatedBy
+50278,,Typocerus sinuatus,,pollinatedBy
+50278,,Elis,,pollinatedBy
+50278,,Aedes stimulans,,pollinatedBy
+50278,,Lucilia sericata ,,pollinatedBy
+50278,,Distichona auriceps,,pollinatedBy
+50278,172709,Acmaeops,,pollinatedBy
+50278,,Tryphon americanus,,pollinatedBy
+50278,,Typocerus lugubris,,pollinatedBy
+50278,,Chloralictus,,pollinatedBy
+50278,,Hyptia reticulata,,pollinatedBy
+50278,,Andrena carlini,,pollinatedBy
+50278,,Scymnus consobrinus,,pollinatedBy

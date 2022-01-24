@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+253674,199351,Phyllorhiza,,eats
+253674,199347,Phyllorhiza punctata,Australian Spotted Jelly,eats
+253674,,Medusozoa,,eats
+253674,41742,Arctocephalus pusillus,Brown Fur Seal,eatenBy
+253674,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+253674,69676,Thunnus,Bluefin Tunas,eatenBy
+253674,41541,Grampus griseus,Risso's Dolphin,eatenBy
+253674,3827,Eudyptes chrysocome,Southern Rockhopper Penguin,eatenBy
+253674,3825,Eudyptes chrysolophus,Macaroni Penguin,eatenBy
+253674,115167,Xiphias gladius,Swordfish,eatenBy
+253674,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+253674,110361,Prionace glauca,Blue Shark,eatenBy
+253674,136618,Istiophorus albicans,Atlantic Sailfish,eatenBy
+253674,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+253674,147455,Makaira nigricans,Blue Marlin,eatenBy
+253674,199347,Phyllorhiza punctata,Australian Spotted Jelly,preysOn
+253674,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy
+253674,41742,Arctocephalus pusillus,Brown Fur Seal,preyedUponBy
+253674,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy
+253674,110361,Prionace glauca,Blue Shark,preyedUponBy
+253674,115167,Xiphias gladius,Swordfish,preyedUponBy
+253674,136618,Istiophorus albicans,Atlantic Sailfish,preyedUponBy
+253674,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preyedUponBy
+253674,41541,Grampus griseus,Risso's Dolphin,preyedUponBy

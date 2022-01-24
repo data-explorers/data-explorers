@@ -1,0 +1,188 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49587,44396,Peromyscus maniculatus,Deer Mouse,eats
+49587,49587,Micropterus salmoides,Largemouth Bass,eats
+49587,50175,Enallagma,Bluets,eats
+49587,129409,Chironomus,,eats
+49587,247660,Polypedilum,,eats
+49587,51556,Sympetrum,Meadowhawks,eats
+49587,333586,Oligochaeta,Earthworms and allies,eats
+49587,64222,Tricladida,Planarians,eats
+49587,11853,Hirundinidae,Swallows and Martins,eats
+49587,53275,Chironomidae,Non-biting Midges,eats
+49587,47818,Libellula,Chasers and King Skimmers,eats
+49587,119047,Veliidae,Ripple Bugs,eats
+49587,47927,Anisoptera,Dragonflies,eats
+49587,121643,Copepoda,Copepods,eats
+49587,52002,Crambidae,Crambid Snout Moths,eats
+49587,53911,Cyprinus carpio,European Carp,eats
+49587,49591,Lepomis macrochirus,Bluegill,eats
+49587,39682,Chelydra serpentina,Common Snapping Turtle,eats
+49587,47178,Actinopterygii,Ray-finned Fishes,eats
+49587,47822,Diptera,Flies,eats
+49587,47186,Decapoda,Decapods,eats
+49587,47628,Amphipoda,Amphipods,eats
+49587,84735,Corixidae,Water Boatmen,eats
+49587,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+49587,47158,Insecta,Insects,eats
+49587,47584,Bivalvia,Bivalves,eats
+49587,47118,Araneae,Spiders,eats
+49587,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+49587,47126,Plantae,plants,eats
+49587,62164,Trichoptera,Caddisflies,eats
+49587,48011,Ephemeroptera,Mayflies,eats
+49587,85532,Mysida,Opossum Shrimps,eats
+49587,53707,Cladophora,,eats
+49587,49504,Callinectes sapidus,Atlantic Blue Crab,eats
+49587,85493,Crustacea,Crustaceans,eats
+49587,49588,Centrarchidae,Freshwater Sunfishes,eats
+49587,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+49587,49609,Cyprinidae,Cyprinids,eats
+49587,1,Animalia,Animals,eats
+49587,47119,Arachnida,Arachnids,eats
+49587,47114,Gastropoda,Gastropods,eats
+49587,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+49587,47115,Mollusca,Molluscs,eats
+49587,52134,Culicidae,Mosquitoes,eats
+49587,47928,Zygoptera,Damselflies,eats
+49587,3,Aves,Birds,eats
+49587,40151,Mammalia,Mammals,eats
+49587,59115,Gambusia affinis,Western Mosquitofish,eats
+49587,49592,Lepomis,Common Sunfishes,eats
+49587,47645,Cottidae,Typical Sculpins,eats
+49587,47120,Arthropoda,Arthropods,eats
+49587,85514,Cyclopoida,Cyclopoid Copepods,eats
+49587,60340,Lithobates,American Water Frogs,eats
+49587,68138,Sympetrum corruptum,Variegated Meadowhawk,eats
+49587,294394,Chaoborus punctipennis,,eats
+49587,483820,Holopedium gibberum,,eats
+49587,,Daphnia pulex,,eats
+49587,203468,Bosmina longirostris,Elephant Water Flea,eats
+49587,,Daphnia parvula,,eats
+49587,246877,Asplanchna,,eats
+49587,,Polyarthra vulgaris,,eats
+49587,,Bezzia,,eats
+49587,174181,Corynoneura,,eats
+49587,203358,Trichocerca cylindrica,,eats
+49587,483930,Polyphemus pediculus,,eats
+49587,,Notonectidae,,eats
+49587,171430,Eubosmina,,eats
+49587,626373,Diaphanosoma birgei,,eats
+49587,,Keratella hiemalis,,eats
+49587,247741,Procladius,,eats
+49587,1019939,Leptodora kindtii,,eats
+49587,203373,Keratella cochlearis,,eats
+49587,,Notemigonus,,eats
+49587,176596,Oecetis,,eats
+49587,,Conochilus unicornis,,eats
+49587,,Agrypnia,,eats
+49587,1269830,Conochiloides,,eats
+49587,,Daphnia galeata mendotae,,eats
+49587,,Molanna,,eats
+49587,,Polyarthra remata,,eats
+49587,,Monogononta,,eats
+49587,247737,Larsia,,eats
+49587,,Banksiola,,eats
+49587,,Keratella taurocephala,,eats
+49587,209138,Sphaeroma,,eats
+49587,120561,Cricotopus,,eats
+49587,,Keratella crassa,,eats
+49587,203387,Mesocyclops edax,,eats
+49587,177502,Leptophlebia,,eats
+49587,,Gastropus,,eats
+49587,338141,Chydorus,,eats
+49587,,Polycentropus,,eats
+49587,58637,Ambloplites rupestris,Rock Bass,eats
+49587,215958,Campeloma decisum,Pointed Campeloma,eats
+49587,58652,Umbra,,eats
+49587,247694,Ablabesmyia,,eats
+49587,1011286,Chaetocladius,,eats
+49587,247658,Paratanytarsus,,eats
+49587,49594,Pomoxis nigromaculatus,Black Crappie,eats
+49587,,Crangonyx gracilis,,eats
+49587,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+49587,11853,Hirundinidae,Swallows and Martins,eatenBy
+49587,116999,Pandion haliaetus,Osprey,eatenBy
+49587,5020,Butorides virescens,Green Heron,eatenBy
+49587,4940,Egretta thula,Snowy Egret,eatenBy
+49587,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49587,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49587,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+49587,203387,Mesocyclops edax,,eatenBy
+49587,58652,Umbra,,eatenBy
+49587,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy
+49587,493544,Diacyclops thomasi,,eatenBy
+49587,58637,Ambloplites rupestris,Rock Bass,eatenBy
+49587,58627,Perca flavescens,Yellow Perch,eatenBy
+49587,26159,Alligator mississippiensis,American Alligator,eatenBy
+49587,,Ichthyomyzon castaneus,,eatenBy
+49587,,Amia calva,,eatenBy
+49587,118709,Lichia amia,Leerfish,eatenBy
+49587,55387,Esox lucius,Northern Pike,eatenBy
+49587,,Esox masquinongy,,eatenBy
+49587,4938,Egretta tricolor,Tricolored Heron,eatenBy
+49587,4742,Mycteria americana,Wood Stork,eatenBy
+49587,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+49587,4937,Egretta caerulea,Little Blue Heron,eatenBy
+49587,47178,Actinopterygii,Ray-finned Fishes,preysOn
+49587,49587,Micropterus salmoides,Largemouth Bass,preysOn
+49587,51221,Procambarus clarkii,Red Swamp Crayfish,preysOn
+49587,49591,Lepomis macrochirus,Bluegill,preysOn
+49587,59115,Gambusia affinis,Western Mosquitofish,preysOn
+49587,53911,Cyprinus carpio,European Carp,preysOn
+49587,107889,Oreochromis mossambicus,Mozambique Tilapia,preysOn
+49587,,Catostomus commersonii,,preysOn
+49587,112459,Semotilus corporalis,Fallfish,preysOn
+49587,58627,Perca flavescens,Yellow Perch,preysOn
+49587,51351,Notemigonus crysoleucas,Golden Shiner,preysOn
+49587,87626,Coregonus,Whitefishes,preysOn
+49587,179504,Osmerus mordax,Rainbow Smelt,preysOn
+49587,98445,Coregonus clupeaformis,Lake Whitefish,preysOn
+49587,110661,Prosopium cylindraceum,Round Whitefish,preysOn
+49587,111991,Salvelinus namaycush,Lake Trout,preysOn
+49587,49614,Lepomis gibbosus,Pumpkinseed,preysOn
+49587,58654,Ameiurus nebulosus,Brown Bullhead,preysOn
+49587,,Micropterus dolomieu,,preysOn
+49587,483820,Holopedium gibberum,,preysOn
+49587,294394,Chaoborus punctipennis,,preysOn
+49587,,Daphnia pulex,,preysOn
+49587,,Gymnogobius isaza,,preysOn
+49587,,Pseudobarbus phlegethon,,preysOn
+49587,,Menidia extensa,,preysOn
+49587,,Clupeonella abrau,,preysOn
+49587,,Tilapia zillii,,preysOn
+49587,,Barbus paludinosus,,preysOn
+49587,107885,Oreochromis leucostictus,Blue-spotted Tilapia,preysOn
+49587,,Poecilia reticulata,,preysOn
+49587,,Pseudorasbora parva,,preysOn
+49587,106222,Mugil cephalus,Sea Mullet,preysOn
+49587,,Gymnogobius urotaenia,,preysOn
+49587,424997,Carassius gibelio,Prussian Carp,preysOn
+49587,,Tridentiger obscurus,,preysOn
+49587,,Rhinogobius giurinus,,preysOn
+49587,49594,Pomoxis nigromaculatus,Black Crappie,preysOn
+49587,,Labidesthes sicculus,,preysOn
+49587,96911,Centrarchus macropterus,Flier,preysOn
+49587,99545,Dorosoma petenense,Threadfin Shad,preysOn
+49587,99544,Dorosoma cepedianum,American Gizzard Shad,preysOn
+49587,58636,Lepomis cyanellus,Green Sunfish,preysOn
+49587,,Richardsonius balteatus,,preysOn
+49587,106328,Mylocheilus caurinus,Peamouth,preysOn
+49587,,Acrocheilus alutaceus,,preysOn
+49587,,Ptychocheilus oregonensis,,preysOn
+49587,54191,Oncorhynchus tshawytscha,Chinook Salmon,preysOn
+49587,47516,Oncorhynchus mykiss,Rainbow Trout,preysOn
+49587,,Ctenopharyngodon idella,,preysOn
+49587,49587,Micropterus salmoides,Largemouth Bass,preyedUponBy
+49587,4265,Phalacrocorax auritus,Double-crested Cormorant,preyedUponBy
+49587,116999,Pandion haliaetus,Osprey,preyedUponBy
+49587,3797,Sula leucogaster,Brown Booby,preyedUponBy
+49587,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+49587,,Micropterus dolomieu,,preyedUponBy
+49587,111991,Salvelinus namaycush,Lake Trout,preyedUponBy
+49587,55387,Esox lucius,Northern Pike,preyedUponBy
+49587,,Ptychocheilus oregonensis,,preyedUponBy
+49587,,Ichthyomyzon castaneus,,preyedUponBy
+49587,,Esox masquinongy,,preyedUponBy
+49587,58627,Perca flavescens,Yellow Perch,preyedUponBy
+49587,,Sander vitreus,,preyedUponBy
+49587,94609,Argyrosomus hololepidotus,Madagascar Meagre,preyedUponBy

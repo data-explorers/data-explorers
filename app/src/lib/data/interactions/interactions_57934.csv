@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57934,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+57934,47822,Diptera,Flies,eatenBy
+57934,125816,Auchenorrhyncha,True Hoppers,eatenBy
+57934,47208,Coleoptera,Beetles,eatenBy
+57934,127741,Colletes,Cellophane Bees,eatenBy
+57934,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+57934,47219,Apis mellifera,Western Honey Bee,eatenBy
+57934,59194,Ochlodes sylvanoides,Woodland Skipper,eatenBy
+57934,48548,Vanessa cardui,Painted Lady,eatenBy
+57934,58532,Colias eurytheme,Orange Sulphur,eatenBy
+57934,50086,Agapostemon,Striped Sweat Bees,eatenBy
+57934,50931,Strymon melinus,Gray Hairstreak,eatenBy
+57934,1021509,Junonia grisea,Gray Buckeye,eatenBy
+57934,48549,Vanessa virginiensis,American Lady,eatenBy
+57934,82525,Augochlorella pomoniella,Peridot Sweat Bee,eatenBy
+57934,129216,Villini,banded bee flies,eatenBy
+57934,67560,Adelpha californica,California Sister,eatenBy
+57934,52775,Bombus,Bumble Bees,eatenBy
+57934,69145,Coenonympha california,Common Ringlet,eatenBy
+57934,50786,Vanessa annabella,West Coast Lady,eatenBy
+57934,,Eucosma totana,,eatenBy
+57934,454825,Gnorimoschema octomaculella,,eatenBy
+57934,53893,Chlosyne palla,Northern Checkerspot,eatenBy
+57934,,Pseudanarta crocea,,eatenBy
+57934,,Sympistis augustus,,eatenBy
+57934,,Euxoa catenula,,eatenBy
+57934,59168,Speyeria coronis,Coronis Fritillary,eatenBy
+57934,,Aciurina trixa,,eatenBy
+57934,,Hesperia columbia,,eatenBy
+57934,1094469,Chauliognathus lewisi lewisi,,eatenBy
+57934,,Callophrys spinetorum,,eatenBy
+57934,468511,Prodiplosis falcata,Goldenbush Bud Gall Midge,eatenBy
+57934,,Rhopalomyia ericameriae,,eatenBy
+57934,,Atlides halesus,,eatenBy
+57934,,Crossidius coralinus ascendens,,eatenBy
+57934,,Crossidius mojavensis,,eatenBy
+57934,,Eristalis hirta,,eatenBy
+57934,,Rhopalomyia chrysothamni,,eatenBy
+57934,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+57934,47158,Insecta,Insects,pollinatedBy
+57934,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+57934,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+57934,47822,Diptera,Flies,pollinatedBy

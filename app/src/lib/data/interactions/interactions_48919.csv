@@ -1,0 +1,203 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48919,50862,Codium,Codiums,eats
+48919,67423,Ulva lactuca,broadleaf sea lettuce,eats
+48919,343398,Saccorhiza polyschides,Furbellow,eats
+48919,129742,Colpomenia,Puff-ball Algae,eats
+48919,67334,Cyanobacteria,cyanobacteria,eats
+48919,48220,Phaeophyceae,brown algae,eats
+48919,48217,Fucus,vesicled rockweeds,eats
+48919,67424,Laminaria,,eats
+48919,318459,Pennales,Pennate diatoms,eats
+48919,123880,Bacillariophyceae,Diatoms,eats
+48919,50863,Chlorophyta,green algae,eats
+48919,,Macroalgae,,eats
+48919,,Detritus,,eats
+48919,,Carrion,,eats
+48919,,Algae,,eats
+48919,,Enteromorpha,,eats
+48919,,Spartina,,eats
+48919,,Encrusting and mat-forming algae,,eats
+48919,,Prymnesiophyceae,,eats
+48919,,Khakista,,eats
+48919,343396,Bifurcaria bifurcata,,eats
+48919,51024,Dictyota dichotoma,Forked ribbons,eats
+48919,57779,Asparagopsis armata,Harpoonweed,eats
+48919,461577,Ellisolandia elongata,,eats
+48919,182852,Sphacelaria cirrosa,,eats
+48919,1027504,Ceramium ciliatum,,eats
+48919,,Cystoseira tamariscifolia,,eats
+48919,203723,Ceramium virgatum,,eats
+48919,129737,Colpomenia peregrina,Oyster-thief,eats
+48919,69163,Caloplaca,Firedots,eats
+48919,,Red crust complex,,eats
+48919,,Biofilm Complex,,eats
+48919,339056,Urospora,,eats
+48919,71120,Mazzaella,Iridescent Algae,eats
+48919,621184,Ulvaria,,eats
+48919,473497,Tydemania,,eats
+48919,,Detritus complex,,eats
+48919,203808,Navicula,,eats
+48919,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eats
+48919,,Crustose coralline algae complex,,eats
+48919,,Agarum fimbriatum,,eats
+48919,,Foraminiferida,,eats
+48919,339308,Achnanthes,,eats
+48919,174766,Verrucaria,Wart Lichens,eats
+48919,124745,Cystoseira,,eats
+48919,153316,Desmarestia,,eats
+48919,180572,Rhizoclonium,,eats
+48919,774725,Pyramimonadophyceae,,eats
+48919,194653,Porphyra yezoensis,,eats
+48919,,Polysiphonia yonakuniensis,,eats
+48919,117814,Odonthalia washingtoniensis,flat sea brush,eats
+48919,67414,Neorhodomela,,eats
+48919,339306,Cocconeis,,eats
+48919,117821,Mastocarpus,encrusting red algae,eats
+48919,,encrusting and mat-forming algae,,eats
+48919,48834,Pisaster,Giant Sea Stars,eatenBy
+48919,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+48919,52524,Carcinus,Green Crabs,eatenBy
+48919,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+48919,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+48919,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+48919,429195,Nucella emarginata,Emarginate Dogwinkle,eatenBy
+48919,3836,Calidris,Calidris Sandpipers,eatenBy
+48919,43584,Homo sapiens,Human,eatenBy
+48919,3874,Tringa,"Shanks, Tattlers, and Allies",eatenBy
+48919,3951,Limosa lapponica,Bar-tailed Godwit,eatenBy
+48919,81616,Styela,Lumpy Sea Mats,eatenBy
+48919,47716,Majidae,Typical Spider Crabs,eatenBy
+48919,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+48919,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+48919,47827,Cancer,,eatenBy
+48919,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+48919,49052,Anthopleura,,eatenBy
+48919,106253,Mustelus asterias,Starry Smooth-hound,eatenBy
+48919,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+48919,63740,Gadus morhua,Atlantic Cod,eatenBy
+48919,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+48919,,Leptasterias,,eatenBy
+48919,248363,Eurytium,,eatenBy
+48919,,Purpura,,eatenBy
+48919,51391,Tautogolabrus,,eatenBy
+48919,193907,Thais,,eatenBy
+48919,371067,Nucella lima,File Dog Winkle,eatenBy
+48919,,Searlesia,,eatenBy
+48919,,Gobioidei,,eatenBy
+48919,,Tadorna,,eatenBy
+48919,,Pleuronectiformes,,eatenBy
+48919,,Thalamita crenata,,eatenBy
+48919,340825,Scylla serrata,Mud Crab,eatenBy
+48919,324537,Maja squinado,European Spider Crab,eatenBy
+48919,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+48919,41850,Lutra lutra,Eurasian Otter,eatenBy
+48919,223890,Liparis callyodon,Spotted Snailfish,eatenBy
+48919,179551,Labrisomus nuchipinnis,Hairy Blenny,eatenBy
+48919,98753,Ctenolabrus rupestris,Goldsinny Wrasse,eatenBy
+48919,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+48919,203490,Myoxocephalus aenaeus,Grubby,eatenBy
+48919,114269,Trachinotus goodei,Palometa,eatenBy
+48919,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+48919,317382,Sphoeroides testudineus,Checkered Puffer,eatenBy
+48919,7067,Tadorna tadorna,Common Shelduck,eatenBy
+48919,7024,Somateria mollissima,Common Eider,eatenBy
+48919,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+48919,7031,Melanitta,Scoters,eatenBy
+48919,7047,Aythya marila,Greater Scaup,eatenBy
+48919,123639,Spionidae,,eatenBy
+48919,51280,Nemertea,Ribbon Worms,eatenBy
+48919,,Podocotyle,,eatenBy
+48919,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+48919,,Melanitta fusca,,eatenBy
+48919,48903,Asterias,,eatenBy
+48919,83329,Buccinidae,True Whelks,eatenBy
+48919,47524,Pleuronectes,,eatenBy
+48919,67411,Gobiesocidae,Clingfishes,eatenBy
+48919,67316,Anoplarchus purpurescens,High Cockscomb,eatenBy
+48919,7164,Polysticta stelleri,Steller's Eider,eatenBy
+48919,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+48919,204533,Larus argentatus,Herring Gull,eatenBy
+48919,194570,Boltenia,,eatenBy
+48919,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+48919,144490,Tringa incana,Wandering Tattler,eatenBy
+48919,,Evasterias troscheli,,eatenBy
+48919,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+48919,338928,Amphiporidae,,eatenBy
+48919,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+48919,7170,Clangula hyemalis,Long-tailed Duck,eatenBy
+48919,67632,Acanthina,,eatenBy
+48919,,Cribrina,,eatenBy
+48919,120708,Scartella cristata,Molly Miller,eatenBy
+48919,51428,Chaetomorpha,,preysOn
+48919,53707,Cladophora,,preysOn
+48919,123880,Bacillariophyceae,Diatoms,preysOn
+48919,67334,Cyanobacteria,cyanobacteria,preysOn
+48919,48217,Fucus,vesicled rockweeds,preysOn
+48919,129742,Colpomenia,Puff-ball Algae,preysOn
+48919,67424,Laminaria,,preysOn
+48919,,Epipellic Flora,,preysOn
+48919,,Macroalgae,,preysOn
+48919,,Prokaryota,,preysOn
+48919,,Enteromorpha,,preysOn
+48919,,Biofilm complex,,preysOn
+48919,67414,Neorhodomela,,preysOn
+48919,,Zooplankton,,preysOn
+48919,,Phytoplankton,,preysOn
+48919,,Detritus complex,,preysOn
+48919,194653,Porphyra yezoensis,,preysOn
+48919,,Polysiphonia yonakuniensis,,preysOn
+48919,117814,Odonthalia washingtoniensis,flat sea brush,preysOn
+48919,,Crustose coralline algae complex,,preysOn
+48919,339056,Urospora,,preysOn
+48919,180572,Rhizoclonium,,preysOn
+48919,621184,Ulvaria,,preysOn
+48919,19922,Strix leptogrammica,Brown Wood-Owl,preysOn
+48919,,Red crust complex,,preysOn
+48919,174766,Verrucaria,Wart Lichens,preysOn
+48919,71120,Mazzaella,Iridescent Algae,preysOn
+48919,117807,Mastocarpus papillatus,Turkish washcloth,preysOn
+48919,,Agarum fimbriatum,,preysOn
+48919,69163,Caloplaca,Firedots,preysOn
+48919,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preysOn
+48919,153316,Desmarestia,,preysOn
+48919,124745,Cystoseira,,preysOn
+48919,473497,Tydemania,,preysOn
+48919,154,Rallidae,"Rails, Gallinules, and Coots",preyedUponBy
+48919,6912,Anatidae,"Ducks, Geese, and Swans",preyedUponBy
+48919,4342,Laridae,"Gulls, Terns, and Skimmers",preyedUponBy
+48919,4783,Charadriidae,Plovers and Lapwings,preyedUponBy
+48919,52524,Carcinus,Green Crabs,preyedUponBy
+48919,88563,Gobius,,preyedUponBy
+48919,41661,Procyon,Raccoons,preyedUponBy
+48919,48834,Pisaster,Giant Sea Stars,preyedUponBy
+48919,203761,Nucella lapillus,Atlantic Dogwhelk,preyedUponBy
+48919,210294,Lipophrys pholis,Shanny,preyedUponBy
+48919,129493,Actinia fragacea,Strawberry Anemone,preyedUponBy
+48919,52523,Carcinus maenas,European Green Crab,preyedUponBy
+48919,49052,Anthopleura,,preyedUponBy
+48919,52319,Platyhelminthes,Flatworms,preyedUponBy
+48919,47645,Cottidae,Typical Sculpins,preyedUponBy
+48919,47827,Cancer,,preyedUponBy
+48919,429195,Nucella emarginata,Emarginate Dogwinkle,preyedUponBy
+48919,81616,Styela,Lumpy Sea Mats,preyedUponBy
+48919,48817,Crangon,,preyedUponBy
+48919,91235,Pomatoschistus,,preyedUponBy
+48919,88564,Gobiusculus,,preyedUponBy
+48919,,Gasterosterus,,preyedUponBy
+48919,47524,Pleuronectes,,preyedUponBy
+48919,51391,Tautogolabrus,,preyedUponBy
+48919,193907,Thais,,preyedUponBy
+48919,67632,Acanthina,,preyedUponBy
+48919,,Leptasterias,,preyedUponBy
+48919,,Searlesia,,preyedUponBy
+48919,371067,Nucella lima,File Dog Winkle,preyedUponBy
+48919,248363,Eurytium,,preyedUponBy
+48919,,Purpura,,preyedUponBy
+48919,,Asterina gibbosa,,preyedUponBy
+48919,,Zooplankton,,preyedUponBy
+48919,67411,Gobiesocidae,Clingfishes,preyedUponBy
+48919,51280,Nemertea,Ribbon Worms,preyedUponBy
+48919,619164,Pholis crassispina,,preyedUponBy
+48919,,Evasterias troscheli,,preyedUponBy
+48919,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+48919,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy

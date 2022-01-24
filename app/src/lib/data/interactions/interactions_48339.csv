@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48339,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+48339,41641,Ursus arctos,Brown Bear,eatenBy
+48339,,Hypomyces ochraceus,,eatenBy
+48339,,Collybia cookei,,eatenBy
+48339,,Collybia tuberosa,,eatenBy
+48339,,Collybia cirrhata,,eatenBy
+48339,,Ariolimax columbianus,,eatenBy
+48339,,Arion fuscus,,eatenBy
+48339,,Prophysaon foliolatum,,eatenBy
+48339,,Hesperarion niger,,eatenBy
+48339,,Camponotus lateralis,,eatenBy
+48339,127777,Vespula vulgaris,Common European Yellowjacket,eatenBy

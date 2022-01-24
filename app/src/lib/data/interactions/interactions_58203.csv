@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58203,50786,Vanessa annabella,West Coast Lady,eatenBy
+58203,50931,Strymon melinus,Gray Hairstreak,eatenBy
+58203,50940,Strymon,Scrub-Hairstreaks,eatenBy
+58203,48548,Vanessa cardui,Painted Lady,eatenBy
+58203,,Phenacoccus,,eatenBy
+58203,,Tischeria omissa,,eatenBy
+58203,,Pyrgus communis,,eatenBy
+58203,122363,Pyrgus scriptura,Small Checkered-Skipper,eatenBy
+58203,57678,Lasioglossum,,pollinatedBy
+58203,82527,Augochloropsis metallica,Metallic Epauletted-Sweat bee,pollinatedBy
+58203,,Diadasia ochracea,,pollinatedBy
+58203,,Toxomerus sp.,,pollinatedBy
+58203,,Epicauta sp.,,pollinatedBy
+58203,,Poecilognathus sp.,,pollinatedBy
+58203,,Triepeolus sp.,,pollinatedBy
+58203,49348,Hyles lineata,White-lined Sphinx,pollinatedBy
+58203,271496,Melissodes coreopsis,Tickseed Long-horned Bee,pollinatedBy
+58203,,http://treatment.plazi.org/id/8A1F6FE9F8E85C709DD6C0CD0F9E58F7,,pollinatedBy
+58203,,http://treatment.plazi.org/id/A61A09B380185011A57765F1D780E0FD,,pollinatedBy
+58203,,Stenopodius sp.,,pollinatedBy
+58203,,Acmaeodera sp.,,pollinatedBy
+58203,,N/A N/A,,pollinatedBy
+58203,,Pyrgus communis,,pollinatedBy
+58203,,Geron sp.,,pollinatedBy
+58203,,Elachista,,pollinatedBy

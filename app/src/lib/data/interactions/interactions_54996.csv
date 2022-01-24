@@ -1,0 +1,59 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54996,,no name,,eats
+54996,,bacterioplankton,,eats
+54996,,Phytoplankton,,eats
+54996,,aquatic plants,,eats
+54996,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+54996,50786,Vanessa annabella,West Coast Lady,eatenBy
+54996,109062,Perca fluviatilis,European Perch,eatenBy
+54996,,Coregonus lavaretus,,eatenBy
+54996,69989,Rutilus rutilus,Common Roach,eatenBy
+54996,247694,Ablabesmyia,,eatenBy
+54996,98434,Coregonus albula,European Cisco,eatenBy
+54996,101887,Gymnocephalus cernua,Ruffe,eatenBy
+54996,,Helobdella,,eatenBy
+54996,,Molanna,,eatenBy
+54996,,Spilostethus hospes,,eatenBy
+54996,,Orosius lotophagorum,,eatenBy
+54996,,Lasiacantha inaquosa,,eatenBy
+54996,,Crocidosema plebejana,,eatenBy
+54996,203078,Haritalodes derogata,Cotton Leaf Roller,eatenBy
+54996,,Mimoschinia rufofascialis,,eatenBy
+54996,70174,Hypolimnas bolina,Great Eggfly,eatenBy
+54996,,Earias insulana,,eatenBy
+54996,,Amyna octo,,eatenBy
+54996,214820,Bagisara rectifascia,Straight Lined Mallow Moth,eatenBy
+54996,145628,Xanthodes intersepta,,eatenBy
+54996,,Anomis flava,,eatenBy
+54996,,Xanthodes transversa,,eatenBy
+54996,,Spialia,,eatenBy
+54996,,Pyrgus oileus,,eatenBy
+54996,,Cycloplasis basiplagata,,eatenBy
+54996,,Phyllonorycter stephanota,,eatenBy
+54996,,Chionodes mariona,,eatenBy
+54996,,ruff (Gymnocephalus cernus),,eatenBy
+54996,246877,Asplanchna,,eatenBy
+54996,93611,Alburnus alburnus,Bleak,eatenBy
+54996,,Etroplus suratensis,,eatenBy
+54996,108016,Osmerus eperlanus,Smelt,eatenBy
+54996,696728,Aloeides molomo,,eatenBy
+54996,,Acraea eponina,,eatenBy
+54996,174535,Celotes nessus,Common Streaky-Skipper,eatenBy
+54996,,Heliopetes laviana,,eatenBy
+54996,,Junonia lemonias,,eatenBy
+54996,122363,Pyrgus scriptura,Small Checkered-Skipper,eatenBy
+54996,,Pyrgus communis,,eatenBy
+54996,41655,Helarctos malayanus,Sun Bear,eatenBy
+54996,,Erpobdella,,eatenBy
+54996,,Polycentropus,,eatenBy
+54996,57668,Andrenidae,Mining Bees,pollinatedBy
+54996,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",pollinatedBy
+54996,155108,Ceratina,Small Carpenter Bees,pollinatedBy
+54996,,Connochaetes taurinus,,preyedUponBy
+54996,,Aepyceros melampus,,preyedUponBy
+54996,,Giraffa camelopardalis,,preyedUponBy
+54996,,Loxodonta africana,,preyedUponBy
+54996,,Syncerus caffer,,preyedUponBy
+54996,,Gazella granti,,preyedUponBy
+54996,,Alcelaphus buselaphus,,preyedUponBy
+54996,,Gazella thomsonii,,preyedUponBy

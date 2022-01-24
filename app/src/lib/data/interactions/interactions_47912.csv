@@ -1,0 +1,99 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47912,81677,Euchaetes egle,Milkweed Tussock Moth,eats
+47912,48662,Danaus plexippus,Monarch,eatenBy
+47912,55556,Oncopeltus fasciatus,Large Milkweed Bug,eatenBy
+47912,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+47912,216649,Chauliognathus pensylvanicus,Goldenrod Soldier Beetle,eatenBy
+47912,121517,Bombus terricola,Yellow-banded Bumble Bee,eatenBy
+47912,62978,Chlosyne nycteis,Silvery Checkerspot,eatenBy
+47912,47219,Apis mellifera,Western Honey Bee,eatenBy
+47912,49133,Vanessa atalanta,Red Admiral,eatenBy
+47912,198804,Satyrium titus,Coral Hairstreak,eatenBy
+47912,81677,Euchaetes egle,Milkweed Tussock Moth,eatenBy
+47912,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+47912,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+47912,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+47912,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+47912,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+47912,133765,Eumenes fraternus,Fraternal Potter Wasp,eatenBy
+47912,47980,Speyeria cybele,Great Spangled Fritillary,eatenBy
+47912,71154,Aphis nerii,Oleander Aphid,eatenBy
+47912,509627,Papilio rumiko,Western Giant Swallowtail,eatenBy
+47912,,Danaus gilippus,,eatenBy
+47912,,Pygarctia eglenensis,,eatenBy
+47912,,Labidomera clivicollis,,eatenBy
+47912,68274,Phyciodes phaon,Phaon Crescent,eatenBy
+47912,,Cycnia collaris,,eatenBy
+47912,,Polistes fuscatus,,eatenBy
+47912,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+47912,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+47912,,Euphyes vestris,,eatenBy
+47912,,Ancistrocerus adiabatus,,eatenBy
+47912,,Philanthus gibbosus,,eatenBy
+47912,,Liriomyza asclepiadis,,eatenBy
+47912,,Pyrisitia lisa,,eatenBy
+47912,,Eurytides marcellus,,eatenBy
+47912,,Papilio troilus,,eatenBy
+47912,,Physocephala tibialis,,eatenBy
+47912,313243,Stelis louisae,Louisiana Painted-Dark bee,eatenBy
+47912,886834,Acmaeodera,,pollinatedBy
+47912,61858,Lucilia,Greenbottle Flies,pollinatedBy
+47912,48060,Prosopis,mesquites,pollinatedBy
+47912,120114,Anthrenus,Carpet Beetles,pollinatedBy
+47912,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+47912,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+47912,47208,Coleoptera,Beetles,pollinatedBy
+47912,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47912,5562,Trochilidae,Hummingbirds,pollinatedBy
+47912,47822,Diptera,Flies,pollinatedBy
+47912,53648,Nomada,Nomad Bees,pollinatedBy
+47912,127741,Colletes,Cellophane Bees,pollinatedBy
+47912,58504,Polites,,pollinatedBy
+47912,52775,Bombus,Bumble Bees,pollinatedBy
+47912,52924,Phyciodes,Crescents,pollinatedBy
+47912,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+47912,299141,Urosigalphus femoratus,,pollinatedBy
+47912,,Onthophagus pennsylvanicus,,pollinatedBy
+47912,,Tetralonia,,pollinatedBy
+47912,,Plagiognathus obscurus,,pollinatedBy
+47912,,Anoplius illinoensis,,pollinatedBy
+47912,250754,Liris,,pollinatedBy
+47912,,Sarcophaga sinuata,,pollinatedBy
+47912,,Rhamphomyia gilvipilosa,,pollinatedBy
+47912,,Themira putris,,pollinatedBy
+47912,,Triepeolus cressonii,,pollinatedBy
+47912,,Callandrena,,pollinatedBy
+47912,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+47912,,Spallanzania hesperidarum,,pollinatedBy
+47912,,Elampus,,pollinatedBy
+47912,,Cerceris clypeata,,pollinatedBy
+47912,,Coelioxys alternata,,pollinatedBy
+47912,,Cynomyia,,pollinatedBy
+47912,,Triepeolus donatus,,pollinatedBy
+47912,,Hammomyia,,pollinatedBy
+47912,,Trichiotinus affinis,,pollinatedBy
+47912,,Ceropales,,pollinatedBy
+47912,,Siphona geniculata,,pollinatedBy
+47912,,Trachandrena,,pollinatedBy
+47912,,Euphorus,,pollinatedBy
+47912,,Spilomyia longicornis,,pollinatedBy
+47912,,Pimpla,,pollinatedBy
+47912,,Ripiphorus,,pollinatedBy
+47912,329934,Amobia floridensis,,pollinatedBy
+47912,,Heterosarus,,pollinatedBy
+47912,,Phasia robertsonii,,pollinatedBy
+47912,,Stictiella,,pollinatedBy
+47912,,Tetrachrysis,,pollinatedBy
+47912,,Charidryas,,pollinatedBy
+47912,,Ceratina dupla,,pollinatedBy
+47912,,Ferdinandea buccata,,pollinatedBy
+47912,,Psammochares,,pollinatedBy
+47912,,Corizus,,pollinatedBy
+47912,,Gonia sequax,,pollinatedBy
+47912,,Parhelophilus divisus,,pollinatedBy
+47912,,Frontina,,pollinatedBy
+47912,,Cremastus,,pollinatedBy
+47912,,Teleas,,pollinatedBy
+47912,,Archytas analis,,pollinatedBy
+47912,233377,Valgus canaliculatus,,pollinatedBy
+47912,265669,Ageniella accepta,,pollinatedBy

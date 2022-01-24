@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+199821,78016,Menyanthes trifoliata,Bogbean,eats
+199821,78589,Pistia stratiotes,water lettuce,eats
+199821,72302,Pistia,,eats
+199821,,Azolla pinnata,,eats
+199821,,Salvinia cucullata,,eats

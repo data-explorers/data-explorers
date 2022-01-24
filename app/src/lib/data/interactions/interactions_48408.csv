@@ -1,0 +1,68 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48408,48174,Paguridae,Pagurid Hermit Crabs,eats
+48408,88563,Gobius,,eats
+48408,85493,Crustacea,Crustaceans,eats
+48408,47716,Majidae,Typical Spider Crabs,eats
+48408,47668,Asteroidea,Sea Stars,eats
+48408,47490,Polychaeta,Polychaete Worms,eats
+48408,47158,Insecta,Insects,eats
+48408,81791,Nereis,,eats
+48408,47645,Cottidae,Typical Sculpins,eats
+48408,60604,Cyclopteridae,Lumpfishes,eats
+48408,47290,Crangonidae,,eats
+48408,97990,Clupea harengus,Atlantic Herring,eats
+48408,127705,Portunus,,eats
+48408,,Osteichthyes,,eats
+48408,430553,Merlangius merlangus,Whiting,eats
+48408,47709,Pandalus,,eats
+48408,221382,Hippoglossoides platessoides,American Plaice,eats
+48408,61387,Limanda limanda,Sand Dab,eats
+48408,64627,Ampelisca,,eats
+48408,549751,Corystes cassivelaunus,Masked crab,eats
+48408,106881,Nephrops norvegicus,Norway lobster,eats
+48408,,Pleuronectiformes,,eats
+48408,116493,Ensis,,eats
+48408,459589,Hyas,,eats
+48408,,DIGESTED REMAINS,,eats
+48408,130213,Buccinum undatum,Common Whelk,eats
+48408,,Aequipecten opercularis,,eats
+48408,217786,Cryptacanthodes aleutensis,Dwarf Wrymouth,eats
+48408,,Theragra chalcogramma,,eats
+48408,361770,Chionoecetes opilio,Snow Crab,eats
+48408,445760,Cheimarrichthys fosteri,Torrentfish,eats
+48408,221165,Hemilepidotus hemilepidotus,Red Irish Lord,eats
+48408,359388,Chionoecetes bairdi,Tanner crab,eats
+48408,223181,Lepidopsetta polyxystra,Northern Rock Sole,eats
+48408,359389,Chionoecetes,,eats
+48408,60631,Zoarcidae,Eelpouts,eats
+48408,85563,Agonidae,Poachers,eats
+48408,61378,Stichaeidae,Pricklebacks,eats
+48408,459503,Crangon dalli,Ridged Crangon,eats
+48408,53701,Hippoglossus stenolepis,Pacific Halibut,eats
+48408,165100,Mallotus villosus,Capelin,eats
+48408,,Limanda proboscidea,,eats
+48408,361714,Erimacrus isenbeckii,Horsehair Crab,eats
+48408,224190,Lycodes palearis,Wattled Eelpout,eats
+48408,85629,Bathymasteridae,Ronquils,eats
+48408,223674,Limanda aspera,Yellowfin Sole,eats
+48408,180032,Hippoglossoides elassodon,Flathead Sole,eats
+48408,47522,Oncorhynchus,Pacific Salmons and Trouts,eats
+48408,1303751,Pleuronectoidei,Flatfishes,eats
+48408,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+48408,,Otaria flavescens,,eatenBy
+48408,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+48408,112423,Sebastolobus alascanus,Shortspine Thornyhead,eatenBy
+48408,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+48408,63740,Gadus morhua,Atlantic Cod,eatenBy
+48408,213518,Anarhichas denticulatus,Northern Wolffish,eatenBy
+48408,,Urophycis brasiliensis,,eatenBy
+48408,118610,Lophius piscatorius,Angler,eatenBy
+48408,56765,Sphyrna zygaena,Smooth Hammerhead,eatenBy
+48408,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+48408,104540,Leucoraja ocellata,Winter Skate,eatenBy
+48408,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+48408,96762,Carcharhinus obscurus,Dusky Shark,eatenBy
+48408,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+48408,53583,Carcharhinus plumbeus,Sandbar Shark,eatenBy
+48408,56764,Sphyrna lewini,Scalloped Hammerhead,eatenBy
+48408,618295,Dissostichus mawsoni,Antarctic toothfish,eatenBy

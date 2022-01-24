@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118890,121643,Copepoda,Copepods,eats
+118890,53275,Chironomidae,Non-biting Midges,eats
+118890,243807,Pyroderces,,eatenBy
+118890,13858,Passer domesticus,House Sparrow,eatenBy
+118890,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+118890,12727,Turdus migratorius,American Robin,eatenBy
+118890,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+118890,461434,Striglina scitaria,,eatenBy
+118890,554398,Stictoptera signifera,,eatenBy
+118890,338072,Anuga constricta,,eatenBy
+118890,491348,Cotana,,eatenBy
+118890,97947,Clarias ngamensis,Blunttooth Catfish,eatenBy
+118890,608540,Arius dispar,fleshysnout catfish,eatenBy
+118890,611580,Mesonauta acora,Tocantins Flag Cichlid,eatenBy
+118890,611330,Caquetaia myersi,Myers' Basketmouth,eatenBy
+118890,58627,Perca flavescens,Yellow Perch,eatenBy
+118890,106405,Mystus montanus,Wynaad Mystus,eatenBy
+118890,55200,Brycinus nurse,,eatenBy
+118890,104102,Lates niloticus,Nile Perch,eatenBy
+118890,,Tinca tinca,,eatenBy
+118890,58662,Semotilus atromaculatus,Creek Chub,eatenBy
+118890,785346,Naucoris,,eatenBy
+118890,126618,Xyris,yellow-eyed grasses,eatenBy
+118890,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+118890,126618,Xyris,yellow-eyed grasses,pollinates

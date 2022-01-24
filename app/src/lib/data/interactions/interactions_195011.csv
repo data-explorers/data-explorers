@@ -1,0 +1,75 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+195011,47491,Annelida,Segmented Worms,eats
+195011,85493,Crustacea,Crustaceans,eats
+195011,47115,Mollusca,Molluscs,eats
+195011,195011,Phyllodocidae,Paddle Worms,eats
+195011,49581,Nereididae,,eats
+195011,,Detritus complex,,eats
+195011,123639,Spionidae,,eats
+195011,52523,Carcinus maenas,European Green Crab,eatenBy
+195011,47491,Annelida,Segmented Worms,eatenBy
+195011,117606,Nephtyidae,Catworms,eatenBy
+195011,3836,Calidris,Calidris Sandpipers,eatenBy
+195011,195011,Phyllodocidae,Paddle Worms,eatenBy
+195011,3951,Limosa lapponica,Bar-tailed Godwit,eatenBy
+195011,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+195011,118851,Crangon crangon,Brown Shrimp,eatenBy
+195011,618319,Patagonotothen guntheri,Yellowfin Notothen,eatenBy
+195011,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+195011,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+195011,430553,Merlangius merlangus,Whiting,eatenBy
+195011,617122,Macrourus holotrachys,,eatenBy
+195011,61387,Limanda limanda,Sand Dab,eatenBy
+195011,55396,Solea solea,Common Sole,eatenBy
+195011,,Enchelyopus cimbrius,,eatenBy
+195011,118671,Sparus aurata,Gilthead Seabream,eatenBy
+195011,146829,Anchoa hepsetus,Striped Anchovy,eatenBy
+195011,117536,Enophrys bison,Buffalo Sculpin,eatenBy
+195011,86890,Bathymaster,,eatenBy
+195011,,Theragra chalcogramma,,eatenBy
+195011,180032,Hippoglossoides elassodon,Flathead Sole,eatenBy
+195011,86649,Artediellus,Hookear Sculpins,eatenBy
+195011,220717,Gymnocanthus pistilliger,Threaded Sculpin,eatenBy
+195011,223181,Lepidopsetta polyxystra,Northern Rock Sole,eatenBy
+195011,64454,Sebastes ciliatus,Dusky rockfish,eatenBy
+195011,180031,Microstomus pacificus,Pacific Dover Sole,eatenBy
+195011,48416,Citharichthys,,eatenBy
+195011,223433,Leptoclinus maculatus,Daubed Shanny,eatenBy
+195011,87642,Coryphaenoides,,eatenBy
+195011,,Limanda proboscidea,,eatenBy
+195011,83171,Platichthys,,eatenBy
+195011,51280,Nemertea,Ribbon Worms,eatenBy
+195011,89716,Malacocottus,,eatenBy
+195011,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+195011,83329,Buccinidae,True Whelks,eatenBy
+195011,117545,Parophrys vetulus,English sole,eatenBy
+195011,41766,Odobenus rosmarus,Walrus,eatenBy
+195011,117604,Lineidae,,eatenBy
+195011,67316,Anoplarchus purpurescens,High Cockscomb,eatenBy
+195011,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+195011,223674,Limanda aspera,Yellowfin Sole,eatenBy
+195011,89655,Lycodes,,eatenBy
+195011,95518,Bathyraja parmifera,Alaska Skate,eatenBy
+195011,51283,Emplectonematidae,,eatenBy
+195011,220718,Gymnocanthus tricuspis,Arctic Staghorn Sculpin,eatenBy
+195011,47524,Pleuronectes,,eatenBy
+195011,183018,Lepidopsetta bilineata,Rock sole,eatenBy
+195011,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eatenBy
+195011,,Reinhardtius stomias,,eatenBy
+195011,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+195011,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+195011,67629,Oligocottus maculosus,Tidepool Sculpin,eatenBy
+195011,180030,Glyptocephalus zachirus,Rex Sole,eatenBy
+195011,63740,Gadus morhua,Atlantic Cod,eatenBy
+195011,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+195011,131454,Halieutichthys aculeatus,Pancake Batfish,eatenBy
+195011,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+195011,179463,Stenotomus caprinus,Longspine porgy,eatenBy
+195011,179493,Pontinus longispinis,Longspine Scorpionfish,eatenBy
+195011,179458,Serranus atrobranchus,Blackear bass,eatenBy
+195011,100608,Etropus rimosus,,eatenBy
+195011,131452,Bellator militaris,Horned Searobin,eatenBy
+195011,49950,Haemulon aurolineatum,Tomtate,eatenBy
+195011,179455,Syacium gunteri,,eatenBy
+195011,49421,Diplectrum formosum,Sand Perch,eatenBy
+195011,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy

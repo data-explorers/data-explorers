@@ -1,0 +1,106 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9921,47124,Magnoliopsida,dicots,eats
+9921,47158,Insecta,Insects,eats
+9921,1,Animalia,Animals,eats
+9921,211194,Tracheophyta,vascular plants,eats
+9921,47157,Lepidoptera,Butterflies and Moths,eats
+9921,47118,Araneae,Spiders,eats
+9921,125816,Auchenorrhyncha,True Hoppers,eats
+9921,47208,Coleoptera,Beetles,eats
+9921,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9921,47822,Diptera,Flies,eats
+9921,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9921,61267,Heteroptera,True Bugs,eats
+9921,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9921,47120,Arthropoda,Arthropods,eats
+9921,54834,Prunus serotina,black cherry,eats
+9921,48599,Phytolacca americana,American pokeweed,eats
+9921,61356,Vespula,Ground Yellowjackets,eats
+9921,333586,Oligochaeta,Earthworms and allies,eats
+9921,,Euchelicerata,,eats
+9921,,Psychotria grandistipulata,,eats
+9921,,Miconia smaragdina,,eats
+9921,,Miconia simplex,,eats
+9921,,Neea psychotrioides,,eats
+9921,,Ditrichanthus seemannii,,eats
+9921,,Cestrum racemosum,,eats
+9921,,Psychotria elata,,eats
+9921,,Conostegia subcrustulata,,eats
+9921,48887,Miconia,,eats
+9921,,Sabicea villosa,,eats
+9921,,Clidemia discolor,,eats
+9921,,Siparuna grandiflora,,eats
+9921,,Phytolacca rivinoides,,eats
+9921,,Miconia magnifolia,,eats
+9921,,Doliocarpus,,eats
+9921,,Clidemia,,eats
+9921,,Schefflera systyla,,eats
+9921,,Clidemia dentata,,eats
+9921,,Notopleura epiphytica,,eats
+9921,,Miconia prasina,,eats
+9921,,Psychotria cyanococca,,eats
+9921,,Bertiera angustifolia,,eats
+9921,,Psychotria officinalis,,eats
+9921,,Miconia affinis,,eats
+9921,,Miconia variabilis,,eats
+9921,853971,Trichostigma polyandrum,,eats
+9921,,Cecropia insignis,,eats
+9921,,Clusia palmana,,eats
+9921,,Dendropanax arboreus,,eats
+9921,,Urera baccifera,,eats
+9921,,Urera caracasana,,eats
+9921,,Hamelia patens,,eats
+9921,1104923,Miconia appendiculata,,eats
+9921,,Miconia nervosa,,eats
+9921,,Cissus fuliginea,,eats
+9921,280995,Witheringia solanacea,,eats
+9921,,Passiflora auriculata,,eats
+9921,,Miconia gracilis,,eats
+9921,927567,Drymonia pilifera,,eats
+9921,,Miconia barbinervis,,eats
+9921,,Xiphidium caeruleum,,eats
+9921,,Vitex cooperi,,eats
+9921,,Pinzona coriacea,,eats
+9921,,Clibadium surinamense,,eats
+9921,,Conostegia brenesiana,,eats
+9921,,Besleria columneoides,,eats
+9921,,Conostegia bracteata,,eats
+9921,,Heliconia wagneriana,,eats
+9921,,Ardisia auriculata,,eats
+9921,,Clidemia crenulata,,eats
+9921,,Ardisia nigropunctata,,eats
+9921,133455,Alchornea,,eats
+9921,,Miconia multispicata,,eats
+9921,,Marcgravia caudata,,eats
+9921,,Psychotria brachiata,,eats
+9921,,Henriettea tuberculosa,,eats
+9921,,Nectandra membranacea,,eats
+9921,,Miconia approximata,,eats
+9921,,Miconia centrodesma,,eats
+9921,,Psychotria psychotriifolia,,eats
+9921,51600,Psychotria,wild coffees,eats
+9921,,Cecropia obtusifolia,,eats
+9921,,Trophis racemosa,,eats
+9921,,Bromelia pinguin,,eats
+9921,,Casearia arborea,,eats
+9921,,Opuntia stricta,,eats
+9921,,Coccoloba barbadensis,,eats
+9921,284455,Tabernaemontana alba,,eats
+9921,,Sabal,,eats
+9921,,Phoradendron quadrangulare,,eats
+9921,,Tournefortia hirsutissima,,eats
+9921,316801,Randia laetevirens,,eats
+9921,,Tabernaemontana litoralis,,eats
+9921,,Cupania dentata,,eats
+9921,,Rourea glabra,,eats
+9921,,Bursera fagaroides,,eats
+9921,127936,Chiococca alba,West Indian milkberry,eats
+9921,,Bursera simaruba,,eats
+9921,,Eugenia acapulcensis,,eats
+9921,,Psittacanthus,,eats
+9921,,Karwinskia humboldtiana,,eats
+9921,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9921,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+9921,84738,Vespinae,Hornets and Yellowjackets,preysOn
+9921,61356,Vespula,Ground Yellowjackets,preysOn
+9921,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn

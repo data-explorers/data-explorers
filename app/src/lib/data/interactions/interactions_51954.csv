@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51954,47538,Euonymus,spindles,eats
+51954,,Hydrangea arborescens,,eats
+51954,50190,Cicadoidea,Cicadas,eats
+51954,75995,Campsis radicans,American trumpet vine,eats
+51954,,Homadaula anisocentra,,eats
+51954,751082,Neotibicen,Dog-day Cicadas,preysOn
+51954,50186,Cicadidae,Typical Cicadas,preysOn
+51954,,Neotibicen winnemanna,,preysOn
+51954,50190,Cicadoidea,Cicadas,preysOn

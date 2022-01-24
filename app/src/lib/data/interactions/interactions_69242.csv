@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69242,47851,Quercus,oaks,eats
+69242,861036,Lobatae,red oaks,eats
+69242,54779,Quercus alba,white oak,eats
+69242,49005,Quercus rubra,northern red oak,eats
+69242,119269,Quercus stellata,post oak,eats
+69242,,Quercus havardii,,eats
+69242,,Quercus virginiana,,eats
+69242,,Quercus phellos,,eats
+69242,,Quercus imbricaria,,eats
+69242,17355,Vireo,Vireos,eatenBy

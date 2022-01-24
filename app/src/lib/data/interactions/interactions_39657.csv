@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+39657,48824,Porifera,Sponges,eats
+39657,210289,Cirripedia,Barnacles,eats
+39657,49796,Stomatopoda,Mantis Shrimps,eats
+39657,47114,Gastropoda,Gastropods,eats
+39657,47297,Palinuridae,Spiny Lobsters,eats
+39657,47668,Asteroidea,Sea Stars,eats
+39657,121639,Brachyura,True Crabs,eats
+39657,47584,Bivalvia,Bivalves,eats
+39657,48173,Pagurus,,eats
+39657,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+39657,144117,Thecostraca,Barnacles and Allies,eats
+39657,68104,Bryozoa,Bryozoans,eats
+39657,47459,Cephalopoda,Cephalopods,eats
+39657,47186,Decapoda,Decapods,eats
+39657,47534,Cnidaria,Cnidarians,eats
+39657,,Echinoida,,eats
+39657,,Benthic autotrophs,,eats
+39657,50355,Euphyllia,Torch Corals,eats
+39657,,Thalassia testudinum,,eats
+39657,,Prymnesiophyceae,,eats
+39657,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,eatenBy
+39657,43584,Homo sapiens,Human,eatenBy
+39657,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+39657,100110,Epinephelus itajara,Atlantic Goliath Grouper,eatenBy
+39657,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+39657,,Epinephelinae,,eatenBy
+39657,,Chondrichthyes,,eatenBy
+39657,26068,Crocodylus porosus,Saltwater Crocodile,eatenBy
+39657,67964,Carcharhinus melanopterus,Blacktip Reef Shark,eatenBy
+39657,84996,Carcharhinus leucas,Bull Shark,eatenBy
+39657,96752,Carcharhinus cautus,Nervous Shark,eatenBy
+39657,55530,Carcharhinus tilstoni,Australian Blacktip Shark,eatenBy
+39657,106650,Negaprion brevirostris,Lemon Shark,eatenBy
+39657,47668,Asteroidea,Sea Stars,preysOn
+39657,48824,Porifera,Sponges,preysOn
+39657,47584,Bivalvia,Bivalves,preysOn
+39657,49796,Stomatopoda,Mantis Shrimps,preysOn
+39657,121639,Brachyura,True Crabs,preysOn
+39657,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preysOn
+39657,47114,Gastropoda,Gastropods,preysOn
+39657,47297,Palinuridae,Spiny Lobsters,preysOn
+39657,144117,Thecostraca,Barnacles and Allies,preysOn
+39657,48173,Pagurus,,preysOn
+39657,,Thalassia testudinum,,preysOn
+39657,,Stony corals,,preysOn
+39657,43584,Homo sapiens,Human,preyedUponBy
+39657,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,preyedUponBy
+39657,52299,Galeocerdo cuvier,Tiger Shark,preyedUponBy
+39657,100110,Epinephelus itajara,Atlantic Goliath Grouper,preyedUponBy

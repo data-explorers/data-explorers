@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+128743,,PhytoP,,eats
+128743,112444,Semicossyphus darwini,Goldspot Sheephead,eatenBy
+128743,,Zooplankton,,preysOn
+128743,210294,Lipophrys pholis,Shanny,preyedUponBy
+128743,47490,Polychaeta,Polychaete Worms,preyedUponBy
+128743,52523,Carcinus maenas,European Green Crab,preyedUponBy
+128743,118706,Gobius paganellus,Rock Goby,preyedUponBy
+128743,377179,Nacella,,preyedUponBy
+128743,342285,Lipophrys trigloides,,preyedUponBy
+128743,118704,Gobius niger,Black Goby,preyedUponBy
+128743,154706,Patella vulgata,Common European Limpet,preyedUponBy
+128743,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+128743,210219,Necora puber,Velvet Swimming Crab,preyedUponBy

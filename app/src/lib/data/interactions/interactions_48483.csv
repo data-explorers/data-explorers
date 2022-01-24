@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48483,85532,Mysida,Opossum Shrimps,eats
+48483,62807,Mytilus,Black Mussels,eats
+48483,47582,Ostreidae,True Oysters,eats
+48483,48483,Chrysaora,Sea Nettles,eats
+48483,129725,Appendicularia,Pelagic Tunicates,eats
+48483,51104,Thaliacea,Thaliaceans,eats
+48483,151827,Chaetognatha,Arrow Worms,eats
+48483,48921,Hydrozoa,Hydrozoans,eats
+48483,195087,Thysanoessa inermis,,eats
+48483,201758,Eucalanus,,eats
+48483,203470,Oithona,,eats
+48483,567075,Neocalanus cristatus,,eats
+48483,372878,Hyperiidea,,eats
+48483,329000,Thysanoessa raschii,,eats
+48483,,Neocalanus plumchrus,,eats
+48483,200879,Gymnodinium,,eats
+48483,,Theragra chalcogramma,,eats
+48483,201747,Clausocalanidae,,eats
+48483,345356,Limacina helicina,Helicid Pteropod,eats
+48483,195081,Acartia,,eats
+48483,180343,Metridinidae,,eats
+48483,201781,Calanus,,eats
+48483,171626,Aetideidae,,eats
+48483,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+48483,49725,Pugettia,,eatenBy
+48483,48483,Chrysaora,Sea Nettles,eatenBy
+48483,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+48483,109046,Peprilus paru,Harvestfish,eatenBy
+48483,179507,Peprilus triacanthus,Butterfish,eatenBy
+48483,179427,Aluterus schoepfii,Orange Filefish,eatenBy

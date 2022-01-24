@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4999,47186,Decapoda,Decapods,eats
+4999,51222,Procambarus,,eats
+4999,47188,Pachygrapsus crassipes,Striped Shore Crab,eats
+4999,49504,Callinectes sapidus,Atlantic Blue Crab,eats
+4999,121639,Brachyura,True Crabs,eats
+4999,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+4999,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eats
+4999,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+4999,47782,Cambaridae,Cambarid Crayfishes,eats
+4999,39760,Emydidae,Pond and Box Turtles,eats
+4999,47190,Grapsidae,Shore Crabs,eats
+4999,21359,Bufonidae,True Toads,eats
+4999,47157,Lepidoptera,Butterflies and Moths,eats
+4999,,Aratus pisonii,,eats
+4999,132471,Opsanus beta,Gulf Toadfish,eats
+4999,81612,Rhithropanopeus harrisii,White-tipped Mud Crab,eats
+4999,,Panopeidae,,eats
+4999,54952,Cardisoma guanhumi,Blue Land Crab,eats
+4999,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eatenBy
+4999,47186,Decapoda,Decapods,preysOn
+4999,47187,Malacostraca,Malacostracans,preysOn
+4999,121639,Brachyura,True Crabs,preysOn
+4999,51221,Procambarus clarkii,Red Swamp Crayfish,preysOn
+4999,47783,Astacoidea,Northern Hemisphere Crayfishes,preysOn
+4999,49504,Callinectes sapidus,Atlantic Blue Crab,preysOn
+4999,85493,Crustacea,Crustaceans,preysOn
+4999,555971,Leptuca crenulata,Mexican Fiddler Crab,preysOn
+4999,,Aratus pisonii,,preysOn
+4999,,Monopterus albus,,preysOn
+4999,,Pisanianura,,preysOn
+4999,54952,Cardisoma guanhumi,Blue Land Crab,preysOn
+4999,122246,Armases cinereum,Squareback Marsh Crab,preysOn
+4999,4665,Falco sparverius,American Kestrel,preyedUponBy
+4999,81612,Rhithropanopeus harrisii,White-tipped Mud Crab,preyedUponBy

@@ -1,0 +1,91 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9919,211194,Tracheophyta,vascular plants,eats
+9919,1,Animalia,Animals,eats
+9919,47158,Insecta,Insects,eats
+9919,54964,Buprestidae,Metallic Wood-boring Beetles,eats
+9919,53248,Elateridae,Click Beetles,eats
+9919,47336,Formicidae,Ants,eats
+9919,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eats
+9919,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9919,47118,Araneae,Spiders,eats
+9919,53237,Cicadellidae,Typical Leafhoppers,eats
+9919,47157,Lepidoptera,Butterflies and Moths,eats
+9919,48194,Psyllidae,jumping plant lice,eats
+9919,61267,Heteroptera,True Bugs,eats
+9919,47742,Pentatomidae,Stink Bugs,eats
+9919,47822,Diptera,Flies,eats
+9919,47208,Coleoptera,Beetles,eats
+9919,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9919,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9919,47544,Rubus,brambles,eats
+9919,52689,Sambucus,elders,eats
+9919,3800,Morus,Gannets,eats
+9919,47219,Apis mellifera,Western Honey Bee,eats
+9919,47555,Taxus,yews,eats
+9919,53352,Alnus,alders,eats
+9919,51815,Eucalyptus,eucalyptus,eats
+9919,122024,Corymbia ficifolia,Red-flowering gum,eats
+9919,,Non-biological,,eats
+9919,218223,Dendroctonus valens,Red Turpentine Beetle,eats
+9919,,Euchelicerata,,eats
+9919,,Rhynchites,,eats
+9919,,Lepesoma,,eats
+9919,61863,Cercopidae,Froghoppers,eats
+9919,5676,Amazilia tzacatl,Rufous-tailed Hummingbird,eats
+9919,,Sabal,,eats
+9919,,Bursera simaruba,,eats
+9919,,Nectandra coriacea,,eats
+9919,,Cupania dentata,,eats
+9919,,Vitis biformis,,eats
+9919,,Tabernaemontana litoralis,,eats
+9919,127936,Chiococca alba,West Indian milkberry,eats
+9919,,Casearia arborea,,eats
+9919,,Sapranthus microcarpus,,eats
+9919,,Dendropanax arboreus,,eats
+9919,,Bursera fagaroides,,eats
+9919,,Guettarda elliptica,,eats
+9919,,Phoradendron quadrangulare,,eats
+9919,284455,Tabernaemontana alba,,eats
+9919,,Ficus lapathifolia,,eats
+9919,,Psittacanthus,,eats
+9919,,Coccoloba barbadensis,,eats
+9919,316801,Randia laetevirens,,eats
+9919,283078,Achatocarpus nigricans,,eats
+9919,,Brosimum alicastrum,,eats
+9919,,Psychotria lauracea,,eats
+9919,,Bromelia pinguin,,eats
+9919,,Trophis racemosa,,eats
+9919,,Celtis caudata,,eats
+9919,,Eugenia acapulcensis,,eats
+9919,,Tournefortia hirsutissima,,eats
+9919,,Malpighia glabra,,eats
+9919,,Rourea glabra,,eats
+9919,,Karwinskia humboldtiana,,eats
+9919,,Opuntia stricta,,eats
+9919,,Chrysobalanus icaco,,eats
+9919,278326,Piper amalago,jaborandi-manso,eats
+9919,,Xylosma panamensis,,eats
+9919,62841,Cordia,,eats
+9919,,Randia aculeata,,eats
+9919,,Ficus insipida,,eats
+9919,,Ficus obtusifolia,,eats
+9919,,Nectandra salicifolia,,eats
+9919,,Solanum diphyllum,,eats
+9919,,Solanum tampicense,,eats
+9919,478640,Crossopetalum uragoga,Snake Berry,eats
+9919,,Ehretia,,eats
+9919,,Smilax aristolochiifolia,,eats
+9919,,Paullinia tomentosa,,eats
+9919,,Vitis bourgaeana,,eats
+9919,,Brahea,,eats
+9919,,Sambucus racemosa,,eats
+9919,,Persea americana,,eats
+9919,,Celtis laevigata,,eats
+9919,51046,Arbutus menziesii,Pacific madrone,eats
+9919,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9919,,Crotalus pyrrhus,,eatenBy
+9919,4644,Falco mexicanus,Prairie Falcon,eatenBy
+9919,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+9919,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+9919,47158,Insecta,Insects,preysOn
+9919,,Crotalus pyrrhus,,preyedUponBy

@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+122767,53549,Ulmus,elms,eats
+122767,,Quercus robur,,eats
+122767,,Oryza sativa,,eats
+122767,51754,Phormium tenax,New Zealand flax,eats
+122767,42069,Vulpes vulpes,Red Fox,eatenBy
+122767,118552,Felis catus,Domestic Cat,eatenBy
+122767,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+122767,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+122767,558446,Circus hudsonius,Northern Harrier,eatenBy
+122767,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+122767,4665,Falco sparverius,American Kestrel,eatenBy
+122767,4672,Falco columbarius,Merlin,eatenBy
+122767,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+122767,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+122767,,Corvus cornix,,eatenBy
+122767,204533,Larus argentatus,Herring Gull,eatenBy
+122767,,Accipiter badius,,eatenBy
+122767,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+122767,,Spizaetus melanoleucus,,eatenBy
+122767,202400,Falco peregrinus tundrius,American Tundra Peregrine Falcon,eatenBy
+122767,333759,Larus dominicanus dominicanus,Southern Black-backed Gull,eatenBy
+122767,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+122767,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+122767,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+122767,41770,Mustelidae,Mustelids,preyedUponBy
+122767,5085,Accipiter,Accipiters,preyedUponBy
+122767,5108,Accipiter gentilis,Northern Goshawk,preyedUponBy
+122767,59202,Larus michahellis,Yellow-legged Gull,preyedUponBy
+122767,4690,Falco novaeseelandiae,New Zealand Falcon,preyedUponBy
+122767,5106,Accipiter nisus,Eurasian Sparrowhawk,preyedUponBy
+122767,5097,Accipiter striatus,Sharp-shinned Hawk,preyedUponBy
+122767,,Accipiter melanoleucus melanoleucus,,preyedUponBy

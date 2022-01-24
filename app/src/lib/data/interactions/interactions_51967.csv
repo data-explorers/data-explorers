@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51967,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+51967,608771,Atherinella brasiliensis,,eatenBy
+51967,16771,Tyrannus caudifasciatus,Loggerhead Kingbird,eatenBy
+51967,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+51967,,Eupatorium compressum,,pollinates
+51967,,Vernonia,,pollinates
+51967,963063,Helichrysum forskahlii,,pollinates
+51967,,Conyza cf. subscaposa,,pollinates
+51967,,Emilia,,pollinates
+51967,131831,Oldenlandia,,pollinates
+51967,,Beloperone aurea,,pollinates
+51967,,Euphorbia heterophylla,,pollinates
+51967,343045,Gutenbergia cordifolia,,pollinates
+51967,893849,Pygodasis quadrimaculata,Large Four-spotted Scoliid Wasp,pollinates
+51967,2212,Merops philippinus,Blue-tailed Bee-eater,preyedUponBy

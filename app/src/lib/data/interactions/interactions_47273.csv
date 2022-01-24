@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47273,47178,Actinopterygii,Ray-finned Fishes,eats
+47273,47120,Arthropoda,Arthropods,eats
+47273,47490,Polychaeta,Polychaete Worms,eats
+47273,47459,Cephalopoda,Cephalopods,eats
+47273,342912,Caridea,Caridean Shrimps,eats
+47273,47584,Bivalvia,Bivalves,eats
+47273,121639,Brachyura,True Crabs,eats
+47273,1,Animalia,Animals,eats
+47273,52522,Ovalipes,,eats
+47273,49601,Mola mola,Common Mola,eats
+47273,47273,Elasmobranchii,Elasmobranchs,eats
+47273,56943,Katsuwonus pelamis,Skipjack Tuna,eats
+47273,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+47273,,Suprabenthos,,eats
+47273,,Pleuronectiformes,,eats
+47273,,Demersal piscivores,,eats
+47273,260530,Parapenaeus politus,,eats
+47273,532784,Bullia,Ploughshells,eats
+47273,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47273,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+47273,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+47273,47273,Elasmobranchii,Elasmobranchs,eatenBy
+47273,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47273,113052,Squatina dumeril,Atlantic Angelshark,eatenBy
+47273,84996,Carcharhinus leucas,Bull Shark,eatenBy
+47273,96762,Carcharhinus obscurus,Dusky Shark,eatenBy
+47273,112381,Scyliorhinus stellaris,Nursehound,eatenBy
+47273,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+47273,51322,Dalatias licha,Black Shark,eatenBy
+47273,333753,Eleutheronema tetradactylum,Fourfinger Threadfin,eatenBy
+47273,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+47273,,Torpedo nobiliana,,eatenBy
+47273,67964,Carcharhinus melanopterus,Blacktip Reef Shark,eatenBy
+47273,100111,Epinephelus lanceolatus,Giant Grouper,eatenBy
+47273,100571,Etmopterus bigelowi,Smooth Lanternshark,eatenBy
+47273,49497,Epinephelus,Rockcods,eatenBy
+47273,47490,Polychaeta,Polychaete Worms,preysOn
+47273,121639,Brachyura,True Crabs,preysOn
+47273,47178,Actinopterygii,Ray-finned Fishes,preysOn
+47273,342912,Caridea,Caridean Shrimps,preysOn
+47273,47120,Arthropoda,Arthropods,preysOn
+47273,47584,Bivalvia,Bivalves,preysOn
+47273,47459,Cephalopoda,Cephalopods,preysOn
+47273,1,Animalia,Animals,preysOn
+47273,47273,Elasmobranchii,Elasmobranchs,preysOn
+47273,56943,Katsuwonus pelamis,Skipjack Tuna,preysOn
+47273,49601,Mola mola,Common Mola,preysOn
+47273,,Demersal piscivores,,preysOn
+47273,,Pleuronectiformes,,preysOn
+47273,,Suprabenthos,,preysOn
+47273,260530,Parapenaeus politus,,preysOn
+47273,,tuna 2,,preysOn
+47273,,tuna 1,,preysOn
+47273,47273,Elasmobranchii,Elasmobranchs,preyedUponBy

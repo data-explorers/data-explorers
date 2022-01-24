@@ -1,0 +1,63 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63288,123631,Corallina,,eats
+63288,67423,Ulva lactuca,broadleaf sea lettuce,eats
+63288,,PhytoP,,eats
+63288,182857,Sphacelaria,,eats
+63288,,Plocamium sp.,,eats
+63288,131280,Dictyota mertensii,,eats
+63288,50926,Caulerpa racemosa,Sea Grapes,eats
+63288,180609,Lithophyllum,,eats
+63288,51384,Caulerpa prolifera,,eats
+63288,131277,Lobophora variegata,Encrusting fan-leaf alga,eats
+63288,1253504,Bryopsis,,eats
+63288,,Chaetomorpha gracilaris,,eats
+63288,207565,Padina gymnospora,,eats
+63288,415109,Codium decorticatum,,eats
+63288,322821,Sargassum vulgare,,eats
+63288,201264,Bryopsis pennata,,eats
+63288,201265,Bryopsis plumosa,Hen Pen,eats
+63288,328369,Spatoglossum schroederi,,eats
+63288,570223,Caulerpa scalpelliformis,Scalpel green seaweed,eats
+63288,131266,Caulerpa cupressoides,cactus tree alga,eats
+63288,131298,Cryptonemia crenulata,,eats
+63288,67672,Hypnea musciformis,,eats
+63288,330788,Centroceras,,eats
+63288,915274,Dictyopteris delicatula,,eats
+63288,,Gracilaria sp.,,eats
+63288,911743,Plocamium brasiliense,,eats
+63288,59730,Valonia aegagropila,,eats
+63288,947920,Gracilaria domingensis,,eats
+63288,67679,Gracilaria,,eats
+63288,131281,Dictyota menstrualis,,eats
+63288,199320,Acanthophora spicifera,prickly seaweed,eats
+63288,67561,Charadriiformes,Shorebirds and Allies,eatenBy
+63288,7031,Melanitta,Scoters,eatenBy
+63288,38957,Tropidurus,Lava Lizards,eatenBy
+63288,10733,Geositta,South American Miners,eatenBy
+63288,,Brachystosternus,,eatenBy
+63288,63288,Talitridae,Sandhoppers and Landhoppers,preysOn
+63288,48580,Idotea,,preysOn
+63288,48147,Isopoda,Isopods,preysOn
+63288,83718,Tanaidacea,Tanaids,preysOn
+63288,59806,Gammaridae,,preysOn
+63288,245452,Stenothoidae,,preysOn
+63288,,Zooplankton,,preysOn
+63288,,Amphitoidae,,preysOn
+63288,,Harparticoida,,preysOn
+63288,144115,Cumacea,Hooded Shrimp,preysOn
+63288,48580,Idotea,,preyedUponBy
+63288,47490,Polychaeta,Polychaete Worms,preyedUponBy
+63288,63288,Talitridae,Sandhoppers and Landhoppers,preyedUponBy
+63288,48147,Isopoda,Isopods,preyedUponBy
+63288,48173,Pagurus,,preyedUponBy
+63288,38293,Lampropholis delicata,Delicate Garden Skink,preyedUponBy
+63288,,Anemonia sargassensis,,preyedUponBy
+63288,179515,Bathygobius soporator,Frillfin Goby,preyedUponBy
+63288,49257,Pomacanthus paru,French Angelfish,preyedUponBy
+63288,59806,Gammaridae,,preyedUponBy
+63288,295215,Clibanarius antillensis,,preyedUponBy
+63288,49402,Abudefduf saxatilis,Atlantic Sergeant Major,preyedUponBy
+63288,,Amphitoidae,,preyedUponBy
+63288,245452,Stenothoidae,,preyedUponBy
+63288,194085,Panopeus,Mud Crabs,preyedUponBy
+63288,195079,Neogonodactylus,,preyedUponBy

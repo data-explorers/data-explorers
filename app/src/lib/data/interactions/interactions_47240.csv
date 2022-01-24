@@ -1,0 +1,41 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47240,47628,Amphipoda,Amphipods,eats
+47240,1,Animalia,Animals,eats
+47240,774778,Gymnoplea,,eats
+47240,,,,eats
+47240,979929,Puffinus assimilis,Little Shearwater,eatenBy
+47240,4436,Sterna dougallii,Roseate Tern,eatenBy
+47240,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+47240,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+47240,4389,Larus cachinnans,Caspian Gull,eatenBy
+47240,4534,Anous,Noddies,eatenBy
+47240,4535,Anous stolidus,Brown Noddy,eatenBy
+47240,,Puffinus pacificus,,eatenBy
+47240,104803,Lophius gastrophysus,,eatenBy
+47240,103158,Hyporthodus flavolimbatus,Yellow-edge Grouper,eatenBy
+47240,118614,Phycis phycis,Forkbeard,eatenBy
+47240,118589,Conger conger,European Conger,eatenBy
+47240,101187,Galeus nipponensis,Broadfin Sawtail Catshark,eatenBy
+47240,51553,Seriola rivoliana,Highfin Amberjack,eatenBy
+47240,118656,Pagellus acarne,Axillary Seabream,eatenBy
+47240,118657,Pagellus bogaraveo,Blackspot Seabream,eatenBy
+47240,,Zeus faber,,eatenBy
+47240,459205,Beryx splendens,Alfonsino,eatenBy
+47240,48397,Raja clavata,Thornback Skate,eatenBy
+47240,118647,Lepidopus caudatus,Frostfish,eatenBy
+47240,101176,Galeorhinus galeus,School Shark,eatenBy
+47240,,Synaphobranchus kaupii,,eatenBy
+47240,101187,Galeus nipponensis,Broadfin Sawtail Catshark,preyedUponBy
+47240,118603,Merluccius merluccius,European Hake,preyedUponBy
+47240,118678,Scomber scombrus,Atlantic Mackerel,preyedUponBy
+47240,48397,Raja clavata,Thornback Skate,preyedUponBy
+47240,101176,Galeorhinus galeus,School Shark,preyedUponBy
+47240,51553,Seriola rivoliana,Highfin Amberjack,preyedUponBy
+47240,104803,Lophius gastrophysus,,preyedUponBy
+47240,,Zeus faber,,preyedUponBy
+47240,118647,Lepidopus caudatus,Frostfish,preyedUponBy
+47240,118614,Phycis phycis,Forkbeard,preyedUponBy
+47240,118589,Conger conger,European Conger,preyedUponBy
+47240,118657,Pagellus bogaraveo,Blackspot Seabream,preyedUponBy
+47240,118656,Pagellus acarne,Axillary Seabream,preyedUponBy
+47240,,Synaphobranchus kaupii,,preyedUponBy

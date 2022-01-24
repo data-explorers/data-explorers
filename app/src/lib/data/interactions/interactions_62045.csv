@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62045,48678,Solidago,goldenrods,eats
+62045,53052,Foeniculum vulgare,fennel,eats
+62045,76610,Daucus carota,wild carrot,eats
+62045,56851,Asclepias fascicularis,narrowleaf milkweed,eats
+62045,47219,Apis mellifera,Western Honey Bee,eats
+62045,47911,Asclepias syriaca,common milkweed,eats
+62045,55563,Bellis perennis,common daisy,eats
+62045,58271,Eriogonum elongatum,Long-stemmed Buckwheat,eats
+62045,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+62045,,Asclepias linaria,,eats
+62045,,Asclepias uncialis,,pollinates
+62045,366894,Steatoda nobilis,Noble False Widow,preyedUponBy

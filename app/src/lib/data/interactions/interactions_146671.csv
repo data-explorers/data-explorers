@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+146671,60207,Myriophyllum,Milfoils,eats
+146671,75867,Brasenia schreberi,Watershield,eats
+146671,156861,Limnophila,,eats
+146671,,Hydrilla,,eats
+146671,,Hygrophila,,eats
+146671,,Vallisneria,,eats
+146671,,Cabomba,,eats

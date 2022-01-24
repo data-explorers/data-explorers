@@ -1,0 +1,123 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+6912,47186,Decapoda,Decapods,eats
+6912,52319,Platyhelminthes,Flatworms,eats
+6912,49266,Tetraodontidae,Pufferfishes,eats
+6912,47314,Anguilliformes,True Eels,eats
+6912,47126,Plantae,plants,eats
+6912,311249,Bryophyta,mosses,eats
+6912,47628,Amphipoda,Amphipods,eats
+6912,67333,Bacteria,bacteria,eats
+6912,132473,Lagodon rhomboides,Pinfish,eats
+6912,58371,Cynodon dactylon,Bermuda grass,eats
+6912,53151,Medicago polymorpha,bur clover,eats
+6912,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+6912,58372,Distichlis spicata,Saltgrass,eats
+6912,48625,Oenothera speciosa,Pinkladies,eats
+6912,60129,Ambrosia psilostachya,western ragweed,eats
+6912,49194,Verbenaceae,verbena family,eats
+6912,50636,Plantago,plantain,eats
+6912,48561,Cirsium,thistles,eats
+6912,76755,Echinochloa colona,Jungle Rice,eats
+6912,47701,Geranium,geraniums and cranesbills,eats
+6912,52734,Cyperus,flatsedges,eats
+6912,60304,Paspalum,Paspalum,eats
+6912,52346,Ipomoea,morning-glories,eats
+6912,51826,Sporobolus,"dropseeds, cordgrasses, and sandreeds",eats
+6912,60301,Panicum,panicgrasses,eats
+6912,53195,Rumex acetosella,Sheep's sorrel,eats
+6912,58389,Sorghum bicolor,Sorghum,eats
+6912,58387,Sorghum halepense,Johnson grass,eats
+6912,75732,Bacopa monnieri,Herb-of-Grace,eats
+6912,47758,Oxalis,woodsorrels,eats
+6912,48972,Polygonum,knotweeds,eats
+6912,47178,Actinopterygii,Ray-finned Fishes,eats
+6912,62941,Ipomoea batatas,sweet potato,eats
+6912,58642,Fundulus heteroclitus,Mummichog,eats
+6912,,Enteromorpha,,eats
+6912,61092,Ruppia,widgeonweeds,eats
+6912,,Lymnaea,,eats
+6912,177448,Limnephilus,,eats
+6912,347615,Eiseniella,,eats
+6912,177502,Leptophlebia,,eats
+6912,60398,Lepidurus,,eats
+6912,59807,Gammarus,,eats
+6912,247741,Procladius,,eats
+6912,483822,Holopedium,,eats
+6912,176787,Nemoura,,eats
+6912,,Platambus,,eats
+6912,,Mystacides,,eats
+6912,,Eurycercus,,eats
+6912,,Diura,,eats
+6912,,Macro-epiphytes,,eats
+6912,179563,Leiostomus xanthurus,Spot Croaker,eats
+6912,,meiofauna,,eats
+6912,,Detritus,,eats
+6912,,Oryza sativa,,eats
+6912,,Algae,,eats
+6912,,Spartina alterniflora,,eats
+6912,,Borrichia frutescens,,eats
+6912,,Salicornia bigelovii,,eats
+6912,,Monanthochloe littoralis,,eats
+6912,,Pisum sativum,,eats
+6912,,Chaerophyllum,,eats
+6912,,Linum usitatissimum,,eats
+6912,83492,Heliotropium indicum,Indian Heliotrope,eats
+6912,48448,Zea mays,Maize,eats
+6912,,Cucumis melo,,eats
+6912,,Corydalis,,eats
+6912,,Lathyrus pusillus,,eats
+6912,145356,Chloris,Greenfinches,eats
+6912,,Iva,,eats
+6912,,Spartina,,eats
+6912,,Cynosciadium,,eats
+6912,,Diodia teres,,eats
+6912,,Nasturtium officinal,,eats
+6912,42069,Vulpes vulpes,Red Fox,eatenBy
+6912,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+6912,43584,Homo sapiens,Human,eatenBy
+6912,8010,Corvus corax,Common Raven,eatenBy
+6912,42051,Canis latrans,Coyote,eatenBy
+6912,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+6912,20044,Bubo virginianus,Great Horned Owl,eatenBy
+6912,4756,Cathartes aura,Turkey Vulture,eatenBy
+6912,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+6912,851014,Canis aureus,Golden Jackal,eatenBy
+6912,,Python molurus bivittatus,,eatenBy
+6912,,Coyote,,eatenBy
+6912,,sediment,,eatenBy
+6912,128750,Sciaenops ocellatus,Red Drum,eatenBy
+6912,,Aquila chrysaetos,,eatenBy
+6912,4644,Falco mexicanus,Prairie Falcon,eatenBy
+6912,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+6912,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+6912,48919,Littorina,Periwinkles,preysOn
+6912,52524,Carcinus,Green Crabs,preysOn
+6912,81636,Mya,,preysOn
+6912,62807,Mytilus,Black Mussels,preysOn
+6912,47126,Plantae,plants,preysOn
+6912,,Hydrobia,,preysOn
+6912,,Fimbria,,preysOn
+6912,59807,Gammarus,,preysOn
+6912,48817,Crangon,,preysOn
+6912,203392,Jaera,,preysOn
+6912,91276,Potamopyrgus,,preysOn
+6912,210231,Cerastoderma,,preysOn
+6912,,Turboella,,preysOn
+6912,378019,Rissoa,,preysOn
+6912,71252,Macoma,,preysOn
+6912,,Lymnaea,,preysOn
+6912,,Platambus,,preysOn
+6912,,Diura,,preysOn
+6912,176787,Nemoura,,preysOn
+6912,,Macroalgae,,preysOn
+6912,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+6912,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+6912,42051,Canis latrans,Coyote,preyedUponBy
+6912,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+6912,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+6912,30479,Naja haje,Egyptian Cobra,preyedUponBy
+6912,32150,Python molurus,Indian Python,preyedUponBy
+6912,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+6912,5108,Accipiter gentilis,Northern Goshawk,preyedUponBy
+6912,,Accipiter gentilis fujiyamae,,preyedUponBy
+6912,144594,Bubo scandiacus,Snowy Owl,preyedUponBy

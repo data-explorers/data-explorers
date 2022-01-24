@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49216,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49216,64346,Natrix tessellata,Tessellated Water Snake,eatenBy
+49216,64346,Natrix tessellata,Tessellated Water Snake,preyedUponBy

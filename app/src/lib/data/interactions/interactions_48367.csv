@@ -1,0 +1,53 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48367,58578,Euphydryas phaeton,Baltimore Checkerspot,eatenBy
+48367,252448,Caenohalictus,,eatenBy
+48367,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",eatenBy
+48367,6317,Calypte anna,Anna's Hummingbird,eatenBy
+48367,1081332,Lon melane,Umber Skipper,eatenBy
+48367,57681,Anthophora urbana,Urbane Digger Bee,eatenBy
+48367,47219,Apis mellifera,Western Honey Bee,eatenBy
+48367,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+48367,128670,Bombus vagans,Half-black Bumble Bee,eatenBy
+48367,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+48367,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+48367,198856,Bombus auricomus,Black-and-gold Bumble Bee,eatenBy
+48367,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+48367,6358,Selasphorus,"Rufous, Allen's, and Allied Hummingbirds",eatenBy
+48367,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+48367,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+48367,124420,Bombus californicus,California Bumble Bee,eatenBy
+48367,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+48367,57686,Xylocopa tabaniformis,Horse-fly Carpenter,eatenBy
+48367,52775,Bombus,Bumble Bees,eatenBy
+48367,57678,Lasioglossum,,eatenBy
+48367,6316,Calypte costae,Costa's Hummingbird,eatenBy
+48367,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+48367,906,Meleagris gallopavo,Wild Turkey,eatenBy
+48367,,Endothenia hebesana,,eatenBy
+48367,,Phtheochroa,,eatenBy
+48367,,Euphydryas editha,,eatenBy
+48367,,Poladryas arachne,,eatenBy
+48367,,Occidryas chalcedona,,eatenBy
+48367,,Thessalia fulvia,,eatenBy
+48367,218925,Elaphria chalcedonia,Chalcedony Midget,eatenBy
+48367,,Homoncocnemis picina,,eatenBy
+48367,,Euphydryas anicia,,eatenBy
+48367,,Poladryas minuta,,eatenBy
+48367,,Colibri coruscans,,eatenBy
+48367,,Sehirus cinctus,,eatenBy
+48367,,Pseudomasaris vespoides,,eatenBy
+48367,62453,Anthidium manicatum,European Woolcarder Bee,eatenBy
+48367,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+48367,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+48367,334616,Battus philenor hirsuta,California Pipevine Swallowtail,eatenBy
+48367,,Eucarazzia elegans,,eatenBy
+48367,57674,Osmia,Mason Bees,pollinatedBy
+48367,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+48367,5562,Trochilidae,Hummingbirds,pollinatedBy
+48367,,Archilochus colubris,,pollinatedBy
+48367,,Hylocharis leucotis,,pollinatedBy
+48367,559084,Eugenes fulgens,Rivoli's Hummingbird,pollinatedBy
+48367,508366,Colibri thalassinus,Mexican Violetear,pollinatedBy
+48367,,Lampornis clemenciae,,pollinatedBy
+48367,,Pseudomasaris vespoides,,pollinatedBy
+48367,,Osmia distincta,,pollinatedBy

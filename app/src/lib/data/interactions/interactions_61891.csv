@@ -1,0 +1,42 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61891,55882,Hedera helix,common ivy,eats
+61891,,Layia,,eats
+61891,76277,Chenopodium incanum,Mealy Goosefoot,eats
+61891,79157,Sonchus tenerrimus,slender sowthistle,pollinates
+61891,47192,Cornus canadensis,Canadian bunchberry,pollinates
+61891,61891,Sphecodes,Blood Bees,pollinates
+61891,52821,Achillea millefolium,Common Yarrow,pollinates
+61891,50879,Erigeron,fleabanes and horseweeds,pollinates
+61891,,Salix amygdaloides,,pollinates
+61891,,Thalictrum dasycarpum,,pollinates
+61891,130365,Sanicula marilandica,Maryland Black-snakeroot,pollinates
+61891,,Scutellaria,,pollinates
+61891,121981,Triosteum perfoliatum,Perfoliate Tinker's-weed,pollinates
+61891,168969,Silene nivea,Snowy Campion,pollinates
+61891,,Thaspium,,pollinates
+61891,,Stylosanthes biflora,,pollinates
+61891,,Stenanthium,,pollinates
+61891,,Salix nigra,,pollinates
+61891,,Vernonia fasciculata,,pollinates
+61891,,Lavandula stoechas,,pollinates
+61891,,Cistus monspeliensis,,pollinates
+61891,,Vaccinium myrtillus,,pollinates
+61891,119450,Calluna vulgaris,common heather,pollinates
+61891,,Potentilla erecta,,pollinates
+61891,,Symplocos chinensis,,pollinates
+61891,,Osyris quadripartita,,pollinates
+61891,,Potentilla gracilis,,pollinates
+61891,,Hackelia floribunda,,pollinates
+61891,170113,Valeriana edulis,Hairy Valerian,pollinates
+61891,,Chamerion angustifolium,,pollinates
+61891,,Potentilla arguta,,pollinates
+61891,,http://treatment.plazi.org/id/E76E6BBABF23BD7A32BDDED82B23CFFB,,pollinates
+61891,,Prunus pensylvanica,,pollinates
+61891,963063,Helichrysum forskahlii,,pollinates
+61891,133311,Richardia scabra,Florida Pusley,pollinates
+61891,131560,Euphorbia hirta,asthma plant,pollinates
+61891,57481,Calystegia sepium,hedge bindweed,pollinates
+61891,61891,Sphecodes,Blood Bees,pollinatedBy
+61891,,Philanthus bilunatus,,preyedUponBy
+61891,,Zelus tetracanthus,,preyedUponBy
+61891,,Philanthus politus,,preyedUponBy

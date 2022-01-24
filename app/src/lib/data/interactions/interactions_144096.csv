@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144096,333759,Larus dominicanus dominicanus,Southern Black-backed Gull,eatenBy
+144096,106260,Mustelus lenticulatus,Spotted Estuary Smooth-hound,eatenBy
+144096,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+144096,333759,Larus dominicanus dominicanus,Southern Black-backed Gull,preyedUponBy

@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51229,48548,Vanessa cardui,Painted Lady,eatenBy
+51229,182582,Amblyptilia pica,Geranium Plume Moth,eatenBy
+51229,70204,Alucita,,eatenBy
+51229,124420,Bombus californicus,California Bumble Bee,eatenBy
+51229,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+51229,55785,Ochlodes agricola,Rural Skipper,eatenBy
+51229,47219,Apis mellifera,Western Honey Bee,eatenBy
+51229,740096,Fazia micrura,Diamond Spottail,eatenBy
+51229,57681,Anthophora urbana,Urbane Digger Bee,eatenBy
+51229,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+51229,6359,Selasphorus sasin,Allen's Hummingbird,eatenBy
+51229,1081332,Lon melane,Umber Skipper,eatenBy
+51229,361760,Carcharodus floccifera,Tufted Skipper,eatenBy
+51229,362045,Carcharodus lavatherae,Marbled Skipper,eatenBy
+51229,,Sparganothis pilleriana,,eatenBy
+51229,,Paramesia gnomana,,eatenBy
+51229,,Endothenia hebesana,,eatenBy
+51229,,Endothenia nubilana,,eatenBy
+51229,453284,Endothenia montanana,,eatenBy
+51229,,Aphelia alleniana,,eatenBy
+51229,527514,Periclepsis,,eatenBy
+51229,,Argyrotaenia franciscana,,eatenBy
+51229,527151,Endothenia marginana,Bordered Marble,eatenBy
+51229,876017,Chamaesphecia dumonti,,eatenBy
+51229,,Perinephela lancealis,,eatenBy
+51229,,Amblyptilia punctidactyla,,eatenBy
+51229,,Autographa pasiphaea,,eatenBy
+51229,261361,Cosmopepla conspicillaris,Hedge Nettle Stink Bug,eatenBy
+51229,,Amauromyza labiatarum,,eatenBy
+51229,,Cryptomyzus (Cryptomyzus) ribis,,eatenBy
+51229,,Lachnella villosa,,eatenBy
+51229,990662,Dibolia cynoglossi,,eatenBy
+51229,,Anthidium maculosum,,eatenBy
+51229,125138,Bombus vandykei,Van Dyke's Bumble Bee,eatenBy
+51229,62453,Anthidium manicatum,European Woolcarder Bee,eatenBy
+51229,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+51229,210423,Callophrys viridis,Coastal Green Hairstreak,eatenBy
+51229,,Melanostoma mellinum,,eatenBy
+51229,5562,Trochilidae,Hummingbirds,pollinatedBy
+51229,155108,Ceratina,Small Carpenter Bees,pollinatedBy
+51229,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+51229,252417,Anthidiellum,,pollinatedBy
+51229,57682,Anthophora,Common Digger Bees,pollinatedBy
+51229,57671,Anthidium,Carder Bees,pollinatedBy
+51229,57674,Osmia,Mason Bees,pollinatedBy
+51229,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+51229,,Coelioxys,,pollinatedBy
+51229,,Eucera,,pollinatedBy
+51229,,Lepidargyrus ancorifer,,pollinatedBy
+51229,,Habropoda tarsata,,pollinatedBy
+51229,484587,Osmia aurulenta,Gold-fringed Mason Bee,pollinatedBy
+51229,484577,Rophites quinquespinosus,Five-spined Rophites,pollinatedBy
+51229,,,,pollinatedBy
+51229,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+51229,,Tetralonia,,pollinatedBy
+51229,,Hoplosmia spinigera,,pollinatedBy
+51229,,Andrena,,pollinatedBy
+51229,418561,Amegilla albigena,,pollinatedBy
+51229,1079832,Rophites algirus,,pollinatedBy
+51229,,Thymelicus acteon,,pollinatedBy
+51229,,Dasytes striatulus ,,pollinatedBy
+51229,501165,Rhodanthidium septemdentatum,Seven-toothed Red-Resin bee,pollinatedBy
+51229,,Chalicodoma,,pollinatedBy
+51229,703097,Icteranthidium grohmanni,Grohmann's Yellow-Resin bee,pollinatedBy
+51229,447551,Xylocopa iris,Little Carpenter,pollinatedBy
+51229,571004,Cadeguala occidentalis,,pollinatedBy
+51229,915572,Alloscirtetica rufitarsis,,pollinatedBy
+51229,936543,Anthidium gayi,Gay's Woolcarder,pollinatedBy
+51229,574506,Alloscirtetica,,pollinatedBy
+51229,497142,Bombus dahlbomii,Giant Bumble Bee,pollinatedBy
+51229,512755,Megachile semirufa,,pollinatedBy
+51229,794023,Centris nigerrima,Chilean Black Oil-Digger,pollinatedBy
+51229,,Scaeva melanostoma,,pollinatedBy
+51229,780176,Alloscirtetica gayi,Gay's Austral-Longhorn,pollinatedBy
+51229,,Centris cineraria,,pollinatedBy
+51229,,Euryglostromyia philippii,,pollinatedBy

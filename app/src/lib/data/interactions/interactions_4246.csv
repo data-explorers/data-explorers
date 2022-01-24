@@ -1,0 +1,173 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4246,20979,Anura,Frogs and Toads,eats
+4246,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+4246,127444,Hydrophilidae,Water Scavenger Beetles,eats
+4246,49567,Carabidae,Ground Beetles,eats
+4246,133821,Physa,,eats
+4246,47157,Lepidoptera,Butterflies and Moths,eats
+4246,49592,Lepomis,Common Sunfishes,eats
+4246,81576,Belostoma,,eats
+4246,84735,Corixidae,Water Boatmen,eats
+4246,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",eats
+4246,47186,Decapoda,Decapods,eats
+4246,53275,Chironomidae,Non-biting Midges,eats
+4246,51469,Aeshnidae,Darners,eats
+4246,47649,Acrididae,Short-horned Grasshoppers,eats
+4246,47742,Pentatomidae,Stink Bugs,eats
+4246,57659,Dytiscidae,Predaceous Diving Beetles,eats
+4246,53911,Cyprinus carpio,European Carp,eats
+4246,47336,Formicidae,Ants,eats
+4246,59116,Poeciliidae,Livebearers and Lampeyes,eats
+4246,47928,Zygoptera,Damselflies,eats
+4246,49609,Cyprinidae,Cyprinids,eats
+4246,47118,Araneae,Spiders,eats
+4246,58648,Fundulus,Typical Killifishes,eats
+4246,81570,Belostomatidae,Giant Water Bugs,eats
+4246,48736,Curculionidae,True Weevils,eats
+4246,47927,Anisoptera,Dragonflies,eats
+4246,47819,Libellulidae,Skimmers,eats
+4246,47114,Gastropoda,Gastropods,eats
+4246,133623,Tropisternus,,eats
+4246,48124,Tettigoniidae,Katydids,eats
+4246,49588,Centrarchidae,Freshwater Sunfishes,eats
+4246,70127,Stratiomyidae,Soldier Flies,eats
+4246,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+4246,47792,Odonata,Dragonflies and Damselflies,eats
+4246,47158,Insecta,Insects,eats
+4246,47120,Arthropoda,Arthropods,eats
+4246,47178,Actinopterygii,Ray-finned Fishes,eats
+4246,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+4246,47308,Gobiidae,Gobies,eats
+4246,48460,Life,,eats
+4246,47188,Pachygrapsus crassipes,Striped Shore Crab,eats
+4246,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+4246,47233,Perciformes,Perch-like Fishes,eats
+4246,65979,Lithobates catesbeianus,American Bullfrog,eats
+4246,47273,Elasmobranchii,Elasmobranchs,eats
+4246,60340,Lithobates,American Water Frogs,eats
+4246,203213,Diapriidae,,eats
+4246,25474,Rana,Pond Frogs,eats
+4246,,Colymbetes,,eats
+4246,,Ameiurus,,eats
+4246,,Cottus bairdii,,eats
+4246,49614,Lepomis gibbosus,Pumpkinseed,eats
+4246,,Orectochilus,,eats
+4246,,Teleostei,,eats
+4246,,Peltodytes muticus,,eats
+4246,,Cybrister fimbriolatus,,eats
+4246,82104,Cambarus,,eats
+4246,,Ranatra,,eats
+4246,,Haliplidae,,eats
+4246,56557,Notonecta,Milky Backswimmers,eats
+4246,,Hygrotus,,eats
+4246,,Pterostichus,,eats
+4246,,Pelocoris femoratus,,eats
+4246,48817,Crangon,,eats
+4246,,Leuciscus,,eats
+4246,,Gyrinidae,,eats
+4246,,Dineutes,,eats
+4246,,Abramis,,eats
+4246,221649,Hydrophilus triangularis,Giant Water Scavenger Beetle,eats
+4246,,Haliplus fasciatus,,eats
+4246,739327,Uca,Narrow-fronted Fiddler Crabs,eats
+4246,,Tomarus relictus,,eats
+4246,48158,Percidae,"Perches, Darters, and allies",eats
+4246,81554,Ictalurus punctatus,Channel Catfish,eats
+4246,,Sphenophorus,,eats
+4246,,Artemia,,eats
+4246,,Suphis inflatus,,eats
+4246,,Catostomus commersonii,,eats
+4246,49219,Anguilla rostrata,American Eel,eats
+4246,,Sphenophorus costipennis,,eats
+4246,89849,Membras,,eats
+4246,,Palaemonetes,,eats
+4246,,Berosus,,eats
+4246,47644,Cottus,Freshwater Sculpins,eats
+4246,121294,Curculio,Nut and Acorn Weevils,eats
+4246,,Unio,,eats
+4246,,Rhantus consimilis,,eats
+4246,,Peltodytes callosus,,eats
+4246,,Dytiscus,,eats
+4246,,Donacia,,eats
+4246,58627,Perca flavescens,Yellow Perch,eats
+4246,,Ameiurus melas,,eats
+4246,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4246,,Pacifastacus leniusculus,,eats
+4246,,Lepomis auritus,,eats
+4246,44576,Rattus norvegicus,Brown Rat,eatenBy
+4246,20044,Bubo virginianus,Great Horned Owl,eatenBy
+4246,41663,Procyon lotor,Common Raccoon,eatenBy
+4246,41801,Mustela,,eatenBy
+4246,473,Fulica americana,American Coot,eatenBy
+4246,39682,Chelydra serpentina,Common Snapping Turtle,eatenBy
+4246,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4246,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4246,26159,Alligator mississippiensis,American Alligator,eatenBy
+4246,,Agkistrodon piscivorus,,eatenBy
+4246,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+4246,,Python molurus bivittatus,,eatenBy
+4246,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+4246,47951,Staphylinidae,Rove Beetles,preysOn
+4246,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+4246,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4246,47645,Cottidae,Typical Sculpins,preysOn
+4246,311310,Astacidea,Crayfishes and Lobsters,preysOn
+4246,49592,Lepomis,Common Sunfishes,preysOn
+4246,48460,Life,,preysOn
+4246,60340,Lithobates,American Water Frogs,preysOn
+4246,47783,Astacoidea,Northern Hemisphere Crayfishes,preysOn
+4246,,Gammaridea,,preysOn
+4246,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4246,108561,Paralichthys californicus,California Halibut,preysOn
+4246,179533,Fundulus parvipinnis,California Killifish,preysOn
+4246,111467,Quietula y-cauda,Shadow Goby,preysOn
+4246,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4246,117563,Acanthogobius flavimanus,Yellowfin Goby,preysOn
+4246,101455,Gillichthys mirabilis,Longjaw Mudsucker,preysOn
+4246,82326,Hypsopsetta guttulata,Diamond turbot,preysOn
+4246,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+4246,144115,Cumacea,Hooded Shrimp,preysOn
+4246,,Nebalia,,preysOn
+4246,117564,Clevelandia ios,Arrow Gobi,preysOn
+4246,209136,Paracerceis,,preysOn
+4246,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+4246,,Uca crenulata,,preysOn
+4246,,green gammaridean,,preysOn
+4246,,Spirocamallanus pereirai,,preysOn
+4246,,Portunion conformis,,preysOn
+4246,,Trichodina,,preysOn
+4246,,Mesostephanus appendiculatoides,,preysOn
+4246,,Carcinonemertes,,preysOn
+4246,,Cloacitrema michiganense,,preysOn
+4246,339176,Renicola buchanani,,preysOn
+4246,339182,Phocitremoides ovale,,preysOn
+4246,209100,Gyrodactylus,,preysOn
+4246,339183,Euhaplorchis californiensis,,preysOn
+4246,,Nerocila californica,,preysOn
+4246,339200,Himasthla rhigedana,,preysOn
+4246,,Dilepididae,,preysOn
+4246,,Pygidiopsoides spindalis,,preysOn
+4246,,Parorchis acanthus,,preysOn
+4246,,Probolocoryphe uca,,preysOn
+4246,,Hysterolecitha,,preysOn
+4246,,Ergasilus auritus,,preysOn
+4246,,Stictodora hancocki,,preysOn
+4246,914144,Galactosomum,,preysOn
+4246,,Renicola cerithidicola,,preysOn
+4246,,Eugregarinida,,preysOn
+4246,,Anisogammarus confervicolus,,preysOn
+4246,63081,Hirudinea,Leeches,preysOn
+4246,339177,Microphallidae,,preysOn
+4246,,trypanorynch,,preysOn
+4246,339174,Cyathocotylidae,,preysOn
+4246,,Picornaviridae,,preysOn
+4246,53520,Synbranchus marmoratus,Marbled Swamp Eel,preysOn
+4246,,Ameiurus,,preysOn
+4246,49614,Lepomis gibbosus,Pumpkinseed,preysOn
+4246,99544,Dorosoma cepedianum,American Gizzard Shad,preysOn
+4246,103210,Hypsoblennius gentilis,Bay Blenny,preysOn
+4246,,Pimephales promelas,,preysOn
+4246,,Xenopus laevis,,preysOn
+4246,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+4246,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+4246,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy

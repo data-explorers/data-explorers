@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60539,,Detritus,,eats
+60539,20044,Bubo virginianus,Great Horned Owl,eatenBy
+60539,11867,Progne subis,Purple Martin,eatenBy
+60539,,Carabus cancellatus,,preyedUponBy
+60539,216086,Carabus granulatus,Granulated Ground Beetle,preyedUponBy
+60539,498011,Abax ovalis,,preyedUponBy

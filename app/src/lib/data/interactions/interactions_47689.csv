@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47689,59124,Anthocharis sara,Sara Orangetip,eatenBy
+47689,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+47689,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+47689,84640,Polistes dominula,European Paper Wasp,eatenBy
+47689,47219,Apis mellifera,Western Honey Bee,eatenBy
+47689,50931,Strymon melinus,Gray Hairstreak,eatenBy
+47689,41641,Ursus arctos,Brown Bear,eatenBy
+47689,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+47689,,Plebeia emerina,,eatenBy
+47689,,Apantesis ornata,,eatenBy
+47689,,Pieris marginalis,,eatenBy
+47689,520456,Icaricia acmon,Acmon Blue,eatenBy
+47689,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+47689,57678,Lasioglossum,,pollinatedBy
+47689,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+47689,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47689,47158,Insecta,Insects,pollinatedBy
+47689,5562,Trochilidae,Hummingbirds,pollinatedBy
+47689,,Ceratina japonica ,,pollinatedBy
+47689,,,,pollinatedBy
+47689,,Prosena siberita,,pollinatedBy
+47689,359320,Bombus diversus,Diverse Bumble Bee,pollinatedBy
+47689,,Ceratina flavipes ,,pollinatedBy
+47689,,Nonarthra cyanea,,pollinatedBy
+47689,,Panorpa,,pollinatedBy
+47689,,Rhinoncomimus,,pollinatedBy
+47689,,Ceratina megastigmata ,,pollinatedBy
+47689,,Delia platura ,,pollinatedBy
+47689,,Pararge xiphioides ,,pollinatedBy
+47689,,Bruchidius wollastoni ,,pollinatedBy
+47689,322713,Sapromyza,,pollinatedBy
+47689,,Bombus canariensis ,,pollinatedBy
+47689,56293,Macroglossum stellatarum,Eurasian Hummingbird Hawkmoth,pollinatedBy
+47689,,Anaspis proteus ,,pollinatedBy
+47689,,Anthophora alluaudi,,pollinatedBy

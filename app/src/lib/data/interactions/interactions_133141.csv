@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+133141,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+133141,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+133141,12942,Sialia sialis,Eastern Bluebird,eatenBy
+133141,,Vireo flavifrons,,eatenBy
+133141,17394,Vireo gilvus,Warbling Vireo,eatenBy
+133141,166697,Phlox glaberrima,smooth phlox,pollinates

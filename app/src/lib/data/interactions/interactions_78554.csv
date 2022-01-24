@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+78554,78554,Phoenix canariensis,Canary Island palm,eats
+78554,42652,Didelphis virginiana,Virginia Opossum,eatenBy
+78554,46020,Sciurus niger,Fox Squirrel,eatenBy
+78554,78554,Phoenix canariensis,Canary Island palm,eatenBy
+78554,,Suastus gremius,,eatenBy
+78554,12716,Turdus merula,Eurasian Blackbird,eatenBy
+78554,40905,Pteropus poliocephalus,Grey-headed Flying-fox,eatenBy
+78554,980029,Turdus ignobilis,Black-billed Thrush,eatenBy
+78554,,Turdus fuscater gigas,,eatenBy
+78554,496560,Papilio fuscus,Fuscous Swallowtail,eatenBy
+78554,,Opsiphanes invirae,,eatenBy
+78554,,Brassolis sophorae,,eatenBy
+78554,,Pyrrhopygopsis socrates,,eatenBy
+78554,,Myiopsitta monachus,,eatenBy
+78554,,Coccotrypes dactyliperda,,eatenBy
+78554,,Ganoderma zonatum,,eatenBy
+78554,,Graphiola phoenicis,,eatenBy

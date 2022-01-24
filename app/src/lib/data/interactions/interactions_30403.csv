@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+30403,547193,Masticophis flagellum,Coachwhip,eats
+30403,318660,Cryptophis boschmai,Carpentaria Whip Snake,preyedUponBy
+30403,35143,Pseudonaja nuchalis,Northern Brown Snake,preyedUponBy
+30403,111068,Pseudonaja inframacula,Peninsula Brown Snake,preyedUponBy
+30403,35146,Pseudonaja guttata,Speckled Brown Snake,preyedUponBy
+30403,35140,Pseudonaja textilis,Eastern Brown Snake,preyedUponBy
+30403,35161,Pseudechis australis,Mulga Snake,preyedUponBy
+30403,32127,Aspidites melanocephalus,Black-headed Python,preyedUponBy

@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+734682,734682,Masticophis lateralis lateralis,California Striped Racer,eats
+734682,32059,Elgaria multicarinata multicarinata,California Alligator Lizard,eats
+734682,734682,Masticophis lateralis lateralis,California Striped Racer,eatenBy
+734682,146199,Lampropeltis californiae,California King Snake,preyedUponBy
+734682,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy

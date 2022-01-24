@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+133790,76610,Daucus carota,wild carrot,eats
+133790,47118,Araneae,Spiders,eats
+133790,53052,Foeniculum vulgare,fennel,eats
+133790,636795,Salvia rosmarinus,Rosemary,eats
+133790,,Latrodectus mactans,,eats
+133790,75995,Campsis radicans,American trumpet vine,eats
+133790,47336,Formicidae,Ants,eatenBy
+133790,47119,Arachnida,Arachnids,preysOn
+133790,47158,Insecta,Insects,preysOn
+133790,46217,Tamias striatus,Eastern Chipmunk,preyedUponBy

@@ -1,0 +1,133 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47868,,Calophya triozomima,,eats
+47868,,Corvus caurinus,,eatenBy
+47868,127593,Chloropidae,Frit Flies,preysOn
+47868,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+47868,47868,Philodromidae,Running Crab Spiders,preysOn
+47868,55351,Phoridae,Humpbacked Flies,preysOn
+47868,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+47868,84670,Ephydridae,Shore Flies,preysOn
+47868,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+47868,48139,Salticidae,Jumping Spiders,preysOn
+47868,47866,Thomisidae,Crab Spiders,preysOn
+47868,56611,Philodromus,,preysOn
+47868,47822,Diptera,Flies,preysOn
+47868,61860,Calliphoridae,Blow Flies,preysOn
+47868,47199,Ichneumonidae,Ichneumonid Wasps,preysOn
+47868,127812,Hylaeus,Masked Bees,preysOn
+47868,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+47868,,Sciaridae,,preysOn
+47868,153863,Thanatus,,preysOn
+47868,,Ootetrastichus,,preysOn
+47868,1087985,Swammerdamella brevicornis,,preysOn
+47868,52380,Aphidoidea,,preysOn
+47868,69803,Ceratopogonidae,Biting Midges,preysOn
+47868,605071,Cicadina,,preysOn
+47868,174422,Hybotidae,Hybotid Dance Flies,preysOn
+47868,174329,Microphysidae,Minute Bladder Bugs,preysOn
+47868,,Thripidae,,preysOn
+47868,342818,Proctotrupoidea,,preysOn
+47868,,Callitula ferrierei,,preysOn
+47868,,Sphaerocidae,,preysOn
+47868,50190,Cicadoidea,Cicadas,preysOn
+47868,,Hebrus ruficeps,,preysOn
+47868,357413,Evarcha arcuata,,preysOn
+47868,203213,Diapriidae,,preysOn
+47868,354851,Eucoilinae,,preysOn
+47868,624522,Hebrus pusillus,,preysOn
+47868,,Oedemera nobilis,,preysOn
+47868,,Sternorrhyncha,,preysOn
+47868,,Haplothrips,,preysOn
+47868,153861,Tibellus maritimus,,preysOn
+47868,178192,Hebridae,Velvet Water Bugs,preysOn
+47868,,Stenodema calcarata,,preysOn
+47868,,Limnephilidae,,preysOn
+47868,,Limnia paludicola,,preysOn
+47868,,Athericidae,,preysOn
+47868,,Ilione albiseta,,preysOn
+47868,47869,Tibellus,Slender Crab Spiders,preysOn
+47868,82118,Dolomedes,Fishing Spiders,preysOn
+47868,,Thripomorpha paludicola,,preysOn
+47868,,Tetrix,,preysOn
+47868,55787,Pisaura mirabilis,European Nursery Web spider,preysOn
+47868,,Veigaia nemorensis,,preysOn
+47868,172978,Atheta,vexing rove beetles,preysOn
+47868,,Lipothrix lubbocki,,preysOn
+47868,,Tullbergia callipygos,,preysOn
+47868,,Paragamasus vagabundus,,preysOn
+47868,,Athous,,preysOn
+47868,,Mesaphorura macrochaeta,,preysOn
+47868,203389,Megalothorax,,preysOn
+47868,,Mesaphorura,,preysOn
+47868,,Pergamasus norvegicus,,preysOn
+47868,,Campodea,,preysOn
+47868,,Pergamasus quisquiliarum,,preysOn
+47868,249911,Vulgarogamasus,,preysOn
+47868,,Zercon gurensis,,preysOn
+47868,,Pachylaelaps,,preysOn
+47868,,Mesaphorura sylvatica,,preysOn
+47868,1029352,Scolopendrella,,preysOn
+47868,,Habrocerus capillaricornis,,preysOn
+47868,,Lasioseius lawrencei,,preysOn
+47868,457780,Geostiba circellaris,,preysOn
+47868,203242,Aleocharinae,,preysOn
+47868,,Cordalia,,preysOn
+47868,568643,Lysigamasus,,preysOn
+47868,,Pergamasinae (juv) {s},,preysOn
+47868,,Zercon peltatus,,preysOn
+47868,177515,Leptacinus,,preysOn
+47868,,Pergamasus conus,,preysOn
+47868,568199,Lithobius curtipes,,preysOn
+47868,,Veigaia kochi,,preysOn
+47868,,Lithobius,,preysOn
+47868,,Pergamasus runcatellus,,preysOn
+47868,,Arctoseius magnanalis,,preysOn
+47868,,Tachyusa,,preysOn
+47868,377626,Pergamasus,,preysOn
+47868,,Veigaia cerva,,preysOn
+47868,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+47868,48139,Salticidae,Jumping Spiders,preyedUponBy
+47868,56611,Philodromus,,preyedUponBy
+47868,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+47868,47951,Staphylinidae,Rove Beetles,preyedUponBy
+47868,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+47868,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+47868,47416,Lycosidae,Wolf Spiders,preyedUponBy
+47868,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+47868,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+47868,,Sceliphron curvatum,,preyedUponBy
+47868,228315,Platycryptus californicus,California Flattened Jumping Spider,preyedUponBy
+47868,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47868,153863,Thanatus,,preyedUponBy
+47868,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+47868,129878,Nabidae,Damsel Bugs,preyedUponBy
+47868,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+47868,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+47868,82118,Dolomedes,Fishing Spiders,preyedUponBy
+47868,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+47868,531182,Clubiona subtilis,,preyedUponBy
+47868,153861,Tibellus maritimus,,preyedUponBy
+47868,887499,Himacerus boops,,preyedUponBy
+47868,,Erigonella hiemalis,,preyedUponBy
+47868,778930,Tenuiphantes mengei,,preyedUponBy
+47868,153717,Liocranidae,liocranid spiders,preyedUponBy
+47868,227754,Philodromus dispar,Eurasian Running Crab Spider,preyedUponBy
+47868,496623,Notiophilus rufipes,,preyedUponBy
+47868,230519,Schendyla nemorensis,,preyedUponBy
+47868,336908,Cryptops hortensis,Common Cryptops,preyedUponBy
+47868,783981,Tapinocyba insecta,,preyedUponBy
+47868,784149,Diplocephalus picinus,,preyedUponBy
+47868,,Campodea,,preyedUponBy
+47868,,Lathrobium brunnipes,,preyedUponBy
+47868,510480,Othius,,preyedUponBy
+47868,,Haplodrassus silvstris,,preyedUponBy
+47868,,Microneta viaria,,preyedUponBy
+47868,784255,Haplodrassus soerenseni,,preyedUponBy
+47868,568199,Lithobius curtipes,,preyedUponBy
+47868,131880,Notiophilus biguttatus,,preyedUponBy
+47868,154600,Agonum,,preyedUponBy
+47868,,Lithobius,,preyedUponBy
+47868,490815,Neobisium carcinoides,Moss Neobisid,preyedUponBy
+47868,778699,Macrargus rufus,,preyedUponBy
+47868,490816,Neobisium,,preyedUponBy
+47868,1004280,Othius subuliformis,,preyedUponBy

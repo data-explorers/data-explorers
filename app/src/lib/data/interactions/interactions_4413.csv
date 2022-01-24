@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4413,121643,Copepoda,Copepods,eats
+4413,1,Animalia,Animals,eats
+4413,215318,Boreogadus saida,Arctic Cod,eats
+4413,233598,Vulpes lagopus,Arctic Fox,eatenBy

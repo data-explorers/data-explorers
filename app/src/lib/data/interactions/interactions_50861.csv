@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50861,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+50861,,Amauromyza pleuralis,,eatenBy
+50861,202649,Hyblaea puera,Teak Defoliator,eatenBy
+50861,,Diaspidiotus ancylus,,eatenBy
+50861,,Aspidiotus nerii,,eatenBy
+50861,,Xylophanes tersa,,eatenBy
+50861,47802,Lymantria dispar,LD Moth,eatenBy
+50861,127133,Hyphantria cunea,Fall Webworm Moth,eatenBy

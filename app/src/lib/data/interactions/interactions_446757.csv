@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+446757,50862,Codium,Codiums,eats
+446757,67423,Ulva lactuca,broadleaf sea lettuce,eats
+446757,48216,Fucus vesiculosus,bladder wrack,eats
+446757,343398,Saccorhiza polyschides,Furbellow,eats
+446757,123633,Porphyra,Nori,eats
+446757,130178,Sargassum,Sargassum,eats
+446757,51021,Dictyota,Y-branched Algae,eats
+446757,54644,Ulva,sea lettuces,eats
+446757,123632,Corallina officinalis,Common Coralline,eats
+446757,57777,Rhodomelaceae,,eats
+446757,502380,Leathesia marina,Sea Cauliflower,eats
+446757,182852,Sphacelaria cirrosa,,eats
+446757,,Cystoseira tamariscifolia,,eats
+446757,343396,Bifurcaria bifurcata,,eats
+446757,57779,Asparagopsis armata,Harpoonweed,eats
+446757,129737,Colpomenia peregrina,Oyster-thief,eats
+446757,461577,Ellisolandia elongata,,eats
+446757,180609,Lithophyllum,,eats
+446757,130176,Chondrus crispus,Irish moss,eats
+446757,,Gelidium spinosum,,eats
+446757,,Dictyopteris membranacea,,eats
+446757,505597,Cladophora rupestris,,eats
+446757,790283,Gelidium corneum,,eats
+446757,203723,Ceramium virgatum,,eats
+446757,785917,Lithophyllum byssoides,,eats
+446757,1027504,Ceramium ciliatum,,eats
+446757,182991,Palmaria palmata,Dulse,eats
+446757,51024,Dictyota dichotoma,Forked ribbons,eats
+446757,558165,Gracilariopsis longissima,,eats
+446757,,Padina pavonia,,eats
+446757,,Osmundea ramosissima,,eats
+446757,467267,Rhodymenia pseudopalmata,,eats
+446757,322821,Sargassum vulgare,,eats
+446757,701524,Furcellaria lumbricalis,,eats
+446757,,Stypocaulon scoparium,,eats
+446757,790323,Phymatolithon calcareum,,eats
+446757,,Nemalion helminthoides,,eats
+446757,447552,Maja brachydactyla,Spiny Spider Crab,eatenBy
+446757,129493,Actinia fragacea,Strawberry Anemone,preyedUponBy
+446757,210294,Lipophrys pholis,Shanny,preyedUponBy
+446757,130085,Actinia equina,Beadlet anemone,preyedUponBy
+446757,52523,Carcinus maenas,European Green Crab,preyedUponBy
+446757,88563,Gobius,,preyedUponBy
+446757,47490,Polychaeta,Polychaete Worms,preyedUponBy
+446757,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+446757,342285,Lipophrys trigloides,,preyedUponBy
+446757,118706,Gobius paganellus,Rock Goby,preyedUponBy
+446757,59283,Pachygrapsus marmoratus,Marbled Crab,preyedUponBy
+446757,118704,Gobius niger,Black Goby,preyedUponBy
+446757,118669,Diplodus sargus,White Bream,preyedUponBy
+446757,472138,Lepadogaster lepadogaster,Shore Clingfish,preyedUponBy
+446757,324537,Maja squinado,European Spider Crab,preyedUponBy
+446757,210219,Necora puber,Velvet Swimming Crab,preyedUponBy
+446757,128834,Eriphia verrucosa,Warty Crab,preyedUponBy
+446757,195201,Pachygrapsus transversus,Mottled Shore Crab,preyedUponBy

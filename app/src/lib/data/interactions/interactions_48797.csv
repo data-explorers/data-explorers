@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48797,42241,Bovidae,Bovids,eatenBy
+48797,47219,Apis mellifera,Western Honey Bee,eatenBy
+48797,1038405,Burnsius albescens,White Checkered-Skipper,eatenBy
+48797,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+48797,48662,Danaus plexippus,Monarch,eatenBy
+48797,55626,Pieris rapae,Cabbage White,eatenBy
+48797,6317,Calypte anna,Anna's Hummingbird,eatenBy
+48797,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+48797,50931,Strymon melinus,Gray Hairstreak,eatenBy
+48797,52775,Bombus,Bumble Bees,eatenBy
+48797,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+48797,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+48797,,Charaxes tiridates,,eatenBy
+48797,,Eonycteris spelaea,,eatenBy
+48797,520456,Icaricia acmon,Acmon Blue,eatenBy
+48797,,Phyciodes mylitta,,eatenBy
+48797,,Puccinia malvacearum,,eatenBy
+48797,,Chlamisus hypocrita,,eatenBy
+48797,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+48797,,Phomopsis malvacearum,,eatenBy
+48797,907332,Liriomyza strigata,,eatenBy
+48797,,Aspidapion (Koestlinia) aeneum,,eatenBy
+48797,,Aspidapion (Aspidapion) radiolus,,eatenBy
+48797,,Malvapion malvae,,eatenBy
+48797,55610,Pyrrhocoris apterus,European Firebug,eatenBy
+48797,,Podagrica fuscicornis,,eatenBy
+48797,,Podagrica fuscipes,,eatenBy
+48797,,Pseudapion rufirostre,,eatenBy
+48797,,Streptopelia chinensis,,eatenBy
+48797,14984,Margarops fuscatus,Pearly-eyed Thrasher,eatenBy
+48797,3545,Columbina passerina,Common Ground Dove,eatenBy
+48797,3465,Zenaida aurita,Zenaida Dove,eatenBy
+48797,7174,Malacorhynchus membranaceus,Pink-eared Duck,eatenBy
+48797,3460,Zenaida asiatica,White-winged Dove,eatenBy
+48797,,Eonycteris spelaea,,pollinatedBy

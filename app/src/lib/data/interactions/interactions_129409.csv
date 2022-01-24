@@ -1,0 +1,81 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129409,67333,Bacteria,bacteria,eats
+129409,118996,Ciliophora,Ciliates,eats
+129409,47170,Fungi,Fungi Including Lichens,eats
+129409,51820,Malpighiales,"nances, willows, and allies",eats
+129409,,Detritus,,eats
+129409,,Euglenophycota,,eats
+129409,,Khakista,,eats
+129409,,Nuphar lutea,,eats
+129409,,Phytoplankton,,eats
+129409,370763,Tetraedron,,eats
+129409,,Dead cellular plant material,,eats
+129409,,Macroalgae,,eats
+129409,,Amorphous detritus,,eats
+129409,,Arca,,eats
+129409,,Tabellaria,,eats
+129409,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+129409,53911,Cyprinus carpio,European Carp,eatenBy
+129409,51225,Tipulidae,Large Crane Flies,eatenBy
+129409,107888,Oreochromis mortimeri,Kariba Tilapia,eatenBy
+129409,,Bagrus docmak,,eatenBy
+129409,,Gobiomorphus breviceps,,eatenBy
+129409,,Nannoperca vittata,,eatenBy
+129409,,Bagrus bajad,,eatenBy
+129409,,Tanypodinae,,eatenBy
+129409,174215,Cloeon,Double-gilled Pond Creepers,eatenBy
+129409,56557,Notonecta,Milky Backswimmers,eatenBy
+129409,130980,Clinotanypus,,eatenBy
+129409,247737,Larsia,,eatenBy
+129409,247694,Ablabesmyia,,eatenBy
+129409,58652,Umbra,,eatenBy
+129409,58627,Perca flavescens,Yellow Perch,eatenBy
+129409,247719,Djalmabatista,,eatenBy
+129409,788190,Paratarsotomus macropalpis,,eatenBy
+129409,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy
+129409,247741,Procladius,,eatenBy
+129409,475373,Guttipelopia,,eatenBy
+129409,58637,Ambloplites rupestris,Rock Bass,eatenBy
+129409,51129,Gomphus,,eatenBy
+129409,,Xiphophorus hellerii,,eatenBy
+129409,,Pylodictis olivaris,,eatenBy
+129409,,Sander vitreus,,eatenBy
+129409,113534,Symphodus ocellatus,Ocellated Wrasse,eatenBy
+129409,,Sander lucioperca,,eatenBy
+129409,109062,Perca fluviatilis,European Perch,eatenBy
+129409,,Carasobarbus canis,,eatenBy
+129409,97345,Chelon labrosus,thicklip grey mullet,eatenBy
+129409,,Liza ramada,,eatenBy
+129409,,Liza saliens,,eatenBy
+129409,106222,Mugil cephalus,Sea Mullet,eatenBy
+129409,,Liza aurata,,eatenBy
+129409,,Tylochromis bangwelensis,,eatenBy
+129409,149887,Melania,,eatenBy
+129409,,Xiphophorus,,eatenBy
+129409,,Necterosoma penicillatus - adult (Chironomidae - Dytiscidae),,eatenBy
+129409,,Paramerina,,eatenBy
+129409,,Fulica americana columbiana,,eatenBy
+129409,96930,Centropomus nigrescens,Pacific Black Snook,eatenBy
+129409,96931,Centropomus robalito,Yellowfin Snook,eatenBy
+129409,109966,Polydactylus approximans,,eatenBy
+129409,,Tilapia zillii,,eatenBy
+129409,,Marcusenius macrolepidotus,,eatenBy
+129409,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+129409,99535,Dormitator latifrons,Pacific Fat Sleeper,eatenBy
+129409,48404,Gasterosteus,Threespine Sticklebacks,eatenBy
+129409,,Hypselobarbus dubius,,eatenBy
+129409,,Galaxiella munda,,eatenBy
+129409,,Neochanna rekohua,,eatenBy
+129409,,Meladema,,eatenBy
+129409,6667,Cypseloides niger,Black Swift,eatenBy
+129409,7046,Aythya fuligula,Tufted Duck,eatenBy
+129409,144479,Gallinula galeata,Common Gallinule,eatenBy
+129409,72502,Anas chlorotis,Brown Teal,eatenBy
+129409,,Papaver radicatum,,pollinates
+129409,,Saxifraga oppositifolia,,pollinates
+129409,50074,Dryas,,pollinates
+129409,,Tabellaria,,preysOn
+129409,51225,Tipulidae,Large Crane Flies,preyedUponBy
+129409,,Necterosoma penicillatus - adult (Chironomidae - Dytiscidae),,preyedUponBy
+129409,,Corynorhinus rafinesquii,,preyedUponBy
+129409,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy

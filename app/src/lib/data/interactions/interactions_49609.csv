@@ -1,0 +1,63 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49609,47178,Actinopterygii,Ray-finned Fishes,eats
+49609,26172,Squamata,Snakes and Lizards,eats
+49609,47126,Plantae,plants,eats
+49609,,Phytoplankton,,eats
+49609,,Invertebrata,,eats
+49609,,Zooplankton,,eats
+49609,,Algae,,eats
+49609,,suspension-feeding invertebrates,,eats
+49609,63165,Simulium,,eats
+49609,,Baetis,,eats
+49609,,plankton,,eats
+49609,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+49609,355675,Vertebrata,Vertebrates,eatenBy
+49609,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+49609,2548,Megaceryle alcyon,Belted Kingfisher,eatenBy
+49609,5020,Butorides virescens,Green Heron,eatenBy
+49609,4756,Cathartes aura,Turkey Vulture,eatenBy
+49609,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+49609,4209,Podiceps auritus,Horned Grebe,eatenBy
+49609,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49609,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49609,20044,Bubo virginianus,Great Horned Owl,eatenBy
+49609,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+49609,19893,Strix varia,Barred Owl,eatenBy
+49609,13858,Passer domesticus,House Sparrow,eatenBy
+49609,,Sander vitreus,,eatenBy
+49609,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+49609,,Micropterus dolomieu,,eatenBy
+49609,97947,Clarias ngamensis,Blunttooth Catfish,eatenBy
+49609,97954,Clarias theodorae,Snake Catfish,eatenBy
+49609,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+49609,,Phoxinus neogaeus,,eatenBy
+49609,,Pimephales promelas,,eatenBy
+49609,97764,Chrosomus eos,Northern Redbelly Dace,eatenBy
+49609,68075,Oncorhynchus clarkii,Cutthroat Trout,eatenBy
+49609,,Esocidae,,eatenBy
+49609,89615,Lota,,eatenBy
+49609,49597,Salvelinus,Chars,eatenBy
+49609,,Mormyrops anguilloides,,eatenBy
+49609,64346,Natrix tessellata,Tessellated Water Snake,eatenBy
+49609,966787,Natrix natrix,grass snake,eatenBy
+49609,5268,Milvus migrans,Black Kite,eatenBy
+49609,5017,Bubulcus ibis,Cattle Egret,eatenBy
+49609,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+49609,4937,Egretta caerulea,Little Blue Heron,eatenBy
+49609,,Ardeola ralloides,,eatenBy
+49609,7004,Mergus merganser,Common Merganser,eatenBy
+49609,11941,Riparia riparia,Bank Swallow,eatenBy
+49609,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+49609,29304,Nerodia taxispilota,Brown Watersnake,preyedUponBy
+49609,29305,Nerodia sipedon,Common Watersnake,preyedUponBy
+49609,27329,Afronatrix anoscopus,African Brown Water Snake,preyedUponBy
+49609,26776,Enhydris jagorii,Bangkok Mud Snake,preyedUponBy
+49609,26770,Enhydris enhydris,Rainbow Mud Snake,preyedUponBy
+49609,,Xenochrophis piscator,,preyedUponBy
+49609,29910,Homalopsis buccata,Banded Swamp Snake,preyedUponBy
+49609,,Myrrophis chinensis,,preyedUponBy
+49609,,Sinonatrix annularis,,preyedUponBy
+49609,,Grayia smithii,,preyedUponBy
+49609,,Atretium schistosum,,preyedUponBy
+49609,99984,Enhydris longicauda,Longtailed Mud Snake,preyedUponBy
+49609,966787,Natrix natrix,grass snake,preyedUponBy

@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1122848,81606,Littorina littorea,Common Periwinkle,eatenBy
+1122848,,Lumbrineris impatiens,,eatenBy
+1122848,338451,Idotea chelipes,,eatenBy
+1122848,349373,Holothuria arguinensis,,eatenBy
+1122848,210219,Necora puber,Velvet Swimming Crab,eatenBy
+1122848,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+1122848,81606,Littorina littorea,Common Periwinkle,preyedUponBy
+1122848,338451,Idotea chelipes,,preyedUponBy

@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60340,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+60340,4956,Ardea herodias,Great Blue Heron,eatenBy
+60340,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+60340,558446,Circus hudsonius,Northern Harrier,eatenBy
+60340,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,eatenBy
+60340,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+60340,2548,Megaceryle alcyon,Belted Kingfisher,eatenBy
+60340,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+60340,144455,Ardea alba,Great Egret,eatenBy
+60340,5034,Botaurus lentiginosus,American Bittern,eatenBy
+60340,5017,Bubulcus ibis,Cattle Egret,eatenBy
+60340,4937,Egretta caerulea,Little Blue Heron,eatenBy
+60340,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+60340,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+60340,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+60340,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+60340,5020,Butorides virescens,Green Heron,preyedUponBy
+60340,7109,Lophodytes cucullatus,Hooded Merganser,preyedUponBy
+60340,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+60340,41777,Lontra canadensis,North American River Otter,preyedUponBy
+60340,4246,Podilymbus podiceps,Pied-billed Grebe,preyedUponBy
+60340,5009,Ixobrychus exilis,Least Bittern,preyedUponBy
+60340,7107,Aix sponsa,Wood Duck,preyedUponBy
+60340,26835,Drymobius margaritiferus,Speckled Racer,preyedUponBy
+60340,,Coluber constrictor,,preyedUponBy
+60340,,Nerodia fasciata confluens,,preyedUponBy
+60340,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+60340,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+60340,,Agkistrodon piscivorus leucostoma,,preyedUponBy
+60340,,Nerodia erythrogaster erythrogaster,,preyedUponBy
+60340,29328,Nerodia erythrogaster,Plain-bellied Watersnake,preyedUponBy
+60340,,Thamnophis valida,,preyedUponBy
+60340,4937,Egretta caerulea,Little Blue Heron,preyedUponBy

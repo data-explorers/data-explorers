@@ -1,0 +1,72 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57674,54942,Ribes malvaceum,Chaparral Currant,eats
+57674,47602,Taraxacum officinale,common dandelion,eats
+57674,,Wyethia,,eats
+57674,,Prunus laurocerasus,,eats
+57674,51309,Linum,Flaxes,pollinates
+57674,49323,Carpobrotus,sea figs,pollinates
+57674,50644,Salvia,Sages,pollinates
+57674,48596,Campanula,bellflowers,pollinates
+57674,51229,Stachys,Hedgenettles,pollinates
+57674,77261,Geranium rotundifolium,Round-leaved Crane's-bill,pollinates
+57674,57056,Medicago lupulina,Black Medick,pollinates
+57674,55745,Trifolium repens,white clover,pollinates
+57674,51900,Hypochaeris,Cat's-Ears,pollinates
+57674,58086,Sisymbrium orientale,eastern rocket,pollinates
+57674,52761,Hypericum,St. John's worts,pollinates
+57674,50298,Fragaria vesca,wild strawberry,pollinates
+57674,47602,Taraxacum officinale,common dandelion,pollinates
+57674,85320,Monarda fistulosa,wild bergamot,pollinates
+57674,48367,Penstemon,beardtongues,pollinates
+57674,82673,Cistus albidus,Grey-leaved Cistus,pollinates
+57674,,Galactites tomentosa,,pollinates
+57674,76365,Cistus salviifolius,Sage-leaved Rock-rose,pollinates
+57674,126702,Stellaria pubera,star chickweed,pollinates
+57674,,http://treatment.plazi.org/id/7CF5D90BA350ADBB07186A8272DB4681,,pollinates
+57674,,Erythronium umbilicatum,,pollinates
+57674,118548,Thalictrum thalictroides,rue anemone,pollinates
+57674,,Cardamine angustata,,pollinates
+57674,82836,Daphne gnidium,Flax-leaved Daphne,pollinates
+57674,,Erodium malacoides,,pollinates
+57674,57505,Ononis,restharrows,pollinates
+57674,,Ballota acetabulosa,,pollinates
+57674,,Carduus pycnocephalus,,pollinates
+57674,,Trifolium stellatum,,pollinates
+57674,,Teucrium,,pollinates
+57674,,Chrysanthemum,,pollinates
+57674,,Salvia verbenaca,,pollinates
+57674,,Allium neapolitanum,,pollinates
+57674,141262,Asphodelus aestivus,Summer Asphodel,pollinates
+57674,,Globularia alypum,,pollinates
+57674,,Calendula arvensis,,pollinates
+57674,,Hymenocarpos circinnatus,,pollinates
+57674,139803,Adenocarpus viscosus,Bean-trefoil,pollinates
+57674,,Erysimum scoparium,,pollinates
+57674,,Pterocephalus lasiospermus,,pollinates
+57674,,Silene scouleri hallii,,pollinates
+57674,,Mertensia pratensis,,pollinates
+57674,163256,Geranium caespitosum,pinewoods geranium,pollinates
+57674,,Chamerion angustifolium,,pollinates
+57674,132527,Rosa acicularis,Prickly Wild Rose,pollinates
+57674,,Mertensia sibirica,,pollinates
+57674,336871,Hymenoxys grandiflora,Alpine Sunflower,pollinates
+57674,,Penstemon glaber,,pollinates
+57674,,Penstemon gracilis,,pollinates
+57674,,Iris missouriensis,,pollinates
+57674,,Penstemon hallii,,pollinates
+57674,,Pentstemon glaucus,,pollinates
+57674,168041,Rubus deliciosus,Rocky Mountain raspberry,pollinates
+57674,,Thermopsis montana,,pollinates
+57674,125488,Rubus idaeus strigosus,American red raspberry,pollinates
+57674,77260,Geranium richardsonii,Richardson's geranium,pollinates
+57674,,Pyrus malus,,pollinates
+57674,,Capsicum frutescens,,pollinates
+57674,,Penstemon debilis,,pollinates
+57674,166337,Penstemon caryi,Cary's Beardtongue,pollinates
+57674,,Penstemon griffinii,,pollinates
+57674,164108,Ipomopsis globularis,,pollinates
+57674,,Astragalus agnicidus,,pollinates
+57674,,Machaeranthera tanacetifolia,,pollinates
+57674,202003,Apiomerus spissipes,,preysOn
+57674,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+57674,,Nuctenea umbratica,,preyedUponBy

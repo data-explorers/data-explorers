@@ -1,0 +1,66 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+8229,47213,Sphingidae,Sphinx Moths,eats
+8229,48736,Curculionidae,True Weevils,eats
+8229,48449,Zea,Corns and Teosintes,eats
+8229,47158,Insecta,Insects,eats
+8229,47124,Magnoliopsida,dicots,eats
+8229,47120,Arthropoda,Arthropods,eats
+8229,211194,Tracheophyta,vascular plants,eats
+8229,1,Animalia,Animals,eats
+8229,47208,Coleoptera,Beetles,eats
+8229,53816,Tenebrionidae,Darkling Beetles,eats
+8229,47118,Araneae,Spiders,eats
+8229,49567,Carabidae,Ground Beetles,eats
+8229,48201,Scarabaeidae,Scarabs,eats
+8229,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+8229,47114,Gastropoda,Gastropods,eats
+8229,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eats
+8229,47851,Quercus,oaks,eats
+8229,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+8229,48670,Noctuidae,Cutworm Moths and Allies,eats
+8229,47126,Plantae,plants,eats
+8229,12890,Catharus guttatus,Hermit Thrush,eats
+8229,59774,Pachydiplax longipennis,Blue Dasher,eats
+8229,52756,Polistes,Umbrella Paper Wasps,eats
+8229,47125,Angiospermae,flowering plants,eats
+8229,36982,Scincidae,Skinks,eats
+8229,54500,Malus,apples,eats
+8229,56955,Helianthus,sunflowers,eats
+8229,,Archips fumiferana,,eats
+8229,,Mycetophilidae,,eats
+8229,3544,Columbina inca,Inca Dove,eats
+8229,,Dendroica petechia,,eats
+8229,28562,Storeria dekayi,Dekay's Brownsnake,eats
+8229,27186,Plethodon cinereus,Eastern Red-backed Salamander,eats
+8229,,Lasiurus seminolus,,eats
+8229,,Anolis equestris,,eats
+8229,,Anolis carolinensis,,eats
+8229,50190,Cicadoidea,Cicadas,eats
+8229,,Quercus virginiana,,eats
+8229,63205,Arachis hypogaea,Peanut,eats
+8229,,Osteopilus septentrionalis,,eats
+8229,,Quercus sinuata breviloba,,eats
+8229,8021,Corvus brachyrhynchos,American Crow,eatenBy
+8229,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+8229,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+8229,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+8229,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+8229,20445,Tyto alba,Barn Owl,eatenBy
+8229,19893,Strix varia,Barred Owl,eatenBy
+8229,20044,Bubo virginianus,Great Horned Owl,eatenBy
+8229,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+8229,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+8229,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+8229,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+8229,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+8229,47157,Lepidoptera,Butterflies and Moths,preysOn
+8229,52756,Polistes,Umbrella Paper Wasps,preysOn
+8229,47120,Arthropoda,Arthropods,preysOn
+8229,47208,Coleoptera,Beetles,preysOn
+8229,40522,Lasiurus borealis,Eastern Red Bat,preysOn
+8229,27380,Desmognathus,Dusky Salamanders,preysOn
+8229,,Carthamus tinctorius,,preysOn
+8229,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+8229,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+8229,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+8229,5097,Accipiter striatus,Sharp-shinned Hawk,preyedUponBy

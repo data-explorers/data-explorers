@@ -1,0 +1,215 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53237,47561,Pinus,pines,eats
+53237,47434,Poaceae,grasses,eats
+53237,47161,Cyperaceae,sedges,eats
+53237,53453,Salix,Willows,eats
+53237,53165,Croton,Crotons,eats
+53237,,no name,,eats
+53237,,Populus tremula,,eats
+53237,911075,Passiflora semiciliosa,,eats
+53237,557452,Passiflora loefgrenii,,eats
+53237,,Tecoma stans,,eats
+53237,465063,Passiflora bogotensis,,eats
+53237,546819,Passiflora adulterina,,eats
+53237,,Passiflora cuspidifolia,,eats
+53237,51447,Passiflora alata,Winged-Stem Passion Flower,eats
+53237,743370,Passiflora arborea,,eats
+53237,166208,Passiflora ligularis,Granadilla,eats
+53237,133169,Passiflora tripartita,banana passionfruit,eats
+53237,980017,Tyrannidae,Tyrant Flycatchers,eatenBy
+53237,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+53237,47336,Formicidae,Ants,eatenBy
+53237,68901,Salticus scenicus,Zebra Jumping Spider,eatenBy
+53237,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+53237,10247,Setophaga ruticilla,American Redstart,eatenBy
+53237,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+53237,145238,Setophaga petechia,Yellow Warbler,eatenBy
+53237,1409,Callipepla californica,California Quail,eatenBy
+53237,17356,Vireo bellii,Bell's Vireo,eatenBy
+53237,17355,Vireo,Vireos,eatenBy
+53237,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+53237,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+53237,6317,Calypte anna,Anna's Hummingbird,eatenBy
+53237,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+53237,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+53237,16768,Tyrannus,Kingbirds,eatenBy
+53237,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+53237,14850,Sturnus vulgaris,European Starling,eatenBy
+53237,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+53237,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+53237,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+53237,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+53237,11867,Progne subis,Purple Martin,eatenBy
+53237,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+53237,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+53237,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+53237,9182,Zonotrichia querula,Harris's Sparrow,eatenBy
+53237,12727,Turdus migratorius,American Robin,eatenBy
+53237,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+53237,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+53237,9919,Piranga ludoviciana,Western Tanager,eatenBy
+53237,19660,Regulus,Kinglets,eatenBy
+53237,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+53237,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+53237,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+53237,7294,Eremophila alpestris,Horned Lark,eatenBy
+53237,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+53237,,Dallia pectoralis,,eatenBy
+53237,,Little brown myotis,,eatenBy
+53237,,Sitta pygmaea,,eatenBy
+53237,12704,Muscicapidae,Old World Flycatchers and Chats,eatenBy
+53237,,Jupiaba poekotero,,eatenBy
+53237,,Lachnocnema,,eatenBy
+53237,,Megalopalpus zymna,,eatenBy
+53237,,Setabis,,eatenBy
+53237,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+53237,,Florinda coccinea,,eatenBy
+53237,70191,Ischnura ramburii,Rambur's Forktail,eatenBy
+53237,61495,Erythemis simplicicollis,Eastern Pondhawk,eatenBy
+53237,,Psiadia terebinthina,,eatenBy
+53237,949,Lagopus muta,Rock Ptarmigan,eatenBy
+53237,5017,Bubulcus ibis,Cattle Egret,eatenBy
+53237,,Salpinctes obsoletus,,eatenBy
+53237,145233,Setophaga americana,Northern Parula,eatenBy
+53237,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+53237,,Eulampis holosericeus,,eatenBy
+53237,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+53237,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+53237,,Oporornis philadelphia,,eatenBy
+53237,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+53237,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+53237,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+53237,,Alectoris chukar,,eatenBy
+53237,8469,Cyanocorax cyanopogon,White-naped Jay,eatenBy
+53237,7603,Auriparus flaviceps,Verdin,eatenBy
+53237,17394,Vireo gilvus,Warbling Vireo,eatenBy
+53237,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+53237,17408,Vireo griseus,White-eyed Vireo,eatenBy
+53237,,Archilochus colubris,,eatenBy
+53237,,Empidonax traillii,,eatenBy
+53237,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+53237,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+53237,,Setophaga pinus,,eatenBy
+53237,979756,Leiothlypis peregrina,Tennessee Warbler,eatenBy
+53237,,Setophaga tigrina,,eatenBy
+53237,11941,Riparia riparia,Bank Swallow,eatenBy
+53237,,Ammodramus leconteii,,eatenBy
+53237,8015,Corvus hawaiiensis,Hawaiian Crow,eatenBy
+53237,,Corvus caurinus,,eatenBy
+53237,16110,Contopus cooperi,Olive-sided Flycatcher,eatenBy
+53237,,Geothlypis tolmiei,,eatenBy
+53237,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+53237,12951,Myadestes townsendi,Townsend's Solitaire,eatenBy
+53237,,Setophaga townsendi,,eatenBy
+53237,,Empidonax oberholseri,,eatenBy
+53237,,Zonotrichia leucophrys,,eatenBy
+53237,19577,Chordeiles minor,Common Nighthawk,eatenBy
+53237,13732,Anthus rubescens,American Pipit,eatenBy
+53237,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+53237,6667,Cypseloides niger,Black Swift,eatenBy
+53237,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+53237,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+53237,,Cynanthus latirostris,,eatenBy
+53237,559084,Eugenes fulgens,Rivoli's Hummingbird,eatenBy
+53237,,Psiadia terebinthina,,pollinates
+53237,55977,Malva moschata,musk mallow,pollinates
+53237,82081,Theridion,Tangleweb Spiders,preyedUponBy
+53237,47367,Opiliones,Harvestmen,preyedUponBy
+53237,47951,Staphylinidae,Rove Beetles,preyedUponBy
+53237,55470,Arctosa,Bear Spiders,preyedUponBy
+53237,47118,Araneae,Spiders,preyedUponBy
+53237,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+53237,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+53237,47866,Thomisidae,Crab Spiders,preyedUponBy
+53237,48124,Tettigoniidae,Katydids,preyedUponBy
+53237,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+53237,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+53237,56611,Philodromus,,preyedUponBy
+53237,47345,Agelenidae,Funnel Weavers,preyedUponBy
+53237,48139,Salticidae,Jumping Spiders,preyedUponBy
+53237,47416,Lycosidae,Wolf Spiders,preyedUponBy
+53237,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+53237,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+53237,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+53237,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+53237,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+53237,1070908,Attulus fasciger,Asiatic Wall Jumping Spider,preyedUponBy
+53237,147370,Naphrys pulex,flea jumping spider,preyedUponBy
+53237,103498,Ischnura posita,Fragile Forktail,preyedUponBy
+53237,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+53237,69599,Tetramorium,Fierce ants,preyedUponBy
+53237,,Pachygnatha,,preyedUponBy
+53237,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+53237,,Pirata tenuitarsis,,preyedUponBy
+53237,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+53237,556059,Dolichopus nitidus,,preyedUponBy
+53237,1086379,Tetartopeus terminatum,,preyedUponBy
+53237,153863,Thanatus,,preyedUponBy
+53237,153636,Zelotes,,preyedUponBy
+53237,784329,Robertus insignis,,preyedUponBy
+53237,,Paederus riparius,,preyedUponBy
+53237,360548,Zora spinimana,,preyedUponBy
+53237,128746,Pirata piraticus,Pirate Otter Spider,preyedUponBy
+53237,131962,Stenus,,preyedUponBy
+53237,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+53237,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+53237,131943,Rugilus rufipes,,preyedUponBy
+53237,,Hypostenus latifrons,,preyedUponBy
+53237,,Lithobius,,preyedUponBy
+53237,129878,Nabidae,Damsel Bugs,preyedUponBy
+53237,231469,Staphylinus erythropterus,,preyedUponBy
+53237,,Dolichopus nubilius,,preyedUponBy
+53237,153747,Robertus,,preyedUponBy
+53237,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+53237,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+53237,531180,Clubiona juvenis,,preyedUponBy
+53237,,Gabrius fermoralis,,preyedUponBy
+53237,1200309,Argyra vestita,,preyedUponBy
+53237,146722,Marpissa,,preyedUponBy
+53237,,Hercostomus assimilis,,preyedUponBy
+53237,359911,Staphylininae,,preyedUponBy
+53237,,Lathrobium fovalum,,preyedUponBy
+53237,121444,Larinioides,,preyedUponBy
+53237,225133,Microlinyphia impigra,,preyedUponBy
+53237,1151405,Lesteva sicula,,preyedUponBy
+53237,,Pirata latitans,,preyedUponBy
+53237,,Nestus,,preyedUponBy
+53237,784206,Trochosa spinipalpis,,preyedUponBy
+53237,232475,Thanatus striatus,Five-striped Spider,preyedUponBy
+53237,,Theridion pictum,,preyedUponBy
+53237,887499,Himacerus boops,,preyedUponBy
+53237,357413,Evarcha arcuata,,preyedUponBy
+53237,,Sitticus caricis,,preyedUponBy
+53237,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+53237,,Conocephalus fuscus,,preyedUponBy
+53237,468120,Anelosimus vittatus,,preyedUponBy
+53237,82118,Dolomedes,Fishing Spiders,preyedUponBy
+53237,,Phylloneta impressa,,preyedUponBy
+53237,61762,Evarcha,,preyedUponBy
+53237,447460,Clubiona phragmitis,,preyedUponBy
+53237,531182,Clubiona subtilis,,preyedUponBy
+53237,1017714,Stenus carbonarius,,preyedUponBy
+53237,964118,Stenus latifrons,,preyedUponBy
+53237,,"Dolichopus nubilius Meigen, 1924",,preyedUponBy
+53237,,Lathrobium fovalum (Steph.),,preyedUponBy
+53237,,Gabrius fermoralis (Hochh.),,preyedUponBy
+53237,40349,Myotis leibii,Eastern Small-footed Myotis,preyedUponBy
+53237,,Scytodes fusca,,preyedUponBy
+53237,,Siler collingwoodi,,preyedUponBy
+53237,,Rhene flavicomans,,preyedUponBy
+53237,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+53237,815023,Marma nigritarsis,,preyedUponBy
+53237,,Pellenes epularis,,preyedUponBy
+53237,,Nephilingis cruentata,,preyedUponBy
+53237,,Zygoballus rufipes,,preyedUponBy
+53237,,Habronattus coecatus,,preyedUponBy
+53237,61760,Evarcha hoyi,Hoy's Jumping Spider,preyedUponBy
+53237,,Heliophanus cupreus,,preyedUponBy
+53237,,Tutelina elegans,,preyedUponBy
+53237,84494,Paraphidippus aurantius,Golden Jumping Spider,preyedUponBy
+53237,,Pelegrina pervaga,,preyedUponBy
+53237,,Habronattus texanus,,preyedUponBy
+53237,,Habronattus cognatus,,preyedUponBy
+53237,,Ischnura hastata,,preyedUponBy
+53237,,Mystacina tuberculata,,preyedUponBy
+53237,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy

@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+203403,55854,Datura stramonium,jimsonweed,eats
+203403,51988,Physalis peruviana,Cape gooseberry,eats
+203403,58331,Datura wrightii,sacred datura,eats
+203403,51734,Physalis philadelphica,Large-flowered Tomatillo,eats
+203403,,Solanum dulcamara,,eats
+203403,244407,Zelus renardii,Leafhopper Assassin Bug,eatenBy
+203403,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+203403,,Empidonax alnorum,,eatenBy

@@ -1,0 +1,82 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144491,47414,Emerita analoga,Pacific Sand Crab,eats
+144491,47178,Actinopterygii,Ray-finned Fishes,eats
+144491,47188,Pachygrapsus crassipes,Striped Shore Crab,eats
+144491,47182,Emerita talpoida,Atlantic Sand Crab,eats
+144491,47186,Decapoda,Decapods,eats
+144491,47601,Albuneidae,Albuneid Mole Crabs,eats
+144491,775839,Mytilida,,eats
+144491,47120,Arthropoda,Arthropods,eats
+144491,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+144491,47183,Emerita,,eats
+144491,47584,Bivalvia,Bivalves,eats
+144491,,Gelasiminae,,eats
+144491,47185,Hippoidea,Mole Crabs,eats
+144491,,Grapsoidea,,eats
+144491,,Neotrypaea,,eats
+144491,,Tagelus californianus,,eats
+144491,,Aquila chrysaetos,,eatenBy
+144491,20315,Asio flammeus,Short-eared Owl,eatenBy
+144491,52134,Culicidae,Mosquitoes,preysOn
+144491,68764,Ostracoda,Seed Shrimp,preysOn
+144491,333586,Oligochaeta,Earthworms and allies,preysOn
+144491,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+144491,54960,Nematoda,Nematodes,preysOn
+144491,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+144491,121639,Brachyura,True Crabs,preysOn
+144491,47182,Emerita talpoida,Atlantic Sand Crab,preysOn
+144491,49266,Tetraodontidae,Pufferfishes,preysOn
+144491,71256,Tagelus,,preysOn
+144491,,Picornaviridae,,preysOn
+144491,,Parorchis acanthus,,preysOn
+144491,,Pygidiopsoides spindalis,,preysOn
+144491,,Trichodina,,preysOn
+144491,,Tetraphyllidea,,preysOn
+144491,,Cloacitrema michiganense,,preysOn
+144491,117665,Upogebia,Mudprawns,preysOn
+144491,,Orthione,,preysOn
+144491,,Eugregarinida,,preysOn
+144491,,Cryptomya,,preysOn
+144491,339199,Catatropis johnstoni,,preysOn
+144491,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+144491,,Probolocoryphe uca,,preysOn
+144491,,Hypereteone lighti,,preysOn
+144491,339245,Himasthla,,preysOn
+144491,,Anisogammarus confervicolus,,preysOn
+144491,339177,Microphallidae,,preysOn
+144491,209100,Gyrodactylus,,preysOn
+144491,,Ephydra,,preysOn
+144491,,Spirocamallanus pereirai,,preysOn
+144491,339249,Acanthoparyphium,,preysOn
+144491,,Parvatrema,,preysOn
+144491,,Stictodora hancocki,,preysOn
+144491,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+144491,,Portunion conformis,,preysOn
+144491,339174,Cyathocotylidae,,preysOn
+144491,,Large xiphideocercaria,,preysOn
+144491,88477,Geonemertes,Greenhouse Proboscis-worms,preysOn
+144491,,Proleptus,,preysOn
+144491,117564,Clevelandia ios,Arrow Gobi,preysOn
+144491,339200,Himasthla rhigedana,,preysOn
+144491,,Renicola cerithidicola,,preysOn
+144491,,Mesostephanus appendiculatoides,,preysOn
+144491,,Protothaca,,preysOn
+144491,64637,Corophium,,preysOn
+144491,,Carcinonemertes,,preysOn
+144491,123639,Spionidae,,preysOn
+144491,339182,Phocitremoides ovale,,preysOn
+144491,339183,Euhaplorchis californiensis,,preysOn
+144491,,Ergasilus auritus,,preysOn
+144491,208368,Capitella capitata,,preysOn
+144491,,Neotrypaea,,preysOn
+144491,48051,Phoronida,Horseshoe Worms,preysOn
+144491,,Cerithidea californica,,preysOn
+144491,,Uca crenulata,,preysOn
+144491,,Traskorchestia,,preysOn
+144491,339172,Austrobilharzia,,preysOn
+144491,339176,Renicola buchanani,,preysOn
+144491,47185,Hippoidea,Mole Crabs,preysOn
+144491,53740,Libinia emarginata,Portly Spider Crab,preysOn
+144491,53875,Ocypode quadrata,Atlantic Ghost Crab,preysOn
+144491,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+144491,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy

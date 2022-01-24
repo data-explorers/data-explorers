@@ -1,0 +1,91 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52747,40151,Mammalia,Mammals,eats
+52747,,Chrysococcyx klaas,,eats
+52747,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+52747,67437,Iris oratoria,Mediterranean Mantis,eatenBy
+52747,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+52747,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+52747,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+52747,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+52747,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+52747,11867,Progne subis,Purple Martin,eatenBy
+52747,8229,Cyanocitta cristata,Blue Jay,eatenBy
+52747,9919,Piranga ludoviciana,Western Tanager,eatenBy
+52747,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+52747,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+52747,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+52747,36445,Anolis evermanni,Emerald anole,eatenBy
+52747,36427,Anolis gundlachi,Gundlach’s Anole,eatenBy
+52747,,Misumenoides formosipes,,eatenBy
+52747,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+52747,,Mantis religiosa,,eatenBy
+52747,52628,Araneus diadematus,Cross Orbweaver,eatenBy
+52747,13094,Erithacus rubecula,European Robin,eatenBy
+52747,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+52747,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+52747,5017,Bubulcus ibis,Cattle Egret,eatenBy
+52747,16771,Tyrannus caudifasciatus,Loggerhead Kingbird,eatenBy
+52747,19975,Athene cunicularia,Burrowing Owl,eatenBy
+52747,1240,Dendragapus,Blue Grouse,eatenBy
+52747,7603,Auriparus flaviceps,Verdin,eatenBy
+52747,,Leipoa ocellata,,eatenBy
+52747,17394,Vireo gilvus,Warbling Vireo,eatenBy
+52747,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+52747,,Setophaga pinus,,eatenBy
+52747,,Setophaga tigrina,,eatenBy
+52747,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+52747,,Corvus caurinus,,eatenBy
+52747,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+52747,6667,Cypseloides niger,Black Swift,eatenBy
+52747,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+52747,19577,Chordeiles minor,Common Nighthawk,eatenBy
+52747,,Vireo cassinii,,eatenBy
+52747,56992,Lobularia maritima,sweet alyssum,pollinates
+52747,51891,Dudleya,Liveforever,pollinates
+52747,335546,Caldcluvia paniculata,,pollinates
+52747,178226,Eucryphia cordifolia,Ulmo,pollinates
+52747,471760,Tepualia stipularis,,pollinates
+52747,602052,Euphorbia portulacoides,,pollinates
+52747,855993,Hydrangea serratifolia,,pollinates
+52747,77844,Luma apiculata,arrayan,pollinates
+52747,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+52747,,Penstemon grahamii,,pollinates
+52747,123473,Jacquemontia reclinata,Beach jacquemontia,pollinates
+52747,,Vernonia lasiopus,,pollinates
+52747,,Acacia hockii,,pollinates
+52747,,Euphorbia heterophylla,,pollinates
+52747,170044,Triumfetta rhomboidea,Chinese Bur,pollinates
+52747,,Peucedanum kerstenii,,pollinates
+52747,,Spermacoce princeae var. princeae,,pollinates
+52747,133311,Richardia scabra,Florida Pusley,pollinates
+52747,963063,Helichrysum forskahlii,,pollinates
+52747,,Helichrysum formosissimum,,pollinates
+52747,,Helichrysum citrispinum,,pollinates
+52747,,Morpho sp.5*,,pollinates
+52747,,Achyranthes aspera,,pollinates
+52747,,Emilia,,pollinates
+52747,143422,Ageratum conyzoides,billygoat weed,pollinates
+52747,,Plectranthus alboviolaceus,,pollinates
+52747,605875,Gomphocarpus integer,,pollinates
+52747,,Lactuca inermis,,pollinates
+52747,,Euryops dacrydioides,,pollinates
+52747,,Conyza subscaposa,,pollinates
+52747,,Asteraceae sp.1*,,pollinates
+52747,,Conyza limosa,,pollinates
+52747,,Waltheria indica,,pollinates
+52747,,Commelina erecta,,pollinates
+52747,,Rubus spp.*,,pollinates
+52747,108344,Pantala flavescens,Wandering Glider,preysOn
+52747,61355,Vespula pensylvanica,Western Yellowjacket,preysOn
+52747,,Libellula forensis,,preysOn
+52747,13633,Baeolophus inornatus,Oak Titmouse,preyedUponBy
+52747,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+52747,297889,Eriophora edax,,preyedUponBy
+52747,56525,Argiope lobata,Lobed Argiope,preyedUponBy
+52747,,Vespa tropica,,preyedUponBy
+52747,8993,Eurylaimus ochromalus,Black-and-yellow Broadbill,preyedUponBy
+52747,126838,Eciton burchellii,,preyedUponBy
+52747,,Eciton hamatum,,preyedUponBy
+52747,,Eciton lucanoides,,preyedUponBy
+52747,,Eciton mexicanum,,preyedUponBy
+52747,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy

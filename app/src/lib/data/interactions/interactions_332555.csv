@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+332555,85493,Crustacea,Crustaceans,eats
+332555,1,Animalia,Animals,eats
+332555,51485,Beloniformes,"Needlefishes, Halfbeaks, and Allies",eats
+332555,47115,Mollusca,Molluscs,eats
+332555,47549,Echinodermata,Echinoderms,eats
+332555,332555,Polybius henslowii,Henslow's Swimming Crab,eats
+332555,85912,Mysidae,,eats
+332555,47186,Decapoda,Decapods,eats
+332555,47114,Gastropoda,Gastropods,eats
+332555,153112,Euphausiacea,krill,eats
+332555,47178,Actinopterygii,Ray-finned Fishes,eats
+332555,151827,Chaetognatha,Arrow Worms,eats
+332555,85910,Myctophidae,Lanternfishes,eats
+332555,47628,Amphipoda,Amphipods,eats
+332555,195355,Hyperiidae,,eats
+332555,47490,Polychaeta,Polychaete Worms,eats
+332555,121643,Copepoda,Copepods,eats
+332555,47459,Cephalopoda,Cephalopods,eats
+332555,48923,Naticidae,Moon Snails,eats
+332555,52524,Carcinus,Green Crabs,eats
+332555,47398,Paguroidea,Hermit Crabs,eats
+332555,1071209,Pasiphaea sivado,White glass shrimp,eats
+332555,48145,Gnathia,,eats
+332555,,Echinus esculentus,,eats
+332555,,Foraminiferida,,eats
+332555,,Tryphosa nana,,eats
+332555,,Gnathostomata,,eats
+332555,,Leptomysis gracilis,,eats
+332555,,Detritus,,eats
+332555,87782,Cyclothone,,eats
+332555,67313,Glycera,,eats
+332555,,Pisces,,eats
+332555,55803,Cirolanidae,,eats
+332555,,unspecified invertebrate eggs,,eats
+332555,83718,Tanaidacea,Tanaids,eats
+332555,49715,Eunicidae,,eats
+332555,337282,Lumbrineris,,eats
+332555,,Ilex coindetti,,eats
+332555,122150,Aphroditidae,,eats
+332555,64628,Oedicerotidae,,eats
+332555,,others,,eats
+332555,,Scopelocheirus hopei,,eats
+332555,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+332555,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+332555,253669,Illex coindetii,Southern Shortfin Squid,eatenBy
+332555,253669,Illex coindetii,Southern Shortfin Squid,preyedUponBy
+332555,4389,Larus cachinnans,Caspian Gull,preyedUponBy

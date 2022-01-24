@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52426,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+52426,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+52426,13094,Erithacus rubecula,European Robin,eatenBy
+52426,17394,Vireo gilvus,Warbling Vireo,eatenBy
+52426,17408,Vireo griseus,White-eyed Vireo,eatenBy
+52426,,Baccharis tandilensis,,pollinates
+52426,,Patrinia villosa,,pollinates
+52426,,Elaeocarpus,,pollinates
+52426,,Heritiera,,pollinates
+52426,62830,Cordia lutea,yellow geiger,pollinates
+52426,203279,Scaphytopius,,preysOn
+52426,129986,Oliarus,,preysOn
+52426,208181,Arunta interclusa,mangrove cicada,preysOn
+52426,557422,Flatoidinus punctatus,,preysOn
+52426,1159232,Tangia breviceps,,preysOn
+52426,1121348,Blissus insularis,,preysOn
+52426,49575,Pseudococcus,,preysOn
+52426,323059,Acanalonia servillei,,preysOn
+52426,84463,Ceroplastes,Wax Scales,preysOn
+52426,49024,Membracidae,Typical Treehoppers,preysOn
+52426,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+52426,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+52426,,Dendroica,,preyedUponBy
+52426,40572,Nyctalus noctula,Common Noctule,preyedUponBy

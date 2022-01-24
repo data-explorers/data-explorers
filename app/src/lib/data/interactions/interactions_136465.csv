@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+136465,130989,Euthamia graminifolia,flat-topped goldenrod,eats
+136465,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+136465,,Brunnichia ovata,,eats
+136465,,Eupatorium serotinum,,eats
+136465,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+136465,125379,Asclepias verticillata,whorled milkweed,pollinates
+136465,,Persea americana,,pollinates
+136465,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy

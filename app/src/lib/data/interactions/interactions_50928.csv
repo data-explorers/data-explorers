@@ -1,0 +1,67 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50928,,Detritus,,eats
+50928,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+50928,118597,Belone belone,Garfish,eatenBy
+50928,47284,Pterois,,eatenBy
+50928,204776,Pseudocaranx dentex,Silver Trevally,eatenBy
+50928,92583,Trachurus,Jack Mackerels,eatenBy
+50928,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+50928,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+50928,,Zeus faber,,eatenBy
+50928,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+50928,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+50928,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+50928,63740,Gadus morhua,Atlantic Cod,eatenBy
+50928,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+50928,430553,Merlangius merlangus,Whiting,eatenBy
+50928,368294,Leiopotherapon unicolor,Spangled Perch,eatenBy
+50928,,Yabby,,eatenBy
+50928,,European Carp,,eatenBy
+50928,94904,Auchenoglanis biscutatus,,eatenBy
+50928,513703,Macquaria ambigua,Golden Perch,eatenBy
+50928,101585,Gobio gobio,Gudgeon,eatenBy
+50928,342284,Gaidropsarus granti,,eatenBy
+50928,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+50928,,Pagrus auratus,,eatenBy
+50928,58657,Ameiurus natalis,Yellow Bullhead,eatenBy
+50928,58654,Ameiurus nebulosus,Brown Bullhead,eatenBy
+50928,95540,Batrachoides surinamensis,Pacuma toadfish,eatenBy
+50928,109743,Plectropomus leopardus,Leopard Coralgrouper,eatenBy
+50928,118665,Diplodus annularis,Annular Seabream,eatenBy
+50928,95920,Bothus mancus,Pacific Peacock Flounder,eatenBy
+50928,,Cichlasoma urophthalmum,,eatenBy
+50928,146828,Syngnathus fuscus,Northern Pipefish,eatenBy
+50928,49428,Bodianus rufus,Spanish Hogfish,eatenBy
+50928,131458,Diplectrum bivittatum,Dwarf Sand Perch,eatenBy
+50928,49421,Diplectrum formosum,Sand Perch,eatenBy
+50928,49509,Lutjanus griseus,Grey Snapper,eatenBy
+50928,83439,Centropristis striata,Black Sea Bass,eatenBy
+50928,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+50928,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+50928,,Morone mississippiensis,,eatenBy
+50928,128750,Sciaenops ocellatus,Red Drum,eatenBy
+50928,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+50928,131388,Haemulon melanurum,Cottonwick,eatenBy
+50928,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+50928,103276,Ictalurus furcatus,Blue Catfish,eatenBy
+50928,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+50928,108562,Paralichthys lethostigma,Southern Flounder,eatenBy
+50928,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+50928,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+50928,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+50928,179630,Citharichthys spilopterus,Bay Whiff,eatenBy
+50928,49437,Centropomus undecimalis,Common Snook,eatenBy
+50928,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+50928,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+50928,5017,Bubulcus ibis,Cattle Egret,eatenBy
+50928,47490,Polychaeta,Polychaete Worms,preysOn
+50928,47126,Plantae,plants,preysOn
+50928,85493,Crustacea,Crustaceans,preysOn
+50928,,Zooplankton,,preysOn
+50928,49507,Callinectes,,preyedUponBy
+50928,,Centropomids,,preyedUponBy
+50928,,Elopids,,preyedUponBy
+50928,,Ariids,,preyedUponBy
+50928,,Haemulids,,preyedUponBy
+50928,,Belonoids,,preyedUponBy
+50928,,Scianids,,preyedUponBy

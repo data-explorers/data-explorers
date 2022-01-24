@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67983,82523,Augochlora pura,Pure Green-Sweat bee,eatenBy
+67983,,Hemaris diffinis,,eatenBy
+67983,47802,Lymantria dispar,LD Moth,eatenBy
+67983,700910,Hemaris aethra,Diervilla Clearwing,eatenBy
+67983,,Phytomyza tarnwoodensis,,eatenBy
+67983,,Aulagromyza orbitalis,,eatenBy
+67983,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+67983,47157,Lepidoptera,Butterflies and Moths,pollinatedBy

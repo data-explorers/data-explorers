@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+410430,85493,Crustacea,Crustaceans,eats
+410430,1,Animalia,Animals,eats
+410430,690046,Soestia zonaria,,eats
+410430,51108,Pyrosoma atlanticum,,eats
+410430,47534,Cnidaria,Cnidarians,eats
+410430,47628,Amphipoda,Amphipods,eats
+410430,47186,Decapoda,Decapods,eats
+410430,121643,Copepoda,Copepods,eats
+410430,151827,Chaetognatha,Arrow Worms,eats
+410430,,Medusozoa,,eats
+410430,248653,Nyctiphanes,,eats
+410430,494368,Nyctiphanes australis,,eats
+410430,195329,Hyperia,,eats
+410430,690046,Soestia zonaria,,preysOn
+410430,51108,Pyrosoma atlanticum,,preysOn
+410430,494368,Nyctiphanes australis,,preysOn

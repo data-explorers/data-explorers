@@ -1,0 +1,144 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3959,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+3959,47208,Coleoptera,Beetles,eats
+3959,47118,Araneae,Spiders,eats
+3959,47157,Lepidoptera,Butterflies and Moths,eats
+3959,47124,Magnoliopsida,dicots,eats
+3959,52381,Aphididae,Aphids,eats
+3959,47822,Diptera,Flies,eats
+3959,47119,Arachnida,Arachnids,eats
+3959,62164,Trichoptera,Caddisflies,eats
+3959,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+3959,176621,Nysius,False chinch bugs,eats
+3959,85493,Crustacea,Crustaceans,eats
+3959,1,Animalia,Animals,eats
+3959,47178,Actinopterygii,Ray-finned Fishes,eats
+3959,47490,Polychaeta,Polychaete Worms,eats
+3959,47115,Mollusca,Molluscs,eats
+3959,48921,Hydrozoa,Hydrozoans,eats
+3959,153112,Euphausiacea,krill,eats
+3959,47114,Gastropoda,Gastropods,eats
+3959,121643,Copepoda,Copepods,eats
+3959,47628,Amphipoda,Amphipods,eats
+3959,47158,Insecta,Insects,eats
+3959,195134,Euphausiidae,Euphotic Krill,eats
+3959,120959,Modiolus,,eats
+3959,3959,Phalaropus lobatus,Red-necked Phalarope,eats
+3959,195136,Euphausia,,eats
+3959,23798,Hyla savignyi,Lemon-yellow Tree Frog,eats
+3959,66314,Pelophylax bedriagae,Levant Green Frog,eats
+3959,,Pelophylax caralitanus,,eats
+3959,25665,Rana iberica,Iberian Frog,eats
+3959,25317,Pelodytes caucasicus,Caucasian Parsley Frog,eats
+3959,23998,Hyla sarda,Sardinian Tree Frog,eats
+3959,,Bufotes sicula,,eats
+3959,25312,Pelobates fuscus,Common Spadefoot,eats
+3959,,Bufotes boulengeri,,eats
+3959,25313,Pelobates syriacus,Eastern Spadefoot,eats
+3959,65425,Discoglossus montalentii,Corsican Painted Frog,eats
+3959,66319,Pelophylax cretensis,Cretan Frog,eats
+3959,66315,Pelophylax bergeri,Italian Pool Frog,eats
+3959,24475,Alytes cisternasii,Iberian Midwife Toad,eats
+3959,,Hyla arborea,,eats
+3959,66322,Pelophylax esculentus,Edible Frog,eats
+3959,1319811,Pelophylax lessonae,Pool frog complex and its kleptons,eats
+3959,556621,Bombina variegata,Yellow-bellied Toad,eats
+3959,,Bufotes variabilis,,eats
+3959,25591,Rana temporaria,European Common Frog,eats
+3959,24474,Alytes dickhilleni,Midwife Toad of Hillenius,eats
+3959,,Discoglossus jeanneae,,eats
+3959,25660,Rana pyrenaica,Pyrenean frog,eats
+3959,65450,Epidalea calamita,Natterjack Toad,eats
+3959,66336,Pelophylax shqipericus,Albanian Water Frog,eats
+3959,,Bufotes balearica,,eats
+3959,326296,Bufo bufo,European Toad,eats
+3959,25316,Pelodytes ibericus,Iberian parsley frog,eats
+3959,24484,Discoglossus sardus,Tyrrhenian Painted Frog,eats
+3959,134985,Rana macrocnemis,Taurus Frog,eats
+3959,66321,Pelophylax epeiroticus,Epirus Water Frog,eats
+3959,24477,Alytes muletensis,Mallorcan Midwife Toad,eats
+3959,,Pelophylax kl. grafi,,eats
+3959,,Pelophylax kl. hispanicus,,eats
+3959,,Discoglossus galganoi,,eats
+3959,23922,Hyla intermedia,Italian Tree Frog,eats
+3959,,Bombina pachypus,,eats
+3959,67023,Rana tavasensis,Tavas Mountain Frog,eats
+3959,25616,Rana italica,Italian Stream Frog,eats
+3959,25311,Pelobates cultripes,Iberian Spadefoot Toad,eats
+3959,,Hyla meridionalis,,eats
+3959,25488,Rana arvalis,Moor Frog,eats
+3959,25697,Rana graeca,Greek frog,eats
+3959,24473,Alytes obstetricans,Common Midwife Toad,eats
+3959,24479,Discoglossus pictus,Mediterranean Painted Frog,eats
+3959,66327,Pelophylax kurtmuelleri,Balkan Frog,eats
+3959,135064,Bufotes viridis,Green Toad,eats
+3959,1319807,Pelophylax ridibundus,Marsh frog complex,eats
+3959,,Pelophylax cerigensis,,eats
+3959,548418,Pelodytes punctatus,Common Parsley Frog,eats
+3959,25664,Rana latastei,Italian Agile Frog,eats
+3959,1319812,Pelophylax perezi,Perez's and Graf's frogs,eats
+3959,21505,Bufo verrucosissimus,Caucasian Toad,eats
+3959,25669,Rana dalmatina,Agile Frog,eats
+3959,24495,Bombina bombina,European Fire-Bellied Toad,eats
+3959,,Artemia,,eats
+3959,,Unknown copepods,,eats
+3959,,Gnathostomata,,eats
+3959,,Unknown insects,,eats
+3959,,Unknown euphausiids,,eats
+3959,,Unknown crustaceans,,eats
+3959,,"seeds, sand, plastic particles",,eats
+3959,,others,,eats
+3959,,Detritus,,eats
+3959,,Medusozoa,,eats
+3959,201781,Calanus,,eats
+3959,4672,Falco columbarius,Merlin,eatenBy
+3959,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+3959,8010,Corvus corax,Common Raven,eatenBy
+3959,42069,Vulpes vulpes,Red Fox,eatenBy
+3959,42054,Vulpes,Typical Foxes,eatenBy
+3959,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+3959,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+3959,4733,Ciconia ciconia,White Stork,eatenBy
+3959,4736,Ciconia nigra,Black Stork,eatenBy
+3959,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+3959,5178,Circus macrourus,Pallid Harrier,eatenBy
+3959,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+3959,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+3959,559064,Circus cyaneus,Hen Harrier,eatenBy
+3959,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+3959,4657,Falco rusticolus,Gyrfalcon,eatenBy
+3959,41,Grus grus,Common Crane,eatenBy
+3959,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+3959,3896,Numenius arquata,Eurasian Curlew,eatenBy
+3959,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+3959,144297,Stercorarius skua,Great Skua,eatenBy
+3959,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+3959,204533,Larus argentatus,Herring Gull,eatenBy
+3959,4389,Larus cachinnans,Caspian Gull,eatenBy
+3959,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+3959,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+3959,144594,Bubo scandiacus,Snowy Owl,eatenBy
+3959,20315,Asio flammeus,Short-eared Owl,eatenBy
+3959,204519,Halcyon smyrnensis,White-throated Kingfisher,eatenBy
+3959,20307,Asio otus,Long-eared Owl,eatenBy
+3959,19898,Strix aluco,Tawny Owl,eatenBy
+3959,,Coloeus monedula,,eatenBy
+3959,204496,Corvus corone,Carrion Crow,eatenBy
+3959,8029,Corvus frugilegus,Rook,eatenBy
+3959,233598,Vulpes lagopus,Arctic Fox,eatenBy
+3959,42048,Canis lupus,Gray Wolf,eatenBy
+3959,41900,Herpestes ichneumon,Ichneumon,eatenBy
+3959,41852,Gulo gulo,Wolverine,eatenBy
+3959,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+3959,855297,Meles meles,European Badger,eatenBy
+3959,41805,Mustela lutreola,European Mink,eatenBy
+3959,41812,Mustela putorius,Western Polecat,eatenBy
+3959,41641,Ursus arctos,Brown Bear,eatenBy
+3959,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+3959,,Elaphe situla,,eatenBy
+3959,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+3959,39407,Varanus griseus,Desert Monitor,eatenBy
+3959,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+3959,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+3959,27035,Hierophis viridiflavus carbonarius,,eatenBy
+3959,28451,Telescopus nigriceps,Black headed snake,eatenBy

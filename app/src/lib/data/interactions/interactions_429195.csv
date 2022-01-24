@@ -1,0 +1,39 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+429195,62807,Mytilus,Black Mussels,eats
+429195,48919,Littorina,Periwinkles,eats
+429195,81610,Balanus glandula,Pacific Acorn Barnacle,eats
+429195,129910,Chthamalus dalli,Little Brown Barnacle,eats
+429195,429195,Nucella emarginata,Emarginate Dogwinkle,eats
+429195,50600,Mytilidae,True Mussels,eats
+429195,47115,Mollusca,Molluscs,eats
+429195,47658,Semibalanus cariosus,Thatched Barnacle,eats
+429195,171917,Musculus,,eats
+429195,429195,Nucella emarginata,Emarginate Dogwinkle,eatenBy
+429195,48174,Paguridae,Pagurid Hermit Crabs,eatenBy
+429195,47827,Cancer,,eatenBy
+429195,47630,Mopalia,,eatenBy
+429195,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+429195,49532,Sphaeromatidae,Typical Seapills,eatenBy
+429195,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+429195,,Leptasterias,,eatenBy
+429195,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+429195,,Synisoma,,eatenBy
+429195,67411,Gobiesocidae,Clingfishes,eatenBy
+429195,51283,Emplectonematidae,,eatenBy
+429195,51280,Nemertea,Ribbon Worms,eatenBy
+429195,129910,Chthamalus dalli,Little Brown Barnacle,preysOn
+429195,429195,Nucella emarginata,Emarginate Dogwinkle,preysOn
+429195,48919,Littorina,Periwinkles,preysOn
+429195,62807,Mytilus,Black Mussels,preysOn
+429195,81610,Balanus glandula,Pacific Acorn Barnacle,preysOn
+429195,47658,Semibalanus cariosus,Thatched Barnacle,preysOn
+429195,48174,Paguridae,Pagurid Hermit Crabs,preyedUponBy
+429195,429195,Nucella emarginata,Emarginate Dogwinkle,preyedUponBy
+429195,49532,Sphaeromatidae,Typical Seapills,preyedUponBy
+429195,47827,Cancer,,preyedUponBy
+429195,47630,Mopalia,,preyedUponBy
+429195,51280,Nemertea,Ribbon Worms,preyedUponBy
+429195,,Leptasterias,,preyedUponBy
+429195,,Synisoma,,preyedUponBy
+429195,67411,Gobiesocidae,Clingfishes,preyedUponBy
+429195,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy

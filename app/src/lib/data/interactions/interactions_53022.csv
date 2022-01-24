@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53022,47219,Apis mellifera,Western Honey Bee,eatenBy
+53022,55626,Pieris rapae,Cabbage White,eatenBy
+53022,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+53022,52484,Celastrina echo,Echo Azure,eatenBy
+53022,468067,Zadontomerus,,eatenBy
+53022,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+53022,55785,Ochlodes agricola,Rural Skipper,eatenBy
+53022,318550,Halictus farinosus,Wide-striped Sweat Bee,eatenBy
+53022,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+53022,1409,Callipepla californica,California Quail,eatenBy
+53022,,Tetranychus urticae,,eatenBy
+53022,,Myzus persicae,,eatenBy
+53022,,Cnephasia longana,,eatenBy
+53022,,Deilephila elpenor,,eatenBy
+53022,,Hyles gallii,,eatenBy
+53022,,Agrius cingulata,,eatenBy
+53022,,Dissoctena granigerella,,eatenBy
+53022,70174,Hypolimnas bolina,Great Eggfly,eatenBy
+53022,,Faronta albilinea,,eatenBy
+53022,335065,Tyta luctuosa,Four-spotted Moth,eatenBy
+53022,,Spodoptera frugiperda,,eatenBy
+53022,149035,Aphnaeus,,eatenBy
+53022,,Scopula rubiginata,,eatenBy
+53022,,Nycterosea obstipata,,eatenBy
+53022,,Metarctia inconspicua,,eatenBy
+53022,,Spicara,,eatenBy
+53022,,Amata,,eatenBy
+53022,,Oedemera nobilis,,eatenBy
+53022,,Synanthedon bibionipennis,,eatenBy
+53022,209827,Hippodamia sinuata,Sinuate Lady Beetle,eatenBy
+53022,,Eupeodes volucris,,eatenBy
+53022,196604,Diadasia bituberculata,Bindweed Turret Bee,eatenBy
+53022,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+53022,201568,Diabrotica undecimpunctata undecimpunctata,Western Spotted Cucumber Beetle,eatenBy
+53022,155108,Ceratina,Small Carpenter Bees,pollinatedBy
+53022,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+53022,62781,Camponotus,Carpenter and Sugar Ants,pollinatedBy
+53022,57678,Lasioglossum,,pollinatedBy
+53022,,,,pollinatedBy
+53022,,Amegilla,,pollinatedBy
+53022,,Eucera gracilipes,,pollinatedBy
+53022,,Sphecodes marginatus ,,pollinatedBy

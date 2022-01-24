@@ -1,0 +1,81 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55699,47170,Fungi,Fungi Including Lichens,eats
+55699,,microorganisms,,eats
+55699,,Helichrysum lanceolatum,,eats
+55699,,Coprosma rhamnoides,,eats
+55699,210946,Myrsine australis,Red matipo,eats
+55699,60335,Rhizophora mangle,red mangrove,eats
+55699,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+55699,,Pseudoscorpiones,,eatenBy
+55699,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+55699,,Platysoma lecontei,,eatenBy
+55699,,Saprinus,,eatenBy
+55699,227754,Philodromus dispar,Eurasian Running Crab Spider,eatenBy
+55699,,Colibri coruscans,,eatenBy
+55699,949,Lagopus muta,Rock Ptarmigan,eatenBy
+55699,7603,Auriparus flaviceps,Verdin,eatenBy
+55699,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+55699,6667,Cypseloides niger,Black Swift,eatenBy
+55699,,Malaxis unifolia,,pollinates
+55699,84670,Ephydridae,Shore Flies,preyedUponBy
+55699,47535,Araneidae,Orbweavers,preyedUponBy
+55699,47927,Anisoptera,Dragonflies,preyedUponBy
+55699,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+55699,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+55699,56611,Philodromus,,preyedUponBy
+55699,47551,Tetragnathidae,Long-jawed Orbweavers,preyedUponBy
+55699,47819,Libellulidae,Skimmers,preyedUponBy
+55699,48139,Salticidae,Jumping Spiders,preyedUponBy
+55699,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+55699,47928,Zygoptera,Damselflies,preyedUponBy
+55699,51556,Sympetrum,Meadowhawks,preyedUponBy
+55699,47866,Thomisidae,Crab Spiders,preyedUponBy
+55699,82081,Theridion,Tangleweb Spiders,preyedUponBy
+55699,47822,Diptera,Flies,preyedUponBy
+55699,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+55699,47550,Tetragnatha,,preyedUponBy
+55699,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+55699,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+55699,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+55699,250072,Metacyrba,,preyedUponBy
+55699,153595,Dictyna,,preyedUponBy
+55699,121467,Uloborus,Feather-legged Spiders,preyedUponBy
+55699,307026,Labidura riparia,Shore Earwig,preyedUponBy
+55699,47792,Odonata,Dragonflies and Damselflies,preyedUponBy
+55699,113497,Sympecma fusca,Common Winter Damselfly,preyedUponBy
+55699,174422,Hybotidae,Hybotid Dance Flies,preyedUponBy
+55699,,Dolichopus nubilius,,preyedUponBy
+55699,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+55699,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+55699,,Somatochlora,,preyedUponBy
+55699,,Sympetrum striolatum,,preyedUponBy
+55699,51679,Coenagrion,Northern Bluets,preyedUponBy
+55699,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+55699,153863,Thanatus,,preyedUponBy
+55699,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+55699,,Conocephalus fuscus,,preyedUponBy
+55699,,Libellula depressa,,preyedUponBy
+55699,,Paravespula vulgaris,,preyedUponBy
+55699,,Mangora acalypha,,preyedUponBy
+55699,49460,Empididae,Dance Flies,preyedUponBy
+55699,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+55699,,Orthetrum cancellatum,,preyedUponBy
+55699,,Dolichovespula sylvestris,,preyedUponBy
+55699,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+55699,,Coenagrion pulchellum,,preyedUponBy
+55699,,"Dolichopus nubilius Meigen, 1924",,preyedUponBy
+55699,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+55699,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+55699,778499,Leucauge venusta,Orchard Orbweaver,preyedUponBy
+55699,,Dendroica,,preyedUponBy
+55699,,Nephila clavipes,,preyedUponBy
+55699,57451,Scytodes,,preyedUponBy
+55699,,Tyrannochelifer,,preyedUponBy
+55699,263718,Argyrodes nephilae,,preyedUponBy
+55699,354274,Ballus,,preyedUponBy
+55699,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+55699,420613,Stoidis,,preyedUponBy
+55699,153571,Mangora,,preyedUponBy
+55699,49880,Misumenops,,preyedUponBy
+55699,,Pirata,,preyedUponBy
+55699,84495,Paraphidippus,,preyedUponBy

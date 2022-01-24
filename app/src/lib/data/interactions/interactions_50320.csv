@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50320,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+50320,59189,Erynnis tristis,Mournful Duskywing,eatenBy
+50320,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+50320,124420,Bombus californicus,California Bumble Bee,eatenBy
+50320,59188,Erynnis funeralis,Funereal Duskywing,eatenBy
+50320,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+50320,52775,Bombus,Bumble Bees,eatenBy
+50320,59187,Erynnis propertius,Propertius Duskywing,eatenBy
+50320,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+50320,,Proserpinus clarkiae,,eatenBy
+50320,,Bombus flavifrons,,eatenBy
+50320,,Eucera frater albopilosa,,eatenBy
+50320,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+50320,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+50320,5562,Trochilidae,Hummingbirds,pollinatedBy

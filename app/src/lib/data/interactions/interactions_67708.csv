@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67708,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+67708,47822,Diptera,Flies,eats
+67708,47928,Zygoptera,Damselflies,eats
+67708,47157,Lepidoptera,Butterflies and Moths,eats
+67708,184884,Pterygota,Winged and Once-winged Insects,eats
+67708,47208,Coleoptera,Beetles,eats
+67708,48460,Life,,eats
+67708,48484,Harmonia axyridis,Asian Lady Beetle,eats
+67708,47650,Acridoidea,Short-horned Grasshoppers and Locusts,eats
+67708,,Sphenarium purpurascens,,eats
+67708,526062,Halictus poeyi,Poey's Furrow Bee,eats
+67708,69736,Schistocerca americana,American Bird Grasshopper,eats
+67708,47928,Zygoptera,Damselflies,preysOn
+67708,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+67708,50147,Celithemis eponina,Halloween Pennant,preysOn
+67708,51556,Sympetrum,Meadowhawks,preysOn
+67708,184884,Pterygota,Winged and Once-winged Insects,preysOn
+67708,61267,Heteroptera,True Bugs,preysOn
+67708,67760,Popillia japonica,Japanese Beetle,preysOn
+67708,67708,Argiope trifasciata,Banded Garden Spider,preysOn
+67708,47934,Libellula luctuosa,Widow Skimmer,preysOn
+67708,,Agraulis vanillae,,preysOn
+67708,,Cisseps fulvicollis,,preysOn
+67708,,Hemileuca lucina,,preysOn
+67708,48505,Junonia coenia,Common Buckeye,preysOn
+67708,120474,Araneomorphae,Typical Spiders,preyedUponBy
+67708,47118,Araneae,Spiders,preyedUponBy
+67708,67708,Argiope trifasciata,Banded Garden Spider,preyedUponBy
+67708,816176,Sceliphron asiaticum chilense,,preyedUponBy

@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50812,182582,Amblyptilia pica,Geranium Plume Moth,eatenBy
+50812,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+50812,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+50812,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+50812,300661,Vespula sulphurea,California Yellowjacket,eatenBy
+50812,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+50812,47219,Apis mellifera,Western Honey Bee,eatenBy
+50812,52775,Bombus,Bumble Bees,eatenBy
+50812,6317,Calypte anna,Anna's Hummingbird,eatenBy
+50812,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+50812,55626,Pieris rapae,Cabbage White,eatenBy
+50812,84738,Vespinae,Hornets and Yellowjackets,eatenBy
+50812,6359,Selasphorus sasin,Allen's Hummingbird,eatenBy
+50812,51557,Bombylius major,Greater Bee Fly,eatenBy
+50812,,Argyrotaenia franciscana,,eatenBy
+50812,,Occidryas chalcedona,,eatenBy
+50812,371996,Autographa labrosa,,eatenBy
+50812,218925,Elaphria chalcedonia,Chalcedony Midget,eatenBy
+50812,,Vespula alascensis,,eatenBy
+50812,,Dolichovespula arenaria,,eatenBy
+50812,,Dolichovespula maculata,,eatenBy
+50812,,Andrena auricoma,,eatenBy
+50812,,Bombus caliginosus,,eatenBy
+50812,,Eupeodes volucris,,eatenBy
+50812,,Lasioglossum ovaliceps,,eatenBy
+50812,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+50812,5562,Trochilidae,Hummingbirds,pollinatedBy

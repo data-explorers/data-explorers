@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51777,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+51777,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+51777,7294,Eremophila alpestris,Horned Lark,eatenBy
+51777,11867,Progne subis,Purple Martin,eatenBy
+51777,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+51777,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+51777,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+51777,,Vireo solitarius,,eatenBy
+51777,,Cyanocorax yncas,,eatenBy
+51777,6667,Cypseloides niger,Black Swift,eatenBy
+51777,19577,Chordeiles minor,Common Nighthawk,eatenBy
+51777,13732,Anthus rubescens,American Pipit,eatenBy
+51777,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+51777,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+51777,,Vireo flavifrons,,eatenBy
+51777,17394,Vireo gilvus,Warbling Vireo,eatenBy
+51777,17408,Vireo griseus,White-eyed Vireo,eatenBy
+51777,5017,Bubulcus ibis,Cattle Egret,eatenBy
+51777,55770,Crocus,Crocuses,pollinates
+51777,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+51777,146852,Bicyrtes quadrifasciatus,Four-banded Stink Bug Wasp,preyedUponBy
+51777,,Vireo solitarius,,preyedUponBy
+51777,62624,Phidippus putnami,Putnam's Jumping Spider,preyedUponBy
+51777,,Phyllostomus hastatus,,preyedUponBy

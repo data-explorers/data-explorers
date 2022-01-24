@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55351,,Chesias legatella,,eats
+55351,,Chesias rufata,,eats
+55351,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+55351,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+55351,,Colibri coruscans,,eatenBy
+55351,13094,Erithacus rubecula,European Robin,eatenBy
+55351,5017,Bubulcus ibis,Cattle Egret,eatenBy
+55351,,Lampornis clemenciae,,eatenBy
+55351,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+55351,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+55351,,Rhegmoclema verralli,,preysOn
+55351,82081,Theridion,Tangleweb Spiders,preyedUponBy
+55351,51556,Sympetrum,Meadowhawks,preyedUponBy
+55351,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+55351,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+55351,47927,Anisoptera,Dragonflies,preyedUponBy
+55351,47866,Thomisidae,Crab Spiders,preyedUponBy
+55351,47118,Araneae,Spiders,preyedUponBy
+55351,47550,Tetragnatha,,preyedUponBy
+55351,47535,Araneidae,Orbweavers,preyedUponBy
+55351,47928,Zygoptera,Damselflies,preyedUponBy
+55351,51469,Aeshnidae,Darners,preyedUponBy
+55351,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+55351,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+55351,56611,Philodromus,,preyedUponBy
+55351,47819,Libellulidae,Skimmers,preyedUponBy
+55351,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+55351,32512,Rena dulcis,Texas Blind Snake,preyedUponBy
+55351,,Eciton hamatum,,preyedUponBy
+55351,121444,Larinioides,,preyedUponBy
+55351,,Orthetrum,,preyedUponBy
+55351,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+55351,49460,Empididae,Dance Flies,preyedUponBy
+55351,,Mangora acalypha,,preyedUponBy
+55351,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+55351,153863,Thanatus,,preyedUponBy
+55351,61762,Evarcha,,preyedUponBy
+55351,146722,Marpissa,,preyedUponBy
+55351,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+55351,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+55351,,Campsicnemus scambus,,preyedUponBy
+55351,,Somatochlora,,preyedUponBy
+55351,556059,Dolichopus nitidus,,preyedUponBy
+55351,,Sympetrum striolatum,,preyedUponBy
+55351,,Theridion pictum,,preyedUponBy
+55351,,Dolichopus nubilius,,preyedUponBy
+55351,51679,Coenagrion,Northern Bluets,preyedUponBy
+55351,,Libellula depressa,,preyedUponBy
+55351,,Orthetrum cancellatum,,preyedUponBy
+55351,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+55351,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+55351,531182,Clubiona subtilis,,preyedUponBy
+55351,,Dolichovespula sylvestris,,preyedUponBy
+55351,,"Dolichopus nubilius Meigen, 1924",,preyedUponBy
+55351,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy

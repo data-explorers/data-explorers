@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47135,51225,Tipulidae,Large Crane Flies,eats
+47135,47199,Ichneumonidae,Ichneumonid Wasps,preysOn
+47135,47219,Apis mellifera,Western Honey Bee,preysOn
+47135,,Chironomus zealandicus,,preysOn

@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43115,47126,Plantae,plants,eats
+43115,47204,Brassicaceae,mustard family,eats
+43115,47434,Poaceae,grasses,eats
+43115,47902,Opuntia,Prickly Pears,eats
+43115,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+43115,42051,Canis latrans,Coyote,eatenBy
+43115,41976,Lynx rufus,Bobcat,eatenBy
+43115,4756,Cathartes aura,Turkey Vulture,eatenBy
+43115,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+43115,8010,Corvus corax,Common Raven,eatenBy
+43115,42007,Puma concolor,Mountain Lion,eatenBy
+43115,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+43115,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+43115,20044,Bubo virginianus,Great Horned Owl,eatenBy
+43115,20445,Tyto alba,Barn Owl,eatenBy
+43115,,Bubo virginianus saturatus,,eatenBy
+43115,42066,Vulpes velox,Swift Fox,eatenBy
+43115,,Aquila chrysaetos,,eatenBy
+43115,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+43115,4644,Falco mexicanus,Prairie Falcon,eatenBy
+43115,20307,Asio otus,Long-eared Owl,eatenBy
+43115,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+43115,41976,Lynx rufus,Bobcat,preyedUponBy
+43115,29053,Pituophis catenifer annectens,San Diego Gopher Snake,preyedUponBy
+43115,,Masticophis flagellum testaceus,,preyedUponBy
+43115,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+43115,27727,Bogertophis subocularis,Trans-pecos Ratsnake,preyedUponBy
+43115,,Coluber flagellum testaceus,,preyedUponBy

@@ -1,0 +1,129 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82081,127593,Chloropidae,Frit Flies,eats
+82081,47158,Insecta,Insects,eats
+82081,84644,Phalangium opilio,European Harvestman,eats
+82081,,Uranotaenia brunhesi,,eats
+82081,,Uranotaenia damasei,,eats
+82081,,Uranotaenia bosseri,,eats
+82081,,Uranotaenia belkini,,eats
+82081,,U. damasei,,eats
+82081,,live insects,,eats
+82081,,Chloropid (unspecified),,eats
+82081,,U. brunhesi,,eats
+82081,,U. bosseri,,eats
+82081,61267,Heteroptera,True Bugs,preysOn
+82081,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",preysOn
+82081,51146,Chrysomelidae,Leaf Beetles,preysOn
+82081,68941,Brachymyrmex,Rover Ants,preysOn
+82081,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",preysOn
+82081,133824,Chrysobothris,,preysOn
+82081,52756,Polistes,Umbrella Paper Wasps,preysOn
+82081,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+82081,203279,Scaphytopius,,preysOn
+82081,47951,Staphylinidae,Rove Beetles,preysOn
+82081,49995,Syrphidae,Hover Flies,preysOn
+82081,53275,Chironomidae,Non-biting Midges,preysOn
+82081,70144,Muscidae,House Flies and Allies,preysOn
+82081,61903,Xysticus,Ground Crab Spiders,preysOn
+82081,47742,Pentatomidae,Stink Bugs,preysOn
+82081,47157,Lepidoptera,Butterflies and Moths,preysOn
+82081,55351,Phoridae,Humpbacked Flies,preysOn
+82081,47992,Limoniidae,Limoniid Crane Flies,preysOn
+82081,53237,Cicadellidae,Typical Leafhoppers,preysOn
+82081,82081,Theridion,Tangleweb Spiders,preysOn
+82081,127593,Chloropidae,Frit Flies,preysOn
+82081,47866,Thomisidae,Crab Spiders,preysOn
+82081,52425,Chrysopidae,Green Lacewings,preysOn
+82081,130033,Culex,,preysOn
+82081,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+82081,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+82081,47118,Araneae,Spiders,preysOn
+82081,84670,Ephydridae,Shore Flies,preysOn
+82081,47371,Theridiidae,Cobweb Spiders,preysOn
+82081,52073,Fulgoroidea,Planthoppers,preysOn
+82081,81769,Blattodea,Cockroaches and Termites,preysOn
+82081,373577,Typhlocybinae,,preysOn
+82081,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+82081,47339,Formica,"Wood, Mound, and Field Ants",preysOn
+82081,47822,Diptera,Flies,preysOn
+82081,,Casinaria ambigua,,preysOn
+82081,,Metapelma schwarzi,,preysOn
+82081,1244911,Pseudoacalles,,preysOn
+82081,,Tachys occulator,,preysOn
+82081,,Heterospilus,,preysOn
+82081,,Tafaliscu lurida,,preysOn
+82081,203330,Sericoderus,,preysOn
+82081,,Entedontini,,preysOn
+82081,85716,Cucujidae,Flat bark beetles,preysOn
+82081,49575,Pseudococcus,,preysOn
+82081,,Camponotus floridanus,,preysOn
+82081,,Bembidion contractum,,preysOn
+82081,,Urolepis rufipes,,preysOn
+82081,199370,Monomorium floricola,Flower Ant,preysOn
+82081,329733,Oxycopis,,preysOn
+82081,,Styloleptus biustus dorsalis,,preysOn
+82081,,Actenodes,,preysOn
+82081,,Paracryptocerus,,preysOn
+82081,,Tapinoma littorale,,preysOn
+82081,1159232,Tangia breviceps,,preysOn
+82081,1300915,Marojala,,preysOn
+82081,,Neanastatus,,preysOn
+82081,938094,Cryptorama minutum,,preysOn
+82081,,Nesepyris floridanus,,preysOn
+82081,,Aglaopteryx,,preysOn
+82081,,Iphiaulax,,preysOn
+82081,,Camponotus planatus,,preysOn
+82081,468794,Vacusus vicinus,,preysOn
+82081,,Agamerion,,preysOn
+82081,,Macrocentrus,,preysOn
+82081,,Poecilipa rhizophorae,,preysOn
+82081,,Camponotus tortuganus,,preysOn
+82081,1121348,Blissus insularis,,preysOn
+82081,84463,Ceroplastes,Wax Scales,preysOn
+82081,557422,Flatoidinus punctatus,,preysOn
+82081,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,preysOn
+82081,,Crematogaster ashmeadi,,preysOn
+82081,230399,Sapintus fulvipes,,preysOn
+82081,,Melittobia chalybii,,preysOn
+82081,,Ataxia,,preysOn
+82081,323059,Acanalonia servillei,,preysOn
+82081,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn
+82081,,Hapithus gryllodes,,preysOn
+82081,,Cephalonomia waterstoni,,preysOn
+82081,,Xenomyrmex floridanus,,preysOn
+82081,208181,Arunta interclusa,mangrove cicada,preysOn
+82081,,Pseudomyrmex elongatus,,preysOn
+82081,,Probaryconus,,preysOn
+82081,,Latiblattella,,preysOn
+82081,178747,Tricorynus,,preysOn
+82081,,Brachymeria psyche,,preysOn
+82081,,Hypoponera opacior,,preysOn
+82081,,Trischidias atoma,,preysOn
+82081,129986,Oliarus,,preysOn
+82081,,Cyrtoxipha,,preysOn
+82081,,Turpilia rostrata,,preysOn
+82081,,Oxycopis suturalis,,preysOn
+82081,,Calliephialtes ferrugineus,,preysOn
+82081,49024,Membracidae,Typical Treehoppers,preysOn
+82081,,Cycloptilum,,preysOn
+82081,467803,Actinopteryx fucicola,,preysOn
+82081,,Leptostylus,,preysOn
+82081,,Scydmaenidae,,preysOn
+82081,266087,Pachodynerus nasidens,Keyhole Wasp,preysOn
+82081,,Euderus,,preysOn
+82081,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+82081,250072,Metacyrba,,preyedUponBy
+82081,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+82081,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+82081,47118,Araneae,Spiders,preyedUponBy
+82081,82081,Theridion,Tangleweb Spiders,preyedUponBy
+82081,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+82081,354274,Ballus,,preyedUponBy
+82081,,Pirata,,preyedUponBy
+82081,84495,Paraphidippus,,preyedUponBy
+82081,420613,Stoidis,,preyedUponBy
+82081,,Dendroica,,preyedUponBy
+82081,49880,Misumenops,,preyedUponBy
+82081,61762,Evarcha,,preyedUponBy
+82081,,Sitticus caricis,,preyedUponBy
+82081,,Ero,,preyedUponBy

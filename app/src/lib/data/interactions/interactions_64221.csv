@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64221,69758,Lumbricidae,Earthworms,eats
+64221,4940,Egretta thula,Snowy Egret,eatenBy
+64221,5017,Bubulcus ibis,Cattle Egret,eatenBy

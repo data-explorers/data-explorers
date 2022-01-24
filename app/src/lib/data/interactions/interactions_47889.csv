@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47889,47219,Apis mellifera,Western Honey Bee,eatenBy
+47889,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+47889,6317,Calypte anna,Anna's Hummingbird,eatenBy
+47889,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+47889,52775,Bombus,Bumble Bees,eatenBy
+47889,336013,Phytoliriomyza melampyga,Jewelweed Leaf-miner Fly,eatenBy
+47889,48549,Vanessa virginiensis,American Lady,eatenBy
+47889,52943,Trichodezia albovittata,White-striped Black,eatenBy
+47889,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47889,,Siobla sturmii,,eatenBy
+47889,,Schizomyia impatientis,,eatenBy
+47889,,Deilephila elpenor,,eatenBy
+47889,,Rhingia nasica,,eatenBy
+47889,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+47889,,Macaca tonkeana,,eatenBy
+47889,,Gorilla beringei,,eatenBy
+47889,,Aglaostigma nebulosum,,eatenBy
+47889,231408,Spilosoma latipennis,Pink-legged Tiger Moth,eatenBy
+47889,,Melanoplus gracilis,,eatenBy
+47889,,Choristoneura fumiferana,,eatenBy
+47889,,Hippotion celerio,,eatenBy
+47889,652643,Basiothia aureata,,eatenBy
+47889,,Syllepte disciselenalis,,eatenBy
+47889,,Hymenia perspectalis,,eatenBy
+47889,,Syllepte,,eatenBy
+47889,,Pseudorthodes vecors,,eatenBy
+47889,,Celaenorrhinus plagifera,,eatenBy
+47889,,Xanthorhoe lacustrata,,eatenBy
+47889,,Euchlaena obtusaria,,eatenBy
+47889,,Colletotrichum capsici,,eatenBy
+47889,,Polyphagotarsonemus latus,,eatenBy
+47889,336013,Phytoliriomyza melampyga,Jewelweed Leaf-miner Fly,preyedUponBy

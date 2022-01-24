@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+751082,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+751082,126155,Vespula germanica,German Yellowjacket,eatenBy
+751082,,Vireo flavifrons,,eatenBy
+751082,51954,Sphecius speciosus,Eastern Cicada-killer Wasp,preyedUponBy
+751082,14886,Mimus polyglottos,Northern Mockingbird,preyedUponBy
+751082,,Promachus rufipes,,preyedUponBy
+751082,13632,Baeolophus bicolor,Tufted Titmouse,preyedUponBy
+751082,469259,Neotibicen lyricen,Lyric Cicada,preyedUponBy
+751082,54327,Vespa crabro,European Hornet,preyedUponBy

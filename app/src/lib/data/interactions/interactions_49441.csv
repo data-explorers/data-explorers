@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49441,153112,Euphausiacea,krill,eats
+49441,49441,Loliginidae,Pencil Squids,eats
+49441,85910,Myctophidae,Lanternfishes,eats
+49441,85912,Mysidae,,eats
+49441,85493,Crustacea,Crustaceans,eats
+49441,195270,Sergestidae,,eats
+49441,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+49441,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+49441,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+49441,49441,Loliginidae,Pencil Squids,eatenBy
+49441,48482,Pelagiidae,Pelagiid Jellies,eatenBy
+49441,118601,Trisopterus luscus,Pouting,eatenBy
+49441,430553,Merlangius merlangus,Whiting,eatenBy
+49441,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+49441,101176,Galeorhinus galeus,School Shark,eatenBy
+49441,48397,Raja clavata,Thornback Skate,eatenBy
+49441,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+49441,130386,Taurulus bubalis,Longspined Bullhead,eatenBy
+49441,228496,Pollachius virens,Pollock,eatenBy
+49441,118619,Mullus surmuletus,Striped Red Mullet,eatenBy
+49441,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+49441,,Trisopterus minutus,,eatenBy
+49441,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+49441,118649,Echiichthys vipera,Lesser Weever,eatenBy
+49441,481841,Microstomus kitt,Lemon Sole,eatenBy
+49441,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+49441,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+49441,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+49441,47523,Pleuronectes platessa,European Plaice,eatenBy
+49441,118603,Merluccius merluccius,European Hake,eatenBy
+49441,61387,Limanda limanda,Sand Dab,eatenBy
+49441,63740,Gadus morhua,Atlantic Cod,eatenBy
+49441,118636,Scophthalmus rhombus,Brill,eatenBy
+49441,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+49441,118611,Lophius budegassa,Black-bellied Angler,eatenBy
+49441,118610,Lophius piscatorius,Angler,eatenBy
+49441,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+49441,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+49441,111527,Raja montagui,Spotted Skate,eatenBy
+49441,112960,Sphyrna tiburo,Bonnethead,eatenBy
+49441,111751,Rhizoprionodon taylori,Australian Sharpnose Shark,eatenBy
+49441,621912,Chelidonichthys queketti,Lesser Gurnard,eatenBy
+49441,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+49441,324558,Loligo vulgaris,European Squid,eatenBy
+49441,416158,Zenopsis nebulosa,Mirror Dory,eatenBy
+49441,101187,Galeus nipponensis,Broadfin Sawtail Catshark,eatenBy
+49441,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+49441,123962,Dosidicus gigas,Humboldt Squid,preyedUponBy
+49441,52539,Ophiodon elongatus,Lingcod,preyedUponBy
+49441,51353,Anoplopoma fimbria,Sablefish,preyedUponBy
+49441,105599,Merluccius productus,Pacific Hake,preyedUponBy

@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58796,48662,Danaus plexippus,Monarch,eatenBy
+58796,55556,Oncopeltus fasciatus,Large Milkweed Bug,eatenBy
+58796,71154,Aphis nerii,Oleander Aphid,eatenBy
+58796,,Xylocopa californica diamesa,,eatenBy
+58796,119881,Chrysochus cobaltinus,Cobalt Milkweed Beetle,eatenBy
+58796,,Aphis asclepiadis,,eatenBy
+58796,47822,Diptera,Flies,pollinatedBy
+58796,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+58796,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+58796,47208,Coleoptera,Beetles,pollinatedBy
+58796,520397,Icaricia,,pollinatedBy

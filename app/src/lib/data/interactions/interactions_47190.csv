@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47190,,Detritus,,eats
+47190,,primary producers,,eats
+47190,3,Aves,Birds,eatenBy
+47190,47272,Rajiformes,Skates,eatenBy
+47190,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+47190,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eatenBy
+47190,6993,Bucephala albeola,Bufflehead,eatenBy
+47190,4940,Egretta thula,Snowy Egret,eatenBy
+47190,49437,Centropomus undecimalis,Common Snook,eatenBy
+47190,530737,Pseudochromis tapeinosoma,Blackmargin Dottyback,eatenBy
+47190,95478,Bathygobius fuscus,Dusky Frillgoby,eatenBy
+47190,515893,Platycephalus laevigatus,Rock Flathead,eatenBy
+47190,187362,Eleotris acanthopoma,Spine-cheek Gudgeon,eatenBy
+47190,179601,Etropus crossotus,Fringed Flounder,eatenBy
+47190,100135,Epinephelus socialis,Surge Grouper,eatenBy
+47190,55396,Solea solea,Common Sole,eatenBy
+47190,97517,Chimaera monstrosa,rabbit fish,eatenBy
+47190,608771,Atherinella brasiliensis,,eatenBy
+47190,47270,Dasyatis,,eatenBy
+47190,7031,Melanitta,Scoters,eatenBy
+47190,51392,Morone saxatilis,Striped Bass,eatenBy
+47190,4938,Egretta tricolor,Tricolored Heron,eatenBy
+47190,4937,Egretta caerulea,Little Blue Heron,eatenBy
+47190,3901,Numenius phaeopus,Whimbrel,preyedUponBy
+47190,51392,Morone saxatilis,Striped Bass,preyedUponBy
+47190,47270,Dasyatis,,preyedUponBy
+47190,30014,Gerarda prevostiana,Cat-eyed Fishing Snake,preyedUponBy

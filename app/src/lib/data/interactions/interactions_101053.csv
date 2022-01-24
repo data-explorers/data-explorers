@@ -1,0 +1,142 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+101053,47158,Insecta,Insects,eats
+101053,85493,Crustacea,Crustaceans,eats
+101053,47208,Coleoptera,Beetles,eats
+101053,154259,Nematocera,Nematoceran Flies,eats
+101053,53275,Chironomidae,Non-biting Midges,eats
+101053,121643,Copepoda,Copepods,eats
+101053,62164,Trichoptera,Caddisflies,eats
+101053,68764,Ostracoda,Seed Shrimp,eats
+101053,47628,Amphipoda,Amphipods,eats
+101053,47115,Mollusca,Molluscs,eats
+101053,1,Animalia,Animals,eats
+101053,47491,Annelida,Segmented Worms,eats
+101053,48009,Baetidae,Small Mayflies,eats
+101053,47126,Plantae,plants,eats
+101053,47120,Arthropoda,Arthropods,eats
+101053,47584,Bivalvia,Bivalves,eats
+101053,48011,Ephemeroptera,Mayflies,eats
+101053,47114,Gastropoda,Gastropods,eats
+101053,54960,Nematoda,Nematodes,eats
+101053,,,,eats
+101053,60395,Branchiopoda,Branchiopods,eats
+101053,,larvae,,eats
+101053,474050,Chydorus sphaericus,,eats
+101053,203468,Bosmina longirostris,Elephant Water Flea,eats
+101053,168927,Sida crystallina,,eats
+101053,,Acroperus harpae,,eats
+101053,,Pleuroxus,,eats
+101053,1302968,Hyalella azteca,,eats
+101053,,Eurycercus,,eats
+101053,338145,Diaphanosoma,,eats
+101053,,Asellus,,eats
+101053,626372,Daphnia retrocurva,,eats
+101053,144129,Cephalocarida,Horseshoe Shrimps,eats
+101053,,Hydropsychidae,,eats
+101053,,Invertebrata,,eats
+101053,,Turbellaria,,eats
+101053,,Hydrachnidia,,eats
+101053,144530,Sternula antillarum,Least Tern,eatenBy
+101053,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+101053,121643,Copepoda,Copepods,preysOn
+101053,53275,Chironomidae,Non-biting Midges,preysOn
+101053,329118,Sapphirina,,preysOn
+101053,172020,Lolliguncula brevis,Atlantic brief squid,preysOn
+101053,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+101053,55025,Anomia,,preysOn
+101053,62164,Trichoptera,Caddisflies,preysOn
+101053,81634,Mya arenaria,Soft-shelled Clam,preysOn
+101053,125343,Crepidula fornicata,Common Atlantic Slippersnail,preysOn
+101053,117650,Mytilus edulis,Blue Mussel,preysOn
+101053,626373,Diaphanosoma birgei,,preysOn
+101053,626426,Daphnia galeata,,preysOn
+101053,,Bosmina longirsotris,,preysOn
+101053,40022,Testudo,Mediterranean Tortoises,preysOn
+101053,,D. longiremis,,preysOn
+101053,,Unicornis,,preysOn
+101053,203373,Keratella cochlearis,,preysOn
+101053,,D. catawba,,preysOn
+101053,,Crassiphycus,,preysOn
+101053,204757,Kellicottia bostoniensis,,preysOn
+101053,483820,Holopedium gibberum,,preysOn
+101053,,Diaptomus minutus,,preysOn
+101053,203387,Mesocyclops edax,,preysOn
+101053,,C. scutifer,,preysOn
+101053,,Conochiloides dossuarius,,preysOn
+101053,,Gastropus stylifer,,preysOn
+101053,,D. retrocurva,,preysOn
+101053,,Tropocyclops parsinus,,preysOn
+101053,,Longispina,,preysOn
+101053,,K. taurocephala,,preysOn
+101053,252828,Pulex,,preysOn
+101053,,Kellicottia longispina,,preysOn
+101053,,Cyclops vernalis,,preysOn
+101053,474050,Chydorus sphaericus,,preysOn
+101053,,Keratella crassa,,preysOn
+101053,626368,Collotheca mutabilis,,preysOn
+101053,,Daphnia catawba,,preysOn
+101053,1019939,Leptodora kindtii,,preysOn
+101053,1269830,Conochiloides,,preysOn
+101053,,Daphnia ambigua,,preysOn
+101053,,Daphnia longiremis,,preysOn
+101053,626372,Daphnia retrocurva,,preysOn
+101053,,Keratella testudo,,preysOn
+101053,,Tropocyclops prasinus,,preysOn
+101053,,Polyarthra vulgaris,,preysOn
+101053,203468,Bosmina longirostris,Elephant Water Flea,preysOn
+101053,548500,Epischura lacustris,,preysOn
+101053,,Daphnia pulex,,preysOn
+101053,,Keratella taurocephala,,preysOn
+101053,1075395,Cyclops scutifer,,preysOn
+101053,,Plecoptera,,preysOn
+101053,171609,Simocephalus,,preysOn
+101053,151644,Mytilopsis leucophaeata,Dark Falsemussel,preysOn
+101053,253748,Japonactaeon punctostriatus,,preysOn
+101053,,Harpacticus chelifer,,preysOn
+101053,,Doris verrucosa,,preysOn
+101053,,Alonella,,preysOn
+101053,203471,Centropages hamatus,,preysOn
+101053,,Corophium tuberculatum,,preysOn
+101053,64646,Jassa falcata,Mottled Tubemaker,preysOn
+101053,1022986,Corambe obscura,,preysOn
+101053,,Pararobertsonia chesapeakensis,,preysOn
+101053,,Polycerella conyma,,preysOn
+101053,,Ensis directus,,preysOn
+101053,1349347,Tisbe furcata,,preysOn
+101053,218302,Diacyclops bicuspidatus,,preysOn
+101053,,Macrocyclops,,preysOn
+101053,483834,Ceriodaphnia quadrangula,,preysOn
+101053,338141,Chydorus,,preysOn
+101053,1023066,Labidocera aestiva,,preysOn
+101053,,Alteutha depressa,,preysOn
+101053,295885,Unciola irrorata,,preysOn
+101053,483871,Leydigia leydigi,,preysOn
+101053,,Labidocera wollastoni,,preysOn
+101053,,Diaphanosoma leuchtenbergia,,preysOn
+101053,,Hermaea cruciata,,preysOn
+101053,,Haminoea solitaria,,preysOn
+101053,1023441,Gammaropsis nitida,,preysOn
+101053,,Alona affinis,,preysOn
+101053,59360,Neverita duplicata,Shark Eye,preysOn
+101053,196326,Lunarca ovalis,Blood Ark,preysOn
+101053,260498,Ampelisca vadorum,,preysOn
+101053,212213,Acanthocyclops vernalis,,preysOn
+101053,,Crassostrea ariakensis,,preysOn
+101053,,Gemma gemma,,preysOn
+101053,,Photis reinhardi,,preysOn
+101053,,Paralaophonte brevirostris,,preysOn
+101053,950701,Eurytemora americana,,preysOn
+101053,1110968,Podon intermedius,,preysOn
+101053,,Littorina irrorata,,preysOn
+101053,87923,Diaptomus,,preysOn
+101053,,Ectinosoma compressum,,preysOn
+101053,209052,Monocorophium insidiosum,,preysOn
+101053,55297,Clione limacina,Naked Sea Butterfly,preysOn
+101053,1003858,Ilyocryptus spinifer,,preysOn
+101053,201724,Temora stylifera,,preysOn
+101053,85352,Chaetopleura apiculata,Eastern Beaded Chiton,preysOn
+101053,231421,Spisula solidissima,West Atlantic Surfclam,preysOn
+101053,,Tagelus plebius,,preysOn
+101053,329024,Rhincalanus nasutus,,preysOn
+101053,5009,Ixobrychus exilis,Least Bittern,preyedUponBy
+101053,49596,Salvelinus fontinalis,Brook Trout,preyedUponBy

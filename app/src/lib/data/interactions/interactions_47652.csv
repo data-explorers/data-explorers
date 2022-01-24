@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47652,47490,Polychaeta,Polychaete Worms,eats
+47652,47584,Bivalvia,Bivalves,eats
+47652,,Pinnixa rathbuni,,eats
+47652,62642,Solanum rostratum,buffalo-bur,pollinates
+47652,154473,Pycnanthemum virginianum,Virginia mountain mint,pollinates
+47652,130376,Solidago speciosa,showy goldenrod,pollinates
+47652,55745,Trifolium repens,white clover,pollinates
+47652,50278,Parthenocissus quinquefolia,Virginia creeper,pollinates
+47652,48629,Prunus americana,American plum,pollinates
+47652,56121,Capsella bursa-pastoris,shepherd's-purse,pollinates
+47652,52764,Prunella vulgaris,common selfheal,pollinates
+47652,167829,Rhus typhina,staghorn sumac,pollinates
+47652,85320,Monarda fistulosa,wild bergamot,pollinates
+47652,,Rubus villosus,,pollinates
+47652,128841,Rosa setigera,climbing prairie rose,pollinates
+47652,,Smilax hispida,,pollinates
+47652,159305,Boltonia asteroides,white doll's-daisy,pollinates
+47652,,Staphylea trifolia,,pollinates
+47652,,Lycopus americanus,,pollinates
+47652,,Philadelphus floridus,,pollinates
+47652,,Spiranthes lacera,,pollinates
+47652,167607,Pycnanthemum flexuosum,Savanna Mountainmint,pollinates
+47652,,Veronicastrum virginicum,,pollinates
+47652,,Steironema ciliatum,,pollinates
+47652,58795,Apocynum cannabinum,hemp dogbane,pollinates
+47652,,Stenanthium,,pollinates
+47652,130365,Sanicula marilandica,Maryland Black-snakeroot,pollinates
+47652,76541,Cucurbita pepo,American pumpkin,pollinates
+47652,168993,Silphium integrifolium,prairie rosinweed,pollinates
+47652,47891,Impatiens pallida,pale jewelweed,pollinates
+47652,,Scutellaria,,pollinates
+47652,50625,Ptelea trifoliata,common hoptree,pollinates
+47652,,Lysimachia lanceolata,,pollinates
+47652,,Vitis vulpina,,pollinates
+47652,204361,Nabalus serpentarius,lion's foot,pollinates
+47652,,Apios americana,,pollinates
+47652,,Ribes cynosbati,,pollinates
+47652,,Cuscuta cephalanthi,,pollinates
+47652,,Lysimachia quadriflora,,pollinates
+47652,81795,Enemion biternatum,false rue anemone,pollinates
+47652,,http://treatment.plazi.org/id/EA32CFFC201A3B6C64C42AED4866B648,,pollinates
+47652,,Orobanche uniflora,,pollinates
+47652,,Arnoglossum atriplicifolium,,pollinates
+47652,238329,Ruellia caroliniensis ciliosa,,pollinates
+47652,77260,Geranium richardsonii,Richardson's geranium,pollinates
+47652,76451,Corydalis aurea,scrambled eggs,pollinates
+47652,,Mertensia sibirica,,pollinates
+47652,,Delphinium scopulorum,,pollinates
+47652,,Penstemon glaber,,pollinates
+47652,,Chamerion angustifolium,,pollinates
+47652,84732,Erigeron speciosus,aspen fleabane,pollinates
+47652,163256,Geranium caespitosum,pinewoods geranium,pollinates
+47652,47584,Bivalvia,Bivalves,preysOn
+47652,47490,Polychaeta,Polychaete Worms,preysOn
+47652,,Pinnixa rathbuni,,preysOn

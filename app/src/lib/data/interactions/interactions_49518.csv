@@ -1,0 +1,42 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49518,152275,Thalassiosirales,,eats
+49518,67333,Bacteria,bacteria,eats
+49518,,plankton,,eats
+49518,47832,Pycnogonidae,Small Sea Spiders,eats
+49518,,Prymnesiophyceae,,eats
+49518,,Chrysophyta,,eats
+49518,774725,Pyramimonadophyceae,,eats
+49518,,Detritus complex,,eats
+49518,132473,Lagodon rhomboides,Pinfish,eatenBy
+49518,81616,Styela,Lumpy Sea Mats,eatenBy
+49518,49052,Anthopleura,,eatenBy
+49518,62807,Mytilus,Black Mussels,eatenBy
+49518,47827,Cancer,,eatenBy
+49518,83331,Leucozonia,,eatenBy
+49518,63740,Gadus morhua,Atlantic Cod,eatenBy
+49518,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+49518,118665,Diplodus annularis,Annular Seabream,eatenBy
+49518,55396,Solea solea,Common Sole,eatenBy
+49518,445859,Dentex angolensis,Angola Dentex,eatenBy
+49518,52956,Chaetodon capistratus,Four-eyed Butterflyfish,eatenBy
+49518,110594,Prognathodes aculeatus,Longsnout Butterflyfish,eatenBy
+49518,97170,Chaetodon lineolatus,Lined Butterflyfish,eatenBy
+49518,48747,Chaetodon vagabundus,Vagabond Butterflyfish,eatenBy
+49518,47317,Chaetodon,,eatenBy
+49518,47316,Chaetodon lunula,Raccoon Butterflyfish,eatenBy
+49518,52457,Chaetodon auriga,Threadfin Butterflyfish,eatenBy
+49518,97150,Chaetodon citrinellus,Speckled Butterflyfish,eatenBy
+49518,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+49518,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+49518,120607,Nezumia aequalis,Common Atlantic Grenadier,eatenBy
+49518,616967,Bathygadus melanobranchus,,eatenBy
+49518,459388,Halosaurus guentheri,Guenther's halosaur,eatenBy
+49518,49750,Archosargus probatocephalus,Sheepshead,eatenBy
+49518,447177,Trichotropis cancellata,Cancellate Hairysnail,eatenBy
+49518,86650,Artedius,,eatenBy
+49518,48903,Asterias,,eatenBy
+49518,83329,Buccinidae,True Whelks,eatenBy
+49518,376425,Fusitriton,,eatenBy
+49518,183018,Lepidopsetta bilineata,Rock sole,eatenBy
+49518,260476,Plesionika acanthonotus,Lesser striped shrimp,eatenBy
+49518,852690,Geryon longipes,,eatenBy

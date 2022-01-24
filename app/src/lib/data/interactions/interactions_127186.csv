@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127186,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+127186,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+127186,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+127186,58509,Anatrytone logan,Delaware Skipper,eatenBy
+127186,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+127186,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+127186,,Coleophora coronillae,,eatenBy
+127186,,Syncopacma vinella,,eatenBy
+127186,,Syncopacma palpilineella,,eatenBy
+127186,62453,Anthidium manicatum,European Woolcarder Bee,eatenBy
+127186,,Melissodes bimaculatus,,eatenBy
+127186,,Celastrina argiolus,,eatenBy
+127186,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+127186,,Atalopedes campestris,,eatenBy
+127186,,Andrena wilkella,,eatenBy
+127186,,Rutpela maculata,,eatenBy
+127186,,Paracorymbia fulva,,eatenBy
+127186,47220,Apis,Honey Bees,pollinatedBy

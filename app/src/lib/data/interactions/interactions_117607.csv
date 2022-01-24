@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117607,47491,Annelida,Segmented Worms,eats
+117607,118996,Ciliophora,Ciliates,eats
+117607,47115,Mollusca,Molluscs,eats
+117607,47178,Actinopterygii,Ray-finned Fishes,eats
+117607,47549,Echinodermata,Echinoderms,eats
+117607,85493,Crustacea,Crustaceans,eats
+117607,47811,Ascidiacea,Sea Squirts,eats
+117607,,Khakista,,eats
+117607,,debris,,eats
+117607,47600,Blepharipoda,,eats
+117607,,Detritus,,eats
+117607,3,Aves,Birds,eatenBy
+117607,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+117607,106881,Nephrops norvegicus,Norway lobster,eatenBy
+117607,63740,Gadus morhua,Atlantic Cod,eatenBy
+117607,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+117607,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+117607,48402,Amblyraja radiata,Thorny Skate,eatenBy
+117607,430553,Merlangius merlangus,Whiting,eatenBy
+117607,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+117607,118660,Lithognathus mormyrus,Striped Seabream,eatenBy
+117607,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+117607,56045,Limanda ferruginea,Yellowtail flounder,eatenBy
+117607,465054,Pseudopleuronectes yokohamae,Marbled Flounder,eatenBy
+117607,48397,Raja clavata,Thornback Skate,eatenBy
+117607,118665,Diplodus annularis,Annular Seabream,eatenBy
+117607,118669,Diplodus sargus,White Bream,eatenBy
+117607,118667,Diplodus vulgaris,Common Two-banded Seabream,eatenBy
+117607,179547,Menticirrhus saxatilis,Northern Kingfish,eatenBy
+117607,120669,Solea senegalensis,Senegalese Sole,eatenBy
+117607,120607,Nezumia aequalis,Common Atlantic Grenadier,eatenBy
+117607,92330,Symphurus,,eatenBy
+117607,104533,Leucoraja erinacea,Little Skate,eatenBy
+117607,447421,Pleuronectes quadrituberculatus,Alaska Plaice,eatenBy
+117607,118618,Mullus barbatus,Red Mullet,eatenBy
+117607,,Enchelyopus cimbrius,,eatenBy
+117607,61387,Limanda limanda,Sand Dab,eatenBy
+117607,,Pisces,,eatenBy
+117607,,Pisces,,preyedUponBy

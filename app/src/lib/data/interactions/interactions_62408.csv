@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62408,67333,Bacteria,bacteria,eats
+62408,,PhytoP,,eats
+62408,,Detritus,,eats
+62408,,Microphytobenthos,,eats
+62408,,Khakista,,eats
+62408,,Zooplankton,,preysOn
+62408,180524,Trivia monacha,European cowrie,preyedUponBy
+62408,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+62408,,Asterina gibbosa,,preyedUponBy
+62408,118685,Parablennius gattorugine,Tompot Blenny,preyedUponBy
+62408,113533,Symphodus melops,Corkwing Wrasse,preyedUponBy
+62408,103911,Labrus bergylta,Ballan Wrasse,preyedUponBy
+62408,459588,Hyas araneus,Atlantic Lyre Crab,preyedUponBy
+62408,459590,Hyas coarctatus,Arctic Lyre Crab,preyedUponBy
+62408,118695,Trachurus trachurus,Atlantic Horse Mackerel,preyedUponBy
+62408,482346,Erato voluta,,preyedUponBy

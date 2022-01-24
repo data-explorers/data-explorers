@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9981,47157,Lepidoptera,Butterflies and Moths,eats
+9981,63089,Clitellata,Clitellates,eats
+9981,47118,Araneae,Spiders,eats
+9981,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9981,47928,Zygoptera,Damselflies,eats
+9981,47336,Formicidae,Ants,eats
+9981,49530,Geometridae,Geometer Moths,eats
+9981,47367,Opiliones,Harvestmen,eats
+9981,47124,Magnoliopsida,dicots,eats
+9981,47158,Insecta,Insects,eats
+9981,1,Animalia,Animals,eats
+9981,211194,Tracheophyta,vascular plants,eats
+9981,47822,Diptera,Flies,eats
+9981,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9981,47792,Odonata,Dragonflies and Damselflies,eats
+9981,47208,Coleoptera,Beetles,eats
+9981,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9981,47434,Poaceae,grasses,eats
+9981,47114,Gastropoda,Gastropods,eats
+9981,47688,Erodium,stork's-bills,eats
+9981,52698,Avena fatua,wild oat,eats
+9981,50641,Solanum,nightshades,eats
+9981,47120,Arthropoda,Arthropods,eats
+9981,82435,Cicindela scutellaris,Festive Tiger Beetle,eats
+9981,72232,Melaleuca,bottlebrushes,eats
+9981,47491,Annelida,Segmented Worms,eats
+9981,57156,Avena sativa,Oat,eats
+9981,,Hordeum vulgare,,eats
+9981,,Dasymutilla vestita,,eats
+9981,228610,Polyphylla pubescens,,eats
+9981,,Panicum amarum,,eats
+9981,,Uniola paniculata,,eats
+9981,,Schizachyrium maritimum,,eats
+9981,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+9981,4940,Egretta thula,Snowy Egret,eatenBy
+9981,447155,Larinae,Gulls,eatenBy
+9981,4672,Falco columbarius,Merlin,eatenBy
+9981,4665,Falco sparverius,American Kestrel,eatenBy
+9981,20445,Tyto alba,Barn Owl,eatenBy
+9981,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+9981,20315,Asio flammeus,Short-eared Owl,eatenBy
+9981,4645,Falco femoralis,Aplomado Falcon,eatenBy
+9981,4672,Falco columbarius,Merlin,preyedUponBy

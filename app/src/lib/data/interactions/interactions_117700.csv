@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117700,123880,Bacillariophyceae,Diatoms,eats
+117700,152275,Thalassiosirales,,eats
+117700,123862,Chaetoceros,,eats
+117700,,Detritus complex,,eats
+117700,123865,Coscinodiscus,,eats
+117700,,Prymnesiophyceae,,eats
+117700,47827,Cancer,,eatenBy
+117700,47645,Cottidae,Typical Sculpins,eatenBy
+117700,43584,Homo sapiens,Human,eatenBy
+117700,41860,Enhydra lutris,Sea Otter,eatenBy
+117700,47825,Pycnogonida,Pycnogonids,eatenBy
+117700,108552,Paralabrax nebulifer,Sand bass,eatenBy
+117700,223141,Leiocottus hirundo,lavender sculpin,eatenBy
+117700,63382,Dermasterias imbricata,Leather Star,eatenBy
+117700,53699,Semicossyphus pulcher,California sheephead,eatenBy
+117700,118669,Diplodus sargus,White Bream,eatenBy
+117700,118667,Diplodus vulgaris,Common Two-banded Seabream,eatenBy
+117700,63740,Gadus morhua,Atlantic Cod,eatenBy
+117700,61383,Homarus americanus,American Lobster,eatenBy
+117700,1072347,Plesionika gigliolii,Italian deepsea shrimp,eatenBy
+117700,558991,Plesionika heterocarpus,Arrow shrimp,eatenBy
+117700,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+117700,41766,Odobenus rosmarus,Walrus,eatenBy
+117700,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+117700,,Gammaridea,,eatenBy
+117700,117692,Solaster dawsoni,Morning sun star,eatenBy
+117700,,Leptasterias,,eatenBy
+117700,371725,Solaster endeca,Purple Sun Star,eatenBy
+117700,67316,Anoplarchus purpurescens,High Cockscomb,eatenBy
+117700,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+117700,208013,Solaster stimpsoni,Striped Sun Star,eatenBy
+117700,,Crossaster papposus,,eatenBy
+117700,48903,Asterias,,eatenBy
+117700,47710,Pandalidae,,eatenBy
+117700,68596,Hexagrammos decagrammus,Kelp Greenling,eatenBy
+117700,123880,Bacillariophyceae,Diatoms,preysOn
+117700,,Detritus complex,,preysOn
+117700,,Phytoplankton,,preysOn
+117700,47827,Cancer,,preyedUponBy
+117700,47645,Cottidae,Typical Sculpins,preyedUponBy
+117700,47628,Amphipoda,Amphipods,preyedUponBy
+117700,53699,Semicossyphus pulcher,California sheephead,preyedUponBy
+117700,223141,Leiocottus hirundo,lavender sculpin,preyedUponBy
+117700,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+117700,108552,Paralabrax nebulifer,Sand bass,preyedUponBy
+117700,619164,Pholis crassispina,,preyedUponBy
+117700,,Leptasterias,,preyedUponBy
+117700,208013,Solaster stimpsoni,Striped Sun Star,preyedUponBy
+117700,371725,Solaster endeca,Purple Sun Star,preyedUponBy
+117700,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+117700,117692,Solaster dawsoni,Morning sun star,preyedUponBy

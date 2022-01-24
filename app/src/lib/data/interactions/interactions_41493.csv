@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41493,530418,Diaphus coeruleus,Blue Lanternfish,eats
+41493,43584,Homo sapiens,Human,eatenBy
+41493,85910,Myctophidae,Lanternfishes,preysOn
+41493,530418,Diaphus coeruleus,Blue Lanternfish,preysOn
+41493,,D. elucens,,preysOn
+41493,43584,Homo sapiens,Human,preyedUponBy

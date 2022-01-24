@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9091,211194,Tracheophyta,vascular plants,eats
+9091,1,Animalia,Animals,eats
+9091,47158,Insecta,Insects,eats
+9091,47157,Lepidoptera,Butterflies and Moths,eats
+9091,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9091,71130,Polyphaga,"Water, Rove, Scarab, Long-horned, Leaf, and Snout Beetles",eats
+9091,47124,Magnoliopsida,dicots,eats
+9091,72458,Actitis macularius,Spotted Sandpiper,eats
+9091,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9091,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+9091,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy

@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3438,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+3438,4645,Falco femoralis,Aplomado Falcon,eatenBy
+3438,540088,Phrynonax poecilonotus,Puffing Snake,preyedUponBy

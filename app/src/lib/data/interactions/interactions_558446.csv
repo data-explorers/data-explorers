@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+558446,3,Aves,Birds,eats
+558446,1,Animalia,Animals,eats
+558446,2,Chordata,Chordates,eats
+558446,40151,Mammalia,Mammals,eats
+558446,44311,Microtus pennsylvanicus,Meadow Vole,eats
+558446,44349,Peromyscus,North American Deer Mice,eats
+558446,47158,Insecta,Insects,eats
+558446,26036,Reptilia,Reptiles,eats
+558446,47208,Coleoptera,Beetles,eats
+558446,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+558446,49567,Carabidae,Ground Beetles,eats
+558446,17599,Picidae,Woodpeckers,eats
+558446,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+558446,20978,Amphibia,Amphibians,eats
+558446,81951,Dermestidae,Skin Beetles,eats
+558446,44396,Peromyscus maniculatus,Deer Mouse,eats
+558446,7294,Eremophila alpestris,Horned Lark,eats
+558446,3454,Zenaida macroura,Mourning Dove,eats
+558446,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+558446,44326,Microtus californicus,California Vole,eats
+558446,473,Fulica americana,American Coot,eats
+558446,10373,Molothrus ater,Brown-headed Cowbird,eats
+558446,43698,Rodentia,Rodents,eats
+558446,60340,Lithobates,American Water Frogs,eats
+558446,447155,Larinae,Gulls,eats
+558446,122767,Columba livia domestica,Feral Pigeon,eats
+558446,85552,Sauria,Lizards,eats
+558446,47178,Actinopterygii,Ray-finned Fishes,eats
+558446,850859,Oxyura jamaicensis,Ruddy Duck,eats
+558446,,Dipodomys,,eats
+558446,,Lepus californicus,,eats
+558446,,Cnemidophorus tigris,,eats
+558446,,Spermophilus townsendii,,eats
+558446,43109,Sylvilagus nuttallii,Mountain Cottontail,eats
+558446,,Euchelicerata,,eats
+558446,,Microtus montanus,,eats
+558446,,Sigmodon hispidus,,eats
+558446,44437,Reithrodontomys montanus,Plains Harvest Mouse,eats
+558446,,Pooecetes gramineus,,eats
+558446,,Crotaphytus collaris,,eats
+558446,4892,Pluvialis squatarola,Black-bellied Plover,eats
+558446,,Arvicolinae,,eats
+558446,473,Fulica americana,American Coot,preysOn
+558446,67731,Anax junius,Common Green Darner,preysOn
+558446,1,Animalia,Animals,preysOn
+558446,3,Aves,Birds,preysOn

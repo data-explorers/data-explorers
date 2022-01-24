@@ -1,0 +1,101 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9100,211194,Tracheophyta,vascular plants,eats
+9100,1,Animalia,Animals,eats
+9100,47124,Magnoliopsida,dicots,eats
+9100,47793,Dermaptera,Earwigs,eats
+9100,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9100,47208,Coleoptera,Beetles,eats
+9100,47792,Odonata,Dragonflies and Damselflies,eats
+9100,47158,Insecta,Insects,eats
+9100,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+9100,47118,Araneae,Spiders,eats
+9100,47822,Diptera,Flies,eats
+9100,48972,Polygonum,knotweeds,eats
+9100,47157,Lepidoptera,Butterflies and Moths,eats
+9100,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9100,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9100,47434,Poaceae,grasses,eats
+9100,53036,Ambrosia,ragweeds,eats
+9100,49372,Polygyridae,Polygyrid Snails,eats
+9100,52841,Anthemis cotula,Stinking chamomile,eats
+9100,53298,Stellaria media,common chickweed,eats
+9100,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+9100,50055,Setaria,foxtails and bristlegrasses,eats
+9100,58390,Triticum,Wheats,eats
+9100,53195,Rumex acetosella,Sheep's sorrel,eats
+9100,53113,Brassica,cabbages and mustards,eats
+9100,52698,Avena fatua,wild oat,eats
+9100,58819,Deinandra fasciculata,Clustered Tarweed,eats
+9100,47687,Erodium cicutarium,Redstem Stork's-bill,eats
+9100,48571,Carex,true sedges,eats
+9100,53269,Sonchus asper,prickly sowthistle,eats
+9100,47544,Rubus,brambles,eats
+9100,52689,Sambucus,elders,eats
+9100,154156,Croton setiger,turkey mullein,eats
+9100,57190,Phleum pratense,Timothy grass,eats
+9100,58127,Chenopodium album,Common Lambsquarters,eats
+9100,57922,Centaurea melitensis,Maltese star-thistle,eats
+9100,51633,Digitaria sanguinalis,Hairy Crabgrass,eats
+9100,50999,Ficus,Figs,eats
+9100,47351,Prunus,"plums, cherries, and allies",eats
+9100,52195,Silene,Catchflies,eats
+9100,52697,Avena,Oats,eats
+9100,56955,Helianthus,sunflowers,eats
+9100,47120,Arthropoda,Arthropods,eats
+9100,122608,Sorghastrum nutans,Indiangrass,eats
+9100,52326,Amaranthus,amaranths,eats
+9100,52715,Cortaderia,Pampas grasses,eats
+9100,9100,Melospiza melodia,Song Sparrow,eats
+9100,51815,Eucalyptus,eucalyptus,eats
+9100,48686,Typha,bulrushes and cattails,eats
+9100,184884,Pterygota,Winged and Once-winged Insects,eats
+9100,51225,Tipulidae,Large Crane Flies,eats
+9100,179916,Tipulomorpha,Crane Flies,eats
+9100,,Saissetia oleae,,eats
+9100,,Amaranthus retroflexus,,eats
+9100,,Spergula arvensis,,eats
+9100,,Madia sativa,,eats
+9100,,Physocarpus opulifolius,,eats
+9100,,Claytonia perfoliata,,eats
+9100,53075,Geranium dissectum,Cut-leaved crane's-bill,eats
+9100,,Calandrinia ciliata,,eats
+9100,,Lamium amplexicaule,,eats
+9100,,Solanum ptychanthum,,eats
+9100,,Tragopogon porrifolius,,eats
+9100,,Phalaris canariensis,,eats
+9100,,Detritus complex,,eats
+9100,,Chasmanthe floribunda,,eats
+9100,59948,Chasmanthe bicolor,Bicolor Cobra Lily,eats
+9100,,Aloe arborescens,,eats
+9100,47919,Antheraea polyphemus,Polyphemus Moth,eats
+9100,,Vaccinium ovatum,,eats
+9100,,Chasmanthe,,eats
+9100,,Leptosyne gigantea,,eats
+9100,42054,Vulpes,Typical Foxes,eatenBy
+9100,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9100,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+9100,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+9100,4672,Falco columbarius,Merlin,eatenBy
+9100,20445,Tyto alba,Barn Owl,eatenBy
+9100,20044,Bubo virginianus,Great Horned Owl,eatenBy
+9100,9100,Melospiza melodia,Song Sparrow,eatenBy
+9100,144594,Bubo scandiacus,Snowy Owl,eatenBy
+9100,20315,Asio flammeus,Short-eared Owl,eatenBy
+9100,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+9100,20307,Asio otus,Long-eared Owl,eatenBy
+9100,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+9100,4356,Larus canus,Mew Gull,eatenBy
+9100,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+9100,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+9100,,Mustela erminea richardsonii,,eatenBy
+9100,47158,Insecta,Insects,preysOn
+9100,47120,Arthropoda,Arthropods,preysOn
+9100,85493,Crustacea,Crustaceans,preysOn
+9100,47157,Lepidoptera,Butterflies and Moths,preysOn
+9100,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+9100,83854,Magicicada,Periodical Cicadas,preysOn
+9100,48268,Crotalus oreganus,Western Rattlesnake,preyedUponBy
+9100,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+9100,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+9100,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy
+9100,,Mustela erminea richardsonii,,preyedUponBy

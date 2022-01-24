@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57665,77739,Ligustrum japonicum,wax-leaf ligustrum,eats
+57665,47787,Yucca,Yuccas,eats
+57665,48627,Echinacea purpurea,purple coneflower,eats
+57665,58826,Euthamia occidentalis,western goldenrod,eats
+57665,48939,Eriogonum,wild buckwheats,eats
+57665,53052,Foeniculum vulgare,fennel,eats
+57665,47902,Opuntia,Prickly Pears,eats
+57665,50999,Ficus,Figs,eats
+57665,53359,Baccharis pilularis,coyote brush,eats
+57665,60218,Ficus carica,common fig,eats
+57665,52108,Baccharis sarothroides,desert broom,eats
+57665,78755,Prunus persica,Peach,eats
+57665,53438,Rosa,roses,eats
+57665,52111,Baccharis,,eats
+57665,,Dahlia sorensenii,,eats
+57665,,Allium tuberosum,,eats
+57665,,Baccharis glutinosa,,eats
+57665,4665,Falco sparverius,American Kestrel,eatenBy
+57665,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+57665,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+57665,47336,Formicidae,Ants,eatenBy
+57665,42051,Canis latrans,Coyote,eatenBy
+57665,47382,Latrodectus hesperus,Western Black Widow,eatenBy
+57665,32055,Elgaria multicarinata,Southern Alligator Lizard,preyedUponBy
+57665,4665,Falco sparverius,American Kestrel,preyedUponBy

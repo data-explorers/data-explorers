@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+91217,47170,Fungi,Fungi Including Lichens,eats
+91217,47561,Pinus,pines,eats
+91217,,rotting wood,,eats
+91217,,fungi (red rot),,eats
+91217,,fungi red rot,,eats
+91217,17355,Vireo,Vireos,eatenBy

@@ -1,0 +1,115 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+36982,47158,Insecta,Insects,eats
+36982,42069,Vulpes vulpes,Red Fox,eatenBy
+36982,4933,Egretta,Typical Egrets,eatenBy
+36982,8229,Cyanocitta cristata,Blue Jay,eatenBy
+36982,144455,Ardea alba,Great Egret,eatenBy
+36982,146199,Lampropeltis californiae,California King Snake,eatenBy
+36982,20445,Tyto alba,Barn Owl,eatenBy
+36982,41808,Mustela erminea,Eurasian Stoat,eatenBy
+36982,20307,Asio otus,Long-eared Owl,eatenBy
+36982,,reef heron,,eatenBy
+36982,,Boaedon capensis,,eatenBy
+36982,,Egretta novaehollandiae,,eatenBy
+36982,5017,Bubulcus ibis,Cattle Egret,eatenBy
+36982,47158,Insecta,Insects,preysOn
+36982,118552,Felis catus,Domestic Cat,preyedUponBy
+36982,,Siphlophis cervinus,,preyedUponBy
+36982,28652,Siphlophis pulcher,Guanabara Spotted Night Snake,preyedUponBy
+36982,,Scaphiodontophis annulatus,,preyedUponBy
+36982,29404,Mastigodryas melanolomus,Dryad Snake,preyedUponBy
+36982,28766,Rhinobothryum lentiginosum,Amazon Banded Snake,preyedUponBy
+36982,,Pseudoboa coronata,,preyedUponBy
+36982,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+36982,,Bungarus candidus,,preyedUponBy
+36982,56629,Psammophis mossambicus,Olive Whip Snake,preyedUponBy
+36982,,Morelia viridis,,preyedUponBy
+36982,,Gonionotophis nyassae,,preyedUponBy
+36982,,Psammophylax rhombeatus,,preyedUponBy
+36982,32142,Antaresia maculosa,Spotted Python,preyedUponBy
+36982,,Suta fasciata,,preyedUponBy
+36982,539420,Bothrops pauloensis,Cerrado Lancehead,preyedUponBy
+36982,35245,Hemiaspis signata,Black-bellied Swamp Snake,preyedUponBy
+36982,28337,Thelotornis capensis capensis,Southern Vine Snake,preyedUponBy
+36982,27623,Boiga dendrophila,Gold-ringed Cat Snake,preyedUponBy
+36982,,Psammodynastes pulverulentus,,preyedUponBy
+36982,28962,Psammophis trigrammus,Western Sand Snake,preyedUponBy
+36982,28985,Psammophis crucifer,Cross-marked Sand Snake,preyedUponBy
+36982,,Hoplocephalus stephensii,,preyedUponBy
+36982,32194,Liasis olivaceus,Olive Python,preyedUponBy
+36982,95802,Bitis caudalis,Horned Adder,preyedUponBy
+36982,,Hapsidophrys lineatus,,preyedUponBy
+36982,29168,Oxyrhopus clathratus,Duméril's False Coral Snake,preyedUponBy
+36982,,Micrurus corallinus,,preyedUponBy
+36982,,Dendrelaphis calligastra,,preyedUponBy
+36982,,Mastigodryas bifossatus,,preyedUponBy
+36982,,Cacophis krefftii,,preyedUponBy
+36982,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+36982,,Meizodon coronatus,,preyedUponBy
+36982,28980,Psammophis jallae,Jalla's Sand Snake,preyedUponBy
+36982,28966,Psammophis schokari,Forskal Sand Snake,preyedUponBy
+36982,32127,Aspidites melanocephalus,Black-headed Python,preyedUponBy
+36982,29832,Amphiesma stolatum,Buff Striped Keelback,preyedUponBy
+36982,,Lampropeltis mexicana,,preyedUponBy
+36982,,Antaresia stimsoni,,preyedUponBy
+36982,28976,Psammophis notostictus,Karoo Sand Snake,preyedUponBy
+36982,32170,Morelia spilota variegata,Darwin Carpet Python,preyedUponBy
+36982,116496,Atractaspis bibronii,Southern Stiletto Snake,preyedUponBy
+36982,,Hemiaspis damelii,,preyedUponBy
+36982,94205,Antaresia childreni,Children's Python,preyedUponBy
+36982,35046,Cacophis squamulosus,Golden Crowned Snake,preyedUponBy
+36982,27650,Boiga trigonata,Common Cat Snake,preyedUponBy
+36982,35270,Echiopsis curta,Bardick,preyedUponBy
+36982,28963,Psammophis subtaeniatus,Stripe-bellied Sand Snake,preyedUponBy
+36982,26638,Dendrelaphis punctulatus,Common Tree Snake,preyedUponBy
+36982,,Scaphiodontophis venustissimus,,preyedUponBy
+36982,,Lycodon striatus bicolor,,preyedUponBy
+36982,29104,Philodryas nattereri,Paraguay Green Racer,preyedUponBy
+36982,,Rhamphiophis rostratus,,preyedUponBy
+36982,32141,Antaresia perthensis,Pygmy Python,preyedUponBy
+36982,27131,Bamanophis dorri,Dorr's Racer,preyedUponBy
+36982,30477,Naja nigricincta,Western Barred Spitting Cobra,preyedUponBy
+36982,30877,Atheris squamigera,African Bush Viper,preyedUponBy
+36982,,Lycophidion namibianum,,preyedUponBy
+36982,28994,Psammophis leopardinus,Leopard Grass Snake,preyedUponBy
+36982,,Bothrochilus boa,,preyedUponBy
+36982,,Gonionotophis crossi,,preyedUponBy
+36982,,Suta punctata,,preyedUponBy
+36982,35049,Cacophis harriettae,White-crowned Snake,preyedUponBy
+36982,,Amblyodipsas polylepis,,preyedUponBy
+36982,28955,Psammophylax tritaeniatus,Striped Skaapsteker,preyedUponBy
+36982,82808,Crotaphopeltis hotamboeia,Red-lipped Snake,preyedUponBy
+36982,32131,Aspidites ramsayi,Woma Python,preyedUponBy
+36982,32191,Liasis fuscus,Water Python,preyedUponBy
+36982,146320,Oxyrhopus petolarius,Forest Flame Snake,preyedUponBy
+36982,,Parasuta spectabilis spectabilis,,preyedUponBy
+36982,,Elapognathus minor,,preyedUponBy
+36982,,Lycodon flavozonatus,,preyedUponBy
+36982,,Austrelaps ramsayi,,preyedUponBy
+36982,35161,Pseudechis australis,Mulga Snake,preyedUponBy
+36982,,Acanthophis antarcticus,,preyedUponBy
+36982,32110,Candoia carinata,Pacific Boa,preyedUponBy
+36982,111068,Pseudonaja inframacula,Peninsula Brown Snake,preyedUponBy
+36982,,Brachyurophis australis,,preyedUponBy
+36982,,Furina diadema,,preyedUponBy
+36982,,Pseudonaja modesta,,preyedUponBy
+36982,,Lycodon aulicus,,preyedUponBy
+36982,,Furina barnardi,,preyedUponBy
+36982,,Simoselaps bertholdi,,preyedUponBy
+36982,30187,Ahaetulla prasina,Oriental Whipsnake,preyedUponBy
+36982,,Ptyas mucosa,,preyedUponBy
+36982,29663,Liophidium torquatum,White-lipped Smooth Snake,preyedUponBy
+36982,,Elapognathus coronata,,preyedUponBy
+36982,,Philothamnus macrops,,preyedUponBy
+36982,,Austrelaps superbus,,preyedUponBy
+36982,,Lycodon fasciatus,,preyedUponBy
+36982,318660,Cryptophis boschmai,Carpentaria Whip Snake,preyedUponBy
+36982,,Sibynophis chinensis,,preyedUponBy
+36982,,Aspidomorphus muelleri,,preyedUponBy
+36982,,Pseudechis porphyriacus,,preyedUponBy
+36982,29374,Meizodon semiornatus,Semiornate Snake,preyedUponBy
+36982,,Demansia atra,,preyedUponBy
+36982,515419,Lampropeltis triangulum,Eastern Milksnake,preyedUponBy
+36982,,Rhinoplocephalus bicolor,,preyedUponBy
+36982,,Ptyas korros,,preyedUponBy
+36982,,Lycodon travancoricus,,preyedUponBy

@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+473531,48662,Danaus plexippus,Monarch,eatenBy
+473531,47219,Apis mellifera,Western Honey Bee,eatenBy
+473531,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+473531,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+473531,145238,Setophaga petechia,Yellow Warbler,eatenBy
+473531,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+473531,155373,Glycaspis brimblecombei,Red Gum Lerp Psyllid,eatenBy
+473531,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+473531,6363,Selasphorus rufus,Rufous Hummingbird,eatenBy
+473531,6317,Calypte anna,Anna's Hummingbird,eatenBy
+473531,52775,Bombus,Bumble Bees,eatenBy
+473531,,Callocephalon fimbriatum,,eatenBy
+473531,18921,Platycercus elegans,Crimson Rosella,eatenBy
+473531,,Trichoglossus haematodus moluccanus,,eatenBy
+473531,,Glossopsitta concinna,,eatenBy
+473531,,Phyllotocus macleayi,,eatenBy
+473531,,Glossopsitta porphyrocephala,,eatenBy
+473531,980099,Trichoglossus moluccanus moluccanus,Eastern Rainbow Lorikeet,eatenBy
+473531,,Psitteuteles versicolor,,eatenBy
+473531,18943,Nestor meridionalis,Kaka,eatenBy
+473531,,Picoides nuttallii,,eatenBy
+473531,,Setophaga townsendi,,eatenBy
+473531,,Polytelis swainsonii,,eatenBy
+473531,18920,Platycercus eximius,Eastern Rosella,eatenBy
+473531,,Crypsiphona ocultaria,,eatenBy
+473531,116844,Calyptorhynchus banksii,Red-tailed Black-Cockatoo,preysOn

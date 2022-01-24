@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+533971,42051,Canis latrans,Coyote,eatenBy
+533971,42069,Vulpes vulpes,Red Fox,eatenBy
+533971,41919,Atilax paludinosus,Marsh Mongoose,eatenBy
+533971,,Canis mesomelas,,eatenBy
+533971,569307,Catopuma temminckii,Asian Golden Cat,eatenBy
+533971,922459,Felis silvestris,European Wildcat,eatenBy
+533971,41800,Martes foina,Stone Marten,eatenBy
+533971,922738,Prionailurus bengalensis,Mainland Leopard Cat,eatenBy
+533971,41796,Martes martes,Eurasian Pine Marten,eatenBy
+533971,41812,Mustela putorius,Western Polecat,eatenBy
+533971,41599,Genetta maculata,Rusty-spotted Genet,eatenBy
+533971,,Neovison vison,,eatenBy
+533971,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+533971,41805,Mustela lutreola,European Mink,eatenBy
+533971,,Martes pennanti,,eatenBy
+533971,41791,Martes flavigula,Yellow-throated Marten,eatenBy
+533971,41808,Mustela erminea,Eurasian Stoat,eatenBy
+533971,42042,Caracal caracal,Caracal,eatenBy
+533971,20445,Tyto alba,Barn Owl,preyedUponBy
+533971,13858,Passer domesticus,House Sparrow,preyedUponBy

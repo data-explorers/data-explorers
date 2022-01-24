@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+339903,1,Animalia,Animals,eats
+339903,51508,Ctenophora,Comb Jellies,eats
+339903,180788,Mnemiopsis leidyi,Common Comb Jelly,eats
+339903,,Medusozoa,,eats
+339903,180788,Mnemiopsis leidyi,Common Comb Jelly,preysOn
+339903,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+339903,96740,Caranx crysos,Blue Runner,preyedUponBy
+339903,481600,Cratena pilata,Striped Nudibranch,preyedUponBy
+339903,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy

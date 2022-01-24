@@ -1,0 +1,307 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+333586,325515,Melosira varians,,eats
+333586,47126,Plantae,plants,eats
+333586,200891,Oedogonium,,eats
+333586,85598,Arcidae,Ark Clams,eats
+333586,67334,Cyanobacteria,cyanobacteria,eats
+333586,123880,Bacillariophyceae,Diatoms,eats
+333586,67333,Bacteria,bacteria,eats
+333586,47686,Protozoa,protozoans,eats
+333586,47158,Insecta,Insects,eats
+333586,57774,Rhodophyta,red algae,eats
+333586,123875,Melosira,,eats
+333586,311249,Bryophyta,mosses,eats
+333586,211194,Tracheophyta,vascular plants,eats
+333586,50863,Chlorophyta,green algae,eats
+333586,48736,Curculionidae,True Weevils,eats
+333586,48217,Fucus,vesicled rockweeds,eats
+333586,68770,Ascophyllum nodosum,Knotted Wrack,eats
+333586,,Cymbella minuta,,eats
+333586,492486,Gomphonema angustatum,,eats
+333586,203808,Navicula,,eats
+333586,345924,Gomphonema subclavatum,,eats
+333586,,Epithemia zebra,,eats
+333586,,Fragilaria,,eats
+333586,533633,Cymbella kappii,,eats
+333586,,Acnantidium linearis,,eats
+333586,345199,Cyclotella,,eats
+333586,311291,Nitzschia,,eats
+333586,,Synedra ulna,,eats
+333586,345400,Gomphonema parvulum,,eats
+333586,,Achnanthidium lanceoloata,,eats
+333586,,Detritus,,eats
+333586,,Rossithidium linearis,,eats
+333586,,Acnanthidium linearis,,eats
+333586,,Radicites,,eats
+333586,901016,Gomphoneis herculeana,,eats
+333586,203655,Surirella,,eats
+333586,,Gomphonema berggreni,,eats
+333586,,Melosira italica,,eats
+333586,345418,Fragilaria vaucheriae,,eats
+333586,,Cymbella aspera,,eats
+333586,182984,Audouinella,,eats
+333586,345435,Epithemia sorex,,eats
+333586,123886,Gomphonema,,eats
+333586,,Acnanthidium lanceolata,,eats
+333586,339306,Cocconeis,,eats
+333586,494501,Tabellaria flocculosa,,eats
+333586,,Khakista,,eats
+333586,,Navicula avenacea,,eats
+333586,496854,Navicula rhynchocephala,,eats
+333586,,Plant cells,,eats
+333586,,Pinnularia,,eats
+333586,311562,Frustulia rhomboides,,eats
+333586,,Rhopalodia,,eats
+333586,492492,Meridion circulare,,eats
+333586,,Rhoicosphenia curvata,,eats
+333586,359954,Aulacoseira,,eats
+333586,244899,Eunotia,,eats
+333586,,Achnanthes linearis,,eats
+333586,,Achnanthes lanceoloata,,eats
+333586,244904,Gomphonema truncatum,,eats
+333586,,Cymbella cuspidata,,eats
+333586,,Echinella,,eats
+333586,468484,Microspora,,eats
+333586,492497,Navicula cryptocephala,,eats
+333586,,Achnanthes saxonica,,eats
+333586,,Synedra rumpens,,eats
+333586,,Surirella tenera,,eats
+333586,,Eunotiasplarge,,eats
+333586,,Ulothrix,,eats
+333586,,Embryophyta,,eats
+333586,,Unidentified sp1 FW_012_02,,eats
+333586,,Gomphoneis herculeana robusta,,eats
+333586,,Algae,,eats
+333586,,stem tissue,,eats
+333586,319115,Batrachospermum,Frog-spawn Algae,eats
+333586,,total litter,,eats
+333586,,Gallionellaceae,,eats
+333586,,fine particulate organic matter,,eats
+333586,,Achnanthes lanceolata,,eats
+333586,377710,Pirara,,eats
+333586,,Cymbella sinuata,,eats
+333586,,Rhopalodia novaezealandiae,,eats
+333586,,Sephanodiscus,,eats
+333586,,Stauroneis,,eats
+333586,196958,Calothrix,,eats
+333586,,Staurostratum,,eats
+333586,,Pinnularia viridis,,eats
+333586,,Asterionella,,eats
+333586,,Aucalosira,,eats
+333586,,Eunotia pectinalis,,eats
+333586,,Pinnularia mesolepta,,eats
+333586,,Achnanthes minutissima,,eats
+333586,,Navicula gastrum,,eats
+333586,123878,Cymbella,,eats
+333586,,Navicula gregaria,,eats
+333586,,Cyclotella stelligera,,eats
+333586,,Diploneis,,eats
+333586,376157,Deleatidium,Suckergilled Mayflies,eats
+333586,474032,Gomphonema constrictum,,eats
+333586,,Eunotia meisteri,,eats
+333586,47822,Diptera,Flies,eatenBy
+333586,19350,Strigiformes,Owls,eatenBy
+333586,47818,Libellula,Chasers and King Skimmers,eatenBy
+333586,50175,Enallagma,Bluets,eatenBy
+333586,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+333586,47927,Anisoptera,Dragonflies,eatenBy
+333586,47120,Arthropoda,Arthropods,eatenBy
+333586,11853,Hirundinidae,Swallows and Martins,eatenBy
+333586,51556,Sympetrum,Meadowhawks,eatenBy
+333586,53275,Chironomidae,Non-biting Midges,eatenBy
+333586,47782,Cambaridae,Cambarid Crayfishes,eatenBy
+333586,3864,Calidris minutilla,Least Sandpiper,eatenBy
+333586,84735,Corixidae,Water Boatmen,eatenBy
+333586,47783,Astacoidea,Northern Hemisphere Crayfishes,eatenBy
+333586,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+333586,53911,Cyprinus carpio,European Carp,eatenBy
+333586,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+333586,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+333586,9602,Quiscalus quiscula,Common Grackle,eatenBy
+333586,9921,Piranga olivacea,Scarlet Tanager,eatenBy
+333586,12890,Catharus guttatus,Hermit Thrush,eatenBy
+333586,12727,Turdus migratorius,American Robin,eatenBy
+333586,50001,Terrapene carolina carolina,Eastern Box Turtle,eatenBy
+333586,12942,Sialia sialis,Eastern Bluebird,eatenBy
+333586,,Hydrobiosis parumbripennis,,eatenBy
+333586,,Tiphobiosis,,eatenBy
+333586,,Psilochorema bidens,,eatenBy
+333586,,Costachorema,,eatenBy
+333586,,Aoteapsyche,,eatenBy
+333586,,Zealandoperla sp1 FW_014_01,,eatenBy
+333586,,Megaleptoperla grandis,,eatenBy
+333586,,Nannochorista philpotti,,eatenBy
+333586,,Paralimnophila skuseii,,eatenBy
+333586,375583,Aphrophila,,eatenBy
+333586,,Hydrobiosella stenocerca,,eatenBy
+333586,395504,Polyplectropus puerilis,,eatenBy
+333586,47518,Salmo trutta,Brown Trout,eatenBy
+333586,,Ajax,,eatenBy
+333586,173755,Dolophilodes,,eatenBy
+333586,232283,Tallaperla maria,Common Roachfly,eatenBy
+333586,495454,Chloroperla,,eatenBy
+333586,,Isoperla,,eatenBy
+333586,,Cottus bairdii,,eatenBy
+333586,63081,Hirudinea,Leeches,eatenBy
+333586,51129,Gomphus,,eatenBy
+333586,846233,Talpinae,Old World Moles and Desmans,eatenBy
+333586,130411,Abax,,eatenBy
+333586,,Haplochromis angustifrons,,eatenBy
+333586,546250,Plectrocnemia conspersa,,eatenBy
+333586,475373,Guttipelopia,,eatenBy
+333586,,Molanna,,eatenBy
+333586,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy
+333586,788190,Paratarsotomus macropalpis,,eatenBy
+333586,247741,Procladius,,eatenBy
+333586,,Banksiola,,eatenBy
+333586,376084,Cryptochironomus,,eatenBy
+333586,58627,Perca flavescens,Yellow Perch,eatenBy
+333586,,Agrypnia,,eatenBy
+333586,130980,Clinotanypus,,eatenBy
+333586,57845,Sialis,,eatenBy
+333586,,Bezzia,,eatenBy
+333586,58652,Umbra,,eatenBy
+333586,247719,Djalmabatista,,eatenBy
+333586,247694,Ablabesmyia,,eatenBy
+333586,58637,Ambloplites rupestris,Rock Bass,eatenBy
+333586,209138,Sphaeroma,,eatenBy
+333586,247737,Larsia,,eatenBy
+333586,570228,Zelandoperlinae,,eatenBy
+333586,,Hydrobiosidae,,eatenBy
+333586,129410,Orthocladiinae,,eatenBy
+333586,,Stenoperla,,eatenBy
+333586,377529,Paralimnophora,,eatenBy
+333586,,Cristaperla,,eatenBy
+333586,385416,Ameletopsis perscitus,,eatenBy
+333586,374171,Nothodixa,,eatenBy
+333586,,Galaxias,,eatenBy
+333586,,Archichauliodes diversus,,eatenBy
+333586,,Paranephrops zealandicus,,eatenBy
+333586,377930,Pycnocentria,,eatenBy
+333586,,Eukiefferiella brundini,,eatenBy
+333586,377937,Pycnocentrodes,,eatenBy
+333586,923938,Procerodes littoralis,,eatenBy
+333586,,Eriocheir sinensis,,eatenBy
+333586,,Halicryptus spinulosus,,eatenBy
+333586,,Litopenaeus setiferus,,eatenBy
+333586,,Palaemonetes vulgaris,,eatenBy
+333586,,Palaemonetes pugio,,eatenBy
+333586,,Perlodes microcephalus,,eatenBy
+333586,57449,Cordulegaster,Golden-ringed Spiketails,eatenBy
+333586,505410,Polycentropus flavomaculatus,,eatenBy
+333586,,Barbatula barbatula,,eatenBy
+333586,577745,Trissopelopia,,eatenBy
+333586,247738,Macropelopia,,eatenBy
+333586,,Erpobdella octoculata,,eatenBy
+333586,,Chloroperla tripunctata,,eatenBy
+333586,47635,Cottus gobio,European Bullhead,eatenBy
+333586,69989,Rutilus rutilus,Common Roach,eatenBy
+333586,109062,Perca fluviatilis,European Perch,eatenBy
+333586,451407,Siphonoperla torrentium,Small Yellow Sally,eatenBy
+333586,,Trissopelopia longimana,,eatenBy
+333586,67333,Bacteria,bacteria,preysOn
+333586,333586,Oligochaeta,Earthworms and allies,preysOn
+333586,,Detritus,,preysOn
+333586,,Rhegmoclema verralli,,preysOn
+333586,377710,Pirara,,preysOn
+333586,,Zooplankton,,preysOn
+333586,3867,Limnodromus,Dowitchers,preyedUponBy
+333586,47188,Pachygrapsus crassipes,Striped Shore Crab,preyedUponBy
+333586,4885,Recurvirostra americana,American Avocet,preyedUponBy
+333586,3864,Calidris minutilla,Least Sandpiper,preyedUponBy
+333586,3954,Limosa fedoa,Marbled Godwit,preyedUponBy
+333586,3855,Calidris mauri,Western Sandpiper,preyedUponBy
+333586,3892,Tringa melanoleuca,Greater Yellowlegs,preyedUponBy
+333586,144491,Tringa semipalmata,Willet,preyedUponBy
+333586,47822,Diptera,Flies,preyedUponBy
+333586,41661,Procyon,Raccoons,preyedUponBy
+333586,850859,Oxyura jamaicensis,Ruddy Duck,preyedUponBy
+333586,42069,Vulpes vulpes,Red Fox,preyedUponBy
+333586,49567,Carabidae,Ground Beetles,preyedUponBy
+333586,47992,Limoniidae,Limoniid Crane Flies,preyedUponBy
+333586,47951,Staphylinidae,Rove Beetles,preyedUponBy
+333586,72458,Actitis macularius,Spotted Sandpiper,preyedUponBy
+333586,51225,Tipulidae,Large Crane Flies,preyedUponBy
+333586,54960,Nematoda,Nematodes,preyedUponBy
+333586,333586,Oligochaeta,Earthworms and allies,preyedUponBy
+333586,47490,Polychaeta,Polychaete Worms,preyedUponBy
+333586,48173,Pagurus,,preyedUponBy
+333586,52523,Carcinus maenas,European Green Crab,preyedUponBy
+333586,210294,Lipophrys pholis,Shanny,preyedUponBy
+333586,47114,Gastropoda,Gastropods,preyedUponBy
+333586,68764,Ostracoda,Seed Shrimp,preyedUponBy
+333586,88563,Gobius,,preyedUponBy
+333586,84735,Corixidae,Water Boatmen,preyedUponBy
+333586,12727,Turdus migratorius,American Robin,preyedUponBy
+333586,12937,Sialia mexicana,Western Bluebird,preyedUponBy
+333586,12942,Sialia sialis,Eastern Bluebird,preyedUponBy
+333586,3857,Calidris alpina,Dunlin,preyedUponBy
+333586,123676,Anas crecca carolinensis,American Green-winged Teal,preyedUponBy
+333586,216887,Chrysops striatus,Striated Deer Fly,preyedUponBy
+333586,88477,Geonemertes,Greenhouse Proboscis-worms,preyedUponBy
+333586,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preyedUponBy
+333586,4817,Charadrius semipalmatus,Semipalmated Plover,preyedUponBy
+333586,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+333586,495454,Chloroperla,,preyedUponBy
+333586,,Isoperla,,preyedUponBy
+333586,63081,Hirudinea,Leeches,preyedUponBy
+333586,,Imparfinis mirini,,preyedUponBy
+333586,,Cordulidae,,preyedUponBy
+333586,,Progomphus,,preyedUponBy
+333586,,Omaloplia,,preyedUponBy
+333586,367714,Rallus longirostris,Mangrove Rail,preyedUponBy
+333586,248363,Eurytium,,preyedUponBy
+333586,68077,Salvelinus malma,Dolly Varden Trout,preyedUponBy
+333586,,Sympetrum danae,,preyedUponBy
+333586,,Ilybius fuliginosus,,preyedUponBy
+333586,,Holocentropus picicornis,,preyedUponBy
+333586,1028783,Einfeldia dorsalis,,preyedUponBy
+333586,,Procladius sagittalis,,preyedUponBy
+333586,212213,Acanthocyclops vernalis,,preyedUponBy
+333586,,Polycelis tenuis,,preyedUponBy
+333586,,Limnephilus marmoratus,,preyedUponBy
+333586,,Hydroporus erythrocephalus,,preyedUponBy
+333586,,Sialis lutaria,,preyedUponBy
+333586,,Agabus sturmii,,preyedUponBy
+333586,,Enallagma cyathigerum,,preyedUponBy
+333586,93434,Aeshna juncea,Sedge Darner,preyedUponBy
+333586,,Agabus bipustulatus,,preyedUponBy
+333586,546250,Plectrocnemia conspersa,,preyedUponBy
+333586,51280,Nemertea,Ribbon Worms,preyedUponBy
+333586,570459,Neanthes arenaceodentata,,preyedUponBy
+333586,,Carinoma mutabilis,,preyedUponBy
+333586,,Limnodromus griseus,,preyedUponBy
+333586,,Limnodromus scilopaceus,,preyedUponBy
+333586,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+333586,3845,Calidris canutus,Red Knot,preyedUponBy
+333586,,Catoptrophorus semipalmatus,,preyedUponBy
+333586,,Actitus macularia,,preyedUponBy
+333586,498635,Lithobius piceus,,preyedUponBy
+333586,,Agonum viduum,,preyedUponBy
+333586,25591,Rana temporaria,European Common Frog,preyedUponBy
+333586,966787,Natrix natrix,grass snake,preyedUponBy
+333586,531184,Clubiona stagnatilis,,preyedUponBy
+333586,,Anguis fragilis,,preyedUponBy
+333586,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+333586,,Lithobius,,preyedUponBy
+333586,784329,Robertus insignis,,preyedUponBy
+333586,82118,Dolomedes,Fishing Spiders,preyedUponBy
+333586,,Hyla arborea,,preyedUponBy
+333586,25474,Rana,Pond Frogs,preyedUponBy
+333586,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+333586,,Odacantha melanura,,preyedUponBy
+333586,,Nestus,,preyedUponBy
+333586,153747,Robertus,,preyedUponBy
+333586,,Pterostichus minor,,preyedUponBy
+333586,,Paederus riparius,,preyedUponBy
+333586,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+333586,231469,Staphylinus erythropterus,,preyedUponBy
+333586,,Acupalpus flavicollis,,preyedUponBy
+333586,,Demetrias imperialis,,preyedUponBy
+333586,,Dolomedes fimbriatus,,preyedUponBy
+333586,,Poecilus,,preyedUponBy
+333586,360744,Marpissa radiata,,preyedUponBy
+333586,468120,Anelosimus vittatus,,preyedUponBy
+333586,55469,Arctosa leopardus,Leopard Bear-spider,preyedUponBy
+333586,216086,Carabus granulatus,Granulated Ground Beetle,preyedUponBy
+333586,,Tanypodinae,,preyedUponBy

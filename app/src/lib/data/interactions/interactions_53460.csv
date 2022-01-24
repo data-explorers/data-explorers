@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53460,42158,Cervidae,Deer,eatenBy
+53460,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+53460,,Proclossiana eunomia,,eatenBy
+53460,,American black bear,,eatenBy

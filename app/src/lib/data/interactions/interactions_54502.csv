@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54502,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+54502,47219,Apis mellifera,Western Honey Bee,eatenBy
+54502,,Stigmella longisacca,,eatenBy

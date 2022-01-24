@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53582,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+53582,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+53582,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+53582,,Spodoptera eridania,,eatenBy
+53582,,Callosamia promethea,,eatenBy
+53582,53577,Callosamia angulifera,Tulip-tree Silkmoth,eatenBy
+53582,47919,Antheraea polyphemus,Polyphemus Moth,eatenBy
+53582,,Actias luna,,eatenBy
+53582,82279,Automeris io,Io Moth,eatenBy
+53582,244605,Euzophera ostricolorella,Root Collar Borer Moth,eatenBy
+53582,501140,Papilio elwesi,Elwes' Swallowtail,eatenBy
+53582,,Papilio troilus,,eatenBy
+53582,51581,Graphium agamemnon,Tailed Jay,eatenBy
+53582,47802,Lymantria dispar,LD Moth,eatenBy
+53582,416864,Phyllocnistis liriodendronella,Tulip Tree Leaf Miner,eatenBy
+53582,,Zeuzera pyrina,,eatenBy
+53582,,Erannis tiliaria,,eatenBy
+53582,130947,Xylobolus frustulatus,ceramic parchment,eatenBy
+53582,244604,Illinoia liriodendri,tuliptree aphid,eatenBy
+53582,,Phomopsis liriodendri,,eatenBy
+53582,120513,Aurantiporus fissilis,Greasy Bracket,eatenBy
+53582,233558,Vespula flavopilosa,Downy Yellowjacket,eatenBy
+53582,18943,Nestor meridionalis,Kaka,eatenBy
+53582,62785,Ormenoides venusta,,eatenBy
+53582,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

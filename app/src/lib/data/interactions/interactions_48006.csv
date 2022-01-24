@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48006,,Algae,,eats
+48006,,Lepomis auritus,,eatenBy
+48006,107271,Notropis volucellus,Mimic shiner,eatenBy
+48006,,Micropterus dolomieu,,eatenBy
+48006,,Cyprinella spiloptera,,eatenBy
+48006,,Agonostomus monticola,,eatenBy
+48006,,Perlodes microcephalus,,eatenBy
+48006,482058,Isoperla grammatica,Yellow Sally Stonefly,eatenBy
+48006,482050,Rhyacophila dorsalis,Sandfly Caddisfly,eatenBy
+48006,482055,Perla bipunctata,Large Stonefly,eatenBy
+48006,154684,Polycentropodidae,Tube Maker Caddisflies,eatenBy
+48006,482056,Dinocras cephalotes,Large Stonefly,eatenBy
+48006,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+48006,47518,Salmo trutta,Brown Trout,eatenBy
+48006,104961,Lythrurus umbratilis,Redfin Shiner,eatenBy
+48006,109315,Phoxinus phoxinus,European Minnow,eatenBy
+48006,,Hucho hucho,,eatenBy
+48006,,Cottus bairdii,,eatenBy
+48006,,Cottus pollux,,eatenBy
+48006,472679,Liobagrus reinii,,eatenBy
+48006,,Cobitis biwae,,eatenBy
+48006,,Oncorhynchus rhodurus,,eatenBy
+48006,,Maroco jouyi,,eatenBy
+48006,,Rhinogobius flumineus,,eatenBy
+48006,94105,Anguilla anguilla,European Eel,eatenBy
+48006,109631,Platichthys flesus,European Flounder,eatenBy
+48006,114127,Thymallus thymallus,Grayling,eatenBy
+48006,48648,Salmo salar,Atlantic Salmon,eatenBy
+48006,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy

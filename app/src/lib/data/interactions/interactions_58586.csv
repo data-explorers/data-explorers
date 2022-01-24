@@ -1,0 +1,122 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58586,54834,Prunus serotina,black cherry,eats
+58586,54840,Populus tremuloides,trembling aspen,eats
+58586,53453,Salix,Willows,eats
+58586,47851,Quercus,oaks,eats
+58586,49005,Quercus rubra,northern red oak,eats
+58586,49883,Betula papyrifera,paper birch,eats
+58586,54844,Salix discolor,pussy willow,eats
+58586,59008,Salix exigua,Narrowleaf Willow,eats
+58586,47566,Populus,"poplars, cottonwoods, and aspens",eats
+58586,49230,Amelanchier,serviceberries,eats
+58586,47351,Prunus,"plums, cherries, and allies",eats
+58586,128808,Salix eriocephala,heart-leaved willow,eats
+58586,52119,Populus deltoides,Eastern Cottonwood,eats
+58586,49156,Betula,birches,eats
+58586,58736,Pyrus,pears,eats
+58586,78699,Populus trichocarpa,black cottonwood,eats
+58586,85320,Monarda fistulosa,wild bergamot,eats
+58586,48627,Echinacea purpurea,purple coneflower,eats
+58586,47544,Rubus,brambles,eats
+58586,122970,Helianthus tuberosus,Jerusalem artichoke,eats
+58586,117443,Symphyotrichum novae-angliae,New England aster,eats
+58586,67808,Solidago canadensis,Canada goldenrod,eats
+58586,85380,Eutrochium,Joe-Pye weeds,eats
+58586,60132,Cirsium arvense,creeping thistle,eats
+58586,76610,Daucus carota,wild carrot,eats
+58586,,Populus heterophylla,,eats
+58586,,Salix ambigua,,eats
+58586,,Salix babylonica,,eats
+58586,,Quercus ilicifolia,,eats
+58586,,Prunus domestica,,eats
+58586,51148,Crataegus,hawthorns,eats
+58586,,Licania michauxii,,eats
+58586,63951,Pyrus communis,Common Pear,eats
+58586,,Populus nigra,,eats
+58586,155000,Salix cordata,sand dune willow,eats
+58586,,Ficus benjamina,,eats
+58586,369433,Ficus racemosa,Cluster Fig,eats
+58586,,Populus grandidentata,,eats
+58586,,Salix sericea,,eats
+58586,,Salix caroliniana,,eats
+58586,,Populus balsamifera,,eats
+58586,,Morinda citrifolia,,eats
+58586,,Malus pumila,,eats
+58586,47570,Populus alba,white poplar,eats
+58586,,Morinda coreia,,eats
+58586,,http://treatment.plazi.org/id/BF597840FC77D2721ECC5370540D9E65,,eats
+58586,,Cephalanthus occidentalis,,eats
+58586,,Dipsacus fullonum,,eats
+58586,117438,Dipsacus laciniatus,cutleaf teasel,eats
+58586,,Agrimonia,,eats
+58586,,Vernonia,,eats
+58586,,Eupatorium serotinum,,eats
+58586,,Dipsacus,,eats
+58586,,Verbesina alternifolia,,eats
+58586,,Vernonia gigantea,,eats
+58586,912622,Agkistrodon contortrix,Eastern Copperhead,eats
+58586,,Pteromalus puparum,,eatenBy
+58586,55854,Datura stramonium,jimsonweed,pollinates
+58586,119045,Eupatorium perfoliatum,common boneset,pollinates
+58586,63319,Verbena stricta,hoary vervain,pollinates
+58586,55830,Glechoma hederacea,ground-ivy,pollinates
+58586,49916,Sisyrinchium angustifolium,narrow-leaved blue-eyed grass,pollinates
+58586,125721,Solidago rigida,stiff-leaved goldenrod,pollinates
+58586,52899,Solanum carolinense,Carolina horsenettle,pollinates
+58586,52935,Eupatorium,bonesets,pollinates
+58586,120580,Gentiana andrewsii,closed bottle gentian,pollinates
+58586,52119,Populus deltoides,Eastern Cottonwood,pollinates
+58586,53207,Senecio,groundsels,pollinates
+58586,57457,Stachys palustris,Marsh Woundwort,pollinates
+58586,81824,Euphorbia corollata,flowering spurge,pollinates
+58586,58991,Portulaca oleracea,Common Purslane,pollinates
+58586,158068,Agalinis purpurea,purple false foxglove,pollinates
+58586,163636,Helianthus strumosus,woodland sunflower,pollinates
+58586,125381,Asclepias incarnata,swamp milkweed,pollinates
+58586,48038,Lobelia cardinalis,cardinal flower,pollinates
+58586,,Ipomoea hederacea,,pollinates
+58586,58917,Geranium carolinianum,Carolina crane's-bill,pollinates
+58586,48385,Heuchera,alumroots,pollinates
+58586,,Sicyos angulatus,,pollinates
+58586,125462,Nothoscordum bivalve,crowpoison,pollinates
+58586,,Helianthus laetiflorus,,pollinates
+58586,,Steironema ciliatum,,pollinates
+58586,,Rudbeckia subtomentosa,,pollinates
+58586,,Frasera carolinensis,,pollinates
+58586,,Myosotis,,pollinates
+58586,241074,Houstonia purpurea calycosa,Venus' Pride,pollinates
+58586,,Proboscidea louisianica,,pollinates
+58586,166502,Perideridia americana,thicket parsley,pollinates
+58586,,Aureolaria grandiflora,,pollinates
+58586,164765,Lonicera reticulata,Grape Honeysuckle,pollinates
+58586,,Lactuca canadensis,,pollinates
+58586,,Oxalis violacea,,pollinates
+58586,742759,Dodecatheon,shooting stars,pollinates
+58586,,Desmodium illinoense,,pollinates
+58586,,Helianthus scaberrimus,,pollinates
+58586,,Gentiana puberula,,pollinates
+58586,,Polygonum lapathifolium,,pollinates
+58586,418222,Malva pusilla,Small Mallow,pollinates
+58586,119737,Ipomoea pandurata,wild potato vine,pollinates
+58586,,Ranunculus abortivus,,pollinates
+58586,,Cornus amomum,,pollinates
+58586,,Hepatica nobilis,,pollinates
+58586,50333,Lantana camara,common lantana,pollinates
+58586,,Eupatorium serotinum,,pollinates
+58586,,Silphium perfoliatum,,pollinates
+58586,,Agalinis auriculata,,pollinates
+58586,,Desmodium sessilifolium,,pollinates
+58586,,Symphoricarpos orbiculatus,,pollinates
+58586,,Teucrium canadense,,pollinates
+58586,,Sebatia angularis,,pollinates
+58586,75995,Campsis radicans,American trumpet vine,pollinates
+58586,161274,Cuscuta glomerata,Rope Dodder,pollinates
+58586,130993,Desmodium paniculatum,panicled ticktrefoil,pollinates
+58586,,Spiranthes lacera,,pollinates
+58586,,Cardamine concatenata,,pollinates
+58586,,Euonymus atropurpureus,,pollinates
+58586,,Eupatorium coelestinum,,pollinates
+58586,47125,Angiospermae,flowering plants,preysOn
+58586,119535,Phymata,Jagged Ambush Bugs,preyedUponBy
+58586,,Hagenius brevistylus,,preyedUponBy
+58586,119533,Phymata americana,Jagged Ambush Bug,preyedUponBy

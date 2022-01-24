@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+36204,119932,Rhinotermitidae,,eats
+36204,119933,Reticulitermes,,eats
+36204,71251,Gryllus,,eats
+36204,47220,Apis,Honey Bees,eats
+36204,52158,Schistocerca nitens,Gray Bird Grasshopper,eats
+36204,48507,Vanessa,Ladies and Related Admirals,eats
+36204,52484,Celastrina echo,Echo Azure,eats
+36204,84572,Polyphylla,Lined June Beetles,eats
+36204,47208,Coleoptera,Beetles,eats
+36204,47922,Nymphalidae,Brush-footed Butterflies,eats
+36204,47219,Apis mellifera,Western Honey Bee,eats
+36204,,Polyergus mexicanus,,eats
+36204,197810,Neotamias merriami,Merriam's Chipmunk,eatenBy
+36204,4665,Falco sparverius,American Kestrel,eatenBy
+36204,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+36204,4956,Ardea herodias,Great Blue Heron,eatenBy
+36204,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+36204,1986,Geococcyx californianus,Greater Roadrunner,eatenBy
+36204,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+36204,46020,Sciurus niger,Fox Squirrel,eatenBy
+36204,60599,Ixodes pacificus,Western Black-legged Tick,eatenBy
+36204,20044,Bubo virginianus,Great Horned Owl,eatenBy
+36204,20445,Tyto alba,Barn Owl,eatenBy
+36204,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+36204,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+36204,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+36204,,Coluber lateralis euryxanthus,,eatenBy
+36204,,Pituophis catenifer catenifer,,eatenBy
+36204,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+36204,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+36204,119933,Reticulitermes,,preysOn
+36204,47219,Apis mellifera,Western Honey Bee,preysOn
+36204,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",preysOn
+36204,4665,Falco sparverius,American Kestrel,preyedUponBy
+36204,32058,Elgaria multicarinata webbii,San Diego Alligator Lizard,preyedUponBy
+36204,32055,Elgaria multicarinata,Southern Alligator Lizard,preyedUponBy
+36204,1985,Geococcyx,Roadrunners,preyedUponBy
+36204,506118,Aphelocoma californica,California Scrub-Jay,preyedUponBy
+36204,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy
+36204,,Coluber constrictor,,preyedUponBy
+36204,146173,Hypsiglena chlorophaea,Desert Nightsnake,preyedUponBy
+36204,28762,Rhinocheilus lecontei,Long-nosed Snake,preyedUponBy
+36204,,Hypsiglena ochrorhyncha,,preyedUponBy
+36204,243962,Charina bottae,Northern Rubber Boa,preyedUponBy
+36204,,Coluber lateralis lateralis,,preyedUponBy
+36204,154386,Thamnophis elegans terrestris,Coast Garter Snake,preyedUponBy
+36204,,Crotalus oreganus oreganus,,preyedUponBy
+36204,,Sterninae,,preyedUponBy
+36204,,Coluber lateralis,,preyedUponBy

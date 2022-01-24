@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81787,47534,Cnidaria,Cnidarians,eats
+81787,85493,Crustacea,Crustaceans,eats
+81787,48921,Hydrozoa,Hydrozoans,eats
+81787,,Microfauna,,eats
+81787,,Detritus,,eats
+81787,,Khakista,,eats
+81787,,Algae,,eats
+81787,,Foraminiferida,,eats
+81787,,Detritus complex,,eats
+81787,3951,Limosa lapponica,Bar-tailed Godwit,eatenBy
+81787,,GOBIDAE,,eatenBy
+81787,61387,Limanda limanda,Sand Dab,eatenBy
+81787,118851,Crangon crangon,Brown Shrimp,eatenBy
+81787,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+81787,55396,Solea solea,Common Sole,eatenBy
+81787,347936,Upeneus sulphureus,Sunrise Goatfish,eatenBy
+81787,131454,Halieutichthys aculeatus,Pancake Batfish,eatenBy
+81787,179463,Stenotomus caprinus,Longspine porgy,eatenBy
+81787,616982,Coelorinchus caribbaeus,,eatenBy
+81787,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+81787,131452,Bellator militaris,Horned Searobin,eatenBy
+81787,53692,Oncorhynchus kisutch,Coho Salmon,eatenBy
+81787,51280,Nemertea,Ribbon Worms,eatenBy
+81787,180031,Microstomus pacificus,Pacific Dover Sole,eatenBy
+81787,89645,Lumpenus,,eatenBy
+81787,51283,Emplectonematidae,,eatenBy
+81787,220718,Gymnocanthus tricuspis,Arctic Staghorn Sculpin,eatenBy
+81787,47524,Pleuronectes,,eatenBy
+81787,89054,Icelus,,eatenBy

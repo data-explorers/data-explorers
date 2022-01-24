@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+94130,1,Animalia,Animals,eats
+94130,85493,Crustacea,Crustaceans,eats
+94130,47115,Mollusca,Molluscs,eats
+94130,59635,Phragmatopoma californica,California Sandcastle Worm,eats
+94130,210289,Cirripedia,Barnacles,eats
+94130,47490,Polychaeta,Polychaete Worms,eats
+94130,47827,Cancer,,eats
+94130,49723,Pugettia producta,Northern Kelp Crab,eats
+94130,53831,Tegula,Tegulas,eats
+94130,,,,eats
+94130,,Salmacina tribranchiata,,eats
+94130,,Diaperoecia californica,,eats
+94130,339286,Diopatra ornata,Ornate Tubeworm,eats
+94130,192656,Dodecaceria fewkesi,Fringed Filament Worm,eats
+94130,337292,Cirriformia luxuriosa,,eats
+94130,338339,Pista elongata,Basket-top Spaghetti Worm,eats
+94130,,Cypraea spadicea,,eats
+94130,52169,Stereolepis gigas,Giant sea bass,eatenBy
+94130,108561,Paralichthys californicus,California Halibut,eatenBy
+94130,4354,Larus livens,Yellow-footed Gull,eatenBy
+94130,53831,Tegula,Tegulas,preysOn
+94130,49723,Pugettia producta,Northern Kelp Crab,preysOn
+94130,59635,Phragmatopoma californica,California Sandcastle Worm,preysOn
+94130,49129,Balanus,Rock-barnacles,preysOn
+94130,47827,Cancer,,preysOn
+94130,47490,Polychaeta,Polychaete Worms,preysOn
+94130,,Salmacina tribranchiata,,preysOn
+94130,,Diaperoecia californica,,preysOn
+94130,337292,Cirriformia luxuriosa,,preysOn
+94130,,Cypraea spadicea,,preysOn
+94130,339286,Diopatra ornata,Ornate Tubeworm,preysOn
+94130,338339,Pista elongata,Basket-top Spaghetti Worm,preysOn
+94130,317370,Sebastes serriceps,Treefish,preysOn
+94130,52169,Stereolepis gigas,Giant sea bass,preyedUponBy
+94130,108561,Paralichthys californicus,California Halibut,preyedUponBy

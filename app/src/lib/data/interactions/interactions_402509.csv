@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+402509,52381,Aphididae,Aphids,eatenBy
+402509,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+402509,,Melitaea cinxia,,eatenBy
+402509,,Mellicta athalia,,eatenBy
+402509,,Cryptocephalus aureolus,,eatenBy
+402509,,Hoplomachus thunbergii,,eatenBy
+402509,,Tephritis ruralis,,eatenBy
+402509,,Phomopsis hieracii,,eatenBy
+402509,,Phytomyza rufescens,,eatenBy
+402509,483389,Cheilosia urbana,,eatenBy
+402509,,Galeatus maculatus,,eatenBy
+402509,1204075,Formica fusca,fusca-group Field Ants,pollinatedBy
+402509,52965,Sphaerophoria,Globetails,pollinatedBy
+402509,57678,Lasioglossum,,pollinatedBy
+402509,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+402509,,Melanostoma mellinum,,pollinatedBy
+402509,,Parasyrphus,,pollinatedBy
+402509,,http://treatment.plazi.org/id/D88F6906CAD8356A1200AD2C1917FB5C,,pollinatedBy
+402509,,Phyllopertha horticola,,pollinatedBy
+402509,,Miarus campanulae ,,pollinatedBy
+402509,51287,Bellardia,,pollinatedBy
+402509,,http://treatment.plazi.org/id/ECD6A80EA7AF2DFA868D6A0AC2B06BB3,,pollinatedBy
+402509,,Calameuta pallipes,,pollinatedBy
+402509,,Bombus pascuorum,,pollinatedBy
+402509,,,,pollinatedBy
+402509,,Heterostylodes nominabilis ,,pollinatedBy
+402509,,Meligethes aeneus,,pollinatedBy
+402509,,http://treatment.plazi.org/id/C04F05AED85823A0241CF7B7532D8B04,,pollinatedBy
+402509,,Bibio lanigerus,,pollinatedBy
+402509,,Melangyna novaezelandiae,,pollinatedBy
+402509,,Leioproctus,,pollinatedBy
+402509,,Leioproctus fulvescens,,pollinatedBy
+402509,,Hoplomachus thunbergii,,pollinatedBy

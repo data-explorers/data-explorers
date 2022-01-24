@@ -1,0 +1,74 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+45933,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+45933,18236,Colaptes auratus,Northern Flicker,eats
+45933,72378,Stipa,Needle Grasses,eats
+45933,56955,Helianthus,sunflowers,eats
+45933,47126,Plantae,plants,eats
+45933,5416,Ictinia mississippiensis,Mississippi Kite,eats
+45933,,Ganophyllum,,eats
+45933,71950,Agropyron,,eats
+45933,52693,Agrostis,bent grass,eats
+45933,,Larrea,,eats
+45933,,cacti (including seeds and fruits),,eats
+45933,,grass Schismus barbatus,,eats
+45933,42051,Canis latrans,Coyote,eatenBy
+45933,41976,Lynx rufus,Bobcat,eatenBy
+45933,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+45933,42007,Puma concolor,Mountain Lion,eatenBy
+45933,42069,Vulpes vulpes,Red Fox,eatenBy
+45933,20445,Tyto alba,Barn Owl,eatenBy
+45933,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+45933,19893,Strix varia,Barred Owl,eatenBy
+45933,20044,Bubo virginianus,Great Horned Owl,eatenBy
+45933,4756,Cathartes aura,Turkey Vulture,eatenBy
+45933,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+45933,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+45933,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+45933,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+45933,8010,Corvus corax,Common Raven,eatenBy
+45933,41852,Gulo gulo,Wolverine,eatenBy
+45933,41798,Martes americana,American Marten,eatenBy
+45933,41796,Martes martes,Eurasian Pine Marten,eatenBy
+45933,516126,Lycalopex culpaeus,Culpeo,eatenBy
+45933,41791,Martes flavigula,Yellow-throated Marten,eatenBy
+45933,,Felis manul,,eatenBy
+45933,,Martes pennanti,,eatenBy
+45933,41963,Panthera pardus,Leopard,eatenBy
+45933,41789,Taxidea taxus,American Badger,eatenBy
+45933,,Uncia uncia,,eatenBy
+45933,41967,Panthera tigris,Tiger,eatenBy
+45933,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+45933,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+45933,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+45933,,Aquila chrysaetos,,eatenBy
+45933,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+45933,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+45933,4765,Coragyps atratus,Black Vulture,eatenBy
+45933,,Pantherophis alleghaniensis,,eatenBy
+45933,,Crotalus oreganus oreganus,,eatenBy
+45933,42070,Vulpes macrotis,Kit Fox,eatenBy
+45933,,Meles,,eatenBy
+45933,,Mephitini,,eatenBy
+45933,,Bull snake - Red racer - rattlesnakes,,eatenBy
+45933,,Coyote,,eatenBy
+45933,,Microtus ochrogaster,,preysOn
+45933,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+45933,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+45933,19893,Strix varia,Barred Owl,preyedUponBy
+45933,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+45933,118552,Felis catus,Domestic Cat,preyedUponBy
+45933,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+45933,42051,Canis latrans,Coyote,preyedUponBy
+45933,41976,Lynx rufus,Bobcat,preyedUponBy
+45933,41801,Mustela,,preyedUponBy
+45933,236842,Lichanura trivirgata,Desert Rosy Boa,preyedUponBy
+45933,30853,Bitis gabonica,Gaboon Viper,preyedUponBy
+45933,,Spalerosophis diadema diadema,,preyedUponBy
+45933,144594,Bubo scandiacus,Snowy Owl,preyedUponBy
+45933,,Strix ocellata,,preyedUponBy
+45933,,Buteo jamaicensis borealis,,preyedUponBy
+45933,,Ictinaetus malaiensis,,preyedUponBy
+45933,19812,Glaucidium gnoma,Northern Pygmy-Owl,preyedUponBy
+45933,41963,Panthera pardus,Leopard,preyedUponBy
+45933,,Mephitini,,preyedUponBy
+45933,,Coyote,,preyedUponBy

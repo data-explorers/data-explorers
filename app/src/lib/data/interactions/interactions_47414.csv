@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47414,,Detritus,,eats
+47414,,plankton,,eats
+47414,,Khakista,,eats
+47414,,debris,,eats
+47414,,plankton and marine detritus,,eats
+47414,117663,Blepharipoda occidentalis,Spiny Mole Crab,eats
+47414,3,Aves,Birds,eatenBy
+47414,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47414,3849,Calidris alba,Sanderling,eatenBy
+47414,92734,Umbrina,,eatenBy
+47414,67561,Charadriiformes,Shorebirds and Allies,eatenBy
+47414,53738,Ocypode,Ghost Crabs,eatenBy
+47414,144491,Tringa semipalmata,Willet,eatenBy
+47414,3901,Numenius phaeopus,Whimbrel,eatenBy
+47414,3906,Numenius americanus,Long-billed Curlew,eatenBy
+47414,6930,Anas platyrhynchos,Mallard,eatenBy
+47414,3954,Limosa fedoa,Marbled Godwit,eatenBy
+47414,3938,Arenaria interpres,Ruddy Turnstone,eatenBy
+47414,,Aetobatus,,eatenBy
+47414,49966,Mustelus,Smooth-Hounds,eatenBy
+47414,144515,Leucophaeus pipixcan,Franklin's Gull,eatenBy
+47414,53745,Paralichthys,,eatenBy
+47414,,Rhinobatas,,eatenBy
+47414,,Leucophaeus modestus,,eatenBy
+47414,,Pisces,,eatenBy
+47414,,Cilus gilberti,,eatenBy
+47414,618673,Genypterus chilensis,Red Cusk-eel,eatenBy
+47414,117551,Amphistichus argenteus,Barred Surfperch,eatenBy
+47414,,Rhinobatas (guitarfish - ray),,eatenBy
+47414,,fish (Sciaena - Umbrina - Polynemus),,eatenBy
+47414,4127,Pelecanoides garnotii,Peruvian Diving-Petrel,eatenBy
+47414,,Catoptrophorus semipalmatus,,eatenBy
+47414,144490,Tringa incana,Wandering Tattler,eatenBy
+47414,4892,Pluvialis squatarola,Black-bellied Plover,eatenBy
+47414,117663,Blepharipoda occidentalis,Spiny Mole Crab,eatenBy
+47414,7036,Melanitta perspicillata,Surf Scoter,eatenBy

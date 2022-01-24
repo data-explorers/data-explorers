@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48567,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+48567,9152,Spizella pusilla,Field Sparrow,eatenBy
+48567,906,Meleagris gallopavo,Wild Turkey,eatenBy
+48567,907332,Liriomyza strigata,,eatenBy
+48567,,Thrips atratus,,eatenBy
+48567,,Syromastus rhombeus,,eatenBy
+48567,,Hypera (Hypera) arator,,eatenBy
+48567,,Gronops lunatus,,eatenBy
+48567,7072,Tadorna variegata,Paradise Shelduck,eatenBy

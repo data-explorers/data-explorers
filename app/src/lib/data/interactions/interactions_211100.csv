@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+211100,47351,Prunus,"plums, cherries, and allies",eats
+211100,47566,Populus,"poplars, cottonwoods, and aspens",eats
+211100,78755,Prunus persica,Peach,eats
+211100,47851,Quercus,oaks,eats
+211100,47727,Acer,maples,eats
+211100,49156,Betula,birches,eats
+211100,54806,Fraxinus,ashes,eats
+211100,54500,Malus,apples,eats
+211100,119269,Quercus stellata,post oak,eats
+211100,53453,Salix,Willows,eats
+211100,54856,Tilia,"lindens, basswoods, and lime trees",eats
+211100,54832,Prunus nigra,Canada plum,eats
+211100,48629,Prunus americana,American plum,eats
+211100,56088,Robinia pseudoacacia,black locust,eats
+211100,54762,Acer saccharinum,silver maple,eats
+211100,54834,Prunus serotina,black cherry,eats
+211100,48582,Sorbus,Rowans and Mountain Ashes,eats
+211100,52543,Acer saccharum,sugar maple,eats
+211100,54854,Tilia americana,basswood,eats
+211100,48098,Acer rubrum,red maple,eats
+211100,57250,Prunus ilicifolia,hollyleaf cherry,eats
+211100,,Hamamelis,,eats
+211100,,Liquidambar styraciflua,,eats
+211100,,Nyssa sylvatica,,eats
+211100,,Salix fragilis,,eats
+211100,,Prunus pensylvanica,,eats
+211100,,Prunus domestica,,eats
+211100,54431,Ribes rubrum,Red Currant,eats
+211100,,Rosa subcanina,,eats
+211100,,Quercus gomeziana,,eats
+211100,,Prunus armeniaca,,eats
+211100,,Sorbus decora,,eats
+211100,61964,Prunus avium,wild cherry,eats
+211100,,Prunus virginiana,,eats
+211100,,Pteromalus puparum,,eatenBy
+211100,55746,Misumena vatia,Goldenrod Crab Spider,preysOn
+211100,1960,Coccyzus erythropthalmus,Black-billed Cuckoo,preyedUponBy

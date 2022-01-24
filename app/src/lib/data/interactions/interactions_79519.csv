@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+79519,79519,Vitis vinifera,wine grape,eats
+79519,13858,Passer domesticus,House Sparrow,eatenBy
+79519,42069,Vulpes vulpes,Red Fox,eatenBy
+79519,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+79519,258623,Platynota stultana,Omnivorous Leafroller Moth,eatenBy
+79519,126905,Harrisina americana,Grapeleaf Skeletonizer Moth,eatenBy
+79519,143452,Deidamia inscriptum,Lettered Sphinx,eatenBy
+79519,122356,Eumorpha achemon,Achemon Sphinx,eatenBy
+79519,219286,Ephestiodes gilvescentella,Dusky Raisin Moth,eatenBy
+79519,124184,Plodia interpunctella,Indian-Meal Moth,eatenBy
+79519,79519,Vitis vinifera,wine grape,eatenBy
+79519,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+79519,,Ocynoma antennatum,,eatenBy
+79519,716067,Pseudaulacaspis pentagona,,eatenBy
+79519,,Poecilometis fuscescens,,eatenBy
+79519,566987,Plautia affinis,,eatenBy
+79519,330230,Pinnaspis strachani,,eatenBy
+79519,,Nysius vinitor,,eatenBy
+79519,391720,Lindingaspis rossi,Ross' Black Scale,eatenBy
+79519,,Hemiberlesia rapax,,eatenBy
+79519,330222,Hemiberlesia lataniae,Latania scale,eatenBy
+79519,,Duplaspidiotus claviger,,eatenBy
+79519,,Dindymus versicolor,,eatenBy
+79519,60930,Diaspidiotus perniciosus,Pernicious Scale,eatenBy
+79519,,Creontiades dilutus,,eatenBy
+79519,,Chrysomphalus aonidum,,eatenBy
+79519,,Aonidiella orientalis,,eatenBy
+79519,,Aonidiella aurantii,,eatenBy
+79519,,Cettia cetti,,eatenBy
+79519,15302,Sylvia borin,Garden Warbler,eatenBy
+79519,,Sylvia communis,,eatenBy
+79519,,Cyanistes caeruleus,,eatenBy
+79519,,Phoenicurus phoenicurus,,eatenBy
+79519,,Cyanopica cooki,,eatenBy
+79519,,Sylvia melanocephala,,eatenBy
+79519,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+79519,,Sylvia cantillans,,eatenBy
+79519,13094,Erithacus rubecula,European Robin,eatenBy
+79519,,Ficedula hypoleuca,,eatenBy
+79519,14849,Sturnus unicolor,Spotless Starling,eatenBy
+79519,,Emberiza,,eatenBy
+79519,,Phylloscopus trochilus,,eatenBy
+79519,12716,Turdus merula,Eurasian Blackbird,eatenBy
+79519,,Phylloscopus bonelli,,eatenBy
+79519,,Setophaga striata,,eatenBy
+79519,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+79519,41641,Ursus arctos,Brown Bear,eatenBy
+79519,41796,Martes martes,Eurasian Pine Marten,eatenBy
+79519,202505,Zosterops lateralis,Silvereye,eatenBy
+79519,12612,Anthornis melanura,New Zealand Bellbird,eatenBy
+79519,,Finschia novaeseelandiae,,eatenBy
+79519,12748,Turdus philomelos,Song Thrush,eatenBy
+79519,855297,Meles meles,European Badger,eatenBy
+79519,,Prunella modularis,,eatenBy
+79519,42134,Sus scrofa,Wild Boar,eatenBy
+79519,41800,Martes foina,Stone Marten,eatenBy
+79519,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+79519,41900,Herpestes ichneumon,Ichneumon,eatenBy
+79519,,Pteropus giganteus,,eatenBy
+79519,,Rousettus leschenaultii,,eatenBy
+79519,40792,Cynopterus sphinx,Greater Short-nosed Fruit Bat,eatenBy
+79519,,Agrotis ipsilon,,eatenBy
+79519,,Parthenolecanium persicae,,eatenBy
+79519,,Phomopsis viticola,,eatenBy
+79519,,Septoria badhami,,eatenBy
+79519,,Hendersonia sarmentorum,,eatenBy
+79519,,Pestalotia pezizoides,,eatenBy
+79519,,Coniothyrium diplodiella,,eatenBy
+79519,,Bromius obscurus,,eatenBy
+79519,,Viteus vitifoliae,,eatenBy
+79519,,Cerdocyon thous,,eatenBy
+79519,,Phyllostomus hastatus,,eatenBy
+79519,75042,Rousettus aegyptiacus,Egyptian Rousette,eatenBy
+79519,,Psittacula krameri,,eatenBy
+79519,,Artibeus jamaicensis,,eatenBy
+79519,,Artibeus lituratus,,eatenBy
+79519,,Cadra figulilella,,eatenBy
+79519,,Achaea janata,,eatenBy
+79519,,Eupoecilia ambiguella,,eatenBy
+79519,,Tetranychus urticae,,eatenBy
+79519,226714,Otiorhynchus ligustici,,eatenBy
+79519,,Panonychus ulmi,,eatenBy
+79519,,Tetranychus pacificus,,eatenBy
+79519,,Bonagota cranaodes,,eatenBy
+79519,,Proeulia auraria,,eatenBy
+79519,,Sparganothis pilleriana,,eatenBy
+79519,,Epiphyas postvittana,,eatenBy
+79519,,Lobesia botrana,,eatenBy
+79519,,Proeulia triquetra,,eatenBy
+79519,,Darapsa myron,,eatenBy
+79519,,Eumorpha pandorus,,eatenBy
+79519,,Synanthedon tipuliformis,,eatenBy
+79519,49348,Hyles lineata,White-lined Sphinx,eatenBy
+79519,,Pergesa acteus,,eatenBy
+79519,,Thyris sepulchralis,,eatenBy
+79519,,Hippotion celerio,,eatenBy
+79519,,Hippotion eson,,eatenBy
+79519,,Theretra alecto,,eatenBy
+79519,,Nokona regalis,,eatenBy
+79519,,Toleria,,eatenBy
+79519,,Coptobasis lunalis,,eatenBy
+79519,,Wind,,pollinatedBy

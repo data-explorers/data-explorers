@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54196,53275,Chironomidae,Non-biting Midges,eats
+54196,47120,Arthropoda,Arthropods,eats
+54196,,Cladocera,,eats
+54196,,Algae,,eats
+54196,,Caridina nilotica,,eats
+54196,,Detritus,,eats
+54196,,Phytoplankton,,eats
+54196,30106,Farancia abacura,Mudsnake,eats
+54196,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+54196,43584,Homo sapiens,Human,eatenBy
+54196,116999,Pandion haliaetus,Osprey,eatenBy
+54196,144455,Ardea alba,Great Egret,eatenBy
+54196,4940,Egretta thula,Snowy Egret,eatenBy
+54196,,Dimidiochromis kiwinge,,eatenBy
+54196,,Tyrannochromis polyodon,,eatenBy
+54196,,Nimbochromis polystigma,,eatenBy
+54196,,Sciaenochromis psammophilus,,eatenBy
+54196,,Mastacembelus cunningtoni,,eatenBy
+54196,,Neolamprologus modestus,,eatenBy
+54196,,Perissodus microlepis,,eatenBy
+54196,,Mormyrops anguilloides,,eatenBy
+54196,114736,Tyrannochromis macrostoma,Big-mouth Hap,eatenBy
+54196,,Bathyclarias worthingtoni,,eatenBy
+54196,,Rhamphochromis macrophthalmus,,eatenBy
+54196,,Sciaenochromis ahli,,eatenBy
+54196,,Dimidiochromis compressiceps,,eatenBy
+54196,,Otopharynx ovatus,,eatenBy
+54196,111628,Rhamphochromis esox,,eatenBy
+54196,,Dimidiochromis strigatus,,eatenBy
+54196,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+54196,86705,Astyanax,,eatenBy
+54196,,Hemichromis fasciatus,,eatenBy
+54196,90686,Parachanna,African Snakeheads,eatenBy
+54196,104102,Lates niloticus,Nile Perch,eatenBy
+54196,,Lates angustifrons,,eatenBy
+54196,,Diplotaxodon greenwoodi,,eatenBy
+54196,,Sargochromis codringtonii,,eatenBy
+54196,342473,Cichla temensis,Speckled Peacock Bass,eatenBy
+54196,569443,Cichla orinocensis,Orinoco Peacock Bass,eatenBy
+54196,,Hepsetus cuvieri,,eatenBy
+54196,103022,Hydrocynus forskahlii,Elongate Tigerfish,eatenBy
+54196,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+54196,97954,Clarias theodorae,Snake Catfish,eatenBy
+54196,101604,Gobiomorus dormitor,Bigmouth Sleeper,eatenBy
+54196,99788,Eleotris amblyopsis,Largescaled Spinycheek Sleeper,eatenBy
+54196,,Eleotris pisonis,,eatenBy
+54196,,Ceryle rudis,,eatenBy
+54196,,Ceryle rudis rudis,,eatenBy
+54196,,Ardeola ralloides,,eatenBy
+54196,,Megaceryle maxima maxima,,eatenBy
+54196,,Noctilio leporinus,,eatenBy
+54196,5063,Anhinga anhinga,Anhinga,eatenBy
+54196,4937,Egretta caerulea,Little Blue Heron,eatenBy
+54196,4938,Egretta tricolor,Tricolored Heron,eatenBy
+54196,,Nkhono,,preysOn
+54196,,Zooplankton,,preysOn
+54196,,Chaoborus edulis,,preysOn
+54196,,Usipa larvae,,preysOn
+54196,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+54196,4263,Phalacrocorax,Typical Cormorants and Shags,preyedUponBy
+54196,116999,Pandion haliaetus,Osprey,preyedUponBy
+54196,144455,Ardea alba,Great Egret,preyedUponBy
+54196,29980,Helicops hagmanni,Hagmann's Keelback,preyedUponBy
+54196,29976,Helicops angulatus,Mountain Keelback,preyedUponBy
+54196,29972,Helicops polylepis,Norman's Keelback,preyedUponBy
+54196,29893,Hydrops triangularis,Triangle Water Snake,preyedUponBy
+54196,29975,Helicops leopardinus,Leopard Keelback,preyedUponBy
+54196,539697,Erythrolamprus semiaureus,Golden Liophis,preyedUponBy
+54196,27329,Afronatrix anoscopus,African Brown Water Snake,preyedUponBy
+54196,,Grayia smithii,,preyedUponBy
+54196,,Dimidiochromis kiwinge,,preyedUponBy
+54196,,Tyrannochromis polyodon,,preyedUponBy
+54196,,Nimbochromis polystigma,,preyedUponBy
+54196,,Nkunga,,preyedUponBy
+54196,,Kampango,,preyedUponBy
+54196,,Crocodylus africanus,,preyedUponBy
+54196,,Bombe,,preyedUponBy
+54196,,Matemba,,preyedUponBy
+54196,,Mlamba,,preyedUponBy
+54196,,Samwamowa,,preyedUponBy
+54196,,Ardeola ralloides,,preyedUponBy
+54196,,Megaceryle maxima maxima,,preyedUponBy
+54196,,Noctilio leporinus,,preyedUponBy

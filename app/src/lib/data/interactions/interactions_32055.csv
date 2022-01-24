@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+32055,55626,Pieris rapae,Cabbage White,eats
+32055,51225,Tipulidae,Large Crane Flies,eats
+32055,358855,Gryllidea,Crickets,eats
+32055,146199,Lampropeltis californiae,California King Snake,eatenBy
+32055,20044,Bubo virginianus,Great Horned Owl,eatenBy
+32055,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+32055,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+32055,144455,Ardea alba,Great Egret,eatenBy
+32055,,Prenolepis imparis,,eatenBy
+32055,,Aquila chrysaetos,,eatenBy
+32055,57665,Cotinis mutabilis,Figeater Beetle,preysOn
+32055,36204,Sceloporus occidentalis,Western Fence Lizard,preysOn
+32055,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+32055,47144,Canis familiaris,Domestic Dog,preyedUponBy
+32055,144455,Ardea alba,Great Egret,preyedUponBy
+32055,26575,Diadophis punctatus,ring-necked snake,preyedUponBy
+32055,,Coluber lateralis lateralis,,preyedUponBy
+32055,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy
+32055,,Coluber lateralis,,preyedUponBy

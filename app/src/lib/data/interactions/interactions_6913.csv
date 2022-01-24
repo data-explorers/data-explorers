@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+6913,59110,Potamogeton,Pondweed,eats
+6913,64276,Phragmites,Common Reeds,eats
+6913,42051,Canis latrans,Coyote,eatenBy
+6913,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy

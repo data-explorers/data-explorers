@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4153,48147,Isopoda,Isopods,eats
+4153,121643,Copepoda,Copepods,eats
+4153,153112,Euphausiacea,krill,eats
+4153,47186,Decapoda,Decapods,eats
+4153,47628,Amphipoda,Amphipods,eats
+4153,49796,Stomatopoda,Mantis Shrimps,eats
+4153,121639,Brachyura,True Crabs,eats
+4153,85493,Crustacea,Crustaceans,eats
+4153,129185,Mysis,,eats
+4153,459325,Maurolicus muelleri,Pearlside,eats
+4153,,Others,,eats
+4153,,Lampichthys procerus,,eats
+4153,,,,eats
+4153,,others,,eats
+4153,,Gnathostomata,,eats
+4153,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4153,,Elaphe situla,,eatenBy
+4153,39407,Varanus griseus,Desert Monitor,eatenBy
+4153,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4153,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4153,28451,Telescopus nigriceps,Black headed snake,eatenBy

@@ -1,0 +1,238 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117650,67334,Cyanobacteria,cyanobacteria,eats
+117650,,Detritus,,eats
+117650,,plankton,,eats
+117650,,POM (detritus),,eats
+117650,,Macroalgae,,eats
+117650,,Pyrrophycophyta,,eats
+117650,,Prymnesiophyceae,,eats
+117650,,Khakista,,eats
+117650,341617,Thalassiosira,,eats
+117650,1005749,Phaeocystis pouchetii,,eats
+117650,,Nitzschia closterium,,eats
+117650,203742,Skeletonema costatum,,eats
+117650,,Podosira stelliger,,eats
+117650,,Microphytobenthos,,eats
+117650,,Tetraselmis maculata,,eats
+117650,,Phaeodactylum tricornutum,,eats
+117650,,Phytoplankton,,eats
+117650,,Prorocentrum micans,,eats
+117650,,Thalassiosira pseudonana,,eats
+117650,,Picochlorum atomus,,eats
+117650,,Alexandrium tamarense,,eats
+117650,317909,Chlorella vulgaris,,eats
+117650,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+117650,48834,Pisaster,Giant Sea Stars,eatenBy
+117650,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+117650,3938,Arenaria interpres,Ruddy Turnstone,eatenBy
+117650,447552,Maja brachydactyla,Spiny Spider Crab,eatenBy
+117650,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+117650,54509,Octopus bimaculoides,Lesser Two-spot Octopus,eatenBy
+117650,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+117650,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+117650,118601,Trisopterus luscus,Pouting,eatenBy
+117650,430553,Merlangius merlangus,Whiting,eatenBy
+117650,48397,Raja clavata,Thornback Skate,eatenBy
+117650,97345,Chelon labrosus,thicklip grey mullet,eatenBy
+117650,47518,Salmo trutta,Brown Trout,eatenBy
+117650,481841,Microstomus kitt,Lemon Sole,eatenBy
+117650,97990,Clupea harengus,Atlantic Herring,eatenBy
+117650,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+117650,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+117650,89001,Hyperoplus,,eatenBy
+117650,109631,Platichthys flesus,European Flounder,eatenBy
+117650,47523,Pleuronectes platessa,European Plaice,eatenBy
+117650,483237,Zoarces viviparus,Viviparous Blenny,eatenBy
+117650,61387,Limanda limanda,Sand Dab,eatenBy
+117650,63740,Gadus morhua,Atlantic Cod,eatenBy
+117650,152974,Pholis gunnellus,Rock gunnel,eatenBy
+117650,,Leptasterias,,eatenBy
+117650,193907,Thais,,eatenBy
+117650,367966,Ammodytes tobianus,Lesser Sand Lance,eatenBy
+117650,7024,Somateria mollissima,Common Eider,eatenBy
+117650,204496,Corvus corone,Carrion Crow,eatenBy
+117650,344748,Pomatoschistus minutus,Sand Goby,eatenBy
+117650,118851,Crangon crangon,Brown Shrimp,eatenBy
+117650,7067,Tadorna tadorna,Common Shelduck,eatenBy
+117650,110042,Pomatoschistus microps,Common Goby,eatenBy
+117650,4843,Haematopus ostralegus,Eurasian Oystercatcher,eatenBy
+117650,3857,Calidris alpina,Dunlin,eatenBy
+117650,,Sterna sandvicensis,,eatenBy
+117650,4368,Larus marinus,Great Black-backed Gull,eatenBy
+117650,292601,Stramonita canaliculata,Hays' Rocksnail,eatenBy
+117650,47674,Pycnopodia,,eatenBy
+117650,,Himasthla interrupta,,eatenBy
+117650,,Psilostomum brevicolle,,eatenBy
+117650,,Polymorphus botulus,,eatenBy
+117650,,Himasthla elongata,,eatenBy
+117650,142276,Tetanocera,,eatenBy
+117650,223890,Liparis callyodon,Spotted Snailfish,eatenBy
+117650,131491,Rachycentron canadum,Cobia,eatenBy
+117650,,Enchelyopus cimbrius,,eatenBy
+117650,98753,Ctenolabrus rupestris,Goldsinny Wrasse,eatenBy
+117650,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+117650,98089,Cnidoglanis macrocephalus,Estuary Cobbler,eatenBy
+117650,,Liopsetta glacialis,,eatenBy
+117650,51392,Morone saxatilis,Striped Bass,eatenBy
+117650,,Calidris maritima,,eatenBy
+117650,326443,Hexaplex trunculus,Banded Dye-murex,eatenBy
+117650,7030,Somateria spectabilis,King Eider,eatenBy
+117650,7164,Polysticta stelleri,Steller's Eider,eatenBy
+117650,81612,Rhithropanopeus harrisii,White-tipped Mud Crab,eatenBy
+117650,7170,Clangula hyemalis,Long-tailed Duck,eatenBy
+117650,144221,Melanitta nigra,Common Scoter,eatenBy
+117650,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+117650,293174,Mediaster aequalis,Vermilion Star,eatenBy
+117650,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+117650,41850,Lutra lutra,Eurasian Otter,eatenBy
+117650,41644,Ursus maritimus,Polar Bear,eatenBy
+117650,41733,Halichoerus grypus,Grey Seal,eatenBy
+117650,144222,Melanitta deglandi,White-winged Scoter,eatenBy
+117650,61383,Homarus americanus,American Lobster,eatenBy
+117650,,Corvus caurinus,,eatenBy
+117650,6924,Anas rubripes,American Black Duck,eatenBy
+117650,7047,Aythya marila,Greater Scaup,eatenBy
+117650,6990,Bucephala clangula,Common Goldeneye,eatenBy
+117650,6994,Bucephala islandica,Barrow's Goldeneye,eatenBy
+117650,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+117650,7031,Melanitta,Scoters,eatenBy
+117650,3739,Threskiornis aethiopicus,African Sacred Ibis,eatenBy
+117650,47126,Plantae,plants,preysOn
+117650,1,Animalia,Animals,preysOn
+117650,118996,Ciliophora,Ciliates,preysOn
+117650,126917,Rotifera,Rotifers,preysOn
+117650,117650,Mytilus edulis,Blue Mussel,preysOn
+117650,,Cryptocotyle concavum,,preysOn
+117650,,Levinseniella brachysoma,,preysOn
+117650,,Podocotyle atomon,,preysOn
+117650,,Cryptocotyle jejuna,,preysOn
+117650,,Maritrema subdolum,,preysOn
+117650,,Cryptocotyle lingua,,preysOn
+117650,,Microphallus claviformis,,preysOn
+117650,,Ceracaria #15,,preysOn
+117650,,Gymnophallus choledochus,,preysOn
+117650,,Labratrema minumus,,preysOn
+117650,,Protista,,preysOn
+117650,,Deropristis inflata,,preysOn
+117650,,plankton,,preysOn
+117650,130385,Palaemon serratus,Common Prawn,preysOn
+117650,,Microcalanus pusillis,,preysOn
+117650,,Centropages typicus,,preysOn
+117650,,Thalestris rufovalescans,,preysOn
+117650,203467,Temora longicornis,,preysOn
+117650,,Eucalanus elongatus elongatus,,preysOn
+117650,118851,Crangon crangon,Brown Shrimp,preysOn
+117650,203477,Evadne nordmanni,,preysOn
+117650,1110968,Podon intermedius,,preysOn
+117650,117678,Tigriopus californicus,,preysOn
+117650,,Eutemora hirundoides,,preysOn
+117650,480415,Acartia clausi,,preysOn
+117650,,Tigriopus brevicornis,,preysOn
+117650,,Diosaccuss tenuicornis,,preysOn
+117650,,Osteichthyes,,preysOn
+117650,203475,Metridia lucens,,preysOn
+117650,,Paracalanus parvus,,preysOn
+117650,,Obelia geniculata,,preysOn
+117650,346580,Calanus helgolandicus,,preysOn
+117650,,Zaus spinatus,,preysOn
+117650,329013,Pseudocalanus elongatus,,preysOn
+117650,52523,Carcinus maenas,European Green Crab,preyedUponBy
+117650,6930,Anas platyrhynchos,Mallard,preyedUponBy
+117650,48834,Pisaster,Giant Sea Stars,preyedUponBy
+117650,203761,Nucella lapillus,Atlantic Dogwhelk,preyedUponBy
+117650,101053,Fundulus diaphanus,banded killifish,preyedUponBy
+117650,49504,Callinectes sapidus,Atlantic Blue Crab,preyedUponBy
+117650,54539,Syngnathus,Pipe-fishes,preyedUponBy
+117650,132473,Lagodon rhomboides,Pinfish,preyedUponBy
+117650,467402,Ocenebra erinaceus,European Sting Winkle,preyedUponBy
+117650,49606,Balistes capriscus,Grey Triggerfish,preyedUponBy
+117650,117650,Mytilus edulis,Blue Mussel,preyedUponBy
+117650,41526,Delphinus delphis,Short-beaked Common Dolphin,preyedUponBy
+117650,54509,Octopus bimaculoides,Lesser Two-spot Octopus,preyedUponBy
+117650,3845,Calidris canutus,Red Knot,preyedUponBy
+117650,4889,Pluvialis apricaria,European Golden Plover,preyedUponBy
+117650,4843,Haematopus ostralegus,Eurasian Oystercatcher,preyedUponBy
+117650,109631,Platichthys flesus,European Flounder,preyedUponBy
+117650,120138,Asterias rubens,Common Sea Star,preyedUponBy
+117650,118851,Crangon crangon,Brown Shrimp,preyedUponBy
+117650,3857,Calidris alpina,Dunlin,preyedUponBy
+117650,,Chroicocephalus ridibundus,,preyedUponBy
+117650,3896,Numenius arquata,Eurasian Curlew,preyedUponBy
+117650,152975,Pagurus bernhardus,Common Hermit Crab,preyedUponBy
+117650,7024,Somateria mollissima,Common Eider,preyedUponBy
+117650,483237,Zoarces viviparus,Viviparous Blenny,preyedUponBy
+117650,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+117650,4356,Larus canus,Mew Gull,preyedUponBy
+117650,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+117650,204533,Larus argentatus,Herring Gull,preyedUponBy
+117650,292601,Stramonita canaliculata,Hays' Rocksnail,preyedUponBy
+117650,142276,Tetanocera,,preyedUponBy
+117650,47674,Pycnopodia,,preyedUponBy
+117650,,Leptasterias,,preyedUponBy
+117650,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+117650,204496,Corvus corone,Carrion Crow,preyedUponBy
+117650,367966,Ammodytes tobianus,Lesser Sand Lance,preyedUponBy
+117650,110042,Pomatoschistus microps,Common Goby,preyedUponBy
+117650,4368,Larus marinus,Great Black-backed Gull,preyedUponBy
+117650,7067,Tadorna tadorna,Common Shelduck,preyedUponBy
+117650,344748,Pomatoschistus minutus,Sand Goby,preyedUponBy
+117650,3879,Tringa totanus,Common Redshank,preyedUponBy
+117650,,Limulus polyphemus,,preyedUponBy
+117650,,Etrumeus teres,,preyedUponBy
+117650,39836,Malaclemys terrapin,Diamondback Terrapin,preyedUponBy
+117650,83439,Centropristis striata,Black Sea Bass,preyedUponBy
+117650,179620,Cynoscion nebulosus,Spotted Seatrout,preyedUponBy
+117650,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy
+117650,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+117650,216647,Chasmodes bosquianus,Striped Blenny,preyedUponBy
+117650,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+117650,179427,Aluterus schoepfii,Orange Filefish,preyedUponBy
+117650,104824,Lucania parva,rainwater killifish,preyedUponBy
+117650,56042,Prionotus carolinus,Northern Searobin,preyedUponBy
+117650,61388,Scophthalmus aquosus,Windowpane Flounder,preyedUponBy
+117650,146600,Micropogonias undulatus,Atlantic Croaker,preyedUponBy
+117650,213402,Ammodytes americanus,American Sand Lance,preyedUponBy
+117650,82264,Chilomycterus schoepfii,Striped Burrfish,preyedUponBy
+117650,93844,Ameiurus catus,White Catfish,preyedUponBy
+117650,131491,Rachycentron canadum,Cobia,preyedUponBy
+117650,49823,Acipenser brevirostrum,Shortnose Sturgeon,preyedUponBy
+117650,179454,Syacium papillosum,Dusky Flounder,preyedUponBy
+117650,317228,Mullus auratus,Red Goatfish,preyedUponBy
+117650,179598,Eucinostomus gula,Silver Jenny,preyedUponBy
+117650,62393,Cancer borealis,Jonah Crab,preyedUponBy
+117650,93187,Acipenser oxyrinchus,Atlantic Sturgeon,preyedUponBy
+117650,56043,Stenotomus chrysops,Scup,preyedUponBy
+117650,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+117650,48902,Asterias forbesi,Forbes's Sea Star,preyedUponBy
+117650,179447,Trachurus lathami,Rough Scad,preyedUponBy
+117650,179444,Upeneus parvus,Dwarf Goatfish,preyedUponBy
+117650,51371,Pseudopleuronectes americanus,Winter Flounder,preyedUponBy
+117650,179445,Trachinotus falcatus,Permit,preyedUponBy
+117650,152971,Alitta virens,King Ragworm,preyedUponBy
+117650,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+117650,,Lepsiella albomarginata,,preyedUponBy
+117650,,Asterina gibbosa,,preyedUponBy
+117650,61387,Limanda limanda,Sand Dab,preyedUponBy
+117650,527655,Liocarcinus navigator,Arch-fronted Swimming Crab,preyedUponBy
+117650,98753,Ctenolabrus rupestris,Goldsinny Wrasse,preyedUponBy
+117650,53607,Polynoidae,Scaleworms,preyedUponBy
+117650,471086,Liocarcinus corrugatus,Wrinkled Swimming Crab,preyedUponBy
+117650,113533,Symphodus melops,Corkwing Wrasse,preyedUponBy
+117650,210219,Necora puber,Velvet Swimming Crab,preyedUponBy
+117650,94105,Anguilla anguilla,European Eel,preyedUponBy
+117650,,Gadhus morhua,,preyedUponBy
+117650,118619,Mullus surmuletus,Striped Red Mullet,preyedUponBy
+117650,125291,Molva molva,European Ling,preyedUponBy
+117650,481841,Microstomus kitt,Lemon Sole,preyedUponBy
+117650,,Xantho incisus,,preyedUponBy
+117650,103913,Labrus mixtus,Cuckoo Wrasse,preyedUponBy
+117650,228496,Pollachius virens,Pollock,preyedUponBy
+117650,120553,Cancer pagurus,Edible Crab,preyedUponBy
+117650,,Trisopterus minutus,,preyedUponBy
+117650,118657,Pagellus bogaraveo,Blackspot Seabream,preyedUponBy
+117650,55396,Solea solea,Common Sole,preyedUponBy
+117650,223890,Liparis callyodon,Spotted Snailfish,preyedUponBy
+117650,7170,Clangula hyemalis,Long-tailed Duck,preyedUponBy
+117650,144221,Melanitta nigra,Common Scoter,preyedUponBy
+117650,,Enchelyopus cimbrius,,preyedUponBy
+117650,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy

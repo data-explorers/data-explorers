@@ -1,0 +1,78 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56943,47459,Cephalopoda,Cephalopods,eats
+56943,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+56943,47178,Actinopterygii,Ray-finned Fishes,eats
+56943,85493,Crustacea,Crustaceans,eats
+56943,117668,Pleuroncodes,,eats
+56943,47628,Amphipoda,Amphipods,eats
+56943,195355,Hyperiidae,,eats
+56943,51911,Engraulidae,Anchovies,eats
+56943,253735,Thysanoteuthis rhombus,Diamondback Squid,eats
+56943,47115,Mollusca,Molluscs,eats
+56943,47232,Carangidae,Jacks,eats
+56943,49612,Balistidae,Triggerfishes,eats
+56943,56943,Katsuwonus pelamis,Skipjack Tuna,eats
+56943,49796,Stomatopoda,Mantis Shrimps,eats
+56943,494368,Nyctiphanes australis,,eats
+56943,,Gnathostomata,,eats
+56943,,,,eats
+56943,177104,Auxis thazard,Frigate Tuna,eats
+56943,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+56943,317451,Vinciguerria nimbaria,Narooma Lightfish,eats
+56943,,epipelagic miconekton,,eats
+56943,,mesopelagic micronekton,,eats
+56943,,Phytoplankton,,eats
+56943,513678,Dussumieriidae,Rainbow Sardines and Red-eye Round Herrings,eats
+56943,,Decabrachia,,eats
+56943,,Osteichthyes,,eats
+56943,41525,Delphinus capensis,Long-beaked Common Dolphin,eatenBy
+56943,47273,Elasmobranchii,Elasmobranchs,eatenBy
+56943,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,eatenBy
+56943,56943,Katsuwonus pelamis,Skipjack Tuna,eatenBy
+56943,69676,Thunnus,Bluefin Tunas,eatenBy
+56943,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+56943,114122,Thunnus alalunga,Albacore,eatenBy
+56943,47257,Acanthocybium solandri,Wahoo,eatenBy
+56943,3793,Sula sula,Red-footed Booby,eatenBy
+56943,3797,Sula leucogaster,Brown Booby,eatenBy
+56943,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+56943,4535,Anous stolidus,Brown Noddy,eatenBy
+56943,3788,Sula dactylatra,Masked Booby,eatenBy
+56943,4636,Fregata minor,Great Frigatebird,eatenBy
+56943,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+56943,47537,Makaira mazara,Indo-Pacific Blue Marlin,eatenBy
+56943,187569,Istiompax indica,Black Marlin,eatenBy
+56943,188555,Tetrapturus angustirostris,Shortbill Spearfish,eatenBy
+56943,177104,Auxis thazard,Frigate Tuna,eatenBy
+56943,147455,Makaira nigricans,Blue Marlin,eatenBy
+56943,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+56943,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+56943,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+56943,4566,Gygis alba,White Tern,eatenBy
+56943,4537,Anous minutus,Black Noddy,eatenBy
+56943,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+56943,4101,Puffinus nativitatis,Christmas Shearwater,eatenBy
+56943,153112,Euphausiacea,krill,preysOn
+56943,253735,Thysanoteuthis rhombus,Diamondback Squid,preysOn
+56943,47178,Actinopterygii,Ray-finned Fishes,preysOn
+56943,47459,Cephalopoda,Cephalopods,preysOn
+56943,56943,Katsuwonus pelamis,Skipjack Tuna,preysOn
+56943,494368,Nyctiphanes australis,,preysOn
+56943,,tuna 1,,preysOn
+56943,,tuna 2,,preysOn
+56943,317451,Vinciguerria nimbaria,Narooma Lightfish,preysOn
+56943,118677,Auxis rochei,Bullet Tuna,preysOn
+56943,177104,Auxis thazard,Frigate Tuna,preysOn
+56943,95066,Balistes vetula,Queen Triggerfish,preysOn
+56943,47273,Elasmobranchii,Elasmobranchs,preyedUponBy
+56943,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy
+56943,56943,Katsuwonus pelamis,Skipjack Tuna,preyedUponBy
+56943,69676,Thunnus,Bluefin Tunas,preyedUponBy
+56943,69677,Isurus oxyrinchus,Shortfin Mako,preyedUponBy
+56943,47257,Acanthocybium solandri,Wahoo,preyedUponBy
+56943,47537,Makaira mazara,Indo-Pacific Blue Marlin,preyedUponBy
+56943,187569,Istiompax indica,Black Marlin,preyedUponBy
+56943,,no name,,preyedUponBy
+56943,52315,Carcharhinus albimarginatus,Silvertip Shark,preyedUponBy
+56943,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy
+56943,147455,Makaira nigricans,Blue Marlin,preyedUponBy

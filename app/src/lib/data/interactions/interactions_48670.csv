@@ -1,0 +1,86 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48670,40151,Mammalia,Mammals,eats
+48670,56955,Helianthus,sunflowers,eats
+48670,72378,Stipa,Needle Grasses,eats
+48670,52693,Agrostis,bent grass,eats
+48670,71950,Agropyron,,eats
+48670,12937,Sialia mexicana,Western Bluebird,eatenBy
+48670,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+48670,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48670,17009,Sayornis saya,Say's Phoebe,eatenBy
+48670,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+48670,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+48670,3759,Plegadis chihi,White-faced Ibis,eatenBy
+48670,14850,Sturnus vulgaris,European Starling,eatenBy
+48670,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+48670,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+48670,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+48670,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+48670,8229,Cyanocitta cristata,Blue Jay,eatenBy
+48670,4940,Egretta thula,Snowy Egret,eatenBy
+48670,5020,Butorides virescens,Green Heron,eatenBy
+48670,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+48670,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+48670,4200,Halobaena caerulea,Blue Petrel,eatenBy
+48670,201216,Turdus libonyana,Kurrichane Thrush,eatenBy
+48670,59281,Thomisus onustus,Pink Crab Spider,eatenBy
+48670,609411,Brycon dentex,,eatenBy
+48670,17943,Dendrocopos leucotos,White-backed Woodpecker,eatenBy
+48670,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+48670,,Dendrocopos minor,,eatenBy
+48670,,Dendrocopos medius,,eatenBy
+48670,13094,Erithacus rubecula,European Robin,eatenBy
+48670,12716,Turdus merula,Eurasian Blackbird,eatenBy
+48670,,Caprimulgus vociferus,,eatenBy
+48670,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48670,4937,Egretta caerulea,Little Blue Heron,eatenBy
+48670,519,Porphyrio martinica,Purple Gallinule,eatenBy
+48670,931,Lagopus lagopus,Willow Ptarmigan,eatenBy
+48670,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+48670,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+48670,,Salpinctes obsoletus,,eatenBy
+48670,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+48670,,Setophaga pinus,,eatenBy
+48670,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+48670,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+48670,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+48670,,Corvus caurinus,,eatenBy
+48670,,Picoides pubescens,,eatenBy
+48670,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+48670,,Picoides villosus,,eatenBy
+48670,19577,Chordeiles minor,Common Nighthawk,eatenBy
+48670,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+48670,4938,Egretta tricolor,Tricolored Heron,eatenBy
+48670,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+48670,76158,Catalpa speciosa,northern catalpa,pollinates
+48670,,Manfreda virginica,,pollinates
+48670,48031,Platanthera,,pollinates
+48670,53802,Abronia umbellata breviflora,Pink Sand Verbena,pollinates
+48670,54639,Platanthera chlorantha,Greater butterfly-orchid,pollinates
+48670,144152,Saxifraga aizoides,Yellow Saxifrage,pollinates
+48670,167346,Potentilla crantzii,Alpine Cinquefoil,pollinates
+48670,130478,Astragalus alpinus,Alpine Milkvetch,pollinates
+48670,144183,Diapensia lapponica,Diapensia,pollinates
+48670,83541,Dryas octopetala,Mountain Avens,pollinates
+48670,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+48670,49552,Scutigera coleoptrata,House Centipede,preyedUponBy
+48670,41090,Glossophaga soricina,Pallas's Long-tongued Bat,preyedUponBy
+48670,7998,Corvus,Crows and Ravens,preyedUponBy
+48670,577752,Amyotea malabarica,,preyedUponBy
+48670,59281,Thomisus onustus,Pink Crab Spider,preyedUponBy
+48670,486706,Dasysyrphus tricinctus,Yellow-girdled Fleckwing,preyedUponBy
+48670,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+48670,40705,Rhinolophus lepidus,Blyth's Horseshoe Bat,preyedUponBy
+48670,40689,Rhinolophus macrotis,big-eared horseshoe bat,preyedUponBy
+48670,40657,Rhinolophus pearsonii,Pearson's Horseshoe Bat,preyedUponBy
+48670,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+48670,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy
+48670,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+48670,,Plecotus auritus,,preyedUponBy
+48670,41254,Molossus molossus,Velvety Free-tailed Bat,preyedUponBy
+48670,207811,Eptesicus serotinus,Serotine Bat,preyedUponBy
+48670,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+48670,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+48670,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+48670,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy
+48670,41146,Macrotus waterhousii,Waterhouse's Leaf-nosed Bat,preyedUponBy

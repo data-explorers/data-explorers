@@ -1,0 +1,63 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59635,47645,Cottidae,Typical Sculpins,eatenBy
+59635,85641,Bothidae,Lefteye Flounders,eatenBy
+59635,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+59635,94130,Anisotremus davidsonii,Sargo,eatenBy
+59635,317117,Gobiesox rhessodon,California clingfish,eatenBy
+59635,53699,Semicossyphus pulcher,California sheephead,eatenBy
+59635,64455,Sebastes carnatus,Gopher Rockfish,eatenBy
+59635,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,eatenBy
+59635,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+59635,48833,Pisaster giganteus,Giant Sea Star,eatenBy
+59635,49539,Pisaster brevispinus,Giant Pink Sea Star,eatenBy
+59635,48452,Oxylebius pictus,Painted greenling,eatenBy
+59635,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+59635,317369,Sebastes serranoides,olive rockfish,eatenBy
+59635,88489,Gibbonsia,Northeastern Pacific Kelpfishes,eatenBy
+59635,117550,Gibbonsia montereyensis,Crevice Kelpfish,eatenBy
+59635,117561,Phanerodon furcatus,White surfperch,eatenBy
+59635,111616,Rhacochilus vacca,Pile surfperch,eatenBy
+59635,117554,Embiotoca jacksoni,Black surfperch,eatenBy
+59635,117558,Hypsurus caryi,Rainbow Seaperch,eatenBy
+59635,98855,Cymatogaster aggregata,Shiner Surfperch,eatenBy
+59635,117542,Citharichthys stigmaeus,speckled sanddab,eatenBy
+59635,68596,Hexagrammos decagrammus,Kelp Greenling,eatenBy
+59635,117555,Embiotoca lateralis,Striped surfperch,eatenBy
+59635,105388,Medialuna californiensis,Halfmoon,eatenBy
+59635,117553,Brachyistius frenatus,Kelp Surfperch,eatenBy
+59635,223141,Leiocottus hirundo,lavender sculpin,eatenBy
+59635,53693,Hypsypops rubicundus,Garibaldi,eatenBy
+59635,317267,Orthonopias triacis,Snubnose Sculpin,eatenBy
+59635,132521,Rhinogobiops nicholsii,Blackeye goby,eatenBy
+59635,108547,Paralabrax clathratus,Kelp Bass,eatenBy
+59635,47645,Cottidae,Typical Sculpins,preyedUponBy
+59635,94130,Anisotremus davidsonii,Sargo,preyedUponBy
+59635,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+59635,111616,Rhacochilus vacca,Pile surfperch,preyedUponBy
+59635,117542,Citharichthys stigmaeus,speckled sanddab,preyedUponBy
+59635,117550,Gibbonsia montereyensis,Crevice Kelpfish,preyedUponBy
+59635,132521,Rhinogobiops nicholsii,Blackeye goby,preyedUponBy
+59635,117558,Hypsurus caryi,Rainbow Seaperch,preyedUponBy
+59635,88489,Gibbonsia,Northeastern Pacific Kelpfishes,preyedUponBy
+59635,48452,Oxylebius pictus,Painted greenling,preyedUponBy
+59635,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,preyedUponBy
+59635,317369,Sebastes serranoides,olive rockfish,preyedUponBy
+59635,68596,Hexagrammos decagrammus,Kelp Greenling,preyedUponBy
+59635,117555,Embiotoca lateralis,Striped surfperch,preyedUponBy
+59635,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+59635,98855,Cymatogaster aggregata,Shiner Surfperch,preyedUponBy
+59635,,Pleuronectiformes,,preyedUponBy
+59635,117554,Embiotoca jacksoni,Black surfperch,preyedUponBy
+59635,223141,Leiocottus hirundo,lavender sculpin,preyedUponBy
+59635,53699,Semicossyphus pulcher,California sheephead,preyedUponBy
+59635,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+59635,64455,Sebastes carnatus,Gopher Rockfish,preyedUponBy
+59635,53693,Hypsypops rubicundus,Garibaldi,preyedUponBy
+59635,317267,Orthonopias triacis,Snubnose Sculpin,preyedUponBy
+59635,49539,Pisaster brevispinus,Giant Pink Sea Star,preyedUponBy
+59635,117553,Brachyistius frenatus,Kelp Surfperch,preyedUponBy
+59635,117561,Phanerodon furcatus,White surfperch,preyedUponBy
+59635,48833,Pisaster giganteus,Giant Sea Star,preyedUponBy
+59635,47669,Orthasterias koehleri,Rainbow Star,preyedUponBy
+59635,108547,Paralabrax clathratus,Kelp Bass,preyedUponBy
+59635,317117,Gobiesox rhessodon,California clingfish,preyedUponBy

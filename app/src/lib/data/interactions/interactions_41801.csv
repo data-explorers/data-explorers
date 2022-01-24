@@ -1,0 +1,78 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41801,44396,Peromyscus maniculatus,Deer Mouse,eats
+41801,520586,Tamias,,eats
+41801,46341,Soricidae,Shrews,eats
+41801,7107,Aix sponsa,Wood Duck,eats
+41801,46217,Tamias striatus,Eastern Chipmunk,eats
+41801,72458,Actitis macularius,Spotted Sandpiper,eats
+41801,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+41801,46272,Glaucomys volans,Southern Flying Squirrel,eats
+41801,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+41801,4246,Podilymbus podiceps,Pied-billed Grebe,eats
+41801,10094,Junco hyemalis,Dark-eyed Junco,eats
+41801,20445,Tyto alba,Barn Owl,eats
+41801,44311,Microtus pennsylvanicus,Meadow Vole,eats
+41801,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+41801,44395,Peromyscus leucopus,White-footed Mouse,eats
+41801,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+41801,59815,Sorex cinereus,Masked Shrew,eats
+41801,44576,Rattus norvegicus,Brown Rat,eats
+41801,4783,Charadriidae,Plovers and Lapwings,eats
+41801,44349,Peromyscus,North American Deer Mice,eats
+41801,44185,Muridae,Old World Mice and Rats,eats
+41801,9135,Spizella passerina,Chipping Sparrow,eats
+41801,13547,Paridae,"Tits, Chickadees, and Titmice",eats
+41801,,Arvicolinae,,eats
+41801,,Ochotonidae,,eats
+41801,,Salmo,,eats
+41801,,Glaucomys sabrinus,,eats
+41801,,Tamias alpinus,,eats
+41801,,Eliomys quercinus,,eats
+41801,,Zapus princeps,,eats
+41801,,Spermophilus beecheyi,,eats
+41801,28562,Storeria dekayi,Dekay's Brownsnake,eats
+41801,28423,Thamnophis butleri,Butler's Garter Snake,eats
+41801,,Avahi laniger,,eats
+41801,,Spermophilus lateralis,,eats
+41801,4356,Larus canus,Mew Gull,eats
+41801,46255,Ammospermophilus leucurus,White-tailed Antelope Squirrel,eats
+41801,,Anas strepera,,eats
+41801,,Microtus ochrogaster,,eats
+41801,46407,Sorex dispar,Gray Long-tailed Shrew,eats
+41801,,Peromyscus polionotus,,eats
+41801,,Peromyscus gossypinus,,eats
+41801,46414,Sorex araneus,Common Shrew,eats
+41801,44066,Thomomys talpoides,Northern Pocket Gopher,eats
+41801,,Peromyscus boylii,,eats
+41801,44705,Mus musculus,House Mouse,eats
+41801,,Lemmings,,eats
+41801,15681,Calcarius,Typical Longspurs,eats
+41801,,chipmunks - ground squirrels,,eats
+41801,,voles - mice,,eats
+41801,,Phylloscopus,,eats
+41801,12748,Turdus philomelos,Song Thrush,eats
+41801,42051,Canis latrans,Coyote,eatenBy
+41801,42069,Vulpes vulpes,Red Fox,eatenBy
+41801,19350,Strigiformes,Owls,eatenBy
+41801,20044,Bubo virginianus,Great Horned Owl,eatenBy
+41801,19893,Strix varia,Barred Owl,eatenBy
+41801,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+41801,42048,Canis lupus,Gray Wolf,eatenBy
+41801,851014,Canis aureus,Golden Jackal,eatenBy
+41801,41798,Martes americana,American Marten,eatenBy
+41801,,Martes pennanti,,eatenBy
+41801,569428,Mustela nivalis,Least Weasel,eatenBy
+41801,,Uncia uncia,,eatenBy
+41801,41967,Panthera tigris,Tiger,eatenBy
+41801,4479,Stercorarius,Skuas and Jaegers,eatenBy
+41801,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+41801,41813,Mustela sibirica,Siberian Weasel,eatenBy
+41801,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+41801,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+41801,43095,Leporidae,Hares and Rabbits,preysOn
+41801,45933,Sciuridae,Squirrels,preysOn
+41801,12748,Turdus philomelos,Song Thrush,preysOn
+41801,,Phylloscopus collybita,,preysOn
+41801,,vole (microtus),,preysOn
+41801,43584,Homo sapiens,Human,preyedUponBy
+41801,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy

@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61168,61168,Arum italicum,Italian arum,eats
+61168,8010,Corvus corax,Common Raven,eatenBy
+61168,61168,Arum italicum,Italian arum,eatenBy
+61168,,Lophophanes cristatus,,eatenBy
+61168,,Turdus iliacus,,eatenBy
+61168,,Periparus ater,,eatenBy
+61168,204496,Corvus corone,Carrion Crow,eatenBy
+61168,,Sitta europaea,,eatenBy
+61168,,Sylvia melanocephala,,eatenBy
+61168,,Sylvia communis,,eatenBy
+61168,,Garrulus glandarius,,eatenBy
+61168,12735,Turdus viscivorus,Mistle Thrush,eatenBy
+61168,,Columba palumbus,,eatenBy
+61168,,Phoenicurus phoenicurus,,eatenBy
+61168,,Carduelis citrinella,,eatenBy
+61168,,Loxia curvirostra,,eatenBy
+61168,12748,Turdus philomelos,Song Thrush,eatenBy
+61168,,Parus major,,eatenBy
+61168,,Sylvia conspicillata,,eatenBy
+61168,,Sylvia cantillans,,eatenBy
+61168,,Cyanistes caeruleus,,eatenBy
+61168,,Serinus serinus,,eatenBy
+61168,13094,Erithacus rubecula,European Robin,eatenBy
+61168,12740,Turdus torquatus,Ring Ouzel,eatenBy
+61168,15302,Sylvia borin,Garden Warbler,eatenBy
+61168,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+61168,12707,Turdus pilaris,Fieldfare,eatenBy
+61168,891696,Pica pica,Eurasian Magpie,eatenBy
+61168,,Coccothraustes coccothraustes,,eatenBy
+61168,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+61168,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+61168,,Phoenicurus ochruros,,eatenBy
+61168,,Emberiza,,eatenBy
+61168,12716,Turdus merula,Eurasian Blackbird,eatenBy
+61168,,Ficedula hypoleuca,,eatenBy

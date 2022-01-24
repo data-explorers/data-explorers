@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58319,346970,Callophrys dumetorum,Lotus Hairstreak,eatenBy
+58319,343234,Litocala sexsignata,Litocala Moth,eatenBy
+58319,,Aphis farinosa,,eatenBy
+58319,,Callophrys augustinus,,eatenBy
+58319,,Aculus laevigatae,,eatenBy
+58319,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

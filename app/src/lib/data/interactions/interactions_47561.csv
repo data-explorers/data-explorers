@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47561,44349,Peromyscus,North American Deer Mice,eatenBy
+47561,52381,Aphididae,Aphids,eatenBy
+47561,42219,Odocoileus,White-tailed and Mule Deer,eatenBy
+47561,53237,Cicadellidae,Typical Leafhoppers,eatenBy
+47561,47170,Fungi,Fungi Including Lichens,eatenBy
+47561,82044,Monochamus,Sawyer Beetles,eatenBy
+47561,69758,Lumbricidae,Earthworms,eatenBy
+47561,91217,Polygyra,Flatcoils,eatenBy
+47561,133824,Chrysobothris,,eatenBy
+47561,124184,Plodia interpunctella,Indian-Meal Moth,eatenBy
+47561,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+47561,81681,Campaea perlata,Pale Beauty,eatenBy
+47561,50931,Strymon melinus,Gray Hairstreak,eatenBy
+47561,127510,Fomes fomentarius,Hoof Fungus,eatenBy
+47561,54134,Trametes versicolor,turkey-tail,eatenBy
+47561,490642,Ischnoderma benzoinum,Benzoin Bracket,eatenBy
+47561,48473,Ganoderma applanatum,artist's bracket,eatenBy
+47561,154450,Tapinella atrotomentosa,Velvet-footed Pax,eatenBy
+47561,53713,Laetiporus sulphureus,chicken of the woods,eatenBy
+47561,118494,Macaria,,eatenBy
+47561,42158,Cervidae,Deer,eatenBy
+47561,47219,Apis mellifera,Western Honey Bee,eatenBy
+47561,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+47561,48662,Danaus plexippus,Monarch,eatenBy
+47561,46260,Tamiasciurus hudsonicus,American Red Squirrel,eatenBy
+47561,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+47561,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+47561,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+47561,46023,Sciurus griseus,Western Gray Squirrel,eatenBy
+47561,9915,Piranga rubra,Summer Tanager,eatenBy
+47561,46020,Sciurus niger,Fox Squirrel,eatenBy
+47561,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47561,7044,Aythya collaris,Ring-necked Duck,eatenBy
+47561,203907,Retinia,Pine Shoot Moths,eatenBy
+47561,,Dilachnus,,eatenBy
+47561,,Panolis griseovariegata,,eatenBy
+47561,,Oenerostoma piniariella,,eatenBy
+47561,178129,Gelechia,,eatenBy
+47561,44010,Erethizontidae,New World Porcupines,eatenBy
+47561,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+47561,179974,Spermophilus,Old World Ground Squirrels,eatenBy
+47561,46018,Sciurus aberti,Abert's Squirrel,eatenBy
+47561,60812,Lucanus capreolus,Reddish-brown Stag Beetle,eatenBy
+47561,222269,Ips grandicollis,Eastern Fivespined Ips,eatenBy
+47561,177077,Melanotus,,eatenBy
+47561,212208,Acanthocinus obsoletus,,eatenBy
+47561,146918,Chalcophora,Sculptured Pine Borers,eatenBy
+47561,171854,Philomycus,,eatenBy
+47561,222267,Ips calligraphus,Sixspined Ips,eatenBy
+47561,122214,Odontotaenius disjunctus,Horned Passalus Beetle,eatenBy
+47561,131818,Rhagium,,eatenBy
+47561,177484,Leptura,,eatenBy
+47561,173661,Elater,,eatenBy
+47561,,Fontaria coriacea,,eatenBy
+47561,,Pithyophthorus annectens,,eatenBy
+47561,48914,Dendroctonus,,eatenBy
+47561,1172886,Ischiodontus,,eatenBy
+47561,,Pithyophthorus pullus,,eatenBy
+47561,,Drapites,,eatenBy
+47561,87131,Buprestis,,eatenBy
+47561,215926,Cambala annulata,,eatenBy
+47561,135253,Pseudopolydesmus serratus,,eatenBy
+47561,174420,Centronopus,,eatenBy
+47561,143662,Orthosoma brunneum,Brown Prionid Beetle,eatenBy
+47561,233864,Xylotrechus sagittatus,Arrowhead Borer,eatenBy
+47561,171448,Entomobrya,,eatenBy
+47561,219844,Eupogonius tomentosus,,eatenBy
+47561,228180,Pissodes nemorensis,Deodar Weevil,eatenBy
+47561,215731,Callidium antennatum,Blackhorned Pine Borer,eatenBy
+47561,176306,Orthotomicus,,eatenBy
+47561,234004,Zonitoides arboreus,Quick Gloss Snail,eatenBy
+47561,178591,Xylopinus,,eatenBy
+47561,221937,Hylobius pales,Pales Weevil,eatenBy
+47561,450056,Isotoma sensibilis,,eatenBy
+47561,,Asemum striatum,,eatenBy
+47561,215600,Buprestis lineata,Lined Buprestid Beetle,eatenBy
+47561,321447,Acanthocinus nodosus,Lesser Pine Borer,eatenBy
+47561,178674,Uloma,,eatenBy
+47561,296703,Entomobrya ligata,,eatenBy
+47561,130357,Orthostethus infuscatus,,eatenBy
+47561,,Pachylobins picivorus,,eatenBy
+47561,218223,Dendroctonus valens,Red Turpentine Beetle,eatenBy
+47561,,Pseudanaphothrips araucariae,,eatenBy
+47561,451010,Pholodes sinistraria,Sinister Moth,eatenBy
+47561,199380,Hylastes ater,Black Pinebark Beetle,eatenBy
+47561,341909,Ectropis excursaria,Twig Looper,eatenBy
+47561,578320,Capusa stenophara,,eatenBy
+47561,321367,Capusa senilis,,eatenBy
+47561,395219,Pineus pini,Pine Woolly-aphid,eatenBy
+47561,211526,Pineus,,eatenBy
+47561,1240719,Eulachnus thunbergii,,eatenBy
+47561,335788,Essigella californica,,eatenBy
+47561,199407,Cinara,Giant Conifer Aphids,eatenBy
+47561,522719,Ocnerostoma friesei,Grey Pine Ermel,eatenBy
+47561,,Clepsis senecionana,,eatenBy
+47561,216809,Choristoneura pinus,Jack Pine Budworm Moth,eatenBy
+47561,319489,Cedestis subfasciella,Brown Pine Ermel,eatenBy
+47561,,Ditula angustiorana,,eatenBy
+47561,637649,Tortrix capensana,,eatenBy
+47561,396121,Pyrgotis plagiatana,,eatenBy
+47561,14588,Pycnonotus barbatus,Common Bulbul,pollinatedBy
+47561,56098,Bibio,,pollinatedBy
+47561,,Elaphromyia imcompleta ,,pollinatedBy

@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+26721,53275,Chironomidae,Non-biting Midges,eats
+26721,56557,Notonecta,Milky Backswimmers,eats
+26721,,Chaoborus,,eats
+26721,,Diacyclops,,eats
+26721,338141,Chydorus,,eats
+26721,87850,Daphnia,Water-fleas,eats
+26721,,Alonella,,eats
+26721,171629,Scapholeberis,,eats
+26721,,Callicorixa,,eats
+26721,,Sigara,,eats
+26721,25474,Rana,Pond Frogs,eats
+26721,122269,Lynceus,,eats
+26721,,Hesperocorixa,,eats
+26721,87923,Diaptomus,,eats
+26721,,Lymnaea,,eats
+26721,,Sphaeriidae,,eats
+26721,148201,Helisoma,,eats
+26721,81576,Belostoma,,eatenBy
+26721,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+26721,,Lethocerus,,eatenBy
+26721,,Dytiscus,,eatenBy
+26721,53275,Chironomidae,Non-biting Midges,preysOn
+26721,,Chaoborus,,preysOn
+26721,87850,Daphnia,Water-fleas,preysOn
+26721,338141,Chydorus,,preysOn
+26721,87923,Diaptomus,,preysOn
+26721,,Alonella,,preysOn
+26721,,Callicorixa,,preysOn
+26721,148201,Helisoma,,preysOn
+26721,,Diacyclops,,preysOn
+26721,,Hesperocorixa,,preysOn
+26721,81576,Belostoma,,preyedUponBy

@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47297,47114,Gastropoda,Gastropods,eats
+47297,47584,Bivalvia,Bivalves,eats
+47297,,Benthic autotrophs,,eats
+47297,,Prymnesiophyceae,,eats
+47297,39657,Cheloniidae,Typical Sea Turtles,eatenBy
+47297,47114,Gastropoda,Gastropods,eatenBy
+47297,342912,Caridea,Caridean Shrimps,eatenBy
+47297,63740,Gadus morhua,Atlantic Cod,eatenBy
+47297,131530,Lutjanus synagris,Lane Snapper,eatenBy
+47297,104853,Lutjanus analis,Mutton Snapper,eatenBy
+47297,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+47297,49746,Epinephelus striatus,Nassau Grouper,eatenBy
+47297,49964,Ginglymostoma cirratum,Nurse Shark,eatenBy
+47297,100110,Epinephelus itajara,Atlantic Goliath Grouper,eatenBy
+47297,182608,Lutjanus jocu,Dog Snapper,eatenBy
+47297,49637,Epinephelus morio,Red Grouper,eatenBy
+47297,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+47297,55529,Carcharhinus limbatus,Common Blacktip Shark,eatenBy
+47297,101098,Furgaleus macki,Whiskery Shark,eatenBy
+47297,101181,Galeus eastmani,Gecko Catshark,eatenBy
+47297,49497,Epinephelus,Rockcods,eatenBy
+47297,100101,Epinephelus flavocaeruleus,Blue-and-yellow Grouper,eatenBy
+47297,513493,Glaucosoma hebraicum,West Australian Dhufish,eatenBy
+47297,33118,Basiliscus vittatus,Brown Basilisk,eatenBy
+47297,47114,Gastropoda,Gastropods,preysOn
+47297,47584,Bivalvia,Bivalves,preysOn
+47297,39657,Cheloniidae,Typical Sea Turtles,preyedUponBy
+47297,47114,Gastropoda,Gastropods,preyedUponBy
+47297,342912,Caridea,Caridean Shrimps,preyedUponBy
+47297,182608,Lutjanus jocu,Dog Snapper,preyedUponBy
+47297,49746,Epinephelus striatus,Nassau Grouper,preyedUponBy
+47297,100110,Epinephelus itajara,Atlantic Goliath Grouper,preyedUponBy
+47297,49964,Ginglymostoma cirratum,Nurse Shark,preyedUponBy
+47297,104853,Lutjanus analis,Mutton Snapper,preyedUponBy
+47297,131530,Lutjanus synagris,Lane Snapper,preyedUponBy
+47297,49961,Mustelus canis,Dusky Smooth-hound,preyedUponBy

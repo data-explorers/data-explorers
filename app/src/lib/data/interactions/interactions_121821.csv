@@ -1,0 +1,134 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121821,53359,Baccharis pilularis,coyote brush,eats
+121821,53052,Foeniculum vulgare,fennel,eats
+121821,48939,Eriogonum,wild buckwheats,eats
+121821,136376,Rudbeckia triloba,brown-eyed Susan,eats
+121821,54999,Eriogonum fasciculatum,California buckwheat,eats
+121821,52998,Conium maculatum,poison hemlock,eats
+121821,63366,Limonium,Sea-Lavenders,eats
+121821,76610,Daucus carota,wild carrot,eats
+121821,48699,Apiaceae,carrot family,eats
+121821,56955,Helianthus,sunflowers,eats
+121821,127907,Chamaecrista fasciculata,partridge pea,eats
+121821,62741,Rudbeckia hirta,black-eyed Susan,eats
+121821,129662,Mecaphesa,,eats
+121821,47866,Thomisidae,Crab Spiders,eats
+121821,47544,Rubus,brambles,eats
+121821,,Eriogonum fasciculatum foliolosum,,eats
+121821,,Hamelia patens,,eats
+121821,,Allium canadense,,eats
+121821,,Heterotheca subaxillaris,,eats
+121821,53271,Brassica rapa,field mustard,eats
+121821,349786,Euonymus japonicus,Japanese spindle tree,eats
+121821,50333,Lantana camara,common lantana,eats
+121821,47535,Araneidae,Orbweavers,preysOn
+121821,52629,Araneus,Angulate and Roundshouldered Orbweavers,preysOn
+121821,55746,Misumena vatia,Goldenrod Crab Spider,preysOn
+121821,47866,Thomisidae,Crab Spiders,preysOn
+121821,47552,Argiope,Garden Orbweavers,preysOn
+121821,85035,Neoscona,Spotted Orbweavers,preysOn
+121821,119342,Neoscona arabesca,Arabesque Orbweaver,preysOn
+121821,81840,Platycryptus,,preysOn
+121821,61903,Xysticus,Ground Crab Spiders,preysOn
+121821,56611,Philodromus,,preysOn
+121821,49337,Metepeira,,preysOn
+121821,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preysOn
+121821,82116,Agelenopsis,Grass Spiders,preysOn
+121821,47415,Pardosa,Thin-legged Wolf Spiders,preysOn
+121821,83845,Oxyopes,,preysOn
+121821,61881,Habronattus,Paradise Spiders,preysOn
+121821,53810,Phidippus,,preysOn
+121821,55747,Misumena,Flower Crab Spiders,preysOn
+121821,61868,Cheiracanthium,Longlegged Sac Spiders,preysOn
+121821,84120,Peucetia,Green Lynx Spiders,preysOn
+121821,52628,Araneus diadematus,Cross Orbweaver,preysOn
+121821,367176,Thomisoidea,Crab and Running Crab Spiders,preysOn
+121821,59281,Thomisus onustus,Pink Crab Spider,preysOn
+121821,318818,Runcinia grammica,,preysOn
+121821,121444,Larinioides,,preysOn
+121821,,"Latrodectus mactans Fabricius, 1775",,preysOn
+121821,126513,Larinioides cornutus,Furrow Orbweaver,preysOn
+121821,,Frigga crocuta,,preysOn
+121821,,"Neoscona theisi (Walckenaer, 1842)",,preysOn
+121821,,"Plexippus paykulli (Audouin, 1826)",,preysOn
+121821,,Misumessus,,preysOn
+121821,,"Argiope aurantia Lucas, 1833",,preysOn
+121821,,"Mecynogea lemniscata (Walckenaer, 1842)",,preysOn
+121821,,Misumenoides formosipes,,preysOn
+121821,,"Argiope trifasciata (Forsskal, 1775)",,preysOn
+121821,,"Parasteatoda tepidariorum (Koch, 1841)",,preysOn
+121821,,Metazygia,,preysOn
+121821,202408,Tidarren sisyphoides,Tent Cobweb Weaver,preysOn
+121821,,"Phidippus regius C. L. Koch, 1846",,preysOn
+121821,,Thiodina,,preysOn
+121821,,"Trichonephila clavipes (Linnaeus, 1767)",,preysOn
+121821,,"Tetragnatha guatemalensis Pickard-Cambridge, 1889",,preysOn
+121821,,"Phidippus audax (Hentz, 1845)",,preysOn
+121821,,Hibana velox,,preysOn
+121821,,Oxyopes lineatus,,preysOn
+121821,326354,Neoscona adianta,Bordered Orbweaver,preysOn
+121821,121774,Clubiona,Leafcurling Sac Spiders,preysOn
+121821,,"Oxyopes nigripalpis Kulczyński, 1891",,preysOn
+121821,,"Neoscona subfusca (Koch, 1837)",,preysOn
+121821,366181,Araneus pallidus,Pale Cross Orbweaver,preysOn
+121821,50867,Argiope bruennichi,Wasp Spider,preysOn
+121821,56525,Argiope lobata,Lobed Argiope,preysOn
+121821,,Oxyopes heterophthalmus,,preysOn
+121821,,"Evarcha jucunda (Lucas, 1846)",,preysOn
+121821,135256,Eustala,,preysOn
+121821,153571,Mangora,,preysOn
+121821,,"Araneus trifolium (Hentz, 1847)",,preysOn
+121821,,Araniella,,preysOn
+121821,,"Apollophanes margareta Lowrie & Gertsch, 1955",,preysOn
+121821,,"Araneus gemmoides Chamberlin & Ivie, 1935",,preysOn
+121821,,"Philodromus rufus Walckenaer, 1826",,preysOn
+121821,,Thiania bhamoensis,,preysOn
+121821,,Olios,,preysOn
+121821,,Plexippus petersi,,preysOn
+121821,,Thomisus,,preysOn
+121821,,Xysticus bharatae,,preysOn
+121821,,Tegenaria domestica,,preysOn
+121821,,Zosis geniculatus,,preysOn
+121821,,"Larinia directa (Hentz, 1847)",,preysOn
+121821,,Frigga,,preysOn
+121821,,Micaria,,preysOn
+121821,49880,Misumenops,,preysOn
+121821,,Kaira cobimcha,,preysOn
+121821,53273,Eriophora,,preysOn
+121821,,"Eriophora ravilla (Koch, 1844)",,preysOn
+121821,,Nycerella,,preysOn
+121821,,Acanthepeira,,preysOn
+121821,,"Phidippus pius Scheffer, 1905",,preysOn
+121821,,Tibellus duttoni,,preysOn
+121821,,"Mecaphesa celer (Hentz, 1847)",,preysOn
+121821,,"Mecaphesa asperata (Hentz, 1847)",,preysOn
+121821,,"Oxyopes scalaris Hentz, 1845",,preysOn
+121821,,"Xysticus ferox (Hentz, 1847)",,preysOn
+121821,,"Schizocosa ocreata (Hentz, 1844)",,preysOn
+121821,,"Neoscona arabesca (Walckenaer, 1842)",,preysOn
+121821,,"Araneus guttulatus (Walckenaer, 1841)",,preysOn
+121821,82118,Dolomedes,Fishing Spiders,preysOn
+121821,,Phidippus mystaceus,,preysOn
+121821,,Acacesia,,preysOn
+121821,,Nephila,,preysOn
+121821,,Hibana,,preysOn
+121821,,Larinia,,preysOn
+121821,,Mecynogea,,preysOn
+121821,,Leucauge,,preysOn
+121821,84110,Pisaurina,,preysOn
+121821,,Gea,,preysOn
+121821,,Wagneriana,,preysOn
+121821,,"Mecaphesa insulana (Keyserling, 1890)",,preysOn
+121821,,"Acacesia hamata (Hentz, 1847)",,preysOn
+121821,,Hamataliwa rana,,preysOn
+121821,205648,Saropogon,,preyedUponBy
+121821,85035,Neoscona,Spotted Orbweavers,preyedUponBy
+121821,,"Dryobates pubescens (Linnaeus, 1766)",,preyedUponBy
+121821,198838,Diogmites basalis,,preyedUponBy
+121821,,Proctacanthus philadelphicus,,preyedUponBy
+121821,,Diogmites angustipennis,,preyedUponBy
+121821,,"Latrodectus mactans Fabricius, 1775",,preyedUponBy
+121821,202408,Tidarren sisyphoides,Tent Cobweb Weaver,preyedUponBy
+121821,,"Kukulcania hibernalis (Hentz, 1842)",,preyedUponBy
+121821,,"Argiope aurantia Lucas, 1833",,preyedUponBy
+121821,,"Trichonephila clavipes (Linnaeus, 1767)",,preyedUponBy

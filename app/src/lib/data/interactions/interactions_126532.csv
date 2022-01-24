@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126532,47602,Taraxacum officinale,common dandelion,eats
+126532,48678,Solidago,goldenrods,eats
+126532,72326,Pulicaria,Fleabanes,eats
+126532,126846,Vitex,,eats
+126532,51737,Solanum lycopersicum,tomato,eats
+126532,125381,Asclepias incarnata,swamp milkweed,eats
+126532,47697,Hesperis matronalis,dame's rocket,eats
+126532,50879,Erigeron,fleabanes and horseweeds,eats
+126532,47603,Taraxacum,dandelions,eats
+126532,78820,Ranunculus bulbosus,bulbous buttercup,eats
+126532,55563,Bellis perennis,common daisy,eats
+126532,48626,Oenothera,"evening primroses, sundrops, and beeblossoms",eats
+126532,56112,Symphyotrichum,American asters,eats
+126532,47888,Impatiens capensis,common jewelweed,eats
+126532,52736,Monarda,beebalms and bergamots,eats
+126532,,Pastinaca sativa,,eats
+126532,,Galinsoga quadriradiata,,eats
+126532,,Verbesina alternifolia,,eats
+126532,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+126532,,Campanulastrum americanum,,eats
+126532,,Ampelaster carolinianus,,eats
+126532,,Helianthus angustifolius,,eats
+126532,48139,Salticidae,Jumping Spiders,eatenBy
+126532,84494,Paraphidippus aurantius,Golden Jumping Spider,eatenBy
+126532,51044,Sanguinaria canadensis,bloodroot,pollinates
+126532,57972,Erigeron foliosus,Leafy Fleabane,pollinates
+126532,126702,Stellaria pubera,star chickweed,pollinates
+126532,,http://treatment.plazi.org/id/7CF5D90BA350ADBB07186A8272DB4681,,pollinates
+126532,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+126532,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+126532,119535,Phymata,Jagged Ambush Bugs,preyedUponBy
+126532,,Efferia aestuans,,preyedUponBy
+126532,,Machimus sadyates,,preyedUponBy

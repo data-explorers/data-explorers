@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85912,85912,Mysidae,,eats
+85912,775805,Pteropoda,Sea Butterflies,eats
+85912,,Phytoplankton,,eats
+85912,,Detritus,,eats
+85912,,Khakista,,eats
+85912,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+85912,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+85912,99269,Dicentrarchus labrax,European Seabass,eatenBy
+85912,48921,Hydrozoa,Hydrozoans,eatenBy
+85912,47534,Cnidaria,Cnidarians,eatenBy
+85912,48563,Triglidae,Searobins,eatenBy
+85912,47186,Decapoda,Decapods,eatenBy
+85912,85912,Mysidae,,eatenBy
+85912,1,Animalia,Animals,eatenBy
+85912,447777,Cyanea lamarckii,Blue Jelly,eatenBy
+85912,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+85912,69838,Cyanea capillata,Lion's Mane Jelly,eatenBy
+85912,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+85912,52523,Carcinus maenas,European Green Crab,eatenBy
+85912,63770,Engraulis mordax,Northern Anchovy,eatenBy
+85912,118710,Naucrates ductor,Pilotfish,eatenBy
+85912,92583,Trachurus,Jack Mackerels,eatenBy
+85912,48407,Raja,,eatenBy
+85912,49441,Loliginidae,Pencil Squids,eatenBy
+85912,132473,Lagodon rhomboides,Pinfish,eatenBy
+85912,118601,Trisopterus luscus,Pouting,eatenBy
+85912,430553,Merlangius merlangus,Whiting,eatenBy
+85912,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+85912,48397,Raja clavata,Thornback Skate,eatenBy
+85912,118623,Nerophis ophidion,Straightnose Pipefish,eatenBy
+85912,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+85912,324532,Sprattus sprattus,European Sprat,eatenBy
+85912,111527,Raja montagui,Spotted Skate,eatenBy
+85912,55396,Solea solea,Common Sole,eatenBy
+85912,86996,Blicca,,eatenBy
+85912,47518,Salmo trutta,Brown Trout,eatenBy
+85912,120617,Arnoglossus laterna,Mediterranean Scaldfish,eatenBy
+85912,86396,Ammodytes,,eatenBy
+85912,344748,Pomatoschistus minutus,Sand Goby,eatenBy
+85912,228496,Pollachius virens,Pollock,eatenBy
+85912,118619,Mullus surmuletus,Striped Red Mullet,eatenBy
+85912,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+85912,,Trisopterus minutus,,eatenBy
+85912,445609,Agonus cataphractus,Pogge,eatenBy
+85912,320793,Trisopterus esmarkii,Norway Pout,eatenBy
+85912,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+85912,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eatenBy
+85912,51398,Argentina sphyraena,European Argentine,eatenBy
+85912,118649,Echiichthys vipera,Lesser Weever,eatenBy
+85912,481841,Microstomus kitt,Lemon Sole,eatenBy
+85912,97990,Clupea harengus,Atlantic Herring,eatenBy
+85912,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+85912,92628,Trigla,Gurnards,eatenBy
+85912,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+85912,89001,Hyperoplus,,eatenBy
+85912,118624,Syngnathus acus,Greater Pipefish,eatenBy
+85912,,GOBIDAE,,eatenBy
+85912,120648,Lepidorhombus boscii,Four-spotted Megrim,eatenBy
+85912,109631,Platichthys flesus,European Flounder,eatenBy
+85912,47523,Pleuronectes platessa,European Plaice,eatenBy
+85912,94105,Anguilla anguilla,European Eel,eatenBy
+85912,51910,Engraulis encrasicolus,European Anchovy,eatenBy
+85912,61387,Limanda limanda,Sand Dab,eatenBy
+85912,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+85912,99394,Dipturus batis,Common Skate,eatenBy
+85912,110042,Pomatoschistus microps,Common Goby,eatenBy
+85912,63740,Gadus morhua,Atlantic Cod,eatenBy
+85912,152974,Pholis gunnellus,Rock gunnel,eatenBy
+85912,118636,Scophthalmus rhombus,Brill,eatenBy
+85912,111518,Raja brachyura,Blonde Skate,eatenBy
+85912,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+85912,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+85912,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+85912,47634,Hemitripterus americanus,Sea Raven,eatenBy
+85912,618988,Hippoglossina oblonga,Fourspot Flounder,eatenBy
+85912,,no name,,eatenBy
+85912,326208,Ammodytes marinus,Raitt's Sand Lance,eatenBy
+85912,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+85912,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+85912,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+85912,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+85912,61388,Scophthalmus aquosus,Windowpane Flounder,eatenBy
+85912,50984,Pomatomus saltatrix,Bluefish,eatenBy
+85912,69842,Scomber,,eatenBy
+85912,104540,Leucoraja ocellata,Winter Skate,eatenBy
+85912,1126296,Astarte arctica,,eatenBy
+85912,63742,Gadidae,Cods and Haddocks,eatenBy
+85912,224886,Merluccius bilinearis,Silver Hake,eatenBy
+85912,49513,Cynoscion,Weakfishes,eatenBy
+85912,83846,Urophycis chuss,squirrel hake,eatenBy
+85912,233996,Zoarces americanus,Ocean Pout,eatenBy
+85912,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eatenBy
+85912,56045,Limanda ferruginea,Yellowtail flounder,eatenBy
+85912,233276,Urophycis regia,Spotted Hake,eatenBy
+85912,104533,Leucoraja erinacea,Little Skate,eatenBy
+85912,86443,Anarhichas,,eatenBy
+85912,,Sebastes marinus,,eatenBy
+85912,194675,Lophius americanus,American Monkfish,eatenBy
+85912,151762,Venustaconcha ellipsiformis,Ellipse,eatenBy
+85912,424322,Odontoceti,Toothed Whales,eatenBy
+85912,48402,Amblyraja radiata,Thorny Skate,eatenBy
+85912,179507,Peprilus triacanthus,Butterfish,eatenBy
+85912,51362,Alosa pseudoharengus,Alewife,eatenBy
+85912,233277,Urophycis tenuis,White Hake,eatenBy
+85912,82349,Hippoglossus hippoglossus,Atlantic Halibut,eatenBy
+85912,,Zooplankton,,preysOn

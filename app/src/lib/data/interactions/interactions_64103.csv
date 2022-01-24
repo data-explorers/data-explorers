@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64103,6317,Calypte anna,Anna's Hummingbird,eatenBy
+64103,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+64103,,Aegiale hesperiaris,,eatenBy
+64103,75042,Rousettus aegyptiacus,Egyptian Rousette,eatenBy
+64103,,Trichoglossus haematodus moluccanus,,eatenBy
+64103,40268,Chiroptera,Bats,pollinatedBy

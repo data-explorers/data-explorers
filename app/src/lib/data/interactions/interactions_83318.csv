@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83318,48824,Porifera,Sponges,eats
+83318,47532,Scleractinia,Stony Corals,eats
+83318,1,Animalia,Animals,eats
+83318,47534,Cnidaria,Cnidarians,eats
+83318,47126,Plantae,plants,eats
+83318,47115,Mollusca,Molluscs,eats
+83318,85493,Crustacea,Crustaceans,eats
+83318,,,,eats
+83318,,Detritus,,eats
+83318,,Euraphia devaneyi,,eats
+83318,108982,Pavona minuta,,eats
+83318,3793,Sula sula,Red-footed Booby,eatenBy
+83318,4636,Fregata minor,Great Frigatebird,eatenBy
+83318,108982,Pavona minuta,,preysOn
+83318,,Euraphia devaneyi,,preysOn

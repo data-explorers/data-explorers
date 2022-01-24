@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48153,48548,Vanessa cardui,Painted Lady,eatenBy
+48153,68244,Euptoieta claudia,Variegated Fritillary,eatenBy
+48153,,Euchrysops,,eatenBy
+48153,,Homaloxestis xylotripta,,eatenBy
+48153,,Haploa lecontei,,eatenBy
+48153,125312,Callimorpha dominula,Scarlet Tiger,eatenBy
+48153,344704,Ethmia acontias,,eatenBy
+48153,,Dialectica scalariella,,eatenBy
+48153,,Euchalcia modestoides,,eatenBy
+48153,,Epicrocis uberalis,,eatenBy
+48153,,Agromyza abiens,,eatenBy
+48153,,Enoplops scapha,,eatenBy
+48153,,Phytoecia caerulescens,,eatenBy
+48153,,Pieris marginalis,,eatenBy
+48153,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy

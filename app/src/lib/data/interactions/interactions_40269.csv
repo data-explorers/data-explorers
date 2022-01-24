@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+40269,4672,Falco columbarius,Merlin,eatenBy
+40269,19893,Strix varia,Barred Owl,eatenBy
+40269,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+40269,,Salvadora bairdi,,eatenBy
+40269,30237,Elaphe quatuorlineata,Four-lined Snake,eatenBy
+40269,225946,Nicrophorus carolina,Carolina Burying Beetle,eatenBy
+40269,74009,Zamenis longissimus,Aesculapian Snake,eatenBy
+40269,4672,Falco columbarius,Merlin,preyedUponBy
+40269,19893,Strix varia,Barred Owl,preyedUponBy
+40269,,Lycodon aulicus,,preyedUponBy
+40269,30237,Elaphe quatuorlineata,Four-lined Snake,preyedUponBy

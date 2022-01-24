@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48655,327046,Plocamium cartilagineum,Sea Comb,eats
+48655,47126,Plantae,plants,eats
+48655,128238,Laurencia,,eats
+48655,54644,Ulva,sea lettuces,eats
+48655,67419,Egregia menziesii,Feather Boa Kelp,eats
+48655,67555,Codium fragile,Dead Man's Fingers,eats
+48655,129742,Colpomenia,Puff-ball Algae,eats
+48655,124748,Macrocystis pyrifera,Giant Kelp,eats
+48655,130177,Sargassum muticum,Japanese Wireweed,eats
+48655,78562,Phyllospadix torreyi,Torrey's Surfgrass,eats
+48655,123632,Corallina officinalis,Common Coralline,eats
+48655,,Laurencia pacifica,,eats
+48655,,Macroalgae,,eats
+48655,,Phytoplankton,,eats
+48655,,Plocamium sp.,,eats
+48655,,Enteromorpha,,eats
+48655,,Laurencia spectabilis,,eats
+48655,124146,Pterygophora californica,stalked kelp,eats
+48655,125879,Eisenia arborea,Southern sea palm,eats
+48655,81879,Laminaria farlowii,oar weed,eats
+48655,,Lithothrix,,eats
+48655,446888,Gelidium robustum,agarweed,eats
+48655,,Acrosorium uncinatum,,eats
+48655,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+48655,56797,Holacanthus passer,King Angelfish,eatenBy
+48655,120957,Loxorhynchus grandis,Sheep Crab,eatenBy
+48655,130177,Sargassum muticum,Japanese Wireweed,preysOn
+48655,117820,Prionitis lanceolata,,preysOn
+48655,78562,Phyllospadix torreyi,Torrey's Surfgrass,preysOn
+48655,123632,Corallina officinalis,Common Coralline,preysOn
+48655,128238,Laurencia,,preysOn
+48655,129742,Colpomenia,Puff-ball Algae,preysOn
+48655,67419,Egregia menziesii,Feather Boa Kelp,preysOn
+48655,124748,Macrocystis pyrifera,Giant Kelp,preysOn
+48655,67555,Codium fragile,Dead Man's Fingers,preysOn
+48655,54644,Ulva,sea lettuces,preysOn
+48655,81879,Laminaria farlowii,oar weed,preysOn
+48655,,Macroalgae,,preysOn
+48655,133214,Rhodymenia californica,,preysOn
+48655,,Lithothrix,,preysOn
+48655,446888,Gelidium robustum,agarweed,preysOn
+48655,359801,Rhodymenia pacifica,,preysOn
+48655,125879,Eisenia arborea,Southern sea palm,preysOn
+48655,,Cystoseira osmundacea,,preysOn
+48655,,Acrosorium uncinatum,,preysOn
+48655,124146,Pterygophora californica,stalked kelp,preysOn
+48655,,Laurencia spectabilis,,preysOn
+48655,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+48655,120957,Loxorhynchus grandis,Sheep Crab,preyedUponBy
+48655,56797,Holacanthus passer,King Angelfish,preyedUponBy

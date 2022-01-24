@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67688,82435,Cicindela scutellaris,Festive Tiger Beetle,eatenBy
+67688,4665,Falco sparverius,American Kestrel,eatenBy
+67688,13858,Passer domesticus,House Sparrow,eatenBy
+67688,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+67688,12942,Sialia sialis,Eastern Bluebird,eatenBy
+67688,8010,Corvus corax,Common Raven,eatenBy
+67688,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+67688,9915,Piranga rubra,Summer Tanager,eatenBy
+67688,1965,Coccyzus americanus,Yellow-billed Cuckoo,eatenBy
+67688,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+67688,9100,Melospiza melodia,Song Sparrow,eatenBy
+67688,9346,Icterus galbula,Baltimore Oriole,eatenBy
+67688,73155,Passerina caerulea,Blue Grosbeak,eatenBy
+67688,9721,Geothlypis trichas,Common Yellowthroat,eatenBy
+67688,20044,Bubo virginianus,Great Horned Owl,eatenBy
+67688,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+67688,,Schizodon nasutus,,eatenBy
+67688,,Osphronemus exodon,,eatenBy
+67688,,Salpinctes obsoletus,,eatenBy
+67688,5416,Ictinia mississippiensis,Mississippi Kite,eatenBy
+67688,,Coracias caudatus,,eatenBy
+67688,,Stagmomantis carolina,,eatenBy
+67688,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+67688,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+67688,13140,Monticola saxatilis,Rufous-tailed Rock-Thrush,eatenBy
+67688,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+67688,,Nyctidromus albicollis,,eatenBy
+67688,558512,Lanius borealis,Northern Shrike,eatenBy
+67688,,Ectopistes migratorius,,eatenBy
+67688,,Myiarchus tyrannulus,,eatenBy
+67688,73041,Melozone aberti,Abert's Towhee,eatenBy
+67688,20315,Asio flammeus,Short-eared Owl,eatenBy
+67688,4937,Egretta caerulea,Little Blue Heron,eatenBy
+67688,5017,Bubulcus ibis,Cattle Egret,eatenBy
+67688,42069,Vulpes vulpes,Red Fox,preyedUponBy
+67688,14886,Mimus polyglottos,Northern Mockingbird,preyedUponBy
+67688,58416,Phidippus clarus,Brilliant Jumping Spider,preyedUponBy
+67688,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+67688,119122,Araneus trifolium,Shamrock Orbweaver,preyedUponBy
+67688,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+67688,,Dolomedes fimbriatus,,preyedUponBy
+67688,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+67688,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+67688,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+67688,231469,Staphylinus erythropterus,,preyedUponBy
+67688,,Emberiza citrinella,,preyedUponBy
+67688,,Argiope aurantia,,preyedUponBy
+67688,,Heriaeus hirtus,,preyedUponBy

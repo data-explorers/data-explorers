@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117696,117696,Dendraster excentricus,Eccentric Sand Dollar,eats
+117696,117696,Dendraster excentricus,Eccentric Sand Dollar,eatenBy
+117696,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+117696,47826,Cancer productus,Red Rock Crab,eatenBy
+117696,102081,Halichoeres semicinctus,Rock Wrasse,eatenBy
+117696,53699,Semicossyphus pulcher,California sheephead,eatenBy

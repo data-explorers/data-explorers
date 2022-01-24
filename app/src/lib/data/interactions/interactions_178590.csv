@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+178590,53453,Salix,Willows,eats
+178590,55846,Salix caprea,goat willow,eats
+178590,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+178590,,Vireo flavifrons,,eatenBy

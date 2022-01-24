@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49528,54491,Corylus avellana,common hazel,eats
+49528,47566,Populus,"poplars, cottonwoods, and aspens",eats
+49528,54841,Salix alba,white willow,eats
+49528,79461,Ulmus minor,Field Elm,eats
+49528,51147,Crataegus monogyna,common hawthorn,eats
+49528,765394,Sambucus nigra,European black elderberry,eats
+49528,55811,Prunus spinosa,Blackthorn,eats
+49528,155124,Cornus sanguinea,common dogwood,eats
+49528,55847,Euonymus europaeus,Spindle,eats
+49528,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+49528,5017,Bubulcus ibis,Cattle Egret,eatenBy
+49528,72952,Icterus portoricensis,Puerto Rican Oriole,eatenBy
+49528,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+49528,9764,Agelaius xanthomus,Yellow-shouldered Blackbird,eatenBy
+49528,,Corvus caurinus,,eatenBy
+49528,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy

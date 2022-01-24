@@ -1,0 +1,59 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+202104,202104,Harpalinae,,preysOn
+202104,53248,Elateridae,Click Beetles,preysOn
+202104,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+202104,47345,Agelenidae,Funnel Weavers,preysOn
+202104,47951,Staphylinidae,Rove Beetles,preysOn
+202104,57409,Phalangiidae,Phalangiid Harvestmen,preysOn
+202104,47371,Theridiidae,Cobweb Spiders,preysOn
+202104,,Tapinocyba pallens,,preysOn
+202104,738601,Lithobius aeruginosus,,preysOn
+202104,,Trichoniscus pusillus,,preysOn
+202104,494566,Athous subfuscus,,preysOn
+202104,,Tomocerus flavescens,,preysOn
+202104,,Malthodes,,preysOn
+202104,1004314,Oxypoda annularis,,preysOn
+202104,,Athous,,preysOn
+202104,905423,Lithobius macilentus,,preysOn
+202104,784197,Walckenaeria dysderoides,,preysOn
+202104,490816,Neobisium,,preysOn
+202104,510480,Othius,,preysOn
+202104,121483,Julidae,,preysOn
+202104,130622,Athous haemorrhoidalis,,preysOn
+202104,,Lithobius,,preysOn
+202104,203242,Aleocharinae,,preysOn
+202104,490815,Neobisium carcinoides,Moss Neobisid,preysOn
+202104,127023,Amaurobius,Lace web spider,preysOn
+202104,205480,Trichoniscus,,preysOn
+202104,784149,Diplocephalus picinus,,preysOn
+202104,,Gyrohypnus,,preysOn
+202104,521083,Strigamia acuminata,,preysOn
+202104,153747,Robertus,,preysOn
+202104,784286,Micrargus apertus,,preysOn
+202104,153825,Ero furcata,,preysOn
+202104,,Euophrys frontalis,,preysOn
+202104,457780,Geostiba circellaris,,preysOn
+202104,706060,Monocephalus fuscipes,,preysOn
+202104,,Allajulus nitidus,,preysOn
+202104,131937,Pterostichus strenuus,Rough-chested Blackclock,preysOn
+202104,784185,Saloca diceros,,preysOn
+202104,739596,Lithobius mutabilis,,preysOn
+202104,,Geophilus ribauti,,preysOn
+202104,203275,Xantholinus,,preysOn
+202104,174025,Dalopius marginatus,,preysOn
+202104,498635,Lithobius piceus,,preysOn
+202104,,Campodea,,preysOn
+202104,,Lithobius muticus,,preysOn
+202104,,Pergamasus septentrionalis,,preysOn
+202104,778686,Porrhomma microphthalmum,,preysOn
+202104,360817,Coelotes,,preysOn
+202104,452503,Robertus lividus,,preysOn
+202104,202104,Harpalinae,,preyedUponBy
+202104,49567,Carabidae,Ground Beetles,preyedUponBy
+202104,,Lithobius muticus,,preyedUponBy
+202104,498635,Lithobius piceus,,preyedUponBy
+202104,,Geophilus ribauti,,preyedUponBy
+202104,,Lithobius,,preyedUponBy
+202104,521083,Strigamia acuminata,,preyedUponBy
+202104,905423,Lithobius macilentus,,preyedUponBy
+202104,739596,Lithobius mutabilis,,preyedUponBy

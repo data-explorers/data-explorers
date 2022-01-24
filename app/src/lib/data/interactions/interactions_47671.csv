@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47671,,Detritus,,eats
+47671,123807,Paralithodes camtschaticus,Red King Crab,eatenBy
+47671,82351,Melanogrammus aeglefinus,Haddock,eatenBy

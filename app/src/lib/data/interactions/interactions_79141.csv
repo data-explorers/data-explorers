@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+79141,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eatenBy
+79141,1409,Callipepla californica,California Quail,eatenBy
+79141,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+79141,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+79141,1006395,Pria dulcamarae,,eatenBy
+79141,,Tuta absoluta,,eatenBy
+79141,,Lycianthes denticulata,,eatenBy
+79141,,Henosepilachna vigintioctopunctata,,eatenBy
+79141,,Spilostethus furcula,,eatenBy
+79141,,Helocassis clavata,,eatenBy
+79141,3465,Zenaida aurita,Zenaida Dove,eatenBy
+79141,831,Perdix perdix,Gray Partridge,eatenBy
+79141,57678,Lasioglossum,,pollinatedBy
+79141,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+79141,,Patellapis,,pollinatedBy
+79141,,Episyrphus trisectus,,pollinatedBy
+79141,,Melanostoma annulipes,,pollinatedBy
+79141,,Nomia,,pollinatedBy
+79141,692113,Syritta bulbus,,pollinatedBy
+79141,,Procavia capensis,,preyedUponBy
+79141,,Madoqua kirkii,,preyedUponBy

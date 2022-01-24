@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47817,47158,Insecta,Insects,eats
+47817,630955,Anthophila,Bees,eats
+47817,,Anax walsinghami,,eatenBy
+47817,48112,Mantodea,Mantises,preyedUponBy
+47817,,Anax walsinghami,,preyedUponBy

@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55820,145310,Spinus tristis,American Goldfinch,eatenBy
+55820,226718,Otiorhynchus sulcatus,Black Vine Weevil,eatenBy
+55820,886834,Acmaeodera,,eatenBy
+55820,,Acyrthosiphon,,eatenBy
+55820,,Falseuncaria ruficiliana,,eatenBy
+55820,,Amblyptilia punctidactyla,,eatenBy
+55820,,Agrapha,,eatenBy
+55820,776876,Agrochola nitida,,eatenBy
+55820,130185,Xanthorhoe montanata,Silver-ground Carpet,eatenBy
+55820,,Hamearis lucina,,eatenBy
+55820,,Phyllobius (Parnemoicus) viridicollis,,eatenBy
+55820,486766,Cheilosia antiqua,,eatenBy
+55820,,Chromatomyia primulae,,eatenBy
+55820,,Myzus persicae,,eatenBy
+55820,,Aulacorthum (Neomyzus) circumflexum,,eatenBy
+55820,51558,Bombyliidae,Bee Flies,pollinatedBy

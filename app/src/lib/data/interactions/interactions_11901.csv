@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+11901,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+11901,47822,Diptera,Flies,eats
+11901,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+11901,1,Animalia,Animals,eats
+11901,47208,Coleoptera,Beetles,eats
+11901,47792,Odonata,Dragonflies and Damselflies,eats
+11901,47336,Formicidae,Ants,eats
+11901,47157,Lepidoptera,Butterflies and Moths,eats
+11901,47114,Gastropoda,Gastropods,eats
+11901,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+11901,48011,Ephemeroptera,Mayflies,eats
+11901,47118,Araneae,Spiders,eats
+11901,53505,Miridae,Plant Bugs,eats
+11901,51469,Aeshnidae,Darners,eats
+11901,48736,Curculionidae,True Weevils,eats
+11901,52864,Tramea,Saddlebag Gliders,eats
+11901,53275,Chironomidae,Non-biting Midges,eats
+11901,174572,Callibaetis,Speckled Duns,eats
+11901,59653,Gerridae,Water Striders,eats
+11901,84670,Ephydridae,Shore Flies,eats
+11901,67731,Anax junius,Common Green Darner,eats
+11901,51679,Coenagrion,Northern Bluets,eats
+11901,69803,Ceratopogonidae,Biting Midges,eats
+11901,56557,Notonecta,Milky Backswimmers,eats
+11901,,Halipegus,,eats
+11901,,Gregarinidae,,eats
+11901,,Lestes,,eats
+11901,,Hesperocorixa,,eats
+11901,121463,Arrenurus,Water Mites,eats
+11901,4672,Falco columbarius,Merlin,eatenBy
+11901,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+11901,19350,Strigiformes,Owls,eatenBy
+11901,67570,Falconiformes,Falcons and Caracaras,eatenBy
+11901,4956,Ardea herodias,Great Blue Heron,eatenBy
+11901,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+11901,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+11901,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+11901,,Accipiter brevipes,,eatenBy
+11901,4671,Falco eleonorae,Eleonora's Falcon,eatenBy
+11901,4643,Falco subbuteo,Eurasian Hobby,eatenBy
+11901,,Chtoicocephalus ridibundus,,eatenBy
+11901,144522,Ichthyaetus audouinii,Audouin's Gull,eatenBy
+11901,41800,Martes foina,Stone Marten,eatenBy
+11901,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+11901,74008,Zamenis lineatus,Italian Aesculapian Snake,eatenBy
+11901,,Platyceps collaris,,eatenBy
+11901,,Elaphe situla,,eatenBy
+11901,74009,Zamenis longissimus,Aesculapian Snake,eatenBy
+11901,30237,Elaphe quatuorlineata,Four-lined Snake,eatenBy
+11901,540328,Zamenis scalaris,Ladder Snake,eatenBy
+11901,29917,Hierophis gemonensis,Balkan Whip Snake,eatenBy
+11901,73823,Hierophis viridiflavus,Green Whip Snake,eatenBy
+11901,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,eatenBy
+11901,35900,Lacerta bilineata,Western Green Lizard,eatenBy
+11901,,Timon lepidus,,eatenBy
+11901,35854,Lacerta viridis,Green Lizard,eatenBy
+11901,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+11901,,Macrovipera schweizeri,,eatenBy
+11901,,Macrovipera lebetina,,eatenBy
+11901,,Montivipera raddei,,eatenBy
+11901,,Montivipera wagneri,,eatenBy
+11901,,Montivipera xanthina,,eatenBy
+11901,,Telescopus fallax,,eatenBy
+11901,39407,Varanus griseus,Desert Monitor,eatenBy
+11901,,Pseudopus apodus,,eatenBy
+11901,,Platyceps najadum,,eatenBy
+11901,966698,Vipera berus,Adder,eatenBy
+11901,81522,Vipera ammodytes,Nose-horned Viper,eatenBy
+11901,121105,Montivipera bulgardaghica,Mount Bulgar viper,eatenBy
+11901,,Montivipera albizona,,eatenBy
+11901,,Vipera kaznakovi,,eatenBy
+11901,30924,Vipera latastei,Lataste's Viper,eatenBy
+11901,,Vipera seoanei,,eatenBy
+11901,,Hemorrhois nummifer,,eatenBy
+11901,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+11901,,Vipera dinniki,,eatenBy
+11901,,Dolichophis caspius,,eatenBy
+11901,73759,Dolichophis jugularis,Large Whip Snake,eatenBy
+11901,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+11901,27035,Hierophis viridiflavus carbonarius,,eatenBy
+11901,,Hemorrhois ravergieri,,eatenBy
+11901,,Dolichophis schmidti,,eatenBy
+11901,28451,Telescopus nigriceps,Black headed snake,eatenBy
+11901,,Spalerosophis diadema,,eatenBy
+11901,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+11901,5017,Bubulcus ibis,Cattle Egret,eatenBy
+11901,84670,Ephydridae,Shore Flies,preysOn
+11901,59653,Gerridae,Water Striders,preysOn
+11901,52864,Tramea,Saddlebag Gliders,preysOn
+11901,174572,Callibaetis,Speckled Duns,preysOn
+11901,53275,Chironomidae,Non-biting Midges,preysOn
+11901,67731,Anax junius,Common Green Darner,preysOn
+11901,,Hesperocorixa,,preysOn
+11901,69803,Ceratopogonidae,Biting Midges,preysOn
+11901,56557,Notonecta,Milky Backswimmers,preysOn
+11901,,Lestes,,preysOn
+11901,51679,Coenagrion,Northern Bluets,preysOn
+11901,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+11901,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+11901,65979,Lithobates catesbeianus,American Bullfrog,preyedUponBy
+11901,5017,Bubulcus ibis,Cattle Egret,preyedUponBy

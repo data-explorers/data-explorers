@@ -1,0 +1,105 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54812,,Rhamnus saxatili,,eats
+54812,,Rhamnus myrtifol,,eats
+54812,54135,Satyrium,Satyrid Hairstreaks,eatenBy
+54812,8010,Corvus corax,Common Raven,eatenBy
+54812,42069,Vulpes vulpes,Red Fox,eatenBy
+54812,14850,Sturnus vulgaris,European Starling,eatenBy
+54812,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+54812,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+54812,50931,Strymon melinus,Gray Hairstreak,eatenBy
+54812,48548,Vanessa cardui,Painted Lady,eatenBy
+54812,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+54812,14906,Toxostoma redivivum,California Thrasher,eatenBy
+54812,,Gastropacha quercifolia,,eatenBy
+54812,,Gonepteryx rhamni,,eatenBy
+54812,,American black bear,,eatenBy
+54812,,Aphis glycines,,eatenBy
+54812,,Eucosma glandulosana,,eatenBy
+54812,213560,Ancylis brauni,,eatenBy
+54812,,Leptosia nina,,eatenBy
+54812,51614,Eurema hecabe,Common Grass Yellow,eatenBy
+54812,125828,Rapala,Flashes,eatenBy
+54812,,Fixsenia iyonis,,eatenBy
+54812,,Sorhagenia lophyrella,,eatenBy
+54812,127133,Hyphantria cunea,Fall Webworm Moth,eatenBy
+54812,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+54812,,Ficedula hypoleuca,,eatenBy
+54812,,Coccothraustes coccothraustes,,eatenBy
+54812,,Garrulus glandarius,,eatenBy
+54812,12707,Turdus pilaris,Fieldfare,eatenBy
+54812,12740,Turdus torquatus,Ring Ouzel,eatenBy
+54812,,Carduelis citrinella,,eatenBy
+54812,,Phoenicurus ochruros,,eatenBy
+54812,12748,Turdus philomelos,Song Thrush,eatenBy
+54812,,Loxia curvirostra,,eatenBy
+54812,,Cyanistes caeruleus,,eatenBy
+54812,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+54812,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+54812,,Parus major,,eatenBy
+54812,,Serinus serinus,,eatenBy
+54812,,Sylvia communis,,eatenBy
+54812,12716,Turdus merula,Eurasian Blackbird,eatenBy
+54812,,Sylvia conspicillata,,eatenBy
+54812,,Turdus iliacus,,eatenBy
+54812,204496,Corvus corone,Carrion Crow,eatenBy
+54812,,Sylvia cantillans,,eatenBy
+54812,13094,Erithacus rubecula,European Robin,eatenBy
+54812,,Sitta europaea,,eatenBy
+54812,,Lophophanes cristatus,,eatenBy
+54812,,Sylvia melanocephala,,eatenBy
+54812,,Columba palumbus,,eatenBy
+54812,,Phoenicurus phoenicurus,,eatenBy
+54812,12735,Turdus viscivorus,Mistle Thrush,eatenBy
+54812,,Periparus ater,,eatenBy
+54812,,Emberiza,,eatenBy
+54812,15302,Sylvia borin,Garden Warbler,eatenBy
+54812,891696,Pica pica,Eurasian Magpie,eatenBy
+54812,13141,Monticola solitarius,Blue Rock-Thrush,eatenBy
+54812,43042,Erinaceus europaeus,Common Hedgehog,eatenBy
+54812,855297,Meles meles,European Badger,eatenBy
+54812,15303,Sylvia undata,Dartford Warbler,eatenBy
+54812,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+54812,,Sylvia,,eatenBy
+54812,55371,Saxicola torquatus,African Stonechat,eatenBy
+54812,,Oriolus oriolus,,eatenBy
+54812,41800,Martes foina,Stone Marten,eatenBy
+54812,,Luscinia megarhynchos,,eatenBy
+54812,,Megisba malaya,,eatenBy
+54812,,Gonepteryx amintha,,eatenBy
+54812,149410,Eurema alitha,Scalloped Grass-yellow,eatenBy
+54812,60896,Callophrys rubi,Green Hairstreak,eatenBy
+54812,,Celastrina argiolus,,eatenBy
+54812,,Gonepteryx mahaguru,,eatenBy
+54812,,Charaxes xiphares,,eatenBy
+54812,,Gonepteryx cleopatra,,eatenBy
+54812,,Gonepteryx farinosa,,eatenBy
+54812,,Lycaena hermes,,eatenBy
+54812,208988,Satyrium spini,Blue-spot Hairstreak,eatenBy
+54812,,Satyrium ilicis,,eatenBy
+54812,41641,Ursus arctos,Brown Bear,eatenBy
+54812,410641,Trametes gibbosa,Lumpy Bracket,eatenBy
+54812,,Sarcopodium tortuosum,,eatenBy
+54812,,Melanomma pulvis-pyrius,,eatenBy
+54812,327981,Gloniopsis praelonga,,eatenBy
+54812,,Nectria punicea,,eatenBy
+54812,,Diaporthe fibrosa,,eatenBy
+54812,,Cucurbitaria rhamni,,eatenBy
+54812,,Chaetosphaeria inaequalis,,eatenBy
+54812,,Gibberella zeae,,eatenBy
+54812,,Spatalistis bifasciana,,eatenBy
+54812,219735,Eulia ministrana,Ferruginous Eulia Moth,eatenBy
+54812,,Argyrotaenia quercifoliana,,eatenBy
+54812,,Trioza bakeri,,eatenBy
+54812,,Cnidocampa flavescens,,eatenBy
+54812,524628,Sorhagenia rhamniella,August Cosmet,eatenBy
+54812,,Sorhagenia janiszewskae,,eatenBy
+54812,,Sorhagenia cracens,,eatenBy
+54812,,Triphosa dubitata,,eatenBy
+54812,,Triphosa affirmata,,eatenBy
+54812,,Eupithecia misturata,,eatenBy
+54812,,Stigmella rhamnicola,,eatenBy
+54812,,Dasystoma salicella,,eatenBy
+54812,47919,Antheraea polyphemus,Polyphemus Moth,eatenBy
+54812,47158,Insecta,Insects,pollinatedBy
+54812,,,,pollinatedBy

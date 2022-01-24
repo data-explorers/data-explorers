@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63113,59815,Sorex cinereus,Masked Shrew,eats
+63113,47120,Arthropoda,Arthropods,eats
+63113,61858,Lucilia,Greenbottle Flies,eats
+63113,47208,Coleoptera,Beetles,eats
+63113,19350,Strigiformes,Owls,eatenBy
+63113,42051,Canis latrans,Coyote,eatenBy
+63113,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+63113,41801,Mustela,,eatenBy
+63113,42069,Vulpes vulpes,Red Fox,eatenBy
+63113,26172,Squamata,Snakes and Lizards,eatenBy
+63113,19893,Strix varia,Barred Owl,eatenBy
+63113,20044,Bubo virginianus,Great Horned Owl,eatenBy
+63113,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+63113,20445,Tyto alba,Barn Owl,eatenBy
+63113,4665,Falco sparverius,American Kestrel,eatenBy
+63113,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+63113,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+63113,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+63113,81746,Necrophila americana,American Carrion Beetle,eatenBy
+63113,,Martes pennanti,,eatenBy
+63113,19975,Athene cunicularia,Burrowing Owl,eatenBy
+63113,20307,Asio otus,Long-eared Owl,eatenBy
+63113,20315,Asio flammeus,Short-eared Owl,eatenBy
+63113,19890,Strix nebulosa,Great Gray Owl,eatenBy
+63113,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+63113,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+63113,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+63113,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+63113,144594,Bubo scandiacus,Snowy Owl,eatenBy
+63113,47208,Coleoptera,Beetles,preysOn
+63113,28362,Thamnophis sirtalis,Common Garter Snake,preysOn
+63113,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+63113,19893,Strix varia,Barred Owl,preyedUponBy
+63113,8021,Corvus brachyrhynchos,American Crow,preyedUponBy
+63113,60348,Lampropeltis nigra,Black Kingsnake,preyedUponBy
+63113,,Sistrurus catenatus tergeminus,,preyedUponBy
+63113,912622,Agkistrodon contortrix,Eastern Copperhead,preyedUponBy
+63113,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+63113,12024,Lanius ludovicianus,Loggerhead Shrike,preyedUponBy

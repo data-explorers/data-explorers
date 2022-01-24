@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+571464,57989,Heterotheca,False Goldenasters,eats
+571464,51768,Gaillardia pulchella,Indian blanket,eats
+571464,48618,Echinocystis lobata,wild cucumber,pollinates
+571464,132711,Hypericum punctatum,spotted St. John's wort,pollinates
+571464,52821,Achillea millefolium,Common Yarrow,pollinates
+571464,167722,Ranunculus fascicularis,Early Buttercup,pollinates
+571464,158068,Agalinis purpurea,purple false foxglove,pollinates
+571464,50790,Linaria vulgaris,common toadflax,pollinates
+571464,163636,Helianthus strumosus,woodland sunflower,pollinates
+571464,47327,Calochortus,mariposa lilies,pollinates
+571464,,Hepatica nobilis,,pollinates
+571464,,Lycopus americanus,,pollinates
+571464,,Helenium autumnale,,pollinates
+571464,153022,Cuphea,Cigar plants,pollinates
+571464,,Polygonum lapathifolium,,pollinates
+571464,,Podophyllum peltatum,,pollinates
+571464,,Ludwigia polycarpa,,pollinates
+571464,,Melanthium virginicum,,pollinates
+571464,,Antennaria plantaginifolia,,pollinates
+571464,,Cardamine concatenata,,pollinates
+571464,59316,Orchis,,pollinates
+571464,59042,Phyla lanceolata,lanceleaf frogfruit,pollinates
+571464,,http://treatment.plazi.org/id/FB7A09EEF8EC3B9F3529A4A1CA3EC7F1,,pollinates
+571464,,Lespedeza procumbens,,pollinates
+571464,,Oenothera gaura,,pollinates
+571464,,http://treatment.plazi.org/id/FD4C81A5CD2276CF046E0FA226D20EE3,,pollinates
+571464,85327,Polygonatum biflorum,smooth Solomon's seal,pollinates
+571464,,Erigenia bulbosa,,pollinates
+571464,,Coreopsis tripteris,,pollinates
+571464,,Gymnocladus dioica,,pollinates
+571464,,Arctomecon humilis,,pollinates
+571464,,Asclepias linaria,,preyedUponBy

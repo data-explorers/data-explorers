@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54876,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+54876,1081332,Lon melane,Umber Skipper,eatenBy
+54876,57681,Anthophora urbana,Urbane Digger Bee,eatenBy
+54876,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+54876,52775,Bombus,Bumble Bees,eatenBy
+54876,126568,Manduca rustica,Rustic Sphinx,eatenBy
+54876,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

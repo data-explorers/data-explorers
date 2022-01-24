@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+573,,land vegetation,,eats
+573,42069,Vulpes vulpes,Red Fox,eatenBy
+573,43584,Homo sapiens,Human,eatenBy
+573,20044,Bubo virginianus,Great Horned Owl,eatenBy
+573,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+573,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+573,20307,Asio otus,Long-eared Owl,eatenBy
+573,233598,Vulpes lagopus,Arctic Fox,eatenBy
+573,,American marten,,eatenBy
+573,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+573,5017,Bubulcus ibis,Cattle Egret,eatenBy
+573,20315,Asio flammeus,Short-eared Owl,eatenBy
+573,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+573,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+573,43584,Homo sapiens,Human,preyedUponBy
+573,30335,Drymarchon corais,Indigo Snake,preyedUponBy

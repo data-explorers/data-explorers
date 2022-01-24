@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+339322,67333,Bacteria,bacteria,eats
+339322,348288,Foraminifera,Foraminifers,eats
+339322,47686,Protozoa,protozoans,eats
+339322,,Khakista,,eats
+339322,,Detritus,,eats
+339322,,Detritus complex,,eats
+339322,48836,Ophiuroidea,Brittle Stars,eatenBy
+339322,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+339322,55396,Solea solea,Common Sole,eatenBy
+339322,115229,Zalieutes mcgintyi,Tricorn Batfish,eatenBy
+339322,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+339322,47524,Pleuronectes,,eatenBy
+339322,180031,Microstomus pacificus,Pacific Dover Sole,eatenBy

@@ -1,0 +1,218 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+800860,151827,Chaetognatha,Arrow Worms,eats
+800860,68764,Ostracoda,Seed Shrimp,eats
+800860,122325,Salpidae,Salps,eats
+800860,121643,Copepoda,Copepods,eats
+800860,348288,Foraminifera,Foraminifers,eats
+800860,47534,Cnidaria,Cnidarians,eats
+800860,47114,Gastropoda,Gastropods,eats
+800860,130225,Dinophyceae,,eats
+800860,47459,Cephalopoda,Cephalopods,eats
+800860,47628,Amphipoda,Amphipods,eats
+800860,129725,Appendicularia,Pelagic Tunicates,eats
+800860,85493,Crustacea,Crustaceans,eats
+800860,153112,Euphausiacea,krill,eats
+800860,122326,Salpida,Salps,eats
+800860,152823,Siphonophorae,Siphonophores,eats
+800860,85521,Harpacticoida,Harpacticoid Copepods,eats
+800860,,Phytoplankton,,eats
+800860,203470,Oithona,,eats
+800860,,Pseudosagitta gazellae,,eats
+800860,496240,Tintinnidae,,eats
+800860,,Khakista,,eats
+800860,340479,Radiolaria,,eats
+800860,344134,Euphausia superba,Antarctic Krill,eats
+800860,,Metridia gerlachei,,eats
+800860,,Pisces,,eats
+800860,,Thysanoessa macrura,,eats
+800860,,Microcalanus pygmaeus,,eats
+800860,496266,Coscinodiscophycidae,Radial Centric Diatoms,eats
+800860,682434,Pelagobia longicirrata,,eats
+800860,,Hyperiella,,eats
+800860,,Calanoides acutus,,eats
+800860,,Eusirus propeperdentatus,,eats
+800860,975132,Eukrohnia hamata,,eats
+800860,,Corethron,,eats
+800860,329109,Oncaea,,eats
+800860,260964,Primno macropa,,eats
+800860,201712,Euchaeta,,eats
+800860,,Antarctomysis ohlinii,,eats
+800860,372878,Hyperiidea,,eats
+800860,55316,Limacina,Planktonic Molluscs,eats
+800860,,Clio,,eats
+800860,152015,Dictyochophyceae,Silicoflagellates,eats
+800860,85507,Calanoida,Calanoid Copepods,eats
+800860,,Invertebrata,,eats
+800860,203476,Metridia,,eats
+800860,201757,Calanidae,,eats
+800860,323055,Heliozoa,,eats
+800860,645579,Pelagobia,,eats
+800860,,Pyrrophycophyta,,eats
+800860,,Prymnesiophyceae,,eats
+800860,,Terebraria kerguelensis,,eats
+800860,,Porosira pseudodenticulata,,eats
+800860,1018737,Thalassiosira gracilis,,eats
+800860,521748,Chaetoceros concavicornis,,eats
+800860,,Chaetoceros pelagicus,,eats
+800860,,Fragilariopsis pseudonana,,eats
+800860,,Fragilariopsis cylindrus,,eats
+800860,,Dictyocha speculum,,eats
+800860,,Proboscia inermi,,eats
+800860,,Parvicorbucula socialis,,eats
+800860,,Coscinodiscus oculoides,,eats
+800860,,Fragilariopsis separanda,,eats
+800860,912996,Fragilariopsis curta,,eats
+800860,,Chaetoceros concavicorne,,eats
+800860,,Chaetoceros socialis,,eats
+800860,,Thalassiosira frenguelliopsis,,eats
+800860,,Eucampia antarctica,,eats
+800860,,Fragilariopsis kerguelensis,,eats
+800860,,Orthilia,,eats
+800860,,Fragilariopsis ritscheri,,eats
+800860,,Fragilariopsis linearis,,eats
+800860,,Manguinea rigida,,eats
+800860,,Azpeitia tabularis,,eats
+800860,,Fragilariopsis obliquecostata,,eats
+800860,,Navicula glaciei,,eats
+800860,,Chaetoceros bulbosus,,eats
+800860,,Fragilariopsis rhombica,,eats
+800860,,Proboscia truncata,,eats
+800860,,Chaetoceros neglectum,,eats
+800860,,Silicioflagellata,,eats
+800860,,Pseudo,,eats
+800860,557268,Manguinea fusiformis,,eats
+800860,,Detritus,,eats
+800860,970151,Thalassiosira gravida,,eats
+800860,966827,Bodo saltans,,eats
+800860,,Fragilariopsis sublinearis,,eats
+800860,,Coscinodiscus ritscheri,,eats
+800860,,Thalassiosira tumida,,eats
+800860,,Chaetoceros flexuosum,,eats
+800860,,Thalassiosira australis,,eats
+800860,,Thalassiosira expecta,,eats
+800860,,Trichotoxon reinboldii,,eats
+800860,,Actinocyclus spiritus,,eats
+800860,,Thalassiosira antarctica,,eats
+800860,,Phaeocystis antarctica,,eats
+800860,,Corethron criophilum,,eats
+800860,,Thalassiosira trifulta,,eats
+800860,,Stellarima microtrias,,eats
+800860,,Odontella weissflogii,,eats
+800860,,Actinocyclus actinochilus,,eats
+800860,85521,Harpacticoida,Harpacticoid Copepods,eatenBy
+800860,121643,Copepoda,Copepods,eatenBy
+800860,4200,Halobaena caerulea,Blue Petrel,eatenBy
+800860,4163,Pachyptila belcheri,Slender-billed Prion,eatenBy
+800860,4164,Pachyptila desolata,Antarctic Prion,eatenBy
+800860,,Anthomastus bathyproctus,,eatenBy
+800860,93835,Amblyraja georgiana,Antarctic Starry Skate,eatenBy
+800860,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+800860,144434,Aphrodroma brevirostris,Kerguelen Petrel,eatenBy
+800860,4184,Fulmarus glacialoides,Southern Fulmar,eatenBy
+800860,4470,Sterna vittata,Antarctic Tern,eatenBy
+800860,4146,Oceanites oceanicus,Wilson's Storm-Petrel,eatenBy
+800860,4202,Thalassoica antarctica,Antarctic Petrel,eatenBy
+800860,4195,Pagodroma nivea,Snow Petrel,eatenBy
+800860,3820,Aptenodytes forsteri,Emperor Penguin,eatenBy
+800860,4449,Sterna paradisaea,Arctic Tern,eatenBy
+800860,4168,Daption capense,Cape Petrel,eatenBy
+800860,4172,Fregetta tropica,Black-bellied Storm-Petrel,eatenBy
+800860,4136,Procellaria aequinoctialis,White-chinned Petrel,eatenBy
+800860,610058,Champsocephalus gunnari,Mackerel icefish,eatenBy
+800860,530438,Gymnoscopelus microlampas,Minispotted Lanternfish,eatenBy
+800860,110696,Protomyctophum luciferum,,eatenBy
+800860,317001,Benthosema suborbitale,Dimple Lanternfish,eatenBy
+800860,617821,Protomyctophum choriodon,,eatenBy
+800860,617785,Gymnoscopelus bolini,,eatenBy
+800860,530452,Protomyctophum normani,Norman's Lanternfish,eatenBy
+800860,530421,Diaphus hudsoni,Hudson's Lanternfish,eatenBy
+800860,617783,Electrona antarctica,,eatenBy
+800860,459365,Diaphus effulgens,Headlight Lanternfish,eatenBy
+800860,459373,Diaphus luetkeni,Luetken's Lanternfish,eatenBy
+800860,617788,Gymnoscopelus nicholsi,,eatenBy
+800860,617789,Gymnoscopelus opisthopterus,,eatenBy
+800860,530446,Metelectrona herwigi,Herwig Lanternfish,eatenBy
+800860,120700,Diaphus meadi,Mead's Lanternfish,eatenBy
+800860,530434,Electrona paucirastra,Belted Lanternfish,eatenBy
+800860,530435,Electrona subaspera,Rough Lanternfish,eatenBy
+800860,617817,Protomyctophum andriashevi,,eatenBy
+800860,617819,Protomyctophum bolini,,eatenBy
+800860,530433,Electrona carlsbergi,Carlsberg's Lanternfish,eatenBy
+800860,459369,Diaphus taaningi,,eatenBy
+800860,344134,Euphausia superba,Antarctic Krill,eatenBy
+800860,1276261,Tintinnida,,eatenBy
+800860,,Nauplii,,eatenBy
+800860,,Khakista,,eatenBy
+800860,55316,Limacina,Planktonic Molluscs,eatenBy
+800860,346581,Calanoides,,eatenBy
+800860,,Pyrrophycophyta,,eatenBy
+800860,346754,Dacnusa,,eatenBy
+800860,,Foraminiferida,,eatenBy
+800860,,Prymnesiophyceae,,eatenBy
+800860,,Invertebrata,,eatenBy
+800860,110999,Pseudocyttus maculatus,Smooth Oreo,eatenBy
+800860,530565,Allocyttus niger,Black Oreo,eatenBy
+800860,609217,Cygnodraco mawsoni,,eatenBy
+800860,,Lepidonotothen larseni,,eatenBy
+800860,194844,Coryphaenoides armatus,Russet Grenadier,eatenBy
+800860,85521,Harpacticoida,Harpacticoid Copepods,preysOn
+800860,121643,Copepoda,Copepods,preysOn
+800860,348288,Foraminifera,Foraminifers,preysOn
+800860,55316,Limacina,Planktonic Molluscs,preysOn
+800860,346581,Calanoides,,preysOn
+800860,,Nauplii,,preysOn
+800860,346754,Dacnusa,,preysOn
+800860,,Invertebrata,,preysOn
+800860,,Foraminiferida,,preysOn
+800860,1276261,Tintinnida,,preysOn
+800860,,Amphidinium hadai,,preysOn
+800860,682434,Pelagobia longicirrata,,preysOn
+800860,,Lenticulina antarctica,,preysOn
+800860,345356,Limacina helicina,Helicid Pteropod,preysOn
+800860,975132,Eukrohnia hamata,,preysOn
+800860,,Gyrodinium lachryama,,preysOn
+800860,,Neogloboquadriana pachyderma,,preysOn
+800860,292943,Clio pyramidata,,preysOn
+800860,1125576,Clione limacina antarctica,,preysOn
+800860,,Calanus propinquus,,preysOn
+800860,,Calanoides acutus,,preysOn
+800860,,Rhincalanus gigas,,preysOn
+800860,,Paraeuchaeta antarctica,,preysOn
+800860,,Metridia gerlachei,,preysOn
+800860,,Zooplankton,,preysOn
+800860,,Onacea,,preysOn
+800860,203470,Oithona,,preysOn
+800860,41550,Balaenoptera acutorostrata,Minke Whale,preyedUponBy
+800860,41562,Balaenoptera physalus,Fin Whale,preyedUponBy
+800860,41553,Balaenoptera musculus,Blue Whale,preyedUponBy
+800860,609217,Cygnodraco mawsoni,,preyedUponBy
+800860,110999,Pseudocyttus maculatus,Smooth Oreo,preyedUponBy
+800860,530565,Allocyttus niger,Black Oreo,preyedUponBy
+800860,4163,Pachyptila belcheri,Slender-billed Prion,preyedUponBy
+800860,4164,Pachyptila desolata,Antarctic Prion,preyedUponBy
+800860,1130031,Hyperia macrocephala,,preyedUponBy
+800860,780667,Desmonema glaciale,,preyedUponBy
+800860,195414,Solmundella bitentaculata,,preyedUponBy
+800860,,Anthomastus bathyproctus,,preyedUponBy
+800860,,Notolepis coatsi,,preyedUponBy
+800860,,Trematomus eulepidotus,,preyedUponBy
+800860,1136817,Urticinopsis antarctica,,preyedUponBy
+800860,4184,Fulmarus glacialoides,Southern Fulmar,preyedUponBy
+800860,608635,Pogonophryne marmorata,,preyedUponBy
+800860,4136,Procellaria aequinoctialis,White-chinned Petrel,preyedUponBy
+800860,609219,Gymnodraco acuticeps,,preyedUponBy
+800860,4146,Oceanites oceanicus,Wilson's Storm-Petrel,preyedUponBy
+800860,1316623,Pleuragramma antarcticum,,preyedUponBy
+800860,4198,Macronectes giganteus,Southern Giant-Petrel,preyedUponBy
+800860,541733,Notothenia rossii,Marbled Rockcod,preyedUponBy
+800860,256088,Periphylla periphylla,Helmet Jelly,preyedUponBy
+800860,371728,Notothenia coriiceps,Black Rockcod,preyedUponBy
+800860,,Dipulmaris antarctica,,preyedUponBy
+800860,609222,Prionodraco evansii,,preyedUponBy
+800860,4200,Halobaena caerulea,Blue Petrel,preyedUponBy
+800860,4168,Daption capense,Cape Petrel,preyedUponBy
+800860,,Trematomus loennbergii,,preyedUponBy
+800860,617786,Gymnoscopelus braueri,,preyedUponBy
+800860,617789,Gymnoscopelus opisthopterus,,preyedUponBy
+800860,4202,Thalassoica antarctica,Antarctic Petrel,preyedUponBy
+800860,111471,Racovitzia glacialis,,preyedUponBy

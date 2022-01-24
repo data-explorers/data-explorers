@@ -1,0 +1,205 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47170,47186,Decapoda,Decapods,eats
+47170,47126,Plantae,plants,eats
+47170,47851,Quercus,oaks,eats
+47170,47561,Pinus,pines,eats
+47170,,Detritus,,eats
+47170,,bovine or equine dung,,eats
+47170,,soil,,eats
+47170,,no name,,eats
+47170,,leaves and trunks,,eats
+47170,,Magnoliophyta,,eats
+47170,70025,Pandanus,screwpines,eats
+47170,,Artocarpus altilis,,eats
+47170,210279,Cyrtosperma,,eats
+47170,,total litter,,eats
+47170,,leaves,,eats
+47170,,dead leaves,,eats
+47170,,dead roots,,eats
+47170,,roots,,eats
+47170,,rotting wood,,eats
+47170,,live leaves,,eats
+47170,,sapwood,,eats
+47170,,phloem (Pinus spp.),,eats
+47170,,phloem (Quercus spp.),,eats
+47170,,land vegetation,,eats
+47170,,Artocarpus,,eats
+47170,,wind-blown organic debris - pollen,,eats
+47170,,decomposing sphagnum,,eats
+47170,,ground -- roots - fallen fruit - leaves and trunks,,eats
+47170,,litter - detritus - humus,,eats
+47170,,Leaves,,eats
+47170,42069,Vulpes vulpes,Red Fox,eatenBy
+47170,155453,Aedes aegypti,Yellow Fever Mosquito,eatenBy
+47170,155309,Culex quinquefasciatus,Southern House Mosquito,eatenBy
+47170,42158,Cervidae,Deer,eatenBy
+47170,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47170,47686,Protozoa,protozoans,eatenBy
+47170,47186,Decapoda,Decapods,eatenBy
+47170,54960,Nematoda,Nematodes,eatenBy
+47170,3,Aves,Birds,eatenBy
+47170,47822,Diptera,Flies,eatenBy
+47170,49470,Collembola,Springtails,eatenBy
+47170,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+47170,49996,Anthomyiidae,Root-maggot Flies,eatenBy
+47170,47158,Insecta,Insects,eatenBy
+47170,42219,Odocoileus,White-tailed and Mule Deer,eatenBy
+47170,83201,Thysanoptera,Thrips,eatenBy
+47170,47336,Formicidae,Ants,eatenBy
+47170,52788,Acari,Mites and Ticks,eatenBy
+47170,47208,Coleoptera,Beetles,eatenBy
+47170,46272,Glaucomys volans,Southern Flying Squirrel,eatenBy
+47170,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+47170,46020,Sciurus niger,Fox Squirrel,eatenBy
+47170,43840,Zapus hudsonius,Meadow Jumping Mouse,eatenBy
+47170,85887,Megascolecidae,Giant Earthworms,eatenBy
+47170,47735,Diplopoda,Millipedes,eatenBy
+47170,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eatenBy
+47170,48291,Oniscidae,Sow Bugs,eatenBy
+47170,125816,Auchenorrhyncha,True Hoppers,eatenBy
+47170,120595,Parcoblatta,North American Wood Cockroaches,eatenBy
+47170,91217,Polygyra,Flatcoils,eatenBy
+47170,53814,Bolitotherus cornutus,Forked Fungus Beetle,eatenBy
+47170,55699,Cecidomyiidae,Gall and Forest Midges,eatenBy
+47170,68020,Dolichopodidae,Long-legged Flies,eatenBy
+47170,53275,Chironomidae,Non-biting Midges,eatenBy
+47170,56083,Armadillidium vulgare,Common Pill Woodlouse,eatenBy
+47170,48292,Philoscia muscorum,Common Striped Woodlouse,eatenBy
+47170,48284,Oniscus asellus,Common Shiny Woodlouse,eatenBy
+47170,8010,Corvus corax,Common Raven,eatenBy
+47170,46023,Sciurus griseus,Western Gray Squirrel,eatenBy
+47170,50001,Terrapene carolina carolina,Eastern Box Turtle,eatenBy
+47170,145310,Spinus tristis,American Goldfinch,eatenBy
+47170,448395,Ambigolimax,Threeband Slugs,eatenBy
+47170,247660,Polypedilum,,eatenBy
+47170,54662,Mugil,Common Mullets,eatenBy
+47170,6888,Anseriformes,Waterfowl,eatenBy
+47170,63089,Clitellata,Clitellates,eatenBy
+47170,252535,Ectopsocus,,eatenBy
+47170,203347,Anurida maritima,Seashore Springtail,eatenBy
+47170,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",eatenBy
+47170,129409,Chironomus,,eatenBy
+47170,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47170,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47170,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+47170,41641,Ursus arctos,Brown Bear,eatenBy
+47170,41644,Ursus maritimus,Polar Bear,eatenBy
+47170,,Spermophilus columbianus,,eatenBy
+47170,,Ochlerotatus epactius,,eatenBy
+47170,,Epiphyas postvittana,,eatenBy
+47170,,Amyelois transitella,,eatenBy
+47170,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,eatenBy
+47170,,Psorophora ferox,,eatenBy
+47170,,Aedes tormentor,,eatenBy
+47170,,Psorophora horrida,,eatenBy
+47170,,Psorophora varipes,,eatenBy
+47170,,Sulcacis affinis,,eatenBy
+47170,,Cis castaneus,,eatenBy
+47170,,Cis boleti,,eatenBy
+47170,,Cis micans,,eatenBy
+47170,,Cis americanus,,eatenBy
+47170,,Octotemnus glabriculus,,eatenBy
+47170,,Ennearthron,,eatenBy
+47170,,Gibbifer californicus,,eatenBy
+47170,,Endomychus coccineus,,eatenBy
+47170,,Cis bidentatus,,eatenBy
+47170,,Pharaxonotha,,eatenBy
+47170,,Scaphidium quadrimaculatum,,eatenBy
+47170,,Scaphisoma agaricinum,,eatenBy
+47170,,Mycetophagus quadripustulatus,,eatenBy
+47170,,Litargus connexus,,eatenBy
+47170,,Fannia canicularis,,eatenBy
+47170,,Pyrochroa coccinea,,eatenBy
+47170,,Alphitophagus bifasciatus,,eatenBy
+47170,500406,Mycetophagus piceus,,eatenBy
+47170,,Mycetophagus atomarius,,eatenBy
+47170,,Rhopalodontus fracticornis,,eatenBy
+47170,,Megalodacne,,eatenBy
+47170,,Onychiurus,,eatenBy
+47170,,Seira,,eatenBy
+47170,,Folsomia,,eatenBy
+47170,,Eastern chipmunk,,eatenBy
+47170,,North American deermouse,,eatenBy
+47170,,Southern red-backed vole,,eatenBy
+47170,,Mus sp.,,eatenBy
+47170,,American black bear,,eatenBy
+47170,,Detritus,,eatenBy
+47170,,bacterial and fungal feeders,,eatenBy
+47170,,macroarthropod f,,eatenBy
+47170,,Rangifer,,eatenBy
+47170,,scarlet mite,,eatenBy
+47170,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+47170,362291,Meconema meridionale,Southern Oak Bush-cricket,preysOn
+47170,216086,Carabus granulatus,Granulated Ground Beetle,preysOn
+47170,61524,Forficula auricularia,European Earwig,preyedUponBy
+47170,,Riekoperla tillyardi,,preyedUponBy
+47170,,Amara communis,,preyedUponBy
+47170,172978,Atheta,vexing rove beetles,preyedUponBy
+47170,,Tachyporus tersus,,preyedUponBy
+47170,,Xantholinus linearis,,preyedUponBy
+47170,,Tachinus rufipes,,preyedUponBy
+47170,,Bolitobius castaneus,,preyedUponBy
+47170,,Philonthus concinnus,,preyedUponBy
+47170,,Rgonycha fulva,,preyedUponBy
+47170,,Atomaria basalis,,preyedUponBy
+47170,,Anisodactylus binotatus,,preyedUponBy
+47170,739109,Philonthus atratus,,preyedUponBy
+47170,988115,Atomaria nigriventris,,preyedUponBy
+47170,174609,Atomaria,,preyedUponBy
+47170,,Lathrobium pallidum,,preyedUponBy
+47170,,Megasternum concinnum,,preyedUponBy
+47170,,Psyllobora vigintiduopunctata,,preyedUponBy
+47170,,Amara sinuosa,,preyedUponBy
+47170,988111,Atomaria atricapilla,,preyedUponBy
+47170,,Xantholinus dvoraki,,preyedUponBy
+47170,,Amara aulica,,preyedUponBy
+47170,,Gyrohypnus angustatus,,preyedUponBy
+47170,,Philonthus succicola,,preyedUponBy
+47170,,Ptomaphagus subvillosus,,preyedUponBy
+47170,,Anchomenus dorsalis,,preyedUponBy
+47170,988882,Choleva oblonga,,preyedUponBy
+47170,,Catops nigriclavis,,preyedUponBy
+47170,,Ptomaphagus varicornis,,preyedUponBy
+47170,,Brachypterus glaber,,preyedUponBy
+47170,130412,Acupalpus meridianus,,preyedUponBy
+47170,,Sciodrepoides watsoni,,preyedUponBy
+47170,,Tasgius pedator,,preyedUponBy
+47170,212779,Agonum muelleri,,preyedUponBy
+47170,130452,Amara plebeja,,preyedUponBy
+47170,,Pella limbata,,preyedUponBy
+47170,547575,Anthicus antherinus,,preyedUponBy
+47170,,Ocypus nitens,,preyedUponBy
+47170,1004324,Oxypoda longipes,,preyedUponBy
+47170,,Paederus littoralis,,preyedUponBy
+47170,,Oxypoda brevicornis,,preyedUponBy
+47170,130433,Amara aenea,Common Sun Beetle,preyedUponBy
+47170,,Oxypoda formiceticola,,preyedUponBy
+47170,,Liocyrtusa vittata,,preyedUponBy
+47170,,Amara quenseli,,preyedUponBy
+47170,,Oxypoda lurida,,preyedUponBy
+47170,,Platydracus stercorarius,,preyedUponBy
+47170,213121,Amara bifrons,,preyedUponBy
+47170,,Philonthus lepidus,,preyedUponBy
+47170,,Philonthus laminatus,,preyedUponBy
+47170,,Amara ovata,,preyedUponBy
+47170,,Amara consularis,,preyedUponBy
+47170,,Philonthus tenuicornis,,preyedUponBy
+47170,,Tachyporus obtusus,,preyedUponBy
+47170,,Tachyporus atriceps,,preyedUponBy
+47170,,Carpelimus punctatellus,,preyedUponBy
+47170,,Xantholinus longiventris,,preyedUponBy
+47170,,Amara equestris,,preyedUponBy
+47170,53869,Ocypus olens,Devil's Coach Horse Beetle,preyedUponBy
+47170,,Oligota pumilio,,preyedUponBy
+47170,,Amara lunicollis,,preyedUponBy
+47170,,Tachyporus solutus,,preyedUponBy
+47170,525998,Mitostoma chrysomelas,,preyedUponBy
+47170,,Tasgius melanarius,,preyedUponBy
+47170,,Amara eurynota,,preyedUponBy
+47170,,Tachyporus nitidulus,,preyedUponBy
+47170,,Tachyporus pusillus,,preyedUponBy
+47170,,Tachyporus pulchellus,,preyedUponBy
+47170,131087,Eusphalerum luteum,,preyedUponBy
+47170,,Ocypus aeneocephalus,,preyedUponBy
+47170,,Lathrobium fulvipenne,,preyedUponBy
+47170,,Ariolimax columbianus,,preyedUponBy

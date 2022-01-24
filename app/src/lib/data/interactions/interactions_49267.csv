@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49267,47126,Plantae,plants,eats
+49267,144117,Thecostraca,Barnacles and Allies,eats
+49267,85493,Crustacea,Crustaceans,eats
+49267,47628,Amphipoda,Amphipods,eats
+49267,348288,Foraminifera,Foraminifers,eats
+49267,121639,Brachyura,True Crabs,eats
+49267,48147,Isopoda,Isopods,eats
+49267,47115,Mollusca,Molluscs,eats
+49267,47114,Gastropoda,Gastropods,eats
+49267,47582,Ostreidae,True Oysters,eats
+49267,,Littoraria fasciata,,eats
+49267,,Detritus,,eats
+49267,,Littoraria varia,,eats
+49267,,mangrove root bark,,eats
+49267,39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,eatenBy
+49267,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+49267,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+49267,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+49267,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49267,96993,Cephalopholis fulva,Coney,eatenBy
+49267,415095,Olivancillaria,,preysOn
+49267,255518,Eulithidium affine,,preysOn
+49267,129939,Odostomia,,preysOn
+49267,499535,Fissurella rosea,Rosy Keyhole Limpet,preysOn
+49267,,Zooplankton,,preysOn
+49267,318698,Hydrophis schistosus,Common Seasnake,preyedUponBy
+49267,200388,Hydrophis hardwickii,Hardwicke’s Spine-bellied Seasnake,preyedUponBy
+49267,112497,Serranus atricauda,Blacktail Comber,preyedUponBy

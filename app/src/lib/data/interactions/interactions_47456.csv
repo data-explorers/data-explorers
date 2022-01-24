@@ -1,0 +1,69 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47456,151838,Priapulida,Priapulid Worms,eats
+47456,47178,Actinopterygii,Ray-finned Fishes,eats
+47456,47114,Gastropoda,Gastropods,eats
+47456,47686,Protozoa,protozoans,eats
+47456,47186,Decapoda,Decapods,eats
+47456,47584,Bivalvia,Bivalves,eats
+47456,47456,Octopus,,eats
+47456,,Detritus,,eats
+47456,,Phytoplankton,,eats
+47456,67990,Scaphopoda,Tusk Shells,eats
+47456,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47456,47186,Decapoda,Decapods,eatenBy
+47456,47456,Octopus,,eatenBy
+47456,47641,Scorpaena guttata,California Scorpionfish,eatenBy
+47456,47688,Erodium,stork's-bills,eatenBy
+47456,,Chondrichthyes,,eatenBy
+47456,47638,Scorpaenichthys marmoratus,Cabezon,eatenBy
+47456,571229,Bathynomus giganteus,Giant Isopod,eatenBy
+47456,41464,Kogia breviceps,Pygmy Sperm Whale,eatenBy
+47456,41733,Halichoerus grypus,Grey Seal,eatenBy
+47456,430553,Merlangius merlangus,Whiting,eatenBy
+47456,63740,Gadus morhua,Atlantic Cod,eatenBy
+47456,49168,Caulolatilus princeps,Ocean Whitefish,eatenBy
+47456,47760,Sebastes melanops,Black rockfish,eatenBy
+47456,52539,Ophiodon elongatus,Lingcod,eatenBy
+47456,91882,Saurida,,eatenBy
+47456,112295,Schroederichthys bivius,Narrowmouthed Catshark,eatenBy
+47456,,Beringraja pulchra,,eatenBy
+47456,132534,Pagrus major,Red Seabream,eatenBy
+47456,612399,Cynoglossus semilaevis,,eatenBy
+47456,49637,Epinephelus morio,Red Grouper,eatenBy
+47456,103158,Hyporthodus flavolimbatus,Yellow-edge Grouper,eatenBy
+47456,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+47456,49421,Diplectrum formosum,Sand Perch,eatenBy
+47456,100095,Epinephelus drummondhayi,Speckled Hind,eatenBy
+47456,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47456,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+47456,102053,Halichoeres maculipinna,Clown Wrasse,eatenBy
+47456,104853,Lutjanus analis,Mutton Snapper,eatenBy
+47456,49262,Haemulon sciurus,Bluestriped Grunt,eatenBy
+47456,62600,Haemulon flavolineatum,French Grunt,eatenBy
+47456,153280,Caranx ignobilis,Giant Trevally,eatenBy
+47456,106270,Mustelus schmitti,Narrownose Smooth-hound,eatenBy
+47456,212924,Albatrossia pectoralis,Giant Grenadier,eatenBy
+47456,101181,Galeus eastmani,Gecko Catshark,eatenBy
+47456,,Somniosus pacificus,,eatenBy
+47456,102626,Hemitriakis japanica,Japanese Topeshark,eatenBy
+47456,107448,Okamejei kenojei,Ocellated Spot Skate,eatenBy
+47456,194678,Lateolabrax japonicus,Japanese Seabass,eatenBy
+47456,41728,Mirounga angustirostris,Northern Elephant Seal,preyedUponBy
+47456,41440,Phocoena phocoena,Harbour Porpoise,preyedUponBy
+47456,4180,Fulmarus glacialis,Northern Fulmar,preyedUponBy
+47456,41740,Zalophus californianus,California Sea Lion,preyedUponBy
+47456,41708,Phoca vitulina,Harbor Seal,preyedUponBy
+47456,47688,Erodium,stork's-bills,preyedUponBy
+47456,133061,Enhydra lutris kenyoni,Northern Sea Otter,preyedUponBy
+47456,4547,Ptychoramphus aleuticus,Cassin's Auklet,preyedUponBy
+47456,101176,Galeorhinus galeus,School Shark,preyedUponBy
+47456,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy
+47456,64478,Sebastes entomelas,Widow Rockfish,preyedUponBy
+47456,110361,Prionace glauca,Blue Shark,preyedUponBy
+47456,54191,Oncorhynchus tshawytscha,Chinook Salmon,preyedUponBy
+47456,64477,Sebastes flavidus,Yellowtail Rockfish,preyedUponBy
+47456,64448,Sebastes diploproa,Splitnose Rockfish,preyedUponBy
+47456,51353,Anoplopoma fimbria,Sablefish,preyedUponBy
+47456,49168,Caulolatilus princeps,Ocean Whitefish,preyedUponBy
+47456,569313,Otaria byronia,South American Sea Lion,preyedUponBy
+47456,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy

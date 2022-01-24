@@ -1,0 +1,137 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60603,47158,Insecta,Insects,eats
+60603,191599,Pleurobrachia pileus,Sea Walnut,eats
+60603,51508,Ctenophora,Comb Jellies,eats
+60603,47490,Polychaeta,Polychaete Worms,eats
+60603,48174,Paguridae,Pagurid Hermit Crabs,eats
+60603,203466,Idotea balthica,Baltic Isopod,eats
+60603,144117,Thecostraca,Barnacles and Allies,eats
+60603,48580,Idotea,,eats
+60603,48332,Scyphozoa,True Jellies,eats
+60603,191560,Beroe cucumis,Northern Comb Jelly,eats
+60603,195355,Hyperiidae,,eats
+60603,47628,Amphipoda,Amphipods,eats
+60603,47186,Decapoda,Decapods,eats
+60603,85521,Harpacticoida,Harpacticoid Copepods,eats
+60603,47811,Ascidiacea,Sea Squirts,eats
+60603,67555,Codium fragile,Dead Man's Fingers,eats
+60603,67423,Ulva lactuca,broadleaf sea lettuce,eats
+60603,68769,Ascophyllum,,eats
+60603,48216,Fucus vesiculosus,bladder wrack,eats
+60603,85493,Crustacea,Crustaceans,eats
+60603,117711,Pleurobrachia,,eats
+60603,1,Animalia,Animals,eats
+60603,51653,Sarsia,Small Planktonic Medusas,eats
+60603,47178,Actinopterygii,Ray-finned Fishes,eats
+60603,47126,Plantae,plants,eats
+60603,121643,Copepoda,Copepods,eats
+60603,49581,Nereididae,,eats
+60603,48328,Aurelia aurita,Moon Jelly,eats
+60603,424300,Pandalus montagui,Aesop Shrimp,eats
+60603,372502,Calanus finmarchicus,,eats
+60603,260828,Hyperia galba,,eats
+60603,851206,Idotea emarginata,,eats
+60603,203467,Temora longicornis,,eats
+60603,203471,Centropages hamatus,,eats
+60603,194046,Gammarus locusta,,eats
+60603,552322,Gammarellus homari,,eats
+60603,337886,Idotea pelagica,,eats
+60603,549459,Calliopius laeviusculus,Planktonic Amphipod,eats
+60603,417654,Nereis pelagica,,eats
+60603,,Harpacticus uniremis,,eats
+60603,706438,Themisto libellula,,eats
+60603,,Onisimus glacialis,,eats
+60603,,Ophiopholis aculeata,,eats
+60603,,Apherusa glacialis,,eats
+60603,195682,Ophiura,,eats
+60603,,Onisimus nanseni,,eats
+60603,59807,Gammarus,,eats
+60603,130176,Chondrus crispus,Irish moss,eats
+60603,57779,Asparagopsis armata,Harpoonweed,eats
+60603,203745,Ceramium diaphanum,,eats
+60603,182852,Sphacelaria cirrosa,,eats
+60603,,Enteromorpha intestinalis,,eats
+60603,,Polysiphonia stricta,,eats
+60603,57772,Fucus serratus,Saw Wrack,eats
+60603,874525,Stilophora tenella,,eats
+60603,372718,Cladophora albida,,eats
+60603,505597,Cladophora rupestris,,eats
+60603,182985,Bonnemaisonia hamifera,Bonnemaison's Hook Weed,eats
+60603,857309,Cladophora dalmatica,,eats
+60603,327563,Ulva clathrata,,eats
+60603,182820,Chaetomorpha linum,Sea Hair,eats
+60603,942992,Vertebrata fruticulosa,,eats
+60603,118821,Himanthalia elongata,Thongweed,eats
+60603,182822,Cladophora sericea,Graceful green hair,eats
+60603,203723,Ceramium virgatum,,eats
+60603,182834,Ectocarpus siliculosus,,eats
+60603,51024,Dictyota dichotoma,Forked ribbons,eats
+60603,,Feldmannia globifera,,eats
+60603,,Osmundea ramosissima,,eats
+60603,361840,Jania rubens,,eats
+60603,,Ulva compressa,,eats
+60603,343402,Codium vermilara,,eats
+60603,1249071,Ulvella leptochaete,,eats
+60603,,Parathemisto,,eats
+60603,,Harpacticus chelifer,,eats
+60603,,Medusozoa,,eats
+60603,,Gnathostomata,,eats
+60603,639178,Meganyctiphanes norvegica,Northern Krill,eats
+60603,60395,Branchiopoda,Branchiopods,eats
+60603,,Prymnesiophyceae,,eats
+60603,130090,Porcellana,,eats
+60603,201781,Calanus,,eats
+60603,195173,Macropipus,,eats
+60603,,,,eats
+60603,203476,Metridia,,eats
+60603,59806,Gammaridae,,eats
+60603,48817,Crangon,,eats
+60603,,Pisces,,eats
+60603,203478,Evadne,,eats
+60603,195081,Acartia,,eats
+60603,,Isias,,eats
+60603,203396,Centropages,,eats
+60603,,Detritus,,eats
+60603,47523,Pleuronectes platessa,European Plaice,eats
+60603,3802,Morus bassanus,Northern Gannet,eatenBy
+60603,48402,Amblyraja radiata,Thorny Skate,eatenBy
+60603,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+60603,,Phycis blennoides,,eatenBy
+60603,63740,Gadus morhua,Atlantic Cod,eatenBy
+60603,74890,Physeter macrocephalus,Sperm Whale,eatenBy
+60603,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+60603,123807,Paralithodes camtschaticus,Red King Crab,eatenBy
+60603,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+60603,,Tigriopus brevicornis,,preysOn
+60603,,Zaus spinatus,,preysOn
+60603,552295,Gammarellus angulosus,,preysOn
+60603,,Microcalanus pusillis,,preysOn
+60603,130385,Palaemon serratus,Common Prawn,preysOn
+60603,,Centropages typicus,,preysOn
+60603,203467,Temora longicornis,,preysOn
+60603,,Bougainvillea ramosa,,preysOn
+60603,,Eutemora hirundoides,,preysOn
+60603,,Eucalanus elongatus elongatus,,preysOn
+60603,47523,Pleuronectes platessa,European Plaice,preysOn
+60603,329013,Pseudocalanus elongatus,,preysOn
+60603,,Thalestris rufovalescans,,preysOn
+60603,,Gammaropsis maculata,,preysOn
+60603,346580,Calanus helgolandicus,,preysOn
+60603,480415,Acartia clausi,,preysOn
+60603,117678,Tigriopus californicus,,preysOn
+60603,1110968,Podon intermedius,,preysOn
+60603,203477,Evadne nordmanni,,preysOn
+60603,64641,Gammarus salinus,,preysOn
+60603,,Paracalanus parvus,,preysOn
+60603,118851,Crangon crangon,Brown Shrimp,preysOn
+60603,,Gammarus insensiblis,,preysOn
+60603,,Diosaccuss tenuicornis,,preysOn
+60603,,Osteichthyes,,preysOn
+60603,203475,Metridia lucens,,preysOn
+60603,639178,Meganyctiphanes norvegica,Northern Krill,preysOn
+60603,417654,Nereis pelagica,,preysOn
+60603,865956,Themisto compressa,,preysOn
+60603,447155,Larinae,Gulls,preyedUponBy
+60603,113064,Squatina squatina,Angelshark,preyedUponBy
+60603,,no name,,preyedUponBy
+60603,82349,Hippoglossus hippoglossus,Atlantic Halibut,preyedUponBy

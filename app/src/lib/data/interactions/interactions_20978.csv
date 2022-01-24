@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+20978,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+20978,144455,Ardea alba,Great Egret,eatenBy
+20978,41777,Lontra canadensis,North American River Otter,eatenBy
+20978,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+20978,26575,Diadophis punctatus,ring-necked snake,eatenBy
+20978,12890,Catharus guttatus,Hermit Thrush,eatenBy
+20978,72486,Alopochen aegyptiaca,Egyptian Goose,eatenBy
+20978,4940,Egretta thula,Snowy Egret,eatenBy
+20978,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+20978,8010,Corvus corax,Common Raven,eatenBy
+20978,5020,Butorides virescens,Green Heron,eatenBy
+20978,116999,Pandion haliaetus,Osprey,eatenBy
+20978,42069,Vulpes vulpes,Red Fox,eatenBy
+20978,3892,Tringa melanoleuca,Greater Yellowlegs,eatenBy
+20978,3875,Tringa solitaria,Solitary Sandpiper,eatenBy
+20978,19893,Strix varia,Barred Owl,eatenBy
+20978,28362,Thamnophis sirtalis,Common Garter Snake,eatenBy
+20978,41663,Procyon lotor,Common Raccoon,eatenBy
+20978,5009,Ixobrychus exilis,Least Bittern,eatenBy
+20978,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eatenBy
+20978,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+20978,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+20978,20044,Bubo virginianus,Great Horned Owl,eatenBy
+20978,9602,Quiscalus quiscula,Common Grackle,eatenBy
+20978,558446,Circus hudsonius,Northern Harrier,eatenBy
+20978,4665,Falco sparverius,American Kestrel,eatenBy
+20978,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+20978,,Potamogale velox,,eatenBy
+20978,,Prionodon pardicolor,,eatenBy
+20978,,Prionailurus iriomotensis,,eatenBy
+20978,26159,Alligator mississippiensis,American Alligator,eatenBy
+20978,,Agkistrodon piscivorus,,eatenBy
+20978,,Cardioderma cor,,eatenBy
+20978,332338,Lycalopex griseus,Chilla,eatenBy
+20978,,Pulsatrix perspicillata,,eatenBy
+20978,41824,Galictis cuja,Lesser Grison,eatenBy
+20978,42649,Didelphis marsupialis,Southern Opossum,eatenBy
+20978,1122960,Antechinus swainsonii,Tasmanian Dusky Antechinus,eatenBy
+20978,4742,Mycteria americana,Wood Stork,eatenBy
+20978,,Melogale everetti,,eatenBy
+20978,,Herpestes edwardsi,,eatenBy
+20978,26777,Ambystoma mexicanum,Axolotl,eatenBy
+20978,,Cerdocyon thous,,eatenBy
+20978,,Galago alleni,,eatenBy
+20978,39,Grus japonensis,Red-crowned Crane,eatenBy
+20978,,Corvus caurinus,,eatenBy
+20978,41812,Mustela putorius,Western Polecat,eatenBy
+20978,26729,Ambystoma annulatum,Ringed Salamander,eatenBy
+20978,45292,Hydromys chrysogaster,Rakali,eatenBy
+20978,28423,Thamnophis butleri,Butler's Garter Snake,eatenBy
+20978,41970,Panthera onca,Jaguar,eatenBy
+20978,,Aonyx cinereus,,eatenBy
+20978,,Aphelocoma ultramarina,,eatenBy
+20978,,Crocidura leucodon,,eatenBy
+20978,,Eudocimus ruber,,eatenBy
+20978,,Paraechinus aethiopicus,,eatenBy
+20978,,Lithobates okaloosae,,eatenBy
+20978,201282,Gallinula chloropus,Common Moorhen,eatenBy
+20978,,Didelphis albiventris,,eatenBy
+20978,41676,Bassariscus astutus,Ringtail,eatenBy
+20978,,Mustela altaica,,eatenBy
+20978,41822,Ictonyx striatus,Zorilla,eatenBy
+20978,,Anas strepera,,eatenBy
+20978,,Buteo nitidus,,eatenBy
+20978,,Heloderma horridum,,eatenBy
+20978,,Prionailurus planiceps,,eatenBy
+20978,5416,Ictinia mississippiensis,Mississippi Kite,eatenBy
+20978,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+20978,41837,Melogale moschata,Small-toothed Ferret Badger,eatenBy
+20978,,Bassaricyon gabbii,,eatenBy
+20978,,Prionailurus viverrinus,,eatenBy
+20978,,Genetta piscivora,,eatenBy
+20978,,Trichomycterus caliensis,,eatenBy
+20978,430553,Merlangius merlangus,Whiting,eatenBy
+20978,104905,Lygophis anomalus,Gunther´s Striped Snake,eatenBy
+20978,,Milvago chimango,,eatenBy
+20978,,Chlidonias hybrida,,eatenBy
+20978,144536,Gelochelidon nilotica,Gull-billed Tern,eatenBy
+20978,3878,Tringa nebularia,Common Greenshank,eatenBy
+20978,41926,Bdeogale nigripes,Black-legged Mongoose,eatenBy
+20978,42591,Metachirus nudicaudatus,Brown Four-eyed Opossum,eatenBy
+20978,74481,Leopardus geoffroyi,Geoffroy's Cat,eatenBy
+20978,,Mustela vison,,eatenBy
+20978,41856,Lutrogale perspicillata,Smooth-coated Otter,eatenBy
+20978,,Otus asio,,eatenBy
+20978,,Tamias dorsalis,,eatenBy
+20978,41836,Melogale personata,Large-toothed Ferret Badger,eatenBy
+20978,41326,Macroderma gigas,Australian False Vampire Bat,eatenBy
+20978,,Gavia stellata,,eatenBy
+20978,4938,Egretta tricolor,Tricolored Heron,eatenBy
+20978,41900,Herpestes ichneumon,Ichneumon,eatenBy
+20978,,Canis lupus familiaris,,eatenBy
+20978,,Hylobates klossii,,eatenBy
+20978,41919,Atilax paludinosus,Marsh Mongoose,eatenBy
+20978,,Leopardus colocolo,,eatenBy
+20978,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+20978,922459,Felis silvestris,European Wildcat,eatenBy
+20978,,Herpestes urva,,eatenBy
+20978,41957,Felis nigripes,Black-footed Cat,eatenBy
+20978,74354,Genetta cristata,Crested Genet,eatenBy
+20978,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+20978,,Thamnodynastes hypoconia,,preyedUponBy
+20978,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+20978,115772,Leptophis ahaetulla marginatus,,preyedUponBy
+20978,104905,Lygophis anomalus,Gunther´s Striped Snake,preyedUponBy
+20978,27249,Chironius scurrulus,Wagler's Sipo,preyedUponBy
+20978,539416,Bothrops itapetiningae,São Paulo Lancehead,preyedUponBy
+20978,,Gonionotophis capensis,,preyedUponBy
+20978,243,Rallus limicola,Virginia Rail,preyedUponBy
+20978,19910,Strix uralensis,Ural Owl,preyedUponBy
+20978,19898,Strix aluco,Tawny Owl,preyedUponBy

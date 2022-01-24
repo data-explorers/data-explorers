@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+448319,85493,Crustacea,Crustaceans,eats
+448319,144117,Thecostraca,Barnacles and Allies,eats
+448319,121643,Copepoda,Copepods,eats
+448319,,Pisces,,eats
+448319,117571,Clupea pallasii,Pacific herring,eats

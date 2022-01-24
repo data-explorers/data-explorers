@@ -1,0 +1,71 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+16010,47208,Coleoptera,Beetles,eats
+16010,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+16010,47158,Insecta,Insects,eats
+16010,47792,Odonata,Dragonflies and Damselflies,eats
+16010,47157,Lepidoptera,Butterflies and Moths,eats
+16010,50186,Cicadidae,Typical Cicadas,eats
+16010,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+16010,49567,Carabidae,Ground Beetles,eats
+16010,48959,Reduviidae,Assassin Bugs,eats
+16010,47124,Magnoliopsida,dicots,eats
+16010,48194,Psyllidae,jumping plant lice,eats
+16010,47822,Diptera,Flies,eats
+16010,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+16010,48486,Coccinellidae,Lady Beetles,eats
+16010,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+16010,53237,Cicadellidae,Typical Leafhoppers,eats
+16010,47742,Pentatomidae,Stink Bugs,eats
+16010,125816,Auchenorrhyncha,True Hoppers,eats
+16010,47118,Araneae,Spiders,eats
+16010,47336,Formicidae,Ants,eats
+16010,61267,Heteroptera,True Bugs,eats
+16010,47982,Asilidae,Robber Flies,eats
+16010,47120,Arthropoda,Arthropods,eats
+16010,52689,Sambucus,elders,eats
+16010,3,Aves,Birds,eats
+16010,47927,Anisoptera,Dragonflies,eats
+16010,52158,Schistocerca nitens,Gray Bird Grasshopper,eats
+16010,49528,Forficulidae,Common Earwigs,eats
+16010,244407,Zelus renardii,Leafhopper Assassin Bug,eats
+16010,67737,Rhionaeschna multicolor,Blue-eyed Darner,eats
+16010,61356,Vespula,Ground Yellowjackets,eats
+16010,49525,Scutelleridae,Jewel Bugs,eats
+16010,49024,Membracidae,Typical Treehoppers,eats
+16010,,Thyreocoridae,,eats
+16010,218223,Dendroctonus valens,Red Turpentine Beetle,eats
+16010,283078,Achatocarpus nigricans,,eats
+16010,,Bursera fagaroides,,eats
+16010,,Vitis biformis,,eats
+16010,284455,Tabernaemontana alba,,eats
+16010,,Bromelia pinguin,,eats
+16010,,Eugenia acapulcensis,,eats
+16010,,Tournefortia hirsutissima,,eats
+16010,,Tabernaemontana litoralis,,eats
+16010,,Dendropanax arboreus,,eats
+16010,316801,Randia laetevirens,,eats
+16010,,Rourea glabra,,eats
+16010,,Sabal,,eats
+16010,,Karwinskia humboldtiana,,eats
+16010,,Ficus lapathifolia,,eats
+16010,,Psychotria lauracea,,eats
+16010,,Brosimum alicastrum,,eats
+16010,,Psittacanthus,,eats
+16010,,Guettarda elliptica,,eats
+16010,,Casearia arborea,,eats
+16010,,Celtis caudata,,eats
+16010,,Sapranthus microcarpus,,eats
+16010,,Coccoloba barbadensis,,eats
+16010,,Phoradendron quadrangulare,,eats
+16010,,Malpighia glabra,,eats
+16010,,Trophis racemosa,,eats
+16010,,Opuntia stricta,,eats
+16010,,Cupania dentata,,eats
+16010,,Bursera simaruba,,eats
+16010,127936,Chiococca alba,West Indian milkberry,eats
+16010,,Nectandra coriacea,,eats
+16010,49348,Hyles lineata,White-lined Sphinx,eats
+16010,,Chloealtis,,eats
+16010,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+16010,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+16010,205175,Cicada,,preysOn

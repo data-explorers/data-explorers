@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50968,47115,Mollusca,Molluscs,eats
+50968,50588,Veneridae,Venus Clams,eats
+50968,245568,Turritellidae,Tower Snails,eats
+50968,1,Animalia,Animals,eats
+50968,85493,Crustacea,Crustaceans,eats
+50968,47549,Echinodermata,Echinoderms,eats
+50968,47490,Polychaeta,Polychaete Worms,eats
+50968,48147,Isopoda,Isopods,eats
+50968,47126,Plantae,plants,eats
+50968,47114,Gastropoda,Gastropods,eats
+50968,121643,Copepoda,Copepods,eats
+50968,47584,Bivalvia,Bivalves,eats
+50968,,,,eats
+50968,172073,Rissoidae,Spire-shells,eats
+50968,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+50968,113701,Synodus saurus,Atlantic Lizardfish,eatenBy
+50968,118614,Phycis phycis,Forkbeard,eatenBy
+50968,118614,Phycis phycis,Forkbeard,preyedUponBy
+50968,113701,Synodus saurus,Atlantic Lizardfish,preyedUponBy
+50968,112497,Serranus atricauda,Blacktail Comber,preyedUponBy

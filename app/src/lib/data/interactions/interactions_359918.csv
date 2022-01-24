@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+359918,67333,Bacteria,bacteria,eats
+359918,,Detritus,,eats
+359918,,Microphytobenthos,,eats
+359918,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+359918,49606,Balistes capriscus,Grey Triggerfish,preyedUponBy
+359918,118619,Mullus surmuletus,Striped Red Mullet,preyedUponBy
+359918,103913,Labrus mixtus,Cuckoo Wrasse,preyedUponBy
+359918,118695,Trachurus trachurus,Atlantic Horse Mackerel,preyedUponBy
+359918,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+359918,61387,Limanda limanda,Sand Dab,preyedUponBy
+359918,125291,Molva molva,European Ling,preyedUponBy
+359918,113533,Symphodus melops,Corkwing Wrasse,preyedUponBy
+359918,98753,Ctenolabrus rupestris,Goldsinny Wrasse,preyedUponBy
+359918,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+359918,55396,Solea solea,Common Sole,preyedUponBy
+359918,204496,Corvus corone,Carrion Crow,preyedUponBy
+359918,109631,Platichthys flesus,European Flounder,preyedUponBy
+359918,,Lepsiella albomarginata,,preyedUponBy

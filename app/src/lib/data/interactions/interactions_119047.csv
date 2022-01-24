@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119047,,Daphnia parvula,,eats
+119047,,Daphnia galeata mendotae,,eats
+119047,483820,Holopedium gibberum,,eats
+119047,483930,Polyphemus pediculus,,eats
+119047,1019939,Leptodora kindtii,,eats
+119047,171430,Eubosmina,,eats
+119047,626373,Diaphanosoma birgei,,eats
+119047,203468,Bosmina longirostris,Elephant Water Flea,eats
+119047,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+119047,51333,Macquaria australasica,Macquarie Perch,eatenBy
+119047,58627,Perca flavescens,Yellow Perch,eatenBy
+119047,58637,Ambloplites rupestris,Rock Bass,eatenBy
+119047,58652,Umbra,,eatenBy
+119047,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy

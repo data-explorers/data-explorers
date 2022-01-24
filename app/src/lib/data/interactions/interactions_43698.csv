@@ -1,0 +1,229 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43698,47452,Acacia,wattles,eats
+43698,52734,Cyperus,flatsedges,eats
+43698,,Eleucine,,eats
+43698,,Isoptera,,eats
+43698,,Zizyphus,,eats
+43698,,Cebus olivaceus,,eats
+43698,,Austranella congolensis,,eats
+43698,426819,Tetrapleura,,eats
+43698,,Omphalocarpum,,eats
+43698,923859,Mammea africana,,eats
+43698,,Treculia africana,,eats
+43698,,Uapaca,,eats
+43698,,Acacia saligna,,eats
+43698,467378,Klainedoxa,,eats
+43698,62841,Cordia,,eats
+43698,,Monodora myristica,,eats
+43698,,Anonidium mannii,,eats
+43698,,Ganophyllum,,eats
+43698,,Mimusops bagshawei,,eats
+43698,,hoppers - ants - termites - beetles,,eats
+43698,,Crotalaria,,eats
+43698,,Quercus variabilis,,eats
+43698,359972,Quercus serrata,konara oak,eats
+43698,,Lithocarpus harlandii,,eats
+43698,,Castanopsis fargesii,,eats
+43698,,Quercus glauca,,eats
+43698,20044,Bubo virginianus,Great Horned Owl,eatenBy
+43698,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+43698,20445,Tyto alba,Barn Owl,eatenBy
+43698,8010,Corvus corax,Common Raven,eatenBy
+43698,4756,Cathartes aura,Turkey Vulture,eatenBy
+43698,5277,Elanus leucurus,White-tailed Kite,eatenBy
+43698,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+43698,19893,Strix varia,Barred Owl,eatenBy
+43698,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+43698,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+43698,85553,Serpentes,Snakes,eatenBy
+43698,42069,Vulpes vulpes,Red Fox,eatenBy
+43698,42051,Canis latrans,Coyote,eatenBy
+43698,41976,Lynx rufus,Bobcat,eatenBy
+43698,42007,Puma concolor,Mountain Lion,eatenBy
+43698,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+43698,4665,Falco sparverius,American Kestrel,eatenBy
+43698,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+43698,4956,Ardea herodias,Great Blue Heron,eatenBy
+43698,30713,Crotalus oreganus helleri,Southern Pacific Rattlesnake,eatenBy
+43698,558446,Circus hudsonius,Northern Harrier,eatenBy
+43698,1264431,Neogale frenata,Long-tailed Weasel,eatenBy
+43698,144455,Ardea alba,Great Egret,eatenBy
+43698,29044,Pituophis catenifer,Gopher Snake,eatenBy
+43698,146199,Lampropeltis californiae,California King Snake,eatenBy
+43698,41638,Ursus americanus,American Black Bear,eatenBy
+43698,4940,Egretta thula,Snowy Egret,eatenBy
+43698,5017,Bubulcus ibis,Cattle Egret,eatenBy
+43698,,Streptopelia chinensis,,eatenBy
+43698,,Aquila chrysaetos,,eatenBy
+43698,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+43698,20307,Asio otus,Long-eared Owl,eatenBy
+43698,20315,Asio flammeus,Short-eared Owl,eatenBy
+43698,,Alectoris chukar,,eatenBy
+43698,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+43698,558512,Lanius borealis,Northern Shrike,eatenBy
+43698,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+43698,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+43698,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+43698,19975,Athene cunicularia,Burrowing Owl,eatenBy
+43698,,Rocky Mountain Raptor Program 16-087,,eatenBy
+43698,,Denver Zoology Tissue Bird 537,,eatenBy
+43698,,Denver Zoology Tissue Bird 1469,,eatenBy
+43698,,Felis silvestris lybica,,eatenBy
+43698,43042,Erinaceus europaeus,Common Hedgehog,eatenBy
+43698,42048,Canis lupus,Gray Wolf,eatenBy
+43698,,Canis lupus familiaris,,eatenBy
+43698,,Accipiter badius,,eatenBy
+43698,,http://arctos.database.museum/guid/DMNS:Bird:44496,,eatenBy
+43698,891696,Pica pica,Eurasian Magpie,eatenBy
+43698,,snakes - varanids,,eatenBy
+43698,,wolf Canis lupus,,eatenBy
+43698,,stray dog Canis familiaris,,eatenBy
+43698,,desert cat Felis libyca,,eatenBy
+43698,,fox Vulpes vulpes,,eatenBy
+43698,,Hucho perryi,,eatenBy
+43698,41955,Acinonyx jubatus,Cheetah,eatenBy
+43698,851014,Canis aureus,Golden Jackal,eatenBy
+43698,,Canis mesomelas,,eatenBy
+43698,,Puma yagouaroundi,,eatenBy
+43698,41599,Genetta maculata,Rusty-spotted Genet,eatenBy
+43698,42042,Caracal caracal,Caracal,eatenBy
+43698,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+43698,,Herpestes javanicus,,eatenBy
+43698,,Canis lupus rufus,,eatenBy
+43698,42101,Cuon alpinus,Dhole,eatenBy
+43698,,Herpestes urva,,eatenBy
+43698,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+43698,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+43698,922459,Felis silvestris,European Wildcat,eatenBy
+43698,41852,Gulo gulo,Wolverine,eatenBy
+43698,,Felis aurata,,eatenBy
+43698,40222,Dasycercus cristicauda,Mulgara,eatenBy
+43698,41886,Crocuta crocuta,Spotted Hyaena,eatenBy
+43698,41824,Galictis cuja,Lesser Grison,eatenBy
+43698,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+43698,41961,Felis chaus,Jungle Cat,eatenBy
+43698,74270,Dasycercus blythi,Brush-tailed Mulgara,eatenBy
+43698,41800,Martes foina,Stone Marten,eatenBy
+43698,41791,Martes flavigula,Yellow-throated Marten,eatenBy
+43698,516126,Lycalopex culpaeus,Culpeo,eatenBy
+43698,74481,Leopardus geoffroyi,Geoffroy's Cat,eatenBy
+43698,42025,Leptailurus serval,Serval,eatenBy
+43698,569307,Catopuma temminckii,Asian Golden Cat,eatenBy
+43698,41796,Martes martes,Eurasian Pine Marten,eatenBy
+43698,41979,Lynx lynx,Eurasian Lynx,eatenBy
+43698,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+43698,41957,Felis nigripes,Black-footed Cat,eatenBy
+43698,41798,Martes americana,American Marten,eatenBy
+43698,41997,Leopardus pardalis,Ocelot,eatenBy
+43698,74482,Leopardus guigna,Kodkod,eatenBy
+43698,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+43698,41959,Felis margarita,Sand Cat,eatenBy
+43698,,Lynx canadensis,,eatenBy
+43698,41987,Leopardus tigrinus,Northern Tigrina,eatenBy
+43698,41988,Leopardus wiedii,Margay,eatenBy
+43698,569428,Mustela nivalis,Least Weasel,eatenBy
+43698,41963,Panthera pardus,Leopard,eatenBy
+43698,41812,Mustela putorius,Western Polecat,eatenBy
+43698,,Neovison vison,,eatenBy
+43698,,Powelliphanta hochstetteri obscura,,preysOn
+43698,,Powelliphanta hochstetteri hochstetteri,,preysOn
+43698,29053,Pituophis catenifer annectens,San Diego Gopher Snake,preyedUponBy
+43698,146199,Lampropeltis californiae,California King Snake,preyedUponBy
+43698,41976,Lynx rufus,Bobcat,preyedUponBy
+43698,42051,Canis latrans,Coyote,preyedUponBy
+43698,4665,Falco sparverius,American Kestrel,preyedUponBy
+43698,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+43698,336654,Buteo jamaicensis calurus,Western Red-tailed Hawk,preyedUponBy
+43698,19893,Strix varia,Barred Owl,preyedUponBy
+43698,20445,Tyto alba,Barn Owl,preyedUponBy
+43698,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+43698,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+43698,144455,Ardea alba,Great Egret,preyedUponBy
+43698,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+43698,30713,Crotalus oreganus helleri,Southern Pacific Rattlesnake,preyedUponBy
+43698,27187,Clelia clelia,Common Mussurana,preyedUponBy
+43698,29395,Mastigodryas boddaerti,Boddaert's Tropical Racer,preyedUponBy
+43698,29157,Oxyrhopus trigeminus,Brazilian False Coral Snake,preyedUponBy
+43698,27153,Coluber constrictor flaviventris,Eastern Yellow-bellied Racer,preyedUponBy
+43698,,Oxyrhopus petolarius digitalis,,preyedUponBy
+43698,73766,Drymarchon melanurus,Central American Indigo Snake,preyedUponBy
+43698,29162,Oxyrhopus melanogenys,Tschudi's False Coral Snake,preyedUponBy
+43698,,Oxyrhopus rhombifer rhombifer,,preyedUponBy
+43698,28252,Arizona elegans candida,Mojave Glossy Snake,preyedUponBy
+43698,,Erythrolamprus poecilogyrus sublineatus,,preyedUponBy
+43698,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+43698,,Pantherophis emoryi,,preyedUponBy
+43698,28246,Arizona elegans,Glossy Snake,preyedUponBy
+43698,28942,Pseudoboa nigra,Black False Boa,preyedUponBy
+43698,30798,Bothrops asper,Terciopelo,preyedUponBy
+43698,,Coluber flagellum,,preyedUponBy
+43698,28256,Tropidodryas striaticeps,Jiboinha,preyedUponBy
+43698,,Thamnophis elegans,,preyedUponBy
+43698,114565,Tropidodryas serra,Serra Snake,preyedUponBy
+43698,540223,Spilotes sulphureus,Amazon Puffing Snake,preyedUponBy
+43698,,Pseudoboa coronata,,preyedUponBy
+43698,,Pituophis catenifer deserticola,,preyedUponBy
+43698,28627,Spilotes pullatus,Chicken Snake,preyedUponBy
+43698,,Coluber flagellum piceus,,preyedUponBy
+43698,29112,Philodryas chamissonis,Chilean Green Racer,preyedUponBy
+43698,,Philodryas viridissima,,preyedUponBy
+43698,29153,Oxyrhopus rhombifer,Amazon False Coral Snake,preyedUponBy
+43698,,Crotalus tzabcan,,preyedUponBy
+43698,,Philodryas aestiva,,preyedUponBy
+43698,,Gonionotophis crossi,,preyedUponBy
+43698,30693,Crotalus durissus,Neotropical Rattlesnake,preyedUponBy
+43698,30487,Naja nivea,Cape Cobra,preyedUponBy
+43698,29752,Boaedon virgatus,Hallowell's House Snake,preyedUponBy
+43698,35083,Tropidechis carinatus,Rough-scaled Snake,preyedUponBy
+43698,30877,Atheris squamigera,African Bush Viper,preyedUponBy
+43698,115434,Boa constrictor constrictor,Amazonian Boa Constrictor,preyedUponBy
+43698,30721,Crotalus triseriatus,Dusky Rattlesnake,preyedUponBy
+43698,29166,Oxyrhopus guibei,Guibe´s Flame Snake,preyedUponBy
+43698,,Chironius carinatus,,preyedUponBy
+43698,,Eunectes notaeus,,preyedUponBy
+43698,,Corallus annulatus,,preyedUponBy
+43698,29105,Philodryas olfersii,Lichtenstein's Green Racer,preyedUponBy
+43698,27623,Boiga dendrophila,Gold-ringed Cat Snake,preyedUponBy
+43698,539421,Bothrops pubescens,,preyedUponBy
+43698,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+43698,74009,Zamenis longissimus,Aesculapian Snake,preyedUponBy
+43698,,Mixcoatlus barbouri,,preyedUponBy
+43698,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy
+43698,27131,Bamanophis dorri,Dorr's Racer,preyedUponBy
+43698,30851,Bitis arietans,Puff Adder,preyedUponBy
+43698,243962,Charina bottae,Northern Rubber Boa,preyedUponBy
+43698,30282,Elaphe dione,Steppe Ratsnake,preyedUponBy
+43698,236842,Lichanura trivirgata,Desert Rosy Boa,preyedUponBy
+43698,,Hydrodynastes gigas,,preyedUponBy
+43698,,Psammophylax variabilis,,preyedUponBy
+43698,30829,Bothrocophias hyoprora,Amazonian Toad-headed Pitviper,preyedUponBy
+43698,29103,Philodryas mattogrossensis,Miranda Green Racer,preyedUponBy
+43698,,Elaphe climacophora,,preyedUponBy
+43698,28955,Psammophylax tritaeniatus,Striped Skaapsteker,preyedUponBy
+43698,539399,Boa imperator,Central American Boa,preyedUponBy
+43698,30924,Vipera latastei,Lataste's Viper,preyedUponBy
+43698,,Mastigodryas bifossatus,,preyedUponBy
+43698,29168,Oxyrhopus clathratus,Duméril's False Coral Snake,preyedUponBy
+43698,,Echis ocellatus,,preyedUponBy
+43698,,Pythonodipsas carinata,,preyedUponBy
+43698,146045,Corallus blombergi,Ecuadorian Annulated Tree Boa,preyedUponBy
+43698,32232,Epicrates,Rainbow Boas,preyedUponBy
+43698,,Micrurus lemniscatus,,preyedUponBy
+43698,,Pseudoboa neuwiedii,,preyedUponBy
+43698,29111,Philodryas baroni,Baron's Green Racer,preyedUponBy
+43698,,Bitis arietans arietans,,preyedUponBy
+43698,95866,Boiruna maculata,False Mussurana,preyedUponBy
+43698,,Corallus ruschenbergerii,,preyedUponBy
+43698,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+43698,35270,Echiopsis curta,Bardick,preyedUponBy
+43698,30335,Drymarchon corais,Indigo Snake,preyedUponBy
+43698,30767,Bothrops,Neotropical Lanceheads,preyedUponBy
+43698,,Trimeresurus gracilis,,preyedUponBy
+43698,,Dolichophis caspius,,preyedUponBy
+43698,32314,Tropidophis melanurus,Cuban Dwarf Boa,preyedUponBy
+43698,116531,Macrelaps microlepidotus,Natal Black Snake,preyedUponBy
+43698,,Lamprophis lineatus,,preyedUponBy
+43698,27700,Boiga cynodon,Dog-toothed Cat Snake,preyedUponBy
+43698,32237,Epicrates cenchria,Western Rainbow Boa,preyedUponBy
+43698,966787,Natrix natrix,grass snake,preyedUponBy
+43698,28378,Thamnophis radix,Plains Garter Snake,preyedUponBy

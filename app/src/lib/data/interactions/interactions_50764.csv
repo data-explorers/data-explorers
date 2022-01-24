@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50764,47126,Plantae,plants,eats
+50764,67423,Ulva lactuca,broadleaf sea lettuce,eats
+50764,130177,Sargassum muticum,Japanese Wireweed,eats
+50764,361840,Jania rubens,,eats
+50764,1297852,Halurus equisetifolius,,eats
+50764,183154,Rhodomela confervoides,,eats
+50764,182991,Palmaria palmata,Dulse,eats
+50764,201435,Ulva linza,Green string lettuce,eats
+50764,129737,Colpomenia peregrina,Oyster-thief,eats
+50764,701524,Furcellaria lumbricalis,,eats
+50764,,http://treatment.plazi.org/id/D42A6ADF3C22CB68DB45D5CF1BA087AD,,eats
+50764,182896,Desmarestia aculeata,Witch's hair,eats
+50764,49266,Tetraodontidae,Pufferfishes,eatenBy
+50764,55396,Solea solea,Common Sole,eatenBy
+50764,107336,Occidentarius platypogon,,eatenBy
+50764,51178,Astropecten indicus,Plain Sand Star,eatenBy
+50764,210294,Lipophrys pholis,Shanny,preysOn
+50764,47158,Insecta,Insects,preysOn
+50764,47584,Bivalvia,Bivalves,preysOn
+50764,118706,Gobius paganellus,Rock Goby,preysOn
+50764,342285,Lipophrys trigloides,,preysOn
+50764,118692,Coryphoblennius galerita,Montagu's Blenny,preysOn
+50764,445653,Antennablennius bifilum,horned rockskipper,preysOn
+50764,446088,Helcogramma obtusirostris,,preysOn
+50764,59806,Gammaridae,,preysOn
+50764,118499,Ampithoidae,,preysOn
+50764,498442,Solecurtus strigilatus,rosy razor clam,preysOn
+50764,,Zooplankton,,preysOn
+50764,245452,Stenothoidae,,preysOn
+50764,83718,Tanaidacea,Tanaids,preysOn
+50764,130085,Actinia equina,Beadlet anemone,preyedUponBy
+50764,47490,Polychaeta,Polychaete Worms,preyedUponBy
+50764,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+50764,446088,Helcogramma obtusirostris,,preyedUponBy

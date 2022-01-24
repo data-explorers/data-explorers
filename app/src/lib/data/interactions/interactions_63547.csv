@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63547,59152,Leptotes marina,Marine Blue,eatenBy
+63547,129362,Zerene cesonia,Southern Dogface,eatenBy
+63547,265809,Bembix pallidipicta,,eatenBy
+63547,,Triepeolus obliteratus,,eatenBy
+63547,144011,Bombus rufocinctus,Red-belted Bumble Bee,pollinatedBy
+63547,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+63547,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+63547,57678,Lasioglossum,,pollinatedBy
+63547,120215,Bombus griseocollis,Brown-belted Bumble Bee,pollinatedBy
+63547,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+63547,52775,Bombus,Bumble Bees,pollinatedBy
+63547,,Colletes kincaidii,,pollinatedBy
+63547,,http://treatment.plazi.org/id/CD511C8EE79D97F9DD30D893A5AE89D5,,pollinatedBy
+63547,,Megachile pugnata,,pollinatedBy
+63547,,Anthophora terminalis,,pollinatedBy
+63547,130222,Bombus melanopygus,Black-tailed Bumble Bee,pollinatedBy
+63547,,http://treatment.plazi.org/id/DDD826387E4F5449BC21177FC6D37871,,pollinatedBy
+63547,,Bombus appositus,,pollinatedBy
+63547,,Bombus huntii,,pollinatedBy
+63547,,N/A N/A,,pollinatedBy
+63547,,http://treatment.plazi.org/id/0392879B735FAB0C43D5F883FC37FE37,,pollinatedBy
+63547,,Bembix sp.,,pollinatedBy
+63547,,http://treatment.plazi.org/id/E3771B2A10FB446345F4663A701D15E4,,pollinatedBy
+63547,,Self pollinated,,pollinatedBy
+63547,,Colletes susannae,,pollinatedBy
+63547,459057,Colletes albescens,White Cellophane Bee,pollinatedBy

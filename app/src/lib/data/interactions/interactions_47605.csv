@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47605,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+47605,,Chlosyne lacinia,,eatenBy
+47605,,Poecile carolinensis,,eatenBy
+47605,,Chauliognathus basalis,,eatenBy
+47605,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+47605,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy

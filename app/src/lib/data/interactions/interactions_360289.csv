@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+360289,51876,Trifolium,clovers,eats
+360289,,Zinnia elegans,,eats
+360289,17356,Vireo bellii,Bell's Vireo,eatenBy

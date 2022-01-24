@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119122,84738,Vespinae,Hornets and Yellowjackets,eats
+119122,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+119122,1,Animalia,Animals,preysOn
+119122,48662,Danaus plexippus,Monarch,preysOn
+119122,358855,Gryllidea,Crickets,preysOn
+119122,67688,Caelifera,"Grasshoppers, Locusts, and Allies",preysOn
+119122,104422,Lestes congener,Spotted Spreadwing,preysOn

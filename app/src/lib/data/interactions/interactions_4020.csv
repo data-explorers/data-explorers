@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4020,1,Animalia,Animals,eats
+4020,47178,Actinopterygii,Ray-finned Fishes,eats
+4020,85507,Calanoida,Calanoid Copepods,eats
+4020,215318,Boreogadus saida,Arctic Cod,eats
+4020,952605,Euphausia crystallorophias,,eats
+4020,,marine mammal carcasses,,eats
+4020,774778,Gymnoplea,,eats
+4020,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4020,,Catharacta,,eatenBy
+4020,4196,Macronectes,Giant Petrels,eatenBy
+4020,4198,Macronectes giganteus,Southern Giant-Petrel,eatenBy
+4020,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4020,,E. crystallorophias,,preysOn
+4020,344134,Euphausia superba,Antarctic Krill,preysOn
+4020,952605,Euphausia crystallorophias,,preysOn
+4020,774778,Gymnoplea,,preysOn
+4020,41212,Mystacina,,preyedUponBy
+4020,424322,Odontoceti,Toothed Whales,preyedUponBy
+4020,,leopard seals,,preyedUponBy

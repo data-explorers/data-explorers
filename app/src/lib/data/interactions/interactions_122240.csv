@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+122240,67333,Bacteria,bacteria,eats
+122240,,saphrophytes,,eats
+122240,,mykorrhiza,,eats
+122240,,leaf litter,,eats
+122240,47518,Salmo trutta,Brown Trout,eatenBy
+122240,114127,Thymallus thymallus,Grayling,eatenBy
+122240,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+122240,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+122240,52932,Cantharidae,Soldier Beetles,preyedUponBy
+122240,47951,Staphylinidae,Rove Beetles,preyedUponBy
+122240,739596,Lithobius mutabilis,,preyedUponBy
+122240,,Lithobius,,preyedUponBy
+122240,537133,Lithobius crassipes,,preyedUponBy
+122240,230519,Schendyla nemorensis,,preyedUponBy
+122240,496759,Geophilus insculptus,,preyedUponBy
+122240,491325,Geophilus electricus,,preyedUponBy
+122240,905423,Lithobius macilentus,,preyedUponBy
+122240,521083,Strigamia acuminata,,preyedUponBy
+122240,,Lithobius muticus,,preyedUponBy
+122240,,Geophilus ribauti,,preyedUponBy
+122240,568199,Lithobius curtipes,,preyedUponBy

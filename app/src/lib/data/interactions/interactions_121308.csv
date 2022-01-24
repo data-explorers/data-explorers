@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121308,49707,Halictidae,Sweat Bees,eats
+121308,6431,Archilochus,Ruby-throated and Black-chinned Hummingbirds,eats
+121308,55958,Scudderia,Scudder's Bush Katydids,eats
+121308,47653,Hesperiidae,Skippers,eats
+121308,121308,Stagmomantis limbata,Arizona Mantis,eats
+121308,47222,Apoidea,Bees and Apoid Wasps,eats
+121308,47157,Lepidoptera,Butterflies and Moths,eats
+121308,133395,Lavandula angustifolia,Common Lavender,eats
+121308,4665,Falco sparverius,American Kestrel,eatenBy
+121308,121308,Stagmomantis limbata,Arizona Mantis,eatenBy
+121308,,Picoides pubescens,,eatenBy
+121308,6431,Archilochus,Ruby-throated and Black-chinned Hummingbirds,preysOn
+121308,47226,Papilio rutulus,Western Tiger Swallowtail,preysOn
+121308,47219,Apis mellifera,Western Honey Bee,preysOn
+121308,47200,Ichneumonoidea,Ichneumonid and Braconid Wasps,preysOn

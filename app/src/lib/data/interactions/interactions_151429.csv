@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+151429,47459,Cephalopoda,Cephalopods,eats
+151429,151429,Sepia officinalis,European Common Cuttlefish,eats
+151429,85493,Crustacea,Crustaceans,eats
+151429,47178,Actinopterygii,Ray-finned Fishes,eats
+151429,47490,Polychaeta,Polychaete Worms,eats
+151429,1,Animalia,Animals,eats
+151429,47115,Mollusca,Molluscs,eats
+151429,121643,Copepoda,Copepods,eats
+151429,54662,Mugil,Common Mullets,eats
+151429,47458,Octopoda,Octopuses,eats
+151429,68764,Ostracoda,Seed Shrimp,eats
+151429,47114,Gastropoda,Gastropods,eats
+151429,55808,Squilla,,eats
+151429,47126,Plantae,plants,eats
+151429,121639,Brachyura,True Crabs,eats
+151429,85611,Atherinidae,Old World Silversides,eats
+151429,67960,Sepiidae,Cuttlefishes,eats
+151429,50588,Veneridae,Venus Clams,eats
+151429,122202,Leucosiidae,Purse Crabs,eats
+151429,59395,Donacidae,Bean Clams,eats
+151429,49284,Labridae,Wrasses,eats
+151429,49506,Portunidae,Swimming Crabs,eats
+151429,117606,Nephtyidae,Catworms,eats
+151429,50587,Solenidae,,eats
+151429,48147,Isopoda,Isopods,eats
+151429,47584,Bivalvia,Bivalves,eats
+151429,49238,Sparidae,Seabreams and Porgies,eats
+151429,47457,Octopodidae,Typical Octopuses,eats
+151429,118704,Gobius niger,Black Goby,eats
+151429,59807,Gammarus,,eats
+151429,526549,Palaemon adspersus,Baltic prawn,eats
+151429,,Unspecified cuttlefishes,,eats
+151429,,Gnathostomata,,eats
+151429,129185,Mysis,,eats
+151429,87850,Daphnia,Water-fleas,eats
+151429,,Philocheras,,eats
+151429,209138,Sphaeroma,,eats
+151429,,Astacus leptodactylus,,eats
+151429,51280,Nemertea,Ribbon Worms,eats
+151429,174549,Carcinops,,eats
+151429,127705,Portunus,,eats
+151429,,unspecified lamellibranchs,,eats
+151429,,Osteichthyes,,eats
+151429,644492,Cymodoce,,eats
+151429,,Marinogammarus marinus,,eats
+151429,52197,Penaeus,,eats
+151429,48817,Crangon,,eats
+151429,203481,Praunus,,eats
+151429,,Prymnesiophyceae,,eats
+151429,,Thecosomata,,eats
+151429,1071965,Penaeus notialis,Southern pink shrimp,eats
+151429,68078,Galeoides decadactylus,lesser African threadfin,eats
+151429,91866,Sardinella,Sardinellas,eats
+151429,,Detritus,,eats
+151429,47290,Crangonidae,,eats
+151429,47525,Pleuronectidae,Righteye Flounders,eats
+151429,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+151429,143626,Sepiolidae,Bobtails,eats
+151429,86107,Trachinidae,Weeverfishes,eats
+151429,123825,Anomura,Anomurans,eats
+151429,122150,Aphroditidae,,eats
+151429,573565,Caridae,,eats
+151429,,Palinura,,eats
+151429,50972,Thalassoma pavo,Ornate Wrasse,eats
+151429,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+151429,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+151429,51549,Seriola dumerili,Greater Amberjack,eatenBy
+151429,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+151429,256089,Pelagia noctiluca,Mauve Stinger,eatenBy
+151429,430553,Merlangius merlangus,Whiting,eatenBy
+151429,63508,Lamna nasus,Porbeagle,eatenBy
+151429,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+151429,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+151429,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+151429,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+151429,118603,Merluccius merluccius,European Hake,eatenBy
+151429,125291,Molva molva,European Ling,eatenBy
+151429,63740,Gadus morhua,Atlantic Cod,eatenBy
+151429,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+151429,110361,Prionace glauca,Blue Shark,eatenBy
+151429,118610,Lophius piscatorius,Angler,eatenBy
+151429,56050,Mustelus mustelus,Common Smooth-hound,eatenBy
+151429,115167,Xiphias gladius,Swordfish,eatenBy
+151429,100119,Epinephelus marginatus,Dusky Grouper,eatenBy
+151429,93704,Alosa fallax,Twaite Shad,eatenBy
+151429,118659,Pagellus erythrinus,Common Pandora,eatenBy
+151429,41541,Grampus griseus,Risso's Dolphin,eatenBy
+151429,41716,Monachus monachus,Mediterranean Monk Seal,eatenBy
+151429,118704,Gobius niger,Black Goby,preysOn
+151429,59807,Gammarus,,preysOn
+151429,526549,Palaemon adspersus,Baltic prawn,preysOn
+151429,,Gammarus sp. ,,preysOn
+151429,,Astacus leptodactylus,,preysOn
+151429,41494,Stenella coeruleoalba,Striped Dolphin,preyedUponBy
+151429,115167,Xiphias gladius,Swordfish,preyedUponBy
+151429,,no name,,preyedUponBy
+151429,41541,Grampus griseus,Risso's Dolphin,preyedUponBy
+151429,93704,Alosa fallax,Twaite Shad,preyedUponBy
+151429,118659,Pagellus erythrinus,Common Pandora,preyedUponBy
+151429,56050,Mustelus mustelus,Common Smooth-hound,preyedUponBy
+151429,100119,Epinephelus marginatus,Dusky Grouper,preyedUponBy

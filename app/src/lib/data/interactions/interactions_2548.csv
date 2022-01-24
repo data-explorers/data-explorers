@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+2548,49609,Cyprinidae,Cyprinids,eats
+2548,49591,Lepomis macrochirus,Bluegill,eats
+2548,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+2548,47178,Actinopterygii,Ray-finned Fishes,eats
+2548,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+2548,60340,Lithobates,American Water Frogs,eats
+2548,58612,Carassius auratus,Goldfish,eats
+2548,,Pimephales notatus,,eats
+2548,106328,Mylocheilus caurinus,Peamouth,eats
+2548,,Pisanianura,,eats
+2548,49596,Salvelinus fontinalis,Brook Trout,eats
+2548,88489,Gibbonsia,Northeastern Pacific Kelpfishes,eats
+2548,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+2548,26172,Squamata,Snakes and Lizards,eatenBy
+2548,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+2548,41663,Procyon lotor,Common Raccoon,eatenBy
+2548,41880,Mephitis mephitis,Striped Skunk,eatenBy
+2548,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+2548,,Mustela vison,,eatenBy
+2548,66012,Lithobates sylvaticus,Wood Frog,preysOn
+2548,47178,Actinopterygii,Ray-finned Fishes,preysOn
+2548,49591,Lepomis macrochirus,Bluegill,preysOn
+2548,51221,Procambarus clarkii,Red Swamp Crayfish,preysOn
+2548,49592,Lepomis,Common Sunfishes,preysOn
+2548,25473,Ranidae,Typical Frogs,preysOn
+2548,47783,Astacoidea,Northern Hemisphere Crayfishes,preysOn
+2548,,Trichodina,,preysOn
+2548,339183,Euhaplorchis californiensis,,preysOn
+2548,339174,Cyathocotylidae,,preysOn
+2548,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+2548,,trypanorynch,,preysOn
+2548,,Ergasilus auritus,,preysOn
+2548,339182,Phocitremoides ovale,,preysOn
+2548,339176,Renicola buchanani,,preysOn
+2548,,Stictodora hancocki,,preysOn
+2548,209100,Gyrodactylus,,preysOn
+2548,179533,Fundulus parvipinnis,California Killifish,preysOn
+2548,,Renicola cerithidicola,,preysOn
+2548,,Pygidiopsoides spindalis,,preysOn
+2548,,Spirocamallanus pereirai,,preysOn
+2548,,Dilepididae,,preysOn
+2548,,Nerocila californica,,preysOn
+2548,,Mesostephanus appendiculatoides,,preysOn
+2548,914144,Galactosomum,,preysOn
+2548,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+2548,,Neogobius melanostomus,,preysOn
+2548,58655,Ictaluridae,North American Freshwater Catfishes,preysOn
+2548,48403,Gasterosteus aculeatus,Threespine Stickleback,preysOn
+2548,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+2548,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+2548,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy

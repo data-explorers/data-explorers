@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56235,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+56235,7043,Aythya,"Scaups, Pochards, and Allies",eatenBy
+56235,7128,Nettapus coromandelianus,Cotton Pygmy-Goose,eatenBy
+56235,6987,Anas superciliosa,Pacific Black Duck,eatenBy
+56235,6895,Dendrocygna eytoni,Plumed Whistling-Duck,eatenBy
+56235,,Nettapus pulchellus,,eatenBy
+56235,6896,Dendrocygna arcuata,Wandering Whistling-Duck,eatenBy

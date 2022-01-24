@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129864,67333,Bacteria,bacteria,eats
+129864,,Detritus,,eats
+129864,,Detritus complex,,eats
+129864,508884,Diaulula sandiegensis,San Diego Dorid,eatenBy
+129864,,Geitodoris heathi,,eatenBy
+129864,,Archidoris odhneri,,eatenBy
+129864,,Archidoris montereyensis,,eatenBy
+129864,67333,Bacteria,bacteria,preysOn
+129864,,Detritus complex,,preysOn
+129864,,Zooplankton,,preysOn
+129864,,Phytoplankton,,preysOn
+129864,508884,Diaulula sandiegensis,San Diego Dorid,preyedUponBy
+129864,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy
+129864,,Ophiocten sericeum,,preyedUponBy
+129864,347330,Nereis zonata,,preyedUponBy
+129864,129221,Strongylocentrotus pallidus,Pale urchin,preyedUponBy
+129864,,Malmgreniella lunulata,,preyedUponBy
+129864,,Glycera capitata,,preyedUponBy
+129864,293201,Ophiura robusta,,preyedUponBy
+129864,,Gattyana cirrhosa,,preyedUponBy
+129864,,Archidoris montereyensis,,preyedUponBy
+129864,,Archidoris odhneri,,preyedUponBy

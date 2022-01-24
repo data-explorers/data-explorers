@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49323,48662,Danaus plexippus,Monarch,eatenBy
+49323,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+49323,50086,Agapostemon,Striped Sweat Bees,eatenBy
+49323,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+49323,203323,Collops quadrimaculatus,Four-spotted Collops,eatenBy
+49323,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+49323,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+49323,52775,Bombus,Bumble Bees,eatenBy
+49323,58532,Colias eurytheme,Orange Sulphur,eatenBy
+49323,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+49323,47219,Apis mellifera,Western Honey Bee,eatenBy
+49323,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+49323,224501,Megachile perihirta,Western Leafcutter,eatenBy
+49323,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+49323,1081332,Lon melane,Umber Skipper,eatenBy
+49323,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+49323,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+49323,,Pulvinariella mesembryanthemi,,eatenBy
+49323,,Lasioglossum pavonotum,,eatenBy
+49323,57671,Anthidium,Carder Bees,pollinatedBy
+49323,176923,Mordella,,pollinatedBy
+49323,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+49323,57677,Halictus,Furrow Bees,pollinatedBy
+49323,57674,Osmia,Mason Bees,pollinatedBy
+49323,69988,Cryptocephalus,,pollinatedBy
+49323,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+49323,,,,pollinatedBy
+49323,,Plagiolepis pygmaea,,pollinatedBy
+49323,319088,Oedemera flavipes,,pollinatedBy
+49323,,Eucera,,pollinatedBy
+49323,475538,Penestoglossa,,pollinatedBy
+49323,451389,Oedemera lurida,,pollinatedBy
+49323,,Mordellistena pumila,,pollinatedBy
+49323,,Andrena,,pollinatedBy
+49323,,Oxythyrea funesta ,,pollinatedBy
+49323,,Oedemera nobilis,,pollinatedBy
+49323,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy

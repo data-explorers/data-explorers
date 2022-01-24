@@ -1,0 +1,109 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3000,47126,Plantae,plants,eats
+3000,53165,Croton,Crotons,eats
+3000,57140,Olea europaea,Olive,eats
+3000,47544,Rubus,brambles,eats
+3000,75604,Asparagus setaceus,Common Asparagus Fern,eats
+3000,57145,Olea,Olives,eats
+3000,,Protorhus longifolia,,eats
+3000,,Phoenix reclinata,,eats
+3000,,Harpephyllum caffrum,,eats
+3000,,Celtis africana,,eats
+3000,132932,Bridelia micrantha,Coastal Goldenleaf,eats
+3000,162973,Ficus thonningii,Common Wild Fig,eats
+3000,,Trichilia dregeana,,eats
+3000,850424,Maesa indica,,eats
+3000,362174,Zanthoxylum capense,Small knobwood,eats
+3000,,Ficus ingens,,eats
+3000,,Myrsine melanophloeos,,eats
+3000,,Syzygium cordatum,,eats
+3000,,Searsia rehmanniana,,eats
+3000,166935,Pittosporum viridiflorum,Cheesewood,eats
+3000,,Rauvolfia caffra,,eats
+3000,,Antidesma,,eats
+3000,,Searsia chirindensis,,eats
+3000,340338,Vepris lanceolata,white-ironwood,eats
+3000,,Agelanthus subulatus,,eats
+3000,,Clausena anisata,,eats
+3000,,Keetia gueinzii,,eats
+3000,83434,Diospyros,persimmons,eats
+3000,,Ficus polita,,eats
+3000,472094,Diospyros abyssinica,,eats
+3000,,Ilex mitis,,eats
+3000,,Heinsenia diervilleoides,,eats
+3000,,Cyphostemma vandenbrandeanum ex,,eats
+3000,133456,Polyscias fulva,,eats
+3000,,Schefflera,,eats
+3000,,Bridelia,,eats
+3000,,Erythrococca trichogyne,,eats
+3000,347435,Ficus lutea,Giantleaf Fig,eats
+3000,,Macaranga,,eats
+3000,,Ficus sansibarica,,eats
+3000,,Solanum torvum,,eats
+3000,,Ochna stolzii,,eats
+3000,,Tricalysia acocantheroides,,eats
+3000,,Vepris stolzii,,eats
+3000,,Dracaena,,eats
+3000,,Tricalysia verdcourtiana,,eats
+3000,,Trema orientalis,,eats
+3000,,Ochna holstii,,eats
+3000,,Uapaca kirkiana,,eats
+3000,,Bersama,,eats
+3000,,Rourea thomsonii,,eats
+3000,,Cyphostemma masukuensis masukuensis,,eats
+3000,,Oedina pendens,,eats
+3000,,Ehretia,,eats
+3000,,Gymnosporia szyszylowiczii szyszylowiczii,,eats
+3000,,Lepidotrichilia volkensii,,eats
+3000,,Rutidea fuscescens,,eats
+3000,51600,Psychotria,wild coffees,eats
+3000,,Carvalhoa campanulata,,eats
+3000,,Cornus Volkensii,,eats
+3000,,Cyphostemma kilimandscharicum ex,,eats
+3000,,Englerophytum natalense,,eats
+3000,,Viscum shirense,,eats
+3000,,Rotheca quadrangulata,,eats
+3000,,Cussonia spicata,,eats
+3000,,Parinari curatellifolia,,eats
+3000,541445,Diospyros whyteana,Bladder Nut,eats
+3000,,Pygeum africanum,,eats
+3000,134190,Harungana madagascariensis,,eats
+3000,,Morella serrata,,eats
+3000,,Shirakiopsis elliptica,,eats
+3000,,Xymalos monospora,,eats
+3000,506952,Ekebergia capensis,Cape Ash,eats
+3000,,Halleria lucida,,eats
+3000,,Rhoicissus,,eats
+3000,146809,Stephania,,eats
+3000,,Clerodendrum johnstonii,,eats
+3000,,Psychotria zombamontana,,eats
+3000,,Dracaena laxissima,,eats
+3000,133203,Parinari excelsa,Guinea Plum,eats
+3000,,Chassalia parvifolia,,eats
+3000,133182,Ficus sur,Cape Fig,eats
+3000,,Myrianthus,,eats
+3000,,Syzygium guineense,,eats
+3000,132959,Drypetes gerrardii,Forest Ironplum,eats
+3000,,Landolphia buchananii,,eats
+3000,83034,Casearia,,eats
+3000,,Jasminum abyssinicum,,eats
+3000,,Ensete ventricosum,,eats
+3000,,Cryptocarya liebertiana,,eats
+3000,,Englerina inaequilatera,,eats
+3000,,Ficus exasperata,,eats
+3000,184288,Cassine,Spoonwoods,eats
+3000,,Nageia wallichiana,,eats
+3000,,Clutia abyssinica,,eats
+3000,,Cola,,eats
+3000,,Uapaca nitida,,eats
+3000,,Euclea divinorum,,eats
+3000,,Osyris lanceolata,,eats
+3000,133198,Ficus vallis-choudae,,eats
+3000,42069,Vulpes vulpes,Red Fox,eatenBy
+3000,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+3000,54960,Nematoda,Nematodes,eatenBy
+3000,47822,Diptera,Flies,eatenBy
+3000,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+3000,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+3000,,Philornis,,eatenBy
+3000,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy

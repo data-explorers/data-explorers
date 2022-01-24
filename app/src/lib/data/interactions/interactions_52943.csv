@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52943,47889,Impatiens,touch-me-nots,eats
+52943,53300,Thalictrum,meadow-rues,eats
+52943,52972,Epilobium,willowherbs,eats
+52943,48678,Solidago,goldenrods,eats
+52943,,Abies lasiocarpa,,eats
+52943,,Pinus engelmannii,,eats
+52943,,http://www.inaturalist.org/observations/18964808,,eats

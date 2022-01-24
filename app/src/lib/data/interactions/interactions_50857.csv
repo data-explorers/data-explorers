@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50857,50931,Strymon melinus,Gray Hairstreak,eatenBy
+50857,47219,Apis mellifera,Western Honey Bee,eatenBy
+50857,49348,Hyles lineata,White-lined Sphinx,eatenBy
+50857,,Stamnodes albiapicata,,eatenBy
+50857,,Annaphila vivianae,,eatenBy

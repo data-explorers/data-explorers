@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52054,,Efferia aestuans,,eatenBy
+52054,5017,Bubulcus ibis,Cattle Egret,eatenBy
+52054,77216,Galium trifidum,three-petal bedstraw,pollinates
+52054,,Ischnura hastata,,preysOn
+52054,,Argiope aurantia,,preyedUponBy

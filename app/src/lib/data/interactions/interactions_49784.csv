@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49784,,Prymnesiophyceae,,eats
+49784,51283,Emplectonematidae,,eats
+49784,51280,Nemertea,Ribbon Worms,eats
+49784,,Chrysophyta,,eats
+49784,3836,Calidris,Calidris Sandpipers,eatenBy
+49784,47827,Cancer,,eatenBy
+49784,,Trematomus bernacchii,,eatenBy
+49784,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+49784,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+49784,7030,Somateria spectabilis,King Eider,eatenBy
+49784,7024,Somateria mollissima,Common Eider,eatenBy
+49784,7047,Aythya marila,Greater Scaup,eatenBy
+49784,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eatenBy
+49784,229837,Reinhardtius hippoglossoides,Greenland Halibut,eatenBy
+49784,47524,Pleuronectes,,eatenBy
+49784,89645,Lumpenus,,eatenBy
+49784,89655,Lycodes,,eatenBy
+49784,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+49784,,Crossaster papposus,,eatenBy
+49784,47523,Pleuronectes platessa,European Plaice,eatenBy
+49784,63740,Gadus morhua,Atlantic Cod,eatenBy

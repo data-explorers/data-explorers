@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127747,47602,Taraxacum officinale,common dandelion,eats
+127747,51876,Trifolium,clovers,eats
+127747,130989,Euthamia graminifolia,flat-topped goldenrod,eats
+127747,47544,Rubus,brambles,eats
+127747,359450,Cichorieae,,eats
+127747,48939,Eriogonum,wild buckwheats,eats
+127747,76610,Daucus carota,wild carrot,eats
+127747,54999,Eriogonum fasciculatum,California buckwheat,eats
+127747,57952,Coreopsis,Tickseed,eats
+127747,48225,Eschscholzia californica,California poppy,eats
+127747,52833,Anaphalis margaritacea,pearly everlasting,eats
+127747,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+127747,,Erigeron glaucus,,eats
+127747,,Clinopodium nepeta nepeta,,eats
+127747,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy

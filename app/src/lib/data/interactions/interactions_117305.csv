@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117305,47178,Actinopterygii,Ray-finned Fishes,eats
+117305,117305,Physalia,Man O' Wars,eats
+117305,,Pisces,,eats
+117305,,Medusozoa,,eats
+117305,48778,Lepas anserifera,Goose Barnacle,eatenBy
+117305,50498,Glaucus atlanticus,Sea Swallow,eatenBy
+117305,117305,Physalia,Man O' Wars,eatenBy
+117305,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+117305,194905,Nomeus gronovii,Bluebottle-fish,eatenBy
+117305,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+117305,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+117305,49498,Aluterus scriptus,Scrawled Filefish,eatenBy
+117305,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+117305,231423,Spodoptera dolichos,Sweet Potato Armyworm Moth,eatenBy
+117305,1288557,Symmetrischema lavernella,,eatenBy
+117305,395129,Phthorimaea operculella,Potato Tuber Moth,eatenBy
+117305,603163,Alchisme grossa,,eatenBy
+117305,117305,Physalia,Man O' Wars,preysOn
+117305,121643,Copepoda,Copepods,preysOn
+117305,,Amphitoidae,,preysOn
+117305,64643,Amphilochidae,,preysOn
+117305,245452,Stenothoidae,,preysOn
+117305,83718,Tanaidacea,Tanaids,preysOn
+117305,,Zooplankton,,preysOn
+117305,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,preyedUponBy
+117305,117305,Physalia,Man O' Wars,preyedUponBy
+117305,47825,Pycnogonida,Pycnogonids,preyedUponBy
+117305,39665,Caretta caretta,Loggerhead Sea Turtle,preyedUponBy
+117305,185051,Architectonicidae,Staircase Shells,preyedUponBy

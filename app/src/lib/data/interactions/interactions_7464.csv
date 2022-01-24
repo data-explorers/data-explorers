@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7464,48959,Reduviidae,Assassin Bugs,eats
+7464,47158,Insecta,Insects,eats
+7464,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7464,47118,Araneae,Spiders,eats
+7464,47742,Pentatomidae,Stink Bugs,eats
+7464,47336,Formicidae,Ants,eats
+7464,143496,Kalotermitidae,Drywood Termites,eats
+7464,49358,Myrmeleontidae,Antlions and Owlflies,eats
+7464,53237,Cicadellidae,Typical Leafhoppers,eats
+7464,47157,Lepidoptera,Butterflies and Moths,eats
+7464,53816,Tenebrionidae,Darkling Beetles,eats
+7464,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7464,48670,Noctuidae,Cutworm Moths and Allies,eats
+7464,48111,Mantidae,Mantids,eats
+7464,47208,Coleoptera,Beetles,eats
+7464,47793,Dermaptera,Earwigs,eats
+7464,57409,Phalangiidae,Phalangiid Harvestmen,eats
+7464,,Gyrinidae,,eats
+7464,,Brentidae,,eats
+7464,,Lycosa,,eats
+7464,30729,Crotalus pricei,Twin-spotted Rattlesnake,preyedUponBy
+7464,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy

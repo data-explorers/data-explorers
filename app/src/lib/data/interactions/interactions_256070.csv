@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+256070,679266,Oikopleura longicauda,,eats
+256070,984299,Paracalanus aculeatus,,eats
+256070,472067,Penilia avirostris,,eats
+256070,,Acartia lilljeborgii,,eats
+256070,1240182,Oithona nana,,eats
+256070,,Farranula gracilis,,eats
+256070,260881,Glossocephalus milneedwardsi,,eats
+256070,329111,Oncaea venusta,,eats
+256070,201723,Abylopsis tetragona,,eats
+256070,646396,Abylopsis eschscholtzi,,eats
+256070,,Oithona simplex,,eats
+256070,,Podon,,eats
+256070,777091,Fritillaria haplostoma,,eats
+256070,480204,Microsetella rosea,,eats
+256070,,Oithona plumifera,,eats
+256070,,Euchaeta marina,,eats
+256070,260814,Brachyscelus crusculum,,eats
+256070,662468,Diphyes bojani,,eats
+256070,,Labidocera acutifrons,,eats
+256070,329108,Oncaea mediterranea,,eats
+256070,665296,Eudoxoides spiralis,,eats
+256070,,Undinula vulgaris,,eats
+256070,983551,Oithona colcarva,,eats
+256070,260836,Lestrigonus bengalensis,,eats
+256070,,Oithona oculata,,eats
+256070,,Acartia spinata,,eats
+256070,329012,Centropages furcatus,,eats
+256070,,Paracalanus parvus,,eats
+256070,203397,Acartia tonsa,,eats
+256070,672393,Lensia subtiloides,,eats
+256070,,Paracalanus crassirostris,,eats
+256070,984283,Euterpina acutifrons,,eats
+256070,679265,Oikopleura dioica,,eats
+256070,,Corycaeus amazonicus,,eats
+256070,,Corycaeus subulatus,,eats
+256070,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+256070,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+256070,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+256070,480204,Microsetella rosea,,preysOn
+256070,679265,Oikopleura dioica,,preysOn
+256070,984283,Euterpina acutifrons,,preysOn
+256070,646396,Abylopsis eschscholtzi,,preysOn
+256070,,Acartia spinata,,preysOn
+256070,260881,Glossocephalus milneedwardsi,,preysOn
+256070,39665,Caretta caretta,Loggerhead Sea Turtle,preyedUponBy

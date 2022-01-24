@@ -1,0 +1,120 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4263,107889,Oreochromis mossambicus,Mozambique Tilapia,eats
+4263,51912,Engraulis,,eats
+4263,47186,Decapoda,Decapods,eats
+4263,92583,Trachurus,Jack Mackerels,eats
+4263,63770,Engraulis mordax,Northern Anchovy,eats
+4263,121639,Brachyura,True Crabs,eats
+4263,118597,Belone belone,Garfish,eats
+4263,85493,Crustacea,Crustaceans,eats
+4263,47459,Cephalopoda,Cephalopods,eats
+4263,120676,Trachurus picturatus,Blue Jack Mackerel,eats
+4263,47178,Actinopterygii,Ray-finned Fishes,eats
+4263,47115,Mollusca,Molluscs,eats
+4263,1,Animalia,Animals,eats
+4263,47584,Bivalvia,Bivalves,eats
+4263,47490,Polychaeta,Polychaete Worms,eats
+4263,47114,Gastropoda,Gastropods,eats
+4263,550281,Paranotothenia magellanica,Orange-throat Notothen,eats
+4263,,Gnathostomata,,eats
+4263,371728,Notothenia coriiceps,Black Rockcod,eats
+4263,,Lepidonotothen nudifrons,,eats
+4263,615189,Harpagifer antarcticus,Antarctic spiny plunderfish,eats
+4263,,Agonopsis chiloensis,,eats
+4263,1094275,Alcyonidium hirsutum,,eats
+4263,,Ribeiroclinus eigenmanni,,eats
+4263,447397,Engraulis anchoita,Argentine Anchoita,eats
+4263,,Acanthistius brasilianus,,eats
+4263,411178,Nemadactylus bergi,Castaneta,eats
+4263,85289,Pseudophycis bachus,Red cod,eats
+4263,328042,Engraulis japonicus,Japanese Anchovy,eats
+4263,,Kondakovia longimana,,eats
+4263,,,,eats
+4263,254742,Astyris lunata,Lunate Dove Shell,eats
+4263,146888,Illex,Shortfin Squids,eats
+4263,218966,Eleginus gracilis,Saffron Cod,eats
+4263,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+4263,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4263,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+4263,120672,Scomberesox saurus,Atlantic Saury,eats
+4263,51910,Engraulis encrasicolus,European Anchovy,eats
+4263,55398,Solea,,eats
+4263,82337,Loligo,,eats
+4263,502271,Engraulis australis,Australian Anchovy,eats
+4263,,Frigidoalvania cruenta,,eats
+4263,,Macruronus magellanicus,,eats
+4263,324532,Sprattus sprattus,European Sprat,eats
+4263,,Teuthida,,eats
+4263,117571,Clupea pallasii,Pacific herring,eats
+4263,120702,Micromesistius poutassou,Blue Whiting,eats
+4263,63691,Cololabis saira,Pacific Saury,eats
+4263,228496,Pollachius virens,Pollock,eats
+4263,,Harpagifer kerguelensis,,eats
+4263,82353,Merluccius,Hakes,eats
+4263,47525,Pleuronectidae,Righteye Flounders,eats
+4263,55535,Sardinops sagax,Pacific Sardine,eats
+4263,118600,Sardina pilchardus,European Sardine,eats
+4263,,Etrumeus teres,,eats
+4263,87865,Decapterus,,eats
+4263,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4263,88265,Etrumeus,Red-eye Round Herrings,eats
+4263,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4263,215318,Boreogadus saida,Arctic Cod,eats
+4263,,Lepidonotothen larseni,,eats
+4263,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+4263,,Gobionotothen acuta,,eats
+4263,97990,Clupea harengus,Atlantic Herring,eats
+4263,63740,Gadus morhua,Atlantic Cod,eats
+4263,,Others,,eats
+4263,1303563,Notothenioidei,,eats
+4263,180029,Gadus macrocephalus,Pacific Cod,eats
+4263,,Harpagifer bispinis,,eats
+4263,,Zanclorhynchus spinifer,,eats
+4263,,Harpagifer spinosus,,eats
+4263,614162,Micromesistius australis,Southern blue whiting,eats
+4263,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4263,,Muraenolepis,,eats
+4263,614956,Sufflogobius bibarbatus,,eats
+4263,,Pisces,,eats
+4263,,Isacia conceptionis,,eats
+4263,,Odonthestes regia,,eats
+4263,,Ameiurus melas,,eats
+4263,,others,,eats
+4263,,Paralonchurus peruanus,,eats
+4263,,Sciaena,,eats
+4263,,Normanichthys crockeri,,eats
+4263,86453,Anchoa,,eats
+4263,,Odontesthes,,eats
+4263,,Epinephelus maculatus,,eats
+4263,,Parachaenichthys charcoti,,eats
+4263,,Piscidae HMProckcod,,eats
+4263,90371,Notothenia,,eats
+4263,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4263,41766,Odobenus rosmarus,Walrus,eatenBy
+4263,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+4263,47792,Odonata,Dragonflies and Damselflies,preysOn
+4263,54196,Cichlidae,Cichlids,preysOn
+4263,203347,Anurida maritima,Seashore Springtail,preysOn
+4263,47951,Staphylinidae,Rove Beetles,preysOn
+4263,,Pholis ornata,,preysOn
+4263,83170,Platichthys stellatus,Starry Flounder,preysOn
+4263,,Ndunduma,,preysOn
+4263,,Bombe,,preysOn
+4263,,Samwamowa,,preysOn
+4263,,Tachys occulator,,preysOn
+4263,,Matemba,,preysOn
+4263,,Ligia exotica,,preysOn
+4263,,Nkunga,,preysOn
+4263,203330,Sericoderus,,preysOn
+4263,330174,Pentacora sphacelata,,preysOn
+4263,172185,Veigaia,,preysOn
+4263,,Nkhono,,preysOn
+4263,,Axelosonia littoralis,,preysOn
+4263,29335,Natrix,,preysOn
+4263,467803,Actinopteryx fucicola,,preysOn
+4263,,Littoraria angulifera,,preysOn
+4263,,Nkholokolo,,preysOn
+4263,,Entonyssus,,preysOn
+4263,464046,Rhagovelia plumbea,,preysOn
+4263,,Bembidion contractum,,preysOn
+4263,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn

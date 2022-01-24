@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52899,61505,Manduca sexta,Carolina Sphinx,eatenBy
+52899,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+52899,,Synanthedon rileyana,,eatenBy
+52899,,Exaeretia canella,,eatenBy
+52899,395129,Phthorimaea operculella,Potato Tuber Moth,eatenBy
+52899,,Tildenia,,eatenBy
+52899,232602,Tildenia glochinella,,eatenBy
+52899,,Isophrictis similiella,,eatenBy
+52899,,Leptinotarsa juncta,,eatenBy
+52899,52781,Melissodes,,pollinatedBy
+52899,120489,Sarcophaga,Common Flesh Flies,pollinatedBy
+52899,58586,Limenitis archippus,Viceroy,pollinatedBy
+52899,176923,Mordella,,pollinatedBy
+52899,325491,Sayapis,,pollinatedBy
+52899,449683,Phormia regina,Black Blow Fly,pollinatedBy
+52899,57678,Lasioglossum,,pollinatedBy
+52899,82527,Augochloropsis metallica,Metallic Epauletted-Sweat bee,pollinatedBy
+52899,,Deilephila,,pollinatedBy
+52899,,Chloralictus,,pollinatedBy
+52899,,Criorhina,,pollinatedBy
+52899,,Holandrena,,pollinatedBy
+52899,,Gnathias,,pollinatedBy
+52899,,Hiatomyia cyanescens,,pollinatedBy
+52899,,Calocoris rapidus,,pollinatedBy
+52899,538874,Bombias,,pollinatedBy
+52899,,Toxoneuron abdominale,,pollinatedBy
+52899,,Phyto,,pollinatedBy
+52899,,Evylaeus,,pollinatedBy
+52899,,Apallates coxendix,,pollinatedBy
+52899,,Alydus pilosulus,,pollinatedBy
+52899,,Luperaltica,,pollinatedBy
+52899,299141,Urosigalphus femoratus,,pollinatedBy
+52899,,Mordellistena aspersa,,pollinatedBy
+52899,,Corimelaena pulicaria,,pollinatedBy
+52899,,Pemphredon inornata,,pollinatedBy
+52899,,Bibio pallipes,,pollinatedBy
+52899,,Rhamphomyia rava,,pollinatedBy
+52899,,Dolerus aprilis,,pollinatedBy
+52899,,Bombylius helvus,,pollinatedBy
+52899,,Tiphia,,pollinatedBy
+52899,,Cerotoma,,pollinatedBy
+52899,,Cremastus,,pollinatedBy
+52899,,Leionotus,,pollinatedBy
+52899,,Siphonella,,pollinatedBy
+52899,,Philanthus ventilabris,,pollinatedBy
+52899,,Zaira georgiae,,pollinatedBy
+52899,,Bracon,,pollinatedBy
+52899,,Callandrena,,pollinatedBy
+52899,,Macropis steironematis,,pollinatedBy
+52899,,Ditemnus bidentatus,,pollinatedBy
+52899,,Lucilia sericata ,,pollinatedBy
+52899,,Polysphincta,,pollinatedBy
+52899,,Sapyga centrata,,pollinatedBy
+52899,646104,Therioplectes,,pollinatedBy
+52899,,http://treatment.plazi.org/id/789E991BAABCFD603BDD0FA07013DB1D,,pollinatedBy

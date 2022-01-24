@@ -1,0 +1,197 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61267,218223,Dendroctonus valens,Red Turpentine Beetle,eats
+61267,48914,Dendroctonus,,eats
+61267,,Pithyophthorus annectens,,eats
+61267,222269,Ips grandicollis,Eastern Fivespined Ips,eats
+61267,,Xyleborus fitchi,,eats
+61267,,Pithyophthorus pullus,,eats
+61267,222267,Ips calligraphus,Sixspined Ips,eats
+61267,176306,Orthotomicus,,eats
+61267,,Craterispermum microdon,,eats
+61267,4209,Podiceps auritus,Horned Grebe,eatenBy
+61267,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+61267,5009,Ixobrychus exilis,Least Bittern,eatenBy
+61267,72458,Actitis macularius,Spotted Sandpiper,eatenBy
+61267,473,Fulica americana,American Coot,eatenBy
+61267,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eatenBy
+61267,1965,Coccyzus americanus,Yellow-billed Cuckoo,eatenBy
+61267,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+61267,9921,Piranga olivacea,Scarlet Tanager,eatenBy
+61267,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+61267,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+61267,13858,Passer domesticus,House Sparrow,eatenBy
+61267,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+61267,17356,Vireo bellii,Bell's Vireo,eatenBy
+61267,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+61267,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+61267,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+61267,17009,Sayornis saya,Say's Phoebe,eatenBy
+61267,17013,Sayornis nigricans,Black Phoebe,eatenBy
+61267,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+61267,12727,Turdus migratorius,American Robin,eatenBy
+61267,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+61267,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+61267,10247,Setophaga ruticilla,American Redstart,eatenBy
+61267,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+61267,145242,Setophaga palmarum,Palm Warbler,eatenBy
+61267,145238,Setophaga petechia,Yellow Warbler,eatenBy
+61267,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+61267,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+61267,7998,Corvus,Crows and Ravens,eatenBy
+61267,8021,Corvus brachyrhynchos,American Crow,eatenBy
+61267,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+61267,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+61267,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+61267,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+61267,9919,Piranga ludoviciana,Western Tanager,eatenBy
+61267,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+61267,19660,Regulus,Kinglets,eatenBy
+61267,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+61267,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+61267,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+61267,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+61267,162,Porzana carolina,Sora,eatenBy
+61267,5017,Bubulcus ibis,Cattle Egret,eatenBy
+61267,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+61267,145233,Setophaga americana,Northern Parula,eatenBy
+61267,9764,Agelaius xanthomus,Yellow-shouldered Blackbird,eatenBy
+61267,16024,Myiarchus antillarum,Puerto Rican Flycatcher,eatenBy
+61267,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+61267,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+61267,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+61267,542,Coturnicops noveboracensis,Yellow Rail,eatenBy
+61267,519,Porphyrio martinica,Purple Gallinule,eatenBy
+61267,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+61267,145249,Setophaga discolor,Prairie Warbler,eatenBy
+61267,16602,Empidonax minimus,Least Flycatcher,eatenBy
+61267,,Vireo atricapilla,,eatenBy
+61267,,Ardeola ralloides,,eatenBy
+61267,204527,Ixobrychus minutus,Little Bittern,eatenBy
+61267,72797,Dendragapus fuliginosus,Sooty Grouse,eatenBy
+61267,,Setophaga pinus,,eatenBy
+61267,13632,Baeolophus bicolor,Tufted Titmouse,eatenBy
+61267,,Helmitheros vermivorum,,eatenBy
+61267,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+61267,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+61267,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+61267,,Vireo flavifrons,,eatenBy
+61267,17408,Vireo griseus,White-eyed Vireo,eatenBy
+61267,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+61267,17394,Vireo gilvus,Warbling Vireo,eatenBy
+61267,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+61267,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+61267,243,Rallus limicola,Virginia Rail,eatenBy
+61267,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+61267,10442,Limnothlypis swainsonii,Swainson's Warbler,eatenBy
+61267,,Setophaga virens,,eatenBy
+61267,979756,Leiothlypis peregrina,Tennessee Warbler,eatenBy
+61267,145236,Setophaga castanea,Bay-breasted Warbler,eatenBy
+61267,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+61267,,Icteria virens,,eatenBy
+61267,73149,Parkesia noveboracensis,Northern Waterthrush,eatenBy
+61267,144820,Poecile rufescens,Chestnut-backed Chickadee,eatenBy
+61267,,Spizella breweri,,eatenBy
+61267,,Peucaea aestivalis,,eatenBy
+61267,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+61267,,Picoides nuttallii,,eatenBy
+61267,,Picoides villosus,,eatenBy
+61267,,Empidonax oberholseri,,eatenBy
+61267,,Zonotrichia leucophrys,,eatenBy
+61267,,Geothlypis tolmiei,,eatenBy
+61267,,Setophaga townsendi,,eatenBy
+61267,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+61267,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+61267,,Vireo cassinii,,eatenBy
+61267,19577,Chordeiles minor,Common Nighthawk,eatenBy
+61267,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+61267,9600,Quiscalus lugubris,Carib Grackle,eatenBy
+61267,,Empidonax fulvifrons,,eatenBy
+61267,20781,Trogon elegans,Elegant Trogon,eatenBy
+61267,,Tachybaptus dominicus,,eatenBy
+61267,129730,Poduromorpha,Plump Springtails,preysOn
+61267,83224,Entomobryomorpha,Elongate Springtails,preysOn
+61267,52788,Acari,Mites and Ticks,preysOn
+61267,,Sminthuridae,,preysOn
+61267,47367,Opiliones,Harvestmen,preyedUponBy
+61267,48124,Tettigoniidae,Katydids,preyedUponBy
+61267,47118,Araneae,Spiders,preyedUponBy
+61267,55470,Arctosa,Bear Spiders,preyedUponBy
+61267,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+61267,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+61267,47927,Anisoptera,Dragonflies,preyedUponBy
+61267,47550,Tetragnatha,,preyedUponBy
+61267,47951,Staphylinidae,Rove Beetles,preyedUponBy
+61267,47535,Araneidae,Orbweavers,preyedUponBy
+61267,47866,Thomisidae,Crab Spiders,preyedUponBy
+61267,82081,Theridion,Tangleweb Spiders,preyedUponBy
+61267,47416,Lycosidae,Wolf Spiders,preyedUponBy
+61267,48139,Salticidae,Jumping Spiders,preyedUponBy
+61267,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+61267,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+61267,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+61267,47928,Zygoptera,Damselflies,preyedUponBy
+61267,51556,Sympetrum,Meadowhawks,preyedUponBy
+61267,56611,Philodromus,,preyedUponBy
+61267,67708,Argiope trifasciata,Banded Garden Spider,preyedUponBy
+61267,366894,Steatoda nobilis,Noble False Widow,preyedUponBy
+61267,84640,Polistes dominula,European Paper Wasp,preyedUponBy
+61267,121444,Larinioides,,preyedUponBy
+61267,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+61267,1086379,Tetartopeus terminatum,,preyedUponBy
+61267,,Coenagrion pulchellum,,preyedUponBy
+61267,1151405,Lesteva sicula,,preyedUponBy
+61267,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+61267,,Gabrius fermoralis,,preyedUponBy
+61267,360548,Zora spinimana,,preyedUponBy
+61267,,Pirata tenuitarsis,,preyedUponBy
+61267,69599,Tetramorium,Fierce ants,preyedUponBy
+61267,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+61267,,Paederus riparius,,preyedUponBy
+61267,397950,Tenuiphantes tenuis,,preyedUponBy
+61267,,Gnathonarium dentatum,,preyedUponBy
+61267,146722,Marpissa,,preyedUponBy
+61267,,Theridion pictum,,preyedUponBy
+61267,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+61267,129878,Nabidae,Damsel Bugs,preyedUponBy
+61267,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+61267,,Somatochlora,,preyedUponBy
+61267,,Pachygnatha,,preyedUponBy
+61267,128746,Pirata piraticus,Pirate Otter Spider,preyedUponBy
+61267,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+61267,153636,Zelotes,,preyedUponBy
+61267,131943,Rugilus rufipes,,preyedUponBy
+61267,,Pirata,,preyedUponBy
+61267,,Lathrobium fovalum,,preyedUponBy
+61267,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+61267,,Pirata latitans,,preyedUponBy
+61267,357413,Evarcha arcuata,,preyedUponBy
+61267,,Hypostenus latifrons,,preyedUponBy
+61267,547270,Pardosa prativaga,,preyedUponBy
+61267,153863,Thanatus,,preyedUponBy
+61267,547275,Antistea elegans,,preyedUponBy
+61267,131962,Stenus,,preyedUponBy
+61267,,Conocephalus fuscus,,preyedUponBy
+61267,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+61267,226195,Ochthephilum fracticorne,,preyedUponBy
+61267,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+61267,,Ensifera,,preyedUponBy
+61267,51679,Coenagrion,Northern Bluets,preyedUponBy
+61267,360744,Marpissa radiata,,preyedUponBy
+61267,783658,Walckenaeria nudipalpis,,preyedUponBy
+61267,,Nestus,,preyedUponBy
+61267,,Sitticus,,preyedUponBy
+61267,,Phylloneta impressa,,preyedUponBy
+61267,784329,Robertus insignis,,preyedUponBy
+61267,61762,Evarcha,,preyedUponBy
+61267,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+61267,964118,Stenus latifrons,,preyedUponBy
+61267,,Lathrobium fovalum (Steph.),,preyedUponBy
+61267,,Gabrius fermoralis (Hochh.),,preyedUponBy
+61267,1017714,Stenus carbonarius,,preyedUponBy
+61267,1017741,Stenus ruralis,,preyedUponBy
+61267,153097,Ascalaphinae,Owlflies,preyedUponBy
+61267,62624,Phidippus putnami,Putnam's Jumping Spider,preyedUponBy
+61267,,Setophaga nigrescens,,preyedUponBy
+61267,,Calobatella petronella,,preyedUponBy
+61267,,Oxyopes heterophthalmus,,preyedUponBy
+61267,,Parapolybia varia,,preyedUponBy

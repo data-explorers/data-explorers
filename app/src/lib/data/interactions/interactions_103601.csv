@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+103601,47115,Mollusca,Molluscs,eats
+103601,47584,Bivalvia,Bivalves,eats
+103601,122326,Salpida,Salps,eats
+103601,85493,Crustacea,Crustaceans,eats
+103601,153112,Euphausiacea,krill,eats
+103601,47177,Tetraodontiformes,Puffers and Filefishes,eats
+103601,51510,Beroida,,eats
+103601,47549,Echinodermata,Echinoderms,eats
+103601,48836,Ophiuroidea,Brittle Stars,eats
+103601,1,Animalia,Animals,eats
+103601,152925,Lobata,,eats
+103601,121639,Brachyura,True Crabs,eats
+103601,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+103601,47628,Amphipoda,Amphipods,eats
+103601,47429,Polyplacophora,Chitons,eats
+103601,68104,Bryozoa,Bryozoans,eats
+103601,47126,Plantae,plants,eats
+103601,48147,Isopoda,Isopods,eats
+103601,47491,Annelida,Segmented Worms,eats
+103601,47114,Gastropoda,Gastropods,eats
+103601,103601,Jasus edwardsii,Southern Rock Lobster,eats
+103601,48824,Porifera,Sponges,eats
+103601,,unspecified siphonophores,,eats
+103601,774778,Gymnoplea,,eats
+103601,,Medusozoa,,eats
+103601,,Pisces,,eats
+103601,142105,Trachymedusae,,eats
+103601,775797,Euthyneura,Euthyneuran Gastropods,eats
+103601,,Detritus,,eats
+103601,,unspecified mytilids,,eats
+103601,,unspecified soft material,,eats
+103601,,Algae,,eats
+103601,,unspecified asteroids,,eats
+103601,868389,Hiatella australis,Australian Rock-Borer,eats
+103601,,unspecified trochids,,eats
+103601,103601,Jasus edwardsii,Southern Rock Lobster,eatenBy
+103601,106252,Mustelus antarcticus,Gummy Shark,eatenBy
+103601,106260,Mustelus lenticulatus,Spotted Estuary Smooth-hound,eatenBy
+103601,410681,Notomithrax ursus,Hairy Seaweed Crab,eatenBy
+103601,41759,Neophoca cinerea,Australian Sea Lion,eatenBy
+103601,100249,Eptatretus longipinnis,Longfinned Hagfish,eatenBy
+103601,410681,Notomithrax ursus,Hairy Seaweed Crab,preyedUponBy
+103601,106260,Mustelus lenticulatus,Spotted Estuary Smooth-hound,preyedUponBy
+103601,41759,Neophoca cinerea,Australian Sea Lion,preyedUponBy
+103601,106252,Mustelus antarcticus,Gummy Shark,preyedUponBy

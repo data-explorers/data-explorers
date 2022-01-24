@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+65979,12727,Turdus migratorius,American Robin,eats
+65979,25473,Ranidae,Typical Frogs,eats
+65979,,Pisanianura,,eats
+65979,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+65979,4956,Ardea herodias,Great Blue Heron,eatenBy
+65979,41777,Lontra canadensis,North American River Otter,eatenBy
+65979,144455,Ardea alba,Great Egret,eatenBy
+65979,4940,Egretta thula,Snowy Egret,eatenBy
+65979,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eatenBy
+65979,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+65979,28390,Thamnophis marcianus,Checkered Garter Snake,eatenBy
+65979,29317,Nerodia fasciata,Banded Watersnake,eatenBy
+65979,5034,Botaurus lentiginosus,American Bittern,eatenBy
+65979,,Macrobdella decora,,eatenBy
+65979,4937,Egretta caerulea,Little Blue Heron,eatenBy
+65979,5017,Bubulcus ibis,Cattle Egret,eatenBy
+65979,5416,Ictinia mississippiensis,Mississippi Kite,eatenBy
+65979,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+65979,7428,Bombycilla cedrorum,Cedar Waxwing,preysOn
+65979,13858,Passer domesticus,House Sparrow,preysOn
+65979,11901,Hirundo rustica,Barn Swallow,preysOn
+65979,7251,Passeriformes,Perching Birds,preysOn
+65979,85493,Crustacea,Crustaceans,preysOn
+65979,47219,Apis mellifera,Western Honey Bee,preysOn
+65979,,Anatinae,,preysOn
+65979,,Enallagma signatum,,preysOn
+65979,29925,Heterodon platirhinos,Eastern Hognose Snake,preyedUponBy
+65979,144455,Ardea alba,Great Egret,preyedUponBy
+65979,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+65979,5020,Butorides virescens,Green Heron,preyedUponBy
+65979,,Thamnophis sauritus,,preyedUponBy
+65979,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+65979,,Agkistrodon piscivorus leucostoma,,preyedUponBy
+65979,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+65979,,Nerodia fasciata confluens,,preyedUponBy
+65979,,Liophis miliaris,,preyedUponBy
+65979,29305,Nerodia sipedon,Common Watersnake,preyedUponBy
+65979,28396,Thamnophis hammondii,Two-striped Garter Snake,preyedUponBy
+65979,,Thamnodynastes strigatus,,preyedUponBy
+65979,32314,Tropidophis melanurus,Cuban Dwarf Boa,preyedUponBy
+65979,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+65979,27149,Coluber constrictor constrictor,Northern Black Racer,preyedUponBy
+65979,28287,Tretanorhinus variabilis,Caribbean Water Snake,preyedUponBy
+65979,4937,Egretta caerulea,Little Blue Heron,preyedUponBy
+65979,,Nerodia sipedon sipedon,,preyedUponBy
+65979,5034,Botaurus lentiginosus,American Bittern,preyedUponBy
+65979,,Thamnophis sirtalis concinnus,,preyedUponBy

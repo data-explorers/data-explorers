@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+14995,49194,Verbenaceae,verbena family,eats
+14995,47158,Insecta,Insects,eats
+14995,48064,Primulaceae,primroses,eats
+14995,47124,Magnoliopsida,dicots,eats
+14995,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+14995,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+14995,47157,Lepidoptera,Butterflies and Moths,eats
+14995,47208,Coleoptera,Beetles,eats
+14995,47822,Diptera,Flies,eats
+14995,47118,Araneae,Spiders,eats
+14995,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+14995,62164,Trichoptera,Caddisflies,eats
+14995,1,Animalia,Animals,eats
+14995,211194,Tracheophyta,vascular plants,eats
+14995,47336,Formicidae,Ants,eats
+14995,48599,Phytolacca americana,American pokeweed,eats
+14995,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+14995,58732,Toxicodendron radicans,poison ivy,eats
+14995,54834,Prunus serotina,black cherry,eats
+14995,125845,Prunus caroliniana,Carolina laurelcherry,eats
+14995,54774,Viburnum,viburnums,eats
+14995,83799,Mitchella repens,partridgeberry,eats
+14995,77740,Ligustrum lucidum,tree privet,eats
+14995,167829,Rhus typhina,staghorn sumac,eats
+14995,3800,Morus,Gannets,eats
+14995,333586,Oligochaeta,Earthworms and allies,eats
+14995,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+14995,47193,Cornus,dogwoods,eats
+14995,,Miconia barbinervis,,eats
+14995,,Nectandra membranacea,,eats
+14995,185563,Hampea appendiculata,,eats
+14995,,Conostegia subcrustulata,,eats
+14995,,Psychotria brachiata,,eats
+14995,,Notopleura epiphytica,,eats
+14995,,Ardisia nigropunctata,,eats
+14995,,Phytolacca rivinoides,,eats
+14995,,Clidemia,,eats
+14995,,Miconia affinis,,eats
+14995,,Clibadium surinamense,,eats
+14995,,Clusia palmana,,eats
+14995,133455,Alchornea,,eats
+14995,,Cissus fuliginea,,eats
+14995,,Passiflora auriculata,,eats
+14995,,Miconia multispicata,,eats
+14995,,Urera caracasana,,eats
+14995,,Miconia nervosa,,eats
+14995,,Bertiera angustifolia,,eats
+14995,,Vitex cooperi,,eats
+14995,927567,Drymonia pilifera,,eats
+14995,,Miconia gracilis,,eats
+14995,,Cestrum racemosum,,eats
+14995,,Pinzona coriacea,,eats
+14995,,Neea psychotrioides,,eats
+14995,,Heliconia wagneriana,,eats
+14995,,Xiphidium caeruleum,,eats
+14995,,Marcgravia caudata,,eats
+14995,,Miconia centrodesma,,eats
+14995,48887,Miconia,,eats
+14995,,Psychotria officinalis,,eats
+14995,,Miconia magnifolia,,eats
+14995,,Miconia smaragdina,,eats
+14995,,Psychotria grandistipulata,,eats
+14995,,Conostegia brenesiana,,eats
+14995,,Clidemia discolor,,eats
+14995,,Besleria columneoides,,eats
+14995,,Ardisia auriculata,,eats
+14995,,Ditrichanthus seemannii,,eats
+14995,,Miconia variabilis,,eats
+14995,,Henriettea tuberculosa,,eats
+14995,,Miconia prasina,,eats
+14995,,Miconia simplex,,eats
+14995,,Conostegia bracteata,,eats
+14995,,Miconia approximata,,eats
+14995,1104923,Miconia appendiculata,,eats
+14995,,Dendropanax arboreus,,eats
+14995,,Clidemia dentata,,eats
+14995,,Doliocarpus,,eats
+14995,,Cecropia insignis,,eats
+14995,,Psychotria cyanococca,,eats
+14995,,Cecropia obtusifolia,,eats
+14995,,Siparuna grandiflora,,eats
+14995,,Psychotria elata,,eats
+14995,51600,Psychotria,wild coffees,eats
+14995,,Sabicea villosa,,eats
+14995,,Clidemia crenulata,,eats
+14995,,Urera baccifera,,eats
+14995,,Schefflera systyla,,eats
+14995,,Hamelia patens,,eats
+14995,853971,Trichostigma polyandrum,,eats
+14995,,Psychotria psychotriifolia,,eats
+14995,280995,Witheringia solanacea,,eats
+14995,,Smilax tamnoides,,eats
+14995,,http://treatment.plazi.org/id/EA32CFFC201A3B6C64C42AED4866B648,,eats
+14995,,Vitis vulpina,,eats
+14995,54793,Lindera benzoin,northern spicebush,eats
+14995,,Menispermum canadense,,eats
+14995,,Karwinskia humboldtiana,,eats
+14995,,Sabal,,eats
+14995,,Guettarda elliptica,,eats
+14995,,Vitis biformis,,eats
+14995,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+14995,19893,Strix varia,Barred Owl,eatenBy
+14995,20315,Asio flammeus,Short-eared Owl,eatenBy
+14995,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+14995,47158,Insecta,Insects,preysOn
+14995,83854,Magicicada,Periodical Cicadas,preysOn

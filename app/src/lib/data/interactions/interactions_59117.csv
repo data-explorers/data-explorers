@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59117,1,Animalia,Animals,eats
+59117,47208,Coleoptera,Beetles,eats
+59117,85514,Cyclopoida,Cyclopoid Copepods,eats
+59117,54960,Nematoda,Nematodes,eats
+59117,47158,Insecta,Insects,eats
+59117,,CLADOCERA: Moina sp.,,eats
+59117,,CLADOCERA: Chydorus sp.,,eats
+59117,,ZOOPLANKTON (ALL),,eats
+59117,,CLADOCERA: Macrothrix sp. (BENTHIC),,eats
+59117,,CLADOCERA : Alona sp. (BENTHIC),,eats
+59117,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+59117,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+59117,26036,Reptilia,Reptiles,eatenBy
+59117,39532,Testudines,Turtles and Tortoises,eatenBy
+59117,4940,Egretta thula,Snowy Egret,eatenBy
+59117,64346,Natrix tessellata,Tessellated Water Snake,eatenBy
+59117,5017,Bubulcus ibis,Cattle Egret,eatenBy
+59117,4938,Egretta tricolor,Tricolored Heron,eatenBy

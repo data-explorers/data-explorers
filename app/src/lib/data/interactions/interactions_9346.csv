@@ -1,0 +1,109 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9346,48736,Curculionidae,True Weevils,eats
+9346,47124,Magnoliopsida,dicots,eats
+9346,47158,Insecta,Insects,eats
+9346,211194,Tracheophyta,vascular plants,eats
+9346,1,Animalia,Animals,eats
+9346,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9346,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+9346,50186,Cicadidae,Typical Cicadas,eats
+9346,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9346,47208,Coleoptera,Beetles,eats
+9346,51146,Chrysomelidae,Leaf Beetles,eats
+9346,47822,Diptera,Flies,eats
+9346,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9346,53248,Elateridae,Click Beetles,eats
+9346,47118,Araneae,Spiders,eats
+9346,47157,Lepidoptera,Butterflies and Moths,eats
+9346,50999,Ficus,Figs,eats
+9346,47792,Odonata,Dragonflies and Damselflies,eats
+9346,47336,Formicidae,Ants,eats
+9346,47351,Prunus,"plums, cherries, and allies",eats
+9346,53854,Ilex,hollies,eats
+9346,120942,Malvaviscus arboreus,Turk's cap,eats
+9346,54834,Prunus serotina,black cherry,eats
+9346,48599,Phytolacca americana,American pokeweed,eats
+9346,120527,Melaleuca quinquenervia,Broad-leaved paperbark,eats
+9346,119936,Vitis riparia,riverbank grape,eats
+9346,59675,Pyrrharctia isabella,Isabella Tiger Moth,eats
+9346,,Phyllophaga,,eats
+9346,,Olyra,,eats
+9346,,Sideroxylon,,eats
+9346,,Casearia sylvestris,,eats
+9346,,Conostegia icosandra,,eats
+9346,,Guatteria,,eats
+9346,,Schefflera,,eats
+9346,,Cecropia obtusifolia,,eats
+9346,,Trema micrantha,,eats
+9346,,Citharexylum,,eats
+9346,,Xylosma intermedium,,eats
+9346,,Bunchosia odorata,,eats
+9346,,Witheringia,,eats
+9346,,Zanthoxylum,,eats
+9346,,Faramea ovalis,,eats
+9346,,Cestrum racemosum,,eats
+9346,441160,Nectandra smithii,,eats
+9346,,Hasseltia floribunda,,eats
+9346,,Gonzalagunia rosea,,eats
+9346,,Hieronyma oblonga,,eats
+9346,,Cavendishia,,eats
+9346,,Phytolacca rivinoides,,eats
+9346,,Acnistus arborescens,,eats
+9346,543242,Rubus fraxinifolius,,eats
+9346,,Dendropanax arboreus,,eats
+9346,,Cinnamomum triplinerve,,eats
+9346,,Ocotea,,eats
+9346,,Psychotria elata,,eats
+9346,,Xylosma chlorantha,,eats
+9346,185219,Ossaea,,eats
+9346,,Ardisia,,eats
+9346,,Palicourea galeottiana,,eats
+9346,,Besleria triflora,,eats
+9346,,Pouteria exfoliata,,eats
+9346,280995,Witheringia solanacea,,eats
+9346,,Matayba oppositifolia,,eats
+9346,,Guettarda crispiflora,,eats
+9346,,Nectandra,,eats
+9346,,Prunus annularis,,eats
+9346,,Ocotea bernoulliana,,eats
+9346,,Stemmadenia obovata,,eats
+9346,,Symplococarpon purpusii,,eats
+9346,,Dendropanax querceti,,eats
+9346,,Trophis mexicana,,eats
+9346,,Conostegia speciosa,,eats
+9346,,Conostegia xalapensis,,eats
+9346,,Blakea gracilis,,eats
+9346,,Myrsine coriacea,,eats
+9346,,Clusia,,eats
+9346,,Conostegia rufescens,,eats
+9346,,Beilschmiedia,,eats
+9346,209919,Guarea glabra,alligatorwood,eats
+9346,,Cavendishia complectens,,eats
+9346,,Ocotea glaucosericea,,eats
+9346,154826,Piper auritum,Root Beer Plant,eats
+9346,,Solanum cordovense,,eats
+9346,,Drymonia conchocalyx,,eats
+9346,,Xylosma flexuosa,,eats
+9346,,Guapira costaricana,,eats
+9346,155710,Urera,,eats
+9346,,Picramnia teapensis,,eats
+9346,,Symplocos limoncillo,,eats
+9346,,Marcgravia brownei,,eats
+9346,,Oreopanax oerstedianus,,eats
+9346,,Drymonia,,eats
+9346,,Perrottetia longistylis,,eats
+9346,181651,Lycianthes,,eats
+9346,,Gaiadendron punctatum,,eats
+9346,,Erythroxylum amplum,,eats
+9346,,Palicourea alajuelensis,,eats
+9346,278199,Ficus pertusa,,eats
+9346,,Schefflera rodriguesiana,,eats
+9346,,Ocotea floribunda,,eats
+9346,20044,Bubo virginianus,Great Horned Owl,eatenBy
+9346,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9346,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+9346,,Cooper's and sharpshinned hawks,,eatenBy
+9346,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+9346,4645,Falco femoralis,Aplomado Falcon,eatenBy
+9346,4644,Falco mexicanus,Prairie Falcon,eatenBy
+9346,47157,Lepidoptera,Butterflies and Moths,preysOn

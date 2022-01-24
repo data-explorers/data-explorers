@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+141735,47126,Plantae,plants,eats
+141735,,roots,,eats
+141735,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+141735,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+141735,12727,Turdus migratorius,American Robin,eatenBy
+141735,11867,Progne subis,Purple Martin,eatenBy
+141735,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+141735,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+141735,17009,Sayornis saya,Say's Phoebe,eatenBy
+141735,17355,Vireo,Vireos,eatenBy
+141735,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+141735,12901,Catharus fuscescens,Veery,eatenBy
+141735,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eatenBy
+141735,13732,Anthus rubescens,American Pipit,eatenBy
+141735,11941,Riparia riparia,Bank Swallow,eatenBy
+141735,,Empidonax flaviventris,,eatenBy
+141735,17408,Vireo griseus,White-eyed Vireo,eatenBy
+141735,,Vireo flavifrons,,eatenBy
+141735,5017,Bubulcus ibis,Cattle Egret,eatenBy
+141735,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+141735,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+141735,47951,Staphylinidae,Rove Beetles,preyedUponBy
+141735,127023,Amaurobius,Lace web spider,preyedUponBy
+141735,130409,Abax parallelepipedus,,preyedUponBy
+141735,,Lithobius,,preyedUponBy
+141735,416678,Callobius claustrarius,,preyedUponBy
+141735,498011,Abax ovalis,,preyedUponBy
+141735,605685,Coelotes terrestris,,preyedUponBy
+141735,,Lithobius muticus,,preyedUponBy
+141735,701423,Histopona torpida,,preyedUponBy
+141735,1019272,Xantholinus laevigatus,,preyedUponBy
+141735,129017,Araniella cucurbitina,Cucumber Green Spider,preyedUponBy
+141735,739596,Lithobius mutabilis,,preyedUponBy
+141735,,Geophilus ribauti,,preyedUponBy
+141735,705967,Harpactea lepida,,preyedUponBy
+141735,360817,Coelotes,,preyedUponBy
+141735,496759,Geophilus insculptus,,preyedUponBy
+141735,491325,Geophilus electricus,,preyedUponBy
+141735,495490,Cychrus attenuatus,,preyedUponBy
+141735,521083,Strigamia acuminata,,preyedUponBy
+141735,131093,Harpalus,,preyedUponBy
+141735,230519,Schendyla nemorensis,,preyedUponBy
+141735,,Lithobius borealis,,preyedUponBy
+141735,855514,Lithobius subtilis,,preyedUponBy
+141735,701197,Inermocoelotes inermis,,preyedUponBy

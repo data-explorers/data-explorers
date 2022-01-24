@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+324563,67333,Bacteria,bacteria,eats
+324563,1005749,Phaeocystis pouchetii,,eats
+324563,,Nitzschia closterium,,eats
+324563,,Detritus,,eats
+324563,341617,Thalassiosira,,eats
+324563,,Podosira stelliger,,eats
+324563,203742,Skeletonema costatum,,eats
+324563,467402,Ocenebra erinaceus,European Sting Winkle,preyedUponBy
+324563,49606,Balistes capriscus,Grey Triggerfish,preyedUponBy
+324563,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+324563,120138,Asterias rubens,Common Sea Star,preyedUponBy
+324563,55396,Solea solea,Common Sole,preyedUponBy
+324563,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+324563,61387,Limanda limanda,Sand Dab,preyedUponBy
+324563,118657,Pagellus bogaraveo,Blackspot Seabream,preyedUponBy
+324563,,Lepsiella albomarginata,,preyedUponBy
+324563,,Trisopterus minutus,,preyedUponBy
+324563,361645,Aphrodita aculeata,Sea Mouse,preyedUponBy
+324563,103913,Labrus mixtus,Cuckoo Wrasse,preyedUponBy
+324563,125291,Molva molva,European Ling,preyedUponBy
+324563,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+324563,94105,Anguilla anguilla,European Eel,preyedUponBy
+324563,109631,Platichthys flesus,European Flounder,preyedUponBy
+324563,481841,Microstomus kitt,Lemon Sole,preyedUponBy

@@ -1,0 +1,150 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7251,47118,Araneae,Spiders,eats
+7251,47158,Insecta,Insects,eats
+7251,47126,Plantae,plants,eats
+7251,47452,Acacia,wattles,eats
+7251,,Invertebrata,,eats
+7251,,marine invertebrates,,eats
+7251,,Embryophyta,,eats
+7251,,intertidal and marine invertebrates,,eats
+7251,,forbs,,eats
+7251,,shrubs,,eats
+7251,51046,Arbutus menziesii,Pacific madrone,eats
+7251,156565,Premna,,eats
+7251,184094,Commiphora,corkwoods,eats
+7251,42069,Vulpes vulpes,Red Fox,eatenBy
+7251,5163,Circus,Harriers,eatenBy
+7251,4665,Falco sparverius,American Kestrel,eatenBy
+7251,20044,Bubo virginianus,Great Horned Owl,eatenBy
+7251,5277,Elanus leucurus,White-tailed Kite,eatenBy
+7251,20445,Tyto alba,Barn Owl,eatenBy
+7251,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+7251,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+7251,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+7251,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+7251,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+7251,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+7251,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+7251,19893,Strix varia,Barred Owl,eatenBy
+7251,4672,Falco columbarius,Merlin,eatenBy
+7251,68993,Liometopum occidentale,Velvety Tree Ant,eatenBy
+7251,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+7251,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+7251,20307,Asio otus,Long-eared Owl,eatenBy
+7251,233598,Vulpes lagopus,Arctic Fox,eatenBy
+7251,,Ermine,,eatenBy
+7251,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+7251,,Aquila chrysaetos,,eatenBy
+7251,5017,Bubulcus ibis,Cattle Egret,eatenBy
+7251,4645,Falco femoralis,Aplomado Falcon,eatenBy
+7251,5422,Geranoaetus melanoleucus,Black-chested Buzzard-Eagle,eatenBy
+7251,19975,Athene cunicularia,Burrowing Owl,eatenBy
+7251,,Buteo polyosoma,,eatenBy
+7251,5355,Parabuteo unicinctus,Harris's Hawk,eatenBy
+7251,20315,Asio flammeus,Short-eared Owl,eatenBy
+7251,,Corvus leucognaphalus,,eatenBy
+7251,19754,Megascops nudipes,Puerto Rican Screech-Owl,eatenBy
+7251,144594,Bubo scandiacus,Snowy Owl,eatenBy
+7251,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+7251,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+7251,4644,Falco mexicanus,Prairie Falcon,eatenBy
+7251,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+7251,558512,Lanius borealis,Northern Shrike,eatenBy
+7251,8015,Corvus hawaiiensis,Hawaiian Crow,eatenBy
+7251,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+7251,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+7251,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+7251,891696,Pica pica,Eurasian Magpie,eatenBy
+7251,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+7251,74009,Zamenis longissimus,Aesculapian Snake,eatenBy
+7251,528435,Falco columbarius columbarius,Taiga Merlin,eatenBy
+7251,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+7251,4368,Larus marinus,Great Black-backed Gull,eatenBy
+7251,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+7251,4664,Falco rufigularis,Bat Falcon,eatenBy
+7251,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+7251,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+7251,208725,Falco columbarius richardsonii,Prairie Merlin,eatenBy
+7251,82771,Erythrina,Coral trees,pollinates
+7251,119672,Erythrina fusca,,pollinates
+7251,327718,Erythrina poeppigiana,,pollinates
+7251,47158,Insecta,Insects,preysOn
+7251,47120,Arthropoda,Arthropods,preysOn
+7251,,intertidal invertebrates,,preysOn
+7251,,marine invertebrates,,preysOn
+7251,122042,Orchelimum,,preysOn
+7251,123607,Prokelisia,,preysOn
+7251,29044,Pituophis catenifer,Gopher Snake,preyedUponBy
+7251,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+7251,48268,Crotalus oreganus,Western Rattlesnake,preyedUponBy
+7251,30692,Crotalus,Rattlesnakes,preyedUponBy
+7251,5163,Circus,Harriers,preyedUponBy
+7251,42069,Vulpes vulpes,Red Fox,preyedUponBy
+7251,4665,Falco sparverius,American Kestrel,preyedUponBy
+7251,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+7251,144455,Ardea alba,Great Egret,preyedUponBy
+7251,19893,Strix varia,Barred Owl,preyedUponBy
+7251,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+7251,8021,Corvus brachyrhynchos,American Crow,preyedUponBy
+7251,4672,Falco columbarius,Merlin,preyedUponBy
+7251,65979,Lithobates catesbeianus,American Bullfrog,preyedUponBy
+7251,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+7251,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+7251,114565,Tropidodryas serra,Serra Snake,preyedUponBy
+7251,28256,Tropidodryas striaticeps,Jiboinha,preyedUponBy
+7251,29112,Philodryas chamissonis,Chilean Green Racer,preyedUponBy
+7251,29813,Lampropeltis getula,Eastern Kingsnake,preyedUponBy
+7251,29752,Boaedon virgatus,Hallowell's House Snake,preyedUponBy
+7251,29162,Oxyrhopus melanogenys,Tschudi's False Coral Snake,preyedUponBy
+7251,,Lamprophis olivaceus,,preyedUponBy
+7251,97534,Chironius bicarinatus,Two-headed Sipo,preyedUponBy
+7251,32232,Epicrates,Rainbow Boas,preyedUponBy
+7251,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy
+7251,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+7251,31010,Porthidium yucatanicum,Yucatán Hognose Viper,preyedUponBy
+7251,106446,Naja annulifera,Snouted Cobra,preyedUponBy
+7251,31031,Ovophis okinavensis,Okinawa Pitviper,preyedUponBy
+7251,29103,Philodryas mattogrossensis,Miranda Green Racer,preyedUponBy
+7251,,Corallus hortulanus,,preyedUponBy
+7251,30488,Naja mossambica,Mozambique Spitting Cobra,preyedUponBy
+7251,,Lamprophis lineatus,,preyedUponBy
+7251,,Macrovipera schweizeri,,preyedUponBy
+7251,113855,Telescopus dhara,Israeli Catsnake,preyedUponBy
+7251,115434,Boa constrictor constrictor,Amazonian Boa Constrictor,preyedUponBy
+7251,81522,Vipera ammodytes,Nose-horned Viper,preyedUponBy
+7251,29178,Oxybelis fulgidus,Green Vine Snake,preyedUponBy
+7251,32142,Antaresia maculosa,Spotted Python,preyedUponBy
+7251,,Boa constrictor amarali,,preyedUponBy
+7251,32213,Eunectes murinus,Green Anaconda,preyedUponBy
+7251,29760,Boaedon fuliginosus,Brown House Snake,preyedUponBy
+7251,32237,Epicrates cenchria,Western Rainbow Boa,preyedUponBy
+7251,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+7251,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+7251,30481,Naja anchietae,Anchieta's Cobra,preyedUponBy
+7251,539415,Bothrops insularis,Queimada Island Bothrops,preyedUponBy
+7251,30408,Dendroaspis jamesoni,Jameson's Mamba,preyedUponBy
+7251,35140,Pseudonaja textilis,Eastern Brown Snake,preyedUponBy
+7251,28966,Psammophis schokari,Forskal Sand Snake,preyedUponBy
+7251,30282,Elaphe dione,Steppe Ratsnake,preyedUponBy
+7251,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+7251,35143,Pseudonaja nuchalis,Northern Brown Snake,preyedUponBy
+7251,35148,Pseudonaja affinis,Dugite,preyedUponBy
+7251,30924,Vipera latastei,Lataste's Viper,preyedUponBy
+7251,20306,Asio,Eared Owls and Allies,preyedUponBy
+7251,,Stercocarius spec.,,preyedUponBy
+7251,144594,Bubo scandiacus,Snowy Owl,preyedUponBy
+7251,5200,Buteo lagopus,Rough-legged Hawk,preyedUponBy
+7251,233598,Vulpes lagopus,Arctic Fox,preyedUponBy
+7251,4555,Pagophila eburnea,Ivory Gull,preyedUponBy
+7251,5167,Circus pygargus,Montagu's Harrier,preyedUponBy
+7251,19812,Glaucidium gnoma,Northern Pygmy-Owl,preyedUponBy
+7251,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,preyedUponBy
+7251,144595,Glaucidium nana,Austral Pygmy-Owl,preyedUponBy
+7251,4356,Larus canus,Mew Gull,preyedUponBy
+7251,,Glaucidium passerinum,,preyedUponBy
+7251,5108,Accipiter gentilis,Northern Goshawk,preyedUponBy
+7251,4664,Falco rufigularis,Bat Falcon,preyedUponBy
+7251,303194,Calosoma alternans,,preyedUponBy
+7251,12024,Lanius ludovicianus,Loggerhead Shrike,preyedUponBy
+7251,4690,Falco novaeseelandiae,New Zealand Falcon,preyedUponBy
+7251,5106,Accipiter nisus,Eurasian Sparrowhawk,preyedUponBy

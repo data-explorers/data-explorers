@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4509,47534,Cnidaria,Cnidarians,eats
+4509,47178,Actinopterygii,Ray-finned Fishes,eats
+4509,85493,Crustacea,Crustaceans,eats
+4509,47115,Mollusca,Molluscs,eats
+4509,49581,Nereididae,,eats
+4509,195134,Euphausiidae,Euphotic Krill,eats
+4509,47186,Decapoda,Decapods,eats
+4509,153112,Euphausiacea,krill,eats
+4509,47459,Cephalopoda,Cephalopods,eats
+4509,118597,Belone belone,Garfish,eats
+4509,63770,Engraulis mordax,Northern Anchovy,eats
+4509,51912,Engraulis,,eats
+4509,47285,Scorpaenidae,Scorpionfishes,eats
+4509,121639,Brachyura,True Crabs,eats
+4509,,Zooplankton,,eats
+4509,218966,Eleginus gracilis,Saffron Cod,eats
+4509,47646,Myoxocephalus,Shorthorn Sculpins,eats
+4509,90535,Osmerus,,eats
+4509,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4509,233953,Zaprora silenus,Prowfish,eats
+4509,,Gammaridea,,eats
+4509,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4509,89645,Lumpenus,,eats
+4509,226090,Occella dodecaedron,,eats
+4509,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+4509,83159,Liparis,Widelip Orchids,eats
+4509,86672,Aspidophoroides,,eats
+4509,180029,Gadus macrocephalus,Pacific Cod,eats
+4509,117571,Clupea pallasii,Pacific herring,eats
+4509,53692,Oncorhynchus kisutch,Coho Salmon,eats
+4509,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4509,169919,Trichodon trichodon,Pacific Sandfish,eats
+4509,86991,Blennius,,eats
+4509,432791,Gonatopsis,,eats
+4509,92631,Triglops,,eats
+4509,47524,Pleuronectes,,eats
+4509,48409,Pungitius,,eats
+4509,223674,Limanda aspera,Yellowfin Sole,eats
+4509,89054,Icelus,,eats
+4509,107572,Oncorhynchus keta,Chum Salmon,eats
+4509,223433,Leptoclinus maculatus,Daubed Shanny,eats
+4509,165100,Mallotus villosus,Capelin,eats
+4509,,Theragra chalcogramma,,eats
+4509,107570,Oncorhynchus gorbuscha,Pink Salmon,eats
+4509,52539,Ophiodon elongatus,Lingcod,eats
+4509,51353,Anoplopoma fimbria,Sablefish,eats
+4509,47710,Pandalidae,,eats
+4509,88293,Eumicrotremus,,eats
+4509,201784,Ammodytes personatus,Pacific Sand Lance,eats
+4509,,Gnathostomata,,eats
+4509,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4509,55398,Solea,,eats
+4509,229394,Ptilichthys goodei,Quillfish,eats
+4509,86396,Ammodytes,,eats
+4509,,Aspidophoroides bartonii,,eats
+4509,,Macruronus magellanicus,,eats
+4509,215270,Blepsias bilobus,Crested Sculpin,eats
+4509,63740,Gadus morhua,Atlantic Cod,eats
+4509,82353,Merluccius,Hakes,eats
+4509,63691,Cololabis saira,Pacific Saury,eats
+4509,,Anoploma fimbria,,eats
+4509,84182,Hydrolagus colliei,Spotted Ratfish,eats
+4509,,Teuthida,,eats
+4509,47525,Pleuronectidae,Righteye Flounders,eats
+4509,328042,Engraulis japonicus,Japanese Anchovy,eats
+4509,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4509,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4509,120672,Scomberesox saurus,Atlantic Saury,eats
+4509,254742,Astyris lunata,Lunate Dove Shell,eats
+4509,97990,Clupea harengus,Atlantic Herring,eats
+4509,68595,Hexagrammos,,eats
+4509,502271,Engraulis australis,Australian Anchovy,eats
+4509,447397,Engraulis anchoita,Argentine Anchoita,eats
+4509,,Kondakovia longimana,,eats
+4509,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4509,,Etrumeus teres,,eats
+4509,,Nansenia candeda,,eats
+4509,85289,Pseudophycis bachus,Red cod,eats
+4509,88265,Etrumeus,Red-eye Round Herrings,eats
+4509,68596,Hexagrammos decagrammus,Kelp Greenling,eats
+4509,88813,Hemilepidotus,Irish Lords,eats
+4509,213402,Ammodytes americanus,American Sand Lance,eats
+4509,146888,Illex,Shortfin Squids,eats
+4509,111950,Salmo pallaryi,,eats
+4509,228496,Pollachius virens,Pollock,eats
+4509,118600,Sardina pilchardus,European Sardine,eats
+4509,120702,Micromesistius poutassou,Blue Whiting,eats
+4509,,,,eats
+4509,55535,Sardinops sagax,Pacific Sardine,eats
+4509,51910,Engraulis encrasicolus,European Anchovy,eats
+4509,82337,Loligo,,eats
+4509,215318,Boreogadus saida,Arctic Cod,eats
+4509,324532,Sprattus sprattus,European Sprat,eats
+4509,614162,Micromesistius australis,Southern blue whiting,eats
+4509,,Pisces,,eats
+4509,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4509,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4509,43584,Homo sapiens,Human,eatenBy
+4509,42054,Vulpes,Typical Foxes,eatenBy
+4509,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+4509,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4509,63691,Cololabis saira,Pacific Saury,preysOn
+4509,47762,Sebastes,Rockfishes,preysOn
+4509,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+4509,432389,Berryteuthis anonychus,Smallfin Armhook Squid,preysOn
+4509,51353,Anoplopoma fimbria,Sablefish,preysOn

@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61617,,Ischnura graellsii,,eats
+61617,47208,Coleoptera,Beetles,preysOn
+61617,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+61617,,Pieris brassicae,,preysOn
+61617,,Apis mellifera iberiensis,,preysOn
+61617,,Autographa gamma,,preysOn

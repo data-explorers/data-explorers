@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47691,,Apodemus sylvaticus,,eatenBy
+47691,520456,Icaricia acmon,Acmon Blue,eatenBy
+47691,53648,Nomada,Nomad Bees,pollinatedBy
+47691,57678,Lasioglossum,,pollinatedBy
+47691,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+47691,,Conophorus glaucescens ,,pollinatedBy
+47691,,Usia forcipata ,,pollinatedBy
+47691,,Andrena,,pollinatedBy
+47691,,Leucophora,,pollinatedBy
+47691,,Bombylius undatus ,,pollinatedBy
+47691,,Nomada basalis,,pollinatedBy
+47691,,Dasytes striatulus ,,pollinatedBy
+47691,,Conophorus pussillus ,,pollinatedBy
+47691,,Bombylius fuliginosus ,,pollinatedBy
+47691,,Diphyrus quadripunctorius,,pollinatedBy

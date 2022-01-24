@@ -1,0 +1,191 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+8010,20978,Amphibia,Amphibians,eats
+8010,26036,Reptilia,Reptiles,eats
+8010,47208,Coleoptera,Beetles,eats
+8010,44349,Peromyscus,North American Deer Mice,eats
+8010,47187,Malacostraca,Malacostracans,eats
+8010,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+8010,29044,Pituophis catenifer,Gopher Snake,eats
+8010,47158,Insecta,Insects,eats
+8010,40151,Mammalia,Mammals,eats
+8010,2,Chordata,Chordates,eats
+8010,3,Aves,Birds,eats
+8010,48894,Scorpiones,Scorpions,eats
+8010,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+8010,54960,Nematoda,Nematodes,eats
+8010,47157,Lepidoptera,Butterflies and Moths,eats
+8010,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+8010,58390,Triticum,Wheats,eats
+8010,46342,Sorex,Long-tailed Shrews,eats
+8010,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+8010,47120,Arthropoda,Arthropods,eats
+8010,44061,Thomomys,Western Pocket Gophers,eats
+8010,53911,Cyprinus carpio,European Carp,eats
+8010,44259,Microtus,Meadow Voles,eats
+8010,47434,Poaceae,grasses,eats
+8010,43698,Rodentia,Rodents,eats
+8010,45763,Ondatra zibethicus,Muskrat,eats
+8010,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+8010,50186,Cicadidae,Typical Cicadas,eats
+8010,47822,Diptera,Flies,eats
+8010,1,Animalia,Animals,eats
+8010,43094,Lagomorpha,Lagomorphs,eats
+8010,42241,Bovidae,Bovids,eats
+8010,47124,Magnoliopsida,dicots,eats
+8010,47562,Pinaceae,pine family,eats
+8010,47336,Formicidae,Ants,eats
+8010,52884,Gryllidae,True Crickets,eats
+8010,30692,Crotalus,Rattlesnakes,eats
+8010,43096,Sylvilagus,Cottontail Rabbits,eats
+8010,44737,Neotoma,Woodrats,eats
+8010,38634,Teiidae,Whiptails and Tegus,eats
+8010,49567,Carabidae,Ground Beetles,eats
+8010,42219,Odocoileus,White-tailed and Mule Deer,eats
+8010,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eats
+8010,7089,Branta canadensis,Canada Goose,eats
+8010,7018,Anser anser,Greylag Goose,eats
+8010,47351,Prunus,"plums, cherries, and allies",eats
+8010,47574,Juniperus,junipers,eats
+8010,61168,Arum italicum,Italian arum,eats
+8010,51874,Lonicera,honeysuckles,eats
+8010,55884,Rosa canina,Dog-rose,eats
+8010,54812,Rhamnus,Buckthorns,eats
+8010,55882,Hedera helix,common ivy,eats
+8010,58725,Juniperus communis,common juniper,eats
+8010,7006,Anser,Grey Geese,eats
+8010,4381,Larus fuscus,Lesser Black-backed Gull,eats
+8010,4349,Larus hyperboreus,Glaucous Gull,eats
+8010,6921,Cygnus olor,Mute Swan,eats
+8010,3912,Gallinago,Typical Snipes,eats
+8010,3951,Limosa lapponica,Bar-tailed Godwit,eats
+8010,981,Phasianus colchicus,Ring-necked Pheasant,eats
+8010,3017,Columba livia,Rock Pigeon,eats
+8010,144541,Thalasseus sandvicensis,Sandwich Tern,eats
+8010,3901,Numenius phaeopus,Whimbrel,eats
+8010,4504,Fratercula arctica,Atlantic Puffin,eats
+8010,4647,Falco peregrinus,Peregrine Falcon,eats
+8010,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eats
+8010,4180,Fulmarus glacialis,Northern Fulmar,eats
+8010,6930,Anas platyrhynchos,Mallard,eats
+8010,4638,Falco,Typical Falcons,eats
+8010,3938,Arenaria interpres,Ruddy Turnstone,eats
+8010,4626,Gavia immer,Common Loon,eats
+8010,3802,Morus bassanus,Northern Gannet,eats
+8010,7294,Eremophila alpestris,Horned Lark,eats
+8010,4620,Gavia,Loons,eats
+8010,116999,Pandion haliaetus,Osprey,eats
+8010,144455,Ardea alba,Great Egret,eats
+8010,3959,Phalaropus lobatus,Red-necked Phalarope,eats
+8010,4209,Podiceps auritus,Horned Grebe,eats
+8010,4501,Alca torda,Razorbill,eats
+8010,4519,Uria aalge,Common Murre,eats
+8010,3874,Tringa,"Shanks, Tattlers, and Allies",eats
+8010,2969,Streptopelia decaocto,Eurasian Collared-Dove,eats
+8010,4789,Charadrius alexandrinus,Kentish Plover,eats
+8010,7086,Branta,Black Geese,eats
+8010,5163,Circus,Harriers,eats
+8010,4672,Falco columbarius,Merlin,eats
+8010,472,Fulica,Coots,eats
+8010,3849,Calidris alba,Sanderling,eats
+8010,35707,Podarcis carbonelli,Carbonell’s Wall Lizard,eats
+8010,144537,Hydroprogne caspia,Caspian Tern,eats
+8010,8010,Corvus corax,Common Raven,eats
+8010,6922,Anas,"Mallards, Pintails, and Allies",eats
+8010,14850,Sturnus vulgaris,European Starling,eats
+8010,13858,Passer domesticus,House Sparrow,eats
+8010,34435,Hemidactylus turcicus,Mediterranean House Gecko,eats
+8010,45994,Sciurus,Tree Squirrels,eats
+8010,4515,Uria,Murres,eats
+8010,118832,Semibalanus balanoides,Northern Acorn Barnacle,eats
+8010,4342,Laridae,"Gulls, Terns, and Skimmers",eats
+8010,4838,Haematopus bachmani,Black Oystercatcher,eats
+8010,4424,Sterna,Typical Terns,eats
+8010,49053,Cryptochiton stelleri,Gumboot Chiton,eats
+8010,3836,Calidris,Calidris Sandpipers,eats
+8010,4531,Brachyramphus marmoratus,Marbled Murrelet,eats
+8010,42223,Odocoileus virginianus,White-tailed Deer,eats
+8010,72458,Actitis macularius,Spotted Sandpiper,eats
+8010,47170,Fungi,Fungi Including Lichens,eats
+8010,44575,Rattus rattus,Black Rat,eats
+8010,355675,Vertebrata,Vertebrates,eats
+8010,46927,Talpidae,Moles and Desmans,eats
+8010,43112,Sylvilagus bachmani,Brush Rabbit,eats
+8010,85553,Serpentes,Snakes,eats
+8010,48460,Life,,eats
+8010,54503,Juglans californica,Southern California Walnut,eats
+8010,5212,Buteo jamaicensis,Red-tailed Hawk,eats
+8010,45933,Sciuridae,Squirrels,eats
+8010,43115,Sylvilagus audubonii,Desert Cottontail,eats
+8010,6912,Anatidae,"Ducks, Geese, and Swans",eats
+8010,41708,Phoca vitulina,Harbor Seal,eats
+8010,85552,Sauria,Lizards,eats
+8010,67565,Procellariiformes,Tubenoses,eats
+8010,41740,Zalophus californianus,California Sea Lion,eats
+8010,20044,Bubo virginianus,Great Horned Owl,eatenBy
+8010,42051,Canis latrans,Coyote,eatenBy
+8010,67570,Falconiformes,Falcons and Caracaras,eatenBy
+8010,19350,Strigiformes,Owls,eatenBy
+8010,8010,Corvus corax,Common Raven,eatenBy
+8010,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+8010,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+8010,3,Aves,Birds,eatenBy
+8010,41798,Martes americana,American Marten,eatenBy
+8010,,Aquila chrysaetos,,eatenBy
+8010,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+8010,4657,Falco rusticolus,Gyrfalcon,eatenBy
+8010,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+8010,144594,Bubo scandiacus,Snowy Owl,eatenBy
+8010,204496,Corvus corone,Carrion Crow,eatenBy
+8010,8029,Corvus frugilegus,Rook,eatenBy
+8010,851014,Canis aureus,Golden Jackal,eatenBy
+8010,42048,Canis lupus,Gray Wolf,eatenBy
+8010,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+8010,,Platyceps collaris,,eatenBy
+8010,74009,Zamenis longissimus,Aesculapian Snake,eatenBy
+8010,540328,Zamenis scalaris,Ladder Snake,eatenBy
+8010,74008,Zamenis lineatus,Italian Aesculapian Snake,eatenBy
+8010,30237,Elaphe quatuorlineata,Four-lined Snake,eatenBy
+8010,29917,Hierophis gemonensis,Balkan Whip Snake,eatenBy
+8010,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,eatenBy
+8010,,Elaphe situla,,eatenBy
+8010,73823,Hierophis viridiflavus,Green Whip Snake,eatenBy
+8010,35854,Lacerta viridis,Green Lizard,eatenBy
+8010,35900,Lacerta bilineata,Western Green Lizard,eatenBy
+8010,,Macrovipera schweizeri,,eatenBy
+8010,,Timon lepidus,,eatenBy
+8010,,Macrovipera lebetina,,eatenBy
+8010,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+8010,,Montivipera wagneri,,eatenBy
+8010,,Montivipera xanthina,,eatenBy
+8010,,Montivipera raddei,,eatenBy
+8010,,Platyceps najadum,,eatenBy
+8010,39407,Varanus griseus,Desert Monitor,eatenBy
+8010,,Telescopus fallax,,eatenBy
+8010,966698,Vipera berus,Adder,eatenBy
+8010,,Montivipera albizona,,eatenBy
+8010,81522,Vipera ammodytes,Nose-horned Viper,eatenBy
+8010,,Pseudopus apodus,,eatenBy
+8010,121105,Montivipera bulgardaghica,Mount Bulgar viper,eatenBy
+8010,30924,Vipera latastei,Lataste's Viper,eatenBy
+8010,,Vipera kaznakovi,,eatenBy
+8010,,Vipera dinniki,,eatenBy
+8010,,Dolichophis caspius,,eatenBy
+8010,,Hemorrhois nummifer,,eatenBy
+8010,73759,Dolichophis jugularis,Large Whip Snake,eatenBy
+8010,,Vipera seoanei,,eatenBy
+8010,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+8010,,Dolichophis schmidti,,eatenBy
+8010,27035,Hierophis viridiflavus carbonarius,,eatenBy
+8010,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+8010,28451,Telescopus nigriceps,Black headed snake,eatenBy
+8010,,Spalerosophis diadema,,eatenBy
+8010,,Hemorrhois ravergieri,,eatenBy
+8010,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+8010,20979,Anura,Frogs and Toads,preysOn
+8010,46017,Sciurus carolinensis,Eastern Gray Squirrel,preysOn
+8010,40151,Mammalia,Mammals,preysOn
+8010,6930,Anas platyrhynchos,Mallard,preysOn
+8010,3,Aves,Birds,preysOn
+8010,8021,Corvus brachyrhynchos,American Crow,preysOn
+8010,,Diadophis punctatus amabilis,,preysOn
+8010,41573,Carnivora,Carnivorans,preyedUponBy

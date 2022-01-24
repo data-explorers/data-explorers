@@ -1,0 +1,108 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47811,67333,Bacteria,bacteria,eats
+47811,,plankton,,eats
+47811,,Phytoplankton,,eats
+47811,,Detritus,,eats
+47811,,plankton - suspended detritus,,eats
+47811,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47811,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+47811,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+47811,39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,eatenBy
+47811,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+47811,117607,Nephtys,Nephthys's Sand-worms,eatenBy
+47811,49522,Amphinomidae,Bristle Worms,eatenBy
+47811,118682,Chromis chromis,Mediterranean Damselfish,eatenBy
+47811,132473,Lagodon rhomboides,Pinfish,eatenBy
+47811,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+47811,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47811,430553,Merlangius merlangus,Whiting,eatenBy
+47811,48397,Raja clavata,Thornback Skate,eatenBy
+47811,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47811,228496,Pollachius virens,Pollock,eatenBy
+47811,481841,Microstomus kitt,Lemon Sole,eatenBy
+47811,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47811,47523,Pleuronectes platessa,European Plaice,eatenBy
+47811,61387,Limanda limanda,Sand Dab,eatenBy
+47811,63740,Gadus morhua,Atlantic Cod,eatenBy
+47811,,Concholepas concholepas,,eatenBy
+47811,1352308,Chaceon albus,,eatenBy
+47811,471092,Lithodes murrayi,Subantarctic Stone Crab,eatenBy
+47811,194929,Eurythoe complanata,Orange Fire Worm,eatenBy
+47811,324536,Palinurus elephas,European Spiny Lobster,eatenBy
+47811,,Crossaster papposus,,eatenBy
+47811,49904,Pleurobranchus forskalii,Forsskål's Pleurobranch,eatenBy
+47811,61383,Homarus americanus,American Lobster,eatenBy
+47811,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+47811,41729,Mirounga leonina,Southern Elephant Seal,eatenBy
+47811,41731,Leptonychotes weddellii,Weddell Seal,eatenBy
+47811,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+47811,232947,Triglops pingelii,Ribbed Sculpin,eatenBy
+47811,89054,Icelus,,eatenBy
+47811,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+47811,,Ampharete grubei,,eatenBy
+47811,209153,Pseudopolydora,,eatenBy
+47811,337482,Magelona,,eatenBy
+47811,176058,Ampharetidae,,eatenBy
+47811,,Paraonis fulgens,,eatenBy
+47811,195030,Hesionidae,,eatenBy
+47811,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+47811,,Psetta maxima,,eatenBy
+47811,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+47811,338159,Acreichthys tomentosus,Bristle-tail Leatherjacket,eatenBy
+47811,446326,Pachymetopon grande,Bronze Seabream,eatenBy
+47811,570941,Cheilodactylus fasciatus,redfingers,eatenBy
+47811,565059,Alectrias alectrolophus,Stone Cockscomb,eatenBy
+47811,118665,Diplodus annularis,Annular Seabream,eatenBy
+47811,118671,Sparus aurata,Gilthead Seabream,eatenBy
+47811,,Myliobatis goodei,,eatenBy
+47811,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+47811,416585,Scophthalmus maximus,Turbot,eatenBy
+47811,233996,Zoarces americanus,Ocean Pout,eatenBy
+47811,203490,Myoxocephalus aenaeus,Grubby,eatenBy
+47811,106606,Narcine entemedor,Giant Electric Ray,eatenBy
+47811,,Lepidonotothen nudifrons,,eatenBy
+47811,49966,Mustelus,Smooth-Hounds,eatenBy
+47811,114355,Triakis scyllium,Banded houndshark,eatenBy
+47811,103911,Labrus bergylta,Ballan Wrasse,eatenBy
+47811,49313,Lactoria diaphana,Roundbelly Cowfish,eatenBy
+47811,103912,Labrus merula,Brown wrasse,eatenBy
+47811,112303,Sciades parkeri,Gillbacker Sea Catfish,eatenBy
+47811,118664,Boops boops,Bogue,eatenBy
+47811,363519,Alepocephalus rostratus,Risso's smooth-head,eatenBy
+47811,459381,Epigonus telescopus,Black Deepsea Cardinalfish,eatenBy
+47811,118631,Scorpaena porcus,Black Scorpionfish,eatenBy
+47811,118630,Scorpaena notata,Small Red Scorpionfish,eatenBy
+47811,118711,Spicara maena,Blotched Picarel,eatenBy
+47811,118629,Helicolenus dactylopterus,Blackbelly Rosefish,eatenBy
+47811,97150,Chaetodon citrinellus,Speckled Butterflyfish,eatenBy
+47811,97211,Chaetodon xanthocephalus,Yellowhead Butterflyfish,eatenBy
+47811,97167,Chaetodon kleinii,Blacklip Butterflyfish,eatenBy
+47811,52457,Chaetodon auriga,Threadfin Butterflyfish,eatenBy
+47811,47316,Chaetodon lunula,Raccoon Butterflyfish,eatenBy
+47811,48747,Chaetodon vagabundus,Vagabond Butterflyfish,eatenBy
+47811,101184,Galeus melastomus,Blackmouth Catshark,eatenBy
+47811,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+47811,,Lepidonotothen larseni,,eatenBy
+47811,,Muraenolepis microps,,eatenBy
+47811,618298,Gobionotothen gibberifrons,Humped Rockcod,eatenBy
+47811,179507,Peprilus triacanthus,Butterfish,eatenBy
+47811,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+47811,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+47811,368999,Monacanthus chinensis,Fanbelly Leatherjacket,eatenBy
+47811,353493,Meuschenia freycineti,Sixspine Leatherjacket,eatenBy
+47811,530856,Sillago vittata,Western School Whiting,eatenBy
+47811,360950,Sparodon durbanensis,Musselcracker Seabream,eatenBy
+47811,102638,Heniochus varius,Humphead Bannerfish,eatenBy
+47811,97152,Chaetodon daedalma,Wrought iron butterflyfish,eatenBy
+47811,49922,Stegastes nigricans,Dusky Gregory,eatenBy
+47811,82326,Hypsopsetta guttulata,Diamond turbot,eatenBy
+47811,64471,Sebastes mystinus,Blue Rockfish,eatenBy
+47811,98440,Coregonus autumnalis,Arctic Cisco,eatenBy
+47811,108547,Paralabrax clathratus,Kelp Bass,eatenBy
+47811,317369,Sebastes serranoides,olive rockfish,eatenBy
+47811,57756,Amphiprion tricinctus,Three-band Anemonefish,eatenBy
+47811,57741,Amphiprion melanopus,Blackback Anemonefish,eatenBy
+47811,53696,Diplodus puntazzo,Sheephead bream,eatenBy
+47811,118669,Diplodus sargus,White Bream,eatenBy
+47811,1166039,Psilaster charcoti,,preyedUponBy
+47811,511410,Tritoniella belli,,preyedUponBy

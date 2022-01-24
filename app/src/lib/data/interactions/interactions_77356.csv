@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+77356,59190,Heliopetes ericetorum,Northern White-Skipper,eatenBy
+77356,48548,Vanessa cardui,Painted Lady,eatenBy
+77356,520456,Icaricia acmon,Acmon Blue,eatenBy
+77356,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+77356,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+77356,47822,Diptera,Flies,pollinatedBy
+77356,47208,Coleoptera,Beetles,pollinatedBy

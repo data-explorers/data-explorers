@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+37769,4665,Falco sparverius,American Kestrel,preysOn
+37769,48268,Crotalus oreganus,Western Rattlesnake,preyedUponBy
+37769,118552,Felis catus,Domestic Cat,preyedUponBy
+37769,,Coluber lateralis,,preyedUponBy
+37769,146173,Hypsiglena chlorophaea,Desert Nightsnake,preyedUponBy
+37769,26585,Diadophis punctatus pulchellus,Coralbelly Ringneck Snake,preyedUponBy
+37769,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy
+37769,515419,Lampropeltis triangulum,Eastern Milksnake,preyedUponBy

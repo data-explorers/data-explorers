@@ -1,0 +1,165 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60132,60132,Cirsium arvense,creeping thistle,eats
+60132,13858,Passer domesticus,House Sparrow,eatenBy
+60132,48549,Vanessa virginiensis,American Lady,eatenBy
+60132,48548,Vanessa cardui,Painted Lady,eatenBy
+60132,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+60132,57677,Halictus,Furrow Bees,eatenBy
+60132,84640,Polistes dominula,European Paper Wasp,eatenBy
+60132,143854,Bombus borealis,Northern Amber Bumble Bee,eatenBy
+60132,60132,Cirsium arvense,creeping thistle,eatenBy
+60132,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+60132,146852,Bicyrtes quadrifasciatus,Four-banded Stink Bug Wasp,eatenBy
+60132,145310,Spinus tristis,American Goldfinch,eatenBy
+60132,224501,Megachile perihirta,Western Leafcutter,eatenBy
+60132,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+60132,58586,Limenitis archippus,Viceroy,eatenBy
+60132,55215,Aphis,,eatenBy
+60132,1409,Callipepla californica,California Quail,eatenBy
+60132,,Poecilus cupreus,,eatenBy
+60132,131931,Pterostichus melanarius,Rain-beetle,eatenBy
+60132,,Harpalus rufipes,,eatenBy
+60132,,Harpalus affinis,,eatenBy
+60132,,Amara conularis,,eatenBy
+60132,,Urophora stylata,,eatenBy
+60132,,Carduelis carduelis,,eatenBy
+60132,,Coloeus monedula,,eatenBy
+60132,,Carduelis chloris,,eatenBy
+60132,,Terellia ruficauda,,eatenBy
+60132,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+60132,,Alectoris rufa,,eatenBy
+60132,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+60132,,Phyciodes mylitta,,eatenBy
+60132,,BOLD:ACQ6544,,eatenBy
+60132,,Spermophilus columbianus,,eatenBy
+60132,,Cnephasia longana,,eatenBy
+60132,,Lobesia abscisana,,eatenBy
+60132,,Lobesia fuligana,,eatenBy
+60132,,Sitochroa verticalis,,eatenBy
+60132,,Autographa excelsa,,eatenBy
+60132,,Melanchra persicariae,,eatenBy
+60132,,Papaipema arctivorens,,eatenBy
+60132,,Lacanobia oleracea,,eatenBy
+60132,,Eupithecia subfuscata,,eatenBy
+60132,41641,Ursus arctos,Brown Bear,eatenBy
+60132,,Ophiobolus cirsii,,eatenBy
+60132,,Phomopsis cirsii,,eatenBy
+60132,,Diplodina cirsii,,eatenBy
+60132,,Sphaeronaema floccosum,,eatenBy
+60132,,Phyllosticta cirsii,,eatenBy
+60132,,Phytomyza cirsii,,eatenBy
+60132,,Phytomyza autumnalis,,eatenBy
+60132,,Ceratapion (Ceratapion) carduorum,,eatenBy
+60132,,Lema cyanella,,eatenBy
+60132,,Hydropisphaera arenula,,eatenBy
+60132,,Cryptodiscus rhopaloides,,eatenBy
+60132,,Kalmusia clivensis,,eatenBy
+60132,,Pezizella discreta,,eatenBy
+60132,,Pezizella glareosa,,eatenBy
+60132,,Pseudospiropes rousselianus,,eatenBy
+60132,,Phoma cirsii,,eatenBy
+60132,,Ophiobolus acuminatus,,eatenBy
+60132,,Hyalopeziza millepunctata,,eatenBy
+60132,,Larinus planus,,eatenBy
+60132,,Mordellistena acuticollis,,eatenBy
+60132,,Lixus (Dilixellus) angustatus,,eatenBy
+60132,,Phanerochaete calotricha,,eatenBy
+60132,,Cleonis pigra,,eatenBy
+60132,,Tingis (Tingis) ampliata,,eatenBy
+60132,,Terellia tussilaginis,,eatenBy
+60132,,Ensina sonchi,,eatenBy
+60132,,Tephritis cometa,,eatenBy
+60132,,Xyphosia miliaria,,eatenBy
+60132,,Chaetostomella cylindrica,,eatenBy
+60132,,Acanthiophilus helianthi,,eatenBy
+60132,,Pirottaea brevipila,,eatenBy
+60132,,Pyrenopeziza adenostylidis,,eatenBy
+60132,,Stachybotrys dichroa,,eatenBy
+60132,,Pyrenopeziza carduorum,,eatenBy
+60132,,Mollisia clavata,,eatenBy
+60132,,Leptosphaeria purpurea,,eatenBy
+60132,,Leptosphaeria macrospora,,eatenBy
+60132,,Phoma rubella,,eatenBy
+60132,,Nodulosphaeria dolioloides,,eatenBy
+60132,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,eatenBy
+60132,337405,Pseudomonas syringae,Bacterial Speck,eatenBy
+60132,,Uroleucon cirsii,,eatenBy
+60132,,Rhinocyllus conicus,,eatenBy
+60132,,Aglais io,,eatenBy
+60132,,Trichius gallicus,,eatenBy
+60132,334347,Brenthis daphne,Marbled Fritillary,eatenBy
+60132,,Rutpela maculata,,eatenBy
+60132,62456,Rhagonycha fulva,Common Red Soldier Beetle,eatenBy
+60132,,Gonepteryx rhamni,,eatenBy
+60132,,Stictoleptura rubra,,eatenBy
+60132,,Polygonia c-album,,eatenBy
+60132,,Pyronia tithonus,,eatenBy
+60132,,Sicus ferrugineus,,eatenBy
+60132,,Urophora cardui,,eatenBy
+60132,,Scrobipalpa acuminatella,,eatenBy
+60132,,Larinus turbinatus,,eatenBy
+60132,,Puccinia punctiformis,,eatenBy
+60132,55623,Acronicta rumicis,Knot Grass Moth,eatenBy
+60132,120157,Musca,,pollinatedBy
+60132,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+60132,61858,Lucilia,Greenbottle Flies,pollinatedBy
+60132,55690,Pieris,Garden Whites,pollinatedBy
+60132,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",pollinatedBy
+60132,52775,Bombus,Bumble Bees,pollinatedBy
+60132,57678,Lasioglossum,,pollinatedBy
+60132,47220,Apis,Honey Bees,pollinatedBy
+60132,55626,Pieris rapae,Cabbage White,pollinatedBy
+60132,49133,Vanessa atalanta,Red Admiral,pollinatedBy
+60132,49995,Syrphidae,Hover Flies,pollinatedBy
+60132,48662,Danaus plexippus,Monarch,pollinatedBy
+60132,,,,pollinatedBy
+60132,,Bombus pascuorum,,pollinatedBy
+60132,,Cetonia aurata,,pollinatedBy
+60132,177092,Meligethes,,pollinatedBy
+60132,,Colias croceus,,pollinatedBy
+60132,61609,Asilus,,pollinatedBy
+60132,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+60132,,Bombus lapidarius,,pollinatedBy
+60132,,Rhynconycha sp1 M_PL_046,,pollinatedBy
+60132,,Pararge aegeria,,pollinatedBy
+60132,,Apion hookeri ,,pollinatedBy
+60132,,Zygaena filipendulae ,,pollinatedBy
+60132,,Maniola jurtina,,pollinatedBy
+60132,,Epuraea depressa ,,pollinatedBy
+60132,173583,Epuraea,,pollinatedBy
+60132,128544,Thymelicus sylvestris,Small Skipper,pollinatedBy
+60132,,Pieris napi,,pollinatedBy
+60132,,Olibrus aeneus ,,pollinatedBy
+60132,,Rutpela maculata,,pollinatedBy
+60132,,Proscissio,,pollinatedBy
+60132,,Occisor,,pollinatedBy
+60132,,Bothrophora,,pollinatedBy
+60132,,Procissio,,pollinatedBy
+60132,,Protohystricia,,pollinatedBy
+60132,,Melangyna novaezelandiae,,pollinatedBy
+60132,377479,Pales,,pollinatedBy
+60132,,Lycaena salustius,,pollinatedBy
+60132,,Hybopygia,,pollinatedBy
+60132,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy
+60132,,Protohystirica huttoni,,pollinatedBy
+60132,,Scaptia adrel,,pollinatedBy
+60132,,Undefined sp14 M_PL_018,,pollinatedBy
+60132,,Undefined sp22 M_PL_018,,pollinatedBy
+60132,,Undefined sp18 M_PL_018,,pollinatedBy
+60132,,Undefined sp23 M_PL_018,,pollinatedBy
+60132,,Undefined sp15 M_PL_018,,pollinatedBy
+60132,,Undefined sp12 M_PL_018,,pollinatedBy
+60132,,Undefined sp17 M_PL_018,,pollinatedBy
+60132,,Undefined sp13 M_PL_018,,pollinatedBy
+60132,,Undefined sp21 M_PL_018,,pollinatedBy
+60132,,Undefined sp25 M_PL_018,,pollinatedBy
+60132,,Calocoris,,pollinatedBy
+60132,,Empis livida,,pollinatedBy
+60132,,Eriothrix rufomaculatus,,pollinatedBy
+60132,,http://treatment.plazi.org/id/C213F311CE45CD5DAE8582A1D64A3200,,pollinatedBy
+60132,425250,Eristalis stipator,Yellow-shouldered Drone Fly,pollinatedBy
+60132,,Melissodes desponsa,,pollinatedBy
+60132,,Megachile inermis,,pollinatedBy
+60132,,Agapostemon virescens,,pollinatedBy
+60132,,Bembix sp.,,pollinatedBy
+60132,,Gnophaela vermiculata,,pollinatedBy

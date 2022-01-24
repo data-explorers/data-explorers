@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+204776,47115,Mollusca,Molluscs,eats
+204776,47549,Echinodermata,Echinoderms,eats
+204776,85493,Crustacea,Crustaceans,eats
+204776,50928,Palaemonidae,palaemonid shrimps,eats
+204776,47114,Gastropoda,Gastropods,eats
+204776,153112,Euphausiacea,krill,eats
+204776,1,Animalia,Animals,eats
+204776,121639,Brachyura,True Crabs,eats
+204776,47459,Cephalopoda,Cephalopods,eats
+204776,47804,Petrolisthes,,eats
+204776,122232,Echinocardium cordatum,Sea Potato,eats
+204776,,,,eats
+204776,,Gnathostomata,,eats
+204776,117665,Upogebia,Mudprawns,eats
+204776,59806,Gammaridae,,eats
+204776,1196493,Ditrichocorycaeus aucklandicus,,eats
+204776,,Osteichthyes,,eats
+204776,55180,Amphiura,,eats
+204776,41745,Arctocephalus philippii,Juan Fernández Fur Seal,eatenBy
+204776,187572,Kajikia audax,Striped Marlin,eatenBy
+204776,122232,Echinocardium cordatum,Sea Potato,preysOn
+204776,187572,Kajikia audax,Striped Marlin,preyedUponBy

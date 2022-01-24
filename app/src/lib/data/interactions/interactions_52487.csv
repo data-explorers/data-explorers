@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52487,,Orthetrum albistylum,,eatenBy
+52487,53453,Salix,Willows,pollinates
+52487,47435,Lotus corniculatus,bird's-foot trefoil,pollinates
+52487,52821,Achillea millefolium,Common Yarrow,pollinates
+52487,56057,Leucanthemum vulgare,oxeye daisy,pollinates
+52487,47602,Taraxacum officinale,common dandelion,pollinates
+52487,,Bistorta vivipara,,pollinates
+52487,,Cerastium alpinum,,pollinates
+52487,,Epilobium latifolium,,pollinates
+52487,,Dryas integrifolia,,pollinates
+52487,50074,Dryas,,pollinates
+52487,126575,Centaurea nigra,black knapweed,pollinates
+52487,,Ranunculus acris,,pollinates
+52487,,Trifolium dubium,,pollinates
+52487,,Hypochoeris radicata,,pollinates
+52487,,Vicia cracca,,pollinates
+52487,,Orthetrum albistylum,,preyedUponBy

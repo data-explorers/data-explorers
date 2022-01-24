@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82316,58578,Euphydryas phaeton,Baltimore Checkerspot,eatenBy
+82316,1338304,Eupithecia satyrata,,eatenBy
+82316,,Dibolia chelones,,eatenBy
+82316,,Tenthredo grandis,,eatenBy
+82316,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

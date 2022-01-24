@@ -1,0 +1,41 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47285,,Market squid,,eats
+47285,,Chinook salmon (juvenile),,eats
+47285,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+47285,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+47285,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+47285,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+47285,4519,Uria aalge,Common Murre,eatenBy
+47285,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+47285,41543,Peponocephala electra,Melon-headed Whale,eatenBy
+47285,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+47285,41757,Callorhinus ursinus,Northern Fur Seal,eatenBy
+47285,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+47285,317036,Ceratoscopelus warmingii,Warming's Lanternfish,eatenBy
+47285,317369,Sebastes serranoides,olive rockfish,eatenBy
+47285,,Odontaspis ferox,,eatenBy
+47285,,Sebastes paucispinis,,eatenBy
+47285,115167,Xiphias gladius,Swordfish,eatenBy
+47285,52539,Ophiodon elongatus,Lingcod,eatenBy
+47285,213733,Anotopterus nikparini,North Pacific Daggertooth,eatenBy
+47285,122916,Lampris guttatus,Opah,eatenBy
+47285,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+47285,113052,Squatina dumeril,Atlantic Angelshark,eatenBy
+47285,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+47285,47251,Sphyraena barracuda,Great Barracuda,eatenBy
+47285,96746,Carcharhinus altimus,Bignose Shark,eatenBy
+47285,68050,Alopias pelagicus,Pelagic Thresher Shark,eatenBy
+47285,101187,Galeus nipponensis,Broadfin Sawtail Catshark,eatenBy
+47285,196571,Saurida gracilis,Slender Lizardfish,eatenBy
+47285,470192,Antennatus coccineus,Freckled Anglerfish,eatenBy
+47285,,Scorpaenodes evides,,eatenBy
+47285,67658,Paracirrhites forsteri,Freckled Hawkfish,eatenBy
+47285,123123,Synodus ulae,Hawaiian Lizardfish,eatenBy
+47285,107448,Okamejei kenojei,Ocellated Spot Skate,eatenBy
+47285,228388,Pleurogrammus monopterygius,Atka Mackerel,eatenBy
+47285,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+47285,117543,Atheresthes stomias,Arrowtooth Flounder,eatenBy
+47285,,Theragra chalcogramma,,eatenBy
+47285,223674,Limanda aspera,Yellowfin Sole,eatenBy
+47285,4537,Anous minutus,Black Noddy,eatenBy
+47285,4141,Phoebastria nigripes,Black-footed Albatross,eatenBy

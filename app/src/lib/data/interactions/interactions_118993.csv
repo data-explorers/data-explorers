@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118993,47566,Populus,"poplars, cottonwoods, and aspens",eats
+118993,54491,Corylus avellana,common hazel,eats
+118993,54841,Salix alba,white willow,eats
+118993,155124,Cornus sanguinea,common dogwood,eats
+118993,765394,Sambucus nigra,European black elderberry,eats
+118993,55847,Euonymus europaeus,Spindle,eats
+118993,51147,Crataegus monogyna,common hawthorn,eats
+118993,79461,Ulmus minor,Field Elm,eats
+118993,55811,Prunus spinosa,Blackthorn,eats
+118993,52380,Aphidoidea,,eats
+118993,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+118993,16602,Empidonax minimus,Least Flycatcher,eatenBy
+118993,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+118993,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+118993,6667,Cypseloides niger,Black Swift,eatenBy
+118993,74717,Myotis punicus,Felten's myotis,preyedUponBy
+118993,40746,Hipposideros speoris,Schneider's roundleaf bat,preyedUponBy
+118993,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+118993,,Myotis dasycneme,,preyedUponBy
+118993,40691,Rhinolophus mehelyi,Mehely's horseshoe bat,preyedUponBy
+118993,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+118993,40629,Lasionycteris noctivagans,Silver-haired Bat,preyedUponBy
+118993,40342,Myotis californicus,California Myotis,preyedUponBy
+118993,40354,Myotis evotis,Miller's Myotis,preyedUponBy
+118993,,Myotis volans,,preyedUponBy
+118993,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy
+118993,40352,Myotis grisescens,Gray Bat,preyedUponBy
+118993,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+118993,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+118993,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+118993,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+118993,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+118993,40576,Nyctalus lasiopterus,Giant Noctule,preyedUponBy
+118993,,Prenolepis imparis,,preyedUponBy

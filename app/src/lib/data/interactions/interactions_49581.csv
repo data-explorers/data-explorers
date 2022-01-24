@@ -1,0 +1,144 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49581,49581,Nereididae,,eats
+49581,117606,Nephtyidae,Catworms,eats
+49581,48921,Hydrozoa,Hydrozoans,eats
+49581,63089,Clitellata,Clitellates,eats
+49581,81636,Mya,,eats
+49581,48217,Fucus,vesicled rockweeds,eats
+49581,318459,Pennales,Pennate diatoms,eats
+49581,67424,Laminaria,,eats
+49581,123880,Bacillariophyceae,Diatoms,eats
+49581,,Detritus,,eats
+49581,,Mangelia plicosa,,eats
+49581,295414,Elasmopus levis,,eats
+49581,144115,Cumacea,Hooded Shrimp,eats
+49581,,Gammaridea,,eats
+49581,117814,Odonthalia washingtoniensis,flat sea brush,eats
+49581,123639,Spionidae,,eats
+49581,52614,Zostera marina,Eelgrass,eats
+49581,203613,Licmophora,,eats
+49581,621184,Ulvaria,,eats
+49581,,Limnoria,,eats
+49581,123885,Pleurosigmataceae,,eats
+49581,200862,Bacillariaceae,,eats
+49581,,Detritus complex,,eats
+49581,203808,Navicula,,eats
+49581,,Foraminiferida,,eats
+49581,71252,Macoma,,eats
+49581,339306,Cocconeis,,eats
+49581,132473,Lagodon rhomboides,Pinfish,eatenBy
+49581,4837,Haematopus,Oystercatchers,eatenBy
+49581,3874,Tringa,"Shanks, Tattlers, and Allies",eatenBy
+49581,52523,Carcinus maenas,European Green Crab,eatenBy
+49581,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+49581,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+49581,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49581,117606,Nephtyidae,Catworms,eatenBy
+49581,42054,Vulpes,Typical Foxes,eatenBy
+49581,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+49581,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+49581,49581,Nereididae,,eatenBy
+49581,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+49581,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+49581,3836,Calidris,Calidris Sandpipers,eatenBy
+49581,4519,Uria aalge,Common Murre,eatenBy
+49581,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+49581,4424,Sterna,Typical Terns,eatenBy
+49581,41440,Phocoena phocoena,Harbour Porpoise,eatenBy
+49581,195011,Phyllodocidae,Paddle Worms,eatenBy
+49581,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+49581,4204,Podiceps,Typical Grebes,eatenBy
+49581,3951,Limosa lapponica,Bar-tailed Godwit,eatenBy
+49581,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+49581,4620,Gavia,Loons,eatenBy
+49581,47716,Majidae,Typical Spider Crabs,eatenBy
+49581,63740,Gadus morhua,Atlantic Cod,eatenBy
+49581,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+49581,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+49581,430553,Merlangius merlangus,Whiting,eatenBy
+49581,228496,Pollachius virens,Pollock,eatenBy
+49581,48402,Amblyraja radiata,Thorny Skate,eatenBy
+49581,48397,Raja clavata,Thornback Skate,eatenBy
+49581,111527,Raja montagui,Spotted Skate,eatenBy
+49581,,Trisopterus minutus,,eatenBy
+49581,,Tadorna,,eatenBy
+49581,95919,Bothus leopardinus,,eatenBy
+49581,,redshank - dunlin - knot,,eatenBy
+49581,4843,Haematopus ostralegus,Eurasian Oystercatcher,eatenBy
+49581,608771,Atherinella brasiliensis,,eatenBy
+49581,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+49581,55396,Solea solea,Common Sole,eatenBy
+49581,113529,Symphodus cinereus,Grey Wrasse,eatenBy
+49581,111518,Raja brachyura,Blonde Skate,eatenBy
+49581,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+49581,618299,Gobionotothen marionensis,,eatenBy
+49581,479865,Cheilodactylus variegatus,Peruvian morwong,eatenBy
+49581,49509,Lutjanus griseus,Grey Snapper,eatenBy
+49581,,Anas clypeata,,eatenBy
+49581,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+49581,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+49581,128750,Sciaenops ocellatus,Red Drum,eatenBy
+49581,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+49581,98945,Cyprinodon variegatus,Sheepshead Minnow,eatenBy
+49581,179593,Fundulus similis,Longnose Killifish,eatenBy
+49581,105567,Menidia beryllina,Inland Silverside,eatenBy
+49581,101057,Fundulus grandis,Gulf Killifish,eatenBy
+49581,85127,Lepomis microlophus,Redear Sunfish,eatenBy
+49581,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+49581,179583,Gobiosoma bosc,Naked goby,eatenBy
+49581,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+49581,103276,Ictalurus furcatus,Blue Catfish,eatenBy
+49581,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+49581,56047,Trinectes maculatus,Hogchoker,eatenBy
+49581,113308,Strongylura marina,Atlantic Needlefish,eatenBy
+49581,104824,Lucania parva,rainwater killifish,eatenBy
+49581,179586,Gobiesox strumosus,Skilletfish,eatenBy
+49581,49421,Diplectrum formosum,Sand Perch,eatenBy
+49581,,Pleuronectiformes,,eatenBy
+49581,102840,Hippocampus zosterae,Dwarf Seahorse,eatenBy
+49581,3844,Calidris acuminata,Sharp-tailed Sandpiper,eatenBy
+49581,432163,Conus rattus,Rat Cone,eatenBy
+49581,361645,Aphrodita aculeata,Sea Mouse,eatenBy
+49581,4516,Uria lomvia,Thick-billed Murre,eatenBy
+49581,4494,Rissa tridactyla,Black-legged Kittiwake,eatenBy
+49581,260476,Plesionika acanthonotus,Lesser striped shrimp,eatenBy
+49581,41720,Erignathus barbatus,Bearded Seal,eatenBy
+49581,852690,Geryon longipes,,eatenBy
+49581,209010,Charybdis japonica,Asian Paddle Crab,eatenBy
+49581,369153,Penaeus esculentus,Brown Tiger Prawn,eatenBy
+49581,210219,Necora puber,Velvet Swimming Crab,eatenBy
+49581,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+49581,118851,Crangon crangon,Brown Shrimp,eatenBy
+49581,339274,Glycera robusta,,eatenBy
+49581,445590,Acanthopagrus berda,goldsilk seabream,eatenBy
+49581,179601,Etropus crossotus,Fringed Flounder,eatenBy
+49581,,Arripis trutta,,eatenBy
+49581,520510,Sillago maculata,Trumpeter Whiting,eatenBy
+49581,353508,Sillago ciliata,Sand Whiting,eatenBy
+49581,347936,Upeneus sulphureus,Sunrise Goatfish,eatenBy
+49581,47762,Sebastes,Rockfishes,eatenBy
+49581,118649,Echiichthys vipera,Lesser Weever,eatenBy
+49581,49431,Orthopristis chrysoptera,Pigfish,eatenBy
+49581,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+49581,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+49581,131388,Haemulon melanurum,Cottonwick,eatenBy
+49581,108196,Pagrus pagrus,Red Porgy,eatenBy
+49581,108614,Paranthias furcifer,Atlantic Creolefish,eatenBy
+49581,179464,Symphurus plagiusa,Blackcheek Tonguefish,eatenBy
+49581,317403,Symphurus civitatium,,eatenBy
+49581,123880,Bacillariophyceae,Diatoms,preysOn
+49581,48217,Fucus,vesicled rockweeds,preysOn
+49581,47628,Amphipoda,Amphipods,preysOn
+49581,49581,Nereididae,,preysOn
+49581,67424,Laminaria,,preysOn
+49581,48921,Hydrozoa,Hydrozoans,preysOn
+49581,,Phytoplankton,,preysOn
+49581,,Zooplankton,,preysOn
+49581,,Detritus complex,,preysOn
+49581,621184,Ulvaria,,preysOn
+49581,117814,Odonthalia washingtoniensis,flat sea brush,preysOn
+49581,52614,Zostera marina,Eelgrass,preysOn
+49581,49581,Nereididae,,preyedUponBy
+49581,52319,Platyhelminthes,Flatworms,preyedUponBy
+49581,47645,Cottidae,Typical Sculpins,preyedUponBy
+49581,51280,Nemertea,Ribbon Worms,preyedUponBy

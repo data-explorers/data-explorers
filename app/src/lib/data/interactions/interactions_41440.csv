@@ -1,0 +1,117 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41440,49581,Nereididae,,eats
+41440,47459,Cephalopoda,Cephalopods,eats
+41440,118594,Atherina presbyter,Sand Smelt,eats
+41440,85493,Crustacea,Crustaceans,eats
+41440,47115,Mollusca,Molluscs,eats
+41440,47457,Octopodidae,Typical Octopuses,eats
+41440,83316,Ommastrephidae,Flying Squids,eats
+41440,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+41440,88563,Gobius,,eats
+41440,47308,Gobiidae,Gobies,eats
+41440,432427,Gonatus fabricii,Boreoatlantic Gonate Squid,eats
+41440,125291,Molva molva,European Ling,eats
+41440,156879,Argentina,,eats
+41440,221382,Hippoglossoides platessoides,American Plaice,eats
+41440,,Liparis montagui,,eats
+41440,97990,Clupea harengus,Atlantic Herring,eats
+41440,430553,Merlangius merlangus,Whiting,eats
+41440,,Cephalaspidomorphi,,eats
+41440,120608,Gadiculus argenteus,Silvery Pout,eats
+41440,63740,Gadus morhua,Atlantic Cod,eats
+41440,86396,Ammodytes,,eats
+41440,214212,Artediellus atlanticus,Atlantic Hookear Sculpin,eats
+41440,481841,Microstomus kitt,Lemon Sole,eats
+41440,332553,Pollachius pollachius,Atlantic pollock,eats
+41440,82351,Melanogrammus aeglefinus,Haddock,eats
+41440,165100,Mallotus villosus,Capelin,eats
+41440,459325,Maurolicus muelleri,Pearlside,eats
+41440,120702,Micromesistius poutassou,Blue Whiting,eats
+41440,47523,Pleuronectes platessa,European Plaice,eats
+41440,224163,Lumpenus lampretaeformis,Snakeblenny,eats
+41440,223433,Leptoclinus maculatus,Daubed Shanny,eats
+41440,149978,Rossia,,eats
+41440,215318,Boreogadus saida,Arctic Cod,eats
+41440,213519,Anarhichas lupus,Atlantic Wolffish,eats
+41440,437504,Pandalus borealis,Northern Shrimp,eats
+41440,,Sebastes marinus,,eats
+41440,320793,Trisopterus esmarkii,Norway Pout,eats
+41440,195087,Thysanoessa inermis,,eats
+41440,,Thysanoessa longicaudata,,eats
+41440,329000,Thysanoessa raschii,,eats
+41440,228496,Pollachius virens,Pollock,eats
+41440,118678,Scomber scombrus,Atlantic Mackerel,eats
+41440,639178,Meganyctiphanes norvegica,Northern Krill,eats
+41440,86443,Anarhichas,,eats
+41440,90535,Osmerus,,eats
+41440,92655,Trisopterus,,eats
+41440,,Gnathostomata,,eats
+41440,324561,Alloteuthis,,eats
+41440,,sepiolid,,eats
+41440,,Pisces,,eats
+41440,51910,Engraulis encrasicolus,European Anchovy,eats
+41440,118600,Sardina pilchardus,European Sardine,eats
+41440,,gobid,,eats
+41440,82337,Loligo,,eats
+41440,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+41440,447428,Eledone cirrhosa,Curled Octopus,eats
+41440,118601,Trisopterus luscus,Pouting,eats
+41440,49096,Myxine glutinosa,Atlantic Hagfish,eats
+41440,,Trisopterus minutus,,eats
+41440,338754,Symbion pandora,,eats
+41440,,Lycodes vahlii,,eats
+41440,151483,Sepietta oweniana,Common Bobtail,eats
+41440,,Teuthida,,eats
+41440,,Unspecified Plueronectidae,,eats
+41440,324558,Loligo vulgaris,European Squid,eats
+41440,151354,Rossia macrosoma,Stout Bobtail,eats
+41440,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+41440,700305,Alloteuthis subulata,European Common Squid,eats
+41440,,Enchelyopus cimbrius,,eats
+41440,94105,Anguilla anguilla,European Eel,eats
+41440,118603,Merluccius merluccius,European Hake,eats
+41440,63742,Gadidae,Cods and Haddocks,eats
+41440,,Sprattus sprattus sprattus,,eats
+41440,324532,Sprattus sprattus,European Sprat,eats
+41440,85574,Ammodytidae,Sand Lances,eats
+41440,118655,Spondyliosoma cantharus,Black Seabream,eats
+41440,699271,Anisakis,,eatenBy
+41440,41521,Orcinus orca,Orca,eatenBy
+41440,110361,Prionace glauca,Blue Shark,eatenBy
+41440,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+41440,63770,Engraulis mordax,Northern Anchovy,preysOn
+41440,47456,Octopus,,preysOn
+41440,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+41440,337526,Gonatus berryi,Berry's Gonate Squid,preysOn
+41440,222140,Icelinus borealis,Northern Sculpin,preysOn
+41440,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+41440,614161,Gadus chalcogrammus,Alaska Pollock,preysOn
+41440,113994,Thaleichthys pacificus,Eulachon,preysOn
+41440,117571,Clupea pallasii,Pacific herring,preysOn
+41440,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+41440,47762,Sebastes,Rockfishes,preysOn
+41440,105599,Merluccius productus,Pacific Hake,preysOn
+41440,,Onychoteuthis borealijaponicus,,preysOn
+41440,195266,Sergestes,,preysOn
+41440,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+41440,97375,Chilara taylori,Spotted Cusk-eel,preysOn
+41440,85949,Osmeridae,Smelts,preysOn
+41440,117569,Microgadus proximus,Pacific Tomcod,preysOn
+41440,63687,Embiotocidae,Surfperches,preysOn
+41440,47525,Pleuronectidae,Righteye Flounders,preysOn
+41440,117545,Parophrys vetulus,English sole,preysOn
+41440,47524,Pleuronectes,,preysOn
+41440,92173,Spirinchus,,preysOn
+41440,55535,Sardinops sagax,Pacific Sardine,preysOn
+41440,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+41440,117561,Phanerodon furcatus,White surfperch,preysOn
+41440,,Ophidiidae,,preysOn
+41440,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+41440,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+41440,117556,Hyperprosopon anale,Spotfin surfperch,preysOn
+41440,117567,Spirinchus starksi,Night Smelt,preysOn
+41440,447428,Eledone cirrhosa,Curled Octopus,preysOn
+41440,324558,Loligo vulgaris,European Squid,preysOn
+41440,151354,Rossia macrosoma,Stout Bobtail,preysOn
+41440,700305,Alloteuthis subulata,European Common Squid,preysOn
+41440,151483,Sepietta oweniana,Common Bobtail,preysOn

@@ -1,0 +1,68 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55215,53196,Rumex,docks,eats
+55215,60132,Cirsium arvense,creeping thistle,eats
+55215,469472,Malus domestica,apple,eats
+55215,48561,Cirsium,thistles,eats
+55215,48972,Polygonum,knotweeds,eats
+55215,57036,Euphorbia peplus,Petty Spurge,eats
+55215,51822,Euphorbia,spurges,eats
+55215,48538,Cytisus scoparius,Scots broom,eats
+55215,,Glochidion ferdinandi,,eats
+55215,83080,Eugenia,Myrtles,eats
+55215,,Clerodendrum,,eats
+55215,,Geum urbanum,,eats
+55215,,Acaena,,eats
+55215,,Detritus,,eats
+55215,479803,Dioprosopa clavata,Four-speckled Hover Fly,eatenBy
+55215,61524,Forficula auricularia,European Earwig,eatenBy
+55215,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+55215,858297,Chrysoperla carnea,carnea-group Green Lacewings,eatenBy
+55215,470979,Alophia combustella,,eatenBy
+55215,,Taraka hamada,,eatenBy
+55215,,Feniseca tarquinius,,eatenBy
+55215,,Eupeodes pomus,,eatenBy
+55215,,Rhagonycha elongata,,eatenBy
+55215,,Syrphus vitripennis,,eatenBy
+55215,360088,Heterotoma merioptera,,eatenBy
+55215,,Platycheirus scutatus,,eatenBy
+55215,204590,Plagiognathus arbustorum,Common Nettle Flower Bug,eatenBy
+55215,,Adalia bipunctata,,eatenBy
+55215,,Eupeodes luniger,,eatenBy
+55215,,Anatis ocellata,,eatenBy
+55215,,Heterocordylus tibialis,,eatenBy
+55215,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+55215,,Asciodema obsoletum,,eatenBy
+55215,,Syrphus,,eatenBy
+55215,,Orthotylus virescens,,eatenBy
+55215,,Sylvia curruca,,eatenBy
+55215,,Propylaea quatuordecimpunctata,,eatenBy
+55215,887633,Orthotylus concolor,,eatenBy
+55215,,Brumus quadripustulatus,,eatenBy
+55215,,Adalia decempunctata,,eatenBy
+55215,,Anthocoris sarothamni,,eatenBy
+55215,,Halyzia sedecimguttata,,eatenBy
+55215,,Cyanistes caeruleus,,eatenBy
+55215,,Orthotylus adenocarpi,,eatenBy
+55215,,Prunella modularis,,eatenBy
+55215,,Anthocoris nemorum,,eatenBy
+55215,,Aphidoletes,,eatenBy
+55215,203409,Ectobius lapponicus,Dusky Cockroach,eatenBy
+55215,,Nabis flavomarginatus,,eatenBy
+55215,,Anthocoris nemoralis,,eatenBy
+55215,,Ectobius laponicus (Oliver),,eatenBy
+55215,,Asciodema obseletum (Fieber),,eatenBy
+55215,,Halysia sexdecimguttata L.,,eatenBy
+55215,,Exochomus quadripustulatus,,eatenBy
+55215,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,preyedUponBy
+55215,61524,Forficula auricularia,European Earwig,preyedUponBy
+55215,,Adalia decempunctata,,preyedUponBy
+55215,,Anthocoris sarothamni,,preyedUponBy
+55215,10070,Fringilla coelebs,Common Chaffinch,preyedUponBy
+55215,,Adalia bipunctata,,preyedUponBy
+55215,,Anatis ocellata,,preyedUponBy
+55215,,Cyanistes caeruleus,,preyedUponBy
+55215,,Heterocordylus tibialis,,preyedUponBy
+55215,,Brumus quadripustulatus,,preyedUponBy
+55215,,Propylaea quatuordecimpunctata,,preyedUponBy
+55215,54192,Polynemidae,Threadfins,preyedUponBy
+55215,87889,Dentex,Dentexes,preyedUponBy

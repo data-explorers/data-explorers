@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60470,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+60470,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+60470,109101,Percina sciera,Dusky Darter,eatenBy
+60470,17394,Vireo gilvus,Warbling Vireo,eatenBy
+60470,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+60470,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+60470,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+60470,48124,Tettigoniidae,Katydids,preyedUponBy
+60470,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+60470,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+60470,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+60470,25591,Rana temporaria,European Common Frog,preyedUponBy
+60470,554158,Chartoscirta cincta,,preyedUponBy
+60470,82118,Dolomedes,Fishing Spiders,preyedUponBy
+60470,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+60470,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+60470,153747,Robertus,,preyedUponBy
+60470,498635,Lithobius piceus,,preyedUponBy
+60470,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+60470,784329,Robertus insignis,,preyedUponBy
+60470,,Haemopis sanguisuga,,preyedUponBy
+60470,,Hyla arborea,,preyedUponBy

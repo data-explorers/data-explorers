@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49688,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49688,4535,Anous stolidus,Brown Noddy,eatenBy
+49688,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+49688,4534,Anous,Noddies,eatenBy

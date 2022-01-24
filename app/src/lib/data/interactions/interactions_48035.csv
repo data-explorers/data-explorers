@@ -1,0 +1,173 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48035,124748,Macrocystis pyrifera,Giant Kelp,eats
+48035,243907,Cryptopleura,,eats
+48035,128238,Laurencia,,eats
+48035,123632,Corallina officinalis,Common Coralline,eats
+48035,68104,Bryozoa,Bryozoans,eats
+48035,130177,Sargassum muticum,Japanese Wireweed,eats
+48035,54644,Ulva,sea lettuces,eats
+48035,78562,Phyllospadix torreyi,Torrey's Surfgrass,eats
+48035,48824,Porifera,Sponges,eats
+48035,67555,Codium fragile,Dead Man's Fingers,eats
+48035,129742,Colpomenia,Puff-ball Algae,eats
+48035,51021,Dictyota,Y-branched Algae,eats
+48035,117820,Prionitis lanceolata,,eats
+48035,327042,Botryocladia pseudodichotoma,Sea Grapes,eats
+48035,67419,Egregia menziesii,Feather Boa Kelp,eats
+48035,,Detritus,,eats
+48035,124146,Pterygophora californica,stalked kelp,eats
+48035,81637,Bugula neritina,brown bryozoan,eats
+48035,117713,Leucilla nuttingi,smooth urn sponge,eats
+48035,,Chelyosoma productum,,eats
+48035,,Bugula californica,,eats
+48035,51986,Clavelina,Lightbulb Tunicates,eats
+48035,131212,Archidistoma,,eats
+48035,339194,Polyclinum planum,Elephant Ear Tunicate,eats
+48035,424274,Pycnoclavella stanleyi,Yellow Social Ascidian,eats
+48035,55512,Didemnum,Wrinkled Sea Mats,eats
+48035,468298,Euherdmania claviformis,Tunic-Band Compound Tunicate,eats
+48035,,Styela montereyensis,,eats
+48035,,Desmarestia ligulata,,eats
+48035,446888,Gelidium robustum,agarweed,eats
+48035,196023,Thalamoporella californica,,eats
+48035,482628,Dictyopteris undulata,,eats
+48035,,Macroalgae,,eats
+48035,211513,Barentsia,,eats
+48035,,Costazia,,eats
+48035,359801,Rhodymenia pacifica,,eats
+48035,133214,Rhodymenia californica,,eats
+48035,341793,Scinaia confusa,,eats
+48035,1024242,Neoagardhiella baileyi,,eats
+48035,,Weeksia,,eats
+48035,345303,Nienburgia andersoniana,,eats
+48035,,Spheciospongia confoederata,,eats
+48035,337060,Neoptilota,,eats
+48035,195943,Crisia occidentalis,White Tuft Bryozoans,eats
+48035,345158,Phycodrys setchellii,,eats
+48035,,Acrosorium uncinatum,,eats
+48035,,Pterosiphonia dendroidea,,eats
+48035,339020,Cladophora graminea,,eats
+48035,,Phidolopora labiata,,eats
+48035,,Lithothrix,,eats
+48035,327100,Sarcodiotheca furcata,,eats
+48035,,Laurencia spectabilis,,eats
+48035,,Tethya aurantium,,eats
+48035,182932,Scytosiphon lomentaria,Beanweed,eats
+48035,,Urochordata,,eats
+48035,,Iridaea vincent,,eats
+48035,,Hymenamphiastra cyanocrypta,,eats
+48035,345276,Bossiella orbigniana,,eats
+48035,,Botryoglossum farlowianum,,eats
+48035,328371,Taonia,,eats
+48035,,Calliarthron cheilosporioides,,eats
+48035,67679,Gracilaria,,eats
+48035,125879,Eisenia arborea,Southern sea palm,eats
+48035,485339,Chondracanthus spinosus,,eats
+48035,,Gigartina corymbifera,,eats
+48035,81879,Laminaria farlowii,oar weed,eats
+48035,,Cystoseira osmundacea,,eats
+48035,,Stenogramme interrupta,,eats
+48035,446885,Callophyllis flabellulata,red sea fan,eats
+48035,339014,Polyneura latissima,crisscross network,eats
+48035,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+48035,47827,Cancer,,eatenBy
+48035,41860,Enhydra lutris,Sea Otter,eatenBy
+48035,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+48035,4345,Larus occidentalis,Western Gull,eatenBy
+48035,,Tealia coriacea,,eatenBy
+48035,53699,Semicossyphus pulcher,California sheephead,eatenBy
+48035,63382,Dermasterias imbricata,Leather Star,eatenBy
+48035,125663,Kelletia kelletii,Kellet's Whelk,eatenBy
+48035,,Astrometis sertulifera,,eatenBy
+48035,179833,Lytechinus anamesus,white sea urchin,eatenBy
+48035,117555,Embiotoca lateralis,Striped surfperch,eatenBy
+48035,117554,Embiotoca jacksoni,Black surfperch,eatenBy
+48035,111616,Rhacochilus vacca,Pile surfperch,eatenBy
+48035,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+48035,,Tealia lofotensis,,eatenBy
+48035,,Corvus caurinus,,eatenBy
+48035,123632,Corallina officinalis,Common Coralline,preysOn
+48035,54644,Ulva,sea lettuces,preysOn
+48035,124748,Macrocystis pyrifera,Giant Kelp,preysOn
+48035,78562,Phyllospadix torreyi,Torrey's Surfgrass,preysOn
+48035,51021,Dictyota,Y-branched Algae,preysOn
+48035,67419,Egregia menziesii,Feather Boa Kelp,preysOn
+48035,67555,Codium fragile,Dead Man's Fingers,preysOn
+48035,129742,Colpomenia,Puff-ball Algae,preysOn
+48035,68104,Bryozoa,Bryozoans,preysOn
+48035,243907,Cryptopleura,,preysOn
+48035,117820,Prionitis lanceolata,,preysOn
+48035,128238,Laurencia,,preysOn
+48035,48824,Porifera,Sponges,preysOn
+48035,327042,Botryocladia pseudodichotoma,Sea Grapes,preysOn
+48035,130177,Sargassum muticum,Japanese Wireweed,preysOn
+48035,345276,Bossiella orbigniana,,preysOn
+48035,339020,Cladophora graminea,,preysOn
+48035,327100,Sarcodiotheca furcata,,preysOn
+48035,359801,Rhodymenia pacifica,,preysOn
+48035,,Hymenamphiastra cyanocrypta,,preysOn
+48035,182932,Scytosiphon lomentaria,Beanweed,preysOn
+48035,339014,Polyneura latissima,crisscross network,preysOn
+48035,,Calliarthron cheilosporioides,,preysOn
+48035,,Macroalgae,,preysOn
+48035,196023,Thalamoporella californica,,preysOn
+48035,446888,Gelidium robustum,agarweed,preysOn
+48035,341793,Scinaia confusa,,preysOn
+48035,,Acrosorium uncinatum,,preysOn
+48035,1024242,Neoagardhiella baileyi,,preysOn
+48035,,Laurencia spectabilis,,preysOn
+48035,195943,Crisia occidentalis,White Tuft Bryozoans,preysOn
+48035,51986,Clavelina,Lightbulb Tunicates,preysOn
+48035,55512,Didemnum,Wrinkled Sea Mats,preysOn
+48035,339194,Polyclinum planum,Elephant Ear Tunicate,preysOn
+48035,468298,Euherdmania claviformis,Tunic-Band Compound Tunicate,preysOn
+48035,124146,Pterygophora californica,stalked kelp,preysOn
+48035,,Bugula californica,,preysOn
+48035,133214,Rhodymenia californica,,preysOn
+48035,446885,Callophyllis flabellulata,red sea fan,preysOn
+48035,131212,Archidistoma,,preysOn
+48035,,Spheciospongia confoederata,,preysOn
+48035,,Gigartina corymbifera,,preysOn
+48035,345462,Ptilota,,preysOn
+48035,,Desmarestia ligulata,,preysOn
+48035,81637,Bugula neritina,brown bryozoan,preysOn
+48035,,Pterosiphonia dendroidea,,preysOn
+48035,,Chelyosoma productum,,preysOn
+48035,482628,Dictyopteris undulata,,preysOn
+48035,117713,Leucilla nuttingi,smooth urn sponge,preysOn
+48035,125879,Eisenia arborea,Southern sea palm,preysOn
+48035,,Botryoglossum farlowianum,,preysOn
+48035,,Styela montereyensis,,preysOn
+48035,542461,Rhodoptilum,,preysOn
+48035,,Lithothrix,,preysOn
+48035,328371,Taonia,,preysOn
+48035,,Stenogramme interrupta,,preysOn
+48035,,Iridaea vincent,,preysOn
+48035,,Phidolopora labiata,,preysOn
+48035,211513,Barentsia,,preysOn
+48035,,Urochordata,,preysOn
+48035,345158,Phycodrys setchellii,,preysOn
+48035,424274,Pycnoclavella stanleyi,Yellow Social Ascidian,preysOn
+48035,81879,Laminaria farlowii,oar weed,preysOn
+48035,,Costazia,,preysOn
+48035,,Weeksia,,preysOn
+48035,,Cystoseira osmundacea,,preysOn
+48035,485339,Chondracanthus spinosus,,preysOn
+48035,337060,Neoptilota,,preysOn
+48035,67679,Gracilaria,,preysOn
+48035,,Tethya aurantium,,preysOn
+48035,345303,Nienburgia andersoniana,,preysOn
+48035,47827,Cancer,,preyedUponBy
+48035,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+48035,4345,Larus occidentalis,Western Gull,preyedUponBy
+48035,,Tealia lofotensis,,preyedUponBy
+48035,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+48035,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+48035,117554,Embiotoca jacksoni,Black surfperch,preyedUponBy
+48035,179833,Lytechinus anamesus,white sea urchin,preyedUponBy
+48035,111616,Rhacochilus vacca,Pile surfperch,preyedUponBy
+48035,53699,Semicossyphus pulcher,California sheephead,preyedUponBy
+48035,125663,Kelletia kelletii,Kellet's Whelk,preyedUponBy
+48035,117555,Embiotoca lateralis,Striped surfperch,preyedUponBy
+48035,,Astrometis sertulifera,,preyedUponBy
+48035,,Tealia coriacea,,preyedUponBy

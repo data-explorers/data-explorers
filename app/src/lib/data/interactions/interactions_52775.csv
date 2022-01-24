@@ -1,0 +1,324 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52775,57983,Helianthus annuus,Common Sunflower,eats
+52775,57793,Gilia capitata,bluehead gilia,eats
+52775,57723,Echium candicans,Pride of Madeira,eats
+52775,53376,Cotoneaster,Cotoneasters,eats
+52775,52821,Achillea millefolium,Common Yarrow,eats
+52775,72232,Melaleuca,bottlebrushes,eats
+52775,47544,Rubus,brambles,eats
+52775,54999,Eriogonum fasciculatum,California buckwheat,eats
+52775,53052,Foeniculum vulgare,fennel,eats
+52775,58907,Melilotus albus,White Sweetclover,eats
+52775,52998,Conium maculatum,poison hemlock,eats
+52775,52989,Cirsium vulgare,Bull Thistle,eats
+52775,48939,Eriogonum,wild buckwheats,eats
+52775,53405,Heteromeles arbutifolia,Toyon,eats
+52775,49347,Phacelia,Scorpionweeds,eats
+52775,48225,Eschscholzia californica,California poppy,eats
+52775,1263850,Pleroma urvilleanum,Glory bush,eats
+52775,47204,Brassicaceae,mustard family,eats
+52775,61905,Lavandula,Lavender,eats
+52775,47597,Chlorogalum pomeridianum,wavy-leafed soap plant,eats
+52775,51735,Clarkia unguiculata,Elegant Clarkia,eats
+52775,52182,Monardella,,eats
+52775,47121,Lupinus,lupines,eats
+52775,61906,Helminthotheca echioides,bristly oxtongue,eats
+52775,50812,Scrophularia californica,California beeplant,eats
+52775,51737,Solanum lycopersicum,tomato,eats
+52775,52472,Vicia,Vetches,eats
+52775,55436,Amsinckia menziesii,Common Fiddleneck,eats
+52775,49674,Ceanothus,,eats
+52775,47758,Oxalis,woodsorrels,eats
+52775,48798,Sidalcea,Checkerblooms,eats
+52775,889256,Sempervivoideae,,eats
+52775,47435,Lotus corniculatus,bird's-foot trefoil,eats
+52775,54051,Crepis,Hawksbeard,eats
+52775,64134,Salvia apiana,white sage,eats
+52775,53438,Rosa,roses,eats
+52775,53395,Eriophyllum confertiflorum,Golden Yarrow,eats
+52775,57250,Prunus ilicifolia,hollyleaf cherry,eats
+52775,58191,Salvia leucophylla,purple sage,eats
+52775,54500,Malus,apples,eats
+52775,57317,Vicia villosa,hairy vetch,eats
+52775,53403,Genista monspessulana,French broom,eats
+52775,53435,Ribes sanguineum,Red-flowering Currant,eats
+52775,47351,Prunus,"plums, cherries, and allies",eats
+52775,63512,Acer palmatum,Japanese maple,eats
+52775,936160,Verbeneae,,eats
+52775,56175,Echium,Viper's-buglosses,eats
+52775,48624,Nepeta,catmints,eats
+52775,53317,Verbena,Vervain,eats
+52775,49322,Carpobrotus edulis,sea fig,eats
+52775,636795,Salvia rosmarinus,Rosemary,eats
+52775,461542,Astereae,asters and allies,eats
+52775,53597,Narcissus,daffodils,eats
+52775,47179,Arctostaphylos,bearberries and manzanitas,eats
+52775,53169,Oxalis pes-caprae,Bermuda buttercup,eats
+52775,51452,Passiflora,passionflowers,eats
+52775,473531,Eucalypteae,gum trees,eats
+52775,48969,Antirrhinum majus,Snapdragon,eats
+52775,55365,Grindelia,gumplants,eats
+52775,57017,Crassula,Stonecrops,eats
+52775,49323,Carpobrotus,sea figs,eats
+52775,51611,Veronica,speedwells,eats
+52775,64322,Cistus,Shrubby Rock-roses,eats
+52775,53453,Salix,Willows,eats
+52775,53398,Eucalyptus globulus,Eurabbie,eats
+52775,359450,Cichorieae,,eats
+52775,47124,Magnoliopsida,dicots,eats
+52775,78966,Salvia clevelandii,Cleveland Sage,eats
+52775,790553,Apioideae,,eats
+52775,55745,Trifolium repens,white clover,eats
+52775,49487,Rhododendron,rhododendrons and azaleas,eats
+52775,723302,Maleae,,eats
+52775,60982,Cakile maritima,European Searocket,eats
+52775,47780,Iris,Irises,eats
+52775,72281,Pelargonium,geraniums and storksbills,eats
+52775,574731,Brassiceae,,eats
+52775,632702,Hieraciinae,hawkweeds,eats
+52775,63611,Myoporum laetum,Ngaio,eats
+52775,76949,Eriobotrya japonica,Loquat,eats
+52775,76610,Daucus carota,wild carrot,eats
+52775,57090,Erodium botrys,Mediterranean Stork's-bill,eats
+52775,47701,Geranium,geraniums and cranesbills,eats
+52775,61317,Rubus armeniacus,Armenian Blackberry,eats
+52775,48226,Eschscholzia,,eats
+52775,47125,Angiospermae,flowering plants,eats
+52775,51822,Euphorbia,spurges,eats
+52775,72389,Tagetes,marigolds,eats
+52775,48623,Lamiaceae,mint family,eats
+52775,50641,Solanum,nightshades,eats
+52775,50644,Salvia,Sages,eats
+52775,53178,Plantago lanceolata,ribwort plantain,eats
+52775,69819,Ligustrum,privets,eats
+52775,51769,Gaillardia,Blanket Flowers,eats
+52775,50320,Lathyrus vestitus,Pacific pea,eats
+52775,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+52775,52635,Agastache,Hyssop,eats
+52775,48970,Antirrhinum,Snapdragons,eats
+52775,52181,Monardella villosa,Coyote Mint,eats
+52775,54876,Trichostema,bluecurls,eats
+52775,48367,Penstemon,beardtongues,eats
+52775,57092,Erodium moschatum,musk stork's-bill,eats
+52775,53396,Eriophyllum,Woolly sunflowers,eats
+52775,632790,Asteroideae,,eats
+52775,52621,Cirsium occidentale,Cobwebby Thistle,eats
+52775,605446,Heliantheae,sunflowers and allies,eats
+52775,48561,Cirsium,thistles,eats
+52775,64358,Eriogonum giganteum,St. Catherine's-lace,eats
+52775,53423,Frangula californica,coffeeberry,eats
+52775,53097,Hirschfeldia incana,Shortpod Mustard,eats
+52775,55410,Raphanus sativus,wild radish,eats
+52775,51876,Trifolium,clovers,eats
+52775,76994,Eriogonum grande,Redflower Buckwheat,eats
+52775,62205,Alcea rosea,Hollyhock,eats
+52775,55563,Bellis perennis,common daisy,eats
+52775,47602,Taraxacum officinale,common dandelion,eats
+52775,75916,Buddleja davidii,Butterfly bush,eats
+52775,501208,Malva multiflora,Cretan Tree-mallow,eats
+52775,52588,Centaurea solstitialis,Yellow Star-Thistle,eats
+52775,50639,Solanum umbelliferum,bluewitch nightshade,eats
+52775,52346,Ipomoea,morning-glories,eats
+52775,50643,Salvia mellifera,black sage,eats
+52775,55978,Malva,Mallows,eats
+52775,53359,Baccharis pilularis,coyote brush,eats
+52775,61164,Carpenteria californica,tree-anemone,eats
+52775,53437,Rosa californica,California Wild Rose,eats
+52775,47436,Lotus,bird's-foot trefoils and deervetches,eats
+52775,53445,Rubus ursinus,trailing blackberry,eats
+52775,47130,Ribes,currants and gooseberries,eats
+52775,63379,Acacia longifolia,longleaf wattle,eats
+52775,78440,Peritoma arborea,Bladderpod,eats
+52775,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+52775,48797,Malvaceae,Mallow and Hibiscus Family,eats
+52775,117440,Eutrochium maculatum,spotted Joe-Pye weed,eats
+52775,163112,Fuchsia magellanica,Hardy Fuchsia,eats
+52775,47781,Iridaceae,irises and allies,eats
+52775,78451,Persicaria capitata,pink knotweed,eats
+52775,47603,Taraxacum,dandelions,eats
+52775,54570,Mentha,mints,eats
+52775,85436,Tibouchina,glory bushes and allies,eats
+52775,51890,Crassulaceae,stonecrop family,eats
+52775,51875,Trifolium pratense,red clover,eats
+52775,53134,Acmispon glaber,deerweed,eats
+52775,75549,Arctotheca prostrata,Prostrate Capeweed,eats
+52775,79487,Verbena bonariensis,purpletop vervain,eats
+52775,52764,Prunella vulgaris,common selfheal,eats
+52775,83157,Hydrangea,hydrangeas,eats
+52775,320573,Gambelia speciosa,Island Bush Snapdragon,eats
+52775,57283,Centranthus ruber,Red Valerian,eats
+52775,63366,Limonium,Sea-Lavenders,eats
+52775,58202,Malva parviflora,cheeseweed mallow,eats
+52775,336005,Campanula poscharskyana,Trailing bellflower,eats
+52775,55735,Sedum,stonecrops,eats
+52775,60955,Ericameria ericoides,California Goldenbush,eats
+52775,47452,Acacia,wattles,eats
+52775,922110,Amygdaloideae,,eats
+52775,56026,Carpobrotus chilensis,Chilean sea fig,eats
+52775,126887,Berberis aquifolium,Oregon grape,eats
+52775,52761,Hypericum,St. John's worts,eats
+52775,56058,Leucanthemum,,eats
+52775,51691,Lupinus albifrons,Silver Lupine,eats
+52775,53046,Eriogonum nudum,Naked Buckwheat,eats
+52775,61009,Lathyrus latifolius,broad-leaved sweet pea,eats
+52775,56057,Leucanthemum vulgare,oxeye daisy,eats
+52775,47889,Impatiens,touch-me-nots,eats
+52775,48678,Solidago,goldenrods,eats
+52775,48627,Echinacea purpurea,purple coneflower,eats
+52775,77951,Malva assurgentiflora,Island Mallow,eats
+52775,55837,Prunus cerasifera,Cherry-plum,eats
+52775,50299,Fragaria,strawberries,eats
+52775,53294,Sonchus oleraceus,Common Sow-thistle,eats
+52775,57934,Ericameria nauseosa,Rubber Rabbitbrush,eats
+52775,62829,Parkinsonia aculeata,retama,eats
+52775,118597,Belone belone,Garfish,eatenBy
+52775,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+52775,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+52775,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+52775,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+52775,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+52775,12942,Sialia sialis,Eastern Bluebird,eatenBy
+52775,,Ippa saprophaga,,eatenBy
+52775,233590,Vitula edmandsii,Dried Fruit Moth,eatenBy
+52775,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+52775,54327,Vespa crabro,European Hornet,eatenBy
+52775,198838,Diogmites basalis,,eatenBy
+52775,59281,Thomisus onustus,Pink Crab Spider,eatenBy
+52775,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+52775,472662,Rhynocoris punctiventris,,eatenBy
+52775,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+52775,47121,Lupinus,lupines,pollinates
+52775,53317,Verbena,Vervain,pollinates
+52775,85436,Tibouchina,glory bushes and allies,pollinates
+52775,52346,Ipomoea,morning-glories,pollinates
+52775,119045,Eupatorium perfoliatum,common boneset,pollinates
+52775,85485,Amphicarpaea bracteata,American hog-peanut,pollinates
+52775,51874,Lonicera,honeysuckles,pollinates
+52775,47443,Albizia julibrissin,Persian silk tree,pollinates
+52775,76949,Eriobotrya japonica,Loquat,pollinates
+52775,52472,Vicia,Vetches,pollinates
+52775,47727,Acer,maples,pollinates
+52775,48561,Cirsium,thistles,pollinates
+52775,51056,Polygonatum,Solomon's-seals,pollinates
+52775,60369,Pyrola,wintergreens,pollinates
+52775,49487,Rhododendron,rhododendrons and azaleas,pollinates
+52775,54856,Tilia,"lindens, basswoods, and lime trees",pollinates
+52775,79383,Tradescantia ohiensis,bluejacket,pollinates
+52775,53350,Aesculus,buckeyes and horse-chestnuts,pollinates
+52775,48353,Vaccinium,"blueberries, cranberries, and allies",pollinates
+52775,84227,Rubus phoenicolasius,wineberry,pollinates
+52775,52989,Cirsium vulgare,Bull Thistle,pollinates
+52775,55745,Trifolium repens,white clover,pollinates
+52775,50321,Lathyrus,sweet peas and vetchlings,pollinates
+52775,60132,Cirsium arvense,creeping thistle,pollinates
+52775,51875,Trifolium pratense,red clover,pollinates
+52775,52972,Epilobium,willowherbs,pollinates
+52775,47435,Lotus corniculatus,bird's-foot trefoil,pollinates
+52775,56057,Leucanthemum vulgare,oxeye daisy,pollinates
+52775,52764,Prunella vulgaris,common selfheal,pollinates
+52775,62312,Campanula rotundifolia,Harebell,pollinates
+52775,62207,Oenothera biennis,common evening-primrose,pollinates
+52775,51891,Dudleya,Liveforever,pollinates
+52775,76214,Centaurea stoebe,spotted knapweed,pollinates
+52775,117440,Eutrochium maculatum,spotted Joe-Pye weed,pollinates
+52775,128670,Bombus vagans,Half-black Bumble Bee,pollinates
+52775,52775,Bombus,Bumble Bees,pollinates
+52775,47603,Taraxacum,dandelions,pollinates
+52775,84542,Vaccinium angustifolium,lowbush blueberry,pollinates
+52775,47912,Asclepias tuberosa,butterfly milkweed,pollinates
+52775,119808,Lonicera dioica,Glaucous Honeysuckle,pollinates
+52775,55851,Lamium purpureum,red deadnettle,pollinates
+52775,121517,Bombus terricola,Yellow-banded Bumble Bee,pollinates
+52775,52774,Bombus fervidus,Golden Northern Bumble Bee,pollinates
+52775,63547,Dalea purpurea,purple prairie clover,pollinates
+52775,120215,Bombus griseocollis,Brown-belted Bumble Bee,pollinates
+52775,244216,Xylocopa sonorina,Valley Carpenter Bee,pollinates
+52775,,Trifolium dasyphyllum,,pollinates
+52775,154238,Oxytropis campestris,Yellow Oxytropis,pollinates
+52775,,Mertensia ciliata,,pollinates
+52775,,Penstemon procerus,,pollinates
+52775,,Cypella geniculata,,pollinates
+52775,,Vernonia,,pollinates
+52775,,Galianthe angustifolia,,pollinates
+52775,,Stevia myriadenia,,pollinates
+52775,153022,Cuphea,Cigar plants,pollinates
+52775,,Eupatorium compressum,,pollinates
+52775,48039,Lobelia,Lobelias,pollinates
+52775,,Trembleya phlogiformis,,pollinates
+52775,,Campuloclinium megacephalum,,pollinates
+52775,,Crotalaria,,pollinates
+52775,,Chromolaena,,pollinates
+52775,,Declieuxia cordigera,,pollinates
+52775,,Hyptis,,pollinates
+52775,873827,Ipomoea grandifolia,,pollinates
+52775,,Oxypetalum,,pollinates
+52775,,Cassiope tetragona,,pollinates
+52775,,Silene acaulis,,pollinates
+52775,,Rhododendron lapponicum,,pollinates
+52775,,Salix arctica,,pollinates
+52775,,Passiflora caerulea,,pollinates
+52775,,Eupatorium steetzii,,pollinates
+52775,,Achyrocline satureoides,,pollinates
+52775,,Agalinis genistifolia,,pollinates
+52775,,Lathyrus pubescens,,pollinates
+52775,,Campuloclinium macrocephalum,,pollinates
+52775,,Senecio bravensis,,pollinates
+52775,,Eupatorium coelestinum,,pollinates
+52775,75766,Bidens laevis,larger bur-marigold,pollinates
+52775,,Erigeron pulchellus,,pollinates
+52775,,Ranunculus silerifolius,,pollinates
+52775,,Paraixeris denticulata,,pollinates
+52775,,Reynoutria japonica,,pollinates
+52775,333071,Persicaria thunbergii,,pollinates
+52775,707979,Rhododendron kaempferi,,pollinates
+52775,,Deutzia,,pollinates
+52775,,Weigela hortensis,,pollinates
+52775,,Angelica pubescens,,pollinates
+52775,,Isodon longitubus,,pollinates
+52775,,Corydalis incisa,,pollinates
+52775,,Corydalis pallida,,pollinates
+52775,,Geum japonicum,,pollinates
+52775,,Dipsacus,,pollinates
+52775,,Hydrangea paniculata,,pollinates
+52775,208837,Rubus buergeri,,pollinates
+52775,,Deutzia crenata,,pollinates
+52775,,Paederia foetida,,pollinates
+52775,,Leucosceptrum stellipilum,,pollinates
+52775,,Staphylea,,pollinates
+52775,,Alangium platanifolium,,pollinates
+52775,,Agrimonia pilosa,,pollinates
+52775,47980,Speyeria cybele,Great Spangled Fritillary,pollinatedBy
+52775,52775,Bombus,Bumble Bees,pollinatedBy
+52775,47981,Speyeria,Greater Fritillaries,pollinatedBy
+52775,57690,Bombus sonorus,Sonoran Bumble Bee,pollinatedBy
+52775,,Bombus ternarius,,pollinatedBy
+52775,,Vespula consobrina,,pollinatedBy
+52775,,Hemaris,,pollinatedBy
+52775,63128,Speyeria atlantis,Atlantis Fritillary,pollinatedBy
+52775,55746,Misumena vatia,Goldenrod Crab Spider,preysOn
+52775,47118,Araneae,Spiders,preyedUponBy
+52775,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+52775,129423,Zelus luridus,Pale Green Assassin Bug,preyedUponBy
+52775,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+52775,,Aphomia sociella,,preyedUponBy
+52775,12016,Lanius,Typical Shrikes,preyedUponBy
+52775,855297,Meles meles,European Badger,preyedUponBy
+52775,,Neovison vison,,preyedUponBy
+52775,12971,Muscicapa striata,Spotted Flycatcher,preyedUponBy
+52775,12038,Lanius collurio,Red-backed Shrike,preyedUponBy
+52775,2191,Merops apiaster,European Bee-eater,preyedUponBy
+52775,198838,Diogmites basalis,,preyedUponBy
+52775,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+52775,,Heriaeus hirtus,,preyedUponBy
+52775,,Promachus bastardii,,preyedUponBy
+52775,,Miomantis caffra,,preyedUponBy
+52775,,Laphria grossa,,preyedUponBy
+52775,,Laphria thoracica,,preyedUponBy
+52775,54327,Vespa crabro,European Hornet,preyedUponBy
+52775,,Promachus rufipes,,preyedUponBy
+52775,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+52775,,Carabus regalis,,preyedUponBy
+52775,,Argiope aurantia,,preyedUponBy
+52775,472662,Rhynocoris punctiventris,,preyedUponBy
+52775,48957,Arilus cristatus,Wheel Bug,preyedUponBy
+52775,71034,Tenodera sinensis,Chinese Mantis,preyedUponBy

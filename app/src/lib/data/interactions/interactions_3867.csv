@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3867,333586,Oligochaeta,Earthworms and allies,preysOn
+3867,54960,Nematoda,Nematodes,preysOn
+3867,68764,Ostracoda,Seed Shrimp,preysOn
+3867,,Carcinonemertes,,preysOn
+3867,,Acteocina inculta,,preysOn
+3867,,Dilepididae,,preysOn
+3867,,Parvatrema,,preysOn
+3867,,Large xiphideocercaria,,preysOn
+3867,,Trichodina,,preysOn
+3867,339200,Himasthla rhigedana,,preysOn
+3867,339245,Himasthla,,preysOn
+3867,,Protothaca,,preysOn
+3867,,Probolocoryphe uca,,preysOn
+3867,,Renicola cerithidicola,,preysOn
+3867,,Picornaviridae,,preysOn
+3867,,Cerithidea californica,,preysOn
+3867,339177,Microphallidae,,preysOn
+3867,339182,Phocitremoides ovale,,preysOn
+3867,339199,Catatropis johnstoni,,preysOn
+3867,123639,Spionidae,,preysOn
+3867,88477,Geonemertes,Greenhouse Proboscis-worms,preysOn
+3867,48051,Phoronida,Horseshoe Worms,preysOn
+3867,209100,Gyrodactylus,,preysOn
+3867,339172,Austrobilharzia,,preysOn
+3867,,Mesostephanus appendiculatoides,,preysOn
+3867,,Eugregarinida,,preysOn
+3867,117564,Clevelandia ios,Arrow Gobi,preysOn
+3867,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+3867,,Melampus,,preysOn
+3867,,Cloacitrema michiganense,,preysOn
+3867,,Ephydra,,preysOn
+3867,,Ergasilus auritus,,preysOn
+3867,,Spirocamallanus pereirai,,preysOn
+3867,339183,Euhaplorchis californiensis,,preysOn
+3867,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+3867,339176,Renicola buchanani,,preysOn
+3867,179533,Fundulus parvipinnis,California Killifish,preysOn
+3867,,Tetraphyllidea,,preysOn
+3867,339249,Acanthoparyphium,,preysOn
+3867,,Hypereteone lighti,,preysOn
+3867,,trypanorynch,,preysOn
+3867,,Hysterolecitha,,preysOn
+3867,64637,Corophium,,preysOn
+3867,339174,Cyathocotylidae,,preysOn
+3867,,Stictodora hancocki,,preysOn
+3867,208368,Capitella capitata,,preysOn
+3867,,Anisogammarus confervicolus,,preysOn
+3867,,Parorchis acanthus,,preysOn
+3867,71256,Tagelus,,preysOn
+3867,,Pygidiopsoides spindalis,,preysOn
+3867,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+3867,559064,Circus cyaneus,Hen Harrier,preyedUponBy
+3867,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy

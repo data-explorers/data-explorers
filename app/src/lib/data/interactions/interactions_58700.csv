@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58700,47351,Prunus,"plums, cherries, and allies",eats
+58700,54834,Prunus serotina,black cherry,eats
+58700,,Prunus pensylvanica,,eats
+58700,,Prunus virginiana,,eats

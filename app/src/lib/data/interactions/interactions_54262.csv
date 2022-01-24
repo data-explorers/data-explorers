@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54262,42054,Vulpes,Typical Foxes,eatenBy
+54262,49031,Orgyia,,eatenBy
+54262,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+54262,123096,Eupithecia,Pug Moths,eatenBy
+54262,81681,Campaea perlata,Pale Beauty,eatenBy
+54262,81682,Campaea,,eatenBy
+54262,490642,Ischnoderma benzoinum,Benzoin Bracket,eatenBy
+54262,48473,Ganoderma applanatum,artist's bracket,eatenBy
+54262,,Ermine,,eatenBy
+54262,,Phymatodes aeneus,,eatenBy
+54262,,Pogonocherus decoratus,,eatenBy
+54262,,Orthotomicus laricis,,eatenBy
+54262,,Asemum striatum,,eatenBy
+54262,,Pogonocherus fasciculatus,,eatenBy
+54262,,Pteryngium crenatum,,eatenBy
+54262,,Ahasverus advena,,eatenBy
+54262,989563,Cryptophagus subdepressus,,eatenBy
+54262,,Corticaria lateritia,,eatenBy
+54262,,Cryptophagus cylindrus,,eatenBy
+54262,,Syndemis afflictana,,eatenBy
+54262,,Homonopsis foederatana,,eatenBy
+54262,,Choristoneura occidentalis,,eatenBy
+54262,,Cydia strobilella,,eatenBy
+54262,,Archips packardiana,,eatenBy
+54262,,Epinotia fraternana,,eatenBy
+54262,233966,Zeiraphera fortunana,Yellow Spruce Budworm Moth,eatenBy
+54262,,Zeiraphera,,eatenBy
+54262,,Acleris abietana,,eatenBy
+54262,,Archips fumosus,,eatenBy
+54262,,Argyrotaenia ljungiana,,eatenBy
+54262,,Cydia coniferana,,eatenBy
+54262,,Zeiraphera rufimitrana,,eatenBy
+54262,,Cydia kamijoi,,eatenBy
+54262,358819,Piniphila bifasciana,Pine Marble,eatenBy
+54262,1336280,Pseudohermenias ajanensis,,eatenBy
+54262,,Eucosma tocullionana,,eatenBy
+54262,,Zeiraphera canadensis,,eatenBy
+54262,,Amorbia humerosana,,eatenBy
+54262,,Aphelia viburnana,,eatenBy
+54262,,Olethreutes tephrea,,eatenBy
+54262,,Aphelia viburniana,,eatenBy
+54262,,Pseudohermenias hercyniana,,eatenBy
+54262,,Cydia youngana,,eatenBy
+54262,,Zeiraphera truncata,,eatenBy
+54262,,Synanthedon cephiformis,,eatenBy
+54262,472750,Archips issikii,,eatenBy
+54262,,Coenobiodes abietiella,,eatenBy
+54262,,Dioryctria abietivorella,,eatenBy
+54262,,Chrysoteuchia topiaria,,eatenBy
+54262,894927,Conogethes punctiferalis,,eatenBy
+54262,,Dioryctria schuetzeella,,eatenBy
+54262,,Xestia mustelina,,eatenBy
+54262,,Syngrapha celsa,,eatenBy
+54262,,Dasychira grisefacta,,eatenBy
+54262,,Dendrolimus pini,,eatenBy
+54262,,Dasychira plagiata,,eatenBy
+54262,,Orgyia pseudotsugata,,eatenBy
+54262,,Thera britannica,,eatenBy
+54262,219833,Eupithecia spermaphaga,fir cone looper,eatenBy
+54262,,Cosmotriche lunigera,,eatenBy
+54262,,Galenara consimilis,,eatenBy
+54262,,Coleotechnites granti,,eatenBy
+54262,,Semiothisa bisignata,,eatenBy
+54262,,Nemoria mimosaria,,eatenBy
+54262,,Eupithecia luteata,,eatenBy
+54262,,Eilema bicolor,,eatenBy
+54262,,Ips typographus,,eatenBy
+54262,499740,Lophodermium piceae,,eatenBy
+54262,,Ascocalyx berenice,,eatenBy
+54262,,Viscum album,,eatenBy
+54262,,Neophasia menapia,,eatenBy
+54262,,Orgyia antiqua,,eatenBy
+54262,,Calliteara abietis,,eatenBy
+54262,,Panolis flammea,,eatenBy
+54262,,Lambdina fiscellaria,,eatenBy
+54262,,Pero behrensarius,,eatenBy
+54262,,Nepytia phantasmaria,,eatenBy
+54262,,Xeris spectrum,,eatenBy
+54262,542313,Neodiprion abietis,Balsam Fir Sawfly,eatenBy
+54262,,Thallophaga hyperborea,,eatenBy
+54262,,Caripeta,,eatenBy
+54262,,Epirrita autumnata,,eatenBy
+54262,56582,Lasiocampa quercus,Oak Eggar,eatenBy
+54262,,Enypia venata,,eatenBy
+54262,,Synaxis pallulata,,eatenBy
+54262,793910,Sirex juvencus,Steely-blue Woodwasp,eatenBy
+54262,,Protoboarmia porcelaria,,eatenBy
+54262,,Sirex noctilio,,eatenBy
+54262,,Acleris gloveranus,,eatenBy
+54262,,Epinotia radicana,,eatenBy
+54262,,Aspidites,,eatenBy
+54262,,Lymantria,,eatenBy
+54262,,Physokermes hemichryphus,,eatenBy
+54262,,Dynaspidiotus tsugae,,eatenBy
+54262,,Dryocoetes confusus,,eatenBy
+54262,219218,Enypia griseata,Mountain Girdle Moth,eatenBy
+54262,,Fiorinia japonica,,eatenBy
+54262,,Chionaspis pinifoliae,,eatenBy
+54262,,Lepidosaphes,,eatenBy
+54262,,Paracroesia,,eatenBy
+54262,,Dendrophagus crenatus,,preyedUponBy
+54262,,Ipidia binotata,,preyedUponBy
+54262,,Colydium elongatum,,preyedUponBy
+54262,,Pediacus depressus,,preyedUponBy
+54262,,Pytho abieticola,,preyedUponBy
+54262,,Phloeopora corticalis,,preyedUponBy

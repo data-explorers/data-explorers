@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+334567,,Grewia occident,,eats
+334567,47219,Apis mellifera,Western Honey Bee,eatenBy
+334567,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy

@@ -1,0 +1,127 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61356,55883,Hedera,ivies,eats
+61356,47219,Apis mellifera,Western Honey Bee,eats
+61356,60448,Metrosideros,Rātā and allies,eats
+61356,,Reynoutria japonica,,eats
+61356,83058,Camellia,Camellias,eats
+61356,47518,Salmo trutta,Brown Trout,eats
+61356,,Eucalyptus nitens,,eats
+61356,,Buddleja cordata,,eats
+61356,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+61356,17356,Vireo bellii,Bell's Vireo,eatenBy
+61356,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+61356,9921,Piranga olivacea,Scarlet Tanager,eatenBy
+61356,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+61356,,Vermivora luciae,,eatenBy
+61356,,Icteria virens,,eatenBy
+61356,,Dendroica petechia,,eatenBy
+61356,,Bryconamericus alpha,,eatenBy
+61356,41641,Ursus arctos,Brown Bear,eatenBy
+61356,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+61356,,Promachus rufipes,,eatenBy
+61356,855297,Meles meles,European Badger,eatenBy
+61356,,Pinicola enucleator,,eatenBy
+61356,6667,Cypseloides niger,Black Swift,eatenBy
+61356,85320,Monarda fistulosa,wild bergamot,pollinates
+61356,52935,Eupatorium,bonesets,pollinates
+61356,48699,Apiaceae,carrot family,pollinates
+61356,153441,Symphyotrichum cordifolium,Common Blue Wood Aster,pollinates
+61356,54834,Prunus serotina,black cherry,pollinates
+61356,116735,Rudbeckia laciniata,cutleaf coneflower,pollinates
+61356,136376,Rudbeckia triloba,brown-eyed Susan,pollinates
+61356,47544,Rubus,brambles,pollinates
+61356,126655,Eurybia macrophylla,large-leaved aster,pollinates
+61356,58728,Berberis,Barberries,pollinates
+61356,75762,Berteroa incana,hoary alyssum,pollinates
+61356,47452,Acacia,wattles,pollinates
+61356,79109,Silene latifolia,white campion,pollinates
+61356,53186,Potentilla,cinquefoils,pollinates
+61356,50278,Parthenocissus quinquefolia,Virginia creeper,pollinates
+61356,54999,Eriogonum fasciculatum,California buckwheat,pollinates
+61356,60251,Verbena hastata,blue vervain,pollinates
+61356,76907,Erigeron canadensis,horseweed,pollinates
+61356,50809,Scrophularia,figworts,pollinates
+61356,48678,Solidago,goldenrods,pollinates
+61356,130376,Solidago speciosa,showy goldenrod,pollinates
+61356,126654,Symphyotrichum ericoides,white heath aster,pollinates
+61356,57952,Coreopsis,Tickseed,pollinates
+61356,119045,Eupatorium perfoliatum,common boneset,pollinates
+61356,,Physalis lanceolata,,pollinates
+61356,,Anthriscus sylvestris,,pollinates
+61356,,Orthilia secunda,,pollinates
+61356,61875,Styrax,snowbells,pollinates
+61356,54824,Crataegus crus-galli,cockspur hawthorn,pollinates
+61356,161093,Crataegus submollis,Hairy Cockspurthorn,pollinates
+61356,,Cirsium ownbeyi,,pollinates
+61356,,Rhus copallina,,pollinates
+61356,62778,Clematis virginiana,virgin's-bower,pollinates
+61356,,Argemone pleiacantha,,pollinates
+61356,,http://treatment.plazi.org/id/FAFE3A862699660D2A3D0E4616DC7097,,pollinates
+61356,77780,Linnaea borealis,twinflower,pollinates
+61356,,Dasylirion wheeleri,,pollinates
+61356,,Cylindropuntia whipplei,,pollinates
+61356,78268,Opuntia phaeacantha,Brown-spined Pricklypear,pollinates
+61356,,Nolina microcarpa,,pollinates
+61356,,http://treatment.plazi.org/id/F6083B20B0C47675DF76965D6ADE35F3,,pollinates
+61356,,Croton texensis,,pollinates
+61356,,Eriogonum kennedyi,,pollinates
+61356,,Phoradendron serotinum,,pollinates
+61356,925859,Limonium gerberi,,pollinates
+61356,,Corallorhiza striata,,pollinates
+61356,51148,Crataegus,hawthorns,pollinates
+61356,124485,Scrophularia nodosa,Common Figwort,pollinates
+61356,78332,Paeonia brownii,Brown's Peony,pollinates
+61356,,Malaxis unifolia,,pollinates
+61356,,Scutellaria,,pollinates
+61356,,Scrophularia umbrosa,,pollinates
+61356,166349,Penstemon degeneri,Degener's Beardtongue,pollinates
+61356,,Epipactis helleborine,,pollinates
+61356,,Cephalanthus occidentalis,,pollinates
+61356,58795,Apocynum cannabinum,hemp dogbane,pollinates
+61356,,Monarda punctata,,pollinates
+61356,,Phacelia imbricata,,pollinates
+61356,,Penstemon laetus,,pollinates
+61356,,Helenium autumnale,,pollinates
+61356,,Penstemon pallidus,,pollinates
+61356,,Helianthus hirsutus,,pollinates
+61356,,Hydrangea arguta,,pollinates
+61356,60447,Metrosideros polymorpha,'ohi'a lehua,pollinates
+61356,,Argemone glauca,,pollinates
+61356,122525,Freycinetia arborea,'ie'ie,pollinates
+61356,80678,Drymocallis glandulosa glandulosa,,pollinates
+61356,,Sabal maritima,,pollinates
+61356,,Pyxidanthera barbulata,,pollinates
+61356,,Ptilimnium capillaceum,,pollinates
+61356,,Sericocarpus rigidus,,pollinates
+61356,,Ludwigia suffruticosa,,pollinates
+61356,,Oxypolis rigidior,,pollinates
+61356,,Erigeron maguirei,,pollinates
+61356,50716,Epipactis,Helleborines,pollinates
+61356,,Vachellia etbaica,,pollinates
+61356,,Achyranthes bidentata,,pollinates
+61356,,Galactia smallii,,pollinates
+61356,,Chromolaena laevigata,,pollinates
+61356,,Epipactis purpurata,,pollinates
+61356,,Epipogium aphyllum,,pollinates
+61356,82160,Epipactis atrorubens,Dark-red Helleborine,pollinates
+61356,,Epipactis leptochila,,pollinates
+61356,,Nadata gibbosa,,preysOn
+61356,324726,Lycorma delicatula,Spotted Lanternfly,preysOn
+61356,388769,Dumbletonius unimaculatus,,preysOn
+61356,,Uropetala carovei,,preysOn
+61356,506118,Aphelocoma californica,California Scrub-Jay,preyedUponBy
+61356,17013,Sayornis nigricans,Black Phoebe,preyedUponBy
+61356,47133,Badumna,House Spiders,preyedUponBy
+61356,9921,Piranga olivacea,Scarlet Tanager,preyedUponBy
+61356,41377,Taphozous nudiventris,Naked-rumped Tomb Bat,preyedUponBy
+61356,,Pipistrellus tenuis,,preyedUponBy
+61356,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+61356,,Camponotus castaneus,,preyedUponBy
+61356,,Eriophora pustulosa,,preyedUponBy
+61356,,Dolichovespula maculata,,preyedUponBy
+61356,394124,Orthodera novaezealandiae,New Zealand Mantis,preyedUponBy
+61356,855297,Meles meles,European Badger,preyedUponBy
+61356,,Verrucosa arenata,,preyedUponBy
+61356,81746,Necrophila americana,American Carrion Beetle,preyedUponBy
+61356,,Miomantis caffra,,preyedUponBy
+61356,317593,Dasypogon,,preyedUponBy

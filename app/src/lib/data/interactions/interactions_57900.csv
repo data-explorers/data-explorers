@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57900,55626,Pieris rapae,Cabbage White,eatenBy
+57900,520586,Tamias,,eatenBy
+57900,,Loxostege sticticalis,,eatenBy
+57900,,Dipodomys,,eatenBy
+57900,,Lepus californicus,,eatenBy
+57900,,Lepus townsendii,,eatenBy
+57900,,Ancylosis gracilella,,eatenBy
+57900,,Bazaria pempeliella,,eatenBy
+57900,,Auxacia bilineella,,eatenBy
+57900,,Coleophora klimeschiella,,eatenBy
+57900,,Parnassius apollonius,,eatenBy
+57900,9227,Serinus,Eurasian Serins and Canaries,eatenBy
+57900,,Chrysotoxum testaceum ,,pollinatedBy

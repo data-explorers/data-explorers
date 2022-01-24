@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47688,47459,Cephalopoda,Cephalopods,eats
+47688,63770,Engraulis mordax,Northern Anchovy,eats
+47688,47456,Octopus,,eats
+47688,,Genyonemus lineatus,,eats
+47688,179447,Trachurus lathami,Rough Scad,eats
+47688,133207,Liorhyssus hyalinus,Hyaline Grass Bug,eatenBy
+47688,1081332,Lon melane,Umber Skipper,eatenBy
+47688,58532,Colias eurytheme,Orange Sulphur,eatenBy
+47688,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+47688,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+47688,47219,Apis mellifera,Western Honey Bee,eatenBy
+47688,69145,Coenonympha california,Common Ringlet,eatenBy
+47688,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+47688,1409,Callipepla californica,California Quail,eatenBy
+47688,17013,Sayornis nigricans,Black Phoebe,eatenBy
+47688,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+47688,199840,Haemorhous mexicanus,House Finch,eatenBy
+47688,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47688,,Ciampa arietaria,,eatenBy
+47688,,Aricia agestis,,eatenBy
+47688,,Aricia,,eatenBy
+47688,,Aricia chinensis,,eatenBy
+47688,,Aricia cramera,,eatenBy
+47688,,Nathalis iole,,eatenBy
+47688,,Euphydryas editha,,eatenBy
+47688,,Maurus vogelii,,eatenBy
+47688,9227,Serinus,Eurasian Serins and Canaries,eatenBy
+47688,,Hypera (Antidonus) dauci,,eatenBy
+47688,337740,Rhopalus parumpunctatus,,eatenBy
+47688,,Corizus hyoscyami,,eatenBy
+47688,,Arenocoris falleni,,eatenBy
+47688,468911,Megalonotus praetextatus,,eatenBy
+47688,,Odontoscelis (Odontoscelis) lineola,,eatenBy
+47688,,Arenocoris waltlii,,eatenBy
+47688,,Thaumetopoea herculeana,,eatenBy
+47688,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+47688,,Schinia pulchripennis,,eatenBy
+47688,345300,Andrena nigrocaerulea,Blue-and-black Mining Bee,eatenBy
+47688,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+47688,9743,Agelaius tricolor,Tricolored Blackbird,eatenBy
+47688,13732,Anthus rubescens,American Pipit,eatenBy
+47688,145088,Ixoreus naevius,Varied Thrush,eatenBy
+47688,47456,Octopus,,preysOn
+47688,63770,Engraulis mordax,Northern Anchovy,preysOn
+47688,179447,Trachurus lathami,Rough Scad,preysOn
+47688,,Genyonemus lineatus,,preysOn

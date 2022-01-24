@@ -1,0 +1,87 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44396,7458,Certhia americana,Brown Creeper,eats
+44396,71257,Bouteloua gracilis,Blue Grama,eats
+44396,47120,Arthropoda,Arthropods,eats
+44396,47224,Papilionoidea,Butterflies,eats
+44396,47208,Coleoptera,Beetles,eats
+44396,47118,Araneae,Spiders,eats
+44396,47126,Plantae,plants,eats
+44396,47822,Diptera,Flies,eats
+44396,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+44396,,alpine vegetation,,eats
+44396,,Invertebrata,,eats
+44396,,rotting wood,,eats
+44396,,Fungus,,eats
+44396,,Kochia,,eats
+44396,,Furgaleus,,eats
+44396,146898,Artemisia frigida,fringed sagebrush,eats
+44396,,lichen forb/shrub,,eats
+44396,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44396,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44396,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+44396,41976,Lynx rufus,Bobcat,eatenBy
+44396,41801,Mustela,,eatenBy
+44396,42069,Vulpes vulpes,Red Fox,eatenBy
+44396,19350,Strigiformes,Owls,eatenBy
+44396,42051,Canis latrans,Coyote,eatenBy
+44396,19893,Strix varia,Barred Owl,eatenBy
+44396,46341,Soricidae,Shrews,eatenBy
+44396,41944,Felidae,Felids,eatenBy
+44396,20445,Tyto alba,Barn Owl,eatenBy
+44396,118552,Felis catus,Domestic Cat,eatenBy
+44396,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+44396,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+44396,4665,Falco sparverius,American Kestrel,eatenBy
+44396,558446,Circus hudsonius,Northern Harrier,eatenBy
+44396,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+44396,20307,Asio otus,Long-eared Owl,eatenBy
+44396,,number RMRP ID: 11-023,,eatenBy
+44396,,Denver Zoology Tissue Bird 564,,eatenBy
+44396,,Denver Zoology Tissue Bird 586,,eatenBy
+44396,,number RMRP ID: 11-029,,eatenBy
+44396,19975,Athene cunicularia,Burrowing Owl,eatenBy
+44396,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+44396,,http://arctos.database.museum/guid/DMNS:Bird:44431,,eatenBy
+44396,,http://arctos.database.museum/guid/DMNS:Bird:34777,,eatenBy
+44396,,http://arctos.database.museum/guid/DMNS:Bird:34623,,eatenBy
+44396,41641,Ursus arctos,Brown Bear,eatenBy
+44396,42048,Canis lupus,Gray Wolf,eatenBy
+44396,41798,Martes americana,American Marten,eatenBy
+44396,,Martes pennanti,,eatenBy
+44396,42077,Urocyon littoralis,Island Fox,eatenBy
+44396,58393,Spilogale gracilis,Western Spotted Skunk,eatenBy
+44396,42070,Vulpes macrotis,Kit Fox,eatenBy
+44396,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+44396,20315,Asio flammeus,Short-eared Owl,eatenBy
+44396,144594,Bubo scandiacus,Snowy Owl,eatenBy
+44396,210600,Lanius ludovicianus mearnsi,San Clemente Loggerhead Shrike,eatenBy
+44396,19959,Strix occidentalis,Spotted Owl,eatenBy
+44396,19890,Strix nebulosa,Great Gray Owl,eatenBy
+44396,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+44396,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+44396,20359,Aegolius funereus,Boreal Owl,eatenBy
+44396,,Aquila chrysaetos,,eatenBy
+44396,4644,Falco mexicanus,Prairie Falcon,eatenBy
+44396,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+44396,558512,Lanius borealis,Northern Shrike,eatenBy
+44396,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+44396,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+44396,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+44396,48268,Crotalus oreganus,Western Rattlesnake,preyedUponBy
+44396,29044,Pituophis catenifer,Gopher Snake,preyedUponBy
+44396,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+44396,4665,Falco sparverius,American Kestrel,preyedUponBy
+44396,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+44396,60347,Pituophis catenifer sayi,Bullsnake,preyedUponBy
+44396,,Thamnophis scalaris,,preyedUponBy
+44396,27203,Clelia scytalina,Mexican Snake Eater,preyedUponBy
+44396,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+44396,243962,Charina bottae,Northern Rubber Boa,preyedUponBy
+44396,,Coluber flagellum,,preyedUponBy
+44396,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy
+44396,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+44396,,Crotalus viridis,,preyedUponBy
+44396,236842,Lichanura trivirgata,Desert Rosy Boa,preyedUponBy
+44396,515419,Lampropeltis triangulum,Eastern Milksnake,preyedUponBy
+44396,12024,Lanius ludovicianus,Loggerhead Shrike,preyedUponBy
+44396,5355,Parabuteo unicinctus,Harris's Hawk,preyedUponBy

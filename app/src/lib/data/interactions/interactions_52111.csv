@@ -1,0 +1,82 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52111,129363,Calephelis nemesis,Fatal Metalmark,eatenBy
+52111,55520,Gnorimoschema,,eatenBy
+52111,55517,Gnorimoschema baccharisella,Coyote Brush Stem Gall Moth,eatenBy
+52111,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+52111,47219,Apis mellifera,Western Honey Bee,eatenBy
+52111,49133,Vanessa atalanta,Red Admiral,eatenBy
+52111,50931,Strymon melinus,Gray Hairstreak,eatenBy
+52111,1021509,Junonia grisea,Gray Buckeye,eatenBy
+52111,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+52111,84640,Polistes dominula,European Paper Wasp,eatenBy
+52111,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+52111,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+52111,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+52111,1267536,Tharsalea helloides,Purplish Copper,eatenBy
+52111,48548,Vanessa cardui,Painted Lady,eatenBy
+52111,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+52111,199840,Haemorhous mexicanus,House Finch,eatenBy
+52111,7266,Psaltriparus minimus,Bushtit,eatenBy
+52111,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+52111,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+52111,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+52111,57665,Cotinis mutabilis,Figeater Beetle,eatenBy
+52111,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+52111,,Rhapalomyia,,eatenBy
+52111,,Epiphyas postvittana,,eatenBy
+52111,,Sonia paraplesiana,,eatenBy
+52111,247600,Cryptothelea,,eatenBy
+52111,,Oidaematophorus,,eatenBy
+52111,257417,Oiketicus toumeyi,,eatenBy
+52111,,Chalodeta,,eatenBy
+52111,143105,Pleuroprucha insulsaria,Common Tan Wave,eatenBy
+52111,,Stenalcidia pampinaria,,eatenBy
+52111,,Aristotelia,,eatenBy
+52111,1106242,Dichomeris serrativittella,Toothed Dichomeris Moth and Close Allies,eatenBy
+52111,,Bucculatrix ivella,,eatenBy
+52111,,Rhapalomyia sp.,,eatenBy
+52111,,Tetranychus urticae,,eatenBy
+52111,,Compsomyiops calllipes,,eatenBy
+52111,,Phyciodes mylitta,,eatenBy
+52111,55719,Eristalis tenax,Common Drone Fly,eatenBy
+52111,,Eristalis hirta,,eatenBy
+52111,,Synanthedon bibionipennis,,eatenBy
+52111,,Pachodynerus erynnis,,eatenBy
+52111,,Sphex lucae,,eatenBy
+52111,,Isodontia mexicana,,eatenBy
+52111,,Coenonympha california california,,eatenBy
+52111,,Dolichovespula maculata,,eatenBy
+52111,,Vespula alascensis,,eatenBy
+52111,,Trirhabda bacharidis,,eatenBy
+52111,,Paradejeania rutilioides,,eatenBy
+52111,,Stenaspis solitaria,,eatenBy
+52111,,Chauliognathus lecontei,,eatenBy
+52111,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+52111,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+52111,132105,Tiphiidae,Tiphiid Flower Wasps,pollinatedBy
+52111,52756,Polistes,Umbrella Paper Wasps,pollinatedBy
+52111,52932,Cantharidae,Soldier Beetles,pollinatedBy
+52111,58753,Toxomerus,Calligrapher Flies,pollinatedBy
+52111,63187,Braconidae,Braconid Wasps,pollinatedBy
+52111,54028,Pompilidae,Spider Wasps,pollinatedBy
+52111,49995,Syrphidae,Hover Flies,pollinatedBy
+52111,126149,Chrysididae,Cuckoo Wasps,pollinatedBy
+52111,245000,Leucospidae,,pollinatedBy
+52111,51953,Tachinidae,Bristle Flies,pollinatedBy
+52111,47822,Diptera,Flies,pollinatedBy
+52111,47158,Insecta,Insects,pollinatedBy
+52111,47220,Apis,Honey Bees,pollinatedBy
+52111,,Jurinella corpulenta,,pollinatedBy
+52111,,Mischocyttarus drewseni,,pollinatedBy
+52111,752527,Polybia fastidiosuscula,,pollinatedBy
+52111,,Curtonotidae,,pollinatedBy
+52111,,Protonectarina sylveirae,,pollinatedBy
+52111,,Brachygastra lecheguana,,pollinatedBy
+52111,,Sciaridae,,pollinatedBy
+52111,,Agelaia vicina,,pollinatedBy
+52111,,Prionyx thomae,,pollinatedBy
+52111,,Syrphus,,pollinatedBy
+52111,,Polybia scutellaris,,pollinatedBy
+52111,,Trigona spinipes,,pollinatedBy
+52111,,Schwarziana quadripunctata,,pollinatedBy
+52111,752705,Protopolybia sedula,,pollinatedBy

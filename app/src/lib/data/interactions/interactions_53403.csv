@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53403,121716,Uresiphita reversalis,Genista Broom Moth,eatenBy
+53403,47219,Apis mellifera,Western Honey Bee,eatenBy
+53403,121717,Uresiphita,,eatenBy
+53403,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+53403,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+53403,52775,Bombus,Bumble Bees,eatenBy
+53403,,Hemiphaga novaeseelandiae,,eatenBy
+53403,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy

@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44062,47124,Magnoliopsida,dicots,eats
+44062,76541,Cucurbita pepo,American pumpkin,eats
+44062,4956,Ardea herodias,Great Blue Heron,eatenBy
+44062,42051,Canis latrans,Coyote,eatenBy
+44062,4665,Falco sparverius,American Kestrel,eatenBy
+44062,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+44062,144455,Ardea alba,Great Egret,eatenBy
+44062,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44062,5277,Elanus leucurus,White-tailed Kite,eatenBy
+44062,1264431,Neogale frenata,Long-tailed Weasel,eatenBy
+44062,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+44062,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44062,20445,Tyto alba,Barn Owl,eatenBy
+44062,41798,Martes americana,American Marten,eatenBy
+44062,,Martes pennanti,,eatenBy
+44062,42070,Vulpes macrotis,Kit Fox,eatenBy
+44062,20315,Asio flammeus,Short-eared Owl,eatenBy
+44062,20307,Asio otus,Long-eared Owl,eatenBy
+44062,19975,Athene cunicularia,Burrowing Owl,eatenBy
+44062,4644,Falco mexicanus,Prairie Falcon,eatenBy
+44062,,Aquila chrysaetos,,eatenBy
+44062,29044,Pituophis catenifer,Gopher Snake,preyedUponBy
+44062,4665,Falco sparverius,American Kestrel,preyedUponBy
+44062,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+44062,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+44062,42051,Canis latrans,Coyote,preyedUponBy
+44062,118552,Felis catus,Domestic Cat,preyedUponBy
+44062,47144,Canis familiaris,Domestic Dog,preyedUponBy
+44062,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+44062,144455,Ardea alba,Great Egret,preyedUponBy
+44062,5277,Elanus leucurus,White-tailed Kite,preyedUponBy
+44062,19350,Strigiformes,Owls,preyedUponBy
+44062,41976,Lynx rufus,Bobcat,preyedUponBy
+44062,20445,Tyto alba,Barn Owl,preyedUponBy
+44062,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+44062,30748,Crotalus enyo,Lower California Rattlesnake,preyedUponBy
+44062,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+44062,20356,Aegolius acadicus,Northern Saw-whet Owl,preyedUponBy
+44062,4644,Falco mexicanus,Prairie Falcon,preyedUponBy

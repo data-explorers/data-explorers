@@ -1,0 +1,180 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+26172,2548,Megaceryle alcyon,Belted Kingfisher,eats
+26172,46095,Marmota monax,Groundhog,eats
+26172,55746,Misumena vatia,Goldenrod Crab Spider,eats
+26172,46272,Glaucomys volans,Southern Flying Squirrel,eats
+26172,46020,Sciurus niger,Fox Squirrel,eats
+26172,46217,Tamias striatus,Eastern Chipmunk,eats
+26172,5020,Butorides virescens,Green Heron,eats
+26172,59815,Sorex cinereus,Masked Shrew,eats
+26172,44311,Microtus pennsylvanicus,Meadow Vole,eats
+26172,44395,Peromyscus leucopus,White-footed Mouse,eats
+26172,41663,Procyon lotor,Common Raccoon,eats
+26172,18236,Colaptes auratus,Northern Flicker,eats
+26172,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+26172,,Phytoplankton,,eats
+26172,24267,Pseudacris triseriata,Western Chorus Frog,eats
+26172,569428,Mustela nivalis,Least Weasel,eats
+26172,,Spermophilus tridecemlineatus,,eats
+26172,116539,Paleosuchus trigonatus,Schneider's Dwarf Caiman,eats
+26172,73788,Plestiodon fasciatus,Common Five-lined Skink,eats
+26172,28562,Storeria dekayi,Dekay's Brownsnake,eats
+26172,44705,Mus musculus,House Mouse,eats
+26172,40509,Eptesicus fuscus,Big Brown Bat,eats
+26172,27186,Plethodon cinereus,Eastern Red-backed Salamander,eats
+26172,129260,Orchelimum vulgare,Common Meadow Katydid,eats
+26172,,Aporosaura,,eats
+26172,,Typhlosaurus,,eats
+26172,41976,Lynx rufus,Bobcat,eatenBy
+26172,49609,Cyprinidae,Cyprinids,eatenBy
+26172,20044,Bubo virginianus,Great Horned Owl,eatenBy
+26172,3,Aves,Birds,eatenBy
+26172,144455,Ardea alba,Great Egret,eatenBy
+26172,4665,Falco sparverius,American Kestrel,eatenBy
+26172,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+26172,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+26172,4940,Egretta thula,Snowy Egret,eatenBy
+26172,4756,Cathartes aura,Turkey Vulture,eatenBy
+26172,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+26172,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+26172,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+26172,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+26172,851014,Canis aureus,Golden Jackal,eatenBy
+26172,41824,Galictis cuja,Lesser Grison,eatenBy
+26172,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+26172,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+26172,40195,Dasykaluta rosamondae,Little Red Kaluta,eatenBy
+26172,41808,Mustela erminea,Eurasian Stoat,eatenBy
+26172,41963,Panthera pardus,Leopard,eatenBy
+26172,42077,Urocyon littoralis,Island Fox,eatenBy
+26172,41967,Panthera tigris,Tiger,eatenBy
+26172,20307,Asio otus,Long-eared Owl,eatenBy
+26172,49597,Salvelinus,Chars,eatenBy
+26172,47644,Cottus,Freshwater Sculpins,eatenBy
+26172,89615,Lota,,eatenBy
+26172,91345,Prosopium,Freshwater Whitefishes,eatenBy
+26172,48404,Gasterosteus,Threespine Sticklebacks,eatenBy
+26172,553515,Rhinella marina,Cane Toad,eatenBy
+26172,19975,Athene cunicularia,Burrowing Owl,eatenBy
+26172,104980,Maccullochella peelii,Murray Cod,eatenBy
+26172,112580,Silurus aristotelis,Aristotle’s Catfish,eatenBy
+26172,187548,Hucho taimen,Siberian Taimen,eatenBy
+26172,93844,Ameiurus catus,White Catfish,eatenBy
+26172,,Grus canadensis,,eatenBy
+26172,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+26172,5017,Bubulcus ibis,Cattle Egret,eatenBy
+26172,,Aquila chrysaetos,,eatenBy
+26172,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+26172,19754,Megascops nudipes,Puerto Rican Screech-Owl,eatenBy
+26172,9609,Quiscalus niger,Greater Antillean Grackle,eatenBy
+26172,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+26172,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+26172,4937,Egretta caerulea,Little Blue Heron,eatenBy
+26172,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+26172,558512,Lanius borealis,Northern Shrike,eatenBy
+26172,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+26172,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+26172,5416,Ictinia mississippiensis,Mississippi Kite,eatenBy
+26172,4938,Egretta tricolor,Tricolored Heron,eatenBy
+26172,327720,Erythrina velutina,,pollinates
+26172,40870,Pteropus,Flying Foxes,preysOn
+26172,30692,Crotalus,Rattlesnakes,preyedUponBy
+26172,4665,Falco sparverius,American Kestrel,preyedUponBy
+26172,29404,Mastigodryas melanolomus,Dryad Snake,preyedUponBy
+26172,26821,Drymoluber dichrous,Northern Woodland Racer,preyedUponBy
+26172,146320,Oxyrhopus petolarius,Forest Flame Snake,preyedUponBy
+26172,28766,Rhinobothryum lentiginosum,Amazon Banded Snake,preyedUponBy
+26172,115819,Mastigodryas boddaerti boddaerti,,preyedUponBy
+26172,28246,Arizona elegans,Glossy Snake,preyedUponBy
+26172,28538,Tachymenis chilensis,Chilean Slender Snake,preyedUponBy
+26172,29976,Helicops angulatus,Mountain Keelback,preyedUponBy
+26172,,Mastigodryas bifossatus,,preyedUponBy
+26172,29157,Oxyrhopus trigeminus,Brazilian False Coral Snake,preyedUponBy
+26172,27149,Coluber constrictor constrictor,Northern Black Racer,preyedUponBy
+26172,30335,Drymarchon corais,Indigo Snake,preyedUponBy
+26172,30378,Dipsas pavonina,Northern Snail-eater,preyedUponBy
+26172,29395,Mastigodryas boddaerti,Boddaert's Tropical Racer,preyedUponBy
+26172,28942,Pseudoboa nigra,Black False Boa,preyedUponBy
+26172,146173,Hypsiglena chlorophaea,Desert Nightsnake,preyedUponBy
+26172,114565,Tropidodryas serra,Serra Snake,preyedUponBy
+26172,29166,Oxyrhopus guibei,Guibe´s Flame Snake,preyedUponBy
+26172,30152,Erythrolamprus aesculapii,Aesculapian False Coral Snake,preyedUponBy
+26172,30352,Drepanoides anomalus,Black-collared Snake,preyedUponBy
+26172,29873,Imantodes cenchoa,Common Blunt-headed Tree Snake,preyedUponBy
+26172,,Liophis poecilogyrus,,preyedUponBy
+26172,28256,Tropidodryas striaticeps,Jiboinha,preyedUponBy
+26172,26835,Drymobius margaritiferus,Speckled Racer,preyedUponBy
+26172,115771,Leptodeira annulata annulata,,preyedUponBy
+26172,146537,Xenodon dorbignyi,South American Hognose Snake,preyedUponBy
+26172,26583,Diadophis punctatus regalis,Regal Ringneck Snake,preyedUponBy
+26172,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+26172,912622,Agkistrodon contortrix,Eastern Copperhead,preyedUponBy
+26172,29105,Philodryas olfersii,Lichtenstein's Green Racer,preyedUponBy
+26172,104905,Lygophis anomalus,Gunther´s Striped Snake,preyedUponBy
+26172,29112,Philodryas chamissonis,Chilean Green Racer,preyedUponBy
+26172,29055,Phyllorhynchus decurtatus,Western Leaf-nosed Snake,preyedUponBy
+26172,26609,Dendrophidion percarinatum,Barred Forest Racer,preyedUponBy
+26172,26830,Drymobius rhombifer,Esmarald Racer,preyedUponBy
+26172,,Coluber flagellum testaceus,,preyedUponBy
+26172,30183,Emmochliophis miops,,preyedUponBy
+26172,1250059,Philodryas agassizii,Scorpion Snake,preyedUponBy
+26172,29178,Oxybelis fulgidus,Green Vine Snake,preyedUponBy
+26172,32282,Cylindrophis melanotus,Black Pipe Snake,preyedUponBy
+26172,29688,Leptophis ahaetulla,Giant Parrot Snake,preyedUponBy
+26172,29256,Oligodon formosanus,Taiwan Kukri Snake,preyedUponBy
+26172,146547,Xenodon semicinctus,Ringed Hognose Snake,preyedUponBy
+26172,28337,Thelotornis capensis capensis,Southern Vine Snake,preyedUponBy
+26172,35270,Echiopsis curta,Bardick,preyedUponBy
+26172,30767,Bothrops,Neotropical Lanceheads,preyedUponBy
+26172,30652,Hemachatus haemachatus,Rinkhals,preyedUponBy
+26172,28651,Siphlophis worontzowi,Worontzow's Spotted Night Snake,preyedUponBy
+26172,35049,Cacophis harriettae,White-crowned Snake,preyedUponBy
+26172,30784,Bothrops moojeni,Brazilian Lancehead,preyedUponBy
+26172,30748,Crotalus enyo,Lower California Rattlesnake,preyedUponBy
+26172,32314,Tropidophis melanurus,Cuban Dwarf Boa,preyedUponBy
+26172,29007,Prosymna sundevalli,Lineolate Shovel-snout,preyedUponBy
+26172,,Philodryas georgeboulengeri,,preyedUponBy
+26172,63998,Coniophanes piceivittis,Sooty Black-striped Snake,preyedUponBy
+26172,111618,Rhadinella hempsteadae,Hempstead's Pine Woods Snake,preyedUponBy
+26172,30796,Bothrops brazili,Brazil's Lancehead,preyedUponBy
+26172,,Bothrops matogrossensis,,preyedUponBy
+26172,29223,Oligodon sublineatus,Duméril's Kukri Snake,preyedUponBy
+26172,966805,Stegonotus cucullatus,Bird's Head Peninsula Groundsnake,preyedUponBy
+26172,82808,Crotaphopeltis hotamboeia,Red-lipped Snake,preyedUponBy
+26172,35046,Cacophis squamulosus,Golden Crowned Snake,preyedUponBy
+26172,29018,Prosymna frontalis,South-western African Shovel-snout,preyedUponBy
+26172,29273,Oligodon arnensis,Banded kukri,preyedUponBy
+26172,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+26172,27650,Boiga trigonata,Common Cat Snake,preyedUponBy
+26172,116500,Atractaspis corpulenta,Fat Burrowing Asp,preyedUponBy
+26172,74009,Zamenis longissimus,Aesculapian Snake,preyedUponBy
+26172,30721,Crotalus triseriatus,Dusky Rattlesnake,preyedUponBy
+26172,29014,Prosymna janii,Mozambique Shovel-snout,preyedUponBy
+26172,539420,Bothrops pauloensis,Cerrado Lancehead,preyedUponBy
+26172,29153,Oxyrhopus rhombifer,Amazon False Coral Snake,preyedUponBy
+26172,27249,Chironius scurrulus,Wagler's Sipo,preyedUponBy
+26172,111617,Rhadinaea decorata,Adorned Graceful Brown Snake,preyedUponBy
+26172,29003,Prosymna ambigua,Angolan Shovel-snout,preyedUponBy
+26172,28955,Psammophylax tritaeniatus,Striped Skaapsteker,preyedUponBy
+26172,27000,Coniophanes fissidens,Brown Spotbelly,preyedUponBy
+26172,29229,Oligodon purpurascens,Brown Kukri Snake,preyedUponBy
+26172,27722,Toxicodryas blandingii,Blandings Tree Snake,preyedUponBy
+26172,30487,Naja nivea,Cape Cobra,preyedUponBy
+26172,145794,Rhadinella hannsteini,Hannstein's Spot-lipped Snake,preyedUponBy
+26172,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy
+26172,116496,Atractaspis bibronii,Southern Stiletto Snake,preyedUponBy
+26172,28985,Psammophis crucifer,Cross-marked Sand Snake,preyedUponBy
+26172,28762,Rhinocheilus lecontei,Long-nosed Snake,preyedUponBy
+26172,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+26172,32278,Cylindrophis ruffus,Red Cylinder Snake,preyedUponBy
+26172,95802,Bitis caudalis,Horned Adder,preyedUponBy
+26172,347139,Bothrops ammodytoides,Patagonia Lancehead,preyedUponBy
+26172,30740,Crotalus lepidus,Rock Rattlesnake,preyedUponBy
+26172,35245,Hemiaspis signata,Black-bellied Swamp Snake,preyedUponBy
+26172,56629,Psammophis mossambicus,Olive Whip Snake,preyedUponBy
+26172,27131,Bamanophis dorri,Dorr's Racer,preyedUponBy
+26172,28994,Psammophis leopardinus,Leopard Grass Snake,preyedUponBy
+26172,539416,Bothrops itapetiningae,São Paulo Lancehead,preyedUponBy
+26172,30743,Crotalus lepidus klauberi,Banded Rock Rattlesnake,preyedUponBy
+26172,95916,Bothrops leucurus,Whitetail Lancehead,preyedUponBy
+26172,27618,Boiruna sertaneja,,preyedUponBy

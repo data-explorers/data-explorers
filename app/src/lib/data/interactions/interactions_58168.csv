@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58168,55626,Pieris rapae,Cabbage White,eatenBy
+58168,53843,Brephidium exilis,Western Pygmy-Blue,eatenBy
+58168,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+58168,50931,Strymon melinus,Gray Hairstreak,eatenBy
+58168,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+58168,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+58168,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+58168,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+58168,84640,Polistes dominula,European Paper Wasp,eatenBy
+58168,47219,Apis mellifera,Western Honey Bee,eatenBy
+58168,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+58168,76553,Cuscuta pacifica,Pacific goldenthread,eatenBy
+58168,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+58168,53072,Bembix americana,American Sand Wasp,eatenBy
+58168,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+58168,59194,Ochlodes sylvanoides,Woodland Skipper,eatenBy
+58168,,Burnsius communis,,eatenBy
+58168,,Eristalinus aeneus,,eatenBy
+58168,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+58168,47158,Insecta,Insects,pollinatedBy
+58168,7086,Branta,Black Geese,preyedUponBy
+58168,473,Fulica americana,American Coot,preyedUponBy
+58168,6930,Anas platyrhynchos,Mallard,preyedUponBy
+58168,850859,Oxyura jamaicensis,Ruddy Duck,preyedUponBy
+58168,6933,Anas acuta,Northern Pintail,preyedUponBy
+58168,7054,Aythya affinis,Lesser Scaup,preyedUponBy

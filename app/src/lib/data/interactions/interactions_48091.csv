@@ -1,0 +1,85 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48091,13858,Passer domesticus,House Sparrow,eats
+48091,,Detritus,,eats
+48091,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+48091,13858,Passer domesticus,House Sparrow,eatenBy
+48091,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+48091,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+48091,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+48091,81839,Platycryptus undatus,Tan Jumping Spider,eatenBy
+48091,68062,Menemerus bivittatus,Gray Wall Jumping Spider,eatenBy
+48091,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+48091,68901,Salticus scenicus,Zebra Jumping Spider,eatenBy
+48091,244407,Zelus renardii,Leafhopper Assassin Bug,eatenBy
+48091,519,Porphyrio martinica,Purple Gallinule,eatenBy
+48091,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+48091,16602,Empidonax minimus,Least Flycatcher,eatenBy
+48091,,Setophaga virens,,eatenBy
+48091,,Empidonax traillii,,eatenBy
+48091,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+48091,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+48091,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+48091,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+48091,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+48091,,Oxytate striatipes,,eatenBy
+48091,126155,Vespula germanica,German Yellowjacket,eatenBy
+48091,,Zelus longipes,,eatenBy
+48091,50867,Argiope bruennichi,Wasp Spider,eatenBy
+48091,157990,Menemerus semilimbatus,,eatenBy
+48091,59281,Thomisus onustus,Pink Crab Spider,eatenBy
+48091,,Phymata pacifica,,eatenBy
+48091,,Geophagus brasiliensis,,eatenBy
+48091,,Astyanax scabripinnis,,eatenBy
+48091,,Imparfinis mirini,,eatenBy
+48091,58996,Clematis ligusticifolia,western virgin's bower,pollinates
+48091,81579,Steatoda triangulosa,Triangulate Combfoot,preyedUponBy
+48091,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+48091,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+48091,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+48091,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+48091,48124,Tettigoniidae,Katydids,preyedUponBy
+48091,,Geophagus brasiliensis,,preyedUponBy
+48091,,Imparfinis mirini,,preyedUponBy
+48091,,Astyanax scabripinnis,,preyedUponBy
+48091,157990,Menemerus semilimbatus,,preyedUponBy
+48091,59281,Thomisus onustus,Pink Crab Spider,preyedUponBy
+48091,,Dioctria rufipes,,preyedUponBy
+48091,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+48091,318818,Runcinia grammica,,preyedUponBy
+48091,,Nigma flavescens,,preyedUponBy
+48091,,Mellinus arvensis,,preyedUponBy
+48091,245656,Synema globosum,Napoleon Spider,preyedUponBy
+48091,,Sympetrum striolatum,,preyedUponBy
+48091,,Diaea dorsata,,preyedUponBy
+48091,155279,Zygiella x-notata,Silver-sided Sector Spider,preyedUponBy
+48091,,Chira,,preyedUponBy
+48091,,Setophaga townsendi,,preyedUponBy
+48091,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+48091,,Myrmaplata plataleoides,,preyedUponBy
+48091,,Atomosia puella,,preyedUponBy
+48091,,Hyla arborea,,preyedUponBy
+48091,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+48091,153747,Robertus,,preyedUponBy
+48091,784329,Robertus insignis,,preyedUponBy
+48091,498635,Lithobius piceus,,preyedUponBy
+48091,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+48091,,Haemopis sanguisuga,,preyedUponBy
+48091,25591,Rana temporaria,European Common Frog,preyedUponBy
+48091,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+48091,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+48091,,Anguis fragilis,,preyedUponBy
+48091,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+48091,74697,Myotis bechsteinii,Bechstein's bat,preyedUponBy
+48091,,Plecotus auritus,,preyedUponBy
+48091,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+48091,75224,Vespadelus darlingtoni,Large Forest Bat,preyedUponBy
+48091,74341,Falsistrellus tasmaniensis,Eastern False Pipistrelle,preyedUponBy
+48091,40691,Rhinolophus mehelyi,Mehely's horseshoe bat,preyedUponBy
+48091,40629,Lasionycteris noctivagans,Silver-haired Bat,preyedUponBy
+48091,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+48091,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+48091,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+48091,40576,Nyctalus lasiopterus,Giant Noctule,preyedUponBy
+48091,,Dolichovespula sylvestris,,preyedUponBy
+48091,129878,Nabidae,Damsel Bugs,preyedUponBy
+48091,887499,Himacerus boops,,preyedUponBy

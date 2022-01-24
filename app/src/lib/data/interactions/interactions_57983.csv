@@ -1,0 +1,182 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57983,57983,Helianthus annuus,Common Sunflower,eats
+57983,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+57983,47982,Asilidae,Robber Flies,eatenBy
+57983,83201,Thysanoptera,Thrips,eatenBy
+57983,125816,Auchenorrhyncha,True Hoppers,eatenBy
+57983,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+57983,146953,Geocoris,,eatenBy
+57983,330929,Creontiades,,eatenBy
+57983,48548,Vanessa cardui,Painted Lady,eatenBy
+57983,52775,Bombus,Bumble Bees,eatenBy
+57983,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+57983,42069,Vulpes vulpes,Red Fox,eatenBy
+57983,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+57983,124031,Agrius convolvuli,Convolvulus Hawkmoth,eatenBy
+57983,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+57983,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+57983,57690,Bombus sonorus,Sonoran Bumble Bee,eatenBy
+57983,68244,Euptoieta claudia,Variegated Fritillary,eatenBy
+57983,57681,Anthophora urbana,Urbane Digger Bee,eatenBy
+57983,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+57983,48662,Danaus plexippus,Monarch,eatenBy
+57983,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+57983,145310,Spinus tristis,American Goldfinch,eatenBy
+57983,47219,Apis mellifera,Western Honey Bee,eatenBy
+57983,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+57983,224501,Megachile perihirta,Western Leafcutter,eatenBy
+57983,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+57983,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+57983,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+57983,57983,Helianthus annuus,Common Sunflower,eatenBy
+57983,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+57983,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+57983,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+57983,199840,Haemorhous mexicanus,House Finch,eatenBy
+57983,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+57983,124184,Plodia interpunctella,Indian-Meal Moth,eatenBy
+57983,6317,Calypte anna,Anna's Hummingbird,eatenBy
+57983,48549,Vanessa virginiensis,American Lady,eatenBy
+57983,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+57983,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+57983,46020,Sciurus niger,Fox Squirrel,eatenBy
+57983,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+57983,124420,Bombus californicus,California Bumble Bee,eatenBy
+57983,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+57983,343382,Homoeosoma electella,American Sunflower Moth,eatenBy
+57983,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+57983,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+57983,417012,Suleima helianthana,Sunflower Bud Moth,eatenBy
+57983,202789,Trichoplusia ni,Cabbage Looper Moth,eatenBy
+57983,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+57983,906,Meleagris gallopavo,Wild Turkey,eatenBy
+57983,3454,Zenaida macroura,Mourning Dove,eatenBy
+57983,1409,Callipepla californica,California Quail,eatenBy
+57983,13858,Passer domesticus,House Sparrow,eatenBy
+57983,,Calamospiza melanocorys,,eatenBy
+57983,,Calcarius mccownii,,eatenBy
+57983,,Lepus townsendii,,eatenBy
+57983,,Lepus californicus,,eatenBy
+57983,,Nysius vinitor,,eatenBy
+57983,,Leptoglossus gonagra,,eatenBy
+57983,353457,Graptostethus servus,,eatenBy
+57983,,Elasmolomus pallens,,eatenBy
+57983,,Dindymus versicolor,,eatenBy
+57983,,Creontiades dilutus,,eatenBy
+57983,,Chlosyne lacinia,,eatenBy
+57983,,Actinote pellenea,,eatenBy
+57983,,Chlosyne californica,,eatenBy
+57983,186842,Chlosyne gorgone,Gorgone Checkerspot,eatenBy
+57983,,thrips,,eatenBy
+57983,,Bemisia tabaci,,eatenBy
+57983,,Agrotis ipsilon,,eatenBy
+57983,,Copitarsia decolora,,eatenBy
+57983,,Psittacula krameri,,eatenBy
+57983,,Autographa precationis,,eatenBy
+57983,,Aspila,,eatenBy
+57983,894927,Conogethes punctiferalis,,eatenBy
+57983,,Homoeosoma electellum,,eatenBy
+57983,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+57983,,Rachiplusia nu,,eatenBy
+57983,,Loxostege sticticalis,,eatenBy
+57983,,Homoeosoma nebulella,,eatenBy
+57983,41641,Ursus arctos,Brown Bear,eatenBy
+57983,,Diplodina helianthi,,eatenBy
+57983,,Terellia serratulae,,eatenBy
+57983,18205,Melanerpes carolinus,Red-bellied Woodpecker,eatenBy
+57983,,Papilio polyxenes asterius,,eatenBy
+57983,,Melissodes bimaculatus,,eatenBy
+57983,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+57983,,Eristalis transversa,,eatenBy
+57983,,Carduelis carduelis,,eatenBy
+57983,,Ictidomys parvidens,,eatenBy
+57983,18920,Platycercus eximius,Eastern Rosella,eatenBy
+57983,,Spinus pinus,,eatenBy
+57983,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+57983,,Agapostemon virescens,,eatenBy
+57983,68263,Papilio multicaudata,Two-tailed Swallowtail,eatenBy
+57983,,Trichoglossus haematodus moluccanus,,eatenBy
+57983,121504,Svastra obliqua,Oblique Longhorn,eatenBy
+57983,,Puccinia helianthi,,eatenBy
+57983,,Coccothraustes coccothraustes,,eatenBy
+57983,,Asphaera lustrans,,eatenBy
+57983,57677,Halictus,Furrow Bees,pollinatedBy
+57983,52781,Melissodes,,pollinatedBy
+57983,130131,Ectemnius,,pollinatedBy
+57983,130878,Anthrax,Charcoal Bee Flies,pollinatedBy
+57983,58504,Polites,,pollinatedBy
+57983,57678,Lasioglossum,,pollinatedBy
+57983,58532,Colias eurytheme,Orange Sulphur,pollinatedBy
+57983,118968,Allograpta obliqua,Oblique Streaktail,pollinatedBy
+57983,59119,Pontia protodice,Checkered White,pollinatedBy
+57983,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+57983,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+57983,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+57983,,Ocyptera,,pollinatedBy
+57983,,Callandrena,,pollinatedBy
+57983,,Philampelus,,pollinatedBy
+57983,,Plusia,,pollinatedBy
+57983,,Holandrena,,pollinatedBy
+57983,,Leskiomima,,pollinatedBy
+57983,,Spallanzania hesperidarum,,pollinatedBy
+57983,248099,Scenopinus,,pollinatedBy
+57983,,Nysson plagiatus,,pollinatedBy
+57983,,Phorbia,,pollinatedBy
+57983,,Helophilus latifrons,,pollinatedBy
+57983,,Bicyrtes ventralis,,pollinatedBy
+57983,,Melissodes vernoniae,,pollinatedBy
+57983,,Tiphia,,pollinatedBy
+57983,,Perilampus platigaster,,pollinatedBy
+57983,,Melanagromyza aeneoventris,,pollinatedBy
+57983,,Syntomopus americanus,,pollinatedBy
+57983,,Pyticara,,pollinatedBy
+57983,,Parandrena,,pollinatedBy
+57983,,Poecilopompilus,,pollinatedBy
+57983,,Chalcosyrphus nemorum,,pollinatedBy
+57983,699698,Neotrypetes,,pollinatedBy
+57983,,Sapyga centrata,,pollinatedBy
+57983,,Distichona auriceps,,pollinatedBy
+57983,346754,Dacnusa,,pollinatedBy
+57983,177484,Leptura,,pollinatedBy
+57983,322713,Sapromyza,,pollinatedBy
+57983,,Batizonus algidus,,pollinatedBy
+57983,,Nematus,,pollinatedBy
+57983,,Curtisapis,,pollinatedBy
+57983,429978,Paradidyma singularis,,pollinatedBy
+57983,,Reichertella pulicaria,,pollinatedBy
+57983,,Eumyotheria illinoensis,,pollinatedBy
+57983,,Bibio albipennis,,pollinatedBy
+57983,,Typocerus lugubris,,pollinatedBy
+57983,,Parhelophilus divisus,,pollinatedBy
+57983,,Trachandrena,,pollinatedBy
+57983,299089,Perilampus fulvicornis,,pollinatedBy
+57983,,Haplorhynchites sp.,,pollinatedBy
+57983,,Chauliognathus basalis,,pollinatedBy
+57983,,Diadasia enavata,,pollinatedBy
+57983,,Nemognatha sp.,,pollinatedBy
+57983,,Epicauta sp.,,pollinatedBy
+57983,,Perdita sp.,,pollinatedBy
+57983,271496,Melissodes coreopsis,Tickseed Long-horned Bee,pollinatedBy
+57983,,Gnathium sp.,,pollinatedBy
+57983,,Chauliognathus limbicollis,,pollinatedBy
+57983,,Estoloides sp.,,pollinatedBy
+57983,,N/A N/A,,pollinatedBy
+57983,,http://treatment.plazi.org/id/F12164839E129EE305929100DCC76253,,pollinatedBy
+57983,,Anastoechus sp.,,pollinatedBy
+57983,,Poecilanthrax sp.,,pollinatedBy
+57983,,Poecilognathus sp.,,pollinatedBy
+57983,56887,Bombus pensylvanicus,American Bumble Bee,pollinatedBy
+57983,,Megachile parallela,,pollinatedBy
+57983,,Agapostemon angelicus/texanus,,pollinatedBy
+57983,,Atalopedes campestris,,pollinatedBy
+57983,,Dufourea sp.,,pollinatedBy
+57983,,Ozodiceromya sp.,,pollinatedBy
+57983,,Anthophorula sp.,,pollinatedBy
+57983,,http://treatment.plazi.org/id/A61A09B380185011A57765F1D780E0FD,,pollinatedBy
+57983,,Protandrena,,pollinatedBy
+57983,,Tetraloniella spissa,,pollinatedBy
+57983,144815,Poecile atricapillus,Black-capped Chickadee,preyedUponBy
+57983,14823,Sitta canadensis,Red-breasted Nuthatch,preyedUponBy
+57983,48662,Danaus plexippus,Monarch,preyedUponBy
+57983,199840,Haemorhous mexicanus,House Finch,preyedUponBy
+57983,,Hesperiphona vespertina,,preyedUponBy

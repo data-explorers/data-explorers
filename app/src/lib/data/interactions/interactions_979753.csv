@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+979753,211194,Tracheophyta,vascular plants,eats
+979753,1,Animalia,Animals,eats
+979753,47120,Arthropoda,Arthropods,eats
+979753,60628,Tenthredinidae,Common Sawflies,eats
+979753,52381,Aphididae,Aphids,eats
+979753,47535,Araneidae,Orbweavers,eats
+979753,47208,Coleoptera,Beetles,eats
+979753,47157,Lepidoptera,Butterflies and Moths,eats
+979753,52932,Cantharidae,Soldier Beetles,eats
+979753,53237,Cicadellidae,Typical Leafhoppers,eats
+979753,47336,Formicidae,Ants,eats
+979753,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+979753,49453,Diprionidae,Conifer Sawflies,eats
+979753,53248,Elateridae,Click Beetles,eats
+979753,48736,Curculionidae,True Weevils,eats
+979753,56097,Bibionidae,March Flies,eats
+979753,47199,Ichneumonidae,Ichneumonid Wasps,eats
+979753,55558,Lygaeidae,Seed Bugs,eats
+979753,47158,Insecta,Insects,eats
+979753,53225,Rhopalidae,Scentless Plant Bugs,eats
+979753,47118,Araneae,Spiders,eats
+979753,49567,Carabidae,Ground Beetles,eats
+979753,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+979753,57804,Berytidae,Stilt Bugs,eats
+979753,61267,Heteroptera,True Bugs,eats
+979753,53506,Tingidae,Lace Bugs,eats
+979753,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eats
+979753,48194,Psyllidae,jumping plant lice,eats
+979753,48486,Coccinellidae,Lady Beetles,eats
+979753,47822,Diptera,Flies,eats
+979753,47742,Pentatomidae,Stink Bugs,eats
+979753,47124,Magnoliopsida,dicots,eats
+979753,72232,Melaleuca,bottlebrushes,eats
+979753,47928,Zygoptera,Damselflies,eats
+979753,,Non-biological,,eats
+979753,,Archips fumiferana,,eats
+979753,,Dascillidae,,eats
+979753,129878,Nabidae,Damsel Bugs,eats
+979753,61863,Cercopidae,Froghoppers,eats
+979753,,Chasmanthe,,eats
+979753,,Chasmanthe floribunda,,eats
+979753,,Homadaula anisocentra,,eats
+979753,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+979753,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+979753,47928,Zygoptera,Damselflies,preysOn

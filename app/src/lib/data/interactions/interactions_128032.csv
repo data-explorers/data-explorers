@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+128032,,Pycnonotus sinensis formosae,,eats
+128032,,Parum colligata,,eatenBy
+128032,,Neptis pampanga,,eatenBy
+128032,,Pan troglodytes schweinfurthii,,eatenBy
+128032,43577,Pan troglodytes,Chimpanzee,eatenBy
+128032,130339,Neptis hylas,Common Sailer,eatenBy
+128032,199438,Orgyia postica,Cocoa Tussock Moth,eatenBy
+128032,,Choreutis ophiosema,,eatenBy
+128032,,Asterocampa clyton,,eatenBy

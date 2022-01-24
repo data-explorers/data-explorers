@@ -1,0 +1,75 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85552,47120,Arthropoda,Arthropods,eats
+85552,,hyperparisitoids,,eats
+85552,,Phocoscelus arthriticus,,eats
+85552,,http://treatment.plazi.org/id/F2F13FBC4371352E23BF4B93A3E32D3A,,eats
+85552,,Hemilucilia flavifacies,,eats
+85552,,Leptocera,,eats
+85552,,Graphomya,,eats
+85552,1348035,Epiplatea hondurana,,eats
+85552,,Cyrtoneurina gemina,,eats
+85552,,Sphaerocera,,eats
+85552,,Cyrtoneurina conspersa,,eats
+85552,,Fannia,,eats
+85552,,Glyphidops flavifrons,,eats
+85552,,Chrysotus,,eats
+85552,,Euxesta,,eats
+85552,4665,Falco sparverius,American Kestrel,eatenBy
+85552,1986,Geococcyx californianus,Greater Roadrunner,eatenBy
+85552,558446,Circus hudsonius,Northern Harrier,eatenBy
+85552,8010,Corvus corax,Common Raven,eatenBy
+85552,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+85552,144455,Ardea alba,Great Egret,eatenBy
+85552,95811,Blicca bjoerkna,Silver Bream,eatenBy
+85552,,Strepera graculina,,eatenBy
+85552,,Crotalus oreganus concolor,,eatenBy
+85552,145031,Copsychus fulicatus,Indian Robin,eatenBy
+85552,,Anolis equestris,,eatenBy
+85552,4937,Egretta caerulea,Little Blue Heron,eatenBy
+85552,5344,Polemaetus bellicosus,Martial Eagle,eatenBy
+85552,,Polihierax semitorquatus,,eatenBy
+85552,,Crotalus oreganus oreganus,,eatenBy
+85552,,Polyboroides typus,,eatenBy
+85552,,Gampsonyx swainsonii,,eatenBy
+85552,,Cebus capucinus,,eatenBy
+85552,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+85552,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+85552,,Falco tinnunculus canariensis,,eatenBy
+85552,,Buteogallus urubitinga,,eatenBy
+85552,,Buteo rufinus cirtensis,,eatenBy
+85552,2337,Halcyon senegalensis,Woodland Kingfisher,eatenBy
+85552,,Coryphaeschna ingens,,preysOn
+85552,144455,Ardea alba,Great Egret,preyedUponBy
+85552,4665,Falco sparverius,American Kestrel,preyedUponBy
+85552,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+85552,1986,Geococcyx californianus,Greater Roadrunner,preyedUponBy
+85552,19893,Strix varia,Barred Owl,preyedUponBy
+85552,20445,Tyto alba,Barn Owl,preyedUponBy
+85552,14886,Mimus polyglottos,Northern Mockingbird,preyedUponBy
+85552,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+85552,4940,Egretta thula,Snowy Egret,preyedUponBy
+85552,19812,Glaucidium gnoma,Northern Pygmy-Owl,preyedUponBy
+85552,16956,Pitangus sulphuratus,Great Kiskadee,preyedUponBy
+85552,,Scolopendra polymorpha,,preyedUponBy
+85552,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,preyedUponBy
+85552,,Glaucidium radiatum,,preyedUponBy
+85552,5301,Elanoides forficatus,Swallow-tailed Kite,preyedUponBy
+85552,5275,Elanus caeruleus,Black-winged Kite,preyedUponBy
+85552,,Glaucidium capense ngamiense,,preyedUponBy
+85552,19975,Athene cunicularia,Burrowing Owl,preyedUponBy
+85552,19998,Athene noctua,Little Owl,preyedUponBy
+85552,,Pharomachrus auriceps,,preyedUponBy
+85552,,Crotalus oreganus concolor,,preyedUponBy
+85552,20379,Micrathene whitneyi,Elf Owl,preyedUponBy
+85552,,Otus lettia,,preyedUponBy
+85552,144536,Gelochelidon nilotica,Gull-billed Tern,preyedUponBy
+85552,5233,Buteogallus anthracinus,Common Black Hawk,preyedUponBy
+85552,,Glaucidium siju,,preyedUponBy
+85552,19874,Glaucidium capense,African Barred Owlet,preyedUponBy
+85552,12024,Lanius ludovicianus,Loggerhead Shrike,preyedUponBy
+85552,,Glaucidium perlatum,,preyedUponBy
+85552,,Glaucidium peruanum,,preyedUponBy
+85552,4937,Egretta caerulea,Little Blue Heron,preyedUponBy
+85552,,Polihierax semitorquatus,,preyedUponBy
+85552,,Polyboroides typus,,preyedUponBy
+85552,12737,Turdus leucomelas,Pale-breasted Thrush,preyedUponBy

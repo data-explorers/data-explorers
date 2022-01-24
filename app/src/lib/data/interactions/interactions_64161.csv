@@ -1,0 +1,101 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64161,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+64161,13858,Passer domesticus,House Sparrow,eatenBy
+64161,68244,Euptoieta claudia,Variegated Fritillary,eatenBy
+64161,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+64161,124184,Plodia interpunctella,Indian-Meal Moth,eatenBy
+64161,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+64161,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+64161,6930,Anas platyrhynchos,Mallard,eatenBy
+64161,10469,Xanthocephalus,,eatenBy
+64161,7006,Anser,Grey Geese,eatenBy
+64161,3454,Zenaida macroura,Mourning Dove,eatenBy
+64161,981,Phasianus colchicus,Ring-necked Pheasant,eatenBy
+64161,1409,Callipepla californica,California Quail,eatenBy
+64161,7089,Branta canadensis,Canada Goose,eatenBy
+64161,3108,Patagioenas fasciata,Band-tailed Pigeon,eatenBy
+64161,12727,Turdus migratorius,American Robin,eatenBy
+64161,12942,Sialia sialis,Eastern Bluebird,eatenBy
+64161,14801,Sitta carolinensis,White-breasted Nuthatch,eatenBy
+64161,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+64161,,Calamospiza melanocorys,,eatenBy
+64161,,Lepus californicus,,eatenBy
+64161,,Lepus townsendii,,eatenBy
+64161,,Rhopalosiphum padi,,eatenBy
+64161,,Rhopalosiphum insertum,,eatenBy
+64161,,Creontiades dilutus,,eatenBy
+64161,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+64161,,Alectoris rufa,,eatenBy
+64161,7347,Alauda arvensis,Eurasian Skylark,eatenBy
+64161,,Coloeus monedula,,eatenBy
+64161,,Carduelis carduelis,,eatenBy
+64161,,Apodemus sylvaticus,,eatenBy
+64161,,Columba palumbus,,eatenBy
+64161,,Emberiza citrinella,,eatenBy
+64161,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+64161,8029,Corvus frugilegus,Rook,eatenBy
+64161,,Carduelis chloris,,eatenBy
+64161,,Borbo,,eatenBy
+64161,,Copitarsia decolora,,eatenBy
+64161,,Zenaida auriculata pentheria,,eatenBy
+64161,43354,Tapirus pinchaque,Mountain Tapir,eatenBy
+64161,229306,Pterodoras granulosus,Granulated Catfish,eatenBy
+64161,,Aglossa,,eatenBy
+64161,,Sclerobia tritalis,,eatenBy
+64161,,Pyralis farinalis,,eatenBy
+64161,,Diatraea saccharalis,,eatenBy
+64161,,Syringopais temperatella,,eatenBy
+64161,,Autographa gamma,,eatenBy
+64161,,Protorthodes incincta,,eatenBy
+64161,,Apamea finitima,,eatenBy
+64161,212316,Achatodes zeae,Elder Shoot Borer Moth,eatenBy
+64161,,Tripseuxoa strigata,,eatenBy
+64161,,Pseudaletia adultera,,eatenBy
+64161,429226,Sesamia inferens,,eatenBy
+64161,,Leucania humidicola,,eatenBy
+64161,,Faronta albilinea,,eatenBy
+64161,,Leucania fragilis,,eatenBy
+64161,,Pseudaletia unipuncta,,eatenBy
+64161,,Dargida procinctus,,eatenBy
+64161,,Ogdoconta cinereola,,eatenBy
+64161,,Leucania polystrota,,eatenBy
+64161,,Dasygaster hollandiae,,eatenBy
+64161,,Papaipema nebris,,eatenBy
+64161,129428,Acronicta oblinita,Smeared Dagger,eatenBy
+64161,,Amyna punctum,,eatenBy
+64161,,Cosmiotes illectella,,eatenBy
+64161,,Grammia blakei,,eatenBy
+64161,,Chytriomyces nodulatus,,eatenBy
+64161,,Entophlyctis aurea,,eatenBy
+64161,,Anthomyza collini,,eatenBy
+64161,,Agromyza mobilis,,eatenBy
+64161,779496,Cerodontha lateralis,,eatenBy
+64161,,Sitobion avenae avenae,,eatenBy
+64161,,Chirothrips manicatus,,eatenBy
+64161,569944,Limothrips denticornis,,eatenBy
+64161,,Stenothrips graminum,,eatenBy
+64161,,Limothrips cerealium,,eatenBy
+64161,,Oulema rufocyanea/melanopus agg.,,eatenBy
+64161,510327,Cephus pygmeus,European Wheat Stem Sawfly,eatenBy
+64161,715641,Trachelus tabidus,,eatenBy
+64161,,Helophorus nubilus,,eatenBy
+64161,,Zabrus tenebrioides,,eatenBy
+64161,,Phalacrus corruscus,,eatenBy
+64161,,Cyprinus rubrofuscus,,eatenBy
+64161,,Mayetiola destructor,,eatenBy
+64161,,Cyanistes caeruleus,,eatenBy
+64161,43997,Myocastor coypus,Coypu,eatenBy
+64161,,Oreortyx pictus,,eatenBy
+64161,,Streptopelia chinensis,,eatenBy
+64161,649,Francolinus francolinus,Black Francolin,eatenBy
+64161,3545,Columbina passerina,Common Ground Dove,eatenBy
+64161,3460,Zenaida asiatica,White-winged Dove,eatenBy
+64161,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+64161,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+64161,831,Perdix perdix,Gray Partridge,eatenBy
+64161,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+64161,6893,Dendrocygna autumnalis,Black-bellied Whistling-Duck,eatenBy
+64161,6917,Cygnus columbianus,Tundra Swan,eatenBy
+64161,7008,Anser indicus,Bar-headed Goose,eatenBy
+64161,7019,Anser albifrons,Greater White-fronted Goose,eatenBy
+64161,,Anas americana,,eatenBy

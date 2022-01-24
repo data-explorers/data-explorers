@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+199841,1,Animalia,Animals,eats
+199841,211194,Tracheophyta,vascular plants,eats
+199841,47120,Arthropoda,Arthropods,eats
+199841,47158,Insecta,Insects,eats
+199841,47124,Magnoliopsida,dicots,eats
+199841,58732,Toxicodendron radicans,poison ivy,eats
+199841,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+199841,77835,Lonicera japonica,Japanese honeysuckle,eats
+199841,53405,Heteromeles arbutifolia,Toyon,eats
+199841,,Non-biological,,eats
+199841,,Archips fumiferana,,eats
+199841,54777,Cornus florida,flowering dogwood,eats
+199841,54793,Lindera benzoin,northern spicebush,eats
+199841,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+199841,,Abies procera,,eats
+199841,,Callicarpa americana,,eats
+199841,,Callistemon citrinus,,eats
+199841,77741,Ligustrum ovalifolium,garden privet,eats
+199841,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+199841,,Pantherophis alleghaniensis,,eatenBy

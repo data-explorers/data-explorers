@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60999,7044,Aythya collaris,Ring-necked Duck,eatenBy
+60999,473,Fulica americana,American Coot,eatenBy
+60999,6921,Cygnus olor,Mute Swan,eatenBy
+60999,7054,Aythya affinis,Lesser Scaup,eatenBy
+60999,7128,Nettapus coromandelianus,Cotton Pygmy-Goose,eatenBy
+60999,,Anas clypeata,,eatenBy

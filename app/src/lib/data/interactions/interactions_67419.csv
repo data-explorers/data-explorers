@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67419,53831,Tegula,Tegulas,eatenBy
+67419,48645,Megathura crenulata,Giant Keyhole Limpet,eatenBy
+67419,48655,Aplysia californica,California Seahare,eatenBy
+67419,49723,Pugettia producta,Northern Kelp Crab,eatenBy
+67419,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+67419,49857,Aplysia vaccaria,Black Seahare,eatenBy
+67419,81963,Girella nigricans,Opaleye,eatenBy
+67419,,Norrisia norrisi,,eatenBy
+67419,56649,Haliotis cracherodii,Black Abalone,eatenBy
+67419,56678,Haliotis corrugata,Pink Abalone,eatenBy
+67419,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+67419,347389,Lithopoma,,eatenBy
+67419,179833,Lytechinus anamesus,white sea urchin,eatenBy
+67419,105388,Medialuna californiensis,Halfmoon,eatenBy
+67419,,Discurria insessa,,eatenBy
+67419,56653,Haliotis fulgens,Green Abalone,eatenBy
+67419,48645,Megathura crenulata,Giant Keyhole Limpet,preyedUponBy
+67419,48655,Aplysia californica,California Seahare,preyedUponBy
+67419,49857,Aplysia vaccaria,Black Seahare,preyedUponBy
+67419,53831,Tegula,Tegulas,preyedUponBy
+67419,49723,Pugettia producta,Northern Kelp Crab,preyedUponBy
+67419,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+67419,179833,Lytechinus anamesus,white sea urchin,preyedUponBy
+67419,81963,Girella nigricans,Opaleye,preyedUponBy
+67419,56678,Haliotis corrugata,Pink Abalone,preyedUponBy
+67419,347389,Lithopoma,,preyedUponBy
+67419,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+67419,56649,Haliotis cracherodii,Black Abalone,preyedUponBy
+67419,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+67419,,Norrisia norrisi,,preyedUponBy

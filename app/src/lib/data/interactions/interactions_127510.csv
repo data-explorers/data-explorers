@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127510,49203,Fagus,beeches,eats
+127510,49156,Betula,birches,eats
+127510,136329,Pinopsida,conifers,eats
+127510,53350,Aesculus,buckeyes and horse-chestnuts,eats
+127510,47561,Pinus,pines,eats
+127510,63573,Picea,spruces,eats
+127510,132600,Tilia cordata,Small-leaved Lime,eats
+127510,47726,Acer negundo,boxelder,eats
+127510,47566,Populus,"poplars, cottonwoods, and aspens",eats
+127510,,Broadleaved trees,,eats
+127510,,Quercus robur,,eats
+127510,,Populus nigra,,eats
+127510,,Acer pseudoplatanus,,eats
+127510,47570,Populus alba,white poplar,eats
+127510,,Ulmus glabra,,eats
+127510,752314,Dorcatoma robusta,,eatenBy
+127510,,Neomida haemorrhoidalis,,eatenBy
+127510,,Upis ceramboides,,eatenBy
+127510,,Cis lineatocribratus,,eatenBy
+127510,,Cis jacquemartii,,eatenBy
+127510,,Dorcatoma falli,,eatenBy
+127510,,Bolitophagus reticulatus,,eatenBy
+127510,,Ropalodontus strandi,,eatenBy
+127510,577725,Rhopalodontus perforatus,,eatenBy
+127510,,Dorcatoma minor,,eatenBy
+127510,,Archinemapogon yildizae,,eatenBy
+127510,,Amblyosporium botrytis,,eatenBy
+127510,,Cis bilamellatus,,eatenBy
+127510,,Myennis octopunctata,,eatenBy
+127510,,Triplax aenea,,eatenBy
+127510,,Mycetophagus quadripustulatus,,eatenBy

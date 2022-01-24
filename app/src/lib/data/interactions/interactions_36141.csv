@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+36141,4665,Falco sparverius,American Kestrel,eatenBy
+36141,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+36141,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+36141,4756,Cathartes aura,Turkey Vulture,eatenBy
+36141,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+36141,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+36141,558512,Lanius borealis,Northern Shrike,eatenBy
+36141,30692,Crotalus,Rattlesnakes,preyedUponBy
+36141,,Latrodectus mactans,,preyedUponBy
+36141,515419,Lampropeltis triangulum,Eastern Milksnake,preyedUponBy
+36141,,Micrurus fulvius,,preyedUponBy
+36141,30729,Crotalus pricei,Twin-spotted Rattlesnake,preyedUponBy
+36141,,Coluber bilineatus,,preyedUponBy
+36141,30743,Crotalus lepidus klauberi,Banded Rock Rattlesnake,preyedUponBy
+36141,,Coluber taeniatus,,preyedUponBy
+36141,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy
+36141,29724,Leptodeira septentrionalis,Northern Cat-eyed Snake,preyedUponBy
+36141,243962,Charina bottae,Northern Rubber Boa,preyedUponBy
+36141,28762,Rhinocheilus lecontei,Long-nosed Snake,preyedUponBy
+36141,,Coluber schotti,,preyedUponBy
+36141,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+36141,30748,Crotalus enyo,Lower California Rattlesnake,preyedUponBy
+36141,,Coluber flagellum testaceus,,preyedUponBy
+36141,28246,Arizona elegans,Glossy Snake,preyedUponBy
+36141,,Thamnophis scalaris,,preyedUponBy

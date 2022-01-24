@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10271,47124,Magnoliopsida,dicots,eats
+10271,47158,Insecta,Insects,eats
+10271,211194,Tracheophyta,vascular plants,eats
+10271,1,Animalia,Animals,eats
+10271,47208,Coleoptera,Beetles,eats
+10271,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+10271,47157,Lepidoptera,Butterflies and Moths,eats
+10271,47822,Diptera,Flies,eats
+10271,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10271,48571,Carex,true sedges,eats
+10271,52697,Avena,Oats,eats
+10271,47851,Quercus,oaks,eats
+10271,55488,Diabrotica,,eats
+10271,48736,Curculionidae,True Weevils,eats
+10271,47162,Poales,"grasses, sedges, cattails, and allies",eats
+10271,55556,Oncopeltus fasciatus,Large Milkweed Bug,eats
+10271,54964,Buprestidae,Metallic Wood-boring Beetles,eats
+10271,60628,Tenthredinidae,Common Sawflies,eats
+10271,49456,Coccidae,Soft scales,eats
+10271,58390,Triticum,Wheats,eats
+10271,119269,Quercus stellata,post oak,eats
+10271,49203,Fagus,beeches,eats
+10271,47434,Poaceae,grasses,eats
+10271,48124,Tettigoniidae,Katydids,eats
+10271,47544,Rubus,brambles,eats
+10271,47727,Acer,maples,eats
+10271,49567,Carabidae,Ground Beetles,eats
+10271,47731,Lampyridae,Fireflies,eats
+10271,48486,Coccinellidae,Lady Beetles,eats
+10271,47118,Araneae,Spiders,eats
+10271,47566,Populus,"poplars, cottonwoods, and aspens",eats
+10271,50641,Solanum,nightshades,eats
+10271,53248,Elateridae,Click Beetles,eats
+10271,47888,Impatiens capensis,common jewelweed,eats
+10271,47120,Arthropoda,Arthropods,eats
+10271,52689,Sambucus,elders,eats
+10271,141735,Sitona,,eats
+10271,47742,Pentatomidae,Stink Bugs,eats
+10271,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+10271,51044,Sanguinaria canadensis,bloodroot,eats
+10271,82020,Pselliopus,,eats
+10271,52381,Aphididae,Aphids,eats
+10271,47351,Prunus,"plums, cherries, and allies",eats
+10271,53854,Ilex,hollies,eats
+10271,120942,Malvaviscus arboreus,Turk's cap,eats
+10271,54834,Prunus serotina,black cherry,eats
+10271,,Euchelicerata,,eats
+10271,130121,Chrysis,,eats
+10271,,Pisum sativum,,eats
+10271,,Kermes,,eats
+10271,497178,Ampeloglypter sesostris,,eats
+10271,133382,Amelanchier canadensis,Canadian serviceberry,eats
+10271,,Pasimachus depressus,,eats
+10271,121294,Curculio,Nut and Acorn Weevils,eats
+10271,,Andrena,,eats
+10271,,Calligrapha multipunctata,,eats
+10271,,Cenchrus americanus,,eats
+10271,,Leptinotarsa decemlineata,,eats
+10271,,Dichelonyx,,eats
+10271,,Chrysomela,,eats
+10271,129219,Euphoria fulgida,Emerald Euphoria,eats
+10271,,Odontota dorsalis,,eats
+10271,,Carya,,eats
+10271,,Chalcophora virginiensis,,eats
+10271,,Phyllophaga,,eats
+10271,48448,Zea mays,Maize,eats
+10271,81746,Necrophila americana,American Carrion Beetle,eats
+10271,,Compsus auricephalus,,eats
+10271,,Conotrachelus nenuphar,,eats
+10271,,Paleacrita vernata,,eats
+10271,,Cupania glabra,,eats
+10271,,Schefflera,,eats
+10271,,Cavendishia complectens,,eats
+10271,,Chione venosa,,eats
+10271,,Meliosma,,eats
+10271,,Xylosma flexuosa,,eats
+10271,,Matayba oppositifolia,,eats
+10271,,Ficus aurea,,eats
+10271,,Solanum umbellatum,,eats
+10271,185219,Ossaea,,eats
+10271,209919,Guarea glabra,alligatorwood,eats
+10271,,Bunchosia odorata,,eats
+10271,,Conostegia xalapensis,,eats
+10271,,Citharexylum,,eats
+10271,,Blakea gracilis,,eats
+10271,,Glossoloma tetragonum,,eats
+10271,,Witheringia,,eats
+10271,,Gonzalagunia rosea,,eats
+10271,,Sapium glandulosum,,eats
+10271,,Palicourea galeottiana,,eats
+10271,,Dendropanax arboreus,,eats
+10271,,Faramea ovalis,,eats
+10271,,Oreopanax oerstedianus,,eats
+10271,,Drymonia conchocalyx,,eats
+10271,,Palicourea alajuelensis,,eats
+10271,,Lycianthes multiflora,,eats
+10271,,Beilschmiedia,,eats
+10271,,Cavendishia,,eats
+10271,,Myrsine coriacea,,eats
+10271,,Ocotea bernoulliana,,eats
+10271,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+10271,20315,Asio flammeus,Short-eared Owl,eatenBy
+10271,19765,Megascops asio,Eastern Screech-Owl,eatenBy

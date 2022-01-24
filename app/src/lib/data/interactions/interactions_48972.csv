@@ -1,0 +1,101 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48972,118492,Helicoverpa zea,Corn Earworm Moth,eatenBy
+48972,143024,Eusarca confusaria,Confused Eusarca Moth,eatenBy
+48972,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+48972,69114,Pogonomyrmex,Harvester Ants,eatenBy
+48972,55215,Aphis,,eatenBy
+48972,2969,Streptopelia decaocto,Eurasian Collared-Dove,eatenBy
+48972,13858,Passer domesticus,House Sparrow,eatenBy
+48972,231425,Spodoptera exigua,Beet Armyworm Moth,eatenBy
+48972,54010,Lycaena,Copper Butterflies,eatenBy
+48972,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+48972,55655,Lycaena phlaeas,Small Copper,eatenBy
+48972,50931,Strymon melinus,Gray Hairstreak,eatenBy
+48972,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+48972,6930,Anas platyrhynchos,Mallard,eatenBy
+48972,7044,Aythya collaris,Ring-necked Duck,eatenBy
+48972,906,Meleagris gallopavo,Wild Turkey,eatenBy
+48972,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+48972,3454,Zenaida macroura,Mourning Dove,eatenBy
+48972,1409,Callipepla californica,California Quail,eatenBy
+48972,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+48972,473,Fulica americana,American Coot,eatenBy
+48972,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+48972,7107,Aix sponsa,Wood Duck,eatenBy
+48972,14850,Sturnus vulgaris,European Starling,eatenBy
+48972,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+48972,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+48972,9602,Quiscalus quiscula,Common Grackle,eatenBy
+48972,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+48972,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+48972,9100,Melospiza melodia,Song Sparrow,eatenBy
+48972,9135,Spizella passerina,Chipping Sparrow,eatenBy
+48972,3017,Columba livia,Rock Pigeon,eatenBy
+48972,12727,Turdus migratorius,American Robin,eatenBy
+48972,12937,Sialia mexicana,Western Bluebird,eatenBy
+48972,12942,Sialia sialis,Eastern Bluebird,eatenBy
+48972,7294,Eremophila alpestris,Horned Lark,eatenBy
+48972,73044,Melozone crissalis,California Towhee,eatenBy
+48972,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+48972,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+48972,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+48972,,Nothomyia calopus,,eatenBy
+48972,,Disonycha conjugata,,eatenBy
+48972,,Rhinoncus longulus,,eatenBy
+48972,,Disonycha pensylvanica,,eatenBy
+48972,,Rhinoncus pyrrhopus,,eatenBy
+48972,470896,Dypterygia scabriuscula,Bird's Wing,eatenBy
+48972,,Lithacodia carneola,,eatenBy
+48972,,Coleophora,,eatenBy
+48972,,Chionodes discoocellella,,eatenBy
+48972,,Euphyia multiferata,,eatenBy
+48972,,Agrotis subterranea,,eatenBy
+48972,,Simyra henrici,,eatenBy
+48972,,Nycterosea obstipata,,eatenBy
+48972,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+48972,,Haematopsis grataria,,eatenBy
+48972,,Isia,,eatenBy
+48972,49348,Hyles lineata,White-lined Sphinx,eatenBy
+48972,,Grammia arge,,eatenBy
+48972,,Lycaena thoe,,eatenBy
+48972,,Melanolophia canadaria,,eatenBy
+48972,,Neoerastria apicosa,,eatenBy
+48972,,Plathypena scabra,,eatenBy
+48972,,Timandra amaturaria,,eatenBy
+48972,,Epiblema otiosana,,eatenBy
+48972,,Prochoerodes lineola,,eatenBy
+48972,,Euphyia,,eatenBy
+48972,,Ostrinia penitalis,,eatenBy
+48972,,Argyrogramma verruca,,eatenBy
+48972,,Aristotelia,,eatenBy
+48972,214156,Argyrotaenia ivana,,eatenBy
+48972,,Synclita obliteralis,,eatenBy
+48972,,Syllepte,,eatenBy
+48972,129428,Acronicta oblinita,Smeared Dagger,eatenBy
+48972,,Tyloderma capitale,,eatenBy
+48972,,Tyloderma rufescens,,eatenBy
+48972,,Homorosoma sulcipenne,,eatenBy
+48972,,Amalus scortillum,,eatenBy
+48972,,Neophytobius cavifrons,,eatenBy
+48972,,Paraponyx obscuralis,,eatenBy
+48972,,Bagous lunatoides,,eatenBy
+48972,,Munroessa icciusalis,,eatenBy
+48972,,Pissonotus piceus,,eatenBy
+48972,,Disonycha glabrata,,eatenBy
+48972,,Rhinoncus,,eatenBy
+48972,,Lixus planicollis,,eatenBy
+48972,,Lixus merula,,eatenBy
+48972,,Gastrophysa polygoni,,eatenBy
+48972,,Mus sp.,,eatenBy
+48972,,North American deermouse,,eatenBy
+48972,1024157,Trichosiphonaphis polygoni,,eatenBy
+48972,,Capitophorus hippophaes,,eatenBy
+48972,,Akkaia taiwana,,eatenBy
+48972,,Ametastegia glabrata,,eatenBy
+48972,,Pachynematus albipennis,,eatenBy
+48972,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+48972,,Columba palumbus,,eatenBy
+48972,7347,Alauda arvensis,Eurasian Skylark,eatenBy
+48972,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+48972,,Carduelis carduelis,,eatenBy
+48972,,Emberiza citrinella,,eatenBy

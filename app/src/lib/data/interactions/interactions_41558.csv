@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41558,195134,Euphausiidae,Euphotic Krill,eats
+41558,85493,Crustacea,Crustaceans,eats
+41558,153112,Euphausiacea,krill,eats
+41558,121643,Copepoda,Copepods,eats
+41558,445671,Arothron firmamentum,Starry Toadfish,eats
+41558,47459,Cephalopoda,Cephalopods,eats
+41558,,Pisces,,eats
+41558,,Gnathostomata,,eats
+41558,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+41558,55535,Sardinops sagax,Pacific Sardine,eats
+41558,,Trachurus japonicus,,eats
+41558,328042,Engraulis japonicus,Japanese Anchovy,eats
+41558,98531,Coryphaena hippurus,Common Dolphinfish,eats
+41558,,Sardinella brasiliensis,,eats
+41558,120614,Euthynnus alletteratus,Little Tunny,eats
+41558,317451,Vinciguerria nimbaria,Narooma Lightfish,eats
+41558,89477,Lestidium,,eats
+41558,665660,Euphausia lucens,Planktonic Euphasiid,eats
+41558,261161,Thysanoessa gregaria,,eats
+41558,,Euphausia recurva,,eats
+41558,,Euphausia diomedeae,,eats
+41558,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+41558,459325,Maurolicus muelleri,Pearlside,eats
+41558,,Nyctiphanes capensis,,eats
+41558,,Lestidiops jayakari jayakari,,eats
+41558,328996,Euphausia similis,,eats
+41558,361765,Todarodes pacificus,Japanese Flying Squid,eats
+41558,118677,Auxis rochei,Bullet Tuna,eats
+41558,,others,,eats
+41558,296031,Nematoscelis difficilis,,eats
+41558,232318,Tarletonbeania taylori,Taillight Lanternfish,eats
+41558,,Scomber australasicus,,eats
+41558,,Decapterus russelli,,eats
+41558,201713,Euphausia pacifica,North Pacific krill,eats
+41558,188362,Scomberomorus guttatus,Indo-Pacific King Mackerel,eats
+41558,,Nemichthys scolopaceus,,eats
+41558,218322,Diaphus theta,California Headlightfish,eats
+41558,,Euphausia gibboides,,eats
+41558,665660,Euphausia lucens,Planktonic Euphasiid,preysOn
+41558,,Euphausia recurva,,preysOn
+41558,,Euphausia diomedeae,,preysOn
+41558,,Nyctiphanes capensis,,preysOn
+41558,261161,Thysanoessa gregaria,,preysOn

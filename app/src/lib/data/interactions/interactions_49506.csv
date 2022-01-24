@@ -1,0 +1,127 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49506,54661,Mugilidae,Mullets,eats
+49506,342912,Caridea,Caridean Shrimps,eats
+49506,49506,Portunidae,Swimming Crabs,eats
+49506,47114,Gastropoda,Gastropods,eats
+49506,49235,Clupeiformes,Herrings,eats
+49506,,Infauna,,eats
+49506,,Wigeongrass,,eats
+49506,,Detritus,,eats
+49506,49944,Gerreidae,Mojarras,eats
+49506,47284,Pterois,,eatenBy
+49506,47232,Carangidae,Jacks,eatenBy
+49506,49506,Portunidae,Swimming Crabs,eatenBy
+49506,49172,Sciaenidae,Drums,eatenBy
+49506,88563,Gobius,,eatenBy
+49506,47272,Rajiformes,Skates,eatenBy
+49506,47280,Pterois volitans,Common Lionfish,eatenBy
+49506,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+49506,69676,Thunnus,Bluefin Tunas,eatenBy
+49506,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+49506,48844,Echeneis naucrates,Sharksucker,eatenBy
+49506,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+49506,95066,Balistes vetula,Queen Triggerfish,eatenBy
+49506,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+49506,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+49506,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+49506,94904,Auchenoglanis biscutatus,,eatenBy
+49506,,Pleuronectiformes,,eatenBy
+49506,49438,Centropomidae,Snooks,eatenBy
+49506,,Mexican mojarras,,eatenBy
+49506,51178,Astropecten indicus,Plain Sand Star,eatenBy
+49506,324536,Palinurus elephas,European Spiny Lobster,eatenBy
+49506,26068,Crocodylus porosus,Saltwater Crocodile,eatenBy
+49506,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+49506,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+49506,430553,Merlangius merlangus,Whiting,eatenBy
+49506,228496,Pollachius virens,Pollock,eatenBy
+49506,48402,Amblyraja radiata,Thorny Skate,eatenBy
+49506,48397,Raja clavata,Thornback Skate,eatenBy
+49506,317533,Ogcocephalus vespertilio,longnose batfish,eatenBy
+49506,608771,Atherinella brasiliensis,,eatenBy
+49506,103232,Iago omanensis,Bigeye Houndshark,eatenBy
+49506,179630,Citharichthys spilopterus,Bay Whiff,eatenBy
+49506,48554,Prionotus albirostris,Whitesnout searobin,eatenBy
+49506,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+49506,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+49506,97517,Chimaera monstrosa,rabbit fish,eatenBy
+49506,112961,Sphyrna tudes,Smalleye Hammerhead,eatenBy
+49506,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+49506,55396,Solea solea,Common Sole,eatenBy
+49506,316993,Batrachoides gilberti,Large-eye Toadfish,eatenBy
+49506,95540,Batrachoides surinamensis,Pacuma toadfish,eatenBy
+49506,48564,Prionotus,,eatenBy
+49506,131530,Lutjanus synagris,Lane Snapper,eatenBy
+49506,51404,Trichiurus lepturus,Largehead Hairtail,eatenBy
+49506,196574,Parapercis hexophtalma,Spotted sandperch,eatenBy
+49506,204563,Myripristis amaena,Brick Soldierfish,eatenBy
+49506,132381,Lutjanus vitta,Brownstripe Snapper,eatenBy
+49506,63415,Heteropriacanthus cruentatus,Glasseye,eatenBy
+49506,194743,Myripristis violacea,Violet Soldierfish,eatenBy
+49506,142704,Lutjanus gibbus,Humpback Snapper,eatenBy
+49506,130526,Neoniphon sammara,Spotfin Squirrelfish,eatenBy
+49506,112960,Sphyrna tiburo,Bonnethead,eatenBy
+49506,317382,Sphoeroides testudineus,Checkered Puffer,eatenBy
+49506,179464,Symphurus plagiusa,Blackcheek Tonguefish,eatenBy
+49506,119433,Upeneus,,eatenBy
+49506,188052,Parupeneus crassilabris,Doublebar Goatfish,eatenBy
+49506,97312,Cheilio inermis,Cigar Wrasse,eatenBy
+49506,204571,Lutjanus fulviflamma,Blackspot Snapper,eatenBy
+49506,123268,Diodon liturosus,Blackblotched Porcupinefish,eatenBy
+49506,132377,Parupeneus spilurus,Blacksaddle Goatfish,eatenBy
+49506,104515,Lethrinus genivittatus,Threadfin Emperor,eatenBy
+49506,100121,Epinephelus merra,Honeycomb Grouper,eatenBy
+49506,63740,Gadus morhua,Atlantic Cod,eatenBy
+49506,49746,Epinephelus striatus,Nassau Grouper,eatenBy
+49506,128172,Mulloidichthys martinicus,Yellow Goatfish,eatenBy
+49506,128986,Calamus,Rattan palms,eatenBy
+49506,85249,Scorpaena inermis,Mushroom Scorpionfish,eatenBy
+49506,49262,Haemulon sciurus,Bluestriped Grunt,eatenBy
+49506,131387,Lutjanus mahogoni,Mahogany Snapper,eatenBy
+49506,131458,Diplectrum bivittatum,Dwarf Sand Perch,eatenBy
+49506,131452,Bellator militaris,Horned Searobin,eatenBy
+49506,179477,Prionotus longispinosus,Bigeye Searobin,eatenBy
+49506,317314,Prionotus paralatus,Mexican Searobin,eatenBy
+49506,179490,Prionotus rubio,Blackwing Searobin,eatenBy
+49506,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+49506,317316,Prionotus roseus,Blue-spotted Searobin,eatenBy
+49506,179454,Syacium papillosum,Dusky Flounder,eatenBy
+49506,49616,Prionotus scitulus,Leopard searobin,eatenBy
+49506,317226,Monolene sessilicauda,Deepwater Flounder,eatenBy
+49506,154441,Lepophidium brevibarbe,Blackedge Cusk-eel,eatenBy
+49506,131454,Halieutichthys aculeatus,Pancake Batfish,eatenBy
+49506,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+49506,49509,Lutjanus griseus,Grey Snapper,eatenBy
+49506,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49506,49637,Epinephelus morio,Red Grouper,eatenBy
+49506,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+49506,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+49506,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+49506,128750,Sciaenops ocellatus,Red Drum,eatenBy
+49506,108196,Pagrus pagrus,Red Porgy,eatenBy
+49506,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+49506,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+49506,49244,Scorpaena plumieri,Spotted Scorpionfish,eatenBy
+49506,179491,Prionotus tribulus,Bighead Searobin,eatenBy
+49506,179545,Menticirrhus americanus,Southern Kingfish,eatenBy
+49506,49750,Archosargus probatocephalus,Sheepshead,eatenBy
+49506,131491,Rachycentron canadum,Cobia,eatenBy
+49506,179442,Urophycis floridana,Southern Codling,eatenBy
+49506,57814,Pogonias cromis,Black Drum,eatenBy
+49506,49235,Clupeiformes,Herrings,preysOn
+49506,54661,Mugilidae,Mullets,preysOn
+49506,49506,Portunidae,Swimming Crabs,preysOn
+49506,47114,Gastropoda,Gastropods,preysOn
+49506,342912,Caridea,Caridean Shrimps,preysOn
+49506,49944,Gerreidae,Mojarras,preysOn
+49506,,Infauna,,preysOn
+49506,49172,Sciaenidae,Drums,preyedUponBy
+49506,88563,Gobius,,preyedUponBy
+49506,49506,Portunidae,Swimming Crabs,preyedUponBy
+49506,47272,Rajiformes,Skates,preyedUponBy
+49506,47232,Carangidae,Jacks,preyedUponBy
+49506,,Mexican mojarras,,preyedUponBy
+49506,49438,Centropomidae,Snooks,preyedUponBy
+49506,,Pleuronectiformes,,preyedUponBy
+49506,94904,Auchenoglanis biscutatus,,preyedUponBy
+49506,545754,Carcinonemertes carcinophila,crab nemertean,preyedUponBy

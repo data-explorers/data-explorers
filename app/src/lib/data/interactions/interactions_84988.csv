@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84988,7056,Aythya americana,Redhead,eatenBy
+84988,55396,Solea solea,Common Sole,eatenBy
+84988,51178,Astropecten indicus,Plain Sand Star,eatenBy
+84988,558991,Plesionika heterocarpus,Arrow shrimp,eatenBy
+84988,391942,Macomona liliana,Wedge Shell,preysOn
+84988,409698,Austrovenus stutchburyi,New Zealand Cockle,preysOn
+84988,,Zooplankton,,preysOn
+84988,6930,Anas platyrhynchos,Mallard,preyedUponBy
+84988,431788,Anthopleura aureoradiata,Small Brown Sea Anemone,preyedUponBy
+84988,47188,Pachygrapsus crassipes,Striped Shore Crab,preyedUponBy
+84988,6993,Bucephala albeola,Bufflehead,preyedUponBy
+84988,7086,Branta,Black Geese,preyedUponBy
+84988,3855,Calidris mauri,Western Sandpiper,preyedUponBy
+84988,7072,Tadorna variegata,Paradise Shelduck,preyedUponBy
+84988,4835,Himantopus himantopus,Black-winged Stilt,preyedUponBy
+84988,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+84988,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preyedUponBy
+84988,,Anas americana,,preyedUponBy
+84988,,Limnodromus griseus,,preyedUponBy
+84988,6937,Anas crecca,Green-winged Teal,preyedUponBy
+84988,,Rallus longirostrus,,preyedUponBy
+84988,162,Porzana carolina,Sora,preyedUponBy
+84988,,Anas cyanoptera,,preyedUponBy
+84988,7054,Aythya affinis,Lesser Scaup,preyedUponBy

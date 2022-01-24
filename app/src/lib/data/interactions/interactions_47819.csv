@@ -1,0 +1,72 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47819,155309,Culex quinquefasciatus,Southern House Mosquito,eats
+47819,,Tupiperla,,eats
+47819,,Heterelmis,,eats
+47819,366248,Limnophyes,,eats
+47819,174181,Corynoneura,,eats
+47819,119342,Neoscona arabesca,Arabesque Orbweaver,eatenBy
+47819,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47819,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47819,14850,Sturnus vulgaris,European Starling,eatenBy
+47819,3759,Plegadis chihi,White-faced Ibis,eatenBy
+47819,4665,Falco sparverius,American Kestrel,eatenBy
+47819,,Agonostomus monticola,,eatenBy
+47819,,Brycinus leuciscus,,eatenBy
+47819,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+47819,,Motacilla alba,,eatenBy
+47819,,Trichonephila clavipes,,eatenBy
+47819,,Promachus rufipes,,eatenBy
+47819,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+47819,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47819,19577,Chordeiles minor,Common Nighthawk,eatenBy
+47819,144479,Gallinula galeata,Common Gallinule,eatenBy
+47819,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+47819,,Setophaga pinus,,eatenBy
+47819,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+47819,84670,Ephydridae,Shore Flies,preysOn
+47819,61860,Calliphoridae,Blow Flies,preysOn
+47819,47928,Zygoptera,Damselflies,preysOn
+47819,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+47819,47157,Lepidoptera,Butterflies and Moths,preysOn
+47819,60393,Tipula,,preysOn
+47819,70144,Muscidae,House Flies and Allies,preysOn
+47819,52910,Sarcophagidae,Flesh Flies,preysOn
+47819,55351,Phoridae,Humpbacked Flies,preysOn
+47819,53275,Chironomidae,Non-biting Midges,preysOn
+47819,47199,Ichneumonidae,Ichneumonid Wasps,preysOn
+47819,48286,Rhinophoridae,Woodlouse Flies,preysOn
+47819,127593,Chloropidae,Frit Flies,preysOn
+47819,85862,Leptoceridae,Long-horned Caddisflies,preysOn
+47819,,Heterelmis,,preysOn
+47819,366248,Limnophyes,,preysOn
+47819,174181,Corynoneura,,preysOn
+47819,,Tupiperla,,preysOn
+47819,546367,Nemotelus pantherinus,Fen Snout,preysOn
+47819,470715,Mythimna straminea,Southern Wainscot,preysOn
+47819,,Limnia paludicola,,preysOn
+47819,,Pherbina coryleti,,preysOn
+47819,,Haematopota,,preysOn
+47819,49460,Empididae,Dance Flies,preysOn
+47819,495985,Limnobaris dolorosa,,preysOn
+47819,52380,Aphidoidea,,preysOn
+47819,69803,Ceratopogonidae,Biting Midges,preysOn
+47819,,Rhopalum,,preysOn
+47819,,Herina parva,,preysOn
+47819,,Episyrphus balteatus,,preysOn
+47819,,Sepedon spinipes,,preysOn
+47819,1087985,Swammerdamella brevicornis,,preysOn
+47819,,Agriotes,,preysOn
+47819,,Dolichopus nubilius,,preysOn
+47819,578473,Herina frondescentiae,,preysOn
+47819,,Sciaridae,,preysOn
+47819,,Oulema melanopus,,preysOn
+47819,,Callitula ferrierei,,preysOn
+47819,,Sphaerocidae,,preysOn
+47819,,"Dolichopus nubilius Meigen, 1924",,preysOn
+47819,67731,Anax junius,Common Green Darner,preyedUponBy
+47819,,Regina alleni,,preyedUponBy
+47819,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47819,4643,Falco subbuteo,Eurasian Hobby,preyedUponBy
+47819,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+47819,,Orthetrum albistylum,,preyedUponBy
+47819,16100,Contopus virens,Eastern Wood-Pewee,preyedUponBy

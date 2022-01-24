@@ -1,0 +1,111 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49370,58531,Colias philodice,Clouded Sulphur,eatenBy
+49370,58532,Colias eurytheme,Orange Sulphur,eatenBy
+49370,58533,Colias,Clouded Yellows,eatenBy
+49370,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+49370,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+49370,59152,Leptotes marina,Marine Blue,eatenBy
+49370,50931,Strymon melinus,Gray Hairstreak,eatenBy
+49370,202789,Trichoplusia ni,Cabbage Looper Moth,eatenBy
+49370,231425,Spodoptera exigua,Beet Armyworm Moth,eatenBy
+49370,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+49370,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+49370,906,Meleagris gallopavo,Wild Turkey,eatenBy
+49370,,Meloe franciscianus,,eatenBy
+49370,,Aricia shasta,,eatenBy
+49370,,Agriades,,eatenBy
+49370,,Albulina orbitulus,,eatenBy
+49370,,Anteos clorinde,,eatenBy
+49370,209721,Colias alexandra,Queen Alexandra’s Sulphur,eatenBy
+49370,,Colias hecla,,eatenBy
+49370,,Erynnis afranius,,eatenBy
+49370,,Cupido argiades,,eatenBy
+49370,,Colias tyche,,eatenBy
+49370,,Cupido amyntula,,eatenBy
+49370,,Colias hyperborea,,eatenBy
+49370,,Colias aurorina,,eatenBy
+49370,,Colias marcopolo,,eatenBy
+49370,,Colias nastes,,eatenBy
+49370,,Colias meadii,,eatenBy
+49370,,Cupido minimus,,eatenBy
+49370,,Colias occidentalis,,eatenBy
+49370,,Colias croceus,,eatenBy
+49370,199292,Colias harfordii,Harford's Sulphur,eatenBy
+49370,,Colias thisoa,,eatenBy
+49370,,Colias sagartia,,eatenBy
+49370,,Erynnis persius,,eatenBy
+49370,,Colias alfacariensis,,eatenBy
+49370,,Colias eogene,,eatenBy
+49370,,Colias chlorocoma,,eatenBy
+49370,,Colias heos,,eatenBy
+49370,484048,Colias caucasica,Balkan Clouded Yellow,eatenBy
+49370,,Glaucopsyche alexis,,eatenBy
+49370,,Glaucopsyche piasus,,eatenBy
+49370,,Colias christina,,eatenBy
+49370,69940,Hemiargus ceraunus,Ceraunus Blue,eatenBy
+49370,,Lampides boeticus,,eatenBy
+49370,,Polyommatus amor,,eatenBy
+49370,,Plebejus argus,,eatenBy
+49370,,Polyommatus coridon,,eatenBy
+49370,,Plebejus hespericus,,eatenBy
+49370,,Plebejus argyrognomon,,eatenBy
+49370,,Polyommatus escheri,,eatenBy
+49370,,Polyommatus eros,,eatenBy
+49370,,Lycaeides melissa,,eatenBy
+49370,,Plebejus pylaon,,eatenBy
+49370,,Plebejus idas,,eatenBy
+49370,,Plebejus martini,,eatenBy
+49370,,Plebejus trappi,,eatenBy
+49370,209725,Satyrium behrii,Behr's Hairstreak,eatenBy
+49370,,Thorybes bathyllus,,eatenBy
+49370,,Plebejus allardi,,eatenBy
+49370,,Tomares mauretanicus,,eatenBy
+49370,,Polyommatus icarus,,eatenBy
+49370,,Thorybes pylades,,eatenBy
+49370,,Spharagemon campestris,,eatenBy
+49370,1322898,Bembecia lomatiaeformis,,eatenBy
+49370,,Pima boisduvaliella,,eatenBy
+49370,,Pima parkerella,,eatenBy
+49370,,Autographa californica,,eatenBy
+49370,,Lygephila lusoria,,eatenBy
+49370,,Lygephila pastinum,,eatenBy
+49370,,Cupido amyntula amyntula,,eatenBy
+49370,,Plebejus acmon,,eatenBy
+49370,,Coleophora vicinella,,eatenBy
+49370,,Coleophora colutella,,eatenBy
+49370,,Walshia miscecolorella,,eatenBy
+49370,41641,Ursus arctos,Brown Bear,eatenBy
+49370,,Globiceps (Kelidocoris) flavomaculatus,,eatenBy
+49370,,Aeolothrips kuwanaii,,eatenBy
+49370,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+49370,,Alectoris chukar,,eatenBy
+49370,2090,Ortalis vetula,Plain Chachalaca,eatenBy
+49370,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+49370,57671,Anthidium,Carder Bees,pollinatedBy
+49370,61858,Lucilia,Greenbottle Flies,pollinatedBy
+49370,780634,Pseudolucia chilensis,,pollinatedBy
+49370,936543,Anthidium gayi,Gay's Woolcarder,pollinatedBy
+49370,574506,Alloscirtetica,,pollinatedBy
+49370,,http://treatment.plazi.org/id/C72136B726E5580342B37994B63EAA2E,,pollinatedBy
+49370,,Calocoris rapidus,,pollinatedBy
+49370,,Parhelophilus divisus,,pollinatedBy
+49370,,Syrphus torvus,,pollinatedBy
+49370,,Spallanzania hesperidarum,,pollinatedBy
+49370,,Cheilosia capillata,,pollinatedBy
+49370,,Ceropales,,pollinatedBy
+49370,,Phasia robertsonii,,pollinatedBy
+49370,,Euphorus,,pollinatedBy
+49370,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+49370,,Ripiphorus,,pollinatedBy
+49370,,Polygonia interrogationis,,pollinatedBy
+49370,320563,Anthocomus,,pollinatedBy
+49370,,Emphor,,pollinatedBy
+49370,299141,Urosigalphus femoratus,,pollinatedBy
+49370,215758,Calliopsis coloradensis,Colorado Calliopsis Bee,pollinatedBy
+49370,,Parandrena,,pollinatedBy
+49370,199066,Sphecodes heraclei,Cyclops Blood Bee,pollinatedBy
+49370,,Lampronota,,pollinatedBy
+49370,,Odontalictus,,pollinatedBy
+49370,,Phor,,pollinatedBy
+49370,459021,Andrena quintilis,Eastern Scaly Miner Bee,pollinatedBy
+49370,,,,pollinatedBy

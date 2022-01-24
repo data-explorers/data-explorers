@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+194033,,Macrocystes,,eats
+194033,3941,Arenaria melanocephala,Black Turnstone,eatenBy
+194033,67561,Charadriiformes,Shorebirds and Allies,eatenBy
+194033,40268,Chiroptera,Bats,eatenBy
+194033,,Passerculus sandwichensis beldingi,,eatenBy
+194033,,Brachystosternus,,eatenBy
+194033,38957,Tropidurus,Lava Lizards,eatenBy
+194033,10733,Geositta,South American Miners,eatenBy
+194033,,Corvus caurinus,,eatenBy
+194033,126155,Vespula germanica,German Yellowjacket,preyedUponBy

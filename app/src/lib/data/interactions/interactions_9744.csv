@@ -1,0 +1,233 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9744,47158,Insecta,Insects,eats
+9744,47124,Magnoliopsida,dicots,eats
+9744,47434,Poaceae,grasses,eats
+9744,211194,Tracheophyta,vascular plants,eats
+9744,1,Animalia,Animals,eats
+9744,47157,Lepidoptera,Butterflies and Moths,eats
+9744,47120,Arthropoda,Arthropods,eats
+9744,47208,Coleoptera,Beetles,eats
+9744,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9744,82232,Blattidae,Household Cockroaches,eats
+9744,50321,Lathyrus,sweet peas and vetchlings,eats
+9744,52381,Aphididae,Aphids,eats
+9744,53248,Elateridae,Click Beetles,eats
+9744,48972,Polygonum,knotweeds,eats
+9744,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9744,47118,Araneae,Spiders,eats
+9744,48439,Chenopodium,Goosefoots,eats
+9744,47649,Acrididae,Short-horned Grasshoppers,eats
+9744,50055,Setaria,foxtails and bristlegrasses,eats
+9744,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9744,58390,Triticum,Wheats,eats
+9744,60773,Vitis,grapevines,eats
+9744,47819,Libellulidae,Skimmers,eats
+9744,48449,Zea,Corns and Teosintes,eats
+9744,52326,Amaranthus,amaranths,eats
+9744,47982,Asilidae,Robber Flies,eats
+9744,47792,Odonata,Dragonflies and Damselflies,eats
+9744,47925,Coenagrionidae,Narrow-winged Damselflies,eats
+9744,48571,Carex,true sedges,eats
+9744,47822,Diptera,Flies,eats
+9744,58374,Echinochloa,Barnyard Grasses,eats
+9744,48736,Curculionidae,True Weevils,eats
+9744,51637,Digitaria,"crabgrasses, cottontops, and allies",eats
+9744,51146,Chrysomelidae,Leaf Beetles,eats
+9744,47114,Gastropoda,Gastropods,eats
+9744,48943,Datura,devil's trumpets,eats
+9744,53275,Chironomidae,Non-biting Midges,eats
+9744,53165,Croton,Crotons,eats
+9744,60301,Panicum,panicgrasses,eats
+9744,60304,Paspalum,Paspalum,eats
+9744,47115,Mollusca,Molluscs,eats
+9744,49567,Carabidae,Ground Beetles,eats
+9744,47336,Formicidae,Ants,eats
+9744,72111,Eleusine,,eats
+9744,52734,Cyperus,flatsedges,eats
+9744,48797,Malvaceae,Mallow and Hibiscus Family,eats
+9744,58387,Sorghum halepense,Johnson grass,eats
+9744,57920,Xanthium strumarium,rough cocklebur,eats
+9744,53036,Ambrosia,ragweeds,eats
+9744,50641,Solanum,nightshades,eats
+9744,58389,Sorghum bicolor,Sorghum,eats
+9744,48601,Phytolacca,Pokeberries,eats
+9744,54765,Rhus,sumacs,eats
+9744,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+9744,47928,Zygoptera,Damselflies,eats
+9744,47927,Anisoptera,Dragonflies,eats
+9744,125816,Auchenorrhyncha,True Hoppers,eats
+9744,56955,Helianthus,sunflowers,eats
+9744,58127,Chenopodium album,Common Lambsquarters,eats
+9744,71257,Bouteloua gracilis,Blue Grama,eats
+9744,119139,Lespedeza,bush clovers and lespedezas,eats
+9744,79185,Sporobolus cryptandrus,Sand Dropseed,eats
+9744,49995,Syrphidae,Hover Flies,eats
+9744,53237,Cicadellidae,Typical Leafhoppers,eats
+9744,47187,Malacostraca,Malacostracans,eats
+9744,48670,Noctuidae,Cutworm Moths and Allies,eats
+9744,119932,Rhinotermitidae,,eats
+9744,47851,Quercus,oaks,eats
+9744,51777,Coreidae,Leaf-footed Bugs,eats
+9744,68104,Bryozoa,Bryozoans,eats
+9744,57659,Dytiscidae,Predaceous Diving Beetles,eats
+9744,49530,Geometridae,Geometer Moths,eats
+9744,49683,Pyralidae,Pyralid Snout Moths,eats
+9744,83456,Decodon verticillatus,swamp loosestrife,eats
+9744,82177,Hermetia illucens,Black Soldier Fly,eats
+9744,48124,Tettigoniidae,Katydids,eats
+9744,47951,Staphylinidae,Rove Beetles,eats
+9744,70127,Stratiomyidae,Soldier Flies,eats
+9744,51225,Tipulidae,Large Crane Flies,eats
+9744,63187,Braconidae,Braconid Wasps,eats
+9744,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+9744,60997,Ceratophyllum demersum,coontail,eats
+9744,75867,Brasenia schreberi,Watershield,eats
+9744,52697,Avena,Oats,eats
+9744,118492,Helicoverpa zea,Corn Earworm Moth,eats
+9744,52884,Gryllidae,True Crickets,eats
+9744,26036,Reptilia,Reptiles,eats
+9744,47491,Annelida,Segmented Worms,eats
+9744,20978,Amphibia,Amphibians,eats
+9744,3,Aves,Birds,eats
+9744,59653,Gerridae,Water Striders,eats
+9744,67731,Anax junius,Common Green Darner,eats
+9744,174572,Callibaetis,Speckled Duns,eats
+9744,84670,Ephydridae,Shore Flies,eats
+9744,52864,Tramea,Saddlebag Gliders,eats
+9744,57983,Helianthus annuus,Common Sunflower,eats
+9744,1081313,Lon,,eats
+9744,48460,Life,,eats
+9744,48448,Zea mays,Maize,eats
+9744,57156,Avena sativa,Oat,eats
+9744,41663,Procyon lotor,Common Raccoon,eatenBy
+9744,67570,Falconiformes,Falcons and Caracaras,eatenBy
+9744,7601,Cistothorus palustris,Marsh Wren,eatenBy
+9744,19350,Strigiformes,Owls,eatenBy
+9744,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+9744,4956,Ardea herodias,Great Blue Heron,eatenBy
+9744,8021,Corvus brachyrhynchos,American Crow,eatenBy
+9744,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+9744,4672,Falco columbarius,Merlin,eatenBy
+9744,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+9744,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+9744,20445,Tyto alba,Barn Owl,eatenBy
+9744,20044,Bubo virginianus,Great Horned Owl,eatenBy
+9744,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+9744,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9744,19893,Strix varia,Barred Owl,eatenBy
+9744,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+9744,891696,Pica pica,Eurasian Magpie,eatenBy
+9744,,Mustela vison,,eatenBy
+9744,,Python molurus bivittatus,,eatenBy
+9744,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+9744,20315,Asio flammeus,Short-eared Owl,eatenBy
+9744,20307,Asio otus,Long-eared Owl,eatenBy
+9744,5186,Buteo brachyurus,Short-tailed Hawk,eatenBy
+9744,4644,Falco mexicanus,Prairie Falcon,eatenBy
+9744,59653,Gerridae,Water Striders,preysOn
+9744,47126,Plantae,plants,preysOn
+9744,53275,Chironomidae,Non-biting Midges,preysOn
+9744,67731,Anax junius,Common Green Darner,preysOn
+9744,174572,Callibaetis,Speckled Duns,preysOn
+9744,84670,Ephydridae,Shore Flies,preysOn
+9744,52864,Tramea,Saddlebag Gliders,preysOn
+9744,250072,Metacyrba,,preysOn
+9744,203347,Anurida maritima,Seashore Springtail,preysOn
+9744,47550,Tetragnatha,,preysOn
+9744,47951,Staphylinidae,Rove Beetles,preysOn
+9744,52426,Chrysopa,Stink Lacewings,preysOn
+9744,252535,Ectopsocus,,preysOn
+9744,153567,Anyphaena,,preysOn
+9744,121467,Uloborus,Feather-legged Spiders,preysOn
+9744,82081,Theridion,Tangleweb Spiders,preysOn
+9744,153635,Sergiolus,,preysOn
+9744,55659,Pyrausta,Mint Moths,preysOn
+9744,307026,Labidura riparia,Shore Earwig,preysOn
+9744,67706,Argiope argentata,Silver Garden Orbweaver,preysOn
+9744,133824,Chrysobothris,,preysOn
+9744,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",preysOn
+9744,133054,Maevia inclemens,Dimorphic Jumping Spider,preysOn
+9744,47792,Odonata,Dragonflies and Damselflies,preysOn
+9744,203276,Orius,,preysOn
+9744,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+9744,49995,Syrphidae,Hover Flies,preysOn
+9744,51146,Chrysomelidae,Leaf Beetles,preysOn
+9744,203279,Scaphytopius,,preysOn
+9744,52756,Polistes,Umbrella Paper Wasps,preysOn
+9744,68941,Brachymyrmex,Rover Ants,preysOn
+9744,153595,Dictyna,,preysOn
+9744,177071,Melipotis,,preysOn
+9744,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",preysOn
+9744,48670,Noctuidae,Cutworm Moths and Allies,preysOn
+9744,47158,Insecta,Insects,preysOn
+9744,47927,Anisoptera,Dragonflies,preysOn
+9744,47928,Zygoptera,Damselflies,preysOn
+9744,68138,Sympetrum corruptum,Variegated Meadowhawk,preysOn
+9744,47157,Lepidoptera,Butterflies and Moths,preysOn
+9744,51679,Coenagrion,Northern Bluets,preysOn
+9744,,Hesperocorixa,,preysOn
+9744,56557,Notonecta,Milky Backswimmers,preysOn
+9744,,Lestes,,preysOn
+9744,69803,Ceratopogonidae,Biting Midges,preysOn
+9744,,Ecphylus,,preysOn
+9744,135256,Eustala,,preysOn
+9744,,Psocidus,,preysOn
+9744,153645,Gnaphosa,,preysOn
+9744,,Melittobia chalybii,,preysOn
+9744,,Echmepteryx hageni,,preysOn
+9744,57451,Scytodes,,preysOn
+9744,,Haplothrips flavipes,,preysOn
+9744,,Paraleyrodes,,preysOn
+9744,,Xenomyrmex floridanus,,preysOn
+9744,844909,Ariadna arthuri,,preysOn
+9744,,Belaphotroctes ghesquierei,,preysOn
+9744,,Tetraluerodes,,preysOn
+9744,,Liposcelis bostrychophila,,preysOn
+9744,270670,Ectopsocopsis cryptomeriae,Large-winged Psocid,preysOn
+9744,354274,Ballus,,preysOn
+9744,,Oxydia,,preysOn
+9744,938094,Cryptorama minutum,,preysOn
+9744,,Pauropoda,,preysOn
+9744,464046,Rhagovelia plumbea,,preysOn
+9744,225137,Micronaspis floridana,,preysOn
+9744,,Hapithus gryllodes,,preysOn
+9744,,Tyrophagus putrescentiae,,preysOn
+9744,,Tetranychus,,preysOn
+9744,,Liothrips,,preysOn
+9744,266087,Pachodynerus nasidens,Keyhole Wasp,preysOn
+9744,,Cephalonomia waterstoni,,preysOn
+9744,,Littoraria angulifera,,preysOn
+9744,,Styloleptus biustus dorsalis,,preysOn
+9744,230399,Sapintus fulvipes,,preysOn
+9744,49541,Gasteracantha,Spiny Orbweavers,preysOn
+9744,,Tachys occulator,,preysOn
+9744,,Nephila clavipes,,preysOn
+9744,,WINTERSCHMIDTIIDAE,,preysOn
+9744,,Lapisma sp.,,preysOn
+9744,,Oebalus pugnax,,preysOn
+9744,178747,Tricorynus,,preysOn
+9744,84495,Paraphidippus,,preysOn
+9744,49024,Membracidae,Typical Treehoppers,preysOn
+9744,329607,Holoparamecus,,preysOn
+9744,,Tyrannochelifer,,preysOn
+9744,,Agamerion,,preysOn
+9744,,Cycloptilum,,preysOn
+9744,,Leptostylus,,preysOn
+9744,,Iphiaulax,,preysOn
+9744,49880,Misumenops,,preysOn
+9744,1300915,Marojala,,preysOn
+9744,,Cyrtoxipha,,preysOn
+9744,,Lichenomima,,preysOn
+9744,,Brachymeria psyche,,preysOn
+9744,518452,Carthasis decoratus,,preysOn
+9744,,Neurothrips magnafemoraus,,preysOn
+9744,,Neanastatus,,preysOn
+9744,153571,Mangora,,preysOn
+9744,203330,Sericoderus,,preysOn
+9744,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+9744,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+9744,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+9744,64968,Anaxyrus americanus,American Toad,preyedUponBy
+9744,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+9744,5097,Accipiter striatus,Sharp-shinned Hawk,preyedUponBy
+9744,26159,Alligator mississippiensis,American Alligator,preyedUponBy

@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47698,55626,Pieris rapae,Cabbage White,eatenBy
+47698,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+47698,,Pieris napi,,eatenBy
+47698,,Pieris brassicae,,eatenBy
+47698,,Argynnis,,eatenBy
+47698,,Rhigognostis senilella,,eatenBy
+47698,,Plutella porrectella,,eatenBy
+47698,,Phomopsis cruciferae,,eatenBy
+47698,,Chromatomyia horticola,,eatenBy

@@ -1,0 +1,72 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53831,67419,Egregia menziesii,Feather Boa Kelp,eats
+53831,124748,Macrocystis pyrifera,Giant Kelp,eats
+53831,,Algae,,eats
+53831,,Prymnesiophyceae,,eats
+53831,,Encrusting and mat-forming algae,,eats
+53831,,encrusting and mat-forming algae,,eats
+53831,,Macroalgae,,eats
+53831,125879,Eisenia arborea,Southern sea palm,eats
+53831,81879,Laminaria farlowii,oar weed,eats
+53831,,Botryoglossum farlowianum,,eats
+53831,359801,Rhodymenia pacifica,,eats
+53831,,Cystoseira osmundacea,,eats
+53831,133214,Rhodymenia californica,,eats
+53831,48834,Pisaster,Giant Sea Stars,eatenBy
+53831,94130,Anisotremus davidsonii,Sargo,eatenBy
+53831,47827,Cancer,,eatenBy
+53831,47458,Octopoda,Octopuses,eatenBy
+53831,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+53831,,Leptasterias,,eatenBy
+53831,67632,Acanthina,,eatenBy
+53831,,Cribrina,,eatenBy
+53831,95066,Balistes vetula,Queen Triggerfish,eatenBy
+53831,179820,Heterostichus rostratus,Giant Kelpfish,eatenBy
+53831,64455,Sebastes carnatus,Gopher Rockfish,eatenBy
+53831,52552,Oxyjulis californica,senorita,eatenBy
+53831,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,eatenBy
+53831,102081,Halichoeres semicinctus,Rock Wrasse,eatenBy
+53831,117553,Brachyistius frenatus,Kelp Surfperch,eatenBy
+53831,51491,Myliobatis californica,Bat Ray,eatenBy
+53831,,Conus californicus,,eatenBy
+53831,117554,Embiotoca jacksoni,Black surfperch,eatenBy
+53831,117555,Embiotoca lateralis,Striped surfperch,eatenBy
+53831,68596,Hexagrammos decagrammus,Kelp Greenling,eatenBy
+53831,53699,Semicossyphus pulcher,California sheephead,eatenBy
+53831,125663,Kelletia kelletii,Kellet's Whelk,eatenBy
+53831,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+53831,48833,Pisaster giganteus,Giant Sea Star,eatenBy
+53831,64481,Sebastes atrovirens,kelp rockfish,eatenBy
+53831,620519,Sebastes capensis,false jacobever,eatenBy
+53831,124748,Macrocystis pyrifera,Giant Kelp,preysOn
+53831,67419,Egregia menziesii,Feather Boa Kelp,preysOn
+53831,,Macroalgae,,preysOn
+53831,125879,Eisenia arborea,Southern sea palm,preysOn
+53831,,Cystoseira osmundacea,,preysOn
+53831,359801,Rhodymenia pacifica,,preysOn
+53831,,Botryoglossum farlowianum,,preysOn
+53831,81879,Laminaria farlowii,oar weed,preysOn
+53831,133214,Rhodymenia californica,,preysOn
+53831,48834,Pisaster,Giant Sea Stars,preyedUponBy
+53831,94130,Anisotremus davidsonii,Sargo,preyedUponBy
+53831,47458,Octopoda,Octopuses,preyedUponBy
+53831,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+53831,47827,Cancer,,preyedUponBy
+53831,,Leptasterias,,preyedUponBy
+53831,67632,Acanthina,,preyedUponBy
+53831,179820,Heterostichus rostratus,Giant Kelpfish,preyedUponBy
+53831,53699,Semicossyphus pulcher,California sheephead,preyedUponBy
+53831,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,preyedUponBy
+53831,64481,Sebastes atrovirens,kelp rockfish,preyedUponBy
+53831,64455,Sebastes carnatus,Gopher Rockfish,preyedUponBy
+53831,68596,Hexagrammos decagrammus,Kelp Greenling,preyedUponBy
+53831,117553,Brachyistius frenatus,Kelp Surfperch,preyedUponBy
+53831,117555,Embiotoca lateralis,Striped surfperch,preyedUponBy
+53831,47669,Orthasterias koehleri,Rainbow Star,preyedUponBy
+53831,48833,Pisaster giganteus,Giant Sea Star,preyedUponBy
+53831,52552,Oxyjulis californica,senorita,preyedUponBy
+53831,102081,Halichoeres semicinctus,Rock Wrasse,preyedUponBy
+53831,,Conus californicus,,preyedUponBy
+53831,125663,Kelletia kelletii,Kellet's Whelk,preyedUponBy
+53831,117554,Embiotoca jacksoni,Black surfperch,preyedUponBy
+53831,51491,Myliobatis californica,Bat Ray,preyedUponBy

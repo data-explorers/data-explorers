@@ -1,0 +1,117 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47308,48147,Isopoda,Isopods,eats
+47308,47120,Arthropoda,Arthropods,eats
+47308,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47308,67561,Charadriiformes,Shorebirds and Allies,eatenBy
+47308,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+47308,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+47308,4343,Larus,Large White-headed Gulls,eatenBy
+47308,41550,Balaenoptera acutorostrata,Minke Whale,eatenBy
+47308,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+47308,41440,Phocoena phocoena,Harbour Porpoise,eatenBy
+47308,47280,Pterois volitans,Common Lionfish,eatenBy
+47308,48407,Raja,,eatenBy
+47308,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47308,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+47308,144455,Ardea alba,Great Egret,eatenBy
+47308,,Detritus,,eatenBy
+47308,,Hydrophiidae,,eatenBy
+47308,260291,Alpheus heterochaelis,Bigclaw snapping shrimp,eatenBy
+47308,204533,Larus argentatus,Herring Gull,eatenBy
+47308,4436,Sterna dougallii,Roseate Tern,eatenBy
+47308,144536,Gelochelidon nilotica,Gull-billed Tern,eatenBy
+47308,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+47308,4327,Pelecanus onocrotalus,Great White Pelican,eatenBy
+47308,4272,Phalacrocorax aristotelis,European Shag,eatenBy
+47308,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+47308,144527,Onychoprion anaethetus,Bridled Tern,eatenBy
+47308,128828,Eriphia smithii,Red-eyed Reef Crab,eatenBy
+47308,700305,Alloteuthis subulata,European Common Squid,eatenBy
+47308,41509,Lagenorhynchus acutus,Atlantic White-sided Dolphin,eatenBy
+47308,201536,Loligo forbesii,Veined Squid,eatenBy
+47308,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+47308,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47308,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+47308,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+47308,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47308,430553,Merlangius merlangus,Whiting,eatenBy
+47308,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+47308,179630,Citharichthys spilopterus,Bay Whiff,eatenBy
+47308,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+47308,179466,Strongylura notata notata,Redfin needlefish,eatenBy
+47308,118631,Scorpaena porcus,Black Scorpionfish,eatenBy
+47308,110054,Ponticola kessleri,Bighead Goby,eatenBy
+47308,49437,Centropomus undecimalis,Common Snook,eatenBy
+47308,109062,Perca fluviatilis,European Perch,eatenBy
+47308,104813,Lota lota,Burbot,eatenBy
+47308,55396,Solea solea,Common Sole,eatenBy
+47308,120684,Molva dypterygia,Blue Ling,eatenBy
+47308,102975,Huso huso,Beluga,eatenBy
+47308,48397,Raja clavata,Thornback Skate,eatenBy
+47308,,Zeus faber,,eatenBy
+47308,620302,Collichthys lucidus,,eatenBy
+47308,107448,Okamejei kenojei,Ocellated Spot Skate,eatenBy
+47308,93189,Acipenser ruthenus,Sterlet,eatenBy
+47308,93192,Acipenser stellatus,Starry Sturgeon,eatenBy
+47308,49237,Alosa,Anadromous Shads,eatenBy
+47308,50984,Pomatomus saltatrix,Bluefish,eatenBy
+47308,118709,Lichia amia,Leerfish,eatenBy
+47308,615160,Pomadasys commersonnii,Small-spotted Grunter,eatenBy
+47308,187365,Elops machnata,Indo-Pacific Tenpounder,eatenBy
+47308,123123,Synodus ulae,Hawaiian Lizardfish,eatenBy
+47308,341925,Nandopsis tetracanthus,Cuban Cichlid,eatenBy
+47308,617335,Merluccius capensis,South African Hake,eatenBy
+47308,82326,Hypsopsetta guttulata,Diamond turbot,eatenBy
+47308,49513,Cynoscion,Weakfishes,eatenBy
+47308,96930,Centropomus nigrescens,Pacific Black Snook,eatenBy
+47308,,Dasyatis americana,,eatenBy
+47308,368321,Priacanthus tayenus,Purplespotted Bigeye,eatenBy
+47308,112581,Silurus glanis,Wels Catfish,eatenBy
+47308,204571,Lutjanus fulviflamma,Blackspot Snapper,eatenBy
+47308,100121,Epinephelus merra,Honeycomb Grouper,eatenBy
+47308,195236,Labracinus cyclophthalmus,Firetail Dottyback,eatenBy
+47308,132377,Parupeneus spilurus,Blacksaddle Goatfish,eatenBy
+47308,196572,Parapercis cylindrica,Sharpnose Sandperch,eatenBy
+47308,317104,Fistularia petimba,Rough Flutemouth,eatenBy
+47308,196574,Parapercis hexophtalma,Spotted sandperch,eatenBy
+47308,96990,Cephalopholis boenak,Chocolate Grouper,eatenBy
+47308,,Lutjanus semicinctus,,eatenBy
+47308,63740,Gadus morhua,Atlantic Cod,eatenBy
+47308,,Trisopterus minutus,,eatenBy
+47308,118601,Trisopterus luscus,Pouting,eatenBy
+47308,154441,Lepophidium brevibarbe,Blackedge Cusk-eel,eatenBy
+47308,179455,Syacium gunteri,,eatenBy
+47308,179454,Syacium papillosum,Dusky Flounder,eatenBy
+47308,131458,Diplectrum bivittatum,Dwarf Sand Perch,eatenBy
+47308,131520,Trichopsetta ventralis,Sash Flounder,eatenBy
+47308,317316,Prionotus roseus,Blue-spotted Searobin,eatenBy
+47308,179458,Serranus atrobranchus,Blackear bass,eatenBy
+47308,49509,Lutjanus griseus,Grey Snapper,eatenBy
+47308,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+47308,,Morone mississippiensis,,eatenBy
+47308,128750,Sciaenops ocellatus,Red Drum,eatenBy
+47308,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+47308,57814,Pogonias cromis,Black Drum,eatenBy
+47308,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+47308,131388,Haemulon melanurum,Cottonwick,eatenBy
+47308,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+47308,49421,Diplectrum formosum,Sand Perch,eatenBy
+47308,114252,Torpedo torpedo,Common Torpedo,eatenBy
+47308,41850,Lutra lutra,Eurasian Otter,eatenBy
+47308,64346,Natrix tessellata,Tessellated Water Snake,eatenBy
+47308,41733,Halichoerus grypus,Grey Seal,eatenBy
+47308,210219,Necora puber,Velvet Swimming Crab,eatenBy
+47308,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+47308,30187,Ahaetulla prasina,Oriental Whipsnake,preyedUponBy
+47308,200388,Hydrophis hardwickii,Hardwicke’s Spine-bellied Seasnake,preyedUponBy
+47308,35224,Hydrophis caerulescens,Dwarf Sea Snake,preyedUponBy
+47308,26182,Acrochordus granulatus,Marine File Snake,preyedUponBy
+47308,,Hydrophis brooki,,preyedUponBy
+47308,200394,Hydrophis peronii,Peron's Sea Snake,preyedUponBy
+47308,103044,Hydrophis fasciatus,Slender Sea Snake,preyedUponBy
+47308,35204,Hydrophis ornatus,Ornate Sea Snake,preyedUponBy
+47308,318698,Hydrophis schistosus,Common Seasnake,preyedUponBy
+47308,35202,Hydrophis torquatus,West Coast Black-headed Sea Snake,preyedUponBy
+47308,28285,Tretanorhinus nigroluteus,Orangebelly Swamp Snake,preyedUponBy
+47308,29361,Myron richardsonii,Gray's Water Snake,preyedUponBy
+47308,41850,Lutra lutra,Eurasian Otter,preyedUponBy

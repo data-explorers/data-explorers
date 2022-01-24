@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+39670,47115,Mollusca,Molluscs,eats
+39670,1,Animalia,Animals,eats
+39670,51104,Thaliacea,Thaliaceans,eats
+39670,51108,Pyrosoma atlanticum,,eats
+39670,121656,Janthina,Violet Snails,eats
+39670,85493,Crustacea,Crustaceans,eats
+39670,56715,Conus,,eats
+39670,68104,Bryozoa,Bryozoans,eats
+39670,48147,Isopoda,Isopods,eats
+39670,47126,Plantae,plants,eats
+39670,47628,Amphipoda,Amphipods,eats
+39670,55808,Squilla,,eats
+39670,47811,Ascidiacea,Sea Squirts,eats
+39670,47186,Decapoda,Decapods,eats
+39670,49267,Sphoeroides,,eats
+39670,49313,Lactoria diaphana,Roundbelly Cowfish,eats
+39670,,Gnathostomata,,eats
+39670,246573,Turritella,,eats
+39670,332170,Strombina,,eats
+39670,,Cephalaspidomorphi,,eats
+39670,330812,Nemocardium,,eats
+39670,,Pisces,,eats
+39670,,Pitar,,eats
+39670,246829,Polystira,,eats
+39670,171887,Veneroidea,Veneroid Clams,eats
+39670,172082,Dentalium,,eats
+39670,51790,Polinices,,eats
+39670,,Prymnesiophyceae,,eats
+39670,,Nuculana,,eats
+39670,81867,Terebra,,eats
+39670,547148,Ilione,,eats
+39670,246736,Persicula,,eats
+39670,4765,Coragyps atratus,Black Vulture,eatenBy
+39670,32290,Loxocemus bicolor,Mexican Burrowing Python,preyedUponBy
+39670,,no name,,preyedUponBy
+39670,116538,Paleosuchus palpebrosus,Cuvier's Dwarf Caiman,preyedUponBy
+39670,4631,Fregata magnificens,Magnificent Frigatebird,preyedUponBy

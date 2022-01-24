@@ -1,0 +1,109 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4756,26504,Colubridae,Colubrid Snakes,eats
+4756,118552,Felis catus,Domestic Cat,eats
+4756,42076,Urocyon cinereoargenteus,Gray Fox,eats
+4756,41663,Procyon lotor,Common Raccoon,eats
+4756,42051,Canis latrans,Coyote,eats
+4756,42652,Didelphis virginiana,Virginia Opossum,eats
+4756,41976,Lynx rufus,Bobcat,eats
+4756,47114,Gastropoda,Gastropods,eats
+4756,85553,Serpentes,Snakes,eats
+4756,44349,Peromyscus,North American Deer Mice,eats
+4756,41880,Mephitis mephitis,Striped Skunk,eats
+4756,47186,Decapoda,Decapods,eats
+4756,42223,Odocoileus virginianus,White-tailed Deer,eats
+4756,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+4756,40151,Mammalia,Mammals,eats
+4756,3,Aves,Birds,eats
+4756,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+4756,46020,Sciurus niger,Fox Squirrel,eats
+4756,1,Animalia,Animals,eats
+4756,47124,Magnoliopsida,dicots,eats
+4756,71305,Cardinalidae,Cardinals and Allies,eats
+4756,574,Phasianidae,"Pheasants, Grouse, and Allies",eats
+4756,2715,Columbidae,Pigeons and Doves,eats
+4756,211194,Tracheophyta,vascular plants,eats
+4756,45994,Sciurus,Tree Squirrels,eats
+4756,42043,Canidae,Canids,eats
+4756,46341,Soricidae,Shrews,eats
+4756,46095,Marmota monax,Groundhog,eats
+4756,46927,Talpidae,Moles and Desmans,eats
+4756,45763,Ondatra zibethicus,Muskrat,eats
+4756,41871,Mephitidae,Skunks and Stink-badgers,eats
+4756,47574,Juniperus,junipers,eats
+4756,1986,Geococcyx californianus,Greater Roadrunner,eats
+4756,44737,Neotoma,Woodrats,eats
+4756,882,Gallus gallus,Red Junglefowl,eats
+4756,6912,Anatidae,"Ducks, Geese, and Swans",eats
+4756,36299,Phrynosoma,Horned Lizards,eats
+4756,47208,Coleoptera,Beetles,eats
+4756,26172,Squamata,Snakes and Lizards,eats
+4756,36141,Sceloporus,Spiny Lizards,eats
+4756,12937,Sialia mexicana,Western Bluebird,eats
+4756,60773,Vitis,grapevines,eats
+4756,45933,Sciuridae,Squirrels,eats
+4756,43698,Rodentia,Rodents,eats
+4756,26036,Reptilia,Reptiles,eats
+4756,47158,Insecta,Insects,eats
+4756,49591,Lepomis macrochirus,Bluegill,eats
+4756,906,Meleagris gallopavo,Wild Turkey,eats
+4756,39760,Emydidae,Pond and Box Turtles,eats
+4756,152870,Artiodactyla,Even-toed Ungulates and Cetaceans,eats
+4756,132576,Elaeis guineensis,African oil palm,eats
+4756,132575,Elaeis,oil palms,eats
+4756,42219,Odocoileus,White-tailed and Mule Deer,eats
+4756,47178,Actinopterygii,Ray-finned Fishes,eats
+4756,7089,Branta canadensis,Canada Goose,eats
+4756,41740,Zalophus californianus,California Sea Lion,eats
+4756,473,Fulica americana,American Coot,eats
+4756,180007,Otospermophilus beecheyi,California Ground Squirrel,eats
+4756,44576,Rattus norvegicus,Brown Rat,eats
+4756,41728,Mirounga angustirostris,Northern Elephant Seal,eats
+4756,6930,Anas platyrhynchos,Mallard,eats
+4756,981,Phasianus colchicus,Ring-necked Pheasant,eats
+4756,43115,Sylvilagus audubonii,Desert Cottontail,eats
+4756,42220,Odocoileus hemionus,Mule Deer,eats
+4756,47144,Canis familiaris,Domestic Dog,eats
+4756,49609,Cyprinidae,Cyprinids,eats
+4756,41661,Procyon,Raccoons,eats
+4756,41708,Phoca vitulina,Harbor Seal,eats
+4756,42134,Sus scrofa,Wild Boar,eats
+4756,1280,Colinus virginianus,Northern Bobwhite,eats
+4756,,Tayassuidae,,eats
+4756,,Dasypus novemcinctus,,eats
+4756,,Bos taurus,,eats
+4756,,Chen caerulescens,,eats
+4756,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,eats
+4756,,Equus africanus,,eats
+4756,,Nyctidromus albicollis,,eats
+4756,,Terrapene ornata,,eats
+4756,25474,Rana,Pond Frogs,eats
+4756,,Spermophilus franklinii,,eats
+4756,,Ovis aries,,eats
+4756,,Equus ferus,,eats
+4756,42048,Canis lupus,Gray Wolf,eats
+4756,,Lepus,,eats
+4756,44893,Sigmodon,Cotton Rats,eats
+4756,,Sigmodon fulviventer,,eats
+4756,4938,Egretta tricolor,Tricolored Heron,eats
+4756,,Salvator merianae,,eats
+4756,,Acrocomia,,eats
+4756,4368,Larus marinus,Great Black-backed Gull,eats
+4756,,Odocoileus hemionus fuliginatus,,eats
+4756,41776,Lontra felina,Marine Otter,eats
+4756,,Pinnipedia,,eats
+4756,,Crotalus viridis,,eats
+4756,,Odocoileus hemionus columbianus,,eats
+4756,41789,Taxidea taxus,American Badger,eats
+4756,179508,Bagre marinus,Gafftopsail Catfish,eats
+4756,,Ctenosaura pectinata,,eats
+4756,,Aquila chrysaetos,,eatenBy
+4756,46017,Sciurus carolinensis,Eastern Gray Squirrel,preysOn
+4756,41663,Procyon lotor,Common Raccoon,preysOn
+4756,42652,Didelphis virginiana,Virginia Opossum,preysOn
+4756,3,Aves,Birds,preysOn
+4756,355675,Vertebrata,Vertebrates,preysOn
+4756,42223,Odocoileus virginianus,White-tailed Deer,preysOn
+4756,,carrion,,preysOn
+4756,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+4756,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy

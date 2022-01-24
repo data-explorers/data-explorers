@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84718,,Detritus,,eats
+84718,12942,Sialia sialis,Eastern Bluebird,eatenBy
+84718,9602,Quiscalus quiscula,Common Grackle,eatenBy
+84718,68912,Dysdera crocata,Woodlouse Spider,eatenBy
+84718,,Egaenus convexus,,eatenBy
+84718,120583,Parasteatoda tepidariorum,Common House Spider,preyedUponBy
+84718,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+84718,3864,Calidris minutilla,Least Sandpiper,preyedUponBy
+84718,3954,Limosa fedoa,Marbled Godwit,preyedUponBy
+84718,4793,Charadrius vociferus,Killdeer,preyedUponBy
+84718,,Caenoplana coerulea,,preyedUponBy
+84718,157990,Menemerus semilimbatus,,preyedUponBy
+84718,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preyedUponBy
+84718,82326,Hypsopsetta guttulata,Diamond turbot,preyedUponBy
+84718,101455,Gillichthys mirabilis,Longjaw Mudsucker,preyedUponBy
+84718,108561,Paralichthys californicus,California Halibut,preyedUponBy
+84718,3857,Calidris alpina,Dunlin,preyedUponBy
+84718,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+84718,,Catoptrophorus semipalmatus,,preyedUponBy
+84718,,Chardrius vociferus,,preyedUponBy

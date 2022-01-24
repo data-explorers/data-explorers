@@ -1,0 +1,192 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+132473,67333,Bacteria,bacteria,eats
+132473,47490,Polychaeta,Polychaete Worms,eats
+132473,47628,Amphipoda,Amphipods,eats
+132473,47186,Decapoda,Decapods,eats
+132473,47178,Actinopterygii,Ray-finned Fishes,eats
+132473,121643,Copepoda,Copepods,eats
+132473,1,Animalia,Animals,eats
+132473,47126,Plantae,plants,eats
+132473,47491,Annelida,Segmented Worms,eats
+132473,47158,Insecta,Insects,eats
+132473,85493,Crustacea,Crustaceans,eats
+132473,132473,Lagodon rhomboides,Pinfish,eats
+132473,85532,Mysida,Opossum Shrimps,eats
+132473,48147,Isopoda,Isopods,eats
+132473,49504,Callinectes sapidus,Atlantic Blue Crab,eats
+132473,54644,Ulva,sea lettuces,eats
+132473,47115,Mollusca,Molluscs,eats
+132473,51176,Xanthidae,Round Crabs,eats
+132473,48921,Hydrozoa,Hydrozoans,eats
+132473,47822,Diptera,Flies,eats
+132473,47114,Gastropoda,Gastropods,eats
+132473,47584,Bivalvia,Bivalves,eats
+132473,68764,Ostracoda,Seed Shrimp,eats
+132473,53707,Cladophora,,eats
+132473,85912,Mysidae,,eats
+132473,49129,Balanus,Rock-barnacles,eats
+132473,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+132473,50863,Chlorophyta,green algae,eats
+132473,172042,Laevicardium,Egg Cockles,eats
+132473,348288,Foraminifera,Foraminifers,eats
+132473,49518,Serpulidae,Serpulid Tubeworms,eats
+132473,49581,Nereididae,,eats
+132473,85521,Harpacticoida,Harpacticoid Copepods,eats
+132473,47208,Coleoptera,Beetles,eats
+132473,47797,Actiniaria,Sea Anemones,eats
+132473,210289,Cirripedia,Barnacles,eats
+132473,171484,Hippolyte,,eats
+132473,67334,Cyanobacteria,cyanobacteria,eats
+132473,53275,Chironomidae,Non-biting Midges,eats
+132473,51508,Ctenophora,Comb Jellies,eats
+132473,211194,Tracheophyta,vascular plants,eats
+132473,54960,Nematoda,Nematodes,eats
+132473,121639,Brachyura,True Crabs,eats
+132473,48011,Ephemeroptera,Mayflies,eats
+132473,342912,Caridea,Caridean Shrimps,eats
+132473,47792,Odonata,Dragonflies and Damselflies,eats
+132473,47686,Protozoa,protozoans,eats
+132473,67336,Nostocales,,eats
+132473,51911,Engraulidae,Anchovies,eats
+132473,47533,Anthozoa,Sea Anemones and Corals,eats
+132473,48836,Ophiuroidea,Brittle Stars,eats
+132473,47534,Cnidaria,Cnidarians,eats
+132473,47549,Echinodermata,Echinoderms,eats
+132473,47811,Ascidiacea,Sea Squirts,eats
+132473,48824,Porifera,Sponges,eats
+132473,68104,Bryozoa,Bryozoans,eats
+132473,144117,Thecostraca,Barnacles and Allies,eats
+132473,129726,Cephalochordata,Lancelets,eats
+132473,47120,Arthropoda,Arthropods,eats
+132473,,meiofauna,,eats
+132473,260810,Batea catharinensis,,eats
+132473,,Algae,,eats
+132473,254972,Jaspidella jaspidea,,eats
+132473,51280,Nemertea,Ribbon Worms,eats
+132473,,Detritus,,eats
+132473,,Khakista,,eats
+132473,133336,Halodule wrightii,Shoalgrass,eats
+132473,342910,Dendrobranchiata,Prawns,eats
+132473,106222,Mugil cephalus,Sea Mullet,eats
+132473,144114,Peracarida,Amphipods and Isopods,eats
+132473,51042,Penaeidae,Penaeid Shrimps,eats
+132473,83718,Tanaidacea,Tanaids,eats
+132473,,sediment,,eats
+132473,52197,Penaeus,,eats
+132473,,Meiobenthos,,eats
+132473,,Macrobentos,,eats
+132473,,Sand,,eats
+132473,61090,Ruppia maritima,widgeongrass,eats
+132473,,Palaemonetes,,eats
+132473,50378,Halodule,,eats
+132473,,Not,,eats
+132473,,Arguloida,,eats
+132473,153110,Lophogastrida,,eats
+132473,180572,Rhizoclonium,,eats
+132473,,Spirogyra,,eats
+132473,215338,Brachidontes exustus,Scorched Mussel,eats
+132473,151644,Mytilopsis leucophaeata,Dark Falsemussel,eats
+132473,,Tanaidae,,eats
+132473,,Farfantepenaeus aztecus,,eats
+132473,,Americamysis almyra,,eats
+132473,199325,Alitta succinea,Clam Worm,eats
+132473,85507,Calanoida,Calanoid Copepods,eats
+132473,,Eurytemora hirundoides,,eats
+132473,260656,Gammarus mucronatus,,eats
+132473,248398,Ogyrides,,eats
+132473,,fecal pellets,,eats
+132473,1023066,Labidocera aestiva,,eats
+132473,203470,Oithona,,eats
+132473,,Pseudodiaptomus coronatus,,eats
+132473,59806,Gammaridae,,eats
+132473,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+132473,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+132473,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+132473,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+132473,4496,Rynchops niger,Black Skimmer,eatenBy
+132473,132473,Lagodon rhomboides,Pinfish,eatenBy
+132473,41503,Stenella frontalis,Atlantic Spotted Dolphin,eatenBy
+132473,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+132473,116999,Pandion haliaetus,Osprey,eatenBy
+132473,4948,Egretta rufescens,Reddish Egret,eatenBy
+132473,128750,Sciaenops ocellatus,Red Drum,eatenBy
+132473,,sediment,,eatenBy
+132473,,Paralichthys albigutta,,eatenBy
+132473,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+132473,179442,Urophycis floridana,Southern Codling,eatenBy
+132473,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+132473,111752,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark,eatenBy
+132473,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+132473,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+132473,57814,Pogonias cromis,Black Drum,eatenBy
+132473,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+132473,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+132473,51405,Elops saurus,Ladyfish,eatenBy
+132473,108562,Paralichthys lethostigma,Southern Flounder,eatenBy
+132473,53583,Carcharhinus plumbeus,Sandbar Shark,eatenBy
+132473,96745,Carcharhinus acronotus,Blacknose Shark,eatenBy
+132473,55529,Carcharhinus limbatus,Common Blacktip Shark,eatenBy
+132473,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+132473,49437,Centropomus undecimalis,Common Snook,eatenBy
+132473,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+132473,104249,Lepisosteus oculatus,Spotted Gar,eatenBy
+132473,54542,Atractosteus spatula,Alligator Gar,eatenBy
+132473,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+132473,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+132473,4937,Egretta caerulea,Little Blue Heron,eatenBy
+132473,84996,Carcharhinus leucas,Bull Shark,eatenBy
+132473,136618,Istiophorus albicans,Atlantic Sailfish,eatenBy
+132473,120694,Lobotes surinamensis,Atlantic Tripletail,eatenBy
+132473,203466,Idotea balthica,Baltic Isopod,preysOn
+132473,118832,Semibalanus balanoides,Northern Acorn Barnacle,preysOn
+132473,55025,Anomia,,preysOn
+132473,81634,Mya arenaria,Soft-shelled Clam,preysOn
+132473,117650,Mytilus edulis,Blue Mussel,preysOn
+132473,,Chiridotea coeca,,preysOn
+132473,,Crassostrea ariakensis,,preysOn
+132473,,Macoma balthica,,preysOn
+132473,507992,Balanus balanus,rough barnacle,preysOn
+132473,,Ensis directus,,preysOn
+132473,,Ischadium recurvum,,preysOn
+132473,,Balanus eburneus,,preysOn
+132473,151644,Mytilopsis leucophaeata,Dark Falsemussel,preysOn
+132473,,Balanus subalbius,,preysOn
+132473,125758,Mercenaria mercenaria,Northern Quahog,preysOn
+132473,196326,Lunarca ovalis,Blood Ark,preysOn
+132473,231421,Spisula solidissima,West Atlantic Surfclam,preysOn
+132473,116340,Dreissena polymorpha,Zebra Mussel,preysOn
+132473,,Balanus improvisus,,preysOn
+132473,,Gemma gemma,,preysOn
+132473,,Palaemonetes intermedius,,preysOn
+132473,203400,Cyathura polita,,preysOn
+132473,196232,Bankia gouldi,,preysOn
+132473,292186,Mulinia lateralis,Dwarf Surfclam,preysOn
+132473,,Sphaeroma quadridentatum,,preysOn
+132473,,Palaemonetes vulgaris,,preysOn
+132473,,Aegathoa medialis,,preysOn
+132473,,Ameritella agilis,,preysOn
+132473,,Chiridotea almyra,,preysOn
+132473,208898,Anadara transversa,Transverse Ark,preysOn
+132473,,Macoma phenax,,preysOn
+132473,,Macoma tenta,,preysOn
+132473,146828,Syngnathus fuscus,Northern Pipefish,preysOn
+132473,208873,Noetia ponderosa,Ponderous Ark,preysOn
+132473,194050,Limnoria lignorum,,preysOn
+132473,,Tagelus plebius,,preysOn
+132473,193932,Nucula,,preysOn
+132473,193933,Solemya velum,Swimming Clam,preysOn
+132473,,Petricola pholadiformis,,preysOn
+132473,81608,Geukensia demissa,Atlantic Ribbed Mussel,preysOn
+132473,,Edotia triloba,,preysOn
+132473,71252,Macoma,,preysOn
+132473,,Palaemonetes pugio,,preysOn
+132473,81642,Crepidula convexa,Convex Slippersnail,preysOn
+132473,,Pandora gouldiana,,preysOn
+132473,47585,Crassostrea virginica,Eastern Oyster,preysOn
+132473,122039,Argopecten irradians,Atlantic Bay Scallop,preysOn
+132473,146829,Anchoa hepsetus,Striped Anchovy,preysOn
+132473,113052,Squatina dumeril,Atlantic Angelshark,preyedUponBy
+132473,154500,Cynoscion regalis,Weakfish,preyedUponBy
+132473,84996,Carcharhinus leucas,Bull Shark,preyedUponBy
+132473,136618,Istiophorus albicans,Atlantic Sailfish,preyedUponBy
+132473,120694,Lobotes surinamensis,Atlantic Tripletail,preyedUponBy

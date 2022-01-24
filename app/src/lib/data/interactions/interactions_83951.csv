@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83951,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+83951,,Hysterostegiella valvata,,eatenBy
+83951,,Massariosphaeria multiseptata,,eatenBy
+83951,,Chitonospora ammophila,,eatenBy
+83951,,Phaeosphaeria nodorum,,eatenBy
+83951,,Plejobolus arenarius,,eatenBy
+83951,,Belonopsis graminea,,eatenBy
+83951,350108,Apiospora montagnei,,eatenBy
+83951,,Belonium psammicola,,eatenBy
+83951,,Arthrinium phaeospermum,,eatenBy
+83951,,Anthostomella phaeosticta,,eatenBy
+83951,985348,Anthostomella lugubris,,eatenBy
+83951,,Hypocrea spinulosa,,eatenBy
+83951,350750,Epicoccum nigrum,,eatenBy
+83951,,Didymella scotica,,eatenBy
+83951,,Hymenoscyphus robustior,,eatenBy
+83951,,Coniothyrium psammae,,eatenBy
+83951,,Phaeosphaeria vagans,,eatenBy
+83951,703675,Lophodermium arundinaceum,,eatenBy
+83951,382985,Lophodermium gramineum,,eatenBy
+83951,,Pezizella eburnea,,eatenBy
+83951,,Lachnum palearum palearum,,eatenBy
+83951,1080997,Pyrenopeziza arenivaga,,eatenBy
+83951,352529,Torula herbarum,,eatenBy
+83951,916352,Rutstroemia maritima,,eatenBy
+83951,,Tubeufia parvula,,eatenBy
+83951,,Phaeosphaeria luctuosa,,eatenBy
+83951,,Lichenopeltella ammophilae,,eatenBy
+83951,,Lichenopeltella nigroannulata,,eatenBy
+83951,,Massariosphaeria rubelloides,,eatenBy
+83951,,Psammina bommeriae,,eatenBy
+83951,,Mycosphaerella tassiana,,eatenBy
+83951,,Phoma ammophilae,,eatenBy
+83951,1040754,Massarina igniaria,,eatenBy
+83951,,Phomatospora arenaria,,eatenBy
+83951,416555,Microthyrium gramineum,,eatenBy
+83951,,Lachnum carneolum var. longisporum,,eatenBy
+83951,383140,Microthyrium ilicinum,,eatenBy
+83951,,Mollisia poaeoides,,eatenBy
+83951,,Massarina tetraploa,,eatenBy
+83951,416925,Chionodes arenella,,eatenBy
+83951,1063807,Gyptis lanigera,,pollinates
+83951,480270,Senecio subulatus,,pollinates
+83951,325613,Harpyia milhauseri,Tawny Prominent,preysOn
+83951,153107,Anarta myrtilli,Beautiful Yellow Underwing,preysOn
+83951,55623,Acronicta rumicis,Knot Grass Moth,preysOn
+83951,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy

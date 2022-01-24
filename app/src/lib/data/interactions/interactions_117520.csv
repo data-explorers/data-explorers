@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117520,47828,Cancridae,Rock Crabs,eats
+117520,202315,Romaleon antennarium,Pacific Rock Crab,eats
+117520,52523,Carcinus maenas,European Green Crab,eats
+117520,47188,Pachygrapsus crassipes,Striped Shore Crab,eats
+117520,54526,Crassadoma gigantea,Giant Rock Scallop,eats
+117520,117520,Enhydra lutris nereis,Southern Sea Otter,eats
+117520,48786,Pollicipes polymerus,Gooseneck Barnacle,eats
+117520,49581,Nereididae,,eats
+117520,117696,Dendraster excentricus,Eccentric Sand Dollar,eats
+117520,63697,Metacarcinus magister,Dungeness Crab,eats
+117520,56652,Haliotis rufescens,Red Abalone,eats
+117520,69925,Clinocardium nuttallii,Nuttall's Cockle,eats
+117520,343269,Ruditapes philippinarum,Japanese Littleneck,eats
+117520,62806,Mytilus californianus,California Mussel,eats
+117520,117618,Panopea generosa,Pacific Geoduck,eats
+117520,48036,Strongylocentrotus,,eats
+117520,56651,Haliotis,Abalone and Pāua,eats
+117520,3,Aves,Birds,eats
+117520,48830,Patiria miniata,Bat Star,eats
+117520,62807,Mytilus,Black Mussels,eats
+117520,49723,Pugettia producta,Northern Kelp Crab,eats
+117520,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eats
+117520,117472,Zirfaea pilsbryi,Rough Piddock,eats
+117520,47584,Bivalvia,Bivalves,eats
+117520,47826,Cancer productus,Red Rock Crab,eats
+117520,117583,Urechis caupo,Fat Innkeeper Worm,eats
+117520,992313,Mesocentrotus franciscanus,Red Sea Urchin,eats
+117520,7036,Melanitta perspicillata,Surf Scoter,eats
+117520,54529,Solen sicarius,Sickle Jacknife,eats
+117520,339274,Glycera robusta,,eats
+117520,117663,Blepharipoda occidentalis,Spiny Mole Crab,eats
+117520,120957,Loxorhynchus grandis,Sheep Crab,eats
+117520,206911,Tivela stultorum,Pismo Clam,eats
+117520,4235,Aechmophorus occidentalis,Western Grebe,eats
+117520,56649,Haliotis cracherodii,Black Abalone,eats
+117520,117608,Saxidomus nuttalli,California Butterclam,eats
+117520,,Tresus nuttallii,,eats
+117520,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+117520,49723,Pugettia producta,Northern Kelp Crab,preysOn
+117520,47584,Bivalvia,Bivalves,preysOn
+117520,62806,Mytilus californianus,California Mussel,preysOn
+117520,47828,Cancridae,Rock Crabs,preysOn
+117520,62807,Mytilus,Black Mussels,preysOn
+117520,52523,Carcinus maenas,European Green Crab,preysOn
+117520,202315,Romaleon antennarium,Pacific Rock Crab,preysOn
+117520,47826,Cancer productus,Red Rock Crab,preysOn
+117520,63697,Metacarcinus magister,Dungeness Crab,preysOn
+117520,116719,Metacarcinus,,preysOn
+117520,,Tresus nuttallii,,preysOn
+117520,117613,Saxidomus,,preysOn
+117520,120957,Loxorhynchus grandis,Sheep Crab,preysOn

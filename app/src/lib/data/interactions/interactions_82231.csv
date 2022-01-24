@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82231,47336,Formicidae,Ants,eatenBy
+82231,19788,Megascops choliba,Tropical Screech-Owl,eatenBy
+82231,116461,Anolis sagrei,Brown Anole,eatenBy
+82231,,Urocyclus kirkii,,eatenBy
+82231,,Centruroides gracilis,,eatenBy
+82231,,Pyrocephalus rubinus obscurus,,eatenBy
+82231,,Mimus longicaudatus longicaudatus,,eatenBy
+82231,,Pheidole,,eatenBy
+82231,5017,Bubulcus ibis,Cattle Egret,eatenBy
+82231,,Myotis austroriparius,,preysOn
+82231,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+82231,,Noctilio leporinus,,preyedUponBy
+82231,,Anoplolepis gracilipes,,preyedUponBy
+82231,,Tarentola delalandii,,preyedUponBy
+82231,,Mimus gilvus,,preyedUponBy
+82231,68492,Hemidactylus mabouia,Tropical House Gecko,preyedUponBy
+82231,,Centruroides gracilis,,preyedUponBy

@@ -1,0 +1,329 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53275,325515,Melosira varians,,eats
+53275,47158,Insecta,Insects,eats
+53275,200891,Oedogonium,,eats
+53275,53275,Chironomidae,Non-biting Midges,eats
+53275,63089,Clitellata,Clitellates,eats
+53275,67334,Cyanobacteria,cyanobacteria,eats
+53275,47126,Plantae,plants,eats
+53275,47628,Amphipoda,Amphipods,eats
+53275,85598,Arcidae,Ark Clams,eats
+53275,123880,Bacillariophyceae,Diatoms,eats
+53275,50863,Chlorophyta,green algae,eats
+53275,47170,Fungi,Fungi Including Lichens,eats
+53275,333586,Oligochaeta,Earthworms and allies,eats
+53275,311249,Bryophyta,mosses,eats
+53275,57774,Rhodophyta,red algae,eats
+53275,67333,Bacteria,bacteria,eats
+53275,121643,Copepoda,Copepods,eats
+53275,,Detritus,,eats
+53275,,Khakista,,eats
+53275,345418,Fragilaria vaucheriae,,eats
+53275,494501,Tabellaria flocculosa,,eats
+53275,345435,Epithemia sorex,,eats
+53275,475538,Penestoglossa,,eats
+53275,,Acnanthidium linearis,,eats
+53275,474032,Gomphonema constrictum,,eats
+53275,386482,Austrosimulium australense,New Zealand Black Fly,eats
+53275,,Achnanthidium minutissima,,eats
+53275,,Blue green algae sp1 FW_015_04,,eats
+53275,345199,Cyclotella,,eats
+53275,,Cymbella minuta,,eats
+53275,901016,Gomphoneis herculeana,,eats
+53275,345924,Gomphonema subclavatum,,eats
+53275,,Synedra ulna,,eats
+53275,339306,Cocconeis,,eats
+53275,311291,Nitzschia,,eats
+53275,,Radicites,,eats
+53275,,Navicula avenacea,,eats
+53275,244899,Eunotia,,eats
+53275,176380,Eukiefferiella,,eats
+53275,376157,Deleatidium,Suckergilled Mayflies,eats
+53275,468484,Microspora,,eats
+53275,377190,Naonella,,eats
+53275,492486,Gomphonema angustatum,,eats
+53275,,Achnanthidium lanceoloata,,eats
+53275,,Epithemia zebra,,eats
+53275,492492,Meridion circulare,,eats
+53275,244904,Gomphonema truncatum,,eats
+53275,,Achnanthes lanceoloata,,eats
+53275,,Achnanthes linearis,,eats
+53275,359954,Aulacoseira,,eats
+53275,311562,Frustulia rhomboides,,eats
+53275,345400,Gomphonema parvulum,,eats
+53275,,Pinnularia,,eats
+53275,377710,Pirara,,eats
+53275,533633,Cymbella kappii,,eats
+53275,,Fragilaria,,eats
+53275,377930,Pycnocentria,,eats
+53275,,Rhoicosphenia curvata,,eats
+53275,,Helicopsyche albescens,,eats
+53275,,Rhopalodia musculus,,eats
+53275,,Echinella,,eats
+53275,496854,Navicula rhynchocephala,,eats
+53275,,Surirella tenera,,eats
+53275,,Rhopalodia,,eats
+53275,182984,Audouinella,,eats
+53275,,Unidentified sp4 FW_009,,eats
+53275,339308,Achnanthes,,eats
+53275,,Meiofauna,,eats
+53275,,Zelandoperla agnetis,,eats
+53275,,Unidentified sp3 FW_009,,eats
+53275,,Asterionella,,eats
+53275,,Sephanodiscus sp1 FW_013_05,,eats
+53275,,Unidentified sp1 FW_009,,eats
+53275,196958,Calothrix,,eats
+53275,120561,Cricotopus,,eats
+53275,377937,Pycnocentrodes,,eats
+53275,,Synedra rumpens,,eats
+53275,,Lumbriculiid type II,,eats
+53275,203808,Navicula,,eats
+53275,,Parochlus,,eats
+53275,,Aoteapsyche,,eats
+53275,,Lumbriculiid type III,,eats
+53275,,Austroperla cyrene,,eats
+53275,,Phytoplankton,,eats
+53275,,seston,,eats
+53275,,stem tissue,,eats
+53275,,leaf fragments,,eats
+53275,,Ulothrix,,eats
+53275,,ooze,,eats
+53275,,Algae,,eats
+53275,,no name,,eats
+53275,,Rhopalodia novaezealandiae,,eats
+53275,,Cymbella cuspidata,,eats
+53275,,Cymbella aspera,,eats
+53275,,Unknown green algae filaments,,eats
+53275,492497,Navicula cryptocephala,,eats
+53275,,meiofauna,,eats
+53275,,Cymbella sinuata,,eats
+53275,,Achnanthes lanceolata,,eats
+53275,345996,Tanytarsini,,eats
+53275,47415,Pardosa,Thin-legged Wolf Spiders,eatenBy
+53275,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+53275,47822,Diptera,Flies,eatenBy
+53275,47927,Anisoptera,Dragonflies,eatenBy
+53275,54196,Cichlidae,Cichlids,eatenBy
+53275,47119,Arachnida,Arachnids,eatenBy
+53275,3,Aves,Birds,eatenBy
+53275,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+53275,50175,Enallagma,Bluets,eatenBy
+53275,51556,Sympetrum,Meadowhawks,eatenBy
+53275,47120,Arthropoda,Arthropods,eatenBy
+53275,47818,Libellula,Chasers and King Skimmers,eatenBy
+53275,72458,Actitis macularius,Spotted Sandpiper,eatenBy
+53275,84735,Corixidae,Water Boatmen,eatenBy
+53275,62164,Trichoptera,Caddisflies,eatenBy
+53275,57861,Utricularia,Bladderworts,eatenBy
+53275,118890,Conocephalus,Lesser Meadow Katydids,eatenBy
+53275,81576,Belostoma,,eatenBy
+53275,133623,Tropisternus,,eatenBy
+53275,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+53275,59653,Gerridae,Water Striders,eatenBy
+53275,27818,Taricha torosa,California Newt,eatenBy
+53275,67731,Anax junius,Common Green Darner,eatenBy
+53275,52864,Tramea,Saddlebag Gliders,eatenBy
+53275,11901,Hirundo rustica,Barn Swallow,eatenBy
+53275,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+53275,64970,Anaxyrus boreas,Western Toad,eatenBy
+53275,88028,Dorocordulia,Lesser Emerald Dragonflies,eatenBy
+53275,52520,Aeshna,Hawkers and Typical Darners,eatenBy
+53275,177589,Laccophilus,,eatenBy
+53275,26721,Ambystoma,Mole Salamanders,eatenBy
+53275,101053,Fundulus diaphanus,banded killifish,eatenBy
+53275,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+53275,53911,Cyprinus carpio,European Carp,eatenBy
+53275,57301,Hyporhamphus,,eatenBy
+53275,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+53275,49591,Lepomis macrochirus,Bluegill,eatenBy
+53275,451299,Kyphosus sydneyanus,Silver Drummer,eatenBy
+53275,322005,Girella tricuspidata,Luderick,eatenBy
+53275,132473,Lagodon rhomboides,Pinfish,eatenBy
+53275,53275,Chironomidae,Non-biting Midges,eatenBy
+53275,153169,Palaemon elegans,Rockpool Prawn,eatenBy
+53275,153595,Dictyna,,eatenBy
+53275,68901,Salticus scenicus,Zebra Jumping Spider,eatenBy
+53275,68062,Menemerus bivittatus,Gray Wall Jumping Spider,eatenBy
+53275,47383,Latrodectus geometricus,Brown Widow,eatenBy
+53275,366894,Steatoda nobilis,Noble False Widow,eatenBy
+53275,6317,Calypte anna,Anna's Hummingbird,eatenBy
+53275,62229,Ischnura cervula,Pacific Forktail,eatenBy
+53275,103498,Ischnura posita,Fragile Forktail,eatenBy
+53275,10247,Setophaga ruticilla,American Redstart,eatenBy
+53275,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+53275,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+53275,4209,Podiceps auritus,Horned Grebe,eatenBy
+53275,558433,Spatula discors,Blue-winged Teal,eatenBy
+53275,6930,Anas platyrhynchos,Mallard,eatenBy
+53275,558439,Mareca strepera,Gadwall,eatenBy
+53275,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+53275,7044,Aythya collaris,Ring-necked Duck,eatenBy
+53275,6993,Bucephala albeola,Bufflehead,eatenBy
+53275,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+53275,17355,Vireo,Vireos,eatenBy
+53275,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+53275,3759,Plegadis chihi,White-faced Ibis,eatenBy
+53275,7562,Troglodytes aedon,House Wren,eatenBy
+53275,14850,Sturnus vulgaris,European Starling,eatenBy
+53275,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+53275,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+53275,86996,Blicca,,eatenBy
+53275,47518,Salmo trutta,Brown Trout,eatenBy
+53275,,Coregonus lavaretus,,eatenBy
+53275,101887,Gymnocephalus cernua,Ruffe,eatenBy
+53275,48648,Salmo salar,Atlantic Salmon,eatenBy
+53275,114127,Thymallus thymallus,Grayling,eatenBy
+53275,109631,Platichthys flesus,European Flounder,eatenBy
+53275,55387,Esox lucius,Northern Pike,eatenBy
+53275,109062,Perca fluviatilis,European Perch,eatenBy
+53275,94105,Anguilla anguilla,European Eel,eatenBy
+53275,,Salvelinus alpinus,,eatenBy
+53275,92984,Abramis brama,Common Bream,eatenBy
+53275,446027,Galaxias depressiceps,Taieri Flathead Galaxias,eatenBy
+53275,,Archichauliodes diversus,,eatenBy
+53275,,Gobiomorphus breviceps,,eatenBy
+53275,,Costachorema,,eatenBy
+53275,,Galaxiidae,,eatenBy
+53275,,Hydrobiosis parumbripennis,,eatenBy
+53275,,Nannochorista philpotti,,eatenBy
+53275,395504,Polyplectropus puerilis,,eatenBy
+53275,,Anepeorus,,eatenBy
+53275,,Notropis heterolepsis,,eatenBy
+53275,111654,Rhinichthys cataractae,Longnose Dace,eatenBy
+53275,,Hoary bat,,eatenBy
+53275,64099,Gerres oyena,Blacktip Silverbiddy,eatenBy
+53275,93611,Alburnus alburnus,Bleak,eatenBy
+53275,,Oreonectes,,eatenBy
+53275,,Perlodes,,eatenBy
+53275,495454,Chloroperla,,eatenBy
+53275,,Polycentropus,,eatenBy
+53275,88985,Hydropsyche,,eatenBy
+53275,,Rhyacophila brunnea,,eatenBy
+53275,53186,Potentilla,cinquefoils,pollinates
+53275,,Saxifraga oppositifolia,,pollinates
+53275,,Pedicularis hirsuta,,pollinates
+53275,,Armeria,,pollinates
+53275,64714,Vaccinium uliginosum,bog bilberry,pollinates
+53275,,Synsepalum brevipes,,pollinates
+53275,,Phacelia secunda,,pollinates
+53275,,Discaria nana,,pollinates
+53275,160965,Crataegus aestivalis,Mayhaw,pollinates
+53275,51147,Crataegus monogyna,common hawthorn,pollinates
+53275,67333,Bacteria,bacteria,preysOn
+53275,,Epipellic Flora,,preysOn
+53275,,benthic microalgae/periphyton,,preysOn
+53275,,meiofauna,,preysOn
+53275,,Cephalogonimus americanus,,preysOn
+53275,,Ribeiroia ondatrae,,preysOn
+53275,124813,Alaria,,preysOn
+53275,,Echinostoma trivolvis,,preysOn
+53275,,Halipegus,,preysOn
+53275,,Nyctotherus,,preysOn
+53275,,Echinostoma,,preysOn
+53275,,Megalodiscus,,preysOn
+53275,,Opalina,,preysOn
+53275,,Tabellaria,,preysOn
+53275,,Rhegmoclema verralli,,preysOn
+53275,,Meiofauna,,preysOn
+53275,376157,Deleatidium,Suckergilled Mayflies,preysOn
+53275,494501,Tabellaria flocculosa,,preysOn
+53275,54539,Syngnathus,Pipe-fishes,preyedUponBy
+53275,67731,Anax junius,Common Green Darner,preyedUponBy
+53275,133623,Tropisternus,,preyedUponBy
+53275,11935,Tachycineta bicolor,Tree Swallow,preyedUponBy
+53275,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+53275,11901,Hirundo rustica,Barn Swallow,preyedUponBy
+53275,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+53275,52864,Tramea,Saddlebag Gliders,preyedUponBy
+53275,81576,Belostoma,,preyedUponBy
+53275,27818,Taricha torosa,California Newt,preyedUponBy
+53275,59653,Gerridae,Water Striders,preyedUponBy
+53275,47119,Arachnida,Arachnids,preyedUponBy
+53275,3,Aves,Birds,preyedUponBy
+53275,40268,Chiroptera,Bats,preyedUponBy
+53275,47118,Araneae,Spiders,preyedUponBy
+53275,47822,Diptera,Flies,preyedUponBy
+53275,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+53275,50175,Enallagma,Bluets,preyedUponBy
+53275,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+53275,177589,Laccophilus,,preyedUponBy
+53275,51556,Sympetrum,Meadowhawks,preyedUponBy
+53275,26721,Ambystoma,Mole Salamanders,preyedUponBy
+53275,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+53275,51469,Aeshnidae,Darners,preyedUponBy
+53275,47927,Anisoptera,Dragonflies,preyedUponBy
+53275,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+53275,48139,Salticidae,Jumping Spiders,preyedUponBy
+53275,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+53275,47819,Libellulidae,Skimmers,preyedUponBy
+53275,48124,Tettigoniidae,Katydids,preyedUponBy
+53275,47928,Zygoptera,Damselflies,preyedUponBy
+53275,82081,Theridion,Tangleweb Spiders,preyedUponBy
+53275,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+53275,101053,Fundulus diaphanus,banded killifish,preyedUponBy
+53275,59115,Gambusia affinis,Western Mosquitofish,preyedUponBy
+53275,51225,Tipulidae,Large Crane Flies,preyedUponBy
+53275,49591,Lepomis macrochirus,Bluegill,preyedUponBy
+53275,84735,Corixidae,Water Boatmen,preyedUponBy
+53275,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+53275,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+53275,103498,Ischnura posita,Fragile Forktail,preyedUponBy
+53275,13858,Passer domesticus,House Sparrow,preyedUponBy
+53275,91235,Pomatoschistus,,preyedUponBy
+53275,47524,Pleuronectes,,preyedUponBy
+53275,88564,Gobiusculus,,preyedUponBy
+53275,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+53275,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+53275,,Letherocerus americanus,,preyedUponBy
+53275,,Hesperocorixa,,preyedUponBy
+53275,51679,Coenagrion,Northern Bluets,preyedUponBy
+53275,,Erpobdella,,preyedUponBy
+53275,,Macrocyclops,,preyedUponBy
+53275,56557,Notonecta,Milky Backswimmers,preyedUponBy
+53275,,Lestes,,preyedUponBy
+53275,,Pseudiacris regilla,,preyedUponBy
+53275,505410,Polycentropus flavomaculatus,,preyedUponBy
+53275,59805,Gammarus pulex,Freshwater Shrimp,preyedUponBy
+53275,,Montisimulium,,preyedUponBy
+53275,48648,Salmo salar,Atlantic Salmon,preyedUponBy
+53275,482055,Perla bipunctata,Large Stonefly,preyedUponBy
+53275,492291,Stenophylax,,preyedUponBy
+53275,482050,Rhyacophila dorsalis,Sandfly Caddisfly,preyedUponBy
+53275,88985,Hydropsyche,,preyedUponBy
+53275,49596,Salvelinus fontinalis,Brook Trout,preyedUponBy
+53275,,Perlodidae,,preyedUponBy
+53275,,R. valuma,,preyedUponBy
+53275,,Rhyacophila brunnea,,preyedUponBy
+53275,64099,Gerres oyena,Blacktip Silverbiddy,preyedUponBy
+53275,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+53275,,Cobitis calderoni,,preyedUponBy
+53275,,Esox,,preyedUponBy
+53275,232564,Thermacarus nevadensis,Nevada Water Mite,preyedUponBy
+53275,262352,Partnuniella thermalis,,preyedUponBy
+53275,295091,Tachytrechus angustipennis,,preyedUponBy
+53275,482056,Dinocras cephalotes,Large Stonefly,preyedUponBy
+53275,,P. lecontei,,preyedUponBy
+53275,,Platysoma lecontei,,preyedUponBy
+53275,,Saprinus,,preyedUponBy
+53275,,Necterosoma penicillatus - adult (Chironomidae - Dytiscidae),,preyedUponBy
+53275,,Galaxias,,preyedUponBy
+53275,,Paramerina,,preyedUponBy
+53275,,Agnetina capitata,,preyedUponBy
+53275,,Calidris maritima,,preyedUponBy
+53275,117059,Plectrophenax nivalis,Snow Bunting,preyedUponBy
+53275,187100,Awaous acritosus,Roman-nose Goby,preyedUponBy
+53275,,Rediogobius bikolanus,,preyedUponBy
+53275,,Neosiluris ater,,preyedUponBy
+53275,,Deronectes,,preyedUponBy
+53275,495454,Chloroperla,,preyedUponBy
+53275,,Perlodes,,preyedUponBy
+53275,,Polycentropus,,preyedUponBy
+53275,,Oreonectes,,preyedUponBy
+53275,63081,Hirudinea,Leeches,preyedUponBy
+53275,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+53275,57845,Sialis,,preyedUponBy
+53275,176596,Oecetis,,preyedUponBy
+53275,97292,Characidium schubarti,,preyedUponBy
+53275,,Astyanax scabripinnis,,preyedUponBy
+53275,,Imparfinis mirini,,preyedUponBy
+53275,,Gerris,,preyedUponBy

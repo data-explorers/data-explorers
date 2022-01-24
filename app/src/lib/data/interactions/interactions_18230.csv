@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+18230,47336,Formicidae,Ants,eats
+18230,,Triadica sebifera,,eats
+18230,20044,Bubo virginianus,Great Horned Owl,eatenBy
+18230,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+18230,19893,Strix varia,Barred Owl,eatenBy
+18230,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+18230,47336,Formicidae,Ants,preysOn
+18230,20044,Bubo virginianus,Great Horned Owl,preyedUponBy

@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82435,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+82435,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+82435,41663,Procyon lotor,Common Raccoon,eatenBy
+82435,,Cnemidophorus sexlineatus,,eatenBy

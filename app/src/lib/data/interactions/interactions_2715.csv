@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+2715,42069,Vulpes vulpes,Red Fox,eatenBy
+2715,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+2715,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+2715,8021,Corvus brachyrhynchos,American Crow,eatenBy
+2715,146199,Lampropeltis californiae,California King Snake,eatenBy
+2715,20445,Tyto alba,Barn Owl,eatenBy
+2715,4756,Cathartes aura,Turkey Vulture,eatenBy
+2715,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+2715,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+2715,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+2715,,Python molurus bivittatus,,eatenBy
+2715,29705,Leptophis mexicanus,Mexican Parrot Snake,eatenBy
+2715,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+2715,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+2715,146199,Lampropeltis californiae,California King Snake,preyedUponBy
+2715,,Philodryas aestiva,,preyedUponBy
+2715,32158,Python regius,Ball Python,preyedUponBy
+2715,30476,Naja nigricollis,Black-necked Spitting Cobra,preyedUponBy
+2715,32150,Python molurus,Indian Python,preyedUponBy
+2715,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,preyedUponBy
+2715,29705,Leptophis mexicanus,Mexican Parrot Snake,preyedUponBy

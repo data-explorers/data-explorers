@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+485078,,Phytoplankton,,eats
+485078,,saprophagous plankton,,eats
+485078,,Detritus,,eats
+485078,87467,Chromis,Chromis,eatenBy
+485078,,primary carnivores,,eatenBy
+485078,,mixed-food consumers,,eatenBy
+485078,,secondary carnivores,,eatenBy
+485078,,tertiary carnivores,,eatenBy
+485078,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+485078,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+485078,430553,Merlangius merlangus,Whiting,eatenBy
+485078,,E. antarctica (60-90mm),,eatenBy
+485078,,E. antarctica (30-60mm),,eatenBy
+485078,,B. antarcticus (60-90mm),,eatenBy
+485078,,G. braueri (60-90mm),,eatenBy
+485078,,G. braueri (90-120mm),,eatenBy
+485078,230431,Sarotherodon melanotheron,Blackchin Tilapia,eatenBy
+485078,219757,Eumicrotremus derjugini,Leatherfin Lumpsucker,eatenBy
+485078,117566,Hypomesus pretiosus,Surf Smelt,eatenBy
+485078,226210,Odontopyxis trispinosa,Pygmy Poacher,eatenBy
+485078,228101,Phytichthys chirus,Ribbon Prickleback,eatenBy
+485078,186849,Hexagrammos stelleri,Whitespotted Greenling,eatenBy
+485078,459369,Diaphus taaningi,,eatenBy
+485078,223925,Lipolagus ochotensis,Fatty Deepsea Smelt,eatenBy
+485078,92219,Stenobrachius,,eatenBy
+485078,223605,Leuroglossus schmidti,Northern Smoothtongue,eatenBy
+485078,416585,Scophthalmus maximus,Turbot,eatenBy
+485078,1316623,Pleuragramma antarcticum,,eatenBy
+485078,,Trematomus eulepidotus,,eatenBy
+485078,107570,Oncorhynchus gorbuscha,Pink Salmon,eatenBy
+485078,107572,Oncorhynchus keta,Chum Salmon,eatenBy
+485078,224161,Lumpenella longirostris,Longsnout Prickleback,eatenBy
+485078,68596,Hexagrammos decagrammus,Kelp Greenling,eatenBy
+485078,49306,Stegastes,Gregories,eatenBy
+485078,,Chromis multilineata,,eatenBy
+485078,49402,Abudefduf saxatilis,Atlantic Sergeant Major,eatenBy
+485078,,Chromis cyanea,,eatenBy
+485078,51910,Engraulis encrasicolus,European Anchovy,eatenBy
+485078,215318,Boreogadus saida,Arctic Cod,eatenBy
+485078,194906,Cubiceps pauciradiatus,Longfin Cubehead,eatenBy
+485078,,saprophagous plankton,,preysOn
+485078,,G. braueri (60-90mm),,preyedUponBy
+485078,,E. antarctica (60-90mm),,preyedUponBy
+485078,,E. antarctica (30-60mm),,preyedUponBy
+485078,,G. braueri (90-120mm),,preyedUponBy
+485078,,secondary carnivores,,preyedUponBy
+485078,,primary carnivores,,preyedUponBy
+485078,,tertiary carnivores,,preyedUponBy
+485078,,mixed-food consumers,,preyedUponBy

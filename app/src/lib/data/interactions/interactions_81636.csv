@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81636,123862,Chaetoceros,,eats
+81636,,Detritus,,eats
+81636,,Detritus complex,,eats
+81636,,plankton and detritus,,eats
+81636,43584,Homo sapiens,Human,eatenBy
+81636,3836,Calidris,Calidris Sandpipers,eatenBy
+81636,41860,Enhydra lutris,Sea Otter,eatenBy
+81636,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+81636,42054,Vulpes,Typical Foxes,eatenBy
+81636,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+81636,47827,Cancer,,eatenBy
+81636,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+81636,49581,Nereididae,,eatenBy
+81636,92583,Trachurus,Jack Mackerels,eatenBy
+81636,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+81636,48173,Pagurus,,eatenBy
+81636,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+81636,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+81636,7164,Polysticta stelleri,Steller's Eider,eatenBy
+81636,7047,Aythya marila,Greater Scaup,eatenBy
+81636,47524,Pleuronectes,,eatenBy
+81636,7030,Somateria spectabilis,King Eider,eatenBy
+81636,,Crossaster papposus,,eatenBy
+81636,117604,Lineidae,,eatenBy
+81636,,Leptasterias,,eatenBy
+81636,47290,Crangonidae,,eatenBy
+81636,459589,Hyas,,eatenBy
+81636,7024,Somateria mollissima,Common Eider,eatenBy
+81636,6917,Cygnus columbianus,Tundra Swan,eatenBy
+81636,48903,Asterias,,eatenBy
+81636,4356,Larus canus,Mew Gull,eatenBy
+81636,223181,Lepidopsetta polyxystra,Northern Rock Sole,eatenBy
+81636,41766,Odobenus rosmarus,Walrus,eatenBy
+81636,,Evasterias troscheli,,eatenBy
+81636,123805,Paralithodes,,eatenBy
+81636,51280,Nemertea,Ribbon Worms,eatenBy
+81636,83329,Buccinidae,True Whelks,eatenBy
+81636,246556,Tectonatica,,eatenBy
+81636,61387,Limanda limanda,Sand Dab,eatenBy
+81636,41720,Erignathus barbatus,Bearded Seal,eatenBy
+81636,63740,Gadus morhua,Atlantic Cod,eatenBy
+81636,47523,Pleuronectes platessa,European Plaice,eatenBy
+81636,55396,Solea solea,Common Sole,eatenBy
+81636,118601,Trisopterus luscus,Pouting,eatenBy
+81636,223674,Limanda aspera,Yellowfin Sole,eatenBy
+81636,106322,Myliobatis freminvillei,Bullnose Eagle Ray,eatenBy
+81636,109631,Platichthys flesus,European Flounder,eatenBy
+81636,213521,Anarhichas orientalis,Bering Wolffish,eatenBy
+81636,326113,Limulus,Atlantic Horseshoe Crabs,eatenBy
+81636,67313,Glycera,,eatenBy
+81636,51391,Tautogolabrus,,eatenBy
+81636,51790,Polinices,,eatenBy
+81636,61383,Homarus americanus,American Lobster,eatenBy
+81636,1,Animalia,Animals,preysOn
+81636,1142214,Cercaria,,preysOn
+81636,549790,Cryptocotyle,,preysOn
+81636,,Phytoplankton,,preysOn
+81636,,Maritrema,,preysOn
+81636,,Microphallus,,preysOn
+81636,964699,Psilochasmus,,preysOn
+81636,,Epipellic Flora,,preysOn
+81636,,Podocotyle,,preysOn
+81636,,Prokaryota,,preysOn
+81636,1256330,Levinseniella,,preysOn
+81636,4783,Charadriidae,Plovers and Lapwings,preyedUponBy
+81636,4342,Laridae,"Gulls, Terns, and Skimmers",preyedUponBy
+81636,88563,Gobius,,preyedUponBy
+81636,54539,Syngnathus,Pipe-fishes,preyedUponBy
+81636,52524,Carcinus,Green Crabs,preyedUponBy
+81636,6912,Anatidae,"Ducks, Geese, and Swans",preyedUponBy
+81636,154,Rallidae,"Rails, Gallinules, and Coots",preyedUponBy
+81636,88564,Gobiusculus,,preyedUponBy
+81636,55398,Solea,,preyedUponBy
+81636,48817,Crangon,,preyedUponBy
+81636,91235,Pomatoschistus,,preyedUponBy
+81636,,Gasterosterus,,preyedUponBy

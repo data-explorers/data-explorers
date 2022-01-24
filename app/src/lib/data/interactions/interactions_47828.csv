@@ -1,0 +1,58 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47828,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47828,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+47828,99269,Dicentrarchus labrax,European Seabass,eatenBy
+47828,4345,Larus occidentalis,Western Gull,eatenBy
+47828,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+47828,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+47828,118601,Trisopterus luscus,Pouting,eatenBy
+47828,430553,Merlangius merlangus,Whiting,eatenBy
+47828,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+47828,48397,Raja clavata,Thornback Skate,eatenBy
+47828,97345,Chelon labrosus,thicklip grey mullet,eatenBy
+47828,106253,Mustelus asterias,Starry Smooth-hound,eatenBy
+47828,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47828,324558,Loligo vulgaris,European Squid,eatenBy
+47828,111527,Raja montagui,Spotted Skate,eatenBy
+47828,55396,Solea solea,Common Sole,eatenBy
+47828,56050,Mustelus mustelus,Common Smooth-hound,eatenBy
+47828,104534,Leucoraja fullonica,Shagreen Skate,eatenBy
+47828,130386,Taurulus bubalis,Longspined Bullhead,eatenBy
+47828,118619,Mullus surmuletus,Striped Red Mullet,eatenBy
+47828,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+47828,97517,Chimaera monstrosa,rabbit fish,eatenBy
+47828,,Trisopterus minutus,,eatenBy
+47828,112381,Scyliorhinus stellaris,Nursehound,eatenBy
+47828,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+47828,51398,Argentina sphyraena,European Argentine,eatenBy
+47828,118649,Echiichthys vipera,Lesser Weever,eatenBy
+47828,481841,Microstomus kitt,Lemon Sole,eatenBy
+47828,94651,Arnoglossus imperialis,Imperial Scaldfish,eatenBy
+47828,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47828,92628,Trigla,Gurnards,eatenBy
+47828,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+47828,,Enchelyopus cimbrius,,eatenBy
+47828,120648,Lepidorhombus boscii,Four-spotted Megrim,eatenBy
+47828,47523,Pleuronectes platessa,European Plaice,eatenBy
+47828,118603,Merluccius merluccius,European Hake,eatenBy
+47828,61387,Limanda limanda,Sand Dab,eatenBy
+47828,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+47828,63740,Gadus morhua,Atlantic Cod,eatenBy
+47828,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+47828,47639,Myoxocephalus scorpius,Shorthorn Sculpin,eatenBy
+47828,118636,Scophthalmus rhombus,Brill,eatenBy
+47828,118629,Helicolenus dactylopterus,Blackbelly Rosefish,eatenBy
+47828,118655,Spondyliosoma cantharus,Black Seabream,eatenBy
+47828,51409,Argentinidae,Argentines,eatenBy
+47828,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+47828,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+47828,48564,Prionotus,,eatenBy
+47828,217049,Citharichthys arctifrons,Gulf Stream Flounder,eatenBy
+47828,89420,Lepophidium,,eatenBy
+47828,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+47828,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+47828,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+47828,221166,Hemilepidotus jordani,yellow irish lord,eatenBy
+47828,41860,Enhydra lutris,Sea Otter,preyedUponBy
+47828,117520,Enhydra lutris nereis,Southern Sea Otter,preyedUponBy
+47828,51353,Anoplopoma fimbria,Sablefish,preyedUponBy

@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85962,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+85962,114122,Thunnus alalunga,Albacore,eatenBy
+85962,83316,Ommastrephidae,Flying Squids,eatenBy
+85962,41496,Stenella longirostris,Spinner Dolphin,eatenBy
+85962,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+85962,41543,Peponocephala electra,Melon-headed Whale,eatenBy
+85962,4200,Halobaena caerulea,Blue Petrel,eatenBy
+85962,144434,Aphrodroma brevirostris,Kerguelen Petrel,eatenBy
+85962,3820,Aptenodytes forsteri,Emperor Penguin,eatenBy
+85962,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eatenBy
+85962,96968,Centroscyllium fabricii,Black Dogfish,eatenBy
+85962,,Deania calcea,,eatenBy
+85962,115167,Xiphias gladius,Swordfish,eatenBy
+85962,51322,Dalatias licha,Black Shark,eatenBy
+85962,113039,Squalus melanurus,Blacktailed Spurdog,eatenBy
+85962,215430,Brama japonica,Pacific Pomfret,eatenBy
+85962,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+85962,459205,Beryx splendens,Alfonsino,eatenBy
+85962,41751,Arctocephalus gazella,Antarctic Fur Seal,eatenBy
+85962,618295,Dissostichus mawsoni,Antarctic toothfish,eatenBy
+85962,194676,Dissostichus eleginoides,Patagonian Toothfish,eatenBy
+85962,,Lagenodelphis hosei,,eatenBy
+85962,4566,Gygis alba,White Tern,eatenBy
+85962,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+85962,114122,Thunnus alalunga,Albacore,preyedUponBy

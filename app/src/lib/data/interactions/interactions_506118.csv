@@ -1,0 +1,65 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+506118,48147,Isopoda,Isopods,eats
+506118,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+506118,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+506118,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+506118,63089,Clitellata,Clitellates,eats
+506118,47793,Dermaptera,Earwigs,eats
+506118,47120,Arthropoda,Arthropods,eats
+506118,47208,Coleoptera,Beetles,eats
+506118,47367,Opiliones,Harvestmen,eats
+506118,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+506118,47118,Araneae,Spiders,eats
+506118,47822,Diptera,Flies,eats
+506118,122235,Lithobiomorpha,Stone Centipedes,eats
+506118,47157,Lepidoptera,Butterflies and Moths,eats
+506118,58390,Triticum,Wheats,eats
+506118,58736,Pyrus,pears,eats
+506118,47179,Arctostaphylos,bearberries and manzanitas,eats
+506118,47124,Magnoliopsida,dicots,eats
+506118,47130,Ribes,currants and gooseberries,eats
+506118,47434,Poaceae,grasses,eats
+506118,40151,Mammalia,Mammals,eats
+506118,52697,Avena,Oats,eats
+506118,50999,Ficus,Figs,eats
+506118,2,Chordata,Chordates,eats
+506118,47351,Prunus,"plums, cherries, and allies",eats
+506118,49567,Carabidae,Ground Beetles,eats
+506118,60773,Vitis,grapevines,eats
+506118,47544,Rubus,brambles,eats
+506118,52689,Sambucus,elders,eats
+506118,3,Aves,Birds,eats
+506118,49009,Quercus douglasii,blue oak,eats
+506118,60628,Tenthredinidae,Common Sawflies,eats
+506118,48807,Umbellularia californica,California bay,eats
+506118,47219,Apis mellifera,Western Honey Bee,eats
+506118,47850,Quercus agrifolia,coast live oak,eats
+506118,36204,Sceloporus occidentalis,Western Fence Lizard,eats
+506118,47851,Quercus,oaks,eats
+506118,26575,Diadophis punctatus,ring-necked snake,eats
+506118,57665,Cotinis mutabilis,Figeater Beetle,eats
+506118,48548,Vanessa cardui,Painted Lady,eats
+506118,53405,Heteromeles arbutifolia,Toyon,eats
+506118,,Spirobolida,,eats
+506118,,Cydia pomonella,,eats
+506118,,Malus pumila,,eats
+506118,48448,Zea mays,Maize,eats
+506118,7603,Auriparus flaviceps,Verdin,eats
+506118,,Saissetia oleae,,eats
+506118,,Rhamnus purshiana,,eats
+506118,,Diadophis punctatus amabilis,,eats
+506118,,Arachis monticola,,eats
+506118,63205,Arachis hypogaea,Peanut,eats
+506118,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+506118,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+506118,,Aquila chrysaetos,,eatenBy
+506118,48111,Mantidae,Mantids,preysOn
+506118,61356,Vespula,Ground Yellowjackets,preysOn
+506118,120719,Pseudacris hypochondriaca,Baja California Tree Frog,preysOn
+506118,36204,Sceloporus occidentalis,Western Fence Lizard,preysOn
+506118,26575,Diadophis punctatus,ring-necked snake,preysOn
+506118,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+506118,300661,Vespula sulphurea,California Yellowjacket,preysOn
+506118,6317,Calypte anna,Anna's Hummingbird,preysOn
+506118,40522,Lasiurus borealis,Eastern Red Bat,preysOn
+506118,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy

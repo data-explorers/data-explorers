@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121181,68789,Laminariales,Kelps,eats
+121181,68104,Bryozoa,Bryozoans,eats
+121181,1,Animalia,Animals,eats
+121181,121643,Copepoda,Copepods,eats
+121181,47126,Plantae,plants,eats
+121181,85493,Crustacea,Crustaceans,eats
+121181,48921,Hydrozoa,Hydrozoans,eats
+121181,,Medusozoa,,eats
+121181,,Detritus,,eats
+121181,,Khakista,,eats
+121181,,Phytoplankton,,eats

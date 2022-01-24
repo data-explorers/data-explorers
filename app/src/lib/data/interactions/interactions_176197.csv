@@ -1,0 +1,53 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+176197,47126,Plantae,plants,eats
+176197,,roots,,eats
+176197,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+176197,,Calidris maritima,,eatenBy
+176197,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+176197,47951,Staphylinidae,Rove Beetles,preyedUponBy
+176197,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+176197,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+176197,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+176197,52932,Cantharidae,Soldier Beetles,preyedUponBy
+176197,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+176197,49567,Carabidae,Ground Beetles,preyedUponBy
+176197,47866,Thomisidae,Crab Spiders,preyedUponBy
+176197,47345,Agelenidae,Funnel Weavers,preyedUponBy
+176197,451481,Cerceris arenaria,,preyedUponBy
+176197,,Lithobius borealis,,preyedUponBy
+176197,127023,Amaurobius,Lace web spider,preyedUponBy
+176197,452503,Robertus lividus,,preyedUponBy
+176197,705967,Harpactea lepida,,preyedUponBy
+176197,,Lithobius,,preyedUponBy
+176197,701197,Inermocoelotes inermis,,preyedUponBy
+176197,855514,Lithobius subtilis,,preyedUponBy
+176197,,Geophilus ribauti,,preyedUponBy
+176197,521083,Strigamia acuminata,,preyedUponBy
+176197,738601,Lithobius aeruginosus,,preyedUponBy
+176197,121773,Clubionidae,Sac Spiders,preyedUponBy
+176197,,Geophilus studeri,,preyedUponBy
+176197,498632,Lithobius dentatus,,preyedUponBy
+176197,130411,Abax,,preyedUponBy
+176197,466998,Linyphia hortensis,,preyedUponBy
+176197,360817,Coelotes,,preyedUponBy
+176197,537133,Lithobius crassipes,,preyedUponBy
+176197,1004280,Othius subuliformis,,preyedUponBy
+176197,739596,Lithobius mutabilis,,preyedUponBy
+176197,,Cochlodryas,,preyedUponBy
+176197,230519,Schendyla nemorensis,,preyedUponBy
+176197,496759,Geophilus insculptus,,preyedUponBy
+176197,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preyedUponBy
+176197,639655,Xysticus lanio,,preyedUponBy
+176197,525704,Trogulus tricarinatus,,preyedUponBy
+176197,498011,Abax ovalis,,preyedUponBy
+176197,498635,Lithobius piceus,,preyedUponBy
+176197,778699,Macrargus rufus,,preyedUponBy
+176197,,Domene scabricollis,,preyedUponBy
+176197,783417,Brigittea latens,,preyedUponBy
+176197,,Centomerus sylvaticus,,preyedUponBy
+176197,526528,Anelasmocephalus cambridgei,,preyedUponBy
+176197,362800,Clubiona comta,,preyedUponBy
+176197,783673,Apostenus fuscus,,preyedUponBy
+176197,233604,Walckenaeria atrotibialis,,preyedUponBy
+176197,131102,Harpalus tardus,,preyedUponBy
+176197,494177,Ballus chalybeius,,preyedUponBy

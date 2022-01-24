@@ -1,0 +1,71 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54538,1,Animalia,Animals,eats
+54538,85493,Crustacea,Crustaceans,eats
+54538,54538,Syngnathus leptorhynchus,Bay Pipefish,eats
+54538,339245,Himasthla,,eats
+54538,339206,Renicolidae,,eats
+54538,,Parorchis acanthus,,eats
+54538,551557,Digenea,Endoparasitic Flukes,eats
+54538,339199,Catatropis johnstoni,,eats
+54538,854600,Hemiuridae,,eats
+54538,,Cloacitrema,,eats
+54538,121726,Trematoda,Flukes,eats
+54538,339207,Renicola,,eats
+54538,339200,Himasthla rhigedana,,eats
+54538,,Maritrema,,eats
+54538,339177,Microphallidae,,eats
+54538,339183,Euhaplorchis californiensis,,eats
+54538,339172,Austrobilharzia,,eats
+54538,,Hysterolecitha trilocalis,,eats
+54538,,Renicola cerithidicola,,eats
+54538,,Probolocoryphe,,eats
+54538,,Acanthoparyphium spinulosum,,eats
+54538,,,,eats
+54538,4209,Podiceps auritus,Horned Grebe,eatenBy
+54538,4940,Egretta thula,Snowy Egret,eatenBy
+54538,54538,Syngnathus leptorhynchus,Bay Pipefish,eatenBy
+54538,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+54538,85514,Cyclopoida,Cyclopoid Copepods,preysOn
+54538,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+54538,68764,Ostracoda,Seed Shrimp,preysOn
+54538,47490,Polychaeta,Polychaete Worms,preysOn
+54538,348288,Foraminifera,Foraminifers,preysOn
+54538,85521,Harpacticoida,Harpacticoid Copepods,preysOn
+54538,123639,Spionidae,,preysOn
+54538,64636,Corophiidae,,preysOn
+54538,337291,Cirriformia spirabrancha,,preysOn
+54538,208368,Capitella capitata,,preysOn
+54538,345489,Naineris,,preysOn
+54538,208366,Orbiniidae,,preysOn
+54538,195030,Hesionidae,,preysOn
+54538,570459,Neanthes arenaceodentata,,preysOn
+54538,209018,Polydora,Shell-boring Spionids,preysOn
+54538,3954,Limosa fedoa,Marbled Godwit,preyedUponBy
+54538,4457,Sterna forsteri,Forster's Tern,preyedUponBy
+54538,4328,Pelecanus occidentalis,Brown Pelican,preyedUponBy
+54538,144455,Ardea alba,Great Egret,preyedUponBy
+54538,3892,Tringa melanoleuca,Greater Yellowlegs,preyedUponBy
+54538,4981,Nycticorax nycticorax,Black-crowned Night-Heron,preyedUponBy
+54538,4940,Egretta thula,Snowy Egret,preyedUponBy
+54538,4277,Phalacrocorax penicillatus,Brandt's Cormorant,preyedUponBy
+54538,3906,Numenius americanus,Long-billed Curlew,preyedUponBy
+54538,4626,Gavia immer,Common Loon,preyedUponBy
+54538,4246,Podilymbus podiceps,Pied-billed Grebe,preyedUponBy
+54538,4209,Podiceps auritus,Horned Grebe,preyedUponBy
+54538,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+54538,,Sterna caspia,,preyedUponBy
+54538,82326,Hypsopsetta guttulata,Diamond turbot,preyedUponBy
+54538,106261,Mustelus lunulatus,Sicklefin Smooth-hound,preyedUponBy
+54538,101455,Gillichthys mirabilis,Longjaw Mudsucker,preyedUponBy
+54538,4948,Egretta rufescens,Reddish Egret,preyedUponBy
+54538,,Urolophus halleri,,preyedUponBy
+54538,4938,Egretta tricolor,Tricolored Heron,preyedUponBy
+54538,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+54538,,Catoptrophorus semipalmatus,,preyedUponBy
+54538,,Limnodromus griseus,,preyedUponBy
+54538,,Sterna maxima,,preyedUponBy
+54538,,Ardea herodius,,preyedUponBy
+54538,,Sterna elegans,,preyedUponBy
+54538,4205,Podiceps nigricollis,Eared Grebe,preyedUponBy
+54538,,Limnodromus scilopaceus,,preyedUponBy
+54538,6996,Mergus serrator,Red-breasted Merganser,preyedUponBy

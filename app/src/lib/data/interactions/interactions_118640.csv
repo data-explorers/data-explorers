@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118640,1,Animalia,Animals,eats
+118640,47115,Mollusca,Molluscs,eats
+118640,85493,Crustacea,Crustaceans,eats
+118640,47628,Amphipoda,Amphipods,eats
+118640,47490,Polychaeta,Polychaete Worms,eats
+118640,47549,Echinodermata,Echinoderms,eats
+118640,510337,Nephtys hombergii,Catworm,eats
+118640,,,,eats
+118640,,Gnathostomata,,eats
+118640,115188,Xyrichtys novacula,Pearly Razorfish,eatenBy
+118640,510337,Nephtys hombergii,Catworm,preysOn

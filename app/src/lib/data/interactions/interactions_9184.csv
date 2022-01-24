@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9184,47120,Arthropoda,Arthropods,eats
+9184,211194,Tracheophyta,vascular plants,eats
+9184,1,Animalia,Animals,eats
+9184,47157,Lepidoptera,Butterflies and Moths,eats
+9184,47434,Poaceae,grasses,eats
+9184,47158,Insecta,Insects,eats
+9184,47208,Coleoptera,Beetles,eats
+9184,47124,Magnoliopsida,dicots,eats
+9184,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9184,58732,Toxicodendron radicans,poison ivy,eats
+9184,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+9184,77835,Lonicera japonica,Japanese honeysuckle,eats
+9184,53854,Ilex,hollies,eats
+9184,53453,Salix,Willows,eats
+9184,167829,Rhus typhina,staghorn sumac,eats
+9184,54763,Acer platanoides,Norway maple,eats
+9184,47126,Plantae,plants,eats
+9184,135659,Platycladus orientalis,Chinese arborvitae,eats
+9184,,Archips fumiferana,,eats
+9184,54793,Lindera benzoin,northern spicebush,eats
+9184,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+9184,54777,Cornus florida,flowering dogwood,eats
+9184,,Wisteria sinensis,,eats
+9184,84292,Ulmus alata,Winged Elm,eats
+9184,53034,Ambrosia trifida,giant ragweed,eats
+9184,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+9184,19893,Strix varia,Barred Owl,eatenBy
+9184,20445,Tyto alba,Barn Owl,eatenBy
+9184,4672,Falco columbarius,Merlin,eatenBy
+9184,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+9184,20307,Asio otus,Long-eared Owl,eatenBy

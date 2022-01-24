@@ -1,0 +1,160 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85532,68764,Ostracoda,Seed Shrimp,eats
+85532,85532,Mysida,Opossum Shrimps,eats
+85532,63089,Clitellata,Clitellates,eats
+85532,152275,Thalassiosirales,,eats
+85532,67334,Cyanobacteria,cyanobacteria,eats
+85532,67423,Ulva lactuca,broadleaf sea lettuce,eats
+85532,123632,Corallina officinalis,Common Coralline,eats
+85532,343398,Saccorhiza polyschides,Furbellow,eats
+85532,50862,Codium,Codiums,eats
+85532,130197,Ulva intestinalis,Gutweed,eats
+85532,130178,Sargassum,Sargassum,eats
+85532,86098,Temoridae,,eats
+85532,201747,Clausocalanidae,,eats
+85532,,Tintinnina,,eats
+85532,195081,Acartia,,eats
+85532,339306,Cocconeis,,eats
+85532,200886,Peridinium,,eats
+85532,339308,Achnanthes,,eats
+85532,203808,Navicula,,eats
+85532,373206,Zelandothyadidae,,eats
+85532,123865,Coscinodiscus,,eats
+85532,,Detritus complex,,eats
+85532,203396,Centropages,,eats
+85532,123885,Pleurosigmataceae,,eats
+85532,200862,Bacillariaceae,,eats
+85532,,Pilayella littoralis,,eats
+85532,,Osmundea ramosissima,,eats
+85532,57779,Asparagopsis armata,Harpoonweed,eats
+85532,,Cystoseira tamariscifolia,,eats
+85532,130176,Chondrus crispus,Irish moss,eats
+85532,129737,Colpomenia peregrina,Oyster-thief,eats
+85532,201435,Ulva linza,Green string lettuce,eats
+85532,701524,Furcellaria lumbricalis,,eats
+85532,,PhytoP,,eats
+85532,51024,Dictyota dichotoma,Forked ribbons,eats
+85532,130231,Saccharina latissima,Sea Belt,eats
+85532,203723,Ceramium virgatum,,eats
+85532,343396,Bifurcaria bifurcata,,eats
+85532,1027504,Ceramium ciliatum,,eats
+85532,182834,Ectocarpus siliculosus,,eats
+85532,543094,Lomentaria articulata,,eats
+85532,57772,Fucus serratus,Saw Wrack,eats
+85532,461577,Ellisolandia elongata,,eats
+85532,,Polysiphonia sp.,,eats
+85532,182991,Palmaria palmata,Dulse,eats
+85532,130204,Mastocarpus stellatus,false Irish moss,eats
+85532,182852,Sphacelaria cirrosa,,eats
+85532,41478,Eschrichtius robustus,Grey Whale,eatenBy
+85532,4063,Oceanodroma,,eatenBy
+85532,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+85532,4531,Brachyramphus marmoratus,Marbled Murrelet,eatenBy
+85532,85532,Mysida,Opossum Shrimps,eatenBy
+85532,4519,Uria aalge,Common Murre,eatenBy
+85532,48483,Chrysaora,Sea Nettles,eatenBy
+85532,4204,Podiceps,Typical Grebes,eatenBy
+85532,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+85532,132473,Lagodon rhomboides,Pinfish,eatenBy
+85532,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+85532,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+85532,7170,Clangula hyemalis,Long-tailed Duck,eatenBy
+85532,609225,Vomeridens infuscipinnis,,eatenBy
+85532,610058,Champsocephalus gunnari,Mackerel icefish,eatenBy
+85532,4090,Thalassarche chrysostoma,Gray-headed Albatross,eatenBy
+85532,1171863,Ophiosparte gigas,,eatenBy
+85532,610056,Chaenocephalus aceratus,Blackfin Icefish,eatenBy
+85532,617819,Protomyctophum bolini,,eatenBy
+85532,609215,Bathydraco marri,,eatenBy
+85532,144434,Aphrodroma brevirostris,Kerguelen Petrel,eatenBy
+85532,4033,Pterodroma mollis,Soft-plumaged Petrel,eatenBy
+85532,,Pterodroma macroptera,,eatenBy
+85532,194676,Dissostichus eleginoides,Patagonian Toothfish,eatenBy
+85532,4200,Halobaena caerulea,Blue Petrel,eatenBy
+85532,41729,Mirounga leonina,Southern Elephant Seal,eatenBy
+85532,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+85532,,Trematomus bernacchii,,eatenBy
+85532,618312,Pagothenia borchgrevinki,Bald notothen,eatenBy
+85532,,Trematomus hansoni,,eatenBy
+85532,618295,Dissostichus mawsoni,Antarctic toothfish,eatenBy
+85532,371729,Notothenia neglecta,Yellowbelly Rockcod,eatenBy
+85532,,Trematomus pennellii,,eatenBy
+85532,618332,Trematomus newnesi,Dusky rockcod,eatenBy
+85532,,Trematomus nicolai,,eatenBy
+85532,609219,Gymnodraco acuticeps,,eatenBy
+85532,41731,Leptonychotes weddellii,Weddell Seal,eatenBy
+85532,,Onykia ingens,,eatenBy
+85532,3820,Aptenodytes forsteri,Emperor Penguin,eatenBy
+85532,530453,Protomyctophum parallelum,Parallel Lanternfish,eatenBy
+85532,,Borostomias antarcticus,,eatenBy
+85532,,Nannobrachium achirus,,eatenBy
+85532,617817,Protomyctophum andriashevi,,eatenBy
+85532,530435,Electrona subaspera,Rough Lanternfish,eatenBy
+85532,,Protomyctophum tenisoni,,eatenBy
+85532,531126,Melanostigma gelatinosum,Limp Eelpout,eatenBy
+85532,617785,Gymnoscopelus bolini,,eatenBy
+85532,530438,Gymnoscopelus microlampas,Minispotted Lanternfish,eatenBy
+85532,617787,Gymnoscopelus fraseri,,eatenBy
+85532,120646,Stomias gracilis,,eatenBy
+85532,617786,Gymnoscopelus braueri,,eatenBy
+85532,103722,Krefftichthys anderssoni,,eatenBy
+85532,530286,Cynomacrurus piriei,Dogtooth Whiptail,eatenBy
+85532,617783,Electrona antarctica,,eatenBy
+85532,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eatenBy
+85532,98536,Coryphaenoides subserrulatus,Longray Whiptail,eatenBy
+85532,530627,Phosichthys argenteus,Silver Lightfish,eatenBy
+85532,,Echiodon cryomargarites,,eatenBy
+85532,530439,Gymnoscopelus piabilis,Southern Blacktip Lanternfish,eatenBy
+85532,530433,Electrona carlsbergi,Carlsberg's Lanternfish,eatenBy
+85532,617788,Gymnoscopelus nicholsi,,eatenBy
+85532,533716,Labidiaster annulatus,,eatenBy
+85532,541673,Lepidonotothen squamifrons,Grey Rockcod,eatenBy
+85532,4146,Oceanites oceanicus,Wilson's Storm-Petrel,eatenBy
+85532,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+85532,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+85532,48402,Amblyraja radiata,Thorny Skate,eatenBy
+85532,111527,Raja montagui,Spotted Skate,eatenBy
+85532,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+85532,48397,Raja clavata,Thornback Skate,eatenBy
+85532,87626,Coregonus,Whitefishes,eatenBy
+85532,,Myoxocephalus jaok,,eatenBy
+85532,69922,Oncorhynchus nerka,Sockeye Salmon,eatenBy
+85532,47524,Pleuronectes,,eatenBy
+85532,64448,Sebastes diploproa,Splitnose Rockfish,eatenBy
+85532,83173,Eopsetta,,eatenBy
+85532,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+85532,,Reinhardtius stomias,,eatenBy
+85532,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+85532,95518,Bathyraja parmifera,Alaska Skate,eatenBy
+85532,86991,Blennius,,eatenBy
+85532,89654,Lycodapus,,eatenBy
+85532,64471,Sebastes mystinus,Blue Rockfish,eatenBy
+85532,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+85532,229837,Reinhardtius hippoglossoides,Greenland Halibut,eatenBy
+85532,90535,Osmerus,,eatenBy
+85532,230754,Sebastes borealis,Shortraker Rockfish,eatenBy
+85532,117545,Parophrys vetulus,English sole,eatenBy
+85532,83159,Liparis,Widelip Orchids,eatenBy
+85532,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+85532,117544,Isopsetta isolepis,butter sole,eatenBy
+85532,212924,Albatrossia pectoralis,Giant Grenadier,eatenBy
+85532,48409,Pungitius,,eatenBy
+85532,95508,Bathyraja maculata,Whiteblotched Skate,eatenBy
+85532,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+85532,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eatenBy
+85532,67991,Psettichthys melanostictus,Sand Sole,eatenBy
+85532,89054,Icelus,,eatenBy
+85532,41459,Monodon monoceros,Narwhal,eatenBy
+85532,68597,Sebastes caurinus,copper rockfish,eatenBy
+85532,,Zooplankton,,preysOn
+85532,52523,Carcinus maenas,European Green Crab,preyedUponBy
+85532,153169,Palaemon elegans,Rockpool Prawn,preyedUponBy
+85532,47490,Polychaeta,Polychaete Worms,preyedUponBy
+85532,49532,Sphaeromatidae,Typical Seapills,preyedUponBy
+85532,210294,Lipophrys pholis,Shanny,preyedUponBy
+85532,245452,Stenothoidae,,preyedUponBy
+85532,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+85532,59806,Gammaridae,,preyedUponBy
+85532,118706,Gobius paganellus,Rock Goby,preyedUponBy
+85532,,Trematomus nicolai,,preyedUponBy
+85532,,Trematomus lepidorhinus,,preyedUponBy

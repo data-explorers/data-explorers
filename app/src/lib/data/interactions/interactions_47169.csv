@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47169,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+47169,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47169,,Streptopelia chinensis,,eatenBy
+47169,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+47169,46017,Sciurus carolinensis,Eastern Gray Squirrel,preyedUponBy

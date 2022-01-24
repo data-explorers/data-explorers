@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57861,53275,Chironomidae,Non-biting Midges,eats
+57861,126917,Rotifera,Rotifers,eats
+57861,7018,Anser anser,Greylag Goose,eatenBy
+57861,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+57861,,Tilapia zillii,,eatenBy
+57861,,benthic herbivores,,eatenBy
+57861,,Rhopalosiphum nymphaeae,,eatenBy
+57861,,Longitarsus nigerrimus,,eatenBy
+57861,,Bagous (Ephimeropus) petro,,eatenBy
+57861,7008,Anser indicus,Bar-headed Goose,eatenBy
+57861,,Nettapus auritus,,eatenBy
+57861,144479,Gallinula galeata,Common Gallinule,eatenBy
+57861,,Sarkidiornis melanotos sylvicola,,eatenBy
+57861,6902,Thalassornis leuconotus,White-backed Duck,eatenBy
+57861,1,Animalia,Animals,preysOn

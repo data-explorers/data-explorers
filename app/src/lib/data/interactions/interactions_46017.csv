@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+46017,20978,Amphibia,Amphibians,eats
+46017,47158,Insecta,Insects,eats
+46017,40151,Mammalia,Mammals,eats
+46017,3,Aves,Birds,eats
+46017,47170,Fungi,Fungi Including Lichens,eats
+46017,54491,Corylus avellana,common hazel,eats
+46017,48339,Russula,brittlegills,eats
+46017,47126,Plantae,plants,eats
+46017,47727,Acer,maples,eats
+46017,52697,Avena,Oats,eats
+46017,47850,Quercus agrifolia,coast live oak,eats
+46017,49230,Amelanchier,serviceberries,eats
+46017,54762,Acer saccharinum,silver maple,eats
+46017,48098,Acer rubrum,red maple,eats
+46017,47851,Quercus,oaks,eats
+46017,469472,Malus domestica,apple,eats
+46017,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+46017,54495,Juglans,Walnuts,eats
+46017,48867,Arecaceae,palms,eats
+46017,47167,Agaricales,Common Gilled Mushrooms and Allies,eats
+46017,49667,Taxodium,baldcypresses,eats
+46017,47780,Iris,Irises,eats
+46017,48460,Life,,eats
+46017,47561,Pinus,pines,eats
+46017,47169,Basidiomycota,Basidiomycete Fungi,eats
+46017,53549,Ulmus,elms,eats
+46017,57983,Helianthus annuus,Common Sunflower,eats
+46017,47124,Magnoliopsida,dicots,eats
+46017,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+46017,58389,Sorghum bicolor,Sorghum,eats
+46017,53438,Rosa,roses,eats
+46017,53405,Heteromeles arbutifolia,Toyon,eats
+46017,54502,Juglans hindsii,northern California black walnut,eats
+46017,,Corvus caurinus,,eats
+46017,,Fagus sylvatica,,eats
+46017,194497,Elaphomyces granulatus,,eats
+46017,,Picea sitchensis,,eats
+46017,,Maclura pomifera,,eats
+46017,,Liquidambar styraciflua,,eats
+46017,53348,Aesculus californica,California buckeye,eats
+46017,,Juglans nigra,,eats
+46017,,Taxodium distichum,,eats
+46017,,Aesculus hippocastanum,,eats
+46017,63205,Arachis hypogaea,Peanut,eats
+46017,50190,Cicadoidea,Cicadas,eats
+46017,,Bursera simaruba,,eats
+46017,320030,Leucospermum cordifolium,The Pincushion,eats
+46017,,Coccoloba uvifera,,eats
+46017,,Terminalia catappa,,eats
+46017,,Tithonia rotundifolia,,eats
+46017,,Bos taurus,,eats
+46017,,Equisetidae,,eats
+46017,,Ulmus americana,,eats
+46017,75995,Campsis radicans,American trumpet vine,eats
+46017,,Juglans regia,,eats
+46017,135394,Lagerstroemia indica,Crape-myrtle,eats
+46017,,Metopium toxiferum,,eats
+46017,55969,Viburnum opulus,guelder-rose,eats
+46017,,Fraxinus pennsylvanica,,eats
+46017,,Carya illinoinensis,,eats
+46017,133382,Amelanchier canadensis,Canadian serviceberry,eats
+46017,83074,Magnolia grandiflora,southern magnolia,eats
+46017,,Rubus idaeus,,eats
+46017,42051,Canis latrans,Coyote,eatenBy
+46017,41976,Lynx rufus,Bobcat,eatenBy
+46017,42069,Vulpes vulpes,Red Fox,eatenBy
+46017,41801,Mustela,,eatenBy
+46017,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+46017,559244,Cathartiformes,New World Vultures,eatenBy
+46017,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+46017,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+46017,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+46017,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+46017,4756,Cathartes aura,Turkey Vulture,eatenBy
+46017,20044,Bubo virginianus,Great Horned Owl,eatenBy
+46017,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+46017,19893,Strix varia,Barred Owl,eatenBy
+46017,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+46017,,Martes pennanti,,eatenBy
+46017,41808,Mustela erminea,Eurasian Stoat,eatenBy
+46017,569428,Mustela nivalis,Least Weasel,eatenBy
+46017,,Lynx canadensis,,eatenBy
+46017,42048,Canis lupus,Gray Wolf,eatenBy
+46017,,Mustela vison,,eatenBy
+46017,30746,Crotalus horridus,Timber Rattlesnake,eatenBy
+46017,,Crotalus adamanteus,,eatenBy
+46017,,Buteogallus urubitinga,,eatenBy
+46017,4765,Coragyps atratus,Black Vulture,eatenBy
+46017,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+46017,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+46017,47169,Basidiomycota,Basidiomycete Fungi,preysOn
+46017,46017,Sciurus carolinensis,Eastern Gray Squirrel,preysOn
+46017,47726,Acer negundo,boxelder,preysOn
+46017,,Juglans nigra,,preysOn
+46017,127634,Trichostema dichotomum,Blue Curls,preysOn
+46017,4756,Cathartes aura,Turkey Vulture,preyedUponBy
+46017,8010,Corvus corax,Common Raven,preyedUponBy
+46017,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+46017,19893,Strix varia,Barred Owl,preyedUponBy
+46017,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+46017,3,Aves,Birds,preyedUponBy
+46017,42069,Vulpes vulpes,Red Fox,preyedUponBy
+46017,41976,Lynx rufus,Bobcat,preyedUponBy
+46017,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+46017,46017,Sciurus carolinensis,Eastern Gray Squirrel,preyedUponBy
+46017,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+46017,,Buteogallus urubitinga,,preyedUponBy
+46017,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+46017,,Pantherophis alleghaniensis,,preyedUponBy
+46017,,Crotalus adamanteus,,preyedUponBy
+46017,,Pantherophis spiloides,,preyedUponBy

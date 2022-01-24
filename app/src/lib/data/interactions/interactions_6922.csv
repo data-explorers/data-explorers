@@ -1,0 +1,174 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+6922,51122,Nymphaea,water-lilies,eats
+6922,72249,Najas,naiads,eats
+6922,47115,Mollusca,Molluscs,eats
+6922,1,Animalia,Animals,eats
+6922,47124,Magnoliopsida,dicots,eats
+6922,211194,Tracheophyta,vascular plants,eats
+6922,47120,Arthropoda,Arthropods,eats
+6922,57861,Utricularia,Bladderworts,eats
+6922,59110,Potamogeton,Pondweed,eats
+6922,60997,Ceratophyllum demersum,coontail,eats
+6922,2,Chordata,Chordates,eats
+6922,54519,Lemna,Duckweeds,eats
+6922,47822,Diptera,Flies,eats
+6922,47114,Gastropoda,Gastropods,eats
+6922,47208,Coleoptera,Beetles,eats
+6922,52134,Culicidae,Mosquitoes,eats
+6922,76755,Echinochloa colona,Jungle Rice,eats
+6922,84735,Corixidae,Water Boatmen,eats
+6922,50339,Ludwigia,Primrose-willows,eats
+6922,53587,Ambrosia artemisiifolia,common ragweed,eats
+6922,47434,Poaceae,grasses,eats
+6922,47161,Cyperaceae,sedges,eats
+6922,56235,Gentianaceae,gentian family,eats
+6922,47158,Insecta,Insects,eats
+6922,47122,Fabaceae,legumes,eats
+6922,51121,Nymphaeaceae,water-lily family,eats
+6922,52601,Pontederiaceae,,eats
+6922,68764,Ostracoda,Seed Shrimp,eats
+6922,48972,Polygonum,knotweeds,eats
+6922,53196,Rumex,docks,eats
+6922,48439,Chenopodium,Goosefoots,eats
+6922,53275,Chironomidae,Non-biting Midges,eats
+6922,51876,Trifolium,clovers,eats
+6922,48011,Ephemeroptera,Mayflies,eats
+6922,62164,Trichoptera,Caddisflies,eats
+6922,50863,Chlorophyta,green algae,eats
+6922,48797,Malvaceae,Mallow and Hibiscus Family,eats
+6922,58992,Portulaca,purslanes,eats
+6922,51637,Digitaria,"crabgrasses, cottontops, and allies",eats
+6922,47628,Amphipoda,Amphipods,eats
+6922,58112,Atriplex,Saltbushes,eats
+6922,52326,Amaranthus,amaranths,eats
+6922,78678,Polygonum aviculare,Prostrate Knotweed,eats
+6922,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+6922,47792,Odonata,Dragonflies and Damselflies,eats
+6922,127444,Hydrophilidae,Water Scavenger Beetles,eats
+6922,57659,Dytiscidae,Predaceous Diving Beetles,eats
+6922,47584,Bivalvia,Bivalves,eats
+6922,47126,Plantae,plants,eats
+6922,58392,Typha domingensis,southern bulrush,eats
+6922,81636,Mya,,eats
+6922,63089,Clitellata,Clitellates,eats
+6922,48394,Gymnolaemata,,eats
+6922,81644,Crepidula,Typical Slippersnails,eats
+6922,49581,Nereididae,,eats
+6922,67334,Cyanobacteria,cyanobacteria,eats
+6922,123880,Bacillariophyceae,Diatoms,eats
+6922,,Stuckenia pectinata,,eats
+6922,180574,Nitella,Stonewort,eats
+6922,,Utricularia gibba,,eats
+6922,,Nymphoides indica,,eats
+6922,76657,Digitaria ciliaris,Tropical Finger-grass,eats
+6922,,Planorbidae,,eats
+6922,,Paspalum scrobiculatum,,eats
+6922,,Micronectidae,,eats
+6922,69803,Ceratopogonidae,Biting Midges,eats
+6922,,Persicaria lapathifolia,,eats
+6922,,Panicum schinzii,,eats
+6922,,Caropsis,,eats
+6922,,Schkuhria pinnata,,eats
+6922,64178,Leersia,,eats
+6922,,Scirpus,,eats
+6922,,Eriochloa,,eats
+6922,,Dactyloctenium aegyptium,,eats
+6922,,Maxillopoda,,eats
+6922,,Notonectidae,,eats
+6922,,Branchinecta,,eats
+6922,25660,Rana pyrenaica,Pyrenean frog,eats
+6922,65450,Epidalea calamita,Natterjack Toad,eats
+6922,66314,Pelophylax bedriagae,Levant Green Frog,eats
+6922,24479,Discoglossus pictus,Mediterranean Painted Frog,eats
+6922,24475,Alytes cisternasii,Iberian Midwife Toad,eats
+6922,,Pelophylax kl. grafi,,eats
+6922,,Bufotes sicula,,eats
+6922,23998,Hyla sarda,Sardinian Tree Frog,eats
+6922,,Bufotes variabilis,,eats
+6922,,Bufotes boulengeri,,eats
+6922,,Pelophylax kl. hispanicus,,eats
+6922,25697,Rana graeca,Greek frog,eats
+6922,67023,Rana tavasensis,Tavas Mountain Frog,eats
+6922,23798,Hyla savignyi,Lemon-yellow Tree Frog,eats
+6922,548418,Pelodytes punctatus,Common Parsley Frog,eats
+6922,25488,Rana arvalis,Moor Frog,eats
+6922,,Pelophylax caralitanus,,eats
+6922,66315,Pelophylax bergeri,Italian Pool Frog,eats
+6922,25316,Pelodytes ibericus,Iberian parsley frog,eats
+6922,24473,Alytes obstetricans,Common Midwife Toad,eats
+6922,,Hyla meridionalis,,eats
+6922,,Discoglossus galganoi,,eats
+6922,25317,Pelodytes caucasicus,Caucasian Parsley Frog,eats
+6922,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+6922,4672,Falco columbarius,Merlin,eatenBy
+6922,4381,Larus fuscus,Lesser Black-backed Gull,eatenBy
+6922,8010,Corvus corax,Common Raven,eatenBy
+6922,42069,Vulpes vulpes,Red Fox,eatenBy
+6922,44540,Rattus,Old World Rats,eatenBy
+6922,5163,Circus,Harriers,eatenBy
+6922,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+6922,41860,Enhydra lutris,Sea Otter,eatenBy
+6922,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+6922,43584,Homo sapiens,Human,eatenBy
+6922,42054,Vulpes,Typical Foxes,eatenBy
+6922,4733,Ciconia ciconia,White Stork,eatenBy
+6922,4736,Ciconia nigra,Black Stork,eatenBy
+6922,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+6922,5267,Milvus milvus,Red Kite,eatenBy
+6922,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+6922,559064,Circus cyaneus,Hen Harrier,eatenBy
+6922,5268,Milvus migrans,Black Kite,eatenBy
+6922,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+6922,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+6922,5178,Circus macrourus,Pallid Harrier,eatenBy
+6922,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+6922,,Aquila pomarina,,eatenBy
+6922,,Aquila heliaca,,eatenBy
+6922,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+6922,,Aquila clanga,,eatenBy
+6922,5192,Buteo rufinus,Long-legged Buzzard,eatenBy
+6922,,Aquila chrysaetos,,eatenBy
+6922,204533,Larus argentatus,Herring Gull,eatenBy
+6922,144297,Stercorarius skua,Great Skua,eatenBy
+6922,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+6922,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+6922,4356,Larus canus,Mew Gull,eatenBy
+6922,144594,Bubo scandiacus,Snowy Owl,eatenBy
+6922,,Ichthyaetus ichthyaetus,,eatenBy
+6922,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+6922,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+6922,4389,Larus cachinnans,Caspian Gull,eatenBy
+6922,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+6922,19890,Strix nebulosa,Great Gray Owl,eatenBy
+6922,19898,Strix aluco,Tawny Owl,eatenBy
+6922,204496,Corvus corone,Carrion Crow,eatenBy
+6922,8029,Corvus frugilegus,Rook,eatenBy
+6922,851014,Canis aureus,Golden Jackal,eatenBy
+6922,42048,Canis lupus,Gray Wolf,eatenBy
+6922,233598,Vulpes lagopus,Arctic Fox,eatenBy
+6922,41961,Felis chaus,Jungle Cat,eatenBy
+6922,41852,Gulo gulo,Wolverine,eatenBy
+6922,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+6922,41900,Herpestes ichneumon,Ichneumon,eatenBy
+6922,41800,Martes foina,Stone Marten,eatenBy
+6922,41850,Lutra lutra,Eurasian Otter,eatenBy
+6922,42134,Sus scrofa,Wild Boar,eatenBy
+6922,41805,Mustela lutreola,European Mink,eatenBy
+6922,41812,Mustela putorius,Western Polecat,eatenBy
+6922,42065,Vulpes corsac,Corsac Fox,eatenBy
+6922,41641,Ursus arctos,Brown Bear,eatenBy
+6922,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+6922,,Elaphe situla,,eatenBy
+6922,39407,Varanus griseus,Desert Monitor,eatenBy
+6922,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+6922,27035,Hierophis viridiflavus carbonarius,,eatenBy
+6922,28451,Telescopus nigriceps,Black headed snake,eatenBy
+6922,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+6922,,Python molurus bivittatus,,eatenBy
+6922,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+6922,4657,Falco rusticolus,Gyrfalcon,eatenBy
+6922,,Grus canadensis,,eatenBy
+6922,,intertidal invertebrates,,preysOn
+6922,44540,Rattus,Old World Rats,preyedUponBy
+6922,5163,Circus,Harriers,preyedUponBy
+6922,20306,Asio,Eared Owls and Allies,preyedUponBy

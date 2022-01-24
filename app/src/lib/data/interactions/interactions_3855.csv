@@ -1,0 +1,81 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3855,1,Animalia,Animals,eats
+3855,,unspecified invertebrates,,eats
+3855,4672,Falco columbarius,Merlin,eatenBy
+3855,20315,Asio flammeus,Short-eared Owl,eatenBy
+3855,4644,Falco mexicanus,Prairie Falcon,eatenBy
+3855,333586,Oligochaeta,Earthworms and allies,preysOn
+3855,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+3855,68764,Ostracoda,Seed Shrimp,preysOn
+3855,47822,Diptera,Flies,preysOn
+3855,49809,Bulla,,preysOn
+3855,47114,Gastropoda,Gastropods,preysOn
+3855,47490,Polychaeta,Polychaete Worms,preysOn
+3855,47584,Bivalvia,Bivalves,preysOn
+3855,84988,Pyramidellidae,Pyramid Snails,preysOn
+3855,84670,Ephydridae,Shore Flies,preysOn
+3855,339176,Renicola buchanani,,preysOn
+3855,,Picornaviridae,,preysOn
+3855,339249,Acanthoparyphium,,preysOn
+3855,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+3855,123639,Spionidae,,preysOn
+3855,,Pygidiopsoides spindalis,,preysOn
+3855,,Large xiphideocercaria,,preysOn
+3855,,Eugregarinida,,preysOn
+3855,,Stictodora hancocki,,preysOn
+3855,,Cryptomya,,preysOn
+3855,,Renicola cerithidicola,,preysOn
+3855,88477,Geonemertes,Greenhouse Proboscis-worms,preysOn
+3855,339199,Catatropis johnstoni,,preysOn
+3855,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+3855,,Hysterolecitha,,preysOn
+3855,339174,Cyathocotylidae,,preysOn
+3855,,Mesostephanus appendiculatoides,,preysOn
+3855,,Hypereteone lighti,,preysOn
+3855,339182,Phocitremoides ovale,,preysOn
+3855,,Probolocoryphe uca,,preysOn
+3855,339245,Himasthla,,preysOn
+3855,339183,Euhaplorchis californiensis,,preysOn
+3855,,Cloacitrema michiganense,,preysOn
+3855,64637,Corophium,,preysOn
+3855,339200,Himasthla rhigedana,,preysOn
+3855,,Parorchis acanthus,,preysOn
+3855,,Ephydra,,preysOn
+3855,,Cerithidea californica,,preysOn
+3855,,Acteocina inculta,,preysOn
+3855,339172,Austrobilharzia,,preysOn
+3855,,Carcinonemertes,,preysOn
+3855,48051,Phoronida,Horseshoe Worms,preysOn
+3855,208368,Capitella capitata,,preysOn
+3855,208366,Orbiniidae,,preysOn
+3855,,epipellic flora,,preysOn
+3855,195030,Hesionidae,,preysOn
+3855,337291,Cirriformia spirabrancha,,preysOn
+3855,83718,Tanaidacea,Tanaids,preysOn
+3855,51280,Nemertea,Ribbon Worms,preysOn
+3855,209018,Polydora,Shell-boring Spionids,preysOn
+3855,47488,Cirratulidae,,preysOn
+3855,,Macoma secta,,preysOn
+3855,,Carinoma mutabilis,,preysOn
+3855,117622,Nuttallia nuttallii,Purple Clam,preysOn
+3855,345489,Naineris,,preysOn
+3855,,Bittium quadrifilatum,,preysOn
+3855,570459,Neanthes arenaceodentata,,preysOn
+3855,,Nassarius tiarula,,preysOn
+3855,81608,Geukensia demissa,Atlantic Ribbed Mussel,preysOn
+3855,64636,Corophiidae,,preysOn
+3855,,Polydora nuchalis,,preysOn
+3855,339152,Cryptomya californica,California Softshell,preysOn
+3855,,Opisthobranchia,,preysOn
+3855,,Ctenodrilidae,,preysOn
+3855,81789,Neanthes,,preysOn
+3855,,Haminoea vesicula,,preysOn
+3855,,Epipellic flora,,preysOn
+3855,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+3855,4672,Falco columbarius,Merlin,preyedUponBy
+3855,8021,Corvus brachyrhynchos,American Crow,preyedUponBy
+3855,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+3855,559064,Circus cyaneus,Hen Harrier,preyedUponBy
+3855,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+3855,,Circus cyanus,,preyedUponBy
+3855,,no name,,preyedUponBy

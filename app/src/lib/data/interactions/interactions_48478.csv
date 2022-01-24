@@ -1,0 +1,124 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48478,48328,Aurelia aurita,Moon Jelly,eats
+48478,180788,Mnemiopsis leidyi,Common Comb Jelly,eats
+48478,,Phytoplankton,,eats
+48478,,Medusozoa,,eats
+48478,128750,Sciaenops ocellatus,Red Drum,eats
+48478,,Gnathostomata,,eats
+48478,,Pisces,,eats
+48478,179583,Gobiosoma bosc,Naked goby,eats
+48478,94070,Anchoa mitchilli,Bay Anchovy,eats
+48478,81634,Mya arenaria,Soft-shelled Clam,eatenBy
+48478,81791,Nereis,,eatenBy
+48478,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+48478,47490,Polychaeta,Polychaete Worms,eatenBy
+48478,50984,Pomatomus saltatrix,Bluefish,eatenBy
+48478,51362,Alosa pseudoharengus,Alewife,eatenBy
+48478,47585,Crassostrea virginica,Eastern Oyster,eatenBy
+48478,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+48478,49243,Alosa sapidissima,American shad,eatenBy
+48478,51363,Brevoortia tyrannus,Atlantic Menhaden,eatenBy
+48478,,meiofauna,,eatenBy
+48478,,Other suspension feeders,,eatenBy
+48478,94070,Anchoa mitchilli,Bay Anchovy,eatenBy
+48478,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+48478,56047,Trinectes maculatus,Hogchoker,eatenBy
+48478,84432,Morone americana,White Perch,eatenBy
+48478,109046,Peprilus paru,Harvestfish,eatenBy
+48478,329118,Sapphirina,,preysOn
+48478,180788,Mnemiopsis leidyi,Common Comb Jelly,preysOn
+48478,126917,Rotifera,Rotifers,preysOn
+48478,48328,Aurelia aurita,Moon Jelly,preysOn
+48478,1019939,Leptodora kindtii,,preysOn
+48478,483834,Ceriodaphnia quadrangula,,preysOn
+48478,329024,Rhincalanus nasutus,,preysOn
+48478,329131,Caligus,,preysOn
+48478,533824,Ceriodaphnia lacustris,,preysOn
+48478,1003858,Ilyocryptus spinifer,,preysOn
+48478,1080182,Picripleuroxus striatus,,preysOn
+48478,688301,Scapholeberis kingi,,preysOn
+48478,1196588,Corycaeus crassiusculus,,preysOn
+48478,,Corycaeus amazonicus,,preysOn
+48478,218302,Diacyclops bicuspidatus,,preysOn
+48478,168927,Sida crystallina,,preysOn
+48478,338141,Chydorus,,preysOn
+48478,,Saphirella,,preysOn
+48478,,Metridia princeps,,preysOn
+48478,,Pararobertsonia chesapeakensis,,preysOn
+48478,329109,Oncaea,,preysOn
+48478,,Clytemnestra rostrata,,preysOn
+48478,,Paralaophonte brevirostris,,preysOn
+48478,493544,Diacyclops thomasi,,preysOn
+48478,219884,Eurytemora affinis,,preysOn
+48478,295156,Acetes americanus,Aviu shrimp,preysOn
+48478,329012,Centropages furcatus,,preysOn
+48478,,Leptinogaster major,,preysOn
+48478,,Ectocyclops phaleratus,,preysOn
+48478,,Paracyclops fibriatus,,preysOn
+48478,983551,Oithona colcarva,,preysOn
+48478,171609,Simocephalus,,preysOn
+48478,203397,Acartia tonsa,,preysOn
+48478,567473,Tortanus discaudatus,,preysOn
+48478,567474,Acartia hudsonica,,preysOn
+48478,483859,Monospilus dispar,,preysOn
+48478,,Halicyclops magniceps,,preysOn
+48478,,Daphnia pulex,,preysOn
+48478,1349347,Tisbe furcata,,preysOn
+48478,,Ectinosoma compressum,,preysOn
+48478,219709,Eucyclops agilis,,preysOn
+48478,,Alona affinis,,preysOn
+48478,,Diaphanosoma leuchtenbergia,,preysOn
+48478,,Eubosmina coregoni,,preysOn
+48478,201760,Nannocalanus,,preysOn
+48478,203471,Centropages hamatus,,preysOn
+48478,94070,Anchoa mitchilli,Bay Anchovy,preysOn
+48478,,Harpacticus gracilis,,preysOn
+48478,,Labidocera wollastoni,,preysOn
+48478,472067,Penilia avirostris,,preysOn
+48478,,Coullana canadensis,,preysOn
+48478,338150,Camptocercus rectirostris,,preysOn
+48478,1297371,Bosmina coregoni,baltic long-nosed waterflea,preysOn
+48478,,Pontella meadii,,preysOn
+48478,,Alonella,,preysOn
+48478,,Subeucalanus pileatus,,preysOn
+48478,,Macrocyclops,,preysOn
+48478,984261,Temora turbinata,,preysOn
+48478,483880,Alona costata,,preysOn
+48478,,Zausodes arenicolus,,preysOn
+48478,,Pseudodiaptomus coronatus,,preysOn
+48478,203478,Evadne,,preysOn
+48478,,Alteutha depressa,,preysOn
+48478,201726,Corycaeus speciosus,,preysOn
+48478,,Harpacticus chelifer,,preysOn
+48478,338145,Diaphanosoma,,preysOn
+48478,626372,Daphnia retrocurva,,preysOn
+48478,203468,Bosmina longirostris,Elephant Water Flea,preysOn
+48478,483871,Leydigia leydigi,,preysOn
+48478,,Pleopis polyphemoides,,preysOn
+48478,201724,Temora stylifera,,preysOn
+48478,201774,Paracalanus,,preysOn
+48478,,Farranula gracilis,,preysOn
+48478,1110969,Lathonura rectirostris,,preysOn
+48478,203467,Temora longicornis,,preysOn
+48478,,Diosaccus tenuicornis,,preysOn
+48478,,Metis,,preysOn
+48478,483862,Latona setifera,,preysOn
+48478,339089,Ergasilus,,preysOn
+48478,,Cyclops vernalis,,preysOn
+48478,203387,Mesocyclops edax,,preysOn
+48478,,Daphnia lumholtzi,,preysOn
+48478,212213,Acanthocyclops vernalis,,preysOn
+48478,,Paracalanus crassirostris,,preysOn
+48478,1110968,Podon intermedius,,preysOn
+48478,1023066,Labidocera aestiva,,preysOn
+48478,,Pontella meadi,,preysOn
+48478,984283,Euterpina acutifrons,,preysOn
+48478,950701,Eurytemora americana,,preysOn
+48478,87923,Diaptomus,,preysOn
+48478,96740,Caranx crysos,Blue Runner,preyedUponBy
+48478,481600,Cratena pilata,Striped Nudibranch,preyedUponBy
+48478,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+48478,,Peprilus alepidotus,,preyedUponBy
+48478,,no name,,preyedUponBy
+48478,295474,Libinia dubia,Longnose Spider Crab,preyedUponBy
+48478,109046,Peprilus paru,Harvestfish,preyedUponBy

@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52777,,Picoides villosus,,eatenBy
+52777,19577,Chordeiles minor,Common Nighthawk,eatenBy
+52777,53922,Loasaceae,Stickleaf Family,pollinates
+52777,51875,Trifolium pratense,red clover,pollinates
+52777,57952,Coreopsis,Tickseed,pollinates
+52777,47452,Acacia,wattles,pollinates
+52777,75627,Astragalus brauntonii,Braunton's milkvetch,pollinates
+52777,50741,Spiranthes,Ladies'-tresses,pollinates
+52777,61321,Lythrum salicaria,purple loosestrife,pollinates
+52777,,Nemophila,,pollinates
+52777,,http://treatment.plazi.org/id/E76E6BBABF23BD7A32BDDED82B23CFFB,,pollinates
+52777,75869,Brassica napus,rapeseed,pollinates
+52777,50648,Nemophila menziesii,Menzies' baby blue eyes,pollinates
+52777,77780,Linnaea borealis,twinflower,pollinates
+52777,166349,Penstemon degeneri,Degener's Beardtongue,pollinates
+52777,,Conradina canescens,,pollinates
+52777,,Ampelaster carolinianus,,pollinates
+52777,,Gelsemium rankinii,,pollinates
+52777,,Sabal,,pollinates
+52777,57863,Rhynchospora,Beaksedges,pollinates
+52777,,Astragalus schmolliae,,pollinates
+52777,,Brodiaea filifolia,,pollinates
+52777,,Thymophylla tephroleuca,,pollinates
+52777,41277,Eumops perotis,Western Bonneted Bat,preyedUponBy
+52777,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

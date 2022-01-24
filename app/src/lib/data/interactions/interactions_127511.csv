@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127511,47193,Cornus,dogwoods,eats
+127511,47566,Populus,"poplars, cottonwoods, and aspens",eats
+127511,52850,Aralia,spikenards,eats
+127511,49230,Amelanchier,serviceberries,eats
+127511,53373,Corylus,hazels,eats
+127511,48528,Symphoricarpos,snowberries,eats
+127511,47351,Prunus,"plums, cherries, and allies",eats
+127511,60369,Pyrola,wintergreens,eats
+127511,,pryola,,eats

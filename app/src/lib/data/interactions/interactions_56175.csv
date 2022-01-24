@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56175,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+56175,48548,Vanessa cardui,Painted Lady,eatenBy
+56175,6317,Calypte anna,Anna's Hummingbird,eatenBy
+56175,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+56175,47219,Apis mellifera,Western Honey Bee,eatenBy
+56175,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+56175,6433,Archilochus alexandri,Black-chinned Hummingbird,eatenBy
+56175,6359,Selasphorus sasin,Allen's Hummingbird,eatenBy
+56175,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+56175,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+56175,52775,Bombus,Bumble Bees,eatenBy
+56175,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+56175,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+56175,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+56175,49133,Vanessa atalanta,Red Admiral,eatenBy
+56175,48662,Danaus plexippus,Monarch,eatenBy
+56175,55626,Pieris rapae,Cabbage White,eatenBy
+56175,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+56175,6363,Selasphorus rufus,Rufous Hummingbird,eatenBy
+56175,57681,Anthophora urbana,Urbane Digger Bee,eatenBy
+56175,6316,Calypte costae,Costa's Hummingbird,eatenBy
+56175,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+56175,6358,Selasphorus,"Rufous, Allen's, and Allied Hummingbirds",eatenBy
+56175,1081332,Lon melane,Umber Skipper,eatenBy
+56175,48549,Vanessa virginiensis,American Lady,eatenBy
+56175,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+56175,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+56175,,Selasphorus calliope,,eatenBy
+56175,325665,Esperia sulphurella,Sulphur Tubic,eatenBy
+56175,,Habropoda depressa,,eatenBy
+56175,,Psacasta exanthematica,,eatenBy
+56175,,Proserpinus clarkiae,,eatenBy
+56175,322368,Syrphus opinator,Black-margined Flower Fly,eatenBy
+56175,,Ethmia bipunctella,,eatenBy
+56175,127170,Hemaris thetis,Rocky Mountain Clearwing,eatenBy
+56175,49348,Hyles lineata,White-lined Sphinx,eatenBy
+56175,,Bombus flavifrons,,eatenBy
+56175,,Agromyza abiens,,eatenBy
+56175,,Amsacta marginata,,eatenBy
+56175,354660,Spilosoma glatignyi,black-and-white tiger moth,eatenBy
+56175,,Ethmia terminella,,eatenBy
+56175,,Dialectica scalariella,,eatenBy
+56175,,Chrysodeixis chalcites,,eatenBy
+56175,526892,Cynaeda dentalis,Starry Pearl,eatenBy
+56175,,Microsphecia tineiformis,,eatenBy
+56175,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+56175,57682,Anthophora,Common Digger Bees,pollinatedBy
+56175,62781,Camponotus,Carpenter and Sugar Ants,pollinatedBy
+56175,,Eucera gracilipes,,pollinatedBy
+56175,,Amegilla,,pollinatedBy
+56175,,Amegilla canifrons,,pollinatedBy

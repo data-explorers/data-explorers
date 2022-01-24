@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5009,47187,Malacostraca,Malacostracans,eats
+5009,20978,Amphibia,Amphibians,eats
+5009,61267,Heteroptera,True Bugs,eats
+5009,47927,Anisoptera,Dragonflies,eats
+5009,,Teleostei,,eats
+5009,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+5009,60340,Lithobates,American Water Frogs,preysOn
+5009,101053,Fundulus diaphanus,banded killifish,preysOn
+5009,47178,Actinopterygii,Ray-finned Fishes,preysOn

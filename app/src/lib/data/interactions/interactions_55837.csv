@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55837,52775,Bombus,Bumble Bees,eatenBy
+55837,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+55837,51557,Bombylius major,Greater Bee Fly,eatenBy
+55837,,Callosciurus erythraeus,,eatenBy
+55837,,Hoplocampa chrysorrhoea,,eatenBy
+55837,,Phytobia cerasiferae,,eatenBy
+55837,40905,Pteropus poliocephalus,Grey-headed Flying-fox,eatenBy
+55837,,Chamyris cerintha,,eatenBy
+55837,143343,Hyalopterus pruni,Mealy Plum Aphid,eatenBy
+55837,,Putoniella pruni,,eatenBy
+55837,,Tranzschelia pruni-spinosae,,eatenBy
+55837,,Taphrina pruni,,eatenBy
+55837,,Dorcus parallelipipedus,,eatenBy
+55837,,Polystigma rubrum,,eatenBy
+55837,18921,Platycercus elegans,Crimson Rosella,eatenBy
+55837,1259260,Platycheirus dexter,,pollinates

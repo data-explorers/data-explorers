@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62691,50931,Strymon melinus,Gray Hairstreak,eatenBy
+62691,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+62691,48548,Vanessa cardui,Painted Lady,eatenBy
+62691,,Celastrina argiolus,,eatenBy
+62691,,Icaricia icarioides,,eatenBy
+62691,,Erynnis afranius,,eatenBy
+62691,,Erynnis persius,,eatenBy
+62691,,Glaucopsyche piasus,,eatenBy
+62691,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+62691,47158,Insecta,Insects,pollinatedBy
+62691,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

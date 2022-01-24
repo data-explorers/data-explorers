@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123096,63573,Picea,spruces,eats
+123096,48255,Tsuga,hemlocks,eats
+123096,54262,Abies,firs,eats
+123096,52681,Pteridium aquilinum,common bracken,eats
+123096,68089,Tsuga mertensiana,mountain hemlock,eats
+123096,75537,Arctostaphylos patula,greenleaf manzanita,eats
+123096,48254,Tsuga heterophylla,western hemlock,eats
+123096,48256,Pseudotsuga menziesii,common Douglas-fir,eats
+123096,,Abies amabilis,,eats
+123096,,Thuja plicata,,eats
+123096,,Abies balsamea,,eats
+123096,,Tsuga canadensis,,eats
+123096,,Parkesia motacilla,,eatenBy
+123096,,Dracuphyllum acerosum,,pollinates
+123096,,Hebe salicifolia,,pollinates

@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+90074,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+90074,69676,Thunnus,Bluefin Tunas,eatenBy
+90074,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+90074,253735,Thysanoteuthis rhombus,Diamondback Squid,eatenBy
+90074,41496,Stenella longirostris,Spinner Dolphin,eatenBy
+90074,103232,Iago omanensis,Bigeye Houndshark,eatenBy
+90074,100349,Eridacnis radcliffei,Pygmy Ribbontail Catshark,eatenBy
+90074,96268,Bythaelurus hispidus,Bristly catshark,eatenBy
+90074,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+90074,,Aristostomias polydactylus,,eatenBy
+90074,120645,Chauliodus sloani,Sloane's Viperfish,eatenBy
+90074,,Lagenodelphis hosei,,eatenBy
+90074,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+90074,204533,Larus argentatus,Herring Gull,eatenBy
+90074,41745,Arctocephalus philippii,Juan Fernández Fur Seal,eatenBy
+90074,4134,Bulweria bulwerii,Bulwer's Petrel,eatenBy
+90074,4044,Pterodroma hypoleuca,Bonin Petrel,eatenBy
+90074,41496,Stenella longirostris,Spinner Dolphin,preyedUponBy
+90074,41480,Tursiops,Bottlenose Dolphins,preyedUponBy
+90074,,no name,,preyedUponBy

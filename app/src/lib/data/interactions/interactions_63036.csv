@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63036,53036,Ambrosia,ragweeds,eats
+63036,47118,Araneae,Spiders,eatenBy
+63036,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+63036,17356,Vireo bellii,Bell's Vireo,eatenBy
+63036,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+63036,,Nabis,,eatenBy
+63036,17408,Vireo griseus,White-eyed Vireo,eatenBy
+63036,,Vireo flavifrons,,eatenBy
+63036,17394,Vireo gilvus,Warbling Vireo,eatenBy

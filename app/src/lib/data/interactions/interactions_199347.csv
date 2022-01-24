@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+199347,85493,Crustacea,Crustaceans,eats
+199347,203397,Acartia tonsa,,eats
+199347,253674,Argonauta argo,Greater Argonaut,eatenBy
+199347,203397,Acartia tonsa,,preysOn
+199347,253674,Argonauta argo,Greater Argonaut,preyedUponBy

@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48508,17009,Sayornis saya,Say's Phoebe,eatenBy
+48508,12716,Turdus merula,Eurasian Blackbird,eatenBy
+48508,520978,Gomphurus externus,Plains Clubtail,eatenBy
+48508,,Orthetrum cancellatum,,eatenBy
+48508,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+48508,,Spizella breweri,,eatenBy
+48508,,Pooecetes gramineus,,eatenBy
+48508,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48508,55626,Pieris rapae,Cabbage White,pollinates
+48508,63319,Verbena stricta,hoary vervain,pollinates
+48508,,Haplopappus anthylloides,,pollinates
+48508,,Polygala lewtonii,,pollinates
+48508,160893,Coreopsis gladiata,Coastal Plain Tickseed,pollinates
+48508,,Echinacea angustifolia,,pollinates
+48508,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+48508,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+48508,,Plecotus auritus,,preyedUponBy
+48508,,Mormoops blainvillei,,preyedUponBy
+48508,520978,Gomphurus externus,Plains Clubtail,preyedUponBy
+48508,,Araneus guttatus,,preyedUponBy
+48508,,Orthetrum cancellatum,,preyedUponBy

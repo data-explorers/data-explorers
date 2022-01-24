@@ -1,0 +1,164 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49591,47120,Arthropoda,Arthropods,eats
+49591,47628,Amphipoda,Amphipods,eats
+49591,47114,Gastropoda,Gastropods,eats
+49591,47822,Diptera,Flies,eats
+49591,85514,Cyclopoida,Cyclopoid Copepods,eats
+49591,84735,Corixidae,Water Boatmen,eats
+49591,47584,Bivalvia,Bivalves,eats
+49591,48147,Isopoda,Isopods,eats
+49591,53275,Chironomidae,Non-biting Midges,eats
+49591,48011,Ephemeroptera,Mayflies,eats
+49591,47158,Insecta,Insects,eats
+49591,47126,Plantae,plants,eats
+49591,121643,Copepoda,Copepods,eats
+49591,1,Animalia,Animals,eats
+49591,85493,Crustacea,Crustaceans,eats
+49591,47115,Mollusca,Molluscs,eats
+49591,62164,Trichoptera,Caddisflies,eats
+49591,47927,Anisoptera,Dragonflies,eats
+49591,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+49591,47208,Coleoptera,Beetles,eats
+49591,123796,Exosphaeroma,,eats
+49591,81545,Lumbricus terrestris,Common Earthworm,eats
+49591,151644,Mytilopsis leucophaeata,Dark Falsemussel,eats
+49591,,Cladocera,,eats
+49591,64637,Corophium,,eats
+49591,85507,Calanoida,Calanoid Copepods,eats
+49591,,Detritus,,eats
+49591,179583,Gobiosoma bosc,Naked goby,eats
+49591,59807,Gammarus,,eats
+49591,,,,eats
+49591,,Gnathostomata,,eats
+49591,,Notropis boucardi,,eats
+49591,,plank. invertebrates,,eats
+49591,1302968,Hyalella azteca,,eats
+49591,,plank. Invertebrates,,eats
+49591,69803,Ceratopogonidae,Biting Midges,eats
+49591,,Pisces,,eats
+49591,144129,Cephalocarida,Horseshoe Shrimps,eats
+49591,,Osteichthyes,,eats
+49591,,Neomysis awatschensis,,eats
+49591,,Telmatogetoninae,,eats
+49591,64006,Corbicula fluminea,Asian Clam,eats
+49591,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+49591,41663,Procyon lotor,Common Raccoon,eatenBy
+49591,2548,Megaceryle alcyon,Belted Kingfisher,eatenBy
+49591,4956,Ardea herodias,Great Blue Heron,eatenBy
+49591,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+49591,4496,Rynchops niger,Black Skimmer,eatenBy
+49591,119994,Vespula maculifrons,Eastern Yellowjacket,eatenBy
+49591,5020,Butorides virescens,Green Heron,eatenBy
+49591,144455,Ardea alba,Great Egret,eatenBy
+49591,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eatenBy
+49591,4940,Egretta thula,Snowy Egret,eatenBy
+49591,116999,Pandion haliaetus,Osprey,eatenBy
+49591,4756,Cathartes aura,Turkey Vulture,eatenBy
+49591,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49591,51392,Morone saxatilis,Striped Bass,eatenBy
+49591,47518,Salmo trutta,Brown Trout,eatenBy
+49591,26159,Alligator mississippiensis,American Alligator,eatenBy
+49591,,Cichla ocellaris,,eatenBy
+49591,,Amia calva,,eatenBy
+49591,106195,Morone chrysops,White Bass,eatenBy
+49591,49593,Pomoxis annularis,White Crappie,eatenBy
+49591,,Esox masquinongy,,eatenBy
+49591,55387,Esox lucius,Northern Pike,eatenBy
+49591,5063,Anhinga anhinga,Anhinga,eatenBy
+49591,204533,Larus argentatus,Herring Gull,eatenBy
+49591,,Egretta intermedia,,eatenBy
+49591,,Anhinga rufa rufa,,eatenBy
+49591,4364,Larus delawarensis,Ring-billed Gull,eatenBy
+49591,4742,Mycteria americana,Wood Stork,eatenBy
+49591,4938,Egretta tricolor,Tricolored Heron,eatenBy
+49591,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+49591,6996,Mergus serrator,Red-breasted Merganser,eatenBy
+49591,4235,Aechmophorus occidentalis,Western Grebe,eatenBy
+49591,62164,Trichoptera,Caddisflies,preysOn
+49591,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+49591,53275,Chironomidae,Non-biting Midges,preysOn
+49591,125343,Crepidula fornicata,Common Atlantic Slippersnail,preysOn
+49591,1110632,Apocorophium lacustre,,preysOn
+49591,,Littorina irrorata,,preysOn
+49591,254191,Acteocina canaliculata,Channeled Barrel-bubble,preysOn
+49591,,Melita,,preysOn
+49591,,Daphnia pulex,,preysOn
+49591,260810,Batea catharinensis,,preysOn
+49591,,Chaoboridae,,preysOn
+49591,954167,Gammarus daiberi,,preysOn
+49591,59807,Gammarus,,preysOn
+49591,260844,Cerapus tubularis,Hermit Amphipod,preysOn
+49591,567249,Echinogammarus stoerensis,,preysOn
+49591,,Sciomyzidae,,preysOn
+49591,,Mitrella lunata,,preysOn
+49591,,Doris verrucosa,,preysOn
+49591,292259,Bittiolum varium,,preysOn
+49591,,Corophium tuberculatum,,preysOn
+49591,55169,Elysia chlorotica,Eastern Emerald Elysia,preysOn
+49591,58399,Urosalpinx cinerea,Eastern Oyster Drill,preysOn
+49591,295885,Unciola irrorata,,preysOn
+49591,,Lepidactylus dytiscus,,preysOn
+49591,,Polycerella conyma,,preysOn
+49591,1232815,Microprotopus raneyi,,preysOn
+49591,295414,Elasmopus levis,,preysOn
+49591,626372,Daphnia retrocurva,,preysOn
+49591,,Photis reinhardi,,preysOn
+49591,,Elysia catula,,preysOn
+49591,370753,Gammarus fasciatus,,preysOn
+49591,295411,Ampelisca verrilli,,preysOn
+49591,260656,Gammarus mucronatus,,preysOn
+49591,85352,Chaetopleura apiculata,Eastern Beaded Chiton,preysOn
+49591,248382,Lembos,,preysOn
+49591,260502,Cymadusa compta,,preysOn
+49591,,Cyclops vernalis,,preysOn
+49591,,Stenothoe minuta,,preysOn
+49591,,Epitonium rupicola,,preysOn
+49591,55297,Clione limacina,Naked Sea Butterfly,preysOn
+49591,253748,Japonactaeon punctostriatus,,preysOn
+49591,1302968,Hyalella azteca,,preysOn
+49591,209037,Ampithoe longimana,,preysOn
+49591,1023020,Siphonoecetes smithianus,,preysOn
+49591,59360,Neverita duplicata,Shark Eye,preysOn
+49591,260807,Rudilemboides naglei,,preysOn
+49591,260498,Ampelisca vadorum,,preysOn
+49591,,Haminoea solitaria,,preysOn
+49591,1022986,Corambe obscura,,preysOn
+49591,481600,Cratena pilata,Striped Nudibranch,preysOn
+49591,,Nassarius vibex,,preysOn
+49591,,Plecoptera,,preysOn
+49591,345356,Limacina helicina,Helicid Pteropod,preysOn
+49591,681184,Paracaprella tenuis,,preysOn
+49591,81642,Crepidula convexa,Convex Slippersnail,preysOn
+49591,209052,Monocorophium insidiosum,,preysOn
+49591,1023441,Gammaropsis nitida,,preysOn
+49591,255207,Ercolania fuscata,,preysOn
+49591,203468,Bosmina longirostris,Elephant Water Flea,preysOn
+49591,,Daphnia lumholtzi,,preysOn
+49591,64646,Jassa falcata,Mottled Tubemaker,preysOn
+49591,260712,Caprella penantis,,preysOn
+49591,1281933,Monoculodes,,preysOn
+49591,978274,Leptocheirus plumulosus,,preysOn
+49591,,Pleusymtes glaber,,preysOn
+49591,,Hermaea cruciata,,preysOn
+49591,84432,Morone americana,White Perch,preysOn
+49591,41482,Tursiops truncatus,Common Bottlenose Dolphin,preyedUponBy
+49591,49587,Micropterus salmoides,Largemouth Bass,preyedUponBy
+49591,2548,Megaceryle alcyon,Belted Kingfisher,preyedUponBy
+49591,5020,Butorides virescens,Green Heron,preyedUponBy
+49591,144455,Ardea alba,Great Egret,preyedUponBy
+49591,116999,Pandion haliaetus,Osprey,preyedUponBy
+49591,4308,Phalacrocorax brasilianus,Neotropic Cormorant,preyedUponBy
+49591,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+49591,,Nerodia sipedon sipedon,,preyedUponBy
+49591,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+49591,29304,Nerodia taxispilota,Brown Watersnake,preyedUponBy
+49591,55387,Esox lucius,Northern Pike,preyedUponBy
+49591,,Esox masquinongy,,preyedUponBy
+49591,,Cichla ocellaris,,preyedUponBy
+49591,,no name,,preyedUponBy
+49591,47518,Salmo trutta,Brown Trout,preyedUponBy
+49591,51392,Morone saxatilis,Striped Bass,preyedUponBy
+49591,5063,Anhinga anhinga,Anhinga,preyedUponBy
+49591,126619,Pandion haliaetus carolinensis,North American Osprey,preyedUponBy
+49591,,Anhinga rufa rufa,,preyedUponBy
+49591,204533,Larus argentatus,Herring Gull,preyedUponBy

@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49704,209233,Equus caballus,Domestic Horse,eats
+49704,69758,Lumbricidae,Earthworms,eats
+49704,43584,Homo sapiens,Human,eats
+49704,,Canis lupus familiaris,,eats
+49704,,Bos taurus,,eats
+49704,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+49704,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+49704,4209,Podiceps auritus,Horned Grebe,eatenBy
+49704,,Cyprinodon nevadensis,,eatenBy
+49704,,Channa punctata,,eatenBy
+49704,545699,Mormyrus rume,Senegal mormyrid,eatenBy
+49704,,Bagrus docmak,,eatenBy
+49704,,Bagrus bajad,,eatenBy
+49704,48648,Salmo salar,Atlantic Salmon,eatenBy
+49704,6667,Cypseloides niger,Black Swift,eatenBy
+49704,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+49704,,Vireo flavifrons,,eatenBy
+49704,,Empidonax virescens,,eatenBy
+49704,,Parkesia motacilla,,eatenBy
+49704,5017,Bubulcus ibis,Cattle Egret,eatenBy
+49704,163256,Geranium caespitosum,pinewoods geranium,pollinates
+49704,,Pentachondra pumila,,pollinates
+49704,,Epacris petrophila,,pollinates
+49704,,Baeckea gunniana,,pollinates
+49704,336515,Ludwigia nervosa,,pollinates
+49704,47927,Anisoptera,Dragonflies,preyedUponBy
+49704,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+49704,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+49704,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+49704,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+49704,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+49704,,Somatochlora,,preyedUponBy
+49704,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+49704,51679,Coenagrion,Northern Bluets,preyedUponBy
+49704,,Coenagrion pulchellum,,preyedUponBy

@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119115,46217,Tamias striatus,Eastern Chipmunk,eats
+119115,53052,Foeniculum vulgare,fennel,eats
+119115,47544,Rubus,brambles,eats
+119115,3017,Columba livia,Rock Pigeon,eats
+119115,,Prunus laurocerasus,,eats
+119115,,Veronica franciscana,,eats
+119115,409181,Trite planiceps,Black-headed Jumping Spider,eatenBy
+119115,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+119115,51822,Euphorbia,spurges,pollinates
+119115,,Hebe salicifolia,,pollinates
+119115,,Corokia cotoneaster,,pollinates
+119115,349792,Aciphylla,Spaniard grass,pollinates
+119115,333734,Thymelaea hirsuta,Mitnan,pollinates
+119115,,Bellis annua,,pollinates
+119115,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

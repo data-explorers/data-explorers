@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+133821,211194,Tracheophyta,vascular plants,eats
+133821,67333,Bacteria,bacteria,eats
+133821,,Detritus,,eats
+133821,,Algae,,eats
+133821,,Prymnesiophyceae,,eats
+133821,,Macroalgae,,eats
+133821,,Gregarinidae,,eats
+133821,,benthic microalgae/periphyton,,eats
+133821,,Nyctotherus,,eats
+133821,,Opalina,,eats
+133821,81576,Belostoma,,eatenBy
+133821,64970,Anaxyrus boreas,Western Toad,eatenBy
+133821,133623,Tropisternus,,eatenBy
+133821,27818,Taricha torosa,California Newt,eatenBy
+133821,473,Fulica americana,American Coot,eatenBy
+133821,67731,Anax junius,Common Green Darner,eatenBy
+133821,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+133821,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+133821,34,Grus americana,Whooping Crane,eatenBy
+133821,,Helobdella stagnalis,,eatenBy
+133821,,Glossiphonia complanata,,eatenBy
+133821,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+133821,,Lethocerus americanus,,eatenBy
+133821,,Galaxiella munda,,eatenBy
+133821,,Echinostoma trivolvis,,eatenBy
+133821,,Echinostoma,,eatenBy
+133821,67016,Rana draytonii,California Red-legged Frog,eatenBy
+133821,7047,Aythya marila,Greater Scaup,eatenBy
+133821,7057,Aythya valisineria,Canvasback,eatenBy
+133821,7054,Aythya affinis,Lesser Scaup,eatenBy
+133821,243,Rallus limicola,Virginia Rail,eatenBy
+133821,162,Porzana carolina,Sora,eatenBy
+133821,47126,Plantae,plants,preysOn
+133821,67333,Bacteria,bacteria,preysOn
+133821,,Opalina,,preysOn
+133821,,Gregarinidae,,preysOn
+133821,,benthic microalgae/periphyton,,preysOn
+133821,,Nyctotherus,,preysOn
+133821,133623,Tropisternus,,preyedUponBy
+133821,473,Fulica americana,American Coot,preyedUponBy
+133821,67731,Anax junius,Common Green Darner,preyedUponBy
+133821,27818,Taricha torosa,California Newt,preyedUponBy
+133821,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+133821,81576,Belostoma,,preyedUponBy
+133821,,Letherocerus americanus,,preyedUponBy
+133821,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+133821,67016,Rana draytonii,California Red-legged Frog,preyedUponBy

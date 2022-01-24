@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58732,58732,Toxicodendron radicans,poison ivy,eats
+58732,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+58732,9424,Pipilo erythrophthalmus,Eastern Towhee,eatenBy
+58732,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+58732,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+58732,18236,Colaptes auratus,Northern Flicker,eatenBy
+58732,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+58732,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+58732,14850,Sturnus vulgaris,European Starling,eatenBy
+58732,199841,Haemorhous purpureus,Purple Finch,eatenBy
+58732,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+58732,9184,Zonotrichia albicollis,White-throated Sparrow,eatenBy
+58732,12890,Catharus guttatus,Hermit Thrush,eatenBy
+58732,3454,Zenaida macroura,Mourning Dove,eatenBy
+58732,12727,Turdus migratorius,American Robin,eatenBy
+58732,9602,Quiscalus quiscula,Common Grackle,eatenBy
+58732,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+58732,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+58732,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+58732,12901,Catharus fuscescens,Veery,eatenBy
+58732,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+58732,17355,Vireo,Vireos,eatenBy
+58732,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+58732,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+58732,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+58732,12942,Sialia sialis,Eastern Bluebird,eatenBy
+58732,19660,Regulus,Kinglets,eatenBy
+58732,117095,Regulus calendula,Ruby-crowned Kinglet,eatenBy
+58732,132070,Phaneroptera nana,Mediterranean Katydid,eatenBy
+58732,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+58732,3017,Columba livia,Rock Pigeon,eatenBy
+58732,58732,Toxicodendron radicans,poison ivy,eatenBy
+58732,,Picoides pubescens,,eatenBy
+58732,,Picoides villosus,,eatenBy
+58732,18205,Melanerpes carolinus,Red-bellied Woodpecker,eatenBy
+58732,,Euphagus carolinus,,eatenBy
+58732,13632,Baeolophus bicolor,Tufted Titmouse,eatenBy
+58732,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+58732,12883,Catharus minimus,Gray-cheeked Thrush,eatenBy
+58732,,Vireo flavifrons,,eatenBy
+58732,17408,Vireo griseus,White-eyed Vireo,eatenBy
+58732,,Empidonax virescens,,eatenBy
+58732,,Phomopsis rhois,,eatenBy
+58732,,Diaporthe rhois,,eatenBy
+58732,,Cytospora rhoina,,eatenBy
+58732,,Stigmella rhoifoliella,,eatenBy
+58732,334439,Aculops rhois,Poison Ivy Leaf Mite,eatenBy
+58732,,Cameraria guttifinitella,,eatenBy
+58732,,Epipaschia superatalis,,eatenBy
+58732,,Campephilus principalis,,eatenBy

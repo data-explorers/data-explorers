@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+120959,,Spartina,,eats
+120959,,Algae,,eats
+120959,,Detritus complex,,eats
+120959,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+120959,47827,Cancer,,eatenBy
+120959,3836,Calidris,Calidris Sandpipers,eatenBy
+120959,41860,Enhydra lutris,Sea Otter,eatenBy
+120959,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+120959,43584,Homo sapiens,Human,eatenBy
+120959,,Evasterias troscheli,,eatenBy
+120959,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+120959,7024,Somateria mollissima,Common Eider,eatenBy
+120959,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+120959,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+120959,123805,Paralithodes,,eatenBy
+120959,48903,Asterias,,eatenBy
+120959,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+120959,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+120959,63740,Gadus morhua,Atlantic Cod,eatenBy
+120959,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+120959,107180,Notolabrus celidotus,Spotty,eatenBy
+120959,67333,Bacteria,bacteria,preysOn
+120959,,Detritus complex,,preysOn
+120959,,Zooplankton,,preysOn
+120959,,Phytoplankton,,preysOn
+120959,47827,Cancer,,preyedUponBy
+120959,47645,Cottidae,Typical Sculpins,preyedUponBy
+120959,41661,Procyon,Raccoons,preyedUponBy
+120959,,Evasterias troscheli,,preyedUponBy
+120959,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+120959,248363,Eurytium,,preyedUponBy
+120959,367714,Rallus longirostris,Mangrove Rail,preyedUponBy

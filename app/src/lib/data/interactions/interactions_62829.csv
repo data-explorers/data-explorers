@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62829,243807,Pyroderces,,eatenBy
+62829,52775,Bombus,Bumble Bees,eatenBy
+62829,47219,Apis mellifera,Western Honey Bee,eatenBy
+62829,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+62829,,Rhinacloa callicrates,,eatenBy
+62829,,Mictis profana,,eatenBy
+62829,,Leguminivora ptychora,,eatenBy
+62829,,Cyanophrys,,eatenBy
+62829,,Eurema albula,,eatenBy
+62829,,Euphoria leucographa,,eatenBy
+62829,,Penthobruchus germaini,,eatenBy
+62829,,Dysschema sacrifica,,eatenBy
+62829,,Xylocopa darwini,,pollinatedBy

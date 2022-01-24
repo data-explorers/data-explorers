@@ -1,0 +1,241 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48921,195355,Hyperiidae,,eats
+48921,48147,Isopoda,Isopods,eats
+48921,47626,Caprellidae,Skeleton Shrimp,eats
+48921,85912,Mysidae,,eats
+48921,68764,Ostracoda,Seed Shrimp,eats
+48921,195136,Euphausia,,eats
+48921,49725,Pugettia,,eats
+48921,51104,Thaliacea,Thaliaceans,eats
+48921,151827,Chaetognatha,Arrow Worms,eats
+48921,152275,Thalassiosirales,,eats
+48921,129725,Appendicularia,Pelagic Tunicates,eats
+48921,48921,Hydrozoa,Hydrozoans,eats
+48921,67333,Bacteria,bacteria,eats
+48921,195134,Euphausiidae,Euphotic Krill,eats
+48921,130225,Dinophyceae,,eats
+48921,123880,Bacillariophyceae,Diatoms,eats
+48921,118996,Ciliophora,Ciliates,eats
+48921,59806,Gammaridae,,eats
+48921,48817,Crangon,,eats
+48921,,Detritus,,eats
+48921,86355,Alona,,eats
+48921,171682,Paracyclops,,eats
+48921,338141,Chydorus,,eats
+48921,171429,Eucyclops,,eats
+48921,,Macroalgae,,eats
+48921,329000,Thysanoessa raschii,,eats
+48921,,Gammaridea,,eats
+48921,123865,Coscinodiscus,,eats
+48921,201747,Clausocalanidae,,eats
+48921,,Neocalanus plumchrus,,eats
+48921,53607,Polynoidae,Scaleworms,eats
+48921,345356,Limacina helicina,Helicid Pteropod,eats
+48921,195081,Acartia,,eats
+48921,203470,Oithona,,eats
+48921,203613,Licmophora,,eats
+48921,51280,Nemertea,Ribbon Worms,eats
+48921,223605,Leuroglossus schmidti,Northern Smoothtongue,eats
+48921,86098,Temoridae,,eats
+48921,201781,Calanus,,eats
+48921,48416,Citharichthys,,eats
+48921,105599,Merluccius productus,Pacific Hake,eats
+48921,,Detritus complex,,eats
+48921,117571,Clupea pallasii,Pacific herring,eats
+48921,203808,Navicula,,eats
+48921,,Tintinnina,,eats
+48921,200862,Bacillariaceae,,eats
+48921,,Foraminiferida,,eats
+48921,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,eatenBy
+48921,121181,Calliostoma annulatum,Jeweled Top Snail,eatenBy
+48921,256089,Pelagia noctiluca,Mauve Stinger,eatenBy
+48921,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+48921,54662,Mugil,Common Mullets,eatenBy
+48921,51511,Beroidae,,eatenBy
+48921,128782,Prayidae,,eatenBy
+48921,132473,Lagodon rhomboides,Pinfish,eatenBy
+48921,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+48921,117606,Nephtyidae,Catworms,eatenBy
+48921,49581,Nereididae,,eatenBy
+48921,49725,Pugettia,,eatenBy
+48921,81787,Syllidae,,eatenBy
+48921,52966,Phacellophora camtschatica,Egg-yolk Jelly,eatenBy
+48921,49052,Anthopleura,,eatenBy
+48921,3836,Calidris,Calidris Sandpipers,eatenBy
+48921,47716,Majidae,Typical Spider Crabs,eatenBy
+48921,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+48921,51200,Hippolytidae,Hump-backed Shrimps,eatenBy
+48921,47825,Pycnogonida,Pycnogonids,eatenBy
+48921,47827,Cancer,,eatenBy
+48921,48174,Paguridae,Pagurid Hermit Crabs,eatenBy
+48921,48921,Hydrozoa,Hydrozoans,eatenBy
+48921,48836,Ophiuroidea,Brittle Stars,eatenBy
+48921,4424,Sterna,Typical Terns,eatenBy
+48921,48483,Chrysaora,Sea Nettles,eatenBy
+48921,4063,Oceanodroma,,eatenBy
+48921,47630,Mopalia,,eatenBy
+48921,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+48921,195134,Euphausiidae,Euphotic Krill,eatenBy
+48921,47634,Hemitripterus americanus,Sea Raven,eatenBy
+48921,51390,Tautogolabrus adspersus,Cunner,eatenBy
+48921,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+48921,233996,Zoarces americanus,Ocean Pout,eatenBy
+48921,82349,Hippoglossus hippoglossus,Atlantic Halibut,eatenBy
+48921,48402,Amblyraja radiata,Thorny Skate,eatenBy
+48921,63742,Gadidae,Cods and Haddocks,eatenBy
+48921,104533,Leucoraja erinacea,Little Skate,eatenBy
+48921,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+48921,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+48921,86443,Anarhichas,,eatenBy
+48921,83846,Urophycis chuss,squirrel hake,eatenBy
+48921,61388,Scophthalmus aquosus,Windowpane Flounder,eatenBy
+48921,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+48921,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+48921,618988,Hippoglossina oblonga,Fourspot Flounder,eatenBy
+48921,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+48921,,Sebastes marinus,,eatenBy
+48921,56045,Limanda ferruginea,Yellowtail flounder,eatenBy
+48921,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eatenBy
+48921,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+48921,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+48921,224886,Merluccius bilinearis,Silver Hake,eatenBy
+48921,233277,Urophycis tenuis,White Hake,eatenBy
+48921,194675,Lophius americanus,American Monkfish,eatenBy
+48921,104540,Leucoraja ocellata,Winter Skate,eatenBy
+48921,233276,Urophycis regia,Spotted Hake,eatenBy
+48921,,Nematocarcinus combensis,,eatenBy
+48921,,Paralepidonotus indicus,,eatenBy
+48921,672476,Lepidonotus tenuisetosus,,eatenBy
+48921,394392,Paralepidonotus ampulliferus,,eatenBy
+48921,,Aidanosagitta oceania,,eatenBy
+48921,199325,Alitta succinea,Clam Worm,eatenBy
+48921,418338,Marianina rosea,,eatenBy
+48921,459554,Chaceon quinquedens,Red Deepsea Crab,eatenBy
+48921,56653,Haliotis fulgens,Green Abalone,eatenBy
+48921,459669,Sclerocrangon boreas,Sculptured Shrimp,eatenBy
+48921,222760,Lebbeus polaris,Polar Lebbeid Shrimp,eatenBy
+48921,459679,Spirontocaris spinus,Parrot Shrimp,eatenBy
+48921,194929,Eurythoe complanata,Orange Fire Worm,eatenBy
+48921,50992,Phidiana militaris,military phidiana,eatenBy
+48921,,Flabellina rubrolineata,,eatenBy
+48921,,Loligo media,,eatenBy
+48921,,Puffinus pacificus,,eatenBy
+48921,1071761,Parapenaeus longirostris,Deep-water rose shrimp,eatenBy
+48921,50510,Embletonia gracilis,,eatenBy
+48921,,Tenellia viridis,,eatenBy
+48921,50482,Anetarca armata,Armed Aeolid,eatenBy
+48921,495552,Hermissenda crassicornis,Thick-horned Nudibranch,eatenBy
+48921,129920,Calliostoma ligatum,Blue-Ringed Top Snail,eatenBy
+48921,51464,Metapenaeus monoceros,Speckled shrimp,eatenBy
+48921,,Jasus tristani,,eatenBy
+48921,1215037,Calliostoma consimile,,eatenBy
+48921,,Flabellina falklandica,,eatenBy
+48921,664263,Enteroctopus magnificus,Cape Giant Octopus,eatenBy
+48921,,Bornella stellifer,,eatenBy
+48921,,Flabellina pellucida,,eatenBy
+48921,260410,Menippe nodifrons,Cuban Stone Crab,eatenBy
+48921,108355,Panulirus echinatus,Brown spiny lobster,eatenBy
+48921,361770,Chionoecetes opilio,Snow Crab,eatenBy
+48921,123806,Paralithodes platypus,,eatenBy
+48921,4168,Daption capense,Cape Petrel,eatenBy
+48921,260571,Hepatus pudibundus,,eatenBy
+48921,61383,Homarus americanus,American Lobster,eatenBy
+48921,195286,Callinectes arcuatus,Arched Swimming Crab,eatenBy
+48921,1287828,Eusirus perdentatus,,eatenBy
+48921,618298,Gobionotothen gibberifrons,Humped Rockcod,eatenBy
+48921,,Muraenolepis microps,,eatenBy
+48921,541733,Notothenia rossii,Marbled Rockcod,eatenBy
+48921,610056,Chaenocephalus aceratus,Blackfin Icefish,eatenBy
+48921,68764,Ostracoda,Seed Shrimp,preysOn
+48921,121643,Copepoda,Copepods,preysOn
+48921,49532,Sphaeromatidae,Typical Seapills,preysOn
+48921,67333,Bacteria,bacteria,preysOn
+48921,47628,Amphipoda,Amphipods,preysOn
+48921,123880,Bacillariophyceae,Diatoms,preysOn
+48921,48921,Hydrozoa,Hydrozoans,preysOn
+48921,47645,Cottidae,Typical Sculpins,preysOn
+48921,49725,Pugettia,,preysOn
+48921,338141,Chydorus,,preysOn
+48921,86355,Alona,,preysOn
+48921,171429,Eucyclops,,preysOn
+48921,171682,Paracyclops,,preysOn
+48921,,Zooplankton,,preysOn
+48921,,Microfauna,,preysOn
+48921,64643,Amphilochidae,,preysOn
+48921,245452,Stenothoidae,,preysOn
+48921,83718,Tanaidacea,Tanaids,preysOn
+48921,,Amphitoidae,,preysOn
+48921,,Detritus complex,,preysOn
+48921,,Phytoplankton,,preysOn
+48921,51280,Nemertea,Ribbon Worms,preysOn
+48921,47629,Caprella,,preysOn
+48921,47490,Polychaeta,Polychaete Worms,preyedUponBy
+48921,47114,Gastropoda,Gastropods,preyedUponBy
+48921,47825,Pycnogonida,Pycnogonids,preyedUponBy
+48921,48174,Paguridae,Pagurid Hermit Crabs,preyedUponBy
+48921,48921,Hydrozoa,Hydrozoans,preyedUponBy
+48921,47630,Mopalia,,preyedUponBy
+48921,49052,Anthopleura,,preyedUponBy
+48921,49581,Nereididae,,preyedUponBy
+48921,47827,Cancer,,preyedUponBy
+48921,49725,Pugettia,,preyedUponBy
+48921,48836,Ophiuroidea,Brittle Stars,preyedUponBy
+48921,51200,Hippolytidae,Hump-backed Shrimps,preyedUponBy
+48921,47645,Cottidae,Typical Sculpins,preyedUponBy
+48921,48452,Oxylebius pictus,Painted greenling,preyedUponBy
+48921,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+48921,81963,Girella nigricans,Opaleye,preyedUponBy
+48921,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+48921,52552,Oxyjulis californica,senorita,preyedUponBy
+48921,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+48921,472252,Paratendipes,,preyedUponBy
+48921,47235,Holacanthus ciliaris,Queen Angelfish,preyedUponBy
+48921,129656,Cantherhines macrocerus,Whitespotted Filefish,preyedUponBy
+48921,49275,Cantherhines pullus,Orangespotted Filefish,preyedUponBy
+48921,49924,Stegastes fuscus,Dusky Damselfish,preyedUponBy
+48921,49427,Pomacanthus arcuatus,Grey Angelfish,preyedUponBy
+48921,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,preyedUponBy
+48921,63411,Chaetodon sedentarius,Reef Butterflyfish,preyedUponBy
+48921,49498,Aluterus scriptus,Scrawled Filefish,preyedUponBy
+48921,131515,Monacanthus ciliatus,Fringed Filefish,preyedUponBy
+48921,180708,Stegastes leucostictus,Beaugregory,preyedUponBy
+48921,49257,Pomacanthus paru,French Angelfish,preyedUponBy
+48921,49933,Parablennius marmoreus,Seaweed Blenny,preyedUponBy
+48921,47428,Neoloricata,Neoloricate Chitons,preyedUponBy
+48921,,Stegastes variabillis,,preyedUponBy
+48921,185051,Architectonicidae,Staircase Shells,preyedUponBy
+48921,,Epimeria georgiana,,preyedUponBy
+48921,466011,Eurythenes gryllus,,preyedUponBy
+48921,1194375,Epimeria similis,,preyedUponBy
+48921,,Waldeckia obesa,,preyedUponBy
+48921,1162964,Notocidaris mortenseni,,preyedUponBy
+48921,,Maxilliphimedia longipes,,preyedUponBy
+48921,,Epimeria rubrieques,,preyedUponBy
+48921,390305,Harmothoe spinosa,,preyedUponBy
+48921,,Trematomus scotti,,preyedUponBy
+48921,543493,Odontaster validus,Antarctic starfish,preyedUponBy
+48921,,Epimeria macrodonta,,preyedUponBy
+48921,1119461,Ophionotus victoriae,Victoria Brittle Star,preyedUponBy
+48921,608639,Pogonophryne permitini,,preyedUponBy
+48921,,Trematomus pennellii,,preyedUponBy
+48921,949426,Notaeolidia gigas,,preyedUponBy
+48921,,Eunoe hartmanae,,preyedUponBy
+48921,,Zyzzyzus parvula,,preyedUponBy
+48921,541733,Notothenia rossii,Marbled Rockcod,preyedUponBy
+48921,195803,Aporocidaris milleri,,preyedUponBy
+48921,1162952,Homalocidaris gigantea,,preyedUponBy
+48921,1030306,Eulagisca gigantea,Antarctic Scaleworm,preyedUponBy
+48921,608623,Dolloidraco longedorsalis,,preyedUponBy
+48921,651712,Astrotoma agassizii,,preyedUponBy
+48921,,Antarctinoe spicoides,,preyedUponBy
+48921,1162951,Ctenocidaris spinosa,,preyedUponBy
+48921,,Trematomus bernacchii,,preyedUponBy
+48921,804554,Prodoris clavigera,,preyedUponBy
+48921,482348,Velutina plicatilis,,preyedUponBy
+48921,,Zooplankton,,preyedUponBy
+48921,47632,Katharina tunicata,Black Leather Chiton,preyedUponBy
+48921,495552,Hermissenda crassicornis,Thick-horned Nudibranch,preyedUponBy
+48921,498116,Aeolidia papillosa,Common Grey Sea Slug,preyedUponBy
+48921,,Synisoma,,preyedUponBy
+48921,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy
+48921,619164,Pholis crassispina,,preyedUponBy

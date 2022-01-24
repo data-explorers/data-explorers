@@ -1,0 +1,111 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48032,67555,Codium fragile,Dead Man's Fingers,eats
+48032,68769,Ascophyllum,,eats
+48032,67423,Ulva lactuca,broadleaf sea lettuce,eats
+48032,48216,Fucus vesiculosus,bladder wrack,eats
+48032,50862,Codium,Codiums,eats
+48032,343398,Saccorhiza polyschides,Furbellow,eats
+48032,131377,Jania,Red Coralline Algae,eats
+48032,130178,Sargassum,Sargassum,eats
+48032,123633,Porphyra,Nori,eats
+48032,123632,Corallina officinalis,Common Coralline,eats
+48032,51021,Dictyota,Y-branched Algae,eats
+48032,54644,Ulva,sea lettuces,eats
+48032,123631,Corallina,,eats
+48032,128238,Laurencia,,eats
+48032,57777,Rhodomelaceae,,eats
+48032,47126,Plantae,plants,eats
+48032,48921,Hydrozoa,Hydrozoans,eats
+48032,48824,Porifera,Sponges,eats
+48032,1,Animalia,Animals,eats
+48032,85493,Crustacea,Crustaceans,eats
+48032,130177,Sargassum muticum,Japanese Wireweed,eats
+48032,68104,Bryozoa,Bryozoans,eats
+48032,121643,Copepoda,Copepods,eats
+48032,118821,Himanthalia elongata,Thongweed,eats
+48032,,Feldmannia globifera,,eats
+48032,327563,Ulva clathrata,,eats
+48032,57779,Asparagopsis armata,Harpoonweed,eats
+48032,505597,Cladophora rupestris,,eats
+48032,182834,Ectocarpus siliculosus,,eats
+48032,182852,Sphacelaria cirrosa,,eats
+48032,203723,Ceramium virgatum,,eats
+48032,857309,Cladophora dalmatica,,eats
+48032,1249071,Ulvella leptochaete,,eats
+48032,182822,Cladophora sericea,Graceful green hair,eats
+48032,942992,Vertebrata fruticulosa,,eats
+48032,372718,Cladophora albida,,eats
+48032,203745,Ceramium diaphanum,,eats
+48032,,Enteromorpha intestinalis,,eats
+48032,182820,Chaetomorpha linum,Sea Hair,eats
+48032,51024,Dictyota dichotoma,Forked ribbons,eats
+48032,57772,Fucus serratus,Saw Wrack,eats
+48032,,Ulva compressa,,eats
+48032,343402,Codium vermilara,,eats
+48032,361840,Jania rubens,,eats
+48032,,Polysiphonia stricta,,eats
+48032,874525,Stilophora tenella,,eats
+48032,130176,Chondrus crispus,Irish moss,eats
+48032,182985,Bonnemaisonia hamifera,Bonnemaison's Hook Weed,eats
+48032,,Osmundea ramosissima,,eats
+48032,502380,Leathesia marina,Sea Cauliflower,eats
+48032,343396,Bifurcaria bifurcata,,eats
+48032,129737,Colpomenia peregrina,Oyster-thief,eats
+48032,461577,Ellisolandia elongata,,eats
+48032,,Cystoseira tamariscifolia,,eats
+48032,1027504,Ceramium ciliatum,,eats
+48032,,Gelidium spinosum,,eats
+48032,,Dictyopteris membranacea,,eats
+48032,467267,Rhodymenia pseudopalmata,,eats
+48032,558165,Gracilariopsis longissima,,eats
+48032,182991,Palmaria palmata,Dulse,eats
+48032,330789,Heterosiphonia,,eats
+48032,790283,Gelidium corneum,,eats
+48032,322821,Sargassum vulgare,,eats
+48032,,Stypocaulon scoparium,,eats
+48032,182858,Cladostephus spongiosus,,eats
+48032,131323,Caulerpa webbiana,Bottlebrush green seaweed,eats
+48032,,Padina pavonia,,eats
+48032,,Liagora,,eats
+48032,322735,Cladophora prolifera,,eats
+48032,,Cystoseira spinosa,,eats
+48032,52614,Zostera marina,Eelgrass,eats
+48032,,Cystoseira barbata,,eats
+48032,118943,Posidonia oceanica,Neptune Grass,eats
+48032,464900,Laminaria ochroleuca,Golden Kelp,eats
+48032,128896,Padina pavonica,Peacock's Tail,eats
+48032,955318,Dictyota spiralis,,eats
+48032,,Cystoseira crinita,,eats
+48032,,Medusozoa,,eats
+48032,,Cystoseira mediterranea,,eats
+48032,790233,Cystoseira compressa,,eats
+48032,131135,Cymodocea nodosa,little Neptune grass,eats
+48032,447552,Maja brachydactyla,Spiny Spider Crab,eatenBy
+48032,,Zeus faber,,eatenBy
+48032,118669,Diplodus sargus,White Bream,eatenBy
+48032,103911,Labrus bergylta,Ballan Wrasse,eatenBy
+48032,118667,Diplodus vulgaris,Common Two-banded Seabream,eatenBy
+48032,1017167,Marthasterias glacialis,Spiny Starfish,eatenBy
+48032,324537,Maja squinado,European Spider Crab,eatenBy
+48032,41850,Lutra lutra,Eurasian Otter,eatenBy
+48032,63740,Gadus morhua,Atlantic Cod,eatenBy
+48032,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+48032,52523,Carcinus maenas,European Green Crab,preyedUponBy
+48032,210294,Lipophrys pholis,Shanny,preyedUponBy
+48032,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+48032,,Xantho incisus,,preyedUponBy
+48032,,Zeus faber,,preyedUponBy
+48032,204496,Corvus corone,Carrion Crow,preyedUponBy
+48032,204533,Larus argentatus,Herring Gull,preyedUponBy
+48032,459590,Hyas coarctatus,Arctic Lyre Crab,preyedUponBy
+48032,120553,Cancer pagurus,Edible Crab,preyedUponBy
+48032,120138,Asterias rubens,Common Sea Star,preyedUponBy
+48032,324537,Maja squinado,European Spider Crab,preyedUponBy
+48032,4368,Larus marinus,Great Black-backed Gull,preyedUponBy
+48032,62410,Homarus gammarus,European lobster,preyedUponBy
+48032,459588,Hyas araneus,Atlantic Lyre Crab,preyedUponBy
+48032,210219,Necora puber,Velvet Swimming Crab,preyedUponBy
+48032,118720,Eutrigla gurnardus,Grey Gurnard,preyedUponBy
+48032,41850,Lutra lutra,Eurasian Otter,preyedUponBy
+48032,103911,Labrus bergylta,Ballan Wrasse,preyedUponBy
+48032,128834,Eriphia verrucosa,Warty Crab,preyedUponBy

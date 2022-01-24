@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+114782,4345,Larus occidentalis,Western Gull,eatenBy
+114782,4956,Ardea herodias,Great Blue Heron,eatenBy
+114782,4956,Ardea herodias,Great Blue Heron,preyedUponBy

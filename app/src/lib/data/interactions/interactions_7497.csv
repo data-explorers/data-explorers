@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7497,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+7497,47120,Arthropoda,Arthropods,eats
+7497,47124,Magnoliopsida,dicots,eats
+7497,47208,Coleoptera,Beetles,eats
+7497,47157,Lepidoptera,Butterflies and Moths,eats
+7497,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7497,47118,Araneae,Spiders,eats
+7497,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7497,1,Animalia,Animals,eats
+7497,47822,Diptera,Flies,eats

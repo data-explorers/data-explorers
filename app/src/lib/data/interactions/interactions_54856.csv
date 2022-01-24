@@ -1,0 +1,115 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54856,60607,Limenitis arthemis,Red-spotted Admiral,eatenBy
+54856,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+54856,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+54856,48473,Ganoderma applanatum,artist's bracket,eatenBy
+54856,54573,Schizophyllum commune,splitgill mushroom,eatenBy
+54856,347897,Pluteus petasatus,scaly shield,eatenBy
+54856,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+54856,54064,Polygonia comma,Eastern Comma,eatenBy
+54856,211345,Stigmella,,eatenBy
+54856,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+54856,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+54856,81681,Campaea perlata,Pale Beauty,eatenBy
+54856,,Caliroa annulipes,,eatenBy
+54856,,Anthrenus scrophulariae,,eatenBy
+54856,99044,Dacne notata,,eatenBy
+54856,,Synchita separanda,,eatenBy
+54856,,Enicmus brevicornis,,eatenBy
+54856,,Tetratoma fungorum,,eatenBy
+54856,,Otho sphondyloides,,eatenBy
+54856,,Mycetophagus fulvicollis,,eatenBy
+54856,,Bucculatrix thoracella,,eatenBy
+54856,,Eriophyes tiliae,,eatenBy
+54856,,Eucallipterus tiliae,,eatenBy
+54856,504513,Didymomyia tiliacea,,eatenBy
+54856,,Tilia platyphyllos,,eatenBy
+54856,,Contarinia tiliarum,,eatenBy
+54856,,Eriophyes leiosoma,,eatenBy
+54856,,Phyllonorycter issikii,,eatenBy
+54856,,Adalia decempunctata,,eatenBy
+54856,,Eriophyes exilis,,eatenBy
+54856,,Dasineura tiliae,,eatenBy
+54856,711811,Phytoptus tetratrichus,,eatenBy
+54856,,Paracercosporidium microsorum,,eatenBy
+54856,,Papilio demoleus,,eatenBy
+54856,,Papilio canadensis,,eatenBy
+54856,,Satyrium w-album,,eatenBy
+54856,,Plagiostoma alneum,,eatenBy
+54856,,Rigidoporus ulmarius,,eatenBy
+54856,,Ophiognomonia melanostyla,,eatenBy
+54856,,Daedaleopsis confragosa,,eatenBy
+54856,,Crepidotus cinnabarinus,,eatenBy
+54856,,Splanchospora ampullacea,,eatenBy
+54856,,Auricularia auricula-judae,,eatenBy
+54856,,Cytospora carphosperma,,eatenBy
+54856,,Diaporthe eres,,eatenBy
+54856,,Diplodiella fibricola,,eatenBy
+54856,,Sinodendron cylindricum,,eatenBy
+54856,,Lucanus cervus,,eatenBy
+54856,,Monodictys lepraria,,eatenBy
+54856,,Chaetopsis grisea,,eatenBy
+54856,,Diplodia tiliae,,eatenBy
+54856,,Chloridium virescens virescens,,eatenBy
+54856,,Cylindrodendrum album,,eatenBy
+54856,351871,Pleurothecium recurvatum,,eatenBy
+54856,,Exosporium tiliae,,eatenBy
+54856,,Melanomma pulvis-pyrius,,eatenBy
+54856,,Camarosporium tiliae,,eatenBy
+54856,,Roscoepoundia croceola,,eatenBy
+54856,,Orsodacne cerasi,,eatenBy
+54856,,Diatrype stigma,,eatenBy
+54856,,Eutypella scoparia,,eatenBy
+54856,,Helminthosporium velutinum,,eatenBy
+54856,,Discosia artocreas,,eatenBy
+54856,803000,Encoelia tiliacea,,eatenBy
+54856,,Hercospora tiliae,,eatenBy
+54856,,Kirschsteiniothelia aethiops,,eatenBy
+54856,,Bertia moriformis var. moriformis,,eatenBy
+54856,,Hymenoscyphus caudatus,,eatenBy
+54856,,Bisporella sulfurina,,eatenBy
+54856,,Chaetosphaeria myriocarpa,,eatenBy
+54856,,Eutypa flavovirens,,eatenBy
+54856,,Coniella castaneicola,,eatenBy
+54856,,Amphiporthe hranicensis,,eatenBy
+54856,,Apiognomonia errabunda,,eatenBy
+54856,,Coronophora angustata,,eatenBy
+54856,,Corynespora olivacea,,eatenBy
+54856,,Fenestella vestita,,eatenBy
+54856,,Ohleria rugulosa,,eatenBy
+54856,,Nectria coccinea,,eatenBy
+54856,,Nectria cinnabarina,,eatenBy
+54856,,Nitschkia cupularis,,eatenBy
+54856,,Lecanidion atratum,,eatenBy
+54856,,Pseudomassaria chondrospora,,eatenBy
+54856,,Propolis farinosa,,eatenBy
+54856,,Mycosphaerella punctiformis,,eatenBy
+54856,,Mollisia discolor var. longispora,,eatenBy
+54856,,Mollisia ligni,,eatenBy
+54856,409496,Lasiosphaeria ovina,woolly woodwart,eatenBy
+54856,,Orbilia alnea,,eatenBy
+54856,,Xylohypha nigrescens,,eatenBy
+54856,,Rosellinia aquila,,eatenBy
+54856,,Sporidesmium socium,,eatenBy
+54856,,Stenostola dubia,,eatenBy
+54856,55610,Pyrrhocoris apterus,European Firebug,eatenBy
+54856,887640,Orthotylus nassatus,,eatenBy
+54856,,Acronicta psi,,eatenBy
+54856,,Phalera bucephala,,eatenBy
+54856,,Pulvinaria regalis,,eatenBy
+54856,,Eotetranychus tiliarium,,eatenBy
+54856,,Bolbitius reticulatus,,eatenBy
+54856,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+54856,52775,Bombus,Bumble Bees,pollinatedBy
+54856,,Xylocopa appendiculata,,pollinatedBy
+54856,,,,pollinatedBy
+54856,,Apis cerana,,pollinatedBy
+54856,,Scolia oculata ,,pollinatedBy
+54856,,Lasioglossum occidens,,pollinatedBy
+54856,,Andrena japonica ,,pollinatedBy
+54856,,Eristalis cerealis ,,pollinatedBy
+54856,,Helophilus virgatus ,,pollinatedBy
+54856,,Vespa xanthoptera ,,pollinatedBy
+54856,,Rhizophagus picipes,,preyedUponBy
+54856,,Rabocerus gabrieli,,preyedUponBy
+54856,,Cybocephalus politus,,preyedUponBy

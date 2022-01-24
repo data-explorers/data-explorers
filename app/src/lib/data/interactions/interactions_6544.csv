@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+6544,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",eats
+6544,47822,Diptera,Flies,eats
+6544,47157,Lepidoptera,Butterflies and Moths,eats
+6544,,Gerstaeckeria,,eats
+6544,41976,Lynx rufus,Bobcat,eatenBy
+6544,42051,Canis latrans,Coyote,eatenBy

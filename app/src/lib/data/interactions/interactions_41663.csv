@@ -1,0 +1,168 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41663,47126,Plantae,plants,eats
+41663,42223,Odocoileus virginianus,White-tailed Deer,eats
+41663,44576,Rattus norvegicus,Brown Rat,eats
+41663,39532,Testudines,Turtles and Tortoises,eats
+41663,47735,Diplopoda,Millipedes,eats
+41663,47186,Decapoda,Decapods,eats
+41663,47158,Insecta,Insects,eats
+41663,47115,Mollusca,Molluscs,eats
+41663,3,Aves,Birds,eats
+41663,20978,Amphibia,Amphibians,eats
+41663,85493,Crustacea,Crustaceans,eats
+41663,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+41663,42076,Urocyon cinereoargenteus,Gray Fox,eats
+41663,39682,Chelydra serpentina,Common Snapping Turtle,eats
+41663,45763,Ondatra zibethicus,Muskrat,eats
+41663,5020,Butorides virescens,Green Heron,eats
+41663,144455,Ardea alba,Great Egret,eats
+41663,19743,Megascops kennicottii,Western Screech-Owl,eats
+41663,4246,Podilymbus podiceps,Pied-billed Grebe,eats
+41663,2548,Megaceryle alcyon,Belted Kingfisher,eats
+41663,12890,Catharus guttatus,Hermit Thrush,eats
+41663,28557,Storeria occipitomaculata,Red-bellied Snake,eats
+41663,4940,Egretta thula,Snowy Egret,eats
+41663,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+41663,7294,Eremophila alpestris,Horned Lark,eats
+41663,473,Fulica americana,American Coot,eats
+41663,28362,Thamnophis sirtalis,Common Garter Snake,eats
+41663,7107,Aix sponsa,Wood Duck,eats
+41663,19893,Strix varia,Barred Owl,eats
+41663,18236,Colaptes auratus,Northern Flicker,eats
+41663,116999,Pandion haliaetus,Osprey,eats
+41663,4385,Larus californicus,California Gull,eats
+41663,49591,Lepomis macrochirus,Bluegill,eats
+41663,39771,Chrysemys picta,Painted Turtle,eats
+41663,13858,Passer domesticus,House Sparrow,eats
+41663,39782,Trachemys scripta,Common Slider,eats
+41663,46272,Glaucomys volans,Southern Flying Squirrel,eats
+41663,59035,Solanum americanum,American black nightshade,eats
+41663,54834,Prunus serotina,black cherry,eats
+41663,48599,Phytolacca americana,American pokeweed,eats
+41663,4496,Rynchops niger,Black Skimmer,eats
+41663,82435,Cicindela scutellaris,Festive Tiger Beetle,eats
+41663,61317,Rubus armeniacus,Armenian Blackberry,eats
+41663,84300,Sambucus canadensis,American black elderberry,eats
+41663,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+41663,76949,Eriobotrya japonica,Loquat,eats
+41663,57250,Prunus ilicifolia,hollyleaf cherry,eats
+41663,42541,Didelphidae,Opossums,eats
+41663,,Poultry,,eats
+41663,,Dasypus novemcinctus,,eats
+41663,,Fruit/seeds,,eats
+41663,,Reithrodontomys fulvescens,,eats
+41663,,"Bird, undetermined",,eats
+41663,,"Mammal, undetermined",,eats
+41663,,Sigmodon hispidus,,eats
+41663,,Aquatic snail,,eats
+41663,,Pisces,,eats
+41663,,Neotoma floridana,,eats
+41663,,Ochrotomys nuttalli,,eats
+41663,42134,Sus scrofa,Wild Boar,eats
+41663,,Cheliceratas,,eats
+41663,,Picoides,,eats
+41663,,Sylvilagus aquaticus,,eats
+41663,28423,Thamnophis butleri,Butler's Garter Snake,eats
+41663,4742,Mycteria americana,Wood Stork,eats
+41663,45719,Arborimus longicaudus,Red Tree Vole,eats
+41663,26729,Ambystoma annulatum,Ringed Salamander,eats
+41663,6948,Anas fulvigula,Mottled Duck,eats
+41663,,Carpodacus mexicanus,,eats
+41663,,Dendroica petechia,,eats
+41663,,Plecotus rafinesquii,,eats
+41663,201282,Gallinula chloropus,Common Moorhen,eats
+41663,,Anas strepera,,eats
+41663,27186,Plethodon cinereus,Eastern Red-backed Salamander,eats
+41663,5416,Ictinia mississippiensis,Mississippi Kite,eats
+41663,4938,Egretta tricolor,Tricolored Heron,eats
+41663,,Dipodomys compactus,,eats
+41663,,Corvus caurinus,,eats
+41663,26159,Alligator mississippiensis,American Alligator,eats
+41663,,Anas cyanoptera,,eats
+41663,3460,Zenaida asiatica,White-winged Dove,eats
+41663,,Wilsonia citrina,,eats
+41663,515419,Lampropeltis triangulum,Eastern Milksnake,eats
+41663,47051,Neurotrichus gibbsii,American Shrewmole,eats
+41663,6933,Anas acuta,Northern Pintail,eats
+41663,40509,Eptesicus fuscus,Big Brown Bat,eats
+41663,73788,Plestiodon fasciatus,Common Five-lined Skink,eats
+41663,40569,Nycticeius humeralis,Evening Bat,eats
+41663,24267,Pseudacris triseriata,Western Chorus Frog,eats
+41663,,Otus asio,,eats
+41663,,Otus,,eats
+41663,123594,Anaxyrus americanus americanus,Eastern American Toad,eats
+41663,7056,Aythya americana,Redhead,eats
+41663,3544,Columbina inca,Inca Dove,eats
+41663,,Zapus princeps,,eats
+41663,,http://treatment.plazi.org/id/FB7A09EEF8EC3B9F3529A4A1CA3EC7F1,,eats
+41663,,Malus pumila,,eats
+41663,,Nyssa sylvatica,,eats
+41663,61964,Prunus avium,wild cherry,eats
+41663,132855,Rubus pubescens,dwarf raspberry,eats
+41663,42051,Canis latrans,Coyote,eatenBy
+41663,41976,Lynx rufus,Bobcat,eatenBy
+41663,42007,Puma concolor,Mountain Lion,eatenBy
+41663,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+41663,26172,Squamata,Snakes and Lizards,eatenBy
+41663,19350,Strigiformes,Owls,eatenBy
+41663,42069,Vulpes vulpes,Red Fox,eatenBy
+41663,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+41663,4756,Cathartes aura,Turkey Vulture,eatenBy
+41663,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+41663,51673,Ixodidae,Hardbacked Ticks,eatenBy
+41663,453109,Pekania pennanti,Fisher,eatenBy
+41663,20044,Bubo virginianus,Great Horned Owl,eatenBy
+41663,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+41663,42048,Canis lupus,Gray Wolf,eatenBy
+41663,,Canis lupus rufus,,eatenBy
+41663,41970,Panthera onca,Jaguar,eatenBy
+41663,,Martes pennanti,,eatenBy
+41663,26159,Alligator mississippiensis,American Alligator,eatenBy
+41663,4765,Coragyps atratus,Black Vulture,eatenBy
+41663,,Aquila chrysaetos,,eatenBy
+41663,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preysOn
+41663,6930,Anas platyrhynchos,Mallard,preysOn
+41663,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+41663,473,Fulica americana,American Coot,preysOn
+41663,4793,Charadrius vociferus,Killdeer,preysOn
+41663,43095,Leporidae,Hares and Rabbits,preysOn
+41663,47584,Bivalvia,Bivalves,preysOn
+41663,1,Animalia,Animals,preysOn
+41663,339249,Acanthoparyphium,,preysOn
+41663,,Uca crenulata,,preysOn
+41663,,Cloacitrema michiganense,,preysOn
+41663,,Trichodina,,preysOn
+41663,,Carcinonemertes,,preysOn
+41663,,Ergasilus auritus,,preysOn
+41663,,Spirocamallanus pereirai,,preysOn
+41663,,Picornaviridae,,preysOn
+41663,209100,Gyrodactylus,,preysOn
+41663,914144,Galactosomum,,preysOn
+41663,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+41663,,Mesostephanus appendiculatoides,,preysOn
+41663,,Parorchis acanthus,,preysOn
+41663,,Nerocila californica,,preysOn
+41663,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+41663,339200,Himasthla rhigedana,,preysOn
+41663,,Portunion conformis,,preysOn
+41663,339182,Phocitremoides ovale,,preysOn
+41663,339174,Cyathocotylidae,,preysOn
+41663,,Pygidiopsoides spindalis,,preysOn
+41663,339177,Microphallidae,,preysOn
+41663,,carrion,,preysOn
+41663,,Probolocoryphe uca,,preysOn
+41663,,Eugregarinida,,preysOn
+41663,,Stictodora hancocki,,preysOn
+41663,,Chardrius vociferus,,preysOn
+41663,326296,Bufo bufo,European Toad,preysOn
+41663,65450,Epidalea calamita,Natterjack Toad,preysOn
+41663,,Pseudepidalea viridis,,preysOn
+41663,4756,Cathartes aura,Turkey Vulture,preyedUponBy
+41663,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+41663,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+41663,42007,Puma concolor,Mountain Lion,preyedUponBy
+41663,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+41663,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+41663,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+41663,4765,Coragyps atratus,Black Vulture,preyedUponBy
+41663,326296,Bufo bufo,European Toad,preyedUponBy

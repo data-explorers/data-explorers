@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63243,81610,Balanus glandula,Pacific Acorn Barnacle,eats
+63243,129910,Chthamalus dalli,Little Brown Barnacle,eats
+63243,67334,Cyanobacteria,cyanobacteria,eats
+63243,123880,Bacillariophyceae,Diatoms,eats
+63243,48220,Phaeophyceae,brown algae,eats
+63243,,Biofilm Complex,,eats
+63243,,Crustose coralline algae complex,,eats
+63243,47658,Semibalanus cariosus,Thatched Barnacle,eats
+63243,71120,Mazzaella,Iridescent Algae,eats
+63243,,Red crust complex,,eats
+63243,180572,Rhizoclonium,,eats
+63243,117821,Mastocarpus,encrusting red algae,eats
+63243,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+63243,48174,Paguridae,Pagurid Hermit Crabs,eatenBy
+63243,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+63243,,Evasterias troscheli,,eatenBy
+63243,83329,Buccinidae,True Whelks,eatenBy
+63243,371067,Nucella lima,File Dog Winkle,eatenBy
+63243,117641,Nucella lamellosa,Wrinkled Purple,eatenBy
+63243,67411,Gobiesocidae,Clingfishes,eatenBy
+63243,51280,Nemertea,Ribbon Worms,eatenBy
+63243,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+63243,,Leptasterias,,eatenBy
+63243,51283,Emplectonematidae,,eatenBy
+63243,67629,Oligocottus maculosus,Tidepool Sculpin,eatenBy
+63243,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+63243,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy

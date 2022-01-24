@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7601,47208,Coleoptera,Beetles,eats
+7601,49456,Coccidae,Soft scales,eats
+7601,47158,Insecta,Insects,eats
+7601,47157,Lepidoptera,Butterflies and Moths,eats
+7601,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7601,47118,Araneae,Spiders,eats
+7601,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+7601,47124,Magnoliopsida,dicots,eats
+7601,47120,Arthropoda,Arthropods,eats
+7601,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+7601,118961,Conocephalus brevipennis,Short-winged Meadow Katydid,eats
+7601,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+7601,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+7601,47158,Insecta,Insects,preysOn

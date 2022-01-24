@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41777,40151,Mammalia,Mammals,eats
+41777,3,Aves,Birds,eats
+41777,72458,Actitis macularius,Spotted Sandpiper,eats
+41777,45763,Ondatra zibethicus,Muskrat,eats
+41777,4385,Larus californicus,California Gull,eats
+41777,47120,Arthropoda,Arthropods,eats
+41777,20978,Amphibia,Amphibians,eats
+41777,47158,Insecta,Insects,eats
+41777,85493,Crustacea,Crustaceans,eats
+41777,47178,Actinopterygii,Ray-finned Fishes,eats
+41777,39771,Chrysemys picta,Painted Turtle,eats
+41777,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+41777,41777,Lontra canadensis,North American River Otter,eats
+41777,473,Fulica americana,American Coot,eats
+41777,311310,Astacidea,Crayfishes and Lobsters,eats
+41777,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+41777,49588,Centrarchidae,Freshwater Sunfishes,eats
+41777,27816,Taricha,Pacific Newts,eats
+41777,65979,Lithobates catesbeianus,American Bullfrog,eats
+41777,53912,Cyprinus,Typical Carps,eats
+41777,49175,Siluriformes,Catfishes,eats
+41777,6948,Anas fulvigula,Mottled Duck,eats
+41777,,Macroalgae,,eats
+41777,26159,Alligator mississippiensis,American Alligator,eats
+41777,83170,Platichthys stellatus,Starry Flounder,eats
+41777,49614,Lepomis gibbosus,Pumpkinseed,eats
+41777,58654,Ameiurus nebulosus,Brown Bullhead,eats
+41777,,Cephalaspidomorphi,,eats
+41777,49219,Anguilla rostrata,American Eel,eats
+41777,42051,Canis latrans,Coyote,eatenBy
+41777,67570,Falconiformes,Falcons and Caracaras,eatenBy
+41777,41976,Lynx rufus,Bobcat,eatenBy
+41777,41777,Lontra canadensis,North American River Otter,eatenBy
+41777,26159,Alligator mississippiensis,American Alligator,eatenBy
+41777,42048,Canis lupus,Gray Wolf,eatenBy
+41777,47178,Actinopterygii,Ray-finned Fishes,preysOn
+41777,1,Animalia,Animals,preysOn
+41777,473,Fulica americana,American Coot,preysOn
+41777,47783,Astacoidea,Northern Hemisphere Crayfishes,preysOn
+41777,41777,Lontra canadensis,North American River Otter,preysOn
+41777,60340,Lithobates,American Water Frogs,preysOn
+41777,49588,Centrarchidae,Freshwater Sunfishes,preysOn
+41777,1303751,Pleuronectoidei,Flatfishes,preysOn
+41777,4399,Larus glaucescens,Glaucous-winged Gull,preysOn
+41777,67629,Oligocottus maculosus,Tidepool Sculpin,preysOn
+41777,,Pholidae,,preysOn
+41777,61383,Homarus americanus,American Lobster,preysOn
+41777,47522,Oncorhynchus,Pacific Salmons and Trouts,preysOn
+41777,51371,Pseudopleuronectes americanus,Winter Flounder,preysOn
+41777,41777,Lontra canadensis,North American River Otter,preyedUponBy

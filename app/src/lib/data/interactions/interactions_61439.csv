@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61439,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+61439,13732,Anthus rubescens,American Pipit,eatenBy
+61439,,Antrozous pallidus,,preyedUponBy

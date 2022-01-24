@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47424,72747,Coccyzus vieilloti,Puerto Rican Lizard-Cuckoo,eatenBy
+47424,28577,Stenorrhina freminvillei,Blood Snake,preyedUponBy
+47424,,Phoneutria reidyi,,preyedUponBy

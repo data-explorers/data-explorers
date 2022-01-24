@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81648,1,Animalia,Animals,eats
+81648,118996,Ciliophora,Ciliates,eats
+81648,85493,Crustacea,Crustaceans,eats
+81648,47584,Bivalvia,Bivalves,eats
+81648,121643,Copepoda,Copepods,eats
+81648,123880,Bacillariophyceae,Diatoms,eats
+81648,47114,Gastropoda,Gastropods,eats
+81648,,Detritus,,eats
+81648,,Marine POM III,,eats
+81648,,Marine POM II,,eats
+81648,,Marine POM I,,eats
+81648,,Microphytobenthos,,eats
+81648,,Khakista,,eats
+81648,,PhytoP,,eats
+81648,,unspecified Euglenophycea,,eats
+81648,,unspecified Oxyphyceae,,eats
+81648,,Phytoplankton,,eats
+81648,60395,Branchiopoda,Branchiopods,eats
+81648,,Pyrrophycophyta,,eats
+81648,52523,Carcinus maenas,European Green Crab,eatenBy
+81648,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+81648,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+81648,130085,Actinia equina,Beadlet anemone,eatenBy
+81648,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+81648,118667,Diplodus vulgaris,Common Two-banded Seabream,eatenBy
+81648,118669,Diplodus sargus,White Bream,eatenBy
+81648,49826,Acipenser,,eatenBy
+81648,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+81648,370913,Rapana venosa,Veined Rapa Whelk,eatenBy
+81648,326443,Hexaplex trunculus,Banded Dye-murex,eatenBy
+81648,49315,Octopus vulgaris,Common Octopus,eatenBy
+81648,492333,Carcinus aestuarii,Mediterranean Green Crab,eatenBy
+81648,210219,Necora puber,Velvet Swimming Crab,eatenBy
+81648,324556,Eledone moschata,Musky Octopus,eatenBy
+81648,447428,Eledone cirrhosa,Curled Octopus,eatenBy
+81648,112393,Scyllarides latus,Mediterranean Slipper Lobster,eatenBy
+81648,4892,Pluvialis squatarola,Black-bellied Plover,eatenBy
+81648,47126,Plantae,plants,preysOn
+81648,,Phytoplankton,,preysOn
+81648,,Marine POM II,,preysOn
+81648,,Zooplankton,,preysOn
+81648,4345,Larus occidentalis,Western Gull,preyedUponBy
+81648,6993,Bucephala albeola,Bufflehead,preyedUponBy
+81648,144491,Tringa semipalmata,Willet,preyedUponBy
+81648,4385,Larus californicus,California Gull,preyedUponBy
+81648,3855,Calidris mauri,Western Sandpiper,preyedUponBy
+81648,47188,Pachygrapsus crassipes,Striped Shore Crab,preyedUponBy
+81648,203761,Nucella lapillus,Atlantic Dogwhelk,preyedUponBy
+81648,52523,Carcinus maenas,European Green Crab,preyedUponBy
+81648,320326,Ciliata mustela,Five-bearded Rockling,preyedUponBy
+81648,47533,Anthozoa,Sea Anemones and Corals,preyedUponBy
+81648,54538,Syngnathus leptorhynchus,Bay Pipefish,preyedUponBy
+81648,49606,Balistes capriscus,Grey Triggerfish,preyedUponBy
+81648,130085,Actinia equina,Beadlet anemone,preyedUponBy
+81648,210294,Lipophrys pholis,Shanny,preyedUponBy
+81648,129493,Actinia fragacea,Strawberry Anemone,preyedUponBy
+81648,47490,Polychaeta,Polychaete Worms,preyedUponBy
+81648,467402,Ocenebra erinaceus,European Sting Winkle,preyedUponBy
+81648,216887,Chrysops striatus,Striated Deer Fly,preyedUponBy
+81648,4817,Charadrius semipalmatus,Semipalmated Plover,preyedUponBy
+81648,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preyedUponBy
+81648,4364,Larus delawarensis,Ring-billed Gull,preyedUponBy
+81648,144502,Chroicocephalus philadelphia,Bonaparte's Gull,preyedUponBy
+81648,471767,Larus canus brachyrhynchus,Short-billed Gull,preyedUponBy
+81648,7036,Melanitta perspicillata,Surf Scoter,preyedUponBy
+81648,209018,Polydora,Shell-boring Spionids,preyedUponBy
+81648,123639,Spionidae,,preyedUponBy
+81648,117564,Clevelandia ios,Arrow Gobi,preyedUponBy
+81648,328416,Tagelus affinis,Neighbor Tagelus,preyedUponBy
+81648,94801,Atherinops affinis,Topsmelt Silverside,preyedUponBy
+81648,117622,Nuttallia nuttallii,Purple Clam,preyedUponBy
+81648,117608,Saxidomus nuttalli,California Butterclam,preyedUponBy
+81648,627095,Upogebia macginitieorum,,preyedUponBy
+81648,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+81648,,Macoma secta,,preyedUponBy
+81648,71256,Tagelus,,preyedUponBy
+81648,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+81648,,Catoptrophorus semipalmatus,,preyedUponBy
+81648,4356,Larus canus,Mew Gull,preyedUponBy
+81648,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+81648,55396,Solea solea,Common Sole,preyedUponBy
+81648,109631,Platichthys flesus,European Flounder,preyedUponBy
+81648,125291,Molva molva,European Ling,preyedUponBy
+81648,61387,Limanda limanda,Sand Dab,preyedUponBy
+81648,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+81648,103913,Labrus mixtus,Cuckoo Wrasse,preyedUponBy
+81648,59283,Pachygrapsus marmoratus,Marbled Crab,preyedUponBy
+81648,128834,Eriphia verrucosa,Warty Crab,preyedUponBy
+81648,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+81648,377179,Nacella,,preyedUponBy
+81648,49315,Octopus vulgaris,Common Octopus,preyedUponBy
+81648,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+81648,210219,Necora puber,Velvet Swimming Crab,preyedUponBy
+81648,130089,Porcellana platycheles,Hairy Porcelain Crab,preyedUponBy
+81648,324537,Maja squinado,European Spider Crab,preyedUponBy
+81648,84989,Turbonilla,,preyedUponBy
+81648,51790,Polinices,,preyedUponBy
+81648,492333,Carcinus aestuarii,Mediterranean Green Crab,preyedUponBy
+81648,447428,Eledone cirrhosa,Curled Octopus,preyedUponBy
+81648,324556,Eledone moschata,Musky Octopus,preyedUponBy
+81648,118669,Diplodus sargus,White Bream,preyedUponBy
+81648,118667,Diplodus vulgaris,Common Two-banded Seabream,preyedUponBy
+81648,355868,Stichaster australis,Reef Sea Star,preyedUponBy

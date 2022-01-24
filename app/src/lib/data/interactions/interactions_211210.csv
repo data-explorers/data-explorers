@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+211210,49995,Syrphidae,Hover Flies,eats
+211210,61524,Forficula auricularia,European Earwig,eats
+211210,47822,Diptera,Flies,eats
+211210,157990,Menemerus semilimbatus,,eatenBy
+211210,,Evarcha jucunda,,preysOn

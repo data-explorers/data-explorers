@@ -1,0 +1,134 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49487,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+49487,128670,Bombus vagans,Half-black Bumble Bee,eatenBy
+49487,226718,Otiorhynchus sulcatus,Black Vine Weevil,eatenBy
+49487,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+49487,119340,Amphipyra pyramidoides,American Copper Underwing,eatenBy
+49487,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+49487,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+49487,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+49487,52775,Bombus,Bumble Bees,eatenBy
+49487,47219,Apis mellifera,Western Honey Bee,eatenBy
+49487,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+49487,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+49487,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+49487,48662,Danaus plexippus,Monarch,eatenBy
+49487,261586,Kleidocerys resedae,Birch Catkin Bug,eatenBy
+49487,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+49487,,Callosciurus erythraeus,,eatenBy
+49487,,Maladera castanea,,eatenBy
+49487,,Bombus affinis,,eatenBy
+49487,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+49487,,Pseudaonidia paeoniae,,eatenBy
+49487,397475,Stephanitis rhododendri,Rhododendron Lace Bug,eatenBy
+49487,,Pealius azaleae,,eatenBy
+49487,,Illinoia azaleae,,eatenBy
+49487,,Hemiberlesia rapax,,eatenBy
+49487,,Dumbletoniella xanthorrhoeae,,eatenBy
+49487,,Aspidiotus nerii,,eatenBy
+49487,,Eurycantha calcarata,,eatenBy
+49487,566209,Acrophylla wuelfingi,Wülfing's Stick Insect,eatenBy
+49487,,Platynota flavedana,,eatenBy
+49487,,Ditula angustiorana,,eatenBy
+49487,,Ptycholoma lecheana,,eatenBy
+49487,,Tortrix viridana,,eatenBy
+49487,,Olethreutes bipunctana,,eatenBy
+49487,,Acleris comariana,,eatenBy
+49487,,Acleris maccana,,eatenBy
+49487,358819,Piniphila bifasciana,Pine Marble,eatenBy
+49487,,Acleris platynotana,,eatenBy
+49487,,Sphinx perelegans,,eatenBy
+49487,,Synanthedon rhododendri,,eatenBy
+49487,,Sphinx kalmiae,,eatenBy
+49487,,Callosamia promethea,,eatenBy
+49487,,Cricula trifenestrata,,eatenBy
+49487,,Actias selene,,eatenBy
+49487,125071,Attacus atlas,Atlas Moth,eatenBy
+49487,82279,Automeris io,Io Moth,eatenBy
+49487,,Celypha aurofasciana,,eatenBy
+49487,68262,Polygonia faunus,Green Comma,eatenBy
+49487,,Diurnea fagella,,eatenBy
+49487,,Datana major,,eatenBy
+49487,,Lacinipolia cuneata,,eatenBy
+49487,,Polia purpurissata,,eatenBy
+49487,,Orthosia hibisci,,eatenBy
+49487,,Satyrium kingi,,eatenBy
+49487,,Prolimacodes badia,,eatenBy
+49487,926817,Phyllonorycter melacoronis,,eatenBy
+49487,,Caloptilia sapporella,,eatenBy
+49487,,Caloptilia azaleella,,eatenBy
+49487,,Acytolepis puspa,,eatenBy
+49487,,Dysstroma sobria,,eatenBy
+49487,,Rheumaptera prunivorata,,eatenBy
+49487,,Garaeus,,eatenBy
+49487,,Odontopera bidentata,,eatenBy
+49487,504416,Neofaculta ericetella,heather sober,eatenBy
+49487,,Odontopera arida,,eatenBy
+49487,,Apatelodes torrefacta,,eatenBy
+49487,,Coleotechnites huntella,,eatenBy
+49487,,Neofaculta infernella,,eatenBy
+49487,,Plagodis pulveraria,,eatenBy
+49487,,Callophrys ferrea,,eatenBy
+49487,,Tupiocoris rhododendri,,eatenBy
+49487,56918,Graphocephala fennahi,Rhododendron Leafhopper,eatenBy
+49487,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+49487,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+49487,,Seifertia azaleae,,eatenBy
+49487,334616,Battus philenor hirsuta,California Pipevine Swallowtail,eatenBy
+49487,,Choristoneura rosaceana,,eatenBy
+49487,,Celastrina argiolus,,eatenBy
+49487,,Clossiana freija,,eatenBy
+49487,,Satyrium liparops,,eatenBy
+49487,,Stephanitis takeyai,,eatenBy
+49487,,Pulvinaria floccifera,,eatenBy
+49487,383375,Ovulinia azaleae,Ovulinia Petal Blight,eatenBy
+49487,,Melanospora pegleri,,eatenBy
+49487,,Cytospora subclypeata,,eatenBy
+49487,,Phacidium falconeri,,eatenBy
+49487,,Coleophoma cylindrospora,,eatenBy
+49487,,Phoma pomorum,,eatenBy
+49487,,Acrodontium hydnicola,,eatenBy
+49487,,Belemnospora epiphylla,,eatenBy
+49487,383483,Pestalotiopsis versicolor,Pestalotiopsis Leaf Spot,eatenBy
+49487,,Phoma leveillei,,eatenBy
+49487,,Phyllosticta cunninghamii,,eatenBy
+49487,,Pestalotiopsis sydowiana,,eatenBy
+49487,,Phyllosticta rhodorae,,eatenBy
+49487,,Diplodina eurhododendri,,eatenBy
+49487,,Pestalotiopsis funerea,,eatenBy
+49487,,Diaporthe eres,,eatenBy
+49487,351204,Hysterium angustatum,,eatenBy
+49487,,Hyaloscypha leuconica,,eatenBy
+49487,52775,Bombus,Bumble Bees,pollinatedBy
+49487,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+49487,57682,Anthophora,Common Digger Bees,pollinatedBy
+49487,57678,Lasioglossum,,pollinatedBy
+49487,51557,Bombylius major,Greater Bee Fly,pollinatedBy
+49487,53648,Nomada,Nomad Bees,pollinatedBy
+49487,47220,Apis,Honey Bees,pollinatedBy
+49487,,Andrena,,pollinatedBy
+49487,,Andrena lapponica,,pollinatedBy
+49487,,Empis flavofasalis ,,pollinatedBy
+49487,,Tetralonia nipponens ,,pollinatedBy
+49487,,Bombus hypocrita,,pollinatedBy
+49487,,Papilio xuthus ,,pollinatedBy
+49487,,,,pollinatedBy
+49487,,Arge similis ,,pollinatedBy
+49487,,Stenodynerus frauenfeldi ,,pollinatedBy
+49487,,Megachile tsurugensis ,,pollinatedBy
+49487,,Xylocopa appendiculata,,pollinatedBy
+49487,,Philopota nigroaenea ,,pollinatedBy
+49487,,Papilix Protenor demetrius ,,pollinatedBy
+49487,,Oxycetonia jucunda ,,pollinatedBy
+49487,,Apis cerana,,pollinatedBy
+49487,428357,Bombus ignitus,Fiery-tailed Bumble Bee,pollinatedBy
+49487,,Ceratina japonica ,,pollinatedBy
+49487,,Pidonia,,pollinatedBy
+49487,,Sphaerophoria philanthus,,pollinatedBy
+49487,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy
+49487,,Platycheirus clypeatus,,pollinatedBy
+49487,,Delia,,pollinatedBy
+49487,,Tetralonia okinawae,,pollinatedBy
+49487,133704,Bombus ruderatus,Large Garden Bumble Bee,pollinatedBy
+49487,497142,Bombus dahlbomii,Giant Bumble Bee,pollinatedBy
+49487,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

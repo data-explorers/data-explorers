@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+26749,47114,Gastropoda,Gastropods,eats
+26749,52354,Ambystoma laterale,Blue-spotted Salamander,eats
+26749,,Rana sylvatica,,eats
+26749,,Dytiscus,,eats
+26749,,Ambystoma maculatum,,eats
+26749,,gastropods - pelecypods,,eats
+26749,4334,Pelecanus erythrorhynchos,American White Pelican,eatenBy
+26749,,Desserobdella picta,,eatenBy
+26749,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+26749,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+26749,29925,Heterodon platirhinos,Eastern Hognose Snake,preyedUponBy
+26749,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+26749,19975,Athene cunicularia,Burrowing Owl,preyedUponBy
+26749,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+26749,28406,Thamnophis eques,Mexican Gartersnake,preyedUponBy
+26749,,Desserobdella picta,,preyedUponBy

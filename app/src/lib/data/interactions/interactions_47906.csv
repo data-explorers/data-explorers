@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47906,48662,Danaus plexippus,Monarch,eatenBy
+47906,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+47906,50931,Strymon melinus,Gray Hairstreak,eatenBy
+47906,47219,Apis mellifera,Western Honey Bee,eatenBy
+47906,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+47906,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+47906,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+47906,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+47906,55556,Oncopeltus fasciatus,Large Milkweed Bug,eatenBy
+47906,6433,Archilochus alexandri,Black-chinned Hummingbird,eatenBy
+47906,54031,Pepsis mildei,Milde's Tarantula-hawk Wasp,eatenBy
+47906,71154,Aphis nerii,Oleander Aphid,eatenBy
+47906,49133,Vanessa atalanta,Red Admiral,eatenBy
+47906,43111,Sylvilagus floridanus,Eastern Cottontail,eatenBy
+47906,,Acrolophitus maculipennis,,eatenBy
+47906,,Euploea core,,eatenBy
+47906,,Euploea,,eatenBy
+47906,,Euploea alcathoe,,eatenBy
+47906,686947,Pyrausta testalis,,eatenBy
+47906,,Agathodes designalis,,eatenBy
+47906,,Danaus chrysippus,,eatenBy
+47906,,Danaus gilippus,,eatenBy
+47906,,Tirumala limniace,,eatenBy
+47906,,Papaipema nebris,,eatenBy
+47906,,Pygarctia eglenensis,,eatenBy
+47906,,Cycnia pudens,,eatenBy
+47906,,Catacroptera cloanthe,,eatenBy
+47906,,Danaus genutia,,eatenBy
+47906,126299,Danaus erippus,South American Monarch,eatenBy
+47906,,Danaus eresimus,,eatenBy
+47906,,Danaus cleophile,,eatenBy
+47906,,Lycorea halia,,eatenBy
+47906,,Parantica sita,,eatenBy
+47906,,Anthophora abrupta,,eatenBy
+47906,,Aetole extraneella,,eatenBy
+47906,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+47906,,Xylocopa virginica,,eatenBy
+47906,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+47906,,Phyciodes mylitta,,eatenBy
+47906,,Lerina incarnata,,eatenBy
+47906,,Danaus plexippus plexippus,,eatenBy
+47906,132225,Acanalonia bivittata,Two-striped Planthopper,eatenBy
+47906,,Oncopeltus sanguineolentus,,eatenBy
+47906,,Mimoides thymbraeus aconophos,,eatenBy
+47906,2090,Ortalis vetula,Plain Chachalaca,eatenBy
+47906,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47906,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+47906,47822,Diptera,Flies,pollinatedBy
+47906,47208,Coleoptera,Beetles,pollinatedBy

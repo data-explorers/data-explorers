@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52629,,Leucoptera spartifoliella,,eats
+52629,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+52629,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+52629,17355,Vireo,Vireos,eatenBy
+52629,4940,Egretta thula,Snowy Egret,eatenBy
+52629,,Vireo flavifrons,,eatenBy
+52629,17394,Vireo gilvus,Warbling Vireo,eatenBy
+52629,17408,Vireo griseus,White-eyed Vireo,eatenBy
+52629,,Leipoa ocellata,,eatenBy
+52629,,Anthracothorax dominicus,,eatenBy
+52629,,Chlorostilbon maugaeus,,eatenBy
+52629,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+52629,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+52629,5017,Bubulcus ibis,Cattle Egret,eatenBy
+52629,4938,Egretta tricolor,Tricolored Heron,eatenBy
+52629,4937,Egretta caerulea,Little Blue Heron,eatenBy
+52629,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy
+52629,,Sceliphron madraspatanum,,preyedUponBy
+52629,,http://treatment.plazi.org/id/03A787DE616B9B73CDAE3A02FC26FAB8,,preyedUponBy
+52629,320607,Sceliphron spirifex,Mud Dauber,preyedUponBy

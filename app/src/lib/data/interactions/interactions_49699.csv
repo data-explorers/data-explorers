@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49699,62806,Mytilus californianus,California Mussel,eats
+49699,210289,Cirripedia,Barnacles,eats
+49699,460365,Tegula funebralis,Black Tegula,eats
+49699,47115,Mollusca,Molluscs,eats
+49699,,Tonicella lineata,,eats
+49699,4345,Larus occidentalis,Western Gull,eatenBy
+49699,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+49699,120957,Loxorhynchus grandis,Sheep Crab,eatenBy
+49699,,Solaster,,eatenBy
+49699,62806,Mytilus californianus,California Mussel,preysOn
+49699,49129,Balanus,Rock-barnacles,preysOn
+49699,,Tonicella lineata,,preysOn
+49699,4345,Larus occidentalis,Western Gull,preyedUponBy
+49699,4343,Larus,Large White-headed Gulls,preyedUponBy
+49699,120957,Loxorhynchus grandis,Sheep Crab,preyedUponBy
+49699,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+49699,4399,Larus glaucescens,Glaucous-winged Gull,preyedUponBy
+49699,,Solaster,,preyedUponBy

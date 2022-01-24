@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55910,121517,Bombus terricola,Yellow-banded Bumble Bee,eatenBy
+55910,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+55910,,Aethes tesserana,,eatenBy
+55910,,Syricoris rivulana,,eatenBy
+55910,,Cochylis atricapitana,,eatenBy
+55910,,Paradrina selini,,eatenBy
+55910,,Hecatera bicolorata,,eatenBy
+55910,,Xestia speciosa,,eatenBy
+55910,,Cucullia umbratica,,eatenBy
+55910,,Nemophora dumeriliella,,eatenBy
+55910,55971,Tanacetum vulgare,tansy,eatenBy
+55910,,Aulacidea hieracii,,eatenBy
+55910,,Melitaea cinxia,,eatenBy
+55910,,Liriomyza hieracii,,eatenBy
+55910,,Chromatomyia syngenesiae,,eatenBy
+55910,,Ophiomyia pulicaria,,eatenBy
+55910,,Phytomyza rufescens,,eatenBy
+55910,,Cryptocephalus aureolus,,eatenBy
+55910,1075118,Campiglossa producta,,eatenBy
+55910,,Trypeta immaculata,,eatenBy
+55910,,Trupanea stellata,,eatenBy
+55910,,Nasonovia (Nasonovia) ribisnigri,,eatenBy
+55910,,Glocianus moelleri,,eatenBy
+55910,,Oxyptilus pilosellae,,eatenBy
+55910,,Oxyptilus,,eatenBy
+55910,,Oxyptilus parvidactyla,,eatenBy
+55910,,Xestia ashworthii,,eatenBy
+55910,,Pinicola enucleator,,eatenBy
+55910,49995,Syrphidae,Hover Flies,pollinatedBy
+55910,127812,Hylaeus,Masked Bees,pollinatedBy
+55910,,,,pollinatedBy
+55910,,Heterostylodes nominabilis ,,pollinatedBy
+55910,,Scathophaga stercoraria,,pollinatedBy
+55910,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy
+55910,,Lycaena salustius,,pollinatedBy
+55910,,Avibrissina,,pollinatedBy
+55910,,Melangyna novaezelandiae,,pollinatedBy
+55910,,Leioproctus fulvescens,,pollinatedBy
+55910,,Cheilosia,,pollinatedBy

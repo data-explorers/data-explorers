@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49917,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+49917,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+49917,133766,Augochlorella aurata,Golden Sweat Bee,eatenBy
+49917,308726,Anthophora californica,California Digger Bee,eatenBy
+49917,474675,Polymerus basalis,Red-spotted Aster Mirid,eatenBy
+49917,,Protosmia rubifloris,,eatenBy
+49917,126545,Dialictus,Metallic Sweat Bees,pollinatedBy
+49917,338310,Allograpta exotica,Exotic Streaktail,pollinatedBy
+49917,58753,Toxomerus,Calligrapher Flies,pollinatedBy
+49917,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+49917,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+49917,49995,Syrphidae,Hover Flies,pollinatedBy

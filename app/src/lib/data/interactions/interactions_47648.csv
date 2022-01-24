@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47648,1,Animalia,Animals,eats
+47648,85493,Crustacea,Crustaceans,eats
+47648,47186,Decapoda,Decapods,eats
+47648,47178,Actinopterygii,Ray-finned Fishes,eats
+47648,48173,Pagurus,,eats
+47648,,Gnathostomata,,eats
+47648,,unspecified invertebrates,,eats
+47648,,Petrolisthes novaezelandiae,,eats
+47648,51194,Alpheus,,eats
+47648,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+47648,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+47648,118674,Serranus scriba,Painted comber,eatenBy
+47648,118675,Serranus cabrilla,Comber,eatenBy
+47648,47537,Makaira mazara,Indo-Pacific Blue Marlin,eatenBy
+47648,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+47648,372278,Gymnothorax prasinus,Australian Green Moray,eatenBy
+47648,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+47648,49637,Epinephelus morio,Red Grouper,eatenBy
+47648,85113,Gymnothorax castaneus,Chestnut Moray,preyedUponBy

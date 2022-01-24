@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55436,59124,Anthocharis sara,Sara Orangetip,eatenBy
+55436,52775,Bombus,Bumble Bees,eatenBy
+55436,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+55436,48548,Vanessa cardui,Painted Lady,eatenBy
+55436,50931,Strymon melinus,Gray Hairstreak,eatenBy
+55436,58532,Colias eurytheme,Orange Sulphur,eatenBy
+55436,55626,Pieris rapae,Cabbage White,eatenBy
+55436,59189,Erynnis tristis,Mournful Duskywing,eatenBy
+55436,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+55436,,Dipodomys stephensi,,eatenBy
+55436,,Grammia geneura,,eatenBy
+55436,334616,Battus philenor hirsuta,California Pipevine Swallowtail,eatenBy
+55436,520456,Icaricia acmon,Acmon Blue,eatenBy
+55436,,Pieris marginalis,,eatenBy
+55436,,Melecta separata,,eatenBy

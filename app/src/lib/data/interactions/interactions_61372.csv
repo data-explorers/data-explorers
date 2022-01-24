@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61372,52166,Rypticus saponaceus,Greater Soapfish,eatenBy
+61372,96993,Cephalopholis fulva,Coney,eatenBy
+61372,49942,Halichoeres radiatus,Puddingwife,eatenBy
+61372,128156,Antennarius multiocellatus,Longlure Frogfish,eatenBy
+61372,103911,Labrus bergylta,Ballan Wrasse,eatenBy
+61372,103911,Labrus bergylta,Ballan Wrasse,preyedUponBy

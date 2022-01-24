@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+145238,47158,Insecta,Insects,eats
+145238,1,Animalia,Animals,eats
+145238,174388,Chaetocnema,,eats
+145238,47157,Lepidoptera,Butterflies and Moths,eats
+145238,53248,Elateridae,Click Beetles,eats
+145238,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+145238,51146,Chrysomelidae,Leaf Beetles,eats
+145238,47731,Lampyridae,Fireflies,eats
+145238,125816,Auchenorrhyncha,True Hoppers,eats
+145238,47336,Formicidae,Ants,eats
+145238,48736,Curculionidae,True Weevils,eats
+145238,47961,Cerambycidae,Longhorn Beetles,eats
+145238,132004,Scymnus,,eats
+145238,69988,Cryptocephalus,,eats
+145238,47822,Diptera,Flies,eats
+145238,47208,Coleoptera,Beetles,eats
+145238,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+145238,174283,Conoderus,,eats
+145238,47118,Araneae,Spiders,eats
+145238,47535,Araneidae,Orbweavers,eats
+145238,52381,Aphididae,Aphids,eats
+145238,53237,Cicadellidae,Typical Leafhoppers,eats
+145238,47199,Ichneumonidae,Ichneumonid Wasps,eats
+145238,52932,Cantharidae,Soldier Beetles,eats
+145238,61267,Heteroptera,True Bugs,eats
+145238,57804,Berytidae,Stilt Bugs,eats
+145238,48194,Psyllidae,jumping plant lice,eats
+145238,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+145238,211194,Tracheophyta,vascular plants,eats
+145238,48486,Coccinellidae,Lady Beetles,eats
+145238,53506,Tingidae,Lace Bugs,eats
+145238,47124,Magnoliopsida,dicots,eats
+145238,59035,Solanum americanum,American black nightshade,eats
+145238,51737,Solanum lycopersicum,tomato,eats
+145238,48514,Capsicum annuum,chili pepper,eats
+145238,122024,Corymbia ficifolia,Red-flowering gum,eats
+145238,473531,Eucalypteae,gum trees,eats
+145238,51815,Eucalyptus,eucalyptus,eats
+145238,72232,Melaleuca,bottlebrushes,eats
+145238,50644,Salvia,Sages,eats
+145238,155373,Glycaspis brimblecombei,Red Gum Lerp Psyllid,eats
+145238,47555,Taxus,yews,eats
+145238,,Non-biological,,eats
+145238,211254,Systena,,eats
+145238,,Proarna hilaris,,eats
+145238,,Photinus vitiosus,,eats
+145238,,Leptostylus,,eats
+145238,,Cryptorhopalum,,eats
+145238,,Melormenis,,eats
+145238,245001,Eucharitidae,,eats
+145238,54944,Fulgoridae,Lanternbugs,eats
+145238,,Heterophotinus glaucus,,eats
+145238,,Symphyta,,eats
+145238,,Scapteriscus didactylus,,eats
+145238,,Myochrous,,eats
+145238,,Cochliomyia,,eats
+145238,,Mordellistena,,eats
+145238,,Xyleborus,,eats
+145238,61863,Cercopidae,Froghoppers,eats
+145238,129878,Nabidae,Damsel Bugs,eats
+145238,119647,Clerodendrum villosum,,eats
+145238,,Vallesia glabra,,eats
+145238,,Bursera graveolens,,eats
+145238,,Lantana peduncularis,,eats
+145238,62859,Psidium guajava,Common guava,eats
+145238,,Psidium galapageium,,eats
+145238,62830,Cordia lutea,yellow geiger,eats
+145238,50333,Lantana camara,common lantana,eats
+145238,,Croton scouleri,,eats
+145238,,Scutia spicata,,eats
+145238,,Opuntia echios,,eats
+145238,,Tournefortia psilostachya,,eats
+145238,,Tradescantia fluminensis,,eats
+145238,,Tournefortia pubescens,,eats
+145238,,Miconia robinsoniana,,eats
+145238,,Tricerma octogonum,,eats
+145238,,Zanthoxylum fagara,,eats
+145238,,Hippomane mancinella,,eats
+145238,127936,Chiococca alba,West Indian milkberry,eats
+145238,,Cordia leucophlyctis,,eats
+145238,169540,Talinum paniculatum,Jewels of Opar,eats
+145238,,Pilea baurii,,eats
+145238,,Tournefortia rufo-sericea,,eats
+145238,,Rubus niveus,,eats
+145238,,Passiflora foetida,,eats
+145238,,Momordica charantia,,eats
+145238,,Opuntia helleri,,eats
+145238,,Sesuvium portulacastrum,,eats
+145238,,Castela galapageia,,eats
+145238,129327,Passiflora suberosa,corkystem passionflower,eats
+145238,,Cardiospermum corindum,,eats
+145238,,Capraria biflora,,eats
+145238,,Homadaula anisocentra,,eats
+145238,4672,Falco columbarius,Merlin,eatenBy
+145238,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+145238,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+145238,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+145238,47158,Insecta,Insects,preysOn
+145238,47157,Lepidoptera,Butterflies and Moths,preysOn
+145238,320680,Pantherophis vulpinus,Eastern Foxsnake,preyedUponBy
+145238,19765,Megascops asio,Eastern Screech-Owl,preyedUponBy

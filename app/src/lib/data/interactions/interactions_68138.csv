@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68138,47158,Insecta,Insects,eats
+68138,50334,Lantana,,eats
+68138,53911,Cyprinus carpio,European Carp,eatenBy
+68138,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+68138,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+68138,67731,Anax junius,Common Green Darner,eatenBy
+68138,17013,Sayornis nigricans,Black Phoebe,eatenBy
+68138,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+68138,,Tinca tinca,,eatenBy
+68138,55387,Esox lucius,Northern Pike,eatenBy
+68138,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+68138,,Ameiurus melas,,eatenBy
+68138,58654,Ameiurus nebulosus,Brown Bullhead,eatenBy
+68138,49614,Lepomis gibbosus,Pumpkinseed,eatenBy
+68138,,Clarias liocephalus,,eatenBy
+68138,,Bathybagrus sianenna,,eatenBy
+68138,,Serranochromis longimanus,,eatenBy
+68138,,Notropis,,eatenBy
+68138,128426,Mylopharyngodon piceus,Black Carp,eatenBy
+68138,,Nothobranchius melanospilus,,eatenBy
+68138,,Mogurnda adspersa,,eatenBy
+68138,,Galaxias zebratus,,eatenBy
+68138,68138,Sympetrum corruptum,Variegated Meadowhawk,preysOn
+68138,47158,Insecta,Insects,preysOn
+68138,68138,Sympetrum corruptum,Variegated Meadowhawk,preyedUponBy
+68138,47118,Araneae,Spiders,preyedUponBy
+68138,67731,Anax junius,Common Green Darner,preyedUponBy
+68138,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+68138,17009,Sayornis saya,Say's Phoebe,preyedUponBy
+68138,17013,Sayornis nigricans,Black Phoebe,preyedUponBy
+68138,67725,Aeshna interrupta,Variable Darner,preyedUponBy
+68138,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy

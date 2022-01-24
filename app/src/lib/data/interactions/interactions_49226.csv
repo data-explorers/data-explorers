@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49226,12727,Turdus migratorius,American Robin,eatenBy
+49226,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+49226,,Synanthedon exitiosa,,eatenBy
+49226,,Eupsilia tristigmata,,eatenBy
+49226,,Lithophane bethunei,,eatenBy
+49226,775530,Podosphaera amelanchieris,,eatenBy
+49226,,Gymnosporangium clavipes,,eatenBy
+49226,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+49226,47822,Diptera,Flies,pollinatedBy

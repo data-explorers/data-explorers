@@ -1,0 +1,185 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53165,120156,Musca domestica,Housefly,eats
+53165,81980,Syritta,,eats
+53165,47961,Cerambycidae,Longhorn Beetles,eats
+53165,174388,Chaetocnema,,eats
+53165,48194,Psyllidae,jumping plant lice,eats
+53165,133762,Villa,,eats
+53165,357454,Eumolpinae,,eats
+53165,47219,Apis mellifera,Western Honey Bee,eats
+53165,55518,Gelechioidea,Curved-horn Moths,eats
+53165,120489,Sarcophaga,Common Flesh Flies,eats
+53165,68941,Brachymyrmex,Rover Ants,eats
+53165,,Melanostoma,,eats
+53165,,Fannia,,eats
+53165,,Ahasverus advena,,eats
+53165,,Dioxyna sororcula,,eats
+53165,,Ischiodon aegyptius,,eats
+53165,,Chrysomya megacephala,,eats
+53165,47595,Scirtidae,Marsh Beetles,eats
+53165,,Dysauxes florida,,eats
+53165,,Stomoxys,,eats
+53165,1187258,Pachycerina crinicornis,,eats
+53165,329983,Ornidia obesa,Common Green Jewel Fly,eats
+53165,,Nacoleia,,eats
+53165,,Technomyrmex albipes,,eats
+53165,122223,Stomoxys calcitrans,Stable Fly,eats
+53165,,Goniurellia,,eats
+53165,,Panara,,eats
+53165,,Thelairodrino,,eats
+53165,,Scopariinae,,eats
+53165,326655,Stomorhina lunata,Locust Blowfly,eats
+53165,,Allograpta nasuta,,eats
+53165,,Lygistorrhina,,eats
+53165,,Leptotes pirithous,,eats
+53165,,Paragus borbonicus,,eats
+53165,,Episyrphus,,eats
+53165,,Eristalinus flaveolus,,eats
+53165,,Dasytidae,,eats
+53165,,Graphomya maculata,,eats
+53165,,Croton macrosta,,eats
+53165,322713,Sapromyza,,eats
+53165,1,Animalia,Animals,eatenBy
+53165,3000,Columba,Old World Pigeons,eatenBy
+53165,47219,Apis mellifera,Western Honey Bee,eatenBy
+53165,53237,Cicadellidae,Typical Leafhoppers,eatenBy
+53165,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+53165,3454,Zenaida macroura,Mourning Dove,eatenBy
+53165,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+53165,14850,Sturnus vulgaris,European Starling,eatenBy
+53165,,Chaetocneme beata,,eatenBy
+53165,,Tortor daulias,,eatenBy
+53165,,Poliaspis attenuata,,eatenBy
+53165,330229,Parlatoria crotonis,,eatenBy
+53165,,Lepidosaphes tokionis,,eatenBy
+53165,330227,Lepidosaphes beckii,Citrus Mussel Scale,eatenBy
+53165,,Eurycantha calcarata,,eatenBy
+53165,,Adoxophyes privatana,,eatenBy
+53165,418691,Imbrasia,,eatenBy
+53165,,Rothschildia maurus,,eatenBy
+53165,,Memphis xenocles,,eatenBy
+53165,,Memphis arginussa,,eatenBy
+53165,349768,Charaxes etesipe,Savannah Charaxes,eatenBy
+53165,372662,Acrasiella curvilinea,,eatenBy
+53165,,Anaea andria,,eatenBy
+53165,,Anaea aidea,,eatenBy
+53165,,Charaxes saturnus,,eatenBy
+53165,,Charaxes candiope,,eatenBy
+53165,,Achaea janata,,eatenBy
+53165,,Macrosoma cascaria,,eatenBy
+53165,,Calycopis cecrops,,eatenBy
+53165,,Amerila bubo,,eatenBy
+53165,247805,Lemonias,,eatenBy
+53165,1236938,Acmaeodera bucki,,eatenBy
+53165,,Cosmisoma brullei,,eatenBy
+53165,,Trigonopeltastes sallei sallei,,eatenBy
+53165,,Uromyces proeminens,,eatenBy
+53165,,Anaea troglodyta,,eatenBy
+53165,,Charaxes jasius,,eatenBy
+53165,,Charaxes antamboulou,,eatenBy
+53165,148535,Arteurotia tractipennis,Starred Skipper,eatenBy
+53165,,Charaxes marmax,,eatenBy
+53165,,Hypna clytemnestra,,eatenBy
+53165,,Fountainea eurypyle,,eatenBy
+53165,,Fountainea ryphea,,eatenBy
+53165,,Memphis oenomais,,eatenBy
+53165,258119,Memphis artacaena,,eatenBy
+53165,,Fountainea halice,,eatenBy
+53165,,Memphis pithyusa,,eatenBy
+53165,,Fountainea glycerium,,eatenBy
+53165,,Thisbe irenea,,eatenBy
+53165,,Strymon acis,,eatenBy
+53165,,Astraptes alardus,,eatenBy
+53165,,Deomys ferrugineus,,eatenBy
+53165,,Thamnomys,,eatenBy
+53165,,Tauraco,,eatenBy
+53165,46202,Protoxerus stangeri,Forest Giant Squirrel,eatenBy
+53165,,Praomys tullbergi,,eatenBy
+53165,,Malacomys longipes,,eatenBy
+53165,46196,Heliosciurus rufobrachium,Red-legged Sun Squirrel,eatenBy
+53165,5556,Ceratogymna,Wattled Hornbills,eatenBy
+53165,,Bycanistes,,eatenBy
+53165,,Hylomyscus,,eatenBy
+53165,46105,Paraxerus,Bush Squirrels,eatenBy
+53165,,Hybomys univittatus,,eatenBy
+53165,,Atherurus africanus,,eatenBy
+53165,45961,Funisciurus isabella,Lady Burton's Rope Squirrel,eatenBy
+53165,7250,Corythaeola cristata,Great Blue Turaco,eatenBy
+53165,46247,Epixerus ebii,Western Palm Squirrel,eatenBy
+53165,,Tockus fasciatus,,eatenBy
+53165,,Stochomys longicaudatus,,eatenBy
+53165,46120,Myosciurus pumilio,African Pygmy Squirrel,eatenBy
+53165,300347,Ectatomma tuberculatum,,eatenBy
+53165,,Camponotus rufipes,,eatenBy
+53165,,Cephalotes pusillus,,eatenBy
+53165,,Camponotus trapeziceps,,eatenBy
+53165,,Brachymyrmex pictus,,eatenBy
+53165,,Pheidole triconstricta,,eatenBy
+53165,69001,Pseudomyrmex pallidus,Pallid Twig Ant,eatenBy
+53165,,Attacus wardi,,eatenBy
+53165,391720,Lindingaspis rossi,Ross' Black Scale,eatenBy
+53165,,Epiphora mythimnia,,eatenBy
+53165,82279,Automeris io,Io Moth,eatenBy
+53165,,Amyna punctum,,eatenBy
+53165,,Eois,,eatenBy
+53165,,Bycanistes bucinator,,eatenBy
+53165,,Notopholia corrusca,,eatenBy
+53165,,Andropadus importunus,,eatenBy
+53165,7958,Coracina caesia,Grey Cuckooshrike,eatenBy
+53165,,Ploceus,,eatenBy
+53165,14588,Pycnonotus barbatus,Common Bulbul,eatenBy
+53165,,Geokichla guttata,,eatenBy
+53165,,Phoeniculus purpureus,,eatenBy
+53165,,Lybius torquatus,,eatenBy
+53165,,Oriolus,,eatenBy
+53165,43486,Cercopithecus mitis,Blue Monkey,eatenBy
+53165,,Lamprotornis nitens,,eatenBy
+53165,,Amblyospiza albifrons,,eatenBy
+53165,,Pogoniulus pusillus,,eatenBy
+53165,,Onychognathus morio,,eatenBy
+53165,13548,Parus,Great Tits and Allies,eatenBy
+53165,,Turdus olivaceus,,eatenBy
+53165,81980,Syritta,,pollinatedBy
+53165,120156,Musca domestica,Housefly,pollinatedBy
+53165,68941,Brachymyrmex,Rover Ants,pollinatedBy
+53165,174388,Chaetocnema,,pollinatedBy
+53165,133762,Villa,,pollinatedBy
+53165,55518,Gelechioidea,Curved-horn Moths,pollinatedBy
+53165,357454,Eumolpinae,,pollinatedBy
+53165,47961,Cerambycidae,Longhorn Beetles,pollinatedBy
+53165,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+53165,48194,Psyllidae,jumping plant lice,pollinatedBy
+53165,82528,Augochloropsis,,pollinatedBy
+53165,58753,Toxomerus,Calligrapher Flies,pollinatedBy
+53165,,Ischiodon aegyptius ,,pollinatedBy
+53165,,Technomyrmex albipes ,,pollinatedBy
+53165,,Eristalinus flaveolus,,pollinatedBy
+53165,326655,Stomorhina lunata,Locust Blowfly,pollinatedBy
+53165,,Pachycerina crinicornis ,,pollinatedBy
+53165,,Allograpta nasuta,,pollinatedBy
+53165,,Dioxyna sororcula ,,pollinatedBy
+53165,122223,Stomoxys calcitrans,Stable Fly,pollinatedBy
+53165,,Leptotes pirithous,,pollinatedBy
+53165,,Ahasverus advena ,,pollinatedBy
+53165,,Lygistorrhina,,pollinatedBy
+53165,,Dysauxes florida,,pollinatedBy
+53165,47595,Scirtidae,Marsh Beetles,pollinatedBy
+53165,,Nacoleia,,pollinatedBy
+53165,,Fannia pusio ,,pollinatedBy
+53165,,Paragus borbonicus,,pollinatedBy
+53165,,Stomoxys,,pollinatedBy
+53165,,,,pollinatedBy
+53165,,Sarcophaga arno ,,pollinatedBy
+53165,,Episyrphus,,pollinatedBy
+53165,,Chrysomya megacephala ,,pollinatedBy
+53165,,Graphomya maculata,,pollinatedBy
+53165,,Melanostoma annulipes,,pollinatedBy
+53165,,Dasytidae,,pollinatedBy
+53165,,http://treatment.plazi.org/id/FA02BC3CC974FFAA9516FCC14B0207BD,,pollinatedBy
+53165,,Panara,,pollinatedBy
+53165,,Thelairodrino,,pollinatedBy
+53165,,Scopariinae,,pollinatedBy
+53165,,Polybia scutellaris,,pollinatedBy
+53165,,Gasteruptiinae,,pollinatedBy
+53165,,Mischocyttarus drewseni,,pollinatedBy
+53165,322713,Sapromyza,,pollinatedBy

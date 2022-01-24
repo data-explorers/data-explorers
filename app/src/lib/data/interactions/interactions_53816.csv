@@ -1,0 +1,122 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53816,47126,Plantae,plants,eats
+53816,,perennials,,eats
+53816,,annuals (Monsonia - Stipagrostis - Eragrostis),,eats
+53816,,Detritus,,eats
+53816,,saphrophytes,,eats
+53816,,mykorrhiza,,eats
+53816,,roots,,eats
+53816,,leaf litter,,eats
+53816,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+53816,4793,Charadrius vociferus,Killdeer,eatenBy
+53816,20044,Bubo virginianus,Great Horned Owl,eatenBy
+53816,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+53816,1409,Callipepla californica,California Quail,eatenBy
+53816,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+53816,17355,Vireo,Vireos,eatenBy
+53816,17009,Sayornis saya,Say's Phoebe,eatenBy
+53816,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+53816,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+53816,14850,Sturnus vulgaris,European Starling,eatenBy
+53816,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+53816,7998,Corvus,Crows and Ravens,eatenBy
+53816,8229,Cyanocitta cristata,Blue Jay,eatenBy
+53816,12727,Turdus migratorius,American Robin,eatenBy
+53816,7458,Certhia americana,Brown Creeper,eatenBy
+53816,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+53816,48894,Scorpiones,Scorpions,eatenBy
+53816,3,Aves,Birds,eatenBy
+53816,46927,Talpidae,Moles and Desmans,eatenBy
+53816,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+53816,5017,Bubulcus ibis,Cattle Egret,eatenBy
+53816,,Plectropterus gambensis,,eatenBy
+53816,145233,Setophaga americana,Northern Parula,eatenBy
+53816,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+53816,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+53816,72952,Icterus portoricensis,Puerto Rican Oriole,eatenBy
+53816,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+53816,519,Porphyrio martinica,Purple Gallinule,eatenBy
+53816,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+53816,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+53816,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+53816,20307,Asio otus,Long-eared Owl,eatenBy
+53816,19975,Athene cunicularia,Burrowing Owl,eatenBy
+53816,1240,Dendragapus,Blue Grouse,eatenBy
+53816,4645,Falco femoralis,Aplomado Falcon,eatenBy
+53816,17408,Vireo griseus,White-eyed Vireo,eatenBy
+53816,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+53816,,Salpinctes obsoletus,,eatenBy
+53816,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+53816,,Picoides villosus,,eatenBy
+53816,558512,Lanius borealis,Northern Shrike,eatenBy
+53816,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+53816,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+53816,,Dryobates albolarvatus,,eatenBy
+53816,,Picoides pubescens,,eatenBy
+53816,19577,Chordeiles minor,Common Nighthawk,eatenBy
+53816,9800,Coccothraustes vespertinus,Evening Grosbeak,eatenBy
+53816,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+53816,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+53816,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+53816,3931,Scolopax rusticola,Eurasian Woodcock,eatenBy
+53816,,Coracias caudatus caudatus,,eatenBy
+53816,,jackal - hyena,,eatenBy
+53816,,Typhlosaurus,,eatenBy
+53816,,spiders - solpugids - scorpions,,eatenBy
+53816,44186,Gerbillus,Typical Gerbils,eatenBy
+53816,47866,Thomisidae,Crab Spiders,preyedUponBy
+53816,47951,Staphylinidae,Rove Beetles,preyedUponBy
+53816,148395,Trochosa,,preyedUponBy
+53816,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+53816,47535,Araneidae,Orbweavers,preyedUponBy
+53816,48139,Salticidae,Jumping Spiders,preyedUponBy
+53816,47416,Lycosidae,Wolf Spiders,preyedUponBy
+53816,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+53816,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+53816,30293,Eirenis modestus,Ring-Headed Dwarf Snake,preyedUponBy
+53816,41277,Eumops perotis,Western Bonneted Bat,preyedUponBy
+53816,706060,Monocephalus fuscipes,,preyedUponBy
+53816,504180,Microlestes minutulus,,preyedUponBy
+53816,,Euophrys frontalis,,preyedUponBy
+53816,490815,Neobisium carcinoides,Moss Neobisid,preyedUponBy
+53816,706059,Gongylidiellum latebricola,,preyedUponBy
+53816,1004280,Othius subuliformis,,preyedUponBy
+53816,360548,Zora spinimana,,preyedUponBy
+53816,,Stenus mendicus,,preyedUponBy
+53816,494566,Athous subfuscus,,preyedUponBy
+53816,,Lithobius,,preyedUponBy
+53816,452503,Robertus lividus,,preyedUponBy
+53816,,Gyrohypnus,,preyedUponBy
+53816,784293,Pelecopsis radicicola,,preyedUponBy
+53816,203275,Xantholinus,,preyedUponBy
+53816,230519,Schendyla nemorensis,,preyedUponBy
+53816,637234,Xysticus erraticus,,preyedUponBy
+53816,793485,Stenus impressus,,preyedUponBy
+53816,318917,Euryopis flavomaculata,,preyedUponBy
+53816,783981,Tapinocyba insecta,,preyedUponBy
+53816,,Pachygnatha degeeri,,preyedUponBy
+53816,131943,Rugilus rufipes,,preyedUponBy
+53816,784182,Pocadicnemis juncea,,preyedUponBy
+53816,,Haplodrassus silvstris,,preyedUponBy
+53816,521083,Strigamia acuminata,,preyedUponBy
+53816,,Cochlodryas,,preyedUponBy
+53816,,Amaurobius fenestralis,,preyedUponBy
+53816,739596,Lithobius mutabilis,,preyedUponBy
+53816,130409,Abax parallelepipedus,,preyedUponBy
+53816,131880,Notiophilus biguttatus,,preyedUponBy
+53816,,Lathrobium brunnipes,,preyedUponBy
+53816,212779,Agonum muelleri,,preyedUponBy
+53816,,Lithobius erythrocephalus,,preyedUponBy
+53816,154600,Agonum,,preyedUponBy
+53816,568199,Lithobius curtipes,,preyedUponBy
+53816,40317,Myotis blythii,Lesser mouse-eared bat,preyedUponBy
+53816,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+53816,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+53816,,Nycteris macrotus,,preyedUponBy
+53816,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+53816,40449,Otonycteris hemprichii,Desert Long-eared Bat,preyedUponBy
+53816,41254,Molossus molossus,Velvety Free-tailed Bat,preyedUponBy
+53816,,Phyllostomus hastatus,,preyedUponBy
+53816,40348,Myotis velifer,Cave Myotis,preyedUponBy
+53816,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+53816,1150085,Myotis myotis,,preyedUponBy

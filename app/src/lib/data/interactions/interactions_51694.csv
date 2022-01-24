@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51694,69114,Pogonomyrmex,Harvester Ants,eatenBy
+51694,48548,Vanessa cardui,Painted Lady,eatenBy
+51694,42429,Antilocapra americana,Pronghorn,eatenBy
+51694,,Damaliscus,,eatenBy
+51694,,Messor structor,,eatenBy
+51694,63801,Ctenucha rubroscapus,White-tipped Ctenucha,eatenBy
+51694,,Zonotrichia leucophrys,,eatenBy
+51694,,Gopherus agassizii,,eatenBy
+51694,,Hoplitis,,pollinatedBy

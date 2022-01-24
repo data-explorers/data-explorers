@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+26041,47178,Actinopterygii,Ray-finned Fishes,eats
+26041,3,Aves,Birds,eats
+26041,72486,Alopochen aegyptiaca,Egyptian Goose,eats
+26041,,Barbus,,eats
+26041,,Tilapia zillii,,eats
+26041,42878,Macropus bernardus,Black Wallaroo,eats
+26041,42327,Kobus megaceros,Nile Lechwe,eats
+26041,,Cervus timorensis,,eats
+26041,42334,Hippotragus niger,Sable Antelope,eats
+26041,,Canis lupus dingo,,eats
+26041,43538,Nasalis larvatus,Proboscis Monkey,eats
+26041,41963,Panthera pardus,Leopard,eats
+26041,,Abies lasiocarpa var. arizonica,,eatenBy

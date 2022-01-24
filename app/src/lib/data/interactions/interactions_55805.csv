@@ -1,0 +1,63 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55805,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+55805,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+55805,69676,Thunnus,Bluefin Tunas,eatenBy
+55805,204533,Larus argentatus,Herring Gull,eatenBy
+55805,179630,Citharichthys spilopterus,Bay Whiff,eatenBy
+55805,179430,Ancylopsetta ommata,Ocellated Flounder,eatenBy
+55805,131491,Rachycentron canadum,Cobia,eatenBy
+55805,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+55805,51392,Morone saxatilis,Striped Bass,eatenBy
+55805,179547,Menticirrhus saxatilis,Northern Kingfish,eatenBy
+55805,96746,Carcharhinus altimus,Bignose Shark,eatenBy
+55805,96762,Carcharhinus obscurus,Dusky Shark,eatenBy
+55805,111752,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark,eatenBy
+55805,112960,Sphyrna tiburo,Bonnethead,eatenBy
+55805,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+55805,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+55805,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+55805,179633,Chloroscombrus chrysurus,Atlantic Bumper,eatenBy
+55805,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+55805,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+55805,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+55805,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+55805,179491,Prionotus tribulus,Bighead Searobin,eatenBy
+55805,128235,Dysomma anguillare,Mustard Cutthroat Eel,eatenBy
+55805,49437,Centropomus undecimalis,Common Snook,eatenBy
+55805,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+55805,52522,Ovalipes,,preyedUponBy
+55805,48407,Raja,,preyedUponBy
+55805,54539,Syngnathus,Pipe-fishes,preyedUponBy
+55805,53739,Cancer irroratus,Atlantic Rock Crab,preyedUponBy
+55805,39836,Malaclemys terrapin,Diamondback Terrapin,preyedUponBy
+55805,49219,Anguilla rostrata,American Eel,preyedUponBy
+55805,53583,Carcharhinus plumbeus,Sandbar Shark,preyedUponBy
+55805,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+55805,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+55805,82264,Chilomycterus schoepfii,Striped Burrfish,preyedUponBy
+55805,131458,Diplectrum bivittatum,Dwarf Sand Perch,preyedUponBy
+55805,194675,Lophius americanus,American Monkfish,preyedUponBy
+55805,96740,Caranx crysos,Blue Runner,preyedUponBy
+55805,112459,Semotilus corporalis,Fallfish,preyedUponBy
+55805,51405,Elops saurus,Ladyfish,preyedUponBy
+55805,62393,Cancer borealis,Jonah Crab,preyedUponBy
+55805,83439,Centropristis striata,Black Sea Bass,preyedUponBy
+55805,93844,Ameiurus catus,White Catfish,preyedUponBy
+55805,179469,Selene vomer,Lookdown,preyedUponBy
+55805,47230,Caranx hippos,Atlantic Crevalle Jack,preyedUponBy
+55805,49225,Alosa aestivalis,Blueback Shad,preyedUponBy
+55805,233276,Urophycis regia,Spotted Hake,preyedUponBy
+55805,47242,Fistularia tabacaria,Atlantic Bluespotted Cornetfish,preyedUponBy
+55805,179445,Trachinotus falcatus,Permit,preyedUponBy
+55805,128750,Sciaenops ocellatus,Red Drum,preyedUponBy
+55805,213402,Ammodytes americanus,American Sand Lance,preyedUponBy
+55805,49421,Diplectrum formosum,Sand Perch,preyedUponBy
+55805,179454,Syacium papillosum,Dusky Flounder,preyedUponBy
+55805,56042,Prionotus carolinus,Northern Searobin,preyedUponBy
+55805,131491,Rachycentron canadum,Cobia,preyedUponBy
+55805,49431,Orthopristis chrysoptera,Pigfish,preyedUponBy
+55805,146796,Sphoeroides maculatus,Northern Puffer,preyedUponBy
+55805,179444,Upeneus parvus,Dwarf Goatfish,preyedUponBy
+55805,51404,Trichiurus lepturus,Largehead Hairtail,preyedUponBy
+55805,317228,Mullus auratus,Red Goatfish,preyedUponBy
+55805,113308,Strongylura marina,Atlantic Needlefish,preyedUponBy

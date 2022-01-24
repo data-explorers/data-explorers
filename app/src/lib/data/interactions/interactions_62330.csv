@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62330,,Gynaephora groenlandica,,eats
+62330,,Apamea zeta,,eats
+62330,,Sympistis nigrita,,eats
+62330,3849,Calidris alba,Sanderling,eatenBy
+62330,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+62330,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+62330,47124,Magnoliopsida,dicots,pollinates
+62330,77992,Mentha longifolia,Horse Mint,pollinates
+62330,49389,Stellaria,chickweeds,pollinates
+62330,,Arnica,,pollinates
+62330,168980,Silene sorensenis,Sorensen's Catchfly,pollinates
+62330,,Salix arctica,,pollinates
+62330,83541,Dryas octopetala,Mountain Avens,pollinates
+62330,,Chamerion latifolium,,pollinates
+62330,,Bistorta vivipara,,pollinates
+62330,335546,Caldcluvia paniculata,,pollinates
+62330,,Stellaria longipes,,pollinates
+62330,,Dryas integrifolia,,pollinates
+62330,509595,Arnica angustifolia alpina,,pollinates
+62330,,Physaria arctica,,pollinates
+62330,,Epilobium latifolium,,pollinates
+62330,178226,Eucryphia cordifolia,Ulmo,pollinates
+62330,,Arnica angustifolia,,pollinates

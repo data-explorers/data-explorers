@@ -1,0 +1,147 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144537,47178,Actinopterygii,Ray-finned Fishes,eats
+144537,52461,Belonidae,Needlefishes,eats
+144537,85611,Atherinidae,Old World Silversides,eats
+144537,92583,Trachurus,Jack Mackerels,eats
+144537,85777,Exocoetidae,Flyingfishes,eats
+144537,47459,Cephalopoda,Cephalopods,eats
+144537,47295,Lutjanidae,Snappers,eats
+144537,51911,Engraulidae,Anchovies,eats
+144537,47186,Decapoda,Decapods,eats
+144537,118597,Belone belone,Garfish,eats
+144537,51912,Engraulis,,eats
+144537,63770,Engraulis mordax,Northern Anchovy,eats
+144537,57298,Hemiramphidae,Halfbeaks,eats
+144537,48313,Pomacentridae,Damselfishes and Anemonefishes,eats
+144537,121639,Brachyura,True Crabs,eats
+144537,153112,Euphausiacea,krill,eats
+144537,85493,Crustacea,Crustaceans,eats
+144537,,Vanellus vanellus,,eats
+144537,,Lumpenus sagitta,,eats
+144537,58654,Ameiurus nebulosus,Brown Bullhead,eats
+144537,47522,Oncorhynchus,Pacific Salmons and Trouts,eats
+144537,47516,Oncorhynchus mykiss,Rainbow Trout,eats
+144537,58627,Perca flavescens,Yellow Perch,eats
+144537,51910,Engraulis encrasicolus,European Anchovy,eats
+144537,55398,Solea,,eats
+144537,,Macruronus magellanicus,,eats
+144537,614162,Micromesistius australis,Southern blue whiting,eats
+144537,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+144537,228496,Pollachius virens,Pollock,eats
+144537,146888,Illex,Shortfin Squids,eats
+144537,47258,Thyrsites atun,Barracouta,eats
+144537,215318,Boreogadus saida,Arctic Cod,eats
+144537,88265,Etrumeus,Red-eye Round Herrings,eats
+144537,55535,Sardinops sagax,Pacific Sardine,eats
+144537,218966,Eleginus gracilis,Saffron Cod,eats
+144537,,Etrumeus teres,,eats
+144537,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+144537,97990,Clupea harengus,Atlantic Herring,eats
+144537,63691,Cololabis saira,Pacific Saury,eats
+144537,324532,Sprattus sprattus,European Sprat,eats
+144537,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+144537,165100,Mallotus villosus,Capelin,eats
+144537,47525,Pleuronectidae,Righteye Flounders,eats
+144537,82337,Loligo,,eats
+144537,47762,Sebastes,Rockfishes,eats
+144537,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+144537,254742,Astyris lunata,Lunate Dove Shell,eats
+144537,614161,Gadus chalcogrammus,Alaska Pollock,eats
+144537,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+144537,82353,Merluccius,Hakes,eats
+144537,119433,Upeneus,,eats
+144537,502271,Engraulis australis,Australian Anchovy,eats
+144537,120702,Micromesistius poutassou,Blue Whiting,eats
+144537,85949,Osmeridae,Smelts,eats
+144537,213402,Ammodytes americanus,American Sand Lance,eats
+144537,87865,Decapterus,,eats
+144537,120672,Scomberesox saurus,Atlantic Saury,eats
+144537,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+144537,86396,Ammodytes,,eats
+144537,447397,Engraulis anchoita,Argentine Anchoita,eats
+144537,,Teuthida,,eats
+144537,,Unspecified Apogondiae,,eats
+144537,85289,Pseudophycis bachus,Red cod,eats
+144537,,Gnathostomata,,eats
+144537,63742,Gadidae,Cods and Haddocks,eats
+144537,,,,eats
+144537,63740,Gadus morhua,Atlantic Cod,eats
+144537,328042,Engraulis japonicus,Japanese Anchovy,eats
+144537,180029,Gadus macrocephalus,Pacific Cod,eats
+144537,118600,Sardina pilchardus,European Sardine,eats
+144537,,Kondakovia longimana,,eats
+144537,117571,Clupea pallasii,Pacific herring,eats
+144537,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+144537,,Frigidoalvania cruenta,,eats
+144537,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+144537,,Pisces,,eats
+144537,,Apogonidae,,eats
+144537,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eats
+144537,472,Fulica,Coots,eatenBy
+144537,4381,Larus fuscus,Lesser Black-backed Gull,eatenBy
+144537,8010,Corvus corax,Common Raven,eatenBy
+144537,42069,Vulpes vulpes,Red Fox,eatenBy
+144537,,Rallus aquaticus,,eatenBy
+144537,,Fulica atra,,eatenBy
+144537,475028,Porphyrio porphyrio,Western Swamphen,eatenBy
+144537,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+144537,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+144537,4843,Haematopus ostralegus,Eurasian Oystercatcher,eatenBy
+144537,144297,Stercorarius skua,Great Skua,eatenBy
+144537,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+144537,204533,Larus argentatus,Herring Gull,eatenBy
+144537,3896,Numenius arquata,Eurasian Curlew,eatenBy
+144537,144594,Bubo scandiacus,Snowy Owl,eatenBy
+144537,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+144537,,Chtoicocephalus ridibundus,,eatenBy
+144537,,Ichthyaetus ichthyaetus,,eatenBy
+144537,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+144537,4389,Larus cachinnans,Caspian Gull,eatenBy
+144537,4356,Larus canus,Mew Gull,eatenBy
+144537,20315,Asio flammeus,Short-eared Owl,eatenBy
+144537,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+144537,,Coloeus monedula,,eatenBy
+144537,204496,Corvus corone,Carrion Crow,eatenBy
+144537,8029,Corvus frugilegus,Rook,eatenBy
+144537,42048,Canis lupus,Gray Wolf,eatenBy
+144537,851014,Canis aureus,Golden Jackal,eatenBy
+144537,41900,Herpestes ichneumon,Ichneumon,eatenBy
+144537,42065,Vulpes corsac,Corsac Fox,eatenBy
+144537,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+144537,,Elaphe situla,,eatenBy
+144537,39407,Varanus griseus,Desert Monitor,eatenBy
+144537,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+144537,27035,Hierophis viridiflavus carbonarius,,eatenBy
+144537,28451,Telescopus nigriceps,Black headed snake,eatenBy
+144537,63770,Engraulis mordax,Northern Anchovy,preysOn
+144537,47645,Cottidae,Typical Sculpins,preysOn
+144537,51911,Engraulidae,Anchovies,preysOn
+144537,85611,Atherinidae,Old World Silversides,preysOn
+144537,47178,Actinopterygii,Ray-finned Fishes,preysOn
+144537,63687,Embiotocidae,Surfperches,preysOn
+144537,87532,Clupea,,preysOn
+144537,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",preysOn
+144537,85949,Osmeridae,Smelts,preysOn
+144537,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+144537,49236,Clupeidae,"Shads, Sardines, and Menhadens",preysOn
+144537,47525,Pleuronectidae,Righteye Flounders,preysOn
+144537,63742,Gadidae,Cods and Haddocks,preysOn
+144537,85574,Ammodytidae,Sand Lances,preysOn
+144537,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+144537,47522,Oncorhynchus,Pacific Salmons and Trouts,preysOn
+144537,53692,Oncorhynchus kisutch,Coho Salmon,preysOn
+144537,54191,Oncorhynchus tshawytscha,Chinook Salmon,preysOn
+144537,47516,Oncorhynchus mykiss,Rainbow Trout,preysOn
+144537,117571,Clupea pallasii,Pacific herring,preysOn
+144537,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+144537,111616,Rhacochilus vacca,Pile surfperch,preysOn
+144537,117566,Hypomesus pretiosus,Surf Smelt,preysOn
+144537,117561,Phanerodon furcatus,White surfperch,preysOn
+144537,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+144537,68075,Oncorhynchus clarkii,Cutthroat Trout,preysOn
+144537,213065,Allosmerus elongatus,Whitebait Smelt,preysOn
+144537,107572,Oncorhynchus keta,Chum Salmon,preysOn
+144537,58627,Perca flavescens,Yellow Perch,preysOn
+144537,,Lumpenus sagitta,,preysOn
+144537,58654,Ameiurus nebulosus,Brown Bullhead,preysOn
+144537,,Hyporhamphus ihi,,preysOn

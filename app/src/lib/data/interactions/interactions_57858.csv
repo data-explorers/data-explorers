@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57858,57858,Veronica anagallis-aquatica,blue water-speedwell,eats
+57858,57858,Veronica anagallis-aquatica,blue water-speedwell,eatenBy
+57858,,Occidryas chalcedona,,eatenBy
+57858,48505,Junonia coenia,Common Buckeye,eatenBy
+57858,,Gymnetron villosulum,,eatenBy

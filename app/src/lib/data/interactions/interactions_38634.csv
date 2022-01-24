@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+38634,8010,Corvus corax,Common Raven,eatenBy
+38634,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+38634,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+38634,,Hoplostethus atlanticus,,eatenBy
+38634,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+38634,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+38634,109307,Phimophis guianensis,Troschel's Pampas Snake,preyedUponBy
+38634,,Coniophanes imperialis,,preyedUponBy
+38634,,Conophis vittatus,,preyedUponBy
+38634,,Manolepis putnami,,preyedUponBy
+38634,28942,Pseudoboa nigra,Black False Boa,preyedUponBy
+38634,146547,Xenodon semicinctus,Ringed Hognose Snake,preyedUponBy
+38634,,Leptodeira frenata,,preyedUponBy
+38634,29395,Mastigodryas boddaerti,Boddaert's Tropical Racer,preyedUponBy

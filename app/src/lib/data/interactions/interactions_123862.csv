@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123862,53462,Ostrea edulis,European Flat Oyster,eatenBy
+123862,468044,Noctiluca scintillans,sea sparkle,eatenBy
+123862,81644,Crepidula,Typical Slippersnails,eatenBy
+123862,51104,Thaliacea,Thaliaceans,eatenBy
+123862,47582,Ostreidae,True Oysters,eatenBy
+123862,118832,Semibalanus balanoides,Northern Acorn Barnacle,eatenBy
+123862,129725,Appendicularia,Pelagic Tunicates,eatenBy
+123862,81636,Mya,,eatenBy
+123862,54525,Pectinidae,Scallops,eatenBy
+123862,69926,Clinocardium,,eatenBy
+123862,195136,Euphausia,,eatenBy
+123862,126967,Pyura,Red-baits,eatenBy
+123862,51200,Hippolytidae,Hump-backed Shrimps,eatenBy
+123862,117700,Cucumaria,,eatenBy
+123862,,Anadara broughtonii,,eatenBy
+123862,344134,Euphausia superba,Antarctic Krill,eatenBy
+123862,129182,Mysis relicta,,eatenBy
+123862,128889,Neofibularia nolitangere,Touch-me-not Sponge,eatenBy
+123862,,Muricea atlantica,,eatenBy
+123862,,Eunicea calyculata,,eatenBy
+123862,,Gelliodes ramosa,,eatenBy
+123862,294790,Mysidium columbiae,,eatenBy
+123862,,Cliona delitrix,,eatenBy
+123862,,Gonyaulax tamarensis,,eatenBy
+123862,128187,Geodia neptuni,Leathery Barrel Sponge,eatenBy
+123862,485904,Dinophysis caudata,,eatenBy
+123862,,Cliona caribbaea,,eatenBy
+123862,,Oxytoxum,,eatenBy
+123862,208810,Anodontia alba,Buttercup Lucine,eatenBy
+123862,777091,Fritillaria haplostoma,,eatenBy
+123862,984299,Paracalanus aculeatus,,eatenBy
+123862,131728,Tectitethya crypta,,eatenBy
+123862,131703,Aplysina lacunosa,,eatenBy
+123862,62615,Cliona,,eatenBy
+123862,,Acartia lilljeborgii,,eatenBy
+123862,,Pterogorgia guadalupensis,,eatenBy
+123862,131695,Ircinia felix,Stinker Sponge,eatenBy
+123862,,Paracalanus crassirostris,,eatenBy
+123862,,Dictyonella arenosa,,eatenBy
+123862,253444,Papyridea soleniformis,Spiny paper cockle,eatenBy
+123862,,Tripos fusus,,eatenBy
+123862,991083,Cribrochalina dura,,eatenBy
+123862,,Neopetrosia subtriangularis,,eatenBy
+123862,260814,Brachyscelus crusculum,,eatenBy
+123862,,Paracalanus parvus,,eatenBy
+123862,,Dictyonella funicularis,,eatenBy
+123862,253628,Diplodonta punctata,,eatenBy
+123862,,Cliona vermifera,,eatenBy
+123862,342244,Clathrina coriacea,,eatenBy
+123862,253503,Asaphis deflorata,Gaudy Sanguin,eatenBy
+123862,,Barbatia candida,,eatenBy
+123862,,Gouldia cerina,,eatenBy
+123862,,Clio,,eatenBy
+123862,,Periglypta listeri,,eatenBy
+123862,131743,Amphimedon erina,,eatenBy
+123862,,Peridiniaceae,,eatenBy
+123862,131699,Hyrtios violaceus,,eatenBy
+123862,131705,Aplysina fistularis,Yellow Tube Sponge,eatenBy
+123862,1075725,Dysidea janiae,,eatenBy
+123862,372228,Chondrilla nucula,Potato Sponge,eatenBy
+123862,131713,Aiolochroia crassa,Branching Tube Sponge,eatenBy
+123862,,Iciligorgia schrammi,,eatenBy
+123862,,Euchaeta marina,,eatenBy
+123862,131702,Verongula rigida,Pitted Sponge,eatenBy
+123862,,Cliona schmidti,,eatenBy
+123862,,Pseudopterogorgia americana,,eatenBy
+123862,472067,Penilia avirostris,,eatenBy
+123862,498761,Plexaura flexuosa,,eatenBy
+123862,,Amphorellopsis,,eatenBy
+123862,131711,Aplysina cauliformis,Row Pore Rope Sponge,eatenBy
+123862,,Cliona aprica,,eatenBy
+123862,253485,Lucina pensylvanica,pennsylvania lucine,eatenBy
+123862,,Gorgonia mariae,,eatenBy
+123862,293248,Smenospongia aurea,,eatenBy
+123862,200886,Peridinium,,eatenBy
+123862,480204,Microsetella rosea,,eatenBy
+123862,131701,Cliona varians,,eatenBy
+123862,131681,Agelas dispar,,eatenBy
+123862,292181,Ctena orbiculata,Dwarf Tiger Lucine,eatenBy
+123862,,Anadara notabilis,,eatenBy
+123862,,Tripos muelleri,,eatenBy
+123862,208793,Chione cancellata,Cross-barred Venus,eatenBy
+123862,679265,Oikopleura dioica,,eatenBy
+123862,,Diplodonta caelata,,eatenBy
+123862,329012,Centropages furcatus,,eatenBy
+123862,253481,Codakia orbicularis,Tiger Lucine,eatenBy
+123862,679266,Oikopleura longicauda,,eatenBy
+123862,,Prorocentrum micans,,eatenBy
+123862,203397,Acartia tonsa,,eatenBy
+123862,984457,Pione lampa,,eatenBy
+123862,,Lirophora paphia,,eatenBy
+123862,,Xestospongia portoricensis,,eatenBy
+123862,941629,Verongula reiswigi,,eatenBy
+123862,,Trachycardium isocardia,,eatenBy
+123862,,Fulvia laevigata,,eatenBy
+123862,131696,Ircinia campana,Vase Garlic Sponge,eatenBy
+123862,334072,Ceratium,,eatenBy
+123862,131692,Igernella notabilis,Strawberry Sponge,eatenBy
+123862,,Pseudopterogorgia acerosa,,eatenBy
+123862,260836,Lestrigonus bengalensis,,eatenBy
+123862,,unknown_acantharian unknown_acantharian,,preyedUponBy
+123862,,Zygabikodinium lenticulatum,,preyedUponBy
+123862,,Protoperidinium oblongum,,preyedUponBy
+123862,,Protoperidinium pellucidum,,preyedUponBy
+123862,,Protoperidinium,,preyedUponBy
+123862,,Protoperidinium quinquecorne,,preyedUponBy

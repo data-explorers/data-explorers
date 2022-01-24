@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64238,,Zizeeria karsandra,,eatenBy
+64238,,Megalorhipida defectalis,,eatenBy
+64238,,Achaea janata,,eatenBy
+64238,,Pseudozizeeria maha,,eatenBy
+64238,,Zizina,,eatenBy
+64238,,Zizeeria knysna,,eatenBy
+64238,,Madoqua kirkii,,eatenBy
+64238,57678,Lasioglossum,,pollinatedBy
+64238,47158,Insecta,Insects,pollinatedBy
+64238,47220,Apis,Honey Bees,pollinatedBy
+64238,,Self pollinated,,pollinatedBy

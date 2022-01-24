@@ -1,0 +1,96 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44540,3,Aves,Birds,eats
+44540,53738,Ocypode,Ghost Crabs,eats
+44540,6922,Anas,"Mallards, Pintails, and Allies",eats
+44540,47126,Plantae,plants,eats
+44540,44575,Rattus rattus,Black Rat,eats
+44540,44576,Rattus norvegicus,Brown Rat,eats
+44540,47158,Insecta,Insects,eats
+44540,48867,Arecaceae,palms,eats
+44540,,Invertebrata,,eats
+44540,,Embryophyta,,eats
+44540,135506,Prumnopitys taxifolia,Matai,eats
+44540,401924,Freycinetia banksii,Kiekie,eats
+44540,44705,Mus musculus,House Mouse,eats
+44540,,Dysoxylum spectabile,,eats
+44540,,Rallus,,eats
+44540,,dead birds etc. washed in from sea,,eats
+44540,,Eugeissona tristis,,eats
+44540,42051,Canis latrans,Coyote,eatenBy
+44540,42069,Vulpes vulpes,Red Fox,eatenBy
+44540,5163,Circus,Harriers,eatenBy
+44540,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+44540,1264432,Neogale vison,American Mink,eatenBy
+44540,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+44540,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44540,4956,Ardea herodias,Great Blue Heron,eatenBy
+44540,48268,Crotalus oreganus,Western Rattlesnake,eatenBy
+44540,20445,Tyto alba,Barn Owl,eatenBy
+44540,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44540,41595,Genetta tigrina,Cape Genet,eatenBy
+44540,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+44540,,Herpestes javanicus,,eatenBy
+44540,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+44540,922459,Felis silvestris,European Wildcat,eatenBy
+44540,41798,Martes americana,American Marten,eatenBy
+44540,41800,Martes foina,Stone Marten,eatenBy
+44540,41796,Martes martes,Eurasian Pine Marten,eatenBy
+44540,41975,Lynx pardinus,Iberian Lynx,eatenBy
+44540,74481,Leopardus geoffroyi,Geoffroy's Cat,eatenBy
+44540,41791,Martes flavigula,Yellow-throated Marten,eatenBy
+44540,41808,Mustela erminea,Eurasian Stoat,eatenBy
+44540,,Neovison vison,,eatenBy
+44540,922738,Prionailurus bengalensis,Mainland Leopard Cat,eatenBy
+44540,41967,Panthera tigris,Tiger,eatenBy
+44540,,Uncia uncia,,eatenBy
+44540,126155,Vespula germanica,German Yellowjacket,eatenBy
+44540,120921,Cochliomyia macellaria,Secondary Screwworm Fly,eatenBy
+44540,2464,Todiramphus sanctus,Sacred Kingfisher,eatenBy
+44540,107194,Notorynchus cepedianus,Broadnose Sevengill Shark,eatenBy
+44540,5355,Parabuteo unicinctus,Harris's Hawk,eatenBy
+44540,252531,Echidnophaga,Stick-tight Fleas,eatenBy
+44540,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+44540,6922,Anas,"Mallards, Pintails, and Allies",preysOn
+44540,,Rallus,,preysOn
+44540,5163,Circus,Harriers,preyedUponBy
+44540,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+44540,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+44540,29166,Oxyrhopus guibei,Guibe´s Flame Snake,preyedUponBy
+44540,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+44540,,Python sebae,,preyedUponBy
+44540,,Morelia amethistina,,preyedUponBy
+44540,32194,Liasis olivaceus,Olive Python,preyedUponBy
+44540,30487,Naja nivea,Cape Cobra,preyedUponBy
+44540,32191,Liasis fuscus,Water Python,preyedUponBy
+44540,32142,Antaresia maculosa,Spotted Python,preyedUponBy
+44540,30929,Vipera aspis,Asp Viper,preyedUponBy
+44540,68340,Elaphe quadrivirgata,Japanese Four-lined Ratsnake,preyedUponBy
+44540,94205,Antaresia childreni,Children's Python,preyedUponBy
+44540,32170,Morelia spilota variegata,Darwin Carpet Python,preyedUponBy
+44540,30253,Elaphe anomala,Korean Ratsnake,preyedUponBy
+44540,,Bothrochilus boa,,preyedUponBy
+44540,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy
+44540,,Morelia viridis,,preyedUponBy
+44540,,Naja melanoleuca,,preyedUponBy
+44540,31031,Ovophis okinavensis,Okinawa Pitviper,preyedUponBy
+44540,,Calabaria reinhardtii,,preyedUponBy
+44540,,Macrovipera schweizeri,,preyedUponBy
+44540,32131,Aspidites ramsayi,Woma Python,preyedUponBy
+44540,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+44540,35143,Pseudonaja nuchalis,Northern Brown Snake,preyedUponBy
+44540,,Oxyuranus scutellatus,,preyedUponBy
+44540,32116,Candoia bibroni,Bibron's Bevel-nosed Boa,preyedUponBy
+44540,35161,Pseudechis australis,Mulga Snake,preyedUponBy
+44540,146263,Malpolon insignitus insignitus,,preyedUponBy
+44540,,Malpolon insignitus,,preyedUponBy
+44540,,Dendroaspis polylepis,,preyedUponBy
+44540,32113,Candoia aspera,New Guinea ground boa,preyedUponBy
+44540,,Pseudonaja ingrami,,preyedUponBy
+44540,35140,Pseudonaja textilis,Eastern Brown Snake,preyedUponBy
+44540,35172,Oxyuranus microlepidotus,Fierce Snake,preyedUponBy
+44540,30853,Bitis gabonica,Gaboon Viper,preyedUponBy
+44540,27035,Hierophis viridiflavus carbonarius,,preyedUponBy
+44540,32110,Candoia carinata,Pacific Boa,preyedUponBy
+44540,20306,Asio,Eared Owls and Allies,preyedUponBy
+44540,,Pteropus niger,,preyedUponBy
+44540,,Acanthophis praelongus,,preyedUponBy

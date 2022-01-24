@@ -1,0 +1,76 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50298,50298,Fragaria vesca,wild strawberry,eats
+50298,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+50298,42069,Vulpes vulpes,Red Fox,eatenBy
+50298,14850,Sturnus vulgaris,European Starling,eatenBy
+50298,13858,Passer domesticus,House Sparrow,eatenBy
+50298,309466,Aphis gossypii,Melon Aphid,eatenBy
+50298,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+50298,211345,Stigmella,,eatenBy
+50298,50298,Fragaria vesca,wild strawberry,eatenBy
+50298,,Serinus serinus,,eatenBy
+50298,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+50298,13094,Erithacus rubecula,European Robin,eatenBy
+50298,793469,Regulus regulus,Goldcrest,eatenBy
+50298,,Turdus iliacus,,eatenBy
+50298,12748,Turdus philomelos,Song Thrush,eatenBy
+50298,12716,Turdus merula,Eurasian Blackbird,eatenBy
+50298,12735,Turdus viscivorus,Mistle Thrush,eatenBy
+50298,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+50298,,Carduelis carduelis,,eatenBy
+50298,,Garrulus glandarius,,eatenBy
+50298,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+50298,15302,Sylvia borin,Garden Warbler,eatenBy
+50298,,Sylvia cantillans,,eatenBy
+50298,13141,Monticola solitarius,Blue Rock-Thrush,eatenBy
+50298,,Phoenicurus phoenicurus,,eatenBy
+50298,,Phoenicurus ochruros,,eatenBy
+50298,41800,Martes foina,Stone Marten,eatenBy
+50298,,Luscinia megarhynchos,,eatenBy
+50298,,Ficedula hypoleuca,,eatenBy
+50298,,Sylvia communis,,eatenBy
+50298,891696,Pica pica,Eurasian Magpie,eatenBy
+50298,855297,Meles meles,European Badger,eatenBy
+50298,15303,Sylvia undata,Dartford Warbler,eatenBy
+50298,,Oriolus oriolus,,eatenBy
+50298,55371,Saxicola torquatus,African Stonechat,eatenBy
+50298,43042,Erinaceus europaeus,Common Hedgehog,eatenBy
+50298,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+50298,,Sylvia melanocephala,,eatenBy
+50298,,Sylvia,,eatenBy
+50298,41796,Martes martes,Eurasian Pine Marten,eatenBy
+50298,41641,Ursus arctos,Brown Bear,eatenBy
+50298,42048,Canis lupus,Gray Wolf,eatenBy
+50298,,Cervus elaphus,,eatenBy
+50298,42134,Sus scrofa,Wild Boar,eatenBy
+50298,,Capreolus capreolus,,eatenBy
+50298,,Alces alces,,eatenBy
+50298,42407,Bison bonasus,European Bison,eatenBy
+50298,,Passer montanus,,eatenBy
+50298,,Poecile palustris,,eatenBy
+50298,,Coccothraustes coccothraustes,,eatenBy
+50298,,Columba palumbus,,eatenBy
+50298,204496,Corvus corone,Carrion Crow,eatenBy
+50298,,Sylvia curruca,,eatenBy
+50298,144812,Poecile montanus,Willow Tit,eatenBy
+50298,145360,Chloris chloris,European Greenfinch,eatenBy
+50298,12707,Turdus pilaris,Fieldfare,eatenBy
+50298,,Cyanistes caeruleus,,eatenBy
+50298,,Parus major,,eatenBy
+50298,1040783,Pyrgus,Grizzled Skippers,eatenBy
+50298,332693,Pyrgus armoricanus,Oberthür's grizzled skipper,eatenBy
+50298,,Mormo maura,,eatenBy
+50298,,Myodes glareolus,,eatenBy
+50298,,Apodemus sylvaticus,,eatenBy
+50298,,Harpalus rufipes,,eatenBy
+50298,,Anthonomus rubi,,eatenBy
+50298,,Parornix anglicella,,eatenBy
+50298,,Incurvaria praelatella,,eatenBy
+50298,,Ectoedemia arcuatella,,eatenBy
+50298,,Stigmella splendidissimella,,eatenBy
+50298,,Stigmella aeneofasciella,,eatenBy
+50298,,Acleris comariana,,eatenBy
+50298,57674,Osmia,Mason Bees,pollinatedBy
+50298,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+50298,130222,Bombus melanopygus,Black-tailed Bumble Bee,pollinatedBy
+50298,,Heriades gracilior,,pollinatedBy

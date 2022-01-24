@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54964,47126,Plantae,plants,eats
+54964,4209,Podiceps auritus,Horned Grebe,eatenBy
+54964,17356,Vireo bellii,Bell's Vireo,eatenBy
+54964,17355,Vireo,Vireos,eatenBy
+54964,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+54964,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+54964,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+54964,11867,Progne subis,Purple Martin,eatenBy
+54964,9919,Piranga ludoviciana,Western Tanager,eatenBy
+54964,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+54964,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+54964,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+54964,5017,Bubulcus ibis,Cattle Egret,eatenBy
+54964,,Salpinctes obsoletus,,eatenBy
+54964,,Vireo flavifrons,,eatenBy
+54964,17394,Vireo gilvus,Warbling Vireo,eatenBy
+54964,,Picoides villosus,,eatenBy
+54964,,Picoides pubescens,,eatenBy
+54964,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+54964,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+54964,,Picoides dorsalis,,eatenBy
+54964,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+54964,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+54964,6667,Cypseloides niger,Black Swift,eatenBy
+54964,51900,Hypochaeris,Cat's-Ears,pollinates
+54964,,Thymophylla tephroleuca,,pollinates
+54964,47951,Staphylinidae,Rove Beetles,preyedUponBy
+54964,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+54964,52932,Cantharidae,Soldier Beetles,preyedUponBy
+54964,,Cerceris fumipennis,,preyedUponBy
+54964,496759,Geophilus insculptus,,preyedUponBy
+54964,739596,Lithobius mutabilis,,preyedUponBy
+54964,121773,Clubionidae,Sac Spiders,preyedUponBy
+54964,,Geophilus ribauti,,preyedUponBy
+54964,359911,Staphylininae,,preyedUponBy
+54964,491325,Geophilus electricus,,preyedUponBy
+54964,784149,Diplocephalus picinus,,preyedUponBy
+54964,,Lithobius,,preyedUponBy
+54964,490816,Neobisium,,preyedUponBy
+54964,131880,Notiophilus biguttatus,,preyedUponBy
+54964,,Microlinyphia pusilla,,preyedUponBy
+54964,1004280,Othius subuliformis,,preyedUponBy
+54964,127023,Amaurobius,Lace web spider,preyedUponBy
+54964,568199,Lithobius curtipes,,preyedUponBy
+54964,,Campodea,,preyedUponBy
+54964,41077,Phyllostomus discolor,pale spear-nosed bat,preyedUponBy
+54964,41254,Molossus molossus,Velvety Free-tailed Bat,preyedUponBy
+54964,40569,Nycticeius humeralis,Evening Bat,preyedUponBy

@@ -1,0 +1,116 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+39672,1,Animalia,Animals,eats
+39672,47534,Cnidaria,Cnidarians,eats
+39672,47126,Plantae,plants,eats
+39672,144117,Thecostraca,Barnacles and Allies,eats
+39672,47178,Actinopterygii,Ray-finned Fishes,eats
+39672,47115,Mollusca,Molluscs,eats
+39672,53461,Ostrea,,eats
+39672,85493,Crustacea,Crustaceans,eats
+39672,130178,Sargassum,Sargassum,eats
+39672,117305,Physalia,Man O' Wars,eats
+39672,47811,Ascidiacea,Sea Squirts,eats
+39672,54644,Ulva,sea lettuces,eats
+39672,117668,Pleuroncodes,,eats
+39672,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+39672,246134,Oegopsida,Pelagic Squids,eats
+39672,50862,Codium,Codiums,eats
+39672,47459,Cephalopoda,Cephalopods,eats
+39672,48824,Porifera,Sponges,eats
+39672,47533,Anthozoa,Sea Anemones and Corals,eats
+39672,48919,Littorina,Periwinkles,eats
+39672,47549,Echinodermata,Echinoderms,eats
+39672,507906,Tritia,,eats
+39672,121656,Janthina,Violet Snails,eats
+39672,51104,Thaliacea,Thaliaceans,eats
+39672,130046,Xestospongia muta,Giant Barrel Sponge,eats
+39672,131711,Aplysina cauliformis,Row Pore Rope Sponge,eats
+39672,,Palythoa mammillosa,,eats
+39672,,Petrosia pellasarca,,eats
+39672,131722,Mycale laxissima,Strawberry Vase Sponge,eats
+39672,132482,Zoanthus pulchellus,Mat Zoanthid,eats
+39672,,Epizoanthus minutus,,eats
+39672,,Spheciospongia vesparium,,eats
+39672,342244,Clathrina coriacea,,eats
+39672,424550,Cribrochalina vasculum,Brown Bowl Sponge,eats
+39672,,Dictyonella arenosa,,eats
+39672,,Gelliodes ramosa,,eats
+39672,,Isaurus duchassaingi,,eats
+39672,128176,Parazoanthus swiftii,Golden Zoanthid,eats
+39672,941629,Verongula reiswigi,,eats
+39672,128889,Neofibularia nolitangere,Touch-me-not Sponge,eats
+39672,131713,Aiolochroia crassa,Branching Tube Sponge,eats
+39672,128178,Parazoanthus,,eats
+39672,,Epizoanthus cutressi,,eats
+39672,,Strongylacidon griseum,,eats
+39672,991083,Cribrochalina dura,,eats
+39672,,Neopetrosia rosariensis,,eats
+39672,62615,Cliona,,eats
+39672,324157,Palythoa caribaeorum,Caribbean Sea Mat,eats
+39672,246870,Craniella,,eats
+39672,,Parazoanthus parasiticus,,eats
+39672,732791,Palythoa grandis,,eats
+39672,,Palythoa caribbea,,eats
+39672,491471,Isaurus tuberculatus,Knobbly Zoanthid,eats
+39672,564848,Zoanthus sociatus,,eats
+39672,131696,Ircinia campana,Vase Garlic Sponge,eats
+39672,131703,Aplysina lacunosa,,eats
+39672,,Parazoanthus puertoricense,,eats
+39672,,Dictyonella funicularis,,eats
+39672,372228,Chondrilla nucula,Potato Sponge,eats
+39672,131705,Aplysina fistularis,Yellow Tube Sponge,eats
+39672,131796,Iotrochota birotulata,Green Finger Sponge,eats
+39672,,Palythoa fusca,,eats
+39672,,Neopetrosia subtriangularis,,eats
+39672,131728,Tectitethya crypta,,eats
+39672,,Parazoanthus tunicans,,eats
+39672,131695,Ircinia felix,Stinker Sponge,eats
+39672,131699,Hyrtios violaceus,,eats
+39672,131702,Verongula rigida,Pitted Sponge,eats
+39672,293248,Smenospongia aurea,,eats
+39672,54439,Zoanthus,,eats
+39672,129663,Verongula gigantea,Netted Barrel Sponge,eats
+39672,131700,Cervicornia cuspidifera,,eats
+39672,131681,Agelas dispar,,eats
+39672,1020156,Zoanthus solanderi,,eats
+39672,,Xestospongia portoricensis,,eats
+39672,,Geodia papyracea,,eats
+39672,128181,Aplysina fulva,Scattered Pore Rope Sponge,eats
+39672,131692,Igernella notabilis,Strawberry Sponge,eats
+39672,128187,Geodia neptuni,Leathery Barrel Sponge,eats
+39672,918644,Palythoa variabilis,,eats
+39672,131743,Amphimedon erina,,eats
+39672,131701,Cliona varians,,eats
+39672,1075725,Dysidea janiae,,eats
+39672,,Verongula ardis,,eats
+39672,,Unspemcified Steganoporella,,eats
+39672,,Medusozoa,,eats
+39672,,Unspecified Amtria,,eats
+39672,50380,Cymodocea,,eats
+39672,,Palythoa caribbaeorum,,eats
+39672,,Pinna,,eats
+39672,,Gnathostomata,,eats
+39672,,Unspecified Aglaophemiidae,,eats
+39672,,Anemonia sulcata,,eats
+39672,252869,Siphonophora,,eats
+39672,326068,Inachus,,eats
+39672,60338,Rhizophora,true mangroves,eats
+39672,,Demospongia,,eats
+39672,378098,Taonius,,eats
+39672,,Vellela,,eats
+39672,246428,Histioteuthis,,eats
+39672,100110,Epinephelus itajara,Atlantic Goliath Grouper,eatenBy
+39672,117305,Physalia,Man O' Wars,preysOn
+39672,128176,Parazoanthus swiftii,Golden Zoanthid,preysOn
+39672,131681,Agelas dispar,,preysOn
+39672,1020156,Zoanthus solanderi,,preysOn
+39672,,Palythoa caribbaeorum,,preysOn
+39672,564848,Zoanthus sociatus,,preysOn
+39672,,Anemonia sulcata,,preysOn
+39672,128187,Geodia neptuni,Leathery Barrel Sponge,preysOn
+39672,131728,Tectitethya crypta,,preysOn
+39672,372228,Chondrilla nucula,Potato Sponge,preysOn
+39672,428782,Ricordea florida,,preysOn
+39672,293242,Spirastrella coccinea,,preysOn
+39672,30131,Cubophis cantherigerus,Cuban Racer,preyedUponBy
+39672,,no name,,preyedUponBy

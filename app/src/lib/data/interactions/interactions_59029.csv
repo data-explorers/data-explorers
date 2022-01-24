@@ -1,0 +1,65 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59029,50931,Strymon melinus,Gray Hairstreak,eatenBy
+59029,338310,Allograpta exotica,Exotic Streaktail,eatenBy
+59029,128670,Bombus vagans,Half-black Bumble Bee,eatenBy
+59029,129305,Melanoplus bivittatus,Two-striped Grasshopper,eatenBy
+59029,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+59029,,Occidryas chalcedona,,eatenBy
+59029,,Melitaea trivia,,eatenBy
+59029,,Capreolus capreolus italicus,,eatenBy
+59029,,Cionus longicollis,,eatenBy
+59029,,Cleopus pulchellus,,eatenBy
+59029,,Cionus nigritarsis,,eatenBy
+59029,,Cionus hortulanus,,eatenBy
+59029,,Phomopsis verbasci,,eatenBy
+59029,,Spermophilus columbianus,,eatenBy
+59029,,Boeotarcha hyalinalis,,eatenBy
+59029,,Didymaeformia,,eatenBy
+59029,,Papaipema nebris,,eatenBy
+59029,,Trabala vishnou,,eatenBy
+59029,,Cosmopepla lintneriana,,eatenBy
+59029,,Aphis verbasci,,eatenBy
+59029,18921,Platycercus elegans,Crimson Rosella,eatenBy
+59029,130878,Anthrax,Charcoal Bee Flies,pollinatedBy
+59029,82269,Crambus,,pollinatedBy
+59029,,Gnathias,,pollinatedBy
+59029,,Hister,,pollinatedBy
+59029,,Empis pudica,,pollinatedBy
+59029,198952,Calliopsis andreniformis,Eastern Miner Bee,pollinatedBy
+59029,,Scolia nobilitata,,pollinatedBy
+59029,,Spallanzania hesperidarum,,pollinatedBy
+59029,130121,Chrysis,,pollinatedBy
+59029,,Alydus pilosulus,,pollinatedBy
+59029,,Megaselia fungicola,,pollinatedBy
+59029,,Ichneumon longulus,,pollinatedBy
+59029,,Phorbia,,pollinatedBy
+59029,,Sinophorus furus,,pollinatedBy
+59029,,Dolerus aprilis,,pollinatedBy
+59029,,Anthemurgus passiflorae,,pollinatedBy
+59029,,Apallates coxendix,,pollinatedBy
+59029,,Biomyia,,pollinatedBy
+59029,1029923,Eucera belfragei,,pollinatedBy
+59029,,Porizon,,pollinatedBy
+59029,,Gnadochaeta clistoides,,pollinatedBy
+59029,,Leionotus,,pollinatedBy
+59029,,Cordylura munda,,pollinatedBy
+59029,,Uranotes,,pollinatedBy
+59029,,Trachandrena,,pollinatedBy
+59029,,Andrena carlini,,pollinatedBy
+59029,452939,Triepeolus remigatus,Squash Longhorn-Cuckoo,pollinatedBy
+59029,452831,Mydaea,,pollinatedBy
+59029,,Bombus pascuorum,,pollinatedBy
+59029,,,,pollinatedBy
+59029,,Apion rufirostre ,,pollinatedBy
+59029,,Clytus arietis,,pollinatedBy
+59029,,Adscita statices,,pollinatedBy
+59029,177092,Meligethes,,pollinatedBy
+59029,,Olibrus aeneus ,,pollinatedBy
+59029,,Maniola jurtina,,pollinatedBy
+59029,,Undefined sp26 M_PL_018,,pollinatedBy
+59029,,Undefined sp15 M_PL_018,,pollinatedBy
+59029,,Undefined sp18 M_PL_018,,pollinatedBy
+59029,,Undefined sp14 M_PL_018,,pollinatedBy
+59029,,Undefined sp23 M_PL_018,,pollinatedBy
+59029,,Self pollinated,,pollinatedBy
+59029,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

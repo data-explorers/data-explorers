@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49411,,Osteichthyes,,eats
+49411,,Gnathostomata,,eats
+49411,51550,Seriola lalandi,Yellowtail Kingfish,eatenBy
+49411,51549,Seriola dumerili,Greater Amberjack,eatenBy
+49411,69676,Thunnus,Bluefin Tunas,eatenBy
+49411,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+49411,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49411,4537,Anous minutus,Black Noddy,eatenBy
+49411,4566,Gygis alba,White Tern,eatenBy
+49411,96072,Brotula clarkae,,eatenBy
+49411,82330,Caranx ruber,Bar Jack,eatenBy
+49411,49509,Lutjanus griseus,Grey Snapper,eatenBy
+49411,101176,Galeorhinus galeus,School Shark,eatenBy
+49411,96737,Carangoides otrynter,Threadfin Jack,eatenBy
+49411,49746,Epinephelus striatus,Nassau Grouper,eatenBy
+49411,41738,Zalophus wollebaeki,Galápagos Sea Lion,eatenBy
+49411,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+49411,179478,Priacanthus arenatus,Bigeye,eatenBy
+49411,83439,Centropristis striata,Black Sea Bass,eatenBy
+49411,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+49411,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+49411,108196,Pagrus pagrus,Red Porgy,eatenBy
+49411,96766,Carcharhinus signatus,Night Shark,eatenBy
+49411,96745,Carcharhinus acronotus,Blacknose Shark,eatenBy
+49411,92191,Squatina,Angel Sharks,eatenBy
+49411,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+49411,179482,Porichthys plectrodon,Atlantic Midshipman,eatenBy
+49411,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+49411,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49411,49421,Diplectrum formosum,Sand Perch,eatenBy

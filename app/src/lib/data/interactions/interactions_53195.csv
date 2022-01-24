@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53195,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+53195,55655,Lycaena phlaeas,Small Copper,eatenBy
+53195,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+53195,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+53195,199840,Haemorhous mexicanus,House Finch,eatenBy
+53195,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+53195,1409,Callipepla californica,California Quail,eatenBy
+53195,73044,Melozone crissalis,California Towhee,eatenBy
+53195,9100,Melospiza melodia,Song Sparrow,eatenBy
+53195,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+53195,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+53195,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+53195,,Ametastegia equiseti,,eatenBy
+53195,,Celastrina argiolus,,eatenBy
+53195,,Clepsis persicana,,eatenBy
+53195,637649,Tortrix capensana,,eatenBy
+53195,,Chamaesphecia corsica,,eatenBy
+53195,,Enteucha acetosae,,eatenBy
+53195,,Acronicta euphorbiae,,eatenBy
+53195,,Lycaena virgaureae,,eatenBy
+53195,,Lycaena cuprea,,eatenBy
+53195,,Eupithecia centaureata,,eatenBy
+53195,,Aroga velocella,,eatenBy
+53195,,Teleiopsis diffinis,,eatenBy
+53195,,Chionodes ochreostrigella,,eatenBy
+53195,875490,Neofriseria peliella,,eatenBy
+53195,,Lycaena hippothoe,,eatenBy
+53195,,Lycaena tityrus,,eatenBy
+53195,,Myzus persicae,,eatenBy
+53195,,Bos taurus,,eatenBy
+53195,,Brachycaudus helichrysi,,eatenBy
+53195,547586,Apion cruentatum,,eatenBy
+53195,,Apion haematodes,,eatenBy
+53195,,Perapion (Perapion) curtirostre,,eatenBy
+53195,,Cryptocephalus fulvus,,eatenBy
+53195,,Cryptocephalus labiatus,,eatenBy
+53195,,Cryptocephalus exiguus,,eatenBy
+53195,,Helotium consobrinum,,eatenBy
+53195,,Mollisia polygoni var. rumicis,,eatenBy
+53195,,Coreus marginatus,,eatenBy
+53195,,Spathocera dalmanii,,eatenBy
+53195,547755,Coniocleonus hollbergii,,eatenBy
+53195,,Rhinoncus castor,,eatenBy
+53195,,Mantura chrysanthemi,,eatenBy
+53195,,Spermophilus columbianus,,eatenBy
+53195,7176,Chenonetta jubata,Australian Wood Duck,eatenBy
+53195,,Zonotrichia atricapilla,,eatenBy
+53195,,Zonotrichia leucophrys,,eatenBy
+53195,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+53195,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+53195,145360,Chloris chloris,European Greenfinch,eatenBy
+53195,7072,Tadorna variegata,Paradise Shelduck,eatenBy
+53195,47219,Apis mellifera,Western Honey Bee,pollinatedBy

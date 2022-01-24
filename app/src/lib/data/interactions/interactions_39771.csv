@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+39771,47120,Arthropoda,Arthropods,eats
+39771,,Pimephales notatus,,eats
+39771,42069,Vulpes vulpes,Red Fox,eatenBy
+39771,41663,Procyon lotor,Common Raccoon,eatenBy
+39771,41777,Lontra canadensis,North American River Otter,eatenBy
+39771,,Mustela vison,,eatenBy
+39771,,Aquila chrysaetos,,eatenBy
+39771,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy

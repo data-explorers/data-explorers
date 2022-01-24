@@ -1,0 +1,68 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47213,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+47213,13858,Passer domesticus,House Sparrow,eatenBy
+47213,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+47213,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47213,8229,Cyanocitta cristata,Blue Jay,eatenBy
+47213,9602,Quiscalus quiscula,Common Grackle,eatenBy
+47213,,Sceloporus occidentalis longipes,,eatenBy
+47213,5416,Ictinia mississippiensis,Mississippi Kite,eatenBy
+47213,4664,Falco rufigularis,Bat Falcon,eatenBy
+47213,,Megaderma spasma,,eatenBy
+47213,20781,Trogon elegans,Elegant Trogon,eatenBy
+47213,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+47213,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47213,79109,Silene latifolia,white campion,pollinates
+47213,58931,Trichostema lanatum,woolly bluecurls,pollinates
+47213,47452,Acacia,wattles,pollinates
+47213,61875,Styrax,snowbells,pollinates
+47213,,Oenothera cespitosa,,pollinates
+47213,119302,Agave parryi,Parry's agave,pollinates
+47213,189971,Brunfelsia portoricensis,Puerto Rican raintree,pollinates
+47213,,Aquilegia coerulea,,pollinates
+47213,76630,Delphinium nuttallianum,Nuttall's larkspur,pollinates
+47213,,Lonicera caprifolium,,pollinates
+47213,55721,Silene vulgaris,bladder campion,pollinates
+47213,77834,Lonicera etrusca,Etruscan Honeysuckle,pollinates
+47213,343974,Brunfelsia lactea,vega blanca,pollinates
+47213,430748,Brunfelsia densifolia,Sepentine Hill raintree,pollinates
+47213,76158,Catalpa speciosa,northern catalpa,pollinates
+47213,127264,Zephyranthes atamasco,Atamasco Lily,pollinates
+47213,75995,Campsis radicans,American trumpet vine,pollinates
+47213,,Manfreda brachystacha,,pollinates
+47213,,Manfreda virginica,,pollinates
+47213,166302,Peniocereus greggii,nightblooming cereus,pollinates
+47213,242038,Peniocereus greggii transmontanus,Arizona queen of the night,pollinates
+47213,843596,Aliciella haydenii,San Juan Gilia,pollinates
+47213,48031,Platanthera,,pollinates
+47213,,Caesalpinia gilliesii,,pollinates
+47213,53802,Abronia umbellata breviflora,Pink Sand Verbena,pollinates
+47213,,Brighamia rockii,,pollinates
+47213,159450,Brighamia insignis,'ōlulu,pollinates
+47213,121784,Aquilegia chrysantha,golden columbine,pollinates
+47213,165798,Oenothera harringtonii,,pollinates
+47213,54639,Platanthera chlorantha,Greater butterfly-orchid,pollinates
+47213,,Platanthera bifolia,,pollinates
+47213,131610,Gymnadenia conopsea,Fragrant Orchid,pollinates
+47213,13858,Passer domesticus,House Sparrow,preyedUponBy
+47213,1986,Geococcyx californianus,Greater Roadrunner,preyedUponBy
+47213,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+47213,,Macrotus,,preyedUponBy
+47213,41146,Macrotus waterhousii,Waterhouse's Leaf-nosed Bat,preyedUponBy
+47213,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+47213,41070,Micronycteris hirsuta,hairy big-eared bat,preyedUponBy
+47213,41031,Platyrrhinus lineatus,White-lined Broad-nosed Bat,preyedUponBy
+47213,,Artibeus jamaicensis,,preyedUponBy
+47213,,Artibeus lituratus,,preyedUponBy
+47213,41254,Molossus molossus,Velvety Free-tailed Bat,preyedUponBy
+47213,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+47213,,Plecotus auritus,,preyedUponBy
+47213,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+47213,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy
+47213,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+47213,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+47213,851034,Doryrhina cyclops,Cyclops roundleaf bat,preyedUponBy
+47213,16956,Pitangus sulphuratus,Great Kiskadee,preyedUponBy
+47213,,Megaderma spasma,,preyedUponBy
+47213,,Zanclostomus curvirostris,,preyedUponBy
+47213,1979,Guira guira,Guira Cuckoo,preyedUponBy

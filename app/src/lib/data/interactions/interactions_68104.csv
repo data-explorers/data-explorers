@@ -1,0 +1,221 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68104,47490,Polychaeta,Polychaete Worms,eats
+68104,51021,Dictyota,Y-branched Algae,eats
+68104,54644,Ulva,sea lettuces,eats
+68104,,Zooplankton,,eats
+68104,,Phytoplankton,,eats
+68104,,no name,,eats
+68104,,Detritus,,eats
+68104,,Microfauna,,eats
+68104,,plankton,,eats
+68104,1007746,Liagora ceranoides,,eats
+68104,415041,Cladophora vagabunda,,eats
+68104,703743,Codium prostratum,,eats
+68104,503019,Hormophysa cuneiformis,,eats
+68104,607747,Ceratodictyon,,eats
+68104,,Jania intermedia,,eats
+68104,828842,Chondria armata,,eats
+68104,67675,Hypnea,,eats
+68104,1180401,Gracilaria corticata,,eats
+68104,131381,Griffithsia,,eats
+68104,50926,Caulerpa racemosa,Sea Grapes,eats
+68104,208547,Neomeris vanbosseae,,eats
+68104,706056,Laurencia pumila,,eats
+68104,131319,Dictyosphaeria cavernosa,,eats
+68104,,Osmundaria melvillii,,eats
+68104,,Valonia macrophysa,,eats
+68104,,Gelidium sp.,,eats
+68104,201264,Bryopsis pennata,,eats
+68104,1131124,Sargassum aquifolium,,eats
+68104,322731,Sargassum polycystum,,eats
+68104,,Chamaedoris delphinii,,eats
+68104,,Gracilaria truncata,,eats
+68104,559953,Halimeda cuneata,Wedgeweed,eats
+68104,326163,Halimeda tuna,Pennyweed,eats
+68104,67676,Gracilaria salicornia,Gorilla ogo,eats
+68104,,Pneophyllum amplexifrons,,eats
+68104,,PhytoP,,eats
+68104,327063,Dichotomaria marginata,,eats
+68104,,Dictyopteris longifolia,,eats
+68104,,Plocamium sp.,,eats
+68104,356459,Chnoospora minima,,eats
+68104,354676,Hydroclathrus clathratus,,eats
+68104,942428,Canistrocarpus cervicornis,,eats
+68104,768613,Polycladia myrica,,eats
+68104,,Padina boryana,,eats
+68104,706047,Laurencia flexuosa,,eats
+68104,416332,Splachnidium rugosum,Deadman's Fingers,eats
+68104,706036,Caulerpa zeyheri,,eats
+68104,907001,Caulerpa denticulata,,eats
+68104,700614,Codium lucasii,,eats
+68104,1266342,Valoniopsis pachynema,,eats
+68104,824521,Gelidiella acerosa,,eats
+68104,706028,Pseudocodium devriesii,,eats
+68104,142076,Acrosorium,,eats
+68104,47490,Polychaeta,Polychaete Worms,eatenBy
+68104,47825,Pycnogonida,Pycnogonids,eatenBy
+68104,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+68104,47186,Decapoda,Decapods,eatenBy
+68104,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+68104,47114,Gastropoda,Gastropods,eatenBy
+68104,47668,Asteroidea,Sea Stars,eatenBy
+68104,47628,Amphipoda,Amphipods,eatenBy
+68104,39657,Cheloniidae,Typical Sea Turtles,eatenBy
+68104,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,eatenBy
+68104,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+68104,64148,Diodora aspera,Rough Keyhole Limpet,eatenBy
+68104,121181,Calliostoma annulatum,Jeweled Top Snail,eatenBy
+68104,39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,eatenBy
+68104,103601,Jasus edwardsii,Southern Rock Lobster,eatenBy
+68104,132473,Lagodon rhomboides,Pinfish,eatenBy
+68104,48645,Megathura crenulata,Giant Keyhole Limpet,eatenBy
+68104,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+68104,48830,Patiria miniata,Bat Star,eatenBy
+68104,49051,Anthopleura sola,Sunburst Anemone,eatenBy
+68104,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+68104,118597,Belone belone,Garfish,eatenBy
+68104,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+68104,49275,Cantherhines pullus,Orangespotted Filefish,eatenBy
+68104,47235,Holacanthus ciliaris,Queen Angelfish,eatenBy
+68104,49262,Haemulon sciurus,Bluestriped Grunt,eatenBy
+68104,47428,Neoloricata,Neoloricate Chitons,eatenBy
+68104,49953,Haemulon album,White Margate,eatenBy
+68104,55295,Grapsus grapsus,Sally Lightfoot Crab,eatenBy
+68104,67990,Scaphopoda,Tusk Shells,eatenBy
+68104,,Leptasterias,,eatenBy
+68104,63384,Dermasterias,,eatenBy
+68104,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+68104,326443,Hexaplex trunculus,Banded Dye-murex,eatenBy
+68104,471092,Lithodes murrayi,Subantarctic Stone Crab,eatenBy
+68104,746066,Paralomis granulosa,False King Crab,eatenBy
+68104,41766,Odobenus rosmarus,Walrus,eatenBy
+68104,41720,Erignathus barbatus,Bearded Seal,eatenBy
+68104,428652,Turbo marmoratus,Green Turban,eatenBy
+68104,131859,Eucidaris metularia,Ten-lined Urchin,eatenBy
+68104,53739,Cancer irroratus,Atlantic Rock Crab,eatenBy
+68104,369153,Penaeus esculentus,Brown Tiger Prawn,eatenBy
+68104,,Melicertus kerathurus,,eatenBy
+68104,,Sicyonia brevirostris,,eatenBy
+68104,56649,Haliotis cracherodii,Black Abalone,eatenBy
+68104,495552,Hermissenda crassicornis,Thick-horned Nudibranch,eatenBy
+68104,,Jasus tristani,,eatenBy
+68104,106881,Nephrops norvegicus,Norway lobster,eatenBy
+68104,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+68104,,Crossaster papposus,,eatenBy
+68104,293174,Mediaster aequalis,Vermilion Star,eatenBy
+68104,50090,Polycera tricolor,Three-color Polycera,eatenBy
+68104,432457,Illex argentinus,Argentine Shortfin Squid,eatenBy
+68104,41541,Grampus griseus,Risso's Dolphin,eatenBy
+68104,61383,Homarus americanus,American Lobster,eatenBy
+68104,47299,Panulirus argus,Caribbean Spiny Lobster,eatenBy
+68104,260410,Menippe nodifrons,Cuban Stone Crab,eatenBy
+68104,108355,Panulirus echinatus,Brown spiny lobster,eatenBy
+68104,,Chionoecetes japonicus,,eatenBy
+68104,123807,Paralithodes camtschaticus,Red King Crab,eatenBy
+68104,361770,Chionoecetes opilio,Snow Crab,eatenBy
+68104,361714,Erimacrus isenbeckii,Horsehair Crab,eatenBy
+68104,123806,Paralithodes platypus,,eatenBy
+68104,571229,Bathynomus giganteus,Giant Isopod,eatenBy
+68104,260571,Hepatus pudibundus,,eatenBy
+68104,195286,Callinectes arcuatus,Arched Swimming Crab,eatenBy
+68104,295305,Callinectes ornatus,Ornate Blue Crab,eatenBy
+68104,295304,Callinectes similis,Lesser Blue Crab,eatenBy
+68104,543493,Odontaster validus,Antarctic starfish,eatenBy
+68104,1171863,Ophiosparte gigas,,eatenBy
+68104,813794,Austrodecus curtipes,,eatenBy
+68104,394773,Pentanymphon antarcticum,,eatenBy
+68104,,Nauticaris marionis,,eatenBy
+68104,,Gnathiphimedia mandibularis,,eatenBy
+68104,41731,Leptonychotes weddellii,Weddell Seal,eatenBy
+68104,533716,Labidiaster annulatus,,eatenBy
+68104,53607,Polynoidae,Scaleworms,eatenBy
+68104,224186,Lycodes esmarkii,Esmark's Eelpout,eatenBy
+68104,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+68104,63740,Gadus morhua,Atlantic Cod,eatenBy
+68104,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+68104,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+68104,430553,Merlangius merlangus,Whiting,eatenBy
+68104,,Trigla lucerna,,eatenBy
+68104,69989,Rutilus rutilus,Common Roach,eatenBy
+68104,608841,Entomocorus radiosus,,eatenBy
+68104,,Haplochromis pundamilia,,eatenBy
+68104,,Haplochromis mbipi,,eatenBy
+68104,491991,Caquetaia kraussii,Krauss' Basketmouth,eatenBy
+68104,612681,Dawkinsia singhala,,eatenBy
+68104,,Gaidropsarus capensis,,eatenBy
+68104,609244,Chatrabus felinus,pleated toadfish,eatenBy
+68104,179561,Bothus robinsi,Twospot Flounder,eatenBy
+68104,213518,Anarhichas denticulatus,Northern Wolffish,eatenBy
+68104,338049,Parablennius pilicornis,Ringneck Blenny,eatenBy
+68104,118665,Diplodus annularis,Annular Seabream,eatenBy
+68104,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+68104,541858,Eleginops maclovinus,Patagonian Blenny,eatenBy
+68104,,Theragra chalcogramma,,eatenBy
+68104,107570,Oncorhynchus gorbuscha,Pink Salmon,eatenBy
+68104,47490,Polychaeta,Polychaete Worms,preysOn
+68104,,Microfauna,,preysOn
+68104,,Zooplankton,,preysOn
+68104,48645,Megathura crenulata,Giant Keyhole Limpet,preyedUponBy
+68104,48830,Patiria miniata,Bat Star,preyedUponBy
+68104,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+68104,49051,Anthopleura sola,Sunburst Anemone,preyedUponBy
+68104,47825,Pycnogonida,Pycnogonids,preyedUponBy
+68104,47490,Polychaeta,Polychaete Worms,preyedUponBy
+68104,117537,Hemilepidotus spinosus,Brown Irish lord,preyedUponBy
+68104,107570,Oncorhynchus gorbuscha,Pink Salmon,preyedUponBy
+68104,68596,Hexagrammos decagrammus,Kelp Greenling,preyedUponBy
+68104,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+68104,107572,Oncorhynchus keta,Chum Salmon,preyedUponBy
+68104,117558,Hypsurus caryi,Rainbow Seaperch,preyedUponBy
+68104,64455,Sebastes carnatus,Gopher Rockfish,preyedUponBy
+68104,111616,Rhacochilus vacca,Pile surfperch,preyedUponBy
+68104,56649,Haliotis cracherodii,Black Abalone,preyedUponBy
+68104,,Cypraea spadicea,,preyedUponBy
+68104,52552,Oxyjulis californica,senorita,preyedUponBy
+68104,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+68104,53693,Hypsypops rubicundus,Garibaldi,preyedUponBy
+68104,53699,Semicossyphus pulcher,California sheephead,preyedUponBy
+68104,117553,Brachyistius frenatus,Kelp Surfperch,preyedUponBy
+68104,102081,Halichoeres semicinctus,Rock Wrasse,preyedUponBy
+68104,117555,Embiotoca lateralis,Striped surfperch,preyedUponBy
+68104,117554,Embiotoca jacksoni,Black surfperch,preyedUponBy
+68104,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,preyedUponBy
+68104,108547,Paralabrax clathratus,Kelp Bass,preyedUponBy
+68104,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+68104,,Leptasterias,,preyedUponBy
+68104,55295,Grapsus grapsus,Sally Lightfoot Crab,preyedUponBy
+68104,363653,Chthamalus fragilis,Fragile Barnacle,preyedUponBy
+68104,47428,Neoloricata,Neoloricate Chitons,preyedUponBy
+68104,49262,Haemulon sciurus,Bluestriped Grunt,preyedUponBy
+68104,47235,Holacanthus ciliaris,Queen Angelfish,preyedUponBy
+68104,49275,Cantherhines pullus,Orangespotted Filefish,preyedUponBy
+68104,49953,Haemulon album,White Margate,preyedUponBy
+68104,511410,Tritoniella belli,,preyedUponBy
+68104,,Bathypanoploea schellenbergi,,preyedUponBy
+68104,390305,Harmothoe spinosa,,preyedUponBy
+68104,,Ctenocidaris gilberti,,preyedUponBy
+68104,1175083,Nuttallochiton mirandus,,preyedUponBy
+68104,1118648,Sterechinus neumayeri,Antarctic sea urchin,preyedUponBy
+68104,,Gnathiphimedia mandibularis,,preyedUponBy
+68104,1162949,Ctenocidaris perrieri,,preyedUponBy
+68104,1212941,Puncturella conica,,preyedUponBy
+68104,1171863,Ophiosparte gigas,,preyedUponBy
+68104,812772,Ammothea carolinensis,,preyedUponBy
+68104,394773,Pentanymphon antarcticum,,preyedUponBy
+68104,1171999,Ophioplinthus brevirima,,preyedUponBy
+68104,376023,Colossendeis,,preyedUponBy
+68104,,Trematomus bernacchii,,preyedUponBy
+68104,813362,Nymphon hiemale,,preyedUponBy
+68104,,Callochiton gaussae,,preyedUponBy
+68104,1162952,Homalocidaris gigantea,,preyedUponBy
+68104,,Trematomus loennbergii,,preyedUponBy
+68104,543493,Odontaster validus,Antarctic starfish,preyedUponBy
+68104,1163407,Sterechinus antarcticus,,preyedUponBy
+68104,1162964,Notocidaris mortenseni,,preyedUponBy
+68104,,Antarctinoe spicoides,,preyedUponBy
+68104,1162951,Ctenocidaris spinosa,,preyedUponBy
+68104,,Eunoe hartmanae,,preyedUponBy
+68104,651712,Astrotoma agassizii,,preyedUponBy
+68104,1119461,Ophionotus victoriae,Victoria Brittle Star,preyedUponBy
+68104,1030306,Eulagisca gigantea,Antarctic Scaleworm,preyedUponBy
+68104,1172008,Ophioplinthus gelida,,preyedUponBy

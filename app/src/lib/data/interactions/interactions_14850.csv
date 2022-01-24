@@ -1,0 +1,230 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+14850,1,Animalia,Animals,eats
+14850,211194,Tracheophyta,vascular plants,eats
+14850,48201,Scarabaeidae,Scarabs,eats
+14850,47158,Insecta,Insects,eats
+14850,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+14850,47124,Magnoliopsida,dicots,eats
+14850,47735,Diplopoda,Millipedes,eats
+14850,47157,Lepidoptera,Butterflies and Moths,eats
+14850,47208,Coleoptera,Beetles,eats
+14850,49567,Carabidae,Ground Beetles,eats
+14850,47434,Poaceae,grasses,eats
+14850,48736,Curculionidae,True Weevils,eats
+14850,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+14850,54857,Celtis occidentalis,common hackberry,eats
+14850,48124,Tettigoniidae,Katydids,eats
+14850,54834,Prunus serotina,black cherry,eats
+14850,53248,Elateridae,Click Beetles,eats
+14850,59510,Meloidae,Blister Beetles,eats
+14850,52884,Gryllidae,True Crickets,eats
+14850,47416,Lycosidae,Wolf Spiders,eats
+14850,47114,Gastropoda,Gastropods,eats
+14850,53816,Tenebrionidae,Darkling Beetles,eats
+14850,53237,Cicadellidae,Typical Leafhoppers,eats
+14850,47649,Acrididae,Short-horned Grasshoppers,eats
+14850,47718,Notodontidae,Prominent Moths,eats
+14850,49530,Geometridae,Geometer Moths,eats
+14850,47336,Formicidae,Ants,eats
+14850,48670,Noctuidae,Cutworm Moths and Allies,eats
+14850,55051,Cleridae,Checkered Beetles,eats
+14850,47866,Thomisidae,Crab Spiders,eats
+14850,48486,Coccinellidae,Lady Beetles,eats
+14850,56584,Lasiocampidae,Lappet Moths,eats
+14850,47982,Asilidae,Robber Flies,eats
+14850,47922,Nymphalidae,Brush-footed Butterflies,eats
+14850,53854,Ilex,hollies,eats
+14850,47535,Araneidae,Orbweavers,eats
+14850,47544,Rubus,brambles,eats
+14850,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+14850,47118,Araneae,Spiders,eats
+14850,47742,Pentatomidae,Stink Bugs,eats
+14850,63187,Braconidae,Braconid Wasps,eats
+14850,53275,Chironomidae,Non-biting Midges,eats
+14850,47115,Mollusca,Molluscs,eats
+14850,82232,Blattidae,Household Cockroaches,eats
+14850,49995,Syrphidae,Hover Flies,eats
+14850,54774,Viburnum,viburnums,eats
+14850,52701,Bromus,bromes,eats
+14850,47351,Prunus,"plums, cherries, and allies",eats
+14850,47925,Coenagrionidae,Narrow-winged Damselflies,eats
+14850,60628,Tenthredinidae,Common Sawflies,eats
+14850,54772,Ostrya,hop-hornbeams,eats
+14850,48449,Zea,Corns and Teosintes,eats
+14850,48972,Polygonum,knotweeds,eats
+14850,51146,Chrysomelidae,Leaf Beetles,eats
+14850,47822,Diptera,Flies,eats
+14850,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+14850,81769,Blattodea,Cockroaches and Termites,eats
+14850,58390,Triticum,Wheats,eats
+14850,47367,Opiliones,Harvestmen,eats
+14850,47792,Odonata,Dragonflies and Damselflies,eats
+14850,50055,Setaria,foxtails and bristlegrasses,eats
+14850,52697,Avena,Oats,eats
+14850,53165,Croton,Crotons,eats
+14850,52381,Aphididae,Aphids,eats
+14850,72111,Eleusine,,eats
+14850,48742,Sphecidae,Thread-waisted Wasps,eats
+14850,60773,Vitis,grapevines,eats
+14850,68020,Dolichopodidae,Long-legged Flies,eats
+14850,47819,Libellulidae,Skimmers,eats
+14850,54765,Rhus,sumacs,eats
+14850,51637,Digitaria,"crabgrasses, cottontops, and allies",eats
+14850,53036,Ambrosia,ragweeds,eats
+14850,49399,Juniperus virginiana,eastern redcedar,eats
+14850,47851,Quercus,oaks,eats
+14850,48601,Phytolacca,Pokeberries,eats
+14850,57920,Xanthium strumarium,rough cocklebur,eats
+14850,60208,Lycopus,water horehounds,eats
+14850,13858,Passer domesticus,House Sparrow,eats
+14850,35707,Podarcis carbonelli,Carbonell’s Wall Lizard,eats
+14850,14850,Sturnus vulgaris,European Starling,eats
+14850,47491,Annelida,Segmented Worms,eats
+14850,47120,Arthropoda,Arthropods,eats
+14850,77835,Lonicera japonica,Japanese honeysuckle,eats
+14850,58732,Toxicodendron radicans,poison ivy,eats
+14850,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+14850,50999,Ficus,Figs,eats
+14850,58725,Juniperus communis,common juniper,eats
+14850,54812,Rhamnus,Buckthorns,eats
+14850,50298,Fragaria vesca,wild strawberry,eats
+14850,55882,Hedera helix,common ivy,eats
+14850,47193,Cornus,dogwoods,eats
+14850,83072,Syringa vulgaris,common lilac,eats
+14850,60218,Ficus carica,common fig,eats
+14850,55884,Rosa canina,Dog-rose,eats
+14850,59035,Solanum americanum,American black nightshade,eats
+14850,47574,Juniperus,junipers,eats
+14850,60265,Asparagus officinalis,wild asparagus,eats
+14850,48629,Prunus americana,American plum,eats
+14850,63611,Myoporum laetum,Ngaio,eats
+14850,48599,Phytolacca americana,American pokeweed,eats
+14850,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+14850,57140,Olea europaea,Olive,eats
+14850,54811,Rhamnus cathartica,common buckthorn,eats
+14850,55972,Frangula alnus,alder buckthorn,eats
+14850,51452,Passiflora,passionflowers,eats
+14850,78882,Rosa multiflora,multiflora rose,eats
+14850,54500,Malus,apples,eats
+14850,48867,Arecaceae,palms,eats
+14850,61524,Forficula auricularia,European Earwig,eats
+14850,184884,Pterygota,Winged and Once-winged Insects,eats
+14850,50185,Washingtonia,Fan Palms,eats
+14850,48460,Life,,eats
+14850,58736,Pyrus,pears,eats
+14850,69758,Lumbricidae,Earthworms,eats
+14850,58728,Berberis,Barberries,eats
+14850,5163,Circus,Harriers,eatenBy
+14850,4672,Falco columbarius,Merlin,eatenBy
+14850,4638,Falco,Typical Falcons,eatenBy
+14850,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+14850,20445,Tyto alba,Barn Owl,eatenBy
+14850,14850,Sturnus vulgaris,European Starling,eatenBy
+14850,8010,Corvus corax,Common Raven,eatenBy
+14850,45994,Sciurus,Tree Squirrels,eatenBy
+14850,42069,Vulpes vulpes,Red Fox,eatenBy
+14850,4637,Falconidae,Falcons and Caracaras,eatenBy
+14850,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+14850,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+14850,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+14850,20044,Bubo virginianus,Great Horned Owl,eatenBy
+14850,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+14850,4665,Falco sparverius,American Kestrel,eatenBy
+14850,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+14850,559064,Circus cyaneus,Hen Harrier,eatenBy
+14850,204472,Buteo buteo,Common Buzzard,eatenBy
+14850,5268,Milvus migrans,Black Kite,eatenBy
+14850,5178,Circus macrourus,Pallid Harrier,eatenBy
+14850,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+14850,5275,Elanus caeruleus,Black-winged Kite,eatenBy
+14850,5154,Hieraaetus pennatus,Booted Eagle,eatenBy
+14850,4671,Falco eleonorae,Eleonora's Falcon,eatenBy
+14850,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+14850,4684,Falco biarmicus,Lanner Falcon,eatenBy
+14850,5192,Buteo rufinus,Long-legged Buzzard,eatenBy
+14850,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+14850,4643,Falco subbuteo,Eurasian Hobby,eatenBy
+14850,5267,Milvus milvus,Red Kite,eatenBy
+14850,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+14850,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+14850,4691,Falco cherrug,Saker Falcon,eatenBy
+14850,144297,Stercorarius skua,Great Skua,eatenBy
+14850,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+14850,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+14850,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+14850,20244,Otus scops,Eurasian Scops Owl,eatenBy
+14850,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+14850,,Dendrocopos medius,,eatenBy
+14850,,Glaucidium passerinum,,eatenBy
+14850,,Jynx torquilla,,eatenBy
+14850,19890,Strix nebulosa,Great Gray Owl,eatenBy
+14850,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+14850,,Dendrocopos syriacus,,eatenBy
+14850,19910,Strix uralensis,Ural Owl,eatenBy
+14850,19898,Strix aluco,Tawny Owl,eatenBy
+14850,20307,Asio otus,Long-eared Owl,eatenBy
+14850,20285,Otus brucei,Pallid Scops-Owl,eatenBy
+14850,19998,Athene noctua,Little Owl,eatenBy
+14850,559070,Lanius excubitor,Great Gray Shrike,eatenBy
+14850,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+14850,20315,Asio flammeus,Short-eared Owl,eatenBy
+14850,12038,Lanius collurio,Red-backed Shrike,eatenBy
+14850,906982,Lanius meridionalis,Iberian Grey Shrike,eatenBy
+14850,891696,Pica pica,Eurasian Magpie,eatenBy
+14850,,Lanius senator,,eatenBy
+14850,,Garrulus glandarius,,eatenBy
+14850,,Coloeus monedula,,eatenBy
+14850,8029,Corvus frugilegus,Rook,eatenBy
+14850,204496,Corvus corone,Carrion Crow,eatenBy
+14850,851014,Canis aureus,Golden Jackal,eatenBy
+14850,,Eliomys quercinus,,eatenBy
+14850,42048,Canis lupus,Gray Wolf,eatenBy
+14850,,Dryomys laniger,,eatenBy
+14850,,Eliomys melanurus,,eatenBy
+14850,233598,Vulpes lagopus,Arctic Fox,eatenBy
+14850,,Dryomys nitedula,,eatenBy
+14850,922459,Felis silvestris,European Wildcat,eatenBy
+14850,41961,Felis chaus,Jungle Cat,eatenBy
+14850,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+14850,,Glis glis,,eatenBy
+14850,41900,Herpestes ichneumon,Ichneumon,eatenBy
+14850,41795,Martes zibellina,Sable,eatenBy
+14850,41796,Martes martes,Eurasian Pine Marten,eatenBy
+14850,41800,Martes foina,Stone Marten,eatenBy
+14850,,Muscardinus avellanarius,,eatenBy
+14850,,Pteromys volans,,eatenBy
+14850,74670,Mustela eversmanii,Steppe Polecat,eatenBy
+14850,,Sciurus vulgaris,,eatenBy
+14850,42065,Vulpes corsac,Corsac Fox,eatenBy
+14850,41829,Vormela peregusna,Marbled Polecat,eatenBy
+14850,,Tamias sibiricus,,eatenBy
+14850,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+14850,540328,Zamenis scalaris,Ladder Snake,eatenBy
+14850,30237,Elaphe quatuorlineata,Four-lined Snake,eatenBy
+14850,74008,Zamenis lineatus,Italian Aesculapian Snake,eatenBy
+14850,74009,Zamenis longissimus,Aesculapian Snake,eatenBy
+14850,,Platyceps collaris,,eatenBy
+14850,29917,Hierophis gemonensis,Balkan Whip Snake,eatenBy
+14850,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,eatenBy
+14850,,Elaphe situla,,eatenBy
+14850,35854,Lacerta viridis,Green Lizard,eatenBy
+14850,,Timon lepidus,,eatenBy
+14850,35900,Lacerta bilineata,Western Green Lizard,eatenBy
+14850,73823,Hierophis viridiflavus,Green Whip Snake,eatenBy
+14850,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+14850,,Macrovipera lebetina,,eatenBy
+14850,,Macrovipera schweizeri,,eatenBy
+14850,167829,Rhus typhina,staghorn sumac,preysOn
+14850,184884,Pterygota,Winged and Once-winged Insects,preysOn
+14850,47158,Insecta,Insects,preysOn
+14850,69758,Lumbricidae,Earthworms,preysOn
+14850,56832,Nymphalis antiopa,Mourning Cloak,preysOn
+14850,47157,Lepidoptera,Butterflies and Moths,preysOn
+14850,83854,Magicicada,Periodical Cicadas,preysOn
+14850,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+14850,41573,Carnivora,Carnivorans,preyedUponBy
+14850,4672,Falco columbarius,Merlin,preyedUponBy
+14850,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+14850,4638,Falco,Typical Falcons,preyedUponBy
+14850,5097,Accipiter striatus,Sharp-shinned Hawk,preyedUponBy
+14850,5106,Accipiter nisus,Eurasian Sparrowhawk,preyedUponBy

@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+77902,6317,Calypte anna,Anna's Hummingbird,eatenBy
+77902,,Manduca quinquemaculatus,,eatenBy
+77902,,Tympanuchus cupido,,eatenBy
+77902,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy
+77902,,Diaporthe importata,,eatenBy
+77902,,Phoma barbari,,eatenBy
+77902,,Sarucallis kahawaluokalani,,eatenBy
+77902,,Myzus persicae,,eatenBy
+77902,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+77902,49995,Syrphidae,Hover Flies,pollinatedBy
+77902,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+77902,47822,Diptera,Flies,pollinatedBy
+77902,,Self pollinated,,pollinatedBy

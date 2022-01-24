@@ -1,0 +1,152 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44185,4385,Larus californicus,California Gull,eats
+44185,,Magnoliophyta,,eats
+44185,,alpine vegetation,,eats
+44185,42051,Canis latrans,Coyote,eatenBy
+44185,41976,Lynx rufus,Bobcat,eatenBy
+44185,42007,Puma concolor,Mountain Lion,eatenBy
+44185,42069,Vulpes vulpes,Red Fox,eatenBy
+44185,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+44185,42054,Vulpes,Typical Foxes,eatenBy
+44185,41801,Mustela,,eatenBy
+44185,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44185,5277,Elanus leucurus,White-tailed Kite,eatenBy
+44185,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+44185,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+44185,42048,Canis lupus,Gray Wolf,eatenBy
+44185,851014,Canis aureus,Golden Jackal,eatenBy
+44185,922459,Felis silvestris,European Wildcat,eatenBy
+44185,42101,Cuon alpinus,Dhole,eatenBy
+44185,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+44185,41886,Crocuta crocuta,Spotted Hyaena,eatenBy
+44185,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+44185,40222,Dasycercus cristicauda,Mulgara,eatenBy
+44185,41979,Lynx lynx,Eurasian Lynx,eatenBy
+44185,41800,Martes foina,Stone Marten,eatenBy
+44185,41798,Martes americana,American Marten,eatenBy
+44185,41997,Leopardus pardalis,Ocelot,eatenBy
+44185,41987,Leopardus tigrinus,Northern Tigrina,eatenBy
+44185,41988,Leopardus wiedii,Margay,eatenBy
+44185,516127,Lycalopex vetulus,Hoary Zorro,eatenBy
+44185,,Martes pennanti,,eatenBy
+44185,41964,Panthera leo,Lion,eatenBy
+44185,41963,Panthera pardus,Leopard,eatenBy
+44185,41808,Mustela erminea,Eurasian Stoat,eatenBy
+44185,41812,Mustela putorius,Western Polecat,eatenBy
+44185,41796,Martes martes,Eurasian Pine Marten,eatenBy
+44185,569428,Mustela nivalis,Least Weasel,eatenBy
+44185,,Vampyrum spectrum,,eatenBy
+44185,922738,Prionailurus bengalensis,Mainland Leopard Cat,eatenBy
+44185,,Uncia uncia,,eatenBy
+44185,42070,Vulpes macrotis,Kit Fox,eatenBy
+44185,26068,Crocodylus porosus,Saltwater Crocodile,eatenBy
+44185,41790,Martes,Martens,eatenBy
+44185,,hawks and owls (7 species),,eatenBy
+44185,,Meles,,eatenBy
+44185,,Gulo,,eatenBy
+44185,,Coyote,,eatenBy
+44185,41641,Ursus arctos,Brown Bear,eatenBy
+44185,,Salvelinus vasiljevae,,eatenBy
+44185,104980,Maccullochella peelii,Murray Cod,eatenBy
+44185,74009,Zamenis longissimus,Aesculapian Snake,eatenBy
+44185,,Melierax canorus argentior,,eatenBy
+44185,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+44185,30929,Vipera aspis,Asp Viper,eatenBy
+44185,28976,Psammophis notostictus,Karoo Sand Snake,eatenBy
+44185,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+44185,558512,Lanius borealis,Northern Shrike,eatenBy
+44185,5017,Bubulcus ibis,Cattle Egret,eatenBy
+44185,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+44185,4644,Falco mexicanus,Prairie Falcon,eatenBy
+44185,204533,Larus argentatus,Herring Gull,eatenBy
+44185,4368,Larus marinus,Great Black-backed Gull,eatenBy
+44185,42054,Vulpes,Typical Foxes,preyedUponBy
+44185,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+44185,,Sistrurus catenatus,,preyedUponBy
+44185,95866,Boiruna maculata,False Mussurana,preyedUponBy
+44185,30877,Atheris squamigera,African Bush Viper,preyedUponBy
+44185,27720,Toxicodryas pulverulenta,Fischer's Cat Snake,preyedUponBy
+44185,,Oligodon albocinctus,,preyedUponBy
+44185,,Bitis nasicornis,,preyedUponBy
+44185,74009,Zamenis longissimus,Aesculapian Snake,preyedUponBy
+44185,30442,Bungarus multicinctus,Many-banded Krait,preyedUponBy
+44185,98399,Corallus cookii,Cook's Tree Boa,preyedUponBy
+44185,26904,Coronella austriaca,Smooth Snake,preyedUponBy
+44185,30853,Bitis gabonica,Gaboon Viper,preyedUponBy
+44185,30851,Bitis arietans,Puff Adder,preyedUponBy
+44185,,Clelia langeri,,preyedUponBy
+44185,,Calabaria reinhardtii,,preyedUponBy
+44185,32142,Antaresia maculosa,Spotted Python,preyedUponBy
+44185,,Corallus hortulanus,,preyedUponBy
+44185,,Elaphe situla,,preyedUponBy
+44185,,Psammophylax tritaeniatus tritaeniatus,,preyedUponBy
+44185,30335,Drymarchon corais,Indigo Snake,preyedUponBy
+44185,29168,Oxyrhopus clathratus,Duméril's False Coral Snake,preyedUponBy
+44185,,Python sebae,,preyedUponBy
+44185,,Psammophylax rhombeatus,,preyedUponBy
+44185,,Psammophis lineatus,,preyedUponBy
+44185,28638,Spalerosophis arenarius,Red spotted royal snake,preyedUponBy
+44185,32158,Python regius,Ball Python,preyedUponBy
+44185,31079,Echis carinatus,Saw-scaled Viper,preyedUponBy
+44185,116496,Atractaspis bibronii,Southern Stiletto Snake,preyedUponBy
+44185,539037,Bothrops alternatus,Urutu Lancehead,preyedUponBy
+44185,32131,Aspidites ramsayi,Woma Python,preyedUponBy
+44185,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+44185,,Cryptelytrops albolabris,,preyedUponBy
+44185,29166,Oxyrhopus guibei,Guibe´s Flame Snake,preyedUponBy
+44185,,Spalerosophis diadema schirasianus,,preyedUponBy
+44185,,Hypnale hypnale,,preyedUponBy
+44185,,Trimeresurus malabaricus,,preyedUponBy
+44185,29760,Boaedon fuliginosus,Brown House Snake,preyedUponBy
+44185,,Pseudocerastes fieldi,,preyedUponBy
+44185,,Scaphiophis albopunctatus,,preyedUponBy
+44185,,Trimeresurus gramineus,,preyedUponBy
+44185,27035,Hierophis viridiflavus carbonarius,,preyedUponBy
+44185,28958,Psammophis sibilans,Hissing Sand Snake,preyedUponBy
+44185,,Lamprophis lineatus,,preyedUponBy
+44185,,Protobothrops flavoviridis,,preyedUponBy
+44185,35140,Pseudonaja textilis,Eastern Brown Snake,preyedUponBy
+44185,,Bitis arietans arietans,,preyedUponBy
+44185,31024,Ovophis monticola,Chinese Mountain Pit Viper,preyedUponBy
+44185,30282,Elaphe dione,Steppe Ratsnake,preyedUponBy
+44185,,Gloydius halys,,preyedUponBy
+44185,,Orientocoluber spinalis,,preyedUponBy
+44185,,Broghammerus reticulatus,,preyedUponBy
+44185,30767,Bothrops,Neotropical Lanceheads,preyedUponBy
+44185,,Coelognathus radiatus,,preyedUponBy
+44185,,Trimeresurus strigatus,,preyedUponBy
+44185,30476,Naja nigricollis,Black-necked Spitting Cobra,preyedUponBy
+44185,,Daboia russelii,,preyedUponBy
+44185,,Orthriophis taeniurus,,preyedUponBy
+44185,,Lycodon aulicus,,preyedUponBy
+44185,,Naja atra,,preyedUponBy
+44185,,Trimeresurus stejnegeri stejnegeri,,preyedUponBy
+44185,,Oreocryptophis porphyraceus porphyraceus,,preyedUponBy
+44185,,Ptyas mucosa,,preyedUponBy
+44185,35148,Pseudonaja affinis,Dugite,preyedUponBy
+44185,,Oxyrhopus petolarius sebae,,preyedUponBy
+44185,146263,Malpolon insignitus insignitus,,preyedUponBy
+44185,,Lamprophis olivaceus,,preyedUponBy
+44185,,Coelognathus helena,,preyedUponBy
+44185,,Deinagkistrodon acutus,,preyedUponBy
+44185,,Platyceps rhodorachis,,preyedUponBy
+44185,30761,Crotalus polystictus,Mexican Lancehead Rattlesnake,preyedUponBy
+44185,30996,Protobothrops mucrosquamatus,Taiwanese Habu,preyedUponBy
+44185,,Python molurus bivittatus,,preyedUponBy
+44185,32150,Python molurus,Indian Python,preyedUponBy
+44185,,Atropoides nummifer,,preyedUponBy
+44185,,Dendroaspis polylepis polylepis,,preyedUponBy
+44185,,Bothrophthalmus lineatus,,preyedUponBy
+44185,35143,Pseudonaja nuchalis,Northern Brown Snake,preyedUponBy
+44185,,Elaphe bimaculata,,preyedUponBy
+44185,,Psammophylax multisquamis,,preyedUponBy
+44185,,Boiga gokool,,preyedUponBy
+44185,,Xenochrophis piscator,,preyedUponBy
+44185,42048,Canis lupus,Gray Wolf,preyedUponBy
+44185,,Megaderma lyra,,preyedUponBy
+44185,,Zamenis situla,,preyedUponBy
+44185,,Prionailurus javanensis sumatranus,,preyedUponBy
+44185,,Spilornis cheela,,preyedUponBy
+44185,204519,Halcyon smyrnensis,White-throated Kingfisher,preyedUponBy
+44185,,Ardea melanocephala,,preyedUponBy
+44185,30929,Vipera aspis,Asp Viper,preyedUponBy

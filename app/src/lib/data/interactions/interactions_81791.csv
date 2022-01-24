@@ -1,0 +1,134 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81791,51508,Ctenophora,Comb Jellies,eats
+81791,81791,Nereis,,eats
+81791,48478,Chrysaora quinquecirrha,Atlantic Sea Nettle,eats
+81791,81634,Mya arenaria,Soft-shelled Clam,eats
+81791,1,Animalia,Animals,eats
+81791,49504,Callinectes sapidus,Atlantic Blue Crab,eats
+81791,47490,Polychaeta,Polychaete Worms,eats
+81791,85493,Crustacea,Crustaceans,eats
+81791,130177,Sargassum muticum,Japanese Wireweed,eats
+81791,67423,Ulva lactuca,broadleaf sea lettuce,eats
+81791,,Lumbrinereis,,eats
+81791,,Other suspension feeders,,eats
+81791,,meiofauna,,eats
+81791,71252,Macoma,,eats
+81791,,Zooplankton,,eats
+81791,,Phytoplankton,,eats
+81791,701524,Furcellaria lumbricalis,,eats
+81791,790323,Phymatolithon calcareum,,eats
+81791,,Nemalion helminthoides,,eats
+81791,,Polysiphonia sp.,,eats
+81791,361840,Jania rubens,,eats
+81791,1297852,Halurus equisetifolius,,eats
+81791,,http://treatment.plazi.org/id/D42A6ADF3C22CB68DB45D5CF1BA087AD,,eats
+81791,201435,Ulva linza,Green string lettuce,eats
+81791,183154,Rhodomela confervoides,,eats
+81791,182991,Palmaria palmata,Dulse,eats
+81791,129737,Colpomenia peregrina,Oyster-thief,eats
+81791,182896,Desmarestia aculeata,Witch's hair,eats
+81791,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+81791,81634,Mya arenaria,Soft-shelled Clam,eatenBy
+81791,47490,Polychaeta,Polychaete Worms,eatenBy
+81791,81791,Nereis,,eatenBy
+81791,48408,Rajidae,Hardnose Skates,eatenBy
+81791,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+81791,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+81791,4209,Podiceps auritus,Horned Grebe,eatenBy
+81791,4940,Egretta thula,Snowy Egret,eatenBy
+81791,,Cerebratulus,,eatenBy
+81791,87522,Clevelandia,,eatenBy
+81791,,Pleuronectiformes,,eatenBy
+81791,84432,Morone americana,White Perch,eatenBy
+81791,56047,Trinectes maculatus,Hogchoker,eatenBy
+81791,,meiofauna,,eatenBy
+81791,,Other suspension feeders,,eatenBy
+81791,47585,Crassostrea virginica,Eastern Oyster,eatenBy
+81791,50984,Pomatomus saltatrix,Bluefish,eatenBy
+81791,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+81791,51363,Brevoortia tyrannus,Atlantic Menhaden,eatenBy
+81791,94070,Anchoa mitchilli,Bay Anchovy,eatenBy
+81791,49243,Alosa sapidissima,American shad,eatenBy
+81791,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+81791,51362,Alosa pseudoharengus,Alewife,eatenBy
+81791,,Chaceon notialis,,eatenBy
+81791,4494,Rissa tridactyla,Black-legged Kittiwake,eatenBy
+81791,,Portunus sanguinolentus,,eatenBy
+81791,,Limulus polyphemus,,eatenBy
+81791,464048,Hippasteria phrygiana,Trojan Star,eatenBy
+81791,324558,Loligo vulgaris,European Squid,eatenBy
+81791,324537,Maja squinado,European Spider Crab,eatenBy
+81791,61383,Homarus americanus,American Lobster,eatenBy
+81791,,Crangon franciscorum,,eatenBy
+81791,63740,Gadus morhua,Atlantic Cod,eatenBy
+81791,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+81791,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+81791,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+81791,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+81791,430553,Merlangius merlangus,Whiting,eatenBy
+81791,111527,Raja montagui,Spotted Skate,eatenBy
+81791,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+81791,48397,Raja clavata,Thornback Skate,eatenBy
+81791,48402,Amblyraja radiata,Thorny Skate,eatenBy
+81791,101176,Galeorhinus galeus,School Shark,eatenBy
+81791,,Trigla lucerna,,eatenBy
+81791,118601,Trisopterus luscus,Pouting,eatenBy
+81791,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+81791,118619,Mullus surmuletus,Striped Red Mullet,eatenBy
+81791,,Acipenser persicus,,eatenBy
+81791,368151,Sillago sihama,Northern Whiting,eatenBy
+81791,87626,Coregonus,Whitefishes,eatenBy
+81791,,Enchelyopus cimbrius,,eatenBy
+81791,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+81791,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+81791,49096,Myxine glutinosa,Atlantic Hagfish,eatenBy
+81791,,Vimba vimba,,eatenBy
+81791,,Neogobius melanostomus,,eatenBy
+81791,614352,Benthophilus ctenolepidus,,eatenBy
+81791,,Caspiosoma caspium,,eatenBy
+81791,,Ponticola gorlap,,eatenBy
+81791,,Babka gymnotrachelus,,eatenBy
+81791,49237,Alosa,Anadromous Shads,eatenBy
+81791,118671,Sparus aurata,Gilthead Seabream,eatenBy
+81791,,Trisopterus minutus,,eatenBy
+81791,,Dasyatis say,,eatenBy
+81791,325685,Ilisha africana,West African ilisha,eatenBy
+81791,95066,Balistes vetula,Queen Triggerfish,eatenBy
+81791,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+81791,96130,Buglossidium luteum,Solenette,eatenBy
+81791,55396,Solea solea,Common Sole,eatenBy
+81791,51398,Argentina sphyraena,European Argentine,eatenBy
+81791,481841,Microstomus kitt,Lemon Sole,eatenBy
+81791,97990,Clupea harengus,Atlantic Herring,eatenBy
+81791,109631,Platichthys flesus,European Flounder,eatenBy
+81791,47523,Pleuronectes platessa,European Plaice,eatenBy
+81791,61387,Limanda limanda,Sand Dab,eatenBy
+81791,340825,Scylla serrata,Mud Crab,eatenBy
+81791,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+81791,445800,Clinus cottoides,bluntnose klipfish,eatenBy
+81791,565059,Alectrias alectrolophus,Stone Cockscomb,eatenBy
+81791,210219,Necora puber,Velvet Swimming Crab,eatenBy
+81791,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+81791,4305,Phalacrocorax urile,Red-faced Cormorant,eatenBy
+81791,4937,Egretta caerulea,Little Blue Heron,eatenBy
+81791,4938,Egretta tricolor,Tricolored Heron,eatenBy
+81791,7067,Tadorna tadorna,Common Shelduck,eatenBy
+81791,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+81791,7057,Aythya valisineria,Canvasback,eatenBy
+81791,,Corvus caurinus,,eatenBy
+81791,211518,Notomastus,,preysOn
+81791,,Zooplankton,,preysOn
+81791,54960,Nematoda,Nematodes,preyedUponBy
+81791,52523,Carcinus maenas,European Green Crab,preyedUponBy
+81791,47490,Polychaeta,Polychaete Worms,preyedUponBy
+81791,130085,Actinia equina,Beadlet anemone,preyedUponBy
+81791,153169,Palaemon elegans,Rockpool Prawn,preyedUponBy
+81791,,Cerebratulus,,preyedUponBy
+81791,87522,Clevelandia,,preyedUponBy
+81791,130385,Palaemon serratus,Common Prawn,preyedUponBy
+81791,118499,Ampithoidae,,preyedUponBy
+81791,245452,Stenothoidae,,preyedUponBy
+81791,51280,Nemertea,Ribbon Worms,preyedUponBy
+81791,118706,Gobius paganellus,Rock Goby,preyedUponBy
+81791,113533,Symphodus melops,Corkwing Wrasse,preyedUponBy
+81791,118895,Anemonia viridis,snakelocks anemone,preyedUponBy

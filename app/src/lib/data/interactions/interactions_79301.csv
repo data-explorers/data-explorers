@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+79301,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+79301,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+79301,47219,Apis mellifera,Western Honey Bee,eatenBy
+79301,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+79301,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+79301,,Polistes fuscatus,,eatenBy
+79301,,Archytas analis,,eatenBy
+79301,,Diprion similis,,eatenBy
+79301,,Bombus ternarius,,pollinatedBy

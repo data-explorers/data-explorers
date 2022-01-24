@@ -1,0 +1,79 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3901,47188,Pachygrapsus crassipes,Striped Shore Crab,eats
+3901,47414,Emerita analoga,Pacific Sand Crab,eats
+3901,121612,Estigmene acrea,Salt Marsh Moth,eats
+3901,3,Aves,Birds,eats
+3901,26036,Reptilia,Reptiles,eats
+3901,47115,Mollusca,Molluscs,eats
+3901,47178,Actinopterygii,Ray-finned Fishes,eats
+3901,85493,Crustacea,Crustaceans,eats
+3901,121639,Brachyura,True Crabs,eats
+3901,1,Animalia,Animals,eats
+3901,47490,Polychaeta,Polychaete Worms,eats
+3901,,Zootoca vivipara,,eats
+3901,,Gelasiminae,,eats
+3901,,Gnathostomata,,eats
+3901,,Tetrapoda,,eats
+3901,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+3901,8010,Corvus corax,Common Raven,eatenBy
+3901,42069,Vulpes vulpes,Red Fox,eatenBy
+3901,,Python molurus bivittatus,,eatenBy
+3901,4736,Ciconia nigra,Black Stork,eatenBy
+3901,4733,Ciconia ciconia,White Stork,eatenBy
+3901,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+3901,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+3901,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+3901,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+3901,559064,Circus cyaneus,Hen Harrier,eatenBy
+3901,5178,Circus macrourus,Pallid Harrier,eatenBy
+3901,41,Grus grus,Common Crane,eatenBy
+3901,4657,Falco rusticolus,Gyrfalcon,eatenBy
+3901,4356,Larus canus,Mew Gull,eatenBy
+3901,204533,Larus argentatus,Herring Gull,eatenBy
+3901,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+3901,144297,Stercorarius skua,Great Skua,eatenBy
+3901,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+3901,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+3901,4389,Larus cachinnans,Caspian Gull,eatenBy
+3901,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+3901,144594,Bubo scandiacus,Snowy Owl,eatenBy
+3901,19898,Strix aluco,Tawny Owl,eatenBy
+3901,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+3901,204519,Halcyon smyrnensis,White-throated Kingfisher,eatenBy
+3901,,Coloeus monedula,,eatenBy
+3901,8029,Corvus frugilegus,Rook,eatenBy
+3901,233598,Vulpes lagopus,Arctic Fox,eatenBy
+3901,204496,Corvus corone,Carrion Crow,eatenBy
+3901,42048,Canis lupus,Gray Wolf,eatenBy
+3901,41900,Herpestes ichneumon,Ichneumon,eatenBy
+3901,41852,Gulo gulo,Wolverine,eatenBy
+3901,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+3901,855297,Meles meles,European Badger,eatenBy
+3901,41805,Mustela lutreola,European Mink,eatenBy
+3901,41812,Mustela putorius,Western Polecat,eatenBy
+3901,42065,Vulpes corsac,Corsac Fox,eatenBy
+3901,41641,Ursus arctos,Brown Bear,eatenBy
+3901,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+3901,,Elaphe situla,,eatenBy
+3901,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+3901,39407,Varanus griseus,Desert Monitor,eatenBy
+3901,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+3901,27035,Hierophis viridiflavus carbonarius,,eatenBy
+3901,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+3901,28451,Telescopus nigriceps,Black headed snake,eatenBy
+3901,52523,Carcinus maenas,European Green Crab,preysOn
+3901,81606,Littorina littorea,Common Periwinkle,preysOn
+3901,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+3901,47190,Grapsidae,Shore Crabs,preysOn
+3901,,Nereis diversicolor,,preysOn
+3901,118851,Crangon crangon,Brown Shrimp,preysOn
+3901,1023057,Eteone longa,,preysOn
+3901,208364,Arenicola marina,Blow Lugworm,preysOn
+3901,210230,Cerastoderma edule,Common Cockle,preysOn
+3901,1231415,Phyllodoce mucosa,,preysOn
+3901,,Melampus olivaceus,,preysOn
+3901,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+3901,,Uca crenulata,,preysOn
+3901,,Ocypode gaudichaudii,,preysOn
+3901,,Uca uruguayensis,,preysOn
+3901,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy

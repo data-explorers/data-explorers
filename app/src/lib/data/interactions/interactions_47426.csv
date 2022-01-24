@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47426,123880,Bacillariophyceae,Diatoms,eats
+47426,48394,Gymnolaemata,,eats
+47426,123631,Corallina,,eats
+47426,,Algae,,eats
+47426,,Prymnesiophyceae,,eats
+47426,,Crustose coralline algae complex,,eats
+47426,,Biofilm Complex,,eats
+47426,203613,Licmophora,,eats
+47426,339306,Cocconeis,,eats
+47426,203808,Navicula,,eats
+47426,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+47426,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+47426,,Leptasterias,,eatenBy
+47426,63382,Dermasterias imbricata,Leather Star,eatenBy
+47426,,Evasterias troscheli,,eatenBy
+47426,67411,Gobiesocidae,Clingfishes,eatenBy
+47426,7024,Somateria mollissima,Common Eider,eatenBy
+47426,376425,Fusitriton,,eatenBy
+47426,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+47426,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+47426,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+47426,48903,Asterias,,eatenBy
+47426,123880,Bacillariophyceae,Diatoms,preysOn
+47426,123631,Corallina,,preysOn
+47426,48394,Gymnolaemata,,preysOn
+47426,,Crustose coralline algae complex,,preysOn
+47426,,Phytoplankton,,preysOn
+47426,,Biofilm complex,,preysOn
+47426,,Leptasterias,,preyedUponBy
+47426,,Evasterias troscheli,,preyedUponBy
+47426,67411,Gobiesocidae,Clingfishes,preyedUponBy
+47426,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+47426,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy
+47426,376425,Fusitriton,,preyedUponBy
+47426,47669,Orthasterias koehleri,Rainbow Star,preyedUponBy

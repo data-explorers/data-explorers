@@ -1,0 +1,128 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57678,359450,Cichorieae,,eats
+57678,50829,Viola,violets,eats
+57678,48225,Eschscholzia californica,California poppy,eats
+57678,51737,Solanum lycopersicum,tomato,eats
+57678,48367,Penstemon,beardtongues,eats
+57678,47193,Cornus,dogwoods,eats
+57678,53405,Heteromeles arbutifolia,Toyon,eats
+57678,61906,Helminthotheca echioides,bristly oxtongue,eats
+57678,1,Animalia,Animals,eats
+57678,78217,Nicandra physalodes,apple-of-Peru,eats
+57678,,Phytomyza,,eats
+57678,,Verbesina alternifolia,,eats
+57678,,Tripleurospermum inodorum,,eats
+57678,,Thymus,,eats
+57678,5279,Harpagus,Harpagus Kites,eats
+57678,,Parodia erinacea,,eats
+57678,17355,Vireo,Vireos,eatenBy
+57678,17408,Vireo griseus,White-eyed Vireo,eatenBy
+57678,17394,Vireo gilvus,Warbling Vireo,eatenBy
+57678,13732,Anthus rubescens,American Pipit,eatenBy
+57678,,Vireo flavifrons,,eatenBy
+57678,49389,Stellaria,chickweeds,pollinates
+57678,52834,Anaphalis,everlastings,pollinates
+57678,51056,Polygonatum,Solomon's-seals,pollinates
+57678,49487,Rhododendron,rhododendrons and azaleas,pollinates
+57678,77739,Ligustrum japonicum,wax-leaf ligustrum,pollinates
+57678,79383,Tradescantia ohiensis,bluejacket,pollinates
+57678,48599,Phytolacca americana,American pokeweed,pollinates
+57678,53438,Rosa,roses,pollinates
+57678,83157,Hydrangea,hydrangeas,pollinates
+57678,51611,Veronica,speedwells,pollinates
+57678,61208,Polygala,Falsepeas,pollinates
+57678,48561,Cirsium,thistles,pollinates
+57678,48678,Solidago,goldenrods,pollinates
+57678,47689,Geraniaceae,Geranium family,pollinates
+57678,54774,Viburnum,viburnums,pollinates
+57678,56917,Hydrocotyle,water pennyworts,pollinates
+57678,402509,Pilosella officinarum,mouse-eared hawkweed,pollinates
+57678,55735,Sedum,stonecrops,pollinates
+57678,56057,Leucanthemum vulgare,oxeye daisy,pollinates
+57678,53207,Senecio,groundsels,pollinates
+57678,52821,Achillea millefolium,Common Yarrow,pollinates
+57678,64322,Cistus,Shrubby Rock-roses,pollinates
+57678,48230,Ranunculus,buttercups,pollinates
+57678,58086,Sisymbrium orientale,eastern rocket,pollinates
+57678,55666,Veronica persica,bird's-eye speedwell,pollinates
+57678,47691,Sherardia arvensis,Field madder,pollinates
+57678,51900,Hypochaeris,Cat's-Ears,pollinates
+57678,47687,Erodium cicutarium,Redstem Stork's-bill,pollinates
+57678,53211,Senecio vulgaris,common groundsel,pollinates
+57678,51822,Euphorbia,spurges,pollinates
+57678,53097,Hirschfeldia incana,Shortpod Mustard,pollinates
+57678,48160,Centaurea,knapweeds,pollinates
+57678,77992,Mentha longifolia,Horse Mint,pollinates
+57678,50829,Viola,violets,pollinates
+57678,77835,Lonicera japonica,Japanese honeysuckle,pollinates
+57678,52899,Solanum carolinense,Carolina horsenettle,pollinates
+57678,76610,Daucus carota,wild carrot,pollinates
+57678,51891,Dudleya,Liveforever,pollinates
+57678,47327,Calochortus,mariposa lilies,pollinates
+57678,76425,Commelina benghalensis,tropical spiderwort,pollinates
+57678,50203,Bidens pilosa,blackjack,pollinates
+57678,79141,Solanum nigrum,black nightshade,pollinates
+57678,76943,Erigeron sumatrensis,tropical horseweed,pollinates
+57678,79157,Sonchus tenerrimus,slender sowthistle,pollinates
+57678,56992,Lobularia maritima,sweet alyssum,pollinates
+57678,47727,Acer,maples,pollinates
+57678,53186,Potentilla,cinquefoils,pollinates
+57678,47780,Iris,Irises,pollinates
+57678,60208,Lycopus,water horehounds,pollinates
+57678,49652,Cardamine,bittercresses,pollinates
+57678,51122,Nymphaea,water-lilies,pollinates
+57678,47603,Taraxacum,dandelions,pollinates
+57678,52935,Eupatorium,bonesets,pollinates
+57678,58727,Berberis thunbergii,Japanese barberry,pollinates
+57678,794239,Liriope,Nymph Jellyfishes,pollinates
+57678,53168,Oxalis corniculata,Creeping Woodsorrel,pollinates
+57678,53350,Aesculus,buckeyes and horse-chestnuts,pollinates
+57678,71983,Argyranthemum,,pollinates
+57678,53022,Convolvulus,bindweeds,pollinates
+57678,62312,Campanula rotundifolia,Harebell,pollinates
+57678,53169,Oxalis pes-caprae,Bermuda buttercup,pollinates
+57678,181635,Argyranthemum frutescens,Marguerite daisy,pollinates
+57678,117433,Euonymus alatus,winged euonymus,pollinates
+57678,78882,Rosa multiflora,multiflora rose,pollinates
+57678,72165,Helichrysum,Everlasting-flowers,pollinates
+57678,52761,Hypericum,St. John's worts,pollinates
+57678,56162,Malva sylvestris,Common Mallow,pollinates
+57678,48896,Heliotropium,Heliotropes,pollinates
+57678,126823,Spiraea alba,white meadowsweet,pollinates
+57678,79137,Solanum elaeagnifolium,silverleaf nightshade,pollinates
+57678,50879,Erigeron,fleabanes and horseweeds,pollinates
+57678,63547,Dalea purpurea,purple prairie clover,pollinates
+57678,83065,Rosa arkansana,prairie rose,pollinates
+57678,158286,Amorpha canescens,leadplant,pollinates
+57678,64238,Tribulus terrestris,puncture vine,pollinates
+57678,77299,Gossypium hirsutum,Upland Cotton,pollinates
+57678,60132,Cirsium arvense,creeping thistle,pollinates
+57678,58203,Malvella leprosa,alkali mallow,pollinates
+57678,54143,Tragopogon dubius,Yellow Salsify,pollinates
+57678,67808,Solidago canadensis,Canada goldenrod,pollinates
+57678,81598,Dalea candida,white prairie clover,pollinates
+57678,57983,Helianthus annuus,Common Sunflower,pollinates
+57678,148406,Euphorbia albomarginata,whitemargin sandmat,pollinates
+57678,53021,Convolvulus arvensis,field bindweed,pollinates
+57678,57057,Medicago sativa,Alfalfa,pollinates
+57678,62642,Solanum rostratum,buffalo-bur,pollinates
+57678,62292,Asclepias speciosa,showy milkweed,pollinates
+57678,47905,Asclepias ovalifolia,oval-leaved milkweed,pollinates
+57678,85320,Monarda fistulosa,wild bergamot,pollinates
+57678,47359,Apocynum androsaemifolium,spreading dogbane,pollinates
+57678,,Achyranthes bidentata,,pollinates
+57678,,Desmodium hookerianum,,pollinates
+57678,,Hydrangea macrophylla,,pollinates
+57678,,Ranunculus silerifolius,,pollinates
+57678,,Corydalis incisa,,pollinates
+57678,,Deutzia crenata,,pollinates
+57678,,Paederia foetida,,pollinates
+57678,452047,Rubus palmatus,,pollinates
+57678,333071,Persicaria thunbergii,,pollinates
+57678,,Stenactis annua,,pollinates
+57678,47866,Thomisidae,Crab Spiders,preyedUponBy
+57678,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+57678,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+57678,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+57678,,Phymata crassipes,,preyedUponBy
+57678,119533,Phymata americana,Jagged Ambush Bug,preyedUponBy

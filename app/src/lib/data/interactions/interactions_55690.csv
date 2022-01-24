@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55690,,Brassica juncea,,eats
+55690,585467,Erucastrum arabicum,African Dogmustard,eats
+55690,,Caylusea abyssinica,,eats
+55690,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+55690,,Cotesia glomerata,,eatenBy
+55690,,Cotesia rubecula,,eatenBy
+55690,397475,Stephanitis rhododendri,Rhododendron Lace Bug,eatenBy
+55690,59281,Thomisus onustus,Pink Crab Spider,eatenBy
+55690,52628,Araneus diadematus,Cross Orbweaver,eatenBy
+55690,,Polygonia interrogationis,,eatenBy
+55690,,Xylocopa virginica,,eatenBy
+55690,,Orthetrum cancellatum,,eatenBy
+55690,52989,Cirsium vulgare,Bull Thistle,pollinates
+55690,51875,Trifolium pratense,red clover,pollinates
+55690,79408,Trifolium arvense,rabbitfoot clover,pollinates
+55690,60132,Cirsium arvense,creeping thistle,pollinates
+55690,84517,Epilobium hirsutum,Great Willowherb,pollinates
+55690,,Centaurea jacea,,pollinates
+55690,61321,Lythrum salicaria,purple loosestrife,pollinates
+55690,,Myosotis,,pollinates
+55690,,Geranium robertianum,,pollinates
+55690,,Lychnis flos-cuculi,,pollinates
+55690,,Cirsium oleraceum,,pollinates
+55690,,Silene dioica,,pollinates
+55690,,Valeriana officinalis,,pollinates
+55690,77990,Mentha aquatica,watermint,pollinates
+55690,,Polygonum amphibium,,pollinates
+55690,,Torilis japonica,,pollinates
+55690,,Trfolium sp1 M_PL_046,,pollinates
+55690,,Anthriscus sylvestris,,pollinates
+55690,,Rubus plicatus,,pollinates
+55690,,Chamerion angustifolium,,pollinates
+55690,79033,Sedum stenopetalum,Wormleaf Stonecrop,pollinates
+55690,,Echinacea angustifolia,,pollinates
+55690,,Cirsium hookerianum,,pollinates
+55690,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+55690,59281,Thomisus onustus,Pink Crab Spider,preyedUponBy
+55690,,Motacilla alba,,preyedUponBy
+55690,,Orthetrum cancellatum,,preyedUponBy

@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121180,124748,Macrocystis pyrifera,Giant Kelp,eats
+121180,54509,Octopus bimaculoides,Lesser Two-spot Octopus,eatenBy
+121180,125663,Kelletia kelletii,Kellet's Whelk,eatenBy
+121180,48833,Pisaster giganteus,Giant Sea Star,eatenBy
+121180,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+121180,125663,Kelletia kelletii,Kellet's Whelk,preyedUponBy
+121180,48833,Pisaster giganteus,Giant Sea Star,preyedUponBy

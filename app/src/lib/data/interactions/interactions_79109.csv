@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+79109,79109,Silene latifolia,white campion,eats
+79109,79109,Silene latifolia,white campion,eatenBy
+79109,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+79109,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+79109,,Harpalus rufipes,,eatenBy
+79109,,Harpalus affinis,,eatenBy
+79109,,Ophiomyia melandricaulis,,eatenBy
+79109,,Microbotryum,,eatenBy
+79109,,Sibinia pellucens,,eatenBy
+79109,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+79109,47213,Sphingidae,Sphinx Moths,pollinatedBy
+79109,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+79109,61356,Vespula,Ground Yellowjackets,pollinatedBy
+79109,47822,Diptera,Flies,pollinatedBy
+79109,,Hadena,,pollinatedBy
+79109,,Perizoma,,pollinatedBy

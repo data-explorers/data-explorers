@@ -1,0 +1,85 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58907,47219,Apis mellifera,Western Honey Bee,eatenBy
+58907,58532,Colias eurytheme,Orange Sulphur,eatenBy
+58907,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+58907,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+58907,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+58907,52484,Celastrina echo,Echo Azure,eatenBy
+58907,84640,Polistes dominula,European Paper Wasp,eatenBy
+58907,121517,Bombus terricola,Yellow-banded Bumble Bee,eatenBy
+58907,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+58907,52775,Bombus,Bumble Bees,eatenBy
+58907,55626,Pieris rapae,Cabbage White,eatenBy
+58907,146852,Bicyrtes quadrifasciatus,Four-banded Stink Bug Wasp,eatenBy
+58907,82527,Augochloropsis metallica,Metallic Epauletted-Sweat bee,eatenBy
+58907,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+58907,84950,Alypia octomaculata,Eight-spotted Forester Moth,eatenBy
+58907,50931,Strymon melinus,Gray Hairstreak,eatenBy
+58907,1409,Callipepla californica,California Quail,eatenBy
+58907,,Heliothis maritima,,eatenBy
+58907,,Anticarsia gemmatalis,,eatenBy
+58907,178650,Walshia,,eatenBy
+58907,,Plebejus idas,,eatenBy
+58907,,Sitona (Sitona) cylindricollis,,eatenBy
+58907,,Stenopterapion (Stenopterapion) meliloti,,eatenBy
+58907,,Tychius crassirostris,,eatenBy
+58907,,Diastictis ventralis,,eatenBy
+58907,,Micrurapteryx occulta,,eatenBy
+58907,118914,Echinargus isola,Reakirt's Blue,eatenBy
+58907,,Bombus ternarius,,eatenBy
+58907,,Nathalis iole,,eatenBy
+58907,520456,Icaricia acmon,Acmon Blue,eatenBy
+58907,133788,Xylocopa micans,Southern Carpenter Bee,eatenBy
+58907,116681,Atteva aurea,Ailanthus Webworm Moth,eatenBy
+58907,,Monobia quadridens,,eatenBy
+58907,,Uromyces baeumlerianus,,eatenBy
+58907,133655,Tropidia quadrata,Common Thick-leg Fly,eatenBy
+58907,69940,Hemiargus ceraunus,Ceraunus Blue,eatenBy
+58907,,Crioscolia alcione,,eatenBy
+58907,,Satyrium calanus,,eatenBy
+58907,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+58907,,Oreortyx pictus,,eatenBy
+58907,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+58907,47822,Diptera,Flies,pollinatedBy
+58907,70152,Calliphora,,pollinatedBy
+58907,48060,Prosopis,mesquites,pollinatedBy
+58907,82269,Crambus,,pollinatedBy
+58907,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",pollinatedBy
+58907,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+58907,129219,Euphoria fulgida,Emerald Euphoria,pollinatedBy
+58907,,Trineura,,pollinatedBy
+58907,,http://treatment.plazi.org/id/F12164839E129EE305929100DCC76253,,pollinatedBy
+58907,,Ceropales,,pollinatedBy
+58907,,Tryphon americanus,,pollinatedBy
+58907,,Pseudopanurgus,,pollinatedBy
+58907,,Carceris robertsonii,,pollinatedBy
+58907,,Physocephala texana,,pollinatedBy
+58907,,Mordellistena comata,,pollinatedBy
+58907,,Ceratina dupla,,pollinatedBy
+58907,,Onthophagus pennsylvanicus,,pollinatedBy
+58907,341139,Exorista,,pollinatedBy
+58907,,Epicauta,,pollinatedBy
+58907,,Mydas tibialis,,pollinatedBy
+58907,,Carmenta pyralidiformis,,pollinatedBy
+58907,,Epistrophe emarginata,,pollinatedBy
+58907,,Phorbia,,pollinatedBy
+58907,,Ancistrocerus,,pollinatedBy
+58907,,Elasmus nigripes,,pollinatedBy
+58907,,Phasia,,pollinatedBy
+58907,,Nematus,,pollinatedBy
+58907,177092,Meligethes,,pollinatedBy
+58907,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+58907,,Adscita statices,,pollinatedBy
+58907,,,,pollinatedBy
+58907,,Apion meliloti ,,pollinatedBy
+58907,,Polyommatus icarus ,,pollinatedBy
+58907,,Sitona lineatus,,pollinatedBy
+58907,,Bombus pascuorum,,pollinatedBy
+58907,,Episyrphus balteatus,,pollinatedBy
+58907,518212,Eoseristalis,,pollinatedBy
+58907,,Apion hookeri ,,pollinatedBy
+58907,,Undefined sp25 M_PL_018,,pollinatedBy
+58907,,Undefined sp22 M_PL_018,,pollinatedBy
+58907,,Undefined sp16 M_PL_018,,pollinatedBy
+58907,,Undefined sp17 M_PL_018,,pollinatedBy
+58907,,Xylocopa virginica virginica,,pollinatedBy

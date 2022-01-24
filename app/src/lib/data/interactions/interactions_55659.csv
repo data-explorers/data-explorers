@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55659,61399,Ocimum,Basils,eats
+55659,54570,Mentha,mints,eats
+55659,52326,Amaranthus,amaranths,eats
+55659,48448,Zea mays,Maize,eats
+55659,48592,Allium cepa,Common Onion,eats
+55659,161582,Dahlia pinnata,Garden Dahlia,eats
+55659,,Origanum,,eats
+55659,85469,Thymus vulgaris,common thyme,eats
+55659,,Salix caroliniana,,eats
+55659,,Momordica charantia,,eats
+55659,,Ocimum basilicum,,eats
+55659,,Thymus,,eats
+55659,,Zinnia elegans,,eats
+55659,,Citrullus lanatus,,eats
+55659,60335,Rhizophora mangle,red mangrove,eats
+55659,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+55659,250072,Metacyrba,,preyedUponBy
+55659,47550,Tetragnatha,,preyedUponBy
+55659,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+55659,203276,Orius,,preyedUponBy
+55659,,Dendroica,,preyedUponBy
+55659,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+55659,57451,Scytodes,,preyedUponBy
+55659,503114,Metatropiphorus belfragii,,preyedUponBy
+55659,53273,Eriophora,,preyedUponBy
+55659,778499,Leucauge venusta,Orchard Orbweaver,preyedUponBy
+55659,,Tyrannochelifer,,preyedUponBy
+55659,49541,Gasteracantha,Spiny Orbweavers,preyedUponBy
+55659,844909,Ariadna arthuri,,preyedUponBy
+55659,420613,Stoidis,,preyedUponBy
+55659,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+55659,135256,Eustala,,preyedUponBy
+55659,266087,Pachodynerus nasidens,Keyhole Wasp,preyedUponBy
+55659,467895,Melichares,,preyedUponBy
+55659,518452,Carthasis decoratus,,preyedUponBy
+55659,354274,Ballus,,preyedUponBy
+55659,49880,Misumenops,,preyedUponBy
+55659,84495,Paraphidippus,,preyedUponBy
+55659,,Scleroderma macrogaster,,preyedUponBy

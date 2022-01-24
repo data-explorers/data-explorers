@@ -1,0 +1,157 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+20445,1,Animalia,Animals,eats
+20445,3,Aves,Birds,eats
+20445,2,Chordata,Chordates,eats
+20445,40151,Mammalia,Mammals,eats
+20445,7251,Passeriformes,Perching Birds,eats
+20445,44081,Heteromyidae,Kangaroo Rats and Pocket Mice,eats
+20445,44349,Peromyscus,North American Deer Mice,eats
+20445,44737,Neotoma,Woodrats,eats
+20445,44027,Geomyidae,Pocket Gophers,eats
+20445,29033,Pituophis,"Pine, Gopher, and Bullsnakes",eats
+20445,36204,Sceloporus occidentalis,Western Fence Lizard,eats
+20445,45933,Sciuridae,Squirrels,eats
+20445,44259,Microtus,Meadow Voles,eats
+20445,43096,Sylvilagus,Cottontail Rabbits,eats
+20445,36982,Scincidae,Skinks,eats
+20445,44093,Chaetodipus californicus,California Pocket Mouse,eats
+20445,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+20445,44311,Microtus pennsylvanicus,Meadow Vole,eats
+20445,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+20445,44576,Rattus norvegicus,Brown Rat,eats
+20445,44062,Thomomys bottae,Botta's Pocket Gopher,eats
+20445,47120,Arthropoda,Arthropods,eats
+20445,43115,Sylvilagus audubonii,Desert Cottontail,eats
+20445,44419,Reithrodontomys,American Harvest Mice,eats
+20445,43839,Zapus,,eats
+20445,46881,Blarina,Short-tailed Shrews,eats
+20445,46342,Sorex,Long-tailed Shrews,eats
+20445,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+20445,44540,Rattus,Old World Rats,eats
+20445,12936,Sialia currucoides,Mountain Bluebird,eats
+20445,9535,Sturnella neglecta,Western Meadowlark,eats
+20445,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+20445,45763,Ondatra zibethicus,Muskrat,eats
+20445,14850,Sturnus vulgaris,European Starling,eats
+20445,7294,Eremophila alpestris,Horned Lark,eats
+20445,44059,Geomys bursarius,Plains Pocket Gopher,eats
+20445,26036,Reptilia,Reptiles,eats
+20445,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+20445,48894,Scorpiones,Scorpions,eats
+20445,8229,Cyanocitta cristata,Blue Jay,eats
+20445,9175,Zonotrichia,Zonotrichia Sparrows,eats
+20445,14877,Mimus,Typical Mockingbirds,eats
+20445,44061,Thomomys,Western Pocket Gophers,eats
+20445,47158,Insecta,Insects,eats
+20445,9526,Sturnella,Eastern and Western Meadowlarks,eats
+20445,46341,Soricidae,Shrews,eats
+20445,9980,Passerculus,Passerculus Sparrows,eats
+20445,44082,Chaetodipus,,eats
+20445,46927,Talpidae,Moles and Desmans,eats
+20445,9981,Passerculus sandwichensis,Savannah Sparrow,eats
+20445,14841,Sturnidae,Starlings,eats
+20445,13858,Passer domesticus,House Sparrow,eats
+20445,43095,Leporidae,Hares and Rabbits,eats
+20445,40270,Myotis,Mouse-eared Bats,eats
+20445,43840,Zapus hudsonius,Meadow Jumping Mouse,eats
+20445,44396,Peromyscus maniculatus,Deer Mouse,eats
+20445,44395,Peromyscus leucopus,White-footed Mouse,eats
+20445,59815,Sorex cinereus,Masked Shrew,eats
+20445,47014,Scalopus aquaticus,Eastern Mole,eats
+20445,42652,Didelphis virginiana,Virginia Opossum,eats
+20445,46217,Tamias striatus,Eastern Chipmunk,eats
+20445,43698,Rodentia,Rodents,eats
+20445,46272,Glaucomys volans,Southern Flying Squirrel,eats
+20445,10094,Junco hyemalis,Dark-eyed Junco,eats
+20445,9602,Quiscalus quiscula,Common Grackle,eats
+20445,144351,Poecile,Chickadees and Allies,eats
+20445,9100,Melospiza melodia,Song Sparrow,eats
+20445,9184,Zonotrichia albicollis,White-throated Sparrow,eats
+20445,9083,Cardinalis cardinalis,Northern Cardinal,eats
+20445,71349,Parulidae,New World Warblers,eats
+20445,10373,Molothrus ater,Brown-headed Cowbird,eats
+20445,12727,Turdus migratorius,American Robin,eats
+20445,7428,Bombycilla cedrorum,Cedar Waxwing,eats
+20445,9152,Spizella pusilla,Field Sparrow,eats
+20445,14886,Mimus polyglottos,Northern Mockingbird,eats
+20445,9424,Pipilo erythrophthalmus,Eastern Towhee,eats
+20445,9079,Fringillidae,"Finches, Euphonias, and Allies",eats
+20445,44575,Rattus rattus,Black Rat,eats
+20445,13685,Passeridae,Old World Sparrows,eats
+20445,17599,Picidae,Woodpeckers,eats
+20445,5562,Trochilidae,Hummingbirds,eats
+20445,6888,Anseriformes,Waterfowl,eats
+20445,574,Phasianidae,"Pheasants, Grouse, and Allies",eats
+20445,15964,Troglodytidae,Wrens,eats
+20445,3835,Scolopacidae,Sandpipers and Allies,eats
+20445,2715,Columbidae,Pigeons and Doves,eats
+20445,48201,Scarabaeidae,Scarabs,eats
+20445,3017,Columba livia,Rock Pigeon,eats
+20445,47208,Coleoptera,Beetles,eats
+20445,35707,Podarcis carbonelli,Carbonell’s Wall Lizard,eats
+20445,44326,Microtus californicus,California Vole,eats
+20445,36094,Uta stansburiana,Common Side-blotched Lizard,eats
+20445,,Thylamys elegans,,eats
+20445,44824,Oligoryzomys longicaudatus,long-tailed pygmy rice rat,eats
+20445,,Phyllotis darwini,,eats
+20445,,Abrocoma bennettii,,eats
+20445,,Octodon degus,,eats
+20445,,Abrothrix olivaceus,,eats
+20445,,Spalacopus cyanus,,eats
+20445,,Abrothrix longipilis,,eats
+20445,41801,Mustela,,eatenBy
+20445,85553,Serpentes,Snakes,eatenBy
+20445,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+20445,20044,Bubo virginianus,Great Horned Owl,eatenBy
+20445,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+20445,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+20445,,Aquila heliaca,,eatenBy
+20445,5081,Aquila adalberti,Spanish Eagle,eatenBy
+20445,19898,Strix aluco,Tawny Owl,eatenBy
+20445,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+20445,,Coloeus monedula,,eatenBy
+20445,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+20445,,Elaphe situla,,eatenBy
+20445,39407,Varanus griseus,Desert Monitor,eatenBy
+20445,27035,Hierophis viridiflavus carbonarius,,eatenBy
+20445,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+20445,28451,Telescopus nigriceps,Black headed snake,eatenBy
+20445,,Aquila chrysaetos,,eatenBy
+20445,5267,Milvus milvus,Red Kite,eatenBy
+20445,4684,Falco biarmicus,Lanner Falcon,eatenBy
+20445,204472,Buteo buteo,Common Buzzard,eatenBy
+20445,,Coleura seychellensis,,eatenBy
+20445,40151,Mammalia,Mammals,preysOn
+20445,20979,Anura,Frogs and Toads,preysOn
+20445,1,Animalia,Animals,preysOn
+20445,533971,Eulipotyphla,"Shrews, Moles, Hedgehogs, and Allies",preysOn
+20445,43698,Rodentia,Rodents,preysOn
+20445,36094,Uta stansburiana,Common Side-blotched Lizard,preysOn
+20445,85552,Sauria,Lizards,preysOn
+20445,44062,Thomomys bottae,Botta's Pocket Gopher,preysOn
+20445,,Corallus hortulanus,,preysOn
+20445,,Pteropodidae,,preysOn
+20445,40572,Nyctalus noctula,Common Noctule,preysOn
+20445,40446,Vespertilio murinus,Particoloured Bat,preysOn
+20445,,Plecotus austriacus,,preysOn
+20445,1150085,Myotis myotis,,preysOn
+20445,,Pipistrellus nathusii,,preysOn
+20445,40364,Pipistrellus pipistrellus,Common Pipistrelle,preysOn
+20445,40314,Myotis mystacinus,Whiskered Bat,preysOn
+20445,74697,Myotis bechsteinii,Bechstein's bat,preysOn
+20445,207811,Eptesicus serotinus,Serotine Bat,preysOn
+20445,,Plecotus auritus,,preysOn
+20445,41298,Tadarida teniotis,European Free-tailed Bat,preysOn
+20445,40581,Barbastella barbastellus,Western Barbastelle,preysOn
+20445,,Pteropus tonganus,,preysOn
+20445,,Pteropus samoensis,,preysOn
+20445,,Coleura seychellensis,,preysOn
+20445,,Tadarida laticaudata,,preysOn
+20445,,Myotis daubentonii,,preysOn
+20445,25474,Rana,Pond Frogs,preysOn
+20445,25312,Pelobates fuscus,Common Spadefoot,preysOn
+20445,25591,Rana temporaria,European Common Frog,preysOn
+20445,198673,Baiomys taylori taylori,,preysOn
+20445,,Pisanianura,,preysOn
+20445,40509,Eptesicus fuscus,Big Brown Bat,preysOn
+20445,20044,Bubo virginianus,Great Horned Owl,preyedUponBy

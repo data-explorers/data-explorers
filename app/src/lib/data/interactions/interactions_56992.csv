@@ -1,0 +1,79 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56992,55626,Pieris rapae,Cabbage White,eatenBy
+56992,59119,Pontia protodice,Checkered White,eatenBy
+56992,49995,Syrphidae,Hover Flies,eatenBy
+56992,48662,Danaus plexippus,Monarch,eatenBy
+56992,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+56992,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+56992,47219,Apis mellifera,Western Honey Bee,eatenBy
+56992,129893,Sphaerophoria sulphuripes,Forked Globetail,eatenBy
+56992,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+56992,1081332,Lon melane,Umber Skipper,eatenBy
+56992,300137,Isodontia elegans,Elegant Grass-carrying Wasp,eatenBy
+56992,49133,Vanessa atalanta,Red Admiral,eatenBy
+56992,243984,Pyrausta californicalis,California Pyrausta Moth,eatenBy
+56992,1102259,Copestylum violaceum,,eatenBy
+56992,119561,Helophilus fasciatus,Narrow-headed Marsh Fly,eatenBy
+56992,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+56992,50931,Strymon melinus,Gray Hairstreak,eatenBy
+56992,59194,Ochlodes sylvanoides,Woodland Skipper,eatenBy
+56992,128845,Copestylum mexicanum,Mexican Cactus Fly,eatenBy
+56992,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+56992,59189,Erynnis tristis,Mournful Duskywing,eatenBy
+56992,52484,Celastrina echo,Echo Azure,eatenBy
+56992,84640,Polistes dominula,European Paper Wasp,eatenBy
+56992,372700,Gastrosericina,,eatenBy
+56992,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+56992,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+56992,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+56992,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+56992,126545,Dialictus,Metallic Sweat Bees,eatenBy
+56992,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+56992,1021509,Junonia grisea,Gray Buckeye,eatenBy
+56992,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+56992,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+56992,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+56992,127812,Hylaeus,Masked Bees,eatenBy
+56992,437512,Palpada mexicana,Golden Plushback,eatenBy
+56992,335743,Sphaerophoria contigua,Tufted Globetail,eatenBy
+56992,124431,Cycloneda sanguinea,Spotless Lady Beetle,eatenBy
+56992,133762,Villa,,eatenBy
+56992,,Plutella xylostella,,eatenBy
+56992,,Zethenia rufescentaria,,eatenBy
+56992,,Ascia monuste,,eatenBy
+56992,,Delia radicum,,eatenBy
+56992,,Agraulis vanillae,,eatenBy
+56992,,Eristalis hirta,,eatenBy
+56992,55719,Eristalis tenax,Common Drone Fly,eatenBy
+56992,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+56992,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+56992,,Myathropa florea,,eatenBy
+56992,,Isodontia mexicana,,eatenBy
+56992,,Eristalinus aeneus,,eatenBy
+56992,,Epirrhoe plebeculata,,eatenBy
+56992,322368,Syrphus opinator,Black-margined Flower Fly,eatenBy
+56992,,Phyciodes mylitta,,eatenBy
+56992,,Neotephritis finalis,,eatenBy
+56992,,Hylaeus mesillae cressoni,,eatenBy
+56992,,Eucerceris provancheri,,eatenBy
+56992,121504,Svastra obliqua,Oblique Longhorn,eatenBy
+56992,477991,Annaphila astrologa,,eatenBy
+56992,57671,Anthidium,Carder Bees,pollinatedBy
+56992,57678,Lasioglossum,,pollinatedBy
+56992,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+56992,47199,Ichneumonidae,Ichneumonid Wasps,pollinatedBy
+56992,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",pollinatedBy
+56992,49707,Halictidae,Sweat Bees,pollinatedBy
+56992,54010,Lycaena,Copper Butterflies,pollinatedBy
+56992,60628,Tenthredinidae,Common Sawflies,pollinatedBy
+56992,47336,Formicidae,Ants,pollinatedBy
+56992,121516,Chalcididae,Chalcidid Wasps,pollinatedBy
+56992,47822,Diptera,Flies,pollinatedBy
+56992,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+56992,47208,Coleoptera,Beetles,pollinatedBy
+56992,,Andrena,,pollinatedBy
+56992,319088,Oedemera flavipes,,pollinatedBy
+56992,451389,Oedemera lurida,,pollinatedBy
+56992,,Eumenidae,,pollinatedBy
+56992,,Self pollinated,,pollinatedBy
+56992,,Camponotus micans,,pollinatedBy

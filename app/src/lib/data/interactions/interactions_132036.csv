@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+132036,,saphrophytes,,eats
+132036,17355,Vireo,Vireos,eatenBy
+132036,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+132036,145233,Setophaga americana,Northern Parula,eatenBy
+132036,11941,Riparia riparia,Bank Swallow,eatenBy
+132036,52932,Cantharidae,Soldier Beetles,preyedUponBy
+132036,47951,Staphylinidae,Rove Beetles,preyedUponBy
+132036,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+132036,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+132036,510480,Othius,,preyedUponBy
+132036,121773,Clubionidae,Sac Spiders,preyedUponBy
+132036,,Lithobius,,preyedUponBy
+132036,537133,Lithobius crassipes,,preyedUponBy
+132036,739596,Lithobius mutabilis,,preyedUponBy
+132036,452503,Robertus lividus,,preyedUponBy
+132036,127023,Amaurobius,Lace web spider,preyedUponBy
+132036,,Campodea,,preyedUponBy
+132036,784286,Micrargus apertus,,preyedUponBy
+132036,,Malthodes,,preyedUponBy
+132036,,Palliduphantes pallidus,,preyedUponBy

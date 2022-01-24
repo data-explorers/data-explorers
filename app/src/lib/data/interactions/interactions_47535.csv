@@ -1,0 +1,205 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47535,123880,Bacillariophyceae,Diatoms,eats
+47535,,Detritus,,eats
+47535,,Algae,,eats
+47535,,Exochomus quadripustulatus,,eats
+47535,100215,Epitheca princeps,Prince Baskettail,eats
+47535,,Macroalgae,,eats
+47535,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47535,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+47535,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+47535,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+47535,145238,Setophaga petechia,Yellow Warbler,eatenBy
+47535,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+47535,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+47535,981,Phasianus colchicus,Ring-necked Pheasant,eatenBy
+47535,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47535,17356,Vireo bellii,Bell's Vireo,eatenBy
+47535,14850,Sturnus vulgaris,European Starling,eatenBy
+47535,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+47535,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47535,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47535,16602,Empidonax minimus,Least Flycatcher,eatenBy
+47535,,Empidonax flaviventris,,eatenBy
+47535,,Empidonax traillii,,eatenBy
+47535,979756,Leiothlypis peregrina,Tennessee Warbler,eatenBy
+47535,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+47535,,Alectoris chukar,,eatenBy
+47535,,Corvus caurinus,,eatenBy
+47535,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+47535,58662,Semotilus atromaculatus,Creek Chub,eatenBy
+47535,891696,Pica pica,Eurasian Magpie,eatenBy
+47535,3931,Scolopax rusticola,Eurasian Woodcock,eatenBy
+47535,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+47535,114127,Thymallus thymallus,Grayling,eatenBy
+47535,,Helmitheros vermivorum,,eatenBy
+47535,,Dendrocopos medius,,eatenBy
+47535,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+47535,,Dendrocopos minor,,eatenBy
+47535,61267,Heteroptera,True Bugs,preysOn
+47535,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+47535,84670,Ephydridae,Shore Flies,preysOn
+47535,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+47535,127593,Chloropidae,Frit Flies,preysOn
+47535,55351,Phoridae,Humpbacked Flies,preysOn
+47535,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+47535,52073,Fulgoroidea,Planthoppers,preysOn
+47535,48086,Agromyzidae,Leaf-miner Flies,preysOn
+47535,51225,Tipulidae,Large Crane Flies,preysOn
+47535,47822,Diptera,Flies,preysOn
+47535,52584,Pantala hymenaea,Spot-winged Glider,preysOn
+47535,126791,Nitidulidae,Sap-feeding Beetles,preysOn
+47535,53816,Tenebrionidae,Darkling Beetles,preysOn
+47535,203300,Tetrastichus,,preysOn
+47535,,Sciaridae,,preysOn
+47535,174422,Hybotidae,Hybotid Dance Flies,preysOn
+47535,52380,Aphidoidea,,preysOn
+47535,1200333,Teuchophorus calcaratus,,preysOn
+47535,,Rhegmoclema verralli,,preysOn
+47535,,Ootetrastichus,,preysOn
+47535,342818,Proctotrupoidea,,preysOn
+47535,,Sphaerocidae,,preysOn
+47535,624522,Hebrus pusillus,,preysOn
+47535,,Chrysotus cilipes,,preysOn
+47535,49460,Empididae,Dance Flies,preysOn
+47535,,Mycetophilidae,,preysOn
+47535,69803,Ceratopogonidae,Biting Midges,preysOn
+47535,177092,Meligethes,,preysOn
+47535,,Aprostocetus,,preysOn
+47535,143336,Phlaeothripidae,Tube-tailed Thrips,preysOn
+47535,,Aphthona lutescens,,preysOn
+47535,,Campsicnemus scambus,,preysOn
+47535,,Hebrus ruficeps,,preysOn
+47535,,Pipinculus sp,,preysOn
+47535,130265,Tetramesa,,preysOn
+47535,,Haplothrips,,preysOn
+47535,1200309,Argyra vestita,,preysOn
+47535,,Chaetocnema confusa,,preysOn
+47535,,Pediobius,,preysOn
+47535,174329,Microphysidae,Minute Bladder Bugs,preysOn
+47535,,Thripidae,,preysOn
+47535,1087985,Swammerdamella brevicornis,,preysOn
+47535,50190,Cicadoidea,Cicadas,preysOn
+47535,,Eupterygini,,preysOn
+47535,354851,Eucoilinae,,preysOn
+47535,123596,Chilocorus bipustulatus,Heather Ladybird,preysOn
+47535,,Callitula ferrierei,,preysOn
+47535,203213,Diapriidae,,preysOn
+47535,248060,Dixella,,preysOn
+47535,123608,Delphacidae,,preysOn
+47535,569944,Limothrips denticornis,,preysOn
+47535,,Thripomorpha paludicola,,preysOn
+47535,,Pyrocoelia analis,,preysOn
+47535,100215,Epitheca princeps,Prince Baskettail,preysOn
+47535,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preysOn
+47535,100391,Erythrodiplax berenice,Seaside Dragonlet,preysOn
+47535,,Araneus bicentenarius,,preysOn
+47535,,Lithobius,,preysOn
+47535,,Mesaphorura,,preysOn
+47535,494566,Athous subfuscus,,preysOn
+47535,203389,Megalothorax,,preysOn
+47535,,Tullbergia callipygos,,preysOn
+47535,,Metaphorura affinis,,preysOn
+47535,1019262,Willemia anophthalma,,preysOn
+47535,1029352,Scolopendrella,,preysOn
+47535,,Habrocerus capillaricornis,,preysOn
+47535,,Scydmaenidae,,preysOn
+47535,,Lamprohiza splendidula,,preysOn
+47535,,Veigaia nemorensis,,preysOn
+47535,,Veigaia exigua,,preysOn
+47535,,Scutigerella immaculata,,preysOn
+47535,,Veigaia cerva,,preysOn
+47535,,Athous,,preysOn
+47535,203275,Xantholinus,,preysOn
+47535,172978,Atheta,vexing rove beetles,preysOn
+47535,510480,Othius,,preysOn
+47535,,Mesaphorura macrochaeta,,preysOn
+47535,177515,Leptacinus,,preysOn
+47535,,Dicyrtoma fusca,,preysOn
+47535,,Agriotinae sp1 (juv),,preysOn
+47535,,Mesaphorura sylvatica,,preysOn
+47535,392787,Mocyta fungi,,preysOn
+47535,,Anthicus flavipes,,preysOn
+47535,,Tomocerus flavescens,,preysOn
+47535,,Neanura muscorum,,preysOn
+47535,174025,Dalopius marginatus,,preysOn
+47535,132015,Rugilus,,preysOn
+47535,953750,Acrotona sylvicola,,preysOn
+47535,457780,Geostiba circellaris,,preysOn
+47535,,Stenus mendicus,,preysOn
+47535,,Platybunus,,preysOn
+47535,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy
+47535,49552,Scutigera coleoptrata,House Centipede,preyedUponBy
+47535,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47535,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+47535,47951,Staphylinidae,Rove Beetles,preyedUponBy
+47535,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+47535,47345,Agelenidae,Funnel Weavers,preyedUponBy
+47535,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+47535,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+47535,47416,Lycosidae,Wolf Spiders,preyedUponBy
+47535,48139,Salticidae,Jumping Spiders,preyedUponBy
+47535,148395,Trochosa,,preyedUponBy
+47535,47866,Thomisidae,Crab Spiders,preyedUponBy
+47535,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+47535,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+47535,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47535,447460,Clubiona phragmitis,,preyedUponBy
+47535,,Euphagus carolinus,,preyedUponBy
+47535,979756,Leiothlypis peregrina,Tennessee Warbler,preyedUponBy
+47535,84494,Paraphidippus aurantius,Golden Jumping Spider,preyedUponBy
+47535,739596,Lithobius mutabilis,,preyedUponBy
+47535,121773,Clubionidae,Sac Spiders,preyedUponBy
+47535,490815,Neobisium carcinoides,Moss Neobisid,preyedUponBy
+47535,,Lithobius,,preyedUponBy
+47535,,Malthodes,,preyedUponBy
+47535,,Geophilus ribauti,,preyedUponBy
+47535,568199,Lithobius curtipes,,preyedUponBy
+47535,784286,Micrargus apertus,,preyedUponBy
+47535,705967,Harpactea lepida,,preyedUponBy
+47535,,Lithobius muticus,,preyedUponBy
+47535,521083,Strigamia acuminata,,preyedUponBy
+47535,490816,Neobisium,,preyedUponBy
+47535,784149,Diplocephalus picinus,,preyedUponBy
+47535,701423,Histopona torpida,,preyedUponBy
+47535,491325,Geophilus electricus,,preyedUponBy
+47535,,Walckenaeria furcillata,,preyedUponBy
+47535,360817,Coelotes,,preyedUponBy
+47535,,Euophrys frontalis,,preyedUponBy
+47535,452503,Robertus lividus,,preyedUponBy
+47535,,Gonatium rubens,,preyedUponBy
+47535,230519,Schendyla nemorensis,,preyedUponBy
+47535,496759,Geophilus insculptus,,preyedUponBy
+47535,510480,Othius,,preyedUponBy
+47535,,Campodea,,preyedUponBy
+47535,905423,Lithobius macilentus,,preyedUponBy
+47535,,Donacochara speciosa,,preyedUponBy
+47535,127023,Amaurobius,Lace web spider,preyedUponBy
+47535,,Centomerus sylvaticus,,preyedUponBy
+47535,1004280,Othius subuliformis,,preyedUponBy
+47535,784196,Walckenaeria cucullata,,preyedUponBy
+47535,131093,Harpalus,,preyedUponBy
+47535,153747,Robertus,,preyedUponBy
+47535,362800,Clubiona comta,,preyedUponBy
+47535,510481,Othius punctulatus,,preyedUponBy
+47535,504180,Microlestes minutulus,,preyedUponBy
+47535,,Pachygnatha degeeri,,preyedUponBy
+47535,793485,Stenus impressus,,preyedUponBy
+47535,,Gyrohypnus,,preyedUponBy
+47535,360548,Zora spinimana,,preyedUponBy
+47535,318917,Euryopis flavomaculata,,preyedUponBy
+47535,203275,Xantholinus,,preyedUponBy
+47535,637234,Xysticus erraticus,,preyedUponBy
+47535,494566,Athous subfuscus,,preyedUponBy
+47535,496623,Notiophilus rufipes,,preyedUponBy
+47535,336908,Cryptops hortensis,Common Cryptops,preyedUponBy
+47535,131943,Rugilus rufipes,,preyedUponBy
+47535,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+47535,41190,Nycteris woodi,Wood's Slit-faced Bat,preyedUponBy
+47535,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+47535,,Myotis dasycneme,,preyedUponBy
+47535,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy
+47535,40552,Chalinolobus nigrogriseus,Hoary Wattled Bat,preyedUponBy
+47535,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+47535,,Antrozous pallidus,,preyedUponBy
+47535,,Episyron rufipes,,preyedUponBy

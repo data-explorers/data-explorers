@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48563,48147,Isopoda,Isopods,eats
+48563,47827,Cancer,,eats
+48563,195355,Hyperiidae,,eats
+48563,121639,Brachyura,True Crabs,eats
+48563,47186,Decapoda,Decapods,eats
+48563,47584,Bivalvia,Bivalves,eats
+48563,47626,Caprellidae,Skeleton Shrimp,eats
+48563,85912,Mysidae,,eats
+48563,47490,Polychaeta,Polychaete Worms,eats
+48563,59806,Gammaridae,,eats
+48563,47710,Pandalidae,,eats
+48563,48817,Crangon,,eats
+48563,144115,Cumacea,Hooded Shrimp,eats
+48563,61752,Raja microocellata,Smalleyed Skate,eatenBy
+48563,50984,Pomatomus saltatrix,Bluefish,eatenBy
+48563,61388,Scophthalmus aquosus,Windowpane Flounder,eatenBy
+48563,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+48563,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+48563,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+48563,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+48563,194675,Lophius americanus,American Monkfish,eatenBy
+48563,47634,Hemitripterus americanus,Sea Raven,eatenBy
+48563,49513,Cynoscion,Weakfishes,eatenBy
+48563,233277,Urophycis tenuis,White Hake,eatenBy
+48563,63742,Gadidae,Cods and Haddocks,eatenBy
+48563,,Chondrichthyes,,eatenBy
+48563,83846,Urophycis chuss,squirrel hake,eatenBy
+48563,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+48563,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+48563,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+48563,430553,Merlangius merlangus,Whiting,eatenBy
+48563,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+48563,136618,Istiophorus albicans,Atlantic Sailfish,eatenBy
+48563,215458,Brosme brosme,Cusk,eatenBy
+48563,49509,Lutjanus griseus,Grey Snapper,eatenBy
+48563,96768,Carcharias taurus,Sand Tiger Shark,eatenBy
+48563,56765,Sphyrna zygaena,Smooth Hammerhead,eatenBy
+48563,179621,Atractoscion aequidens,Teraglin,eatenBy
+48563,55529,Carcharhinus limbatus,Common Blacktip Shark,eatenBy
+48563,111752,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark,eatenBy
+48563,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+48563,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+48563,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+48563,,Zeus faber,,eatenBy
+48563,63740,Gadus morhua,Atlantic Cod,eatenBy
+48563,101187,Galeus nipponensis,Broadfin Sawtail Catshark,eatenBy
+48563,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+48563,4631,Fregata magnificens,Magnificent Frigatebird,eatenBy
+48563,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+48563,,Zeus faber,,preyedUponBy

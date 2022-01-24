@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+120676,1,Animalia,Animals,eats
+120676,85493,Crustacea,Crustaceans,eats
+120676,,,,eats
+120676,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+120676,121187,Sepioteuthis lessoniana,Bigfin Reef Squid,eatenBy
+120676,41687,Phocidae,Earless Seals,eatenBy
+120676,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eatenBy
+120676,47459,Cephalopoda,Cephalopods,eatenBy
+120676,4436,Sterna dougallii,Roseate Tern,eatenBy
+120676,4389,Larus cachinnans,Caspian Gull,eatenBy
+120676,474811,Uroteuthis edulis,swordtip squid,eatenBy
+120676,201536,Loligo forbesii,Veined Squid,eatenBy
+120676,118603,Merluccius merluccius,European Hake,eatenBy
+120676,617335,Merluccius capensis,South African Hake,eatenBy
+120676,179621,Atractoscion aequidens,Teraglin,eatenBy
+120676,,Chondrichthyes,,eatenBy
+120676,82352,Merlucciidae,Merlucciid Hakes,eatenBy
+120676,118589,Conger conger,European Conger,eatenBy
+120676,47263,Sphyraena,Barracudas,eatenBy
+120676,48397,Raja clavata,Thornback Skate,eatenBy
+120676,51553,Seriola rivoliana,Highfin Amberjack,eatenBy
+120676,113701,Synodus saurus,Atlantic Lizardfish,eatenBy
+120676,,Zeus faber,,eatenBy
+120676,101176,Galeorhinus galeus,School Shark,eatenBy
+120676,118647,Lepidopus caudatus,Frostfish,eatenBy
+120676,1,Animalia,Animals,preysOn
+120676,41573,Carnivora,Carnivorans,preysOn
+120676,317152,Hygophum benoiti,,preysOn
+120676,3,Aves,Birds,preyedUponBy
+120676,47459,Cephalopoda,Cephalopods,preyedUponBy
+120676,47266,Scombridae,"Mackerels, Tunas, and Bonitos",preyedUponBy
+120676,41687,Phocidae,Earless Seals,preyedUponBy
+120676,56045,Limanda ferruginea,Yellowtail flounder,preyedUponBy
+120676,42330,Kobus kob,Kob,preyedUponBy
+120676,,whales and dolphins,,preyedUponBy
+120676,179621,Atractoscion aequidens,Teraglin,preyedUponBy
+120676,55387,Esox lucius,Northern Pike,preyedUponBy
+120676,152871,Cetacea,Cetaceans,preyedUponBy
+120676,,Chondrichthyes,,preyedUponBy
+120676,82352,Merlucciidae,Merlucciid Hakes,preyedUponBy
+120676,47263,Sphyraena,Barracudas,preyedUponBy
+120676,48397,Raja clavata,Thornback Skate,preyedUponBy
+120676,101176,Galeorhinus galeus,School Shark,preyedUponBy
+120676,51553,Seriola rivoliana,Highfin Amberjack,preyedUponBy
+120676,113701,Synodus saurus,Atlantic Lizardfish,preyedUponBy
+120676,,Zeus faber,,preyedUponBy
+120676,118647,Lepidopus caudatus,Frostfish,preyedUponBy
+120676,118589,Conger conger,European Conger,preyedUponBy

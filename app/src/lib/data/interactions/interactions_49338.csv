@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49338,47219,Apis mellifera,Western Honey Bee,eatenBy
+49338,129363,Calephelis nemesis,Fatal Metalmark,eatenBy
+49338,49133,Vanessa atalanta,Red Admiral,eatenBy
+49338,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+49338,338310,Allograpta exotica,Exotic Streaktail,eatenBy
+49338,153887,Polistes aurifer,Golden Paper Wasp,eatenBy
+49338,,Carolella busckana,,eatenBy
+49338,,Bucculatrix enceliae,,eatenBy
+49338,,Aspila,,pollinatedBy

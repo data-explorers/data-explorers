@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+574,85553,Serpentes,Snakes,eats
+574,,no name,,eats
+574,,bovine or equine dung,,eats
+574,42051,Canis latrans,Coyote,eatenBy
+574,43584,Homo sapiens,Human,eatenBy
+574,85553,Serpentes,Snakes,eatenBy
+574,42069,Vulpes vulpes,Red Fox,eatenBy
+574,20044,Bubo virginianus,Great Horned Owl,eatenBy
+574,20445,Tyto alba,Barn Owl,eatenBy
+574,4756,Cathartes aura,Turkey Vulture,eatenBy
+574,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+574,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+574,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+574,42048,Canis lupus,Gray Wolf,eatenBy
+574,41852,Gulo gulo,Wolverine,eatenBy
+574,,Coyote,,eatenBy
+574,,American mink,,eatenBy
+574,,Felis silvestris lybica,,eatenBy
+574,,Canis lupus familiaris,,eatenBy
+574,,Aquila chrysaetos,,eatenBy
+574,4657,Falco rusticolus,Gyrfalcon,eatenBy
+574,5108,Accipiter gentilis,Northern Goshawk,eatenBy

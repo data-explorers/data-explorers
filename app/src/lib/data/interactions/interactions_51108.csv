@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51108,410430,Schedophilus maculatus,Raft-fish,eatenBy
+51108,39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,eatenBy
+51108,363519,Alepocephalus rostratus,Risso's smooth-head,eatenBy
+51108,,Seriolella brama,,eatenBy
+51108,,Hyperoglyphe antarctica,,eatenBy
+51108,,Seriolella tinro,,eatenBy
+51108,51322,Dalatias licha,Black Shark,eatenBy
+51108,529871,Epigonus lenimen,Bigeye Deepsea Cardinalfish,eatenBy
+51108,338921,Macruronus novaezelandiae,Blue Grenadier,eatenBy
+51108,,Neocyttus rhomboidalis,,eatenBy
+51108,451719,Helicolenus percoides,Sea Perch,eatenBy
+51108,114273,Trachurus murphyi,Peruvian Jack Mackerel,eatenBy
+51108,51403,Seriolella punctata,Silver Warehou,eatenBy
+51108,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+51108,41541,Grampus griseus,Risso's Dolphin,eatenBy
+51108,106881,Nephrops norvegicus,Norway lobster,eatenBy
+51108,410430,Schedophilus maculatus,Raft-fish,preyedUponBy
+51108,,Seriolella brama,,preyedUponBy
+51108,,Hyperoglyphe antarctica,,preyedUponBy
+51108,363519,Alepocephalus rostratus,Risso's smooth-head,preyedUponBy
+51108,41541,Grampus griseus,Risso's Dolphin,preyedUponBy
+51108,,Seriolella tinro,,preyedUponBy
+51108,114273,Trachurus murphyi,Peruvian Jack Mackerel,preyedUponBy
+51108,,Neocyttus rhomboidalis,,preyedUponBy
+51108,529871,Epigonus lenimen,Bigeye Deepsea Cardinalfish,preyedUponBy
+51108,451719,Helicolenus percoides,Sea Perch,preyedUponBy
+51108,338921,Macruronus novaezelandiae,Blue Grenadier,preyedUponBy

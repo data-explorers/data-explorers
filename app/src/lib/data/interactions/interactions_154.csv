@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+154,42069,Vulpes vulpes,Red Fox,eatenBy
+154,20044,Bubo virginianus,Great Horned Owl,eatenBy
+154,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+154,42051,Canis latrans,Coyote,eatenBy
+154,,Python molurus bivittatus,,eatenBy
+154,519,Porphyrio martinica,Purple Gallinule,eatenBy
+154,20315,Asio flammeus,Short-eared Owl,eatenBy
+154,62807,Mytilus,Black Mussels,preysOn
+154,48919,Littorina,Periwinkles,preysOn
+154,47126,Plantae,plants,preysOn
+154,52524,Carcinus,Green Crabs,preysOn
+154,81636,Mya,,preysOn
+154,91276,Potamopyrgus,,preysOn
+154,,Hydrobia,,preysOn
+154,59807,Gammarus,,preysOn
+154,378019,Rissoa,,preysOn
+154,210231,Cerastoderma,,preysOn
+154,71252,Macoma,,preysOn
+154,,Fimbria,,preysOn
+154,,Macroalgae,,preysOn
+154,203392,Jaera,,preysOn
+154,48817,Crangon,,preysOn
+154,,Turboella,,preysOn
+154,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+154,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+154,30853,Bitis gabonica,Gaboon Viper,preyedUponBy
+154,204470,Bubo africanus,Spotted Eagle-Owl,preyedUponBy

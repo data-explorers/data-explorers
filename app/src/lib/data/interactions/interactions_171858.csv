@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+171858,92583,Trachurus,Jack Mackerels,eatenBy
+171858,63740,Gadus morhua,Atlantic Cod,eatenBy
+171858,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+171858,131385,Pseudupeneus maculatus,Spotted Goatfish,eatenBy
+171858,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+171858,,Trisopterus minutus,,eatenBy
+171858,95066,Balistes vetula,Queen Triggerfish,eatenBy
+171858,120611,Pagrus caeruleostictus,Bluespotted Seabream,eatenBy
+171858,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy

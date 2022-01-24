@@ -1,0 +1,41 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3836,63089,Clitellata,Clitellates,eats
+3836,49581,Nereididae,,eats
+3836,69926,Clinocardium,,eats
+3836,120959,Modiolus,,eats
+3836,81610,Balanus glandula,Pacific Acorn Barnacle,eats
+3836,48919,Littorina,Periwinkles,eats
+3836,81636,Mya,,eats
+3836,62807,Mytilus,Black Mussels,eats
+3836,49784,Cephalaspidea,Headshield Slugs,eats
+3836,68764,Ostracoda,Seed Shrimp,eats
+3836,117606,Nephtyidae,Catworms,eats
+3836,3836,Calidris,Calidris Sandpipers,eats
+3836,195011,Phyllodocidae,Paddle Worms,eats
+3836,49532,Sphaeromatidae,Typical Seapills,eats
+3836,48921,Hydrozoa,Hydrozoans,eats
+3836,47951,Staphylinidae,Rove Beetles,eats
+3836,64637,Corophium,,eats
+3836,71252,Macoma,,eats
+3836,337281,Lumbrineridae,,eats
+3836,,Detritus complex,,eats
+3836,,Gammaridea,,eats
+3836,129948,Lacuna,Lacuna Snails,eats
+3836,144115,Cumacea,Hooded Shrimp,eats
+3836,,Biofilm Complex,,eats
+3836,208371,Capitellidae,,eats
+3836,123639,Spionidae,,eats
+3836,,Foraminiferida,,eats
+3836,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+3836,3836,Calidris,Calidris Sandpipers,eatenBy
+3836,8010,Corvus corax,Common Raven,eatenBy
+3836,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+3836,42054,Vulpes,Typical Foxes,eatenBy
+3836,20315,Asio flammeus,Short-eared Owl,eatenBy
+3836,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+3836,4356,Larus canus,Mew Gull,eatenBy
+3836,204533,Larus argentatus,Herring Gull,eatenBy
+3836,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+3836,559070,Lanius excubitor,Great Gray Shrike,eatenBy
+3836,4657,Falco rusticolus,Gyrfalcon,eatenBy
+3836,144594,Bubo scandiacus,Snowy Owl,eatenBy

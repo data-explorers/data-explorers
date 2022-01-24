@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+494559,47351,Prunus,"plums, cherries, and allies",eats
+494559,54500,Malus,apples,eats
+494559,47851,Quercus,oaks,eats
+494559,53373,Corylus,hazels,eats
+494559,49156,Betula,birches,eats
+494559,53453,Salix,Willows,eats
+494559,,Broadleaved trees,,eats
+494559,,Laphriinae,,preysOn
+494559,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+494559,451481,Cerceris arenaria,,preyedUponBy

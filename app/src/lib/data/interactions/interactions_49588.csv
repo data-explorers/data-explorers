@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49588,49334,Cyprinodontidae,Pupfishes,eats
+49588,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+49588,4929,Ardeidae,"Herons, Egrets, and Bitterns",eatenBy
+49588,41661,Procyon,Raccoons,eatenBy
+49588,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49588,41777,Lontra canadensis,North American River Otter,eatenBy
+49588,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+49588,5020,Butorides virescens,Green Heron,eatenBy
+49588,4940,Egretta thula,Snowy Egret,eatenBy
+49588,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49588,19893,Strix varia,Barred Owl,eatenBy
+49588,,Micropterus dolomieu,,eatenBy
+49588,105820,Micropterus notius,Suwannee Bass,eatenBy
+49588,51367,Esox niger,Chain Pickerel,eatenBy
+49588,,herons - ibises,,eatenBy
+49588,,Amiiformes,,eatenBy
+49588,4954,Ardea cinerea,Grey Heron,eatenBy
+49588,26159,Alligator mississippiensis,American Alligator,eatenBy
+49588,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+49588,,Amia calva,,eatenBy
+49588,,Lepisosteidae,,eatenBy
+49588,,Esox,,eatenBy
+49588,4364,Larus delawarensis,Ring-billed Gull,eatenBy
+49588,5063,Anhinga anhinga,Anhinga,eatenBy
+49588,4938,Egretta tricolor,Tricolored Heron,eatenBy
+49588,4937,Egretta caerulea,Little Blue Heron,eatenBy
+49588,243,Rallus limicola,Virginia Rail,eatenBy
+49588,4742,Mycteria americana,Wood Stork,eatenBy
+49588,144455,Ardea alba,Great Egret,preyedUponBy
+49588,5020,Butorides virescens,Green Heron,preyedUponBy
+49588,41777,Lontra canadensis,North American River Otter,preyedUponBy
+49588,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+49588,29304,Nerodia taxispilota,Brown Watersnake,preyedUponBy
+49588,29305,Nerodia sipedon,Common Watersnake,preyedUponBy
+49588,4742,Mycteria americana,Wood Stork,preyedUponBy

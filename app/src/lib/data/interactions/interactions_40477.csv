@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+40477,81769,Blattodea,Cockroaches and Termites,preysOn
+40477,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+40477,50186,Cicadidae,Typical Cicadas,preysOn
+40477,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+40477,48201,Scarabaeidae,Scarabs,preysOn
+40477,53248,Elateridae,Click Beetles,preysOn
+40477,47208,Coleoptera,Beetles,preysOn
+40477,47822,Diptera,Flies,preysOn
+40477,47157,Lepidoptera,Butterflies and Moths,preysOn
+40477,47336,Formicidae,Ants,preysOn
+40477,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+40477,5067,Accipitridae,"Hawks, Eagles, and Kites",preyedUponBy

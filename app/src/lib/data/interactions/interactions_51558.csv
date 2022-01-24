@@ -1,0 +1,45 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51558,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+51558,17009,Sayornis saya,Say's Phoebe,eatenBy
+51558,,Ebrechtella pseudovatia,,eatenBy
+51558,5017,Bubulcus ibis,Cattle Egret,eatenBy
+51558,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+51558,47602,Taraxacum officinale,common dandelion,pollinates
+51558,56134,Muscari botryoides,common grape hyacinth,pollinates
+51558,60251,Verbena hastata,blue vervain,pollinates
+51558,51098,Gilia achilleifolia,California gilia,pollinates
+51558,55820,Primula,Primroses,pollinates
+51558,,Trevoa quinquenervia,,pollinates
+51558,,Alstroemeria caryophyllaea,,pollinates
+51558,,Nassauvia pyramidalis,,pollinates
+51558,,Nassauvia magellanica,,pollinates
+51558,,Madia sativa,,pollinates
+51558,,Nassauvia axillaris,,pollinates
+51558,1080553,Senecio eruciformis,,pollinates
+51558,50851,Cerastium arvense,field chickweed,pollinates
+51558,,Haplopappus anthylloides,,pollinates
+51558,855444,Myrceugenia ovata,,pollinates
+51558,836804,Mononeuria uniflora,Piedmont Sandwort,pollinates
+51558,836798,Mononeuria glabra,Appalachian sandwort,pollinates
+51558,,Tiarella cordifolia,,pollinates
+51558,,Cardamine concatenata,,pollinates
+51558,,Lithophragma parviflorum,,pollinates
+51558,,Thalictrum dasycarpum,,pollinates
+51558,77780,Linnaea borealis,twinflower,pollinates
+51558,76655,Dieteria canescens,Hoary Tansyaster,pollinates
+51558,,Arnica fulgens,,pollinates
+51558,,Gazania krebsiana,,pollinates
+51558,,Helianthus hirsutus,,pollinates
+51558,159241,Bidens cosmoides,cosmosflower beggarticks,pollinates
+51558,,Bidens torta,,pollinates
+51558,,Bidens hawaiensis,,pollinates
+51558,168256,Sabal etonia,Scrub Palmetto,pollinates
+51558,,Polygonella basiramia,,pollinates
+51558,78663,Pogogyne nudiuscula,Otay mesa mint,pollinates
+51558,,Eriogonum ovalifolium vineum,,pollinates
+51558,162491,Erigeron kachinensis,Kachina Fleabane,pollinates
+51558,,Dudleya blochmaniae brevifolia,,pollinates
+51558,,Thymophylla tephroleuca,,pollinates
+51558,123473,Jacquemontia reclinata,Beach jacquemontia,pollinates
+51558,81359,Salvia dorrii dorrii,purple sage,pollinates
+51558,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy

@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+46078,,alpine vegetation,,eats
+46078,41976,Lynx rufus,Bobcat,eatenBy
+46078,42051,Canis latrans,Coyote,eatenBy
+46078,42069,Vulpes vulpes,Red Fox,eatenBy
+46078,19350,Strigiformes,Owls,eatenBy
+46078,41963,Panthera pardus,Leopard,eatenBy
+46078,,Uncia uncia,,eatenBy
+46078,41641,Ursus arctos,Brown Bear,eatenBy
+46078,41852,Gulo gulo,Wolverine,eatenBy
+46078,,Aquila chrysaetos,,eatenBy
+46078,41789,Taxidea taxus,American Badger,eatenBy

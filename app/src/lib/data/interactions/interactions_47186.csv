@@ -1,0 +1,211 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47186,47114,Gastropoda,Gastropods,eats
+47186,47490,Polychaeta,Polychaete Worms,eats
+47186,47186,Decapoda,Decapods,eats
+47186,47170,Fungi,Fungi Including Lichens,eats
+47186,47679,Patellogastropoda,True Limpets,eats
+47186,47628,Amphipoda,Amphipods,eats
+47186,47584,Bivalvia,Bivalves,eats
+47186,47459,Cephalopoda,Cephalopods,eats
+47186,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+47186,47178,Actinopterygii,Ray-finned Fishes,eats
+47186,47668,Asteroidea,Sea Stars,eats
+47186,48824,Porifera,Sponges,eats
+47186,68104,Bryozoa,Bryozoans,eats
+47186,48147,Isopoda,Isopods,eats
+47186,51911,Engraulidae,Anchovies,eats
+47186,47534,Cnidaria,Cnidarians,eats
+47186,47456,Octopus,,eats
+47186,151838,Priapulida,Priapulid Worms,eats
+47186,63741,Gadiformes,Cods,eats
+47186,121643,Copepoda,Copepods,eats
+47186,195355,Hyperiidae,,eats
+47186,85912,Mysidae,,eats
+47186,49796,Stomatopoda,Mantis Shrimps,eats
+47186,775805,Pteropoda,Sea Butterflies,eats
+47186,47626,Caprellidae,Skeleton Shrimp,eats
+47186,50600,Mytilidae,True Mussels,eats
+47186,1,Animalia,Animals,eats
+47186,47126,Plantae,plants,eats
+47186,50863,Chlorophyta,green algae,eats
+47186,47158,Insecta,Insects,eats
+47186,47822,Diptera,Flies,eats
+47186,48011,Ephemeroptera,Mayflies,eats
+47186,62164,Trichoptera,Caddisflies,eats
+47186,50378,Halodule,,eats
+47186,,Omnivorous crabs,,eats
+47186,,Epiphyte-grazing amphipods,,eats
+47186,,Micro-epiphytes,,eats
+47186,,Detritus,,eats
+47186,,Deposit-feeding peracaridan crustaceans,,eats
+47186,,Meiofauna,,eats
+47186,,Thais triangularis,,eats
+47186,,Algae,,eats
+47186,475462,Vasula melones,Gourd Rock Snail,eats
+47186,,basic food,,eats
+47186,,benthic macrofauna,,eats
+47186,68235,Hemichordata,Hemichordates,eats
+47186,67990,Scaphopoda,Tusk Shells,eats
+47186,,Dinoflagellata,,eats
+47186,47710,Pandalidae,,eats
+47186,,Ostreoida,,eats
+47186,,Phytoplankton,,eats
+47186,48817,Crangon,,eats
+47186,59806,Gammaridae,,eats
+47186,180574,Nitella,Stonewort,eats
+47186,60395,Branchiopoda,Branchiopods,eats
+47186,,Prymnesiophyceae,,eats
+47186,,GRAVEL,,eats
+47186,,ZOOPLANKTON (ALL),,eats
+47186,,Market squid,,eats
+47186,,Chinook salmon (adult),,eats
+47186,61090,Ruppia maritima,widgeongrass,eats
+47186,41663,Procyon lotor,Common Raccoon,eatenBy
+47186,118594,Atherina presbyter,Sand Smelt,eatenBy
+47186,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+47186,118597,Belone belone,Garfish,eatenBy
+47186,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+47186,3,Aves,Birds,eatenBy
+47186,47186,Decapoda,Decapods,eatenBy
+47186,47170,Fungi,Fungi Including Lichens,eatenBy
+47186,49470,Collembola,Springtails,eatenBy
+47186,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47186,41573,Carnivora,Carnivorans,eatenBy
+47186,43584,Homo sapiens,Human,eatenBy
+47186,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+47186,47314,Anguilliformes,True Eels,eatenBy
+47186,47232,Carangidae,Jacks,eatenBy
+47186,47456,Octopus,,eatenBy
+47186,47114,Gastropoda,Gastropods,eatenBy
+47186,47668,Asteroidea,Sea Stars,eatenBy
+47186,47459,Cephalopoda,Cephalopods,eatenBy
+47186,39657,Cheloniidae,Typical Sea Turtles,eatenBy
+47186,47686,Protozoa,protozoans,eatenBy
+47186,41860,Enhydra lutris,Sea Otter,eatenBy
+47186,47458,Octopoda,Octopuses,eatenBy
+47186,48563,Triglidae,Searobins,eatenBy
+47186,47534,Cnidaria,Cnidarians,eatenBy
+47186,447552,Maja brachydactyla,Spiny Spider Crab,eatenBy
+47186,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+47186,121187,Sepioteuthis lessoniana,Bigfin Reef Squid,eatenBy
+47186,432545,Todarodes sagittatus,European Flying Squid,eatenBy
+47186,69838,Cyanea capillata,Lion's Mane Jelly,eatenBy
+47186,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+47186,4080,Oceanodroma leucorhoa,Leach's Storm-Petrel,eatenBy
+47186,4092,Puffinus,Small Shearwaters,eatenBy
+47186,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+47186,6993,Bucephala albeola,Bufflehead,eatenBy
+47186,4343,Larus,Large White-headed Gulls,eatenBy
+47186,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+47186,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+47186,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+47186,4130,Pelecanoides urinatrix,Common Diving-Petrel,eatenBy
+47186,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+47186,144542,Thalasseus elegans,Elegant Tern,eatenBy
+47186,4415,Cepphus columba,Pigeon Guillemot,eatenBy
+47186,144530,Sternula antillarum,Least Tern,eatenBy
+47186,4153,Pelagodroma marina,White-faced Storm-Petrel,eatenBy
+47186,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+47186,4158,Pachyptila turtur,Fairy Prion,eatenBy
+47186,4504,Fratercula arctica,Atlantic Puffin,eatenBy
+47186,4519,Uria aalge,Common Murre,eatenBy
+47186,4457,Sterna forsteri,Forster's Tern,eatenBy
+47186,144539,Thalasseus maximus,Royal Tern,eatenBy
+47186,130085,Actinia equina,Beadlet anemone,eatenBy
+47186,39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,eatenBy
+47186,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+47186,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+47186,52523,Carcinus maenas,European Green Crab,eatenBy
+47186,41859,Enhydra,,eatenBy
+47186,48407,Raja,,eatenBy
+47186,132473,Lagodon rhomboides,Pinfish,eatenBy
+47186,127711,Histrio histrio,Sargassumfish,eatenBy
+47186,47648,Scorpaena,,eatenBy
+47186,99269,Dicentrarchus labrax,European Seabass,eatenBy
+47186,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+47186,52460,Tylosurus crocodilus,Crocodile Needlefish,eatenBy
+47186,47280,Pterois volitans,Common Lionfish,eatenBy
+47186,54541,Hippocampus,Seahorses,eatenBy
+47186,117533,Clinocottus analis,Woolly Sculpin,eatenBy
+47186,410430,Schedophilus maculatus,Raft-fish,eatenBy
+47186,152823,Siphonophorae,Siphonophores,eatenBy
+47186,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+47186,54539,Syngnathus,Pipe-fishes,eatenBy
+47186,87467,Chromis,Chromis,eatenBy
+47186,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47186,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+47186,69676,Thunnus,Bluefin Tunas,eatenBy
+47186,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+47186,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47186,447777,Cyanea lamarckii,Blue Jelly,eatenBy
+47186,4626,Gavia immer,Common Loon,eatenBy
+47186,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eatenBy
+47186,4345,Larus occidentalis,Western Gull,eatenBy
+47186,4940,Egretta thula,Snowy Egret,eatenBy
+47186,144491,Tringa semipalmata,Willet,eatenBy
+47186,118710,Naucrates ductor,Pilotfish,eatenBy
+47186,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47186,4209,Podiceps auritus,Horned Grebe,eatenBy
+47186,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eatenBy
+47186,144455,Ardea alba,Great Egret,eatenBy
+47186,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+47186,5020,Butorides virescens,Green Heron,eatenBy
+47186,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+47186,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+47186,7107,Aix sponsa,Wood Duck,eatenBy
+47186,4756,Cathartes aura,Turkey Vulture,eatenBy
+47186,4956,Ardea herodias,Great Blue Heron,eatenBy
+47186,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+47186,41798,Martes americana,American Marten,eatenBy
+47186,41805,Mustela lutreola,European Mink,eatenBy
+47186,,Neovison vison,,eatenBy
+47186,922738,Prionailurus bengalensis,Mainland Leopard Cat,eatenBy
+47186,50600,Mytilidae,True Mussels,preysOn
+47186,47114,Gastropoda,Gastropods,preysOn
+47186,47490,Polychaeta,Polychaete Worms,preysOn
+47186,47186,Decapoda,Decapods,preysOn
+47186,,Deposit-feeding peracaridan crustaceans,,preysOn
+47186,,Omnivorous crabs,,preysOn
+47186,,Meiofauna,,preysOn
+47186,50378,Halodule,,preysOn
+47186,,Epiphyte-grazing amphipods,,preysOn
+47186,41859,Enhydra,,preyedUponBy
+47186,3,Aves,Birds,preyedUponBy
+47186,47186,Decapoda,Decapods,preyedUponBy
+47186,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,preyedUponBy
+47186,7109,Lophodytes cucullatus,Hooded Merganser,preyedUponBy
+47186,4343,Larus,Large White-headed Gulls,preyedUponBy
+47186,,Myctophum asperum,,preyedUponBy
+47186,,Regina alleni,,preyedUponBy
+47186,146390,Pseudoferania polylepis,Macleay's Water Snake,preyedUponBy
+47186,318698,Hydrophis schistosus,Common Seasnake,preyedUponBy
+47186,30089,Fordonia leucobalia,Crab-eating Snake,preyedUponBy
+47186,27416,Cantoria violacea,Cantor's Mangrove Snake,preyedUponBy
+47186,29190,Opisthotropis lateralis,Bicoloured Stream Snake,preyedUponBy
+47186,,prehistoric Aleut man,,preyedUponBy
+47186,,nearshore fishes,,preyedUponBy
+47186,325300,Abdopus,Indo-Pacific Longarm Octopuses,preyedUponBy
+47186,,Neosiluris ater,,preyedUponBy
+47186,369054,Pseudomugil signifer,Pacific Blue Eye,preyedUponBy
+47186,93797,Ambassis agassizii,Agassiz's Glassfish,preyedUponBy
+47186,,Fish and crustacean-eating birds,,preyedUponBy
+47186,179563,Leiostomus xanthurus,Spot Croaker,preyedUponBy
+47186,,Pipefish and seahorses,,preyedUponBy
+47186,,Blue crabs,,preyedUponBy
+47186,,Atlantic silverside and bay anchovies,,preyedUponBy
+47186,,Trematomus pennellii,,preyedUponBy
+47186,609217,Cygnodraco mawsoni,,preyedUponBy
+47186,,Trematomus lepidorhinus,,preyedUponBy
+47186,,Trematomus hansoni,,preyedUponBy
+47186,120523,Anguilla reinhardtii,Australian Long-finned Eel,preyedUponBy
+47186,,Glossamia aprion,,preyedUponBy
+47186,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy
+47186,96223,Bunaka gyrinoides,Greenback Gudgeon,preyedUponBy
+47186,531023,Hephaestus tulliensis,Khaki Grunter,preyedUponBy
+47186,,Leognathus equulus,,preyedUponBy
+47186,47353,Lates calcarifer,Barramundi,preyedUponBy
+47186,125802,Lutjanus argentimaculatus,Mangrove Red Snapper,preyedUponBy
+47186,333759,Larus dominicanus dominicanus,Southern Black-backed Gull,preyedUponBy
+47186,4364,Larus delawarensis,Ring-billed Gull,preyedUponBy
+47186,514111,Somateria mollissima dresseri,Dresser's Common Eider,preyedUponBy
+47186,20077,Bubo lacteus,Verreaux's Eagle-Owl,preyedUponBy

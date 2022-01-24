@@ -1,0 +1,68 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68941,,Myrsine monticola,,eats
+68941,,Sapium glandulosum,,eats
+68941,,Tetrapterys microphylla,,eats
+68941,,Detritus,,eats
+68941,60335,Rhizophora mangle,red mangrove,eats
+68941,72388,Syzygium,Waterberries,eatenBy
+68941,53165,Croton,Crotons,eatenBy
+68941,72165,Helichrysum,Everlasting-flowers,eatenBy
+68941,47383,Latrodectus geometricus,Brown Widow,eatenBy
+68941,,Embelia,,eatenBy
+68941,,Psiadia terebinthina,,eatenBy
+68941,,Stillingia lineata lineata,,eatenBy
+68941,147426,Toddalia asiatica,orange climber,eatenBy
+68941,83034,Casearia,,eatenBy
+68941,83434,Diospyros,persimmons,eatenBy
+68941,154525,Smilax anceps,Leg-Ripper,eatenBy
+68941,64343,Coffea,Coffees,eatenBy
+68941,134190,Harungana madagascariensis,,eatenBy
+68941,,Molinaea,,eatenBy
+68941,,Aphloia theiformis,,eatenBy
+68941,,Badula platyphylla,,eatenBy
+68941,852296,Roussea simplex,,eatenBy
+68941,185922,Mollinedia,,eatenBy
+68941,,Sideroxylon,,eatenBy
+68941,,Erythroxylum,,eatenBy
+68941,,Doratoxylon apetalum,,eatenBy
+68941,157153,Claoxylon,,eatenBy
+68941,,Ixora parviflora ovata,,eatenBy
+68941,51597,Pittosporum,Cheesewoods,eatenBy
+68941,53165,Croton,Crotons,pollinates
+68941,72388,Syzygium,Waterberries,pollinates
+68941,72165,Helichrysum,Everlasting-flowers,pollinates
+68941,,Aphloia theiformis,,pollinates
+68941,51597,Pittosporum,Cheesewoods,pollinates
+68941,83034,Casearia,,pollinates
+68941,,Psiadia terebinthina,,pollinates
+68941,,Molinaea,,pollinates
+68941,,Badula platyphylla,,pollinates
+68941,64343,Coffea,Coffees,pollinates
+68941,,Roussea simplex ,,pollinates
+68941,,Embelia,,pollinates
+68941,157153,Claoxylon,,pollinates
+68941,781657,Ixora parviflora,,pollinates
+68941,,Doratoxylon apetalum,,pollinates
+68941,147426,Toddalia asiatica,orange climber,pollinates
+68941,134190,Harungana madagascariensis,,pollinates
+68941,970203,Stillingia lineata,,pollinates
+68941,154525,Smilax anceps,Leg-Ripper,pollinates
+68941,,Sideroxylon,,pollinates
+68941,,Erythroxylum,,pollinates
+68941,84463,Ceroplastes,Wax Scales,preysOn
+68941,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+68941,121467,Uloborus,Feather-legged Spiders,preyedUponBy
+68941,153635,Sergiolus,,preyedUponBy
+68941,82081,Theridion,Tangleweb Spiders,preyedUponBy
+68941,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+68941,153567,Anyphaena,,preyedUponBy
+68941,,Pirata,,preyedUponBy
+68941,,Dendroica,,preyedUponBy
+68941,153645,Gnaphosa,,preyedUponBy
+68941,,Tyrannochelifer,,preyedUponBy
+68941,420613,Stoidis,,preyedUponBy
+68941,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+68941,263718,Argyrodes nephilae,,preyedUponBy
+68941,,Nephila clavipes,,preyedUponBy
+68941,,Aysha,,preyedUponBy
+68941,49880,Misumenops,,preyedUponBy

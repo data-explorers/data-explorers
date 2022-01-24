@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48479,4345,Larus occidentalis,Western Gull,eatenBy
+48479,130235,Aurelia labiata,Greater Moon Jelly,eatenBy
+48479,48830,Patiria miniata,Bat Star,preyedUponBy
+48479,130235,Aurelia labiata,Greater Moon Jelly,preyedUponBy

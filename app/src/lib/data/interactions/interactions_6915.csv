@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+6915,48571,Carex,true sedges,eats
+6915,47162,Poales,"grasses, sedges, cattails, and allies",eats
+6915,52616,Zostera,Eelgrasses,eats
+6915,59110,Potamogeton,Pondweed,eats
+6915,47204,Brassicaceae,mustard family,eats
+6915,47746,Equisetum,horsetails,eats
+6915,47124,Magnoliopsida,dicots,eats
+6915,47114,Gastropoda,Gastropods,eats
+6915,62164,Trichoptera,Caddisflies,eats
+6915,57659,Dytiscidae,Predaceous Diving Beetles,eats
+6915,48230,Ranunculus,buttercups,eats
+6915,55339,Fissidens,pocket mosses,eats
+6915,,Scirpus,,eats
+6915,,Stuckenia pectinata,,eats
+6915,,Chara,,eats
+6915,76793,Elodea canadensis,common waterweed,eats
+6915,,Amblystegium,,eats
+6915,,Potamogeton perfoliatus,,eats
+6915,,Calliergon,,eats
+6915,,Nuphar lutea,,eats
+6915,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy

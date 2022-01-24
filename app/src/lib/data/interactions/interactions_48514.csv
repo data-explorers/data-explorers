@@ -1,0 +1,63 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48514,61505,Manduca sexta,Carolina Sphinx,eatenBy
+48514,145238,Setophaga petechia,Yellow Warbler,eatenBy
+48514,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+48514,47219,Apis mellifera,Western Honey Bee,eatenBy
+48514,309466,Aphis gossypii,Melon Aphid,eatenBy
+48514,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+48514,143037,Lineodes integra,Eggplant Leafroller Moth,eatenBy
+48514,124184,Plodia interpunctella,Indian-Meal Moth,eatenBy
+48514,231425,Spodoptera exigua,Beet Armyworm Moth,eatenBy
+48514,55520,Gnorimoschema,,eatenBy
+48514,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+48514,63028,Hypercompe scribonia,Giant Leopard Moth,eatenBy
+48514,785422,Amsacta lactinea,,eatenBy
+48514,243760,Frankliniella occidentalis,Western Flower Thrips,eatenBy
+48514,,Thrips tabaci,,eatenBy
+48514,,Ostrinia furnacalis,,eatenBy
+48514,330230,Pinnaspis strachani,,eatenBy
+48514,330222,Hemiberlesia lataniae,Latania scale,eatenBy
+48514,,Myiarchus magnirostris,,eatenBy
+48514,145280,Certhidea fusca,Gray Warbler-Finch,eatenBy
+48514,,Sturnira lilium,,eatenBy
+48514,,Geospiza fuliginosa,,eatenBy
+48514,,Geospiza scandens,,eatenBy
+48514,,Camarhynchus pallidus,,eatenBy
+48514,,Mimus parvulus,,eatenBy
+48514,,Platyspiza crassirostris,,eatenBy
+48514,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+48514,,Geospiza magnirostris,,eatenBy
+48514,,Geospiza conirostris,,eatenBy
+48514,,Artibeus lituratus,,eatenBy
+48514,,Camarhynchus psittacula,,eatenBy
+48514,,Geospiza fortis,,eatenBy
+48514,200000,Certhidea olivacea,Green Warbler-Finch,eatenBy
+48514,41110,Carollia perspicillata,Seba's Short-tailed Bat,eatenBy
+48514,,Camarhynchus parvulus,,eatenBy
+48514,,Zenaida galapagoensis,,eatenBy
+48514,,Mimus melanotis,,eatenBy
+48514,,Coccyzus melacoryphus,,eatenBy
+48514,,Tmolus echion,,eatenBy
+48514,,Bombus pauloensis,,eatenBy
+48514,,Agrotis ipsilon,,eatenBy
+48514,330492,Neoleucinodes elegantalis,,eatenBy
+48514,,Archips micaceana,,eatenBy
+48514,,Archips seditiosa,,eatenBy
+48514,,Manduca quinquemaculatus,,eatenBy
+48514,,Euzophera perticella,,eatenBy
+48514,,Crocidolomia pavonana,,eatenBy
+48514,,Spodoptera littoralis,,eatenBy
+48514,,Amata passalis,,eatenBy
+48514,,Symmetrischema borsaniella,,eatenBy
+48514,201279,Utetheisa pulchella,Crimson-speckled Flunkey,eatenBy
+48514,,Tildenia gudmannella,,eatenBy
+48514,,Symmetrischema capsicivorum,,eatenBy
+48514,1259061,Symmetrischema capsica,,eatenBy
+48514,,Symmetrischema dulce,,eatenBy
+48514,,Tiracola plagiata,,eatenBy
+48514,,Spodoptera latifascia,,eatenBy
+48514,,Scymninae,,eatenBy
+48514,83806,Helicoverpa armigera,Cotton Bollworm Moth,eatenBy
+48514,2090,Ortalis vetula,Plain Chachalaca,eatenBy
+48514,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+48514,,Bombus pauloensis,,pollinatedBy

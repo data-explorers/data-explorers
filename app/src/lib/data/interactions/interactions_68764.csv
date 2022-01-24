@@ -1,0 +1,308 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68764,123880,Bacillariophyceae,Diatoms,eats
+68764,348288,Foraminifera,Foraminifers,eats
+68764,123631,Corallina,,eats
+68764,67423,Ulva lactuca,broadleaf sea lettuce,eats
+68764,51021,Dictyota,Y-branched Algae,eats
+68764,48216,Fucus vesiculosus,bladder wrack,eats
+68764,130197,Ulva intestinalis,Gutweed,eats
+68764,123632,Corallina officinalis,Common Coralline,eats
+68764,128238,Laurencia,,eats
+68764,130177,Sargassum muticum,Japanese Wireweed,eats
+68764,67333,Bacteria,bacteria,eats
+68764,67334,Cyanobacteria,cyanobacteria,eats
+68764,,Detritus,,eats
+68764,,Algae,,eats
+68764,,Autothroph flagellat,,eats
+68764,,diatom ORGANIC-3,,eats
+68764,,Heterotroph flagellat,,eats
+68764,,Benthos larvae,,eats
+68764,,Phytoplankton,,eats
+68764,,Cocconeis placentula,,eats
+68764,,CPOM,,eats
+68764,,Staurosira elliptica,,eats
+68764,,Navicula gregaria,,eats
+68764,,Amphora pediculus,,eats
+68764,,Psammothidium lauenburgianum,,eats
+68764,245926,Arcella,,eats
+68764,617783,Electrona antarctica,,eats
+68764,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eats
+68764,952607,Euphausia frigida,,eats
+68764,617786,Gymnoscopelus braueri,,eats
+68764,,Notolepis coatsi,,eats
+68764,,"bottom detritus, algae",,eats
+68764,,Macroalgae,,eats
+68764,,detritus with decomposers,,eats
+68764,,POM (detritus),,eats
+68764,,PhytoP,,eats
+68764,67679,Gracilaria,,eats
+68764,131298,Cryptonemia crenulata,,eats
+68764,322821,Sargassum vulgare,,eats
+68764,415109,Codium decorticatum,,eats
+68764,59730,Valonia aegagropila,,eats
+68764,201264,Bryopsis pennata,,eats
+68764,330788,Centroceras,,eats
+68764,199320,Acanthophora spicifera,prickly seaweed,eats
+68764,643771,Abyla,,eats
+68764,,Plocamium sp.,,eats
+68764,182857,Sphacelaria,,eats
+68764,131277,Lobophora variegata,Encrusting fan-leaf alga,eats
+68764,201265,Bryopsis plumosa,Hen Pen,eats
+68764,67672,Hypnea musciformis,,eats
+68764,51384,Caulerpa prolifera,,eats
+68764,911743,Plocamium brasiliense,,eats
+68764,50926,Caulerpa racemosa,Sea Grapes,eats
+68764,328369,Spatoglossum schroederi,,eats
+68764,180609,Lithophyllum,,eats
+68764,947920,Gracilaria domingensis,,eats
+68764,129737,Colpomenia peregrina,Oyster-thief,eats
+68764,131280,Dictyota mertensii,,eats
+68764,,Polysiphonia sp.,,eats
+68764,182991,Palmaria palmata,Dulse,eats
+68764,57772,Fucus serratus,Saw Wrack,eats
+68764,130231,Saccharina latissima,Sea Belt,eats
+68764,,Gracilaria sp.,,eats
+68764,130176,Chondrus crispus,Irish moss,eats
+68764,701524,Furcellaria lumbricalis,,eats
+68764,182834,Ectocarpus siliculosus,,eats
+68764,570223,Caulerpa scalpelliformis,Scalpel green seaweed,eats
+68764,51024,Dictyota dichotoma,Forked ribbons,eats
+68764,915274,Dictyopteris delicatula,,eats
+68764,207565,Padina gymnospora,,eats
+68764,543094,Lomentaria articulata,,eats
+68764,130204,Mastocarpus stellatus,false Irish moss,eats
+68764,183154,Rhodomela confervoides,,eats
+68764,201435,Ulva linza,Green string lettuce,eats
+68764,322735,Cladophora prolifera,,eats
+68764,326759,Lithophyllum incrustans,,eats
+68764,182858,Cladostephus spongiosus,,eats
+68764,1297852,Halurus equisetifolius,,eats
+68764,,Nemalion helminthoides,,eats
+68764,361840,Jania rubens,,eats
+68764,182896,Desmarestia aculeata,Witch's hair,eats
+68764,,http://treatment.plazi.org/id/D42A6ADF3C22CB68DB45D5CF1BA087AD,,eats
+68764,,Liagora,,eats
+68764,790323,Phymatolithon calcareum,,eats
+68764,131323,Caulerpa webbiana,Bottlebrush green seaweed,eats
+68764,,Padina pavonia,,eats
+68764,,Detritus complex,,eats
+68764,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+68764,3894,Numenius,Curlews,eatenBy
+68764,486999,Munida gregaria,Swarming Squat Lobster,eatenBy
+68764,85107,Spirula spirula,Ram's Horn Squid,eatenBy
+68764,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+68764,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+68764,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+68764,800860,Salpa thompsoni,,eatenBy
+68764,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+68764,48921,Hydrozoa,Hydrozoans,eatenBy
+68764,57301,Hyporhamphus,,eatenBy
+68764,54662,Mugil,Common Mullets,eatenBy
+68764,101053,Fundulus diaphanus,banded killifish,eatenBy
+68764,49601,Mola mola,Common Mola,eatenBy
+68764,87467,Chromis,Chromis,eatenBy
+68764,132473,Lagodon rhomboides,Pinfish,eatenBy
+68764,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+68764,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+68764,153169,Palaemon elegans,Rockpool Prawn,eatenBy
+68764,558433,Spatula discors,Blue-winged Teal,eatenBy
+68764,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+68764,558439,Mareca strepera,Gadwall,eatenBy
+68764,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+68764,6930,Anas platyrhynchos,Mallard,eatenBy
+68764,85532,Mysida,Opossum Shrimps,eatenBy
+68764,48836,Ophiuroidea,Brittle Stars,eatenBy
+68764,151827,Chaetognatha,Arrow Worms,eatenBy
+68764,195136,Euphausia,,eatenBy
+68764,4204,Podiceps,Typical Grebes,eatenBy
+68764,3874,Tringa,"Shanks, Tattlers, and Allies",eatenBy
+68764,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+68764,48174,Paguridae,Pagurid Hermit Crabs,eatenBy
+68764,3836,Calidris,Calidris Sandpipers,eatenBy
+68764,195134,Euphausiidae,Euphotic Krill,eatenBy
+68764,,http://arctos.database.museum/guid/KNWRObs:Fish:2,,eatenBy
+68764,,Palaemonetes,,eatenBy
+68764,,Eleotris sandwicensis,,eatenBy
+68764,,Oxyurichthyes,,eatenBy
+68764,,Culaea inconstans,,eatenBy
+68764,,Cottus bairdii,,eatenBy
+68764,,Labidochromis caeruleus,,eatenBy
+68764,103844,Labeobarbus johnstonii,,eatenBy
+68764,,Neoperla spio,,eatenBy
+68764,,Mylochromis guentheri,,eatenBy
+68764,,Eclectochromis ornatus,,eatenBy
+68764,,Labidochromis vellicans,,eatenBy
+68764,,Cheilochromis euchilus,,eatenBy
+68764,105479,Melanochromis melanopterus,,eatenBy
+68764,,Hydropsychidae,,eatenBy
+68764,,Bathyclarias worthingtoni,,eatenBy
+68764,,Opsaridium microcephalum,,eatenBy
+68764,,Haplochromis angustifrons,,eatenBy
+68764,,Copadichromis insularis,,eatenBy
+68764,99297,Dimidiochromis dimidiatus,Ncheni Type Haplo,eatenBy
+68764,109574,Placidochromis johnstoni,,eatenBy
+68764,,Engraulicypris sardella,,eatenBy
+68764,,Tramitichromis brevis,,eatenBy
+68764,,Lethrinops,,eatenBy
+68764,,Synodontis dorsomaculatus,,eatenBy
+68764,,Catostomus commersonii,,eatenBy
+68764,118851,Crangon crangon,Brown Shrimp,eatenBy
+68764,152974,Pholis gunnellus,Rock gunnel,eatenBy
+68764,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+68764,228496,Pollachius virens,Pollock,eatenBy
+68764,483237,Zoarces viviparus,Viviparous Blenny,eatenBy
+68764,7067,Tadorna tadorna,Common Shelduck,eatenBy
+68764,,sediment,,eatenBy
+68764,,Palaemon atrinubes,,eatenBy
+68764,425142,Opisthoteuthis massyae,Massy's Flapjack Octopus,eatenBy
+68764,,Opisthoteuthis agassizii,,eatenBy
+68764,199325,Alitta succinea,Clam Worm,eatenBy
+68764,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+68764,,Sergia bigemmea,,eatenBy
+68764,,Uroteuthis duvauceli,,eatenBy
+68764,,Plesionika narval,,eatenBy
+68764,144434,Aphrodroma brevirostris,Kerguelen Petrel,eatenBy
+68764,4200,Halobaena caerulea,Blue Petrel,eatenBy
+68764,4161,Pachyptila salvini,Salvin's Prion,eatenBy
+68764,,Alle alle,,eatenBy
+68764,646611,Acetes erythraeus,Tsivakihini paste shrimp,eatenBy
+68764,209010,Charybdis japonica,Asian Paddle Crab,eatenBy
+68764,369153,Penaeus esculentus,Brown Tiger Prawn,eatenBy
+68764,,Fenneropenaeus merguiensis,,eatenBy
+68764,,Farfantepenaeus paulensis,,eatenBy
+68764,,Farfantepenaeus duorarum,,eatenBy
+68764,1071761,Parapenaeus longirostris,Deep-water rose shrimp,eatenBy
+68764,,Holthuispenaeopsis atlantica,,eatenBy
+68764,295545,Eucopia australis,,eatenBy
+68764,,Sicyonia brevirostris,,eatenBy
+68764,52197,Penaeus,,eatenBy
+68764,106881,Nephrops norvegicus,Norway lobster,eatenBy
+68764,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+68764,532821,Pleoticus muelleri,Argentine red shrimp,eatenBy
+68764,104638,Linuparus trigonus,Japanese spear lobster,eatenBy
+68764,571229,Bathynomus giganteus,Giant Isopod,eatenBy
+68764,652685,Bathypolypus sponsalis,Globose Octopus,eatenBy
+68764,253737,Vampyroteuthis infernalis,Vampire Squid,eatenBy
+68764,253733,Pterygioteuthis giardi,Roundear Fire Squid,eatenBy
+68764,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+68764,,Crangon franciscorum,,eatenBy
+68764,47686,Protozoa,protozoans,preysOn
+68764,153112,Euphausiacea,krill,preysOn
+68764,67333,Bacteria,bacteria,preysOn
+68764,68764,Ostracoda,Seed Shrimp,preysOn
+68764,47126,Plantae,plants,preysOn
+68764,121643,Copepoda,Copepods,preysOn
+68764,47490,Polychaeta,Polychaete Worms,preysOn
+68764,49282,Sabellidae,Feather Duster Worms,preysOn
+68764,333586,Oligochaeta,Earthworms and allies,preysOn
+68764,,epipellic flora,,preysOn
+68764,,Detritus,,preysOn
+68764,,Prokaryota,,preysOn
+68764,,Epipellic Flora,,preysOn
+68764,,Phytoplankton,,preysOn
+68764,245926,Arcella,,preysOn
+68764,,Mysidacea,,preysOn
+68764,,nauplii,,preysOn
+68764,372878,Hyperiidea,,preysOn
+68764,,Zooplankton,,preysOn
+68764,,Harparticoida,,preysOn
+68764,4885,Recurvirostra americana,American Avocet,preyedUponBy
+68764,3954,Limosa fedoa,Marbled Godwit,preyedUponBy
+68764,3855,Calidris mauri,Western Sandpiper,preyedUponBy
+68764,144491,Tringa semipalmata,Willet,preyedUponBy
+68764,3864,Calidris minutilla,Least Sandpiper,preyedUponBy
+68764,3867,Limnodromus,Dowitchers,preyedUponBy
+68764,54539,Syngnathus,Pipe-fishes,preyedUponBy
+68764,88563,Gobius,,preyedUponBy
+68764,48921,Hydrozoa,Hydrozoans,preyedUponBy
+68764,68764,Ostracoda,Seed Shrimp,preyedUponBy
+68764,151827,Chaetognatha,Arrow Worms,preyedUponBy
+68764,153112,Euphausiacea,krill,preyedUponBy
+68764,47490,Polychaeta,Polychaete Worms,preyedUponBy
+68764,85514,Cyclopoida,Cyclopoid Copepods,preyedUponBy
+68764,63770,Engraulis mordax,Northern Anchovy,preyedUponBy
+68764,54538,Syngnathus leptorhynchus,Bay Pipefish,preyedUponBy
+68764,153169,Palaemon elegans,Rockpool Prawn,preyedUponBy
+68764,52523,Carcinus maenas,European Green Crab,preyedUponBy
+68764,130085,Actinia equina,Beadlet anemone,preyedUponBy
+68764,,Myctophum asperum,,preyedUponBy
+68764,88477,Geonemertes,Greenhouse Proboscis-worms,preyedUponBy
+68764,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+68764,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preyedUponBy
+68764,101455,Gillichthys mirabilis,Longjaw Mudsucker,preyedUponBy
+68764,117564,Clevelandia ios,Arrow Gobi,preyedUponBy
+68764,88564,Gobiusculus,,preyedUponBy
+68764,91235,Pomatoschistus,,preyedUponBy
+68764,,Gasterosterus,,preyedUponBy
+68764,47524,Pleuronectes,,preyedUponBy
+68764,,Pholis,,preyedUponBy
+68764,27805,Notophthalmus viridescens,Eastern Newt,preyedUponBy
+68764,,Neosiluris ater,,preyedUponBy
+68764,93797,Ambassis agassizii,Agassiz's Glassfish,preyedUponBy
+68764,247694,Ablabesmyia,,preyedUponBy
+68764,,Geophagus brasiliensis,,preyedUponBy
+68764,376084,Cryptochironomus,,preyedUponBy
+68764,323055,Heliozoa,,preyedUponBy
+68764,,Turbellaria,,preyedUponBy
+68764,,Notolepis coatsi,,preyedUponBy
+68764,952607,Euphausia frigida,,preyedUponBy
+68764,617783,Electrona antarctica,,preyedUponBy
+68764,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preyedUponBy
+68764,617786,Gymnoscopelus braueri,,preyedUponBy
+68764,,Neoperla spio,,preyedUponBy
+68764,105479,Melanochromis melanopterus,,preyedUponBy
+68764,,Opsaridium microcephalum,,preyedUponBy
+68764,,Cheilochromis euchilus,,preyedUponBy
+68764,,Bathyclarias worthingtoni,,preyedUponBy
+68764,,Hydropsychidae,,preyedUponBy
+68764,,Labidochromis vellicans,,preyedUponBy
+68764,,Labidochromis caeruleus,,preyedUponBy
+68764,,Mylochromis guentheri,,preyedUponBy
+68764,,H. fenestratus,,preyedUponBy
+68764,,Copadichromis insularis,,preyedUponBy
+68764,109574,Placidochromis johnstoni,,preyedUponBy
+68764,103844,Labeobarbus johnstonii,,preyedUponBy
+68764,,Eclectochromis ornatus,,preyedUponBy
+68764,,Mysidacea,,preyedUponBy
+68764,774778,Gymnoplea,,preyedUponBy
+68764,372878,Hyperiidea,,preyedUponBy
+68764,209018,Polydora,Shell-boring Spionids,preyedUponBy
+68764,123639,Spionidae,,preyedUponBy
+68764,111467,Quietula y-cauda,Shadow Goby,preyedUponBy
+68764,82326,Hypsopsetta guttulata,Diamond turbot,preyedUponBy
+68764,94801,Atherinops affinis,Topsmelt Silverside,preyedUponBy
+68764,627095,Upogebia macginitieorum,,preyedUponBy
+68764,,Limnodromus scilopaceus,,preyedUponBy
+68764,,Catoptrophorus semipalmatus,,preyedUponBy
+68764,,Limnodromus griseus,,preyedUponBy
+68764,228496,Pollachius virens,Pollock,preyedUponBy
+68764,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+68764,118851,Crangon crangon,Brown Shrimp,preyedUponBy
+68764,483237,Zoarces viviparus,Viviparous Blenny,preyedUponBy
+68764,3879,Tringa totanus,Common Redshank,preyedUponBy
+68764,7067,Tadorna tadorna,Common Shelduck,preyedUponBy
+68764,317131,Haemulon parra,Sailor's Choice,preyedUponBy
+68764,130385,Palaemon serratus,Common Prawn,preyedUponBy
+68764,179515,Bathygobius soporator,Frillfin Goby,preyedUponBy
+68764,344748,Pomatoschistus minutus,Sand Goby,preyedUponBy
+68764,121386,Lysmata,,preyedUponBy
+68764,,Anemonia sargassensis,,preyedUponBy
+68764,,Liza ramada,,preyedUponBy
+68764,51280,Nemertea,Ribbon Worms,preyedUponBy
+68764,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+68764,118706,Gobius paganellus,Rock Goby,preyedUponBy
+68764,,Epimeria macrodonta,,preyedUponBy
+68764,543493,Odontaster validus,Antarctic starfish,preyedUponBy
+68764,1171863,Ophiosparte gigas,,preyedUponBy
+68764,,Rhynchonereella bongraini,,preyedUponBy
+68764,,Solidosagitta marri,,preyedUponBy
+68764,608620,Artedidraco orianae,,preyedUponBy
+68764,,Lysasterias perrieri,,preyedUponBy
+68764,609222,Prionodraco evansii,,preyedUponBy
+68764,,Trematomus bernacchii,,preyedUponBy
+68764,,Trematomus lepidorhinus,,preyedUponBy
+68764,,Trematomus eulepidotus,,preyedUponBy
+68764,86645,Artedidraco,,preyedUponBy
+68764,1321176,Cyllopus lucasii,,preyedUponBy
+68764,682434,Pelagobia longicirrata,,preyedUponBy
+68764,608623,Dolloidraco longedorsalis,,preyedUponBy

@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51493,51826,Sporobolus,"dropseeds, cordgrasses, and sandreeds",eats
+51493,71257,Bouteloua gracilis,Blue Grama,eats
+51493,53359,Baccharis pilularis,coyote brush,eats
+51493,,Chondrosum hirsutum,,eats
+51493,288367,Hedosyne ambrosiifolia,Ragged Marsh-elder,eats
+51493,,Ditaxis neomexicana,,eats
+51493,,Bouteloua aristidoides,,eats
+51493,122606,Setaria leucopila,plains bristlegrass,eats
+51493,,Oenothera suffrutescens,,eats
+51493,,Croton pottsii,,eats
+51493,,Iva dealbata,,eats
+51493,,Gutierrezia texana texana,,eats
+51493,,Eragrostis intermedia,,eats
+51493,,Polygala barbeyana,,eats
+51493,,Hilaria mutica,,eats
+51493,161204,Cryptantha mexicana,Mexican cryptantha,eats
+51493,,Convolvulus equitans,,eats
+51493,,Zinnia grandiflora,,eats
+51493,,Physaria fendleri,,eats
+51493,,Digitaria cognata,,eats
+51493,,Giliastrum rigidulum,,eats
+51493,,Buchloe dactyloides,,eats
+51493,,,,eats
+51493,,Bouteloua hirsuta,,eats
+51493,17009,Sayornis saya,Say's Phoebe,eatenBy
+51493,14912,Toxostoma curvirostre,Curve-billed Thrasher,eatenBy
+51493,17008,Sayornis phoebe,Eastern Phoebe,preyedUponBy
+51493,58421,Phidippus johnsoni,Johnson's Jumping Spider,preyedUponBy

@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+257156,135425,Jasminum sambac,Arabian Jasmine,eats
+257156,123745,Murraya koenigii,Curry Tree,eats
+257156,177395,Limonia,,eats
+257156,,Garcinia mangostana,,eats
+257156,,Citrus grandis,,eats
+257156,,Loranthus,,eats
+257156,,Citrus medica,,eats
+257156,,Citrus sinensis,,eats
+257156,,Fortunella marginata,,eats
+257156,184387,Alseodaphne,,eats
+257156,,Aegle marmelos,,eats
+257156,,Pongamia pinnata,,eats
+257156,,Citrus deliciosa,,eats
+257156,,Fortunella,,eats
+257156,,Jasminum simplicifolium,,eats
+257156,123741,Citrus hystrix,Makrut Lime,eats
+257156,,Citrus × limon,,eats
+257156,,Citrus × aurantium,,eats
+257156,,Citrus latifolia,,eats
+257156,,Citrus,,eats
+257156,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy

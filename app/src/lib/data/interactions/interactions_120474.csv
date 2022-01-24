@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+120474,81839,Platycryptus undatus,Tan Jumping Spider,eatenBy
+120474,,Leptodialepis bipartitus,,eatenBy
+120474,,Picoides nuttallii,,eatenBy
+120474,48765,Heteropoda venatoria,Pantropical Huntsman Spider,eatenBy
+120474,,Heterotheridion nigrovariegatum,,eatenBy
+120474,67708,Argiope trifasciata,Banded Garden Spider,preysOn
+120474,67731,Anax junius,Common Green Darner,preysOn
+120474,342386,Kikihia scutellaris,Lesser Bronze Cicada,preysOn
+120474,67328,Pholcus phalangioides,Long-bodied Cellar Spider,preyedUponBy
+120474,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+120474,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+120474,120583,Parasteatoda tepidariorum,Common House Spider,preyedUponBy
+120474,,Priocnemis monachus,,preyedUponBy
+120474,397328,Sphictostethus nitidus,Golden Hunting Wasp,preyedUponBy
+120474,,Cinnyris jugularis,,preyedUponBy

@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118774,,Liriomyza smilacinae,,eatenBy
+118774,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+118774,52965,Sphaerophoria,Globetails,pollinatedBy
+118774,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+118774,,Pyrophaena rosarum,,pollinatedBy
+118774,,Spilogona fatima,,pollinatedBy
+118774,,Melanostoma,,pollinatedBy

@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47182,3849,Calidris alba,Sanderling,eatenBy
+47182,144491,Tringa semipalmata,Willet,eatenBy
+47182,50984,Pomatomus saltatrix,Bluefish,eatenBy
+47182,53875,Ocypode quadrata,Atlantic Ghost Crab,eatenBy
+47182,,Octopus briareus,,eatenBy
+47182,54539,Syngnathus,Pipe-fishes,preyedUponBy
+47182,52522,Ovalipes,,preyedUponBy
+47182,3849,Calidris alba,Sanderling,preyedUponBy
+47182,144491,Tringa semipalmata,Willet,preyedUponBy
+47182,62393,Cancer borealis,Jonah Crab,preyedUponBy
+47182,112459,Semotilus corporalis,Fallfish,preyedUponBy
+47182,49431,Orthopristis chrysoptera,Pigfish,preyedUponBy
+47182,113308,Strongylura marina,Atlantic Needlefish,preyedUponBy
+47182,233276,Urophycis regia,Spotted Hake,preyedUponBy
+47182,317228,Mullus auratus,Red Goatfish,preyedUponBy
+47182,128750,Sciaenops ocellatus,Red Drum,preyedUponBy
+47182,96740,Caranx crysos,Blue Runner,preyedUponBy
+47182,213402,Ammodytes americanus,American Sand Lance,preyedUponBy
+47182,82264,Chilomycterus schoepfii,Striped Burrfish,preyedUponBy
+47182,194675,Lophius americanus,American Monkfish,preyedUponBy
+47182,179445,Trachinotus falcatus,Permit,preyedUponBy
+47182,49421,Diplectrum formosum,Sand Perch,preyedUponBy
+47182,179444,Upeneus parvus,Dwarf Goatfish,preyedUponBy
+47182,146796,Sphoeroides maculatus,Northern Puffer,preyedUponBy
+47182,93844,Ameiurus catus,White Catfish,preyedUponBy
+47182,179469,Selene vomer,Lookdown,preyedUponBy
+47182,51405,Elops saurus,Ladyfish,preyedUponBy
+47182,179454,Syacium papillosum,Dusky Flounder,preyedUponBy
+47182,49225,Alosa aestivalis,Blueback Shad,preyedUponBy
+47182,83439,Centropristis striata,Black Sea Bass,preyedUponBy
+47182,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+47182,131458,Diplectrum bivittatum,Dwarf Sand Perch,preyedUponBy
+47182,47242,Fistularia tabacaria,Atlantic Bluespotted Cornetfish,preyedUponBy
+47182,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+47182,47230,Caranx hippos,Atlantic Crevalle Jack,preyedUponBy
+47182,53739,Cancer irroratus,Atlantic Rock Crab,preyedUponBy
+47182,50984,Pomatomus saltatrix,Bluefish,preyedUponBy

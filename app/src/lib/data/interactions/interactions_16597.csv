@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+16597,50147,Celithemis eponina,Halloween Pennant,eats
+16597,,Ficus benjamina,,eats
+16597,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+16597,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+16597,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+16597,48548,Vanessa cardui,Painted Lady,preysOn

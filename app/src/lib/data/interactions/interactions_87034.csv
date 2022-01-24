@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+87034,1,Animalia,Animals,eats
+87034,,,,eats
+87034,179478,Priacanthus arenatus,Bigeye,eatenBy

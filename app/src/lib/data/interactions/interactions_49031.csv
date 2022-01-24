@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49031,54262,Abies,firs,eats
+49031,,Theobroma,,eats
+49031,,Parashorea malaanonan,,eats
+49031,,Abies concolor,,eats
+49031,,Parus major,,eatenBy
+49031,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

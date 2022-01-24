@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+78217,41090,Glossophaga soricina,Pallas's Long-tongued Bat,eatenBy
+78217,71251,Gryllus,,eatenBy
+78217,47219,Apis mellifera,Western Honey Bee,eatenBy
+78217,57678,Lasioglossum,,eatenBy
+78217,,Spilostethus hospes,,eatenBy
+78217,,Pinnaspis aspidistriae,,eatenBy
+78217,,Mictis caja,,eatenBy
+78217,,Leptocoris tagalicus,,eatenBy
+78217,,Aonidiella aurantii,,eatenBy
+78217,,Acizzia solanicola,,eatenBy
+78217,395129,Phthorimaea operculella,Potato Tuber Moth,eatenBy
+78217,41025,Vampyressa melissa,Melissa's yellow-eared bat,eatenBy
+78217,,Sturnira lilium,,eatenBy
+78217,,Artibeus glaucus,,eatenBy
+78217,,Anoura caudifer,,eatenBy
+78217,,Phyllostomus hastatus,,eatenBy
+78217,41110,Carollia perspicillata,Seba's Short-tailed Bat,eatenBy
+78217,,Sturnira erythromos,,eatenBy
+78217,,Platyrrhinus infuscus,,eatenBy
+78217,,Anoura cultrata,,eatenBy
+78217,,Carollia brevicauda,,eatenBy
+78217,,Chiroderma salvini,,eatenBy
+78217,40995,Artibeus planirostris,Flat-faced Fruit-eating Bat,eatenBy
+78217,,Enchisthenes hartii,,eatenBy
+78217,,Anoura peruana,,eatenBy
+78217,,Platyrrhinus helleri,,eatenBy
+78217,,Mesophylla macconnelli,,eatenBy
+78217,,Lonchophylla handleyi,,eatenBy
+78217,,Platyrrhinus masu,,eatenBy
+78217,,Sturnira magna,,eatenBy
+78217,,Uroderma bilobatum,,eatenBy
+78217,,Tarsonemus waitei,,eatenBy
+78217,41657,Tremarctos ornatus,Spectacled Bear,eatenBy
+78217,,Cyclocephala fulgurata,,eatenBy
+78217,,Myzus persicae,,eatenBy
+78217,497332,Bombus hortulanus,Andean Gardener Bumble Bee,eatenBy
+78217,786937,Heterogomphus dilaticollis,,eatenBy
+78217,,Bemisia tabaci,,eatenBy
+78217,,Paranomala cincta,,eatenBy
+78217,,Manopus biguttatus,,eatenBy
+78217,,Macrosiphum euphorbiae,,eatenBy
+78217,,Trialeurodes vaporariorum,,eatenBy
+78217,,Agrotis ipsilon,,eatenBy
+78217,,Copitarsia decolora,,eatenBy
+78217,43354,Tapirus pinchaque,Mountain Tapir,eatenBy
+78217,,Adalia bipunctata,,eatenBy
+78217,,Bombus pauloensis,,pollinatedBy

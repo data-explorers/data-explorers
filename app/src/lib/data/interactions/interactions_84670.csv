@@ -1,0 +1,165 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84670,67333,Bacteria,bacteria,eats
+84670,211194,Tracheophyta,vascular plants,eats
+84670,,Detritus,,eats
+84670,,carrion,,eats
+84670,,Opalina,,eats
+84670,,Nyctotherus,,eats
+84670,,Megalodiscus,,eats
+84670,,Gregarinidae,,eats
+84670,,benthic microalgae/periphyton,,eats
+84670,52864,Tramea,Saddlebag Gliders,eatenBy
+84670,473,Fulica americana,American Coot,eatenBy
+84670,81576,Belostoma,,eatenBy
+84670,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+84670,133623,Tropisternus,,eatenBy
+84670,27818,Taricha torosa,California Newt,eatenBy
+84670,59653,Gerridae,Water Striders,eatenBy
+84670,67731,Anax junius,Common Green Darner,eatenBy
+84670,64970,Anaxyrus boreas,Western Toad,eatenBy
+84670,11901,Hirundo rustica,Barn Swallow,eatenBy
+84670,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+84670,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+84670,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+84670,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+84670,7120,Cairina moschata,Muscovy Duck,eatenBy
+84670,,Hesperocorixa,,eatenBy
+84670,56557,Notonecta,Milky Backswimmers,eatenBy
+84670,,Lethocerus americanus,,eatenBy
+84670,,Lestes,,eatenBy
+84670,,Erpobdella,,eatenBy
+84670,51679,Coenagrion,Northern Bluets,eatenBy
+84670,24259,Pseudacris regilla,Northern Pacific Tree Frog,eatenBy
+84670,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+84670,67016,Rana draytonii,California Red-legged Frog,eatenBy
+84670,,Macrocyclops,,eatenBy
+84670,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+84670,,Pungitius pungitius,,eatenBy
+84670,48404,Gasterosteus,Threespine Sticklebacks,eatenBy
+84670,,Fulica americana columbiana,,eatenBy
+84670,780966,Attulus damini,,eatenBy
+84670,6667,Cypseloides niger,Black Swift,eatenBy
+84670,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+84670,,Anas americana,,eatenBy
+84670,,Marmaronetta angustirostris,,eatenBy
+84670,72502,Anas chlorotis,Brown Teal,eatenBy
+84670,47126,Plantae,plants,preysOn
+84670,67333,Bacteria,bacteria,preysOn
+84670,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+84670,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+84670,,benthic microalgae/periphyton,,preysOn
+84670,,Nyctotherus,,preysOn
+84670,,Megalodiscus,,preysOn
+84670,,Opalina,,preysOn
+84670,,Gregarinidae,,preysOn
+84670,,epipellic flora,,preysOn
+84670,52380,Aphidoidea,,preysOn
+84670,174422,Hybotidae,Hybotid Dance Flies,preysOn
+84670,,Thripidae,,preysOn
+84670,50190,Cicadoidea,Cicadas,preysOn
+84670,342818,Proctotrupoidea,,preysOn
+84670,69803,Ceratopogonidae,Biting Midges,preysOn
+84670,605071,Cicadina,,preysOn
+84670,,Sternorrhyncha,,preysOn
+84670,354851,Eucoilinae,,preysOn
+84670,,Ootetrastichus,,preysOn
+84670,59653,Gerridae,Water Striders,preyedUponBy
+84670,52864,Tramea,Saddlebag Gliders,preyedUponBy
+84670,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+84670,81576,Belostoma,,preyedUponBy
+84670,11901,Hirundo rustica,Barn Swallow,preyedUponBy
+84670,133623,Tropisternus,,preyedUponBy
+84670,27818,Taricha torosa,California Newt,preyedUponBy
+84670,67731,Anax junius,Common Green Darner,preyedUponBy
+84670,473,Fulica americana,American Coot,preyedUponBy
+84670,11935,Tachycineta bicolor,Tree Swallow,preyedUponBy
+84670,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+84670,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+84670,47188,Pachygrapsus crassipes,Striped Shore Crab,preyedUponBy
+84670,3892,Tringa melanoleuca,Greater Yellowlegs,preyedUponBy
+84670,7086,Branta,Black Geese,preyedUponBy
+84670,3864,Calidris minutilla,Least Sandpiper,preyedUponBy
+84670,6930,Anas platyrhynchos,Mallard,preyedUponBy
+84670,4940,Egretta thula,Snowy Egret,preyedUponBy
+84670,4885,Recurvirostra americana,American Avocet,preyedUponBy
+84670,3855,Calidris mauri,Western Sandpiper,preyedUponBy
+84670,850859,Oxyura jamaicensis,Ruddy Duck,preyedUponBy
+84670,47866,Thomisidae,Crab Spiders,preyedUponBy
+84670,47550,Tetragnatha,,preyedUponBy
+84670,82081,Theridion,Tangleweb Spiders,preyedUponBy
+84670,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+84670,47535,Araneidae,Orbweavers,preyedUponBy
+84670,51556,Sympetrum,Meadowhawks,preyedUponBy
+84670,47927,Anisoptera,Dragonflies,preyedUponBy
+84670,47819,Libellulidae,Skimmers,preyedUponBy
+84670,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+84670,48124,Tettigoniidae,Katydids,preyedUponBy
+84670,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+84670,47928,Zygoptera,Damselflies,preyedUponBy
+84670,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+84670,56611,Philodromus,,preyedUponBy
+84670,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+84670,47822,Diptera,Flies,preyedUponBy
+84670,4385,Larus californicus,California Gull,preyedUponBy
+84670,51679,Coenagrion,Northern Bluets,preyedUponBy
+84670,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+84670,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+84670,,Pseudiacris regilla,,preyedUponBy
+84670,,Hesperocorixa,,preyedUponBy
+84670,,Lestes,,preyedUponBy
+84670,,Erpobdella,,preyedUponBy
+84670,,Letherocerus americanus,,preyedUponBy
+84670,56557,Notonecta,Milky Backswimmers,preyedUponBy
+84670,,Macrocyclops,,preyedUponBy
+84670,101455,Gillichthys mirabilis,Longjaw Mudsucker,preyedUponBy
+84670,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+84670,,Chardrius vociferus,,preyedUponBy
+84670,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+84670,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preyedUponBy
+84670,5034,Botaurus lentiginosus,American Bittern,preyedUponBy
+84670,,Anas americana,,preyedUponBy
+84670,6933,Anas acuta,Northern Pintail,preyedUponBy
+84670,,Limnodromus scilopaceus,,preyedUponBy
+84670,6937,Anas crecca,Green-winged Teal,preyedUponBy
+84670,,Calidris melanotos,,preyedUponBy
+84670,,Anas cyanoptera,,preyedUponBy
+84670,7054,Aythya affinis,Lesser Scaup,preyedUponBy
+84670,,Rallus longirostrus,,preyedUponBy
+84670,,Anas discors,,preyedUponBy
+84670,5017,Bubulcus ibis,Cattle Egret,preyedUponBy
+84670,4937,Egretta caerulea,Little Blue Heron,preyedUponBy
+84670,,Catoptrophorus semipalmatus,,preyedUponBy
+84670,4817,Charadrius semipalmatus,Semipalmated Plover,preyedUponBy
+84670,,Limnodromus griseus,,preyedUponBy
+84670,4938,Egretta tricolor,Tricolored Heron,preyedUponBy
+84670,162,Porzana carolina,Sora,preyedUponBy
+84670,,Actitus macularia,,preyedUponBy
+84670,,Charadrius alexandrinius,,preyedUponBy
+84670,,Coenagrion pulchellum,,preyedUponBy
+84670,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+84670,,Sitticus,,preyedUponBy
+84670,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+84670,,Theridion pictum,,preyedUponBy
+84670,121444,Larinioides,,preyedUponBy
+84670,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+84670,1200309,Argyra vestita,,preyedUponBy
+84670,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+84670,,Chrysotus cilipes,,preyedUponBy
+84670,,Conocephalus fuscus,,preyedUponBy
+84670,49460,Empididae,Dance Flies,preyedUponBy
+84670,,Somatochlora,,preyedUponBy
+84670,360744,Marpissa radiata,,preyedUponBy
+84670,,Mangora acalypha,,preyedUponBy
+84670,1200333,Teuchophorus calcaratus,,preyedUponBy
+84670,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+84670,,Dolichopus nubilius,,preyedUponBy
+84670,,Sitticus caricis,,preyedUponBy
+84670,,Hercostomus assimilis,,preyedUponBy
+84670,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+84670,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+84670,153863,Thanatus,,preyedUponBy
+84670,61762,Evarcha,,preyedUponBy
+84670,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+84670,,Orthetrum cancellatum,,preyedUponBy
+84670,,Sympetrum striolatum,,preyedUponBy
+84670,,Paravespula vulgaris,,preyedUponBy

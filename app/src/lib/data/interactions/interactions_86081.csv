@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+86081,97990,Clupea harengus,Atlantic Herring,eatenBy
+86081,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+86081,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+86081,4101,Puffinus nativitatis,Christmas Shearwater,eatenBy
+86081,4070,Oceanodroma tristrami,Tristram's Storm-Petrel,eatenBy
+86081,4134,Bulweria bulwerii,Bulwer's Petrel,eatenBy
+86081,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+86081,4141,Phoebastria nigripes,Black-footed Albatross,eatenBy
+86081,4537,Anous minutus,Black Noddy,eatenBy
+86081,4044,Pterodroma hypoleuca,Bonin Petrel,eatenBy
+86081,4636,Fregata minor,Great Frigatebird,eatenBy
+86081,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+86081,52305,Squalus mitsukurii,Shortspine Spurdog,eatenBy
+86081,93644,Alepisaurus ferox,Longnose Lancetfish,eatenBy
+86081,616966,Bathygadus macrops,,eatenBy
+86081,4046,Pterodroma neglecta,Kermadec Petrel,eatenBy
+86081,485629,Pterodroma heraldica,Herald Petrel,eatenBy
+86081,617122,Macrourus holotrachys,,eatenBy
+86081,450418,Phycis chesteri,Longfin Hake,eatenBy
+86081,459205,Beryx splendens,Alfonsino,eatenBy
+86081,118657,Pagellus bogaraveo,Blackspot Seabream,eatenBy
+86081,317393,Sternoptyx diaphana,Oblique Hatchetfish,eatenBy
+86081,101181,Galeus eastmani,Gecko Catshark,eatenBy

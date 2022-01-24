@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+77299,202789,Trichoplusia ni,Cabbage Looper Moth,eatenBy
+77299,118492,Helicoverpa zea,Corn Earworm Moth,eatenBy
+77299,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+77299,541678,Oxycarenus hyalinipennis,,eatenBy
+77299,219286,Ephestiodes gilvescentella,Dusky Raisin Moth,eatenBy
+77299,,Pseudoplusia includens,,eatenBy
+77299,83806,Helicoverpa armigera,Cotton Bollworm Moth,eatenBy
+77299,,Spodoptera littoralis,,eatenBy
+77299,,Heliothis virescens,,eatenBy
+77299,,Ostrinia nubilalis,,eatenBy
+77299,,Agrotis ipsilon,,eatenBy
+77299,,Pectinophora gossypiella,,eatenBy
+77299,,Lacanobia suasa,,eatenBy
+77299,,Anomis flava,,eatenBy
+77299,,Apocheima cinerarius,,eatenBy
+77299,,Earias insulana,,eatenBy
+77299,,Diparopsis watersi,,eatenBy
+77299,,Earias biplaga,,eatenBy
+77299,,Cryptophlebia leucotreta,,eatenBy
+77299,,Anomis argillacea,,eatenBy
+77299,,Anthonomus grandis,,eatenBy
+77299,,Anthrenus museorum,,eatenBy
+77299,,Tetranychus urticae,,eatenBy
+77299,,Tetranychus ludeni,,eatenBy
+77299,,Tetranychus cinnabarinus,,eatenBy
+77299,,Eutetranychus banksi,,eatenBy
+77299,,Eutetranychus orientalis,,eatenBy
+77299,297605,Tetranychus tumidus,,eatenBy
+77299,,Tetranychus pacificus,,eatenBy
+77299,,Moodna ostrinella,,eatenBy
+77299,,Spodoptera eridania,,eatenBy
+77299,,Neogalea sunia,,eatenBy
+77299,,Spodoptera latifascia,,eatenBy
+77299,,Anomis impasta,,eatenBy
+77299,477573,Marmara gulosa,,eatenBy
+77299,57678,Lasioglossum,,pollinatedBy
+77299,118968,Allograpta obliqua,Oblique Streaktail,pollinatedBy
+77299,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+77299,,http://treatment.plazi.org/id/A61A09B380185011A57765F1D780E0FD,,pollinatedBy
+77299,,Drapetis sp.,,pollinatedBy
+77299,,N/A N/A,,pollinatedBy
+77299,,Prionyx sp.,,pollinatedBy
+77299,,http://treatment.plazi.org/id/8A1F6FE9F8E85C709DD6C0CD0F9E58F7,,pollinatedBy

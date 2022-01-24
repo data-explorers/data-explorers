@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+70152,43095,Leporidae,Hares and Rabbits,eats
+70152,2,Chordata,Chordates,eats
+70152,,rabbit carcass,,eats
+70152,40268,Chiroptera,Bats,eatenBy
+70152,,Thanotophilus sinuatus,,eatenBy
+70152,,Ptomophagus subvillosus,,eatenBy
+70152,,Nicrophorus vespillo,,eatenBy
+70152,,Thanotophilus rugosus,,eatenBy
+70152,,Aleochara curtula,,eatenBy
+70152,131934,Pterostichus niger,Great Blackclock,eatenBy
+70152,,Catops,,eatenBy
+70152,,Margarinotus ventralis,,eatenBy
+70152,,Alysia manducator,,eatenBy
+70152,,Catops fuscus,,eatenBy
+70152,,Thereva,,eatenBy
+70152,,Metacantharis clypeata,,eatenBy
+70152,,Nicrophorus humator,,eatenBy
+70152,224429,Margarinotus brunneus,,eatenBy
+70152,,Saprinus semistriatus,,eatenBy
+70152,,Nabis,,eatenBy
+70152,,Margarinotus striola,,eatenBy
+70152,,Harpalus rufipes,,eatenBy
+70152,,Hydrotaea armipes,,eatenBy
+70152,,Creophilis maxillosus,,eatenBy
+70152,,H. cadaverinus,,eatenBy
+70152,,T. sinuatus,,eatenBy
+70152,,H. carbonarius,,eatenBy
+70152,,C.,,eatenBy
+70152,,N. vespillo,,eatenBy
+70152,,Helpis minitabunda,,eatenBy
+70152,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+70152,11941,Riparia riparia,Bank Swallow,eatenBy
+70152,53438,Rosa,roses,pollinates
+70152,62642,Solanum rostratum,buffalo-bur,pollinates
+70152,48070,Sagittaria latifolia,broadleaf arrowhead,pollinates
+70152,75445,Anethum graveolens,Dill,pollinates
+70152,58907,Melilotus albus,White Sweetclover,pollinates
+70152,48152,Cynoglossum officinale,hound's-tongue,pollinates
+70152,52821,Achillea millefolium,Common Yarrow,pollinates
+70152,58917,Geranium carolinianum,Carolina crane's-bill,pollinates
+70152,,Mimulus ringens,,pollinates
+70152,,Lycopus americanus,,pollinates
+70152,130365,Sanicula marilandica,Maryland Black-snakeroot,pollinates
+70152,53034,Ambrosia trifida,giant ragweed,pollinates
+70152,,Geum canadense,,pollinates
+70152,,Lycianthes denticulata,,pollinates
+70152,,Hibiscus lasiocarpos,,pollinates
+70152,,Agalinis tenuifolia,,pollinates
+70152,,http://treatment.plazi.org/id/8CDD006DAF104F0C0A07673435A3F5B2,,pollinates
+70152,,Toxicodendron pubescens,,pollinates
+70152,,Crotalaria sagittalis,,pollinates
+70152,,Silphium terebinthinaceum,,pollinates
+70152,,Cimicifuga simplex,,pollinates
+70152,,Libanotis coreana,,pollinates
+70152,,Hydrangea paniculata,,pollinates
+70152,,Lonicera alpigena ,,pollinates
+70152,,Leptospermum scoparium,,pollinates
+70152,,Senecio lautus,,pollinates
+70152,,Gentianella diemensis,,pollinates
+70152,209392,Leucochrysum albicans,hoary sunray,pollinates
+70152,,Nematolepis ovatifolia,,pollinates
+70152,,Acrothamnus montanus,,pollinates
+70152,,Prasophyllum alpinum,,pollinates
+70152,,Baeckea gunniana,,pollinates
+70152,,Richea continentis,,pollinates
+70152,,Orites lancifolia,,pollinates
+70152,,Epacris petrophila,,pollinates
+70152,541384,Prostanthera cuneata,,pollinates
+70152,,Brachyscome stolonifera,,pollinates
+70152,,Brachyscome scapigera,,pollinates
+70152,,Azorina vidalii,,pollinates
+70152,75869,Brassica napus,rapeseed,pollinates
+70152,,Allium,,pollinates
+70152,359668,Physaria filiformis,Missouri bladderpod,pollinates
+70152,394124,Orthodera novaezealandiae,New Zealand Mantis,preyedUponBy
+70152,,Helpis minitabunda,,preyedUponBy

@@ -1,0 +1,171 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118597,48201,Scarabaeidae,Scarabs,eats
+118597,85521,Harpacticoida,Harpacticoid Copepods,eats
+118597,50928,Palaemonidae,palaemonid shrimps,eats
+118597,47114,Gastropoda,Gastropods,eats
+118597,52775,Bombus,Bumble Bees,eats
+118597,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+118597,195134,Euphausiidae,Euphotic Krill,eats
+118597,47186,Decapoda,Decapods,eats
+118597,51225,Tipulidae,Large Crane Flies,eats
+118597,47158,Insecta,Insects,eats
+118597,48580,Idotea,,eats
+118597,85493,Crustacea,Crustaceans,eats
+118597,49567,Carabidae,Ground Beetles,eats
+118597,47126,Plantae,plants,eats
+118597,48220,Phaeophyceae,brown algae,eats
+118597,53505,Miridae,Plant Bugs,eats
+118597,70144,Muscidae,House Flies and Allies,eats
+118597,47208,Coleoptera,Beetles,eats
+118597,56097,Bibionidae,March Flies,eats
+118597,49995,Syrphidae,Hover Flies,eats
+118597,61860,Calliphoridae,Blow Flies,eats
+118597,47157,Lepidoptera,Butterflies and Moths,eats
+118597,47951,Staphylinidae,Rove Beetles,eats
+118597,47199,Ichneumonidae,Ichneumonid Wasps,eats
+118597,68104,Bryozoa,Bryozoans,eats
+118597,49996,Anthomyiidae,Root-maggot Flies,eats
+118597,118597,Belone belone,Garfish,eats
+118597,51146,Chrysomelidae,Leaf Beetles,eats
+118597,70127,Stratiomyidae,Soldier Flies,eats
+118597,47115,Mollusca,Molluscs,eats
+118597,47490,Polychaeta,Polychaete Worms,eats
+118597,3,Aves,Birds,eats
+118597,342912,Caridea,Caridean Shrimps,eats
+118597,1,Animalia,Animals,eats
+118597,47584,Bivalvia,Bivalves,eats
+118597,84074,Cixiidae,,eats
+118597,,Anisopodidae,,eats
+118597,,Pleuronectiformes,,eats
+118597,,Corycaeus anglicus,,eats
+118597,194046,Gammarus locusta,,eats
+118597,,Pentatoma rufipes,,eats
+118597,,Cephalaspidomorphi,,eats
+118597,,Phytoplankton,,eats
+118597,,DIGESTED REMAINS,,eats
+118597,62410,Homarus gammarus,European lobster,eats
+118597,480415,Acartia clausi,,eats
+118597,86396,Ammodytes,,eats
+118597,346580,Calanus helgolandicus,,eats
+118597,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+118597,203467,Temora longicornis,,eats
+118597,,Centropages typicus,,eats
+118597,61863,Cercopidae,Froghoppers,eats
+118597,,Heleomyzidae,,eats
+118597,,Harpacticus uniremis,,eats
+118597,552295,Gammarellus angulosus,,eats
+118597,127705,Portunus,,eats
+118597,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+118597,,Osteichthyes,,eats
+118597,622518,Pisidia longicornis,Long-clawed Porcelain Crab,eats
+118597,47290,Crangonidae,,eats
+118597,1110968,Podon intermedius,,eats
+118597,,Parathemisto oblivia,,eats
+118597,,Symphyta,,eats
+118597,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eats
+118597,203608,Pleurosigma,,eats
+118597,785009,Eurydice pulchra,,eats
+118597,,Parathemisto,,eats
+118597,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+118597,,Ectinosoma normani,,eats
+118597,,Anomalocera patersoni,,eats
+118597,120553,Cancer pagurus,Edible Crab,eats
+118597,63742,Gadidae,Cods and Haddocks,eats
+118597,,,,eats
+118597,,Gnathostomata,,eats
+118597,59807,Gammarus,,eats
+118597,85574,Ammodytidae,Sand Lances,eats
+118597,118597,Belone belone,Garfish,eatenBy
+118597,41708,Phoca vitulina,Harbor Seal,eatenBy
+118597,4343,Larus,Large White-headed Gulls,eatenBy
+118597,4553,Cerorhinca monocerata,Rhinoceros Auklet,eatenBy
+118597,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+118597,4324,Pelecanus,Pelicans,eatenBy
+118597,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+118597,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+118597,430553,Merlangius merlangus,Whiting,eatenBy
+118597,93696,Alopias vulpinus,Thresher Shark,eatenBy
+118597,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+118597,118603,Merluccius merluccius,European Hake,eatenBy
+118597,63740,Gadus morhua,Atlantic Cod,eatenBy
+118597,118636,Scophthalmus rhombus,Brill,eatenBy
+118597,110361,Prionace glauca,Blue Shark,eatenBy
+118597,4286,Phalacrocorax chalconotus,Stewart Island Shag,eatenBy
+118597,4276,Phalacrocorax onslowi,Chatham Islands Shag,eatenBy
+118597,3788,Sula dactylatra,Masked Booby,eatenBy
+118597,,Pelecanus thagus,,eatenBy
+118597,4292,Phalacrocorax punctatus,Spotted Shag,eatenBy
+118597,,Puffinus griseus,,eatenBy
+118597,,Phalacrocorax sulcirostris,,eatenBy
+118597,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+118597,,Phalacrocorax gaimardi,,eatenBy
+118597,4264,Phalacrocorax fuscicollis,Indian Cormorant,eatenBy
+118597,,Thalasseus eurygnatha,,eatenBy
+118597,4301,Phalacrocorax ranfurlyi,Bounty Islands Shag,eatenBy
+118597,4336,Pelecanus philippensis,Spot-billed Pelican,eatenBy
+118597,509656,Calonectris diomedea,Cory's Shearwater,eatenBy
+118597,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+118597,4294,Phalacrocorax featherstoni,Pitt Island Shag,eatenBy
+118597,4189,Calonectris leucomelas,Streaked Shearwater,eatenBy
+118597,,Phalacrocorax niger,,eatenBy
+118597,144543,Thalasseus bengalensis,Lesser Crested Tern,eatenBy
+118597,4302,Phalacrocorax harrisi,Flightless Cormorant,eatenBy
+118597,3796,Sula variegata,Peruvian Booby,eatenBy
+118597,,Larus crassirostris,,eatenBy
+118597,,Thalassarche carteri,,eatenBy
+118597,4311,Phalacrocorax fuscescens,Black-faced Cormorant,eatenBy
+118597,4436,Sterna dougallii,Roseate Tern,eatenBy
+118597,3786,Sula nebouxii,Blue-footed Booby,eatenBy
+118597,3815,Spheniscus mendiculus,Galápagos Penguin,eatenBy
+118597,,Puffinus carneipes,,eatenBy
+118597,56768,Sula granti,Nazca Booby,eatenBy
+118597,,Pelecanus crispus,,eatenBy
+118597,144529,Sternula albifrons,Little Tern,eatenBy
+118597,3812,Spheniscus magellanicus,Magellanic Penguin,eatenBy
+118597,144527,Onychoprion anaethetus,Bridled Tern,eatenBy
+118597,,Pelecanus conspicillatus,,eatenBy
+118597,144535,Sternula balaenarum,Damara Tern,eatenBy
+118597,,Ichthyaetus ichthyaetus,,eatenBy
+118597,3814,Spheniscus humboldti,Humboldt Penguin,eatenBy
+118597,,Papasula abbotti,,eatenBy
+118597,4356,Larus canus,Mew Gull,eatenBy
+118597,144532,Sternula nereis,Fairy Tern,eatenBy
+118597,144531,Sternula superciliaris,Yellow-billed Tern,eatenBy
+118597,,Larus saundersi,,eatenBy
+118597,,Larus relictus,,eatenBy
+118597,3801,Morus serrator,Australasian Gannet,eatenBy
+118597,3803,Morus capensis,Cape Gannet,eatenBy
+118597,,Larus brunnicephalus,,eatenBy
+118597,41733,Halichoerus grypus,Grey Seal,eatenBy
+118597,101176,Galeorhinus galeus,School Shark,eatenBy
+118597,115167,Xiphias gladius,Swordfish,eatenBy
+118597,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+118597,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+118597,188556,Tetrapturus belone,Mediterranean Spearfish,eatenBy
+118597,102975,Huso huso,Beluga,eatenBy
+118597,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eatenBy
+118597,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+118597,97990,Clupea harengus,Atlantic Herring,preysOn
+118597,367966,Ammodytes tobianus,Lesser Sand Lance,preysOn
+118597,130385,Palaemon serratus,Common Prawn,preysOn
+118597,203477,Evadne nordmanni,,preysOn
+118597,329013,Pseudocalanus elongatus,,preysOn
+118597,,Paracalanus parvus,,preysOn
+118597,,Centropages typicus,,preysOn
+118597,1110968,Podon intermedius,,preysOn
+118597,480415,Acartia clausi,,preysOn
+118597,118851,Crangon crangon,Brown Shrimp,preysOn
+118597,203475,Metridia lucens,,preysOn
+118597,346580,Calanus helgolandicus,,preysOn
+118597,,Eucalanus elongatus elongatus,,preysOn
+118597,,Eutemora hirundoides,,preysOn
+118597,203467,Temora longicornis,,preysOn
+118597,,Microcalanus pusillis,,preysOn
+118597,41708,Phoca vitulina,Harbor Seal,preyedUponBy
+118597,115167,Xiphias gladius,Swordfish,preyedUponBy
+118597,113064,Squatina squatina,Angelshark,preyedUponBy
+118597,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preyedUponBy
+118597,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy
+118597,118603,Merluccius merluccius,European Hake,preyedUponBy
+118597,,no name,,preyedUponBy
+118597,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,preyedUponBy

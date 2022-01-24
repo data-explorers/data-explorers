@@ -1,0 +1,163 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53707,203466,Idotea balthica,Baltic Isopod,eatenBy
+53707,153169,Palaemon elegans,Rockpool Prawn,eatenBy
+53707,49265,Sphoeroides spengleri,Bandtail Puffer,eatenBy
+53707,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+53707,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+53707,132473,Lagodon rhomboides,Pinfish,eatenBy
+53707,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+53707,473,Fulica americana,American Coot,eatenBy
+53707,451393,Sericostoma personatum,Welshman's Button Caddisfly,eatenBy
+53707,482069,Leuctra geniculata,Willow Fly,eatenBy
+53707,59807,Gammarus,,eatenBy
+53707,354596,Grapsus albolineatus,Mottled Lightfoot Crab,eatenBy
+53707,51002,Elysia tomentosa,Hairy elysia,eatenBy
+53707,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+53707,293026,Lytechinus williamsi,,eatenBy
+53707,52290,Diadema antillarum,Atlantic Long-spined Sea Urchin,eatenBy
+53707,49955,Tripneustes ventricosus,West Indian Sea Egg,eatenBy
+53707,128200,Echinometra viridis,Reef Urchin,eatenBy
+53707,120069,Lytechinus variegatus,Variegated Sea Urchin,eatenBy
+53707,194691,Echinometra lucunter,Atlantic Rock-boring Urchin,eatenBy
+53707,295498,Pilumnus gemmatus,,eatenBy
+53707,295342,Paraliomera dispar,,eatenBy
+53707,260288,Alpheus cristulifrons,,eatenBy
+53707,,Epialtus kingsleyi,,eatenBy
+53707,,Microphrys interruptus,,eatenBy
+53707,260287,Alpheus armillatus,,eatenBy
+53707,430087,Lithopoma tectum,West Indian Starsnail,eatenBy
+53707,260269,Synalpheus goodei,,eatenBy
+53707,248353,Mithrax,,eatenBy
+53707,295394,Paguristes tortugae,,eatenBy
+53707,519476,Lithopoma tuber,Green Star Shell,eatenBy
+53707,260318,Calcinus tibicen,Orangeclaw Hermit Crab,eatenBy
+53707,346475,Mithraculus cinctimanus,banded clinging crab,eatenBy
+53707,,Mithrax hemphilli,,eatenBy
+53707,295186,Alpheus armatus,Red Snapping Shrimp,eatenBy
+53707,,Pagurus bonairensis,,eatenBy
+53707,,Pachycheles susanae,,eatenBy
+53707,47299,Panulirus argus,Caribbean Spiny Lobster,eatenBy
+53707,295330,Pilumnus longleyi,,eatenBy
+53707,,Microphrys bicornutus,,eatenBy
+53707,295506,Paraliomera longimana,,eatenBy
+53707,260420,Pilumnus dasypodus,Shortspine Hairy Crab,eatenBy
+53707,,Lobatus costatus,,eatenBy
+53707,130055,Paguristes cadenati,Red Reef Hermit,eatenBy
+53707,204905,Tozeuma carolinense,Arrow Shrimp,eatenBy
+53707,541663,Eoacmaea pustulata,,eatenBy
+53707,,Pilumnus holosericus,,eatenBy
+53707,,Synalpheus pandionis,,eatenBy
+53707,986312,Pitho quadridentata,,eatenBy
+53707,,Mithrax caribbaeus,,eatenBy
+53707,,Lobatus gigas,,eatenBy
+53707,,Pilumnus diomedeae,,eatenBy
+53707,1225073,Garthiope barbadensis,,eatenBy
+53707,260274,Synalpheus fritzmuelleri,,eatenBy
+53707,700391,Ericerodes gracilipes,unicorn neck crab,eatenBy
+53707,295191,Alpheus peasei,,eatenBy
+53707,,Micropanope nuttingi,,eatenBy
+53707,260370,Pitho sexdentata,,eatenBy
+53707,,Collisella,,eatenBy
+53707,195201,Pachygrapsus transversus,Mottled Shore Crab,eatenBy
+53707,260539,Ambidexter symmetricus,,eatenBy
+53707,859108,Alpheus immaculatus,,eatenBy
+53707,,Mithrax holderi,,eatenBy
+53707,295220,Paguristes grayi,,eatenBy
+53707,,Mithrax verrucosus,,eatenBy
+53707,,Mithrax pilosus,,eatenBy
+53707,260291,Alpheus heterochaelis,Bigclaw snapping shrimp,eatenBy
+53707,,Microphrys antillensis,,eatenBy
+53707,295188,Alpheus floridanus,,eatenBy
+53707,295331,Pilumnus sayi,Spineback Hairy Crab,eatenBy
+53707,,Hexapanopeus caribbaeus,,eatenBy
+53707,295500,Pilumnus marshi,,eatenBy
+53707,,Pachycheles serratus,,eatenBy
+53707,,Podochela riisei,,eatenBy
+53707,295266,Pitho aculeata,,eatenBy
+53707,295271,Epialtus longirostris,,eatenBy
+53707,260322,Pagurus brevidactylus,,eatenBy
+53707,260267,Synalpheus anasimus,,eatenBy
+53707,,Pachycheles riisei,,eatenBy
+53707,,Mithraculus ruber,,eatenBy
+53707,259872,Synalpheus brevicarpus,,eatenBy
+53707,260422,Pilumnus pannosus,Beaded Hairy Crab,eatenBy
+53707,,Lobatus gallus,,eatenBy
+53707,939939,Synalpheus spinifrons,,eatenBy
+53707,,Pilumnus reticulatus,,eatenBy
+53707,295329,Pilumnus lacteus,,eatenBy
+53707,295189,Alpheus formosus,,eatenBy
+53707,260293,Alpheus normanni,,eatenBy
+53707,259873,Synalpheus longicarpus,,eatenBy
+53707,361286,Mithraculus sculptus,Green Clinging Crab,eatenBy
+53707,,Lithopoma caelatum,,eatenBy
+53707,260372,Pitho lherminieri,,eatenBy
+53707,541544,Tegula lividomaculata,,eatenBy
+53707,700390,Coryrhynchus sidneyi,shortfinger neck crab,eatenBy
+53707,295183,Synalpheus townsendi,,eatenBy
+53707,,Mithrax spinosissimus,,eatenBy
+53707,121195,Acanthurus chirurgus,Doctorfish,eatenBy
+53707,132531,Archosargus rhomboidalis,Western Atlantic Seabream,eatenBy
+53707,49316,Chaetodipterus faber,Atlantic Spadefish,eatenBy
+53707,49304,Stegastes planifrons,Threespot Damselfish,eatenBy
+53707,48919,Littorina,Periwinkles,preyedUponBy
+53707,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preyedUponBy
+53707,49265,Sphoeroides spengleri,Bandtail Puffer,preyedUponBy
+53707,39659,Chelonia mydas,Green Sea Turtle,preyedUponBy
+53707,517492,Fissurella barbadensis,,preyedUponBy
+53707,49514,Acanthopleura granulata,West Indian Fuzzy Chiton,preyedUponBy
+53707,972913,Lottia leucopleura,,preyedUponBy
+53707,,Nodolittorina tuberculata,,preyedUponBy
+53707,260420,Pilumnus dasypodus,Shortspine Hairy Crab,preyedUponBy
+53707,49753,Microspathodon chrysurus,Yellowtail Damselfish,preyedUponBy
+53707,47299,Panulirus argus,Caribbean Spiny Lobster,preyedUponBy
+53707,130055,Paguristes cadenati,Red Reef Hermit,preyedUponBy
+53707,,Epialtus kingsleyi,,preyedUponBy
+53707,,Hexapanopeus caribbaeus,,preyedUponBy
+53707,52290,Diadema antillarum,Atlantic Long-spined Sea Urchin,preyedUponBy
+53707,260318,Calcinus tibicen,Orangeclaw Hermit Crab,preyedUponBy
+53707,62592,Coryphopterus glaucofraenum,Bridled Goby,preyedUponBy
+53707,131513,Lactophrys trigonus,Buffalo Trunkfish,preyedUponBy
+53707,49955,Tripneustes ventricosus,West Indian Sea Egg,preyedUponBy
+53707,317134,Harengula humeralis,Redear herring,preyedUponBy
+53707,120069,Lytechinus variegatus,Variegated Sea Urchin,preyedUponBy
+53707,49933,Parablennius marmoreus,Seaweed Blenny,preyedUponBy
+53707,,Microphrys antillensis,,preyedUponBy
+53707,131530,Lutjanus synagris,Lane Snapper,preyedUponBy
+53707,1032318,Acanthurus bahianus,Brazilian Ocean Surgeonfish,preyedUponBy
+53707,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy
+53707,179427,Aluterus schoepfii,Orange Filefish,preyedUponBy
+53707,226272,Ogcocephalus nasutus,Shortnose batfish,preyedUponBy
+53707,49925,Acanthostracion quadricornis,Scrawled Cowfish,preyedUponBy
+53707,295220,Paguristes grayi,,preyedUponBy
+53707,260539,Ambidexter symmetricus,,preyedUponBy
+53707,,Rhinesomus triqueter,,preyedUponBy
+53707,132531,Archosargus rhomboidalis,Western Atlantic Seabream,preyedUponBy
+53707,204905,Tozeuma carolinense,Arrow Shrimp,preyedUponBy
+53707,120129,Lactophrys bicaudalis,Spotted Trunkfish,preyedUponBy
+53707,248353,Mithrax,,preyedUponBy
+53707,295266,Pitho aculeata,,preyedUponBy
+53707,259872,Synalpheus brevicarpus,,preyedUponBy
+53707,49498,Aluterus scriptus,Scrawled Filefish,preyedUponBy
+53707,260287,Alpheus armillatus,,preyedUponBy
+53707,52464,Melichthys niger,Black Triggerfish,preyedUponBy
+53707,,Lobatus gallus,,preyedUponBy
+53707,295186,Alpheus armatus,Red Snapping Shrimp,preyedUponBy
+53707,57338,Abudefduf taurus,Night Sergeant,preyedUponBy
+53707,,Pachycheles riisei,,preyedUponBy
+53707,47235,Holacanthus ciliaris,Queen Angelfish,preyedUponBy
+53707,128200,Echinometra viridis,Reef Urchin,preyedUponBy
+53707,49923,Stegastes adustus,Dusky Damselfish,preyedUponBy
+53707,366514,Strongylura strongylura,Blackspot Longtom,preyedUponBy
+53707,295329,Pilumnus lacteus,,preyedUponBy
+53707,112169,Scarus vetula,Queen Parrotfish,preyedUponBy
+53707,131500,Gnatholepis thompsoni,Goldspot Goby,preyedUponBy
+53707,96936,Centropyge argi,Cherubfish,preyedUponBy
+53707,,Microphrys interruptus,,preyedUponBy
+53707,317092,Entomacrodus nigricans,Pearl Blenny,preyedUponBy
+53707,,Collisella,,preyedUponBy
+53707,49402,Abudefduf saxatilis,Atlantic Sergeant Major,preyedUponBy
+53707,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,preyedUponBy
+53707,1225073,Garthiope barbadensis,,preyedUponBy
+53707,131515,Monacanthus ciliatus,Fringed Filefish,preyedUponBy
+53707,,Pagurus bonairensis,,preyedUponBy
+53707,112166,Scarus taeniopterus,Princess Parrotfish,preyedUponBy

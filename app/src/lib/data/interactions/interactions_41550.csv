@@ -1,0 +1,120 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41550,248332,Munida,,eats
+41550,47628,Amphipoda,Amphipods,eats
+41550,153112,Euphausiacea,krill,eats
+41550,47459,Cephalopoda,Cephalopods,eats
+41550,121643,Copepoda,Copepods,eats
+41550,195134,Euphausiidae,Euphotic Krill,eats
+41550,85910,Myctophidae,Lanternfishes,eats
+41550,47308,Gobiidae,Gobies,eats
+41550,85493,Crustacea,Crustaceans,eats
+41550,97990,Clupea harengus,Atlantic Herring,eats
+41550,82351,Melanogrammus aeglefinus,Haddock,eats
+41550,228496,Pollachius virens,Pollock,eats
+41550,318007,Argentina silus,Atlantic Argentine,eats
+41550,63740,Gadus morhua,Atlantic Cod,eats
+41550,952605,Euphausia crystallorophias,,eats
+41550,,Thysanoessa macrura,,eats
+41550,1316623,Pleuragramma antarcticum,,eats
+41550,344134,Euphausia superba,Antarctic Krill,eats
+41550,,None,,eats
+41550,,Pisces,,eats
+41550,340950,Themisto gaudichaudii,,eats
+41550,201781,Calanus,,eats
+41550,51478,Channichthyidae,Crocodile Icefishes,eats
+41550,617783,Electrona antarctica,,eats
+41550,85936,Nototheniidae,Cod Icefishes,eats
+41550,,Cephalaspidomorphi,,eats
+41550,220480,Glyptocephalus cynoglossus,Witch Flounder,eats
+41550,224186,Lycodes esmarkii,Esmark's Eelpout,eats
+41550,195087,Thysanoessa inermis,,eats
+41550,120702,Micromesistius poutassou,Blue Whiting,eats
+41550,47762,Sebastes,Rockfishes,eats
+41550,,Thysanoessa longicaudata,,eats
+41550,639178,Meganyctiphanes norvegica,Northern Krill,eats
+41550,89655,Lycodes,,eats
+41550,215318,Boreogadus saida,Arctic Cod,eats
+41550,215151,Benthosema glaciale,Glacier Lanternfish,eats
+41550,558731,Themisto abyssorum,,eats
+41550,329000,Thysanoessa raschii,,eats
+41550,165100,Mallotus villosus,Capelin,eats
+41550,706438,Themisto libellula,,eats
+41550,86396,Ammodytes,,eats
+41550,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+41550,112419,Sebastes mentella,Deepwater Redfish,eats
+41550,55297,Clione limacina,Naked Sea Butterfly,eats
+41550,118678,Scomber scombrus,Atlantic Mackerel,eats
+41550,,Gnathostomata,,eats
+41550,,Limulus polyphemus,,eats
+41550,55535,Sardinops sagax,Pacific Sardine,eats
+41550,213733,Anotopterus nikparini,North Pacific Daggertooth,eats
+41550,328042,Engraulis japonicus,Japanese Anchovy,eats
+41550,63691,Cololabis saira,Pacific Saury,eats
+41550,53692,Oncorhynchus kisutch,Coho Salmon,eats
+41550,215430,Brama japonica,Pacific Pomfret,eats
+41550,107570,Oncorhynchus gorbuscha,Pink Salmon,eats
+41550,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+41550,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+41550,614161,Gadus chalcogrammus,Alaska Pollock,eats
+41550,180029,Gadus macrocephalus,Pacific Cod,eats
+41550,117571,Clupea pallasii,Pacific herring,eats
+41550,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+41550,324532,Sprattus sprattus,European Sprat,eats
+41550,320793,Trisopterus esmarkii,Norway Pout,eats
+41550,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+41550,430553,Merlangius merlangus,Whiting,eats
+41550,92655,Trisopterus,,eats
+41550,85574,Ammodytidae,Sand Lances,eats
+41550,99979,Engraulis ringens,Peruvian Anchoveta,eats
+41550,432389,Berryteuthis anonychus,Smallfin Armhook Squid,eats
+41550,,others,,eats
+41550,261161,Thysanoessa gregaria,,eats
+41550,107572,Oncorhynchus keta,Chum Salmon,eats
+41550,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+41550,201713,Euphausia pacifica,North Pacific krill,eats
+41550,361765,Todarodes pacificus,Japanese Flying Squid,eats
+41550,188362,Scomberomorus guttatus,Indo-Pacific King Mackerel,eats
+41550,224382,Magnisudis atlantica,Duckbill Barracudina,eats
+41550,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+41550,63770,Engraulis mordax,Northern Anchovy,preysOn
+41550,800860,Salpa thompsoni,,preysOn
+41550,153112,Euphausiacea,krill,preysOn
+41550,85910,Myctophidae,Lanternfishes,preysOn
+41550,112419,Sebastes mentella,Deepwater Redfish,preysOn
+41550,229837,Reinhardtius hippoglossoides,Greenland Halibut,preysOn
+41550,195087,Thysanoessa inermis,,preysOn
+41550,329000,Thysanoessa raschii,,preysOn
+41550,639178,Meganyctiphanes norvegica,Northern Krill,preysOn
+41550,215318,Boreogadus saida,Arctic Cod,preysOn
+41550,,Thysanoessa longicaudata,,preysOn
+41550,340950,Themisto gaudichaudii,,preysOn
+41550,952607,Euphausia frigida,,preysOn
+41550,,Rhincalanus gigas,,preysOn
+41550,260964,Primno macropa,,preysOn
+41550,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preysOn
+41550,295545,Eucopia australis,,preysOn
+41550,,Calanus propinquus,,preysOn
+41550,,Euchaetomera,,preysOn
+41550,617789,Gymnoscopelus opisthopterus,,preysOn
+41550,,Metridia gerlachei,,preysOn
+41550,800858,Salpa gerlachei,,preysOn
+41550,617788,Gymnoscopelus nicholsi,,preysOn
+41550,,Calanoides acutus,,preysOn
+41550,,Notolepis coatsi,,preysOn
+41550,617786,Gymnoscopelus braueri,,preysOn
+41550,344134,Euphausia superba,Antarctic Krill,preysOn
+41550,952605,Euphausia crystallorophias,,preysOn
+41550,617819,Protomyctophum bolini,,preysOn
+41550,,Hyperiella dilatata,,preysOn
+41550,295894,Vibilia stebbingi,,preysOn
+41550,800852,Ihlea racovitzai,,preysOn
+41550,1321176,Cyllopus lucasii,,preysOn
+41550,295887,Vibilia antarctica,,preysOn
+41550,,Thysanoessa macrura,,preysOn
+41550,,Paraeuchaeta antarctica,,preysOn
+41550,,Antarctomysis maxima,,preysOn
+41550,1316623,Pleuragramma antarcticum,,preysOn
+41550,,Zooplankton,,preysOn
+41550,,Pisces,,preysOn
+41550,41644,Ursus maritimus,Polar Bear,preyedUponBy
+41550,41521,Orcinus orca,Orca,preyedUponBy

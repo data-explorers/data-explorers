@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60251,1409,Callipepla californica,California Quail,eatenBy
+60251,,Coelioxys coturnix,,eatenBy
+60251,,Bombus citrinus,,eatenBy
+60251,48060,Prosopis,mesquites,pollinatedBy
+60251,120156,Musca domestica,Housefly,pollinatedBy
+60251,176923,Mordella,,pollinatedBy
+60251,59119,Pontia protodice,Checkered White,pollinatedBy
+60251,48739,Sphex,,pollinatedBy
+60251,61893,Conopidae,Thick-headed Flies,pollinatedBy
+60251,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+60251,49707,Halictidae,Sweat Bees,pollinatedBy
+60251,52933,Chauliognathus,,pollinatedBy
+60251,51558,Bombyliidae,Bee Flies,pollinatedBy
+60251,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",pollinatedBy
+60251,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+60251,61356,Vespula,Ground Yellowjackets,pollinatedBy
+60251,,Acmaeodera pulchella,,pollinatedBy
+60251,132236,Ochthera,,pollinatedBy
+60251,,Anthemurgus passiflorae,,pollinatedBy
+60251,,Anoplius illinoensis,,pollinatedBy
+60251,,Trachandrena,,pollinatedBy
+60251,,Porizon,,pollinatedBy
+60251,,Aspicera,,pollinatedBy
+60251,,Bracon,,pollinatedBy
+60251,,Angitia,,pollinatedBy
+60251,,Centrinites strigicollis,,pollinatedBy
+60251,,Tetrachrysis,,pollinatedBy
+60251,,Hemaris thysbe,,pollinatedBy
+60251,,Megaselia fungicola,,pollinatedBy
+60251,,Paranomia nortonii,,pollinatedBy
+60251,,Pholisora catullus,,pollinatedBy
+60251,,Brachypalpus,,pollinatedBy
+60251,,Nomada parva,,pollinatedBy
+60251,,Paradidyma conica,,pollinatedBy
+60251,,Bibio albipennis,,pollinatedBy
+60251,,Polysphincta,,pollinatedBy
+60251,,Empis pudica,,pollinatedBy
+60251,,Andrena carlini,,pollinatedBy
+60251,,Apallates coxendix,,pollinatedBy
+60251,452939,Triepeolus remigatus,Squash Longhorn-Cuckoo,pollinatedBy
+60251,628299,Diceratosmia,,pollinatedBy
+60251,,Cyphopyga,,pollinatedBy
+60251,,Cryptocephalus insertus,,pollinatedBy
+60251,,Copromyza equina,,pollinatedBy
+60251,,Scolia nobilitata,,pollinatedBy
+60251,,Empis distans,,pollinatedBy
+60251,,Elis,,pollinatedBy
+60251,198952,Calliopsis andreniformis,Eastern Miner Bee,pollinatedBy
+60251,,Andrena pruni,,pollinatedBy
+60251,1197428,Myolepta nigra,Black Pegleg,pollinatedBy
+60251,,Peleteria robusta,,pollinatedBy
+60251,,Andrena,,pollinatedBy
+60251,,http://treatment.plazi.org/id/C213F311CE45CD5DAE8582A1D64A3200,,pollinatedBy
+60251,,Self pollinated,,pollinatedBy

@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+479803,62652,Mentha spicata,spearmint,eats
+479803,55215,Aphis,,eats
+479803,48678,Solidago,goldenrods,eats
+479803,76907,Erigeron canadensis,horseweed,eats
+479803,61787,Persicaria,"knotweeds, smartweeds, and waterpeppers",eats
+479803,56112,Symphyotrichum,American asters,eats
+479803,51769,Gaillardia,Blanket Flowers,eats
+479803,52381,Aphididae,Aphids,eats
+479803,1095846,Bidens alba,Romerillo,eats
+479803,,Agrimonia,,eats
+479803,131167,Melanthera nivea,Snow Squarestem,eats
+479803,71154,Aphis nerii,Oleander Aphid,preysOn
+479803,47604,Asteraceae,"sunflowers, daisies, asters, and allies",preysOn

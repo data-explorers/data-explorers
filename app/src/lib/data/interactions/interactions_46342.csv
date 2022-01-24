@@ -1,0 +1,53 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+46342,47158,Insecta,Insects,eats
+46342,,Invertebrata,,eats
+46342,42051,Canis latrans,Coyote,eatenBy
+46342,41976,Lynx rufus,Bobcat,eatenBy
+46342,42069,Vulpes vulpes,Red Fox,eatenBy
+46342,5163,Circus,Harriers,eatenBy
+46342,20044,Bubo virginianus,Great Horned Owl,eatenBy
+46342,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+46342,19893,Strix varia,Barred Owl,eatenBy
+46342,20445,Tyto alba,Barn Owl,eatenBy
+46342,4665,Falco sparverius,American Kestrel,eatenBy
+46342,8010,Corvus corax,Common Raven,eatenBy
+46342,5277,Elanus leucurus,White-tailed Kite,eatenBy
+46342,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+46342,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+46342,922459,Felis silvestris,European Wildcat,eatenBy
+46342,41800,Martes foina,Stone Marten,eatenBy
+46342,41798,Martes americana,American Marten,eatenBy
+46342,41795,Martes zibellina,Sable,eatenBy
+46342,41808,Mustela erminea,Eurasian Stoat,eatenBy
+46342,,Martes pennanti,,eatenBy
+46342,,Neovison vison,,eatenBy
+46342,569428,Mustela nivalis,Least Weasel,eatenBy
+46342,41812,Mustela putorius,Western Polecat,eatenBy
+46342,41796,Martes martes,Eurasian Pine Marten,eatenBy
+46342,922738,Prionailurus bengalensis,Mainland Leopard Cat,eatenBy
+46342,41641,Ursus arctos,Brown Bear,eatenBy
+46342,,Ermine,,eatenBy
+46342,233598,Vulpes lagopus,Arctic Fox,eatenBy
+46342,19975,Athene cunicularia,Burrowing Owl,eatenBy
+46342,20307,Asio otus,Long-eared Owl,eatenBy
+46342,460842,Oiceoptoma thoracicum,Red-breasted Carrion Beetle,eatenBy
+46342,,Nicrophorus vespilloides,,eatenBy
+46342,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+46342,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+46342,20315,Asio flammeus,Short-eared Owl,eatenBy
+46342,19959,Strix occidentalis,Spotted Owl,eatenBy
+46342,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+46342,20359,Aegolius funereus,Boreal Owl,eatenBy
+46342,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+46342,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+46342,19890,Strix nebulosa,Great Gray Owl,eatenBy
+46342,47158,Insecta,Insects,preysOn
+46342,5163,Circus,Harriers,preyedUponBy
+46342,28403,Thamnophis elegans vagrans,Wandering Garter Snake,preyedUponBy
+46342,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+46342,30924,Vipera latastei,Lataste's Viper,preyedUponBy
+46342,81522,Vipera ammodytes,Nose-horned Viper,preyedUponBy
+46342,243962,Charina bottae,Northern Rubber Boa,preyedUponBy
+46342,74009,Zamenis longissimus,Aesculapian Snake,preyedUponBy
+46342,20306,Asio,Eared Owls and Allies,preyedUponBy
+46342,19898,Strix aluco,Tawny Owl,preyedUponBy

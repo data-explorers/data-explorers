@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58058,59194,Ochlodes sylvanoides,Woodland Skipper,eatenBy
+58058,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+58058,48548,Vanessa cardui,Painted Lady,eatenBy
+58058,59195,Lerodea eufala,Eufala Skipper,eatenBy
+58058,50931,Strymon melinus,Gray Hairstreak,eatenBy
+58058,53843,Brephidium exilis,Western Pygmy-Blue,eatenBy
+58058,55626,Pieris rapae,Cabbage White,eatenBy
+58058,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+58058,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+58058,59119,Pontia protodice,Checkered White,eatenBy
+58058,57681,Anthophora urbana,Urbane Digger Bee,eatenBy
+58058,47219,Apis mellifera,Western Honey Bee,eatenBy
+58058,309381,Megachile fidelis,,eatenBy
+58058,1021509,Junonia grisea,Gray Buckeye,eatenBy
+58058,1267536,Tharsalea helloides,Purplish Copper,eatenBy
+58058,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+58058,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+58058,1038405,Burnsius albescens,White Checkered-Skipper,eatenBy
+58058,50786,Vanessa annabella,West Coast Lady,eatenBy
+58058,259609,Ligyra gazophylax,,eatenBy
+58058,69145,Coenonympha california,Common Ringlet,eatenBy
+58058,48549,Vanessa virginiensis,American Lady,eatenBy
+58058,119068,Apodemia virgulti,Behr's Metalmark,eatenBy
+58058,,Burnsius communis,,eatenBy
+58058,,Phyciodes mylitta,,eatenBy
+58058,934230,Coelioxys octodentatus,Eight-toothed Cuckoo Leaf-cutter Bee,eatenBy
+58058,,Cupido amyntula,,eatenBy
+58058,520456,Icaricia acmon,Acmon Blue,eatenBy
+58058,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+58058,1255700,Brachymelecta californica,California Digger-cuckoo Bee,eatenBy
+58058,,Conchylodes octonalis,,eatenBy
+58058,,Eumenes bollii,,eatenBy
+58058,470512,Thyridanthrax atratus,,eatenBy
+58058,,Polistes apachus,,eatenBy
+58058,,Dielis pilipes,,eatenBy
+58058,,Anastoechus,,eatenBy
+58058,,Synanthedon albicornis,,eatenBy
+58058,,Eristalinus aeneus,,eatenBy
+58058,,Pholisora catullus,,eatenBy
+58058,69940,Hemiargus ceraunus,Ceraunus Blue,eatenBy
+58058,,Danaus gilippus,,eatenBy
+58058,,Exoprosopa divisa,,eatenBy
+58058,,Sphex lucae,,eatenBy
+58058,,Ochlodes yuma,,eatenBy
+58058,,Cisseps fulvicollis,,eatenBy
+58058,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+58058,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+58058,,Anartia jatrophae,,pollinatedBy

@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41661,49588,Centrarchidae,Freshwater Sunfishes,eats
+41661,39532,Testudines,Turtles and Tortoises,eats
+41661,26036,Reptilia,Reptiles,eats
+41661,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+41661,,Cambarus bartonii,,eats
+41661,40352,Myotis grisescens,Gray Bat,eats
+41661,4756,Cathartes aura,Turkey Vulture,eatenBy
+41661,41976,Lynx rufus,Bobcat,eatenBy
+41661,41973,Lynx,Lynxes,eatenBy
+41661,41997,Leopardus pardalis,Ocelot,eatenBy
+41661,4765,Coragyps atratus,Black Vulture,eatenBy
+41661,120959,Modiolus,,preysOn
+41661,333586,Oligochaeta,Earthworms and allies,preysOn
+41661,48919,Littorina,Periwinkles,preysOn
+41661,739327,Uca,Narrow-fronted Fiddler Crabs,preysOn
+41661,129210,Manayunkia,,preysOn

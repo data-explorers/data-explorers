@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47793,,live leaves,,eats
+47793,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+47793,1959,Coccyzus,Coccyzus Cuckoos,eatenBy
+47793,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+47793,9100,Melospiza melodia,Song Sparrow,eatenBy
+47793,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+47793,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47793,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+47793,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+47793,13858,Passer domesticus,House Sparrow,eatenBy
+47793,17013,Sayornis nigricans,Black Phoebe,eatenBy
+47793,34435,Hemidactylus turcicus,Mediterranean House Gecko,eatenBy
+47793,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+47793,36094,Uta stansburiana,Common Side-blotched Lizard,eatenBy
+47793,47382,Latrodectus hesperus,Western Black Widow,eatenBy
+47793,47383,Latrodectus geometricus,Brown Widow,eatenBy
+47793,12937,Sialia mexicana,Western Bluebird,eatenBy
+47793,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47793,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+47793,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+47793,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+47793,72952,Icterus portoricensis,Puerto Rican Oriole,eatenBy
+47793,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+47793,10442,Limnothlypis swainsonii,Swainson's Warbler,eatenBy
+47793,558512,Lanius borealis,Northern Shrike,eatenBy
+47793,9743,Agelaius tricolor,Tricolored Blackbird,eatenBy
+47793,8319,Pica nuttalli,Yellow-billed Magpie,eatenBy
+47793,,Corvus caurinus,,eatenBy
+47793,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+47793,12718,Turdus plumbeus,Red-legged Thrush,eatenBy
+47793,36427,Anolis gundlachi,Gundlach’s Anole,eatenBy
+47793,9326,Icterus dominicensis,Hispaniolan Oriole,eatenBy
+47793,329540,Schizomus,,eatenBy
+47793,31890,Diploglossus pleii,Puerto Rican Galliwasp,eatenBy
+47793,3931,Scolopax rusticola,Eurasian Woodcock,eatenBy
+47793,107366,Odontostilbe fugitiva,,eatenBy
+47793,53520,Synbranchus marmoratus,Marbled Swamp Eel,eatenBy
+47793,,Eleutherodactylus coqui,,eatenBy
+47793,36606,Anolis stratulus,Banded Anole,eatenBy
+47793,14984,Margarops fuscatus,Pearly-eyed Thrasher,eatenBy
+47793,,Saurothera vieilloti,,eatenBy
+47793,22979,Leptodactylus albilabris,Caribbean White-lipped Frog,eatenBy
+47793,,Gonatista grisea,,eatenBy
+47793,36445,Anolis evermanni,Emerald anole,eatenBy
+47793,553515,Rhinella marina,Cane Toad,eatenBy
+47793,41376,Taphozous melanopogon,Black-bearded Tomb Bat,eatenBy
+47793,42077,Urocyon littoralis,Island Fox,eatenBy
+47793,41800,Martes foina,Stone Marten,eatenBy
+47793,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+47793,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+47793,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+47793,,Picoides nuttallii,,eatenBy
+47793,1255692,Enoplognatha ovata,Candy-striped Spider complex,eatenBy
+47793,52381,Aphididae,Aphids,preysOn
+47793,66330,Pelophylax nigromaculatus,Black-spotted Frog,preysOn
+47793,10286,Mniotilta varia,Black-and-white Warbler,preyedUponBy
+47793,68165,Linepithema humile,Argentine Ant,preyedUponBy
+47793,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47793,62624,Phidippus putnami,Putnam's Jumping Spider,preyedUponBy
+47793,74717,Myotis punicus,Felten's myotis,preyedUponBy
+47793,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+47793,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+47793,40677,Rhinolophus euryale,Mediterranean horseshoe bat,preyedUponBy
+47793,41376,Taphozous melanopogon,Black-bearded Tomb Bat,preyedUponBy
+47793,40746,Hipposideros speoris,Schneider's roundleaf bat,preyedUponBy
+47793,40715,Hipposideros ater,Dusky Roundleaf Bat,preyedUponBy
+47793,41279,Mormopterus,,preyedUponBy
+47793,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+47793,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+47793,74697,Myotis bechsteinii,Bechstein's bat,preyedUponBy
+47793,,Plecotus auritus,,preyedUponBy
+47793,40552,Chalinolobus nigrogriseus,Hoary Wattled Bat,preyedUponBy
+47793,40301,Myotis riparius,riparian myotis,preyedUponBy
+47793,58421,Phidippus johnsoni,Johnson's Jumping Spider,preyedUponBy
+47793,56558,Notonecta maculata,,preyedUponBy
+47793,474406,Repipta fuscipes,,preyedUponBy

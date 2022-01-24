@@ -1,0 +1,60 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+124417,47170,Fungi,Fungi Including Lichens,eats
+124417,60335,Rhizophora mangle,red mangrove,eats
+124417,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+124417,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+124417,9152,Spizella pusilla,Field Sparrow,eatenBy
+124417,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+124417,12727,Turdus migratorius,American Robin,eatenBy
+124417,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+124417,,Ibycter americanus,,eatenBy
+124417,16110,Contopus cooperi,Olive-sided Flycatcher,eatenBy
+124417,,Picoides villosus,,eatenBy
+124417,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+124417,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+124417,558512,Lanius borealis,Northern Shrike,eatenBy
+124417,,Empidonax traillii,,eatenBy
+124417,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+124417,72952,Icterus portoricensis,Puerto Rican Oriole,eatenBy
+124417,12718,Turdus plumbeus,Red-legged Thrush,eatenBy
+124417,5017,Bubulcus ibis,Cattle Egret,eatenBy
+124417,,Salpinctes obsoletus,,eatenBy
+124417,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+124417,4937,Egretta caerulea,Little Blue Heron,eatenBy
+124417,52989,Cirsium vulgare,Bull Thistle,pollinates
+124417,53207,Senecio,groundsels,pollinates
+124417,60132,Cirsium arvense,creeping thistle,pollinates
+124417,55981,Lapsana communis,nipplewort,pollinates
+124417,48229,Ranunculus repens,Creeping buttercup,pollinates
+124417,58907,Melilotus albus,White Sweetclover,pollinates
+124417,,Cirsium oleraceum,,pollinates
+124417,,Silene dioica,,pollinates
+124417,,Trifolium dubium,,pollinates
+124417,,Chaerophyllum,,pollinates
+124417,,Tripleurospermum inodorum,,pollinates
+124417,,Stachys sylvatica,,pollinates
+124417,,Aegopodium podagraria,,pollinates
+124417,55971,Tanacetum vulgare,tansy,pollinates
+124417,,Allium scorodoprasum,,pollinates
+124417,55976,Eupatorium cannabinum,hemp agrimony,pollinates
+124417,56174,Echium vulgare,viper's-bugloss,pollinates
+124417,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",preysOn
+124417,120480,Hoplosphyrum boreale,Western Brush Cricket,preysOn
+124417,82081,Theridion,Tangleweb Spiders,preyedUponBy
+124417,153595,Dictyna,,preyedUponBy
+124417,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",preyedUponBy
+124417,121467,Uloborus,Feather-legged Spiders,preyedUponBy
+124417,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+124417,47550,Tetragnatha,,preyedUponBy
+124417,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+124417,,Nephila clavipes,,preyedUponBy
+124417,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+124417,778499,Leucauge venusta,Orchard Orbweaver,preyedUponBy
+124417,844909,Ariadna arthuri,,preyedUponBy
+124417,,Dendroica,,preyedUponBy
+124417,49880,Misumenops,,preyedUponBy
+124417,263718,Argyrodes nephilae,,preyedUponBy
+124417,,Ibycter americanus,,preyedUponBy
+124417,,Dolichovespula maculata,,preyedUponBy
+124417,16787,Tyrannus melancholicus,Tropical Kingbird,preyedUponBy
+124417,,Holopogon nigrifacies,,preyedUponBy

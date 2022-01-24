@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53104,53104,Hypochaeris radicata,Common Cat's-ear,eats
+53104,309466,Aphis gossypii,Melon Aphid,eatenBy
+53104,49995,Syrphidae,Hover Flies,eatenBy
+53104,47219,Apis mellifera,Western Honey Bee,eatenBy
+53104,480298,Cornu aspersum,Garden Snail,eatenBy
+53104,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+53104,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+53104,82525,Augochlorella pomoniella,Peridot Sweat Bee,eatenBy
+53104,127812,Hylaeus,Masked Bees,eatenBy
+53104,55785,Ochlodes agricola,Rural Skipper,eatenBy
+53104,129893,Sphaerophoria sulphuripes,Forked Globetail,eatenBy
+53104,1081332,Lon melane,Umber Skipper,eatenBy
+53104,53104,Hypochaeris radicata,Common Cat's-ear,eatenBy
+53104,55626,Pieris rapae,Cabbage White,eatenBy
+53104,,Hylephila phylaeus,,eatenBy
+53104,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,eatenBy
+53104,,Leptophobia eleone,,eatenBy
+53104,,Myzus ornatus,,eatenBy
+53104,,Myzus persicae,,eatenBy
+53104,543818,Colias dimera,Dimera Sulphur,eatenBy
+53104,,Tetranychus urticae,,eatenBy
+53104,,Eueides isabella,,eatenBy
+53104,,Tephritis vespertina,,eatenBy
+53104,,Ensina sonchi,,eatenBy
+53104,1075118,Campiglossa producta,,eatenBy
+53104,,Phomopsis albicans,,eatenBy
+53104,,Ophiomyia heringi,,eatenBy
+53104,,Phytomyza cecidonomia,,eatenBy
+53104,,Rhabdospora hypochaeridis,,eatenBy
+53104,637649,Tortrix capensana,,eatenBy
+53104,,Zosteropoda hirtipes,,eatenBy
+53104,144560,Eolophus roseicapilla,Galah,eatenBy
+53104,520456,Icaricia acmon,Acmon Blue,eatenBy
+53104,1117089,Furovirus,,eatenBy
+53104,,Phanacis hypochoeridis,,eatenBy
+53104,322368,Syrphus opinator,Black-margined Flower Fly,eatenBy
+53104,,Lasioglossum titusi,,eatenBy
+53104,,Zerene eurydice,,eatenBy
+53104,,Cosmia trapezina,,eatenBy
+53104,,Tenthredo koehleri,,eatenBy
+53104,,Oxythyrea funesta,,eatenBy
+53104,,Coenonympha california california,,eatenBy
+53104,,Lapposyrphus lapponicus,,eatenBy
+53104,18921,Platycercus elegans,Crimson Rosella,eatenBy
+53104,,Macrosiphum euphorbiae,,eatenBy
+53104,,Nestor notabilis,,eatenBy
+53104,,Leipoa ocellata,,eatenBy
+53104,54010,Lycaena,Copper Butterflies,pollinatedBy
+53104,,Leioproctus fulvescens,,pollinatedBy
+53104,,Melangyna,,pollinatedBy
+53104,,Argirophenga sp1 M_PL_029,,pollinatedBy

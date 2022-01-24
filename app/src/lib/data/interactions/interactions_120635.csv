@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+120635,85493,Crustacea,Crustaceans,eats
+120635,47459,Cephalopoda,Cephalopods,eats
+120635,,Teuthida,,eats
+120635,3793,Sula sula,Red-footed Booby,eatenBy
+120635,47537,Makaira mazara,Indo-Pacific Blue Marlin,eatenBy
+120635,147455,Makaira nigricans,Blue Marlin,eatenBy
+120635,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+120635,368441,Nassarius pullus,Ribbed Dogwhelk,eatenBy
+120635,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+120635,4537,Anous minutus,Black Noddy,eatenBy
+120635,4535,Anous stolidus,Brown Noddy,eatenBy
+120635,4636,Fregata minor,Great Frigatebird,eatenBy
+120635,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy
+120635,47537,Makaira mazara,Indo-Pacific Blue Marlin,preyedUponBy

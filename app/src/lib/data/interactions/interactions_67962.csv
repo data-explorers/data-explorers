@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67962,51401,Trachinotus ovatus,Pompano,eatenBy
+67962,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+67962,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy

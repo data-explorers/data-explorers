@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61739,53858,Solanum tuberosum,potato,eats
+61739,76610,Daucus carota,wild carrot,eats
+61739,59790,Brassica rapa oleifera,Turnip-rape,eats
+61739,75869,Brassica napus,rapeseed,eats
+61739,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+61739,12942,Sialia sialis,Eastern Bluebird,eatenBy
+61739,82836,Daphne gnidium,Flax-leaved Daphne,pollinates
+61739,,Hysterionica pinifolia,,pollinates
+61739,,Cuphea racemosa racemosa,,pollinates
+61739,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+61739,47927,Anisoptera,Dragonflies,preyedUponBy
+61739,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+61739,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+61739,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+61739,,Somatochlora,,preyedUponBy
+61739,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+61739,4643,Falco subbuteo,Eurasian Hobby,preyedUponBy
+61739,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+61739,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+61739,40544,Chalinolobus gouldii,Gould's Wattled Bat,preyedUponBy
+61739,74927,Plecotus macrobullaris,Mountain Long-eared Bat,preyedUponBy

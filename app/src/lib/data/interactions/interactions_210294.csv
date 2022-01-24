@@ -1,0 +1,154 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+210294,47825,Pycnogonida,Pycnogonids,eats
+210294,1,Animalia,Animals,eats
+210294,47126,Plantae,plants,eats
+210294,144117,Thecostraca,Barnacles and Allies,eats
+210294,85493,Crustacea,Crustaceans,eats
+210294,47628,Amphipoda,Amphipods,eats
+210294,47115,Mollusca,Molluscs,eats
+210294,47114,Gastropoda,Gastropods,eats
+210294,67423,Ulva lactuca,broadleaf sea lettuce,eats
+210294,68769,Ascophyllum,,eats
+210294,67555,Codium fragile,Dead Man's Fingers,eats
+210294,48216,Fucus vesiculosus,bladder wrack,eats
+210294,50862,Codium,Codiums,eats
+210294,343398,Saccorhiza polyschides,Furbellow,eats
+210294,130178,Sargassum,Sargassum,eats
+210294,123631,Corallina,,eats
+210294,131377,Jania,Red Coralline Algae,eats
+210294,57777,Rhodomelaceae,,eats
+210294,54644,Ulva,sea lettuces,eats
+210294,128238,Laurencia,,eats
+210294,51021,Dictyota,Y-branched Algae,eats
+210294,,Prymnesiophyceae,,eats
+210294,942992,Vertebrata fruticulosa,,eats
+210294,57779,Asparagopsis armata,Harpoonweed,eats
+210294,,Ulva compressa,,eats
+210294,327563,Ulva clathrata,,eats
+210294,130176,Chondrus crispus,Irish moss,eats
+210294,203745,Ceramium diaphanum,,eats
+210294,182822,Cladophora sericea,Graceful green hair,eats
+210294,182834,Ectocarpus siliculosus,,eats
+210294,372718,Cladophora albida,,eats
+210294,57772,Fucus serratus,Saw Wrack,eats
+210294,361840,Jania rubens,,eats
+210294,1249071,Ulvella leptochaete,,eats
+210294,,Feldmannia globifera,,eats
+210294,182985,Bonnemaisonia hamifera,Bonnemaison's Hook Weed,eats
+210294,182820,Chaetomorpha linum,Sea Hair,eats
+210294,118821,Himanthalia elongata,Thongweed,eats
+210294,51024,Dictyota dichotoma,Forked ribbons,eats
+210294,,Polysiphonia stricta,,eats
+210294,874525,Stilophora tenella,,eats
+210294,,Osmundea ramosissima,,eats
+210294,857309,Cladophora dalmatica,,eats
+210294,182852,Sphacelaria cirrosa,,eats
+210294,505597,Cladophora rupestris,,eats
+210294,203723,Ceramium virgatum,,eats
+210294,,Enteromorpha intestinalis,,eats
+210294,343402,Codium vermilara,,eats
+210294,129737,Colpomenia peregrina,Oyster-thief,eats
+210294,,Cystoseira tamariscifolia,,eats
+210294,343396,Bifurcaria bifurcata,,eats
+210294,502380,Leathesia marina,Sea Cauliflower,eats
+210294,461577,Ellisolandia elongata,,eats
+210294,1027504,Ceramium ciliatum,,eats
+210294,,Gelidium spinosum,,eats
+210294,790283,Gelidium corneum,,eats
+210294,182991,Palmaria palmata,Dulse,eats
+210294,,Dictyopteris membranacea,,eats
+210294,,Padina pavonia,,eats
+210294,330789,Heterosiphonia,,eats
+210294,342096,Halopteris filicina,,eats
+210294,322821,Sargassum vulgare,,eats
+210294,467267,Rhodymenia pseudopalmata,,eats
+210294,1027511,Tricleocarpa cylindrica,,eats
+210294,342095,Codium adhaerens,,eats
+210294,322735,Cladophora prolifera,,eats
+210294,68612,Ceramium,Banded Weeds,eats
+210294,131323,Caulerpa webbiana,Bottlebrush green seaweed,eats
+210294,362157,Dictyota bartayresiana,,eats
+210294,,Liagora,,eats
+210294,182858,Cladostephus spongiosus,,eats
+210294,124745,Cystoseira,,eats
+210294,63740,Gadus morhua,Atlantic Cod,eatenBy
+210294,49532,Sphaeromatidae,Typical Seapills,preysOn
+210294,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+210294,47158,Insecta,Insects,preysOn
+210294,50597,Cardiidae,Cockles,preysOn
+210294,446757,Acanthochitona crinita,Bristly Mail-shell,preysOn
+210294,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,preysOn
+210294,47490,Polychaeta,Polychaete Worms,preysOn
+210294,210294,Lipophrys pholis,Shanny,preysOn
+210294,128743,Chthamalus,,preysOn
+210294,48836,Ophiuroidea,Brittle Stars,preysOn
+210294,121643,Copepoda,Copepods,preysOn
+210294,52523,Carcinus maenas,European Green Crab,preysOn
+210294,85532,Mysida,Opossum Shrimps,preysOn
+210294,48919,Littorina,Periwinkles,preysOn
+210294,153169,Palaemon elegans,Rockpool Prawn,preysOn
+210294,54960,Nematoda,Nematodes,preysOn
+210294,333586,Oligochaeta,Earthworms and allies,preysOn
+210294,47114,Gastropoda,Gastropods,preysOn
+210294,88563,Gobius,,preysOn
+210294,48147,Isopoda,Isopods,preysOn
+210294,,Osteichthyes,,preysOn
+210294,203477,Evadne nordmanni,,preysOn
+210294,118851,Crangon crangon,Brown Shrimp,preysOn
+210294,130385,Palaemon serratus,Common Prawn,preysOn
+210294,1110968,Podon intermedius,,preysOn
+210294,59806,Gammaridae,,preysOn
+210294,172073,Rissoidae,Spire-shells,preysOn
+210294,47629,Caprella,,preysOn
+210294,83718,Tanaidacea,Tanaids,preysOn
+210294,450561,Patella ulyssiponensis,China Limpet,preysOn
+210294,171919,Musculus costulatus,Ribbed Crenella,preysOn
+210294,1147340,Leptochiton algesirensis,,preysOn
+210294,357614,Patella depressa,Black-footed Limpet,preysOn
+210294,377179,Nacella,,preysOn
+210294,118499,Ampithoidae,,preysOn
+210294,154706,Patella vulgata,Common European Limpet,preysOn
+210294,118706,Gobius paganellus,Rock Goby,preysOn
+210294,246632,Barleeia,Barleysnails,preysOn
+210294,340881,Calliopiidae,,preysOn
+210294,118692,Coryphoblennius galerita,Montagu's Blenny,preysOn
+210294,,Zooplankton,,preysOn
+210294,446756,Lepidochitona cinerea,Grey Mail-shell,preysOn
+210294,,Gibbula umbilicalis,,preysOn
+210294,245524,Lysianassidae,,preysOn
+210294,245452,Stenothoidae,,preysOn
+210294,,Chiton olivaceus,,preysOn
+210294,482235,Tricolia pullus,Pheasant-shell,preysOn
+210294,546796,Patella rustica,,preysOn
+210294,118704,Gobius niger,Black Goby,preysOn
+210294,,Anthura,,preysOn
+210294,,Omalogyra atomus,,preysOn
+210294,144115,Cumacea,Hooded Shrimp,preysOn
+210294,121294,Curculio,Nut and Acorn Weevils,preysOn
+210294,,Leucothoidae,,preysOn
+210294,,Synisoma,,preysOn
+210294,,Hydrobia,,preysOn
+210294,171643,Melitidae,Bivalve Scuds,preysOn
+210294,203392,Jaera,,preysOn
+210294,60692,Munnidae,Spiderwitchers,preysOn
+210294,,Anemonia sargassensis,,preysOn
+210294,,Lepadogaster zebrina,,preysOn
+210294,482996,Modiolula phaseolina,Bean Mussel,preysOn
+210294,108409,Parablennius parvicornis,Rock-pool Blenny,preysOn
+210294,56690,Amphipholis squamata,Dwarf Brittle Star,preysOn
+210294,,Gibbula pennanti,,preysOn
+210294,50764,Nassariidae,Nassa Mudsnails,preyedUponBy
+210294,210294,Lipophrys pholis,Shanny,preyedUponBy
+210294,112497,Serranus atricauda,Blacktail Comber,preyedUponBy
+210294,113064,Squatina squatina,Angelshark,preyedUponBy
+210294,118589,Conger conger,European Conger,preyedUponBy
+210294,118706,Gobius paganellus,Rock Goby,preyedUponBy
+210294,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+210294,342285,Lipophrys trigloides,,preyedUponBy
+210294,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+210294,472138,Lepadogaster lepadogaster,Shore Clingfish,preyedUponBy
+210294,118704,Gobius niger,Black Goby,preyedUponBy
+210294,59283,Pachygrapsus marmoratus,Marbled Crab,preyedUponBy
+210294,210219,Necora puber,Velvet Swimming Crab,preyedUponBy
+210294,195201,Pachygrapsus transversus,Mottled Shore Crab,preyedUponBy
+210294,,Anemonia sargassensis,,preyedUponBy

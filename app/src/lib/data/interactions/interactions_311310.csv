@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+311310,4956,Ardea herodias,Great Blue Heron,eatenBy
+311310,41777,Lontra canadensis,North American River Otter,eatenBy
+311310,4937,Egretta caerulea,Little Blue Heron,eatenBy
+311310,7109,Lophodytes cucullatus,Hooded Merganser,preyedUponBy
+311310,6930,Anas platyrhynchos,Mallard,preyedUponBy
+311310,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,preyedUponBy
+311310,19893,Strix varia,Barred Owl,preyedUponBy
+311310,4246,Podilymbus podiceps,Pied-billed Grebe,preyedUponBy
+311310,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+311310,144455,Ardea alba,Great Egret,preyedUponBy
+311310,4364,Larus delawarensis,Ring-billed Gull,preyedUponBy

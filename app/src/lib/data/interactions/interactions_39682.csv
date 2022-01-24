@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+39682,47120,Arthropoda,Arthropods,eats
+39682,4246,Podilymbus podiceps,Pied-billed Grebe,eats
+39682,47126,Plantae,plants,eats
+39682,,Pimephales notatus,,eats
+39682,6948,Anas fulvigula,Mottled Duck,eats
+39682,4956,Ardea herodias,Great Blue Heron,eatenBy
+39682,41663,Procyon lotor,Common Raccoon,eatenBy
+39682,41880,Mephitis mephitis,Striped Skunk,eatenBy
+39682,42069,Vulpes vulpes,Red Fox,eatenBy
+39682,8021,Corvus brachyrhynchos,American Crow,eatenBy
+39682,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+39682,47208,Coleoptera,Beetles,eatenBy
+39682,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+39682,,Rana catesbeiana,,eatenBy
+39682,29305,Nerodia sipedon,Common Watersnake,eatenBy
+39682,,Lampropeltis holbrooki,,preyedUponBy
+39682,26159,Alligator mississippiensis,American Alligator,preyedUponBy

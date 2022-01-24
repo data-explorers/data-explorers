@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130177,47158,Insecta,Insects,eatenBy
+130177,50764,Nassariidae,Nassa Mudsnails,eatenBy
+130177,81791,Nereis,,eatenBy
+130177,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+130177,245568,Turritellidae,Tower Snails,eatenBy
+130177,54960,Nematoda,Nematodes,eatenBy
+130177,68764,Ostracoda,Seed Shrimp,eatenBy
+130177,47490,Polychaeta,Polychaete Worms,eatenBy
+130177,130085,Actinia equina,Beadlet anemone,eatenBy
+130177,48655,Aplysia californica,California Seahare,eatenBy
+130177,48645,Megathura crenulata,Giant Keyhole Limpet,eatenBy
+130177,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+130177,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,eatenBy
+130177,,Alternaria maritima,,eatenBy
+130177,,Scolecobasidium salinum,,eatenBy
+130177,172073,Rissoidae,Spire-shells,eatenBy
+130177,154706,Patella vulgata,Common European Limpet,eatenBy
+130177,245452,Stenothoidae,,eatenBy
+130177,,Membranipora membranaceae,,eatenBy
+130177,,Omalogyra atomus,,eatenBy
+130177,,Harparticoida,,eatenBy
+130177,246632,Barleeia,Barleysnails,eatenBy
+130177,118499,Ampithoidae,,eatenBy
+130177,130385,Palaemon serratus,Common Prawn,eatenBy
+130177,83718,Tanaidacea,Tanaids,eatenBy
+130177,,Gibbula cineraria,,eatenBy
+130177,59806,Gammaridae,,eatenBy
+130177,81963,Girella nigricans,Opaleye,eatenBy
+130177,105388,Medialuna californiensis,Halfmoon,eatenBy
+130177,179833,Lytechinus anamesus,white sea urchin,eatenBy
+130177,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+130177,347389,Lithopoma,,eatenBy
+130177,615594,Kyphosus azureus,Zebra-perch Sea Chub,eatenBy
+130177,324537,Maja squinado,European Spider Crab,eatenBy
+130177,,Venus verrucosa,,eatenBy
+130177,,Apostichopus japonicus,,eatenBy
+130177,48645,Megathura crenulata,Giant Keyhole Limpet,preyedUponBy
+130177,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+130177,48655,Aplysia californica,California Seahare,preyedUponBy
+130177,324537,Maja squinado,European Spider Crab,preyedUponBy
+130177,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+130177,347389,Lithopoma,,preyedUponBy
+130177,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+130177,81963,Girella nigricans,Opaleye,preyedUponBy
+130177,179833,Lytechinus anamesus,white sea urchin,preyedUponBy

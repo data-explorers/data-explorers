@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58738,12901,Catharus fuscescens,Veery,eatenBy
+58738,906,Meleagris gallopavo,Wild Turkey,eatenBy
+58738,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+58738,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+58738,,Hemileuca chinatiensis,,eatenBy
+58738,,Datana perspicua,,eatenBy
+58738,,Calycopis cecrops,,eatenBy
+58738,,Canis mesomelas,,eatenBy
+58738,,Potamochoerus larvatus,,eatenBy
+58738,41595,Genetta tigrina,Cape Genet,eatenBy
+58738,,Cercopithecus pygerythrus,,eatenBy
+58738,,Tragelaphus scriptus,,eatenBy
+58738,,Stigmella intermedia,,eatenBy
+58738,334439,Aculops rhois,Poison Ivy Leaf Mite,eatenBy
+58738,,Colletes inaequalis,,eatenBy
+58738,,Celastrina ladon,,eatenBy
+58738,,Polygonia progne,,eatenBy
+58738,,Epalpus signifer,,eatenBy
+58738,,Polistes dorsalis,,eatenBy
+58738,,Calophya triozomima,,eatenBy
+58738,49348,Hyles lineata,White-lined Sphinx,eatenBy
+58738,9800,Coccothraustes vespertinus,Evening Grosbeak,eatenBy
+58738,,Callipepla gambelii,,eatenBy
+58738,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+58738,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+58738,47158,Insecta,Insects,pollinatedBy
+58738,47822,Diptera,Flies,pollinatedBy
+58738,47157,Lepidoptera,Butterflies and Moths,pollinatedBy

@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7006,47124,Magnoliopsida,dicots,eats
+7006,47122,Fabaceae,legumes,eats
+7006,211194,Tracheophyta,vascular plants,eats
+7006,64161,Triticum aestivum,Bread Wheat,eats
+7006,47162,Poales,"grasses, sedges, cattails, and allies",eats
+7006,48571,Carex,true sedges,eats
+7006,64237,Phragmites australis,common reed,eats
+7006,,Juncus gerardii,,eats
+7006,,Eleocharis,,eats
+7006,,Calamagrostis stricta,,eats
+7006,,Festuca rubra,,eats
+7006,,Triglochin palustris,,eats
+7006,52693,Agrostis,bent grass,eats
+7006,4672,Falco columbarius,Merlin,eatenBy
+7006,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+7006,8010,Corvus corax,Common Raven,eatenBy
+7006,42069,Vulpes vulpes,Red Fox,eatenBy
+7006,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+7006,4736,Ciconia nigra,Black Stork,eatenBy
+7006,4733,Ciconia ciconia,White Stork,eatenBy
+7006,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+7006,559064,Circus cyaneus,Hen Harrier,eatenBy
+7006,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+7006,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+7006,,Aquila heliaca,,eatenBy
+7006,,Aquila chrysaetos,,eatenBy
+7006,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+7006,4657,Falco rusticolus,Gyrfalcon,eatenBy
+7006,204533,Larus argentatus,Herring Gull,eatenBy
+7006,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+7006,144297,Stercorarius skua,Great Skua,eatenBy
+7006,4389,Larus cachinnans,Caspian Gull,eatenBy
+7006,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+7006,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+7006,204496,Corvus corone,Carrion Crow,eatenBy
+7006,8029,Corvus frugilegus,Rook,eatenBy
+7006,233598,Vulpes lagopus,Arctic Fox,eatenBy
+7006,42048,Canis lupus,Gray Wolf,eatenBy
+7006,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+7006,41852,Gulo gulo,Wolverine,eatenBy
+7006,41900,Herpestes ichneumon,Ichneumon,eatenBy
+7006,41812,Mustela putorius,Western Polecat,eatenBy
+7006,41805,Mustela lutreola,European Mink,eatenBy
+7006,42134,Sus scrofa,Wild Boar,eatenBy
+7006,41800,Martes foina,Stone Marten,eatenBy
+7006,41641,Ursus arctos,Brown Bear,eatenBy
+7006,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+7006,,Elaphe situla,,eatenBy
+7006,39407,Varanus griseus,Desert Monitor,eatenBy
+7006,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+7006,27035,Hierophis viridiflavus carbonarius,,eatenBy
+7006,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+7006,28451,Telescopus nigriceps,Black headed snake,eatenBy

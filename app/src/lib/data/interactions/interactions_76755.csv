@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+76755,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+76755,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+76755,145554,Leptocorisa acuta,,eatenBy
+76755,,Leptocorisa oratorius,,eatenBy
+76755,10487,Dolichonyx oryzivorus,Bobolink,eatenBy
+76755,792868,Radjah,,eatenBy
+76755,,Nettapus pulchellus,,eatenBy
+76755,6905,Anseranas semipalmata,Magpie Goose,eatenBy
+76755,,Dendrocygna bicolor,,eatenBy
+76755,6898,Dendrocygna viduata,White-faced Whistling-Duck,eatenBy
+76755,,Sarkidiornis melanotos sylvicola,,eatenBy
+76755,519,Porphyrio martinica,Purple Gallinule,eatenBy
+76755,649,Francolinus francolinus,Black Francolin,eatenBy

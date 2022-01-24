@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+260959,432545,Todarodes sagittatus,European Flying Squid,eatenBy
+260959,260476,Plesionika acanthonotus,Lesser striped shrimp,eatenBy
+260959,1072347,Plesionika gigliolii,Italian deepsea shrimp,eatenBy
+260959,558991,Plesionika heterocarpus,Arrow shrimp,eatenBy
+260959,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+260959,617789,Gymnoscopelus opisthopterus,,eatenBy
+260959,530434,Electrona paucirastra,Belted Lanternfish,eatenBy
+260959,530435,Electrona subaspera,Rough Lanternfish,eatenBy
+260959,617817,Protomyctophum andriashevi,,eatenBy
+260959,459279,Lampanyctus pusillus,Pygmy Lanternfish,eatenBy
+260959,459369,Diaphus taaningi,,eatenBy
+260959,317181,Lampanyctus alatus,Winged Lanternfish,eatenBy
+260959,617788,Gymnoscopelus nicholsi,,eatenBy
+260959,120683,Lobianchia dofleini,Doflein's Lanternfish,eatenBy
+260959,617785,Gymnoscopelus bolini,,eatenBy
+260959,530421,Diaphus hudsoni,Hudson's Lanternfish,eatenBy
+260959,530456,Symbolophorus barnardi,Barnard's Lanternfish,eatenBy
+260959,530440,Hygophum hanseni,Hansen's Lanternfish,eatenBy
+260959,459365,Diaphus effulgens,Headlight Lanternfish,eatenBy
+260959,103965,Lampadena pontifex,,eatenBy
+260959,530433,Electrona carlsbergi,Carlsberg's Lanternfish,eatenBy
+260959,110696,Protomyctophum luciferum,,eatenBy
+260959,194867,Diogenichthys atlanticus,Atlantic Lanternfish,eatenBy
+260959,459373,Diaphus luetkeni,Luetken's Lanternfish,eatenBy
+260959,530452,Protomyctophum normani,Norman's Lanternfish,eatenBy
+260959,530455,Scopelopsis multipunctatus,Multispot Lanternfish,eatenBy
+260959,617783,Electrona antarctica,,eatenBy
+260959,103722,Krefftichthys anderssoni,,eatenBy
+260959,617819,Protomyctophum bolini,,eatenBy
+260959,317036,Ceratoscopelus warmingii,Warming's Lanternfish,eatenBy
+260959,317153,Hygophum hygomii,Hygom's Lanternfish,eatenBy
+260959,617821,Protomyctophum choriodon,,eatenBy
+260959,530446,Metelectrona herwigi,Herwig Lanternfish,eatenBy
+260959,317001,Benthosema suborbitale,Dimple Lanternfish,eatenBy
+260959,120700,Diaphus meadi,Mead's Lanternfish,eatenBy
+260959,226037,Notoscopelus resplendens,Patchwork Lanternfish,eatenBy
+260959,530438,Gymnoscopelus microlampas,Minispotted Lanternfish,eatenBy
+260959,530443,Lampanyctus australis,Austral Lanternfish,eatenBy
+260959,530457,Symbolophorus boops,Spotfin Lanternfish,eatenBy
+260959,118603,Merluccius merluccius,European Hake,eatenBy
+260959,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+260959,51401,Trachinotus ovatus,Pompano,eatenBy
+260959,317007,Brama caribbea,,eatenBy
+260959,215430,Brama japonica,Pacific Pomfret,eatenBy
+260959,101184,Galeus melastomus,Blackmouth Catshark,eatenBy
+260959,64589,Capros aper,Boarfish,eatenBy
+260959,,Pseudopentaceros wheeleri,,eatenBy
+260959,118603,Merluccius merluccius,European Hake,preyedUponBy
+260959,51401,Trachinotus ovatus,Pompano,preyedUponBy

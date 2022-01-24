@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54331,55626,Pieris rapae,Cabbage White,eatenBy
+54331,,Pieris brassicae,,eatenBy
+54331,,Pieris brassicoides,,eatenBy
+54331,,Ascia monuste,,eatenBy
+54331,,Hesperocharis marchalii,,eatenBy
+54331,,Leptophobia eleone,,eatenBy
+54331,,Leptophobia aripa,,eatenBy
+54331,,Pieris napi,,eatenBy
+54331,,Aulacorthum solani,,eatenBy
+54331,,Aphis (Aphis) fabae,,eatenBy
+54331,410182,Scaptomyza flava,Brassica Leaf Miner,eatenBy
+54331,,Chromatomyia horticola,,eatenBy
+54331,6056,Lafresnaya lafresnayi,Mountain Velvetbreast,eatenBy
+54331,,Metallura tyrianthina,,eatenBy
+54331,,Tatochila autodice,,eatenBy
+54331,57671,Anthidium,Carder Bees,pollinatedBy
+54331,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+54331,,,,pollinatedBy
+54331,,Yramea,,pollinatedBy
+54331,,Scaeva melanostoma,,pollinatedBy
+54331,512755,Megachile semirufa,,pollinatedBy
+54331,,Sephanoides sephanoides,,pollinatedBy

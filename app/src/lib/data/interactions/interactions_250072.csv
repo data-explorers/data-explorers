@@ -1,0 +1,108 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+250072,82081,Theridion,Tangleweb Spiders,preysOn
+250072,47951,Staphylinidae,Rove Beetles,preysOn
+250072,177071,Melipotis,,preysOn
+250072,153567,Anyphaena,,preysOn
+250072,121467,Uloborus,Feather-legged Spiders,preysOn
+250072,55659,Pyrausta,Mint Moths,preysOn
+250072,203276,Orius,,preysOn
+250072,67706,Argiope argentata,Silver Garden Orbweaver,preysOn
+250072,203279,Scaphytopius,,preysOn
+250072,153635,Sergiolus,,preysOn
+250072,133054,Maevia inclemens,Dimorphic Jumping Spider,preysOn
+250072,49995,Syrphidae,Hover Flies,preysOn
+250072,250072,Metacyrba,,preysOn
+250072,47550,Tetragnatha,,preysOn
+250072,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+250072,51146,Chrysomelidae,Leaf Beetles,preysOn
+250072,133824,Chrysobothris,,preysOn
+250072,153595,Dictyna,,preysOn
+250072,1159232,Tangia breviceps,,preysOn
+250072,518452,Carthasis decoratus,,preysOn
+250072,,Tachys occulator,,preysOn
+250072,225137,Micronaspis floridana,,preysOn
+250072,153839,Hentzia palmarum,Common Hentz Jumping Spider,preysOn
+250072,129986,Oliarus,,preysOn
+250072,49024,Membracidae,Typical Treehoppers,preysOn
+250072,,Phocides batabano,,preysOn
+250072,503114,Metatropiphorus belfragii,,preysOn
+250072,,Tetraluerodes,,preysOn
+250072,,Bema ydda,,preysOn
+250072,,Ecdytolopha,,preysOn
+250072,,Pyraustidae,,preysOn
+250072,,Lynchia albipennis,,preysOn
+250072,49541,Gasteracantha,Spiny Orbweavers,preysOn
+250072,,Bembidion contractum,,preysOn
+250072,1121348,Blissus insularis,,preysOn
+250072,420613,Stoidis,,preysOn
+250072,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preysOn
+250072,,Phoebis agarithe,,preysOn
+250072,,Scydmaenidae,,preysOn
+250072,82279,Automeris io,Io Moth,preysOn
+250072,,Trischidias atoma,,preysOn
+250072,,Ascia monuste,,preysOn
+250072,,Oxacis,,preysOn
+250072,,Poecilipa rhizophorae,,preysOn
+250072,176795,Nemapogon,,preysOn
+250072,178747,Tricorynus,,preysOn
+250072,,Ataxia,,preysOn
+250072,,Dufouriellus afer,,preysOn
+250072,557422,Flatoidinus punctatus,,preysOn
+250072,,Oiketicus abbottii,,preysOn
+250072,1300915,Marojala,,preysOn
+250072,844909,Ariadna arthuri,,preysOn
+250072,354274,Ballus,,preysOn
+250072,,Orgygia detrita,,preysOn
+250072,,Cryptorhynchus minutissimus,,preysOn
+250072,153571,Mangora,,preysOn
+250072,,Styloleptus biustus dorsalis,,preysOn
+250072,778499,Leucauge venusta,Orchard Orbweaver,preysOn
+250072,,Oebalus pugnax,,preysOn
+250072,,Alarodia slossoniae,,preysOn
+250072,323059,Acanalonia servillei,,preysOn
+250072,938094,Cryptorama minutum,,preysOn
+250072,,Psallus,,preysOn
+250072,82118,Dolomedes,Fishing Spiders,preysOn
+250072,,Aleurothrixus,,preysOn
+250072,203330,Sericoderus,,preysOn
+250072,230399,Sapintus fulvipes,,preysOn
+250072,49575,Pseudococcus,,preysOn
+250072,85716,Cucujidae,Flat bark beetles,preysOn
+250072,,Leptostylus,,preysOn
+250072,84495,Paraphidippus,,preysOn
+250072,464046,Rhagovelia plumbea,,preysOn
+250072,57451,Scytodes,,preysOn
+250072,208181,Arunta interclusa,mangrove cicada,preysOn
+250072,,Pirata,,preysOn
+250072,1244911,Pseudoacalles,,preysOn
+250072,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,preysOn
+250072,467803,Actinopteryx fucicola,,preysOn
+250072,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn
+250072,153645,Gnaphosa,,preysOn
+250072,,Oxydia,,preysOn
+250072,468794,Vacusus vicinus,,preysOn
+250072,135256,Eustala,,preysOn
+250072,84463,Ceroplastes,Wax Scales,preysOn
+250072,329607,Holoparamecus,,preysOn
+250072,263718,Argyrodes nephilae,,preysOn
+250072,329886,Olfersia sordida,,preysOn
+250072,,Paraleyrodes,,preysOn
+250072,49880,Misumenops,,preysOn
+250072,,Oxycopis suturalis,,preysOn
+250072,,Actenodes,,preysOn
+250072,329733,Oxycopis,,preysOn
+250072,53273,Eriophora,,preysOn
+250072,330174,Pentacora sphacelata,,preysOn
+250072,,Aysha,,preysOn
+250072,,Nephila clavipes,,preysOn
+250072,,Meioneta,,preysOn
+250072,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+250072,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+250072,250072,Metacyrba,,preyedUponBy
+250072,,Dendroica,,preyedUponBy
+250072,354274,Ballus,,preyedUponBy
+250072,84495,Paraphidippus,,preyedUponBy
+250072,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+250072,,Pirata,,preyedUponBy
+250072,49880,Misumenops,,preyedUponBy
+250072,420613,Stoidis,,preyedUponBy

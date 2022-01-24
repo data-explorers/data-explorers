@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+39782,47120,Arthropoda,Arthropods,eats
+39782,47233,Perciformes,Perch-like Fishes,eats
+39782,35342,Iguana iguana,Green Iguana,eats
+39782,41880,Mephitis mephitis,Striped Skunk,eatenBy
+39782,42069,Vulpes vulpes,Red Fox,eatenBy
+39782,42652,Didelphis virginiana,Virginia Opossum,eatenBy
+39782,41663,Procyon lotor,Common Raccoon,eatenBy
+39782,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+39782,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+39782,,Pituophis ruthveni,,preyedUponBy
+39782,26159,Alligator mississippiensis,American Alligator,preyedUponBy

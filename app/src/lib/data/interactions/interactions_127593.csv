@@ -1,0 +1,73 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127593,47158,Insecta,Insects,eats
+127593,82081,Theridion,Tangleweb Spiders,eatenBy
+127593,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+127593,11867,Progne subis,Purple Martin,eatenBy
+127593,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+127593,17355,Vireo,Vireos,eatenBy
+127593,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+127593,13732,Anthus rubescens,American Pipit,eatenBy
+127593,17394,Vireo gilvus,Warbling Vireo,eatenBy
+127593,17408,Vireo griseus,White-eyed Vireo,eatenBy
+127593,,Eriogonum ovalifolium vineum,,pollinates
+127593,,Rhegmoclema verralli,,preysOn
+127593,48124,Tettigoniidae,Katydids,preyedUponBy
+127593,82081,Theridion,Tangleweb Spiders,preyedUponBy
+127593,47927,Anisoptera,Dragonflies,preyedUponBy
+127593,51556,Sympetrum,Meadowhawks,preyedUponBy
+127593,47928,Zygoptera,Damselflies,preyedUponBy
+127593,47118,Araneae,Spiders,preyedUponBy
+127593,47535,Araneidae,Orbweavers,preyedUponBy
+127593,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+127593,47550,Tetragnatha,,preyedUponBy
+127593,47866,Thomisidae,Crab Spiders,preyedUponBy
+127593,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+127593,51469,Aeshnidae,Darners,preyedUponBy
+127593,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+127593,47819,Libellulidae,Skimmers,preyedUponBy
+127593,56611,Philodromus,,preyedUponBy
+127593,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+127593,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+127593,,Orthetrum,,preyedUponBy
+127593,,Dolichopus nubilius,,preyedUponBy
+127593,,Mangora acalypha,,preyedUponBy
+127593,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+127593,360744,Marpissa radiata,,preyedUponBy
+127593,121444,Larinioides,,preyedUponBy
+127593,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+127593,153863,Thanatus,,preyedUponBy
+127593,,Coenagrion pulchellum,,preyedUponBy
+127593,,Sympetrum striolatum,,preyedUponBy
+127593,,Somatochlora,,preyedUponBy
+127593,61762,Evarcha,,preyedUponBy
+127593,,Chrysotus cilipes,,preyedUponBy
+127593,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+127593,,Campsicnemus scambus,,preyedUponBy
+127593,556059,Dolichopus nitidus,,preyedUponBy
+127593,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+127593,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+127593,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+127593,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+127593,,Conocephalus fuscus,,preyedUponBy
+127593,1200333,Teuchophorus calcaratus,,preyedUponBy
+127593,146722,Marpissa,,preyedUponBy
+127593,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+127593,531180,Clubiona juvenis,,preyedUponBy
+127593,49460,Empididae,Dance Flies,preyedUponBy
+127593,,Sitticus,,preyedUponBy
+127593,1200309,Argyra vestita,,preyedUponBy
+127593,,Hercostomus assimilis,,preyedUponBy
+127593,51679,Coenagrion,Northern Bluets,preyedUponBy
+127593,,Paravespula vulgaris,,preyedUponBy
+127593,,Orthetrum cancellatum,,preyedUponBy
+127593,,Ensifera,,preyedUponBy
+127593,,Sitticus caricis,,preyedUponBy
+127593,,Libellula depressa,,preyedUponBy
+127593,,Theridion pictum,,preyedUponBy
+127593,113497,Sympecma fusca,Common Winter Damselfly,preyedUponBy
+127593,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+127593,,Dolichovespula sylvestris,,preyedUponBy
+127593,531182,Clubiona subtilis,,preyedUponBy
+127593,,"Dolichopus nubilius Meigen, 1924",,preyedUponBy
+127593,,Lindenius panzeri,,preyedUponBy
+127593,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy

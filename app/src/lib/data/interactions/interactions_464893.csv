@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+464893,153112,Euphausiacea,krill,eats
+464893,195270,Sergestidae,,eats
+464893,245636,Laodiceidae,,eatenBy
+464893,128782,Prayidae,,eatenBy

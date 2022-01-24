@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121184,58390,Triticum,Wheats,eats
+121184,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+121184,58335,Nicotiana,tobaccos,eats
+121184,52697,Avena,Oats,eats
+121184,55412,Raphanus,Radishes,eats
+121184,50055,Setaria,foxtails and bristlegrasses,eats
+121184,52720,Dactylis glomerata,orchard grass,eats
+121184,60301,Panicum,panicgrasses,eats
+121184,,Secale cereale,,eats
+121184,,Oryza sativa,,eats
+121184,48448,Zea mays,Maize,eats
+121184,,Saccharum officinarum,,eats
+121184,,Hordeum vulgare,,eats
+121184,57156,Avena sativa,Oat,eats
+121184,,Pinus radiata,,eats
+121184,,Pennisetum glaucum,,eats
+121184,,Saccharum,,eats
+121184,48256,Pseudotsuga menziesii,common Douglas-fir,eats
+121184,122850,Phaseolus vulgaris,Common Bean,eats
+121184,,Pennisetum purpureum,,eats
+121184,64343,Coffea,Coffees,eatenBy
+121184,64343,Coffea,Coffees,pollinates

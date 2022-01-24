@@ -1,0 +1,171 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7294,47434,Poaceae,grasses,eats
+7294,47124,Magnoliopsida,dicots,eats
+7294,47158,Insecta,Insects,eats
+7294,211194,Tracheophyta,vascular plants,eats
+7294,1,Animalia,Animals,eats
+7294,47208,Coleoptera,Beetles,eats
+7294,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7294,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7294,47157,Lepidoptera,Butterflies and Moths,eats
+7294,47822,Diptera,Flies,eats
+7294,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+7294,47120,Arthropoda,Arthropods,eats
+7294,47118,Araneae,Spiders,eats
+7294,48011,Ephemeroptera,Mayflies,eats
+7294,48736,Curculionidae,True Weevils,eats
+7294,53587,Ambrosia artemisiifolia,common ragweed,eats
+7294,50055,Setaria,foxtails and bristlegrasses,eats
+7294,48972,Polygonum,knotweeds,eats
+7294,53505,Miridae,Plant Bugs,eats
+7294,52327,Amaranthaceae,amaranths,eats
+7294,53237,Cicadellidae,Typical Leafhoppers,eats
+7294,47649,Acrididae,Short-horned Grasshoppers,eats
+7294,52381,Aphididae,Aphids,eats
+7294,49707,Halictidae,Sweat Bees,eats
+7294,51146,Chrysomelidae,Leaf Beetles,eats
+7294,52884,Gryllidae,True Crickets,eats
+7294,47204,Brassicaceae,mustard family,eats
+7294,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+7294,48382,Polygonaceae,knotweed family,eats
+7294,47961,Cerambycidae,Longhorn Beetles,eats
+7294,47336,Formicidae,Ants,eats
+7294,53248,Elateridae,Click Beetles,eats
+7294,48150,Boraginaceae,borage family,eats
+7294,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+7294,49567,Carabidae,Ground Beetles,eats
+7294,55051,Cleridae,Checkered Beetles,eats
+7294,48201,Scarabaeidae,Scarabs,eats
+7294,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",eats
+7294,50186,Cicadidae,Typical Cicadas,eats
+7294,47122,Fabaceae,legumes,eats
+7294,47366,Caryophyllales,"pinks, cactuses, and allies",eats
+7294,47199,Ichneumonidae,Ichneumonid Wasps,eats
+7294,82067,Melyridae,Soft-winged Flower Beetles,eats
+7294,51777,Coreidae,Leaf-footed Bugs,eats
+7294,47742,Pentatomidae,Stink Bugs,eats
+7294,47365,Portulacaceae,purslane family,eats
+7294,48959,Reduviidae,Assassin Bugs,eats
+7294,55558,Lygaeidae,Seed Bugs,eats
+7294,85586,Anthicidae,Ant-like Flower Beetles,eats
+7294,52932,Cantharidae,Soldier Beetles,eats
+7294,58390,Triticum,Wheats,eats
+7294,52697,Avena,Oats,eats
+7294,47115,Mollusca,Molluscs,eats
+7294,47224,Papilionoidea,Butterflies,eats
+7294,367161,Lycosoidea,Wolf Spiders and Allies,eats
+7294,,Euchelicerata,,eats
+7294,145601,Fagopyrum esculentum,Common Buckwheat,eats
+7294,48688,Setaria pumila,yellow foxtail,eats
+7294,226714,Otiorhynchus ligustici,,eats
+7294,68869,Histeridae,Hister Beetles,eats
+7294,174139,Cryptophagidae,Silken Fungus Beetles,eats
+7294,49525,Scutelleridae,Jewel Bugs,eats
+7294,48448,Zea mays,Maize,eats
+7294,,Fallopia japonica,,eats
+7294,57893,Amaranthus albus,prostrate pigweed,eats
+7294,57156,Avena sativa,Oat,eats
+7294,126671,Sphaeralcea coccinea,Scarlet Globemallow,eats
+7294,,no name,,eats
+7294,76278,Chenopodium leptophyllum,Narrowleaf Goosefoot,eats
+7294,,Achnatherum hymenoides,,eats
+7294,5163,Circus,Harriers,eatenBy
+7294,4638,Falco,Typical Falcons,eatenBy
+7294,4672,Falco columbarius,Merlin,eatenBy
+7294,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+7294,4381,Larus fuscus,Lesser Black-backed Gull,eatenBy
+7294,8010,Corvus corax,Common Raven,eatenBy
+7294,42069,Vulpes vulpes,Red Fox,eatenBy
+7294,41663,Procyon lotor,Common Raccoon,eatenBy
+7294,20445,Tyto alba,Barn Owl,eatenBy
+7294,4665,Falco sparverius,American Kestrel,eatenBy
+7294,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+7294,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+7294,558446,Circus hudsonius,Northern Harrier,eatenBy
+7294,20044,Bubo virginianus,Great Horned Owl,eatenBy
+7294,5017,Bubulcus ibis,Cattle Egret,eatenBy
+7294,4736,Ciconia nigra,Black Stork,eatenBy
+7294,4733,Ciconia ciconia,White Stork,eatenBy
+7294,5275,Elanus caeruleus,Black-winged Kite,eatenBy
+7294,204472,Buteo buteo,Common Buzzard,eatenBy
+7294,5267,Milvus milvus,Red Kite,eatenBy
+7294,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+7294,559064,Circus cyaneus,Hen Harrier,eatenBy
+7294,5178,Circus macrourus,Pallid Harrier,eatenBy
+7294,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+7294,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+7294,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+7294,4684,Falco biarmicus,Lanner Falcon,eatenBy
+7294,,Aquila pomarina,,eatenBy
+7294,5154,Hieraaetus pennatus,Booted Eagle,eatenBy
+7294,5268,Milvus migrans,Black Kite,eatenBy
+7294,5192,Buteo rufinus,Long-legged Buzzard,eatenBy
+7294,,Aquila chrysaetos,,eatenBy
+7294,4923,Burhinus oedicnemus,Eurasian Stone-curlew,eatenBy
+7294,77,Otis tarda,Great Bustard,eatenBy
+7294,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+7294,41,Grus grus,Common Crane,eatenBy
+7294,4643,Falco subbuteo,Eurasian Hobby,eatenBy
+7294,4671,Falco eleonorae,Eleonora's Falcon,eatenBy
+7294,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+7294,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+7294,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+7294,4691,Falco cherrug,Saker Falcon,eatenBy
+7294,144297,Stercorarius skua,Great Skua,eatenBy
+7294,,Chtoicocephalus ridibundus,,eatenBy
+7294,144594,Bubo scandiacus,Snowy Owl,eatenBy
+7294,,Ichthyaetus ichthyaetus,,eatenBy
+7294,20285,Otus brucei,Pallid Scops-Owl,eatenBy
+7294,19898,Strix aluco,Tawny Owl,eatenBy
+7294,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+7294,20244,Otus scops,Eurasian Scops Owl,eatenBy
+7294,20307,Asio otus,Long-eared Owl,eatenBy
+7294,204519,Halcyon smyrnensis,White-throated Kingfisher,eatenBy
+7294,19998,Athene noctua,Little Owl,eatenBy
+7294,906982,Lanius meridionalis,Iberian Grey Shrike,eatenBy
+7294,12716,Turdus merula,Eurasian Blackbird,eatenBy
+7294,12038,Lanius collurio,Red-backed Shrike,eatenBy
+7294,559070,Lanius excubitor,Great Gray Shrike,eatenBy
+7294,20315,Asio flammeus,Short-eared Owl,eatenBy
+7294,,Lanius senator,,eatenBy
+7294,8350,Pyrrhocorax graculus,Alpine Chough,eatenBy
+7294,891696,Pica pica,Eurasian Magpie,eatenBy
+7294,12707,Turdus pilaris,Fieldfare,eatenBy
+7294,8349,Pyrrhocorax pyrrhocorax,Red-billed Chough,eatenBy
+7294,204496,Corvus corone,Carrion Crow,eatenBy
+7294,8029,Corvus frugilegus,Rook,eatenBy
+7294,,Coloeus monedula,,eatenBy
+7294,851014,Canis aureus,Golden Jackal,eatenBy
+7294,43059,Atelerix algirus,North African Hedgehog,eatenBy
+7294,233598,Vulpes lagopus,Arctic Fox,eatenBy
+7294,43042,Erinaceus europaeus,Common Hedgehog,eatenBy
+7294,43048,Erinaceus roumanicus,Northern White-breasted Hedgehog,eatenBy
+7294,41961,Felis chaus,Jungle Cat,eatenBy
+7294,922459,Felis silvestris,European Wildcat,eatenBy
+7294,42048,Canis lupus,Gray Wolf,eatenBy
+7294,43043,Erinaceus concolor,Eastern European Hedgehog,eatenBy
+7294,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+7294,43024,Hemiechinus auritus,Long-eared Hedgehog,eatenBy
+7294,41900,Herpestes ichneumon,Ichneumon,eatenBy
+7294,74558,Meles leucurus,Asian Badger,eatenBy
+7294,41808,Mustela erminea,Eurasian Stoat,eatenBy
+7294,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+7294,41800,Martes foina,Stone Marten,eatenBy
+7294,855297,Meles meles,European Badger,eatenBy
+7294,569428,Mustela nivalis,Least Weasel,eatenBy
+7294,42134,Sus scrofa,Wild Boar,eatenBy
+7294,41813,Mustela sibirica,Siberian Weasel,eatenBy
+7294,179974,Spermophilus,Old World Ground Squirrels,eatenBy
+7294,75096,Spermophilus taurensis,Tauren Ground Squirrel,eatenBy
+7294,41829,Vormela peregusna,Marbled Polecat,eatenBy
+7294,42065,Vulpes corsac,Corsac Fox,eatenBy
+7294,74670,Mustela eversmanii,Steppe Polecat,eatenBy
+7294,44653,Tatera indica,Indian Gerbil,eatenBy
+7294,46061,Spermophilus musicus,Caucasian mountain ground squirrel,eatenBy
+7294,74008,Zamenis lineatus,Italian Aesculapian Snake,eatenBy
+7294,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+7294,,Platyceps collaris,,eatenBy
+7294,30237,Elaphe quatuorlineata,Four-lined Snake,eatenBy
+7294,,Elaphe situla,,eatenBy
+7294,74009,Zamenis longissimus,Aesculapian Snake,eatenBy
+7294,540328,Zamenis scalaris,Ladder Snake,eatenBy

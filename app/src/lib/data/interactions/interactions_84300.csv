@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84300,41663,Procyon lotor,Common Raccoon,eatenBy
+84300,,Strangalia famelica,,eatenBy
+84300,320036,Orthonevra nitida,Wavy Mucksucker,eatenBy
+84300,,Aecidium sambuci,,eatenBy
+84300,,Setophaga caerulescens,,eatenBy
+84300,47208,Coleoptera,Beetles,pollinatedBy
+84300,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+84300,47822,Diptera,Flies,pollinatedBy
+84300,47220,Apis,Honey Bees,pollinatedBy
+84300,,Self pollinated,,pollinatedBy
+84300,,Wind,,pollinatedBy

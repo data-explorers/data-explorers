@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119932,36204,Sceloporus occidentalis,Western Fence Lizard,eatenBy
+119932,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+119932,,Atomosia puella,,preyedUponBy
+119932,67598,Solenopsis invicta,Red Imported Fire Ant,preyedUponBy
+119932,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy

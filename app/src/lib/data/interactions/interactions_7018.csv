@@ -1,0 +1,66 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7018,1,Animalia,Animals,eats
+7018,51826,Sporobolus,"dropseeds, cordgrasses, and sandreeds",eats
+7018,60997,Ceratophyllum demersum,coontail,eats
+7018,57861,Utricularia,Bladderworts,eats
+7018,58371,Cynodon dactylon,Bermuda grass,eats
+7018,47434,Poaceae,grasses,eats
+7018,47126,Plantae,plants,eats
+7018,,Eriochloa villosa,,eats
+7018,165980,Oryza rufipogon,Brownbeard rice,eats
+7018,,Bolboschoenus glaucus,,eats
+7018,,Sagittaria guayanensis,,eats
+7018,164077,Ipomoea aquatica,Water Morning Glory,eats
+7018,,Nymphoides cristata,,eats
+7018,,Cyperus alopecuroides,,eats
+7018,,Panicum paludosum,,eats
+7018,369739,Paspalidium flavidum,Yellow Watercrown Grass,eats
+7018,,Scirpus,,eats
+7018,,Homaliadelphus,,eats
+7018,,Nymphaea lotus,,eats
+7018,,Eleocharis palustris,,eats
+7018,,herbaceous marsh vegetation,,eats
+7018,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+7018,8010,Corvus corax,Common Raven,eatenBy
+7018,42069,Vulpes vulpes,Red Fox,eatenBy
+7018,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+7018,4733,Ciconia ciconia,White Stork,eatenBy
+7018,4736,Ciconia nigra,Black Stork,eatenBy
+7018,559064,Circus cyaneus,Hen Harrier,eatenBy
+7018,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+7018,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+7018,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+7018,4657,Falco rusticolus,Gyrfalcon,eatenBy
+7018,,Aquila heliaca,,eatenBy
+7018,5081,Aquila adalberti,Spanish Eagle,eatenBy
+7018,,Aquila chrysaetos,,eatenBy
+7018,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+7018,144297,Stercorarius skua,Great Skua,eatenBy
+7018,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+7018,204533,Larus argentatus,Herring Gull,eatenBy
+7018,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+7018,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+7018,4389,Larus cachinnans,Caspian Gull,eatenBy
+7018,8029,Corvus frugilegus,Rook,eatenBy
+7018,204496,Corvus corone,Carrion Crow,eatenBy
+7018,42048,Canis lupus,Gray Wolf,eatenBy
+7018,233598,Vulpes lagopus,Arctic Fox,eatenBy
+7018,41961,Felis chaus,Jungle Cat,eatenBy
+7018,41900,Herpestes ichneumon,Ichneumon,eatenBy
+7018,41852,Gulo gulo,Wolverine,eatenBy
+7018,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+7018,41975,Lynx pardinus,Iberian Lynx,eatenBy
+7018,41800,Martes foina,Stone Marten,eatenBy
+7018,41805,Mustela lutreola,European Mink,eatenBy
+7018,42134,Sus scrofa,Wild Boar,eatenBy
+7018,41641,Ursus arctos,Brown Bear,eatenBy
+7018,41812,Mustela putorius,Western Polecat,eatenBy
+7018,42065,Vulpes corsac,Corsac Fox,eatenBy
+7018,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+7018,,Elaphe situla,,eatenBy
+7018,39407,Varanus griseus,Desert Monitor,eatenBy
+7018,27035,Hierophis viridiflavus carbonarius,,eatenBy
+7018,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+7018,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+7018,28451,Telescopus nigriceps,Black headed snake,eatenBy
+7018,,Canis lupus familiaris,,eatenBy

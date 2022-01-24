@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48194,53165,Croton,Crotons,eatenBy
+48194,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+48194,10247,Setophaga ruticilla,American Redstart,eatenBy
+48194,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+48194,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+48194,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+48194,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+48194,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+48194,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+48194,19660,Regulus,Kinglets,eatenBy
+48194,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+48194,145238,Setophaga petechia,Yellow Warbler,eatenBy
+48194,9919,Piranga ludoviciana,Western Tanager,eatenBy
+48194,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+48194,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+48194,,Lachnocnema,,eatenBy
+48194,,Aslauga,,eatenBy
+48194,196805,Allotinus,,eatenBy
+48194,,Lachnocnema brimo,,eatenBy
+48194,,Thestor basuta,,eatenBy
+48194,360343,Flagellaria indica,Indian Bushcane,eatenBy
+48194,,Erythroxylum,,eatenBy
+48194,,Setophaga caerulescens,,eatenBy
+48194,145233,Setophaga americana,Northern Parula,eatenBy
+48194,145249,Setophaga discolor,Prairie Warbler,eatenBy
+48194,11855,Petrochelidon fulva,Cave Swallow,eatenBy
+48194,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+48194,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+48194,,Acanthis flammea,,eatenBy
+48194,17394,Vireo gilvus,Warbling Vireo,eatenBy
+48194,13732,Anthus rubescens,American Pipit,eatenBy
+48194,8015,Corvus hawaiiensis,Hawaiian Crow,eatenBy
+48194,,Vireo cassinii,,eatenBy
+48194,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+48194,,Setophaga townsendi,,eatenBy
+48194,,Zonotrichia leucophrys,,eatenBy
+48194,,Geothlypis tolmiei,,eatenBy
+48194,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+48194,12951,Myadestes townsendi,Townsend's Solitaire,eatenBy
+48194,,Empidonax oberholseri,,eatenBy
+48194,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+48194,,Cynanthus latirostris,,eatenBy
+48194,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+48194,53165,Croton,Crotons,pollinates
+48194,,Erythroxylum,,pollinates
+48194,360343,Flagellaria indica,Indian Bushcane,pollinates
+48194,,Psenulus concolor,,preyedUponBy
+48194,550055,Cyllecoris histrionius,,preyedUponBy

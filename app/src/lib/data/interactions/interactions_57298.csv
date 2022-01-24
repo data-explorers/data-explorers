@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57298,49235,Clupeiformes,Herrings,eats
+57298,88563,Gobius,,eats
+57298,47178,Actinopterygii,Ray-finned Fishes,eats
+57298,49944,Gerreidae,Mojarras,eats
+57298,91189,Poecilia,Mollies,eats
+57298,,Infauna,,eats
+57298,,Wigeongrass,,eats
+57298,,Zooplankton,,eats
+57298,26159,Alligator mississippiensis,American Alligator,eats
+57298,49172,Sciaenidae,Drums,eatenBy
+57298,48147,Isopoda,Isopods,eatenBy
+57298,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+57298,47459,Cephalopoda,Cephalopods,eatenBy
+57298,3,Aves,Birds,eatenBy
+57298,3793,Sula sula,Red-footed Booby,eatenBy
+57298,3797,Sula leucogaster,Brown Booby,eatenBy
+57298,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+57298,113309,Strongylura scapularis,Shoulderspot Needlefish,eatenBy
+57298,94904,Auchenoglanis biscutatus,,eatenBy
+57298,,Chondrichthyes,,eatenBy
+57298,,Detritus,,eatenBy
+57298,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+57298,4436,Sterna dougallii,Roseate Tern,eatenBy
+57298,4566,Gygis alba,White Tern,eatenBy
+57298,4636,Fregata minor,Great Frigatebird,eatenBy
+57298,4534,Anous,Noddies,eatenBy
+57298,4453,Sterna sumatrana,Black-naped Tern,eatenBy
+57298,26068,Crocodylus porosus,Saltwater Crocodile,eatenBy
+57298,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+57298,49513,Cynoscion,Weakfishes,eatenBy
+57298,4938,Egretta tricolor,Tricolored Heron,eatenBy
+57298,4537,Anous minutus,Black Noddy,eatenBy
+57298,4144,Phoebastria immutabilis,Laysan Albatross,eatenBy
+57298,3788,Sula dactylatra,Masked Booby,eatenBy
+57298,4461,Sterna acuticauda,Black-bellied Tern,eatenBy
+57298,4428,Sterna aurantia,River Tern,eatenBy
+57298,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+57298,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+57298,4535,Anous stolidus,Brown Noddy,eatenBy
+57298,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+57298,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+57298,88563,Gobius,,preysOn
+57298,49235,Clupeiformes,Herrings,preysOn
+57298,,Zooplankton,,preysOn
+57298,,Infauna,,preysOn
+57298,,Wigeongrass,,preysOn
+57298,91189,Poecilia,Mollies,preysOn
+57298,49944,Gerreidae,Mojarras,preysOn
+57298,49172,Sciaenidae,Drums,preyedUponBy
+57298,113309,Strongylura scapularis,Shoulderspot Needlefish,preyedUponBy
+57298,94904,Auchenoglanis biscutatus,,preyedUponBy

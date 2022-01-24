@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+447155,9981,Passerculus sandwichensis,Savannah Sparrow,eats
+447155,49273,Chaetodon ocellatus,Spotfin Butterflyfish,eats
+447155,558446,Circus hudsonius,Northern Harrier,eatenBy
+447155,60603,Cyclopterus lumpus,Lumpfish,preysOn
+447155,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preysOn
+447155,61383,Homarus americanus,American Lobster,preysOn
+447155,51363,Brevoortia tyrannus,Atlantic Menhaden,preysOn
+447155,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+447155,5108,Accipiter gentilis,Northern Goshawk,preyedUponBy

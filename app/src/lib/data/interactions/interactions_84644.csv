@@ -1,0 +1,118 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84644,81579,Steatoda triangulosa,Triangulate Combfoot,eatenBy
+84644,47118,Araneae,Spiders,eatenBy
+84644,82081,Theridion,Tangleweb Spiders,eatenBy
+84644,,Tegenaria ferruginea,,eatenBy
+84644,,Tegenaria,,eatenBy
+84644,,Eratigena agrestis,,eatenBy
+84644,,Zootoca vivipara,,eatenBy
+84644,1193114,Formica cinerea,cinerea-group Field Ants,eatenBy
+84644,,Steatoda castanea,,eatenBy
+84644,,Steatoda bipunctata,,eatenBy
+84644,231080,Sitona hispidulus,Clover Weevil,preysOn
+84644,47367,Opiliones,Harvestmen,preysOn
+84644,63089,Clitellata,Clitellates,preysOn
+84644,47114,Gastropoda,Gastropods,preysOn
+84644,47157,Lepidoptera,Butterflies and Moths,preysOn
+84644,47735,Diplopoda,Millipedes,preysOn
+84644,47158,Insecta,Insects,preysOn
+84644,,Neottiura bimaculata,,preysOn
+84644,,Erigonella hiemalis,,preysOn
+84644,130638,Bembidion lampros,,preysOn
+84644,219849,Eupteryx atropunctata,,preysOn
+84644,,Empoasca decipiens,,preysOn
+84644,735329,Ophiola decumana,,preysOn
+84644,892074,Ditropsis flavipes,,preysOn
+84644,,Psammotettix alienus,,preysOn
+84644,914676,Macrosteles laevis,,preysOn
+84644,204886,Neoaliturus fenestratus,,preysOn
+84644,482740,Amblytylus nasutus,,preysOn
+84644,,Chlamydatus,,preysOn
+84644,550416,Stygnocoris rusticus,,preysOn
+84644,703086,Euscelis incisus,,preysOn
+84644,552756,Orius niger,,preysOn
+84644,887671,Chlamydatus saltitans,,preysOn
+84644,,Metopoplax origani,,preysOn
+84644,,Deltocephalus pulicaris,,preysOn
+84644,606260,Eupteryx vittata,,preysOn
+84644,914679,Macrosteles maculosus,,preysOn
+84644,,Kosswigianella spinosus,,preysOn
+84644,748452,Campylomma verbasci,,preysOn
+84644,,Charagochilus gyllenhallii,,preysOn
+84644,542434,Megalonotus emarginatus,,preysOn
+84644,,Cosmoscarta abdominalis,,preysOn
+84644,466488,Laodelphax striatella,small brown planthopper,preysOn
+84644,,Delphacodes exigua,,preysOn
+84644,606261,Eupteryx notata,,preysOn
+84644,,Ribautodelphax angulosus,,preysOn
+84644,768727,Eupteryx calcarata,,preysOn
+84644,914765,Psammotettix confinis,,preysOn
+84644,,Emelyanoviana mollicula,,preysOn
+84644,,Psammotettix helvolus,,preysOn
+84644,624527,Nysius ericae,,preysOn
+84644,,Dicyphus globulifer,,preysOn
+84644,,Megophthalmus scanicus,,preysOn
+84644,,Errastunus ocellaris,,preysOn
+84644,,http://treatment.plazi.org/id/7212D693A066054FD8A810503410BAB9,,preysOn
+84644,,Anaceratagallia ribauti,,preysOn
+84644,673968,Macrosteles sexnotatus,,preysOn
+84644,204787,Doratura stylata,,preysOn
+84644,,Javesella pellucida,,preysOn
+84644,204105,Anoscopus serratulae,,preysOn
+84644,,Dicranotropis hamata,,preysOn
+84644,52447,Cicadella viridis,Green Leafhopper,preysOn
+84644,,Chlorita paolii,,preysOn
+84644,555937,Halticus apterus,,preysOn
+84644,892083,Ribautodelphax albostriata,,preysOn
+84644,,Megadelphax sordidula,,preysOn
+84644,,http://treatment.plazi.org/id/03F71D4ABD2FFFE9FF171CF4FD25FE0E,,preysOn
+84644,735331,Arthaldeus pascuellus,,preysOn
+84644,911726,Agallia brachyptera,,preysOn
+84644,,Zyginidia scutellaris,,preysOn
+84644,,Tachyporus nitidulus,,preysOn
+84644,,Brachypterus glaber,,preysOn
+84644,,Ptomaphagus sericatus medius,,preysOn
+84644,,Trichosirocalus troglodytes,,preysOn
+84644,,Meligethes nigrescens,,preysOn
+84644,,Ischnosoma splendidum,,preysOn
+84644,,Catops nigriclavis,,preysOn
+84644,,Anotylus sculpturatus,,preysOn
+84644,229901,Rhinoncus pericarpius,,preysOn
+84644,,Bledius gallicus,,preysOn
+84644,,Tychius pusillus,,preysOn
+84644,,Scopaeus ryei,,preysOn
+84644,,Ceutorhynchus erysimi,,preysOn
+84644,,Sitona humeralis,,preysOn
+84644,,Mecinus collaris,,preysOn
+84644,743172,Coryssomerus capucinus,,preysOn
+84644,,Sitona sulcifrons,,preysOn
+84644,,Rhinoncus castor,,preysOn
+84644,,Ilyobates bennetti,,preysOn
+84644,,Gymnetron pascuorum,,preysOn
+84644,,Hypocyphthus longicornis,,preysOn
+84644,,Oxypoda brevicornis,,preysOn
+84644,,Oxypoda formiceticola,,preysOn
+84644,,Atheta fungicola,,preysOn
+84644,,Adrastus rachifer,,preysOn
+84644,,Amischa decipiens,,preysOn
+84644,,Hypera plantaginis,,preysOn
+84644,455803,Cathormiocerus aristatus,,preysOn
+84644,,Helophorus griseus,,preysOn
+84644,221981,Hypera nigrirostris,Black-beaked green weevil,preysOn
+84644,,Mycetota,,preysOn
+84644,,Exomias pellucidus,,preysOn
+84644,,Aloconota gregaria,,preysOn
+84644,,Tychius junceus,,preysOn
+84644,130582,Anotylus tetracarinatus,,preysOn
+84644,,Hypera venusta,,preysOn
+84644,,Mocyta orbata,,preysOn
+84644,705044,Limobius borealis,,preysOn
+84644,,Liogluta alpestris,,preysOn
+84644,,Alevonota gracilenta,,preysOn
+84644,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+84644,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+84644,,Pterostichus minor,,preyedUponBy
+84644,153855,Tibellus oblongus,Oblong Running Spider,preyedUponBy
+84644,71061,Xysticus cristatus,,preyedUponBy
+84644,,Nyssus coloripes,,preyedUponBy
+84644,228315,Platycryptus californicus,California Flattened Jumping Spider,preyedUponBy

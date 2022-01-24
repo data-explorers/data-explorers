@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58527,75824,Boechera stricta,drummond's rockcress,eats
+58527,53266,Sisymbrium officinale,Hedge mustard,eats
+58527,53267,Sisymbrium,,eats
+58527,,Boechera missouriensis,,eats
+58527,,Boechera laevigata,,eats
+58527,,Turritis glabra,,eats
+58527,,Boechera serotina,,eats
+58527,119824,Arabidopsis lyrata lyrata,Lyreleaf Rockcress,eats
+58527,58072,Descurainia pinnata,Western Tansymustard,eats
+58527,,Arabis,,eats
+58527,55512,Didemnum,Wrinkled Sea Mats,eats

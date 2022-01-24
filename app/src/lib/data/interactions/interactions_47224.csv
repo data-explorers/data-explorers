@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47224,71257,Bouteloua gracilis,Blue Grama,eats
+47224,,Atriplex canescens,,eats
+47224,58072,Descurainia pinnata,Western Tansymustard,eats
+47224,,Psoralidium tenuiflorum,,eats
+47224,78836,Ratibida columnifera,upright prairie coneflower,eats
+47224,163720,Heterotheca canescens,Hoary False Goldenaster,eats
+47224,,Elymus elymoides,,eats
+47224,130379,Liatris punctata,dotted gayfeather,eats
+47224,57979,Gutierrezia,matchweeds and snakeweeds,eats
+47224,9315,Icterus,New World Orioles,eatenBy
+47224,7294,Eremophila alpestris,Horned Lark,eatenBy
+47224,44396,Peromyscus maniculatus,Deer Mouse,eatenBy
+47224,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+47224,47982,Asilidae,Robber Flies,eatenBy
+47224,73044,Melozone crissalis,California Towhee,eatenBy
+47224,53809,Phidippus audax,Bold Jumping Spider,eatenBy
+47224,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+47224,,Calcarius mccownii,,eatenBy
+47224,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+47224,,Calamospiza melanocorys,,eatenBy
+47224,179974,Spermophilus,Old World Ground Squirrels,eatenBy
+47224,,Merops bullockoides,,eatenBy
+47224,,Brachygalba salmoni,,eatenBy
+47224,,Rhipidura leucophrys,,eatenBy
+47224,61495,Erythemis simplicicollis,Eastern Pondhawk,eatenBy
+47224,12038,Lanius collurio,Red-backed Shrike,eatenBy
+47224,83085,Anacamptis pyramidalis,pyramidal orchid,pollinates
+47224,131610,Gymnadenia conopsea,Fragrant Orchid,pollinates
+47224,,Platanthera bifolia,,pollinates
+47224,54639,Platanthera chlorantha,Greater butterfly-orchid,pollinates
+47224,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+47224,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47224,17060,Empidonomus varius,Variegated Flycatcher,preyedUponBy
+47224,84494,Paraphidippus aurantius,Golden Jumping Spider,preyedUponBy
+47224,,Merops bullockoides,,preyedUponBy
+47224,,Brachygalba salmoni,,preyedUponBy
+47224,2191,Merops apiaster,European Bee-eater,preyedUponBy
+47224,,Gomphurus fraternus,,preyedUponBy
+47224,,Asilus sericeus,,preyedUponBy

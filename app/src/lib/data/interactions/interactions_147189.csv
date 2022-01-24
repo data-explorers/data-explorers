@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+147189,52460,Tylosurus crocodilus,Crocodile Needlefish,eats
+147189,147189,Tylosurus acus,Keeljaw Longtom,eats
+147189,51549,Seriola dumerili,Greater Amberjack,eats
+147189,47178,Actinopterygii,Ray-finned Fishes,eats
+147189,85493,Crustacea,Crustaceans,eats
+147189,1,Animalia,Animals,eats
+147189,52462,Tylosurus,,eats
+147189,49796,Stomatopoda,Mantis Shrimps,eats
+147189,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+147189,47398,Paguroidea,Hermit Crabs,eats
+147189,47158,Insecta,Insects,eats
+147189,123659,Decapterus punctatus,Cigar Minnow,eats
+147189,56937,Oligoplites saurus,Leather Jack,eats
+147189,179445,Trachinotus falcatus,Permit,eats
+147189,,Carangoides bartholomaei,,eats
+147189,82330,Caranx ruber,Bar Jack,eats
+147189,47229,Selar crumenophthalmus,Bigeye Scad,eats
+147189,114269,Trachinotus goodei,Palometa,eats
+147189,,no name,,eats
+147189,47227,Caranx latus,Horse-eye Jack,eats
+147189,,Microfauna,,eats
+147189,,Selar crumenophthatmus,,eats
+147189,,Gnathostomata,,eats
+147189,,,,eats
+147189,,Osteichthyes,,eats
+147189,147189,Tylosurus acus,Keeljaw Longtom,eatenBy
+147189,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+147189,188767,Carcharhinus perezii,Caribbean Reef Shark,eatenBy
+147189,49617,Scomberomorus regalis,Cero,eatenBy
+147189,56764,Sphyrna lewini,Scalloped Hammerhead,eatenBy
+147189,47251,Sphyraena barracuda,Great Barracuda,eatenBy
+147189,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+147189,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+147189,147455,Makaira nigricans,Blue Marlin,eatenBy
+147189,51549,Seriola dumerili,Greater Amberjack,preysOn
+147189,147189,Tylosurus acus,Keeljaw Longtom,preysOn
+147189,47229,Selar crumenophthalmus,Bigeye Scad,preysOn
+147189,82330,Caranx ruber,Bar Jack,preysOn
+147189,,Tylosurus crocodilus crocodilus,,preysOn
+147189,49933,Parablennius marmoreus,Seaweed Blenny,preysOn
+147189,56937,Oligoplites saurus,Leather Jack,preysOn
+147189,,Carangoides bartholomaei,,preysOn
+147189,179445,Trachinotus falcatus,Permit,preysOn
+147189,114269,Trachinotus goodei,Palometa,preysOn
+147189,,Microfauna,,preysOn
+147189,49418,Carangoides,,preysOn
+147189,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy
+147189,147189,Tylosurus acus,Keeljaw Longtom,preyedUponBy
+147189,188767,Carcharhinus perezii,Caribbean Reef Shark,preyedUponBy
+147189,47251,Sphyraena barracuda,Great Barracuda,preyedUponBy
+147189,96754,Carcharhinus falciformis,Silky Shark,preyedUponBy
+147189,56764,Sphyrna lewini,Scalloped Hammerhead,preyedUponBy
+147189,52299,Galeocerdo cuvier,Tiger Shark,preyedUponBy
+147189,49617,Scomberomorus regalis,Cero,preyedUponBy

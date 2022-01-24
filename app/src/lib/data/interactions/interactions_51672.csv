@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51672,,Lepus americanus,,eats
+51672,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+51672,4765,Coragyps atratus,Black Vulture,eatenBy
+51672,5017,Bubulcus ibis,Cattle Egret,eatenBy
+51672,9609,Quiscalus niger,Greater Antillean Grackle,eatenBy
+51672,9600,Quiscalus lugubris,Carib Grackle,eatenBy
+51672,,Lepus americanus,,preysOn
+51672,,Scincella vandenburghi,,preysOn
+51672,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+51672,,Gibbaranea bituberculata,,preyedUponBy

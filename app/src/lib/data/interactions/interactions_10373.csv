@@ -1,0 +1,82 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10373,47124,Magnoliopsida,dicots,eats
+10373,47158,Insecta,Insects,eats
+10373,47434,Poaceae,grasses,eats
+10373,1,Animalia,Animals,eats
+10373,211194,Tracheophyta,vascular plants,eats
+10373,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10373,47208,Coleoptera,Beetles,eats
+10373,47120,Arthropoda,Arthropods,eats
+10373,48972,Polygonum,knotweeds,eats
+10373,48736,Curculionidae,True Weevils,eats
+10373,47157,Lepidoptera,Butterflies and Moths,eats
+10373,53237,Cicadellidae,Typical Leafhoppers,eats
+10373,60301,Panicum,panicgrasses,eats
+10373,52326,Amaranthus,amaranths,eats
+10373,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+10373,47792,Odonata,Dragonflies and Damselflies,eats
+10373,68020,Dolichopodidae,Long-legged Flies,eats
+10373,72111,Eleusine,,eats
+10373,52734,Cyperus,flatsedges,eats
+10373,52381,Aphididae,Aphids,eats
+10373,82232,Blattidae,Household Cockroaches,eats
+10373,47822,Diptera,Flies,eats
+10373,50055,Setaria,foxtails and bristlegrasses,eats
+10373,48449,Zea,Corns and Teosintes,eats
+10373,48571,Carex,true sedges,eats
+10373,58374,Echinochloa,Barnyard Grasses,eats
+10373,70144,Muscidae,House Flies and Allies,eats
+10373,53275,Chironomidae,Non-biting Midges,eats
+10373,47118,Araneae,Spiders,eats
+10373,60628,Tenthredinidae,Common Sawflies,eats
+10373,58390,Triticum,Wheats,eats
+10373,52697,Avena,Oats,eats
+10373,51637,Digitaria,"crabgrasses, cottontops, and allies",eats
+10373,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+10373,47336,Formicidae,Ants,eats
+10373,53248,Elateridae,Click Beetles,eats
+10373,51146,Chrysomelidae,Leaf Beetles,eats
+10373,60304,Paspalum,Paspalum,eats
+10373,57920,Xanthium strumarium,rough cocklebur,eats
+10373,50641,Solanum,nightshades,eats
+10373,60773,Vitis,grapevines,eats
+10373,53036,Ambrosia,ragweeds,eats
+10373,58387,Sorghum halepense,Johnson grass,eats
+10373,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+10373,58127,Chenopodium album,Common Lambsquarters,eats
+10373,58389,Sorghum bicolor,Sorghum,eats
+10373,56955,Helianthus,sunflowers,eats
+10373,79185,Sporobolus cryptandrus,Sand Dropseed,eats
+10373,119139,Lespedeza,bush clovers and lespedezas,eats
+10373,141725,Nezara viridula,Southern Green Stink Bug,eats
+10373,342614,Entelegynae,Entelegyne Spiders,eats
+10373,,Acalypha,,eats
+10373,,Scirpus,,eats
+10373,72164,Hedeoma,,eats
+10373,,Achilidae,,eats
+10373,,Barbarea,,eats
+10373,,Secale,,eats
+10373,48448,Zea mays,Maize,eats
+10373,57156,Avena sativa,Oat,eats
+10373,,Oryza sativa,,eats
+10373,,Murdannia nudiflora,,eats
+10373,,Alopecurus,,eats
+10373,,Andropogon gerardii,,eats
+10373,56552,Carabus nemoralis,Bronze Ground Beetle,eats
+10373,1077571,Cirrula hians,Mono Lake Alkali Fly,eats
+10373,558446,Circus hudsonius,Northern Harrier,eatenBy
+10373,20044,Bubo virginianus,Great Horned Owl,eatenBy
+10373,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+10373,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+10373,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+10373,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+10373,20445,Tyto alba,Barn Owl,eatenBy
+10373,4665,Falco sparverius,American Kestrel,eatenBy
+10373,20307,Asio otus,Long-eared Owl,eatenBy
+10373,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+10373,4645,Falco femoralis,Aplomado Falcon,eatenBy
+10373,,Aquila chrysaetos,,eatenBy
+10373,47158,Insecta,Insects,preysOn
+10373,47120,Arthropoda,Arthropods,preysOn
+10373,83854,Magicicada,Periodical Cicadas,preysOn
+10373,29813,Lampropeltis getula,Eastern Kingsnake,preyedUponBy

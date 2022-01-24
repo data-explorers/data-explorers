@@ -1,0 +1,94 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61355,47125,Angiospermae,flowering plants,eats
+61355,53359,Baccharis pilularis,coyote brush,eats
+61355,72232,Melaleuca,bottlebrushes,eats
+61355,50812,Scrophularia californica,California beeplant,eats
+61355,47124,Magnoliopsida,dicots,eats
+61355,790553,Apioideae,,eats
+61355,52849,Araliaceae,ivy family,eats
+61355,52588,Centaurea solstitialis,Yellow Star-Thistle,eats
+61355,52821,Achillea millefolium,Common Yarrow,eats
+61355,53052,Foeniculum vulgare,fennel,eats
+61355,55883,Hedera,ivies,eats
+61355,52182,Monardella,,eats
+61355,54999,Eriogonum fasciculatum,California buckwheat,eats
+61355,58168,Frankenia salina,Alkali Heath,eats
+61355,56739,Ricinus communis,castor bean,eats
+61355,48939,Eriogonum,wild buckwheats,eats
+61355,56992,Lobularia maritima,sweet alyssum,eats
+61355,52836,Angelica,,eats
+61355,48699,Apiaceae,carrot family,eats
+61355,53376,Cotoneaster,Cotoneasters,eats
+61355,53350,Aesculus,buckeyes and horse-chestnuts,eats
+61355,63366,Limonium,Sea-Lavenders,eats
+61355,49041,Rhamnaceae,buckthorn family,eats
+61355,60001,Dianthus,carnations,eats
+61355,47158,Insecta,Insects,eats
+61355,632790,Asteroideae,,eats
+61355,47701,Geranium,geraniums and cranesbills,eats
+61355,53423,Frangula californica,coffeeberry,eats
+61355,47219,Apis mellifera,Western Honey Bee,eats
+61355,155373,Glycaspis brimblecombei,Red Gum Lerp Psyllid,eats
+61355,49674,Ceanothus,,eats
+61355,84612,Polyphylla decemlineata,Ten-lined June Beetle,eats
+61355,41880,Mephitis mephitis,Striped Skunk,eats
+61355,52775,Bombus,Bumble Bees,eats
+61355,52998,Conium maculatum,poison hemlock,eats
+61355,63379,Acacia longifolia,longleaf wattle,eats
+61355,47122,Fabaceae,legumes,eats
+61355,53396,Eriophyllum,Woolly sunflowers,eats
+61355,36204,Sceloporus occidentalis,Western Fence Lizard,eats
+61355,122024,Corymbia ficifolia,Red-flowering gum,eats
+61355,163112,Fuchsia magellanica,Hardy Fuchsia,eats
+61355,77977,Melaleuca viminalis,weeping bottlebrush,eats
+61355,51815,Eucalyptus,eucalyptus,eats
+61355,48561,Cirsium,thistles,eats
+61355,52635,Agastache,Hyssop,eats
+61355,63512,Acer palmatum,Japanese maple,eats
+61355,49487,Rhododendron,rhododendrons and azaleas,eats
+61355,48807,Umbellularia californica,California bay,eats
+61355,51813,Oenothera elata,tall evening primrose,eats
+61355,30713,Crotalus oreganus helleri,Southern Pacific Rattlesnake,eats
+61355,61317,Rubus armeniacus,Armenian Blackberry,eats
+61355,47179,Arctostaphylos,bearberries and manzanitas,eats
+61355,,Protea,,eats
+61355,55137,Arctostaphylos manzanita,Common Manzanita,eats
+61355,64515,Grevillea,Grevilleas,eats
+61355,,Disholcaspis eldoradensis,,eats
+61355,,Leptospermum scoparium,,eats
+61355,,Apieae,,eats
+61355,50334,Lantana,,eats
+61355,,Fritillaria affinis,,eats
+61355,,Pelargonium × hortorum,,eats
+61355,133395,Lavandula angustifolia,Common Lavender,eats
+61355,,Lantana montevidensis,,eats
+61355,,Passiflora edulis,,eats
+61355,,Baccharis glutinosa,,eats
+61355,,Xerochrysum bracteatum,,eats
+61355,50333,Lantana camara,common lantana,eats
+61355,,Angelica hendersonii,,eats
+61355,,Eriogonum latifolium,,eats
+61355,83058,Camellia,Camellias,eats
+61355,,Grindelia stricta,,eats
+61355,,Callistemon citrinus,,eats
+61355,106222,Mugil cephalus,Sea Mullet,eats
+61355,,Sixalix atropurpurea atropurpurea,,eats
+61355,,Camellia japonica,,eats
+61355,53983,Digitalis purpurea,purple foxglove,eats
+61355,,Trimorphodon lyrophanes,,eats
+61355,200661,Coluber constrictor mormon,Western Yellow-bellied Racer,eats
+61355,153022,Cuphea,Cigar plants,eats
+61355,51597,Pittosporum,Cheesewoods,eats
+61355,,Dolichovespula maculata,,eats
+61355,,Lagunaria patersonia,,eats
+61355,,Echium wildpretii,,eats
+61355,47219,Apis mellifera,Western Honey Bee,preysOn
+61355,61355,Vespula pensylvanica,Western Yellowjacket,preysOn
+61355,630955,Anthophila,Bees,preysOn
+61355,47157,Lepidoptera,Butterflies and Moths,preysOn
+61355,67735,Rhionaeschna,Neotropical Darners,preysOn
+61355,61355,Vespula pensylvanica,Western Yellowjacket,preyedUponBy
+61355,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",preyedUponBy
+61355,16787,Tyrannus melancholicus,Tropical Kingbird,preyedUponBy
+61355,209844,Stenopogon,,preyedUponBy
+61355,,Argiope aurantia,,preyedUponBy

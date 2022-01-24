@@ -1,0 +1,87 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55521,47351,Prunus,"plums, cherries, and allies",eats
+55521,53424,Frangula,False-Buckthorns,eats
+55521,57250,Prunus ilicifolia,hollyleaf cherry,eats
+55521,49674,Ceanothus,,eats
+55521,54500,Malus,apples,eats
+55521,54812,Rhamnus,Buckthorns,eats
+55521,47130,Ribes,currants and gooseberries,eats
+55521,53352,Alnus,alders,eats
+55521,53453,Salix,Willows,eats
+55521,49230,Amelanchier,serviceberries,eats
+55521,47732,Syringa,Lilacs,eats
+55521,48493,Delphinium,larkspurs,eats
+55521,49487,Rhododendron,rhododendrons and azaleas,eats
+55521,48561,Cirsium,thistles,eats
+55521,58907,Melilotus albus,White Sweetclover,eats
+55521,53350,Aesculus,buckeyes and horse-chestnuts,eats
+55521,48623,Lamiaceae,mint family,eats
+55521,75916,Buddleja davidii,Butterfly bush,eats
+55521,48225,Eschscholzia californica,California poppy,eats
+55521,52989,Cirsium vulgare,Bull Thistle,eats
+55521,52182,Monardella,,eats
+55521,52621,Cirsium occidentale,Cobwebby Thistle,eats
+55521,52181,Monardella villosa,Coyote Mint,eats
+55521,53327,Vinca,periwinkles,eats
+55521,48150,Boraginaceae,borage family,eats
+55521,52472,Vicia,Vetches,eats
+55521,55410,Raphanus sativus,wild radish,eats
+55521,57317,Vicia villosa,hairy vetch,eats
+55521,50644,Salvia,Sages,eats
+55521,48377,Bignoniaceae,bignonia family,eats
+55521,56851,Asclepias fascicularis,narrowleaf milkweed,eats
+55521,60132,Cirsium arvense,creeping thistle,eats
+55521,53423,Frangula californica,coffeeberry,eats
+55521,57723,Echium candicans,Pride of Madeira,eats
+55521,50320,Lathyrus vestitus,Pacific pea,eats
+55521,47146,Adenostoma fasciculatum,chamise,eats
+55521,61317,Rubus armeniacus,Armenian Blackberry,eats
+55521,48928,Lilium,true lilies,eats
+55521,,Malus pumila,,eats
+55521,,Prunus emarginata,,eats
+55521,161082,Crataegus rivularis,River hawthorn,eats
+55521,,Ceanothus velutinus,,eats
+55521,,Ceanothus cordulatus,,eats
+55521,76469,Crataegus douglasii,Black Hawthorn,eats
+55521,,Holodiscus discolor,,eats
+55521,,Rhamnus rubra,,eats
+55521,,Prunus domestica,,eats
+55521,,Ceanothus prostratus,,eats
+55521,,Ceanothus cuneatus,,eats
+55521,118571,Ceanothus fendleri,Fendler's ceanothus,eats
+55521,,Ceanothus integerrimus,,eats
+55521,,http://treatment.plazi.org/id/BBFD6E1EEA33BDD2606EB70FB90DE21E,,eats
+55521,,Alnus rubra,,eats
+55521,,http://treatment.plazi.org/id/121066DB1BC342D43717D63C76C8297C,,eats
+55521,57243,Rhamnus crocea,Redberry Buckthorn,eats
+55521,,Ribes inerme,,eats
+55521,,Amelanchier sanguinea,,eats
+55521,53415,Holodiscus,,eats
+55521,51148,Crataegus,hawthorns,eats
+55521,,Brodiaeoideae,,eats
+55521,,Atocion armeria,,eats
+55521,57095,Eriodictyon californicum,California yerba santa,eats
+55521,,Pickeringia montana,,eats
+55521,,Rhododendron occidentale,,eats
+55521,53348,Aesculus californica,California buckeye,eats
+55521,,Lilium maritimum,,eats
+55521,,Dichelostemma congestum,,eats
+55521,,Sarcodes sanguinea,,eats
+55521,1196714,Dipterostemon,,eats
+55521,,Dichelostemma capitatum,,eats
+55521,,Cardueae,,eats
+55521,,Papilionoideae,,eats
+55521,,Carduus,,eats
+55521,52586,Silybum marianum,milk thistle,eats
+55521,50630,Erysimum,Wallflowers,eats
+55521,,Sixalix atropurpurea atropurpurea,,eats
+55521,,Lilium columbianum,,eats
+55521,,Carduinae,,eats
+55521,,Erigeron glaucus,,eats
+55521,,Palmerella debilis,,eats
+55521,,Monardella linoides,,eats
+55521,,Lymnaea,,eats
+55521,,Lilium kelleyanum,,eats
+55521,,Dipsacus,,eats
+55521,48928,Lilium,true lilies,pollinates
+55521,61253,Lilium philadelphicum,Wood Lily,pollinates

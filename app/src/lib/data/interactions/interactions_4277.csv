@@ -1,0 +1,178 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4277,63770,Engraulis mordax,Northern Anchovy,eats
+4277,47645,Cottidae,Typical Sculpins,eats
+4277,47459,Cephalopoda,Cephalopods,eats
+4277,2,Chordata,Chordates,eats
+4277,51911,Engraulidae,Anchovies,eats
+4277,47285,Scorpaenidae,Scorpionfishes,eats
+4277,49235,Clupeiformes,Herrings,eats
+4277,47186,Decapoda,Decapods,eats
+4277,85641,Bothidae,Lefteye Flounders,eats
+4277,1,Animalia,Animals,eats
+4277,85493,Crustacea,Crustaceans,eats
+4277,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+4277,49390,Blenniidae,Combtooth Blennies,eats
+4277,47115,Mollusca,Molluscs,eats
+4277,482316,Epitonium clathrus,Common Wentletrap,eats
+4277,47648,Scorpaena,,eats
+4277,49411,Synodus,,eats
+4277,47308,Gobiidae,Gobies,eats
+4277,51912,Engraulis,,eats
+4277,55535,Sardinops sagax,Pacific Sardine,eats
+4277,48415,Citharichthys sordidus,Pacific sanddab,eats
+4277,94801,Atherinops affinis,Topsmelt Silverside,eats
+4277,117542,Citharichthys stigmaeus,speckled sanddab,eats
+4277,47525,Pleuronectidae,Righteye Flounders,eats
+4277,60021,Porichthys notatus,Plainfin Midshipman,eats
+4277,,Lepidogobius lepidus,,eats
+4277,,Genyonemus lineatus,,eats
+4277,63687,Embiotocidae,Surfperches,eats
+4277,47762,Sebastes,Rockfishes,eats
+4277,85949,Osmeridae,Smelts,eats
+4277,48454,Hexagrammidae,Greenlings,eats
+4277,,Pleuronectiformes,,eats
+4277,103971,Lampetra ayresii,Western River Lamprey,eats
+4277,63742,Gadidae,Cods and Haddocks,eats
+4277,98855,Cymatogaster aggregata,Shiner Surfperch,eats
+4277,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4277,83170,Platichthys stellatus,Starry Flounder,eats
+4277,117571,Clupea pallasii,Pacific herring,eats
+4277,180030,Glyptocephalus zachirus,Rex Sole,eats
+4277,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",eats
+4277,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eats
+4277,117545,Parophrys vetulus,English sole,eats
+4277,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4277,,Elthusa vulgaris,,eats
+4277,55186,Pomacentrus,,eats
+4277,,Gnathostomata,,eats
+4277,,Haemulopsis,,eats
+4277,,Abudefduf troschelii,,eats
+4277,91175,Pleuronichthys,,eats
+4277,,Colpichthys regis,,eats
+4277,88121,Elattarchus,,eats
+4277,,Orthopristis reddingi,,eats
+4277,,Clinidae,,eats
+4277,104926,Lyopsetta exilis,Slender Sole,eats
+4277,113538,Symphurus atricaudus,California Tonguefish,eats
+4277,,Ditrema temminckii pacificum,,eats
+4277,,Opisthonema,,eats
+4277,105388,Medialuna californiensis,Halfmoon,eats
+4277,,Atherinops,,eats
+4277,,Unspecified labrid,,eats
+4277,81963,Girella nigricans,Opaleye,eats
+4277,,Cannula,,eats
+4277,,Frigidoalvania cruenta,,eats
+4277,112350,Scorpaenodes xyris,Rainbow Scorpionfish,eats
+4277,90915,Peprilus,,eats
+4277,,Rathbunella,,eats
+4277,117561,Phanerodon furcatus,White surfperch,eats
+4277,216746,Chitonotus pugetensis,Roughback Sculpin,eats
+4277,92173,Spirinchus,,eats
+4277,228394,Pleuronichthys decurrens,Curlfin Sole,eats
+4277,254036,Melanella conoidea,,eats
+4277,,Unspecified pomacentrid,,eats
+4277,,Opistognathus,,eats
+4277,117563,Acanthogobius flavimanus,Yellowfin Goby,eats
+4277,,Xystreurys liolepis,,eats
+4277,,Diapterus,,eats
+4277,,Unspecified osmerid,,eats
+4277,53699,Semicossyphus pulcher,California sheephead,eats
+4277,89289,Labrisomus,,eats
+4277,,Zaniolepis frenata,,eats
+4277,179820,Heterostichus rostratus,Giant Kelpfish,eats
+4277,117544,Isopsetta isolepis,butter sole,eats
+4277,105599,Merluccius productus,Pacific Hake,eats
+4277,63685,Hyperprosopon argenteum,Walleye Surfperch,eats
+4277,,Apogon,,eats
+4277,117569,Microgadus proximus,Pacific Tomcod,eats
+4277,,Oxynoe antillarum,,eats
+4277,,Cottoidea,,eats
+4277,,Microlepidotus inornatus,,eats
+4277,52552,Oxyjulis californica,senorita,eats
+4277,117553,Brachyistius frenatus,Kelp Surfperch,eats
+4277,117554,Embiotoca jacksoni,Black surfperch,eats
+4277,,Unspecified pomadasyid,,eats
+4277,,Octopus rubescens,,eats
+4277,115227,Zalembius rosaceus,Pink Seaperch,eats
+4277,233951,Zaniolepis latipinnis,Longspine Combfish,eats
+4277,68595,Hexagrammos,,eats
+4277,111616,Rhacochilus vacca,Pile surfperch,eats
+4277,215459,Brosmophycis marginata,Red Brotula,eats
+4277,,Porichthys analis,,eats
+4277,47645,Cottidae,Typical Sculpins,preysOn
+4277,63770,Engraulis mordax,Northern Anchovy,preysOn
+4277,49235,Clupeiformes,Herrings,preysOn
+4277,85641,Bothidae,Lefteye Flounders,preysOn
+4277,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+4277,85611,Atherinidae,Old World Silversides,preysOn
+4277,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+4277,47762,Sebastes,Rockfishes,preysOn
+4277,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+4277,94802,Atherinopsis californiensis,Jack Silverside,preysOn
+4277,63691,Cololabis saira,Pacific Saury,preysOn
+4277,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+4277,117545,Parophrys vetulus,English sole,preysOn
+4277,183018,Lepidopsetta bilineata,Rock sole,preysOn
+4277,85949,Osmeridae,Smelts,preysOn
+4277,117542,Citharichthys stigmaeus,speckled sanddab,preysOn
+4277,47525,Pleuronectidae,Righteye Flounders,preysOn
+4277,82352,Merlucciidae,Merlucciid Hakes,preysOn
+4277,97375,Chilara taylori,Spotted Cusk-eel,preysOn
+4277,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4277,180030,Glyptocephalus zachirus,Rex Sole,preysOn
+4277,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+4277,117571,Clupea pallasii,Pacific herring,preysOn
+4277,117555,Embiotoca lateralis,Striped surfperch,preysOn
+4277,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+4277,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+4277,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",preysOn
+4277,,Pleuronectiformes,,preysOn
+4277,83170,Platichthys stellatus,Starry Flounder,preysOn
+4277,63742,Gadidae,Cods and Haddocks,preysOn
+4277,113538,Symphurus atricaudus,California Tonguefish,preysOn
+4277,63687,Embiotocidae,Surfperches,preysOn
+4277,,Atherinops,,preysOn
+4277,117554,Embiotoca jacksoni,Black surfperch,preysOn
+4277,,Micrometrus,,preysOn
+4277,,Syacium ovale,,preysOn
+4277,,Phanerodon atripes,,preysOn
+4277,,Xystreurys liolepis,,preysOn
+4277,115227,Zalembius rosaceus,Pink Seaperch,preysOn
+4277,,Colpichthys regis,,preysOn
+4277,,Opisthonema,,preysOn
+4277,48416,Citharichthys,,preysOn
+4277,117553,Brachyistius frenatus,Kelp Surfperch,preysOn
+4277,,Porichthys analis,,preysOn
+4277,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4277,117561,Phanerodon furcatus,White surfperch,preysOn
+4277,63685,Hyperprosopon argenteum,Walleye Surfperch,preysOn
+4277,68595,Hexagrammos,,preysOn
+4277,228394,Pleuronichthys decurrens,Curlfin Sole,preysOn
+4277,216746,Chitonotus pugetensis,Roughback Sculpin,preysOn
+4277,48452,Oxylebius pictus,Painted greenling,preysOn
+4277,222146,Icelinus tenuis,Spotfin Sculpin,preysOn
+4277,222155,Icichthys lockingtoni,Medusafish,preysOn
+4277,,Octopus rubescens,,preysOn
+4277,92173,Spirinchus,,preysOn
+4277,117562,Rhacochilus toxotes,Rubberlip surfperch,preysOn
+4277,111616,Rhacochilus vacca,Pile surfperch,preysOn
+4277,117569,Microgadus proximus,Pacific Tomcod,preysOn
+4277,105599,Merluccius productus,Pacific Hake,preysOn
+4277,117558,Hypsurus caryi,Rainbow Seaperch,preysOn
+4277,117544,Isopsetta isolepis,butter sole,preysOn
+4277,47638,Scorpaenichthys marmoratus,Cabezon,preysOn
+4277,91175,Pleuronichthys,,preysOn
+4277,104926,Lyopsetta exilis,Slender Sole,preysOn
+4277,,Zaniolepis frenata,,preysOn
+4277,233951,Zaniolepis latipinnis,Longspine Combfish,preysOn
+4277,117537,Hemilepidotus spinosus,Brown Irish lord,preysOn
+4277,317000,Benthosema panamense,,preysOn
+4277,86422,Amphistichus,,preysOn
+4277,108561,Paralichthys californicus,California Halibut,preysOn
+4277,101455,Gillichthys mirabilis,Longjaw Mudsucker,preysOn
+4277,179533,Fundulus parvipinnis,California Killifish,preysOn
+4277,106222,Mugil cephalus,Sea Mullet,preysOn
+4277,82326,Hypsopsetta guttulata,Diamond turbot,preysOn
+4277,117564,Clevelandia ios,Arrow Gobi,preysOn
+4277,117563,Acanthogobius flavimanus,Yellowfin Goby,preysOn
+4277,111467,Quietula y-cauda,Shadow Goby,preysOn

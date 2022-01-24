@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117766,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+117766,92631,Triglops,,eats
+117766,53692,Oncorhynchus kisutch,Coho Salmon,eats
+117766,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eats
+117766,223433,Leptoclinus maculatus,Daubed Shanny,eats
+117766,,Reinhardtius stomias,,eats
+117766,68594,Hexagrammos lagocephalus,Rock greenling,eats
+117766,48416,Citharichthys,,eats
+117766,165100,Mallotus villosus,Capelin,eats
+117766,117566,Hypomesus pretiosus,Surf Smelt,eats
+117766,113994,Thaleichthys pacificus,Eulachon,eats
+117766,53701,Hippoglossus stenolepis,Pacific Halibut,eats
+117766,86991,Blennius,,eats
+117766,52539,Ophiodon elongatus,Lingcod,eats
+117766,117536,Enophrys bison,Buffalo Sculpin,eats
+117766,183018,Lepidopsetta bilineata,Rock sole,eats
+117766,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+117766,180031,Microstomus pacificus,Pacific Dover Sole,eats
+117766,,Theragra chalcogramma,,eats
+117766,89655,Lycodes,,eats
+117766,117544,Isopsetta isolepis,butter sole,eats
+117766,169919,Trichodon trichodon,Pacific Sandfish,eats
+117766,67991,Psettichthys melanostictus,Sand Sole,eats
+117766,89921,Microgadus,,eats
+117766,180032,Hippoglossoides elassodon,Flathead Sole,eats
+117766,221165,Hemilepidotus hemilepidotus,Red Irish Lord,eats
+117766,180029,Gadus macrocephalus,Pacific Cod,eats
+117766,83173,Eopsetta,,eats
+117766,218156,Dasycottus setiger,Spinyhead Sculpin,eats
+117766,60022,Porichthys,Midshipmen,eats
+117766,180030,Glyptocephalus zachirus,Rex Sole,eats
+117766,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+117766,47646,Myoxocephalus,Shorthorn Sculpins,eats
+117766,54191,Oncorhynchus tshawytscha,Chinook Salmon,eats
+117766,104926,Lyopsetta exilis,Slender Sole,eats
+117766,223674,Limanda aspera,Yellowfin Sole,eats
+117766,83171,Platichthys,,eats
+117766,49243,Alosa sapidissima,American shad,eats
+117766,105599,Merluccius productus,Pacific Hake,eats
+117766,218966,Eleginus gracilis,Saffron Cod,eats
+117766,117545,Parophrys vetulus,English sole,eats
+117766,117571,Clupea pallasii,Pacific herring,eats
+117766,86890,Bathymaster,,eats
+117766,48863,Enteroctopus dofleini,Giant Pacific Octopus,eats
+117766,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+117766,43584,Homo sapiens,Human,eatenBy
+117766,48863,Enteroctopus dofleini,Giant Pacific Octopus,preysOn
+117766,47522,Oncorhynchus,Pacific Salmons and Trouts,preysOn
+117766,83170,Platichthys stellatus,Starry Flounder,preysOn
+117766,50873,Carcharodon carcharias,Great White Shark,preyedUponBy
+117766,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy

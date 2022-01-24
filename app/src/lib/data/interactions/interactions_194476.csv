@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+194476,56193,Acer campestre,field maple,eats
+194476,49203,Fagus,beeches,eats
+194476,,Broadleaved trees,,eats
+194476,,Acer pseudoplatanus,,eats
+194476,63275,Tremex columba,Pigeon Horntail,eatenBy

@@ -1,0 +1,53 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+174572,211194,Tracheophyta,vascular plants,eats
+174572,,Detritus,,eats
+174572,,Opalina,,eats
+174572,,Nyctotherus,,eats
+174572,,benthic microalgae/periphyton,,eats
+174572,,Gregarinidae,,eats
+174572,27818,Taricha torosa,California Newt,eatenBy
+174572,59653,Gerridae,Water Striders,eatenBy
+174572,81576,Belostoma,,eatenBy
+174572,67731,Anax junius,Common Green Darner,eatenBy
+174572,52864,Tramea,Saddlebag Gliders,eatenBy
+174572,133623,Tropisternus,,eatenBy
+174572,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+174572,11901,Hirundo rustica,Barn Swallow,eatenBy
+174572,64970,Anaxyrus boreas,Western Toad,eatenBy
+174572,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+174572,473,Fulica americana,American Coot,eatenBy
+174572,,Macrocyclops,,eatenBy
+174572,,Gregarinidae,,eatenBy
+174572,51679,Coenagrion,Northern Bluets,eatenBy
+174572,,Lethocerus americanus,,eatenBy
+174572,,Hesperocorixa,,eatenBy
+174572,67016,Rana draytonii,California Red-legged Frog,eatenBy
+174572,24259,Pseudacris regilla,Northern Pacific Tree Frog,eatenBy
+174572,121463,Arrenurus,Water Mites,eatenBy
+174572,,Lestes,,eatenBy
+174572,56557,Notonecta,Milky Backswimmers,eatenBy
+174572,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+174572,47126,Plantae,plants,preysOn
+174572,,benthic microalgae/periphyton,,preysOn
+174572,,Opalina,,preysOn
+174572,,Nyctotherus,,preysOn
+174572,27818,Taricha torosa,California Newt,preyedUponBy
+174572,81576,Belostoma,,preyedUponBy
+174572,52864,Tramea,Saddlebag Gliders,preyedUponBy
+174572,59653,Gerridae,Water Striders,preyedUponBy
+174572,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+174572,473,Fulica americana,American Coot,preyedUponBy
+174572,67731,Anax junius,Common Green Darner,preyedUponBy
+174572,11901,Hirundo rustica,Barn Swallow,preyedUponBy
+174572,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+174572,133623,Tropisternus,,preyedUponBy
+174572,11935,Tachycineta bicolor,Tree Swallow,preyedUponBy
+174572,,Hesperocorixa,,preyedUponBy
+174572,,Lestes,,preyedUponBy
+174572,,Macrocyclops,,preyedUponBy
+174572,,Pseudiacris regilla,,preyedUponBy
+174572,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+174572,51679,Coenagrion,Northern Bluets,preyedUponBy
+174572,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+174572,56557,Notonecta,Milky Backswimmers,preyedUponBy
+174572,,Letherocerus americanus,,preyedUponBy

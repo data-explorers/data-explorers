@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+132767,42158,Cervidae,Deer,eatenBy
+132767,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+132767,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+132767,,Acleris oxycoccana,,eatenBy
+132767,,Xestia dilucida,,eatenBy
+132767,,Incisalia augustinus,,eatenBy
+132767,154057,Cingilia catenaria,Chain-dotted Geometer,eatenBy
+132767,,Biston betularia,,eatenBy
+132767,,Callophrys augustinus,,eatenBy
+132767,,Coleophora ledi,,eatenBy
+132767,,Cryptocephalus decemmaculatus,,eatenBy
+132767,551503,Exobasidium savilei,,eatenBy
+132767,,Exobasidium cassandrae,,eatenBy
+132767,931,Lagopus lagopus,Willow Ptarmigan,eatenBy
+132767,118970,Bombus impatiens,Common Eastern Bumble Bee,pollinatedBy
+132767,52965,Sphaerophoria,Globetails,pollinatedBy
+132767,119561,Helophilus fasciatus,Narrow-headed Marsh Fly,pollinatedBy
+132767,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+132767,47822,Diptera,Flies,pollinatedBy
+132767,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+132767,,Bombus sandersoni,,pollinatedBy
+132767,,http://treatment.plazi.org/id/556035E6CDCB09DA5FA0F608E455A0D9,,pollinatedBy
+132767,,Colletes inaequalis,,pollinatedBy
+132767,,Andrena carlini,,pollinatedBy
+132767,,http://treatment.plazi.org/id/0392879B7362AB3043D5FCCDFF70FB96,,pollinatedBy
+132767,,http://treatment.plazi.org/id/0392879B7367AB3543D5FB74FE8BFAF4,,pollinatedBy
+132767,,Spilogona fatima,,pollinatedBy
+132767,,Bombus ternarius,,pollinatedBy
+132767,,http://treatment.plazi.org/id/0392879B737BAB2943D5FC0BFE04FBF9,,pollinatedBy
+132767,,Melanostoma,,pollinatedBy

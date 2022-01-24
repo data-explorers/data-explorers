@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123713,55626,Pieris rapae,Cabbage White,eats
+123713,50340,Hylephila phyleus,Fiery Skipper,eats
+123713,,Sphenarium purpurascens,,eats
+123713,,Yucca campestris,,eats
+123713,,Psilostrophe tagetina,,eats
+123713,180716,Sphenarium,,eats
+123713,9319,Icterus cucullatus,Hooded Oriole,eatenBy
+123713,51225,Tipulidae,Large Crane Flies,preysOn
+123713,,Leptophobia aripa,,preysOn
+123713,,Danaus eresimus,,preysOn
+123713,326777,Aculeata,"Ants, Bees, and Stinging Wasps",preyedUponBy

@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81545,,leaf litter,,eats
+81545,,saphrophytes,,eats
+81545,,Detritus,,eats
+81545,49591,Lepomis macrochirus,Bluegill,eatenBy
+81545,12727,Turdus migratorius,American Robin,eatenBy
+81545,12937,Sialia mexicana,Western Bluebird,eatenBy
+81545,480298,Cornu aspersum,Garden Snail,eatenBy
+81545,125920,Anguilla australis,Short-finned Eel,eatenBy
+81545,,Pylodictis olivaris,,eatenBy
+81545,12716,Turdus merula,Eurasian Blackbird,eatenBy
+81545,12707,Turdus pilaris,Fieldfare,eatenBy
+81545,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+81545,56552,Carabus nemoralis,Bronze Ground Beetle,eatenBy
+81545,,Tetramorium immigrans,,eatenBy
+81545,13094,Erithacus rubecula,European Robin,eatenBy
+81545,12748,Turdus philomelos,Song Thrush,eatenBy
+81545,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+81545,47686,Protozoa,protozoans,preysOn
+81545,118996,Ciliophora,Ciliates,preysOn
+81545,,amoebae,,preysOn
+81545,49567,Carabidae,Ground Beetles,preyedUponBy
+81545,12727,Turdus migratorius,American Robin,preyedUponBy
+81545,130411,Abax,,preyedUponBy
+81545,494277,Molops piceus,,preyedUponBy
+81545,130409,Abax parallelepipedus,,preyedUponBy
+81545,525960,Trogulus nepaeformis,,preyedUponBy
+81545,,Cochlodryas,,preyedUponBy
+81545,131102,Harpalus tardus,,preyedUponBy
+81545,498011,Abax ovalis,,preyedUponBy
+81545,495490,Cychrus attenuatus,,preyedUponBy
+81545,12716,Turdus merula,Eurasian Blackbird,preyedUponBy
+81545,,Carabus auronitens,,preyedUponBy
+81545,,Carabus,,preyedUponBy
+81545,194792,Carabus auratus,Golden Ground Beetle,preyedUponBy
+81545,216086,Carabus granulatus,Granulated Ground Beetle,preyedUponBy
+81545,,Vespula squamosa,,preyedUponBy
+81545,19765,Megascops asio,Eastern Screech-Owl,preyedUponBy

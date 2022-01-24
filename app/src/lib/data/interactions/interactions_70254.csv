@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+70254,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+70254,,Cizara ardenia,,eatenBy
+70254,,Parectopa zorionella,,eatenBy
+70254,,Corythoxestis zorionella,,eatenBy
+70254,202505,Zosterops lateralis,Silvereye,eatenBy
+70254,,Hemiphaga novaeseelandiae,,eatenBy
+70254,397794,Tanaoctena dubia,Coprosma Shoot Borer Moth,eatenBy
+70254,,Chalepistes compressus,,eatenBy
+70254,,Chinamiris indeclivis,,eatenBy
+70254,72502,Anas chlorotis,Brown Teal,eatenBy
+70254,7072,Tadorna variegata,Paradise Shelduck,eatenBy
+70254,8015,Corvus hawaiiensis,Hawaiian Crow,eatenBy
+70254,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+70254,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+70254,,Wind,,pollinatedBy

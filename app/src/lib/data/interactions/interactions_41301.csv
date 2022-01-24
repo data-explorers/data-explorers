@@ -1,0 +1,59 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41301,144455,Ardea alba,Great Egret,eatenBy
+41301,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+41301,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+41301,20044,Bubo virginianus,Great Horned Owl,eatenBy
+41301,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+41301,47157,Lepidoptera,Butterflies and Moths,preysOn
+41301,47822,Diptera,Flies,preysOn
+41301,47208,Coleoptera,Beetles,preysOn
+41301,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+41301,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+41301,48763,Neuroptera,"Antlions, Lacewings, and Allies",preysOn
+41301,48011,Ephemeroptera,Mayflies,preysOn
+41301,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+41301,62164,Trichoptera,Caddisflies,preysOn
+41301,789601,Euchromius ocellea,Belted Grass-veneer,preysOn
+41301,215591,Bulia deducta,Deduced Graphic,preysOn
+41301,118492,Helicoverpa zea,Corn Earworm Moth,preysOn
+41301,127492,Megalographa biloba,Bilobed Looper Moth,preysOn
+41301,179339,Peridroma saucia,Variegated Cutworm Moth,preysOn
+41301,231425,Spodoptera exigua,Beet Armyworm Moth,preysOn
+41301,202789,Trichoplusia ni,Cabbage Looper Moth,preysOn
+41301,47792,Odonata,Dragonflies and Damselflies,preysOn
+41301,509867,Acrobasis nuxvorella,,preysOn
+41301,,Nomophila nearctica,,preysOn
+41301,,Anticarsia gemmatalis,,preysOn
+41301,,Hypena scabra,,preysOn
+41301,,Remigia conveniens,,preysOn
+41301,,Tathorhynchus exsiccata,,preysOn
+41301,,Nycterosea obstipata,,preysOn
+41301,,Agrotis ipsilon,,preysOn
+41301,,Agrotis malefida,,preysOn
+41301,,Condica sutor,,preysOn
+41301,,Agrotis subterranea,,preysOn
+41301,,Rachiplusia ou,,preysOn
+41301,,Spodoptera frugiperda,,preysOn
+41301,,Plutella xylostella,,preysOn
+41301,,Homoptera,,preysOn
+41301,,Plecoptera,,preysOn
+41301,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+41301,41663,Procyon lotor,Common Raccoon,preyedUponBy
+41301,1986,Geococcyx californianus,Greater Roadrunner,preyedUponBy
+41301,547193,Masticophis flagellum,Coachwhip,preyedUponBy
+41301,41880,Mephitis mephitis,Striped Skunk,preyedUponBy
+41301,4665,Falco sparverius,American Kestrel,preyedUponBy
+41301,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+41301,144455,Ardea alba,Great Egret,preyedUponBy
+41301,118552,Felis catus,Domestic Cat,preyedUponBy
+41301,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+41301,,Philodryas aestiva,,preyedUponBy
+41301,,Accipter cooperi,,preyedUponBy
+41301,42649,Didelphis marsupialis,Southern Opossum,preyedUponBy
+41301,,Elaphe obsoleta,,preyedUponBy
+41301,5416,Ictinia mississippiensis,Mississippi Kite,preyedUponBy
+41301,912622,Agkistrodon contortrix,Eastern Copperhead,preyedUponBy
+41301,,Klaphe guttata,,preyedUponBy
+41301,,Masticophis taeniatus,,preyedUponBy
+41301,,Dermestes carnivorous,,preyedUponBy
+41301,5196,Buteo swainsoni,Swainson's Hawk,preyedUponBy

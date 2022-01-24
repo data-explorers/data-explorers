@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3941,53836,Cyanoplax,,eats
+3941,117781,Endocladia muricata,Scouring-pad alga,eats
+3941,69995,Littorina scutulata,Checkered Periwinkle,eats
+3941,81610,Balanus glandula,Pacific Acorn Barnacle,eats
+3941,47188,Pachygrapsus crassipes,Striped Shore Crab,eats
+3941,49723,Pugettia producta,Northern Kelp Crab,eats
+3941,194033,Coelopidae,Kelp Flies,eats
+3941,,Acmaea digitalis,,eats
+3941,457684,Diaulota densissima,,eats
+3941,,Gigartina agardhii,,eats
+3941,,Allochertes ptilocerus,,eats
+3941,,Collisella pelta,,eats
+3941,1061040,Dynamene glabra,,eats
+3941,,Collisella scabra,,eats
+3941,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+3941,47114,Gastropoda,Gastropods,preysOn
+3941,49809,Bulla,,preysOn
+3941,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+3941,,Traskorchestia traskiana,,preysOn
+3941,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+3941,,Cerithidea californica,,preysOn
+3941,,Uca crenulata,,preysOn
+3941,,Acteocina inculta,,preysOn
+3941,,Gammaridea,,preysOn
+3941,,Haminoea vesicula,,preysOn
+3941,,Nassarius tiarula,,preysOn
+3941,,Circus cyanus,,preyedUponBy

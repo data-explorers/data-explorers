@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+125845,12727,Turdus migratorius,American Robin,eatenBy
+125845,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+125845,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+125845,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+125845,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+125845,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+125845,12942,Sialia sialis,Eastern Bluebird,eatenBy
+125845,18236,Colaptes auratus,Northern Flicker,eatenBy
+125845,12901,Catharus fuscescens,Veery,eatenBy
+125845,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+125845,19660,Regulus,Kinglets,eatenBy
+125845,12890,Catharus guttatus,Hermit Thrush,eatenBy
+125845,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+125845,17355,Vireo,Vireos,eatenBy
+125845,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+125845,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+125845,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+125845,12883,Catharus minimus,Gray-cheeked Thrush,eatenBy
+125845,,Vireo flavifrons,,eatenBy
+125845,17408,Vireo griseus,White-eyed Vireo,eatenBy
+125845,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+125845,18205,Melanerpes carolinus,Red-bellied Woodpecker,eatenBy
+125845,,Empidonax virescens,,eatenBy
+125845,,Colletes thoracicus,,eatenBy
+125845,,Neoprocris floridana,,eatenBy

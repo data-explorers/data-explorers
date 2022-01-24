@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+203440,,Detritus,,eats
+203440,,Khakista,,eats
+203440,,Corambe testudinaria,,eatenBy
+203440,47126,Plantae,plants,preysOn
+203440,,Protista,,preysOn
+203440,103911,Labrus bergylta,Ballan Wrasse,preyedUponBy
+203440,,Echinus esculentus,,preyedUponBy
+203440,,Adalaria proximata,,preyedUponBy
+203440,210280,Psammechinus miliaris,Green Sea Urchin,preyedUponBy
+203440,,Limacia clavigeria,,preyedUponBy
+203440,120138,Asterias rubens,Common Sea Star,preyedUponBy

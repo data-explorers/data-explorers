@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+78562,48655,Aplysia californica,California Seahare,eatenBy
+78562,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+78562,49723,Pugettia producta,Northern Kelp Crab,eatenBy
+78562,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+78562,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+78562,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+78562,56653,Haliotis fulgens,Green Abalone,eatenBy
+78562,105388,Medialuna californiensis,Halfmoon,eatenBy
+78562,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+78562,179833,Lytechinus anamesus,white sea urchin,eatenBy
+78562,81963,Girella nigricans,Opaleye,eatenBy
+78562,48655,Aplysia californica,California Seahare,preyedUponBy
+78562,49723,Pugettia producta,Northern Kelp Crab,preyedUponBy
+78562,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+78562,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+78562,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+78562,81963,Girella nigricans,Opaleye,preyedUponBy
+78562,179833,Lytechinus anamesus,white sea urchin,preyedUponBy

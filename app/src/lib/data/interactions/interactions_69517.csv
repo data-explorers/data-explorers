@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69517,1,Animalia,Animals,eats
+69517,36094,Uta stansburiana,Common Side-blotched Lizard,eats
+69517,50154,Sphaeralcea,globemallows,eats
+69517,,Oxysarcodexia ochripyga,,eats
+69517,,Opuntioideae,,eats
+69517,,Linum aristatum,,eats
+69517,82418,Cicindela punctulata,Punctured Tiger Beetle,preyedUponBy

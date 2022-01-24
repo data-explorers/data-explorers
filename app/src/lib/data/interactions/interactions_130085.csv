@@ -1,0 +1,110 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130085,67423,Ulva lactuca,broadleaf sea lettuce,eats
+130085,50862,Codium,Codiums,eats
+130085,48216,Fucus vesiculosus,bladder wrack,eats
+130085,131377,Jania,Red Coralline Algae,eats
+130085,130178,Sargassum,Sargassum,eats
+130085,343398,Saccorhiza polyschides,Furbellow,eats
+130085,123632,Corallina officinalis,Common Coralline,eats
+130085,123633,Porphyra,Nori,eats
+130085,130177,Sargassum muticum,Japanese Wireweed,eats
+130085,121643,Copepoda,Copepods,eats
+130085,85493,Crustacea,Crustaceans,eats
+130085,47115,Mollusca,Molluscs,eats
+130085,47628,Amphipoda,Amphipods,eats
+130085,81648,Mytilus galloprovincialis,Mediterranean Mussel,eats
+130085,47584,Bivalvia,Bivalves,eats
+130085,47158,Insecta,Insects,eats
+130085,1,Animalia,Animals,eats
+130085,47186,Decapoda,Decapods,eats
+130085,343396,Bifurcaria bifurcata,,eats
+130085,129737,Colpomenia peregrina,Oyster-thief,eats
+130085,57779,Asparagopsis armata,Harpoonweed,eats
+130085,182852,Sphacelaria cirrosa,,eats
+130085,,Cystoseira tamariscifolia,,eats
+130085,203723,Ceramium virgatum,,eats
+130085,502380,Leathesia marina,Sea Cauliflower,eats
+130085,130176,Chondrus crispus,Irish moss,eats
+130085,461577,Ellisolandia elongata,,eats
+130085,51024,Dictyota dichotoma,Forked ribbons,eats
+130085,,Osmundea ramosissima,,eats
+130085,,Dictyopteris membranacea,,eats
+130085,182991,Palmaria palmata,Dulse,eats
+130085,330789,Heterosiphonia,,eats
+130085,,Gelidium spinosum,,eats
+130085,,Padina pavonia,,eats
+130085,1027504,Ceramium ciliatum,,eats
+130085,701524,Furcellaria lumbricalis,,eats
+130085,183154,Rhodomela confervoides,,eats
+130085,201435,Ulva linza,Green string lettuce,eats
+130085,,http://treatment.plazi.org/id/D42A6ADF3C22CB68DB45D5CF1BA087AD,,eats
+130085,1297852,Halurus equisetifolius,,eats
+130085,,Polysiphonia sp.,,eats
+130085,182896,Desmarestia aculeata,Witch's hair,eats
+130085,361840,Jania rubens,,eats
+130085,245427,Nannastacidae,,eats
+130085,48145,Gnathia,,eats
+130085,,Detritus,,eats
+130085,,Hyale dollfusi,,eats
+130085,644492,Cymodoce,,eats
+130085,494436,Acanthonyx lunulatus,,eats
+130085,524236,Pilumnus spinifer,,eats
+130085,61387,Limanda limanda,Sand Dab,eatenBy
+130085,118669,Diplodus sargus,White Bream,eatenBy
+130085,121643,Copepoda,Copepods,preysOn
+130085,153169,Palaemon elegans,Rockpool Prawn,preysOn
+130085,47490,Polychaeta,Polychaete Worms,preysOn
+130085,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+130085,54960,Nematoda,Nematodes,preysOn
+130085,446757,Acanthochitona crinita,Bristly Mail-shell,preysOn
+130085,49532,Sphaeromatidae,Typical Seapills,preysOn
+130085,47158,Insecta,Insects,preysOn
+130085,203761,Nucella lapillus,Atlantic Dogwhelk,preysOn
+130085,68764,Ostracoda,Seed Shrimp,preysOn
+130085,130085,Actinia equina,Beadlet anemone,preysOn
+130085,52523,Carcinus maenas,European Green Crab,preysOn
+130085,47584,Bivalvia,Bivalves,preysOn
+130085,245568,Turritellidae,Tower Snails,preysOn
+130085,50764,Nassariidae,Nassa Mudsnails,preysOn
+130085,81791,Nereis,,preysOn
+130085,,Palaemon longirostris,,preysOn
+130085,,Zooplankton,,preysOn
+130085,171919,Musculus costulatus,Ribbed Crenella,preysOn
+130085,245524,Lysianassidae,,preysOn
+130085,357614,Patella depressa,Black-footed Limpet,preysOn
+130085,340881,Calliopiidae,,preysOn
+130085,154706,Patella vulgata,Common European Limpet,preysOn
+130085,450561,Patella ulyssiponensis,China Limpet,preysOn
+130085,118499,Ampithoidae,,preysOn
+130085,446756,Lepidochitona cinerea,Grey Mail-shell,preysOn
+130085,1147340,Leptochiton algesirensis,,preysOn
+130085,,Gibbula umbilicalis,,preysOn
+130085,47629,Caprella,,preysOn
+130085,245452,Stenothoidae,,preysOn
+130085,59806,Gammaridae,,preysOn
+130085,,Synisoma,,preysOn
+130085,526549,Palaemon adspersus,Baltic prawn,preysOn
+130085,482996,Modiolula phaseolina,Bean Mussel,preysOn
+130085,,Leucothoidae,,preysOn
+130085,60692,Munnidae,Spiderwitchers,preysOn
+130085,203392,Jaera,,preysOn
+130085,245461,Halacaridae,,preysOn
+130085,172073,Rissoidae,Spire-shells,preysOn
+130085,246632,Barleeia,Barleysnails,preysOn
+130085,194018,Spirorbis spirorbis,Coil Worm,preysOn
+130085,,Omalogyra atomus,,preysOn
+130085,83718,Tanaidacea,Tanaids,preysOn
+130085,,Gibbula cineraria,,preysOn
+130085,56690,Amphipholis squamata,Dwarf Brittle Star,preysOn
+130085,,Harparticoida,,preysOn
+130085,498442,Solecurtus strigilatus,rosy razor clam,preysOn
+130085,113533,Symphodus melops,Corkwing Wrasse,preysOn
+130085,418792,Phorcus lineatus,Lined Top Shell,preysOn
+130085,152975,Pagurus bernhardus,Common Hermit Crab,preysOn
+130085,,Membranipora membranaceae,,preysOn
+130085,118706,Gobius paganellus,Rock Goby,preysOn
+130085,118895,Anemonia viridis,snakelocks anemone,preysOn
+130085,120553,Cancer pagurus,Edible Crab,preysOn
+130085,130085,Actinia equina,Beadlet anemone,preyedUponBy
+130085,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+130085,118669,Diplodus sargus,White Bream,preyedUponBy

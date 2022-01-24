@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48295,67333,Bacteria,bacteria,eats
+48295,,saphrophytes,,eats
+48295,,leaf litter,,eats
+48295,,mykorrhiza,,eats
+48295,52932,Cantharidae,Soldier Beetles,preyedUponBy
+48295,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+48295,47951,Staphylinidae,Rove Beetles,preyedUponBy
+48295,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+48295,739596,Lithobius mutabilis,,preyedUponBy
+48295,537133,Lithobius crassipes,,preyedUponBy
+48295,,Lithobius,,preyedUponBy
+48295,,Malthodes,,preyedUponBy

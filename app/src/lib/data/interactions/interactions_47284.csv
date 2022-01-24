@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47284,50928,Palaemonidae,palaemonid shrimps,eats
+47284,47114,Gastropoda,Gastropods,eats
+47284,49506,Portunidae,Swimming Crabs,eats
+47284,49796,Stomatopoda,Mantis Shrimps,eats
+47284,47125,Angiospermae,flowering plants,eats
+47284,180708,Stegastes leucostictus,Beaugregory,eats
+47284,49428,Bodianus rufus,Spanish Hogfish,eats
+47284,,Alpheidae,,eats
+47284,248353,Mithrax,,eats
+47284,121195,Acanthurus chirurgus,Doctorfish,eats
+47284,,Panopeidae,,eats
+47284,51042,Penaeidae,Penaeid Shrimps,eats
+47284,48312,Abudefduf,Sergeant Majors,eats
+47284,,Malacoctenus macropus,,eats
+47284,,Pitho,,eats
+47284,49272,Halichoeres bivittatus,Slippery Dick,eats
+47284,49946,Halichoeres garnoti,Yellowhead Wrasse,eats
+47284,,Sparisoma,,eats
+47284,49491,Thalassoma bifasciatum,Caribbean Bluehead Wrasse,eats
+47284,,Clibanarius tricolor,,eats
+47284,49264,Haemulon,,eats
+47284,121669,Stenopus hispidus,Banded Coral Shrimp,eats
+47284,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+47284,26085,Crocodylus acutus,American Crocodile,preyedUponBy

@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144542,47178,Actinopterygii,Ray-finned Fishes,eats
+144542,63770,Engraulis mordax,Northern Anchovy,eats
+144542,85611,Atherinidae,Old World Silversides,eats
+144542,92583,Trachurus,Jack Mackerels,eats
+144542,85777,Exocoetidae,Flyingfishes,eats
+144542,121639,Brachyura,True Crabs,eats
+144542,47459,Cephalopoda,Cephalopods,eats
+144542,85493,Crustacea,Crustaceans,eats
+144542,51912,Engraulis,,eats
+144542,47186,Decapoda,Decapods,eats
+144542,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+144542,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+144542,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+144542,328042,Engraulis japonicus,Japanese Anchovy,eats
+144542,254742,Astyris lunata,Lunate Dove Shell,eats
+144542,,Gnathostomata,,eats
+144542,55398,Solea,,eats
+144542,,Frigidoalvania cruenta,,eats
+144542,,Teuthida,,eats
+144542,87865,Decapterus,,eats
+144542,,Kondakovia longimana,,eats
+144542,502271,Engraulis australis,Australian Anchovy,eats
+144542,51910,Engraulis encrasicolus,European Anchovy,eats
+144542,47525,Pleuronectidae,Righteye Flounders,eats
+144542,82337,Loligo,,eats
+144542,447397,Engraulis anchoita,Argentine Anchoita,eats
+144542,146888,Illex,Shortfin Squids,eats
+144542,63770,Engraulis mordax,Northern Anchovy,preysOn
+144542,55535,Sardinops sagax,Pacific Sardine,preysOn
+144542,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+144542,86453,Anchoa,,preysOn
+144542,63687,Embiotocidae,Surfperches,preysOn
+144542,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+144542,,Leuresthes tenuis,,preysOn
+144542,,Falco peregrinus anatum,,preyedUponBy

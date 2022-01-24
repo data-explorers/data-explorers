@@ -1,0 +1,131 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41740,63770,Engraulis mordax,Northern Anchovy,eats
+41740,47459,Cephalopoda,Cephalopods,eats
+41740,41860,Enhydra lutris,Sea Otter,eats
+41740,47178,Actinopterygii,Ray-finned Fishes,eats
+41740,47115,Mollusca,Molluscs,eats
+41740,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+41740,3,Aves,Birds,eats
+41740,4519,Uria aalge,Common Murre,eats
+41740,48407,Raja,,eats
+41740,49604,Mola,,eats
+41740,114756,Umbrina roncador,Yellowfin croaker,eats
+41740,54191,Oncorhynchus tshawytscha,Chinook Salmon,eats
+41740,,Genyonemus lineatus,,eats
+41740,114274,Trachurus symmetricus,Pacific Jack Mackerel,eats
+41740,179447,Trachurus lathami,Rough Scad,eats
+41740,105599,Merluccius productus,Pacific Hake,eats
+41740,115227,Zalembius rosaceus,Pink Seaperch,eats
+41740,113700,Synodus lucioceps,California Lizardfish,eats
+41740,,Gnathostomata,,eats
+41740,,Cheilopogon pinnatibarbatus,,eats
+41740,101176,Galeorhinus galeus,School Shark,eats
+41740,,Hippoglossina stomata,,eats
+41740,94801,Atherinops affinis,Topsmelt Silverside,eats
+41740,253534,Carinaria lamarckii,Lamarck's nautilus,eats
+41740,112423,Sebastolobus alascanus,Shortspine Thornyhead,eats
+41740,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+41740,216485,Ceratoscopelus townsendi,Dogtooth Lanternfish,eats
+41740,60021,Porichthys notatus,Plainfin Midshipman,eats
+41740,,Frigidoalvania cruenta,,eats
+41740,89655,Lycodes,,eats
+41740,,Careproctus melanurus,,eats
+41740,117545,Parophrys vetulus,English sole,eats
+41740,105388,Medialuna californiensis,Halfmoon,eats
+41740,110361,Prionace glauca,Blue Shark,eats
+41740,,Xeneretmus triacanthus,,eats
+41740,232054,Symbolophorus californiensis,Bigfin Lanternfish,eats
+41740,,Argentina sialis,,eats
+41740,180031,Microstomus pacificus,Pacific Dover Sole,eats
+41740,52552,Oxyjulis californica,senorita,eats
+41740,104926,Lyopsetta exilis,Slender Sole,eats
+41740,254036,Melanella conoidea,,eats
+41740,,Xeneretmus ritteri,,eats
+41740,97759,Chromis punctipinnis,Blacksmith Chromis,eats
+41740,48415,Citharichthys sordidus,Pacific sanddab,eats
+41740,,Seriphus politus,,eats
+41740,81963,Girella nigricans,Opaleye,eats
+41740,53699,Semicossyphus pulcher,California sheephead,eats
+41740,52297,Triakis semifasciata,Leopard Shark,eats
+41740,107572,Oncorhynchus keta,Chum Salmon,eats
+41740,47516,Oncorhynchus mykiss,Rainbow Trout,eats
+41740,51392,Morone saxatilis,Striped Bass,eats
+41740,,Platyrhinoidis triseriata,,eats
+41740,96740,Caranx crysos,Blue Runner,eats
+41740,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+41740,4756,Cathartes aura,Turkey Vulture,eatenBy
+41740,114756,Umbrina roncador,Yellowfin croaker,eatenBy
+41740,8010,Corvus corax,Common Raven,eatenBy
+41740,84996,Carcharhinus leucas,Bull Shark,eatenBy
+41740,50873,Carcharodon carcharias,Great White Shark,eatenBy
+41740,41521,Orcinus orca,Orca,eatenBy
+41740,35347,Amblyrhynchus cristatus,Marine Iguana,eatenBy
+41740,107194,Notorynchus cepedianus,Broadnose Sevengill Shark,eatenBy
+41740,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+41740,63770,Engraulis mordax,Northern Anchovy,preysOn
+41740,47456,Octopus,,preysOn
+41740,85910,Myctophidae,Lanternfishes,preysOn
+41740,47459,Cephalopoda,Cephalopods,preysOn
+41740,4519,Uria aalge,Common Murre,preysOn
+41740,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+41740,47762,Sebastes,Rockfishes,preysOn
+41740,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+41740,105599,Merluccius productus,Pacific Hake,preysOn
+41740,55535,Sardinops sagax,Pacific Sardine,preysOn
+41740,85949,Osmeridae,Smelts,preysOn
+41740,97375,Chilara taylori,Spotted Cusk-eel,preysOn
+41740,117569,Microgadus proximus,Pacific Tomcod,preysOn
+41740,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+41740,52539,Ophiodon elongatus,Lingcod,preysOn
+41740,47525,Pleuronectidae,Righteye Flounders,preysOn
+41740,117571,Clupea pallasii,Pacific herring,preysOn
+41740,54191,Oncorhynchus tshawytscha,Chinook Salmon,preysOn
+41740,63687,Embiotocidae,Surfperches,preysOn
+41740,89420,Lepophidium,,preysOn
+41740,,Neobythites,,preysOn
+41740,232054,Symbolophorus californiensis,Bigfin Lanternfish,preysOn
+41740,115227,Zalembius rosaceus,Pink Seaperch,preysOn
+41740,,Onychoteuthis borealijaponicus,,preysOn
+41740,337528,Gonatidae,Armhook Squids,preysOn
+41740,64464,Sebastes jordani,Shortbelly Rockfish,preysOn
+41740,180031,Microstomus pacificus,Pacific Dover Sole,preysOn
+41740,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+41740,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+41740,180030,Glyptocephalus zachirus,Rex Sole,preysOn
+41740,94802,Atherinopsis californiensis,Jack Silverside,preysOn
+41740,337529,Gonatus,Gonate Squids,preysOn
+41740,117545,Parophrys vetulus,English sole,preysOn
+41740,,Berryteuthis,,preysOn
+41740,,Octopus rubescens,,preysOn
+41740,104926,Lyopsetta exilis,Slender Sole,preysOn
+41740,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+41740,117542,Citharichthys stigmaeus,speckled sanddab,preysOn
+41740,47522,Oncorhynchus,Pacific Salmons and Trouts,preysOn
+41740,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+41740,111616,Rhacochilus vacca,Pile surfperch,preysOn
+41740,51353,Anoplopoma fimbria,Sablefish,preysOn
+41740,113994,Thaleichthys pacificus,Eulachon,preysOn
+41740,47516,Oncorhynchus mykiss,Rainbow Trout,preysOn
+41740,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",preysOn
+41740,48452,Oxylebius pictus,Painted greenling,preysOn
+41740,48454,Hexagrammidae,Greenlings,preysOn
+41740,432791,Gonatopsis,,preysOn
+41740,231540,Stenobrachius leucopsarus,Northern Lampfish,preysOn
+41740,63691,Cololabis saira,Pacific Saury,preysOn
+41740,232317,Tarletonbeania crenularis,Blue Lanternfish,preysOn
+41740,,Zaniolepis,,preysOn
+41740,117561,Phanerodon furcatus,White surfperch,preysOn
+41740,48416,Citharichthys,,preysOn
+41740,222146,Icelinus tenuis,Spotfin Sculpin,preysOn
+41740,222155,Icichthys lockingtoni,Medusafish,preysOn
+41740,432422,Gonatopsis borealis,Boreopacific Armhook Squid,preysOn
+41740,,Pleuronectiformes,,preysOn
+41740,179447,Trachurus lathami,Rough Scad,preysOn
+41740,,Genyonemus lineatus,,preysOn
+41740,52297,Triakis semifasciata,Leopard Shark,preysOn
+41740,51491,Myliobatis californica,Bat Ray,preysOn
+41740,,Beringraja binoculata,,preysOn
+41740,41755,Eumetopias jubatus,Steller Sea Lion,preyedUponBy
+41740,50873,Carcharodon carcharias,Great White Shark,preyedUponBy
+41740,107194,Notorynchus cepedianus,Broadnose Sevengill Shark,preyedUponBy
+41740,103503,Isistius brasiliensis,Smalltooth Cookiecutter Shark,preyedUponBy

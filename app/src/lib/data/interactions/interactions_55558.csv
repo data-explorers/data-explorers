@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55558,72165,Helichrysum,Everlasting-flowers,eatenBy
+55558,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+55558,17355,Vireo,Vireos,eatenBy
+55558,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+55558,7294,Eremophila alpestris,Horned Lark,eatenBy
+55558,11867,Progne subis,Purple Martin,eatenBy
+55558,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+55558,114127,Thymallus thymallus,Grayling,eatenBy
+55558,,Northern myotis,,eatenBy
+55558,,Aphloia theiformis,,eatenBy
+55558,,Faujasiopsis flexuosa erecta,,eatenBy
+55558,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+55558,157153,Claoxylon,,eatenBy
+55558,,Polyscias,,eatenBy
+55558,,Psiadia terebinthina,,eatenBy
+55558,5017,Bubulcus ibis,Cattle Egret,eatenBy
+55558,11855,Petrochelidon fulva,Cave Swallow,eatenBy
+55558,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+55558,,Empidonax traillii,,eatenBy
+55558,,Oporornis philadelphia,,eatenBy
+55558,,Setophaga virens,,eatenBy
+55558,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+55558,,Alectoris chukar,,eatenBy
+55558,1240,Dendragapus,Blue Grouse,eatenBy
+55558,,Vireo flavifrons,,eatenBy
+55558,17408,Vireo griseus,White-eyed Vireo,eatenBy
+55558,17394,Vireo gilvus,Warbling Vireo,eatenBy
+55558,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+55558,19577,Chordeiles minor,Common Nighthawk,eatenBy
+55558,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+55558,13732,Anthus rubescens,American Pipit,eatenBy
+55558,,Dendroica kirtlandii,,eatenBy
+55558,72165,Helichrysum,Everlasting-flowers,pollinates
+55558,,Aphloia theiformis,,pollinates
+55558,,Faujasiopsis flexuosa,,pollinates
+55558,,Psiadia terebinthina,,pollinates
+55558,157153,Claoxylon,,pollinates
+55558,,Polyscias,,pollinates
+55558,,Phyllostomus hastatus,,preyedUponBy
+55558,,Hypsugo ariel,,preyedUponBy
+55558,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+55558,183176,Asellia tridens,Geoffroy's Trident Leaf-nosed Bat,preyedUponBy
+55558,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+55558,245993,Rhinopoma hardwickii,Lesser Mouse-tailed Bat,preyedUponBy
+55558,320633,Rhinolophus clivosus,Geoffroy's horseshoe bat,preyedUponBy
+55558,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+55558,765528,Hypsugo savii,Savi's Pipistrelle,preyedUponBy
+55558,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+55558,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+55558,40629,Lasionycteris noctivagans,Silver-haired Bat,preyedUponBy
+55558,40342,Myotis californicus,California Myotis,preyedUponBy
+55558,,Myotis volans,,preyedUponBy
+55558,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy
+55558,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy

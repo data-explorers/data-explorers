@@ -1,0 +1,105 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+132021,120489,Sarcophaga,Common Flesh Flies,eats
+132021,,Musca autumnalis,,eats
+132021,172978,Atheta,vexing rove beetles,eats
+132021,131918,Platystethus,,eats
+132021,,Saltella sphondylii,,eats
+132021,,http://treatment.plazi.org/id/0399D01683183203A4E0FE6966BFFCE2,,eats
+132021,131906,Oxytelus,,eats
+132021,,Parasitus,,eats
+132021,,Macrocheles,,eats
+132021,,Cercyon,,eats
+132021,,bovine or equine dung,,eats
+132021,,Oxysarcodexia conclausa,,eats
+132021,,Ravinia lherminieri,,eats
+132021,,Ravinia planifrons,,eats
+132021,,parasitus (unspec.),,eats
+132021,,Sepsis,,eats
+132021,,M. autumnalis first instar,,eats
+132021,,M. autumnalis second instar,,eats
+132021,,R. planifrons larvae,,eats
+132021,,O. conclausa larvae,,eats
+132021,,R. l'herminieri larvae,,eats
+132021,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+132021,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+132021,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+132021,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+132021,11867,Progne subis,Purple Martin,eatenBy
+132021,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+132021,17013,Sayornis nigricans,Black Phoebe,eatenBy
+132021,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+132021,12716,Turdus merula,Eurasian Blackbird,eatenBy
+132021,11941,Riparia riparia,Bank Swallow,eatenBy
+132021,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+132021,47951,Staphylinidae,Rove Beetles,preysOn
+132021,48292,Philoscia muscorum,Common Striped Woodlouse,preysOn
+132021,57652,Trombidiidae,True Velvet Mites,preysOn
+132021,47371,Theridiidae,Cobweb Spiders,preysOn
+132021,47345,Agelenidae,Funnel Weavers,preysOn
+132021,132021,Philonthus,,preysOn
+132021,47208,Coleoptera,Beetles,preysOn
+132021,52932,Cantharidae,Soldier Beetles,preysOn
+132021,53248,Elateridae,Click Beetles,preysOn
+132021,67662,Geophilomorpha,Soil Centipedes,preysOn
+132021,132015,Rugilus,,preysOn
+132021,121483,Julidae,,preysOn
+132021,,Hahniidae,,preysOn
+132021,,Lithobius,,preysOn
+132021,496759,Geophilus insculptus,,preysOn
+132021,784286,Micrargus apertus,,preysOn
+132021,784185,Saloca diceros,,preysOn
+132021,705967,Harpactea lepida,,preysOn
+132021,203236,Quedius,,preysOn
+132021,,Porcellium conspersum,,preysOn
+132021,,Cryphoeca,,preysOn
+132021,876506,Nargus anisotomoides,,preysOn
+132021,,Geophilus ribauti,,preysOn
+132021,,Lamprohiza splendidula,,preysOn
+132021,553746,Glomeris connexa,,preysOn
+132021,783596,Ceratinella brevis,,preysOn
+132021,218587,Discus rotundatus,Rounded Snail,preysOn
+132021,494566,Athous subfuscus,,preysOn
+132021,230519,Schendyla nemorensis,,preysOn
+132021,,Eurypleuromeris conspersa,,preysOn
+132021,778699,Macrargus rufus,,preysOn
+132021,,Euophrys frontalis,,preysOn
+132021,,Cylisticus,,preysOn
+132021,,Neon reticulatus,,preysOn
+132021,,Microneta viaria,,preysOn
+132021,,Campodea,,preysOn
+132021,521083,Strigamia acuminata,,preysOn
+132021,203275,Xantholinus,,preysOn
+132021,233615,Walckenaeria cuspidata,Tipped Sheet-web Weaver,preysOn
+132021,490815,Neobisium carcinoides,Moss Neobisid,preysOn
+132021,784196,Walckenaeria cucullata,,preysOn
+132021,360817,Coelotes,,preysOn
+132021,537133,Lithobius crassipes,,preysOn
+132021,,Trachelipus ratzeburgii,,preysOn
+132021,180684,Enchytraeidae,Potworms,preysOn
+132021,407287,Lithobius melanops,,preysOn
+132021,127023,Amaurobius,Lace web spider,preysOn
+132021,,Hahnia pusilla,,preysOn
+132021,,Glomeris undulata,,preysOn
+132021,784149,Diplocephalus picinus,,preysOn
+132021,739596,Lithobius mutabilis,,preysOn
+132021,,Athous,,preysOn
+132021,526528,Anelasmocephalus cambridgei,,preysOn
+132021,205480,Trichoniscus,,preysOn
+132021,783981,Tapinocyba insecta,,preysOn
+132021,153747,Robertus,,preysOn
+132021,56081,Glomeris,,preysOn
+132021,,Trichoniscus pusillus,,preysOn
+132021,,Athous vittatus,,preysOn
+132021,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+132021,132021,Philonthus,,preyedUponBy
+132021,537133,Lithobius crassipes,,preyedUponBy
+132021,,Pterostichus burmeisteri,,preyedUponBy
+132021,,Lithobius,,preyedUponBy
+132021,,Crychus caraboides,,preyedUponBy
+132021,521083,Strigamia acuminata,,preyedUponBy
+132021,407287,Lithobius melanops,,preyedUponBy
+132021,,Geophilus ribauti,,preyedUponBy
+132021,605685,Coelotes terrestris,,preyedUponBy
+132021,739596,Lithobius mutabilis,,preyedUponBy
+132021,496759,Geophilus insculptus,,preyedUponBy
+132021,230519,Schendyla nemorensis,,preyedUponBy

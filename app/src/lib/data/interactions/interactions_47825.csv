@@ -1,0 +1,183 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47825,47797,Actiniaria,Sea Anemones,eats
+47825,54644,Ulva,sea lettuces,eats
+47825,48824,Porifera,Sponges,eats
+47825,68104,Bryozoa,Bryozoans,eats
+47825,47490,Polychaeta,Polychaete Worms,eats
+47825,67423,Ulva lactuca,broadleaf sea lettuce,eats
+47825,48216,Fucus vesiculosus,bladder wrack,eats
+47825,50862,Codium,Codiums,eats
+47825,343398,Saccorhiza polyschides,Furbellow,eats
+47825,130178,Sargassum,Sargassum,eats
+47825,123632,Corallina officinalis,Common Coralline,eats
+47825,123633,Porphyra,Nori,eats
+47825,47534,Cnidaria,Cnidarians,eats
+47825,49282,Sabellidae,Feather Duster Worms,eats
+47825,49052,Anthopleura,,eats
+47825,117700,Cucumaria,,eats
+47825,48394,Gymnolaemata,,eats
+47825,48921,Hydrozoa,Hydrozoans,eats
+47825,551473,Hydroidolina,Hydroids,eats
+47825,,Valonia macrophysa,,eats
+47825,131319,Dictyosphaeria cavernosa,,eats
+47825,,Gelidium sp.,,eats
+47825,,Jania intermedia,,eats
+47825,,Dictyopteris macrocarpa,,eats
+47825,1180401,Gracilaria corticata,,eats
+47825,50926,Caulerpa racemosa,Sea Grapes,eats
+47825,,Chamaedoris delphinii,,eats
+47825,706056,Laurencia pumila,,eats
+47825,559953,Halimeda cuneata,Wedgeweed,eats
+47825,1266342,Valoniopsis pachynema,,eats
+47825,331032,Parvocaulis parvulus,Daisy Green Seaweed,eats
+47825,1131124,Sargassum aquifolium,,eats
+47825,828842,Chondria armata,,eats
+47825,131266,Caulerpa cupressoides,cactus tree alga,eats
+47825,67675,Hypnea,,eats
+47825,,Benthic autotrophs,,eats
+47825,,Zooplankton,,eats
+47825,89967,Millepora,Fire Corals,eats
+47825,,Gorgonacea,,eats
+47825,,Detritus,,eats
+47825,128190,Geodia,,eats
+47825,1226571,Einhornia arctica,,eats
+47825,,Phytoplankton,,eats
+47825,,Prymnesiophyceae,,eats
+47825,57779,Asparagopsis armata,Harpoonweed,eats
+47825,129737,Colpomenia peregrina,Oyster-thief,eats
+47825,,Cystoseira tamariscifolia,,eats
+47825,182852,Sphacelaria cirrosa,,eats
+47825,461577,Ellisolandia elongata,,eats
+47825,203723,Ceramium virgatum,,eats
+47825,343396,Bifurcaria bifurcata,,eats
+47825,502380,Leathesia marina,Sea Cauliflower,eats
+47825,505597,Cladophora rupestris,,eats
+47825,790283,Gelidium corneum,,eats
+47825,130176,Chondrus crispus,Irish moss,eats
+47825,,Gelidium spinosum,,eats
+47825,558165,Gracilariopsis longissima,,eats
+47825,51024,Dictyota dichotoma,Forked ribbons,eats
+47825,1027504,Ceramium ciliatum,,eats
+47825,,Dictyopteris membranacea,,eats
+47825,,Foraminiferida,,eats
+47825,51711,Urticina piscivora,fish-eating anemone,eats
+47825,,Detritus complex,,eats
+47825,49071,Metridium senile,Plumose Anemone,eats
+47825,186854,Halichondria panicea,Bread-crumb Sponge,eats
+47825,256088,Periphylla periphylla,Helmet Jelly,eats
+47825,210294,Lipophrys pholis,Shanny,eatenBy
+47825,117533,Clinocottus analis,Woolly Sculpin,eatenBy
+47825,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+47825,4519,Uria aalge,Common Murre,eatenBy
+47825,47716,Majidae,Typical Spider Crabs,eatenBy
+47825,1171863,Ophiosparte gigas,,eatenBy
+47825,41751,Arctocephalus gazella,Antarctic Fur Seal,eatenBy
+47825,,Trematomus bernacchii,,eatenBy
+47825,118665,Diplodus annularis,Annular Seabream,eatenBy
+47825,118706,Gobius paganellus,Rock Goby,eatenBy
+47825,117538,Oligocottus snyderi,Fluffy Sculpin,eatenBy
+47825,117550,Gibbonsia montereyensis,Crevice Kelpfish,eatenBy
+47825,,Lepidonotothen nudifrons,,eatenBy
+47825,103911,Labrus bergylta,Ballan Wrasse,eatenBy
+47825,445777,Chrysoblephus laticeps,Roman Seabream,eatenBy
+47825,459190,Lycodes eudipleurostictus,Doubleline Eelpout,eatenBy
+47825,146828,Syngnathus fuscus,Northern Pipefish,eatenBy
+47825,57741,Amphiprion melanopus,Blackback Anemonefish,eatenBy
+47825,,Trematomus scotti,,eatenBy
+47825,344375,Chrysiptera rex,Pink Demoiselle,eatenBy
+47825,113202,Stethojulis bandanensis,Redshoulder Wrasse,eatenBy
+47825,55186,Pomacentrus,,eatenBy
+47825,102063,Halichoeres nebulosus,Cloud Wrasse,eatenBy
+47825,118718,Callionymus maculatus,Spotted Dragonet,eatenBy
+47825,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,eatenBy
+47825,49491,Thalassoma bifasciatum,Caribbean Bluehead Wrasse,eatenBy
+47825,120607,Nezumia aequalis,Common Atlantic Grenadier,eatenBy
+47825,131450,Dibranchus atlanticus,Atlantic Batfish,eatenBy
+47825,108614,Paranthias furcifer,Atlantic Creolefish,eatenBy
+47825,179464,Symphurus plagiusa,Blackcheek Tonguefish,eatenBy
+47825,63740,Gadus morhua,Atlantic Cod,eatenBy
+47825,113984,Thalassoma noronhanum,Noronha Wrasse,eatenBy
+47825,371729,Notothenia neglecta,Yellowbelly Rockcod,eatenBy
+47825,123807,Paralithodes camtschaticus,Red King Crab,eatenBy
+47825,217661,Cottunculus microps,Polar Sculpin,eatenBy
+47825,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47825,320792,Sebastes viviparus,Norway redfish,eatenBy
+47825,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47825,430553,Merlangius merlangus,Whiting,eatenBy
+47825,445960,Enneapterygius melanospilus,,eatenBy
+47825,120659,Pempheris vanicolensis,Vanikoro Sweeper,eatenBy
+47825,118642,Tripterygion delaisi,Black-faced blenny,eatenBy
+47825,619774,Natalichthys sam,,eatenBy
+47825,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+47825,113534,Symphodus ocellatus,Ocellated Wrasse,eatenBy
+47825,113529,Symphodus cinereus,Grey Wrasse,eatenBy
+47825,224197,Lycodes terraenovae,Atlantic Eelpout,eatenBy
+47825,117536,Enophrys bison,Buffalo Sculpin,eatenBy
+47825,89655,Lycodes,,eatenBy
+47825,87642,Coryphaenoides,,eatenBy
+47825,123805,Paralithodes,,eatenBy
+47825,89716,Malacocottus,,eatenBy
+47825,67316,Anoplarchus purpurescens,High Cockscomb,eatenBy
+47825,53607,Polynoidae,Scaleworms,eatenBy
+47825,88813,Hemilepidotus,Irish Lords,eatenBy
+47825,229837,Reinhardtius hippoglossoides,Greenland Halibut,eatenBy
+47825,47524,Pleuronectes,,eatenBy
+47825,3978,Actitis hypoleucos,Common Sandpiper,eatenBy
+47825,3879,Tringa totanus,Common Redshank,eatenBy
+47825,4896,Pluvialis fulva,Pacific Golden-Plover,eatenBy
+47825,293159,Astropecten marginatus,,eatenBy
+47825,117305,Physalia,Man O' Wars,preysOn
+47825,48921,Hydrozoa,Hydrozoans,preysOn
+47825,68104,Bryozoa,Bryozoans,preysOn
+47825,47797,Actiniaria,Sea Anemones,preysOn
+47825,48824,Porifera,Sponges,preysOn
+47825,482451,Boreotrophon truncatus,Bobtail Trophon,preysOn
+47825,338433,Heteromastus filiformis,,preysOn
+47825,,Menestho albula,,preysOn
+47825,,Oenopota impressa,,preysOn
+47825,487285,Retusa obtusa,Arctic Barrel-bubble,preysOn
+47825,,Menestho truncatula,,preysOn
+47825,337282,Lumbrineris,,preysOn
+47825,,Cylichna oculata,,preysOn
+47825,,Margarites striatus,,preysOn
+47825,,Levinsenia gracilis,,preysOn
+47825,1023040,Nephtys ciliata,,preysOn
+47825,,Nereimyra punctata,,preysOn
+47825,1023077,Boreocingula castanea,,preysOn
+47825,869513,Solariella varicosa,,preysOn
+47825,49853,Philine,,preysOn
+47825,873876,Euspira pallida,,preysOn
+47825,130213,Buccinum undatum,Common Whelk,preysOn
+47825,,Buccinum terranovae,,preysOn
+47825,482205,Puncturella noachina,Noah's Keyhole Limpet,preysOn
+47825,49790,Cylichna alba,,preysOn
+47825,,Buccinum scalariforme,,preysOn
+47825,,Malmgreniella lunulata,,preysOn
+47825,1212222,Erginus rubellus,,preysOn
+47825,,Frigidoalvania cruenta,,preysOn
+47825,347330,Nereis zonata,,preysOn
+47825,482208,Lepeta caeca,Northern Blind Limpet,preysOn
+47825,1223802,Elachisina globuloides,,preysOn
+47825,,Leitoscoloplos mammosus,,preysOn
+47825,,Margarites helicinus,,preysOn
+47825,,Lysippe labiata,,preysOn
+47825,,Glycera capitata,,preysOn
+47825,604865,Zoanthus sansibaricus,Violet Zoanthids,preysOn
+47825,649711,Anemonia natalensis,Natal Anemone,preysOn
+47825,681060,Palythoa nelliae,Columnar Sandy Zoanthid,preysOn
+47825,51280,Nemertea,Ribbon Worms,preysOn
+47825,,benthic filter feeding invertebrates,,preysOn
+47825,,Zooplankton,,preysOn
+47825,,Sea,,preysOn
+47825,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+47825,,Crossaster papposus,,preyedUponBy
+47825,49491,Thalassoma bifasciatum,Caribbean Bluehead Wrasse,preyedUponBy
+47825,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,preyedUponBy
+47825,1171863,Ophiosparte gigas,,preyedUponBy
+47825,,Trematomus hansoni,,preyedUponBy
+47825,,Antarctinoe spicoides,,preyedUponBy
+47825,390305,Harmothoe spinosa,,preyedUponBy
+47825,,Trematomus scotti,,preyedUponBy
+47825,,Epimeria macrodonta,,preyedUponBy
+47825,608620,Artedidraco orianae,,preyedUponBy
+47825,1030306,Eulagisca gigantea,Antarctic Scaleworm,preyedUponBy

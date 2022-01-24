@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53912,85493,Crustacea,Crustaceans,eats
+53912,47178,Actinopterygii,Ray-finned Fishes,eats
+53912,,unindentified,,eats
+53912,,Gnathostomata,,eats
+53912,41777,Lontra canadensis,North American River Otter,eatenBy
+53912,116999,Pandion haliaetus,Osprey,preyedUponBy

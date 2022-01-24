@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47852,43584,Homo sapiens,Human,eatenBy
+47852,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+47852,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+47852,18236,Colaptes auratus,Northern Flicker,eatenBy
+47852,34,Grus americana,Whooping Crane,eatenBy
+47852,,Grus canadensis,,eatenBy
+47852,1280,Colinus virginianus,Northern Bobwhite,eatenBy

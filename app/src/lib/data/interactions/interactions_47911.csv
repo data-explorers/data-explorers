@@ -1,0 +1,66 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47911,47911,Asclepias syriaca,common milkweed,eats
+47911,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+47911,48662,Danaus plexippus,Monarch,eatenBy
+47911,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+47911,81677,Euchaetes egle,Milkweed Tussock Moth,eatenBy
+47911,71154,Aphis nerii,Oleander Aphid,eatenBy
+47911,55556,Oncopeltus fasciatus,Large Milkweed Bug,eatenBy
+47911,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+47911,118559,Tetraopes tetrophthalmus,Red Milkweed Beetle,eatenBy
+47911,47980,Speyeria cybele,Great Spangled Fritillary,eatenBy
+47911,1081323,Lon hobomok,Hobomok Skipper,eatenBy
+47911,67760,Popillia japonica,Japanese Beetle,eatenBy
+47911,47911,Asclepias syriaca,common milkweed,eatenBy
+47911,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+47911,58576,Phyciodes cocyta,Northern Crescent,eatenBy
+47911,58509,Anatrytone logan,Delaware Skipper,eatenBy
+47911,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+47911,84640,Polistes dominula,European Paper Wasp,eatenBy
+47911,62045,Lygaeus kalmii,Small Milkweed Bug,eatenBy
+47911,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+47911,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+47911,118492,Helicoverpa zea,Corn Earworm Moth,eatenBy
+47911,48549,Vanessa virginiensis,American Lady,eatenBy
+47911,84752,Microcentrum rhombifolium,Greater Anglewing,eatenBy
+47911,47219,Apis mellifera,Western Honey Bee,eatenBy
+47911,,Spodoptera eridania,,eatenBy
+47911,,Papaipema nebris,,eatenBy
+47911,,Cycnia tenera,,eatenBy
+47911,,Hemaris diffinis,,eatenBy
+47911,,Bembix americana spinolae,,eatenBy
+47911,,Liriomyza asclepiadis,,eatenBy
+47911,,Rhyssomatus lineaticollis,,eatenBy
+47911,127133,Hyphantria cunea,Fall Webworm Moth,eatenBy
+47911,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,eatenBy
+47911,,Xylocopa virginica,,eatenBy
+47911,119013,Ctenucha virginica,Virginia Ctenucha Moth,eatenBy
+47911,,Cisseps fulvicollis,,eatenBy
+47911,,Lygaeus kalmii angustomarginatus,,eatenBy
+47911,,Brachiacantha ursina,,eatenBy
+47911,48957,Arilus cristatus,Wheel Bug,eatenBy
+47911,324726,Lycorma delicatula,Spotted Lanternfly,eatenBy
+47911,,Labidomera clivicollis,,eatenBy
+47911,67691,Lophocampa maculata,Spotted Tussock Moth,eatenBy
+47911,62456,Rhagonycha fulva,Common Red Soldier Beetle,eatenBy
+47911,58513,Polites mystic,Long Dash,eatenBy
+47911,,Satyrium calanus,,eatenBy
+47911,,Chrysochus auratus,,eatenBy
+47911,,Papilio troilus,,eatenBy
+47911,,Lygaeus turcicus,,eatenBy
+47911,,Megachile mendica,,eatenBy
+47911,,Galactomyia,,eatenBy
+47911,,Cosmosalia chrysocoma,,eatenBy
+47911,,Cucullia speyeri,,eatenBy
+47911,,Cycnia collaris,,eatenBy
+47911,48505,Junonia coenia,Common Buckeye,eatenBy
+47911,,Phyllopalpus pulchellus,,eatenBy
+47911,,Halysidota,,eatenBy
+47911,,Megachile sculpturalis,,eatenBy
+47911,,Bombus citrinus,,eatenBy
+47911,48549,Vanessa virginiensis,American Lady,pollinatedBy
+47911,48662,Danaus plexippus,Monarch,pollinatedBy
+47911,58523,Papilio polyxenes,Black Swallowtail,pollinatedBy
+47911,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+47911,,Satyrium calanus,,pollinatedBy
+47911,,Erynnis lucilius,,pollinatedBy

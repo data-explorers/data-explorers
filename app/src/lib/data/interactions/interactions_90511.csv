@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+90511,3878,Tringa nebularia,Common Greenshank,eatenBy
+90511,26159,Alligator mississippiensis,American Alligator,eatenBy
+90511,,Anguilla obscura,,eatenBy
+90511,118709,Lichia amia,Leerfish,eatenBy
+90511,5063,Anhinga anhinga,Anhinga,eatenBy
+90511,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+90511,116999,Pandion haliaetus,Osprey,preyedUponBy
+90511,5063,Anhinga anhinga,Anhinga,preyedUponBy
+90511,4943,Egretta garzetta,Little Egret,preyedUponBy
+90511,,Ardea cocoi,,preyedUponBy

@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+480298,53104,Hypochaeris radicata,Common Cat's-ear,eats
+480298,55410,Raphanus sativus,wild radish,eats
+480298,53211,Senecio vulgaris,common groundsel,eats
+480298,81545,Lumbricus terrestris,Common Earthworm,eats
+480298,,http://treatment.plazi.org/id/7F917C528F9F87A9DE65D7F2564AC0D3,,eats
+480298,168442,Satureja montana,Winter Savory,eats
+480298,,Lupinus arboreus,,eats
+480298,,Lycium ferocissimum,,eats
+480298,52363,Gomphocarpus,,eats
+480298,,Volvopluteus gloiocephalus,,eats
+480298,,Duberria lutrix,,eatenBy
+480298,891696,Pica pica,Eurasian Magpie,eatenBy
+480298,12748,Turdus philomelos,Song Thrush,eatenBy
+480298,,Polyspilota aeruginosa,,eatenBy
+480298,,Bufo spinosus,,eatenBy
+480298,480298,Cornu aspersum,Garden Snail,pollinates
+480298,480298,Cornu aspersum,Garden Snail,pollinatedBy
+480298,40151,Mammalia,Mammals,preyedUponBy
+480298,338206,Drilus flavescens,,preyedUponBy
+480298,,Urocyon littoralis dickeyi,,preyedUponBy

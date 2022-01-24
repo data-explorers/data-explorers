@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129148,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+129148,17355,Vireo,Vireos,eatenBy
+129148,,Anthus spragueii,,eatenBy
+129148,55748,Veronica arvensis,corn speedwell,pollinates
+129148,49868,Aquilegia canadensis,red columbine,pollinates
+129148,130373,Coreopsis palmata,Prairie Coreopsis,pollinates
+129148,,http://treatment.plazi.org/id/D7B2F2192735F23359A1A47FAD416FC3,,pollinates
+129148,,Ammannia coccinea,,pollinates
+129148,,Clematis pitcheri,,pollinates
+129148,,Vitis vulpina,,pollinates
+129148,,Boechera laevigata,,pollinates

@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123467,47178,Actinopterygii,Ray-finned Fishes,eats
+123467,85493,Crustacea,Crustaceans,eats
+123467,121639,Brachyura,True Crabs,eats
+123467,123467,Nautilus pompilius,Emperor Nautilus,eats
+123467,47115,Mollusca,Molluscs,eats
+123467,,Gnathostomata,,eats
+123467,123467,Nautilus pompilius,Emperor Nautilus,eatenBy
+123467,123467,Nautilus pompilius,Emperor Nautilus,preysOn
+123467,123467,Nautilus pompilius,Emperor Nautilus,preyedUponBy
+123467,,no name,,preyedUponBy

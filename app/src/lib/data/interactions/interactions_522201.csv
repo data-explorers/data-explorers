@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+522201,42051,Canis latrans,Coyote,eatenBy
+522201,42007,Puma concolor,Mountain Lion,eatenBy
+522201,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+522201,20044,Bubo virginianus,Great Horned Owl,eatenBy
+522201,41676,Bassariscus astutus,Ringtail,eatenBy
+522201,42066,Vulpes velox,Swift Fox,eatenBy
+522201,4644,Falco mexicanus,Prairie Falcon,eatenBy
+522201,20307,Asio otus,Long-eared Owl,eatenBy
+522201,,Aquila chrysaetos,,eatenBy
+522201,19959,Strix occidentalis,Spotted Owl,eatenBy
+522201,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+522201,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+522201,,Crotalus viridis,,preyedUponBy
+522201,,Crotalus pyrrhus,,preyedUponBy

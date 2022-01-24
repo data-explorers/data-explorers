@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48394,152275,Thalassiosirales,,eats
+48394,67333,Bacteria,bacteria,eats
+48394,123880,Bacillariophyceae,Diatoms,eats
+48394,50863,Chlorophyta,green algae,eats
+48394,774725,Pyramimonadophyceae,,eats
+48394,,Prymnesiophyceae,,eats
+48394,,Chrysophyta,,eats
+48394,47426,Tonicella,,eatenBy
+48394,47716,Majidae,Typical Spider Crabs,eatenBy
+48394,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+48394,49052,Anthopleura,,eatenBy
+48394,48174,Paguridae,Pagurid Hermit Crabs,eatenBy
+48394,47630,Mopalia,,eatenBy
+48394,3874,Tringa,"Shanks, Tattlers, and Allies",eatenBy
+48394,49725,Pugettia,,eatenBy
+48394,47825,Pycnogonida,Pycnogonids,eatenBy
+48394,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+48394,41766,Odobenus rosmarus,Walrus,eatenBy
+48394,47665,Henricia,Blood Stars,eatenBy
+48394,89645,Lumpenus,,eatenBy
+48394,371725,Solaster endeca,Purple Sun Star,eatenBy
+48394,49071,Metridium senile,Plumose Anemone,eatenBy
+48394,47454,Triopha catalinae,Sea Clown Triopha,eatenBy
+48394,495552,Hermissenda crassicornis,Thick-horned Nudibranch,eatenBy
+48394,47632,Katharina tunicata,Black Leather Chiton,eatenBy
+48394,53607,Polynoidae,Scaleworms,eatenBy
+48394,63382,Dermasterias imbricata,Leather Star,eatenBy
+48394,361770,Chionoecetes opilio,Snow Crab,eatenBy
+48394,107570,Oncorhynchus gorbuscha,Pink Salmon,eatenBy
+48394,117538,Oligocottus snyderi,Fluffy Sculpin,eatenBy
+48394,,Crossaster papposus,,eatenBy
+48394,123805,Paralithodes,,eatenBy
+48394,340493,Octocorallia,Octocorals,eatenBy
+48394,86422,Amphistichus,,eatenBy
+48394,123880,Bacillariophyceae,Diatoms,preysOn
+48394,67333,Bacteria,bacteria,preysOn
+48394,,Zooplankton,,preysOn
+48394,,Phytoplankton,,preysOn
+48394,48174,Paguridae,Pagurid Hermit Crabs,preyedUponBy
+48394,49052,Anthopleura,,preyedUponBy
+48394,47426,Tonicella,,preyedUponBy
+48394,47645,Cottidae,Typical Sculpins,preyedUponBy
+48394,49725,Pugettia,,preyedUponBy
+48394,47630,Mopalia,,preyedUponBy
+48394,,Zooplankton,,preyedUponBy
+48394,47632,Katharina tunicata,Black Leather Chiton,preyedUponBy
+48394,619164,Pholis crassispina,,preyedUponBy
+48394,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy
+48394,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+48394,371725,Solaster endeca,Purple Sun Star,preyedUponBy
+48394,495552,Hermissenda crassicornis,Thick-horned Nudibranch,preyedUponBy
+48394,49071,Metridium senile,Plumose Anemone,preyedUponBy
+48394,47665,Henricia,Blood Stars,preyedUponBy

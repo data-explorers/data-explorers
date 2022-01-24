@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42540,26036,Reptilia,Reptiles,eats
+42540,40352,Myotis grisescens,Gray Bat,eats
+42540,41973,Lynx,Lynxes,eatenBy
+42540,41970,Panthera onca,Jaguar,eatenBy
+42540,41987,Leopardus tigrinus,Northern Tigrina,eatenBy
+42540,40522,Lasiurus borealis,Eastern Red Bat,preysOn
+42540,29103,Philodryas mattogrossensis,Miranda Green Racer,preyedUponBy
+42540,28627,Spilotes pullatus,Chicken Snake,preyedUponBy

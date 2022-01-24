@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51271,85127,Lepomis microlophus,Redear Sunfish,eats
+51271,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+51271,107889,Oreochromis mossambicus,Mozambique Tilapia,preysOn
+51271,67731,Anax junius,Common Green Darner,preysOn

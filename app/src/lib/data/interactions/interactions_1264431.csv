@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1264431,44062,Thomomys bottae,Botta's Pocket Gopher,eats
+1264431,505478,Gallus gallus domesticus,Domestic Chicken,eats
+1264431,43096,Sylvilagus,Cottontail Rabbits,eats
+1264431,43698,Rodentia,Rodents,eats
+1264431,43112,Sylvilagus bachmani,Brush Rabbit,eats
+1264431,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+1264431,43096,Sylvilagus,Cottontail Rabbits,preysOn
+1264431,44349,Peromyscus,North American Deer Mice,preysOn
+1264431,,Barisia imbricata,,preysOn
+1264431,47049,Parascalops breweri,Hairy-tailed Mole,preysOn

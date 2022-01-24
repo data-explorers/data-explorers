@@ -1,0 +1,83 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+46341,55746,Misumena vatia,Goldenrod Crab Spider,eats
+46341,28362,Thamnophis sirtalis,Common Garter Snake,eats
+46341,28557,Storeria occipitomaculata,Red-bellied Snake,eats
+46341,44396,Peromyscus maniculatus,Deer Mouse,eats
+46341,47158,Insecta,Insects,eats
+46341,56893,Philanthus,Beewolves,eats
+46341,28562,Storeria dekayi,Dekay's Brownsnake,eats
+46341,28423,Thamnophis butleri,Butler's Garter Snake,eats
+46341,73788,Plestiodon fasciatus,Common Five-lined Skink,eats
+46341,24267,Pseudacris triseriata,Western Chorus Frog,eats
+46341,26729,Ambystoma annulatum,Ringed Salamander,eats
+46341,,Operophtera brumata,,eats
+46341,130411,Abax,,eats
+46341,,alpine vegetation,,eats
+46341,,Invertebrata,,eats
+46341,,deermice,,eats
+46341,,winter moth,,eats
+46341,,soil insects - mites,,eats
+46341,42051,Canis latrans,Coyote,eatenBy
+46341,41976,Lynx rufus,Bobcat,eatenBy
+46341,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+46341,42069,Vulpes vulpes,Red Fox,eatenBy
+46341,50001,Terrapene carolina carolina,Eastern Box Turtle,eatenBy
+46341,19893,Strix varia,Barred Owl,eatenBy
+46341,41801,Mustela,,eatenBy
+46341,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+46341,20044,Bubo virginianus,Great Horned Owl,eatenBy
+46341,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+46341,4756,Cathartes aura,Turkey Vulture,eatenBy
+46341,20445,Tyto alba,Barn Owl,eatenBy
+46341,851014,Canis aureus,Golden Jackal,eatenBy
+46341,,Canis mesomelas,,eatenBy
+46341,42042,Caracal caracal,Caracal,eatenBy
+46341,,Herpestes urva,,eatenBy
+46341,922459,Felis silvestris,European Wildcat,eatenBy
+46341,41796,Martes martes,Eurasian Pine Marten,eatenBy
+46341,41798,Martes americana,American Marten,eatenBy
+46341,41800,Martes foina,Stone Marten,eatenBy
+46341,41808,Mustela erminea,Eurasian Stoat,eatenBy
+46341,41812,Mustela putorius,Western Polecat,eatenBy
+46341,41805,Mustela lutreola,European Mink,eatenBy
+46341,569428,Mustela nivalis,Least Weasel,eatenBy
+46341,,Neovison vison,,eatenBy
+46341,,Martes pennanti,,eatenBy
+46341,41795,Martes zibellina,Sable,eatenBy
+46341,360830,Carabus coriaceus,,eatenBy
+46341,460842,Oiceoptoma thoracicum,Red-breasted Carrion Beetle,eatenBy
+46341,,Tchagra senegalus orientalis,,eatenBy
+46341,,Coyote,,eatenBy
+46341,,Hiodon alosoides,,eatenBy
+46341,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+46341,19890,Strix nebulosa,Great Gray Owl,eatenBy
+46341,19959,Strix occidentalis,Spotted Owl,eatenBy
+46341,5017,Bubulcus ibis,Cattle Egret,eatenBy
+46341,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+46341,,Deermice,,preysOn
+46341,42051,Canis latrans,Coyote,preyedUponBy
+46341,19893,Strix varia,Barred Owl,preyedUponBy
+46341,30851,Bitis arietans,Puff Adder,preyedUponBy
+46341,,Lamprophis lineatus,,preyedUponBy
+46341,30853,Bitis gabonica,Gaboon Viper,preyedUponBy
+46341,30924,Vipera latastei,Lataste's Viper,preyedUponBy
+46341,,Cryptelytrops albolabris,,preyedUponBy
+46341,30743,Crotalus lepidus klauberi,Banded Rock Rattlesnake,preyedUponBy
+46341,,Bitis nasicornis,,preyedUponBy
+46341,966698,Vipera berus,Adder,preyedUponBy
+46341,,Trimeresurus gracilis,,preyedUponBy
+46341,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+46341,29760,Boaedon fuliginosus,Brown House Snake,preyedUponBy
+46341,,Lamprophis olivaceus,,preyedUponBy
+46341,29752,Boaedon virgatus,Hallowell's House Snake,preyedUponBy
+46341,,Euprepiophis mandarinus,,preyedUponBy
+46341,,Trimeresurus stejnegeri stejnegeri,,preyedUponBy
+46341,26904,Coronella austriaca,Smooth Snake,preyedUponBy
+46341,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,preyedUponBy
+46341,,Ardeola ralloides,,preyedUponBy
+46341,472766,Falco tinnunculus,Eurasian Kestrel,preyedUponBy
+46341,20356,Aegolius acadicus,Northern Saw-whet Owl,preyedUponBy
+46341,,Tchagra senegalus orientalis,,preyedUponBy
+46341,,Protobothrops jerdonii,,preyedUponBy
+46341,,Xenopeltis unicolor,,preyedUponBy
+46341,31024,Ovophis monticola,Chinese Mountain Pit Viper,preyedUponBy

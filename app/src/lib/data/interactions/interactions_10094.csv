@@ -1,0 +1,109 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10094,1,Animalia,Animals,eats
+10094,211194,Tracheophyta,vascular plants,eats
+10094,47120,Arthropoda,Arthropods,eats
+10094,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+10094,47434,Poaceae,grasses,eats
+10094,47158,Insecta,Insects,eats
+10094,47124,Magnoliopsida,dicots,eats
+10094,47157,Lepidoptera,Butterflies and Moths,eats
+10094,47208,Coleoptera,Beetles,eats
+10094,50829,Viola,violets,eats
+10094,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10094,51146,Chrysomelidae,Leaf Beetles,eats
+10094,49567,Carabidae,Ground Beetles,eats
+10094,48972,Polygonum,knotweeds,eats
+10094,48736,Curculionidae,True Weevils,eats
+10094,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",eats
+10094,47336,Formicidae,Ants,eats
+10094,62781,Camponotus,Carpenter and Sugar Ants,eats
+10094,53248,Elateridae,Click Beetles,eats
+10094,81769,Blattodea,Cockroaches and Termites,eats
+10094,48987,Hippodamia convergens,Convergent Lady Beetle,eats
+10094,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+10094,48915,Cylindrocopturus,,eats
+10094,53237,Cicadellidae,Typical Leafhoppers,eats
+10094,47822,Diptera,Flies,eats
+10094,61267,Heteroptera,True Bugs,eats
+10094,48194,Psyllidae,jumping plant lice,eats
+10094,47121,Lupinus,lupines,eats
+10094,57190,Phleum pratense,Timothy grass,eats
+10094,52841,Anthemis cotula,Stinking chamomile,eats
+10094,51876,Trifolium,clovers,eats
+10094,53112,Brassica nigra,Black Mustard,eats
+10094,57922,Centaurea melitensis,Maltese star-thistle,eats
+10094,53196,Rumex,docks,eats
+10094,52195,Silene,Catchflies,eats
+10094,79141,Solanum nigrum,black nightshade,eats
+10094,47687,Erodium cicutarium,Redstem Stork's-bill,eats
+10094,52698,Avena fatua,wild oat,eats
+10094,53269,Sonchus asper,prickly sowthistle,eats
+10094,48571,Carex,true sedges,eats
+10094,53036,Ambrosia,ragweeds,eats
+10094,136329,Pinopsida,conifers,eats
+10094,58991,Portulaca oleracea,Common Purslane,eats
+10094,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+10094,60301,Panicum,panicgrasses,eats
+10094,53298,Stellaria media,common chickweed,eats
+10094,58732,Toxicodendron radicans,poison ivy,eats
+10094,77835,Lonicera japonica,Japanese honeysuckle,eats
+10094,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+10094,53179,Polygonum arenastrum,Oval Leaf Knotweed,eats
+10094,179916,Tipulomorpha,Crane Flies,eats
+10094,52932,Cantharidae,Soldier Beetles,eats
+10094,48807,Umbellularia californica,California bay,eats
+10094,184884,Pterygota,Winged and Once-winged Insects,eats
+10094,50892,Euphydryas chalcedona,Variable Checkerspot,eats
+10094,117440,Eutrochium maculatum,spotted Joe-Pye weed,eats
+10094,54052,Pyracantha,firethorns,eats
+10094,,Non-biological,,eats
+10094,,Archips fumiferana,,eats
+10094,,Scolytus ventralis,,eats
+10094,,Dendroctonus brevicomis,,eats
+10094,,Euchelicerata,,eats
+10094,,Priacma,,eats
+10094,,Dichelonyx,,eats
+10094,218223,Dendroctonus valens,Red Turpentine Beetle,eats
+10094,,Amaranthus retroflexus,,eats
+10094,,Claytonia perfoliata,,eats
+10094,,Madia sativa,,eats
+10094,,Spergula arvensis,,eats
+10094,,Calandrinia ciliata,,eats
+10094,53075,Geranium dissectum,Cut-leaved crane's-bill,eats
+10094,,shrubs,,eats
+10094,54793,Lindera benzoin,northern spicebush,eats
+10094,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+10094,54777,Cornus florida,flowering dogwood,eats
+10094,,Saccharum ravennae,,eats
+10094,,Vernonia noveboracensis,,eats
+10094,46260,Tamiasciurus hudsonicus,American Red Squirrel,eatenBy
+10094,5085,Accipiter,Accipiters,eatenBy
+10094,41801,Mustela,,eatenBy
+10094,520586,Tamias,,eatenBy
+10094,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+10094,28339,Thamnophis,Garter Snakes,eatenBy
+10094,46023,Sciurus griseus,Western Gray Squirrel,eatenBy
+10094,20044,Bubo virginianus,Great Horned Owl,eatenBy
+10094,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+10094,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+10094,20445,Tyto alba,Barn Owl,eatenBy
+10094,559070,Lanius excubitor,Great Gray Shrike,eatenBy
+10094,41798,Martes americana,American Marten,eatenBy
+10094,,Thamnophis elegans elegans,,eatenBy
+10094,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+10094,20315,Asio flammeus,Short-eared Owl,eatenBy
+10094,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+10094,20307,Asio otus,Long-eared Owl,eatenBy
+10094,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+10094,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+10094,558512,Lanius borealis,Northern Shrike,eatenBy
+10094,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+10094,144594,Bubo scandiacus,Snowy Owl,eatenBy
+10094,119171,Meconema,,preysOn
+10094,81687,Noctua pronuba,Large Yellow Underwing,preysOn
+10094,47158,Insecta,Insects,preysOn
+10094,47794,Raphidioptera,Snakeflies,preysOn
+10094,118552,Felis catus,Domestic Cat,preysOn
+10094,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+10094,118552,Felis catus,Domestic Cat,preyedUponBy
+10094,19812,Glaucidium gnoma,Northern Pygmy-Owl,preyedUponBy

@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+882,155309,Culex quinquefasciatus,Southern House Mosquito,eatenBy
+882,42069,Vulpes vulpes,Red Fox,eatenBy
+882,20044,Bubo virginianus,Great Horned Owl,eatenBy
+882,4756,Cathartes aura,Turkey Vulture,eatenBy
+882,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+882,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+882,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+882,,Mustela frenata,,eatenBy
+882,,Python molurus bivittatus,,eatenBy
+882,26068,Crocodylus porosus,Saltwater Crocodile,eatenBy
+882,56629,Psammophis mossambicus,Olive Whip Snake,eatenBy
+882,41641,Ursus arctos,Brown Bear,eatenBy
+882,,Aquila chrysaetos,,eatenBy
+882,4765,Coragyps atratus,Black Vulture,eatenBy
+882,64968,Anaxyrus americanus,American Toad,preysOn
+882,119019,Vespa velutina,Yellow-legged Hornet,preysOn
+882,,Plethodon,,preysOn
+882,27726,Salamandra salamandra,Fire Salamander,preysOn
+882,,Desmognathus monticola,,preysOn
+882,27805,Notophthalmus viridescens,Eastern Newt,preysOn
+882,27380,Desmognathus,Dusky Salamanders,preysOn
+882,27186,Plethodon cinereus,Eastern Red-backed Salamander,preysOn
+882,27398,Desmognathus quadramaculatus,Black-bellied Salamander,preysOn
+882,,Gyrinophilus porphyriticus,,preysOn
+882,95866,Boiruna maculata,False Mussurana,preyedUponBy
+882,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+882,539045,Paraphimophis rusticus,Brown Musurana,preyedUponBy
+882,,Chironius fuscus,,preyedUponBy
+882,106446,Naja annulifera,Snouted Cobra,preyedUponBy
+882,,Boa constrictor amarali,,preyedUponBy
+882,,Python sebae,,preyedUponBy
+882,32191,Liasis fuscus,Water Python,preyedUponBy
+882,30335,Drymarchon corais,Indigo Snake,preyedUponBy
+882,30448,Bungarus fasciatus,Banded Krait,preyedUponBy
+882,27187,Clelia clelia,Common Mussurana,preyedUponBy
+882,540223,Spilotes sulphureus,Amazon Puffing Snake,preyedUponBy
+882,,Pantherophis alleghaniensis,,preyedUponBy
+882,30479,Naja haje,Egyptian Cobra,preyedUponBy
+882,,Dolichophis jugularis asianus,,preyedUponBy
+882,27697,Boiga cyanea,Green Cat Snake,preyedUponBy
+882,320680,Pantherophis vulpinus,Eastern Foxsnake,preyedUponBy
+882,30488,Naja mossambica,Mozambique Spitting Cobra,preyedUponBy
+882,,Hypsignathus,,preyedUponBy
+882,,Hypsignathus monstrosus,,preyedUponBy
+882,,Hoplobatrachus tigerinus,,preyedUponBy
+882,,Pyxicephalus adspersus,,preyedUponBy

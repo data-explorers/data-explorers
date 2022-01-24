@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81942,468067,Zadontomerus,,eatenBy
+81942,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+81942,126545,Dialictus,Metallic Sweat Bees,eatenBy
+81942,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+81942,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+81942,,Haploa confusa,,eatenBy
+81942,,Anthophora abrupta,,eatenBy
+81942,,Anthophora terminalis,,eatenBy
+81942,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+81942,,Xylocopa virginica,,eatenBy
+81942,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+81942,47157,Lepidoptera,Butterflies and Moths,pollinatedBy

@@ -1,0 +1,114 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51911,85514,Cyclopoida,Cyclopoid Copepods,eats
+51911,151827,Chaetognatha,Arrow Worms,eats
+51911,47534,Cnidaria,Cnidarians,eats
+51911,85493,Crustacea,Crustaceans,eats
+51911,1,Animalia,Animals,eats
+51911,85507,Calanoida,Calanoid Copepods,eats
+51911,,Phytoplankton,,eats
+51911,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+51911,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+51911,47186,Decapoda,Decapods,eatenBy
+51911,3,Aves,Birds,eatenBy
+51911,47232,Carangidae,Jacks,eatenBy
+51911,47459,Cephalopoda,Cephalopods,eatenBy
+51911,51552,Seriola,Amberjacks,eatenBy
+51911,41687,Phocidae,Earless Seals,eatenBy
+51911,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eatenBy
+51911,4345,Larus occidentalis,Western Gull,eatenBy
+51911,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+51911,56943,Katsuwonus pelamis,Skipjack Tuna,eatenBy
+51911,132473,Lagodon rhomboides,Pinfish,eatenBy
+51911,114122,Thunnus alalunga,Albacore,eatenBy
+51911,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+51911,41566,Megaptera novaeangliae,Humpback Whale,eatenBy
+51911,4940,Egretta thula,Snowy Egret,eatenBy
+51911,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+51911,4343,Larus,Large White-headed Gulls,eatenBy
+51911,3797,Sula leucogaster,Brown Booby,eatenBy
+51911,4519,Uria aalge,Common Murre,eatenBy
+51911,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+51911,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+51911,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+51911,,Chondrichthyes,,eatenBy
+51911,,Detritus,,eatenBy
+51911,82353,Merluccius,Hakes,eatenBy
+51911,179621,Atractoscion aequidens,Teraglin,eatenBy
+51911,94609,Argyrosomus hololepidotus,Madagascar Meagre,eatenBy
+51911,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+51911,152871,Cetacea,Cetaceans,eatenBy
+51911,47258,Thyrsites atun,Barracouta,eatenBy
+51911,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+51911,4293,Phalacrocorax capillatus,Japanese Cormorant,eatenBy
+51911,,Larus crassirostris,,eatenBy
+51911,4453,Sterna sumatrana,Black-naped Tern,eatenBy
+51911,26068,Crocodylus porosus,Saltwater Crocodile,eatenBy
+51911,179630,Citharichthys spilopterus,Bay Whiff,eatenBy
+51911,179466,Strongylura notata notata,Redfin needlefish,eatenBy
+51911,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+51911,56937,Oligoplites saurus,Leather Jack,eatenBy
+51911,111747,Rhizoprionodon lalandii,Brazilian Sharpnose Shark,eatenBy
+51911,103531,Isogomphodon oxyrhynchus,Daggernose Shark,eatenBy
+51911,106625,Nasolamia velox,Whitenose Shark,eatenBy
+51911,607504,Pseudobatos horkelii,Brazilian Guitarfish,eatenBy
+51911,49437,Centropomus undecimalis,Common Snook,eatenBy
+51911,368232,Chirocentrus nudus,Whitefin Wolf Herring,eatenBy
+51911,368231,Chirocentrus dorab,Dorab Wolf Herring,eatenBy
+51911,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+51911,67991,Psettichthys melanostictus,Sand Sole,eatenBy
+51911,119719,Istiophorus platypterus,Indo-Pacific Sailfish,eatenBy
+51911,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+51911,177104,Auxis thazard,Frigate Tuna,eatenBy
+51911,,Macruronus magellanicus,,eatenBy
+51911,53692,Oncorhynchus kisutch,Coho Salmon,eatenBy
+51911,52539,Ophiodon elongatus,Lingcod,eatenBy
+51911,49165,Larimus breviceps,Shorthead Drum,eatenBy
+51911,51404,Trichiurus lepturus,Largehead Hairtail,eatenBy
+51911,50984,Pomatomus saltatrix,Bluefish,eatenBy
+51911,317477,Micropogonias furnieri,Whitemouth Croaker,eatenBy
+51911,49513,Cynoscion,Weakfishes,eatenBy
+51911,179547,Menticirrhus saxatilis,Northern Kingfish,eatenBy
+51911,179482,Porichthys plectrodon,Atlantic Midshipman,eatenBy
+51911,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+51911,109743,Plectropomus leopardus,Leopard Coralgrouper,eatenBy
+51911,609913,Oligoplites palometa,Maracaibo Leather Jack,eatenBy
+51911,154501,Cynoscion nothus,Silver Seatrout,eatenBy
+51911,51392,Morone saxatilis,Striped Bass,eatenBy
+51911,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+51911,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+51911,47229,Selar crumenophthalmus,Bigeye Scad,eatenBy
+51911,82352,Merlucciidae,Merlucciid Hakes,eatenBy
+51911,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+51911,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+51911,179633,Chloroscombrus chrysurus,Atlantic Bumper,eatenBy
+51911,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+51911,131388,Haemulon melanurum,Cottonwick,eatenBy
+51911,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+51911,179456,Stellifer lanceolatus,American Stardrum,eatenBy
+51911,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+51911,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+51911,49637,Epinephelus morio,Red Grouper,eatenBy
+51911,620314,Isopisthus parvipinnis,,eatenBy
+51911,245762,Acanthopagrus latus,Yellowfin Seabream,eatenBy
+51911,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+51911,781410,Balaenoptera edeni edeni,,eatenBy
+51911,,Enhydrina schistosa,,eatenBy
+51911,,Larus saundersi,,eatenBy
+51911,,Ichthyaetus ichthyaetus,,eatenBy
+51911,4428,Sterna aurantia,River Tern,eatenBy
+51911,4264,Phalacrocorax fuscicollis,Indian Cormorant,eatenBy
+51911,,Phalacrocorax niger,,eatenBy
+51911,,Larus brunnicephalus,,eatenBy
+51911,,Pelecanus crispus,,eatenBy
+51911,4461,Sterna acuticauda,Black-bellied Tern,eatenBy
+51911,4356,Larus canus,Mew Gull,eatenBy
+51911,4336,Pelecanus philippensis,Spot-billed Pelican,eatenBy
+51911,,Larus relictus,,eatenBy
+51911,4631,Fregata magnificens,Magnificent Frigatebird,eatenBy
+51911,3786,Sula nebouxii,Blue-footed Booby,eatenBy
+51911,144537,Hydroprogne caspia,Caspian Tern,preyedUponBy
+51911,4519,Uria aalge,Common Murre,preyedUponBy
+51911,4631,Fregata magnificens,Magnificent Frigatebird,preyedUponBy
+51911,52539,Ophiodon elongatus,Lingcod,preyedUponBy
+51911,200388,Hydrophis hardwickii,Hardwicke’s Spine-bellied Seasnake,preyedUponBy
+51911,318698,Hydrophis schistosus,Common Seasnake,preyedUponBy

@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56121,13858,Passer domesticus,House Sparrow,eatenBy
+56121,2969,Streptopelia decaocto,Eurasian Collared-Dove,eatenBy
+56121,59119,Pontia protodice,Checkered White,eatenBy
+56121,59124,Anthocharis sara,Sara Orangetip,eatenBy
+56121,55626,Pieris rapae,Cabbage White,eatenBy
+56121,309466,Aphis gossypii,Melon Aphid,eatenBy
+56121,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+56121,1409,Callipepla californica,California Quail,eatenBy
+56121,,Sitobion miscanthi,,eatenBy
+56121,,http://treatment.plazi.org/id/6105C6702134FEC7F7A2DAD630312E42,,eatenBy
+56121,,Pieris canidia,,eatenBy
+56121,,Anthocharis scolymus,,eatenBy
+56121,,Harpalus affinis,,eatenBy
+56121,,Harpalus rufipes,,eatenBy
+56121,131931,Pterostichus melanarius,Rain-beetle,eatenBy
+56121,,Poecilus cupreus,,eatenBy
+56121,,Amara conularis,,eatenBy
+56121,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+56121,,Carduelis chloris,,eatenBy
+56121,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+56121,,Columba palumbus,,eatenBy
+56121,,Anthocharis cardamines,,eatenBy
+56121,69844,Anthocharis midea,Falcate Orangetip,eatenBy
+56121,,Pieris brassicae,,eatenBy
+56121,,Acyrthosiphon pisum,,eatenBy
+56121,,Thrips tabaci,,eatenBy
+56121,,Myzus persicae,,eatenBy
+56121,,Leptophobia eleone,,eatenBy
+56121,,Leptophobia aripa,,eatenBy
+56121,,Liriomyza huidobrensis,,eatenBy
+56121,,Ceutorhynchus erysimi,,eatenBy
+56121,,Phaedon cochleariae,,eatenBy
+56121,,Sitobion avenae avenae,,eatenBy
+56121,,Chromatomyia horticola,,eatenBy
+56121,,Albugo candida,,eatenBy
+56121,70192,Eurydema oleracea,Cabbage Bug,eatenBy
+56121,,Hyaloperonospora parasitica,,eatenBy
+56121,,Coenonympha california california,,eatenBy
+56121,7176,Chenonetta jubata,Australian Wood Duck,eatenBy
+56121,145360,Chloris chloris,European Greenfinch,eatenBy
+56121,81959,Cerceris,Typical Weevil Wasps and Allies,pollinatedBy
+56121,52965,Sphaerophoria,Globetails,pollinatedBy
+56121,47652,Erynnis,Duskywings,pollinatedBy
+56121,57677,Halictus,Furrow Bees,pollinatedBy
+56121,131029,Prionyx,,pollinatedBy
+56121,120114,Anthrenus,Carpet Beetles,pollinatedBy
+56121,,Bicyrtes ventralis,,pollinatedBy
+56121,,Brachypalpus,,pollinatedBy
+56121,,Anoplius virginiensis,,pollinatedBy
+56121,,Onthophagus pennsylvanicus,,pollinatedBy
+56121,,Phasia aldrichii,,pollinatedBy
+56121,572115,Pseudopanurgus labrosus,,pollinatedBy
+56121,,Ophyra leucostoma ,,pollinatedBy
+56121,,Pentaria trifasciata,,pollinatedBy
+56121,,Typocerus,,pollinatedBy
+56121,626642,Coelioxys rufitarsis,Red-footed Cuckoo Leafcutter,pollinatedBy
+56121,,Calythea nigricans,,pollinatedBy
+56121,,Euphorus,,pollinatedBy
+56121,,Elachiptera costata,,pollinatedBy
+56121,,Mordellistena,,pollinatedBy
+56121,,Formica rufibarbis,,pollinatedBy
+56121,,Sepsis violacea,,pollinatedBy
+56121,,Trichopoda pennipes,,pollinatedBy
+56121,,Gonia sequax,,pollinatedBy
+56121,,Coelioxys alternata,,pollinatedBy
+56121,,Helophilus latifrons,,pollinatedBy
+56121,133100,Spilomyia,Hornet Flies,pollinatedBy
+56121,,Triepeolus donatus,,pollinatedBy
+56121,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+56121,,Eumyotheria illinoensis,,pollinatedBy
+56121,,Coelioxys sayi,,pollinatedBy
+56121,,Poecilopompilus,,pollinatedBy
+56121,,Empis otiosa,,pollinatedBy
+56121,320563,Anthocomus,,pollinatedBy
+56121,,Arge,,pollinatedBy
+56121,,Bombylius undatus ,,pollinatedBy
+56121,,http://treatment.plazi.org/id/588934C5A3D81B78F71DEEB7F083B91E,,pollinatedBy
+56121,,Metallinella,,pollinatedBy
+56121,,Andrena,,pollinatedBy
+56121,,Episyrphus balteatus,,pollinatedBy
+56121,,Andrena humilis,,pollinatedBy
+56121,,Dasytes striatulus ,,pollinatedBy
+56121,,Self pollinated,,pollinatedBy

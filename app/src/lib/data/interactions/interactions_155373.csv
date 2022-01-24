@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+155373,64128,Eucalyptus camaldulensis,river redgum,eats
+155373,51815,Eucalyptus,eucalyptus,eats
+155373,53398,Eucalyptus globulus,Eurabbie,eats
+155373,473531,Eucalypteae,gum trees,eats
+155373,,Eucalyptus bridgesiana,,eats
+155373,,Eucalyptus mannifera,,eats
+155373,,Eucalyptus blakelyi,,eats
+155373,,Eucalyptus tereticornis,,eats
+155373,,Eucalyptus nicholii,,eats
+155373,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+155373,145238,Setophaga petechia,Yellow Warbler,eatenBy
+155373,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+155373,,Glossopsitta concinna,,eatenBy
+155373,,Trichoglossus haematodus moluccanus,,eatenBy
+155373,,Lathamus discolor,,eatenBy

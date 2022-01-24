@@ -1,0 +1,61 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10247,47157,Lepidoptera,Butterflies and Moths,eats
+10247,47336,Formicidae,Ants,eats
+10247,47114,Gastropoda,Gastropods,eats
+10247,47118,Araneae,Spiders,eats
+10247,47208,Coleoptera,Beetles,eats
+10247,47158,Insecta,Insects,eats
+10247,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+10247,70144,Muscidae,House Flies and Allies,eats
+10247,47822,Diptera,Flies,eats
+10247,53275,Chironomidae,Non-biting Midges,eats
+10247,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+10247,48194,Psyllidae,jumping plant lice,eats
+10247,83187,Psocodea,"Barklice, Booklice, and Parasitic Lice",eats
+10247,47120,Arthropoda,Arthropods,eats
+10247,83201,Thysanoptera,Thrips,eats
+10247,47961,Cerambycidae,Longhorn Beetles,eats
+10247,132004,Scymnus,,eats
+10247,69988,Cryptocephalus,,eats
+10247,61860,Calliphoridae,Blow Flies,eats
+10247,48736,Curculionidae,True Weevils,eats
+10247,120489,Sarcophaga,Common Flesh Flies,eats
+10247,1,Animalia,Animals,eats
+10247,47199,Ichneumonidae,Ichneumonid Wasps,eats
+10247,53237,Cicadellidae,Typical Leafhoppers,eats
+10247,48008,Ephemeridae,Burrowing Mayflies,eats
+10247,62164,Trichoptera,Caddisflies,eats
+10247,52381,Aphididae,Aphids,eats
+10247,61267,Heteroptera,True Bugs,eats
+10247,49683,Pyralidae,Pyralid Snout Moths,eats
+10247,52932,Cantharidae,Soldier Beetles,eats
+10247,82067,Melyridae,Soft-winged Flower Beetles,eats
+10247,51146,Chrysomelidae,Leaf Beetles,eats
+10247,47792,Odonata,Dragonflies and Damselflies,eats
+10247,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10247,125816,Auchenorrhyncha,True Hoppers,eats
+10247,47124,Magnoliopsida,dicots,eats
+10247,48460,Life,,eats
+10247,,Euchelicerata,,eats
+10247,,Hypothenemus hampei,,eats
+10247,245001,Eucharitidae,,eats
+10247,,Platypus,,eats
+10247,,Euscepes porcellus,,eats
+10247,54944,Fulgoridae,Lanternbugs,eats
+10247,,Leptostylus,,eats
+10247,,Mordellistena,,eats
+10247,,Melormenis,,eats
+10247,,Palpada albifrons,,eats
+10247,49460,Empididae,Dance Flies,eats
+10247,61863,Cercopidae,Froghoppers,eats
+10247,,Deltocephalus,,eats
+10247,,Mydas,,eats
+10247,47822,Diptera,Flies,eatenBy
+10247,54960,Nematoda,Nematodes,eatenBy
+10247,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+10247,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+10247,19754,Megascops nudipes,Puerto Rican Screech-Owl,eatenBy
+10247,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+10247,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+10247,,Mydas,,preysOn
+10247,,Coluber constrictor priapus,,preyedUponBy

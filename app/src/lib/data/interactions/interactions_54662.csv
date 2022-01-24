@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54662,123880,Bacillariophyceae,Diatoms,eats
+54662,47126,Plantae,plants,eats
+54662,57774,Rhodophyta,red algae,eats
+54662,85493,Crustacea,Crustaceans,eats
+54662,68764,Ostracoda,Seed Shrimp,eats
+54662,48921,Hydrozoa,Hydrozoans,eats
+54662,47170,Fungi,Fungi Including Lichens,eats
+54662,1,Animalia,Animals,eats
+54662,47534,Cnidaria,Cnidarians,eats
+54662,47686,Protozoa,protozoans,eats
+54662,54960,Nematoda,Nematodes,eats
+54662,48824,Porifera,Sponges,eats
+54662,47115,Mollusca,Molluscs,eats
+54662,,Detritus,,eats
+54662,,Dinoflagellata,,eats
+54662,,diatom ORGANIC-3,,eats
+54662,,Pyrrophycophyta,,eats
+54662,61090,Ruppia maritima,widgeongrass,eats
+54662,,Prymnesiophyceae,,eats
+54662,,,,eats
+54662,,Gnathostomata,,eats
+54662,,others,,eats
+54662,,Pisces,,eats
+54662,,unidentified bacteria,,eats
+54662,,Phytoplankton,,eats
+54662,,Cyanophyta,,eats
+54662,,unidentified particulate organic matter,,eats
+54662,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+54662,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+54662,144455,Ardea alba,Great Egret,eatenBy
+54662,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+54662,69676,Thunnus,Bluefin Tunas,eatenBy
+54662,41503,Stenella frontalis,Atlantic Spotted Dolphin,eatenBy
+54662,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+54662,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+54662,53585,Carcharhinus,Typical Requiem Sharks,eatenBy
+54662,52460,Tylosurus crocodilus,Crocodile Needlefish,eatenBy
+54662,4948,Egretta rufescens,Reddish Egret,eatenBy
+54662,128750,Sciaenops ocellatus,Red Drum,eatenBy
+54662,,Morone,,eatenBy
+54662,,Hypacanthus,,eatenBy
+54662,,Johnius,,eatenBy
+54662,49509,Lutjanus griseus,Grey Snapper,eatenBy
+54662,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+54662,111752,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark,eatenBy
+54662,51402,Megalops atlanticus,Atlantic Tarpon,eatenBy
+54662,54542,Atractosteus spatula,Alligator Gar,eatenBy
+54662,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+54662,340825,Scylla serrata,Mud Crab,eatenBy
+54662,201529,Doryteuthis pleii,Slender Inshore Squid,eatenBy
+54662,102975,Huso huso,Beluga,eatenBy
+54662,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+54662,180181,Lycengraulis grossidens,Atlantic Sabretooth Anchovy,eatenBy
+54662,614047,Pterengraulis atherinoides,Wingfin Anchovy,eatenBy
+54662,51392,Morone saxatilis,Striped Bass,eatenBy
+54662,84996,Carcharhinus leucas,Bull Shark,eatenBy
+54662,56940,Sarda sarda,Atlantic Bonito,eatenBy
+54662,113902,Terapon jarbua,Crescent Grunter,eatenBy
+54662,109966,Polydactylus approximans,,eatenBy
+54662,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+54662,49964,Ginglymostoma cirratum,Nurse Shark,eatenBy
+54662,53583,Carcharhinus plumbeus,Sandbar Shark,eatenBy
+54662,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+54662,96762,Carcharhinus obscurus,Dusky Shark,eatenBy
+54662,49437,Centropomus undecimalis,Common Snook,eatenBy
+54662,106650,Negaprion brevirostris,Lemon Shark,eatenBy
+54662,,Detritus,,preysOn
+54662,116999,Pandion haliaetus,Osprey,preyedUponBy
+54662,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+54662,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+54662,29327,Nerodia cyclopion,Mississippi Green Watersnake,preyedUponBy
+54662,200388,Hydrophis hardwickii,Hardwicke’s Spine-bellied Seasnake,preyedUponBy
+54662,,Johnius,,preyedUponBy
+54662,,Hypacanthus,,preyedUponBy
+54662,,Morone,,preyedUponBy
+54662,49513,Cynoscion,Weakfishes,preyedUponBy

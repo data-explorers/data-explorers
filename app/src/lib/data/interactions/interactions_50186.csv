@@ -1,0 +1,79 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50186,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+50186,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+50186,1959,Coccyzus,Coccyzus Cuckoos,eatenBy
+50186,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+50186,9915,Piranga rubra,Summer Tanager,eatenBy
+50186,9346,Icterus galbula,Baltimore Oriole,eatenBy
+50186,1965,Coccyzus americanus,Yellow-billed Cuckoo,eatenBy
+50186,73155,Passerina caerulea,Blue Grosbeak,eatenBy
+50186,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+50186,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+50186,17009,Sayornis saya,Say's Phoebe,eatenBy
+50186,8010,Corvus corax,Common Raven,eatenBy
+50186,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+50186,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+50186,7294,Eremophila alpestris,Horned Lark,eatenBy
+50186,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+50186,1940,Scythrops novaehollandiae,Channel-billed Cuckoo,eatenBy
+50186,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+50186,85227,Hemideina crassidens,Wellington Tree Wētā,eatenBy
+50186,116396,Anolis biporcatus,Neotropical Green Anole,eatenBy
+50186,,Trichonephila clavipes,,eatenBy
+50186,,Mantis religiosa,,eatenBy
+50186,54327,Vespa crabro,European Hornet,eatenBy
+50186,72952,Icterus portoricensis,Puerto Rican Oriole,eatenBy
+50186,5017,Bubulcus ibis,Cattle Egret,eatenBy
+50186,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+50186,4645,Falco femoralis,Aplomado Falcon,eatenBy
+50186,73041,Melozone aberti,Abert's Towhee,eatenBy
+50186,18161,Melanerpes uropygialis,Gila Woodpecker,eatenBy
+50186,,Myiarchus tyrannulus,,eatenBy
+50186,17408,Vireo griseus,White-eyed Vireo,eatenBy
+50186,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+50186,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+50186,19577,Chordeiles minor,Common Nighthawk,eatenBy
+50186,6667,Cypseloides niger,Black Swift,eatenBy
+50186,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+50186,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+50186,40477,Eptesicus,House Bats,preyedUponBy
+50186,51954,Sphecius speciosus,Eastern Cicada-killer Wasp,preyedUponBy
+50186,912622,Agkistrodon contortrix,Eastern Copperhead,preyedUponBy
+50186,,Coluber flagellum flagellum,,preyedUponBy
+50186,,Elapognathus coronata,,preyedUponBy
+50186,,Carlia schmeltzii,,preyedUponBy
+50186,,Bufo marinus,,preyedUponBy
+50186,2464,Todiramphus sanctus,Sacred Kingfisher,preyedUponBy
+50186,2413,Dacelo novaeguineae,Laughing Kookaburra,preyedUponBy
+50186,,Centrops phasianus,,preyedUponBy
+50186,2417,Dacelo leachii,Blue-winged Kookaburra,preyedUponBy
+50186,37456,Tiliqua scincoides,Common Blue-tongued Skink,preyedUponBy
+50186,42808,Trichosurus vulpecula,Common Brushtail Possum,preyedUponBy
+50186,14505,Chlamydera nuchalis,Great Bowerbird,preyedUponBy
+50186,,Ctenotus taeniolatus,,preyedUponBy
+50186,,Carlia pectoralis,,preyedUponBy
+50186,2441,Todiramphus,Australo-Pacific Kingfishers,preyedUponBy
+50186,,Isoodon macrourus,,preyedUponBy
+50186,,Dicrurus bracteatus,,preyedUponBy
+50186,31215,Chlamydosaurus kingii,Frilled Lizard,preyedUponBy
+50186,40661,Rhinolophus megaphyllus,Eastern Horseshoe Bat,preyedUponBy
+50186,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+50186,41186,Nycteris grandis,Large Slit-faced Bat,preyedUponBy
+50186,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+50186,41070,Micronycteris hirsuta,hairy big-eared bat,preyedUponBy
+50186,41147,Macrotus californicus,California Leaf-nosed Bat,preyedUponBy
+50186,851034,Doryrhina cyclops,Cyclops roundleaf bat,preyedUponBy
+50186,75073,Scotorepens balstoni,Western Broad-nosed Bat,preyedUponBy
+50186,40552,Chalinolobus nigrogriseus,Hoary Wattled Bat,preyedUponBy
+50186,40544,Chalinolobus gouldii,Gould's Wattled Bat,preyedUponBy
+50186,,Taphozous georgianus,,preyedUponBy
+50186,244519,Calosoma sayi,Black Caterpillar Hunter Beetle,preyedUponBy
+50186,54327,Vespa crabro,European Hornet,preyedUponBy
+50186,1940,Scythrops novaehollandiae,Channel-billed Cuckoo,preyedUponBy
+50186,,Miomantis caffra,,preyedUponBy
+50186,324901,Aculepeira armida,,preyedUponBy
+50186,,Cermatulus nasalis nasalis,,preyedUponBy
+50186,127777,Vespula vulgaris,Common European Yellowjacket,preyedUponBy
+50186,144910,Hypsipetes amaurotis,Brown-eared Bulbul,preyedUponBy
+50186,,Mantis religiosa,,preyedUponBy
+50186,,Argiope aurantia,,preyedUponBy

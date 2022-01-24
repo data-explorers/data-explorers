@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58727,12942,Sialia sialis,Eastern Bluebird,eats
+58727,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+58727,12942,Sialia sialis,Eastern Bluebird,eatenBy
+58727,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+58727,,Aporia hippia,,eatenBy
+58727,,Coryphista meadii,,eatenBy
+58727,125071,Attacus atlas,Atlas Moth,eatenBy
+58727,451478,Arge berberidis,Berberis Sawfly,eatenBy
+58727,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+58727,57678,Lasioglossum,,pollinatedBy
+58727,,Eristalis cerealis ,,pollinatedBy
+58727,,,,pollinatedBy

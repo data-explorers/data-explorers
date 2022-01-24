@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51469,155309,Culex quinquefasciatus,Southern House Mosquito,eats
+51469,11867,Progne subis,Purple Martin,eatenBy
+51469,4940,Egretta thula,Snowy Egret,eatenBy
+51469,11901,Hirundo rustica,Barn Swallow,eatenBy
+51469,3759,Plegadis chihi,White-faced Ibis,eatenBy
+51469,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+51469,,Trichonephila clavipes,,eatenBy
+51469,51333,Macquaria australasica,Macquarie Perch,eatenBy
+51469,,Agonostomus monticola,,eatenBy
+51469,,Percichthys trucha,,eatenBy
+51469,114127,Thymallus thymallus,Grayling,eatenBy
+51469,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+51469,5017,Bubulcus ibis,Cattle Egret,eatenBy
+51469,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+51469,4938,Egretta tricolor,Tricolored Heron,eatenBy
+51469,53275,Chironomidae,Non-biting Midges,preysOn
+51469,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+51469,60393,Tipula,,preysOn
+51469,127593,Chloropidae,Frit Flies,preysOn
+51469,55351,Phoridae,Humpbacked Flies,preysOn
+51469,51953,Tachinidae,Bristle Flies,preysOn
+51469,130033,Culex,,preysOn
+51469,70144,Muscidae,House Flies and Allies,preysOn
+51469,47157,Lepidoptera,Butterflies and Moths,preysOn
+51469,61860,Calliphoridae,Blow Flies,preysOn
+51469,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+51469,127812,Hylaeus,Masked Bees,preysOn
+51469,47199,Ichneumonidae,Ichneumonid Wasps,preysOn
+51469,47992,Limoniidae,Limoniid Crane Flies,preysOn
+51469,,Sciaridae,,preysOn
+51469,,Pherbellia schoenherri,,preysOn
+51469,,Campsicnemus scambus,,preysOn
+51469,127767,Trypoxylon attenuatum,,preysOn
+51469,,Psacadina zernyi,,preysOn
+51469,,Pipinculus sp,,preysOn
+51469,,Sciasminettia frontalis,,preysOn
+51469,174422,Hybotidae,Hybotid Dance Flies,preysOn
+51469,49460,Empididae,Dance Flies,preysOn
+51469,1281108,Ilione lineata,,preysOn
+51469,,Mycetophilidae,,preysOn
+51469,,Chrysops relictus,,preysOn
+51469,495985,Limnobaris dolorosa,,preysOn
+51469,556059,Dolichopus nitidus,,preysOn
+51469,69803,Ceratopogonidae,Biting Midges,preysOn
+51469,,Haematopota,,preysOn
+51469,121357,Platycheirus,Sedgesitters,preysOn
+51469,,Ootetrastichus,,preysOn
+51469,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+51469,4643,Falco subbuteo,Eurasian Hobby,preyedUponBy
+51469,41070,Micronycteris hirsuta,hairy big-eared bat,preyedUponBy

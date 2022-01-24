@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+343269,47126,Plantae,plants,eats
+343269,123880,Bacillariophyceae,Diatoms,eats
+343269,,Detritus,,eats
+343269,,Phytoplankton,,eats
+343269,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+343269,354380,Portunus trituberculatus,Japanese Blue Crab,eatenBy
+343269,47826,Cancer productus,Red Rock Crab,preyedUponBy
+343269,52523,Carcinus maenas,European Green Crab,preyedUponBy
+343269,,no name,,preyedUponBy
+343269,,Cancer gracilis,,preyedUponBy

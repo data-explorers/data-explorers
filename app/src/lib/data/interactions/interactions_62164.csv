@@ -1,0 +1,217 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62164,117827,Corallinales,coralline algae,eats
+62164,123880,Bacillariophyceae,Diatoms,eats
+62164,47126,Plantae,plants,eats
+62164,48011,Ephemeroptera,Mayflies,eats
+62164,54960,Nematoda,Nematodes,eats
+62164,53275,Chironomidae,Non-biting Midges,eats
+62164,47822,Diptera,Flies,eats
+62164,,Algae,,eats
+62164,,Desmidiales,,eats
+62164,123865,Coscinodiscus,,eats
+62164,123888,Synedra,,eats
+62164,,Detritus,,eats
+62164,,Asellus,,eats
+62164,,bottom organic matter - benthic macroalgae,,eats
+62164,,Khakista,,eats
+62164,,diatoms (mostly Cocconeis) & desmids,,eats
+62164,47792,Odonata,Dragonflies and Damselflies,eatenBy
+62164,230433,Sassacus vitis,Buttonhook Leaf-beetle Jumping Spider,eatenBy
+62164,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+62164,47186,Decapoda,Decapods,eatenBy
+62164,101053,Fundulus diaphanus,banded killifish,eatenBy
+62164,53911,Cyprinus carpio,European Carp,eatenBy
+62164,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+62164,49591,Lepomis macrochirus,Bluegill,eatenBy
+62164,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+62164,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+62164,558433,Spatula discors,Blue-winged Teal,eatenBy
+62164,6930,Anas platyrhynchos,Mallard,eatenBy
+62164,7044,Aythya collaris,Ring-necked Duck,eatenBy
+62164,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+62164,4209,Podiceps auritus,Horned Grebe,eatenBy
+62164,473,Fulica americana,American Coot,eatenBy
+62164,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+62164,10247,Setophaga ruticilla,American Redstart,eatenBy
+62164,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+62164,6993,Bucephala albeola,Bufflehead,eatenBy
+62164,7043,Aythya,"Scaups, Pochards, and Allies",eatenBy
+62164,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+62164,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+62164,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+62164,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+62164,6915,Cygnus buccinator,Trumpeter Swan,eatenBy
+62164,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+62164,41376,Taphozous melanopogon,Black-bearded Tomb Bat,eatenBy
+62164,40711,Aselliscus stoliczkanus,Stoliczka's Trident Bat,eatenBy
+62164,47518,Salmo trutta,Brown Trout,eatenBy
+62164,,Coregonus lavaretus,,eatenBy
+62164,69989,Rutilus rutilus,Common Roach,eatenBy
+62164,48648,Salmo salar,Atlantic Salmon,eatenBy
+62164,114127,Thymallus thymallus,Grayling,eatenBy
+62164,109062,Perca fluviatilis,European Perch,eatenBy
+62164,94105,Anguilla anguilla,European Eel,eatenBy
+62164,,Northern myotis,,eatenBy
+62164,,Little brown myotis,,eatenBy
+62164,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+62164,,Barbus paludinosus,,eatenBy
+62164,82782,Serranochromis robustus,Yellow-belly Bream,eatenBy
+62164,482055,Perla bipunctata,Large Stonefly,eatenBy
+62164,109315,Phoxinus phoxinus,European Minnow,eatenBy
+62164,,Eleutherodactylus coqui,,eatenBy
+62164,33730,Sphaerodactylus klauberi,Puerto Rican Upland Sphaero,eatenBy
+62164,36427,Anolis gundlachi,Gundlach’s Anole,eatenBy
+62164,36445,Anolis evermanni,Emerald anole,eatenBy
+62164,,Gonatista grisea,,eatenBy
+62164,22411,Eleutherodactylus portoricensis,Forest Coqui,eatenBy
+62164,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+62164,,Pacifastacus leniusculus,,eatenBy
+62164,144221,Melanitta nigra,Common Scoter,eatenBy
+62164,7030,Somateria spectabilis,King Eider,eatenBy
+62164,,Dolomedes vittatus,,eatenBy
+62164,,Perlodes microcephalus,,eatenBy
+62164,482050,Rhyacophila dorsalis,Sandfly Caddisfly,eatenBy
+62164,482056,Dinocras cephalotes,Large Stonefly,eatenBy
+62164,997125,Limnesia maculata,,eatenBy
+62164,,Hydrodroma despiciens,,eatenBy
+62164,154684,Polycentropodidae,Tube Maker Caddisflies,eatenBy
+62164,,Halesus,,eatenBy
+62164,416811,Odontocerum albicorne,Silver Sedge,eatenBy
+62164,451393,Sericostoma personatum,Welshman's Button Caddisfly,eatenBy
+62164,,Glyphotaelius,,eatenBy
+62164,,ruff (Gymnocephalus cernus),,eatenBy
+62164,,Plecoptera,,eatenBy
+62164,59807,Gammarus,,eatenBy
+62164,,Megaloptera,,eatenBy
+62164,187422,Giuris margaritacea,Snakehead Gudgeon,eatenBy
+62164,368587,Hypseleotris compressa,Empire Gudgeon,eatenBy
+62164,,Tilapia mariae,,eatenBy
+62164,521489,Tandanus tandanus,Freshwater Catfish,eatenBy
+62164,531023,Hephaestus tulliensis,Khaki Grunter,eatenBy
+62164,93797,Ambassis agassizii,Agassiz's Glassfish,eatenBy
+62164,,Neosiluris ater,,eatenBy
+62164,187100,Awaous acritosus,Roman-nose Goby,eatenBy
+62164,,Glossamia aprion,,eatenBy
+62164,202148,Nematalosa erebi,Bony Bream,eatenBy
+62164,,Craterocephalus stercusmuscarum,,eatenBy
+62164,,Geres filamentosis,,eatenBy
+62164,368117,Melanotaenia splendida,Eastern Rainbowfish,eatenBy
+62164,,Barbus,,eatenBy
+62164,,Zaireichthys lacustris,,eatenBy
+62164,,Astyanax xavante,,eatenBy
+62164,,Rhabdolichops lundbergi,,eatenBy
+62164,612681,Dawkinsia singhala,,eatenBy
+62164,,Jupiaba poekotero,,eatenBy
+62164,610452,Creagrutus tuyuka,,eatenBy
+62164,,Lophiobrycon weitzmani,,eatenBy
+62164,,Trichomycterus maracaya,,eatenBy
+62164,,Sternopygus obtusirostris,,eatenBy
+62164,113850,Teleocichla centisquama,Slender Pike-Cichlid,eatenBy
+62164,530701,Neosilurus mollespiculum,Softspine Catfish,eatenBy
+62164,,Neosilurus gloveri,,eatenBy
+62164,611006,Ptychocharax rhyacophila,,eatenBy
+62164,,Odontesthes mauleanum,,eatenBy
+62164,,Melanorivulus pictus,,eatenBy
+62164,,Trichomycterus belensis,,eatenBy
+62164,,Crenicichla britskii,,eatenBy
+62164,,Allotoca diazi,,eatenBy
+62164,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+62164,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+62164,48124,Tettigoniidae,Katydids,preyedUponBy
+62164,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+62164,101053,Fundulus diaphanus,banded killifish,preyedUponBy
+62164,59115,Gambusia affinis,Western Mosquitofish,preyedUponBy
+62164,49591,Lepomis macrochirus,Bluegill,preyedUponBy
+62164,40270,Myotis,Mouse-eared Bats,preyedUponBy
+62164,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+62164,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+62164,482055,Perla bipunctata,Large Stonefly,preyedUponBy
+62164,109315,Phoxinus phoxinus,European Minnow,preyedUponBy
+62164,48648,Salmo salar,Atlantic Salmon,preyedUponBy
+62164,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+62164,202148,Nematalosa erebi,Bony Bream,preyedUponBy
+62164,,Neosiluris ater,,preyedUponBy
+62164,,Miomantis caffra,,preyedUponBy
+62164,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+62164,,Lithobius,,preyedUponBy
+62164,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+62164,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+62164,,Gabrius fermoralis,,preyedUponBy
+62164,1086379,Tetartopeus terminatum,,preyedUponBy
+62164,82118,Dolomedes,Fishing Spiders,preyedUponBy
+62164,,Paederus riparius,,preyedUponBy
+62164,360744,Marpissa radiata,,preyedUponBy
+62164,25591,Rana temporaria,European Common Frog,preyedUponBy
+62164,784329,Robertus insignis,,preyedUponBy
+62164,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+62164,359911,Staphylininae,,preyedUponBy
+62164,153747,Robertus,,preyedUponBy
+62164,153861,Tibellus maritimus,,preyedUponBy
+62164,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+62164,,Hyla arborea,,preyedUponBy
+62164,505524,Pirata piscatorius,,preyedUponBy
+62164,,Tetragnatha extensa,,preyedUponBy
+62164,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+62164,51405,Elops saurus,Ladyfish,preyedUponBy
+62164,49823,Acipenser brevirostrum,Shortnose Sturgeon,preyedUponBy
+62164,93187,Acipenser oxyrinchus,Atlantic Sturgeon,preyedUponBy
+62164,96911,Centrarchus macropterus,Flier,preyedUponBy
+62164,99992,Enneacanthus gloriosus,Blue-spotted Sunfish,preyedUponBy
+62164,100515,Etheostoma olmstedi,Tessellated Darter,preyedUponBy
+62164,49243,Alosa sapidissima,American shad,preyedUponBy
+62164,93844,Ameiurus catus,White Catfish,preyedUponBy
+62164,,Carpiodes cyprinus,,preyedUponBy
+62164,,Cyprinella analostana,,preyedUponBy
+62164,49225,Alosa aestivalis,Blueback Shad,preyedUponBy
+62164,112459,Semotilus corporalis,Fallfish,preyedUponBy
+62164,100359,Erimyzon oblongus,Eastern Creek Chubsucker,preyedUponBy
+62164,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+62164,84432,Morone americana,White Perch,preyedUponBy
+62164,49614,Lepomis gibbosus,Pumpkinseed,preyedUponBy
+62164,,Lepomis auritus,,preyedUponBy
+62164,49219,Anguilla rostrata,American Eel,preyedUponBy
+62164,,Glossamia aprion,,preyedUponBy
+62164,,Geres filamentosis,,preyedUponBy
+62164,,Tilapia mariae,,preyedUponBy
+62164,,Craterocephalus stercusmuscarum,,preyedUponBy
+62164,521489,Tandanus tandanus,Freshwater Catfish,preyedUponBy
+62164,93797,Ambassis agassizii,Agassiz's Glassfish,preyedUponBy
+62164,187100,Awaous acritosus,Roman-nose Goby,preyedUponBy
+62164,531023,Hephaestus tulliensis,Khaki Grunter,preyedUponBy
+62164,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy
+62164,368587,Hypseleotris compressa,Empire Gudgeon,preyedUponBy
+62164,187422,Giuris margaritacea,Snakehead Gudgeon,preyedUponBy
+62164,,Gabrius fermoralis (Hochh.),,preyedUponBy
+62164,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+62164,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+62164,75228,Vespadelus regulus,Southern Forest Bat,preyedUponBy
+62164,75223,Vespadelus caurinus,Northern Cave Bat,preyedUponBy
+62164,74711,Myotis macropus,Large-footed Myotis,preyedUponBy
+62164,40550,Chalinolobus tuberculatus,Long-tailed Wattled Bat,preyedUponBy
+62164,,Myotis dasycneme,,preyedUponBy
+62164,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+62164,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+62164,,Plecotus auritus,,preyedUponBy
+62164,74697,Myotis bechsteinii,Bechstein's bat,preyedUponBy
+62164,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+62164,74624,Miniopterus majori,Major's Long-fingered Bat,preyedUponBy
+62164,,Myotis goudoti,,preyedUponBy
+62164,40608,Murina leucogaster,greater tube-nosed bat,preyedUponBy
+62164,765536,Chaerephon atsinanana,Madagascar Free-tailed Bat,preyedUponBy
+62164,40711,Aselliscus stoliczkanus,Stoliczka's Trident Bat,preyedUponBy
+62164,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+62164,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+62164,74696,Myotis aurascens,Steppe Whiskered Bat,preyedUponBy
+62164,183176,Asellia tridens,Geoffroy's Trident Leaf-nosed Bat,preyedUponBy
+62164,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+62164,,Hipposideros bicolor,,preyedUponBy
+62164,40715,Hipposideros ater,Dusky Roundleaf Bat,preyedUponBy
+62164,40746,Hipposideros speoris,Schneider's roundleaf bat,preyedUponBy
+62164,,Rhinolophus thailandiensis,,preyedUponBy
+62164,41376,Taphozous melanopogon,Black-bearded Tomb Bat,preyedUponBy
+62164,40446,Vespertilio murinus,Particoloured Bat,preyedUponBy
+62164,,Eptesicus nilssonii,,preyedUponBy
+62164,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+62164,,Pipistrellus nathusii,,preyedUponBy
+62164,,Nyctalus leisleri,,preyedUponBy
+62164,40572,Nyctalus noctula,Common Noctule,preyedUponBy

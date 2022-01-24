@@ -1,0 +1,92 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47367,47126,Plantae,plants,eats
+47367,48291,Oniscidae,Sow Bugs,eats
+47367,47822,Diptera,Flies,eats
+47367,49470,Collembola,Springtails,eats
+47367,,live leaves,,eats
+47367,,roots,,eats
+47367,,Detritus,,eats
+47367,67328,Pholcus phalangioides,Long-bodied Cellar Spider,eatenBy
+47367,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+47367,1965,Coccyzus americanus,Yellow-billed Cuckoo,eatenBy
+47367,14850,Sturnus vulgaris,European Starling,eatenBy
+47367,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+47367,17355,Vireo,Vireos,eatenBy
+47367,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47367,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+47367,22423,Eleutherodactylus richmondi,Ground Coqui,eatenBy
+47367,,Eleutherodactylus coqui,,eatenBy
+47367,,Herpestes javanicus auropunctatus,,eatenBy
+47367,,Amphisbaena caeca,,eatenBy
+47367,33730,Sphaerodactylus klauberi,Puerto Rican Upland Sphaero,eatenBy
+47367,31890,Diploglossus pleii,Puerto Rican Galliwasp,eatenBy
+47367,36427,Anolis gundlachi,Gundlach’s Anole,eatenBy
+47367,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+47367,46414,Sorex araneus,Common Shrew,eatenBy
+47367,,Corvus caurinus,,eatenBy
+47367,8319,Pica nuttalli,Yellow-billed Magpie,eatenBy
+47367,17408,Vireo griseus,White-eyed Vireo,eatenBy
+47367,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+47367,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47367,72502,Anas chlorotis,Brown Teal,eatenBy
+47367,10487,Dolichonyx oryzivorus,Bobolink,eatenBy
+47367,49470,Collembola,Springtails,preysOn
+47367,47157,Lepidoptera,Butterflies and Moths,preysOn
+47367,47822,Diptera,Flies,preysOn
+47367,47735,Diplopoda,Millipedes,preysOn
+47367,63089,Clitellata,Clitellates,preysOn
+47367,47114,Gastropoda,Gastropods,preysOn
+47367,47367,Opiliones,Harvestmen,preysOn
+47367,61267,Heteroptera,True Bugs,preysOn
+47367,52073,Fulgoroidea,Planthoppers,preysOn
+47367,53237,Cicadellidae,Typical Leafhoppers,preysOn
+47367,,Melanomma auricinctaria,,preysOn
+47367,,Isopeda,,preysOn
+47367,,Paraneoptera,,preysOn
+47367,,Family Aphididae,,preysOn
+47367,,Aranae,,preysOn
+47367,,Carpelimus manchuricus subtilicornis,,preysOn
+47367,123608,Delphacidae,,preysOn
+47367,,Carpelimus manchuricus,,preysOn
+47367,173319,Brachygluta,,preysOn
+47367,120583,Parasteatoda tepidariorum,Common House Spider,preyedUponBy
+47367,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47367,7562,Troglodytes aedon,House Wren,preyedUponBy
+47367,84644,Phalangium opilio,European Harvestman,preyedUponBy
+47367,47367,Opiliones,Harvestmen,preyedUponBy
+47367,47951,Staphylinidae,Rove Beetles,preyedUponBy
+47367,47416,Lycosidae,Wolf Spiders,preyedUponBy
+47367,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+47367,148395,Trochosa,,preyedUponBy
+47367,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+47367,55470,Arctosa,Bear Spiders,preyedUponBy
+47367,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+47367,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+47367,30901,Vipera ursinii,Meadow Viper,preyedUponBy
+47367,32512,Rena dulcis,Texas Blind Snake,preyedUponBy
+47367,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+47367,,Iguanognathus werneri,,preyedUponBy
+47367,,Phidippus purpuratus,,preyedUponBy
+47367,,Myotis dasycneme,,preyedUponBy
+47367,,Mystacina tuberculata,,preyedUponBy
+47367,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+47367,56521,Reduvius personatus,Masked Hunter,preyedUponBy
+47367,,Leiobunum blackwalli,,preyedUponBy
+47367,,Pterostichus diligens,,preyedUponBy
+47367,491922,Oxypselaphus obscurus,,preyedUponBy
+47367,,Nebria brevicollis,,preyedUponBy
+47367,,Paederus riparius,,preyedUponBy
+47367,131943,Rugilus rufipes,,preyedUponBy
+47367,,Gabrius fermoralis,,preyedUponBy
+47367,131962,Stenus,,preyedUponBy
+47367,1086379,Tetartopeus terminatum,,preyedUponBy
+47367,153636,Zelotes,,preyedUponBy
+47367,,Pirata latitans,,preyedUponBy
+47367,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47367,547270,Pardosa prativaga,,preyedUponBy
+47367,,Gabrius fermoralis (Hochh.),,preyedUponBy
+47367,1151405,Lesteva sicula,,preyedUponBy
+47367,,Pachygnatha,,preyedUponBy
+47367,69599,Tetramorium,Fierce ants,preyedUponBy
+47367,,Lathrobium fovalum (Steph.),,preyedUponBy
+47367,,Lathrobium fovalum,,preyedUponBy

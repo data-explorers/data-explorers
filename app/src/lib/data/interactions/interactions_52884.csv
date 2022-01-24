@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52884,47126,Plantae,plants,eats
+52884,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+52884,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+52884,9424,Pipilo erythrophthalmus,Eastern Towhee,eatenBy
+52884,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+52884,12942,Sialia sialis,Eastern Bluebird,eatenBy
+52884,4940,Egretta thula,Snowy Egret,eatenBy
+52884,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+52884,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+52884,12727,Turdus migratorius,American Robin,eatenBy
+52884,14850,Sturnus vulgaris,European Starling,eatenBy
+52884,792976,Dryobates,Dryobates Woodpeckers,eatenBy
+52884,18236,Colaptes auratus,Northern Flicker,eatenBy
+52884,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+52884,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+52884,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+52884,8010,Corvus corax,Common Raven,eatenBy
+52884,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+52884,7294,Eremophila alpestris,Horned Lark,eatenBy
+52884,508048,Antigone canadensis,Sandhill Crane,eatenBy
+52884,3894,Numenius,Curlews,eatenBy
+52884,34,Grus americana,Whooping Crane,eatenBy
+52884,,North American deermouse,,eatenBy
+52884,19975,Athene cunicularia,Burrowing Owl,eatenBy
+52884,,Lycosa erythrognatha,,eatenBy
+52884,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+52884,2464,Todiramphus sanctus,Sacred Kingfisher,eatenBy
+52884,,Papyrocranus afer,,eatenBy
+52884,,Pylodictis olivaris,,eatenBy
+52884,128750,Sciaenops ocellatus,Red Drum,eatenBy
+52884,,Grus canadensis,,eatenBy
+52884,20307,Asio otus,Long-eared Owl,eatenBy
+52884,5017,Bubulcus ibis,Cattle Egret,eatenBy
+52884,4938,Egretta tricolor,Tricolored Heron,eatenBy
+52884,4937,Egretta caerulea,Little Blue Heron,eatenBy
+52884,162,Porzana carolina,Sora,eatenBy
+52884,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy
+52884,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+52884,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+52884,831,Perdix perdix,Gray Partridge,eatenBy
+52884,4645,Falco femoralis,Aplomado Falcon,eatenBy
+52884,8469,Cyanocorax cyanopogon,White-naped Jay,eatenBy
+52884,17394,Vireo gilvus,Warbling Vireo,eatenBy
+52884,17408,Vireo griseus,White-eyed Vireo,eatenBy
+52884,,Setophaga pinus,,eatenBy
+52884,13732,Anthus rubescens,American Pipit,eatenBy
+52884,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+52884,,Spiza americana,,eatenBy
+52884,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+52884,3962,Bartramia longicauda,Upland Sandpiper,eatenBy
+52884,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+52884,49552,Scutigera coleoptrata,House Centipede,preyedUponBy
+52884,7562,Troglodytes aedon,House Wren,preyedUponBy
+52884,200661,Coluber constrictor mormon,Western Yellow-bellied Racer,preyedUponBy
+52884,30293,Eirenis modestus,Ring-Headed Dwarf Snake,preyedUponBy
+52884,26638,Dendrelaphis punctulatus,Common Tree Snake,preyedUponBy
+52884,28553,Symphimus mayae,Yucatán White-lipped Snake,preyedUponBy
+52884,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+52884,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy
+52884,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+52884,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+52884,57534,Miniopterus schreibersii,Schreibers' Long-fingered Bat,preyedUponBy
+52884,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+52884,40317,Myotis blythii,Lesser mouse-eared bat,preyedUponBy
+52884,41377,Taphozous nudiventris,Naked-rumped Tomb Bat,preyedUponBy
+52884,1150085,Myotis myotis,,preyedUponBy
+52884,207811,Eptesicus serotinus,Serotine Bat,preyedUponBy
+52884,74927,Plecotus macrobullaris,Mountain Long-eared Bat,preyedUponBy
+52884,245993,Rhinopoma hardwickii,Lesser Mouse-tailed Bat,preyedUponBy
+52884,183176,Asellia tridens,Geoffroy's Trident Leaf-nosed Bat,preyedUponBy
+52884,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+52884,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+52884,74432,Hipposideros sorenseni,Sorensen's Leaf-nosed Bat,preyedUponBy
+52884,,Nycteris macrotus,,preyedUponBy
+52884,41190,Nycteris woodi,Wood's Slit-faced Bat,preyedUponBy
+52884,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+52884,40761,Hipposideros caffer,Sundevall's roundleaf bat,preyedUponBy
+52884,40552,Chalinolobus nigrogriseus,Hoary Wattled Bat,preyedUponBy
+52884,75073,Scotorepens balstoni,Western Broad-nosed Bat,preyedUponBy
+52884,,Nyctophilus geoffroyi,,preyedUponBy
+52884,40352,Myotis grisescens,Gray Bat,preyedUponBy
+52884,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+52884,40449,Otonycteris hemprichii,Desert Long-eared Bat,preyedUponBy

@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85408,94557,Argia moesta,Powdered Dancer,eats
+85408,109161,Perithemis intensa,Mexican Amberwing,eats
+85408,58421,Phidippus johnsoni,Johnson's Jumping Spider,eatenBy
+85408,47157,Lepidoptera,Butterflies and Moths,preysOn
+85408,47118,Araneae,Spiders,preyedUponBy
+85408,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy

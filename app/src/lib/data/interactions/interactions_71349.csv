@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+71349,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+71349,20445,Tyto alba,Barn Owl,eatenBy
+71349,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+71349,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+71349,19893,Strix varia,Barred Owl,eatenBy
+71349,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+71349,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+71349,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+71349,19812,Glaucidium gnoma,Northern Pygmy-Owl,preyedUponBy

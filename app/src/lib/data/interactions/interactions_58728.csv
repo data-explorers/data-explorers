@@ -1,0 +1,42 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58728,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+58728,47219,Apis mellifera,Western Honey Bee,eatenBy
+58728,6317,Calypte anna,Anna's Hummingbird,eatenBy
+58728,14850,Sturnus vulgaris,European Starling,eatenBy
+58728,12727,Turdus migratorius,American Robin,eatenBy
+58728,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+58728,,Gastropacha quercifolia,,eatenBy
+58728,143200,Liosomaphis berberidis,barberry aphid,eatenBy
+58728,,Pandemis cerasana,,eatenBy
+58728,,Samia cynthia,,eatenBy
+58728,,Callosamia promethea,,eatenBy
+58728,125071,Attacus atlas,Atlas Moth,eatenBy
+58728,,Agrochola helvola,,eatenBy
+58728,,Coryphista meadii,,eatenBy
+58728,,Larerannis orthogrammaria,,eatenBy
+58728,,Biston regalis,,eatenBy
+58728,,Athyma opalina,,eatenBy
+58728,,Aporia agathon,,eatenBy
+58728,,Aporia hippia,,eatenBy
+58728,,Celastrina argiolus,,eatenBy
+58728,,Colibri coruscans,,eatenBy
+58728,,Chalcostigma heteropogon,,eatenBy
+58728,,Metallura tyrianthina,,eatenBy
+58728,,Turdus fuscater gigas,,eatenBy
+58728,451478,Arge berberidis,Berberis Sawfly,eatenBy
+58728,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+58728,,Habropoda depressa,,eatenBy
+58728,,Rheumaptera cervinalis,,eatenBy
+58728,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+58728,,Merismodes bresadolae,,eatenBy
+58728,,Auricularia auricula-judae,,eatenBy
+58728,,Anomoia purmunda,,eatenBy
+58728,,Nectria pseudopeziza,,eatenBy
+58728,831,Perdix perdix,Gray Partridge,eatenBy
+58728,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+58728,47158,Insecta,Insects,pollinatedBy
+58728,47822,Diptera,Flies,pollinatedBy
+58728,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+58728,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+58728,61356,Vespula,Ground Yellowjackets,pollinatedBy
+58728,,,,pollinatedBy

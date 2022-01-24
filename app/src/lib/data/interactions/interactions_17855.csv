@@ -1,0 +1,53 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+17855,211194,Tracheophyta,vascular plants,eats
+17855,1,Animalia,Animals,eats
+17855,47120,Arthropoda,Arthropods,eats
+17855,62781,Camponotus,Carpenter and Sugar Ants,eats
+17855,47208,Coleoptera,Beetles,eats
+17855,47339,Formica,"Wood, Mound, and Field Ants",eats
+17855,47158,Insecta,Insects,eats
+17855,47544,Rubus,brambles,eats
+17855,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+17855,47124,Magnoliopsida,dicots,eats
+17855,49567,Carabidae,Ground Beetles,eats
+17855,47961,Cerambycidae,Longhorn Beetles,eats
+17855,48250,Ascomycota,Ascomycete Fungi,eats
+17855,48599,Phytolacca americana,American pokeweed,eats
+17855,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+17855,54774,Viburnum,viburnums,eats
+17855,83799,Mitchella repens,partridgeberry,eats
+17855,58732,Toxicodendron radicans,poison ivy,eats
+17855,125845,Prunus caroliniana,Carolina laurelcherry,eats
+17855,54037,Thuja occidentalis,northern whitecedar,eats
+17855,469472,Malus domestica,apple,eats
+17855,,Ergates,,eats
+17855,,Smilax bona-nox,,eats
+17855,,Smilax pumila,,eats
+17855,,Aralia spinosa,,eats
+17855,,Celtis laevigata,,eats
+17855,54777,Cornus florida,flowering dogwood,eats
+17855,,Phoradendron serotinum,,eats
+17855,120006,Ilex decidua,possumhaw,eats
+17855,,Cornus foemina,,eats
+17855,,Smilax tamnoides,,eats
+17855,,Ilex opaca,,eats
+17855,83074,Magnolia grandiflora,southern magnolia,eats
+17855,,Ilex cassine,,eats
+17855,,Vaccinium arboreum,,eats
+17855,,Callicarpa americana,,eats
+17855,,Nyssa sylvatica,,eats
+17855,,Vaccinium myrsinites,,eats
+17855,,Morella cerifera,,eats
+17855,,Symplocos tinctoria,,eats
+17855,,Smilax auriculata,,eats
+17855,,Ampelopsis arborea,,eats
+17855,,Osmanthus americanus,,eats
+17855,,Persea borbonia,,eats
+17855,81801,Viburnum rufidulum,Rusty Blackhaw,eats
+17855,,Rhus copallinum,,eats
+17855,,Triadica sebifera,,eats
+17855,,Fraxinus americana,,eats
+17855,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+17855,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+17855,19893,Strix varia,Barred Owl,preyedUponBy
+17855,,Pantherophis alleghaniensis,,preyedUponBy

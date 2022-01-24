@@ -1,0 +1,91 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3864,47822,Diptera,Flies,eats
+3864,85493,Crustacea,Crustaceans,eats
+3864,47490,Polychaeta,Polychaete Worms,eats
+3864,333586,Oligochaeta,Earthworms and allies,eats
+3864,1,Animalia,Animals,eats
+3864,,Heterocerus,,eats
+3864,,Gnorimosphaeroma,,eats
+3864,345517,Eogammarus,,eats
+3864,64637,Corophium,,eats
+3864,4672,Falco columbarius,Merlin,eatenBy
+3864,4665,Falco sparverius,American Kestrel,eatenBy
+3864,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+3864,20307,Asio otus,Long-eared Owl,eatenBy
+3864,20315,Asio flammeus,Short-eared Owl,eatenBy
+3864,333586,Oligochaeta,Earthworms and allies,preysOn
+3864,68764,Ostracoda,Seed Shrimp,preysOn
+3864,85521,Harpacticoida,Harpacticoid Copepods,preysOn
+3864,47490,Polychaeta,Polychaete Worms,preysOn
+3864,47822,Diptera,Flies,preysOn
+3864,84670,Ephydridae,Shore Flies,preysOn
+3864,84718,Oniscidea,"Woodlice, Pillbugs, and Rock Slaters",preysOn
+3864,47208,Coleoptera,Beetles,preysOn
+3864,47114,Gastropoda,Gastropods,preysOn
+3864,47951,Staphylinidae,Rove Beetles,preysOn
+3864,47158,Insecta,Insects,preysOn
+3864,339174,Cyathocotylidae,,preysOn
+3864,88477,Geonemertes,Greenhouse Proboscis-worms,preysOn
+3864,,Cloacitrema michiganense,,preysOn
+3864,339245,Himasthla,,preysOn
+3864,,trypanorynch,,preysOn
+3864,,Ephydra,,preysOn
+3864,48051,Phoronida,Horseshoe Worms,preysOn
+3864,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+3864,,Hysterolecitha,,preysOn
+3864,,Eugregarinida,,preysOn
+3864,,Spirocamallanus pereirai,,preysOn
+3864,339200,Himasthla rhigedana,,preysOn
+3864,339249,Acanthoparyphium,,preysOn
+3864,,Hypereteone lighti,,preysOn
+3864,,Traskorchestia,,preysOn
+3864,,Parorchis acanthus,,preysOn
+3864,339182,Phocitremoides ovale,,preysOn
+3864,,Large xiphideocercaria,,preysOn
+3864,339177,Microphallidae,,preysOn
+3864,,Pygidiopsoides spindalis,,preysOn
+3864,,Dilepididae,,preysOn
+3864,,Renicola cerithidicola,,preysOn
+3864,,Trichodina,,preysOn
+3864,,Stictodora hancocki,,preysOn
+3864,,Mesostephanus appendiculatoides,,preysOn
+3864,,Probolocoryphe uca,,preysOn
+3864,,Anisogammarus confervicolus,,preysOn
+3864,208368,Capitella capitata,,preysOn
+3864,339183,Euhaplorchis californiensis,,preysOn
+3864,123639,Spionidae,,preysOn
+3864,339172,Austrobilharzia,,preysOn
+3864,339176,Renicola buchanani,,preysOn
+3864,,Cerithidea californica,,preysOn
+3864,209100,Gyrodactylus,,preysOn
+3864,339199,Catatropis johnstoni,,preysOn
+3864,179533,Fundulus parvipinnis,California Killifish,preysOn
+3864,,Bittium quadrifilatum,,preysOn
+3864,51280,Nemertea,Ribbon Worms,preysOn
+3864,,Traskorchestia traskiana,,preysOn
+3864,570459,Neanthes arenaceodentata,,preysOn
+3864,,Nebalia,,preysOn
+3864,,Gammaridea,,preysOn
+3864,337291,Cirriformia spirabrancha,,preysOn
+3864,,Polydora nuchalis,,preysOn
+3864,47488,Cirratulidae,,preysOn
+3864,195030,Hesionidae,,preysOn
+3864,209136,Paracerceis,,preysOn
+3864,,Nassarius tiarula,,preysOn
+3864,81963,Girella nigricans,Opaleye,preysOn
+3864,,Carinoma mutabilis,,preysOn
+3864,144115,Cumacea,Hooded Shrimp,preysOn
+3864,345489,Naineris,,preysOn
+3864,,Macoma secta,,preysOn
+3864,208366,Orbiniidae,,preysOn
+3864,209018,Polydora,Shell-boring Spionids,preysOn
+3864,81789,Neanthes,,preysOn
+3864,,Ctenodrilidae,,preysOn
+3864,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+3864,117622,Nuttallia nuttallii,Purple Clam,preysOn
+3864,,green gammaridean,,preysOn
+3864,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+3864,559064,Circus cyaneus,Hen Harrier,preyedUponBy
+3864,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+3864,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+3864,,Circus cyanus,,preyedUponBy

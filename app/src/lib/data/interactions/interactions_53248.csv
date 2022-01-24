@@ -1,0 +1,194 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53248,48969,Antirrhinum majus,Snapdragon,eats
+53248,75931,Calendula officinalis,pot marigold,eats
+53248,60001,Dianthus,carnations,eats
+53248,47126,Plantae,plants,eats
+53248,71950,Agropyron,,eats
+53248,,Pelargonium zonale,,eats
+53248,,roots,,eats
+53248,82008,Stagmomantis californica,California Mantis,eatenBy
+53248,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+53248,4209,Podiceps auritus,Horned Grebe,eatenBy
+53248,145238,Setophaga petechia,Yellow Warbler,eatenBy
+53248,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+53248,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+53248,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+53248,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+53248,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+53248,13858,Passer domesticus,House Sparrow,eatenBy
+53248,17355,Vireo,Vireos,eatenBy
+53248,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+53248,17356,Vireo bellii,Bell's Vireo,eatenBy
+53248,9346,Icterus galbula,Baltimore Oriole,eatenBy
+53248,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+53248,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+53248,12727,Turdus migratorius,American Robin,eatenBy
+53248,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+53248,14850,Sturnus vulgaris,European Starling,eatenBy
+53248,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+53248,12890,Catharus guttatus,Hermit Thrush,eatenBy
+53248,12901,Catharus fuscescens,Veery,eatenBy
+53248,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+53248,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+53248,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+53248,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+53248,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+53248,11867,Progne subis,Purple Martin,eatenBy
+53248,7458,Certhia americana,Brown Creeper,eatenBy
+53248,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+53248,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+53248,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+53248,9919,Piranga ludoviciana,Western Tanager,eatenBy
+53248,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+53248,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+53248,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+53248,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+53248,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+53248,7294,Eremophila alpestris,Horned Lark,eatenBy
+53248,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+53248,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+53248,,Little brown myotis,,eatenBy
+53248,40509,Eptesicus fuscus,Big Brown Bat,eatenBy
+53248,,Laphria flavicollis,,eatenBy
+53248,12716,Turdus merula,Eurasian Blackbird,eatenBy
+53248,17943,Dendrocopos leucotos,White-backed Woodpecker,eatenBy
+53248,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+53248,,Caracara cheriway,,eatenBy
+53248,,Caprimulgus vociferus,,eatenBy
+53248,5017,Bubulcus ibis,Cattle Egret,eatenBy
+53248,4937,Egretta caerulea,Little Blue Heron,eatenBy
+53248,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+53248,,Empidonax traillii,,eatenBy
+53248,,Wilsonia canadensis,,eatenBy
+53248,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+53248,,Oporornis philadelphia,,eatenBy
+53248,,Empidonax flaviventris,,eatenBy
+53248,145236,Setophaga castanea,Bay-breasted Warbler,eatenBy
+53248,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+53248,16602,Empidonax minimus,Least Flycatcher,eatenBy
+53248,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+53248,,Parkesia motacilla,,eatenBy
+53248,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+53248,,Vireo flavifrons,,eatenBy
+53248,17408,Vireo griseus,White-eyed Vireo,eatenBy
+53248,17394,Vireo gilvus,Warbling Vireo,eatenBy
+53248,16110,Contopus cooperi,Olive-sided Flycatcher,eatenBy
+53248,,Empidonax alnorum,,eatenBy
+53248,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+53248,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+53248,,Setophaga pinus,,eatenBy
+53248,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+53248,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+53248,13732,Anthus rubescens,American Pipit,eatenBy
+53248,,Corvus caurinus,,eatenBy
+53248,,Picoides villosus,,eatenBy
+53248,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+53248,,Dryobates albolarvatus,,eatenBy
+53248,,Picoides pubescens,,eatenBy
+53248,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+53248,19577,Chordeiles minor,Common Nighthawk,eatenBy
+53248,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+53248,6667,Cypseloides niger,Black Swift,eatenBy
+53248,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+53248,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+53248,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+53248,47928,Zygoptera,Damselflies,preyedUponBy
+53248,48124,Tettigoniidae,Katydids,preyedUponBy
+53248,51556,Sympetrum,Meadowhawks,preyedUponBy
+53248,42069,Vulpes vulpes,Red Fox,preyedUponBy
+53248,47951,Staphylinidae,Rove Beetles,preyedUponBy
+53248,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+53248,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preyedUponBy
+53248,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+53248,47927,Anisoptera,Dragonflies,preyedUponBy
+53248,202104,Harpalinae,,preyedUponBy
+53248,49567,Carabidae,Ground Beetles,preyedUponBy
+53248,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+53248,47866,Thomisidae,Crab Spiders,preyedUponBy
+53248,52932,Cantharidae,Soldier Beetles,preyedUponBy
+53248,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+53248,57652,Trombidiidae,True Velvet Mites,preyedUponBy
+53248,47345,Agelenidae,Funnel Weavers,preyedUponBy
+53248,132021,Philonthus,,preyedUponBy
+53248,148395,Trochosa,,preyedUponBy
+53248,47416,Lycosidae,Wolf Spiders,preyedUponBy
+53248,40477,Eptesicus,House Bats,preyedUponBy
+53248,,Calosoma tepidum,,preyedUponBy
+53248,,Pseudomogrus zhilgaensis,,preyedUponBy
+53248,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+53248,,Argiope aurantia,,preyedUponBy
+53248,,Anthus novaeseelandiae novaeseelandiae,,preyedUponBy
+53248,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+53248,,Anguis fragilis,,preyedUponBy
+53248,129878,Nabidae,Damsel Bugs,preyedUponBy
+53248,25474,Rana,Pond Frogs,preyedUponBy
+53248,51679,Coenagrion,Northern Bluets,preyedUponBy
+53248,706060,Monocephalus fuscipes,,preyedUponBy
+53248,,Erigonella hiemalis,,preyedUponBy
+53248,397950,Tenuiphantes tenuis,,preyedUponBy
+53248,,Robertus scoticus,,preyedUponBy
+53248,127023,Amaurobius,Lace web spider,preyedUponBy
+53248,359911,Staphylininae,,preyedUponBy
+53248,738601,Lithobius aeruginosus,,preyedUponBy
+53248,490816,Neobisium,,preyedUponBy
+53248,,Somatochlora,,preyedUponBy
+53248,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+53248,510480,Othius,,preyedUponBy
+53248,,Ensifera,,preyedUponBy
+53248,783596,Ceratinella brevis,,preyedUponBy
+53248,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+53248,,Malthodes,,preyedUponBy
+53248,,Lithobius,,preyedUponBy
+53248,,Sympetrum striolatum,,preyedUponBy
+53248,,Microneta viaria,,preyedUponBy
+53248,153747,Robertus,,preyedUponBy
+53248,172978,Atheta,vexing rove beetles,preyedUponBy
+53248,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+53248,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+53248,784286,Micrargus apertus,,preyedUponBy
+53248,,Dolichovespula sylvestris,,preyedUponBy
+53248,784141,Asthenargus paganus,,preyedUponBy
+53248,498635,Lithobius piceus,,preyedUponBy
+53248,230519,Schendyla nemorensis,,preyedUponBy
+53248,,Geophilus ribauti,,preyedUponBy
+53248,784185,Saloca diceros,,preyedUponBy
+53248,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+53248,,Campodea,,preyedUponBy
+53248,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+53248,705967,Harpactea lepida,,preyedUponBy
+53248,,Hahniidae,,preyedUponBy
+53248,494566,Athous subfuscus,,preyedUponBy
+53248,,Gyrohypnus,,preyedUponBy
+53248,739596,Lithobius mutabilis,,preyedUponBy
+53248,,Orthetrum cancellatum,,preyedUponBy
+53248,778699,Macrargus rufus,,preyedUponBy
+53248,953750,Acrotona sylvicola,,preyedUponBy
+53248,203275,Xantholinus,,preyedUponBy
+53248,452503,Robertus lividus,,preyedUponBy
+53248,905423,Lithobius macilentus,,preyedUponBy
+53248,392787,Mocyta fungi,,preyedUponBy
+53248,407287,Lithobius melanops,,preyedUponBy
+53248,521083,Strigamia acuminata,,preyedUponBy
+53248,784197,Walckenaeria dysderoides,,preyedUponBy
+53248,789101,Nusoncus nasutus,,preyedUponBy
+53248,130411,Abax,,preyedUponBy
+53248,,Centromerus brevipalpus,,preyedUponBy
+53248,765638,Lithobius calcaratus,,preyedUponBy
+53248,494277,Molops piceus,,preyedUponBy
+53248,701197,Inermocoelotes inermis,,preyedUponBy
+53248,,Lithobius muticus,,preyedUponBy
+53248,710435,Molops elatus,,preyedUponBy
+53248,,Tapinocyba pallens,,preyedUponBy
+53248,498645,Lithobius tricuspis,,preyedUponBy
+53248,,Pedius longicollis,,preyedUponBy
+53248,,Pardosa saltans,,preyedUponBy
+53248,,Lithobius borealis,,preyedUponBy
+53248,498011,Abax ovalis,,preyedUponBy
+53248,,Cybister,,preyedUponBy
+53248,491325,Geophilus electricus,,preyedUponBy
+53248,154600,Agonum,,preyedUponBy
+53248,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preyedUponBy
+53248,855514,Lithobius subtilis,,preyedUponBy
+53248,568199,Lithobius curtipes,,preyedUponBy
+53248,537133,Lithobius crassipes,,preyedUponBy
+53248,,Xantholinus elegans,,preyedUponBy

@@ -1,0 +1,81 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9535,47208,Coleoptera,Beetles,eats
+9535,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9535,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+9535,47336,Formicidae,Ants,eats
+9535,47157,Lepidoptera,Butterflies and Moths,eats
+9535,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9535,52884,Gryllidae,True Crickets,eats
+9535,1,Animalia,Animals,eats
+9535,47434,Poaceae,grasses,eats
+9535,47124,Magnoliopsida,dicots,eats
+9535,47126,Plantae,plants,eats
+9535,47158,Insecta,Insects,eats
+9535,211194,Tracheophyta,vascular plants,eats
+9535,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9535,47118,Araneae,Spiders,eats
+9535,47115,Mollusca,Molluscs,eats
+9535,47792,Odonata,Dragonflies and Damselflies,eats
+9535,48670,Noctuidae,Cutworm Moths and Allies,eats
+9535,57659,Dytiscidae,Predaceous Diving Beetles,eats
+9535,47649,Acrididae,Short-horned Grasshoppers,eats
+9535,48124,Tettigoniidae,Katydids,eats
+9535,52134,Culicidae,Mosquitoes,eats
+9535,47822,Diptera,Flies,eats
+9535,47742,Pentatomidae,Stink Bugs,eats
+9535,47653,Hesperiidae,Skippers,eats
+9535,48959,Reduviidae,Assassin Bugs,eats
+9535,47114,Gastropoda,Gastropods,eats
+9535,47982,Asilidae,Robber Flies,eats
+9535,48011,Ephemeroptera,Mayflies,eats
+9535,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",eats
+9535,49456,Coccidae,Soft scales,eats
+9535,47122,Fabaceae,legumes,eats
+9535,48201,Scarabaeidae,Scarabs,eats
+9535,49567,Carabidae,Ground Beetles,eats
+9535,50186,Cicadidae,Typical Cicadas,eats
+9535,48736,Curculionidae,True Weevils,eats
+9535,53816,Tenebrionidae,Darkling Beetles,eats
+9535,53237,Cicadellidae,Typical Leafhoppers,eats
+9535,47961,Cerambycidae,Longhorn Beetles,eats
+9535,53248,Elateridae,Click Beetles,eats
+9535,51777,Coreidae,Leaf-footed Bugs,eats
+9535,55558,Lygaeidae,Seed Bugs,eats
+9535,52932,Cantharidae,Soldier Beetles,eats
+9535,47204,Brassicaceae,mustard family,eats
+9535,47794,Raphidioptera,Snakeflies,eats
+9535,47199,Ichneumonidae,Ichneumonid Wasps,eats
+9535,49707,Halictidae,Sweat Bees,eats
+9535,47735,Diplopoda,Millipedes,eats
+9535,52327,Amaranthaceae,amaranths,eats
+9535,51146,Chrysomelidae,Leaf Beetles,eats
+9535,53505,Miridae,Plant Bugs,eats
+9535,48742,Sphecidae,Thread-waisted Wasps,eats
+9535,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+9535,58390,Triticum,Wheats,eats
+9535,47120,Arthropoda,Arthropods,eats
+9535,,Euchelicerata,,eats
+9535,,Stenopelmatus,,eats
+9535,,Scorpionidae,,eats
+9535,49525,Scutelleridae,Jewel Bugs,eats
+9535,68869,Histeridae,Hister Beetles,eats
+9535,84282,Solpugidae,,eats
+9535,,Rhigopsis effracta,,eats
+9535,48448,Zea mays,Maize,eats
+9535,122461,Gryllinae,Field Crickets,eats
+9535,20445,Tyto alba,Barn Owl,eatenBy
+9535,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+9535,20044,Bubo virginianus,Great Horned Owl,eatenBy
+9535,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+9535,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9535,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+9535,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+9535,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+9535,4644,Falco mexicanus,Prairie Falcon,eatenBy
+9535,,Aquila chrysaetos,,eatenBy
+9535,20315,Asio flammeus,Short-eared Owl,eatenBy
+9535,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+9535,144594,Bubo scandiacus,Snowy Owl,eatenBy
+9535,47118,Araneae,Spiders,preysOn
+9535,,Thamnophis sirtalis parietalis,,preyedUponBy
+9535,4644,Falco mexicanus,Prairie Falcon,preyedUponBy

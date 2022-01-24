@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+13547,47118,Araneae,Spiders,eats
+13547,47158,Insecta,Insects,eats
+13547,,winter moth,,eats
+13547,,leaf feeders,,eats
+13547,,Tartrix,,eats
+13547,,trees and bushes,,eats
+13547,,Operophtera brumata,,eats
+13547,41801,Mustela,,eatenBy
+13547,526558,Mustelinae,Weasels,eatenBy
+13547,4647,Falco peregrinus,Peregrine Falcon,eatenBy

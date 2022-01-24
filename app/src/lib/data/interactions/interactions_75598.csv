@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+75598,,Phaneta misturana,,eatenBy
+75598,209790,Hemileuca hera,Sagebrush Sheep Moth,eatenBy
+75598,,Oidaematophorus,,eatenBy
+75598,,Bucculatrix tridenticola,,eatenBy
+75598,,Aroga trilineella,,eatenBy
+75598,,Rhopalomyia cramboides,,eatenBy
+75598,,Rhopalomyia pomum,,eatenBy
+75598,546672,Rhopalomyia medusa,sagebrush medusa gall midge,eatenBy
+75598,,Crossidius mojavensis,,eatenBy
+75598,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+75598,,Alectoris chukar,,eatenBy
+75598,831,Perdix perdix,Gray Partridge,eatenBy
+75598,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+75598,47158,Insecta,Insects,pollinatedBy
+75598,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+75598,47822,Diptera,Flies,pollinatedBy
+75598,,Wind,,pollinatedBy

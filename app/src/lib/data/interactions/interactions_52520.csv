@@ -1,0 +1,155 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52520,133623,Tropisternus,,eats
+52520,177589,Laccophilus,,eats
+52520,53275,Chironomidae,Non-biting Midges,eats
+52520,62989,Aedes,,eats
+52520,81576,Belostoma,,eats
+52520,130033,Culex,,eats
+52520,50175,Enallagma,Bluets,eats
+52520,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+52520,84734,Agabus,,eats
+52520,25474,Rana,Pond Frogs,eats
+52520,,Laccornis,,eats
+52520,,Lestes,,eats
+52520,,Desmopachria,,eats
+52520,,Liodessus,,eats
+52520,,Acilius,,eats
+52520,25488,Rana arvalis,Moor Frog,eats
+52520,326296,Bufo bufo,European Toad,eats
+52520,,Eubranchipus,,eats
+52520,,Graphoderus,,eats
+52520,,Hydrobius,,eats
+52520,,Lethocerus,,eats
+52520,87850,Daphnia,Water-fleas,eats
+52520,,Anacaena,,eats
+52520,,Coptotomus,,eats
+52520,,Helophorus,,eats
+52520,,Lymnaea,,eats
+52520,177989,Haliplus,,eats
+52520,87923,Diaptomus,,eats
+52520,,Sphaeriidae,,eats
+52520,,Gyrinus,,eats
+52520,,Hydrochus,,eats
+52520,173601,Enochrus,,eats
+52520,,Ilybius,,eats
+52520,,Listronotus,,eats
+52520,,Hydroporus,,eats
+52520,,Hirudenea,,eats
+52520,,Hygrotus,,eats
+52520,,Cymbiodyta,,eats
+52520,122269,Lynceus,,eats
+52520,,Colymbetes,,eats
+52520,148201,Helisoma,,eats
+52520,,Chaoborus,,eats
+52520,,Dytiscus,,eats
+52520,177448,Limnephilus,,eats
+52520,,Hydrochara,,eats
+52520,173833,Dineutus,,eats
+52520,,Rhantus,,eats
+52520,67731,Anax junius,Common Green Darner,eatenBy
+52520,,Graphoderus,,eatenBy
+52520,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+52520,,Dytiscus,,eatenBy
+52520,,Acilius,,eatenBy
+52520,93181,Acipenser fulvescens,Lake Sturgeon,eatenBy
+52520,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+52520,62989,Aedes,,preysOn
+52520,53275,Chironomidae,Non-biting Midges,preysOn
+52520,130033,Culex,,preysOn
+52520,133623,Tropisternus,,preysOn
+52520,50175,Enallagma,Bluets,preysOn
+52520,81576,Belostoma,,preysOn
+52520,177589,Laccophilus,,preysOn
+52520,23747,Hyla,Holarctic Treefrogs,preysOn
+52520,47199,Ichneumonidae,Ichneumonid Wasps,preysOn
+52520,84670,Ephydridae,Shore Flies,preysOn
+52520,70144,Muscidae,House Flies and Allies,preysOn
+52520,85862,Leptoceridae,Long-horned Caddisflies,preysOn
+52520,61860,Calliphoridae,Blow Flies,preysOn
+52520,47157,Lepidoptera,Butterflies and Moths,preysOn
+52520,52910,Sarcophagidae,Flesh Flies,preysOn
+52520,48286,Rhinophoridae,Woodlouse Flies,preysOn
+52520,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+52520,127593,Chloropidae,Frit Flies,preysOn
+52520,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+52520,47928,Zygoptera,Damselflies,preysOn
+52520,49704,Tabanus,True Horse Flies,preysOn
+52520,60393,Tipula,,preysOn
+52520,55351,Phoridae,Humpbacked Flies,preysOn
+52520,127812,Hylaeus,Masked Bees,preysOn
+52520,61739,Agrotis,,preysOn
+52520,,Anacaena,,preysOn
+52520,177749,Hydrophilus,Giant Water Scavenger Beetles,preysOn
+52520,,Dytiscus,,preysOn
+52520,,Rhantus,,preysOn
+52520,,Coptotomus,,preysOn
+52520,,Acilius,,preysOn
+52520,,Lymnaea,,preysOn
+52520,,Listronotus,,preysOn
+52520,177989,Haliplus,,preysOn
+52520,173601,Enochrus,,preysOn
+52520,87850,Daphnia,Water-fleas,preysOn
+52520,,Ilybius,,preysOn
+52520,,Cymbiodyta,,preysOn
+52520,,Eubranchipus,,preysOn
+52520,87923,Diaptomus,,preysOn
+52520,,Hydroporus,,preysOn
+52520,,Colymbetes,,preysOn
+52520,148201,Helisoma,,preysOn
+52520,173833,Dineutus,,preysOn
+52520,,Helophorus,,preysOn
+52520,,Liodessus,,preysOn
+52520,,Hygrotus,,preysOn
+52520,177448,Limnephilus,,preysOn
+52520,,Hydrochara,,preysOn
+52520,,Chaoborus,,preysOn
+52520,,Laccornis,,preysOn
+52520,84734,Agabus,,preysOn
+52520,25474,Rana,Pond Frogs,preysOn
+52520,,Hirudenea,,preysOn
+52520,,Lethocerus,,preysOn
+52520,,Gyrinus,,preysOn
+52520,,Graphoderus,,preysOn
+52520,,Desmopachria,,preysOn
+52520,,Lestes,,preysOn
+52520,,Sphaeriidae,,preysOn
+52520,,Hydrobius,,preysOn
+52520,122269,Lynceus,,preysOn
+52520,52380,Aphidoidea,,preysOn
+52520,578473,Herina frondescentiae,,preysOn
+52520,,Pherbina coryleti,,preysOn
+52520,546367,Nemotelus pantherinus,Fen Snout,preysOn
+52520,,Episyrphus balteatus,,preysOn
+52520,,Herina parva,,preysOn
+52520,,Oulema melanopus,,preysOn
+52520,,Sciaridae,,preysOn
+52520,49460,Empididae,Dance Flies,preysOn
+52520,470715,Mythimna straminea,Southern Wainscot,preysOn
+52520,,Rhopalum,,preysOn
+52520,,Limnia paludicola,,preysOn
+52520,1087985,Swammerdamella brevicornis,,preysOn
+52520,,Sepedon spinipes,,preysOn
+52520,,Athericidae,,preysOn
+52520,69803,Ceratopogonidae,Biting Midges,preysOn
+52520,,Dolichopus nubilius,,preysOn
+52520,495985,Limnobaris dolorosa,,preysOn
+52520,,Haematopota,,preysOn
+52520,,Sphaerocidae,,preysOn
+52520,,Limnephilidae,,preysOn
+52520,,Agriotes,,preysOn
+52520,,Callitula ferrierei,,preysOn
+52520,,Agriotes lineatus,,preysOn
+52520,216011,Cantharis rufa,,preysOn
+52520,,Ilione albiseta,,preysOn
+52520,203213,Diapriidae,,preysOn
+52520,,Oedemera nobilis,,preysOn
+52520,,Coenagrion pulchellum,,preysOn
+52520,,Thripomorpha paludicola,,preysOn
+52520,,"Dolichopus nubilius Meigen, 1924",,preysOn
+52520,,Aeshna constricta,,preysOn
+52520,,Acilius,,preyedUponBy
+52520,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+52520,,Graphoderus,,preyedUponBy
+52520,4643,Falco subbuteo,Eurasian Hobby,preyedUponBy
+52520,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+52520,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy

@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62229,53505,Miridae,Plant Bugs,eats
+62229,53275,Chironomidae,Non-biting Midges,eats
+62229,47158,Insecta,Insects,eats
+62229,48460,Life,,eats
+62229,47118,Araneae,Spiders,preyedUponBy
+62229,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preyedUponBy

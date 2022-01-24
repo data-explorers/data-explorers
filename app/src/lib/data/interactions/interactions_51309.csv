@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51309,68244,Euptoieta claudia,Variegated Fritillary,eatenBy
+51309,508048,Antigone canadensis,Sandhill Crane,eatenBy
+51309,224414,Mamestra configurata,Bertha Armyworm Moth,eatenBy
+51309,,Discestra trifolii,,eatenBy
+51309,,Xestia c-nigrum,,eatenBy
+51309,,Lacanobia,,eatenBy
+51309,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+51309,,Euxoa ochrogaster,,eatenBy
+51309,,Loxostege sticticalis,,eatenBy
+51309,,Rachiplusia nu,,eatenBy
+51309,,Ctenicera aeripennis destructor,,eatenBy
+51309,,Gryllus pennsylvanicus,,eatenBy
+51309,,Homona coffearia,,eatenBy
+51309,,Adoxophyes privatana,,eatenBy
+51309,,Cochylis epilinana,,eatenBy
+51309,,Persectania ewingii,,eatenBy
+51309,,Longitarsus parvulus,,eatenBy
+51309,,Thrips angusticeps,,eatenBy
+51309,,Eupeodes volucris,,eatenBy
+51309,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy
+51309,57674,Osmia,Mason Bees,pollinatedBy

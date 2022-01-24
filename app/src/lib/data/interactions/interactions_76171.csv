@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+76171,,Orgyia cana,,eatenBy
+76171,,Euglyptoneura minuta,,eatenBy
+76171,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+76171,47822,Diptera,Flies,pollinatedBy
+76171,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+76171,47208,Coleoptera,Beetles,pollinatedBy

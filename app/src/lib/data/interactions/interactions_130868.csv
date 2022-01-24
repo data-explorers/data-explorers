@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130868,194676,Dissostichus eleginoides,Patagonian Toothfish,eatenBy
+130868,608619,Artedidraco mirus,,eatenBy
+130868,,Trematomus hansoni,,eatenBy
+130868,,Muraenolepis microps,,eatenBy
+130868,610056,Chaenocephalus aceratus,Blackfin Icefish,eatenBy
+130868,618298,Gobionotothen gibberifrons,Humped Rockcod,eatenBy
+130868,618319,Patagonotothen guntheri,Yellowfin Notothen,eatenBy
+130868,541673,Lepidonotothen squamifrons,Grey Rockcod,eatenBy
+130868,,Lepidonotothen nudifrons,,eatenBy
+130868,541733,Notothenia rossii,Marbled Rockcod,eatenBy
+130868,51471,Pseudochaenichthys georgianus,South Georgia icefish,eatenBy
+130868,609221,Parachaenichthys georgianus,,eatenBy
+130868,610058,Champsocephalus gunnari,Mackerel icefish,eatenBy
+130868,609223,Psilodraco breviceps,,eatenBy
+130868,,Lepidonotothen larseni,,eatenBy
+130868,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+130868,55535,Sardinops sagax,Pacific Sardine,eatenBy
+130868,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+130868,122033,Elagatis bipinnulata,Rainbow Runner,eatenBy
+130868,317007,Brama caribbea,,eatenBy
+130868,99979,Engraulis ringens,Peruvian Anchoveta,eatenBy
+130868,4136,Procellaria aequinoctialis,White-chinned Petrel,eatenBy
+130868,,Trematomus bernacchii,,eatenBy
+130868,618332,Trematomus newnesi,Dusky rockcod,eatenBy
+130868,,Nauticaris marionis,,eatenBy
+130868,254687,Lamellaria perspicua,,preyedUponBy
+130868,482349,Lamellaria latens,,preyedUponBy

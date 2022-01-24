@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121183,17013,Sayornis nigricans,Black Phoebe,eatenBy
+121183,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+121183,12727,Turdus migratorius,American Robin,eatenBy
+121183,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+121183,,Parus major,,eatenBy
+121183,,Streptopelia chinensis,,eatenBy
+121183,,Empidonax virescens,,eatenBy
+121183,,Parkesia motacilla,,eatenBy
+121183,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+121183,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy
+121183,,Corynorhinus rafinesquii,,preyedUponBy
+121183,54327,Vespa crabro,European Hornet,preyedUponBy

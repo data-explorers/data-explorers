@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50256,47219,Apis mellifera,Western Honey Bee,eatenBy
+50256,,Hippotion eson,,eatenBy
+50256,,Euscirrhopterus discifera,,eatenBy
+50256,602143,Striphnopteryx edulis,Edible Monkey,eatenBy
+50256,,Pericallia ricini,,eatenBy
+50256,,Asura calamaria,,eatenBy
+50256,,Phenacoccus peruvianus,,eatenBy
+50256,,Myzus persicae,,eatenBy
+50256,48550,Phoebis sennae,Cloudless Sulphur,pollinatedBy

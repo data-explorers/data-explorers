@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50499,47126,Plantae,plants,preysOn
+50499,48343,Hemigrapsus,,preyedUponBy
+50499,416671,Hemiplax hirtipes,New  Zealand  sentinel  crab,preyedUponBy
+50499,471051,Halicarcinus whitei,Estuarine Pillbox Crab,preyedUponBy
+50499,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preyedUponBy

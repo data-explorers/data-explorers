@@ -1,0 +1,233 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42069,26036,Reptilia,Reptiles,eats
+42069,47126,Plantae,plants,eats
+42069,3,Aves,Birds,eats
+42069,40151,Mammalia,Mammals,eats
+42069,85493,Crustacea,Crustaceans,eats
+42069,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+42069,118552,Felis catus,Domestic Cat,eats
+42069,47158,Insecta,Insects,eats
+42069,43698,Rodentia,Rodents,eats
+42069,47118,Araneae,Spiders,eats
+42069,47208,Coleoptera,Beetles,eats
+42069,44576,Rattus norvegicus,Brown Rat,eats
+42069,42043,Canidae,Canids,eats
+42069,42158,Cervidae,Deer,eats
+42069,42069,Vulpes vulpes,Red Fox,eats
+42069,44540,Rattus,Old World Rats,eats
+42069,43094,Lagomorpha,Lagomorphs,eats
+42069,7251,Passeriformes,Perching Birds,eats
+42069,46341,Soricidae,Shrews,eats
+42069,44259,Microtus,Meadow Voles,eats
+42069,533971,Eulipotyphla,"Shrews, Moles, Hedgehogs, and Allies",eats
+42069,41770,Mustelidae,Mustelids,eats
+42069,44575,Rattus rattus,Black Rat,eats
+42069,1,Animalia,Animals,eats
+42069,20978,Amphibia,Amphibians,eats
+42069,40268,Chiroptera,Bats,eats
+42069,46342,Sorex,Long-tailed Shrews,eats
+42069,43095,Leporidae,Hares and Rabbits,eats
+42069,44349,Peromyscus,North American Deer Mice,eats
+42069,45763,Ondatra zibethicus,Muskrat,eats
+42069,46927,Talpidae,Moles and Desmans,eats
+42069,47120,Arthropoda,Arthropods,eats
+42069,42241,Bovidae,Bovids,eats
+42069,2715,Columbidae,Pigeons and Doves,eats
+42069,42054,Vulpes,Typical Foxes,eats
+42069,41573,Carnivora,Carnivorans,eats
+42069,44185,Muridae,Old World Mice and Rats,eats
+42069,45933,Sciuridae,Squirrels,eats
+42069,39532,Testudines,Turtles and Tortoises,eats
+42069,6912,Anatidae,"Ducks, Geese, and Swans",eats
+42069,180007,Otospermophilus beecheyi,California Ground Squirrel,eats
+42069,47115,Mollusca,Molluscs,eats
+42069,46260,Tamiasciurus hudsonicus,American Red Squirrel,eats
+42069,43096,Sylvilagus,Cottontail Rabbits,eats
+42069,55987,Myodes,Red-backed Voles,eats
+42069,6888,Anseriformes,Waterfowl,eats
+42069,41880,Mephitis mephitis,Striped Skunk,eats
+42069,48147,Isopoda,Isopods,eats
+42069,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+42069,44027,Geomyidae,Pocket Gophers,eats
+42069,154,Rallidae,"Rails, Gallinules, and Coots",eats
+42069,573,Galliformes,Landfowl,eats
+42069,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+42069,20979,Anura,Frogs and Toads,eats
+42069,42219,Odocoileus,White-tailed and Mule Deer,eats
+42069,980,Phasianus,,eats
+42069,41801,Mustela,,eats
+42069,47170,Fungi,Fungi Including Lichens,eats
+42069,42223,Odocoileus virginianus,White-tailed Deer,eats
+42069,42541,Didelphidae,Opossums,eats
+42069,209233,Equus caballus,Domestic Horse,eats
+42069,36982,Scincidae,Skinks,eats
+42069,44737,Neotoma,Woodrats,eats
+42069,44396,Peromyscus maniculatus,Deer Mouse,eats
+42069,520586,Tamias,,eats
+42069,46078,Marmota,Marmots,eats
+42069,574,Phasianidae,"Pheasants, Grouse, and Allies",eats
+42069,39782,Trachemys scripta,Common Slider,eats
+42069,44395,Peromyscus leucopus,White-footed Mouse,eats
+42069,39771,Chrysemys picta,Painted Turtle,eats
+42069,44311,Microtus pennsylvanicus,Meadow Vole,eats
+42069,39682,Chelydra serpentina,Common Snapping Turtle,eats
+42069,4385,Larus californicus,California Gull,eats
+42069,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+42069,46217,Tamias striatus,Eastern Chipmunk,eats
+42069,473,Fulica americana,American Coot,eats
+42069,59815,Sorex cinereus,Masked Shrew,eats
+42069,42652,Didelphis virginiana,Virginia Opossum,eats
+42069,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+42069,7018,Anser anser,Greylag Goose,eats
+42069,7107,Aix sponsa,Wood Duck,eats
+42069,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+42069,55884,Rosa canina,Dog-rose,eats
+42069,60265,Asparagus officinalis,wild asparagus,eats
+42069,48629,Prunus americana,American plum,eats
+42069,58725,Juniperus communis,common juniper,eats
+42069,83072,Syringa vulgaris,common lilac,eats
+42069,47193,Cornus,dogwoods,eats
+42069,54812,Rhamnus,Buckthorns,eats
+42069,59035,Solanum americanum,American black nightshade,eats
+42069,50298,Fragaria vesca,wild strawberry,eats
+42069,60218,Ficus carica,common fig,eats
+42069,55882,Hedera helix,common ivy,eats
+42069,47574,Juniperus,junipers,eats
+42069,79519,Vitis vinifera,wine grape,eats
+42069,47351,Prunus,"plums, cherries, and allies",eats
+42069,48599,Phytolacca americana,American pokeweed,eats
+42069,55972,Frangula alnus,alder buckthorn,eats
+42069,54834,Prunus serotina,black cherry,eats
+42069,51874,Lonicera,honeysuckles,eats
+42069,57140,Olea europaea,Olive,eats
+42069,45994,Sciurus,Tree Squirrels,eats
+42069,43584,Homo sapiens,Human,eats
+42069,4342,Laridae,"Gulls, Terns, and Skimmers",eats
+42069,49567,Carabidae,Ground Beetles,eats
+42069,47434,Poaceae,grasses,eats
+42069,47178,Actinopterygii,Ray-finned Fishes,eats
+42069,981,Phasianus colchicus,Ring-necked Pheasant,eats
+42069,3000,Columba,Old World Pigeons,eats
+42069,57983,Helianthus annuus,Common Sunflower,eats
+42069,882,Gallus gallus,Red Junglefowl,eats
+42069,4496,Rynchops niger,Black Skimmer,eats
+42069,4647,Falco peregrinus,Peregrine Falcon,eats
+42069,41663,Procyon lotor,Common Raccoon,eats
+42069,4504,Fratercula arctica,Atlantic Puffin,eats
+42069,5163,Circus,Harriers,eats
+42069,4789,Charadrius alexandrinus,Kentish Plover,eats
+42069,7086,Branta,Black Geese,eats
+42069,4672,Falco columbarius,Merlin,eats
+42069,4180,Fulmarus glacialis,Northern Fulmar,eats
+42069,3901,Numenius phaeopus,Whimbrel,eats
+42069,3912,Gallinago,Typical Snipes,eats
+42069,2969,Streptopelia decaocto,Eurasian Collared-Dove,eats
+42069,144537,Hydroprogne caspia,Caspian Tern,eats
+42069,144541,Thalasseus sandvicensis,Sandwich Tern,eats
+42069,7006,Anser,Grey Geese,eats
+42069,3959,Phalaropus lobatus,Red-necked Phalarope,eats
+42069,34435,Hemidactylus turcicus,Mediterranean House Gecko,eats
+42069,3017,Columba livia,Rock Pigeon,eats
+42069,7294,Eremophila alpestris,Horned Lark,eats
+42069,3938,Arenaria interpres,Ruddy Turnstone,eats
+42069,4381,Larus fuscus,Lesser Black-backed Gull,eats
+42069,4519,Uria aalge,Common Murre,eats
+42069,4349,Larus hyperboreus,Glaucous Gull,eats
+42069,6921,Cygnus olor,Mute Swan,eats
+42069,3802,Morus bassanus,Northern Gannet,eats
+42069,3951,Limosa lapponica,Bar-tailed Godwit,eats
+42069,6922,Anas,"Mallards, Pintails, and Allies",eats
+42069,3874,Tringa,"Shanks, Tattlers, and Allies",eats
+42069,4501,Alca torda,Razorbill,eats
+42069,4080,Oceanodroma leucorhoa,Leach's Storm-Petrel,eats
+42069,14850,Sturnus vulgaris,European Starling,eats
+42069,472,Fulica,Coots,eats
+42069,6930,Anas platyrhynchos,Mallard,eats
+42069,13858,Passer domesticus,House Sparrow,eats
+42069,14800,Sitta,Nuthatches,eats
+42069,35707,Podarcis carbonelli,Carbonell’s Wall Lizard,eats
+42069,906,Meleagris gallopavo,Wild Turkey,eats
+42069,122767,Columba livia domestica,Feral Pigeon,eats
+42069,46020,Sciurus niger,Fox Squirrel,eats
+42069,57145,Olea,Olives,eats
+42069,85553,Serpentes,Snakes,eats
+42069,42051,Canis latrans,Coyote,eatenBy
+42069,42069,Vulpes vulpes,Red Fox,eatenBy
+42069,42007,Puma concolor,Mountain Lion,eatenBy
+42069,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+42069,43584,Homo sapiens,Human,eatenBy
+42069,41636,Ursidae,Bears,eatenBy
+42069,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+42069,42048,Canis lupus,Gray Wolf,eatenBy
+42069,41955,Acinonyx jubatus,Cheetah,eatenBy
+42069,851014,Canis aureus,Golden Jackal,eatenBy
+42069,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+42069,41800,Martes foina,Stone Marten,eatenBy
+42069,41852,Gulo gulo,Wolverine,eatenBy
+42069,922459,Felis silvestris,European Wildcat,eatenBy
+42069,41979,Lynx lynx,Eurasian Lynx,eatenBy
+42069,41963,Panthera pardus,Leopard,eatenBy
+42069,,Martes pennanti,,eatenBy
+42069,41967,Panthera tigris,Tiger,eatenBy
+42069,,Uncia uncia,,eatenBy
+42069,41641,Ursus arctos,Brown Bear,eatenBy
+42069,252531,Echidnophaga,Stick-tight Fleas,eatenBy
+42069,5081,Aquila adalberti,Spanish Eagle,eatenBy
+42069,,Aquila chrysaetos,,eatenBy
+42069,,Aquila heliaca,,eatenBy
+42069,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+42069,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+42069,62471,Limacidae,Keelback Slugs,preysOn
+42069,67688,Caelifera,"Grasshoppers, Locusts, and Allies",preysOn
+42069,51225,Tipulidae,Large Crane Flies,preysOn
+42069,69758,Lumbricidae,Earthworms,preysOn
+42069,333586,Oligochaeta,Earthworms and allies,preysOn
+42069,47649,Acrididae,Short-horned Grasshoppers,preysOn
+42069,48124,Tettigoniidae,Katydids,preysOn
+42069,53248,Elateridae,Click Beetles,preysOn
+42069,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+42069,4783,Charadriidae,Plovers and Lapwings,preysOn
+42069,6888,Anseriformes,Waterfowl,preysOn
+42069,7251,Passeriformes,Perching Birds,preysOn
+42069,46217,Tamias striatus,Eastern Chipmunk,preysOn
+42069,43096,Sylvilagus,Cottontail Rabbits,preysOn
+42069,9083,Cardinalis cardinalis,Northern Cardinal,preysOn
+42069,44311,Microtus pennsylvanicus,Meadow Vole,preysOn
+42069,46017,Sciurus carolinensis,Eastern Gray Squirrel,preysOn
+42069,44576,Rattus norvegicus,Brown Rat,preysOn
+42069,505478,Gallus gallus domesticus,Domestic Chicken,preysOn
+42069,,Lepus americanus,,preysOn
+42069,,Talpa europaea,,preysOn
+42069,335582,Conocephalus dorsalis,Short-winged Conehead,preysOn
+42069,,Hyla arborea,,preysOn
+42069,,Microtus agrestis,,preysOn
+42069,,Stethophyma grossum,,preysOn
+42069,231469,Staphylinus erythropterus,,preysOn
+42069,,Triturus,,preysOn
+42069,25591,Rana temporaria,European Common Frog,preysOn
+42069,498635,Lithobius piceus,,preysOn
+42069,,Conocephalus fuscus,,preysOn
+42069,,Ensifera,,preysOn
+42069,,Haemopis sanguisuga,,preysOn
+42069,,Tetrix,,preysOn
+42069,,Chorthippus,,preysOn
+42069,25474,Rana,Pond Frogs,preysOn
+42069,,Alboglossiphonia heteroclita,,preysOn
+42069,,Chorthippus montanus,,preysOn
+42069,63081,Hirudinea,Leeches,preysOn
+42069,216086,Carabus granulatus,Granulated Ground Beetle,preysOn
+42069,,Tetrix subulata,,preysOn
+42069,468492,Armadillidium opacum,Opaque Pill Woodlouse,preysOn
+42069,,Lepus arcticus,,preysOn
+42069,,Lemmings,,preysOn
+42069,,Microtus oeconomus,,preysOn
+42069,,Carabus,,preysOn
+42069,15282,Sylvia atricapilla,Eurasian Blackcap,preysOn
+42069,,Timarcha tenebricosa,,preysOn
+42069,,Arvicolinae,,preysOn
+42069,,Lepus europaeus,,preysOn
+42069,,Sciurus vulgaris,,preysOn
+42069,,Cynomys ludovicianus,,preysOn
+42069,3740,Threskiornis molucca,Australian White Ibis,preysOn
+42069,7998,Corvus,Crows and Ravens,preyedUponBy
+42069,41979,Lynx lynx,Eurasian Lynx,preyedUponBy

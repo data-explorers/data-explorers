@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+200855,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+200855,51364,Brevoortia patronus,Gulf Menhaden,eatenBy
+200855,106222,Mugil cephalus,Sea Mullet,eatenBy
+200855,98945,Cyprinodon variegatus,Sheepshead Minnow,eatenBy
+200855,93611,Alburnus alburnus,Bleak,eatenBy
+200855,,Hypophthalmichthys molitrix,,eatenBy
+200855,114558,Tropheops tropheops,Golden Tropheops,eatenBy
+200855,230431,Sarotherodon melanotheron,Blackchin Tilapia,eatenBy
+200855,,Oreochromis saka,,eatenBy
+200855,,Oreochromis squamipinnis,,eatenBy
+200855,532638,Oreochromis shiranus,Shiranus Tilapia,eatenBy
+200855,,Oreochromis lidole,,eatenBy
+200855,69989,Rutilus rutilus,Common Roach,eatenBy
+200855,,Esomus thermoicos,,eatenBy
+200855,107885,Oreochromis leucostictus,Blue-spotted Tilapia,eatenBy
+200855,187244,Clupeichthys aesarnensis,Thai River Sprat,eatenBy
+200855,545699,Mormyrus rume,Senegal mormyrid,eatenBy
+200855,,Hampala macrolepidota,,eatenBy
+200855,,Crenimugil buchanani,,eatenBy
+200855,,Ellochelon vaigiensis,,eatenBy
+200855,203468,Bosmina longirostris,Elephant Water Flea,eatenBy
+200855,,Nebela tincta,,preyedUponBy

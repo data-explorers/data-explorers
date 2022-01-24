@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+125727,58509,Anatrytone logan,Delaware Skipper,eatenBy
+125727,,Hesperia leonardus,,eatenBy
+125727,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+125727,130878,Anthrax,Charcoal Bee Flies,pollinatedBy
+125727,57677,Halictus,Furrow Bees,pollinatedBy
+125727,119074,Chlorion,,pollinatedBy
+125727,,Hyalurgus,,pollinatedBy
+125727,,Cheilosia capillata,,pollinatedBy
+125727,250312,Orgilus,,pollinatedBy
+125727,,Holcopasites heliopsis,,pollinatedBy
+125727,,Pseudosiobla,,pollinatedBy
+125727,,Brachypalpus,,pollinatedBy
+125727,,Lispe albitarsis,,pollinatedBy
+125727,,Carceris robertsonii,,pollinatedBy
+125727,,Sarcophaga sinuata,,pollinatedBy
+125727,,Teleas,,pollinatedBy
+125727,,Elis,,pollinatedBy
+125727,47342,Crematogaster,Cocktail Ants,pollinatedBy
+125727,346754,Dacnusa,,pollinatedBy
+125727,,Sapyga centrata,,pollinatedBy
+125727,,Bracon,,pollinatedBy
+125727,,Frontina,,pollinatedBy
+125727,,Pemphredon inornata,,pollinatedBy
+125727,,Pseudopanurgus,,pollinatedBy
+125727,,Typocerus sinuatus,,pollinatedBy
+125727,,Bibio albipennis,,pollinatedBy
+125727,,Brachicoma,,pollinatedBy
+125727,,Rhingia nasica,,pollinatedBy
+125727,,Xanthidium,,pollinatedBy
+125727,,Belvosia bifasciata,,pollinatedBy
+125727,,Epistrophe emarginata,,pollinatedBy
+125727,,Holonomada,,pollinatedBy
+125727,,Ceratina dupla,,pollinatedBy
+125727,,Holandrena,,pollinatedBy
+125727,43329,Equus,Equines,preyedUponBy
+125727,,Gazella thomsonii,,preyedUponBy
+125727,,Gazella granti,,preyedUponBy
+125727,,Connochaetes taurinus,,preyedUponBy
+125727,,Papio anubis,,preyedUponBy
+125727,,Alcelaphus buselaphus,,preyedUponBy
+125727,,Rhabdomys pumilio,,preyedUponBy
+125727,,Syncerus caffer,,preyedUponBy
+125727,,Kobus ellipsiprymnus,,preyedUponBy

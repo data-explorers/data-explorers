@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42007,42219,Odocoileus,White-tailed and Mule Deer,eats
+42007,209233,Equus caballus,Domestic Horse,eats
+42007,42007,Puma concolor,Mountain Lion,eats
+42007,47178,Actinopterygii,Ray-finned Fishes,eats
+42007,41638,Ursus americanus,American Black Bear,eats
+42007,47115,Mollusca,Molluscs,eats
+42007,42223,Odocoileus virginianus,White-tailed Deer,eats
+42007,42069,Vulpes vulpes,Red Fox,eats
+42007,3,Aves,Birds,eats
+42007,40151,Mammalia,Mammals,eats
+42007,79291,Syagrus romanzoffiana,Queen palm,eats
+42007,53985,Odocoileus hemionus californicus,California Mule Deer,eats
+42007,47434,Poaceae,grasses,eats
+42007,43698,Rodentia,Rodents,eats
+42007,41573,Carnivora,Carnivorans,eats
+42007,41663,Procyon lotor,Common Raccoon,eats
+42007,41770,Mustelidae,Mustelids,eats
+42007,26036,Reptilia,Reptiles,eats
+42007,41944,Felidae,Felids,eats
+42007,41976,Lynx rufus,Bobcat,eats
+42007,42051,Canis latrans,Coyote,eats
+42007,42076,Urocyon cinereoargenteus,Gray Fox,eats
+42007,42220,Odocoileus hemionus,Mule Deer,eats
+42007,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+42007,47126,Plantae,plants,eats
+42007,43794,Castor canadensis,American Beaver,eats
+42007,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+42007,44349,Peromyscus,North American Deer Mice,eats
+42007,42652,Didelphis virginiana,Virginia Opossum,eats
+42007,43115,Sylvilagus audubonii,Desert Cottontail,eats
+42007,43095,Leporidae,Hares and Rabbits,eats
+42007,43839,Zapus,,eats
+42007,43096,Sylvilagus,Cottontail Rabbits,eats
+42007,43329,Equus,Equines,eats
+42007,42646,Didelphis,Large American Opossums,eats
+42007,47158,Insecta,Insects,eats
+42007,41871,Mephitidae,Skunks and Stink-badgers,eats
+42007,43094,Lagomorpha,Lagomorphs,eats
+42007,42158,Cervidae,Deer,eats
+42007,45933,Sciuridae,Squirrels,eats
+42007,43711,Dasyprocta,Agoutis,eats
+42007,42541,Didelphidae,Opossums,eats
+42007,43328,Equidae,Equines,eats
+42007,118552,Felis catus,Domestic Cat,eats
+42007,522201,Neotoma lepida,Desert Woodrat,eats
+42007,44259,Microtus,Meadow Voles,eats
+42007,44185,Muridae,Old World Mice and Rats,eats
+42007,45763,Ondatra zibethicus,Muskrat,eats
+42007,44010,Erethizontidae,New World Porcupines,eats
+42007,,Mazama gouazoupira,,eats
+42007,,Cervus elaphus,,eats
+42007,,Myrmecophaga tridactyla,,eats
+42007,,Nasua nasua,,eats
+42007,,Copernicia alba,,eats
+42007,,Odocoileus hemionus columbianus,,eats
+42007,,Bos taurus,,eats
+42007,,Lama glama guanicoe,,eats
+42007,,Mustela frenata,,eats
+42007,,Lepus europaeus,,eats
+42007,74257,Cuniculus paca,Spotted Paca,eats
+42007,,Caviidae,,eats
+42007,,Proechimys semispinosus,,eats
+42007,,Alces alces,,eats
+42007,47078,Zaedyus pichiy,Pichi,eats
+42007,,"Mammal, undetermined",,eats
+42007,,Sylvilagus cunicularius,,eats
+42007,,Cebus capucinus,,eats
+42007,,Microcavia australis,,eats
+42007,,Dasypus novemcinctus,,eats
+42007,42113,Pecari tajacu,Collared Peccary,eats
+42007,,Philander opossum,,eats
+42007,,Camelidae,,eats
+42007,43997,Myocastor coypus,Coypu,eats
+42007,,Capra hircus,,eats
+42007,,Hydrochoerus hydrochaeris,,eats
+42007,74527,Loxodontomys micropus,southern big-eared mouse,eats
+42007,,Liomys irroratus,,eats
+42007,,Livestock,,eats
+42007,,Conepatus humboldtii,,eats
+42007,,Pudu mephistophiles,,eats
+42007,,Large livestock,,eats
+42007,,Marmota flaviventris,,eats
+42007,47088,Chaetophractus villosus,Large Hairy Armadillo,eats
+42007,,"Medium mammal, undetermined",,eats
+42007,43712,Dasyprocta punctata,Central American Agouti,eats
+42007,,Bos,,eats
+42007,,Tamandua mexicana,,eats
+42007,,Potos flavus,,eats
+42007,,Ctenomys,,eats
+42007,,Eira barbara,,eats
+42007,,"Large mammal, undetermined",,eats
+42007,,Dasyprocta azarae,,eats
+42007,,Tayassuidae,,eats
+42007,42134,Sus scrofa,Wild Boar,eats
+42007,,Erethizon dorsatum,,eats
+42007,,Sigmodon hispidus,,eats
+42007,,"Bird, undetermined",,eats
+42007,,Ovis aries,,eats
+42007,,Ovis canadensis,,eats
+42007,,Mazama rufina,,eats
+42007,42007,Puma concolor,Mountain Lion,eatenBy
+42007,41636,Ursidae,Bears,eatenBy
+42007,42048,Canis lupus,Gray Wolf,eatenBy
+42007,516126,Lycalopex culpaeus,Culpeo,eatenBy
+42007,42007,Puma concolor,Mountain Lion,preysOn
+42007,41663,Procyon lotor,Common Raccoon,preysOn
+42007,,Odocoileus hemionus columbianus,,preysOn
+42007,42134,Sus scrofa,Wild Boar,preysOn
+42007,,Lama guanicoe,,preysOn
+42007,42007,Puma concolor,Mountain Lion,preyedUponBy
+42007,43584,Homo sapiens,Human,preyedUponBy

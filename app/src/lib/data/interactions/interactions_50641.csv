@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50641,50641,Solanum,nightshades,eats
+50641,,Solanum sp.3,,eats
+50641,50641,Solanum,nightshades,eatenBy
+50641,48548,Vanessa cardui,Painted Lady,eatenBy
+50641,61505,Manduca sexta,Carolina Sphinx,eatenBy
+50641,202789,Trichoplusia ni,Cabbage Looper Moth,eatenBy
+50641,231425,Spodoptera exigua,Beet Armyworm Moth,eatenBy
+50641,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+50641,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+50641,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+50641,41090,Glossophaga soricina,Pallas's Long-tongued Bat,eatenBy
+50641,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+50641,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+50641,40992,Artibeus,Neotropical Fruit Bats,eatenBy
+50641,199404,Ceratitis capitata,Mediterranean Fruit Fly,eatenBy
+50641,67720,Asphondylia,,eatenBy
+50641,12705,Turdus,Typical Thrushes,eatenBy
+50641,45994,Sciurus,Tree Squirrels,eatenBy
+50641,47219,Apis mellifera,Western Honey Bee,eatenBy
+50641,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+50641,57681,Anthophora urbana,Urbane Digger Bee,eatenBy
+50641,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+50641,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+50641,52775,Bombus,Bumble Bees,eatenBy
+50641,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+50641,243984,Pyrausta californicalis,California Pyrausta Moth,eatenBy
+50641,308726,Anthophora californica,California Digger Bee,eatenBy
+50641,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+50641,12890,Catharus guttatus,Hermit Thrush,eatenBy
+50641,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+50641,906,Meleagris gallopavo,Wild Turkey,eatenBy
+50641,3454,Zenaida macroura,Mourning Dove,eatenBy
+50641,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+50641,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+50641,12942,Sialia sialis,Eastern Bluebird,eatenBy
+50641,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+50641,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+50641,,Thryptomenomiris kalbarri,,eatenBy
+50641,,Mictis profana,,eatenBy
+50641,,Melanerythrus mactans,,eatenBy
+50641,,Arawacus jada,,eatenBy
+50641,,Callithomia hezia,,eatenBy
+50641,,Ceratinia tutia,,eatenBy
+50641,123992,Dircenna klugii,Klug’s Clearwing,eatenBy
+50641,,Episcada salvinia,,eatenBy
+50641,,Dircenna dero,,eatenBy
+50641,354564,Coeliades forestan,Striped Policeman,eatenBy
+50641,,Hypothyris euclea,,eatenBy
+50641,,Hypothyris lycaste,,eatenBy
+50641,,Godyris zavaleta,,eatenBy
+50641,258085,Hypoleria lavinia,,eatenBy
+50641,,Hypolycaena,,eatenBy
+50641,,Mechanitis lysimnia,,eatenBy
+50641,,Nisoniades godma,,eatenBy
+50641,,Mechanitis polymnia,,eatenBy
+50641,,Mechanitis mazaeus,,eatenBy
+50641,,Mechanitis menapis,,eatenBy
+50641,513876,Oleria onega,,eatenBy
+50641,,Napeogenes tolosa,,eatenBy
+50641,,Oleria zelica,,eatenBy
+50641,,Oleria vicina,,eatenBy
+50641,,Oleria rubescens,,eatenBy
+50641,,Scada zibia,,eatenBy
+50641,294013,Pteronymia simplex,,eatenBy
+50641,,Pteronymia latilla,,eatenBy
+50641,40870,Pteropus,Flying Foxes,eatenBy
+50641,,Platynota idaeusalis,,eatenBy
+50641,217191,Clepsis spectrana,Cyclamen Tortrix,eatenBy
+50641,,Phthoropoea carpella,,eatenBy
+50641,,Acherontia styx,,eatenBy
+50641,429114,Coelonia fulvinotata,Fulvous Hawk,eatenBy
+50641,,Atomopteryx solanalis,,eatenBy
+50641,,Epipagis olesialis,,eatenBy
+50641,330496,Rhectocraspeda periusalis,Eggplant Webworm Moth,eatenBy
+50641,,Diaphania indica,,eatenBy
+50641,,Ostrinia nubilalis,,eatenBy
+50641,,Loxostege sticticalis,,eatenBy
+50641,,Synanthedon rileyana,,eatenBy
+50641,,Oidaematophorus,,eatenBy
+50641,,Oidaematophorus pelodactyla,,eatenBy
+50641,,Lipocosma sicalis,,eatenBy
+50641,,Xestia c-nigrum,,eatenBy
+50641,,Chrysodeixis acuta,,eatenBy
+50641,,Agrapha,,eatenBy
+50641,,Chrysodeixis argentifera,,eatenBy
+50641,,Pseudoplusia includens,,eatenBy
+50641,507828,Hypothyris fluonia,,eatenBy
+50641,,Placidula euryanassa,,eatenBy
+50641,,Chrysodeixis subsidens,,eatenBy
+50641,,Cornutiplusia circumflexa,,eatenBy
+50641,,Tripseuxoa strigata,,eatenBy
+50641,221586,Hydraecia micacea,Rosy Rustic,eatenBy
+50641,,Pseudaletia unipuncta,,eatenBy
+50641,,Spodoptera eridania,,eatenBy
+50641,,Spodoptera latifascia,,eatenBy
+50641,,Mamestra brassicae,,eatenBy
+50641,,Spodoptera frugiperda,,eatenBy
+50641,,Persectania ewingii,,eatenBy
+50641,,Ariathisa abyssinia,,eatenBy
+50641,1225510,Vietteania torrentium,,eatenBy
+50641,,Syntheta nigerrima,,eatenBy
+50641,,Scoliopteryx libatrix,,eatenBy
+50641,47158,Insecta,Insects,pollinatedBy
+50641,47822,Diptera,Flies,pollinatedBy
+50641,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+50641,82528,Augochloropsis,,pollinatedBy
+50641,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+50641,,,,pollinatedBy
+50641,43088,Heterohyrax brucei,Bush Hyrax,preyedUponBy
+50641,,Madoqua kirkii,,preyedUponBy
+50641,,Procavia capensis,,preyedUponBy

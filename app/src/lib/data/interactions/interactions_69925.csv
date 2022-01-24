@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69925,,Phytoplankton,,eats
+69925,,Prymnesiophyceae,,eats
+69925,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+69925,41860,Enhydra lutris,Sea Otter,eatenBy
+69925,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+69925,111616,Rhacochilus vacca,Pile surfperch,eatenBy
+69925,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+69925,195859,Luidia foliolata,,eatenBy
+69925,,Tringa semipalmatus,,eatenBy
+69925,41766,Odobenus rosmarus,Walrus,eatenBy
+69925,4343,Larus,Large White-headed Gulls,preyedUponBy
+69925,111616,Rhacochilus vacca,Pile surfperch,preyedUponBy
+69925,195859,Luidia foliolata,,preyedUponBy
+69925,4399,Larus glaucescens,Glaucous-winged Gull,preyedUponBy

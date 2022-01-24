@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61789,,Euchrysops,,eatenBy
+61789,,Dialectica scalariella,,eatenBy
+61789,,Euchrysops subdita,,eatenBy
+61789,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+61789,,Eucera,,pollinatedBy

@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47383,52756,Polistes,Umbrella Paper Wasps,eats
+47383,47336,Formicidae,Ants,eats
+47383,154340,Gryllodes sigillatus,Tropical House Cricket,eats
+47383,47118,Araneae,Spiders,eats
+47383,47158,Insecta,Insects,eats
+47383,68941,Brachymyrmex,Rover Ants,eats
+47383,53275,Chironomidae,Non-biting Midges,eats
+47383,362839,Oligotoma,,eats
+47383,32058,Elgaria multicarinata webbii,San Diego Alligator Lizard,eats
+47383,47927,Anisoptera,Dragonflies,eats
+47383,47793,Dermaptera,Earwigs,eats
+47383,51111,Xylocopa,Large Carpenter Bees,eats
+47383,196419,Euborellia annulipes,Ring-legged Earwig,eats
+47383,48736,Curculionidae,True Weevils,eats
+47383,47822,Diptera,Flies,eats
+47383,67328,Pholcus phalangioides,Long-bodied Cellar Spider,eats
+47383,61858,Lucilia,Greenbottle Flies,eats
+47383,179916,Tipulomorpha,Crane Flies,eats
+47383,47219,Apis mellifera,Western Honey Bee,eats
+47383,48291,Oniscidae,Sow Bugs,eats
+47383,84634,Cyclocephala,Masked Chafers,eats
+47383,81769,Blattodea,Cockroaches and Termites,eats
+47383,,Listroderes costirostris,,eats
+47383,,Anolis,,eats
+47383,,Coras,,eats
+47383,,Thyanta pallidovirens,,eats
+47383,58421,Phidippus johnsoni,Johnson's Jumping Spider,eatenBy
+47383,120474,Araneomorphae,Typical Spiders,preysOn
+47383,47416,Lycosidae,Wolf Spiders,preysOn
+47383,131029,Prionyx,,preysOn
+47383,48736,Curculionidae,True Weevils,preysOn
+47383,47219,Apis mellifera,Western Honey Bee,preysOn
+47383,343248,Polistinae,Paper Wasps,preysOn
+47383,81769,Blattodea,Cockroaches and Termites,preysOn
+47383,47336,Formicidae,Ants,preysOn
+47383,184884,Pterygota,Winged and Once-winged Insects,preysOn
+47383,82231,Periplaneta americana,American Cockroach,preysOn
+47383,47157,Lepidoptera,Butterflies and Moths,preysOn
+47383,47742,Pentatomidae,Stink Bugs,preysOn
+47383,53763,Scolopendromorpha,Tropical Centipedes,preysOn
+47383,32058,Elgaria multicarinata webbii,San Diego Alligator Lizard,preysOn
+47383,51111,Xylocopa,Large Carpenter Bees,preysOn
+47383,48894,Scorpiones,Scorpions,preysOn
+47383,,Tapajosa,,preysOn
+47383,,Ectatomma,,preysOn
+47383,750962,Polybia ruficeps xanthops,,preysOn
+47383,,Atta,,preysOn
+47383,303194,Calosoma alternans,,preysOn

@@ -1,0 +1,41 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50822,6317,Calypte anna,Anna's Hummingbird,eatenBy
+50822,9319,Icterus cucullatus,Hooded Oriole,eatenBy
+50822,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+50822,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+50822,57688,Xylocopa californica,Western Carpenter,eatenBy
+50822,47219,Apis mellifera,Western Honey Bee,eatenBy
+50822,,Leptonycteris nivalis,,eatenBy
+50822,,Leptonycteris yerbabuenae,,eatenBy
+50822,,Tiracola plagiata,,eatenBy
+50822,309685,Chilocorus cacti,Cactus Lady Beetle,eatenBy
+50822,,Xylocopa californica arizonensis,,eatenBy
+50822,,Colletotrichum coccodes,,eatenBy
+50822,,Aegiale hesperiaris,,eatenBy
+50822,12632,Phylidonyris novaehollandiae,New Holland Honeyeater,eatenBy
+50822,,Agathymus remingtoni,,eatenBy
+50822,,Agathymus hoffmanni,,eatenBy
+50822,172806,Agathymus,,eatenBy
+50822,,Agathymus dawsoni,,eatenBy
+50822,,Agathymus estelleae,,eatenBy
+50822,,Agathymus rindgei,,eatenBy
+50822,,Agathymus indecisa,,eatenBy
+50822,,Agathymus carlsbadensis,,eatenBy
+50822,293892,Agathymus ricei,Rice's Giant-Skipper,eatenBy
+50822,,Agathymus gilberti,,eatenBy
+50822,,Agathymus juliae,,eatenBy
+50822,,Stallingsia jacki,,eatenBy
+50822,,Colletotrichum crassipes,,eatenBy
+50822,40871,Pteropus seychellensis,Seychelles flying fox,eatenBy
+50822,,Glossophaga longirostris,,eatenBy
+50822,,Leptonycteris curasoae,,eatenBy
+50822,,Cyrtonyx montezumae,,eatenBy
+50822,3460,Zenaida asiatica,White-winged Dove,eatenBy
+50822,40268,Chiroptera,Bats,pollinatedBy
+50822,61506,Manduca,,pollinatedBy
+50822,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+50822,,Leptonycteris curasoae,,pollinatedBy
+50822,,Leptonycteris yerbabuenae,,pollinatedBy
+50822,41182,Choeronycteris mexicana,Long-tongued Bat,pollinatedBy
+50822,,Leptonycteris nivalis,,pollinatedBy
+50822,,Antrozous pallidus,,pollinatedBy

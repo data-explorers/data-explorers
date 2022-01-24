@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64222,121643,Copepoda,Copepods,eats
+64222,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+64222,131530,Lutjanus synagris,Lane Snapper,eatenBy
+64222,58652,Umbra,,eatenBy
+64222,58627,Perca flavescens,Yellow Perch,eatenBy

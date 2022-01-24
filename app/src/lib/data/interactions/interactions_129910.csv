@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129910,47126,Plantae,plants,eats
+129910,,Zooplankton,,eats
+129910,,detritus - plankton,,eats
+129910,,Phytoplankton,,eats
+129910,,plankton,,eats
+129910,,Detritus complex,,eats
+129910,48752,Lottia,Lottia Limpets,eatenBy
+129910,63243,Lottia pelta,Shield Limpet,eatenBy
+129910,429195,Nucella emarginata,Emarginate Dogwinkle,eatenBy
+129910,,Acanthina spirata,,eatenBy
+129910,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+129910,49071,Metridium senile,Plumose Anemone,eatenBy
+129910,117641,Nucella lamellosa,Wrinkled Purple,eatenBy
+129910,,Leptasterias,,eatenBy
+129910,69998,Nucella canaliculata,Channeled Dog Winkle,eatenBy
+129910,47632,Katharina tunicata,Black Leather Chiton,eatenBy
+129910,51283,Emplectonematidae,,eatenBy
+129910,,Tectura scutum,,eatenBy
+129910,51280,Nemertea,Ribbon Worms,eatenBy
+129910,,Phytoplankton,,preysOn
+129910,,Detritus complex,,preysOn
+129910,,Zooplankton,,preysOn
+129910,48752,Lottia,Lottia Limpets,preyedUponBy
+129910,429195,Nucella emarginata,Emarginate Dogwinkle,preyedUponBy
+129910,,Zooplankton,,preyedUponBy
+129910,51280,Nemertea,Ribbon Worms,preyedUponBy
+129910,47632,Katharina tunicata,Black Leather Chiton,preyedUponBy
+129910,,Tectura scutum,,preyedUponBy
+129910,,Leptasterias,,preyedUponBy
+129910,69998,Nucella canaliculata,Channeled Dog Winkle,preyedUponBy
+129910,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+129910,117641,Nucella lamellosa,Wrinkled Purple,preyedUponBy

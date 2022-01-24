@@ -1,0 +1,90 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56832,53549,Ulmus,elms,eats
+56832,54858,Celtis,hackberries,eats
+56832,47566,Populus,"poplars, cottonwoods, and aspens",eats
+56832,53453,Salix,Willows,eats
+56832,54771,Ostrya virginiana,American hophornbeam,eats
+56832,51886,Urtica,nettles,eats
+56832,54857,Celtis occidentalis,common hackberry,eats
+56832,49883,Betula papyrifera,paper birch,eats
+56832,54841,Salix alba,white willow,eats
+56832,49882,Betula alleghaniensis,yellow birch,eats
+56832,49156,Betula,birches,eats
+56832,54844,Salix discolor,pussy willow,eats
+56832,53195,Rumex acetosella,Sheep's sorrel,eats
+56832,75377,Alnus incana,grey alder,eats
+56832,59008,Salix exigua,Narrowleaf Willow,eats
+56832,79462,Ulmus parvifolia,Chinese elm,eats
+56832,52119,Populus deltoides,Eastern Cottonwood,eats
+56832,79463,Ulmus pumila,Siberian elm,eats
+56832,54840,Populus tremuloides,trembling aspen,eats
+56832,54856,Tilia,"lindens, basswoods, and lime trees",eats
+56832,47727,Acer,maples,eats
+56832,53438,Rosa,roses,eats
+56832,53352,Alnus,alders,eats
+56832,54806,Fraxinus,ashes,eats
+56832,48582,Sorbus,Rowans and Mountain Ashes,eats
+56832,48151,Lamiales,"mints, plantains, olives, and allies",eats
+56832,936160,Verbeneae,,eats
+56832,75916,Buddleja davidii,Butterfly bush,eats
+56832,47602,Taraxacum officinale,common dandelion,eats
+56832,53452,Salix lasiolepis,Arroyo Willow,eats
+56832,47179,Arctostaphylos,bearberries and manzanitas,eats
+56832,922110,Amygdaloideae,,eats
+56832,47351,Prunus,"plums, cherries, and allies",eats
+56832,48460,Life,,eats
+56832,47911,Asclepias syriaca,common milkweed,eats
+56832,125845,Prunus caroliniana,Carolina laurelcherry,eats
+56832,,Salix fragilis,,eats
+56832,47570,Populus alba,white poplar,eats
+56832,,Celtis laevigata,,eats
+56832,168326,Salix cinerea,Grey Willow,eats
+56832,374345,Betyla,,eats
+56832,,Humulus lupulus,,eats
+56832,,Betula nana,,eats
+56832,,Salix bebbiana,,eats
+56832,,Onobrychis viciifolia,,eats
+56832,85085,Salix aurita,Eared Willow,eats
+56832,,Fraxinus americana,,eats
+56832,,Populus balsamifera,,eats
+56832,,Betula chinensis,,eats
+56832,,Betula pendula,,eats
+56832,55846,Salix caprea,goat willow,eats
+56832,,Populus jackii,,eats
+56832,,Salix babylonica,,eats
+56832,,Salix amygdaloides,,eats
+56832,,Betula pubescens,,eats
+56832,,Morus rubra,,eats
+56832,,Betula pubescens pubescens,,eats
+56832,,Salix viminalis,,eats
+56832,,Populus tremula,,eats
+56832,,Salix lucida lucida,,eats
+56832,,Populus grandidentata,,eats
+56832,63951,Pyrus communis,Common Pear,eats
+56832,168349,Salix pentandra,Laurel willow,eats
+56832,,Salix sitchensis,,eats
+56832,,http://treatment.plazi.org/id/BF597840FC77D2721ECC5370540D9E65,,eats
+56832,,Salix phylicifolia,,eats
+56832,54860,Ulmus rubra,slippery elm,eats
+56832,,Ulmus americana,,eats
+56832,,http://treatment.plazi.org/id/861F19EDB057AF161856ABB66130C261,,eats
+56832,,Salix lutea,,eats
+56832,,Populus nigra,,eats
+56832,,Salix sericea,,eats
+56832,,Onobrychis,,eats
+56832,83434,Diospyros,persimmons,eats
+56832,53348,Aesculus californica,California buckeye,eats
+56832,51046,Arbutus menziesii,Pacific madrone,eats
+56832,55137,Arctostaphylos manzanita,Common Manzanita,eats
+56832,,Vicia gigantea,,eats
+56832,,Adelinia grande,,eats
+56832,69993,Salix bonplandiana,red willow,eats
+56832,12937,Sialia mexicana,Western Bluebird,eatenBy
+56832,,Sceloporus occidentalis longipes,,eatenBy
+56832,83072,Syringa vulgaris,common lilac,pollinates
+56832,56832,Nymphalis antiopa,Mourning Cloak,preysOn
+56832,12937,Sialia mexicana,Western Bluebird,preyedUponBy
+56832,14850,Sturnus vulgaris,European Starling,preyedUponBy
+56832,16779,Tyrannus vociferans,Cassin's Kingbird,preyedUponBy
+56832,56832,Nymphalis antiopa,Mourning Cloak,preyedUponBy
+56832,,Dromogomphus spinosus,,preyedUponBy

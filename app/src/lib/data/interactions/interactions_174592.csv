@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+174592,47566,Populus,"poplars, cottonwoods, and aspens",eats
+174592,54491,Corylus avellana,common hazel,eats
+174592,54841,Salix alba,white willow,eats
+174592,51147,Crataegus monogyna,common hawthorn,eats
+174592,55847,Euonymus europaeus,Spindle,eats
+174592,765394,Sambucus nigra,European black elderberry,eats
+174592,55811,Prunus spinosa,Blackthorn,eats
+174592,79461,Ulmus minor,Field Elm,eats
+174592,155124,Cornus sanguinea,common dogwood,eats
+174592,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+174592,11867,Progne subis,Purple Martin,eatenBy
+174592,,Salpinctes obsoletus,,eatenBy
+174592,7603,Auriparus flaviceps,Verdin,eatenBy
+174592,13732,Anthus rubescens,American Pipit,eatenBy

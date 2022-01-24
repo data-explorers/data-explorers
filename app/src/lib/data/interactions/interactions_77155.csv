@@ -1,0 +1,62 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+77155,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+77155,126545,Dialictus,Metallic Sweat Bees,eatenBy
+77155,12727,Turdus migratorius,American Robin,eatenBy
+77155,,North American deermouse,,eatenBy
+77155,,Southern red-backed vole,,eatenBy
+77155,,Acleris fragariana,,eatenBy
+77155,,Lacinipolia lorea,,eatenBy
+77155,,Polia purpurissata,,eatenBy
+77155,1040783,Pyrgus,Grizzled Skippers,eatenBy
+77155,41641,Ursus arctos,Brown Bear,eatenBy
+77155,1240,Dendragapus,Blue Grouse,eatenBy
+77155,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+77155,120114,Anthrenus,Carpet Beetles,pollinatedBy
+77155,132237,Rivellia,,pollinatedBy
+77155,48060,Prosopis,mesquites,pollinatedBy
+77155,126545,Dialictus,Metallic Sweat Bees,pollinatedBy
+77155,176923,Mordella,,pollinatedBy
+77155,178498,Phytocoris,,pollinatedBy
+77155,47822,Diptera,Flies,pollinatedBy
+77155,556258,Chelostomoides,,pollinatedBy
+77155,56776,Glaucopsyche lygdamus,Silvery Blue,pollinatedBy
+77155,58531,Colias philodice,Clouded Sulphur,pollinatedBy
+77155,,Trichiotinus affinis,,pollinatedBy
+77155,,Eumea caesar,,pollinatedBy
+77155,,Podabrus brunnicollis,,pollinatedBy
+77155,,Bracon,,pollinatedBy
+77155,,Pseudopanurgus,,pollinatedBy
+77155,,Triepeolus simplex,,pollinatedBy
+77155,124313,Leucania,,pollinatedBy
+77155,,Trachandrena,,pollinatedBy
+77155,,Hyalurgus,,pollinatedBy
+77155,,http://treatment.plazi.org/id/C4980AEB0983855F5668B5045CA0789C,,pollinatedBy
+77155,,Vermiculissimum,,pollinatedBy
+77155,,Nysson plagiatus,,pollinatedBy
+77155,,Lampronota,,pollinatedBy
+77155,,Curtisapis,,pollinatedBy
+77155,,Morellia micans,,pollinatedBy
+77155,,Ceratopogon,,pollinatedBy
+77155,,Cerceris clypeata,,pollinatedBy
+77155,,Trirhoptrasema,,pollinatedBy
+77155,,Epistrophe emarginata,,pollinatedBy
+77155,,Parhelophilus divisus,,pollinatedBy
+77155,,Didea fasciata ,,pollinatedBy
+77155,,Typocerus lugubris,,pollinatedBy
+77155,,Evylaeus,,pollinatedBy
+77155,,Leptometopa latipes,,pollinatedBy
+77155,,Limnophora narona,,pollinatedBy
+77155,,Saparnopolius fulvus,,pollinatedBy
+77155,,Ophion,,pollinatedBy
+77155,341139,Exorista,,pollinatedBy
+77155,1073978,Myolepta varipes,Orange-banded Spineleg,pollinatedBy
+77155,,Thecla edwardsi,,pollinatedBy
+77155,,Nemopoda,,pollinatedBy
+77155,,Chloralictus,,pollinatedBy
+77155,371820,Metopia argyrocephala,,pollinatedBy
+77155,,Colletes productus,,pollinatedBy
+77155,299141,Urosigalphus femoratus,,pollinatedBy
+77155,699698,Neotrypetes,,pollinatedBy
+77155,,Hypostena,,pollinatedBy
+77155,,Mordellistena comata,,pollinatedBy
+77155,,Amblyscirtes vialis,,pollinatedBy

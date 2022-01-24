@@ -1,0 +1,185 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49796,47114,Gastropoda,Gastropods,eats
+49796,47490,Polychaeta,Polychaete Worms,eats
+49796,47628,Amphipoda,Amphipods,eats
+49796,342912,Caridea,Caridean Shrimps,eats
+49796,47459,Cephalopoda,Cephalopods,eats
+49796,48147,Isopoda,Isopods,eats
+49796,47584,Bivalvia,Bivalves,eats
+49796,47720,Holothuroidea,Sea Cucumbers,eats
+49796,47668,Asteroidea,Sea Stars,eats
+49796,48836,Ophiuroidea,Brittle Stars,eats
+49796,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+49796,47120,Arthropoda,Arthropods,eats
+49796,47178,Actinopterygii,Ray-finned Fishes,eats
+49796,121639,Brachyura,True Crabs,eats
+49796,49796,Stomatopoda,Mantis Shrimps,eats
+49796,151838,Priapulida,Priapulid Worms,eats
+49796,83718,Tanaidacea,Tanaids,eats
+49796,,Echinoida,,eats
+49796,,Zooplankton,,eats
+49796,,Suprabenthos,,eats
+49796,,Detritus,,eats
+49796,,Tanaidae,,eats
+49796,47114,Gastropoda,Gastropods,eatenBy
+49796,39657,Cheloniidae,Typical Sea Turtles,eatenBy
+49796,342912,Caridea,Caridean Shrimps,eatenBy
+49796,52166,Rypticus saponaceus,Greater Soapfish,eatenBy
+49796,47284,Pterois,,eatenBy
+49796,49796,Stomatopoda,Mantis Shrimps,eatenBy
+49796,47186,Decapoda,Decapods,eatenBy
+49796,121639,Brachyura,True Crabs,eatenBy
+49796,47827,Cancer,,eatenBy
+49796,121187,Sepioteuthis lessoniana,Bigfin Reef Squid,eatenBy
+49796,4153,Pelagodroma marina,White-faced Storm-Petrel,eatenBy
+49796,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+49796,48407,Raja,,eatenBy
+49796,47315,Gymnothorax,Common Morays,eatenBy
+49796,56943,Katsuwonus pelamis,Skipjack Tuna,eatenBy
+49796,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+49796,147189,Tylosurus acus,Keeljaw Longtom,eatenBy
+49796,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+49796,69676,Thunnus,Bluefin Tunas,eatenBy
+49796,118710,Naucrates ductor,Pilotfish,eatenBy
+49796,95066,Balistes vetula,Queen Triggerfish,eatenBy
+49796,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+49796,100104,Epinephelus guttatus,Red Hind,eatenBy
+49796,131402,Myrichthys ocellatus,Goldspotted Eel,eatenBy
+49796,101420,Gerres cinereus,Yellowfin Mojarra,eatenBy
+49796,179470,Scorpaena brasiliensis,Barbfish,eatenBy
+49796,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+49796,49747,Serranus tigrinus,Harlequin Bass,eatenBy
+49796,49264,Haemulon,,eatenBy
+49796,104853,Lutjanus analis,Mutton Snapper,eatenBy
+49796,55016,Dactylopterus volitans,Flying Gurnard,eatenBy
+49796,128861,Haemulon chrysargyreum,Smallmouth Grunt,eatenBy
+49796,129665,Malacanthus plumieri,Sand Tilefish,eatenBy
+49796,131530,Lutjanus synagris,Lane Snapper,eatenBy
+49796,49262,Haemulon sciurus,Bluestriped Grunt,eatenBy
+49796,52296,Anisotremus surinamensis,Black Margate,eatenBy
+49796,82330,Caranx ruber,Bar Jack,eatenBy
+49796,131521,Bothus ocellatus,Eyed Flounder,eatenBy
+49796,96991,Cephalopholis cruentata,Graysby,eatenBy
+49796,47292,Ocyurus chrysurus,Yellowtail Snapper,eatenBy
+49796,128153,Equetus punctatus,Spotted Drum,eatenBy
+49796,49953,Haemulon album,White Margate,eatenBy
+49796,317017,Calamus pennatula,Pluma Porgy,eatenBy
+49796,49272,Halichoeres bivittatus,Slippery Dick,eatenBy
+49796,128853,Bothus lunatus,Atlantic Peacock Flounder,eatenBy
+49796,49942,Halichoeres radiatus,Puddingwife,eatenBy
+49796,49428,Bodianus rufus,Spanish Hogfish,eatenBy
+49796,131385,Pseudupeneus maculatus,Spotted Goatfish,eatenBy
+49796,49248,Myrichthys breviceps,Sharptail Eel,eatenBy
+49796,317161,Hypoplectrus aberrans,Yellowbelly Hamlet,eatenBy
+49796,49625,Holocentrus rufus,Longspine Squirrelfish,eatenBy
+49796,131475,Hypoplectrus nigricans,Black Hamlet,eatenBy
+49796,102074,Halichoeres poeyi,Blackear Wrasse,eatenBy
+49796,85249,Scorpaena inermis,Mushroom Scorpionfish,eatenBy
+49796,128156,Antennarius multiocellatus,Longlure Frogfish,eatenBy
+49796,128172,Mulloidichthys martinicus,Yellow Goatfish,eatenBy
+49796,130051,Hypoplectrus puella,Barred Hamlet,eatenBy
+49796,49746,Epinephelus striatus,Nassau Grouper,eatenBy
+49796,,Dasyatis americana,,eatenBy
+49796,49947,Anisotremus virginicus,Porkfish,eatenBy
+49796,62600,Haemulon flavolineatum,French Grunt,eatenBy
+49796,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+49796,,Batistes vetula,,eatenBy
+49796,96993,Cephalopholis fulva,Coney,eatenBy
+49796,,Pleuronectiformes,,eatenBy
+49796,424322,Odontoceti,Toothed Whales,eatenBy
+49796,,Commercial sparids 2,,eatenBy
+49796,,Chondrichthyes,,eatenBy
+49796,63742,Gadidae,Cods and Haddocks,eatenBy
+49796,49513,Cynoscion,Weakfishes,eatenBy
+49796,179507,Peprilus triacanthus,Butterfish,eatenBy
+49796,104533,Leucoraja erinacea,Little Skate,eatenBy
+49796,61388,Scophthalmus aquosus,Windowpane Flounder,eatenBy
+49796,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+49796,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+49796,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+49796,104540,Leucoraja ocellata,Winter Skate,eatenBy
+49796,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+49796,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eatenBy
+49796,48402,Amblyraja radiata,Thorny Skate,eatenBy
+49796,83846,Urophycis chuss,squirrel hake,eatenBy
+49796,233277,Urophycis tenuis,White Hake,eatenBy
+49796,618988,Hippoglossina oblonga,Fourspot Flounder,eatenBy
+49796,233276,Urophycis regia,Spotted Hake,eatenBy
+49796,,Lithodes santolla,,eatenBy
+49796,41444,Phocoena dioptrica,Spectacled Porpoise,eatenBy
+49796,699753,Eledone gaucha,,eatenBy
+49796,4631,Fregata magnificens,Magnificent Frigatebird,eatenBy
+49796,4534,Anous,Noddies,eatenBy
+49796,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+49796,4535,Anous stolidus,Brown Noddy,eatenBy
+49796,128828,Eriphia smithii,Red-eyed Reef Crab,eatenBy
+49796,104638,Linuparus trigonus,Japanese spear lobster,eatenBy
+49796,49056,Octopus cyanea,Day Octopus,eatenBy
+49796,145365,Kuhlia xenura,Hawaiian Flagtail,eatenBy
+49796,47270,Dasyatis,,eatenBy
+49796,530340,Branchiostegus serratus,Australian Barred Tilefish,eatenBy
+49796,51403,Seriolella punctata,Silver Warehou,eatenBy
+49796,96072,Brotula clarkae,,eatenBy
+49796,103232,Iago omanensis,Bigeye Houndshark,eatenBy
+49796,47490,Polychaeta,Polychaete Worms,preysOn
+49796,47114,Gastropoda,Gastropods,preysOn
+49796,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preysOn
+49796,47584,Bivalvia,Bivalves,preysOn
+49796,48836,Ophiuroidea,Brittle Stars,preysOn
+49796,342912,Caridea,Caridean Shrimps,preysOn
+49796,48147,Isopoda,Isopods,preysOn
+49796,47720,Holothuroidea,Sea Cucumbers,preysOn
+49796,47459,Cephalopoda,Cephalopods,preysOn
+49796,47628,Amphipoda,Amphipods,preysOn
+49796,47668,Asteroidea,Sea Stars,preysOn
+49796,83718,Tanaidacea,Tanaids,preysOn
+49796,,Zooplankton,,preysOn
+49796,47114,Gastropoda,Gastropods,preyedUponBy
+49796,342912,Caridea,Caridean Shrimps,preyedUponBy
+49796,52166,Rypticus saponaceus,Greater Soapfish,preyedUponBy
+49796,39657,Cheloniidae,Typical Sea Turtles,preyedUponBy
+49796,,Pleuronectiformes,,preyedUponBy
+49796,424322,Odontoceti,Toothed Whales,preyedUponBy
+49796,,Commercial sparids (2),,preyedUponBy
+49796,,Chondrichthyes,,preyedUponBy
+49796,81989,Lutjanus apodus,Schoolmaster Snapper,preyedUponBy
+49796,129665,Malacanthus plumieri,Sand Tilefish,preyedUponBy
+49796,49272,Halichoeres bivittatus,Slippery Dick,preyedUponBy
+49796,49264,Haemulon,,preyedUponBy
+49796,49947,Anisotremus virginicus,Porkfish,preyedUponBy
+49796,49262,Haemulon sciurus,Bluestriped Grunt,preyedUponBy
+49796,52296,Anisotremus surinamensis,Black Margate,preyedUponBy
+49796,128861,Haemulon chrysargyreum,Smallmouth Grunt,preyedUponBy
+49796,49625,Holocentrus rufus,Longspine Squirrelfish,preyedUponBy
+49796,131521,Bothus ocellatus,Eyed Flounder,preyedUponBy
+49796,85249,Scorpaena inermis,Mushroom Scorpionfish,preyedUponBy
+49796,317017,Calamus pennatula,Pluma Porgy,preyedUponBy
+49796,317161,Hypoplectrus aberrans,Yellowbelly Hamlet,preyedUponBy
+49796,49747,Serranus tigrinus,Harlequin Bass,preyedUponBy
+49796,82330,Caranx ruber,Bar Jack,preyedUponBy
+49796,131402,Myrichthys ocellatus,Goldspotted Eel,preyedUponBy
+49796,95066,Balistes vetula,Queen Triggerfish,preyedUponBy
+49796,100104,Epinephelus guttatus,Red Hind,preyedUponBy
+49796,131385,Pseudupeneus maculatus,Spotted Goatfish,preyedUponBy
+49796,102074,Halichoeres poeyi,Blackear Wrasse,preyedUponBy
+49796,49746,Epinephelus striatus,Nassau Grouper,preyedUponBy
+49796,49248,Myrichthys breviceps,Sharptail Eel,preyedUponBy
+49796,128172,Mulloidichthys martinicus,Yellow Goatfish,preyedUponBy
+49796,128853,Bothus lunatus,Atlantic Peacock Flounder,preyedUponBy
+49796,131475,Hypoplectrus nigricans,Black Hamlet,preyedUponBy
+49796,47292,Ocyurus chrysurus,Yellowtail Snapper,preyedUponBy
+49796,179470,Scorpaena brasiliensis,Barbfish,preyedUponBy
+49796,96993,Cephalopholis fulva,Coney,preyedUponBy
+49796,55016,Dactylopterus volitans,Flying Gurnard,preyedUponBy
+49796,96991,Cephalopholis cruentata,Graysby,preyedUponBy
+49796,131530,Lutjanus synagris,Lane Snapper,preyedUponBy
+49796,101420,Gerres cinereus,Yellowfin Mojarra,preyedUponBy
+49796,128153,Equetus punctatus,Spotted Drum,preyedUponBy
+49796,49942,Halichoeres radiatus,Puddingwife,preyedUponBy
+49796,128156,Antennarius multiocellatus,Longlure Frogfish,preyedUponBy
+49796,130051,Hypoplectrus puella,Barred Hamlet,preyedUponBy
+49796,62600,Haemulon flavolineatum,French Grunt,preyedUponBy
+49796,49428,Bodianus rufus,Spanish Hogfish,preyedUponBy
+49796,49953,Haemulon album,White Margate,preyedUponBy
+49796,104853,Lutjanus analis,Mutton Snapper,preyedUponBy
+49796,,Dasyatis americana,,preyedUponBy

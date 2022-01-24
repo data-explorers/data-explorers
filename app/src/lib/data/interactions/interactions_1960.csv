@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1960,47157,Lepidoptera,Butterflies and Moths,eats
+1960,4645,Falco femoralis,Aplomado Falcon,eatenBy
+1960,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,preysOn
+1960,67691,Lophocampa maculata,Spotted Tussock Moth,preysOn

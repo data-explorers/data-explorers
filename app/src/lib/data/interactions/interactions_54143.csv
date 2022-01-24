@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54143,41641,Ursus arctos,Brown Bear,eatenBy
+54143,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+54143,1240,Dendragapus,Blue Grouse,eatenBy
+54143,57678,Lasioglossum,,pollinatedBy
+54143,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+54143,199115,Halictus confusus,Confusing Furrow Bee,pollinatedBy
+54143,459129,Megachile lapponica,,pollinatedBy

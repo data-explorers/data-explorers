@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52833,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+52833,48549,Vanessa virginiensis,American Lady,eatenBy
+52833,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+52833,47219,Apis mellifera,Western Honey Bee,eatenBy
+52833,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+52833,126545,Dialictus,Metallic Sweat Bees,eatenBy
+52833,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+52833,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+52833,1021509,Junonia grisea,Gray Buckeye,eatenBy
+52833,50931,Strymon melinus,Gray Hairstreak,eatenBy
+52833,127747,Halictus rubicundus,Orange-legged Furrow Bee,eatenBy
+52833,48548,Vanessa cardui,Painted Lady,eatenBy
+52833,55719,Eristalis tenax,Common Drone Fly,eatenBy
+52833,1008635,Cerceris arelate,,eatenBy
+52833,,Hedychridium,,eatenBy
+52833,,Crabro latipes,,eatenBy
+52833,,Bombus occidentalis,,eatenBy
+52833,,Trirhabda flavolimbata,,eatenBy
+52833,,Anthidium oblongatum,,eatenBy
+52833,,Uroleucon russellae,,eatenBy
+52833,,Gymnosoma,,eatenBy
+52833,,Neophasia menapia,,eatenBy
+52833,,Bombus ternarius,,eatenBy
+52833,,Oxybelus bipunctatus,,eatenBy
+52833,58563,Speyeria aphrodite,Aphrodite Fritillary,pollinatedBy
+52833,133631,Polites peckius,Peck's Skipper,pollinatedBy
+52833,,Isodontia mexicana,,pollinatedBy
+52833,63128,Speyeria atlantis,Atlantis Fritillary,pollinatedBy

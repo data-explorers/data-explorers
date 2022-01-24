@@ -1,0 +1,148 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123880,67333,Bacteria,bacteria,eats
+123880,123880,Bacillariophyceae,Diatoms,eats
+123880,,Phytoplankton,,eats
+123880,54662,Mugil,Common Mullets,eatenBy
+123880,121643,Copepoda,Copepods,eatenBy
+123880,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+123880,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eatenBy
+123880,333586,Oligochaeta,Earthworms and allies,eatenBy
+123880,53275,Chironomidae,Non-biting Midges,eatenBy
+123880,68764,Ostracoda,Seed Shrimp,eatenBy
+123880,47535,Araneidae,Orbweavers,eatenBy
+123880,1,Animalia,Animals,eatenBy
+123880,47490,Polychaeta,Polychaete Worms,eatenBy
+123880,51508,Ctenophora,Comb Jellies,eatenBy
+123880,123880,Bacillariophyceae,Diatoms,eatenBy
+123880,48011,Ephemeroptera,Mayflies,eatenBy
+123880,62164,Trichoptera,Caddisflies,eatenBy
+123880,247660,Polypedilum,,eatenBy
+123880,468044,Noctiluca scintillans,sea sparkle,eatenBy
+123880,363962,Mimachlamys varia,Variegated Scallop,eatenBy
+123880,81606,Littorina littorea,Common Periwinkle,eatenBy
+123880,343269,Ruditapes philippinarum,Japanese Littleneck,eatenBy
+123880,81648,Mytilus galloprovincialis,Mediterranean Mussel,eatenBy
+123880,120586,Littorina keenae,Eroded Periwinkle,eatenBy
+123880,255485,Creseis acicula,,eatenBy
+123880,62806,Mytilus californianus,California Mussel,eatenBy
+123880,47628,Amphipoda,Amphipods,eatenBy
+123880,67333,Bacteria,bacteria,eatenBy
+123880,48824,Porifera,Sponges,eatenBy
+123880,47584,Bivalvia,Bivalves,eatenBy
+123880,118996,Ciliophora,Ciliates,eatenBy
+123880,126917,Rotifera,Rotifers,eatenBy
+123880,63243,Lottia pelta,Shield Limpet,eatenBy
+123880,48174,Paguridae,Pagurid Hermit Crabs,eatenBy
+123880,47630,Mopalia,,eatenBy
+123880,69926,Clinocardium,,eatenBy
+123880,49532,Sphaeromatidae,Typical Seapills,eatenBy
+123880,81610,Balanus glandula,Pacific Acorn Barnacle,eatenBy
+123880,48836,Ophiuroidea,Brittle Stars,eatenBy
+123880,49725,Pugettia,,eatenBy
+123880,47426,Tonicella,,eatenBy
+123880,126967,Pyura,Red-baits,eatenBy
+123880,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+123880,47951,Staphylinidae,Rove Beetles,eatenBy
+123880,195134,Euphausiidae,Euphotic Krill,eatenBy
+123880,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+123880,47827,Cancer,,eatenBy
+123880,62807,Mytilus,Black Mussels,eatenBy
+123880,48919,Littorina,Periwinkles,eatenBy
+123880,48752,Lottia,Lottia Limpets,eatenBy
+123880,47626,Caprellidae,Skeleton Shrimp,eatenBy
+123880,118832,Semibalanus balanoides,Northern Acorn Barnacle,eatenBy
+123880,117700,Cucumaria,,eatenBy
+123880,51200,Hippolytidae,Hump-backed Shrimps,eatenBy
+123880,49052,Anthopleura,,eatenBy
+123880,48394,Gymnolaemata,,eatenBy
+123880,53830,Trochidae,Top Snails,eatenBy
+123880,49127,Balanus nubilus,Giant Acorn Barnacle,eatenBy
+123880,49581,Nereididae,,eatenBy
+123880,48921,Hydrozoa,Hydrozoans,eatenBy
+123880,130225,Dinophyceae,,eatenBy
+123880,85521,Harpacticoida,Harpacticoid Copepods,eatenBy
+123880,199332,Rangia,Rangias,eatenBy
+123880,59807,Gammarus,,eatenBy
+123880,85507,Calanoida,Calanoid Copepods,eatenBy
+123880,,Parathemisto,,eatenBy
+123880,,Palaemonetes,,eatenBy
+123880,106222,Mugil cephalus,Sea Mullet,eatenBy
+123880,,Oxyurichthyes,,eatenBy
+123880,82088,Macrobrachium,,eatenBy
+123880,372109,Metopograpsus messor,Purple Estuarine Rock Crab,eatenBy
+123880,,Chonophorous genivittatus,,eatenBy
+123880,,Charybdis orientalis,,eatenBy
+123880,,Podophthalmus vigil,,eatenBy
+123880,517492,Fissurella barbadensis,,eatenBy
+123880,49514,Acanthopleura granulata,West Indian Fuzzy Chiton,eatenBy
+123880,88985,Hydropsyche,,eatenBy
+123880,173195,Amphinemura,,eatenBy
+123880,,Rhithrogena,,eatenBy
+123880,495454,Chloroperla,,eatenBy
+123880,63165,Simulium,,eatenBy
+123880,,Baetis,,eatenBy
+123880,217759,Cricotopus bicinctus,,eatenBy
+123880,,Heptagenia,,eatenBy
+123880,,Rheotanytarsus,,eatenBy
+123880,,Simuliidae,,eatenBy
+123880,171262,Bosmina,,eatenBy
+123880,,Ephemera,,eatenBy
+123880,338141,Chydorus,,eatenBy
+123880,,Pleuroxus,,eatenBy
+123880,,Najna consiliorum,,eatenBy
+123880,244267,Cyclops,,eatenBy
+123880,,Ephemerella notata,,eatenBy
+123880,247740,Pentaneura,,eatenBy
+123880,1016662,Siphlonurus lacustris,Summer Mayfly,eatenBy
+123880,,Philopotamus montanus,,eatenBy
+123880,451393,Sericostoma personatum,Welshman's Button Caddisfly,eatenBy
+123880,498591,Leuctra fusca,Late Needle Fly,eatenBy
+123880,482029,Baetis rhodani,Large Dark Olive,eatenBy
+123880,247963,Dicranota,,eatenBy
+123880,482046,Ecdyonurus venosus,Late March Brown,eatenBy
+123880,498562,Hydropsyche instabilis,,eatenBy
+123880,120561,Cricotopus,,eatenBy
+123880,62807,Mytilus,Black Mussels,preyedUponBy
+123880,48919,Littorina,Periwinkles,preyedUponBy
+123880,118832,Semibalanus balanoides,Northern Acorn Barnacle,preyedUponBy
+123880,48752,Lottia,Lottia Limpets,preyedUponBy
+123880,49127,Balanus nubilus,Giant Acorn Barnacle,preyedUponBy
+123880,53830,Trochidae,Top Snails,preyedUponBy
+123880,49052,Anthopleura,,preyedUponBy
+123880,47628,Amphipoda,Amphipods,preyedUponBy
+123880,48174,Paguridae,Pagurid Hermit Crabs,preyedUponBy
+123880,49532,Sphaeromatidae,Typical Seapills,preyedUponBy
+123880,81610,Balanus glandula,Pacific Acorn Barnacle,preyedUponBy
+123880,117700,Cucumaria,,preyedUponBy
+123880,49581,Nereididae,,preyedUponBy
+123880,48394,Gymnolaemata,,preyedUponBy
+123880,48921,Hydrozoa,Hydrozoans,preyedUponBy
+123880,47426,Tonicella,,preyedUponBy
+123880,49725,Pugettia,,preyedUponBy
+123880,47645,Cottidae,Typical Sculpins,preyedUponBy
+123880,47630,Mopalia,,preyedUponBy
+123880,47827,Cancer,,preyedUponBy
+123880,48836,Ophiuroidea,Brittle Stars,preyedUponBy
+123880,126967,Pyura,Red-baits,preyedUponBy
+123880,51200,Hippolytidae,Hump-backed Shrimps,preyedUponBy
+123880,,Phytoplankton,,preyedUponBy
+123880,,Zooplankton,,preyedUponBy
+123880,,Tectura persona,,preyedUponBy
+123880,47632,Katharina tunicata,Black Leather Chiton,preyedUponBy
+123880,47629,Caprella,,preyedUponBy
+123880,,Tectura scutum,,preyedUponBy
+123880,47658,Semibalanus cariosus,Thatched Barnacle,preyedUponBy
+123880,619164,Pholis crassispina,,preyedUponBy
+123880,129948,Lacuna,Lacuna Snails,preyedUponBy
+123880,122146,Leptochiton rugatus,dwarf chiton,preyedUponBy
+123880,54926,Onchidella,,preyedUponBy
+123880,246556,Tectonatica,,preyedUponBy
+123880,69872,Phascolosoma,,preyedUponBy
+123880,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy
+123880,51695,Eupentacta quinquesemita,Stiff-footed sea cucumber,preyedUponBy
+123880,49071,Metridium senile,Plumose Anemone,preyedUponBy
+123880,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+123880,,Synisoma,,preyedUponBy
+123880,,Hapalogaster,,preyedUponBy
+123880,551648,Canalipalpata,,preyedUponBy
+123880,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy

@@ -1,0 +1,118 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52071,47126,Plantae,plants,eats
+52071,,Unidentified sp1 FW_013_03,,eats
+52071,376157,Deleatidium,Suckergilled Mayflies,eats
+52071,,Lumbriculiid type II,,eats
+52071,,Achnanthes lanceolata,,eats
+52071,182984,Audouinella,,eats
+52071,,Detritus,,eats
+52071,492486,Gomphonema angustatum,,eats
+52071,,Epithemia zebra,,eats
+52071,,Unknown green algae filaments,,eats
+52071,,Lumbriculiid type 'II',,eats
+52071,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+52071,17355,Vireo,Vireos,eatenBy
+52071,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+52071,609411,Brycon dentex,,eatenBy
+52071,6667,Cypseloides niger,Black Swift,eatenBy
+52071,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+52071,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preyedUponBy
+52071,47535,Araneidae,Orbweavers,preyedUponBy
+52071,84670,Ephydridae,Shore Flies,preyedUponBy
+52071,47928,Zygoptera,Damselflies,preyedUponBy
+52071,48124,Tettigoniidae,Katydids,preyedUponBy
+52071,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+52071,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+52071,51556,Sympetrum,Meadowhawks,preyedUponBy
+52071,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+52071,47866,Thomisidae,Crab Spiders,preyedUponBy
+52071,47927,Anisoptera,Dragonflies,preyedUponBy
+52071,47951,Staphylinidae,Rove Beetles,preyedUponBy
+52071,47550,Tetragnatha,,preyedUponBy
+52071,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+52071,82081,Theridion,Tangleweb Spiders,preyedUponBy
+52071,51469,Aeshnidae,Darners,preyedUponBy
+52071,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+52071,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+52071,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+52071,47822,Diptera,Flies,preyedUponBy
+52071,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+52071,59115,Gambusia affinis,Western Mosquitofish,preyedUponBy
+52071,49591,Lepomis macrochirus,Bluegill,preyedUponBy
+52071,101053,Fundulus diaphanus,banded killifish,preyedUponBy
+52071,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+52071,,Dolichopus nubilius,,preyedUponBy
+52071,61762,Evarcha,,preyedUponBy
+52071,783658,Walckenaeria nudipalpis,,preyedUponBy
+52071,,Orthetrum,,preyedUponBy
+52071,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+52071,131962,Stenus,,preyedUponBy
+52071,,Campsicnemus scambus,,preyedUponBy
+52071,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+52071,,Chrysotus cilipes,,preyedUponBy
+52071,153717,Liocranidae,liocranid spiders,preyedUponBy
+52071,547275,Antistea elegans,,preyedUponBy
+52071,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+52071,49460,Empididae,Dance Flies,preyedUponBy
+52071,,Somatochlora,,preyedUponBy
+52071,153863,Thanatus,,preyedUponBy
+52071,51679,Coenagrion,Northern Bluets,preyedUponBy
+52071,,Bathyphantes gracilis,,preyedUponBy
+52071,,Hypocyphtus discoideus,,preyedUponBy
+52071,1200333,Teuchophorus calcaratus,,preyedUponBy
+52071,360744,Marpissa radiata,,preyedUponBy
+52071,131943,Rugilus rufipes,,preyedUponBy
+52071,397950,Tenuiphantes tenuis,,preyedUponBy
+52071,556059,Dolichopus nitidus,,preyedUponBy
+52071,,Satilatlas britteni,,preyedUponBy
+52071,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+52071,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+52071,153747,Robertus,,preyedUponBy
+52071,,Gnathonarium dentatum,,preyedUponBy
+52071,,Hercostomus assimilis,,preyedUponBy
+52071,,Polyhydrus lineatus,,preyedUponBy
+52071,,Sympetrum striolatum,,preyedUponBy
+52071,,Nestus,,preyedUponBy
+52071,,Coenagrion pulchellum,,preyedUponBy
+52071,,Haemopis sanguisuga,,preyedUponBy
+52071,,Hypostenus latifrons,,preyedUponBy
+52071,554158,Chartoscirta cincta,,preyedUponBy
+52071,203242,Aleocharinae,,preyedUponBy
+52071,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+52071,,Mangora acalypha,,preyedUponBy
+52071,1200309,Argyra vestita,,preyedUponBy
+52071,,Poliocephalus,,preyedUponBy
+52071,1151405,Lesteva sicula,,preyedUponBy
+52071,784144,Bathyphantes setiger,,preyedUponBy
+52071,69599,Tetramorium,Fierce ants,preyedUponBy
+52071,,Sitticus,,preyedUponBy
+52071,784329,Robertus insignis,,preyedUponBy
+52071,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+52071,468120,Anelosimus vittatus,,preyedUponBy
+52071,548177,Neon valentulus,,preyedUponBy
+52071,,Araneus sturmi,,preyedUponBy
+52071,,Bidessus unistriatus,,preyedUponBy
+52071,,Paravespula vulgaris,,preyedUponBy
+52071,,Zora,,preyedUponBy
+52071,,Dolichovespula sylvestris,,preyedUponBy
+52071,887499,Himacerus boops,,preyedUponBy
+52071,991343,Euaesthetus ruficapillus,,preyedUponBy
+52071,,Meioneta rurestris,,preyedUponBy
+52071,,Graptodytes granularis,,preyedUponBy
+52071,,Trichopterna thorelli,,preyedUponBy
+52071,778686,Porrhomma microphthalmum,,preyedUponBy
+52071,,Erigone dentipalpis,,preyedUponBy
+52071,,Sitticus caricis,,preyedUponBy
+52071,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+52071,51405,Elops saurus,Ladyfish,preyedUponBy
+52071,49225,Alosa aestivalis,Blueback Shad,preyedUponBy
+52071,93844,Ameiurus catus,White Catfish,preyedUponBy
+52071,93187,Acipenser oxyrinchus,Atlantic Sturgeon,preyedUponBy
+52071,49823,Acipenser brevirostrum,Shortnose Sturgeon,preyedUponBy
+52071,49243,Alosa sapidissima,American shad,preyedUponBy
+52071,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+52071,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+52071,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+52071,100359,Erimyzon oblongus,Eastern Creek Chubsucker,preyedUponBy
+52071,51392,Morone saxatilis,Striped Bass,preyedUponBy
+52071,,Cyprinella analostana,,preyedUponBy

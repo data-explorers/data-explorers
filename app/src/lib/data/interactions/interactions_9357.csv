@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9357,211194,Tracheophyta,vascular plants,eats
+9357,1,Animalia,Animals,eats
+9357,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9357,47118,Araneae,Spiders,eats
+9357,48486,Coccinellidae,Lady Beetles,eats
+9357,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9357,47157,Lepidoptera,Butterflies and Moths,eats
+9357,47124,Magnoliopsida,dicots,eats
+9357,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9357,52689,Sambucus,elders,eats
+9357,47208,Coleoptera,Beetles,eats
+9357,47544,Rubus,brambles,eats
+9357,47114,Gastropoda,Gastropods,eats
+9357,50999,Ficus,Figs,eats
+9357,47351,Prunus,"plums, cherries, and allies",eats
+9357,26172,Squamata,Snakes and Lizards,eats
+9357,473531,Eucalypteae,gum trees,eats
+9357,50822,Agave,century plants,eats
+9357,,Saissetia oleae,,eats
+9357,,Cydia pomonella,,eats
+9357,20044,Bubo virginianus,Great Horned Owl,eatenBy
+9357,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy

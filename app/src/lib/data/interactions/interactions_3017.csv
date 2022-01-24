@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3017,56088,Robinia pseudoacacia,black locust,eats
+3017,47851,Quercus,oaks,eats
+3017,78678,Polygonum aviculare,Prostrate Knotweed,eats
+3017,47351,Prunus,"plums, cherries, and allies",eats
+3017,58389,Sorghum bicolor,Sorghum,eats
+3017,47434,Poaceae,grasses,eats
+3017,47124,Magnoliopsida,dicots,eats
+3017,52697,Avena,Oats,eats
+3017,52326,Amaranthus,amaranths,eats
+3017,48599,Phytolacca americana,American pokeweed,eats
+3017,58390,Triticum,Wheats,eats
+3017,76790,Eleusine indica,Goose Grass,eats
+3017,58732,Toxicodendron radicans,poison ivy,eats
+3017,47123,Fabales,"legumes, milkworts, and allies",eats
+3017,48972,Polygonum,knotweeds,eats
+3017,49389,Stellaria,chickweeds,eats
+3017,63089,Clitellata,Clitellates,eats
+3017,1,Animalia,Animals,eats
+3017,48439,Chenopodium,Goosefoots,eats
+3017,53060,Galium,bedstraws,eats
+3017,48230,Ranunculus,buttercups,eats
+3017,53113,Brassica,cabbages and mustards,eats
+3017,,Ulmus americana,,eats
+3017,48448,Zea mays,Maize,eats
+3017,52797,Hordeum,Barleys,eats
+3017,,Digitaria ischaemum,,eats
+3017,,Non-biological,,eats
+3017,,Sinapis,,eats
+3017,,Fumaria,,eats
+3017,,Quercus humboldtii,,eats
+3017,,Quercus fusiformis,,eats
+3017,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+3017,8010,Corvus corax,Common Raven,eatenBy
+3017,42069,Vulpes vulpes,Red Fox,eatenBy
+3017,119115,Calliphora vicina,Blue Blowfly,eatenBy
+3017,7998,Corvus,Crows and Ravens,eatenBy
+3017,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+3017,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+3017,4672,Falco columbarius,Merlin,eatenBy
+3017,20044,Bubo virginianus,Great Horned Owl,eatenBy
+3017,20445,Tyto alba,Barn Owl,eatenBy
+3017,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+3017,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+3017,5268,Milvus migrans,Black Kite,eatenBy
+3017,204472,Buteo buteo,Common Buzzard,eatenBy
+3017,5267,Milvus milvus,Red Kite,eatenBy
+3017,,Aquila pomarina,,eatenBy
+3017,,Aquila heliaca,,eatenBy
+3017,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+3017,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+3017,4691,Falco cherrug,Saker Falcon,eatenBy
+3017,5081,Aquila adalberti,Spanish Eagle,eatenBy
+3017,,Aquila clanga,,eatenBy
+3017,5154,Hieraaetus pennatus,Booted Eagle,eatenBy
+3017,4684,Falco biarmicus,Lanner Falcon,eatenBy
+3017,204533,Larus argentatus,Herring Gull,eatenBy
+3017,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+3017,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+3017,19898,Strix aluco,Tawny Owl,eatenBy
+3017,19910,Strix uralensis,Ural Owl,eatenBy
+3017,4389,Larus cachinnans,Caspian Gull,eatenBy
+3017,,Garrulus glandarius,,eatenBy
+3017,891696,Pica pica,Eurasian Magpie,eatenBy
+3017,,Coloeus monedula,,eatenBy
+3017,8029,Corvus frugilegus,Rook,eatenBy
+3017,204496,Corvus corone,Carrion Crow,eatenBy
+3017,42048,Canis lupus,Gray Wolf,eatenBy
+3017,851014,Canis aureus,Golden Jackal,eatenBy
+3017,922459,Felis silvestris,European Wildcat,eatenBy
+3017,41961,Felis chaus,Jungle Cat,eatenBy
+3017,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+3017,41900,Herpestes ichneumon,Ichneumon,eatenBy
+3017,41795,Martes zibellina,Sable,eatenBy
+3017,41796,Martes martes,Eurasian Pine Marten,eatenBy
+3017,41975,Lynx pardinus,Iberian Lynx,eatenBy
+3017,41800,Martes foina,Stone Marten,eatenBy
+3017,41979,Lynx lynx,Eurasian Lynx,eatenBy
+3017,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+3017,42065,Vulpes corsac,Corsac Fox,eatenBy
+3017,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+3017,,Elaphe situla,,eatenBy
+3017,39407,Varanus griseus,Desert Monitor,eatenBy
+3017,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+3017,27035,Hierophis viridiflavus carbonarius,,eatenBy
+3017,28451,Telescopus nigriceps,Black headed snake,eatenBy
+3017,112581,Silurus glanis,Wels Catfish,eatenBy
+3017,199913,Buteo plagiatus,Gray Hawk,eatenBy
+3017,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+3017,4690,Falco novaeseelandiae,New Zealand Falcon,eatenBy
+3017,333759,Larus dominicanus dominicanus,Southern Black-backed Gull,eatenBy
+3017,,Circus approximans,,eatenBy
+3017,,Aquila chrysaetos,,eatenBy
+3017,4644,Falco mexicanus,Prairie Falcon,eatenBy
+3017,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+3017,4345,Larus occidentalis,Western Gull,preyedUponBy
+3017,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+3017,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+3017,355675,Vertebrata,Vertebrates,preyedUponBy
+3017,,Elachistodon westermanni,,preyedUponBy
+3017,,Macrovipera lebetina cernovi,,preyedUponBy
+3017,,Milvus migrans aegyptius,,preyedUponBy
+3017,5268,Milvus migrans,Black Kite,preyedUponBy
+3017,5106,Accipiter nisus,Eurasian Sparrowhawk,preyedUponBy
+3017,5108,Accipiter gentilis,Northern Goshawk,preyedUponBy
+3017,4690,Falco novaeseelandiae,New Zealand Falcon,preyedUponBy
+3017,,Circus approximans,,preyedUponBy

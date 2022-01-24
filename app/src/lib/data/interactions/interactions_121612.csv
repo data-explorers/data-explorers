@@ -1,0 +1,58 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121612,57067,Melilotus,melilots and sweetclovers,eats
+121612,72151,Gossypium,Cottons,eats
+121612,60773,Vitis,grapevines,eats
+121612,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+121612,54500,Malus,apples,eats
+121612,49203,Fagus,beeches,eats
+121612,53352,Alnus,alders,eats
+121612,60265,Asparagus officinalis,wild asparagus,eats
+121612,47563,Nerium oleander,oleander,eats
+121612,56955,Helianthus,sunflowers,eats
+121612,83157,Hydrangea,hydrangeas,eats
+121612,53113,Brassica,cabbages and mustards,eats
+121612,52855,Artemisia,wormwoods and sagebrushes,eats
+121612,51876,Trifolium,clovers,eats
+121612,52935,Eupatorium,bonesets,eats
+121612,50641,Solanum,nightshades,eats
+121612,52111,Baccharis,,eats
+121612,79383,Tradescantia ohiensis,bluejacket,eats
+121612,58907,Melilotus albus,White Sweetclover,eats
+121612,58058,Heliotropium curassavicum,alkali heliotrope,eats
+121612,61399,Ocimum,Basils,eats
+121612,79137,Solanum elaeagnifolium,silverleaf nightshade,eats
+121612,53196,Rumex,docks,eats
+121612,58036,Senecio flaccidus,threadleaf groundsel,eats
+121612,53112,Brassica nigra,Black Mustard,eats
+121612,873768,Nicotiana tabacum,Cultivated tobacco,eats
+121612,,Cynara scolymus,,eats
+121612,54498,Beta vulgaris,Beet,eats
+121612,,Parthenium hysterophorus,,eats
+121612,48592,Allium cepa,Common Onion,eats
+121612,48448,Zea mays,Maize,eats
+121612,,Parthenium,,eats
+121612,,Melilotus officinalis,,eats
+121612,122976,Lactuca sativa,lettuce,eats
+121612,,Vigna unguiculata,,eats
+121612,159288,Boehmeria nivea,Ramie,eats
+121612,,Glycine max,,eats
+121612,,Vernonia,,eats
+121612,,Gossypium herbaceum,,eats
+121612,,Amaranthus spinosus,,eats
+121612,161582,Dahlia pinnata,Garden Dahlia,eats
+121612,,Citrullus lanatus,,eats
+121612,,Cucurbita okeechobeensis,,eats
+121612,,Brassica oleracea,,eats
+121612,,Malus pumila,,eats
+121612,,Eupatorium serotinum,,eats
+121612,,Rubus trivialis,,eats
+121612,,Salsola kali,,eats
+121612,,Tetragonia tetragonoides,,eats
+121612,56013,Tamarix chinensis,Five-stamen Tamarisk,eats
+121612,,Bassia scoparia,,eats
+121612,50334,Lantana,,eats
+121612,,Psoralea tenuiflora,,eats
+121612,,Vernonia marginata,,eats
+121612,3901,Numenius phaeopus,Whimbrel,eatenBy
+121612,17013,Sayornis nigricans,Black Phoebe,preyedUponBy
+121612,,Corynorhinus townsendii,,preyedUponBy

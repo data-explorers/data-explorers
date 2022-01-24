@@ -1,0 +1,60 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+17008,47158,Insecta,Insects,eats
+17008,47124,Magnoliopsida,dicots,eats
+17008,211194,Tracheophyta,vascular plants,eats
+17008,1,Animalia,Animals,eats
+17008,47208,Coleoptera,Beetles,eats
+17008,47822,Diptera,Flies,eats
+17008,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+17008,51672,Ixodida,Ticks,eats
+17008,47120,Arthropoda,Arthropods,eats
+17008,47157,Lepidoptera,Butterflies and Moths,eats
+17008,47118,Araneae,Spiders,eats
+17008,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+17008,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+17008,125845,Prunus caroliniana,Carolina laurelcherry,eats
+17008,58732,Toxicodendron radicans,poison ivy,eats
+17008,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+17008,48599,Phytolacca americana,American pokeweed,eats
+17008,83799,Mitchella repens,partridgeberry,eats
+17008,54774,Viburnum,viburnums,eats
+17008,127741,Colletes,Cellophane Bees,eats
+17008,47927,Anisoptera,Dragonflies,eats
+17008,48124,Tettigoniidae,Katydids,eats
+17008,50147,Celithemis eponina,Halloween Pennant,eats
+17008,,Morella cerifera,,eats
+17008,,Vaccinium myrsinites,,eats
+17008,,Aralia spinosa,,eats
+17008,,Cornus foemina,,eats
+17008,,Celtis laevigata,,eats
+17008,,Ilex opaca,,eats
+17008,,Symplocos tinctoria,,eats
+17008,,Ilex cassine,,eats
+17008,,Vaccinium arboreum,,eats
+17008,,Smilax pumila,,eats
+17008,,Persea borbonia,,eats
+17008,,Rhus copallinum,,eats
+17008,,Smilax tamnoides,,eats
+17008,,Callicarpa americana,,eats
+17008,81801,Viburnum rufidulum,Rusty Blackhaw,eats
+17008,,Smilax bona-nox,,eats
+17008,54777,Cornus florida,flowering dogwood,eats
+17008,,Nyssa sylvatica,,eats
+17008,,Ampelopsis arborea,,eats
+17008,120006,Ilex decidua,possumhaw,eats
+17008,,Smilax auriculata,,eats
+17008,83074,Magnolia grandiflora,southern magnolia,eats
+17008,,Phoradendron serotinum,,eats
+17008,,Osmanthus americanus,,eats
+17008,,Ficus aurea,,eats
+17008,,Anolis,,eats
+17008,,Agraulis vanillae,,eats
+17008,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+17008,,Pantherophis alleghaniensis,,eatenBy
+17008,51493,Trimerotropis pallidipennis,Pallid-winged Grasshopper,preysOn
+17008,47118,Araneae,Spiders,preysOn
+17008,68139,Sympetrum vicinum,Autumn Meadowhawk,preysOn
+17008,50147,Celithemis eponina,Halloween Pennant,preysOn
+17008,47157,Lepidoptera,Butterflies and Moths,preysOn
+17008,,Neoptera,,preysOn
+17008,,Epitheca cynosura,,preysOn

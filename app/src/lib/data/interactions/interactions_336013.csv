@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+336013,47888,Impatiens capensis,common jewelweed,eats
+336013,47889,Impatiens,touch-me-nots,eats
+336013,,Impatiens noli-tangere,,eats
+336013,,Impatiens parviflora,,eats
+336013,47892,Impatiens glandulifera,Himalayan balsam,eats
+336013,47889,Impatiens,touch-me-nots,preysOn

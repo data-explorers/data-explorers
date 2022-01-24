@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+128238,48655,Aplysia californica,California Seahare,eatenBy
+128238,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+128238,48645,Megathura crenulata,Giant Keyhole Limpet,eatenBy
+128238,68764,Ostracoda,Seed Shrimp,eatenBy
+128238,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,eatenBy
+128238,210294,Lipophrys pholis,Shanny,eatenBy
+128238,47158,Insecta,Insects,eatenBy
+128238,48147,Isopoda,Isopods,eatenBy
+128238,88563,Gobius,,eatenBy
+128238,153169,Palaemon elegans,Rockpool Prawn,eatenBy
+128238,709642,Athyonidium chilensis,,eatenBy
+128238,56653,Haliotis fulgens,Green Abalone,eatenBy
+128238,733255,Turbo setosus,,eatenBy
+128238,83879,Naso brevirostris,Paletail Unicornfish,eatenBy
+128238,106624,Naso vlamingii,Bignose Unicornfish,eatenBy
+128238,121193,Acanthurus nigricans,Whitecheek Surgeonfish,eatenBy
+128238,187737,Naso tuberosus,Humphead Unicornfish,eatenBy
+128238,49641,Zebrasoma scopas,Brown Tang,eatenBy
+128238,132407,Naso annulatus,Whitemargin Unicornfish,eatenBy
+128238,135283,Acanthurus lineatus,Striped Surgeonfish,eatenBy
+128238,51356,Kyphosus cinerascens,Highfin Chub,eatenBy
+128238,210173,Kyphosus vaigiensis,Brassy Drummer,eatenBy
+128238,121658,Naso unicornis,Bluespine Unicornfish,eatenBy
+128238,112867,Sparisoma viride,Stoplight Parrotfish,eatenBy
+128238,81963,Girella nigricans,Opaleye,eatenBy
+128238,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+128238,179833,Lytechinus anamesus,white sea urchin,eatenBy
+128238,105388,Medialuna californiensis,Halfmoon,eatenBy
+128238,47629,Caprella,,eatenBy
+128238,83718,Tanaidacea,Tanaids,eatenBy
+128238,67578,Grapsus adscensionis,East Atlantic Sally Lightfoot Crab,eatenBy
+128238,59806,Gammaridae,,eatenBy
+128238,,Liza ramada,,eatenBy
+128238,118499,Ampithoidae,,eatenBy
+128238,118692,Coryphoblennius galerita,Montagu's Blenny,eatenBy
+128238,246632,Barleeia,Barleysnails,eatenBy
+128238,494436,Acanthonyx lunulatus,,eatenBy
+128238,777268,Pirimela denticulata,Toothed Crab,eatenBy
+128238,128834,Eriphia verrucosa,Warty Crab,eatenBy
+128238,48655,Aplysia californica,California Seahare,preyedUponBy
+128238,48645,Megathura crenulata,Giant Keyhole Limpet,preyedUponBy
+128238,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+128238,49857,Aplysia vaccaria,Black Seahare,preyedUponBy
+128238,81963,Girella nigricans,Opaleye,preyedUponBy
+128238,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+128238,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+128238,179833,Lytechinus anamesus,white sea urchin,preyedUponBy

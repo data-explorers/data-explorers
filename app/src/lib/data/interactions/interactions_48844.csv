@@ -1,0 +1,71 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48844,1,Animalia,Animals,eats
+48844,47549,Echinodermata,Echinoderms,eats
+48844,47126,Plantae,plants,eats
+48844,85493,Crustacea,Crustaceans,eats
+48844,47115,Mollusca,Molluscs,eats
+48844,47584,Bivalvia,Bivalves,eats
+48844,48147,Isopoda,Isopods,eats
+48844,54541,Hippocampus,Seahorses,eats
+48844,49506,Portunidae,Swimming Crabs,eats
+48844,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+48844,,Mithrax verrucosus,,eats
+48844,49440,Sepioteuthis sepioidea,Caribbean Reef Squid,eats
+48844,128121,Stenorhynchus seticornis,Yellowline Arrow Crab,eats
+48844,,Mithrax pilosus,,eats
+48844,248353,Mithrax,,eats
+48844,,Periclimenes pedersoni,,eats
+48844,195201,Pachygrapsus transversus,Mottled Shore Crab,eats
+48844,260349,Petrolisthes jugosus,,eats
+48844,295220,Paguristes grayi,,eats
+48844,,Petrolisthes rosariensis,,eats
+48844,,Hexapanopeus caribbaeus,,eats
+48844,,Pilumnus holosericus,,eats
+48844,295503,Domecia acanthophora,Elkhorn Coral Crab,eats
+48844,295342,Paraliomera dispar,,eats
+48844,346475,Mithraculus cinctimanus,banded clinging crab,eats
+48844,295508,Parapinnixa bouvieri,,eats
+48844,295329,Pilumnus lacteus,,eats
+48844,295330,Pilumnus longleyi,,eats
+48844,295359,Parapinnixa hendersoni,,eats
+48844,,Mithrax hemphilli,,eats
+48844,1225073,Garthiope barbadensis,,eats
+48844,,Loligo plei,,eats
+48844,,Microphrys bicornutus,,eats
+48844,,Pilumnus diomedeae,,eats
+48844,295331,Pilumnus sayi,Spineback Hairy Crab,eats
+48844,130055,Paguristes cadenati,Red Reef Hermit,eats
+48844,,Pilumnus reticulatus,,eats
+48844,295394,Paguristes tortugae,,eats
+48844,,Micropanope nuttingi,,eats
+48844,295506,Paraliomera longimana,,eats
+48844,,Pachycheles riisei,,eats
+48844,,Mithraculus ruber,,eats
+48844,260422,Pilumnus pannosus,Beaded Hairy Crab,eats
+48844,295500,Pilumnus marshi,,eats
+48844,295498,Pilumnus gemmatus,,eats
+48844,51026,Petrolisthes galathinus,banded porcelain crab,eats
+48844,,Mithrax holderi,,eats
+48844,,Microphrys antillensis,,eats
+48844,,Pachycheles susanae,,eats
+48844,,Pachycheles serratus,,eats
+48844,,Mithrax spinosissimus,,eats
+48844,361286,Mithraculus sculptus,Green Clinging Crab,eats
+48844,,,,eats
+48844,,Gnathostomata,,eats
+48844,,Osteichthyes,,eats
+48844,49275,Cantherhines pullus,Orangespotted Filefish,eats
+48844,,Pisces,,eats
+48844,,Detritus,,eats
+48844,47263,Sphyraena,Barracudas,eats
+48844,96768,Carcharias taurus,Sand Tiger Shark,eatenBy
+48844,295359,Parapinnixa hendersoni,,preysOn
+48844,,Pachycheles riisei,,preysOn
+48844,295329,Pilumnus lacteus,,preysOn
+48844,,Loligo plei,,preysOn
+48844,,Microphrys antillensis,,preysOn
+48844,,Hexapanopeus caribbaeus,,preysOn
+48844,295503,Domecia acanthophora,Elkhorn Coral Crab,preysOn
+48844,248353,Mithrax,,preysOn
+48844,1225073,Garthiope barbadensis,,preysOn
+48844,49275,Cantherhines pullus,Orangespotted Filefish,preysOn

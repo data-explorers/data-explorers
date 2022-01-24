@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+410712,48343,Hemigrapsus,,preysOn
+410712,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preysOn
+410712,,Diloma subrostrata,,preysOn
+410712,416671,Hemiplax hirtipes,New  Zealand  sentinel  crab,preysOn
+410712,409698,Austrovenus stutchburyi,New Zealand Cockle,preysOn
+410712,4343,Larus,Large White-headed Gulls,preyedUponBy
+410712,4837,Haematopus,Oystercatchers,preyedUponBy
+410712,48343,Hemigrapsus,,preyedUponBy
+410712,416671,Hemiplax hirtipes,New  Zealand  sentinel  crab,preyedUponBy
+410712,471051,Halicarcinus whitei,Estuarine Pillbox Crab,preyedUponBy
+410712,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preyedUponBy

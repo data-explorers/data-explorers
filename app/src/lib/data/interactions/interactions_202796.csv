@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+202796,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+202796,,Dendroica kirtlandii,,eatenBy
+202796,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+202796,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy

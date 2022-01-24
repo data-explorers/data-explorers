@@ -1,0 +1,42 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4933,36982,Scincidae,Skinks,eats
+4933,47158,Insecta,Insects,eats
+4933,293026,Lytechinus williamsi,,eatenBy
+4933,,Mithrax hemphilli,,eatenBy
+4933,120069,Lytechinus variegatus,Variegated Sea Urchin,eatenBy
+4933,248353,Mithrax,,eatenBy
+4933,,Mithraculus ruber,,eatenBy
+4933,260291,Alpheus heterochaelis,Bigclaw snapping shrimp,eatenBy
+4933,260267,Synalpheus anasimus,,eatenBy
+4933,295189,Alpheus formosus,,eatenBy
+4933,361286,Mithraculus sculptus,Green Clinging Crab,eatenBy
+4933,,Modulus modulus,,eatenBy
+4933,295183,Synalpheus townsendi,,eatenBy
+4933,,Mithrax caribbaeus,,eatenBy
+4933,260274,Synalpheus fritzmuelleri,,eatenBy
+4933,,Synalpheus pandionis,,eatenBy
+4933,859108,Alpheus immaculatus,,eatenBy
+4933,,Mithrax verrucosus,,eatenBy
+4933,,Microphrys antillensis,,eatenBy
+4933,259873,Synalpheus longicarpus,,eatenBy
+4933,295342,Paraliomera dispar,,eatenBy
+4933,259872,Synalpheus brevicarpus,,eatenBy
+4933,295191,Alpheus peasei,,eatenBy
+4933,346475,Mithraculus cinctimanus,banded clinging crab,eatenBy
+4933,939939,Synalpheus spinifrons,,eatenBy
+4933,,Mithrax holderi,,eatenBy
+4933,,Tricolia thalassicola,,eatenBy
+4933,260293,Alpheus normanni,,eatenBy
+4933,,Mithrax pilosus,,eatenBy
+4933,260288,Alpheus cristulifrons,,eatenBy
+4933,260287,Alpheus armillatus,,eatenBy
+4933,,Microphrys interruptus,,eatenBy
+4933,,Microphrys bicornutus,,eatenBy
+4933,295186,Alpheus armatus,Red Snapping Shrimp,eatenBy
+4933,,Mithrax spinosissimus,,eatenBy
+4933,260539,Ambidexter symmetricus,,eatenBy
+4933,295188,Alpheus floridanus,,eatenBy
+4933,,Smaragdia viridis,,eatenBy
+4933,260269,Synalpheus goodei,,eatenBy
+4933,295506,Paraliomera longimana,,eatenBy
+4933,26159,Alligator mississippiensis,American Alligator,preyedUponBy

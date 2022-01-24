@@ -1,0 +1,80 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48484,53376,Cotoneaster,Cotoneasters,eats
+48484,47561,Pinus,pines,eats
+48484,52381,Aphididae,Aphids,eats
+48484,790553,Apioideae,,eats
+48484,57983,Helianthus annuus,Common Sunflower,eats
+48484,50999,Ficus,Figs,eats
+48484,53052,Foeniculum vulgare,fennel,eats
+48484,51876,Trifolium,clovers,eats
+48484,48484,Harmonia axyridis,Asian Lady Beetle,eats
+48484,48699,Apiaceae,carrot family,eats
+48484,71154,Aphis nerii,Oleander Aphid,eats
+48484,47544,Rubus,brambles,eats
+48484,50829,Viola,violets,eats
+48484,56175,Echium,Viper's-buglosses,eats
+48484,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+48484,61905,Lavandula,Lavender,eats
+48484,52998,Conium maculatum,poison hemlock,eats
+48484,50644,Salvia,Sages,eats
+48484,48678,Solidago,goldenrods,eats
+48484,53438,Rosa,roses,eats
+48484,51884,Urtica dioica,stinging nettle,eats
+48484,57563,Cynara cardunculus,Artichoke Thistle,eats
+48484,54500,Malus,apples,eats
+48484,53423,Frangula californica,coffeeberry,eats
+48484,64105,Solanum douglasii,greenspot nightshade,eats
+48484,49883,Betula papyrifera,paper birch,eats
+48484,47158,Insecta,Insects,eats
+48484,79301,Symphyotrichum lanceolatum,panicled aster,eats
+48484,53359,Baccharis pilularis,coyote brush,eats
+48484,48486,Coccinellidae,Lady Beetles,eats
+48484,60218,Ficus carica,common fig,eats
+48484,,Senna viarum,,eats
+48484,,Quillaja saponaria,,eats
+48484,,Rubus pensilvanicus,,eats
+48484,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+48484,,Myosotis latifolia,,eats
+48484,,Pinus sylvestris,,eats
+48484,,Populus tremula,,eats
+48484,,Pinus nigra,,eats
+48484,51147,Crataegus monogyna,common hawthorn,eats
+48484,55969,Viburnum opulus,guelder-rose,eats
+48484,52380,Aphidoidea,,eats
+48484,,Betula pendula,,eats
+48484,,Eucallipterus tiliae,,eats
+48484,,Citrus,,eats
+48484,161582,Dahlia pinnata,Garden Dahlia,eats
+48484,,Tuberolachnus salignus,,eats
+48484,67328,Pholcus phalangioides,Long-bodied Cellar Spider,eatenBy
+48484,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+48484,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+48484,67708,Argiope trifasciata,Banded Garden Spider,eatenBy
+48484,47118,Araneae,Spiders,eatenBy
+48484,53809,Phidippus audax,Bold Jumping Spider,eatenBy
+48484,52628,Araneus diadematus,Cross Orbweaver,eatenBy
+48484,,Arma custos,,eatenBy
+48484,496641,Xysticus ulmi,Swamp Crab Spider,eatenBy
+48484,,Pselliopus barberi,,eatenBy
+48484,121779,Agalenatea redii,Gorse Orbweaver,eatenBy
+48484,1255692,Enoplognatha ovata,Candy-striped Spider complex,eatenBy
+48484,47157,Lepidoptera,Butterflies and Moths,preysOn
+48484,186841,Syrphinae,Typical Hover Flies,preysOn
+48484,52381,Aphididae,Aphids,preysOn
+48484,48484,Harmonia axyridis,Asian Lady Beetle,preysOn
+48484,71154,Aphis nerii,Oleander Aphid,preysOn
+48484,84469,Uroleucon,,preysOn
+48484,49530,Geometridae,Geometer Moths,preysOn
+48484,48486,Coccinellidae,Lady Beetles,preysOn
+48484,52425,Chrysopidae,Green Lacewings,preysOn
+48484,,Sternorrhyncha,,preysOn
+48484,,Anoecia,,preysOn
+48484,,Tuberolachnus salignus,,preysOn
+48484,366894,Steatoda nobilis,Noble False Widow,preyedUponBy
+48484,48484,Harmonia axyridis,Asian Lady Beetle,preyedUponBy
+48484,48959,Reduviidae,Assassin Bugs,preyedUponBy
+48484,67328,Pholcus phalangioides,Long-bodied Cellar Spider,preyedUponBy
+48484,,Asopinae,,preyedUponBy
+48484,,Passer italiae,,preyedUponBy
+48484,,Tuberolachnus salignus,,preyedUponBy
+48484,121779,Agalenatea redii,Gorse Orbweaver,preyedUponBy

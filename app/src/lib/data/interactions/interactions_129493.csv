@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129493,67423,Ulva lactuca,broadleaf sea lettuce,eats
+129493,50862,Codium,Codiums,eats
+129493,48216,Fucus vesiculosus,bladder wrack,eats
+129493,130178,Sargassum,Sargassum,eats
+129493,123633,Porphyra,Nori,eats
+129493,123632,Corallina officinalis,Common Coralline,eats
+129493,343398,Saccorhiza polyschides,Furbellow,eats
+129493,343396,Bifurcaria bifurcata,,eats
+129493,,Cystoseira tamariscifolia,,eats
+129493,502380,Leathesia marina,Sea Cauliflower,eats
+129493,182852,Sphacelaria cirrosa,,eats
+129493,461577,Ellisolandia elongata,,eats
+129493,57779,Asparagopsis armata,Harpoonweed,eats
+129493,129737,Colpomenia peregrina,Oyster-thief,eats
+129493,51024,Dictyota dichotoma,Forked ribbons,eats
+129493,,Osmundea ramosissima,,eats
+129493,1027504,Ceramium ciliatum,,eats
+129493,790283,Gelidium corneum,,eats
+129493,558165,Gracilariopsis longissima,,eats
+129493,,Gelidium spinosum,,eats
+129493,130176,Chondrus crispus,Irish moss,eats
+129493,203723,Ceramium virgatum,,eats
+129493,47490,Polychaeta,Polychaete Worms,preysOn
+129493,54960,Nematoda,Nematodes,preysOn
+129493,121643,Copepoda,Copepods,preysOn
+129493,446757,Acanthochitona crinita,Bristly Mail-shell,preysOn
+129493,49532,Sphaeromatidae,Typical Seapills,preysOn
+129493,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+129493,153169,Palaemon elegans,Rockpool Prawn,preysOn
+129493,47158,Insecta,Insects,preysOn
+129493,48919,Littorina,Periwinkles,preysOn
+129493,1147340,Leptochiton algesirensis,,preysOn
+129493,171919,Musculus costulatus,Ribbed Crenella,preysOn
+129493,154706,Patella vulgata,Common European Limpet,preysOn
+129493,,Gibbula umbilicalis,,preysOn
+129493,,Palaemon longirostris,,preysOn
+129493,,Zooplankton,,preysOn
+129493,446756,Lepidochitona cinerea,Grey Mail-shell,preysOn
+129493,245524,Lysianassidae,,preysOn
+129493,60692,Munnidae,Spiderwitchers,preysOn
+129493,59806,Gammaridae,,preysOn
+129493,,Synisoma,,preysOn
+129493,118499,Ampithoidae,,preysOn
+129493,245452,Stenothoidae,,preysOn
+129493,482996,Modiolula phaseolina,Bean Mussel,preysOn
+129493,450561,Patella ulyssiponensis,China Limpet,preysOn
+129493,340881,Calliopiidae,,preysOn
+129493,144115,Cumacea,Hooded Shrimp,preysOn
+129493,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy

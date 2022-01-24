@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57282,48548,Vanessa cardui,Painted Lady,eatenBy
+57282,49921,Nymphalis,Tortoiseshells,eatenBy
+57282,49133,Vanessa atalanta,Red Admiral,eatenBy
+57282,,Anthophila fabriciana,,eatenBy
+57282,,Hypanartia bella,,eatenBy
+57282,,Bassaris itea,,eatenBy
+57282,114871,Vanessa vulcania,Canary Red Admiral,eatenBy

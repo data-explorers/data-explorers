@@ -1,0 +1,174 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85521,800860,Salpa thompsoni,,eats
+85521,123880,Bacillariophyceae,Diatoms,eats
+85521,48217,Fucus,vesicled rockweeds,eats
+85521,,Detritus,,eats
+85521,,Phytoplankton,,eats
+85521,,Pyrrophycophyta,,eats
+85521,,Thysanoessa macrura,,eats
+85521,,POM (detritus),,eats
+85521,,Ralfsia verrucosa,,eats
+85521,504878,Ulvaria obscura,,eats
+85521,,PhytoP,,eats
+85521,117816,Petalonia fascia,,eats
+85521,203719,Clathromorphum circumscriptum,,eats
+85521,,Dictyosiphon foeniculaceus,,eats
+85521,564930,Rhodomela lycopodioides,,eats
+85521,182882,Chordaria flagelliformis,,eats
+85521,180604,Antithamnion,,eats
+85521,,Polysiphonia sp.,,eats
+85521,430355,Alaria esculenta,Dabberlocks,eats
+85521,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+85521,118597,Belone belone,Garfish,eatenBy
+85521,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+85521,800860,Salpa thompsoni,,eatenBy
+85521,99269,Dicentrarchus labrax,European Seabass,eatenBy
+85521,54541,Hippocampus,Seahorses,eatenBy
+85521,132473,Lagodon rhomboides,Pinfish,eatenBy
+85521,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+85521,447777,Cyanea lamarckii,Blue Jelly,eatenBy
+85521,153169,Palaemon elegans,Rockpool Prawn,eatenBy
+85521,118601,Trisopterus luscus,Pouting,eatenBy
+85521,430553,Merlangius merlangus,Whiting,eatenBy
+85521,118607,Diplecogaster bimaculata,Two-spotted Sucker,eatenBy
+85521,338051,Gobiusculus flavescens,Two-spotted Goby,eatenBy
+85521,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+85521,324532,Sprattus sprattus,European Sprat,eatenBy
+85521,472138,Lepadogaster lepadogaster,Shore Clingfish,eatenBy
+85521,84083,Spinachia spinachia,Sea Stickleback,eatenBy
+85521,120617,Arnoglossus laterna,Mediterranean Scaldfish,eatenBy
+85521,344748,Pomatoschistus minutus,Sand Goby,eatenBy
+85521,118706,Gobius paganellus,Rock Goby,eatenBy
+85521,118619,Mullus surmuletus,Striped Red Mullet,eatenBy
+85521,445609,Agonus cataphractus,Pogge,eatenBy
+85521,118600,Sardina pilchardus,European Sardine,eatenBy
+85521,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+85521,97990,Clupea harengus,Atlantic Herring,eatenBy
+85521,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+85521,98753,Ctenolabrus rupestris,Goldsinny Wrasse,eatenBy
+85521,109631,Platichthys flesus,European Flounder,eatenBy
+85521,47523,Pleuronectes platessa,European Plaice,eatenBy
+85521,61387,Limanda limanda,Sand Dab,eatenBy
+85521,103913,Labrus mixtus,Cuckoo Wrasse,eatenBy
+85521,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+85521,,Lepadogaster candolii,,eatenBy
+85521,110042,Pomatoschistus microps,Common Goby,eatenBy
+85521,103911,Labrus bergylta,Ballan Wrasse,eatenBy
+85521,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+85521,,suspended particulate carbon,,eatenBy
+85521,179491,Prionotus tribulus,Bighead Searobin,eatenBy
+85521,129182,Mysis relicta,,eatenBy
+85521,558991,Plesionika heterocarpus,Arrow shrimp,eatenBy
+85521,1175829,Polyschides olivi,,eatenBy
+85521,482978,Pulsellum affine,,eatenBy
+85521,646611,Acetes erythraeus,Tsivakihini paste shrimp,eatenBy
+85521,,Farfantepenaeus duorarum,,eatenBy
+85521,,Farfantepenaeus aztecus,,eatenBy
+85521,52197,Penaeus,,eatenBy
+85521,260291,Alpheus heterochaelis,Bigclaw snapping shrimp,eatenBy
+85521,417654,Nereis pelagica,,eatenBy
+85521,81612,Rhithropanopeus harrisii,White-tipped Mud Crab,eatenBy
+85521,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+85521,799827,Cibacapsa gulosa,,eatenBy
+85521,1316623,Pleuragramma antarcticum,,eatenBy
+85521,618332,Trematomus newnesi,Dusky rockcod,eatenBy
+85521,,Nauticaris marionis,,eatenBy
+85521,4161,Pachyptila salvini,Salvin's Prion,eatenBy
+85521,,Metridia gerlachei,,eatenBy
+85521,,Haloptilus ocellatus,,eatenBy
+85521,292943,Clio pyramidata,,eatenBy
+85521,,Pseudoamallothrix cenotelis,,eatenBy
+85521,,Thysanoessa macrura,,eatenBy
+85521,,Heterorhabdus austrinus,,eatenBy
+85521,,Notolepis coatsi,,eatenBy
+85521,,Spinocalanus abyssalis,,eatenBy
+85521,,Triconia antarctica,,eatenBy
+85521,975132,Eukrohnia hamata,,eatenBy
+85521,,Paraeuchaeta antarctica,,eatenBy
+85521,952607,Euphausia frigida,,eatenBy
+85521,,Scaphocalanus farrani,,eatenBy
+85521,295894,Vibilia stebbingi,,eatenBy
+85521,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eatenBy
+85521,201742,Pleuromamma robusta,,eatenBy
+85521,,Calanoides acutus,,eatenBy
+85521,,Metridia curticauda,,eatenBy
+85521,,Rhincalanus gigas,,eatenBy
+85521,,Pseudosagitta gazellae,,eatenBy
+85521,617783,Electrona antarctica,,eatenBy
+85521,,Solidosagitta marri,,eatenBy
+85521,344134,Euphausia superba,Antarctic Krill,eatenBy
+85521,,Calanus propinquus,,eatenBy
+85521,,Euchirella rostromagna,,eatenBy
+85521,,Gaetanus tenuispinus,,eatenBy
+85521,617786,Gymnoscopelus braueri,,eatenBy
+85521,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+85521,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+85521,,Limoniinae,,eatenBy
+85521,451407,Siphonoperla torrentium,Small Yellow Sally,eatenBy
+85521,577745,Trissopelopia,,eatenBy
+85521,644416,Conchapelopia,,eatenBy
+85521,109062,Perca fluviatilis,European Perch,eatenBy
+85521,69989,Rutilus rutilus,Common Roach,eatenBy
+85521,114206,Tomicodon abuelorum,,eatenBy
+85521,620187,Salanx ariakensis,,eatenBy
+85521,620181,Neosalanx anderssoni,,eatenBy
+85521,620188,Salanx prognathus,,eatenBy
+85521,95485,Bathypterois dubius,Spiderfish,eatenBy
+85521,614236,Gastrocyathus gracilis,New Zealand slender clingfish,eatenBy
+85521,118642,Tripterygion delaisi,Black-faced blenny,eatenBy
+85521,608771,Atherinella brasiliensis,,eatenBy
+85521,614262,Pherallodichthys meshimaensis,,eatenBy
+85521,,Detritus,,preysOn
+85521,,Prokaryota,,preysOn
+85521,,Epipellic Flora,,preysOn
+85521,,Phytoplankton,,preysOn
+85521,,Zooplankton,,preysOn
+85521,3864,Calidris minutilla,Least Sandpiper,preyedUponBy
+85521,54539,Syngnathus,Pipe-fishes,preyedUponBy
+85521,88563,Gobius,,preyedUponBy
+85521,800860,Salpa thompsoni,,preyedUponBy
+85521,49172,Sciaenidae,Drums,preyedUponBy
+85521,51508,Ctenophora,Comb Jellies,preyedUponBy
+85521,850859,Oxyura jamaicensis,Ruddy Duck,preyedUponBy
+85521,54538,Syngnathus leptorhynchus,Bay Pipefish,preyedUponBy
+85521,107570,Oncorhynchus gorbuscha,Pink Salmon,preyedUponBy
+85521,107572,Oncorhynchus keta,Chum Salmon,preyedUponBy
+85521,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+85521,117564,Clevelandia ios,Arrow Gobi,preyedUponBy
+85521,88477,Geonemertes,Greenhouse Proboscis-worms,preyedUponBy
+85521,101455,Gillichthys mirabilis,Longjaw Mudsucker,preyedUponBy
+85521,91235,Pomatoschistus,,preyedUponBy
+85521,47524,Pleuronectes,,preyedUponBy
+85521,48817,Crangon,,preyedUponBy
+85521,88564,Gobiusculus,,preyedUponBy
+85521,,Pholis,,preyedUponBy
+85521,,Thysanoessa macrura,,preyedUponBy
+85521,51366,Brevoortia,Menhaden,preyedUponBy
+85521,89379,Leiostomus,,preyedUponBy
+85521,53745,Paralichthys,,preyedUponBy
+85521,51280,Nemertea,Ribbon Worms,preyedUponBy
+85521,,Ilypnus gilberti,,preyedUponBy
+85521,98855,Cymatogaster aggregata,Shiner Surfperch,preyedUponBy
+85521,103210,Hypsoblennius gentilis,Bay Blenny,preyedUponBy
+85521,117563,Acanthogobius flavimanus,Yellowfin Goby,preyedUponBy
+85521,82326,Hypsopsetta guttulata,Diamond turbot,preyedUponBy
+85521,,Paralabrax maculofasciatus,,preyedUponBy
+85521,123639,Spionidae,,preyedUponBy
+85521,209018,Polydora,Shell-boring Spionids,preyedUponBy
+85521,81963,Girella nigricans,Opaleye,preyedUponBy
+85521,71234,Porichthys myriaster,Specklefin Midshipman,preyedUponBy
+85521,111467,Quietula y-cauda,Shadow Goby,preyedUponBy
+85521,446544,Syngnathus rostellatus,Lesser Pipefish,preyedUponBy
+85521,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+85521,483941,Neomysis integer,,preyedUponBy
+85521,344748,Pomatoschistus minutus,Sand Goby,preyedUponBy
+85521,109631,Platichthys flesus,European Flounder,preyedUponBy
+85521,47518,Salmo trutta,Brown Trout,preyedUponBy
+85521,118851,Crangon crangon,Brown Shrimp,preyedUponBy
+85521,367966,Ammodytes tobianus,Lesser Sand Lance,preyedUponBy
+85521,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+85521,483237,Zoarces viviparus,Viviparous Blenny,preyedUponBy
+85521,110042,Pomatoschistus microps,Common Goby,preyedUponBy
+85521,339285,Pholoe minuta,,preyedUponBy
+85521,339320,Pholoe,,preyedUponBy
+85521,337827,Hediste diversicolor,Estuary Ragworm,preyedUponBy

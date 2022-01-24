@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+36074,144455,Ardea alba,Great Egret,eatenBy
+36074,1986,Geococcyx californianus,Greater Roadrunner,eatenBy
+36074,,Lanius ludovicianus anthonyi,,eatenBy
+36074,1986,Geococcyx californianus,Greater Roadrunner,preyedUponBy
+36074,28246,Arizona elegans,Glossy Snake,preyedUponBy
+36074,28762,Rhinocheilus lecontei,Long-nosed Snake,preyedUponBy

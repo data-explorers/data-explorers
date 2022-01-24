@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47733,47219,Apis mellifera,Western Honey Bee,eatenBy
+47733,48662,Danaus plexippus,Monarch,eatenBy
+47733,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+47733,,Rothschildia orizaba,,eatenBy

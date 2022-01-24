@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51901,48549,Vanessa virginiensis,American Lady,eatenBy
+51901,,Eublemma minutata,,eatenBy
+51901,,Chionodes fondella,,eatenBy
+51901,,Exaeretia canella,,eatenBy
+51901,,Agonopterix antennariella,,eatenBy
+51901,1240,Dendragapus,Blue Grouse,eatenBy
+51901,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+51901,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy
+51901,47822,Diptera,Flies,pollinatedBy
+51901,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+51901,123837,Megaselia,,pollinatedBy
+51901,345325,Micropsectra,,pollinatedBy
+51901,,Smittina,,pollinatedBy
+51901,,Empis,,pollinatedBy

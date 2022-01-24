@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55987,42069,Vulpes vulpes,Red Fox,eatenBy
+55987,41798,Martes americana,American Marten,eatenBy
+55987,41795,Martes zibellina,Sable,eatenBy
+55987,41808,Mustela erminea,Eurasian Stoat,eatenBy
+55987,,number RWD 27502,,eatenBy
+55987,233598,Vulpes lagopus,Arctic Fox,eatenBy
+55987,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+55987,19890,Strix nebulosa,Great Gray Owl,eatenBy

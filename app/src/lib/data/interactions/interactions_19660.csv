@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+19660,47120,Arthropoda,Arthropods,eats
+19660,1,Animalia,Animals,eats
+19660,211194,Tracheophyta,vascular plants,eats
+19660,47336,Formicidae,Ants,eats
+19660,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+19660,53237,Cicadellidae,Typical Leafhoppers,eats
+19660,47822,Diptera,Flies,eats
+19660,53225,Rhopalidae,Scentless Plant Bugs,eats
+19660,48194,Psyllidae,jumping plant lice,eats
+19660,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+19660,48486,Coccinellidae,Lady Beetles,eats
+19660,61267,Heteroptera,True Bugs,eats
+19660,47208,Coleoptera,Beetles,eats
+19660,47118,Araneae,Spiders,eats
+19660,49567,Carabidae,Ground Beetles,eats
+19660,57804,Berytidae,Stilt Bugs,eats
+19660,47124,Magnoliopsida,dicots,eats
+19660,47158,Insecta,Insects,eats
+19660,47157,Lepidoptera,Butterflies and Moths,eats
+19660,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+19660,48599,Phytolacca americana,American pokeweed,eats
+19660,83799,Mitchella repens,partridgeberry,eats
+19660,125845,Prunus caroliniana,Carolina laurelcherry,eats
+19660,54774,Viburnum,viburnums,eats
+19660,58732,Toxicodendron radicans,poison ivy,eats
+19660,,Archips fumiferana,,eats
+19660,61863,Cercopidae,Froghoppers,eats
+19660,,Ampelopsis arborea,,eats
+19660,,Smilax bona-nox,,eats
+19660,,Phoradendron serotinum,,eats
+19660,,Osmanthus americanus,,eats
+19660,81801,Viburnum rufidulum,Rusty Blackhaw,eats
+19660,,Callicarpa americana,,eats
+19660,,Ilex opaca,,eats
+19660,,Rhus copallinum,,eats
+19660,,Symplocos tinctoria,,eats
+19660,,Cornus foemina,,eats
+19660,,Morella cerifera,,eats
+19660,,Persea borbonia,,eats
+19660,120006,Ilex decidua,possumhaw,eats
+19660,,Smilax pumila,,eats
+19660,,Aralia spinosa,,eats
+19660,83074,Magnolia grandiflora,southern magnolia,eats
+19660,,Celtis laevigata,,eats
+19660,,Vaccinium arboreum,,eats
+19660,,Smilax auriculata,,eats
+19660,,Nyssa sylvatica,,eats
+19660,,Vaccinium myrsinites,,eats
+19660,,Smilax tamnoides,,eats
+19660,,Ilex cassine,,eats
+19660,54777,Cornus florida,flowering dogwood,eats
+19660,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+19660,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+19660,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy

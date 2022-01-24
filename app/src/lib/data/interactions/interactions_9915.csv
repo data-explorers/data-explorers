@@ -1,0 +1,108 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9915,47158,Insecta,Insects,eats
+9915,47124,Magnoliopsida,dicots,eats
+9915,47208,Coleoptera,Beetles,eats
+9915,47118,Araneae,Spiders,eats
+9915,47822,Diptera,Flies,eats
+9915,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+9915,50186,Cicadidae,Typical Cicadas,eats
+9915,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9915,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9915,120942,Malvaviscus arboreus,Turk's cap,eats
+9915,47351,Prunus,"plums, cherries, and allies",eats
+9915,53854,Ilex,hollies,eats
+9915,54834,Prunus serotina,black cherry,eats
+9915,48599,Phytolacca americana,American pokeweed,eats
+9915,47561,Pinus,pines,eats
+9915,47219,Apis mellifera,Western Honey Bee,eats
+9915,48460,Life,,eats
+9915,47120,Arthropoda,Arthropods,eats
+9915,184884,Pterygota,Winged and Once-winged Insects,eats
+9915,50999,Ficus,Figs,eats
+9915,60218,Ficus carica,common fig,eats
+9915,52756,Polistes,Umbrella Paper Wasps,eats
+9915,,Oreopanax oerstedianus,,eats
+9915,,Palicourea alajuelensis,,eats
+9915,,Mappia racemosa,,eats
+9915,,Ardisia,,eats
+9915,,Guatteria,,eats
+9915,,Solanum asperolanatum,,eats
+9915,,Bunchosia odorata,,eats
+9915,,Myrsine coriacea,,eats
+9915,,Ocotea floribunda,,eats
+9915,209919,Guarea glabra,alligatorwood,eats
+9915,,Chione venosa,,eats
+9915,,Conostegia rufescens,,eats
+9915,,Dendropanax,,eats
+9915,,Pouteria exfoliata,,eats
+9915,,Trema micrantha,,eats
+9915,,Guarea rhopalocarpa,,eats
+9915,,Cestrum schlechtendahlii,,eats
+9915,,Palicourea cuspidata,,eats
+9915,,Erythroxylum amplum,,eats
+9915,,Cinnamomum triplinerve,,eats
+9915,,Acnistus arborescens,,eats
+9915,,Citharexylum,,eats
+9915,,Schefflera rodriguesiana,,eats
+9915,,Clusia,,eats
+9915,,Matayba oppositifolia,,eats
+9915,,Solanum umbellatum,,eats
+9915,,Beilschmiedia,,eats
+9915,278199,Ficus pertusa,,eats
+9915,,Besleria formosa,,eats
+9915,,Phytolacca rivinoides,,eats
+9915,,Dendropanax arboreus,,eats
+9915,,Hasseltia floribunda,,eats
+9915,,Lycianthes multiflora,,eats
+9915,,Ocotea,,eats
+9915,,Guettarda crispiflora,,eats
+9915,,Psychotria elata,,eats
+9915,,Trophis mexicana,,eats
+9915,,Cecropia obtusifolia,,eats
+9915,,Ocotea klotzschiana,,eats
+9915,,Ficus aurea,,eats
+9915,,Conostegia speciosa,,eats
+9915,,Conostegia xalapensis,,eats
+9915,,Xylosma chlorantha,,eats
+9915,,Conostegia icosandra,,eats
+9915,,Cavendishia,,eats
+9915,,Nectandra,,eats
+9915,,Schefflera,,eats
+9915,,Symplococarpon purpusii,,eats
+9915,,Ocotea bernoulliana,,eats
+9915,,Marcgravia brownei,,eats
+9915,,Casearia sylvestris,,eats
+9915,,Drymonia conchocalyx,,eats
+9915,441160,Nectandra smithii,,eats
+9915,,Perrottetia longistylis,,eats
+9915,,Hamelia patens,,eats
+9915,,Stemmadenia obovata,,eats
+9915,,Prunus annularis,,eats
+9915,,Dendropanax querceti,,eats
+9915,,Faramea ovalis,,eats
+9915,,Ocotea glaucosericea,,eats
+9915,,Bocconia frutescens,,eats
+9915,,Xylosma flexuosa,,eats
+9915,,Oreopanax xalapensis,,eats
+9915,155710,Urera,,eats
+9915,,Neea,,eats
+9915,,Cupania glabra,,eats
+9915,,Sapium glandulosum,,eats
+9915,,Daphnopsis americana,,eats
+9915,,Glossoloma tetragonum,,eats
+9915,,Aiouea neurophylla,,eats
+9915,,Drymonia,,eats
+9915,280995,Witheringia solanacea,,eats
+9915,,Persea,,eats
+9915,,Zanthoxylum,,eats
+9915,,Cestrum racemosum,,eats
+9915,154826,Piper auritum,Root Beer Plant,eats
+9915,,Gonzalagunia rosea,,eats
+9915,,Picramnia teapensis,,eats
+9915,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9915,47219,Apis mellifera,Western Honey Bee,preysOn
+9915,343248,Polistinae,Paper Wasps,preysOn
+9915,59774,Pachydiplax longipennis,Blue Dasher,preysOn
+9915,52756,Polistes,Umbrella Paper Wasps,preysOn
+9915,,Dielis pilipes,,preysOn
+9915,,Pantherophis spiloides,,preyedUponBy

@@ -1,0 +1,97 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4553,1,Animalia,Animals,eats
+4553,85493,Crustacea,Crustaceans,eats
+4553,47178,Actinopterygii,Ray-finned Fishes,eats
+4553,121639,Brachyura,True Crabs,eats
+4553,47490,Polychaeta,Polychaete Worms,eats
+4553,51912,Engraulis,,eats
+4553,63770,Engraulis mordax,Northern Anchovy,eats
+4553,118597,Belone belone,Garfish,eats
+4553,47459,Cephalopoda,Cephalopods,eats
+4553,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+4553,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4553,,Gnathostomata,,eats
+4553,103971,Lampetra ayresii,Western River Lamprey,eats
+4553,117568,Aulorhynchus flavidus,tubesnout,eats
+4553,117569,Microgadus proximus,Pacific Tomcod,eats
+4553,98855,Cymatogaster aggregata,Shiner Surfperch,eats
+4553,1027744,Arene tricarinata,,eats
+4553,117566,Hypomesus pretiosus,Surf Smelt,eats
+4553,60021,Porichthys notatus,Plainfin Midshipman,eats
+4553,169919,Trichodon trichodon,Pacific Sandfish,eats
+4553,47762,Sebastes,Rockfishes,eats
+4553,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4553,201784,Ammodytes personatus,Pacific Sand Lance,eats
+4553,97990,Clupea harengus,Atlantic Herring,eats
+4553,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4553,225456,Nansenia candida,Bluethroat Argentine,eats
+4553,52539,Ophiodon elongatus,Lingcod,eats
+4553,117571,Clupea pallasii,Pacific herring,eats
+4553,82337,Loligo,,eats
+4553,54191,Oncorhynchus tshawytscha,Chinook Salmon,eats
+4553,213402,Ammodytes americanus,American Sand Lance,eats
+4553,,,,eats
+4553,,Etrumeus teres,,eats
+4553,118600,Sardina pilchardus,European Sardine,eats
+4553,105599,Merluccius productus,Pacific Hake,eats
+4553,51353,Anoplopoma fimbria,Sablefish,eats
+4553,372200,Hexagrammos otakii,Fat Greenling,eats
+4553,107572,Oncorhynchus keta,Chum Salmon,eats
+4553,51910,Engraulis encrasicolus,European Anchovy,eats
+4553,328042,Engraulis japonicus,Japanese Anchovy,eats
+4553,146888,Illex,Shortfin Squids,eats
+4553,120672,Scomberesox saurus,Atlantic Saury,eats
+4553,86396,Ammodytes,,eats
+4553,254742,Astyris lunata,Lunate Dove Shell,eats
+4553,63691,Cololabis saira,Pacific Saury,eats
+4553,64464,Sebastes jordani,Shortbelly Rockfish,eats
+4553,324532,Sprattus sprattus,European Sprat,eats
+4553,88265,Etrumeus,Red-eye Round Herrings,eats
+4553,,Kondakovia longimana,,eats
+4553,,Teuthida,,eats
+4553,47638,Scorpaenichthys marmoratus,Cabezon,eats
+4553,447397,Engraulis anchoita,Argentine Anchoita,eats
+4553,,Peprillus simillinus,,eats
+4553,165100,Mallotus villosus,Capelin,eats
+4553,502271,Engraulis australis,Australian Anchovy,eats
+4553,55535,Sardinops sagax,Pacific Sardine,eats
+4553,68596,Hexagrammos decagrammus,Kelp Greenling,eats
+4553,,Pisces,,eats
+4553,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4553,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4553,63770,Engraulis mordax,Northern Anchovy,preysOn
+4553,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+4553,153112,Euphausiacea,krill,preysOn
+4553,52539,Ophiodon elongatus,Lingcod,preysOn
+4553,55535,Sardinops sagax,Pacific Sardine,preysOn
+4553,47762,Sebastes,Rockfishes,preysOn
+4553,51353,Anoplopoma fimbria,Sablefish,preysOn
+4553,47522,Oncorhynchus,Pacific Salmons and Trouts,preysOn
+4553,63691,Cololabis saira,Pacific Saury,preysOn
+4553,117571,Clupea pallasii,Pacific herring,preysOn
+4553,64464,Sebastes jordani,Shortbelly Rockfish,preysOn
+4553,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+4553,68596,Hexagrammos decagrammus,Kelp Greenling,preysOn
+4553,69922,Oncorhynchus nerka,Sockeye Salmon,preysOn
+4553,63742,Gadidae,Cods and Haddocks,preysOn
+4553,47525,Pleuronectidae,Righteye Flounders,preysOn
+4553,614161,Gadus chalcogrammus,Alaska Pollock,preysOn
+4553,47638,Scorpaenichthys marmoratus,Cabezon,preysOn
+4553,105599,Merluccius productus,Pacific Hake,preysOn
+4553,54191,Oncorhynchus tshawytscha,Chinook Salmon,preysOn
+4553,,Octopus rubescens,,preysOn
+4553,53692,Oncorhynchus kisutch,Coho Salmon,preysOn
+4553,117566,Hypomesus pretiosus,Surf Smelt,preysOn
+4553,107572,Oncorhynchus keta,Chum Salmon,preysOn
+4553,107570,Oncorhynchus gorbuscha,Pink Salmon,preysOn
+4553,48454,Hexagrammidae,Greenlings,preysOn
+4553,213065,Allosmerus elongatus,Whitebait Smelt,preysOn
+4553,,Pleuronectiformes,,preysOn
+4553,117567,Spirinchus starksi,Night Smelt,preysOn
+4553,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+4553,117569,Microgadus proximus,Pacific Tomcod,preysOn
+4553,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4553,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",preysOn
+4553,222155,Icichthys lockingtoni,Medusafish,preysOn
+4553,48416,Citharichthys,,preysOn
+4553,201784,Ammodytes personatus,Pacific Sand Lance,preysOn

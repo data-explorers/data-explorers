@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3906,47584,Bivalvia,Bivalves,eats
+3906,47414,Emerita analoga,Pacific Sand Crab,eats
+3906,144113,Eucarida,Decapods and Krill,eats
+3906,,Neotrypaea,,eats
+3906,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+3906,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+3906,,Aquila chrysaetos,,eatenBy
+3906,54960,Nematoda,Nematodes,preysOn
+3906,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+3906,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+3906,47584,Bivalvia,Bivalves,preysOn
+3906,71256,Tagelus,,preysOn
+3906,,Trichodina,,preysOn
+3906,209100,Gyrodactylus,,preysOn
+3906,,Parorchis acanthus,,preysOn
+3906,339174,Cyathocotylidae,,preysOn
+3906,,Stictodora hancocki,,preysOn
+3906,,Carcinonemertes,,preysOn
+3906,339177,Microphallidae,,preysOn
+3906,,Uca crenulata,,preysOn
+3906,,Parvatrema,,preysOn
+3906,,Picornaviridae,,preysOn
+3906,,Probolocoryphe uca,,preysOn
+3906,,Portunion conformis,,preysOn
+3906,339249,Acanthoparyphium,,preysOn
+3906,117564,Clevelandia ios,Arrow Gobi,preysOn
+3906,339182,Phocitremoides ovale,,preysOn
+3906,,Pygidiopsoides spindalis,,preysOn
+3906,117665,Upogebia,Mudprawns,preysOn
+3906,,Proleptus,,preysOn
+3906,,Cloacitrema michiganense,,preysOn
+3906,,Cryptomya,,preysOn
+3906,339200,Himasthla rhigedana,,preysOn
+3906,,Orthione,,preysOn
+3906,,Tetraphyllidea,,preysOn
+3906,,Eugregarinida,,preysOn
+3906,,Spirocamallanus pereirai,,preysOn
+3906,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+3906,,Neotrypaea,,preysOn
+3906,,Ergasilus auritus,,preysOn
+3906,,Mesostephanus appendiculatoides,,preysOn
+3906,339152,Cryptomya californica,California Softshell,preysOn
+3906,,Ilypnus gilberti,,preysOn
+3906,,Neotrypaea californiensis,,preysOn
+3906,111467,Quietula y-cauda,Shadow Goby,preysOn
+3906,508883,Tagelus subteres,Lesser Tagelus,preysOn
+3906,328416,Tagelus affinis,Neighbor Tagelus,preysOn
+3906,627095,Upogebia macginitieorum,,preysOn
+3906,47185,Hippoidea,Mole Crabs,preysOn
+3906,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+3906,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy

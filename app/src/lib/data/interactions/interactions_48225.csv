@@ -1,0 +1,81 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48225,48225,Eschscholzia californica,California poppy,eats
+48225,203073,Hemipenthes,,eatenBy
+48225,1081332,Lon melane,Umber Skipper,eatenBy
+48225,47219,Apis mellifera,Western Honey Bee,eatenBy
+48225,129893,Sphaerophoria sulphuripes,Forked Globetail,eatenBy
+48225,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+48225,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+48225,52775,Bombus,Bumble Bees,eatenBy
+48225,318550,Halictus farinosus,Wide-striped Sweat Bee,eatenBy
+48225,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+48225,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+48225,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+48225,153887,Polistes aurifer,Golden Paper Wasp,eatenBy
+48225,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+48225,143734,Eupithecia miserulata,Common Eupithecia Moth,eatenBy
+48225,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+48225,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+48225,48225,Eschscholzia californica,California poppy,eatenBy
+48225,57678,Lasioglossum,,eatenBy
+48225,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+48225,322792,Acmaeodera connexa,,eatenBy
+48225,246009,Acmaeodera hepburnii,,eatenBy
+48225,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+48225,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+48225,84640,Polistes dominula,European Paper Wasp,eatenBy
+48225,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+48225,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+48225,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+48225,82525,Augochlorella pomoniella,Peridot Sweat Bee,eatenBy
+48225,224501,Megachile perihirta,Western Leafcutter,eatenBy
+48225,124420,Bombus californicus,California Bumble Bee,eatenBy
+48225,127812,Hylaeus,Masked Bees,eatenBy
+48225,127747,Halictus rubicundus,Orange-legged Furrow Bee,eatenBy
+48225,69145,Coenonympha california,Common Ringlet,eatenBy
+48225,6317,Calypte anna,Anna's Hummingbird,eatenBy
+48225,52965,Sphaerophoria,Globetails,eatenBy
+48225,202789,Trichoplusia ni,Cabbage Looper Moth,eatenBy
+48225,1409,Callipepla californica,California Quail,eatenBy
+48225,,Euphilotes enoptes,,eatenBy
+48225,,Apodemia mormo,,eatenBy
+48225,,Plebeia emerina,,eatenBy
+48225,,Lytta stygica,,eatenBy
+48225,,Anthophora bomboides stanfordiana,,eatenBy
+48225,,Eupeodes volucris,,eatenBy
+48225,345300,Andrena nigrocaerulea,Blue-and-black Mining Bee,eatenBy
+48225,,Micralictoides ruficaudus,,eatenBy
+48225,,Brachysomida californica,,eatenBy
+48225,,Bombus caliginosus,,eatenBy
+48225,,Amartus tinctus,,eatenBy
+48225,,Anasimyia perfidiosus,,eatenBy
+48225,52233,Eumerus,,eatenBy
+48225,55719,Eristalis tenax,Common Drone Fly,eatenBy
+48225,,Platycheirus stegnus,,eatenBy
+48225,322368,Syrphus opinator,Black-margined Flower Fly,eatenBy
+48225,,Euphydryas editha bayensis,,eatenBy
+48225,53893,Chlosyne palla,Northern Checkerspot,eatenBy
+48225,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+48225,121357,Platycheirus,Sedgesitters,eatenBy
+48225,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+48225,,Ferdinandea croesus,,eatenBy
+48225,571898,Perdita interrupta,California Poppy Fairy Bee,eatenBy
+48225,,Habropoda depressa,,eatenBy
+48225,,Lasioglossum pavonotum,,eatenBy
+48225,520456,Icaricia acmon,Acmon Blue,eatenBy
+48225,,Pieris marginalis,,eatenBy
+48225,,Adela trigrapha,,eatenBy
+48225,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+48225,,Lytta comans,,eatenBy
+48225,,Icaricia icarioides missionensis,,eatenBy
+48225,,Cnephasia longana,,eatenBy
+48225,,Zonotrichia leucophrys,,eatenBy
+48225,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+48225,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+48225,47208,Coleoptera,Beetles,pollinatedBy
+48225,47220,Apis,Honey Bees,pollinatedBy
+48225,49707,Halictidae,Sweat Bees,pollinatedBy
+48225,57668,Andrenidae,Mining Bees,pollinatedBy
+48225,,Arthrobrachus nigromaculatus,,pollinatedBy
+48225,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+48225,,Micralictoides ruficaudus,,pollinatedBy

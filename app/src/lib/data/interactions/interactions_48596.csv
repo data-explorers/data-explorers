@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48596,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+48596,47219,Apis mellifera,Western Honey Bee,eatenBy
+48596,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+48596,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+48596,127812,Hylaeus,Masked Bees,eatenBy
+48596,,Polymixis flavicincta,,eatenBy
+48596,,Cleopomiarus graminis,,eatenBy
+48596,,Cleopomiarus plantarum,,eatenBy
+48596,,Miarus campanulae,,eatenBy
+48596,,Aulacorthum solani,,eatenBy
+48596,,Bryobia,,eatenBy
+48596,,Dysaphis (Pomaphis) sorbi,,eatenBy
+48596,,Amauromyza gyrans,,eatenBy
+48596,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+48596,577555,Andrena pandellei,Pandellé's Miner,eatenBy
+48596,,Cryptocephalus sexpunctatus,,eatenBy
+48596,,Xylena exsoleta,,eatenBy
+48596,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+48596,62455,Eupeodes,Aphideaters,pollinatedBy
+48596,176621,Nysius,False chinch bugs,pollinatedBy
+48596,52788,Acari,Mites and Ticks,pollinatedBy
+48596,133493,Dolichopus,,pollinatedBy
+48596,57674,Osmia,Mason Bees,pollinatedBy
+48596,,Delia platura ,,pollinatedBy
+48596,121357,Platycheirus,Sedgesitters,pollinatedBy
+48596,,Delia,,pollinatedBy
+48596,,,,pollinatedBy
+48596,,Protophormia terraenovae,,pollinatedBy
+48596,,Chelostoma,,pollinatedBy
+48596,,Andrena,,pollinatedBy
+48596,,Osmia melanogaster,,pollinatedBy

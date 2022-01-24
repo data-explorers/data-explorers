@@ -1,0 +1,39 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+558433,1,Animalia,Animals,eats
+558433,47208,Coleoptera,Beetles,eats
+558433,47491,Annelida,Segmented Worms,eats
+558433,68764,Ostracoda,Seed Shrimp,eats
+558433,62164,Trichoptera,Caddisflies,eats
+558433,47124,Magnoliopsida,dicots,eats
+558433,211194,Tracheophyta,vascular plants,eats
+558433,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+558433,52134,Culicidae,Mosquitoes,eats
+558433,47792,Odonata,Dragonflies and Damselflies,eats
+558433,85989,Physidae,Bladder Snails,eats
+558433,47628,Amphipoda,Amphipods,eats
+558433,53275,Chironomidae,Non-biting Midges,eats
+558433,57659,Dytiscidae,Predaceous Diving Beetles,eats
+558433,47158,Insecta,Insects,eats
+558433,47114,Gastropoda,Gastropods,eats
+558433,61787,Persicaria,"knotweeds, smartweeds, and waterpeppers",eats
+558433,48571,Carex,true sedges,eats
+558433,47120,Arthropoda,Arthropods,eats
+558433,59109,Potamogetonaceae,pondweed family,eats
+558433,47434,Poaceae,grasses,eats
+558433,47822,Diptera,Flies,eats
+558433,60283,Echinochloa crus-galli,barnyardgrass,eats
+558433,84735,Corixidae,Water Boatmen,eats
+558433,47584,Bivalvia,Bivalves,eats
+558433,,Maxillopoda,,eats
+558433,,Cladocera,,eats
+558433,,Planorbidae,,eats
+558433,,Anostraca,,eats
+558433,,Lymnaeidae,,eats
+558433,,Diplostraca,,eats
+558433,,Veneroida,,eats
+558433,48448,Zea mays,Maize,eats
+558433,68105,Phylactolaemata,Freshwater bryozoans,eats
+558433,61090,Ruppia maritima,widgeongrass,eats
+558433,,Chara,,eats
+558433,43584,Homo sapiens,Human,preyedUponBy
+558433,26159,Alligator mississippiensis,American Alligator,preyedUponBy

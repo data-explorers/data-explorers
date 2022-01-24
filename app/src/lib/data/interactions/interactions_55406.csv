@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55406,53843,Brephidium exilis,Western Pygmy-Blue,eatenBy
+55406,48548,Vanessa cardui,Painted Lady,eatenBy
+55406,84640,Polistes dominula,European Paper Wasp,eatenBy
+55406,,Leptinotarsa decemlineata,,eatenBy
+55406,,Scopula fibulata,,eatenBy
+55406,,Scopula minorata,,eatenBy
+55406,,Melanchra persicariae,,eatenBy
+55406,,Spodoptera litura,,eatenBy
+55406,224414,Mamestra configurata,Bertha Armyworm Moth,eatenBy
+55406,,Erinnyis lassauxii,,eatenBy
+55406,,Enyo lugubris,,eatenBy
+55406,,Lintneria justiciae,,eatenBy
+55406,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+55406,,Phlogophora iris,,eatenBy
+55406,,Calligrapha multipunctata,,eatenBy
+55406,49348,Hyles lineata,White-lined Sphinx,eatenBy
+55406,62453,Anthidium manicatum,European Woolcarder Bee,eatenBy
+55406,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

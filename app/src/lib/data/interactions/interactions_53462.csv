@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53462,47126,Plantae,plants,eats
+53462,123862,Chaetoceros,,eats
+53462,,Phytoplankton,,eats
+53462,339072,Prorocentrum,,eats
+53462,,Prymnesiophyceae,,eats
+53462,354333,Acanthopagrus schlegelii,Blackhead seabream,eatenBy
+53462,326443,Hexaplex trunculus,Banded Dye-murex,eatenBy
+53462,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+53462,,plankton,,preysOn
+53462,,no name,,preyedUponBy
+53462,120553,Cancer pagurus,Edible Crab,preyedUponBy

@@ -1,0 +1,82 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7998,47158,Insecta,Insects,eats
+7998,48293,Philoscia,,eats
+7998,1,Animalia,Animals,eats
+7998,47351,Prunus,"plums, cherries, and allies",eats
+7998,47193,Cornus,dogwoods,eats
+7998,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7998,28362,Thamnophis sirtalis,Common Garter Snake,eats
+7998,3017,Columba livia,Rock Pigeon,eats
+7998,50999,Ficus,Figs,eats
+7998,211194,Tracheophyta,vascular plants,eats
+7998,2,Chordata,Chordates,eats
+7998,48201,Scarabaeidae,Scarabs,eats
+7998,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+7998,40151,Mammalia,Mammals,eats
+7998,48736,Curculionidae,True Weevils,eats
+7998,47157,Lepidoptera,Butterflies and Moths,eats
+7998,47434,Poaceae,grasses,eats
+7998,47208,Coleoptera,Beetles,eats
+7998,47124,Magnoliopsida,dicots,eats
+7998,47118,Araneae,Spiders,eats
+7998,61267,Heteroptera,True Bugs,eats
+7998,53816,Tenebrionidae,Darkling Beetles,eats
+7998,3,Aves,Birds,eats
+7998,49567,Carabidae,Ground Beetles,eats
+7998,48449,Zea,Corns and Teosintes,eats
+7998,56955,Helianthus,sunflowers,eats
+7998,53373,Corylus,hazels,eats
+7998,49230,Amelanchier,serviceberries,eats
+7998,48528,Symphoricarpos,snowberries,eats
+7998,52850,Aralia,spikenards,eats
+7998,60369,Pyrola,wintergreens,eats
+7998,47566,Populus,"poplars, cottonwoods, and aspens",eats
+7998,,Melampus,,eats
+7998,19577,Chordeiles minor,Common Nighthawk,eats
+7998,4938,Egretta tricolor,Tricolored Heron,eats
+7998,6933,Anas acuta,Northern Pintail,eats
+7998,,Anas cyanoptera,,eats
+7998,3460,Zenaida asiatica,White-winged Dove,eats
+7998,41376,Taphozous melanopogon,Black-bearded Tomb Bat,eats
+7998,,Anas strepera,,eats
+7998,7056,Aythya americana,Redhead,eats
+7998,,Eliomys quercinus,,eats
+7998,,Lannaea coramandelica,,eats
+7998,181954,Securinega,,eats
+7998,,Manilkara henxandra,,eats
+7998,,Orchestia,,eats
+7998,48448,Zea mays,Maize,eats
+7998,70055,Citrullus,Watermelons,eats
+7998,,pryola,,eats
+7998,,insects in soil stratum - wire worms - cutworms - white grubs - etc.,,eats
+7998,,cutworms - grasshoppers - clickbeetles,,eats
+7998,,insects in herb and surface stratum - Diptera - Hemiptera - grasshoppers - etc.,,eats
+7998,,Ficus crassiramea,,eats
+7998,,Ficus obscura,,eats
+7998,,Ficus caulocarpa,,eats
+7998,,Ficus stricta,,eats
+7998,,Ficus sumatrana,,eats
+7998,,Ficus sundaica,,eats
+7998,899689,Ficus parietalis,,eats
+7998,,Ficus benjamina,,eats
+7998,,Ficus subcordata,,eats
+7998,,Ficus drupacea,,eats
+7998,,Ficus virens,,eats
+7998,714375,Ficus binnendijkii,,eats
+7998,,Ficus consociata,,eats
+7998,,Ficus pellucidopunctata,,eats
+7998,,Ficus sagittata,,eats
+7998,20044,Bubo virginianus,Great Horned Owl,eatenBy
+7998,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+7998,,Corvus cornix,,eatenBy
+7998,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+7998,42069,Vulpes vulpes,Red Fox,preysOn
+7998,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+7998,48670,Noctuidae,Cutworm Moths and Allies,preysOn
+7998,40523,Lasiurus cinereus,Hoary Bat,preysOn
+7998,40792,Cynopterus sphinx,Greater Short-nosed Fruit Bat,preysOn
+7998,,Eidolon helvum,,preysOn
+7998,,insects in herb and surface stratum,,preysOn
+7998,,clickbeetles,,preysOn
+7998,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+7998,20044,Bubo virginianus,Great Horned Owl,preyedUponBy

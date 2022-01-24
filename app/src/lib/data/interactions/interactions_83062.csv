@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83062,83062,Rosa blanda,smooth rose,eats
+83062,146979,Dasychira,,eatenBy
+83062,83062,Rosa blanda,smooth rose,eatenBy
+83062,,Occidryas chalcedona,,eatenBy
+83062,,Bombus ternarius,,eatenBy

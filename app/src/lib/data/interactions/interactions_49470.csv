@@ -1,0 +1,120 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49470,47186,Decapoda,Decapods,eats
+49470,47170,Fungi,Fungi Including Lichens,eats
+49470,47126,Plantae,plants,eats
+49470,67334,Cyanobacteria,cyanobacteria,eats
+49470,211194,Tracheophyta,vascular plants,eats
+49470,48372,Bryopsida,,eats
+49470,67333,Bacteria,bacteria,eats
+49470,,bovine or equine dung,,eats
+49470,,Detritus,,eats
+49470,,Salix petiolaris,,eats
+49470,,Macroalgae,,eats
+49470,,Prymnesiophyceae,,eats
+49470,,decomposing sphagnum,,eats
+49470,,Soil microflora,,eats
+49470,,soil,,eats
+49470,,plants - dead plants,,eats
+49470,,Microfungi,,eats
+49470,,Magnoliophyta,,eats
+49470,47118,Araneae,Spiders,eatenBy
+49470,48139,Salticidae,Jumping Spiders,eatenBy
+49470,49556,Chilopoda,Centipedes,eatenBy
+49470,83740,Trombidiformes,Trombidiform Mites,eatenBy
+49470,54960,Nematoda,Nematodes,eatenBy
+49470,83201,Thysanoptera,Thrips,eatenBy
+49470,47822,Diptera,Flies,eatenBy
+49470,47208,Coleoptera,Beetles,eatenBy
+49470,47336,Formicidae,Ants,eatenBy
+49470,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+49470,9721,Geothlypis trichas,Common Yellowthroat,eatenBy
+49470,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eatenBy
+49470,47367,Opiliones,Harvestmen,eatenBy
+49470,47119,Arachnida,Arachnids,eatenBy
+49470,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+49470,13858,Passer domesticus,House Sparrow,eatenBy
+49470,,Mus sp.,,eatenBy
+49470,,North American deermouse,,eatenBy
+49470,,Calidris maritima,,eatenBy
+49470,36432,Anolis gingivinus,Anguilla Anole,eatenBy
+49470,36582,Anolis pogus,bearded anole,eatenBy
+49470,109315,Phoxinus phoxinus,European Minnow,eatenBy
+49470,48648,Salmo salar,Atlantic Salmon,eatenBy
+49470,,Pseudoscorpionida,,eatenBy
+49470,47867,Sparassidae,Huntsman Spiders,eatenBy
+49470,33730,Sphaerodactylus klauberi,Puerto Rican Upland Sphaero,eatenBy
+49470,36445,Anolis evermanni,Emerald anole,eatenBy
+49470,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+49470,22423,Eleutherodactylus richmondi,Ground Coqui,eatenBy
+49470,,Eleutherodactylus coqui,,eatenBy
+49470,,Amphisbaena caeca,,eatenBy
+49470,1120226,Sphaerodactylus macrolepis,,eatenBy
+49470,22411,Eleutherodactylus portoricensis,Forest Coqui,eatenBy
+49470,22620,Eleutherodactylus eneidae,Mottled Coqui,eatenBy
+49470,36427,Anolis gundlachi,Gundlach’s Anole,eatenBy
+49470,,Eleutherodactylus wightmanae,,eatenBy
+49470,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+49470,,Heliophanus lineiventris,,eatenBy
+49470,,salticid spider,,eatenBy
+49470,,mites - centipedes,,eatenBy
+49470,368117,Melanotaenia splendida,Eastern Rainbowfish,eatenBy
+49470,245043,Cunaxidae,,eatenBy
+49470,,trombidiform mites,,eatenBy
+49470,609411,Brycon dentex,,eatenBy
+49470,,Nannatherina balstoni,,eatenBy
+49470,,Hollandichthys multifasciatus,,eatenBy
+49470,,Deuterodon iguape,,eatenBy
+49470,610821,Mimagoniates microlepis,,eatenBy
+49470,516329,Astyanax bimaculatus,Twospot Astyanax,eatenBy
+49470,179511,Astyanax fasciatus,Banded Astyanax,eatenBy
+49470,410561,Retropinna retropinna,New Zealand Common Smelt,eatenBy
+49470,125920,Anguilla australis,Short-finned Eel,eatenBy
+49470,101204,Gambusia holbrooki,Eastern Mosquitofish,eatenBy
+49470,,Lepidogalaxias salamandroides,,eatenBy
+49470,,Umbra limi,,eatenBy
+49470,107366,Odontostilbe fugitiva,,eatenBy
+49470,53520,Synbranchus marmoratus,Marbled Swamp Eel,eatenBy
+49470,610823,Mimagoniates rheocharis,,eatenBy
+49470,10442,Limnothlypis swainsonii,Swainson's Warbler,eatenBy
+49470,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+49470,542,Coturnicops noveboracensis,Yellow Rail,eatenBy
+49470,162,Porzana carolina,Sora,eatenBy
+49470,66003,Lithobates pipiens,Northern Leopard Frog,preyedUponBy
+49470,47118,Araneae,Spiders,preyedUponBy
+49470,47114,Gastropoda,Gastropods,preyedUponBy
+49470,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preyedUponBy
+49470,47208,Coleoptera,Beetles,preyedUponBy
+49470,47367,Opiliones,Harvestmen,preyedUponBy
+49470,30293,Eirenis modestus,Ring-Headed Dwarf Snake,preyedUponBy
+49470,109315,Phoxinus phoxinus,European Minnow,preyedUponBy
+49470,48648,Salmo salar,Atlantic Salmon,preyedUponBy
+49470,,maryland yellowthroat,,preyedUponBy
+49470,,Dendroica petechia,,preyedUponBy
+49470,,song sparrow,,preyedUponBy
+49470,130409,Abax parallelepipedus,,preyedUponBy
+49470,,Paroligolophus agrestis,,preyedUponBy
+49470,,Aranae,,preyedUponBy
+49470,,Paraneoptera,,preyedUponBy
+49470,,Family Linyphiidae,,preyedUponBy
+49470,,Genus,,preyedUponBy
+49470,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+49470,124432,Deroceras reticulatum,Milky Slug,preyedUponBy
+49470,130638,Bembidion lampros,,preyedUponBy
+49470,,Nebria brevicollis,,preyedUponBy
+49470,,Lacinius epphipiatus,,preyedUponBy
+49470,,Family Hydrometridae,,preyedUponBy
+49470,,Pterostichus nigrita,,preyedUponBy
+49470,,Family Staphylinidae,,preyedUponBy
+49470,491922,Oxypselaphus obscurus,,preyedUponBy
+49470,,Platynus dorsale,,preyedUponBy
+49470,,Platynus assimilis,,preyedUponBy
+49470,,Nemastoma bimaculatum,,preyedUponBy
+49470,,Family Formicidae,,preyedUponBy
+49470,,Pterostichus diligens,,preyedUponBy
+49470,131819,Loricera pilicornis,,preyedUponBy
+49470,,Order Pseudoscorpionidae,,preyedUponBy
+49470,,Family Pselaphidae,,preyedUponBy
+49470,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy
+49470,41077,Phyllostomus discolor,pale spear-nosed bat,preyedUponBy
+49470,,Loricula elegantula,,preyedUponBy
+49470,,Xylocoris (Xylocoris) cursitans,,preyedUponBy

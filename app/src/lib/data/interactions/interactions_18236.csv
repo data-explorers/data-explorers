@@ -1,0 +1,98 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+18236,47120,Arthropoda,Arthropods,eats
+18236,1,Animalia,Animals,eats
+18236,211194,Tracheophyta,vascular plants,eats
+18236,47158,Insecta,Insects,eats
+18236,47336,Formicidae,Ants,eats
+18236,47208,Coleoptera,Beetles,eats
+18236,47434,Poaceae,grasses,eats
+18236,47126,Plantae,plants,eats
+18236,47118,Araneae,Spiders,eats
+18236,52884,Gryllidae,True Crickets,eats
+18236,47124,Magnoliopsida,dicots,eats
+18236,51225,Tipulidae,Large Crane Flies,eats
+18236,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+18236,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+18236,49567,Carabidae,Ground Beetles,eats
+18236,47157,Lepidoptera,Butterflies and Moths,eats
+18236,68995,Liometopum,Velvety Tree Ants,eats
+18236,49456,Coccidae,Soft scales,eats
+18236,62781,Camponotus,Carpenter and Sugar Ants,eats
+18236,47339,Formica,"Wood, Mound, and Field Ants",eats
+18236,69086,Lasius,Citronella Ants,eats
+18236,47852,Fagaceae,beech family,eats
+18236,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+18236,77835,Lonicera japonica,Japanese honeysuckle,eats
+18236,58732,Toxicodendron radicans,poison ivy,eats
+18236,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+18236,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+18236,48599,Phytolacca americana,American pokeweed,eats
+18236,83799,Mitchella repens,partridgeberry,eats
+18236,125845,Prunus caroliniana,Carolina laurelcherry,eats
+18236,54774,Viburnum,viburnums,eats
+18236,76341,Cinnamomum camphora,Camphor Tree,eats
+18236,49883,Betula papyrifera,paper birch,eats
+18236,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+18236,48445,Lycoperdaceae,puffballs,eats
+18236,61119,Ilex verticillata,winterberry holly,eats
+18236,48448,Zea mays,Maize,eats
+18236,52790,Mesostigmata,Mesostigs,eats
+18236,,Prenolepis imparis,,eats
+18236,,Leptothorax,,eats
+18236,,Euchelicerata,,eats
+18236,,Aphaenogaster subterranea,,eats
+18236,,http://arctos.database.museum/guid/CHAS:Teach:E2019A.19,,eats
+18236,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+18236,54777,Cornus florida,flowering dogwood,eats
+18236,54793,Lindera benzoin,northern spicebush,eats
+18236,,Vitis vulpina,,eats
+18236,,Menispermum canadense,,eats
+18236,,http://treatment.plazi.org/id/EA32CFFC201A3B6C64C42AED4866B648,,eats
+18236,,Smilax tamnoides,,eats
+18236,,Cornus foemina,,eats
+18236,,Smilax auriculata,,eats
+18236,,Osmanthus americanus,,eats
+18236,,Phoradendron serotinum,,eats
+18236,,Callicarpa americana,,eats
+18236,,Morella cerifera,,eats
+18236,,Smilax pumila,,eats
+18236,,Ampelopsis arborea,,eats
+18236,,Ilex cassine,,eats
+18236,83074,Magnolia grandiflora,southern magnolia,eats
+18236,,Persea borbonia,,eats
+18236,,Vaccinium myrsinites,,eats
+18236,,Symplocos tinctoria,,eats
+18236,,Aralia spinosa,,eats
+18236,,Rhus copallinum,,eats
+18236,,Celtis laevigata,,eats
+18236,81801,Viburnum rufidulum,Rusty Blackhaw,eats
+18236,,Vaccinium arboreum,,eats
+18236,120006,Ilex decidua,possumhaw,eats
+18236,,Ilex opaca,,eats
+18236,,Smilax bona-nox,,eats
+18236,,Nyssa sylvatica,,eats
+18236,,Leptospermum laevigatum,,eats
+18236,205175,Cicada,,eats
+18236,20044,Bubo virginianus,Great Horned Owl,eatenBy
+18236,41663,Procyon lotor,Common Raccoon,eatenBy
+18236,45933,Sciuridae,Squirrels,eatenBy
+18236,26172,Squamata,Snakes and Lizards,eatenBy
+18236,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+18236,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+18236,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+18236,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+18236,19893,Strix varia,Barred Owl,eatenBy
+18236,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+18236,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+18236,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+18236,,Aquila chrysaetos,,eatenBy
+18236,20315,Asio flammeus,Short-eared Owl,eatenBy
+18236,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+18236,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+18236,4644,Falco mexicanus,Prairie Falcon,eatenBy
+18236,4645,Falco femoralis,Aplomado Falcon,eatenBy
+18236,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+18236,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+18236,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+18236,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+18236,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy

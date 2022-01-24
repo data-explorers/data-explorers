@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+46023,54503,Juglans californica,Southern California Walnut,eats
+46023,47851,Quercus,oaks,eats
+46023,47850,Quercus agrifolia,coast live oak,eats
+46023,10094,Junco hyemalis,Dark-eyed Junco,eats
+46023,47561,Pinus,pines,eats
+46023,47170,Fungi,Fungi Including Lichens,eats
+46023,53348,Aesculus californica,California buckeye,eats
+46023,,Daedalea,,eats
+46023,41976,Lynx rufus,Bobcat,eatenBy
+46023,20044,Bubo virginianus,Great Horned Owl,eatenBy
+46023,41798,Martes americana,American Marten,eatenBy
+46023,,Martes pennanti,,eatenBy
+46023,,Aquila chrysaetos,,eatenBy
+46023,5108,Accipiter gentilis,Northern Goshawk,eatenBy

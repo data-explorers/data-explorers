@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4080,121643,Copepoda,Copepods,eats
+4080,47186,Decapoda,Decapods,eats
+4080,153112,Euphausiacea,krill,eats
+4080,47628,Amphipoda,Amphipods,eats
+4080,121639,Brachyura,True Crabs,eats
+4080,85493,Crustacea,Crustaceans,eats
+4080,617783,Electrona antarctica,,eats
+4080,,,,eats
+4080,,Gnathostomata,,eats
+4080,42069,Vulpes vulpes,Red Fox,eatenBy
+4080,20315,Asio flammeus,Short-eared Owl,eatenBy
+4080,5081,Aquila adalberti,Spanish Eagle,eatenBy
+4080,4368,Larus marinus,Great Black-backed Gull,eatenBy
+4080,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4080,41900,Herpestes ichneumon,Ichneumon,eatenBy
+4080,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4080,,Elaphe situla,,eatenBy
+4080,39407,Varanus griseus,Desert Monitor,eatenBy
+4080,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4080,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4080,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4080,204533,Larus argentatus,Herring Gull,preyedUponBy
+4080,4368,Larus marinus,Great Black-backed Gull,preyedUponBy

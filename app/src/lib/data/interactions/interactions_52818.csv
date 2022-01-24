@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52818,48548,Vanessa cardui,Painted Lady,eatenBy
+52818,128712,Coccinella californica,California Lady Beetle,eatenBy
+52818,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+52818,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+52818,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+52818,50931,Strymon melinus,Gray Hairstreak,eatenBy
+52818,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",eatenBy
+52818,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+52818,318550,Halictus farinosus,Wide-striped Sweat Bee,eatenBy
+52818,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+52818,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+52818,47219,Apis mellifera,Western Honey Bee,eatenBy
+52818,126545,Dialictus,Metallic Sweat Bees,eatenBy
+52818,48662,Danaus plexippus,Monarch,eatenBy
+52818,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+52818,84640,Polistes dominula,European Paper Wasp,eatenBy
+52818,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+52818,55785,Ochlodes agricola,Rural Skipper,eatenBy
+52818,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+52818,246009,Acmaeodera hepburnii,,eatenBy
+52818,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+52818,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+52818,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+52818,311630,Acmaeodera prorsa,,eatenBy
+52818,127741,Colletes,Cellophane Bees,eatenBy
+52818,69145,Coenonympha california,Common Ringlet,eatenBy
+52818,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+52818,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+52818,1081332,Lon melane,Umber Skipper,eatenBy
+52818,127812,Hylaeus,Masked Bees,eatenBy
+52818,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+52818,224501,Megachile perihirta,Western Leafcutter,eatenBy
+52818,124431,Cycloneda sanguinea,Spotless Lady Beetle,eatenBy
+52818,,Melanoplus scudderi,,eatenBy
+52818,,Cnephasia incertana,,eatenBy
+52818,,Sparganothis senecionana,,eatenBy
+52818,,Dichrorampha plumbana,,eatenBy
+52818,,Eupoecilia angustana,,eatenBy
+52818,,Dichrorampha sequana,,eatenBy
+52818,,Scopula ornata,,eatenBy
+52818,,Chloroclystis v-ata,,eatenBy
+52818,,Thalera fimbrialis,,eatenBy
+52818,,Coleophora gardesanella,,eatenBy
+52818,,Coleophora vibicigerella,,eatenBy
+52818,,Coleophora trochilella,,eatenBy
+52818,,Melitaea cinxia,,eatenBy
+52818,53893,Chlosyne palla,Northern Checkerspot,eatenBy
+52818,116725,Anastrangalia laetifica,Dimorphic Flower Longhorn Beetle,eatenBy
+52818,,Callophrys augustinus iroides,,eatenBy
+52818,84693,Diplazon laetatorius,Common Hover Fly Parasitoid Wasp,eatenBy
+52818,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+52818,,Adela flammeusella,,eatenBy
+52818,,Eupeodes volucris,,eatenBy
+52818,,Sphex lucae,,eatenBy
+52818,,Burnsius communis,,eatenBy
+52818,,Trirhabda flavolimbata,,eatenBy
+52818,,Spilomyia interrupta,,eatenBy
+52818,,Anthrenus verbasci,,eatenBy
+52818,520456,Icaricia acmon,Acmon Blue,eatenBy
+52818,,Podabrus pruinosus,,eatenBy
+52818,,Cteniopus sulphureus,,eatenBy
+52818,322368,Syrphus opinator,Black-margined Flower Fly,eatenBy
+52818,,Stelis laticincta,,eatenBy
+52818,321014,Gillmeria pallidactyla,Yarrow Plume Moth,eatenBy
+52818,,Paraprosopis,,eatenBy
+52818,,Pseudovadonia livida,,eatenBy
+52818,,Agraulis vanillae,,eatenBy
+52818,,Chlosyne leanira,,eatenBy
+52818,55719,Eristalis tenax,Common Drone Fly,eatenBy
+52818,,Mordellistena (Mordellistena) parvula,,eatenBy
+52818,,Longitarsus succineus,,eatenBy
+52818,,Pseudostyphlus pillumus,,eatenBy
+52818,,Trypeta zoe,,eatenBy
+52818,,Ophiomyia curvipalpis,,eatenBy
+52818,,Cheilosia vernalis,,eatenBy
+52818,,Rheumaptera hastata,,eatenBy
+52818,57682,Anthophora,Common Digger Bees,pollinatedBy
+52818,49995,Syrphidae,Hover Flies,pollinatedBy
+52818,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+52818,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+52818,48763,Neuroptera,"Antlions, Lacewings, and Allies",pollinatedBy
+52818,,http://treatment.plazi.org/id/EFA2D9EE87F05E8EB207EC8EF0C3ACCB,,pollinatedBy
+52818,49460,Empididae,Dance Flies,pollinatedBy

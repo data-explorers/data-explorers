@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82523,48678,Solidago,goldenrods,eats
+82523,56112,Symphyotrichum,American asters,eats
+82523,67983,Diervilla lonicera,northern bush honeysuckle,eats
+82523,61340,Cirsium discolor,field thistle,eats
+82523,61009,Lathyrus latifolius,broad-leaved sweet pea,eats
+82523,48561,Cirsium,thistles,eats
+82523,48230,Ranunculus,buttercups,eats
+82523,85380,Eutrochium,Joe-Pye weeds,eats
+82523,59571,Arctium,burdocks,eats
+82523,61787,Persicaria,"knotweeds, smartweeds, and waterpeppers",eats
+82523,128695,Eryngium yuccifolium,rattlesnake master,eats
+82523,50879,Erigeron,fleabanes and horseweeds,eats
+82523,51737,Solanum lycopersicum,tomato,eats
+82523,57793,Gilia capitata,bluehead gilia,eats
+82523,76610,Daucus carota,wild carrot,eats
+82523,142279,Symphyotrichum pilosum,hairy white oldfield aster,eats
+82523,58795,Apocynum cannabinum,hemp dogbane,eats
+82523,,Agrimonia,,eats
+82523,,Heliopsis helianthoides,,eats
+82523,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+82523,,Zizia aurea,,eats
+82523,117438,Dipsacus laciniatus,cutleaf teasel,eats
+82523,,Mimulus ringens,,eats
+82523,144047,Persicaria virginiana,American jumpseed,eats
+82523,,Sparganium,,eats
+82523,54919,Cucumis sativus,Cucumber,eats
+82523,,Phacelia purshii,,eats
+82523,,Salvia guaranitica,,eats
+82523,,Helianthus angustifolius,,eats
+82523,,Ampelaster carolinianus,,eats
+82523,,Packera,,eats
+82523,81603,Cirsium muticum,swamp thistle,eats
+82523,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+82523,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+82523,119535,Phymata,Jagged Ambush Bugs,preyedUponBy
+82523,,Philanthus gibbosus,,preyedUponBy

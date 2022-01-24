@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58416,58523,Papilio polyxenes,Black Swallowtail,eats
+58416,147930,Rabidosa rabida,Rabid Wolf Spider,eats
+58416,47157,Lepidoptera,Butterflies and Moths,preysOn
+58416,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+58416,47822,Diptera,Flies,preysOn
+58416,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+58416,48139,Salticidae,Jumping Spiders,preysOn
+58416,67688,Caelifera,"Grasshoppers, Locusts, and Allies",preysOn
+58416,50340,Hylephila phyleus,Fiery Skipper,preysOn
+58416,342614,Entelegynae,Entelegyne Spiders,preysOn
+58416,49025,Membracoidea,Leafhoppers and Treehoppers,preysOn
+58416,47158,Insecta,Insects,preysOn
+58416,184884,Pterygota,Winged and Once-winged Insects,preysOn
+58416,47982,Asilidae,Robber Flies,preysOn
+58416,49574,Pseudococcidae,Mealybugs,preysOn
+58416,47118,Araneae,Spiders,preysOn
+58416,,Panorpidae,,preysOn
+58416,,Stictocephala,,preysOn

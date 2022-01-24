@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+122202,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+122202,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+122202,48564,Prionotus,,eatenBy
+122202,179454,Syacium papillosum,Dusky Flounder,eatenBy
+122202,179493,Pontinus longispinis,Longspine Scorpionfish,eatenBy
+122202,179477,Prionotus longispinosus,Bigeye Searobin,eatenBy
+122202,317314,Prionotus paralatus,Mexican Searobin,eatenBy
+122202,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+122202,179491,Prionotus tribulus,Bighead Searobin,eatenBy
+122202,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+122202,,Chaceon ramosae,,eatenBy
+122202,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy

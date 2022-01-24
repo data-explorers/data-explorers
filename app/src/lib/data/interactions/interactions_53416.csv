@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53416,15256,Chamaea fasciata,Wrentit,eatenBy
+53416,47219,Apis mellifera,Western Honey Bee,eatenBy
+53416,6317,Calypte anna,Anna's Hummingbird,eatenBy
+53416,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+53416,1081332,Lon melane,Umber Skipper,eatenBy
+53416,,Lonicerae russoi,,eatenBy
+53416,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+53416,144820,Poecile rufescens,Chestnut-backed Chickadee,eatenBy
+53416,145088,Ixoreus naevius,Varied Thrush,eatenBy
+53416,5562,Trochilidae,Hummingbirds,pollinatedBy

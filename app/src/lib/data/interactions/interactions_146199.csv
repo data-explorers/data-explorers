@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+146199,48268,Crotalus oreganus,Western Rattlesnake,eats
+146199,32055,Elgaria multicarinata,Southern Alligator Lizard,eats
+146199,43698,Rodentia,Rodents,eats
+146199,30713,Crotalus oreganus helleri,Southern Pacific Rattlesnake,eats
+146199,2715,Columbidae,Pigeons and Doves,eats
+146199,36982,Scincidae,Skinks,eats
+146199,29044,Pituophis catenifer,Gopher Snake,eats
+146199,,Crotalus oreganus oreganus,,eats
+146199,32059,Elgaria multicarinata multicarinata,California Alligator Lizard,eats
+146199,,Crotalus pyrrhus,,eats
+146199,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+146199,48268,Crotalus oreganus,Western Rattlesnake,preysOn
+146199,3,Aves,Birds,preysOn
+146199,29044,Pituophis catenifer,Gopher Snake,preysOn
+146199,43698,Rodentia,Rodents,preysOn
+146199,1405,Callipepla,Crested Quails,preysOn
+146199,3454,Zenaida macroura,Mourning Dove,preysOn
+146199,44259,Microtus,Meadow Voles,preysOn
+146199,30713,Crotalus oreganus helleri,Southern Pacific Rattlesnake,preysOn
+146199,2715,Columbidae,Pigeons and Doves,preysOn
+146199,734682,Masticophis lateralis lateralis,California Striped Racer,preysOn
+146199,,Trimorphodon lambda,,preysOn
+146199,,Coluber flagellum piceus,,preysOn
+146199,,Coluber lateralis,,preysOn
+146199,,Coluber lateralis euryxanthus,,preysOn
+146199,28762,Rhinocheilus lecontei,Long-nosed Snake,preysOn
+146199,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy

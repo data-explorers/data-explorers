@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+353484,47126,Plantae,plants,eats
+353484,1,Animalia,Animals,eats
+353484,47158,Insecta,Insects,eats
+353484,85493,Crustacea,Crustaceans,eats
+353484,50372,Halophila,,eats
+353484,,,,eats
+353484,,Prymnesiophyceae,,eats
+353484,,Phytoplankton,,eats
+353484,,no name,,preyedUponBy
+353484,94609,Argyrosomus hololepidotus,Madagascar Meagre,preyedUponBy
+353484,50984,Pomatomus saltatrix,Bluefish,preyedUponBy

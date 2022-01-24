@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4092,92583,Trachurus,Jack Mackerels,eats
+4092,51912,Engraulis,,eats
+4092,85777,Exocoetidae,Flyingfishes,eats
+4092,121639,Brachyura,True Crabs,eats
+4092,47186,Decapoda,Decapods,eats
+4092,63770,Engraulis mordax,Northern Anchovy,eats
+4092,85493,Crustacea,Crustaceans,eats
+4092,47459,Cephalopoda,Cephalopods,eats
+4092,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+4092,,Frigidoalvania cruenta,,eats
+4092,55535,Sardinops sagax,Pacific Sardine,eats
+4092,254742,Astyris lunata,Lunate Dove Shell,eats
+4092,118600,Sardina pilchardus,European Sardine,eats
+4092,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+4092,,Kondakovia longimana,,eats
+4092,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+4092,117571,Clupea pallasii,Pacific herring,eats
+4092,51910,Engraulis encrasicolus,European Anchovy,eats
+4092,328042,Engraulis japonicus,Japanese Anchovy,eats
+4092,324532,Sprattus sprattus,European Sprat,eats
+4092,502271,Engraulis australis,Australian Anchovy,eats
+4092,146888,Illex,Shortfin Squids,eats
+4092,97990,Clupea harengus,Atlantic Herring,eats
+4092,,Etrumeus teres,,eats
+4092,87865,Decapterus,,eats
+4092,,Teuthida,,eats
+4092,447397,Engraulis anchoita,Argentine Anchoita,eats
+4092,88265,Etrumeus,Red-eye Round Herrings,eats
+4092,82337,Loligo,,eats
+4092,,Gnathostomata,,eats
+4092,,Pisces,,eats
+4092,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4092,4141,Phoebastria nigripes,Black-footed Albatross,eatenBy
+4092,63770,Engraulis mordax,Northern Anchovy,preysOn
+4092,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+4092,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+4092,55535,Sardinops sagax,Pacific Sardine,preysOn

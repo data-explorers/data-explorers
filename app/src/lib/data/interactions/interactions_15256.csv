@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+15256,1,Animalia,Animals,eats
+15256,211194,Tracheophyta,vascular plants,eats
+15256,47208,Coleoptera,Beetles,eats
+15256,125816,Auchenorrhyncha,True Hoppers,eats
+15256,47118,Araneae,Spiders,eats
+15256,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+15256,47157,Lepidoptera,Butterflies and Moths,eats
+15256,47158,Insecta,Insects,eats
+15256,47124,Magnoliopsida,dicots,eats
+15256,48201,Scarabaeidae,Scarabs,eats
+15256,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+15256,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+15256,53416,Lonicera hispidula,Pink Honeysuckle,eats
+15256,53405,Heteromeles arbutifolia,Toyon,eats
+15256,58308,Rhamnus ilicifolia,hollyleaf redberry,eats
+15256,143799,Sambucus cerulea,blue elder,eats
+15256,64122,Malosma laurina,laurel sumac,eats
+15256,57243,Rhamnus crocea,Redberry Buckthorn,eats
+15256,47158,Insecta,Insects,preysOn

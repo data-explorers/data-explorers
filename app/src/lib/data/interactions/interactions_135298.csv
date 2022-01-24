@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+135298,7072,Tadorna variegata,Paradise Shelduck,eatenBy
+135298,,Corvus caurinus,,eatenBy
+135298,116840,Calcarius lapponicus,Lapland Longspur,eatenBy

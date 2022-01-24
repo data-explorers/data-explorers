@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57358,59152,Leptotes marina,Marine Blue,eatenBy
+57358,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+57358,,Zerene eurydice,,eatenBy
+57358,129362,Zerene cesonia,Southern Dogface,eatenBy
+57358,,Thorybes pylades,,eatenBy
+57358,,Amorphicola amorphae,,eatenBy
+57358,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

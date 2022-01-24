@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+326777,129902,Camponotus pennsylvanicus,Eastern Black Carpenter Ant,eatenBy
+326777,49566,Cicindela sexguttata,Six-spotted Tiger Beetle,eatenBy
+326777,,Argiope aurantia,,eatenBy
+326777,245656,Synema globosum,Napoleon Spider,eatenBy
+326777,,Laphria index,,eatenBy
+326777,18205,Melanerpes carolinus,Red-bellied Woodpecker,eatenBy
+326777,68390,Nephila pilipes,Giant Golden Orbweaver,eatenBy
+326777,123713,Neoscona oaxacensis,Western Spotted Orbweaver,preysOn
+326777,71034,Tenodera sinensis,Chinese Mantis,preyedUponBy
+326777,,Dolichovespula arenaria,,preyedUponBy

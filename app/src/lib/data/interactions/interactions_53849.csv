@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53849,40151,Mammalia,Mammals,eats
+53849,12727,Turdus migratorius,American Robin,eatenBy
+53849,11867,Progne subis,Purple Martin,eatenBy
+53849,12716,Turdus merula,Eurasian Blackbird,eatenBy
+53849,19975,Athene cunicularia,Burrowing Owl,eatenBy
+53849,,Campylorhynchus brunneicapillus,,eatenBy
+53849,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+53849,13732,Anthus rubescens,American Pipit,eatenBy
+53849,5017,Bubulcus ibis,Cattle Egret,eatenBy
+53849,,Caprimulgus vociferus,,eatenBy
+53849,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+53849,,Carabus cancellatus,,preysOn
+53849,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+53849,,Phyllostomus hastatus,,preyedUponBy
+53849,1150085,Myotis myotis,,preyedUponBy
+53849,40576,Nyctalus lasiopterus,Giant Noctule,preyedUponBy
+53849,30901,Vipera ursinii,Meadow Viper,preyedUponBy

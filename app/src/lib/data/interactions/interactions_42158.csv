@@ -1,0 +1,123 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42158,47170,Fungi,Fungi Including Lichens,eats
+42158,47192,Cornus canadensis,Canadian bunchberry,eats
+42158,311249,Bryophyta,mosses,eats
+42158,49883,Betula papyrifera,paper birch,eats
+42158,54774,Viburnum,viburnums,eats
+42158,54840,Populus tremuloides,trembling aspen,eats
+42158,52658,Drosera rotundifolia,round-leaved sundew,eats
+42158,47161,Cyperaceae,sedges,eats
+42158,53460,Gaultheria hispidula,creeping snowberry,eats
+42158,84542,Vaccinium angustifolium,lowbush blueberry,eats
+42158,58736,Pyrus,pears,eats
+42158,132767,Chamaedaphne calyculata,leatherleaf,eats
+42158,122555,Hylocomium splendens,stairstep moss,eats
+42158,53453,Salix,Willows,eats
+42158,54704,Sphagnum,Sphagnum mosses,eats
+42158,54844,Salix discolor,pussy willow,eats
+42158,67748,Maianthemum canadense,Canada mayflower,eats
+42158,82564,Dryopteris carthusiana,spinulose wood fern,eats
+42158,4638,Falco,Typical Falcons,eats
+42158,47561,Pinus,pines,eats
+42158,48538,Cytisus scoparius,Scots broom,eats
+42158,200843,Griselinia littoralis,New Zealand Broadleaf,eats
+42158,,deciduous shrubs,,eats
+42158,77780,Linnaea borealis,twinflower,eats
+42158,,Racomitrium lanuginosum,,eats
+42158,,Andromeda polifolia latifolia,,eats
+42158,,Rhododendron canadense,,eats
+42158,,Aster,,eats
+42158,,forbs,,eats
+42158,,Ptilidium pulcherrimum,,eats
+42158,,Polytrichum commune,,eats
+42158,,Vaccinium oxycoccos,,eats
+42158,,Rhytidiadelphus triquetrus,,eats
+42158,,Lophozia,,eats
+42158,,Trientalis borealis,,eats
+42158,,Betula glandulosa,,eats
+42158,,Osmunda cinnamomea,,eats
+42158,,Coptis trifolia trifolia,,eats
+42158,,http://treatment.plazi.org/id/8CDDB8FE5199BEA9FC8C197936C1A53C,,eats
+42158,,Kalmia polifolia,,eats
+42158,,Potamogeton natans,,eats
+42158,,Empetrum nigrum,,eats
+42158,161868,Dicranum polysetum,Waxyleaf Moss,eats
+42158,,Amelanchier bartramiana,,eats
+42158,,reindeer lichens,,eats
+42158,,Frullania eboracensis,,eats
+42158,,Rubus chamaemorus,,eats
+42158,,Salix pellita,,eats
+42158,,Calliergonella schreberi,,eats
+42158,,Thalictrum polyganum,,eats
+42158,,evergreen shrubs,,eats
+42158,,Lonicera villosa,,eats
+42158,78991,Scheuchzeria palustris,Rannoch Rush,eats
+42158,64714,Vaccinium uliginosum,bog bilberry,eats
+42158,,Dicranum scoparium,,eats
+42158,56312,Vaccinium vitis-idaea,Lingonberry,eats
+42158,,Sanguisorba canadensis,,eats
+42158,,Campylium stellatum,,eats
+42158,,Pyrus floribunda,,eats
+42158,,Racomitrium heterosticum,,eats
+42158,,Ilex mucronata,,eats
+42158,,Potentilla tridentita,,eats
+42158,128551,Solidago rugosa,common wrinkle-leaved goldenrod,eats
+42158,,Alnus crispa,,eats
+42158,,Cephaloziella,,eats
+42158,,arboreal lichens,,eats
+42158,,Myrica gale,,eats
+42158,,Scapania,,eats
+42158,,http://treatment.plazi.org/id/59D59ECE9A275539B185096C716CBA82,,eats
+42158,,Salix humulis,,eats
+42158,,Betula michauxii,,eats
+42158,,Racomitirum fasciculare,,eats
+42158,,Osmunda regalis,,eats
+42158,,Ledum groenlandicum,,eats
+42158,,Potamogeton gramineus,,eats
+42158,,Abies balsamea,,eats
+42158,,Ptilidum ciliare,,eats
+42158,,aquatics,,eats
+42158,,Polytrichastrum alpinum,,eats
+42158,,Nuphar variegatum,,eats
+42158,,Potentilla fructicosa,,eats
+42158,52651,Sarracenia purpurea,purple pitcher plant,eats
+42158,,Equisetum fluviatile,,eats
+42158,168421,Sanionia uncinata,Sickle-leaved Hook-moss,eats
+42158,,grasses - sedges - willows,,eats
+42158,,herbs - grass - shrubs,,eats
+42158,,Populus tremula,,eats
+42158,42051,Canis latrans,Coyote,eatenBy
+42158,41976,Lynx rufus,Bobcat,eatenBy
+42158,42007,Puma concolor,Mountain Lion,eatenBy
+42158,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+42158,42069,Vulpes vulpes,Red Fox,eatenBy
+42158,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+42158,42054,Vulpes,Typical Foxes,eatenBy
+42158,42006,Puma,,eatenBy
+42158,42048,Canis lupus,Gray Wolf,eatenBy
+42158,851014,Canis aureus,Golden Jackal,eatenBy
+42158,,Canis lupus rufus,,eatenBy
+42158,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+42158,41979,Lynx lynx,Eurasian Lynx,eatenBy
+42158,41800,Martes foina,Stone Marten,eatenBy
+42158,41796,Martes martes,Eurasian Pine Marten,eatenBy
+42158,41798,Martes americana,American Marten,eatenBy
+42158,41808,Mustela erminea,Eurasian Stoat,eatenBy
+42158,41975,Lynx pardinus,Iberian Lynx,eatenBy
+42158,,Martes pennanti,,eatenBy
+42158,41970,Panthera onca,Jaguar,eatenBy
+42158,41641,Ursus arctos,Brown Bear,eatenBy
+42158,41963,Panthera pardus,Leopard,eatenBy
+42158,41967,Panthera tigris,Tiger,eatenBy
+42158,,Perisoreus canadensis,,eatenBy
+42158,,Aquila rapax,,eatenBy
+42158,26159,Alligator mississippiensis,American Alligator,eatenBy
+42158,,American black bear,,eatenBy
+42158,,Grey wolf,,eatenBy
+42158,,Canadian lynx,,eatenBy
+42158,233598,Vulpes lagopus,Arctic Fox,eatenBy
+42158,,American marten,,eatenBy
+42158,,Coyote,,eatenBy
+42158,,Aquila chrysaetos,,eatenBy
+42158,42051,Canis latrans,Coyote,preyedUponBy
+42158,26159,Alligator mississippiensis,American Alligator,preyedUponBy

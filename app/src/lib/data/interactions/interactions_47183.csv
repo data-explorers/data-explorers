@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47183,,plankton,,eats
+47183,,plankton and marine detritus,,eats
+47183,144491,Tringa semipalmata,Willet,eatenBy
+47183,,Polydactylus,,eatenBy
+47183,179544,Menticirrhus littoralis,Gulf Kingcroaker,eatenBy
+47183,179545,Menticirrhus americanus,Southern Kingfish,eatenBy
+47183,179547,Menticirrhus saxatilis,Northern Kingfish,eatenBy
+47183,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+47183,86422,Amphistichus,,eatenBy
+47183,4892,Pluvialis squatarola,Black-bellied Plover,eatenBy

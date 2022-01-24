@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121654,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+121654,445859,Dentex angolensis,Angola Dentex,eatenBy
+121654,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy

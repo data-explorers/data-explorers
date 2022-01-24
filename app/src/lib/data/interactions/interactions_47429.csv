@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47429,54644,Ulva,sea lettuces,eats
+47429,51021,Dictyota,Y-branched Algae,eats
+47429,559953,Halimeda cuneata,Wedgeweed,eats
+47429,,Padina boryana,,eats
+47429,,Jania intermedia,,eats
+47429,67676,Gracilaria salicornia,Gorilla ogo,eats
+47429,700614,Codium lucasii,,eats
+47429,828842,Chondria armata,,eats
+47429,201264,Bryopsis pennata,,eats
+47429,131381,Griffithsia,,eats
+47429,142076,Acrosorium,,eats
+47429,706028,Pseudocodium devriesii,,eats
+47429,1131124,Sargassum aquifolium,,eats
+47429,503019,Hormophysa cuneiformis,,eats
+47429,322731,Sargassum polycystum,,eats
+47429,1180401,Gracilaria corticata,,eats
+47429,415041,Cladophora vagabunda,,eats
+47429,703743,Codium prostratum,,eats
+47429,326163,Halimeda tuna,Pennyweed,eats
+47429,,Valonia macrophysa,,eats
+47429,50926,Caulerpa racemosa,Sea Grapes,eats
+47429,131319,Dictyosphaeria cavernosa,,eats
+47429,,Osmundaria melvillii,,eats
+47429,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+47429,103601,Jasus edwardsii,Southern Rock Lobster,eatenBy
+47429,55396,Solea solea,Common Sole,eatenBy
+47429,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+47429,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+47429,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+47429,471092,Lithodes murrayi,Subantarctic Stone Crab,eatenBy
+47429,,Thalamita crenata,,eatenBy
+47429,209010,Charybdis japonica,Asian Paddle Crab,eatenBy
+47429,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+47429,61383,Homarus americanus,American Lobster,eatenBy
+47429,47299,Panulirus argus,Caribbean Spiny Lobster,eatenBy
+47429,542836,Octopus mimus,Changos Octopus,eatenBy
+47429,41763,Phocarctos hookeri,New Zealand Sea Lion,eatenBy
+47429,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47429,113531,Symphodus mediterraneus,Axillary Wrasse,eatenBy
+47429,53567,Sargocentron diadema,Crown Squirrelfish,eatenBy
+47429,621180,Stichaeus nozawae,,eatenBy
+47429,479865,Cheilodactylus variegatus,Peruvian morwong,eatenBy
+47429,94135,Anisotremus scapularis,Peruvian Grunt,eatenBy
+47429,107725,Oplegnathus insignis,Pacific beakfish,eatenBy
+47429,118669,Diplodus sargus,White Bream,eatenBy
+47429,360950,Sparodon durbanensis,Musselcracker Seabream,eatenBy
+47429,445777,Chrysoblephus laticeps,Roman Seabream,eatenBy
+47429,118667,Diplodus vulgaris,Common Two-banded Seabream,eatenBy
+47429,83439,Centropristis striata,Black Sea Bass,eatenBy
+47429,131388,Haemulon melanurum,Cottonwick,eatenBy
+47429,,Corvus caurinus,,eatenBy
+47429,,Melicertus kerathurus,,eatenBy
+47429,615189,Harpagifer antarcticus,Antarctic spiny plunderfish,preyedUponBy

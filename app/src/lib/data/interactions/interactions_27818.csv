@@ -1,0 +1,133 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+27818,69758,Lumbricidae,Earthworms,eats
+27818,67731,Anax junius,Common Green Darner,eats
+27818,54960,Nematoda,Nematodes,eats
+27818,59653,Gerridae,Water Striders,eats
+27818,64970,Anaxyrus boreas,Western Toad,eats
+27818,84670,Ephydridae,Shore Flies,eats
+27818,52864,Tramea,Saddlebag Gliders,eats
+27818,53275,Chironomidae,Non-biting Midges,eats
+27818,27818,Taricha torosa,California Newt,eats
+27818,81576,Belostoma,,eats
+27818,129189,Hyalella,,eats
+27818,133821,Physa,,eats
+27818,174572,Callibaetis,Speckled Duns,eats
+27818,133623,Tropisternus,,eats
+27818,,meiofauna,,eats
+27818,124813,Alaria,,eats
+27818,,Echinostoma trivolvis,,eats
+27818,177989,Haliplus,,eats
+27818,,Megalodiscus,,eats
+27818,,Lethocerus americanus,,eats
+27818,121463,Arrenurus,Water Mites,eats
+27818,,Ribeiroia ondatrae,,eats
+27818,,Cephalogonimus americanus,,eats
+27818,,Opalina,,eats
+27818,,Hesperocorixa,,eats
+27818,,Diaptomidae,,eats
+27818,,Corynosoma constrictum,,eats
+27818,,Echinostoma,,eats
+27818,56557,Notonecta,Milky Backswimmers,eats
+27818,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+27818,,Lestes,,eats
+27818,,Daubaylia,,eats
+27818,,Macrocyclops,,eats
+27818,,Planorbella,,eats
+27818,24259,Pseudacris regilla,Northern Pacific Tree Frog,eats
+27818,,Nyctotherus,,eats
+27818,67016,Rana draytonii,California Red-legged Frog,eats
+27818,68304,Cyzicus californicus,California Clam Shrimp,eats
+27818,,Chaetogaster,,eats
+27818,,Halipegus,,eats
+27818,,Erpobdella,,eats
+27818,,Dero,,eats
+27818,171609,Simocephalus,,eats
+27818,51679,Coenagrion,Northern Bluets,eats
+27818,,Tubificidae,,eats
+27818,,Gregarinidae,,eats
+27818,,Batrachochytrium dendrobatidis,,eats
+27818,69803,Ceratopogonidae,Biting Midges,eats
+27818,,Zooplankton,,eats
+27818,,Adonisea,,eats
+27818,67731,Anax junius,Common Green Darner,eatenBy
+27818,27818,Taricha torosa,California Newt,eatenBy
+27818,54960,Nematoda,Nematodes,eatenBy
+27818,64970,Anaxyrus boreas,Western Toad,eatenBy
+27818,52864,Tramea,Saddlebag Gliders,eatenBy
+27818,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+27818,473,Fulica americana,American Coot,eatenBy
+27818,81576,Belostoma,,eatenBy
+27818,42051,Canis latrans,Coyote,eatenBy
+27818,4956,Ardea herodias,Great Blue Heron,eatenBy
+27818,,Prenolepis imparis,,eatenBy
+27818,28418,Thamnophis atratus,Aquatic Garter Snake,eatenBy
+27818,56557,Notonecta,Milky Backswimmers,eatenBy
+27818,,Spermophilus beecheyi,,eatenBy
+27818,,Lethocerus americanus,,eatenBy
+27818,,Opalina,,eatenBy
+27818,,Nyctotherus,,eatenBy
+27818,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+27818,67016,Rana draytonii,California Red-legged Frog,eatenBy
+27818,,Echinostoma trivolvis,,eatenBy
+27818,,Halipegus,,eatenBy
+27818,,Batrachochytrium dendrobatidis,,eatenBy
+27818,,Echinostoma,,eatenBy
+27818,,Cephalogonimus americanus,,eatenBy
+27818,,Ribeiroia ondatrae,,eatenBy
+27818,81576,Belostoma,,preysOn
+27818,133623,Tropisternus,,preysOn
+27818,27818,Taricha torosa,California Newt,preysOn
+27818,84670,Ephydridae,Shore Flies,preysOn
+27818,53275,Chironomidae,Non-biting Midges,preysOn
+27818,67731,Anax junius,Common Green Darner,preysOn
+27818,174572,Callibaetis,Speckled Duns,preysOn
+27818,133821,Physa,,preysOn
+27818,59653,Gerridae,Water Striders,preysOn
+27818,129189,Hyalella,,preysOn
+27818,64970,Anaxyrus boreas,Western Toad,preysOn
+27818,52864,Tramea,Saddlebag Gliders,preysOn
+27818,,Lestes,,preysOn
+27818,124813,Alaria,,preysOn
+27818,,Zooplankton,,preysOn
+27818,,Hesperocorixa,,preysOn
+27818,56557,Notonecta,Milky Backswimmers,preysOn
+27818,,meiofauna,,preysOn
+27818,69803,Ceratopogonidae,Biting Midges,preysOn
+27818,,Chaetogaster,,preysOn
+27818,,Diaptomidae,,preysOn
+27818,,Pseudiacris regilla,,preysOn
+27818,,Macrocyclops,,preysOn
+27818,67016,Rana draytonii,California Red-legged Frog,preysOn
+27818,51679,Coenagrion,Northern Bluets,preysOn
+27818,68304,Cyzicus californicus,California Clam Shrimp,preysOn
+27818,148201,Helisoma,,preysOn
+27818,,Echinostoma trivolvis,,preysOn
+27818,,Erpobdella,,preysOn
+27818,171609,Simocephalus,,preysOn
+27818,,Tubificidae,,preysOn
+27818,177989,Haliplus,,preysOn
+27818,177749,Hydrophilus,Giant Water Scavenger Beetles,preysOn
+27818,,Dero,,preysOn
+27818,,Ribeiroia ondatrae,,preysOn
+27818,,Halipegus,,preysOn
+27818,,Letherocerus americanus,,preysOn
+27818,,Echinostoma,,preysOn
+27818,,Cephalogonimus americanus,,preysOn
+27818,,Megalodiscus,,preysOn
+27818,26575,Diadophis punctatus,ring-necked snake,preyedUponBy
+27818,42051,Canis latrans,Coyote,preyedUponBy
+27818,81576,Belostoma,,preyedUponBy
+27818,27818,Taricha torosa,California Newt,preyedUponBy
+27818,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+27818,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+27818,473,Fulica americana,American Coot,preyedUponBy
+27818,67731,Anax junius,Common Green Darner,preyedUponBy
+27818,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+27818,52864,Tramea,Saddlebag Gliders,preyedUponBy
+27818,,Thamnophis couchii,,preyedUponBy
+27818,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+27818,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+27818,,Letherocerus americanus,,preyedUponBy
+27818,56557,Notonecta,Milky Backswimmers,preyedUponBy
+27818,,Spermophilus beecheyi,,preyedUponBy
+27818,28418,Thamnophis atratus,Aquatic Garter Snake,preyedUponBy

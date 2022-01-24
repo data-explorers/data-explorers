@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+12901,50055,Setaria,foxtails and bristlegrasses,eats
+12901,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+12901,50249,Maianthemum,mayflowers and false Solomon's seals,eats
+12901,167829,Rhus typhina,staghorn sumac,eats
+12901,47822,Diptera,Flies,eats
+12901,58738,Rhus aromatica,fragrant sumac,eats
+12901,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+12901,60748,Smilax,greenbriers,eats
+12901,47336,Formicidae,Ants,eats
+12901,47118,Araneae,Spiders,eats
+12901,47124,Magnoliopsida,dicots,eats
+12901,54834,Prunus serotina,black cherry,eats
+12901,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+12901,47158,Insecta,Insects,eats
+12901,49567,Carabidae,Ground Beetles,eats
+12901,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+12901,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+12901,47193,Cornus,dogwoods,eats
+12901,47208,Coleoptera,Beetles,eats
+12901,49230,Amelanchier,serviceberries,eats
+12901,47544,Rubus,brambles,eats
+12901,1,Animalia,Animals,eats
+12901,52689,Sambucus,elders,eats
+12901,54765,Rhus,sumacs,eats
+12901,54857,Celtis occidentalis,common hackberry,eats
+12901,48599,Phytolacca americana,American pokeweed,eats
+12901,141735,Sitona,,eats
+12901,47157,Lepidoptera,Butterflies and Moths,eats
+12901,58736,Pyrus,pears,eats
+12901,48736,Curculionidae,True Weevils,eats
+12901,50299,Fragaria,strawberries,eats
+12901,47114,Gastropoda,Gastropods,eats
+12901,47120,Arthropoda,Arthropods,eats
+12901,47735,Diplopoda,Millipedes,eats
+12901,81769,Blattodea,Cockroaches and Termites,eats
+12901,47148,Rosaceae,rose family,eats
+12901,211194,Tracheophyta,vascular plants,eats
+12901,52932,Cantharidae,Soldier Beetles,eats
+12901,53248,Elateridae,Click Beetles,eats
+12901,47951,Staphylinidae,Rove Beetles,eats
+12901,47115,Mollusca,Molluscs,eats
+12901,47961,Cerambycidae,Longhorn Beetles,eats
+12901,51225,Tipulidae,Large Crane Flies,eats
+12901,48201,Scarabaeidae,Scarabs,eats
+12901,58732,Toxicodendron radicans,poison ivy,eats
+12901,125845,Prunus caroliniana,Carolina laurelcherry,eats
+12901,83799,Mitchella repens,partridgeberry,eats
+12901,54774,Viburnum,viburnums,eats
+12901,,Limonius aeger,,eats
+12901,,Tiphia,,eats
+12901,221981,Hypera nigrirostris,Black-beaked green weevil,eats
+12901,,Chrysomela pulcra,,eats
+12901,,Capraita quercata,,eats
+12901,,Microrhopala vittata,,eats
+12901,,Onthophagus,,eats
+12901,,Cornus foemina,,eats
+12901,,Ips fasciata,,eats
+12901,,Sporobolus vaginiflorus,,eats
+12901,122644,Graphops,,eats
+12901,,Sambucus racemosa,,eats
+12901,,Symphoricarpos albus,,eats
+12901,765394,Sambucus nigra,European black elderberry,eats
+12901,,Chlamisus,,eats
+12901,,Liotrichus spinosus,,eats
+12901,,Dichelonyx,,eats
+12901,,Paria scutellaris,,eats
+12901,,Prunus pensylvanica,,eats
+12901,,Aphodius,,eats
+12901,,Prunus virginiana,,eats
+12901,,Elaphrus ruscarius,,eats
+12901,,Cantharis bilineatus,,eats
+12901,,Phyllophaga hirticula,,eats
+12901,,Phyllophaga,,eats
+12901,,Calligrapha philadelphica,,eats
+12901,,Porcinolus murinus,,eats
+12901,54793,Lindera benzoin,northern spicebush,eats
+12901,133382,Amelanchier canadensis,Canadian serviceberry,eats
+12901,,Ctenicera cylindriformis,,eats
+12901,1029941,Graphops simplex,,eats
+12901,,Rhus copallinum,,eats
+12901,,Otiorhynchus ovatus,,eats
+12901,,Hormorus undulatus,,eats
+12901,,Bostrichus politus,,eats
+12901,,Poecilus lucublandus,,eats
+12901,,Nyssa sylvatica,,eats
+12901,56098,Bibio,,eats
+12901,,Cantharis,,eats
+12901,,Monarthrum mali,,eats
+12901,,Anisodactylus harrisii,,eats
+12901,,Podabrus flavicollis,,eats
+12901,,Neoptochus adspersus,,eats
+12901,300855,Ataenius cognatus,,eats
+12901,,Cercopeus chrysorrhoeus,,eats
+12901,217518,Conotrachelus posticatus,,eats
+12901,,Cornus alternifolia,,eats
+12901,,Hydrobius fuscipes,,eats
+12901,,Anisodactylus,,eats
+12901,,Taxus canadensis,,eats
+12901,,Corymbitodes tarsalis,,eats
+12901,,Ilex opaca,,eats
+12901,20044,Bubo virginianus,Great Horned Owl,eatenBy
+12901,5112,Accipiter cooperii,Cooper's Hawk,eatenBy

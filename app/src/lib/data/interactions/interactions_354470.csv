@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+354470,,Cocconeis placentula,,eats
+354470,,Amphora pediculus,,eats
+354470,,Rhoicosphenia curvata,,eats
+354470,,Rhoicosphenia abbreviata,,eats
+354470,47518,Salmo trutta,Brown Trout,eatenBy
+354470,48648,Salmo salar,Atlantic Salmon,eatenBy
+354470,,Erythroxylum,,eatenBy
+354470,,Aphloia theiformis,,eatenBy
+354470,,Synsepalum brevipes,,eatenBy
+354470,52935,Eupatorium,bonesets,pollinates
+354470,,Hydrocharis,,pollinates
+354470,333071,Persicaria thunbergii,,pollinates
+354470,,Persicaria comspicua,,pollinates
+354470,,Sagittaria trifolia,,pollinates
+354470,,Monochoria korsakowii,,pollinates
+354470,,Pimpinella major,,pollinates
+354470,158380,Angelica sylvestris,Wild Angelica,pollinates
+354470,52048,Scopula,,pollinates
+354470,,Bistorta vivipara,,pollinates
+354470,,Saxifraga cernua,,pollinates
+354470,,Papaver radicatum,,pollinates
+354470,78985,Saxifraga cespitosa,tufted saxifrage,pollinates
+354470,,Saxifraga oppositifolia,,pollinates
+354470,168980,Silene sorensenis,Sorensen's Catchfly,pollinates
+354470,83541,Dryas octopetala,Mountain Avens,pollinates
+354470,,Saxifraga caespitosa,,pollinates
+354470,,Pseudostellaria jamesiana,,pollinates
+354470,556361,Phragmites australis australis,European reed,pollinates
+354470,,Polygonum sieboldii,,pollinates
+354470,63089,Clitellata,Clitellates,preysOn
+354470,,Eukiefferiella claripennis,,preysOn
+354470,,Simulium vittatum,,preysOn
+354470,176380,Eukiefferiella,,preysOn
+354470,,Diamesa zernyi,,preysOn
+354470,,Micropsectra atrofasciata,,preysOn
+354470,120561,Cricotopus,,preysOn
+354470,47518,Salmo trutta,Brown Trout,preyedUponBy

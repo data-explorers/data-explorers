@@ -1,0 +1,73 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3802,1,Animalia,Animals,eats
+3802,60603,Cyclopterus lumpus,Lumpfish,eats
+3802,47459,Cephalopoda,Cephalopods,eats
+3802,86396,Ammodytes,,eats
+3802,97990,Clupea harengus,Atlantic Herring,eats
+3802,228496,Pollachius virens,Pollock,eats
+3802,118678,Scomber scombrus,Atlantic Mackerel,eats
+3802,120672,Scomberesox saurus,Atlantic Saury,eats
+3802,146887,Illex illecebrosus,Northern Shortfin Squid,eats
+3802,165100,Mallotus villosus,Capelin,eats
+3802,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+3802,63742,Gadidae,Cods and Haddocks,eats
+3802,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+3802,,Teleostei,,eats
+3802,338754,Symbion pandora,,eats
+3802,,Gnathostomata,,eats
+3802,179504,Osmerus mordax,Rainbow Smelt,eats
+3802,49219,Anguilla rostrata,American Eel,eats
+3802,63740,Gadus morhua,Atlantic Cod,eats
+3802,48648,Salmo salar,Atlantic Salmon,eats
+3802,56045,Limanda ferruginea,Yellowtail flounder,eats
+3802,339157,Alvania compacta,,eats
+3802,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+3802,88265,Etrumeus,Red-eye Round Herrings,eats
+3802,89292,Labrus,,eats
+3802,324532,Sprattus sprattus,European Sprat,eats
+3802,,Macruronus magellanicus,,eats
+3802,146888,Illex,Shortfin Squids,eats
+3802,,Kondakovia longimana,,eats
+3802,614162,Micromesistius australis,Southern blue whiting,eats
+3802,218966,Eleginus gracilis,Saffron Cod,eats
+3802,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+3802,180029,Gadus macrocephalus,Pacific Cod,eats
+3802,55535,Sardinops sagax,Pacific Sardine,eats
+3802,614161,Gadus chalcogrammus,Alaska Pollock,eats
+3802,118600,Sardina pilchardus,European Sardine,eats
+3802,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+3802,,common eel,,eats
+3802,82353,Merluccius,Hakes,eats
+3802,188362,Scomberomorus guttatus,Indo-Pacific King Mackerel,eats
+3802,224886,Merluccius bilinearis,Silver Hake,eats
+3802,120702,Micromesistius poutassou,Blue Whiting,eats
+3802,82337,Loligo,,eats
+3802,,Teuthida,,eats
+3802,213402,Ammodytes americanus,American Sand Lance,eats
+3802,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+3802,63743,Gadus,,eats
+3802,111950,Salmo pallaryi,,eats
+3802,,Etrumeus teres,,eats
+3802,85289,Pseudophycis bachus,Red cod,eats
+3802,63691,Cololabis saira,Pacific Saury,eats
+3802,215318,Boreogadus saida,Arctic Cod,eats
+3802,117571,Clupea pallasii,Pacific herring,eats
+3802,,Pisces,,eats
+3802,8010,Corvus corax,Common Raven,eatenBy
+3802,42069,Vulpes vulpes,Red Fox,eatenBy
+3802,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+3802,204533,Larus argentatus,Herring Gull,eatenBy
+3802,144297,Stercorarius skua,Great Skua,eatenBy
+3802,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+3802,4389,Larus cachinnans,Caspian Gull,eatenBy
+3802,8029,Corvus frugilegus,Rook,eatenBy
+3802,204496,Corvus corone,Carrion Crow,eatenBy
+3802,233598,Vulpes lagopus,Arctic Fox,eatenBy
+3802,41900,Herpestes ichneumon,Ichneumon,eatenBy
+3802,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+3802,,Elaphe situla,,eatenBy
+3802,39407,Varanus griseus,Desert Monitor,eatenBy
+3802,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+3802,27035,Hierophis viridiflavus carbonarius,,eatenBy
+3802,28451,Telescopus nigriceps,Black headed snake,eatenBy
+3802,120672,Scomberesox saurus,Atlantic Saury,preysOn

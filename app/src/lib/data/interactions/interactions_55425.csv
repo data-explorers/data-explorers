@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55425,124184,Plodia interpunctella,Indian-Meal Moth,eatenBy
+55425,47219,Apis mellifera,Western Honey Bee,eatenBy
+55425,57679,Peponapis pruinosa,Pruinose Squash Bee,eatenBy
+55425,48549,Vanessa virginiensis,American Lady,eatenBy
+55425,126545,Dialictus,Metallic Sweat Bees,eatenBy
+55425,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+55425,,Peponapis Pruinosa,,eatenBy
+55425,,Pseudopachybrachius guttus,,eatenBy
+55425,,Piezodorus oceanicus,,eatenBy
+55425,,Orchamoplatus mammaeferus,,eatenBy
+55425,,Amblypelta lutescens,,eatenBy
+55425,384843,Acantholybas brunneus,,eatenBy
+55425,,Diaphania hyalinata,,eatenBy
+55425,,Loxostege sticticalis,,eatenBy
+55425,,Thrips tabaci,,eatenBy
+55425,,Tetranychus ludeni,,eatenBy
+55425,,Eutetranychus orientalis,,eatenBy
+55425,,Bemisia tabaci,,eatenBy
+55425,,Diabrotica balteata,,eatenBy
+55425,1233162,Melittia pulchripes,,eatenBy
+55425,,Melittia riograndensis,,eatenBy
+55425,,Cryptographis nitidalis,,eatenBy
+55425,,Prodiaphania,,eatenBy
+55425,,Melittia bombiliformis,,eatenBy
+55425,,Sphenarches caffer,,eatenBy
+55425,,Udea ferrugalis,,eatenBy
+55425,,Ectomyelois ceratoniae,,eatenBy
+55425,,Achaea janata,,eatenBy
+55425,154287,Acalymma vittatum,Striped Cucumber Beetle,eatenBy
+55425,143660,Anasa tristis,Squash Bug,eatenBy
+55425,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+55425,57680,Peponapis,Squash Bees,pollinatedBy
+55425,,Xenoglossa,,pollinatedBy

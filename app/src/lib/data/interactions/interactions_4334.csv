@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4334,26749,Ambystoma tigrinum,Tiger Salamander,eats
+4334,53911,Cyprinus carpio,European Carp,eats
+4334,1,Animalia,Animals,eats
+4334,47178,Actinopterygii,Ray-finned Fishes,eats
+4334,107889,Oreochromis mossambicus,Mozambique Tilapia,eats
+4334,,Catostomus commersonii,,eats
+4334,,Orconectes,,eats
+4334,,Pimephales promelas,,eats
+4334,,Catostomus catostomus,,eats
+4334,58631,Etheostoma exile,Iowa Darter,eats
+4334,,Gnathostomata,,eats
+4334,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4334,26718,Caudata,Salamanders,preysOn
+4334,,Ameiurus melas,,preysOn

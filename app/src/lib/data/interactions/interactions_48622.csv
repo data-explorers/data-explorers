@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48622,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+48622,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+48622,55626,Pieris rapae,Cabbage White,eatenBy
+48622,47219,Apis mellifera,Western Honey Bee,eatenBy
+48622,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+48622,121517,Bombus terricola,Yellow-banded Bumble Bee,eatenBy
+48622,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+48622,59194,Ochlodes sylvanoides,Woodland Skipper,eatenBy
+48622,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+48622,,Meligethes incanus,,eatenBy
+48622,48738,Sphex pensylvanicus,Great Black Digger Wasp,eatenBy
+48622,,Bombus ternarius,,eatenBy
+48622,,Libytheana carinenta,,eatenBy
+48622,,Acanthis flammea,,eatenBy
+48622,58504,Polites,,pollinatedBy
+48622,127741,Colletes,Cellophane Bees,pollinatedBy
+48622,130131,Ectemnius,,pollinatedBy
+48622,81959,Cerceris,Typical Weevil Wasps and Allies,pollinatedBy
+48622,48060,Prosopis,mesquites,pollinatedBy
+48622,47220,Apis,Honey Bees,pollinatedBy
+48622,49707,Halictidae,Sweat Bees,pollinatedBy
+48622,,Euphorus,,pollinatedBy
+48622,,Deilephila,,pollinatedBy
+48622,,Anthemurgus passiflorae,,pollinatedBy
+48622,,Typocerus lugubris,,pollinatedBy
+48622,53068,Bembix spinolae,,pollinatedBy
+48622,,Typocerus sinuatus,,pollinatedBy
+48622,,Holonomada,,pollinatedBy
+48622,265669,Ageniella accepta,,pollinatedBy
+48622,,Photinus pyralis,,pollinatedBy
+48622,,Epistrophe emarginata,,pollinatedBy
+48622,,Gnathias,,pollinatedBy
+48622,,Pachyophthalmus,,pollinatedBy
+48622,,Ellychnia corrusca,,pollinatedBy
+48622,,Machaeris,,pollinatedBy
+48622,,Nomada denticulata,,pollinatedBy
+48622,,Ceratina dupla,,pollinatedBy
+48622,,Heodes hypophlaeas,,pollinatedBy
+48622,,Saparnopolius fulvus,,pollinatedBy
+48622,,Rhamphomyia priapulus,,pollinatedBy
+48622,,Sciara atrata,,pollinatedBy
+48622,,Holcopasites heliopsis,,pollinatedBy
+48622,,Epeolus bifasciatus,,pollinatedBy
+48622,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+48622,,Self pollinated,,pollinatedBy

@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+508884,129864,Haliclona,,eats
+508884,48824,Porifera,Sponges,eats
+508884,1,Animalia,Animals,eats
+508884,186854,Halichondria panicea,Bread-crumb Sponge,eats
+508884,41742,Arctocephalus pusillus,Brown Fur Seal,eatenBy
+508884,129864,Haliclona,,preysOn
+508884,186854,Halichondria panicea,Bread-crumb Sponge,preysOn

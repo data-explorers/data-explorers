@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+75445,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+75445,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+75445,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+75445,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+75445,126545,Dialictus,Metallic Sweat Bees,eatenBy
+75445,,Spodoptera eridania,,eatenBy
+75445,,Papilio polyxenes asterius,,eatenBy
+75445,,Papilio machaon,,eatenBy
+75445,,Adalia bipunctata,,eatenBy
+75445,,Cavariella (Cavariella) aegopodii,,eatenBy
+75445,,Zethus spinipes,,eatenBy
+75445,,Myzinum quinquecinctum,,eatenBy
+75445,,Pachodynerus erynnis,,eatenBy
+75445,,Depressaria depressana,,eatenBy
+75445,120114,Anthrenus,Carpet Beetles,pollinatedBy
+75445,70152,Calliphora,,pollinatedBy
+75445,57671,Anthidium,Carder Bees,pollinatedBy
+75445,52965,Sphaerophoria,Globetails,pollinatedBy
+75445,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+75445,47822,Diptera,Flies,pollinatedBy
+75445,,Evylaeus,,pollinatedBy
+75445,488885,Clytiomya,,pollinatedBy
+75445,,Heterosarus,,pollinatedBy
+75445,,Pimpla,,pollinatedBy
+75445,,Batizonus algidus,,pollinatedBy
+75445,,Cerceris clypeata,,pollinatedBy
+75445,250735,Auplopus,,pollinatedBy
+75445,,Amegilla,,pollinatedBy
+75445,,Carceris robertsonii,,pollinatedBy
+75445,,Phasia,,pollinatedBy
+75445,,Siphona geniculata,,pollinatedBy
+75445,,Chloralictus,,pollinatedBy
+75445,,Formica schaufussi,,pollinatedBy
+75445,336738,Leschenaultia,,pollinatedBy
+75445,,Trypoxylon tridentatum,,pollinatedBy
+75445,494961,Pherbellia parallela,,pollinatedBy
+75445,,Trachandrena,,pollinatedBy
+75445,,Pentaria trifasciata,,pollinatedBy
+75445,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+75445,,Gonia sequax,,pollinatedBy
+75445,299141,Urosigalphus femoratus,,pollinatedBy
+75445,,Hammomyia,,pollinatedBy
+75445,,Xylota bicolor,,pollinatedBy
+75445,699698,Neotrypetes,,pollinatedBy
+75445,,Sphecodium,,pollinatedBy
+75445,,Parhelophilus divisus,,pollinatedBy
+75445,,Scolia nobilitata,,pollinatedBy
+75445,,http://treatment.plazi.org/id/11AC8B2B59D1581E873D50E2652D6F18,,pollinatedBy
+75445,,Mordellistena,,pollinatedBy
+75445,,Strangalia famelica,,pollinatedBy

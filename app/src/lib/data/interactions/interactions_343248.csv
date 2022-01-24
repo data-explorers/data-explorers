@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+343248,8021,Corvus brachyrhynchos,American Crow,eatenBy
+343248,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+343248,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+343248,47219,Apis mellifera,Western Honey Bee,pollinates
+343248,59776,Perithemis tenera,Eastern Amberwing,preysOn
+343248,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+343248,9915,Piranga rubra,Summer Tanager,preyedUponBy
+343248,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+343248,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+343248,706140,Supputius cincticeps,,preyedUponBy
+343248,84119,Peucetia rubrolineata,,preyedUponBy

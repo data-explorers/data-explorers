@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126149,11867,Progne subis,Purple Martin,eatenBy
+126149,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+126149,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+126149,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+126149,,Picoides villosus,,eatenBy
+126149,,Setophaga pinus,,eatenBy
+126149,17408,Vireo griseus,White-eyed Vireo,eatenBy
+126149,52111,Baccharis,,pollinates
+126149,,Euphorbia heterophylla,,pollinates
+126149,,Latrodectus tredecimguttatus,,preyedUponBy

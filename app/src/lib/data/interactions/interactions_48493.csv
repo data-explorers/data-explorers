@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48493,143615,Udea rubigalis,Celery Leaftier Moth,eatenBy
+48493,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+48493,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+48493,6317,Calypte anna,Anna's Hummingbird,eatenBy
+48493,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+48493,47219,Apis mellifera,Western Honey Bee,eatenBy
+48493,271451,Bombus crotchii,Crotch's Bumble Bee,eatenBy
+48493,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+48493,,Maladera castanea,,eatenBy
+48493,,Helicoverpa phloxiphaga,,eatenBy
+48493,,Nematus (Nematus) caeruleocarpus,,eatenBy
+48493,,Asymmetrura,,eatenBy
+48493,,Polychrysia moneta,,eatenBy
+48493,228580,Polychrysia morigera,,eatenBy
+48493,,Euchalcia variabilis,,eatenBy
+48493,,Melanchra persicariae,,eatenBy
+48493,224414,Mamestra configurata,Bertha Armyworm Moth,eatenBy
+48493,,Calophasia opalina,,eatenBy
+48493,,Hadena irregularis,,eatenBy
+48493,41641,Ursus arctos,Brown Bear,eatenBy
+48493,,Phytonemus pallidus,,eatenBy
+48493,,Phytomyza aconiti,,eatenBy
+48493,,Macrophoma xanthina,,eatenBy
+48493,49348,Hyles lineata,White-lined Sphinx,eatenBy
+48493,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+48493,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+48493,6363,Selasphorus rufus,Rufous Hummingbird,pollinatedBy
+48493,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+48493,,Bombus flavifrons,,pollinatedBy
+48493,,Bombus balteatus,,pollinatedBy
+48493,,Bombus appositus,,pollinatedBy
+48493,,Selasphorus platycercus,,pollinatedBy
+48493,,http://treatment.plazi.org/id/843CD1848F6450429561D04A8471A5C5,,pollinatedBy
+48493,,Stellula calliope,,pollinatedBy

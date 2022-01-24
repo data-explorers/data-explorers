@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144539,47187,Malacostraca,Malacostracans,eats
+144539,49172,Sciaenidae,Drums,eats
+144539,92583,Trachurus,Jack Mackerels,eats
+144539,63770,Engraulis mordax,Northern Anchovy,eats
+144539,49238,Sparidae,Seabreams and Porgies,eats
+144539,51912,Engraulis,,eats
+144539,47186,Decapoda,Decapods,eats
+144539,121639,Brachyura,True Crabs,eats
+144539,85493,Crustacea,Crustaceans,eats
+144539,85777,Exocoetidae,Flyingfishes,eats
+144539,85611,Atherinidae,Old World Silversides,eats
+144539,47459,Cephalopoda,Cephalopods,eats
+144539,47178,Actinopterygii,Ray-finned Fishes,eats
+144539,52461,Belonidae,Needlefishes,eats
+144539,48460,Life,,eats
+144539,48158,Percidae,"Perches, Darters, and allies",eats
+144539,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+144539,47525,Pleuronectidae,Righteye Flounders,eats
+144539,146888,Illex,Shortfin Squids,eats
+144539,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+144539,328042,Engraulis japonicus,Japanese Anchovy,eats
+144539,55398,Solea,,eats
+144539,82337,Loligo,,eats
+144539,118678,Scomber scombrus,Atlantic Mackerel,eats
+144539,,Kondakovia longimana,,eats
+144539,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+144539,87865,Decapterus,,eats
+144539,254742,Astyris lunata,Lunate Dove Shell,eats
+144539,,Teuthida,,eats
+144539,,Frigidoalvania cruenta,,eats
+144539,51910,Engraulis encrasicolus,European Anchovy,eats
+144539,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+144539,,Gnathostomata,,eats
+144539,447397,Engraulis anchoita,Argentine Anchoita,eats
+144539,502271,Engraulis australis,Australian Anchovy,eats
+144539,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+144539,52461,Belonidae,Needlefishes,preysOn
+144539,47178,Actinopterygii,Ray-finned Fishes,preysOn
+144539,55535,Sardinops sagax,Pacific Sardine,preysOn

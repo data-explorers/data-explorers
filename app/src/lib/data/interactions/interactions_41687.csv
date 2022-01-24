@@ -1,0 +1,67 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41687,47178,Actinopterygii,Ray-finned Fishes,eats
+41687,3806,Spheniscidae,Penguins,eats
+41687,47459,Cephalopoda,Cephalopods,eats
+41687,1,Animalia,Animals,eats
+41687,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+41687,41573,Carnivora,Carnivorans,eats
+41687,92583,Trachurus,Jack Mackerels,eats
+41687,3,Aves,Birds,eats
+41687,51911,Engraulidae,Anchovies,eats
+41687,120676,Trachurus picturatus,Blue Jack Mackerel,eats
+41687,,Zooplankton,,eats
+41687,82351,Melanogrammus aeglefinus,Haddock,eats
+41687,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+41687,63742,Gadidae,Cods and Haddocks,eats
+41687,233277,Urophycis tenuis,White Hake,eats
+41687,151762,Venustaconcha ellipsiformis,Ellipse,eats
+41687,224886,Merluccius bilinearis,Silver Hake,eats
+41687,233276,Urophycis regia,Spotted Hake,eats
+41687,51362,Alosa pseudoharengus,Alewife,eats
+41687,83846,Urophycis chuss,squirrel hake,eats
+41687,69842,Scomber,,eats
+41687,97990,Clupea harengus,Atlantic Herring,eats
+41687,54191,Oncorhynchus tshawytscha,Chinook Salmon,eats
+41687,82353,Merluccius,Hakes,eats
+41687,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+41687,85792,Gonostomatidae,Bristlemouths,eats
+41687,,Etrumeus teres,,eats
+41687,47258,Thyrsites atun,Barracouta,eats
+41687,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+41687,486530,Gobiopsis atrata,New Zealand Black Goby,eats
+41687,459368,Diaphus splendidus,Horned Lanternfish,eats
+41687,,Chondrichthyes,,eats
+41687,82352,Merlucciidae,Merlucciid Hakes,eats
+41687,,Pisces,,eats
+41687,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+41687,42054,Vulpes,Typical Foxes,eatenBy
+41687,43584,Homo sapiens,Human,eatenBy
+41687,3,Aves,Birds,eatenBy
+41687,41644,Ursus maritimus,Polar Bear,eatenBy
+41687,233598,Vulpes lagopus,Arctic Fox,eatenBy
+41687,152871,Cetacea,Cetaceans,eatenBy
+41687,,Chondrichthyes,,eatenBy
+41687,4196,Macronectes,Giant Petrels,eatenBy
+41687,4198,Macronectes giganteus,Southern Giant-Petrel,eatenBy
+41687,47459,Cephalopoda,Cephalopods,preysOn
+41687,3806,Spheniscidae,Penguins,preysOn
+41687,41573,Carnivora,Carnivorans,preysOn
+41687,3,Aves,Birds,preysOn
+41687,47178,Actinopterygii,Ray-finned Fishes,preysOn
+41687,120676,Trachurus picturatus,Blue Jack Mackerel,preysOn
+41687,,Pisces,,preysOn
+41687,,Zooplankton,,preysOn
+41687,,Etrumeus teres,,preysOn
+41687,,Other pelagics,,preysOn
+41687,1248690,Amoya moloanus,,preysOn
+41687,82352,Merlucciidae,Merlucciid Hakes,preysOn
+41687,317152,Hygophum benoiti,,preysOn
+41687,317449,Vinciguerria attenuata,Slender Lightfish,preysOn
+41687,,Chondrichthyes,,preysOn
+41687,118600,Sardina pilchardus,European Sardine,preysOn
+41687,,Chub mackerel,,preysOn
+41687,99979,Engraulis ringens,Peruvian Anchoveta,preysOn
+41687,55387,Esox lucius,Northern Pike,preysOn
+41687,3,Aves,Birds,preyedUponBy
+41687,42051,Canis latrans,Coyote,preyedUponBy
+41687,,Chondrichthyes,,preyedUponBy

@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+858297,55215,Aphis,,eats
+858297,,Acyrthosiphon,,eats
+858297,51147,Crataegus monogyna,common hawthorn,eats
+858297,,Nuctenea umbratica,,preyedUponBy

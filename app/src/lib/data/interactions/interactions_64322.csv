@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64322,47219,Apis mellifera,Western Honey Bee,eatenBy
+64322,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+64322,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+64322,52775,Bombus,Bumble Bees,eatenBy
+64322,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+64322,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+64322,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+64322,48662,Danaus plexippus,Monarch,eatenBy
+64322,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+64322,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+64322,6317,Calypte anna,Anna's Hummingbird,eatenBy
+64322,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+64322,49133,Vanessa atalanta,Red Admiral,eatenBy
+64322,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+64322,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+64322,,Septoria canariensis,,eatenBy
+64322,,Camarosporium cistinum,,eatenBy
+64322,,Marasmiellus carneopallidus,,eatenBy
+64322,,Cigaritis allardi,,eatenBy
+64322,514552,Parafomoria cistivora,,eatenBy
+64322,,Thaumetopoea herculeana,,eatenBy
+64322,,Acrobasis obliqua,,eatenBy
+64322,,Acrobasis bithynella,,eatenBy
+64322,202625,Conophorus,,pollinatedBy
+64322,57678,Lasioglossum,,pollinatedBy
+64322,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+64322,173113,Anthaxia,,pollinatedBy
+64322,120114,Anthrenus,Carpet Beetles,pollinatedBy
+64322,51559,Bombylius,Greater Bee Flies,pollinatedBy
+64322,,Lindenius luteiventris ,,pollinatedBy
+64322,,Nustera distigma,,pollinatedBy
+64322,501490,Deilus,,pollinatedBy
+64322,,Lomatia,,pollinatedBy
+64322,,Xylocopa cantabrita,,pollinatedBy
+64322,,Tiphia,,pollinatedBy
+64322,,Gonepteryx cleopatra,,pollinatedBy
+64322,,,,pollinatedBy
+64322,,Lasius niger,,pollinatedBy
+64322,,Cardiophorus,,pollinatedBy
+64322,,Lobonyx aeneus,,pollinatedBy
+64322,,Heliotaurus ruficollis,,pollinatedBy
+64322,,Phthiria,,pollinatedBy
+64322,,Mordellistena,,pollinatedBy
+64322,,http://treatment.plazi.org/id/878D327EE6954CB68C3A731CF25B8CDE,,pollinatedBy
+64322,,Dasypoda iberica,,pollinatedBy
+64322,528480,Chasmatopterus,,pollinatedBy
+64322,,Malachius,,pollinatedBy

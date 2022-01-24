@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+79408,50931,Strymon melinus,Gray Hairstreak,eatenBy
+79408,,Protapion dissimile,,eatenBy
+79408,,Ceraleptus lividus,,eatenBy
+79408,,Coriomeris denticulatus,,eatenBy
+79408,,Hypera (Dapalinus) meles,,eatenBy
+79408,,Peronospora trifoliorum,,eatenBy
+79408,,Erysiphe trifoliorum,,eatenBy
+79408,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+79408,120157,Musca,,pollinatedBy
+79408,55690,Pieris,Garden Whites,pollinatedBy
+79408,,,,pollinatedBy
+79408,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+79408,,Colias croceus,,pollinatedBy
+79408,,Bombus lapidarius,,pollinatedBy
+79408,177092,Meligethes,,pollinatedBy
+79408,,Bombus pascuorum,,pollinatedBy

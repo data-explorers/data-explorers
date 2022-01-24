@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49095,49053,Cryptochiton stelleri,Gumboot Chiton,eats
+49095,,plankton,,eats
+49095,,detritus - plankton,,eats
+49095,71252,Macoma,,eats
+49095,,Gibbonsia metzi,,eatenBy
+49095,53750,Lottia gigantea,Owl Limpet,preysOn
+49095,,Collisella limatula,,preysOn

@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55981,13858,Passer domesticus,House Sparrow,eatenBy
+55981,,Harpalus affinis,,eatenBy
+55981,,Harpalus rufipes,,eatenBy
+55981,,Carduelis carduelis,,eatenBy
+55981,,Alectoris rufa,,eatenBy
+55981,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+55981,,Carduelis chloris,,eatenBy
+55981,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+55981,,Trypeta immaculata,,eatenBy
+55981,,Coremiella cubispora,,eatenBy
+55981,,Nasonovia (Nasonovia) ribisnigri,,eatenBy
+55981,,Liriomyza eupatorii,,eatenBy
+55981,,Ophiomyia cunctata,,eatenBy
+55981,,Ophiomyia heringi,,eatenBy
+55981,,Phytomyza marginella,,eatenBy
+55981,907332,Liriomyza strigata,,eatenBy
+55981,,Diaporthe orthoceras,,eatenBy
+55981,,Puccinia lapsanae,,eatenBy
+55981,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",pollinatedBy
+55981,52965,Sphaerophoria,Globetails,pollinatedBy
+55981,,,,pollinatedBy
+55981,177092,Meligethes,,pollinatedBy
+55981,,Parethelcus pollinarius,,pollinatedBy
+55981,,Anaspis flava,,pollinatedBy
+55981,70405,Melanostoma scalare,Ladder-backed Hover Fly,pollinatedBy
+55981,,Meliscaeva cinctella,,pollinatedBy
+55981,,Undefined sp21 M_PL_018,,pollinatedBy
+55981,,Undefined sp26 M_PL_018,,pollinatedBy
+55981,,Undefined sp25 M_PL_018,,pollinatedBy
+55981,,Undefined sp23 M_PL_018,,pollinatedBy
+55981,,Undefined sp14 M_PL_018,,pollinatedBy
+55981,,Undefined sp22 M_PL_018,,pollinatedBy
+55981,,Undefined sp17 M_PL_018,,pollinatedBy
+55981,,Undefined sp28 M_PL_018,,pollinatedBy

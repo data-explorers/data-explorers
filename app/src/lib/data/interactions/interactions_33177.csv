@@ -1,0 +1,69 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+33177,47158,Insecta,Insects,eats
+33177,69114,Pogonomyrmex,Harvester Ants,eats
+33177,,leaves,,eats
+33177,,Atta,,eats
+33177,85493,Crustacea,Crustaceans,eatenBy
+33177,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+33177,20307,Asio otus,Long-eared Owl,eatenBy
+33177,35503,Pseuderemias,,eatenBy
+33177,,Geococcyx velox,,eatenBy
+33177,,land crustacea,,eatenBy
+33177,48765,Heteropoda venatoria,Pantropical Huntsman Spider,eatenBy
+33177,,Lycodon aulicus,,eatenBy
+33177,5017,Bubulcus ibis,Cattle Egret,eatenBy
+33177,28652,Siphlophis pulcher,Guanabara Spotted Night Snake,preyedUponBy
+33177,,Leptodeira annulata,,preyedUponBy
+33177,,Erythrolamprus viridis,,preyedUponBy
+33177,,Liophis poecilogyrus,,preyedUponBy
+33177,29395,Mastigodryas boddaerti,Boddaert's Tropical Racer,preyedUponBy
+33177,32141,Antaresia perthensis,Pygmy Python,preyedUponBy
+33177,,Denisonia devisi,,preyedUponBy
+33177,28337,Thelotornis capensis capensis,Southern Vine Snake,preyedUponBy
+33177,95862,Boiga ceylonensis,Sri Lanka Cat Snake,preyedUponBy
+33177,,Gonionotophis crossi,,preyedUponBy
+33177,28982,Psammophis trinasalis,Fork-marked Sand Snake,preyedUponBy
+33177,,Morelia viridis,,preyedUponBy
+33177,32131,Aspidites ramsayi,Woma Python,preyedUponBy
+33177,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+33177,,Psammodynastes pulverulentus,,preyedUponBy
+33177,,Pythonodipsas carinata,,preyedUponBy
+33177,28963,Psammophis subtaeniatus,Stripe-bellied Sand Snake,preyedUponBy
+33177,30392,Dipsas catesbyi,Catesby's Snail-eater,preyedUponBy
+33177,,Suta fasciata,,preyedUponBy
+33177,,Platyceps rhodorachis,,preyedUponBy
+33177,95863,Boiga drapiezii,White-spotted Cat Snake,preyedUponBy
+33177,28962,Psammophis trigrammus,Western Sand Snake,preyedUponBy
+33177,29832,Amphiesma stolatum,Buff Striped Keelback,preyedUponBy
+33177,95802,Bitis caudalis,Horned Adder,preyedUponBy
+33177,,Lycodon fasciatus,,preyedUponBy
+33177,35146,Pseudonaja guttata,Speckled Brown Snake,preyedUponBy
+33177,,Macroprotodon cucullatus,,preyedUponBy
+33177,,Suta suta,,preyedUponBy
+33177,35143,Pseudonaja nuchalis,Northern Brown Snake,preyedUponBy
+33177,30187,Ahaetulla prasina,Oriental Whipsnake,preyedUponBy
+33177,,Dendrelaphis pictus,,preyedUponBy
+33177,,Hoplocephalus bungaroides,,preyedUponBy
+33177,,Lycodon aulicus,,preyedUponBy
+33177,,Dendrelaphis cyanochloris,,preyedUponBy
+33177,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,preyedUponBy
+33177,35132,Salomonelaps par,Solomons Coral Snake,preyedUponBy
+33177,32116,Candoia bibroni,Bibron's Bevel-nosed Boa,preyedUponBy
+33177,,Gonionotophis capensis,,preyedUponBy
+33177,,Lycodon travancoricus,,preyedUponBy
+33177,32113,Candoia aspera,New Guinea ground boa,preyedUponBy
+33177,,Pseudonaja modesta,,preyedUponBy
+33177,,Chrysopelea ornata,,preyedUponBy
+33177,29220,Oligodon theobaldi,Theobald's Kukri Snake,preyedUponBy
+33177,,Dendrelaphis biloreatus,,preyedUponBy
+33177,,Psammophis punctulatus trivirgatus,,preyedUponBy
+33177,32110,Candoia carinata,Pacific Boa,preyedUponBy
+33177,,Atractaspis aterrima,,preyedUponBy
+33177,,Hapsidophrys smaragdinus,,preyedUponBy
+33177,,Ahaetulla prasina preocularis,,preyedUponBy
+33177,,land crustacea,,preyedUponBy
+33177,,Megaderma lyra,,preyedUponBy
+33177,,Macroderma,,preyedUponBy
+33177,,Trachops cirrhosa,,preyedUponBy
+33177,,Eopsaltria pulverulenta,,preyedUponBy
+33177,204519,Halcyon smyrnensis,White-throated Kingfisher,preyedUponBy

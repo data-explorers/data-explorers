@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44737,47903,Cactaceae,cactus family,eats
+44737,7458,Certhia americana,Brown Creeper,eats
+44737,119301,Cercidium,,eats
+44737,,Tenualosa ilisha,,eats
+44737,,cacti (including seeds and fruits),,eats
+44737,,Carnegiea gigantea,,eats
+44737,42051,Canis latrans,Coyote,eatenBy
+44737,41976,Lynx rufus,Bobcat,eatenBy
+44737,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+44737,42069,Vulpes vulpes,Red Fox,eatenBy
+44737,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44737,547193,Masticophis flagellum,Coachwhip,eatenBy
+44737,42075,Urocyon,Gray Foxes,eatenBy
+44737,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+44737,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+44737,20445,Tyto alba,Barn Owl,eatenBy
+44737,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+44737,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44737,5277,Elanus leucurus,White-tailed Kite,eatenBy
+44737,4756,Cathartes aura,Turkey Vulture,eatenBy
+44737,8010,Corvus corax,Common Raven,eatenBy
+44737,42070,Vulpes macrotis,Kit Fox,eatenBy
+44737,,Geococcyx velox,,eatenBy
+44737,41789,Taxidea taxus,American Badger,eatenBy
+44737,,Mephitinae,,eatenBy
+44737,,Meles,,eatenBy
+44737,,Road runner,,eatenBy
+44737,,Bull snake - Red racer - rattlesnakes,,eatenBy
+44737,,Mephitini,,eatenBy
+44737,,Coyote,,eatenBy
+44737,19959,Strix occidentalis,Spotted Owl,eatenBy
+44737,20307,Asio otus,Long-eared Owl,eatenBy
+44737,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+44737,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+44737,,Aquila chrysaetos,,eatenBy
+44737,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy
+44737,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy

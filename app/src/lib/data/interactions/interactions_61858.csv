@@ -1,0 +1,85 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61858,461542,Astereae,asters and allies,eats
+61858,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+61858,244407,Zelus renardii,Leafhopper Assassin Bug,eatenBy
+61858,486453,Colonus hesperus,,eatenBy
+61858,63113,Blarina brevicauda,Northern Short-tailed Shrew,eatenBy
+61858,47383,Latrodectus geometricus,Brown Widow,eatenBy
+61858,53809,Phidippus audax,Bold Jumping Spider,eatenBy
+61858,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+61858,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+61858,17009,Sayornis saya,Say's Phoebe,eatenBy
+61858,68077,Salvelinus malma,Dolly Varden Trout,eatenBy
+61858,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+61858,,Neoitamus socius,,eatenBy
+61858,,Dioctria rufipes,,eatenBy
+61858,,Efferia aestuans,,eatenBy
+61858,11941,Riparia riparia,Bank Swallow,eatenBy
+61858,16102,Contopus latirostris,Lesser Antillean Pewee,eatenBy
+61858,5017,Bubulcus ibis,Cattle Egret,eatenBy
+61858,125379,Asclepias verticillata,whorled milkweed,pollinates
+61858,153441,Symphyotrichum cordifolium,Common Blue Wood Aster,pollinates
+61858,60265,Asparagus officinalis,wild asparagus,pollinates
+61858,142279,Symphyotrichum pilosum,hairy white oldfield aster,pollinates
+61858,49370,Astragalus,milkvetches,pollinates
+61858,47912,Asclepias tuberosa,butterfly milkweed,pollinates
+61858,51723,Baptisia,Wild Indigos,pollinates
+61858,125381,Asclepias incarnata,swamp milkweed,pollinates
+61858,50202,Bidens bipinnata,Spanish needles,pollinates
+61858,50310,Arisaema triphyllum,Jack-in-the-pulpit,pollinates
+61858,117443,Symphyotrichum novae-angliae,New England aster,pollinates
+61858,51822,Euphorbia,spurges,pollinates
+61858,60132,Cirsium arvense,creeping thistle,pollinates
+61858,84517,Epilobium hirsutum,Great Willowherb,pollinates
+61858,48561,Cirsium,thistles,pollinates
+61858,48699,Apiaceae,carrot family,pollinates
+61858,181635,Argyranthemum frutescens,Marguerite daisy,pollinates
+61858,76610,Daucus carota,wild carrot,pollinates
+61858,56057,Leucanthemum vulgare,oxeye daisy,pollinates
+61858,47435,Lotus corniculatus,bird's-foot trefoil,pollinates
+61858,125380,Asclepias purpurascens,purple milkweed,pollinates
+61858,58795,Apocynum cannabinum,hemp dogbane,pollinates
+61858,,Blephilia hirsuta,,pollinates
+61858,51722,Baptisia bracteata,longbract wild indigo,pollinates
+61858,,Symphyotrichum anomalum,,pollinates
+61858,,Astragalus canadensis,,pollinates
+61858,159305,Boltonia asteroides,white doll's-daisy,pollinates
+61858,,http://treatment.plazi.org/id/9C3EA076049CF79FE28D1D5ADD93DC86,,pollinates
+61858,122249,Symphyotrichum lateriflorum,calico aster,pollinates
+61858,,Aristolochia tomentosa,,pollinates
+61858,158763,Asclepias viridiflora,green comet milkweed,pollinates
+61858,,http://treatment.plazi.org/id/1F7C9B5847AC820782B942C13EB9D59F,,pollinates
+61858,75766,Bidens laevis,larger bur-marigold,pollinates
+61858,,http://treatment.plazi.org/id/F6083B20B0C47675DF76965D6ADE35F3,,pollinates
+61858,,Blephilia ciliata,,pollinates
+61858,,Bidens connata,,pollinates
+61858,,Bidens frondosa,,pollinates
+61858,,Aster,,pollinates
+61858,,Bidens aristosa,,pollinates
+61858,,Aster salicifolius,,pollinates
+61858,,Asiminia triloba,,pollinates
+61858,,Symphyotrichum turbinellum,,pollinates
+61858,,Apios americana,,pollinates
+61858,158761,Asclepias sullivantii,prairie milkweed,pollinates
+61858,,Aruncus,,pollinates
+61858,,Reynoutria japonica,,pollinates
+61858,333071,Persicaria thunbergii,,pollinates
+61858,,Polygonum sieboldii,,pollinates
+61858,,Mentha verticillata,,pollinates
+61858,,Mosta dianthera,,pollinates
+61858,,Periploca,,pollinates
+61858,,Lathyrus pratensis,,pollinates
+61858,,Angelica archangelica,,pollinates
+61858,,Chamerion angustifolium,,pollinates
+61858,,Anthriscus sylvestris,,pollinates
+61858,,,,pollinates
+61858,,Rubus plicatus,,pollinates
+61858,,Crithmum maritimum,,pollinates
+61858,,Polyscias maraisiana,,pollinates
+61858,,Allium,,pollinates
+61858,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+61858,244407,Zelus renardii,Leafhopper Assassin Bug,preyedUponBy
+61858,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+61858,366894,Steatoda nobilis,Noble False Widow,preyedUponBy
+61858,157990,Menemerus semilimbatus,,preyedUponBy
+61858,,Marpissa muscosa,,preyedUponBy

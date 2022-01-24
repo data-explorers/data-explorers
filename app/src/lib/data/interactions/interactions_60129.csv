@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60129,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+60129,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+60129,199840,Haemorhous mexicanus,House Finch,eatenBy
+60129,,Bucculatrix transversata,,eatenBy
+60129,,Cosmopterix opulenta,,eatenBy
+60129,,Aceria boycei,,eatenBy
+60129,454685,Uroleucon ambrosiae,Brown Ambrosia Aphid,eatenBy
+60129,,Capitophorus shepherdiae,,eatenBy
+60129,,Schinia rivulosa,,eatenBy
+60129,2090,Ortalis vetula,Plain Chachalaca,eatenBy

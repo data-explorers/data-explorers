@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53320,58532,Colias eurytheme,Orange Sulphur,eatenBy
+53320,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+53320,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+53320,58531,Colias philodice,Clouded Sulphur,eatenBy
+53320,,Cnephasia longana,,eatenBy
+53320,,Colias meadii,,eatenBy
+53320,,Cupido amyntula amyntula,,eatenBy
+53320,,Thorybes mexicana,,eatenBy
+53320,,Chionodes braunella,,eatenBy
+53320,,Thorybes pylades,,eatenBy
+53320,209721,Colias alexandra,Queen Alexandra’s Sulphur,eatenBy
+53320,,Cupido amyntula,,eatenBy
+53320,831,Perdix perdix,Gray Partridge,eatenBy
+53320,,http://treatment.plazi.org/id/E3771B2A10FB446345F4663A701D15E4,,pollinatedBy
+53320,,http://treatment.plazi.org/id/8ABECB86BAD793C8E2886D6F95C29378,,pollinatedBy
+53320,325554,Lytta nuttalli,Nuttall's blister beetle,pollinatedBy

@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+75762,,Harpalus affinis,,eatenBy
+75762,,Harpalus rufipes,,eatenBy
+75762,,Pieris brassicae,,eatenBy
+75762,,Pieris napi,,eatenBy
+75762,,Hyaloperonospora berteroae,,eatenBy
+75762,61356,Vespula,Ground Yellowjackets,pollinatedBy
+75762,49995,Syrphidae,Hover Flies,pollinatedBy
+75762,47822,Diptera,Flies,pollinatedBy
+75762,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

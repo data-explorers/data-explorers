@@ -1,0 +1,136 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4381,63741,Gadiformes,Cods,eats
+4381,1,Animalia,Animals,eats
+4381,144537,Hydroprogne caspia,Caspian Tern,eats
+4381,4504,Fratercula arctica,Atlantic Puffin,eats
+4381,7294,Eremophila alpestris,Horned Lark,eats
+4381,44259,Microtus,Meadow Voles,eats
+4381,6922,Anas,"Mallards, Pintails, and Allies",eats
+4381,6930,Anas platyrhynchos,Mallard,eats
+4381,144541,Thalasseus sandvicensis,Sandwich Tern,eats
+4381,47178,Actinopterygii,Ray-finned Fishes,eats
+4381,106881,Nephrops norvegicus,Norway lobster,eats
+4381,6933,Anas acuta,Northern Pintail,eats
+4381,,Mesocricetus auratus,,eats
+4381,4436,Sterna dougallii,Roseate Tern,eats
+4381,,Galerida theklae,,eats
+4381,,Myotis daubentonii,,eats
+4381,6990,Bucephala clangula,Common Goldeneye,eats
+4381,7347,Alauda arvensis,Eurasian Skylark,eats
+4381,,Chlidonias leucopterus,,eats
+4381,,Apodemus sylvaticus,,eats
+4381,,Microtus subterraneus,,eats
+4381,,Melanocorypha calandra,,eats
+4381,7170,Clangula hyemalis,Long-tailed Duck,eats
+4381,,Plecotus austriacus,,eats
+4381,6937,Anas crecca,Green-winged Teal,eats
+4381,207811,Eptesicus serotinus,Serotine Bat,eats
+4381,,Anas clypeata,,eats
+4381,210400,Myotis nattereri,Natterer's Bat,eats
+4381,,Calandrella brachydactyla,,eats
+4381,,Lullula arborea,,eats
+4381,46859,Neomys fodiens,Eurasian Water Shrew,eats
+4381,,Anas penelope,,eats
+4381,,Muscardinus avellanarius,,eats
+4381,,Apodemus flavicollis,,eats
+4381,41808,Mustela erminea,Eurasian Stoat,eats
+4381,,Ammomanes deserti,,eats
+4381,,Mus cypriacus,,eats
+4381,,Marmaronetta angustirostris,,eats
+4381,,Aythya nyroca,,eats
+4381,7031,Melanitta,Scoters,eats
+4381,569428,Mustela nivalis,Least Weasel,eats
+4381,40581,Barbastella barbastellus,Western Barbastelle,eats
+4381,,Chlidonias hybrida,,eats
+4381,44688,Mus spretus,Algerian Mouse,eats
+4381,,Microtus duodecimcostatus,,eats
+4381,,Vanellus vanellus,,eats
+4381,,Oryctolagus cuniculus,,eats
+4381,,Chersophilus duponti,,eats
+4381,6994,Bucephala islandica,Barrow's Goldeneye,eats
+4381,144525,Onychoprion fuscatus,Sooty Tern,eats
+4381,,Sorex alpinus,,eats
+4381,,Sciurus vulgaris,,eats
+4381,40364,Pipistrellus pipistrellus,Common Pipistrelle,eats
+4381,,Crocidura russula,,eats
+4381,,Calandrella rufescens,,eats
+4381,,Cricetulus migratorius,,eats
+4381,,Myodes glareolus,,eats
+4381,,Crocidura leucodon,,eats
+4381,,Apodemus agrarius,,eats
+4381,,Plecotus auritus,,eats
+4381,7047,Aythya marila,Greater Scaup,eats
+4381,,Arvicola scherman,,eats
+4381,,Talpa europaea,,eats
+4381,,Microtus agrestis,,eats
+4381,7111,Histrionicus histrionicus,Harlequin Duck,eats
+4381,46631,Crocidura suaveolens,Lesser White-toothed Shrew,eats
+4381,,Lepus europaeus,,eats
+4381,,Pipistrellus nathusii,,eats
+4381,,Cricetus cricetus,,eats
+4381,,Talpa caeca,,eats
+4381,3879,Tringa totanus,Common Redshank,eats
+4381,,Calandrella cheleensis,,eats
+4381,1150085,Myotis myotis,,eats
+4381,,Microtus arvalis,,eats
+4381,7046,Aythya fuligula,Tufted Duck,eats
+4381,179974,Spermophilus,Old World Ground Squirrels,eats
+4381,,Eliomys quercinus,,eats
+4381,7045,Aythya ferina,Common Pochard,eats
+4381,,Myodes rufocanus,,eats
+4381,4450,Sterna hirundo,Common Tern,eats
+4381,4449,Sterna paradisaea,Arctic Tern,eats
+4381,144529,Sternula albifrons,Little Tern,eats
+4381,,Microtus oeconomus,,eats
+4381,,Melanocorypha bimaculata,,eats
+4381,,Melanitta fusca,,eats
+4381,43048,Erinaceus roumanicus,Northern White-breasted Hedgehog,eats
+4381,,Puffinus puffinus,,eats
+4381,,Mus macedonicus,,eats
+4381,,Melanocorypha leucoptera,,eats
+4381,,Microtus thomasi,,eats
+4381,,Anas strepera,,eats
+4381,,Chionomys nivalis,,eats
+4381,43024,Hemiechinus auritus,Long-eared Hedgehog,eats
+4381,4512,Chlidonias niger,Black Tern,eats
+4381,,Lemmus lemmus,,eats
+4381,144543,Thalasseus bengalensis,Lesser Crested Tern,eats
+4381,44705,Mus musculus,House Mouse,eats
+4381,40284,Myotis capaccinii,Long-fingered Bat,eats
+4381,4494,Rissa tridactyla,Black-legged Kittiwake,eats
+4381,43043,Erinaceus concolor,Eastern European Hedgehog,eats
+4381,8010,Corvus corax,Common Raven,eatenBy
+4381,42069,Vulpes vulpes,Red Fox,eatenBy
+4381,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+4381,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+4381,144297,Stercorarius skua,Great Skua,eatenBy
+4381,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+4381,4368,Larus marinus,Great Black-backed Gull,eatenBy
+4381,204533,Larus argentatus,Herring Gull,eatenBy
+4381,4843,Haematopus ostralegus,Eurasian Oystercatcher,eatenBy
+4381,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4381,,Ichthyaetus ichthyaetus,,eatenBy
+4381,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4381,4389,Larus cachinnans,Caspian Gull,eatenBy
+4381,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4381,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4381,8029,Corvus frugilegus,Rook,eatenBy
+4381,204496,Corvus corone,Carrion Crow,eatenBy
+4381,,Coloeus monedula,,eatenBy
+4381,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4381,42048,Canis lupus,Gray Wolf,eatenBy
+4381,41852,Gulo gulo,Wolverine,eatenBy
+4381,41900,Herpestes ichneumon,Ichneumon,eatenBy
+4381,855297,Meles meles,European Badger,eatenBy
+4381,41641,Ursus arctos,Brown Bear,eatenBy
+4381,64714,Vaccinium uliginosum,bog bilberry,eatenBy
+4381,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+4381,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4381,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4381,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4381,39407,Varanus griseus,Desert Monitor,eatenBy
+4381,,Elaphe situla,,eatenBy
+4381,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4381,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+4381,52523,Carcinus maenas,European Green Crab,preysOn
+4381,5173,Circus aeruginosus,Eurasian Marsh-Harrier,preyedUponBy

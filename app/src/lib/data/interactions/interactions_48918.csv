@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48918,50863,Chlorophyta,green algae,eats
+48918,118832,Semibalanus balanoides,Northern Acorn Barnacle,eats
+48918,54644,Ulva,sea lettuces,eats
+48918,51021,Dictyota,Y-branched Algae,eats
+48918,123803,Undaria,,eats
+48918,67675,Hypnea,,eats
+48918,824521,Gelidiella acerosa,,eats
+48918,1131124,Sargassum aquifolium,,eats
+48918,327063,Dichotomaria marginata,,eats
+48918,354676,Hydroclathrus clathratus,,eats
+48918,768613,Polycladia myrica,,eats
+48918,503019,Hormophysa cuneiformis,,eats
+48918,706036,Caulerpa zeyheri,,eats
+48918,356459,Chnoospora minima,,eats
+48918,322731,Sargassum polycystum,,eats
+48918,,Gelidium sp.,,eats
+48918,559953,Halimeda cuneata,Wedgeweed,eats
+48918,942428,Canistrocarpus cervicornis,,eats
+48918,706047,Laurencia flexuosa,,eats
+48918,245763,Rhabdosargus sarba,Tarwhine,eatenBy
+48918,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+48918,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+48918,6924,Anas rubripes,American Black Duck,eatenBy

@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4620,47645,Cottidae,Typical Sculpins,eats
+4620,47120,Arthropoda,Arthropods,eats
+4620,47115,Mollusca,Molluscs,eats
+4620,47126,Plantae,plants,eats
+4620,48174,Paguridae,Pagurid Hermit Crabs,eats
+4620,49581,Nereididae,,eats
+4620,4620,Gavia,Loons,eats
+4620,51200,Hippolytidae,Hump-backed Shrimps,eats
+4620,117569,Microgadus proximus,Pacific Tomcod,eats
+4620,,Myoxocephalus jaok,,eats
+4620,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eats
+4620,,Gnathostomata,,eats
+4620,,unspecified lake fish,,eats
+4620,48863,Enteroctopus dofleini,Giant Pacific Octopus,eats
+4620,47646,Myoxocephalus,Shorthorn Sculpins,eats
+4620,47710,Pandalidae,,eats
+4620,86991,Blennius,,eats
+4620,,Synisoma,,eats
+4620,48409,Pungitius,,eats
+4620,49597,Salvelinus,Chars,eats
+4620,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4620,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4620,,Gammaridea,,eats
+4620,89921,Microgadus,,eats
+4620,90535,Osmerus,,eats
+4620,8010,Corvus corax,Common Raven,eatenBy
+4620,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4620,43584,Homo sapiens,Human,eatenBy
+4620,42054,Vulpes,Typical Foxes,eatenBy
+4620,4620,Gavia,Loons,eatenBy
+4620,41860,Enhydra lutris,Sea Otter,eatenBy
+4620,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+4620,4657,Falco rusticolus,Gyrfalcon,eatenBy
+4620,,Aquila clanga,,eatenBy
+4620,204533,Larus argentatus,Herring Gull,eatenBy
+4620,144297,Stercorarius skua,Great Skua,eatenBy
+4620,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4620,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+4620,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+4620,4389,Larus cachinnans,Caspian Gull,eatenBy
+4620,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4620,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4620,204496,Corvus corone,Carrion Crow,eatenBy
+4620,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4620,41852,Gulo gulo,Wolverine,eatenBy
+4620,41812,Mustela putorius,Western Polecat,eatenBy
+4620,41805,Mustela lutreola,European Mink,eatenBy
+4620,,Elaphe situla,,eatenBy
+4620,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4620,39407,Varanus griseus,Desert Monitor,eatenBy
+4620,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+4620,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4620,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4620,28451,Telescopus nigriceps,Black headed snake,eatenBy

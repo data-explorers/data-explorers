@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57190,82269,Crambus,,eatenBy
+57190,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+57190,56189,Philaenus spumarius,Meadow spittlebug,eatenBy
+57190,1409,Callipepla californica,California Quail,eatenBy
+57190,9135,Spizella passerina,Chipping Sparrow,eatenBy
+57190,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+57190,9100,Melospiza melodia,Song Sparrow,eatenBy
+57190,7089,Branta canadensis,Canada Goose,eatenBy
+57190,508048,Antigone canadensis,Sandhill Crane,eatenBy
+57190,,Pseudaletia unipuncta,,eatenBy
+57190,58484,Thymelicus lineola,Essex Skipper,eatenBy
+57190,,Mythimna unipunctata,,eatenBy
+57190,,Sitobion avenae,,eatenBy
+57190,,Abacarus hystrix,,eatenBy
+57190,224621,Melanoplus bruneri,Bruner's Spur-throat Grasshopper,eatenBy
+57190,,Aphantopus hyperantus,,eatenBy
+57190,,Oeneis norna,,eatenBy
+57190,,Plusia putnami,,eatenBy
+57190,,Faronta albilinea,,eatenBy
+57190,,Leucania pseudargyria,,eatenBy
+57190,,Eremobia ochroleuca,,eatenBy
+57190,,Agrochola helvola,,eatenBy
+57190,,Apamea finitima,,eatenBy
+57190,,Spodoptera frugiperda,,eatenBy
+57190,,Trichordestra lilacina,,eatenBy
+57190,58513,Polites mystic,Long Dash,eatenBy
+57190,,Graphocraerus ventralis,,eatenBy
+57190,130433,Amara aenea,Common Sun Beetle,eatenBy
+57190,,Ophonus schaubergerianus,,eatenBy
+57190,,Amara aulica,,eatenBy
+57190,130452,Amara plebeja,,eatenBy
+57190,,http://treatment.plazi.org/id/03F71D4ABD2FFFE9FF171CF4FD25FE0E,,eatenBy
+57190,703086,Euscelis incisus,,eatenBy
+57190,131102,Harpalus tardus,,eatenBy
+57190,914676,Macrosteles laevis,,eatenBy
+57190,673968,Macrosteles sexnotatus,,eatenBy
+57190,,Amara sinuosa,,eatenBy
+57190,,Diachromus germanus,,eatenBy
+57190,,Notostira elongata,,eatenBy
+57190,,Harpalus distinguendus,,eatenBy
+57190,735331,Arthaldeus pascuellus,,eatenBy
+57190,,Javesella pellucida,,eatenBy
+57190,542434,Megalonotus emarginatus,,eatenBy
+57190,552756,Orius niger,,eatenBy
+57190,,Chorthippus parallelus,,eatenBy
+57190,,Chorthippus apricarius,,eatenBy
+57190,,Chorthippus albomarginatus,,eatenBy
+57190,52447,Cicadella viridis,Green Leafhopper,eatenBy
+57190,466488,Laodelphax striatella,small brown planthopper,eatenBy
+57190,131985,Tytthaspis sedecimpunctata,16-spot Ladybird,eatenBy
+57190,,Anisodactylus binotatus,,eatenBy
+57190,,Stenobothrus lineatus,,eatenBy
+57190,,Athous bicolor,,eatenBy
+57190,,Drymus ryei,,eatenBy
+57190,,Deltocephalus pulicaris,,eatenBy
+57190,547575,Anthicus antherinus,,eatenBy
+57190,,Helophorus nubilus,,eatenBy
+57190,,Chorthippus dorsatus,,eatenBy
+57190,,Errastunus ocellaris,,eatenBy
+57190,,Agrypnus murinus,,eatenBy
+57190,204787,Doratura stylata,,eatenBy
+57190,,Stenodema calcarata,,eatenBy
+57190,,Rhyparochromus pini,,eatenBy
+57190,,Empoasca solani,,eatenBy
+57190,,Peritrechus nubilus,,eatenBy
+57190,,Peritrechus geniculatus,,eatenBy
+57190,504708,Ophonus laticollis,,eatenBy
+57190,,Stenodema laevigata,,eatenBy
+57190,,http://treatment.plazi.org/id/C45034A4132F47810C3ECC6D1E6E74D2,,eatenBy
+57190,,Sphragisticus nebulosus,,eatenBy
+57190,,Carpocoris fuscispinus,,eatenBy
+57190,456218,Agriotes obscurus,,eatenBy
+57190,,Exomias trichopterus,,eatenBy
+57190,,Ophonus ardosiacus,,eatenBy
+57190,,Amara ovata,,eatenBy
+57190,,Hemicrepidius hirtus,,eatenBy
+57190,,Adrastus rachifer,,eatenBy
+57190,61886,Lygus,Lygus Bugs,eatenBy
+57190,,Eurygaster maura,,eatenBy
+57190,,Amara equestris,,eatenBy
+57190,482740,Amblytylus nasutus,,eatenBy
+57190,546002,Phyllobius roboretanus,,eatenBy
+57190,550416,Stygnocoris rusticus,,eatenBy
+57190,547810,Oulema duftschmidi,,eatenBy
+57190,,Amara familiaris,,eatenBy
+57190,,Oulema gallaeciana,,eatenBy
+57190,,Trechus quadristriatus,,eatenBy
+57190,,Podops inuncta,,eatenBy
+57190,,Amara quenseli,,eatenBy
+57190,,Ophonus puncticeps,,eatenBy
+57190,523365,Harpalus griseus,,eatenBy
+57190,128544,Thymelicus sylvestris,Small Skipper,eatenBy
+57190,,Melanargia galathea,,eatenBy
+57190,,Schizaphis borealis,,eatenBy
+57190,408014,Keissleriella culmifida,,eatenBy
+57190,,Pleospora phaeocomoides,,eatenBy
+57190,,Leptosphaeria linearis,,eatenBy
+57190,,Melanotus phillipsii,,eatenBy
+57190,1050490,Cephus spinipes,,eatenBy
+57190,41641,Ursus arctos,Brown Bear,eatenBy
+57190,,Amara communis,,preyedUponBy
+57190,,Aeolothrips intermedius,,preyedUponBy
+57190,,Cantharis fusca,,preyedUponBy

@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48928,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+48928,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+48928,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+48928,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+48928,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+48928,55761,Lilioceris lilii,Lily Leaf Beetle,eatenBy
+48928,418695,Acrolepiopsis incertella,Carrionflower Moth,eatenBy
+48928,,Sparganothis sulfureana,,eatenBy
+48928,,Papaipema cerina,,eatenBy
+48928,,Saenura flava,,eatenBy
+48928,,Sibine stimulea,,eatenBy
+48928,,Alestes macrophthalmus,,eatenBy
+48928,,Lampides boeticus,,eatenBy
+48928,125589,Kaniska canace,Blue Admiral,eatenBy
+48928,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+48928,,Macrosiphum lilii,,eatenBy
+48928,,Indomegoura indica,,eatenBy
+48928,,Myzus persicae,,eatenBy
+48928,249497,Rhizoglyphus,,eatenBy
+48928,,Aulacorthum (Neomyzus) circumflexum,,eatenBy
+48928,,Nectria radicicola,,eatenBy
+48928,391744,Liothrips vaneeckei,Lily Thrips,eatenBy
+48928,55521,Papilio eurymedon,Pale Swallowtail,pollinatedBy
+48928,47226,Papilio rutulus,Western Tiger Swallowtail,pollinatedBy
+48928,5562,Trochilidae,Hummingbirds,pollinatedBy
+48928,47223,Papilionidae,Swallowtails and Parnassians,pollinatedBy
+48928,60551,Papilio glaucus,Eastern Tiger Swallowtail,pollinatedBy
+48928,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+48928,,Papilio machaon,,pollinatedBy
+48928,,Archilochus colubris,,pollinatedBy

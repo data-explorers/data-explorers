@@ -1,0 +1,121 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+11935,47822,Diptera,Flies,eats
+11935,1,Animalia,Animals,eats
+11935,47124,Magnoliopsida,dicots,eats
+11935,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+11935,48201,Scarabaeidae,Scarabs,eats
+11935,47208,Coleoptera,Beetles,eats
+11935,218298,Diachus auratus,Bronze Leaf Beetle,eats
+11935,47951,Staphylinidae,Rove Beetles,eats
+11935,55488,Diabrotica,,eats
+11935,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+11935,47157,Lepidoptera,Butterflies and Moths,eats
+11935,57677,Halictus,Furrow Bees,eats
+11935,141735,Sitona,,eats
+11935,47193,Cornus,dogwoods,eats
+11935,49399,Juniperus virginiana,eastern redcedar,eats
+11935,132021,Philonthus,,eats
+11935,69086,Lasius,Citronella Ants,eats
+11935,47118,Araneae,Spiders,eats
+11935,48736,Curculionidae,True Weevils,eats
+11935,82523,Augochlora pura,Pure Green-Sweat bee,eats
+11935,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+11935,231080,Sitona hispidulus,Clover Weevil,eats
+11935,47199,Ichneumonidae,Ichneumonid Wasps,eats
+11935,49567,Carabidae,Ground Beetles,eats
+11935,176326,Pachybrachis,Scriptured Leaf Beetles,eats
+11935,67731,Anax junius,Common Green Darner,eats
+11935,84670,Ephydridae,Shore Flies,eats
+11935,211194,Tracheophyta,vascular plants,eats
+11935,59653,Gerridae,Water Striders,eats
+11935,52864,Tramea,Saddlebag Gliders,eats
+11935,53275,Chironomidae,Non-biting Midges,eats
+11935,174572,Callibaetis,Speckled Duns,eats
+11935,,Morella caroliniensis,,eats
+11935,310120,Exema conspersa,,eats
+11935,,Calamosternus granarius,,eats
+11935,,Gerris,,eats
+11935,,Pterostichus,,eats
+11935,,Cryptopleurum minutum,,eats
+11935,121294,Curculio,Nut and Acorn Weevils,eats
+11935,,Campylirhynchus pyrrhopus,,eats
+11935,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,eats
+11935,,Cerotoma trifurcata,,eats
+11935,,Anthicus,,eats
+11935,,Hypera punctata,,eats
+11935,,Centrinus,,eats
+11935,178465,Phyllotreta,,eats
+11935,,Epitrix cucumeris,,eats
+11935,,Onthophagus pennsylvanicus,,eats
+11935,,Neohaemonia nigricornis,,eats
+11935,,Rhyparochromidae,,eats
+11935,,Discoderus robustus,,eats
+11935,,Colaspis,,eats
+11935,,Notoxus,,eats
+11935,,Tiphia,,eats
+11935,,Agonum limbatum,,eats
+11935,,Apion,,eats
+11935,230406,Saprinus pensylvanicus,Clown Beetle,eats
+11935,,Amara,,eats
+11935,,Onthophagus,,eats
+11935,,Hylastes,,eats
+11935,,Sphaeridium scarabaeoides,,eats
+11935,,Syrphus,,eats
+11935,49024,Membracidae,Typical Treehoppers,eats
+11935,,Strigoderma pygmaea,,eats
+11935,,Dichelonyx,,eats
+11935,,Tychius,,eats
+11935,,Anomala undulata,,eats
+11935,,Haliplidae,,eats
+11935,,Drasterius,,eats
+11935,55719,Eristalis tenax,Common Drone Fly,eats
+11935,,Anthonomus grandis,,eats
+11935,,Omosita colon,,eats
+11935,635568,Notoxus lustrellus,,eats
+11935,,Heterocerus undatus,,eats
+11935,,Aleochara bimaculata,,eats
+11935,,Altica foliaceae,,eats
+11935,,Aphodius fimetarius,,eats
+11935,,Aphodius,,eats
+11935,,Macrohydnobius matthewsii,,eats
+11935,,Helophorus,,eats
+11935,221132,Helophorus lacustris,,eats
+11935,,Heterocerus,,eats
+11935,,Cercyon,,eats
+11935,,Lestes,,eats
+11935,,Onthophagus hecate,,eats
+11935,,Glischrochilus fasciatus,,eats
+11935,,Hypera,,eats
+11935,203324,Oscarinus rusicola,,eats
+11935,,Stelidota,,eats
+11935,,Berosus sayi,,eats
+11935,131050,Clivina,,eats
+11935,,Monotoma picipes,,eats
+11935,,Sitona lepidus,,eats
+11935,,Planolinus tenellus,,eats
+11935,,Conotelus,,eats
+11935,,Hydroporus,,eats
+11935,131962,Stenus,,eats
+11935,,Stenomorphus californicus,,eats
+11935,68869,Histeridae,Hister Beetles,eats
+11935,261572,Blissus leucopterus,Chinch Bug,eats
+11935,4956,Ardea herodias,Great Blue Heron,eatenBy
+11935,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+11935,4672,Falco columbarius,Merlin,eatenBy
+11935,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+11935,47126,Plantae,plants,preysOn
+11935,59653,Gerridae,Water Striders,preysOn
+11935,52864,Tramea,Saddlebag Gliders,preysOn
+11935,174572,Callibaetis,Speckled Duns,preysOn
+11935,53275,Chironomidae,Non-biting Midges,preysOn
+11935,84670,Ephydridae,Shore Flies,preysOn
+11935,67731,Anax junius,Common Green Darner,preysOn
+11935,47158,Insecta,Insects,preysOn
+11935,,Lestes,,preysOn
+11935,69803,Ceratopogonidae,Biting Midges,preysOn
+11935,56557,Notonecta,Milky Backswimmers,preysOn
+11935,,Hesperocorixa,,preysOn
+11935,51679,Coenagrion,Northern Bluets,preysOn
+11935,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+11935,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+11935,,Epitheca cynosura,,preyedUponBy

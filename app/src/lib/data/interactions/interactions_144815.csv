@@ -1,0 +1,45 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144815,47120,Arthropoda,Arthropods,eats
+144815,211194,Tracheophyta,vascular plants,eats
+144815,1,Animalia,Animals,eats
+144815,125816,Auchenorrhyncha,True Hoppers,eats
+144815,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+144815,47118,Araneae,Spiders,eats
+144815,47208,Coleoptera,Beetles,eats
+144815,47822,Diptera,Flies,eats
+144815,47157,Lepidoptera,Butterflies and Moths,eats
+144815,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+144815,61267,Heteroptera,True Bugs,eats
+144815,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+144815,47158,Insecta,Insects,eats
+144815,47124,Magnoliopsida,dicots,eats
+144815,58732,Toxicodendron radicans,poison ivy,eats
+144815,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+144815,77835,Lonicera japonica,Japanese honeysuckle,eats
+144815,48460,Life,,eats
+144815,47126,Plantae,plants,eats
+144815,47125,Angiospermae,flowering plants,eats
+144815,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+144815,57983,Helianthus annuus,Common Sunflower,eats
+144815,3800,Morus,Gannets,eats
+144815,48618,Echinocystis lobata,wild cucumber,eats
+144815,,Archips fumiferana,,eats
+144815,47802,Lymantria dispar,LD Moth,eats
+144815,54793,Lindera benzoin,northern spicebush,eats
+144815,54777,Cornus florida,flowering dogwood,eats
+144815,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+144815,,Homadaula anisocentra,,eats
+144815,119092,Picea pungens,blue spruce,eats
+144815,,Salix nigra,,eats
+144815,,Juglans nigra,,eats
+144815,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+144815,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+144815,558512,Lanius borealis,Northern Shrike,eatenBy
+144815,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+144815,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+144815,20315,Asio flammeus,Short-eared Owl,eatenBy
+144815,49530,Geometridae,Geometer Moths,preysOn
+144815,47119,Arachnida,Arachnids,preysOn
+144815,47157,Lepidoptera,Butterflies and Moths,preysOn
+144815,57983,Helianthus annuus,Common Sunflower,preysOn
+144815,,Mantis religiosa,,preysOn

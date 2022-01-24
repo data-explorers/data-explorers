@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64747,29925,Heterodon platirhinos,Eastern Hognose Snake,eatenBy
+64747,28362,Thamnophis sirtalis,Common Garter Snake,eatenBy
+64747,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,eatenBy
+64747,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+64747,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+64747,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+64747,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+64747,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+64747,,Thamnophis valida,,preyedUponBy
+64747,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+64747,29328,Nerodia erythrogaster,Plain-bellied Watersnake,preyedUponBy
+64747,28416,Thamnophis eques eques,Southern Mexican Garter Snake,preyedUponBy
+64747,,Thamnophis sauritus,,preyedUponBy
+64747,28383,Thamnophis proximus proximus,Orange-striped Ribbonsnake,preyedUponBy

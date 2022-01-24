@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49703,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+49703,61495,Erythemis simplicicollis,Eastern Pondhawk,eatenBy
+49703,,Parkesia motacilla,,eatenBy
+49703,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+49703,,Galium palustre,,pollinates
+49703,58795,Apocynum cannabinum,hemp dogbane,pollinates
+49703,99539,Dorocordulia libera,Racket-tailed Emerald,preyedUponBy
+49703,,Araniella displicata,,preyedUponBy
+49703,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy

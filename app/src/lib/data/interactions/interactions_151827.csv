@@ -1,0 +1,150 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+151827,47628,Amphipoda,Amphipods,eats
+151827,121643,Copepoda,Copepods,eats
+151827,195136,Euphausia,,eats
+151827,85514,Cyclopoida,Cyclopoid Copepods,eats
+151827,47534,Cnidaria,Cnidarians,eats
+151827,85493,Crustacea,Crustaceans,eats
+151827,195134,Euphausiidae,Euphotic Krill,eats
+151827,47686,Protozoa,protozoans,eats
+151827,153112,Euphausiacea,krill,eats
+151827,151827,Chaetognatha,Arrow Worms,eats
+151827,129725,Appendicularia,Pelagic Tunicates,eats
+151827,68764,Ostracoda,Seed Shrimp,eats
+151827,201712,Euchaeta,,eats
+151827,201781,Calanus,,eats
+151827,203470,Oithona,,eats
+151827,203396,Centropages,,eats
+151827,195081,Acartia,,eats
+151827,85507,Calanoida,Calanoid Copepods,eats
+151827,372878,Hyperiidea,,eats
+151827,774778,Gymnoplea,,eats
+151827,,calanoids - small tomopterids - small coelenterates,,eats
+151827,,meroplankton - appendicularians - doliolids,,eats
+151827,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eats
+151827,617783,Electrona antarctica,,eats
+151827,617786,Gymnoscopelus braueri,,eats
+151827,,Notolepis coatsi,,eats
+151827,,Market squid,,eats
+151827,117571,Clupea pallasii,Pacific herring,eats
+151827,223605,Leuroglossus schmidti,Northern Smoothtongue,eats
+151827,201747,Clausocalanidae,,eats
+151827,51911,Engraulidae,Anchovies,eatenBy
+151827,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+151827,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+151827,800860,Salpa thompsoni,,eatenBy
+151827,410430,Schedophilus maculatus,Raft-fish,eatenBy
+151827,47490,Polychaeta,Polychaete Worms,eatenBy
+151827,195398,Agalmatidae,,eatenBy
+151827,151827,Chaetognatha,Arrow Worms,eatenBy
+151827,1159806,Thalassocalycidae,,eatenBy
+151827,510785,Apolemiidae,,eatenBy
+151827,87467,Chromis,Chromis,eatenBy
+151827,48836,Ophiuroidea,Brittle Stars,eatenBy
+151827,48483,Chrysaora,Sea Nettles,eatenBy
+151827,195136,Euphausia,,eatenBy
+151827,48921,Hydrozoa,Hydrozoans,eatenBy
+151827,,Oplophorus typus,,eatenBy
+151827,,Nematocarcinus combensis,,eatenBy
+151827,,Antarctomysis ohlini,,eatenBy
+151827,,Aidanosagitta oceania,,eatenBy
+151827,,Thysanoessa longipes,,eatenBy
+151827,296024,Thysanopoda aequalis,,eatenBy
+151827,,Alle alle,,eatenBy
+151827,1072347,Plesionika gigliolii,Italian deepsea shrimp,eatenBy
+151827,,Sergia talismani,,eatenBy
+151827,,Sergia challengeri,,eatenBy
+151827,459534,Sergia tenuiremis,,eatenBy
+151827,260747,Sergia laminata,,eatenBy
+151827,,Sergia potens,,eatenBy
+151827,,Sergia regalis,,eatenBy
+151827,,Sergia gardineri,,eatenBy
+151827,,Sergia scintillans,,eatenBy
+151827,,Sergia bigemmea,,eatenBy
+151827,,Sergestes arcticus,,eatenBy
+151827,253669,Illex coindetii,Southern Shortfin Squid,eatenBy
+151827,646611,Acetes erythraeus,Tsivakihini paste shrimp,eatenBy
+151827,346857,Notostomus gibbosus,,eatenBy
+151827,295545,Eucopia australis,,eatenBy
+151827,,Eucopia grimaldii,,eatenBy
+151827,,Eucopia unguiculata,,eatenBy
+151827,459583,Gennadas valens,,eatenBy
+151827,295696,Bentheogennema intermedia,,eatenBy
+151827,986203,Systellaspis pellucida,,eatenBy
+151827,459460,Acanthephyra acutifrons,,eatenBy
+151827,106881,Nephrops norvegicus,Norway lobster,eatenBy
+151827,,Ornithoteuthis antillarum,,eatenBy
+151827,432522,Ornithoteuthis volatilis,Shiny Bird Squid,eatenBy
+151827,253676,Japetella diaphana,Diaphanous Pelagic Octopus,eatenBy
+151827,292209,Bolitaena pygmaea,Pygmy Pelagic Octopus,eatenBy
+151827,253702,Egea inermis,Unarmed Cranch Squid,eatenBy
+151827,253700,Bathothauma lyromma,Lyre Cranch Squid,eatenBy
+151827,432457,Illex argentinus,Argentine Shortfin Squid,eatenBy
+151827,432480,Mesonychoteuthis hamiltoni,Colossal Squid,eatenBy
+151827,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eatenBy
+151827,146887,Illex illecebrosus,Northern Shortfin Squid,eatenBy
+151827,201533,Doryteuthis pealeii,Longfin Inshore Squid,eatenBy
+151827,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+151827,256123,Flaccisagitta enflata,,eatenBy
+151827,,Heterogenys microphthalma,,eatenBy
+151827,459626,Oplophorus spinosus,,eatenBy
+151827,646463,Acanthephyra stylorostratis,,eatenBy
+151827,680031,Oplophorus gracilirostris,,eatenBy
+151827,,Sergestes paraseminudus,,eatenBy
+151827,,Sergestes atlanticus,,eatenBy
+151827,295700,Gennadas bouvieri,,eatenBy
+151827,459681,Funchalia villosa,,eatenBy
+151827,681759,Parasergestes armatus,,eatenBy
+151827,,Sergestes curvatus,,eatenBy
+151827,260779,Gennadas capensis,,eatenBy
+151827,260780,Gennadas scutatus,,eatenBy
+151827,,Sergestes vigilax,,eatenBy
+151827,295161,Systellaspis debilis,,eatenBy
+151827,,Sergestes edwardsii,,eatenBy
+151827,,Sergestes henseni,,eatenBy
+151827,459463,Acanthephyra curtirostris,,eatenBy
+151827,,Sergia splendens,,eatenBy
+151827,975132,Eukrohnia hamata,,eatenBy
+151827,,Paradiplospinus gracilis,,eatenBy
+151827,617783,Electrona antarctica,,eatenBy
+151827,617819,Protomyctophum bolini,,eatenBy
+151827,617788,Gymnoscopelus nicholsi,,eatenBy
+151827,617786,Gymnoscopelus braueri,,eatenBy
+151827,530452,Protomyctophum normani,Norman's Lanternfish,eatenBy
+151827,459369,Diaphus taaningi,,eatenBy
+151827,617821,Protomyctophum choriodon,,eatenBy
+151827,530434,Electrona paucirastra,Belted Lanternfish,eatenBy
+151827,530421,Diaphus hudsoni,Hudson's Lanternfish,eatenBy
+151827,317001,Benthosema suborbitale,Dimple Lanternfish,eatenBy
+151827,110696,Protomyctophum luciferum,,eatenBy
+151827,530435,Electrona subaspera,Rough Lanternfish,eatenBy
+151827,617785,Gymnoscopelus bolini,,eatenBy
+151827,120700,Diaphus meadi,Mead's Lanternfish,eatenBy
+151827,617789,Gymnoscopelus opisthopterus,,eatenBy
+151827,530433,Electrona carlsbergi,Carlsberg's Lanternfish,eatenBy
+151827,459365,Diaphus effulgens,Headlight Lanternfish,eatenBy
+151827,459373,Diaphus luetkeni,Luetken's Lanternfish,eatenBy
+151827,530446,Metelectrona herwigi,Herwig Lanternfish,eatenBy
+151827,617817,Protomyctophum andriashevi,,eatenBy
+151827,530438,Gymnoscopelus microlampas,Minispotted Lanternfish,eatenBy
+151827,,Nauticaris marionis,,eatenBy
+151827,,Notolepis coatsi,,eatenBy
+151827,153112,Euphausiacea,krill,preysOn
+151827,85514,Cyclopoida,Cyclopoid Copepods,preysOn
+151827,68764,Ostracoda,Seed Shrimp,preysOn
+151827,47686,Protozoa,protozoans,preysOn
+151827,372878,Hyperiidea,,preysOn
+151827,,Mysidacea,,preysOn
+151827,,nauplii,,preysOn
+151827,774778,Gymnoplea,,preysOn
+151827,1316623,Pleuragramma antarcticum,,preyedUponBy
+151827,,E. antarctica (30-60mm),,preyedUponBy
+151827,,E. antarctica (60-90mm),,preyedUponBy
+151827,,P. tenisoni,,preyedUponBy
+151827,,P. bolini,,preyedUponBy
+151827,617786,Gymnoscopelus braueri,,preyedUponBy
+151827,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preyedUponBy
+151827,,Notolepis coatsi,,preyedUponBy
+151827,617783,Electrona antarctica,,preyedUponBy
+151827,617788,Gymnoscopelus nicholsi,,preyedUponBy
+151827,617819,Protomyctophum bolini,,preyedUponBy

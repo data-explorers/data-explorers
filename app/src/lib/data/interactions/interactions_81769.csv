@@ -1,0 +1,151 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81769,40151,Mammalia,Mammals,eats
+81769,465063,Passiflora bogotensis,,eats
+81769,,Myotis austroriparius,,eats
+81769,47383,Latrodectus geometricus,Brown Widow,eatenBy
+81769,12901,Catharus fuscescens,Veery,eatenBy
+81769,17013,Sayornis nigricans,Black Phoebe,eatenBy
+81769,17009,Sayornis saya,Say's Phoebe,eatenBy
+81769,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+81769,14850,Sturnus vulgaris,European Starling,eatenBy
+81769,9152,Spizella pusilla,Field Sparrow,eatenBy
+81769,9135,Spizella passerina,Chipping Sparrow,eatenBy
+81769,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+81769,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+81769,,Herpestes javanicus,,eatenBy
+81769,73149,Parkesia noveboracensis,Northern Waterthrush,eatenBy
+81769,48765,Heteropoda venatoria,Pantropical Huntsman Spider,eatenBy
+81769,,Trichonephila clavipes,,eatenBy
+81769,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+81769,,Thryothorus ludovicianus,,eatenBy
+81769,116461,Anolis sagrei,Brown Anole,eatenBy
+81769,,Novomessor cockerelli,,eatenBy
+81769,122204,Myrmecia gulosa,Red Bull Ant,eatenBy
+81769,,Phyllostomus hastatus,,eatenBy
+81769,,Hesperoptenus tickelli,,eatenBy
+81769,41376,Taphozous melanopogon,Black-bearded Tomb Bat,eatenBy
+81769,74602,Micronycteris microtis,Common Big-eared Bat,eatenBy
+81769,20307,Asio otus,Long-eared Owl,eatenBy
+81769,553515,Rhinella marina,Cane Toad,eatenBy
+81769,,Sternopygus obtusirostris,,eatenBy
+81769,,Priapichthys annectens,,eatenBy
+81769,,Leporinus friderici,,eatenBy
+81769,,Schilbe intermedius,,eatenBy
+81769,,Schilbe grenfelli,,eatenBy
+81769,,Hydrocynus vittatus,,eatenBy
+81769,55195,Brycinus longipinnis,Long-fin Tetra,eatenBy
+81769,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+81769,12883,Catharus minimus,Gray-cheeked Thrush,eatenBy
+81769,5017,Bubulcus ibis,Cattle Egret,eatenBy
+81769,1428,Numida meleagris,Helmeted Guineafowl,eatenBy
+81769,,Salpinctes obsoletus,,eatenBy
+81769,,Tiaris bicolor,,eatenBy
+81769,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+81769,,Leipoa ocellata,,eatenBy
+81769,,Vireo flavifrons,,eatenBy
+81769,,Peucaea aestivalis,,eatenBy
+81769,,Picoides villosus,,eatenBy
+81769,15990,Myiarchus tuberculifer,Dusky-capped Flycatcher,eatenBy
+81769,14895,Toxostoma longirostre,Long-billed Thrasher,eatenBy
+81769,,Dryobates albolarvatus,,eatenBy
+81769,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+81769,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+81769,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+81769,61997,Steatoda grossa,False Black Widow,preyedUponBy
+81769,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+81769,148395,Trochosa,,preyedUponBy
+81769,55470,Arctosa,Bear Spiders,preyedUponBy
+81769,47951,Staphylinidae,Rove Beetles,preyedUponBy
+81769,47866,Thomisidae,Crab Spiders,preyedUponBy
+81769,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+81769,82081,Theridion,Tangleweb Spiders,preyedUponBy
+81769,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+81769,47416,Lycosidae,Wolf Spiders,preyedUponBy
+81769,40477,Eptesicus,House Bats,preyedUponBy
+81769,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+81769,28519,Tantilla capistrata,Capistrata Centipede Snake,preyedUponBy
+81769,28464,Tantillita canula,Yucatecan Dwarf Short-tail Snake,preyedUponBy
+81769,30392,Dipsas catesbyi,Catesby's Snail-eater,preyedUponBy
+81769,27282,Chionactis palarostris,Sonoran Shovel-nosed Snake,preyedUponBy
+81769,1250059,Philodryas agassizii,Scorpion Snake,preyedUponBy
+81769,28516,Tantilla coronata,Southeastern Crowned Snake,preyedUponBy
+81769,27302,Chilomeniscus stramineus,Sand Snake,preyedUponBy
+81769,27289,Chionactis occipitalis,Mohave Shovel-Nosed Snake,preyedUponBy
+81769,35270,Echiopsis curta,Bardick,preyedUponBy
+81769,,Diadophis punctatus edwardsii,,preyedUponBy
+81769,,Plexippus petersi,,preyedUponBy
+81769,,Delena cancerides,,preyedUponBy
+81769,,Mopsus mormon,,preyedUponBy
+81769,,Tityus mattogrossensis,,preyedUponBy
+81769,,Leptocoma aspasia,,preyedUponBy
+81769,146721,Philaeus chrysops,Red-bellied Jumping Spider,preyedUponBy
+81769,,Lepidocolaptes angustirostris bivittatus,,preyedUponBy
+81769,126838,Eciton burchellii,,preyedUponBy
+81769,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+81769,128746,Pirata piraticus,Pirate Otter Spider,preyedUponBy
+81769,131962,Stenus,,preyedUponBy
+81769,153747,Robertus,,preyedUponBy
+81769,,Lithobius,,preyedUponBy
+81769,,Pirata tenuitarsis,,preyedUponBy
+81769,153636,Zelotes,,preyedUponBy
+81769,,Paederus riparius,,preyedUponBy
+81769,359911,Staphylininae,,preyedUponBy
+81769,784329,Robertus insignis,,preyedUponBy
+81769,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+81769,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+81769,1151405,Lesteva sicula,,preyedUponBy
+81769,,Nestus,,preyedUponBy
+81769,131943,Rugilus rufipes,,preyedUponBy
+81769,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+81769,887499,Himacerus boops,,preyedUponBy
+81769,,Dolichovespula sylvestris,,preyedUponBy
+81769,69599,Tetramorium,Fierce ants,preyedUponBy
+81769,468120,Anelosimus vittatus,,preyedUponBy
+81769,1017714,Stenus carbonarius,,preyedUponBy
+81769,75230,Vespadelus vulturnus,Little Forest Bat,preyedUponBy
+81769,75228,Vespadelus regulus,Southern Forest Bat,preyedUponBy
+81769,40543,Chalinolobus morio,Chocolate Wattled Bat,preyedUponBy
+81769,75224,Vespadelus darlingtoni,Large Forest Bat,preyedUponBy
+81769,75074,Scotorepens greyii,Little Broad-nosed Bat,preyedUponBy
+81769,74915,Pipistrellus westralis,Northern Pipistrelle,preyedUponBy
+81769,40555,Nyctophilus walkeri,Pygmy Long-eared Bat,preyedUponBy
+81769,,Nyctophilus geoffroyi,,preyedUponBy
+81769,40562,Nyctophilus arnhemensis,Northern Long-eared Bat,preyedUponBy
+81769,,Chaerephon jobensis,,preyedUponBy
+81769,74893,Pipistrellus adamsi,Forest Pipistrelle,preyedUponBy
+81769,40779,Rhinonicteris aurantia,Orange Leaf-nosed Bat,preyedUponBy
+81769,,Hipposideros stenotis,,preyedUponBy
+81769,74711,Myotis macropus,Large-footed Myotis,preyedUponBy
+81769,40715,Hipposideros ater,Dusky Roundleaf Bat,preyedUponBy
+81769,,Nyctophilus gouldi,,preyedUponBy
+81769,40592,Miniopterus australis,Little Long-fingered Bat,preyedUponBy
+81769,41326,Macroderma gigas,Australian False Vampire Bat,preyedUponBy
+81769,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+81769,,Plecotus auritus,,preyedUponBy
+81769,74697,Myotis bechsteinii,Bechstein's bat,preyedUponBy
+81769,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+81769,183170,Miniopterus manavi,Manavi Long-fingered Bat,preyedUponBy
+81769,74624,Miniopterus majori,Major's Long-fingered Bat,preyedUponBy
+81769,,Myotis goudoti,,preyedUponBy
+81769,41279,Mormopterus,,preyedUponBy
+81769,40608,Murina leucogaster,greater tube-nosed bat,preyedUponBy
+81769,765536,Chaerephon atsinanana,Madagascar Free-tailed Bat,preyedUponBy
+81769,40436,Scotophilus dinganii,Yellow-bellied House Bat,preyedUponBy
+81769,765561,Chaerephon pumilus,Little Free-tailed Bat,preyedUponBy
+81769,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+81769,57536,Pipistrellus hesperidus,Dusky pipistrelle,preyedUponBy
+81769,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+81769,40585,Miniopterus,Bent-winged Bats,preyedUponBy
+81769,74432,Hipposideros sorenseni,Sorensen's Leaf-nosed Bat,preyedUponBy
+81769,40746,Hipposideros speoris,Schneider's roundleaf bat,preyedUponBy
+81769,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+81769,,Rhinolophus rouxii,,preyedUponBy
+81769,40693,Rhinolophus simulator,Bushveld horseshoe bat,preyedUponBy
+81769,41190,Nycteris woodi,Wood's Slit-faced Bat,preyedUponBy
+81769,,Nycteris macrotus,,preyedUponBy
+81769,57534,Miniopterus schreibersii,Schreibers' Long-fingered Bat,preyedUponBy
+81769,40761,Hipposideros caffer,Sundevall's roundleaf bat,preyedUponBy
+81769,40777,Cloeotis percivali,Percival's Trident Bat,preyedUponBy
+81769,,Plecotus teneriffae,,preyedUponBy
+81769,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+81769,,Pipistrellus hanaki,,preyedUponBy

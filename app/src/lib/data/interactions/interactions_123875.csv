@@ -1,0 +1,117 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123875,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+123875,247660,Polypedilum,,eatenBy
+123875,333586,Oligochaeta,Earthworms and allies,eatenBy
+123875,153169,Palaemon elegans,Rockpool Prawn,eatenBy
+123875,47208,Coleoptera,Beetles,eatenBy
+123875,63089,Clitellata,Clitellates,eatenBy
+123875,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+123875,49601,Mola mola,Common Mola,eatenBy
+123875,367966,Ammodytes tobianus,Lesser Sand Lance,eatenBy
+123875,626372,Daphnia retrocurva,,eatenBy
+123875,,Daphnia catawba,,eatenBy
+123875,,Daphnia dubia,,eatenBy
+123875,58662,Semotilus atromaculatus,Creek Chub,eatenBy
+123875,483820,Holopedium gibberum,,eatenBy
+123875,,Daphnia longiremis,,eatenBy
+123875,,Diaptomus minutus,,eatenBy
+123875,,Stictocladius,,eatenBy
+123875,,Molophilus,,eatenBy
+123875,390755,Hydora nitida,,eatenBy
+123875,345996,Tanytarsini,,eatenBy
+123875,,Parochlus,,eatenBy
+123875,120561,Cricotopus,,eatenBy
+123875,378660,Zelandoperla,Long-tailed Stoneflies,eatenBy
+123875,408115,Beraeoptera roria,,eatenBy
+123875,,Podaena,,eatenBy
+123875,,Helicopsyche albescens,,eatenBy
+123875,,Zephlebia spectabilis,,eatenBy
+123875,375583,Aphrophila,,eatenBy
+123875,47595,Scirtidae,Marsh Beetles,eatenBy
+123875,,Oniscigaster,,eatenBy
+123875,,Orychmontia,,eatenBy
+123875,393331,Nesameletus ornatus,Small Swimming Mayfly,eatenBy
+123875,377937,Pycnocentrodes,,eatenBy
+123875,376157,Deleatidium,Suckergilled Mayflies,eatenBy
+123875,,Tanyderidae,,eatenBy
+123875,377930,Pycnocentria,,eatenBy
+123875,489802,Eriopterini,,eatenBy
+123875,376635,Hudsonema,,eatenBy
+123875,,Upogebia stellata,,eatenBy
+123875,1091275,Calocaris macandreae,,eatenBy
+123875,,Crassostrea tulipa,,eatenBy
+123875,,Placopecten magellanicus,,eatenBy
+123875,,Zealandoperla sp.,,eatenBy
+123875,,Orychmontia sp.,,eatenBy
+123875,,Kronichthys subteres,,eatenBy
+123875,616321,Harttia kronei,,eatenBy
+123875,,Schizolecis guntheri,,eatenBy
+123875,613255,Mystacoleucus padangensis,,eatenBy
+123875,,Haplochromis obliquidens,,eatenBy
+123875,,Haplochromis lividus,,eatenBy
+123875,,Ellochelon vaigiensis,,eatenBy
+123875,,Crenimugil buchanani,,eatenBy
+123875,,Hampala macrolepidota,,eatenBy
+123875,,Liza ramada,,eatenBy
+123875,94802,Atherinopsis californiensis,Jack Silverside,eatenBy
+123875,,Oreochromis lidole,,eatenBy
+123875,,Limnothrissa miodon,,eatenBy
+123875,,Oreochromis niloticus,,eatenBy
+123875,,Oreochromis esculentus,,eatenBy
+123875,107888,Oreochromis mortimeri,Kariba Tilapia,eatenBy
+123875,107885,Oreochromis leucostictus,Blue-spotted Tilapia,eatenBy
+123875,121302,Oreochromis aureus,Blue Tilapia,eatenBy
+123875,106222,Mugil cephalus,Sea Mullet,eatenBy
+123875,,Liza dumerili,,eatenBy
+123875,,Liza richardsonii,,eatenBy
+123875,62617,Cetengraulis edentulus,Atlantic Anchoveta,eatenBy
+123875,,Amblypharyngodon melettinus,,eatenBy
+123875,,Esomus thermoicos,,eatenBy
+123875,,Hypophthalmichthys molitrix,,eatenBy
+123875,55533,Chanos chanos,Milkfish,eatenBy
+123875,,Siluranodon auritus,,eatenBy
+123875,328042,Engraulis japonicus,Japanese Anchovy,eatenBy
+123875,,Oreochromis variabilis,,eatenBy
+123875,,Tilapia rendalli,,eatenBy
+123875,,Etroplus maculatus,,eatenBy
+123875,,Labeo rohita,,eatenBy
+123875,107887,Oreochromis macrochir,Longfin Tilapia,eatenBy
+123875,230431,Sarotherodon melanotheron,Blackchin Tilapia,eatenBy
+123875,,Labeo coubie,,eatenBy
+123875,121301,Sarotherodon galilaeus,Mango Tilapia,eatenBy
+123875,,Pseudotropheus johannii,,eatenBy
+123875,,Tropheops gracilior,,eatenBy
+123875,,Petrotilapia nigra,,eatenBy
+123875,,Labeotropheus fuelleborni,,eatenBy
+123875,105465,Melanochromis auratus,Golden Mbuna,eatenBy
+123875,,Maylandia zebra,,eatenBy
+123875,,Maylandia aurora,,eatenBy
+123875,,Pseudotropheus elongatus,,eatenBy
+123875,,Oreochromis squamipinnis,,eatenBy
+123875,,Rhodeus sericeus,,eatenBy
+123875,,Acantholeberis curvirostris,,eatenBy
+123875,1079680,Chydorus bicornutus,,eatenBy
+123875,168927,Sida crystallina,,eatenBy
+123875,626426,Daphnia galeata,,eatenBy
+123875,1003858,Ilyocryptus spinifer,,eatenBy
+123875,,Daphnia pulex,,eatenBy
+123875,97764,Chrosomus eos,Northern Redbelly Dace,eatenBy
+123875,,Aglaodiaptomus leptopus,,eatenBy
+123875,,Alona quadrangularis,,eatenBy
+123875,,Rhinichthys atratulus,,eatenBy
+123875,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+123875,483820,Holopedium gibberum,,preyedUponBy
+123875,,D. catawba,,preyedUponBy
+123875,,Diaptomus minutus,,preyedUponBy
+123875,58662,Semotilus atromaculatus,Creek Chub,preyedUponBy
+123875,1079680,Chydorus bicornutus,,preyedUponBy
+123875,,Acantholeberis curvirostris,,preyedUponBy
+123875,,D. longiremis,,preyedUponBy
+123875,,A. quadrangularis,,preyedUponBy
+123875,50991,Omus,Night-stalking Tiger Beetles,preyedUponBy
+123875,252828,Pulex,,preyedUponBy
+123875,1003858,Ilyocryptus spinifer,,preyedUponBy
+123875,,D. sicilis,,preyedUponBy
+123875,,Rhinichthys atratulus,,preyedUponBy
+123875,168927,Sida crystallina,,preyedUponBy
+123875,,http://treatment.plazi.org/id/038E29227E52FFDEFF3F7000DC29FA4D,,preyedUponBy

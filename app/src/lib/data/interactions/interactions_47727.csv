@@ -1,0 +1,117 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47727,62989,Aedes,,eats
+47727,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+47727,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+47727,81655,Nematocampa,,eatenBy
+47727,59675,Pyrrharctia isabella,Isabella Tiger Moth,eatenBy
+47727,81682,Campaea,,eatenBy
+47727,63275,Tremex columba,Pigeon Horntail,eatenBy
+47727,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+47727,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+47727,81681,Campaea perlata,Pale Beauty,eatenBy
+47727,228741,Prochoerodes forficaria,,eatenBy
+47727,13858,Passer domesticus,House Sparrow,eatenBy
+47727,46020,Sciurus niger,Fox Squirrel,eatenBy
+47727,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+47727,130856,Scutellinia setosa,,eatenBy
+47727,117987,Graphis scripta,Common Script Lichen,eatenBy
+47727,54064,Polygonia comma,Eastern Comma,eatenBy
+47727,47219,Apis mellifera,Western Honey Bee,eatenBy
+47727,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+47727,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+47727,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47727,7107,Aix sponsa,Wood Duck,eatenBy
+47727,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47727,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47727,,Melolontha melolontha,,eatenBy
+47727,47802,Lymantria dispar,LD Moth,eatenBy
+47727,,Orgyia antiqua,,eatenBy
+47727,,Malacosoma californica,,eatenBy
+47727,,Malacosoma disstria,,eatenBy
+47727,,Malacosoma neustria,,eatenBy
+47727,,Hylesia nigricans,,eatenBy
+47727,,Cnidocampa flavescens,,eatenBy
+47727,,Hemileuca eglanterina,,eatenBy
+47727,47919,Antheraea polyphemus,Polyphemus Moth,eatenBy
+47727,,Erannis tiliaria,,eatenBy
+47727,,Phigalia,,eatenBy
+47727,,Lambdina fiscellaria,,eatenBy
+47727,82279,Automeris io,Io Moth,eatenBy
+47727,,Cossus cossus,,eatenBy
+47727,,Boisea trivittata,,eatenBy
+47727,,Sparganothis pettitana,,eatenBy
+47727,,Archips argyrospila,,eatenBy
+47727,,Fentonia marthesia,,eatenBy
+47727,,Achatia distincta,,eatenBy
+47727,,Orthosia revicta,,eatenBy
+47727,,Acronicta americana,,eatenBy
+47727,60930,Diaspidiotus perniciosus,Pernicious Scale,eatenBy
+47727,,Agrochola bicolorago,,eatenBy
+47727,,Taeniothrips inconsequens,,eatenBy
+47727,,Lopholeucaspis japonica,,eatenBy
+47727,,Eacles imperialis,,eatenBy
+47727,81586,Citheronia regalis,Regal Moth,eatenBy
+47727,,Parlatoria theae,,eatenBy
+47727,,Lepidosaphes,,eatenBy
+47727,,Melanaspis obscura,,eatenBy
+47727,,Heterocampa guttivitta,,eatenBy
+47727,,Lambdina fervidaria,,eatenBy
+47727,,Zeuzera pyrina,,eatenBy
+47727,,Heterocampa biundata,,eatenBy
+47727,48094,Dryocampa rubicunda,Rosy Maple Moth,eatenBy
+47727,,Prionoxystus robiniae,,eatenBy
+47727,,Chionaspis salicis,,eatenBy
+47727,,Lepidosaphes ulmi,,eatenBy
+47727,,Diaspidiotus ostreaeformis,,eatenBy
+47727,,Periphyllus testudinaceus,,eatenBy
+47727,,Periphyllus californiensis,,eatenBy
+47727,,Drepanosiphum platanoidis,,eatenBy
+47727,,Heterarthrus aceris,,eatenBy
+47727,,Craesus septentrionalis,,eatenBy
+47727,,Pristiphora (Pristiphora) subbifida,,eatenBy
+47727,,Sparganothis,,eatenBy
+47727,,Pandemis lamprosana,,eatenBy
+47727,,Choristoneura fractivittana,,eatenBy
+47727,,Sparganothis reticulatana,,eatenBy
+47727,,Clepsis persicana,,eatenBy
+47727,,Sparganothis albicaudana,,eatenBy
+47727,324290,Pandemis cinnamomeana,White-faced Tortrix,eatenBy
+47727,,Platynota flavedana,,eatenBy
+47727,472754,Archips fuscocupreanus,,eatenBy
+47727,,Pammene japonica,,eatenBy
+47727,,Proteoteras moffatiana,,eatenBy
+47727,,Acleris forsskaleana,,eatenBy
+47727,,Cydia candana,,eatenBy
+47727,,Pseudexentera spoliana,,eatenBy
+47727,,Parapammene,,eatenBy
+47727,231147,Sonia canadana,Canadian Sonia Moth,eatenBy
+47727,,Archips rosana,,eatenBy
+47727,,Archips negundana,,eatenBy
+47727,,Episimus tyrius,,eatenBy
+47727,,Argyrotaenia mariana,,eatenBy
+47727,,Cydia inquinatana,,eatenBy
+47727,,Synanthedon acerni,,eatenBy
+47727,870996,Isotrias hybridana,,eatenBy
+47727,,Hyalophora euryalus,,eatenBy
+47727,,Anisota virginiensis,,eatenBy
+47727,,Oreana unicolorella,,eatenBy
+47727,,Hyalophora columbia,,eatenBy
+47727,,Actias luna,,eatenBy
+47727,,Callosamia promethea,,eatenBy
+47727,,Rhodinia newara,,eatenBy
+47727,425332,Leucanella memusae,,eatenBy
+47727,52775,Bombus,Bumble Bees,pollinatedBy
+47727,57678,Lasioglossum,,pollinatedBy
+47727,57768,Podabrus,,pollinatedBy
+47727,1,Animalia,Animals,pollinatedBy
+47727,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47727,47158,Insecta,Insects,pollinatedBy
+47727,,,,pollinatedBy
+47727,,Tenthredo finchi seguro ,,pollinatedBy
+47727,,Cheilosia,,pollinatedBy
+47727,,Byturus affinis ,,pollinatedBy
+47727,,Sphegina clunipes ,,pollinatedBy
+47727,,Lupesus moorii ,,pollinatedBy
+47727,,Plectoderoides vittifrons ,,pollinatedBy
+47727,,Wind,,pollinatedBy
+47727,,http://treatment.plazi.org/id/EFA2D9EE87F05E8EB207EC8EF0C3ACCB,,pollinatedBy

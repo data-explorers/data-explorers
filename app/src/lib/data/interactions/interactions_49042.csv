@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49042,49042,Ziziphus,Jujubes,eats
+49042,49042,Ziziphus,Jujubes,eatenBy
+49042,203832,Euproctis,,eatenBy
+49042,330230,Pinnaspis strachani,,eatenBy
+49042,353457,Graptostethus servus,,eatenBy
+49042,,Ancylis sederana,,eatenBy
+49042,1153049,Beara dichromella,,eatenBy
+49042,,Castalius rosimon,,eatenBy
+49042,,Petelia medardaria,,eatenBy
+49042,,Caleta roxus,,eatenBy
+49042,146653,Caleta caleta,,eatenBy
+49042,125828,Rapala,Flashes,eatenBy
+49042,,Gonepteryx farinosa,,eatenBy
+49042,,Leptotes plinius,,eatenBy
+49042,,Papilio demoleus,,eatenBy
+49042,,Tarucus rosacea,,eatenBy
+49042,,Tarucus balkanica,,eatenBy
+49042,,Tarucus,,eatenBy
+49042,,Tarucus kulala,,eatenBy
+49042,,Tarucus sybaris,,eatenBy
+49042,,Zintha hintza,,eatenBy
+49042,149152,Tuxentius,Pies,eatenBy
+49042,,Tarucus legrasi,,eatenBy
+49042,,Pteropus giganteus,,eatenBy
+49042,41,Grus grus,Common Crane,eatenBy
+49042,,Ardeotis nigriceps,,eatenBy
+49042,,Grus monacha,,eatenBy
+49042,42166,Axis axis,Chital,eatenBy
+49042,75042,Rousettus aegyptiacus,Egyptian Rousette,eatenBy
+49042,,Trypanophora australis,,eatenBy
+49042,,Presbytis,,eatenBy
+49042,40870,Pteropus,Flying Foxes,eatenBy
+49042,332412,Cania bilinea,,eatenBy
+49042,500675,Darna,,eatenBy
+49042,,Mompha isocrita,,eatenBy
+49042,,Ascotis reciprocaria,,eatenBy
+49042,,Haplopacha cinerea,,eatenBy
+49042,,Discolampa ethion,,eatenBy
+49042,,Orgyia mixta,,eatenBy
+49042,,Euproctis fraterna,,eatenBy
+49042,,Sphrageidus producta,,eatenBy
+49042,1317340,Euproctis howra,,eatenBy
+49042,,Iambia inferalis,,eatenBy
+49042,,Euproctis dewitzi,,eatenBy
+49042,,Iambia thwaitesii,,eatenBy
+49042,,Neptis jumbah,,eatenBy
+49042,1428,Numida meleagris,Helmeted Guineafowl,eatenBy
+49042,,Ortalis canicollis,,eatenBy
+49042,43088,Heterohyrax brucei,Bush Hyrax,preyedUponBy
+49042,,Loxodonta africana,,preyedUponBy

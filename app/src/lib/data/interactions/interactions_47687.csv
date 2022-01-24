@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47687,50931,Strymon melinus,Gray Hairstreak,eatenBy
+47687,47219,Apis mellifera,Western Honey Bee,eatenBy
+47687,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+47687,59124,Anthocharis sara,Sara Orangetip,eatenBy
+47687,51557,Bombylius major,Greater Bee Fly,eatenBy
+47687,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47687,1409,Callipepla californica,California Quail,eatenBy
+47687,9100,Melospiza melodia,Song Sparrow,eatenBy
+47687,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+47687,145310,Spinus tristis,American Goldfinch,eatenBy
+47687,9135,Spizella passerina,Chipping Sparrow,eatenBy
+47687,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47687,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+47687,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+47687,73044,Melozone crissalis,California Towhee,eatenBy
+47687,,Dipodomys stephensi,,eatenBy
+47687,,Euphydryas editha,,eatenBy
+47687,,Aricia agestis,,eatenBy
+47687,,Nathalis iole,,eatenBy
+47687,,Gopherus agassizii,,eatenBy
+47687,,Agapornis roseicollis,,eatenBy
+47687,520456,Icaricia acmon,Acmon Blue,eatenBy
+47687,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+47687,,Amblyptilia punctidactyla,,eatenBy
+47687,,Aricia,,eatenBy
+47687,,Oreortyx pictus,,eatenBy
+47687,831,Perdix perdix,Gray Partridge,eatenBy
+47687,,Alectoris chukar,,eatenBy
+47687,1240,Dendragapus,Blue Grouse,eatenBy
+47687,,Callipepla gambelii,,eatenBy
+47687,,Zonotrichia leucophrys,,eatenBy
+47687,,Zonotrichia atricapilla,,eatenBy
+47687,57678,Lasioglossum,,pollinatedBy
+47687,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+47687,57682,Anthophora,Common Digger Bees,pollinatedBy
+47687,,http://treatment.plazi.org/id/588934C5A3D81B78F71DEEB7F083B91E,,pollinatedBy
+47687,,Paregle audacula,,pollinatedBy
+47687,,Andrena,,pollinatedBy
+47687,,Metasyrphus corollae,,pollinatedBy
+47687,,Meliscaeva auricollis ,,pollinatedBy
+47687,,Pieris brassicae,,pollinatedBy
+47687,,Bombylius fuliginosus ,,pollinatedBy
+47687,,Andrena humilis,,pollinatedBy
+47687,,Melanostoma mellinum,,pollinatedBy
+47687,,Bombylius undatus ,,pollinatedBy
+47687,52964,Sphaerophoria scripta,Long Hover Fly,pollinatedBy
+47687,,Eucera,,pollinatedBy
+47687,,Helina,,pollinatedBy
+47687,,Scaeva melanostoma,,pollinatedBy
+47687,,,,pollinatedBy
+47687,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy

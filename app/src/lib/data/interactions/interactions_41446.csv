@@ -1,0 +1,74 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41446,47178,Actinopterygii,Ray-finned Fishes,eats
+41446,85493,Crustacea,Crustaceans,eats
+41446,47115,Mollusca,Molluscs,eats
+41446,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+41446,47459,Cephalopoda,Cephalopods,eats
+41446,231540,Stenobrachius leucopsarus,Northern Lampfish,eats
+41446,113994,Thaleichthys pacificus,Eulachon,eats
+41446,87031,Bothrocara,,eats
+41446,432389,Berryteuthis anonychus,Smallfin Armhook Squid,eats
+41446,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+41446,223605,Leuroglossus schmidti,Northern Smoothtongue,eats
+41446,180029,Gadus macrocephalus,Pacific Cod,eats
+41446,49243,Alosa sapidissima,American shad,eats
+41446,91362,Protomyctophum,,eats
+41446,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+41446,,Theragra chalcogramma,,eats
+41446,103967,Lampanyctus jordani,Brokenline Lanternfish,eats
+41446,432791,Gonatopsis,,eats
+41446,165100,Mallotus villosus,Capelin,eats
+41446,51353,Anoplopoma fimbria,Sablefish,eats
+41446,432390,Berryteuthis magister,Schoolmaster Armhook Squid,eats
+41446,117571,Clupea pallasii,Pacific herring,eats
+41446,105599,Merluccius productus,Pacific Hake,eats
+41446,92219,Stenobrachius,,eats
+41446,337528,Gonatidae,Armhook Squids,eats
+41446,,Nannobrachium regale,,eats
+41446,,Gnathostomata,,eats
+41446,,Bothrocarina microcephala,,eats
+41446,328042,Engraulis japonicus,Japanese Anchovy,eats
+41446,617460,Laemonema longipes,,eats
+41446,432421,Galiteuthis phyllura,Cockatoo Squid,eats
+41446,614161,Gadus chalcogrammus,Alaska Pollock,eats
+41446,89327,Lampanyctus,,eats
+41446,60631,Zoarcidae,Eelpouts,eats
+41446,47878,Watasenia scintillans,Firefly Squid,eats
+41446,,Eogonatus tinro,,eats
+41446,55535,Sardinops sagax,Pacific Sardine,eats
+41446,,Gonatus madokai,,eats
+41446,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+41446,1274227,Phyllobothrium,,eatenBy
+41446,41521,Orcinus orca,Orca,eatenBy
+41446,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+41446,63770,Engraulis mordax,Northern Anchovy,preysOn
+41446,47645,Cottidae,Typical Sculpins,preysOn
+41446,91362,Protomyctophum,,preysOn
+41446,113994,Thaleichthys pacificus,Eulachon,preysOn
+41446,432432,Gonatus pyros,Fiery Gonate Squid,preysOn
+41446,218322,Diaphus theta,California Headlightfish,preysOn
+41446,,Nannobrachium ritteri,,preysOn
+41446,117545,Parophrys vetulus,English sole,preysOn
+41446,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+41446,117544,Isopsetta isolepis,butter sole,preysOn
+41446,222140,Icelinus borealis,Northern Sculpin,preysOn
+41446,231540,Stenobrachius leucopsarus,Northern Lampfish,preysOn
+41446,47525,Pleuronectidae,Righteye Flounders,preysOn
+41446,337529,Gonatus,Gonate Squids,preysOn
+41446,337528,Gonatidae,Armhook Squids,preysOn
+41446,63691,Cololabis saira,Pacific Saury,preysOn
+41446,105599,Merluccius productus,Pacific Hake,preysOn
+41446,165100,Mallotus villosus,Capelin,preysOn
+41446,,Onychoteuthis borealijaponicus,,preysOn
+41446,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+41446,117569,Microgadus proximus,Pacific Tomcod,preysOn
+41446,614161,Gadus chalcogrammus,Alaska Pollock,preysOn
+41446,337526,Gonatus berryi,Berry's Gonate Squid,preysOn
+41446,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+41446,117571,Clupea pallasii,Pacific herring,preysOn
+41446,180030,Glyptocephalus zachirus,Rex Sole,preysOn
+41446,432390,Berryteuthis magister,Schoolmaster Armhook Squid,preysOn
+41446,,Gonatus madokai,,preysOn
+41446,432421,Galiteuthis phyllura,Cockatoo Squid,preysOn
+41446,47878,Watasenia scintillans,Firefly Squid,preysOn
+41446,,Eogonatus tinro,,preysOn

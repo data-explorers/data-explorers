@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50763,171821,Solemya,,eats
+50763,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+50763,61387,Limanda limanda,Sand Dab,eatenBy
+50763,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+50763,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+50763,115188,Xyrichtys novacula,Pearly Razorfish,eatenBy
+50763,620519,Sebastes capensis,false jacobever,eatenBy
+50763,49637,Epinephelus morio,Red Grouper,eatenBy
+50763,95066,Balistes vetula,Queen Triggerfish,eatenBy
+50763,364941,Argyrops spinifer,Frypan Bream,eatenBy
+50763,179561,Bothus robinsi,Twospot Flounder,eatenBy
+50763,91684,Rhabdosargus,Stumpnoses,eatenBy
+50763,245762,Acanthopagrus latus,Yellowfin Seabream,eatenBy
+50763,7031,Melanitta,Scoters,eatenBy
+50763,7047,Aythya marila,Greater Scaup,eatenBy

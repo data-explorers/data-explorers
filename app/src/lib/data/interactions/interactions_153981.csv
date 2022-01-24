@@ -1,0 +1,159 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+153981,59699,Velella,,eats
+153981,64648,Jassa,,eats
+153981,85493,Crustacea,Crustaceans,eats
+153981,68764,Ostracoda,Seed Shrimp,eats
+153981,47115,Mollusca,Molluscs,eats
+153981,121643,Copepoda,Copepods,eats
+153981,47114,Gastropoda,Gastropods,eats
+153981,153112,Euphausiacea,krill,eats
+153981,85912,Mysidae,,eats
+153981,59115,Gambusia affinis,Western Mosquitofish,eats
+153981,1,Animalia,Animals,eats
+153981,47490,Polychaeta,Polychaete Worms,eats
+153981,151827,Chaetognatha,Arrow Worms,eats
+153981,117666,Pleuroncodes planipes,Tuna Crab,eats
+153981,54662,Mugil,Common Mullets,eats
+153981,,Medusozoa,,eats
+153981,47525,Pleuronectidae,Righteye Flounders,eats
+153981,,Gnathostomata,,eats
+153981,47762,Sebastes,Rockfishes,eats
+153981,51415,Megalops,,eats
+153981,144115,Cumacea,Hooded Shrimp,eats
+153981,,Adinia xenica,,eats
+153981,,Palaemonetes pugio,,eats
+153981,179593,Fundulus similis,Longnose Killifish,eats
+153981,,Metamysidopsis elongata,,eats
+153981,101057,Fundulus grandis,Gulf Killifish,eats
+153981,105567,Menidia beryllina,Inland Silverside,eats
+153981,203397,Acartia tonsa,,eats
+153981,,Farfantepenaeus duorarum,,eats
+153981,254003,Opalia hotessieriana,,eats
+153981,248193,Mysidopsis,,eats
+153981,41708,Phoca vitulina,Harbor Seal,eatenBy
+153981,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+153981,41728,Mirounga angustirostris,Northern Elephant Seal,eatenBy
+153981,4353,Larus heermanni,Heermann's Gull,eatenBy
+153981,41510,Lagenorhynchus obliquidens,Pacific White-sided Dolphin,eatenBy
+153981,41446,Phocoenoides dalli,Dall's Porpoise,eatenBy
+153981,4553,Cerorhinca monocerata,Rhinoceros Auklet,eatenBy
+153981,4092,Puffinus,Small Shearwaters,eatenBy
+153981,41860,Enhydra lutris,Sea Otter,eatenBy
+153981,41740,Zalophus californianus,California Sea Lion,eatenBy
+153981,4385,Larus californicus,California Gull,eatenBy
+153981,4519,Uria aalge,Common Murre,eatenBy
+153981,41440,Phocoena phocoena,Harbour Porpoise,eatenBy
+153981,114122,Thunnus alalunga,Albacore,eatenBy
+153981,69676,Thunnus,Bluefin Tunas,eatenBy
+153981,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+153981,188252,Sarda chiliensis,Eastern Pacific Bonito,eatenBy
+153981,188560,Thunnus orientalis,Pacific Bluefin Tuna,eatenBy
+153981,110361,Prionace glauca,Blue Shark,eatenBy
+153981,106258,Mustelus henlei,Brown Smooth-hound,eatenBy
+153981,64478,Sebastes entomelas,Widow Rockfish,eatenBy
+153981,52539,Ophiodon elongatus,Lingcod,eatenBy
+153981,41746,Arctocephalus townsendi,Guadalupe Fur Seal,eatenBy
+153981,41532,Globicephala macrorhynchus,Short-finned Pilot Whale,eatenBy
+153981,,Puffinus tenuirostris,,eatenBy
+153981,41464,Kogia breviceps,Pygmy Sperm Whale,eatenBy
+153981,41757,Callorhinus ursinus,Northern Fur Seal,eatenBy
+153981,4494,Rissa tridactyla,Black-legged Kittiwake,eatenBy
+153981,,Puffinus griseus,,eatenBy
+153981,4356,Larus canus,Mew Gull,eatenBy
+153981,48415,Citharichthys sordidus,Pacific sanddab,eatenBy
+153981,,Sebastes goodei,,eatenBy
+153981,60021,Porichthys notatus,Plainfin Midshipman,eatenBy
+153981,51353,Anoplopoma fimbria,Sablefish,eatenBy
+153981,53692,Oncorhynchus kisutch,Coho Salmon,eatenBy
+153981,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+153981,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+153981,105599,Merluccius productus,Pacific Hake,eatenBy
+153981,228394,Pleuronichthys decurrens,Curlfin Sole,eatenBy
+153981,83172,Eopsetta jordani,Petrale sole,eatenBy
+153981,94840,Atractoscion nobilis,White Seabass,eatenBy
+153981,93644,Alepisaurus ferox,Longnose Lancetfish,eatenBy
+153981,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+153981,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+153981,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+153981,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+153981,84182,Hydrolagus colliei,Spotted Ratfish,eatenBy
+153981,,Sarda chiliensis lineolata,,eatenBy
+153981,115167,Xiphias gladius,Swordfish,eatenBy
+153981,,Genyonemus lineatus,,eatenBy
+153981,203397,Acartia tonsa,,preysOn
+153981,,Farfantepenaeus duorarum,,preysOn
+153981,,Palaemonetes pugio,,preysOn
+153981,41740,Zalophus californianus,California Sea Lion,preyedUponBy
+153981,41446,Phocoenoides dalli,Dall's Porpoise,preyedUponBy
+153981,41440,Phocoena phocoena,Harbour Porpoise,preyedUponBy
+153981,4553,Cerorhinca monocerata,Rhinoceros Auklet,preyedUponBy
+153981,41708,Phoca vitulina,Harbor Seal,preyedUponBy
+153981,41728,Mirounga angustirostris,Northern Elephant Seal,preyedUponBy
+153981,69677,Isurus oxyrinchus,Shortfin Mako,preyedUponBy
+153981,4531,Brachyramphus marmoratus,Marbled Murrelet,preyedUponBy
+153981,41480,Tursiops,Bottlenose Dolphins,preyedUponBy
+153981,4345,Larus occidentalis,Western Gull,preyedUponBy
+153981,4519,Uria aalge,Common Murre,preyedUponBy
+153981,4415,Cepphus columba,Pigeon Guillemot,preyedUponBy
+153981,114122,Thunnus alalunga,Albacore,preyedUponBy
+153981,41510,Lagenorhynchus obliquidens,Pacific White-sided Dolphin,preyedUponBy
+153981,4277,Phalacrocorax penicillatus,Brandt's Cormorant,preyedUponBy
+153981,4180,Fulmarus glacialis,Northern Fulmar,preyedUponBy
+153981,4353,Larus heermanni,Heermann's Gull,preyedUponBy
+153981,4385,Larus californicus,California Gull,preyedUponBy
+153981,69676,Thunnus,Bluefin Tunas,preyedUponBy
+153981,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy
+153981,41860,Enhydra lutris,Sea Otter,preyedUponBy
+153981,4092,Puffinus,Small Shearwaters,preyedUponBy
+153981,43584,Homo sapiens,Human,preyedUponBy
+153981,106258,Mustelus henlei,Brown Smooth-hound,preyedUponBy
+153981,4547,Ptychoramphus aleuticus,Cassin's Auklet,preyedUponBy
+153981,317370,Sebastes serriceps,Treefish,preyedUponBy
+153981,108561,Paralichthys californicus,California Halibut,preyedUponBy
+153981,41757,Callorhinus ursinus,Northern Fur Seal,preyedUponBy
+153981,41532,Globicephala macrorhynchus,Short-finned Pilot Whale,preyedUponBy
+153981,52539,Ophiodon elongatus,Lingcod,preyedUponBy
+153981,41559,Balaenoptera borealis,Sei Whale,preyedUponBy
+153981,95500,Bathyraja interrupta,Sandpaper Skate,preyedUponBy
+153981,41746,Arctocephalus townsendi,Guadalupe Fur Seal,preyedUponBy
+153981,64478,Sebastes entomelas,Widow Rockfish,preyedUponBy
+153981,110361,Prionace glauca,Blue Shark,preyedUponBy
+153981,94439,Apristurus brunneus,Brown Catshark,preyedUponBy
+153981,93696,Alopias vulpinus,Thresher Shark,preyedUponBy
+153981,64477,Sebastes flavidus,Yellowtail Rockfish,preyedUponBy
+153981,64450,Sebastes alutus,Pacific Ocean Perch,preyedUponBy
+153981,51353,Anoplopoma fimbria,Sablefish,preyedUponBy
+153981,54191,Oncorhynchus tshawytscha,Chinook Salmon,preyedUponBy
+153981,123962,Dosidicus gigas,Humboldt Squid,preyedUponBy
+153981,188252,Sarda chiliensis,Eastern Pacific Bonito,preyedUponBy
+153981,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preyedUponBy
+153981,53692,Oncorhynchus kisutch,Coho Salmon,preyedUponBy
+153981,,Raja rhina,,preyedUponBy
+153981,68050,Alopias pelagicus,Pelagic Thresher Shark,preyedUponBy
+153981,4623,Gavia arctica,Arctic Loon,preyedUponBy
+153981,4494,Rissa tridactyla,Black-legged Kittiwake,preyedUponBy
+153981,,Puffinus griseus,,preyedUponBy
+153981,4399,Larus glaucescens,Glaucous-winged Gull,preyedUponBy
+153981,,Puffinus tenuirostris,,preyedUponBy
+153981,,Puffinus creatopus,,preyedUponBy
+153981,4356,Larus canus,Mew Gull,preyedUponBy
+153981,115167,Xiphias gladius,Swordfish,preyedUponBy
+153981,,Sarda chiliensis lineolata,,preyedUponBy
+153981,94840,Atractoscion nobilis,White Seabass,preyedUponBy
+153981,47516,Oncorhynchus mykiss,Rainbow Trout,preyedUponBy
+153981,41420,Hyperoodon planifrons,Southern Bottlenose Whale,preyedUponBy
+153981,74890,Physeter macrocephalus,Sperm Whale,preyedUponBy
+153981,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy
+153981,69840,Scomber japonicus,Pacific Chub Mackerel,preyedUponBy
+153981,84182,Hydrolagus colliei,Spotted Ratfish,preyedUponBy
+153981,93644,Alepisaurus ferox,Longnose Lancetfish,preyedUponBy
+153981,,no name,,preyedUponBy
+153981,60021,Porichthys notatus,Plainfin Midshipman,preyedUponBy
+153981,83172,Eopsetta jordani,Petrale sole,preyedUponBy
+153981,48415,Citharichthys sordidus,Pacific sanddab,preyedUponBy
+153981,,Genyonemus lineatus,,preyedUponBy
+153981,228394,Pleuronichthys decurrens,Curlfin Sole,preyedUponBy
+153981,,Sebastes goodei,,preyedUponBy
+153981,53701,Hippoglossus stenolepis,Pacific Halibut,preyedUponBy
+153981,41464,Kogia breviceps,Pygmy Sperm Whale,preyedUponBy
+153981,105599,Merluccius productus,Pacific Hake,preyedUponBy

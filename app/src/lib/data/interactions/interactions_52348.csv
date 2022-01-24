@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52348,48550,Phoebis sennae,Cloudless Sulphur,eatenBy
+52348,,Eurema smilax,,eatenBy
+52348,,Polyozus galbanus,,eatenBy
+52348,,Anteos clorinde,,eatenBy
+52348,48578,Anteos maerula,Yellow Angled-Sulphur,eatenBy
+52348,,Rhizoecus,,eatenBy
+52348,,Pyrisitia portoricensis,,eatenBy
+52348,,Theope phaeo,,eatenBy
+52348,,Pyrisitia proterpia,,eatenBy
+52348,,Phoebis argante,,eatenBy
+52348,133416,Phoebis philea,Orange-barred Sulphur,eatenBy
+52348,,Eurema albula,,eatenBy
+52348,,Juditha caucana,,eatenBy
+52348,,Nymphidium onaeum,,eatenBy
+52348,,Eurema elathea,,eatenBy
+52348,149412,Eurema brigitta,Broad-bordered Grass Yellow,eatenBy
+52348,,Catopsilia pomona,,eatenBy
+52348,143076,Catopsilia pyranthe,Mottled Emigrant,eatenBy
+52348,,Catopsilia florella,,eatenBy
+52348,,Catopsilia scylla,,eatenBy
+52348,213959,Aphrissa statira,Statira Sulphur,eatenBy
+52348,,Astraptes fulgerator,,eatenBy
+52348,312651,Phoebis philea philea,American Orange-barred Sulphur,eatenBy
+52348,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+52348,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

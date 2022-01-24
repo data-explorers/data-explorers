@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126393,85493,Crustacea,Crustaceans,eats
+126393,121643,Copepoda,Copepods,eats
+126393,47115,Mollusca,Molluscs,eats
+126393,47114,Gastropoda,Gastropods,eats
+126393,47584,Bivalvia,Bivalves,eats
+126393,1,Animalia,Animals,eats
+126393,,Gnathostomata,,eats
+126393,128750,Sciaenops ocellatus,Red Drum,eats
+126393,47585,Crassostrea virginica,Eastern Oyster,eats
+126393,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+126393,49316,Chaetodipterus faber,Atlantic Spadefish,eatenBy
+126393,131045,Menippe mercenaria,Florida Stone Crab,eatenBy
+126393,295474,Libinia dubia,Longnose Spider Crab,eatenBy
+126393,39677,Dermochelys coriacea,Leatherback Sea Turtle,preyedUponBy
+126393,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy

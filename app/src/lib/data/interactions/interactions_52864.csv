@@ -1,0 +1,131 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52864,174572,Callibaetis,Speckled Duns,eats
+52864,84670,Ephydridae,Shore Flies,eats
+52864,54960,Nematoda,Nematodes,eats
+52864,64970,Anaxyrus boreas,Western Toad,eats
+52864,129189,Hyalella,,eats
+52864,53275,Chironomidae,Non-biting Midges,eats
+52864,59653,Gerridae,Water Striders,eats
+52864,133623,Tropisternus,,eats
+52864,67731,Anax junius,Common Green Darner,eats
+52864,81576,Belostoma,,eats
+52864,27818,Taricha torosa,California Newt,eats
+52864,52864,Tramea,Saddlebag Gliders,eats
+52864,,Echinostoma trivolvis,,eats
+52864,,Halipegus,,eats
+52864,177989,Haliplus,,eats
+52864,,Lestes,,eats
+52864,121463,Arrenurus,Water Mites,eats
+52864,124813,Alaria,,eats
+52864,24259,Pseudacris regilla,Northern Pacific Tree Frog,eats
+52864,,Cephalogonimus americanus,,eats
+52864,,Ribeiroia ondatrae,,eats
+52864,,Planorbella,,eats
+52864,,Gregarinidae,,eats
+52864,67016,Rana draytonii,California Red-legged Frog,eats
+52864,,Adonisea,,eats
+52864,,Hesperocorixa,,eats
+52864,,Lethocerus americanus,,eats
+52864,171609,Simocephalus,,eats
+52864,68304,Cyzicus californicus,California Clam Shrimp,eats
+52864,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+52864,,Zooplankton,,eats
+52864,,Dero,,eats
+52864,,Megalodiscus,,eats
+52864,,Macrocyclops,,eats
+52864,,meiofauna,,eats
+52864,,Chaetogaster,,eats
+52864,,Erpobdella,,eats
+52864,,Corynosoma constrictum,,eats
+52864,,Daubaylia,,eats
+52864,,Echinostoma,,eats
+52864,,Diaptomidae,,eats
+52864,51679,Coenagrion,Northern Bluets,eats
+52864,69803,Ceratopogonidae,Biting Midges,eats
+52864,,Batrachochytrium dendrobatidis,,eats
+52864,,Tubificidae,,eats
+52864,,Opalina,,eats
+52864,56557,Notonecta,Milky Backswimmers,eats
+52864,,Nyctotherus,,eats
+52864,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+52864,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+52864,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+52864,64970,Anaxyrus boreas,Western Toad,eatenBy
+52864,473,Fulica americana,American Coot,eatenBy
+52864,67731,Anax junius,Common Green Darner,eatenBy
+52864,4956,Ardea herodias,Great Blue Heron,eatenBy
+52864,27818,Taricha torosa,California Newt,eatenBy
+52864,133623,Tropisternus,,eatenBy
+52864,81576,Belostoma,,eatenBy
+52864,52864,Tramea,Saddlebag Gliders,eatenBy
+52864,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+52864,11901,Hirundo rustica,Barn Swallow,eatenBy
+52864,,Argiope aurantia,,eatenBy
+52864,24259,Pseudacris regilla,Northern Pacific Tree Frog,eatenBy
+52864,,Lethocerus americanus,,eatenBy
+52864,,Halipegus,,eatenBy
+52864,51679,Coenagrion,Northern Bluets,eatenBy
+52864,56557,Notonecta,Milky Backswimmers,eatenBy
+52864,67016,Rana draytonii,California Red-legged Frog,eatenBy
+52864,,Gregarinidae,,eatenBy
+52864,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+52864,121463,Arrenurus,Water Mites,eatenBy
+52864,,Lestes,,eatenBy
+52864,133623,Tropisternus,,preysOn
+52864,81576,Belostoma,,preysOn
+52864,52864,Tramea,Saddlebag Gliders,preysOn
+52864,84670,Ephydridae,Shore Flies,preysOn
+52864,53275,Chironomidae,Non-biting Midges,preysOn
+52864,129189,Hyalella,,preysOn
+52864,59653,Gerridae,Water Striders,preysOn
+52864,174572,Callibaetis,Speckled Duns,preysOn
+52864,64970,Anaxyrus boreas,Western Toad,preysOn
+52864,27818,Taricha torosa,California Newt,preysOn
+52864,67731,Anax junius,Common Green Darner,preysOn
+52864,,Ribeiroia ondatrae,,preysOn
+52864,124813,Alaria,,preysOn
+52864,69803,Ceratopogonidae,Biting Midges,preysOn
+52864,177989,Haliplus,,preysOn
+52864,,Dero,,preysOn
+52864,,Echinostoma trivolvis,,preysOn
+52864,68304,Cyzicus californicus,California Clam Shrimp,preysOn
+52864,56557,Notonecta,Milky Backswimmers,preysOn
+52864,,Erpobdella,,preysOn
+52864,,Echinostoma,,preysOn
+52864,,Hesperocorixa,,preysOn
+52864,67016,Rana draytonii,California Red-legged Frog,preysOn
+52864,,meiofauna,,preysOn
+52864,51679,Coenagrion,Northern Bluets,preysOn
+52864,,Lestes,,preysOn
+52864,,Macrocyclops,,preysOn
+52864,,Diaptomidae,,preysOn
+52864,,Tubificidae,,preysOn
+52864,,Zooplankton,,preysOn
+52864,177749,Hydrophilus,Giant Water Scavenger Beetles,preysOn
+52864,,Pseudiacris regilla,,preysOn
+52864,171609,Simocephalus,,preysOn
+52864,,Chaetogaster,,preysOn
+52864,,Halipegus,,preysOn
+52864,,Megalodiscus,,preysOn
+52864,,Cephalogonimus americanus,,preysOn
+52864,,Letherocerus americanus,,preysOn
+52864,148201,Helisoma,,preysOn
+52864,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+52864,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+52864,67731,Anax junius,Common Green Darner,preyedUponBy
+52864,133623,Tropisternus,,preyedUponBy
+52864,81576,Belostoma,,preyedUponBy
+52864,11901,Hirundo rustica,Barn Swallow,preyedUponBy
+52864,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+52864,473,Fulica americana,American Coot,preyedUponBy
+52864,27818,Taricha torosa,California Newt,preyedUponBy
+52864,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+52864,52864,Tramea,Saddlebag Gliders,preyedUponBy
+52864,11935,Tachycineta bicolor,Tree Swallow,preyedUponBy
+52864,,Lestes,,preyedUponBy
+52864,51679,Coenagrion,Northern Bluets,preyedUponBy
+52864,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+52864,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+52864,,Pseudiacris regilla,,preyedUponBy
+52864,56557,Notonecta,Milky Backswimmers,preyedUponBy
+52864,,Letherocerus americanus,,preyedUponBy

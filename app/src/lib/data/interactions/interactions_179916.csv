@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+179916,7562,Troglodytes aedon,House Wren,eatenBy
+179916,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+179916,117002,Phainopepla nitens,Phainopepla,eatenBy
+179916,17013,Sayornis nigricans,Black Phoebe,eatenBy
+179916,9100,Melospiza melodia,Song Sparrow,eatenBy
+179916,13858,Passer domesticus,House Sparrow,eatenBy
+179916,47383,Latrodectus geometricus,Brown Widow,eatenBy
+179916,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+179916,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+179916,,Zelus longipes,,eatenBy
+179916,486456,Colonus sylvanus,Sylvan Jumping Spider,eatenBy
+179916,,Ischnura hastata,,eatenBy
+179916,,Scathophaga stercoraria,,eatenBy
+179916,145256,Setophaga occidentalis,Hermit Warbler,eatenBy
+179916,61495,Erythemis simplicicollis,Eastern Pondhawk,eatenBy
+179916,,Micrathena sagittata,,eatenBy
+179916,68315,Lyssomanes viridis,Magnolia Green Jumping Spider,eatenBy
+179916,,Empis tessellata,,eatenBy
+179916,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+179916,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+179916,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+179916,67328,Pholcus phalangioides,Long-bodied Cellar Spider,preyedUponBy
+179916,891704,Vireo olivaceus,Red-eyed Vireo,preyedUponBy
+179916,,Cryptachaea gigantipes,,preyedUponBy
+179916,,Drosera auriculata,,preyedUponBy
+179916,,Rhipidura fuliginosa placabilis,,preyedUponBy
+179916,,Argiope aurantia,,preyedUponBy
+179916,121445,Eris militaris,Bronze Jumping Spider,preyedUponBy
+179916,,Phidippus purpuratus,,preyedUponBy
+179916,127777,Vespula vulgaris,Common European Yellowjacket,preyedUponBy
+179916,,Rhionaeschna californica,,preyedUponBy
+179916,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+179916,985830,Indopadilla insularis,,preyedUponBy
+179916,,Araneus cavaticus,,preyedUponBy

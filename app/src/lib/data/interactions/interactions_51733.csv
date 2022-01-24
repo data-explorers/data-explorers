@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51733,906,Meleagris gallopavo,Wild Turkey,eatenBy
+51733,,Carollia brevicauda,,eatenBy
+51733,,Heliothis virescens,,eatenBy
+51733,,Heliothis subflexa,,eatenBy
+51733,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+51733,,Leptinotarsa decemlineata,,eatenBy
+51733,,Tetraleurodes,,eatenBy
+51733,,Sturnira lilium,,eatenBy
+51733,2090,Ortalis vetula,Plain Chachalaca,eatenBy
+51733,,Cyrtonyx montezumae,,eatenBy
+51733,,Colletes latitarsis,,pollinatedBy

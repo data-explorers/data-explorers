@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48834,118832,Semibalanus balanoides,Northern Acorn Barnacle,eats
+48834,117650,Mytilus edulis,Blue Mussel,eats
+48834,47679,Patellogastropoda,True Limpets,eats
+48834,48919,Littorina,Periwinkles,eats
+48834,47114,Gastropoda,Gastropods,eats
+48834,48788,Pollicipes,,eats
+48834,62806,Mytilus californianus,California Mussel,eats
+48834,53831,Tegula,Tegulas,eats
+48834,210289,Cirripedia,Barnacles,eats
+48834,49128,Balanidae,,eats
+48834,144117,Thecostraca,Barnacles and Allies,eats
+48834,,Searlesia,,eats
+48834,193907,Thais,,eats
+48834,47428,Neoloricata,Neoloricate Chitons,eats
+48834,,Katharina,,eats
+48834,,Seariesia,,eats
+48834,62806,Mytilus californianus,California Mussel,preysOn
+48834,144117,Thecostraca,Barnacles and Allies,preysOn
+48834,53831,Tegula,Tegulas,preysOn
+48834,117650,Mytilus edulis,Blue Mussel,preysOn
+48834,47679,Patellogastropoda,True Limpets,preysOn
+48834,48788,Pollicipes,,preysOn
+48834,49128,Balanidae,,preysOn
+48834,48919,Littorina,Periwinkles,preysOn
+48834,47114,Gastropoda,Gastropods,preysOn
+48834,,Katharina,,preysOn
+48834,,Seariesia,,preysOn
+48834,47428,Neoloricata,Neoloricate Chitons,preysOn
+48834,193907,Thais,,preysOn

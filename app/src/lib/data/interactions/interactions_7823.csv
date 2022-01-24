@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7823,144455,Ardea alba,Great Egret,eats
+7823,19743,Megascops kennicottii,Western Screech-Owl,eats
+7823,5416,Ictinia mississippiensis,Mississippi Kite,eats
+7823,,Anodorhynchus hyacinthinus,,eats
+7823,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+7823,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+7823,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+7823,,Aquila chrysaetos,,eatenBy
+7823,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+7823,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+7823,8021,Corvus brachyrhynchos,American Crow,preyedUponBy
+7823,5108,Accipiter gentilis,Northern Goshawk,preyedUponBy

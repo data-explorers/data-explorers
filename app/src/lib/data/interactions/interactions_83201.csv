@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83201,52788,Acari,Mites and Ticks,eats
+83201,47170,Fungi,Fungi Including Lichens,eats
+83201,49470,Collembola,Springtails,eats
+83201,47126,Plantae,plants,eats
+83201,53211,Senecio vulgaris,common groundsel,eats
+83201,71257,Bouteloua gracilis,Blue Grama,eats
+83201,57983,Helianthus annuus,Common Sunflower,eats
+83201,,Glycine max,,eats
+83201,,nectar and floral,,eats
+83201,,leaves,,eats
+83201,,Atriplex canescens,,eats
+83201,166864,Picradeniopsis oppositifolia,Oppositeleaf False Bahia,eats
+83201,,Hesperostipa comata,,eats
+83201,78836,Ratibida columnifera,upright prairie coneflower,eats
+83201,,Pascopyrum smithii,,eats
+83201,146898,Artemisia frigida,fringed sagebrush,eats
+83201,169944,Tridax procumbens,Tridax daisy,eats
+83201,,Ileostylus micranthus,,eats
+83201,,Nectar and floral,,eats
+83201,,Leaves,,eats
+83201,52790,Mesostigmata,Mesostigs,eats
+83201,,soybean plant,,eats
+83201,52788,Acari,Mites and Ticks,eatenBy
+83201,47118,Araneae,Spiders,eatenBy
+83201,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eatenBy
+83201,47119,Arachnida,Arachnids,eatenBy
+83201,10247,Setophaga ruticilla,American Redstart,eatenBy
+83201,36432,Anolis gingivinus,Anguilla Anole,eatenBy
+83201,10199,Coereba flaveola,Bananaquit,eatenBy
+83201,36582,Anolis pogus,bearded anole,eatenBy
+83201,,Orius insidiosus,,eatenBy
+83201,252397,Aeolothrips,,eatenBy
+83201,,Anthracothorax viridis,,eatenBy
+83201,,Eleutherodactylus wightmanae,,eatenBy
+83201,,Amphisbaena caeca,,eatenBy
+83201,,Eleutherodactylus coqui,,eatenBy
+83201,33730,Sphaerodactylus klauberi,Puerto Rican Upland Sphaero,eatenBy
+83201,22423,Eleutherodactylus richmondi,Ground Coqui,eatenBy
+83201,1120226,Sphaerodactylus macrolepis,,eatenBy
+83201,36445,Anolis evermanni,Emerald anole,eatenBy
+83201,36427,Anolis gundlachi,Gundlach’s Anole,eatenBy
+83201,22411,Eleutherodactylus portoricensis,Forest Coqui,eatenBy
+83201,,Pacifastacus leniusculus,,eatenBy
+83201,126513,Larinioides cornutus,Furrow Orbweaver,eatenBy
+83201,50867,Argiope bruennichi,Wasp Spider,eatenBy
+83201,,Metellina segmentata,,eatenBy
+83201,52628,Araneus diadematus,Cross Orbweaver,eatenBy
+83201,121782,Araneus quadratus,Four-spot Orbweaver,eatenBy
+83201,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+83201,,Colibri coruscans,,eatenBy
+83201,,Tachysurus brashnikowi,,eatenBy
+83201,,Coerebidae,,eatenBy
+83201,,Phytoseiulus persimilis,,eatenBy
+83201,101204,Gambusia holbrooki,Eastern Mosquitofish,eatenBy
+83201,105567,Menidia beryllina,Inland Silverside,eatenBy
+83201,10442,Limnothlypis swainsonii,Swainson's Warbler,eatenBy
+83201,13732,Anthus rubescens,American Pipit,eatenBy
+83201,542,Coturnicops noveboracensis,Yellow Rail,eatenBy
+83201,,Setophaga caerulescens,,eatenBy
+83201,145249,Setophaga discolor,Prairie Warbler,eatenBy
+83201,145233,Setophaga americana,Northern Parula,eatenBy
+83201,180413,Rhododendron groenlandicum,Labrador tea,pollinates
+83201,181635,Argyranthemum frutescens,Marguerite daisy,pollinates
+83201,133250,Tettigonia viridissima,Great Green Bush-cricket,pollinates
+83201,,Dryas integrifolia,,pollinates
+83201,,Saxifraga tricuspidata,,pollinates
+83201,,Cerastium alpinum,,pollinates
+83201,,Rhododendron lapponicum,,pollinates
+83201,,Menonvillea hookeri ,,pollinates
+83201,,Senecio looseri ,,pollinates
+83201,,Senecio tricephalus ,,pollinates
+83201,,Anoura caudifer,,preyedUponBy
+83201,41137,Anoura geoffroyi,Geoffroy's tailless bat,preyedUponBy
+83201,,Mystacina tuberculata,,preyedUponBy
+83201,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+83201,40576,Nyctalus lasiopterus,Giant Noctule,preyedUponBy
+83201,,Spilomena troglodytes,,preyedUponBy
+83201,,Spilomena enslini,,preyedUponBy
+83201,,Spilomena curruca,,preyedUponBy
+83201,,Spilomena beata,,preyedUponBy
+83201,,Orius insidiosus,,preyedUponBy
+83201,252397,Aeolothrips,,preyedUponBy
+83201,,Phytoseiulus persimilis,,preyedUponBy

@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+29033,36299,Phrynosoma,Horned Lizards,eats
+29033,3460,Zenaida asiatica,White-winged Dove,eats
+29033,20445,Tyto alba,Barn Owl,eatenBy
+29033,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy

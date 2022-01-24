@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52672,49556,Chilopoda,Centipedes,eats
+52672,,Pseudomonas,,eats
+52672,,Chryseobacterium,,eats
+52672,,Sphingomonas,,eats
+52672,,Detritus,,eats
+52672,,Cytophagales,,eats
+52672,,Bacillus/soil bacterium,,eats
+52672,,Microbacterium,,eats
+52672,,Flectobacillus,,eats
+52672,,Klebsiella,,eats
+52672,,Eukaryote- yeast,,eats
+52672,,Chromobacterium,,eats
+52672,560379,Rhizobium rhizogenes,,eats
+52672,,Rhodoferax,,eats
+52672,,Chromobacterium violaceum,,eats
+52672,,Gueneria similaria,,eatenBy
+52672,,Thosea,,eatenBy
+52672,,Blasticotoma filiceti,,eatenBy
+52672,,Trechispora minima,,eatenBy
+52672,,Trechispora dimitica,,eatenBy
+52672,,Typhula todei,,eatenBy
+52672,,Trechispora stellulata,,eatenBy
+52672,,Trechispora praefocata,,eatenBy
+52672,,Phlebiella filicina,,eatenBy
+52672,774085,Mycena pterigena,ferny bonnet,eatenBy
+52672,,Luellia recondita,,eatenBy
+52672,,Oliveonia pauxilla,,eatenBy
+52672,,Parvobasidium cretatum,,eatenBy
+52672,,Phlebiella christiansenii,,eatenBy
+52672,,Hemimycena gypsella,,eatenBy
+52672,,Cephaloscypha mairei,,eatenBy
+52672,,Endoperplexa enodulosa,,eatenBy
+52672,,Flagelloscypha punctiformis,,eatenBy
+52672,,Athelopsis lembospora,,eatenBy
+52672,,Basidiodendron radians,,eatenBy
+52672,,Pteromycula clypeiformis,,eatenBy
+52672,,Leptopeltis holmorum,,eatenBy
+52672,,Ophiostoma spinosum,,eatenBy
+52672,,Phomatospora endopteris,,eatenBy
+52672,,Papaipema pterisii,,eatenBy
+52672,,Copepod unknown,,eatenBy
+52672,,Wyeomyia smithii,,eatenBy
+52672,60395,Branchiopoda,Branchiopods,eatenBy
+52672,,Fletcherimyia fletcheri,,eatenBy
+52672,,Dileptis,,eatenBy
+52672,522704,Psychoides filicivora,Fern Smut,eatenBy
+52672,,Euplexia lucipara,,eatenBy
+52672,,Chirosia betuleti,,eatenBy

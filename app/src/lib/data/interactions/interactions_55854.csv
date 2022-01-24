@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55854,61505,Manduca sexta,Carolina Sphinx,eatenBy
+55854,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+55854,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+55854,203403,Lema daturaphila,Three-lined Potato Beetle,eatenBy
+55854,395129,Phthorimaea operculella,Potato Tuber Moth,eatenBy
+55854,,Manduca quinquemaculatus,,eatenBy
+55854,,Liriomyza huidobrensis,,eatenBy
+55854,229306,Pterodoras granulosus,Granulated Catfish,eatenBy
+55854,,Papio ursinus,,eatenBy
+55854,,Tuta absoluta,,eatenBy
+55854,,Henosepilachna vigintioctopunctata,,eatenBy
+55854,301557,Euphoria basalis,,eatenBy
+55854,58586,Limenitis archippus,Viceroy,pollinatedBy
+55854,47822,Diptera,Flies,pollinatedBy
+55854,120114,Anthrenus,Carpet Beetles,pollinatedBy
+55854,130878,Anthrax,Charcoal Bee Flies,pollinatedBy
+55854,,Hyalurgus,,pollinatedBy
+55854,,Diabrotica longicornis,,pollinatedBy
+55854,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+55854,132236,Ochthera,,pollinatedBy
+55854,,Euphorus,,pollinatedBy
+55854,,Archytas analis,,pollinatedBy
+55854,,Onthophagus pennsylvanicus,,pollinatedBy
+55854,,Trineura,,pollinatedBy
+55854,,Rhamphomyia gilvipilosa,,pollinatedBy
+55854,,Anoplius illinoensis,,pollinatedBy
+55854,,Hylemya,,pollinatedBy
+55854,209574,Exetastes suaveolens,,pollinatedBy
+55854,,Coelioxys sayi,,pollinatedBy
+55854,454897,Bombylius atriceps,,pollinatedBy
+55854,,Cheilosia capillata,,pollinatedBy
+55854,,Scepsis,,pollinatedBy
+55854,52481,Volucella,,pollinatedBy
+55854,,Trachandrena,,pollinatedBy
+55854,248099,Scenopinus,,pollinatedBy
+55854,,Mordellistena comata,,pollinatedBy
+55854,320563,Anthocomus,,pollinatedBy
+55854,,Anthemurgus passiflorae,,pollinatedBy
+55854,,http://treatment.plazi.org/id/789E991BAABCFD603BDD0FA07013DB1D,,pollinatedBy
+55854,,Physocephala tibialis,,pollinatedBy
+55854,,Euschistus ictericus,,pollinatedBy
+55854,,Eumea caesar,,pollinatedBy

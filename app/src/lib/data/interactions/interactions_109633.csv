@@ -1,0 +1,89 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+109633,47158,Insecta,Insects,eats
+109633,47336,Formicidae,Ants,eats
+109633,47178,Actinopterygii,Ray-finned Fishes,eats
+109633,,no name,,eats
+109633,103606,Jenkinsia lamprotaenia,Dwarf Round Herring,eats
+109633,984283,Euterpina acutifrons,,eats
+109633,672393,Lensia subtiloides,,eats
+109633,,Paracalanus crassirostris,,eats
+109633,,Corycaeus amazonicus,,eats
+109633,,Acartia spinata,,eats
+109633,,Podon,,eats
+109633,,Labidocera acutifrons,,eats
+109633,,Oithona oculata,,eats
+109633,,Oithona simplex,,eats
+109633,679266,Oikopleura longicauda,,eats
+109633,983551,Oithona colcarva,,eats
+109633,,Paracalanus parvus,,eats
+109633,260836,Lestrigonus bengalensis,,eats
+109633,,Undinula vulgaris,,eats
+109633,203397,Acartia tonsa,,eats
+109633,97983,Clepticus parrae,Creole Wrasse,eats
+109633,1187835,Eurydice littoralis,,eats
+109633,665296,Eudoxoides spiralis,,eats
+109633,260881,Glossocephalus milneedwardsi,,eats
+109633,,Oithona plumifera,,eats
+109633,646396,Abylopsis eschscholtzi,,eats
+109633,984299,Paracalanus aculeatus,,eats
+109633,,Acartia lilljeborgii,,eats
+109633,,Serratosagitta serratodentata,,eats
+109633,662468,Diphyes bojani,,eats
+109633,329111,Oncaea venusta,,eats
+109633,,Corycaeus subulatus,,eats
+109633,,Euchaeta marina,,eats
+109633,777091,Fritillaria haplostoma,,eats
+109633,,Hypoatherina harringtonensis,,eats
+109633,,Farranula gracilis,,eats
+109633,329012,Centropages furcatus,,eats
+109633,256123,Flaccisagitta enflata,,eats
+109633,1240182,Oithona nana,,eats
+109633,480204,Microsetella rosea,,eats
+109633,679265,Oikopleura dioica,,eats
+109633,329108,Oncaea mediterranea,,eats
+109633,260814,Brachyscelus crusculum,,eats
+109633,472067,Penilia avirostris,,eats
+109633,201723,Abylopsis tetragona,,eats
+109633,,Krohnitta subtilis,,eats
+109633,89183,Jenkinsia,,eats
+109633,,Gnathostomata,,eats
+109633,3797,Sula leucogaster,Brown Booby,eatenBy
+109633,56764,Sphyrna lewini,Scalloped Hammerhead,eatenBy
+109633,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+109633,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+109633,188767,Carcharhinus perezii,Caribbean Reef Shark,eatenBy
+109633,47251,Sphyraena barracuda,Great Barracuda,eatenBy
+109633,49964,Ginglymostoma cirratum,Nurse Shark,eatenBy
+109633,49297,Aetobatus narinari,Spotted Eagle Ray,eatenBy
+109633,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+109633,96745,Carcharhinus acronotus,Blacknose Shark,eatenBy
+109633,106650,Negaprion brevirostris,Lemon Shark,eatenBy
+109633,49617,Scomberomorus regalis,Cero,eatenBy
+109633,112960,Sphyrna tiburo,Bonnethead,eatenBy
+109633,111750,Rhizoprionodon porosus,Caribbean Sharpnose Shark,eatenBy
+109633,4537,Anous minutus,Black Noddy,eatenBy
+109633,3788,Sula dactylatra,Masked Booby,eatenBy
+109633,,Krohnitta subtilis,,preysOn
+109633,329111,Oncaea venusta,,preysOn
+109633,480204,Microsetella rosea,,preysOn
+109633,984283,Euterpina acutifrons,,preysOn
+109633,260881,Glossocephalus milneedwardsi,,preysOn
+109633,679265,Oikopleura dioica,,preysOn
+109633,,Hypoatherina harringtonensis,,preysOn
+109633,,Acartia spinata,,preysOn
+109633,,Microfauna,,preysOn
+109633,103606,Jenkinsia lamprotaenia,Dwarf Round Herring,preysOn
+109633,646396,Abylopsis eschscholtzi,,preysOn
+109633,49617,Scomberomorus regalis,Cero,preyedUponBy
+109633,188767,Carcharhinus perezii,Caribbean Reef Shark,preyedUponBy
+109633,96754,Carcharhinus falciformis,Silky Shark,preyedUponBy
+109633,52299,Galeocerdo cuvier,Tiger Shark,preyedUponBy
+109633,49297,Aetobatus narinari,Spotted Eagle Ray,preyedUponBy
+109633,49961,Mustelus canis,Dusky Smooth-hound,preyedUponBy
+109633,56764,Sphyrna lewini,Scalloped Hammerhead,preyedUponBy
+109633,49964,Ginglymostoma cirratum,Nurse Shark,preyedUponBy
+109633,111750,Rhizoprionodon porosus,Caribbean Sharpnose Shark,preyedUponBy
+109633,112960,Sphyrna tiburo,Bonnethead,preyedUponBy
+109633,96745,Carcharhinus acronotus,Blacknose Shark,preyedUponBy
+109633,47251,Sphyraena barracuda,Great Barracuda,preyedUponBy
+109633,106650,Negaprion brevirostris,Lemon Shark,preyedUponBy

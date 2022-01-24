@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47796,63740,Gadus morhua,Atlantic Cod,eatenBy
+47796,416585,Scophthalmus maximus,Turbot,eatenBy
+47796,430553,Merlangius merlangus,Whiting,eatenBy
+47796,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47796,101176,Galeorhinus galeus,School Shark,eatenBy
+47796,,Psetta maxima,,eatenBy
+47796,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+47796,52966,Phacellophora camtschatica,Egg-yolk Jelly,preysOn

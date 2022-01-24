@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129662,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,eatenBy
+129662,128670,Bombus vagans,Half-black Bumble Bee,preysOn
+129662,47219,Apis mellifera,Western Honey Bee,preysOn
+129662,,Leptoglossus phyllopus,,preysOn

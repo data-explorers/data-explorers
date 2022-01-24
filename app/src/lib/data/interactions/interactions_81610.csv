@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81610,47126,Plantae,plants,eats
+81610,123880,Bacillariophyceae,Diatoms,eats
+81610,,Zooplankton,,eats
+81610,,detritus - plankton,,eats
+81610,,plankton,,eats
+81610,,Phytoplankton,,eats
+81610,,Detritus complex,,eats
+81610,3941,Arenaria melanocephala,Black Turnstone,eatenBy
+81610,43584,Homo sapiens,Human,eatenBy
+81610,48752,Lottia,Lottia Limpets,eatenBy
+81610,3836,Calidris,Calidris Sandpipers,eatenBy
+81610,63243,Lottia pelta,Shield Limpet,eatenBy
+81610,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+81610,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+81610,49052,Anthopleura,,eatenBy
+81610,429195,Nucella emarginata,Emarginate Dogwinkle,eatenBy
+81610,,Typosyllis adamanteus,,eatenBy
+81610,337278,Emplectonema,,eatenBy
+81610,,Thais emarginata,,eatenBy
+81610,,Acanthina spirata,,eatenBy
+81610,450669,Phyteuma nigrum,Black Rampion,eatenBy
+81610,83329,Buccinidae,True Whelks,eatenBy
+81610,,Evasterias troscheli,,eatenBy
+81610,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+81610,117641,Nucella lamellosa,Wrinkled Purple,eatenBy
+81610,51283,Emplectonematidae,,eatenBy
+81610,,Leptasterias,,eatenBy
+81610,69998,Nucella canaliculata,Channeled Dog Winkle,eatenBy
+81610,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+81610,371067,Nucella lima,File Dog Winkle,eatenBy
+81610,49071,Metridium senile,Plumose Anemone,eatenBy
+81610,,Tectura scutum,,eatenBy
+81610,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+81610,51280,Nemertea,Ribbon Worms,eatenBy
+81610,123880,Bacillariophyceae,Diatoms,preysOn
+81610,,Zooplankton,,preysOn
+81610,,Detritus complex,,preysOn
+81610,,Phytoplankton,,preysOn
+81610,48752,Lottia,Lottia Limpets,preyedUponBy
+81610,49052,Anthopleura,,preyedUponBy
+81610,429195,Nucella emarginata,Emarginate Dogwinkle,preyedUponBy
+81610,,Zooplankton,,preyedUponBy
+81610,51280,Nemertea,Ribbon Worms,preyedUponBy
+81610,371067,Nucella lima,File Dog Winkle,preyedUponBy
+81610,,Leptasterias,,preyedUponBy
+81610,,Evasterias troscheli,,preyedUponBy
+81610,69998,Nucella canaliculata,Channeled Dog Winkle,preyedUponBy
+81610,,Tectura scutum,,preyedUponBy
+81610,117641,Nucella lamellosa,Wrinkled Purple,preyedUponBy
+81610,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy

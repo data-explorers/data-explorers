@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+13685,20445,Tyto alba,Barn Owl,eatenBy
+13685,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+13685,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+13685,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+13685,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+13685,5108,Accipiter gentilis,Northern Goshawk,eatenBy

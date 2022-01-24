@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53211,47822,Diptera,Flies,eatenBy
+53211,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+53211,83201,Thysanoptera,Thrips,eatenBy
+53211,125816,Auchenorrhyncha,True Hoppers,eatenBy
+53211,47158,Insecta,Insects,eatenBy
+53211,52381,Aphididae,Aphids,eatenBy
+53211,480298,Cornu aspersum,Garden Snail,eatenBy
+53211,199840,Haemorhous mexicanus,House Finch,eatenBy
+53211,145310,Spinus tristis,American Goldfinch,eatenBy
+53211,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+53211,,Amara conularis,,eatenBy
+53211,,Harpalus rufipes,,eatenBy
+53211,131931,Pterostichus melanarius,Rain-beetle,eatenBy
+53211,,Poecilus cupreus,,eatenBy
+53211,,Harpalus affinis,,eatenBy
+53211,,Oidaematophorus,,eatenBy
+53211,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+53211,,Longitarsus gracilis,,eatenBy
+53211,,Trupanea stellata,,eatenBy
+53211,,Sphenella marginata,,eatenBy
+53211,,Trypeta immaculata,,eatenBy
+53211,,Trypeta artemisiae,,eatenBy
+53211,,Trypeta zoe,,eatenBy
+53211,,Ensina sonchi,,eatenBy
+53211,,Brachycaudus (Acaudus) cardui,,eatenBy
+53211,210423,Callophrys viridis,Coastal Green Hairstreak,eatenBy
+53211,,Nyctemera annulata,,eatenBy
+53211,,Eristalinus aeneus,,eatenBy
+53211,,Tettigometra brachycephala,,eatenBy
+53211,,Zonotrichia leucophrys,,eatenBy
+53211,200848,Puccinia lagenophorae,Groundsel crown rust,eatenBy
+53211,,Sphenella fascigera,,eatenBy
+53211,145360,Chloris chloris,European Greenfinch,eatenBy
+53211,,Carduelis carduelis,,eatenBy
+53211,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+53211,53648,Nomada,Nomad Bees,pollinatedBy
+53211,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+53211,51703,Coccinella,,pollinatedBy
+53211,57678,Lasioglossum,,pollinatedBy
+53211,,Scaeva pyrastri,,pollinatedBy
+53211,,Andrena,,pollinatedBy
+53211,,Helina,,pollinatedBy
+53211,,Paregle audacula,,pollinatedBy
+53211,,Metasyrphus corollae,,pollinatedBy
+53211,,Malachius,,pollinatedBy
+53211,,Anthomyia pluvialis ,,pollinatedBy
+53211,,Eucera,,pollinatedBy
+53211,,Pollenia,,pollinatedBy
+53211,,Meliscaeva auricollis ,,pollinatedBy
+53211,,Eristalinus aeneus,,pollinatedBy
+53211,,http://treatment.plazi.org/id/588934C5A3D81B78F71DEEB7F083B91E,,pollinatedBy
+53211,,Chrysotoxum intermedium,,pollinatedBy
+53211,,Melecta albifrons,,pollinatedBy
+53211,,Neomyia cornicina,,pollinatedBy

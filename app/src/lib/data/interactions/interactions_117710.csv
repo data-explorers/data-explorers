@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117710,153112,Euphausiacea,krill,eats
+117710,51511,Beroidae,,eatenBy
+117710,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+117710,245476,Cystisomatidae,,eatenBy

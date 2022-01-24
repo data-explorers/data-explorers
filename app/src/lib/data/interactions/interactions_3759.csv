@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3759,1,Animalia,Animals,eats
+3759,47114,Gastropoda,Gastropods,eats
+3759,47158,Insecta,Insects,eats
+3759,47120,Arthropoda,Arthropods,eats
+3759,70127,Stratiomyidae,Soldier Flies,eats
+3759,47821,Tabanidae,Horse and Deer Flies,eats
+3759,47126,Plantae,plants,eats
+3759,63089,Clitellata,Clitellates,eats
+3759,51225,Tipulidae,Large Crane Flies,eats
+3759,47118,Araneae,Spiders,eats
+3759,47819,Libellulidae,Skimmers,eats
+3759,47951,Staphylinidae,Rove Beetles,eats
+3759,49567,Carabidae,Ground Beetles,eats
+3759,127444,Hydrophilidae,Water Scavenger Beetles,eats
+3759,53275,Chironomidae,Non-biting Midges,eats
+3759,48670,Noctuidae,Cutworm Moths and Allies,eats
+3759,84735,Corixidae,Water Boatmen,eats
+3759,57659,Dytiscidae,Predaceous Diving Beetles,eats
+3759,51469,Aeshnidae,Darners,eats
+3759,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+3759,,Hirudinida,,eats
+3759,,Lestidae,,eats
+3759,47927,Anisoptera,Dragonflies,preysOn

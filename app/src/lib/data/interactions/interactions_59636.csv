@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59636,479865,Cheilodactylus variegatus,Peruvian morwong,eatenBy
+59636,120708,Scartella cristata,Molly Miller,eatenBy
+59636,195201,Pachygrapsus transversus,Mottled Shore Crab,eatenBy
+59636,,Concholepas concholepas,,preyedUponBy
+59636,255868,Heliaster helianthus,South American Multiradiate Sun Star,preyedUponBy
+59636,,Acanthocyclus hassleri,,preyedUponBy
+59636,,Acanthocyclus gayi,,preyedUponBy

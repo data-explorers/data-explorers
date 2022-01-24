@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+30667,,Aquila chrysaetos,,eatenBy
+30667,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+30667,29105,Philodryas olfersii,Lichtenstein's Green Racer,preyedUponBy
+30667,27623,Boiga dendrophila,Gold-ringed Cat Snake,preyedUponBy

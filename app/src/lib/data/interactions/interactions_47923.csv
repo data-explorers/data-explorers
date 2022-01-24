@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47923,196979,Anaxyrus boreas halophilus,California Toad,eatenBy
+47923,,Aslauga,,eatenBy
+47923,12716,Turdus merula,Eurasian Blackbird,eatenBy
+47923,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+47923,1264568,Hypochaeris thrincioides,,pollinates
+47923,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+47923,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+47923,32512,Rena dulcis,Texas Blind Snake,preyedUponBy

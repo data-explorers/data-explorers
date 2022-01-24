@@ -1,0 +1,69 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3892,47178,Actinopterygii,Ray-finned Fishes,eats
+3892,20978,Amphibia,Amphibians,eats
+3892,49556,Chilopoda,Centipedes,eats
+3892,1,Animalia,Animals,eats
+3892,47126,Plantae,plants,eats
+3892,47115,Mollusca,Molluscs,eats
+3892,179491,Prionotus tribulus,Bighead Searobin,eats
+3892,179593,Fundulus similis,Longnose Killifish,eats
+3892,,Misgurnus,,eats
+3892,,Gnathostomata,,eats
+3892,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+3892,333586,Oligochaeta,Earthworms and allies,preysOn
+3892,47490,Polychaeta,Polychaete Worms,preysOn
+3892,47114,Gastropoda,Gastropods,preysOn
+3892,47720,Holothuroidea,Sea Cucumbers,preysOn
+3892,84670,Ephydridae,Shore Flies,preysOn
+3892,47822,Diptera,Flies,preysOn
+3892,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+3892,339172,Austrobilharzia,,preysOn
+3892,,Trichodina,,preysOn
+3892,,Hypereteone lighti,,preysOn
+3892,,Cloacitrema michiganense,,preysOn
+3892,,Cerithidea californica,,preysOn
+3892,339245,Himasthla,,preysOn
+3892,209100,Gyrodactylus,,preysOn
+3892,48051,Phoronida,Horseshoe Worms,preysOn
+3892,,Renicola cerithidicola,,preysOn
+3892,,Ephydra,,preysOn
+3892,339183,Euhaplorchis californiensis,,preysOn
+3892,,Mesostephanus appendiculatoides,,preysOn
+3892,339176,Renicola buchanani,,preysOn
+3892,339174,Cyathocotylidae,,preysOn
+3892,,Spirocamallanus pereirai,,preysOn
+3892,,Probolocoryphe uca,,preysOn
+3892,123639,Spionidae,,preysOn
+3892,117564,Clevelandia ios,Arrow Gobi,preysOn
+3892,,Eugregarinida,,preysOn
+3892,,Large xiphideocercaria,,preysOn
+3892,88477,Geonemertes,Greenhouse Proboscis-worms,preysOn
+3892,,Pygidiopsoides spindalis,,preysOn
+3892,339200,Himasthla rhigedana,,preysOn
+3892,,Stictodora hancocki,,preysOn
+3892,,Ergasilus auritus,,preysOn
+3892,,Parorchis acanthus,,preysOn
+3892,208368,Capitella capitata,,preysOn
+3892,339182,Phocitremoides ovale,,preysOn
+3892,339199,Catatropis johnstoni,,preysOn
+3892,339249,Acanthoparyphium,,preysOn
+3892,51280,Nemertea,Ribbon Worms,preysOn
+3892,259078,Culex tarsalis,Western Encephalitis Mosquito,preysOn
+3892,,Carinoma mutabilis,,preysOn
+3892,,Nassarius tiarula,,preysOn
+3892,345489,Naineris,,preysOn
+3892,111467,Quietula y-cauda,Shadow Goby,preysOn
+3892,208366,Orbiniidae,,preysOn
+3892,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn
+3892,570459,Neanthes arenaceodentata,,preysOn
+3892,47488,Cirratulidae,,preysOn
+3892,,Bittium quadrifilatum,,preysOn
+3892,,Ctenodrilidae,,preysOn
+3892,81789,Neanthes,,preysOn
+3892,209018,Polydora,Shell-boring Spionids,preysOn
+3892,,Ilypnus gilberti,,preysOn
+3892,337291,Cirriformia spirabrancha,,preysOn
+3892,,Polydora nuchalis,,preysOn
+3892,195030,Hesionidae,,preysOn
+3892,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+3892,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy

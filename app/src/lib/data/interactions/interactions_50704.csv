@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50704,67423,Ulva lactuca,broadleaf sea lettuce,eats
+50704,328377,Sargassum cymosum,,eats
+50704,131340,Amphiroa,,eats
+50704,67672,Hypnea musciformis,,eats
+50704,,Padina,,eats
+50704,3742,Bostrychia,African Crested and Hadada Ibises,eats
+50704,426200,Bachelotia,,eats
+50704,210168,Torbia,,eats
+50704,47490,Polychaeta,Polychaete Worms,preysOn
+50704,363663,Hymeniacidon heliophila,,preysOn

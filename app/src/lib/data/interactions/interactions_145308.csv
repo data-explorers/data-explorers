@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+145308,1,Animalia,Animals,eats
+145308,211194,Tracheophyta,vascular plants,eats
+145308,47124,Magnoliopsida,dicots,eats
+145308,52841,Anthemis cotula,Stinking chamomile,eats
+145308,53112,Brassica nigra,Black Mustard,eats
+145308,52381,Aphididae,Aphids,eats
+145308,48972,Polygonum,knotweeds,eats
+145308,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+145308,53211,Senecio vulgaris,common groundsel,eats
+145308,58127,Chenopodium album,Common Lambsquarters,eats
+145308,53195,Rumex acetosella,Sheep's sorrel,eats
+145308,47208,Coleoptera,Beetles,eats
+145308,53298,Stellaria media,common chickweed,eats
+145308,47157,Lepidoptera,Butterflies and Moths,eats
+145308,58819,Deinandra fasciculata,Clustered Tarweed,eats
+145308,48571,Carex,true sedges,eats
+145308,47822,Diptera,Flies,eats
+145308,47687,Erodium cicutarium,Redstem Stork's-bill,eats
+145308,58390,Triticum,Wheats,eats
+145308,56955,Helianthus,sunflowers,eats
+145308,52195,Silene,Catchflies,eats
+145308,154156,Croton setiger,turkey mullein,eats
+145308,57922,Centaurea melitensis,Maltese star-thistle,eats
+145308,47602,Taraxacum officinale,common dandelion,eats
+145308,48561,Cirsium,thistles,eats
+145308,48622,Nepeta cataria,Catnip,eats
+145308,72232,Melaleuca,bottlebrushes,eats
+145308,51735,Clarkia unguiculata,Elegant Clarkia,eats
+145308,50643,Salvia mellifera,black sage,eats
+145308,57723,Echium candicans,Pride of Madeira,eats
+145308,79462,Ulmus parvifolia,Chinese elm,eats
+145308,636795,Salvia rosmarinus,Rosemary,eats
+145308,52111,Baccharis,,eats
+145308,52588,Centaurea solstitialis,Yellow Star-Thistle,eats
+145308,51815,Eucalyptus,eucalyptus,eats
+145308,57983,Helianthus annuus,Common Sunflower,eats
+145308,57189,Phalaris,Canarygrasses,eats
+145308,53097,Hirschfeldia incana,Shortpod Mustard,eats
+145308,53357,Artemisia californica,California sagebrush,eats
+145308,58191,Salvia leucophylla,purple sage,eats
+145308,58231,Platanus racemosa,western sycamore,eats
+145308,47146,Adenostoma fasciculatum,chamise,eats
+145308,77940,Malacothrix saxatilis,Cliff Aster,eats
+145308,58334,Nicotiana glauca,tree tobacco,eats
+145308,122970,Helianthus tuberosus,Jerusalem artichoke,eats
+145308,64122,Malosma laurina,laurel sumac,eats
+145308,75736,Bahiopsis laciniata,San Diego County Viguiera,eats
+145308,64134,Salvia apiana,white sage,eats
+145308,47126,Plantae,plants,eats
+145308,52989,Cirsium vulgare,Bull Thistle,eats
+145308,,Solanum ptychanthum,,eats
+145308,,Claytonia perfoliata,,eats
+145308,,Calandrinia ciliata,,eats
+145308,,Madia sativa,,eats
+145308,,Psychotria areolata,,eats
+145308,,Matayba elegans,,eats
+145308,,Solanum aphyodendron,,eats
+145308,,Citharexylum subflavescens,,eats
+145308,,Peristethium archeri,,eats
+145308,,Cavendishia axillaris,,eats
+145308,,Anthurium sanguineum,,eats
+145308,907389,Viburnum toronis,,eats
+145308,,Ardisia sapida,,eats
+145308,,Chamaedorea pinnatifrons,,eats
+145308,,Ficus americana,,eats
+145308,,Miconia lehmannii,,eats
+145308,278746,Phoradendron chrysocladon,,eats
+145308,,Siparuna laurifolia,,eats
+145308,,Antidaphne viscoidea,,eats
+145308,,Tournefortia scabrida,,eats
+145308,,Palicourea angustifolia,,eats
+145308,,Cestrum schlechtendahlii,,eats
+145308,,Meliosma boliviensis,,eats
+145308,291911,Myrsine guianensis,rapanca,eats
+145308,,Faramea oblongifolia,,eats
+145308,,Huertea glandulosa,,eats
+145308,,Nectandra membranacea,,eats
+145308,,Cecropia telealba,,eats
+145308,1013141,Ocotea insularis,,eats
+145308,,Guettarda crispiflora,,eats
+145308,,Mollinedia tomentosa,,eats
+145308,,Palicourea thyrsiflora,,eats
+145308,,Mauria heterophylla,,eats
+145308,,Miconia ceramicarpa,,eats
+145308,,Prunus integrifolia,,eats
+145308,,Dendropanax arboreus,,eats
+145308,896113,Cayaponia tubulosa,,eats
+145308,,Guatteria pilosula,,eats
+145308,,Aechmea tonduzii,,eats
+145308,,Toxicodendron striatum,,eats
+145308,,Aegiphila mollis,,eats
+145308,,Oreopanax incisus,,eats
+145308,,Guarea kunthiana,,eats
+145308,851902,Hedyosmum bonplandianum,,eats
+145308,,Prestoea acuminata,,eats
+145308,,Geonoma undata,,eats
+145308,,Rubus guyanensis,,eats
+145308,,Clusia hydrogera,,eats
+145308,,Solanum sycophanta,,eats
+145308,,Morella pubescens,,eats
+145308,4665,Falco sparverius,American Kestrel,eatenBy
+145308,,Coluber lateralis euryxanthus,,preyedUponBy

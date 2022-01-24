@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+16598,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+16598,47208,Coleoptera,Beetles,eats
+16598,47544,Rubus,brambles,eats
+16598,52689,Sambucus,elders,eats
+16598,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+16598,47157,Lepidoptera,Butterflies and Moths,eats
+16598,47158,Insecta,Insects,eats
+16598,47822,Diptera,Flies,eats
+16598,48486,Coccinellidae,Lady Beetles,eats
+16598,47124,Magnoliopsida,dicots,eats
+16598,,Madia,,eats
+16598,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+16598,1081332,Lon melane,Umber Skipper,preysOn

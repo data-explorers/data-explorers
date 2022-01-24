@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+322005,47126,Plantae,plants,eats
+322005,85493,Crustacea,Crustaceans,eats
+322005,197104,Ecklonia radiata,Common Kelp,eats
+322005,47115,Mollusca,Molluscs,eats
+322005,410858,Carpophyllum maschalocarpum,Common flapjack,eats
+322005,342242,Gigartina,,eats
+322005,50918,Caulerpa,,eats
+322005,53275,Chironomidae,Non-biting Midges,eats
+322005,1,Animalia,Animals,eats
+322005,48219,Fucales,Fucoids,eats
+322005,47120,Arthropoda,Arthropods,eats
+322005,52616,Zostera,Eelgrasses,eats
+322005,54644,Ulva,sea lettuces,eats
+322005,,Prymnesiophyceae,,eats
+322005,,Rhodophyceae,,eats
+322005,,Enteromorpha,,eats
+322005,,Gracilaria sp.,,eats
+322005,,Rhodymenia leptophylla,,eats
+322005,,debris,,eats
+322005,,Macroalgae,,eats
+322005,,Detritus,,eats
+322005,,,,eats
+322005,116999,Pandion haliaetus,Osprey,eatenBy
+322005,,Zeus faber,,eatenBy
+322005,,Zeus faber,,preyedUponBy
+322005,,no name,,preyedUponBy
+322005,41752,Arctocephalus forsteri,New Zealand Fur Seal,preyedUponBy

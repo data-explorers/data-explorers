@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129876,465054,Pseudopleuronectes yokohamae,Marbled Flounder,eatenBy
+129876,112576,Sillago japonica,Japanese whiting,eatenBy
+129876,112576,Sillago japonica,Japanese whiting,preyedUponBy
+129876,465054,Pseudopleuronectes yokohamae,Marbled Flounder,preyedUponBy

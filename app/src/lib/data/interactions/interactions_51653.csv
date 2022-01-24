@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51653,,Oithona spinirostris,,eats
+51653,203495,Pseudocalanus,,eats
+51653,372502,Calanus finmarchicus,,eats
+51653,,Sagitta,,eats
+51653,195081,Acartia,,eats
+51653,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+51653,69838,Cyanea capillata,Lion's Mane Jelly,eatenBy
+51653,47775,Doto kya,Dark Doto,eatenBy

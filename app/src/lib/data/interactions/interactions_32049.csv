@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+32049,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+32049,8021,Corvus brachyrhynchos,American Crow,eatenBy
+32049,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+32049,,Neotamias siskiyou,,eatenBy
+32049,,Aquila chrysaetos,,eatenBy
+32049,146173,Hypsiglena chlorophaea,Desert Nightsnake,preyedUponBy
+32049,243962,Charina bottae,Northern Rubber Boa,preyedUponBy
+32049,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy

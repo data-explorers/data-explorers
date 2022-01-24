@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47280,85493,Crustacea,Crustaceans,eats
+47280,121639,Brachyura,True Crabs,eats
+47280,47308,Gobiidae,Gobies,eats
+47280,47178,Actinopterygii,Ray-finned Fishes,eats
+47280,49506,Portunidae,Swimming Crabs,eats
+47280,47186,Decapoda,Decapods,eats
+47280,,Gnathostomata,,eats
+47280,,Pisces,,eats
+47280,,Zoea,,eats
+47280,52197,Penaeus,,eats
+47280,,Apogonidae,,eats
+47280,128186,Gramma loreto,Royal Gramma,eats
+47280,131385,Pseudupeneus maculatus,Spotted Goatfish,eats
+47280,,Osteichthyes,,eats
+47280,121669,Stenopus hispidus,Banded Coral Shrimp,eats
+47280,49946,Halichoeres garnoti,Yellowhead Wrasse,eats
+47280,49491,Thalassoma bifasciatum,Caribbean Bluehead Wrasse,eats
+47280,,Coryphopterus personatus,,eats
+47280,,Coryphopterus eidolon,,eats
+47280,,"Squillidae
+Squilidae",,eats
+47280,,Cinetorhynchus rigens,,eats
+47280,,Chromis multilineata,,eats
+47280,97983,Clepticus parrae,Creole Wrasse,eats
+47280,1023724,Stegastes variabilis,Brazilian Cocoa Damselfish,eats
+47280,,Schultzea beta,,eats
+47280,26085,Crocodylus acutus,American Crocodile,eatenBy
+47280,128105,Gymnothorax moringa,Spotted Moray,eatenBy
+47280,121669,Stenopus hispidus,Banded Coral Shrimp,preysOn

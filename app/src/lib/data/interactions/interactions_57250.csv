@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57250,199840,Haemorhous mexicanus,House Finch,eatenBy
+57250,47219,Apis mellifera,Western Honey Bee,eatenBy
+57250,52775,Bombus,Bumble Bees,eatenBy
+57250,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+57250,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+57250,8021,Corvus brachyrhynchos,American Crow,eatenBy
+57250,9319,Icterus cucullatus,Hooded Oriole,eatenBy
+57250,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+57250,211345,Stigmella,,eatenBy
+57250,41663,Procyon lotor,Common Raccoon,eatenBy
+57250,48548,Vanessa cardui,Painted Lady,eatenBy
+57250,69145,Coenonympha california,Common Ringlet,eatenBy
+57250,47154,Cydia,,eatenBy
+57250,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+57250,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+57250,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+57250,,Eristalis hirta,,eatenBy
+57250,,Anthrenus verbasci,,eatenBy
+57250,,Agraulis vanillae,,eatenBy
+57250,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+57250,,Callimoxys fuscipennis,,eatenBy
+57250,116725,Anastrangalia laetifica,Dimorphic Flower Longhorn Beetle,eatenBy
+57250,,Neobellamira delicata,,eatenBy
+57250,,Grapholita molesta,,eatenBy
+57250,,Samia walkeri,,eatenBy
+57250,,Samia cynthia,,eatenBy
+57250,,Sphinx perelegans,,eatenBy
+57250,,Datana ministra,,eatenBy
+57250,,Celastrina argiolus,,eatenBy
+57250,,Harkenclenus titus,,eatenBy
+57250,,Satyrium liparops,,eatenBy
+57250,127133,Hyphantria cunea,Fall Webworm Moth,eatenBy
+57250,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+57250,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

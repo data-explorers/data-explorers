@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+191599,47523,Pleuronectes platessa,European Plaice,eats
+191599,109631,Platichthys flesus,European Flounder,eats
+191599,,Pisces,,eats
+191599,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+191599,360314,Chrysaora hysoscella,Compass Jelly,eatenBy
+191599,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+191599,101176,Galeorhinus galeus,School Shark,eatenBy
+191599,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+191599,63740,Gadus morhua,Atlantic Cod,eatenBy
+191599,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+191599,430553,Merlangius merlangus,Whiting,eatenBy
+191599,152975,Pagurus bernhardus,Common Hermit Crab,eatenBy
+191599,346580,Calanus helgolandicus,,eatenBy
+191599,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy
+191599,152975,Pagurus bernhardus,Common Hermit Crab,preyedUponBy
+191599,,no name,,preyedUponBy
+191599,346580,Calanus helgolandicus,,preyedUponBy

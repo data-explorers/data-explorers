@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56165,81687,Noctua pronuba,Large Yellow Underwing,eatenBy
+56165,,Stenoptilodes taprobanes,,eatenBy
+56165,,Cucullia thapsiphaga,,eatenBy
+56165,,Protorthodes oviduca,,eatenBy
+56165,,Protorthodes curtica,,eatenBy
+56165,,Melitaea trivia,,eatenBy
+56165,,Melitaea didyma,,eatenBy
+56165,,Longitarsus nigrofasciatus,,eatenBy
+56165,,Cleopus pulchellus,,eatenBy
+56165,,Cionus alauda,,eatenBy
+56165,956876,Longitarsus tabidus,,eatenBy
+56165,451377,Cionus scrophulariae,Common Figwort Weevil,eatenBy
+56165,,Cionus hortulanus,,eatenBy
+56165,,Shargacucullia verbasci,,eatenBy
+56165,,Cionus longicollis,,eatenBy
+56165,,Cionus tuberculosus,,eatenBy
+56165,748452,Campylomma verbasci,,eatenBy
+56165,,Napomyza scrophulariae,,eatenBy
+56165,,Amauromyza verbasci,,eatenBy
+56165,,Cucullia verbasci,,eatenBy
+56165,,Rhinusa asellus,,eatenBy
+56165,,Peribalus strictus strictus,,eatenBy
+56165,,Dolycoris baccarum,,eatenBy
+56165,,Rhinusa tetra,,eatenBy
+56165,,Xylena exsoleta,,eatenBy
+56165,127812,Hylaeus,Masked Bees,pollinatedBy
+56165,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+56165,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+56165,252417,Anthidiellum,,pollinatedBy
+56165,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+56165,,,,pollinatedBy
+56165,,Metasyrphus corollae,,pollinatedBy
+56165,468917,Selenocephalus,,pollinatedBy
+56165,,Episyrphus balteatus,,pollinatedBy
+56165,,Oxythyrea funesta ,,pollinatedBy
+56165,,Paragus quadrifasciatus,,pollinatedBy
+56165,,Lepidargyrus ancorifer,,pollinatedBy
+56165,,Geron gibbosus ,,pollinatedBy
+56165,,Megachile pilidens,,pollinatedBy
+56165,,Hylaeus punctatus,,pollinatedBy
+56165,,Thymelicus acteon,,pollinatedBy
+56165,,http://treatment.plazi.org/id/588934C5A3D81B78F71DEEB7F083B91E,,pollinatedBy

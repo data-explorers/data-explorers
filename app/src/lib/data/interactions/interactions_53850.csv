@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53850,120156,Musca domestica,Housefly,eats
+53850,,Cochyliomyia macellaria,,eats
+53850,,Blaesoxipha plinthopyga,,eats
+53850,,Lepus californicus,,eats
+53850,,rabbit carcass (L. californicus),,eats
+53850,,M. domestica larvae,,eats
+53850,,B. plinthopyga larvae,,eats
+53850,,C.,,eats
+53850,,C.,,preysOn
+53850,,B. plinthopyga larvae,,preysOn
+53850,,M. domestica larvae,,preysOn

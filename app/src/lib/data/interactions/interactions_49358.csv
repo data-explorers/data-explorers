@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49358,,Opistophthalmus concinnus,,eats
+49358,307026,Labidura riparia,Shore Earwig,eatenBy
+49358,12727,Turdus migratorius,American Robin,eatenBy
+49358,12942,Sialia sialis,Eastern Bluebird,eatenBy
+49358,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+49358,,Peucetia lucasi,,eatenBy
+49358,,Orthetrum trinacria,,eatenBy
+49358,17408,Vireo griseus,White-eyed Vireo,eatenBy
+49358,15990,Myiarchus tuberculifer,Dusky-capped Flycatcher,eatenBy
+49358,14895,Toxostoma longirostre,Long-billed Thrasher,eatenBy
+49358,6667,Cypseloides niger,Black Swift,eatenBy
+49358,19577,Chordeiles minor,Common Nighthawk,eatenBy
+49358,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+49358,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+49358,,Salpinctes obsoletus,,eatenBy
+49358,5017,Bubulcus ibis,Cattle Egret,eatenBy
+49358,,Opistophthalmus concinnus,,preysOn
+49358,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+49358,74432,Hipposideros sorenseni,Sorensen's Leaf-nosed Bat,preyedUponBy
+49358,765560,Chaerephon plicatus,Wrinkle-lipped Bat,preyedUponBy
+49358,,Hipposideros bicolor,,preyedUponBy
+49358,40719,Hipposideros diadema,Diadem Roundleaf Bat,preyedUponBy
+49358,40691,Rhinolophus mehelyi,Mehely's horseshoe bat,preyedUponBy
+49358,40348,Myotis velifer,Cave Myotis,preyedUponBy
+49358,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy
+49358,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy
+49358,32512,Rena dulcis,Texas Blind Snake,preyedUponBy

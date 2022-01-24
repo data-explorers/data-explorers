@@ -1,0 +1,188 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53207,177795,Homoeosoma,,eatenBy
+53207,343382,Homoeosoma electella,American Sunflower Moth,eatenBy
+53207,48548,Vanessa cardui,Painted Lady,eatenBy
+53207,48549,Vanessa virginiensis,American Lady,eatenBy
+53207,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+53207,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+53207,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+53207,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+53207,47219,Apis mellifera,Western Honey Bee,eatenBy
+53207,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+53207,226718,Otiorhynchus sulcatus,Black Vine Weevil,eatenBy
+53207,42429,Antilocapra americana,Pronghorn,eatenBy
+53207,,Comostolopsis germana,,eatenBy
+53207,,Pachyprotasis simulans,,eatenBy
+53207,,Cochylis dubitana,,eatenBy
+53207,,Ludia delegorguei,,eatenBy
+53207,,Perinephela lancealis,,eatenBy
+53207,,Homoeosoma vagella,,eatenBy
+53207,,Hellinsia chrysocomae,,eatenBy
+53207,,Patagoniodes farinaria,,eatenBy
+53207,,Agonopterix cotoneastri,,eatenBy
+53207,,Emmelina monodactyla,,eatenBy
+53207,226926,Papaipema insulidens,Umbellifer Borer Moth,eatenBy
+53207,,Bombycopsis bipars,,eatenBy
+53207,,Xanthorhoe decoloraria,,eatenBy
+53207,,Xanthorhoe,,eatenBy
+53207,,Eupithecia absinthiata,,eatenBy
+53207,,Galtara doriae,,eatenBy
+53207,,Nyctemera adversata,,eatenBy
+53207,,Nyctemera apicalis,,eatenBy
+53207,,Tyria jacobaeae,,eatenBy
+53207,,Metarctia lateritia,,eatenBy
+53207,,Nyctemera annulata,,eatenBy
+53207,124131,Nyctemera lacticinia,,eatenBy
+53207,,Nyctemera amica,,eatenBy
+53207,,Rhodogastria amasis,,eatenBy
+53207,354660,Spilosoma glatignyi,black-and-white tiger moth,eatenBy
+53207,,Adela septentrionella,,eatenBy
+53207,,Phyciodes mylitta,,eatenBy
+53207,,Northiella haematogaster,,eatenBy
+53207,,Sphenella fascigera,,eatenBy
+53207,,Nyctemera amicus,,eatenBy
+53207,330185,Aphis spiraecola,Spiraea Aphid,eatenBy
+53207,,Calephelis borealis,,eatenBy
+53207,,Actinote surima,,eatenBy
+53207,,Phoma sydowii,,eatenBy
+53207,455563,Longitarsus flavicornis,,eatenBy
+53207,,Longitarsus dorsalis,,eatenBy
+53207,,Longitarsus ochroleucus,,eatenBy
+53207,,Longitarsus suturellus,,eatenBy
+53207,,Longitarsus ganglbaueri,,eatenBy
+53207,907332,Liriomyza strigata,,eatenBy
+53207,,Chromatomyia syngenesiae,,eatenBy
+53207,,Napomyza lateralis,,eatenBy
+53207,,Kalmusia clivensis,,eatenBy
+53207,,Leptosphaeria doliolum,,eatenBy
+53207,,Nodulosphaeria dolioloides,,eatenBy
+53207,,Leptosphaeria ogilviensis,,eatenBy
+53207,384215,Sarcopodium circinatum,,eatenBy
+53207,,Pyrenopeziza adenostylidis,,eatenBy
+53207,,Acidia cognata,,eatenBy
+53207,1200650,Campiglossa malaris,,eatenBy
+53207,,Trypeta artemisiae,,eatenBy
+53207,,Lachnella villosa,,eatenBy
+53207,,Longitarsus aeneicollis,,eatenBy
+53207,,Olibrus corticalis,,eatenBy
+53207,,Homoeosoma electellum,,eatenBy
+53207,,Merophyas divulsana,,eatenBy
+53207,,Brachycaudus helichrysi,,eatenBy
+53207,,Lixus,,eatenBy
+53207,,Nysius vinitor,,eatenBy
+53207,,Deltinea costalimai,,eatenBy
+53207,,Phaneta elongana,,eatenBy
+53207,367811,Sonia vovana,,eatenBy
+53207,,Ostrinia orientalis,,eatenBy
+53207,,Agonopterix canadensis,,eatenBy
+53207,,Acrocercops breyeri,,eatenBy
+53207,,Metarctia,,eatenBy
+53207,,Eurata strigiventris,,eatenBy
+53207,,Eurata helena,,eatenBy
+53207,409672,Asterivora combinatana,,eatenBy
+53207,,Actinote pellenea,,eatenBy
+53207,41641,Ursus arctos,Brown Bear,eatenBy
+53207,9227,Serinus,Eurasian Serins and Canaries,eatenBy
+53207,,Carduelis carduelis,,eatenBy
+53207,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+53207,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+53207,47158,Insecta,Insects,pollinatedBy
+53207,52910,Sarcophagidae,Flesh Flies,pollinatedBy
+53207,56097,Bibionidae,March Flies,pollinatedBy
+53207,51953,Tachinidae,Bristle Flies,pollinatedBy
+53207,133762,Villa,,pollinatedBy
+53207,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+53207,58753,Toxomerus,Calligrapher Flies,pollinatedBy
+53207,155108,Ceratina,Small Carpenter Bees,pollinatedBy
+53207,58586,Limenitis archippus,Viceroy,pollinatedBy
+53207,130033,Culex,,pollinatedBy
+53207,176621,Nysius,False chinch bugs,pollinatedBy
+53207,52491,Eristalis,Drone Flies,pollinatedBy
+53207,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",pollinatedBy
+53207,82269,Crambus,,pollinatedBy
+53207,57678,Lasioglossum,,pollinatedBy
+53207,57671,Anthidium,Carder Bees,pollinatedBy
+53207,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+53207,780634,Pseudolucia chilensis,,pollinatedBy
+53207,,Faunula leucoglene,,pollinatedBy
+53207,,Scaeva melanostoma,,pollinatedBy
+53207,,Etcheverrius chiliensis,,pollinatedBy
+53207,497142,Bombus dahlbomii,Giant Bumble Bee,pollinatedBy
+53207,,Andrena gardineri,,pollinatedBy
+53207,,Pseudagapostemon cyaneus,,pollinatedBy
+53207,,Coelioxys,,pollinatedBy
+53207,252133,Carneades,,pollinatedBy
+53207,,Hoplisus simillimus,,pollinatedBy
+53207,,Ripiphorus,,pollinatedBy
+53207,233377,Valgus canaliculatus,,pollinatedBy
+53207,,Triepeolus cressonii,,pollinatedBy
+53207,,Apallates coxendix,,pollinatedBy
+53207,,Ichneumon longulus,,pollinatedBy
+53207,,Haltica,,pollinatedBy
+53207,,Andrena arabis,,pollinatedBy
+53207,,Andrena pruni,,pollinatedBy
+53207,,Andrena polemonii,,pollinatedBy
+53207,,Brachicoma,,pollinatedBy
+53207,,Bruchus,,pollinatedBy
+53207,,Phyto,,pollinatedBy
+53207,,Ashmeadiella bucconis,,pollinatedBy
+53207,,Brachypalpus,,pollinatedBy
+53207,,Pseudopanurgus,,pollinatedBy
+53207,,Empis distans,,pollinatedBy
+53207,,Zaira georgiae,,pollinatedBy
+53207,,Hesperia,,pollinatedBy
+53207,341139,Exorista,,pollinatedBy
+53207,,Tryphon americanus,,pollinatedBy
+53207,,Reichertella pulicaria,,pollinatedBy
+53207,,Cerceris prominens,,pollinatedBy
+53207,,Sphaerophoria macrogaster ,,pollinatedBy
+53207,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy
+53207,,,,pollinatedBy
+53207,,Cheilosia,,pollinatedBy
+53207,,Lasioglossum laeviventre ,,pollinatedBy
+53207,,Syrphus ribessii ,,pollinatedBy
+53207,,Oedemeronia subrobusta ,,pollinatedBy
+53207,,Parnara guttata ,,pollinatedBy
+53207,,Helophilus virgatus ,,pollinatedBy
+53207,,Thelaira,,pollinatedBy
+53207,,Matachius prolongatus,,pollinatedBy
+53207,,Rhynocoris ornatus,,pollinatedBy
+53207,,Rhamphomyia,,pollinatedBy
+53207,,Lycocerus lineatipennis,,pollinatedBy
+53207,,Echinomyia mikado,,pollinatedBy
+53207,,Rhinodia rostraria,,pollinatedBy
+53207,,Ceratina japonica ,,pollinatedBy
+53207,,Eristalis cerealis ,,pollinatedBy
+53207,70405,Melanostoma scalare,Ladder-backed Hover Fly,pollinatedBy
+53207,,Cheitosia sp1 M_PL_055,,pollinatedBy
+53207,,Dalatiidae,,pollinatedBy
+53207,,Andrena,,pollinatedBy
+53207,,Osmia taurus ,,pollinatedBy
+53207,,Phaonia,,pollinatedBy
+53207,,Thoressa varia,,pollinatedBy
+53207,,Hetophilus virgatus,,pollinatedBy
+53207,,Sphaerophoria philanthus,,pollinatedBy
+53207,,Psithyrus,,pollinatedBy
+53207,,Oulema melanopus,,pollinatedBy
+53207,,Pieris napi,,pollinatedBy
+53207,124910,Bombus pratorum,Early Bumble Bee,pollinatedBy
+53207,,Ceuthorrhynchus assimilis ,,pollinatedBy
+53207,177092,Meligethes,,pollinatedBy
+53207,,Episyrphus balteatus,,pollinatedBy
+53207,,Olibrus aeneus ,,pollinatedBy
+53207,,Musc. sp1 M_PL_029,,pollinatedBy
+53207,,Melangyna,,pollinatedBy
+53207,,Calliphora quadrimaculata,,pollinatedBy
+53207,,Avibrissina,,pollinatedBy
+53207,,Leioproctus fulvescens,,pollinatedBy
+53207,,Medinella,,pollinatedBy
+53207,,Pasiphila,,pollinatedBy
+53207,,Melanostoma mellinum,,pollinatedBy
+53207,52964,Sphaerophoria scripta,Long Hover Fly,pollinatedBy
+53207,,Undefined sp24 M_PL_018,,pollinatedBy
+53207,,Undefined sp22 M_PL_018,,pollinatedBy
+53207,,Undefined sp17 M_PL_018,,pollinatedBy
+53207,,Undefined sp23 M_PL_018,,pollinatedBy
+53207,,Undefined sp21 M_PL_018,,pollinatedBy
+53207,,Bombus canariensis ,,pollinatedBy
+53207,,Empis,,pollinatedBy

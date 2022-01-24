@@ -1,0 +1,75 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55986,42051,Canis latrans,Coyote,eatenBy
+55986,41976,Lynx rufus,Bobcat,eatenBy
+55986,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+55986,42007,Puma concolor,Mountain Lion,eatenBy
+55986,42069,Vulpes vulpes,Red Fox,eatenBy
+55986,526558,Mustelinae,Weasels,eatenBy
+55986,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+55986,4665,Falco sparverius,American Kestrel,eatenBy
+55986,19893,Strix varia,Barred Owl,eatenBy
+55986,5277,Elanus leucurus,White-tailed Kite,eatenBy
+55986,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+55986,20044,Bubo virginianus,Great Horned Owl,eatenBy
+55986,8229,Cyanocitta cristata,Blue Jay,eatenBy
+55986,8010,Corvus corax,Common Raven,eatenBy
+55986,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+55986,42048,Canis lupus,Gray Wolf,eatenBy
+55986,851014,Canis aureus,Golden Jackal,eatenBy
+55986,922459,Felis silvestris,European Wildcat,eatenBy
+55986,41824,Galictis cuja,Lesser Grison,eatenBy
+55986,,Puma yagouaroundi,,eatenBy
+55986,74481,Leopardus geoffroyi,Geoffroy's Cat,eatenBy
+55986,,Leopardus colocolo,,eatenBy
+55986,41798,Martes americana,American Marten,eatenBy
+55986,41979,Lynx lynx,Eurasian Lynx,eatenBy
+55986,41987,Leopardus tigrinus,Northern Tigrina,eatenBy
+55986,,Leopardus_jacobita,,eatenBy
+55986,41800,Martes foina,Stone Marten,eatenBy
+55986,41796,Martes martes,Eurasian Pine Marten,eatenBy
+55986,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+55986,516126,Lycalopex culpaeus,Culpeo,eatenBy
+55986,41988,Leopardus wiedii,Margay,eatenBy
+55986,41997,Leopardus pardalis,Ocelot,eatenBy
+55986,569428,Mustela nivalis,Least Weasel,eatenBy
+55986,,Martes pennanti,,eatenBy
+55986,41805,Mustela lutreola,European Mink,eatenBy
+55986,41795,Martes zibellina,Sable,eatenBy
+55986,41812,Mustela putorius,Western Polecat,eatenBy
+55986,,Neovison vison,,eatenBy
+55986,41644,Ursus maritimus,Polar Bear,eatenBy
+55986,42066,Vulpes velox,Swift Fox,eatenBy
+55986,41789,Taxidea taxus,American Badger,eatenBy
+55986,41641,Ursus arctos,Brown Bear,eatenBy
+55986,,Uncia uncia,,eatenBy
+55986,20315,Asio flammeus,Short-eared Owl,eatenBy
+55986,,Caracara cheriway,,eatenBy
+55986,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+55986,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+55986,,Aquila chrysaetos,,eatenBy
+55986,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+55986,19890,Strix nebulosa,Great Gray Owl,eatenBy
+55986,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+55986,144594,Bubo scandiacus,Snowy Owl,eatenBy
+55986,40346,Myotis lucifugus,Little Brown Bat,preysOn
+55986,526558,Mustelinae,Weasels,preyedUponBy
+55986,5277,Elanus leucurus,White-tailed Kite,preyedUponBy
+55986,,Epicrates assisi,,preyedUponBy
+55986,27200,Mussurana quimi,Brazilian Mussurana,preyedUponBy
+55986,32237,Epicrates cenchria,Western Rainbow Boa,preyedUponBy
+55986,104906,Lygophis dilepis,Lema’s Striped Snake,preyedUponBy
+55986,32232,Epicrates,Rainbow Boas,preyedUponBy
+55986,28256,Tropidodryas striaticeps,Jiboinha,preyedUponBy
+55986,,Boa constrictor amarali,,preyedUponBy
+55986,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+55986,,Corallus hortulanus,,preyedUponBy
+55986,114565,Tropidodryas serra,Serra Snake,preyedUponBy
+55986,26835,Drymobius margaritiferus,Speckled Racer,preyedUponBy
+55986,28942,Pseudoboa nigra,Black False Boa,preyedUponBy
+55986,,Salvadora bairdi,,preyedUponBy
+55986,29105,Philodryas olfersii,Lichtenstein's Green Racer,preyedUponBy
+55986,,Hydrodynastes gigas,,preyedUponBy
+55986,29404,Mastigodryas melanolomus,Dryad Snake,preyedUponBy
+55986,20315,Asio flammeus,Short-eared Owl,preyedUponBy
+55986,20372,Surnia ulula,Northern Hawk Owl,preyedUponBy
+55986,19975,Athene cunicularia,Burrowing Owl,preyedUponBy

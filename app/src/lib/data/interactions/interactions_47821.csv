@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47821,47126,Plantae,plants,eats
+47821,311291,Nitzschia,,eats
+47821,359954,Aulacoseira,,eats
+47821,,Sephanodiscus,,eats
+47821,494501,Tabellaria flocculosa,,eats
+47821,,Detritus,,eats
+47821,,Synedra ulna,,eats
+47821,,Sephanodiscus sp.,,eats
+47821,,Aucalosira sp.,,eats
+47821,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+47821,68062,Menemerus bivittatus,Gray Wall Jumping Spider,eatenBy
+47821,81839,Platycryptus undatus,Tan Jumping Spider,eatenBy
+47821,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+47821,3759,Plegadis chihi,White-faced Ibis,eatenBy
+47821,55387,Esox lucius,Northern Pike,eatenBy
+47821,,Galaxias anomalus,,eatenBy
+47821,,Melanorivulus pictus,,eatenBy
+47821,51333,Macquaria australasica,Macquarie Perch,eatenBy
+47821,608771,Atherinella brasiliensis,,eatenBy
+47821,,Liopsetta glacialis,,eatenBy
+47821,,Percichthys trucha,,eatenBy
+47821,47518,Salmo trutta,Brown Trout,eatenBy
+47821,13094,Erithacus rubecula,European Robin,eatenBy
+47821,609411,Brycon dentex,,eatenBy
+47821,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47821,,Salpinctes obsoletus,,eatenBy
+47821,4937,Egretta caerulea,Little Blue Heron,eatenBy
+47821,162,Porzana carolina,Sora,eatenBy
+47821,,Setophaga virens,,eatenBy
+47821,,Oporornis philadelphia,,eatenBy
+47821,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+47821,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+47821,,Setophaga pinus,,eatenBy
+47821,,Ammospiza maritima,,eatenBy
+47821,793289,Ammospiza caudacuta,Saltmarsh Sparrow,eatenBy
+47821,,Corvus caurinus,,eatenBy
+47821,,Picoides villosus,,eatenBy
+47821,16110,Contopus cooperi,Olive-sided Flycatcher,eatenBy
+47821,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+47821,,Alstroemeria caryophyllaea,,pollinates
+47821,,Chaetanthera pusilla,,pollinates
+47821,602052,Euphorbia portulacoides,,pollinates
+47821,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+47821,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+47821,119994,Vespula maculifrons,Eastern Yellowjacket,preyedUponBy
+47821,59774,Pachydiplax longipennis,Blue Dasher,preyedUponBy
+47821,34435,Hemidactylus turcicus,Mediterranean House Gecko,preyedUponBy
+47821,129423,Zelus luridus,Pale Green Assassin Bug,preyedUponBy
+47821,,Myotis daubentonii,,preyedUponBy
+47821,,Plecotus auritus,,preyedUponBy
+47821,,Vespadelus pumilus,,preyedUponBy
+47821,,Dolichovespula maculata,,preyedUponBy
+47821,,Ectemnius decemmaculatus,,preyedUponBy

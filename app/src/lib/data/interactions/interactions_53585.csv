@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53585,85493,Crustacea,Crustaceans,eats
+53585,54662,Mugil,Common Mullets,eats
+53585,47115,Mollusca,Molluscs,eats
+53585,47178,Actinopterygii,Ray-finned Fishes,eats
+53585,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+53585,52197,Penaeus,,eats
+53585,,Gnathostomata,,eats
+53585,51363,Brevoortia tyrannus,Atlantic Menhaden,eats
+53585,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eats
+53585,179563,Leiostomus xanthurus,Spot Croaker,eats
+53585,111752,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark,eats
+53585,,Chondrichthyes,,eats
+53585,,Osteichthyes,,eats
+53585,,Pisces,,eats
+53585,342910,Dendrobranchiata,Prawns,eats
+53585,51366,Brevoortia,Menhaden,eats
+53585,,Teuthida,,eats
+53585,,Deuterostomia,,eats
+53585,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+53585,26182,Acrochordus granulatus,Marine File Snake,eatenBy
+53585,102591,Hemipristis elongata,Snaggletooth Shark,eatenBy
+53585,103571,Isurus paucus,Longfin Mako,eatenBy
+53585,131491,Rachycentron canadum,Cobia,eatenBy
+53585,84996,Carcharhinus leucas,Bull Shark,eatenBy
+53585,,Pisces,,preysOn

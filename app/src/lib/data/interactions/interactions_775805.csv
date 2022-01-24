@@ -1,0 +1,126 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+775805,775805,Pteropoda,Sea Butterflies,eats
+775805,67333,Bacteria,bacteria,eats
+775805,1,Animalia,Animals,eats
+775805,63770,Engraulis mordax,Northern Anchovy,eats
+775805,,Phytoplankton,,eats
+775805,,Khakista,,eats
+775805,448292,Phaeocystis,,eats
+775805,179447,Trachurus lathami,Rough Scad,eats
+775805,,Chinook salmon (juvenile),,eats
+775805,51508,Ctenophora,Comb Jellies,eatenBy
+775805,1,Animalia,Animals,eatenBy
+775805,775805,Pteropoda,Sea Butterflies,eatenBy
+775805,47534,Cnidaria,Cnidarians,eatenBy
+775805,47186,Decapoda,Decapods,eatenBy
+775805,85912,Mysidae,,eatenBy
+775805,4158,Pachyptila turtur,Fairy Prion,eatenBy
+775805,121643,Copepoda,Copepods,eatenBy
+775805,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+775805,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+775805,41566,Megaptera novaeangliae,Humpback Whale,eatenBy
+775805,424322,Odontoceti,Toothed Whales,eatenBy
+775805,151762,Venustaconcha ellipsiformis,Ellipse,eatenBy
+775805,51362,Alosa pseudoharengus,Alewife,eatenBy
+775805,48817,Crangon,,eatenBy
+775805,179507,Peprilus triacanthus,Butterfish,eatenBy
+775805,47710,Pandalidae,,eatenBy
+775805,97990,Clupea harengus,Atlantic Herring,eatenBy
+775805,69842,Scomber,,eatenBy
+775805,,Urochordata,,eatenBy
+775805,326208,Ammodytes marinus,Raitt's Sand Lance,eatenBy
+775805,1126296,Astarte arctica,,eatenBy
+775805,3820,Aptenodytes forsteri,Emperor Penguin,eatenBy
+775805,4168,Daption capense,Cape Petrel,eatenBy
+775805,4470,Sterna vittata,Antarctic Tern,eatenBy
+775805,144434,Aphrodroma brevirostris,Kerguelen Petrel,eatenBy
+775805,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+775805,4449,Sterna paradisaea,Arctic Tern,eatenBy
+775805,4184,Fulmarus glacialoides,Southern Fulmar,eatenBy
+775805,4195,Pagodroma nivea,Snow Petrel,eatenBy
+775805,4164,Pachyptila desolata,Antarctic Prion,eatenBy
+775805,4146,Oceanites oceanicus,Wilson's Storm-Petrel,eatenBy
+775805,4202,Thalassoica antarctica,Antarctic Petrel,eatenBy
+775805,4172,Fregetta tropica,Black-bellied Storm-Petrel,eatenBy
+775805,4200,Halobaena caerulea,Blue Petrel,eatenBy
+775805,4136,Procellaria aequinoctialis,White-chinned Petrel,eatenBy
+775805,617786,Gymnoscopelus braueri,,eatenBy
+775805,617787,Gymnoscopelus fraseri,,eatenBy
+775805,617788,Gymnoscopelus nicholsi,,eatenBy
+775805,4159,Pachyptila vittata,Broad-billed Prion,eatenBy
+775805,4162,Pachyptila crassirostris,Fulmar Prion,eatenBy
+775805,4161,Pachyptila salvini,Salvin's Prion,eatenBy
+775805,,Gelatinous zooplankton,,eatenBy
+775805,530415,Centrobranchus andreae,Andrea's Lanternfish,eatenBy
+775805,,Centrobranchus brevirostris,,eatenBy
+775805,,Centrobranchus nigroocellatus,,eatenBy
+775805,617744,Centrobranchus choerocephalus,,eatenBy
+775805,130238,Ammodytes hexapterus,Arctic Sand Lance,eatenBy
+775805,609228,Bathylagus gracilis,,eatenBy
+775805,,Dolicholagus longirostris,,eatenBy
+775805,,Scopelogadus mizolepis mizolepis,,eatenBy
+775805,95066,Balistes vetula,Queen Triggerfish,eatenBy
+775805,107685,Opisthonema libertate,Pacific Thread Herring,eatenBy
+775805,107684,Opisthonema bulleri,Slender Thread Herring,eatenBy
+775805,107686,Opisthonema medirastre,Middling Thread Herring,eatenBy
+775805,541673,Lepidonotothen squamifrons,Grey Rockcod,eatenBy
+775805,165100,Mallotus villosus,Capelin,eatenBy
+775805,617460,Laemonema longipes,,eatenBy
+775805,117571,Clupea pallasii,Pacific herring,eatenBy
+775805,328042,Engraulis japonicus,Japanese Anchovy,eatenBy
+775805,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eatenBy
+775805,169919,Trichodon trichodon,Pacific Sandfish,eatenBy
+775805,213521,Anarhichas orientalis,Bering Wolffish,eatenBy
+775805,317393,Sternoptyx diaphana,Oblique Hatchetfish,eatenBy
+775805,459369,Diaphus taaningi,,eatenBy
+775805,179500,Oxyporhamphus micropterus,Beaked Flyingfish,eatenBy
+775805,,Theragra chalcogramma,,eatenBy
+775805,53692,Oncorhynchus kisutch,Coho Salmon,eatenBy
+775805,107570,Oncorhynchus gorbuscha,Pink Salmon,eatenBy
+775805,69922,Oncorhynchus nerka,Sockeye Salmon,eatenBy
+775805,,Pseudopentaceros wheeleri,,eatenBy
+775805,244698,Thryssa baelama,Little Priest,eatenBy
+775805,64450,Sebastes alutus,Pacific Ocean Perch,eatenBy
+775805,183190,Pseudanthias pascalus,Purple Queen Anthias,eatenBy
+775805,459205,Beryx splendens,Alfonsino,eatenBy
+775805,131518,Xanthichthys ringens,Sargassum Triggerfish,eatenBy
+775805,,Trematomus eulepidotus,,eatenBy
+775805,,Trematomus hansoni,,eatenBy
+775805,1316623,Pleuragramma antarcticum,,eatenBy
+775805,,Encrasicholina devisi,,eatenBy
+775805,529473,Taeniamia zosterophora,Girdled Cardinalfish,eatenBy
+775805,529803,Spratelloides delicatulus,Blueback Sprat,eatenBy
+775805,179482,Porichthys plectrodon,Atlantic Midshipman,eatenBy
+775805,51364,Brevoortia patronus,Gulf Menhaden,eatenBy
+775805,100110,Epinephelus itajara,Atlantic Goliath Grouper,eatenBy
+775805,96740,Caranx crysos,Blue Runner,eatenBy
+775805,49316,Chaetodipterus faber,Atlantic Spadefish,eatenBy
+775805,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+775805,74103,Balaena mysticetus,Bowhead Whale,eatenBy
+775805,122914,Pristipomoides filamentosus,Rosy Snapper,eatenBy
+775805,127706,Heteroconger longissimus,Brown Garden Eel,eatenBy
+775805,121225,Decapterus macarellus,Mackerel Scad,eatenBy
+775805,,Chromis multilineata,,eatenBy
+775805,52464,Melichthys niger,Black Triggerfish,eatenBy
+775805,123659,Decapterus punctatus,Cigar Minnow,eatenBy
+775805,47292,Ocyurus chrysurus,Yellowtail Snapper,eatenBy
+775805,97983,Clepticus parrae,Creole Wrasse,eatenBy
+775805,93644,Alepisaurus ferox,Longnose Lancetfish,eatenBy
+775805,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+775805,107572,Oncorhynchus keta,Chum Salmon,eatenBy
+775805,67333,Bacteria,bacteria,preysOn
+775805,1,Animalia,Animals,preysOn
+775805,448292,Phaeocystis,,preysOn
+775805,121643,Copepoda,Copepods,preyedUponBy
+775805,85493,Crustacea,Crustaceans,preyedUponBy
+775805,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+775805,,Gelatinous zooplankton,,preyedUponBy
+775805,,Trematomus loennbergii,,preyedUponBy
+775805,609217,Cygnodraco mawsoni,,preyedUponBy
+775805,,Mertensiid ctenophore,,preyedUponBy
+775805,4200,Halobaena caerulea,Blue Petrel,preyedUponBy
+775805,,Thysanoessa macrura,,preyedUponBy
+775805,195414,Solmundella bitentaculata,,preyedUponBy
+775805,1130031,Hyperia macrocephala,,preyedUponBy
+775805,952607,Euphausia frigida,,preyedUponBy
+775805,,Dipulmaris antarctica,,preyedUponBy

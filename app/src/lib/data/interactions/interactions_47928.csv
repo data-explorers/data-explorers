@@ -1,0 +1,166 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47928,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+47928,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47928,67708,Argiope trifasciata,Banded Garden Spider,eatenBy
+47928,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+47928,103498,Ischnura posita,Fragile Forktail,eatenBy
+47928,13858,Passer domesticus,House Sparrow,eatenBy
+47928,145242,Setophaga palmarum,Palm Warbler,eatenBy
+47928,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+47928,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+47928,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47928,6930,Anas platyrhynchos,Mallard,eatenBy
+47928,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47928,10469,Xanthocephalus,,eatenBy
+47928,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+47928,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+47928,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47928,17355,Vireo,Vireos,eatenBy
+47928,558439,Mareca strepera,Gadwall,eatenBy
+47928,473,Fulica americana,American Coot,eatenBy
+47928,4940,Egretta thula,Snowy Egret,eatenBy
+47928,,Limnesia undulata,,eatenBy
+47928,,Hydrachna virella,,eatenBy
+47928,,Hydrachna crenulata,,eatenBy
+47928,109062,Perca fluviatilis,European Perch,eatenBy
+47928,,Hemibrycon sanjuanensis,,eatenBy
+47928,,Cubanichthys pengelleyi,,eatenBy
+47928,,Etheostoma flabellare,,eatenBy
+47928,180181,Lycengraulis grossidens,Atlantic Sabretooth Anchovy,eatenBy
+47928,,Tinca tinca,,eatenBy
+47928,,Umbra limi,,eatenBy
+47928,58662,Semotilus atromaculatus,Creek Chub,eatenBy
+47928,58654,Ameiurus nebulosus,Brown Bullhead,eatenBy
+47928,58618,Luxilus cornutus,Common Shiner,eatenBy
+47928,51351,Notemigonus crysoleucas,Golden Shiner,eatenBy
+47928,58627,Perca flavescens,Yellow Perch,eatenBy
+47928,49614,Lepomis gibbosus,Pumpkinseed,eatenBy
+47928,58637,Ambloplites rupestris,Rock Bass,eatenBy
+47928,,Anguilla dieffenbachii,,eatenBy
+47928,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+47928,,Lepomis punctatus,,eatenBy
+47928,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+47928,51333,Macquaria australasica,Macquarie Perch,eatenBy
+47928,,Promachus rufipes,,eatenBy
+47928,,Rhipidura fuliginosa placabilis,,eatenBy
+47928,61495,Erythemis simplicicollis,Eastern Pondhawk,eatenBy
+47928,,Promachus bastardii,,eatenBy
+47928,,Motacilla alba,,eatenBy
+47928,10487,Dolichonyx oryzivorus,Bobolink,eatenBy
+47928,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+47928,6994,Bucephala islandica,Barrow's Goldeneye,eatenBy
+47928,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47928,6924,Anas rubripes,American Black Duck,eatenBy
+47928,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+47928,17408,Vireo griseus,White-eyed Vireo,eatenBy
+47928,,Stictonetta naevosa,,eatenBy
+47928,7054,Aythya affinis,Lesser Scaup,eatenBy
+47928,7057,Aythya valisineria,Canvasback,eatenBy
+47928,4938,Egretta tricolor,Tricolored Heron,eatenBy
+47928,127593,Chloropidae,Frit Flies,preysOn
+47928,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+47928,47199,Ichneumonidae,Ichneumonid Wasps,preysOn
+47928,70144,Muscidae,House Flies and Allies,preysOn
+47928,60393,Tipula,,preysOn
+47928,47157,Lepidoptera,Butterflies and Moths,preysOn
+47928,61860,Calliphoridae,Blow Flies,preysOn
+47928,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+47928,51146,Chrysomelidae,Leaf Beetles,preysOn
+47928,317549,Dipogon,,preysOn
+47928,48286,Rhinophoridae,Woodlouse Flies,preysOn
+47928,53248,Elateridae,Click Beetles,preysOn
+47928,84670,Ephydridae,Shore Flies,preysOn
+47928,61267,Heteroptera,True Bugs,preysOn
+47928,47992,Limoniidae,Limoniid Crane Flies,preysOn
+47928,53275,Chironomidae,Non-biting Midges,preysOn
+47928,85862,Leptoceridae,Long-horned Caddisflies,preysOn
+47928,52910,Sarcophagidae,Flesh Flies,preysOn
+47928,55351,Phoridae,Humpbacked Flies,preysOn
+47928,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+47928,,Hercostomus assimilis,,preysOn
+47928,130265,Tetramesa,,preysOn
+47928,1200333,Teuchophorus calcaratus,,preysOn
+47928,495985,Limnobaris dolorosa,,preysOn
+47928,,Sciaridae,,preysOn
+47928,,Oedemera nobilis,,preysOn
+47928,,Limnia paludicola,,preysOn
+47928,,Ilione albiseta,,preysOn
+47928,177092,Meligethes,,preysOn
+47928,,Chrysotus cilipes,,preysOn
+47928,,Pipinculus sp,,preysOn
+47928,,Aphthona lutescens,,preysOn
+47928,473534,Tetanocera ferruginea,,preysOn
+47928,,Dolichopus nubilius,,preysOn
+47928,174422,Hybotidae,Hybotid Dance Flies,preysOn
+47928,,Herina parva,,preysOn
+47928,1087985,Swammerdamella brevicornis,,preysOn
+47928,,Haematopota,,preysOn
+47928,,Pherbina coryleti,,preysOn
+47928,578473,Herina frondescentiae,,preysOn
+47928,69803,Ceratopogonidae,Biting Midges,preysOn
+47928,,Episyrphus balteatus,,preysOn
+47928,123596,Chilocorus bipustulatus,Heather Ladybird,preysOn
+47928,,Chrysotoxum,,preysOn
+47928,,Neoascia,,preysOn
+47928,203300,Tetrastichus,,preysOn
+47928,,Herina germinationis,,preysOn
+47928,,Agriotes lineatus,,preysOn
+47928,,Callitula ferrierei,,preysOn
+47928,1200309,Argyra vestita,,preysOn
+47928,52380,Aphidoidea,,preysOn
+47928,,Propylaea quatuordecimpunctata,,preysOn
+47928,49460,Empididae,Dance Flies,preysOn
+47928,,Chaetocnema confusa,,preysOn
+47928,,Agriotes,,preysOn
+47928,1281108,Ilione lineata,,preysOn
+47928,127767,Trypoxylon attenuatum,,preysOn
+47928,,Cloeon simile,,preysOn
+47928,1123175,Pelochares versicolor,,preysOn
+47928,,Cantharis nigra,,preysOn
+47928,,Cytilus sericeus,,preysOn
+47928,,Sepedon spinipes,,preysOn
+47928,,Otitinae,,preysOn
+47928,546367,Nemotelus pantherinus,Fen Snout,preysOn
+47928,,Aprostocetus,,preysOn
+47928,,Oulema melanopus,,preysOn
+47928,,Rhopalum,,preysOn
+47928,,Sphaerocidae,,preysOn
+47928,,Limnephilidae,,preysOn
+47928,,"Dolichopus nubilius Meigen, 1924",,preysOn
+47928,,Enallagma civile,,preysOn
+47928,70191,Ischnura ramburii,Rambur's Forktail,preysOn
+47928,51556,Sympetrum,Meadowhawks,preyedUponBy
+47928,47927,Anisoptera,Dragonflies,preyedUponBy
+47928,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+47928,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+47928,47819,Libellulidae,Skimmers,preyedUponBy
+47928,486453,Colonus hesperus,,preyedUponBy
+47928,67708,Argiope trifasciata,Banded Garden Spider,preyedUponBy
+47928,14886,Mimus polyglottos,Northern Mockingbird,preyedUponBy
+47928,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+47928,979753,Leiothlypis ruficapilla,Nashville Warbler,preyedUponBy
+47928,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+47928,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+47928,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+47928,,Phylloneta impressa,,preyedUponBy
+47928,,Somatochlora,,preyedUponBy
+47928,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+47928,,Libellula depressa,,preyedUponBy
+47928,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47928,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+47928,,Theridion pictum,,preyedUponBy
+47928,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+47928,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+47928,,Dolomedes fimbriatus,,preyedUponBy
+47928,,Adversaeschna brevistyla,,preyedUponBy
+47928,,Orthetrum trinacria,,preyedUponBy
+47928,,Eutolmus rufibarbis,,preyedUponBy
+47928,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+47928,,Leucauge,,preyedUponBy
+47928,202182,Argiope aetherea,Northern Saint Andrew's Cross Spider,preyedUponBy
+47928,,Tachuris rubrigastra,,preyedUponBy
+47928,,Acrocephalus australis,,preyedUponBy
+47928,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy
+47928,,Alpaida bicornuta,,preyedUponBy
+47928,,Triorla interrupta,,preyedUponBy
+47928,,Tylorida ventralis,,preyedUponBy

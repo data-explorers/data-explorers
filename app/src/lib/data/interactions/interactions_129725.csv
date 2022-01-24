@@ -1,0 +1,136 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129725,67333,Bacteria,bacteria,eats
+129725,121643,Copepoda,Copepods,eats
+129725,123862,Chaetoceros,,eats
+129725,318459,Pennales,Pennate diatoms,eats
+129725,67334,Cyanobacteria,cyanobacteria,eats
+129725,152275,Thalassiosirales,,eats
+129725,,Phytoplankton,,eats
+129725,,Detritus,,eats
+129725,,Sagitta,,eats
+129725,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eats
+129725,617786,Gymnoscopelus braueri,,eats
+129725,617783,Electrona antarctica,,eats
+129725,975132,Eukrohnia hamata,,eats
+129725,334072,Ceratium,,eats
+129725,339306,Cocconeis,,eats
+129725,200879,Gymnodinium,,eats
+129725,,Silicoflagellida,,eats
+129725,123885,Pleurosigmataceae,,eats
+129725,,Tintinnina,,eats
+129725,,Protoperidinium,,eats
+129725,,Prymnesiophyceae,,eats
+129725,203808,Navicula,,eats
+129725,200886,Peridinium,,eats
+129725,208366,Orbiniidae,,eats
+129725,200862,Bacillariaceae,,eats
+129725,203613,Licmophora,,eats
+129725,,Chrysophyta,,eats
+129725,203644,Scrippsiella,,eats
+129725,359995,Thalassionema nitzschioides,,eats
+129725,339072,Prorocentrum,,eats
+129725,118996,Ciliophora,Ciliates,eatenBy
+129725,195136,Euphausia,,eatenBy
+129725,47534,Cnidaria,Cnidarians,eatenBy
+129725,800860,Salpa thompsoni,,eatenBy
+129725,69838,Cyanea capillata,Lion's Mane Jelly,eatenBy
+129725,87467,Chromis,Chromis,eatenBy
+129725,151827,Chaetognatha,Arrow Worms,eatenBy
+129725,48921,Hydrozoa,Hydrozoans,eatenBy
+129725,48483,Chrysaora,Sea Nettles,eatenBy
+129725,430553,Merlangius merlangus,Whiting,eatenBy
+129725,324532,Sprattus sprattus,European Sprat,eatenBy
+129725,86396,Ammodytes,,eatenBy
+129725,367966,Ammodytes tobianus,Lesser Sand Lance,eatenBy
+129725,326208,Ammodytes marinus,Raitt's Sand Lance,eatenBy
+129725,320793,Trisopterus esmarkii,Norway Pout,eatenBy
+129725,97990,Clupea harengus,Atlantic Herring,eatenBy
+129725,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+129725,47523,Pleuronectes platessa,European Plaice,eatenBy
+129725,51910,Engraulis encrasicolus,European Anchovy,eatenBy
+129725,61387,Limanda limanda,Sand Dab,eatenBy
+129725,63740,Gadus morhua,Atlantic Cod,eatenBy
+129725,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+129725,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+129725,201781,Calanus,,eatenBy
+129725,195081,Acartia,,eatenBy
+129725,201712,Euchaeta,,eatenBy
+129725,203396,Centropages,,eatenBy
+129725,459279,Lampanyctus pusillus,Pygmy Lanternfish,eatenBy
+129725,120683,Lobianchia dofleini,Doflein's Lanternfish,eatenBy
+129725,194867,Diogenichthys atlanticus,Atlantic Lanternfish,eatenBy
+129725,530440,Hygophum hanseni,Hansen's Lanternfish,eatenBy
+129725,530434,Electrona paucirastra,Belted Lanternfish,eatenBy
+129725,110696,Protomyctophum luciferum,,eatenBy
+129725,317001,Benthosema suborbitale,Dimple Lanternfish,eatenBy
+129725,317036,Ceratoscopelus warmingii,Warming's Lanternfish,eatenBy
+129725,617817,Protomyctophum andriashevi,,eatenBy
+129725,120700,Diaphus meadi,Mead's Lanternfish,eatenBy
+129725,530443,Lampanyctus australis,Austral Lanternfish,eatenBy
+129725,617788,Gymnoscopelus nicholsi,,eatenBy
+129725,530438,Gymnoscopelus microlampas,Minispotted Lanternfish,eatenBy
+129725,530433,Electrona carlsbergi,Carlsberg's Lanternfish,eatenBy
+129725,530456,Symbolophorus barnardi,Barnard's Lanternfish,eatenBy
+129725,103722,Krefftichthys anderssoni,,eatenBy
+129725,530455,Scopelopsis multipunctatus,Multispot Lanternfish,eatenBy
+129725,459373,Diaphus luetkeni,Luetken's Lanternfish,eatenBy
+129725,317181,Lampanyctus alatus,Winged Lanternfish,eatenBy
+129725,459369,Diaphus taaningi,,eatenBy
+129725,617819,Protomyctophum bolini,,eatenBy
+129725,617821,Protomyctophum choriodon,,eatenBy
+129725,530421,Diaphus hudsoni,Hudson's Lanternfish,eatenBy
+129725,617783,Electrona antarctica,,eatenBy
+129725,530435,Electrona subaspera,Rough Lanternfish,eatenBy
+129725,226037,Notoscopelus resplendens,Patchwork Lanternfish,eatenBy
+129725,530452,Protomyctophum normani,Norman's Lanternfish,eatenBy
+129725,459365,Diaphus effulgens,Headlight Lanternfish,eatenBy
+129725,530457,Symbolophorus boops,Spotfin Lanternfish,eatenBy
+129725,617789,Gymnoscopelus opisthopterus,,eatenBy
+129725,617785,Gymnoscopelus bolini,,eatenBy
+129725,530446,Metelectrona herwigi,Herwig Lanternfish,eatenBy
+129725,103965,Lampadena pontifex,,eatenBy
+129725,317153,Hygophum hygomii,Hygom's Lanternfish,eatenBy
+129725,344134,Euphausia superba,Antarctic Krill,eatenBy
+129725,,Euchirella rostromagna,,eatenBy
+129725,,Triconia antarctica,,eatenBy
+129725,,Notolepis coatsi,,eatenBy
+129725,,Metridia gerlachei,,eatenBy
+129725,292943,Clio pyramidata,,eatenBy
+129725,,Metridia curticauda,,eatenBy
+129725,,Pseudosagitta gazellae,,eatenBy
+129725,295894,Vibilia stebbingi,,eatenBy
+129725,,Paraeuchaeta antarctica,,eatenBy
+129725,952607,Euphausia frigida,,eatenBy
+129725,,Scaphocalanus farrani,,eatenBy
+129725,,Spinocalanus abyssalis,,eatenBy
+129725,,Gaetanus tenuispinus,,eatenBy
+129725,,Heterorhabdus austrinus,,eatenBy
+129725,,Haloptilus ocellatus,,eatenBy
+129725,,Thysanoessa macrura,,eatenBy
+129725,,Solidosagitta marri,,eatenBy
+129725,,Calanoides acutus,,eatenBy
+129725,975132,Eukrohnia hamata,,eatenBy
+129725,617786,Gymnoscopelus braueri,,eatenBy
+129725,,Calanus propinquus,,eatenBy
+129725,,Rhincalanus gigas,,eatenBy
+129725,201742,Pleuromamma robusta,,eatenBy
+129725,,Pseudoamallothrix cenotelis,,eatenBy
+129725,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eatenBy
+129725,47762,Sebastes,Rockfishes,eatenBy
+129725,,Sagitta,,eatenBy
+129725,112419,Sebastes mentella,Deepwater Redfish,eatenBy
+129725,165100,Mallotus villosus,Capelin,eatenBy
+129725,,Alle alle,,eatenBy
+129725,215318,Boreogadus saida,Arctic Cod,eatenBy
+129725,156879,Argentina,,eatenBy
+129725,617748,Diaphus arabicus,,eatenBy
+129725,186849,Hexagrammos stelleri,Whitespotted Greenling,eatenBy
+129725,117571,Clupea pallasii,Pacific herring,eatenBy
+129725,123659,Decapterus punctatus,Cigar Minnow,eatenBy
+129725,132534,Pagrus major,Red Seabream,eatenBy
+129725,,Theragra chalcogramma,,eatenBy
+129725,975132,Eukrohnia hamata,,preyedUponBy
+129725,617783,Electrona antarctica,,preyedUponBy
+129725,617786,Gymnoscopelus braueri,,preyedUponBy
+129725,,Sagitta,,preyedUponBy
+129725,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preyedUponBy

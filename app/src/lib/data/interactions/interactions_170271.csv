@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+170271,47219,Apis mellifera,Western Honey Bee,eatenBy
+170271,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+170271,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+170271,,Iphiclides podalirius,,eatenBy

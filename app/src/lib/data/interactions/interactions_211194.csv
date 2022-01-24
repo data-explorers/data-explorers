@@ -1,0 +1,125 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+211194,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+211194,39532,Testudines,Turtles and Tortoises,eatenBy
+211194,6888,Anseriformes,Waterfowl,eatenBy
+211194,47628,Amphipoda,Amphipods,eatenBy
+211194,333586,Oligochaeta,Earthworms and allies,eatenBy
+211194,49470,Collembola,Springtails,eatenBy
+211194,52381,Aphididae,Aphids,eatenBy
+211194,133623,Tropisternus,,eatenBy
+211194,473,Fulica americana,American Coot,eatenBy
+211194,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+211194,42051,Canis latrans,Coyote,eatenBy
+211194,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+211194,174572,Callibaetis,Speckled Duns,eatenBy
+211194,133821,Physa,,eatenBy
+211194,84670,Ephydridae,Shore Flies,eatenBy
+211194,132473,Lagodon rhomboides,Pinfish,eatenBy
+211194,18975,Amazona,Amazon Parrots,eatenBy
+211194,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+211194,199840,Haemorhous mexicanus,House Finch,eatenBy
+211194,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+211194,12890,Catharus guttatus,Hermit Thrush,eatenBy
+211194,9135,Spizella passerina,Chipping Sparrow,eatenBy
+211194,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+211194,9156,Passerella iliaca,Fox Sparrow,eatenBy
+211194,199841,Haemorhous purpureus,Purple Finch,eatenBy
+211194,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+211194,12727,Turdus migratorius,American Robin,eatenBy
+211194,9919,Piranga ludoviciana,Western Tanager,eatenBy
+211194,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+211194,9424,Pipilo erythrophthalmus,Eastern Towhee,eatenBy
+211194,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+211194,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+211194,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+211194,558433,Spatula discors,Blue-winged Teal,eatenBy
+211194,6930,Anas platyrhynchos,Mallard,eatenBy
+211194,7006,Anser,Grey Geese,eatenBy
+211194,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+211194,906,Meleagris gallopavo,Wild Turkey,eatenBy
+211194,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+211194,8229,Cyanocitta cristata,Blue Jay,eatenBy
+211194,8021,Corvus brachyrhynchos,American Crow,eatenBy
+211194,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+211194,14823,Sitta canadensis,Red-breasted Nuthatch,eatenBy
+211194,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+211194,9184,Zonotrichia albicollis,White-throated Sparrow,eatenBy
+211194,13858,Passer domesticus,House Sparrow,eatenBy
+211194,73044,Melozone crissalis,California Towhee,eatenBy
+211194,7086,Branta,Black Geese,eatenBy
+211194,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+211194,7998,Corvus,Crows and Ravens,eatenBy
+211194,7107,Aix sponsa,Wood Duck,eatenBy
+211194,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+211194,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+211194,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+211194,117002,Phainopepla nitens,Phainopepla,eatenBy
+211194,981,Phasianus colchicus,Ring-necked Pheasant,eatenBy
+211194,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+211194,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+211194,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+211194,13633,Baeolophus inornatus,Oak Titmouse,eatenBy
+211194,9100,Melospiza melodia,Song Sparrow,eatenBy
+211194,6993,Bucephala albeola,Bufflehead,eatenBy
+211194,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+211194,3936,Scolopax minor,American Woodcock,eatenBy
+211194,7044,Aythya collaris,Ring-necked Duck,eatenBy
+211194,73155,Passerina caerulea,Blue Grosbeak,eatenBy
+211194,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+211194,15256,Chamaea fasciata,Wrentit,eatenBy
+211194,9602,Quiscalus quiscula,Common Grackle,eatenBy
+211194,9346,Icterus galbula,Baltimore Oriole,eatenBy
+211194,145310,Spinus tristis,American Goldfinch,eatenBy
+211194,9152,Spizella pusilla,Field Sparrow,eatenBy
+211194,14850,Sturnus vulgaris,European Starling,eatenBy
+211194,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+211194,12942,Sialia sialis,Eastern Bluebird,eatenBy
+211194,14906,Toxostoma redivivum,California Thrasher,eatenBy
+211194,7294,Eremophila alpestris,Horned Lark,eatenBy
+211194,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+211194,9091,Melospiza,Melospiza Sparrows,eatenBy
+211194,18236,Colaptes auratus,Northern Flicker,eatenBy
+211194,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+211194,9182,Zonotrichia querula,Harris's Sparrow,eatenBy
+211194,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+211194,10479,Chondestes grammacus,Lark Sparrow,eatenBy
+211194,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+211194,1409,Callipepla californica,California Quail,eatenBy
+211194,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+211194,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+211194,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+211194,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+211194,19660,Regulus,Kinglets,eatenBy
+211194,12937,Sialia mexicana,Western Bluebird,eatenBy
+211194,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+211194,9325,Icterus spurius,Orchard Oriole,eatenBy
+211194,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+211194,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+211194,10469,Xanthocephalus,,eatenBy
+211194,4885,Recurvirostra americana,American Avocet,eatenBy
+211194,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+211194,558439,Mareca strepera,Gadwall,eatenBy
+211194,144496,Gallinago delicata,Wilson's Snipe,eatenBy
+211194,12901,Catharus fuscescens,Veery,eatenBy
+211194,14801,Sitta carolinensis,White-breasted Nuthatch,eatenBy
+211194,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+211194,9958,Aimophila ruficeps,Rufous-crowned Sparrow,eatenBy
+211194,9921,Piranga olivacea,Scarlet Tanager,eatenBy
+211194,508048,Antigone canadensis,Sandhill Crane,eatenBy
+211194,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+211194,6921,Cygnus olor,Mute Swan,eatenBy
+211194,7089,Branta canadensis,Canada Goose,eatenBy
+211194,7014,Anser cygnoides,Swan Goose,eatenBy
+211194,7043,Aythya,"Scaups, Pochards, and Allies",eatenBy
+211194,17355,Vireo,Vireos,eatenBy
+211194,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+211194,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+211194,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+211194,144455,Ardea alba,Great Egret,eatenBy
+211194,3108,Patagioenas fasciata,Band-tailed Pigeon,eatenBy
+211194,4756,Cathartes aura,Turkey Vulture,eatenBy
+211194,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+211194,145238,Setophaga petechia,Yellow Warbler,eatenBy
+211194,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+211194,4956,Ardea herodias,Great Blue Heron,eatenBy
+211194,7266,Psaltriparus minimus,Bushtit,eatenBy

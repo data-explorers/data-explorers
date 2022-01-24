@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+540910,51104,Thaliacea,Thaliaceans,eats
+540910,1,Animalia,Animals,eats
+540910,47178,Actinopterygii,Ray-finned Fishes,eats
+540910,47115,Mollusca,Molluscs,eats
+540910,47459,Cephalopoda,Cephalopods,eats
+540910,,Gnathostomata,,eats

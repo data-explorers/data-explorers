@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63187,244407,Zelus renardii,Leafhopper Assassin Bug,eatenBy
+63187,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+63187,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+63187,14850,Sturnus vulgaris,European Starling,eatenBy
+63187,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+63187,11867,Progne subis,Purple Martin,eatenBy
+63187,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+63187,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+63187,114127,Thymallus thymallus,Grayling,eatenBy
+63187,,Colibri coruscans,,eatenBy
+63187,,Salpinctes obsoletus,,eatenBy
+63187,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+63187,,Oporornis philadelphia,,eatenBy
+63187,,Wilsonia canadensis,,eatenBy
+63187,7603,Auriparus flaviceps,Verdin,eatenBy
+63187,17408,Vireo griseus,White-eyed Vireo,eatenBy
+63187,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+63187,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+63187,,Dendroica kirtlandii,,eatenBy
+63187,19577,Chordeiles minor,Common Nighthawk,eatenBy
+63187,13732,Anthus rubescens,American Pipit,eatenBy
+63187,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+63187,,Loxia curvirostra,,eatenBy
+63187,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+63187,6667,Cypseloides niger,Black Swift,eatenBy
+63187,52111,Baccharis,,pollinates
+63187,319327,Embothrium coccineum,Chilean fire bush,pollinates
+63187,178226,Eucryphia cordifolia,Ulmo,pollinates
+63187,,Myrceugenia parvifolia,,pollinates
+63187,,Myotis dasycneme,,preyedUponBy
+63187,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+63187,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+63187,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy

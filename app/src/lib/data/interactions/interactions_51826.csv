@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51826,229240,Psoloessa texana,Texas Range Grasshopper,eatenBy
+51826,51493,Trimerotropis pallidipennis,Pallid-winged Grasshopper,eatenBy
+51826,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+51826,7018,Anser anser,Greylag Goose,eatenBy
+51826,,Ageneotettix deorum,,eatenBy
+51826,,Dactylotum bicolor variegatum,,eatenBy
+51826,214639,Aulocara femoratum,White Cross Grasshopper,eatenBy
+51826,,Melanoplus gladstoni,,eatenBy
+51826,,Cordillacris occipitalis,,eatenBy
+51826,,Panoquina panoquinoides,,eatenBy
+51826,,Euplectes albonotatus,,eatenBy
+51826,41641,Ursus arctos,Brown Bear,eatenBy
+51826,,Chen caerulescens,,eatenBy
+51826,6898,Dendrocygna viduata,White-faced Whistling-Duck,eatenBy
+51826,7008,Anser indicus,Bar-headed Goose,eatenBy
+51826,,Ourebia ourebi,,preyedUponBy
+51826,,Procavia capensis,,preyedUponBy
+51826,,Loxodonta africana,,preyedUponBy
+51826,,Gazella thomsonii,,preyedUponBy
+51826,,Madoqua kirkii,,preyedUponBy
+51826,,Papio anubis,,preyedUponBy
+51826,,Connochaetes taurinus,,preyedUponBy
+51826,,Aepyceros melampus,,preyedUponBy
+51826,,Hippopotamus amphibius,,preyedUponBy
+51826,,Syncerus caffer,,preyedUponBy
+51826,,Phacochoerus africanus,,preyedUponBy
+51826,,Gazella granti,,preyedUponBy
+51826,,Damaliscus korrigum,,preyedUponBy
+51826,,Alcelaphus buselaphus,,preyedUponBy

@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+40270,20445,Tyto alba,Barn Owl,eatenBy
+40270,19893,Strix varia,Barred Owl,eatenBy
+40270,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+40270,16956,Pitangus sulphuratus,Great Kiskadee,eatenBy
+40270,20307,Asio otus,Long-eared Owl,eatenBy
+40270,48011,Ephemeroptera,Mayflies,preysOn
+40270,62164,Trichoptera,Caddisflies,preysOn
+40270,47208,Coleoptera,Beetles,preysOn
+40270,47157,Lepidoptera,Butterflies and Moths,preysOn
+40270,47822,Diptera,Flies,preysOn
+40270,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+40270,,Plecoptera,,preysOn
+40270,,Pseudelaphe flavirufa,,preyedUponBy
+40270,,Siphlophis cervinus,,preyedUponBy
+40270,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+40270,371962,Lampropeltis zonata,California Mountain Kingsnake,preyedUponBy

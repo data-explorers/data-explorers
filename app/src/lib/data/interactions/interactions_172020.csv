@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+172020,47459,Cephalopoda,Cephalopods,eats
+172020,47178,Actinopterygii,Ray-finned Fishes,eats
+172020,,Gnathostomata,,eats
+172020,,Teuthida,,eats
+172020,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+172020,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+172020,41470,Pontoporia blainvillei,Franciscana,eatenBy
+172020,,Sotalia fluviatilis,,eatenBy
+172020,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+172020,96764,Carcharhinus porosus,Smalltail Shark,eatenBy
+172020,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+172020,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+172020,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+172020,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+172020,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+172020,108562,Paralichthys lethostigma,Southern Flounder,eatenBy
+172020,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+172020,41482,Tursiops truncatus,Common Bottlenose Dolphin,preyedUponBy
+172020,52522,Ovalipes,,preyedUponBy
+172020,101053,Fundulus diaphanus,banded killifish,preyedUponBy
+172020,54539,Syngnathus,Pipe-fishes,preyedUponBy
+172020,96764,Carcharhinus porosus,Smalltail Shark,preyedUponBy
+172020,41470,Pontoporia blainvillei,Franciscana,preyedUponBy
+172020,,Sotalia fluviatilis,,preyedUponBy
+172020,,Limulus polyphemus,,preyedUponBy
+172020,53739,Cancer irroratus,Atlantic Rock Crab,preyedUponBy
+172020,93844,Ameiurus catus,White Catfish,preyedUponBy
+172020,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy
+172020,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+172020,154500,Cynoscion regalis,Weakfish,preyedUponBy
+172020,179598,Eucinostomus gula,Silver Jenny,preyedUponBy
+172020,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+172020,49237,Alosa,Anadromous Shads,preyedUponBy
+172020,179427,Aluterus schoepfii,Orange Filefish,preyedUponBy
+172020,179454,Syacium papillosum,Dusky Flounder,preyedUponBy
+172020,146600,Micropogonias undulatus,Atlantic Croaker,preyedUponBy
+172020,317228,Mullus auratus,Red Goatfish,preyedUponBy
+172020,61388,Scophthalmus aquosus,Windowpane Flounder,preyedUponBy
+172020,216647,Chasmodes bosquianus,Striped Blenny,preyedUponBy
+172020,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+172020,62393,Cancer borealis,Jonah Crab,preyedUponBy
+172020,179620,Cynoscion nebulosus,Spotted Seatrout,preyedUponBy
+172020,,Dasyatis centroura,,preyedUponBy
+172020,179447,Trachurus lathami,Rough Scad,preyedUponBy
+172020,104824,Lucania parva,rainwater killifish,preyedUponBy
+172020,51392,Morone saxatilis,Striped Bass,preyedUponBy
+172020,179444,Upeneus parvus,Dwarf Goatfish,preyedUponBy
+172020,49431,Orthopristis chrysoptera,Pigfish,preyedUponBy
+172020,194675,Lophius americanus,American Monkfish,preyedUponBy
+172020,179445,Trachinotus falcatus,Permit,preyedUponBy

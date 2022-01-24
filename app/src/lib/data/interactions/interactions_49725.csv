@@ -1,0 +1,70 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49725,123803,Undaria,,eats
+49725,48483,Chrysaora,Sea Nettles,eats
+49725,48921,Hydrozoa,Hydrozoans,eats
+49725,48394,Gymnolaemata,,eats
+49725,48217,Fucus,vesicled rockweeds,eats
+49725,62807,Mytilus,Black Mussels,eats
+49725,67424,Laminaria,,eats
+49725,123880,Bacillariophyceae,Diatoms,eats
+49725,124813,Alaria,,eats
+49725,52614,Zostera marina,Eelgrass,eats
+49725,124745,Cystoseira,,eats
+49725,125877,Costaria costata,seersucker kelp,eats
+49725,,Nereocystis luetkeanus,,eats
+49725,,Detritus complex,,eats
+49725,,Synisoma,,eats
+49725,117814,Odonthalia washingtoniensis,flat sea brush,eats
+49725,48921,Hydrozoa,Hydrozoans,eatenBy
+49725,47827,Cancer,,eatenBy
+49725,49052,Anthopleura,,eatenBy
+49725,41860,Enhydra lutris,Sea Otter,eatenBy
+49725,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+49725,4343,Larus,Large White-headed Gulls,eatenBy
+49725,,Cribrina,,eatenBy
+49725,91981,Sebastolobus,,eatenBy
+49725,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+49725,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+49725,53692,Oncorhynchus kisutch,Coho Salmon,eatenBy
+49725,68597,Sebastes caurinus,copper rockfish,eatenBy
+49725,68596,Hexagrammos decagrammus,Kelp Greenling,eatenBy
+49725,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eatenBy
+49725,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+49725,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+49725,221165,Hemilepidotus hemilepidotus,Red Irish Lord,eatenBy
+49725,67411,Gobiesocidae,Clingfishes,eatenBy
+49725,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+49725,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+49725,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+49725,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+49725,51280,Nemertea,Ribbon Worms,eatenBy
+49725,48505,Junonia coenia,Common Buckeye,eatenBy
+49725,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+49725,47628,Amphipoda,Amphipods,preysOn
+49725,48217,Fucus,vesicled rockweeds,preysOn
+49725,123880,Bacillariophyceae,Diatoms,preysOn
+49725,67424,Laminaria,,preysOn
+49725,48394,Gymnolaemata,,preysOn
+49725,62807,Mytilus,Black Mussels,preysOn
+49725,48921,Hydrozoa,Hydrozoans,preysOn
+49725,,Detritus complex,,preysOn
+49725,124813,Alaria,,preysOn
+49725,117814,Odonthalia washingtoniensis,flat sea brush,preysOn
+49725,,Phytoplankton,,preysOn
+49725,125877,Costaria costata,seersucker kelp,preysOn
+49725,52614,Zostera marina,Eelgrass,preysOn
+49725,124745,Cystoseira,,preysOn
+49725,,Synisoma,,preysOn
+49725,,Nereocystis luetkeanus,,preysOn
+49725,49052,Anthopleura,,preyedUponBy
+49725,47827,Cancer,,preyedUponBy
+49725,47645,Cottidae,Typical Sculpins,preyedUponBy
+49725,48921,Hydrozoa,Hydrozoans,preyedUponBy
+49725,49723,Pugettia producta,Northern Kelp Crab,preyedUponBy
+49725,51280,Nemertea,Ribbon Worms,preyedUponBy
+49725,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy
+49725,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy
+49725,67411,Gobiesocidae,Clingfishes,preyedUponBy
+49725,221165,Hemilepidotus hemilepidotus,Red Irish Lord,preyedUponBy
+49725,,Cribrina,,preyedUponBy
+49725,,Pisces,,preyedUponBy

@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42241,48797,Malvaceae,Mallow and Hibiscus Family,eats
+42241,127668,Entada,Callingcard Vines,eats
+42241,50999,Ficus,Figs,eats
+42241,,needle and thread (grass),,eats
+42241,,scarlet globe mallow (forb/shrub),,eats
+42241,,western wheatgrass (grass),,eats
+42241,,belvedere summer cypress (forb/shrub),,eats
+42241,146898,Artemisia frigida,fringed sagebrush,eats
+42241,,locoweed (forb/shrub),,eats
+42241,,cutleaf evening primrose (forb/shrub),,eats
+42241,,sand dropseed (grass),,eats
+42241,,slimflower scurf pea (forb/shrub),,eats
+42241,,hairy golden aster (forb/shrub),,eats
+42241,,gromwell (forb/shrub),,eats
+42241,,Chondrosum gracile,,eats
+42241,,carex (grass),,eats
+42241,,red three-awn (grass),,eats
+42241,,Antrocaryon,,eats
+42241,,Oxyanthus speciosus,,eats
+42241,,Anonidium mannii,,eats
+42241,,Ongokea gore,,eats
+42241,,Irvingia gabonensis,,eats
+42241,,Helixanthera mannii,,eats
+42241,,Artabothrys rhopalocarpus,,eats
+42241,,Symphonia globulifera,,eats
+42241,365237,Eremospatha wendlandiana,,eats
+42241,,Duboscia macrocarpa,,eats
+42241,,Staudtia gabonensis,,eats
+42241,,Diogoa zenkeri,,eats
+42241,923859,Mammea africana,,eats
+42241,,Caloncoba glauca,,eats
+42241,181343,Santiria,,eats
+42241,357768,Coula edulis,,eats
+42241,,Canarium,,eats
+42241,,Piptadeniastrum africanum,,eats
+42241,68702,Phyllanthus,,eats
+42241,,Ricinodendron heudelotii africanum,,eats
+42241,,Alchornea cordifolia,,eats
+42241,,Chrysophyllum pruniforme,,eats
+42241,,Oubanguia africana,,eats
+42241,186461,Heisteria,,eats
+42241,,Hugonia,,eats
+42241,133196,Xylopia,,eats
+42241,68048,Pentaclethra,,eats
+42241,186362,Irvingia,African mangoes,eats
+42241,340377,Ficus lingua,small-leaved fig,eats
+42241,,Scorodophloeus zenkeri,,eats
+42241,,Dacryodes edulis,,eats
+42241,,Plagiostyles africana,,eats
+42241,72056,Cissus,,eats
+42241,,Uapaca,,eats
+42241,,Phyllanthus polyanthus,,eats
+42241,63205,Arachis hypogaea,Peanut,eats
+42241,,Pseudospondias,,eats
+42241,,Antrocaryon micraster,,eats
+42241,912742,Scytopetalum klaineanum,,eats
+42241,,Dacryodes buettneri,,eats
+42241,,Sherbournia bignoniiflora,,eats
+42241,,Monanthotaxis,,eats
+42241,,Panda,,eats
+42241,,Anthocleista schweinfurthii,,eats
+42241,,Duguetia staudtii,,eats
+42241,,Sherbournia hapalophylla,,eats
+42241,341036,Musanga cecropioides,African corkwood tree,eats
+42241,184932,Polyalthia,,eats
+42241,,Sherbournia batesi,,eats
+42241,506266,Cylindropsis,,eats
+42241,1244728,Dichostemma glaucescens,,eats
+42241,,Parinari glabra,,eats
+42241,,Scyphocephalium,,eats
+42241,467378,Klainedoxa,,eats
+42241,,Parapentas setigera,,eats
+42241,,Anthocleista vogelii,,eats
+42241,,Uvaria,,eats
+42241,,Nauclea,,eats
+42241,,Dacryodes igaganga,,eats
+42241,,Annickia polycarpa,,eats
+42241,,Strychnos ngouniensis,,eats
+42241,,Pancovia pedicellaris,,eats
+42241,83505,Strychnos,strychnos,eats
+42241,,Hugonia platysepala,,eats
+42241,467385,Pycnanthus angolensis,African Nutmeg,eats
+42241,,Anopyxis,,eats
+42241,,Solanum torvum,,eats
+42241,933775,Coelocaryon preussii,,eats
+42241,42069,Vulpes vulpes,Red Fox,eatenBy
+42241,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+42241,8010,Corvus corax,Common Raven,eatenBy
+42241,41676,Bassariscus astutus,Ringtail,eatenBy
+42241,42048,Canis lupus,Gray Wolf,eatenBy
+42241,851014,Canis aureus,Golden Jackal,eatenBy
+42241,,Canis mesomelas,,eatenBy
+42241,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+42241,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+42241,42042,Caracal caracal,Caracal,eatenBy
+42241,41886,Crocuta crocuta,Spotted Hyaena,eatenBy
+42241,41963,Panthera pardus,Leopard,eatenBy
+42241,41964,Panthera leo,Lion,eatenBy
+42241,41789,Taxidea taxus,American Badger,eatenBy
+42241,41967,Panthera tigris,Tiger,eatenBy
+42241,,Coyote,,eatenBy
+42241,,Aquila chrysaetos,,eatenBy
+42241,,Python sebae,,preyedUponBy

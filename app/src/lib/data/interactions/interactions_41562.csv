@@ -1,0 +1,99 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41562,121643,Copepoda,Copepods,eats
+41562,153112,Euphausiacea,krill,eats
+41562,47459,Cephalopoda,Cephalopods,eats
+41562,248332,Munida,,eats
+41562,47628,Amphipoda,Amphipods,eats
+41562,4180,Fulmarus glacialis,Northern Fulmar,eats
+41562,85493,Crustacea,Crustaceans,eats
+41562,47458,Octopoda,Octopuses,eats
+41562,47178,Actinopterygii,Ray-finned Fishes,eats
+41562,47115,Mollusca,Molluscs,eats
+41562,952607,Euphausia frigida,,eats
+41562,952617,Euphausia vallentini,,eats
+41562,,Pisces,,eats
+41562,,None,,eats
+41562,215318,Boreogadus saida,Arctic Cod,eats
+41562,706438,Themisto libellula,,eats
+41562,,Cephalaspidomorphi,,eats
+41562,165100,Mallotus villosus,Capelin,eats
+41562,558731,Themisto abyssorum,,eats
+41562,639178,Meganyctiphanes norvegica,Northern Krill,eats
+41562,,Calanus hyperboreus,,eats
+41562,97990,Clupea harengus,Atlantic Herring,eats
+41562,329000,Thysanoessa raschii,,eats
+41562,195087,Thysanoessa inermis,,eats
+41562,372502,Calanus finmarchicus,,eats
+41562,,Thysanoessa longicaudata,,eats
+41562,,Calanus glacialis,,eats
+41562,432427,Gonatus fabricii,Boreoatlantic Gonate Squid,eats
+41562,47762,Sebastes,Rockfishes,eats
+41562,82351,Melanogrammus aeglefinus,Haddock,eats
+41562,120702,Micromesistius poutassou,Blue Whiting,eats
+41562,220480,Glyptocephalus cynoglossus,Witch Flounder,eats
+41562,63740,Gadus morhua,Atlantic Cod,eats
+41562,228496,Pollachius virens,Pollock,eats
+41562,86396,Ammodytes,,eats
+41562,55297,Clione limacina,Naked Sea Butterfly,eats
+41562,118678,Scomber scombrus,Atlantic Mackerel,eats
+41562,340950,Themisto gaudichaudii,,eats
+41562,,Gnathostomata,,eats
+41562,,Neocalanus tonsus,,eats
+41562,338754,Symbion pandora,,eats
+41562,195088,Nyctiphanes simplex,,eats
+41562,432418,Filippovia knipovitchi,Smooth Hooked Squid,eats
+41562,,Teuthida,,eats
+41562,296029,Thysanoessa spinifera,,eats
+41562,89064,Icosteus,,eats
+41562,567075,Neocalanus cristatus,,eats
+41562,201713,Euphausia pacifica,North Pacific krill,eats
+41562,213402,Ammodytes americanus,American Sand Lance,eats
+41562,344134,Euphausia superba,Antarctic Krill,eats
+41562,50873,Carcharodon carcharias,Great White Shark,eatenBy
+41562,195134,Euphausiidae,Euphotic Krill,preysOn
+41562,153112,Euphausiacea,krill,preysOn
+41562,800860,Salpa thompsoni,,preysOn
+41562,47459,Cephalopoda,Cephalopods,preysOn
+41562,85910,Myctophidae,Lanternfishes,preysOn
+41562,55535,Sardinops sagax,Pacific Sardine,preysOn
+41562,392205,Martialia hyadesi,sevenstar flying squid,preysOn
+41562,,Euchaetomera,,preysOn
+41562,800858,Salpa gerlachei,,preysOn
+41562,800852,Ihlea racovitzai,,preysOn
+41562,752813,Alluroteuthis antarcticus,Antarctic Neosquid,preysOn
+41562,617788,Gymnoscopelus nicholsi,,preysOn
+41562,,Notolepis coatsi,,preysOn
+41562,260964,Primno macropa,,preysOn
+41562,1321176,Cyllopus lucasii,,preysOn
+41562,,Kondakovia longimana,,preysOn
+41562,,Onykia ingens,,preysOn
+41562,618295,Dissostichus mawsoni,Antarctic toothfish,preysOn
+41562,617789,Gymnoscopelus opisthopterus,,preysOn
+41562,952607,Euphausia frigida,,preysOn
+41562,295545,Eucopia australis,,preysOn
+41562,,Paraeuchaeta antarctica,,preysOn
+41562,,Antarctomysis maxima,,preysOn
+41562,432420,Galiteuthis glacialis,Glacial Cranch Squid,preysOn
+41562,340950,Themisto gaudichaudii,,preysOn
+41562,432480,Mesonychoteuthis hamiltoni,Colossal Squid,preysOn
+41562,295894,Vibilia stebbingi,,preysOn
+41562,952605,Euphausia crystallorophias,,preysOn
+41562,610058,Champsocephalus gunnari,Mackerel icefish,preysOn
+41562,295887,Vibilia antarctica,,preysOn
+41562,617786,Gymnoscopelus braueri,,preysOn
+41562,344134,Euphausia superba,Antarctic Krill,preysOn
+41562,,Calanus propinquus,,preysOn
+41562,,Metridia gerlachei,,preysOn
+41562,,Pisces,,preysOn
+41562,,Zooplankton,,preysOn
+41562,1316623,Pleuragramma antarcticum,,preysOn
+41562,389856,Gonatus antarcticus,Antarctic Gonate Squid,preysOn
+41562,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preysOn
+41562,,Hyperiella dilatata,,preysOn
+41562,,Thysanoessa macrura,,preysOn
+41562,617819,Protomyctophum bolini,,preysOn
+41562,,Calanoides acutus,,preysOn
+41562,,Rhincalanus gigas,,preysOn
+41562,432418,Filippovia knipovitchi,Smooth Hooked Squid,preysOn
+41562,50873,Carcharodon carcharias,Great White Shark,preyedUponBy
+41562,103503,Isistius brasiliensis,Smalltooth Cookiecutter Shark,preyedUponBy

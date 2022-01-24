@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64148,68104,Bryozoa,Bryozoans,eats
+64148,47126,Plantae,plants,eats
+64148,1,Animalia,Animals,eats
+64148,,Algae,,eats
+64148,4838,Haematopus bachmani,Black Oystercatcher,eatenBy

@@ -1,0 +1,154 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+320326,85912,Mysidae,,eats
+320326,121643,Copepoda,Copepods,eats
+320326,52523,Carcinus maenas,European Green Crab,eats
+320326,85521,Harpacticoida,Harpacticoid Copepods,eats
+320326,47158,Insecta,Insects,eats
+320326,88563,Gobius,,eats
+320326,47114,Gastropoda,Gastropods,eats
+320326,144117,Thecostraca,Barnacles and Allies,eats
+320326,54960,Nematoda,Nematodes,eats
+320326,47490,Polychaeta,Polychaete Worms,eats
+320326,47628,Amphipoda,Amphipods,eats
+320326,85493,Crustacea,Crustaceans,eats
+320326,47811,Ascidiacea,Sea Squirts,eats
+320326,47828,Cancridae,Rock Crabs,eats
+320326,121639,Brachyura,True Crabs,eats
+320326,81648,Mytilus galloprovincialis,Mediterranean Mussel,eats
+320326,49129,Balanus,Rock-barnacles,eats
+320326,1,Animalia,Animals,eats
+320326,153112,Euphausiacea,krill,eats
+320326,47186,Decapoda,Decapods,eats
+320326,81641,Palaemon,Glass Shrimps,eats
+320326,48836,Ophiuroidea,Brittle Stars,eats
+320326,81791,Nereis,,eats
+320326,47126,Plantae,plants,eats
+320326,47115,Mollusca,Molluscs,eats
+320326,47549,Echinodermata,Echinoderms,eats
+320326,260491,Ampelisca macrocephala,,eats
+320326,,Phytoplankton,,eats
+320326,774778,Gymnoplea,,eats
+320326,47290,Crangonidae,,eats
+320326,,Paradoxostoma tenuissimum,,eats
+320326,372502,Calanus finmarchicus,,eats
+320326,,Oithona similis,,eats
+320326,144114,Peracarida,Amphipods and Isopods,eats
+320326,201728,Temora,,eats
+320326,,Loxoconcha impressa,,eats
+320326,,Erythrops erythrophthalma,,eats
+320326,480415,Acartia clausi,,eats
+320326,337827,Hediste diversicolor,Estuary Ragworm,eats
+320326,59806,Gammaridae,,eats
+320326,,Unciola,,eats
+320326,1104412,Maera loveni,,eats
+320326,203467,Temora longicornis,,eats
+320326,,Hyale nilssoni,,eats
+320326,,Diastylidae,,eats
+320326,48145,Gnathia,,eats
+320326,1039998,Protomedeia fasciata,,eats
+320326,344748,Pomatoschistus minutus,Sand Goby,eats
+320326,,Dulichia falcata,,eats
+320326,,Bythocythere,,eats
+320326,329013,Pseudocalanus elongatus,,eats
+320326,424300,Pandalus montagui,Aesop Shrimp,eats
+320326,,Cephalaspidomorphi,,eats
+320326,603996,Crangon allmanni,,eats
+320326,984283,Euterpina acutifrons,,eats
+320326,483093,Abra alba,White Furrow-shell,eats
+320326,,Trigla lucerna,,eats
+320326,64637,Corophium,,eats
+320326,,Mysidacea,,eats
+320326,47488,Cirratulidae,,eats
+320326,,Nereis diversicolor,,eats
+320326,,Solea vulgaris,,eats
+320326,199325,Alitta succinea,Clam Worm,eats
+320326,118589,Conger conger,European Conger,eats
+320326,118851,Crangon crangon,Brown Shrimp,eats
+320326,59807,Gammarus,,eats
+320326,788446,Lycodinae,,eats
+320326,195081,Acartia,,eats
+320326,,Isias,,eats
+320326,,Parathemisto,,eats
+320326,,Podon,,eats
+320326,203476,Metridia,,eats
+320326,,Pisces,,eats
+320326,195329,Hyperia,,eats
+320326,195173,Macropipus,,eats
+320326,60395,Branchiopoda,Branchiopods,eats
+320326,203396,Centropages,,eats
+320326,130090,Porcellana,,eats
+320326,201757,Calanidae,,eats
+320326,203478,Evadne,,eats
+320326,91235,Pomatoschistus,,eats
+320326,,Gnathostomata,,eats
+320326,,Gelidium sp.,,eats
+320326,129185,Mysis,,eats
+320326,,Fimbria,,eats
+320326,3,Aves,Birds,eatenBy
+320326,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+320326,118636,Scophthalmus rhombus,Brill,eatenBy
+320326,,Podocotyle staffordi,,eatenBy
+320326,,Hemiuris communis,,eatenBy
+320326,,Cestoda,,eatenBy
+320326,973701,Derogenes varicus,,eatenBy
+320326,63740,Gadus morhua,Atlantic Cod,eatenBy
+320326,48402,Amblyraja radiata,Thorny Skate,eatenBy
+320326,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+320326,48397,Raja clavata,Thornback Skate,eatenBy
+320326,97990,Clupea harengus,Atlantic Herring,eatenBy
+320326,118589,Conger conger,European Conger,eatenBy
+320326,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+320326,52523,Carcinus maenas,European Green Crab,preysOn
+320326,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+320326,194046,Gammarus locusta,,preysOn
+320326,110042,Pomatoschistus microps,Common Goby,preysOn
+320326,1188785,Jaera albifrons,,preysOn
+320326,97990,Clupea harengus,Atlantic Herring,preysOn
+320326,203480,Praunus flexuosus,Chameleon Shrimp,preysOn
+320326,1110858,Cumopsis goodsir,,preysOn
+320326,339404,Gammarus marinus,,preysOn
+320326,344748,Pomatoschistus minutus,Sand Goby,preysOn
+320326,118851,Crangon crangon,Brown Shrimp,preysOn
+320326,,Trigla lucerna,,preysOn
+320326,59806,Gammaridae,,preysOn
+320326,199325,Alitta succinea,Clam Worm,preysOn
+320326,194016,Maldanidae,bamboo worms,preysOn
+320326,118589,Conger conger,European Conger,preysOn
+320326,,Nereis diversicolor,,preysOn
+320326,,Solea vulgaris,,preysOn
+320326,47488,Cirratulidae,,preysOn
+320326,,Mysidacea,,preysOn
+320326,64637,Corophium,,preysOn
+320326,208371,Capitellidae,,preysOn
+320326,59807,Gammarus,,preysOn
+320326,,Diosaccuss tenuicornis,,preysOn
+320326,,Gammarus insensiblis,,preysOn
+320326,480415,Acartia clausi,,preysOn
+320326,,Microcalanus pusillis,,preysOn
+320326,,Osteichthyes,,preysOn
+320326,203467,Temora longicornis,,preysOn
+320326,,Zaus spinatus,,preysOn
+320326,,Thalestris rufovalescans,,preysOn
+320326,64641,Gammarus salinus,,preysOn
+320326,,Gammaropsis maculata,,preysOn
+320326,,Paracalanus parvus,,preysOn
+320326,203475,Metridia lucens,,preysOn
+320326,130385,Palaemon serratus,Common Prawn,preysOn
+320326,117678,Tigriopus californicus,,preysOn
+320326,,Eutemora hirundoides,,preysOn
+320326,329013,Pseudocalanus elongatus,,preysOn
+320326,203477,Evadne nordmanni,,preysOn
+320326,,Centropages typicus,,preysOn
+320326,,Tigriopus brevicornis,,preysOn
+320326,346580,Calanus helgolandicus,,preysOn
+320326,,Eucalanus elongatus elongatus,,preysOn
+320326,1110968,Podon intermedius,,preysOn
+320326,552295,Gammarellus angulosus,,preysOn
+320326,51910,Engraulis encrasicolus,European Anchovy,preysOn
+320326,3,Aves,Birds,preyedUponBy
+320326,48397,Raja clavata,Thornback Skate,preyedUponBy
+320326,113064,Squatina squatina,Angelshark,preyedUponBy
+320326,118720,Eutrigla gurnardus,Grey Gurnard,preyedUponBy
+320326,97990,Clupea harengus,Atlantic Herring,preyedUponBy
+320326,118603,Merluccius merluccius,European Hake,preyedUponBy
+320326,118589,Conger conger,European Conger,preyedUponBy

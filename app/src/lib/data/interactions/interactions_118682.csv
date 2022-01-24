@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118682,1,Animalia,Animals,eats
+118682,47811,Ascidiacea,Sea Squirts,eats
+118682,85493,Crustacea,Crustaceans,eats
+118682,121643,Copepoda,Copepods,eats
+118682,47628,Amphipoda,Amphipods,eats
+118682,47490,Polychaeta,Polychaete Worms,eats
+118682,,Gnathostomata,,eats
+118682,,Osteichthyes,,eats
+118682,,,,eats
+118682,48407,Raja,,eatenBy
+118682,118614,Phycis phycis,Forkbeard,eatenBy
+118682,118631,Scorpaena porcus,Black Scorpionfish,eatenBy
+118682,100119,Epinephelus marginatus,Dusky Grouper,eatenBy
+118682,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+118682,118631,Scorpaena porcus,Black Scorpionfish,preyedUponBy
+118682,100119,Epinephelus marginatus,Dusky Grouper,preyedUponBy

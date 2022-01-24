@@ -1,0 +1,100 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52788,47126,Plantae,plants,eats
+52788,83201,Thysanoptera,Thrips,eats
+52788,47170,Fungi,Fungi Including Lichens,eats
+52788,48217,Fucus,vesicled rockweeds,eats
+52788,378126,Sericothrips,,eats
+52788,,Lepus americanus,,eats
+52788,,Charadrius morinellus,,eats
+52788,,Detritus,,eats
+52788,252397,Aeolothrips,,eats
+52788,22423,Eleutherodactylus richmondi,Ground Coqui,eats
+52788,36427,Anolis gundlachi,Gundlach’s Anole,eats
+52788,36445,Anolis evermanni,Emerald anole,eats
+52788,22411,Eleutherodactylus portoricensis,Forest Coqui,eats
+52788,22620,Eleutherodactylus eneidae,Mottled Coqui,eats
+52788,36606,Anolis stratulus,Banded Anole,eats
+52788,22619,Eleutherodactylus hedricki,Tree-hole Coqui,eats
+52788,,Eleutherodactylus wightmanae,,eats
+52788,,Eleutherodactylus coqui,,eats
+52788,465294,Ralfsia fungiformis,,eats
+52788,,Ralfsia verrucosa,,eats
+52788,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+52788,83201,Thysanoptera,Thrips,eatenBy
+52788,47118,Araneae,Spiders,eatenBy
+52788,47208,Coleoptera,Beetles,eatenBy
+52788,49556,Chilopoda,Centipedes,eatenBy
+52788,47822,Diptera,Flies,eatenBy
+52788,47336,Formicidae,Ants,eatenBy
+52788,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+52788,54960,Nematoda,Nematodes,eatenBy
+52788,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+52788,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+52788,36582,Anolis pogus,bearded anole,eatenBy
+52788,36432,Anolis gingivinus,Anguilla Anole,eatenBy
+52788,930,Lagopus,Ptarmigans,eatenBy
+52788,,Calidris maritima,,eatenBy
+52788,110042,Pomatoschistus microps,Common Goby,eatenBy
+52788,36606,Anolis stratulus,Banded Anole,eatenBy
+52788,1120226,Sphaerodactylus macrolepis,,eatenBy
+52788,,Eleutherodactylus wightmanae,,eatenBy
+52788,,Amphisbaena caeca,,eatenBy
+52788,12718,Turdus plumbeus,Red-legged Thrush,eatenBy
+52788,36427,Anolis gundlachi,Gundlach’s Anole,eatenBy
+52788,,Eleutherodactylus coqui,,eatenBy
+52788,36445,Anolis evermanni,Emerald anole,eatenBy
+52788,,Caracolus,,eatenBy
+52788,22411,Eleutherodactylus portoricensis,Forest Coqui,eatenBy
+52788,22979,Leptodactylus albilabris,Caribbean White-lipped Frog,eatenBy
+52788,,Typhlops rostellatus,,eatenBy
+52788,22620,Eleutherodactylus eneidae,Mottled Coqui,eatenBy
+52788,22423,Eleutherodactylus richmondi,Ground Coqui,eatenBy
+52788,33730,Sphaerodactylus klauberi,Puerto Rican Upland Sphaero,eatenBy
+52788,,Pseudoscorpionida,,eatenBy
+52788,785126,Palaemon xiphias,Posidonia prawn,eatenBy
+52788,482058,Isoperla grammatica,Yellow Sally Stonefly,eatenBy
+52788,505410,Polycentropus flavomaculatus,,eatenBy
+52788,546250,Plectrocnemia conspersa,,eatenBy
+52788,,Leptocerus,,eatenBy
+52788,,Agabus bipustulatus,,eatenBy
+52788,51678,Coenagrion puella,Azure Damselfly,eatenBy
+52788,84734,Agabus,,eatenBy
+52788,,Melanorivulus pictus,,eatenBy
+52788,,Australoheros facetus,,eatenBy
+52788,53520,Synbranchus marmoratus,Marbled Swamp Eel,eatenBy
+52788,107366,Odontostilbe fugitiva,,eatenBy
+52788,610821,Mimagoniates microlepis,,eatenBy
+52788,516329,Astyanax bimaculatus,Twospot Astyanax,eatenBy
+52788,,Astyanax schubarti,,eatenBy
+52788,,Nannothrissa parva,,eatenBy
+52788,48596,Campanula,bellflowers,pollinates
+52788,,Salix arctica,,pollinates
+52788,52788,Acari,Mites and Ticks,preysOn
+52788,129730,Poduromorpha,Plump Springtails,preysOn
+52788,83224,Entomobryomorpha,Elongate Springtails,preysOn
+52788,,Sminthuridae,,preysOn
+52788,52788,Acari,Mites and Ticks,preyedUponBy
+52788,47951,Staphylinidae,Rove Beetles,preyedUponBy
+52788,61267,Heteroptera,True Bugs,preyedUponBy
+52788,84734,Agabus,,preyedUponBy
+52788,,Agabus bipustulatus,,preyedUponBy
+52788,,Compsidolon (Coniortodes) salicellum,,preyedUponBy
+52788,,Malacocoris chlorizans,,preyedUponBy
+52788,,Loricula elegantula,,preyedUponBy
+52788,,Himacerus (Himacerus) apterus,,preyedUponBy
+52788,481398,Blepharidopterus angulatus,Black-kneed Capsid,preyedUponBy
+52788,385112,Aeolothrips melaleucus,,preyedUponBy
+52788,,Comantenna,,preyedUponBy
+52788,,Euconnus hirticollis,,preyedUponBy
+52788,173319,Brachygluta,,preyedUponBy
+52788,251175,Edaphus,,preyedUponBy
+52788,129878,Nabidae,Damsel Bugs,preyedUponBy
+52788,143336,Phlaeothripidae,Tube-tailed Thrips,preyedUponBy
+52788,,Propylaea quatuordecimpunctata,,preyedUponBy
+52788,123596,Chilocorus bipustulatus,Heather Ladybird,preyedUponBy
+52788,,Haplothrips,,preyedUponBy
+52788,174329,Microphysidae,Minute Bladder Bugs,preyedUponBy
+52788,131906,Oxytelus,,preyedUponBy
+52788,988384,Bryaxis bulbifer,,preyedUponBy
+52788,,Euconnus,,preyedUponBy
+52788,887499,Himacerus boops,,preyedUponBy

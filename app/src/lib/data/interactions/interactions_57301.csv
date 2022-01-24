@@ -1,0 +1,53 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57301,47126,Plantae,plants,eats
+57301,47628,Amphipoda,Amphipods,eats
+57301,48147,Isopoda,Isopods,eats
+57301,47490,Polychaeta,Polychaete Worms,eats
+57301,1,Animalia,Animals,eats
+57301,85493,Crustacea,Crustaceans,eats
+57301,68764,Ostracoda,Seed Shrimp,eats
+57301,47158,Insecta,Insects,eats
+57301,121643,Copepoda,Copepods,eats
+57301,48073,Alismatales,"water-plantains, seagrass, and allies",eats
+57301,130178,Sargassum,Sargassum,eats
+57301,53275,Chironomidae,Non-biting Midges,eats
+57301,47115,Mollusca,Molluscs,eats
+57301,47114,Gastropoda,Gastropods,eats
+57301,121639,Brachyura,True Crabs,eats
+57301,,Zooplankton,,eats
+57301,437178,Zostera tasmanica,,eats
+57301,,Hydracarina,,eats
+57301,,Foraminiferida,,eats
+57301,,Macroalgae,,eats
+57301,,Invertebrata,,eats
+57301,,Prymnesiophyceae,,eats
+57301,,Detritus,,eats
+57301,,,,eats
+57301,,Phytoplankton,,eats
+57301,,unidentifed,,eats
+57301,85507,Calanoida,Calanoid Copepods,eats
+57301,377210,Nematodes,Nematodes False Click Beetles,eats
+57301,126921,Brachionus,,eats
+57301,,Pisces,,eats
+57301,85693,Chydoridae,,eats
+57301,,Algae,,eats
+57301,50372,Halophila,,eats
+57301,,unidentified veligers,,eats
+57301,,Gnathostomata,,eats
+57301,1022290,Bosminopsis,,eats
+57301,4496,Rynchops niger,Black Skimmer,eatenBy
+57301,47257,Acanthocybium solandri,Wahoo,eatenBy
+57301,,Hypacanthus,,eatenBy
+57301,47537,Makaira mazara,Indo-Pacific Blue Marlin,eatenBy
+57301,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+57301,203918,Argyrosomus japonicus,Mulloway,eatenBy
+57301,50984,Pomatomus saltatrix,Bluefish,eatenBy
+57301,85294,Arripis truttacea,Western Australian Salmon,eatenBy
+57301,85293,Arripis georgianus,Australian Herring,eatenBy
+57301,,Zooplankton,,preysOn
+57301,47257,Acanthocybium solandri,Wahoo,preyedUponBy
+57301,,Hypacanthus,,preyedUponBy
+57301,85293,Arripis georgianus,Australian Herring,preyedUponBy
+57301,85294,Arripis truttacea,Western Australian Salmon,preyedUponBy
+57301,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preyedUponBy
+57301,,no name,,preyedUponBy

@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55009,47219,Apis mellifera,Western Honey Bee,eatenBy
+55009,46020,Sciurus niger,Fox Squirrel,eatenBy
+55009,,Calophya californica,,eatenBy
+55009,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+55009,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+55009,47208,Coleoptera,Beetles,pollinatedBy
+55009,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+55009,47822,Diptera,Flies,pollinatedBy

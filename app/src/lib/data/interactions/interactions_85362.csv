@@ -1,0 +1,78 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85362,125381,Asclepias incarnata,swamp milkweed,eats
+85362,56851,Asclepias fascicularis,narrowleaf milkweed,eats
+85362,54570,Mentha,mints,eats
+85362,48678,Solidago,goldenrods,eats
+85362,75602,Asclepias curassavica,tropical milkweed,eats
+85362,130376,Solidago speciosa,showy goldenrod,eats
+85362,72327,Pycnanthemum,mountain mint,eats
+85362,56058,Leucanthemum,,eats
+85362,161626,Dalea villosa,Silky Prairie Clover,eats
+85362,54999,Eriogonum fasciculatum,California buckwheat,eats
+85362,47911,Asclepias syriaca,common milkweed,eats
+85362,48939,Eriogonum,wild buckwheats,eats
+85362,52111,Baccharis,,eats
+85362,81598,Dalea candida,white prairie clover,eats
+85362,53052,Foeniculum vulgare,fennel,eats
+85362,53405,Heteromeles arbutifolia,Toyon,eats
+85362,55849,Amaryllidaceae,"amaryllis, onions, and allies",eats
+85362,53423,Frangula californica,coffeeberry,eats
+85362,58168,Frankenia salina,Alkali Heath,eats
+85362,64358,Eriogonum giganteum,St. Catherine's-lace,eats
+85362,47538,Euonymus,spindles,eats
+85362,56992,Lobularia maritima,sweet alyssum,eats
+85362,51452,Passiflora,passionflowers,eats
+85362,47912,Asclepias tuberosa,butterfly milkweed,eats
+85362,53376,Cotoneaster,Cotoneasters,eats
+85362,47906,Asclepias,milkweeds,eats
+85362,52821,Achillea millefolium,Common Yarrow,eats
+85362,461542,Astereae,asters and allies,eats
+85362,154473,Pycnanthemum virginianum,Virginia mountain mint,eats
+85362,55735,Sedum,stonecrops,eats
+85362,53359,Baccharis pilularis,coyote brush,eats
+85362,125379,Asclepias verticillata,whorled milkweed,eats
+85362,,Mentha pulegium,,eats
+85362,119145,Mikania scandens,climbing hempvine,eats
+85362,,Ageratina havanensis,,eats
+85362,,Monarda punctata,,eats
+85362,,Hamelia patens,,eats
+85362,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+85362,,Baccharis glutinosa,,eats
+85362,,Ampelopsis arborea,,eats
+85362,,Hydrangea arborescens,,eats
+85362,,Pycnanthemum incanum,,eats
+85362,130888,Erechtites hieraciifolius,fireweed,eats
+85362,349786,Euonymus japonicus,Japanese spindle tree,eats
+85362,,Solidagininae,,eats
+85362,,Eriogonum latifolium,,eats
+85362,,Allium,,eats
+85362,,Ceanothus cuneatus,,eats
+85362,,Agrimonia,,eats
+85362,,Calochortus luteus,,eats
+85362,,Eupatorium serotinum,,eats
+85362,,Verbesina alternifolia,,eats
+85362,,Persicaria setacea,,eats
+85362,,Clethra,,eats
+85362,125186,Lespedeza capitata,round-headed bush clover,pollinates
+85362,153441,Symphyotrichum cordifolium,Common Blue Wood Aster,pollinates
+85362,47359,Apocynum androsaemifolium,spreading dogbane,pollinates
+85362,51875,Trifolium pratense,red clover,pollinates
+85362,125379,Asclepias verticillata,whorled milkweed,pollinates
+85362,125381,Asclepias incarnata,swamp milkweed,pollinates
+85362,,Cornus amomum,,pollinates
+85362,128839,Lobelia spicata,pale-spiked lobelia,pollinates
+85362,48038,Lobelia cardinalis,cardinal flower,pollinates
+85362,,Rhus copallina,,pollinates
+85362,158761,Asclepias sullivantii,prairie milkweed,pollinates
+85362,48385,Heuchera,alumroots,pollinates
+85362,,Vitis cordifolia,,pollinates
+85362,85327,Polygonatum biflorum,smooth Solomon's seal,pollinates
+85362,,Stylosanthes biflora,,pollinates
+85362,,Symphoricarpos orbiculatus,,pollinates
+85362,,Humiria,,pollinates
+85362,,Brocchinia acuminata,,pollinates
+85362,,Phthirusa,,pollinates
+85362,,http://treatment.plazi.org/id/F6083B20B0C47675DF76965D6ADE35F3,,pollinates
+85362,,Asclepias uncialis,,pollinates
+85362,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+85362,48124,Tettigoniidae,Katydids,preysOn

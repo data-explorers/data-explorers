@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118931,,Cajanus cajan,,eats
+118931,76541,Cucurbita pepo,American pumpkin,eats
+118931,48592,Allium cepa,Common Onion,eats
+118931,,Parus major,,eatenBy
+118931,,Pseudomyrmex gracilis,,eatenBy
+118931,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+118931,,Gubernetes yetapa,,preyedUponBy

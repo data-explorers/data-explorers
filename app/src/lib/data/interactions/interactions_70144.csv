@@ -1,0 +1,113 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+70144,60623,Tenthredo,,eatenBy
+70144,118597,Belone belone,Garfish,eatenBy
+70144,10247,Setophaga ruticilla,American Redstart,eatenBy
+70144,4209,Podiceps auritus,Horned Grebe,eatenBy
+70144,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+70144,17355,Vireo,Vireos,eatenBy
+70144,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+70144,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+70144,11867,Progne subis,Purple Martin,eatenBy
+70144,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+70144,157990,Menemerus semilimbatus,,eatenBy
+70144,446027,Galaxias depressiceps,Taieri Flathead Galaxias,eatenBy
+70144,608771,Atherinella brasiliensis,,eatenBy
+70144,,Agonostomus monticola,,eatenBy
+70144,47518,Salmo trutta,Brown Trout,eatenBy
+70144,,Galaxias vulgaris,,eatenBy
+70144,,Galaxias brevipinnis,,eatenBy
+70144,,Colibri coruscans,,eatenBy
+70144,12716,Turdus merula,Eurasian Blackbird,eatenBy
+70144,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+70144,5017,Bubulcus ibis,Cattle Egret,eatenBy
+70144,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+70144,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+70144,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+70144,6933,Anas acuta,Northern Pintail,eatenBy
+70144,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+70144,17408,Vireo griseus,White-eyed Vireo,eatenBy
+70144,17394,Vireo gilvus,Warbling Vireo,eatenBy
+70144,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+70144,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+70144,19577,Chordeiles minor,Common Nighthawk,eatenBy
+70144,,Corvus caurinus,,eatenBy
+70144,48230,Ranunculus,buttercups,pollinates
+70144,57278,Ailanthus altissima,tree-of-heaven,pollinates
+70144,47359,Apocynum androsaemifolium,spreading dogbane,pollinates
+70144,178226,Eucryphia cordifolia,Ulmo,pollinates
+70144,490877,Rhaphithamnus spinosus,Prickly myrtle,pollinates
+70144,,Eucalyptus nitens,,pollinates
+70144,705610,Oxalis squamata,,pollinates
+70144,83541,Dryas octopetala,Mountain Avens,pollinates
+70144,77780,Linnaea borealis,twinflower,pollinates
+70144,,Eriogonum ovalifolium vineum,,pollinates
+70144,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+70144,51556,Sympetrum,Meadowhawks,preyedUponBy
+70144,82081,Theridion,Tangleweb Spiders,preyedUponBy
+70144,48139,Salticidae,Jumping Spiders,preyedUponBy
+70144,51469,Aeshnidae,Darners,preyedUponBy
+70144,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+70144,47819,Libellulidae,Skimmers,preyedUponBy
+70144,47927,Anisoptera,Dragonflies,preyedUponBy
+70144,47928,Zygoptera,Damselflies,preyedUponBy
+70144,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+70144,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+70144,48124,Tettigoniidae,Katydids,preyedUponBy
+70144,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+70144,,Maratus griseus,,preyedUponBy
+70144,,Miomantis caffra,,preyedUponBy
+70144,84494,Paraphidippus aurantius,Golden Jumping Spider,preyedUponBy
+70144,,Phidippus mystaceus,,preyedUponBy
+70144,,Oxyopes gracilipes,,preyedUponBy
+70144,,Drosera stenopetala,,preyedUponBy
+70144,82118,Dolomedes,Fishing Spiders,preyedUponBy
+70144,121444,Larinioides,,preyedUponBy
+70144,,Somatochlora,,preyedUponBy
+70144,360744,Marpissa radiata,,preyedUponBy
+70144,,Hercostomus assimilis,,preyedUponBy
+70144,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+70144,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+70144,,Coenagrion pulchellum,,preyedUponBy
+70144,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+70144,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+70144,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+70144,,Dolichopus nubilius,,preyedUponBy
+70144,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+70144,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+70144,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+70144,,Tetragnatha extensa,,preyedUponBy
+70144,531184,Clubiona stagnatilis,,preyedUponBy
+70144,,Conocephalus fuscus,,preyedUponBy
+70144,447460,Clubiona phragmitis,,preyedUponBy
+70144,,Sympetrum striolatum,,preyedUponBy
+70144,,Ensifera,,preyedUponBy
+70144,357413,Evarcha arcuata,,preyedUponBy
+70144,51679,Coenagrion,Northern Bluets,preyedUponBy
+70144,,Libellula depressa,,preyedUponBy
+70144,,Paravespula vulgaris,,preyedUponBy
+70144,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+70144,121766,Micrommata virescens,Green Huntsman Spider,preyedUponBy
+70144,,Orthetrum,,preyedUponBy
+70144,556059,Dolichopus nitidus,,preyedUponBy
+70144,,Phylloneta impressa,,preyedUponBy
+70144,,Dolichovespula sylvestris,,preyedUponBy
+70144,,Orthetrum cancellatum,,preyedUponBy
+70144,,Tetragnatha pinicola,,preyedUponBy
+70144,,Theridion pictum,,preyedUponBy
+70144,232475,Thanatus striatus,Five-striped Spider,preyedUponBy
+70144,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+70144,113497,Sympecma fusca,Common Winter Damselfly,preyedUponBy
+70144,,Araneus sturmi,,preyedUponBy
+70144,,"Dolichopus nubilius Meigen, 1924",,preyedUponBy
+70144,40550,Chalinolobus tuberculatus,Long-tailed Wattled Bat,preyedUponBy
+70144,,Mystacina tuberculata,,preyedUponBy
+70144,40691,Rhinolophus mehelyi,Mehely's horseshoe bat,preyedUponBy
+70144,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+70144,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+70144,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+70144,40348,Myotis velifer,Cave Myotis,preyedUponBy
+70144,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+70144,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+70144,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+70144,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+70144,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

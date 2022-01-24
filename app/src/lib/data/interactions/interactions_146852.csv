@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+146852,461542,Astereae,asters and allies,eats
+146852,50879,Erigeron,fleabanes and horseweeds,eats
+146852,119045,Eupatorium perfoliatum,common boneset,eats
+146852,154473,Pycnanthemum virginianum,Virginia mountain mint,eats
+146852,60132,Cirsium arvense,creeping thistle,eats
+146852,58907,Melilotus albus,White Sweetclover,eats
+146852,130989,Euthamia graminifolia,flat-topped goldenrod,eats
+146852,48678,Solidago,goldenrods,eats
+146852,56057,Leucanthemum vulgare,oxeye daisy,eats
+146852,62741,Rudbeckia hirta,black-eyed Susan,eats
+146852,,Pycnanthemum tenuifolium,,eats
+146852,119145,Mikania scandens,climbing hempvine,eats
+146852,132078,Hyptis alata,Musky mint,eats
+146852,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+146852,,Monarda punctata,,eats
+146852,117438,Dipsacus laciniatus,cutleaf teasel,eats
+146852,,Arnoglossum atriplicifolium,,eats
+146852,,Eupatorium serotinum,,eats
+146852,127267,Pterocaulon pycnostachyum,blackroot,eats
+146852,58795,Apocynum cannabinum,hemp dogbane,eats
+146852,,Verbesina alternifolia,,eats
+146852,84813,Baccharis halimifolia,groundsel tree,eats
+146852,,Polistes fuscatus,,pollinatedBy
+146852,81923,Halyomorpha halys,Brown Marmorated Stink Bug,preysOn
+146852,51777,Coreidae,Leaf-footed Bugs,preysOn
+146852,,Euschistus servus,,preysOn

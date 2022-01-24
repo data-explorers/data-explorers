@@ -1,0 +1,96 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47716,48921,Hydrozoa,Hydrozoans,eats
+47716,123631,Corallina,,eats
+47716,48836,Ophiuroidea,Brittle Stars,eats
+47716,48394,Gymnolaemata,,eats
+47716,53830,Trochidae,Top Snails,eats
+47716,48919,Littorina,Periwinkles,eats
+47716,49581,Nereididae,,eats
+47716,62807,Mytilus,Black Mussels,eats
+47716,47825,Pycnogonida,Pycnogonids,eats
+47716,,Foraminiferida,,eats
+47716,123639,Spionidae,,eats
+47716,81774,Molgulidae,,eats
+47716,124745,Cystoseira,,eats
+47716,,Polysiphonia yonakuniensis,,eats
+47716,48903,Asterias,,eats
+47716,,Detritus complex,,eats
+47716,53607,Polynoidae,Scaleworms,eats
+47716,48408,Rajidae,Hardnose Skates,eatenBy
+47716,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47716,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47716,430553,Merlangius merlangus,Whiting,eatenBy
+47716,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+47716,48397,Raja clavata,Thornback Skate,eatenBy
+47716,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+47716,481841,Microstomus kitt,Lemon Sole,eatenBy
+47716,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47716,98753,Ctenolabrus rupestris,Goldsinny Wrasse,eatenBy
+47716,47523,Pleuronectes platessa,European Plaice,eatenBy
+47716,61387,Limanda limanda,Sand Dab,eatenBy
+47716,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+47716,63740,Gadus morhua,Atlantic Cod,eatenBy
+47716,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+47716,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+47716,7023,Somateria,Typical Eiders,eatenBy
+47716,699869,Octopus insularis,Brazilian Reef Octopus,eatenBy
+47716,41720,Erignathus barbatus,Bearded Seal,eatenBy
+47716,47299,Panulirus argus,Caribbean Spiny Lobster,eatenBy
+47716,,Chaceon ramosae,,eatenBy
+47716,95518,Bathyraja parmifera,Alaska Skate,eatenBy
+47716,223674,Limanda aspera,Yellowfin Sole,eatenBy
+47716,180032,Hippoglossoides elassodon,Flathead Sole,eatenBy
+47716,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+47716,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+47716,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47716,317533,Ogcocephalus vespertilio,longnose batfish,eatenBy
+47716,48564,Prionotus,,eatenBy
+47716,621179,Stichaeus grigorjewi,,eatenBy
+47716,102938,Hoplopagrus guentherii,Barred Pargo,eatenBy
+47716,228388,Pleurogrammus monopterygius,Atka Mackerel,eatenBy
+47716,,Myoxocephalus jaok,,eatenBy
+47716,47640,Myoxocephalus polyacanthocephalus,great sculpin,eatenBy
+47716,49746,Epinephelus striatus,Nassau Grouper,eatenBy
+47716,49269,Diodon holocanthus,Longspined Porcupinefish,eatenBy
+47716,131525,Calamus calamus,Saucereye Porgy,eatenBy
+47716,49626,Holocentrus adscensionis,Squirrelfish,eatenBy
+47716,221166,Hemilepidotus jordani,yellow irish lord,eatenBy
+47716,95500,Bathyraja interrupta,Sandpaper Skate,eatenBy
+47716,51353,Anoplopoma fimbria,Sablefish,eatenBy
+47716,83159,Liparis,Widelip Orchids,eatenBy
+47716,95513,Bathyraja minispinosa,Whitebrow Skate,eatenBy
+47716,91981,Sebastolobus,,eatenBy
+47716,47642,Hemitripterus,,eatenBy
+47716,67526,Diomedeidae,Albatrosses,eatenBy
+47716,95508,Bathyraja maculata,Whiteblotched Skate,eatenBy
+47716,49597,Salvelinus,Chars,eatenBy
+47716,230756,Sebastes helvomaculatus,Rosethorn Rockfish,eatenBy
+47716,47524,Pleuronectes,,eatenBy
+47716,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+47716,183018,Lepidopsetta bilineata,Rock sole,eatenBy
+47716,,Theragra chalcogramma,,eatenBy
+47716,,Raja rhina,,eatenBy
+47716,229837,Reinhardtius hippoglossoides,Greenland Halibut,eatenBy
+47716,4547,Ptychoramphus aleuticus,Cassin's Auklet,eatenBy
+47716,86443,Anarhichas,,eatenBy
+47716,179493,Pontinus longispinis,Longspine Scorpionfish,eatenBy
+47716,179454,Syacium papillosum,Dusky Flounder,eatenBy
+47716,317313,Prionotus alatus,Spiny Searobin,eatenBy
+47716,49924,Stegastes fuscus,Dusky Damselfish,eatenBy
+47716,49509,Lutjanus griseus,Grey Snapper,eatenBy
+47716,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+47716,49637,Epinephelus morio,Red Grouper,eatenBy
+47716,83439,Centropristis striata,Black Sea Bass,eatenBy
+47716,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47716,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+47716,108196,Pagrus pagrus,Red Porgy,eatenBy
+47716,131388,Haemulon melanurum,Cottonwick,eatenBy
+47716,128986,Calamus,Rattan palms,eatenBy
+47716,49432,Lachnolaimus maximus,Hogfish,eatenBy
+47716,179468,Rypticus maculatus,Whitespotted Soapfish,eatenBy
+47716,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+47716,49437,Centropomus undecimalis,Common Snook,eatenBy
+47716,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+47716,179561,Bothus robinsi,Twospot Flounder,eatenBy
+47716,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+47716,104857,Lutjanus guttatus,Spotted Rose Snapper,eatenBy

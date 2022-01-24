@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49683,40151,Mammalia,Mammals,eats
+49683,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+49683,10247,Setophaga ruticilla,American Redstart,eatenBy
+49683,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+49683,,Glossogobius celebius,,eatenBy
+49683,,Agonostomus monticola,,eatenBy
+49683,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+49683,5017,Bubulcus ibis,Cattle Egret,eatenBy
+49683,6667,Cypseloides niger,Black Swift,eatenBy
+49683,,Picoides pubescens,,eatenBy
+49683,,Dryobates albolarvatus,,eatenBy
+49683,,Picoides villosus,,eatenBy
+49683,,Corvus caurinus,,eatenBy
+49683,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+49683,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+49683,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+49683,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+49683,,Wahlenbergia fernandeziana,,pollinates
+49683,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+49683,41186,Nycteris grandis,Large Slit-faced Bat,preyedUponBy
+49683,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy
+49683,,Vespadelus pumilus,,preyedUponBy
+49683,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+49683,40657,Rhinolophus pearsonii,Pearson's Horseshoe Bat,preyedUponBy
+49683,40689,Rhinolophus macrotis,big-eared horseshoe bat,preyedUponBy
+49683,40705,Rhinolophus lepidus,Blyth's Horseshoe Bat,preyedUponBy
+49683,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+49683,,Mormoops blainvillei,,preyedUponBy
+49683,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+49683,40572,Nyctalus noctula,Common Noctule,preyedUponBy

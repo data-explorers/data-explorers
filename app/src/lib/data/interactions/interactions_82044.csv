@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82044,47561,Pinus,pines,eats
+82044,,phloem (Pinus spp.),,eats
+82044,120489,Sarcophaga,Common Flesh Flies,eatenBy
+82044,321741,Billaea,,eatenBy
+82044,,Alaus myops,,eatenBy
+82044,,Alaus myops,,preyedUponBy

@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51226,68077,Salvelinus malma,Dolly Varden Trout,eatenBy
+51226,520978,Gomphurus externus,Plains Clubtail,eatenBy
+51226,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+51226,,Misumessus oblongus,,preyedUponBy
+51226,155279,Zygiella x-notata,Silver-sided Sector Spider,preyedUponBy

@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52461,116999,Pandion haliaetus,Osprey,eatenBy
+52461,3797,Sula leucogaster,Brown Booby,eatenBy
+52461,144539,Thalasseus maximus,Royal Tern,eatenBy
+52461,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+52461,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+52461,179466,Strongylura notata notata,Redfin needlefish,eatenBy
+52461,136618,Istiophorus albicans,Atlantic Sailfish,eatenBy
+52461,47251,Sphyraena barracuda,Great Barracuda,eatenBy
+52461,182608,Lutjanus jocu,Dog Snapper,eatenBy
+52461,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+52461,558991,Plesionika heterocarpus,Arrow shrimp,eatenBy
+52461,4566,Gygis alba,White Tern,eatenBy
+52461,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+52461,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+52461,4535,Anous stolidus,Brown Noddy,eatenBy
+52461,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+52461,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+52461,3788,Sula dactylatra,Masked Booby,eatenBy
+52461,116999,Pandion haliaetus,Osprey,preyedUponBy
+52461,3797,Sula leucogaster,Brown Booby,preyedUponBy
+52461,144539,Thalasseus maximus,Royal Tern,preyedUponBy
+52461,4937,Egretta caerulea,Little Blue Heron,preyedUponBy

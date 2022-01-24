@@ -1,0 +1,198 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49265,342912,Caridea,Caridean Shrimps,eats
+49265,47584,Bivalvia,Bivalves,eats
+49265,48173,Pagurus,,eats
+49265,47628,Amphipoda,Amphipods,eats
+49265,47114,Gastropoda,Gastropods,eats
+49265,48836,Ophiuroidea,Brittle Stars,eats
+49265,121639,Brachyura,True Crabs,eats
+49265,47490,Polychaeta,Polychaete Worms,eats
+49265,48147,Isopoda,Isopods,eats
+49265,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+49265,53707,Cladophora,,eats
+49265,49520,Hermodice carunculata,Bearded Fireworm,eats
+49265,54644,Ulva,sea lettuces,eats
+49265,85493,Crustacea,Crustaceans,eats
+49265,47549,Echinodermata,Echinoderms,eats
+49265,1,Animalia,Animals,eats
+49265,47115,Mollusca,Molluscs,eats
+49265,47126,Plantae,plants,eats
+49265,,Urochordata,,eats
+49265,68235,Hemichordata,Hemichordates,eats
+49265,,Benthic autotrophs,,eats
+49265,,Echinoida,,eats
+49265,47428,Neoloricata,Neoloricate Chitons,eats
+49265,,no name,,eats
+49265,,Detritus,,eats
+49265,,Microfauna,,eats
+49265,,Diodora dysoni,,eats
+49265,209018,Polydora,Shell-boring Spionids,eats
+49265,,Pilumnus diomedeae,,eats
+49265,,Acartia spinata,,eats
+49265,,Synalpheus pandionis,,eats
+49265,327002,Laurencia obtusa,,eats
+49265,,Periclimenes pedersoni,,eats
+49265,,Micropanope nuttingi,,eats
+49265,672393,Lensia subtiloides,,eats
+49265,253485,Lucina pensylvanica,pennsylvania lucine,eats
+49265,,Laeonereis culveri,,eats
+49265,,Anadara notabilis,,eats
+49265,248353,Mithrax,,eats
+49265,984299,Paracalanus aculeatus,,eats
+49265,,Lima lima,,eats
+49265,260370,Pitho sexdentata,,eats
+49265,295503,Domecia acanthophora,Elkhorn Coral Crab,eats
+49265,,Oithona oculata,,eats
+49265,295189,Alpheus formosus,,eats
+49265,,Cassis madagascariensis,,eats
+49265,203397,Acartia tonsa,,eats
+49265,,Stypopodium zonale,,eats
+49265,,Calliostoma javanicum,,eats
+49265,519476,Lithopoma tuber,Green Star Shell,eats
+49265,,Corycaeus subulatus,,eats
+49265,329012,Centropages furcatus,,eats
+49265,,Pagurus bonairensis,,eats
+49265,295220,Paguristes grayi,,eats
+49265,322730,Turbinaria turbinata,Blistered Saucer Leaf Alga,eats
+49265,,Dendrodoris krebsii,,eats
+49265,295266,Pitho aculeata,,eats
+49265,260539,Ambidexter symmetricus,,eats
+49265,199320,Acanthophora spicifera,prickly seaweed,eats
+49265,,Halimeda goreauii,,eats
+49265,,Undinula vulgaris,,eats
+49265,,Enteromorpha,,eats
+49265,,Pilumnus reticulatus,,eats
+49265,128121,Stenorhynchus seticornis,Yellowline Arrow Crab,eats
+49265,,Chama macerophylla,,eats
+49265,253358,Lithophaga nigra,,eats
+49265,541663,Eoacmaea pustulata,,eats
+49265,505593,Dictyota divaricata,,eats
+49265,939939,Synalpheus spinifrons,,eats
+49265,,Pista cristata,,eats
+49265,260349,Petrolisthes jugosus,,eats
+49265,,Paracalanus crassirostris,,eats
+49265,260318,Calcinus tibicen,Orangeclaw Hermit Crab,eats
+49265,376765,Kinbergonuphis,,eats
+49265,295191,Alpheus peasei,,eats
+49265,295506,Paraliomera longimana,,eats
+49265,,Krohnitta subtilis,,eats
+49265,,Streblosoma hartmanae,,eats
+49265,195201,Pachygrapsus transversus,Mottled Shore Crab,eats
+49265,,Euchaeta marina,,eats
+49265,,Corycaeus amazonicus,,eats
+49265,208810,Anodontia alba,Buttercup Lucine,eats
+49265,,Asterocytis ramosa,,eats
+49265,260269,Synalpheus goodei,,eats
+49265,,Pitar fulminatus,,eats
+49265,,Stylocheilus longicauda,,eats
+49265,430087,Lithopoma tectum,West Indian Starsnail,eats
+49265,,Hexapanopeus caribbaeus,,eats
+49265,259873,Synalpheus longicarpus,,eats
+49265,,Bittium varium,,eats
+49265,,Acar domingensis,,eats
+49265,,Antillipecten antillarum,,eats
+49265,,Coralliophila caribaea,,eats
+49265,,Monoplex pilearis,,eats
+49265,,Laurencia papillosa,,eats
+49265,,Turbo cailletii,,eats
+49265,,Diplodonta caelata,,eats
+49265,,Cymatium vespaceum,,eats
+49265,260372,Pitho lherminieri,,eats
+49265,,Geitodoris pusae,,eats
+49265,49964,Ginglymostoma cirratum,Nurse Shark,eatenBy
+49265,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+49265,188767,Carcharhinus perezii,Caribbean Reef Shark,eatenBy
+49265,111750,Rhizoprionodon porosus,Caribbean Sharpnose Shark,eatenBy
+49265,112960,Sphyrna tiburo,Bonnethead,eatenBy
+49265,226272,Ogcocephalus nasutus,Shortnose batfish,eatenBy
+49265,106650,Negaprion brevirostris,Lemon Shark,eatenBy
+49265,96745,Carcharhinus acronotus,Blacknose Shark,eatenBy
+49265,49297,Aetobatus narinari,Spotted Eagle Ray,eatenBy
+49265,104853,Lutjanus analis,Mutton Snapper,eatenBy
+49265,96993,Cephalopholis fulva,Coney,eatenBy
+49265,179470,Scorpaena brasiliensis,Barbfish,eatenBy
+49265,49509,Lutjanus griseus,Grey Snapper,eatenBy
+49265,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+49265,67333,Bacteria,bacteria,preysOn
+49265,49520,Hermodice carunculata,Bearded Fireworm,preysOn
+49265,53707,Cladophora,,preysOn
+49265,48147,Isopoda,Isopods,preysOn
+49265,48836,Ophiuroidea,Brittle Stars,preysOn
+49265,47584,Bivalvia,Bivalves,preysOn
+49265,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preysOn
+49265,47628,Amphipoda,Amphipods,preysOn
+49265,47114,Gastropoda,Gastropods,preysOn
+49265,342912,Caridea,Caridean Shrimps,preysOn
+49265,121639,Brachyura,True Crabs,preysOn
+49265,48173,Pagurus,,preysOn
+49265,47490,Polychaeta,Polychaete Worms,preysOn
+49265,,Krohnitta subtilis,,preysOn
+49265,,Aspella paupercula,,preysOn
+49265,260349,Petrolisthes jugosus,,preysOn
+49265,,Triphora intermedia,,preysOn
+49265,,Eunice mutilata,,preysOn
+49265,260287,Alpheus armillatus,,preysOn
+49265,,Atagema browni,,preysOn
+49265,503480,Tellinella listeri,Speckled Tellin,preysOn
+49265,,Parvilucina costata,,preysOn
+49265,,Laurencia papillosa,,preysOn
+49265,260881,Glossocephalus milneedwardsi,,preysOn
+49265,329111,Oncaea venusta,,preysOn
+49265,,Luria cinerea,,preysOn
+49265,,Calliostoma javanicum,,preysOn
+49265,,Cyclozodion angustum,,preysOn
+49265,292172,Caribachlamys ornata,ornate scallop,preysOn
+49265,,Ctenoides scabra,,preysOn
+49265,,Epialtus kingsleyi,,preysOn
+49265,,Collisella,,preysOn
+49265,131340,Amphiroa,,preysOn
+49265,646396,Abylopsis eschscholtzi,,preysOn
+49265,208793,Chione cancellata,Cross-barred Venus,preysOn
+49265,253503,Asaphis deflorata,Gaudy Sanguin,preysOn
+49265,,Acartia spinata,,preysOn
+49265,248353,Mithrax,,preysOn
+49265,228145,Pinna carnea,Amber Pen Shell,preysOn
+49265,,Lobatus gallus,,preysOn
+49265,480204,Microsetella rosea,,preysOn
+49265,,Cassis madagascariensis,,preysOn
+49265,,Spyridia filamentosa,,preysOn
+49265,67679,Gracilaria,,preysOn
+49265,260539,Ambidexter symmetricus,,preysOn
+49265,679265,Oikopleura dioica,,preysOn
+49265,,Turbo castanea,,preysOn
+49265,,Monoplex pilearis,,preysOn
+49265,,Penaeus duorarum,,preysOn
+49265,259872,Synalpheus brevicarpus,,preysOn
+49265,130055,Paguristes cadenati,Red Reef Hermit,preysOn
+49265,,Diodora dysoni,,preysOn
+49265,1225073,Garthiope barbadensis,,preysOn
+49265,295186,Alpheus armatus,Red Snapping Shrimp,preysOn
+49265,,Hexapanopeus caribbaeus,,preysOn
+49265,,Modulus modulus,,preysOn
+49265,984283,Euterpina acutifrons,,preysOn
+49265,253359,Modiolus americanus,Tulip Mussel,preysOn
+49265,,Hippolyte pleuracanthus,,preysOn
+49265,,Aplysia parvula,,preysOn
+49265,295503,Domecia acanthophora,Elkhorn Coral Crab,preysOn
+49265,,Pachycheles riisei,,preysOn
+49265,47299,Panulirus argus,Caribbean Spiny Lobster,preysOn
+49265,,Leiosolenus appendiculatus,,preysOn
+49265,376765,Kinbergonuphis,,preysOn
+49265,47428,Neoloricata,Neoloricate Chitons,preysOn
+49265,,Urochordata,,preysOn
+49265,68235,Hemichordata,Hemichordates,preysOn
+49265,,Microfauna,,preysOn
+49265,52290,Diadema antillarum,Atlantic Long-spined Sea Urchin,preysOn
+49265,104853,Lutjanus analis,Mutton Snapper,preyedUponBy
+49265,96993,Cephalopholis fulva,Coney,preyedUponBy
+49265,179470,Scorpaena brasiliensis,Barbfish,preyedUponBy
+49265,111750,Rhizoprionodon porosus,Caribbean Sharpnose Shark,preyedUponBy
+49265,96745,Carcharhinus acronotus,Blacknose Shark,preyedUponBy
+49265,112960,Sphyrna tiburo,Bonnethead,preyedUponBy
+49265,226272,Ogcocephalus nasutus,Shortnose batfish,preyedUponBy
+49265,49961,Mustelus canis,Dusky Smooth-hound,preyedUponBy
+49265,188767,Carcharhinus perezii,Caribbean Reef Shark,preyedUponBy
+49265,49964,Ginglymostoma cirratum,Nurse Shark,preyedUponBy
+49265,106650,Negaprion brevirostris,Lemon Shark,preyedUponBy
+49265,49297,Aetobatus narinari,Spotted Eagle Ray,preyedUponBy
+49265,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy

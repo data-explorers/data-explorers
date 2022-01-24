@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61997,56083,Armadillidium vulgare,Common Pill Woodlouse,eats
+61997,67742,Drosophilidae,Vinegar and Fruit Flies,eats
+61997,81769,Blattodea,Cockroaches and Termites,preysOn
+61997,47208,Coleoptera,Beetles,preysOn

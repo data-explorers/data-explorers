@@ -1,0 +1,129 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+114122,47158,Insecta,Insects,eats
+114122,85962,Paralepididae,Barracudinas,eats
+114122,47459,Cephalopoda,Cephalopods,eats
+114122,85493,Crustacea,Crustaceans,eats
+114122,47628,Amphipoda,Amphipods,eats
+114122,153112,Euphausiacea,krill,eats
+114122,195355,Hyperiidae,,eats
+114122,117668,Pleuroncodes,,eats
+114122,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+114122,48332,Scyphozoa,True Jellies,eats
+114122,800859,Salpa maxima,,eats
+114122,1,Animalia,Animals,eats
+114122,340951,Themisto,,eats
+114122,47115,Mollusca,Molluscs,eats
+114122,92583,Trachurus,Jack Mackerels,eats
+114122,56943,Katsuwonus pelamis,Skipjack Tuna,eats
+114122,51911,Engraulidae,Anchovies,eats
+114122,51104,Thaliacea,Thaliaceans,eats
+114122,459325,Maurolicus muelleri,Pearlside,eats
+114122,432433,Gonatus steenstrupi,Atlantic Gonate Squid,eats
+114122,639178,Meganyctiphanes norvegica,Northern Krill,eats
+114122,372878,Hyperiidea,,eats
+114122,214112,Arctozenus risso,Ribbon Barracudina,eats
+114122,246435,Octopoteuthis,,eats
+114122,120672,Scomberesox saurus,Atlantic Saury,eats
+114122,,Ancistroteuthis lichtensteini,,eats
+114122,317204,Macroparalepis affinis,,eats
+114122,215151,Benthosema glaciale,Glacier Lanternfish,eats
+114122,432457,Illex argentinus,Argentine Shortfin Squid,eats
+114122,494368,Nyctiphanes australis,,eats
+114122,253694,Ocythoe tuberculata,Football Octopus,eats
+114122,,Medusozoa,,eats
+114122,700305,Alloteuthis subulata,European Common Squid,eats
+114122,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eats
+114122,83314,Hyaloteuthis pelagica,glassy flying squid,eats
+114122,432492,Onychoteuthis banksii,Common Clubhook Squid,eats
+114122,253716,Histioteuthis bonnellii,Ornate Cock-eyed Squid,eats
+114122,,Gnathostomata,,eats
+114122,,,,eats
+114122,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+114122,,Pisces,,eats
+114122,340950,Themisto gaudichaudii,,eats
+114122,432544,Teuthowenia megalops,Atlantic Cranch Squid,eats
+114122,,Osteichthyes,,eats
+114122,86795,Auxis,,eats
+114122,88327,Euthynnus,,eats
+114122,245362,Onychoteuthidae,Hooked Squids,eats
+114122,63692,Scomberesocidae,Sauries,eats
+114122,337528,Gonatidae,Armhook Squids,eats
+114122,3797,Sula leucogaster,Brown Booby,eatenBy
+114122,3793,Sula sula,Red-footed Booby,eatenBy
+114122,50873,Carcharodon carcharias,Great White Shark,eatenBy
+114122,4537,Anous minutus,Black Noddy,eatenBy
+114122,4636,Fregata minor,Great Frigatebird,eatenBy
+114122,4535,Anous stolidus,Brown Noddy,eatenBy
+114122,85962,Paralepididae,Barracudinas,preysOn
+114122,85910,Myctophidae,Lanternfishes,preysOn
+114122,195134,Euphausiidae,Euphotic Krill,preysOn
+114122,63770,Engraulis mordax,Northern Anchovy,preysOn
+114122,153112,Euphausiacea,krill,preysOn
+114122,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+114122,92583,Trachurus,Jack Mackerels,preysOn
+114122,459325,Maurolicus muelleri,Pearlside,preysOn
+114122,432433,Gonatus steenstrupi,Atlantic Gonate Squid,preysOn
+114122,639178,Meganyctiphanes norvegica,Northern Krill,preysOn
+114122,214112,Arctozenus risso,Ribbon Barracudina,preysOn
+114122,120672,Scomberesox saurus,Atlantic Saury,preysOn
+114122,372878,Hyperiidea,,preysOn
+114122,246435,Octopoteuthis,,preysOn
+114122,,Ancistroteuthis lichtensteini,,preysOn
+114122,317204,Macroparalepis affinis,,preysOn
+114122,215151,Benthosema glaciale,Glacier Lanternfish,preysOn
+114122,63691,Cololabis saira,Pacific Saury,preysOn
+114122,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+114122,47762,Sebastes,Rockfishes,preysOn
+114122,105599,Merluccius productus,Pacific Hake,preysOn
+114122,55535,Sardinops sagax,Pacific Sardine,preysOn
+114122,,Onychoteuthis borealijaponicus,,preysOn
+114122,201713,Euphausia pacifica,North Pacific krill,preysOn
+114122,337529,Gonatus,Gonate Squids,preysOn
+114122,432791,Gonatopsis,,preysOn
+114122,,Nannobrachium ritteri,,preysOn
+114122,232317,Tarletonbeania crenularis,Blue Lanternfish,preysOn
+114122,231540,Stenobrachius leucopsarus,Northern Lampfish,preysOn
+114122,117569,Microgadus proximus,Pacific Tomcod,preysOn
+114122,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,preysOn
+114122,218322,Diaphus theta,California Headlightfish,preysOn
+114122,432389,Berryteuthis anonychus,Smallfin Armhook Squid,preysOn
+114122,216485,Ceratoscopelus townsendi,Dogtooth Lanternfish,preysOn
+114122,228866,Protomyctophum crockeri,California Flashlightfish,preysOn
+114122,,Pleuronectiformes,,preysOn
+114122,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+114122,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+114122,,Sergestes similis,,preysOn
+114122,317432,Triphoturus mexicanus,,preysOn
+114122,253694,Ocythoe tuberculata,Football Octopus,preysOn
+114122,432457,Illex argentinus,Argentine Shortfin Squid,preysOn
+114122,700305,Alloteuthis subulata,European Common Squid,preysOn
+114122,253716,Histioteuthis bonnellii,Ornate Cock-eyed Squid,preysOn
+114122,328459,Sthenoteuthis oualaniensis,Purpleback Squid,preysOn
+114122,432492,Onychoteuthis banksii,Common Clubhook Squid,preysOn
+114122,83314,Hyaloteuthis pelagica,glassy flying squid,preysOn
+114122,340950,Themisto gaudichaudii,,preysOn
+114122,432544,Teuthowenia megalops,Atlantic Cranch Squid,preysOn
+114122,494368,Nyctiphanes australis,,preysOn
+114122,232054,Symbolophorus californiensis,Bigfin Lanternfish,preysOn
+114122,177104,Auxis thazard,Frigate Tuna,preysOn
+114122,118677,Auxis rochei,Bullet Tuna,preysOn
+114122,95066,Balistes vetula,Queen Triggerfish,preysOn
+114122,317393,Sternoptyx diaphana,Oblique Hatchetfish,preysOn
+114122,317287,Peristedion gracile,Slender Searobin,preysOn
+114122,194902,Psenes pellucidus,Bluefin Driftfish,preysOn
+114122,317082,Diplospinus multistriatus,Striped Escolar,preysOn
+114122,64596,Antigonia capros,Robust Deepsea Boarfish,preysOn
+114122,194884,Nealotus tripes,Black Snake Mackerel,preysOn
+114122,49598,Selene setapinnis,Atlantic Moonfish,preysOn
+114122,459428,Omosudis lowii,Hammerjaw,preysOn
+114122,98531,Coryphaena hippurus,Common Dolphinfish,preysOn
+114122,223606,Leuroglossus stilbius,California Smoothtongue,preysOn
+114122,109047,Peprilus simillimus,Pacific Pompano,preysOn
+114122,,Scopelogadus mizolepis bispinosus,,preysOn
+114122,214882,Bathophilus flemingi,Highfin Dragonfish,preysOn
+114122,224548,Melamphaes lugubris,Highsnout Ridgehead,preysOn
+114122,224382,Magnisudis atlantica,Duckbill Barracudina,preysOn
+114122,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy
+114122,69676,Thunnus,Bluefin Tunas,preyedUponBy
+114122,,no name,,preyedUponBy
+114122,114124,Thunnus maccoyii,Southern Bluefin Tuna,preyedUponBy

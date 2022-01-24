@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49536,,plankton,,eats
+49536,49723,Pugettia producta,Northern Kelp Crab,eatenBy
+49536,81963,Girella nigricans,Opaleye,eatenBy
+49536,105388,Medialuna californiensis,Halfmoon,eatenBy
+49536,52552,Oxyjulis californica,senorita,eatenBy
+49536,63382,Dermasterias imbricata,Leather Star,eatenBy
+49536,48452,Oxylebius pictus,Painted greenling,eatenBy
+49536,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+49536,49316,Chaetodipterus faber,Atlantic Spadefish,eatenBy
+49536,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+49536,100567,Ethmalosa fimbriata,Bonga Shad,eatenBy
+49536,56797,Holacanthus passer,King Angelfish,eatenBy
+49536,47775,Doto kya,Dark Doto,eatenBy
+49536,49723,Pugettia producta,Northern Kelp Crab,preyedUponBy
+49536,81963,Girella nigricans,Opaleye,preyedUponBy
+49536,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+49536,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+49536,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+49536,48452,Oxylebius pictus,Painted greenling,preyedUponBy
+49536,52552,Oxyjulis californica,senorita,preyedUponBy

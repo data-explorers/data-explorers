@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58213,3460,Zenaida asiatica,White-winged Dove,eatenBy
+58213,3093,Patagioenas leucocephala,White-crowned Pigeon,eatenBy
+58213,,Wind,,pollinatedBy

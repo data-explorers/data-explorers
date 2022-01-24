@@ -1,0 +1,110 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+12890,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+12890,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+12890,49567,Carabidae,Ground Beetles,eats
+12890,485010,Chinavia hilaris,Green Stink Bug,eats
+12890,54858,Celtis,hackberries,eats
+12890,48201,Scarabaeidae,Scarabs,eats
+12890,51062,Maianthemum racemosum,Solomon's plume,eats
+12890,47336,Formicidae,Ants,eats
+12890,119828,Aralia nudicaulis,wild sarsaparilla,eats
+12890,1,Animalia,Animals,eats
+12890,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+12890,64122,Malosma laurina,laurel sumac,eats
+12890,48736,Curculionidae,True Weevils,eats
+12890,62376,Gaultheria procumbens,Eastern Teaberry,eats
+12890,53438,Rosa,roses,eats
+12890,60748,Smilax,greenbriers,eats
+12890,47544,Rubus,brambles,eats
+12890,82724,Scarites subterraneus,Big-headed Ground Beetle,eats
+12890,50999,Ficus,Figs,eats
+12890,47822,Diptera,Flies,eats
+12890,58732,Toxicodendron radicans,poison ivy,eats
+12890,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+12890,126267,Coleomegilla maculata,Spotted Pink Ladybeetle,eats
+12890,3800,Morus,Gannets,eats
+12890,47124,Magnoliopsida,dicots,eats
+12890,47157,Lepidoptera,Butterflies and Moths,eats
+12890,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+12890,53854,Ilex,hollies,eats
+12890,54764,Rhus glabra,smooth sumac,eats
+12890,60538,Geotrupes,,eats
+12890,54765,Rhus,sumacs,eats
+12890,54834,Prunus serotina,black cherry,eats
+12890,47120,Arthropoda,Arthropods,eats
+12890,50299,Fragaria,strawberries,eats
+12890,47208,Coleoptera,Beetles,eats
+12890,51874,Lonicera,honeysuckles,eats
+12890,167829,Rhus typhina,staghorn sumac,eats
+12890,231080,Sitona hispidulus,Clover Weevil,eats
+12890,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+12890,64538,Celastrus scandens,American bittersweet,eats
+12890,49399,Juniperus virginiana,eastern redcedar,eats
+12890,48599,Phytolacca americana,American pokeweed,eats
+12890,47158,Insecta,Insects,eats
+12890,54857,Celtis occidentalis,common hackberry,eats
+12890,47193,Cornus,dogwoods,eats
+12890,60773,Vitis,grapevines,eats
+12890,50249,Maianthemum,mayflowers and false Solomon's seals,eats
+12890,50641,Solanum,nightshades,eats
+12890,57354,Schinus molle,Peruvian Pepper Tree,eats
+12890,55488,Diabrotica,,eats
+12890,47130,Ribes,currants and gooseberries,eats
+12890,61119,Ilex verticillata,winterberry holly,eats
+12890,211194,Tracheophyta,vascular plants,eats
+12890,51225,Tipulidae,Large Crane Flies,eats
+12890,52932,Cantharidae,Soldier Beetles,eats
+12890,47961,Cerambycidae,Longhorn Beetles,eats
+12890,53248,Elateridae,Click Beetles,eats
+12890,26036,Reptilia,Reptiles,eats
+12890,20978,Amphibia,Amphibians,eats
+12890,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+12890,77835,Lonicera japonica,Japanese honeysuckle,eats
+12890,125845,Prunus caroliniana,Carolina laurelcherry,eats
+12890,54774,Viburnum,viburnums,eats
+12890,83799,Mitchella repens,partridgeberry,eats
+12890,53405,Heteromeles arbutifolia,Toyon,eats
+12890,333586,Oligochaeta,Earthworms and allies,eats
+12890,78882,Rosa multiflora,multiflora rose,eats
+12890,47538,Euonymus,spindles,eats
+12890,133382,Amelanchier canadensis,Canadian serviceberry,eats
+12890,,Elaphrus,,eats
+12890,,Lema nigrovittata,,eats
+12890,,Cytilus,,eats
+12890,970288,Otophorus haemorrhoidalis,,eats
+12890,,Listronotus,,eats
+12890,,Symphoricarpos orbiculatus,,eats
+12890,,Chlamisus,,eats
+12890,,Ptomaphagus consobrinus,,eats
+12890,,Byrrhus kirbyi,,eats
+12890,,Trachodes ptinoides,,eats
+12890,,Sphenophorus,,eats
+12890,,Chilothorax distinctus,,eats
+12890,,Tiphia,,eats
+12890,,Rhigopsis effracta,,eats
+12890,,Phaedon viridis,,eats
+12890,,Amaurochrous cinctipes,,eats
+12890,216769,Chlaenius pennsylvanicus,,eats
+12890,,Tropisternus limbatus,,eats
+12890,,Smicronyx corniculatus,,eats
+12890,,Sassafras albidum,,eats
+12890,221618,Hydrochara obtusata,,eats
+12890,,Ataenius,,eats
+12890,,Rugaphodius rugatus,,eats
+12890,,Smilax walteri,,eats
+12890,,Conotrachelus erinaceus,,eats
+12890,,Onthophagus tuberculifrons,,eats
+12890,,Notoxus denudatus,,eats
+12890,,Sphaeridium,,eats
+12890,54793,Lindera benzoin,northern spicebush,eats
+12890,,Morella caroliniensis,,eats
+12890,,Barypeithes pellucidus,,eats
+12890,8021,Corvus brachyrhynchos,American Crow,eatenBy
+12890,8229,Cyanocitta cristata,Blue Jay,eatenBy
+12890,41663,Procyon lotor,Common Raccoon,eatenBy
+12890,85553,Serpentes,Snakes,eatenBy
+12890,4672,Falco columbarius,Merlin,eatenBy
+12890,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+12890,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+12890,47158,Insecta,Insects,preysOn
+12890,30692,Crotalus,Rattlesnakes,preyedUponBy

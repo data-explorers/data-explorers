@@ -1,0 +1,180 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62807,318459,Pennales,Pennate diatoms,eats
+62807,152275,Thalassiosirales,,eats
+62807,49518,Serpulidae,Serpulid Tubeworms,eats
+62807,123880,Bacillariophyceae,Diatoms,eats
+62807,130225,Dinophyceae,,eats
+62807,151880,Sarcomastigophora,,eats
+62807,,Detritus,,eats
+62807,,plankton,,eats
+62807,,plankton - suspended detritus,,eats
+62807,,Microphytobenthos,,eats
+62807,,Phytoplankton,,eats
+62807,,plankton and detritus,,eats
+62807,,PhytoP,,eats
+62807,,Prymnesiophyceae,,eats
+62807,200862,Bacillariaceae,,eats
+62807,621184,Ulvaria,,eats
+62807,,Tectura scutum,,eats
+62807,,Detritus complex,,eats
+62807,359995,Thalassionema nitzschioides,,eats
+62807,,Strongylocentrotus franciscanus,,eats
+62807,339072,Prorocentrum,,eats
+62807,203613,Licmophora,,eats
+62807,203808,Navicula,,eats
+62807,58648,Fundulus,Typical Killifishes,eatenBy
+62807,52524,Carcinus,Green Crabs,eatenBy
+62807,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+62807,48173,Pagurus,,eatenBy
+62807,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+62807,4837,Haematopus,Oystercatchers,eatenBy
+62807,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+62807,3,Aves,Birds,eatenBy
+62807,52523,Carcinus maenas,European Green Crab,eatenBy
+62807,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+62807,355874,Coscinasterias muricata,Eleven-armed Sea Star,eatenBy
+62807,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+62807,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+62807,41860,Enhydra lutris,Sea Otter,eatenBy
+62807,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+62807,42054,Vulpes,Typical Foxes,eatenBy
+62807,47827,Cancer,,eatenBy
+62807,429195,Nucella emarginata,Emarginate Dogwinkle,eatenBy
+62807,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+62807,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+62807,48483,Chrysaora,Sea Nettles,eatenBy
+62807,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+62807,47716,Majidae,Typical Spider Crabs,eatenBy
+62807,41708,Phoca vitulina,Harbor Seal,eatenBy
+62807,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+62807,43584,Homo sapiens,Human,eatenBy
+62807,48174,Paguridae,Pagurid Hermit Crabs,eatenBy
+62807,49052,Anthopleura,,eatenBy
+62807,49725,Pugettia,,eatenBy
+62807,3836,Calidris,Calidris Sandpipers,eatenBy
+62807,,Carcinides,,eatenBy
+62807,193907,Thais,,eatenBy
+62807,51391,Tautogolabrus,,eatenBy
+62807,51790,Polinices,,eatenBy
+62807,48903,Asterias,,eatenBy
+62807,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+62807,7023,Somateria,Typical Eiders,eatenBy
+62807,324537,Maja squinado,European Spider Crab,eatenBy
+62807,57814,Pogonias cromis,Black Drum,eatenBy
+62807,103276,Ictalurus furcatus,Blue Catfish,eatenBy
+62807,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+62807,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+62807,142276,Tetanocera,,eatenBy
+62807,,Eider,,eatenBy
+62807,4843,Haematopus ostralegus,Eurasian Oystercatcher,eatenBy
+62807,118851,Crangon crangon,Brown Shrimp,eatenBy
+62807,354380,Portunus trituberculatus,Japanese Blue Crab,eatenBy
+62807,,Tringa semipalmatus,,eatenBy
+62807,1017167,Marthasterias glacialis,Spiny Starfish,eatenBy
+62807,204533,Larus argentatus,Herring Gull,eatenBy
+62807,8000,Corvus monedula,Eurasian Jackdaw,eatenBy
+62807,128426,Mylopharyngodon piceus,Black Carp,eatenBy
+62807,63740,Gadus morhua,Atlantic Cod,eatenBy
+62807,228496,Pollachius virens,Pollock,eatenBy
+62807,344748,Pomatoschistus minutus,Sand Goby,eatenBy
+62807,338051,Gobiusculus flavescens,Two-spotted Goby,eatenBy
+62807,110042,Pomatoschistus microps,Common Goby,eatenBy
+62807,118704,Gobius niger,Black Goby,eatenBy
+62807,342287,Pomatoschistus pictus,Painted Goby,eatenBy
+62807,86422,Amphistichus,,eatenBy
+62807,118669,Diplodus sargus,White Bream,eatenBy
+62807,118667,Diplodus vulgaris,Common Two-banded Seabream,eatenBy
+62807,7131,Tachyeres,Steamer Ducks,eatenBy
+62807,376425,Fusitriton,,eatenBy
+62807,60635,Anarrhichthys ocellatus,Wolf Eel,eatenBy
+62807,41766,Odobenus rosmarus,Walrus,eatenBy
+62807,,Crossaster papposus,,eatenBy
+62807,117641,Nucella lamellosa,Wrinkled Purple,eatenBy
+62807,221165,Hemilepidotus hemilepidotus,Red Irish Lord,eatenBy
+62807,,Evasterias troscheli,,eatenBy
+62807,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+62807,83171,Platichthys,,eatenBy
+62807,,Leptasterias,,eatenBy
+62807,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+62807,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+62807,7030,Somateria spectabilis,King Eider,eatenBy
+62807,51711,Urticina piscivora,fish-eating anemone,eatenBy
+62807,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+62807,,Chen canagica,,eatenBy
+62807,7024,Somateria mollissima,Common Eider,eatenBy
+62807,,Melanitta fusca,,eatenBy
+62807,371067,Nucella lima,File Dog Winkle,eatenBy
+62807,83329,Buccinidae,True Whelks,eatenBy
+62807,144221,Melanitta nigra,Common Scoter,eatenBy
+62807,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+62807,47524,Pleuronectes,,eatenBy
+62807,47658,Semibalanus cariosus,Thatched Barnacle,eatenBy
+62807,4356,Larus canus,Mew Gull,eatenBy
+62807,117536,Enophrys bison,Buffalo Sculpin,eatenBy
+62807,7170,Clangula hyemalis,Long-tailed Duck,eatenBy
+62807,7164,Polysticta stelleri,Steller's Eider,eatenBy
+62807,69998,Nucella canaliculata,Channeled Dog Winkle,eatenBy
+62807,7047,Aythya marila,Greater Scaup,eatenBy
+62807,123805,Paralithodes,,eatenBy
+62807,6995,Mergus,Typical Mergansers,eatenBy
+62807,130214,Buccinum,,eatenBy
+62807,1,Animalia,Animals,preysOn
+62807,123880,Bacillariophyceae,Diatoms,preysOn
+62807,,Phytoplankton,,preysOn
+62807,1142214,Cercaria,,preysOn
+62807,549790,Cryptocotyle,,preysOn
+62807,,Podocotyle,,preysOn
+62807,964699,Psilochasmus,,preysOn
+62807,,Epipellic Flora,,preysOn
+62807,,Microphallus,,preysOn
+62807,1256330,Levinseniella,,preysOn
+62807,,Maritrema,,preysOn
+62807,,Prokaryota,,preysOn
+62807,,plankton,,preysOn
+62807,,Microphytobenthos,,preysOn
+62807,,Zooplankton,,preysOn
+62807,621184,Ulvaria,,preysOn
+62807,,Detritus complex,,preysOn
+62807,54539,Syngnathus,Pipe-fishes,preyedUponBy
+62807,4342,Laridae,"Gulls, Terns, and Skimmers",preyedUponBy
+62807,52524,Carcinus,Green Crabs,preyedUponBy
+62807,4783,Charadriidae,Plovers and Lapwings,preyedUponBy
+62807,88563,Gobius,,preyedUponBy
+62807,154,Rallidae,"Rails, Gallinules, and Coots",preyedUponBy
+62807,6912,Anatidae,"Ducks, Geese, and Swans",preyedUponBy
+62807,40151,Mammalia,Mammals,preyedUponBy
+62807,3,Aves,Birds,preyedUponBy
+62807,52523,Carcinus maenas,European Green Crab,preyedUponBy
+62807,117520,Enhydra lutris nereis,Southern Sea Otter,preyedUponBy
+62807,48174,Paguridae,Pagurid Hermit Crabs,preyedUponBy
+62807,49725,Pugettia,,preyedUponBy
+62807,52319,Platyhelminthes,Flatworms,preyedUponBy
+62807,49052,Anthopleura,,preyedUponBy
+62807,47645,Cottidae,Typical Sculpins,preyedUponBy
+62807,429195,Nucella emarginata,Emarginate Dogwinkle,preyedUponBy
+62807,47827,Cancer,,preyedUponBy
+62807,91235,Pomatoschistus,,preyedUponBy
+62807,55398,Solea,,preyedUponBy
+62807,48817,Crangon,,preyedUponBy
+62807,88564,Gobiusculus,,preyedUponBy
+62807,48903,Asterias,,preyedUponBy
+62807,,Gasterosterus,,preyedUponBy
+62807,51391,Tautogolabrus,,preyedUponBy
+62807,,Pisces,,preyedUponBy
+62807,193907,Thais,,preyedUponBy
+62807,118851,Crangon crangon,Brown Shrimp,preyedUponBy
+62807,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+62807,53739,Cancer irroratus,Atlantic Rock Crab,preyedUponBy
+62807,,Zooplankton,,preyedUponBy
+62807,69998,Nucella canaliculata,Channeled Dog Winkle,preyedUponBy
+62807,371067,Nucella lima,File Dog Winkle,preyedUponBy
+62807,,Leptasterias,,preyedUponBy
+62807,47658,Semibalanus cariosus,Thatched Barnacle,preyedUponBy
+62807,,Evasterias troscheli,,preyedUponBy
+62807,51711,Urticina piscivora,fish-eating anemone,preyedUponBy
+62807,130214,Buccinum,,preyedUponBy
+62807,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy
+62807,221165,Hemilepidotus hemilepidotus,Red Irish Lord,preyedUponBy
+62807,117641,Nucella lamellosa,Wrinkled Purple,preyedUponBy
+62807,376425,Fusitriton,,preyedUponBy
+62807,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy

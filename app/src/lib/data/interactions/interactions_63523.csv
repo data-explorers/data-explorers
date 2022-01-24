@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63523,53036,Ambrosia,ragweeds,eats
+63523,55412,Raphanus,Radishes,eats
+63523,47118,Araneae,Spiders,eatenBy
+63523,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+63523,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+63523,16768,Tyrannus,Kingbirds,eatenBy
+63523,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+63523,,Nabis,,eatenBy
+63523,131093,Harpalus,,eatenBy
+63523,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+63523,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+63523,,Pinicola enucleator,,eatenBy
+63523,13732,Anthus rubescens,American Pipit,eatenBy
+63523,17394,Vireo gilvus,Warbling Vireo,eatenBy
+63523,,Vireo flavifrons,,eatenBy
+63523,,Alectoris chukar,,eatenBy

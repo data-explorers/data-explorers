@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41742,508884,Diaulula sandiegensis,San Diego Dorid,eats
+41742,47115,Mollusca,Molluscs,eats
+41742,47459,Cephalopoda,Cephalopods,eats
+41742,253674,Argonauta argo,Greater Argonaut,eats
+41742,620994,Austroglossus pectoralis,East Coast Sole,eats
+41742,,Gnathostomata,,eats
+41742,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+41742,94609,Argyrosomus hololepidotus,Madagascar Meagre,eats
+41742,446328,Pagellus natalensis,Sand Soldier,eats
+41742,47258,Thyrsites atun,Barracouta,eats
+41742,55535,Sardinops sagax,Pacific Sardine,eats
+41742,614223,Chorisochismus dentex,rocksucker,eats
+41742,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+41742,618672,Genypterus capensis,Kingklip,eats
+41742,120672,Scomberesox saurus,Atlantic Saury,eats
+41742,88265,Etrumeus,Red-eye Round Herrings,eats
+41742,118647,Lepidopus caudatus,Frostfish,eats
+41742,614956,Sufflogobius bibarbatus,,eats
+41742,118696,Trachurus capensis,Cape horse mackerel,eats
+41742,459325,Maurolicus muelleri,Pearlside,eats
+41742,617335,Merluccius capensis,South African Hake,eats
+41742,106222,Mugil cephalus,Sea Mullet,eats
+41742,51399,Argyrozona argyrozona,Carpenter Seabream,eats
+41742,94961,Austroglossus microlepis,,eats
+41742,82353,Merluccius,Hakes,eats
+41742,446437,Pterogymnus laniarius,panga,eats
+41742,621908,Chelidonichthys capensis,Cape gurnard,eats
+41742,530442,Lampanyctodes hectoris,Hector's Lanternfish,eats
+41742,118629,Helicolenus dactylopterus,Blackbelly Rosefish,eats
+41742,608018,Gymnammodytes capensis,,eats
+41742,102101,Haploblepharus edwardsii,Puffadder Shyshark,eats
+41742,664263,Enteroctopus magnificus,Cape Giant Octopus,eats
+41742,432546,Todaropsis eblanae,Lesser Flying Squid,eats
+41742,410229,Todarodes angolensis,Angola flying squid,eats
+41742,151373,Sepia australis,Southern Cuttlefish,eats
+41742,253722,Lycoteuthis lorigera,Crowned Firefly Squid,eats
+41742,102743,Hexanchus griseus,Bluntnose Sixgill Shark,eatenBy
+41742,107194,Notorynchus cepedianus,Broadnose Sevengill Shark,eatenBy
+41742,253674,Argonauta argo,Greater Argonaut,preysOn
+41742,664263,Enteroctopus magnificus,Cape Giant Octopus,preysOn
+41742,253722,Lycoteuthis lorigera,Crowned Firefly Squid,preysOn
+41742,432546,Todaropsis eblanae,Lesser Flying Squid,preysOn
+41742,410229,Todarodes angolensis,Angola flying squid,preysOn
+41742,151373,Sepia australis,Southern Cuttlefish,preysOn
+41742,107194,Notorynchus cepedianus,Broadnose Sevengill Shark,preyedUponBy

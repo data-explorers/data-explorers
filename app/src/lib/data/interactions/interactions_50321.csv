@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50321,58532,Colias eurytheme,Orange Sulphur,eatenBy
+50321,58531,Colias philodice,Clouded Sulphur,eatenBy
+50321,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+50321,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+50321,59152,Leptotes marina,Marine Blue,eatenBy
+50321,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+50321,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+50321,118492,Helicoverpa zea,Corn Earworm Moth,eatenBy
+50321,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+50321,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+50321,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+50321,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+50321,57688,Xylocopa californica,Western Carpenter,eatenBy
+50321,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+50321,124420,Bombus californicus,California Bumble Bee,eatenBy
+50321,6317,Calypte anna,Anna's Hummingbird,eatenBy
+50321,1081332,Lon melane,Umber Skipper,eatenBy
+50321,198856,Bombus auricomus,Black-and-gold Bumble Bee,eatenBy
+50321,1409,Callipepla californica,California Quail,eatenBy
+50321,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+50321,,Colias occidentalis,,eatenBy
+50321,209721,Colias alexandra,Queen Alexandra’s Sulphur,eatenBy
+50321,,Cupido amyntula,,eatenBy
+50321,,Lampides boeticus,,eatenBy
+50321,,Glaucopsyche alexis,,eatenBy
+50321,,Leptidea morsei,,eatenBy
+50321,,Leptidea sinapis,,eatenBy
+50321,,Neptis sappho,,eatenBy
+50321,,Plebejus argus,,eatenBy
+50321,122384,Plebejus anna,Anna's Blue,eatenBy
+50321,,Thorybes mexicana,,eatenBy
+50321,,Polyommatus icarus,,eatenBy
+50321,,Polyommatus amandus,,eatenBy
+50321,,Agrodiaetus admetus,,eatenBy
+50321,,Epilachna varivestis,,eatenBy
+50321,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+50321,,Plathypena scabra,,eatenBy
+50321,,Cupido amyntula amyntula,,eatenBy
+50321,41641,Ursus arctos,Brown Bear,eatenBy
+50321,,Cyanapion (Bothryorrhynchapion) afer,,eatenBy
+50321,,Hypera (Hypera) suspiciosa,,eatenBy
+50321,,Sitona (Sitona) lineatus,,eatenBy
+50321,,Oxystoma craccae,,eatenBy
+50321,,Bruchus rufimanus,,eatenBy
+50321,,Tychius quinquepunctatus,,eatenBy
+50321,,Lachnella villosa,,eatenBy
+50321,547836,Bruchus loti,,eatenBy
+50321,,Kakothrips pisivorus,,eatenBy
+50321,,Odontothrips phaleratus,,eatenBy
+50321,,Phoma pinodella,,eatenBy
+50321,,Oxystoma pomonae,,eatenBy
+50321,,Liriomyza congesta,,eatenBy
+50321,,Liriomyza pisivora,,eatenBy
+50321,,Agromyza lathyri,,eatenBy
+50321,,Sitona (Sitona) gemellatus,,eatenBy
+50321,987832,Aprosthema melanurum,,eatenBy
+50321,,Cnephasia incertana,,eatenBy
+50321,,Merophyas divulsana,,eatenBy
+50321,,Cnephasia asseclana,,eatenBy
+50321,,Grapholita jungiella,,eatenBy
+50321,,Grapholita orobana,,eatenBy
+50321,,Bembecia ichneumoniformis,,eatenBy
+50321,,Lygephila craccae,,eatenBy
+50321,,Laspeyria flexula,,eatenBy
+50321,,Baliochila aslauga,,eatenBy
+50321,,Selidosema plumaria,,eatenBy
+50321,,Grammia quenseli,,eatenBy
+50321,,Gonepteryx rhamni,,eatenBy
+50321,459128,Megachile ericetorum,Banded Mud Bee,eatenBy
+50321,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+50321,,Dasylophia anguina,,eatenBy
+50321,,Megoura viciae viciae,,eatenBy
+50321,127170,Hemaris thetis,Rocky Mountain Clearwing,eatenBy
+50321,142269,Bombus sitkensis,Sitka Bumble Bee,eatenBy
+50321,649,Francolinus francolinus,Black Francolin,eatenBy
+50321,52775,Bombus,Bumble Bees,pollinatedBy
+50321,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+50321,174417,Centris,,pollinatedBy
+50321,126545,Dialictus,Metallic Sweat Bees,pollinatedBy
+50321,,Platycheirus peltatus,,pollinatedBy
+50321,,,,pollinatedBy
+50321,,Meligethes aeneus,,pollinatedBy
+50321,121357,Platycheirus,Sedgesitters,pollinatedBy

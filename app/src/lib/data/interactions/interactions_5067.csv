@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5067,1,Animalia,Animals,eats
+5067,7018,Anser anser,Greylag Goose,eats
+5067,2548,Megaceryle alcyon,Belted Kingfisher,eats
+5067,46095,Marmota monax,Groundhog,eats
+5067,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+5067,28557,Storeria occipitomaculata,Red-bellied Snake,eats
+5067,13858,Passer domesticus,House Sparrow,eats
+5067,46217,Tamias striatus,Eastern Chipmunk,eats
+5067,46020,Sciurus niger,Fox Squirrel,eats
+5067,72486,Alopochen aegyptiaca,Egyptian Goose,eats
+5067,41663,Procyon lotor,Common Raccoon,eats
+5067,46272,Glaucomys volans,Southern Flying Squirrel,eats
+5067,9156,Passerella iliaca,Fox Sparrow,eats
+5067,28362,Thamnophis sirtalis,Common Garter Snake,eats
+5067,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+5067,42069,Vulpes vulpes,Red Fox,eats
+5067,42652,Didelphis virginiana,Virginia Opossum,eats
+5067,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+5067,59815,Sorex cinereus,Masked Shrew,eats
+5067,44395,Peromyscus leucopus,White-footed Mouse,eats
+5067,,Litocranius walleri,,eats
+5067,28562,Storeria dekayi,Dekay's Brownsnake,eats
+5067,,Chaetura pelagica,,eats
+5067,44705,Mus musculus,House Mouse,eats
+5067,,Otus asio,,eats
+5067,,Paguma larvata,,eats
+5067,46255,Ammospermophilus leucurus,White-tailed Antelope Squirrel,eats
+5067,,Canis lupus dingo,,eats
+5067,,Epomophorus gambianus,,eats
+5067,569428,Mustela nivalis,Least Weasel,eats
+5067,,Macroscelides proboscideus,,eats
+5067,,Eidolon helvum,,eats
+5067,,Orthogeomys heterodus,,eats
+5067,123594,Anaxyrus americanus americanus,Eastern American Toad,eats
+5067,45292,Hydromys chrysogaster,Rakali,eats
+5067,5676,Amazilia tzacatl,Rufous-tailed Hummingbird,eats
+5067,,Lemmiscus curtatus,,eats
+5067,922459,Felis silvestris,European Wildcat,eats
+5067,46092,Marmota broweri,Alaska Marmot,eats
+5067,54191,Oncorhynchus tshawytscha,Chinook Salmon,eats
+5067,,Colobus angolensis,,eats
+5067,,Elephantulus myurus,,eats
+5067,,Anas strepera,,eats
+5067,28423,Thamnophis butleri,Butler's Garter Snake,eats
+5067,,Elephantulus rufescens,,eats
+5067,,Procapra gutturosa,,eats
+5067,,Dendroica magnolia,,eats
+5067,41795,Martes zibellina,Sable,eats
+5067,,Damaliscus hunteri,,eats
+5067,43109,Sylvilagus nuttallii,Mountain Cottontail,eats
+5067,,Glaucomys sabrinus,,eats
+5067,40569,Nycticeius humeralis,Evening Bat,eats
+5067,,Marmota bobak,,eats
+5067,3460,Zenaida asiatica,White-winged Dove,eats
+5067,5416,Ictinia mississippiensis,Mississippi Kite,eats
+5067,,Suricata suricatta,,eats
+5067,,Paraechinus aethiopicus,,eats
+5067,,Microtus ochrogaster,,eats
+5067,,Dipodomys venustus,,eats
+5067,40352,Myotis grisescens,Gray Bat,eats
+5067,,Dipodomys deserti,,eats
+5067,,Lepus nigricollis,,eats
+5067,42878,Macropus bernardus,Black Wallaroo,eats
+5067,,Mellisuga helenae,,eats
+5067,,Peromyscus boylii,,eats
+5067,,Picoides scalaris,,eats
+5067,,Blarina carolinensis,,eats
+5067,44066,Thomomys talpoides,Northern Pocket Gopher,eats
+5067,,Blarina hylophaga,,eats
+5067,,Dipodomys compactus,,eats
+5067,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+5067,,Aquila chrysaetos,,eatenBy
+5067,6930,Anas platyrhynchos,Mallard,preysOn
+5067,40477,Eptesicus,House Bats,preysOn
+5067,,Eidolon helvum,,preysOn
+5067,20044,Bubo virginianus,Great Horned Owl,preyedUponBy

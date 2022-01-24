@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+180524,63740,Gadus morhua,Atlantic Cod,eatenBy
+180524,324536,Palinurus elephas,European Spiny Lobster,eatenBy
+180524,62408,Botryllus schlosseri,Star Tunicate,preysOn
+180524,81779,Diplosoma,,preysOn
+180524,510321,Botrylloides leachii,ladder ascidian,preysOn

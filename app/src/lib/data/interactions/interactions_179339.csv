@@ -1,0 +1,75 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+179339,48514,Capsicum annuum,chili pepper,eats
+179339,48969,Antirrhinum majus,Snapdragon,eats
+179339,64161,Triticum aestivum,Bread Wheat,eats
+179339,76610,Daucus carota,wild carrot,eats
+179339,76907,Erigeron canadensis,horseweed,eats
+179339,60265,Asparagus officinalis,wild asparagus,eats
+179339,75931,Calendula officinalis,pot marigold,eats
+179339,52681,Pteridium aquilinum,common bracken,eats
+179339,55854,Datura stramonium,jimsonweed,eats
+179339,62205,Alcea rosea,Hollyhock,eats
+179339,57057,Medicago sativa,Alfalfa,eats
+179339,53298,Stellaria media,common chickweed,eats
+179339,57563,Cynara cardunculus,Artichoke Thistle,eats
+179339,57065,Melilotus indicus,small melilot,eats
+179339,56121,Capsella bursa-pastoris,shepherd's-purse,eats
+179339,57983,Helianthus annuus,Common Sunflower,eats
+179339,79519,Vitis vinifera,wine grape,eats
+179339,52989,Cirsium vulgare,Bull Thistle,eats
+179339,53858,Solanum tuberosum,potato,eats
+179339,53178,Plantago lanceolata,ribwort plantain,eats
+179339,75604,Asparagus setaceus,Common Asparagus Fern,eats
+179339,54329,Tropaeolum majus,Nasturtium,eats
+179339,51737,Solanum lycopersicum,tomato,eats
+179339,48972,Polygonum,knotweeds,eats
+179339,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+179339,53113,Brassica,cabbages and mustards,eats
+179339,60271,Asparagus,Asparagus,eats
+179339,51876,Trifolium,clovers,eats
+179339,58335,Nicotiana,tobaccos,eats
+179339,53106,Lactuca,lettuces,eats
+179339,56955,Helianthus,sunflowers,eats
+179339,168241,Rumex longifolius,Northern Dock,eats
+179339,,Linum usitatissimum,,eats
+179339,48592,Allium cepa,Common Onion,eats
+179339,,Pisum sativum,,eats
+179339,,http://treatment.plazi.org/id/7F917C528F9F87A9DE65D7F2564AC0D3,,eats
+179339,,Malus pumila,,eats
+179339,,Citrus limon,,eats
+179339,84092,Spinacia oleracea,Spinach,eats
+179339,,Mentha × piperita,,eats
+179339,54919,Cucumis sativus,Cucumber,eats
+179339,873768,Nicotiana tabacum,Cultivated tobacco,eats
+179339,53271,Brassica rapa,field mustard,eats
+179339,,http://treatment.plazi.org/id/F92C45F9F19DC16132492FB93EBBE33C,,eats
+179339,,Rheum rhaponticum,,eats
+179339,,Salvia officinalis,,eats
+179339,,Lathyrus odoratus,,eats
+179339,48448,Zea mays,Maize,eats
+179339,,http://treatment.plazi.org/id/121066DB1BC342D43717D63C76C8297C,,eats
+179339,76541,Cucurbita pepo,American pumpkin,eats
+179339,58788,Apium graveolens,Celery,eats
+179339,122976,Lactuca sativa,lettuce,eats
+179339,,Persea americana,,eats
+179339,,Dianthus caryophyllus,,eats
+179339,55367,Fragaria chiloensis,beach strawberry,eats
+179339,55739,Viola tricolor,Wild Pansy,eats
+179339,51645,Rubus parvifolius,small-leaf bramble,eats
+179339,54498,Beta vulgaris,Beet,eats
+179339,68763,Prunus cerasus,Sour Cherry,eats
+179339,,Brassica oleracea capitata,,eats
+179339,75869,Brassica napus,rapeseed,eats
+179339,,Brassica oleracea,,eats
+179339,,Chrysanthemum,,eats
+179339,,Mentha piperita,,eats
+179339,,Glycine max,,eats
+179339,,Lycopersicon,,eats
+179339,,Chrysanthemum morifolium,,eats
+179339,,Parus major,,eatenBy
+179339,,Campoletis perdistinctus,,eatenBy
+179339,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+179339,41147,Macrotus californicus,California Leaf-nosed Bat,preyedUponBy
+179339,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy
+179339,,Corynorhinus townsendii,,preyedUponBy
+179339,57534,Miniopterus schreibersii,Schreibers' Long-fingered Bat,preyedUponBy

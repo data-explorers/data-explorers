@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7458,1,Animalia,Animals,eats
+7458,47118,Araneae,Spiders,eats
+7458,47124,Magnoliopsida,dicots,eats
+7458,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7458,47208,Coleoptera,Beetles,eats
+7458,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+7458,47120,Arthropoda,Arthropods,eats
+7458,53248,Elateridae,Click Beetles,eats
+7458,67742,Drosophilidae,Vinegar and Fruit Flies,eats
+7458,47119,Arachnida,Arachnids,eats
+7458,47961,Cerambycidae,Longhorn Beetles,eats
+7458,47158,Insecta,Insects,eats
+7458,48736,Curculionidae,True Weevils,eats
+7458,53816,Tenebrionidae,Darkling Beetles,eats
+7458,47822,Diptera,Flies,eats
+7458,47742,Pentatomidae,Stink Bugs,eats
+7458,47157,Lepidoptera,Butterflies and Moths,eats
+7458,51225,Tipulidae,Large Crane Flies,eats
+7458,184884,Pterygota,Winged and Once-winged Insects,eats
+7458,366894,Steatoda nobilis,Noble False Widow,eats
+7458,48448,Zea mays,Maize,eats
+7458,,Sciaridae,,eats
+7458,68869,Histeridae,Hister Beetles,eats
+7458,,Pteromalidae,,eats
+7458,85716,Cucujidae,Flat bark beetles,eats
+7458,44396,Peromyscus maniculatus,Deer Mouse,eatenBy
+7458,44737,Neotoma,Woodrats,eatenBy
+7458,46260,Tamiasciurus hudsonicus,American Red Squirrel,eatenBy
+7458,4672,Falco columbarius,Merlin,eatenBy
+7458,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+7458,,Glaucomys sabrinus,,eatenBy
+7458,922459,Felis silvestris,European Wildcat,eatenBy
+7458,,Spermophilus lateralis,,eatenBy
+7458,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+7458,49530,Geometridae,Geometer Moths,preysOn
+7458,47118,Araneae,Spiders,preysOn
+7458,47157,Lepidoptera,Butterflies and Moths,preysOn

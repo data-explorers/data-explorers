@@ -1,0 +1,65 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4885,211194,Tracheophyta,vascular plants,eats
+4885,1,Animalia,Animals,eats
+4885,47158,Insecta,Insects,eats
+4885,47120,Arthropoda,Arthropods,eats
+4885,85493,Crustacea,Crustaceans,eats
+4885,,Ambystoma californiense,,eats
+4885,42043,Canidae,Canids,eatenBy
+4885,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4885,,Mephitinae,,eatenBy
+4885,4644,Falco mexicanus,Prairie Falcon,eatenBy
+4885,47114,Gastropoda,Gastropods,preysOn
+4885,333586,Oligochaeta,Earthworms and allies,preysOn
+4885,47490,Polychaeta,Polychaete Worms,preysOn
+4885,84670,Ephydridae,Shore Flies,preysOn
+4885,47822,Diptera,Flies,preysOn
+4885,68764,Ostracoda,Seed Shrimp,preysOn
+4885,51280,Nemertea,Ribbon Worms,preysOn
+4885,179533,Fundulus parvipinnis,California Killifish,preysOn
+4885,337291,Cirriformia spirabrancha,,preysOn
+4885,47488,Cirratulidae,,preysOn
+4885,48051,Phoronida,Horseshoe Worms,preysOn
+4885,259078,Culex tarsalis,Western Encephalitis Mosquito,preysOn
+4885,111467,Quietula y-cauda,Shadow Goby,preysOn
+4885,,Polydora nuchalis,,preysOn
+4885,81789,Neanthes,,preysOn
+4885,,Trichocorixa,,preysOn
+4885,208368,Capitella capitata,,preysOn
+4885,,Cerithidea californica,,preysOn
+4885,,Ilypnus gilberti,,preysOn
+4885,117564,Clevelandia ios,Arrow Gobi,preysOn
+4885,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn
+4885,,Ctenodrilidae,,preysOn
+4885,123639,Spionidae,,preysOn
+4885,,Nassarius tiarula,,preysOn
+4885,,Carinoma mutabilis,,preysOn
+4885,,Ephydra,,preysOn
+4885,339172,Austrobilharzia,,preysOn
+4885,,Cloacitrema michiganense,,preysOn
+4885,339182,Phocitremoides ovale,,preysOn
+4885,,Large xiphideocercaria,,preysOn
+4885,,Trichodina,,preysOn
+4885,,Stictodora hancocki,,preysOn
+4885,,Hypereteone lighti,,preysOn
+4885,,Dilepididae,,preysOn
+4885,339200,Himasthla rhigedana,,preysOn
+4885,,Parorchis acanthus,,preysOn
+4885,88477,Geonemertes,Greenhouse Proboscis-worms,preysOn
+4885,339245,Himasthla,,preysOn
+4885,,Probolocoryphe uca,,preysOn
+4885,,trypanorynch,,preysOn
+4885,339183,Euhaplorchis californiensis,,preysOn
+4885,339249,Acanthoparyphium,,preysOn
+4885,339176,Renicola buchanani,,preysOn
+4885,,Mesostephanus appendiculatoides,,preysOn
+4885,,Spirocamallanus pereirai,,preysOn
+4885,,Ergasilus auritus,,preysOn
+4885,,Renicola cerithidicola,,preysOn
+4885,339174,Cyathocotylidae,,preysOn
+4885,339199,Catatropis johnstoni,,preysOn
+4885,,Eugregarinida,,preysOn
+4885,209100,Gyrodactylus,,preysOn
+4885,,Pygidiopsoides spindalis,,preysOn
+4885,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+4885,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy

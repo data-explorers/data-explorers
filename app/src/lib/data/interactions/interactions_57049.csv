@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57049,122381,Cupido comyntas,Eastern Tailed-Blue,eats
+57049,57049,Acmispon americanus,Spanish clover,eats
+57049,520456,Icaricia acmon,Acmon Blue,eats
+57049,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+57049,58532,Colias eurytheme,Orange Sulphur,eatenBy
+57049,57049,Acmispon americanus,Spanish clover,eatenBy
+57049,1409,Callipepla californica,California Quail,eatenBy
+57049,520456,Icaricia acmon,Acmon Blue,eatenBy

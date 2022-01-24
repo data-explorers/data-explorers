@@ -1,0 +1,116 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55830,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+55830,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+55830,51559,Bombylius,Greater Bee Flies,eatenBy
+55830,51557,Bombylius major,Greater Bee Fly,eatenBy
+55830,47219,Apis mellifera,Western Honey Bee,eatenBy
+55830,,Athalia circularis,,eatenBy
+55830,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+55830,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+55830,8029,Corvus frugilegus,Rook,eatenBy
+55830,,Columba palumbus,,eatenBy
+55830,,Myodes glareolus,,eatenBy
+55830,,Emberiza citrinella,,eatenBy
+55830,,Apodemus sylvaticus,,eatenBy
+55830,,Carduelis carduelis,,eatenBy
+55830,,Alectoris rufa,,eatenBy
+55830,,Carduelis chloris,,eatenBy
+55830,130433,Amara aenea,Common Sun Beetle,eatenBy
+55830,,Ophonus schaubergerianus,,eatenBy
+55830,130452,Amara plebeja,,eatenBy
+55830,,Ophonus azureus,,eatenBy
+55830,,Amara aulica,,eatenBy
+55830,,Amara sinuosa,,eatenBy
+55830,,Diachromus germanus,,eatenBy
+55830,,Pachytomella arallela,,eatenBy
+55830,,Drymus sylvaticus,,eatenBy
+55830,,Exomias pellucidus,,eatenBy
+55830,,Anisodactylus binotatus,,eatenBy
+55830,547575,Anthicus antherinus,,eatenBy
+55830,552756,Orius niger,,eatenBy
+55830,,Drymus ryei,,eatenBy
+55830,504708,Ophonus laticollis,,eatenBy
+55830,,Peritrechus nubilus,,eatenBy
+55830,219849,Eupteryx atropunctata,,eatenBy
+55830,,Emelyanoviana mollicula,,eatenBy
+55830,,Peritrechus geniculatus,,eatenBy
+55830,,Helophorus nubilus,,eatenBy
+55830,,Agrypnus murinus,,eatenBy
+55830,,Rhyparochromus pini,,eatenBy
+55830,768727,Eupteryx calcarata,,eatenBy
+55830,606260,Eupteryx vittata,,eatenBy
+55830,,Sphragisticus nebulosus,,eatenBy
+55830,,Helophorus griseus,,eatenBy
+55830,,Exomias trichopterus,,eatenBy
+55830,523365,Harpalus griseus,,eatenBy
+55830,,Amara ovata,,eatenBy
+55830,,Hemicrepidius hirtus,,eatenBy
+55830,,Adrastus rachifer,,eatenBy
+55830,456218,Agriotes obscurus,,eatenBy
+55830,,Harpalus distinguendus,,eatenBy
+55830,,Amara equestris,,eatenBy
+55830,,Catoplatus fabricii,,eatenBy
+55830,550416,Stygnocoris rusticus,,eatenBy
+55830,,Amara lunicollis,,eatenBy
+55830,547612,Trachys scrobiculatus,,eatenBy
+55830,,Amara quenseli,,eatenBy
+55830,,Amara eurynota,,eatenBy
+55830,,BOLD:AAD4685,,eatenBy
+55830,,Podops inuncta,,eatenBy
+55830,131102,Harpalus tardus,,eatenBy
+55830,,Trechus quadristriatus,,eatenBy
+55830,,Athous bicolor,,eatenBy
+55830,204590,Plagiognathus arbustorum,Common Nettle Flower Bug,eatenBy
+55830,,Polia purpurissata,,eatenBy
+55830,,Xanthotype urticaria,,eatenBy
+55830,1000298,Meligethes ovatus,,eatenBy
+55830,,Chrysolina violacea,,eatenBy
+55830,,Phytomyza glechomae,,eatenBy
+55830,,Rondaniola bursaria,,eatenBy
+55830,,Liposthenes glechomae,,eatenBy
+55830,,Bombus pascuorum,,eatenBy
+55830,,Puccinia glechomatis,,eatenBy
+55830,,Chrysolina sturmi,,eatenBy
+55830,,Anthocharis cardamines,,eatenBy
+55830,,Dasineura glechomae,,eatenBy
+55830,,Xylocopa virginica,,eatenBy
+55830,43997,Myocastor coypus,Coypu,eatenBy
+55830,58586,Limenitis archippus,Viceroy,pollinatedBy
+55830,335749,Dioxyna picciola,,pollinatedBy
+55830,48060,Prosopis,mesquites,pollinatedBy
+55830,176923,Mordella,,pollinatedBy
+55830,130131,Ectemnius,,pollinatedBy
+55830,,Metasyrphus corollae,,pollinatedBy
+55830,,,,pollinatedBy
+55830,,Nomada harimensis ,,pollinatedBy
+55830,,Ceratina japonica ,,pollinatedBy
+55830,,Ceratina esakii ,,pollinatedBy
+55830,70405,Melanostoma scalare,Ladder-backed Hover Fly,pollinatedBy
+55830,,Lasius niger,,pollinatedBy
+55830,,Oedemeronia lucidicollis ,,pollinatedBy
+55830,,Ceratina dupla,,pollinatedBy
+55830,,Nomada denticulata,,pollinatedBy
+55830,,Syntomopus americanus,,pollinatedBy
+55830,,Apallates coxendix,,pollinatedBy
+55830,,Callandrena,,pollinatedBy
+55830,,Trachandrena,,pollinatedBy
+55830,,Chlorops,,pollinatedBy
+55830,,Acontia candefacta,,pollinatedBy
+55830,,Chloralictus,,pollinatedBy
+55830,,Strangalia famelica,,pollinatedBy
+55830,176259,Osphya varians,,pollinatedBy
+55830,,Mordellistena comata,,pollinatedBy
+55830,,Coelioxys alternata,,pollinatedBy
+55830,,Holonomada,,pollinatedBy
+55830,320563,Anthocomus,,pollinatedBy
+55830,,Holcopasites heliopsis,,pollinatedBy
+55830,,Gnathias,,pollinatedBy
+55830,,Andrena pruni,,pollinatedBy
+55830,,Phaleria,,pollinatedBy
+55830,,Tiphia,,pollinatedBy
+55830,,Panzeria,,pollinatedBy
+55830,,Ripiphorus,,pollinatedBy
+55830,,Cynomyia,,pollinatedBy
+55830,52481,Volucella,,pollinatedBy
+55830,,Cantharis lateralis,,preyedUponBy
+55830,,Amara communis,,preyedUponBy

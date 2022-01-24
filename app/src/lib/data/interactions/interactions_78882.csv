@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+78882,,Rosa multiflo,,eats
+78882,12727,Turdus migratorius,American Robin,eatenBy
+78882,14850,Sturnus vulgaris,European Starling,eatenBy
+78882,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+78882,12942,Sialia sialis,Eastern Bluebird,eatenBy
+78882,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+78882,12890,Catharus guttatus,Hermit Thrush,eatenBy
+78882,52381,Aphididae,Aphids,eatenBy
+78882,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+78882,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+78882,,Shirozua jonasi,,eatenBy
+78882,,Celastrina argiolus,,eatenBy
+78882,,Rapala arata,,eatenBy
+78882,,Acytolepis puspa,,eatenBy
+78882,,Callophrys ferrea,,eatenBy
+78882,,Notocelia longispina,,eatenBy
+78882,,Pammene adusta,,eatenBy
+78882,,Malacosoma californica,,eatenBy
+78882,125828,Rapala,Flashes,eatenBy
+78882,,Nyssiodes lefuarius,,eatenBy
+78882,243770,Ascotis selenaria,Citrus-looper,eatenBy
+78882,,Auaxa cesadaria,,eatenBy
+78882,,Ectropis excellens,,eatenBy
+78882,,Andrena milwaukeensis,,eatenBy
+78882,,Trichiotinus affinis,,eatenBy
+78882,127812,Hylaeus,Masked Bees,pollinatedBy
+78882,57678,Lasioglossum,,pollinatedBy
+78882,,Andrena,,pollinatedBy
+78882,,Eristalomya tenax ,,pollinatedBy

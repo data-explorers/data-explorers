@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+65982,4956,Ardea herodias,Great Blue Heron,eatenBy
+65982,28362,Thamnophis sirtalis,Common Garter Snake,eatenBy
+65982,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,eatenBy
+65982,29305,Nerodia sipedon,Common Watersnake,eatenBy
+65982,,Thamnophis saurita septentrionalis,,eatenBy
+65982,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+65982,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+65982,6930,Anas platyrhynchos,Mallard,preyedUponBy
+65982,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+65982,,Nerodia fasciata confluens,,preyedUponBy
+65982,,Agkistrodon piscivorus leucostoma,,preyedUponBy
+65982,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+65982,,Nerodia sipedon sipedon,,preyedUponBy

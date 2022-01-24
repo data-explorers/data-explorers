@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49263,92583,Trachurus,Jack Mackerels,eats
+49263,,Macrobenthos,,eats
+49263,91866,Sardinella,Sardinellas,eats
+49263,,Middlebenthos,,eats
+49263,,Small pelagics,,eats
+49263,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+49263,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+49263,47296,Lutjanus,Common Snappers,eatenBy
+49263,91518,Pseudotolithus,,eatenBy
+49263,112961,Sphyrna tudes,Smalleye Hammerhead,eatenBy
+49263,64466,Mycteroperca interstitialis,Yellowmouth Grouper,eatenBy
+49263,104853,Lutjanus analis,Mutton Snapper,eatenBy
+49263,92191,Squatina,Angel Sharks,eatenBy
+49263,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+49263,49509,Lutjanus griseus,Grey Snapper,eatenBy
+49263,,Paralichthys albigutta,,eatenBy
+49263,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+49263,54440,Synodus foetens,Inshore Lizardfish,eatenBy
+49263,102938,Hoplopagrus guentherii,Barred Pargo,eatenBy
+49263,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49263,108196,Pagrus pagrus,Red Porgy,eatenBy
+49263,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+49263,92583,Trachurus,Jack Mackerels,preysOn
+49263,,Small pelagics,,preysOn
+49263,,Middlebenthos,,preysOn
+49263,91866,Sardinella,Sardinellas,preysOn
+49263,,Macrobenthos,,preysOn
+49263,,Pseudolaticauda semifasciata,,preyedUponBy
+49263,91518,Pseudotolithus,,preyedUponBy

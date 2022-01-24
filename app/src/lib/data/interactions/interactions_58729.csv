@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58729,,Stigmella rhoifoliella,,eatenBy
+58729,,Cameraria guttifinitella,,eatenBy
+58729,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+58729,52932,Cantharidae,Soldier Beetles,pollinatedBy
+58729,47961,Cerambycidae,Longhorn Beetles,pollinatedBy
+58729,47220,Apis,Honey Bees,pollinatedBy
+58729,47822,Diptera,Flies,pollinatedBy

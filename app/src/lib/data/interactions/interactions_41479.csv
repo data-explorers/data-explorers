@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41479,47459,Cephalopoda,Cephalopods,eats
+41479,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+41479,342912,Caridea,Caridean Shrimps,eats
+41479,41547,Balaenoptera,,eats
+41479,99979,Engraulis ringens,Peruvian Anchoveta,eats
+41479,93611,Alburnus alburnus,Bleak,eats
+41479,317435,Urophycis cirrata,Gulf Hake,eats
+41479,,Emperor penguins,,eats
+41479,,Crabeater seals,,eats
+41479,,Weddell seals,,eats
+41479,,Tooth-fish,,eats
+41479,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+41479,102743,Hexanchus griseus,Bluntnose Sixgill Shark,eatenBy
+41479,107194,Notorynchus cepedianus,Broadnose Sevengill Shark,eatenBy
+41479,342912,Caridea,Caridean Shrimps,preysOn
+41479,41547,Balaenoptera,,preysOn
+41479,,Tooth-fish,,preysOn
+41479,,Emperor penguins,,preysOn
+41479,93611,Alburnus alburnus,Bleak,preysOn
+41479,,Crabeater seals,,preysOn
+41479,,Weddell seals,,preysOn

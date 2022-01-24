@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85850,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+85850,5017,Bubulcus ibis,Cattle Egret,eatenBy
+85850,,Corvus caurinus,,eatenBy
+85850,126838,Eciton burchellii,,preyedUponBy

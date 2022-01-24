@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+143496,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+143496,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+143496,19577,Chordeiles minor,Common Nighthawk,eatenBy
+143496,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+143496,32512,Rena dulcis,Texas Blind Snake,preyedUponBy

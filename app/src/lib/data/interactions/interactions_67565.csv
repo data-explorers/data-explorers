@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67565,8010,Corvus corax,Common Raven,eatenBy
+67565,4196,Macronectes,Giant Petrels,eatenBy
+67565,4198,Macronectes giganteus,Southern Giant-Petrel,eatenBy

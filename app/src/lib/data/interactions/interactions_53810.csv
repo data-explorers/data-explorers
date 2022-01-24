@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53810,47219,Apis mellifera,Western Honey Bee,eats
+53810,,Anthophora urbana clementina,,eats
+53810,12942,Sialia sialis,Eastern Bluebird,eatenBy
+53810,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+53810,17394,Vireo gilvus,Warbling Vireo,eatenBy
+53810,17408,Vireo griseus,White-eyed Vireo,eatenBy
+53810,,Vireo flavifrons,,eatenBy
+53810,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+53810,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy
+53810,298731,Phidippus carolinensis,Carolina Jumping Spider,preyedUponBy

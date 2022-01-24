@@ -1,0 +1,73 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+17009,47416,Lycosidae,Wolf Spiders,eats
+17009,59510,Meloidae,Blister Beetles,eats
+17009,47157,Lepidoptera,Butterflies and Moths,eats
+17009,51953,Tachinidae,Bristle Flies,eats
+17009,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+17009,47982,Asilidae,Robber Flies,eats
+17009,49567,Carabidae,Ground Beetles,eats
+17009,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+17009,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+17009,81769,Blattodea,Cockroaches and Termites,eats
+17009,47822,Diptera,Flies,eats
+17009,61267,Heteroptera,True Bugs,eats
+17009,50186,Cicadidae,Typical Cicadas,eats
+17009,53816,Tenebrionidae,Darkling Beetles,eats
+17009,47649,Acrididae,Short-horned Grasshoppers,eats
+17009,47336,Formicidae,Ants,eats
+17009,47208,Coleoptera,Beetles,eats
+17009,48201,Scarabaeidae,Scarabs,eats
+17009,48670,Noctuidae,Cutworm Moths and Allies,eats
+17009,47653,Hesperiidae,Skippers,eats
+17009,48959,Reduviidae,Assassin Bugs,eats
+17009,51558,Bombyliidae,Bee Flies,eats
+17009,48508,Pieridae,"Whites, Yellows, and Sulphurs",eats
+17009,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+17009,83843,Oxyopidae,Lynx Spiders,eats
+17009,48147,Isopoda,Isopods,eats
+17009,128712,Coccinella californica,California Lady Beetle,eats
+17009,47158,Insecta,Insects,eats
+17009,141735,Sitona,,eats
+17009,61858,Lucilia,Greenbottle Flies,eats
+17009,173324,Blapstinus,,eats
+17009,48987,Hippodamia convergens,Convergent Lady Beetle,eats
+17009,82067,Melyridae,Soft-winged Flower Beetles,eats
+17009,47124,Magnoliopsida,dicots,eats
+17009,52689,Sambucus,elders,eats
+17009,47927,Anisoptera,Dragonflies,eats
+17009,48290,Oniscus,,eats
+17009,47120,Arthropoda,Arthropods,eats
+17009,47118,Araneae,Spiders,eats
+17009,48548,Vanessa cardui,Painted Lady,eats
+17009,71251,Gryllus,,eats
+17009,86400,Ammopelmatus,North American Jerusalem Crickets,eats
+17009,51493,Trimerotropis pallidipennis,Pallid-winged Grasshopper,eats
+17009,50340,Hylephila phyleus,Fiery Skipper,eats
+17009,61860,Calliphoridae,Blow Flies,eats
+17009,,Sesiidae,,eats
+17009,68869,Histeridae,Hister Beetles,eats
+17009,,Anisodactylus rusticus,,eats
+17009,,Cynomya cadaverina,,eats
+17009,,Epicauta stuarti,,eats
+17009,,Amara interstitialis,,eats
+17009,,Euphoria inda,,eats
+17009,455963,Omias saccatus,,eats
+17009,,Altica foliaceae,,eats
+17009,,Calamosternus granarius,,eats
+17009,,Kuschelina miniata,,eats
+17009,,Dyschirus gibbipennis,,eats
+17009,,Amara,,eats
+17009,,Cyrtopogon bimacula,,eats
+17009,,Aphodius,,eats
+17009,,Thecesternus humeralis,,eats
+17009,69766,Gastrophysa,,eats
+17009,,Judolia instabilis,,eats
+17009,,Cylindera lemniscata,,eats
+17009,4644,Falco mexicanus,Prairie Falcon,eatenBy
+17009,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+17009,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+17009,71251,Gryllus,,preysOn
+17009,630955,Anthophila,Bees,preysOn
+17009,68138,Sympetrum corruptum,Variegated Meadowhawk,preysOn
+17009,49133,Vanessa atalanta,Red Admiral,preysOn
+17009,,Nymphalis californica,,preysOn

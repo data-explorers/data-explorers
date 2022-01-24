@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84950,85320,Monarda fistulosa,wild bergamot,eats
+84950,48627,Echinacea purpurea,purple coneflower,eats
+84950,58907,Melilotus albus,White Sweetclover,eats
+84950,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+84950,47544,Rubus,brambles,eats
+84950,56058,Leucanthemum,,eats
+84950,,Cephalanthus occidentalis,,eats
+84950,,Rubus trivialis,,eats
+84950,50334,Lantana,,eats
+84950,359668,Physaria filiformis,Missouri bladderpod,pollinates
+84950,,Hedeoma pulegioides,,pollinates
+84950,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy

@@ -1,0 +1,42 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47154,47851,Quercus,oaks,eats
+47154,47452,Acacia,wattles,eats
+47154,57250,Prunus ilicifolia,hollyleaf cherry,eats
+47154,49203,Fagus,beeches,eats
+47154,53373,Corylus,hazels,eats
+47154,49005,Quercus rubra,northern red oak,eats
+47154,54500,Malus,apples,eats
+47154,63573,Picea,spruces,eats
+47154,47451,Albizia,"Mimosa, silk trees, false-thorns, and allies",eats
+47154,68692,Shorea,,eats
+47154,121763,Castanea sativa,Sweet Chestnut,eats
+47154,49187,Castanea,Chestnuts,eats
+47154,,Cupressus macrocarpa,,eats
+47154,,Cassia fistula,,eats
+47154,168863,Sesbania grandiflora,Agati,eats
+47154,,Dalbergia sissoo,,eats
+47154,,Castanea mollissima,,eats
+47154,,Bauhinia purpurea,,eats
+47154,122786,Castanea crenata,Japanese Chestnut,eats
+47154,,Quercus acutissima,,eats
+47154,,Castanea dentata,,eats
+47154,,Butea,,eats
+47154,,Acacia koa,,eats
+47154,,Abutilon bidentatum,,eats
+47154,,Prunus integrifolia,,eats
+47154,,Castanea seguinii,,eats
+47154,70036,Sophora chrysophylla,Māmane,eats
+47154,75997,Cannabis sativa,hemp,eats
+47154,48865,Cocos nucifera,coconut palm,eats
+47154,,Acacia angustissima,,eats
+47154,,Humulus lupulus,,eats
+47154,,Casearia hirsuta,,eats
+47154,,Acacia koaia,,eats
+47154,,Dipterocarpus kerrii,,eats
+47154,,Koompassia malaccensis,,eats
+47154,68655,Dalbergia,Flatbeans,eats
+47154,,Calyptrogyne ghiesbreghtiana,,eats
+47154,,Shorea parvifolia,,eats
+47154,,Exeristes comstockii,,eatenBy
+47154,,Ascogaster quadridentata,,eatenBy
+47154,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

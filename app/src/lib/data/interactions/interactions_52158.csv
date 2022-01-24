@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52158,52344,Ipomoea purpurea,common morning-glory,eats
+52158,,Lepechinia fragrans,,eats
+52158,,Dracaena,,eats
+52158,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+52158,67706,Argiope argentata,Silver Garden Orbweaver,eatenBy
+52158,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+52158,36204,Sceloporus occidentalis,Western Fence Lizard,eatenBy
+52158,8021,Corvus brachyrhynchos,American Crow,eatenBy

@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50587,48407,Raja,,eatenBy
+50587,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+50587,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+50587,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+50587,63740,Gadus morhua,Atlantic Cod,eatenBy
+50587,49431,Orthopristis chrysoptera,Pigfish,eatenBy
+50587,117551,Amphistichus argenteus,Barred Surfperch,eatenBy
+50587,179545,Menticirrhus americanus,Southern Kingfish,eatenBy
+50587,104540,Leucoraja ocellata,Winter Skate,eatenBy
+50587,118678,Scomber scombrus,Atlantic Mackerel,eatenBy

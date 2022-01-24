@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41637,43794,Castor canadensis,American Beaver,eats
+41637,,forbs,,eats
+41637,,shrubs,,eats
+41637,,Lepus arcticus,,preysOn
+41637,,Rangifer tarandus,,preysOn
+41637,,Ovibos moschatus,,preysOn

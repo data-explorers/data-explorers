@@ -1,0 +1,307 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43584,47178,Actinopterygii,Ray-finned Fishes,eats
+43584,47272,Rajiformes,Skates,eats
+43584,47584,Bivalvia,Bivalves,eats
+43584,4424,Sterna,Typical Terns,eats
+43584,39657,Cheloniidae,Typical Sea Turtles,eats
+43584,574,Phasianidae,"Pheasants, Grouse, and Allies",eats
+43584,48867,Arecaceae,palms,eats
+43584,47186,Decapoda,Decapods,eats
+43584,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+43584,41493,Stenella,Side-striped Dolphins,eats
+43584,43095,Leporidae,Hares and Rabbits,eats
+43584,526558,Mustelinae,Weasels,eats
+43584,6912,Anatidae,"Ducks, Geese, and Swans",eats
+43584,56955,Helianthus,sunflowers,eats
+43584,890,Bonasa umbellus,Ruffed Grouse,eats
+43584,47679,Patellogastropoda,True Limpets,eats
+43584,41860,Enhydra lutris,Sea Otter,eats
+43584,47458,Octopoda,Octopuses,eats
+43584,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+43584,41707,Phoca,,eats
+43584,41687,Phocidae,Earless Seals,eats
+43584,42652,Didelphis virginiana,Virginia Opossum,eats
+43584,43794,Castor canadensis,American Beaver,eats
+43584,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+43584,7089,Branta canadensis,Canada Goose,eats
+43584,53911,Cyprinus carpio,European Carp,eats
+43584,42223,Odocoileus virginianus,White-tailed Deer,eats
+43584,41638,Ursus americanus,American Black Bear,eats
+43584,42069,Vulpes vulpes,Red Fox,eats
+43584,54196,Cichlidae,Cichlids,eats
+43584,3,Aves,Birds,eats
+43584,47544,Rubus,brambles,eats
+43584,58935,Lythraceae,lythrum family,eats
+43584,47852,Fagaceae,beech family,eats
+43584,47759,Oxalidaceae,woodsorrel family,eats
+43584,52850,Aralia,spikenards,eats
+43584,53373,Corylus,hazels,eats
+43584,47566,Populus,"poplars, cottonwoods, and aspens",eats
+43584,47193,Cornus,dogwoods,eats
+43584,41547,Balaenoptera,,eats
+43584,41727,Mirounga,Elephant Seals,eats
+43584,889,Bonasa,,eats
+43584,6888,Anseriformes,Waterfowl,eats
+43584,573,Galliformes,Landfowl,eats
+43584,47827,Cancer,,eats
+43584,41478,Eschrichtius robustus,Grey Whale,eats
+43584,3874,Tringa,"Shanks, Tattlers, and Allies",eats
+43584,49127,Balanus nubilus,Giant Acorn Barnacle,eats
+43584,41755,Eumetopias jubatus,Steller Sea Lion,eats
+43584,41566,Megaptera novaeangliae,Humpback Whale,eats
+43584,62807,Mytilus,Black Mussels,eats
+43584,4620,Gavia,Loons,eats
+43584,117700,Cucumaria,,eats
+43584,81616,Styela,Lumpy Sea Mats,eats
+43584,49053,Cryptochiton stelleri,Gumboot Chiton,eats
+43584,126967,Pyura,Red-baits,eats
+43584,120959,Modiolus,,eats
+43584,54525,Pectinidae,Scallops,eats
+43584,6922,Anas,"Mallards, Pintails, and Allies",eats
+43584,4349,Larus hyperboreus,Glaucous Gull,eats
+43584,48217,Fucus,vesicled rockweeds,eats
+43584,47582,Ostreidae,True Oysters,eats
+43584,4561,Synthliboramphus antiquus,Ancient Murrelet,eats
+43584,81636,Mya,,eats
+43584,41708,Phoca vitulina,Harbor Seal,eats
+43584,81610,Balanus glandula,Pacific Acorn Barnacle,eats
+43584,49052,Anthopleura,,eats
+43584,69926,Clinocardium,,eats
+43584,42054,Vulpes,Typical Foxes,eats
+43584,51200,Hippolytidae,Hump-backed Shrimps,eats
+43584,4509,Fratercula cirrhata,Tufted Puffin,eats
+43584,117766,Phoca vitulina richardii,Pacific Harbor Seal,eats
+43584,3912,Gallinago,Typical Snipes,eats
+43584,48919,Littorina,Periwinkles,eats
+43584,41729,Mirounga leonina,Southern Elephant Seal,eats
+43584,74890,Physeter macrocephalus,Sperm Whale,eats
+43584,,Mysticeti,,eats
+43584,47638,Scorpaenichthys marmoratus,Cabezon,eats
+43584,51392,Morone saxatilis,Striped Bass,eats
+43584,,Pleuronectiformes,,eats
+43584,42134,Sus scrofa,Wild Boar,eats
+43584,,Birgus latro,,eats
+43584,,Artocarpus altilis,,eats
+43584,70025,Pandanus,screwpines,eats
+43584,,no name,,eats
+43584,210279,Cyrtosperma,,eats
+43584,107885,Oreochromis leucostictus,Blue-spotted Tilapia,eats
+43584,50984,Pomatomus saltatrix,Bluefish,eats
+43584,,demersal species,,eats
+43584,58642,Fundulus heteroclitus,Mummichog,eats
+43584,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",eats
+43584,,Oreochromis niloticus,,eats
+43584,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+43584,328042,Engraulis japonicus,Japanese Anchovy,eats
+43584,361765,Todarodes pacificus,Japanese Flying Squid,eats
+43584,,Trachurus japonicus,,eats
+43584,,Sergia lucens,,eats
+43584,,Pryola,,eats
+43584,,Salmo,,eats
+43584,82351,Melanogrammus aeglefinus,Haddock,eats
+43584,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+43584,62989,Aedes,,eatenBy
+43584,155453,Aedes aegypti,Yellow Fever Mosquito,eatenBy
+43584,52155,Dermacentor variabilis,American Dog Tick,eatenBy
+43584,155309,Culex quinquefasciatus,Southern House Mosquito,eatenBy
+43584,42069,Vulpes vulpes,Red Fox,eatenBy
+43584,49704,Tabanus,True Horse Flies,eatenBy
+43584,41886,Crocuta crocuta,Spotted Hyaena,eatenBy
+43584,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+43584,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+43584,41967,Panthera tigris,Tiger,eatenBy
+43584,,Aedes notoscriptus,,eatenBy
+43584,,Aedes alboannulatus,,eatenBy
+43584,,Aedes camptorhynchus,,eatenBy
+43584,,Aedes fitchii,,eatenBy
+43584,62984,Aedes albopictus,Asian Tiger Mosquito,eatenBy
+43584,,Coquillettidia linealis,,eatenBy
+43584,,Aedes vittiger,,eatenBy
+43584,,Aedes vigilax,,eatenBy
+43584,854545,Verrallina funerea,,eatenBy
+43584,,Anopheles annulipes,,eatenBy
+43584,,Amblyomma triguttatum,,eatenBy
+43584,,Aedes sierrensis,,eatenBy
+43584,,Aedes vexans,,eatenBy
+43584,,Psorophora ferox,,eatenBy
+43584,,Psorophora columbiae,,eatenBy
+43584,,Amblyomma cajennense,,eatenBy
+43584,259069,Culex erythrothorax,Tule Mosquito,eatenBy
+43584,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+43584,,Pediculus humanus capitis,,eatenBy
+43584,,Calyptra thalictri,,eatenBy
+43584,,Aedes scutellaris,,eatenBy
+43584,,Aedes atropalpus,,eatenBy
+43584,,Glossina pallidipes,,eatenBy
+43584,,Aedes pseudoscutellaris,,eatenBy
+43584,,Ornithodoros savignyi,,eatenBy
+43584,259078,Culex tarsalis,Western Encephalitis Mosquito,eatenBy
+43584,,Aedes sollicitans,,eatenBy
+43584,,Aedes annulipes,,eatenBy
+43584,,Aedes detritus,,eatenBy
+43584,,Aedes cantator,,eatenBy
+43584,,Aedes cantans,,eatenBy
+43584,,Culiseta melanura,,eatenBy
+43584,,Culiseta annulata,,eatenBy
+43584,259075,Culex salinarius,Unbanded Saltmarsh Mosquito,eatenBy
+43584,,Anopheles albimanus,,eatenBy
+43584,,Simulium metallicum,,eatenBy
+43584,,Aedes flavescens,,eatenBy
+43584,,Simulium callidum,,eatenBy
+43584,,Aedes geniculatus,,eatenBy
+43584,,Culiseta inornata,,eatenBy
+43584,,Anopheles crucians,,eatenBy
+43584,1112081,Aedes excrucians,Woodland Mosquito,eatenBy
+43584,,Aedes cataphylla,,eatenBy
+43584,,Aedes fulvus pallens,,eatenBy
+43584,,Anopheles stephensi,,eatenBy
+43584,,Aedes sticticus,,eatenBy
+43584,,Psorophora confinnis,,eatenBy
+43584,,Aedes nigromaculis,,eatenBy
+43584,,Culex erraticus,,eatenBy
+43584,1112066,Aedes caspius,,eatenBy
+43584,,Anopheles quadrimaculatus,,eatenBy
+43584,,Anopheles freeborni,,eatenBy
+43584,,Aedes dorsalis,,eatenBy
+43584,,Dermacentor andersoni,,eatenBy
+43584,,Ornithodoros parkeri,,eatenBy
+43584,,Anopheles pseudopunctipennis,,eatenBy
+43584,,Anopheles balabacensis,,eatenBy
+43584,,Aedes koreicus,,eatenBy
+43584,936185,Cimex hemipterus,Tropical Bed Bug,eatenBy
+43584,,Lutzomyia longipalpis,,eatenBy
+43584,,Aedes ventrovittis,,eatenBy
+43584,,Coquillettidia perturbens,,eatenBy
+43584,,Anopheles,,eatenBy
+43584,,Aedes ingrami,,eatenBy
+43584,,Aedes hexodontus,,eatenBy
+43584,,Aedes increpitus,,eatenBy
+43584,311218,Ctenocephalides felis,Cat Flea,eatenBy
+43584,,Simulium damnosum,,eatenBy
+43584,,Mansonia africana,,eatenBy
+43584,,Culiseta alaskaensis,,eatenBy
+43584,,Culex modestus,,eatenBy
+43584,,Ctenocephalides canis,,eatenBy
+43584,,Ixodes ricinus,,eatenBy
+43584,,Culex pipiens,,eatenBy
+43584,,Tabanus lineola,,eatenBy
+43584,155310,Anopheles sinensis,,eatenBy
+43584,,Mansonia indubitans,,eatenBy
+43584,,Anopheles maculipennis,,eatenBy
+43584,,Aedes squamiger,,eatenBy
+43584,,Aedes polynesiensis,,eatenBy
+43584,,Culex annulirostris,,eatenBy
+43584,,Aedes canadensis,,eatenBy
+43584,,Panstrongylus megistus,,eatenBy
+43584,372338,Wyeomyia vanduzeei,Bromeliad Mosquito,eatenBy
+43584,,Culiseta incidens,,eatenBy
+43584,,Anopheles varuna,,eatenBy
+43584,,Anopheles punctipennis,,eatenBy
+43584,650010,Anopheles gambiae,,eatenBy
+43584,,Anopheles culicifacies,,eatenBy
+43584,7107,Aix sponsa,Wood Duck,preysOn
+43584,1409,Callipepla californica,California Quail,preysOn
+43584,7089,Branta canadensis,Canada Goose,preysOn
+43584,42007,Puma concolor,Mountain Lion,preysOn
+43584,906,Meleagris gallopavo,Wild Turkey,preysOn
+43584,558433,Spatula discors,Blue-winged Teal,preysOn
+43584,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+43584,121639,Brachyura,True Crabs,preysOn
+43584,889,Bonasa,,preysOn
+43584,43095,Leporidae,Hares and Rabbits,preysOn
+43584,6888,Anseriformes,Waterfowl,preysOn
+43584,41801,Mustela,,preysOn
+43584,47584,Bivalvia,Bivalves,preysOn
+43584,4342,Laridae,"Gulls, Terns, and Skimmers",preysOn
+43584,39657,Cheloniidae,Typical Sea Turtles,preysOn
+43584,573,Galliformes,Landfowl,preysOn
+43584,47459,Cephalopoda,Cephalopods,preysOn
+43584,41493,Stenella,Side-striped Dolphins,preysOn
+43584,41727,Mirounga,Elephant Seals,preysOn
+43584,41547,Balaenoptera,,preysOn
+43584,,Atherurus africanus,,preysOn
+43584,,Osteolaemus tetraspis,,preysOn
+43584,41627,Civettictis civetta,African Civet,preysOn
+43584,,Hypsignathus monstrosus,,preysOn
+43584,204527,Ixobrychus minutus,Little Bittern,preysOn
+43584,46202,Protoxerus stangeri,Forest Giant Squirrel,preysOn
+43584,,Leptailurus serval constantinus,,preysOn
+43584,,Potamogale velox,,preysOn
+43584,,Necrosyrtes monachus,,preysOn
+43584,,Ptilopsis leucotis,,preysOn
+43584,,Myotis bocagii,,preysOn
+43584,,Philantomba walteri,,preysOn
+43584,,Phataginus tricuspis,,preysOn
+43584,74221,Crossarchus platycephalus,Flat-headed Kusimanse,preysOn
+43584,,Python sebae,,preysOn
+43584,,Potamochoerus porcus,,preysOn
+43584,,Varanus niloticus,,preysOn
+43584,,Lavia frons,,preysOn
+43584,107182,Notolabrus fucicola,Purple Wrasse,preysOn
+43584,,Cercocebus torquatus,,preysOn
+43584,,Tragelaphus scriptus,,preysOn
+43584,43157,Pronolagus rupestris,Smith's Red Rockhare,preysOn
+43584,,Pteropus melanotus,,preysOn
+43584,,Thryonomys swinderianus,,preysOn
+43584,,Eidolon helvum,,preysOn
+43584,,Cricetus cricetus,,preysOn
+43584,,Pteropus vampyrus,,preysOn
+43584,41919,Atilax paludinosus,Marsh Mongoose,preysOn
+43584,,Clupea harengus membras,,preysOn
+43584,,Pteropus melanopogon,,preysOn
+43584,44513,Cricetomys emini,Forest Giant Pouched Rat,preysOn
+43584,30853,Bitis gabonica,Gaboon Viper,preysOn
+43584,,Dendrohyrax interfluvialis,,preysOn
+43584,,Brachycope anomala,,preysOn
+43584,,Grayia ornata,,preysOn
+43584,,Triaenops menamena,,preysOn
+43584,,Paratriaenops furculus,,preysOn
+43584,,Macronycteris commersonii,,preysOn
+43584,,Kinixys homeana,,preysOn
+43584,7250,Corythaeola cristata,Great Blue Turaco,preysOn
+43584,,Varanus albigularis,,preysOn
+43584,,Philantomba monticola,,preysOn
+43584,,Cricetomys gambianus,,preysOn
+43584,,Treron calvus,,preysOn
+43584,,Lybius bidentatus,,preysOn
+43584,,Heterobranchus longifilis,,preysOn
+43584,41644,Ursus maritimus,Polar Bear,preysOn
+43584,,Augosoma centaurus,,preysOn
+43584,,Anas clypeata,,preysOn
+43584,74756,Neotoma leucodon,White-toothed Woodrat,preysOn
+43584,,Lepus victoriae,,preysOn
+43584,,Pelusios castaneus,,preysOn
+43584,102742,Heterotis niloticus,African Arowana,preysOn
+43584,,Daubentonia madagascariensis,,preysOn
+43584,,Tragelaphus spekii,,preysOn
+43584,,Hoplobatrachus occipitalis,,preysOn
+43584,42330,Kobus kob,Kob,preysOn
+43584,,Ceratogymna atrata,,preysOn
+43584,,Cercopithecus erythrotis,,preysOn
+43584,41611,Poiana richardsonii,Central African Oyan,preysOn
+43584,,Ctenosaura pectinata,,preysOn
+43584,,Nandinia binotata,,preysOn
+43584,43477,Cercopithecus cephus,Moustached Monkey,preysOn
+43584,,Pteropus rufus,,preysOn
+43584,75042,Rousettus aegyptiacus,Egyptian Rousette,preysOn
+43584,,Rousettus madagascariensis,,preysOn
+43584,,Rusa unicolor,,preysOn
+43584,,Ursus thibetanus,,preysOn
+43584,,Callosciurus pygerythrus,,preysOn
+43584,42033,Pardofelis marmorata,Marbled Cat,preysOn
+43584,,Pteropus giganteus,,preysOn
+43584,,Hystrix brachyura,,preysOn
+43584,,Conraua goliath,,preysOn
+43584,,Kinixys erosa,,preysOn
+43584,883395,Cercopithecus pogonias,Crowned Monkey,preysOn
+43584,43485,Cercopithecus nictitans,Putty-nosed Monkey,preysOn
+43584,,Cercopithecus mona,,preysOn
+43584,,demersal species,,preysOn
+43584,95919,Bothus leopardinus,,preysOn
+43584,51392,Morone saxatilis,Striped Bass,preysOn
+43584,62984,Aedes albopictus,Asian Tiger Mosquito,preyedUponBy
+43584,,Amblyomma americanum,,preyedUponBy
+43584,,Aedes atlanticus,,preyedUponBy
+43584,1112143,Aedes triseriatus,Eastern Treehole Mosquito,preyedUponBy
+43584,,Haemadipsa zeylanica,,preyedUponBy
+43584,,Python molurus bivittatus,,preyedUponBy

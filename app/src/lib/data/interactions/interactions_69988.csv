@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69988,,Import,,eats
+69988,,Iris variegata,,eats
+69988,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+69988,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+69988,145238,Setophaga petechia,Yellow Warbler,eatenBy
+69988,10247,Setophaga ruticilla,American Redstart,eatenBy
+69988,94105,Anguilla anguilla,European Eel,eatenBy
+69988,128426,Mylopharyngodon piceus,Black Carp,eatenBy
+69988,,Phymata crassipes,,eatenBy
+69988,,Vireo flavifrons,,eatenBy
+69988,17394,Vireo gilvus,Warbling Vireo,eatenBy
+69988,17408,Vireo griseus,White-eyed Vireo,eatenBy
+69988,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+69988,11855,Petrochelidon fulva,Cave Swallow,eatenBy
+69988,9764,Agelaius xanthomus,Yellow-shouldered Blackbird,eatenBy
+69988,72952,Icterus portoricensis,Puerto Rican Oriole,eatenBy
+69988,,Progne dominicensis,,eatenBy
+69988,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+69988,16102,Contopus latirostris,Lesser Antillean Pewee,eatenBy
+69988,10199,Coereba flaveola,Bananaquit,eatenBy
+69988,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+69988,,Elaenia martinica,,eatenBy
+69988,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+69988,16771,Tyrannus caudifasciatus,Loggerhead Kingbird,eatenBy
+69988,145250,Setophaga adelaidae,Adelaide's Warbler,eatenBy
+69988,9609,Quiscalus niger,Greater Antillean Grackle,eatenBy
+69988,16024,Myiarchus antillarum,Puerto Rican Flycatcher,eatenBy
+69988,145233,Setophaga americana,Northern Parula,eatenBy
+69988,9929,Nesospingus speculiferus,Puerto Rican Tanager,eatenBy
+69988,145249,Setophaga discolor,Prairie Warbler,eatenBy
+69988,49323,Carpobrotus,sea figs,pollinates
+69988,79157,Sonchus tenerrimus,slender sowthistle,pollinates
+69988,,Aetheorhiza bulbosa,,pollinates
+69988,,Urospermum picroides,,pollinates
+69988,,Phymata crassipes,,preyedUponBy

@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55624,53453,Salix,Willows,eats
+55624,47566,Populus,"poplars, cottonwoods, and aspens",eats
+55624,54834,Prunus serotina,black cherry,eats
+55624,50636,Plantago,plantain,eats
+55624,53352,Alnus,alders,eats
+55624,54840,Populus tremuloides,trembling aspen,eats
+55624,52119,Populus deltoides,Eastern Cottonwood,eats
+55624,49674,Ceanothus,,eats
+55624,49883,Betula papyrifera,paper birch,eats
+55624,54768,Carpinus caroliniana,American hornbeam,eats
+55624,53387,Cornus sericea,red osier dogwood,eats
+55624,47851,Quercus,oaks,eats
+55624,54781,Quercus macrocarpa,bur oak,eats
+55624,52383,Pinus resinosa,red pine,eats
+55624,58721,Larix laricina,tamarack,eats
+55624,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+55624,51769,Gaillardia,Blanket Flowers,eats
+55624,54500,Malus,apples,eats
+55624,,Populus balsamifera,,eats
+55624,,Kalmia polifolia,,eats
+55624,,Comptonia peregrina,,eats
+55624,61964,Prunus avium,wild cherry,eats
+55624,,Populus acuminata,,eats
+55624,,Populus grandidentata,,eats
+55624,,Comptonia,,eats
+55624,,Populus nigra,,eats
+55624,374345,Betyla,,eats
+55624,,Cornus alternifolia,,eats
+55624,,Alnus viridis,,eats
+55624,,Morella pensylvanica,,eats
+55624,,Abies balsamea,,eats
+55624,163085,Froelichia arizonica,Arizona snakecotton,eats
+55624,,Prunus yedoensis,,eats
+55624,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+55624,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+55624,,Corynorhinus townsendii,,preyedUponBy

@@ -1,0 +1,76 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53648,47603,Taraxacum,dandelions,eats
+53648,47351,Prunus,"plums, cherries, and allies",eats
+53648,,Bidens odorata,,eats
+53648,,Wyethia glabra,,eats
+53648,75600,Aruncus dioicus,Goatsbeard,eats
+53648,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+53648,17355,Vireo,Vireos,eatenBy
+53648,17408,Vireo griseus,White-eyed Vireo,eatenBy
+53648,48152,Cynoglossum officinale,hound's-tongue,pollinates
+53648,60125,Cicuta maculata,water hemlock,pollinates
+53648,158286,Amorpha canescens,leadplant,pollinates
+53648,125381,Asclepias incarnata,swamp milkweed,pollinates
+53648,77676,Lepidium virginicum,Virginia pepperweed,pollinates
+53648,47726,Acer negundo,boxelder,pollinates
+53648,47912,Asclepias tuberosa,butterfly milkweed,pollinates
+53648,51822,Euphorbia,spurges,pollinates
+53648,79157,Sonchus tenerrimus,slender sowthistle,pollinates
+53648,47603,Taraxacum,dandelions,pollinates
+53648,47779,Iris pseudacorus,Yellow Iris,pollinates
+53648,49487,Rhododendron,rhododendrons and azaleas,pollinates
+53648,57056,Medicago lupulina,Black Medick,pollinates
+53648,50644,Salvia,Sages,pollinates
+53648,47691,Sherardia arvensis,Field madder,pollinates
+53648,77261,Geranium rotundifolium,Round-leaved Crane's-bill,pollinates
+53648,53097,Hirschfeldia incana,Shortpod Mustard,pollinates
+53648,48230,Ranunculus,buttercups,pollinates
+53648,53211,Senecio vulgaris,common groundsel,pollinates
+53648,122249,Symphyotrichum lateriflorum,calico aster,pollinates
+53648,,http://treatment.plazi.org/id/FD4C81A5CD2276CF046E0FA226D20EE3,,pollinates
+53648,161274,Cuscuta glomerata,Rope Dodder,pollinates
+53648,,Apios americana,,pollinates
+53648,,Sedum sediforme,,pollinates
+53648,,Aetheorhiza bulbosa,,pollinates
+53648,,http://treatment.plazi.org/id/57B093EC75B57866C014F2BC52E9DD47,,pollinates
+53648,,Viola verecunda,,pollinates
+53648,,Oxalis acetosella,,pollinates
+53648,416650,Ixeridium dentatum,,pollinates
+53648,,Erigeron annuus,,pollinates
+53648,,Cirsium japonicum,,pollinates
+53648,,Pieris japonica,,pollinates
+53648,,Viola grypoceras,,pollinates
+53648,,Salix repens,,pollinates
+53648,64714,Vaccinium uliginosum,bog bilberry,pollinates
+53648,126702,Stellaria pubera,star chickweed,pollinates
+53648,,Cardamine angustata,,pollinates
+53648,,Erythronium umbilicatum,,pollinates
+53648,,http://treatment.plazi.org/id/7CF5D90BA350ADBB07186A8272DB4681,,pollinates
+53648,,Hepatica nobilis obtusa,,pollinates
+53648,118548,Thalictrum thalictroides,rue anemone,pollinates
+53648,,Scorzonera,,pollinates
+53648,,Chrysanthemum,,pollinates
+53648,,Erodium malacoides,,pollinates
+53648,,Alkanna tinctoria,,pollinates
+53648,141262,Asphodelus aestivus,Summer Asphodel,pollinates
+53648,,Muscari comosum,,pollinates
+53648,76365,Cistus salviifolius,Sage-leaved Rock-rose,pollinates
+53648,,Anchusa undulata,,pollinates
+53648,450160,Biscutella didyma,Mediterranean Buckler-mustard,pollinates
+53648,,Prasium majus,,pollinates
+53648,,Scandix australis,,pollinates
+53648,77965,Matricaria chamomilla,German Chamomile,pollinates
+53648,,Reseda alba,,pollinates
+53648,124357,Gagea,,pollinates
+53648,1097919,Muscari neglectum,Grape Hyacinth Complex,pollinates
+53648,,Allium,,pollinates
+53648,,Ornithogalum,,pollinates
+53648,,Calendula arvensis,,pollinates
+53648,155794,Tordylium apulum,Mediterranean Hartwort,pollinates
+53648,,Lamium amplexicaule,,pollinates
+53648,,http://treatment.plazi.org/id/E76E6BBABF23BD7A32BDDED82B23CFFB,,pollinates
+53648,168041,Rubus deliciosus,Rocky Mountain raspberry,pollinates
+53648,,Helianthus ciliaris,,pollinates
+53648,,Polygonum amphibium,,pollinates
+53648,56776,Glaucopsyche lygdamus,Silvery Blue,pollinatedBy
+53648,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy

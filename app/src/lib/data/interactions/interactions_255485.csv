@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+255485,123880,Bacillariophyceae,Diatoms,eats
+255485,,Phytoplankton,,eats
+255485,51910,Engraulis encrasicolus,European Anchovy,eatenBy
+255485,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+255485,179456,Stellifer lanceolatus,American Stardrum,eatenBy
+255485,51910,Engraulis encrasicolus,European Anchovy,preyedUponBy

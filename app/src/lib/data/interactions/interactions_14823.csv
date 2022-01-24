@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+14823,47120,Arthropoda,Arthropods,eats
+14823,211194,Tracheophyta,vascular plants,eats
+14823,47336,Formicidae,Ants,eats
+14823,47208,Coleoptera,Beetles,eats
+14823,48915,Cylindrocopturus,,eats
+14823,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+14823,52381,Aphididae,Aphids,eats
+14823,48736,Curculionidae,True Weevils,eats
+14823,47124,Magnoliopsida,dicots,eats
+14823,47158,Insecta,Insects,eats
+14823,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+14823,47118,Araneae,Spiders,eats
+14823,135659,Platycladus orientalis,Chinese arborvitae,eats
+14823,52383,Pinus resinosa,red pine,eats
+14823,,Archips fumiferana,,eats
+14823,,Euchelicerata,,eats
+14823,119092,Picea pungens,blue spruce,eats
+14823,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+14823,46260,Tamiasciurus hudsonicus,American Red Squirrel,eatenBy
+14823,44349,Peromyscus,North American Deer Mice,eatenBy
+14823,17599,Picidae,Woodpeckers,eatenBy
+14823,7562,Troglodytes aedon,House Wren,eatenBy
+14823,,Tamias cinereicollis,,eatenBy
+14823,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+14823,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+14823,,Glaucidium californicum,,eatenBy
+14823,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+14823,57983,Helianthus annuus,Common Sunflower,preysOn

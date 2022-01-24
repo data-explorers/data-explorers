@@ -1,0 +1,264 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47744,47822,Diptera,Flies,eats
+47744,83201,Thysanoptera,Thrips,eats
+47744,47157,Lepidoptera,Butterflies and Moths,eats
+47744,125816,Auchenorrhyncha,True Hoppers,eats
+47744,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+47744,47126,Plantae,plants,eats
+47744,47208,Coleoptera,Beetles,eats
+47744,47170,Fungi,Fungi Including Lichens,eats
+47744,49470,Collembola,Springtails,eats
+47744,48571,Carex,true sedges,eats
+47744,71257,Bouteloua gracilis,Blue Grama,eats
+47744,72378,Stipa,Needle Grasses,eats
+47744,56955,Helianthus,sunflowers,eats
+47744,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+47744,,alpine vegetation,,eats
+47744,,Cladocera,,eats
+47744,253245,Plectoptera,,eats
+47744,,leaves,,eats
+47744,,roots,,eats
+47744,,live wood,,eats
+47744,,live leaves,,eats
+47744,163720,Heterotheca canescens,Hoary False Goldenaster,eats
+47744,,Pascopyrum smithii,,eats
+47744,57979,Gutierrezia,matchweeds and snakeweeds,eats
+47744,75563,Aristida purpurea,Purple Threeawn,eats
+47744,,Psoralidium tenuiflorum,,eats
+47744,146898,Artemisia frigida,fringed sagebrush,eats
+47744,78836,Ratibida columnifera,upright prairie coneflower,eats
+47744,,Plant juices,,eats
+47744,,Leaves,,eats
+47744,,Sap,,eats
+47744,71950,Agropyron,,eats
+47744,,sap and plant juices,,eats
+47744,,fourwing saltbrush (forb/shrub),,eats
+47744,,groundsel (forb/shrub),,eats
+47744,,carex (grass),,eats
+47744,,slimflower scurf pea (forb/shrub),,eats
+47744,240020,Cirsium undulatum undulatum,wavy-leaf thistle,eats
+47744,,broom snakeweed (forb/shrub),,eats
+47744,,western wheatgrass (grass),,eats
+47744,,hairy golden aster (forb/shrub),,eats
+47744,,Chondrosum gracile,,eats
+47744,,four-o-clock (forb/shrub),,eats
+47744,,commonsunflower (forb/shrub),,eats
+47744,,red three-awn (grass),,eats
+47744,,cutleaf evening primrose (forb/shrub),,eats
+47744,166864,Picradeniopsis oppositifolia,Oppositeleaf False Bahia,eats
+47744,,rubber rabbit brush (forb/shrub),,eats
+47744,,greenthread (forb/shrub),,eats
+47744,,bottlebrush squirreltail (grass),,eats
+47744,,Croton bogotanus,,eats
+47744,,plecopterans - odonates - hemipterans,,eats
+47744,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+47744,47118,Araneae,Spiders,eatenBy
+47744,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+47744,47792,Odonata,Dragonflies and Damselflies,eatenBy
+47744,47822,Diptera,Flies,eatenBy
+47744,47982,Asilidae,Robber Flies,eatenBy
+47744,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+47744,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+47744,9721,Geothlypis trichas,Common Yellowthroat,eatenBy
+47744,14801,Sitta carolinensis,White-breasted Nuthatch,eatenBy
+47744,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47744,16028,Myiarchus crinitus,Great Crested Flycatcher,eatenBy
+47744,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+47744,47119,Arachnida,Arachnids,eatenBy
+47744,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eatenBy
+47744,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+47744,49591,Lepomis macrochirus,Bluegill,eatenBy
+47744,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+47744,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+47744,17356,Vireo bellii,Bell's Vireo,eatenBy
+47744,12901,Catharus fuscescens,Veery,eatenBy
+47744,12890,Catharus guttatus,Hermit Thrush,eatenBy
+47744,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+47744,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47744,10247,Setophaga ruticilla,American Redstart,eatenBy
+47744,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+47744,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47744,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+47744,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+47744,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+47744,4940,Egretta thula,Snowy Egret,eatenBy
+47744,558433,Spatula discors,Blue-winged Teal,eatenBy
+47744,12942,Sialia sialis,Eastern Bluebird,eatenBy
+47744,10469,Xanthocephalus,,eatenBy
+47744,11901,Hirundo rustica,Barn Swallow,eatenBy
+47744,11867,Progne subis,Purple Martin,eatenBy
+47744,1959,Coccyzus,Coccyzus Cuckoos,eatenBy
+47744,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+47744,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+47744,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+47744,9915,Piranga rubra,Summer Tanager,eatenBy
+47744,9100,Melospiza melodia,Song Sparrow,eatenBy
+47744,9346,Icterus galbula,Baltimore Oriole,eatenBy
+47744,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+47744,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+47744,9921,Piranga olivacea,Scarlet Tanager,eatenBy
+47744,7294,Eremophila alpestris,Horned Lark,eatenBy
+47744,7043,Aythya,"Scaups, Pochards, and Allies",eatenBy
+47744,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+47744,7107,Aix sponsa,Wood Duck,eatenBy
+47744,17355,Vireo,Vireos,eatenBy
+47744,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+47744,7562,Troglodytes aedon,House Wren,eatenBy
+47744,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+47744,144496,Gallinago delicata,Wilson's Snipe,eatenBy
+47744,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+47744,16768,Tyrannus,Kingbirds,eatenBy
+47744,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47744,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+47744,17009,Sayornis saya,Say's Phoebe,eatenBy
+47744,17013,Sayornis nigricans,Black Phoebe,eatenBy
+47744,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+47744,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+47744,12937,Sialia mexicana,Western Bluebird,eatenBy
+47744,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+47744,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+47744,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+47744,7497,Polioptila californica,California Gnatcatcher,eatenBy
+47744,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+47744,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+47744,13633,Baeolophus inornatus,Oak Titmouse,eatenBy
+47744,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47744,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+47744,14850,Sturnus vulgaris,European Starling,eatenBy
+47744,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+47744,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+47744,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+47744,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+47744,13858,Passer domesticus,House Sparrow,eatenBy
+47744,9135,Spizella passerina,Chipping Sparrow,eatenBy
+47744,9152,Spizella pusilla,Field Sparrow,eatenBy
+47744,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+47744,1965,Coccyzus americanus,Yellow-billed Cuckoo,eatenBy
+47744,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+47744,12727,Turdus migratorius,American Robin,eatenBy
+47744,792976,Dryobates,Dryobates Woodpeckers,eatenBy
+47744,18236,Colaptes auratus,Northern Flicker,eatenBy
+47744,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+47744,7458,Certhia americana,Brown Creeper,eatenBy
+47744,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+47744,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+47744,14823,Sitta canadensis,Red-breasted Nuthatch,eatenBy
+47744,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47744,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47744,9919,Piranga ludoviciana,Western Tanager,eatenBy
+47744,145238,Setophaga petechia,Yellow Warbler,eatenBy
+47744,19660,Regulus,Kinglets,eatenBy
+47744,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47744,1409,Callipepla californica,California Quail,eatenBy
+47744,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+47744,73044,Melozone crissalis,California Towhee,eatenBy
+47744,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+47744,16598,Empidonax difficilis,Pacific-slope Flycatcher,eatenBy
+47744,7266,Psaltriparus minimus,Bushtit,eatenBy
+47744,15256,Chamaea fasciata,Wrentit,eatenBy
+47744,7601,Cistothorus palustris,Marsh Wren,eatenBy
+47744,4234,Aechmophorus clarkii,Clark's Grebe,eatenBy
+47744,52821,Achillea millefolium,Common Yarrow,pollinates
+47744,117440,Eutrochium maculatum,spotted Joe-Pye weed,pollinates
+47744,373579,Asclepiadoideae,milkweeds,pollinates
+47744,743364,Agromyza vockerothi,,preysOn
+47744,16028,Myiarchus crinitus,Great Crested Flycatcher,preyedUponBy
+47744,891704,Vireo olivaceus,Red-eyed Vireo,preyedUponBy
+47744,14801,Sitta carolinensis,White-breasted Nuthatch,preyedUponBy
+47744,9721,Geothlypis trichas,Common Yellowthroat,preyedUponBy
+47744,13270,Hylocichla mustelina,Wood Thrush,preyedUponBy
+47744,47118,Araneae,Spiders,preyedUponBy
+47744,7293,Eremophila,Horned Larks,preyedUponBy
+47744,28339,Thamnophis,Garter Snakes,preyedUponBy
+47744,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+47744,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+47744,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+47744,58416,Phidippus clarus,Brilliant Jumping Spider,preyedUponBy
+47744,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+47744,55470,Arctosa,Bear Spiders,preyedUponBy
+47744,47951,Staphylinidae,Rove Beetles,preyedUponBy
+47744,47866,Thomisidae,Crab Spiders,preyedUponBy
+47744,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+47744,82081,Theridion,Tangleweb Spiders,preyedUponBy
+47744,48139,Salticidae,Jumping Spiders,preyedUponBy
+47744,47416,Lycosidae,Wolf Spiders,preyedUponBy
+47744,41090,Glossophaga soricina,Pallas's Long-tongued Bat,preyedUponBy
+47744,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+47744,40477,Eptesicus,House Bats,preyedUponBy
+47744,41293,Tadarida,,preyedUponBy
+47744,13632,Baeolophus bicolor,Tufted Titmouse,preyedUponBy
+47744,93797,Ambassis agassizii,Agassiz's Glassfish,preyedUponBy
+47744,,meadow lark,,preyedUponBy
+47744,,13-striped spermophile (ground squirrel),,preyedUponBy
+47744,,clay-colored sparrow,,preyedUponBy
+47744,,vesper sparrow,,preyedUponBy
+47744,,chipping sparrow,,preyedUponBy
+47744,,upland plover,,preyedUponBy
+47744,146721,Philaeus chrysops,Red-bellied Jumping Spider,preyedUponBy
+47744,61568,Cerotainia albipilosa,,preyedUponBy
+47744,153855,Tibellus oblongus,Oblong Running Spider,preyedUponBy
+47744,121445,Eris militaris,Bronze Jumping Spider,preyedUponBy
+47744,148090,Pelegrina galathea,Peppered Jumping Spider,preyedUponBy
+47744,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+47744,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+47744,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+47744,153863,Thanatus,,preyedUponBy
+47744,,Paederus riparius,,preyedUponBy
+47744,131943,Rugilus rufipes,,preyedUponBy
+47744,,Hypostenus latifrons,,preyedUponBy
+47744,128746,Pirata piraticus,Pirate Otter Spider,preyedUponBy
+47744,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47744,531180,Clubiona juvenis,,preyedUponBy
+47744,88528,Glossogobius,,preyedUponBy
+47744,187422,Giuris margaritacea,Snakehead Gudgeon,preyedUponBy
+47744,187100,Awaous acritosus,Roman-nose Goby,preyedUponBy
+47744,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy
+47744,964118,Stenus latifrons,,preyedUponBy
+47744,40657,Rhinolophus pearsonii,Pearson's Horseshoe Bat,preyedUponBy
+47744,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+47744,40544,Chalinolobus gouldii,Gould's Wattled Bat,preyedUponBy
+47744,75230,Vespadelus vulturnus,Little Forest Bat,preyedUponBy
+47744,74341,Falsistrellus tasmaniensis,Eastern False Pipistrelle,preyedUponBy
+47744,,Nyctophilus geoffroyi,,preyedUponBy
+47744,75224,Vespadelus darlingtoni,Large Forest Bat,preyedUponBy
+47744,75228,Vespadelus regulus,Southern Forest Bat,preyedUponBy
+47744,40543,Chalinolobus morio,Chocolate Wattled Bat,preyedUponBy
+47744,75223,Vespadelus caurinus,Northern Cave Bat,preyedUponBy
+47744,75074,Scotorepens greyii,Little Broad-nosed Bat,preyedUponBy
+47744,40552,Chalinolobus nigrogriseus,Hoary Wattled Bat,preyedUponBy
+47744,40555,Nyctophilus walkeri,Pygmy Long-eared Bat,preyedUponBy
+47744,,Nyctophilus daedalus,,preyedUponBy
+47744,40562,Nyctophilus arnhemensis,Northern Long-eared Bat,preyedUponBy
+47744,57534,Miniopterus schreibersii,Schreibers' Long-fingered Bat,preyedUponBy
+47744,765455,Mormopterus cobourgianus,Northern Coastal Free-tailed Bat,preyedUponBy
+47744,765458,Mormopterus lumsdenae,Northern Free-tailed Bat,preyedUponBy
+47744,,Chaerephon jobensis,,preyedUponBy
+47744,,Taphozous georgianus,,preyedUponBy
+47744,41342,Saccolaimus flaviventris,Yellow-bellied Pouched Bat,preyedUponBy
+47744,40779,Rhinonicteris aurantia,Orange Leaf-nosed Bat,preyedUponBy
+47744,74915,Pipistrellus westralis,Northern Pipistrelle,preyedUponBy
+47744,74893,Pipistrellus adamsi,Forest Pipistrelle,preyedUponBy
+47744,74711,Myotis macropus,Large-footed Myotis,preyedUponBy
+47744,40550,Chalinolobus tuberculatus,Long-tailed Wattled Bat,preyedUponBy
+47744,74819,Otomops madagascariensis,Madagascar free-tailed bat,preyedUponBy
+47744,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy
+47744,40286,Myotis nigricans,Black Myotis,preyedUponBy
+47744,40485,Eptesicus furinalis,Argentine Brown Bat,preyedUponBy
+47744,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+47744,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+47744,,Plecotus auritus,,preyedUponBy
+47744,74697,Myotis bechsteinii,Bechstein's bat,preyedUponBy
+47744,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+47744,183170,Miniopterus manavi,Manavi Long-fingered Bat,preyedUponBy
+47744,74624,Miniopterus majori,Major's Long-fingered Bat,preyedUponBy
+47744,,Myotis goudoti,,preyedUponBy
+47744,41279,Mormopterus,,preyedUponBy
+47744,40608,Murina leucogaster,greater tube-nosed bat,preyedUponBy
+47744,765536,Chaerephon atsinanana,Madagascar Free-tailed Bat,preyedUponBy
+47744,40711,Aselliscus stoliczkanus,Stoliczka's Trident Bat,preyedUponBy
+47744,40436,Scotophilus dinganii,Yellow-bellied House Bat,preyedUponBy
+47744,765561,Chaerephon pumilus,Little Free-tailed Bat,preyedUponBy
+47744,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+47744,57536,Pipistrellus hesperidus,Dusky pipistrelle,preyedUponBy
+47744,40444,Tylonycteris robustula,greater bamboo bat,preyedUponBy
+47744,40443,Tylonycteris pachypus,Lesser Bamboo Bat,preyedUponBy

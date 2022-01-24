@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121656,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+121656,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+121656,39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,eatenBy
+121656,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+121656,1291498,Neptis brebissonii,,eatenBy
+121656,4144,Phoebastria immutabilis,Laysan Albatross,eatenBy
+121656,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy

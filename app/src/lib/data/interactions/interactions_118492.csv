@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118492,48972,Polygonum,knotweeds,eats
+118492,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+118492,57057,Medicago sativa,Alfalfa,eats
+118492,50321,Lathyrus,sweet peas and vetchlings,eats
+118492,77299,Gossypium hirsutum,Upland Cotton,eats
+118492,52472,Vicia,Vetches,eats
+118492,153441,Symphyotrichum cordifolium,Common Blue Wood Aster,eats
+118492,48678,Solidago,goldenrods,eats
+118492,56112,Symphyotrichum,American asters,eats
+118492,47911,Asclepias syriaca,common milkweed,eats
+118492,,Glycine max,,eats
+118492,873768,Nicotiana tabacum,Cultivated tobacco,eats
+118492,48448,Zea mays,Maize,eats
+118492,,Verbesina alternifolia,,eats
+118492,,Ageratina havanensis,,eats
+118492,117438,Dipsacus laciniatus,cutleaf teasel,eats
+118492,,Agrimonia,,eats
+118492,,Eupatorium serotinum,,eats
+118492,,Zea mays mays,,eats
+118492,,Ocimum basilicum,,eats
+118492,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+118492,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+118492,264750,Microplitis croceipes,,eatenBy
+118492,,Campoletis perdistinctus,,eatenBy
+118492,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy

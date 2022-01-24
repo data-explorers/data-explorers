@@ -1,0 +1,105 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10286,47118,Araneae,Spiders,eats
+10286,47208,Coleoptera,Beetles,eats
+10286,47336,Formicidae,Ants,eats
+10286,47157,Lepidoptera,Butterflies and Moths,eats
+10286,47114,Gastropoda,Gastropods,eats
+10286,47158,Insecta,Insects,eats
+10286,47124,Magnoliopsida,dicots,eats
+10286,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+10286,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+10286,47120,Arthropoda,Arthropods,eats
+10286,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+10286,48194,Psyllidae,jumping plant lice,eats
+10286,83187,Psocodea,"Barklice, Booklice, and Parasitic Lice",eats
+10286,53816,Tenebrionidae,Darkling Beetles,eats
+10286,47793,Dermaptera,Earwigs,eats
+10286,47961,Cerambycidae,Longhorn Beetles,eats
+10286,48736,Curculionidae,True Weevils,eats
+10286,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10286,69988,Cryptocephalus,,eats
+10286,51146,Chrysomelidae,Leaf Beetles,eats
+10286,177521,Lema,,eats
+10286,47535,Araneidae,Orbweavers,eats
+10286,47822,Diptera,Flies,eats
+10286,53248,Elateridae,Click Beetles,eats
+10286,47199,Ichneumonidae,Ichneumonid Wasps,eats
+10286,48201,Scarabaeidae,Scarabs,eats
+10286,52381,Aphididae,Aphids,eats
+10286,1,Animalia,Animals,eats
+10286,133821,Physa,,eats
+10286,62164,Trichoptera,Caddisflies,eats
+10286,49530,Geometridae,Geometer Moths,eats
+10286,61267,Heteroptera,True Bugs,eats
+10286,125816,Auchenorrhyncha,True Hoppers,eats
+10286,47126,Plantae,plants,eats
+10286,358855,Gryllidea,Crickets,eats
+10286,48460,Life,,eats
+10286,184884,Pterygota,Winged and Once-winged Insects,eats
+10286,,Euchelicerata,,eats
+10286,,Melormenis,,eats
+10286,,Ephelops,,eats
+10286,,Platydema,,eats
+10286,,Aulonium,,eats
+10286,,Platypus,,eats
+10286,,Leptostylus,,eats
+10286,,Metachroma,,eats
+10286,,Euscepes porcellus,,eats
+10286,54944,Fulgoridae,Lanternbugs,eats
+10286,,Endeitoma granulata,,eats
+10286,49059,Phasmatidae,,eats
+10286,,Mollinedia tomentosa,,eats
+10286,,Piper aduncum,,eats
+10286,291911,Myrsine guianensis,rapanca,eats
+10286,,Guarea kunthiana,,eats
+10286,,Solanum aphyodendron,,eats
+10286,,Oreopanax incisus,,eats
+10286,,Ficus americana,,eats
+10286,,Siparuna laurifolia,,eats
+10286,,Miconia lehmannii,,eats
+10286,,Prunus integrifolia,,eats
+10286,,Bocconia frutescens,,eats
+10286,,Matayba elegans,,eats
+10286,851902,Hedyosmum bonplandianum,,eats
+10286,,Morella pubescens,,eats
+10286,,Alchornea grandiflora,,eats
+10286,,Guettarda crispiflora,,eats
+10286,,Ardisia sapida,,eats
+10286,,Chamaedorea linearis,,eats
+10286,,Aechmea tonduzii,,eats
+10286,,Clusia hydrogera,,eats
+10286,,Palicourea angustifolia,,eats
+10286,278746,Phoradendron chrysocladon,,eats
+10286,,Solanum sycophanta,,eats
+10286,,Cecropia telealba,,eats
+10286,,Miconia caudata,,eats
+10286,,Rubus guyanensis,,eats
+10286,,Cavendishia axillaris,,eats
+10286,,Guatteria pilosula,,eats
+10286,,Prestoea acuminata,,eats
+10286,,Nectandra membranacea,,eats
+10286,907389,Viburnum toronis,,eats
+10286,,Faramea oblongifolia,,eats
+10286,,Trema micrantha,,eats
+10286,,Dendropanax arboreus,,eats
+10286,,Geonoma undata,,eats
+10286,,Miconia theizans,,eats
+10286,,Miconia floribunda,,eats
+10286,,Varronia cylindrostachya,,eats
+10286,,Toxicodendron striatum,,eats
+10286,,Anthurium sanguineum,,eats
+10286,,Psychotria areolata,,eats
+10286,,Saurauia brachybotrys,,eats
+10286,,Tournefortia scabrida,,eats
+10286,,Phytolacca rivinoides,,eats
+10286,,Mauria heterophylla,,eats
+10286,,Palicourea thyrsiflora,,eats
+10286,,Cestrum schlechtendahlii,,eats
+10286,,Hieronyma duquei,,eats
+10286,,Citharexylum subflavescens,,eats
+10286,,Antidaphne viscoidea,,eats
+10286,1013141,Ocotea insularis,,eats
+10286,54960,Nematoda,Nematodes,eatenBy
+10286,47822,Diptera,Flies,eatenBy
+10286,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+10286,47793,Dermaptera,Earwigs,preysOn

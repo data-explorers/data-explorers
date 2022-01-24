@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+319203,47452,Acacia,wattles,eats
+319203,53352,Alnus,alders,eats
+319203,,Acacia irrorata,,eats
+319203,,Acacia baileyana,,eats
+319203,,Acacia decurrens,,eats
+319203,,Wahlenbergia,,eats
+319203,,Acacia saligna,,eats
+319203,,Acacia mearnsii,,eats
+319203,75253,Acacia pycnantha,Golden Wattle,eats
+319203,,Acacia melanoxylon,,eats
+319203,,Callitris preissii,,eats
+319203,144183,Diapensia lapponica,Diapensia,pollinates

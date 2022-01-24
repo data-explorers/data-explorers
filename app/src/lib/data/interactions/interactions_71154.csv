@@ -1,0 +1,66 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+71154,47563,Nerium oleander,oleander,eats
+71154,54495,Juglans,Walnuts,eats
+71154,75602,Asclepias curassavica,tropical milkweed,eats
+71154,47911,Asclepias syriaca,common milkweed,eats
+71154,56851,Asclepias fascicularis,narrowleaf milkweed,eats
+71154,71154,Aphis nerii,Oleander Aphid,eats
+71154,75499,Araujia sericifera,white bladderflower,eats
+71154,125381,Asclepias incarnata,swamp milkweed,eats
+71154,50879,Erigeron,fleabanes and horseweeds,eats
+71154,47362,Apocynaceae,dogbane family,eats
+71154,125379,Asclepias verticillata,whorled milkweed,eats
+71154,58796,Asclepias eriocarpa,woollypod milkweed,eats
+71154,47906,Asclepias,milkweeds,eats
+71154,47912,Asclepias tuberosa,butterfly milkweed,eats
+71154,,Calotropis procera,,eats
+71154,,Gomphocarpus fruticosus,,eats
+71154,,Asclepias arenaria,,eats
+71154,52363,Gomphocarpus,,eats
+71154,,Asclepias subverticillata,,eats
+71154,,Passiflora edulis,,eats
+71154,,Cynanchum foetidum,,eats
+71154,,Asclepias mexicana,,eats
+71154,,Asclepias glaucescens,,eats
+71154,,Gomphocarpus physocarpus,,eats
+71154,158761,Asclepias sullivantii,prairie milkweed,eats
+71154,136381,Cynanchum laeve,honey-vine climbing milkweed,eats
+71154,158753,Asclepias oenotheroides,Zizotes milkweed,eats
+71154,,Asclepiadeae,,eats
+71154,,Funastrum cynanchoides hartwegii,,eats
+71154,,Funastrum elegans,,eats
+71154,,Drimia anomala,,eats
+71154,,Asclepias linaria,,eats
+71154,,Emilia sonchifolia,,eats
+71154,77180,Funastrum cynanchoides,climbing milkweed,eats
+71154,,Asclepias otarioides,,eats
+71154,,Gonolobus uniflorus,,eats
+71154,62248,Asclepias cordifolia,heart-leaf milkweed,eats
+71154,,Metastelma angustifolium,,eats
+71154,,Asclepias lemmonii,,eats
+71154,,Echeveria coccinea,,eats
+71154,,Pergularia daemia,,eats
+71154,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+71154,71154,Aphis nerii,Oleander Aphid,eatenBy
+71154,124431,Cycloneda sanguinea,Spotless Lady Beetle,eatenBy
+71154,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+71154,48988,Hippodamia,Oblong Lady Beetles,eatenBy
+71154,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+71154,,Hippodamia variegata,,eatenBy
+71154,333790,Coccinellinae,Common Lady Beetles,eatenBy
+71154,,Coccinella trifasciata,,eatenBy
+71154,60946,Asclepias viridis,green antelopehorns,preysOn
+71154,124431,Cycloneda sanguinea,Spotless Lady Beetle,preyedUponBy
+71154,479803,Dioprosopa clavata,Four-speckled Hover Fly,preyedUponBy
+71154,48484,Harmonia axyridis,Asian Lady Beetle,preyedUponBy
+71154,48987,Hippodamia convergens,Convergent Lady Beetle,preyedUponBy
+71154,117095,Regulus calendula,Ruby-crowned Kinglet,preyedUponBy
+71154,48486,Coccinellidae,Lady Beetles,preyedUponBy
+71154,146945,Chrysopa oculata,,preyedUponBy
+71154,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,preyedUponBy
+71154,,Hippodamia variegata,,preyedUponBy
+71154,,Ocyptamus fuscipennis,,preyedUponBy
+71154,,Apolinus lividigaster,,preyedUponBy
+71154,,Coelophora inaequalis,,preyedUponBy
+71154,,Propylea quatuordecimpunctata,,preyedUponBy
+71154,,Micromus tasmaniae,,preyedUponBy

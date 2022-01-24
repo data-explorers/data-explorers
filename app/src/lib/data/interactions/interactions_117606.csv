@@ -1,0 +1,86 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117606,47115,Mollusca,Molluscs,eats
+117606,85493,Crustacea,Crustaceans,eats
+117606,47491,Annelida,Segmented Worms,eats
+117606,195011,Phyllodocidae,Paddle Worms,eats
+117606,117606,Nephtyidae,Catworms,eats
+117606,49581,Nereididae,,eats
+117606,48921,Hydrozoa,Hydrozoans,eats
+117606,,Foraminiferida,,eats
+117606,208366,Orbiniidae,,eats
+117606,194016,Maldanidae,bamboo worms,eats
+117606,,Oweniidae,,eats
+117606,,Detritus complex,,eats
+117606,208371,Capitellidae,,eats
+117606,,Gammaridea,,eats
+117606,339296,Sigalionidae,,eats
+117606,123639,Spionidae,,eats
+117606,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+117606,117606,Nephtyidae,Catworms,eatenBy
+117606,48836,Ophiuroidea,Brittle Stars,eatenBy
+117606,49581,Nereididae,,eatenBy
+117606,47827,Cancer,,eatenBy
+117606,3836,Calidris,Calidris Sandpipers,eatenBy
+117606,3951,Limosa lapponica,Bar-tailed Godwit,eatenBy
+117606,41478,Eschrichtius robustus,Grey Whale,eatenBy
+117606,1071761,Parapenaeus longirostris,Deep-water rose shrimp,eatenBy
+117606,874538,Monodaeus couchii,,eatenBy
+117606,359388,Chionoecetes bairdi,Tanner crab,eatenBy
+117606,93835,Amblyraja georgiana,Antarctic Starry Skate,eatenBy
+117606,618319,Patagonotothen guntheri,Yellowfin Notothen,eatenBy
+117606,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+117606,430553,Merlangius merlangus,Whiting,eatenBy
+117606,48402,Amblyraja radiata,Thorny Skate,eatenBy
+117606,111527,Raja montagui,Spotted Skate,eatenBy
+117606,63740,Gadus morhua,Atlantic Cod,eatenBy
+117606,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+117606,47523,Pleuronectes platessa,European Plaice,eatenBy
+117606,55396,Solea solea,Common Sole,eatenBy
+117606,179463,Stenotomus caprinus,Longspine porgy,eatenBy
+117606,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+117606,56042,Prionotus carolinus,Northern Searobin,eatenBy
+117606,447421,Pleuronectes quadrituberculatus,Alaska Plaice,eatenBy
+117606,217049,Citharichthys arctifrons,Gulf Stream Flounder,eatenBy
+117606,86649,Artediellus,Hookear Sculpins,eatenBy
+117606,89645,Lumpenus,,eatenBy
+117606,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+117606,95518,Bathyraja parmifera,Alaska Skate,eatenBy
+117606,117544,Isopsetta isolepis,butter sole,eatenBy
+117606,,Theragra chalcogramma,,eatenBy
+117606,,Limanda proboscidea,,eatenBy
+117606,51280,Nemertea,Ribbon Worms,eatenBy
+117606,95500,Bathyraja interrupta,Sandpaper Skate,eatenBy
+117606,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+117606,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+117606,83329,Buccinidae,True Whelks,eatenBy
+117606,180032,Hippoglossoides elassodon,Flathead Sole,eatenBy
+117606,83159,Liparis,Widelip Orchids,eatenBy
+117606,92631,Triglops,,eatenBy
+117606,47710,Pandalidae,,eatenBy
+117606,180031,Microstomus pacificus,Pacific Dover Sole,eatenBy
+117606,47524,Pleuronectes,,eatenBy
+117606,117545,Parophrys vetulus,English sole,eatenBy
+117606,86890,Bathymaster,,eatenBy
+117606,117604,Lineidae,,eatenBy
+117606,459461,Acanthephyra,,eatenBy
+117606,223433,Leptoclinus maculatus,Daubed Shanny,eatenBy
+117606,41766,Odobenus rosmarus,Walrus,eatenBy
+117606,183018,Lepidopsetta bilineata,Rock sole,eatenBy
+117606,337281,Lumbrineridae,,eatenBy
+117606,223181,Lepidopsetta polyxystra,Northern Rock Sole,eatenBy
+117606,223674,Limanda aspera,Yellowfin Sole,eatenBy
+117606,220718,Gymnocanthus tricuspis,Arctic Staghorn Sculpin,eatenBy
+117606,,Reinhardtius stomias,,eatenBy
+117606,180030,Glyptocephalus zachirus,Rex Sole,eatenBy
+117606,317403,Symphurus civitatium,,eatenBy
+117606,154441,Lepophidium brevibarbe,Blackedge Cusk-eel,eatenBy
+117606,179454,Syacium papillosum,Dusky Flounder,eatenBy
+117606,100608,Etropus rimosus,,eatenBy
+117606,131520,Trichopsetta ventralis,Sash Flounder,eatenBy
+117606,616982,Coelorinchus caribbaeus,,eatenBy
+117606,316996,Bembrops anatirostris,Duckbill Flathead,eatenBy
+117606,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+117606,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+117606,179455,Syacium gunteri,,eatenBy
+117606,179458,Serranus atrobranchus,Blackear bass,eatenBy
+117606,131407,Rhynchoconger flavus,Conger eel,eatenBy

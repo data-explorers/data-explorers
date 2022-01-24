@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81681,47561,Pinus,pines,eats
+81681,75377,Alnus incana,grey alder,eats
+81681,53373,Corylus,hazels,eats
+81681,58724,Pinus banksiana,Jack pine,eats
+81681,49883,Betula papyrifera,paper birch,eats
+81681,58721,Larix laricina,tamarack,eats
+81681,49882,Betula alleghaniensis,yellow birch,eats
+81681,47727,Acer,maples,eats
+81681,47726,Acer negundo,boxelder,eats
+81681,54856,Tilia,"lindens, basswoods, and lime trees",eats
+81681,48255,Tsuga,hemlocks,eats
+81681,48098,Acer rubrum,red maple,eats
+81681,53352,Alnus,alders,eats
+81681,49230,Amelanchier,serviceberries,eats
+81681,55571,Larix,larches,eats
+81681,117326,Picea glauca,white spruce,eats
+81681,52543,Acer saccharum,sugar maple,eats
+81681,54854,Tilia americana,basswood,eats
+81681,53549,Ulmus,elms,eats
+81681,54262,Abies,firs,eats
+81681,374345,Betyla,,eats
+81681,,Ulmus americana,,eats
+81681,48254,Tsuga heterophylla,western hemlock,eats
+81681,,Alnus rubra,,eats
+81681,,Betula nana,,eats
+81681,,Amelanchier utahensis,,eats
+81681,,Thuja plicata,,eats
+81681,,Abies balsamea,,eats
+81681,,Parkesia motacilla,,eatenBy
+81681,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+81681,,Corynorhinus townsendii,,preyedUponBy
+81681,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

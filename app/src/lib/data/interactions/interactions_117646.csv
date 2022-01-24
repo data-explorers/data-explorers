@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117646,41860,Enhydra lutris,Sea Otter,eatenBy
+117646,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+117646,41860,Enhydra lutris,Sea Otter,preyedUponBy

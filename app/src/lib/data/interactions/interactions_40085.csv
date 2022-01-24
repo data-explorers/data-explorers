@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+40085,60748,Smilax,greenbriers,eats
+40085,8021,Corvus brachyrhynchos,American Crow,eatenBy
+40085,26159,Alligator mississippiensis,American Alligator,eatenBy
+40085,,Pituophis melanoleucus,,preyedUponBy
+40085,225946,Nicrophorus carolina,Carolina Burying Beetle,preyedUponBy

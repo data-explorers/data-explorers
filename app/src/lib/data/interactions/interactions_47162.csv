@@ -1,0 +1,63 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47162,42054,Vulpes,Typical Foxes,eatenBy
+47162,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+47162,43111,Sylvilagus floridanus,Eastern Cottontail,eatenBy
+47162,7089,Branta canadensis,Canada Goose,eatenBy
+47162,46020,Sciurus niger,Fox Squirrel,eatenBy
+47162,7006,Anser,Grey Geese,eatenBy
+47162,7107,Aix sponsa,Wood Duck,eatenBy
+47162,13858,Passer domesticus,House Sparrow,eatenBy
+47162,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47162,6921,Cygnus olor,Mute Swan,eatenBy
+47162,6915,Cygnus buccinator,Trumpeter Swan,eatenBy
+47162,1409,Callipepla californica,California Quail,eatenBy
+47162,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47162,9602,Quiscalus quiscula,Common Grackle,eatenBy
+47162,,American black bear,,eatenBy
+47162,,Ermine,,eatenBy
+47162,,Canadian lynx,,eatenBy
+47162,,Coyote,,eatenBy
+47162,,American mink,,eatenBy
+47162,,Arctic hare,,eatenBy
+47162,608208,Schizodon corti,,eatenBy
+47162,90686,Parachanna,African Snakeheads,eatenBy
+47162,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+47162,105567,Menidia beryllina,Inland Silverside,eatenBy
+47162,105565,Membras martinica,Rough silverside,eatenBy
+47162,19009,Psephotus haematonotus,Red-rumped Parrot,eatenBy
+47162,18921,Platycercus elegans,Crimson Rosella,eatenBy
+47162,144560,Eolophus roseicapilla,Galah,eatenBy
+47162,3740,Threskiornis molucca,Australian White Ibis,eatenBy
+47162,18917,Platycercus adscitus,Pale-headed Rosella,eatenBy
+47162,18883,Neophema pulchella,Turquoise Parrot,eatenBy
+47162,18920,Platycercus eximius,Eastern Rosella,eatenBy
+47162,509898,Platycercus elegans flaveolus,Yellow Rosella,eatenBy
+47162,321779,Chrysoteuchia topiarius,Topiary Grass-veneer,eatenBy
+47162,42973,Wallabia bicolor,Swamp Wallaby,eatenBy
+47162,218694,Draeculacephala antica,,eatenBy
+47162,218695,Draeculacephala constricta,,eatenBy
+47162,894745,Ondatra zibethicus zibethicus,Eastern Muskrat,eatenBy
+47162,7072,Tadorna variegata,Paradise Shelduck,eatenBy
+47162,553974,Platycercus eximius eximius,White-cheeked rosella,eatenBy
+47162,199155,Fringilla coelebs gengleri,British Chaffinch,eatenBy
+47162,145360,Chloris chloris,European Greenfinch,eatenBy
+47162,556183,Carduelis carduelis britannica,British Goldfinch,eatenBy
+47162,35342,Iguana iguana,Green Iguana,eatenBy
+47162,72502,Anas chlorotis,Brown Teal,eatenBy
+47162,7056,Aythya americana,Redhead,eatenBy
+47162,831,Perdix perdix,Gray Partridge,eatenBy
+47162,1428,Numida meleagris,Helmeted Guineafowl,eatenBy
+47162,6898,Dendrocygna viduata,White-faced Whistling-Duck,eatenBy
+47162,6893,Dendrocygna autumnalis,Black-bellied Whistling-Duck,eatenBy
+47162,6917,Cygnus columbianus,Tundra Swan,eatenBy
+47162,558426,Anser caerulescens,Snow Goose,eatenBy
+47162,7150,Cereopsis novaehollandiae,Cape Barren Goose,eatenBy
+47162,,Anas penelope,,eatenBy
+47162,,Chen canagica,,eatenBy
+47162,3460,Zenaida asiatica,White-winged Dove,eatenBy
+47162,6933,Anas acuta,Northern Pintail,eatenBy
+47162,7019,Anser albifrons,Greater White-fronted Goose,eatenBy
+47162,6905,Anseranas semipalmata,Magpie Goose,eatenBy
+47162,7101,Branta leucopsis,Barnacle Goose,eatenBy
+47162,7104,Branta sandvicensis,Hawaiian Goose,eatenBy
+47162,45763,Ondatra zibethicus,Muskrat,preyedUponBy

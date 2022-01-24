@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60417,17013,Sayornis nigricans,Black Phoebe,eatenBy
+60417,,Dysmachus cristatus,,eatenBy
+60417,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+60417,207811,Eptesicus serotinus,Serotine Bat,preyedUponBy
+60417,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy

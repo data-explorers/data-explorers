@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+122558,649711,Anemonia natalensis,Natal Anemone,preysOn
+122558,681060,Palythoa nelliae,Columnar Sandy Zoanthid,preysOn
+122558,473108,Sagartiogeton,,preysOn
+122558,491471,Isaurus tuberculatus,Knobbly Zoanthid,preysOn
+122558,632854,Bunodactis reynaudi,sandy anemone,preysOn
+122558,604865,Zoanthus sansibaricus,Violet Zoanthids,preysOn
+122558,632854,Bunodactis reynaudi,sandy anemone,preyedUponBy
+122558,446088,Helcogramma obtusirostris,,preyedUponBy

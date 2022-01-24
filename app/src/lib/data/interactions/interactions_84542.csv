@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84542,42158,Cervidae,Deer,eatenBy
+84542,,Anthonomus musculus,,eatenBy
+84542,,North American deermouse,,eatenBy
+84542,,Southern red-backed vole,,eatenBy
+84542,,Sphinx canadensis,,eatenBy
+84542,,Dolba hyloeus,,eatenBy
+84542,,Xylena cineritia,,eatenBy
+84542,,Syngrapha epigaea,,eatenBy
+84542,,Drasteria adumbrata,,eatenBy
+84542,,Polia detracta,,eatenBy
+84542,,Xestia oblata,,eatenBy
+84542,63752,Hyppa xylinoides,Common Hyppa Moth,eatenBy
+84542,,Acronicta distans,,eatenBy
+84542,,Malacosoma disstria,,eatenBy
+84542,47802,Lymantria dispar,LD Moth,eatenBy
+84542,154057,Cingilia catenaria,Chain-dotted Geometer,eatenBy
+84542,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+84542,931,Lagopus lagopus,Willow Ptarmigan,eatenBy
+84542,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+84542,52775,Bombus,Bumble Bees,pollinatedBy
+84542,,Hemaris,,pollinatedBy

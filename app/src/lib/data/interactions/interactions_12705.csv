@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+12705,82888,Jasminum,jasmine,eats
+12705,50999,Ficus,Figs,eats
+12705,120942,Malvaviscus arboreus,Turk's cap,eats
+12705,47351,Prunus,"plums, cherries, and allies",eats
+12705,53854,Ilex,hollies,eats
+12705,79291,Syagrus romanzoffiana,Queen palm,eats
+12705,59035,Solanum americanum,American black nightshade,eats
+12705,49671,Phoradendron,leafy mistletoes,eats
+12705,50641,Solanum,nightshades,eats
+12705,54713,Fuchsia,fuchsias,eats
+12705,130872,Schinus terebinthifolia,Brazilian pepper,eats
+12705,60748,Smilax,greenbriers,eats
+12705,76949,Eriobotrya japonica,Loquat,eats
+12705,126846,Vitex,,eats
+12705,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+12705,77740,Ligustrum lucidum,tree privet,eats
+12705,147426,Toddalia asiatica,orange climber,eats
+12705,72056,Cissus,,eats
+12705,,Carissa spinarum,,eats
+12705,133462,Antiaris toxicaria,Upas tree,eats
+12705,143547,Allophylus abyssinicus,,eats
+12705,,Blighia unijugata,,eats
+12705,340219,Morus mesozygia,African mulberry,eats
+12705,507346,Clerodendrum capitatum,,eats
+12705,133182,Ficus sur,Cape Fig,eats
+12705,51600,Psychotria,wild coffees,eats
+12705,126515,Dracaena fragrans,cornstalk dracaena,eats
+12705,,Peponium vogelii,,eats
+12705,186663,Trilepisium madagascariense,Bastard Fig,eats
+12705,,Rubus niveus,,eats
+12705,593043,Rhamnus prinoides,Shiny-leaf,eats
+12705,183890,Cyphostemma,Wild Grapes,eats
+12705,166935,Pittosporum viridiflorum,Cheesewood,eats
+12705,436061,Culcasia falcifolia,,eats
+12705,133456,Polyscias fulva,,eats
+12705,83034,Casearia,,eats
+12705,132932,Bridelia micrantha,Coastal Goldenleaf,eats
+12705,64343,Coffea,Coffees,eats
+12705,134190,Harungana madagascariensis,,eats
+12705,850424,Maesa indica,,eats
+12705,50333,Lantana camara,common lantana,eats
+12705,83584,Piper,pepper plants,eats
+12705,,Ficus exasperata,,eats
+12705,83912,Manilkara,,eats
+12705,,Pygeum africanum,,eats
+12705,133287,Solanum mauritianum,bugweed,eats
+12705,162973,Ficus thonningii,Common Wild Fig,eats
+12705,347435,Ficus lutea,Giantleaf Fig,eats
+12705,,Ficus sycomorus,,eats
+12705,,Ficus ingens,,eats
+12705,,Ficus abutilifolia,,eats
+12705,285680,Ficus maxima,,eats
+12705,,Manilkara obovata,,eats
+12705,,Lannea,,eats
+12705,,Parinari curatellifolia,,eats
+12705,,Tapura fischeri,,eats
+12705,,Celtis zenkeri,,eats
+12705,,Uapaca togoensis,,eats
+12705,,Zanthoxylum zanthoxyloides,,eats
+12705,,Ouratea striata,,eats
+12705,,Diospyros vera,,eats
+12705,,Bridelia ferruginea,,eats
+12705,,Keetia cornelia,,eats
+12705,,Ficus polita,,eats
+12705,83434,Diospyros,persimmons,eats
+12705,,Crateva religiosa,,eats
+12705,,Celtis toka,,eats
+12705,,Sorindeia grandifolia,,eats
+12705,472094,Diospyros abyssinica,,eats
+12705,,Ficus glumosa,,eats
+12705,,Antidesma,,eats
+12705,68702,Phyllanthus,,eats
+12705,,Syzygium guineense,,eats
+12705,,Protium,,eats
+12705,,Clusia,,eats
+12705,,Eugenia umbelliflora,,eats
+12705,,Melicoccus oliviformis,,eats
+12705,278199,Ficus pertusa,,eats
+12705,,Ficus crassiramea,,eats
+12705,,Ficus consociata,,eats
+12705,,Ficus stricta,,eats
+12705,,Ficus subcordata,,eats
+12705,,Ficus pellucidopunctata,,eats
+12705,,Ficus benjamina,,eats
+12705,,Ficus sagittata,,eats
+12705,714375,Ficus binnendijkii,,eats
+12705,,Metopium brownei,,eats
+12705,,Ficus obscura,,eats
+12705,,Neea psychotrioides,,eats
+12705,,Ficus caulocarpa,,eats
+12705,,Ficus sundaica,,eats
+12705,,Ficus virens,,eats
+12705,899689,Ficus parietalis,,eats
+12705,,Ficus drupacea,,eats
+12705,,Ficus sumatrana,,eats
+12705,,Daphnopsis americana,,eats
+12705,,Stemmadenia obovata,,eats
+12705,,Nectandra,,eats
+12705,,Ocotea bernoulliana,,eats
+12705,,Pouteria exfoliata,,eats
+12705,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+12705,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+12705,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+12705,20359,Aegolius funereus,Boreal Owl,eatenBy
+12705,,Aquila chrysaetos,,eatenBy
+12705,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+12705,48586,Cepaea nemoralis,Brown-lipped Snail,preysOn
+12705,28627,Spilotes pullatus,Chicken Snake,preyedUponBy
+12705,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+12705,51039,Cepaea hortensis,White-lipped Snail,preyedUponBy
+12705,333759,Larus dominicanus dominicanus,Southern Black-backed Gull,preyedUponBy

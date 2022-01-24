@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+209144,47126,Plantae,plants,eats
+209144,,Detritus,,eats
+209144,,Phytoplankton,,eats
+209144,109574,Placidochromis johnstoni,,eatenBy
+209144,,Barbus eurystomus,,eatenBy
+209144,,Haplocrhomis mola,,eatenBy
+209144,,Barbus longiceps,,eatenBy
+209144,,Haplochromis mylodon,,eatenBy
+209144,102212,Haplochromis mylergates,,eatenBy
+209144,55533,Chanos chanos,Milkfish,eatenBy
+209144,,Protopterus aethiopicus,,eatenBy
+209144,,Sarmarutilus rubilio,,eatenBy
+209144,340825,Scylla serrata,Mud Crab,eatenBy
+209144,,Oreochromis spilurus,,eatenBy
+209144,109574,Placidochromis johnstoni,,preyedUponBy

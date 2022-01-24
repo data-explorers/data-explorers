@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118903,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+118903,117095,Regulus calendula,Ruby-crowned Kinglet,eatenBy
+118903,,Megaponera analis,,eatenBy
+118903,,Corvus albicollis,,eatenBy
+118903,,Rhinella diptycha,,eatenBy
+118903,9864,Sicalis flaveola,Saffron Finch,eatenBy
+118903,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+118903,120583,Parasteatoda tepidariorum,Common House Spider,preyedUponBy
+118903,,Megaponera analis,,preyedUponBy
+118903,,Telamonia festiva,,preyedUponBy
+118903,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+118903,,Leptogenys processionalis,,preyedUponBy
+118903,810229,Parabatinga brevipes,,preyedUponBy

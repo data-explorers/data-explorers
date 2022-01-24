@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50853,1409,Callipepla californica,California Quail,eatenBy
+50853,41641,Ursus arctos,Brown Bear,eatenBy
+50853,,Hypera (Hypera) arator,,eatenBy
+50853,,Gronops lunatus,,eatenBy
+50853,,Eupithecia pygmaeata,,eatenBy
+50853,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+50853,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+50853,949,Lagopus muta,Rock Ptarmigan,eatenBy
+50853,,Lagopus leucura,,eatenBy
+50853,,Yramea,,pollinatedBy
+50853,,Vibrissomyia,,pollinatedBy

@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+246134,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+246134,623850,Hypanus americanus,Southern Stingray,eatenBy
+246134,4136,Procellaria aequinoctialis,White-chinned Petrel,eatenBy
+246134,194676,Dissostichus eleginoides,Patagonian Toothfish,eatenBy
+246134,4164,Pachyptila desolata,Antarctic Prion,eatenBy
+246134,4163,Pachyptila belcheri,Slender-billed Prion,eatenBy
+246134,92121,Somniosus,,eatenBy
+246134,3808,Pygoscelis papua,Gentoo Penguin,eatenBy
+246134,3821,Aptenodytes patagonicus,King Penguin,eatenBy
+246134,4200,Halobaena caerulea,Blue Petrel,eatenBy
+246134,,Puffinus tenuirostris,,eatenBy
+246134,4415,Cepphus columba,Pigeon Guillemot,preyedUponBy

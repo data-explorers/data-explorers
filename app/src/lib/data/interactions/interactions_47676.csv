@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47676,123631,Corallina,,eats
+47676,,red and pink coralline algae,,eats
+47676,,Phytoplankton,,eats
+47676,,Prymnesiophyceae,,eats
+47676,244533,Hedophyllum sessile,sea cabbage kelp,eats
+47676,124813,Alaria,,eats
+47676,,Biofilm Complex,,eats
+47676,71117,Microcladia,,eats
+47676,,Crustose coralline algae complex,,eats
+47676,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+47676,376425,Fusitriton,,eatenBy
+47676,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+47676,,Melanitta fusca,,eatenBy
+47676,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+47676,123631,Corallina,,preysOn
+47676,,Crustose coralline algae complex,,preysOn
+47676,,Biofilm complex,,preysOn
+47676,124813,Alaria,,preysOn
+47676,244533,Hedophyllum sessile,sea cabbage kelp,preysOn
+47676,71117,Microcladia,,preysOn
+47676,47669,Orthasterias koehleri,Rainbow Star,preyedUponBy
+47676,376425,Fusitriton,,preyedUponBy

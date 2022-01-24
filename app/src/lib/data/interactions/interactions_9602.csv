@@ -1,0 +1,83 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9602,53225,Rhopalidae,Scentless Plant Bugs,eats
+9602,47649,Acrididae,Short-horned Grasshoppers,eats
+9602,48736,Curculionidae,True Weevils,eats
+9602,47115,Mollusca,Molluscs,eats
+9602,49567,Carabidae,Ground Beetles,eats
+9602,47213,Sphingidae,Sphinx Moths,eats
+9602,47434,Poaceae,grasses,eats
+9602,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+9602,47735,Diplopoda,Millipedes,eats
+9602,47336,Formicidae,Ants,eats
+9602,50279,Vitaceae,grape family,eats
+9602,47158,Insecta,Insects,eats
+9602,47120,Arthropoda,Arthropods,eats
+9602,211194,Tracheophyta,vascular plants,eats
+9602,1,Animalia,Animals,eats
+9602,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9602,47124,Magnoliopsida,dicots,eats
+9602,47208,Coleoptera,Beetles,eats
+9602,47157,Lepidoptera,Butterflies and Moths,eats
+9602,40151,Mammalia,Mammals,eats
+9602,20978,Amphibia,Amphibians,eats
+9602,81547,Lumbricus,,eats
+9602,84718,Oniscidea,"Woodlice, Pillbugs, and Rock Slaters",eats
+9602,47118,Araneae,Spiders,eats
+9602,56955,Helianthus,sunflowers,eats
+9602,58387,Sorghum halepense,Johnson grass,eats
+9602,53036,Ambrosia,ragweeds,eats
+9602,47851,Quercus,oaks,eats
+9602,60304,Paspalum,Paspalum,eats
+9602,50055,Setaria,foxtails and bristlegrasses,eats
+9602,48972,Polygonum,knotweeds,eats
+9602,57920,Xanthium strumarium,rough cocklebur,eats
+9602,60301,Panicum,panicgrasses,eats
+9602,48601,Phytolacca,Pokeberries,eats
+9602,51637,Digitaria,"crabgrasses, cottontops, and allies",eats
+9602,58390,Triticum,Wheats,eats
+9602,52697,Avena,Oats,eats
+9602,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+9602,47162,Poales,"grasses, sedges, cattails, and allies",eats
+9602,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+9602,7428,Bombycilla cedrorum,Cedar Waxwing,eats
+9602,72458,Actitis macularius,Spotted Sandpiper,eats
+9602,5020,Butorides virescens,Green Heron,eats
+9602,58732,Toxicodendron radicans,poison ivy,eats
+9602,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+9602,77835,Lonicera japonica,Japanese honeysuckle,eats
+9602,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+9602,48599,Phytolacca americana,American pokeweed,eats
+9602,54834,Prunus serotina,black cherry,eats
+9602,48460,Life,,eats
+9602,333586,Oligochaeta,Earthworms and allies,eats
+9602,47125,Angiospermae,flowering plants,eats
+9602,48448,Zea mays,Maize,eats
+9602,,Teleostei,,eats
+9602,,Oryza sativa,,eats
+9602,,Pimephales notatus,,eats
+9602,54777,Cornus florida,flowering dogwood,eats
+9602,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+9602,54793,Lindera benzoin,northern spicebush,eats
+9602,,Smilax tamnoides,,eats
+9602,,Vitis vulpina,,eats
+9602,,Menispermum canadense,,eats
+9602,,Sassafras albidum,,eats
+9602,,Aralia spinosa,,eats
+9602,130905,Vitis cinerea,graybark grape,eats
+9602,,Anolis,,eats
+9602,,Anolis carolinensis,,eats
+9602,20044,Bubo virginianus,Great Horned Owl,eatenBy
+9602,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+9602,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9602,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+9602,19893,Strix varia,Barred Owl,eatenBy
+9602,20445,Tyto alba,Barn Owl,eatenBy
+9602,4665,Falco sparverius,American Kestrel,eatenBy
+9602,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+9602,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+9602,66003,Lithobates pipiens,Northern Leopard Frog,preysOn
+9602,47158,Insecta,Insects,preysOn
+9602,1,Animalia,Animals,preysOn
+9602,47157,Lepidoptera,Butterflies and Moths,preysOn
+9602,,Anolis,,preysOn
+9602,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy

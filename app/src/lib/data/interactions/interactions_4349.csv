@@ -1,0 +1,124 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4349,4519,Uria aalge,Common Murre,eats
+4349,4504,Fratercula arctica,Atlantic Puffin,eats
+4349,4501,Alca torda,Razorbill,eats
+4349,120959,Modiolus,,eats
+4349,3836,Calidris,Calidris Sandpipers,eats
+4349,7089,Branta canadensis,Canada Goose,eats
+4349,62807,Mytilus,Black Mussels,eats
+4349,81636,Mya,,eats
+4349,49581,Nereididae,,eats
+4349,3959,Phalaropus lobatus,Red-necked Phalarope,eats
+4349,6922,Anas,"Mallards, Pintails, and Allies",eats
+4349,195134,Euphausiidae,Euphotic Krill,eats
+4349,7024,Somateria mollissima,Common Eider,eats
+4349,4516,Uria lomvia,Thick-billed Murre,eats
+4349,,Alle alle,,eats
+4349,4494,Rissa tridactyla,Black-legged Kittiwake,eats
+4349,4418,Cepphus grylle,Black Guillemot,eats
+4349,124337,Tardigrada,Tardigrades,eats
+4349,,Sebastes marinus,,eats
+4349,86396,Ammodytes,,eats
+4349,63740,Gadus morhua,Atlantic Cod,eats
+4349,215318,Boreogadus saida,Arctic Cod,eats
+4349,112419,Sebastes mentella,Deepwater Redfish,eats
+4349,165100,Mallotus villosus,Capelin,eats
+4349,97990,Clupea harengus,Atlantic Herring,eats
+4349,47646,Myoxocephalus,Shorthorn Sculpins,eats
+4349,218966,Eleginus gracilis,Saffron Cod,eats
+4349,48903,Asterias,,eats
+4349,117571,Clupea pallasii,Pacific herring,eats
+4349,7030,Somateria spectabilis,King Eider,eats
+4349,7087,Branta bernicla,Brant,eats
+4349,86991,Blennius,,eats
+4349,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4349,4356,Larus canus,Mew Gull,eats
+4349,6917,Cygnus columbianus,Tundra Swan,eats
+4349,246556,Tectonatica,,eats
+4349,7047,Aythya marila,Greater Scaup,eats
+4349,14118,Plectrophenax,Snow and McKay's Buntings,eats
+4349,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eats
+4349,,Chen canagica,,eats
+4349,459589,Hyas,,eats
+4349,555821,Saduria,,eats
+4349,7170,Clangula hyemalis,Long-tailed Duck,eats
+4349,89655,Lycodes,,eats
+4349,85983,Pharidae,,eats
+4349,,Grus canadensis,,eats
+4349,41720,Erignathus barbatus,Bearded Seal,eats
+4349,,Gnathostomata,,eats
+4349,180029,Gadus macrocephalus,Pacific Cod,eats
+4349,614162,Micromesistius australis,Southern blue whiting,eats
+4349,120702,Micromesistius poutassou,Blue Whiting,eats
+4349,228496,Pollachius virens,Pollock,eats
+4349,82353,Merluccius,Hakes,eats
+4349,,Pisces,,eats
+4349,47762,Sebastes,Rockfishes,eats
+4349,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4349,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4349,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4349,85289,Pseudophycis bachus,Red cod,eats
+4349,,Macruronus magellanicus,,eats
+4349,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4349,8010,Corvus corax,Common Raven,eatenBy
+4349,42069,Vulpes vulpes,Red Fox,eatenBy
+4349,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4349,42054,Vulpes,Typical Foxes,eatenBy
+4349,43584,Homo sapiens,Human,eatenBy
+4349,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+4349,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+4349,4843,Haematopus ostralegus,Eurasian Oystercatcher,eatenBy
+4349,144297,Stercorarius skua,Great Skua,eatenBy
+4349,204533,Larus argentatus,Herring Gull,eatenBy
+4349,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+4349,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4349,4657,Falco rusticolus,Gyrfalcon,eatenBy
+4349,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4349,,Ichthyaetus ichthyaetus,,eatenBy
+4349,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4349,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4349,4389,Larus cachinnans,Caspian Gull,eatenBy
+4349,,Coloeus monedula,,eatenBy
+4349,204496,Corvus corone,Carrion Crow,eatenBy
+4349,8029,Corvus frugilegus,Rook,eatenBy
+4349,42048,Canis lupus,Gray Wolf,eatenBy
+4349,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4349,41852,Gulo gulo,Wolverine,eatenBy
+4349,41900,Herpestes ichneumon,Ichneumon,eatenBy
+4349,41641,Ursus arctos,Brown Bear,eatenBy
+4349,64714,Vaccinium uliginosum,bog bilberry,eatenBy
+4349,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4349,,Elaphe situla,,eatenBy
+4349,39407,Varanus griseus,Desert Monitor,eatenBy
+4349,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4349,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4349,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4349,964671,Contracaecum,,eatenBy
+4349,340668,Corynosoma,,eatenBy
+4349,699271,Anisakis,,eatenBy
+4349,459668,Sabinea septemcarinata,Sevenline Shrimp,preysOn
+4349,213519,Anarhichas lupus,Atlantic Wolffish,preysOn
+4349,47639,Myoxocephalus scorpius,Shorthorn Sculpin,preysOn
+4349,,Artediellus europeus,,preysOn
+4349,459669,Sclerocrangon boreas,Sculptured Shrimp,preysOn
+4349,215318,Boreogadus saida,Arctic Cod,preysOn
+4349,,Sebastes marinus,,preysOn
+4349,222760,Lebbeus polaris,Polar Lebbeid Shrimp,preysOn
+4349,89655,Lycodes,,preysOn
+4349,,Eumicotremus derjugini,,preysOn
+4349,213639,Anisarchus medius,Stout Eelblenny,preysOn
+4349,229837,Reinhardtius hippoglossoides,Greenland Halibut,preysOn
+4349,459679,Spirontocaris spinus,Parrot Shrimp,preysOn
+4349,,Hipoglossoides platessoides,,preysOn
+4349,112419,Sebastes mentella,Deepwater Redfish,preysOn
+4349,224163,Lumpenus lampretaeformis,Snakeblenny,preysOn
+4349,216119,Careproctus reinhardti,Sea Tadpole,preysOn
+4349,83159,Liparis,Widelip Orchids,preysOn
+4349,165100,Mallotus villosus,Capelin,preysOn
+4349,,Liparis liparis,,preysOn
+4349,220718,Gymnocanthus tricuspis,Arctic Staghorn Sculpin,preysOn
+4349,,Leptagonus decagonus,,preysOn
+4349,223433,Leptoclinus maculatus,Daubed Shanny,preysOn
+4349,48397,Raja clavata,Thornback Skate,preysOn
+4349,437504,Pandalus borealis,Northern Shrimp,preysOn
+4349,63740,Gadus morhua,Atlantic Cod,preysOn

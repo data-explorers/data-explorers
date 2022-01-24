@@ -1,0 +1,62 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+46260,47566,Populus,"poplars, cottonwoods, and aspens",eats
+46260,52850,Aralia,spikenards,eats
+46260,14823,Sitta canadensis,Red-breasted Nuthatch,eats
+46260,7458,Certhia americana,Brown Creeper,eats
+46260,10094,Junco hyemalis,Dark-eyed Junco,eats
+46260,63573,Picea,spruces,eats
+46260,53373,Corylus,hazels,eats
+46260,47193,Cornus,dogwoods,eats
+46260,60369,Pyrola,wintergreens,eats
+46260,47561,Pinus,pines,eats
+46260,47562,Pinaceae,pine family,eats
+46260,47126,Plantae,plants,eats
+46260,47555,Taxus,yews,eats
+46260,58724,Pinus banksiana,Jack pine,eats
+46260,54495,Juglans,Walnuts,eats
+46260,,Dendroica petechia,,eats
+46260,,Sitta pygmaea,,eats
+46260,,berries,,eats
+46260,,Abies balsamea,,eats
+46260,,Thuya occidentalis,,eats
+46260,,other conifers,,eats
+46260,,mushrooms,,eats
+46260,,deciduous trees,,eats
+46260,,Carya,,eats
+46260,,Picea abies,,eats
+46260,118157,Suillus tomentosus,Blue-staining Slippery Jack,eats
+46260,,Juglans nigra,,eats
+46260,42051,Canis latrans,Coyote,eatenBy
+46260,41976,Lynx rufus,Bobcat,eatenBy
+46260,42069,Vulpes vulpes,Red Fox,eatenBy
+46260,20044,Bubo virginianus,Great Horned Owl,eatenBy
+46260,42054,Vulpes,Typical Foxes,eatenBy
+46260,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+46260,19893,Strix varia,Barred Owl,eatenBy
+46260,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+46260,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+46260,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+46260,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+46260,42048,Canis lupus,Gray Wolf,eatenBy
+46260,41798,Martes americana,American Marten,eatenBy
+46260,,Lynx canadensis,,eatenBy
+46260,,Martes pennanti,,eatenBy
+46260,,Canadian lynx,,eatenBy
+46260,,American marten,,eatenBy
+46260,,Coyote,,eatenBy
+46260,,Ermine,,eatenBy
+46260,41641,Ursus arctos,Brown Bear,eatenBy
+46260,19890,Strix nebulosa,Great Gray Owl,eatenBy
+46260,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+46260,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+46260,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+46260,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+46260,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+46260,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,preysOn
+46260,12727,Turdus migratorius,American Robin,preysOn
+46260,,Juglans nigra,,preysOn
+46260,48268,Crotalus oreganus,Western Rattlesnake,preyedUponBy
+46260,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+46260,5227,Buteo platypterus,Broad-winged Hawk,preyedUponBy
+46260,,Sistrurus catenatus,,preyedUponBy
+46260,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy

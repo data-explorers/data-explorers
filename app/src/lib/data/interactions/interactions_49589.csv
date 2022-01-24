@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49589,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49589,7004,Mergus merganser,Common Merganser,eatenBy
+49589,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+49589,29304,Nerodia taxispilota,Brown Watersnake,preyedUponBy

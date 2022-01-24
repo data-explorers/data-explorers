@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69926,152275,Thalassiosirales,,eats
+69926,50863,Chlorophyta,green algae,eats
+69926,123880,Bacillariophyceae,Diatoms,eats
+69926,123862,Chaetoceros,,eats
+69926,,Detritus complex,,eats
+69926,,Chrysophyta,,eats
+69926,,Prymnesiophyceae,,eats
+69926,774725,Pyramimonadophyceae,,eats
+69926,41860,Enhydra lutris,Sea Otter,eatenBy
+69926,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+69926,3836,Calidris,Calidris Sandpipers,eatenBy
+69926,47827,Cancer,,eatenBy
+69926,43584,Homo sapiens,Human,eatenBy
+69926,83329,Buccinidae,True Whelks,eatenBy
+69926,,Melanitta fusca,,eatenBy
+69926,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+69926,48903,Asterias,,eatenBy
+69926,144221,Melanitta nigra,Common Scoter,eatenBy
+69926,47524,Pleuronectes,,eatenBy
+69926,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+69926,376425,Fusitriton,,eatenBy
+69926,,Crossaster papposus,,eatenBy
+69926,,Leptasterias,,eatenBy
+69926,223674,Limanda aspera,Yellowfin Sole,eatenBy
+69926,223181,Lepidopsetta polyxystra,Northern Rock Sole,eatenBy
+69926,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+69926,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+69926,130214,Buccinum,,eatenBy
+69926,47642,Hemitripterus,,eatenBy
+69926,220717,Gymnocanthus pistilliger,Threaded Sculpin,eatenBy
+69926,41766,Odobenus rosmarus,Walrus,eatenBy
+69926,123805,Paralithodes,,eatenBy
+69926,41720,Erignathus barbatus,Bearded Seal,eatenBy
+69926,,Phytoplankton,,preysOn
+69926,,Zooplankton,,preysOn
+69926,,Detritus complex,,preysOn
+69926,47827,Cancer,,preyedUponBy
+69926,47645,Cottidae,Typical Sculpins,preyedUponBy
+69926,,Leptasterias,,preyedUponBy
+69926,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+69926,376425,Fusitriton,,preyedUponBy
+69926,130214,Buccinum,,preyedUponBy

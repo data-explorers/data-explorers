@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52163,55626,Pieris rapae,Cabbage White,eatenBy
+52163,56756,Murgantia histrionica,Harlequin Bug,eatenBy
+52163,123810,Pontia daplidice,Bath White,eatenBy
+52163,,Pieris brassicae,,eatenBy
+52163,,Ascia monuste,,eatenBy
+52163,,Ascia monuste monuste,,eatenBy
+52163,55719,Eristalis tenax,Common Drone Fly,eatenBy
+52163,144560,Eolophus roseicapilla,Galah,eatenBy

@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+155309,43584,Homo sapiens,Human,eats
+155309,47170,Fungi,Fungi Including Lichens,eats
+155309,882,Gallus gallus,Red Junglefowl,eats
+155309,118552,Felis catus,Domestic Cat,eats
+155309,,Equus ferus,,eats
+155309,,Sus scrofa scrofa,,eats
+155309,,Canis lupus familiaris,,eats
+155309,47819,Libellulidae,Skimmers,eatenBy
+155309,51469,Aeshnidae,Darners,eatenBy
+155309,1091452,Hexanauplia,Barnacles and Copepods,eatenBy
+155309,47925,Coenagrionidae,Narrow-winged Damselflies,eatenBy
+155309,,Hydra,,eatenBy
+155309,,Notonectidae,,eatenBy

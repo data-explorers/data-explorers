@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127352,3808,Pygoscelis papua,Gentoo Penguin,eatenBy
+127352,41751,Arctocephalus gazella,Antarctic Fur Seal,eatenBy
+127352,116999,Pandion haliaetus,Osprey,preyedUponBy

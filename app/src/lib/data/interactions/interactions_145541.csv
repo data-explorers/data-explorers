@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+145541,51611,Veronica,speedwells,eats
+145541,56890,Aloysia,,eats
+145541,52821,Achillea millefolium,Common Yarrow,eats
+145541,765394,Sambucus nigra,European black elderberry,eats
+145541,,Hebe elliptica,,eats
+145541,52821,Achillea millefolium,Common Yarrow,pollinates
+145541,56057,Leucanthemum vulgare,oxeye daisy,pollinates
+145541,,Ranunculus acris,,pollinates
+145541,,Hypochoeris radicata,,pollinates

@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+20413,43096,Sylvilagus,Cottontail Rabbits,eats
+20413,44311,Microtus pennsylvanicus,Meadow Vole,eats
+20413,44349,Peromyscus,North American Deer Mice,eats
+20413,3,Aves,Birds,eats
+20413,,westwern meadowlark,,eats
+20413,,Dipodomys californicus,,eats
+20413,,Onychomys,,eats
+20413,,Chaetodipus hispidus,,eats
+20413,,Microtus ochrogaster,,eats
+20413,,Chelonoidis,,eats
+20413,,Pseudomys higginsi,,eats
+20413,,Pipistrelle,,preysOn

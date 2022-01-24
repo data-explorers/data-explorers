@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52658,42158,Cervidae,Deer,eatenBy
+52658,,Buckleria paludum,,eatenBy
+52658,47822,Diptera,Flies,preysOn
+52658,47927,Anisoptera,Dragonflies,preysOn
+52658,49995,Syrphidae,Hover Flies,preysOn
+52658,,Coenonympha pamphilus,,preysOn

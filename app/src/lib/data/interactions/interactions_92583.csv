@@ -1,0 +1,168 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+92583,1,Animalia,Animals,eats
+92583,41573,Carnivora,Carnivorans,eats
+92583,85493,Crustacea,Crustaceans,eats
+92583,342912,Caridea,Caridean Shrimps,eats
+92583,85912,Mysidae,,eats
+92583,47490,Polychaeta,Polychaete Worms,eats
+92583,50928,Palaemonidae,palaemonid shrimps,eats
+92583,52524,Carcinus,Green Crabs,eats
+92583,47584,Bivalvia,Bivalves,eats
+92583,81636,Mya,,eats
+92583,121639,Brachyura,True Crabs,eats
+92583,171858,Pecten,,eats
+92583,47115,Mollusca,Molluscs,eats
+92583,47459,Cephalopoda,Cephalopods,eats
+92583,47114,Gastropoda,Gastropods,eats
+92583,47628,Amphipoda,Amphipods,eats
+92583,153112,Euphausiacea,krill,eats
+92583,,Large Zoo,,eats
+92583,,Middlebenthos,,eats
+92583,,Phytoplankton,,eats
+92583,,Small Zoo,,eats
+92583,459368,Diaphus splendidus,Horned Lanternfish,eats
+92583,,Diastylis,,eats
+92583,,Medusozoa,,eats
+92583,,unspecified siphonophores,,eats
+92583,494368,Nyctiphanes australis,,eats
+92583,,Nocalanus robusitor,,eats
+92583,329109,Oncaea,,eats
+92583,,Clausocalanus furcatus,,eats
+92583,984299,Paracalanus aculeatus,,eats
+92583,85507,Calanoida,Calanoid Copepods,eats
+92583,195081,Acartia,,eats
+92583,1110968,Podon intermedius,,eats
+92583,201755,Cosmocalanus darwinii,,eats
+92583,573565,Caridae,,eats
+92583,203470,Oithona,,eats
+92583,984283,Euterpina acutifrons,,eats
+92583,346577,Calanoides carinatus,,eats
+92583,774778,Gymnoplea,,eats
+92583,201781,Calanus,,eats
+92583,480204,Microsetella rosea,,eats
+92583,201734,Acrocalanus,,eats
+92583,,Gnathostomata,,eats
+92583,529957,Arenigobius frenatus,Halfbridled Goby,eats
+92583,,Pisces,,eats
+92583,459325,Maurolicus muelleri,Pearlside,eats
+92583,,Cephalaspidomorphi,,eats
+92583,530442,Lampanyctodes hectoris,Hector's Lanternfish,eats
+92583,,,,eats
+92583,49263,Haemulidae,Grunts,eatenBy
+92583,40151,Mammalia,Mammals,eatenBy
+92583,51552,Seriola,Amberjacks,eatenBy
+92583,3,Aves,Birds,eatenBy
+92583,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eatenBy
+92583,41687,Phocidae,Earless Seals,eatenBy
+92583,47459,Cephalopoda,Cephalopods,eatenBy
+92583,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+92583,144530,Sternula antillarum,Least Tern,eatenBy
+92583,3793,Sula sula,Red-footed Booby,eatenBy
+92583,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+92583,3797,Sula leucogaster,Brown Booby,eatenBy
+92583,4092,Puffinus,Small Shearwaters,eatenBy
+92583,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+92583,144539,Thalasseus maximus,Royal Tern,eatenBy
+92583,4457,Sterna forsteri,Forster's Tern,eatenBy
+92583,4343,Larus,Large White-headed Gulls,eatenBy
+92583,144542,Thalasseus elegans,Elegant Tern,eatenBy
+92583,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+92583,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+92583,51549,Seriola dumerili,Greater Amberjack,eatenBy
+92583,114122,Thunnus alalunga,Albacore,eatenBy
+92583,187047,Allothunnus fallai,Slender tuna,eatenBy
+92583,47258,Thyrsites atun,Barracouta,eatenBy
+92583,82353,Merluccius,Hakes,eatenBy
+92583,94609,Argyrosomus hololepidotus,Madagascar Meagre,eatenBy
+92583,152871,Cetacea,Cetaceans,eatenBy
+92583,,Chondrichthyes,,eatenBy
+92583,179621,Atractoscion aequidens,Teraglin,eatenBy
+92583,41752,Arctocephalus forsteri,New Zealand Fur Seal,eatenBy
+92583,324558,Loligo vulgaris,European Squid,eatenBy
+92583,73481,Thalassarche salvini,Salvin's Albatross,eatenBy
+92583,,Phalacrocorax sulcirostris,,eatenBy
+92583,4302,Phalacrocorax harrisi,Flightless Cormorant,eatenBy
+92583,4113,Puffinus heinrothi,Heinroth's Shearwater,eatenBy
+92583,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+92583,3813,Spheniscus demersus,African Penguin,eatenBy
+92583,4301,Phalacrocorax ranfurlyi,Bounty Islands Shag,eatenBy
+92583,4101,Puffinus nativitatis,Christmas Shearwater,eatenBy
+92583,,Pelecanus conspicillatus,,eatenBy
+92583,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+92583,4276,Phalacrocorax onslowi,Chatham Islands Shag,eatenBy
+92583,4336,Pelecanus philippensis,Spot-billed Pelican,eatenBy
+92583,4107,Puffinus auricularis,Townsend's Shearwater,eatenBy
+92583,4478,Sterna striata,White-fronted Tern,eatenBy
+92583,4311,Phalacrocorax fuscescens,Black-faced Cormorant,eatenBy
+92583,,Phalacrocorax coronatus,,eatenBy
+92583,3788,Sula dactylatra,Masked Booby,eatenBy
+92583,4292,Phalacrocorax punctatus,Spotted Shag,eatenBy
+92583,4287,Phalacrocorax capensis,Cape Cormorant,eatenBy
+92583,4317,Phaethon aethereus,Red-billed Tropicbird,eatenBy
+92583,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+92583,,Pelecanus thagus,,eatenBy
+92583,,Phalacrocorax niger,,eatenBy
+92583,4286,Phalacrocorax chalconotus,Stewart Island Shag,eatenBy
+92583,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+92583,,Phalacrocorax gaimardi,,eatenBy
+92583,4566,Gygis alba,White Tern,eatenBy
+92583,4461,Sterna acuticauda,Black-bellied Tern,eatenBy
+92583,4294,Phalacrocorax featherstoni,Pitt Island Shag,eatenBy
+92583,4264,Phalacrocorax fuscicollis,Indian Cormorant,eatenBy
+92583,509656,Calonectris diomedea,Cory's Shearwater,eatenBy
+92583,56768,Sula granti,Nazca Booby,eatenBy
+92583,3786,Sula nebouxii,Blue-footed Booby,eatenBy
+92583,144532,Sternula nereis,Fairy Tern,eatenBy
+92583,144543,Thalasseus bengalensis,Lesser Crested Tern,eatenBy
+92583,,Puffinus carneipes,,eatenBy
+92583,3796,Sula variegata,Peruvian Booby,eatenBy
+92583,4636,Fregata minor,Great Frigatebird,eatenBy
+92583,979929,Puffinus assimilis,Little Shearwater,eatenBy
+92583,144534,Sternula saundersi,Saunders's Tern,eatenBy
+92583,,Puffinus pacificus,,eatenBy
+92583,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+92583,,Sternula lorata,,eatenBy
+92583,4108,Puffinus huttoni,Hutton's Shearwater,eatenBy
+92583,3803,Morus capensis,Cape Gannet,eatenBy
+92583,4535,Anous stolidus,Brown Noddy,eatenBy
+92583,4428,Sterna aurantia,River Tern,eatenBy
+92583,3801,Morus serrator,Australasian Gannet,eatenBy
+92583,,Papasula abbotti,,eatenBy
+92583,4425,Sterna trudeaui,Snowy-crowned Tern,eatenBy
+92583,4087,Thalassarche bulleri,Buller's Albatross,eatenBy
+92583,144538,Chlidonias albostriatus,Black-fronted Tern,eatenBy
+92583,4088,Thalassarche cauta,White-capped Albatross,eatenBy
+92583,201450,Puffinus lherminieri,Audubon's Shearwater,eatenBy
+92583,4534,Anous,Noddies,eatenBy
+92583,144529,Sternula albifrons,Little Tern,eatenBy
+92583,41759,Neophoca cinerea,Australian Sea Lion,eatenBy
+92583,63740,Gadus morhua,Atlantic Cod,eatenBy
+92583,114244,Torpedo marmorata,Marbled Torpedo,eatenBy
+92583,187571,Kajikia albida,Atlantic White Marlin,eatenBy
+92583,107194,Notorynchus cepedianus,Broadnose Sevengill Shark,eatenBy
+92583,451719,Helicolenus percoides,Sea Perch,eatenBy
+92583,,Deania calcea,,eatenBy
+92583,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+92583,188251,Sarda australis,Australian Bonito,eatenBy
+92583,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+92583,115167,Xiphias gladius,Swordfish,eatenBy
+92583,63508,Lamna nasus,Porbeagle,eatenBy
+92583,54440,Synodus foetens,Inshore Lizardfish,eatenBy
+92583,984283,Euterpina acutifrons,,preysOn
+92583,494368,Nyctiphanes australis,,preysOn
+92583,,Small Zoo,,preysOn
+92583,,Middlebenthos,,preysOn
+92583,,Large Zoo,,preysOn
+92583,529957,Arenigobius frenatus,Halfbridled Goby,preysOn
+92583,459325,Maurolicus muelleri,Pearlside,preysOn
+92583,530442,Lampanyctodes hectoris,Hector's Lanternfish,preysOn
+92583,40151,Mammalia,Mammals,preyedUponBy
+92583,49263,Haemulidae,Grunts,preyedUponBy
+92583,114122,Thunnus alalunga,Albacore,preyedUponBy
+92583,,Zeus faber,,preyedUponBy
+92583,47258,Thyrsites atun,Barracouta,preyedUponBy
+92583,114124,Thunnus maccoyii,Southern Bluefin Tuna,preyedUponBy
+92583,,Deania calcea,,preyedUponBy
+92583,451719,Helicolenus percoides,Sea Perch,preyedUponBy
+92583,188251,Sarda australis,Australian Bonito,preyedUponBy
+92583,338921,Macruronus novaezelandiae,Blue Grenadier,preyedUponBy

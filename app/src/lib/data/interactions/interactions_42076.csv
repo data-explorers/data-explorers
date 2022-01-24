@@ -1,0 +1,113 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42076,47158,Insecta,Insects,eats
+42076,3,Aves,Birds,eats
+42076,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+42076,42158,Cervidae,Deer,eats
+42076,42051,Canis latrans,Coyote,eats
+42076,41573,Carnivora,Carnivorans,eats
+42076,47126,Plantae,plants,eats
+42076,41660,Procyonidae,"Raccoons, Coatis, and Allies",eats
+42076,44737,Neotoma,Woodrats,eats
+42076,44027,Geomyidae,Pocket Gophers,eats
+42076,47120,Arthropoda,Arthropods,eats
+42076,46341,Soricidae,Shrews,eats
+42076,43095,Leporidae,Hares and Rabbits,eats
+42076,26036,Reptilia,Reptiles,eats
+42076,43698,Rodentia,Rodents,eats
+42076,42076,Urocyon cinereoargenteus,Gray Fox,eats
+42076,43094,Lagomorpha,Lagomorphs,eats
+42076,45933,Sciuridae,Squirrels,eats
+42076,520586,Tamias,,eats
+42076,42652,Didelphis virginiana,Virginia Opossum,eats
+42076,40151,Mammalia,Mammals,eats
+42076,41878,Mephitis,Striped and Hooded Skunks,eats
+42076,41871,Mephitidae,Skunks and Stink-badgers,eats
+42076,41770,Mustelidae,Mustelids,eats
+42076,47903,Cactaceae,cactus family,eats
+42076,43096,Sylvilagus,Cottontail Rabbits,eats
+42076,2715,Columbidae,Pigeons and Doves,eats
+42076,48894,Scorpiones,Scorpions,eats
+42076,7107,Aix sponsa,Wood Duck,eats
+42076,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+42076,44326,Microtus californicus,California Vole,eats
+42076,1,Animalia,Animals,eats
+42076,48599,Phytolacca americana,American pokeweed,eats
+42076,59035,Solanum americanum,American black nightshade,eats
+42076,54834,Prunus serotina,black cherry,eats
+42076,180007,Otospermophilus beecheyi,California Ground Squirrel,eats
+42076,44749,Neotoma fuscipes,Dusky-footed Woodrat,eats
+42076,43112,Sylvilagus bachmani,Brush Rabbit,eats
+42076,30692,Crotalus,Rattlesnakes,eats
+42076,47434,Poaceae,grasses,eats
+42076,72295,Phoenix,date palms,eats
+42076,52788,Acari,Mites and Ticks,eats
+42076,29044,Pituophis catenifer,Gopher Snake,eats
+42076,46217,Tamias striatus,Eastern Chipmunk,eats
+42076,3454,Zenaida macroura,Mourning Dove,eats
+42076,,Fruit/seeds,,eats
+42076,,Ovis aries,,eats
+42076,,Other mammal,,eats
+42076,,Mus,,eats
+42076,,Canis lupus familiaris,,eats
+42076,,Invertebrate,,eats
+42076,,"Ungulate, undetermined",,eats
+42076,42113,Pecari tajacu,Collared Peccary,eats
+42076,,Anthropogenic item,,eats
+42076,,Bos taurus,,eats
+42076,,Dipodomys,,eats
+42076,41676,Bassariscus astutus,Ringtail,eats
+42076,,Viscaceae,,eats
+42076,,Oreoscoptes montanus,,eats
+42076,,Gerstaeckeria,,eats
+42076,,Schismus barbatus,,eats
+42076,,Chaetodipus penicillatus,,eats
+42076,,Atta,,eats
+42076,,Tamias alpinus,,eats
+42076,,Zapus princeps,,eats
+42076,,Tamias merriami,,eats
+42076,4356,Larus canus,Mew Gull,eats
+42076,40352,Myotis grisescens,Gray Bat,eats
+42076,6948,Anas fulvigula,Mottled Duck,eats
+42076,,Dipodomys deserti,,eats
+42076,201282,Gallinula chloropus,Common Moorhen,eats
+42076,,Dipodomys venustus,,eats
+42076,19577,Chordeiles minor,Common Nighthawk,eats
+42076,6933,Anas acuta,Northern Pintail,eats
+42076,,Peromyscus boylii,,eats
+42076,,Dipodomys californicus,,eats
+42076,,Peromyscus polionotus,,eats
+42076,47051,Neurotrichus gibbsii,American Shrewmole,eats
+42076,,Microtus ochrogaster,,eats
+42076,44066,Thomomys talpoides,Northern Pocket Gopher,eats
+42076,132855,Rubus pubescens,dwarf raspberry,eats
+42076,,Malus pumila,,eats
+42076,50897,Asimina triloba,common pawpaw,eats
+42076,,http://treatment.plazi.org/id/FB7A09EEF8EC3B9F3529A4A1CA3EC7F1,,eats
+42076,61964,Prunus avium,wild cherry,eats
+42076,,Nyssa sylvatica,,eats
+42076,,Ehretia,,eats
+42076,127936,Chiococca alba,West Indian milkberry,eats
+42076,,Dendropanax arboreus,,eats
+42076,283078,Achatocarpus nigricans,,eats
+42076,,Ficus obtusifolia,,eats
+42076,62841,Cordia,,eats
+42076,,Psychotria lauracea,,eats
+42076,478640,Crossopetalum uragoga,Snake Berry,eats
+42076,,Solanum tampicense,,eats
+42076,,Ficus insipida,,eats
+42076,,Nectandra salicifolia,,eats
+42076,,Rourea glabra,,eats
+42076,,Chrysobalanus icaco,,eats
+42076,,Xylosma panamensis,,eats
+42076,42051,Canis latrans,Coyote,eatenBy
+42076,41976,Lynx rufus,Bobcat,eatenBy
+42076,42007,Puma concolor,Mountain Lion,eatenBy
+42076,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+42076,41663,Procyon lotor,Common Raccoon,eatenBy
+42076,4756,Cathartes aura,Turkey Vulture,eatenBy
+42076,41970,Panthera onca,Jaguar,eatenBy
+42076,,Aquila chrysaetos,,eatenBy
+42076,42076,Urocyon cinereoargenteus,Gray Fox,preysOn
+42076,180007,Otospermophilus beecheyi,California Ground Squirrel,preysOn
+42076,29044,Pituophis catenifer,Gopher Snake,preysOn
+42076,42076,Urocyon cinereoargenteus,Gray Fox,preyedUponBy

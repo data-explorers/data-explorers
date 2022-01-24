@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61319,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+61319,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+61319,47219,Apis mellifera,Western Honey Bee,eatenBy
+61319,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+61319,,Neotamias sonomae,,eatenBy
+61319,196604,Diadasia bituberculata,Bindweed Turret Bee,eatenBy
+61319,,Eupeodes volucris,,eatenBy
+61319,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy

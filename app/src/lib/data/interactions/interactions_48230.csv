@@ -1,0 +1,114 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48230,473,Fulica americana,American Coot,eatenBy
+48230,1409,Callipepla californica,California Quail,eatenBy
+48230,69145,Coenonympha california,Common Ringlet,eatenBy
+48230,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+48230,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+48230,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+48230,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+48230,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+48230,82523,Augochlora pura,Pure Green-Sweat bee,eatenBy
+48230,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+48230,906,Meleagris gallopavo,Wild Turkey,eatenBy
+48230,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+48230,6921,Cygnus olor,Mute Swan,eatenBy
+48230,3017,Columba livia,Rock Pigeon,eatenBy
+48230,6915,Cygnus buccinator,Trumpeter Swan,eatenBy
+48230,,http://treatment.plazi.org/id/7C273E6AB0CE3A35DACBD227CAD502C1,,eatenBy
+48230,,Athalia bicolor,,eatenBy
+48230,1018669,Tenthredo mioceras,Silver-haired Green-Tenthredo,eatenBy
+48230,,Pseudodineura fuscula,,eatenBy
+48230,,Tenthredo atra,,eatenBy
+48230,,Cnephasia incertana,,eatenBy
+48230,,Cnephasia asseclana,,eatenBy
+48230,,Clepsis persicana,,eatenBy
+48230,,Trigonophora flammea,,eatenBy
+48230,,Ectropis excellens,,eatenBy
+48230,,Dolycoris baccarum,,eatenBy
+48230,,Cheilosia albitarsis,,eatenBy
+48230,,Phytomyza notata,,eatenBy
+48230,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+48230,,Myodes glareolus,,eatenBy
+48230,,Hydrothassa marginella,,eatenBy
+48230,,Phyllotreta striolata,,eatenBy
+48230,,Hydrothassa glabra,,eatenBy
+48230,,Leiosoma oblongulum,,eatenBy
+48230,,Bagous (Bagous) tempestivus,,eatenBy
+48230,,Leiosoma troglodytes,,eatenBy
+48230,,Leiosoma deflexum,,eatenBy
+48230,,Cryptocephalus aureolus,,eatenBy
+48230,,Coremiella cubispora,,eatenBy
+48230,,Tenthredo (Eurogaster) mioceras,,eatenBy
+48230,,Tenthredo (Tenthredella) atra,,eatenBy
+48230,,Phytomyza albipennis,,eatenBy
+48230,,Napomyza,,eatenBy
+48230,,Phytomyza ranunculi,,eatenBy
+48230,897995,Phytomyza evanescens,,eatenBy
+48230,,Phytomyza ranunculivora,,eatenBy
+48230,,Phytomyza fallaciosa,,eatenBy
+48230,7045,Aythya ferina,Common Pochard,eatenBy
+48230,,Cnephasia stephensiana,,eatenBy
+48230,,Euphydryas editha bayensis,,eatenBy
+48230,,Phyciodes mylitta,,eatenBy
+48230,,Coenonympha california california,,eatenBy
+48230,,Adela flammeusella,,eatenBy
+48230,,Helophilus trivittatus,,eatenBy
+48230,53893,Chlosyne palla,Northern Checkerspot,eatenBy
+48230,,Andrena,,eatenBy
+48230,,Cyrtomoptera divisa,,eatenBy
+48230,,Eupsilia transversa,,eatenBy
+48230,,Adela trigrapha,,eatenBy
+48230,,Calameuta clavata,,eatenBy
+48230,321239,Annaphila diva,,eatenBy
+48230,,Pieris marginalis,,eatenBy
+48230,,Malachius mixtus,,eatenBy
+48230,,Brachysomida californica,,eatenBy
+48230,,Malachius bipustulatus,,eatenBy
+48230,199115,Halictus confusus,Confusing Furrow Bee,eatenBy
+48230,,Chrysolina bankii,,eatenBy
+48230,,Euphydryas editha,,eatenBy
+48230,520456,Icaricia acmon,Acmon Blue,eatenBy
+48230,72502,Anas chlorotis,Brown Teal,eatenBy
+48230,,Lagopus leucura,,eatenBy
+48230,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+48230,,Marmaronetta angustirostris,,eatenBy
+48230,,Dendrocygna bicolor,,eatenBy
+48230,,Anas americana,,eatenBy
+48230,145360,Chloris chloris,European Greenfinch,eatenBy
+48230,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+48230,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+48230,13732,Anthus rubescens,American Pipit,eatenBy
+48230,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+48230,70144,Muscidae,House Flies and Allies,pollinatedBy
+48230,120157,Musca,,pollinatedBy
+48230,53648,Nomada,Nomad Bees,pollinatedBy
+48230,57678,Lasioglossum,,pollinatedBy
+48230,376148,Dasytes,,pollinatedBy
+48230,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+48230,57677,Halictus,Furrow Bees,pollinatedBy
+48230,,Chelostoma florisomne,,pollinatedBy
+48230,177092,Meligethes,,pollinatedBy
+48230,,,,pollinatedBy
+48230,,Liorhyssum hyalinus ,,pollinatedBy
+48230,,Eumerus okinawaensis ,,pollinatedBy
+48230,,Melangyna,,pollinatedBy
+48230,375374,Adoxia,,pollinatedBy
+48230,,Corynis lateralis,,pollinatedBy
+48230,,Andrena humilis,,pollinatedBy
+48230,,Andrena,,pollinatedBy
+48230,,Chelostoma,,pollinatedBy
+48230,,Amphicoma lasserei ,,pollinatedBy
+48230,,Amphicoma,,pollinatedBy
+48230,,Dasytes striatulus ,,pollinatedBy
+48230,,Episyrphus balteatus,,pollinatedBy
+48230,,Anthocopa,,pollinatedBy
+48230,,Usia forcipata ,,pollinatedBy
+48230,,Bibio leucopterus ,,pollinatedBy
+48230,,Scaeva pyrastri,,pollinatedBy
+48230,,Paregle audacula,,pollinatedBy
+48230,,Ammobates oraniensis,,pollinatedBy
+48230,,Eucera,,pollinatedBy
+48230,,Epicometis hirta ,,pollinatedBy
+48230,,Tetralonia,,pollinatedBy
+48230,,Zodion,,pollinatedBy
+48230,,Psilothrix cyaneus ,,pollinatedBy

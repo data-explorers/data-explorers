@@ -1,0 +1,204 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55745,55745,Trifolium repens,white clover,eats
+55745,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+55745,58532,Colias eurytheme,Orange Sulphur,eatenBy
+55745,58533,Colias,Clouded Yellows,eatenBy
+55745,50931,Strymon melinus,Gray Hairstreak,eatenBy
+55745,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+55745,58531,Colias philodice,Clouded Sulphur,eatenBy
+55745,309466,Aphis gossypii,Melon Aphid,eatenBy
+55745,61524,Forficula auricularia,European Earwig,eatenBy
+55745,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+55745,47219,Apis mellifera,Western Honey Bee,eatenBy
+55745,48548,Vanessa cardui,Painted Lady,eatenBy
+55745,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+55745,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+55745,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+55745,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+55745,55745,Trifolium repens,white clover,eatenBy
+55745,52775,Bombus,Bumble Bees,eatenBy
+55745,121517,Bombus terricola,Yellow-banded Bumble Bee,eatenBy
+55745,82792,Celastrina neglecta,Summer Azure,eatenBy
+55745,52484,Celastrina echo,Echo Azure,eatenBy
+55745,55626,Pieris rapae,Cabbage White,eatenBy
+55745,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+55745,48662,Danaus plexippus,Monarch,eatenBy
+55745,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+55745,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+55745,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+55745,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+55745,55655,Lycaena phlaeas,Small Copper,eatenBy
+55745,51876,Trifolium,clovers,eatenBy
+55745,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+55745,7089,Branta canadensis,Canada Goose,eatenBy
+55745,,Tenthredo notha,,eatenBy
+55745,,Tenthredo arcuata,,eatenBy
+55745,,Cnephasia stephensiana,,eatenBy
+55745,,Cornicacoecia lafauryana,,eatenBy
+55745,321981,Pandemis heparana,Dark Fruit-tree Tortrix,eatenBy
+55745,,Grapholita compositella,,eatenBy
+55745,,Zygaena lonicerae,,eatenBy
+55745,,Deltinea,,eatenBy
+55745,,Nomophila noctuella,,eatenBy
+55745,,Oncocera semirubella,,eatenBy
+55745,82279,Automeris io,Io Moth,eatenBy
+55745,424213,Colias lesbia,Lesbia Clouded Yellow,eatenBy
+55745,,Autographa californica,,eatenBy
+55745,,Dargida procinctus,,eatenBy
+55745,55623,Acronicta rumicis,Knot Grass Moth,eatenBy
+55745,,Chionodes lugubrella,,eatenBy
+55745,,Ectropis obliqua,,eatenBy
+55745,217368,Coleophora trifolii,Large Clover Casebearer Moth,eatenBy
+55745,,Nyssiodes lefuarius,,eatenBy
+55745,,Spilosoma lubricipeda,,eatenBy
+55745,914676,Macrosteles laevis,,eatenBy
+55745,,Ophonus schaubergerianus,,eatenBy
+55745,130433,Amara aenea,Common Sun Beetle,eatenBy
+55745,,Amara aulica,,eatenBy
+55745,703086,Euscelis incisus,,eatenBy
+55745,,Ophonus azureus,,eatenBy
+55745,130452,Amara plebeja,,eatenBy
+55745,,Lygus pratensis,,eatenBy
+55745,,Amara sinuosa,,eatenBy
+55745,,Pachytomella arallela,,eatenBy
+55745,,Bruchela rufipes,,eatenBy
+55745,547590,Catapion pubescens,,eatenBy
+55745,,Aphrodes bicincta,,eatenBy
+55745,,Catapion seniculus,,eatenBy
+55745,,Chorthippus apricarius,,eatenBy
+55745,,Aphrodes makarovi,,eatenBy
+55745,,Ischnopterapion virens,,eatenBy
+55745,547575,Anthicus antherinus,,eatenBy
+55745,552756,Orius niger,,eatenBy
+55745,,Chorthippus albomarginatus,,eatenBy
+55745,,Exomias trichopterus,,eatenBy
+55745,,Plagiognathus chrysanthemi,,eatenBy
+55745,,Exomias pellucidus,,eatenBy
+55745,,Drymus ryei,,eatenBy
+55745,,Anisodactylus binotatus,,eatenBy
+55745,,Diachromus germanus,,eatenBy
+55745,,Drymus sylvaticus,,eatenBy
+55745,,Empoasca decipiens,,eatenBy
+55745,,Empoasca solani,,eatenBy
+55745,504708,Ophonus laticollis,,eatenBy
+55745,,Chorthippus parallelus,,eatenBy
+55745,,Agrypnus murinus,,eatenBy
+55745,,Corizus hyoscyami,,eatenBy
+55745,,Peritrechus nubilus,,eatenBy
+55745,,Berytinus clavipes,,eatenBy
+55745,,Peritrechus geniculatus,,eatenBy
+55745,,Helophorus nubilus,,eatenBy
+55745,,Thrips,,eatenBy
+55745,,Chorthippus biguttulus,,eatenBy
+55745,911726,Agallia brachyptera,,eatenBy
+55745,,Anaceratagallia ribauti,,eatenBy
+55745,,Coriomeris denticulatus,,eatenBy
+55745,,Sphragisticus nebulosus,,eatenBy
+55745,456218,Agriotes obscurus,,eatenBy
+55745,,Carpocoris fuscispinus,,eatenBy
+55745,523365,Harpalus griseus,,eatenBy
+55745,,Chlamydatus pullus,,eatenBy
+55745,,Chlamydatus,,eatenBy
+55745,,Hemicrepidius hirtus,,eatenBy
+55745,57677,Halictus,Furrow Bees,pollinatedBy
+55745,449683,Phormia regina,Black Blow Fly,pollinatedBy
+55745,120489,Sarcophaga,Common Flesh Flies,pollinatedBy
+55745,47652,Erynnis,Duskywings,pollinatedBy
+55745,325491,Sayapis,,pollinatedBy
+55745,59119,Pontia protodice,Checkered White,pollinatedBy
+55745,52756,Polistes,Umbrella Paper Wasps,pollinatedBy
+55745,52775,Bombus,Bumble Bees,pollinatedBy
+55745,51557,Bombylius major,Greater Bee Fly,pollinatedBy
+55745,52965,Sphaerophoria,Globetails,pollinatedBy
+55745,82269,Crambus,,pollinatedBy
+55745,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+55745,57674,Osmia,Mason Bees,pollinatedBy
+55745,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+55745,47220,Apis,Honey Bees,pollinatedBy
+55745,122381,Cupido comyntas,Eastern Tailed-Blue,pollinatedBy
+55745,143854,Bombus borealis,Northern Amber Bumble Bee,pollinatedBy
+55745,,Corimelaena pulicaria,,pollinatedBy
+55745,,Neaera robertsonii,,pollinatedBy
+55745,,Perilampus platigaster,,pollinatedBy
+55745,538874,Bombias,,pollinatedBy
+55745,,Oxybelus emarginatus,,pollinatedBy
+55745,,Porizon,,pollinatedBy
+55745,452831,Mydaea,,pollinatedBy
+55745,,Anthedon compta,,pollinatedBy
+55745,,Cremastus,,pollinatedBy
+55745,,Centrinites strigicollis,,pollinatedBy
+55745,371923,Senotainia,,pollinatedBy
+55745,,Empis loripedis,,pollinatedBy
+55745,,Leionotus,,pollinatedBy
+55745,,Vipio,,pollinatedBy
+55745,,Cryptus persimilis,,pollinatedBy
+55745,,Tiphia,,pollinatedBy
+55745,,Hister,,pollinatedBy
+55745,1305479,Zodion obliquefasciatum,,pollinatedBy
+55745,,Lucilia sericata ,,pollinatedBy
+55745,,Bracon,,pollinatedBy
+55745,,Biomyia,,pollinatedBy
+55745,,Ichneumon longulus,,pollinatedBy
+55745,,Scolia nobilitata,,pollinatedBy
+55745,,Cuphocera,,pollinatedBy
+55745,,Machaeris,,pollinatedBy
+55745,,Gnathias,,pollinatedBy
+55745,,Evylaeus,,pollinatedBy
+55745,,Apallates coxendix,,pollinatedBy
+55745,133977,Sinea diadema,Spined Assassin Bug,pollinatedBy
+55745,,Andrena carlini,,pollinatedBy
+55745,,Lispe albitarsis,,pollinatedBy
+55745,,Nysson plagiatus,,pollinatedBy
+55745,,Mesogramma,,pollinatedBy
+55745,,Clusia lateralis,,pollinatedBy
+55745,,Zodion palpalis,,pollinatedBy
+55745,,Chrysotachina alcedo,,pollinatedBy
+55745,,Conura torvina,,pollinatedBy
+55745,,Hiatomyia cyanescens,,pollinatedBy
+55745,70405,Melanostoma scalare,Ladder-backed Hover Fly,pollinatedBy
+55745,,,,pollinatedBy
+55745,,Rhopalum,,pollinatedBy
+55745,,Bombus hypocrita,,pollinatedBy
+55745,,Ceratina flavipes ,,pollinatedBy
+55745,,Campsomeris testaceipes ,,pollinatedBy
+55745,,Zizeeria maha ,,pollinatedBy
+55745,,Sphaerophoria macrogaster ,,pollinatedBy
+55745,,Formica japonica ,,pollinatedBy
+55745,,Everes argiades ,,pollinatedBy
+55745,,Paragus tibialis ,,pollinatedBy
+55745,,Empis,,pollinatedBy
+55745,,Apion apricans,,pollinatedBy
+55745,,Apion,,pollinatedBy
+55745,121357,Platycheirus,Sedgesitters,pollinatedBy
+55745,,Bombus lucorum,,pollinatedBy
+55745,,Craspedochoeata sp1 M_PL_049,,pollinatedBy
+55745,,Kateretes pedicularius,,pollinatedBy
+55745,,Eristalis interrupta,,pollinatedBy
+55745,,Neoascia,,pollinatedBy
+55745,128544,Thymelicus sylvestris,Small Skipper,pollinatedBy
+55745,,Delia,,pollinatedBy
+55745,,Maniola jurtina,,pollinatedBy
+55745,,Meligethes aeneus,,pollinatedBy
+55745,,Meliscaeva cinctella,,pollinatedBy
+55745,177092,Meligethes,,pollinatedBy
+55745,,Bombus lapidarius,,pollinatedBy
+55745,,Polyommatus icarus ,,pollinatedBy
+55745,,Bombus pascuorum,,pollinatedBy
+55745,,Malachius,,pollinatedBy
+55745,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+55745,,Argirophenga sp1 M_PL_028,,pollinatedBy
+55745,,Lycaena salustius,,pollinatedBy
+55745,,Apis cerana ,,pollinatedBy
+55745,,Eucera,,pollinatedBy
+55745,,Anthocopa,,pollinatedBy
+55745,,Merodon longicornis,,pollinatedBy
+55745,,Undefined sp10 M_PL_018,,pollinatedBy
+55745,,Undefined sp26 M_PL_018,,pollinatedBy
+55745,,Undefined sp20 M_PL_018,,pollinatedBy
+55745,,Undefined sp19 M_PL_018,,pollinatedBy
+55745,,Undefined sp2 M_PL_018,,pollinatedBy
+55745,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+55745,,Cantharis lateralis,,preyedUponBy
+55745,,Amara communis,,preyedUponBy
+55745,,Aeolothrips intermedius,,preyedUponBy
+55745,,Cantharis fusca,,preyedUponBy

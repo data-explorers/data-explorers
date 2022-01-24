@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+361766,41729,Mirounga leonina,Southern Elephant Seal,eatenBy
+361766,194676,Dissostichus eleginoides,Patagonian Toothfish,eatenBy
+361766,63508,Lamna nasus,Porbeagle,eatenBy
+361766,92121,Somniosus,,eatenBy
+361766,3824,Eudyptes schlegeli,Royal Penguin,eatenBy
+361766,3827,Eudyptes chrysocome,Southern Rockhopper Penguin,eatenBy
+361766,144433,Thalassarche melanophris,Black-browed Albatross,eatenBy
+361766,508990,Diomedea exulans,Wandering Albatross,eatenBy
+361766,4090,Thalassarche chrysostoma,Gray-headed Albatross,eatenBy
+361766,,Otaria flavescens,,eatenBy
+361766,74890,Physeter macrocephalus,Sperm Whale,eatenBy

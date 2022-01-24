@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47485,194792,Carabus auratus,Golden Ground Beetle,eatenBy
+47485,4776,Anastomus lamelligerus,African Openbill,eatenBy
+47485,345095,Scaphinotus cristatus,,eatenBy
+47485,125920,Anguilla australis,Short-finned Eel,eatenBy
+47485,,North American deermouse,,eatenBy
+47485,226720,Oxychilus draparnaudi,Draparnaud's Glass Snail,preyedUponBy
+47485,28556,Storeria storerioides,Mexican Brown Snake,preyedUponBy
+47485,,Ninia diademata,,preyedUponBy
+47485,28261,Tropidodipsas sartorii,Terrestrial Snail Sucker,preyedUponBy
+47485,29285,Ninia sebae,Red Coffee Snake,preyedUponBy
+47485,,Cybister,,preyedUponBy

@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121685,,PhytoP,,eats
+121685,,Zooplankton,,preysOn
+121685,,Morula uva,,preyedUponBy
+121685,,Tenguella granulata,,preyedUponBy

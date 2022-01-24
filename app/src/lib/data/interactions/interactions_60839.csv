@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60839,47351,Prunus,"plums, cherries, and allies",eats
+60839,51874,Lonicera,honeysuckles,eats
+60839,60773,Vitis,grapevines,eats
+60839,51737,Solanum lycopersicum,tomato,eats
+60839,72151,Gossypium,Cottons,eats
+60839,57983,Helianthus annuus,Common Sunflower,eats
+60839,60271,Asparagus,Asparagus,eats
+60839,83157,Hydrangea,hydrangeas,eats
+60839,53106,Lactuca,lettuces,eats
+60839,57057,Medicago sativa,Alfalfa,eats
+60839,56955,Helianthus,sunflowers,eats
+60839,78755,Prunus persica,Peach,eats
+60839,47726,Acer negundo,boxelder,eats
+60839,52543,Acer saccharum,sugar maple,eats
+60839,52344,Ipomoea purpurea,common morning-glory,eats
+60839,47701,Geranium,geraniums and cranesbills,eats
+60839,53036,Ambrosia,ragweeds,eats
+60839,62205,Alcea rosea,Hollyhock,eats
+60839,62941,Ipomoea batatas,sweet potato,eats
+60839,54495,Juglans,Walnuts,eats
+60839,53352,Alnus,alders,eats
+60839,52326,Amaranthus,amaranths,eats
+60839,50644,Salvia,Sages,eats
+60839,48098,Acer rubrum,red maple,eats
+60839,47888,Impatiens capensis,common jewelweed,eats
+60839,47911,Asclepias syriaca,common milkweed,eats
+60839,,Persicaria punctata,,eats
+60839,,Glycine max,,eats
+60839,122976,Lactuca sativa,lettuce,eats
+60839,,Cucumella,,eats
+60839,48448,Zea mays,Maize,eats
+60839,,Phaseolus,,eats
+60839,,Lycopersicon,,eats
+60839,48592,Allium cepa,Common Onion,eats
+60839,53034,Ambrosia trifida,giant ragweed,eats
+60839,,Salsola kali,,eats
+60839,,Hyacinthus orientalis,,eats
+60839,,Gossypium herbaceum,,eats
+60839,,Juglans cinerea,,eats
+60839,63205,Arachis hypogaea,Peanut,eats
+60839,143563,Agaricus campestris,Meadow Mushroom,eats
+60839,,Passiflora incarnata,,eats
+60839,,Echinodorus cordifolius,,eats
+60839,12942,Sialia sialis,Eastern Bluebird,eatenBy
+60839,,Corynorhinus rafinesquii,,preyedUponBy

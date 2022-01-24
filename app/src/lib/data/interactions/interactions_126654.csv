@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126654,53843,Brephidium exilis,Western Pygmy-Blue,eatenBy
+126654,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+126654,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+126654,47208,Coleoptera,Beetles,pollinatedBy
+126654,47822,Diptera,Flies,pollinatedBy
+126654,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+126654,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+126654,61356,Vespula,Ground Yellowjackets,pollinatedBy

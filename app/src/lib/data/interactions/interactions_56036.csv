@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56036,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+56036,6317,Calypte anna,Anna's Hummingbird,eatenBy
+56036,6363,Selasphorus rufus,Rufous Hummingbird,eatenBy
+56036,48662,Danaus plexippus,Monarch,eatenBy
+56036,6359,Selasphorus sasin,Allen's Hummingbird,eatenBy
+56036,47219,Apis mellifera,Western Honey Bee,eatenBy
+56036,12612,Anthornis melanura,New Zealand Bellbird,eatenBy
+56036,202505,Zosterops lateralis,Silvereye,eatenBy
+56036,,Vespula alascensis,,eatenBy
+56036,340923,Scolypopa australis,Passionvine hopper,eatenBy
+56036,5562,Trochilidae,Hummingbirds,pollinatedBy
+56036,47158,Insecta,Insects,pollinatedBy
+56036,3,Aves,Birds,pollinatedBy
+56036,47922,Nymphalidae,Brush-footed Butterflies,pollinatedBy
+56036,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

@@ -1,0 +1,133 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52965,56112,Symphyotrichum,American asters,eats
+52965,56057,Leucanthemum vulgare,oxeye daisy,eats
+52965,53453,Salix,Willows,eats
+52965,53021,Convolvulus arvensis,field bindweed,eats
+52965,48226,Eschscholzia,,eats
+52965,47603,Taraxacum,dandelions,eats
+52965,47204,Brassicaceae,mustard family,eats
+52965,48699,Apiaceae,carrot family,eats
+52965,632790,Asteroideae,,eats
+52965,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+52965,53359,Baccharis pilularis,coyote brush,eats
+52965,54999,Eriogonum fasciculatum,California buckwheat,eats
+52965,461542,Astereae,asters and allies,eats
+52965,447425,Cichorioideae,"chicories, dandelions, and allies",eats
+52965,61906,Helminthotheca echioides,bristly oxtongue,eats
+52965,76610,Daucus carota,wild carrot,eats
+52965,359450,Cichorieae,,eats
+52965,54051,Crepis,Hawksbeard,eats
+52965,48225,Eschscholzia californica,California poppy,eats
+52965,48231,Ranunculaceae,buttercup family,eats
+52965,,Cirsium palustre,,eats
+52965,,Claytonia perfoliata,,eats
+52965,55512,Didemnum,Wrinkled Sea Mats,eats
+52965,,Cichorium intybus,,eats
+52965,56962,Hemizonia,,eats
+52965,,Madia,,eats
+52965,,Jacobaea vulgaris,,eats
+52965,,Crepis vesicaria,,eats
+52965,58185,Phacelia tanacetifolia,Lacy phacelia,eats
+52965,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+52965,47359,Apocynum androsaemifolium,spreading dogbane,pollinates
+52965,52821,Achillea millefolium,Common Yarrow,pollinates
+52965,56121,Capsella bursa-pastoris,shepherd's-purse,pollinates
+52965,159830,Cardamine bulbosa,bulbous cress,pollinates
+52965,68685,Cassia,,pollinates
+52965,56057,Leucanthemum vulgare,oxeye daisy,pollinates
+52965,127907,Chamaecrista fasciculata,partridge pea,pollinates
+52965,64538,Celastrus scandens,American bittersweet,pollinates
+52965,75445,Anethum graveolens,Dill,pollinates
+52965,61340,Cirsium discolor,field thistle,pollinates
+52965,47726,Acer negundo,boxelder,pollinates
+52965,60214,Abutilon theophrasti,velvetleaf,pollinates
+52965,60125,Cicuta maculata,water hemlock,pollinates
+52965,130373,Coreopsis palmata,Prairie Coreopsis,pollinates
+52965,79157,Sonchus tenerrimus,slender sowthistle,pollinates
+52965,47603,Taraxacum,dandelions,pollinates
+52965,402509,Pilosella officinarum,mouse-eared hawkweed,pollinates
+52965,55745,Trifolium repens,white clover,pollinates
+52965,55981,Lapsana communis,nipplewort,pollinates
+52965,118774,Maianthemum trifolium,three-leaved false Solomon’s seal,pollinates
+52965,132767,Chamaedaphne calyculata,leatherleaf,pollinates
+52965,117433,Euonymus alatus,winged euonymus,pollinates
+52965,47602,Taraxacum officinale,common dandelion,pollinates
+52965,67748,Maianthemum canadense,Canada mayflower,pollinates
+52965,53794,Clintonia borealis,bluebead lily,pollinates
+52965,,Alisma,,pollinates
+52965,,Amaranthus spinosus,,pollinates
+52965,,Cornus amomum,,pollinates
+52965,,Castilleja coccinea,,pollinates
+52965,53034,Ambrosia trifida,giant ragweed,pollinates
+52965,,Agrimonia striata,,pollinates
+52965,133382,Amelanchier canadensis,Canadian serviceberry,pollinates
+52965,,Chaerophyllum procumbens,,pollinates
+52965,52973,Cerastium glomeratum,Sticky mouse-ear chickweed,pollinates
+52965,,Circaea lutetiana,,pollinates
+52965,,Cerastium nutans,,pollinates
+52965,,Antennaria plantaginifolia,,pollinates
+52965,,Calystegia sepium sepium,,pollinates
+52965,,Cephalanthus occidentalis,,pollinates
+52965,,Cirsium altissimum,,pollinates
+52965,59991,Comandra umbellata,Bastard Toadflax,pollinates
+52965,116349,Collinsia verna,spring blue-eyed Mary,pollinates
+52965,129634,Agastache nepetoides,yellow giant hyssop,pollinates
+52965,58795,Apocynum cannabinum,hemp dogbane,pollinates
+52965,62778,Clematis virginiana,virgin's-bower,pollinates
+52965,,Coreopsis tripteris,,pollinates
+52965,,Caulophyllum thalictroides,,pollinates
+52965,,Cirsium lanceolatum,,pollinates
+52965,,http://treatment.plazi.org/id/9966E2297D64C1029E81555AD33F02CD,,pollinates
+52965,,http://treatment.plazi.org/id/7CF5D90BA350ADBB07186A8272DB4681,,pollinates
+52965,,Nymphaea odorata tuberosa,,pollinates
+52965,,Clematis pitcheri,,pollinates
+52965,,Cirsium pumilum,,pollinates
+52965,,Campanula americana,,pollinates
+52965,,Verbesina alternifolia,,pollinates
+52965,,http://treatment.plazi.org/id/FD4C81A5CD2276CF046E0FA226D20EE3,,pollinates
+52965,,Cercis canadensis,,pollinates
+52965,54777,Cornus florida,flowering dogwood,pollinates
+52965,,Cistus monspeliensis,,pollinates
+52965,,http://treatment.plazi.org/id/57B093EC75B57866C014F2BC52E9DD47,,pollinates
+52965,371978,Callicarpa japonica,Japanese Beautyberry,pollinates
+52965,,Stenactis annua,,pollinates
+52965,,Aster yomena,,pollinates
+52965,,Deutzia crenata,,pollinates
+52965,333071,Persicaria thunbergii,,pollinates
+52965,,Ranunculus silerifolius,,pollinates
+52965,170203,Viburnum plicatum,Japanese snowball,pollinates
+52965,,Torilis japonica,,pollinates
+52965,155567,Abelia,Abelias,pollinates
+52965,,Cladrastis sikokiana,,pollinates
+52965,,Centaurea jacea,,pollinates
+52965,,Galium palustre,,pollinates
+52965,,Potentilla erecta,,pollinates
+52965,61321,Lythrum salicaria,purple loosestrife,pollinates
+52965,119450,Calluna vulgaris,common heather,pollinates
+52965,64714,Vaccinium uliginosum,bog bilberry,pollinates
+52965,,Hieracium umbellatum,,pollinates
+52965,,Salix repens,,pollinates
+52965,,Trientalis europaea,,pollinates
+52965,,Genista anglica,,pollinates
+52965,,Hypochoeris radicata,,pollinates
+52965,,Solidago virgaurea,,pollinates
+52965,,Tripleurospermum inodorum,,pollinates
+52965,,Ledum groenlandicum,,pollinates
+52965,128798,Aronia melanocarpa,black chokeberry,pollinates
+52965,635686,Astilbe thunbergii,Ostrich Plume,pollinates
+52965,416650,Ixeridium dentatum,,pollinates
+52965,122786,Castanea crenata,Japanese Chestnut,pollinates
+52965,,Anthriscus aemula,,pollinates
+52965,,Hydrangea paniculata,,pollinates
+52965,,Phellodendron amurense,,pollinates
+52965,,Lysimachia clethroides,,pollinates
+52965,,Thymus,,pollinates
+52965,,Filipendula ulmaria,,pollinates
+52965,,Galium verum,,pollinates
+52965,,Lathyrus pratensis,,pollinates
+52965,,Orchis morio,,pollinates
+52965,132527,Rosa acicularis,Prickly Wild Rose,pollinates
+52965,77780,Linnaea borealis,twinflower,pollinates
+52965,,Sonchus arvensis,,pollinates
+52965,52380,Aphidoidea,,preysOn
+52965,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

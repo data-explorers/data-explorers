@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52971,55626,Pieris rapae,Cabbage White,eatenBy
+52971,57681,Anthophora urbana,Urbane Digger Bee,eatenBy
+52971,,Aetole extraneella,,eatenBy
+52971,,Deilephila elpenor,,eatenBy

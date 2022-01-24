@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85485,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+85485,50931,Strymon melinus,Gray Hairstreak,eatenBy
+85485,,Cerotoma trifurcata,,eatenBy
+85485,,http://treatment.plazi.org/id/A50287F3FFF4FFFAFF0EF887FC93F854,,eatenBy
+85485,,Euchrysops,,eatenBy
+85485,,Everes argiades,,eatenBy
+85485,,http://treatment.plazi.org/id/03F24A640132A941FF39AEC8FC3EFA8A,,eatenBy
+85485,198823,Pyrisitia lisa lisa,Northern Little Yellow,eatenBy
+85485,,Aeologramma,,eatenBy
+85485,,Autochton cellus,,eatenBy
+85485,227952,Phyllonorycter morrisella,,eatenBy
+85485,926763,Hyloconis puerariae,,eatenBy
+85485,355512,Gerosis phisara,White-banded Flat,eatenBy
+85485,323767,Dercas verhuelli,Tailed Sulphur,eatenBy
+85485,67435,Urbanus proteus,Long-tailed Skipper,eatenBy
+85485,508150,Macrosaccus morrisella,,eatenBy
+85485,52775,Bombus,Bumble Bees,pollinatedBy

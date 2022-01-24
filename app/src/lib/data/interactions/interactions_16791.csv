@@ -1,0 +1,95 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+16791,47208,Coleoptera,Beetles,eats
+16791,47158,Insecta,Insects,eats
+16791,47157,Lepidoptera,Butterflies and Moths,eats
+16791,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+16791,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+16791,47822,Diptera,Flies,eats
+16791,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+16791,47792,Odonata,Dragonflies and Damselflies,eats
+16791,47118,Araneae,Spiders,eats
+16791,50186,Cicadidae,Typical Cicadas,eats
+16791,61267,Heteroptera,True Bugs,eats
+16791,47124,Magnoliopsida,dicots,eats
+16791,47219,Apis mellifera,Western Honey Bee,eats
+16791,51559,Bombylius,Greater Bee Flies,eats
+16791,57140,Olea europaea,Olive,eats
+16791,52689,Sambucus,elders,eats
+16791,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+16791,141726,Nezara,,eats
+16791,47199,Ichneumonidae,Ichneumonid Wasps,eats
+16791,47951,Staphylinidae,Rove Beetles,eats
+16791,1,Animalia,Animals,eats
+16791,60538,Geotrupes,,eats
+16791,53248,Elateridae,Click Beetles,eats
+16791,52781,Melissodes,,eats
+16791,20978,Amphibia,Amphibians,eats
+16791,47927,Anisoptera,Dragonflies,eats
+16791,,Euphoria,,eats
+16791,,Aphodius,,eats
+16791,,Epicauta,,eats
+16791,,Podisus modestus,,eats
+16791,,Hylaeus affinis,,eats
+16791,84734,Agabus,,eats
+16791,,Aphodius fimetarius,,eats
+16791,,Anisodactylus similis,,eats
+16791,121294,Curculio,Nut and Acorn Weevils,eats
+16791,,Habropoda,,eats
+16791,,Heterosilpha ramosa,,eats
+16791,,Judolia instabilis,,eats
+16791,,Euphoria inda,,eats
+16791,,Atholus americanus,,eats
+16791,,Canthon imitator,,eats
+16791,,Lichnanthe ursina,,eats
+16791,,Calocoris,,eats
+16791,,Hydaticus continentalis,,eats
+16791,,Anisodactylus sanctaecrucis,,eats
+16791,132020,Platynus,,eats
+16791,,Onthophagus hecate,,eats
+16791,,Andrena,,eats
+16791,,Odonteus,,eats
+16791,,Cremastocheilus,,eats
+16791,,Euschistus servus,,eats
+16791,,Onthophagus,,eats
+16791,,Eurygaster alternata,,eats
+16791,51148,Crataegus,hawthorns,eats
+16791,,Sabal,,eats
+16791,,Tabernaemontana litoralis,,eats
+16791,283078,Achatocarpus nigricans,,eats
+16791,,Opuntia stricta,,eats
+16791,,Brosimum alicastrum,,eats
+16791,,Sapranthus microcarpus,,eats
+16791,,Casearia arborea,,eats
+16791,,Malpighia glabra,,eats
+16791,,Trophis racemosa,,eats
+16791,,Psychotria lauracea,,eats
+16791,,Eugenia acapulcensis,,eats
+16791,,Ficus lapathifolia,,eats
+16791,,Phoradendron quadrangulare,,eats
+16791,127936,Chiococca alba,West Indian milkberry,eats
+16791,,Guettarda elliptica,,eats
+16791,,Karwinskia humboldtiana,,eats
+16791,,Vitis biformis,,eats
+16791,,Coccoloba barbadensis,,eats
+16791,,Nectandra coriacea,,eats
+16791,,Tournefortia hirsutissima,,eats
+16791,,Bromelia pinguin,,eats
+16791,284455,Tabernaemontana alba,,eats
+16791,,Celtis caudata,,eats
+16791,316801,Randia laetevirens,,eats
+16791,,Dendropanax arboreus,,eats
+16791,,Rourea glabra,,eats
+16791,,Cupania dentata,,eats
+16791,,Bursera simaruba,,eats
+16791,,Bursera fagaroides,,eats
+16791,,Psittacanthus,,eats
+16791,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+16791,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+16791,4644,Falco mexicanus,Prairie Falcon,eatenBy
+16791,4645,Falco femoralis,Aplomado Falcon,eatenBy
+16791,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+16791,16791,Tyrannus verticalis,Western Kingbird,preysOn
+16791,84612,Polyphylla decemlineata,Ten-lined June Beetle,preysOn
+16791,29044,Pituophis catenifer,Gopher Snake,preyedUponBy
+16791,16791,Tyrannus verticalis,Western Kingbird,preyedUponBy
+16791,16768,Tyrannus,Kingbirds,preyedUponBy

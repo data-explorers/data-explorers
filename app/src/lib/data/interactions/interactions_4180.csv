@@ -1,0 +1,156 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4180,48173,Pagurus,,eats
+4180,68764,Ostracoda,Seed Shrimp,eats
+4180,48332,Scyphozoa,True Jellies,eats
+4180,1,Animalia,Animals,eats
+4180,47459,Cephalopoda,Cephalopods,eats
+4180,47178,Actinopterygii,Ray-finned Fishes,eats
+4180,121639,Brachyura,True Crabs,eats
+4180,47186,Decapoda,Decapods,eats
+4180,153112,Euphausiacea,krill,eats
+4180,48147,Isopoda,Isopods,eats
+4180,47628,Amphipoda,Amphipods,eats
+4180,85493,Crustacea,Crustaceans,eats
+4180,85532,Mysida,Opossum Shrimps,eats
+4180,48174,Paguridae,Pagurid Hermit Crabs,eats
+4180,48483,Chrysaora,Sea Nettles,eats
+4180,48921,Hydrozoa,Hydrozoans,eats
+4180,195134,Euphausiidae,Euphotic Krill,eats
+4180,53830,Trochidae,Top Snails,eats
+4180,49581,Nereididae,,eats
+4180,82351,Melanogrammus aeglefinus,Haddock,eats
+4180,63740,Gadus morhua,Atlantic Cod,eats
+4180,320793,Trisopterus esmarkii,Norway Pout,eats
+4180,165100,Mallotus villosus,Capelin,eats
+4180,221382,Hippoglossoides platessoides,American Plaice,eats
+4180,118678,Scomber scombrus,Atlantic Mackerel,eats
+4180,97990,Clupea harengus,Atlantic Herring,eats
+4180,61387,Limanda limanda,Sand Dab,eats
+4180,,Sebastes marinus,,eats
+4180,432427,Gonatus fabricii,Boreoatlantic Gonate Squid,eats
+4180,215318,Boreogadus saida,Arctic Cod,eats
+4180,112419,Sebastes mentella,Deepwater Redfish,eats
+4180,558731,Themisto abyssorum,,eats
+4180,,Onisimus nanseni,,eats
+4180,,Onisimus glacialis,,eats
+4180,,Apherusa glacialis,,eats
+4180,59807,Gammarus,,eats
+4180,156879,Argentina,,eats
+4180,639178,Meganyctiphanes norvegica,Northern Krill,eats
+4180,430553,Merlangius merlangus,Whiting,eats
+4180,195087,Thysanoessa inermis,,eats
+4180,86396,Ammodytes,,eats
+4180,,Cephalaspidomorphi,,eats
+4180,706438,Themisto libellula,,eats
+4180,437504,Pandalus borealis,Northern Shrimp,eats
+4180,,Calanus hyperboreus,,eats
+4180,372502,Calanus finmarchicus,,eats
+4180,47762,Sebastes,Rockfishes,eats
+4180,149978,Rossia,,eats
+4180,,Arvicola,,eats
+4180,,Arvicola amphibius,,eats
+4180,,Arvicola scherman,,eats
+4180,,Gnathostomata,,eats
+4180,214112,Arctozenus risso,Ribbon Barracudina,eats
+4180,,Medusozoa,,eats
+4180,,unspecified zooplanktons,,eats
+4180,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4180,82337,Loligo,,eats
+4180,117571,Clupea pallasii,Pacific herring,eats
+4180,146888,Illex,Shortfin Squids,eats
+4180,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4180,,Trisopterus minutus,,eats
+4180,,Etrumeus teres,,eats
+4180,82353,Merluccius,Hakes,eats
+4180,85289,Pseudophycis bachus,Red cod,eats
+4180,55535,Sardinops sagax,Pacific Sardine,eats
+4180,614162,Micromesistius australis,Southern blue whiting,eats
+4180,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4180,129185,Mysis,,eats
+4180,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4180,213402,Ammodytes americanus,American Sand Lance,eats
+4180,324532,Sprattus sprattus,European Sprat,eats
+4180,120702,Micromesistius poutassou,Blue Whiting,eats
+4180,228496,Pollachius virens,Pollock,eats
+4180,180029,Gadus macrocephalus,Pacific Cod,eats
+4180,,Kondakovia longimana,,eats
+4180,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4180,,Teuthida,,eats
+4180,,,,eats
+4180,,Trisopterus esmarckii,,eats
+4180,,Others,,eats
+4180,89655,Lycodes,,eats
+4180,88265,Etrumeus,Red-eye Round Herrings,eats
+4180,,Macruronus magellanicus,,eats
+4180,118600,Sardina pilchardus,European Sardine,eats
+4180,218966,Eleginus gracilis,Saffron Cod,eats
+4180,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4180,318007,Argentina silus,Atlantic Argentine,eats
+4180,,others,,eats
+4180,,Pisces,,eats
+4180,171626,Aetideidae,,eats
+4180,372878,Hyperiidea,,eats
+4180,,Neocalanus plumchrus,,eats
+4180,201711,Euchaetidae,,eats
+4180,567075,Neocalanus cristatus,,eats
+4180,296029,Thysanoessa spinifera,,eats
+4180,,Theragra chalcogramma,,eats
+4180,,Gammaridea,,eats
+4180,,Synisoma,,eats
+4180,144115,Cumacea,Hooded Shrimp,eats
+4180,345356,Limacina helicina,Helicid Pteropod,eats
+4180,41562,Balaenoptera physalus,Fin Whale,eatenBy
+4180,8010,Corvus corax,Common Raven,eatenBy
+4180,42069,Vulpes vulpes,Red Fox,eatenBy
+4180,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4180,42054,Vulpes,Typical Foxes,eatenBy
+4180,41521,Orcinus orca,Orca,eatenBy
+4180,144297,Stercorarius skua,Great Skua,eatenBy
+4180,204533,Larus argentatus,Herring Gull,eatenBy
+4180,4368,Larus marinus,Great Black-backed Gull,eatenBy
+4180,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4180,4389,Larus cachinnans,Caspian Gull,eatenBy
+4180,204496,Corvus corone,Carrion Crow,eatenBy
+4180,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4180,41900,Herpestes ichneumon,Ichneumon,eatenBy
+4180,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4180,,Elaphe situla,,eatenBy
+4180,39407,Varanus griseus,Desert Monitor,eatenBy
+4180,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4180,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4180,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4180,47456,Octopus,,preysOn
+4180,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+4180,432432,Gonatus pyros,Fiery Gonate Squid,preysOn
+4180,,Onychoteuthis borealijaponicus,,preysOn
+4180,337529,Gonatus,Gonate Squids,preysOn
+4180,337528,Gonatidae,Armhook Squids,preysOn
+4180,432422,Gonatopsis borealis,Boreopacific Armhook Squid,preysOn
+4180,47762,Sebastes,Rockfishes,preysOn
+4180,213519,Anarhichas lupus,Atlantic Wolffish,preysOn
+4180,,Eumicotremus derjugini,,preysOn
+4180,220718,Gymnocanthus tricuspis,Arctic Staghorn Sculpin,preysOn
+4180,,Hipoglossoides platessoides,,preysOn
+4180,437504,Pandalus borealis,Northern Shrimp,preysOn
+4180,,Liparis liparis,,preysOn
+4180,112419,Sebastes mentella,Deepwater Redfish,preysOn
+4180,223433,Leptoclinus maculatus,Daubed Shanny,preysOn
+4180,89655,Lycodes,,preysOn
+4180,63740,Gadus morhua,Atlantic Cod,preysOn
+4180,213639,Anisarchus medius,Stout Eelblenny,preysOn
+4180,48397,Raja clavata,Thornback Skate,preysOn
+4180,47639,Myoxocephalus scorpius,Shorthorn Sculpin,preysOn
+4180,459668,Sabinea septemcarinata,Sevenline Shrimp,preysOn
+4180,229837,Reinhardtius hippoglossoides,Greenland Halibut,preysOn
+4180,,Artediellus europeus,,preysOn
+4180,224163,Lumpenus lampretaeformis,Snakeblenny,preysOn
+4180,459669,Sclerocrangon boreas,Sculptured Shrimp,preysOn
+4180,222760,Lebbeus polaris,Polar Lebbeid Shrimp,preysOn
+4180,459679,Spirontocaris spinus,Parrot Shrimp,preysOn
+4180,165100,Mallotus villosus,Capelin,preysOn
+4180,216119,Careproctus reinhardti,Sea Tadpole,preysOn
+4180,,Leptagonus decagonus,,preysOn
+4180,,Sebastes marinus,,preysOn
+4180,83159,Liparis,Widelip Orchids,preysOn
+4180,215318,Boreogadus saida,Arctic Cod,preysOn
+4180,432427,Gonatus fabricii,Boreoatlantic Gonate Squid,preysOn

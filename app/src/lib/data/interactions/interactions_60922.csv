@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60922,47434,Poaceae,grasses,eats
+60922,47161,Cyperaceae,sedges,eats
+60922,53453,Salix,Willows,eats
+60922,,roots,,eats
+60922,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+60922,121922,Eublemma,,eatenBy
+60922,,parasitic hymenopterous larvae,,eatenBy
+60922,,Pimelodus maculatus,,eatenBy
+60922,,Chanda nama,,eatenBy
+60922,620314,Isopisthus parvipinnis,,eatenBy
+60922,,Osteoglossum bicirrhosum,,eatenBy
+60922,318007,Argentina silus,Atlantic Argentine,eatenBy
+60922,95066,Balistes vetula,Queen Triggerfish,eatenBy
+60922,,Hoplosternum littorale,,eatenBy
+60922,179612,Diapterus rhombeus,Rhombic Mojarra,eatenBy
+60922,179598,Eucinostomus gula,Silver Jenny,eatenBy
+60922,,Rhamdia quelen,,eatenBy
+60922,617016,Coelorinchus marinii,,eatenBy
+60922,317310,Polymixia lowei,Beardfish,eatenBy
+60922,,Photopectoralis bindus,,eatenBy
+60922,,Chrysichthys nigrodigitatus,,eatenBy
+60922,,Chromidotilapia guntheri,,eatenBy
+60922,113902,Terapon jarbua,Crescent Grunter,eatenBy
+60922,,Rhyparochromus,,eatenBy
+60922,,Camponotus nicobarensis,,eatenBy
+60922,,Anatis ocellata,,preyedUponBy
+60922,,Aphidecta obliterata,,preyedUponBy
+60922,,Exochomus quadripustulatus,,preyedUponBy
+60922,,Chilocorus renipustulatus,,preyedUponBy
+60922,343145,Nephus quadrimaculatus,Four-spotted Nephus,preyedUponBy
+60922,,Myzia oblongoguttata,,preyedUponBy
+60922,,Scymnus (Pullus) suturalis,,preyedUponBy
+60922,,Scymnus nigrinus,,preyedUponBy
+60922,,Anthribus fasciatus,,preyedUponBy
+60922,,Anthribus nebulosus,,preyedUponBy

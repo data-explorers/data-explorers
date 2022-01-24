@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57810,47549,Echinodermata,Echinoderms,eats
+57810,85493,Crustacea,Crustaceans,eats
+57810,47115,Mollusca,Molluscs,eats
+57810,1,Animalia,Animals,eats
+57810,,,,eats
+57810,,Gnathostomata,,eats
+57810,,Heterodontus galeatus,,preyedUponBy

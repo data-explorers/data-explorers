@@ -1,0 +1,126 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50168,,Corvus caurinus,,eatenBy
+50168,61267,Heteroptera,True Bugs,preysOn
+50168,53237,Cicadellidae,Typical Leafhoppers,preysOn
+50168,47415,Pardosa,Thin-legged Wolf Spiders,preysOn
+50168,47208,Coleoptera,Beetles,preysOn
+50168,52932,Cantharidae,Soldier Beetles,preysOn
+50168,132449,Serica,,preysOn
+50168,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+50168,47951,Staphylinidae,Rove Beetles,preysOn
+50168,50168,Gnaphosidae,Ground Spiders,preysOn
+50168,51146,Chrysomelidae,Leaf Beetles,preysOn
+50168,47371,Theridiidae,Cobweb Spiders,preysOn
+50168,47868,Philodromidae,Running Crab Spiders,preysOn
+50168,84523,Dictynidae,Meshweavers,preysOn
+50168,373402,Cossoninae,,preysOn
+50168,,Camponotus cruentatus,,preysOn
+50168,1000693,Myllaena dubia,,preysOn
+50168,,Haplothrips,,preysOn
+50168,203242,Aleocharinae,,preysOn
+50168,123608,Delphacidae,,preysOn
+50168,569944,Limothrips denticornis,,preysOn
+50168,,Eupterygini,,preysOn
+50168,,Pirata,,preysOn
+50168,153881,Ozyptila,Leaflitter Crab Spiders,preysOn
+50168,172978,Atheta,vexing rove beetles,preysOn
+50168,,Ectinus aterrimus,,preysOn
+50168,,Athous,,preysOn
+50168,,Elater ferrugineus,,preysOn
+50168,1004314,Oxypoda annularis,,preysOn
+50168,121773,Clubionidae,Sac Spiders,preysOn
+50168,377626,Pergamasus,,preysOn
+50168,490815,Neobisium carcinoides,Moss Neobisid,preysOn
+50168,784149,Diplocephalus picinus,,preysOn
+50168,,Tachyusa,,preysOn
+50168,494566,Athous subfuscus,,preysOn
+50168,568199,Lithobius curtipes,,preysOn
+50168,510480,Othius,,preysOn
+50168,490816,Neobisium,,preysOn
+50168,203275,Xantholinus,,preysOn
+50168,174025,Dalopius marginatus,,preysOn
+50168,,Velleius,,preysOn
+50168,,Heterothops,,preysOn
+50168,457780,Geostiba circellaris,,preysOn
+50168,778699,Macrargus rufus,,preysOn
+50168,,Anyphaena accentuata,,preysOn
+50168,,Agriotes,,preysOn
+50168,,Heterothops minutus,,preysOn
+50168,,Lithobius,,preysOn
+50168,,Pachylaelaps laeuchlii,,preysOn
+50168,778930,Tenuiphantes mengei,,preysOn
+50168,,Scutigerella immaculata,,preysOn
+50168,,Campodea,,preysOn
+50168,,Microneta viaria,,preysOn
+50168,,Macrocheles dentatus,,preysOn
+50168,783981,Tapinocyba insecta,,preysOn
+50168,,Leptusa,,preysOn
+50168,359911,Staphylininae,,preysOn
+50168,783966,Maro minutus,,preysOn
+50168,,Tenuiphantes flavipes,,preysOn
+50168,,Cordalia,,preysOn
+50168,,Habrocerus capillaricornis,,preysOn
+50168,,Pachylaelaps longisetosus,,preysOn
+50168,,Vulgarogamasus kraepelini,,preysOn
+50168,953750,Acrotona sylvicola,,preysOn
+50168,,Veigaia kochi,,preysOn
+50168,708618,Liogluta longiuscula,,preysOn
+50168,,Cilea,,preysOn
+50168,1029352,Scolopendrella,,preysOn
+50168,,Pergamasus runcatellus,,preysOn
+50168,,Pergamasus norvegicus,,preysOn
+50168,153717,Liocranidae,liocranid spiders,preysOn
+50168,,Ptiliidae,,preysOn
+50168,,Erotylidae,,preysOn
+50168,,Cochlodryas,,preysOn
+50168,177515,Leptacinus,,preysOn
+50168,,Liodidae,,preysOn
+50168,1004280,Othius subuliformis,,preysOn
+50168,,Tapinocyba praecox,,preysOn
+50168,,Macrocheles,,preysOn
+50168,176214,Oxypoda,,preysOn
+50168,,Pergamasus quisquiliarum,,preysOn
+50168,,Macrocheles opacus,,preysOn
+50168,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+50168,55470,Arctosa,Bear Spiders,preyedUponBy
+50168,47951,Staphylinidae,Rove Beetles,preyedUponBy
+50168,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+50168,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+50168,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+50168,49567,Carabidae,Ground Beetles,preyedUponBy
+50168,47416,Lycosidae,Wolf Spiders,preyedUponBy
+50168,32512,Rena dulcis,Texas Blind Snake,preyedUponBy
+50168,,Stiphidion facetum,,preyedUponBy
+50168,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+50168,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+50168,131962,Stenus,,preyedUponBy
+50168,,Nestus,,preyedUponBy
+50168,69599,Tetramorium,Fierce ants,preyedUponBy
+50168,784329,Robertus insignis,,preyedUponBy
+50168,,Haplodrassus silvstris,,preyedUponBy
+50168,,Cochlodryas,,preyedUponBy
+50168,705967,Harpactea lepida,,preyedUponBy
+50168,,Lithobius erythrocephalus,,preyedUponBy
+50168,739596,Lithobius mutabilis,,preyedUponBy
+50168,,Lithobius,,preyedUponBy
+50168,,Lathrobium brunnipes,,preyedUponBy
+50168,568199,Lithobius curtipes,,preyedUponBy
+50168,130409,Abax parallelepipedus,,preyedUponBy
+50168,,Geophilus truncorum,,preyedUponBy
+50168,,Lithobius forficatus,,preyedUponBy
+50168,,Amaurobius fenestralis,,preyedUponBy
+50168,131880,Notiophilus biguttatus,,preyedUponBy
+50168,230519,Schendyla nemorensis,,preyedUponBy
+50168,154600,Agonum,,preyedUponBy
+50168,521083,Strigamia acuminata,,preyedUponBy
+50168,783673,Apostenus fuscus,,preyedUponBy
+50168,452503,Robertus lividus,,preyedUponBy
+50168,212779,Agonum muelleri,,preyedUponBy
+50168,491485,Pterostichus oblongopunctatus,Bronzed Blackclock,preyedUponBy
+50168,360548,Zora spinimana,,preyedUponBy
+50168,,Oodes helipioides,,preyedUponBy
+50168,336908,Cryptops hortensis,Common Cryptops,preyedUponBy
+50168,494277,Molops piceus,,preyedUponBy
+50168,637234,Xysticus erraticus,,preyedUponBy
+50168,765638,Lithobius calcaratus,,preyedUponBy
+50168,547856,Synuchus vivalis,,preyedUponBy

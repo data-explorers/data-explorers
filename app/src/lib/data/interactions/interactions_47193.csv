@@ -1,0 +1,106 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47193,,Cornus stolonif,,eats
+47193,47158,Insecta,Insects,eatenBy
+47193,7998,Corvus,Crows and Ravens,eatenBy
+47193,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eatenBy
+47193,12890,Catharus guttatus,Hermit Thrush,eatenBy
+47193,12901,Catharus fuscescens,Veery,eatenBy
+47193,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+47193,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47193,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47193,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+47193,12727,Turdus migratorius,American Robin,eatenBy
+47193,12942,Sialia sialis,Eastern Bluebird,eatenBy
+47193,42069,Vulpes vulpes,Red Fox,eatenBy
+47193,14850,Sturnus vulgaris,European Starling,eatenBy
+47193,889,Bonasa,,eatenBy
+47193,127511,Fomes,,eatenBy
+47193,47114,Gastropoda,Gastropods,eatenBy
+47193,43584,Homo sapiens,Human,eatenBy
+47193,46260,Tamiasciurus hudsonicus,American Red Squirrel,eatenBy
+47193,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+47193,82792,Celastrina neglecta,Summer Azure,eatenBy
+47193,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+47193,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+47193,126545,Dialictus,Metallic Sweat Bees,eatenBy
+47193,57678,Lasioglossum,,eatenBy
+47193,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47193,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47193,17355,Vireo,Vireos,eatenBy
+47193,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+47193,17013,Sayornis nigricans,Black Phoebe,eatenBy
+47193,,canker,,eatenBy
+47193,,Saperda,,eatenBy
+47193,,Celastrina argiolus,,eatenBy
+47193,60896,Callophrys rubi,Green Hairstreak,eatenBy
+47193,,Eupoecilia ambiguella,,eatenBy
+47193,,Parlatoria theae,,eatenBy
+47193,270318,Phyllophaga ephilida,,eatenBy
+47193,,Melanaspis obscura,,eatenBy
+47193,,Heterocampa guttivitta,,eatenBy
+47193,,Heterocampa biundata,,eatenBy
+47193,,Acmaeodera ornata,,eatenBy
+47193,,Empidonax flaviventris,,eatenBy
+47193,,Empidonax alnorum,,eatenBy
+47193,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+47193,,Snowshoe hare,,eatenBy
+47193,,American black bear,,eatenBy
+47193,,American moose,,eatenBy
+47193,,Acronicta americana,,eatenBy
+47193,,Haploa lecontei,,eatenBy
+47193,13094,Erithacus rubecula,European Robin,eatenBy
+47193,,Sylvia communis,,eatenBy
+47193,15302,Sylvia borin,Garden Warbler,eatenBy
+47193,,Ficedula hypoleuca,,eatenBy
+47193,13141,Monticola solitarius,Blue Rock-Thrush,eatenBy
+47193,855297,Meles meles,European Badger,eatenBy
+47193,,Sylvia melanocephala,,eatenBy
+47193,,Luscinia megarhynchos,,eatenBy
+47193,,Sylvia cantillans,,eatenBy
+47193,,Oriolus oriolus,,eatenBy
+47193,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+47193,41800,Martes foina,Stone Marten,eatenBy
+47193,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+47193,,Turdus iliacus,,eatenBy
+47193,15303,Sylvia undata,Dartford Warbler,eatenBy
+47193,891696,Pica pica,Eurasian Magpie,eatenBy
+47193,55371,Saxicola torquatus,African Stonechat,eatenBy
+47193,,Phoenicurus phoenicurus,,eatenBy
+47193,43042,Erinaceus europaeus,Common Hedgehog,eatenBy
+47193,12748,Turdus philomelos,Song Thrush,eatenBy
+47193,,Phoenicurus ochruros,,eatenBy
+47193,,Sylvia,,eatenBy
+47193,12716,Turdus merula,Eurasian Blackbird,eatenBy
+47193,41641,Ursus arctos,Brown Bear,eatenBy
+47193,41796,Martes martes,Eurasian Pine Marten,eatenBy
+47193,42048,Canis lupus,Gray Wolf,eatenBy
+47193,145360,Chloris chloris,European Greenfinch,eatenBy
+47193,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+47193,,Poecile palustris,,eatenBy
+47193,,Parus major,,eatenBy
+47193,,Phylloscopus,,eatenBy
+47193,12735,Turdus viscivorus,Mistle Thrush,eatenBy
+47193,,Cyanistes caeruleus,,eatenBy
+47193,,Garrulus glandarius,,eatenBy
+47193,,Sylvia curruca,,eatenBy
+47193,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+47193,,Lepidosaphes ulmi,,eatenBy
+47193,,Pulvinaria regalis,,eatenBy
+47193,,Rosellinia aquila,,eatenBy
+47193,,Xylohypha nigrescens,,eatenBy
+47193,409496,Lasiosphaeria ovina,woolly woodwart,eatenBy
+47193,,Nectria mammoidea var. mammoidea,,eatenBy
+47193,,Melomastia mastoidea,,eatenBy
+47193,,Clypeosphaeria mamillana,,eatenBy
+47193,,Bisporella sulfurina,,eatenBy
+47193,,Cryptocoryneum condensatum,,eatenBy
+47193,,Helminthosporium velutinum,,eatenBy
+47193,,Acrogenospora sphaerocephala,,eatenBy
+47193,351204,Hysterium angustatum,,eatenBy
+47193,,Tympanis fasciculata,,eatenBy
+47193,,Spatalistis bifasciana,,eatenBy
+47193,,Olethreutes inornatana,,eatenBy
+47193,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47193,47208,Coleoptera,Beetles,pollinatedBy
+47193,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+47193,47822,Diptera,Flies,pollinatedBy

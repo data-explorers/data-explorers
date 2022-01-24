@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+169872,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+169872,47219,Apis mellifera,Western Honey Bee,eatenBy
+169872,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+169872,,Eupeodes volucris,,eatenBy

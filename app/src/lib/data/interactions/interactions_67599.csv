@@ -1,0 +1,203 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67599,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+67599,5017,Bubulcus ibis,Cattle Egret,eatenBy
+67599,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+67599,53248,Elateridae,Click Beetles,preysOn
+67599,85586,Anthicidae,Ant-like Flower Beetles,preysOn
+67599,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+67599,132310,Entomobryidae,Slender Springtails,preysOn
+67599,,Chaetarthria seminulum,,preysOn
+67599,251175,Edaphus,,preysOn
+67599,,Hebrus ruficeps,,preysOn
+67599,,Euconnus hirticollis,,preysOn
+67599,174329,Microphysidae,Minute Bladder Bugs,preysOn
+67599,,Allacma fusca,,preysOn
+67599,389631,Folsomia quadrioculata,,preysOn
+67599,178192,Hebridae,Velvet Water Bugs,preysOn
+67599,988384,Bryaxis bulbifer,,preysOn
+67599,222443,Isotomiella minor,,preysOn
+67599,568643,Lysigamasus,,preysOn
+67599,,Mesaphorura,,preysOn
+67599,296626,Proisotoma minima,,preysOn
+67599,,Pergamasinae (juv) {xs},,preysOn
+67599,,Pachylaelaps,,preysOn
+67599,,Geholaspis mandibularis,,preysOn
+67599,,Scutigerella immaculata,,preysOn
+67599,,Mesaphorura macrochaeta,,preysOn
+67599,,Rhodacarus agrestis,,preysOn
+67599,452503,Robertus lividus,,preysOn
+67599,174025,Dalopius marginatus,,preysOn
+67599,,Dicyrtomina ornata,,preysOn
+67599,,Cornodendrolaelaps cornutulus,,preysOn
+67599,,Paragamasus lapponicus,,preysOn
+67599,,Veigaia nemorensis,,preysOn
+67599,,Veigaia cerva,,preysOn
+67599,,Lepidocyrtus lanuginosus,,preysOn
+67599,,Lepidocyrtus lignorum,,preysOn
+67599,,Trachytes pauperior,,preysOn
+67599,,Uroseius cylindricus,,preysOn
+67599,,Mesaphorura italica,,preysOn
+67599,222439,Isotoma notabilis,,preysOn
+67599,203275,Xantholinus,,preysOn
+67599,,Lithobius,,preysOn
+67599,738601,Lithobius aeruginosus,,preysOn
+67599,,Folsomia spinosa,,preysOn
+67599,,Lysigamasus parunciger,,preysOn
+67599,,Trachytes aegrota,,preysOn
+67599,,Neanura muscorum,,preysOn
+67599,,Trichoniscus pusillus,,preysOn
+67599,,Veigaia exigua,,preysOn
+67599,203389,Megalothorax,,preysOn
+67599,,Tomocerus minor,,preysOn
+67599,,Xenyella sp.,,preysOn
+67599,172978,Atheta,vexing rove beetles,preysOn
+67599,,Omonadus floralis,,preysOn
+67599,,Trachytes,,preysOn
+67599,85251,Ceratophysella denticulata,Mushroom springtail,preysOn
+67599,,Sphaeridia pumilis,,preysOn
+67599,,Geholaspis aeneus,,preysOn
+67599,153747,Robertus,,preysOn
+67599,,Epicrius canestrinii,,preysOn
+67599,171479,Isotomidae,Smooth Springtails,preysOn
+67599,1226560,Pseudanurophorus binoculatus,,preysOn
+67599,,Willemia denisi,,preysOn
+67599,883059,Athous zebei,,preysOn
+67599,,Macrocheles montanus,,preysOn
+67599,,Lepidocyrtus cyaneus,,preysOn
+67599,,Pergamasinae (juv) {s},,preysOn
+67599,131123,Eusphalerum,,preysOn
+67599,,Trichouropoda,,preysOn
+67599,,Zercon romagniolus,,preysOn
+67599,,Rhodacarellus kreuzi,,preysOn
+67599,,Micranurida granulata,,preysOn
+67599,1029352,Scolopendrella,,preysOn
+67599,,Sminthurinus aureus,,preysOn
+67599,,Macrocheles dentatus,,preysOn
+67599,,Leitneria granulata,,preysOn
+67599,,Lepidocyrtus,,preysOn
+67599,,Zercon triangularis,,preysOn
+67599,,Pergamasus conus,,preysOn
+67599,203242,Aleocharinae,,preysOn
+67599,,Tomocerus flavescens,,preysOn
+67599,494566,Athous subfuscus,,preysOn
+67599,,Pachyseius humeralis,,preysOn
+67599,,Holoparasitus stramenti,,preysOn
+67599,,Tomocerus baudoti,,preysOn
+67599,,Vulgarogamasus kraepelini,,preysOn
+67599,,Sminthuridae,,preysOn
+67599,,Zerconidae,,preysOn
+67599,,Isotoma viridis,,preysOn
+67599,207553,Ceratophysella,,preysOn
+67599,,Geholaspis,,preysOn
+67599,,Leptogamasus suecicus,,preysOn
+67599,,Mesaphorura sylvatica,,preysOn
+67599,,Folsomia,,preysOn
+67599,,Hahnia pusilla,,preysOn
+67599,,Paragamasus,,preysOn
+67599,377626,Pergamasus,,preysOn
+67599,,Macrochelidae,,preysOn
+67599,568363,Pergamasus misellus,,preysOn
+67599,,Plectophoreus fischeri,,preysOn
+67599,,Lysigamasus digitulus,,preysOn
+67599,,Epicrius,,preysOn
+67599,,Veigaia agilis,,preysOn
+67599,47951,Staphylinidae,Rove Beetles,preyedUponBy
+67599,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+67599,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preyedUponBy
+67599,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+67599,47345,Agelenidae,Funnel Weavers,preyedUponBy
+67599,85586,Anthicidae,Ant-like Flower Beetles,preyedUponBy
+67599,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+67599,48139,Salticidae,Jumping Spiders,preyedUponBy
+67599,202104,Harpalinae,,preyedUponBy
+67599,52932,Cantharidae,Soldier Beetles,preyedUponBy
+67599,49567,Carabidae,Ground Beetles,preyedUponBy
+67599,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+67599,47866,Thomisidae,Crab Spiders,preyedUponBy
+67599,57652,Trombidiidae,True Velvet Mites,preyedUponBy
+67599,132021,Philonthus,,preyedUponBy
+67599,47416,Lycosidae,Wolf Spiders,preyedUponBy
+67599,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+67599,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+67599,84523,Dictynidae,Meshweavers,preyedUponBy
+67599,,Hypocyphtus discoideus,,preyedUponBy
+67599,131943,Rugilus rufipes,,preyedUponBy
+67599,,Hypostenus latifrons,,preyedUponBy
+67599,,Nestus,,preyedUponBy
+67599,1151405,Lesteva sicula,,preyedUponBy
+67599,226195,Ochthephilum fracticorne,,preyedUponBy
+67599,131962,Stenus,,preyedUponBy
+67599,1000693,Myllaena dubia,,preyedUponBy
+67599,203242,Aleocharinae,,preyedUponBy
+67599,392787,Mocyta fungi,,preyedUponBy
+67599,784141,Asthenargus paganus,,preyedUponBy
+67599,490816,Neobisium,,preyedUponBy
+67599,203275,Xantholinus,,preyedUponBy
+67599,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+67599,172978,Atheta,vexing rove beetles,preyedUponBy
+67599,,Robertus scoticus,,preyedUponBy
+67599,359911,Staphylininae,,preyedUponBy
+67599,,Campodea,,preyedUponBy
+67599,510480,Othius,,preyedUponBy
+67599,494566,Athous subfuscus,,preyedUponBy
+67599,,Erigonella hiemalis,,preyedUponBy
+67599,783596,Ceratinella brevis,,preyedUponBy
+67599,,Gyrohypnus,,preyedUponBy
+67599,784286,Micrargus apertus,,preyedUponBy
+67599,397950,Tenuiphantes tenuis,,preyedUponBy
+67599,991343,Euaesthetus ruficapillus,,preyedUponBy
+67599,738601,Lithobius aeruginosus,,preyedUponBy
+67599,127023,Amaurobius,Lace web spider,preyedUponBy
+67599,706060,Monocephalus fuscipes,,preyedUponBy
+67599,,Geophilus ribauti,,preyedUponBy
+67599,,Malthodes,,preyedUponBy
+67599,153747,Robertus,,preyedUponBy
+67599,,Microneta viaria,,preyedUponBy
+67599,,Hahniidae,,preyedUponBy
+67599,,Lithobius,,preyedUponBy
+67599,789101,Nusoncus nasutus,,preyedUponBy
+67599,,Myllaena minuta,,preyedUponBy
+67599,521083,Strigamia acuminata,,preyedUponBy
+67599,498635,Lithobius piceus,,preyedUponBy
+67599,778686,Porrhomma microphthalmum,,preyedUponBy
+67599,,Tapinocyba pallens,,preyedUponBy
+67599,784197,Walckenaeria dysderoides,,preyedUponBy
+67599,739596,Lithobius mutabilis,,preyedUponBy
+67599,457780,Geostiba circellaris,,preyedUponBy
+67599,490815,Neobisium carcinoides,Moss Neobisid,preyedUponBy
+67599,1004314,Oxypoda annularis,,preyedUponBy
+67599,,Centromerus brevipalpus,,preyedUponBy
+67599,452503,Robertus lividus,,preyedUponBy
+67599,784149,Diplocephalus picinus,,preyedUponBy
+67599,784185,Saloca diceros,,preyedUponBy
+67599,360817,Coelotes,,preyedUponBy
+67599,153825,Ero furcata,,preyedUponBy
+67599,778699,Macrargus rufus,,preyedUponBy
+67599,230519,Schendyla nemorensis,,preyedUponBy
+67599,,Lithobius muticus,,preyedUponBy
+67599,,Euophrys frontalis,,preyedUponBy
+67599,905423,Lithobius macilentus,,preyedUponBy
+67599,953750,Acrotona sylvicola,,preyedUponBy
+67599,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preyedUponBy
+67599,765638,Lithobius calcaratus,,preyedUponBy
+67599,1004280,Othius subuliformis,,preyedUponBy
+67599,407287,Lithobius melanops,,preyedUponBy
+67599,705967,Harpactea lepida,,preyedUponBy
+67599,778930,Tenuiphantes mengei,,preyedUponBy
+67599,,Diplostyla concolor,,preyedUponBy
+67599,784182,Pocadicnemis juncea,,preyedUponBy
+67599,,Cybister,,preyedUponBy
+67599,362800,Clubiona comta,,preyedUponBy
+67599,498645,Lithobius tricuspis,,preyedUponBy
+67599,783981,Tapinocyba insecta,,preyedUponBy
+67599,,Centromerus prudens,,preyedUponBy
+67599,,Geophilus studeri,,preyedUponBy
+67599,,Lithobius borealis,,preyedUponBy
+67599,525704,Trogulus tricarinatus,,preyedUponBy
+67599,154600,Agonum,,preyedUponBy
+67599,855514,Lithobius subtilis,,preyedUponBy
+67599,,Pardosa saltans,,preyedUponBy
+67599,,Pedius longicollis,,preyedUponBy
+67599,,Velleius,,preyedUponBy
+67599,491325,Geophilus electricus,,preyedUponBy
+67599,121773,Clubionidae,Sac Spiders,preyedUponBy

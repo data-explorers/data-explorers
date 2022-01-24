@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69369,43095,Leporidae,Hares and Rabbits,eats
+69369,,rabbit carcass,,eats
+69369,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+69369,12716,Turdus merula,Eurasian Blackbird,eatenBy
+69369,13094,Erithacus rubecula,European Robin,eatenBy
+69369,,Maculinea teleius,,eatenBy
+69369,,Phengaris arionides,,eatenBy
+69369,13732,Anthus rubescens,American Pipit,eatenBy
+69369,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+69369,155567,Abelia,Abelias,pollinates
+69369,,Weigela,,pollinates
+69369,,Exomias pellucidus,,preysOn
+69369,,Tetrao urogallus,,preyedUponBy

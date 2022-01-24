@@ -1,0 +1,109 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+13270,49567,Carabidae,Ground Beetles,eats
+13270,1,Animalia,Animals,eats
+13270,53438,Rosa,roses,eats
+13270,47120,Arthropoda,Arthropods,eats
+13270,485010,Chinavia hilaris,Green Stink Bug,eats
+13270,47544,Rubus,brambles,eats
+13270,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+13270,51062,Maianthemum racemosum,Solomon's plume,eats
+13270,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+13270,47193,Cornus,dogwoods,eats
+13270,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+13270,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+13270,47124,Magnoliopsida,dicots,eats
+13270,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+13270,47118,Araneae,Spiders,eats
+13270,84286,Diapheromera femorata,Northern Walkingstick,eats
+13270,47157,Lepidoptera,Butterflies and Moths,eats
+13270,53165,Croton,Crotons,eats
+13270,47158,Insecta,Insects,eats
+13270,47336,Formicidae,Ants,eats
+13270,52689,Sambucus,elders,eats
+13270,48201,Scarabaeidae,Scarabs,eats
+13270,119828,Aralia nudicaulis,wild sarsaparilla,eats
+13270,47822,Diptera,Flies,eats
+13270,53248,Elateridae,Click Beetles,eats
+13270,47208,Coleoptera,Beetles,eats
+13270,48736,Curculionidae,True Weevils,eats
+13270,54834,Prunus serotina,black cherry,eats
+13270,3800,Morus,Gannets,eats
+13270,50999,Ficus,Figs,eats
+13270,48064,Primulaceae,primroses,eats
+13270,143390,Oxidus gracilis,Greenhouse Millipede,eats
+13270,60393,Tipula,,eats
+13270,85034,Neoscona crucifera,Spotted Orbweaver,eats
+13270,258813,Clogmia albipunctata,Bathroom Moth Fly,eats
+13270,120583,Parasteatoda tepidariorum,Common House Spider,eats
+13270,124184,Plodia interpunctella,Indian-Meal Moth,eats
+13270,147370,Naphrys pulex,flea jumping spider,eats
+13270,129423,Zelus luridus,Pale Green Assassin Bug,eats
+13270,49704,Tabanus,True Horse Flies,eats
+13270,121183,Mythimna unipuncta,White-speck Moth,eats
+13270,47148,Rosaceae,rose family,eats
+13270,211194,Tracheophyta,vascular plants,eats
+13270,51225,Tipulidae,Large Crane Flies,eats
+13270,47961,Cerambycidae,Longhorn Beetles,eats
+13270,47951,Staphylinidae,Rove Beetles,eats
+13270,47115,Mollusca,Molluscs,eats
+13270,52932,Cantharidae,Soldier Beetles,eats
+13270,125816,Auchenorrhyncha,True Hoppers,eats
+13270,48599,Phytolacca americana,American pokeweed,eats
+13270,58732,Toxicodendron radicans,poison ivy,eats
+13270,125845,Prunus caroliniana,Carolina laurelcherry,eats
+13270,83799,Mitchella repens,partridgeberry,eats
+13270,54774,Viburnum,viburnums,eats
+13270,,Ctenicera cylindriformis,,eats
+13270,,Taxus canadensis,,eats
+13270,,Barypeithes pellucidus,,eats
+13270,,Nyssa sylvatica,,eats
+13270,217518,Conotrachelus posticatus,,eats
+13270,,Dichelonyx,,eats
+13270,,Reticulitermes flavipus,,eats
+13270,,Hister,,eats
+13270,,Agrilus bilineatus,,eats
+13270,,Ataenius,,eats
+13270,,Tiphia,,eats
+13270,,Otiorhynchus ovatus,,eats
+13270,,Chrysomela pulcra,,eats
+13270,,Listronotus,,eats
+13270,,Onthophagus striatulus,,eats
+13270,213512,Anametis granulata,,eats
+13270,54793,Lindera benzoin,northern spicebush,eats
+13270,,Leptinotarsa decemlineata,,eats
+13270,,Calamosternus,,eats
+13270,,Melanotus americanus,,eats
+13270,,Euphoria,,eats
+13270,,Phyxelis rigidus,,eats
+13270,,Gaylussacia,,eats
+13270,,Ilex opaca,,eats
+13270,,Morella caroliniensis,,eats
+13270,,Phyllophaga,,eats
+13270,54777,Cornus florida,flowering dogwood,eats
+13270,,Coptocycla,,eats
+13270,,Nicrophorus tomentosus,,eats
+13270,,Arrenodes minutus,,eats
+13270,,Vitis vulpina,,eats
+13270,,Philonthus lomatus,,eats
+13270,,Glischrochilus quadriguttatus,,eats
+13270,,Acalles carinatus,,eats
+13270,,Tomarus,,eats
+13270,,Calamosternus granarius,,eats
+13270,,Onthophagus tuberculifrons,,eats
+13270,,Callicarpa americana,,eats
+13270,129219,Euphoria fulgida,Emerald Euphoria,eats
+13270,,Onthophagus,,eats
+13270,765394,Sambucus nigra,European black elderberry,eats
+13270,133382,Amelanchier canadensis,Canadian serviceberry,eats
+13270,,Dichelonyx elongatula,,eats
+13270,,Tanymecus confusus,,eats
+13270,231367,Sphenophorus parvulus,Bluegrass Billbug Weevil,eats
+13270,,Cantharis carolinus,,eats
+13270,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+13270,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+13270,20044,Bubo virginianus,Great Horned Owl,eatenBy
+13270,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+13270,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+13270,47157,Lepidoptera,Butterflies and Moths,preysOn
+13270,47822,Diptera,Flies,preysOn
+13270,47208,Coleoptera,Beetles,preysOn

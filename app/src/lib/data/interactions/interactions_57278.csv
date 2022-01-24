@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57278,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+57278,47219,Apis mellifera,Western Honey Bee,eatenBy
+57278,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+57278,,Samia cynthia,,eatenBy
+57278,,Atteva punctella,,eatenBy
+57278,765060,Rothschildia arethusa,,eatenBy
+57278,491468,Rothschildia hesperus,,eatenBy
+57278,,Samia walkeri,,eatenBy
+57278,257417,Oiketicus toumeyi,,eatenBy
+57278,,Pieris naganum,,eatenBy
+57278,127133,Hyphantria cunea,Fall Webworm Moth,eatenBy
+57278,18904,Psittacula eupatria,Alexandrine Parakeet,eatenBy
+57278,324726,Lycorma delicatula,Spotted Lanternfly,eatenBy
+57278,116681,Atteva aurea,Ailanthus Webworm Moth,eatenBy
+57278,70144,Muscidae,House Flies and Allies,pollinatedBy
+57278,51953,Tachinidae,Bristle Flies,pollinatedBy
+57278,61860,Calliphoridae,Blow Flies,pollinatedBy
+57278,49996,Anthomyiidae,Root-maggot Flies,pollinatedBy
+57278,49995,Syrphidae,Hover Flies,pollinatedBy
+57278,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,pollinatedBy
+57278,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

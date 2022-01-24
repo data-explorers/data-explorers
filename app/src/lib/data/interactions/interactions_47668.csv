@@ -1,0 +1,157 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47668,47584,Bivalvia,Bivalves,eats
+47668,47797,Actiniaria,Sea Anemones,eats
+47668,47668,Asteroidea,Sea Stars,eats
+47668,47490,Polychaeta,Polychaete Worms,eats
+47668,48824,Porifera,Sponges,eats
+47668,47114,Gastropoda,Gastropods,eats
+47668,48836,Ophiuroidea,Brittle Stars,eats
+47668,121639,Brachyura,True Crabs,eats
+47668,47720,Holothuroidea,Sea Cucumbers,eats
+47668,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+47668,47186,Decapoda,Decapods,eats
+47668,68104,Bryozoa,Bryozoans,eats
+47668,47534,Cnidaria,Cnidarians,eats
+47668,151838,Priapulida,Priapulid Worms,eats
+47668,47679,Patellogastropoda,True Limpets,eats
+47668,48786,Pollicipes polymerus,Gooseneck Barnacle,eats
+47668,50600,Mytilidae,True Mussels,eats
+47668,47549,Echinodermata,Echinoderms,eats
+47668,,Urochordata,,eats
+47668,,Detritus,,eats
+47668,,Gorgonacea,,eats
+47668,,no name,,eats
+47668,50355,Euphyllia,Torch Corals,eats
+47668,67990,Scaphopoda,Tusk Shells,eats
+47668,,Benthic autotrophs,,eats
+47668,,Echinoida,,eats
+47668,,Microfauna,,eats
+47668,68235,Hemichordata,Hemichordates,eats
+47668,,particulate detritus,,eats
+47668,,benthic macrofauna,,eats
+47668,,chitons - gastropods - limpets,,eats
+47668,,Prymnesiophyceae,,eats
+47668,48408,Rajidae,Hardnose Skates,eatenBy
+47668,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47668,39657,Cheloniidae,Typical Sea Turtles,eatenBy
+47668,49796,Stomatopoda,Mantis Shrimps,eatenBy
+47668,47668,Asteroidea,Sea Stars,eatenBy
+47668,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eatenBy
+47668,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47668,47186,Decapoda,Decapods,eatenBy
+47668,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47668,87467,Chromis,Chromis,eatenBy
+47668,430553,Merlangius merlangus,Whiting,eatenBy
+47668,445609,Agonus cataphractus,Pogge,eatenBy
+47668,51398,Argentina sphyraena,European Argentine,eatenBy
+47668,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47668,47523,Pleuronectes platessa,European Plaice,eatenBy
+47668,118603,Merluccius merluccius,European Hake,eatenBy
+47668,61387,Limanda limanda,Sand Dab,eatenBy
+47668,63740,Gadus morhua,Atlantic Cod,eatenBy
+47668,120129,Lactophrys bicaudalis,Spotted Trunkfish,eatenBy
+47668,52296,Anisotremus surinamensis,Black Margate,eatenBy
+47668,95066,Balistes vetula,Queen Triggerfish,eatenBy
+47668,131513,Lactophrys trigonus,Buffalo Trunkfish,eatenBy
+47668,49304,Stegastes planifrons,Threespot Damselfish,eatenBy
+47668,,Echinoida,,eatenBy
+47668,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,eatenBy
+47668,,Batistes vetula,,eatenBy
+47668,459604,Lithodes aequispinus,Golden King Crab,eatenBy
+47668,968919,Tumidodromia dormia,Sleepy Sponge Crab,eatenBy
+47668,496421,Lauridromia dehaani,,eatenBy
+47668,,Lauridromia indica,,eatenBy
+47668,,Chionoecetes japonicus,,eatenBy
+47668,361714,Erimacrus isenbeckii,Horsehair Crab,eatenBy
+47668,361770,Chionoecetes opilio,Snow Crab,eatenBy
+47668,123806,Paralithodes platypus,,eatenBy
+47668,123807,Paralithodes camtschaticus,Red King Crab,eatenBy
+47668,533716,Labidiaster annulatus,,eatenBy
+47668,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+47668,213518,Anarhichas denticulatus,Northern Wolffish,eatenBy
+47668,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+47668,128986,Calamus,Rattan palms,eatenBy
+47668,130054,Haemulon carbonarium,Caesar Grunt,eatenBy
+47668,95832,Bodianus neilli,Bay of Bengal hogfish,eatenBy
+47668,95827,Bodianus loxozonus,Blackfin Hogfish,eatenBy
+47668,95816,Bodianus bimaculatus,Twospot Pigfish,eatenBy
+47668,53494,Bodianus izuensis,Striped Pigfish,eatenBy
+47668,224163,Lumpenus lampretaeformis,Snakeblenny,eatenBy
+47668,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+47668,187709,Mulloidichthys dentatus,Mexican Goatfish,eatenBy
+47668,,Hoplostethus mediterraneus mediterraneus,,eatenBy
+47668,618322,Patagonotothen ramsayi,Longtail southern cod,eatenBy
+47668,446439,Raniceps raninus,Tadpole Fish,eatenBy
+47668,179598,Eucinostomus gula,Silver Jenny,eatenBy
+47668,49951,Haemulon plumierii,White Grunt,eatenBy
+47668,179600,Eucinostomus argenteus,Spotfin Mojarra,eatenBy
+47668,49421,Diplectrum formosum,Sand Perch,eatenBy
+47668,49950,Haemulon aurolineatum,Tomtate,eatenBy
+47668,49316,Chaetodipterus faber,Atlantic Spadefish,eatenBy
+47668,615149,Haemulopsis corvinaeformis,,eatenBy
+47668,121195,Acanthurus chirurgus,Doctorfish,eatenBy
+47668,317308,Polydactylus virginicus,Sevenfingered Threadfin,eatenBy
+47668,179661,Eugerres plumieri,Striped mojarra,eatenBy
+47668,317477,Micropogonias furnieri,Whitemouth Croaker,eatenBy
+47668,317028,Cathorops spixii,Madamango sea catfish,eatenBy
+47668,179610,Diapterus auratus,Irish Pompano,eatenBy
+47668,101420,Gerres cinereus,Yellowfin Mojarra,eatenBy
+47668,317017,Calamus pennatula,Pluma Porgy,eatenBy
+47668,49264,Haemulon,,eatenBy
+47668,63718,Albula vulpes,Bonefish,eatenBy
+47668,104853,Lutjanus analis,Mutton Snapper,eatenBy
+47668,131385,Pseudupeneus maculatus,Spotted Goatfish,eatenBy
+47668,49499,Aluterus,,eatenBy
+47668,103217,Hypsoblennius sordidus,,eatenBy
+47668,,Scartichthys viridis,,eatenBy
+47668,446097,Helcogrammoides chilensis,Chilean Triplefin,eatenBy
+47668,102938,Hoplopagrus guentherii,Barred Pargo,eatenBy
+47668,104857,Lutjanus guttatus,Spotted Rose Snapper,eatenBy
+47668,52323,Coris gaimard,Yellowtail Coris,eatenBy
+47668,51353,Anoplopoma fimbria,Sablefish,eatenBy
+47668,445777,Chrysoblephus laticeps,Roman Seabream,eatenBy
+47668,132395,Lethrinus miniatus,Redthroat Emperor,eatenBy
+47668,179653,Calamus leucosteus,Whitebone porgy,eatenBy
+47668,113971,Thalassoma ballieui,Blacktail Wrasse,eatenBy
+47668,108196,Pagrus pagrus,Red Porgy,eatenBy
+47668,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+47668,52295,Haemulon macrostomum,Spanish grunt,eatenBy
+47668,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+47668,96762,Carcharhinus obscurus,Dusky Shark,eatenBy
+47668,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+47668,103158,Hyporthodus flavolimbatus,Yellow-edge Grouper,eatenBy
+47668,471092,Lithodes murrayi,Subantarctic Stone Crab,eatenBy
+47668,106881,Nephrops norvegicus,Norway lobster,eatenBy
+47668,204533,Larus argentatus,Herring Gull,eatenBy
+47668,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+47668,47114,Gastropoda,Gastropods,preysOn
+47668,50600,Mytilidae,True Mussels,preysOn
+47668,47679,Patellogastropoda,True Limpets,preysOn
+47668,47584,Bivalvia,Bivalves,preysOn
+47668,48824,Porifera,Sponges,preysOn
+47668,47720,Holothuroidea,Sea Cucumbers,preysOn
+47668,47490,Polychaeta,Polychaete Worms,preysOn
+47668,121639,Brachyura,True Crabs,preysOn
+47668,47797,Actiniaria,Sea Anemones,preysOn
+47668,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preysOn
+47668,47668,Asteroidea,Sea Stars,preysOn
+47668,48836,Ophiuroidea,Brittle Stars,preysOn
+47668,47428,Neoloricata,Neoloricate Chitons,preysOn
+47668,,benthic macrofauna,,preysOn
+47668,,Stony corals,,preysOn
+47668,,Microfauna,,preysOn
+47668,,Sea,,preysOn
+47668,67990,Scaphopoda,Tusk Shells,preysOn
+47668,,Urochordata,,preysOn
+47668,39657,Cheloniidae,Typical Sea Turtles,preyedUponBy
+47668,47668,Asteroidea,Sea Stars,preyedUponBy
+47668,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preyedUponBy
+47668,49796,Stomatopoda,Mantis Shrimps,preyedUponBy
+47668,52296,Anisotremus surinamensis,Black Margate,preyedUponBy
+47668,49304,Stegastes planifrons,Threespot Damselfish,preyedUponBy
+47668,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,preyedUponBy
+47668,120129,Lactophrys bicaudalis,Spotted Trunkfish,preyedUponBy
+47668,95066,Balistes vetula,Queen Triggerfish,preyedUponBy
+47668,131513,Lactophrys trigonus,Buffalo Trunkfish,preyedUponBy
+47668,4388,Larus dominicanus,Kelp Gull,preyedUponBy
+47668,333759,Larus dominicanus dominicanus,Southern Black-backed Gull,preyedUponBy

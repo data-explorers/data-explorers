@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68062,184884,Pterygota,Winged and Once-winged Insects,eats
+68062,54992,Muscoidea,Muscoid Flies,eats
+68062,47822,Diptera,Flies,eats
+68062,48091,Brachycera,Brachyceran Flies,eats
+68062,53275,Chironomidae,Non-biting Midges,eats
+68062,68062,Menemerus bivittatus,Gray Wall Jumping Spider,eats
+68062,178498,Phytocoris,,eats
+68062,47158,Insecta,Insects,eats
+68062,247953,Clogmia,,eats
+68062,47821,Tabanidae,Horse and Deer Flies,eats
+68062,47157,Lepidoptera,Butterflies and Moths,eats
+68062,,Pyraloidea,,eats
+68062,68062,Menemerus bivittatus,Gray Wall Jumping Spider,eatenBy
+68062,61860,Calliphoridae,Blow Flies,preysOn
+68062,47822,Diptera,Flies,preysOn
+68062,258813,Clogmia albipunctata,Bathroom Moth Fly,preysOn
+68062,184884,Pterygota,Winged and Once-winged Insects,preysOn
+68062,47158,Insecta,Insects,preysOn
+68062,47336,Formicidae,Ants,preysOn
+68062,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+68062,120474,Araneomorphae,Typical Spiders,preysOn
+68062,247953,Clogmia,,preysOn
+68062,47586,Oecobius,Wall Spiders,preysOn
+68062,48091,Brachycera,Brachyceran Flies,preysOn
+68062,47157,Lepidoptera,Butterflies and Moths,preysOn
+68062,48011,Ephemeroptera,Mayflies,preysOn
+68062,153429,Culicomorpha,Mosquitoes and Midges,preysOn
+68062,606933,Salticinae,,preysOn
+68062,118903,Termitoidae,Termites,preysOn
+68062,47120,Arthropoda,Arthropods,preysOn
+68062,47982,Asilidae,Robber Flies,preysOn
+68062,52910,Sarcophagidae,Flesh Flies,preysOn
+68062,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+68062,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+68062,54992,Muscoidea,Muscoid Flies,preysOn
+68062,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preysOn
+68062,120156,Musca domestica,Housefly,preysOn
+68062,48139,Salticidae,Jumping Spiders,preysOn
+68062,53275,Chironomidae,Non-biting Midges,preysOn
+68062,70144,Muscidae,House Flies and Allies,preysOn
+68062,47208,Coleoptera,Beetles,preysOn
+68062,247968,Hexatoma,,preysOn
+68062,,Corythalia,,preysOn
+68062,318987,Samea ecclesialis,Assembly Moth,preysOn
+68062,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+68062,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy

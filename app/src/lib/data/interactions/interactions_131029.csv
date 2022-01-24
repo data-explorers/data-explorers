@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+131029,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+131029,130991,Tradescantia virginiana,Virginia spiderwort,pollinates
+131029,52821,Achillea millefolium,Common Yarrow,pollinates
+131029,58991,Portulaca oleracea,Common Purslane,pollinates
+131029,56121,Capsella bursa-pastoris,shepherd's-purse,pollinates
+131029,,Trifolium hybridum,,pollinates
+131029,,Actea,,pollinates
+131029,,http://treatment.plazi.org/id/9966E2297D64C1029E81555AD33F02CD,,pollinates
+131029,,Trillium sessile,,pollinates
+131029,,http://treatment.plazi.org/id/FD4C81A5CD2276CF046E0FA226D20EE3,,pollinates
+131029,,Symphyotrichum turbinellum,,pollinates
+131029,,Tephrosia virginiana,,pollinates
+131029,,Nymphaea odorata tuberosa,,pollinates
+131029,,Verbena urticifolia,,pollinates
+131029,,Thaspium,,pollinates
+131029,,Polygonum foliosum paludicola,,pollinates
+131029,,http://treatment.plazi.org/id/B87F34AA383C06E0CF4F70EC89CBEF72,,pollinates
+131029,,Eryngium campestre,,pollinates
+131029,72109,Echinops,Globe thistles,pollinates
+131029,,Baccharis angustifolia,,pollinates
+131029,54824,Crataegus crus-galli,cockspur hawthorn,pollinates
+131029,1063807,Gyptis lanigera,,pollinates
+131029,47383,Latrodectus geometricus,Brown Widow,preyedUponBy

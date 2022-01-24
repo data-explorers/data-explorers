@@ -1,0 +1,190 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+473,59110,Potamogeton,Pondweed,eats
+473,54518,Lemna minor,common duckweed,eats
+473,61787,Persicaria,"knotweeds, smartweeds, and waterpeppers",eats
+473,47114,Gastropoda,Gastropods,eats
+473,48571,Carex,true sedges,eats
+473,60997,Ceratophyllum demersum,coontail,eats
+473,47158,Insecta,Insects,eats
+473,54519,Lemna,Duckweeds,eats
+473,59713,Chlorophyceae,Chlorophycean green algae,eats
+473,60207,Myriophyllum,Milfoils,eats
+473,56932,Cuscuta,dodders,eats
+473,53060,Galium,bedstraws,eats
+473,47124,Magnoliopsida,dicots,eats
+473,78711,Potamogeton illinoensis,shining pondweed,eats
+473,48685,Typha latifolia,broadleaf cattail,eats
+473,50339,Ludwigia,Primrose-willows,eats
+473,53707,Cladophora,,eats
+473,47822,Diptera,Flies,eats
+473,61267,Heteroptera,True Bugs,eats
+473,85989,Physidae,Bladder Snails,eats
+473,47157,Lepidoptera,Butterflies and Moths,eats
+473,62164,Trichoptera,Caddisflies,eats
+473,47208,Coleoptera,Beetles,eats
+473,47928,Zygoptera,Damselflies,eats
+473,47126,Plantae,plants,eats
+473,48230,Ranunculus,buttercups,eats
+473,59109,Potamogetonaceae,pondweed family,eats
+473,1,Animalia,Animals,eats
+473,211194,Tracheophyta,vascular plants,eats
+473,84735,Corixidae,Water Boatmen,eats
+473,48972,Polygonum,knotweeds,eats
+473,60999,Ceratophyllum,Hornworts,eats
+473,47584,Bivalvia,Bivalves,eats
+473,51112,Hexagenia,Giant Mayflies,eats
+473,47792,Odonata,Dragonflies and Damselflies,eats
+473,48071,Sagittaria,Arrowheads,eats
+473,52617,Salicornia,pickleweeds,eats
+473,47115,Mollusca,Molluscs,eats
+473,47120,Arthropoda,Arthropods,eats
+473,4246,Podilymbus podiceps,Pied-billed Grebe,eats
+473,54960,Nematoda,Nematodes,eats
+473,67731,Anax junius,Common Green Darner,eats
+473,174572,Callibaetis,Speckled Duns,eats
+473,81576,Belostoma,,eats
+473,129189,Hyalella,,eats
+473,133821,Physa,,eats
+473,27818,Taricha torosa,California Newt,eats
+473,59653,Gerridae,Water Striders,eats
+473,133623,Tropisternus,,eats
+473,64970,Anaxyrus boreas,Western Toad,eats
+473,84670,Ephydridae,Shore Flies,eats
+473,52864,Tramea,Saddlebag Gliders,eats
+473,47851,Quercus,oaks,eats
+473,49592,Lepomis,Common Sunfishes,eats
+473,473,Fulica americana,American Coot,eats
+473,48220,Phaeophyceae,brown algae,eats
+473,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+473,47434,Poaceae,grasses,eats
+473,,Bolboschoenus fluviatilis,,eats
+473,,Bidens cernua,,eats
+473,,Acorus calamus,,eats
+473,,Scirpus,,eats
+473,,Claviceps purpurea,,eats
+473,,Sparganium eurycarpum,,eats
+473,166081,Panicum hemitomon,Maidencane,eats
+473,,Nitella furcata,,eats
+473,,Hydrilla,,eats
+473,,Eichhornia crassipes,,eats
+473,180574,Nitella,Stonewort,eats
+473,,Eleocharis acicularis,,eats
+473,,Hirudinida,,eats
+473,60395,Branchiopoda,Branchiopods,eats
+473,,Chara,,eats
+473,,Musculium transversum,,eats
+473,92119,Somatogyrus,,eats
+473,,Pleurocera,,eats
+473,87189,Campeloma,Campelomas,eats
+473,,Non-biological,,eats
+473,,Sphaerium striatinum,,eats
+473,,Morella cerifera,,eats
+473,,Chara hornemannii,,eats
+473,61090,Ruppia maritima,widgeongrass,eats
+473,,Sesuvium maritimum,,eats
+473,,Leptochloa panicea,,eats
+473,,Eleocharis parvula,,eats
+473,,Hesperocorixa,,eats
+473,,Halipegus,,eats
+473,69803,Ceratopogonidae,Biting Midges,eats
+473,,Cephalogonimus americanus,,eats
+473,,Tubificidae,,eats
+473,,Zooplankton,,eats
+473,171609,Simocephalus,,eats
+473,56557,Notonecta,Milky Backswimmers,eats
+473,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+473,,Opalina,,eats
+473,,Megalodiscus,,eats
+473,121463,Arrenurus,Water Mites,eats
+473,,Lethocerus americanus,,eats
+473,,Erpobdella,,eats
+473,68304,Cyzicus californicus,California Clam Shrimp,eats
+473,20044,Bubo virginianus,Great Horned Owl,eatenBy
+473,41663,Procyon lotor,Common Raccoon,eatenBy
+473,42069,Vulpes vulpes,Red Fox,eatenBy
+473,41880,Mephitis mephitis,Striped Skunk,eatenBy
+473,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+473,116999,Pandion haliaetus,Osprey,eatenBy
+473,42051,Canis latrans,Coyote,eatenBy
+473,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+473,4956,Ardea herodias,Great Blue Heron,eatenBy
+473,473,Fulica americana,American Coot,eatenBy
+473,41777,Lontra canadensis,North American River Otter,eatenBy
+473,4756,Cathartes aura,Turkey Vulture,eatenBy
+473,41976,Lynx rufus,Bobcat,eatenBy
+473,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+473,558446,Circus hudsonius,Northern Harrier,eatenBy
+473,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+473,,Python molurus bivittatus,,eatenBy
+473,,Echinostoma trivolvis,,eatenBy
+473,,Echinostoma,,eatenBy
+473,,Ribeiroia ondatrae,,eatenBy
+473,,Corynosoma constrictum,,eatenBy
+473,5355,Parabuteo unicinctus,Harris's Hawk,eatenBy
+473,,Aquila chrysaetos,,eatenBy
+473,129189,Hyalella,,preysOn
+473,27818,Taricha torosa,California Newt,preysOn
+473,47126,Plantae,plants,preysOn
+473,59653,Gerridae,Water Striders,preysOn
+473,133821,Physa,,preysOn
+473,174572,Callibaetis,Speckled Duns,preysOn
+473,81576,Belostoma,,preysOn
+473,64970,Anaxyrus boreas,Western Toad,preysOn
+473,133623,Tropisternus,,preysOn
+473,84670,Ephydridae,Shore Flies,preysOn
+473,52864,Tramea,Saddlebag Gliders,preysOn
+473,67731,Anax junius,Common Green Darner,preysOn
+473,58168,Frankenia salina,Alkali Heath,preysOn
+473,58372,Distichlis spicata,Saltgrass,preysOn
+473,60969,Jaumea carnosa,Marsh Jaumea,preysOn
+473,49592,Lepomis,Common Sunfishes,preysOn
+473,339249,Acanthoparyphium,,preysOn
+473,,Sumergent vascular,,preysOn
+473,,Parorchis acanthus,,preysOn
+473,,Emergent vascular plants,,preysOn
+473,,Macroalgae,,preysOn
+473,339177,Microphallidae,,preysOn
+473,,Anisogammarus confervicolus,,preysOn
+473,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+473,,Cloacitrema michiganense,,preysOn
+473,177989,Haliplus,,preysOn
+473,69803,Ceratopogonidae,Biting Midges,preysOn
+473,,Macrocyclops,,preysOn
+473,,Erpobdella,,preysOn
+473,67016,Rana draytonii,California Red-legged Frog,preysOn
+473,,Letherocerus americanus,,preysOn
+473,,meiofauna,,preysOn
+473,51679,Coenagrion,Northern Bluets,preysOn
+473,,Diaptomidae,,preysOn
+473,,Pseudiacris regilla,,preysOn
+473,177749,Hydrophilus,Giant Water Scavenger Beetles,preysOn
+473,,Hesperocorixa,,preysOn
+473,171609,Simocephalus,,preysOn
+473,,Lestes,,preysOn
+473,56557,Notonecta,Milky Backswimmers,preysOn
+473,68304,Cyzicus californicus,California Clam Shrimp,preysOn
+473,,Chaetogaster,,preysOn
+473,,benthic microalgae/periphyton,,preysOn
+473,,Zooplankton,,preysOn
+473,,Dero,,preysOn
+473,148201,Helisoma,,preysOn
+473,,Tubificidae,,preysOn
+473,,Salicornia europaea,,preysOn
+473,,Limonium californicum,,preysOn
+473,76296,Chloropyron maritimum,Salt Marsh Bird's Beak,preysOn
+473,117622,Nuttallia nuttallii,Purple Clam,preysOn
+473,,Macoma secta,,preysOn
+473,,Monanthocloe littoralis,,preysOn
+473,,Gammaridea,,preysOn
+473,,green gammaridean,,preysOn
+473,41663,Procyon lotor,Common Raccoon,preyedUponBy
+473,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+473,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+473,42051,Canis latrans,Coyote,preyedUponBy
+473,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+473,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+473,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+473,41777,Lontra canadensis,North American River Otter,preyedUponBy
+473,558446,Circus hudsonius,Northern Harrier,preyedUponBy
+473,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+473,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy

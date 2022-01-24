@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48726,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+48726,143854,Bombus borealis,Northern Amber Bumble Bee,eatenBy
+48726,48662,Danaus plexippus,Monarch,eatenBy
+48726,,Common muskrat,,eatenBy
+48726,,Amphion floridensis,,eatenBy
+48726,,Mononychus vulpeculus,,eatenBy
+48726,47822,Diptera,Flies,pollinatedBy
+48726,57677,Halictus,Furrow Bees,pollinatedBy
+48726,119074,Chlorion,,pollinatedBy
+48726,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+48726,,Holcopasites heliopsis,,pollinatedBy
+48726,,Hyalurgus,,pollinatedBy
+48726,699698,Neotrypetes,,pollinatedBy
+48726,,Mordellistena,,pollinatedBy
+48726,177484,Leptura,,pollinatedBy
+48726,299141,Urosigalphus femoratus,,pollinatedBy
+48726,,Holandrena,,pollinatedBy
+48726,,http://treatment.plazi.org/id/F12164839E129EE305929100DCC76253,,pollinatedBy
+48726,320563,Anthocomus,,pollinatedBy
+48726,,Andrena geranii,,pollinatedBy
+48726,199066,Sphecodes heraclei,Cyclops Blood Bee,pollinatedBy
+48726,,Apallates coxendix,,pollinatedBy
+48726,,Odontalictus,,pollinatedBy
+48726,,Eumea caesar,,pollinatedBy
+48726,,Trachandrena,,pollinatedBy
+48726,,Sapyga centrata,,pollinatedBy
+48726,,Coelioxys sayi,,pollinatedBy
+48726,336738,Leschenaultia,,pollinatedBy
+48726,,Leionotus,,pollinatedBy
+48726,,Mallota posticata,,pollinatedBy
+48726,,Anthophora ursina,,pollinatedBy
+48726,,Tetrachrysis,,pollinatedBy
+48726,,Carceris robertsonii,,pollinatedBy
+48726,425250,Eristalis stipator,Yellow-shouldered Drone Fly,pollinatedBy
+48726,,Phasia,,pollinatedBy
+48726,,Ceropales,,pollinatedBy
+48726,,Bibio albipennis,,pollinatedBy
+48726,,Haltichella,,pollinatedBy
+48726,,Ceratina dupla,,pollinatedBy
+48726,,Evylaeus,,pollinatedBy
+48726,,Tiphia,,pollinatedBy
+48726,,Nomada denticulata,,pollinatedBy
+48726,265669,Ageniella accepta,,pollinatedBy
+48726,,Reichertella pulicaria,,pollinatedBy
+48726,,Chloralictus,,pollinatedBy

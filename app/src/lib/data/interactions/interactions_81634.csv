@@ -1,0 +1,131 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81634,81634,Mya arenaria,Soft-shelled Clam,eats
+81634,49504,Callinectes sapidus,Atlantic Blue Crab,eats
+81634,51508,Ctenophora,Comb Jellies,eats
+81634,1,Animalia,Animals,eats
+81634,47490,Polychaeta,Polychaete Worms,eats
+81634,85493,Crustacea,Crustaceans,eats
+81634,48478,Chrysaora quinquecirrha,Atlantic Sea Nettle,eats
+81634,81791,Nereis,,eats
+81634,67334,Cyanobacteria,cyanobacteria,eats
+81634,47126,Plantae,plants,eats
+81634,,Detritus,,eats
+81634,,meiofauna,,eats
+81634,47585,Crassostrea virginica,Eastern Oyster,eats
+81634,,Zooplankton,,eats
+81634,71252,Macoma,,eats
+81634,,Other suspension feeders,,eats
+81634,,POM (detritus),,eats
+81634,,Khakista,,eats
+81634,,Pyrrophycophyta,,eats
+81634,,Prymnesiophyceae,,eats
+81634,,Macroalgae,,eats
+81634,,Unspecified bioseston,,eats
+81634,,others,,eats
+81634,,Unspecified zooplankton,,eats
+81634,,Phytoplankton,,eats
+81634,47490,Polychaeta,Polychaete Worms,eatenBy
+81634,81634,Mya arenaria,Soft-shelled Clam,eatenBy
+81634,81791,Nereis,,eatenBy
+81634,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+81634,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+81634,47826,Cancer productus,Red Rock Crab,eatenBy
+81634,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+81634,109631,Platichthys flesus,European Flounder,eatenBy
+81634,47523,Pleuronectes platessa,European Plaice,eatenBy
+81634,61387,Limanda limanda,Sand Dab,eatenBy
+81634,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+81634,94070,Anchoa mitchilli,Bay Anchovy,eatenBy
+81634,56047,Trinectes maculatus,Hogchoker,eatenBy
+81634,84432,Morone americana,White Perch,eatenBy
+81634,47585,Crassostrea virginica,Eastern Oyster,eatenBy
+81634,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+81634,51362,Alosa pseudoharengus,Alewife,eatenBy
+81634,,meiofauna,,eatenBy
+81634,,Other suspension feeders,,eatenBy
+81634,49243,Alosa sapidissima,American shad,eatenBy
+81634,51363,Brevoortia tyrannus,Atlantic Menhaden,eatenBy
+81634,71252,Macoma,,eatenBy
+81634,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+81634,63740,Gadus morhua,Atlantic Cod,eatenBy
+81634,82385,Rhinoptera bonasus,Cownose Ray,eatenBy
+81634,49826,Acipenser,,eatenBy
+81634,144221,Melanitta nigra,Common Scoter,eatenBy
+81634,7170,Clangula hyemalis,Long-tailed Duck,eatenBy
+81634,,Tringa semipalmatus,,eatenBy
+81634,7024,Somateria mollissima,Common Eider,eatenBy
+81634,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+81634,6917,Cygnus columbianus,Tundra Swan,eatenBy
+81634,7057,Aythya valisineria,Canvasback,eatenBy
+81634,6924,Anas rubripes,American Black Duck,eatenBy
+81634,47126,Plantae,plants,preysOn
+81634,118996,Ciliophora,Ciliates,preysOn
+81634,126917,Rotifera,Rotifers,preysOn
+81634,,Cryptocotyle jejuna,,preysOn
+81634,,Ceracaria #15,,preysOn
+81634,,Microphallus claviformis,,preysOn
+81634,,Podocotyle atomon,,preysOn
+81634,,Labratrema minumus,,preysOn
+81634,,Cryptocotyle concavum,,preysOn
+81634,,Levinseniella brachysoma,,preysOn
+81634,,Cryptocotyle lingua,,preysOn
+81634,,Maritrema subdolum,,preysOn
+81634,,Gymnophallus somateriae,,preysOn
+81634,,Deropristis inflata,,preysOn
+81634,,Protista,,preysOn
+81634,,Gymnophallus choledochus,,preysOn
+81634,52523,Carcinus maenas,European Green Crab,preyedUponBy
+81634,49504,Callinectes sapidus,Atlantic Blue Crab,preyedUponBy
+81634,101053,Fundulus diaphanus,banded killifish,preyedUponBy
+81634,54539,Syngnathus,Pipe-fishes,preyedUponBy
+81634,132473,Lagodon rhomboides,Pinfish,preyedUponBy
+81634,47826,Cancer productus,Red Rock Crab,preyedUponBy
+81634,4843,Haematopus ostralegus,Eurasian Oystercatcher,preyedUponBy
+81634,3878,Tringa nebularia,Common Greenshank,preyedUponBy
+81634,118851,Crangon crangon,Brown Shrimp,preyedUponBy
+81634,204533,Larus argentatus,Herring Gull,preyedUponBy
+81634,344748,Pomatoschistus minutus,Sand Goby,preyedUponBy
+81634,3882,Tringa erythropus,Spotted Redshank,preyedUponBy
+81634,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+81634,3896,Numenius arquata,Eurasian Curlew,preyedUponBy
+81634,,Chroicocephalus ridibundus,,preyedUponBy
+81634,110042,Pomatoschistus microps,Common Goby,preyedUponBy
+81634,7024,Somateria mollissima,Common Eider,preyedUponBy
+81634,3845,Calidris canutus,Red Knot,preyedUponBy
+81634,3857,Calidris alpina,Dunlin,preyedUponBy
+81634,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+81634,109631,Platichthys flesus,European Flounder,preyedUponBy
+81634,,Limulus polyphemus,,preyedUponBy
+81634,39836,Malaclemys terrapin,Diamondback Terrapin,preyedUponBy
+81634,,Etrumeus teres,,preyedUponBy
+81634,83439,Centropristis striata,Black Sea Bass,preyedUponBy
+81634,82264,Chilomycterus schoepfii,Striped Burrfish,preyedUponBy
+81634,179427,Aluterus schoepfii,Orange Filefish,preyedUponBy
+81634,59360,Neverita duplicata,Shark Eye,preyedUponBy
+81634,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+81634,179598,Eucinostomus gula,Silver Jenny,preyedUponBy
+81634,49219,Anguilla rostrata,American Eel,preyedUponBy
+81634,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+81634,216647,Chasmodes bosquianus,Striped Blenny,preyedUponBy
+81634,,Dasyatis centroura,,preyedUponBy
+81634,93844,Ameiurus catus,White Catfish,preyedUponBy
+81634,51371,Pseudopleuronectes americanus,Winter Flounder,preyedUponBy
+81634,93187,Acipenser oxyrinchus,Atlantic Sturgeon,preyedUponBy
+81634,48902,Asterias forbesi,Forbes's Sea Star,preyedUponBy
+81634,213402,Ammodytes americanus,American Sand Lance,preyedUponBy
+81634,49823,Acipenser brevirostrum,Shortnose Sturgeon,preyedUponBy
+81634,179444,Upeneus parvus,Dwarf Goatfish,preyedUponBy
+81634,179447,Trachurus lathami,Rough Scad,preyedUponBy
+81634,61388,Scophthalmus aquosus,Windowpane Flounder,preyedUponBy
+81634,104824,Lucania parva,rainwater killifish,preyedUponBy
+81634,179620,Cynoscion nebulosus,Spotted Seatrout,preyedUponBy
+81634,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+81634,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy
+81634,179445,Trachinotus falcatus,Permit,preyedUponBy
+81634,56042,Prionotus carolinus,Northern Searobin,preyedUponBy
+81634,179454,Syacium papillosum,Dusky Flounder,preyedUponBy
+81634,317228,Mullus auratus,Red Goatfish,preyedUponBy
+81634,146600,Micropogonias undulatus,Atlantic Croaker,preyedUponBy
+81634,82385,Rhinoptera bonasus,Cownose Ray,preyedUponBy
+81634,,no name,,preyedUponBy
+81634,63740,Gadus morhua,Atlantic Cod,preyedUponBy

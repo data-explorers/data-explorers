@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+76907,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+76907,309466,Aphis gossypii,Melon Aphid,eatenBy
+76907,261351,Chlorochroa ligata,Conchuela Bug,eatenBy
+76907,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+76907,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+76907,479803,Dioprosopa clavata,Four-speckled Hover Fly,eatenBy
+76907,47219,Apis mellifera,Western Honey Bee,eatenBy
+76907,,Hippodamia variegata,,eatenBy
+76907,,Acraea,,eatenBy
+76907,,Parancistrocerus rectangulis,,eatenBy
+76907,330185,Aphis spiraecola,Spiraea Aphid,eatenBy
+76907,,Uroleucon erigeronense,,eatenBy
+76907,,Chrysolina haemoptera,,eatenBy
+76907,81959,Cerceris,Typical Weevil Wasps and Allies,pollinatedBy
+76907,178498,Phytocoris,,pollinatedBy
+76907,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+76907,120114,Anthrenus,Carpet Beetles,pollinatedBy
+76907,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+76907,47822,Diptera,Flies,pollinatedBy
+76907,61356,Vespula,Ground Yellowjackets,pollinatedBy
+76907,,Chalcosyrphus nemorum,,pollinatedBy
+76907,,Anoplius virginiensis,,pollinatedBy
+76907,,Typocerus lugubris,,pollinatedBy
+76907,,Hyalurgus,,pollinatedBy
+76907,,Epistrophe emarginata,,pollinatedBy
+76907,,Typocerus sinuatus,,pollinatedBy
+76907,1097562,Volucella evecta,Eastern Swiftwing,pollinatedBy
+76907,,Cheilosia hoodiana,,pollinatedBy
+76907,,Onthophagus pennsylvanicus,,pollinatedBy
+76907,,Arge,,pollinatedBy
+76907,,Frontina,,pollinatedBy
+76907,,Colletes nudus,,pollinatedBy
+76907,,Corizus,,pollinatedBy
+76907,320563,Anthocomus,,pollinatedBy
+76907,1061160,Blaesoxipha hunteri,,pollinatedBy
+76907,,Hippelates plebejus,,pollinatedBy
+76907,,Holcopasites heliopsis,,pollinatedBy
+76907,,Euphorus,,pollinatedBy
+76907,,Heminomada,,pollinatedBy
+76907,,Morellia micans,,pollinatedBy
+76907,,Tryphon americanus,,pollinatedBy
+76907,,Anoplius illinoensis,,pollinatedBy
+76907,,Euschistus ictericus,,pollinatedBy
+76907,643325,Pompiloides,,pollinatedBy
+76907,454932,Systropus macer,,pollinatedBy
+76907,,Mordellistena comata,,pollinatedBy
+76907,133100,Spilomyia,Hornet Flies,pollinatedBy
+76907,,N/A N/A,,pollinatedBy
+76907,,Self pollinated,,pollinatedBy

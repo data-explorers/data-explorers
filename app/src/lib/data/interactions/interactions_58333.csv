@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58333,1102259,Copestylum violaceum,,eatenBy
+58333,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+58333,34,Grus americana,Whooping Crane,eatenBy
+58333,,Numida mitrata,,eatenBy
+58333,,Grus canadensis,,eatenBy
+58333,,Ploceus capensis,,eatenBy
+58333,,Colius colius,,eatenBy
+58333,,Urocolius indicus,,eatenBy
+58333,,Colius striatus,,eatenBy
+58333,637649,Tortrix capensana,,eatenBy
+58333,,Agapema anona,,eatenBy
+58333,,Cercotrichas paena,,eatenBy
+58333,,Lybius torquatus,,eatenBy
+58333,,Acromyrmex versicolor,,eatenBy
+58333,7603,Auriparus flaviceps,Verdin,eatenBy
+58333,,Copestylum fornax,,eatenBy
+58333,,Copestylum isabellina,,eatenBy
+58333,,Microsphaeropsis olivacea,,eatenBy
+58333,3460,Zenaida asiatica,White-winged Dove,eatenBy
+58333,5562,Trochilidae,Hummingbirds,pollinatedBy
+58333,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+58333,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

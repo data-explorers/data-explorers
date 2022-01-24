@@ -1,0 +1,65 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7293,47208,Coleoptera,Beetles,eats
+7293,47157,Lepidoptera,Butterflies and Moths,eats
+7293,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+7293,47120,Arthropoda,Arthropods,eats
+7293,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7293,,Eriogonum desertorum,,eats
+7293,,oats (grass),,eats
+7293,,tumbleweed amaranth (forb/shrub),,eats
+7293,,indian ricegrass (grass),,eats
+7293,,knotweed (forb/shrub),,eats
+7293,,scarlet globe mallow (forb/shrub),,eats
+7293,,Magnoliophyta,,eats
+7293,,Teuchothrips clavipilus,,eatenBy
+7293,963267,Castiarina vanderwoudeae,,eatenBy
+7293,,Castiarina vallisii,,eatenBy
+7293,,Castiarina rufa,,eatenBy
+7293,,Castiarina rediviva,,eatenBy
+7293,,Castiarina kempsteri,,eatenBy
+7293,,Castiarina euclae,,eatenBy
+7293,,Castiarina cornishi,,eatenBy
+7293,,Castiarina browningi,,eatenBy
+7293,790048,Candalides heathi,Rayed Blue,eatenBy
+7293,,Xenaleyrodes timonii,,eatenBy
+7293,,Remotaspidiotus squamosus,,eatenBy
+7293,,Remotaspidiotus coralinus,,eatenBy
+7293,,Polyozus galbanus,,eatenBy
+7293,,Polyozus furcilla,,eatenBy
+7293,,Poecilometis fuscescens,,eatenBy
+7293,,Neoclavaspis duplex,,eatenBy
+7293,,Neagenor spinosus,,eatenBy
+7293,1158460,Macrocarenoides scutellatus,,eatenBy
+7293,,Lasiacantha serraseta,,eatenBy
+7293,,Lasiacantha pilbara,,eatenBy
+7293,,Lasiacantha nipha,,eatenBy
+7293,,Lasiacantha meedo,,eatenBy
+7293,,Lasiacantha luritja,,eatenBy
+7293,,Lasiacantha inaquosa,,eatenBy
+7293,,Lasiacantha eremophila,,eatenBy
+7293,,Lasiacantha dysmikos,,eatenBy
+7293,,Lasiacantha discordis,,eatenBy
+7293,,Lasiacantha darwini,,eatenBy
+7293,,Lasiacantha caneriverensis,,eatenBy
+7293,,Lasiacantha aureolus,,eatenBy
+7293,,Lasiacantha adamah,,eatenBy
+7293,,Jiwarli ptilotus,,eatenBy
+7293,1086744,Inoma stysi,,eatenBy
+7293,1086740,Inoma fuscata,,eatenBy
+7293,1086743,Inoma breviseta,,eatenBy
+7293,,Eremophilacoris aridicolus,,eatenBy
+7293,,Reclavaspis evexa,,eatenBy
+7293,1029395,Cuspicona intacta,Black-spotted Shield Bug,eatenBy
+7293,,Cuspicona eremophilae,,eatenBy
+7293,202774,Coridromius chenopoderis,,eatenBy
+7293,,Chlamydopteryx mammoides,,eatenBy
+7293,,Aspidiotus nerii,,eatenBy
+7293,895933,Coenotes eremophilae,,eatenBy
+7293,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+7293,,Swainson's hawk,,eatenBy
+7293,417713,Barnardius zonarius barnardi,Mallee Ringneck,eatenBy
+7293,20315,Asio flammeus,Short-eared Owl,eatenBy
+7293,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+7293,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+7293,47822,Diptera,Flies,preysOn
+7293,,insects in herb and surface stratum,,preysOn

@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55470,81769,Blattodea,Cockroaches and Termites,preysOn
+55470,53237,Cicadellidae,Typical Leafhoppers,preysOn
+55470,47742,Pentatomidae,Stink Bugs,preysOn
+55470,47118,Araneae,Spiders,preysOn
+55470,61267,Heteroptera,True Bugs,preysOn
+55470,52425,Chrysopidae,Green Lacewings,preysOn
+55470,47367,Opiliones,Harvestmen,preysOn
+55470,50168,Gnaphosidae,Ground Spiders,preysOn
+55470,373577,Typhlocybinae,,preysOn
+55470,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+55470,1123175,Pelochares versicolor,,preysOn
+55470,123608,Delphacidae,,preysOn
+55470,86114,Trichoniscidae,,preysOn
+55470,131962,Stenus,,preysOn
+55470,203350,Anacaena limbata,,preysOn
+55470,131943,Rugilus rufipes,,preysOn
+55470,,Polyhydrus lineatus,,preysOn
+55470,,Carpelimus manchuricus subtilicornis,,preysOn
+55470,50190,Cicadoidea,Cicadas,preysOn
+55470,,Asellus aquaticus,,preysOn
+55470,143336,Phlaeothripidae,Tube-tailed Thrips,preysOn
+55470,554158,Chartoscirta cincta,,preysOn
+55470,,Nestus,,preysOn
+55470,784201,Liocranoeca striata,,preysOn
+55470,,Pirata,,preysOn
+55470,123596,Chilocorus bipustulatus,Heather Ladybird,preysOn
+55470,1151405,Lesteva sicula,,preysOn
+55470,360548,Zora spinimana,,preysOn
+55470,,Diplocampa assimile,,preysOn
+55470,1006257,Platystethus nodifrons,,preysOn
+55470,131918,Platystethus,,preysOn
+55470,153881,Ozyptila,Leaflitter Crab Spiders,preysOn
+55470,,Carpelimus manchuricus,,preysOn
+55470,,Polyhydrus lineatus (F.),,preysOn
+55470,551912,Bembidion assimile,,preysOn
+55470,1017741,Stenus ruralis,,preysOn
+55470,47951,Staphylinidae,Rove Beetles,preyedUponBy
+55470,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+55470,54027,Pepsis,New World Tarantula-hawk Wasps,preyedUponBy
+55470,505524,Pirata piscatorius,,preyedUponBy
+55470,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+55470,,Paederus riparius,,preyedUponBy
+55470,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+55470,1086379,Tetartopeus terminatum,,preyedUponBy
+55470,,Gabrius fermoralis,,preyedUponBy
+55470,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+55470,55469,Arctosa leopardus,Leopard Bear-spider,preyedUponBy
+55470,,Lathrobium fovalum,,preyedUponBy
+55470,,Anguis fragilis,,preyedUponBy
+55470,,Lithobius,,preyedUponBy
+55470,784206,Trochosa spinipalpis,,preyedUponBy
+55470,359911,Staphylininae,,preyedUponBy
+55470,231469,Staphylinus erythropterus,,preyedUponBy
+55470,,Lathrobium fovalum (Steph.),,preyedUponBy
+55470,,Gabrius fermoralis (Hochh.),,preyedUponBy

@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+505478,505478,Gallus gallus domesticus,Domestic Chicken,eats
+505478,202505,Zosterops lateralis,Silvereye,eats
+505478,1264431,Neogale frenata,Long-tailed Weasel,eatenBy
+505478,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+505478,41880,Mephitis mephitis,Striped Skunk,eatenBy
+505478,505478,Gallus gallus domesticus,Domestic Chicken,eatenBy
+505478,4345,Larus occidentalis,Western Gull,eatenBy
+505478,,Neotoma cinerea,,eatenBy
+505478,5140,Accipiter melanoleucus,Black Sparrowhawk,eatenBy
+505478,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+505478,,Diaemus youngi,,eatenBy
+505478,,Diphylla ecaudata,,eatenBy
+505478,204496,Corvus corone,Carrion Crow,eatenBy
+505478,539399,Boa imperator,Central American Boa,eatenBy
+505478,73888,Pantherophis obsoletus,Western Ratsnake,eatenBy
+505478,26717,Dasypeltis scabra,Egg-eating Snake,eatenBy
+505478,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+505478,42069,Vulpes vulpes,Red Fox,preyedUponBy
+505478,5140,Accipiter melanoleucus,Black Sparrowhawk,preyedUponBy
+505478,20059,Bubo bubo,Eurasian Eagle-Owl,preyedUponBy
+505478,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+505478,5108,Accipiter gentilis,Northern Goshawk,preyedUponBy

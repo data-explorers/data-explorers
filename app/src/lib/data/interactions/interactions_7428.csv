@@ -1,0 +1,114 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7428,47148,Rosaceae,rose family,eats
+7428,47120,Arthropoda,Arthropods,eats
+7428,211194,Tracheophyta,vascular plants,eats
+7428,1,Animalia,Animals,eats
+7428,52381,Aphididae,Aphids,eats
+7428,47351,Prunus,"plums, cherries, and allies",eats
+7428,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+7428,48599,Phytolacca americana,American pokeweed,eats
+7428,47208,Coleoptera,Beetles,eats
+7428,48201,Scarabaeidae,Scarabs,eats
+7428,125816,Auchenorrhyncha,True Hoppers,eats
+7428,119936,Vitis riparia,riverbank grape,eats
+7428,47124,Magnoliopsida,dicots,eats
+7428,49399,Juniperus virginiana,eastern redcedar,eats
+7428,54500,Malus,apples,eats
+7428,47199,Ichneumonidae,Ichneumonid Wasps,eats
+7428,47544,Rubus,brambles,eats
+7428,47157,Lepidoptera,Butterflies and Moths,eats
+7428,51225,Tipulidae,Large Crane Flies,eats
+7428,48736,Curculionidae,True Weevils,eats
+7428,47792,Odonata,Dragonflies and Damselflies,eats
+7428,49567,Carabidae,Ground Beetles,eats
+7428,53248,Elateridae,Click Beetles,eats
+7428,48011,Ephemeroptera,Mayflies,eats
+7428,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7428,47118,Araneae,Spiders,eats
+7428,51146,Chrysomelidae,Leaf Beetles,eats
+7428,47822,Diptera,Flies,eats
+7428,47336,Formicidae,Ants,eats
+7428,47158,Insecta,Insects,eats
+7428,58732,Toxicodendron radicans,poison ivy,eats
+7428,77835,Lonicera japonica,Japanese honeysuckle,eats
+7428,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+7428,125845,Prunus caroliniana,Carolina laurelcherry,eats
+7428,83799,Mitchella repens,partridgeberry,eats
+7428,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+7428,54774,Viburnum,viburnums,eats
+7428,78882,Rosa multiflora,multiflora rose,eats
+7428,61119,Ilex verticillata,winterberry holly,eats
+7428,56090,Morus alba,white mulberry,eats
+7428,49230,Amelanchier,serviceberries,eats
+7428,3800,Morus,Gannets,eats
+7428,77740,Ligustrum lucidum,tree privet,eats
+7428,57354,Schinus molle,Peruvian Pepper Tree,eats
+7428,79521,Washingtonia robusta,Mexican Fan Palm,eats
+7428,50999,Ficus,Figs,eats
+7428,53405,Heteromeles arbutifolia,Toyon,eats
+7428,143792,Pistacia chinensis,Chinese pistache,eats
+7428,69819,Ligustrum,privets,eats
+7428,54858,Celtis,hackberries,eats
+7428,47125,Angiospermae,flowering plants,eats
+7428,54052,Pyracantha,firethorns,eats
+7428,60773,Vitis,grapevines,eats
+7428,47126,Plantae,plants,eats
+7428,76949,Eriobotrya japonica,Loquat,eats
+7428,126887,Berberis aquifolium,Oregon grape,eats
+7428,339974,Eucalyptus leucoxylon,Yellow gum,eats
+7428,,Archips fumiferana,,eats
+7428,133382,Amelanchier canadensis,Canadian serviceberry,eats
+7428,,Morus rubra,,eats
+7428,,Viburnum prunifolium,,eats
+7428,,Sternorrhyncha,,eats
+7428,54777,Cornus florida,flowering dogwood,eats
+7428,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+7428,54793,Lindera benzoin,northern spicebush,eats
+7428,,Guettarda elliptica,,eats
+7428,,Ficus lapathifolia,,eats
+7428,316801,Randia laetevirens,,eats
+7428,,Casearia arborea,,eats
+7428,,Brosimum alicastrum,,eats
+7428,,Phoradendron quadrangulare,,eats
+7428,,Bursera simaruba,,eats
+7428,,Vitis biformis,,eats
+7428,283078,Achatocarpus nigricans,,eats
+7428,,Karwinskia humboldtiana,,eats
+7428,,Bromelia pinguin,,eats
+7428,,Coccoloba barbadensis,,eats
+7428,,Celtis caudata,,eats
+7428,,Psychotria lauracea,,eats
+7428,,Sapranthus microcarpus,,eats
+7428,,Rourea glabra,,eats
+7428,,Malpighia glabra,,eats
+7428,,Trophis racemosa,,eats
+7428,284455,Tabernaemontana alba,,eats
+7428,,Tournefortia hirsutissima,,eats
+7428,127936,Chiococca alba,West Indian milkberry,eats
+7428,,Tabernaemontana litoralis,,eats
+7428,,Cupania dentata,,eats
+7428,,Eugenia acapulcensis,,eats
+7428,,Nectandra coriacea,,eats
+7428,,Psittacanthus,,eats
+7428,,Bursera fagaroides,,eats
+7428,,Dendropanax arboreus,,eats
+7428,,Sabal,,eats
+7428,,Opuntia stricta,,eats
+7428,,Vaccinium myrsinites,,eats
+7428,,Smilax pumila,,eats
+7428,,Ilex cassine,,eats
+7428,,Symplocos tinctoria,,eats
+7428,,Ampelopsis arborea,,eats
+7428,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+7428,9602,Quiscalus quiscula,Common Grackle,eatenBy
+7428,4672,Falco columbarius,Merlin,eatenBy
+7428,77740,Ligustrum lucidum,tree privet,eatenBy
+7428,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+7428,20445,Tyto alba,Barn Owl,eatenBy
+7428,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+7428,,Rana catesbeiana,,eatenBy
+7428,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+7428,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+7428,47927,Anisoptera,Dragonflies,preysOn
+7428,65979,Lithobates catesbeianus,American Bullfrog,preyedUponBy
+7428,4672,Falco columbarius,Merlin,preyedUponBy

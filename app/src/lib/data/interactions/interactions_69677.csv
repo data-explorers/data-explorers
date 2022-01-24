@@ -1,0 +1,79 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69677,47178,Actinopterygii,Ray-finned Fishes,eats
+69677,40151,Mammalia,Mammals,eats
+69677,47459,Cephalopoda,Cephalopods,eats
+69677,41437,Phocoenidae,Porpoises,eats
+69677,47115,Mollusca,Molluscs,eats
+69677,1,Animalia,Animals,eats
+69677,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+69677,53585,Carcharhinus,Typical Requiem Sharks,eats
+69677,47232,Carangidae,Jacks,eats
+69677,49238,Sparidae,Seabreams and Porgies,eats
+69677,49263,Haemulidae,Grunts,eats
+69677,47765,Serranidae,Groupers and Sea Basses,eats
+69677,47126,Plantae,plants,eats
+69677,342912,Caridea,Caridean Shrimps,eats
+69677,85493,Crustacea,Crustaceans,eats
+69677,39657,Cheloniidae,Typical Sea Turtles,eats
+69677,49235,Clupeiformes,Herrings,eats
+69677,47542,Istiophoridae,Billfishes,eats
+69677,,Gnathostomata,,eats
+69677,,,,eats
+69677,432457,Illex argentinus,Argentine Shortfin Squid,eats
+69677,92881,Xiphias,,eats
+69677,96762,Carcharhinus obscurus,Dusky Shark,eats
+69677,120672,Scomberesox saurus,Atlantic Saury,eats
+69677,115167,Xiphias gladius,Swordfish,eats
+69677,,Preprilus triacanthus,,eats
+69677,110361,Prionace glauca,Blue Shark,eats
+69677,201533,Doryteuthis pealeii,Longfin Inshore Squid,eats
+69677,50984,Pomatomus saltatrix,Bluefish,eats
+69677,,Osteichthyes,,eats
+69677,118678,Scomber scombrus,Atlantic Mackerel,eats
+69677,,Detritus,,eats
+69677,,Illex ilecebrosus,,eats
+69677,49219,Anguilla rostrata,American Eel,eats
+69677,63742,Gadidae,Cods and Haddocks,eats
+69677,230758,Sebastes norvegicus,Golden Redfish,eats
+69677,146887,Illex illecebrosus,Northern Shortfin Squid,eats
+69677,56948,Sarda,Bonitos,eats
+69677,,Tetrapoda,,eats
+69677,125291,Molva molva,European Ling,eats
+69677,,Arripis,,eats
+69677,91292,Prionace,,eats
+69677,325684,Anchoa spinifer,Spicule Anchovy,eats
+69677,56767,Sphyrna,Hammerhead Sharks,eats
+69677,63743,Gadus,,eats
+69677,85566,Alepisauridae,Lancetfishes,eats
+69677,,Chondrichthyes,,eats
+69677,,Decabrachia,,eats
+69677,224886,Merluccius bilinearis,Silver Hake,eats
+69677,50873,Carcharodon carcharias,Great White Shark,eatenBy
+69677,63770,Engraulis mordax,Northern Anchovy,preysOn
+69677,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+69677,56943,Katsuwonus pelamis,Skipjack Tuna,preysOn
+69677,432422,Gonatopsis borealis,Boreopacific Armhook Squid,preysOn
+69677,55535,Sardinops sagax,Pacific Sardine,preysOn
+69677,63691,Cololabis saira,Pacific Saury,preysOn
+69677,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+69677,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+69677,337529,Gonatus,Gonate Squids,preysOn
+69677,64464,Sebastes jordani,Shortbelly Rockfish,preysOn
+69677,,Sebastes goodei,,preysOn
+69677,97375,Chilara taylori,Spotted Cusk-eel,preysOn
+69677,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+69677,47762,Sebastes,Rockfishes,preysOn
+69677,432457,Illex argentinus,Argentine Shortfin Squid,preysOn
+69677,96762,Carcharhinus obscurus,Dusky Shark,preysOn
+69677,110361,Prionace glauca,Blue Shark,preysOn
+69677,120672,Scomberesox saurus,Atlantic Saury,preysOn
+69677,224886,Merluccius bilinearis,Silver Hake,preysOn
+69677,49219,Anguilla rostrata,American Eel,preysOn
+69677,179507,Peprilus triacanthus,Butterfish,preysOn
+69677,51363,Brevoortia tyrannus,Atlantic Menhaden,preysOn
+69677,50984,Pomatomus saltatrix,Bluefish,preysOn
+69677,233996,Zoarces americanus,Ocean Pout,preysOn
+69677,230758,Sebastes norvegicus,Golden Redfish,preysOn
+69677,54540,Hippocampus erectus,Northern Seahorse,preysOn
+69677,118678,Scomber scombrus,Atlantic Mackerel,preysOn
+69677,115167,Xiphias gladius,Swordfish,preysOn

@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49339,372442,Corythucha morrilli,Morrill Lace Bug,eatenBy
+49339,199840,Haemorhous mexicanus,House Finch,eatenBy
+49339,68165,Linepithema humile,Argentine Ant,eatenBy
+49339,69900,Lytta magister,Master Blister Beetle,eatenBy
+49339,,Melacoryphus lateralis,,eatenBy
+49339,,Ovis canadensis nelsoni,,eatenBy
+49339,49348,Hyles lineata,White-lined Sphinx,eatenBy
+49339,,Occidryas chalcedona,,eatenBy
+49339,,Callipepla gambelii,,eatenBy
+49339,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+49339,47158,Insecta,Insects,pollinatedBy
+49339,47157,Lepidoptera,Butterflies and Moths,pollinatedBy

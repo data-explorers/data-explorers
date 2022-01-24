@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+122235,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+122235,496201,Buthus ibericus,Iberian Scorpion,preyedUponBy
+122235,29353,Natriciteres variegata,Variable Marsh Snake,preyedUponBy
+122235,29358,Natriciteres fuliginoides,Marsh Snake,preyedUponBy

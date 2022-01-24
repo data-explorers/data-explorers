@@ -1,0 +1,147 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52764,47219,Apis mellifera,Western Honey Bee,eatenBy
+52764,1081323,Lon hobomok,Hobomok Skipper,eatenBy
+52764,52775,Bombus,Bumble Bees,eatenBy
+52764,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+52764,55626,Pieris rapae,Cabbage White,eatenBy
+52764,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+52764,50931,Strymon melinus,Gray Hairstreak,eatenBy
+52764,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+52764,,Carduelis chloris,,eatenBy
+52764,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+52764,,Carduelis carduelis,,eatenBy
+52764,,Alectoris rufa,,eatenBy
+52764,,Amara aulica,,eatenBy
+52764,,Ophonus azureus,,eatenBy
+52764,130433,Amara aenea,Common Sun Beetle,eatenBy
+52764,,Ophonus schaubergerianus,,eatenBy
+52764,130452,Amara plebeja,,eatenBy
+52764,,Lygus pratensis,,eatenBy
+52764,,Amara sinuosa,,eatenBy
+52764,,Pachytomella arallela,,eatenBy
+52764,,Diachromus germanus,,eatenBy
+52764,552756,Orius niger,,eatenBy
+52764,,Drymus sylvaticus,,eatenBy
+52764,,Drymus ryei,,eatenBy
+52764,547575,Anthicus antherinus,,eatenBy
+52764,,Anaceratagallia ribauti,,eatenBy
+52764,,Anisodactylus binotatus,,eatenBy
+52764,,Exomias pellucidus,,eatenBy
+52764,,Helophorus griseus,,eatenBy
+52764,,Rhyparochromus pini,,eatenBy
+52764,606260,Eupteryx vittata,,eatenBy
+52764,,Helophorus nubilus,,eatenBy
+52764,219849,Eupteryx atropunctata,,eatenBy
+52764,606261,Eupteryx notata,,eatenBy
+52764,,Emelyanoviana mollicula,,eatenBy
+52764,768727,Eupteryx calcarata,,eatenBy
+52764,504708,Ophonus laticollis,,eatenBy
+52764,,Peritrechus nubilus,,eatenBy
+52764,,Agrypnus murinus,,eatenBy
+52764,,Peritrechus geniculatus,,eatenBy
+52764,,Adrastus rachifer,,eatenBy
+52764,,Exomias trichopterus,,eatenBy
+52764,456218,Agriotes obscurus,,eatenBy
+52764,,Sphragisticus nebulosus,,eatenBy
+52764,523365,Harpalus griseus,,eatenBy
+52764,,Hemicrepidius hirtus,,eatenBy
+52764,,Amara ovata,,eatenBy
+52764,,Harpalus distinguendus,,eatenBy
+52764,,Amara equestris,,eatenBy
+52764,131102,Harpalus tardus,,eatenBy
+52764,,Amara lunicollis,,eatenBy
+52764,,Amara eurynota,,eatenBy
+52764,,Squamapion cineraceum,,eatenBy
+52764,547612,Trachys scrobiculatus,,eatenBy
+52764,,Trechus quadristriatus,,eatenBy
+52764,,Podops inuncta,,eatenBy
+52764,,Rhyparochromus vulgaris,,eatenBy
+52764,,Athous bicolor,,eatenBy
+52764,204590,Plagiognathus arbustorum,Common Nettle Flower Bug,eatenBy
+52764,,Amara quenseli,,eatenBy
+52764,,Capreolus capreolus,,eatenBy
+52764,,Alces alces,,eatenBy
+52764,42407,Bison bonasus,European Bison,eatenBy
+52764,42134,Sus scrofa,Wild Boar,eatenBy
+52764,,Cervus elaphus,,eatenBy
+52764,,Clossiana dia,,eatenBy
+52764,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+52764,,Meligethes umbrosus,,eatenBy
+52764,,Diaporthe desmazieri,,eatenBy
+52764,43997,Myocastor coypus,Coypu,eatenBy
+52764,875825,Trifurcula headleyella,Self-heal Pigmy,eatenBy
+52764,,Pieris oleracea,,eatenBy
+52764,,Bombus vagans bolsteri,,eatenBy
+52764,,Zerene eurydice,,eatenBy
+52764,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+52764,6363,Selasphorus rufus,Rufous Hummingbird,pollinatedBy
+52764,6359,Selasphorus sasin,Allen's Hummingbird,pollinatedBy
+52764,126905,Harrisina americana,Grapeleaf Skeletonizer Moth,pollinatedBy
+52764,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+52764,47652,Erynnis,Duskywings,pollinatedBy
+52764,325491,Sayapis,,pollinatedBy
+52764,55488,Diabrotica,,pollinatedBy
+52764,48060,Prosopis,mesquites,pollinatedBy
+52764,127741,Colletes,Cellophane Bees,pollinatedBy
+52764,57677,Halictus,Furrow Bees,pollinatedBy
+52764,127812,Hylaeus,Masked Bees,pollinatedBy
+52764,51111,Xylocopa,Large Carpenter Bees,pollinatedBy
+52764,155108,Ceratina,Small Carpenter Bees,pollinatedBy
+52764,52775,Bombus,Bumble Bees,pollinatedBy
+52764,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+52764,,Hylocharis leucotis,,pollinatedBy
+52764,,Selasphorus platycercus,,pollinatedBy
+52764,559084,Eugenes fulgens,Rivoli's Hummingbird,pollinatedBy
+52764,,Gnathias,,pollinatedBy
+52764,,Corimelaena pulicaria,,pollinatedBy
+52764,,Batizonus algidus,,pollinatedBy
+52764,336738,Leschenaultia,,pollinatedBy
+52764,,Panzeria,,pollinatedBy
+52764,,Pentaria trifasciata,,pollinatedBy
+52764,,Holonomada,,pollinatedBy
+52764,142278,Podisus,,pollinatedBy
+52764,,Pseudoplisus,,pollinatedBy
+52764,,Hoplitis,,pollinatedBy
+52764,,Nemotelus glaber,,pollinatedBy
+52764,,Triepeolus donatus,,pollinatedBy
+52764,,Metoposarcophaga,,pollinatedBy
+52764,,Ceropales,,pollinatedBy
+52764,173499,Eucerceris,,pollinatedBy
+52764,,Sphecodium,,pollinatedBy
+52764,,Anoplius virginiensis,,pollinatedBy
+52764,,Ophyra leucostoma ,,pollinatedBy
+52764,,Mordellistena ornata,,pollinatedBy
+52764,,Andrena polemonii,,pollinatedBy
+52764,,Anoplius illinoensis,,pollinatedBy
+52764,,Polistes annularis,,pollinatedBy
+52764,,Plagiotoma,,pollinatedBy
+52764,,Hemiteles,,pollinatedBy
+52764,,Cerotoma,,pollinatedBy
+52764,,Themira putris,,pollinatedBy
+52764,,Ripiphorus,,pollinatedBy
+52764,,Reichertella pulicaria,,pollinatedBy
+52764,452937,Triepeolus helianthi,Sunflower Cuckoo Nomad Bee,pollinatedBy
+52764,,Bracon,,pollinatedBy
+52764,,Hesperia,,pollinatedBy
+52764,359320,Bombus diversus,Diverse Bumble Bee,pollinatedBy
+52764,,Petaphora maritima,,pollinatedBy
+52764,,Ceratina esakii ,,pollinatedBy
+52764,,Hylaeus floralis ,,pollinatedBy
+52764,,Megachile nipponica ,,pollinatedBy
+52764,,Ceratina flavipes ,,pollinatedBy
+52764,,,,pollinatedBy
+52764,488964,Scotinophara,,pollinatedBy
+52764,,Cyphon,,pollinatedBy
+52764,,Fabriciana adippe,,pollinatedBy
+52764,,Ceratina japonica ,,pollinatedBy
+52764,,Ochlodes ochracea,,pollinatedBy
+52764,70405,Melanostoma scalare,Ladder-backed Hover Fly,pollinatedBy
+52764,339937,Betasyrphus serarius,,pollinatedBy
+52764,121989,Bombus hortorum,Garden Bumble Bee,pollinatedBy
+52764,,Meliscaeva cinctella,,pollinatedBy
+52764,,Bombus pascuorum,,pollinatedBy
+52764,,Zygaena filipendulae ,,pollinatedBy
+52764,,Maniola jurtina,,pollinatedBy
+52764,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+52764,,Amara communis,,preyedUponBy
+52764,,Cantharis lateralis,,preyedUponBy

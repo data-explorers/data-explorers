@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62403,58578,Euphydryas phaeton,Baltimore Checkerspot,eatenBy
+62403,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+62403,48550,Phoebis sennae,Cloudless Sulphur,eatenBy
+62403,,Thessalia cyneas,,eatenBy
+62403,,Thessalia theona,,eatenBy
+62403,48505,Junonia coenia,Common Buckeye,eatenBy
+62403,,Agapostemon splendens,,eatenBy

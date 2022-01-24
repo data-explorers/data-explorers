@@ -1,0 +1,64 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+153441,119561,Helophilus fasciatus,Narrow-headed Marsh Fly,eatenBy
+153441,118492,Helicoverpa zea,Corn Earworm Moth,eatenBy
+153441,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+153441,,Bombus ternarius,,eatenBy
+153441,155106,Eristalis dimidiata,Black-shouldered Drone Fly,eatenBy
+153441,,Eristalis transversa,,eatenBy
+153441,,Ancistrocerus adiabatus,,eatenBy
+153441,320907,Sericomyia militaris,Narrow-banded Pond Fly,eatenBy
+153441,55719,Eristalis tenax,Common Drone Fly,eatenBy
+153441,,Acrocercops astericola,,eatenBy
+153441,,Ophiomyia parda,,eatenBy
+153441,47822,Diptera,Flies,pollinatedBy
+153441,203323,Collops quadrimaculatus,Four-spotted Collops,pollinatedBy
+153441,127741,Colletes,Cellophane Bees,pollinatedBy
+153441,325491,Sayapis,,pollinatedBy
+153441,85362,Sphex ichneumoneus,Great Golden Digger Wasp,pollinatedBy
+153441,48739,Sphex,,pollinatedBy
+153441,61858,Lucilia,Greenbottle Flies,pollinatedBy
+153441,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+153441,47208,Coleoptera,Beetles,pollinatedBy
+153441,61356,Vespula,Ground Yellowjackets,pollinatedBy
+153441,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+153441,,Odontalictus,,pollinatedBy
+153441,,Haltica,,pollinatedBy
+153441,,Hammomyia,,pollinatedBy
+153441,,Conura debilis,,pollinatedBy
+153441,,Syrphus torvus,,pollinatedBy
+153441,,Arge,,pollinatedBy
+153441,,Pollenia rudis,,pollinatedBy
+153441,133100,Spilomyia,Hornet Flies,pollinatedBy
+153441,,Gonia sequax,,pollinatedBy
+153441,,Melissodes vernoniae,,pollinatedBy
+153441,,Chloralictus,,pollinatedBy
+153441,,Drepanium,,pollinatedBy
+153441,,Apallates coxendix,,pollinatedBy
+153441,,Physocephala texana,,pollinatedBy
+153441,486837,Cemolobus,cemolobus bees,pollinatedBy
+153441,,Ripiphorus,,pollinatedBy
+153441,,Triepeolus donatus,,pollinatedBy
+153441,322713,Sapromyza,,pollinatedBy
+153441,,Corphyra,,pollinatedBy
+153441,,Alyson,,pollinatedBy
+153441,299141,Urosigalphus femoratus,,pollinatedBy
+153441,,Myospila meditabunda,,pollinatedBy
+153441,,Tiphia,,pollinatedBy
+153441,646104,Therioplectes,,pollinatedBy
+153441,199064,Sphecodes minor,minor cuckoo sweat bee,pollinatedBy
+153441,,Trirhoptrasema,,pollinatedBy
+153441,,Megachile mendica,,pollinatedBy
+153441,,Nathalis iole,,pollinatedBy
+153441,,Ophyra leucostoma ,,pollinatedBy
+153441,264615,Bracon mellitor,,pollinatedBy
+153441,,http://treatment.plazi.org/id/C4980AEB0983855F5668B5045CA0789C,,pollinatedBy
+153441,,Agrotis ipsilon,,pollinatedBy
+153441,,Xanthosarus,,pollinatedBy
+153441,62033,Stylogaster neglecta,,pollinatedBy
+153441,,Leionotus,,pollinatedBy
+153441,572115,Pseudopanurgus labrosus,,pollinatedBy
+153441,643325,Pompiloides,,pollinatedBy
+153441,,Evylaeus,,pollinatedBy
+153441,,Ceropales,,pollinatedBy
+153441,1120891,Feltia subgothica,Subgothic and Tricose Darts,pollinatedBy
+153441,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy

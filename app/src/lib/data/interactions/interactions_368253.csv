@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+368253,47126,Plantae,plants,preysOn
+368253,,Protista,,preysOn
+368253,6930,Anas platyrhynchos,Mallard,preyedUponBy
+368253,48343,Hemigrapsus,,preyedUponBy
+368253,6987,Anas superciliosa,Pacific Black Duck,preyedUponBy
+368253,67313,Glycera,,preyedUponBy
+368253,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preyedUponBy
+368253,357475,Dorvillea,,preyedUponBy
+368253,4835,Himantopus himantopus,Black-winged Stilt,preyedUponBy
+368253,566304,Perinereis nuntia,,preyedUponBy
+368253,368098,Perinereis,,preyedUponBy
+368253,321987,Aglaophamus,,preyedUponBy
+368253,339312,Goniadidae,,preyedUponBy
+368253,,Geminosyllis,,preyedUponBy
+368253,471051,Halicarcinus whitei,Estuarine Pillbox Crab,preyedUponBy

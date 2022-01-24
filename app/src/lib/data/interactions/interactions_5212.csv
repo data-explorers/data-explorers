@@ -1,0 +1,234 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5212,40151,Mammalia,Mammals,eats
+5212,3,Aves,Birds,eats
+5212,2,Chordata,Chordates,eats
+5212,1,Animalia,Animals,eats
+5212,47208,Coleoptera,Beetles,eats
+5212,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+5212,26036,Reptilia,Reptiles,eats
+5212,47158,Insecta,Insects,eats
+5212,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+5212,29044,Pituophis catenifer,Gopher Snake,eats
+5212,20978,Amphibia,Amphibians,eats
+5212,48894,Scorpiones,Scorpions,eats
+5212,44349,Peromyscus,North American Deer Mice,eats
+5212,7251,Passeriformes,Perching Birds,eats
+5212,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+5212,6912,Anatidae,"Ducks, Geese, and Swans",eats
+5212,43698,Rodentia,Rodents,eats
+5212,44576,Rattus norvegicus,Brown Rat,eats
+5212,574,Phasianidae,"Pheasants, Grouse, and Allies",eats
+5212,882,Gallus gallus,Red Junglefowl,eats
+5212,6930,Anas platyrhynchos,Mallard,eats
+5212,473,Fulica americana,American Coot,eats
+5212,146314,Opheodrys vernalis,Smooth Greensnake,eats
+5212,11989,Icteridae,New World Blackbirds and Orioles,eats
+5212,47649,Acrididae,Short-horned Grasshoppers,eats
+5212,45933,Sciuridae,Squirrels,eats
+5212,45994,Sciurus,Tree Squirrels,eats
+5212,44311,Microtus pennsylvanicus,Meadow Vole,eats
+5212,45763,Ondatra zibethicus,Muskrat,eats
+5212,47118,Araneae,Spiders,eats
+5212,3454,Zenaida macroura,Mourning Dove,eats
+5212,46342,Sorex,Long-tailed Shrews,eats
+5212,26172,Squamata,Snakes and Lizards,eats
+5212,85553,Serpentes,Snakes,eats
+5212,44737,Neotoma,Woodrats,eats
+5212,44396,Peromyscus maniculatus,Deer Mouse,eats
+5212,9535,Sturnella neglecta,Western Meadowlark,eats
+5212,48268,Crotalus oreganus,Western Rattlesnake,eats
+5212,14850,Sturnus vulgaris,European Starling,eats
+5212,44062,Thomomys bottae,Botta's Pocket Gopher,eats
+5212,44259,Microtus,Meadow Voles,eats
+5212,10325,Euphagus cyanocephalus,Brewer's Blackbird,eats
+5212,43096,Sylvilagus,Cottontail Rabbits,eats
+5212,7294,Eremophila alpestris,Horned Lark,eats
+5212,16791,Tyrannus verticalis,Western Kingbird,eats
+5212,12936,Sialia currucoides,Mountain Bluebird,eats
+5212,6888,Anseriformes,Waterfowl,eats
+5212,17550,Piciformes,"Woodpeckers, Barbets, and Allies",eats
+5212,573,Galliformes,Landfowl,eats
+5212,43095,Leporidae,Hares and Rabbits,eats
+5212,981,Phasianus colchicus,Ring-necked Pheasant,eats
+5212,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+5212,118552,Felis catus,Domestic Cat,eats
+5212,38634,Teiidae,Whiptails and Tegus,eats
+5212,9607,Quiscalus mexicanus,Great-tailed Grackle,eats
+5212,547193,Masticophis flagellum,Coachwhip,eats
+5212,18236,Colaptes auratus,Northern Flicker,eats
+5212,19609,Phalaenoptilus nuttallii,Common Poorwill,eats
+5212,506118,Aphelocoma californica,California Scrub-Jay,eats
+5212,49556,Chilopoda,Centipedes,eats
+5212,36141,Sceloporus,Spiny Lizards,eats
+5212,44419,Reithrodontomys,American Harvest Mice,eats
+5212,152870,Artiodactyla,Even-toed Ungulates and Cetaceans,eats
+5212,3108,Patagioenas fasciata,Band-tailed Pigeon,eats
+5212,26575,Diadophis punctatus,ring-necked snake,eats
+5212,46927,Talpidae,Moles and Desmans,eats
+5212,28339,Thamnophis,Garter Snakes,eats
+5212,31888,Anguidae,Glass and Alligator Lizards,eats
+5212,879,Gallus,Junglefowl,eats
+5212,46881,Blarina,Short-tailed Shrews,eats
+5212,44052,Geomys,Eastern Pocket Gophers,eats
+5212,520586,Tamias,,eats
+5212,29923,Heterodon,Hog-nosed Snakes,eats
+5212,29033,Pituophis,"Pine, Gopher, and Bullsnakes",eats
+5212,3438,Zenaida,Zenaida Doves,eats
+5212,7006,Anser,Grey Geese,eats
+5212,26721,Ambystoma,Mole Salamanders,eats
+5212,3000,Columba,Old World Pigeons,eats
+5212,41801,Mustela,,eats
+5212,9091,Melospiza,Melospiza Sparrows,eats
+5212,980,Phasianus,,eats
+5212,41880,Mephitis mephitis,Striped Skunk,eats
+5212,47014,Scalopus aquaticus,Eastern Mole,eats
+5212,46217,Tamias striatus,Eastern Chipmunk,eats
+5212,74677,Myodes gapperi,Southern Red-backed Vole,eats
+5212,12727,Turdus migratorius,American Robin,eats
+5212,13858,Passer domesticus,House Sparrow,eats
+5212,8021,Corvus brachyrhynchos,American Crow,eats
+5212,46020,Sciurus niger,Fox Squirrel,eats
+5212,71349,Parulidae,New World Warblers,eats
+5212,44395,Peromyscus leucopus,White-footed Mouse,eats
+5212,8229,Cyanocitta cristata,Blue Jay,eats
+5212,3017,Columba livia,Rock Pigeon,eats
+5212,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+5212,59815,Sorex cinereus,Masked Shrew,eats
+5212,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+5212,40269,Vespertilionidae,Evening Bats,eats
+5212,1965,Coccyzus americanus,Yellow-billed Cuckoo,eats
+5212,46260,Tamiasciurus hudsonicus,American Red Squirrel,eats
+5212,46341,Soricidae,Shrews,eats
+5212,890,Bonasa umbellus,Ruffed Grouse,eats
+5212,7089,Branta canadensis,Canada Goose,eats
+5212,9100,Melospiza melodia,Song Sparrow,eats
+5212,33177,Gekkonidae,Typical Geckos,eats
+5212,44326,Microtus californicus,California Vole,eats
+5212,4385,Larus californicus,California Gull,eats
+5212,522201,Neotoma lepida,Desert Woodrat,eats
+5212,44575,Rattus rattus,Black Rat,eats
+5212,54960,Nematoda,Nematodes,eats
+5212,64970,Anaxyrus boreas,Western Toad,eats
+5212,81576,Belostoma,,eats
+5212,4956,Ardea herodias,Great Blue Heron,eats
+5212,52864,Tramea,Saddlebag Gliders,eats
+5212,27818,Taricha torosa,California Newt,eats
+5212,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+5212,67731,Anax junius,Common Green Darner,eats
+5212,11901,Hirundo rustica,Barn Swallow,eats
+5212,11935,Tachycineta bicolor,Tree Swallow,eats
+5212,3936,Scolopax minor,American Woodcock,eats
+5212,41663,Procyon lotor,Common Raccoon,eats
+5212,488924,Muroidea,Muroids,eats
+5212,180007,Otospermophilus beecheyi,California Ground Squirrel,eats
+5212,4929,Ardeidae,"Herons, Egrets, and Bitterns",eats
+5212,43115,Sylvilagus audubonii,Desert Cottontail,eats
+5212,42652,Didelphis virginiana,Virginia Opossum,eats
+5212,355675,Vertebrata,Vertebrates,eats
+5212,53897,Stenopelmatidae,Jerusalem Crickets,eats
+5212,1986,Geococcyx californianus,Greater Roadrunner,eats
+5212,848323,Euarchontoglires,"Primates, Rodents, and Allies",eats
+5212,122767,Columba livia domestica,Feral Pigeon,eats
+5212,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,eats
+5212,32055,Elgaria multicarinata,Southern Alligator Lizard,eats
+5212,47178,Actinopterygii,Ray-finned Fishes,eats
+5212,44540,Rattus,Old World Rats,eats
+5212,29053,Pituophis catenifer annectens,San Diego Gopher Snake,eats
+5212,42223,Odocoileus virginianus,White-tailed Deer,eats
+5212,43094,Lagomorpha,Lagomorphs,eats
+5212,5085,Accipiter,Accipiters,eats
+5212,32049,Elgaria,Western Alligator Lizards,eats
+5212,146199,Lampropeltis californiae,California King Snake,eats
+5212,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+5212,1409,Callipepla californica,California Quail,eats
+5212,8010,Corvus corax,Common Raven,eatenBy
+5212,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+5212,,Echinostoma trivolvis,,eatenBy
+5212,,Echinostoma,,eatenBy
+5212,,Ribeiroia ondatrae,,eatenBy
+5212,,Aquila chrysaetos,,eatenBy
+5212,11935,Tachycineta bicolor,Tree Swallow,preysOn
+5212,81576,Belostoma,,preysOn
+5212,64970,Anaxyrus boreas,Western Toad,preysOn
+5212,9744,Agelaius phoeniceus,Red-winged Blackbird,preysOn
+5212,11901,Hirundo rustica,Barn Swallow,preysOn
+5212,67731,Anax junius,Common Green Darner,preysOn
+5212,52864,Tramea,Saddlebag Gliders,preysOn
+5212,4956,Ardea herodias,Great Blue Heron,preysOn
+5212,27818,Taricha torosa,California Newt,preysOn
+5212,473,Fulica americana,American Coot,preysOn
+5212,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preysOn
+5212,64968,Anaxyrus americanus,American Toad,preysOn
+5212,43096,Sylvilagus,Cottontail Rabbits,preysOn
+5212,46017,Sciurus carolinensis,Eastern Gray Squirrel,preysOn
+5212,6912,Anatidae,"Ducks, Geese, and Swans",preysOn
+5212,122767,Columba livia domestica,Feral Pigeon,preysOn
+5212,180007,Otospermophilus beecheyi,California Ground Squirrel,preysOn
+5212,44576,Rattus norvegicus,Brown Rat,preysOn
+5212,40151,Mammalia,Mammals,preysOn
+5212,45933,Sciuridae,Squirrels,preysOn
+5212,2708,Columbiformes,Pigeons and Doves,preysOn
+5212,43698,Rodentia,Rodents,preysOn
+5212,44311,Microtus pennsylvanicus,Meadow Vole,preysOn
+5212,7998,Corvus,Crows and Ravens,preysOn
+5212,85552,Sauria,Lizards,preysOn
+5212,47126,Plantae,plants,preysOn
+5212,18236,Colaptes auratus,Northern Flicker,preysOn
+5212,44027,Geomyidae,Pocket Gophers,preysOn
+5212,41663,Procyon lotor,Common Raccoon,preysOn
+5212,3,Aves,Birds,preysOn
+5212,28339,Thamnophis,Garter Snakes,preysOn
+5212,46020,Sciurus niger,Fox Squirrel,preysOn
+5212,28362,Thamnophis sirtalis,Common Garter Snake,preysOn
+5212,43095,Leporidae,Hares and Rabbits,preysOn
+5212,43111,Sylvilagus floridanus,Eastern Cottontail,preysOn
+5212,85553,Serpentes,Snakes,preysOn
+5212,45994,Sciurus,Tree Squirrels,preysOn
+5212,1,Animalia,Animals,preysOn
+5212,6930,Anas platyrhynchos,Mallard,preysOn
+5212,44540,Rattus,Old World Rats,preysOn
+5212,42652,Didelphis virginiana,Virginia Opossum,preysOn
+5212,355675,Vertebrata,Vertebrates,preysOn
+5212,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+5212,7251,Passeriformes,Perching Birds,preysOn
+5212,3936,Scolopax minor,American Woodcock,preysOn
+5212,44326,Microtus californicus,California Vole,preysOn
+5212,46217,Tamias striatus,Eastern Chipmunk,preysOn
+5212,47208,Coleoptera,Beetles,preysOn
+5212,3454,Zenaida macroura,Mourning Dove,preysOn
+5212,44062,Thomomys bottae,Botta's Pocket Gopher,preysOn
+5212,1986,Geococcyx californianus,Greater Roadrunner,preysOn
+5212,506118,Aphelocoma californica,California Scrub-Jay,preysOn
+5212,981,Phasianus colchicus,Ring-necked Pheasant,preysOn
+5212,848323,Euarchontoglires,"Primates, Rodents, and Allies",preysOn
+5212,505478,Gallus gallus domesticus,Domestic Chicken,preysOn
+5212,48268,Crotalus oreganus,Western Rattlesnake,preysOn
+5212,43115,Sylvilagus audubonii,Desert Cottontail,preysOn
+5212,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preysOn
+5212,18209,Melanerpes formicivorus,Acorn Woodpecker,preysOn
+5212,717903,Masticophis lateralis,Striped Racer,preysOn
+5212,44396,Peromyscus maniculatus,Deer Mouse,preysOn
+5212,63113,Blarina brevicauda,Northern Short-tailed Shrew,preysOn
+5212,3000,Columba,Old World Pigeons,preysOn
+5212,146199,Lampropeltis californiae,California King Snake,preysOn
+5212,,Lestes,,preysOn
+5212,28418,Thamnophis atratus,Aquatic Garter Snake,preysOn
+5212,,Letherocerus americanus,,preysOn
+5212,67016,Rana draytonii,California Red-legged Frog,preysOn
+5212,,Pseudiacris regilla,,preysOn
+5212,51679,Coenagrion,Northern Bluets,preysOn
+5212,,Spermophilus beecheyi,,preysOn
+5212,,vole (microtus),,preysOn
+5212,,Sciurini,,preysOn
+5212,46180,Cynomys gunnisoni,Gunnison's Prairie Dog,preysOn
+5212,,Xerospermophilus perotensis,,preysOn
+5212,367477,Rallus crepitans,Clapper Rail,preysOn
+5212,,Thamnophis ordinoides,,preysOn
+5212,29200,Opheodrys aestivus,Rough Greensnake,preysOn
+5212,28562,Storeria dekayi,Dekay's Brownsnake,preysOn
+5212,,Aphrodita,,preysOn
+5212,,Pantherophis alleghaniensis,,preysOn
+5212,200661,Coluber constrictor mormon,Western Yellow-bellied Racer,preysOn
+5212,,Dipodomys ingens,,preysOn
+5212,325776,Neotominae,North American Mice and Rats,preysOn
+5212,,Ictidomys parvidens,,preysOn

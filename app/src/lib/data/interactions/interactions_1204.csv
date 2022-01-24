@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1204,,Pseudaspis cana,,eatenBy
+1204,32150,Python molurus,Indian Python,eatenBy
+1204,32150,Python molurus,Indian Python,preyedUponBy

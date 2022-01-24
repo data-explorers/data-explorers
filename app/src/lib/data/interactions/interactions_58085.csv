@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58085,59119,Pontia protodice,Checkered White,eats
+58085,59119,Pontia protodice,Checkered White,eatenBy
+58085,55626,Pieris rapae,Cabbage White,eatenBy
+58085,,Pieris brassicae,,eatenBy
+58085,,Anthocharis euphenoides,,eatenBy

@@ -1,0 +1,104 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81559,85485,Amphicarpaea bracteata,American hog-peanut,eats
+81559,56088,Robinia pseudoacacia,black locust,eats
+81559,77642,Lathyrus palustris,marsh pea,eats
+81559,125186,Lespedeza capitata,round-headed bush clover,eats
+81559,119139,Lespedeza,bush clovers and lespedezas,eats
+81559,57358,Amorpha californica,California False Indigo,eats
+81559,57357,Amorpha,False Indigos,eats
+81559,47436,Lotus,bird's-foot trefoils and deervetches,eats
+81559,85324,Desmodium,ticktrefoils,eats
+81559,49370,Astragalus,milkvetches,eats
+81559,50321,Lathyrus,sweet peas and vetchlings,eats
+81559,82771,Erythrina,Coral trees,eats
+81559,47452,Acacia,wattles,eats
+81559,85486,Amphicarpaea,,eats
+81559,56089,Robinia,Locust Trees,eats
+81559,85320,Monarda fistulosa,wild bergamot,eats
+81559,48678,Solidago,goldenrods,eats
+81559,47912,Asclepias tuberosa,butterfly milkweed,eats
+81559,48628,Echinacea,coneflowers,eats
+81559,48561,Cirsium,thistles,eats
+81559,48622,Nepeta cataria,Catnip,eats
+81559,76214,Centaurea stoebe,spotted knapweed,eats
+81559,48627,Echinacea purpurea,purple coneflower,eats
+81559,47544,Rubus,brambles,eats
+81559,51876,Trifolium,clovers,eats
+81559,47193,Cornus,dogwoods,eats
+81559,132600,Tilia cordata,Small-leaved Lime,eats
+81559,142279,Symphyotrichum pilosum,hairy white oldfield aster,eats
+81559,117443,Symphyotrichum novae-angliae,New England aster,eats
+81559,51875,Trifolium pratense,red clover,eats
+81559,61009,Lathyrus latifolius,broad-leaved sweet pea,eats
+81559,50644,Salvia,Sages,eats
+81559,52736,Monarda,beebalms and bergamots,eats
+81559,158076,Agastache foeniculum,anise hyssop,eats
+81559,69819,Ligustrum,privets,eats
+81559,54765,Rhus,sumacs,eats
+81559,57317,Vicia villosa,hairy vetch,eats
+81559,76610,Daucus carota,wild carrot,eats
+81559,79487,Verbena bonariensis,purpletop vervain,eats
+81559,,Wisteria,,eats
+81559,,Amorpha fruticosa,,eats
+81559,,Desmodium nudiflorum,,eats
+81559,,Gleditsia,,eats
+81559,,Robinia hispida,,eats
+81559,,Apios americana,,eats
+81559,,Hosackia crassifolia,,eats
+81559,130993,Desmodium paniculatum,panicled ticktrefoil,eats
+81559,,Desmodium rotundifolium,,eats
+81559,,Pueraria,,eats
+81559,54797,Gleditsia triacanthos,honey locust,eats
+81559,,Glycyrrhiza,,eats
+81559,85340,Galactia,,eats
+81559,,Wisteria sinensis,,eats
+81559,,Phaseolus,,eats
+81559,161739,Desmodium marilandicum,Maryland Tick-trefoil,eats
+81559,,Desmodium perplexum,,eats
+81559,,http://treatment.plazi.org/id/E04510217934C968F89185CDCB40C3B3,,eats
+81559,,Rhynchosia minima,,eats
+81559,,Robinia neomexicana,,eats
+81559,122850,Phaseolus vulgaris,Common Bean,eats
+81559,,Desmodium glabellum,,eats
+81559,,http://treatment.plazi.org/id/9C3EA076049CF79FE28D1D5ADD93DC86,,eats
+81559,,Pueraria montana,,eats
+81559,,http://treatment.plazi.org/id/3F8BFD614B92EE609066C03F753578BF,,eats
+81559,71064,Rhynchosia,Snoutbeans,eats
+81559,,Dipsacus fullonum,,eats
+81559,57120,Salvia azurea grandiflora,pitcher sage,eats
+81559,,Cirsium altissimum,,eats
+81559,,Vernonia,,eats
+81559,132450,Zinnia,,eats
+81559,117438,Dipsacus laciniatus,cutleaf teasel,eats
+81559,,Liatris pycnostachya,,eats
+81559,,Echium plantagineum,,eats
+81559,,Phytomyza,,eats
+81559,57095,Eriodictyon californicum,California yerba santa,eats
+81559,53348,Aesculus californica,California buckeye,eats
+81559,,Solidago altissima,,eats
+81559,,Eupatorium serotinum,,eats
+81559,,Vernonia gigantea,,eats
+81559,,Dipsacus,,eats
+81559,,Vernonia missurica,,eats
+81559,,Vigna unguiculata,,eats
+81559,168993,Silphium integrifolium,prairie rosinweed,eats
+81559,,Vicia cracca,,eats
+81559,,Zinnia elegans,,eats
+81559,,Liatris scariosa,,eats
+81559,,Hibiscus syriacus,,eats
+81559,170867,Lysimachia × commixta,,eats
+81559,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+81559,61321,Lythrum salicaria,purple loosestrife,eats
+81559,,Cephalanthus occidentalis,,eats
+81559,,Salvia uliginosa,,eats
+81559,,Passiflora incarnata,,eats
+81559,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+81559,,Argiope aurantia,,eatenBy
+81559,,Gomphurus vastus,,eatenBy
+81559,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+81559,,Platanthera blephariglottis,,pollinates
+81559,,Iris virginica,,pollinates
+81559,,Wisteria,,pollinates
+81559,,Monarda punctata,,pollinates
+81559,,Asclepias exaltata,,pollinates
+81559,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy

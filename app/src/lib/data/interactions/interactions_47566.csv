@@ -1,0 +1,108 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47566,46260,Tamiasciurus hudsonicus,American Red Squirrel,eatenBy
+47566,47114,Gastropoda,Gastropods,eatenBy
+47566,43095,Leporidae,Hares and Rabbits,eatenBy
+47566,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+47566,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+47566,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+47566,58586,Limenitis archippus,Viceroy,eatenBy
+47566,55624,Acronicta,Dagger Moths,eatenBy
+47566,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+47566,146979,Dasychira,,eatenBy
+47566,55468,Sabulodes,,eatenBy
+47566,127510,Fomes fomentarius,Hoof Fungus,eatenBy
+47566,327945,Metatrichia vesparium,Wasp's Nest Slime Mold,eatenBy
+47566,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+47566,47158,Insecta,Insects,eatenBy
+47566,43584,Homo sapiens,Human,eatenBy
+47566,7998,Corvus,Crows and Ravens,eatenBy
+47566,889,Bonasa,,eatenBy
+47566,60607,Limenitis arthemis,Red-spotted Admiral,eatenBy
+47566,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+47566,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+47566,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+47566,81682,Campaea,,eatenBy
+47566,127511,Fomes,,eatenBy
+47566,118993,Hemerobiidae,Brown Lacewings,eatenBy
+47566,49995,Syrphidae,Hover Flies,eatenBy
+47566,49528,Forficulidae,Common Earwigs,eatenBy
+47566,47951,Staphylinidae,Rove Beetles,eatenBy
+47566,49567,Carabidae,Ground Beetles,eatenBy
+47566,48486,Coccinellidae,Lady Beetles,eatenBy
+47566,52932,Cantharidae,Soldier Beetles,eatenBy
+47566,53505,Miridae,Plant Bugs,eatenBy
+47566,174592,Anthocoridae,Minute pirate bugs,eatenBy
+47566,52425,Chrysopidae,Green Lacewings,eatenBy
+47566,124705,Pholiota aurivella,Golden Pholiota,eatenBy
+47566,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47566,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47566,334095,Pemphigus bursarius,Poplar Gall Aphid,eatenBy
+47566,,Euura amerinae,,eatenBy
+47566,,Caliroa varipes,,eatenBy
+47566,,Cimbex luteus,,eatenBy
+47566,,Nematus (Pteronidea) pavidus,,eatenBy
+47566,,Nematus (Pteronidea) melanocephalus,,eatenBy
+47566,,Xiphydria prolongata,,eatenBy
+47566,,Ametastegia perla,,eatenBy
+47566,1113209,Stauronematus platycerus,,eatenBy
+47566,,Pristiphora (Pristiphora) conjugata,,eatenBy
+47566,,Janus luteipes,,eatenBy
+47566,,Craesus septentrionalis,,eatenBy
+47566,,Nematus papillosus,,eatenBy
+47566,,Nematus (Pteronidea) hypoxanthus,,eatenBy
+47566,,Nematus (Nematus) caeruleocarpus,,eatenBy
+47566,,Rhogogaster chlorosoma,,eatenBy
+47566,,Cladius grandis,,eatenBy
+47566,,Euura atra,,eatenBy
+47566,,Nematus (Nematus) vicinus,,eatenBy
+47566,,Nematus (Pteronidea) nigricornis,,eatenBy
+47566,,Cossonus linearis,,eatenBy
+47566,,Micridium halidaii,,eatenBy
+47566,99044,Dacne notata,,eatenBy
+47566,225321,Mycetophagus quadriguttatus,,eatenBy
+47566,,Litargus connexus,,eatenBy
+47566,,Orthoperus atomus,,eatenBy
+47566,,Latridius hirtus,,eatenBy
+47566,,Mycetophagus multipunctatus,,eatenBy
+47566,,Mycetophagus salicis,,eatenBy
+47566,,Triplax aenea,,eatenBy
+47566,,Tritoma subbasalis,,eatenBy
+47566,216805,Choristoneura conflictana,Large Aspen Tortrix,eatenBy
+47566,,Yponomeuta rorrella,,eatenBy
+47566,1089831,Yponomeuta gigas,,eatenBy
+47566,321981,Pandemis heparana,Dark Fruit-tree Tortrix,eatenBy
+47566,,Choristoneura rosaceana,,eatenBy
+47566,,Ptycholoma lecheana,,eatenBy
+47566,,Choristoneura diversana,,eatenBy
+47566,,Acleris roscidana,,eatenBy
+47566,,Pseudexentera oregonana,,eatenBy
+47566,,Gypsonoma dealbana,,eatenBy
+47566,,Epinotia nisella,,eatenBy
+47566,,Acleris hastiana,,eatenBy
+47566,,Amorbia humerosana,,eatenBy
+47566,,Acleris emargana,,eatenBy
+47566,,Archips subsidiaria,,eatenBy
+47566,,Gypsonoma fasciolana,,eatenBy
+47566,,Epinotia solandriana,,eatenBy
+47566,,Archips rosana,,eatenBy
+47566,,Archips argyrospila,,eatenBy
+47566,717725,Eucosma hapalosarca,,eatenBy
+47566,,Gypsonoma sociana,,eatenBy
+47566,,Smerinthus jamaicensis,,eatenBy
+47566,,Phtheochroa micana,,eatenBy
+47566,,Smerinthus saliceti,,eatenBy
+47566,,Sesia ommatiaeformis,,eatenBy
+47566,,Pachysphinx occidentalis,,eatenBy
+47566,143445,Pachysphinx modesta,Modest Sphinx,eatenBy
+47566,,Saturnia pyri,,eatenBy
+47566,717817,Sesia pimplaeformis,,eatenBy
+47566,,Paranthrene robiniae,,eatenBy
+47566,,Alleucosma,,eatenBy
+47566,,Sesia,,eatenBy
+47566,,Rhizophagus cribratus,,preyedUponBy
+47566,,Rhizophagus parvulus,,preyedUponBy
+47566,,Platylomalus complanatus,,preyedUponBy
+47566,,Phloeopora teres,,preyedUponBy
+47566,,Bothrideres contractus,,preyedUponBy
+47566,,Cybocephalus politus,,preyedUponBy
+47566,,Sphaeriestes reyi,,preyedUponBy

@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9420,211194,Tracheophyta,vascular plants,eats
+9420,1,Animalia,Animals,eats
+9420,47351,Prunus,"plums, cherries, and allies",eats
+9420,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+9420,47434,Poaceae,grasses,eats
+9420,47124,Magnoliopsida,dicots,eats
+9420,47157,Lepidoptera,Butterflies and Moths,eats
+9420,68685,Cassia,,eats
+9420,48972,Polygonum,knotweeds,eats
+9420,48571,Carex,true sedges,eats
+9420,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9420,53178,Plantago lanceolata,ribwort plantain,eats
+9420,53298,Stellaria media,common chickweed,eats
+9420,47208,Coleoptera,Beetles,eats
+9420,154156,Croton setiger,turkey mullein,eats
+9420,51876,Trifolium,clovers,eats
+9420,50999,Ficus,Figs,eats
+9420,48528,Symphoricarpos,snowberries,eats
+9420,49567,Carabidae,Ground Beetles,eats
+9420,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9420,52689,Sambucus,elders,eats
+9420,52697,Avena,Oats,eats
+9420,47120,Arthropoda,Arthropods,eats
+9420,53195,Rumex acetosella,Sheep's sorrel,eats
+9420,47544,Rubus,brambles,eats
+9420,47687,Erodium cicutarium,Redstem Stork's-bill,eats
+9420,60773,Vitis,grapevines,eats
+9420,48486,Coccinellidae,Lady Beetles,eats
+9420,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9420,52698,Avena fatua,wild oat,eats
+9420,47122,Fabaceae,legumes,eats
+9420,48736,Curculionidae,True Weevils,eats
+9420,54765,Rhus,sumacs,eats
+9420,57922,Centaurea melitensis,Maltese star-thistle,eats
+9420,55488,Diabrotica,,eats
+9420,58390,Triticum,Wheats,eats
+9420,61317,Rubus armeniacus,Armenian Blackberry,eats
+9420,50824,Ribes speciosum,Fuchsiaflower Gooseberry,eats
+9420,53423,Frangula californica,coffeeberry,eats
+9420,48448,Zea mays,Maize,eats
+9420,60881,Lonicera involucrata,twinberry honeysuckle,eats
+9420,,Solanum ptychanthum,,eats
+9420,,Saissetia oleae,,eats
+9420,,Claytonia perfoliata,,eats
+9420,,Madia sativa,,eats
+9420,,Amaranthus retroflexus,,eats
+9420,,Calandrinia ciliata,,eats
+9420,,Solanum laciniatum,,eats
+9420,64694,Elaeagnus angustifolia,Russian olive,eats
+9420,4672,Falco columbarius,Merlin,eatenBy
+9420,20044,Bubo virginianus,Great Horned Owl,eatenBy
+9420,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9420,47158,Insecta,Insects,preysOn
+9420,4672,Falco columbarius,Merlin,preyedUponBy

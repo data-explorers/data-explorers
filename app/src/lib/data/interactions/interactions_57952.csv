@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57952,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+57952,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+57952,309381,Megachile fidelis,,eatenBy
+57952,216649,Chauliognathus pensylvanicus,Goldenrod Soldier Beetle,eatenBy
+57952,47219,Apis mellifera,Western Honey Bee,eatenBy
+57952,1021509,Junonia grisea,Gray Buckeye,eatenBy
+57952,48548,Vanessa cardui,Painted Lady,eatenBy
+57952,50786,Vanessa annabella,West Coast Lady,eatenBy
+57952,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+57952,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+57952,128824,Lucilia sericata,Common European Greenbottle Fly,eatenBy
+57952,58532,Colias eurytheme,Orange Sulphur,eatenBy
+57952,224501,Megachile perihirta,Western Leafcutter,eatenBy
+57952,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+57952,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+57952,127747,Halictus rubicundus,Orange-legged Furrow Bee,eatenBy
+57952,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+57952,335749,Dioxyna picciola,,eatenBy
+57952,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+57952,,Diachrysia orichalcea,,eatenBy
+57952,,Euproserpinus phaeton,,eatenBy
+57952,212737,Agonopterix atrodorsella,Beggartick Leaffolder Moth,eatenBy
+57952,,Trichoplusia orichalcea,,eatenBy
+57952,447484,Xanthothrix neumoegeni,,eatenBy
+57952,447531,Xanthothrix ranunculi,,eatenBy
+57952,478240,Coleophora acamtopappi,,eatenBy
+57952,,Synchlora aerata,,eatenBy
+57952,1272633,Prospalta pallidipennis,,eatenBy
+57952,483517,Condica capensis,The African,eatenBy
+57952,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+57952,636878,Coelioxys modestus,Modest Cuckoo Leaf-cutter Bee,eatenBy
+57952,,Megachile rotundata,,eatenBy
+57952,,Agraulis vanillae,,eatenBy
+57952,62453,Anthidium manicatum,European Woolcarder Bee,eatenBy
+57952,893825,Dielis trifasciata,Three-banded Scoliid Wasp,eatenBy
+57952,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+57952,489094,Euodynerus hidalgo viereckii,,eatenBy
+57952,58506,Polites themistocles,Tawny-edged Skipper,eatenBy
+57952,,Atalopedes campestris,,eatenBy
+57952,526062,Halictus poeyi,Poey's Furrow Bee,eatenBy
+57952,,Eristalis transversa,,eatenBy
+57952,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+57952,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+57952,61356,Vespula,Ground Yellowjackets,pollinatedBy
+57952,47208,Coleoptera,Beetles,pollinatedBy
+57952,49995,Syrphidae,Hover Flies,pollinatedBy
+57952,49707,Halictidae,Sweat Bees,pollinatedBy
+57952,52777,Megachilidae,"Mason, Leafcutter, Carder, and Resin Bees",pollinatedBy
+57952,47220,Apis,Honey Bees,pollinatedBy
+57952,47822,Diptera,Flies,pollinatedBy
+57952,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+57952,271496,Melissodes coreopsis,Tickseed Long-horned Bee,pollinatedBy
+57952,,http://treatment.plazi.org/id/A459BB3272A20F0496F58D579D703807,,pollinatedBy
+57952,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

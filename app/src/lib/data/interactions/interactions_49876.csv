@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49876,48548,Vanessa cardui,Painted Lady,eatenBy
+49876,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+49876,,Nymphalis californica,,eatenBy
+49876,,Coenonympha california california,,eatenBy

@@ -1,0 +1,91 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47314,47178,Actinopterygii,Ray-finned Fishes,eats
+47314,47186,Decapoda,Decapods,eats
+47314,47126,Plantae,plants,eats
+47314,58642,Fundulus heteroclitus,Mummichog,eats
+47314,61092,Ruppia,widgeonweeds,eats
+47314,,Detritus,,eats
+47314,64099,Gerres oyena,Blacktip Silverbiddy,eats
+47314,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+47314,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+47314,116999,Pandion haliaetus,Osprey,eatenBy
+47314,4262,Phalacrocoracidae,Cormorants and Shags,eatenBy
+47314,92734,Umbrina,,eatenBy
+47314,4956,Ardea herodias,Great Blue Heron,eatenBy
+47314,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+47314,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+47314,26068,Crocodylus porosus,Saltwater Crocodile,eatenBy
+47314,,Larus audouinii,,eatenBy
+47314,4389,Larus cachinnans,Caspian Gull,eatenBy
+47314,103044,Hydrophis fasciatus,Slender Sea Snake,eatenBy
+47314,104140,Hydrophis coggeri,Cogger's Sea Snake,eatenBy
+47314,35224,Hydrophis caerulescens,Dwarf Sea Snake,eatenBy
+47314,447428,Eledone cirrhosa,Curled Octopus,eatenBy
+47314,513493,Glaucosoma hebraicum,West Australian Dhufish,eatenBy
+47314,529910,Rexea antefurcata,Longfin Gemfish,eatenBy
+47314,,Plesiobatis daviesi,,eatenBy
+47314,49264,Haemulon,,eatenBy
+47314,104853,Lutjanus analis,Mutton Snapper,eatenBy
+47314,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+47314,131385,Pseudupeneus maculatus,Spotted Goatfish,eatenBy
+47314,179626,Conodon nobilis,Barred grunt,eatenBy
+47314,179444,Upeneus parvus,Dwarf Goatfish,eatenBy
+47314,96766,Carcharhinus signatus,Night Shark,eatenBy
+47314,51404,Trichiurus lepturus,Largehead Hairtail,eatenBy
+47314,47227,Caranx latus,Horse-eye Jack,eatenBy
+47314,51402,Megalops atlanticus,Atlantic Tarpon,eatenBy
+47314,49165,Larimus breviceps,Shorthead Drum,eatenBy
+47314,607507,Pseudobatos percellens,Chola Guitarfish,eatenBy
+47314,317477,Micropogonias furnieri,Whitemouth Croaker,eatenBy
+47314,179478,Priacanthus arenatus,Bigeye,eatenBy
+47314,131530,Lutjanus synagris,Lane Snapper,eatenBy
+47314,63718,Albula vulpes,Bonefish,eatenBy
+47314,131527,Pristipomoides aquilonaris,Wenchman,eatenBy
+47314,104803,Lophius gastrophysus,,eatenBy
+47314,204563,Myripristis amaena,Brick Soldierfish,eatenBy
+47314,153280,Caranx ignobilis,Giant Trevally,eatenBy
+47314,123690,Caranx melampygus,Bluefin Trevally,eatenBy
+47314,100349,Eridacnis radcliffei,Pygmy Ribbontail Catshark,eatenBy
+47314,96268,Bythaelurus hispidus,Bristly catshark,eatenBy
+47314,121598,Gymnothorax eurostus,Stout Moray,eatenBy
+47314,53702,Psettodes erumei,Australian Halibut,eatenBy
+47314,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+47314,55529,Carcharhinus limbatus,Common Blacktip Shark,eatenBy
+47314,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+47314,179544,Menticirrhus littoralis,Gulf Kingcroaker,eatenBy
+47314,131454,Halieutichthys aculeatus,Pancake Batfish,eatenBy
+47314,179490,Prionotus rubio,Blackwing Searobin,eatenBy
+47314,179493,Pontinus longispinis,Longspine Scorpionfish,eatenBy
+47314,49509,Lutjanus griseus,Grey Snapper,eatenBy
+47314,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47314,128750,Sciaenops ocellatus,Red Drum,eatenBy
+47314,50984,Pomatomus saltatrix,Bluefish,eatenBy
+47314,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+47314,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+47314,90430,Ogcocephalus,,eatenBy
+47314,131407,Rhynchoconger flavus,Conger eel,eatenBy
+47314,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+47314,179442,Urophycis floridana,Southern Codling,eatenBy
+47314,154501,Cynoscion nothus,Silver Seatrout,eatenBy
+47314,54440,Synodus foetens,Inshore Lizardfish,eatenBy
+47314,96762,Carcharhinus obscurus,Dusky Shark,eatenBy
+47314,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+47314,100095,Epinephelus drummondhayi,Speckled Hind,eatenBy
+47314,100104,Epinephelus guttatus,Red Hind,eatenBy
+47314,131491,Rachycentron canadum,Cobia,eatenBy
+47314,103161,Hyporthodus nigritus,Warsaw Grouper,eatenBy
+47314,49637,Epinephelus morio,Red Grouper,eatenBy
+47314,41752,Arctocephalus forsteri,New Zealand Fur Seal,eatenBy
+47314,,Microcarbo melanoleucos,,eatenBy
+47314,35223,Hydrophis cyanocinctus,Annulated Sea Snake,eatenBy
+47314,35211,Hydrophis spiralis,Yellow Sea Snake,eatenBy
+47314,4537,Anous minutus,Black Noddy,eatenBy
+47314,4937,Egretta caerulea,Little Blue Heron,eatenBy
+47314,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+47314,68343,Laticauda colubrina,Banded Sea Krait,preyedUponBy
+47314,,Hydrophis brooki,,preyedUponBy
+47314,35217,Hydrophis melanosoma,Black-banded Sea Snake,preyedUponBy
+47314,200388,Hydrophis hardwickii,Hardwicke’s Spine-bellied Seasnake,preyedUponBy
+47314,318698,Hydrophis schistosus,Common Seasnake,preyedUponBy
+47314,103044,Hydrophis fasciatus,Slender Sea Snake,preyedUponBy
+47314,,Phalacrocorax carbo novaehollandiae,,preyedUponBy

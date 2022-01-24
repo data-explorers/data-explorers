@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51111,47789,Clarkia,,eats
+51111,75602,Asclepias curassavica,tropical milkweed,eats
+51111,50644,Salvia,Sages,eats
+51111,,Salvia sclarea,,eats
+51111,,Salvia microphylla,,eats
+51111,76541,Cucurbita pepo,American pumpkin,eats
+51111,,Solaneae,,eats
+51111,47383,Latrodectus geometricus,Brown Widow,eatenBy
+51111,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+51111,,Merops bullockoides,,eatenBy
+51111,,Anolis carolinensis,,eatenBy
+51111,52764,Prunella vulgaris,common selfheal,pollinates
+51111,48561,Cirsium,thistles,pollinates
+51111,85436,Tibouchina,glory bushes and allies,pollinates
+51111,,Heteropterys,,pollinates
+51111,,Banisteriopsis muricata,,pollinates
+51111,,Opuntia stricta,,pollinates
+51111,,Vernonia,,pollinates
+51111,286547,Cornutia pyramidata,,pollinates
+51111,62841,Cordia,,pollinates
+51111,127285,Coccoloba,,pollinates
+51111,,Chamaecrista glandulosa,,pollinates
+51111,,Calliandra tergemina,,pollinates
+51111,,,,pollinates
+51111,48887,Miconia,,pollinates
+51111,,Bursera simaruba ,,pollinates
+51111,,Galactophora schomburgkiana,,pollinates
+51111,,Nematopogon,,pollinates
+51111,950508,Poecilandra retusa,,pollinates
+51111,,Stegolepsis angustata,,pollinates
+51111,,Clusia,,pollinates
+51111,,Humiria,,pollinates
+51111,,Bonnetia sessilis,,pollinates
+51111,,Sobralia,,pollinates
+51111,336515,Ludwigia nervosa,,pollinates
+51111,,Desmodium setigerum,,pollinates
+51111,,Plectranthus lasianthus,,pollinates
+51111,133311,Richardia scabra,Florida Pusley,pollinates
+51111,,Acacia hockii,,pollinates
+51111,64342,Coffea arabica,Coffee,pollinates
+51111,343107,Tinnea aethiopica,,pollinates
+51111,169944,Tridax procumbens,Tridax daisy,pollinates
+51111,,Plectranthus alboviolaceus,,pollinates
+51111,,Trichodesma zeylanicum,,pollinates
+51111,,Commelina erecta,,pollinates
+51111,,Monechma debile,,pollinates
+51111,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+51111,,Nyctyornis amictus,,preyedUponBy

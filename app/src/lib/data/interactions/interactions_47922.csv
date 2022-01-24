@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47922,36204,Sceloporus occidentalis,Western Fence Lizard,eatenBy
+47922,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+47922,14850,Sturnus vulgaris,European Starling,eatenBy
+47922,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+47922,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+47922,,Phymata crassipes,,eatenBy
+47922,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47922,56036,Kniphofia,Pokers,pollinates
+47922,,Alstroemeria caryophyllaea,,pollinates
+47922,,Gladiolus,,pollinates
+47922,52867,Clethra alnifolia,Sweet Pepperbush,pollinates
+47922,50333,Lantana camara,common lantana,pollinates
+47922,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+47922,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+47922,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+47922,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+47922,,Onychothemis culminicola,,preyedUponBy
+47922,297889,Eriophora edax,,preyedUponBy
+47922,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

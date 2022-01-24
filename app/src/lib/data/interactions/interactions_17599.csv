@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+17599,14823,Sitta canadensis,Red-breasted Nuthatch,eats
+17599,,Agrilus planipennis,,eats
+17599,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+17599,558446,Circus hudsonius,Northern Harrier,eatenBy
+17599,19893,Strix varia,Barred Owl,eatenBy
+17599,20445,Tyto alba,Barn Owl,eatenBy
+17599,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+17599,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+17599,4645,Falco femoralis,Aplomado Falcon,eatenBy
+17599,4644,Falco mexicanus,Prairie Falcon,eatenBy
+17599,,Pseustes poecilonotus,,preyedUponBy

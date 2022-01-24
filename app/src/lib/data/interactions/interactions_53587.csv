@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53587,53587,Ambrosia artemisiifolia,common ragweed,eats
+53587,53587,Ambrosia artemisiifolia,common ragweed,eatenBy
+53587,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+53587,7294,Eremophila alpestris,Horned Lark,eatenBy
+53587,12727,Turdus migratorius,American Robin,eatenBy
+53587,,Chlosyne lacinia,,eatenBy
+53587,,Cuscuta pentagona,,eatenBy
+53587,,Carmenta pyralidiformis,,eatenBy
+53587,133631,Polites peckius,Peck's Skipper,eatenBy
+53587,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+53587,,Ophraella communa,,eatenBy
+53587,,Pustula tragopogonis,,eatenBy
+53587,448026,Euaresta bella,,eatenBy
+53587,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+53587,,Sarkidiornis melanotos sylvicola,,eatenBy
+53587,3545,Columbina passerina,Common Ground Dove,eatenBy
+53587,,Pinicola enucleator,,eatenBy
+53587,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+53587,,Loxia curvirostra,,eatenBy
+53587,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+53587,13732,Anthus rubescens,American Pipit,eatenBy
+53587,,Acanthis flammea,,eatenBy
+53587,,Calcarius pictus,,eatenBy

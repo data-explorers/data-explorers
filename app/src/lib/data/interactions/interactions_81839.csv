@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81839,47821,Tabanidae,Horse and Deer Flies,eats
+81839,48091,Brachycera,Brachyceran Flies,eats
+81839,47157,Lepidoptera,Butterflies and Moths,eats
+81839,120474,Araneomorphae,Typical Spiders,eats
+81839,129902,Camponotus pennsylvanicus,Eastern Black Carpenter Ant,eatenBy
+81839,47822,Diptera,Flies,preysOn
+81839,53237,Cicadellidae,Typical Leafhoppers,preysOn
+81839,51225,Tipulidae,Large Crane Flies,preysOn
+81839,47157,Lepidoptera,Butterflies and Moths,preysOn
+81839,47336,Formicidae,Ants,preysOn
+81839,202796,Therevidae,Stiletto Flies,preysOn
+81839,51953,Tachinidae,Bristle Flies,preysOn
+81839,81839,Platycryptus undatus,Tan Jumping Spider,preysOn
+81839,342614,Entelegynae,Entelegyne Spiders,preysOn
+81839,47158,Insecta,Insects,preysOn
+81839,47120,Arthropoda,Arthropods,preysOn
+81839,47118,Araneae,Spiders,preysOn
+81839,121850,Erebidae,"Underwing, Tiger, Tussock, and Allied Moths",preysOn
+81839,83842,Catocala,Underwing Moths,preysOn
+81839,153429,Culicomorpha,Mosquitoes and Midges,preysOn
+81839,47208,Coleoptera,Beetles,preysOn
+81839,47823,Pholcidae,Cellar Spiders,preysOn
+81839,68020,Dolichopodidae,Long-legged Flies,preysOn
+81839,184884,Pterygota,Winged and Once-winged Insects,preysOn
+81839,47866,Thomisidae,Crab Spiders,preysOn
+81839,47535,Araneidae,Orbweavers,preysOn
+81839,47821,Tabanidae,Horse and Deer Flies,preysOn
+81839,,Anthopotamus,,preysOn
+81839,,Camponotini,,preysOn
+81839,,Japananus hyalinus,,preysOn
+81839,,Cicadomorpha,,preysOn
+81839,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy

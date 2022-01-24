@@ -1,0 +1,85 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52524,48919,Littorina,Periwinkles,eats
+52524,62807,Mytilus,Black Mussels,eats
+52524,49129,Balanus,Rock-barnacles,eats
+52524,48033,Paracentrotus,,eats
+52524,,Detritus,,eats
+52524,,Carrion,,eats
+52524,193907,Thais,,eats
+52524,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+52524,3938,Arenaria interpres,Ruddy Turnstone,eatenBy
+52524,3,Aves,Birds,eatenBy
+52524,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+52524,92583,Trachurus,Jack Mackerels,eatenBy
+52524,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+52524,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+52524,203490,Myoxocephalus aenaeus,Grubby,eatenBy
+52524,111527,Raja montagui,Spotted Skate,eatenBy
+52524,94105,Anguilla anguilla,European Eel,eatenBy
+52524,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+52524,51391,Tautogolabrus,,eatenBy
+52524,,Eider,,eatenBy
+52524,7023,Somateria,Typical Eiders,eatenBy
+52524,317317,Prionotus stearnsi,Shortwing Searobin,eatenBy
+52524,179454,Syacium papillosum,Dusky Flounder,eatenBy
+52524,179477,Prionotus longispinosus,Bigeye Searobin,eatenBy
+52524,131452,Bellator militaris,Horned Searobin,eatenBy
+52524,179490,Prionotus rubio,Blackwing Searobin,eatenBy
+52524,146829,Anchoa hepsetus,Striped Anchovy,eatenBy
+52524,179458,Serranus atrobranchus,Blackear bass,eatenBy
+52524,621908,Chelidonichthys capensis,Cape gurnard,eatenBy
+52524,102579,Hemigymnus fasciatus,Barred Thicklip,eatenBy
+52524,84116,Priacanthus hamrur,Crescent-tail Bigeye,eatenBy
+52524,93803,Ambassis interrupta,Longspine Glassfish,eatenBy
+52524,479865,Cheilodactylus variegatus,Peruvian morwong,eatenBy
+52524,118626,Chelidonichthys obscurus,Longfin Gurnard,eatenBy
+52524,93644,Alepisaurus ferox,Longnose Lancetfish,eatenBy
+52524,,Pagrus auratus,,eatenBy
+52524,118660,Lithognathus mormyrus,Striped Seabream,eatenBy
+52524,446175,Lupinoblennius paivai,,eatenBy
+52524,459366,Diaphus perspicillatus,Flatface Lanternfish,eatenBy
+52524,617773,Diaphus schmidti,,eatenBy
+52524,,Triphoturus nigrescens,,eatenBy
+52524,49225,Alosa aestivalis,Blueback Shad,eatenBy
+52524,107572,Oncorhynchus keta,Chum Salmon,eatenBy
+52524,614051,Setipinna taty,Scaly Hairfin Anchovy,eatenBy
+52524,529606,Brama australis,Southern Ray's Bream,eatenBy
+52524,54960,Nematoda,Nematodes,preysOn
+52524,1,Animalia,Animals,preysOn
+52524,48919,Littorina,Periwinkles,preysOn
+52524,62807,Mytilus,Black Mussels,preysOn
+52524,49129,Balanus,Rock-barnacles,preysOn
+52524,81636,Mya,,preysOn
+52524,338440,Tubificoides,,preysOn
+52524,549790,Cryptocotyle,,preysOn
+52524,59807,Gammarus,,preysOn
+52524,339245,Himasthla,,preysOn
+52524,,Fimbria,,preysOn
+52524,,Microphallus,,preysOn
+52524,,Turbellaria,,preysOn
+52524,71252,Macoma,,preysOn
+52524,91276,Potamopyrgus,,preysOn
+52524,,Podocotyle,,preysOn
+52524,964699,Psilochasmus,,preysOn
+52524,,Maritrema,,preysOn
+52524,210231,Cerastoderma,,preysOn
+52524,337828,Hediste,,preysOn
+52524,,Hydrobia,,preysOn
+52524,1142214,Cercaria,,preysOn
+52524,,Prokaryota,,preysOn
+52524,123639,Spionidae,,preysOn
+52524,1256330,Levinseniella,,preysOn
+52524,48817,Crangon,,preysOn
+52524,,Turboella,,preysOn
+52524,378019,Rissoa,,preysOn
+52524,,Epipellic Flora,,preysOn
+52524,203392,Jaera,,preysOn
+52524,193907,Thais,,preysOn
+52524,154,Rallidae,"Rails, Gallinules, and Coots",preyedUponBy
+52524,6912,Anatidae,"Ducks, Geese, and Swans",preyedUponBy
+52524,4342,Laridae,"Gulls, Terns, and Skimmers",preyedUponBy
+52524,4783,Charadriidae,Plovers and Lapwings,preyedUponBy
+52524,3,Aves,Birds,preyedUponBy
+52524,40151,Mammalia,Mammals,preyedUponBy
+52524,51391,Tautogolabrus,,preyedUponBy
+52524,,Pisces,,preyedUponBy

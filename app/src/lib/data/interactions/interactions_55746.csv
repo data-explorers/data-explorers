@@ -1,0 +1,155 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55746,47120,Arthropoda,Arthropods,eats
+55746,47822,Diptera,Flies,eats
+55746,61858,Lucilia,Greenbottle Flies,eats
+55746,47222,Apoidea,Bees and Apoid Wasps,eats
+55746,145540,Eristalinus taeniops,Stripe-eyed Lagoon Fly,eats
+55746,52775,Bombus,Bumble Bees,eats
+55746,49995,Syrphidae,Hover Flies,eats
+55746,630955,Anthophila,Bees,eats
+55746,47219,Apis mellifera,Western Honey Bee,eats
+55746,76942,Erigeron strigosus,daisy fleabane,eats
+55746,51559,Bombylius,Greater Bee Flies,eats
+55746,79109,Silene latifolia,white campion,eats
+55746,51558,Bombyliidae,Bee Flies,eats
+55746,47821,Tabanidae,Horse and Deer Flies,eats
+55746,81559,Epargyreus clarus,Silver-spotted Skipper,eats
+55746,70127,Stratiomyidae,Soldier Flies,eats
+55746,125381,Asclepias incarnata,swamp milkweed,eats
+55746,52491,Eristalis,Drone Flies,eats
+55746,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eats
+55746,53648,Nomada,Nomad Bees,eats
+55746,,Polyommatus coridon,,eats
+55746,,Episyrphus balteatus,,eats
+55746,,Eristalinus aeneus,,eats
+55746,124910,Bombus pratorum,Early Bumble Bee,eats
+55746,52490,Eristalis pertinax,Tapered Drone Fly,eats
+55746,,Bibio marci,,eats
+55746,,Maniola jurtina,,eats
+55746,,Distoleon tetragrammicus,,eats
+55746,,Kateretidae,,eats
+55746,56293,Macroglossum stellatarum,Eurasian Hummingbird Hawkmoth,eats
+55746,,Quercus robur,,eats
+55746,48538,Cytisus scoparius,Scots broom,eats
+55746,51147,Crataegus monogyna,common hawthorn,eats
+55746,,Scathophaga stercoraria,,eats
+55746,320786,Eristalis arbustorum,European Drone Fly,eats
+55746,,Panorpa,,eats
+55746,,Cylindromyia bicolor,,eats
+55746,,Pyronia tithonus,,eats
+55746,,Araschnia levana,,eats
+55746,,Melanargia lachesis,,eats
+55746,62382,Erebia,Alpines,eats
+55746,,Aglais io,,eats
+55746,,Pieris napi,,eats
+55746,,Erebia euryale,,eats
+55746,,Autographa gamma,,eats
+55746,,Philanthus bilunatus,,eats
+55746,,Calopteryx splendens,,eats
+55746,3,Aves,Birds,eatenBy
+55746,26172,Squamata,Snakes and Lizards,eatenBy
+55746,46341,Soricidae,Shrews,eatenBy
+55746,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+55746,47336,Formicidae,Ants,eatenBy
+55746,47118,Araneae,Spiders,eatenBy
+55746,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+55746,58563,Speyeria aphrodite,Aphrodite Fritillary,pollinatedBy
+55746,155085,Bombus perplexus,Perplexing Bumble Bee,pollinatedBy
+55746,,Phyciodes mylitta,,pollinatedBy
+55746,630955,Anthophila,Bees,preysOn
+55746,69145,Coenonympha california,Common Ringlet,preysOn
+55746,126532,Toxomerus geminatus,Eastern Calligrapher,preysOn
+55746,118970,Bombus impatiens,Common Eastern Bumble Bee,preysOn
+55746,48091,Brachycera,Brachyceran Flies,preysOn
+55746,47219,Apis mellifera,Western Honey Bee,preysOn
+55746,52775,Bombus,Bumble Bees,preysOn
+55746,81769,Blattodea,Cockroaches and Termites,preysOn
+55746,47822,Diptera,Flies,preysOn
+55746,128670,Bombus vagans,Half-black Bumble Bee,preysOn
+55746,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+55746,121517,Bombus terricola,Yellow-banded Bumble Bee,preysOn
+55746,52491,Eristalis,Drone Flies,preysOn
+55746,47222,Apoidea,Bees and Apoid Wasps,preysOn
+55746,49025,Membracoidea,Leafhoppers and Treehoppers,preysOn
+55746,52779,Bombus bimaculatus,Two-spotted Bumble Bee,preysOn
+55746,56097,Bibionidae,March Flies,preysOn
+55746,55746,Misumena vatia,Goldenrod Crab Spider,preysOn
+55746,145540,Eristalinus taeniops,Stripe-eyed Lagoon Fly,preysOn
+55746,57678,Lasioglossum,,preysOn
+55746,51558,Bombyliidae,Bee Flies,preysOn
+55746,84738,Vespinae,Hornets and Yellowjackets,preysOn
+55746,127741,Colletes,Cellophane Bees,preysOn
+55746,50086,Agapostemon,Striped Sweat Bees,preysOn
+55746,53648,Nomada,Nomad Bees,preysOn
+55746,61858,Lucilia,Greenbottle Flies,preysOn
+55746,47118,Araneae,Spiders,preysOn
+55746,47980,Speyeria cybele,Great Spangled Fritillary,preysOn
+55746,49995,Syrphidae,Hover Flies,preysOn
+55746,47157,Lepidoptera,Butterflies and Moths,preysOn
+55746,57674,Osmia,Mason Bees,preysOn
+55746,1081323,Lon hobomok,Hobomok Skipper,preysOn
+55746,58576,Phyciodes cocyta,Northern Crescent,preysOn
+55746,51556,Sympetrum,Meadowhawks,preysOn
+55746,120215,Bombus griseocollis,Brown-belted Bumble Bee,preysOn
+55746,61056,Ammophila,marram grasses,preysOn
+55746,47821,Tabanidae,Horse and Deer Flies,preysOn
+55746,81559,Epargyreus clarus,Silver-spotted Skipper,preysOn
+55746,48549,Vanessa virginiensis,American Lady,preysOn
+55746,49707,Halictidae,Sweat Bees,preysOn
+55746,68139,Sympetrum vicinum,Autumn Meadowhawk,preysOn
+55746,,Gonepteryx rhamni,,preysOn
+55746,,Pipiza festiva,,preysOn
+55746,,Tharsalea mariposa,,preysOn
+55746,,Andrena hirticincta,,preysOn
+55746,,Episyrphus balteatus,,preysOn
+55746,,Aphantopus hyperantus,,preysOn
+55746,,Sicus ferrugineus,,preysOn
+55746,55719,Eristalis tenax,Common Drone Fly,preysOn
+55746,,Bombus ternarius,,preysOn
+55746,124910,Bombus pratorum,Early Bumble Bee,preysOn
+55746,,Anthophora plumipes,,preysOn
+55746,,Andrena,,preysOn
+55746,,Empis tessellata,,preysOn
+55746,,Bombus flavifrons,,preysOn
+55746,,Bombus mixtus,,preysOn
+55746,,Chrysosyrphus latus,,preysOn
+55746,320786,Eristalis arbustorum,European Drone Fly,preysOn
+55746,1020322,Bombus vancouverensis vancouverensis,Vancouver Island Bumble Bee,preysOn
+55746,49460,Empididae,Dance Flies,preysOn
+55746,,Lilium washingtonianum purpurascens,,preysOn
+55746,,Hemaris diffinis,,preysOn
+55746,,Pollenia,,preysOn
+55746,,Cylindromyia bicolor,,preysOn
+55746,,Sarcophaginae,,preysOn
+55746,155085,Bombus perplexus,Perplexing Bumble Bee,preysOn
+55746,77663,Lepidium campestre,field peppergrass,preysOn
+55746,58506,Polites themistocles,Tawny-edged Skipper,preysOn
+55746,,Synanthedon acerni,,preysOn
+55746,,Neophasia menapia,,preysOn
+55746,,Hemaris thysbe,,preysOn
+55746,,Hylaeus modestus,,preysOn
+55746,,Stonemyia,,preysOn
+55746,,Agrotis ipsilon,,preysOn
+55746,,Cheilosia albitarsis,,preysOn
+55746,,Agapostemon sericeus,,preysOn
+55746,,Closterotomus norwegicus,,preysOn
+55746,58484,Thymelicus lineola,Essex Skipper,preysOn
+55746,62382,Erebia,Alpines,preysOn
+55746,,Satyrium caryaevorus,,preysOn
+55746,,Lycaena cupreus,,preysOn
+55746,,Thyris maculata,,preysOn
+55746,,Aglais io,,preysOn
+55746,,Andrena wilkella,,preysOn
+55746,,Autographa gamma,,preysOn
+55746,,Philanthus bilunatus,,preysOn
+55746,,Calopteryx splendens,,preysOn
+55746,,Adela septentrionella,,preysOn
+55746,,Amphipoea americana,,preysOn
+55746,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy
+55746,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+55746,52775,Bombus,Bumble Bees,preyedUponBy
+55746,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,preyedUponBy
+55746,,Sceliphron destillatorium,,preyedUponBy
+55746,,http://treatment.plazi.org/id/03A787DE616B9B73CDAE3A02FC26FAB8,,preyedUponBy
+55746,208988,Satyrium spini,Blue-spot Hairstreak,preyedUponBy
+55746,58513,Polites mystic,Long Dash,preyedUponBy

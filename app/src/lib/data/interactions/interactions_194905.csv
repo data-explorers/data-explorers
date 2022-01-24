@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+194905,117305,Physalia,Man O' Wars,eats
+194905,1,Animalia,Animals,eats
+194905,,Medusozoa,,eats
+194905,,,,eats
+194905,3793,Sula sula,Red-footed Booby,eatenBy
+194905,3797,Sula leucogaster,Brown Booby,eatenBy
+194905,4537,Anous minutus,Black Noddy,eatenBy
+194905,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+194905,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+194905,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+194905,4566,Gygis alba,White Tern,eatenBy
+194905,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+194905,,no name,,preyedUponBy

@@ -1,0 +1,154 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57652,,Sceloporus undulatus,,eats
+57652,57652,Trombidiidae,True Velvet Mites,preysOn
+57652,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+57652,53248,Elateridae,Click Beetles,preysOn
+57652,568643,Lysigamasus,,preysOn
+57652,,Scutigerella immaculata,,preysOn
+57652,172978,Atheta,vexing rove beetles,preysOn
+57652,,predacious nematodes,,preysOn
+57652,,Trichoniscus pusillus,,preysOn
+57652,,omnivorous nematodes,,preysOn
+57652,,root feeding nematodes,,preysOn
+57652,,Pergamasinae (male),,preysOn
+57652,203389,Megalothorax,,preysOn
+57652,,Lithobius,,preysOn
+57652,,bacterivorous nematodes,,preysOn
+57652,,Isotoma violacea,,preysOn
+57652,,Tachyusa,,preysOn
+57652,203242,Aleocharinae,,preysOn
+57652,,Lepidocyrtus lanuginosus,,preysOn
+57652,,Zercon gurensis,,preysOn
+57652,,Veigaia exigua,,preysOn
+57652,56081,Glomeris,,preysOn
+57652,,Mesaphorura,,preysOn
+57652,,fungivorous nematodes,,preysOn
+57652,,Uropoda,,preysOn
+57652,,Polydesmidae,,preysOn
+57652,,Pergamasinae (juv) {s},,preysOn
+57652,,Uropoda minima,,preysOn
+57652,249911,Vulgarogamasus,,preysOn
+57652,,Rhodacarellus kreuzi,,preysOn
+57652,,Zercon,,preysOn
+57652,,Hahnia pusilla,,preysOn
+57652,1029352,Scolopendrella,,preysOn
+57652,494566,Athous subfuscus,,preysOn
+57652,,Urodiaspis tecta,,preysOn
+57652,,Tullbergia callipygos,,preysOn
+57652,,Hahniidae,,preysOn
+57652,,Lipothrix lubbocki,,preysOn
+57652,,Hypoaspis aculeifer,,preysOn
+57652,,Lamprohiza splendidula,,preysOn
+57652,,Macrocheles montanus,,preysOn
+57652,,Pachyseius angustus,,preysOn
+57652,,Epicrius canestrinii,,preysOn
+57652,203275,Xantholinus,,preysOn
+57652,132015,Rugilus,,preysOn
+57652,553746,Glomeris connexa,,preysOn
+57652,,Veigaia nemorensis,,preysOn
+57652,,Uroseius cylindricus,,preysOn
+57652,,Neon reticulatus,,preysOn
+57652,,Trachytes aegrota,,preysOn
+57652,,Veigaia cerva,,preysOn
+57652,,Pergamasus conus,,preysOn
+57652,,Lepidocyrtus cyaneus,,preysOn
+57652,,Rhodacarus coronatus,,preysOn
+57652,377626,Pergamasus,,preysOn
+57652,,Sphaeridia pumilis,,preysOn
+57652,,Lepidocyrtus lignorum,,preysOn
+57652,,Paragamasus vagabundus,,preysOn
+57652,,Geholaspis longispinosus,,preysOn
+57652,,Pergamasus puerilis,,preysOn
+57652,,Zercon peltatus,,preysOn
+57652,,Veigaia planicola,,preysOn
+57652,177515,Leptacinus,,preysOn
+57652,,Velleius,,preysOn
+57652,,Trichouropoda ovalis,,preysOn
+57652,,Lepidocyrtus,,preysOn
+57652,121483,Julidae,,preysOn
+57652,568199,Lithobius curtipes,,preysOn
+57652,,Lathrobium,,preysOn
+57652,783966,Maro minutus,,preysOn
+57652,,Acrotrichis,,preysOn
+57652,174025,Dalopius marginatus,,preysOn
+57652,,Paragamasus lapponicus,,preysOn
+57652,392787,Mocyta fungi,,preysOn
+57652,,Pergamasus runcatellus,,preysOn
+57652,47345,Agelenidae,Funnel Weavers,preyedUponBy
+57652,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+57652,47951,Staphylinidae,Rove Beetles,preyedUponBy
+57652,57652,Trombidiidae,True Velvet Mites,preyedUponBy
+57652,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+57652,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+57652,132021,Philonthus,,preyedUponBy
+57652,52932,Cantharidae,Soldier Beetles,preyedUponBy
+57652,49567,Carabidae,Ground Beetles,preyedUponBy
+57652,47416,Lycosidae,Wolf Spiders,preyedUponBy
+57652,48139,Salticidae,Jumping Spiders,preyedUponBy
+57652,47866,Thomisidae,Crab Spiders,preyedUponBy
+57652,,Lithobius,,preyedUponBy
+57652,701423,Histopona torpida,,preyedUponBy
+57652,783981,Tapinocyba insecta,,preyedUponBy
+57652,362800,Clubiona comta,,preyedUponBy
+57652,537133,Lithobius crassipes,,preyedUponBy
+57652,490816,Neobisium,,preyedUponBy
+57652,360817,Coelotes,,preyedUponBy
+57652,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preyedUponBy
+57652,131880,Notiophilus biguttatus,,preyedUponBy
+57652,,Microneta viaria,,preyedUponBy
+57652,784149,Diplocephalus picinus,,preyedUponBy
+57652,,Hahnia pusilla,,preyedUponBy
+57652,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+57652,605685,Coelotes terrestris,,preyedUponBy
+57652,,Geophilus ribauti,,preyedUponBy
+57652,121773,Clubionidae,Sac Spiders,preyedUponBy
+57652,705967,Harpactea lepida,,preyedUponBy
+57652,498635,Lithobius piceus,,preyedUponBy
+57652,526528,Anelasmocephalus cambridgei,,preyedUponBy
+57652,496759,Geophilus insculptus,,preyedUponBy
+57652,203275,Xantholinus,,preyedUponBy
+57652,525704,Trogulus tricarinatus,,preyedUponBy
+57652,127023,Amaurobius,Lace web spider,preyedUponBy
+57652,498632,Lithobius dentatus,,preyedUponBy
+57652,778942,Tenuiphantes tenebricola,,preyedUponBy
+57652,,Campodea,,preyedUponBy
+57652,233604,Walckenaeria atrotibialis,,preyedUponBy
+57652,68869,Histeridae,Hister Beetles,preyedUponBy
+57652,452503,Robertus lividus,,preyedUponBy
+57652,778699,Macrargus rufus,,preyedUponBy
+57652,230519,Schendyla nemorensis,,preyedUponBy
+57652,521083,Strigamia acuminata,,preyedUponBy
+57652,783673,Apostenus fuscus,,preyedUponBy
+57652,739596,Lithobius mutabilis,,preyedUponBy
+57652,,Cryphoeca,,preyedUponBy
+57652,784185,Saloca diceros,,preyedUponBy
+57652,784196,Walckenaeria cucullata,,preyedUponBy
+57652,407287,Lithobius melanops,,preyedUponBy
+57652,233615,Walckenaeria cuspidata,Tipped Sheet-web Weaver,preyedUponBy
+57652,203236,Quedius,,preyedUponBy
+57652,,Neon reticulatus,,preyedUponBy
+57652,783596,Ceratinella brevis,,preyedUponBy
+57652,153747,Robertus,,preyedUponBy
+57652,490815,Neobisium carcinoides,Moss Neobisid,preyedUponBy
+57652,637234,Xysticus erraticus,,preyedUponBy
+57652,,Bryophacis,,preyedUponBy
+57652,131093,Harpalus,,preyedUponBy
+57652,457780,Geostiba circellaris,,preyedUponBy
+57652,,Euophrys frontalis,,preyedUponBy
+57652,360548,Zora spinimana,,preyedUponBy
+57652,784286,Micrargus apertus,,preyedUponBy
+57652,130433,Amara aenea,Common Sun Beetle,preyedUponBy
+57652,,Corrinidae sp. (juv),,preyedUponBy
+57652,336908,Cryptops hortensis,Common Cryptops,preyedUponBy
+57652,357413,Evarcha arcuata,,preyedUponBy
+57652,510480,Othius,,preyedUponBy
+57652,318917,Euryopis flavomaculata,,preyedUponBy
+57652,,Pamagaeus bipustulatus,,preyedUponBy
+57652,466998,Linyphia hortensis,,preyedUponBy
+57652,,Malthodes,,preyedUponBy
+57652,,Metellina segmentata,,preyedUponBy
+57652,153717,Liocranidae,liocranid spiders,preyedUponBy
+57652,568199,Lithobius curtipes,,preyedUponBy
+57652,,Habrocerus capillaricornis,,preyedUponBy
+57652,,Haplodrassus silvstris,,preyedUponBy
+57652,397950,Tenuiphantes tenuis,,preyedUponBy

@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51559,55830,Glechoma hederacea,ground-ivy,eats
+51559,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+51559,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+51559,61704,Stichopogon trifasciatus,Three-banded Robber Fly,eatenBy
+51559,55666,Veronica persica,bird's-eye speedwell,pollinates
+51559,64322,Cistus,Shrubby Rock-roses,pollinates
+51559,,Pallenis spinosa,,pollinates
+51559,,Bellis annua,,pollinates
+51559,,Carduus pycnocephalus,,pollinates
+51559,,Chrysanthemum,,pollinates
+51559,,Lavandula stoechas,,pollinates

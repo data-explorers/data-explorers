@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60538,,Detritus,,eats
+60538,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+60538,12727,Turdus migratorius,American Robin,eatenBy
+60538,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+60538,12890,Catharus guttatus,Hermit Thrush,eatenBy
+60538,,Prenolepis imparis,,eatenBy
+60538,5017,Bubulcus ibis,Cattle Egret,eatenBy
+60538,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+60538,49567,Carabidae,Ground Beetles,preyedUponBy
+60538,,Platydracus maculosus,,preyedUponBy
+60538,56552,Carabus nemoralis,Bronze Ground Beetle,preyedUponBy
+60538,495490,Cychrus attenuatus,,preyedUponBy
+60538,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy

@@ -1,0 +1,94 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48229,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+48229,13858,Passer domesticus,House Sparrow,eatenBy
+48229,56189,Philaenus spumarius,Meadow spittlebug,eatenBy
+48229,47114,Gastropoda,Gastropods,eatenBy
+48229,6921,Cygnus olor,Mute Swan,eatenBy
+48229,,Tenthredo mesomela,,eatenBy
+48229,,Monophadnus pallescens,,eatenBy
+48229,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+48229,7347,Alauda arvensis,Eurasian Skylark,eatenBy
+48229,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+48229,,Coloeus monedula,,eatenBy
+48229,,Carduelis carduelis,,eatenBy
+48229,,Carduelis chloris,,eatenBy
+48229,8029,Corvus frugilegus,Rook,eatenBy
+48229,,Columba palumbus,,eatenBy
+48229,130452,Amara plebeja,,eatenBy
+48229,606260,Eupteryx vittata,,eatenBy
+48229,,Amara aulica,,eatenBy
+48229,130433,Amara aenea,Common Sun Beetle,eatenBy
+48229,,Ophonus schaubergerianus,,eatenBy
+48229,,Ophonus azureus,,eatenBy
+48229,,Diachromus germanus,,eatenBy
+48229,,Amara sinuosa,,eatenBy
+48229,,Exomias pellucidus,,eatenBy
+48229,,Athous bicolor,,eatenBy
+48229,,Anisodactylus binotatus,,eatenBy
+48229,547575,Anthicus antherinus,,eatenBy
+48229,552756,Orius niger,,eatenBy
+48229,,Rhyparochromus vulgaris,,eatenBy
+48229,,Drymus ryei,,eatenBy
+48229,,Peritrechus geniculatus,,eatenBy
+48229,504708,Ophonus laticollis,,eatenBy
+48229,,Peritrechus nubilus,,eatenBy
+48229,,Agrypnus murinus,,eatenBy
+48229,,Helophorus griseus,,eatenBy
+48229,,Sphragisticus nebulosus,,eatenBy
+48229,,Rhyparochromus pini,,eatenBy
+48229,,Helophorus nubilus,,eatenBy
+48229,,Hemicrepidius hirtus,,eatenBy
+48229,523365,Harpalus griseus,,eatenBy
+48229,456218,Agriotes obscurus,,eatenBy
+48229,,Amara ovata,,eatenBy
+48229,,Harpalus distinguendus,,eatenBy
+48229,,Chlamydatus,,eatenBy
+48229,,Adrastus rachifer,,eatenBy
+48229,,Pachytomella arallela,,eatenBy
+48229,,Amara equestris,,eatenBy
+48229,131102,Harpalus tardus,,eatenBy
+48229,,Amara lunicollis,,eatenBy
+48229,550416,Stygnocoris rusticus,,eatenBy
+48229,,Amara eurynota,,eatenBy
+48229,,Trechus quadristriatus,,eatenBy
+48229,,Amara quenseli,,eatenBy
+48229,124432,Deroceras reticulatum,Milky Slug,eatenBy
+48229,,BOLD:AAD4685,,eatenBy
+48229,,Spilopodia ranunculi,,eatenBy
+48229,,Pseudodineura fuscula,,eatenBy
+48229,,Tenthredo (Eurogaster) mesomela,,eatenBy
+48229,,Septoria ranunculacearum,,eatenBy
+48229,,Phytomyza notata,,eatenBy
+48229,,Phytomyza fallaciosa,,eatenBy
+48229,,Thecabius (Thecabius) affinis,,eatenBy
+48229,,Chrysolina staphylaea,,eatenBy
+48229,,Capreolus capreolus italicus,,eatenBy
+48229,,Leiosoma deflexum,,eatenBy
+48229,,Bagous (Bagous) tempestivus,,eatenBy
+48229,,Crocicreas starbaeckii,,eatenBy
+48229,1005742,Phaedon concinnus,,eatenBy
+48229,,Anas penelope,,eatenBy
+48229,7019,Anser albifrons,Greater White-fronted Goose,eatenBy
+48229,6917,Cygnus columbianus,Tundra Swan,eatenBy
+48229,43997,Myocastor coypus,Coypu,eatenBy
+48229,,Phytomyza ranunculi,,eatenBy
+48229,,Prasocuris marginella,,eatenBy
+48229,,Leptotrochila ranunculi,,eatenBy
+48229,,Pieris napi,,eatenBy
+48229,,Osmia rufa,,eatenBy
+48229,194786,Merodon equestris,Narcissus Bulb Fly,eatenBy
+48229,,Urocystis ranunculi,,eatenBy
+48229,,Peronospora ficariae,,eatenBy
+48229,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",pollinatedBy
+48229,121989,Bombus hortorum,Garden Bumble Bee,pollinatedBy
+48229,177092,Meligethes,,pollinatedBy
+48229,,Miccotrogus picirostris ,,pollinatedBy
+48229,,Cheilosia albitarsis,,pollinatedBy
+48229,,,,pollinatedBy
+48229,52488,Syrphus ribesii,Common Flower Fly,pollinatedBy
+48229,,Undefined sp17 M_PL_018,,pollinatedBy
+48229,,Undefined sp21 M_PL_018,,pollinatedBy
+48229,,Cantharis lateralis,,preyedUponBy
+48229,,Amara communis,,preyedUponBy
+48229,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+48229,,Aeolothrips intermedius,,preyedUponBy

@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81598,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+81598,127741,Colletes,Cellophane Bees,eatenBy
+81598,472822,Gyponana angulata,,eatenBy
+81598,309589,Agrilus addendus,,eatenBy
+81598,1094469,Chauliognathus lewisi lewisi,,eatenBy
+81598,144011,Bombus rufocinctus,Red-belted Bumble Bee,pollinatedBy
+81598,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+81598,57678,Lasioglossum,,pollinatedBy
+81598,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+81598,,Bombus appositus,,pollinatedBy
+81598,130222,Bombus melanopygus,Black-tailed Bumble Bee,pollinatedBy
+81598,,Sterictophora,,pollinatedBy
+81598,,Bombus huntii,,pollinatedBy
+81598,,http://treatment.plazi.org/id/DDD826387E4F5449BC21177FC6D37871,,pollinatedBy
+81598,,Andrena,,pollinatedBy

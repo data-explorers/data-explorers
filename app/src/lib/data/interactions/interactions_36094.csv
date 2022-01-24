@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+36094,47793,Dermaptera,Earwigs,eats
+36094,47208,Coleoptera,Beetles,eats
+36094,47157,Lepidoptera,Butterflies and Moths,eats
+36094,4665,Falco sparverius,American Kestrel,eatenBy
+36094,30713,Crotalus oreganus helleri,Southern Pacific Rattlesnake,eatenBy
+36094,1986,Geococcyx californianus,Greater Roadrunner,eatenBy
+36094,717903,Masticophis lateralis,Striped Racer,eatenBy
+36094,69517,Pogonomyrmex rugosus,Rough Harvester Ant,eatenBy
+36094,47336,Formicidae,Ants,eatenBy
+36094,20445,Tyto alba,Barn Owl,eatenBy
+36094,19975,Athene cunicularia,Burrowing Owl,eatenBy
+36094,,Gambelia wislizenii,,eatenBy
+36094,,Hypsiglena ochrorhynchus klauberi,,eatenBy
+36094,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+36094,30751,Crotalus cerastes,Sidewinder,eatenBy
+36094,42077,Urocyon littoralis,Island Fox,eatenBy
+36094,210600,Lanius ludovicianus mearnsi,San Clemente Loggerhead Shrike,eatenBy
+36094,29044,Pituophis catenifer,Gopher Snake,preyedUponBy
+36094,144455,Ardea alba,Great Egret,preyedUponBy
+36094,1986,Geococcyx californianus,Greater Roadrunner,preyedUponBy
+36094,20445,Tyto alba,Barn Owl,preyedUponBy
+36094,146173,Hypsiglena chlorophaea,Desert Nightsnake,preyedUponBy
+36094,28246,Arizona elegans,Glossy Snake,preyedUponBy
+36094,28248,Arizona elegans occidentalis,California Glossy Snake,preyedUponBy
+36094,,Coluber fuliginosus,,preyedUponBy
+36094,,Coluber lateralis lateralis,,preyedUponBy
+36094,28762,Rhinocheilus lecontei,Long-nosed Snake,preyedUponBy
+36094,30748,Crotalus enyo,Lower California Rattlesnake,preyedUponBy
+36094,30751,Crotalus cerastes,Sidewinder,preyedUponBy
+36094,,Arizona elegans eburnata,,preyedUponBy
+36094,515419,Lampropeltis triangulum,Eastern Milksnake,preyedUponBy
+36094,210600,Lanius ludovicianus mearnsi,San Clemente Loggerhead Shrike,preyedUponBy

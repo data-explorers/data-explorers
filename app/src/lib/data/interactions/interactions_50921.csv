@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50921,47219,Apis mellifera,Western Honey Bee,eatenBy
+50921,,Embellisia hyacinthi,,eatenBy
+50921,,Anthophora plumipes,,eatenBy
+50921,52491,Eristalis,Drone Flies,pollinatedBy
+50921,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+50921,57682,Anthophora,Common Digger Bees,pollinatedBy
+50921,,Eucera,,pollinatedBy
+50921,,Pollenia ruddis ,,pollinatedBy
+50921,,Episyrphus balteatus,,pollinatedBy
+50921,,Bombylius undatus ,,pollinatedBy
+50921,484587,Osmia aurulenta,Gold-fringed Mason Bee,pollinatedBy
+50921,,Bombylius fuliginosus ,,pollinatedBy
+50921,52964,Sphaerophoria scripta,Long Hover Fly,pollinatedBy
+50921,,Bombylius medius ,,pollinatedBy
+50921,,Leucophora,,pollinatedBy

@@ -1,0 +1,45 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+122232,47126,Plantae,plants,eats
+122232,,Detritus,,eats
+122232,,Phytoplankton,,eats
+122232,204776,Pseudocaranx dentex,Silver Trevally,eatenBy
+122232,430553,Merlangius merlangus,Whiting,eatenBy
+122232,55396,Solea solea,Common Sole,eatenBy
+122232,97517,Chimaera monstrosa,rabbit fish,eatenBy
+122232,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+122232,109631,Platichthys flesus,European Flounder,eatenBy
+122232,47523,Pleuronectes platessa,European Plaice,eatenBy
+122232,61387,Limanda limanda,Sand Dab,eatenBy
+122232,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+122232,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+122232,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+122232,63740,Gadus morhua,Atlantic Cod,eatenBy
+122232,,Pagrus auratus,,eatenBy
+122232,115188,Xyrichtys novacula,Pearly Razorfish,eatenBy
+122232,324537,Maja squinado,European Spider Crab,eatenBy
+122232,,Phytoplankton,,preysOn
+122232,,Zooplankton,,preysOn
+122232,,Macroalgae,,preysOn
+122232,,Prymnesiophyceae,,preysOn
+122232,,Detritus,,preysOn
+122232,204776,Pseudocaranx dentex,Silver Trevally,preyedUponBy
+122232,549751,Corystes cassivelaunus,Masked crab,preyedUponBy
+122232,61387,Limanda limanda,Sand Dab,preyedUponBy
+122232,221382,Hippoglossoides platessoides,American Plaice,preyedUponBy
+122232,118720,Eutrigla gurnardus,Grey Gurnard,preyedUponBy
+122232,109631,Platichthys flesus,European Flounder,preyedUponBy
+122232,55396,Solea solea,Common Sole,preyedUponBy
+122232,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+122232,430553,Merlangius merlangus,Whiting,preyedUponBy
+122232,120617,Arnoglossus laterna,Mediterranean Scaldfish,preyedUponBy
+122232,118717,Callionymus lyra,Common dragonet,preyedUponBy
+122232,152975,Pagurus bernhardus,Common Hermit Crab,preyedUponBy
+122232,,Astropecten irregularis,,preyedUponBy
+122232,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+122232,96130,Buglossidium luteum,Solenette,preyedUponBy
+122232,459588,Hyas araneus,Atlantic Lyre Crab,preyedUponBy
+122232,459590,Hyas coarctatus,Arctic Lyre Crab,preyedUponBy
+122232,103911,Labrus bergylta,Ballan Wrasse,preyedUponBy
+122232,,Pagrus auratus,,preyedUponBy
+122232,324537,Maja squinado,European Spider Crab,preyedUponBy
+122232,115188,Xyrichtys novacula,Pearly Razorfish,preyedUponBy

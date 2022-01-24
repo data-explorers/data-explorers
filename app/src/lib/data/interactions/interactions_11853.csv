@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+11853,47118,Araneae,Spiders,eats
+11853,47158,Insecta,Insects,eats
+11853,49587,Micropterus salmoides,Largemouth Bass,eats
+11853,333586,Oligochaeta,Earthworms and allies,eats
+11853,,invertebrate defoliators,,eats
+11853,,emergent carnivorous insects,,eats
+11853,,emergent herbivorous insects,,eats
+11853,58627,Perca flavescens,Yellow Perch,eats
+11853,58637,Ambloplites rupestris,Rock Bass,eats
+11853,49594,Pomoxis nigromaculatus,Black Crappie,eats
+11853,215958,Campeloma decisum,Pointed Campeloma,eats
+11853,58652,Umbra,,eats
+11853,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+11853,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+11853,58652,Umbra,,eatenBy
+11853,58627,Perca flavescens,Yellow Perch,eatenBy
+11853,58637,Ambloplites rupestris,Rock Bass,eatenBy
+11853,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy
+11853,40268,Chiroptera,Bats,preysOn

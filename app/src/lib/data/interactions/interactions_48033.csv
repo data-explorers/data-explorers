@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48033,,Algae,,eats
+48033,,attached algae,,eats
+48033,52524,Carcinus,Green Crabs,eatenBy
+48033,47827,Cancer,,eatenBy
+48033,3,Aves,Birds,eatenBy
+48033,210219,Necora puber,Velvet Swimming Crab,eatenBy
+48033,210120,Marthasterias,Long-armed Starfishes,eatenBy
+48033,416585,Scophthalmus maximus,Turbot,eatenBy
+48033,430553,Merlangius merlangus,Whiting,eatenBy
+48033,63740,Gadus morhua,Atlantic Cod,eatenBy
+48033,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+48033,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+48033,,Psetta maxima,,eatenBy

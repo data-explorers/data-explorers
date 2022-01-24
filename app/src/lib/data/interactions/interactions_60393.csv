@@ -1,0 +1,63 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60393,47126,Plantae,plants,eats
+60393,55339,Fissidens,pocket mosses,eats
+60393,,Embryophyta,,eats
+60393,,Unidentified sp1 FW_012_02,,eats
+60393,,Unknown organic,,eats
+60393,,Khakista,,eats
+60393,,Detritus,,eats
+60393,,Algae,,eats
+60393,3849,Calidris alba,Sanderling,eatenBy
+60393,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+60393,,Cottus carolinae,,eatenBy
+60393,12716,Turdus merula,Eurasian Blackbird,eatenBy
+60393,,Dendrocopos medius,,eatenBy
+60393,,Dendrocopos minor,,eatenBy
+60393,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+60393,93181,Acipenser fulvescens,Lake Sturgeon,eatenBy
+60393,68077,Salvelinus malma,Dolly Varden Trout,eatenBy
+60393,520958,Phanogomphus exilis,Lancet Clubtail,eatenBy
+60393,,Cambarus bartonii,,eatenBy
+60393,105003,Macrognathus pancalus,Barred Spiny Eel,eatenBy
+60393,545699,Mormyrus rume,Senegal mormyrid,eatenBy
+60393,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+60393,,Parkesia motacilla,,eatenBy
+60393,5017,Bubulcus ibis,Cattle Egret,eatenBy
+60393,6667,Cypseloides niger,Black Swift,eatenBy
+60393,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+60393,17408,Vireo griseus,White-eyed Vireo,eatenBy
+60393,,Empidonax virescens,,eatenBy
+60393,49652,Cardamine,bittercresses,pollinates
+60393,50074,Dryas,,pollinates
+60393,,Salix arctica,,pollinates
+60393,51556,Sympetrum,Meadowhawks,preyedUponBy
+60393,47819,Libellulidae,Skimmers,preyedUponBy
+60393,51469,Aeshnidae,Darners,preyedUponBy
+60393,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+60393,47927,Anisoptera,Dragonflies,preyedUponBy
+60393,47928,Zygoptera,Damselflies,preyedUponBy
+60393,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+60393,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+60393,74927,Plecotus macrobullaris,Mountain Long-eared Bat,preyedUponBy
+60393,207811,Eptesicus serotinus,Serotine Bat,preyedUponBy
+60393,,Argiope aurantia,,preyedUponBy
+60393,68077,Salvelinus malma,Dolly Varden Trout,preyedUponBy
+60393,,Cyrnellus,,preyedUponBy
+60393,247740,Pentaneura,,preyedUponBy
+60393,47644,Cottus,Freshwater Sculpins,preyedUponBy
+60393,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+60393,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+60393,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+60393,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+60393,,Sympetrum striolatum,,preyedUponBy
+60393,,Dolomedes fimbriatus,,preyedUponBy
+60393,,Libellula depressa,,preyedUponBy
+60393,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+60393,,Orthetrum,,preyedUponBy
+60393,,Phylloneta impressa,,preyedUponBy
+60393,,Somatochlora,,preyedUponBy
+60393,,Conocephalus fuscus,,preyedUponBy
+60393,51679,Coenagrion,Northern Bluets,preyedUponBy
+60393,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+60393,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+60393,113497,Sympecma fusca,Common Winter Damselfly,preyedUponBy

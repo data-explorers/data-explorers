@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68020,47170,Fungi,Fungi Including Lichens,eats
+68020,,Paracoenia turbida,,eats
+68020,,herbivores,,eats
+68020,,microorganisms,,eats
+68020,11867,Progne subis,Purple Martin,eatenBy
+68020,14850,Sturnus vulgaris,European Starling,eatenBy
+68020,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+68020,17356,Vireo bellii,Bell's Vireo,eatenBy
+68020,,Platysoma lecontei,,eatenBy
+68020,,Saprinus,,eatenBy
+68020,,Zelus longipes,,eatenBy
+68020,,Stillingia lineata lineata,,eatenBy
+68020,202430,Fundulus confluentus,Marsh Killifish,eatenBy
+68020,,Colibri coruscans,,eatenBy
+68020,6667,Cypseloides niger,Black Swift,eatenBy
+68020,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+68020,,Corvus caurinus,,eatenBy
+68020,,Ammospiza maritima,,eatenBy
+68020,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+68020,,Anthracothorax dominicus,,eatenBy
+68020,,Chlorostilbon maugaeus,,eatenBy
+68020,,Eulampis holosericeus,,eatenBy
+68020,949,Lagopus muta,Rock Ptarmigan,eatenBy
+68020,970203,Stillingia lineata,,pollinates
+68020,129423,Zelus luridus,Pale Green Assassin Bug,preyedUponBy
+68020,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+68020,928155,Crossocerus impressifrons,,preyedUponBy
+68020,,Pelegrina proterva,,preyedUponBy
+68020,121445,Eris militaris,Bronze Jumping Spider,preyedUponBy
+68020,,Hentzia mitrata,,preyedUponBy
+68020,,Laphria canis,,preyedUponBy
+68020,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+68020,148090,Pelegrina galathea,Peppered Jumping Spider,preyedUponBy
+68020,68315,Lyssomanes viridis,Magnolia Green Jumping Spider,preyedUponBy
+68020,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+68020,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+68020,40348,Myotis velifer,Cave Myotis,preyedUponBy
+68020,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+68020,,Crabro scutellatus,,preyedUponBy

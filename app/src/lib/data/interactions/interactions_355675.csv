@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+355675,47178,Actinopterygii,Ray-finned Fishes,eats
+355675,49609,Cyprinidae,Cyprinids,eats
+355675,,benthonic invertebrates,,eats
+355675,,suspension-feeding invertebrates,,eats
+355675,,Invertebrata,,eats
+355675,70025,Pandanus,screwpines,eats
+355675,,Ephippion guttifer,,eats
+355675,116999,Pandion haliaetus,Osprey,eatenBy
+355675,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+355675,8010,Corvus corax,Common Raven,eatenBy
+355675,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+355675,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+355675,4672,Falco columbarius,Merlin,eatenBy
+355675,5277,Elanus leucurus,White-tailed Kite,eatenBy
+355675,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+355675,41521,Orcinus orca,Orca,eatenBy
+355675,41461,Delphinapterus leucas,Beluga,eatenBy
+355675,41720,Erignathus barbatus,Bearded Seal,eatenBy
+355675,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+355675,,Phoebetria fusca,,eatenBy
+355675,4191,Phoebetria palpebrata,Light-mantled Albatross,eatenBy
+355675,,Lophodiodon calori,,eatenBy
+355675,,Lepidosiren paradoxa,,eatenBy
+355675,,Regalecus glesne,,eatenBy
+355675,194881,Decapterus macrosoma,Slender Scad,eatenBy
+355675,,Hucho hucho,,eatenBy
+355675,187548,Hucho taimen,Siberian Taimen,eatenBy
+355675,55387,Esox lucius,Northern Pike,eatenBy
+355675,,Macrorhamphosodes uradoi,,eatenBy
+355675,120697,Remora remora,Common Remora,eatenBy
+355675,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+355675,179545,Menticirrhus americanus,Southern Kingfish,eatenBy
+355675,4237,Tachybaptus ruficollis,Little Grebe,eatenBy
+355675,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+355675,,Microcarbo melanoleucos,,eatenBy
+355675,,Chloroceryle americana,,eatenBy
+355675,73887,Pantherophis guttatus,Corn Snake,eatenBy
+355675,,Circus approximans,,eatenBy
+355675,5154,Hieraaetus pennatus,Booted Eagle,eatenBy
+355675,4684,Falco biarmicus,Lanner Falcon,eatenBy
+355675,4644,Falco mexicanus,Prairie Falcon,eatenBy
+355675,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+355675,4719,Herpetotheres cachinnans,Laughing Falcon,eatenBy
+355675,4765,Coragyps atratus,Black Vulture,eatenBy
+355675,26159,Alligator mississippiensis,American Alligator,eatenBy
+355675,,Caracara cheriway,,eatenBy
+355675,,Milvus migrans lineatus,,eatenBy
+355675,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+355675,3017,Columba livia,Rock Pigeon,preysOn
+355675,3817,Eudyptula minor,Little Penguin,preysOn
+355675,,Columba palumbus,,preysOn
+355675,12748,Turdus philomelos,Song Thrush,preysOn
+355675,10070,Fringilla coelebs,Common Chaffinch,preysOn
+355675,12612,Anthornis melanura,New Zealand Bellbird,preysOn
+355675,145360,Chloris chloris,European Greenfinch,preysOn
+355675,,Hemiphaga novaeseelandiae,,preysOn
+355675,341569,Turdus merula merula,Western European Blackbird,preysOn
+355675,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+355675,4265,Phalacrocorax auritus,Double-crested Cormorant,preyedUponBy
+355675,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+355675,4756,Cathartes aura,Turkey Vulture,preyedUponBy
+355675,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+355675,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+355675,42051,Canis latrans,Coyote,preyedUponBy
+355675,,Geranospiza caerulescens,,preyedUponBy
+355675,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+355675,20077,Bubo lacteus,Verreaux's Eagle-Owl,preyedUponBy
+355675,,Asio flammeus galapagoensis,,preyedUponBy
+355675,20315,Asio flammeus,Short-eared Owl,preyedUponBy
+355675,,Caracara cheriway,,preyedUponBy
+355675,,Ardea cinerea cinerea,,preyedUponBy
+355675,4951,Ardea purpurea,Purple Heron,preyedUponBy
+355675,4954,Ardea cinerea,Grey Heron,preyedUponBy
+355675,,Ninox scutulata,,preyedUponBy
+355675,19765,Megascops asio,Eastern Screech-Owl,preyedUponBy
+355675,4765,Coragyps atratus,Black Vulture,preyedUponBy

@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+14801,211194,Tracheophyta,vascular plants,eats
+14801,1,Animalia,Animals,eats
+14801,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+14801,47118,Araneae,Spiders,eats
+14801,64161,Triticum aestivum,Bread Wheat,eats
+14801,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+14801,60773,Vitis,grapevines,eats
+14801,47157,Lepidoptera,Butterflies and Moths,eats
+14801,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+14801,56955,Helianthus,sunflowers,eats
+14801,47124,Magnoliopsida,dicots,eats
+14801,47208,Coleoptera,Beetles,eats
+14801,125816,Auchenorrhyncha,True Hoppers,eats
+14801,47119,Arachnida,Arachnids,eats
+14801,47851,Quercus,oaks,eats
+14801,47158,Insecta,Insects,eats
+14801,51148,Crataegus,hawthorns,eats
+14801,48448,Zea mays,Maize,eats
+14801,,wood-borers,,eats
+14801,,wood-borers - weevils,,eats
+14801,,Lambdina fiscellaria,,eats
+14801,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+14801,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+14801,47119,Arachnida,Arachnids,preysOn
+14801,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+14801,47157,Lepidoptera,Butterflies and Moths,preysOn
+14801,48486,Coccinellidae,Lady Beetles,preysOn
+14801,47158,Insecta,Insects,preysOn
+14801,,Weevils,,preysOn
+14801,,Wood-borers,,preysOn

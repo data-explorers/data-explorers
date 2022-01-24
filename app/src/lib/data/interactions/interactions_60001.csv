@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60001,47219,Apis mellifera,Western Honey Bee,eatenBy
+60001,53248,Elateridae,Click Beetles,eatenBy
+60001,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+60001,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+60001,46020,Sciurus niger,Fox Squirrel,eatenBy
+60001,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+60001,,Thrips tabaci,,eatenBy
+60001,,Cacoecimorpha pronubana,,eatenBy
+60001,,Lobesia botrana,,eatenBy
+60001,244564,Hendecasis duplifascialis,Jasmine bud worm (moth),eatenBy
+60001,,Hadena compta,,eatenBy
+60001,,Heliophobus reticulata,,eatenBy
+60001,,Melitaea didyma,,eatenBy
+60001,,Phyciodes mylitta,,eatenBy
+60001,,Phomopsis caryophylli,,eatenBy
+60001,,Amauromyza flavifrons,,eatenBy
+60001,,Trichoderma longibrachiatum,,eatenBy
+60001,,Bryobia,,eatenBy
+60001,,Delia cardui,,eatenBy
+60001,,Aphis (Aphis) sambuci,,eatenBy
+60001,,Rhizoecus,,eatenBy
+60001,,Meliscaeva cinctella,,pollinatedBy
+60001,,Parnara guttata ,,pollinatedBy
+60001,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy

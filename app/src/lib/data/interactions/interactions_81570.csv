@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81570,123594,Anaxyrus americanus americanus,Eastern American Toad,eats
+81570,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+81570,144455,Ardea alba,Great Egret,eatenBy
+81570,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+81570,4209,Podiceps auritus,Horned Grebe,eatenBy
+81570,4940,Egretta thula,Snowy Egret,eatenBy
+81570,5017,Bubulcus ibis,Cattle Egret,eatenBy
+81570,162,Porzana carolina,Sora,eatenBy
+81570,4937,Egretta caerulea,Little Blue Heron,eatenBy
+81570,4938,Egretta tricolor,Tricolored Heron,eatenBy

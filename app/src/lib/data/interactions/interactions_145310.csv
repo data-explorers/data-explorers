@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+145310,47120,Arthropoda,Arthropods,eats
+145310,211194,Tracheophyta,vascular plants,eats
+145310,1,Animalia,Animals,eats
+145310,47822,Diptera,Flies,eats
+145310,52381,Aphididae,Aphids,eats
+145310,53211,Senecio vulgaris,common groundsel,eats
+145310,57922,Centaurea melitensis,Maltese star-thistle,eats
+145310,56955,Helianthus,sunflowers,eats
+145310,52697,Avena,Oats,eats
+145310,47157,Lepidoptera,Butterflies and Moths,eats
+145310,47124,Magnoliopsida,dicots,eats
+145310,47687,Erodium cicutarium,Redstem Stork's-bill,eats
+145310,55751,Geum,avens,eats
+145310,49202,Fagus grandifolia,American beech,eats
+145310,62742,Rudbeckia,black-eyed Susans and coneflowers,eats
+145310,48627,Echinacea purpurea,purple coneflower,eats
+145310,57983,Helianthus annuus,Common Sunflower,eats
+145310,76214,Centaurea stoebe,spotted knapweed,eats
+145310,49230,Amelanchier,serviceberries,eats
+145310,55820,Primula,Primroses,eats
+145310,60132,Cirsium arvense,creeping thistle,eats
+145310,52989,Cirsium vulgare,Bull Thistle,eats
+145310,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+145310,48561,Cirsium,thistles,eats
+145310,117326,Picea glauca,white spruce,eats
+145310,47170,Fungi,Fungi Including Lichens,eats
+145310,,Polypremum procumbens,,eats
+145310,,Stachys crenata,,eats
+145310,,Madia sativa,,eats
+145310,119136,Perilla frutescens,beefsteak plant,eats
+145310,,Cupressoideae,,eats
+145310,130888,Erechtites hieraciifolius,fireweed,eats
+145310,,Coreopsis lanceolata,,eats
+145310,,Liquidambar styraciflua,,eats
+145310,119092,Picea pungens,blue spruce,eats
+145310,,Holodiscus discolor,,eats
+145310,127133,Hyphantria cunea,Fall Webworm Moth,eats
+145310,,Cichorium intybus,,eats
+145310,84292,Ulmus alata,Winged Elm,eats
+145310,,Ulmus americana,,eats
+145310,,Ocimum basilicum,,eats
+145310,,Homadaula anisocentra,,eats
+145310,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+145310,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+145310,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+145310,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+145310,47603,Taraxacum,dandelions,preysOn
+145310,,Carduus spachianus,,preysOn
+145310,46217,Tamias striatus,Eastern Chipmunk,preyedUponBy

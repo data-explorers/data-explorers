@@ -1,0 +1,211 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118996,67333,Bacteria,bacteria,eats
+118996,129725,Appendicularia,Pelagic Tunicates,eats
+118996,47126,Plantae,plants,eats
+118996,123880,Bacillariophyceae,Diatoms,eats
+118996,118996,Ciliophora,Ciliates,eats
+118996,126917,Rotifera,Rotifers,eats
+118996,67334,Cyanobacteria,cyanobacteria,eats
+118996,130225,Dinophyceae,,eats
+118996,50863,Chlorophyta,green algae,eats
+118996,,microflagellates and perhaps bacteria,,eats
+118996,,Phytoplankton,,eats
+118996,,Detritus,,eats
+118996,,zooflagellates,,eats
+118996,,Single-cell algae,,eats
+118996,,Filamentous blue and green algae,,eats
+118996,,Khakista,,eats
+118996,,Small coccal algae,,eats
+118996,,Large single-cell algae or colonies,,eats
+118996,,Algal colonies,,eats
+118996,,Heterotrophic nanoflagellates,,eats
+118996,,Carnivorous Crustaceans,,eats
+118996,,Herbivorous Crustaceans,,eats
+118996,152530,Laboulbeniales,,eats
+118996,,Pyrrophycophyta,,eats
+118996,,Prymnesiophyceae,,eats
+118996,,Chrysophyta,,eats
+118996,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+118996,121643,Copepoda,Copepods,eatenBy
+118996,195136,Euphausia,,eatenBy
+118996,47628,Amphipoda,Amphipods,eatenBy
+118996,85493,Crustacea,Crustaceans,eatenBy
+118996,85514,Cyclopoida,Cyclopoid Copepods,eatenBy
+118996,47534,Cnidaria,Cnidarians,eatenBy
+118996,195134,Euphausiidae,Euphotic Krill,eatenBy
+118996,117607,Nephtys,Nephthys's Sand-worms,eatenBy
+118996,153112,Euphausiacea,krill,eatenBy
+118996,126917,Rotifera,Rotifers,eatenBy
+118996,67333,Bacteria,bacteria,eatenBy
+118996,118996,Ciliophora,Ciliates,eatenBy
+118996,129409,Chironomus,,eatenBy
+118996,130225,Dinophyceae,,eatenBy
+118996,118832,Semibalanus balanoides,Northern Acorn Barnacle,eatenBy
+118996,47630,Mopalia,,eatenBy
+118996,48921,Hydrozoa,Hydrozoans,eatenBy
+118996,81648,Mytilus galloprovincialis,Mediterranean Mussel,eatenBy
+118996,62806,Mytilus californianus,California Mussel,eatenBy
+118996,,invertebrate predators,,eatenBy
+118996,201781,Calanus,,eatenBy
+118996,195081,Acartia,,eatenBy
+118996,85507,Calanoida,Calanoid Copepods,eatenBy
+118996,952605,Euphausia crystallorophias,,eatenBy
+118996,,Detritus,,eatenBy
+118996,,Phytoplankton,,eatenBy
+118996,,Ampharete grubei,,eatenBy
+118996,,Pectinaria koreni,,eatenBy
+118996,,Amage adspersa,,eatenBy
+118996,510337,Nephtys hombergii,Catworm,eatenBy
+118996,194984,Syllis rosea,,eatenBy
+118996,697661,Phylo foetida,,eatenBy
+118996,,Schistomeringos rudolphii,,eatenBy
+118996,339241,Chaetozone setosa,,eatenBy
+118996,527650,Oxydromus flexuosus,,eatenBy
+118996,370724,Lumbrineris latreilli,,eatenBy
+118996,337290,Cirriformia,Thread-gilled Worms,eatenBy
+118996,376326,Euclymene,,eatenBy
+118996,208364,Arenicola marina,Blow Lugworm,eatenBy
+118996,337474,Magelona mirabilis,bristleworm,eatenBy
+118996,339238,Owenia fusiformis,,eatenBy
+118996,,Paraonis fulgens,,eatenBy
+118996,63740,Gadus morhua,Atlantic Cod,eatenBy
+118996,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+118996,171566,Lumbriculidae,,eatenBy
+118996,347614,Eiseniella tetraedra,Square-tailed Worm,eatenBy
+118996,,calanoids - small tomopterids - small coelenterates,,eatenBy
+118996,774778,Gymnoplea,,eatenBy
+118996,,meroplankton - appendicularians - doliolids,,eatenBy
+118996,,Larger ciliates (omnivore),,eatenBy
+118996,,Mostly cladocerans (daphnids),,eatenBy
+118996,,HNF,,eatenBy
+118996,,larger copepods (e.g. - Calanus),,eatenBy
+118996,,small invertebrate predators (e.g. - chaetognaths and ctenophores),,eatenBy
+118996,,smaller copepods (e.g. - Pseudocalanus),,eatenBy
+118996,491991,Caquetaia kraussii,Krauss' Basketmouth,eatenBy
+118996,112049,Sardinella longiceps,Indian Sardinella,eatenBy
+118996,,Liza dumerili,,eatenBy
+118996,607562,Tetrapleurodon spadiceus,Chapala Lamprey,eatenBy
+118996,206811,Tetrapleurodon geminis,Jacona Lamprey,eatenBy
+118996,,Xenocypris argentea,,eatenBy
+118996,338921,Macruronus novaezelandiae,Blue Grenadier,eatenBy
+118996,99979,Engraulis ringens,Peruvian Anchoveta,eatenBy
+118996,,Balanus improvisus,,eatenBy
+118996,,Alonella,,eatenBy
+118996,375978,Cirroctopus,Cirroctopuses,eatenBy
+118996,,Foraminiferida,,eatenBy
+118996,,Gammaridea,,eatenBy
+118996,340479,Radiolaria,,eatenBy
+118996,51695,Eupentacta quinquesemita,Stiff-footed sea cucumber,eatenBy
+118996,53607,Polynoidae,Scaleworms,eatenBy
+118996,485904,Dinophysis caudata,,eatenBy
+118996,883527,Tripos furca,,eatenBy
+118996,984267,Oithona attenuata,,eatenBy
+118996,344134,Euphausia superba,Antarctic Krill,eatenBy
+118996,472067,Penilia avirostris,,eatenBy
+118996,369153,Penaeus esculentus,Brown Tiger Prawn,eatenBy
+118996,118996,Ciliophora,Ciliates,preysOn
+118996,126917,Rotifera,Rotifers,preysOn
+118996,67333,Bacteria,bacteria,preysOn
+118996,,Heterotrophic bacteria,,preysOn
+118996,,Nanoflagellates,,preysOn
+118996,,microflagellates and perhaps bacteria,,preysOn
+118996,126917,Rotifera,Rotifers,preyedUponBy
+118996,121643,Copepoda,Copepods,preyedUponBy
+118996,118996,Ciliophora,Ciliates,preyedUponBy
+118996,67333,Bacteria,bacteria,preyedUponBy
+118996,81545,Lumbricus terrestris,Common Earthworm,preyedUponBy
+118996,69758,Lumbricidae,Earthworms,preyedUponBy
+118996,81547,Lumbricus,,preyedUponBy
+118996,81634,Mya arenaria,Soft-shelled Clam,preyedUponBy
+118996,55025,Anomia,,preyedUponBy
+118996,329118,Sapphirina,,preyedUponBy
+118996,203466,Idotea balthica,Baltic Isopod,preyedUponBy
+118996,180788,Mnemiopsis leidyi,Common Comb Jelly,preyedUponBy
+118996,118832,Semibalanus balanoides,Northern Acorn Barnacle,preyedUponBy
+118996,349374,Rhopilema verrilli,Mushroom Jelly,preyedUponBy
+118996,117650,Mytilus edulis,Blue Mussel,preyedUponBy
+118996,69838,Cyanea capillata,Lion's Mane Jelly,preyedUponBy
+118996,256083,Liriope tetraphylla,,preyedUponBy
+118996,,Larger ciliates (omnivore),,preyedUponBy
+118996,,Dreissenid mussels,,preyedUponBy
+118996,60395,Branchiopoda,Branchiopods,preyedUponBy
+118996,,Nanoflagellates,,preyedUponBy
+118996,,small invertebrate predators (e.g. - chaetognaths and ctenophores),,preyedUponBy
+118996,,smaller copepods (e.g. - Pseudocalanus),,preyedUponBy
+118996,,larger copepods (e.g. - Calanus),,preyedUponBy
+118996,203389,Megalothorax,,preyedUponBy
+118996,296626,Proisotoma minima,,preyedUponBy
+118996,1226560,Pseudanurophorus binoculatus,,preyedUponBy
+118996,180684,Enchytraeidae,Potworms,preyedUponBy
+118996,,omnivorous nematodes,,preyedUponBy
+118996,85251,Ceratophysella denticulata,Mushroom springtail,preyedUponBy
+118996,,predacious nematodes,,preyedUponBy
+118996,222443,Isotomiella minor,,preyedUponBy
+118996,222439,Isotoma notabilis,,preyedUponBy
+118996,171479,Isotomidae,Smooth Springtails,preyedUponBy
+118996,333503,Octolasion,Field Worms,preyedUponBy
+118996,1245227,Bimastos rubidus,,preyedUponBy
+118996,,Octolasion tyrtaeum,,preyedUponBy
+118996,,Chamobates pusillus,,preyedUponBy
+118996,,Willemia denisi,,preyedUponBy
+118996,484189,Aporrectodea rosea,Rosy-tipped Worm,preyedUponBy
+118996,,Xenyella sp.,,preyedUponBy
+118996,,Aporectodea longa (juv),,preyedUponBy
+118996,199376,Lumbricus rubellus,Redhead Worm,preyedUponBy
+118996,207553,Ceratophysella,,preyedUponBy
+118996,127363,Aporrectodea,,preyedUponBy
+118996,,Aporectodea longa,,preyedUponBy
+118996,,Isotoma viridis,,preyedUponBy
+118996,,Isotoma hiemalis,,preyedUponBy
+118996,127362,Aporrectodea caliginosa,Grey Worm,preyedUponBy
+118996,1226583,Mucrosomia garretti,,preyedUponBy
+118996,,Enterion castaneum,,preyedUponBy
+118996,,Hypogastrura purpurescens,,preyedUponBy
+118996,1019262,Willemia anophthalma,,preyedUponBy
+118996,917151,Oncopodura crassicornis,,preyedUponBy
+118996,296512,Ceratophysella armata,,preyedUponBy
+118996,199394,Dendrobaena octaedra,Octagonal-tailed Worm,preyedUponBy
+118996,,Enterion pygmaeum,,preyedUponBy
+118996,,Isotomurus palustris,,preyedUponBy
+118996,296627,Proisotoma minuta,,preyedUponBy
+118996,,Ceratophysella gibbosa,,preyedUponBy
+118996,,Hypogastrura burkilli,,preyedUponBy
+118996,296538,Xenylla grisea,,preyedUponBy
+118996,,Ballistura,,preyedUponBy
+118996,296518,Ceratophysella succinea,,preyedUponBy
+118996,1023066,Labidocera aestiva,,preyedUponBy
+118996,,Diaphanosoma leuchtenbergia,,preyedUponBy
+118996,1003858,Ilyocryptus spinifer,,preyedUponBy
+118996,950701,Eurytemora americana,,preyedUponBy
+118996,,Labidocera wollastoni,,preyedUponBy
+118996,168927,Sida crystallina,,preyedUponBy
+118996,1110969,Lathonura rectirostris,,preyedUponBy
+118996,688301,Scapholeberis kingi,,preyedUponBy
+118996,,Pontella meadi,,preyedUponBy
+118996,201760,Nannocalanus,,preyedUponBy
+118996,,Paracalanus crassirostris,,preyedUponBy
+118996,,Eubosmina coregoni,,preyedUponBy
+118996,,Pontella meadii,,preyedUponBy
+118996,1080182,Picripleuroxus striatus,,preyedUponBy
+118996,,Pleopis polyphemoides,,preyedUponBy
+118996,,Daphnia lumholtzi,,preyedUponBy
+118996,87923,Diaptomus,,preyedUponBy
+118996,,Coullana canadensis,,preyedUponBy
+118996,,Macoma tenta,,preyedUponBy
+118996,,Daphnia pulex,,preyedUponBy
+118996,483859,Monospilus dispar,,preyedUponBy
+118996,1110968,Podon intermedius,,preyedUponBy
+118996,1297371,Bosmina coregoni,baltic long-nosed waterflea,preyedUponBy
+118996,978274,Leptocheirus plumulosus,,preyedUponBy
+118996,,Stenothoe minuta,,preyedUponBy
+118996,47585,Crassostrea virginica,Eastern Oyster,preyedUponBy
+118996,295414,Elasmopus levis,,preyedUponBy
+118996,,Alteutha depressa,,preyedUponBy
+118996,,Chiridotea almyra,,preyedUponBy
+118996,533824,Ceriodaphnia lacustris,,preyedUponBy
+118996,194050,Limnoria lignorum,,preyedUponBy
+118996,248413,Bowmaniella,,preyedUponBy
+118996,567474,Acartia hudsonica,,preyedUponBy
+118996,,Balanus subalbius,,preyedUponBy
+118996,201774,Paracalanus,,preyedUponBy
+118996,218302,Diacyclops bicuspidatus,,preyedUponBy

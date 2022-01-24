@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49671,47851,Quercus,oaks,eats
+49671,,Prosopis juliflora,,eats
+49671,52381,Aphididae,Aphids,eatenBy
+49671,12705,Turdus,Typical Thrushes,eatenBy
+49671,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+49671,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+49671,40992,Artibeus,Neotropical Fruit Bats,eatenBy
+49671,45994,Sciurus,Tree Squirrels,eatenBy
+49671,12937,Sialia mexicana,Western Bluebird,eatenBy
+49671,,Crematogaster laeviuscula,,eatenBy
+49671,,Myrmex estriatus,,eatenBy
+49671,,Smiracraulax tuberculatus,,eatenBy
+49671,,Pseudocoddicae,,eatenBy
+49671,,Tacoma feriella,,eatenBy
+49671,,Aphrastus unicolor,,eatenBy
+49671,,Lecanium,,eatenBy
+49671,,Vanduzea laeta,,eatenBy
+49671,,Atlides halesus,,eatenBy
+49671,,Leptoglossus brevirostris,,eatenBy
+49671,,Cyathissa percara,,eatenBy
+49671,,Fundella pellucens,,eatenBy
+49671,,Emarginea percara,,eatenBy
+49671,,Sicya morsicaria,,eatenBy
+49671,,Sicya snoviaria,,eatenBy
+49671,,pseudococcids (unspecified),,eatenBy
+49671,,Myrmex,,eatenBy
+49671,,Baillonius bailloni,,eatenBy
+49671,,Selenidera maculirostris,,eatenBy
+49671,,Chiroxiphia caudata,,eatenBy
+49671,,Thraupis ornata,,eatenBy
+49671,,Euphonia pectoralis,,eatenBy
+49671,,Thraupis cyanoptera,,eatenBy
+49671,,Carpornis cucullata,,eatenBy
+49671,,Platycichla flavipes,,eatenBy
+49671,10719,Trichothraupis melanops,Black-goggled Tanager,eatenBy
+49671,,Cacicus,,eatenBy
+49671,,Tangara,,eatenBy
+49671,,Tachyphonus coronatus,,eatenBy
+49671,,Penelope obscura,,eatenBy
+49671,,Tangara seledon,,eatenBy
+49671,,Turdus rufiventris,,eatenBy
+49671,,Trogon surrucura,,eatenBy
+49671,,Stephanophorus diadematus,,eatenBy
+49671,72727,Cissopis leverianus,Magpie Tanager,eatenBy
+49671,,Patagioenas plumbea,,eatenBy
+49671,,Philander frenatus,,eatenBy
+49671,8752,Lipaugus lanioides,Cinnamon-vented Piha,eatenBy
+49671,9861,Saltator similis,Green-winged Saltator,eatenBy
+49671,,Aburria jacutinga,,eatenBy
+49671,,Tangara desmaresti,,eatenBy
+49671,,Habia rubica,,eatenBy
+49671,,Mionectes rufiventris,,eatenBy
+49671,,Hemithraupis ruficapilla,,eatenBy
+49671,,Cerdocyon thous,,eatenBy
+49671,41110,Carollia perspicillata,Seba's Short-tailed Bat,eatenBy
+49671,,Trogon viridis,,eatenBy
+49671,,Ilicura militaris,,eatenBy
+49671,,Schiffornis virescens,,eatenBy
+49671,,Trogon rufus,,eatenBy
+49671,,Celeus flavescens,,eatenBy
+49671,,Melanerpes flavifrons,,eatenBy
+49671,,Myiodynastes maculatus,,eatenBy
+49671,,Artibeus lituratus,,eatenBy
+49671,,Pyrrhura frontalis,,eatenBy
+49671,10506,Dacnis cayana,Blue Dacnis,eatenBy
+49671,,Pachyramphus validus,,eatenBy
+49671,,Ramphastos,,eatenBy
+49671,,Sturnira tildae,,eatenBy
+49671,,Procnias nudicollis,,eatenBy
+49671,,Tityra cayana,,eatenBy
+49671,17424,Hylophilus poicilotis,Rufous-crowned Greenlet,eatenBy
+49671,,Artibeus fimbriatus,,eatenBy
+49671,,Sapajus apella,,eatenBy
+49671,,Brotogeris tirica,,eatenBy
+49671,10293,Thraupis sayaca,Sayaca Tanager,eatenBy
+49671,,Euphonia violacea,,eatenBy
+49671,,Orchesticus abeillei,,eatenBy
+49671,,Orthogonys chloricterus,,eatenBy
+49671,,Oxyruncus cristatus,,eatenBy
+49671,,Sturnira lilium,,eatenBy
+49671,,Pyroderus scutatus,,eatenBy
+49671,,Attila rufus,,eatenBy
+49671,16737,Megarynchus pitangua,Boat-billed Flycatcher,eatenBy
+49671,,Elaenia,,eatenBy
+49671,,Alouatta fusca,,eatenBy
+49671,,Brachyteles arachnoides,,eatenBy
+49671,,Tinamus,,eatenBy
+49671,,Saltator fuliginosus,,eatenBy
+49671,,Didelphis aurita,,eatenBy
+49671,,Pachyramphus castaneus,,eatenBy
+49671,16956,Pitangus sulphuratus,Great Kiskadee,eatenBy
+49671,14878,Mimus saturninus,Chalk-browed Mockingbird,eatenBy
+49671,16787,Tyrannus melancholicus,Tropical Kingbird,eatenBy
+49671,,Micoureus demerarae,,eatenBy
+49671,,Baryphthengus ruficapillus,,eatenBy
+49671,12737,Turdus leucomelas,Pale-breasted Thrush,eatenBy
+49671,,Tachyphonus cristatus,,eatenBy
+49671,9282,Haplospiza unicolor,Uniform Finch,eatenBy
+49671,,Tityra inquisitor,,eatenBy
+49671,17060,Empidonomus varius,Variegated Flycatcher,eatenBy
+49671,12710,Turdus amaurochalinus,Creamy-bellied Thrush,eatenBy
+49671,40995,Artibeus planirostris,Flat-faced Fruit-eating Bat,eatenBy

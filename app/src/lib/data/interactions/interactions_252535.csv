@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+252535,47170,Fungi,Fungi Including Lichens,eats
+252535,,Algae,,eats
+252535,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+252535,,Pseudomyrmex elongatus,,preyedUponBy
+252535,,Dendroica,,preyedUponBy

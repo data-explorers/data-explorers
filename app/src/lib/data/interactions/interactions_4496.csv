@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4496,59115,Gambusia affinis,Western Mosquitofish,eats
+4496,57301,Hyporhamphus,,eats
+4496,49591,Lepomis macrochirus,Bluegill,eats
+4496,132473,Lagodon rhomboides,Pinfish,eats
+4496,47178,Actinopterygii,Ray-finned Fishes,eats
+4496,51364,Brevoortia patronus,Gulf Menhaden,eats
+4496,105570,Menidia peninsulae,Tidewater Silverside,eats
+4496,101068,Fundulus pulvereus,bayou topminnow,eats
+4496,94070,Anchoa mitchilli,Bay Anchovy,eats
+4496,51042,Penaeidae,Penaeid Shrimps,eats
+4496,106222,Mugil cephalus,Sea Mullet,eats
+4496,113308,Strongylura marina,Atlantic Needlefish,eats
+4496,109046,Peprilus paru,Harvestfish,eats
+4496,146600,Micropogonias undulatus,Atlantic Croaker,eats
+4496,82337,Loligo,,eats
+4496,179446,Trachinotus carolinus,Florida Pompano,eats
+4496,179593,Fundulus similis,Longnose Killifish,eats
+4496,101057,Fundulus grandis,Gulf Killifish,eats
+4496,179537,Mugil curema,White Mullet,eats
+4496,109885,Poecilia latipinna,Sailfin Molly,eats
+4496,98945,Cyprinodon variegatus,Sheepshead Minnow,eats
+4496,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4496,41663,Procyon lotor,Common Raccoon,eatenBy
+4496,42069,Vulpes vulpes,Red Fox,eatenBy
+4496,8001,Corvus ossifragus,Fish Crow,eatenBy
+4496,63770,Engraulis mordax,Northern Anchovy,preysOn
+4496,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4496,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4496,117564,Clevelandia ios,Arrow Gobi,preysOn
+4496,,Ilypnus gilberti,,preysOn
+4496,111467,Quietula y-cauda,Shadow Goby,preysOn
+4496,81963,Girella nigricans,Opaleye,preysOn
+4496,179533,Fundulus parvipinnis,California Killifish,preysOn

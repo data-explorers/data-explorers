@@ -1,0 +1,115 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47961,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+47961,47382,Latrodectus hesperus,Western Black Widow,eatenBy
+47961,57145,Olea,Olives,eatenBy
+47961,53165,Croton,Crotons,eatenBy
+47961,4209,Podiceps auritus,Horned Grebe,eatenBy
+47961,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+47961,10247,Setophaga ruticilla,American Redstart,eatenBy
+47961,145238,Setophaga petechia,Yellow Warbler,eatenBy
+47961,20044,Bubo virginianus,Great Horned Owl,eatenBy
+47961,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47961,17355,Vireo,Vireos,eatenBy
+47961,17356,Vireo bellii,Bell's Vireo,eatenBy
+47961,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+47961,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+47961,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+47961,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+47961,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47961,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+47961,12901,Catharus fuscescens,Veery,eatenBy
+47961,12890,Catharus guttatus,Hermit Thrush,eatenBy
+47961,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+47961,7458,Certhia americana,Brown Creeper,eatenBy
+47961,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47961,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47961,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47961,7294,Eremophila alpestris,Horned Lark,eatenBy
+47961,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+47961,,Bradysia tilicola,,eatenBy
+47961,1045201,Leiobunum apenninicum,,eatenBy
+47961,116845,Calyptorhynchus funereus,Yellow-tailed Black-Cockatoo,eatenBy
+47961,,Vireo solitarius,,eatenBy
+47961,,Bradypodion damaranum,,eatenBy
+47961,,Mungos mungo,,eatenBy
+47961,,Aphloia theiformis,,eatenBy
+47961,,Psiadia terebinthina,,eatenBy
+47961,185785,Mimusops,Red Milkwoods,eatenBy
+47961,,Stillingia lineata lineata,,eatenBy
+47961,83080,Eugenia,Myrtles,eatenBy
+47961,17943,Dendrocopos leucotos,White-backed Woodpecker,eatenBy
+47961,,Caprimulgus vociferus,,eatenBy
+47961,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47961,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+47961,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+47961,16024,Myiarchus antillarum,Puerto Rican Flycatcher,eatenBy
+47961,145250,Setophaga adelaidae,Adelaide's Warbler,eatenBy
+47961,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+47961,9764,Agelaius xanthomus,Yellow-shouldered Blackbird,eatenBy
+47961,145233,Setophaga americana,Northern Parula,eatenBy
+47961,19754,Megascops nudipes,Puerto Rican Screech-Owl,eatenBy
+47961,10199,Coereba flaveola,Bananaquit,eatenBy
+47961,,Setophaga caerulescens,,eatenBy
+47961,16602,Empidonax minimus,Least Flycatcher,eatenBy
+47961,,Empidonax flaviventris,,eatenBy
+47961,,Empidonax traillii,,eatenBy
+47961,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+47961,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+47961,17394,Vireo gilvus,Warbling Vireo,eatenBy
+47961,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+47961,,Vireo flavifrons,,eatenBy
+47961,17408,Vireo griseus,White-eyed Vireo,eatenBy
+47961,,Picoides dorsalis,,eatenBy
+47961,,Picoides arcticus,,eatenBy
+47961,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+47961,,Picoides villosus,,eatenBy
+47961,,Picoides pubescens,,eatenBy
+47961,,Setophaga pinus,,eatenBy
+47961,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+47961,8234,Cyanocitta stelleri,Steller's Jay,eatenBy
+47961,,Campephilus principalis,,eatenBy
+47961,,Dryobates albolarvatus,,eatenBy
+47961,19577,Chordeiles minor,Common Nighthawk,eatenBy
+47961,,Spiza americana,,eatenBy
+47961,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+47961,58729,Toxicodendron rydbergii,western poison ivy,pollinates
+47961,53165,Croton,Crotons,pollinates
+47961,57145,Olea,Olives,pollinates
+47961,49463,Trillium ovatum,Pacific trillium,pollinates
+47961,970203,Stillingia lineata,,pollinates
+47961,,Psiadia terebinthina,,pollinates
+47961,185785,Mimusops,Red Milkwoods,pollinates
+47961,83080,Eugenia,Myrtles,pollinates
+47961,,Aphloia theiformis,,pollinates
+47961,,Dactylorhiza fuchsii,,pollinates
+47961,48124,Tettigoniidae,Katydids,preyedUponBy
+47961,,Laphria thoracica,,preyedUponBy
+47961,,Pseudoseisura cristata,,preyedUponBy
+47961,,Mungos mungo,,preyedUponBy
+47961,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+47961,153861,Tibellus maritimus,,preyedUponBy
+47961,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+47961,82118,Dolomedes,Fishing Spiders,preyedUponBy
+47961,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+47961,531184,Clubiona stagnatilis,,preyedUponBy
+47961,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+47961,121444,Larinioides,,preyedUponBy
+47961,,Ensifera,,preyedUponBy
+47961,,Bufo marinus,,preyedUponBy
+47961,42808,Trichosurus vulpecula,Common Brushtail Possum,preyedUponBy
+47961,,Isoodon macrourus,,preyedUponBy
+47961,37456,Tiliqua scincoides,Common Blue-tongued Skink,preyedUponBy
+47961,31215,Chlamydosaurus kingii,Frilled Lizard,preyedUponBy
+47961,,Alectura lathami,,preyedUponBy
+47961,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+47961,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+47961,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+47961,40887,Pteropus dasymallus,Ryukyu Flying Fox,preyedUponBy
+47961,,Hypsugo ariel,,preyedUponBy
+47961,320633,Rhinolophus clivosus,Geoffroy's horseshoe bat,preyedUponBy
+47961,41070,Micronycteris hirsuta,hairy big-eared bat,preyedUponBy
+47961,41254,Molossus molossus,Velvety Free-tailed Bat,preyedUponBy
+47961,,Phyllostomus hastatus,,preyedUponBy
+47961,41077,Phyllostomus discolor,pale spear-nosed bat,preyedUponBy
+47961,40348,Myotis velifer,Cave Myotis,preyedUponBy
+47961,40569,Nycticeius humeralis,Evening Bat,preyedUponBy

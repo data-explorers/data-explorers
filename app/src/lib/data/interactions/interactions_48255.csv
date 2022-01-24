@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48255,123096,Eupithecia,Pug Moths,eatenBy
+48255,81681,Campaea perlata,Pale Beauty,eatenBy
+48255,47802,Lymantria dispar,LD Moth,eatenBy
+48255,,Dasychira plagiata,,eatenBy
+48255,,Melanolophia imitata,,eatenBy
+48255,,Lambdina fiscellaria,,eatenBy
+48255,,Ectropis crepuscularia,,eatenBy
+48255,,Caripeta,,eatenBy
+48255,,Synaxis pallulata,,eatenBy
+48255,,Pero behrensarius,,eatenBy
+48255,,Epirrita autumnata,,eatenBy
+48255,,Nepytia phantasmaria,,eatenBy
+48255,,Xeris spectrum,,eatenBy
+48255,,Thallophaga hyperborea,,eatenBy
+48255,,Argyrotaenia velutinana,,eatenBy
+48255,,Acleris gloveranus,,eatenBy
+48255,,Dendrolimus,,eatenBy
+48255,60930,Diaspidiotus perniciosus,Pernicious Scale,eatenBy
+48255,,Eacles imperialis,,eatenBy
+48255,,Lambdina fervidaria,,eatenBy
+48255,,Dynaspidiotus tsugae,,eatenBy
+48255,,Fiorinia japonica,,eatenBy
+48255,,Chionaspis pinifoliae,,eatenBy
+48255,,Choristoneura fumiferana,,eatenBy
+48255,,Paracroesia,,eatenBy
+48255,177285,Lobesia,,eatenBy
+48255,214084,Archips oporana,Pine Tortrix,eatenBy
+48255,214160,Argyrotaenia occultana,Fall Spruce Needle Moth,eatenBy
+48255,,Eucosma tocullionana,,eatenBy
+48255,969270,Archips tsuganus,,eatenBy
+48255,1296182,Dioryctria abietella,,eatenBy
+48255,,Feralia jocosa,,eatenBy
+48255,,Xestia mustelina,,eatenBy
+48255,,Syngrapha celsa,,eatenBy
+48255,213830,Apamea auranticolor,,eatenBy
+48255,,Elaphria versicolor,,eatenBy
+48255,,Orgyia antiqua,,eatenBy
+48255,,Orgyia pseudotsugata,,eatenBy
+48255,,Eupithecia luteata,,eatenBy
+48255,,Eupithecia harrisonata,,eatenBy
+48255,,Eupithecia transcanadata,,eatenBy
+48255,176368,Eufidonia notataria,Powder Moth,eatenBy
+48255,,Speranza pustularia,,eatenBy
+48255,,Semiothisa bicolorata,,eatenBy
+48255,,Semiothisa bisignata,,eatenBy
+48255,,Neophasia menapia,,eatenBy
+48255,,Postia stiptica,,eatenBy
+48255,384040,Radulomyces confluens,confluent radulomyces,eatenBy

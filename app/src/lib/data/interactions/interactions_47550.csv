@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47550,47822,Diptera,Flies,eats
+47550,17355,Vireo,Vireos,eatenBy
+47550,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47550,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47550,145233,Setophaga americana,Northern Parula,eatenBy
+47550,,Vireo flavifrons,,eatenBy
+47550,17408,Vireo griseus,White-eyed Vireo,eatenBy
+47550,84670,Ephydridae,Shore Flies,preysOn
+47550,127593,Chloropidae,Frit Flies,preysOn
+47550,61267,Heteroptera,True Bugs,preysOn
+47550,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+47550,47157,Lepidoptera,Butterflies and Moths,preysOn
+47550,52425,Chrysopidae,Green Lacewings,preysOn
+47550,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+47550,55351,Phoridae,Humpbacked Flies,preysOn
+47550,52073,Fulgoroidea,Planthoppers,preysOn
+47550,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+47550,47822,Diptera,Flies,preysOn
+47550,49995,Syrphidae,Hover Flies,preysOn
+47550,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",preysOn
+47550,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+47550,47792,Odonata,Dragonflies and Damselflies,preysOn
+47550,177071,Melipotis,,preysOn
+47550,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",preysOn
+47550,55659,Pyrausta,Mint Moths,preysOn
+47550,203279,Scaphytopius,,preysOn
+47550,113846,Telebasis salva,Desert Firetail,preysOn
+47550,,Pipinculus sp,,preysOn
+47550,624522,Hebrus pusillus,,preysOn
+47550,174422,Hybotidae,Hybotid Dance Flies,preysOn
+47550,177092,Meligethes,,preysOn
+47550,,Aphthona lutescens,,preysOn
+47550,1200333,Teuchophorus calcaratus,,preysOn
+47550,,Sciaridae,,preysOn
+47550,,Chrysotus cilipes,,preysOn
+47550,49460,Empididae,Dance Flies,preysOn
+47550,69803,Ceratopogonidae,Biting Midges,preysOn
+47550,554158,Chartoscirta cincta,,preysOn
+47550,143336,Phlaeothripidae,Tube-tailed Thrips,preysOn
+47550,,Chaetocnema confusa,,preysOn
+47550,,Haplothrips,,preysOn
+47550,342818,Proctotrupoidea,,preysOn
+47550,52380,Aphidoidea,,preysOn
+47550,203300,Tetrastichus,,preysOn
+47550,248060,Dixella,,preysOn
+47550,130265,Tetramesa,,preysOn
+47550,1200309,Argyra vestita,,preysOn
+47550,1087985,Swammerdamella brevicornis,,preysOn
+47550,,Sphaerocidae,,preysOn
+47550,569944,Limothrips denticornis,,preysOn
+47550,,Callitula ferrierei,,preysOn
+47550,,Eupterygini,,preysOn
+47550,123608,Delphacidae,,preysOn
+47550,,Thripomorpha paludicola,,preysOn
+47550,,Pediobius,,preysOn
+47550,123596,Chilocorus bipustulatus,Heather Ladybird,preysOn
+47550,203213,Diapriidae,,preysOn
+47550,1121348,Blissus insularis,,preysOn
+47550,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn
+47550,49575,Pseudococcus,,preysOn
+47550,82279,Automeris io,Io Moth,preysOn
+47550,323059,Acanalonia servillei,,preysOn
+47550,176795,Nemapogon,,preysOn
+47550,,Phocides batabano,,preysOn
+47550,,Bema ydda,,preysOn
+47550,,Oiketicus abbottii,,preysOn
+47550,,Pyraustidae,,preysOn
+47550,,Alarodia slossoniae,,preysOn
+47550,,Oxydia,,preysOn
+47550,208181,Arunta interclusa,mangrove cicada,preysOn
+47550,,Lynchia albipennis,,preysOn
+47550,129986,Oliarus,,preysOn
+47550,84463,Ceroplastes,Wax Scales,preysOn
+47550,,Ecdytolopha,,preysOn
+47550,1159232,Tangia breviceps,,preysOn
+47550,329886,Olfersia sordida,,preysOn
+47550,557422,Flatoidinus punctatus,,preysOn
+47550,49024,Membracidae,Typical Treehoppers,preysOn
+47550,,Orgygia detrita,,preysOn
+47550,,Phoebis agarithe,,preysOn
+47550,,Ascia monuste,,preysOn
+47550,,Enallagma signatum,,preysOn
+47550,59776,Perithemis tenera,Eastern Amberwing,preysOn
+47550,84722,Ischnura verticalis,Eastern Forktail,preysOn
+47550,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+47550,250072,Metacyrba,,preyedUponBy
+47550,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+47550,,Sceliphron madraspatanum,,preyedUponBy
+47550,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+47550,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47550,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+47550,,Pirata,,preyedUponBy
+47550,,Dendroica,,preyedUponBy
+47550,84495,Paraphidippus,,preyedUponBy
+47550,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+47550,420613,Stoidis,,preyedUponBy
+47550,354274,Ballus,,preyedUponBy
+47550,49880,Misumenops,,preyedUponBy
+47550,,Neotama,,preyedUponBy
+47550,,Polysphincta,,preyedUponBy
+47550,,Anyphaena accentuata,,preyedUponBy

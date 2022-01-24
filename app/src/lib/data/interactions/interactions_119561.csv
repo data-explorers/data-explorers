@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119561,153441,Symphyotrichum cordifolium,Common Blue Wood Aster,eats
+119561,56112,Symphyotrichum,American asters,eats
+119561,56992,Lobularia maritima,sweet alyssum,eats
+119561,53359,Baccharis pilularis,coyote brush,eats
+119561,53453,Salix,Willows,eats
+119561,461542,Astereae,asters and allies,eats
+119561,142279,Symphyotrichum pilosum,hairy white oldfield aster,eats
+119561,61787,Persicaria,"knotweeds, smartweeds, and waterpeppers",eats
+119561,,Tithonia,,eats
+119561,128551,Solidago rugosa,common wrinkle-leaved goldenrod,eats
+119561,119343,Symphyotrichum oblongifolium,Aromatic Aster,eats
+119561,55971,Tanacetum vulgare,tansy,eats
+119561,,Claytonia virginica,,eats
+119561,,Zinnia elegans,,eats
+119561,132450,Zinnia,,eats
+119561,56861,Symphyotrichum chilense,Pacific Aster,eats
+119561,,Ceanothus thyrsiflorus,,eats
+119561,,Ampelaster carolinianus,,eats
+119561,132767,Chamaedaphne calyculata,leatherleaf,pollinates
+119561,,http://treatment.plazi.org/id/8CDDB8FE5199BEA9FC8C197936C1A53C,,pollinates
+119561,128805,Gaylussacia baccata,black huckleberry,pollinates
+119561,128798,Aronia melanocarpa,black chokeberry,pollinates
+119561,,Ledum groenlandicum,,pollinates
+119561,,http://treatment.plazi.org/id/7CF5D90BA350ADBB07186A8272DB4681,,pollinates
+119561,,Cardamine concatenata,,pollinates
+119561,81795,Enemion biternatum,false rue anemone,pollinates
+119561,48112,Mantodea,Mantises,preyedUponBy

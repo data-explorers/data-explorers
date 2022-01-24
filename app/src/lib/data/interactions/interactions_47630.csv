@@ -1,0 +1,41 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47630,48921,Hydrozoa,Hydrozoans,eats
+47630,123631,Corallina,,eats
+47630,123880,Bacillariophyceae,Diatoms,eats
+47630,118996,Ciliophora,Ciliates,eats
+47630,48220,Phaeophyceae,brown algae,eats
+47630,48394,Gymnolaemata,,eats
+47630,429195,Nucella emarginata,Emarginate Dogwinkle,eats
+47630,,Foraminiferida,,eats
+47630,621184,Ulvaria,,eats
+47630,,Biofilm Complex,,eats
+47630,,Detritus complex,,eats
+47630,,Crustose coralline algae complex,,eats
+47630,117641,Nucella lamellosa,Wrinkled Purple,eats
+47630,117821,Mastocarpus,encrusting red algae,eats
+47630,,Tintinnina,,eats
+47630,203808,Navicula,,eats
+47630,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+47630,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+47630,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+47630,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+47630,,Leptasterias,,eatenBy
+47630,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+47630,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+47630,123631,Corallina,,preysOn
+47630,123880,Bacillariophyceae,Diatoms,preysOn
+47630,48394,Gymnolaemata,,preysOn
+47630,429195,Nucella emarginata,Emarginate Dogwinkle,preysOn
+47630,48921,Hydrozoa,Hydrozoans,preysOn
+47630,,Biofilm complex,,preysOn
+47630,621184,Ulvaria,,preysOn
+47630,,Phytoplankton,,preysOn
+47630,,Crustose coralline algae complex,,preysOn
+47630,,Detritus complex,,preysOn
+47630,19922,Strix leptogrammica,Brown Wood-Owl,preysOn
+47630,,Zooplankton,,preysOn
+47630,117807,Mastocarpus papillatus,Turkish washcloth,preysOn
+47630,117641,Nucella lamellosa,Wrinkled Purple,preysOn
+47630,,Leptasterias,,preyedUponBy
+47630,47669,Orthasterias koehleri,Rainbow Star,preyedUponBy
+47630,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy

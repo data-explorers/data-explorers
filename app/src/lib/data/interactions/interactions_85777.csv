@@ -1,0 +1,100 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85777,195355,Hyperiidae,,eats
+85777,121643,Copepoda,Copepods,eats
+85777,195134,Euphausiidae,Euphotic Krill,eats
+85777,153112,Euphausiacea,krill,eats
+85777,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+85777,47459,Cephalopoda,Cephalopods,eatenBy
+85777,72458,Actitis macularius,Spotted Sandpiper,eatenBy
+85777,3793,Sula sula,Red-footed Booby,eatenBy
+85777,144530,Sternula antillarum,Least Tern,eatenBy
+85777,144542,Thalasseus elegans,Elegant Tern,eatenBy
+85777,4457,Sterna forsteri,Forster's Tern,eatenBy
+85777,3797,Sula leucogaster,Brown Booby,eatenBy
+85777,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+85777,4092,Puffinus,Small Shearwaters,eatenBy
+85777,144539,Thalasseus maximus,Royal Tern,eatenBy
+85777,47257,Acanthocybium solandri,Wahoo,eatenBy
+85777,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+85777,,Manta birostris,,eatenBy
+85777,87641,Coryphaena,Dolphinfishes,eatenBy
+85777,194883,Gempylus serpens,Snake Mackerel,eatenBy
+85777,4142,Phoebastria albatrus,Short-tailed Albatross,eatenBy
+85777,4107,Puffinus auricularis,Townsend's Shearwater,eatenBy
+85777,,Puffinus pacificus,,eatenBy
+85777,4535,Anous stolidus,Brown Noddy,eatenBy
+85777,56768,Sula granti,Nazca Booby,eatenBy
+85777,4101,Puffinus nativitatis,Christmas Shearwater,eatenBy
+85777,4461,Sterna acuticauda,Black-bellied Tern,eatenBy
+85777,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+85777,144534,Sternula saundersi,Saunders's Tern,eatenBy
+85777,4144,Phoebastria immutabilis,Laysan Albatross,eatenBy
+85777,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+85777,201450,Puffinus lherminieri,Audubon's Shearwater,eatenBy
+85777,4428,Sterna aurantia,River Tern,eatenBy
+85777,144527,Onychoprion anaethetus,Bridled Tern,eatenBy
+85777,979929,Puffinus assimilis,Little Shearwater,eatenBy
+85777,4636,Fregata minor,Great Frigatebird,eatenBy
+85777,4113,Puffinus heinrothi,Heinroth's Shearwater,eatenBy
+85777,4108,Puffinus huttoni,Hutton's Shearwater,eatenBy
+85777,3788,Sula dactylatra,Masked Booby,eatenBy
+85777,4566,Gygis alba,White Tern,eatenBy
+85777,144529,Sternula albifrons,Little Tern,eatenBy
+85777,4141,Phoebastria nigripes,Black-footed Albatross,eatenBy
+85777,4317,Phaethon aethereus,Red-billed Tropicbird,eatenBy
+85777,,Procelsterna albivitta,,eatenBy
+85777,,Papasula abbotti,,eatenBy
+85777,144543,Thalasseus bengalensis,Lesser Crested Tern,eatenBy
+85777,144532,Sternula nereis,Fairy Tern,eatenBy
+85777,4629,Fregata,Frigatebirds,eatenBy
+85777,4534,Anous,Noddies,eatenBy
+85777,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+85777,,Puffinus carneipes,,eatenBy
+85777,4143,Phoebastria irrorata,Waved Albatross,eatenBy
+85777,4537,Anous minutus,Black Noddy,eatenBy
+85777,4425,Sterna trudeaui,Snowy-crowned Tern,eatenBy
+85777,144221,Melanitta nigra,Common Scoter,eatenBy
+85777,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+85777,,Procelsterna cerulea,,eatenBy
+85777,,Sternula lorata,,eatenBy
+85777,4478,Sterna striata,White-fronted Tern,eatenBy
+85777,4134,Bulweria bulwerii,Bulwer's Petrel,eatenBy
+85777,144538,Chlidonias albostriatus,Black-fronted Tern,eatenBy
+85777,4635,Fregata andrewsi,Christmas Island Frigatebird,eatenBy
+85777,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eatenBy
+85777,4048,Pterodroma ultima,Murphy's Petrel,eatenBy
+85777,4046,Pterodroma neglecta,Kermadec Petrel,eatenBy
+85777,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+85777,529915,Thyrsitoides marleyi,Black Snoek,eatenBy
+85777,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+85777,445768,Chondrostoma cyri,,eatenBy
+85777,622041,Nomorhamphus liemi,Southern Harlequin Halfbeak,eatenBy
+85777,136618,Istiophorus albicans,Atlantic Sailfish,eatenBy
+85777,115167,Xiphias gladius,Swordfish,eatenBy
+85777,187571,Kajikia albida,Atlantic White Marlin,eatenBy
+85777,187569,Istiompax indica,Black Marlin,eatenBy
+85777,47263,Sphyraena,Barracudas,eatenBy
+85777,611540,Hypselecara coryphaenoides,Rio Negro Chocolate Cichlid,eatenBy
+85777,93696,Alopias vulpinus,Thresher Shark,eatenBy
+85777,119719,Istiophorus platypterus,Indo-Pacific Sailfish,eatenBy
+85777,147455,Makaira nigricans,Blue Marlin,eatenBy
+85777,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+85777,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+85777,49637,Epinephelus morio,Red Grouper,eatenBy
+85777,103161,Hyporthodus nigritus,Warsaw Grouper,eatenBy
+85777,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+85777,4044,Pterodroma hypoleuca,Bonin Petrel,eatenBy
+85777,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+85777,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+85777,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+85777,4464,Sterna repressa,White-cheeked Tern,eatenBy
+85777,120615,Euthynnus affinis,Mackerel Tuna,eatenBy
+85777,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+85777,4436,Sterna dougallii,Roseate Tern,eatenBy
+85777,195355,Hyperiidae,,preysOn
+85777,121643,Copepoda,Copepods,preysOn
+85777,153112,Euphausiacea,krill,preysOn
+85777,47459,Cephalopoda,Cephalopods,preyedUponBy
+85777,3797,Sula leucogaster,Brown Booby,preyedUponBy
+85777,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy
+85777,529915,Thyrsitoides marleyi,Black Snoek,preyedUponBy

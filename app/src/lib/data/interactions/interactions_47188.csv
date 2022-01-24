@@ -1,0 +1,166 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47188,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+47188,47188,Pachygrapsus crassipes,Striped Shore Crab,eats
+47188,50863,Chlorophyta,green algae,eats
+47188,,Typosyllis adamanteus,,eats
+47188,691906,Syllis vittata,,eats
+47188,,Detritus,,eats
+47188,3941,Arenaria melanocephala,Black Turnstone,eatenBy
+47188,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47188,3901,Numenius phaeopus,Whimbrel,eatenBy
+47188,4626,Gavia immer,Common Loon,eatenBy
+47188,47188,Pachygrapsus crassipes,Striped Shore Crab,eatenBy
+47188,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eatenBy
+47188,144491,Tringa semipalmata,Willet,eatenBy
+47188,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+47188,54509,Octopus bimaculoides,Lesser Two-spot Octopus,eatenBy
+47188,450669,Phyteuma nigrum,Black Rampion,eatenBy
+47188,52297,Triakis semifasciata,Leopard Shark,eatenBy
+47188,4937,Egretta caerulea,Little Blue Heron,eatenBy
+47188,4364,Larus delawarensis,Ring-billed Gull,eatenBy
+47188,,Tringa semipalmatus,,eatenBy
+47188,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+47188,333586,Oligochaeta,Earthworms and allies,preysOn
+47188,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+47188,54960,Nematoda,Nematodes,preysOn
+47188,47490,Polychaeta,Polychaete Worms,preysOn
+47188,84988,Pyramidellidae,Pyramid Snails,preysOn
+47188,47533,Anthozoa,Sea Anemones and Corals,preysOn
+47188,84670,Ephydridae,Shore Flies,preysOn
+47188,47822,Diptera,Flies,preysOn
+47188,47584,Bivalvia,Bivalves,preysOn
+47188,47126,Plantae,plants,preysOn
+47188,49809,Bulla,,preysOn
+47188,47114,Gastropoda,Gastropods,preysOn
+47188,47951,Staphylinidae,Rove Beetles,preysOn
+47188,,Parvatrema,,preysOn
+47188,339177,Microphallidae,,preysOn
+47188,,Hypereteone lighti,,preysOn
+47188,,Detritus,,preysOn
+47188,,Parorchis acanthus,,preysOn
+47188,,Stictodora hancocki,,preysOn
+47188,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+47188,,Cloacitrema michiganense,,preysOn
+47188,339182,Phocitremoides ovale,,preysOn
+47188,339199,Catatropis johnstoni,,preysOn
+47188,,Picornaviridae,,preysOn
+47188,,Cerithidea californica,,preysOn
+47188,,Ephydra,,preysOn
+47188,,Carcinonemertes,,preysOn
+47188,71256,Tagelus,,preysOn
+47188,208368,Capitella capitata,,preysOn
+47188,,Tetraphyllidea,,preysOn
+47188,,Hysterolecitha,,preysOn
+47188,339249,Acanthoparyphium,,preysOn
+47188,,Protothaca,,preysOn
+47188,,Uca crenulata,,preysOn
+47188,,Pygidiopsoides spindalis,,preysOn
+47188,48051,Phoronida,Horseshoe Worms,preysOn
+47188,,epipellic flora,,preysOn
+47188,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+47188,339176,Renicola buchanani,,preysOn
+47188,,Portunion conformis,,preysOn
+47188,,Sumergent vascular,,preysOn
+47188,339174,Cyathocotylidae,,preysOn
+47188,,Macroalgae,,preysOn
+47188,,Renicola cerithidicola,,preysOn
+47188,,Cryptomya,,preysOn
+47188,,Mesostephanus appendiculatoides,,preysOn
+47188,,Probolocoryphe uca,,preysOn
+47188,,Eugregarinida,,preysOn
+47188,,Acteocina inculta,,preysOn
+47188,339183,Euhaplorchis californiensis,,preysOn
+47188,339200,Himasthla rhigedana,,preysOn
+47188,,Large xiphideocercaria,,preysOn
+47188,339172,Austrobilharzia,,preysOn
+47188,339245,Himasthla,,preysOn
+47188,123639,Spionidae,,preysOn
+47188,,carrion,,preysOn
+47188,,Anisogammarus confervicolus,,preysOn
+47188,,Melampus,,preysOn
+47188,88477,Geonemertes,Greenhouse Proboscis-worms,preysOn
+47188,479426,Chionista fluctifraga,Smooth Venus,preysOn
+47188,51280,Nemertea,Ribbon Worms,preysOn
+47188,,Melampus olivaceus,,preysOn
+47188,,Carinoma mutabilis,,preysOn
+47188,508883,Tagelus subteres,Lesser Tagelus,preysOn
+47188,328416,Tagelus affinis,Neighbor Tagelus,preysOn
+47188,,Protothaca staminea,,preysOn
+47188,570459,Neanthes arenaceodentata,,preysOn
+47188,52614,Zostera marina,Eelgrass,preysOn
+47188,81608,Geukensia demissa,Atlantic Ribbed Mussel,preysOn
+47188,,Salicornia biglovii,,preysOn
+47188,,Macoma secta,,preysOn
+47188,117622,Nuttallia nuttallii,Purple Clam,preysOn
+47188,,Gammaridea,,preysOn
+47188,209136,Paracerceis,,preysOn
+47188,81789,Neanthes,,preysOn
+47188,,Salicornia europaea,,preysOn
+47188,,Ctenodrilidae,,preysOn
+47188,117608,Saxidomus nuttalli,California Butterclam,preysOn
+47188,339152,Cryptomya californica,California Softshell,preysOn
+47188,,Bittium quadrifilatum,,preysOn
+47188,,Arthrocnemum subterminale,,preysOn
+47188,47488,Cirratulidae,,preysOn
+47188,144115,Cumacea,Hooded Shrimp,preysOn
+47188,,Haminoea vesicula,,preysOn
+47188,,Nassarius tiarula,,preysOn
+47188,179828,Laevicardium substriatum,Pacific Eggcockle,preysOn
+47188,209018,Polydora,Shell-boring Spionids,preysOn
+47188,,Opisthobranchia,,preysOn
+47188,,Polydora nuchalis,,preysOn
+47188,337291,Cirriformia spirabrancha,,preysOn
+47188,,Nebalia,,preysOn
+47188,208366,Orbiniidae,,preysOn
+47188,328432,Chione californiensis,California Venus,preysOn
+47188,195030,Hesionidae,,preysOn
+47188,345489,Naineris,,preysOn
+47188,,green gammaridean,,preysOn
+47188,,Epipellic flora,,preysOn
+47188,144491,Tringa semipalmata,Willet,preyedUponBy
+47188,3954,Limosa fedoa,Marbled Godwit,preyedUponBy
+47188,4246,Podilymbus podiceps,Pied-billed Grebe,preyedUponBy
+47188,3906,Numenius americanus,Long-billed Curlew,preyedUponBy
+47188,4385,Larus californicus,California Gull,preyedUponBy
+47188,41663,Procyon lotor,Common Raccoon,preyedUponBy
+47188,4345,Larus occidentalis,Western Gull,preyedUponBy
+47188,6993,Bucephala albeola,Bufflehead,preyedUponBy
+47188,4981,Nycticorax nycticorax,Black-crowned Night-Heron,preyedUponBy
+47188,4940,Egretta thula,Snowy Egret,preyedUponBy
+47188,3901,Numenius phaeopus,Whimbrel,preyedUponBy
+47188,3941,Arenaria melanocephala,Black Turnstone,preyedUponBy
+47188,8021,Corvus brachyrhynchos,American Crow,preyedUponBy
+47188,144502,Chroicocephalus philadelphia,Bonaparte's Gull,preyedUponBy
+47188,101455,Gillichthys mirabilis,Longjaw Mudsucker,preyedUponBy
+47188,216887,Chrysops striatus,Striated Deer Fly,preyedUponBy
+47188,52297,Triakis semifasciata,Leopard Shark,preyedUponBy
+47188,,Urolophus halleri,,preyedUponBy
+47188,,Numenius phaeopus hudsonicus,,preyedUponBy
+47188,367714,Rallus longirostris,Mangrove Rail,preyedUponBy
+47188,4364,Larus delawarensis,Ring-billed Gull,preyedUponBy
+47188,471767,Larus canus brachyrhynchus,Short-billed Gull,preyedUponBy
+47188,7036,Melanitta perspicillata,Surf Scoter,preyedUponBy
+47188,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preyedUponBy
+47188,108561,Paralichthys californicus,California Halibut,preyedUponBy
+47188,,Platyrhinoidis triseriata,,preyedUponBy
+47188,82326,Hypsopsetta guttulata,Diamond turbot,preyedUponBy
+47188,51491,Myliobatis californica,Bat Ray,preyedUponBy
+47188,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+47188,,Paralabrax maculofasciatus,,preyedUponBy
+47188,106261,Mustelus lunulatus,Sicklefin Smooth-hound,preyedUponBy
+47188,,Rhinobatos productus,,preyedUponBy
+47188,106254,Mustelus californicus,Gray Smooth-hound,preyedUponBy
+47188,117563,Acanthogobius flavimanus,Yellowfin Goby,preyedUponBy
+47188,4948,Egretta rufescens,Reddish Egret,preyedUponBy
+47188,5017,Bubulcus ibis,Cattle Egret,preyedUponBy
+47188,4356,Larus canus,Mew Gull,preyedUponBy
+47188,,Rallus longirostrus,,preyedUponBy
+47188,,Athya marila,,preyedUponBy
+47188,5034,Botaurus lentiginosus,American Bittern,preyedUponBy
+47188,4937,Egretta caerulea,Little Blue Heron,preyedUponBy
+47188,71234,Porichthys myriaster,Specklefin Midshipman,preyedUponBy
+47188,4205,Podiceps nigricollis,Eared Grebe,preyedUponBy
+47188,,Catoptrophorus semipalmatus,,preyedUponBy
+47188,4938,Egretta tricolor,Tricolored Heron,preyedUponBy
+47188,,Arenaria intepres,,preyedUponBy
+47188,162,Porzana carolina,Sora,preyedUponBy

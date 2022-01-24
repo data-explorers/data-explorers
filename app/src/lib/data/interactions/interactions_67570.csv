@@ -1,0 +1,62 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67570,3,Aves,Birds,eats
+67570,39532,Testudines,Turtles and Tortoises,eats
+67570,41777,Lontra canadensis,North American River Otter,eats
+67570,5020,Butorides virescens,Green Heron,eats
+67570,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+67570,8010,Corvus corax,Common Raven,eats
+67570,26036,Reptilia,Reptiles,eats
+67570,72458,Actitis macularius,Spotted Sandpiper,eats
+67570,11901,Hirundo rustica,Barn Swallow,eats
+67570,44576,Rattus norvegicus,Brown Rat,eats
+67570,44311,Microtus pennsylvanicus,Meadow Vole,eats
+67570,14886,Mimus polyglottos,Northern Mockingbird,eats
+67570,,Gulf flounder and needlefish,,eats
+67570,,Sheepshead minnow,,eats
+67570,,Catfish and stingrays,,eats
+67570,128750,Sciaenops ocellatus,Red Drum,eats
+67570,,Esox,,eats
+67570,,Natalus lepidus,,eats
+67570,,Arctocebus calabarensis,,eats
+67570,,Microcavia australis,,eats
+67570,1167,Crossoptilon mantchuricum,Brown Eared-Pheasant,eats
+67570,,Diaemus youngi,,eats
+67570,3168,Gallicolumba luzonica,Luzon Bleeding-heart,eats
+67570,,Ratufa indica,,eats
+67570,,Clethrionomys californicus,,eats
+67570,43683,Callicebus personatus,Northern Masked Titi,eats
+67570,,Elephantulus rufescens,,eats
+67570,,Neotragus moschatus,,eats
+67570,,Peromyscus polionotus,,eats
+67570,,Macaca sylvanus,,eats
+67570,,Bunolagus monticularis,,eats
+67570,51367,Esox niger,Chain Pickerel,eats
+67570,,Solenodon cubanus,,eats
+67570,,Lasiurus seminolus,,eats
+67570,41813,Mustela sibirica,Siberian Weasel,eats
+67570,,Eudocimus ruber,,eats
+67570,,Hylobates klossii,,eats
+67570,,Eulemur rubriventer,,eats
+67570,,Miopithecus talapoin,,eats
+67570,,Spermophilus tridecemlineatus,,eats
+67570,,Lepus capensis,,eats
+67570,44653,Tatera indica,Indian Gerbil,eats
+67570,,Tamias quadrivittatus,,eats
+67570,,Nasua nasua,,eats
+67570,925950,Conepatus chinga,Molina's Hog-nosed Skunk,eats
+67570,44598,Akodon cursor,Cursor Grass Mouse,eats
+67570,46407,Sorex dispar,Gray Long-tailed Shrew,eats
+67570,,Tamias alpinus,,eats
+67570,,Peromyscus truei,,eats
+67570,,Paraechinus aethiopicus,,eats
+67570,,Megaderma lyra,,eats
+67570,,Leontopithecus chrysopygus,,eats
+67570,,Saguinus nigricollis,,eats
+67570,,Raphicerus sharpei,,eats
+67570,,Mazama gouazoupira,,eats
+67570,326296,Bufo bufo,European Toad,preysOn
+67570,40870,Pteropus,Flying Foxes,preysOn
+67570,,Flounder and needlefish,,preysOn
+67570,,Catfish and stingrays,,preysOn
+67570,,Sheepshead minnow,,preysOn
+67570,128750,Sciaenops ocellatus,Red Drum,preysOn

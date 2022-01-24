@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48009,,Algae,,eats
+48009,,Detritus,,eats
+48009,101053,Fundulus diaphanus,banded killifish,eatenBy
+48009,47518,Salmo trutta,Brown Trout,eatenBy
+48009,,Culaea inconstans,,eatenBy
+48009,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+48009,,Cottus bairdii,,eatenBy
+48009,82782,Serranochromis robustus,Yellow-belly Bream,eatenBy
+48009,,Opsaridium microcephalum,,eatenBy
+48009,,Zygopteridae,,eatenBy
+48009,109574,Placidochromis johnstoni,,eatenBy
+48009,99297,Dimidiochromis dimidiatus,Ncheni Type Haplo,eatenBy
+48009,,Synodontis dorsomaculatus,,eatenBy
+48009,,Brycinus imberi,,eatenBy
+48009,,Barbus,,eatenBy
+48009,,Haplocrhomis mola,,eatenBy
+48009,,Cottus pollux,,eatenBy
+48009,,Maroco jouyi,,eatenBy
+48009,472679,Liobagrus reinii,,eatenBy
+48009,,Rhinogobius flumineus,,eatenBy
+48009,,Oncorhynchus rhodurus,,eatenBy
+48009,,Cobitis biwae,,eatenBy
+48009,,Zygopterid larvae,,eatenBy
+48009,371594,Iheringichthys labrosus,,eatenBy
+48009,,Crenicichla britskii,,eatenBy
+48009,610335,Bryconamericus stramineus,,eatenBy
+48009,,Astyanax rivularis,,eatenBy
+48009,,Characidium zebra,,eatenBy
+48009,,Characidium fasciatum,,eatenBy
+48009,,Imparfinis minutus,,eatenBy
+48009,,Cetopsorhamdia iheringi,,eatenBy
+48009,,Australoheros facetus,,eatenBy
+48009,,Hucho hucho,,eatenBy
+48009,58653,Noturus flavus,Stonecat,eatenBy
+48009,,Agonostomus monticola,,eatenBy
+48009,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+48009,,Lepomis auritus,,eatenBy
+48009,,Micropterus dolomieu,,eatenBy
+48009,,Cyprinella spiloptera,,eatenBy
+48009,107271,Notropis volucellus,Mimic shiner,eatenBy
+48009,49614,Lepomis gibbosus,Pumpkinseed,eatenBy
+48009,609411,Brycon dentex,,eatenBy
+48009,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+48009,109574,Placidochromis johnstoni,,preyedUponBy
+48009,82782,Serranochromis robustus,Yellow-belly Bream,preyedUponBy
+48009,,Barbus,,preyedUponBy
+48009,,Attulus relictarius,,preyedUponBy
+48009,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy

@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49347,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+49347,52775,Bombus,Bumble Bees,eatenBy
+49347,308726,Anthophora californica,California Digger Bee,eatenBy
+49347,57688,Xylocopa californica,Western Carpenter,eatenBy
+49347,6317,Calypte anna,Anna's Hummingbird,eatenBy
+49347,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+49347,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+49347,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+49347,48548,Vanessa cardui,Painted Lady,eatenBy
+49347,47219,Apis mellifera,Western Honey Bee,eatenBy
+49347,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+49347,980722,Scaeva affinis,White-bowed Smoothwing,eatenBy
+49347,53072,Bembix americana,American Sand Wasp,eatenBy
+49347,50931,Strymon melinus,Gray Hairstreak,eatenBy
+49347,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+49347,127812,Hylaeus,Masked Bees,eatenBy
+49347,124420,Bombus californicus,California Bumble Bee,eatenBy
+49347,46020,Sciurus niger,Fox Squirrel,eatenBy
+49347,205201,Ethmia zelleriella,Zeller's Ethmia Moth,eatenBy
+49347,,Ethmia macelhosiella,,eatenBy
+49347,,Sparganothis senecionana,,eatenBy
+49347,,Eucosma hasseanthi,,eatenBy
+49347,,Areniscythris brachypteris,,eatenBy
+49347,,Eucosma hennei,,eatenBy
+49347,,Ethmia semilugens,,eatenBy
+49347,478723,Ethmia coquillettella,,eatenBy
+49347,,Ethmia nadia,,eatenBy
+49347,,Ethmia timberlakei,,eatenBy
+49347,,Ethmia albistrigella,,eatenBy
+49347,,Pseudomasaris phaceliae,,eatenBy
+49347,,Andrena auricoma,,eatenBy
+49347,62453,Anthidium manicatum,European Woolcarder Bee,eatenBy
+49347,,Pseudomasaris marginalis,,eatenBy
+49347,210423,Callophrys viridis,Coastal Green Hairstreak,eatenBy
+49347,,Protosmia rubifloris,,eatenBy
+49347,334616,Battus philenor hirsuta,California Pipevine Swallowtail,eatenBy
+49347,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+49347,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+49347,,Icaricia icarioides missionensis,,eatenBy
+49347,361466,Colletes consors pascoensis,Pasco Cellophane Bee,eatenBy
+49347,,Habropoda depressa,,eatenBy
+49347,,Pseudomasaris edwardsii,,eatenBy
+49347,,Pseudomasaris coquilletti,,eatenBy
+49347,,Bombus caliginosus,,eatenBy
+49347,,Eupeodes volucris,,eatenBy
+49347,,Anthophora edwardsii,,eatenBy
+49347,,Hoplinus echinatus,,eatenBy
+49347,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+49347,,Chelostoma,,pollinatedBy
+49347,,Hoplitis,,pollinatedBy
+49347,,Andrena lamelliterga,,pollinatedBy
+49347,,Andrena phaceliae,,pollinatedBy
+49347,,Chelostoma incisulum,,pollinatedBy

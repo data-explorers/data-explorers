@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43711,,Bactris,,eats
+43711,,Astrocaryum aculeatissimum,,eats
+43711,42007,Puma concolor,Mountain Lion,eatenBy
+43711,42089,Speothos venaticus,Bush Dog,eatenBy
+43711,41970,Panthera onca,Jaguar,eatenBy
+43711,41997,Leopardus pardalis,Ocelot,eatenBy
+43711,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+43711,73840,Lachesis muta,South American Bushmaster,preyedUponBy

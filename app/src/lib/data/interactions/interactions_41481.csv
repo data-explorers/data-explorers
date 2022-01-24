@@ -1,0 +1,63 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41481,121187,Sepioteuthis lessoniana,Bigfin Reef Squid,eats
+41481,47315,Gymnothorax,Common Morays,eats
+41481,47459,Cephalopoda,Cephalopods,eats
+41481,47178,Actinopterygii,Ray-finned Fishes,eats
+41481,49418,Carangoides,,eats
+41481,,Centropyge multispinis,,eats
+41481,196571,Saurida gracilis,Slender Lizardfish,eats
+41481,,Gnathostomata,,eats
+41481,,Cypraea spadicea,,eats
+41481,194669,Muraenesox bagio,Common Pike-conger,eats
+41481,,Cephalopholis sonnerati,,eats
+41481,,Brotula,,eats
+41481,529915,Thyrsitoides marleyi,Black Snoek,eats
+41481,92744,Uroconger,,eats
+41481,,Taaningichthys bathyphilus,,eats
+41481,,Synaphobranchus kaupii,,eats
+41481,,Citharoides,,eats
+41481,87796,Cynoglossus,,eats
+41481,,Uroteuthis duvauceli,,eats
+41481,,Uropterygius,,eats
+41481,,Chrysoblephus puniceus,,eats
+41481,,Diaphus lucidus,,eats
+41481,,Pristipomoides,,eats
+41481,,Leiognathus equulus,,eats
+41481,84529,Alepes djedaba,Shrimp scad,eats
+41481,,Rechias wallacei,,eats
+41481,,Dactyloptena peterseni,,eats
+41481,,Pomacentrus trichourus,,eats
+41481,,Istigobius decoratus,,eats
+41481,,Polyipnus indicus,,eats
+41481,121225,Decapterus macarellus,Mackerel Scad,eats
+41481,86951,Benthodesmus,,eats
+41481,,Cociella crocodilus,,eats
+41481,121459,Lutjanus fulvus,Blacktail Snapper,eats
+41481,,Glossanodon,,eats
+41481,425324,Ostorhinchus angustatus,Broadstripe Cardinalfish,eats
+41481,,Sepia latimanus,,eats
+41481,,Lethrinus crocineus,,eats
+41481,,Pomadasys stridens,,eats
+41481,,Parascorpaena,,eats
+41481,,Lutjanus lutjanus,,eats
+41481,,Centopyge multispinis,,eats
+41481,,Sargocentron,,eats
+41481,55543,Sardinops,Sardines,eats
+41481,,Ostorhinchus apogonoides,,eats
+41481,120963,Conger cinereus,Mustache Conger,eats
+41481,49499,Aluterus,,eats
+41481,120613,Chlorophthalmus punctatus,,eats
+41481,,Parapercis robinsoni,,eats
+41481,,Ophichthus apicalis,,eats
+41481,,Brachysomophis crocodilinus,,eats
+41481,122914,Pristipomoides filamentosus,Rosy Snapper,eats
+41481,,Benthosema fibulatum,,eats
+41481,292943,Clio pyramidata,,eats
+41481,,Bathycongrus wallacei,,eats
+41481,,Ostorhinchus aureus,,eats
+41481,90190,Nemipterus,Threadfin Breams,eats
+41481,,Pomacentrus trichrourus,,eats
+41481,64098,Gerres,Silverbiddies,eats
+41481,459366,Diaphus perspicillatus,Flatface Lanternfish,eats
+41481,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+41481,52299,Galeocerdo cuvier,Tiger Shark,preyedUponBy

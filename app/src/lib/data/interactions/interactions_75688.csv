@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+75688,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+75688,58532,Colias eurytheme,Orange Sulphur,eatenBy
+75688,209721,Colias alexandra,Queen Alexandra’s Sulphur,eatenBy
+75688,,Colias christina,,eatenBy
+75688,199292,Colias harfordii,Harford's Sulphur,eatenBy
+75688,,Acyrthosiphon pisum,,eatenBy
+75688,,Glaucopsyche lygdamus palosverdesensis,,eatenBy
+75688,,Cupido amyntula,,eatenBy
+75688,47157,Lepidoptera,Butterflies and Moths,pollinatedBy

@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+630955,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+630955,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+630955,13858,Passer domesticus,House Sparrow,eatenBy
+630955,47817,Libellula saturata,Flame Skimmer,eatenBy
+630955,59281,Thomisus onustus,Pink Crab Spider,eatenBy
+630955,245656,Synema globosum,Napoleon Spider,eatenBy
+630955,,Anolis carolinensis,,eatenBy
+630955,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+630955,,Laphria thoracica,,eatenBy
+630955,,Sylvia communis,,eatenBy
+630955,,Misumenoides formosipes,,eatenBy
+630955,2191,Merops apiaster,European Bee-eater,eatenBy
+630955,,Arigomphus pallidus,,eatenBy
+630955,,Merops pusillus,,eatenBy
+630955,121517,Bombus terricola,Yellow-banded Bumble Bee,pollinates
+630955,,Pilosella arguta,,pollinates
+630955,78836,Ratibida columnifera,upright prairie coneflower,pollinates
+630955,59281,Thomisus onustus,Pink Crab Spider,pollinates
+630955,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+630955,82028,Pselliopus spinicollis,,preyedUponBy
+630955,83845,Oxyopes,,preyedUponBy
+630955,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,preyedUponBy
+630955,129424,Zelus,,preyedUponBy
+630955,61355,Vespula pensylvanica,Western Yellowjacket,preyedUponBy
+630955,129423,Zelus luridus,Pale Green Assassin Bug,preyedUponBy
+630955,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+630955,366894,Steatoda nobilis,Noble False Widow,preyedUponBy
+630955,244378,Mallophora fautrix,,preyedUponBy
+630955,17009,Sayornis saya,Say's Phoebe,preyedUponBy
+630955,16779,Tyrannus vociferans,Cassin's Kingbird,preyedUponBy
+630955,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+630955,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+630955,119994,Vespula maculifrons,Eastern Yellowjacket,preyedUponBy
+630955,103497,Ischnura perparva,Western Forktail,preyedUponBy
+630955,,Promachus rufipes,,preyedUponBy
+630955,,Cerceris rybyensis,,preyedUponBy
+630955,202003,Apiomerus spissipes,,preyedUponBy
+630955,,Laphria thoracica,,preyedUponBy
+630955,271316,Zelus cervicalis,,preyedUponBy
+630955,135239,Dioctria hyalipennis,Stripe-legged Robberfly,preyedUponBy
+630955,198838,Diogmites basalis,,preyedUponBy
+630955,54327,Vespa crabro,European Hornet,preyedUponBy
+630955,127777,Vespula vulgaris,Common European Yellowjacket,preyedUponBy
+630955,71034,Tenodera sinensis,Chinese Mantis,preyedUponBy
+630955,48957,Arilus cristatus,Wheel Bug,preyedUponBy
+630955,245656,Synema globosum,Napoleon Spider,preyedUponBy
+630955,58421,Phidippus johnsoni,Johnson's Jumping Spider,preyedUponBy
+630955,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+630955,153537,Phidippus insignarius,,preyedUponBy
+630955,,Promachus hinei,,preyedUponBy
+630955,,Philanthus ventilabris,,preyedUponBy

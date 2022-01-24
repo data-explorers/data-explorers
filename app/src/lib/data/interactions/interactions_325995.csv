@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+325995,51508,Ctenophora,Comb Jellies,eats
+325995,1,Animalia,Animals,eats
+325995,85493,Crustacea,Crustaceans,eats
+325995,130235,Aurelia labiata,Greater Moon Jelly,eats
+325995,,Medusozoa,,eats
+325995,,unspecified ephyrae,,eats
+325995,180032,Hippoglossoides elassodon,Flathead Sole,eats
+325995,,Pisces,,eats
+325995,83170,Platichthys stellatus,Starry Flounder,eats
+325995,117545,Parophrys vetulus,English sole,eats
+325995,67991,Psettichthys melanostictus,Sand Sole,eats
+325995,117571,Clupea pallasii,Pacific herring,eats
+325995,496460,Stigmatomyces,,eats
+325995,107572,Oncorhynchus keta,Chum Salmon,eatenBy
+325995,348053,Eutonina indicans,Umbrella Jelly,preysOn

@@ -1,0 +1,143 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61524,55215,Aphis,,eats
+61524,55745,Trifolium repens,white clover,eats
+61524,75931,Calendula officinalis,pot marigold,eats
+61524,49664,Platanus,planes,eats
+61524,76610,Daucus carota,wild carrot,eats
+61524,,Acyrthosiphon,,eats
+61524,,Leucoptera spartifoliella,,eats
+61524,,Arytaina genistae,,eats
+61524,,Gonioctena olivacea,,eats
+61524,,Arytainilla spartiophila,,eats
+61524,,litter,,eats
+61524,,bovine or equine dung,,eats
+61524,,Pelargonium zonale,,eats
+61524,48538,Cytisus scoparius,Scots broom,eats
+61524,51147,Crataegus monogyna,common hawthorn,eats
+61524,81938,Alstroemeria,Peruvian lilies,eats
+61524,,Pinus sylvestris,,eats
+61524,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+61524,14850,Sturnus vulgaris,European Starling,eatenBy
+61524,211210,Holocnemus pluchei,Marbled Cellar Spider,eatenBy
+61524,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+61524,47518,Salmo trutta,Brown Trout,eatenBy
+61524,114127,Thymallus thymallus,Grayling,eatenBy
+61524,,Badumna insignis,,eatenBy
+61524,,Arma custos,,eatenBy
+61524,5017,Bubulcus ibis,Cattle Egret,eatenBy
+61524,47170,Fungi,Fungi Including Lichens,preysOn
+61524,48292,Philoscia muscorum,Common Striped Woodlouse,preysOn
+61524,231080,Sitona hispidulus,Clover Weevil,preysOn
+61524,55215,Aphis,,preysOn
+61524,,Philonthus concinnus,,preysOn
+61524,430052,Piezodorus lituratus,Gorse Shield Bug,preysOn
+61524,,Lathrobium pallidum,,preysOn
+61524,,Carpelimus punctatellus,,preysOn
+61524,,Margarinotus ventralis,,preysOn
+61524,,Drymus ryei,,preysOn
+61524,,Bembidion properans,,preysOn
+61524,,Lepidoniscus,,preysOn
+61524,,Ptomaphagus sericatus medius,,preysOn
+61524,,Atheta crassicornis,,preysOn
+61524,,Hyloniscus riparius,,preysOn
+61524,,Nabis brevis,,preysOn
+61524,131102,Harpalus tardus,,preysOn
+61524,,Peritrechus nubilus,,preysOn
+61524,504708,Ophonus laticollis,,preysOn
+61524,,Harpalus rubripes,,preysOn
+61524,,Lamprobyrrhulus nitidus,,preysOn
+61524,,Exomias pellucidus,,preysOn
+61524,131819,Loricera pilicornis,,preysOn
+61524,,Ophonus schaubergerianus,,preysOn
+61524,547891,Asaphidion pallipes,,preysOn
+61524,,Cantharis lateralis,,preysOn
+61524,,Amara communis,,preysOn
+61524,,Pterostichus minor,,preysOn
+61524,,Phyllotreta nigripes,,preysOn
+61524,130649,Bembidion obtusum,,preysOn
+61524,311242,Liophloeus tessulatus,,preysOn
+61524,226714,Otiorhynchus ligustici,,preysOn
+61524,,Aleochara curtula,,preysOn
+61524,,Nabis pseudoferus,,preysOn
+61524,,Catoplatus fabricii,,preysOn
+61524,,Helophorus nubilus,,preysOn
+61524,,Charagochilus gyllenhallii,,preysOn
+61524,,Dermestes laniarius,,preysOn
+61524,,Trechus quadristriatus,,preysOn
+61524,,Byrrhus pilula,,preysOn
+61524,,Leistus ferrugineus,,preysOn
+61524,,Megalonotus chiragra,,preysOn
+61524,,Anotylus sculpturatus,,preysOn
+61524,,Dictyonota tricornis,,preysOn
+61524,,Nabis ferus,,preysOn
+61524,,Stomis pumicatus,,preysOn
+61524,,Amara montivaga,,preysOn
+61524,,Podops inuncta,,preysOn
+61524,130638,Bembidion lampros,,preysOn
+61524,,Amara sinuosa,,preysOn
+61524,,Anaptus major,,preysOn
+61524,550416,Stygnocoris rusticus,,preysOn
+61524,,Poecilus versicolor,,preysOn
+61524,130582,Anotylus tetracarinatus,,preysOn
+61524,504180,Microlestes minutulus,,preysOn
+61524,,Pterostichus vernalis,,preysOn
+61524,131827,Microlestes maurus,,preysOn
+61524,,Amara lunicollis,,preysOn
+61524,213121,Amara bifrons,,preysOn
+61524,883619,Acalypta carinata,,preysOn
+61524,,Drymus sylvaticus,,preysOn
+61524,,Anotylus rugosus,,preysOn
+61524,546002,Phyllobius roboretanus,,preysOn
+61524,,Metopoplax origani,,preysOn
+61524,772113,Mordellistena parvula,,preysOn
+61524,,Propylaea quatuordecimpunctata,,preysOn
+61524,,Harpalus distinguendus,,preysOn
+61524,,Aloconota gregaria,,preysOn
+61524,,Atheta palustris,,preysOn
+61524,,Rgonycha fulva,,preysOn
+61524,,Atheta elongatula,,preysOn
+61524,,Margarinotus purpurascens,,preysOn
+61524,,Ophonus puncticeps,,preysOn
+61524,,Glischrochilus quadrisignatus,,preysOn
+61524,,Phyllobius viridicollis,,preysOn
+61524,268273,Brachinus explodens,,preysOn
+61524,,Atheta fungicola,,preysOn
+61524,,Sitona macularius,,preysOn
+61524,,Bembidion quadrimaculatum,,preysOn
+61524,,Anchomenus dorsalis,,preysOn
+61524,547856,Synuchus vivalis,,preysOn
+61524,469720,Scolopostethus affinis,,preysOn
+61524,,Anisodactylus binotatus,,preysOn
+61524,,Syntomus truncatellus,,preysOn
+61524,,Asaphidion flavipes,,preysOn
+61524,,Amara quenseli,,preysOn
+61524,212779,Agonum muelleri,,preysOn
+61524,,Peritrechus geniculatus,,preysOn
+61524,,Rhyparochromus pini,,preysOn
+61524,,Nabis ,,preysOn
+61524,523365,Harpalus griseus,,preysOn
+61524,542434,Megalonotus emarginatus,,preysOn
+61524,,Phyllobius betulinus,,preysOn
+61524,,Sphragisticus nebulosus,,preysOn
+61524,,Amara familiaris,,preysOn
+61524,,Rhyparochromus vulgaris,,preysOn
+61524,,Amara eurynota,,preysOn
+61524,,Amara consularis,,preysOn
+61524,,Amara similata,,preysOn
+61524,216011,Cantharis rufa,,preysOn
+61524,49552,Scutigera coleoptrata,House Centipede,preyedUponBy
+61524,7562,Troglodytes aedon,House Wren,preyedUponBy
+61524,84640,Polistes dominula,European Paper Wasp,preyedUponBy
+61524,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+61524,,Stomis pumicatus,,preyedUponBy
+61524,216086,Carabus granulatus,Granulated Ground Beetle,preyedUponBy
+61524,496641,Xysticus ulmi,Swamp Crab Spider,preyedUponBy
+61524,71061,Xysticus cristatus,,preyedUponBy
+61524,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+61524,,Pterostichus minor,,preyedUponBy
+61524,56552,Carabus nemoralis,Bronze Ground Beetle,preyedUponBy
+61524,,Pterostichus vernalis,,preyedUponBy
+61524,245656,Synema globosum,Napoleon Spider,preyedUponBy
+61524,58421,Phidippus johnsoni,Johnson's Jumping Spider,preyedUponBy
+61524,56521,Reduvius personatus,Masked Hunter,preyedUponBy
+61524,,Helpis minitabunda,,preyedUponBy

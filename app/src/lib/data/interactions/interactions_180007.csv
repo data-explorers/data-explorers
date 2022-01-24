@@ -1,0 +1,79 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+180007,60177,Atriplex semibaccata,berry saltbush,eats
+180007,53169,Oxalis pes-caprae,Bermuda buttercup,eats
+180007,47851,Quercus,oaks,eats
+180007,49011,Quercus lobata,valley oak,eats
+180007,78562,Phyllospadix torreyi,Torrey's Surfgrass,eats
+180007,47850,Quercus agrifolia,coast live oak,eats
+180007,180007,Otospermophilus beecheyi,California Ground Squirrel,eats
+180007,49320,Aizoaceae,Stone plants,eats
+180007,47688,Erodium,stork's-bills,eats
+180007,47126,Plantae,plants,eats
+180007,320573,Gambelia speciosa,Island Bush Snapdragon,eats
+180007,211194,Tracheophyta,vascular plants,eats
+180007,52697,Avena,Oats,eats
+180007,49323,Carpobrotus,sea figs,eats
+180007,57354,Schinus molle,Peruvian Pepper Tree,eats
+180007,57983,Helianthus annuus,Common Sunflower,eats
+180007,47434,Poaceae,grasses,eats
+180007,47161,Cyperaceae,sedges,eats
+180007,167465,Prunus lyonii,Hollyleaf Cherry,eats
+180007,202861,Otala lactea,Milk Snail,eats
+180007,47351,Prunus,"plums, cherries, and allies",eats
+180007,64103,Agave americana,American century plant,eats
+180007,48939,Eriogonum,wild buckwheats,eats
+180007,143799,Sambucus cerulea,blue elder,eats
+180007,58334,Nicotiana glauca,tree tobacco,eats
+180007,56955,Helianthus,sunflowers,eats
+180007,55978,Malva,Mallows,eats
+180007,47193,Cornus,dogwoods,eats
+180007,48060,Prosopis,mesquites,eats
+180007,121639,Brachyura,True Crabs,eats
+180007,47605,Asterales,"sunflowers, bellflowers, fanflowers, and allies",eats
+180007,64141,Encelia californica,California brittlebush,eats
+180007,58118,Atriplex lentiformis,big saltbush,eats
+180007,53052,Foeniculum vulgare,fennel,eats
+180007,64124,Prunus ilicifolia lyonii,Catalina Cherry,eats
+180007,47130,Ribes,currants and gooseberries,eats
+180007,52111,Baccharis,,eats
+180007,76949,Eriobotrya japonica,Loquat,eats
+180007,,Ambrosia chamissonis,,eats
+180007,,Arachis monticola,,eats
+180007,,Citrus reticulata,,eats
+180007,78856,Ribes indecorum,White-flowering Currant,eats
+180007,,Brassica oleracea italica,,eats
+180007,50333,Lantana camara,common lantana,eats
+180007,,Juniperus californica,,eats
+180007,,Epioblasma othcaloogensis,,eats
+180007,,Plumbago auriculata,,eats
+180007,,Arthroceras subterminale,,eats
+180007,,Citrullus lanatus,,eats
+180007,56960,Hemizonia congesta,Hayfield Tarweed,eats
+180007,53348,Aesculus californica,California buckeye,eats
+180007,41976,Lynx rufus,Bobcat,eatenBy
+180007,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+180007,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+180007,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+180007,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+180007,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+180007,4756,Cathartes aura,Turkey Vulture,eatenBy
+180007,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+180007,30713,Crotalus oreganus helleri,Southern Pacific Rattlesnake,eatenBy
+180007,42069,Vulpes vulpes,Red Fox,eatenBy
+180007,20044,Bubo virginianus,Great Horned Owl,eatenBy
+180007,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+180007,,Martes pennanti,,eatenBy
+180007,41798,Martes americana,American Marten,eatenBy
+180007,42070,Vulpes macrotis,Kit Fox,eatenBy
+180007,,Aquila chrysaetos,,eatenBy
+180007,4644,Falco mexicanus,Prairie Falcon,eatenBy
+180007,75244,Abronia maritima,red sand-verbena,preysOn
+180007,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+180007,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+180007,41976,Lynx rufus,Bobcat,preyedUponBy
+180007,42051,Canis latrans,Coyote,preyedUponBy
+180007,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+180007,42076,Urocyon cinereoargenteus,Gray Fox,preyedUponBy
+180007,,Aquila chrysaetos,,preyedUponBy
+180007,5181,Buteo regalis,Ferruginous Hawk,preyedUponBy
+180007,,Crotalus oreganus oreganus,,preyedUponBy

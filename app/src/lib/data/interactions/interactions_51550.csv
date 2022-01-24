@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51550,85493,Crustacea,Crustaceans,eats
+51550,1,Animalia,Animals,eats
+51550,121639,Brachyura,True Crabs,eats
+51550,47459,Cephalopoda,Cephalopods,eats
+51550,47178,Actinopterygii,Ray-finned Fishes,eats
+51550,63770,Engraulis mordax,Northern Anchovy,eats
+51550,49411,Synodus,,eats
+51550,,,,eats
+51550,,Gnathostomata,,eats
+51550,,Myleus levis,,eats
+51550,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+51550,63691,Cololabis saira,Pacific Saury,eats
+51550,,Osteichthyes,,eats
+51550,,Decabrachia,,eats
+51550,55535,Sardinops sagax,Pacific Sardine,eats
+51550,114274,Trachurus symmetricus,Pacific Jack Mackerel,eats
+51550,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+51550,48158,Percidae,"Perches, Darters, and allies",eats
+51550,41745,Arctocephalus philippii,Juan Fernández Fur Seal,eatenBy
+51550,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+51550,85293,Arripis georgianus,Australian Herring,preysOn
+51550,451275,Decapterus koheru,Koheru,preysOn

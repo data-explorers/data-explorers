@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50760,,Algae,,eats
+50760,195901,Heliaster,,eatenBy
+50760,,Purpura,,eatenBy
+50760,47299,Panulirus argus,Caribbean Spiny Lobster,eatenBy
+50760,195901,Heliaster,,preyedUponBy
+50760,,Purpura,,preyedUponBy

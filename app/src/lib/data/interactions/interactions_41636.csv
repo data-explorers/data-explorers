@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41636,42069,Vulpes vulpes,Red Fox,eats
+41636,42223,Odocoileus virginianus,White-tailed Deer,eats
+41636,42007,Puma concolor,Mountain Lion,eats
+41636,42048,Canis lupus,Gray Wolf,eatenBy
+41636,41967,Panthera tigris,Tiger,eatenBy
+41636,41641,Ursus arctos,Brown Bear,eatenBy
+41636,120614,Euthynnus alletteratus,Little Tunny,eatenBy

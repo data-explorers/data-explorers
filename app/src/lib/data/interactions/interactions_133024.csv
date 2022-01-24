@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+133024,48678,Solidago,goldenrods,eats
+133024,158221,Alstonia macrophylla,Deviltree,eats
+133024,77992,Mentha longifolia,Horse Mint,pollinates
+133024,158221,Alstonia macrophylla,Deviltree,pollinates
+133024,335872,Osyris alba,Poet's Cassia,pollinates
+133024,,Scrophularia glabrata,,pollinates
+133024,701158,Nepeta teydea,,pollinates
+133024,,Tolpis webbii,,pollinates
+133024,,Pimpinella cumbrae,,pollinates
+133024,147937,Cytisus supranubius,White-flowered Broom,pollinates

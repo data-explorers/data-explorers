@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+26718,47126,Plantae,plants,eats
+26718,47158,Insecta,Insects,eats
+26718,177460,Leuctra,,eats
+26718,,Parametriocnemus,,eats
+26718,233662,Wormaldia moesta,,eats
+26718,325537,Aeolosoma,,eats
+26718,,Soliperla,,eats
+26718,177790,Homoplectra,homoplectran caddisflies,eats
+26718,,Unidentified sp1 FW_012_01,,eats
+26718,,Unidentified sp1 FW_012_02,,eats
+26718,,Embryophyta,,eats
+26718,88985,Hydropsyche,,eats
+26718,92217,Stenelmis,,eats
+26718,,Geocorisae,,eats
+26718,,Detritus,,eats
+26718,43794,Castor canadensis,American Beaver,eatenBy
+26718,20044,Bubo virginianus,Great Horned Owl,eatenBy
+26718,12942,Sialia sialis,Eastern Bluebird,eatenBy
+26718,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+26718,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+26718,,Amblyopsis rosae,,eatenBy
+26718,19975,Athene cunicularia,Burrowing Owl,eatenBy
+26718,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+26718,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+26718,4334,Pelecanus erythrorhynchos,American White Pelican,preyedUponBy
+26718,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+26718,26575,Diadophis punctatus,ring-necked snake,preyedUponBy
+26718,144455,Ardea alba,Great Egret,preyedUponBy
+26718,19765,Megascops asio,Eastern Screech-Owl,preyedUponBy
+26718,29327,Nerodia cyclopion,Mississippi Green Watersnake,preyedUponBy
+26718,30106,Farancia abacura,Mudsnake,preyedUponBy
+26718,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+26718,27415,Desmognathus carolinensis,Carolina Mountain Dusky Salamander,preyedUponBy

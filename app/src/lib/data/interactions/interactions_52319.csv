@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52319,47126,Plantae,plants,eats
+52319,,PhytoP,,eats
+52319,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+52319,4262,Phalacrocoracidae,Cormorants and Shags,eatenBy
+52319,446371,Pavoclinus smalei,deepreef klipfish,eatenBy
+52319,179463,Stenotomus caprinus,Longspine porgy,eatenBy
+52319,131430,Trachinocephalus myops,Snakefish,eatenBy
+52319,344134,Euphausia superba,Antarctic Krill,eatenBy
+52319,56653,Haliotis fulgens,Green Abalone,eatenBy
+52319,49210,Plotosus lineatus,Striped Catfish,eatenBy
+52319,132526,Stephanolepis hispidus,Planehead filefish,eatenBy
+52319,131515,Monacanthus ciliatus,Fringed Filefish,eatenBy
+52319,430553,Merlangius merlangus,Whiting,eatenBy
+52319,47523,Pleuronectes platessa,European Plaice,eatenBy
+52319,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+52319,49532,Sphaeromatidae,Typical Seapills,preysOn
+52319,48919,Littorina,Periwinkles,preysOn
+52319,48752,Lottia,Lottia Limpets,preysOn
+52319,47628,Amphipoda,Amphipods,preysOn
+52319,62807,Mytilus,Black Mussels,preysOn
+52319,47645,Cottidae,Typical Sculpins,preysOn
+52319,49581,Nereididae,,preysOn
+52319,48836,Ophiuroidea,Brittle Stars,preysOn
+52319,,Zooplankton,,preysOn
+52319,83718,Tanaidacea,Tanaids,preysOn
+52319,,Amphitoidae,,preysOn
+52319,64643,Amphilochidae,,preysOn
+52319,171643,Melitidae,Bivalve Scuds,preysOn
+52319,55803,Cirolanidae,,preysOn
+52319,,Tectura scutum,,preysOn
+52319,619164,Pholis crassispina,,preysOn
+52319,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preysOn
+52319,130214,Buccinum,,preysOn
+52319,48403,Gasterosteus aculeatus,Threespine Stickleback,preysOn
+52319,246556,Tectonatica,,preysOn
+52319,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+52319,47628,Amphipoda,Amphipods,preyedUponBy
+52319,47645,Cottidae,Typical Sculpins,preyedUponBy
+52319,49052,Anthopleura,,preyedUponBy
+52319,,Zooplankton,,preyedUponBy
+52319,130214,Buccinum,,preyedUponBy
+52319,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+52319,49071,Metridium senile,Plumose Anemone,preyedUponBy

@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+78618,69114,Pogonomyrmex,Harvester Ants,eatenBy
+78618,1409,Callipepla californica,California Quail,eatenBy
+78618,42429,Antilocapra americana,Pronghorn,eatenBy
+78618,,Pooecetes gramineus,,eatenBy
+78618,,Spizella breweri,,eatenBy

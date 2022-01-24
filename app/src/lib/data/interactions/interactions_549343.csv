@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+549343,96265,Bythaelurus canescens,Dusky Catshark,eatenBy
+549343,101184,Galeus melastomus,Blackmouth Catshark,eatenBy
+549343,363519,Alepocephalus rostratus,Risso's smooth-head,eatenBy
+549343,260476,Plesionika acanthonotus,Lesser striped shrimp,eatenBy
+549343,852690,Geryon longipes,,eatenBy
+549343,106881,Nephrops norvegicus,Norway lobster,eatenBy
+549343,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+549343,101184,Galeus melastomus,Blackmouth Catshark,preyedUponBy

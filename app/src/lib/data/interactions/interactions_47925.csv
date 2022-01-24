@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47925,155309,Culex quinquefasciatus,Southern House Mosquito,eats
+47925,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47925,14850,Sturnus vulgaris,European Starling,eatenBy
+47925,508048,Antigone canadensis,Sandhill Crane,eatenBy
+47925,51333,Macquaria australasica,Macquarie Perch,eatenBy
+47925,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+47925,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+47925,,Aythya novaeseelandiae,,eatenBy
+47925,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+47925,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47925,,Regina alleni,,preyedUponBy
+47925,100369,Erpetogomphus designatus,Eastern Ringtail,preyedUponBy
+47925,,Hetaerina americana,,preyedUponBy
+47925,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+47925,95995,Brachythemis contaminata,Ditch Jewel,preyedUponBy
+47925,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy

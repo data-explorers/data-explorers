@@ -1,0 +1,110 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61860,,Ficedula hypoleuca,,eats
+61860,4454,Sterna hirundinacea,South American Tern,eats
+61860,,Oreopanax incisus,,eats
+61860,118597,Belone belone,Garfish,eatenBy
+61860,17009,Sayornis saya,Say's Phoebe,eatenBy
+61860,11867,Progne subis,Purple Martin,eatenBy
+61860,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+61860,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+61860,16768,Tyrannus,Kingbirds,eatenBy
+61860,10247,Setophaga ruticilla,American Redstart,eatenBy
+61860,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+61860,,Efferia aestuans,,eatenBy
+61860,,Hasarius adansoni,,eatenBy
+61860,353524,Neosparassus diana,Badge Huntsman Spider,eatenBy
+61860,394124,Orthodera novaezealandiae,New Zealand Mantis,eatenBy
+61860,12716,Turdus merula,Eurasian Blackbird,eatenBy
+61860,5017,Bubulcus ibis,Cattle Egret,eatenBy
+61860,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+61860,162,Porzana carolina,Sora,eatenBy
+61860,,Progne dominicensis,,eatenBy
+61860,,Salpinctes obsoletus,,eatenBy
+61860,57278,Ailanthus altissima,tree-of-heaven,pollinates
+61860,53186,Potentilla,cinquefoils,pollinates
+61860,53453,Salix,Willows,pollinates
+61860,178226,Eucryphia cordifolia,Ulmo,pollinates
+61860,,Gevuina avellana,,pollinates
+61860,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+61860,,Heracleum sphondylium montanum,,pollinates
+61860,165645,Napaea dioica,Glade Mallow,pollinates
+61860,50851,Cerastium arvense,field chickweed,pollinates
+61860,,Erysimum pallasii,,pollinates
+61860,,Dryas integrifolia,,pollinates
+61860,,Salix arctica,,pollinates
+61860,,Physaria arctica,,pollinates
+61860,,Saxifraga oppositifolia,,pollinates
+61860,,Papaver radicatum,,pollinates
+61860,,Potentilla nivea,,pollinates
+61860,,Saxifraga tricuspidata,,pollinates
+61860,,Papaver,,pollinates
+61860,50074,Dryas,,pollinates
+61860,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+61860,119535,Phymata,Jagged Ambush Bugs,preyedUponBy
+61860,51469,Aeshnidae,Darners,preyedUponBy
+61860,47928,Zygoptera,Damselflies,preyedUponBy
+61860,47927,Anisoptera,Dragonflies,preyedUponBy
+61860,48124,Tettigoniidae,Katydids,preyedUponBy
+61860,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+61860,51556,Sympetrum,Meadowhawks,preyedUponBy
+61860,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+61860,47819,Libellulidae,Skimmers,preyedUponBy
+61860,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+61860,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+61860,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+61860,,Frigga,,preyedUponBy
+61860,4356,Larus canus,Mew Gull,preyedUponBy
+61860,394124,Orthodera novaezealandiae,New Zealand Mantis,preyedUponBy
+61860,126155,Vespula germanica,German Yellowjacket,preyedUponBy
+61860,,Creophilus maxillosus,,preyedUponBy
+61860,409181,Trite planiceps,Black-headed Jumping Spider,preyedUponBy
+61860,,Somatochlora,,preyedUponBy
+61860,51679,Coenagrion,Northern Bluets,preyedUponBy
+61860,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+61860,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+61860,,Hyla arborea,,preyedUponBy
+61860,,Orthetrum,,preyedUponBy
+61860,25591,Rana temporaria,European Common Frog,preyedUponBy
+61860,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+61860,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+61860,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+61860,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+61860,,Libellula depressa,,preyedUponBy
+61860,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+61860,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+61860,25474,Rana,Pond Frogs,preyedUponBy
+61860,82118,Dolomedes,Fishing Spiders,preyedUponBy
+61860,153861,Tibellus maritimus,,preyedUponBy
+61860,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+61860,,Theridion pictum,,preyedUponBy
+61860,,Sympetrum striolatum,,preyedUponBy
+61860,,Coenagrion pulchellum,,preyedUponBy
+61860,,Paravespula vulgaris,,preyedUponBy
+61860,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+61860,,Phylloneta impressa,,preyedUponBy
+61860,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+61860,,Dolomedes fimbriatus,,preyedUponBy
+61860,113497,Sympecma fusca,Common Winter Damselfly,preyedUponBy
+61860,,Conocephalus fuscus,,preyedUponBy
+61860,,Litoria rubella,,preyedUponBy
+61860,23643,Litoria inermis,Bumpy Rocket Frog,preyedUponBy
+61860,,Litoria novaehollandiae,,preyedUponBy
+61860,,Bufo marinus,,preyedUponBy
+61860,,Litoria gracilenta,,preyedUponBy
+61860,,Litoria caerulea,,preyedUponBy
+61860,,Litoria alboguttata,,preyedUponBy
+61860,66479,Platyplectrum ornatum,Ornate Burrowing Frog,preyedUponBy
+61860,23647,Litoria nasuta,Australian Rocket Frog,preyedUponBy
+61860,22036,Limnodynastes tasmaniensis,Spotted Grass Frog,preyedUponBy
+61860,31215,Chlamydosaurus kingii,Frilled Lizard,preyedUponBy
+61860,,Litoria lesueurii,,preyedUponBy
+61860,23655,Litoria rothii,Roth's Tree Frog,preyedUponBy
+61860,,Litoria brevipes,,preyedUponBy
+61860,37456,Tiliqua scincoides,Common Blue-tongued Skink,preyedUponBy
+61860,40550,Chalinolobus tuberculatus,Long-tailed Wattled Bat,preyedUponBy
+61860,74717,Myotis punicus,Felten's myotis,preyedUponBy
+61860,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+61860,207811,Eptesicus serotinus,Serotine Bat,preyedUponBy
+61860,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+61860,40348,Myotis velifer,Cave Myotis,preyedUponBy
+61860,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy

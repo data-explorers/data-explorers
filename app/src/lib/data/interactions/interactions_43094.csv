@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43094,,leaves,,eats
+43094,42051,Canis latrans,Coyote,eatenBy
+43094,41976,Lynx rufus,Bobcat,eatenBy
+43094,42007,Puma concolor,Mountain Lion,eatenBy
+43094,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+43094,42069,Vulpes vulpes,Red Fox,eatenBy
+43094,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+43094,1264432,Neogale vison,American Mink,eatenBy
+43094,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+43094,8010,Corvus corax,Common Raven,eatenBy
+43094,20044,Bubo virginianus,Great Horned Owl,eatenBy
+43094,851014,Canis aureus,Golden Jackal,eatenBy
+43094,,Canis mesomelas,,eatenBy
+43094,922459,Felis silvestris,European Wildcat,eatenBy
+43094,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+43094,41824,Galictis cuja,Lesser Grison,eatenBy
+43094,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+43094,41791,Martes flavigula,Yellow-throated Marten,eatenBy
+43094,41975,Lynx pardinus,Iberian Lynx,eatenBy
+43094,41800,Martes foina,Stone Marten,eatenBy
+43094,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+43094,41808,Mustela erminea,Eurasian Stoat,eatenBy
+43094,569428,Mustela nivalis,Least Weasel,eatenBy
+43094,41812,Mustela putorius,Western Polecat,eatenBy
+43094,41970,Panthera onca,Jaguar,eatenBy
+43094,41796,Martes martes,Eurasian Pine Marten,eatenBy
+43094,41963,Panthera pardus,Leopard,eatenBy
+43094,,Martes pennanti,,eatenBy
+43094,42066,Vulpes velox,Swift Fox,eatenBy
+43094,,Neovison vison,,eatenBy
+43094,,harrier hawks,,eatenBy
+43094,,stoats,,eatenBy
+43094,,Graphidium strigosum,,eatenBy
+43094,,Passalurus ambiguus,,eatenBy
+43094,,Trichostrongylus retortaeformis,,eatenBy
+43094,,Circus approximans,,eatenBy
+43094,,Aquila chrysaetos,,eatenBy
+43094,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+43094,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+43094,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+43094,20307,Asio otus,Long-eared Owl,eatenBy
+43094,20315,Asio flammeus,Short-eared Owl,eatenBy
+43094,,Cathartes burrovianus,,preyedUponBy

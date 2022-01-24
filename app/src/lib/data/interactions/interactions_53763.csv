@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53763,,Paroedura picta,,eatenBy
+53763,5017,Bubulcus ibis,Cattle Egret,eatenBy
+53763,30692,Crotalus,Rattlesnakes,preyedUponBy
+53763,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+53763,28519,Tantilla capistrata,Capistrata Centipede Snake,preyedUponBy

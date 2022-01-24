@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54597,1,Animalia,Animals,eats
+54597,85493,Crustacea,Crustaceans,eats
+54597,47178,Actinopterygii,Ray-finned Fishes,eats
+54597,47459,Cephalopoda,Cephalopods,eats
+54597,,,,eats
+54597,,Leiognathus,,eats
+54597,,Gnathostomata,,eats
+54597,,Pisces,,eats
+54597,55533,Chanos chanos,Milkfish,eats
+54597,51042,Penaeidae,Penaeid Shrimps,eats
+54597,,Miyakea nepa,,eats
+54597,113902,Terapon jarbua,Crescent Grunter,eats
+54597,,Stolephorus,,eats
+54597,,Detritus,,eats
+54597,,Photopectoralis bindus,,eats
+54597,87081,Bregmaceros,,eats
+54597,,Acetes indicus,,eats
+54597,,Loligo duvaeceli,,eats
+54597,41641,Ursus arctos,Brown Bear,eatenBy
+54597,41488,Sousa chinensis,Indo-Pacific Humpback Dolphin,eatenBy
+54597,90190,Nemipterus,Threadfin Breams,eatenBy
+54597,,Hypomyces ochraceus,,eatenBy
+54597,,Collybia tuberosa,,eatenBy
+54597,,Collybia cirrhata,,eatenBy
+54597,,Ariolimax columbianus,,eatenBy
+54597,,Prophysaon andersonii,,eatenBy
+54597,,Pallifera costaricensis alticola,,eatenBy
+54597,,Ventridens intertextus,,eatenBy
+54597,,Karaftohelix maackii,,eatenBy
+54597,,Eubleekeria splendens,,preysOn
+54597,55533,Chanos chanos,Milkfish,preysOn

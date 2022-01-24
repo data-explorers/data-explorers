@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53714,60364,Rhododendron ponticum,Common Rhododendron,eats
+53714,53373,Corylus,hazels,eats
+53714,48582,Sorbus,Rowans and Mountain Ashes,eats
+53714,47851,Quercus,oaks,eats
+53714,54806,Fraxinus,ashes,eats
+53714,58736,Pyrus,pears,eats
+53714,69821,Cedrus,Cedars,eats
+53714,53549,Ulmus,elms,eats
+53714,49203,Fagus,beeches,eats
+53714,,Broadleaved trees,,eats
+53714,121763,Castanea sativa,Sweet Chestnut,eats
+53714,,Ilex aquifolium,,eats
+53714,,Camptodiplosis boleti,,eatenBy
+53714,,Limax maximus,,eatenBy

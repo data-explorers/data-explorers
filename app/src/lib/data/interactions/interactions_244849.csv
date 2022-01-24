@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+244849,1,Animalia,Animals,eats
+244849,120497,Halichondria,Crumb-of-bread Sponge,eats
+244849,113980,Thalassoma lunare,Moon Wrasse,eatenBy
+244849,120967,Favorinus japonicus,Egg-eating Nudibranch,eatenBy
+244849,113980,Thalassoma lunare,Moon Wrasse,preyedUponBy
+244849,143945,Dardanus megistos,White-spotted Hermit Crab,preyedUponBy

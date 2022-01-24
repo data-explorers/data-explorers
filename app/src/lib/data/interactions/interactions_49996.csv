@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49996,47170,Fungi,Fungi Including Lichens,eats
+49996,118597,Belone belone,Garfish,eatenBy
+49996,48139,Salticidae,Jumping Spiders,eatenBy
+49996,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+49996,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+49996,6933,Anas acuta,Northern Pintail,eatenBy
+49996,,Corvus caurinus,,eatenBy
+49996,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+49996,57278,Ailanthus altissima,tree-of-heaven,pollinates
+49996,,Sanicula graveolens,,pollinates
+49996,,Calandrinia affinis,,pollinates
+49996,,Valeriana gracilieps,,pollinates
+49996,,Weberbauera stenophylla,,pollinates
+49996,178226,Eucryphia cordifolia,Ulmo,pollinates
+49996,,Eriogonum ovalifolium vineum,,pollinates
+49996,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+49996,,Trollius europaeus,,pollinates
+49996,,Salix lanata,,pollinates
+49996,129423,Zelus luridus,Pale Green Assassin Bug,preyedUponBy
+49996,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy

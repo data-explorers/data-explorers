@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47315,47178,Actinopterygii,Ray-finned Fishes,eats
+47315,85493,Crustacea,Crustaceans,eats
+47315,47459,Cephalopoda,Cephalopods,eats
+47315,121639,Brachyura,True Crabs,eats
+47315,49796,Stomatopoda,Mantis Shrimps,eats
+47315,151428,Sepia novaehollandiae,New Holland Cuttlefish,eats
+47315,,Gnathostomata,,eats
+47315,,,,eats
+47315,41481,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,eatenBy
+47315,35239,Laticauda laticaudata,Brown-lipped Sea Krait,eatenBy
+47315,68342,Laticauda saintgironsi,New Caledonian Sea Krait,eatenBy
+47315,52314,Triaenodon obesus,Whitetip Reef Shark,eatenBy
+47315,49746,Epinephelus striatus,Nassau Grouper,eatenBy
+47315,113450,Sufflamen fraenatum,Bridled Triggerfish,eatenBy
+47315,100104,Epinephelus guttatus,Red Hind,eatenBy
+47315,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47315,68343,Laticauda colubrina,Banded Sea Krait,preyedUponBy
+47315,35217,Hydrophis melanosoma,Black-banded Sea Snake,preyedUponBy

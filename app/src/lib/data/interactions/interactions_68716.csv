@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+68716,68716,Grewia,Donkeyberries,eats
+68716,,Grewia retinerv,,eats
+68716,47219,Apis mellifera,Western Honey Bee,eatenBy
+68716,68716,Grewia,Donkeyberries,eatenBy
+68716,1,Animalia,Animals,eatenBy
+68716,43367,Primates,Primates,eatenBy
+68716,,Ramulus nematodes,,eatenBy
+68716,,Agelanthus kraussianus,,eatenBy
+68716,,Abantis tettensis,,eatenBy
+68716,,Charaxes brutus,,eatenBy
+68716,,Charaxes numenes,,eatenBy
+68716,575118,Caprona pillaana,Ragged Skipper,eatenBy
+68716,,Charaxes tiridates,,eatenBy
+68716,,Charaxes cithaeron,,eatenBy
+68716,,Eagris sabadius,,eatenBy
+68716,,Eagris nottoana,,eatenBy
+68716,,Netrobalane canopus,,eatenBy
+68716,,Neptis troundi,,eatenBy
+68716,,Tagiades flesus,,eatenBy
+68716,,Polyura athamas,,eatenBy
+68716,42166,Axis axis,Chital,eatenBy
+68716,,Varanus,,eatenBy
+68716,,Arniocera auriguttata,,eatenBy
+68716,,Notarcha quaternalis,,eatenBy
+68716,,Asphadastis cryphomycha,,eatenBy
+68716,,Neptis jumbah,,eatenBy
+68716,,Maurilia phaea,,eatenBy
+68716,367935,Anaphe reticulata,Reticulate Bagnest,eatenBy
+68716,,Earias luteolaria,,eatenBy
+68716,,Lophocrama phoenicochlora,,eatenBy
+68716,,Charaxes smaragdalis,,eatenBy
+68716,372662,Acrasiella curvilinea,,eatenBy
+68716,,Chadisra,,eatenBy
+68716,,Chadisra bipars,,eatenBy
+68716,199559,Dyrzela plagiata,,eatenBy
+68716,,Metarbela tuckeri,,eatenBy
+68716,,Marblepsis flabellaria,,eatenBy
+68716,,Ortharbela,,eatenBy
+68716,,Phapitreron leucotis,,eatenBy
+68716,,Aceros,,eatenBy
+68716,,Megalaima haemacephala,,eatenBy
+68716,73337,Rhabdornis mystacalis,Stripe-sided Rhabdornis,eatenBy
+68716,,Macropygia tenuirostris,,eatenBy
+68716,,Sarcops calvus,,eatenBy
+68716,,Pycnonotus goiavier,,eatenBy
+68716,,Streptopelia chinensis,,eatenBy
+68716,,Ducula bicolor,,eatenBy
+68716,,Sus,,eatenBy
+68716,,Ptenochirus jagori,,eatenBy
+68716,508097,Chalcophaps indica,Asian Emerald Dove,eatenBy
+68716,,Ptilinopus occipitalis,,eatenBy
+68716,,Zosterops nigrorum,,eatenBy
+68716,,Oriolus,,eatenBy
+68716,,Penelopides panini,,eatenBy
+68716,40793,Cynopterus brachyotis,Lesser Short-nosed Fruit Bat,eatenBy
+68716,,Ducula poliocephala,,eatenBy
+68716,,Ixos philippinus,,eatenBy
+68716,44173,Hystrix africaeaustralis,Cape Porcupine,eatenBy
+68716,,Tragelaphus strepsiceros,,eatenBy
+68716,41834,Mellivora capensis,Ratel,eatenBy
+68716,,Cercopithecus pygerythrus,,eatenBy
+68716,,Aepyceros melampus,,eatenBy
+68716,,Phacochoerus africanus,,eatenBy
+68716,,Ourebia ourebi,,eatenBy
+68716,42305,Redunca arundinum,Southern Reedbuck,eatenBy
+68716,,Cephalophus natalensis,,eatenBy
+68716,41627,Civettictis civetta,African Civet,eatenBy
+68716,,Papio ursinus,,eatenBy
+68716,41595,Genetta tigrina,Cape Genet,eatenBy
+68716,,Kobus ellipsiprymnus,,eatenBy
+68716,,Tragelaphus scriptus,,eatenBy
+68716,,Tragelaphus angasii,,eatenBy
+68716,,Taurotragus oryx,,eatenBy
+68716,42334,Hippotragus niger,Sable Antelope,eatenBy
+68716,,Colobus angolensis,,eatenBy
+68716,,Bycanistes brevis,,eatenBy
+68716,,Cricetomys gambianus,,eatenBy
+68716,43486,Cercopithecus mitis,Blue Monkey,eatenBy
+68716,40092,Stigmochelys pardalis,Leopard Tortoise,eatenBy
+68716,,Epomophorus wahlbergi,,eatenBy
+68716,,Kinixys belliana,,eatenBy
+68716,,Ichneumia albicauda,,eatenBy
+68716,,Eidolon helvum,,eatenBy
+68716,41599,Genetta maculata,Rusty-spotted Genet,eatenBy
+68716,,Broadleysaurus major major,,eatenBy
+68716,,Francolinus afer,,eatenBy
+68716,,Colius striatus,,eatenBy
+68716,42424,Sylvicapra grimmia,Bush Duiker,eatenBy
+68716,,Papio cynocephalus,,eatenBy
+68716,,Loxodonta africana,,eatenBy
+68716,,Nandinia binotata,,eatenBy
+68716,,Ploceus cucullatus,,eatenBy
+68716,,Neotragus moschatus,,eatenBy
+68716,,Otolemur garnettii,,eatenBy
+68716,,Tockus,,eatenBy
+68716,,Treron calvus,,eatenBy
+68716,41655,Helarctos malayanus,Sun Bear,eatenBy
+68716,,Macropygia amboinensis phasianella,,eatenBy
+68716,43580,Gorilla gorilla,Western Gorilla,eatenBy
+68716,,Urocolius indicus,,eatenBy
+68716,,Canis mesomelas,,eatenBy
+68716,,Eulemur fulvus,,eatenBy
+68716,,Procavia capensis,,preyedUponBy
+68716,,Giraffa camelopardalis,,preyedUponBy
+68716,,Loxodonta africana,,preyedUponBy
+68716,43088,Heterohyrax brucei,Bush Hyrax,preyedUponBy

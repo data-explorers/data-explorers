@@ -1,0 +1,399 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47490,47797,Actiniaria,Sea Anemones,eats
+47490,47628,Amphipoda,Amphipods,eats
+47490,47584,Bivalvia,Bivalves,eats
+47490,47490,Polychaeta,Polychaete Worms,eats
+47490,48824,Porifera,Sponges,eats
+47490,47114,Gastropoda,Gastropods,eats
+47490,48836,Ophiuroidea,Brittle Stars,eats
+47490,68104,Bryozoa,Bryozoans,eats
+47490,47115,Mollusca,Molluscs,eats
+47490,67333,Bacteria,bacteria,eats
+47490,47120,Arthropoda,Arthropods,eats
+47490,47686,Protozoa,protozoans,eats
+47490,123880,Bacillariophyceae,Diatoms,eats
+47490,85493,Crustacea,Crustaceans,eats
+47490,81791,Nereis,,eats
+47490,48478,Chrysaora quinquecirrha,Atlantic Sea Nettle,eats
+47490,1,Animalia,Animals,eats
+47490,51508,Ctenophora,Comb Jellies,eats
+47490,49504,Callinectes sapidus,Atlantic Blue Crab,eats
+47490,81634,Mya arenaria,Soft-shelled Clam,eats
+47490,151827,Chaetognatha,Arrow Worms,eats
+47490,123631,Corallina,,eats
+47490,51021,Dictyota,Y-branched Algae,eats
+47490,67423,Ulva lactuca,broadleaf sea lettuce,eats
+47490,50918,Caulerpa,,eats
+47490,48216,Fucus vesiculosus,bladder wrack,eats
+47490,123632,Corallina officinalis,Common Coralline,eats
+47490,68770,Ascophyllum nodosum,Knotted Wrack,eats
+47490,130197,Ulva intestinalis,Gutweed,eats
+47490,48217,Fucus,vesicled rockweeds,eats
+47490,130177,Sargassum muticum,Japanese Wireweed,eats
+47490,,Detritus,,eats
+47490,,Benthic autotrophs,,eats
+47490,89967,Millepora,Fire Corals,eats
+47490,,Phytoplankton,,eats
+47490,,Gorgonacea,,eats
+47490,,no name,,eats
+47490,,Urochordata,,eats
+47490,50355,Euphyllia,Torch Corals,eats
+47490,,Zooplankton,,eats
+47490,,Microfauna,,eats
+47490,,Meiofauna,,eats
+47490,,Deposit-feeding peracaridan crustaceans,,eats
+47490,,Epiphyte-grazing amphipods,,eats
+47490,,Prymnesiophyceae,,eats
+47490,,Infauna,,eats
+47490,,Wigeongrass,,eats
+47490,,suspended or deposited organic matter,,eats
+47490,,benthic filter feeding invertebrates,,eats
+47490,,Turbellaria,,eats
+47490,144115,Cumacea,Hooded Shrimp,eats
+47490,,Other suspension feeders,,eats
+47490,71252,Macoma,,eats
+47490,,meiofauna,,eats
+47490,,Tanaidae,,eats
+47490,,bacterioplankton,,eats
+47490,,Macroalgae,,eats
+47490,,sediment,,eats
+47490,,Periphyton,,eats
+47490,,fungi associated with detritus,,eats
+47490,,Chondria curvilineata,,eats
+47490,182857,Sphacelaria,,eats
+47490,,PhytoP,,eats
+47490,67679,Gracilaria,,eats
+47490,911743,Plocamium brasiliense,,eats
+47490,207565,Padina gymnospora,,eats
+47490,199320,Acanthophora spicifera,prickly seaweed,eats
+47490,51384,Caulerpa prolifera,,eats
+47490,328377,Sargassum cymosum,,eats
+47490,180609,Lithophyllum,,eats
+47490,201264,Bryopsis pennata,,eats
+47490,,Gracilaria sp.,,eats
+47490,59730,Valonia aegagropila,,eats
+47490,328369,Spatoglossum schroederi,,eats
+47490,330788,Centroceras,,eats
+47490,570223,Caulerpa scalpelliformis,Scalpel green seaweed,eats
+47490,67672,Hypnea musciformis,,eats
+47490,50926,Caulerpa racemosa,Sea Grapes,eats
+47490,415109,Codium decorticatum,,eats
+47490,947920,Gracilaria domingensis,,eats
+47490,131280,Dictyota mertensii,,eats
+47490,1253504,Bryopsis,,eats
+47490,,Chaetomorpha gracilaris,,eats
+47490,131298,Cryptonemia crenulata,,eats
+47490,201265,Bryopsis plumosa,Hen Pen,eats
+47490,915274,Dictyopteris delicatula,,eats
+47490,322821,Sargassum vulgare,,eats
+47490,117801,Gelidium pusillum,,eats
+47490,131277,Lobophora variegata,Encrusting fan-leaf alga,eats
+47490,131281,Dictyota menstrualis,,eats
+47490,,Plocamium sp.,,eats
+47490,130176,Chondrus crispus,Irish moss,eats
+47490,57772,Fucus serratus,Saw Wrack,eats
+47490,543094,Lomentaria articulata,,eats
+47490,326759,Lithophyllum incrustans,,eats
+47490,129737,Colpomenia peregrina,Oyster-thief,eats
+47490,182991,Palmaria palmata,Dulse,eats
+47490,182834,Ectocarpus siliculosus,,eats
+47490,3742,Bostrychia,African Crested and Hadada Ibises,eats
+47490,130204,Mastocarpus stellatus,false Irish moss,eats
+47490,48408,Rajidae,Hardnose Skates,eatenBy
+47490,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+47490,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47490,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+47490,99269,Dicentrarchus labrax,European Seabass,eatenBy
+47490,342912,Caridea,Caridean Shrimps,eatenBy
+47490,49265,Sphoeroides spengleri,Bandtail Puffer,eatenBy
+47490,47114,Gastropoda,Gastropods,eatenBy
+47490,121639,Brachyura,True Crabs,eatenBy
+47490,47490,Polychaeta,Polychaete Worms,eatenBy
+47490,49796,Stomatopoda,Mantis Shrimps,eatenBy
+47490,68104,Bryozoa,Bryozoans,eatenBy
+47490,47668,Asteroidea,Sea Stars,eatenBy
+47490,47186,Decapoda,Decapods,eatenBy
+47490,54661,Mugilidae,Mullets,eatenBy
+47490,47272,Rajiformes,Skates,eatenBy
+47490,49172,Sciaenidae,Drums,eatenBy
+47490,47120,Arthropoda,Arthropods,eatenBy
+47490,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47490,47273,Elasmobranchii,Elasmobranchs,eatenBy
+47490,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eatenBy
+47490,54960,Nematoda,Nematodes,eatenBy
+47490,47652,Erynnis,Duskywings,eatenBy
+47490,52522,Ovalipes,,eatenBy
+47490,3849,Calidris alba,Sanderling,eatenBy
+47490,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+47490,81791,Nereis,,eatenBy
+47490,81634,Mya arenaria,Soft-shelled Clam,eatenBy
+47490,47827,Cancer,,eatenBy
+47490,48563,Triglidae,Searobins,eatenBy
+47490,132473,Lagodon rhomboides,Pinfish,eatenBy
+47490,447552,Maja brachydactyla,Spiny Spider Crab,eatenBy
+47490,3864,Calidris minutilla,Least Sandpiper,eatenBy
+47490,486999,Munida gregaria,Swarming Squat Lobster,eatenBy
+47490,447777,Cyanea lamarckii,Blue Jelly,eatenBy
+47490,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+47490,4519,Uria aalge,Common Murre,eatenBy
+47490,4553,Cerorhinca monocerata,Rhinoceros Auklet,eatenBy
+47490,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+47490,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+47490,151394,Sepia elegans,Elegant Cuttlefish,eatenBy
+47490,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+47490,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+47490,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+47490,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+47490,52523,Carcinus maenas,European Green Crab,eatenBy
+47490,47825,Pycnogonida,Pycnogonids,eatenBy
+47490,4504,Fratercula arctica,Atlantic Puffin,eatenBy
+47490,47797,Actiniaria,Sea Anemones,eatenBy
+47490,410520,Forsterygion lapillum,Common Triplefin,eatenBy
+47490,57301,Hyporhamphus,,eatenBy
+47490,63770,Engraulis mordax,Northern Anchovy,eatenBy
+47490,48407,Raja,,eatenBy
+47490,92583,Trachurus,Jack Mackerels,eatenBy
+47490,89855,Menticirrhus,Kingcroakers,eatenBy
+47490,118703,Gobius cobitis,Giant Goby,eatenBy
+47490,49601,Mola mola,Common Mola,eatenBy
+47490,54541,Hippocampus,Seahorses,eatenBy
+47490,92734,Umbrina,,eatenBy
+47490,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47490,47296,Lutjanus,Common Snappers,eatenBy
+47490,117533,Clinocottus analis,Woolly Sculpin,eatenBy
+47490,51549,Seriola dumerili,Greater Amberjack,eatenBy
+47490,50968,Coris julis,Mediterranean rainbow wrasse,eatenBy
+47490,118682,Chromis chromis,Mediterranean Damselfish,eatenBy
+47490,118640,Bothus podas,Wide-eyed Flounder,eatenBy
+47490,54539,Syngnathus,Pipe-fishes,eatenBy
+47490,61752,Raja microocellata,Smalleyed Skate,eatenBy
+47490,121259,Chironemus marmoratus,Eastern Kelpfish,eatenBy
+47490,118597,Belone belone,Garfish,eatenBy
+47490,87467,Chromis,Chromis,eatenBy
+47490,3954,Limosa fedoa,Marbled Godwit,eatenBy
+47490,4415,Cepphus columba,Pigeon Guillemot,eatenBy
+47490,3901,Numenius phaeopus,Whimbrel,eatenBy
+47490,47645,Cottidae,Typical Sculpins,eatenBy
+47490,85641,Bothidae,Lefteye Flounders,eatenBy
+47490,94130,Anisotremus davidsonii,Sargo,eatenBy
+47490,4209,Podiceps auritus,Horned Grebe,eatenBy
+47490,7044,Aythya collaris,Ring-necked Duck,eatenBy
+47490,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+47490,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+47490,118601,Trisopterus luscus,Pouting,eatenBy
+47490,430553,Merlangius merlangus,Whiting,eatenBy
+47490,,Psetta maxima,,eatenBy
+47490,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+47490,48397,Raja clavata,Thornback Skate,eatenBy
+47490,,Microchirus variegatus,,eatenBy
+47490,106253,Mustelus asterias,Starry Smooth-hound,eatenBy
+47490,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47490,324532,Sprattus sprattus,European Sprat,eatenBy
+47490,111527,Raja montagui,Spotted Skate,eatenBy
+47490,118718,Callionymus maculatus,Spotted Dragonet,eatenBy
+47490,96130,Buglossidium luteum,Solenette,eatenBy
+47490,55396,Solea solea,Common Sole,eatenBy
+47490,224163,Lumpenus lampretaeformis,Snakeblenny,eatenBy
+47490,47518,Salmo trutta,Brown Trout,eatenBy
+47490,,Liparis liparis,,eatenBy
+47490,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+47490,86396,Ammodytes,,eatenBy
+47490,326208,Ammodytes marinus,Raitt's Sand Lance,eatenBy
+47490,47114,Gastropoda,Gastropods,preysOn
+47490,47584,Bivalvia,Bivalves,preysOn
+47490,47582,Ostreidae,True Oysters,preysOn
+47490,47628,Amphipoda,Amphipods,preysOn
+47490,67333,Bacteria,bacteria,preysOn
+47490,47115,Mollusca,Molluscs,preysOn
+47490,47490,Polychaeta,Polychaete Worms,preysOn
+47490,47120,Arthropoda,Arthropods,preysOn
+47490,47686,Protozoa,protozoans,preysOn
+47490,153112,Euphausiacea,krill,preysOn
+47490,68764,Ostracoda,Seed Shrimp,preysOn
+47490,85514,Cyclopoida,Cyclopoid Copepods,preysOn
+47490,85493,Crustacea,Crustaceans,preysOn
+47490,47126,Plantae,plants,preysOn
+47490,68104,Bryozoa,Bryozoans,preysOn
+47490,48921,Hydrozoa,Hydrozoans,preysOn
+47490,48836,Ophiuroidea,Brittle Stars,preysOn
+47490,47797,Actiniaria,Sea Anemones,preysOn
+47490,48824,Porifera,Sponges,preysOn
+47490,47158,Insecta,Insects,preysOn
+47490,128743,Chthamalus,,preysOn
+47490,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+47490,48147,Isopoda,Isopods,preysOn
+47490,130091,Spirorbis,Spiral Fanworms,preysOn
+47490,50543,Aplysia dactylomela,spotted seahare,preysOn
+47490,333586,Oligochaeta,Earthworms and allies,preysOn
+47490,49282,Sabellidae,Feather Duster Worms,preysOn
+47490,48580,Idotea,,preysOn
+47490,63288,Talitridae,Sandhoppers and Landhoppers,preysOn
+47490,48173,Pagurus,,preysOn
+47490,85532,Mysida,Opossum Shrimps,preysOn
+47490,49507,Callinectes,,preysOn
+47490,49532,Sphaeromatidae,Typical Seapills,preysOn
+47490,153169,Palaemon elegans,Rockpool Prawn,preysOn
+47490,203761,Nucella lapillus,Atlantic Dogwhelk,preysOn
+47490,446757,Acanthochitona crinita,Bristly Mail-shell,preysOn
+47490,81791,Nereis,,preysOn
+47490,52523,Carcinus maenas,European Green Crab,preysOn
+47490,54960,Nematoda,Nematodes,preysOn
+47490,245568,Turritellidae,Tower Snails,preysOn
+47490,50764,Nassariidae,Nassa Mudsnails,preysOn
+47490,,Carnivorous zooplankton,,preysOn
+47490,,Zooplankton,,preysOn
+47490,,Meiofauna,,preysOn
+47490,,Microfauna,,preysOn
+47490,,Deposit-feeding peracaridan crustaceans,,preysOn
+47490,,Epiphyte-grazing amphipods,,preysOn
+47490,,suspended or deposited organic matter,,preysOn
+47490,,benthic filter feeding invertebrates,,preysOn
+47490,,nauplii,,preysOn
+47490,,Mysidacea,,preysOn
+47490,774778,Gymnoplea,,preysOn
+47490,372878,Hyperiidea,,preysOn
+47490,,Sea,,preysOn
+47490,,Stony corals,,preysOn
+47490,,Urochordata,,preysOn
+47490,59806,Gammaridae,,preysOn
+47490,83718,Tanaidacea,Tanaids,preysOn
+47490,,Leptopecten,,preysOn
+47490,,Amphitoidae,,preysOn
+47490,,Synisoma,,preysOn
+47490,603341,Epialtus brasiliensis,,preysOn
+47490,295215,Clibanarius antillensis,,preysOn
+47490,255518,Eulithidium affine,,preysOn
+47490,875623,Tegula viridula,,preysOn
+47490,292602,Stramonita haemastoma,Red-mouthed Dog Winkle,preysOn
+47490,1010010,Ischnochiton striolatus,,preysOn
+47490,52174,Brachidontes,,preysOn
+47490,292259,Bittiolum varium,,preysOn
+47490,,Harparticoida,,preysOn
+47490,499535,Fissurella rosea,Rosy Keyhole Limpet,preysOn
+47490,340881,Calliopiidae,,preysOn
+47490,194085,Panopeus,Mud Crabs,preysOn
+47490,254742,Astyris lunata,Lunate Dove Shell,preysOn
+47490,195201,Pachygrapsus transversus,Mottled Shore Crab,preysOn
+47490,,Boonea jadisi,,preysOn
+47490,,Omalogyra atomus,,preysOn
+47490,245452,Stenothoidae,,preysOn
+47490,144115,Cumacea,Hooded Shrimp,preysOn
+47490,194018,Spirorbis spirorbis,Coil Worm,preysOn
+47490,121294,Curculio,Nut and Acorn Weevils,preysOn
+47490,246376,Diplodonta,,preysOn
+47490,208871,Cerithium atratum,Dark Cerith,preysOn
+47490,337827,Hediste diversicolor,Estuary Ragworm,preysOn
+47490,339320,Pholoe,,preysOn
+47490,339285,Pholoe minuta,,preysOn
+47490,203794,Eteone,,preysOn
+47490,152971,Alitta virens,King Ragworm,preysOn
+47490,345424,Fabricia stellaris,,preysOn
+47490,118499,Ampithoidae,,preysOn
+47490,482996,Modiolula phaseolina,Bean Mussel,preysOn
+47490,1023057,Eteone longa,,preysOn
+47490,,Gibbula cineraria,,preysOn
+47490,69184,Venerupis,Carpet-shells,preysOn
+47490,59807,Gammarus,,preysOn
+47490,154706,Patella vulgata,Common European Limpet,preysOn
+47490,246632,Barleeia,Barleysnails,preysOn
+47490,172073,Rissoidae,Spire-shells,preysOn
+47490,47272,Rajiformes,Skates,preyedUponBy
+47490,49172,Sciaenidae,Drums,preyedUponBy
+47490,54661,Mugilidae,Mullets,preyedUponBy
+47490,47114,Gastropoda,Gastropods,preyedUponBy
+47490,121639,Brachyura,True Crabs,preyedUponBy
+47490,121643,Copepoda,Copepods,preyedUponBy
+47490,47490,Polychaeta,Polychaete Worms,preyedUponBy
+47490,47186,Decapoda,Decapods,preyedUponBy
+47490,47273,Elasmobranchii,Elasmobranchs,preyedUponBy
+47490,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+47490,47652,Erynnis,Duskywings,preyedUponBy
+47490,49507,Callinectes,,preyedUponBy
+47490,50928,Palaemonidae,palaemonid shrimps,preyedUponBy
+47490,59116,Poeciliidae,Livebearers and Lampeyes,preyedUponBy
+47490,85493,Crustacea,Crustaceans,preyedUponBy
+47490,63770,Engraulis mordax,Northern Anchovy,preyedUponBy
+47490,3864,Calidris minutilla,Least Sandpiper,preyedUponBy
+47490,47533,Anthozoa,Sea Anemones and Corals,preyedUponBy
+47490,47188,Pachygrapsus crassipes,Striped Shore Crab,preyedUponBy
+47490,47584,Bivalvia,Bivalves,preyedUponBy
+47490,3892,Tringa melanoleuca,Greater Yellowlegs,preyedUponBy
+47490,54538,Syngnathus leptorhynchus,Bay Pipefish,preyedUponBy
+47490,3954,Limosa fedoa,Marbled Godwit,preyedUponBy
+47490,4885,Recurvirostra americana,American Avocet,preyedUponBy
+47490,3855,Calidris mauri,Western Sandpiper,preyedUponBy
+47490,49796,Stomatopoda,Mantis Shrimps,preyedUponBy
+47490,47668,Asteroidea,Sea Stars,preyedUponBy
+47490,68104,Bryozoa,Bryozoans,preyedUponBy
+47490,49265,Sphoeroides spengleri,Bandtail Puffer,preyedUponBy
+47490,342912,Caridea,Caridean Shrimps,preyedUponBy
+47490,50704,Columbellidae,Dove Snails,preyedUponBy
+47490,49504,Callinectes sapidus,Atlantic Blue Crab,preyedUponBy
+47490,130085,Actinia equina,Beadlet anemone,preyedUponBy
+47490,153169,Palaemon elegans,Rockpool Prawn,preyedUponBy
+47490,52523,Carcinus maenas,European Green Crab,preyedUponBy
+47490,210294,Lipophrys pholis,Shanny,preyedUponBy
+47490,48836,Ophiuroidea,Brittle Stars,preyedUponBy
+47490,54960,Nematoda,Nematodes,preyedUponBy
+47490,129493,Actinia fragacea,Strawberry Anemone,preyedUponBy
+47490,48173,Pagurus,,preyedUponBy
+47490,68764,Ostracoda,Seed Shrimp,preyedUponBy
+47490,467402,Ocenebra erinaceus,European Sting Winkle,preyedUponBy
+47490,151838,Priapulida,Priapulid Worms,preyedUponBy
+47490,88563,Gobius,,preyedUponBy
+47490,13858,Passer domesticus,House Sparrow,preyedUponBy
+47490,47645,Cottidae,Typical Sculpins,preyedUponBy
+47490,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+47490,47827,Cancer,,preyedUponBy
+47490,94130,Anisotremus davidsonii,Sargo,preyedUponBy
+47490,,Myctophum asperum,,preyedUponBy
+47490,1316623,Pleuragramma antarcticum,,preyedUponBy
+47490,125291,Molva molva,European Ling,preyedUponBy
+47490,,other large fish,,preyedUponBy
+47490,,Warehous,,preyedUponBy
+47490,,flathead,,preyedUponBy
+47490,,Jackass morwong,,preyedUponBy
+47490,179447,Trachurus lathami,Rough Scad,preyedUponBy
+47490,529848,Emmelichthys nitidus,Redbait,preyedUponBy
+47490,,ocean perch,,preyedUponBy
+47490,,dogfish (demersal shark),,preyedUponBy
+47490,112419,Sebastes mentella,Deepwater Redfish,preyedUponBy
+47490,,cucumberfish,,preyedUponBy
+47490,94904,Auchenoglanis biscutatus,,preyedUponBy
+47490,,Pleuronectiformes,,preyedUponBy
+47490,,juvenile of high carnivores,,preyedUponBy
+47490,,blue crabs,,preyedUponBy
+47490,377210,Nematodes,Nematodes False Click Beetles,preyedUponBy
+47490,,mosquito fish,,preyedUponBy
+47490,,gold-spotted killifish,,preyedUponBy
+47490,,Benthos eating birds,,preyedUponBy
+47490,128750,Sciaenops ocellatus,Red Drum,preyedUponBy
+47490,,Pungitius pungitius pungitius,,preyedUponBy
+47490,,Atlantic silverside and bay anchovies,,preyedUponBy
+47490,,Catfish and stingrays,,preyedUponBy
+47490,,Omnivorous crabs,,preyedUponBy
+47490,,Demersal piscivores,,preyedUponBy
+47490,,Chondrichthyes,,preyedUponBy
+47490,,Commercial sparids (2),,preyedUponBy
+47490,,Commercial sparids (1),,preyedUponBy
+47490,260530,Parapenaeus politus,,preyedUponBy
+47490,361764,Pseudopleuronectes herzensteini,Yellow-striped Flounder,preyedUponBy
+47490,614290,Amblychaeturichthys hexanema,,preyedUponBy
+47490,,L. yokohamae,,preyedUponBy
+47490,,Elopids,,preyedUponBy
+47490,,Gobioids,,preyedUponBy
+47490,,Haemulids,,preyedUponBy
+47490,,Scianids,,preyedUponBy
+47490,49944,Gerreidae,Mojarras,preyedUponBy
+47490,,Ariids,,preyedUponBy
+47490,,Centropomids,,preyedUponBy
+47490,55533,Chanos chanos,Milkfish,preyedUponBy
+47490,,Belonoids,,preyedUponBy
+47490,,Pleuronectoids,,preyedUponBy
+47490,,Litopenaeus,,preyedUponBy
+47490,,Lutjanids,,preyedUponBy
+47490,,longfin sand dab,,preyedUponBy
+47490,109813,Pleuronichthys verticalis,Hornyhead Turbot,preyedUponBy
+47490,51280,Nemertea,Ribbon Worms,preyedUponBy
+47490,3857,Calidris alpina,Dunlin,preyedUponBy
+47490,627095,Upogebia macginitieorum,,preyedUponBy

@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44419,,Embryophyta,,eats
+44419,5277,Elanus leucurus,White-tailed Kite,eatenBy
+44419,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+44419,20445,Tyto alba,Barn Owl,eatenBy
+44419,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44419,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44419,20307,Asio otus,Long-eared Owl,eatenBy
+44419,42066,Vulpes velox,Swift Fox,eatenBy
+44419,,American mink,,eatenBy
+44419,,Coyote,,eatenBy
+44419,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+44419,20315,Asio flammeus,Short-eared Owl,eatenBy
+44419,19975,Athene cunicularia,Burrowing Owl,eatenBy
+44419,47158,Insecta,Insects,preysOn
+44419,5163,Circus,Harriers,preyedUponBy
+44419,20306,Asio,Eared Owls and Allies,preyedUponBy
+44419,,Lampropeltis abnorma,,preyedUponBy
+44419,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy
+44419,28627,Spilotes pullatus,Chicken Snake,preyedUponBy

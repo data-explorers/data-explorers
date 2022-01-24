@@ -1,0 +1,225 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52932,47126,Plantae,plants,eats
+52932,47566,Populus,"poplars, cottonwoods, and aspens",eats
+52932,54491,Corylus avellana,common hazel,eats
+52932,54841,Salix alba,white willow,eats
+52932,51147,Crataegus monogyna,common hawthorn,eats
+52932,765394,Sambucus nigra,European black elderberry,eats
+52932,55847,Euonymus europaeus,Spindle,eats
+52932,55811,Prunus spinosa,Blackthorn,eats
+52932,155124,Cornus sanguinea,common dogwood,eats
+52932,79461,Ulmus minor,Field Elm,eats
+52932,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+52932,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+52932,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+52932,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+52932,7294,Eremophila alpestris,Horned Lark,eatenBy
+52932,12727,Turdus migratorius,American Robin,eatenBy
+52932,10247,Setophaga ruticilla,American Redstart,eatenBy
+52932,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+52932,12890,Catharus guttatus,Hermit Thrush,eatenBy
+52932,12901,Catharus fuscescens,Veery,eatenBy
+52932,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+52932,145238,Setophaga petechia,Yellow Warbler,eatenBy
+52932,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+52932,,Pacificanthia consors,,eatenBy
+52932,,Laphria asackeni,,eatenBy
+52932,12716,Turdus merula,Eurasian Blackbird,eatenBy
+52932,13094,Erithacus rubecula,European Robin,eatenBy
+52932,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+52932,,Setophaga virens,,eatenBy
+52932,,Empidonax traillii,,eatenBy
+52932,979756,Leiothlypis peregrina,Tennessee Warbler,eatenBy
+52932,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+52932,,Oporornis philadelphia,,eatenBy
+52932,,Wilsonia canadensis,,eatenBy
+52932,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+52932,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+52932,58729,Toxicodendron rydbergii,western poison ivy,pollinates
+52932,52111,Baccharis,,pollinates
+52932,50879,Erigeron,fleabanes and horseweeds,pollinates
+52932,52935,Eupatorium,bonesets,pollinates
+52932,57628,Eryngium,Eryngos,pollinates
+52932,,Argemone pleiacantha,,pollinates
+52932,,Clethra,,pollinates
+52932,,Chaptalia integerrima,,pollinates
+52932,,Actinocephalus polyanthus,,pollinates
+52932,,Weinmannia pinnata,,pollinates
+52932,,Campuloclinium megacephalum,,pollinates
+52932,,Barrosoa betonicifolia,,pollinates
+52932,,Grazielia gaudichaudeana,,pollinates
+52932,52932,Cantharidae,Soldier Beetles,preysOn
+52932,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+52932,47208,Coleoptera,Beetles,preysOn
+52932,47371,Theridiidae,Cobweb Spiders,preysOn
+52932,47951,Staphylinidae,Rove Beetles,preysOn
+52932,47415,Pardosa,Thin-legged Wolf Spiders,preysOn
+52932,57409,Phalangiidae,Phalangiid Harvestmen,preysOn
+52932,176197,Otiorhynchus,,preysOn
+52932,48139,Salticidae,Jumping Spiders,preysOn
+52932,122240,Porcellio,,preysOn
+52932,54964,Buprestidae,Metallic Wood-boring Beetles,preysOn
+52932,51146,Chrysomelidae,Leaf Beetles,preysOn
+52932,132036,Phalacridae,Shining Flower Beetles,preysOn
+52932,48292,Philoscia muscorum,Common Striped Woodlouse,preysOn
+52932,48295,Armadillidium,Pillbugs,preysOn
+52932,53248,Elateridae,Click Beetles,preysOn
+52932,57652,Trombidiidae,True Velvet Mites,preysOn
+52932,132449,Serica,,preysOn
+52932,,Campodea,,preysOn
+52932,739596,Lithobius mutabilis,,preysOn
+52932,,Centromerus prudens,,preysOn
+52932,,Veigaia cerva,,preysOn
+52932,,Microneta viaria,,preysOn
+52932,336973,Chordeumatidae,,preysOn
+52932,783981,Tapinocyba insecta,,preysOn
+52932,738601,Lithobius aeruginosus,,preysOn
+52932,,Macrocheles montanus,,preysOn
+52932,784185,Saloca diceros,,preysOn
+52932,205480,Trichoniscus,,preysOn
+52932,,Geholaspis mandibularis,,preysOn
+52932,784197,Walckenaeria dysderoides,,preysOn
+52932,490816,Neobisium,,preysOn
+52932,883059,Athous zebei,,preysOn
+52932,,Trichoniscus pusillus,,preysOn
+52932,784149,Diplocephalus picinus,,preysOn
+52932,56081,Glomeris,,preysOn
+52932,,Lithobius,,preysOn
+52932,,Uropoda,,preysOn
+52932,172978,Atheta,vexing rove beetles,preysOn
+52932,153747,Robertus,,preysOn
+52932,490815,Neobisium carcinoides,Moss Neobisid,preysOn
+52932,218587,Discus rotundatus,Rounded Snail,preysOn
+52932,452503,Robertus lividus,,preysOn
+52932,,Erigonella hiemalis,,preysOn
+52932,1029352,Scolopendrella,,preysOn
+52932,,Porcellium conspersum,,preysOn
+52932,,Macrocheles dentatus,,preysOn
+52932,121773,Clubionidae,Sac Spiders,preysOn
+52932,203242,Aleocharinae,,preysOn
+52932,494566,Athous subfuscus,,preysOn
+52932,,Euconulus fulvus,,preysOn
+52932,,Scutigerella immaculata,,preysOn
+52932,,Porcellio montanus,,preysOn
+52932,,Plectophoreus fischeri,,preysOn
+52932,466998,Linyphia hortensis,,preysOn
+52932,1110643,Haplophthalmus mengii,,preysOn
+52932,,Geophilus ribauti,,preysOn
+52932,,Pachylaelaps laeuchlii,,preysOn
+52932,397950,Tenuiphantes tenuis,,preysOn
+52932,121483,Julidae,,preysOn
+52932,784196,Walckenaeria cucullata,,preysOn
+52932,371954,Ligidium hypnorum,Carr Slater,preysOn
+52932,498632,Lithobius dentatus,,preysOn
+52932,521083,Strigamia acuminata,,preysOn
+52932,,Athous,,preysOn
+52932,,Malthodes,,preysOn
+52932,1004280,Othius subuliformis,,preysOn
+52932,,Vitrea diaphana,,preysOn
+52932,203275,Xantholinus,,preysOn
+52932,,Macrocheles,,preysOn
+52932,,Diplocephalus latifrons,,preysOn
+52932,,Scydmaenidae,,preysOn
+52932,,Lamprohiza splendidula,,preysOn
+52932,1004314,Oxypoda annularis,,preysOn
+52932,,Dinychus perforatus,,preysOn
+52932,953750,Acrotona sylvicola,,preysOn
+52932,,Polydesmidae,,preysOn
+52932,457780,Geostiba circellaris,,preysOn
+52932,,Saaristoa abnormis,,preysOn
+52932,553746,Glomeris connexa,,preysOn
+52932,,Paragamasus lapponicus,,preysOn
+52932,,Hahnia pusilla,,preysOn
+52932,784293,Pelecopsis radicicola,,preysOn
+52932,,Aegopinella pura,,preysOn
+52932,,Acrotrichis,,preysOn
+52932,,Allajulus nitidus,,preysOn
+52932,359911,Staphylininae,,preysOn
+52932,,Trechinae,,preysOn
+52932,778699,Macrargus rufus,,preysOn
+52932,,Perpolita hammonis,,preysOn
+52932,784286,Micrargus apertus,,preysOn
+52932,568199,Lithobius curtipes,,preysOn
+52932,,Microlinyphia pusilla,,preysOn
+52932,,Cylisticus,,preysOn
+52932,537133,Lithobius crassipes,,preysOn
+52932,,Pergamasus crassipes,,preysOn
+52932,,Pulmonata,,preysOn
+52932,1000825,Nargus wilkinii,,preysOn
+52932,876506,Nargus anisotomoides,,preysOn
+52932,233615,Walckenaeria cuspidata,Tipped Sheet-web Weaver,preysOn
+52932,153535,Phidippus princeps,Grayish Jumping Spider,preyedUponBy
+52932,52932,Cantharidae,Soldier Beetles,preyedUponBy
+52932,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+52932,49567,Carabidae,Ground Beetles,preyedUponBy
+52932,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+52932,47866,Thomisidae,Crab Spiders,preyedUponBy
+52932,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+52932,47951,Staphylinidae,Rove Beetles,preyedUponBy
+52932,47345,Agelenidae,Funnel Weavers,preyedUponBy
+52932,132021,Philonthus,,preyedUponBy
+52932,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+52932,47416,Lycosidae,Wolf Spiders,preyedUponBy
+52932,84494,Paraphidippus aurantius,Golden Jumping Spider,preyedUponBy
+52932,701197,Inermocoelotes inermis,,preyedUponBy
+52932,739596,Lithobius mutabilis,,preyedUponBy
+52932,,Geophilus studeri,,preyedUponBy
+52932,127023,Amaurobius,Lace web spider,preyedUponBy
+52932,498635,Lithobius piceus,,preyedUponBy
+52932,,Lithobius,,preyedUponBy
+52932,738601,Lithobius aeruginosus,,preyedUponBy
+52932,525704,Trogulus tricarinatus,,preyedUponBy
+52932,494277,Molops piceus,,preyedUponBy
+52932,452503,Robertus lividus,,preyedUponBy
+52932,130411,Abax,,preyedUponBy
+52932,362800,Clubiona comta,,preyedUponBy
+52932,705967,Harpactea lepida,,preyedUponBy
+52932,,Geophilus ribauti,,preyedUponBy
+52932,521083,Strigamia acuminata,,preyedUponBy
+52932,466998,Linyphia hortensis,,preyedUponBy
+52932,568199,Lithobius curtipes,,preyedUponBy
+52932,491325,Geophilus electricus,,preyedUponBy
+52932,498632,Lithobius dentatus,,preyedUponBy
+52932,131880,Notiophilus biguttatus,,preyedUponBy
+52932,496759,Geophilus insculptus,,preyedUponBy
+52932,,Cochlodryas,,preyedUponBy
+52932,230519,Schendyla nemorensis,,preyedUponBy
+52932,537133,Lithobius crassipes,,preyedUponBy
+52932,701423,Histopona torpida,,preyedUponBy
+52932,131093,Harpalus,,preyedUponBy
+52932,131009,Calathus melanocephalus,,preyedUponBy
+52932,605685,Coelotes terrestris,,preyedUponBy
+52932,130409,Abax parallelepipedus,,preyedUponBy
+52932,1019272,Xantholinus laevigatus,,preyedUponBy
+52932,131980,Trechus,,preyedUponBy
+52932,498011,Abax ovalis,,preyedUponBy
+52932,416678,Callobius claustrarius,,preyedUponBy
+52932,129017,Araniella cucurbitina,Cucumber Green Spider,preyedUponBy
+52932,360817,Coelotes,,preyedUponBy
+52932,,Lithobius muticus,,preyedUponBy
+52932,710435,Molops elatus,,preyedUponBy
+52932,905423,Lithobius macilentus,,preyedUponBy
+52932,131881,Notiophilus,,preyedUponBy
+52932,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preyedUponBy
+52932,526528,Anelasmocephalus cambridgei,,preyedUponBy
+52932,,Pterostichus burmeisteri,,preyedUponBy
+52932,,Crychus caraboides,,preyedUponBy
+52932,407287,Lithobius melanops,,preyedUponBy
+52932,154600,Agonum,,preyedUponBy
+52932,336908,Cryptops hortensis,Common Cryptops,preyedUponBy
+52932,637234,Xysticus erraticus,,preyedUponBy
+52932,357413,Evarcha arcuata,,preyedUponBy
+52932,131102,Harpalus tardus,,preyedUponBy
+52932,,Haplodrassus silvstris,,preyedUponBy
+52932,360548,Zora spinimana,,preyedUponBy
+52932,212779,Agonum muelleri,,preyedUponBy
+52932,,Lathrobium brunnipes,,preyedUponBy
+52932,318917,Euryopis flavomaculata,,preyedUponBy
+52932,,Lithobius erythrocephalus,,preyedUponBy
+52932,,Lithobius forficatus,,preyedUponBy
+52932,,Pamagaeus bipustulatus,,preyedUponBy
+52932,,Amaurobius fenestralis,,preyedUponBy
+52932,130433,Amara aenea,Common Sun Beetle,preyedUponBy
+52932,,Geophilus truncorum,,preyedUponBy
+52932,,Clubiona pallidula,,preyedUponBy
+52932,,Phyllostomus hastatus,,preyedUponBy

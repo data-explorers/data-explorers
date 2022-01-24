@@ -1,0 +1,230 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48139,49996,Anthomyiidae,Root-maggot Flies,eats
+48139,49470,Collembola,Springtails,eats
+48139,126532,Toxomerus geminatus,Eastern Calligrapher,eats
+48139,464062,Nephrotoma crocata,,eats
+48139,,Erythroxlum sechellarum,,eats
+48139,365690,Nephrosperma van-houtteanum,,eats
+48139,366006,Roscheria melanochaetes,,eats
+48139,182097,Soulamea,,eats
+48139,183430,Excoecaria,,eats
+48139,,Campnospermum seychellarum,,eats
+48139,,Nephentes pervillei,,eats
+48139,185785,Mimusops,Red Milkwoods,eats
+48139,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+48139,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+48139,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+48139,17355,Vireo,Vireos,eatenBy
+48139,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+48139,17356,Vireo bellii,Bell's Vireo,eatenBy
+48139,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48139,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48139,,Corvus caurinus,,eatenBy
+48139,,Dendroica kirtlandii,,eatenBy
+48139,,Vireo flavifrons,,eatenBy
+48139,17408,Vireo griseus,White-eyed Vireo,eatenBy
+48139,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+48139,17394,Vireo gilvus,Warbling Vireo,eatenBy
+48139,7603,Auriparus flaviceps,Verdin,eatenBy
+48139,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+48139,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+48139,59774,Pachydiplax longipennis,Blue Dasher,preysOn
+48139,103498,Ischnura posita,Fragile Forktail,preysOn
+48139,70144,Muscidae,House Flies and Allies,preysOn
+48139,47118,Araneae,Spiders,preysOn
+48139,373577,Typhlocybinae,,preysOn
+48139,47157,Lepidoptera,Butterflies and Moths,preysOn
+48139,53275,Chironomidae,Non-biting Midges,preysOn
+48139,47742,Pentatomidae,Stink Bugs,preysOn
+48139,53237,Cicadellidae,Typical Leafhoppers,preysOn
+48139,133495,Deltocephalinae,,preysOn
+48139,52073,Fulgoroidea,Planthoppers,preysOn
+48139,130033,Culex,,preysOn
+48139,61267,Heteroptera,True Bugs,preysOn
+48139,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+48139,47868,Philodromidae,Running Crab Spiders,preysOn
+48139,48286,Rhinophoridae,Woodlouse Flies,preysOn
+48139,48086,Agromyzidae,Leaf-miner Flies,preysOn
+48139,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+48139,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+48139,47208,Coleoptera,Beetles,preysOn
+48139,126791,Nitidulidae,Sap-feeding Beetles,preysOn
+48139,47535,Araneidae,Orbweavers,preysOn
+48139,53816,Tenebrionidae,Darkling Beetles,preysOn
+48139,57652,Trombidiidae,True Velvet Mites,preysOn
+48139,132449,Serica,,preysOn
+48139,324726,Lycorma delicatula,Spotted Lanternfly,preysOn
+48139,752391,Fucellia thinobia,Cormorant Fly,preysOn
+48139,135289,Myrmarachne formicaria,,preysOn
+48139,228855,Protodeltote muscosula,Large Mossy Glyph,preysOn
+48139,114476,Trithemis festiva,Black Stream Glider,preysOn
+48139,114466,Trithemis aurora,Crimson Dropwing,preysOn
+48139,47934,Libellula luctuosa,Widow Skimmer,preysOn
+48139,99917,Enallagma novaehispaniae,Neotropical Bluet,preysOn
+48139,130265,Tetramesa,,preysOn
+48139,624522,Hebrus pusillus,,preysOn
+48139,342818,Proctotrupoidea,,preysOn
+48139,174422,Hybotidae,Hybotid Dance Flies,preysOn
+48139,605071,Cicadina,,preysOn
+48139,177092,Meligethes,,preysOn
+48139,123608,Delphacidae,,preysOn
+48139,360744,Marpissa radiata,,preysOn
+48139,,Pipinculus sp,,preysOn
+48139,203300,Tetrastichus,,preysOn
+48139,554158,Chartoscirta cincta,,preysOn
+48139,546367,Nemotelus pantherinus,Fen Snout,preysOn
+48139,52380,Aphidoidea,,preysOn
+48139,143336,Phlaeothripidae,Tube-tailed Thrips,preysOn
+48139,578473,Herina frondescentiae,,preysOn
+48139,121774,Clubiona,Leafcurling Sac Spiders,preysOn
+48139,50190,Cicadoidea,Cicadas,preysOn
+48139,146722,Marpissa,,preysOn
+48139,123596,Chilocorus bipustulatus,Heather Ladybird,preysOn
+48139,,Sitticus,,preysOn
+48139,,Herina parva,,preysOn
+48139,,Aprostocetus,,preysOn
+48139,49460,Empididae,Dance Flies,preysOn
+48139,1200309,Argyra vestita,,preysOn
+48139,,Ootetrastichus,,preysOn
+48139,1200333,Teuchophorus calcaratus,,preysOn
+48139,,Sitticus caricis,,preysOn
+48139,,Aphthona lutescens,,preysOn
+48139,153881,Ozyptila,Leaflitter Crab Spiders,preysOn
+48139,354851,Eucoilinae,,preysOn
+48139,61762,Evarcha,,preysOn
+48139,531182,Clubiona subtilis,,preysOn
+48139,531180,Clubiona juvenis,,preysOn
+48139,232475,Thanatus striatus,Five-striped Spider,preysOn
+48139,248060,Dixella,,preysOn
+48139,178192,Hebridae,Velvet Water Bugs,preysOn
+48139,,Lithobius,,preysOn
+48139,203242,Aleocharinae,,preysOn
+48139,131123,Eusphalerum,,preysOn
+48139,494566,Athous subfuscus,,preysOn
+48139,784149,Diplocephalus picinus,,preysOn
+48139,,Trachytes aegrota,,preysOn
+48139,,Athous,,preysOn
+48139,738601,Lithobius aeruginosus,,preysOn
+48139,,Trichoniscus pusillus,,preysOn
+48139,,Scutigerella immaculata,,preysOn
+48139,765638,Lithobius calcaratus,,preysOn
+48139,153747,Robertus,,preysOn
+48139,1029352,Scolopendrella,,preysOn
+48139,203275,Xantholinus,,preysOn
+48139,568643,Lysigamasus,,preysOn
+48139,778930,Tenuiphantes mengei,,preysOn
+48139,,Pergamasinae (juv) {s},,preysOn
+48139,,Paragamasus lapponicus,,preysOn
+48139,205480,Trichoniscus,,preysOn
+48139,490816,Neobisium,,preysOn
+48139,784185,Saloca diceros,,preysOn
+48139,359911,Staphylininae,,preysOn
+48139,,Plectophoreus fischeri,,preysOn
+48139,457780,Geostiba circellaris,,preysOn
+48139,,Dinychus perforatus,,preysOn
+48139,1110643,Haplophthalmus mengii,,preysOn
+48139,,Macrocheles dentatus,,preysOn
+48139,,Trachytes,,preysOn
+48139,172978,Atheta,vexing rove beetles,preysOn
+48139,,Erigonella hiemalis,,preysOn
+48139,,Pachylaelaps laeuchlii,,preysOn
+48139,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+48139,58416,Phidippus clarus,Brilliant Jumping Spider,preyedUponBy
+48139,47118,Araneae,Spiders,preyedUponBy
+48139,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+48139,47868,Philodromidae,Running Crab Spiders,preyedUponBy
+48139,47866,Thomisidae,Crab Spiders,preyedUponBy
+48139,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+48139,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+48139,47345,Agelenidae,Funnel Weavers,preyedUponBy
+48139,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+48139,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+48139,47951,Staphylinidae,Rove Beetles,preyedUponBy
+48139,49567,Carabidae,Ground Beetles,preyedUponBy
+48139,52932,Cantharidae,Soldier Beetles,preyedUponBy
+48139,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+48139,47416,Lycosidae,Wolf Spiders,preyedUponBy
+48139,148395,Trochosa,,preyedUponBy
+48139,328131,Gibellula pulchra,,preyedUponBy
+48139,466448,Auplopus carbonarius,,preyedUponBy
+48139,891015,Agenioideus cinctellus,,preyedUponBy
+48139,157990,Menemerus semilimbatus,,preyedUponBy
+48139,265665,Auplopus architectus,,preyedUponBy
+48139,486456,Colonus sylvanus,Sylvan Jumping Spider,preyedUponBy
+48139,100372,Erpetogomphus eutainia,Blue-faced Ringtail,preyedUponBy
+48139,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+48139,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+48139,82118,Dolomedes,Fishing Spiders,preyedUponBy
+48139,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+48139,61762,Evarcha,,preyedUponBy
+48139,153863,Thanatus,,preyedUponBy
+48139,360744,Marpissa radiata,,preyedUponBy
+48139,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+48139,153861,Tibellus maritimus,,preyedUponBy
+48139,,Sitticus,,preyedUponBy
+48139,531184,Clubiona stagnatilis,,preyedUponBy
+48139,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+48139,531180,Clubiona juvenis,,preyedUponBy
+48139,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+48139,129878,Nabidae,Damsel Bugs,preyedUponBy
+48139,531182,Clubiona subtilis,,preyedUponBy
+48139,,Sitticus caricis,,preyedUponBy
+48139,887499,Himacerus boops,,preyedUponBy
+48139,447460,Clubiona phragmitis,,preyedUponBy
+48139,146722,Marpissa,,preyedUponBy
+48139,232475,Thanatus striatus,Five-striped Spider,preyedUponBy
+48139,407287,Lithobius melanops,,preyedUponBy
+48139,,Microneta viaria,,preyedUponBy
+48139,,Euophrys frontalis,,preyedUponBy
+48139,765638,Lithobius calcaratus,,preyedUponBy
+48139,127023,Amaurobius,Lace web spider,preyedUponBy
+48139,,Lithobius,,preyedUponBy
+48139,738601,Lithobius aeruginosus,,preyedUponBy
+48139,,Campodea,,preyedUponBy
+48139,705967,Harpactea lepida,,preyedUponBy
+48139,521083,Strigamia acuminata,,preyedUponBy
+48139,701197,Inermocoelotes inermis,,preyedUponBy
+48139,494277,Molops piceus,,preyedUponBy
+48139,739596,Lithobius mutabilis,,preyedUponBy
+48139,,Geophilus studeri,,preyedUponBy
+48139,,Geophilus ribauti,,preyedUponBy
+48139,121773,Clubionidae,Sac Spiders,preyedUponBy
+48139,784196,Walckenaeria cucullata,,preyedUponBy
+48139,466998,Linyphia hortensis,,preyedUponBy
+48139,153747,Robertus,,preyedUponBy
+48139,498632,Lithobius dentatus,,preyedUponBy
+48139,397950,Tenuiphantes tenuis,,preyedUponBy
+48139,452503,Robertus lividus,,preyedUponBy
+48139,131093,Harpalus,,preyedUponBy
+48139,,Cochlodryas,,preyedUponBy
+48139,1255692,Enoplognatha ovata,Candy-striped Spider complex,preyedUponBy
+48139,496759,Geophilus insculptus,,preyedUponBy
+48139,,Malthodes,,preyedUponBy
+48139,,Lithobius muticus,,preyedUponBy
+48139,233604,Walckenaeria atrotibialis,,preyedUponBy
+48139,605685,Coelotes terrestris,,preyedUponBy
+48139,496623,Notiophilus rufipes,,preyedUponBy
+48139,491325,Geophilus electricus,,preyedUponBy
+48139,203236,Quedius,,preyedUponBy
+48139,131881,Notiophilus,,preyedUponBy
+48139,1019272,Xantholinus laevigatus,,preyedUponBy
+48139,498011,Abax ovalis,,preyedUponBy
+48139,360817,Coelotes,,preyedUponBy
+48139,416678,Callobius claustrarius,,preyedUponBy
+48139,,Domene scabricollis,,preyedUponBy
+48139,639655,Xysticus lanio,,preyedUponBy
+48139,701423,Histopona torpida,,preyedUponBy
+48139,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preyedUponBy
+48139,233615,Walckenaeria cuspidata,Tipped Sheet-web Weaver,preyedUponBy
+48139,783417,Brigittea latens,,preyedUponBy
+48139,,Gyrohypnus,,preyedUponBy
+48139,230519,Schendyla nemorensis,,preyedUponBy
+48139,1004280,Othius subuliformis,,preyedUponBy
+48139,537133,Lithobius crassipes,,preyedUponBy
+48139,494177,Ballus chalybeius,,preyedUponBy
+48139,,Centomerus sylvaticus,,preyedUponBy
+48139,,Walckenaeria corniculans,,preyedUponBy
+48139,783658,Walckenaeria nudipalpis,,preyedUponBy
+48139,568199,Lithobius curtipes,,preyedUponBy
+48139,,Rhagonycha lignosa,,preyedUponBy
+48139,491485,Pterostichus oblongopunctatus,Bronzed Blackclock,preyedUponBy

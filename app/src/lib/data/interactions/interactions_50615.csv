@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50615,69114,Pogonomyrmex,Harvester Ants,eatenBy
+50615,47822,Diptera,Flies,eatenBy
+50615,125816,Auchenorrhyncha,True Hoppers,eatenBy
+50615,,Lepus californicus,,eatenBy
+50615,,Lepus townsendii,,eatenBy
+50615,,Heliodines nyctaginella,,eatenBy
+50615,,Heliodines,,eatenBy
+50615,3460,Zenaida asiatica,White-winged Dove,eatenBy
+50615,,Cynanthus latirostris,,pollinatedBy

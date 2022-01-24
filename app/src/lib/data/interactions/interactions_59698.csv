@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59698,1,Animalia,Animals,eats
+59698,85493,Crustacea,Crustaceans,eats
+59698,799889,Perophora regina,,eats
+59698,,unspecified,,eats
+59698,,Pisces,,eats
+59698,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+59698,6930,Anas platyrhynchos,Mallard,eatenBy
+59698,432505,Onykia robusta,Robust Clubhook Squid,eatenBy
+59698,4144,Phoebastria immutabilis,Laysan Albatross,eatenBy
+59698,4141,Phoebastria nigripes,Black-footed Albatross,eatenBy
+59698,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+59698,4070,Oceanodroma tristrami,Tristram's Storm-Petrel,eatenBy
+59698,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+59698,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+59698,63697,Metacarcinus magister,Dungeness Crab,preyedUponBy
+59698,,Ianthina pallida,,preyedUponBy
+59698,,Ianthina exigua,,preyedUponBy
+59698,,Ianthina janthina,,preyedUponBy

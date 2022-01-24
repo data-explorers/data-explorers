@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48959,47822,Diptera,Flies,eats
+48959,904362,Hemilucilia segmentaria,,eats
+48959,700122,Lucilia eximia,,eats
+48959,120921,Cochliomyia macellaria,Secondary Screwworm Fly,eats
+48959,17355,Vireo,Vireos,eatenBy
+48959,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+48959,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48959,17356,Vireo bellii,Bell's Vireo,eatenBy
+48959,17009,Sayornis saya,Say's Phoebe,eatenBy
+48959,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+48959,7464,Catherpes mexicanus,Canyon Wren,eatenBy
+48959,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+48959,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+48959,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+48959,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+48959,7294,Eremophila alpestris,Horned Lark,eatenBy
+48959,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+48959,609411,Brycon dentex,,eatenBy
+48959,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+48959,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48959,145250,Setophaga adelaidae,Adelaide's Warbler,eatenBy
+48959,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+48959,7603,Auriparus flaviceps,Verdin,eatenBy
+48959,,Vireo flavifrons,,eatenBy
+48959,17408,Vireo griseus,White-eyed Vireo,eatenBy
+48959,,Salpinctes obsoletus,,eatenBy
+48959,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+48959,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+48959,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+48959,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+48959,19577,Chordeiles minor,Common Nighthawk,eatenBy
+48959,6667,Cypseloides niger,Black Swift,eatenBy
+48959,,Spiza americana,,eatenBy
+48959,48484,Harmonia axyridis,Asian Lady Beetle,preysOn
+48959,47219,Apis mellifera,Western Honey Bee,preysOn
+48959,55626,Pieris rapae,Cabbage White,preysOn
+48959,,Coelophora inaequalis,,preysOn
+48959,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+48959,129423,Zelus luridus,Pale Green Assassin Bug,preyedUponBy
+48959,62624,Phidippus putnami,Putnam's Jumping Spider,preyedUponBy
+48959,84494,Paraphidippus aurantius,Golden Jumping Spider,preyedUponBy
+48959,179749,Phidippus regius,Regal Jumping Spider,preyedUponBy
+48959,126838,Eciton burchellii,,preyedUponBy

@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52188,85493,Crustacea,Crustaceans,eats
+52188,47178,Actinopterygii,Ray-finned Fishes,eats
+52188,47459,Cephalopoda,Cephalopods,eats
+52188,1,Animalia,Animals,eats
+52188,69675,Thunnus albacares,Yellowfin Tuna,eats
+52188,47115,Mollusca,Molluscs,eats
+52188,47126,Plantae,plants,eats
+52188,63418,Lutjanus cyanopterus,Cubera Snapper,eats
+52188,480415,Acartia clausi,,eats
+52188,,Pisces,,eats
+52188,,Gnathostomata,,eats
+52188,,,,eats
+52188,194669,Muraenesox bagio,Common Pike-conger,eats
+52188,,Phytoplankton,,eats
+52188,,Decabrachia,,eats
+52188,,plank. Invertebrates,,eats
+52188,,Osteichthyes,,eats
+52188,,unspecified zooplankton,,eats
+52188,,Pseudeuphausia latifrons,,eats
+52188,188362,Scomberomorus guttatus,Indo-Pacific King Mackerel,eats
+52188,41521,Orcinus orca,Orca,eatenBy
+52188,50873,Carcharodon carcharias,Great White Shark,eatenBy
+52188,,Pseudeuphausia latifrons,,preysOn
+52188,480415,Acartia clausi,,preysOn
+52188,,no name,,preyedUponBy
+52188,110361,Prionace glauca,Blue Shark,preyedUponBy
+52188,147455,Makaira nigricans,Blue Marlin,preyedUponBy

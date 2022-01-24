@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83224,61267,Heteroptera,True Bugs,preyedUponBy
+83224,52788,Acari,Mites and Ticks,preyedUponBy
+83224,624522,Hebrus pusillus,,preyedUponBy
+83224,173319,Brachygluta,,preyedUponBy
+83224,130583,Anotylus,,preyedUponBy
+83224,251175,Edaphus,,preyedUponBy
+83224,,Comantenna,,preyedUponBy
+83224,,Hebrus ruficeps,,preyedUponBy
+83224,178192,Hebridae,Velvet Water Bugs,preyedUponBy
+83224,988384,Bryaxis bulbifer,,preyedUponBy
+83224,131906,Oxytelus,,preyedUponBy

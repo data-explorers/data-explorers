@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+76465,47219,Apis mellifera,Western Honey Bee,eatenBy
+76465,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+76465,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+76465,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+76465,48662,Danaus plexippus,Monarch,eatenBy
+76465,128824,Lucilia sericata,Common European Greenbottle Fly,eatenBy
+76465,,Eupeodes volucris,,eatenBy
+76465,,Habropoda depressa,,eatenBy
+76465,55719,Eristalis tenax,Common Drone Fly,eatenBy
+76465,,Lapposyrphus lapponicus,,eatenBy
+76465,121357,Platycheirus,Sedgesitters,eatenBy
+76465,322368,Syrphus opinator,Black-margined Flower Fly,eatenBy

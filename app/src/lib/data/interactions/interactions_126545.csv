@@ -1,0 +1,129 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126545,1,Animalia,Animals,eats
+126545,50879,Erigeron,fleabanes and horseweeds,eats
+126545,56112,Symphyotrichum,American asters,eats
+126545,47179,Arctostaphylos,bearberries and manzanitas,eats
+126545,130989,Euthamia graminifolia,flat-topped goldenrod,eats
+126545,53052,Foeniculum vulgare,fennel,eats
+126545,52736,Monarda,beebalms and bergamots,eats
+126545,52818,Achillea,yarrows,eats
+126545,55425,Cucurbita,gourds,eats
+126545,53186,Potentilla,cinquefoils,eats
+126545,81942,Penstemon digitalis,foxglove beardtongue,eats
+126545,47603,Taraxacum,dandelions,eats
+126545,77155,Fragaria virginiana,Virginia strawberry,eats
+126545,47602,Taraxacum officinale,common dandelion,eats
+126545,56992,Lobularia maritima,sweet alyssum,eats
+126545,48678,Solidago,goldenrods,eats
+126545,48237,Astropecten,,eats
+126545,51769,Gaillardia,Blanket Flowers,eats
+126545,58827,Euthamia,grass-leaved goldenrods,eats
+126545,85320,Monarda fistulosa,wild bergamot,eats
+126545,125381,Asclepias incarnata,swamp milkweed,eats
+126545,126823,Spiraea alba,white meadowsweet,eats
+126545,48063,Lysimachia,Loosestrifes,eats
+126545,158286,Amorpha canescens,leadplant,eats
+126545,47193,Cornus,dogwoods,eats
+126545,51723,Baptisia,Wild Indigos,eats
+126545,77719,Leucanthemum maximum,Shasta Daisy,eats
+126545,49230,Amelanchier,serviceberries,eats
+126545,53327,Vinca,periwinkles,eats
+126545,85380,Eutrochium,Joe-Pye weeds,eats
+126545,52833,Anaphalis margaritacea,pearly everlasting,eats
+126545,130380,Liatris aspera,rough blazing star,eats
+126545,52821,Achillea millefolium,Common Yarrow,eats
+126545,76610,Daucus carota,wild carrot,eats
+126545,52689,Sambucus,elders,eats
+126545,47791,Myrtales,"myrtles, evening primroses, and allies",eats
+126545,48627,Echinacea purpurea,purple coneflower,eats
+126545,75445,Anethum graveolens,Dill,eats
+126545,,Solidago altissima,,eats
+126545,,Allium,,eats
+126545,119809,Lonicera sempervirens,coral honeysuckle,eats
+126545,,Parthenium integrifolium,,eats
+126545,,Silene regia,,eats
+126545,,Filipendula rubra,,eats
+126545,,Zizia aurea,,eats
+126545,,Ficaria verna,,eats
+126545,,Mimulus ringens,,eats
+126545,,Galerida,,eats
+126545,,Lysimachia ciliata,,eats
+126545,,Sparganium,,eats
+126545,126768,Pycnanthemum muticum,Clustered Mountainmint,eats
+126545,,Erigenia bulbosa,,eats
+126545,122249,Symphyotrichum lateriflorum,calico aster,eats
+126545,,Erigeron glaucus,,eats
+126545,,Aquilegia formosa,,eats
+126545,78346,Papaver somniferum,opium poppy,eats
+126545,,Nemophila maculata,,eats
+126545,,Lachnophyllum noeanum,,eats
+126545,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+126545,49917,Sisyrinchium,blue-eyed grasses,pollinates
+126545,57628,Eryngium,Eryngos,pollinates
+126545,122970,Helianthus tuberosus,Jerusalem artichoke,pollinates
+126545,77155,Fragaria virginiana,Virginia strawberry,pollinates
+126545,52635,Agastache,Hyssop,pollinates
+126545,142279,Symphyotrichum pilosum,hairy white oldfield aster,pollinates
+126545,67772,Uvularia sessilifolia,sessile bellwort,pollinates
+126545,50321,Lathyrus,sweet peas and vetchlings,pollinates
+126545,53794,Clintonia borealis,bluebead lily,pollinates
+126545,47192,Cornus canadensis,Canadian bunchberry,pollinates
+126545,67748,Maianthemum canadense,Canada mayflower,pollinates
+126545,119828,Aralia nudicaulis,wild sarsaparilla,pollinates
+126545,1091062,Calydorea campestris,,pollinates
+126545,,Cypella geniculata,,pollinates
+126545,,Gaylussacia,,pollinates
+126545,,Ouratea,,pollinates
+126545,289566,Chaptalia runcinata,,pollinates
+126545,,Viola diffusa,,pollinates
+126545,,Echium plantagineum,,pollinates
+126545,,Oxalis conorrhiza,,pollinates
+126545,1063807,Gyptis lanigera,,pollinates
+126545,,Sommerfeltia spinulosa,,pollinates
+126545,,Hysterionica pinifolia,,pollinates
+126545,,Oxalis articulata,,pollinates
+126545,,Eryngium stenophyllum,,pollinates
+126545,,Echinacea pallida,,pollinates
+126545,,Hepatica nobilis,,pollinates
+126545,,Hibiscus lasiocarpos,,pollinates
+126545,125380,Asclepias purpurascens,purple milkweed,pollinates
+126545,,Ludwigia polycarpa,,pollinates
+126545,,Alisma,,pollinates
+126545,,Heracleum lanatum,,pollinates
+126545,,Astragalus canadensis,,pollinates
+126545,48385,Heuchera,alumroots,pollinates
+126545,,Hibiscus laevis,,pollinates
+126545,,Lycopus americanus,,pollinates
+126545,,Geum canadense,,pollinates
+126545,77411,Hibiscus trionum,flower-of-an-hour,pollinates
+126545,,Kalmia polifolia,,pollinates
+126545,128798,Aronia melanocarpa,black chokeberry,pollinates
+126545,,Ilex mucronata,,pollinates
+126545,,http://treatment.plazi.org/id/7CF5D90BA350ADBB07186A8272DB4681,,pollinates
+126545,81795,Enemion biternatum,false rue anemone,pollinates
+126545,83588,Mikania,hempvines,pollinates
+126545,,Pagameopsis garryoides,,pollinates
+126545,,Siphanthera cordifolia,,pollinates
+126545,,Spermacoce capitata,,pollinates
+126545,,Sagittaria guayanensis,,pollinates
+126545,,Pterolepis glomerata,,pollinates
+126545,336515,Ludwigia nervosa,,pollinates
+126545,,Sauvagesia rubiginosa,,pollinates
+126545,118548,Thalictrum thalictroides,rue anemone,pollinates
+126545,126702,Stellaria pubera,star chickweed,pollinates
+126545,,Hepatica nobilis obtusa,,pollinates
+126545,,Erythronium umbilicatum,,pollinates
+126545,,Tunilla corrugata,,pollinates
+126545,,Grindelia chiloensis,,pollinates
+126545,,Baccharis angustifolia,,pollinates
+126545,,Oxalis montana,,pollinates
+126545,51435,Trillium undulatum,painted trillium,pollinates
+126545,,Orthilia secunda,,pollinates
+126545,77780,Linnaea borealis,twinflower,pollinates
+126545,,Madia sativa,,pollinates
+126545,55971,Tanacetum vulgare,tansy,pollinates
+126545,,Bombus ternarius,,pollinates
+126545,,Efferia aestuans,,preyedUponBy
+126545,,Taracticus octopunctatus,,preyedUponBy
+126545,,Pselliopus cinctus,,preyedUponBy
+126545,,Philanthus gibbosus,,preyedUponBy

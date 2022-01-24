@@ -1,0 +1,115 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53352,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+53352,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+53352,50392,Polygonia,Commas,eatenBy
+53352,146979,Dasychira,,eatenBy
+53352,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+53352,55624,Acronicta,Dagger Moths,eatenBy
+53352,81681,Campaea perlata,Pale Beauty,eatenBy
+53352,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+53352,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+53352,143427,Prociphilus tessellatus,Woolly Alder Aphid,eatenBy
+53352,9919,Piranga ludoviciana,Western Tanager,eatenBy
+53352,47219,Apis mellifera,Western Honey Bee,eatenBy
+53352,319203,Dasineura,,eatenBy
+53352,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+53352,60607,Limenitis arthemis,Red-spotted Admiral,eatenBy
+53352,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+53352,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+53352,49921,Nymphalis,Tortoiseshells,eatenBy
+53352,81682,Campaea,,eatenBy
+53352,54573,Schizophyllum commune,splitgill mushroom,eatenBy
+53352,124705,Pholiota aurivella,Golden Pholiota,eatenBy
+53352,203711,Trametes pubescens,,eatenBy
+53352,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+53352,,Ribautiana ulmi,,eatenBy
+53352,,Pterocallis alni,,eatenBy
+53352,,Calaphis flava,,eatenBy
+53352,,Heterarthrus vagans,,eatenBy
+53352,,Eriocampa ovata,,eatenBy
+53352,62417,Cimbex connatus,Large Alder Sawfly,eatenBy
+53352,,Tenthredo ferruginea,,eatenBy
+53352,,Rhogogaster chlorosoma,,eatenBy
+53352,,Nematinus luteus,,eatenBy
+53352,344755,Hemichroa crocea,striped alder sawfly,eatenBy
+53352,,Craesus alniastri,,eatenBy
+53352,,Nematus (Pteronidea) umbratus,,eatenBy
+53352,,Pamphilius vafer,,eatenBy
+53352,,Rhogogaster viridis,,eatenBy
+53352,775763,Xiphydria camelus,alder wood wasp,eatenBy
+53352,,Rhogogaster punctulata,,eatenBy
+53352,,Monsoma pulveratum,,eatenBy
+53352,,Fenusa dohrnii,,eatenBy
+53352,,Hemichroa australis,,eatenBy
+53352,,Nematinus fuscipennis,,eatenBy
+53352,,Nematus (Pteronidea) pavidus,,eatenBy
+53352,,Craesus septentrionalis,,eatenBy
+53352,,Platycampus luridiventris,,eatenBy
+53352,,Nematus (Pteronidea) viridissimus,,eatenBy
+53352,,Cryptorhynchus lapathi,,eatenBy
+53352,130432,Alosterna tabacicolor,tobacco-coloured longhorn beetle,eatenBy
+53352,,Grynobius planus,,eatenBy
+53352,,Nivellia sanguinosa,,eatenBy
+53352,,Trachodes hispidus,,eatenBy
+53352,,Saperda scalaris,,eatenBy
+53352,124366,Callidium violaceum,Violet tanbark beetle,eatenBy
+53352,,Sinodendron cylindricum,,eatenBy
+53352,1015950,Scaphisoma subalpinum,,eatenBy
+53352,,Litargus connexus,,eatenBy
+53352,,Curtimorda bisignata,,eatenBy
+53352,,Synchita separanda,,eatenBy
+53352,,Endomychus coccineus,,eatenBy
+53352,,Zavaljus brunneus,,eatenBy
+53352,,Latridius hirtus,,eatenBy
+53352,,Mycetophagus decempunctatus,,eatenBy
+53352,,Corticarina lambiana,,eatenBy
+53352,,Cryptophagus confusus,,eatenBy
+53352,,Anthrenus museorum,,eatenBy
+53352,943194,Mycetophagus populi,,eatenBy
+53352,,Tetratoma fungorum,,eatenBy
+53352,,Argyresthia goedartella,,eatenBy
+53352,,Sparganothis pettitana,,eatenBy
+53352,,Clepsis persicana,,eatenBy
+53352,,Metendothenia atropunctana,,eatenBy
+53352,,Epinotia cruciana,,eatenBy
+53352,,Olethreutes brunneopurpuratum,,eatenBy
+53352,,Hedya dimidioalba,,eatenBy
+53352,,Epinotia tetraquetrana,,eatenBy
+53352,,Argyrotaenia mariana,,eatenBy
+53352,,Spilonota ocellana,,eatenBy
+53352,220674,Gretchena watchungana,,eatenBy
+53352,,Amorbia humerosana,,eatenBy
+53352,,Epinotia sordidana,,eatenBy
+53352,,Epinotia demarniana,,eatenBy
+53352,,Epinotia solandriana,,eatenBy
+53352,,Adoxophyes orana,,eatenBy
+53352,472754,Archips fuscocupreanus,,eatenBy
+53352,,Archips rosana,,eatenBy
+53352,,Syndemis afflictana,,eatenBy
+53352,,Epinotia corylana,,eatenBy
+53352,,Synanthedon culiciformis,,eatenBy
+53352,,Paranthrene asilipennis,,eatenBy
+53352,,Olethreutes submissana,,eatenBy
+53352,,Syricoris rivulana,,eatenBy
+53352,,Archips argyrospila,,eatenBy
+53352,,Hyalophora euryalus,,eatenBy
+53352,,Eacles imperialis,,eatenBy
+53352,,Myelopsis minutularia,,eatenBy
+53352,417132,Acrobasis rubrifasciella,Alder Tubemaker Moth,eatenBy
+53352,,Acrobasis betulella,,eatenBy
+53352,,Actias luna,,eatenBy
+53352,68262,Polygonia faunus,Green Comma,eatenBy
+53352,,Wind,,pollinatedBy
+53352,,Rhizophagus picipes,,preyedUponBy
+53352,,Rhizophagus nitidulus,,preyedUponBy
+53352,,Cyanostolus aeneus,,preyedUponBy
+53352,,Rhizophagus cribratus,,preyedUponBy
+53352,976493,Sphaeriestes stockmanni,,preyedUponBy
+53352,,Nosodendron fasciculare,,preyedUponBy
+53352,,Pyrochroa serraticornis,,preyedUponBy
+53352,,Sphaeriestes reyi,,preyedUponBy
+53352,,Pyrochroa coccinea,,preyedUponBy
+53352,,Rabocerus gabrieli,,preyedUponBy
+53352,,Phloeopora teres,,preyedUponBy
+53352,,Salpingus aeneus,,preyedUponBy
+53352,,Cybocephalus politus,,preyedUponBy

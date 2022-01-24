@@ -1,0 +1,39 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4837,49581,Nereididae,,eats
+4837,62807,Mytilus,Black Mussels,eats
+4837,51981,Cardium,,eats
+4837,,Arenicola,,eats
+4837,410712,Cominella glandiformis,Mud Whelk,preysOn
+4837,353999,Cominella,,preysOn
+4837,48343,Hemigrapsus,,preysOn
+4837,321987,Aglaophamus,,preysOn
+4837,,Buccinulum pertinax,,preysOn
+4837,385597,Abarenicola affinis,,preysOn
+4837,67313,Glycera,,preysOn
+4837,378445,Travisia,,preysOn
+4837,566304,Perinereis nuntia,,preysOn
+4837,471051,Halicarcinus whitei,Estuarine Pillbox Crab,preysOn
+4837,47492,Terebellidae,Spaghetti Worms,preysOn
+4837,469900,Heterosquilla tricarinata,,preysOn
+4837,345489,Naineris,,preysOn
+4837,391964,Macroclymenella stewartensis,,preysOn
+4837,194010,Pectinaria,,preysOn
+4837,,Scoloplos cylindrifer,,preysOn
+4837,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preysOn
+4837,,Macrolymenella sp.,,preysOn
+4837,409698,Austrovenus stutchburyi,New Zealand Cockle,preysOn
+4837,391942,Macomona liliana,Wedge Shell,preysOn
+4837,,Leitoscoloplos,,preysOn
+4837,377230,Neoguraleus,,preysOn
+4837,368098,Perinereis,,preysOn
+4837,,Scoloplos johnstonei,,preysOn
+4837,416671,Hemiplax hirtipes,New  Zealand  sentinel  crab,preysOn
+4837,949282,Decamastus,,preysOn
+4837,,Diloma subrostrata,,preysOn
+4837,,Cymodopsis montis,,preysOn
+4837,379692,Paracalliope,,preysOn
+4837,,Pontharpinia,,preysOn
+4837,,Heterophoxus stephenseni,,preysOn
+4837,,Phoxocephalus regium,,preysOn
+4837,,Pseudophaeroma campbellensis,,preysOn
+4837,1149678,Exosphaeroma planulum,,preysOn

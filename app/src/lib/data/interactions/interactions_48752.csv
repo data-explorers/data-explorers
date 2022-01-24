@@ -1,0 +1,61 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48752,67334,Cyanobacteria,cyanobacteria,eats
+48752,152275,Thalassiosirales,,eats
+48752,129910,Chthamalus dalli,Little Brown Barnacle,eats
+48752,48217,Fucus,vesicled rockweeds,eats
+48752,81610,Balanus glandula,Pacific Acorn Barnacle,eats
+48752,123880,Bacillariophyceae,Diatoms,eats
+48752,203808,Navicula,,eats
+48752,117672,Balanus crenatus,Wrinkled Barnacle,eats
+48752,47658,Semibalanus cariosus,Thatched Barnacle,eats
+48752,123865,Coscinodiscus,,eats
+48752,182981,Bangia,,eats
+48752,,Biofilm Complex,,eats
+48752,,Crustose coralline algae complex,,eats
+48752,180572,Rhizoclonium,,eats
+48752,200862,Bacillariaceae,,eats
+48752,117821,Mastocarpus,encrusting red algae,eats
+48752,339056,Urospora,,eats
+48752,71120,Mazzaella,Iridescent Algae,eats
+48752,339308,Achnanthes,,eats
+48752,123885,Pleurosigmataceae,,eats
+48752,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+48752,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+48752,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+48752,7024,Somateria mollissima,Common Eider,eatenBy
+48752,51280,Nemertea,Ribbon Worms,eatenBy
+48752,,Evasterias troscheli,,eatenBy
+48752,83329,Buccinidae,True Whelks,eatenBy
+48752,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+48752,,Leptasterias,,eatenBy
+48752,51283,Emplectonematidae,,eatenBy
+48752,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+48752,67411,Gobiesocidae,Clingfishes,eatenBy
+48752,204533,Larus argentatus,Herring Gull,eatenBy
+48752,48903,Asterias,,eatenBy
+48752,7030,Somateria spectabilis,King Eider,eatenBy
+48752,67334,Cyanobacteria,cyanobacteria,preysOn
+48752,48217,Fucus,vesicled rockweeds,preysOn
+48752,129910,Chthamalus dalli,Little Brown Barnacle,preysOn
+48752,123880,Bacillariophyceae,Diatoms,preysOn
+48752,81610,Balanus glandula,Pacific Acorn Barnacle,preysOn
+48752,,Biofilm complex,,preysOn
+48752,19922,Strix leptogrammica,Brown Wood-Owl,preysOn
+48752,,Phytoplankton,,preysOn
+48752,339056,Urospora,,preysOn
+48752,47658,Semibalanus cariosus,Thatched Barnacle,preysOn
+48752,,Crustose coralline algae complex,,preysOn
+48752,117807,Mastocarpus papillatus,Turkish washcloth,preysOn
+48752,71120,Mazzaella,Iridescent Algae,preysOn
+48752,,Red crust complex,,preysOn
+48752,180572,Rhizoclonium,,preysOn
+48752,48174,Paguridae,Pagurid Hermit Crabs,preyedUponBy
+48752,52319,Platyhelminthes,Flatworms,preyedUponBy
+48752,47645,Cottidae,Typical Sculpins,preyedUponBy
+48752,371067,Nucella lima,File Dog Winkle,preyedUponBy
+48752,51280,Nemertea,Ribbon Worms,preyedUponBy
+48752,117641,Nucella lamellosa,Wrinkled Purple,preyedUponBy
+48752,67411,Gobiesocidae,Clingfishes,preyedUponBy
+48752,,Leptasterias,,preyedUponBy
+48752,,Evasterias troscheli,,preyedUponBy
+48752,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy

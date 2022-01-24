@@ -1,0 +1,95 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48580,67423,Ulva lactuca,broadleaf sea lettuce,eats
+48580,123631,Corallina,,eats
+48580,51021,Dictyota,Y-branched Algae,eats
+48580,,Detritus,,eats
+48580,,sediment,,eats
+48580,180609,Lithophyllum,,eats
+48580,570223,Caulerpa scalpelliformis,Scalpel green seaweed,eats
+48580,59730,Valonia aegagropila,,eats
+48580,322821,Sargassum vulgare,,eats
+48580,,Gracilaria sp.,,eats
+48580,328369,Spatoglossum schroederi,,eats
+48580,199320,Acanthophora spicifera,prickly seaweed,eats
+48580,182857,Sphacelaria,,eats
+48580,330788,Centroceras,,eats
+48580,67672,Hypnea musciformis,,eats
+48580,201265,Bryopsis plumosa,Hen Pen,eats
+48580,207565,Padina gymnospora,,eats
+48580,67679,Gracilaria,,eats
+48580,915274,Dictyopteris delicatula,,eats
+48580,201264,Bryopsis pennata,,eats
+48580,911743,Plocamium brasiliense,,eats
+48580,131266,Caulerpa cupressoides,cactus tree alga,eats
+48580,131277,Lobophora variegata,Encrusting fan-leaf alga,eats
+48580,50926,Caulerpa racemosa,Sea Grapes,eats
+48580,1253504,Bryopsis,,eats
+48580,131281,Dictyota menstrualis,,eats
+48580,131298,Cryptonemia crenulata,,eats
+48580,51384,Caulerpa prolifera,,eats
+48580,415109,Codium decorticatum,,eats
+48580,131280,Dictyota mertensii,,eats
+48580,643771,Abyla,,eats
+48580,,Plocamium sp.,,eats
+48580,,Chaetomorpha gracilaris,,eats
+48580,947920,Gracilaria domingensis,,eats
+48580,,Chondria curvilineata,,eats
+48580,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+48580,118597,Belone belone,Garfish,eatenBy
+48580,118601,Trisopterus luscus,Pouting,eatenBy
+48580,430553,Merlangius merlangus,Whiting,eatenBy
+48580,48397,Raja clavata,Thornback Skate,eatenBy
+48580,55396,Solea solea,Common Sole,eatenBy
+48580,,Trisopterus minutus,,eatenBy
+48580,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+48580,109631,Platichthys flesus,European Flounder,eatenBy
+48580,47523,Pleuronectes platessa,European Plaice,eatenBy
+48580,61387,Limanda limanda,Sand Dab,eatenBy
+48580,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+48580,63740,Gadus morhua,Atlantic Cod,eatenBy
+48580,152974,Pholis gunnellus,Rock gunnel,eatenBy
+48580,61383,Homarus americanus,American Lobster,eatenBy
+48580,61376,Cebidichthys violaceus,Monkey-faced Prickleback,eatenBy
+48580,67628,Xiphister mucosus,Rock Eel,eatenBy
+48580,228496,Pollachius virens,Pollock,eatenBy
+48580,,Enchelyopus cimbrius,,eatenBy
+48580,48648,Salmo salar,Atlantic Salmon,eatenBy
+48580,118669,Diplodus sargus,White Bream,eatenBy
+48580,118665,Diplodus annularis,Annular Seabream,eatenBy
+48580,118671,Sparus aurata,Gilthead Seabream,eatenBy
+48580,445609,Agonus cataphractus,Pogge,eatenBy
+48580,,Corvus caurinus,,eatenBy
+48580,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+48580,63288,Talitridae,Sandhoppers and Landhoppers,preysOn
+48580,48147,Isopoda,Isopods,preysOn
+48580,48580,Idotea,,preysOn
+48580,83718,Tanaidacea,Tanaids,preysOn
+48580,,Amphitoidae,,preysOn
+48580,59806,Gammaridae,,preysOn
+48580,144115,Cumacea,Hooded Shrimp,preysOn
+48580,,Zooplankton,,preysOn
+48580,,Synisoma,,preysOn
+48580,,Harparticoida,,preysOn
+48580,245452,Stenothoidae,,preysOn
+48580,340881,Calliopiidae,,preysOn
+48580,48147,Isopoda,Isopods,preyedUponBy
+48580,48173,Pagurus,,preyedUponBy
+48580,47490,Polychaeta,Polychaete Worms,preyedUponBy
+48580,48580,Idotea,,preyedUponBy
+48580,63288,Talitridae,Sandhoppers and Landhoppers,preyedUponBy
+48580,49507,Callinectes,,preyedUponBy
+48580,194085,Panopeus,Mud Crabs,preyedUponBy
+48580,295215,Clibanarius antillensis,,preyedUponBy
+48580,340881,Calliopiidae,,preyedUponBy
+48580,179515,Bathygobius soporator,Frillfin Goby,preyedUponBy
+48580,59806,Gammaridae,,preyedUponBy
+48580,260256,Palaemon northropi,Caribbean bait prawn,preyedUponBy
+48580,,Amphitoidae,,preyedUponBy
+48580,,Turbellaria,,preyedUponBy
+48580,317131,Haemulon parra,Sailor's Choice,preyedUponBy
+48580,,Synisoma,,preyedUponBy
+48580,245452,Stenothoidae,,preyedUponBy
+48580,120708,Scartella cristata,Molly Miller,preyedUponBy
+48580,121386,Lysmata,,preyedUponBy
+48580,415095,Olivancillaria,,preyedUponBy
+48580,260419,Panopeus herbstii,Atlantic Mud Crab,preyedUponBy

@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49857,67419,Egregia menziesii,Feather Boa Kelp,eats
+49857,54644,Ulva,sea lettuces,eats
+49857,124748,Macrocystis pyrifera,Giant Kelp,eats
+49857,,Macroalgae,,eats
+49857,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+49857,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+49857,54644,Ulva,sea lettuces,preysOn
+49857,124748,Macrocystis pyrifera,Giant Kelp,preysOn
+49857,67419,Egregia menziesii,Feather Boa Kelp,preysOn
+49857,128238,Laurencia,,preysOn
+49857,446888,Gelidium robustum,agarweed,preysOn
+49857,,Macroalgae,,preysOn
+49857,359801,Rhodymenia pacifica,,preysOn
+49857,485339,Chondracanthus spinosus,,preysOn
+49857,,Gigartina corymbifera,,preysOn
+49857,339014,Polyneura latissima,crisscross network,preysOn
+49857,,Laurencia spectabilis,,preysOn
+49857,133214,Rhodymenia californica,,preysOn
+49857,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy

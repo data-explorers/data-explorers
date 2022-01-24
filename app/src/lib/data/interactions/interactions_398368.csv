@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+398368,398368,Trioza adventicia,Syzygium Leaf Psyllid,eats
+398368,72388,Syzygium,Waterberries,eats
+398368,,Syzygium smithii,,eats
+398368,,Syzygium borbonicum,,eats
+398368,418394,Syzygium floribundum,weeping lilli pilli,eats
+398368,398368,Trioza adventicia,Syzygium Leaf Psyllid,eatenBy

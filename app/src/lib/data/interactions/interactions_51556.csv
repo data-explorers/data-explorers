@@ -1,0 +1,209 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51556,333586,Oligochaeta,Earthworms and allies,eats
+51556,53275,Chironomidae,Non-biting Midges,eats
+51556,247660,Polypedilum,,eats
+51556,121643,Copepoda,Copepods,eats
+51556,177589,Laccophilus,,eats
+51556,130033,Culex,,eats
+51556,62989,Aedes,,eats
+51556,50175,Enallagma,Bluets,eats
+51556,120561,Cricotopus,,eats
+51556,345325,Micropsectra,,eats
+51556,475373,Guttipelopia,,eats
+51556,788190,Paratarsotomus macropalpis,,eats
+51556,,Alona affinis,,eats
+51556,,Disparalona acutirostris,,eats
+51556,,Ophryoxus gracilis,,eats
+51556,168927,Sida crystallina,,eats
+51556,174181,Corynoneura,,eats
+51556,130980,Clinotanypus,,eats
+51556,294394,Chaoborus punctipennis,,eats
+51556,472252,Paratendipes,,eats
+51556,366249,Nanocladius,,eats
+51556,,Crangonyx gracilis,,eats
+51556,,Microcyclops rubellus,,eats
+51556,,Macrocyclops albidus,,eats
+51556,247665,Tanytarsus,,eats
+51556,247596,Cladopelma,,eats
+51556,86355,Alona,,eats
+51556,376084,Cryptochironomus,,eats
+51556,378586,Xenochironomus,,eats
+51556,,Alona rustica,,eats
+51556,338141,Chydorus,,eats
+51556,,Acantholeberis curvirostris,,eats
+51556,126613,Glyptotendipes,,eats
+51556,247650,Parachironomus,,eats
+51556,492986,Pseudochironomus,,eats
+51556,,Alona intermedia,,eats
+51556,,Alona quadrangularis,,eats
+51556,1011286,Chaetocladius,,eats
+51556,,Bezzia,,eats
+51556,,Acanthocyclops,,eats
+51556,688301,Scapholeberis kingi,,eats
+51556,247737,Larsia,,eats
+51556,480716,Eucyclops serrulatus,,eats
+51556,247719,Djalmabatista,,eats
+51556,247662,Stenochironomus,,eats
+51556,247741,Procladius,,eats
+51556,366243,Microtendipes,,eats
+51556,,Caenis,,eats
+51556,247694,Ablabesmyia,,eats
+51556,247658,Paratanytarsus,,eats
+51556,,Diacyclops,,eats
+51556,173833,Dineutus,,eats
+51556,123594,Anaxyrus americanus americanus,Eastern American Toad,eats
+51556,,Liodessus,,eats
+51556,,Hirudenea,,eats
+51556,87923,Diaptomus,,eats
+51556,84734,Agabus,,eats
+51556,,Hygrotus,,eats
+51556,,Coptotomus,,eats
+51556,,Laccornis,,eats
+51556,,Listronotus,,eats
+51556,,Gyrinus,,eats
+51556,171629,Scapholeberis,,eats
+51556,,Colymbetes,,eats
+51556,,Rhantus,,eats
+51556,,Desmopachria,,eats
+51556,177989,Haliplus,,eats
+51556,,Acilius,,eats
+51556,148201,Helisoma,,eats
+51556,,Ilybius,,eats
+51556,,Hydroporus,,eats
+51556,177448,Limnephilus,,eats
+51556,,Lestes,,eats
+51556,,Alonella,,eats
+51556,,Graphoderus,,eats
+51556,,Eubranchipus,,eats
+51556,87850,Daphnia,Water-fleas,eats
+51556,122269,Lynceus,,eats
+51556,,Sphaeriidae,,eats
+51556,,Lymnaea,,eats
+51556,,Dytiscus,,eats
+51556,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+51556,81576,Belostoma,,eatenBy
+51556,58637,Ambloplites rupestris,Rock Bass,eatenBy
+51556,58627,Perca flavescens,Yellow Perch,eatenBy
+51556,,Lethocerus,,eatenBy
+51556,,Acilius,,eatenBy
+51556,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+51556,,Graphoderus,,eatenBy
+51556,,Dytiscus,,eatenBy
+51556,,Coptotomus,,eatenBy
+51556,,Ligularia japonica,,pollinates
+51556,130033,Culex,,preysOn
+51556,62989,Aedes,,preysOn
+51556,53275,Chironomidae,Non-biting Midges,preysOn
+51556,50175,Enallagma,Bluets,preysOn
+51556,177589,Laccophilus,,preysOn
+51556,70144,Muscidae,House Flies and Allies,preysOn
+51556,47992,Limoniidae,Limoniid Crane Flies,preysOn
+51556,127593,Chloropidae,Frit Flies,preysOn
+51556,60393,Tipula,,preysOn
+51556,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+51556,51146,Chrysomelidae,Leaf Beetles,preysOn
+51556,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+51556,47928,Zygoptera,Damselflies,preysOn
+51556,127812,Hylaeus,Masked Bees,preysOn
+51556,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+51556,47157,Lepidoptera,Butterflies and Moths,preysOn
+51556,47199,Ichneumonidae,Ichneumonid Wasps,preysOn
+51556,85862,Leptoceridae,Long-horned Caddisflies,preysOn
+51556,52910,Sarcophagidae,Flesh Flies,preysOn
+51556,84670,Ephydridae,Shore Flies,preysOn
+51556,55351,Phoridae,Humpbacked Flies,preysOn
+51556,61860,Calliphoridae,Blow Flies,preysOn
+51556,61267,Heteroptera,True Bugs,preysOn
+51556,47219,Apis mellifera,Western Honey Bee,preysOn
+51556,51953,Tachinidae,Bristle Flies,preysOn
+51556,48086,Agromyzidae,Leaf-miner Flies,preysOn
+51556,53248,Elateridae,Click Beetles,preysOn
+51556,317549,Dipogon,,preysOn
+51556,48286,Rhinophoridae,Woodlouse Flies,preysOn
+51556,51225,Tipulidae,Large Crane Flies,preysOn
+51556,,Laccornis,,preysOn
+51556,,Hygrotus,,preysOn
+51556,,Acilius,,preysOn
+51556,177448,Limnephilus,,preysOn
+51556,,Hydroporus,,preysOn
+51556,,Gyrinus,,preysOn
+51556,,Acanthocyclops,,preysOn
+51556,,Listronotus,,preysOn
+51556,122269,Lynceus,,preysOn
+51556,,Desmopachria,,preysOn
+51556,,Dytiscus,,preysOn
+51556,,Sphaeriidae,,preysOn
+51556,,Diacyclops,,preysOn
+51556,,Rhantus,,preysOn
+51556,171629,Scapholeberis,,preysOn
+51556,87850,Daphnia,Water-fleas,preysOn
+51556,148201,Helisoma,,preysOn
+51556,,Ilybius,,preysOn
+51556,87923,Diaptomus,,preysOn
+51556,177989,Haliplus,,preysOn
+51556,173833,Dineutus,,preysOn
+51556,338141,Chydorus,,preysOn
+51556,,Graphoderus,,preysOn
+51556,,Coptotomus,,preysOn
+51556,84734,Agabus,,preysOn
+51556,,Lestes,,preysOn
+51556,,Lymnaea,,preysOn
+51556,,Eubranchipus,,preysOn
+51556,,Alonella,,preysOn
+51556,,Liodessus,,preysOn
+51556,,Hirudenea,,preysOn
+51556,,Propylaea quatuordecimpunctata,,preysOn
+51556,1123175,Pelochares versicolor,,preysOn
+51556,49460,Empididae,Dance Flies,preysOn
+51556,,Hercostomus assimilis,,preysOn
+51556,556059,Dolichopus nitidus,,preysOn
+51556,,Chrysotoxum,,preysOn
+51556,,Pipinculus sp,,preysOn
+51556,,Haematopota,,preysOn
+51556,203300,Tetrastichus,,preysOn
+51556,495985,Limnobaris dolorosa,,preysOn
+51556,,Chaetocnema confusa,,preysOn
+51556,127767,Trypoxylon attenuatum,,preysOn
+51556,1281108,Ilione lineata,,preysOn
+51556,,Ootetrastichus,,preysOn
+51556,,Sciaridae,,preysOn
+51556,,Limnia paludicola,,preysOn
+51556,177092,Meligethes,,preysOn
+51556,578473,Herina frondescentiae,,preysOn
+51556,,Limnephilidae,,preysOn
+51556,,Oedemera nobilis,,preysOn
+51556,,Anthocomus rufus,,preysOn
+51556,177395,Limonia,,preysOn
+51556,,Cloeon simile,,preysOn
+51556,473534,Tetanocera ferruginea,,preysOn
+51556,,Procloeon bifidum,,preysOn
+51556,130265,Tetramesa,,preysOn
+51556,,Ilione albiseta,,preysOn
+51556,,Sciasminettia frontalis,,preysOn
+51556,,Aprostocetus,,preysOn
+51556,,Chrysops relictus,,preysOn
+51556,174422,Hybotidae,Hybotid Dance Flies,preysOn
+51556,,Pherbina coryleti,,preysOn
+51556,52380,Aphidoidea,,preysOn
+51556,,Herina parva,,preysOn
+51556,,Paravespula vulgaris,,preysOn
+51556,69803,Ceratopogonidae,Biting Midges,preysOn
+51556,1200309,Argyra vestita,,preysOn
+51556,,Pherbellia schoenherri,,preysOn
+51556,,Aphthona lutescens,,preysOn
+51556,81576,Belostoma,,preyedUponBy
+51556,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+51556,67708,Argiope trifasciata,Banded Garden Spider,preyedUponBy
+51556,,Lethocerus,,preyedUponBy
+51556,,Dytiscus,,preyedUponBy
+51556,,Coptotomus,,preyedUponBy
+51556,,Acilius,,preyedUponBy
+51556,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+51556,,Graphoderus,,preyedUponBy
+51556,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+51556,4643,Falco subbuteo,Eurasian Hobby,preyedUponBy
+51556,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+51556,,Dolomedes fimbriatus,,preyedUponBy
+51556,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+51556,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+51556,,Orthetrum albistylum,,preyedUponBy

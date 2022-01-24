@@ -1,0 +1,119 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47720,,Benthic autotrophs,,eats
+47720,,Detritus,,eats
+47720,,no name,,eats
+47720,,Microfauna,,eats
+47720,,Macroalgae,,eats
+47720,,sediment,,eats
+47720,,Prymnesiophyceae,,eats
+47720,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47720,47668,Asteroidea,Sea Stars,eatenBy
+47720,49796,Stomatopoda,Mantis Shrimps,eatenBy
+47720,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eatenBy
+47720,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47720,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+47720,430553,Merlangius merlangus,Whiting,eatenBy
+47720,55396,Solea solea,Common Sole,eatenBy
+47720,481841,Microstomus kitt,Lemon Sole,eatenBy
+47720,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47720,47523,Pleuronectes platessa,European Plaice,eatenBy
+47720,61387,Limanda limanda,Sand Dab,eatenBy
+47720,63740,Gadus morhua,Atlantic Cod,eatenBy
+47720,49951,Haemulon plumierii,White Grunt,eatenBy
+47720,49264,Haemulon,,eatenBy
+47720,317017,Calamus pennatula,Pluma Porgy,eatenBy
+47720,131530,Lutjanus synagris,Lane Snapper,eatenBy
+47720,62600,Haemulon flavolineatum,French Grunt,eatenBy
+47720,102074,Halichoeres poeyi,Blackear Wrasse,eatenBy
+47720,120129,Lactophrys bicaudalis,Spotted Trunkfish,eatenBy
+47720,,Echinoida,,eatenBy
+47720,131513,Lactophrys trigonus,Buffalo Trunkfish,eatenBy
+47720,49304,Stegastes planifrons,Threespot Damselfish,eatenBy
+47720,49316,Chaetodipterus faber,Atlantic Spadefish,eatenBy
+47720,129656,Cantherhines macrocerus,Whitespotted Filefish,eatenBy
+47720,194675,Lophius americanus,American Monkfish,eatenBy
+47720,104533,Leucoraja erinacea,Little Skate,eatenBy
+47720,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+47720,63742,Gadidae,Cods and Haddocks,eatenBy
+47720,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+47720,83846,Urophycis chuss,squirrel hake,eatenBy
+47720,56045,Limanda ferruginea,Yellowtail flounder,eatenBy
+47720,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47720,104540,Leucoraja ocellata,Winter Skate,eatenBy
+47720,233996,Zoarces americanus,Ocean Pout,eatenBy
+47720,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+47720,143945,Dardanus megistos,White-spotted Hermit Crab,eatenBy
+47720,61383,Homarus americanus,American Lobster,eatenBy
+47720,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+47720,,Trematomus bernacchii,,eatenBy
+47720,617122,Macrourus holotrachys,,eatenBy
+47720,,Myliobatis goodei,,eatenBy
+47720,95066,Balistes vetula,Queen Triggerfish,eatenBy
+47720,541673,Lepidonotothen squamifrons,Grey Rockcod,eatenBy
+47720,618298,Gobionotothen gibberifrons,Humped Rockcod,eatenBy
+47720,224388,Malacocottus zonurus,Darkfin Sculpin,eatenBy
+47720,,Arius oetik,,eatenBy
+47720,102938,Hoplopagrus guentherii,Barred Pargo,eatenBy
+47720,99253,Diapterus peruvianus,Peruvian mojarra,eatenBy
+47720,118631,Scorpaena porcus,Black Scorpionfish,eatenBy
+47720,120611,Pagrus caeruleostictus,Bluespotted Seabream,eatenBy
+47720,48747,Chaetodon vagabundus,Vagabond Butterflyfish,eatenBy
+47720,52457,Chaetodon auriga,Threadfin Butterflyfish,eatenBy
+47720,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+47720,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+47720,221166,Hemilepidotus jordani,yellow irish lord,eatenBy
+47720,118629,Helicolenus dactylopterus,Blackbelly Rosefish,eatenBy
+47720,142704,Lutjanus gibbus,Humpback Snapper,eatenBy
+47720,47316,Chaetodon lunula,Raccoon Butterflyfish,eatenBy
+47720,117459,Monotaxis grandoculis,Humpnose Bigeye Bream,eatenBy
+47720,64594,Paristiopterus labiosus,Giant Boarfish,eatenBy
+47720,445862,Dentex macrophthalmus,Large-eye dentex,eatenBy
+47720,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+47720,113972,Thalassoma cupido,Cupid Wrasse,eatenBy
+47720,41720,Erignathus barbatus,Bearded Seal,eatenBy
+47720,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+47720,179598,Eucinostomus gula,Silver Jenny,eatenBy
+47720,49509,Lutjanus griseus,Grey Snapper,eatenBy
+47720,108196,Pagrus pagrus,Red Porgy,eatenBy
+47720,179485,Opsanus pardus,Leopard Toadfish,eatenBy
+47720,131388,Haemulon melanurum,Cottonwick,eatenBy
+47720,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47720,128986,Calamus,Rattan palms,eatenBy
+47720,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+47720,179545,Menticirrhus americanus,Southern Kingfish,eatenBy
+47720,154501,Cynoscion nothus,Silver Seatrout,eatenBy
+47720,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+47720,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+47720,1071761,Parapenaeus longirostris,Deep-water rose shrimp,eatenBy
+47720,,Melicertus kerathurus,,eatenBy
+47720,41766,Odobenus rosmarus,Walrus,eatenBy
+47720,47288,Pontophilus spinosus,Spiny shrimp,eatenBy
+47720,,Iphimediella cyclogena,,eatenBy
+47720,1,Animalia,Animals,preysOn
+47720,47126,Plantae,plants,preysOn
+47720,,Protista,,preysOn
+47720,1256330,Levinseniella,,preysOn
+47720,,Microfauna,,preysOn
+47720,3954,Limosa fedoa,Marbled Godwit,preyedUponBy
+47720,3892,Tringa melanoleuca,Greater Yellowlegs,preyedUponBy
+47720,6930,Anas platyrhynchos,Mallard,preyedUponBy
+47720,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preyedUponBy
+47720,49796,Stomatopoda,Mantis Shrimps,preyedUponBy
+47720,47668,Asteroidea,Sea Stars,preyedUponBy
+47720,,Platyrhinoidis triseriata,,preyedUponBy
+47720,51491,Myliobatis californica,Bat Ray,preyedUponBy
+47720,82326,Hypsopsetta guttulata,Diamond turbot,preyedUponBy
+47720,3857,Calidris alpina,Dunlin,preyedUponBy
+47720,,Limnodromus griseus,,preyedUponBy
+47720,,Catoptrophorus semipalmatus,,preyedUponBy
+47720,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy
+47720,102074,Halichoeres poeyi,Blackear Wrasse,preyedUponBy
+47720,129656,Cantherhines macrocerus,Whitespotted Filefish,preyedUponBy
+47720,120129,Lactophrys bicaudalis,Spotted Trunkfish,preyedUponBy
+47720,317017,Calamus pennatula,Pluma Porgy,preyedUponBy
+47720,131513,Lactophrys trigonus,Buffalo Trunkfish,preyedUponBy
+47720,49304,Stegastes planifrons,Threespot Damselfish,preyedUponBy
+47720,131530,Lutjanus synagris,Lane Snapper,preyedUponBy
+47720,62600,Haemulon flavolineatum,French Grunt,preyedUponBy
+47720,49951,Haemulon plumierii,White Grunt,preyedUponBy
+47720,49264,Haemulon,,preyedUponBy

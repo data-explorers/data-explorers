@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48571,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+48571,47208,Coleoptera,Beetles,eatenBy
+48571,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+48571,42406,Bison,Bison,eatenBy
+48571,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eatenBy
+48571,132227,Lethe appalachia,Appalachian Brown,eatenBy
+48571,6930,Anas platyrhynchos,Mallard,eatenBy
+48571,558433,Spatula discors,Blue-winged Teal,eatenBy
+48571,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+48571,906,Meleagris gallopavo,Wild Turkey,eatenBy
+48571,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+48571,473,Fulica americana,American Coot,eatenBy
+48571,6915,Cygnus buccinator,Trumpeter Swan,eatenBy
+48571,7089,Branta canadensis,Canada Goose,eatenBy
+48571,7006,Anser,Grey Geese,eatenBy
+48571,7014,Anser cygnoides,Swan Goose,eatenBy
+48571,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+48571,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+48571,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+48571,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+48571,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+48571,1409,Callipepla californica,California Quail,eatenBy
+48571,9135,Spizella passerina,Chipping Sparrow,eatenBy
+48571,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+48571,9100,Melospiza melodia,Song Sparrow,eatenBy
+48571,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+48571,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+48571,199840,Haemorhous mexicanus,House Finch,eatenBy
+48571,,Bagous chandleri,,eatenBy
+48571,,Stenispa metallica,,eatenBy
+48571,,Neocrepidodera pallida,,eatenBy
+48571,,Poecilocera harrisii,,eatenBy
+48571,,Schoenobius melinellus dispersellus,,eatenBy
+48571,,Hydrellia,,eatenBy
+48571,,Arphia conspersa,,eatenBy
+48571,,Psoloessa delicatula,,eatenBy
+48571,,North American deermouse,,eatenBy
+48571,,Common muskrat,,eatenBy
+48571,179974,Spermophilus,Old World Ground Squirrels,eatenBy
+48571,,Lepus californicus,,eatenBy
+48571,,Ovis,,eatenBy
+48571,,Lepus townsendii,,eatenBy
+48571,,Bos taurus,,eatenBy
+48571,490309,Signeta tymbophora,,eatenBy
+48571,,Oreisplanus munionga,,eatenBy
+48571,,Heteronympha cordace,,eatenBy
+48571,,Heteronympha banksii,,eatenBy
+48571,,Hesperilla ornata,,eatenBy
+48571,,Astacus astacus,,eatenBy
+48571,,Pachynematus clibrichellus,,eatenBy
+48571,,Brachythops wuestneii,,eatenBy
+48571,,Pachynematus clitellatus,,eatenBy
+48571,,Pachynematus vagus,,eatenBy
+48571,454728,Brachythops flavens,,eatenBy
+48571,,Coenonympha oedippus,,eatenBy
+48571,,Oeneis polixenes,,eatenBy
+48571,,Erebia ligea,,eatenBy
+48571,,Aphantopus hyperantus,,eatenBy
+48571,,Oligia ambigua,,eatenBy
+48571,,Sedina buettneri,,eatenBy
+48571,,Leucania phragmitidicola,,eatenBy
+48571,,Amphipoea interoceanica,,eatenBy
+48571,,Mythimna impura,,eatenBy
+48571,,Dargida procinctus,,eatenBy
+48571,,Celaena leucostigma,,eatenBy
+48571,,Apamea finitima,,eatenBy
+48571,,Amphipoea americana,,eatenBy
+48571,,Simyra henrici,,eatenBy
+48571,,Apamea indocilis,,eatenBy
+48571,,Meropleon diversicolor,,eatenBy
+48571,,Lithacodia carneola,,eatenBy
+48571,,Simyra albovenosa,,eatenBy
+48571,,Euthrix potatoria,,eatenBy
+48571,333741,Toxidia peron,Large Dingy Skipper,eatenBy
+48571,,Euphyes dukesi,,eatenBy
+48571,,Euphyes conspicua,,eatenBy
+48571,,Euphyes bimacula,,eatenBy
+48571,,Hesperia woodgatei,,eatenBy
+48571,,Euphyes dion,,eatenBy
+48571,58513,Polites mystic,Long Dash,eatenBy
+48571,,Euphyes vestris,,eatenBy
+48571,,Taractrocera papyria,,eatenBy
+48571,,Elachista madarella,,eatenBy
+48571,464041,Elachista kilmunella,,eatenBy
+48571,,Biselachista,,eatenBy
+48571,,Poanes massasoit,,eatenBy
+48571,154057,Cingilia catenaria,Chain-dotted Geometer,eatenBy
+48571,,Elachista gleichenella,,eatenBy
+48571,,Cosmopterix clemensella,,eatenBy
+48571,,Cosmopterix fernaldella,,eatenBy
+48571,,Ctenucha brunnea,,eatenBy
+48571,,Cosmopterix ebriola,,eatenBy
+48571,219423,Erebia pawloskii,Theano Alpine,eatenBy
+48571,219420,Erebia magdalena,Magdalena Alpine,eatenBy
+48571,,Coenonympha tullia,,eatenBy
+48571,,Erebia embla,,eatenBy
+48571,,Erebia rossii,,eatenBy
+48571,,Erebia disa,,eatenBy
+48571,,Callerebia mani,,eatenBy
+48571,,Hesperia comma,,eatenBy
+48571,,Wind,,pollinatedBy

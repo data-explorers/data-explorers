@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4793,47124,Magnoliopsida,dicots,eats
+4793,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+4793,47336,Formicidae,Ants,eats
+4793,47792,Odonata,Dragonflies and Damselflies,eats
+4793,48736,Curculionidae,True Weevils,eats
+4793,47114,Gastropoda,Gastropods,eats
+4793,47208,Coleoptera,Beetles,eats
+4793,47822,Diptera,Flies,eats
+4793,53816,Tenebrionidae,Darkling Beetles,eats
+4793,1,Animalia,Animals,eats
+4793,47158,Insecta,Insects,eats
+4793,69758,Lumbricidae,Earthworms,eats
+4793,,Scapteriscus didactylus,,eats
+4793,,Solenopsis geminata,,eats
+4793,,Tetragonia tetragonoides,,eats
+4793,4672,Falco columbarius,Merlin,eatenBy
+4793,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4793,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+4793,20044,Bubo virginianus,Great Horned Owl,eatenBy
+4793,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+4793,,Swainson's hawk,,eatenBy
+4793,20315,Asio flammeus,Short-eared Owl,eatenBy
+4793,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4793,4645,Falco femoralis,Aplomado Falcon,eatenBy
+4793,20307,Asio otus,Long-eared Owl,eatenBy
+4793,20979,Anura,Frogs and Toads,preysOn
+4793,47822,Diptera,Flies,preysOn
+4793,84718,Oniscidea,"Woodlice, Pillbugs, and Rock Slaters",preysOn
+4793,69758,Lumbricidae,Earthworms,preysOn
+4793,,Traskorchestia,,preysOn
+4793,,Ephydra,,preysOn
+4793,,Traskorchestia traskiana,,preysOn
+4793,41663,Procyon lotor,Common Raccoon,preyedUponBy
+4793,4672,Falco columbarius,Merlin,preyedUponBy
+4793,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+4793,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy

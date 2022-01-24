@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51932,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+51932,26068,Crocodylus porosus,Saltwater Crocodile,eatenBy
+51932,608771,Atherinella brasiliensis,,eatenBy
+51932,49431,Orthopristis chrysoptera,Pigfish,eatenBy
+51932,317317,Prionotus stearnsi,Shortwing Searobin,eatenBy
+51932,49509,Lutjanus griseus,Grey Snapper,eatenBy
+51932,73149,Parkesia noveboracensis,Northern Waterthrush,eatenBy

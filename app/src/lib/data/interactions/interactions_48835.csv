@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48835,317370,Sebastes serriceps,Treefish,eatenBy
+48835,68597,Sebastes caurinus,copper rockfish,eatenBy
+48835,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,eatenBy
+48835,64455,Sebastes carnatus,Gopher Rockfish,eatenBy
+48835,117562,Rhacochilus toxotes,Rubberlip surfperch,eatenBy
+48835,108552,Paralabrax nebulifer,Sand bass,eatenBy
+48835,102081,Halichoeres semicinctus,Rock Wrasse,eatenBy
+48835,132521,Rhinogobiops nicholsii,Blackeye goby,eatenBy
+48835,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+48835,98855,Cymatogaster aggregata,Shiner Surfperch,eatenBy
+48835,117561,Phanerodon furcatus,White surfperch,eatenBy
+48835,117558,Hypsurus caryi,Rainbow Seaperch,eatenBy
+48835,111616,Rhacochilus vacca,Pile surfperch,eatenBy
+48835,117554,Embiotoca jacksoni,Black surfperch,eatenBy
+48835,117555,Embiotoca lateralis,Striped surfperch,eatenBy
+48835,68596,Hexagrammos decagrammus,Kelp Greenling,eatenBy
+48835,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,preyedUponBy
+48835,111616,Rhacochilus vacca,Pile surfperch,preyedUponBy
+48835,68596,Hexagrammos decagrammus,Kelp Greenling,preyedUponBy
+48835,117562,Rhacochilus toxotes,Rubberlip surfperch,preyedUponBy
+48835,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+48835,117558,Hypsurus caryi,Rainbow Seaperch,preyedUponBy
+48835,117555,Embiotoca lateralis,Striped surfperch,preyedUponBy
+48835,98855,Cymatogaster aggregata,Shiner Surfperch,preyedUponBy
+48835,117561,Phanerodon furcatus,White surfperch,preyedUponBy
+48835,132521,Rhinogobiops nicholsii,Blackeye goby,preyedUponBy
+48835,64455,Sebastes carnatus,Gopher Rockfish,preyedUponBy
+48835,68597,Sebastes caurinus,copper rockfish,preyedUponBy
+48835,102081,Halichoeres semicinctus,Rock Wrasse,preyedUponBy
+48835,117554,Embiotoca jacksoni,Black surfperch,preyedUponBy
+48835,108552,Paralabrax nebulifer,Sand bass,preyedUponBy
+48835,317370,Sebastes serriceps,Treefish,preyedUponBy

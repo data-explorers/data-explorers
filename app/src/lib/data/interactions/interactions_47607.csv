@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47607,238505,Setophaga palmarum palmarum,Western Palm Warbler,eatenBy
+47607,52360,Lilium formosanum,Formosa lily,eatenBy
+47607,12937,Sialia mexicana,Western Bluebird,preyedUponBy
+47607,119994,Vespula maculifrons,Eastern Yellowjacket,preyedUponBy
+47607,,Phidippus whitmani,,preyedUponBy
+47607,,Silpha tyrolensis,,preyedUponBy

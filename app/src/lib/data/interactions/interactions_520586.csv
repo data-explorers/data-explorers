@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+520586,10094,Junco hyemalis,Dark-eyed Junco,eats
+520586,47130,Ribes,currants and gooseberries,eats
+520586,57900,Salsola,Russian Thistles,eats
+520586,,alpine vegetation,,eats
+520586,,Sitta pygmaea,,eats
+520586,42051,Canis latrans,Coyote,eatenBy
+520586,41976,Lynx rufus,Bobcat,eatenBy
+520586,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+520586,19350,Strigiformes,Owls,eatenBy
+520586,41801,Mustela,,eatenBy
+520586,42069,Vulpes vulpes,Red Fox,eatenBy
+520586,42054,Vulpes,Typical Foxes,eatenBy
+520586,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+520586,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+520586,20044,Bubo virginianus,Great Horned Owl,eatenBy
+520586,19893,Strix varia,Barred Owl,eatenBy
+520586,41798,Martes americana,American Marten,eatenBy
+520586,,Martes pennanti,,eatenBy
+520586,41795,Martes zibellina,Sable,eatenBy
+520586,41789,Taxidea taxus,American Badger,eatenBy
+520586,,hawks and owls (7 species),,eatenBy
+520586,,Meles,,eatenBy
+520586,,Coyote,,eatenBy
+520586,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy

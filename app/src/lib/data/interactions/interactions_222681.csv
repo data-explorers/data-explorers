@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+222681,53097,Hirschfeldia incana,Shortpod Mustard,eats
+222681,53359,Baccharis pilularis,coyote brush,eats
+222681,48939,Eriogonum,wild buckwheats,eats
+222681,,Berlandiera lyrata,,eats
+222681,,Layia,,eats
+222681,,Galerida,,eats
+222681,62211,Potentilla recta,sulphur cinquefoil,pollinates
+222681,,Potentilla gracilis,,pollinates
+222681,,Arctomecon humilis,,pollinates
+222681,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy

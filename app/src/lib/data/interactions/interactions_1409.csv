@@ -1,0 +1,123 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1409,211194,Tracheophyta,vascular plants,eats
+1409,1,Animalia,Animals,eats
+1409,48528,Symphoricarpos,snowberries,eats
+1409,52472,Vicia,Vetches,eats
+1409,52698,Avena fatua,wild oat,eats
+1409,47124,Magnoliopsida,dicots,eats
+1409,79141,Solanum nigrum,black nightshade,eats
+1409,47434,Poaceae,grasses,eats
+1409,47208,Coleoptera,Beetles,eats
+1409,56089,Robinia,Locust Trees,eats
+1409,50055,Setaria,foxtails and bristlegrasses,eats
+1409,78678,Polygonum aviculare,Prostrate Knotweed,eats
+1409,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+1409,52701,Bromus,bromes,eats
+1409,57067,Melilotus,melilots and sweetclovers,eats
+1409,56121,Capsella bursa-pastoris,shepherd's-purse,eats
+1409,60132,Cirsium arvense,creeping thistle,eats
+1409,50879,Erigeron,fleabanes and horseweeds,eats
+1409,53107,Lactuca serriola,prickly lettuce,eats
+1409,57049,Acmispon americanus,Spanish clover,eats
+1409,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+1409,50829,Viola,violets,eats
+1409,57317,Vicia villosa,hairy vetch,eats
+1409,51876,Trifolium,clovers,eats
+1409,48439,Chenopodium,Goosefoots,eats
+1409,54764,Rhus glabra,smooth sumac,eats
+1409,50853,Cerastium,Mouse-ear Chickweeds,eats
+1409,60283,Echinochloa crus-galli,barnyardgrass,eats
+1409,52697,Avena,Oats,eats
+1409,52689,Sambucus,elders,eats
+1409,52326,Amaranthus,amaranths,eats
+1409,48972,Polygonum,knotweeds,eats
+1409,50321,Lathyrus,sweet peas and vetchlings,eats
+1409,53196,Rumex,docks,eats
+1409,47544,Rubus,brambles,eats
+1409,56727,Daucus,carrots,eats
+1409,47132,Rosales,"roses, elms, figs, and allies",eats
+1409,47603,Taraxacum,dandelions,eats
+1409,47436,Lotus,bird's-foot trefoils and deervetches,eats
+1409,54500,Malus,apples,eats
+1409,58127,Chenopodium album,Common Lambsquarters,eats
+1409,52327,Amaranthaceae,amaranths,eats
+1409,53021,Convolvulus arvensis,field bindweed,eats
+1409,55410,Raphanus sativus,wild radish,eats
+1409,53036,Ambrosia,ragweeds,eats
+1409,48561,Cirsium,thistles,eats
+1409,47452,Acacia,wattles,eats
+1409,58390,Triticum,Wheats,eats
+1409,52800,Lolium,Ryegrasses,eats
+1409,57922,Centaurea melitensis,Maltese star-thistle,eats
+1409,48486,Coccinellidae,Lady Beetles,eats
+1409,52734,Cyperus,flatsedges,eats
+1409,53816,Tenebrionidae,Darkling Beetles,eats
+1409,47649,Acrididae,Short-horned Grasshoppers,eats
+1409,49567,Carabidae,Ground Beetles,eats
+1409,47693,Rubiaceae,madder family,eats
+1409,47758,Oxalis,woodsorrels,eats
+1409,53151,Medicago polymorpha,bur clover,eats
+1409,47687,Erodium cicutarium,Redstem Stork's-bill,eats
+1409,47336,Formicidae,Ants,eats
+1409,64161,Triticum aestivum,Bread Wheat,eats
+1409,57983,Helianthus annuus,Common Sunflower,eats
+1409,48124,Tettigoniidae,Katydids,eats
+1409,53237,Cicadellidae,Typical Leafhoppers,eats
+1409,47121,Lupinus,lupines,eats
+1409,47126,Plantae,plants,eats
+1409,49140,Amsinckia,Fiddlenecks,eats
+1409,47688,Erodium,stork's-bills,eats
+1409,47328,Liliaceae,lilies,eats
+1409,47851,Quercus,oaks,eats
+1409,154156,Croton setiger,turkey mullein,eats
+1409,50837,Gilia,Gilias,eats
+1409,47162,Poales,"grasses, sedges, cattails, and allies",eats
+1409,52809,Poa,Meadow-grasses,eats
+1409,53438,Rosa,roses,eats
+1409,53294,Sonchus oleraceus,Common Sow-thistle,eats
+1409,47701,Geranium,geraniums and cranesbills,eats
+1409,47118,Araneae,Spiders,eats
+1409,58907,Melilotus albus,White Sweetclover,eats
+1409,58961,Plantago major,greater plantain,eats
+1409,48230,Ranunculus,buttercups,eats
+1409,53197,Rumex crispus,curled dock,eats
+1409,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+1409,48225,Eschscholzia californica,California poppy,eats
+1409,53168,Oxalis corniculata,Creeping Woodsorrel,eats
+1409,53022,Convolvulus,bindweeds,eats
+1409,47822,Diptera,Flies,eats
+1409,48571,Carex,true sedges,eats
+1409,47203,Lepidium,Pepperweeds,eats
+1409,60773,Vitis,grapevines,eats
+1409,53195,Rumex acetosella,Sheep's sorrel,eats
+1409,52841,Anthemis cotula,Stinking chamomile,eats
+1409,57190,Phleum pratense,Timothy grass,eats
+1409,53112,Brassica nigra,Black Mustard,eats
+1409,52801,Lolium perenne,Perennial Ryegrass,eats
+1409,52979,Capsella,Shepherd's-purses,eats
+1409,56955,Helianthus,sunflowers,eats
+1409,64122,Malosma laurina,laurel sumac,eats
+1409,53298,Stellaria media,common chickweed,eats
+1409,52808,Poa annua,Annual Meadow-grass,eats
+1409,47351,Prunus,"plums, cherries, and allies",eats
+1409,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+1409,53269,Sonchus asper,prickly sowthistle,eats
+1409,47179,Arctostaphylos,bearberries and manzanitas,eats
+1409,49372,Polygyridae,Polygyrid Snails,eats
+1409,56932,Cuscuta,dodders,eats
+1409,78618,Plantago patagonica,Woolly Plantain,eats
+1409,53178,Plantago lanceolata,ribwort plantain,eats
+1409,57140,Olea europaea,Olive,eats
+1409,76610,Daucus carota,wild carrot,eats
+1409,50204,Bidens,Bur Marigolds,eats
+1409,47120,Arthropoda,Arthropods,eats
+1409,53186,Potentilla,cinquefoils,eats
+1409,47157,Lepidoptera,Butterflies and Moths,eats
+1409,47735,Diplopoda,Millipedes,eats
+1409,60251,Verbena hastata,blue vervain,eats
+1409,47158,Insecta,Insects,eats
+1409,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+1409,20044,Bubo virginianus,Great Horned Owl,eatenBy
+1409,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+1409,,Aquila chrysaetos,,eatenBy
+1409,43584,Homo sapiens,Human,preyedUponBy

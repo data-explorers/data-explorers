@@ -1,0 +1,61 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+88028,81576,Belostoma,,eats
+88028,133623,Tropisternus,,eats
+88028,50175,Enallagma,Bluets,eats
+88028,177589,Laccophilus,,eats
+88028,62989,Aedes,,eats
+88028,53275,Chironomidae,Non-biting Midges,eats
+88028,88028,Dorocordulia,Lesser Emerald Dragonflies,eats
+88028,130033,Culex,,eats
+88028,338141,Chydorus,,eats
+88028,,Lymnaea,,eats
+88028,,Listronotus,,eats
+88028,,Hydrobius,,eats
+88028,,Hygrotus,,eats
+88028,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+88028,,Lethocerus,,eats
+88028,,Diacyclops,,eats
+88028,,Hydrochara,,eats
+88028,,Graphoderus,,eats
+88028,,Hirudenea,,eats
+88028,,Hydroporus,,eats
+88028,,Dytiscus,,eats
+88028,,Acilius,,eats
+88028,,Desmopachria,,eats
+88028,173833,Dineutus,,eats
+88028,,Hydrochus,,eats
+88028,,Eubranchipus,,eats
+88028,,Liodessus,,eats
+88028,,Laccornis,,eats
+88028,148201,Helisoma,,eats
+88028,,Cymbiodyta,,eats
+88028,,Gyrinus,,eats
+88028,84734,Agabus,,eats
+88028,,Colymbetes,,eats
+88028,173601,Enochrus,,eats
+88028,87923,Diaptomus,,eats
+88028,177989,Haliplus,,eats
+88028,,Anacaena,,eats
+88028,171629,Scapholeberis,,eats
+88028,87850,Daphnia,Water-fleas,eats
+88028,,Lestes,,eats
+88028,,Sphaeriidae,,eats
+88028,,Ilybius,,eats
+88028,122269,Lynceus,,eats
+88028,,Helophorus,,eats
+88028,,Rhantus,,eats
+88028,,Alonella,,eats
+88028,,Coptotomus,,eats
+88028,81576,Belostoma,,eatenBy
+88028,88028,Dorocordulia,Lesser Emerald Dragonflies,eatenBy
+88028,,Acilius,,eatenBy
+88028,,Dytiscus,,eatenBy
+88028,,Graphoderus,,eatenBy
+88028,,Cordulia,,eatenBy
+88028,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+88028,,Lethocerus,,eatenBy
+88028,81576,Belostoma,,preyedUponBy
+88028,,Graphoderus,,preyedUponBy
+88028,,Lethocerus,,preyedUponBy
+88028,,Acilius,,preyedUponBy
+88028,,Dytiscus,,preyedUponBy

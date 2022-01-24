@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53267,58527,Euchloe olympia,Olympia Marble,eatenBy
+53267,55626,Pieris rapae,Cabbage White,eatenBy
+53267,59119,Pontia protodice,Checkered White,eatenBy
+53267,,Anthocharis cardamines,,eatenBy
+53267,,Anthocharis cethura,,eatenBy
+53267,69844,Anthocharis midea,Falcate Orangetip,eatenBy
+53267,,Euchloe belemia,,eatenBy
+53267,219635,Euchloe naina,Green Marble,eatenBy
+53267,59120,Euchloe ausonides,Large Marble,eatenBy
+53267,,Pieris napi,,eatenBy
+53267,,Pieris brassicae,,eatenBy
+53267,,Euchloe simplonia,,eatenBy
+53267,,Pontia sisymbrii,,eatenBy
+53267,,Zegris eupheme,,eatenBy
+53267,,Pontia beckerii,,eatenBy
+53267,123810,Pontia daplidice,Bath White,eatenBy
+53267,,Anthocharis euphenoides,,eatenBy
+53267,,Anthocharis damone,,eatenBy
+53267,,Pontia chloridice,,eatenBy
+53267,,Ceutorhynchus rapae,,eatenBy
+53267,894754,Ceutorhynchus picitarsis,,eatenBy
+53267,,Ceutorhynchus contractus,,eatenBy
+53267,,Bruchus pisorum,,eatenBy
+53267,,Athalia rosae,,eatenBy
+53267,,Athalia ancilla,,eatenBy
+53267,,Chromatomyia horticola,,eatenBy
+53267,,Anthocharis pima,,eatenBy
+53267,,Evergestis extimalis,,eatenBy
+53267,,Athalia liberta,,eatenBy
+53267,,Alectoris chukar,,eatenBy
+53267,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+53267,47219,Apis mellifera,Western Honey Bee,pollinatedBy

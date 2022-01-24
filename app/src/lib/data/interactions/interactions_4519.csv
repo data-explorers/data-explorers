@@ -1,0 +1,199 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4519,47187,Malacostraca,Malacostracans,eats
+4519,51911,Engraulidae,Anchovies,eats
+4519,153112,Euphausiacea,krill,eats
+4519,2,Chordata,Chordates,eats
+4519,47285,Scorpaenidae,Scorpionfishes,eats
+4519,1,Animalia,Animals,eats
+4519,47490,Polychaeta,Polychaete Worms,eats
+4519,85493,Crustacea,Crustaceans,eats
+4519,47178,Actinopterygii,Ray-finned Fishes,eats
+4519,121639,Brachyura,True Crabs,eats
+4519,48332,Scyphozoa,True Jellies,eats
+4519,51912,Engraulis,,eats
+4519,47645,Cottidae,Typical Sculpins,eats
+4519,63770,Engraulis mordax,Northern Anchovy,eats
+4519,47628,Amphipoda,Amphipods,eats
+4519,47186,Decapoda,Decapods,eats
+4519,47459,Cephalopoda,Cephalopods,eats
+4519,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+4519,195136,Euphausia,,eats
+4519,47825,Pycnogonida,Pycnogonids,eats
+4519,85532,Mysida,Opossum Shrimps,eats
+4519,4519,Uria aalge,Common Murre,eats
+4519,49581,Nereididae,,eats
+4519,195134,Euphausiidae,Euphotic Krill,eats
+4519,51200,Hippolytidae,Hump-backed Shrimps,eats
+4519,63742,Gadidae,Cods and Haddocks,eats
+4519,85574,Ammodytidae,Sand Lances,eats
+4519,47762,Sebastes,Rockfishes,eats
+4519,85629,Bathymasteridae,Ronquils,eats
+4519,85949,Osmeridae,Smelts,eats
+4519,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+4519,153110,Lophogastrida,,eats
+4519,,Gnathostomata,,eats
+4519,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4519,165100,Mallotus villosus,Capelin,eats
+4519,117566,Hypomesus pretiosus,Surf Smelt,eats
+4519,117568,Aulorhynchus flavidus,tubesnout,eats
+4519,98855,Cymatogaster aggregata,Shiner Surfperch,eats
+4519,169919,Trichodon trichodon,Pacific Sandfish,eats
+4519,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4519,117569,Microgadus proximus,Pacific Tomcod,eats
+4519,103971,Lampetra ayresii,Western River Lamprey,eats
+4519,1027744,Arene tricarinata,,eats
+4519,105599,Merluccius productus,Pacific Hake,eats
+4519,60021,Porichthys notatus,Plainfin Midshipman,eats
+4519,,Medusozoa,,eats
+4519,48648,Salmo salar,Atlantic Salmon,eats
+4519,82351,Melanogrammus aeglefinus,Haddock,eats
+4519,,unspecieid saithe,,eats
+4519,97990,Clupea harengus,Atlantic Herring,eats
+4519,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4519,324532,Sprattus sprattus,European Sprat,eats
+4519,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4519,,Peprillus simillimus,,eats
+4519,47646,Myoxocephalus,Shorthorn Sculpins,eats
+4519,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",eats
+4519,120702,Micromesistius poutassou,Blue Whiting,eats
+4519,,Kondakovia longimana,,eats
+4519,,Gasterosteidae,,eats
+4519,88653,Gymnelus,,eats
+4519,117571,Clupea pallasii,Pacific herring,eats
+4519,614162,Micromesistius australis,Southern blue whiting,eats
+4519,215318,Boreogadus saida,Arctic Cod,eats
+4519,612082,Furcina osimae,,eats
+4519,51910,Engraulis encrasicolus,European Anchovy,eats
+4519,,Macruronus magellanicus,,eats
+4519,180029,Gadus macrocephalus,Pacific Cod,eats
+4519,89645,Lumpenus,,eats
+4519,328042,Engraulis japonicus,Japanese Anchovy,eats
+4519,82353,Merluccius,Hakes,eats
+4519,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+4519,129185,Mysis,,eats
+4519,63740,Gadus morhua,Atlantic Cod,eats
+4519,88265,Etrumeus,Red-eye Round Herrings,eats
+4519,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4519,118600,Sardina pilchardus,European Sardine,eats
+4519,47525,Pleuronectidae,Righteye Flounders,eats
+4519,219756,Eumesogrammus praecisus,Fourline Snakeblenny,eats
+4519,430553,Merlangius merlangus,Whiting,eats
+4519,213402,Ammodytes americanus,American Sand Lance,eats
+4519,,Trisopterus minutus,,eats
+4519,,Teuthida,,eats
+4519,,,,eats
+4519,218966,Eleginus gracilis,Saffron Cod,eats
+4519,146888,Illex,Shortfin Squids,eats
+4519,223433,Leptoclinus maculatus,Daubed Shanny,eats
+4519,92628,Trigla,Gurnards,eats
+4519,55398,Solea,,eats
+4519,82337,Loligo,,eats
+4519,85289,Pseudophycis bachus,Red cod,eats
+4519,64464,Sebastes jordani,Shortbelly Rockfish,eats
+4519,,Others,,eats
+4519,117567,Spirinchus starksi,Night Smelt,eats
+4519,447397,Engraulis anchoita,Argentine Anchoita,eats
+4519,,Etrumeus teres,,eats
+4519,502271,Engraulis australis,Australian Anchovy,eats
+4519,118601,Trisopterus luscus,Pouting,eats
+4519,86107,Trachinidae,Weeverfishes,eats
+4519,86396,Ammodytes,,eats
+4519,228496,Pollachius virens,Pollock,eats
+4519,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4519,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+4519,8010,Corvus corax,Common Raven,eatenBy
+4519,42069,Vulpes vulpes,Red Fox,eatenBy
+4519,41740,Zalophus californianus,California Sea Lion,eatenBy
+4519,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4519,4519,Uria aalge,Common Murre,eatenBy
+4519,42054,Vulpes,Typical Foxes,eatenBy
+4519,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+4519,4657,Falco rusticolus,Gyrfalcon,eatenBy
+4519,4368,Larus marinus,Great Black-backed Gull,eatenBy
+4519,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4519,144297,Stercorarius skua,Great Skua,eatenBy
+4519,204533,Larus argentatus,Herring Gull,eatenBy
+4519,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+4519,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4519,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4519,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+4519,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4519,4389,Larus cachinnans,Caspian Gull,eatenBy
+4519,19898,Strix aluco,Tawny Owl,eatenBy
+4519,8029,Corvus frugilegus,Rook,eatenBy
+4519,,Coloeus monedula,,eatenBy
+4519,204496,Corvus corone,Carrion Crow,eatenBy
+4519,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4519,42048,Canis lupus,Gray Wolf,eatenBy
+4519,41900,Herpestes ichneumon,Ichneumon,eatenBy
+4519,41852,Gulo gulo,Wolverine,eatenBy
+4519,64714,Vaccinium uliginosum,bog bilberry,eatenBy
+4519,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4519,,Elaphe situla,,eatenBy
+4519,39407,Varanus griseus,Desert Monitor,eatenBy
+4519,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4519,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4519,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4519,41521,Orcinus orca,Orca,eatenBy
+4519,63740,Gadus morhua,Atlantic Cod,eatenBy
+4519,63770,Engraulis mordax,Northern Anchovy,preysOn
+4519,47645,Cottidae,Typical Sculpins,preysOn
+4519,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+4519,47827,Cancer,,preysOn
+4519,195134,Euphausiidae,Euphotic Krill,preysOn
+4519,49235,Clupeiformes,Herrings,preysOn
+4519,85910,Myctophidae,Lanternfishes,preysOn
+4519,51911,Engraulidae,Anchovies,preysOn
+4519,47762,Sebastes,Rockfishes,preysOn
+4519,,Pleuronectiformes,,preysOn
+4519,47522,Oncorhynchus,Pacific Salmons and Trouts,preysOn
+4519,85949,Osmeridae,Smelts,preysOn
+4519,63691,Cololabis saira,Pacific Saury,preysOn
+4519,63687,Embiotocidae,Surfperches,preysOn
+4519,117567,Spirinchus starksi,Night Smelt,preysOn
+4519,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,preysOn
+4519,113994,Thaleichthys pacificus,Eulachon,preysOn
+4519,112983,Spirinchus thaleichthys,Longfin Smelt,preysOn
+4519,52539,Ophiodon elongatus,Lingcod,preysOn
+4519,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4519,213065,Allosmerus elongatus,Whitebait Smelt,preysOn
+4519,117569,Microgadus proximus,Pacific Tomcod,preysOn
+4519,117555,Embiotoca lateralis,Striped surfperch,preysOn
+4519,117571,Clupea pallasii,Pacific herring,preysOn
+4519,53692,Oncorhynchus kisutch,Coho Salmon,preysOn
+4519,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+4519,180031,Microstomus pacificus,Pacific Dover Sole,preysOn
+4519,117542,Citharichthys stigmaeus,speckled sanddab,preysOn
+4519,104926,Lyopsetta exilis,Slender Sole,preysOn
+4519,117566,Hypomesus pretiosus,Surf Smelt,preysOn
+4519,68596,Hexagrammos decagrammus,Kelp Greenling,preysOn
+4519,54191,Oncorhynchus tshawytscha,Chinook Salmon,preysOn
+4519,48454,Hexagrammidae,Greenlings,preysOn
+4519,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4519,117545,Parophrys vetulus,English sole,preysOn
+4519,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+4519,226885,Pandalus jordani,Ocean Shrimp,preysOn
+4519,49236,Clupeidae,"Shads, Sardines, and Menhadens",preysOn
+4519,63742,Gadidae,Cods and Haddocks,preysOn
+4519,,Clupeoidei,,preysOn
+4519,,Octopus rubescens,,preysOn
+4519,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+4519,296029,Thysanoessa spinifera,,preysOn
+4519,105599,Merluccius productus,Pacific Hake,preysOn
+4519,117553,Brachyistius frenatus,Kelp Surfperch,preysOn
+4519,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+4519,201713,Euphausia pacifica,North Pacific krill,preysOn
+4519,97375,Chilara taylori,Spotted Cusk-eel,preysOn
+4519,222155,Icichthys lockingtoni,Medusafish,preysOn
+4519,1303751,Pleuronectoidei,Flatfishes,preysOn
+4519,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",preysOn
+4519,64464,Sebastes jordani,Shortbelly Rockfish,preysOn
+4519,55535,Sardinops sagax,Pacific Sardine,preysOn
+4519,85721,Cynoglossidae,Tonguefishes,preysOn
+4519,85574,Ammodytidae,Sand Lances,preysOn
+4519,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+4519,,Crangon franciscorum,,preysOn
+4519,432427,Gonatus fabricii,Boreoatlantic Gonate Squid,preysOn
+4519,112417,Sebastes fasciatus,Acadian redfish,preysOn
+4519,41740,Zalophus californianus,California Sea Lion,preyedUponBy
+4519,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy

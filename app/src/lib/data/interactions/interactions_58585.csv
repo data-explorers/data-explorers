@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58585,58736,Pyrus,pears,eats
+58585,53453,Salix,Willows,eats
+58585,69758,Lumbricidae,Earthworms,eats
+58585,117438,Dipsacus laciniatus,cutleaf teasel,eats
+58585,,Eupatorium serotinum,,eats
+58585,,Brachyponera chinensis,,eatenBy

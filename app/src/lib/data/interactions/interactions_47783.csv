@@ -1,0 +1,93 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47783,47628,Amphipoda,Amphipods,eats
+47783,121643,Copepoda,Copepods,eats
+47783,47158,Insecta,Insects,eats
+47783,906,Meleagris gallopavo,Wild Turkey,eats
+47783,333586,Oligochaeta,Earthworms and allies,eats
+47783,47126,Plantae,plants,eats
+47783,63089,Clitellata,Clitellates,eats
+47783,,Unidentified sp1 FW_012_02,,eats
+47783,,Embryophyta,,eats
+47783,325537,Aeolosoma,,eats
+47783,233662,Wormaldia moesta,,eats
+47783,,Wigeongrass,,eats
+47783,,Zooplankton,,eats
+47783,,Infauna,,eats
+47783,,Detritus,,eats
+47783,144129,Cephalocarida,Horseshoe Shrimps,eats
+47783,,phytoplankton - periphyton,,eats
+47783,,Filterers,,eats
+47783,,Scrapers,,eats
+47783,,Gatherers,,eats
+47783,,Shredders,,eats
+47783,,Navicula avenacea,,eats
+47783,408499,Coloburiscus humeralis,Spinygilled Mayfly,eats
+47783,,Hydrobiosella stenocerca,,eats
+47783,231326,Sphaerium occidentale,Herrington fingernailclam,eats
+47783,,Terrestrial plant material,,eats
+47783,,Unknown organic,,eats
+47783,,Radicites,,eats
+47783,,Oligo smooth,,eats
+47783,376157,Deleatidium,Suckergilled Mayflies,eats
+47783,4956,Ardea herodias,Great Blue Heron,eatenBy
+47783,4929,Ardeidae,"Herons, Egrets, and Bitterns",eatenBy
+47783,41661,Procyon,Raccoons,eatenBy
+47783,53911,Cyprinus carpio,European Carp,eatenBy
+47783,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+47783,473,Fulica americana,American Coot,eatenBy
+47783,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47783,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eatenBy
+47783,2548,Megaceryle alcyon,Belted Kingfisher,eatenBy
+47783,41777,Lontra canadensis,North American River Otter,eatenBy
+47783,3759,Plegadis chihi,White-faced Ibis,eatenBy
+47783,1264432,Neogale vison,American Mink,eatenBy
+47783,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+47783,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+47783,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+47783,,Mexican mojarras,,eatenBy
+47783,,Batrachoididae,,eatenBy
+47783,49438,Centropomidae,Snooks,eatenBy
+47783,,American mink,,eatenBy
+47783,4208,Podiceps cristatus,Great Crested Grebe,eatenBy
+47783,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47783,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+47783,,herons - ibises,,eatenBy
+47783,,Amiiformes,,eatenBy
+47783,,Vertebrate predators (fish),,eatenBy
+47783,,Squalius cephalus,,eatenBy
+47783,109315,Phoxinus phoxinus,European Minnow,eatenBy
+47783,55387,Esox lucius,Northern Pike,eatenBy
+47783,112581,Silurus glanis,Wels Catfish,eatenBy
+47783,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy
+47783,102975,Huso huso,Beluga,eatenBy
+47783,128278,Hemibarbus labeo,Barbel Steed,eatenBy
+47783,,Amia calva,,eatenBy
+47783,104813,Lota lota,Burbot,eatenBy
+47783,208885,Astronotus ocellatus,Oscar,eatenBy
+47783,96740,Caranx crysos,Blue Runner,eatenBy
+47783,58637,Ambloplites rupestris,Rock Bass,eatenBy
+47783,51367,Esox niger,Chain Pickerel,eatenBy
+47783,521489,Tandanus tandanus,Freshwater Catfish,eatenBy
+47783,,Neosilurus,,eatenBy
+47783,,Amblyopsis rosae,,eatenBy
+47783,105820,Micropterus notius,Suwannee Bass,eatenBy
+47783,4937,Egretta caerulea,Little Blue Heron,eatenBy
+47783,204496,Corvus corone,Carrion Crow,eatenBy
+47783,4364,Larus delawarensis,Ring-billed Gull,eatenBy
+47783,7109,Lophodytes cucullatus,Hooded Merganser,preysOn
+47783,2548,Megaceryle alcyon,Belted Kingfisher,preyedUponBy
+47783,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,preyedUponBy
+47783,4246,Podilymbus podiceps,Pied-billed Grebe,preyedUponBy
+47783,41777,Lontra canadensis,North American River Otter,preyedUponBy
+47783,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+47783,1264432,Neogale vison,American Mink,preyedUponBy
+47783,4626,Gavia immer,Common Loon,preyedUponBy
+47783,144455,Ardea alba,Great Egret,preyedUponBy
+47783,7109,Lophodytes cucullatus,Hooded Merganser,preyedUponBy
+47783,,Mexican mojarras,,preyedUponBy
+47783,49438,Centropomidae,Snooks,preyedUponBy
+47783,,Batrachoididae,,preyedUponBy
+47783,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+47783,4937,Egretta caerulea,Little Blue Heron,preyedUponBy
+47783,4364,Larus delawarensis,Ring-billed Gull,preyedUponBy
+47783,,Platalea leucorodia,,preyedUponBy

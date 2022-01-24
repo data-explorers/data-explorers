@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41727,47459,Cephalopoda,Cephalopods,eats
+41727,,Pisces,,eats
+41727,43584,Homo sapiens,Human,eatenBy
+41727,424322,Odontoceti,Toothed Whales,eatenBy
+41727,4198,Macronectes giganteus,Southern Giant-Petrel,eatenBy
+41727,47459,Cephalopoda,Cephalopods,preysOn
+41727,,Pisces,,preysOn
+41727,43584,Homo sapiens,Human,preyedUponBy
+41727,424322,Odontoceti,Toothed Whales,preyedUponBy

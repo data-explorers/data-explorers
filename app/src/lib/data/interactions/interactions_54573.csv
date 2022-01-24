@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54573,54856,Tilia,"lindens, basswoods, and lime trees",eats
+54573,53352,Alnus,alders,eats
+54573,49203,Fagus,beeches,eats
+54573,47851,Quercus,oaks,eats
+54573,47434,Poaceae,grasses,eats
+54573,40151,Mammalia,Mammals,eats
+54573,132600,Tilia cordata,Small-leaved Lime,eats
+54573,49005,Quercus rubra,northern red oak,eats
+54573,53343,Acacia dealbata,Silver wattle,eats
+54573,47452,Acacia,wattles,eats
+54573,53453,Salix,Willows,eats
+54573,,Bos taurus,,eats
+54573,,Ilex aquifolium,,eats
+54573,,Acer pseudoplatanus,,eats
+54573,152871,Cetacea,Cetaceans,eats
+54573,61964,Prunus avium,wild cherry,eats
+54573,,Fraxinus americana,,eats
+54573,,Citrus reticulata,,eats

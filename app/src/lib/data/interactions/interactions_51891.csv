@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51891,6317,Calypte anna,Anna's Hummingbird,eatenBy
+51891,50931,Strymon melinus,Gray Hairstreak,eatenBy
+51891,,Philotes sonorensis,,eatenBy
+51891,,Incisalia,,eatenBy
+51891,,Glyptostoma newberryanum,,eatenBy
+51891,,Bombus flavifrons,,eatenBy
+51891,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+51891,155108,Ceratina,Small Carpenter Bees,pollinatedBy
+51891,6317,Calypte anna,Anna's Hummingbird,pollinatedBy
+51891,57678,Lasioglossum,,pollinatedBy
+51891,173032,Ashmeadiella,,pollinatedBy
+51891,6359,Selasphorus sasin,Allen's Hummingbird,pollinatedBy
+51891,53072,Bembix americana,American Sand Wasp,pollinatedBy
+51891,52775,Bombus,Bumble Bees,pollinatedBy
+51891,47653,Hesperiidae,Skippers,pollinatedBy
+51891,82525,Augochlorella pomoniella,Peridot Sweat Bee,pollinatedBy
+51891,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",pollinatedBy
+51891,5562,Trochilidae,Hummingbirds,pollinatedBy
+51891,57682,Anthophora,Common Digger Bees,pollinatedBy
+51891,,http://treatment.plazi.org/id/881812EB7BB25C0495075B42A70E9E66,,pollinatedBy
+51891,,http://treatment.plazi.org/id/FAA4FEE614A55A388C4DBC886910D7BF,,pollinatedBy
+51891,,http://treatment.plazi.org/id/B0FCF824EB4DDB0E47624B920C09C606,,pollinatedBy
+51891,,Lasioglossum channelense,,pollinatedBy
+51891,,http://treatment.plazi.org/id/F3C82C8844475B3FA2A57862A09D7152,,pollinatedBy
+51891,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+51891,52481,Volucella,,pollinatedBy
+51891,,http://treatment.plazi.org/id/F80B87DA5969FFC1FF51FF29FE0EFEB0,,pollinatedBy
+51891,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+51891,,http://treatment.plazi.org/id/BE798AAC77C05027A2259291AAA655C7,,pollinatedBy
+51891,,Bombylius lancifer,,pollinatedBy

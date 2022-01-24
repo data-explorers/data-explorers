@@ -1,0 +1,110 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4308,2,Chordata,Chordates,eats
+4308,59115,Gambusia affinis,Western Mosquitofish,eats
+4308,132473,Lagodon rhomboides,Pinfish,eats
+4308,49592,Lepomis,Common Sunfishes,eats
+4308,49591,Lepomis macrochirus,Bluegill,eats
+4308,53911,Cyprinus carpio,European Carp,eats
+4308,49587,Micropterus salmoides,Largemouth Bass,eats
+4308,58648,Fundulus,Typical Killifishes,eats
+4308,47115,Mollusca,Molluscs,eats
+4308,1,Animalia,Animals,eats
+4308,47208,Coleoptera,Beetles,eats
+4308,47114,Gastropoda,Gastropods,eats
+4308,47186,Decapoda,Decapods,eats
+4308,47584,Bivalvia,Bivalves,eats
+4308,62164,Trichoptera,Caddisflies,eats
+4308,51911,Engraulidae,Anchovies,eats
+4308,49172,Sciaenidae,Drums,eats
+4308,54662,Mugil,Common Mullets,eats
+4308,49235,Clupeiformes,Herrings,eats
+4308,89855,Menticirrhus,Kingcroakers,eats
+4308,47158,Insecta,Insects,eats
+4308,47178,Actinopterygii,Ray-finned Fishes,eats
+4308,85876,Loricariidae,Armored Catfishes,eats
+4308,85493,Crustacea,Crustaceans,eats
+4308,121639,Brachyura,True Crabs,eats
+4308,51912,Engraulis,,eats
+4308,260534,Macrobrachium jelskii,Agar river prawn,eats
+4308,,Palaemonetes,,eats
+4308,86705,Astyanax,,eats
+4308,,Odontesthes,,eats
+4308,,Oligosarcus,,eats
+4308,,Hoplias,,eats
+4308,,Pimelodus,,eats
+4308,109885,Poecilia latipinna,Sailfin Molly,eats
+4308,101057,Fundulus grandis,Gulf Killifish,eats
+4308,98945,Cyprinodon variegatus,Sheepshead Minnow,eats
+4308,101051,Fundulus chrysotus,golden topminnow,eats
+4308,146600,Micropogonias undulatus,Atlantic Croaker,eats
+4308,106222,Mugil cephalus,Sea Mullet,eats
+4308,,Lepomis gulosus,,eats
+4308,104824,Lucania parva,rainwater killifish,eats
+4308,52197,Penaeus,,eats
+4308,99544,Dorosoma cepedianum,American Gizzard Shad,eats
+4308,101068,Fundulus pulvereus,bayou topminnow,eats
+4308,105567,Menidia beryllina,Inland Silverside,eats
+4308,179512,Bairdiella chrysoura,Silver Perch,eats
+4308,51405,Elops saurus,Ladyfish,eats
+4308,179537,Mugil curema,White Mullet,eats
+4308,179593,Fundulus similis,Longnose Killifish,eats
+4308,105570,Menidia peninsulae,Tidewater Silverside,eats
+4308,51364,Brevoortia patronus,Gulf Menhaden,eats
+4308,179563,Leiostomus xanthurus,Spot Croaker,eats
+4308,,Adinia xenica,,eats
+4308,179623,Cynoscion arenarius,Sand Seatrout,eats
+4308,179620,Cynoscion nebulosus,Spotted Seatrout,eats
+4308,57814,Pogonias cromis,Black Drum,eats
+4308,105565,Membras martinica,Rough silverside,eats
+4308,49595,Pomoxis,Crappies,eats
+4308,58635,Lepomis megalotis,Longear Sunfish,eats
+4308,58636,Lepomis cyanellus,Green Sunfish,eats
+4308,,Teleostei,,eats
+4308,,Lepomis punctatus,,eats
+4308,104249,Lepisosteus oculatus,Spotted Gar,eats
+4308,,Mayaheros urophthalmus,,eats
+4308,,Fundulus persimilis,,eats
+4308,,Eucinostomus,,eats
+4308,179486,Poecilia mexicana,Shortfin Molly,eats
+4308,,Strongylura notata,,eats
+4308,,Menidia colei,,eats
+4308,,Garmanella pulchra,,eats
+4308,,Fundulus grandissimus,,eats
+4308,179600,Eucinostomus argenteus,Spotfin Mojarra,eats
+4308,,Collettea,,eats
+4308,,Poecilia velifera,,eats
+4308,179595,Floridichthys polyommus,Ocellated Killifish,eats
+4308,,Belonesox belizanus,,eats
+4308,,Eucinostomus harengulus,,eats
+4308,,Mayaheros,,eats
+4308,,Cyprinodon artifrons,,eats
+4308,,Stenolechia,,eats
+4308,,Gambusia yucatana,,eats
+4308,,Percichthys trucha,,eats
+4308,,Odontesthes hatcheri,,eats
+4308,47516,Oncorhynchus mykiss,Rainbow Trout,eats
+4308,,Parasericostoma ovale,,eats
+4308,,Galaxias platei,,eats
+4308,47518,Salmo trutta,Brown Trout,eats
+4308,,Non-biological,,eats
+4308,180181,Lycengraulis grossidens,Atlantic Sabretooth Anchovy,eats
+4308,,Anchoa marinii,,eats
+4308,,Jenynsia multidentata,,eats
+4308,50984,Pomatomus saltatrix,Bluefish,eats
+4308,,Mugil liza,,eats
+4308,,Mugil gaimardianus,,eats
+4308,,Farfantepenaeus paulensis,,eats
+4308,579722,Paralonchurus brasiliensis,,eats
+4308,608789,Odontesthes argentinensis,,eats
+4308,608771,Atherinella brasiliensis,,eats
+4308,447397,Engraulis anchoita,Argentine Anchoita,eats
+4308,,Trachinotus marginatus,,eats
+4308,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4308,49591,Lepomis macrochirus,Bluegill,preysOn
+4308,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4308,4308,Phalacrocorax brasilianus,Neotropic Cormorant,preysOn
+4308,99545,Dorosoma petenense,Threadfin Shad,preysOn
+4308,,Hypostomus,,preysOn
+4308,,Rhamphichthys rostratus,,preysOn
+4308,4308,Phalacrocorax brasilianus,Neotropic Cormorant,preyedUponBy
+4308,,Eunectes notaeus,,preyedUponBy

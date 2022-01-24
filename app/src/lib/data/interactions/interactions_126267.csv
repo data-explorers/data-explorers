@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126267,48070,Sagittaria latifolia,broadleaf arrowhead,eats
+126267,51119,Nymphaea odorata,American white waterlily,eats
+126267,51769,Gaillardia,Blanket Flowers,eats
+126267,,Nuphar lutea,,eats
+126267,,Ostrinia nubilalis,,eats
+126267,,Equisetum arvense,,eats
+126267,120583,Parasteatoda tepidariorum,Common House Spider,eatenBy
+126267,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+126267,16768,Tyrannus,Kingbirds,eatenBy
+126267,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+126267,12890,Catharus guttatus,Hermit Thrush,eatenBy
+126267,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+126267,,Empidonax alnorum,,eatenBy
+126267,,Empidonax flaviventris,,eatenBy
+126267,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+126267,17408,Vireo griseus,White-eyed Vireo,eatenBy
+126267,17394,Vireo gilvus,Warbling Vireo,eatenBy
+126267,,Magnolia,,pollinates

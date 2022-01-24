@@ -1,0 +1,153 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85910,85910,Myctophidae,Lanternfishes,eats
+85910,41525,Delphinus capensis,Long-beaked Common Dolphin,eatenBy
+85910,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+85910,4077,Oceanodroma furcata,Fork-tailed Storm-Petrel,eatenBy
+85910,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+85910,41496,Stenella longirostris,Spinner Dolphin,eatenBy
+85910,41550,Balaenoptera acutorostrata,Minke Whale,eatenBy
+85910,634585,Physonectae,,eatenBy
+85910,85910,Myctophidae,Lanternfishes,eatenBy
+85910,49441,Loliginidae,Pencil Squids,eatenBy
+85910,83316,Ommastrephidae,Flying Squids,eatenBy
+85910,3793,Sula sula,Red-footed Booby,eatenBy
+85910,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+85910,118603,Merluccius merluccius,European Hake,eatenBy
+85910,63740,Gadus morhua,Atlantic Cod,eatenBy
+85910,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+85910,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+85910,109963,Polycheles typhlops,,eatenBy
+85910,253675,Argonauta nouryi,Noury's Argonaut,eatenBy
+85910,260476,Plesionika acanthonotus,Lesser striped shrimp,eatenBy
+85910,558991,Plesionika heterocarpus,Arrow shrimp,eatenBy
+85910,459554,Chaceon quinquedens,Red Deepsea Crab,eatenBy
+85910,41543,Peponocephala electra,Melon-headed Whale,eatenBy
+85910,253716,Histioteuthis bonnellii,Ornate Cock-eyed Squid,eatenBy
+85910,253669,Illex coindetii,Southern Shortfin Squid,eatenBy
+85910,852690,Geryon longipes,,eatenBy
+85910,,Paromola cuvieri,,eatenBy
+85910,4202,Thalassoica antarctica,Antarctic Petrel,eatenBy
+85910,4184,Fulmarus glacialoides,Southern Fulmar,eatenBy
+85910,4138,Procellaria westlandica,Westland Petrel,eatenBy
+85910,4450,Sterna hirundo,Common Tern,eatenBy
+85910,4543,Aethia psittacula,Parakeet Auklet,eatenBy
+85910,,Pterodroma incerta,,eatenBy
+85910,4470,Sterna vittata,Antarctic Tern,eatenBy
+85910,106881,Nephrops norvegicus,Norway lobster,eatenBy
+85910,,Psychroteuthis glacialis,,eatenBy
+85910,432390,Berryteuthis magister,Schoolmaster Armhook Squid,eatenBy
+85910,41464,Kogia breviceps,Pygmy Sperm Whale,eatenBy
+85910,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eatenBy
+85910,4048,Pterodroma ultima,Murphy's Petrel,eatenBy
+85910,123962,Dosidicus gigas,Humboldt Squid,eatenBy
+85910,41423,Tasmacetus shepherdi,Shepherd's Beaked Whale,eatenBy
+85910,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+85910,4136,Procellaria aequinoctialis,White-chinned Petrel,eatenBy
+85910,4200,Halobaena caerulea,Blue Petrel,eatenBy
+85910,3821,Aptenodytes patagonicus,King Penguin,eatenBy
+85910,4164,Pachyptila desolata,Antarctic Prion,eatenBy
+85910,4163,Pachyptila belcheri,Slender-billed Prion,eatenBy
+85910,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+85910,,Lagenodelphis hosei,,eatenBy
+85910,41729,Mirounga leonina,Southern Elephant Seal,eatenBy
+85910,,Mesoplodon densirostris,,eatenBy
+85910,41751,Arctocephalus gazella,Antarctic Fur Seal,eatenBy
+85910,,Onykia ingens,,eatenBy
+85910,4090,Thalassarche chrysostoma,Gray-headed Albatross,eatenBy
+85910,93835,Amblyraja georgiana,Antarctic Starry Skate,eatenBy
+85910,3808,Pygoscelis papua,Gentoo Penguin,eatenBy
+85910,194676,Dissostichus eleginoides,Patagonian Toothfish,eatenBy
+85910,610058,Champsocephalus gunnari,Mackerel icefish,eatenBy
+85910,610056,Chaenocephalus aceratus,Blackfin Icefish,eatenBy
+85910,618319,Patagonotothen guntheri,Yellowfin Notothen,eatenBy
+85910,3820,Aptenodytes forsteri,Emperor Penguin,eatenBy
+85910,530446,Metelectrona herwigi,Herwig Lanternfish,eatenBy
+85910,226037,Notoscopelus resplendens,Patchwork Lanternfish,eatenBy
+85910,459279,Lampanyctus pusillus,Pygmy Lanternfish,eatenBy
+85910,617817,Protomyctophum andriashevi,,eatenBy
+85910,617788,Gymnoscopelus nicholsi,,eatenBy
+85910,530452,Protomyctophum normani,Norman's Lanternfish,eatenBy
+85910,530434,Electrona paucirastra,Belted Lanternfish,eatenBy
+85910,530457,Symbolophorus boops,Spotfin Lanternfish,eatenBy
+85910,617783,Electrona antarctica,,eatenBy
+85910,110696,Protomyctophum luciferum,,eatenBy
+85910,530438,Gymnoscopelus microlampas,Minispotted Lanternfish,eatenBy
+85910,530440,Hygophum hanseni,Hansen's Lanternfish,eatenBy
+85910,103965,Lampadena pontifex,,eatenBy
+85910,617821,Protomyctophum choriodon,,eatenBy
+85910,459369,Diaphus taaningi,,eatenBy
+85910,617819,Protomyctophum bolini,,eatenBy
+85910,103722,Krefftichthys anderssoni,,eatenBy
+85910,317153,Hygophum hygomii,Hygom's Lanternfish,eatenBy
+85910,194867,Diogenichthys atlanticus,Atlantic Lanternfish,eatenBy
+85910,459365,Diaphus effulgens,Headlight Lanternfish,eatenBy
+85910,317036,Ceratoscopelus warmingii,Warming's Lanternfish,eatenBy
+85910,530455,Scopelopsis multipunctatus,Multispot Lanternfish,eatenBy
+85910,120700,Diaphus meadi,Mead's Lanternfish,eatenBy
+85910,317001,Benthosema suborbitale,Dimple Lanternfish,eatenBy
+85910,530443,Lampanyctus australis,Austral Lanternfish,eatenBy
+85910,617789,Gymnoscopelus opisthopterus,,eatenBy
+85910,617785,Gymnoscopelus bolini,,eatenBy
+85910,530433,Electrona carlsbergi,Carlsberg's Lanternfish,eatenBy
+85910,530456,Symbolophorus barnardi,Barnard's Lanternfish,eatenBy
+85910,530435,Electrona subaspera,Rough Lanternfish,eatenBy
+85910,530421,Diaphus hudsoni,Hudson's Lanternfish,eatenBy
+85910,317181,Lampanyctus alatus,Winged Lanternfish,eatenBy
+85910,459373,Diaphus luetkeni,Luetken's Lanternfish,eatenBy
+85910,120683,Lobianchia dofleini,Doflein's Lanternfish,eatenBy
+85910,618295,Dissostichus mawsoni,Antarctic toothfish,eatenBy
+85910,,Puffinus griseus,,eatenBy
+85910,3825,Eudyptes chrysolophus,Macaroni Penguin,eatenBy
+85910,,Arctocephalus tropicalis,,eatenBy
+85910,4168,Daption capense,Cape Petrel,eatenBy
+85910,328996,Euphausia similis,,preysOn
+85910,,Pacifica,,preysOn
+85910,,Sergia lucens,,preysOn
+85910,114122,Thunnus alalunga,Albacore,preyedUponBy
+85910,41480,Tursiops,Bottlenose Dolphins,preyedUponBy
+85910,41496,Stenella longirostris,Spinner Dolphin,preyedUponBy
+85910,4519,Uria aalge,Common Murre,preyedUponBy
+85910,41510,Lagenorhynchus obliquidens,Pacific White-sided Dolphin,preyedUponBy
+85910,41740,Zalophus californianus,California Sea Lion,preyedUponBy
+85910,41482,Tursiops truncatus,Common Bottlenose Dolphin,preyedUponBy
+85910,41562,Balaenoptera physalus,Fin Whale,preyedUponBy
+85910,41553,Balaenoptera musculus,Blue Whale,preyedUponBy
+85910,41550,Balaenoptera acutorostrata,Minke Whale,preyedUponBy
+85910,41493,Stenella,Side-striped Dolphins,preyedUponBy
+85910,47459,Cephalopoda,Cephalopods,preyedUponBy
+85910,118603,Merluccius merluccius,European Hake,preyedUponBy
+85910,41559,Balaenoptera borealis,Sei Whale,preyedUponBy
+85910,41757,Callorhinus ursinus,Northern Fur Seal,preyedUponBy
+85910,105599,Merluccius productus,Pacific Hake,preyedUponBy
+85910,123962,Dosidicus gigas,Humboldt Squid,preyedUponBy
+85910,95500,Bathyraja interrupta,Sandpaper Skate,preyedUponBy
+85910,64478,Sebastes entomelas,Widow Rockfish,preyedUponBy
+85910,110361,Prionace glauca,Blue Shark,preyedUponBy
+85910,94439,Apristurus brunneus,Brown Catshark,preyedUponBy
+85910,108798,Parmaturus xaniurus,Filetail Catshark,preyedUponBy
+85910,52539,Ophiodon elongatus,Lingcod,preyedUponBy
+85910,64465,Sebastes pinniger,Canary Rockfish,preyedUponBy
+85910,64448,Sebastes diploproa,Splitnose Rockfish,preyedUponBy
+85910,64477,Sebastes flavidus,Yellowtail Rockfish,preyedUponBy
+85910,51353,Anoplopoma fimbria,Sablefish,preyedUponBy
+85910,41500,Stenella attenuata,Pantropical Spotted Dolphin,preyedUponBy
+85910,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preyedUponBy
+85910,,Puffinus griseus,,preyedUponBy
+85910,,Puffinus tenuirostris,,preyedUponBy
+85910,4144,Phoebastria immutabilis,Laysan Albatross,preyedUponBy
+85910,4141,Phoebastria nigripes,Black-footed Albatross,preyedUponBy
+85910,,Raja rhina,,preyedUponBy
+85910,,Lissodelphis borealis,,preyedUponBy
+85910,112423,Sebastolobus alascanus,Shortspine Thornyhead,preyedUponBy
+85910,,Reinhardtius stomias,,preyedUponBy
+85910,180031,Microstomus pacificus,Pacific Dover Sole,preyedUponBy
+85910,1316623,Pleuragramma antarcticum,,preyedUponBy
+85910,41512,Lagenorhynchus cruciger,Hourglass Dolphin,preyedUponBy
+85910,41729,Mirounga leonina,Southern Elephant Seal,preyedUponBy
+85910,74890,Physeter macrocephalus,Sperm Whale,preyedUponBy
+85910,41521,Orcinus orca,Orca,preyedUponBy
+85910,,Morotheutis ingens,,preyedUponBy
+85910,618295,Dissostichus mawsoni,Antarctic toothfish,preyedUponBy
+85910,41751,Arctocephalus gazella,Antarctic Fur Seal,preyedUponBy
+85910,,Psychroteuthis glacialis,,preyedUponBy
+85910,361765,Todarodes pacificus,Japanese Flying Squid,preyedUponBy

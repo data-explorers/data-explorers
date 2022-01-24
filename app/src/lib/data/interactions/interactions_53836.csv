@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53836,67334,Cyanobacteria,cyanobacteria,eats
+53836,,diatoms - blue-green algae,,eats
+53836,3941,Arenaria melanocephala,Black Turnstone,eatenBy
+53836,51225,Tipulidae,Large Crane Flies,eatenBy
+53836,450669,Phyteuma nigrum,Black Rampion,eatenBy

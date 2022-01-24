@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+70076,11867,Progne subis,Purple Martin,eatenBy
+70076,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+70076,16768,Tyrannus,Kingbirds,eatenBy
+70076,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+70076,17356,Vireo bellii,Bell's Vireo,eatenBy
+70076,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+70076,17355,Vireo,Vireos,eatenBy
+70076,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+70076,4209,Podiceps auritus,Horned Grebe,eatenBy
+70076,,Empidonax flaviventris,,eatenBy
+70076,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+70076,17408,Vireo griseus,White-eyed Vireo,eatenBy
+70076,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+70076,17394,Vireo gilvus,Warbling Vireo,eatenBy
+70076,,Vireo flavifrons,,eatenBy
+70076,85320,Monarda fistulosa,wild bergamot,pollinates
+70076,62642,Solanum rostratum,buffalo-bur,pollinates
+70076,,Bidens frondosa,,pollinates
+70076,,Apios americana,,pollinates
+70076,,Bidens connata,,pollinates
+70076,742759,Dodecatheon,shooting stars,pollinates
+70076,158761,Asclepias sullivantii,prairie milkweed,pollinates
+70076,130365,Sanicula marilandica,Maryland Black-snakeroot,pollinates
+70076,,Spiranthes lacera,,pollinates
+70076,,Aesculus hippocastanum,,pollinates
+70076,54824,Crataegus crus-galli,cockspur hawthorn,pollinates
+70076,48957,Arilus cristatus,Wheel Bug,preyedUponBy

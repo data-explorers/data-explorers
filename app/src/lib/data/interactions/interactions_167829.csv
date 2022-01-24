@@ -1,0 +1,75 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+167829,167829,Rhus typhina,staghorn sumac,eats
+167829,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+167829,48473,Ganoderma applanatum,artist's bracket,eatenBy
+167829,12727,Turdus migratorius,American Robin,eatenBy
+167829,167829,Rhus typhina,staghorn sumac,eatenBy
+167829,84640,Polistes dominula,European Paper Wasp,eatenBy
+167829,12942,Sialia sialis,Eastern Bluebird,eatenBy
+167829,9184,Zonotrichia albicollis,White-throated Sparrow,eatenBy
+167829,43794,Castor canadensis,American Beaver,eatenBy
+167829,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+167829,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+167829,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+167829,12890,Catharus guttatus,Hermit Thrush,eatenBy
+167829,12901,Catharus fuscescens,Veery,eatenBy
+167829,,Common muskrat,,eatenBy
+167829,,Episimus argutana,,eatenBy
+167829,,Samia cynthia,,eatenBy
+167829,,Citheronia azteca,,eatenBy
+167829,,Moodna ostrinella,,eatenBy
+167829,,Argema mittrei,,eatenBy
+167829,,Citheronia beledonon,,eatenBy
+167829,,Datana perspicua,,eatenBy
+167829,,Calycopis cecrops,,eatenBy
+167829,,Dichorda iridaria,,eatenBy
+167829,,Anacampsis rhoifructella,,eatenBy
+167829,,Biston betularia,,eatenBy
+167829,,Lophocampa caryae,,eatenBy
+167829,,Celastrina argiolus,,eatenBy
+167829,,BOLD:AAB5481,,eatenBy
+167829,,Diaporthe rhois,,eatenBy
+167829,,Phomopsis rhois,,eatenBy
+167829,,Stigmella intermedia,,eatenBy
+167829,,Melaphis rhois,,eatenBy
+167829,,Cerastipsocus venosus,,eatenBy
+167829,8001,Corvus ossifragus,Fish Crow,eatenBy
+167829,,Dryobates pubescens medianus,,eatenBy
+167829,324726,Lycorma delicatula,Spotted Lanternfly,eatenBy
+167829,,Carolinaia rhois,,eatenBy
+167829,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+167829,47220,Apis,Honey Bees,pollinatedBy
+167829,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+167829,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+167829,47652,Erynnis,Duskywings,pollinatedBy
+167829,52491,Eristalis,Drone Flies,pollinatedBy
+167829,130131,Ectemnius,,pollinatedBy
+167829,178498,Phytocoris,,pollinatedBy
+167829,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+167829,,Brachicoma,,pollinatedBy
+167829,,Pachyophthalmus,,pollinatedBy
+167829,250128,Pachyneuron,,pollinatedBy
+167829,,Polysphincta,,pollinatedBy
+167829,,Saparnopolius fulvus,,pollinatedBy
+167829,,Parhelophilus divisus,,pollinatedBy
+167829,,Sapyga centrata,,pollinatedBy
+167829,,Strangalia famelica,,pollinatedBy
+167829,,Siphonella,,pollinatedBy
+167829,,Gnathias,,pollinatedBy
+167829,,Bruchus,,pollinatedBy
+167829,,Mydas tibialis,,pollinatedBy
+167829,,Bracon,,pollinatedBy
+167829,,Triepeolus donatus,,pollinatedBy
+167829,,Siphona geniculata,,pollinatedBy
+167829,,Andrena carlini,,pollinatedBy
+167829,572115,Pseudopanurgus labrosus,,pollinatedBy
+167829,,Hiatomyia cyanescens,,pollinatedBy
+167829,,Coelioxys alternata,,pollinatedBy
+167829,,Holcopasites heliopsis,,pollinatedBy
+167829,,Hyptia reticulata,,pollinatedBy
+167829,,Mordellistena comata,,pollinatedBy
+167829,,Phor,,pollinatedBy
+167829,,Cynomyia,,pollinatedBy
+167829,,Metoposarcophaga,,pollinatedBy
+167829,14850,Sturnus vulgaris,European Starling,preyedUponBy
+167829,12727,Turdus migratorius,American Robin,preyedUponBy

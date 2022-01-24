@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+72486,58371,Cynodon dactylon,Bermuda grass,eats
+72486,76790,Eleusine indica,Goose Grass,eats
+72486,56955,Helianthus,sunflowers,eats
+72486,47158,Insecta,Insects,eats
+72486,20978,Amphibia,Amphibians,eats
+72486,47491,Annelida,Segmented Worms,eats
+72486,,Stuckenia pectinata,,eats
+72486,,Stigeoclonium,,eats
+72486,,Panicum repens,,eats
+72486,48448,Zea mays,Maize,eats
+72486,,Cyperus esculentus,,eats
+72486,26041,Crocodylidae,Crocodiles,eatenBy
+72486,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+72486,41964,Panthera leo,Lion,eatenBy
+72486,,Hyaenidae,,eatenBy
+72486,41955,Acinonyx jubatus,Cheetah,eatenBy
+72486,5344,Polemaetus bellicosus,Martial Eagle,eatenBy
+72486,5344,Polemaetus bellicosus,Martial Eagle,preyedUponBy

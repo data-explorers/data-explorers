@@ -1,0 +1,61 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83316,85962,Paralepididae,Barracudinas,eats
+83316,47178,Actinopterygii,Ray-finned Fishes,eats
+83316,153112,Euphausiacea,krill,eats
+83316,47459,Cephalopoda,Cephalopods,eats
+83316,85910,Myctophidae,Lanternfishes,eats
+83316,86082,Stomiidae,Barbeled Dragonfishes,eats
+83316,337528,Gonatidae,Armhook Squids,eats
+83316,82352,Merlucciidae,Merlucciid Hakes,eats
+83316,201735,Rhopalonematidae,,eats
+83316,85627,Bathylagidae,Deep-sea Smelts,eats
+83316,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+83316,3793,Sula sula,Red-footed Booby,eatenBy
+83316,3797,Sula leucogaster,Brown Booby,eatenBy
+83316,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+83316,432545,Todarodes sagittatus,European Flying Squid,eatenBy
+83316,41440,Phocoena phocoena,Harbour Porpoise,eatenBy
+83316,48397,Raja clavata,Thornback Skate,eatenBy
+83316,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+83316,228496,Pollachius virens,Pollock,eatenBy
+83316,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+83316,63740,Gadus morhua,Atlantic Cod,eatenBy
+83316,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+83316,4537,Anous minutus,Black Noddy,eatenBy
+83316,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+83316,4101,Puffinus nativitatis,Christmas Shearwater,eatenBy
+83316,4134,Bulweria bulwerii,Bulwer's Petrel,eatenBy
+83316,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+83316,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+83316,3788,Sula dactylatra,Masked Booby,eatenBy
+83316,4636,Fregata minor,Great Frigatebird,eatenBy
+83316,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+83316,4141,Phoebastria nigripes,Black-footed Albatross,eatenBy
+83316,4044,Pterodroma hypoleuca,Bonin Petrel,eatenBy
+83316,4535,Anous stolidus,Brown Noddy,eatenBy
+83316,4566,Gygis alba,White Tern,eatenBy
+83316,4144,Phoebastria immutabilis,Laysan Albatross,eatenBy
+83316,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+83316,41423,Tasmacetus shepherdi,Shepherd's Beaked Whale,eatenBy
+83316,74890,Physeter macrocephalus,Sperm Whale,eatenBy
+83316,41426,Berardius bairdii,Baird's Beaked Whale,eatenBy
+83316,4090,Thalassarche chrysostoma,Gray-headed Albatross,eatenBy
+83316,144433,Thalassarche melanophris,Black-browed Albatross,eatenBy
+83316,4091,Thalassarche chlororhynchos,Yellow-nosed Albatross,eatenBy
+83316,508990,Diomedea exulans,Wandering Albatross,eatenBy
+83316,430553,Merlangius merlangus,Whiting,eatenBy
+83316,147455,Makaira nigricans,Blue Marlin,eatenBy
+83316,59796,Centroscymnus coelolepis,Portuguese Dogfish,eatenBy
+83316,317007,Brama caribbea,,eatenBy
+83316,122033,Elagatis bipinnulata,Rainbow Runner,eatenBy
+83316,617016,Coelorinchus marinii,,eatenBy
+83316,363519,Alepocephalus rostratus,Risso's smooth-head,eatenBy
+83316,115167,Xiphias gladius,Swordfish,eatenBy
+83316,114126,Thunnus thynnus,Atlantic Bluefin Tuna,eatenBy
+83316,187416,Gasterochisma melampus,Butterfly Mackerel,eatenBy
+83316,122916,Lampris guttatus,Opah,eatenBy
+83316,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+83316,41464,Kogia breviceps,Pygmy Sperm Whale,eatenBy
+83316,41543,Peponocephala electra,Melon-headed Whale,eatenBy
+83316,41539,Pseudorca crassidens,False Killer Whale,eatenBy
+83316,115167,Xiphias gladius,Swordfish,preyedUponBy

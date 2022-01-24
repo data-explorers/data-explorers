@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63749,82145,Hemileuca,Sheepmoths,eatenBy
+63749,143734,Eupithecia miserulata,Common Eupithecia Moth,eatenBy
+63749,,Rhopobota unipunctana,,eatenBy
+63749,,Rhopobota naevana,,eatenBy
+63749,,Orthotaenia undulana,,eatenBy
+63749,,Sphinx drupiferarum,,eatenBy
+63749,,Sphinx gordius,,eatenBy
+63749,,Hemileuca maia,,eatenBy
+63749,,Epiglaea apiata,,eatenBy
+63749,,Chaetaglaea sericea,,eatenBy
+63749,,Melanchra picta,,eatenBy
+63749,,Pseudaletia unipuncta,,eatenBy
+63749,63752,Hyppa xylinoides,Common Hyppa Moth,eatenBy
+63749,,Spodoptera eridania,,eatenBy
+63749,47802,Lymantria dispar,LD Moth,eatenBy
+63749,,Stenalcidia pampinaria,,eatenBy
+63749,154057,Cingilia catenaria,Chain-dotted Geometer,eatenBy
+63749,,Dichomeris vacciniella,,eatenBy
+63749,,Lycaena epixanthe,,eatenBy
+63749,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+63749,49707,Halictidae,Sweat Bees,pollinatedBy
+63749,497142,Bombus dahlbomii,Giant Bumble Bee,pollinatedBy
+63749,133704,Bombus ruderatus,Large Garden Bumble Bee,pollinatedBy
+63749,,http://treatment.plazi.org/id/C72136B726E5580342B37994B63EAA2E,,pollinatedBy
+63749,,http://treatment.plazi.org/id/EFA2D9EE87F05E8EB207EC8EF0C3ACCB,,pollinatedBy

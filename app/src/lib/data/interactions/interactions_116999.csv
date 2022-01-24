@@ -1,0 +1,172 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+116999,2,Chordata,Chordates,eats
+116999,1,Animalia,Animals,eats
+116999,49587,Micropterus salmoides,Largemouth Bass,eats
+116999,49591,Lepomis macrochirus,Bluegill,eats
+116999,92734,Umbrina,,eats
+116999,49266,Tetraodontidae,Pufferfishes,eats
+116999,47314,Anguilliformes,True Eels,eats
+116999,40151,Mammalia,Mammals,eats
+116999,20978,Amphibia,Amphibians,eats
+116999,26036,Reptilia,Reptiles,eats
+116999,3,Aves,Birds,eats
+116999,473,Fulica americana,American Coot,eats
+116999,47178,Actinopterygii,Ray-finned Fishes,eats
+116999,47115,Mollusca,Molluscs,eats
+116999,322005,Girella tricuspidata,Luderick,eats
+116999,52461,Belonidae,Needlefishes,eats
+116999,355675,Vertebrata,Vertebrates,eats
+116999,132473,Lagodon rhomboides,Pinfish,eats
+116999,47233,Perciformes,Perch-like Fishes,eats
+116999,54196,Cichlidae,Cichlids,eats
+116999,49592,Lepomis,Common Sunfishes,eats
+116999,49175,Siluriformes,Catfishes,eats
+116999,54661,Mugilidae,Mullets,eats
+116999,85529,Mugiliformes,Mullets,eats
+116999,53911,Cyprinus carpio,European Carp,eats
+116999,49614,Lepomis gibbosus,Pumpkinseed,eats
+116999,,Ameiurus melas,,eats
+116999,58627,Perca flavescens,Yellow Perch,eats
+116999,,Teleostei,,eats
+116999,49593,Pomoxis annularis,White Crappie,eats
+116999,55387,Esox lucius,Northern Pike,eats
+116999,,Moxostoma macrolepidotum,,eats
+116999,49594,Pomoxis nigromaculatus,Black Crappie,eats
+116999,58654,Ameiurus nebulosus,Brown Bullhead,eats
+116999,,Catostomus macrocheilus,,eats
+116999,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",eats
+116999,,Ptychocheilus oregonensis,,eats
+116999,,Catostomidae,,eats
+116999,47516,Oncorhynchus mykiss,Rainbow Trout,eats
+116999,69922,Oncorhynchus nerka,Sockeye Salmon,eats
+116999,,Prosopium williamsoni,,eats
+116999,179620,Cynoscion nebulosus,Spotted Seatrout,eats
+116999,51372,Opsanus tau,Oyster Toadfish,eats
+116999,51363,Brevoortia tyrannus,Atlantic Menhaden,eats
+116999,93844,Ameiurus catus,White Catfish,eats
+116999,109046,Peprilus paru,Harvestfish,eats
+116999,113308,Strongylura marina,Atlantic Needlefish,eats
+116999,51404,Trichiurus lepturus,Largehead Hairtail,eats
+116999,179507,Peprilus triacanthus,Butterfish,eats
+116999,49219,Anguilla rostrata,American Eel,eats
+116999,146600,Micropogonias undulatus,Atlantic Croaker,eats
+116999,56047,Trinectes maculatus,Hogchoker,eats
+116999,84432,Morone americana,White Perch,eats
+116999,53744,Paralichthys dentatus,Summer Flounder,eats
+116999,,Odontesthes,,eats
+116999,47542,Istiophoridae,Billfishes,eats
+116999,49750,Archosargus probatocephalus,Sheepshead,eats
+116999,53693,Hypsypops rubicundus,Garibaldi,eats
+116999,106222,Mugil cephalus,Sea Mullet,eats
+116999,51392,Morone saxatilis,Striped Bass,eats
+116999,47231,Caranx,Kingfishes,eats
+116999,179469,Selene vomer,Lookdown,eats
+116999,53699,Semicossyphus pulcher,California sheephead,eats
+116999,58612,Carassius auratus,Goldfish,eats
+116999,,Salmoninae,,eats
+116999,,Entosphenus tridentatus,,eats
+116999,,Cichla ocellaris,,eats
+116999,47640,Myoxocephalus polyacanthocephalus,great sculpin,eats
+116999,355459,Micropterus floridanus,Florida Largemouth Bass,eats
+116999,51362,Alosa pseudoharengus,Alewife,eats
+116999,,Catostomus commersonii,,eats
+116999,,Trachinotus,,eats
+116999,51367,Esox niger,Chain Pickerel,eats
+116999,49513,Cynoscion,Weakfishes,eats
+116999,58655,Ictaluridae,North American Freshwater Catfishes,eats
+116999,179462,Sphoeroides nephelus,Southern Puffer,eats
+116999,49237,Alosa,Anadromous Shads,eats
+116999,,Paralabrax maculatofasciatus,,eats
+116999,,Catostomus catostomus,,eats
+116999,49316,Chaetodipterus faber,Atlantic Spadefish,eats
+116999,81554,Ictalurus punctatus,Channel Catfish,eats
+116999,,Catostomus occidentalis,,eats
+116999,52297,Triakis semifasciata,Leopard Shark,eats
+116999,58637,Ambloplites rupestris,Rock Bass,eats
+116999,,Atractosteus,,eats
+116999,117561,Phanerodon furcatus,White surfperch,eats
+116999,117551,Amphistichus argenteus,Barred Surfperch,eats
+116999,,Arvicola,,eats
+116999,27723,Triturus karelinii,Southern Crested Newt,eats
+116999,25669,Rana dalmatina,Agile Frog,eats
+116999,,Pelophylax kl. hispanicus,,eats
+116999,66319,Pelophylax cretensis,Cretan Frog,eats
+116999,,Natrix maura,,eats
+116999,25665,Rana iberica,Iberian Frog,eats
+116999,966787,Natrix natrix,grass snake,eats
+116999,,Chroicocephalus genei,,eats
+116999,,Neomys teres,,eats
+116999,25616,Rana italica,Italian Stream Frog,eats
+116999,25697,Rana graeca,Greek frog,eats
+116999,66322,Pelophylax esculentus,Edible Frog,eats
+116999,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+116999,20044,Bubo virginianus,Great Horned Owl,eatenBy
+116999,41663,Procyon lotor,Common Raccoon,eatenBy
+116999,8010,Corvus corax,Common Raven,eatenBy
+116999,,Crocodylus niloticus,,eatenBy
+116999,28451,Telescopus nigriceps,Black headed snake,eatenBy
+116999,27035,Hierophis viridiflavus carbonarius,,eatenBy
+116999,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+116999,39407,Varanus griseus,Desert Monitor,eatenBy
+116999,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+116999,,Elaphe situla,,eatenBy
+116999,204496,Corvus corone,Carrion Crow,eatenBy
+116999,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+116999,,Aquila chrysaetos,,eatenBy
+116999,63770,Engraulis mordax,Northern Anchovy,preysOn
+116999,47178,Actinopterygii,Ray-finned Fishes,preysOn
+116999,54661,Mugilidae,Mullets,preysOn
+116999,54662,Mugil,Common Mullets,preysOn
+116999,53912,Cyprinus,Typical Carps,preysOn
+116999,52461,Belonidae,Needlefishes,preysOn
+116999,116999,Pandion haliaetus,Osprey,preysOn
+116999,53911,Cyprinus carpio,European Carp,preysOn
+116999,85612,Atherinopsidae,Neotropical Silversides,preysOn
+116999,49175,Siluriformes,Catfishes,preysOn
+116999,90511,Oreochromis,Tilapias,preysOn
+116999,114756,Umbrina roncador,Yellowfin croaker,preysOn
+116999,85529,Mugiliformes,Mullets,preysOn
+116999,49587,Micropterus salmoides,Largemouth Bass,preysOn
+116999,54196,Cichlidae,Cichlids,preysOn
+116999,47233,Perciformes,Perch-like Fishes,preysOn
+116999,127352,Decapodiformes,Squids and Cuttlefishes,preysOn
+116999,47158,Insecta,Insects,preysOn
+116999,49591,Lepomis macrochirus,Bluegill,preysOn
+116999,52460,Tylosurus crocodilus,Crocodile Needlefish,preysOn
+116999,82326,Hypsopsetta guttulata,Diamond turbot,preysOn
+116999,108561,Paralichthys californicus,California Halibut,preysOn
+116999,179533,Fundulus parvipinnis,California Killifish,preysOn
+116999,71234,Porichthys myriaster,Specklefin Midshipman,preysOn
+116999,101455,Gillichthys mirabilis,Longjaw Mudsucker,preysOn
+116999,81963,Girella nigricans,Opaleye,preysOn
+116999,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+116999,103210,Hypsoblennius gentilis,Bay Blenny,preysOn
+116999,106222,Mugil cephalus,Sea Mullet,preysOn
+116999,99544,Dorosoma cepedianum,American Gizzard Shad,preysOn
+116999,,Catostomus occidentalis,,preysOn
+116999,118678,Scomber scombrus,Atlantic Mackerel,preysOn
+116999,106328,Mylocheilus caurinus,Peamouth,preysOn
+116999,53699,Semicossyphus pulcher,California sheephead,preysOn
+116999,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,preysOn
+116999,,Catostomus commersonii,,preysOn
+116999,49594,Pomoxis nigromaculatus,Black Crappie,preysOn
+116999,179469,Selene vomer,Lookdown,preysOn
+116999,81554,Ictalurus punctatus,Channel Catfish,preysOn
+116999,113307,Strongylura exilis,California needlefish,preysOn
+116999,51363,Brevoortia tyrannus,Atlantic Menhaden,preysOn
+116999,,Micropterus dolomieu,,preysOn
+116999,58627,Perca flavescens,Yellow Perch,preysOn
+116999,51405,Elops saurus,Ladyfish,preysOn
+116999,179445,Trachinotus falcatus,Permit,preysOn
+116999,,Sander vitreus,,preysOn
+116999,,Fistulariidae,,preysOn
+116999,84432,Morone americana,White Perch,preysOn
+116999,49237,Alosa,Anadromous Shads,preysOn
+116999,58655,Ictaluridae,North American Freshwater Catfishes,preysOn
+116999,51392,Morone saxatilis,Striped Bass,preysOn
+116999,,Paralabrax maculatofasciatus,,preysOn
+116999,,Pomatomidae,,preysOn
+116999,94802,Atherinopsis californiensis,Jack Silverside,preysOn
+116999,116999,Pandion haliaetus,Osprey,preyedUponBy
+116999,49750,Archosargus probatocephalus,Sheepshead,preyedUponBy
+116999,106222,Mugil cephalus,Sea Mullet,preyedUponBy

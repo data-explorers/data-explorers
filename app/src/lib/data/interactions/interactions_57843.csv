@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57843,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+57843,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+57843,19577,Chordeiles minor,Common Nighthawk,eatenBy
+57843,245993,Rhinopoma hardwickii,Lesser Mouse-tailed Bat,preyedUponBy
+57843,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+57843,183176,Asellia tridens,Geoffroy's Trident Leaf-nosed Bat,preyedUponBy
+57843,,Hypsugo ariel,,preyedUponBy

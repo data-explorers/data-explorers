@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47597,52775,Bombus,Bumble Bees,eatenBy
+47597,47219,Apis mellifera,Western Honey Bee,eatenBy
+47597,124420,Bombus californicus,California Bumble Bee,eatenBy
+47597,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+47597,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+47597,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+47597,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+47597,,Incisalia augustinus,,eatenBy
+47597,,Callophrys augustinus,,eatenBy
+47597,,Ariolimax buttoni,,eatenBy
+47597,,Cultellunguis americanus,,eatenBy
+47597,,Bombus flavifrons,,eatenBy
+47597,,Vespula alascensis,,eatenBy
+47597,125138,Bombus vandykei,Van Dyke's Bumble Bee,eatenBy
+47597,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

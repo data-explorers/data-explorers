@@ -1,0 +1,266 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51225,53836,Cyanoplax,,eats
+51225,117781,Endocladia muricata,Scouring-pad alga,eats
+51225,69995,Littorina scutulata,Checkered Periwinkle,eats
+51225,460365,Tegula funebralis,Black Tegula,eats
+51225,67334,Cyanobacteria,cyanobacteria,eats
+51225,129409,Chironomus,,eats
+51225,51225,Tipulidae,Large Crane Flies,eats
+51225,325515,Melosira varians,,eats
+51225,,Typosyllis adamanteus,,eats
+51225,1061040,Dynamene glabra,,eats
+51225,,Littorina planaxis,,eats
+51225,,Collisella scabra,,eats
+51225,,Collisella pelta,,eats
+51225,691906,Syllis vittata,,eats
+51225,,Acmaea digitalis,,eats
+51225,,Detritus,,eats
+51225,,Dead cellular plant material,,eats
+51225,,Amorphous detritus,,eats
+51225,,Triplectides truncatus,,eats
+51225,,Riethia,,eats
+51225,,Gomphonema olivaceum,,eats
+51225,,Cymatopleura librile,,eats
+51225,494501,Tabellaria flocculosa,,eats
+51225,,Diatoma hiemale,,eats
+51225,,Eunotia incisa,,eats
+51225,,CPOM,,eats
+51225,244899,Eunotia,,eats
+51225,,Eunotia rhomboidea,,eats
+51225,,Pinnularia subcapitata,,eats
+51225,325542,Amphora ovalis,,eats
+51225,,Encyonema silesacum,,eats
+51225,345418,Fragilaria vaucheriae,,eats
+51225,,Hannaea arcus,,eats
+51225,,Navicula lanceolata,,eats
+51225,,Eunotia pectinalis,,eats
+51225,,Surirella ovalis,,eats
+51225,,Fragilaria,,eats
+51225,,Rhoicosphenia curvata,,eats
+51225,,Amphora pediculus,,eats
+51225,,Achnanthes joursacense,,eats
+51225,311562,Frustulia rhomboides,,eats
+51225,492486,Gomphonema angustatum,,eats
+51225,,Synedra minuscula,,eats
+51225,971369,Peronia fibula,,eats
+51225,,Navicula capitatoradiata,,eats
+51225,,Encyonema minutum,,eats
+51225,123886,Gomphonema,,eats
+51225,,Achnanthes oblongella,,eats
+51225,,Eunotia vanheurckii,,eats
+51225,,Staurosira elliptica,,eats
+51225,,Achnanthes minutissima,,eats
+51225,,Eucocconeis austriaca,,eats
+51225,,Diatoma vulgaris,,eats
+51225,339308,Achnanthes,,eats
+51225,,Navicula pseudofrugalis,,eats
+51225,,Navicula menisculus,,eats
+51225,,Cymbella lanceolata,,eats
+51225,,Achnanthidium helveticum,,eats
+51225,,Eunotia exigua,,eats
+51225,,Navicula cryptotenella,,eats
+51225,,Nitzschia dissipata,,eats
+51225,,Achnanthes modestiformis,,eats
+51225,359944,Navicula tripunctata,,eats
+51225,,Staurosirella leptostauron,,eats
+51225,,Cocconeis placentula,,eats
+51225,,Navicula gregaria,,eats
+51225,,Nitzschia perminuta,,eats
+51225,,Achnanthes lanceolata,,eats
+51225,,blue-green algal-bacterial mat,,eats
+51225,47119,Arachnida,Arachnids,eatenBy
+51225,3,Aves,Birds,eatenBy
+51225,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+51225,366894,Steatoda nobilis,Noble False Widow,eatenBy
+51225,9100,Melospiza melodia,Song Sparrow,eatenBy
+51225,32055,Elgaria multicarinata,Southern Alligator Lizard,eatenBy
+51225,7458,Certhia americana,Brown Creeper,eatenBy
+51225,47135,Badumna longinqua,Grey House Spider,eatenBy
+51225,51225,Tipulidae,Large Crane Flies,eatenBy
+51225,118597,Belone belone,Garfish,eatenBy
+51225,17355,Vireo,Vireos,eatenBy
+51225,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+51225,17356,Vireo bellii,Bell's Vireo,eatenBy
+51225,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+51225,3759,Plegadis chihi,White-faced Ibis,eatenBy
+51225,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+51225,18236,Colaptes auratus,Northern Flicker,eatenBy
+51225,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+51225,12901,Catharus fuscescens,Veery,eatenBy
+51225,12890,Catharus guttatus,Hermit Thrush,eatenBy
+51225,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+51225,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+51225,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+51225,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+51225,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+51225,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+51225,11867,Progne subis,Purple Martin,eatenBy
+51225,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+51225,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+51225,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+51225,295091,Tachytrechus angustipennis,,eatenBy
+51225,232564,Thermacarus nevadensis,Nevada Water Mite,eatenBy
+51225,262352,Partnuniella thermalis,,eatenBy
+51225,,Dolichovespula maculata,,eatenBy
+51225,,Pacificanthia consors,,eatenBy
+51225,,Laphria divisor,,eatenBy
+51225,58421,Phidippus johnsoni,Johnson's Jumping Spider,eatenBy
+51225,,Lebertia glabra,,eatenBy
+51225,577745,Trissopelopia,,eatenBy
+51225,371244,Plectrocnemia,,eatenBy
+51225,247738,Macropelopia,,eatenBy
+51225,,Macropelopia nebulosa,,eatenBy
+51225,,Sialis fuliginosa,,eatenBy
+51225,,Cordulegaster boltonii,,eatenBy
+51225,546250,Plectrocnemia conspersa,,eatenBy
+51225,114127,Thymallus thymallus,Grayling,eatenBy
+51225,109315,Phoxinus phoxinus,European Minnow,eatenBy
+51225,47518,Salmo trutta,Brown Trout,eatenBy
+51225,55387,Esox lucius,Northern Pike,eatenBy
+51225,,Nemadoras cristinae,,eatenBy
+51225,,Galaxias eldoni,,eatenBy
+51225,446027,Galaxias depressiceps,Taieri Flathead Galaxias,eatenBy
+51225,,Galaxias anomalus,,eatenBy
+51225,609411,Brycon dentex,,eatenBy
+51225,,Salvelinus alpinus alpinus,,eatenBy
+51225,,Galaxias vulgaris,,eatenBy
+51225,,Sillago schomburgkii,,eatenBy
+51225,,Trichomycterus corduvensis,,eatenBy
+51225,,Leuciscus leuciscus,,eatenBy
+51225,,Fulica americana columbiana,,eatenBy
+51225,17943,Dendrocopos leucotos,White-backed Woodpecker,eatenBy
+51225,,Dendrocopos minor,,eatenBy
+51225,94105,Anguilla anguilla,European Eel,eatenBy
+51225,,Galaxias,,eatenBy
+51225,51333,Macquaria australasica,Macquarie Perch,eatenBy
+51225,,Prototroctes maraena,,eatenBy
+51225,,Gobiomorphus breviceps,,eatenBy
+51225,47635,Cottus gobio,European Bullhead,eatenBy
+51225,3739,Threskiornis aethiopicus,African Sacred Ibis,eatenBy
+51225,649,Francolinus francolinus,Black Francolin,eatenBy
+51225,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+51225,949,Lagopus muta,Rock Ptarmigan,eatenBy
+51225,5017,Bubulcus ibis,Cattle Egret,eatenBy
+51225,162,Porzana carolina,Sora,eatenBy
+51225,72502,Anas chlorotis,Brown Teal,eatenBy
+51225,,Salpinctes obsoletus,,eatenBy
+51225,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+51225,,Oporornis philadelphia,,eatenBy
+51225,145236,Setophaga castanea,Bay-breasted Warbler,eatenBy
+51225,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+51225,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+51225,,Alectoris chukar,,eatenBy
+51225,7072,Tadorna variegata,Paradise Shelduck,eatenBy
+51225,,Hymenolaimus malacorhynchos,,eatenBy
+51225,17394,Vireo gilvus,Warbling Vireo,eatenBy
+51225,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+51225,17408,Vireo griseus,White-eyed Vireo,eatenBy
+51225,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+51225,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+51225,,Picoides pubescens,,eatenBy
+51225,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+51225,,Parkesia motacilla,,eatenBy
+51225,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+51225,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+51225,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+51225,,Corvus caurinus,,eatenBy
+51225,,Sphyrapicus thyroideus,,eatenBy
+51225,1897,Cuculus,Typical Cuckoos,eatenBy
+51225,6667,Cypseloides niger,Black Swift,eatenBy
+51225,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+51225,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+51225,51225,Tipulidae,Large Crane Flies,preysOn
+51225,129409,Chironomus,,preysOn
+51225,333586,Oligochaeta,Earthworms and allies,preysOn
+51225,53275,Chironomidae,Non-biting Midges,preysOn
+51225,,Triplectides truncatus,,preysOn
+51225,,Riethia,,preysOn
+51225,,Tanypodinae,,preysOn
+51225,,Ecdyonurus dispar,,preysOn
+51225,,Electrogena lateralis,,preysOn
+51225,,Hydrachnidia,,preysOn
+51225,51225,Tipulidae,Large Crane Flies,preyedUponBy
+51225,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+51225,123713,Neoscona oaxacensis,Western Spotted Orbweaver,preyedUponBy
+51225,42069,Vulpes vulpes,Red Fox,preyedUponBy
+51225,47866,Thomisidae,Crab Spiders,preyedUponBy
+51225,51556,Sympetrum,Meadowhawks,preyedUponBy
+51225,47927,Anisoptera,Dragonflies,preyedUponBy
+51225,47535,Araneidae,Orbweavers,preyedUponBy
+51225,3,Aves,Birds,preyedUponBy
+51225,47119,Arachnida,Arachnids,preyedUponBy
+51225,,Pyrrhosoma nymphula,,preyedUponBy
+51225,394124,Orthodera novaezealandiae,New Zealand Mantis,preyedUponBy
+51225,84494,Paraphidippus aurantius,Golden Jumping Spider,preyedUponBy
+51225,554158,Chartoscirta cincta,,preyedUponBy
+51225,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+51225,,Haemopis sanguisuga,,preyedUponBy
+51225,25591,Rana temporaria,European Common Frog,preyedUponBy
+51225,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+51225,498635,Lithobius piceus,,preyedUponBy
+51225,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+51225,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+51225,121766,Micrommata virescens,Green Huntsman Spider,preyedUponBy
+51225,,Somatochlora,,preyedUponBy
+51225,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+51225,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+51225,,Orthetrum cancellatum,,preyedUponBy
+51225,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+51225,121444,Larinioides,,preyedUponBy
+51225,,Dolichovespula sylvestris,,preyedUponBy
+51225,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+51225,,Sympetrum striolatum,,preyedUponBy
+51225,,Squalius cephalus,,preyedUponBy
+51225,47518,Salmo trutta,Brown Trout,preyedUponBy
+51225,55387,Esox lucius,Northern Pike,preyedUponBy
+51225,,Cordulegaster boltonii,,preyedUponBy
+51225,546250,Plectrocnemia conspersa,,preyedUponBy
+51225,114127,Thymallus thymallus,Grayling,preyedUponBy
+51225,,Leuciscus leuciscus,,preyedUponBy
+51225,,Tanypodinae,,preyedUponBy
+51225,,Plectrocnemia geniculata,,preyedUponBy
+51225,101585,Gobio gobio,Gudgeon,preyedUponBy
+51225,,Sialis fuliginosa,,preyedUponBy
+51225,,Erpobdella octoculata,,preyedUponBy
+51225,37456,Tiliqua scincoides,Common Blue-tongued Skink,preyedUponBy
+51225,,Bufo marinus,,preyedUponBy
+51225,,Crossocerus (Acanthocrabro) vagabundus,,preyedUponBy
+51225,,Rhopalum (Corynopus) coarctatum,,preyedUponBy
+51225,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+51225,40550,Chalinolobus tuberculatus,Long-tailed Wattled Bat,preyedUponBy
+51225,,Mystacina tuberculata,,preyedUponBy
+51225,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+51225,,Plecotus auritus,,preyedUponBy
+51225,74697,Myotis bechsteinii,Bechstein's bat,preyedUponBy
+51225,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+51225,765528,Hypsugo savii,Savi's Pipistrelle,preyedUponBy
+51225,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+51225,40715,Hipposideros ater,Dusky Roundleaf Bat,preyedUponBy
+51225,40585,Miniopterus,Bent-winged Bats,preyedUponBy
+51225,74432,Hipposideros sorenseni,Sorensen's Leaf-nosed Bat,preyedUponBy
+51225,40746,Hipposideros speoris,Schneider's roundleaf bat,preyedUponBy
+51225,183176,Asellia tridens,Geoffroy's Trident Leaf-nosed Bat,preyedUponBy
+51225,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+51225,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+51225,74717,Myotis punicus,Felten's myotis,preyedUponBy
+51225,40677,Rhinolophus euryale,Mediterranean horseshoe bat,preyedUponBy
+51225,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+51225,40576,Nyctalus lasiopterus,Giant Noctule,preyedUponBy
+51225,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+51225,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+51225,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+51225,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+51225,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+51225,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+51225,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+51225,40348,Myotis velifer,Cave Myotis,preyedUponBy
+51225,40691,Rhinolophus mehelyi,Mehely's horseshoe bat,preyedUponBy
+51225,40629,Lasionycteris noctivagans,Silver-haired Bat,preyedUponBy
+51225,40342,Myotis californicus,California Myotis,preyedUponBy
+51225,,Myotis austroriparius,,preyedUponBy
+51225,40352,Myotis grisescens,Gray Bat,preyedUponBy
+51225,295091,Tachytrechus angustipennis,,preyedUponBy
+51225,232564,Thermacarus nevadensis,Nevada Water Mite,preyedUponBy
+51225,262352,Partnuniella thermalis,,preyedUponBy
+51225,,Galaxias,,preyedUponBy
+51225,,Macropelopia nebulosa,,preyedUponBy

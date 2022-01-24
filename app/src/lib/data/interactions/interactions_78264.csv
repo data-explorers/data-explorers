@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+78264,216651,Chelinidea vittiger,Cactus coreid,eatenBy
+78264,199840,Haemorhous mexicanus,House Finch,eatenBy
+78264,41141,Leptonycteris,Mexican Long-nosed Bats,eatenBy
+78264,,Euscirrhopterus cosyra,,eatenBy
+78264,,Ashmeadiella gilletei,,pollinatedBy
+78264,,http://treatment.plazi.org/id/C9AB3633AE74C86812505383827B0F10,,pollinatedBy

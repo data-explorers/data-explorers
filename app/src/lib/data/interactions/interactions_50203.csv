@@ -1,0 +1,59 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50203,309466,Aphis gossypii,Melon Aphid,eatenBy
+50203,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+50203,47219,Apis mellifera,Western Honey Bee,eatenBy
+50203,60840,Spilosoma,,eatenBy
+50203,52484,Celastrina echo,Echo Azure,eatenBy
+50203,48662,Danaus plexippus,Monarch,eatenBy
+50203,,Mocis latipes,,eatenBy
+50203,,Thrips,,eatenBy
+50203,,Nathalis iole,,eatenBy
+50203,,Leptophobia aripa,,eatenBy
+50203,,Myzus ornatus,,eatenBy
+50203,,Aphis fabae,,eatenBy
+50203,,Myzus persicae,,eatenBy
+50203,,thrips,,eatenBy
+50203,,Rhopalosiphum padi,,eatenBy
+50203,,Guttera,,eatenBy
+50203,,Nyctemera leuconoe,,eatenBy
+50203,,Metarctia flavivena,,eatenBy
+50203,,Spilosoma jacksoni,,eatenBy
+50203,,Bombycopsis bipars,,eatenBy
+50203,,Aphnaeus orissanus,,eatenBy
+50203,,Condica concisa,,eatenBy
+50203,,Cropia minthe,,eatenBy
+50203,,Platphalonidia subolivacea,,eatenBy
+50203,776202,Horciasinus signoreti,,eatenBy
+50203,,Achlyodes pallida,,eatenBy
+50203,,Leptotes cassius,,eatenBy
+50203,,Phyciodes tharos tharos,,eatenBy
+50203,,Delta esuriens,,eatenBy
+50203,,Crithagra citrinelloides,,eatenBy
+50203,,Dioxyna sororcula,,eatenBy
+50203,,Riodina lysippoides,,eatenBy
+50203,,Streptopelia chinensis,,eatenBy
+50203,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+50203,51557,Bombylius major,Greater Bee Fly,pollinatedBy
+50203,48550,Phoebis sennae,Cloudless Sulphur,pollinatedBy
+50203,57678,Lasioglossum,,pollinatedBy
+50203,57677,Halictus,Furrow Bees,pollinatedBy
+50203,338665,Strymon eurytulus,,pollinatedBy
+50203,,Agraulis vanillae,,pollinatedBy
+50203,,Xylocopa darwini,,pollinatedBy
+50203,,Graptomyza triangulifera,,pollinatedBy
+50203,,Braunsapis,,pollinatedBy
+50203,,Phytomia bulligera,,pollinatedBy
+50203,,Tetraloniella vansoni,,pollinatedBy
+50203,,Chrysotoxum continum,,pollinatedBy
+50203,572701,Ceratina moerenhouti,,pollinatedBy
+50203,,Ochreriades,,pollinatedBy
+50203,,Lipotriches,,pollinatedBy
+50203,,Paragus longiventris,,pollinatedBy
+50203,362623,Pseudapis,,pollinatedBy
+50203,,Ceratina stuckenbergi,,pollinatedBy
+50203,,Rhingia trivittata,,pollinatedBy
+50203,,Hypotrigona,,pollinatedBy
+50203,574204,Othinosmia,Pebblenest Bees,pollinatedBy
+50203,,Braunsapis facialis,,pollinatedBy
+50203,,Episyrphus trisectus,,pollinatedBy
+50203,,Paragus borbonicus,,pollinatedBy

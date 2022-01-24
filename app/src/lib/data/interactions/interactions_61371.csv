@@ -1,0 +1,110 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61371,47490,Polychaeta,Polychaete Worms,eats
+61371,56652,Haliotis rufescens,Red Abalone,eats
+61371,48655,Aplysia californica,California Seahare,eats
+61371,49857,Aplysia vaccaria,Black Seahare,eats
+61371,53831,Tegula,Tegulas,eats
+61371,49723,Pugettia producta,Northern Kelp Crab,eats
+61371,61371,Panulirus interruptus,California Spiny Lobster,eats
+61371,47827,Cancer,,eats
+61371,59635,Phragmatopoma californica,California Sandcastle Worm,eats
+61371,62806,Mytilus californianus,California Mussel,eats
+61371,48645,Megathura crenulata,Giant Keyhole Limpet,eats
+61371,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eats
+61371,54526,Crassadoma gigantea,Giant Rock Scallop,eats
+61371,1,Animalia,Animals,eats
+61371,85493,Crustacea,Crustaceans,eats
+61371,48824,Porifera,Sponges,eats
+61371,47126,Plantae,plants,eats
+61371,121643,Copepoda,Copepods,eats
+61371,47115,Mollusca,Molluscs,eats
+61371,48073,Alismatales,"water-plantains, seagrass, and allies",eats
+61371,144117,Thecostraca,Barnacles and Allies,eats
+61371,68764,Ostracoda,Seed Shrimp,eats
+61371,68104,Bryozoa,Bryozoans,eats
+61371,47491,Annelida,Segmented Worms,eats
+61371,57774,Rhodophyta,red algae,eats
+61371,47429,Polyplacophora,Chitons,eats
+61371,47628,Amphipoda,Amphipods,eats
+61371,124748,Macrocystis pyrifera,Giant Kelp,eats
+61371,121639,Brachyura,True Crabs,eats
+61371,78561,Phyllospadix scouleri,Scouler's Surfgrass,eats
+61371,47534,Cnidaria,Cnidarians,eats
+61371,48147,Isopoda,Isopods,eats
+61371,48220,Phaeophyceae,brown algae,eats
+61371,47549,Echinodermata,Echinoderms,eats
+61371,54960,Nematoda,Nematodes,eats
+61371,47584,Bivalvia,Bivalves,eats
+61371,51021,Dictyota,Y-branched Algae,eats
+61371,78562,Phyllospadix torreyi,Torrey's Surfgrass,eats
+61371,47114,Gastropoda,Gastropods,eats
+61371,339286,Diopatra ornata,Ornate Tubeworm,eats
+61371,347389,Lithopoma,,eats
+61371,117617,Hiatella arctica,Arctic Hiatella,eats
+61371,992313,Mesocentrotus franciscanus,Red Sea Urchin,eats
+61371,,Norrisia norrisi,,eats
+61371,437765,Pteropurpura trialata,Three-winged Murex,eats
+61371,,Cypraea spadicea,,eats
+61371,,Mitra idae,,eats
+61371,120957,Loxorhynchus grandis,Sheep Crab,eats
+61371,125663,Kelletia kelletii,Kellet's Whelk,eats
+61371,179833,Lytechinus anamesus,white sea urchin,eats
+61371,,Conus californicus,,eats
+61371,,Prymnesiophyceae,,eats
+61371,,unspecified sea spider,,eats
+61371,,clinid eggs,,eats
+61371,,Pisces,,eats
+61371,144115,Cumacea,Hooded Shrimp,eats
+61371,83718,Tanaidacea,Tanaids,eats
+61371,,others,,eats
+61371,,Algae,,eats
+61371,,Foraminiferida,,eats
+61371,,unspecified monoplacophorans,,eats
+61371,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+61371,47458,Octopoda,Octopuses,eatenBy
+61371,47641,Scorpaena guttata,California Scorpionfish,eatenBy
+61371,52169,Stereolepis gigas,Giant sea bass,eatenBy
+61371,53699,Semicossyphus pulcher,California sheephead,eatenBy
+61371,47638,Scorpaenichthys marmoratus,Cabezon,eatenBy
+61371,108547,Paralabrax clathratus,Kelp Bass,eatenBy
+61371,52297,Triakis semifasciata,Leopard Shark,eatenBy
+61371,117554,Embiotoca jacksoni,Black surfperch,eatenBy
+61371,108552,Paralabrax nebulifer,Sand bass,eatenBy
+61371,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+61371,59635,Phragmatopoma californica,California Sandcastle Worm,preysOn
+61371,56652,Haliotis rufescens,Red Abalone,preysOn
+61371,61371,Panulirus interruptus,California Spiny Lobster,preysOn
+61371,49857,Aplysia vaccaria,Black Seahare,preysOn
+61371,48655,Aplysia californica,California Seahare,preysOn
+61371,54526,Crassadoma gigantea,Giant Rock Scallop,preysOn
+61371,47490,Polychaeta,Polychaete Worms,preysOn
+61371,49723,Pugettia producta,Northern Kelp Crab,preysOn
+61371,47827,Cancer,,preysOn
+61371,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preysOn
+61371,62806,Mytilus californianus,California Mussel,preysOn
+61371,48645,Megathura crenulata,Giant Keyhole Limpet,preysOn
+61371,53831,Tegula,Tegulas,preysOn
+61371,,Norrisia norrisi,,preysOn
+61371,992313,Mesocentrotus franciscanus,Red Sea Urchin,preysOn
+61371,120957,Loxorhynchus grandis,Sheep Crab,preysOn
+61371,,Cypraea spadicea,,preysOn
+61371,,Mitra idae,,preysOn
+61371,,Conus californicus,,preysOn
+61371,437765,Pteropurpura trialata,Three-winged Murex,preysOn
+61371,117617,Hiatella arctica,Arctic Hiatella,preysOn
+61371,339286,Diopatra ornata,Ornate Tubeworm,preysOn
+61371,179833,Lytechinus anamesus,white sea urchin,preysOn
+61371,347389,Lithopoma,,preysOn
+61371,125663,Kelletia kelletii,Kellet's Whelk,preysOn
+61371,47641,Scorpaena guttata,California Scorpionfish,preyedUponBy
+61371,47827,Cancer,,preyedUponBy
+61371,47458,Octopoda,Octopuses,preyedUponBy
+61371,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+61371,117554,Embiotoca jacksoni,Black surfperch,preyedUponBy
+61371,52297,Triakis semifasciata,Leopard Shark,preyedUponBy
+61371,52169,Stereolepis gigas,Giant sea bass,preyedUponBy
+61371,108552,Paralabrax nebulifer,Sand bass,preyedUponBy
+61371,47638,Scorpaenichthys marmoratus,Cabezon,preyedUponBy
+61371,53699,Semicossyphus pulcher,California sheephead,preyedUponBy
+61371,108547,Paralabrax clathratus,Kelp Bass,preyedUponBy
+61371,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,preyedUponBy

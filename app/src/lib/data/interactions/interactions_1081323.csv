@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1081323,47911,Asclepias syriaca,common milkweed,eats
+1081323,47697,Hesperis matronalis,dame's rocket,eats
+1081323,51875,Trifolium pratense,red clover,eats
+1081323,52764,Prunella vulgaris,common selfheal,eats
+1081323,47603,Taraxacum,dandelions,pollinates
+1081323,203680,Pilosella,Hawkweeds,pollinates
+1081323,,Bombus ternarius,,pollinates
+1081323,77663,Lepidium campestre,field peppergrass,pollinates
+1081323,56174,Echium vulgare,viper's-bugloss,pollinates
+1081323,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy

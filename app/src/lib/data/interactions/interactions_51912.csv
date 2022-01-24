@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51912,41504,Lagenorhynchus,White-sided Dolphins,eatenBy
+51912,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+51912,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+51912,4343,Larus,Large White-headed Gulls,eatenBy
+51912,144539,Thalasseus maximus,Royal Tern,eatenBy
+51912,4345,Larus occidentalis,Western Gull,eatenBy
+51912,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+51912,4324,Pelecanus,Pelicans,eatenBy
+51912,3793,Sula sula,Red-footed Booby,eatenBy
+51912,144530,Sternula antillarum,Least Tern,eatenBy
+51912,144542,Thalasseus elegans,Elegant Tern,eatenBy
+51912,3797,Sula leucogaster,Brown Booby,eatenBy
+51912,4519,Uria aalge,Common Murre,eatenBy
+51912,3817,Eudyptula minor,Little Penguin,eatenBy
+51912,4457,Sterna forsteri,Forster's Tern,eatenBy
+51912,4353,Larus heermanni,Heermann's Gull,eatenBy
+51912,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+51912,4092,Puffinus,Small Shearwaters,eatenBy
+51912,4553,Cerorhinca monocerata,Rhinoceros Auklet,eatenBy
+51912,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+51912,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+51912,3796,Sula variegata,Peruvian Booby,eatenBy
+51912,,Otaria flavescens,,eatenBy
+51912,41444,Phocoena dioptrica,Spectacled Porpoise,eatenBy
+51912,,Pelecanus thagus,,eatenBy
+51912,3786,Sula nebouxii,Blue-footed Booby,eatenBy
+51912,3814,Spheniscus humboldti,Humboldt Penguin,eatenBy
+51912,,Phalacrocorax gaimardi,,eatenBy
+51912,4551,Larosterna inca,Inca Tern,eatenBy
+51912,,Puffinus griseus,,eatenBy
+51912,4264,Phalacrocorax fuscicollis,Indian Cormorant,eatenBy
+51912,,Pelecanus conspicillatus,,eatenBy
+51912,,Puffinus tenuirostris,,eatenBy
+51912,3788,Sula dactylatra,Masked Booby,eatenBy
+51912,4113,Puffinus heinrothi,Heinroth's Shearwater,eatenBy
+51912,4287,Phalacrocorax capensis,Cape Cormorant,eatenBy
+51912,,Larus saundersi,,eatenBy
+51912,56768,Sula granti,Nazca Booby,eatenBy
+51912,3813,Spheniscus demersus,African Penguin,eatenBy
+51912,,Phalacrocorax niger,,eatenBy
+51912,4072,Oceanodroma matsudairae,Matsudaira's Storm-Petrel,eatenBy
+51912,4107,Puffinus auricularis,Townsend's Shearwater,eatenBy
+51912,204553,Oceanodroma castro,Band-rumped Storm-Petrel,eatenBy
+51912,4127,Pelecanoides garnotii,Peruvian Diving-Petrel,eatenBy
+51912,4371,Larus belcheri,Belcher's Gull,eatenBy
+51912,,Larus fuliginosus,,eatenBy
+51912,,Oceanodroma markhami,,eatenBy
+51912,,Phalacrocorax coronatus,,eatenBy
+51912,,Phalacrocorax sulcirostris,,eatenBy
+51912,,Pelecanus crispus,,eatenBy
+51912,,Larus atricilla,,eatenBy
+51912,144532,Sternula nereis,Fairy Tern,eatenBy
+51912,201450,Puffinus lherminieri,Audubon's Shearwater,eatenBy
+51912,,Thalasseus eurygnatha,,eatenBy
+51912,,Larus novaehollandiae,,eatenBy
+51912,4176,Nesofregetta fuliginosa,Polynesian Storm-Petrel,eatenBy
+51912,,Phalacrocorax albiventer,,eatenBy
+51912,4064,Oceanodroma tethys,Wedge-rumped Storm-Petrel,eatenBy
+51912,144543,Thalasseus bengalensis,Lesser Crested Tern,eatenBy
+51912,,Thalassarche carteri,,eatenBy
+51912,4336,Pelecanus philippensis,Spot-billed Pelican,eatenBy
+51912,4301,Phalacrocorax ranfurlyi,Bounty Islands Shag,eatenBy
+51912,144531,Sternula superciliaris,Yellow-billed Tern,eatenBy
+51912,4478,Sterna striata,White-fronted Tern,eatenBy
+51912,144529,Sternula albifrons,Little Tern,eatenBy
+51912,4286,Phalacrocorax chalconotus,Stewart Island Shag,eatenBy
+51912,,Larus scopulinus,,eatenBy
+51912,4428,Sterna aurantia,River Tern,eatenBy
+51912,144534,Sternula saundersi,Saunders's Tern,eatenBy
+51912,4293,Phalacrocorax capillatus,Japanese Cormorant,eatenBy
+51912,4276,Phalacrocorax onslowi,Chatham Islands Shag,eatenBy
+51912,4311,Phalacrocorax fuscescens,Black-faced Cormorant,eatenBy
+51912,4302,Phalacrocorax harrisi,Flightless Cormorant,eatenBy
+51912,4066,Oceanodroma melania,Black Storm-Petrel,eatenBy
+51912,144535,Sternula balaenarum,Damara Tern,eatenBy
+51912,72593,Calonectris edwardsii,Cape Verde Shearwater,eatenBy
+51912,4069,Oceanodroma homochroa,Ashy Storm-Petrel,eatenBy
+51912,,Sternula lorata,,eatenBy
+51912,4294,Phalacrocorax featherstoni,Pitt Island Shag,eatenBy
+51912,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+51912,4292,Phalacrocorax punctatus,Spotted Shag,eatenBy
+51912,4172,Fregetta tropica,Black-bellied Storm-Petrel,eatenBy
+51912,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+51912,4075,Oceanodroma monorhis,Swinhoe's Storm-Petrel,eatenBy
+51912,,Puffinus pacificus,,eatenBy
+51912,4535,Anous stolidus,Brown Noddy,eatenBy
+51912,4534,Anous,Noddies,eatenBy
+51912,,Puffinus carneipes,,eatenBy
+51912,3812,Spheniscus magellanicus,Magellanic Penguin,eatenBy
+51912,,Papasula abbotti,,eatenBy
+51912,4354,Larus livens,Yellow-footed Gull,eatenBy
+51912,,Ichthyaetus ichthyaetus,,eatenBy
+51912,,Larus brunnicephalus,,eatenBy
+51912,3801,Morus serrator,Australasian Gannet,eatenBy
+51912,3815,Spheniscus mendiculus,Galápagos Penguin,eatenBy
+51912,4356,Larus canus,Mew Gull,eatenBy
+51912,144538,Chlidonias albostriatus,Black-fronted Tern,eatenBy
+51912,4425,Sterna trudeaui,Snowy-crowned Tern,eatenBy
+51912,3803,Morus capensis,Cape Gannet,eatenBy
+51912,4464,Sterna repressa,White-cheeked Tern,eatenBy
+51912,4265,Phalacrocorax auritus,Double-crested Cormorant,preyedUponBy
+51912,4551,Larosterna inca,Inca Tern,preyedUponBy

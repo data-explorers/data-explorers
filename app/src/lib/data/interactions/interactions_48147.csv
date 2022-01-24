@@ -1,0 +1,282 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48147,47178,Actinopterygii,Ray-finned Fishes,eats
+48147,47533,Anthozoa,Sea Anemones and Corals,eats
+48147,47232,Carangidae,Jacks,eats
+48147,48824,Porifera,Sponges,eats
+48147,57298,Hemiramphidae,Halfbeaks,eats
+48147,47126,Plantae,plants,eats
+48147,67334,Cyanobacteria,cyanobacteria,eats
+48147,67423,Ulva lactuca,broadleaf sea lettuce,eats
+48147,123631,Corallina,,eats
+48147,50918,Caulerpa,,eats
+48147,51021,Dictyota,Y-branched Algae,eats
+48147,54644,Ulva,sea lettuces,eats
+48147,57777,Rhodomelaceae,,eats
+48147,128238,Laurencia,,eats
+48147,50862,Codium,Codiums,eats
+48147,,Navicula avenacea,,eats
+48147,,Rhoicosphenia curvata,,eats
+48147,,Detritus,,eats
+48147,64633,Bathyporeia,,eats
+48147,,Macroalgae,,eats
+48147,,Phytoplankton,,eats
+48147,196958,Calothrix,,eats
+48147,174116,Cryphia,,eats
+48147,131340,Amphiroa,,eats
+48147,328377,Sargassum cymosum,,eats
+48147,426200,Bachelotia,,eats
+48147,50926,Caulerpa racemosa,Sea Grapes,eats
+48147,915274,Dictyopteris delicatula,,eats
+48147,911743,Plocamium brasiliense,,eats
+48147,201264,Bryopsis pennata,,eats
+48147,180609,Lithophyllum,,eats
+48147,59730,Valonia aegagropila,,eats
+48147,129737,Colpomenia peregrina,Oyster-thief,eats
+48147,67672,Hypnea musciformis,,eats
+48147,322821,Sargassum vulgare,,eats
+48147,207565,Padina gymnospora,,eats
+48147,131280,Dictyota mertensii,,eats
+48147,199320,Acanthophora spicifera,prickly seaweed,eats
+48147,570223,Caulerpa scalpelliformis,Scalpel green seaweed,eats
+48147,,Gracilaria sp.,,eats
+48147,182857,Sphacelaria,,eats
+48147,328369,Spatoglossum schroederi,,eats
+48147,,Chondria curvilineata,,eats
+48147,1253504,Bryopsis,,eats
+48147,330788,Centroceras,,eats
+48147,131298,Cryptonemia crenulata,,eats
+48147,67679,Gracilaria,,eats
+48147,131277,Lobophora variegata,Encrusting fan-leaf alga,eats
+48147,536693,Chaetomorpha gracilis,,eats
+48147,210168,Torbia,,eats
+48147,131281,Dictyota menstrualis,,eats
+48147,824522,Asteronema breviarticulatum,,eats
+48147,643771,Abyla,,eats
+48147,,Padina pavonia,,eats
+48147,131323,Caulerpa webbiana,Bottlebrush green seaweed,eats
+48147,342096,Halopteris filicina,,eats
+48147,322735,Cladophora prolifera,,eats
+48147,361840,Jania rubens,,eats
+48147,68612,Ceramium,Banded Weeds,eats
+48147,362157,Dictyota bartayresiana,,eats
+48147,,Stypocaulon scoparium,,eats
+48147,,Gelidium sp.,,eats
+48147,67675,Hypnea,,eats
+48147,124745,Cystoseira,,eats
+48147,,Dictyopteris membranacea,,eats
+48147,,Padina,,eats
+48147,342095,Codium adhaerens,,eats
+48147,50378,Halodule,,eats
+48147,,Micro-epiphytes,,eats
+48147,,Organic macrodebris,,eats
+48147,,organic macrodebris,,eats
+48147,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+48147,4209,Podiceps auritus,Horned Grebe,eatenBy
+48147,4940,Egretta thula,Snowy Egret,eatenBy
+48147,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+48147,3797,Sula leucogaster,Brown Booby,eatenBy
+48147,6993,Bucephala albeola,Bufflehead,eatenBy
+48147,6930,Anas platyrhynchos,Mallard,eatenBy
+48147,7107,Aix sponsa,Wood Duck,eatenBy
+48147,17009,Sayornis saya,Say's Phoebe,eatenBy
+48147,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+48147,3849,Calidris alba,Sanderling,eatenBy
+48147,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+48147,47186,Decapoda,Decapods,eatenBy
+48147,47114,Gastropoda,Gastropods,eatenBy
+48147,47308,Gobiidae,Gobies,eatenBy
+48147,47208,Coleoptera,Beetles,eatenBy
+48147,49556,Chilopoda,Centipedes,eatenBy
+48147,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eatenBy
+48147,47534,Cnidaria,Cnidarians,eatenBy
+48147,47827,Cancer,,eatenBy
+48147,48921,Hydrozoa,Hydrozoans,eatenBy
+48147,48563,Triglidae,Searobins,eatenBy
+48147,121639,Brachyura,True Crabs,eatenBy
+48147,52523,Carcinus maenas,European Green Crab,eatenBy
+48147,54541,Hippocampus,Seahorses,eatenBy
+48147,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+48147,132473,Lagodon rhomboides,Pinfish,eatenBy
+48147,87467,Chromis,Chromis,eatenBy
+48147,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+48147,49591,Lepomis macrochirus,Bluegill,eatenBy
+48147,42069,Vulpes vulpes,Red Fox,eatenBy
+48147,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+48147,49796,Stomatopoda,Mantis Shrimps,eatenBy
+48147,49265,Sphoeroides spengleri,Bandtail Puffer,eatenBy
+48147,342912,Caridea,Caridean Shrimps,eatenBy
+48147,42054,Vulpes,Typical Foxes,eatenBy
+48147,4153,Pelagodroma marina,White-faced Storm-Petrel,eatenBy
+48147,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+48147,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+48147,39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,eatenBy
+48147,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+48147,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+48147,103601,Jasus edwardsii,Southern Rock Lobster,eatenBy
+48147,410520,Forsterygion lapillum,Common Triplefin,eatenBy
+48147,57301,Hyporhamphus,,eatenBy
+48147,49267,Sphoeroides,,eatenBy
+48147,118710,Naucrates ductor,Pilotfish,eatenBy
+48147,48407,Raja,,eatenBy
+48147,117533,Clinocottus analis,Woolly Sculpin,eatenBy
+48147,50968,Coris julis,Mediterranean rainbow wrasse,eatenBy
+48147,54539,Syngnathus,Pipe-fishes,eatenBy
+48147,121259,Chironemus marmoratus,Eastern Kelpfish,eatenBy
+48147,53911,Cyprinus carpio,European Carp,eatenBy
+48147,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+48147,48844,Echeneis naucrates,Sharksucker,eatenBy
+48147,3739,Threskiornis aethiopicus,African Sacred Ibis,eatenBy
+48147,101068,Fundulus pulvereus,bayou topminnow,eatenBy
+48147,128750,Sciaenops ocellatus,Red Drum,eatenBy
+48147,,Parkesia motacilla,,eatenBy
+48147,73149,Parkesia noveboracensis,Northern Waterthrush,eatenBy
+48147,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48147,4938,Egretta tricolor,Tricolored Heron,eatenBy
+48147,72502,Anas chlorotis,Brown Teal,eatenBy
+48147,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+48147,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+48147,4141,Phoebastria nigripes,Black-footed Albatross,eatenBy
+48147,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+48147,4044,Pterodroma hypoleuca,Bonin Petrel,eatenBy
+48147,4144,Phoebastria immutabilis,Laysan Albatross,eatenBy
+48147,4070,Oceanodroma tristrami,Tristram's Storm-Petrel,eatenBy
+48147,19975,Athene cunicularia,Burrowing Owl,eatenBy
+48147,72797,Dendragapus fuliginosus,Sooty Grouse,eatenBy
+48147,7170,Clangula hyemalis,Long-tailed Duck,eatenBy
+48147,7047,Aythya marila,Greater Scaup,eatenBy
+48147,6924,Anas rubripes,American Black Duck,eatenBy
+48147,7131,Tachyeres,Steamer Ducks,eatenBy
+48147,72994,Lophonetta specularioides,Crested Duck,eatenBy
+48147,6926,Anas aucklandica,Auckland Islands Teal,eatenBy
+48147,793289,Ammospiza caudacuta,Saltmarsh Sparrow,eatenBy
+48147,8015,Corvus hawaiiensis,Hawaiian Crow,eatenBy
+48147,8319,Pica nuttalli,Yellow-billed Magpie,eatenBy
+48147,,Corvus caurinus,,eatenBy
+48147,3962,Bartramia longicauda,Upland Sandpiper,eatenBy
+48147,6937,Anas crecca,Green-winged Teal,eatenBy
+48147,3863,Calidris ferruginea,Curlew Sandpiper,eatenBy
+48147,50986,Pomatomus,,eatenBy
+48147,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+48147,36432,Anolis gingivinus,Anguilla Anole,eatenBy
+48147,36582,Anolis pogus,bearded anole,eatenBy
+48147,10019,Loxigilla noctis,Lesser Antillean Bullfinch,eatenBy
+48147,86443,Anarhichas,,eatenBy
+48147,104533,Leucoraja erinacea,Little Skate,eatenBy
+48147,47634,Hemitripterus americanus,Sea Raven,eatenBy
+48147,63742,Gadidae,Cods and Haddocks,eatenBy
+48147,82349,Hippoglossus hippoglossus,Atlantic Halibut,eatenBy
+48147,424322,Odontoceti,Toothed Whales,eatenBy
+48147,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+48147,69842,Scomber,,eatenBy
+48147,151762,Venustaconcha ellipsiformis,Ellipse,eatenBy
+48147,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+48147,48580,Idotea,,preysOn
+48147,48147,Isopoda,Isopods,preysOn
+48147,63288,Talitridae,Sandhoppers and Landhoppers,preysOn
+48147,,Zooplankton,,preysOn
+48147,,Harparticoida,,preysOn
+48147,,Amphitoidae,,preysOn
+48147,59806,Gammaridae,,preysOn
+48147,83718,Tanaidacea,Tanaids,preysOn
+48147,64633,Bathyporeia,,preysOn
+48147,50378,Halodule,,preysOn
+48147,342912,Caridea,Caridean Shrimps,preyedUponBy
+48147,49796,Stomatopoda,Mantis Shrimps,preyedUponBy
+48147,47114,Gastropoda,Gastropods,preyedUponBy
+48147,49265,Sphoeroides spengleri,Bandtail Puffer,preyedUponBy
+48147,48147,Isopoda,Isopods,preyedUponBy
+48147,48173,Pagurus,,preyedUponBy
+48147,49507,Callinectes,,preyedUponBy
+48147,47490,Polychaeta,Polychaete Worms,preyedUponBy
+48147,48580,Idotea,,preyedUponBy
+48147,63288,Talitridae,Sandhoppers and Landhoppers,preyedUponBy
+48147,210294,Lipophrys pholis,Shanny,preyedUponBy
+48147,88563,Gobius,,preyedUponBy
+48147,3849,Calidris alba,Sanderling,preyedUponBy
+48147,539265,Anilios australis,Southern Blind Snake,preyedUponBy
+48147,115194,Xyrichtys splendens,Green Razorfish,preyedUponBy
+48147,102053,Halichoeres maculipinna,Clown Wrasse,preyedUponBy
+48147,130051,Hypoplectrus puella,Barred Hamlet,preyedUponBy
+48147,131493,Phaeoptyx conklini,Freckled Cardinalfish,preyedUponBy
+48147,,Labrisomus guppyi,,preyedUponBy
+48147,49491,Thalassoma bifasciatum,Caribbean Bluehead Wrasse,preyedUponBy
+48147,90972,Phaeoptyx,,preyedUponBy
+48147,131522,Amblycirrhitus pinos,Redspotted Hawkfish,preyedUponBy
+48147,49624,Myripristis jacobus,Blackbar Soldierfish,preyedUponBy
+48147,131530,Lutjanus synagris,Lane Snapper,preyedUponBy
+48147,112135,Scarus coelestinus,Midnight Parrotfish,preyedUponBy
+48147,49950,Haemulon aurolineatum,Tomtate,preyedUponBy
+48147,179478,Priacanthus arenatus,Bigeye,preyedUponBy
+48147,196857,Chilomycterus antennatus,Bridled Burrfish,preyedUponBy
+48147,52293,Pareques acuminatus,Highhat,preyedUponBy
+48147,107717,Opistognathus maxillosus,mottled jawfish,preyedUponBy
+48147,,Stegastes variabillis,,preyedUponBy
+48147,49924,Stegastes fuscus,Dusky Damselfish,preyedUponBy
+48147,49947,Anisotremus virginicus,Porkfish,preyedUponBy
+48147,114269,Trachinotus goodei,Palometa,preyedUponBy
+48147,49625,Holocentrus rufus,Longspine Squirrelfish,preyedUponBy
+48147,49418,Carangoides,,preyedUponBy
+48147,49262,Haemulon sciurus,Bluestriped Grunt,preyedUponBy
+48147,131490,Opistognathus whitehursti,Dusky Jawfish,preyedUponBy
+48147,128170,Elacatinus evelynae,Sharknose Goby,preyedUponBy
+48147,128172,Mulloidichthys martinicus,Yellow Goatfish,preyedUponBy
+48147,49304,Stegastes planifrons,Threespot Damselfish,preyedUponBy
+48147,49264,Haemulon,,preyedUponBy
+48147,317251,Odontoscion dentex,Reef croaker,preyedUponBy
+48147,102074,Halichoeres poeyi,Blackear Wrasse,preyedUponBy
+48147,131385,Pseudupeneus maculatus,Spotted Goatfish,preyedUponBy
+48147,128861,Haemulon chrysargyreum,Smallmouth Grunt,preyedUponBy
+48147,128153,Equetus punctatus,Spotted Drum,preyedUponBy
+48147,63415,Heteropriacanthus cruentatus,Glasseye,preyedUponBy
+48147,317345,Sargocentron vexillarium,Dusky Squirrelfish,preyedUponBy
+48147,49746,Epinephelus striatus,Nassau Grouper,preyedUponBy
+48147,131515,Monacanthus ciliatus,Fringed Filefish,preyedUponBy
+48147,62600,Haemulon flavolineatum,French Grunt,preyedUponBy
+48147,49626,Holocentrus adscensionis,Squirrelfish,preyedUponBy
+48147,49428,Bodianus rufus,Spanish Hogfish,preyedUponBy
+48147,115188,Xyrichtys novacula,Pearly Razorfish,preyedUponBy
+48147,608789,Odontesthes argentinensis,,preyedUponBy
+48147,52408,Clibanarius vittatus,Thinstripe Hermit Crab,preyedUponBy
+48147,602080,Bunodosoma caissarum,,preyedUponBy
+48147,260256,Palaemon northropi,Caribbean bait prawn,preyedUponBy
+48147,317131,Haemulon parra,Sailor's Choice,preyedUponBy
+48147,295215,Clibanarius antillensis,,preyedUponBy
+48147,715178,Bunodosoma cangicum,,preyedUponBy
+48147,59806,Gammaridae,,preyedUponBy
+48147,,Amphitoidae,,preyedUponBy
+48147,179515,Bathygobius soporator,Frillfin Goby,preyedUponBy
+48147,415095,Olivancillaria,,preyedUponBy
+48147,121386,Lysmata,,preyedUponBy
+48147,49402,Abudefduf saxatilis,Atlantic Sergeant Major,preyedUponBy
+48147,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+48147,195201,Pachygrapsus transversus,Mottled Shore Crab,preyedUponBy
+48147,,Anemonia sargassensis,,preyedUponBy
+48147,,Liza ramada,,preyedUponBy
+48147,446178,Malacoctenus delalandii,,preyedUponBy
+48147,363663,Hymeniacidon heliophila,,preyedUponBy
+48147,195711,Ophiactis,,preyedUponBy
+48147,,Eurypanopeus abreviatus,,preyedUponBy
+48147,,Pogonophryne scotti,,preyedUponBy
+48147,,Trematomus loennbergii,,preyedUponBy
+48147,,Antarctinoe spicoides,,preyedUponBy
+48147,466011,Eurythenes gryllus,,preyedUponBy
+48147,608639,Pogonophryne permitini,,preyedUponBy
+48147,,Trematomus pennellii,,preyedUponBy
+48147,977719,Glyptonotus antarcticus,Antarctic Isopod,preyedUponBy
+48147,,Waldeckia obesa,,preyedUponBy
+48147,533716,Labidiaster annulatus,,preyedUponBy
+48147,608620,Artedidraco orianae,,preyedUponBy
+48147,,Chorismus antarcticus,,preyedUponBy
+48147,111471,Racovitzia glacialis,,preyedUponBy
+48147,390305,Harmothoe spinosa,,preyedUponBy
+48147,715825,Aethotaxis mitopteryx,Longfin icedevil,preyedUponBy
+48147,86645,Artedidraco,,preyedUponBy
+48147,615189,Harpagifer antarcticus,Antarctic spiny plunderfish,preyedUponBy
+48147,,Artedidraco lonnbergi,,preyedUponBy
+48147,,Pareledone antarctica,,preyedUponBy
+48147,,Trematomus scotti,,preyedUponBy
+48147,1171863,Ophiosparte gigas,,preyedUponBy
+48147,543493,Odontaster validus,Antarctic starfish,preyedUponBy
+48147,,Trematomus eulepidotus,,preyedUponBy
+48147,,Trematomus lepidorhinus,,preyedUponBy
+48147,,Harmothoe crosetensis,,preyedUponBy

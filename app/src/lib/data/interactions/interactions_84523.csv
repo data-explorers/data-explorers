@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84523,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+84523,84523,Dictynidae,Meshweavers,preysOn
+84523,172978,Atheta,vexing rove beetles,preysOn
+84523,203275,Xantholinus,,preysOn
+84523,,Liodidae,,preysOn
+84523,783966,Maro minutus,,preysOn
+84523,,Pergamasus runcatellus,,preysOn
+84523,,Cilea,,preysOn
+84523,490815,Neobisium carcinoides,Moss Neobisid,preysOn
+84523,,Macrocheles dentatus,,preysOn
+84523,,Trachytes aegrota,,preysOn
+84523,490816,Neobisium,,preysOn
+84523,783981,Tapinocyba insecta,,preysOn
+84523,,Athous,,preysOn
+84523,1029352,Scolopendrella,,preysOn
+84523,,Microneta viaria,,preysOn
+84523,457780,Geostiba circellaris,,preysOn
+84523,494566,Athous subfuscus,,preysOn
+84523,1004314,Oxypoda annularis,,preysOn
+84523,510480,Othius,,preysOn
+84523,359911,Staphylininae,,preysOn
+84523,47416,Lycosidae,Wolf Spiders,preyedUponBy
+84523,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+84523,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+84523,47951,Staphylinidae,Rove Beetles,preyedUponBy
+84523,84523,Dictynidae,Meshweavers,preyedUponBy
+84523,637234,Xysticus erraticus,,preyedUponBy
+84523,154600,Agonum,,preyedUponBy
+84523,230519,Schendyla nemorensis,,preyedUponBy
+84523,494277,Molops piceus,,preyedUponBy
+84523,212779,Agonum muelleri,,preyedUponBy
+84523,360548,Zora spinimana,,preyedUponBy
+84523,783673,Apostenus fuscus,,preyedUponBy

@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47715,,Prymnesiophyceae,,eats
+47715,50378,Halodule,,eats
+47715,,Micro-epiphytes,,eats
+47715,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47715,63740,Gadus morhua,Atlantic Cod,eatenBy
+47715,93634,Alcichthys elongatus,Elkhorn Sculpin,eatenBy
+47715,50378,Halodule,,preysOn

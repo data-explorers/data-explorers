@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49592,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+49592,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+49592,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49592,4956,Ardea herodias,Great Blue Heron,eatenBy
+49592,144455,Ardea alba,Great Egret,eatenBy
+49592,116999,Pandion haliaetus,Osprey,eatenBy
+49592,473,Fulica americana,American Coot,eatenBy
+49592,4940,Egretta thula,Snowy Egret,eatenBy
+49592,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+49592,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49592,51392,Morone saxatilis,Striped Bass,eatenBy
+49592,55387,Esox lucius,Northern Pike,eatenBy
+49592,,Esox masquinongy,,eatenBy
+49592,26159,Alligator mississippiensis,American Alligator,eatenBy
+49592,5063,Anhinga anhinga,Anhinga,eatenBy
+49592,4938,Egretta tricolor,Tricolored Heron,eatenBy
+49592,4742,Mycteria americana,Wood Stork,eatenBy
+49592,4937,Egretta caerulea,Little Blue Heron,eatenBy
+49592,4246,Podilymbus podiceps,Pied-billed Grebe,preyedUponBy
+49592,473,Fulica americana,American Coot,preyedUponBy
+49592,144455,Ardea alba,Great Egret,preyedUponBy
+49592,2548,Megaceryle alcyon,Belted Kingfisher,preyedUponBy
+49592,29304,Nerodia taxispilota,Brown Watersnake,preyedUponBy
+49592,29327,Nerodia cyclopion,Mississippi Green Watersnake,preyedUponBy
+49592,5063,Anhinga anhinga,Anhinga,preyedUponBy

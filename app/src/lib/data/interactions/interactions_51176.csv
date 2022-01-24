@@ -1,0 +1,74 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51176,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+51176,132473,Lagodon rhomboides,Pinfish,eatenBy
+51176,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+51176,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+51176,128750,Sciaenops ocellatus,Red Drum,eatenBy
+51176,47299,Panulirus argus,Caribbean Spiny Lobster,eatenBy
+51176,4127,Pelecanoides garnotii,Peruvian Diving-Petrel,eatenBy
+51176,317533,Ogcocephalus vespertilio,longnose batfish,eatenBy
+51176,245762,Acanthopagrus latus,Yellowfin Seabream,eatenBy
+51176,179630,Citharichthys spilopterus,Bay Whiff,eatenBy
+51176,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+51176,95540,Batrachoides surinamensis,Pacuma toadfish,eatenBy
+51176,99253,Diapterus peruvianus,Peruvian mojarra,eatenBy
+51176,188370,Scomberomorus sierra,Sierra Mackerel,eatenBy
+51176,102844,Hippoglossina tetrophthalma,,eatenBy
+51176,102601,Hemiscyllium ocellatum,Epaulette Shark,eatenBy
+51176,49616,Prionotus scitulus,Leopard searobin,eatenBy
+51176,131234,Parupeneus multifasciatus,Manybar Goatfish,eatenBy
+51176,123344,Parupeneus porphyreus,Whitesaddle Goatfish,eatenBy
+51176,196836,Parupeneus insularis,Island Goatfish,eatenBy
+51176,52508,Gomphosus varius,Bird Wrasse,eatenBy
+51176,359362,Parupeneus forsskali,Red Sea Goatfish,eatenBy
+51176,94018,Anampses cuvier,Pearl Wrasse,eatenBy
+51176,52449,Rhinecanthus rectangulus,Wedgetail Triggerfish,eatenBy
+51176,52478,Cirrhitus pinnulatus,Stocky Hawkfish,eatenBy
+51176,130526,Neoniphon sammara,Spotfin Squirrelfish,eatenBy
+51176,121394,Cirrhitops fasciatus,Redbarred Hawkfish,eatenBy
+51176,47578,Paracirrhites arcatus,Arc-eye Hawkfish,eatenBy
+51176,188052,Parupeneus crassilabris,Doublebar Goatfish,eatenBy
+51176,113980,Thalassoma lunare,Moon Wrasse,eatenBy
+51176,195236,Labracinus cyclophthalmus,Firetail Dottyback,eatenBy
+51176,132377,Parupeneus spilurus,Blacksaddle Goatfish,eatenBy
+51176,123268,Diodon liturosus,Blackblotched Porcupinefish,eatenBy
+51176,131456,Plectrypops retrospinis,Cardinal Soldierfish,eatenBy
+51176,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+51176,57814,Pogonias cromis,Black Drum,eatenBy
+51176,83439,Centropristis striata,Black Sea Bass,eatenBy
+51176,49509,Lutjanus griseus,Grey Snapper,eatenBy
+51176,49748,Serranus,,eatenBy
+51176,179506,Pareques umbrosus,Cubbyu,eatenBy
+51176,49637,Epinephelus morio,Red Grouper,eatenBy
+51176,49750,Archosargus probatocephalus,Sheepshead,eatenBy
+51176,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+51176,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+51176,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+51176,,Morone mississippiensis,,eatenBy
+51176,103276,Ictalurus furcatus,Blue Catfish,eatenBy
+51176,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+51176,131388,Haemulon melanurum,Cottonwick,eatenBy
+51176,128986,Calamus,Rattan palms,eatenBy
+51176,108196,Pagrus pagrus,Red Porgy,eatenBy
+51176,179459,Serranus subligarius,Belted sandfish,eatenBy
+51176,132526,Stephanolepis hispidus,Planehead filefish,eatenBy
+51176,49951,Haemulon plumierii,White Grunt,eatenBy
+51176,179468,Rypticus maculatus,Whitespotted Soapfish,eatenBy
+51176,132471,Opsanus beta,Gulf Toadfish,eatenBy
+51176,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+51176,154501,Cynoscion nothus,Silver Seatrout,eatenBy
+51176,90430,Ogcocephalus,,eatenBy
+51176,1023724,Stegastes variabilis,Brazilian Cocoa Damselfish,eatenBy
+51176,52293,Pareques acuminatus,Highhat,eatenBy
+51176,49272,Halichoeres bivittatus,Slippery Dick,eatenBy
+51176,179593,Fundulus similis,Longnose Killifish,eatenBy
+51176,106195,Morone chrysops,White Bass,eatenBy
+51176,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+51176,179491,Prionotus tribulus,Bighead Searobin,eatenBy
+51176,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+51176,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+51176,49421,Diplectrum formosum,Sand Perch,eatenBy
+51176,103158,Hyporthodus flavolimbatus,Yellow-edge Grouper,eatenBy
+51176,49437,Centropomus undecimalis,Common Snook,eatenBy
+51176,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+51176,545754,Carcinonemertes carcinophila,crab nemertean,preyedUponBy

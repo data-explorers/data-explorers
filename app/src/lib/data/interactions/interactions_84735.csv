@@ -1,0 +1,134 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84735,53275,Chironomidae,Non-biting Midges,eats
+84735,333586,Oligochaeta,Earthworms and allies,eats
+84735,130033,Culex,,eats
+84735,63089,Clitellata,Clitellates,eats
+84735,,Leptodiaptomus signicauda,,eats
+84735,,Daphnia rosea,,eats
+84735,57845,Sialis,,eats
+84735,,Daphnia middendorffiana,,eats
+84735,,Hesperodiaptomus shoshone,,eats
+84735,173218,Ameletus,,eats
+84735,,Hydroporini,,eats
+84735,,Callibaetis ferrugineus,,eats
+84735,49591,Lepomis macrochirus,Bluegill,eatenBy
+84735,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+84735,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+84735,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+84735,4209,Podiceps auritus,Horned Grebe,eatenBy
+84735,6930,Anas platyrhynchos,Mallard,eatenBy
+84735,4940,Egretta thula,Snowy Egret,eatenBy
+84735,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+84735,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+84735,473,Fulica americana,American Coot,eatenBy
+84735,7044,Aythya collaris,Ring-necked Duck,eatenBy
+84735,3759,Plegadis chihi,White-faced Ibis,eatenBy
+84735,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+84735,558433,Spatula discors,Blue-winged Teal,eatenBy
+84735,558439,Mareca strepera,Gadwall,eatenBy
+84735,6993,Bucephala albeola,Bufflehead,eatenBy
+84735,47518,Salmo trutta,Brown Trout,eatenBy
+84735,69989,Rutilus rutilus,Common Roach,eatenBy
+84735,114127,Thymallus thymallus,Grayling,eatenBy
+84735,94105,Anguilla anguilla,European Eel,eatenBy
+84735,,Culaea inconstans,,eatenBy
+84735,,Cottus bairdii,,eatenBy
+84735,,Hydrachna conjecta,,eatenBy
+84735,,Hydroporini,,eatenBy
+84735,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+84735,57845,Sialis,,eatenBy
+84735,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+84735,68076,Oncorhynchus aguabonita,Golden Trout,eatenBy
+84735,84734,Agabus,,eatenBy
+84735,,Polycentropus,,eatenBy
+84735,25637,Rana muscosa,Southern Mountain Yellow-legged Frog,eatenBy
+84735,47635,Cottus gobio,European Bullhead,eatenBy
+84735,368294,Leiopotherapon unicolor,Spangled Perch,eatenBy
+84735,,Rainbowfish,,eatenBy
+84735,,Tropidophoxinellus alburnoides,,eatenBy
+84735,172357,Hoplias malabaricus,Wolf Fish,eatenBy
+84735,491991,Caquetaia kraussii,Krauss' Basketmouth,eatenBy
+84735,,Charax gibbosus,,eatenBy
+84735,,Australoheros facetus,,eatenBy
+84735,,Umbra pygmaea,,eatenBy
+84735,102785,Hiodon tergisus,Mooneye,eatenBy
+84735,96911,Centrarchus macropterus,Flier,eatenBy
+84735,,Tinca tinca,,eatenBy
+84735,,Parailia spiniserrata,,eatenBy
+84735,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+84735,,Pungitius pungitius,,eatenBy
+84735,48404,Gasterosteus,Threespine Sticklebacks,eatenBy
+84735,,Salvelinus confluentus,,eatenBy
+84735,109668,Platygobio gracilis,Flathead Chub,eatenBy
+84735,49593,Pomoxis annularis,White Crappie,eatenBy
+84735,,Umbra limi,,eatenBy
+84735,,Hiodon alosoides,,eatenBy
+84735,,Catostomus commersonii,,eatenBy
+84735,58627,Perca flavescens,Yellow Perch,eatenBy
+84735,,Anas clypeata,,eatenBy
+84735,,Polydactylus octonemus,,eatenBy
+84735,105567,Menidia beryllina,Inland Silverside,eatenBy
+84735,101057,Fundulus grandis,Gulf Killifish,eatenBy
+84735,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+84735,113308,Strongylura marina,Atlantic Needlefish,eatenBy
+84735,94070,Anchoa mitchilli,Bay Anchovy,eatenBy
+84735,368587,Hypseleotris compressa,Empire Gudgeon,eatenBy
+84735,,Neosiluris ater,,eatenBy
+84735,368117,Melanotaenia splendida,Eastern Rainbowfish,eatenBy
+84735,,Geres filamentosis,,eatenBy
+84735,,Kuhlia rupestris,,eatenBy
+84735,93797,Ambassis agassizii,Agassiz's Glassfish,eatenBy
+84735,,Rediogobius bikolanus,,eatenBy
+84735,,Glossamia aprion,,eatenBy
+84735,187422,Giuris margaritacea,Snakehead Gudgeon,eatenBy
+84735,7054,Aythya affinis,Lesser Scaup,eatenBy
+84735,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+84735,6994,Bucephala islandica,Barrow's Goldeneye,eatenBy
+84735,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+84735,,Podiceps grisegena,,eatenBy
+84735,,Plectropterus gambensis,,eatenBy
+84735,,Alectoris chukar,,eatenBy
+84735,6990,Bucephala clangula,Common Goldeneye,eatenBy
+84735,7057,Aythya valisineria,Canvasback,eatenBy
+84735,,Marmaronetta angustirostris,,eatenBy
+84735,7174,Malacorhynchus membranaceus,Pink-eared Duck,eatenBy
+84735,5017,Bubulcus ibis,Cattle Egret,eatenBy
+84735,7182,Amazonetta brasiliensis,Brazilian Teal,eatenBy
+84735,,Anas capensis,,eatenBy
+84735,7056,Aythya americana,Redhead,eatenBy
+84735,130033,Culex,,preysOn
+84735,333586,Oligochaeta,Earthworms and allies,preysOn
+84735,53275,Chironomidae,Non-biting Midges,preysOn
+84735,,Callibaetis ferrugineus,,preysOn
+84735,173218,Ameletus,,preysOn
+84735,,Leptodiaptomus signicauda,,preysOn
+84735,,Hydroporini,,preysOn
+84735,,Hesperodiaptomus shoshone,,preysOn
+84735,,Daphnia middendorffiana,,preysOn
+84735,57845,Sialis,,preysOn
+84735,,Daphnia rosea,,preysOn
+84735,,Neosiluris ater,,preyedUponBy
+84735,93797,Ambassis agassizii,Agassiz's Glassfish,preyedUponBy
+84735,,Rediogobius bikolanus,,preyedUponBy
+84735,84734,Agabus,,preyedUponBy
+84735,,Hydroporini,,preyedUponBy
+84735,47516,Oncorhynchus mykiss,Rainbow Trout,preyedUponBy
+84735,25637,Rana muscosa,Southern Mountain Yellow-legged Frog,preyedUponBy
+84735,,Polycentropus,,preyedUponBy
+84735,57845,Sialis,,preyedUponBy
+84735,49596,Salvelinus fontinalis,Brook Trout,preyedUponBy
+84735,47518,Salmo trutta,Brown Trout,preyedUponBy
+84735,,Hypsugo ariel,,preyedUponBy
+84735,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+84735,74711,Myotis macropus,Large-footed Myotis,preyedUponBy
+84735,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+84735,40348,Myotis velifer,Cave Myotis,preyedUponBy
+84735,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+84735,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+84735,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+84735,368587,Hypseleotris compressa,Empire Gudgeon,preyedUponBy
+84735,,Geres filamentosis,,preyedUponBy
+84735,,Glossamia aprion,,preyedUponBy
+84735,,Kuhlia rupestris,,preyedUponBy
+84735,187422,Giuris margaritacea,Snakehead Gudgeon,preyedUponBy
+84735,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy

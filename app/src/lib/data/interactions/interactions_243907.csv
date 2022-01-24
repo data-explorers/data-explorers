@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+243907,48645,Megathura crenulata,Giant Keyhole Limpet,eatenBy
+243907,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+243907,105388,Medialuna californiensis,Halfmoon,eatenBy
+243907,81963,Girella nigricans,Opaleye,eatenBy
+243907,179833,Lytechinus anamesus,white sea urchin,eatenBy
+243907,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+243907,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+243907,48645,Megathura crenulata,Giant Keyhole Limpet,preyedUponBy
+243907,179833,Lytechinus anamesus,white sea urchin,preyedUponBy
+243907,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+243907,81963,Girella nigricans,Opaleye,preyedUponBy
+243907,105388,Medialuna californiensis,Halfmoon,preyedUponBy

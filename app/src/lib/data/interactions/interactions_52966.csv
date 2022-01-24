@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52966,51104,Thaliacea,Thaliaceans,eats
+52966,48921,Hydrozoa,Hydrozoans,eats
+52966,117571,Clupea pallasii,Pacific herring,eats
+52966,,Pisces,,eats
+52966,47827,Cancer,,eatenBy
+52966,130235,Aurelia labiata,Greater Moon Jelly,eatenBy
+52966,495552,Hermissenda crassicornis,Thick-horned Nudibranch,eatenBy
+52966,253673,Haliphron atlanticus,Seven-armed Octopus,eatenBy
+52966,48328,Aurelia aurita,Moon Jelly,preysOn
+52966,47796,Actiniidae,Actiniid Sea Anemones,preyedUponBy
+52966,130235,Aurelia labiata,Greater Moon Jelly,preyedUponBy

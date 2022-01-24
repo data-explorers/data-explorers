@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119994,56112,Symphyotrichum,American asters,eats
+119994,48678,Solidago,goldenrods,eats
+119994,58736,Pyrus,pears,eats
+119994,49591,Lepomis macrochirus,Bluegill,eats
+119994,120179,Doellingeria umbellata,flat-top white aster,eats
+119994,125721,Solidago rigida,stiff-leaved goldenrod,eats
+119994,47718,Notodontidae,Prominent Moths,eats
+119994,469238,Neotibicen canicularis,Northern Dog-day Cicada,eats
+119994,142279,Symphyotrichum pilosum,hairy white oldfield aster,eats
+119994,47888,Impatiens capensis,common jewelweed,eats
+119994,125381,Asclepias incarnata,swamp milkweed,eats
+119994,53052,Foeniculum vulgare,fennel,eats
+119994,,Erechtites,,eats
+119994,,Verbesina alternifolia,,eats
+119994,122249,Symphyotrichum lateriflorum,calico aster,eats
+119994,324726,Lycorma delicatula,Spotted Lanternfly,eats
+119994,47888,Impatiens capensis,common jewelweed,pollinates
+119994,47607,Noctuoidea,Owlet Moths and Allies,preysOn
+119994,69758,Lumbricidae,Earthworms,preysOn
+119994,47158,Insecta,Insects,preysOn
+119994,630955,Anthophila,Bees,preysOn
+119994,47821,Tabanidae,Horse and Deer Flies,preysOn
+119994,83854,Magicicada,Periodical Cicadas,preysOn
+119994,,Sphinx kalmiae,,preysOn
+119994,,Agraulis vanillae,,preysOn
+119994,,Gryllus pennsylvanicus,,preysOn
+119994,,Neotibicen lyricen engelhardti,,preysOn
+119994,,Cotinis nitida,,preysOn
+119994,59919,Anisota,,preysOn
+119994,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+119994,,Verrucosa arenata,,preyedUponBy
+119994,,Misumessus oblongus,,preyedUponBy
+119994,,Diogmites neoternatus,,preyedUponBy

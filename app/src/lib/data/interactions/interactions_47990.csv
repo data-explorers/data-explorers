@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47990,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+47990,,Colibri coruscans,,eatenBy
+47990,,Micrathena funebris,,eatenBy
+47990,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+47990,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+47990,19577,Chordeiles minor,Common Nighthawk,eatenBy
+47990,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+47990,158769,Asimina parviflora,Small-Flower Pawpaw,pollinates
+47990,263950,Metacyrba taeniola,Ribbon Jumping Spider,preyedUponBy
+47990,,Mangora acalypha,,preyedUponBy

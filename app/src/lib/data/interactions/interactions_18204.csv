@@ -1,0 +1,61 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+18204,211194,Tracheophyta,vascular plants,eats
+18204,1,Animalia,Animals,eats
+18204,48124,Tettigoniidae,Katydids,eats
+18204,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+18204,47118,Araneae,Spiders,eats
+18204,47208,Coleoptera,Beetles,eats
+18204,47124,Magnoliopsida,dicots,eats
+18204,3800,Morus,Gannets,eats
+18204,63089,Clitellata,Clitellates,eats
+18204,52697,Avena,Oats,eats
+18204,48736,Curculionidae,True Weevils,eats
+18204,47434,Poaceae,grasses,eats
+18204,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+18204,47158,Insecta,Insects,eats
+18204,50299,Fragaria,strawberries,eats
+18204,49456,Coccidae,Soft scales,eats
+18204,50186,Cicadidae,Typical Cicadas,eats
+18204,47544,Rubus,brambles,eats
+18204,47851,Quercus,oaks,eats
+18204,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+18204,58732,Toxicodendron radicans,poison ivy,eats
+18204,47193,Cornus,dogwoods,eats
+18204,60773,Vitis,grapevines,eats
+18204,56955,Helianthus,sunflowers,eats
+18204,64161,Triticum aestivum,Bread Wheat,eats
+18204,61267,Heteroptera,True Bugs,eats
+18204,47822,Diptera,Flies,eats
+18204,15985,Myiarchus,Myiarchus Flycatchers,eats
+18204,47157,Lepidoptera,Butterflies and Moths,eats
+18204,16028,Myiarchus crinitus,Great Crested Flycatcher,eats
+18204,47126,Plantae,plants,eats
+18204,184884,Pterygota,Winged and Once-winged Insects,eats
+18204,,Phyllophaga,,eats
+18204,,Toxicodendron pubescens,,eats
+18204,,Malus pumila,,eats
+18204,48448,Zea mays,Maize,eats
+18204,61964,Prunus avium,wild cherry,eats
+18204,,Magicicada septendecim,,eats
+18204,,wood-borers,,eats
+18204,,wood-borers - weevils,,eats
+18204,,M. tibialis,,eatenBy
+18204,,T. auratus,,eatenBy
+18204,47208,Coleoptera,Beetles,preysOn
+18204,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+18204,47822,Diptera,Flies,preysOn
+18204,47157,Lepidoptera,Butterflies and Moths,preysOn
+18204,16028,Myiarchus crinitus,Great Crested Flycatcher,preysOn
+18204,47158,Insecta,Insects,preysOn
+18204,47927,Anisoptera,Dragonflies,preysOn
+18204,630955,Anthophila,Bees,preysOn
+18204,184884,Pterygota,Winged and Once-winged Insects,preysOn
+18204,47120,Arthropoda,Arthropods,preysOn
+18204,69758,Lumbricidae,Earthworms,preysOn
+18204,311310,Astacidea,Crayfishes and Lobsters,preysOn
+18204,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+18204,47742,Pentatomidae,Stink Bugs,preysOn
+18204,,Wood-borers,,preysOn
+18204,,Weevils,,preysOn
+18204,324726,Lycorma delicatula,Spotted Lanternfly,preysOn
+18204,50190,Cicadoidea,Cicadas,preysOn

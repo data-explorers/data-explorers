@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51098,47219,Apis mellifera,Western Honey Bee,eatenBy
+51098,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+51098,51557,Bombylius major,Greater Bee Fly,eatenBy
+51098,59189,Erynnis tristis,Mournful Duskywing,eatenBy
+51098,270789,Habropoda tristissima,Dimorphic Mountain-digger Bee,eatenBy
+51098,,Adela singulella,,eatenBy
+51098,57668,Andrenidae,Mining Bees,pollinatedBy
+51098,51558,Bombyliidae,Bee Flies,pollinatedBy
+51098,49707,Halictidae,Sweat Bees,pollinatedBy
+51098,47220,Apis,Honey Bees,pollinatedBy

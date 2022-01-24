@@ -1,0 +1,57 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+187047,153112,Euphausiacea,krill,eats
+187047,85493,Crustacea,Crustaceans,eats
+187047,47459,Cephalopoda,Cephalopods,eats
+187047,47115,Mollusca,Molluscs,eats
+187047,3,Aves,Birds,eats
+187047,121643,Copepoda,Copepods,eats
+187047,195337,Phronima,,eats
+187047,296032,Nematoscelis megalops,,eats
+187047,195136,Euphausia,,eats
+187047,92583,Trachurus,Jack Mackerels,eats
+187047,248825,Nematoscelis,,eats
+187047,51104,Thaliacea,Thaliaceans,eats
+187047,1,Animalia,Animals,eats
+187047,,,,eats
+187047,,Gnathostomata,,eats
+187047,,others,,eats
+187047,,Osteichthyes,,eats
+187047,952611,Euphausia longirostris,,eats
+187047,201719,Pleuromamma,,eats
+187047,261167,Stylocheiron maximum,,eats
+187047,,Onykia ingens,,eats
+187047,,Decabrachia,,eats
+187047,,n.a./others,,eats
+187047,,Euchirella rostrata,,eats
+187047,,Neocalanus tonsus,,eats
+187047,261161,Thysanoessa gregaria,,eats
+187047,,Lanceola,,eats
+187047,665660,Euphausia lucens,Planktonic Euphasiid,eats
+187047,248685,Phrosina,,eats
+187047,340950,Themisto gaudichaudii,,eats
+187047,432394,Brachioteuthis picta,Ornate Arm Squid,eats
+187047,213729,Anoplogaster cornuta,Fangtooth,eats
+187047,248827,Stylocheiron,,eats
+187047,246116,Sagittoidea,,eats
+187047,1220694,Oxygyrus,,eats
+187047,397989,Teuthowenia pellucida,Googly-eyed Glass Squid,eats
+187047,392205,Martialia hyadesi,sevenstar flying squid,eats
+187047,90728,Paralepis,,eats
+187047,248585,Brachyscelus,,eats
+187047,89477,Lestidium,,eats
+187047,328996,Euphausia similis,,eats
+187047,201712,Euchaeta,,eats
+187047,195135,Thysanoessa,,eats
+187047,214112,Arctozenus risso,Ribbon Barracudina,eats
+187047,260964,Primno macropa,,eats
+187047,,Moroteuthis,,eats
+187047,296032,Nematoscelis megalops,,preysOn
+187047,952611,Euphausia longirostris,,preysOn
+187047,340950,Themisto gaudichaudii,,preysOn
+187047,261161,Thysanoessa gregaria,,preysOn
+187047,,Onykia ingens,,preysOn
+187047,432394,Brachioteuthis picta,Ornate Arm Squid,preysOn
+187047,397989,Teuthowenia pellucida,Googly-eyed Glass Squid,preysOn
+187047,392205,Martialia hyadesi,sevenstar flying squid,preysOn
+187047,665660,Euphausia lucens,Planktonic Euphasiid,preysOn
+187047,261167,Stylocheiron maximum,,preysOn

@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7043,47822,Diptera,Flies,eats
+7043,62164,Trichoptera,Caddisflies,eats
+7043,47115,Mollusca,Molluscs,eats
+7043,60998,Ceratophyllaceae,coontails,eats
+7043,48382,Polygonaceae,knotweed family,eats
+7043,48694,Typhaceae,"bulrushes, cattails, and allies",eats
+7043,50361,Hydrocharitaceae,tape-grass family,eats
+7043,47792,Odonata,Dragonflies and Damselflies,eats
+7043,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7043,47208,Coleoptera,Beetles,eats
+7043,59109,Potamogetonaceae,pondweed family,eats
+7043,47434,Poaceae,grasses,eats
+7043,47161,Cyperaceae,sedges,eats
+7043,47158,Insecta,Insects,eats
+7043,211194,Tracheophyta,vascular plants,eats
+7043,59713,Chlorophyceae,Chlorophycean green algae,eats
+7043,1,Animalia,Animals,eats
+7043,56235,Gentianaceae,gentian family,eats
+7043,47122,Fabaceae,legumes,eats
+7043,47114,Gastropoda,Gastropods,eats
+7043,51121,Nymphaeaceae,water-lily family,eats
+7043,47584,Bivalvia,Bivalves,eats
+7043,48536,Araceae,arum family,eats
+7043,47120,Arthropoda,Arthropods,eats
+7043,,Azollaceae,,eats
+7043,,Characeae,,eats
+7043,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+7043,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+7043,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy

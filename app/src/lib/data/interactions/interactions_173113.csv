@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+173113,53395,Eriophyllum confertiflorum,Golden Yarrow,eats
+173113,53453,Salix,Willows,eats
+173113,53549,Ulmus,elms,eats
+173113,,Ranunculus muricatus,,eats
+173113,,Carya,,eats
+173113,17356,Vireo bellii,Bell's Vireo,eatenBy
+173113,5017,Bubulcus ibis,Cattle Egret,eatenBy
+173113,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+173113,64322,Cistus,Shrubby Rock-roses,pollinates
+173113,,Alstroemeria aurea,,pollinates
+173113,,Mutisia decurrens,,pollinates
+173113,82716,Halimium,,pollinates
+173113,82703,Halimium halimifolium,Spotted yellow sun rose,pollinates
+173113,,Capparis,,pollinates
+173113,,Cistus parviflorus,,pollinates
+173113,,Thymus capitatus,,pollinates

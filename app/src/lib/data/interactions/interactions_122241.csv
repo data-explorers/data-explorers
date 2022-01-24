@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+122241,47126,Plantae,plants,eats
+122241,67333,Bacteria,bacteria,eats
+122241,,Phytoplankton,,eats
+122241,,Detritus,,eats
+122241,,others,,eats
+122241,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+122241,122916,Lampris guttatus,Opah,eatenBy
+122241,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+122241,57814,Pogonias cromis,Black Drum,eatenBy
+122241,53875,Ocypode quadrata,Atlantic Ghost Crab,eatenBy
+122241,,Luidia senegalensis,,eatenBy
+122241,,Polinices duplicatus,,preyedUponBy
+122241,53875,Ocypode quadrata,Atlantic Ghost Crab,preyedUponBy

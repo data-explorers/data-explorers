@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59510,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+59510,14850,Sturnus vulgaris,European Starling,eatenBy
+59510,17009,Sayornis saya,Say's Phoebe,eatenBy
+59510,19577,Chordeiles minor,Common Nighthawk,eatenBy
+59510,13732,Anthus rubescens,American Pipit,eatenBy
+59510,41147,Macrotus californicus,California Leaf-nosed Bat,preyedUponBy
+59510,,Phyllostomus hastatus,,preyedUponBy
+59510,41137,Anoura geoffroyi,Geoffroy's tailless bat,preyedUponBy

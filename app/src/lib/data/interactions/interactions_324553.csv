@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+324553,47126,Plantae,plants,eats
+324553,,Phytoplankton,,eats
+324553,118665,Diplodus annularis,Annular Seabream,eatenBy
+324553,118659,Pagellus erythrinus,Common Pandora,eatenBy
+324553,1017167,Marthasterias glacialis,Spiny Starfish,eatenBy
+324553,118665,Diplodus annularis,Annular Seabream,preyedUponBy
+324553,118659,Pagellus erythrinus,Common Pandora,preyedUponBy

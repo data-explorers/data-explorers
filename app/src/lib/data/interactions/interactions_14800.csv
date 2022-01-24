@@ -1,0 +1,66 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+14800,,Prunus domestica,,eats
+14800,4672,Falco columbarius,Merlin,eatenBy
+14800,42069,Vulpes vulpes,Red Fox,eatenBy
+14800,,Jynx torquilla,,eatenBy
+14800,,Dendrocopos syriacus,,eatenBy
+14800,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+14800,19898,Strix aluco,Tawny Owl,eatenBy
+14800,20359,Aegolius funereus,Boreal Owl,eatenBy
+14800,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+14800,19890,Strix nebulosa,Great Gray Owl,eatenBy
+14800,,Glaucidium passerinum,,eatenBy
+14800,,Dendrocopos medius,,eatenBy
+14800,19910,Strix uralensis,Ural Owl,eatenBy
+14800,851014,Canis aureus,Golden Jackal,eatenBy
+14800,42048,Canis lupus,Gray Wolf,eatenBy
+14800,41900,Herpestes ichneumon,Ichneumon,eatenBy
+14800,41961,Felis chaus,Jungle Cat,eatenBy
+14800,922459,Felis silvestris,European Wildcat,eatenBy
+14800,41800,Martes foina,Stone Marten,eatenBy
+14800,41795,Martes zibellina,Sable,eatenBy
+14800,41796,Martes martes,Eurasian Pine Marten,eatenBy
+14800,41813,Mustela sibirica,Siberian Weasel,eatenBy
+14800,569428,Mustela nivalis,Least Weasel,eatenBy
+14800,42065,Vulpes corsac,Corsac Fox,eatenBy
+14800,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+14800,,Platyceps collaris,,eatenBy
+14800,74008,Zamenis lineatus,Italian Aesculapian Snake,eatenBy
+14800,74009,Zamenis longissimus,Aesculapian Snake,eatenBy
+14800,30237,Elaphe quatuorlineata,Four-lined Snake,eatenBy
+14800,540328,Zamenis scalaris,Ladder Snake,eatenBy
+14800,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,eatenBy
+14800,,Elaphe situla,,eatenBy
+14800,29917,Hierophis gemonensis,Balkan Whip Snake,eatenBy
+14800,73823,Hierophis viridiflavus,Green Whip Snake,eatenBy
+14800,35854,Lacerta viridis,Green Lizard,eatenBy
+14800,35900,Lacerta bilineata,Western Green Lizard,eatenBy
+14800,,Timon lepidus,,eatenBy
+14800,,Macrovipera lebetina,,eatenBy
+14800,,Macrovipera schweizeri,,eatenBy
+14800,,Montivipera xanthina,,eatenBy
+14800,,Montivipera raddei,,eatenBy
+14800,,Montivipera wagneri,,eatenBy
+14800,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+14800,39407,Varanus griseus,Desert Monitor,eatenBy
+14800,,Pseudopus apodus,,eatenBy
+14800,,Telescopus fallax,,eatenBy
+14800,,Platyceps najadum,,eatenBy
+14800,,Montivipera albizona,,eatenBy
+14800,121105,Montivipera bulgardaghica,Mount Bulgar viper,eatenBy
+14800,966698,Vipera berus,Adder,eatenBy
+14800,30924,Vipera latastei,Lataste's Viper,eatenBy
+14800,81522,Vipera ammodytes,Nose-horned Viper,eatenBy
+14800,,Vipera dinniki,,eatenBy
+14800,,Vipera kaznakovi,,eatenBy
+14800,,Vipera seoanei,,eatenBy
+14800,,Spalerosophis diadema,,eatenBy
+14800,,Hemorrhois ravergieri,,eatenBy
+14800,28451,Telescopus nigriceps,Black headed snake,eatenBy
+14800,27035,Hierophis viridiflavus carbonarius,,eatenBy
+14800,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+14800,,Hemorrhois nummifer,,eatenBy
+14800,,Dolichophis schmidti,,eatenBy
+14800,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+14800,,Dolichophis caspius,,eatenBy
+14800,73759,Dolichophis jugularis,Large Whip Snake,eatenBy

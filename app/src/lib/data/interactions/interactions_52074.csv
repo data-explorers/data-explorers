@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52074,,Chlorostilbon maugaeus,,eatenBy
+52074,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+52074,,Anthracothorax dominicus,,eatenBy
+52074,84549,Plathemis lydia,Common Whitetail,preyedUponBy

@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+347897,47851,Quercus,oaks,eats
+347897,49203,Fagus,beeches,eats
+347897,53453,Salix,Willows,eats
+347897,54856,Tilia,"lindens, basswoods, and lime trees",eats
+347897,49156,Betula,birches,eats
+347897,,Acer pseudoplatanus,,eats
+347897,,Broadleaved trees,,eats
+347897,,Ilex aquifolium,,eats

@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53112,59124,Anthocharis sara,Sara Orangetip,eatenBy
+53112,55626,Pieris rapae,Cabbage White,eatenBy
+53112,59119,Pontia protodice,Checkered White,eatenBy
+53112,47219,Apis mellifera,Western Honey Bee,eatenBy
+53112,52484,Celastrina echo,Echo Azure,eatenBy
+53112,59189,Erynnis tristis,Mournful Duskywing,eatenBy
+53112,124420,Bombus californicus,California Bumble Bee,eatenBy
+53112,48548,Vanessa cardui,Painted Lady,eatenBy
+53112,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+53112,59188,Erynnis funeralis,Funereal Duskywing,eatenBy
+53112,58532,Colias eurytheme,Orange Sulphur,eatenBy
+53112,56756,Murgantia histrionica,Harlequin Bug,eatenBy
+53112,1038405,Burnsius albescens,White Checkered-Skipper,eatenBy
+53112,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+53112,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+53112,1021509,Junonia grisea,Gray Buckeye,eatenBy
+53112,326910,Brevicoryne brassicae,Cabbage Aphid,eatenBy
+53112,152131,Bagrada hilaris,Bagrada Bug,eatenBy
+53112,202789,Trichoplusia ni,Cabbage Looper Moth,eatenBy
+53112,124184,Plodia interpunctella,Indian-Meal Moth,eatenBy
+53112,199840,Haemorhous mexicanus,House Finch,eatenBy
+53112,1409,Callipepla californica,California Quail,eatenBy
+53112,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+53112,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+53112,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+53112,59120,Euchloe ausonides,Large Marble,eatenBy
+53112,,Pontia beckerii,,eatenBy
+53112,,Pontia occidentalis,,eatenBy
+53112,,Pieris napi,,eatenBy
+53112,,Pieris brassicae,,eatenBy
+53112,,Phaedon cochleariae,,eatenBy
+53112,,Tenthredo (Elinora) dominiquei,,eatenBy
+53112,,Tenthredo (Elinora) flaveola,,eatenBy
+53112,,Cupido amyntula,,eatenBy
+53112,477991,Annaphila astrologa,,eatenBy
+53112,,Myzus persicae,,eatenBy
+53112,520456,Icaricia acmon,Acmon Blue,eatenBy
+53112,,Coenonympha california california,,eatenBy
+53112,,Pericallia ricini,,eatenBy
+53112,,Spodoptera litura,,eatenBy
+53112,,Crocidolomia pavonana,,eatenBy
+53112,,Hellula undalis,,eatenBy
+53112,,Plutella xylostella,,eatenBy
+53112,,Tenthredo baetica,,eatenBy
+53112,,Zonotrichia leucophrys,,eatenBy

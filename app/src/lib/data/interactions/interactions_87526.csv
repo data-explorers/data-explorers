@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+87526,48752,Lottia,Lottia Limpets,eats
+87526,49052,Anthopleura,,eats
+87526,68764,Ostracoda,Seed Shrimp,eats
+87526,48836,Ophiuroidea,Brittle Stars,eats
+87526,47825,Pycnogonida,Pycnogonids,eats
+87526,123880,Bacillariophyceae,Diatoms,eats
+87526,47626,Caprellidae,Skeleton Shrimp,eats
+87526,49282,Sabellidae,Feather Duster Worms,eats
+87526,49725,Pugettia,,eats
+87526,62807,Mytilus,Black Mussels,eats
+87526,51200,Hippolytidae,Hump-backed Shrimps,eats
+87526,49532,Sphaeromatidae,Typical Seapills,eats
+87526,48174,Paguridae,Pagurid Hermit Crabs,eats
+87526,49581,Nereididae,,eats
+87526,48919,Littorina,Periwinkles,eats
+87526,1,Animalia,Animals,eats
+87526,,Detritus complex,,eats
+87526,194653,Porphyra yezoensis,,eats
+87526,,Limnoria,,eats
+87526,,Gammaridea,,eats
+87526,621184,Ulvaria,,eats
+87526,,Harpacticidae,,eats
+87526,,Epiactis vincentina,,eats
+87526,,Synisoma,,eats
+87526,51280,Nemertea,Ribbon Worms,eats
+87526,248493,Rocinela,,eats
+87526,,unspecified invertebrates,,eats
+87526,,Corvus caurinus,,eatenBy
+87526,4547,Ptychoramphus aleuticus,Cassin's Auklet,eatenBy

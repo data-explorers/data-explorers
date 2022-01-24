@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58573,3849,Calidris alba,Sanderling,eatenBy
+58573,47415,Pardosa,Thin-legged Wolf Spiders,eatenBy
+58573,61903,Xysticus,Ground Crab Spiders,eatenBy
+58573,,Hyposoter frigidus,,eatenBy
+58573,,Ichneumon discoensis,,eatenBy
+58573,,Cotesia,,eatenBy
+58573,,Cryptus leechi,,eatenBy
+58573,,Pimpla sodalis,,eatenBy
+58573,,Mesochorus,,eatenBy
+58573,,Xysticus labradorensis,,eatenBy
+58573,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+58573,,Periscepsia,,eatenBy
+58573,3857,Calidris alpina,Dunlin,eatenBy
+58573,52972,Epilobium,willowherbs,pollinates
+58573,53453,Salix,Willows,pollinates
+58573,53186,Potentilla,cinquefoils,pollinates
+58573,50074,Dryas,,pollinates
+58573,,Dryas integrifolia,,pollinates
+58573,,Salix arctica,,pollinates
+58573,,Saxifraga oppositifolia,,pollinates

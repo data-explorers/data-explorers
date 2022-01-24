@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+89855,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+89855,47178,Actinopterygii,Ray-finned Fishes,eats
+89855,89855,Menticirrhus,Kingcroakers,eats
+89855,47115,Mollusca,Molluscs,eats
+89855,85493,Crustacea,Crustaceans,eats
+89855,121639,Brachyura,True Crabs,eats
+89855,1,Animalia,Animals,eats
+89855,47490,Polychaeta,Polychaete Worms,eats
+89855,342910,Dendrobranchiata,Prawns,eats
+89855,51366,Brevoortia,Menhaden,eats
+89855,,Deuterostomia,,eats
+89855,,Teuthida,,eats
+89855,206911,Tivela stultorum,Pismo Clam,eats
+89855,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+89855,89855,Menticirrhus,Kingcroakers,eatenBy
+89855,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+89855,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+89855,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+89855,111752,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark,eatenBy
+89855,53583,Carcharhinus plumbeus,Sandbar Shark,eatenBy
+89855,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+89855,96768,Carcharias taurus,Sand Tiger Shark,eatenBy
+89855,,Urophycis brasiliensis,,eatenBy
+89855,206911,Tivela stultorum,Pismo Clam,preysOn

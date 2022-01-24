@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81665,54834,Prunus serotina,black cherry,eats
+81665,48629,Prunus americana,American plum,eats
+81665,54779,Quercus alba,white oak,eats
+81665,53549,Ulmus,elms,eats
+81665,47727,Acer,maples,eats
+81665,47566,Populus,"poplars, cottonwoods, and aspens",eats
+81665,47851,Quercus,oaks,eats
+81665,54840,Populus tremuloides,trembling aspen,eats
+81665,49005,Quercus rubra,northern red oak,eats
+81665,57250,Prunus ilicifolia,hollyleaf cherry,eats
+81665,49203,Fagus,beeches,eats
+81665,54774,Viburnum,viburnums,eats
+81665,54262,Abies,firs,eats
+81665,52119,Populus deltoides,Eastern Cottonwood,eats
+81665,49883,Betula papyrifera,paper birch,eats
+81665,57254,Pyracantha coccinea,Firethorn,eats
+81665,78755,Prunus persica,Peach,eats
+81665,47726,Acer negundo,boxelder,eats
+81665,54762,Acer saccharinum,silver maple,eats
+81665,48098,Acer rubrum,red maple,eats
+81665,49882,Betula alleghaniensis,yellow birch,eats
+81665,54763,Acer platanoides,Norway maple,eats
+81665,53352,Alnus,alders,eats
+81665,47561,Pinus,pines,eats
+81665,50636,Plantago,plantain,eats
+81665,55571,Larix,larches,eats
+81665,117326,Picea glauca,white spruce,eats
+81665,54500,Malus,apples,eats
+81665,54856,Tilia,"lindens, basswoods, and lime trees",eats
+81665,60307,Poa pratensis,Smooth Meadow-grass,eats
+81665,54854,Tilia americana,basswood,eats
+81665,,Prunus pensylvanica,,eats
+81665,52392,Pinus koraiensis,Korean pine,eats
+81665,47570,Populus alba,white poplar,eats
+81665,,Populus balsamifera,,eats
+81665,,Ulmus americana,,eats
+81665,,Cotinus coggygria,,eats
+81665,,Quercus coccinea,,eats
+81665,,Wisteria,,eats
+81665,,Populus nigra,,eats
+81665,54860,Ulmus rubra,slippery elm,eats
+81665,48448,Zea mays,Maize,eats
+81665,,Wisteria sinensis,,eats
+81665,,Abies balsamea,,eats
+81665,,Quercus virginiana,,eats
+81665,51148,Crataegus,hawthorns,eats
+81665,,Prunus domestica,,eats
+81665,,Zanthoxylum,,eats
+81665,63951,Pyrus communis,Common Pear,eats
+81665,49662,Platanus occidentalis,American sycamore,eats
+81665,61964,Prunus avium,wild cherry,eats
+81665,,Quercus phellos,,eats
+81665,,Sassafras albidum,,eats
+81665,,Pisum sativum sativum,,eats
+81665,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy

@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+143615,54570,Mentha,mints,eats
+143615,62941,Ipomoea batatas,sweet potato,eats
+143615,48896,Heliotropium,Heliotropes,eats
+143615,56058,Leucanthemum,,eats
+143615,48493,Delphinium,larkspurs,eats
+143615,61399,Ocimum,Basils,eats
+143615,53106,Lactuca,lettuces,eats
+143615,52346,Ipomoea,morning-glories,eats
+143615,47701,Geranium,geraniums and cranesbills,eats
+143615,48970,Antirrhinum,Snapdragons,eats
+143615,52326,Amaranthus,amaranths,eats
+143615,57057,Medicago sativa,Alfalfa,eats
+143615,48678,Solidago,goldenrods,eats
+143615,52681,Pteridium aquilinum,common bracken,eats
+143615,,Cynara scolymus,,eats
+143615,58789,Apium,Celery and Marshwort,eats
+143615,54498,Beta vulgaris,Beet,eats
+143615,58788,Apium graveolens,Celery,eats
+143615,,Pericallis hybrida,,eats
+143615,,Cirsium horridulum,,eats
+143615,,Chrysanthemum,,eats
+143615,,Pimenta,,eats
+143615,122850,Phaseolus vulgaris,Common Bean,eats
+143615,,Brassica oleracea,,eats
+143615,,Ocimum basilicum,,eats
+143615,120945,Ageratum,Ageratums,eats
+143615,54919,Cucumis sativus,Cucumber,eats
+143615,,Ageratina altissima,,eats
+143615,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

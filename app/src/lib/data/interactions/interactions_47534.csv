@@ -1,0 +1,148 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47534,47534,Cnidaria,Cnidarians,eats
+47534,129725,Appendicularia,Pelagic Tunicates,eats
+47534,118996,Ciliophora,Ciliates,eats
+47534,85514,Cyclopoida,Cyclopoid Copepods,eats
+47534,48147,Isopoda,Isopods,eats
+47534,195355,Hyperiidae,,eats
+47534,775805,Pteropoda,Sea Butterflies,eats
+47534,85912,Mysidae,,eats
+47534,47186,Decapoda,Decapods,eats
+47534,47626,Caprellidae,Skeleton Shrimp,eats
+47534,47533,Anthozoa,Sea Anemones and Corals,eats
+47534,,Zooplankton,,eats
+47534,85507,Calanoida,Calanoid Copepods,eats
+47534,69842,Scomber,,eats
+47534,179507,Peprilus triacanthus,Butterfish,eats
+47534,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+47534,59806,Gammaridae,,eats
+47534,,Phytoplankton,,eats
+47534,97990,Clupea harengus,Atlantic Herring,eats
+47534,48817,Crangon,,eats
+47534,51362,Alosa pseudoharengus,Alewife,eats
+47534,,plankton,,eats
+47534,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+47534,47534,Cnidaria,Cnidarians,eatenBy
+47534,51911,Engraulidae,Anchovies,eatenBy
+47534,151827,Chaetognatha,Arrow Worms,eatenBy
+47534,47668,Asteroidea,Sea Stars,eatenBy
+47534,47114,Gastropoda,Gastropods,eatenBy
+47534,39657,Cheloniidae,Typical Sea Turtles,eatenBy
+47534,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47534,47186,Decapoda,Decapods,eatenBy
+47534,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eatenBy
+47534,151838,Priapulida,Priapulid Worms,eatenBy
+47534,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+47534,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+47534,130235,Aurelia labiata,Greater Moon Jelly,eatenBy
+47534,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+47534,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+47534,47499,Armina californica,Striped Nudibranch,eatenBy
+47534,800860,Salpa thompsoni,,eatenBy
+47534,81787,Syllidae,,eatenBy
+47534,49522,Amphinomidae,Bristle Worms,eatenBy
+47534,83318,Arothron meleagris,Guineafowl Puffer,eatenBy
+47534,54662,Mugil,Common Mullets,eatenBy
+47534,132473,Lagodon rhomboides,Pinfish,eatenBy
+47534,410430,Schedophilus maculatus,Raft-fish,eatenBy
+47534,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+47534,47549,Echinodermata,Echinoderms,eatenBy
+47534,47825,Pycnogonida,Pycnogonids,eatenBy
+47534,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47534,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+47534,,omnivores,,eatenBy
+47534,49692,Scaridae,Parrotfishes,eatenBy
+47534,67990,Scaphopoda,Tusk Shells,eatenBy
+47534,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+47534,83846,Urophycis chuss,squirrel hake,eatenBy
+47534,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+47534,424322,Odontoceti,Toothed Whales,eatenBy
+47534,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+47534,104540,Leucoraja ocellata,Winter Skate,eatenBy
+47534,233276,Urophycis regia,Spotted Hake,eatenBy
+47534,233277,Urophycis tenuis,White Hake,eatenBy
+47534,63742,Gadidae,Cods and Haddocks,eatenBy
+47534,50984,Pomatomus saltatrix,Bluefish,eatenBy
+47534,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47534,49513,Cynoscion,Weakfishes,eatenBy
+47534,110013,Pomacanthus annularis,Bluering Angelfish,eatenBy
+47534,96961,Centropyge potteri,Potter's Angelfish,eatenBy
+47534,1352308,Chaceon albus,,eatenBy
+47534,339357,Culcita schmideliana,Spiny Cushion Star,eatenBy
+47534,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+47534,,Nematocarcinus combensis,,eatenBy
+47534,349565,Euretaster cribrosus,,eatenBy
+47534,153973,Dardanus pedunculatus,Anemone Hermit Crab,eatenBy
+47534,868185,Trinchesia yamasui,,eatenBy
+47534,,Pinctada fucata,,eatenBy
+47534,,Platypodia granulosa,,eatenBy
+47534,,Paralepidonotus indicus,,eatenBy
+47534,394392,Paralepidonotus ampulliferus,,eatenBy
+47534,672476,Lepidonotus tenuisetosus,,eatenBy
+47534,471092,Lithodes murrayi,Subantarctic Stone Crab,eatenBy
+47534,199325,Alitta succinea,Clam Worm,eatenBy
+47534,799827,Cibacapsa gulosa,,eatenBy
+47534,81612,Rhithropanopeus harrisii,White-tipped Mud Crab,eatenBy
+47534,459554,Chaceon quinquedens,Red Deepsea Crab,eatenBy
+47534,56653,Haliotis fulgens,Green Abalone,eatenBy
+47534,41766,Odobenus rosmarus,Walrus,eatenBy
+47534,54645,Phyllodesmium poindimiei,Poindimie's Phyllodesmium,eatenBy
+47534,194929,Eurythoe complanata,Orange Fire Worm,eatenBy
+47534,50992,Phidiana militaris,military phidiana,eatenBy
+47534,,Flabellina rubrolineata,,eatenBy
+47534,122005,Berthellina citrina,,eatenBy
+47534,151350,Rondeletiola minor,Lentil Bobtail,eatenBy
+47534,49315,Octopus vulgaris,Common Octopus,eatenBy
+47534,324560,Alloteuthis media,Midsize Squid,eatenBy
+47534,50406,Culcita novaeguineae,Pillow Cushion Star,eatenBy
+47534,122164,Echinothrix diadema,Blue-black Urchin,eatenBy
+47534,122003,Choriaster granulatus,Granulated Sea Star,eatenBy
+47534,,Dondice occidentalis,,eatenBy
+47534,354380,Portunus trituberculatus,Japanese Blue Crab,eatenBy
+47534,260237,Aristaeopsis edwardsiana,Scarlet Gamba Prawn,eatenBy
+47534,,Melicertus kerathurus,,eatenBy
+47534,,Pycnogonum littorale,,eatenBy
+47534,813306,Nymphon brevirostre,,eatenBy
+47534,1071761,Parapenaeus longirostris,Deep-water rose shrimp,eatenBy
+47534,325414,Bulbaeolidia alba,,eatenBy
+47534,47775,Doto kya,Dark Doto,eatenBy
+47534,,Cuthona albocrusta,,eatenBy
+47534,,Flabellina amabilis,,eatenBy
+47534,50480,Spurilla neapolitana,,eatenBy
+47534,495552,Hermissenda crassicornis,Thick-horned Nudibranch,eatenBy
+47534,51464,Metapenaeus monoceros,Speckled shrimp,eatenBy
+47534,,Jasus tristani,,eatenBy
+47534,347256,Pearsonothuria graeffei,Graeffe's Sea Cucumber,eatenBy
+47534,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+47534,532821,Pleoticus muelleri,Argentine red shrimp,eatenBy
+47534,1072158,Heterocarpus sibogae,Mino nylon shrimp,eatenBy
+47534,,Flabellina falklandica,,eatenBy
+47534,1215037,Calliostoma consimile,,eatenBy
+47534,1109356,Dactylanthus antarcticus,Gorgonian-feeding Anemone,eatenBy
+47534,1202438,Berthella platei,,eatenBy
+47534,513713,Tritonia odhneri,,eatenBy
+47534,47533,Anthozoa,Sea Anemones and Corals,preysOn
+47534,,Calanus propinquus,,preyedUponBy
+47534,,Epimeria rubrieques,,preyedUponBy
+47534,617789,Gymnoscopelus opisthopterus,,preyedUponBy
+47534,,Rhachotropis antarctica,,preyedUponBy
+47534,,Hyperiella dilatata,,preyedUponBy
+47534,,Melphidippa antarctica,,preyedUponBy
+47534,617786,Gymnoscopelus braueri,,preyedUponBy
+47534,651712,Astrotoma agassizii,,preyedUponBy
+47534,,Maxilliphimedia longipes,,preyedUponBy
+47534,,Epimeria macrodonta,,preyedUponBy
+47534,,Paraeuchaeta antarctica,,preyedUponBy
+47534,1321176,Cyllopus lucasii,,preyedUponBy
+47534,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preyedUponBy
+47534,1194375,Epimeria similis,,preyedUponBy
+47534,1130031,Hyperia macrocephala,,preyedUponBy
+47534,,Epimeria robusta,,preyedUponBy
+47534,,Rhincalanus gigas,,preyedUponBy
+47534,1171805,Astrochlamys bruneus,,preyedUponBy
+47534,,Epimeria walkeri,,preyedUponBy
+47534,,Waldeckia obesa,,preyedUponBy
+47534,,Liljeborgia georgiana,,preyedUponBy
+47534,,Notolepis coatsi,,preyedUponBy
+47534,1171999,Ophioplinthus brevirima,,preyedUponBy
+47534,1171863,Ophiosparte gigas,,preyedUponBy

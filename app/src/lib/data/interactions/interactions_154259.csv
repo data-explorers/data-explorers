@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+154259,53911,Cyprinus carpio,European Carp,eatenBy
+154259,101053,Fundulus diaphanus,banded killifish,eatenBy
+154259,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+154259,,Notropis hudsonius,,eatenBy
+154259,,Notropis,,eatenBy
+154259,,Exoglossum maxillingua,,eatenBy
+154259,58637,Ambloplites rupestris,Rock Bass,eatenBy
+154259,,Cyprinella spiloptera,,eatenBy
+154259,58636,Lepomis cyanellus,Green Sunfish,eatenBy
+154259,,Lepomis auritus,,eatenBy
+154259,58618,Luxilus cornutus,Common Shiner,eatenBy
+154259,,Etheostoma flabellare,,eatenBy
+154259,610823,Mimagoniates rheocharis,,eatenBy
+154259,,Parasitoids (Plectiscidea hyperborea - Stenomacrus groenlandicus),,eatenBy
+154259,114127,Thymallus thymallus,Grayling,eatenBy
+154259,,Rhizoclosmatium globosum,,eatenBy
+154259,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+154259,7054,Aythya affinis,Lesser Scaup,eatenBy
+154259,7056,Aythya americana,Redhead,eatenBy
+154259,7057,Aythya valisineria,Canvasback,eatenBy
+154259,6933,Anas acuta,Northern Pintail,eatenBy
+154259,,Crossocerus (Ablepharipus) podagricus,,preyedUponBy

@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121187,120676,Trachurus picturatus,Blue Jack Mackerel,eats
+121187,47115,Mollusca,Molluscs,eats
+121187,47178,Actinopterygii,Ray-finned Fishes,eats
+121187,1,Animalia,Animals,eats
+121187,85493,Crustacea,Crustaceans,eats
+121187,121639,Brachyura,True Crabs,eats
+121187,47186,Decapoda,Decapods,eats
+121187,49796,Stomatopoda,Mantis Shrimps,eats
+121187,,Gnathostomata,,eats
+121187,,unspecified zooplankton,,eats
+121187,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+121187,41481,Tursiops aduncus,Indo-Pacific Bottlenose Dolphin,eatenBy
+121187,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy

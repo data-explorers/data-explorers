@@ -1,0 +1,138 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85514,47686,Protozoa,protozoans,eats
+85514,67333,Bacteria,bacteria,eats
+85514,153112,Euphausiacea,krill,eats
+85514,118996,Ciliophora,Ciliates,eats
+85514,85493,Crustacea,Crustaceans,eats
+85514,,Detritus,,eats
+85514,,Phytoplankton,,eats
+85514,203370,Keratella,,eats
+85514,,Cladocera,,eats
+85514,,Algae,,eats
+85514,,Mysidacea,,eats
+85514,85507,Calanoida,Calanoid Copepods,eats
+85514,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+85514,47927,Anisoptera,Dragonflies,eatenBy
+85514,151827,Chaetognatha,Arrow Worms,eatenBy
+85514,99269,Dicentrarchus labrax,European Seabass,eatenBy
+85514,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+85514,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+85514,49591,Lepomis macrochirus,Bluegill,eatenBy
+85514,47534,Cnidaria,Cnidarians,eatenBy
+85514,51911,Engraulidae,Anchovies,eatenBy
+85514,59117,Gambusia,Mosquitofishes,eatenBy
+85514,92535,Tilapia,Typical Tilapias,eatenBy
+85514,82782,Serranochromis robustus,Yellow-belly Bream,eatenBy
+85514,,Barbus innocens,,eatenBy
+85514,,Barbus,,eatenBy
+85514,109574,Placidochromis johnstoni,,eatenBy
+85514,99297,Dimidiochromis dimidiatus,Ncheni Type Haplo,eatenBy
+85514,85507,Calanoida,Calanoid Copepods,eatenBy
+85514,532638,Oreochromis shiranus,Shiranus Tilapia,eatenBy
+85514,,Nauticaris marionis,,eatenBy
+85514,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+85514,371244,Plectrocnemia,,eatenBy
+85514,57449,Cordulegaster,Golden-ringed Spiketails,eatenBy
+85514,247738,Macropelopia,,eatenBy
+85514,366253,Zavrelimyia,,eatenBy
+85514,577745,Trissopelopia,,eatenBy
+85514,57845,Sialis,,eatenBy
+85514,451411,Siphonoperla,,eatenBy
+85514,247963,Dicranota,,eatenBy
+85514,68076,Oncorhynchus aguabonita,Golden Trout,eatenBy
+85514,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+85514,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+85514,47518,Salmo trutta,Brown Trout,eatenBy
+85514,56554,Notonecta glauca,Greater Water Boatman,eatenBy
+85514,51678,Coenagrion puella,Azure Damselfly,eatenBy
+85514,774778,Gymnoplea,,eatenBy
+85514,,Liza ramada,,eatenBy
+85514,,Liza aurata,,eatenBy
+85514,118671,Sparus aurata,Gilthead Seabream,eatenBy
+85514,,Liza saliens,,eatenBy
+85514,165100,Mallotus villosus,Capelin,eatenBy
+85514,51405,Elops saurus,Ladyfish,eatenBy
+85514,104824,Lucania parva,rainwater killifish,eatenBy
+85514,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+85514,172357,Hoplias malabaricus,Wolf Fish,eatenBy
+85514,324532,Sprattus sprattus,European Sprat,eatenBy
+85514,97995,Clupeonella cultriventris,Tyulka Sprat,eatenBy
+85514,104763,Lobochilotes labiatus,,eatenBy
+85514,106784,Neolamprologus tretocephalus,,eatenBy
+85514,103989,Lamprologus callipterus,Callipterus Cichlid,eatenBy
+85514,106763,Neolamprologus leleupi,Lemon Cichlid,eatenBy
+85514,104187,Lepidiolamprologus elongatus,,eatenBy
+85514,93723,Altolamprologus compressiceps,Compressed Cichlid,eatenBy
+85514,106768,Neolamprologus mondabu,,eatenBy
+85514,101557,Gnathochromis pfefferi,,eatenBy
+85514,102618,Hemitaurichthys polylepis,Pyramid Butterflyfish,eatenBy
+85514,113571,Synclidopus macleayanus,Narrowbanded Sole,eatenBy
+85514,100490,Etheostoma jordani,Greenbreast Darter,eatenBy
+85514,102742,Heterotis niloticus,African Arowana,eatenBy
+85514,51362,Alosa pseudoharengus,Alewife,eatenBy
+85514,179504,Osmerus mordax,Rainbow Smelt,eatenBy
+85514,232945,Triglops murrayi,Moustache Sculpin,eatenBy
+85514,48312,Abudefduf,Sergeant Majors,eatenBy
+85514,203922,Plectroglyphidodon imparipennis,Brighteye Damselfish,eatenBy
+85514,102619,Hemitaurichthys thompsoni,Thompson's Butterflyfish,eatenBy
+85514,,Chromis vanderbilti,,eatenBy
+85514,122115,Pervagor spilosoma,Fantail Filefish,eatenBy
+85514,97179,Chaetodon miliaris,Milletseed Butterflyfish,eatenBy
+85514,128267,Chromis verater,Three-spot Chromis,eatenBy
+85514,123318,Chromis ovalis,Oval Chromis,eatenBy
+85514,47578,Paracirrhites arcatus,Arc-eye Hawkfish,eatenBy
+85514,97167,Chaetodon kleinii,Blacklip Butterflyfish,eatenBy
+85514,464065,Plectroglyphidodon sindonis,Hawaiian Rock Damsel,eatenBy
+85514,121392,Dascyllus albisella,Hawaiian Dascyllus,eatenBy
+85514,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+85514,,Coregonus lavaretus,,eatenBy
+85514,49401,Abudefduf sexfasciatus,Scissortail Sergeant,eatenBy
+85514,132688,Amphiprion ocellaris,Ocellaris Anemonefish,eatenBy
+85514,179880,Chromis viridis,Blue-green Chromis,eatenBy
+85514,102580,Hemigymnus melapterus,Blackeye Thicklip,eatenBy
+85514,196487,Ptereleotris evides,Twotone Dartfish,eatenBy
+85514,334965,Pomachromis richardsoni,Richardson's Damsel,eatenBy
+85514,,Plectroglyphidodon lacrymatus,,eatenBy
+85514,,Amphiprion clarkii,,eatenBy
+85514,55186,Pomacentrus,,eatenBy
+85514,952775,Dascyllus aruanus,Humbug,eatenBy
+85514,49492,Thalassoma amblycephalum,Indo-Pacific Bluehead Wrasse,eatenBy
+85514,57740,Amphiprion frenatus,Tomato Clownfish,eatenBy
+85514,181020,Chromis atripectoralis,Black-axil Chromis,eatenBy
+85514,179849,Chrysiptera cyanea,Blue Demoiselle,eatenBy
+85514,530721,Pomacentrus littoralis,Smoky Damsel,eatenBy
+85514,102059,Halichoeres melanurus,Pinstriped Wrasse,eatenBy
+85514,136416,Corythoichthys haematopterus,Reeftop Pipefish,eatenBy
+85514,94021,Anampses geographicus,Scribbled Wrasse,eatenBy
+85514,113207,Stethojulis strigiventer,Three-line Wrasse,eatenBy
+85514,344375,Chrysiptera rex,Pink Demoiselle,eatenBy
+85514,325535,Pomacentrus amboinensis,Ambon Damsel,eatenBy
+85514,358838,Pomacentrus nagasakiensis,Blue-scribbled Damsel,eatenBy
+85514,119053,Amblyglyphidodon curacao,Staghorn Damsel,eatenBy
+85514,196712,Plagiotremus tapeinosoma,Piano Fangblenny,eatenBy
+85514,317314,Prionotus paralatus,Mexican Searobin,eatenBy
+85514,68764,Ostracoda,Seed Shrimp,preysOn
+85514,47686,Protozoa,protozoans,preysOn
+85514,153112,Euphausiacea,krill,preysOn
+85514,67333,Bacteria,bacteria,preysOn
+85514,47126,Plantae,plants,preysOn
+85514,,Mysidacea,,preysOn
+85514,,Phytoplankton,,preysOn
+85514,372878,Hyperiidea,,preysOn
+85514,151827,Chaetognatha,Arrow Worms,preyedUponBy
+85514,47490,Polychaeta,Polychaete Worms,preyedUponBy
+85514,63770,Engraulis mordax,Northern Anchovy,preyedUponBy
+85514,47533,Anthozoa,Sea Anemones and Corals,preyedUponBy
+85514,54538,Syngnathus leptorhynchus,Bay Pipefish,preyedUponBy
+85514,774778,Gymnoplea,,preyedUponBy
+85514,94801,Atherinops affinis,Topsmelt Silverside,preyedUponBy
+85514,209018,Polydora,Shell-boring Spionids,preyedUponBy
+85514,123639,Spionidae,,preyedUponBy
+85514,627095,Upogebia macginitieorum,,preyedUponBy
+85514,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+85514,,Myctophum asperum,,preyedUponBy
+85514,51678,Coenagrion puella,Azure Damselfly,preyedUponBy
+85514,56554,Notonecta glauca,Greater Water Boatman,preyedUponBy
+85514,47516,Oncorhynchus mykiss,Rainbow Trout,preyedUponBy
+85514,47518,Salmo trutta,Brown Trout,preyedUponBy
+85514,49596,Salvelinus fontinalis,Brook Trout,preyedUponBy

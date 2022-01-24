@@ -1,0 +1,139 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48060,52761,Hypericum,St. John's worts,eats
+48060,59152,Leptotes marina,Marine Blue,eatenBy
+48060,215591,Bulia deducta,Deduced Graphic,eatenBy
+48060,173249,Bulia,,eatenBy
+48060,177071,Melipotis,,eatenBy
+48060,47219,Apis mellifera,Western Honey Bee,eatenBy
+48060,13858,Passer domesticus,House Sparrow,eatenBy
+48060,51538,Leptotes,Common Blues,eatenBy
+48060,18976,Amazona viridigenalis,Red-crowned Parrot,eatenBy
+48060,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+48060,148801,Ministrymon clytie,Clytie Ministreak,eatenBy
+48060,225163,Ministrymon leda,Leda Ministreak,eatenBy
+48060,330436,Hemiargus ramon,Ramon Blue,eatenBy
+48060,69940,Hemiargus ceraunus,Ceraunus Blue,eatenBy
+48060,149058,Deudorix,Cornelians and Playboys,eatenBy
+48060,118914,Echinargus isola,Reakirt's Blue,eatenBy
+48060,1003779,Luthrodes galba,Small Desert Blue,eatenBy
+48060,130782,Chilades,Jewel Blues,eatenBy
+48060,214020,Apodemia palmerii,Palmer's Metalmark,eatenBy
+48060,479137,Cydia membrosa,,eatenBy
+48060,221179,Hemileuca tricolor,Tricolor Buck Moth,eatenBy
+48060,,Sphingicampa heiligbrodti,,eatenBy
+48060,82279,Automeris io,Io Moth,eatenBy
+48060,257409,Dyotopasta yumaella,,eatenBy
+48060,293856,Oiketicus townsendi,,eatenBy
+48060,317916,Nephopterix,,eatenBy
+48060,909847,Melipotis ochrodes,,eatenBy
+48060,346555,Bulia similaris,Similar Graphic,eatenBy
+48060,1072581,Indarbela tetraonis,,eatenBy
+48060,176644,Norape,,eatenBy
+48060,143105,Pleuroprucha insulsaria,Common Tan Wave,eatenBy
+48060,347874,Hyposmocoma alliterata,,eatenBy
+48060,479325,Ithome concolorella,,eatenBy
+48060,118929,Acrolophus,Grass Tubeworm Moths,eatenBy
+48060,,Cryptophlebia carpophagoides,,eatenBy
+48060,563826,Chlorocebus pygerythrus hilgerti,Hilgert's Vervet Monkey,eatenBy
+48060,180008,Otospermophilus variegatus,Rock Squirrel,eatenBy
+48060,73041,Melozone aberti,Abert's Towhee,eatenBy
+48060,170255,Viola pedatifida,Prairie Violet,pollinates
+48060,67790,Aesculus glabra,Ohio buckeye,pollinates
+48060,48943,Datura,devil's trumpets,pollinates
+48060,127907,Chamaecrista fasciculata,partridge pea,pollinates
+48060,47359,Apocynum androsaemifolium,spreading dogbane,pollinates
+48060,85320,Monarda fistulosa,wild bergamot,pollinates
+48060,77188,Galium boreale,Northern Bedstraw,pollinates
+48060,54834,Prunus serotina,black cherry,pollinates
+48060,47912,Asclepias tuberosa,butterfly milkweed,pollinates
+48060,60265,Asparagus officinalis,wild asparagus,pollinates
+48060,125379,Asclepias verticillata,whorled milkweed,pollinates
+48060,77155,Fragaria virginiana,Virginia strawberry,pollinates
+48060,170259,Viola sagittata,arrowleaf violet,pollinates
+48060,55830,Glechoma hederacea,ground-ivy,pollinates
+48060,129556,Oenothera fruticosa,Narrow-leaved Sundrops,pollinates
+48060,67808,Solidago canadensis,Canada goldenrod,pollinates
+48060,53549,Ulmus,elms,pollinates
+48060,48622,Nepeta cataria,Catnip,pollinates
+48060,54840,Populus tremuloides,trembling aspen,pollinates
+48060,58991,Portulaca oleracea,Common Purslane,pollinates
+48060,127020,Phlox pilosa,prairie phlox,pollinates
+48060,52764,Prunella vulgaris,common selfheal,pollinates
+48060,53186,Potentilla,cinquefoils,pollinates
+48060,47602,Taraxacum officinale,common dandelion,pollinates
+48060,58907,Melilotus albus,White Sweetclover,pollinates
+48060,60251,Verbena hastata,blue vervain,pollinates
+48060,84160,Nelumbo lutea,American lotus,pollinates
+48060,130368,Osmorhiza longistylis,aniseroot,pollinates
+48060,155000,Salix cordata,sand dune willow,pollinates
+48060,129634,Agastache nepetoides,yellow giant hyssop,pollinates
+48060,,http://treatment.plazi.org/id/F6083B20B0C47675DF76965D6ADE35F3,,pollinates
+48060,130906,Geum vernum,Spring Avens,pollinates
+48060,51053,Dicentra cucullaria,Dutchman's breeches,pollinates
+48060,133382,Amelanchier canadensis,Canadian serviceberry,pollinates
+48060,,Pycnanthemum pilosum,,pollinates
+48060,77216,Galium trifidum,three-petal bedstraw,pollinates
+48060,53034,Ambrosia trifida,giant ragweed,pollinates
+48060,76541,Cucurbita pepo,American pumpkin,pollinates
+48060,82536,Viola pedata,bird's foot violet,pollinates
+48060,62778,Clematis virginiana,virgin's-bower,pollinates
+48060,164765,Lonicera reticulata,Grape Honeysuckle,pollinates
+48060,168407,Samolus valerandi,Thin Leaf Brookweed,pollinates
+48060,128040,Viola cucullata,marsh blue violet,pollinates
+48060,,http://treatment.plazi.org/id/1F7C9B5847AC820782B942C13EB9D59F,,pollinates
+48060,48448,Zea mays,Maize,pollinates
+48060,59752,Erigeron divergens,spreading fleabane,pollinates
+48060,77779,Lindernia dubia,Yellowseed False Pimpernel,pollinates
+48060,,Eupatorium coelestinum,,pollinates
+48060,129021,Cryptotaenia canadensis,honewort,pollinates
+48060,161739,Desmodium marilandicum,Maryland Tick-trefoil,pollinates
+48060,130378,Solidago missouriensis,Missouri goldenrod,pollinates
+48060,,Geum canadense,,pollinates
+48060,79078,Sida spinosa,prickly fanpetals,pollinates
+48060,54825,Crataegus mollis,downy hawthorn,pollinates
+48060,77990,Mentha aquatica,watermint,pollinates
+48060,132527,Rosa acicularis,Prickly Wild Rose,pollinates
+48060,166436,Penstemon secundiflorus,Sidebells Penstemon,pollinates
+48060,77260,Geranium richardsonii,Richardson's geranium,pollinates
+48060,125488,Rubus idaeus strigosus,American red raspberry,pollinates
+48060,163256,Geranium caespitosum,pinewoods geranium,pollinates
+48060,,Pentstemon glaucus,,pollinates
+48060,,Chamerion angustifolium,,pollinates
+48060,,Penstemon gracilis,,pollinates
+48060,84732,Erigeron speciosus,aspen fleabane,pollinates
+48060,,Penstemon glaber,,pollinates
+48060,,Potentilla fruticosa,,pollinates
+48060,168041,Rubus deliciosus,Rocky Mountain raspberry,pollinates
+48060,,Spiranthes lacera,,pollinates
+48060,167607,Pycnanthemum flexuosum,Savanna Mountainmint,pollinates
+48060,58188,Mentha arvensis,corn mint,pollinates
+48060,,Iris hexagona,,pollinates
+48060,59991,Comandra umbellata,Bastard Toadflax,pollinates
+48060,418222,Malva pusilla,Small Mallow,pollinates
+48060,,Heracleum lanatum,,pollinates
+48060,125380,Asclepias purpurascens,purple milkweed,pollinates
+48060,,Ipomoea hederacea,,pollinates
+48060,156540,Polytaenia nuttallii,Prairie Parsley,pollinates
+48060,,Prenanthes,,pollinates
+48060,130364,Taenidia integerrima,yellow pimpernel,pollinates
+48060,,Philadelphus floridus,,pollinates
+48060,85331,Ratibida pinnata,grey-headed coneflower,pollinates
+48060,166697,Phlox glaberrima,smooth phlox,pollinates
+48060,241074,Houstonia purpurea calycosa,Venus' Pride,pollinates
+48060,242211,Physalis longifolia subglabrata,Longleaf Ground-cherry,pollinates
+48060,82819,Valerianella radiata,beaked cornsalad,pollinates
+48060,116349,Collinsia verna,spring blue-eyed Mary,pollinates
+48060,,Asiminia triloba,,pollinates
+48060,,Polygonum amphibium,,pollinates
+48060,,http://treatment.plazi.org/id/C121FA83BA73C80659A41D6040C22ECF,,pollinates
+48060,58917,Geranium carolinianum,Carolina crane's-bill,pollinates
+48060,82504,Nuphar advena,spatterdock,pollinates
+48060,58306,Myosurus minimus,mousetail,pollinates
+48060,238329,Ruellia caroliniensis ciliosa,,pollinates
+48060,59042,Phyla lanceolata,lanceleaf frogfruit,pollinates
+48060,,Descurainia argentina,,pollinates
+48060,122249,Symphyotrichum lateriflorum,calico aster,pollinates
+48060,129599,Solidago ulmifolia,elm-leaved goldenrod,pollinates
+48060,50625,Ptelea trifoliata,common hoptree,pollinates
+48060,,http://treatment.plazi.org/id/FAFE3A862699660D2A3D0E4616DC7097,,pollinates
+48060,85327,Polygonatum biflorum,smooth Solomon's seal,pollinates

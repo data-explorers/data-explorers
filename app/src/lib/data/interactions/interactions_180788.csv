@@ -1,0 +1,140 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+180788,67334,Cyanobacteria,cyanobacteria,eats
+180788,85493,Crustacea,Crustaceans,eats
+180788,,Prymnesiophyceae,,eats
+180788,,Pyrrophycophyta,,eats
+180788,,Khakista,,eats
+180788,203397,Acartia tonsa,,eats
+180788,97995,Clupeonella cultriventris,Tyulka Sprat,eats
+180788,51910,Engraulis encrasicolus,European Anchovy,eats
+180788,,Gnathostomata,,eats
+180788,324532,Sprattus sprattus,European Sprat,eats
+180788,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+180788,,others,,eats
+180788,1334999,Gymnodinium sanguineum,,eats
+180788,,unspecified thecate dinoflagellates,,eats
+180788,941007,Eutreptiella,,eats
+180788,94070,Anchoa mitchilli,Bay Anchovy,eats
+180788,,Pisces,,eats
+180788,179583,Gobiosoma bosc,Naked goby,eats
+180788,48478,Chrysaora quinquecirrha,Atlantic Sea Nettle,eatenBy
+180788,339903,Beroe ovata,Brown Comb Jelly,eatenBy
+180788,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+180788,112295,Schroederichthys bivius,Narrowmouthed Catshark,eatenBy
+180788,618322,Patagonotothen ramsayi,Longtail southern cod,eatenBy
+180788,179507,Peprilus triacanthus,Butterfish,eatenBy
+180788,118996,Ciliophora,Ciliates,preysOn
+180788,126917,Rotifera,Rotifers,preysOn
+180788,339222,Polydora cornuta,,preysOn
+180788,690805,Spiophanes bombyx,,preysOn
+180788,567249,Echinogammarus stoerensis,,preysOn
+180788,1232815,Microprotopus raneyi,,preysOn
+180788,339277,Sigambra tentaculata,,preysOn
+180788,1110632,Apocorophium lacustre,,preysOn
+180788,295885,Unciola irrorata,,preysOn
+180788,1080182,Picripleuroxus striatus,,preysOn
+180788,483880,Alona costata,,preysOn
+180788,1297371,Bosmina coregoni,baltic long-nosed waterflea,preysOn
+180788,,Pleusymtes glaber,,preysOn
+180788,,Pseudoeurythoe paucibranchiata,,preysOn
+180788,533824,Ceriodaphnia lacustris,,preysOn
+180788,,Hypereteone lactea,,preysOn
+180788,370753,Gammarus fasciatus,,preysOn
+180788,260844,Cerapus tubularis,Hermit Amphipod,preysOn
+180788,1110968,Podon intermedius,,preysOn
+180788,,Corophium tuberculatum,,preysOn
+180788,1019939,Leptodora kindtii,,preysOn
+180788,48336,Loimia medusa,Medusa Spaghetti Worm,preysOn
+180788,,Polydora aggregata,,preysOn
+180788,472067,Penilia avirostris,,preysOn
+180788,,Daphnia pulex,,preysOn
+180788,,Marenzelleria viridis,,preysOn
+180788,377539,Paramphinome,,preysOn
+180788,688876,Scolelepis squamata,,preysOn
+180788,171609,Simocephalus,,preysOn
+180788,,Laeonereis culveri,,preysOn
+180788,,Clymenella torquata,,preysOn
+180788,483871,Leydigia leydigi,,preysOn
+180788,1023020,Siphonoecetes smithianus,,preysOn
+180788,338141,Chydorus,,preysOn
+180788,1023034,Sabaco elongatus,,preysOn
+180788,,Melita,,preysOn
+180788,260712,Caprella penantis,,preysOn
+180788,,Pleopis polyphemoides,,preysOn
+180788,,Photis reinhardi,,preysOn
+180788,,Glycera dibranchiata,,preysOn
+180788,,Diaphanosoma leuchtenbergia,,preysOn
+180788,203478,Evadne,,preysOn
+180788,295411,Ampelisca verrilli,,preysOn
+180788,260807,Rudilemboides naglei,,preysOn
+180788,483862,Latona setifera,,preysOn
+180788,199325,Alitta succinea,Clam Worm,preysOn
+180788,168927,Sida crystallina,,preysOn
+180788,295414,Elasmopus levis,,preysOn
+180788,94070,Anchoa mitchilli,Bay Anchovy,preysOn
+180788,203397,Acartia tonsa,,preysOn
+180788,260656,Gammarus mucronatus,,preysOn
+180788,203468,Bosmina longirostris,Elephant Water Flea,preysOn
+180788,,Stenothoe minuta,,preysOn
+180788,1302968,Hyalella azteca,,preysOn
+180788,,Spiochaetopterus oculatus,,preysOn
+180788,,Lumbrineris fragilis,,preysOn
+180788,,Daphnia lumholtzi,,preysOn
+180788,64646,Jassa falcata,Mottled Tubemaker,preysOn
+180788,417657,Paraprionospio pinnata,,preysOn
+180788,179583,Gobiosoma bosc,Naked goby,preysOn
+180788,809396,Nereiphylla fragilis,,preysOn
+180788,681184,Paracaprella tenuis,,preysOn
+180788,,Eubosmina coregoni,,preysOn
+180788,,Glycinde solitaria,,preysOn
+180788,483834,Ceriodaphnia quadrangula,,preysOn
+180788,216631,Chaetopterus variopedatus,Fairy Tubeworm,preysOn
+180788,483859,Monospilus dispar,,preysOn
+180788,1110969,Lathonura rectirostris,,preysOn
+180788,379515,Autolytus,,preysOn
+180788,338433,Heteromastus filiformis,,preysOn
+180788,1023052,Scoloplos robustus,,preysOn
+180788,1023003,Pherusa affinis,,preysOn
+180788,954167,Gammarus daiberi,,preysOn
+180788,,Haploscoloplos fragilis,,preysOn
+180788,1023080,Sabellaria vulgaris,,preysOn
+180788,260810,Batea catharinensis,,preysOn
+180788,209052,Monocorophium insidiosum,,preysOn
+180788,338145,Diaphanosoma,,preysOn
+180788,248382,Lembos,,preysOn
+180788,1281933,Monoculodes,,preysOn
+180788,211518,Notomastus,,preysOn
+180788,626372,Daphnia retrocurva,,preysOn
+180788,194004,Pectinaria gouldii,Ice cream cone worm,preysOn
+180788,688301,Scapholeberis kingi,,preysOn
+180788,1023041,Nephtys incisa,,preysOn
+180788,1003858,Ilyocryptus spinifer,,preysOn
+180788,978274,Leptocheirus plumulosus,,preysOn
+180788,,Alona affinis,,preysOn
+180788,203781,Streblospio benedicti,,preysOn
+180788,1023058,Paranaitis speciosa,,preysOn
+180788,203765,Spio setosa,,preysOn
+180788,59807,Gammarus,,preysOn
+180788,,Eteone heteropoda,,preysOn
+180788,260498,Ampelisca vadorum,,preysOn
+180788,,Alonella,,preysOn
+180788,260502,Cymadusa compta,,preysOn
+180788,389387,Eumida sanguinea,,preysOn
+180788,1023441,Gammaropsis nitida,,preysOn
+180788,,Lepidactylus dytiscus,,preysOn
+180788,338150,Camptocercus rectirostris,,preysOn
+180788,69838,Cyanea capillata,Lion's Mane Jelly,preyedUponBy
+180788,48328,Aurelia aurita,Moon Jelly,preyedUponBy
+180788,339903,Beroe ovata,Brown Comb Jelly,preyedUponBy
+180788,349374,Rhopilema verrilli,Mushroom Jelly,preyedUponBy
+180788,48478,Chrysaora quinquecirrha,Atlantic Sea Nettle,preyedUponBy
+180788,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+180788,179604,Engyophrys senta,Spiny Flounder,preyedUponBy
+180788,96740,Caranx crysos,Blue Runner,preyedUponBy
+180788,481600,Cratena pilata,Striped Nudibranch,preyedUponBy
+180788,53744,Paralichthys dentatus,Summer Flounder,preyedUponBy
+180788,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy
+180788,618322,Patagonotothen ramsayi,Longtail southern cod,preyedUponBy
+180788,112295,Schroederichthys bivius,Narrowmouthed Catshark,preyedUponBy
+180788,179507,Peprilus triacanthus,Butterfish,preyedUponBy
+180788,,no name,,preyedUponBy

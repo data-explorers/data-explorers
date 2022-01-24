@@ -1,0 +1,114 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69838,51653,Sarsia,Small Planktonic Medusas,eats
+69838,129725,Appendicularia,Pelagic Tunicates,eats
+69838,48328,Aurelia aurita,Moon Jelly,eats
+69838,67333,Bacteria,bacteria,eats
+69838,67334,Cyanobacteria,cyanobacteria,eats
+69838,85493,Crustacea,Crustaceans,eats
+69838,47178,Actinopterygii,Ray-finned Fishes,eats
+69838,47628,Amphipoda,Amphipods,eats
+69838,47186,Decapoda,Decapods,eats
+69838,121643,Copepoda,Copepods,eats
+69838,85912,Mysidae,,eats
+69838,679265,Oikopleura dioica,,eats
+69838,,Triconia borealis,,eats
+69838,372502,Calanus finmarchicus,,eats
+69838,203495,Pseudocalanus,,eats
+69838,,Microcalanus,,eats
+69838,,Cephalaspidomorphi,,eats
+69838,,Oithona spinirostris,,eats
+69838,,Bero,,eats
+69838,492705,Bolinopsis infundibulum,Common Northern Comb Jelly,eats
+69838,195081,Acartia,,eats
+69838,256085,Aglantha digitale,,eats
+69838,975132,Eukrohnia hamata,,eats
+69838,777083,Fritillaria borealis,,eats
+69838,,Calanus hyperboreus,,eats
+69838,,Oithona similis,,eats
+69838,706438,Themisto libellula,,eats
+69838,,Sagitta,,eats
+69838,662286,Dimophyes arctica,,eats
+69838,,Khakista,,eats
+69838,,Prymnesiophyceae,,eats
+69838,,Pyrrophycophyta,,eats
+69838,,Gnathostomata,,eats
+69838,,Medusozoa,,eats
+69838,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+69838,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+69838,459615,Munida tenuimana,,eatenBy
+69838,,Orchomenella obtusa,,eatenBy
+69838,180788,Mnemiopsis leidyi,Common Comb Jelly,preysOn
+69838,126917,Rotifera,Rotifers,preysOn
+69838,48328,Aurelia aurita,Moon Jelly,preysOn
+69838,118996,Ciliophora,Ciliates,preysOn
+69838,59807,Gammarus,,preysOn
+69838,203478,Evadne,,preysOn
+69838,483862,Latona setifera,,preysOn
+69838,260656,Gammarus mucronatus,,preysOn
+69838,,Daphnia lumholtzi,,preysOn
+69838,94070,Anchoa mitchilli,Bay Anchovy,preysOn
+69838,1110969,Lathonura rectirostris,,preysOn
+69838,295411,Ampelisca verrilli,,preysOn
+69838,954167,Gammarus daiberi,,preysOn
+69838,260502,Cymadusa compta,,preysOn
+69838,472067,Penilia avirostris,,preysOn
+69838,1281933,Monoculodes,,preysOn
+69838,370753,Gammarus fasciatus,,preysOn
+69838,260807,Rudilemboides naglei,,preysOn
+69838,260844,Cerapus tubularis,Hermit Amphipod,preysOn
+69838,1110968,Podon intermedius,,preysOn
+69838,295414,Elasmopus levis,,preysOn
+69838,533824,Ceriodaphnia lacustris,,preysOn
+69838,203397,Acartia tonsa,,preysOn
+69838,1080182,Picripleuroxus striatus,,preysOn
+69838,483880,Alona costata,,preysOn
+69838,,Melita,,preysOn
+69838,1297371,Bosmina coregoni,baltic long-nosed waterflea,preysOn
+69838,209037,Ampithoe longimana,,preysOn
+69838,338141,Chydorus,,preysOn
+69838,1023441,Gammaropsis nitida,,preysOn
+69838,295885,Unciola irrorata,,preysOn
+69838,,Stenothoe minuta,,preysOn
+69838,483834,Ceriodaphnia quadrangula,,preysOn
+69838,626372,Daphnia retrocurva,,preysOn
+69838,,Lepidactylus dytiscus,,preysOn
+69838,,Daphnia pulex,,preysOn
+69838,1302968,Hyalella azteca,,preysOn
+69838,,Corophium tuberculatum,,preysOn
+69838,209052,Monocorophium insidiosum,,preysOn
+69838,978274,Leptocheirus plumulosus,,preysOn
+69838,260498,Ampelisca vadorum,,preysOn
+69838,,Diaphanosoma leuchtenbergia,,preysOn
+69838,372502,Calanus finmarchicus,,preysOn
+69838,1023020,Siphonoecetes smithianus,,preysOn
+69838,203468,Bosmina longirostris,Elephant Water Flea,preysOn
+69838,681184,Paracaprella tenuis,,preysOn
+69838,338145,Diaphanosoma,,preysOn
+69838,1110632,Apocorophium lacustre,,preysOn
+69838,168927,Sida crystallina,,preysOn
+69838,,Alonella,,preysOn
+69838,483859,Monospilus dispar,,preysOn
+69838,64646,Jassa falcata,Mottled Tubemaker,preysOn
+69838,179583,Gobiosoma bosc,Naked goby,preysOn
+69838,248382,Lembos,,preysOn
+69838,260810,Batea catharinensis,,preysOn
+69838,171609,Simocephalus,,preysOn
+69838,,Eubosmina coregoni,,preysOn
+69838,688301,Scapholeberis kingi,,preysOn
+69838,483871,Leydigia leydigi,,preysOn
+69838,1003858,Ilyocryptus spinifer,,preysOn
+69838,260712,Caprella penantis,,preysOn
+69838,1232815,Microprotopus raneyi,,preysOn
+69838,,Photis reinhardi,,preysOn
+69838,338150,Camptocercus rectirostris,,preysOn
+69838,,Pleusymtes glaber,,preysOn
+69838,1019939,Leptodora kindtii,,preysOn
+69838,,Alona affinis,,preysOn
+69838,567249,Echinogammarus stoerensis,,preysOn
+69838,,Pleopis polyphemoides,,preysOn
+69838,39677,Dermochelys coriacea,Leatherback Sea Turtle,preyedUponBy
+69838,481600,Cratena pilata,Striped Nudibranch,preyedUponBy
+69838,179563,Leiostomus xanthurus,Spot Croaker,preyedUponBy
+69838,51371,Pseudopleuronectes americanus,Winter Flounder,preyedUponBy
+69838,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+69838,96740,Caranx crysos,Blue Runner,preyedUponBy

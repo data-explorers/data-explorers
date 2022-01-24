@@ -1,0 +1,147 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48124,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+48124,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+48124,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+48124,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+48124,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+48124,12942,Sialia sialis,Eastern Bluebird,eatenBy
+48124,4940,Egretta thula,Snowy Egret,eatenBy
+48124,1959,Coccyzus,Coccyzus Cuckoos,eatenBy
+48124,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+48124,20044,Bubo virginianus,Great Horned Owl,eatenBy
+48124,1409,Callipepla californica,California Quail,eatenBy
+48124,17356,Vireo bellii,Bell's Vireo,eatenBy
+48124,17355,Vireo,Vireos,eatenBy
+48124,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48124,12727,Turdus migratorius,American Robin,eatenBy
+48124,14850,Sturnus vulgaris,European Starling,eatenBy
+48124,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+48124,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+48124,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+48124,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+48124,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+48124,13094,Erithacus rubecula,European Robin,eatenBy
+48124,179749,Phidippus regius,Regal Jumping Spider,eatenBy
+48124,,Amphispiza bilineata,,eatenBy
+48124,,Podarcis muralis,,eatenBy
+48124,,Tropidurus catalanensis,,eatenBy
+48124,8695,Pachyramphus major,Gray-collared Becard,eatenBy
+48124,52628,Araneus diadematus,Cross Orbweaver,eatenBy
+48124,2266,Coracias garrulus,European Roller,eatenBy
+48124,127777,Vespula vulgaris,Common European Yellowjacket,eatenBy
+48124,,Tityra semifasciata,,eatenBy
+48124,68492,Hemidactylus mabouia,Tropical House Gecko,eatenBy
+48124,,Molinaea,,eatenBy
+48124,,Pseudoscops grammicus,,eatenBy
+48124,,Caprimulgus vociferus,,eatenBy
+48124,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48124,4937,Egretta caerulea,Little Blue Heron,eatenBy
+48124,4938,Egretta tricolor,Tricolored Heron,eatenBy
+48124,16102,Contopus latirostris,Lesser Antillean Pewee,eatenBy
+48124,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy
+48124,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+48124,19975,Athene cunicularia,Burrowing Owl,eatenBy
+48124,1240,Dendragapus,Blue Grouse,eatenBy
+48124,17408,Vireo griseus,White-eyed Vireo,eatenBy
+48124,17394,Vireo gilvus,Warbling Vireo,eatenBy
+48124,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+48124,144479,Gallinula galeata,Common Gallinule,eatenBy
+48124,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+48124,,Dryobates albolarvatus,,eatenBy
+48124,,Picoides villosus,,eatenBy
+48124,77496,Ipomoea indica,oceanblue morning glory,pollinates
+48124,,Molinaea,,pollinates
+48124,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+48124,47208,Coleoptera,Beetles,preysOn
+48124,70144,Muscidae,House Flies and Allies,preysOn
+48124,52425,Chrysopidae,Green Lacewings,preysOn
+48124,61860,Calliphoridae,Blow Flies,preysOn
+48124,49567,Carabidae,Ground Beetles,preysOn
+48124,47992,Limoniidae,Limoniid Crane Flies,preysOn
+48124,70127,Stratiomyidae,Soldier Flies,preysOn
+48124,62164,Trichoptera,Caddisflies,preysOn
+48124,47951,Staphylinidae,Rove Beetles,preysOn
+48124,47158,Insecta,Insects,preysOn
+48124,47961,Cerambycidae,Longhorn Beetles,preysOn
+48124,47742,Pentatomidae,Stink Bugs,preysOn
+48124,52073,Fulgoroidea,Planthoppers,preysOn
+48124,60470,Rhagionidae,Snipe Flies,preysOn
+48124,53237,Cicadellidae,Typical Leafhoppers,preysOn
+48124,127593,Chloropidae,Frit Flies,preysOn
+48124,84670,Ephydridae,Shore Flies,preysOn
+48124,53275,Chironomidae,Non-biting Midges,preysOn
+48124,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+48124,52910,Sarcophagidae,Flesh Flies,preysOn
+48124,61267,Heteroptera,True Bugs,preysOn
+48124,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+48124,48091,Brachycera,Brachyceran Flies,preysOn
+48124,53248,Elateridae,Click Beetles,preysOn
+48124,52381,Aphididae,Aphids,preysOn
+48124,123608,Delphacidae,,preysOn
+48124,,Limnia paludicola,,preysOn
+48124,,Pipinculus sp,,preysOn
+48124,52447,Cicadella viridis,Green Leafhopper,preysOn
+48124,69803,Ceratopogonidae,Biting Midges,preysOn
+48124,,Ilione albiseta,,preysOn
+48124,174422,Hybotidae,Hybotid Dance Flies,preysOn
+48124,605071,Cicadina,,preysOn
+48124,1200309,Argyra vestita,,preysOn
+48124,,Sciaridae,,preysOn
+48124,1200333,Teuchophorus calcaratus,,preysOn
+48124,,Pherbina coryleti,,preysOn
+48124,,Neoascia,,preysOn
+48124,,Dolichopus nubilius,,preysOn
+48124,578473,Herina frondescentiae,,preysOn
+48124,52380,Aphidoidea,,preysOn
+48124,,Chrysotus cilipes,,preysOn
+48124,1281108,Ilione lineata,,preysOn
+48124,,Hercostomus assimilis,,preysOn
+48124,,Herina germinationis,,preysOn
+48124,,Herina parva,,preysOn
+48124,473534,Tetanocera ferruginea,,preysOn
+48124,,Sepedon spinipes,,preysOn
+48124,,Otitinae,,preysOn
+48124,,"Dolichopus nubilius Meigen, 1924",,preysOn
+48124,85362,Sphex ichneumoneus,Great Golden Digger Wasp,preyedUponBy
+48124,42069,Vulpes vulpes,Red Fox,preyedUponBy
+48124,30901,Vipera ursinii,Meadow Viper,preyedUponBy
+48124,28553,Symphimus mayae,Yucatán White-lipped Snake,preyedUponBy
+48124,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,preyedUponBy
+48124,,Sphex diabolicus,,preyedUponBy
+48124,,Trichonephila clavipes,,preyedUponBy
+48124,,Paraponera clavata,,preyedUponBy
+48124,,Coracina papuensis,,preyedUponBy
+48124,,Carterornis chrysomela,,preyedUponBy
+48124,,Cephalopterus ornatus,,preyedUponBy
+48124,,Amphispiza bilineata,,preyedUponBy
+48124,10719,Trichothraupis melanops,Black-goggled Tanager,preyedUponBy
+48124,,Chiromantes haematocheir,,preyedUponBy
+48124,,Platycnemis pennipes,,preyedUponBy
+48124,2266,Coracias garrulus,European Roller,preyedUponBy
+48124,,Colonus puerperus,,preyedUponBy
+48124,127777,Vespula vulgaris,Common European Yellowjacket,preyedUponBy
+48124,,Tityra semifasciata,,preyedUponBy
+48124,82118,Dolomedes,Fishing Spiders,preyedUponBy
+48124,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+48124,153861,Tibellus maritimus,,preyedUponBy
+48124,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+48124,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+48124,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+48124,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+48124,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+48124,,Dolomedes fimbriatus,,preyedUponBy
+48124,,Ensifera,,preyedUponBy
+48124,25474,Rana,Pond Frogs,preyedUponBy
+48124,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+48124,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy
+48124,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy
+48124,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+48124,41186,Nycteris grandis,Large Slit-faced Bat,preyedUponBy
+48124,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+48124,41070,Micronycteris hirsuta,hairy big-eared bat,preyedUponBy
+48124,1150085,Myotis myotis,,preyedUponBy
+48124,40449,Otonycteris hemprichii,Desert Long-eared Bat,preyedUponBy
+48124,851034,Doryrhina cyclops,Cyclops roundleaf bat,preyedUponBy
+48124,,Antrozous pallidus,,preyedUponBy
+48124,75073,Scotorepens balstoni,Western Broad-nosed Bat,preyedUponBy
+48124,40544,Chalinolobus gouldii,Gould's Wattled Bat,preyedUponBy

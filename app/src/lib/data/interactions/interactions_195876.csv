@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+195876,1,Animalia,Animals,eats
+195876,47115,Mollusca,Molluscs,eats
+195876,47584,Bivalvia,Bivalves,eats
+195876,47114,Gastropoda,Gastropods,eats
+195876,,small invertebrates,,eats
+195876,362743,Pecten novaezelandiae,New Zealand Scallop,preysOn

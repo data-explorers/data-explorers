@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41859,47186,Decapoda,Decapods,eats
+41859,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+41859,,nearshore fishes,,eats
+41859,206911,Tivela stultorum,Pismo Clam,eats
+41859,51790,Polinices,,eats
+41859,,prehistoric Aleut man,,eatenBy
+41859,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preysOn
+41859,47186,Decapoda,Decapods,preysOn
+41859,,nearshore fishes,,preysOn
+41859,,prehistoric Aleut man,,preyedUponBy
+41859,30448,Bungarus fasciatus,Banded Krait,preyedUponBy

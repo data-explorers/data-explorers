@@ -1,0 +1,67 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48343,106327,Myliobatis tenuicaudatus,New Zealand Eagle Ray,eatenBy
+48343,107180,Notolabrus celidotus,Spotty,eatenBy
+48343,541858,Eleginops maclovinus,Patagonian Blenny,eatenBy
+48343,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+48343,,Corvus caurinus,,eatenBy
+48343,410712,Cominella glandiformis,Mud Whelk,preysOn
+48343,48343,Hemigrapsus,,preysOn
+48343,353999,Cominella,,preysOn
+48343,50499,Glaucus,,preysOn
+48343,47126,Plantae,plants,preysOn
+48343,47584,Bivalvia,Bivalves,preysOn
+48343,368253,Paphies,,preysOn
+48343,203767,Spio,,preysOn
+48343,321987,Aglaophamus,,preysOn
+48343,,Perrierina turneri,,preysOn
+48343,,Leitoscoloplos,,preysOn
+48343,398893,Zeacumantus subcarinatus,Southern Creeper,preysOn
+48343,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preysOn
+48343,471051,Halicarcinus whitei,Estuarine Pillbox Crab,preysOn
+48343,,Paraonis,,preysOn
+48343,47492,Terebellidae,Spaghetti Worms,preysOn
+48343,194010,Pectinaria,,preysOn
+48343,339326,Armandia,,preysOn
+48343,,Prinospio sp. 1,,preysOn
+48343,391964,Macroclymenella stewartensis,,preysOn
+48343,949282,Decamastus,,preysOn
+48343,,Buccinulum pertinax,,preysOn
+48343,409698,Austrovenus stutchburyi,New Zealand Cockle,preysOn
+48343,377230,Neoguraleus,,preysOn
+48343,566304,Perinereis nuntia,,preysOn
+48343,368098,Perinereis,,preysOn
+48343,,Prinospio sp. 2,,preysOn
+48343,345489,Naineris,,preysOn
+48343,378445,Travisia,,preysOn
+48343,1178378,Nucula dunedinensis,,preysOn
+48343,416671,Hemiplax hirtipes,New  Zealand  sentinel  crab,preysOn
+48343,,Scoloplos johnstonei,,preysOn
+48343,380023,Boccardia syrtis,,preysOn
+48343,,Littorina antipodum,,preysOn
+48343,,Macrolymenella sp.,,preysOn
+48343,391942,Macomona liliana,Wedge Shell,preysOn
+48343,376960,Malacoceros,,preysOn
+48343,,Scoloplos cylindrifer,,preysOn
+48343,901278,Philophthalmus,,preysOn
+48343,375561,Aonides,,preysOn
+48343,117660,Notoacmea,,preysOn
+48343,,Diloma subrostrata,,preysOn
+48343,67313,Glycera,,preysOn
+48343,4837,Haematopus,Oystercatchers,preyedUponBy
+48343,4343,Larus,Large White-headed Gulls,preyedUponBy
+48343,410712,Cominella glandiformis,Mud Whelk,preyedUponBy
+48343,4950,Ardea,Great Herons,preyedUponBy
+48343,48343,Hemigrapsus,,preyedUponBy
+48343,353999,Cominella,,preyedUponBy
+48343,,Osteichthyes,,preyedUponBy
+48343,,Phalacrocorax melanoleucos,,preyedUponBy
+48343,,Buccinulum pertinax,,preyedUponBy
+48343,416671,Hemiplax hirtipes,New  Zealand  sentinel  crab,preyedUponBy
+48343,,Pisces,,preyedUponBy
+48343,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preyedUponBy
+48343,107180,Notolabrus celidotus,Spotty,preyedUponBy
+48343,4304,Phalacrocorax varius,Pied Cormorant,preyedUponBy
+48343,471051,Halicarcinus whitei,Estuarine Pillbox Crab,preyedUponBy
+48343,377230,Neoguraleus,,preyedUponBy
+48343,,Larus novaehollandiae,,preyedUponBy
+48343,7111,Histrionicus histrionicus,Harlequin Duck,preyedUponBy

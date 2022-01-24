@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+353999,,maritrema novae,,eats
+353999,,profilicollis novae,,eats
+353999,,Curtuteria,,eats
+353999,,hemigrapsus edw,,eats
+353999,376196,Diloma,,eats
+353999,,Gymnophallus,,eats
+353999,379627,Macrophthalmus,,eats
+353999,964469,Acuariidae,,eats
+353999,,hemigrapsus cre,,eats
+353999,379514,Austrovenus,,eats
+353999,,profilicollis anta,,eats
+353999,1256330,Levinseniella,,eats
+353999,417625,Ascarophis,,eats
+353999,67333,Bacteria,bacteria,eatenBy
+353999,,BBgull,,eatenBy
+353999,379627,Macrophthalmus,,eatenBy
+353999,4843,Haematopus ostralegus,Eurasian Oystercatcher,eatenBy
+353999,,Curtuteria,,eatenBy
+353999,,hemigrasus cre,,eatenBy
+353999,,hemigrapsus edw,,eatenBy
+353999,48343,Hemigrapsus,,preysOn
+353999,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preysOn
+353999,,Diloma subrostrata,,preysOn
+353999,409698,Austrovenus stutchburyi,New Zealand Cockle,preysOn
+353999,416671,Hemiplax hirtipes,New  Zealand  sentinel  crab,preysOn
+353999,4343,Larus,Large White-headed Gulls,preyedUponBy
+353999,4837,Haematopus,Oystercatchers,preyedUponBy
+353999,48343,Hemigrapsus,,preyedUponBy
+353999,67333,Bacteria,bacteria,preyedUponBy
+353999,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preyedUponBy
+353999,471051,Halicarcinus whitei,Estuarine Pillbox Crab,preyedUponBy
+353999,416671,Hemiplax hirtipes,New  Zealand  sentinel  crab,preyedUponBy
+353999,,Curtuteria,,preyedUponBy

@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+146950,78943,Salix lasiandra,Pacific Willow,eats
+146950,47570,Populus alba,white poplar,eats
+146950,,Populus tremula,,eats
+146950,,Populus alba x tremula = P. x canescens,,eats

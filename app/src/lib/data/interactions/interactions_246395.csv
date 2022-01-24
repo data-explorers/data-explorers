@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+246395,3793,Sula sula,Red-footed Booby,eatenBy
+246395,3797,Sula leucogaster,Brown Booby,eatenBy
+246395,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+246395,41525,Delphinus capensis,Long-beaked Common Dolphin,eatenBy
+246395,4535,Anous stolidus,Brown Noddy,eatenBy
+246395,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+246395,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+246395,115167,Xiphias gladius,Swordfish,eatenBy
+246395,41465,Kogia sima,Dwarf Sperm Whale,eatenBy
+246395,59796,Centroscymnus coelolepis,Portuguese Dogfish,eatenBy
+246395,136618,Istiophorus albicans,Atlantic Sailfish,eatenBy
+246395,47537,Makaira mazara,Indo-Pacific Blue Marlin,eatenBy
+246395,122916,Lampris guttatus,Opah,eatenBy
+246395,41423,Tasmacetus shepherdi,Shepherd's Beaked Whale,eatenBy
+246395,253671,Ommastrephes bartramii,Neon Flying Squid,eatenBy
+246395,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+246395,110361,Prionace glauca,Blue Shark,eatenBy
+246395,115167,Xiphias gladius,Swordfish,preyedUponBy

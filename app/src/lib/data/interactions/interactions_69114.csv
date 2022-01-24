@@ -1,0 +1,41 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69114,52792,Elymus,Wild Ryes and Wheatgrasses,eats
+69114,48972,Polygonum,knotweeds,eats
+69114,51694,Cryptantha,Annual Cryptanthas,eats
+69114,58127,Chenopodium album,Common Lambsquarters,eats
+69114,164440,Lathyrus ochroleucus,pale vetchling,eats
+69114,78618,Plantago patagonica,Woolly Plantain,eats
+69114,50615,Mirabilis,four o'clocks,eats
+69114,129000,Elymus canadensis,Canada wild rye,eats
+69114,52720,Dactylis glomerata,orchard grass,eats
+69114,47126,Plantae,plants,eats
+69114,166025,Oxytropis sericea,White Point-vetch,eats
+69114,145601,Fagopyrum esculentum,Common Buckwheat,eats
+69114,,Opuntia macrorhiza,,eats
+69114,166864,Picradeniopsis oppositifolia,Oppositeleaf False Bahia,eats
+69114,,Buchloe dactyloides,,eats
+69114,,no name,,eats
+69114,,Machaeranthera tanacetifolia,,eats
+69114,59111,Vulpia octoflora,Sixweeks Fescue,eats
+69114,,http://treatment.plazi.org/id/0794AA60AAF2A8896A87AAA60532F5F3,,eats
+69114,75563,Aristida purpurea,Purple Threeawn,eats
+69114,,Elymus elymoides,,eats
+69114,,Hesperostipa comata,,eats
+69114,163720,Heterotheca canescens,Hoary False Goldenaster,eats
+69114,,Eriogonum microthecum,,eats
+69114,,Musineon,,eats
+69114,,Schismus barbatus,,eats
+69114,,grass Schismus barbatus,,eats
+69114,12935,Sialia,Bluebirds,eatenBy
+69114,48894,Scorpiones,Scorpions,eatenBy
+69114,33177,Gekkonidae,Typical Geckos,eatenBy
+69114,47120,Arthropoda,Arthropods,eatenBy
+69114,16768,Tyrannus,Kingbirds,eatenBy
+69114,11867,Progne subis,Purple Martin,eatenBy
+69114,,Oreoscoptes montanus,,eatenBy
+69114,,Geococcyx velox,,eatenBy
+69114,,sage thrasher - robin,,eatenBy
+69114,,Road runner,,eatenBy
+69114,,Blue bird,,eatenBy
+69114,,uta - horned lizard - gecko,,eatenBy
+69114,47382,Latrodectus hesperus,Western Black Widow,preyedUponBy

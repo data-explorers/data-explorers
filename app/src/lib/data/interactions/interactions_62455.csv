@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62455,48596,Campanula,bellflowers,pollinates
+62455,60369,Pyrola,wintergreens,pollinates
+62455,49389,Stellaria,chickweeds,pollinates
+62455,486902,Narthecium asiaticum,,pollinates
+62455,78985,Saxifraga cespitosa,tufted saxifrage,pollinates
+62455,,Saxifraga oppositifolia,,pollinates
+62455,,Salix arctica,,pollinates
+62455,,Papaver radicatum,,pollinates
+62455,55434,Saxifraga,Saxifrages,pollinates
+62455,,Reynoutria japonica,,pollinates
+62455,168335,Salix glauca,Gray Willow,pollinates
+62455,,Epilobium latifolium,,pollinates
+62455,,Cerastium alpinum,,pollinates
+62455,,Saxifraga caespitosa,,pollinates
+62455,,Saxifraga nivalis,,pollinates
+62455,141262,Asphodelus aestivus,Summer Asphodel,pollinates
+62455,,Bistorta vivipara,,pollinates
+62455,,Dryas integrifolia,,pollinates
+62455,52381,Aphididae,Aphids,preysOn

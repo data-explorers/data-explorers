@@ -1,0 +1,144 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+76610,76610,Daucus carota,wild carrot,eats
+76610,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+76610,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+76610,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+76610,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+76610,61739,Agrotis,,eatenBy
+76610,84455,Agrotis segetum,Turnip Moth,eatenBy
+76610,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+76610,48662,Danaus plexippus,Monarch,eatenBy
+76610,133790,Chalybion californicum,Nearctic Blue Mud-dauber Wasp,eatenBy
+76610,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+76610,81959,Cerceris,Typical Weevil Wasps and Allies,eatenBy
+76610,62045,Lygaeus kalmii,Small Milkweed Bug,eatenBy
+76610,84640,Polistes dominula,European Paper Wasp,eatenBy
+76610,76610,Daucus carota,wild carrot,eatenBy
+76610,47219,Apis mellifera,Western Honey Bee,eatenBy
+76610,128824,Lucilia sericata,Common European Greenbottle Fly,eatenBy
+76610,58531,Colias philodice,Clouded Sulphur,eatenBy
+76610,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+76610,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,eatenBy
+76610,82527,Augochloropsis metallica,Metallic Epauletted-Sweat bee,eatenBy
+76610,52775,Bombus,Bumble Bees,eatenBy
+76610,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+76610,127747,Halictus rubicundus,Orange-legged Furrow Bee,eatenBy
+76610,52965,Sphaerophoria,Globetails,eatenBy
+76610,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+76610,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+76610,58586,Limenitis archippus,Viceroy,eatenBy
+76610,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+76610,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+76610,126545,Dialictus,Metallic Sweat Bees,eatenBy
+76610,82523,Augochlora pura,Pure Green-Sweat bee,eatenBy
+76610,58576,Phyciodes cocyta,Northern Crescent,eatenBy
+76610,61524,Forficula auricularia,European Earwig,eatenBy
+76610,216649,Chauliognathus pensylvanicus,Goldenrod Soldier Beetle,eatenBy
+76610,1409,Callipepla californica,California Quail,eatenBy
+76610,,Nysius vinitor,,eatenBy
+76610,,Hyadaphis foeniculi,,eatenBy
+76610,,Dysaphis,,eatenBy
+76610,330061,Balclutha incisa,,eatenBy
+76610,,Harpalus rufipes,,eatenBy
+76610,,Harpalus affinis,,eatenBy
+76610,,microbes,,eatenBy
+76610,,Ophonus azureus,,eatenBy
+76610,,Harpalus distinguendus,,eatenBy
+76610,130433,Amara aenea,Common Sun Beetle,eatenBy
+76610,,Anisodactylus binotatus,,eatenBy
+76610,,Amara sinuosa,,eatenBy
+76610,,Orthops basalis,,eatenBy
+76610,,Pachytomella arallela,,eatenBy
+76610,552756,Orius niger,,eatenBy
+76610,,Exomias trichopterus,,eatenBy
+76610,,Drymus ryei,,eatenBy
+76610,,Athous bicolor,,eatenBy
+76610,,Drymus sylvaticus,,eatenBy
+76610,,Exomias pellucidus,,eatenBy
+76610,,Diachromus germanus,,eatenBy
+76610,,Rhyparochromus vulgaris,,eatenBy
+76610,130452,Amara plebeja,,eatenBy
+76610,,Rhyparochromus pini,,eatenBy
+76610,,Helophorus nubilus,,eatenBy
+76610,,Sphragisticus nebulosus,,eatenBy
+76610,547575,Anthicus antherinus,,eatenBy
+76610,504708,Ophonus laticollis,,eatenBy
+76610,,Dolycoris baccarum,,eatenBy
+76610,,Carpocoris fuscispinus,,eatenBy
+76610,,Harpalus rubripes,,eatenBy
+76610,550416,Stygnocoris rusticus,,eatenBy
+76610,,Amara aulica,,eatenBy
+76610,,Hemicrepidius hirtus,,eatenBy
+76610,,Poecilus cupreus,,eatenBy
+76610,,Rgonycha fulva,,eatenBy
+76610,,Helophorus griseus,,eatenBy
+76610,,Agriotes sputator,,eatenBy
+76610,213121,Amara bifrons,,eatenBy
+76610,456218,Agriotes obscurus,,eatenBy
+76610,,Amara equestris,,eatenBy
+76610,523365,Harpalus griseus,,eatenBy
+76610,,Adrastus rachifer,,eatenBy
+76610,,Amara eurynota,,eatenBy
+76610,,Amara quenseli,,eatenBy
+76610,,Plagiognathus chrysanthemi,,eatenBy
+76610,,Trechus quadristriatus,,eatenBy
+76610,,Ophonus stictus,,eatenBy
+76610,,Holcostethus strictus,,eatenBy
+76610,,Amara ovata,,eatenBy
+76610,,Graphosoma lineatum,,eatenBy
+76610,,Papilio brevicauda,,eatenBy
+76610,,Papilio machaon,,eatenBy
+76610,,Papilio aegeus,,eatenBy
+76610,,Myzus persicae,,eatenBy
+76610,,Agrotis ipsilon,,eatenBy
+76610,,Adalia bipunctata,,eatenBy
+76610,,Hippodamia variegata,,eatenBy
+76610,,Xestia c-nigrum,,eatenBy
+76610,,Agrotis subterranea,,eatenBy
+76610,,Loxostege sticticalis,,eatenBy
+76610,,Hepialus lupulinus,,eatenBy
+76610,,Ctenicera aeripennis destructor,,eatenBy
+76610,,Maladera castanea,,eatenBy
+76610,,Psila hennigi,,eatenBy
+76610,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+76610,61858,Lucilia,Greenbottle Flies,pollinatedBy
+76610,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+76610,47822,Diptera,Flies,pollinatedBy
+76610,57678,Lasioglossum,,pollinatedBy
+76610,120156,Musca domestica,Housefly,pollinatedBy
+76610,57677,Halictus,Furrow Bees,pollinatedBy
+76610,47220,Apis,Honey Bees,pollinatedBy
+76610,177092,Meligethes,,pollinatedBy
+76610,,,,pollinatedBy
+76610,,Cheilosia impressa ,,pollinatedBy
+76610,518212,Eoseristalis,,pollinatedBy
+76610,177484,Leptura,,pollinatedBy
+76610,,Scathophaga stercoraria,,pollinatedBy
+76610,,Episyrphus balteatus,,pollinatedBy
+76610,52488,Syrphus ribesii,Common Flower Fly,pollinatedBy
+76610,,Melanostoma mellinum,,pollinatedBy
+76610,337019,Chrysotoxum bicinctum,,pollinatedBy
+76610,52964,Sphaerophoria scripta,Long Hover Fly,pollinatedBy
+76610,70405,Melanostoma scalare,Ladder-backed Hover Fly,pollinatedBy
+76610,,Meliscaeva auricollis ,,pollinatedBy
+76610,,Platycheirus clypeatus,,pollinatedBy
+76610,,Platycheirus scutatus,,pollinatedBy
+76610,,Syrphus,,pollinatedBy
+76610,,Episyrphus,,pollinatedBy
+76610,,Rhingia campestris,,pollinatedBy
+76610,,Metasyrphus corollae,,pollinatedBy
+76610,,Bombus lapidarius,,pollinatedBy
+76610,,Maniola jurtina,,pollinatedBy
+76610,,Xanthogramma pedissequum,,pollinatedBy
+76610,,Symphyta,,pollinatedBy
+76610,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy
+76610,472363,Eriothrix rufomaculata,Red Spotted Parasite Fly,pollinatedBy
+76610,,Undefined sp3 M_PL_018,,pollinatedBy
+76610,,Undefined sp20 M_PL_018,,pollinatedBy
+76610,497142,Bombus dahlbomii,Giant Bumble Bee,pollinatedBy
+76610,133704,Bombus ruderatus,Large Garden Bumble Bee,pollinatedBy
+76610,,http://treatment.plazi.org/id/CC77878CFF8A8B3D8585DEA7FAE0335C,,pollinatedBy
+76610,,Cantharis lateralis,,preyedUponBy
+76610,,Amara communis,,preyedUponBy
+76610,,Cantharis fusca,,preyedUponBy
+76610,62456,Rhagonycha fulva,Common Red Soldier Beetle,preyedUponBy

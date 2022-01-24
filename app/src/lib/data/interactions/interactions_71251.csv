@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+71251,53036,Ambrosia,ragweeds,eats
+71251,78217,Nicandra physalodes,apple-of-Peru,eats
+71251,,Detritus,,eats
+71251,17009,Sayornis saya,Say's Phoebe,eatenBy
+71251,36204,Sceloporus occidentalis,Western Fence Lizard,eatenBy
+71251,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+71251,16768,Tyrannus,Kingbirds,eatenBy
+71251,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+71251,12716,Turdus merula,Eurasian Blackbird,eatenBy
+71251,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+71251,,Rasahus hamatus,,eatenBy
+71251,5017,Bubulcus ibis,Cattle Egret,eatenBy
+71251,4937,Egretta caerulea,Little Blue Heron,eatenBy
+71251,17009,Sayornis saya,Say's Phoebe,preyedUponBy
+71251,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+71251,119073,Chlorion aerarium,Steel-blue Cricket-hunter Wasp,preyedUponBy
+71251,12024,Lanius ludovicianus,Loggerhead Shrike,preyedUponBy
+71251,227734,Phidippus apacheanus,Apache Jumping Spider,preyedUponBy
+71251,,Euthyrhynchus floridanus,,preyedUponBy
+71251,,Coluber constrictor,,preyedUponBy
+71251,,Lasiurus seminolus,,preyedUponBy

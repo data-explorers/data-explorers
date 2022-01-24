@@ -1,0 +1,58 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+45763,47126,Plantae,plants,eats
+45763,894745,Ondatra zibethicus zibethicus,Eastern Muskrat,eats
+45763,19893,Strix varia,Barred Owl,eatenBy
+45763,41777,Lontra canadensis,North American River Otter,eatenBy
+45763,42051,Canis latrans,Coyote,eatenBy
+45763,41663,Procyon lotor,Common Raccoon,eatenBy
+45763,20445,Tyto alba,Barn Owl,eatenBy
+45763,20044,Bubo virginianus,Great Horned Owl,eatenBy
+45763,1264432,Neogale vison,American Mink,eatenBy
+45763,42069,Vulpes vulpes,Red Fox,eatenBy
+45763,4956,Ardea herodias,Great Blue Heron,eatenBy
+45763,144455,Ardea alba,Great Egret,eatenBy
+45763,41976,Lynx rufus,Bobcat,eatenBy
+45763,42007,Puma concolor,Mountain Lion,eatenBy
+45763,8010,Corvus corax,Common Raven,eatenBy
+45763,4756,Cathartes aura,Turkey Vulture,eatenBy
+45763,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+45763,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+45763,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+45763,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+45763,,Mustela vison,,eatenBy
+45763,559064,Circus cyaneus,Hen Harrier,eatenBy
+45763,,Agkistrodon piscivorus,,eatenBy
+45763,26159,Alligator mississippiensis,American Alligator,eatenBy
+45763,41644,Ursus maritimus,Polar Bear,eatenBy
+45763,41641,Ursus arctos,Brown Bear,eatenBy
+45763,42048,Canis lupus,Gray Wolf,eatenBy
+45763,,Canis lupus rufus,,eatenBy
+45763,922459,Felis silvestris,European Wildcat,eatenBy
+45763,41979,Lynx lynx,Eurasian Lynx,eatenBy
+45763,41796,Martes martes,Eurasian Pine Marten,eatenBy
+45763,41800,Martes foina,Stone Marten,eatenBy
+45763,41798,Martes americana,American Marten,eatenBy
+45763,41795,Martes zibellina,Sable,eatenBy
+45763,,Neovison vison,,eatenBy
+45763,41812,Mustela putorius,Western Polecat,eatenBy
+45763,41805,Mustela lutreola,European Mink,eatenBy
+45763,,Martes pennanti,,eatenBy
+45763,41963,Panthera pardus,Leopard,eatenBy
+45763,20307,Asio otus,Long-eared Owl,eatenBy
+45763,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+45763,,Aquila chrysaetos,,eatenBy
+45763,20315,Asio flammeus,Short-eared Owl,eatenBy
+45763,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+45763,144594,Bubo scandiacus,Snowy Owl,eatenBy
+45763,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+45763,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+45763,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+45763,47178,Actinopterygii,Ray-finned Fishes,preysOn
+45763,47162,Poales,"grasses, sedges, cattails, and allies",preysOn
+45763,,Anodonta anatina,,preysOn
+45763,,Unio pictorum,,preysOn
+45763,49595,Pomoxis,Crappies,preysOn
+45763,29044,Pituophis catenifer,Gopher Snake,preyedUponBy
+45763,1264432,Neogale vison,American Mink,preyedUponBy
+45763,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+45763,19890,Strix nebulosa,Great Gray Owl,preyedUponBy

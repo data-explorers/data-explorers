@@ -1,0 +1,67 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+16779,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+16779,47822,Diptera,Flies,eats
+16779,61267,Heteroptera,True Bugs,eats
+16779,50186,Cicadidae,Typical Cicadas,eats
+16779,47208,Coleoptera,Beetles,eats
+16779,47124,Magnoliopsida,dicots,eats
+16779,47118,Araneae,Spiders,eats
+16779,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+16779,47157,Lepidoptera,Butterflies and Moths,eats
+16779,47742,Pentatomidae,Stink Bugs,eats
+16779,47158,Insecta,Insects,eats
+16779,85035,Neoscona,Spotted Orbweavers,eats
+16779,47222,Apoidea,Bees and Apoid Wasps,eats
+16779,48124,Tettigoniidae,Katydids,eats
+16779,48670,Noctuidae,Cutworm Moths and Allies,eats
+16779,47224,Papilionoidea,Butterflies,eats
+16779,68138,Sympetrum corruptum,Variegated Meadowhawk,eats
+16779,67731,Anax junius,Common Green Darner,eats
+16779,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eats
+16779,52158,Schistocerca nitens,Gray Bird Grasshopper,eats
+16779,179836,Cicindela trifasciata sigmoidea,Mudflat Tiger Beetle,eats
+16779,893824,Dielis tolteca,Toltec Scoliid Wasp,eats
+16779,,Psittacanthus,,eats
+16779,,Sabal,,eats
+16779,,Dendropanax arboreus,,eats
+16779,,Vitis biformis,,eats
+16779,,Bursera simaruba,,eats
+16779,284455,Tabernaemontana alba,,eats
+16779,,Guettarda elliptica,,eats
+16779,,Coccoloba barbadensis,,eats
+16779,,Karwinskia humboldtiana,,eats
+16779,,Celtis caudata,,eats
+16779,,Tabernaemontana litoralis,,eats
+16779,127936,Chiococca alba,West Indian milkberry,eats
+16779,,Eugenia acapulcensis,,eats
+16779,,Rourea glabra,,eats
+16779,,Tournefortia hirsutissima,,eats
+16779,,Nectandra coriacea,,eats
+16779,,Ficus lapathifolia,,eats
+16779,,Phoradendron quadrangulare,,eats
+16779,,Trophis racemosa,,eats
+16779,,Opuntia stricta,,eats
+16779,,Cupania dentata,,eats
+16779,,Malpighia glabra,,eats
+16779,,Bursera fagaroides,,eats
+16779,283078,Achatocarpus nigricans,,eats
+16779,316801,Randia laetevirens,,eats
+16779,,Brahea,,eats
+16779,,Sapranthus microcarpus,,eats
+16779,,Bromelia pinguin,,eats
+16779,,Brosimum alicastrum,,eats
+16779,,Psychotria lauracea,,eats
+16779,,Casearia arborea,,eats
+16779,49348,Hyles lineata,White-lined Sphinx,eats
+16779,,Ficus benjamina,,eats
+16779,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+16779,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+16779,16779,Tyrannus vociferans,Cassin's Kingbird,preysOn
+16779,630955,Anthophila,Bees,preysOn
+16779,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+16779,153887,Polistes aurifer,Golden Paper Wasp,preysOn
+16779,47927,Anisoptera,Dragonflies,preysOn
+16779,56832,Nymphalis antiopa,Mourning Cloak,preysOn
+16779,67737,Rhionaeschna multicolor,Blue-eyed Darner,preysOn
+16779,47119,Arachnida,Arachnids,preysOn
+16779,16779,Tyrannus vociferans,Cassin's Kingbird,preyedUponBy

@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48313,47120,Arthropoda,Arthropods,eats
+48313,119391,Amphiprion percula,Percula Anemonefish,eats
+48313,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+48313,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+48313,4453,Sterna sumatrana,Black-naped Tern,eatenBy
+48313,4535,Anous stolidus,Brown Noddy,eatenBy
+48313,144527,Onychoprion anaethetus,Bridled Tern,eatenBy
+48313,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+48313,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+48313,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+48313,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+48313,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+48313,,Chromis cyanea,,eatenBy
+48313,317104,Fistularia petimba,Rough Flutemouth,eatenBy
+48313,52399,Gymnothorax undulatus,Undulated Moray,eatenBy
+48313,113971,Thalassoma ballieui,Blacktail Wrasse,eatenBy
+48313,120963,Conger cinereus,Mustache Conger,eatenBy
+48313,196571,Saurida gracilis,Slender Lizardfish,eatenBy
+48313,123124,Synodus variegatus,Variegated Lizardfish,eatenBy
+48313,4436,Sterna dougallii,Roseate Tern,eatenBy
+48313,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+48313,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+48313,3788,Sula dactylatra,Masked Booby,eatenBy
+48313,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+48313,4566,Gygis alba,White Tern,eatenBy
+48313,4537,Anous minutus,Black Noddy,eatenBy
+48313,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+48313,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+48313,,Pseudolaticauda semifasciata,,preyedUponBy

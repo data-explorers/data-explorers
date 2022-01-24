@@ -1,0 +1,98 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48486,47566,Populus,"poplars, cottonwoods, and aspens",eats
+48486,54491,Corylus avellana,common hazel,eats
+48486,54841,Salix alba,white willow,eats
+48486,,Ebenus armitagei,,eats
+48486,765394,Sambucus nigra,European black elderberry,eats
+48486,155124,Cornus sanguinea,common dogwood,eats
+48486,51147,Crataegus monogyna,common hawthorn,eats
+48486,79461,Ulmus minor,Field Elm,eats
+48486,55811,Prunus spinosa,Blackthorn,eats
+48486,55847,Euonymus europaeus,Spindle,eats
+48486,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+48486,1409,Callipepla californica,California Quail,eatenBy
+48486,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+48486,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48486,17355,Vireo,Vireos,eatenBy
+48486,17356,Vireo bellii,Bell's Vireo,eatenBy
+48486,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+48486,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+48486,14850,Sturnus vulgaris,European Starling,eatenBy
+48486,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+48486,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+48486,11867,Progne subis,Purple Martin,eatenBy
+48486,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+48486,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+48486,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+48486,19660,Regulus,Kinglets,eatenBy
+48486,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+48486,145238,Setophaga petechia,Yellow Warbler,eatenBy
+48486,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+48486,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+48486,7562,Troglodytes aedon,House Wren,eatenBy
+48486,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+48486,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+48486,16598,Empidonax difficilis,Pacific-slope Flycatcher,eatenBy
+48486,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+48486,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+48486,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+48486,7266,Psaltriparus minimus,Bushtit,eatenBy
+48486,,Zelus longipes,,eatenBy
+48486,271316,Zelus cervicalis,,eatenBy
+48486,,Arma custos,,eatenBy
+48486,17408,Vireo griseus,White-eyed Vireo,eatenBy
+48486,,Veromessor pergandei,,eatenBy
+48486,,Laphria macquarti,,eatenBy
+48486,,Oreortyx pictus,,eatenBy
+48486,949,Lagopus muta,Rock Ptarmigan,eatenBy
+48486,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48486,145250,Setophaga adelaidae,Adelaide's Warbler,eatenBy
+48486,145233,Setophaga americana,Northern Parula,eatenBy
+48486,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+48486,16102,Contopus latirostris,Lesser Antillean Pewee,eatenBy
+48486,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+48486,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+48486,10199,Coereba flaveola,Bananaquit,eatenBy
+48486,16771,Tyrannus caudifasciatus,Loggerhead Kingbird,eatenBy
+48486,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy
+48486,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+48486,1240,Dendragapus,Blue Grouse,eatenBy
+48486,7603,Auriparus flaviceps,Verdin,eatenBy
+48486,,Vireo flavifrons,,eatenBy
+48486,17394,Vireo gilvus,Warbling Vireo,eatenBy
+48486,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+48486,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+48486,,Empidonax flaviventris,,eatenBy
+48486,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+48486,,Camptostoma imberbe,,eatenBy
+48486,,Picoides villosus,,eatenBy
+48486,,Dryobates albolarvatus,,eatenBy
+48486,,Sphyrapicus thyroideus,,eatenBy
+48486,,Empidonax oberholseri,,eatenBy
+48486,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+48486,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+48486,19577,Chordeiles minor,Common Nighthawk,eatenBy
+48486,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+48486,,Sitta pygmaea,,eatenBy
+48486,,Campylorhynchus brunneicapillus,,eatenBy
+48486,,Eucalyptus nitens,,pollinates
+48486,,Oxythyrea funesta,,pollinates
+48486,,Nototrichium sandwicense,,pollinates
+48486,,Lupinus nipomensis,,pollinates
+48486,71154,Aphis nerii,Oleander Aphid,preysOn
+48486,59774,Pachydiplax longipennis,Blue Dasher,preysOn
+48486,52381,Aphididae,Aphids,preysOn
+48486,320812,Gastrophysa viridula,Green Dock Beetle,preysOn
+48486,891704,Vireo olivaceus,Red-eyed Vireo,preyedUponBy
+48486,14801,Sitta carolinensis,White-breasted Nuthatch,preyedUponBy
+48486,48484,Harmonia axyridis,Asian Lady Beetle,preyedUponBy
+48486,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+48486,30293,Eirenis modestus,Ring-Headed Dwarf Snake,preyedUponBy
+48486,48957,Arilus cristatus,Wheel Bug,preyedUponBy
+48486,,Anatis mali,,preyedUponBy
+48486,346004,Dasysyrphus,,preyedUponBy
+48486,,Zosterops japonicus,,preyedUponBy
+48486,1255692,Enoplognatha ovata,Candy-striped Spider complex,preyedUponBy
+48486,,Laphria virginica,,preyedUponBy
+48486,,Euthyrhynchus floridanus,,preyedUponBy
+48486,40569,Nycticeius humeralis,Evening Bat,preyedUponBy

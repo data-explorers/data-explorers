@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83740,49470,Collembola,Springtails,eats
+83740,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+83740,,Salpinctes obsoletus,,eatenBy
+83740,765536,Chaerephon atsinanana,Madagascar Free-tailed Bat,preyedUponBy
+83740,40608,Murina leucogaster,greater tube-nosed bat,preyedUponBy
+83740,,Myotis goudoti,,preyedUponBy
+83740,74624,Miniopterus majori,Major's Long-fingered Bat,preyedUponBy
+83740,183170,Miniopterus manavi,Manavi Long-fingered Bat,preyedUponBy

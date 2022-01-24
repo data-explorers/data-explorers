@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7120,49995,Syrphidae,Hover Flies,eats
+7120,51122,Nymphaea,water-lilies,eats
+7120,84670,Ephydridae,Shore Flies,eats
+7120,70127,Stratiomyidae,Soldier Flies,eats
+7120,127444,Hydrophilidae,Water Scavenger Beetles,eats
+7120,,Avicennia germinans,,eats
+7120,48448,Zea mays,Maize,eats
+7120,,Eunectes notaeus,,preyedUponBy

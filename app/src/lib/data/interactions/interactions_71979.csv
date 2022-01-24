@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+71979,48662,Danaus plexippus,Monarch,eatenBy
+71979,126299,Danaus erippus,South American Monarch,eatenBy
+71979,,Arocatus rusticus,,eatenBy

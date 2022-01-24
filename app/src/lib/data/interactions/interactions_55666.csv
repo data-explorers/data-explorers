@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55666,55666,Veronica persica,bird's-eye speedwell,eats
+55666,47219,Apis mellifera,Western Honey Bee,eatenBy
+55666,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+55666,129893,Sphaerophoria sulphuripes,Forked Globetail,eatenBy
+55666,55666,Veronica persica,bird's-eye speedwell,eatenBy
+55666,,"Melitaea ambigua Ménétriès, 1859",,eatenBy
+55666,,Harpalus rufipes,,eatenBy
+55666,,Harpalus affinis,,eatenBy
+55666,,Columba palumbus,,eatenBy
+55666,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+55666,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+55666,57678,Lasioglossum,,pollinatedBy
+55666,51559,Bombylius,Greater Bee Flies,pollinatedBy
+55666,,Sphaerophoria macrogaster ,,pollinatedBy
+55666,,http://treatment.plazi.org/id/588934C5A3D81B78F71DEEB7F083B91E,,pollinatedBy
+55666,,Andrena,,pollinatedBy
+55666,,Meliscaeva auricollis ,,pollinatedBy

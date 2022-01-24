@@ -1,0 +1,167 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81606,1122848,Zostera noltei,dwarf eelgrass,eats
+81606,123803,Undaria,,eats
+81606,68770,Ascophyllum nodosum,Knotted Wrack,eats
+81606,54644,Ulva,sea lettuces,eats
+81606,48216,Fucus vesiculosus,bladder wrack,eats
+81606,68769,Ascophyllum,,eats
+81606,67555,Codium fragile,Dead Man's Fingers,eats
+81606,67423,Ulva lactuca,broadleaf sea lettuce,eats
+81606,123632,Corallina officinalis,Common Coralline,eats
+81606,48217,Fucus,vesicled rockweeds,eats
+81606,130197,Ulva intestinalis,Gutweed,eats
+81606,123880,Bacillariophyceae,Diatoms,eats
+81606,51428,Chaetomorpha,,eats
+81606,47126,Plantae,plants,eats
+81606,,Microphytobenthos,,eats
+81606,,Green macroalgae,,eats
+81606,,Detritus,,eats
+81606,,Carrion,,eats
+81606,,Algae,,eats
+81606,,Macroalgae,,eats
+81606,,Enteromorpha,,eats
+81606,,Enteromorpha intestinalis,,eats
+81606,52614,Zostera marina,Eelgrass,eats
+81606,,Khakista,,eats
+81606,,POM (detritus),,eats
+81606,182852,Sphacelaria cirrosa,,eats
+81606,874525,Stilophora tenella,,eats
+81606,942992,Vertebrata fruticulosa,,eats
+81606,1249071,Ulvella leptochaete,,eats
+81606,361840,Jania rubens,,eats
+81606,,Polysiphonia stricta,,eats
+81606,182820,Chaetomorpha linum,Sea Hair,eats
+81606,57772,Fucus serratus,Saw Wrack,eats
+81606,118821,Himanthalia elongata,Thongweed,eats
+81606,,Ulva compressa,,eats
+81606,182822,Cladophora sericea,Graceful green hair,eats
+81606,327563,Ulva clathrata,,eats
+81606,203723,Ceramium virgatum,,eats
+81606,182834,Ectocarpus siliculosus,,eats
+81606,57779,Asparagopsis armata,Harpoonweed,eats
+81606,,Osmundea ramosissima,,eats
+81606,51024,Dictyota dichotoma,Forked ribbons,eats
+81606,203745,Ceramium diaphanum,,eats
+81606,182985,Bonnemaisonia hamifera,Bonnemaison's Hook Weed,eats
+81606,857309,Cladophora dalmatica,,eats
+81606,343402,Codium vermilara,,eats
+81606,505597,Cladophora rupestris,,eats
+81606,,Feldmannia globifera,,eats
+81606,130176,Chondrus crispus,Irish moss,eats
+81606,372718,Cladophora albida,,eats
+81606,201435,Ulva linza,Green string lettuce,eats
+81606,183154,Rhodomela confervoides,,eats
+81606,130204,Mastocarpus stellatus,false Irish moss,eats
+81606,130231,Saccharina latissima,Sea Belt,eats
+81606,129737,Colpomenia peregrina,Oyster-thief,eats
+81606,543094,Lomentaria articulata,,eats
+81606,326759,Lithophyllum incrustans,,eats
+81606,701524,Furcellaria lumbricalis,,eats
+81606,504878,Ulvaria obscura,,eats
+81606,,Wildemania miniata,,eats
+81606,,Dictyosiphon foeniculaceus,,eats
+81606,465294,Ralfsia fungiformis,,eats
+81606,182991,Palmaria palmata,Dulse,eats
+81606,117816,Petalonia fascia,,eats
+81606,504856,Coilodesme bulligera,,eats
+81606,564930,Rhodomela lycopodioides,,eats
+81606,,Polysiphonia sp.,,eats
+81606,203719,Clathromorphum circumscriptum,,eats
+81606,,Ralfsia verrucosa,,eats
+81606,430355,Alaria esculenta,Dabberlocks,eats
+81606,182882,Chordaria flagelliformis,,eats
+81606,,Verrucaria rubra,,eats
+81606,,Devaleraea ramentacea,,eats
+81606,180604,Antithamnion,,eats
+81606,465247,Monostroma grevillei,,eats
+81606,,Phytoplankton,,eats
+81606,52523,Carcinus maenas,European Green Crab,eatenBy
+81606,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+81606,3894,Numenius,Curlews,eatenBy
+81606,3938,Arenaria interpres,Ruddy Turnstone,eatenBy
+81606,58648,Fundulus,Typical Killifishes,eatenBy
+81606,5019,Butorides,Green-backed Herons,eatenBy
+81606,48173,Pagurus,,eatenBy
+81606,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+81606,109631,Platichthys flesus,European Flounder,eatenBy
+81606,47523,Pleuronectes platessa,European Plaice,eatenBy
+81606,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+81606,51280,Nemertea,Ribbon Worms,eatenBy
+81606,118851,Crangon crangon,Brown Shrimp,eatenBy
+81606,337827,Hediste diversicolor,Estuary Ragworm,eatenBy
+81606,,Lumbrineris impatiens,,eatenBy
+81606,58399,Urosalpinx cinerea,Eastern Oyster Drill,eatenBy
+81606,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+81606,51790,Polinices,,eatenBy
+81606,8029,Corvus frugilegus,Rook,eatenBy
+81606,4356,Larus canus,Mew Gull,eatenBy
+81606,4843,Haematopus ostralegus,Eurasian Oystercatcher,eatenBy
+81606,4801,Charadrius hiaticula,Common Ringed Plover,eatenBy
+81606,7067,Tadorna tadorna,Common Shelduck,eatenBy
+81606,7024,Somateria mollissima,Common Eider,eatenBy
+81606,204533,Larus argentatus,Herring Gull,eatenBy
+81606,,Himasthla elongata,,eatenBy
+81606,,Cryptocotyle lingua,,eatenBy
+81606,,Podocotyle staffordi,,eatenBy
+81606,339207,Renicola,,eatenBy
+81606,,Cercariae lebouri,,eatenBy
+81606,63740,Gadus morhua,Atlantic Cod,eatenBy
+81606,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+81606,113528,Symphodus bailloni,Baillon's Wrasse,eatenBy
+81606,118704,Gobius niger,Black Goby,eatenBy
+81606,526549,Palaemon adspersus,Baltic prawn,eatenBy
+81606,98753,Ctenolabrus rupestris,Goldsinny Wrasse,eatenBy
+81606,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+81606,,Calidris maritima,,eatenBy
+81606,7047,Aythya marila,Greater Scaup,eatenBy
+81606,47126,Plantae,plants,preysOn
+81606,1122848,Zostera noltei,dwarf eelgrass,preysOn
+81606,,Notocotylus ephemera,,preysOn
+81606,,Paramonostomum chabaudi,,preysOn
+81606,,Protista,,preysOn
+81606,,Microphytobenthos,,preysOn
+81606,52614,Zostera marina,Eelgrass,preysOn
+81606,6930,Anas platyrhynchos,Mallard,preyedUponBy
+81606,3901,Numenius phaeopus,Whimbrel,preyedUponBy
+81606,52523,Carcinus maenas,European Green Crab,preyedUponBy
+81606,3938,Arenaria interpres,Ruddy Turnstone,preyedUponBy
+81606,467402,Ocenebra erinaceus,European Sting Winkle,preyedUponBy
+81606,49606,Balistes capriscus,Grey Triggerfish,preyedUponBy
+81606,204533,Larus argentatus,Herring Gull,preyedUponBy
+81606,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+81606,,Chroicocephalus ridibundus,,preyedUponBy
+81606,3857,Calidris alpina,Dunlin,preyedUponBy
+81606,3845,Calidris canutus,Red Knot,preyedUponBy
+81606,4356,Larus canus,Mew Gull,preyedUponBy
+81606,118851,Crangon crangon,Brown Shrimp,preyedUponBy
+81606,3896,Numenius arquata,Eurasian Curlew,preyedUponBy
+81606,7067,Tadorna tadorna,Common Shelduck,preyedUponBy
+81606,4843,Haematopus ostralegus,Eurasian Oystercatcher,preyedUponBy
+81606,4801,Charadrius hiaticula,Common Ringed Plover,preyedUponBy
+81606,3878,Tringa nebularia,Common Greenshank,preyedUponBy
+81606,7024,Somateria mollissima,Common Eider,preyedUponBy
+81606,4889,Pluvialis apricaria,European Golden Plover,preyedUponBy
+81606,113528,Symphodus bailloni,Baillon's Wrasse,preyedUponBy
+81606,118704,Gobius niger,Black Goby,preyedUponBy
+81606,109631,Platichthys flesus,European Flounder,preyedUponBy
+81606,8029,Corvus frugilegus,Rook,preyedUponBy
+81606,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+81606,,Asterina gibbosa,,preyedUponBy
+81606,118695,Trachurus trachurus,Atlantic Horse Mackerel,preyedUponBy
+81606,55396,Solea solea,Common Sole,preyedUponBy
+81606,125291,Molva molva,European Ling,preyedUponBy
+81606,152971,Alitta virens,King Ragworm,preyedUponBy
+81606,210219,Necora puber,Velvet Swimming Crab,preyedUponBy
+81606,118619,Mullus surmuletus,Striped Red Mullet,preyedUponBy
+81606,53607,Polynoidae,Scaleworms,preyedUponBy
+81606,204496,Corvus corone,Carrion Crow,preyedUponBy
+81606,471086,Liocarcinus corrugatus,Wrinkled Swimming Crab,preyedUponBy
+81606,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+81606,,Lepsiella albomarginata,,preyedUponBy
+81606,98753,Ctenolabrus rupestris,Goldsinny Wrasse,preyedUponBy
+81606,103913,Labrus mixtus,Cuckoo Wrasse,preyedUponBy
+81606,61387,Limanda limanda,Sand Dab,preyedUponBy
+81606,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+81606,113533,Symphodus melops,Corkwing Wrasse,preyedUponBy
+81606,53739,Cancer irroratus,Atlantic Rock Crab,preyedUponBy
+81606,152975,Pagurus bernhardus,Common Hermit Crab,preyedUponBy

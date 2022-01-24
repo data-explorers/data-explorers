@@ -1,0 +1,83 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51611,47219,Apis mellifera,Western Honey Bee,eatenBy
+51611,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+51611,48548,Vanessa cardui,Painted Lady,eatenBy
+51611,48662,Danaus plexippus,Monarch,eatenBy
+51611,55626,Pieris rapae,Cabbage White,eatenBy
+51611,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+51611,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+51611,52775,Bombus,Bumble Bees,eatenBy
+51611,740096,Fazia micrura,Diamond Spottail,eatenBy
+51611,1081332,Lon melane,Umber Skipper,eatenBy
+51611,49133,Vanessa atalanta,Red Admiral,eatenBy
+51611,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+51611,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+51611,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+51611,127812,Hylaeus,Masked Bees,eatenBy
+51611,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+51611,128845,Copestylum mexicanum,Mexican Cactus Fly,eatenBy
+51611,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+51611,309466,Aphis gossypii,Melon Aphid,eatenBy
+51611,252448,Caenohalictus,,eatenBy
+51611,145541,Eristalinus,Lagoon Flies,eatenBy
+51611,49995,Syrphidae,Hover Flies,eatenBy
+51611,58578,Euphydryas phaeton,Baltimore Checkerspot,eatenBy
+51611,197079,Junonia villida,Meadow Argus,eatenBy
+51611,393053,Myzus cerasi,Black Cherry Aphid,eatenBy
+51611,391720,Lindingaspis rossi,Ross' Black Scale,eatenBy
+51611,,Euphydryas aurinia,,eatenBy
+51611,,Euphydryas iduna,,eatenBy
+51611,,Euphydryas gillettii,,eatenBy
+51611,,Mellicta britomartis,,eatenBy
+51611,,Mellicta athalia,,eatenBy
+51611,,Euphydryas maturna,,eatenBy
+51611,,Melitaea didyma,,eatenBy
+51611,,Mellicta aurelia,,eatenBy
+51611,,Melitaea cinxia,,eatenBy
+51611,,Mellicta deione,,eatenBy
+51611,358916,Melitaea protomedia,,eatenBy
+51611,,Lewia scrophulariae,,eatenBy
+51611,,Nasonovia (Nasonovia) ribisnigri,,eatenBy
+51611,,Athalia circularis,,eatenBy
+51611,,Phytomyza crassiseta,,eatenBy
+51611,,Melitaea trivia,,eatenBy
+51611,,Parnassius simonius,,eatenBy
+51611,,Melitaea diamina,,eatenBy
+51611,,Vanessa kershawi,,eatenBy
+51611,,Autographa gamma,,eatenBy
+51611,55719,Eristalis tenax,Common Drone Fly,eatenBy
+51611,,Helophilus cingulatus,,eatenBy
+51611,,Hemideina thoracica,,eatenBy
+51611,57516,Bombus terrestris,Buff-tailed Bumble Bee,eatenBy
+51611,339919,Drymaplaneta semivitta,Gisborne Cockroach,eatenBy
+51611,,Helophilus antipodus,,eatenBy
+51611,,Vanessa gonerilla gonerilla,,eatenBy
+51611,,Polistes chinensis antennalis,,eatenBy
+51611,,Orthoprosopa bilineata,,eatenBy
+51611,,Barnardius zonarius semitorquatus,,eatenBy
+51611,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+51611,,Megachile rotundata,,eatenBy
+51611,,Plebeia emerina,,eatenBy
+51611,,Melangyna novaezelandiae,,eatenBy
+51611,,Bombus mixtus,,eatenBy
+51611,,Bombus caliginosus,,eatenBy
+51611,497332,Bombus hortulanus,Andean Gardener Bumble Bee,eatenBy
+51611,,Vanessa carye,,eatenBy
+51611,,Syrphus,,eatenBy
+51611,,Caenohalictus sabanaensis,,eatenBy
+51611,,Adela fibulella,,eatenBy
+51611,,Scopula ornata,,eatenBy
+51611,,Cucullia argentivitta,,eatenBy
+51611,776876,Agrochola nitida,,eatenBy
+51611,,Mellicta parthenoides,,eatenBy
+51611,,Hypodryas maturna,,eatenBy
+51611,,Stenoptilia pterodactyla,,eatenBy
+51611,,Orthotaenia undulana,,eatenBy
+51611,,Argyrotaenia franciscana,,eatenBy
+51611,,"Melitaea ambigua Ménétriès, 1859",,eatenBy
+51611,43997,Myocastor coypus,Coypu,eatenBy
+51611,49995,Syrphidae,Hover Flies,pollinatedBy
+51611,57678,Lasioglossum,,pollinatedBy
+51611,,Sphaerophoria macrogaster ,,pollinatedBy
+51611,,Ammophila sabulosa,,pollinatedBy
+51611,,Sphaerophoria philanthus,,pollinatedBy

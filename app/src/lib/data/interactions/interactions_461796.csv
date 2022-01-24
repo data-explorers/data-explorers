@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+461796,123632,Corallina officinalis,Common Coralline,eats
+461796,130197,Ulva intestinalis,Gutweed,eats
+461796,67423,Ulva lactuca,broadleaf sea lettuce,eats
+461796,130176,Chondrus crispus,Irish moss,eats
+461796,,Polysiphonia sp.,,eats
+461796,130231,Saccharina latissima,Sea Belt,eats
+461796,182991,Palmaria palmata,Dulse,eats
+461796,701524,Furcellaria lumbricalis,,eats
+461796,57772,Fucus serratus,Saw Wrack,eats
+461796,130204,Mastocarpus stellatus,false Irish moss,eats
+461796,,PhytoP,,eats
+461796,543094,Lomentaria articulata,,eats
+461796,201435,Ulva linza,Green string lettuce,eats
+461796,182834,Ectocarpus siliculosus,,eats
+461796,51024,Dictyota dichotoma,Forked ribbons,eats
+461796,54960,Nematoda,Nematodes,preysOn
+461796,,Zooplankton,,preysOn

@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+146953,53858,Solanum tuberosum,potato,eats
+146953,58389,Sorghum bicolor,Sorghum,eats
+146953,135442,Lophostemon,,eats
+146953,57057,Medicago sativa,Alfalfa,eats
+146953,57983,Helianthus annuus,Common Sunflower,eats
+146953,,Anacardium occidentale,,eats
+146953,,Rhizophora stylosa,,eats
+146953,,Oryza sativa,,eats
+146953,,Vigna radiata,,eats
+146953,,Citrullus lanatus,,eats
+146953,,Glycine max,,eats
+146953,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+146953,13732,Anthus rubescens,American Pipit,eatenBy

@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49389,321292,Myzus,,eatenBy
+49389,13858,Passer domesticus,House Sparrow,eatenBy
+49389,12727,Turdus migratorius,American Robin,eatenBy
+49389,3017,Columba livia,Rock Pigeon,eatenBy
+49389,,Neotoxoptera oliveri,,eatenBy
+49389,,Nathalis iole,,eatenBy
+49389,,Amauromyza flavifrons,,eatenBy
+49389,,Subcoccinella vigintiquattuorpunctata,,eatenBy
+49389,,Hypera (Hypera) arator,,eatenBy
+49389,,Spermophilus columbianus,,eatenBy
+49389,9227,Serinus,Eurasian Serins and Canaries,eatenBy
+49389,,Chen rossii,,eatenBy
+49389,,Acanthis flammea,,eatenBy
+49389,9743,Agelaius tricolor,Tricolored Blackbird,eatenBy
+49389,57678,Lasioglossum,,pollinatedBy
+49389,62455,Eupeodes,Aphideaters,pollinatedBy
+49389,62330,Peleteria,,pollinatedBy
+49389,62989,Aedes,,pollinatedBy
+49389,133493,Dolichopus,,pollinatedBy
+49389,,,,pollinatedBy
+49389,,Andrena,,pollinatedBy
+49389,,http://treatment.plazi.org/id/EA7A21229F7CB442A76F639C27068528,,pollinatedBy
+49389,,Ceratina flavipes ,,pollinatedBy
+49389,,Paragus tibialis ,,pollinatedBy
+49389,,Strombocerina koebelei ,,pollinatedBy
+49389,,Oedemeronia lucidicollis ,,pollinatedBy
+49389,,Sphecoid wasp ,,pollinatedBy
+49389,,Nomada shepparadana okubira ,,pollinatedBy
+49389,,Ceratina japonica ,,pollinatedBy
+49389,,Clossiana chariclea,,pollinatedBy
+49389,52964,Sphaerophoria scripta,Long Hover Fly,pollinatedBy
+49389,,Bombus polaris,,pollinatedBy
+49389,,Cryptus arcticus,,pollinatedBy

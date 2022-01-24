@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64150,51021,Dictyota,Y-branched Algae,eats
+64150,54644,Ulva,sea lettuces,eats
+64150,,Gracilaria truncata,,eats
+64150,828842,Chondria armata,,eats
+64150,416332,Splachnidium rugosum,Deadman's Fingers,eats
+64150,1007746,Liagora ceranoides,,eats
+64150,703743,Codium prostratum,,eats
+64150,503019,Hormophysa cuneiformis,,eats
+64150,50926,Caulerpa racemosa,Sea Grapes,eats
+64150,942428,Canistrocarpus cervicornis,,eats
+64150,,Jania intermedia,,eats
+64150,327063,Dichotomaria marginata,,eats
+64150,1266342,Valoniopsis pachynema,,eats
+64150,,Osmundaria melvillii,,eats
+64150,,Gelidium sp.,,eats
+64150,67676,Gracilaria salicornia,Gorilla ogo,eats
+64150,1131124,Sargassum aquifolium,,eats
+64150,706047,Laurencia flexuosa,,eats
+64150,768613,Polycladia myrica,,eats
+64150,322731,Sargassum polycystum,,eats
+64150,700614,Codium lucasii,,eats
+64150,706056,Laurencia pumila,,eats
+64150,706036,Caulerpa zeyheri,,eats
+64150,131381,Griffithsia,,eats
+64150,,Padina boryana,,eats
+64150,354676,Hydroclathrus clathratus,,eats
+64150,67675,Hypnea,,eats
+64150,326163,Halimeda tuna,Pennyweed,eats
+64150,201264,Bryopsis pennata,,eats
+64150,131319,Dictyosphaeria cavernosa,,eats
+64150,,Valonia macrophysa,,eats
+64150,,Chamaedoris delphinii,,eats
+64150,559953,Halimeda cuneata,Wedgeweed,eats
+64150,,Pneophyllum amplexifrons,,eats
+64150,1180401,Gracilaria corticata,,eats
+64150,,Plocamium sp.,,eats
+64150,356459,Chnoospora minima,,eats
+64150,706028,Pseudocodium devriesii,,eats
+64150,824521,Gelidiella acerosa,,eats
+64150,415041,Cladophora vagabunda,,eats
+64150,607747,Ceratodictyon,,eats
+64150,907001,Caulerpa denticulata,,eats
+64150,142076,Acrosorium,,eats
+64150,324537,Maja squinado,European Spider Crab,eatenBy
+64150,64150,Diodora,,preysOn
+64150,347738,Sycon,Hairy Tube Sponges,preysOn
+64150,117756,Hymeniacidon,,preysOn
+64150,247196,Chalinula,,preysOn
+64150,468415,Iotrochota purpurea,Iodine Finger Sponge,preysOn
+64150,634469,Tedania anhelans,Chili Pepper Sponge,preysOn
+64150,64150,Diodora,,preyedUponBy
+64150,632854,Bunodactis reynaudi,sandy anemone,preyedUponBy
+64150,525283,Mancinella alouina,The Pimpled Purpura,preyedUponBy

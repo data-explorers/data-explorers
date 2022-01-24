@@ -1,0 +1,209 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48824,47686,Protozoa,protozoans,eats
+48824,123880,Bacillariophyceae,Diatoms,eats
+48824,67333,Bacteria,bacteria,eats
+48824,,Phytoplankton,,eats
+48824,,Zooplankton,,eats
+48824,,seston,,eats
+48824,,Detritus,,eats
+48824,,plankton,,eats
+48824,,water column refractory detritus,,eats
+48824,,water column labile detritus,,eats
+48824,,PhytoP,,eats
+48824,,particulate detritus,,eats
+48824,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+48824,151838,Priapulida,Priapulid Worms,eatenBy
+48824,48147,Isopoda,Isopods,eatenBy
+48824,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eatenBy
+48824,47668,Asteroidea,Sea Stars,eatenBy
+48824,47114,Gastropoda,Gastropods,eatenBy
+48824,39657,Cheloniidae,Typical Sea Turtles,eatenBy
+48824,47186,Decapoda,Decapods,eatenBy
+48824,87467,Chromis,Chromis,eatenBy
+48824,47490,Polychaeta,Polychaete Worms,eatenBy
+48824,47825,Pycnogonida,Pycnogonids,eatenBy
+48824,121639,Brachyura,True Crabs,eatenBy
+48824,447552,Maja brachydactyla,Spiny Spider Crab,eatenBy
+48824,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,eatenBy
+48824,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+48824,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+48824,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+48824,508884,Diaulula sandiegensis,San Diego Dorid,eatenBy
+48824,103601,Jasus edwardsii,Southern Rock Lobster,eatenBy
+48824,54662,Mugil,Common Mullets,eatenBy
+48824,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+48824,132473,Lagodon rhomboides,Pinfish,eatenBy
+48824,83318,Arothron meleagris,Guineafowl Puffer,eatenBy
+48824,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+48824,48830,Patiria miniata,Bat Star,eatenBy
+48824,93611,Alburnus alburnus,Bleak,eatenBy
+48824,49514,Acanthopleura granulata,West Indian Fuzzy Chiton,eatenBy
+48824,55295,Grapsus grapsus,Sally Lightfoot Crab,eatenBy
+48824,,Pleuronectiformes,,eatenBy
+48824,67990,Scaphopoda,Tusk Shells,eatenBy
+48824,49692,Scaridae,Parrotfishes,eatenBy
+48824,56045,Limanda ferruginea,Yellowtail flounder,eatenBy
+48824,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+48824,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+48824,63742,Gadidae,Cods and Haddocks,eatenBy
+48824,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+48824,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+48824,618988,Hippoglossina oblonga,Fourspot Flounder,eatenBy
+48824,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+48824,194675,Lophius americanus,American Monkfish,eatenBy
+48824,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+48824,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+48824,61388,Scophthalmus aquosus,Windowpane Flounder,eatenBy
+48824,571229,Bathynomus giganteus,Giant Isopod,eatenBy
+48824,195286,Callinectes arcuatus,Arched Swimming Crab,eatenBy
+48824,,Echiniphimedia hodgsoni,,eatenBy
+48824,,Perknaster fuscus antarcticus,,eatenBy
+48824,1165720,Acodontaster hodgsoni,,eatenBy
+48824,1118648,Sterechinus neumayeri,Antarctic sea urchin,eatenBy
+48824,707797,Odontaster meridionalis,,eatenBy
+48824,1165723,Acodontaster conspicuus,,eatenBy
+48824,543493,Odontaster validus,Antarctic starfish,eatenBy
+48824,1127782,Diplasterias brucei,,eatenBy
+48824,808059,Doris kerguelenensis,,eatenBy
+48824,1171863,Ophiosparte gigas,,eatenBy
+48824,41751,Arctocephalus gazella,Antarctic Fur Seal,eatenBy
+48824,394773,Pentanymphon antarcticum,,eatenBy
+48824,,Trematomus bernacchii,,eatenBy
+48824,,Trematomus hansoni,,eatenBy
+48824,371729,Notothenia neglecta,Yellowbelly Rockcod,eatenBy
+48824,610068,Chionodraco hamatus,,eatenBy
+48824,,Kondakovia longimana,,eatenBy
+48824,533716,Labidiaster annulatus,,eatenBy
+48824,63740,Gadus morhua,Atlantic Cod,eatenBy
+48824,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+48824,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+48824,430553,Merlangius merlangus,Whiting,eatenBy
+48824,,other macrofauna,,eatenBy
+48824,,omnivore polychaetes,,eatenBy
+48824,,carnivore polychaetes,,eatenBy
+48824,612681,Dawkinsia singhala,,eatenBy
+48824,67409,Gobiesox maeandricus,Northern Clingfish,eatenBy
+48824,118657,Pagellus bogaraveo,Blackspot Seabream,eatenBy
+48824,118669,Diplodus sargus,White Bream,eatenBy
+48824,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+48824,103911,Labrus bergylta,Ballan Wrasse,eatenBy
+48824,108196,Pagrus pagrus,Red Porgy,eatenBy
+48824,179880,Chromis viridis,Blue-green Chromis,eatenBy
+48824,98945,Cyprinodon variegatus,Sheepshead Minnow,eatenBy
+48824,49753,Microspathodon chrysurus,Yellowtail Damselfish,eatenBy
+48824,180708,Stegastes leucostictus,Beaugregory,eatenBy
+48824,49304,Stegastes planifrons,Threespot Damselfish,eatenBy
+48824,49306,Stegastes,Gregories,eatenBy
+48824,1023724,Stegastes variabilis,Brazilian Cocoa Damselfish,eatenBy
+48824,49402,Abudefduf saxatilis,Atlantic Sergeant Major,eatenBy
+48824,49924,Stegastes fuscus,Dusky Damselfish,eatenBy
+48824,,Chromis multilineata,,eatenBy
+48824,57338,Abudefduf taurus,Night Sergeant,eatenBy
+48824,179598,Eucinostomus gula,Silver Jenny,eatenBy
+48824,49316,Chaetodipterus faber,Atlantic Spadefish,eatenBy
+48824,317382,Sphoeroides testudineus,Checkered Puffer,eatenBy
+48824,49632,Holacanthus bermudensis,Blue Angelfish,eatenBy
+48824,49750,Archosargus probatocephalus,Sheepshead,eatenBy
+48824,99544,Dorosoma cepedianum,American Gizzard Shad,eatenBy
+48824,120607,Nezumia aequalis,Common Atlantic Grenadier,eatenBy
+48824,616967,Bathygadus melanobranchus,,eatenBy
+48824,131450,Dibranchus atlanticus,Atlantic Batfish,eatenBy
+48824,459388,Halosaurus guentheri,Guenther's halosaur,eatenBy
+48824,459345,Dicrolene introniger,,eatenBy
+48824,106031,Monomitopus agassizii,,eatenBy
+48824,,water column refractory detritus,,preysOn
+48824,,water column labile detritus,,preysOn
+48824,424828,Felimida,,preyedUponBy
+48824,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+48824,48830,Patiria miniata,Bat Star,preyedUponBy
+48824,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preyedUponBy
+48824,47825,Pycnogonida,Pycnogonids,preyedUponBy
+48824,39657,Cheloniidae,Typical Sea Turtles,preyedUponBy
+48824,47114,Gastropoda,Gastropods,preyedUponBy
+48824,47490,Polychaeta,Polychaete Worms,preyedUponBy
+48824,121639,Brachyura,True Crabs,preyedUponBy
+48824,47668,Asteroidea,Sea Stars,preyedUponBy
+48824,48646,Fissurellidae,Keyhole Limpets,preyedUponBy
+48824,83718,Tanaidacea,Tanaids,preyedUponBy
+48824,210219,Necora puber,Velvet Swimming Crab,preyedUponBy
+48824,,Asterina gibbosa,,preyedUponBy
+48824,47629,Caprella,,preyedUponBy
+48824,1162949,Ctenocidaris perrieri,,preyedUponBy
+48824,,Peraeospinosus pushkini,,preyedUponBy
+48824,1194375,Epimeria similis,,preyedUponBy
+48824,,Aegires albus,,preyedUponBy
+48824,,Epimeria walkeri,,preyedUponBy
+48824,,Waldeckia obesa,,preyedUponBy
+48824,1162952,Homalocidaris gigantea,,preyedUponBy
+48824,1172008,Ophioplinthus gelida,,preyedUponBy
+48824,1175083,Nuttallochiton mirandus,,preyedUponBy
+48824,466011,Eurythenes gryllus,,preyedUponBy
+48824,,Heterophoxus videns,,preyedUponBy
+48824,394773,Pentanymphon antarcticum,,preyedUponBy
+48824,,Chorismus antarcticus,,preyedUponBy
+48824,,Liljeborgia georgiana,,preyedUponBy
+48824,1163407,Sterechinus antarcticus,,preyedUponBy
+48824,,Gnathiphimedia mandibularis,,preyedUponBy
+48824,1212941,Puncturella conica,,preyedUponBy
+48824,651712,Astrotoma agassizii,,preyedUponBy
+48824,,Echiniphimedia hodgsoni,,preyedUponBy
+48824,,Abyssorchomene rossi,,preyedUponBy
+48824,,Baseodiscus antarcticus,,preyedUponBy
+48824,1213043,Parmaphorella mawsoni,,preyedUponBy
+48824,,Melphidippa antarctica,,preyedUponBy
+48824,812772,Ammothea carolinensis,,preyedUponBy
+48824,813362,Nymphon hiemale,,preyedUponBy
+48824,,Epimeria macrodonta,,preyedUponBy
+48824,,Uristes gigas,,preyedUponBy
+48824,,Ctenocidaris gilberti,,preyedUponBy
+48824,376023,Colossendeis,,preyedUponBy
+48824,,Notocrangon antarcticus,,preyedUponBy
+48824,1171863,Ophiosparte gigas,,preyedUponBy
+48824,1119461,Ophionotus victoriae,Victoria Brittle Star,preyedUponBy
+48824,1171999,Ophioplinthus brevirima,,preyedUponBy
+48824,1162964,Notocidaris mortenseni,,preyedUponBy
+48824,,Perknaster fuscus antarcticus,,preyedUponBy
+48824,1162951,Ctenocidaris spinosa,,preyedUponBy
+48824,1118648,Sterechinus neumayeri,Antarctic sea urchin,preyedUponBy
+48824,707797,Odontaster meridionalis,,preyedUponBy
+48824,511410,Tritoniella belli,,preyedUponBy
+48824,,Heteronemertes longifissus,,preyedUponBy
+48824,804554,Prodoris clavigera,,preyedUponBy
+48824,371728,Notothenia coriiceps,Black Rockcod,preyedUponBy
+48824,1171939,Ophioperla koehleri,,preyedUponBy
+48824,543493,Odontaster validus,Antarctic starfish,preyedUponBy
+48824,,Ophioceres incipiens,,preyedUponBy
+48824,,Cypraea spadicea,,preyedUponBy
+48824,179833,Lytechinus anamesus,white sea urchin,preyedUponBy
+48824,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+48824,56649,Haliotis cracherodii,Black Abalone,preyedUponBy
+48824,53693,Hypsypops rubicundus,Garibaldi,preyedUponBy
+48824,95919,Bothus leopardinus,,preyedUponBy
+48824,55295,Grapsus grapsus,Sally Lightfoot Crab,preyedUponBy
+48824,49514,Acanthopleura granulata,West Indian Fuzzy Chiton,preyedUponBy
+48824,,Reef fishes,,preyedUponBy
+48824,47428,Neoloricata,Neoloricate Chitons,preyedUponBy
+48824,,Rhinesomus triqueter,,preyedUponBy
+48824,112166,Scarus taeniopterus,Princess Parrotfish,preyedUponBy
+48824,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,preyedUponBy
+48824,112135,Scarus coelestinus,Midnight Parrotfish,preyedUponBy
+48824,49953,Haemulon album,White Margate,preyedUponBy
+48824,49753,Microspathodon chrysurus,Yellowtail Damselfish,preyedUponBy
+48824,49257,Pomacanthus paru,French Angelfish,preyedUponBy
+48824,129656,Cantherhines macrocerus,Whitespotted Filefish,preyedUponBy
+48824,131530,Lutjanus synagris,Lane Snapper,preyedUponBy
+48824,112864,Sparisoma rubripinne,Yellowtail Parrotfish,preyedUponBy
+48824,112867,Sparisoma viride,Stoplight Parrotfish,preyedUponBy
+48824,112169,Scarus vetula,Queen Parrotfish,preyedUponBy
+48824,47235,Holacanthus ciliaris,Queen Angelfish,preyedUponBy
+48824,49498,Aluterus scriptus,Scrawled Filefish,preyedUponBy
+48824,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy
+48824,49275,Cantherhines pullus,Orangespotted Filefish,preyedUponBy
+48824,49615,Acanthostracion polygonius,Honeycomb Cowfish,preyedUponBy
+48824,,Acanthostracion quadricomis,,preyedUponBy
+48824,49495,Holacanthus tricolor,Rock Beauty,preyedUponBy
+48824,49427,Pomacanthus arcuatus,Grey Angelfish,preyedUponBy
+48824,,Stegastes variabillis,,preyedUponBy
+48824,482206,Diodora graeca,Common Keyhole Limpet,preyedUponBy
+48824,482308,Cerithiopsis tubercularis,Cerith Needle Whelk,preyedUponBy
+48824,62260,Triphora,Noddingcaps,preyedUponBy

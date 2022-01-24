@@ -1,0 +1,57 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48626,47219,Apis mellifera,Western Honey Bee,eatenBy
+48626,6317,Calypte anna,Anna's Hummingbird,eatenBy
+48626,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+48626,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+48626,127492,Megalographa biloba,Bilobed Looper Moth,eatenBy
+48626,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+48626,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+48626,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+48626,124420,Bombus californicus,California Bumble Bee,eatenBy
+48626,67760,Popillia japonica,Japanese Beetle,eatenBy
+48626,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+48626,126532,Toxomerus geminatus,Eastern Calligrapher,eatenBy
+48626,906,Meleagris gallopavo,Wild Turkey,eatenBy
+48626,3454,Zenaida macroura,Mourning Dove,eatenBy
+48626,,Altica copelandi,,eatenBy
+48626,,Tyloderma angustulum,,eatenBy
+48626,268758,Tyloderma pseudofoveolatum,,eatenBy
+48626,,Lysathia ludoviciana,,eatenBy
+48626,,Campylacantha olivacea,,eatenBy
+48626,,Aphis oenotherae,,eatenBy
+48626,,Phtheochroa oenotherana,,eatenBy
+48626,,Euproserpinus phaeton,,eatenBy
+48626,,Proserpinus juanita,,eatenBy
+48626,,Hyles gallii,,eatenBy
+48626,,Eudryas unio,,eatenBy
+48626,225201,Mompha circumscriptella,Circumscript Mompha,eatenBy
+48626,,Mompha stellella,,eatenBy
+48626,,Mompha brevivittella,,eatenBy
+48626,,Spargania magnoliata,,eatenBy
+48626,,Mompha eloisella,,eatenBy
+48626,,Grammia arge,,eatenBy
+48626,,Sphecodogastra,,eatenBy
+48626,49348,Hyles lineata,White-lined Sphinx,eatenBy
+48626,,Amphion floridensis,,eatenBy
+48626,,Bromius obscurus,,eatenBy
+48626,,Acontia trabealis,,eatenBy
+48626,133250,Tettigonia viridissima,Great Green Bush-cricket,eatenBy
+48626,,Carduelis carduelis,,eatenBy
+48626,,Plebeia emerina,,eatenBy
+48626,934230,Coelioxys octodentatus,Eight-toothed Cuckoo Leaf-cutter Bee,eatenBy
+48626,,Altica oleracea,,eatenBy
+48626,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,eatenBy
+48626,,Macrosiphum gaurae,,eatenBy
+48626,,Schinia gaurae,,eatenBy
+48626,,Leptotes cassius,,eatenBy
+48626,3545,Columbina passerina,Common Ground Dove,eatenBy
+48626,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+48626,2090,Ortalis vetula,Plain Chachalaca,eatenBy
+48626,49707,Halictidae,Sweat Bees,pollinatedBy
+48626,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+48626,51146,Chrysomelidae,Leaf Beetles,pollinatedBy
+48626,47220,Apis,Honey Bees,pollinatedBy
+48626,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+48626,,Lasioglossum oenotherae,,pollinatedBy
+48626,49348,Hyles lineata,White-lined Sphinx,pollinatedBy
+48626,,http://treatment.plazi.org/id/EFA2D9EE87F05E8EB207EC8EF0C3ACCB,,pollinatedBy

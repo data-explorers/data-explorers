@@ -1,0 +1,166 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54539,85493,Crustacea,Crustaceans,eats
+54539,48147,Isopoda,Isopods,eats
+54539,47158,Insecta,Insects,eats
+54539,1,Animalia,Animals,eats
+54539,47490,Polychaeta,Polychaete Worms,eats
+54539,121643,Copepoda,Copepods,eats
+54539,47628,Amphipoda,Amphipods,eats
+54539,47186,Decapoda,Decapods,eats
+54539,,,,eats
+54539,129185,Mysis,,eats
+54539,,Papamonidae,,eats
+54539,,Osteichthyes,,eats
+54539,,Gnathostomata,,eats
+54539,,Palaemonetes,,eats
+54539,47641,Scorpaena guttata,California Scorpionfish,eatenBy
+54539,4345,Larus occidentalis,Western Gull,eatenBy
+54539,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+54539,4940,Egretta thula,Snowy Egret,eatenBy
+54539,63740,Gadus morhua,Atlantic Cod,eatenBy
+54539,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+54539,228496,Pollachius virens,Pollock,eatenBy
+54539,,Psetta maxima,,eatenBy
+54539,,Trigla lucerna,,eatenBy
+54539,131491,Rachycentron canadum,Cobia,eatenBy
+54539,118671,Sparus aurata,Gilthead Seabream,eatenBy
+54539,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+54539,416585,Scophthalmus maximus,Turbot,eatenBy
+54539,54440,Synodus foetens,Inshore Lizardfish,eatenBy
+54539,52297,Triakis semifasciata,Leopard Shark,eatenBy
+54539,64481,Sebastes atrovirens,kelp rockfish,eatenBy
+54539,52539,Ophiodon elongatus,Lingcod,eatenBy
+54539,108561,Paralichthys californicus,California Halibut,eatenBy
+54539,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+54539,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+54539,103276,Ictalurus furcatus,Blue Catfish,eatenBy
+54539,49509,Lutjanus griseus,Grey Snapper,eatenBy
+54539,111752,Rhizoprionodon terraenovae,Atlantic Sharpnose Shark,eatenBy
+54539,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+54539,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+54539,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+54539,53583,Carcharhinus plumbeus,Sandbar Shark,eatenBy
+54539,118631,Scorpaena porcus,Black Scorpionfish,eatenBy
+54539,100119,Epinephelus marginatus,Dusky Grouper,eatenBy
+54539,82330,Caranx ruber,Bar Jack,eatenBy
+54539,124450,Pisonia,catchbirdtrees,eatenBy
+54539,,A. rectangula,,eatenBy
+54539,256223,Ascomorpha ecaudis,,eatenBy
+54539,244402,Euchlanis,,eatenBy
+54539,,D. catawba,,eatenBy
+54539,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+54539,4937,Egretta caerulea,Little Blue Heron,eatenBy
+54539,4938,Egretta tricolor,Tricolored Heron,eatenBy
+54539,47628,Amphipoda,Amphipods,preysOn
+54539,62807,Mytilus,Black Mussels,preysOn
+54539,53275,Chironomidae,Non-biting Midges,preysOn
+54539,81636,Mya,,preysOn
+54539,68764,Ostracoda,Seed Shrimp,preysOn
+54539,85521,Harpacticoida,Harpacticoid Copepods,preysOn
+54539,171484,Hippolyte,,preysOn
+54539,81634,Mya arenaria,Soft-shelled Clam,preysOn
+54539,203466,Idotea balthica,Baltic Isopod,preysOn
+54539,118832,Semibalanus balanoides,Northern Acorn Barnacle,preysOn
+54539,55025,Anomia,,preysOn
+54539,172020,Lolliguncula brevis,Atlantic brief squid,preysOn
+54539,125343,Crepidula fornicata,Common Atlantic Slippersnail,preysOn
+54539,48173,Pagurus,,preysOn
+54539,49504,Callinectes sapidus,Atlantic Blue Crab,preysOn
+54539,47182,Emerita talpoida,Atlantic Sand Crab,preysOn
+54539,117650,Mytilus edulis,Blue Mussel,preysOn
+54539,248332,Munida,,preysOn
+54539,52522,Ovalipes,,preysOn
+54539,48169,Pagurus longicarpus,Long-claw Hermit Crab,preysOn
+54539,55805,Squilla empusa,West Atlantic Mantis Shrimp,preysOn
+54539,48817,Crangon,,preysOn
+54539,71252,Macoma,,preysOn
+54539,,Fimbria,,preysOn
+54539,59807,Gammarus,,preysOn
+54539,210231,Cerastoderma,,preysOn
+54539,91235,Pomatoschistus,,preysOn
+54539,64637,Corophium,,preysOn
+54539,,Naushonia crangonoides,,preysOn
+54539,,Sphaeroma quadridentatum,,preysOn
+54539,295304,Callinectes similis,Lesser Blue Crab,preysOn
+54539,121386,Lysmata,,preysOn
+54539,260502,Cymadusa compta,,preysOn
+54539,,Photis reinhardi,,preysOn
+54539,81642,Crepidula convexa,Convex Slippersnail,preysOn
+54539,,Portunus gibbesii,,preysOn
+54539,1023036,Heteromysis formosa,,preysOn
+54539,193932,Nucula,,preysOn
+54539,295414,Elasmopus levis,,preysOn
+54539,,Haminoea solitaria,,preysOn
+54539,370753,Gammarus fasciatus,,preysOn
+54539,59360,Neverita duplicata,Shark Eye,preysOn
+54539,,Uca minax,,preysOn
+54539,,Chiridotea almyra,,preysOn
+54539,,Dyspanopeus sayi,,preysOn
+54539,,Ischadium recurvum,,preysOn
+54539,260810,Batea catharinensis,,preysOn
+54539,248398,Ogyrides,,preysOn
+54539,260712,Caprella penantis,,preysOn
+54539,260844,Cerapus tubularis,Hermit Amphipod,preysOn
+54539,260498,Ampelisca vadorum,,preysOn
+54539,53740,Libinia emarginata,Portly Spider Crab,preysOn
+54539,254191,Acteocina canaliculata,Channeled Barrel-bubble,preysOn
+54539,,Limulus polyphemus,,preysOn
+54539,,Pinnixa chaetopterana,,preysOn
+54539,,Petricola pholadiformis,,preysOn
+54539,209037,Ampithoe longimana,,preysOn
+54539,,Lepidactylus dytiscus,,preysOn
+54539,253748,Japonactaeon punctostriatus,,preysOn
+54539,260656,Gammarus mucronatus,,preysOn
+54539,248382,Lembos,,preysOn
+54539,248324,Processa,,preysOn
+54539,64646,Jassa falcata,Mottled Tubemaker,preysOn
+54539,146887,Illex illecebrosus,Northern Shortfin Squid,preysOn
+54539,,Palaemonetes vulgaris,,preysOn
+54539,295156,Acetes americanus,Aviu shrimp,preysOn
+54539,295411,Ampelisca verrilli,,preysOn
+54539,122039,Argopecten irradians,Atlantic Bay Scallop,preysOn
+54539,333839,Tumidotheres maculatus,Squatter Pea Crab,preysOn
+54539,,Crassostrea ariakensis,,preysOn
+54539,196232,Bankia gouldi,,preysOn
+54539,,Mitrella lunata,,preysOn
+54539,,Hermaea cruciata,,preysOn
+54539,83099,Crangon septemspinosa,Sand Shrimp,preysOn
+54539,,Tagelus plebius,,preysOn
+54539,81612,Rhithropanopeus harrisii,White-tipped Mud Crab,preysOn
+54539,255207,Ercolania fuscata,,preysOn
+54539,55169,Elysia chlorotica,Eastern Emerald Elysia,preysOn
+54539,260461,Sesarma reticulatum,Purple Marsh Crab,preysOn
+54539,,Macoma balthica,,preysOn
+54539,231421,Spisula solidissima,West Atlantic Surfclam,preysOn
+54539,85352,Chaetopleura apiculata,Eastern Beaded Chiton,preysOn
+54539,1232815,Microprotopus raneyi,,preysOn
+54539,,Ensis directus,,preysOn
+54539,116340,Dreissena polymorpha,Zebra Mussel,preysOn
+54539,47585,Crassostrea virginica,Eastern Oyster,preysOn
+54539,,Balanus subalbius,,preysOn
+54539,,Balanus improvisus,,preysOn
+54539,1302968,Hyalella azteca,,preysOn
+54539,368641,Trachypenaeus,,preysOn
+54539,224300,Macrobrachium ohione,Ohio river prawn,preysOn
+54539,81613,Rhithropanopeus,,preysOn
+54539,,Panopeus herbsti,,preysOn
+54539,203400,Cyathura polita,,preysOn
+54539,1022986,Corambe obscura,,preysOn
+54539,295492,Hexapanopeus angustifrons,Smooth Mud Crab,preysOn
+54539,,Melita,,preysOn
+54539,53739,Cancer irroratus,Atlantic Rock Crab,preysOn
+54539,260807,Rudilemboides naglei,,preysOn
+54539,,Portunus spinimanus,,preysOn
+54539,47641,Scorpaena guttata,California Scorpionfish,preyedUponBy
+54539,4342,Laridae,"Gulls, Terns, and Skimmers",preyedUponBy
+54539,4262,Phalacrocoracidae,Cormorants and Shags,preyedUponBy
+54539,41482,Tursiops truncatus,Common Bottlenose Dolphin,preyedUponBy
+54539,4345,Larus occidentalis,Western Gull,preyedUponBy
+54539,52539,Ophiodon elongatus,Lingcod,preyedUponBy
+54539,64481,Sebastes atrovirens,kelp rockfish,preyedUponBy
+54539,52297,Triakis semifasciata,Leopard Shark,preyedUponBy
+54539,108561,Paralichthys californicus,California Halibut,preyedUponBy
+54539,,Sternidae,,preyedUponBy
+54539,,Podicepidae/Gaviidae,,preyedUponBy
+54539,131491,Rachycentron canadum,Cobia,preyedUponBy
+54539,4208,Podiceps cristatus,Great Crested Grebe,preyedUponBy

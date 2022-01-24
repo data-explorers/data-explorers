@@ -1,0 +1,80 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52491,52821,Achillea millefolium,Common Yarrow,eats
+52491,632790,Asteroideae,,eats
+52491,53052,Foeniculum vulgare,fennel,eats
+52491,49649,Toxicoscordion fremontii,Common star lily,eats
+52491,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+52491,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+52491,114127,Thymallus thymallus,Grayling,eatenBy
+52491,545699,Mormyrus rume,Senegal mormyrid,eatenBy
+52491,59281,Thomisus onustus,Pink Crab Spider,eatenBy
+52491,3739,Threskiornis aethiopicus,African Sacred Ibis,eatenBy
+52491,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+52491,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+52491,47890,Balsaminaceae,balsam family,pollinates
+52491,85320,Monarda fistulosa,wild bergamot,pollinates
+52491,154473,Pycnanthemum virginianum,Virginia mountain mint,pollinates
+52491,167829,Rhus typhina,staghorn sumac,pollinates
+52491,167722,Ranunculus fascicularis,Early Buttercup,pollinates
+52491,56154,Saponaria officinalis,common soapwort,pollinates
+52491,49916,Sisyrinchium angustifolium,narrow-leaved blue-eyed grass,pollinates
+52491,53207,Senecio,groundsels,pollinates
+52491,58086,Sisymbrium orientale,eastern rocket,pollinates
+52491,50921,Muscari,Grape hyacinths,pollinates
+52491,53097,Hirschfeldia incana,Shortpod Mustard,pollinates
+52491,52821,Achillea millefolium,Common Yarrow,pollinates
+52491,56057,Leucanthemum vulgare,oxeye daisy,pollinates
+52491,47124,Magnoliopsida,dicots,pollinates
+52491,742759,Dodecatheon,shooting stars,pollinates
+52491,59316,Orchis,,pollinates
+52491,58188,Mentha arvensis,corn mint,pollinates
+52491,,Camassia,,pollinates
+52491,85313,Physostegia virginiana,obedient plant,pollinates
+52491,125462,Nothoscordum bivalve,crowpoison,pollinates
+52491,50333,Lantana camara,common lantana,pollinates
+52491,75766,Bidens laevis,larger bur-marigold,pollinates
+52491,168032,Rubus canadensis,Smooth Blackberry,pollinates
+52491,119809,Lonicera sempervirens,coral honeysuckle,pollinates
+52491,157238,Ellisia,,pollinates
+52491,,Arnoglossum reniforme,,pollinates
+52491,161274,Cuscuta glomerata,Rope Dodder,pollinates
+52491,85008,Lilium superbum,Turk's-cap lily,pollinates
+52491,82413,Scrophularia marilandica,late figwort,pollinates
+52491,,Mentha verticillata,,pollinates
+52491,333071,Persicaria thunbergii,,pollinates
+52491,,Polygonum sieboldii,,pollinates
+52491,131203,Succisa pratensis,Devil's-bit Scabious,pollinates
+52491,119450,Calluna vulgaris,common heather,pollinates
+52491,289792,Spilanthes urens,pigeoncoop,pollinates
+52491,,Spermacoce laevis,,pollinates
+52491,,Cordia globosa,,pollinates
+52491,290009,Bauhinia divaricata,Pom Pom Orchid Tree,pollinates
+52491,165389,Mikania micrantha,mile-a-minute,pollinates
+52491,471760,Tepualia stipularis,,pollinates
+52491,1196640,Anagallis,,pollinates
+52491,855444,Myrceugenia ovata,,pollinates
+52491,178226,Eucryphia cordifolia,Ulmo,pollinates
+52491,855459,Myrceugenia planipes,,pollinates
+52491,490877,Rhaphithamnus spinosus,Prickly myrtle,pollinates
+52491,410654,Amomyrtus luma,Luma,pollinates
+52491,77844,Luma apiculata,arrayan,pollinates
+52491,963795,Calea lucidivenia,,pollinates
+52491,78835,Rapistrum rugosum,annual bastard cabbage,pollinates
+52491,76365,Cistus salviifolius,Sage-leaved Rock-rose,pollinates
+52491,82836,Daphne gnidium,Flax-leaved Daphne,pollinates
+52491,55770,Crocus,Crocuses,pollinates
+52491,49149,Scilla,Squills,pollinates
+52491,155794,Tordylium apulum,Mediterranean Hartwort,pollinates
+52491,333734,Thymelaea hirsuta,Mitnan,pollinates
+52491,492875,Hypericum triquetrifolium,Pyramidal St John's-wort,pollinates
+52491,124357,Gagea,,pollinates
+52491,77965,Matricaria chamomilla,German Chamomile,pollinates
+52491,,Hypochoeris radicata,,pollinates
+52491,,Ranunculus acris,,pollinates
+52491,55819,Primula veris,Cowslip,pollinates
+52491,168041,Rubus deliciosus,Rocky Mountain raspberry,pollinates
+52491,,Prunus demissa,,pollinates
+52491,336871,Hymenoxys grandiflora,Alpine Sunflower,pollinates
+52491,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+52491,127777,Vespula vulgaris,Common European Yellowjacket,preyedUponBy
+52491,59281,Thomisus onustus,Pink Crab Spider,preyedUponBy

@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+145242,47158,Insecta,Insects,eats
+145242,47157,Lepidoptera,Butterflies and Moths,eats
+145242,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+145242,61267,Heteroptera,True Bugs,eats
+145242,47822,Diptera,Flies,eats
+145242,47208,Coleoptera,Beetles,eats
+145242,52381,Aphididae,Aphids,eats
+145242,47928,Zygoptera,Damselflies,eats
+145242,184884,Pterygota,Winged and Once-winged Insects,eats
+145242,47118,Araneae,Spiders,eats
+145242,50147,Celithemis eponina,Halloween Pennant,eats
+145242,48460,Life,,eats
+145242,47118,Araneae,Spiders,preysOn
+145242,47157,Lepidoptera,Butterflies and Moths,preysOn

@@ -1,0 +1,203 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41482,132473,Lagodon rhomboides,Pinfish,eats
+41482,47459,Cephalopoda,Cephalopods,eats
+41482,47178,Actinopterygii,Ray-finned Fishes,eats
+41482,85493,Crustacea,Crustaceans,eats
+41482,49441,Loliginidae,Pencil Squids,eats
+41482,172020,Lolliguncula brevis,Atlantic brief squid,eats
+41482,47457,Octopodidae,Typical Octopuses,eats
+41482,89855,Menticirrhus,Kingcroakers,eats
+41482,54662,Mugil,Common Mullets,eats
+41482,51911,Engraulidae,Anchovies,eats
+41482,49235,Clupeiformes,Herrings,eats
+41482,49172,Sciaenidae,Drums,eats
+41482,55805,Squilla empusa,West Atlantic Mantis Shrimp,eats
+41482,47158,Insecta,Insects,eats
+41482,85611,Atherinidae,Old World Silversides,eats
+41482,49263,Haemulidae,Grunts,eats
+41482,48073,Alismatales,"water-plantains, seagrass, and allies",eats
+41482,47124,Magnoliopsida,dicots,eats
+41482,47314,Anguilliformes,True Eels,eats
+41482,1,Animalia,Animals,eats
+41482,54661,Mugilidae,Mullets,eats
+41482,49267,Sphoeroides,,eats
+41482,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+41482,92583,Trachurus,Jack Mackerels,eats
+41482,119418,Sepia,Typical Cuttlefishes,eats
+41482,118594,Atherina presbyter,Sand Smelt,eats
+41482,99269,Dicentrarchus labrax,European Seabass,eats
+41482,47115,Mollusca,Molluscs,eats
+41482,151394,Sepia elegans,Elegant Cuttlefish,eats
+41482,432545,Todarodes sagittatus,European Flying Squid,eats
+41482,201542,Sepioteuthis australis,Southern Reef Squid,eats
+41482,47232,Carangidae,Jacks,eats
+41482,49238,Sparidae,Seabreams and Porgies,eats
+41482,47186,Decapoda,Decapods,eats
+41482,49504,Callinectes sapidus,Atlantic Blue Crab,eats
+41482,49796,Stomatopoda,Mantis Shrimps,eats
+41482,47273,Elasmobranchii,Elasmobranchs,eats
+41482,101420,Gerres cinereus,Yellowfin Mojarra,eats
+41482,179563,Leiostomus xanthurus,Spot Croaker,eats
+41482,51366,Brevoortia,Menhaden,eats
+41482,49431,Orthopristis chrysoptera,Pigfish,eats
+41482,51405,Elops saurus,Ladyfish,eats
+41482,106222,Mugil cephalus,Sea Mullet,eats
+41482,132471,Opsanus beta,Gulf Toadfish,eats
+41482,49513,Cynoscion,Weakfishes,eats
+41482,84530,Ophichthus gomesii,Shrimp eel,eats
+41482,49750,Archosargus probatocephalus,Sheepshead,eats
+41482,47230,Caranx hippos,Atlantic Crevalle Jack,eats
+41482,,Teleostei,,eats
+41482,,Pleuronectiformes,,eats
+41482,154501,Cynoscion nothus,Silver Seatrout,eats
+41482,69955,Ariidae,Sea Catfishes,eats
+41482,54440,Synodus foetens,Inshore Lizardfish,eats
+41482,51375,Opsanus,,eats
+41482,179512,Bairdiella chrysoura,Silver Perch,eats
+41482,179623,Cynoscion arenarius,Sand Seatrout,eats
+41482,49173,Larimus,,eats
+41482,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+41482,179456,Stellifer lanceolatus,American Stardrum,eats
+41482,57814,Pogonias cromis,Black Drum,eats
+41482,90915,Peprilus,,eats
+41482,82337,Loligo,,eats
+41482,146600,Micropogonias undulatus,Atlantic Croaker,eats
+41482,51042,Penaeidae,Penaeid Shrimps,eats
+41482,118599,Sardinella aurita,Round Sardinella,eats
+41482,179620,Cynoscion nebulosus,Spotted Seatrout,eats
+41482,,Laagodon rhomboides,,eats
+41482,128750,Sciaenops ocellatus,Red Drum,eats
+41482,83849,Urophycis,,eats
+41482,179482,Porichthys plectrodon,Atlantic Midshipman,eats
+41482,86453,Anchoa,,eats
+41482,51404,Trichiurus lepturus,Largehead Hairtail,eats
+41482,50984,Pomatomus saltatrix,Bluefish,eats
+41482,179544,Menticirrhus littoralis,Gulf Kingcroaker,eats
+41482,146888,Illex,Shortfin Squids,eats
+41482,49262,Haemulon sciurus,Bluestriped Grunt,eats
+41482,49264,Haemulon,,eats
+41482,49951,Haemulon plumierii,White Grunt,eats
+41482,179564,Larimus fasciatus,Banded Drum,eats
+41482,154500,Cynoscion regalis,Weakfish,eats
+41482,49316,Chaetodipterus faber,Atlantic Spadefish,eats
+41482,123659,Decapterus punctatus,Cigar Minnow,eats
+41482,51364,Brevoortia patronus,Gulf Menhaden,eats
+41482,,Lactophyrys trigonus,,eats
+41482,,Diapterus,,eats
+41482,49437,Centropomus undecimalis,Common Snook,eats
+41482,,Haemulon scriurus,,eats
+41482,49692,Scaridae,Parrotfishes,eats
+41482,,Ornithoteuthis antillarum,,eats
+41482,47231,Caranx,Kingfishes,eats
+41482,49433,Bodianus,Hogfishes,eats
+41482,55382,Acanthurus,,eats
+41482,,Xiphorsuran,,eats
+41482,,Codium cf. bursa DHO2-176,,eats
+41482,92330,Symphurus,,eats
+41482,49594,Pomoxis nigromaculatus,Black Crappie,eats
+41482,146829,Anchoa hepsetus,Striped Anchovy,eats
+41482,49249,Ophichthidae,Snake Eels,eats
+41482,179519,Opisthonema oglinum,Atlantic Thread Herring,eats
+41482,342910,Dendrobranchiata,Prawns,eats
+41482,50873,Carcharodon carcharias,Great White Shark,eatenBy
+41482,54539,Syngnathus,Pipe-fishes,preysOn
+41482,49591,Lepomis macrochirus,Bluegill,preysOn
+41482,49504,Callinectes sapidus,Atlantic Blue Crab,preysOn
+41482,47459,Cephalopoda,Cephalopods,preysOn
+41482,85910,Myctophidae,Lanternfishes,preysOn
+41482,153112,Euphausiacea,krill,preysOn
+41482,151394,Sepia elegans,Elegant Cuttlefish,preysOn
+41482,432545,Todarodes sagittatus,European Flying Squid,preysOn
+41482,201542,Sepioteuthis australis,Southern Reef Squid,preysOn
+41482,172020,Lolliguncula brevis,Atlantic brief squid,preysOn
+41482,432420,Galiteuthis glacialis,Glacial Cranch Squid,preysOn
+41482,,Onykia ingens,,preysOn
+41482,,Kondakovia longimana,,preysOn
+41482,432480,Mesonychoteuthis hamiltoni,Colossal Squid,preysOn
+41482,952605,Euphausia crystallorophias,,preysOn
+41482,1316623,Pleuragramma antarcticum,,preysOn
+41482,344134,Euphausia superba,Antarctic Krill,preysOn
+41482,,Notolepis coatsi,,preysOn
+41482,617819,Protomyctophum bolini,,preysOn
+41482,617788,Gymnoscopelus nicholsi,,preysOn
+41482,752813,Alluroteuthis antarcticus,Antarctic Neosquid,preysOn
+41482,617786,Gymnoscopelus braueri,,preysOn
+41482,610058,Champsocephalus gunnari,Mackerel icefish,preysOn
+41482,618295,Dissostichus mawsoni,Antarctic toothfish,preysOn
+41482,617789,Gymnoscopelus opisthopterus,,preysOn
+41482,392205,Martialia hyadesi,sevenstar flying squid,preysOn
+41482,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preysOn
+41482,,Thysanoessa macrura,,preysOn
+41482,952607,Euphausia frigida,,preysOn
+41482,389856,Gonatus antarcticus,Antarctic Gonate Squid,preysOn
+41482,216647,Chasmodes bosquianus,Striped Blenny,preysOn
+41482,,Palaemonetes intermedius,,preysOn
+41482,48400,Apeltes quadracus,Fourspine Stickleback,preysOn
+41482,57814,Pogonias cromis,Black Drum,preysOn
+41482,82385,Rhinoptera bonasus,Cownose Ray,preysOn
+41482,179563,Leiostomus xanthurus,Spot Croaker,preysOn
+41482,51392,Morone saxatilis,Striped Bass,preysOn
+41482,93187,Acipenser oxyrinchus,Atlantic Sturgeon,preysOn
+41482,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+41482,179554,Hyporhamphus meeki,American Halfbeak,preysOn
+41482,48564,Prionotus,,preysOn
+41482,58654,Ameiurus nebulosus,Brown Bullhead,preysOn
+41482,179583,Gobiosoma bosc,Naked goby,preysOn
+41482,58627,Perca flavescens,Yellow Perch,preysOn
+41482,128750,Sciaenops ocellatus,Red Drum,preysOn
+41482,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,preysOn
+41482,113308,Strongylura marina,Atlantic Needlefish,preysOn
+41482,49614,Lepomis gibbosus,Pumpkinseed,preysOn
+41482,58609,Lepisosteus osseus,Longnose Gar,preysOn
+41482,51372,Opsanus tau,Oyster Toadfish,preysOn
+41482,49596,Salvelinus fontinalis,Brook Trout,preysOn
+41482,58657,Ameiurus natalis,Yellow Bullhead,preysOn
+41482,179620,Cynoscion nebulosus,Spotted Seatrout,preysOn
+41482,131491,Rachycentron canadum,Cobia,preysOn
+41482,53583,Carcharhinus plumbeus,Sandbar Shark,preysOn
+41482,154500,Cynoscion regalis,Weakfish,preysOn
+41482,83439,Centropristis striata,Black Sea Bass,preysOn
+41482,81554,Ictalurus punctatus,Channel Catfish,preysOn
+41482,146600,Micropogonias undulatus,Atlantic Croaker,preysOn
+41482,56047,Trinectes maculatus,Hogchoker,preysOn
+41482,49219,Anguilla rostrata,American Eel,preysOn
+41482,52547,Tautoga onitis,Tautog,preysOn
+41482,49823,Acipenser brevirostrum,Shortnose Sturgeon,preysOn
+41482,103276,Ictalurus furcatus,Blue Catfish,preysOn
+41482,50984,Pomatomus saltatrix,Bluefish,preysOn
+41482,53744,Paralichthys dentatus,Summer Flounder,preysOn
+41482,179469,Selene vomer,Lookdown,preysOn
+41482,,Palaemonetes vulgaris,,preysOn
+41482,49237,Alosa,Anadromous Shads,preysOn
+41482,220509,Gobiosoma ginsburgi,Seaboard Goby,preysOn
+41482,,Palaemonetes pugio,,preysOn
+41482,94070,Anchoa mitchilli,Bay Anchovy,preysOn
+41482,51363,Brevoortia tyrannus,Atlantic Menhaden,preysOn
+41482,49243,Alosa sapidissima,American shad,preysOn
+41482,54540,Hippocampus erectus,Northern Seahorse,preysOn
+41482,84432,Morone americana,White Perch,preysOn
+41482,93844,Ameiurus catus,White Catfish,preysOn
+41482,179553,Hypsoblennius hentz,Feather Blenny,preysOn
+41482,154499,Scomberomorus cavalla,King Mackerel,preysOn
+41482,214509,Astroscopus guttatus,Northern Stargazer,preysOn
+41482,179586,Gobiesox strumosus,Skilletfish,preysOn
+41482,146796,Sphoeroides maculatus,Northern Puffer,preysOn
+41482,146828,Syngnathus fuscus,Northern Pipefish,preysOn
+41482,,Pisces,,preysOn
+41482,447428,Eledone cirrhosa,Curled Octopus,preysOn
+41482,253733,Pterygioteuthis giardi,Roundear Fire Squid,preysOn
+41482,82337,Loligo,,preysOn
+41482,253669,Illex coindetii,Southern Shortfin Squid,preysOn
+41482,324558,Loligo vulgaris,European Squid,preysOn
+41482,201529,Doryteuthis pleii,Slender Inshore Squid,preysOn
+41482,49315,Octopus vulgaris,Common Octopus,preysOn
+41482,,Lobatus gigas,,preysOn
+41482,,Solenocera membranacea,,preysOn
+41482,324556,Eledone moschata,Musky Octopus,preysOn
+41482,151350,Rondeletiola minor,Lentil Bobtail,preysOn
+41482,432546,Todaropsis eblanae,Lesser Flying Squid,preysOn
+41482,488975,Alpheus glaber,Red snapping shrimp,preysOn
+41482,700305,Alloteuthis subulata,European Common Squid,preysOn
+41482,699883,Octopus pallidus,Pale Octopus,preysOn
+41482,699529,Octopus australis,Hammer Octopus,preysOn
+41482,50873,Carcharodon carcharias,Great White Shark,preyedUponBy

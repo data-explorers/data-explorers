@@ -1,0 +1,88 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49129,,Detritus,,eats
+49129,,Phytoplankton,,eats
+49129,,Zooplankton,,eats
+49129,,plankton,,eats
+49129,,phytoplankton - suspended detritus,,eats
+49129,52524,Carcinus,Green Crabs,eatenBy
+49129,132473,Lagodon rhomboides,Pinfish,eatenBy
+49129,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+49129,67632,Acanthina,,eatenBy
+49129,,Cribrina,,eatenBy
+49129,,Leptasterias,,eatenBy
+49129,51391,Tautogolabrus,,eatenBy
+49129,193907,Thais,,eatenBy
+49129,210219,Necora puber,Velvet Swimming Crab,eatenBy
+49129,459670,Sclerocrangon,,eatenBy
+49129,47523,Pleuronectes platessa,European Plaice,eatenBy
+49129,123807,Paralithodes camtschaticus,Red King Crab,eatenBy
+49129,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+49129,88653,Gymnelus,,eatenBy
+49129,63740,Gadus morhua,Atlantic Cod,eatenBy
+49129,228496,Pollachius virens,Pollock,eatenBy
+49129,213519,Anarhichas lupus,Atlantic Wolffish,eatenBy
+49129,,Crossaster papposus,,eatenBy
+49129,61387,Limanda limanda,Sand Dab,eatenBy
+49129,204533,Larus argentatus,Herring Gull,eatenBy
+49129,120138,Asterias rubens,Common Sea Star,eatenBy
+49129,4368,Larus marinus,Great Black-backed Gull,eatenBy
+49129,48404,Gasterosteus,Threespine Sticklebacks,eatenBy
+49129,118692,Coryphoblennius galerita,Montagu's Blenny,eatenBy
+49129,108412,Parablennius zvonimiri,Zvonimir's blenny,eatenBy
+49129,107021,Nexilosus latifrons,Coquito Sergeant,eatenBy
+49129,186849,Hexagrammos stelleri,Whitespotted Greenling,eatenBy
+49129,117564,Clevelandia ios,Arrow Gobi,eatenBy
+49129,113535,Symphodus roissali,Five-spotted Wrasse,eatenBy
+49129,165100,Mallotus villosus,Capelin,eatenBy
+49129,117565,Hypomesus japonicus,,eatenBy
+49129,611779,Clupeonella engrauliformis,Anchovy Sprat,eatenBy
+49129,97995,Clupeonella cultriventris,Tyulka Sprat,eatenBy
+49129,82264,Chilomycterus schoepfii,Striped Burrfish,eatenBy
+49129,105567,Menidia beryllina,Inland Silverside,eatenBy
+49129,52464,Melichthys niger,Black Triggerfish,eatenBy
+49129,130054,Haemulon carbonarium,Caesar Grunt,eatenBy
+49129,129567,Opistognathus aurifrons,Yellowhead Jawfish,eatenBy
+49129,,Theragra chalcogramma,,eatenBy
+49129,94786,Atherina boyeri,Big-scale Sand Smelt,eatenBy
+49129,47639,Myoxocephalus scorpius,Shorthorn Sculpin,eatenBy
+49129,194678,Lateolabrax japonicus,Japanese Seabass,eatenBy
+49129,232945,Triglops murrayi,Moustache Sculpin,eatenBy
+49129,203490,Myoxocephalus aenaeus,Grubby,eatenBy
+49129,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eatenBy
+49129,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+49129,416585,Scophthalmus maximus,Turbot,eatenBy
+49129,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+49129,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+49129,47126,Plantae,plants,preysOn
+49129,339245,Himasthla,,preysOn
+49129,964699,Psilochasmus,,preysOn
+49129,,Phytoplankton,,preysOn
+49129,,Prokaryota,,preysOn
+49129,,Maritrema,,preysOn
+49129,,Microphallus,,preysOn
+49129,,Podocotyle,,preysOn
+49129,549790,Cryptocotyle,,preysOn
+49129,1142214,Cercaria,,preysOn
+49129,1256330,Levinseniella,,preysOn
+49129,,Epipellic Flora,,preysOn
+49129,,plankton,,preysOn
+49129,,Zooplankton,,preysOn
+49129,49699,Pisaster ochraceus,Ochre Sea Star,preyedUponBy
+49129,94130,Anisotremus davidsonii,Sargo,preyedUponBy
+49129,47827,Cancer,,preyedUponBy
+49129,52524,Carcinus,Green Crabs,preyedUponBy
+49129,53699,Semicossyphus pulcher,California sheephead,preyedUponBy
+49129,49539,Pisaster brevispinus,Giant Pink Sea Star,preyedUponBy
+49129,111616,Rhacochilus vacca,Pile surfperch,preyedUponBy
+49129,47669,Orthasterias koehleri,Rainbow Star,preyedUponBy
+49129,117555,Embiotoca lateralis,Striped surfperch,preyedUponBy
+49129,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+49129,48833,Pisaster giganteus,Giant Sea Star,preyedUponBy
+49129,117554,Embiotoca jacksoni,Black surfperch,preyedUponBy
+49129,48903,Asterias,,preyedUponBy
+49129,48817,Crangon,,preyedUponBy
+49129,193907,Thais,,preyedUponBy
+49129,51391,Tautogolabrus,,preyedUponBy
+49129,67632,Acanthina,,preyedUponBy
+49129,,Pisces,,preyedUponBy
+49129,,Cribrina,,preyedUponBy

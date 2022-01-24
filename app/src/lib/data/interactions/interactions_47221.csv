@@ -1,0 +1,76 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47221,47126,Plantae,plants,eats
+47221,,nectar,,eats
+47221,60335,Rhizophora mangle,red mangrove,eats
+47221,,Magnoliophyta,,eats
+47221,6544,Apodidae,Swifts,eatenBy
+47221,47219,Apis mellifera,Western Honey Bee,eatenBy
+47221,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47221,7294,Eremophila alpestris,Horned Lark,eatenBy
+47221,11867,Progne subis,Purple Martin,eatenBy
+47221,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+47221,208050,Apiomerus flaviventris,Yellow-bellied Bee Assassin,eatenBy
+47221,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+47221,557000,Dendrolycosa robusta,,eatenBy
+47221,609411,Brycon dentex,,eatenBy
+47221,52628,Araneus diadematus,Cross Orbweaver,eatenBy
+47221,50867,Argiope bruennichi,Wasp Spider,eatenBy
+47221,121782,Araneus quadratus,Four-spot Orbweaver,eatenBy
+47221,126513,Larinioides cornutus,Furrow Orbweaver,eatenBy
+47221,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+47221,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47221,,Spiza americana,,eatenBy
+47221,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+47221,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+47221,8469,Cyanocorax cyanopogon,White-naped Jay,eatenBy
+47221,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+47221,16771,Tyrannus caudifasciatus,Loggerhead Kingbird,eatenBy
+47221,16024,Myiarchus antillarum,Puerto Rican Flycatcher,eatenBy
+47221,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+47221,54996,Sida,,pollinates
+47221,51875,Trifolium pratense,red clover,pollinates
+47221,60251,Verbena hastata,blue vervain,pollinates
+47221,962610,Solanum lycopersicoides,,pollinates
+47221,622781,Solanum chilense,,pollinates
+47221,635198,Solanum peruvianum,Peruvian tomato,pollinates
+47221,803372,Physocarpus amurensis,Asian Ninebark,pollinates
+47221,59461,Malvastrum,,pollinates
+47221,,http://treatment.plazi.org/id/ECF8E70E3199AF20702540252CFD6CF7,,pollinates
+47221,164524,Lepidium papilliferum,Slickspot peppergrass,pollinates
+47221,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+47221,,Wyethia,,pollinates
+47221,893761,Agnorhiza reticulata,El Dorado County mule ears,pollinates
+47221,78663,Pogogyne nudiuscula,Otay mesa mint,pollinates
+47221,57863,Rhynchospora,Beaksedges,pollinates
+47221,359697,Paysonia,,pollinates
+47221,192996,Goetzea elegans,beautiful goetzea,pollinates
+47221,157030,Dicerandra,scrub balms,pollinates
+47221,158451,Apios priceana,Traveler's Delight,pollinates
+47221,898553,Dactylorhiza traunsteinerioides,Narrow-leaved Marsh-orchid,pollinates
+47221,82160,Epipactis atrorubens,Dark-red Helleborine,pollinates
+47221,,Beloperone aurea,,pollinates
+47221,169944,Tridax procumbens,Tridax daisy,pollinates
+47221,507238,Ipomoea blepharophylla,Fringe Glory,pollinates
+47221,36204,Sceloporus occidentalis,Western Fence Lizard,preyedUponBy
+47221,244407,Zelus renardii,Leafhopper Assassin Bug,preyedUponBy
+47221,205916,Peucetia longipalpis,Lesser Green Lynx Spider,preyedUponBy
+47221,121467,Uloborus,Feather-legged Spiders,preyedUponBy
+47221,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+47221,47550,Tetragnatha,,preyedUponBy
+47221,82081,Theridion,Tangleweb Spiders,preyedUponBy
+47221,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+47221,153595,Dictyna,,preyedUponBy
+47221,,Aculepeira ceropegia,,preyedUponBy
+47221,245656,Synema globosum,Napoleon Spider,preyedUponBy
+47221,297992,Nesticodes rufipes,Red House Spider,preyedUponBy
+47221,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy
+47221,154653,Philonicus albiceps,Dune Robber Fly,preyedUponBy
+47221,2191,Merops apiaster,European Bee-eater,preyedUponBy
+47221,263718,Argyrodes nephilae,,preyedUponBy
+47221,,Nephila clavipes,,preyedUponBy
+47221,,Dendroica,,preyedUponBy
+47221,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+47221,844909,Ariadna arthuri,,preyedUponBy
+47221,49880,Misumenops,,preyedUponBy
+47221,778499,Leucauge venusta,Orchard Orbweaver,preyedUponBy
+47221,41277,Eumops perotis,Western Bonneted Bat,preyedUponBy

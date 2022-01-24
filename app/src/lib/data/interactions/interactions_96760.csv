@@ -1,0 +1,80 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+96760,121639,Brachyura,True Crabs,eats
+96760,51549,Seriola dumerili,Greater Amberjack,eats
+96760,39657,Cheloniidae,Typical Sea Turtles,eats
+96760,47459,Cephalopoda,Cephalopods,eats
+96760,49520,Hermodice carunculata,Bearded Fireworm,eats
+96760,3,Aves,Birds,eats
+96760,47115,Mollusca,Molluscs,eats
+96760,342912,Caridea,Caridean Shrimps,eats
+96760,40151,Mammalia,Mammals,eats
+96760,47126,Plantae,plants,eats
+96760,85493,Crustacea,Crustaceans,eats
+96760,47232,Carangidae,Jacks,eats
+96760,56943,Katsuwonus pelamis,Skipjack Tuna,eats
+96760,56937,Oligoplites saurus,Leather Jack,eats
+96760,154499,Scomberomorus cavalla,King Mackerel,eats
+96760,47227,Caranx latus,Horse-eye Jack,eats
+96760,,Carangoides bartholomaei,,eats
+96760,47229,Selar crumenophthalmus,Bigeye Scad,eats
+96760,123659,Decapterus punctatus,Cigar Minnow,eats
+96760,49617,Scomberomorus regalis,Cero,eats
+96760,114269,Trachinotus goodei,Palometa,eats
+96760,,Detritus,,eats
+96760,82330,Caranx ruber,Bar Jack,eats
+96760,120614,Euthynnus alletteratus,Little Tunny,eats
+96760,179445,Trachinotus falcatus,Permit,eats
+96760,,Euthynnus aletteratus,,eats
+96760,,Selar crumenophthatmus,,eats
+96760,1225072,Acantholobulus bermudensis,Strongtooth Mud Crab,eats
+96760,,Cyclozodion angustum,,eats
+96760,128186,Gramma loreto,Royal Gramma,eats
+96760,,Chromis cyanea,,eats
+96760,,Phragmatopoma lapidosa,,eats
+96760,49432,Lachnolaimus maximus,Hogfish,eats
+96760,179896,Gramma melacara,Blackcap Basslet,eats
+96760,,Epialtus kingsleyi,,eats
+96760,549648,Calappa ocellata,Ocellated Box Crab,eats
+96760,295325,Panopeus occidentalis,Furrowed Mud Crab,eats
+96760,,Chromis multilineata,,eats
+96760,47299,Panulirus argus,Caribbean Spiny Lobster,eats
+96760,129567,Opistognathus aurifrons,Yellowhead Jawfish,eats
+96760,295271,Epialtus longirostris,,eats
+96760,49634,Carpilius corallinus,Batwing Coral Crab,eats
+96760,,,,eats
+96760,,Gnathostomata,,eats
+96760,,Tetrapoda,,eats
+96760,47271,Dasyatidae,Whiptail Stingrays,eats
+96760,,Chondrichthyes,,eats
+96760,,Decabrachia,,eats
+96760,,Osteichthyes,,eats
+96760,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eats
+96760,98531,Coryphaena hippurus,Common Dolphinfish,eats
+96760,55382,Acanthurus,,eats
+96760,194669,Muraenesox bagio,Common Pike-conger,eats
+96760,,Teuthida,,eats
+96760,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+96760,56764,Sphyrna lewini,Scalloped Hammerhead,eatenBy
+96760,49520,Hermodice carunculata,Bearded Fireworm,preysOn
+96760,39657,Cheloniidae,Typical Sea Turtles,preysOn
+96760,51549,Seriola dumerili,Greater Amberjack,preysOn
+96760,47459,Cephalopoda,Cephalopods,preysOn
+96760,121639,Brachyura,True Crabs,preysOn
+96760,,Epialtus kingsleyi,,preysOn
+96760,49432,Lachnolaimus maximus,Hogfish,preysOn
+96760,114269,Trachinotus goodei,Palometa,preysOn
+96760,49617,Scomberomorus regalis,Cero,preysOn
+96760,154499,Scomberomorus cavalla,King Mackerel,preysOn
+96760,,Chromis cyanea,,preysOn
+96760,49634,Carpilius corallinus,Batwing Coral Crab,preysOn
+96760,,Carangoides bartholomaei,,preysOn
+96760,82330,Caranx ruber,Bar Jack,preysOn
+96760,179445,Trachinotus falcatus,Permit,preysOn
+96760,120614,Euthynnus alletteratus,Little Tunny,preysOn
+96760,56937,Oligoplites saurus,Leather Jack,preysOn
+96760,49418,Carangoides,,preysOn
+96760,47229,Selar crumenophthalmus,Bigeye Scad,preysOn
+96760,49933,Parablennius marmoreus,Seaweed Blenny,preysOn
+96760,328459,Sthenoteuthis oualaniensis,Purpleback Squid,preysOn
+96760,52299,Galeocerdo cuvier,Tiger Shark,preyedUponBy
+96760,56764,Sphyrna lewini,Scalloped Hammerhead,preyedUponBy

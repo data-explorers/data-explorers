@@ -1,0 +1,58 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+231425,53858,Solanum tuberosum,potato,eats
+231425,54500,Malus,apples,eats
+231425,51737,Solanum lycopersicum,tomato,eats
+231425,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+231425,48514,Capsicum annuum,chili pepper,eats
+231425,60271,Asparagus,Asparagus,eats
+231425,50641,Solanum,nightshades,eats
+231425,60265,Asparagus officinalis,wild asparagus,eats
+231425,52326,Amaranthus,amaranths,eats
+231425,50636,Plantago,plantain,eats
+231425,56739,Ricinus communis,castor bean,eats
+231425,53270,Sonchus,sow thistles,eats
+231425,55410,Raphanus sativus,wild radish,eats
+231425,75604,Asparagus setaceus,Common Asparagus Fern,eats
+231425,58112,Atriplex,Saltbushes,eats
+231425,48972,Polygonum,knotweeds,eats
+231425,49370,Astragalus,milkvetches,eats
+231425,58991,Portulaca oleracea,Common Purslane,eats
+231425,58389,Sorghum bicolor,Sorghum,eats
+231425,,Taraxacum tenejapense,,eats
+231425,122976,Lactuca sativa,lettuce,eats
+231425,,Polygonum lapathifolium,,eats
+231425,54498,Beta vulgaris,Beet,eats
+231425,48448,Zea mays,Maize,eats
+231425,,Pisum sativum,,eats
+231425,,Phaseolus,,eats
+231425,48592,Allium cepa,Common Onion,eats
+231425,54919,Cucumis sativus,Cucumber,eats
+231425,63205,Arachis hypogaea,Peanut,eats
+231425,55506,Allium angulosum,Mouse Garlic,eats
+231425,,Cucumis melo,,eats
+231425,,Amaranthus spinosus,,eats
+231425,,Allium fistulosum,,eats
+231425,,Beta,,eats
+231425,,Saccharum officinarum,,eats
+231425,76541,Cucurbita pepo,American pumpkin,eats
+231425,,Zoysia,,eats
+231425,,Solanum etuberosum,,eats
+231425,,Solanum jacquinii,,eats
+231425,84092,Spinacia oleracea,Spinach,eats
+231425,57156,Avena sativa,Oat,eats
+231425,,Spinacia,,eats
+231425,,Allium,,eats
+231425,,Amaranthus retroflexus,,eats
+231425,,shatal,,eats
+231425,,Lathyrus sativus,,eats
+231425,72014,Boerhavia,,eats
+231425,739210,Allium ascalonicum,,eats
+231425,,Sesamum,,eats
+231425,,Sesbania bispinosa,,eats
+231425,125848,Quercus pyrenaica,Pyrenean Oak,eats
+231425,,Aster,,eats
+231425,,Salsola kali,,eats
+231425,,Campoletis perdistinctus,,eatenBy
+231425,82836,Daphne gnidium,Flax-leaved Daphne,pollinates
+231425,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+231425,57534,Miniopterus schreibersii,Schreibers' Long-fingered Bat,preyedUponBy

@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+34435,358855,Gryllidea,Crickets,eats
+34435,47793,Dermaptera,Earwigs,eats
+34435,8010,Corvus corax,Common Raven,eatenBy
+34435,42069,Vulpes vulpes,Red Fox,eatenBy
+34435,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+34435,118552,Felis catus,Domestic Cat,eatenBy
+34435,5017,Bubulcus ibis,Cattle Egret,eatenBy
+34435,19898,Strix aluco,Tawny Owl,eatenBy
+34435,13141,Monticola solitarius,Blue Rock-Thrush,eatenBy
+34435,891696,Pica pica,Eurasian Magpie,eatenBy
+34435,204496,Corvus corone,Carrion Crow,eatenBy
+34435,851014,Canis aureus,Golden Jackal,eatenBy
+34435,41961,Felis chaus,Jungle Cat,eatenBy
+34435,922459,Felis silvestris,European Wildcat,eatenBy
+34435,41900,Herpestes ichneumon,Ichneumon,eatenBy
+34435,26888,Coronella girondica,Southern Smooth Snake,eatenBy
+34435,,Platyceps collaris,,eatenBy
+34435,,Macroprotodon cucullatus,,eatenBy
+34435,,Hemorrhois ravergieri,,eatenBy
+34435,28451,Telescopus nigriceps,Black headed snake,eatenBy
+34435,,Acanthodactylus boskianus,,eatenBy
+34435,30924,Vipera latastei,Lataste's Viper,eatenBy
+34435,,Telescopus fallax,,eatenBy
+34435,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+34435,,Pantherophis alleghaniensis,,eatenBy
+34435,,Sphodromantis viridis,,eatenBy
+34435,,Argiope aurantia,,eatenBy
+34435,47821,Tabanidae,Horse and Deer Flies,preysOn
+34435,47158,Insecta,Insects,preysOn
+34435,47157,Lepidoptera,Butterflies and Moths,preysOn
+34435,,Grammodes stolida,,preysOn
+34435,61495,Erythemis simplicicollis,Eastern Pondhawk,preysOn
+34435,,Macroprotodon cucullatus,,preyedUponBy
+34435,26888,Coronella girondica,Southern Smooth Snake,preyedUponBy
+34435,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+34435,115723,Hypsiglena jani jani,San Luis Potosi Nightsnake,preyedUponBy
+34435,67598,Solenopsis invicta,Red Imported Fire Ant,preyedUponBy
+34435,,Argiope aurantia,,preyedUponBy
+34435,47867,Sparassidae,Huntsman Spiders,preyedUponBy

@@ -1,0 +1,134 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48645,1,Animalia,Animals,eats
+48645,68104,Bryozoa,Bryozoans,eats
+48645,124748,Macrocystis pyrifera,Giant Kelp,eats
+48645,67555,Codium fragile,Dead Man's Fingers,eats
+48645,128238,Laurencia,,eats
+48645,54644,Ulva,sea lettuces,eats
+48645,123632,Corallina officinalis,Common Coralline,eats
+48645,130177,Sargassum muticum,Japanese Wireweed,eats
+48645,117820,Prionitis lanceolata,,eats
+48645,243907,Cryptopleura,,eats
+48645,67419,Egregia menziesii,Feather Boa Kelp,eats
+48645,51021,Dictyota,Y-branched Algae,eats
+48645,129742,Colpomenia,Puff-ball Algae,eats
+48645,327042,Botryocladia pseudodichotoma,Sea Grapes,eats
+48645,799889,Perophora regina,,eats
+48645,,Phytoplankton,,eats
+48645,,Prymnesiophyceae,,eats
+48645,196023,Thalamoporella californica,,eats
+48645,,Bugula californica,,eats
+48645,195943,Crisia occidentalis,White Tuft Bryozoans,eats
+48645,81637,Bugula neritina,brown bryozoan,eats
+48645,,Macroalgae,,eats
+48645,345303,Nienburgia andersoniana,,eats
+48645,,Laurencia spectabilis,,eats
+48645,345158,Phycodrys setchellii,,eats
+48645,327100,Sarcodiotheca furcata,,eats
+48645,468298,Euherdmania claviformis,Tunic-Band Compound Tunicate,eats
+48645,,Stenogramme interrupta,,eats
+48645,,Pterosiphonia dendroidea,,eats
+48645,446885,Callophyllis flabellulata,red sea fan,eats
+48645,182932,Scytosiphon lomentaria,Beanweed,eats
+48645,,Gigartina corymbifera,,eats
+48645,125879,Eisenia arborea,Southern sea palm,eats
+48645,328371,Taonia,,eats
+48645,446888,Gelidium robustum,agarweed,eats
+48645,81879,Laminaria farlowii,oar weed,eats
+48645,,Acrosorium uncinatum,,eats
+48645,131212,Archidistoma,,eats
+48645,339014,Polyneura latissima,crisscross network,eats
+48645,339020,Cladophora graminea,,eats
+48645,339194,Polyclinum planum,Elephant Ear Tunicate,eats
+48645,337060,Neoptilota,,eats
+48645,482628,Dictyopteris undulata,,eats
+48645,133214,Rhodymenia californica,,eats
+48645,124146,Pterygophora californica,stalked kelp,eats
+48645,424274,Pycnoclavella stanleyi,Yellow Social Ascidian,eats
+48645,,Iridaea vincent,,eats
+48645,67679,Gracilaria,,eats
+48645,,Styela montereyensis,,eats
+48645,359801,Rhodymenia pacifica,,eats
+48645,,Weeksia,,eats
+48645,,Cystoseira osmundacea,,eats
+48645,485339,Chondracanthus spinosus,,eats
+48645,345276,Bossiella orbigniana,,eats
+48645,341793,Scinaia confusa,,eats
+48645,,Urochordata,,eats
+48645,,Botryoglossum farlowianum,,eats
+48645,55512,Didemnum,Wrinkled Sea Mats,eats
+48645,1024242,Neoagardhiella baileyi,,eats
+48645,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+48645,47458,Octopoda,Octopuses,eatenBy
+48645,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+48645,53699,Semicossyphus pulcher,California sheephead,eatenBy
+48645,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,eatenBy
+48645,64481,Sebastes atrovirens,kelp rockfish,eatenBy
+48645,64455,Sebastes carnatus,Gopher Rockfish,eatenBy
+48645,52552,Oxyjulis californica,senorita,eatenBy
+48645,125663,Kelletia kelletii,Kellet's Whelk,eatenBy
+48645,123632,Corallina officinalis,Common Coralline,preysOn
+48645,327042,Botryocladia pseudodichotoma,Sea Grapes,preysOn
+48645,243907,Cryptopleura,,preysOn
+48645,54644,Ulva,sea lettuces,preysOn
+48645,129742,Colpomenia,Puff-ball Algae,preysOn
+48645,117820,Prionitis lanceolata,,preysOn
+48645,130177,Sargassum muticum,Japanese Wireweed,preysOn
+48645,67419,Egregia menziesii,Feather Boa Kelp,preysOn
+48645,128238,Laurencia,,preysOn
+48645,124748,Macrocystis pyrifera,Giant Kelp,preysOn
+48645,68104,Bryozoa,Bryozoans,preysOn
+48645,51021,Dictyota,Y-branched Algae,preysOn
+48645,67555,Codium fragile,Dead Man's Fingers,preysOn
+48645,,Urochordata,,preysOn
+48645,,Cystoseira osmundacea,,preysOn
+48645,424274,Pycnoclavella stanleyi,Yellow Social Ascidian,preysOn
+48645,,Macroalgae,,preysOn
+48645,359801,Rhodymenia pacifica,,preysOn
+48645,327100,Sarcodiotheca furcata,,preysOn
+48645,337060,Neoptilota,,preysOn
+48645,81879,Laminaria farlowii,oar weed,preysOn
+48645,81637,Bugula neritina,brown bryozoan,preysOn
+48645,446888,Gelidium robustum,agarweed,preysOn
+48645,341793,Scinaia confusa,,preysOn
+48645,542461,Rhodoptilum,,preysOn
+48645,468298,Euherdmania claviformis,Tunic-Band Compound Tunicate,preysOn
+48645,,Botryoglossum farlowianum,,preysOn
+48645,345276,Bossiella orbigniana,,preysOn
+48645,133214,Rhodymenia californica,,preysOn
+48645,124146,Pterygophora californica,stalked kelp,preysOn
+48645,485339,Chondracanthus spinosus,,preysOn
+48645,339014,Polyneura latissima,crisscross network,preysOn
+48645,67679,Gracilaria,,preysOn
+48645,446885,Callophyllis flabellulata,red sea fan,preysOn
+48645,,Pterosiphonia dendroidea,,preysOn
+48645,,Bugula californica,,preysOn
+48645,328371,Taonia,,preysOn
+48645,345303,Nienburgia andersoniana,,preysOn
+48645,,Weeksia,,preysOn
+48645,,Gigartina corymbifera,,preysOn
+48645,1024242,Neoagardhiella baileyi,,preysOn
+48645,,Styela montereyensis,,preysOn
+48645,345158,Phycodrys setchellii,,preysOn
+48645,125879,Eisenia arborea,Southern sea palm,preysOn
+48645,,Stenogramme interrupta,,preysOn
+48645,482628,Dictyopteris undulata,,preysOn
+48645,339194,Polyclinum planum,Elephant Ear Tunicate,preysOn
+48645,196023,Thalamoporella californica,,preysOn
+48645,195943,Crisia occidentalis,White Tuft Bryozoans,preysOn
+48645,55512,Didemnum,Wrinkled Sea Mats,preysOn
+48645,,Acrosorium uncinatum,,preysOn
+48645,182932,Scytosiphon lomentaria,Beanweed,preysOn
+48645,,Iridaea vincent,,preysOn
+48645,345462,Ptilota,,preysOn
+48645,131212,Archidistoma,,preysOn
+48645,339020,Cladophora graminea,,preysOn
+48645,,Laurencia spectabilis,,preysOn
+48645,47458,Octopoda,Octopuses,preyedUponBy
+48645,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+48645,125663,Kelletia kelletii,Kellet's Whelk,preyedUponBy
+48645,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,preyedUponBy
+48645,64455,Sebastes carnatus,Gopher Rockfish,preyedUponBy
+48645,64481,Sebastes atrovirens,kelp rockfish,preyedUponBy
+48645,52552,Oxyjulis californica,senorita,preyedUponBy
+48645,53699,Semicossyphus pulcher,California sheephead,preyedUponBy

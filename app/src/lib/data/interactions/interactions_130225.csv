@@ -1,0 +1,108 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130225,67334,Cyanobacteria,cyanobacteria,eats
+130225,118996,Ciliophora,Ciliates,eats
+130225,130225,Dinophyceae,,eats
+130225,67333,Bacteria,bacteria,eats
+130225,123880,Bacillariophyceae,Diatoms,eats
+130225,50863,Chlorophyta,green algae,eats
+130225,,Prymnesiophyceae,,eats
+130225,800860,Salpa thompsoni,,eatenBy
+130225,48921,Hydrozoa,Hydrozoans,eatenBy
+130225,118996,Ciliophora,Ciliates,eatenBy
+130225,195134,Euphausiidae,Euphotic Krill,eatenBy
+130225,118832,Semibalanus balanoides,Northern Acorn Barnacle,eatenBy
+130225,62807,Mytilus,Black Mussels,eatenBy
+130225,47827,Cancer,,eatenBy
+130225,130225,Dinophyceae,,eatenBy
+130225,,Calanus propinquus,,eatenBy
+130225,,Metridia gerlachei,,eatenBy
+130225,,Calanoides acutus,,eatenBy
+130225,1287828,Eusirus perdentatus,,eatenBy
+130225,,Parandania boecki,,eatenBy
+130225,660848,Cyphocaris faurei,,eatenBy
+130225,295894,Vibilia stebbingi,,eatenBy
+130225,,Oncaea curvata,,eatenBy
+130225,,Scaphocalanus farrani,,eatenBy
+130225,,Cephalophanes frigidus,,eatenBy
+130225,,Microcalanus pygmaeus,,eatenBy
+130225,,Pseudoamallothrix emarginata,,eatenBy
+130225,,Dactylamblyops,,eatenBy
+130225,,Spinocalanus abyssalis,,eatenBy
+130225,,Gaetanus kruppii,,eatenBy
+130225,,Conchoecissa imbricata,,eatenBy
+130225,,Lucicutia gaussae,,eatenBy
+130225,,Ctenocalanus citer,,eatenBy
+130225,295570,Eurythenes obesus,,eatenBy
+130225,,Boreomysis,,eatenBy
+130225,,Gaetanus simplex,,eatenBy
+130225,,Boroecia antipoda,,eatenBy
+130225,,Drepanopsis frigidus,,eatenBy
+130225,,Scaphocalanus vervoorti,,eatenBy
+130225,,Tomopteris carpenteri,,eatenBy
+130225,,Thysanoessa macrura,,eatenBy
+130225,,Antarctomysis ohlinii,,eatenBy
+130225,,Scolecithricella minor,,eatenBy
+130225,,Antarctomysis maxima,,eatenBy
+130225,,Pseudomma belgicae,,eatenBy
+130225,,Racovitzanus antarcticus,,eatenBy
+130225,,Oithona frigida,,eatenBy
+130225,617783,Electrona antarctica,,eatenBy
+130225,409151,Tomopteris septentrionalis,,eatenBy
+130225,,Paraeuchaeta rasa,,eatenBy
+130225,752813,Alluroteuthis antarcticus,Antarctic Neosquid,eatenBy
+130225,,Stephos longipes,,eatenBy
+130225,,Hyperiella macronyx,,eatenBy
+130225,,Scaphocalanus parantarcticus,,eatenBy
+130225,,Euchirella rostromagna,,eatenBy
+130225,,Rhincalanus gigas,,eatenBy
+130225,,Xanthocalanus,,eatenBy
+130225,,Hyperiella dilatata,,eatenBy
+130225,,Spinocalanus magnus,,eatenBy
+130225,,Oithona similis,,eatenBy
+130225,,Paraheterorhabdus farrani,,eatenBy
+130225,,Pseudosagitta gazellae,,eatenBy
+130225,,Eusirus microps,,eatenBy
+130225,,Onchocalanus wolfendeni,,eatenBy
+130225,682434,Pelagobia longicirrata,,eatenBy
+130225,,Pseudoamallothrix cenotelis,,eatenBy
+130225,,Heterorhabdus austrinus,,eatenBy
+130225,344134,Euphausia superba,Antarctic Krill,eatenBy
+130225,,Pasiphaea scotiae,,eatenBy
+130225,975132,Eukrohnia hamata,,eatenBy
+130225,,Mysidetes posthon,,eatenBy
+130225,,Eusirus propeperdentatus,,eatenBy
+130225,,Pseudochirella hirsuta,,eatenBy
+130225,,Haloptilus ocellatus,,eatenBy
+130225,,Scaphocalanus antarcticus,,eatenBy
+130225,,Alacia belgicae,,eatenBy
+130225,,Lucicutia wolfendeni,,eatenBy
+130225,693690,Tomopteris planktonis,,eatenBy
+130225,1321176,Cyllopus lucasii,,eatenBy
+130225,,Abyssorchomene plebs,,eatenBy
+130225,,Alacia hettacra,,eatenBy
+130225,432420,Galiteuthis glacialis,Glacial Cranch Squid,eatenBy
+130225,,Cyphocaris richardi,,eatenBy
+130225,,Metaconchoecia skogsbergi,,eatenBy
+130225,,Mimocalanus cultrifer,,eatenBy
+130225,260964,Primno macropa,,eatenBy
+130225,,Spinocalanus abyssalis pygmaeus,,eatenBy
+130225,201742,Pleuromamma robusta,,eatenBy
+130225,,Pseudochirella mawsoni,,eatenBy
+130225,,Paraeuchaeta antarctica,,eatenBy
+130225,,Lucicutia macrocera,,eatenBy
+130225,,Metridia curticauda,,eatenBy
+130225,,Solidosagitta marri,,eatenBy
+130225,952607,Euphausia frigida,,eatenBy
+130225,292943,Clio pyramidata,,eatenBy
+130225,,Notolepis coatsi,,eatenBy
+130225,,Gaetanus tenuispinus,,eatenBy
+130225,617786,Gymnoscopelus braueri,,eatenBy
+130225,,Triconia antarctica,,eatenBy
+130225,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eatenBy
+130225,674243,Maupasia coeca,,eatenBy
+130225,,Aetideopsis antarctica,,eatenBy
+130225,,Metaconchoecia isocheira,,eatenBy
+130225,340950,Themisto gaudichaudii,,eatenBy
+130225,,Paraeuchaeta similis,,eatenBy
+130225,,Abyssorchomene rossi,,eatenBy
+130225,466011,Eurythenes gryllus,,eatenBy

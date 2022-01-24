@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49574,,Espeletia grandiflora,,eats
+49574,,Spalgis lemolea,,eatenBy
+49574,,Aslauga,,eatenBy
+49574,,Spalgis epius,,eatenBy
+49574,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+49574,58416,Phidippus clarus,Brilliant Jumping Spider,preyedUponBy

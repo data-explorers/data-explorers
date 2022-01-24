@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1986,85552,Sauria,Lizards,eats
+1986,47158,Insecta,Insects,eats
+1986,48201,Scarabaeidae,Scarabs,eats
+1986,29199,Opheodrys,Green Snakes,eats
+1986,36204,Sceloporus occidentalis,Western Fence Lizard,eats
+1986,26575,Diadophis punctatus,ring-necked snake,eats
+1986,36094,Uta stansburiana,Common Side-blotched Lizard,eats
+1986,53897,Stenopelmatidae,Jerusalem Crickets,eats
+1986,36074,Phrynosomatidae,Phrynosomatid Lizards,eats
+1986,38671,Aspidoscelis tigris,Western Whiptail,eats
+1986,44027,Geomyidae,Pocket Gophers,eats
+1986,,Plumatella,,eats
+1986,,Anolis carolinensis,,eats
+1986,36202,Sceloporus olivaceus,Texas Spiny Lizard,eats
+1986,49348,Hyles lineata,White-lined Sphinx,eats
+1986,9610,Leucosticte,Rosy-Finches and Allies,eats
+1986,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+1986,4756,Cathartes aura,Turkey Vulture,eatenBy
+1986,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+1986,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+1986,,Aquila chrysaetos,,eatenBy
+1986,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preysOn
+1986,358855,Gryllidea,Crickets,preysOn
+1986,154340,Gryllodes sigillatus,Tropical House Cricket,preysOn
+1986,85552,Sauria,Lizards,preysOn
+1986,26575,Diadophis punctatus,ring-necked snake,preysOn
+1986,47213,Sphingidae,Sphinx Moths,preysOn
+1986,36094,Uta stansburiana,Common Side-blotched Lizard,preysOn
+1986,36074,Phrynosomatidae,Phrynosomatid Lizards,preysOn
+1986,38671,Aspidoscelis tigris,Western Whiptail,preysOn
+1986,28465,Tantilla,Centipede Snakes,preysOn
+1986,67693,Aspidoscelis,Whiptail Lizards,preysOn
+1986,,Aspidoscelis gularis,,preysOn
+1986,,Dipsosaurus dorsalis,,preysOn
+1986,49348,Hyles lineata,White-lined Sphinx,preysOn
+1986,,Sceloporus occidentalis longipes,,preysOn
+1986,,Sceloporus cowlesi,,preysOn
+1986,9610,Leucosticte,Rosy-Finches and Allies,preysOn
+1986,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy

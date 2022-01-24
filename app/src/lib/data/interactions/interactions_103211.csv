@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+103211,460365,Tegula funebralis,Black Tegula,eats
+103211,47115,Mollusca,Molluscs,eats
+103211,53750,Lottia gigantea,Owl Limpet,eats
+103211,85493,Crustacea,Crustaceans,eats
+103211,47126,Plantae,plants,eats
+103211,,Collisella limatula,,eats
+103211,,Collisella scabra,,eats
+103211,,,,eats
+103211,54509,Octopus bimaculoides,Lesser Two-spot Octopus,eatenBy
+103211,4940,Egretta thula,Snowy Egret,eatenBy
+103211,460365,Tegula funebralis,Black Tegula,preysOn
+103211,53750,Lottia gigantea,Owl Limpet,preysOn
+103211,,Collisella scabra,,preysOn
+103211,,Collisella limatula,,preysOn

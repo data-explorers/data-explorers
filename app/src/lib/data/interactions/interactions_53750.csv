@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53750,47126,Plantae,plants,eats
+53750,,Khakista,,eats
+53750,,Prymnesiophyceae,,eats
+53750,,Phytoplankton,,eats
+53750,103211,Hypsoblennius gilberti,Notchbrow Blenny,eatenBy
+53750,117533,Clinocottus analis,Woolly Sculpin,eatenBy
+53750,117548,Gibbonsia elegans,Spotted Kelpfish,eatenBy
+53750,81963,Girella nigricans,Opaleye,eatenBy
+53750,4385,Larus californicus,California Gull,preyedUponBy
+53750,117533,Clinocottus analis,Woolly Sculpin,preyedUponBy
+53750,49095,Pagurus samuelis,Blueband Hermit Crab,preyedUponBy
+53750,103211,Hypsoblennius gilberti,Notchbrow Blenny,preyedUponBy
+53750,,no name,,preyedUponBy
+53750,81963,Girella nigricans,Opaleye,preyedUponBy
+53750,48833,Pisaster giganteus,Giant Sea Star,preyedUponBy
+53750,,Astrometis sertulifera,,preyedUponBy
+53750,117548,Gibbonsia elegans,Spotted Kelpfish,preyedUponBy

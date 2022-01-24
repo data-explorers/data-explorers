@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53374,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+53374,215948,Cameraria corylisella,Hazel Blotchminer,eatenBy
+53374,46217,Tamias striatus,Eastern Chipmunk,eatenBy
+53374,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+53374,82279,Automeris io,Io Moth,eatenBy
+53374,47919,Antheraea polyphemus,Polyphemus Moth,eatenBy
+53374,,Anisota stigma,,eatenBy
+53374,,Acrobasis normella,,eatenBy
+53374,47802,Lymantria dispar,LD Moth,eatenBy
+53374,,Erora laeta,,eatenBy
+53374,,Pseudothyatira cymatophoroides,,eatenBy
+53374,,Bucculatrix callistricha,,eatenBy
+53374,,Encoelia furfuracea,,eatenBy
+53374,,Callosamia promethea,,eatenBy
+53374,,Paraproba capitata,,eatenBy
+53374,,Empoasca,,eatenBy
+53374,,Wind,,pollinatedBy

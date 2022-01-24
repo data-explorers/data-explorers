@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47499,47534,Cnidaria,Cnidarians,eats
+47499,473040,Renilla koellikeri,,eats
+47499,448320,Ptilosarcus gurneyi,Orange Sea Pen,eats
+47499,464048,Hippasteria phrygiana,Trojan Star,eatenBy
+47499,,Crossaster papposus,,eatenBy
+47499,293174,Mediaster aequalis,Vermilion Star,eatenBy
+47499,473040,Renilla koellikeri,,preysOn
+47499,448320,Ptilosarcus gurneyi,Orange Sea Pen,preysOn
+47499,293174,Mediaster aequalis,Vermilion Star,preyedUponBy

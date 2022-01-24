@@ -1,0 +1,77 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54811,,Rhamnus catharti,,eats
+54811,,Rhamnus catharct,,eats
+54811,,Setophaga striata,,eats
+54811,14850,Sturnus vulgaris,European Starling,eatenBy
+54811,13858,Passer domesticus,House Sparrow,eatenBy
+54811,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+54811,12727,Turdus migratorius,American Robin,eatenBy
+54811,891696,Pica pica,Eurasian Magpie,eatenBy
+54811,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+54811,12716,Turdus merula,Eurasian Blackbird,eatenBy
+54811,12748,Turdus philomelos,Song Thrush,eatenBy
+54811,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+54811,,Turdus iliacus,,eatenBy
+54811,,Aphis nasturtii,,eatenBy
+54811,219735,Eulia ministrana,Ferruginous Eulia Moth,eatenBy
+54811,,Spatalistis bifasciana,,eatenBy
+54811,,Choristoneura diversana,,eatenBy
+54811,527197,Exapate congelatella,Autumnal Shade,eatenBy
+54811,,Rhopobota naevana,,eatenBy
+54811,,Synanthedon stomoxiformis,,eatenBy
+54811,527074,Ancylis unculana,Buckthorn Roller,eatenBy
+54811,,Argyrotaenia quercifoliana,,eatenBy
+54811,,Saturnia pavonia,,eatenBy
+54811,,Philereme vetulata,,eatenBy
+54811,524628,Sorhagenia rhamniella,August Cosmet,eatenBy
+54811,,Sorhagenia lophyrella,,eatenBy
+54811,,Euchlaena mollisaria,,eatenBy
+54811,,Cnidocampa flavescens,,eatenBy
+54811,,Dendrocopos medius,,eatenBy
+54811,,Poecile palustris,,eatenBy
+54811,13094,Erithacus rubecula,European Robin,eatenBy
+54811,15302,Sylvia borin,Garden Warbler,eatenBy
+54811,,Parus major,,eatenBy
+54811,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+54811,,Sitta europaea,,eatenBy
+54811,,Garrulus glandarius,,eatenBy
+54811,144812,Poecile montanus,Willow Tit,eatenBy
+54811,,Coccothraustes coccothraustes,,eatenBy
+54811,,Phylloscopus trochilus,,eatenBy
+54811,,Ficedula hypoleuca,,eatenBy
+54811,,Luscinia luscinia,,eatenBy
+54811,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+54811,,Ficedula parva,,eatenBy
+54811,,Hippolais icterina,,eatenBy
+54811,,Apodemus flavicollis,,eatenBy
+54811,,Setophaga striata,,eatenBy
+54811,,Muscardinus avellanarius,,eatenBy
+54811,,Columba palumbus,,eatenBy
+54811,,Phoenicurus ochruros,,eatenBy
+54811,,Sylvia curruca,,eatenBy
+54811,,Phylloscopus,,eatenBy
+54811,,Sylvia communis,,eatenBy
+54811,,Cyanistes caeruleus,,eatenBy
+54811,145360,Chloris chloris,European Greenfinch,eatenBy
+54811,12735,Turdus viscivorus,Mistle Thrush,eatenBy
+54811,,Phoenicurus phoenicurus,,eatenBy
+54811,,Picus viridis,,eatenBy
+54811,12740,Turdus torquatus,Ring Ouzel,eatenBy
+54811,204496,Corvus corone,Carrion Crow,eatenBy
+54811,12707,Turdus pilaris,Fieldfare,eatenBy
+54811,,Aegithalos caudatus,,eatenBy
+54811,201282,Gallinula chloropus,Common Moorhen,eatenBy
+54811,,Passer montanus,,eatenBy
+54811,,Celastrina argiolus,,eatenBy
+54811,60896,Callophrys rubi,Green Hairstreak,eatenBy
+54811,,Gonepteryx rhamni,,eatenBy
+54811,208988,Satyrium spini,Blue-spot Hairstreak,eatenBy
+54811,,Peniophora lycii,,eatenBy
+54811,,Fusicoccum fibrosum,,eatenBy
+54811,,Puccinia coronata,,eatenBy
+54811,,Stigmella rhamnicola,,eatenBy
+54811,,Calvia quatuordecimguttata,,eatenBy
+54811,127133,Hyphantria cunea,Fall Webworm Moth,eatenBy
+54811,,Lithacodes fasciola,,eatenBy
+54811,47822,Diptera,Flies,pollinatedBy
+54811,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

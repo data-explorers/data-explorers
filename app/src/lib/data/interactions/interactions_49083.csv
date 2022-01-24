@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49083,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+49083,,Diploderma,,eatenBy
+49083,5017,Bubulcus ibis,Cattle Egret,eatenBy
+49083,9800,Coccothraustes vespertinus,Evening Grosbeak,eatenBy
+49083,,Diploderma,,preyedUponBy
+49083,74341,Falsistrellus tasmaniensis,Eastern False Pipistrelle,preyedUponBy
+49083,75224,Vespadelus darlingtoni,Large Forest Bat,preyedUponBy
+49083,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy
+49083,,Phyllostomus hastatus,,preyedUponBy
+49083,40569,Nycticeius humeralis,Evening Bat,preyedUponBy

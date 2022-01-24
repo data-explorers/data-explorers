@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44395,44395,Peromyscus leucopus,White-footed Mouse,eats
+44395,42051,Canis latrans,Coyote,eatenBy
+44395,41976,Lynx rufus,Bobcat,eatenBy
+44395,42069,Vulpes vulpes,Red Fox,eatenBy
+44395,4637,Falconidae,Falcons and Caracaras,eatenBy
+44395,19350,Strigiformes,Owls,eatenBy
+44395,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+44395,41801,Mustela,,eatenBy
+44395,26172,Squamata,Snakes and Lizards,eatenBy
+44395,44395,Peromyscus leucopus,White-footed Mouse,eatenBy
+44395,20445,Tyto alba,Barn Owl,eatenBy
+44395,19893,Strix varia,Barred Owl,eatenBy
+44395,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44395,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44395,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+44395,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+44395,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+44395,20315,Asio flammeus,Short-eared Owl,eatenBy
+44395,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+44395,20307,Asio otus,Long-eared Owl,eatenBy
+44395,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+44395,144594,Bubo scandiacus,Snowy Owl,eatenBy
+44395,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+44395,40346,Myotis lucifugus,Little Brown Bat,preysOn
+44395,,Coluber schotti schotti,,preyedUponBy
+44395,27149,Coluber constrictor constrictor,Northern Black Racer,preyedUponBy
+44395,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+44395,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+44395,20356,Aegolius acadicus,Northern Saw-whet Owl,preyedUponBy

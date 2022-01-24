@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85538,,Khakista,,eats
+85538,,Detritus,,eats
+85538,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+85538,614629,Gymnogobius heptacanthus,,eatenBy
+85538,,Nuchequula nuchalis,,eatenBy
+85538,,Sardinella zunasi,,eatenBy
+85538,,Liza ramada,,eatenBy
+85538,106222,Mugil cephalus,Sea Mullet,eatenBy
+85538,97345,Chelon labrosus,thicklip grey mullet,eatenBy
+85538,,Liza aurata,,eatenBy
+85538,,Fulica americana columbiana,,eatenBy
+85538,,Zooplankton,,preysOn

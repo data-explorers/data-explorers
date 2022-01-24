@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57690,57983,Helianthus annuus,Common Sunflower,eats
+57690,78440,Peritoma arborea,Bladderpod,eats
+57690,56026,Carpobrotus chilensis,Chilean sea fig,eats
+57690,156929,Browallia,bush-violets,eats
+57690,,Tecoma stans,,eats
+57690,,Dendroviguiera adenophylla,,eats
+57690,,Dahlia coccinea,,eats
+57690,68051,Dalea leporina,foxtail prairie clover,eats
+57690,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+57690,52775,Bombus,Bumble Bees,pollinates
+57690,57690,Bombus sonorus,Sonoran Bumble Bee,pollinates
+57690,78270,Opuntia robusta,nopal tapón,pollinates
+57690,,Dendroviguiera adenophylla,,pollinates
+57690,57690,Bombus sonorus,Sonoran Bumble Bee,pollinatedBy

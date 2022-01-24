@@ -1,0 +1,68 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117443,55626,Pieris rapae,Cabbage White,eatenBy
+117443,48662,Danaus plexippus,Monarch,eatenBy
+117443,47219,Apis mellifera,Western Honey Bee,eatenBy
+117443,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+117443,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+117443,58531,Colias philodice,Clouded Sulphur,eatenBy
+117443,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+117443,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+117443,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+117443,58586,Limenitis archippus,Viceroy,eatenBy
+117443,58532,Colias eurytheme,Orange Sulphur,eatenBy
+117443,47980,Speyeria cybele,Great Spangled Fritillary,eatenBy
+117443,48548,Vanessa cardui,Painted Lady,eatenBy
+117443,48549,Vanessa virginiensis,American Lady,eatenBy
+117443,,Xylocopa virginica virginica,,eatenBy
+117443,,Atalopedes campestris,,eatenBy
+117443,,Cisseps fulvicollis,,eatenBy
+117443,,Xylocopa virginica,,eatenBy
+117443,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+117443,155106,Eristalis dimidiata,Black-shouldered Drone Fly,eatenBy
+117443,55719,Eristalis tenax,Common Drone Fly,eatenBy
+117443,,Megachile latimanus,,eatenBy
+117443,,Epistrophella,,eatenBy
+117443,602568,Melissodes druriellus,Drury's Long-horned Bee,eatenBy
+117443,,Andrena hirticincta,,eatenBy
+117443,,Archilochus colubris,,eatenBy
+117443,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+117443,,Agapostemon virescens,,eatenBy
+117443,124406,Megachile centuncularis,Patchwork Leafcutter Bee,eatenBy
+117443,133631,Polites peckius,Peck's Skipper,eatenBy
+117443,61858,Lucilia,Greenbottle Flies,pollinatedBy
+117443,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+117443,886834,Acmaeodera,,pollinatedBy
+117443,130131,Ectemnius,,pollinatedBy
+117443,47208,Coleoptera,Beetles,pollinatedBy
+117443,47822,Diptera,Flies,pollinatedBy
+117443,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+117443,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+117443,,Syrphus torvus,,pollinatedBy
+117443,,Gonia sequax,,pollinatedBy
+117443,,Rhopalum pedicellatum,,pollinatedBy
+117443,,Vipio,,pollinatedBy
+117443,,Evylaeus,,pollinatedBy
+117443,,Cremastus,,pollinatedBy
+117443,,Cerceris clypeata,,pollinatedBy
+117443,,Ancyloxypha numitor,,pollinatedBy
+117443,,Tiphia,,pollinatedBy
+117443,,Chelynia,,pollinatedBy
+117443,,Hammomyia,,pollinatedBy
+117443,248099,Scenopinus,,pollinatedBy
+117443,,Ashmeadiella bucconis,,pollinatedBy
+117443,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+117443,,Carceris robertsonii,,pollinatedBy
+117443,,Corizus,,pollinatedBy
+117443,233377,Valgus canaliculatus,,pollinatedBy
+117443,,Eumyotheria illinoensis,,pollinatedBy
+117443,,Trirhoptrasema,,pollinatedBy
+117443,299141,Urosigalphus femoratus,,pollinatedBy
+117443,,Hemaris,,pollinatedBy
+117443,,Anoplius illinoensis,,pollinatedBy
+117443,265669,Ageniella accepta,,pollinatedBy
+117443,,Parhelophilus divisus,,pollinatedBy
+117443,,Cheilosia capillata,,pollinatedBy
+117443,,Leucopis minor,,pollinatedBy
+117443,425250,Eristalis stipator,Yellow-shouldered Drone Fly,pollinatedBy
+117443,,Linnaemya,,pollinatedBy
+117443,,Self pollinated,,pollinatedBy

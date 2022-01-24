@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126823,82145,Hemileuca,Sheepmoths,eatenBy
+126823,84640,Polistes dominula,European Paper Wasp,eatenBy
+126823,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+126823,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+126823,126545,Dialictus,Metallic Sweat Bees,eatenBy
+126823,48662,Danaus plexippus,Monarch,eatenBy
+126823,,Sparganothis reticulatana,,eatenBy
+126823,,Aphelia alleniana,,eatenBy
+126823,220034,Evora hemidesma,Spirea Leaftier Moth,eatenBy
+126823,,Acleris macdunnoughi,,eatenBy
+126823,,Sphinx gordius,,eatenBy
+126823,,Geina,,eatenBy
+126823,,Xestia oblata,,eatenBy
+126823,,Xylena curvimacula,,eatenBy
+126823,,Diachrysia aereoides,,eatenBy
+126823,124183,Phlogophora periculosa,Brown Angle Shades,eatenBy
+126823,,Lithophane disposita,,eatenBy
+126823,,Celastrina argiolus,,eatenBy
+126823,,Eupithecia strattonata,,eatenBy
+126823,1338304,Eupithecia satyrata,,eatenBy
+126823,,Eupithecia anticaria,,eatenBy
+126823,,Metarranthis duaria,,eatenBy
+126823,,Aphilanthops frigidus,,eatenBy
+126823,,Bombus ternarius,,eatenBy
+126823,,Philanthus bilunatus,,eatenBy
+126823,,Trichiotinus assimilis,,eatenBy
+126823,557038,Symmorphus cristatus,Tufted Potter Wasp,eatenBy
+126823,320036,Orthonevra nitida,Wavy Mucksucker,eatenBy
+126823,,Agromyza valdorensis,,eatenBy
+126823,127133,Hyphantria cunea,Fall Webworm Moth,eatenBy
+126823,,Epistrophe grossulariae,,eatenBy
+126823,,Dolichovespula arenaria,,eatenBy
+126823,118970,Bombus impatiens,Common Eastern Bumble Bee,pollinatedBy
+126823,130504,Macrodactylus subspinosus,American Rose Chafer,pollinatedBy
+126823,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+126823,57678,Lasioglossum,,pollinatedBy
+126823,120215,Bombus griseocollis,Brown-belted Bumble Bee,pollinatedBy
+126823,144011,Bombus rufocinctus,Red-belted Bumble Bee,pollinatedBy
+126823,47822,Diptera,Flies,pollinatedBy
+126823,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+126823,47208,Coleoptera,Beetles,pollinatedBy
+126823,58583,Limenitis arthemis arthemis,American White Admiral,pollinatedBy
+126823,,Bombus sandersoni,,pollinatedBy
+126823,,Pyrophaena rosarum,,pollinatedBy
+126823,155106,Eristalis dimidiata,Black-shouldered Drone Fly,pollinatedBy
+126823,,http://treatment.plazi.org/id/0392879B735DAB0F43D5FF48FB7CFDC5,,pollinatedBy
+126823,,Hybomitra minuscula,,pollinatedBy
+126823,155085,Bombus perplexus,Perplexing Bumble Bee,pollinatedBy
+126823,,Bombus ternarius,,pollinatedBy
+126823,321475,Parhelophilus laetus,Common Bog Fly,pollinatedBy
+126823,58484,Thymelicus lineola,Essex Skipper,pollinatedBy
+126823,,N/A N/A,,pollinatedBy
+126823,199115,Halictus confusus,Confusing Furrow Bee,pollinatedBy
+126823,,Andrena,,pollinatedBy
+126823,,Stratiomys sp.,,pollinatedBy

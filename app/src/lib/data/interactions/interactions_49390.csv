@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49390,47120,Arthropoda,Arthropods,eats
+49390,4415,Cepphus columba,Pigeon Guillemot,eatenBy
+49390,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+49390,3797,Sula leucogaster,Brown Booby,eatenBy
+49390,55396,Solea solea,Common Sole,eatenBy
+49390,63740,Gadus morhua,Atlantic Cod,eatenBy
+49390,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+49390,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+49390,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+49390,4534,Anous,Noddies,eatenBy
+49390,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+49390,430553,Merlangius merlangus,Whiting,eatenBy
+49390,179466,Strongylura notata notata,Redfin needlefish,eatenBy
+49390,118631,Scorpaena porcus,Black Scorpionfish,eatenBy
+49390,93041,Acanthistius pictus,Brick Seabass,eatenBy
+49390,108549,Paralabrax humeralis,,eatenBy
+49390,204571,Lutjanus fulviflamma,Blackspot Snapper,eatenBy
+49390,317104,Fistularia petimba,Rough Flutemouth,eatenBy
+49390,100121,Epinephelus merra,Honeycomb Grouper,eatenBy
+49390,204570,Lutjanus ehrenbergii,Ehrenberg's Snapper,eatenBy
+49390,131476,Hypoplectrus chlorurus,Yellowtail Hamlet,eatenBy
+49390,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+49390,131388,Haemulon melanurum,Cottonwick,eatenBy
+49390,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+49390,128750,Sciaenops ocellatus,Red Drum,eatenBy
+49390,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+49390,49244,Scorpaena plumieri,Spotted Scorpionfish,eatenBy
+49390,41850,Lutra lutra,Eurasian Otter,eatenBy
+49390,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49390,620519,Sebastes capensis,false jacobever,eatenBy
+49390,558450,Anous ceruleus,Blue-gray Noddy,eatenBy
+49390,4101,Puffinus nativitatis,Christmas Shearwater,eatenBy
+49390,4537,Anous minutus,Black Noddy,eatenBy
+49390,4535,Anous stolidus,Brown Noddy,eatenBy
+49390,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+49390,4566,Gygis alba,White Tern,eatenBy
+49390,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+49390,4044,Pterodroma hypoleuca,Bonin Petrel,eatenBy
+49390,4943,Egretta garzetta,Little Egret,preyedUponBy

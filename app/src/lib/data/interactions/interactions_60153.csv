@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60153,55626,Pieris rapae,Cabbage White,eatenBy
+60153,59119,Pontia protodice,Checkered White,eatenBy
+60153,50931,Strymon melinus,Gray Hairstreak,eatenBy
+60153,56756,Murgantia histrionica,Harlequin Bug,eatenBy
+60153,47219,Apis mellifera,Western Honey Bee,eatenBy
+60153,,Physocephala burgessi,,eatenBy
+60153,,Eristalinus aeneus,,eatenBy

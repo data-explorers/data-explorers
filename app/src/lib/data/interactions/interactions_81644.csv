@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81644,68769,Ascophyllum,,eats
+81644,152275,Thalassiosirales,,eats
+81644,67333,Bacteria,bacteria,eats
+81644,123862,Chaetoceros,,eats
+81644,,Phytoplankton,,eats
+81644,,Foraminiferida,,eats
+81644,340479,Radiolaria,,eats
+81644,200862,Bacillariaceae,,eats
+81644,339306,Cocconeis,,eats
+81644,203808,Navicula,,eats
+81644,,Detritus complex,,eats
+81644,339072,Prorocentrum,,eats
+81644,200886,Peridinium,,eats
+81644,,Prymnesiophyceae,,eats
+81644,621184,Ulvaria,,eats
+81644,774725,Pyramimonadophyceae,,eats
+81644,123865,Coscinodiscus,,eats
+81644,47827,Cancer,,eatenBy
+81644,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+81644,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+81644,48174,Paguridae,Pagurid Hermit Crabs,eatenBy
+81644,47582,Ostreidae,True Oysters,eatenBy
+81644,41708,Phoca vitulina,Harbor Seal,eatenBy
+81644,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+81644,363652,Chasmodes saburrae,Florida Blenny,eatenBy
+81644,179600,Eucinostomus argenteus,Spotfin Mojarra,eatenBy
+81644,49750,Archosargus probatocephalus,Sheepshead,eatenBy
+81644,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+81644,63740,Gadus morhua,Atlantic Cod,eatenBy
+81644,61383,Homarus americanus,American Lobster,eatenBy
+81644,,Leptasterias,,eatenBy
+81644,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+81644,48903,Asterias,,eatenBy
+81644,223674,Limanda aspera,Yellowfin Sole,eatenBy
+81644,47632,Katharina tunicata,Black Leather Chiton,eatenBy
+81644,,Crossaster papposus,,eatenBy
+81644,,Zooplankton,,preysOn
+81644,,Pisces,,preyedUponBy
+81644,,Cribrina,,preyedUponBy

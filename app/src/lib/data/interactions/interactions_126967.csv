@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126967,123880,Bacillariophyceae,Diatoms,eats
+126967,50863,Chlorophyta,green algae,eats
+126967,123862,Chaetoceros,,eats
+126967,51104,Thaliacea,Thaliaceans,eats
+126967,,Detritus complex,,eats
+126967,774725,Pyramimonadophyceae,,eats
+126967,43584,Homo sapiens,Human,eatenBy
+126967,,Evasterias troscheli,,eatenBy
+126967,208013,Solaster stimpsoni,Striped Sun Star,eatenBy
+126967,376425,Fusitriton,,eatenBy
+126967,117641,Nucella lamellosa,Wrinkled Purple,eatenBy
+126967,123880,Bacillariophyceae,Diatoms,preysOn
+126967,,Detritus complex,,preysOn
+126967,,Zooplankton,,preysOn
+126967,,Phytoplankton,,preysOn
+126967,,Evasterias troscheli,,preyedUponBy
+126967,376425,Fusitriton,,preyedUponBy
+126967,117641,Nucella lamellosa,Wrinkled Purple,preyedUponBy
+126967,208013,Solaster stimpsoni,Striped Sun Star,preyedUponBy

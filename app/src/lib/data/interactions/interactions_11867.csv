@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+11867,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+11867,47208,Coleoptera,Beetles,eats
+11867,47120,Arthropoda,Arthropods,eats
+11867,47822,Diptera,Flies,eats
+11867,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+11867,61860,Calliphoridae,Blow Flies,eats
+11867,47157,Lepidoptera,Butterflies and Moths,eats
+11867,121516,Chalcididae,Chalcidid Wasps,eats
+11867,127593,Chloropidae,Frit Flies,eats
+11867,47792,Odonata,Dragonflies and Damselflies,eats
+11867,54964,Buprestidae,Metallic Wood-boring Beetles,eats
+11867,48511,Mutillidae,Velvet Ants,eats
+11867,47718,Notodontidae,Prominent Moths,eats
+11867,53237,Cicadellidae,Typical Leafhoppers,eats
+11867,48486,Coccinellidae,Lady Beetles,eats
+11867,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+11867,49567,Carabidae,Ground Beetles,eats
+11867,174592,Anthocoridae,Minute pirate bugs,eats
+11867,49995,Syrphidae,Hover Flies,eats
+11867,47742,Pentatomidae,Stink Bugs,eats
+11867,53248,Elateridae,Click Beetles,eats
+11867,49707,Halictidae,Sweat Bees,eats
+11867,47982,Asilidae,Robber Flies,eats
+11867,70144,Muscidae,House Flies and Allies,eats
+11867,51225,Tipulidae,Large Crane Flies,eats
+11867,55558,Lygaeidae,Seed Bugs,eats
+11867,55594,Cynipidae,Gall Wasps,eats
+11867,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",eats
+11867,57659,Dytiscidae,Predaceous Diving Beetles,eats
+11867,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eats
+11867,52134,Culicidae,Mosquitoes,eats
+11867,51777,Coreidae,Leaf-footed Bugs,eats
+11867,53849,Silphidae,Burying and Carrion Beetles,eats
+11867,47951,Staphylinidae,Rove Beetles,eats
+11867,52381,Aphididae,Aphids,eats
+11867,47625,Bostrichidae,Auger Beetles,eats
+11867,53505,Miridae,Plant Bugs,eats
+11867,68020,Dolichopodidae,Long-legged Flies,eats
+11867,47336,Formicidae,Ants,eats
+11867,48742,Sphecidae,Thread-waisted Wasps,eats
+11867,48201,Scarabaeidae,Scarabs,eats
+11867,48736,Curculionidae,True Weevils,eats
+11867,47199,Ichneumonidae,Ichneumonid Wasps,eats
+11867,51146,Chrysomelidae,Leaf Beetles,eats
+11867,60539,Geotrupidae,Earth-boring Scarab Beetles,eats
+11867,132105,Tiphiidae,Tiphiid Flower Wasps,eats
+11867,63187,Braconidae,Braconid Wasps,eats
+11867,47158,Insecta,Insects,eats
+11867,59653,Gerridae,Water Striders,eats
+11867,126149,Chrysididae,Cuckoo Wasps,eats
+11867,127740,Colletidae,Plasterer Bees,eats
+11867,133623,Tropisternus,,eats
+11867,69114,Pogonomyrmex,Harvester Ants,eats
+11867,141735,Sitona,,eats
+11867,132021,Philonthus,,eats
+11867,49133,Vanessa atalanta,Red Admiral,eats
+11867,47818,Libellula,Chasers and King Skimmers,eats
+11867,49568,Cicindela,Common Tiger Beetles,eats
+11867,70076,Euschistus,,eats
+11867,231080,Sitona hispidulus,Clover Weevil,eats
+11867,47219,Apis mellifera,Western Honey Bee,eats
+11867,67742,Drosophilidae,Vinegar and Fruit Flies,eats
+11867,71130,Polyphaga,"Water, Rove, Scarab, Long-horned, Leaf, and Snout Beetles",eats
+11867,51469,Aeshnidae,Darners,eats
+11867,48662,Danaus plexippus,Monarch,eats
+11867,59774,Pachydiplax longipennis,Blue Dasher,eats
+11867,68869,Histeridae,Hister Beetles,eats
+11867,129878,Nabidae,Damsel Bugs,eats
+11867,54944,Fulgoridae,Lanternbugs,eats
+11867,,Mycetophilidae,,eats
+11867,49460,Empididae,Dance Flies,eats
+11867,,Otididae,,eats
+11867,,Sitona lepidus,,eats
+11867,,Onthophagus,,eats
+11867,,Rhantus bistriatus,,eats
+11867,,Myodocha serripes,,eats
+11867,,Canthon,,eats
+11867,231359,Sphenophorus callosus,,eats
+11867,,Oebalus pugnax,,eats
+11867,,Curculio nasicus,,eats
+11867,,Otiorhynchus ovatus,,eats
+11867,,Dolichomitus irritator,,eats
+11867,,Strigoderma pygmaea,,eats
+11867,49024,Membracidae,Typical Treehoppers,eats
+11867,,Acanthocephala femorata,,eats
+11867,,Hypera punctata,,eats
+11867,,Leptoglossus oppositus,,eats
+11867,,Tetrix,,eats
+11867,,Chramesus hicoriae,,eats
+11867,,Bruchus,,eats
+11867,,Euphoria inda,,eats
+11867,,Hister abbreviatus,,eats
+11867,,Anthonomus grandis,,eats
+11867,,Phyllophaga,,eats
+11867,,Tiphia,,eats
+11867,,Xyleborus,,eats
+11867,,Calamosternus granarius,,eats
+11867,552018,Lignyodes pallidus,,eats
+11867,,Anisodactylus sanctaecrucis,,eats
+11867,,Creophilus maxillosus,,eats
+11867,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+11867,,Caracara cheriway,,eatenBy
+11867,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+11867,11867,Progne subis,Purple Martin,preysOn
+11867,47927,Anisoptera,Dragonflies,preysOn
+11867,11867,Progne subis,Purple Martin,preyedUponBy

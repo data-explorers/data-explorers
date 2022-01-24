@@ -1,0 +1,39 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+191560,1,Animalia,Animals,eats
+191560,492705,Bolinopsis infundibulum,Common Northern Comb Jelly,eats
+191560,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+191560,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+191560,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+191560,61387,Limanda limanda,Sand Dab,eatenBy
+191560,63740,Gadus morhua,Atlantic Cod,eatenBy
+191560,612083,Gymnocanthus detrisus,,eatenBy
+191560,121643,Copepoda,Copepods,preysOn
+191560,191560,Beroe cucumis,Northern Comb Jelly,preysOn
+191560,51508,Ctenophora,Comb Jellies,preysOn
+191560,,Bradyidius similis,,preysOn
+191560,,Onacea borealis,,preysOn
+191560,,Calanus finnmarchicus,,preysOn
+191560,,Microcalanus pusillus,,preysOn
+191560,,Metridia longa,,preysOn
+191560,,Lyrocteis flavopallidus,,preysOn
+191560,682434,Pelagobia longicirrata,,preysOn
+191560,1107098,Callianira antarctica,,preysOn
+191560,191560,Beroe cucumis,Northern Comb Jelly,preyedUponBy
+191560,165100,Mallotus villosus,Capelin,preyedUponBy
+191560,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+191560,558726,Mertensia ovum,Arctic comb jelly,preyedUponBy
+191560,,Sebastes marinus,,preyedUponBy
+191560,812772,Ammothea carolinensis,,preyedUponBy
+191560,394773,Pentanymphon antarcticum,,preyedUponBy
+191560,256088,Periphylla periphylla,Helmet Jelly,preyedUponBy
+191560,,Baseodiscus antarcticus,,preyedUponBy
+191560,813107,Colossendeis scotti,,preyedUponBy
+191560,813362,Nymphon hiemale,,preyedUponBy
+191560,709616,Parborlasia corrugatus,,preyedUponBy
+191560,541733,Notothenia rossii,Marbled Rockcod,preyedUponBy
+191560,1136817,Urticinopsis antarctica,,preyedUponBy
+191560,780667,Desmonema glaciale,,preyedUponBy
+191560,,Dipulmaris antarctica,,preyedUponBy
+191560,,Isotealia antarctica,,preyedUponBy
+191560,,Heteronemertes longifissus,,preyedUponBy
+191560,612083,Gymnocanthus detrisus,,preyedUponBy

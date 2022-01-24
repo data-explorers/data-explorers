@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54541,85493,Crustacea,Crustaceans,eats
+54541,47178,Actinopterygii,Ray-finned Fishes,eats
+54541,47490,Polychaeta,Polychaete Worms,eats
+54541,121639,Brachyura,True Crabs,eats
+54541,48147,Isopoda,Isopods,eats
+54541,47628,Amphipoda,Amphipods,eats
+54541,47186,Decapoda,Decapods,eats
+54541,153112,Euphausiacea,krill,eats
+54541,644493,Cymodocella,,eats
+54541,121643,Copepoda,Copepods,eats
+54541,1,Animalia,Animals,eats
+54541,85521,Harpacticoida,Harpacticoid Copepods,eats
+54541,81862,Tripterygiidae,Triplefins,eats
+54541,,,,eats
+54541,,Pisces,,eats
+54541,,Ischyrocerus longimanus,,eats
+54541,,Gnathostomata,,eats
+54541,,Hippolyte bifidirostris,,eats
+54541,248477,Talitroides,,eats
+54541,450842,Tanyptera,,eats
+54541,260711,Caprella equilibra,,eats
+54541,83718,Tanaidacea,Tanaids,eats
+54541,245525,Hyalidae,,eats
+54541,59806,Gammaridae,,eats
+54541,,Tenagomysis similis,,eats
+54541,144115,Cumacea,Hooded Shrimp,eats
+54541,64636,Corophiidae,,eats
+54541,,Mysidacea,,eats
+54541,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+54541,48844,Echeneis naucrates,Sharksucker,eatenBy
+54541,69676,Thunnus,Bluefin Tunas,eatenBy
+54541,131491,Rachycentron canadum,Cobia,eatenBy
+54541,84969,Hippocampus hippocampus,Short-snouted Seahorse,eatenBy
+54541,102821,Hippocampus guttulatus,Long-snouted Seahorse,eatenBy
+54541,118631,Scorpaena porcus,Black Scorpionfish,eatenBy
+54541,83439,Centropristis striata,Black Sea Bass,eatenBy
+54541,179470,Scorpaena brasiliensis,Barbfish,eatenBy
+54541,49509,Lutjanus griseus,Grey Snapper,eatenBy
+54541,,Gymnothorax saxicola,,eatenBy
+54541,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+54541,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+54541,103158,Hyporthodus flavolimbatus,Yellow-edge Grouper,eatenBy
+54541,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+54541,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+54541,128750,Sciaenops ocellatus,Red Drum,eatenBy
+54541,985593,Phalacrocorax chalconotus chalconotus,Otago Shag,preyedUponBy

@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+153635,68941,Brachymyrmex,Rover Ants,preysOn
+153635,,Pseudomyrmex elongatus,,preysOn
+153635,,Crematogaster ashmeadi,,preysOn
+153635,503396,Colobopsis,Gate-keeper Ants,preysOn
+153635,,Hypoponera opacior,,preysOn
+153635,,Camponotus floridanus,,preysOn
+153635,,Camponotus tortuganus,,preysOn
+153635,,Paracryptocerus,,preysOn
+153635,199370,Monomorium floricola,Flower Ant,preysOn
+153635,,Xenomyrmex floridanus,,preysOn
+153635,,Camponotus planatus,,preysOn
+153635,,Paratrechina bourbonica,,preysOn
+153635,,Tapinoma littorale,,preysOn
+153635,250072,Metacyrba,,preyedUponBy
+153635,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+153635,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+153635,84495,Paraphidippus,,preyedUponBy
+153635,,Pirata,,preyedUponBy
+153635,420613,Stoidis,,preyedUponBy
+153635,,Dendroica,,preyedUponBy
+153635,354274,Ballus,,preyedUponBy
+153635,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+153635,49880,Misumenops,,preyedUponBy

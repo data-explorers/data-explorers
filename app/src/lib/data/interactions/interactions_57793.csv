@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57793,52775,Bombus,Bumble Bees,eatenBy
+57793,1081332,Lon melane,Umber Skipper,eatenBy
+57793,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+57793,48549,Vanessa virginiensis,American Lady,eatenBy
+57793,47219,Apis mellifera,Western Honey Bee,eatenBy
+57793,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+57793,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+57793,82792,Celastrina neglecta,Summer Azure,eatenBy
+57793,82523,Augochlora pura,Pure Green-Sweat bee,eatenBy
+57793,82525,Augochlorella pomoniella,Peridot Sweat Bee,eatenBy
+57793,,Adela singulella,,eatenBy
+57793,345300,Andrena nigrocaerulea,Blue-and-black Mining Bee,eatenBy
+57793,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+57793,,Xylocopa virginica,,eatenBy
+57793,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+57793,,Svastra obliqua expurgata,,eatenBy
+57793,199115,Halictus confusus,Confusing Furrow Bee,eatenBy
+57793,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+57793,47208,Coleoptera,Beetles,pollinatedBy
+57793,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+57793,47822,Diptera,Flies,pollinatedBy

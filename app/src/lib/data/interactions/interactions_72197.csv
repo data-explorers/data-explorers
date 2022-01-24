@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+72197,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+72197,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+72197,,Pteroma pendula,,eatenBy
+72197,,Astraptes creteus,,eatenBy
+72197,,Michaelus thordesa,,eatenBy
+72197,35342,Iguana iguana,Green Iguana,preyedUponBy

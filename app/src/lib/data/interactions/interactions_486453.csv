@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+486453,47822,Diptera,Flies,eats
+486453,61858,Lucilia,Greenbottle Flies,eats
+486453,,Ozodiceromyia nigrimana,,eats
+486453,486453,Colonus hesperus,,preysOn
+486453,47928,Zygoptera,Damselflies,preysOn
+486453,47822,Diptera,Flies,preysOn
+486453,153429,Culicomorpha,Mosquitoes and Midges,preysOn
+486453,47336,Formicidae,Ants,preysOn
+486453,232555,Theridion melanurum,Common House Combfoot,preysOn
+486453,,Azteca,,preysOn
+486453,,Metaphidippus chera,,preysOn
+486453,520456,Icaricia acmon,Acmon Blue,preysOn
+486453,486453,Colonus hesperus,,preyedUponBy

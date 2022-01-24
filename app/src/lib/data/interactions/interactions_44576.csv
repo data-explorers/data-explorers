@@ -1,0 +1,65 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44576,4246,Podilymbus podiceps,Pied-billed Grebe,eats
+44576,69758,Lumbricidae,Earthworms,eats
+44576,47114,Gastropoda,Gastropods,eats
+44576,3460,Zenaida asiatica,White-winged Dove,eats
+44576,,Progne dominicensis,,eats
+44576,4141,Phoebastria nigripes,Black-footed Albatross,eats
+44576,42051,Canis latrans,Coyote,eatenBy
+44576,41976,Lynx rufus,Bobcat,eatenBy
+44576,41663,Procyon lotor,Common Raccoon,eatenBy
+44576,42069,Vulpes vulpes,Red Fox,eatenBy
+44576,41801,Mustela,,eatenBy
+44576,67570,Falconiformes,Falcons and Caracaras,eatenBy
+44576,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44576,118552,Felis catus,Domestic Cat,eatenBy
+44576,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44576,44540,Rattus,Old World Rats,eatenBy
+44576,4756,Cathartes aura,Turkey Vulture,eatenBy
+44576,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+44576,20445,Tyto alba,Barn Owl,eatenBy
+44576,4665,Falco sparverius,American Kestrel,eatenBy
+44576,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+44576,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+44576,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+44576,19893,Strix varia,Barred Owl,eatenBy
+44576,42048,Canis lupus,Gray Wolf,eatenBy
+44576,851014,Canis aureus,Golden Jackal,eatenBy
+44576,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+44576,922459,Felis silvestris,European Wildcat,eatenBy
+44576,41800,Martes foina,Stone Marten,eatenBy
+44576,74481,Leopardus geoffroyi,Geoffroy's Cat,eatenBy
+44576,41988,Leopardus wiedii,Margay,eatenBy
+44576,41979,Lynx lynx,Eurasian Lynx,eatenBy
+44576,41812,Mustela putorius,Western Polecat,eatenBy
+44576,569428,Mustela nivalis,Least Weasel,eatenBy
+44576,41808,Mustela erminea,Eurasian Stoat,eatenBy
+44576,,Neovison vison,,eatenBy
+44576,41805,Mustela lutreola,European Mink,eatenBy
+44576,252531,Echidnophaga,Stick-tight Fleas,eatenBy
+44576,19975,Athene cunicularia,Burrowing Owl,eatenBy
+44576,,Asio flammeus bogotensis,,eatenBy
+44576,,Corvus cornix,,eatenBy
+44576,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+44576,20315,Asio flammeus,Short-eared Owl,eatenBy
+44576,20307,Asio otus,Long-eared Owl,eatenBy
+44576,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+44576,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+44576,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+44576,42069,Vulpes vulpes,Red Fox,preyedUponBy
+44576,118552,Felis catus,Domestic Cat,preyedUponBy
+44576,32170,Morelia spilota variegata,Darwin Carpet Python,preyedUponBy
+44576,32142,Antaresia maculosa,Spotted Python,preyedUponBy
+44576,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+44576,116496,Atractaspis bibronii,Southern Stiletto Snake,preyedUponBy
+44576,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy
+44576,30253,Elaphe anomala,Korean Ratsnake,preyedUponBy
+44576,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,preyedUponBy
+44576,,Gloydius shedaoensis,,preyedUponBy
+44576,73759,Dolichophis jugularis,Large Whip Snake,preyedUponBy
+44576,204496,Corvus corone,Carrion Crow,preyedUponBy
+44576,5017,Bubulcus ibis,Cattle Egret,preyedUponBy
+44576,30237,Elaphe quatuorlineata,Four-lined Snake,preyedUponBy
+44576,20307,Asio otus,Long-eared Owl,preyedUponBy
+44576,,Corvus cornix,,preyedUponBy
+44576,333759,Larus dominicanus dominicanus,Southern Black-backed Gull,preyedUponBy

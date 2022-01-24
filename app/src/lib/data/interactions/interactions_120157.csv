@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+120157,,Stillingia lineata lineata,,eatenBy
+120157,84494,Paraphidippus aurantius,Golden Jumping Spider,eatenBy
+120157,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+120157,5017,Bubulcus ibis,Cattle Egret,eatenBy
+120157,48561,Cirsium,thistles,pollinates
+120157,48699,Apiaceae,carrot family,pollinates
+120157,84517,Epilobium hirsutum,Great Willowherb,pollinates
+120157,48230,Ranunculus,buttercups,pollinates
+120157,79408,Trifolium arvense,rabbitfoot clover,pollinates
+120157,60132,Cirsium arvense,creeping thistle,pollinates
+120157,970203,Stillingia lineata,,pollinates
+120157,,Anthriscus sylvestris,,pollinates
+120157,,Lathyrus pratensis,,pollinates
+120157,,Angelica archangelica,,pollinates
+120157,,Chamerion angustifolium,,pollinates
+120157,,Torilis japonica,,pollinates
+120157,,,,pollinates
+120157,,Trfolium sp1 M_PL_046,,pollinates
+120157,,Stachys sylvatica,,pollinates
+120157,1070908,Attulus fasciger,Asiatic Wall Jumping Spider,preyedUponBy
+120157,146721,Philaeus chrysops,Red-bellied Jumping Spider,preyedUponBy
+120157,,Attulus avocator,,preyedUponBy
+120157,803624,Yllenus uiguricus,,preyedUponBy

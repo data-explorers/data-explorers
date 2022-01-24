@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52736,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+52736,126545,Dialictus,Metallic Sweat Bees,eatenBy
+52736,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+52736,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+52736,198856,Bombus auricomus,Black-and-gold Bumble Bee,eatenBy
+52736,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+52736,128670,Bombus vagans,Half-black Bumble Bee,eatenBy
+52736,143854,Bombus borealis,Northern Amber Bumble Bee,eatenBy
+52736,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+52736,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+52736,58532,Colias eurytheme,Orange Sulphur,eatenBy
+52736,81559,Epargyreus clarus,Silver-spotted Skipper,eatenBy
+52736,55626,Pieris rapae,Cabbage White,eatenBy
+52736,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+52736,48662,Danaus plexippus,Monarch,eatenBy
+52736,49133,Vanessa atalanta,Red Admiral,eatenBy
+52736,126532,Toxomerus geminatus,Eastern Calligrapher,eatenBy
+52736,,Agriopodes teratophora,,eatenBy
+52736,135260,Pyrausta signatalis,Raspberry Pyrausta Moth,eatenBy
+52736,,Sphinx eremitus,,eatenBy
+52736,232577,Thorybes confusis,Confused Cloudywing,eatenBy
+52736,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+52736,,Melissodes bimaculatus,,eatenBy
+52736,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+52736,,Hemaris diffinis,,eatenBy
+52736,1128570,Hypocritanus fascipennis,Eastern Band-winged Hover Fly,eatenBy
+52736,,Xylocopa virginica,,eatenBy
+52736,,Hemaris thysbe,,eatenBy
+52736,5562,Trochilidae,Hummingbirds,pollinatedBy
+52736,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+52736,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

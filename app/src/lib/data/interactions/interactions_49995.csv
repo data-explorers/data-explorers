@@ -1,0 +1,225 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49995,76923,Erigeron karvinskianus,Santa Barbara daisy,eats
+49995,55411,Raphanus raphanistrum,Jointed Charlock,eats
+49995,51611,Veronica,speedwells,eats
+49995,56992,Lobularia maritima,sweet alyssum,eats
+49995,47602,Taraxacum officinale,common dandelion,eats
+49995,53104,Hypochaeris radicata,Common Cat's-ear,eats
+49995,54491,Corylus avellana,common hazel,eats
+49995,47566,Populus,"poplars, cottonwoods, and aspens",eats
+49995,54841,Salix alba,white willow,eats
+49995,378126,Sericothrips,,eats
+49995,161257,Cuphea hyssopifolia,False heather,eats
+49995,557452,Passiflora loefgrenii,,eats
+49995,77741,Ligustrum ovalifolium,garden privet,eats
+49995,77758,Limonium sinuatum,Blue statice,eats
+49995,147294,Ruta graveolens,Rue,eats
+49995,50333,Lantana camara,common lantana,eats
+49995,,Centradenia grandifolia,,eats
+49995,168820,Senecio madagascariensis,Madagascar Ragwort,eats
+49995,166208,Passiflora ligularis,Granadilla,eats
+49995,743370,Passiflora arborea,,eats
+49995,244676,Streptosolen jamesonii,marmalade-bush,eats
+49995,,Polygonum capitatum,,eats
+49995,546819,Passiflora adulterina,,eats
+49995,,Hebe elliptica,,eats
+49995,,Passiflora cuspidifolia,,eats
+49995,911075,Passiflora semiciliosa,,eats
+49995,51447,Passiflora alata,Winged-Stem Passion Flower,eats
+49995,133169,Passiflora tripartita,banana passionfruit,eats
+49995,570676,Callianthe picta,Redvein Abutilon,eats
+49995,125789,Spiraea cantoniensis,Reeve's Spiraea,eats
+49995,53219,Salvia hispanica,chia,eats
+49995,,Fuchsia hybrida,,eats
+49995,465063,Passiflora bogotensis,,eats
+49995,,http://treatment.plazi.org/id/F92C45F9F19DC16132492FB93EBBE33C,,eats
+49995,,Detritus,,eats
+49995,155124,Cornus sanguinea,common dogwood,eats
+49995,55847,Euonymus europaeus,Spindle,eats
+49995,79461,Ulmus minor,Field Elm,eats
+49995,765394,Sambucus nigra,European black elderberry,eats
+49995,55811,Prunus spinosa,Blackthorn,eats
+49995,51147,Crataegus monogyna,common hawthorn,eats
+49995,118597,Belone belone,Garfish,eatenBy
+49995,211210,Holocnemus pluchei,Marbled Cellar Spider,eatenBy
+49995,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+49995,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+49995,6930,Anas platyrhynchos,Mallard,eatenBy
+49995,7120,Cairina moschata,Muscovy Duck,eatenBy
+49995,17355,Vireo,Vireos,eatenBy
+49995,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+49995,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+49995,14850,Sturnus vulgaris,European Starling,eatenBy
+49995,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+49995,11867,Progne subis,Purple Martin,eatenBy
+49995,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+49995,7562,Troglodytes aedon,House Wren,eatenBy
+49995,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+49995,202557,Argiope keyserlingi,Saint Andrew's Cross Spider,eatenBy
+49995,828754,Mopsolodes australensis,Australian Mopsolodes,eatenBy
+49995,135239,Dioctria hyalipennis,Stripe-legged Robberfly,eatenBy
+49995,104824,Lucania parva,rainwater killifish,eatenBy
+49995,949,Lagopus muta,Rock Ptarmigan,eatenBy
+49995,5017,Bubulcus ibis,Cattle Egret,eatenBy
+49995,,Salpinctes obsoletus,,eatenBy
+49995,7603,Auriparus flaviceps,Verdin,eatenBy
+49995,6937,Anas crecca,Green-winged Teal,eatenBy
+49995,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+49995,17394,Vireo gilvus,Warbling Vireo,eatenBy
+49995,17408,Vireo griseus,White-eyed Vireo,eatenBy
+49995,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+49995,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+49995,,Setophaga pinus,,eatenBy
+49995,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+49995,,Corvus caurinus,,eatenBy
+49995,16110,Contopus cooperi,Olive-sided Flycatcher,eatenBy
+49995,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+49995,6667,Cypseloides niger,Black Swift,eatenBy
+49995,,Cynanthus latirostris,,eatenBy
+49995,75762,Berteroa incana,hoary alyssum,pollinates
+49995,47602,Taraxacum officinale,common dandelion,pollinates
+49995,51611,Veronica,speedwells,pollinates
+49995,57278,Ailanthus altissima,tree-of-heaven,pollinates
+49995,53186,Potentilla,cinquefoils,pollinates
+49995,47697,Hesperis matronalis,dame's rocket,pollinates
+49995,49917,Sisyrinchium,blue-eyed grasses,pollinates
+49995,55411,Raphanus raphanistrum,Jointed Charlock,pollinates
+49995,47130,Ribes,currants and gooseberries,pollinates
+49995,52761,Hypericum,St. John's worts,pollinates
+49995,53052,Foeniculum vulgare,fennel,pollinates
+49995,60132,Cirsium arvense,creeping thistle,pollinates
+49995,77902,Lycium barbarum,matrimony vine,pollinates
+49995,47359,Apocynum androsaemifolium,spreading dogbane,pollinates
+49995,52821,Achillea millefolium,Common Yarrow,pollinates
+49995,48071,Sagittaria,Arrowheads,pollinates
+49995,57952,Coreopsis,Tickseed,pollinates
+49995,52818,Achillea,yarrows,pollinates
+49995,55910,Hieracium,hawkweeds,pollinates
+49995,76425,Commelina benghalensis,tropical spiderwort,pollinates
+49995,51935,Drosera,Sundews,pollinates
+49995,52111,Baccharis,,pollinates
+49995,77452,Hornungia procumbens,Prostrate Hutchinsia,pollinates
+49995,775731,Viola portalesia,,pollinates
+49995,335546,Caldcluvia paniculata,,pollinates
+49995,490877,Rhaphithamnus spinosus,Prickly myrtle,pollinates
+49995,,http://treatment.plazi.org/id/F292C2F6E6D0DB79016FD3D4986ADAF0,,pollinates
+49995,602052,Euphorbia portulacoides,,pollinates
+49995,319327,Embothrium coccineum,Chilean fire bush,pollinates
+49995,61875,Styrax,snowbells,pollinates
+49995,836798,Mononeuria glabra,Appalachian sandwort,pollinates
+49995,836804,Mononeuria uniflora,Piedmont Sandwort,pollinates
+49995,53377,Arctostaphylos glandulosa mollis,Transverse Range Manzanita,pollinates
+49995,75540,Arctostaphylos pringlei,Pringle's manzanita,pollinates
+49995,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+49995,,http://treatment.plazi.org/id/7F917C528F9F87A9DE65D7F2564AC0D3,,pollinates
+49995,75869,Brassica napus,rapeseed,pollinates
+49995,79072,Shepherdia canadensis,Canadian buffalo-berry,pollinates
+49995,,Symphoricarpos albus,,pollinates
+49995,50630,Erysimum,Wallflowers,pollinates
+49995,359668,Physaria filiformis,Missouri bladderpod,pollinates
+49995,77754,Limonium otolepis,,pollinates
+49995,78332,Paeonia brownii,Brown's Peony,pollinates
+49995,76647,Dianthus deltoides,Maiden Pink,pollinates
+49995,118571,Ceanothus fendleri,Fendler's ceanothus,pollinates
+49995,,Jepsonia parryi,,pollinates
+49995,52136,Ipomopsis aggregata,Scarlet Gilia,pollinates
+49995,57481,Calystegia sepium,hedge bindweed,pollinates
+49995,50171,Phacelia campanularia,desert bluebells,pollinates
+49995,77780,Linnaea borealis,twinflower,pollinates
+49995,163766,Hibiscus grandiflorus,Swamp Rosemallow,pollinates
+49995,51147,Crataegus monogyna,common hawthorn,pollinates
+49995,165645,Napaea dioica,Glade Mallow,pollinates
+49995,168256,Sabal etonia,Scrub Palmetto,pollinates
+49995,238302,Rhodiola integrifolia leedyi,,pollinates
+49995,78663,Pogogyne nudiuscula,Otay mesa mint,pollinates
+49995,77051,Eriophyllum latilobum,San Mateo woolly sunflower,pollinates
+49995,162491,Erigeron kachinensis,Kachina Fleabane,pollinates
+49995,68892,Blennosperma bakeri,Sonoma sunshine,pollinates
+49995,77628,Lasthenia burkei,burke's goldfields,pollinates
+49995,471197,Epipactis thunbergii,Persimmon Orchid,pollinates
+49995,53802,Abronia umbellata breviflora,Pink Sand Verbena,pollinates
+49995,,Purshia subintegra,,pollinates
+49995,,Emilia,,pollinates
+49995,50334,Lantana,,pollinates
+49995,83365,Indigofera,Indigos,pollinates
+49995,64342,Coffea arabica,Coffee,pollinates
+49995,133311,Richardia scabra,Florida Pusley,pollinates
+49995,49033,Myrica,,pollinates
+49995,143422,Ageratum conyzoides,billygoat weed,pollinates
+49995,439493,Lasianthus kilimandscharicus,,pollinates
+49995,428560,Pappea,,pollinates
+49995,340106,Gymnosporia senegalensis,confetti spikethorn,pollinates
+49995,131831,Oldenlandia,,pollinates
+49995,,Morpho sp.1*,,pollinates
+49995,343164,Ozoroa insignis,,pollinates
+49995,963063,Helichrysum forskahlii,,pollinates
+49995,170044,Triumfetta rhomboidea,Chinese Bur,pollinates
+49995,169944,Tridax procumbens,Tridax daisy,pollinates
+49995,,Morpho sp.10*,,pollinates
+49995,136550,Euclea,Euclea Slug Moths,pollinates
+49995,131605,Orchis militaris,Military Orchid,pollinates
+49995,,Cypella geniculata,,pollinates
+49995,1091062,Calydorea campestris,,pollinates
+49995,153029,Deianira,,pollinates
+49995,126618,Xyris,yellow-eyed grasses,pollinates
+49995,289566,Chaptalia runcinata,,pollinates
+49995,83588,Mikania,hempvines,pollinates
+49995,,Stevia myriadenia,,pollinates
+49995,,Dracaena concinna,,pollinates
+49995,,Tourneortia argentea,,pollinates
+49995,,Stachytapheta jamaicensis,,pollinates
+49995,203279,Scaphytopius,,preysOn
+49995,1121348,Blissus insularis,,preysOn
+49995,49575,Pseudococcus,,preysOn
+49995,129986,Oliarus,,preysOn
+49995,84463,Ceroplastes,Wax Scales,preysOn
+49995,208181,Arunta interclusa,mangrove cicada,preysOn
+49995,49024,Membracidae,Typical Treehoppers,preysOn
+49995,1159232,Tangia breviceps,,preysOn
+49995,557422,Flatoidinus punctatus,,preysOn
+49995,323059,Acanalonia servillei,,preysOn
+49995,320812,Gastrophysa viridula,Green Dock Beetle,preysOn
+49995,56611,Philodromus,,preyedUponBy
+49995,244407,Zelus renardii,Leafhopper Assassin Bug,preyedUponBy
+49995,52658,Drosera rotundifolia,round-leaved sundew,preyedUponBy
+49995,230433,Sassacus vitis,Buttonhook Leaf-beetle Jumping Spider,preyedUponBy
+49995,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+49995,67437,Iris oratoria,Mediterranean Mantis,preyedUponBy
+49995,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+49995,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+49995,307026,Labidura riparia,Shore Earwig,preyedUponBy
+49995,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+49995,47792,Odonata,Dragonflies and Damselflies,preyedUponBy
+49995,82081,Theridion,Tangleweb Spiders,preyedUponBy
+49995,121467,Uloborus,Feather-legged Spiders,preyedUponBy
+49995,153595,Dictyna,,preyedUponBy
+49995,250072,Metacyrba,,preyedUponBy
+49995,47550,Tetragnatha,,preyedUponBy
+49995,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+49995,126155,Vespula germanica,German Yellowjacket,preyedUponBy
+49995,146721,Philaeus chrysops,Red-bellied Jumping Spider,preyedUponBy
+49995,245656,Synema globosum,Napoleon Spider,preyedUponBy
+49995,227735,Phidippus borealis,Boreal Tufted Jumping Spider,preyedUponBy
+49995,148090,Pelegrina galathea,Peppered Jumping Spider,preyedUponBy
+49995,84494,Paraphidippus aurantius,Golden Jumping Spider,preyedUponBy
+49995,222660,Laphria sacrator,,preyedUponBy
+49995,338504,Xanthocnemis zealandica,Red Damselfly,preyedUponBy
+49995,104426,Lestes disjunctus,Northern Spreadwing,preyedUponBy
+49995,318821,Icius subinermis,,preyedUponBy
+49995,,Tyrannochelifer,,preyedUponBy
+49995,57451,Scytodes,,preyedUponBy
+49995,153571,Mangora,,preyedUponBy
+49995,,Dendroica,,preyedUponBy
+49995,778499,Leucauge venusta,Orchard Orbweaver,preyedUponBy
+49995,354274,Ballus,,preyedUponBy
+49995,,Pirata,,preyedUponBy
+49995,420613,Stoidis,,preyedUponBy
+49995,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+49995,263718,Argyrodes nephilae,,preyedUponBy
+49995,,Nephila clavipes,,preyedUponBy
+49995,84495,Paraphidippus,,preyedUponBy
+49995,49880,Misumenops,,preyedUponBy
+49995,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+49995,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+49995,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+49995,326197,Troilus luridus,Bronze Shield Bug,preyedUponBy

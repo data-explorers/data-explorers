@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55747,17356,Vireo bellii,Bell's Vireo,eatenBy
+55747,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+55747,59124,Anthocharis sara,Sara Orangetip,preysOn
+55747,48548,Vanessa cardui,Painted Lady,preysOn
+55747,121517,Bombus terricola,Yellow-banded Bumble Bee,preysOn
+55747,,Dolichovespula arenaria,,preysOn
+55747,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy
+55747,,Philanthus bilunatus,,preyedUponBy

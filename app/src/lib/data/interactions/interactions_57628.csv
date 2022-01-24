@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57628,48548,Vanessa cardui,Painted Lady,eatenBy
+57628,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+57628,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+57628,,Agonopterix cnicella,,eatenBy
+57628,,Elphinstonia charlonia,,eatenBy
+57628,,Erynnis tages,,eatenBy
+57628,,Diaporthopsis angelicae,,eatenBy
+57628,326413,Cerocoma schreberi,,eatenBy
+57628,,Chauliognathus scriptus,,eatenBy
+57628,51953,Tachinidae,Bristle Flies,pollinatedBy
+57628,52134,Culicidae,Mosquitoes,pollinatedBy
+57628,47822,Diptera,Flies,pollinatedBy
+57628,52932,Cantharidae,Soldier Beetles,pollinatedBy
+57628,152993,Stenodynerus,,pollinatedBy
+57628,128824,Lucilia sericata,Common European Greenbottle Fly,pollinatedBy
+57628,82528,Augochloropsis,,pollinatedBy
+57628,118969,Allograpta,Streaktails,pollinatedBy
+57628,62781,Camponotus,Carpenter and Sugar Ants,pollinatedBy
+57628,126545,Dialictus,Metallic Sweat Bees,pollinatedBy
+57628,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+57628,,Riodininae,,pollinatedBy
+57628,,Curtonotidae,,pollinatedBy
+57628,,Jurinella corpulenta,,pollinatedBy
+57628,,Plebeia,,pollinatedBy
+57628,,Cardiorhinus,,pollinatedBy
+57628,1140430,Augochlora semiramis,,pollinatedBy
+57628,,Unidentified sp19 M_PL_072_02,,pollinatedBy
+57628,,Polybia scutellaris,,pollinatedBy
+57628,,Chauliognathus scriptus,,pollinatedBy
+57628,,Chilicola,,pollinatedBy
+57628,,Unidentified sp14 M_PL_072_02,,pollinatedBy
+57628,,Unidentified sp17 M_PL_072_02,,pollinatedBy
+57628,,Unidentified sp4 M_PL_072_02,,pollinatedBy
+57628,,Unidentified sp5 M_PL_072_02,,pollinatedBy
+57628,,Unidentified sp6 M_PL_072_03,,pollinatedBy
+57628,,Tatochila autodice,,pollinatedBy
+57628,,Zeta canaliculata,,pollinatedBy
+57628,,Trichopoda giacomelli,,pollinatedBy
+57628,,Unidentified sp9 M_PL_072_03,,pollinatedBy
+57628,,Unidentified sp1 M_PL_072_03,,pollinatedBy
+57628,,Unidentified sp13 M_PL_072_03,,pollinatedBy
+57628,,Unidentified sp15 M_PL_072_03,,pollinatedBy
+57628,,Unidentified sp5 M_PL_072_03,,pollinatedBy
+57628,,Unidentified sp12 M_PL_072_03,,pollinatedBy
+57628,,Unidentified sp11 M_PL_072_03,,pollinatedBy
+57628,,Unidentified sp4 M_PL_072_03,,pollinatedBy
+57628,,Unidentified sp14 M_PL_072_01,,pollinatedBy
+57628,,Unidentified sp16 M_PL_072_01,,pollinatedBy
+57628,,Unidentified sp5 M_PL_072_01,,pollinatedBy
+57628,,Unidentified sp13 M_PL_072_01,,pollinatedBy
+57628,,Mischocyttarus drewseni,,pollinatedBy

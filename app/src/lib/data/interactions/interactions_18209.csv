@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+18209,211194,Tracheophyta,vascular plants,eats
+18209,47208,Coleoptera,Beetles,eats
+18209,47157,Lepidoptera,Butterflies and Moths,eats
+18209,47851,Quercus,oaks,eats
+18209,47852,Fagaceae,beech family,eats
+18209,47158,Insecta,Insects,eats
+18209,49567,Carabidae,Ground Beetles,eats
+18209,47179,Arctostaphylos,bearberries and manzanitas,eats
+18209,47336,Formicidae,Ants,eats
+18209,54964,Buprestidae,Metallic Wood-boring Beetles,eats
+18209,47126,Plantae,plants,eats
+18209,48736,Curculionidae,True Weevils,eats
+18209,47124,Magnoliopsida,dicots,eats
+18209,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+18209,47434,Poaceae,grasses,eats
+18209,52689,Sambucus,elders,eats
+18209,47120,Arthropoda,Arthropods,eats
+18209,69086,Lasius,Citronella Ants,eats
+18209,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+18209,47822,Diptera,Flies,eats
+18209,62781,Camponotus,Carpenter and Sugar Ants,eats
+18209,47951,Staphylinidae,Rove Beetles,eats
+18209,47850,Quercus agrifolia,coast live oak,eats
+18209,184884,Pterygota,Winged and Once-winged Insects,eats
+18209,179916,Tipulomorpha,Crane Flies,eats
+18209,53858,Solanum tuberosum,potato,eats
+18209,47561,Pinus,pines,eats
+18209,47927,Anisoptera,Dragonflies,eats
+18209,51089,Quercus wislizeni,interior live oak,eats
+18209,61524,Forficula auricularia,European Earwig,eats
+18209,,Saissetia oleae,,eats
+18209,48448,Zea mays,Maize,eats
+18209,,Aphaenogaster subterranea,,eats
+18209,,Rhynchites,,eats
+18209,,Euchelicerata,,eats
+18209,,Nectandra membranacea,,eats
+18209,,Rubus guyanensis,,eats
+18209,,Dendropanax arboreus,,eats
+18209,,Siparuna laurifolia,,eats
+18209,,Bocconia frutescens,,eats
+18209,,Antidaphne viscoidea,,eats
+18209,278746,Phoradendron chrysocladon,,eats
+18209,,Aechmea tonduzii,,eats
+18209,907389,Viburnum toronis,,eats
+18209,,Mauria heterophylla,,eats
+18209,,Huertea glandulosa,,eats
+18209,,Piper aduncum,,eats
+18209,,Clusia hydrogera,,eats
+18209,,Citharexylum subflavescens,,eats
+18209,,Croton magdalenensis,,eats
+18209,,Varronia cylindrostachya,,eats
+18209,,Psychotria areolata,,eats
+18209,,Palicourea angustifolia,,eats
+18209,,Guatteria pilosula,,eats
+18209,291911,Myrsine guianensis,rapanca,eats
+18209,,Tournefortia scabrida,,eats
+18209,,Phytolacca rivinoides,,eats
+18209,,Palicourea thyrsiflora,,eats
+18209,,Miconia caudata,,eats
+18209,,Faramea oblongifolia,,eats
+18209,,Anthurium sanguineum,,eats
+18209,,Meliosma boliviensis,,eats
+18209,,Schefflera ferruginea,,eats
+18209,,Hieronyma duquei,,eats
+18209,,Ardisia sapida,,eats
+18209,,Guettarda crispiflora,,eats
+18209,,Alchornea grandiflora,,eats
+18209,,Matayba elegans,,eats
+18209,,Geonoma undata,,eats
+18209,,Cavendishia axillaris,,eats
+18209,851902,Hedyosmum bonplandianum,,eats
+18209,,Chamaedorea pinnatifrons,,eats
+18209,,Saurauia brachybotrys,,eats
+18209,,Guarea kunthiana,,eats
+18209,,Oreopanax incisus,,eats
+18209,,Chamaedorea linearis,,eats
+18209,,Mollinedia tomentosa,,eats
+18209,896113,Cayaponia tubulosa,,eats
+18209,,Ficus americana,,eats
+18209,,Prestoea acuminata,,eats
+18209,,Aegiphila mollis,,eats
+18209,,Miconia lehmannii,,eats
+18209,,Cestrum schlechtendahlii,,eats
+18209,,Morella pubescens,,eats
+18209,283986,Morus insignis,,eats
+18209,,Solanum sycophanta,,eats
+18209,,Trema micrantha,,eats
+18209,,Prunus integrifolia,,eats
+18209,,Cecropia telealba,,eats
+18209,1013141,Ocotea insularis,,eats
+18209,,Peristethium archeri,,eats
+18209,,Toxicodendron striatum,,eats
+18209,,Solanum aphyodendron,,eats
+18209,,Miconia ceramicarpa,,eats
+18209,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+18209,20044,Bubo virginianus,Great Horned Owl,eatenBy
+18209,4645,Falco femoralis,Aplomado Falcon,eatenBy
+18209,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+18209,184884,Pterygota,Winged and Once-winged Insects,preysOn
+18209,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+18209,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy

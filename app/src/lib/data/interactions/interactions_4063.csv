@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4063,85532,Mysida,Opossum Shrimps,eats
+4063,48921,Hydrozoa,Hydrozoans,eats
+4063,195134,Euphausiidae,Euphotic Krill,eats
+4063,195136,Euphausia,,eats
+4063,,Theragra chalcogramma,,eats
+4063,91362,Protomyctophum,,eats
+4063,180029,Gadus macrocephalus,Pacific Cod,eats
+4063,,Gammaridea,,eats
+4063,,Detritus complex,,eats
+4063,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4063,165100,Mallotus villosus,Capelin,eats
+4063,195087,Thysanoessa inermis,,eats
+4063,64450,Sebastes alutus,Pacific Ocean Perch,eats
+4063,,Thysanoessa longipes,,eats
+4063,372878,Hyperiidea,,eats
+4063,329000,Thysanoessa raschii,,eats
+4063,567075,Neocalanus cristatus,,eats
+4063,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4063,51353,Anoplopoma fimbria,Sablefish,eats
+4063,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4063,42054,Vulpes,Typical Foxes,eatenBy
+4063,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4063,20315,Asio flammeus,Short-eared Owl,eatenBy
+4063,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4063,204533,Larus argentatus,Herring Gull,eatenBy
+4063,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+4063,144594,Bubo scandiacus,Snowy Owl,eatenBy

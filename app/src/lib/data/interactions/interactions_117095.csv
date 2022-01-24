@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117095,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+117095,58732,Toxicodendron radicans,poison ivy,eats
+117095,118903,Termitoidae,Termites,eats
+117095,889256,Sempervivoideae,,eats
+117095,53398,Eucalyptus globulus,Eurabbie,eats
+117095,47158,Insecta,Insects,eats
+117095,78751,Prosopis velutina,velvet mesquite,eats
+117095,72232,Melaleuca,bottlebrushes,eats
+117095,184884,Pterygota,Winged and Once-winged Insects,eats
+117095,71400,Asphodelaceae,asphodels,eats
+117095,47119,Arachnida,Arachnids,eats
+117095,63379,Acacia longifolia,longleaf wattle,eats
+117095,52381,Aphididae,Aphids,eats
+117095,71956,Aloe,Aloes,eats
+117095,,Chasmanthe,,eats
+117095,,Callistemon citrinus,,eats
+117095,,Aloe arborescens,,eats
+117095,,Asphodeloideae,,eats
+117095,4672,Falco columbarius,Merlin,eatenBy
+117095,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+117095,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+117095,47158,Insecta,Insects,preysOn
+117095,71154,Aphis nerii,Oleander Aphid,preysOn

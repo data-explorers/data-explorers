@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69143,13094,Erithacus rubecula,European Robin,eatenBy
+69143,,Eciton mexicanum,,preyedUponBy
+69143,153855,Tibellus oblongus,Oblong Running Spider,preyedUponBy
+69143,894926,Dioctria bicincta,,preyedUponBy

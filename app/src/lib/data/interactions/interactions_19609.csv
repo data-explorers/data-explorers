@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+19609,47158,Insecta,Insects,eats
+19609,47208,Coleoptera,Beetles,eats
+19609,47157,Lepidoptera,Butterflies and Moths,eats
+19609,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+19609,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+19609,19975,Athene cunicularia,Burrowing Owl,eatenBy

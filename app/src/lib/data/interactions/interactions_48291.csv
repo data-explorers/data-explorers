@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48291,47170,Fungi,Fungi Including Lichens,eats
+48291,67333,Bacteria,bacteria,eats
+48291,,mykorrhiza,,eats
+48291,,leaf litter,,eats
+48291,,saphrophytes,,eats
+48291,47367,Opiliones,Harvestmen,eatenBy
+48291,47383,Latrodectus geometricus,Brown Widow,eatenBy
+48291,118706,Gobius paganellus,Rock Goby,eatenBy
+48291,36427,Anolis gundlachi,Gundlach’s Anole,eatenBy
+48291,22423,Eleutherodactylus richmondi,Ground Coqui,eatenBy
+48291,,Eleutherodactylus coqui,,eatenBy
+48291,1120226,Sphaerodactylus macrolepis,,eatenBy
+48291,33730,Sphaerodactylus klauberi,Puerto Rican Upland Sphaero,eatenBy
+48291,22411,Eleutherodactylus portoricensis,Forest Coqui,eatenBy
+48291,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+48291,22979,Leptodactylus albilabris,Caribbean White-lipped Frog,eatenBy
+48291,931,Lagopus lagopus,Willow Ptarmigan,eatenBy
+48291,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+48291,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+48291,,Geophilus ribauti,,preyedUponBy
+48291,131980,Trechus,,preyedUponBy
+48291,131009,Calathus melanocephalus,,preyedUponBy
+48291,537133,Lithobius crassipes,,preyedUponBy
+48291,230519,Schendyla nemorensis,,preyedUponBy
+48291,,Lithobius,,preyedUponBy
+48291,521083,Strigamia acuminata,,preyedUponBy
+48291,739596,Lithobius mutabilis,,preyedUponBy
+48291,,Cochlodryas,,preyedUponBy

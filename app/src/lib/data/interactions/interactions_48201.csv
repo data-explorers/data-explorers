@@ -1,0 +1,181 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48201,40151,Mammalia,Mammals,eats
+48201,,bovine or equine dung,,eats
+48201,,roots,,eats
+48201,,root exudates,,eats
+48201,,mammal carcass,,eats
+48201,3,Aves,Birds,eatenBy
+48201,1986,Geococcyx californianus,Greater Roadrunner,eatenBy
+48201,67706,Argiope argentata,Silver Garden Orbweaver,eatenBy
+48201,12727,Turdus migratorius,American Robin,eatenBy
+48201,8021,Corvus brachyrhynchos,American Crow,eatenBy
+48201,12937,Sialia mexicana,Western Bluebird,eatenBy
+48201,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+48201,12890,Catharus guttatus,Hermit Thrush,eatenBy
+48201,20044,Bubo virginianus,Great Horned Owl,eatenBy
+48201,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+48201,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+48201,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+48201,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+48201,13858,Passer domesticus,House Sparrow,eatenBy
+48201,17355,Vireo,Vireos,eatenBy
+48201,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48201,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+48201,14850,Sturnus vulgaris,European Starling,eatenBy
+48201,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+48201,17009,Sayornis saya,Say's Phoebe,eatenBy
+48201,20445,Tyto alba,Barn Owl,eatenBy
+48201,12901,Catharus fuscescens,Veery,eatenBy
+48201,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+48201,11867,Progne subis,Purple Martin,eatenBy
+48201,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+48201,7998,Corvus,Crows and Ravens,eatenBy
+48201,8229,Cyanocitta cristata,Blue Jay,eatenBy
+48201,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+48201,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+48201,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+48201,12942,Sialia sialis,Eastern Bluebird,eatenBy
+48201,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+48201,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+48201,7294,Eremophila alpestris,Horned Lark,eatenBy
+48201,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+48201,15256,Chamaea fasciata,Wrentit,eatenBy
+48201,118597,Belone belone,Garfish,eatenBy
+48201,,Mus sp.,,eatenBy
+48201,,Northern myotis,,eatenBy
+48201,,Little brown myotis,,eatenBy
+48201,84282,Solpugidae,,eatenBy
+48201,,Typhlosaurus,,eatenBy
+48201,116845,Calyptorhynchus funereus,Yellow-tailed Black-Cockatoo,eatenBy
+48201,56552,Carabus nemoralis,Bronze Ground Beetle,eatenBy
+48201,18584,Pteroglossus torquatus,Collared Aracari,eatenBy
+48201,17943,Dendrocopos leucotos,White-backed Woodpecker,eatenBy
+48201,12716,Turdus merula,Eurasian Blackbird,eatenBy
+48201,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+48201,,spiders - solpugids - scorpions,,eatenBy
+48201,51333,Macquaria australasica,Macquarie Perch,eatenBy
+48201,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+48201,,Caprimulgus vociferus,,eatenBy
+48201,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48201,,Salpinctes obsoletus,,eatenBy
+48201,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+48201,9609,Quiscalus niger,Greater Antillean Grackle,eatenBy
+48201,16602,Empidonax minimus,Least Flycatcher,eatenBy
+48201,145236,Setophaga castanea,Bay-breasted Warbler,eatenBy
+48201,,Wilsonia canadensis,,eatenBy
+48201,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+48201,19975,Athene cunicularia,Burrowing Owl,eatenBy
+48201,4645,Falco femoralis,Aplomado Falcon,eatenBy
+48201,17408,Vireo griseus,White-eyed Vireo,eatenBy
+48201,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+48201,17394,Vireo gilvus,Warbling Vireo,eatenBy
+48201,,Vireo flavifrons,,eatenBy
+48201,4512,Chlidonias niger,Black Tern,eatenBy
+48201,12951,Myadestes townsendi,Townsend's Solitaire,eatenBy
+48201,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+48201,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+48201,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+48201,,Picoides villosus,,eatenBy
+48201,,Setophaga pinus,,eatenBy
+48201,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+48201,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+48201,13732,Anthus rubescens,American Pipit,eatenBy
+48201,558512,Lanius borealis,Northern Shrike,eatenBy
+48201,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+48201,11941,Riparia riparia,Bank Swallow,eatenBy
+48201,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+48201,,Corvus caurinus,,eatenBy
+48201,19577,Chordeiles minor,Common Nighthawk,eatenBy
+48201,199833,Antrostomus carolinensis,Chuck-will's-widow,eatenBy
+48201,9800,Coccothraustes vespertinus,Evening Grosbeak,eatenBy
+48201,6667,Cypseloides niger,Black Swift,eatenBy
+48201,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+48201,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+48201,3962,Bartramia longicauda,Upland Sandpiper,eatenBy
+48201,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+48201,114127,Thymallus thymallus,Grayling,eatenBy
+48201,55969,Viburnum opulus,guelder-rose,pollinates
+48201,61608,Efferia albibarbis,,preyedUponBy
+48201,49567,Carabidae,Ground Beetles,preyedUponBy
+48201,40477,Eptesicus,House Bats,preyedUponBy
+48201,41293,Tadarida,,preyedUponBy
+48201,28551,Sympholis lippiens,Mexican Short-tail Snake,preyedUponBy
+48201,332654,Parawixia dehaani,Abandoned-web Orb-weaver,preyedUponBy
+48201,,Picoides pubescens,,preyedUponBy
+48201,297889,Eriophora edax,,preyedUponBy
+48201,12024,Lanius ludovicianus,Loggerhead Shrike,preyedUponBy
+48201,126838,Eciton burchellii,,preyedUponBy
+48201,494277,Molops piceus,,preyedUponBy
+48201,521083,Strigamia acuminata,,preyedUponBy
+48201,604483,Tiphia femorata,,preyedUponBy
+48201,1018792,Tiphia minuta,,preyedUponBy
+48201,74341,Falsistrellus tasmaniensis,Eastern False Pipistrelle,preyedUponBy
+48201,75224,Vespadelus darlingtoni,Large Forest Bat,preyedUponBy
+48201,75230,Vespadelus vulturnus,Little Forest Bat,preyedUponBy
+48201,40550,Chalinolobus tuberculatus,Long-tailed Wattled Bat,preyedUponBy
+48201,41211,Mystacinidae,New Zealand Short-tailed Bats,preyedUponBy
+48201,41141,Leptonycteris,Mexican Long-nosed Bats,preyedUponBy
+48201,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy
+48201,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+48201,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+48201,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+48201,765528,Hypsugo savii,Savi's Pipistrelle,preyedUponBy
+48201,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+48201,41377,Taphozous nudiventris,Naked-rumped Tomb Bat,preyedUponBy
+48201,207811,Eptesicus serotinus,Serotine Bat,preyedUponBy
+48201,40500,Eptesicus bottae,Botta's Serotine,preyedUponBy
+48201,320633,Rhinolophus clivosus,Geoffroy's horseshoe bat,preyedUponBy
+48201,,Hypsugo bodenheimeri,,preyedUponBy
+48201,40449,Otonycteris hemprichii,Desert Long-eared Bat,preyedUponBy
+48201,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+48201,245993,Rhinopoma hardwickii,Lesser Mouse-tailed Bat,preyedUponBy
+48201,183176,Asellia tridens,Geoffroy's Trident Leaf-nosed Bat,preyedUponBy
+48201,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+48201,40719,Hipposideros diadema,Diadem Roundleaf Bat,preyedUponBy
+48201,765560,Chaerephon plicatus,Wrinkle-lipped Bat,preyedUponBy
+48201,74432,Hipposideros sorenseni,Sorensen's Leaf-nosed Bat,preyedUponBy
+48201,40746,Hipposideros speoris,Schneider's roundleaf bat,preyedUponBy
+48201,40691,Rhinolophus mehelyi,Mehely's horseshoe bat,preyedUponBy
+48201,,Plecotus auritus,,preyedUponBy
+48201,40887,Pteropus dasymallus,Ryukyu Flying Fox,preyedUponBy
+48201,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+48201,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+48201,,Pipistrellus rueppelli,,preyedUponBy
+48201,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+48201,40693,Rhinolophus simulator,Bushveld horseshoe bat,preyedUponBy
+48201,,Nycteris macrotus,,preyedUponBy
+48201,41190,Nycteris woodi,Wood's Slit-faced Bat,preyedUponBy
+48201,57534,Miniopterus schreibersii,Schreibers' Long-fingered Bat,preyedUponBy
+48201,,Hipposideros commersoni,,preyedUponBy
+48201,40761,Hipposideros caffer,Sundevall's roundleaf bat,preyedUponBy
+48201,40777,Cloeotis percivali,Percival's Trident Bat,preyedUponBy
+48201,41077,Phyllostomus discolor,pale spear-nosed bat,preyedUponBy
+48201,41137,Anoura geoffroyi,Geoffroy's tailless bat,preyedUponBy
+48201,,Artibeus lituratus,,preyedUponBy
+48201,41070,Micronycteris hirsuta,hairy big-eared bat,preyedUponBy
+48201,41254,Molossus molossus,Velvety Free-tailed Bat,preyedUponBy
+48201,,Phyllostomus hastatus,,preyedUponBy
+48201,41100,Lonchophylla dekeyseri,Dekeyser's nectar bat,preyedUponBy
+48201,41080,Phyllostomus elongatus,lesser spear-nosed bat,preyedUponBy
+48201,1150085,Myotis myotis,,preyedUponBy
+48201,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+48201,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+48201,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+48201,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy
+48201,40348,Myotis velifer,Cave Myotis,preyedUponBy
+48201,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+48201,40352,Myotis grisescens,Gray Bat,preyedUponBy
+48201,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy
+48201,40354,Myotis evotis,Miller's Myotis,preyedUponBy
+48201,40342,Myotis californicus,California Myotis,preyedUponBy
+48201,40629,Lasionycteris noctivagans,Silver-haired Bat,preyedUponBy
+48201,183164,Parastrellus hesperus,Canyon Bat,preyedUponBy
+48201,,Nyctophilus geoffroyi,,preyedUponBy
+48201,75073,Scotorepens balstoni,Western Broad-nosed Bat,preyedUponBy
+48201,40552,Chalinolobus nigrogriseus,Hoary Wattled Bat,preyedUponBy
+48201,40544,Chalinolobus gouldii,Gould's Wattled Bat,preyedUponBy
+48201,41290,Mormopterus planiceps,Southern Free-tailed Bat,preyedUponBy
+48201,41326,Macroderma gigas,Australian False Vampire Bat,preyedUponBy
+48201,,Taphozous georgianus,,preyedUponBy
+48201,40349,Myotis leibii,Eastern Small-footed Myotis,preyedUponBy
+48201,41146,Macrotus waterhousii,Waterhouse's Leaf-nosed Bat,preyedUponBy

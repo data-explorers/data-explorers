@@ -1,0 +1,135 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47649,4665,Falco sparverius,American Kestrel,eatenBy
+47649,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+47649,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+47649,17009,Sayornis saya,Say's Phoebe,eatenBy
+47649,10479,Chondestes grammacus,Lark Sparrow,eatenBy
+47649,9602,Quiscalus quiscula,Common Grackle,eatenBy
+47649,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+47649,4940,Egretta thula,Snowy Egret,eatenBy
+47649,5020,Butorides virescens,Green Heron,eatenBy
+47649,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+47649,1409,Callipepla californica,California Quail,eatenBy
+47649,17355,Vireo,Vireos,eatenBy
+47649,17356,Vireo bellii,Bell's Vireo,eatenBy
+47649,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47649,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+47649,12727,Turdus migratorius,American Robin,eatenBy
+47649,14850,Sturnus vulgaris,European Starling,eatenBy
+47649,20044,Bubo virginianus,Great Horned Owl,eatenBy
+47649,792976,Dryobates,Dryobates Woodpeckers,eatenBy
+47649,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+47649,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47649,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+47649,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47649,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+47649,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+47649,7294,Eremophila alpestris,Horned Lark,eatenBy
+47649,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+47649,508048,Antigone canadensis,Sandhill Crane,eatenBy
+47649,1959,Coccyzus,Coccyzus Cuckoos,eatenBy
+47649,12942,Sialia sialis,Eastern Bluebird,eatenBy
+47649,3894,Numenius,Curlews,eatenBy
+47649,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+47649,,North American deermouse,,eatenBy
+47649,,Mus sp.,,eatenBy
+47649,,Argiope amoena,,eatenBy
+47649,,Mantis religiosa,,eatenBy
+47649,,Aculepeira ceropegia,,eatenBy
+47649,,Triorla interrupta,,eatenBy
+47649,,Phoenicurus ochruros,,eatenBy
+47649,,Passer montanus,,eatenBy
+47649,126155,Vespula germanica,German Yellowjacket,eatenBy
+47649,,Argiope aurantia,,eatenBy
+47649,,Polioptila californica californica,,eatenBy
+47649,,Papyrocranus afer,,eatenBy
+47649,,Hepsetus odoe,,eatenBy
+47649,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+47649,,Grus canadensis,,eatenBy
+47649,51333,Macquaria australasica,Macquarie Perch,eatenBy
+47649,128750,Sciaenops ocellatus,Red Drum,eatenBy
+47649,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47649,4937,Egretta caerulea,Little Blue Heron,eatenBy
+47649,4938,Egretta tricolor,Tricolored Heron,eatenBy
+47649,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+47649,145250,Setophaga adelaidae,Adelaide's Warbler,eatenBy
+47649,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy
+47649,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+47649,,Oporornis philadelphia,,eatenBy
+47649,,Empidonax traillii,,eatenBy
+47649,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+47649,1240,Dendragapus,Blue Grouse,eatenBy
+47649,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+47649,8469,Cyanocorax cyanopogon,White-naped Jay,eatenBy
+47649,17408,Vireo griseus,White-eyed Vireo,eatenBy
+47649,,Vireo flavifrons,,eatenBy
+47649,17394,Vireo gilvus,Warbling Vireo,eatenBy
+47649,,Salpinctes obsoletus,,eatenBy
+47649,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+47649,558512,Lanius borealis,Northern Shrike,eatenBy
+47649,10487,Dolichonyx oryzivorus,Bobolink,eatenBy
+47649,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+47649,,Pooecetes gramineus,,eatenBy
+47649,,Spizella breweri,,eatenBy
+47649,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+47649,,Corvus caurinus,,eatenBy
+47649,19577,Chordeiles minor,Common Nighthawk,eatenBy
+47649,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+47649,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+47649,,Spiza americana,,eatenBy
+47649,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+47649,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+47649,4644,Falco mexicanus,Prairie Falcon,eatenBy
+47649,19975,Athene cunicularia,Burrowing Owl,eatenBy
+47649,,Cyanocorax yncas,,eatenBy
+47649,20781,Trogon elegans,Elegant Trogon,eatenBy
+47649,15990,Myiarchus tuberculifer,Dusky-capped Flycatcher,eatenBy
+47649,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+47649,9083,Cardinalis cardinalis,Northern Cardinal,preyedUponBy
+47649,42069,Vulpes vulpes,Red Fox,preyedUponBy
+47649,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+47649,200661,Coluber constrictor mormon,Western Yellow-bellied Racer,preyedUponBy
+47649,27153,Coluber constrictor flaviventris,Eastern Yellow-bellied Racer,preyedUponBy
+47649,73767,Eirenis decemlineatus,Narrow-striped Dwarf Snake,preyedUponBy
+47649,30293,Eirenis modestus,Ring-Headed Dwarf Snake,preyedUponBy
+47649,30901,Vipera ursinii,Meadow Viper,preyedUponBy
+47649,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+47649,28553,Symphimus mayae,Yucatán White-lipped Snake,preyedUponBy
+47649,,Cerrophidion tzotzilorum,,preyedUponBy
+47649,,Coluber flagellum,,preyedUponBy
+47649,332654,Parawixia dehaani,Abandoned-web Orb-weaver,preyedUponBy
+47649,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+47649,,Mantis religiosa,,preyedUponBy
+47649,,Trichonephila clavipes,,preyedUponBy
+47649,,Aculepeira ceropegia,,preyedUponBy
+47649,786758,Evarcha michailovi,,preyedUponBy
+47649,,Aelurillus m-nigrum,,preyedUponBy
+47649,,Choeradodis rhombicollis,,preyedUponBy
+47649,,Notharchus tectus,,preyedUponBy
+47649,,Passer montanus,,preyedUponBy
+47649,,Thyene imperialis,,preyedUponBy
+47649,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+47649,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47649,4643,Falco subbuteo,Eurasian Hobby,preyedUponBy
+47649,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+47649,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+47649,,Dolomedes fimbriatus,,preyedUponBy
+47649,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+47649,231469,Staphylinus erythropterus,,preyedUponBy
+47649,,Conocephalus fuscus,,preyedUponBy
+47649,,Ensifera,,preyedUponBy
+47649,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+47649,,Sarcophila latifrons,,preyedUponBy
+47649,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy
+47649,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+47649,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+47649,765560,Chaerephon plicatus,Wrinkle-lipped Bat,preyedUponBy
+47649,74432,Hipposideros sorenseni,Sorensen's Leaf-nosed Bat,preyedUponBy
+47649,40887,Pteropus dasymallus,Ryukyu Flying Fox,preyedUponBy
+47649,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+47649,41186,Nycteris grandis,Large Slit-faced Bat,preyedUponBy
+47649,41221,Pteronotus parnellii,Parnell's moustached bat,preyedUponBy
+47649,1150085,Myotis myotis,,preyedUponBy
+47649,40449,Otonycteris hemprichii,Desert Long-eared Bat,preyedUponBy
+47649,,Antrozous pallidus,,preyedUponBy
+47649,41277,Eumops perotis,Western Bonneted Bat,preyedUponBy

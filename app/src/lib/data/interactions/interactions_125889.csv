@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+125889,50829,Viola,violets,eats
+125889,5279,Harpagus,Harpagus Kites,eats
+125889,,Ageratina altissima,,eats
+125889,,Eupatorium serotinum,,eats
+125889,64109,Venegasia carpesioides,canyon sunflower,eatenBy
+125889,,Lyonia ovalifolia,,pollinates
+125889,,Silene dioica,,pollinates
+125889,122834,Nigella sativa,Nigella,pollinates

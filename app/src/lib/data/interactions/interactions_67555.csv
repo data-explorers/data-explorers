@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67555,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+67555,48645,Megathura crenulata,Giant Keyhole Limpet,eatenBy
+67555,48655,Aplysia californica,California Seahare,eatenBy
+67555,81606,Littorina littorea,Common Periwinkle,eatenBy
+67555,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+67555,210294,Lipophrys pholis,Shanny,eatenBy
+67555,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,eatenBy
+67555,81963,Girella nigricans,Opaleye,eatenBy
+67555,615594,Kyphosus azureus,Zebra-perch Sea Chub,eatenBy
+67555,51354,Girella cyanea,Blue Drummer,eatenBy
+67555,132397,Kyphosus bigibbus,Grey Drummer,eatenBy
+67555,179833,Lytechinus anamesus,white sea urchin,eatenBy
+67555,105388,Medialuna californiensis,Halfmoon,eatenBy
+67555,482656,Akera bullata,Thin Bubble-shell,eatenBy
+67555,,Patina pellucida,,eatenBy
+67555,,Hyale prevostii,,eatenBy
+67555,,Asterina gibbosa,,eatenBy
+67555,118657,Pagellus bogaraveo,Blackspot Seabream,eatenBy
+67555,48397,Raja clavata,Thornback Skate,eatenBy
+67555,97345,Chelon labrosus,thicklip grey mullet,eatenBy
+67555,324537,Maja squinado,European Spider Crab,eatenBy
+67555,118600,Sardina pilchardus,European Sardine,eatenBy
+67555,118851,Crangon crangon,Brown Shrimp,eatenBy
+67555,430553,Merlangius merlangus,Whiting,eatenBy
+67555,552295,Gammarellus angulosus,,eatenBy
+67555,,Gobius couchi,,eatenBy
+67555,118698,Thorogobius ephippiatus,Leopard-spotted Goby,eatenBy
+67555,,Psetta maxima,,eatenBy
+67555,210280,Psammechinus miliaris,Green Sea Urchin,eatenBy
+67555,118685,Parablennius gattorugine,Tompot Blenny,eatenBy
+67555,527655,Liocarcinus navigator,Arch-fronted Swimming Crab,eatenBy
+67555,118619,Mullus surmuletus,Striped Red Mullet,eatenBy
+67555,338037,Galathea strigosa,Spiny Squat lobster,eatenBy
+67555,,Apherusa jurinei,,eatenBy
+67555,,Echinus esculentus,,eatenBy
+67555,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+67555,103911,Labrus bergylta,Ballan Wrasse,eatenBy
+67555,388952,Elysia maoria,,eatenBy
+67555,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+67555,48645,Megathura crenulata,Giant Keyhole Limpet,preyedUponBy
+67555,48655,Aplysia californica,California Seahare,preyedUponBy
+67555,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+67555,,Norrisia norrisi,,preyedUponBy
+67555,81963,Girella nigricans,Opaleye,preyedUponBy
+67555,179833,Lytechinus anamesus,white sea urchin,preyedUponBy
+67555,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy

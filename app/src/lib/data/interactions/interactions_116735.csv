@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+116735,62978,Chlosyne nycteis,Silvery Checkerspot,eatenBy
+116735,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+116735,,Epiblema carolinana,,eatenBy
+116735,,Charidryas,,eatenBy
+116735,,Melanchra persicariae,,eatenBy
+116735,,Physocephala tibialis,,eatenBy
+116735,,Eremnophila aureonotata,,eatenBy
+116735,340742,Sphex nudus,Katydid Wasp,eatenBy
+116735,,Lygaeus turcicus,,eatenBy
+116735,,Asphondylia ratibidae,,eatenBy
+116735,,Asphondylia rudbeckiaeconspicua,,eatenBy
+116735,,Uroleucon rudbeckiae,,eatenBy
+116735,133765,Eumenes fraternus,Fraternal Potter Wasp,pollinatedBy
+116735,130131,Ectemnius,,pollinatedBy
+116735,119074,Chlorion,,pollinatedBy
+116735,556258,Chelostomoides,,pollinatedBy
+116735,47822,Diptera,Flies,pollinatedBy
+116735,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+116735,61356,Vespula,Ground Yellowjackets,pollinatedBy
+116735,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+116735,47208,Coleoptera,Beetles,pollinatedBy
+116735,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+116735,47653,Hesperiidae,Skippers,pollinatedBy
+116735,,Formica rufibarbis,,pollinatedBy
+116735,,Morellia micans,,pollinatedBy
+116735,,Pachyophthalmus,,pollinatedBy
+116735,,Phytomyza,,pollinatedBy
+116735,,Cryptocheilus,,pollinatedBy
+116735,,Pseudopanurgus,,pollinatedBy
+116735,,Scolia nobilitata,,pollinatedBy
+116735,,Machaeris,,pollinatedBy
+116735,,http://treatment.plazi.org/id/C4980AEB0983855F5668B5045CA0789C,,pollinatedBy
+116735,,Aldrichia ehrmanii,,pollinatedBy
+116735,,Anoplius illinoensis,,pollinatedBy
+116735,,Holonomada,,pollinatedBy
+116735,,Polygonia interrogationis,,pollinatedBy
+116735,,Phasia aldrichii,,pollinatedBy
+116735,,Tetrachrysis,,pollinatedBy
+116735,,Gnathias,,pollinatedBy
+116735,,Epistrophe emarginata,,pollinatedBy
+116735,,Andrena pruni,,pollinatedBy
+116735,,Phor,,pollinatedBy
+116735,,Ceropales,,pollinatedBy
+116735,,Sphecodium,,pollinatedBy
+116735,,Isodontia apicalis,,pollinatedBy
+116735,,Holandrena,,pollinatedBy
+116735,,Pseudopanurgus compositarum,,pollinatedBy
+116735,,http://treatment.plazi.org/id/0392879B735AAB0843D5FAE4FB6FF9B8,,pollinatedBy
+116735,1029923,Eucera belfragei,,pollinatedBy
+116735,,Vanessa atalanta ,,pollinatedBy

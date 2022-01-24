@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+6989,47114,Gastropoda,Gastropods,eats
+6989,48173,Pagurus,,eats
+6989,49282,Sabellidae,Feather Duster Worms,eats
+6989,63089,Clitellata,Clitellates,eats
+6989,48919,Littorina,Periwinkles,eats
+6989,53830,Trochidae,Top Snails,eats
+6989,48174,Paguridae,Pagurid Hermit Crabs,eats
+6989,47827,Cancer,,eats
+6989,63243,Lottia pelta,Shield Limpet,eats
+6989,81610,Balanus glandula,Pacific Acorn Barnacle,eats
+6989,6989,Bucephala,Goldeneyes and Bufflehead,eats
+6989,49581,Nereididae,,eats
+6989,62807,Mytilus,Black Mussels,eats
+6989,81636,Mya,,eats
+6989,85532,Mysida,Opossum Shrimps,eats
+6989,122039,Argopecten irradians,Atlantic Bay Scallop,eats
+6989,,Mangelia plicosa,,eats
+6989,83329,Buccinidae,True Whelks,eats
+6989,129948,Lacuna,Lacuna Snails,eats
+6989,,Gammaridea,,eats
+6989,71252,Macoma,,eats
+6989,,Synisoma,,eats
+6989,,Detritus complex,,eats
+6989,117571,Clupea pallasii,Pacific herring,eats
+6989,171917,Musculus,,eats
+6989,,Nuculidae,,eats
+6989,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+6989,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+6989,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+6989,144594,Bubo scandiacus,Snowy Owl,eatenBy
+6989,,Aquila chrysaetos,,eatenBy

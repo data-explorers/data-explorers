@@ -1,0 +1,106 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53359,53359,Baccharis pilularis,coyote brush,eats
+53359,24254,Pseudacris cadaverina,California Tree Frog,eats
+53359,55517,Gnorimoschema baccharisella,Coyote Brush Stem Gall Moth,eatenBy
+53359,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+53359,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+53359,7266,Psaltriparus minimus,Bushtit,eatenBy
+53359,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+53359,47219,Apis mellifera,Western Honey Bee,eatenBy
+53359,153887,Polistes aurifer,Golden Paper Wasp,eatenBy
+53359,59194,Ochlodes sylvanoides,Woodland Skipper,eatenBy
+53359,1267536,Tharsalea helloides,Purplish Copper,eatenBy
+53359,1021509,Junonia grisea,Gray Buckeye,eatenBy
+53359,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+53359,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+53359,48549,Vanessa virginiensis,American Lady,eatenBy
+53359,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,eatenBy
+53359,469063,Palpada alhambra,Single-banded Plushback,eatenBy
+53359,53843,Brephidium exilis,Western Pygmy-Blue,eatenBy
+53359,50931,Strymon melinus,Gray Hairstreak,eatenBy
+53359,133761,Villa lateralis,,eatenBy
+53359,48662,Danaus plexippus,Monarch,eatenBy
+53359,128824,Lucilia sericata,Common European Greenbottle Fly,eatenBy
+53359,67560,Adelpha californica,California Sister,eatenBy
+53359,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+53359,128845,Copestylum mexicanum,Mexican Cactus Fly,eatenBy
+53359,740096,Fazia micrura,Diamond Spottail,eatenBy
+53359,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+53359,58532,Colias eurytheme,Orange Sulphur,eatenBy
+53359,55626,Pieris rapae,Cabbage White,eatenBy
+53359,1102259,Copestylum violaceum,,eatenBy
+53359,48548,Vanessa cardui,Painted Lady,eatenBy
+53359,84640,Polistes dominula,European Paper Wasp,eatenBy
+53359,119561,Helophilus fasciatus,Narrow-headed Marsh Fly,eatenBy
+53359,300661,Vespula sulphurea,California Yellowjacket,eatenBy
+53359,55698,Rhopalomyia californica,Coyote Brush Bud Gall Midge,eatenBy
+53359,123045,Puccinia evadens,coyote brush rust,eatenBy
+53359,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+53359,1081332,Lon melane,Umber Skipper,eatenBy
+53359,53072,Bembix americana,American Sand Wasp,eatenBy
+53359,119733,Dasymutilla aureola,Pacific Velvet Ant,eatenBy
+53359,128712,Coccinella californica,California Lady Beetle,eatenBy
+53359,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+53359,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+53359,338310,Allograpta exotica,Exotic Streaktail,eatenBy
+53359,127741,Colletes,Cellophane Bees,eatenBy
+53359,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+53359,222681,Lasioglossum sisymbrii,,eatenBy
+53359,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+53359,56756,Murgantia histrionica,Harlequin Bug,eatenBy
+53359,82525,Augochlorella pomoniella,Peridot Sweat Bee,eatenBy
+53359,50786,Vanessa annabella,West Coast Lady,eatenBy
+53359,52965,Sphaerophoria,Globetails,eatenBy
+53359,52775,Bombus,Bumble Bees,eatenBy
+53359,68165,Linepithema humile,Argentine Ant,eatenBy
+53359,49133,Vanessa atalanta,Red Admiral,eatenBy
+53359,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+53359,53359,Baccharis pilularis,coyote brush,eatenBy
+53359,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+53359,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+53359,69145,Coenonympha california,Common Ringlet,eatenBy
+53359,59195,Lerodea eufala,Eufala Skipper,eatenBy
+53359,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+53359,51493,Trimerotropis pallidipennis,Pallid-winged Grasshopper,eatenBy
+53359,57665,Cotinis mutabilis,Figeater Beetle,eatenBy
+53359,,Argyrotaenia franciscana,,eatenBy
+53359,,Saphenista,,eatenBy
+53359,,Oidaematophorus,,eatenBy
+53359,,Phymatopus californicus,,eatenBy
+53359,,Coleotechnites bacchariella,,eatenBy
+53359,,Bucculatrix dominatrix,,eatenBy
+53359,520456,Icaricia acmon,Acmon Blue,eatenBy
+53359,,Eristalinus aeneus,,eatenBy
+53359,,Phyciodes mylitta,,eatenBy
+53359,55719,Eristalis tenax,Common Drone Fly,eatenBy
+53359,,Dolichovespula maculata,,eatenBy
+53359,,Atalopedes campestris,,eatenBy
+53359,,Atlides halesus,,eatenBy
+53359,,Cupido amyntula,,eatenBy
+53359,,Eristalis hirta,,eatenBy
+53359,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+53359,425250,Eristalis stipator,Yellow-shouldered Drone Fly,eatenBy
+53359,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+53359,,Coenonympha california california,,eatenBy
+53359,,Aceria baccharipha,,eatenBy
+53359,371939,Plaumannimyia flava,,eatenBy
+53359,,Calycomyza humeralis,,eatenBy
+53359,,Thereva fucata,,eatenBy
+53359,,Asemosyrphus polygrammus,,eatenBy
+53359,,Burnsius communis,,eatenBy
+53359,,Spilomyia interrupta,,eatenBy
+53359,,Ferdinandea croesus,,eatenBy
+53359,210423,Callophrys viridis,Coastal Green Hairstreak,eatenBy
+53359,,Trirhabda flavolimbata,,eatenBy
+53359,,Callimoxys fuscipennis,,eatenBy
+53359,,Paradejeania rutilioides,,eatenBy
+53359,,Helophilus latifrons,,eatenBy
+53359,,Isodontia mexicana,,eatenBy
+53359,,Polistes dorsalis californicus,,eatenBy
+53359,322368,Syrphus opinator,Black-margined Flower Fly,eatenBy
+53359,,Myathropa florea,,eatenBy
+53359,,Vespula alascensis,,eatenBy
+53359,,Nyctiphalerus vermiculosus,,eatenBy
+53359,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+53359,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+53359,,Apodemia mormo,,pollinatedBy

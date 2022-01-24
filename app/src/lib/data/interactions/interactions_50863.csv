@@ -1,0 +1,101 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50863,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+50863,121643,Copepoda,Copepods,eatenBy
+50863,53275,Chironomidae,Non-biting Midges,eatenBy
+50863,118994,Hemerobius,,eatenBy
+50863,47186,Decapoda,Decapods,eatenBy
+50863,58648,Fundulus,Typical Killifishes,eatenBy
+50863,47549,Echinodermata,Echinoderms,eatenBy
+50863,48918,Littorinidae,Periwinkle Snails,eatenBy
+50863,132473,Lagodon rhomboides,Pinfish,eatenBy
+50863,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+50863,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+50863,6930,Anas platyrhynchos,Mallard,eatenBy
+50863,118996,Ciliophora,Ciliates,eatenBy
+50863,48394,Gymnolaemata,,eatenBy
+50863,51200,Hippolytidae,Hump-backed Shrimps,eatenBy
+50863,69926,Clinocardium,,eatenBy
+50863,48919,Littorina,Periwinkles,eatenBy
+50863,130225,Dinophyceae,,eatenBy
+50863,126967,Pyura,Red-baits,eatenBy
+50863,333586,Oligochaeta,Earthworms and allies,eatenBy
+50863,3954,Limosa fedoa,Marbled Godwit,eatenBy
+50863,7089,Branta canadensis,Canada Goose,eatenBy
+50863,47188,Pachygrapsus crassipes,Striped Shore Crab,eatenBy
+50863,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+50863,7086,Branta,Black Geese,eatenBy
+50863,6921,Cygnus olor,Mute Swan,eatenBy
+50863,62984,Aedes albopictus,Asian Tiger Mosquito,eatenBy
+50863,228827,Prosimulium fuscum,Dusky Black Fly,eatenBy
+50863,228829,Prosimulium mixtum,Mixed-up Black Fly,eatenBy
+50863,,Dryops auriculatus,,eatenBy
+50863,487130,Orchesella villosa,,eatenBy
+50863,,Baetis,,eatenBy
+50863,174215,Cloeon,Double-gilled Pond Creepers,eatenBy
+50863,482032,Centroptilum luteolum,Small Spurwing,eatenBy
+50863,495885,Cloeon cognatum,,eatenBy
+50863,482029,Baetis rhodani,Large Dark Olive,eatenBy
+50863,1112069,Aedes communis,,eatenBy
+50863,203376,Scutigerella immaculatus,Garden Symphylan,eatenBy
+50863,97345,Chelon labrosus,thicklip grey mullet,eatenBy
+50863,495454,Chloroperla,,eatenBy
+50863,63165,Simulium,,eatenBy
+50863,173195,Amphinemura,,eatenBy
+50863,88985,Hydropsyche,,eatenBy
+50863,247963,Dicranota,,eatenBy
+50863,451393,Sericostoma personatum,Welshman's Button Caddisfly,eatenBy
+50863,482069,Leuctra geniculata,Willow Fly,eatenBy
+50863,498591,Leuctra fusca,Late Needle Fly,eatenBy
+50863,120561,Cricotopus,,eatenBy
+50863,416811,Odontocerum albicorne,Silver Sedge,eatenBy
+50863,247740,Pentaneura,,eatenBy
+50863,,Paraneetroplus maculicauda,,eatenBy
+50863,,Dicrotendipes,,eatenBy
+50863,177790,Homoplectra,homoplectran caddisflies,eatenBy
+50863,,Tallaperla,,eatenBy
+50863,177460,Leuctra,,eatenBy
+50863,218893,Ectopria nervosa,,eatenBy
+50863,129408,Chironomini,,eatenBy
+50863,88680,Gyraulus,Gyro Snails,eatenBy
+50863,489804,Hexatomini,,eatenBy
+50863,,Lumbriculiid type II,,eatenBy
+50863,377710,Pirara,,eatenBy
+50863,47595,Scirtidae,Marsh Beetles,eatenBy
+50863,385833,Aoteapsyche colonica,Common Net-building Caddisfly,eatenBy
+50863,,Helicopsyche albescens,,eatenBy
+50863,385846,Aoteapsyche raruraru,,eatenBy
+50863,390755,Hydora nitida,,eatenBy
+50863,,Austroperla cyrene,,eatenBy
+50863,345996,Tanytarsini,,eatenBy
+50863,374171,Nothodixa,,eatenBy
+50863,129201,Potamopyrgus antipodarum,New Zealand Mudsnail,eatenBy
+50863,,Hydrobia,,eatenBy
+50863,376157,Deleatidium,Suckergilled Mayflies,eatenBy
+50863,377529,Paralimnophora,,eatenBy
+50863,408499,Coloburiscus humeralis,Spinygilled Mayfly,eatenBy
+50863,489802,Eriopterini,,eatenBy
+50863,388484,Deleatidium lillii,,eatenBy
+50863,399127,Zelandoperla fenestrata,,eatenBy
+50863,,Heliodidae,,eatenBy
+50863,,Stictocladius,,eatenBy
+50863,378647,Zelandobius,,eatenBy
+50863,176380,Eukiefferiella,,eatenBy
+50863,210219,Necora puber,Velvet Swimming Crab,eatenBy
+50863,,Protonemeura,,eatenBy
+50863,,Cladocera,,eatenBy
+50863,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+50863,,Yabby,,eatenBy
+50863,,Rainbowfish,,eatenBy
+50863,,Bony Bream,,eatenBy
+50863,368294,Leiopotherapon unicolor,Spangled Perch,eatenBy
+50863,,European Carp,,eatenBy
+50863,58612,Carassius auratus,Goldfish,eatenBy
+50863,619028,Apareiodon ibitiensis,,eatenBy
+50863,105832,Microspathodon dorsalis,Giant Damselfish,eatenBy
+50863,114230,Tor putitora,Golden Mahseer,eatenBy
+50863,101598,Gobiocichla ethelwynnae,,eatenBy
+50863,446469,Scartella emarginata,maned blenny,eatenBy
+50863,112718,Skiffia francesae,Golden Skiffia,eatenBy
+50863,613350,Pethia cumingii,,eatenBy
+50863,91684,Rhabdosargus,Stumpnoses,eatenBy
+50863,49306,Stegastes,Gregories,eatenBy

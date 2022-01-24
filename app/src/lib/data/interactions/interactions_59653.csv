@@ -1,0 +1,66 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59653,47158,Insecta,Insects,eats
+59653,174572,Callibaetis,Speckled Duns,eats
+59653,53275,Chironomidae,Non-biting Midges,eats
+59653,59653,Gerridae,Water Striders,eats
+59653,84670,Ephydridae,Shore Flies,eats
+59653,,carrion,,eats
+59653,,Gregarinidae,,eats
+59653,69803,Ceratopogonidae,Biting Midges,eats
+59653,51679,Coenagrion,Northern Bluets,eats
+59653,,Lestes,,eats
+59653,64970,Anaxyrus boreas,Western Toad,eatenBy
+59653,59653,Gerridae,Water Striders,eatenBy
+59653,27818,Taricha torosa,California Newt,eatenBy
+59653,473,Fulica americana,American Coot,eatenBy
+59653,67731,Anax junius,Common Green Darner,eatenBy
+59653,52864,Tramea,Saddlebag Gliders,eatenBy
+59653,11901,Hirundo rustica,Barn Swallow,eatenBy
+59653,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+59653,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+59653,11867,Progne subis,Purple Martin,eatenBy
+59653,4940,Egretta thula,Snowy Egret,eatenBy
+59653,144455,Ardea alba,Great Egret,eatenBy
+59653,4209,Podiceps auritus,Horned Grebe,eatenBy
+59653,368117,Melanotaenia splendida,Eastern Rainbowfish,eatenBy
+59653,93797,Ambassis agassizii,Agassiz's Glassfish,eatenBy
+59653,202152,Toxotes chatareus,Sevenspot Archerfish,eatenBy
+59653,67016,Rana draytonii,California Red-legged Frog,eatenBy
+59653,,Lestes,,eatenBy
+59653,56557,Notonecta,Milky Backswimmers,eatenBy
+59653,51679,Coenagrion,Northern Bluets,eatenBy
+59653,24259,Pseudacris regilla,Northern Pacific Tree Frog,eatenBy
+59653,121463,Arrenurus,Water Mites,eatenBy
+59653,608771,Atherinella brasiliensis,,eatenBy
+59653,4059,Pterodroma alba,Phoenix Petrel,eatenBy
+59653,5017,Bubulcus ibis,Cattle Egret,eatenBy
+59653,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+59653,4938,Egretta tricolor,Tricolored Heron,eatenBy
+59653,84670,Ephydridae,Shore Flies,preysOn
+59653,53275,Chironomidae,Non-biting Midges,preysOn
+59653,59653,Gerridae,Water Striders,preysOn
+59653,174572,Callibaetis,Speckled Duns,preysOn
+59653,,Lestes,,preysOn
+59653,51679,Coenagrion,Northern Bluets,preysOn
+59653,69803,Ceratopogonidae,Biting Midges,preysOn
+59653,225626,Neogerris hesione,,preysOn
+59653,113507,Sympetrum fonscolombii,Nomad,preysOn
+59653,117294,Sympetrum flaveolum,Yellow-winged Darter,preysOn
+59653,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+59653,473,Fulica americana,American Coot,preyedUponBy
+59653,11935,Tachycineta bicolor,Tree Swallow,preyedUponBy
+59653,27818,Taricha torosa,California Newt,preyedUponBy
+59653,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+59653,59653,Gerridae,Water Striders,preyedUponBy
+59653,52864,Tramea,Saddlebag Gliders,preyedUponBy
+59653,67731,Anax junius,Common Green Darner,preyedUponBy
+59653,11901,Hirundo rustica,Barn Swallow,preyedUponBy
+59653,56557,Notonecta,Milky Backswimmers,preyedUponBy
+59653,51679,Coenagrion,Northern Bluets,preyedUponBy
+59653,,Pseudiacris regilla,,preyedUponBy
+59653,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+59653,74711,Myotis macropus,Large-footed Myotis,preyedUponBy
+59653,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy
+59653,93797,Ambassis agassizii,Agassiz's Glassfish,preyedUponBy
+59653,202152,Toxotes chatareus,Sevenspot Archerfish,preyedUponBy
+59653,,Lestes,,preyedUponBy

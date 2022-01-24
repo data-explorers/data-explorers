@@ -1,0 +1,95 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4385,3,Aves,Birds,eats
+4385,40151,Mammalia,Mammals,eats
+4385,47178,Actinopterygii,Ray-finned Fishes,eats
+4385,47158,Insecta,Insects,eats
+4385,47120,Arthropoda,Arthropods,eats
+4385,85493,Crustacea,Crustaceans,eats
+4385,48460,Life,,eats
+4385,47459,Cephalopoda,Cephalopods,eats
+4385,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+4385,,Anas americana,,eats
+4385,7056,Aythya americana,Redhead,eats
+4385,,Detritus,,eats
+4385,1077571,Cirrula hians,Mono Lake Alkali Fly,eats
+4385,,Ephydra gracilis,,eats
+4385,79312,Tagetes erecta,Mexican marigold,eats
+4385,,Anostraca,,eats
+4385,,others,,eats
+4385,,Gnathostomata,,eats
+4385,,Others,,eats
+4385,,Pisces,,eats
+4385,41770,Mustelidae,Mustelids,eatenBy
+4385,41777,Lontra canadensis,North American River Otter,eatenBy
+4385,44185,Muridae,Old World Mice and Rats,eatenBy
+4385,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4385,20044,Bubo virginianus,Great Horned Owl,eatenBy
+4385,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+4385,4343,Larus,Large White-headed Gulls,eatenBy
+4385,42069,Vulpes vulpes,Red Fox,eatenBy
+4385,41663,Procyon lotor,Common Raccoon,eatenBy
+4385,7089,Branta canadensis,Canada Goose,eatenBy
+4385,4644,Falco mexicanus,Prairie Falcon,eatenBy
+4385,204533,Larus argentatus,Herring Gull,eatenBy
+4385,,Aquila chrysaetos,,eatenBy
+4385,,Pituophis melanoleucus,,eatenBy
+4385,,Canis lupus familiaris,,eatenBy
+4385,55387,Esox lucius,Northern Pike,eatenBy
+4385,54960,Nematoda,Nematodes,preysOn
+4385,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+4385,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+4385,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+4385,63770,Engraulis mordax,Northern Anchovy,preysOn
+4385,47584,Bivalvia,Bivalves,preysOn
+4385,47826,Cancer productus,Red Rock Crab,preysOn
+4385,84670,Ephydridae,Shore Flies,preysOn
+4385,53750,Lottia gigantea,Owl Limpet,preysOn
+4385,339177,Microphallidae,,preysOn
+4385,,Trichodina,,preysOn
+4385,,Carcinonemertes,,preysOn
+4385,209100,Gyrodactylus,,preysOn
+4385,339176,Renicola buchanani,,preysOn
+4385,,Picornaviridae,,preysOn
+4385,,Stictodora hancocki,,preysOn
+4385,,Parvatrema,,preysOn
+4385,,Renicola cerithidicola,,preysOn
+4385,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4385,339174,Cyathocotylidae,,preysOn
+4385,339200,Himasthla rhigedana,,preysOn
+4385,914144,Galactosomum,,preysOn
+4385,,Pygidiopsoides spindalis,,preysOn
+4385,,Nerocila californica,,preysOn
+4385,71256,Tagelus,,preysOn
+4385,,Parorchis acanthus,,preysOn
+4385,179533,Fundulus parvipinnis,California Killifish,preysOn
+4385,339182,Phocitremoides ovale,,preysOn
+4385,,Protothaca,,preysOn
+4385,339183,Euhaplorchis californiensis,,preysOn
+4385,,Ergasilus auritus,,preysOn
+4385,,Spirocamallanus pereirai,,preysOn
+4385,,carrion,,preysOn
+4385,339249,Acanthoparyphium,,preysOn
+4385,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+4385,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+4385,,Eugregarinida,,preysOn
+4385,,Cloacitrema michiganense,,preysOn
+4385,,Tetraphyllidea,,preysOn
+4385,,Probolocoryphe uca,,preysOn
+4385,,Mesostephanus appendiculatoides,,preysOn
+4385,117571,Clupea pallasii,Pacific herring,preysOn
+4385,,Onychoteuthis borealijaponicus,,preysOn
+4385,508883,Tagelus subteres,Lesser Tagelus,preysOn
+4385,81608,Geukensia demissa,Atlantic Ribbed Mussel,preysOn
+4385,328416,Tagelus affinis,Neighbor Tagelus,preysOn
+4385,117608,Saxidomus nuttalli,California Butterclam,preysOn
+4385,479426,Chionista fluctifraga,Smooth Venus,preysOn
+4385,,Protothaca staminea,,preysOn
+4385,117622,Nuttallia nuttallii,Purple Clam,preysOn
+4385,328432,Chione californiensis,California Venus,preysOn
+4385,,Macoma secta,,preysOn
+4385,179828,Laevicardium substriatum,Pacific Eggcockle,preysOn
+4385,,Ephydra gracilis,,preysOn
+4385,,Collisella limatula,,preysOn
+4385,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+4385,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+4385,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy

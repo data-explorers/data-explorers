@@ -1,0 +1,61 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52344,53438,Rosa,roses,eats
+52344,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+52344,47219,Apis mellifera,Western Honey Bee,eatenBy
+52344,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+52344,52158,Schistocerca nitens,Gray Bird Grasshopper,eatenBy
+52344,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+52344,353457,Graptostethus servus,,eatenBy
+52344,,Agrius cingulata,,eatenBy
+52344,,Emmelina monodactyla,,eatenBy
+52344,,Microthyris anormalis,,eatenBy
+52344,,Autographa precationis,,eatenBy
+52344,,Chrysodeixis chalcites,,eatenBy
+52344,,Spodoptera litura,,eatenBy
+52344,,Bedellia somnulentella,,eatenBy
+52344,,Thygater aethiops,,eatenBy
+52344,,Agrotis ipsilon,,eatenBy
+52344,298731,Phidippus carolinensis,Carolina Jumping Spider,eatenBy
+52344,,Hahncappsia mancalis,,eatenBy
+52344,301557,Euphoria basalis,,eatenBy
+52344,130033,Culex,,pollinatedBy
+52344,58504,Polites,,pollinatedBy
+52344,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+52344,178745,Triepeolus,,pollinatedBy
+52344,,Hippelates plebejus,,pollinatedBy
+52344,,Hemiteles,,pollinatedBy
+52344,264615,Bracon mellitor,,pollinatedBy
+52344,572115,Pseudopanurgus labrosus,,pollinatedBy
+52344,,Ceratina dupla,,pollinatedBy
+52344,336738,Leschenaultia,,pollinatedBy
+52344,,Ceropales,,pollinatedBy
+52344,,Systogaster biannulata,,pollinatedBy
+52344,,Trachandrena,,pollinatedBy
+52344,,Parhelophilus divisus,,pollinatedBy
+52344,,Arge,,pollinatedBy
+52344,,Mordellistena,,pollinatedBy
+52344,,Bombylius coquilletti,,pollinatedBy
+52344,177484,Leptura,,pollinatedBy
+52344,,Reichertella pulicaria,,pollinatedBy
+52344,172709,Acmaeops,,pollinatedBy
+52344,,Pachyophthalmus,,pollinatedBy
+52344,,Eumea caesar,,pollinatedBy
+52344,,http://treatment.plazi.org/id/F12164839E129EE305929100DCC76253,,pollinatedBy
+52344,,Sapyga centrata,,pollinatedBy
+52344,,Odontalictus,,pollinatedBy
+52344,,Machaeris,,pollinatedBy
+52344,,Bibio albipennis,,pollinatedBy
+52344,133100,Spilomyia,Hornet Flies,pollinatedBy
+52344,425250,Eristalis stipator,Yellow-shouldered Drone Fly,pollinatedBy
+52344,,Lampronota,,pollinatedBy
+52344,,Holandrena,,pollinatedBy
+52344,,Elachiptera costata,,pollinatedBy
+52344,,Euphorus,,pollinatedBy
+52344,,Myocera,,pollinatedBy
+52344,,Cylindromyia rufipes,,pollinatedBy
+52344,,Microstelis,,pollinatedBy
+52344,299141,Urosigalphus femoratus,,pollinatedBy
+52344,,Fixsenia,,pollinatedBy
+52344,,Phor,,pollinatedBy
+52344,,Holcopasites heliopsis,,pollinatedBy
+52344,,Apallates coxendix,,pollinatedBy

@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+116658,,Senecio glomeratus,,eats
+116658,478638,Aesculus × carnea,Red horse-chestnut,eats
+116658,,Jacobaea maritima,,eats
+116658,79052,Senecio quadridentatus,cotton burnweed,eats
+116658,,Jacobaea maritima,,eatenBy
+116658,12065,Malurus cyaneus,Superb Fairywren,eatenBy
+116658,67328,Pholcus phalangioides,Long-bodied Cellar Spider,preyedUponBy
+116658,,Sidymella angularis,,preyedUponBy

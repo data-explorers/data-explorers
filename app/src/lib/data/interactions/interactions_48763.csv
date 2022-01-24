@@ -1,0 +1,142 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48763,47982,Asilidae,Robber Flies,eatenBy
+48763,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+48763,5020,Butorides virescens,Green Heron,eatenBy
+48763,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+48763,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+48763,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+48763,7107,Aix sponsa,Wood Duck,eatenBy
+48763,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48763,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+48763,17009,Sayornis saya,Say's Phoebe,eatenBy
+48763,16768,Tyrannus,Kingbirds,eatenBy
+48763,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+48763,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+48763,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+48763,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+48763,7294,Eremophila alpestris,Horned Lark,eatenBy
+48763,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+48763,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+48763,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+48763,41376,Taphozous melanopogon,Black-bearded Tomb Bat,eatenBy
+48763,16842,Myiozetetes similis,Social Flycatcher,eatenBy
+48763,74602,Micronycteris microtis,Common Big-eared Bat,eatenBy
+48763,,Hoary bat,,eatenBy
+48763,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+48763,36445,Anolis evermanni,Emerald anole,eatenBy
+48763,,Eleutherodactylus coqui,,eatenBy
+48763,22411,Eleutherodactylus portoricensis,Forest Coqui,eatenBy
+48763,16024,Myiarchus antillarum,Puerto Rican Flycatcher,eatenBy
+48763,36606,Anolis stratulus,Banded Anole,eatenBy
+48763,14984,Margarops fuscatus,Pearly-eyed Thrasher,eatenBy
+48763,,Loxigilla portoricensis,,eatenBy
+48763,608771,Atherinella brasiliensis,,eatenBy
+48763,,Deuterodon iguape,,eatenBy
+48763,179511,Astyanax fasciatus,Banded Astyanax,eatenBy
+48763,,Tinca tinca,,eatenBy
+48763,58637,Ambloplites rupestris,Rock Bass,eatenBy
+48763,107366,Odontostilbe fugitiva,,eatenBy
+48763,53520,Synbranchus marmoratus,Marbled Swamp Eel,eatenBy
+48763,,Ptocasius strupifer,,eatenBy
+48763,,Oncorhynchus masou,,eatenBy
+48763,145249,Setophaga discolor,Prairie Warbler,eatenBy
+48763,,Setophaga caerulescens,,eatenBy
+48763,145233,Setophaga americana,Northern Parula,eatenBy
+48763,10487,Dolichonyx oryzivorus,Bobolink,eatenBy
+48763,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48763,4937,Egretta caerulea,Little Blue Heron,eatenBy
+48763,,Salpinctes obsoletus,,eatenBy
+48763,10265,Melopyrrha,Greater Antillean Bullfinches,eatenBy
+48763,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+48763,,Vireo atricapilla,,eatenBy
+48763,1240,Dendragapus,Blue Grouse,eatenBy
+48763,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+48763,980200,Oenanthe,Wheatears and Allies,eatenBy
+48763,,Rhynchophanes mccownii,,eatenBy
+48763,17408,Vireo griseus,White-eyed Vireo,eatenBy
+48763,17394,Vireo gilvus,Warbling Vireo,eatenBy
+48763,18205,Melanerpes carolinus,Red-bellied Woodpecker,eatenBy
+48763,,Parkesia motacilla,,eatenBy
+48763,,Dendroica kirtlandii,,eatenBy
+48763,,Setophaga chrysoparia,,eatenBy
+48763,73149,Parkesia noveboracensis,Northern Waterthrush,eatenBy
+48763,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+48763,13732,Anthus rubescens,American Pipit,eatenBy
+48763,8015,Corvus hawaiiensis,Hawaiian Crow,eatenBy
+48763,,Spiza americana,,eatenBy
+48763,6667,Cypseloides niger,Black Swift,eatenBy
+48763,8319,Pica nuttalli,Yellow-billed Magpie,eatenBy
+48763,52818,Achillea,yarrows,pollinates
+48763,52381,Aphididae,Aphids,preysOn
+48763,320812,Gastrophysa viridula,Green Dock Beetle,preysOn
+48763,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+48763,74719,Myotis septentrionalis,Northern Myotis,preyedUponBy
+48763,,Scotozous dormeri,,preyedUponBy
+48763,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+48763,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+48763,245993,Rhinopoma hardwickii,Lesser Mouse-tailed Bat,preyedUponBy
+48763,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+48763,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+48763,75228,Vespadelus regulus,Southern Forest Bat,preyedUponBy
+48763,40543,Chalinolobus morio,Chocolate Wattled Bat,preyedUponBy
+48763,75224,Vespadelus darlingtoni,Large Forest Bat,preyedUponBy
+48763,40544,Chalinolobus gouldii,Gould's Wattled Bat,preyedUponBy
+48763,40555,Nyctophilus walkeri,Pygmy Long-eared Bat,preyedUponBy
+48763,,Nyctophilus geoffroyi,,preyedUponBy
+48763,765458,Mormopterus lumsdenae,Northern Free-tailed Bat,preyedUponBy
+48763,,Taphozous georgianus,,preyedUponBy
+48763,,Hipposideros stenotis,,preyedUponBy
+48763,40715,Hipposideros ater,Dusky Roundleaf Bat,preyedUponBy
+48763,40779,Rhinonicteris aurantia,Orange Leaf-nosed Bat,preyedUponBy
+48763,,Mystacina tuberculata,,preyedUponBy
+48763,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+48763,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+48763,,Plecotus auritus,,preyedUponBy
+48763,74697,Myotis bechsteinii,Bechstein's bat,preyedUponBy
+48763,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+48763,183170,Miniopterus manavi,Manavi Long-fingered Bat,preyedUponBy
+48763,41279,Mormopterus,,preyedUponBy
+48763,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy
+48763,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+48763,40746,Hipposideros speoris,Schneider's roundleaf bat,preyedUponBy
+48763,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+48763,41376,Taphozous melanopogon,Black-bearded Tomb Bat,preyedUponBy
+48763,207811,Eptesicus serotinus,Serotine Bat,preyedUponBy
+48763,,Eptesicus nilssonii,,preyedUponBy
+48763,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+48763,,Pipistrellus nathusii,,preyedUponBy
+48763,,Nyctalus leisleri,,preyedUponBy
+48763,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+48763,40576,Nyctalus lasiopterus,Giant Noctule,preyedUponBy
+48763,,Myotis dasycneme,,preyedUponBy
+48763,,Myotis daubentonii,,preyedUponBy
+48763,,Myotis brandtii,,preyedUponBy
+48763,40314,Myotis mystacinus,Whiskered Bat,preyedUponBy
+48763,,Pipistrellus abramus,,preyedUponBy
+48763,40887,Pteropus dasymallus,Ryukyu Flying Fox,preyedUponBy
+48763,,Vespertilio sinensis,,preyedUponBy
+48763,320633,Rhinolophus clivosus,Geoffroy's horseshoe bat,preyedUponBy
+48763,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+48763,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+48763,41186,Nycteris grandis,Large Slit-faced Bat,preyedUponBy
+48763,,Scotophilus leucogaster,,preyedUponBy
+48763,,Myotis goudoti,,preyedUponBy
+48763,,Rhinolophus blasii,,preyedUponBy
+48763,41077,Phyllostomus discolor,pale spear-nosed bat,preyedUponBy
+48763,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+48763,40691,Rhinolophus mehelyi,Mehely's horseshoe bat,preyedUponBy
+48763,40677,Rhinolophus euryale,Mediterranean horseshoe bat,preyedUponBy
+48763,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy
+48763,40629,Lasionycteris noctivagans,Silver-haired Bat,preyedUponBy
+48763,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+48763,40354,Myotis evotis,Miller's Myotis,preyedUponBy
+48763,40342,Myotis californicus,California Myotis,preyedUponBy
+48763,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+48763,,Rhinolophus beddomei,,preyedUponBy
+48763,,Myotis yumanensis,,preyedUponBy
+48763,,Myotis volans,,preyedUponBy
+48763,,Myotis thysanodes,,preyedUponBy
+48763,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy
+48763,,Corynorhinus townsendii,,preyedUponBy
+48763,,Hipposideros pygmaeus,,preyedUponBy
+48763,40672,Rhinolophus arcuatus,arcuate horseshoe bat,preyedUponBy

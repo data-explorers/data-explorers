@@ -1,0 +1,111 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54500,360308,Eriosoma lanigerum,Woolly Apple Aphid,eatenBy
+54500,47154,Cydia,,eatenBy
+54500,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+54500,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+54500,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+54500,211345,Stigmella,,eatenBy
+54500,146979,Dasychira,,eatenBy
+54500,50931,Strymon melinus,Gray Hairstreak,eatenBy
+54500,81665,Orgyia leucostigma,White-marked Tussock Moth,eatenBy
+54500,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+54500,14850,Sturnus vulgaris,European Starling,eatenBy
+54500,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+54500,13858,Passer domesticus,House Sparrow,eatenBy
+54500,47219,Apis mellifera,Western Honey Bee,eatenBy
+54500,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+54500,6317,Calypte anna,Anna's Hummingbird,eatenBy
+54500,52775,Bombus,Bumble Bees,eatenBy
+54500,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+54500,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+54500,199840,Haemorhous mexicanus,House Finch,eatenBy
+54500,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+54500,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+54500,367572,Psittacara erythrogenys,Red-masked Parakeet,eatenBy
+54500,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+54500,12727,Turdus migratorius,American Robin,eatenBy
+54500,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+54500,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+54500,49716,Paonias excaecata,Blinded Sphinx,eatenBy
+54500,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+54500,8229,Cyanocitta cristata,Blue Jay,eatenBy
+54500,60607,Limenitis arthemis,Red-spotted Admiral,eatenBy
+54500,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+54500,231425,Spodoptera exigua,Beet Armyworm Moth,eatenBy
+54500,211100,Malacosoma americana,Eastern Tent Caterpillar Moth,eatenBy
+54500,81655,Nematocampa,,eatenBy
+54500,55624,Acronicta,Dagger Moths,eatenBy
+54500,84612,Polyphylla decemlineata,Ten-lined June Beetle,eatenBy
+54500,494559,Polydrusus formosus,Green Immigrant Leaf Weevil,eatenBy
+54500,48473,Ganoderma applanatum,artist's bracket,eatenBy
+54500,1409,Callipepla californica,California Quail,eatenBy
+54500,451010,Pholodes sinistraria,Sinister Moth,eatenBy
+54500,,Pasiphilodes testulata,,eatenBy
+54500,,Chloroclystis approximata,,eatenBy
+54500,,Hemiberlesia rapax,,eatenBy
+54500,330222,Hemiberlesia lataniae,Latania scale,eatenBy
+54500,,Edwardsiana froggatti,,eatenBy
+54500,,Dysaphis,,eatenBy
+54500,60930,Diaspidiotus perniciosus,Pernicious Scale,eatenBy
+54500,202774,Coridromius chenopoderis,,eatenBy
+54500,,Neatus picipes,,eatenBy
+54500,,Eurycantha calcarata,,eatenBy
+54500,,Argyresthia conjugella,,eatenBy
+54500,,Ypsolopha falciferella,,eatenBy
+54500,498115,Argyresthia curvella,Brindled Argent,eatenBy
+54500,,Homona,,eatenBy
+54500,,Choristoneura rosaceana,,eatenBy
+54500,,Epiphyas postvittana,,eatenBy
+54500,,Argyresthia,,eatenBy
+54500,,Sparganothis directana,,eatenBy
+54500,,Ypsolopha scabrella,,eatenBy
+54500,321981,Pandemis heparana,Dark Fruit-tree Tortrix,eatenBy
+54500,,Swammerdamia pyrella,,eatenBy
+54500,,Platynota flavedana,,eatenBy
+54500,,Ditula angustiorana,,eatenBy
+54500,388183,Ctenopseustis obliquana,,eatenBy
+54500,,Ulodemis trigrapha,,eatenBy
+54500,,Epiphyas pulla,,eatenBy
+54500,,Clepsis melaleucana,,eatenBy
+54500,220996,Hedya ochroleucana,Off-white Hedya Moth,eatenBy
+54500,,Grapholita prunivora,,eatenBy
+54500,,Grapholita packardi,,eatenBy
+54500,,Acleris orphnocycla,,eatenBy
+54500,,Acleris chalybeana,,eatenBy
+54500,,Olethreutes malana,,eatenBy
+54500,,Archips grisea,,eatenBy
+54500,,Argyrotaenia quercifoliana,,eatenBy
+54500,,Archips rosana,,eatenBy
+54500,,Enarmonia formosana,,eatenBy
+54500,,Epinotia solandriana,,eatenBy
+54500,,Argyrotaenia mariana,,eatenBy
+54500,,Archips philippa,,eatenBy
+54500,347104,Acleris senescens,,eatenBy
+54500,229085,Pseudexentera mali,Pale Apple Leafroller Moth,eatenBy
+54500,,Sparganothis sulfureana,,eatenBy
+54500,,Sphinx gordius,,eatenBy
+54500,,Synanthedon typhiaeformis,,eatenBy
+54500,213573,Ancylis nubeculana,Little Cloud Ancylis Moth,eatenBy
+54500,,Synanthedon exitiosa,,eatenBy
+54500,,Hyles gallii,,eatenBy
+54500,232121,Synanthedon pictipes,Lesser Peachtree Borer Moth,eatenBy
+54500,,Eudemis porphyrana,,eatenBy
+54500,82279,Automeris io,Io Moth,eatenBy
+54500,,Smerinthus jamaicensis,,eatenBy
+54500,,Eulogia ochrifrontella,,eatenBy
+54500,,Ostrinia nubilalis,,eatenBy
+54500,,Oreana unicolorella,,eatenBy
+54500,,Amyelois transitella,,eatenBy
+54500,,Chalioides,,eatenBy
+54500,,Moodna ostrinella,,eatenBy
+54500,,Agonopterix canadensis,,eatenBy
+54500,,Andrena yamato ,,pollinatedBy
+54500,,Metasyrphus luniger ,,pollinatedBy
+54500,,Andrena brenihirtiscopa ,,pollinatedBy
+54500,,Panorpodes paradoxa ,,pollinatedBy
+54500,,Cheilosia motodomariensis ,,pollinatedBy
+54500,,Syrphus vitripennis ,,pollinatedBy
+54500,121357,Platycheirus,Sedgesitters,pollinatedBy
+54500,,,,pollinatedBy
+54500,,Onesia,,pollinatedBy
+54500,,http://treatment.plazi.org/id/CC77878CFF8A8B3E8585DB24FB2B30AB,,pollinatedBy

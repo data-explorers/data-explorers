@@ -1,0 +1,130 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5206,1,Animalia,Animals,eats
+5206,40151,Mammalia,Mammals,eats
+5206,2,Chordata,Chordates,eats
+5206,3,Aves,Birds,eats
+5206,44395,Peromyscus leucopus,White-footed Mouse,eats
+5206,44576,Rattus norvegicus,Brown Rat,eats
+5206,46260,Tamiasciurus hudsonicus,American Red Squirrel,eats
+5206,63089,Clitellata,Clitellates,eats
+5206,47014,Scalopus aquaticus,Eastern Mole,eats
+5206,43698,Rodentia,Rodents,eats
+5206,49609,Cyprinidae,Cyprinids,eats
+5206,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+5206,59815,Sorex cinereus,Masked Shrew,eats
+5206,3017,Columba livia,Rock Pigeon,eats
+5206,13270,Hylocichla mustelina,Wood Thrush,eats
+5206,39532,Testudines,Turtles and Tortoises,eats
+5206,46341,Soricidae,Shrews,eats
+5206,10373,Molothrus ater,Brown-headed Cowbird,eats
+5206,8229,Cyanocitta cristata,Blue Jay,eats
+5206,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+5206,3454,Zenaida macroura,Mourning Dove,eats
+5206,890,Bonasa umbellus,Ruffed Grouse,eats
+5206,45763,Ondatra zibethicus,Muskrat,eats
+5206,47158,Insecta,Insects,eats
+5206,25473,Ranidae,Typical Frogs,eats
+5206,46217,Tamias striatus,Eastern Chipmunk,eats
+5206,46272,Glaucomys volans,Southern Flying Squirrel,eats
+5206,6930,Anas platyrhynchos,Mallard,eats
+5206,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+5206,12727,Turdus migratorius,American Robin,eats
+5206,9602,Quiscalus quiscula,Common Grackle,eats
+5206,7251,Passeriformes,Perching Birds,eats
+5206,26172,Squamata,Snakes and Lizards,eats
+5206,26718,Caudata,Salamanders,eats
+5206,74677,Myodes gapperi,Southern Red-backed Vole,eats
+5206,44311,Microtus pennsylvanicus,Meadow Vole,eats
+5206,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+5206,18236,Colaptes auratus,Northern Flicker,eats
+5206,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+5206,26036,Reptilia,Reptiles,eats
+5206,20978,Amphibia,Amphibians,eats
+5206,47213,Sphingidae,Sphinx Moths,eats
+5206,44540,Rattus,Old World Rats,eats
+5206,5009,Ixobrychus exilis,Least Bittern,eats
+5206,121639,Brachyura,True Crabs,eats
+5206,28339,Thamnophis,Garter Snakes,eats
+5206,47903,Cactaceae,cactus family,eats
+5206,50186,Cicadidae,Typical Cicadas,eats
+5206,180007,Otospermophilus beecheyi,California Ground Squirrel,eats
+5206,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,eats
+5206,86400,Ammopelmatus,North American Jerusalem Crickets,eats
+5206,14850,Sturnus vulgaris,European Starling,eats
+5206,44062,Thomomys bottae,Botta's Pocket Gopher,eats
+5206,43096,Sylvilagus,Cottontail Rabbits,eats
+5206,85553,Serpentes,Snakes,eats
+5206,14886,Mimus polyglottos,Northern Mockingbird,eats
+5206,60340,Lithobates,American Water Frogs,eats
+5206,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,eats
+5206,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+5206,47114,Gastropoda,Gastropods,eats
+5206,32055,Elgaria multicarinata,Southern Alligator Lizard,eats
+5206,47927,Anisoptera,Dragonflies,eats
+5206,26504,Colubridae,Colubrid Snakes,eats
+5206,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+5206,32058,Elgaria multicarinata webbii,San Diego Alligator Lizard,eats
+5206,32049,Elgaria,Western Alligator Lizards,eats
+5206,,Napaeozapus insignis,,eats
+5206,47056,Condylura cristata,Star-nosed Mole,eats
+5206,44705,Mus musculus,House Mouse,eats
+5206,116461,Anolis sagrei,Brown Anole,eats
+5206,,Ophisaurus ventralis,,eats
+5206,,Sylvilagus palustris,,eats
+5206,,Anniellinae,,eats
+5206,29200,Opheodrys aestivus,Rough Greensnake,eats
+5206,,Osteopilus septentrionalis,,eats
+5206,,Amphiuma tridactylum,,eats
+5206,539765,Haldea striatula,Rough Earthsnake,eats
+5206,29299,Nerodia,Watersnakes,eats
+5206,,Thamnophis sirtalis tetrataenia,,eats
+5206,,Hemichromis,,eats
+5206,,Fulica americana americana,,eats
+5206,,Nerodia floridana,,eats
+5206,,Clarias batrachus,,eats
+5206,28390,Thamnophis marcianus,Checkered Garter Snake,eats
+5206,,Coluber constrictor priapus,,eats
+5206,99544,Dorosoma cepedianum,American Gizzard Shad,eats
+5206,32512,Rena dulcis,Texas Blind Snake,eats
+5206,,Regina grahamii,,eats
+5206,29305,Nerodia sipedon,Common Watersnake,eats
+5206,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+5206,20044,Bubo virginianus,Great Horned Owl,eatenBy
+5206,64968,Anaxyrus americanus,American Toad,preysOn
+5206,473,Fulica americana,American Coot,preysOn
+5206,1,Animalia,Animals,preysOn
+5206,121639,Brachyura,True Crabs,preysOn
+5206,44540,Rattus,Old World Rats,preysOn
+5206,26575,Diadophis punctatus,ring-necked snake,preysOn
+5206,40151,Mammalia,Mammals,preysOn
+5206,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preysOn
+5206,848320,Placentalia,Placental Mammals,preysOn
+5206,44062,Thomomys bottae,Botta's Pocket Gopher,preysOn
+5206,85553,Serpentes,Snakes,preysOn
+5206,45933,Sciuridae,Squirrels,preysOn
+5206,85552,Sauria,Lizards,preysOn
+5206,48112,Mantodea,Mantises,preysOn
+5206,355675,Vertebrata,Vertebrates,preysOn
+5206,47783,Astacoidea,Northern Hemisphere Crayfishes,preysOn
+5206,47178,Actinopterygii,Ray-finned Fishes,preysOn
+5206,60340,Lithobates,American Water Frogs,preysOn
+5206,7107,Aix sponsa,Wood Duck,preysOn
+5206,44326,Microtus californicus,California Vole,preysOn
+5206,46020,Sciurus niger,Fox Squirrel,preysOn
+5206,734682,Masticophis lateralis lateralis,California Striped Racer,preysOn
+5206,47158,Insecta,Insects,preysOn
+5206,32058,Elgaria multicarinata webbii,San Diego Alligator Lizard,preysOn
+5206,29199,Opheodrys,Green Snakes,preysOn
+5206,32055,Elgaria multicarinata,Southern Alligator Lizard,preysOn
+5206,912622,Agkistrodon contortrix,Eastern Copperhead,preysOn
+5206,29200,Opheodrys aestivus,Rough Greensnake,preysOn
+5206,35342,Iguana iguana,Green Iguana,preysOn
+5206,,Nocomis leptocephalus,,preysOn
+5206,,Philothamnus hoplogaster,,preysOn
+5206,,Pisanianura,,preysOn
+5206,,Amphiuma tridactylum,,preysOn
+5206,539765,Haldea striatula,Rough Earthsnake,preysOn
+5206,,Anolis carolinensis,,preysOn
+5206,,Anaxyrus terrestris,,preysOn
+5206,36202,Sceloporus olivaceus,Texas Spiny Lizard,preysOn
+5206,,Clarias batrachus,,preysOn

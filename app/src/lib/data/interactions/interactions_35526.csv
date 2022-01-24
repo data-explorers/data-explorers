@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+35526,50867,Argiope bruennichi,Wasp Spider,eatenBy
+35526,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+35526,30924,Vipera latastei,Lataste's Viper,preyedUponBy
+35526,32208,Eryx colubrinus,East African Sand Boa,preyedUponBy
+35526,73823,Hierophis viridiflavus,Green Whip Snake,preyedUponBy

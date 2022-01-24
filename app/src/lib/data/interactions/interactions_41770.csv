@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41770,4385,Larus californicus,California Gull,eats
+41770,42051,Canis latrans,Coyote,eatenBy
+41770,42007,Puma concolor,Mountain Lion,eatenBy
+41770,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+41770,42069,Vulpes vulpes,Red Fox,eatenBy
+41770,19893,Strix varia,Barred Owl,eatenBy
+41770,851014,Canis aureus,Golden Jackal,eatenBy
+41770,42048,Canis lupus,Gray Wolf,eatenBy
+41770,41798,Martes americana,American Marten,eatenBy
+41770,41800,Martes foina,Stone Marten,eatenBy
+41770,41967,Panthera tigris,Tiger,eatenBy
+41770,41963,Panthera pardus,Leopard,eatenBy
+41770,460842,Oiceoptoma thoracicum,Red-breasted Carrion Beetle,eatenBy
+41770,,Aquila chrysaetos,,eatenBy
+41770,122767,Columba livia domestica,Feral Pigeon,preysOn
+41770,74481,Leopardus geoffroyi,Geoffroy's Cat,preyedUponBy

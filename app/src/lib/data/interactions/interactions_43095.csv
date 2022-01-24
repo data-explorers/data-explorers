@@ -1,0 +1,95 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43095,47566,Populus,"poplars, cottonwoods, and aspens",eats
+43095,,Stipagrostis,,eats
+43095,,rotting wood,,eats
+43095,,leaves,,eats
+43095,,Zizyphus,,eats
+43095,,Eleucine,,eats
+43095,,Salix longifolia,,eats
+43095,,Salix petiolaris,,eats
+43095,,Bark,,eats
+43095,,Roots,,eats
+43095,,Leaves,,eats
+43095,,roots - bark - wood,,eats
+43095,,Nyssa sylvatica,,eats
+43095,42051,Canis latrans,Coyote,eatenBy
+43095,41976,Lynx rufus,Bobcat,eatenBy
+43095,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+43095,42007,Puma concolor,Mountain Lion,eatenBy
+43095,42069,Vulpes vulpes,Red Fox,eatenBy
+43095,19893,Strix varia,Barred Owl,eatenBy
+43095,5163,Circus,Harriers,eatenBy
+43095,43584,Homo sapiens,Human,eatenBy
+43095,526558,Mustelinae,Weasels,eatenBy
+43095,20044,Bubo virginianus,Great Horned Owl,eatenBy
+43095,128824,Lucilia sericata,Common European Greenbottle Fly,eatenBy
+43095,69369,Myrmica,,eatenBy
+43095,120489,Sarcophaga,Common Flesh Flies,eatenBy
+43095,70152,Calliphora,,eatenBy
+43095,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+43095,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+43095,20445,Tyto alba,Barn Owl,eatenBy
+43095,42048,Canis lupus,Gray Wolf,eatenBy
+43095,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+43095,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+43095,,Canis lupus rufus,,eatenBy
+43095,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+43095,922459,Felis silvestris,European Wildcat,eatenBy
+43095,41798,Martes americana,American Marten,eatenBy
+43095,41800,Martes foina,Stone Marten,eatenBy
+43095,41979,Lynx lynx,Eurasian Lynx,eatenBy
+43095,41796,Martes martes,Eurasian Pine Marten,eatenBy
+43095,41975,Lynx pardinus,Iberian Lynx,eatenBy
+43095,41812,Mustela putorius,Western Polecat,eatenBy
+43095,41808,Mustela erminea,Eurasian Stoat,eatenBy
+43095,,Neovison vison,,eatenBy
+43095,41970,Panthera onca,Jaguar,eatenBy
+43095,42066,Vulpes velox,Swift Fox,eatenBy
+43095,42070,Vulpes macrotis,Kit Fox,eatenBy
+43095,,Martes pennanti,,eatenBy
+43095,,Graphidium strigosum,,eatenBy
+43095,,Passalurus ambiguus,,eatenBy
+43095,,Trichostrongylus retortaeformis,,eatenBy
+43095,851014,Canis aureus,Golden Jackal,eatenBy
+43095,,Accipiter badius,,eatenBy
+43095,,Felis silvestris lybica,,eatenBy
+43095,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+43095,,Prochyliza varipes,,eatenBy
+43095,389593,Fannia scalaris,Latrine Fly,eatenBy
+43095,,Catops fuscus,,eatenBy
+43095,,Catops,,eatenBy
+43095,,Saprinus semistriatus,,eatenBy
+43095,,Nicrophorus humator,,eatenBy
+43095,,Cercyon unipunctatus,,eatenBy
+43095,,Ptomophagus subvillosus,,eatenBy
+43095,,Thanotophilus rugosus,,eatenBy
+43095,,Cercyon lateralis,,eatenBy
+43095,224429,Margarinotus brunneus,,eatenBy
+43095,,Piophila nigriceps,,eatenBy
+43095,,Margarinotus ventralis,,eatenBy
+43095,127777,Vespula vulgaris,Common European Yellowjacket,eatenBy
+43095,,Nicrophorus vespillo,,eatenBy
+43095,,Thanotophilus sinuatus,,eatenBy
+43095,,Margarinotus striola,,eatenBy
+43095,19975,Athene cunicularia,Burrowing Owl,eatenBy
+43095,20307,Asio otus,Long-eared Owl,eatenBy
+43095,,coyote - weasel - skunk,,eatenBy
+43095,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+43095,,Aquila chrysaetos,,eatenBy
+43095,4644,Falco mexicanus,Prairie Falcon,eatenBy
+43095,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+43095,19893,Strix varia,Barred Owl,preyedUponBy
+43095,41801,Mustela,,preyedUponBy
+43095,43584,Homo sapiens,Human,preyedUponBy
+43095,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+43095,41976,Lynx rufus,Bobcat,preyedUponBy
+43095,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+43095,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+43095,41663,Procyon lotor,Common Raccoon,preyedUponBy
+43095,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+43095,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+43095,236842,Lichanura trivirgata,Desert Rosy Boa,preyedUponBy
+43095,,Elaphe climacophora,,preyedUponBy
+43095,,Coyote,,preyedUponBy
+43095,,Aquila chrysaetos,,preyedUponBy
+43095,144594,Bubo scandiacus,Snowy Owl,preyedUponBy

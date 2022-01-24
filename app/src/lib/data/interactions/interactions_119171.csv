@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119171,56088,Robinia pseudoacacia,black locust,eats
+119171,,Fagus sylvatica,,eats
+119171,10094,Junco hyemalis,Dark-eyed Junco,preyedUponBy
+119171,,Isodontia mexicana,,preyedUponBy

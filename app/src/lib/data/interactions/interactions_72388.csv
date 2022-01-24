@@ -1,0 +1,151 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+72388,72388,Syzygium,Waterberries,eats
+72388,47219,Apis mellifera,Western Honey Bee,eats
+72388,52756,Polistes,Umbrella Paper Wasps,eats
+72388,120156,Musca domestica,Housefly,eats
+72388,68941,Brachymyrmex,Rover Ants,eats
+72388,120489,Sarcophaga,Common Flesh Flies,eats
+72388,81980,Syritta,,eats
+72388,174388,Chaetocnema,,eats
+72388,133762,Villa,,eats
+72388,,Episyrphus,,eats
+72388,329983,Ornidia obesa,Common Green Jewel Fly,eats
+72388,,Phelsuma cepediana,,eats
+72388,,Graphomya maculata,,eats
+72388,,Nacoleia,,eats
+72388,,Paragus borbonicus,,eats
+72388,,Technomyrmex albipes,,eats
+72388,,Lecithoceridae,,eats
+72388,,Eristalinus flaveolus,,eats
+72388,,Phorinia,,eats
+72388,,Melanagromyza,,eats
+72388,1187258,Pachycerina crinicornis,,eats
+72388,326655,Stomorhina lunata,Locust Blowfly,eats
+72388,,Zosterops mauritianus,,eats
+72388,,Chrysomya megacephala,,eats
+72388,679912,Ophyra capensis,,eats
+72388,,Fannia,,eats
+72388,,Paleorhiza sp 1,,eats
+72388,47822,Diptera,Flies,eatenBy
+72388,47219,Apis mellifera,Western Honey Bee,eatenBy
+72388,47336,Formicidae,Ants,eatenBy
+72388,398368,Trioza adventicia,Syzygium Leaf Psyllid,eatenBy
+72388,72388,Syzygium,Waterberries,eatenBy
+72388,,Calyptra eustrigata,,eatenBy
+72388,,Calyptra orthograpta,,eatenBy
+72388,,Myctides imberbis,,eatenBy
+72388,,Jamides,,eatenBy
+72388,196588,Hyposidra talaca,Black Looper,eatenBy
+72388,,Chaetocneme critomedia,,eatenBy
+72388,,Arhopala,,eatenBy
+72388,,Rhachisphora,,eatenBy
+72388,,Orchamoplatus louiserussellae,,eatenBy
+72388,,Aleuroctarthrus destructor,,eatenBy
+72388,,Anchiale briareus,,eatenBy
+72388,,Homona coffearia,,eatenBy
+72388,,Imbrasia rectilineata,,eatenBy
+72388,,Coenodomus hockingi,,eatenBy
+72388,,Sphaerelictis thwaitesi,,eatenBy
+72388,,Echiomima mythica,,eatenBy
+72388,510314,Cryptophasa pultenae,,eatenBy
+72388,,Agriophara horridula,,eatenBy
+72388,,Charaxes druceanus,,eatenBy
+72388,,Anaphe venata,,eatenBy
+72388,,Carea chlorostigma,,eatenBy
+72388,,Charaxes endoxus,,eatenBy
+72388,,Carea varipes,,eatenBy
+72388,,Orgyia mixta,,eatenBy
+72388,,Euproctis fraterna,,eatenBy
+72388,,Hypolycaena,,eatenBy
+72388,,Netrocoryne repanda,,eatenBy
+72388,1292389,Parasa lepida,,eatenBy
+72388,,Aenetus ligniveren,,eatenBy
+72388,738909,Hypolycaena hatita,common fairy hairstreak,eatenBy
+72388,,Lechriolepis basirufa,,eatenBy
+72388,,Ectropis bhurmitra,,eatenBy
+72388,,Xyleutes cretacea,,eatenBy
+72388,,Miltochrista exclusa,,eatenBy
+72388,,Latoiola albipuncta,,eatenBy
+72388,,Trabala vishnou,,eatenBy
+72388,,Euclea brunnea,,eatenBy
+72388,,Mabuya,,eatenBy
+72388,,http://treatment.plazi.org/id/FA02BC3CC974FFAA9516FCC14B0207BD,,eatenBy
+72388,34007,Phelsuma,Day Geckos,eatenBy
+72388,,Xylocopa caffra,,eatenBy
+72388,,Lasioglossum mahense,,eatenBy
+72388,,Anoplolepis gracilipes,,eatenBy
+72388,,Technomyrmex albipes,,eatenBy
+72388,,Nectarinia dussumieri,,eatenBy
+72388,,Eagris sabadius,,eatenBy
+72388,,Camponotus grandidieri,,eatenBy
+72388,,Ruwenzorornis johnstoni,,eatenBy
+72388,,Tauraco,,eatenBy
+72388,7250,Corythaeola cristata,Great Blue Turaco,eatenBy
+72388,,Pimelodus maculatus,,eatenBy
+72388,125828,Rapala,Flashes,eatenBy
+72388,,Charaxes eudoxus,,eatenBy
+72388,,Charaxes lactetinctus,,eatenBy
+72388,149058,Deudorix,Cornelians and Playboys,eatenBy
+72388,325498,Charaxes protoclea,Flame-bordered Emperor,eatenBy
+72388,,Deudorix antalus,,eatenBy
+72388,,Parosmodes morantii,,eatenBy
+72388,,Eulemur fulvus,,eatenBy
+72388,,Cheirogaleus,,eatenBy
+72388,42166,Axis axis,Chital,eatenBy
+72388,,Ptenochirus,,eatenBy
+72388,,Ptilinopus magnificus,,eatenBy
+72388,,Ptilinopus occipitalis,,eatenBy
+72388,,Phapitreron leucotis,,eatenBy
+72388,,Sarcops calvus,,eatenBy
+72388,,Ducula bicolor,,eatenBy
+72388,,Ducula poliocephala,,eatenBy
+72388,508097,Chalcophaps indica,Asian Emerald Dove,eatenBy
+72388,,Penelopides panini,,eatenBy
+72388,,Ixos philippinus,,eatenBy
+72388,,Cricetomys gambianus,,eatenBy
+72388,43486,Cercopithecus mitis,Blue Monkey,eatenBy
+72388,,Didrimys philocompsa,,eatenBy
+72388,330199,Ceroplastes sinensis,Chinese Wax Scale,eatenBy
+72388,,Trichoglossus haematodus moluccanus,,eatenBy
+72388,,Psimada quadripennis,,eatenBy
+72388,387380,Ceroplastes destructor,Soft Wax Scale,eatenBy
+72388,,Pteropus rufus,,eatenBy
+72388,40793,Cynopterus brachyotis,Lesser Short-nosed Fruit Bat,eatenBy
+72388,,Pteropus tonganus,,eatenBy
+72388,,Pteropus anetianus,,eatenBy
+72388,,Pteropus ornatus,,eatenBy
+72388,,Eidolon helvum,,eatenBy
+72388,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+72388,120156,Musca domestica,Housefly,pollinatedBy
+72388,133762,Villa,,pollinatedBy
+72388,52756,Polistes,Umbrella Paper Wasps,pollinatedBy
+72388,68941,Brachymyrmex,Rover Ants,pollinatedBy
+72388,174388,Chaetocnema,,pollinatedBy
+72388,81980,Syritta,,pollinatedBy
+72388,34007,Phelsuma,Day Geckos,pollinatedBy
+72388,,Mabuya,,pollinatedBy
+72388,,Nectarinia dussumieri,,pollinatedBy
+72388,,Hemipyrellia,,pollinatedBy
+72388,,Lasioglossum mahense,,pollinatedBy
+72388,,Eagris sabadius,,pollinatedBy
+72388,,Parasarcophaga,,pollinatedBy
+72388,,Scaptodrosophila,,pollinatedBy
+72388,,http://treatment.plazi.org/id/FA02BC3CC974FFAA9516FCC14B0207BD,,pollinatedBy
+72388,,Xylocopa caffra,,pollinatedBy
+72388,,Eristalinus flaveolus,,pollinatedBy
+72388,,Pachycerina crinicornis ,,pollinatedBy
+72388,,Phorinia,,pollinatedBy
+72388,,Chrysomya megacephala ,,pollinatedBy
+72388,,Paragus borbonicus,,pollinatedBy
+72388,,Paleorhiza sp1 M_PL_071,,pollinatedBy
+72388,,Phelsuma cepediana,,pollinatedBy
+72388,,Fannia pusio ,,pollinatedBy
+72388,,Ophyra capensis ,,pollinatedBy
+72388,,Technomyrmex albipes ,,pollinatedBy
+72388,,Nacoleia,,pollinatedBy
+72388,326655,Stomorhina lunata,Locust Blowfly,pollinatedBy
+72388,,Sarcophaga arno ,,pollinatedBy
+72388,,Graphomya maculata,,pollinatedBy
+72388,,Melanagromyza sojae ,,pollinatedBy
+72388,,Episyrphus,,pollinatedBy
+72388,,Lecithoceridae,,pollinatedBy

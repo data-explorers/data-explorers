@@ -1,0 +1,35 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+469347,,Nitzschia closterium,,eats
+469347,1005749,Phaeocystis pouchetii,,eats
+469347,203742,Skeletonema costatum,,eats
+469347,,Khakista,,eats
+469347,,Detritus,,eats
+469347,,Microphytobenthos,,eats
+469347,341617,Thalassiosira,,eats
+469347,,Podosira stelliger,,eats
+469347,118669,Diplodus sargus,White Bream,eatenBy
+469347,118667,Diplodus vulgaris,Common Two-banded Seabream,eatenBy
+469347,1017167,Marthasterias glacialis,Spiny Starfish,eatenBy
+469347,324536,Palinurus elephas,European Spiny Lobster,eatenBy
+469347,63740,Gadus morhua,Atlantic Cod,eatenBy
+469347,61387,Limanda limanda,Sand Dab,eatenBy
+469347,47523,Pleuronectes platessa,European Plaice,eatenBy
+469347,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+469347,97517,Chimaera monstrosa,rabbit fish,eatenBy
+469347,467402,Ocenebra erinaceus,European Sting Winkle,preyedUponBy
+469347,52523,Carcinus maenas,European Green Crab,preyedUponBy
+469347,49606,Balistes capriscus,Grey Triggerfish,preyedUponBy
+469347,61387,Limanda limanda,Sand Dab,preyedUponBy
+469347,4368,Larus marinus,Great Black-backed Gull,preyedUponBy
+469347,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+469347,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+469347,55396,Solea solea,Common Sole,preyedUponBy
+469347,204533,Larus argentatus,Herring Gull,preyedUponBy
+469347,204496,Corvus corone,Carrion Crow,preyedUponBy
+469347,125291,Molva molva,European Ling,preyedUponBy
+469347,120553,Cancer pagurus,Edible Crab,preyedUponBy
+469347,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+469347,109631,Platichthys flesus,European Flounder,preyedUponBy
+469347,103913,Labrus mixtus,Cuckoo Wrasse,preyedUponBy
+469347,118667,Diplodus vulgaris,Common Two-banded Seabream,preyedUponBy
+469347,118669,Diplodus sargus,White Bream,preyedUponBy

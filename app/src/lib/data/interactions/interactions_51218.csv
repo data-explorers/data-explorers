@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51218,105388,Medialuna californiensis,Halfmoon,eatenBy
+51218,81963,Girella nigricans,Opaleye,eatenBy
+51218,52552,Oxyjulis californica,senorita,eatenBy
+51218,63382,Dermasterias imbricata,Leather Star,eatenBy
+51218,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+51218,56797,Holacanthus passer,King Angelfish,eatenBy
+51218,868185,Trinchesia yamasui,,eatenBy
+51218,81963,Girella nigricans,Opaleye,preyedUponBy
+51218,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+51218,63382,Dermasterias imbricata,Leather Star,preyedUponBy
+51218,52552,Oxyjulis californica,senorita,preyedUponBy
+51218,105388,Medialuna californiensis,Halfmoon,preyedUponBy

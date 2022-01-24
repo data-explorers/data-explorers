@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+128665,,Macroalgae,,eats
+128665,,Prymnesiophyceae,,eats
+128665,,Detritus,,eats
+128665,,Sorubim lima,,eatenBy
+128665,,Turbellaria,,eatenBy
+128665,171429,Eucyclops,,eatenBy
+128665,,Omaloplia,,eatenBy
+128665,247286,Ploesoma,,eatenBy
+128665,120561,Cricotopus,,eatenBy
+128665,171429,Eucyclops,,preyedUponBy
+128665,120561,Cricotopus,,preyedUponBy
+128665,,Omaloplia,,preyedUponBy
+128665,247286,Ploesoma,,preyedUponBy
+128665,,Turbellaria,,preyedUponBy

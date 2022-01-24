@@ -1,0 +1,147 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4672,40151,Mammalia,Mammals,eats
+4672,3,Aves,Birds,eats
+4672,1,Animalia,Animals,eats
+4672,2,Chordata,Chordates,eats
+4672,12890,Catharus guttatus,Hermit Thrush,eats
+4672,10325,Euphagus cyanocephalus,Brewer's Blackbird,eats
+4672,7428,Bombycilla cedrorum,Cedar Waxwing,eats
+4672,145238,Setophaga petechia,Yellow Warbler,eats
+4672,13858,Passer domesticus,House Sparrow,eats
+4672,9135,Spizella passerina,Chipping Sparrow,eats
+4672,9184,Zonotrichia albicollis,White-throated Sparrow,eats
+4672,7294,Eremophila alpestris,Horned Lark,eats
+4672,12727,Turdus migratorius,American Robin,eats
+4672,3017,Columba livia,Rock Pigeon,eats
+4672,44311,Microtus pennsylvanicus,Meadow Vole,eats
+4672,9100,Melospiza melodia,Song Sparrow,eats
+4672,3855,Calidris mauri,Western Sandpiper,eats
+4672,117095,Regulus calendula,Ruby-crowned Kinglet,eats
+4672,9981,Passerculus sandwichensis,Savannah Sparrow,eats
+4672,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+4672,199840,Haemorhous mexicanus,House Finch,eats
+4672,12937,Sialia mexicana,Western Bluebird,eats
+4672,3959,Phalaropus lobatus,Red-necked Phalarope,eats
+4672,3864,Calidris minutilla,Least Sandpiper,eats
+4672,3849,Calidris alba,Sanderling,eats
+4672,44326,Microtus californicus,California Vole,eats
+4672,145245,Setophaga coronata,Yellow-rumped Warbler,eats
+4672,7458,Certhia americana,Brown Creeper,eats
+4672,11901,Hirundo rustica,Barn Swallow,eats
+4672,14800,Sitta,Nuthatches,eats
+4672,44259,Microtus,Meadow Voles,eats
+4672,3874,Tringa,"Shanks, Tattlers, and Allies",eats
+4672,6930,Anas platyrhynchos,Mallard,eats
+4672,3912,Gallinago,Typical Snipes,eats
+4672,14850,Sturnus vulgaris,European Starling,eats
+4672,7006,Anser,Grey Geese,eats
+4672,3938,Arenaria interpres,Ruddy Turnstone,eats
+4672,981,Phasianus colchicus,Ring-necked Pheasant,eats
+4672,6922,Anas,"Mallards, Pintails, and Allies",eats
+4672,4789,Charadrius alexandrinus,Kentish Plover,eats
+4672,3454,Zenaida macroura,Mourning Dove,eats
+4672,67731,Anax junius,Common Green Darner,eats
+4672,7251,Passeriformes,Perching Birds,eats
+4672,9420,Pipilo maculatus,Spotted Towhee,eats
+4672,11935,Tachycineta bicolor,Tree Swallow,eats
+4672,6553,Aeronautes saxatalis,White-throated Swift,eats
+4672,355675,Vertebrata,Vertebrates,eats
+4672,4793,Charadrius vociferus,Killdeer,eats
+4672,47927,Anisoptera,Dragonflies,eats
+4672,122767,Columba livia domestica,Feral Pigeon,eats
+4672,40269,Vespertilionidae,Evening Bats,eats
+4672,15977,Turdidae,Thrushes,eats
+4672,,Bombycilla garrulus,,eats
+4672,,Spizella pallida,,eats
+4672,12878,Catharus ustulatus,Swainson's Thrush,eats
+4672,117059,Plectrophenax nivalis,Snow Bunting,eats
+4672,40346,Myotis lucifugus,Little Brown Bat,eats
+4672,,Acanthis flammea,,eats
+4672,,Spinus pinus,,eats
+4672,,Phalaropus fulicarius,,eats
+4672,3857,Calidris alpina,Dunlin,eats
+4672,,Gerrhonotus,,eats
+4672,,Certhia familiaris,,eats
+4672,,Anthus spinoletta,,eats
+4672,,Serinus pusillus,,eats
+4672,7007,Anser brachyrhynchus,Pink-footed Goose,eats
+4672,,Anthus pratensis,,eats
+4672,,Montifringilla nivalis,,eats
+4672,201282,Gallinula chloropus,Common Moorhen,eats
+4672,,Picoides,,eats
+4672,,Panurus biarmicus,,eats
+4672,,Carpospiza brachydactyla,,eats
+4672,,Myotis alcathoe,,eats
+4672,,Sitta krueperi,,eats
+4672,4801,Charadrius hiaticula,Common Ringed Plover,eats
+4672,,Regulus ignicapilla,,eats
+4672,,Phoenicurus ochruros,,eats
+4672,40314,Myotis mystacinus,Whiskered Bat,eats
+4672,,Poecile cinctus,,eats
+4672,,Passer moabiticus,,eats
+4672,3888,Tringa glareola,Wood Sandpiper,eats
+4672,7462,Certhia brachydactyla,Short-toed Treecreeper,eats
+4672,,Alectoris rufa,,eats
+4672,7164,Polysticta stelleri,Steller's Eider,eats
+4672,,Luscinia svecica,,eats
+4672,,Sylvia sarda,,eats
+4672,,Phylloscopus sindianus,,eats
+4672,,Rhodospiza obsoleta,,eats
+4672,,Zoothera,,eats
+4672,,Carpodacus erythrinus,,eats
+4672,,Hippolais languida,,eats
+4672,,Microtus socialis,,eats
+4672,,Dendrocopos medius,,eats
+4672,,Netta rufina,,eats
+4672,,Philomachus pugnax,,eats
+4672,15303,Sylvia undata,Dartford Warbler,eats
+4672,,Phylloscopus collybita,,eats
+4672,,Rallus aquaticus,,eats
+4672,12838,Oenanthe leucura,Black Wheatear,eats
+4672,,Myotis nipalensis,,eats
+4672,8010,Corvus corax,Common Raven,eatenBy
+4672,42069,Vulpes vulpes,Red Fox,eatenBy
+4672,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+4672,4684,Falco biarmicus,Lanner Falcon,eatenBy
+4672,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4672,19898,Strix aluco,Tawny Owl,eatenBy
+4672,204496,Corvus corone,Carrion Crow,eatenBy
+4672,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4672,42048,Canis lupus,Gray Wolf,eatenBy
+4672,922459,Felis silvestris,European Wildcat,eatenBy
+4672,41852,Gulo gulo,Wolverine,eatenBy
+4672,41900,Herpestes ichneumon,Ichneumon,eatenBy
+4672,41795,Martes zibellina,Sable,eatenBy
+4672,41796,Martes martes,Eurasian Pine Marten,eatenBy
+4672,42065,Vulpes corsac,Corsac Fox,eatenBy
+4672,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4672,,Elaphe situla,,eatenBy
+4672,39407,Varanus griseus,Desert Monitor,eatenBy
+4672,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4672,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4672,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4672,7493,Polioptila caerulea,Blue-gray Gnatcatcher,preysOn
+4672,559248,Passerellidae,New World Sparrows,preysOn
+4672,47927,Anisoptera,Dragonflies,preysOn
+4672,1,Animalia,Animals,preysOn
+4672,9135,Spizella passerina,Chipping Sparrow,preysOn
+4672,3454,Zenaida macroura,Mourning Dove,preysOn
+4672,9420,Pipilo maculatus,Spotted Towhee,preysOn
+4672,7428,Bombycilla cedrorum,Cedar Waxwing,preysOn
+4672,7251,Passeriformes,Perching Birds,preysOn
+4672,199840,Haemorhous mexicanus,House Finch,preysOn
+4672,6553,Aeronautes saxatalis,White-throated Swift,preysOn
+4672,4793,Charadrius vociferus,Killdeer,preysOn
+4672,3936,Scolopax minor,American Woodcock,preysOn
+4672,67731,Anax junius,Common Green Darner,preysOn
+4672,9981,Passerculus sandwichensis,Savannah Sparrow,preysOn
+4672,14850,Sturnus vulgaris,European Starling,preysOn
+4672,3855,Calidris mauri,Western Sandpiper,preysOn
+4672,14841,Sturnidae,Starlings,preysOn
+4672,72458,Actitis macularius,Spotted Sandpiper,preysOn
+4672,145245,Setophaga coronata,Yellow-rumped Warbler,preysOn
+4672,40269,Vespertilionidae,Evening Bats,preysOn
+4672,25591,Rana temporaria,European Common Frog,preysOn
+4672,,Arvicolinae,,preysOn
+4672,3454,Zenaida macroura,Mourning Dove,preyedUponBy
+4672,3936,Scolopax minor,American Woodcock,preyedUponBy

@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+204580,233951,Zaniolepis latipinnis,Longspine Combfish,eatenBy
+204580,48397,Raja clavata,Thornback Skate,eatenBy
+204580,63740,Gadus morhua,Atlantic Cod,eatenBy
+204580,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+204580,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+204580,101176,Galeorhinus galeus,School Shark,eatenBy
+204580,333608,Leukoma staminea,Pacific Littleneck Clam,preysOn

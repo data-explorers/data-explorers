@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53360,346051,Asphondylia ceanothi,Ceanothus Bud Gall Midge,eatenBy
+53360,,Erynnis afranius,,eatenBy
+53360,,Erynnis pacuvius,,eatenBy
+53360,,Chionodes occidentella,,eatenBy
+53360,,Callophrys augustinus,,eatenBy
+53360,,Callimus cyanipennis,,eatenBy
+53360,47208,Coleoptera,Beetles,pollinatedBy
+53360,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+53360,47822,Diptera,Flies,pollinatedBy

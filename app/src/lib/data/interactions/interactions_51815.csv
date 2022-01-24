@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51815,48548,Vanessa cardui,Painted Lady,eatenBy
+51815,61505,Manduca sexta,Carolina Sphinx,eatenBy
+51815,55468,Sabulodes,,eatenBy
+51815,133824,Chrysobothris,,eatenBy
+51815,155373,Glycaspis brimblecombei,Red Gum Lerp Psyllid,eatenBy
+51815,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+51815,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+51815,48662,Danaus plexippus,Monarch,eatenBy
+51815,6317,Calypte anna,Anna's Hummingbird,eatenBy
+51815,145238,Setophaga petechia,Yellow Warbler,eatenBy
+51815,9919,Piranga ludoviciana,Western Tanager,eatenBy
+51815,9319,Icterus cucullatus,Hooded Oriole,eatenBy
+51815,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+51815,9100,Melospiza melodia,Song Sparrow,eatenBy
+51815,47219,Apis mellifera,Western Honey Bee,eatenBy
+51815,6359,Selasphorus sasin,Allen's Hummingbird,eatenBy
+51815,208608,Trachymela sloanei,Australian Tortoise Beetle,eatenBy
+51815,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+51815,116834,Cacatua galerita,Sulphur-crested Cockatoo,eatenBy
+51815,55626,Pieris rapae,Cabbage White,eatenBy
+51815,428578,Paropsisterna,,eatenBy
+51815,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+51815,,Theclinesthes miskini,,eatenBy
+51815,,Temognatha spencii,,eatenBy
+51815,,Temognatha marginalis,,eatenBy
+51815,,Temognatha latithorax,,eatenBy
+51815,,Temognatha goryi,,eatenBy
+51815,1180556,Temognatha flavomarginata,,eatenBy
+51815,,Pseudanilara piliventris,,eatenBy
+51815,,Prasinocyma rhodocosma,,eatenBy
+51815,,Plesanemma fucata,,eatenBy
+51815,451010,Pholodes sinistraria,Sinister Moth,eatenBy
+51815,,Parepisparis excusata,,eatenBy
+51815,,Paralaea sarcodes,,eatenBy
+51815,355116,Paralaea porphyrinaria,Chestnut-veined Crest-moth,eatenBy
+51815,,Paralaea chionopasta,,eatenBy
+51815,,Paralaea atralba,,eatenBy
+51815,,Palleopa innotata,,eatenBy
+51815,,Neocuris viridimicans,,eatenBy
+51815,,Monoctenia smerintharia,,eatenBy
+51815,355134,Mnesampela privata,Autumn Gum Moth,eatenBy
+51815,,Mnesampela lenaea,,eatenBy
+51815,,Metaxymorpha imitator,,eatenBy
+51815,,Melobasis sexplagiata,,eatenBy
+51815,,Melobasis ignipicta,,eatenBy
+51815,,Melanodes anthracitaria,,eatenBy
+51815,527586,Julodimorpha bakewelli,,eatenBy
+51815,,Jalmenus daemeli,,eatenBy
+51815,,Hypodoxa bryophylla,,eatenBy
+51815,,Hypochrysops ignitus,,eatenBy
+51815,,Hypobapta percomptaria,,eatenBy
+51815,,Hypobapta barnardi,,eatenBy
+51815,,Heliomystis electrica,,eatenBy
+51815,486559,Gastrophora henricaria,,eatenBy
+51815,,Euloxia meandraria,,eatenBy
+51815,,Epidesmia chilonaria,,eatenBy
+51815,341909,Ectropis excursaria,Twig Looper,eatenBy
+51815,,Cyneoterpna wilsoni,,eatenBy
+51815,,Crypsiphona ocultaria,,eatenBy
+51815,125129,Cleora,,eatenBy
+51815,,Chalcophorotaenia quadriimpressa,,eatenBy
+51815,,Castiarina scintillata,,eatenBy
+51815,,Castiarina pallidipennis,,eatenBy
+51815,,Castiarina latipes,,eatenBy
+51815,,Castiarina insularis,,eatenBy
+51815,,Castiarina cincta,,eatenBy
+51815,,Castiarina castelnaudi,,eatenBy
+51815,,Castiarina acuticollis,,eatenBy
+51815,,Arhopala,,eatenBy
+51815,,Arhodia lasiocamparia,,eatenBy
+51815,,Anthrenocerus confertus,,eatenBy
+51815,,Anoplognathus viriditarsis,,eatenBy
+51815,,Anoplognathus pallidicollis,,eatenBy
+51815,,Anoplognathus montanus,,eatenBy
+51815,425108,Anoplognathus chloropyrus,Emerald Tip Beetle,eatenBy
+51815,,Anilara pagana,,eatenBy
+51815,,Xenaleyrodes timonii,,eatenBy
+51815,,Xenaleyrodes eucalypti,,eatenBy
+51815,,Unaspis assimilis,,eatenBy
+51815,,Turrubulana plana,,eatenBy
+51815,,Trichomytilus formosus,,eatenBy
+51815,,Lepidosaphes lidgetti,,eatenBy
+51815,,Triaspidis bicornis,,eatenBy
+51815,,Trachyops australis,,eatenBy
+51815,,Tortor daulias,,eatenBy
+51815,,Tholosanus proximus,,eatenBy
+51815,,Thaumastocoris nadeli,,eatenBy
+51815,,Thaumastocoris australicus,,eatenBy
+51815,,Spondyliaspis plicatuloides,,eatenBy
+51815,711865,Spondyliaspis bancrofti,,eatenBy
+51815,,Schedotrioza occidentalis,,eatenBy
+51815,,Schedotrioza multitudinea,,eatenBy
+51815,,Schedotrioza marginata,,eatenBy
+51815,,Schedotrioza luteogalla,,eatenBy
+51815,,Schedotrioza distorta,,eatenBy
+51815,,Schedotrioza apicobystra,,eatenBy
+51815,,Putoniessa dorsalis,,eatenBy
+51815,,Pseudotargionia comata,,eatenBy
+51815,,Pseudaulacaspis eugeniae,,eatenBy
+51815,,Pseudaulacaspis australis,,eatenBy
+51815,14588,Pycnonotus barbatus,Common Bulbul,pollinatedBy

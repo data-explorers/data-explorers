@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+247077,,Detritus,,eats
+247077,,sediment,,eats
+247077,106881,Nephrops norvegicus,Norway lobster,eatenBy
+247077,852690,Geryon longipes,,eatenBy
+247077,651712,Astrotoma agassizii,,preyedUponBy
+247077,,Harmotoe hartmanae,,preyedUponBy
+247077,,Notocrangon antarcticus,,preyedUponBy
+247077,,Antarctinoe spicoides,,preyedUponBy
+247077,390305,Harmothoe spinosa,,preyedUponBy
+247077,,Harmothoe crosetensis,,preyedUponBy
+247077,,Abyssorchomene nodimanus,,preyedUponBy
+247077,,Melphidippa antarctica,,preyedUponBy
+247077,,Waldeckia obesa,,preyedUponBy
+247077,,Epimeria macrodonta,,preyedUponBy
+247077,,Bathypanoploea schellenbergi,,preyedUponBy
+247077,466011,Eurythenes gryllus,,preyedUponBy
+247077,,Iphimediella cyclogena,,preyedUponBy
+247077,,Epimeria walkeri,,preyedUponBy

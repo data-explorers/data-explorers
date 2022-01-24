@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84111,144455,Ardea alba,Great Egret,eatenBy
+84111,,Rhamdia quelen,,eatenBy
+84111,,Rostrhamus sociabilis,,eatenBy
+84111,,Aramus guarauna,,eatenBy
+84111,,Rostrhamus sociabilis plumbeus,,eatenBy
+84111,6893,Dendrocygna autumnalis,Black-bellied Whistling-Duck,eatenBy
+84111,16956,Pitangus sulphuratus,Great Kiskadee,eatenBy
+84111,,Anastomus oscitans,,preyedUponBy
+84111,,Aramus guarauna,,preyedUponBy
+84111,4726,Milvago chimachima,Yellow-headed Caracara,preyedUponBy
+84111,,Rostrhamus sociabilis,,preyedUponBy

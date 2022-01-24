@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+345361,,Microphytobenthos,,eats
+345361,,Detritus,,eats
+345361,49606,Balistes capriscus,Grey Triggerfish,preyedUponBy
+345361,118619,Mullus surmuletus,Striped Red Mullet,preyedUponBy
+345361,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+345361,,Trisopterus minutus,,preyedUponBy
+345361,,Gadhus morhua,,preyedUponBy
+345361,103911,Labrus bergylta,Ballan Wrasse,preyedUponBy
+345361,338048,Zeugopterus punctatus,Topknot,preyedUponBy
+345361,120617,Arnoglossus laterna,Mediterranean Scaldfish,preyedUponBy
+345361,118695,Trachurus trachurus,Atlantic Horse Mackerel,preyedUponBy
+345361,118713,Cepola macrophthalma,Red Snakefish,preyedUponBy
+345361,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+345361,97345,Chelon labrosus,thicklip grey mullet,preyedUponBy
+345361,118602,Gaidropsarus mediterraneus,Shore Rockling,preyedUponBy
+345361,61387,Limanda limanda,Sand Dab,preyedUponBy
+345361,228496,Pollachius virens,Pollock,preyedUponBy
+345361,55396,Solea solea,Common Sole,preyedUponBy

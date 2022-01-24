@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+373402,47126,Plantae,plants,eats
+373402,,roots,,eats
+373402,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+373402,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+373402,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+373402,47951,Staphylinidae,Rove Beetles,preyedUponBy
+373402,336908,Cryptops hortensis,Common Cryptops,preyedUponBy
+373402,452503,Robertus lividus,,preyedUponBy
+373402,739596,Lithobius mutabilis,,preyedUponBy
+373402,765638,Lithobius calcaratus,,preyedUponBy
+373402,778699,Macrargus rufus,,preyedUponBy
+373402,568199,Lithobius curtipes,,preyedUponBy
+373402,,Lithobius,,preyedUponBy
+373402,131880,Notiophilus biguttatus,,preyedUponBy
+373402,547856,Synuchus vivalis,,preyedUponBy

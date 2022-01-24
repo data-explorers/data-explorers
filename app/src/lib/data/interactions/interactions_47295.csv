@@ -1,0 +1,39 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47295,47232,Carangidae,Jacks,eats
+47295,342912,Caridea,Caridean Shrimps,eats
+47295,49235,Clupeiformes,Herrings,eats
+47295,88563,Gobius,,eats
+47295,49172,Sciaenidae,Drums,eats
+47295,91189,Poecilia,Mollies,eats
+47295,49438,Centropomidae,Snooks,eats
+47295,,Pleuronectiformes,,eats
+47295,,Mexican mojarras,,eats
+47295,,Wigeongrass,,eats
+47295,49944,Gerreidae,Mojarras,eats
+47295,98501,Coris aygula,Clown Coris,eats
+47295,49172,Sciaenidae,Drums,eatenBy
+47295,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+47295,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+47295,49438,Centropomidae,Snooks,eatenBy
+47295,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+47295,49637,Epinephelus morio,Red Grouper,eatenBy
+47295,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+47295,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47295,47229,Selar crumenophthalmus,Bigeye Scad,eatenBy
+47295,47292,Ocyurus chrysurus,Yellowtail Snapper,eatenBy
+47295,84996,Carcharhinus leucas,Bull Shark,eatenBy
+47295,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+47295,4631,Fregata magnificens,Magnificent Frigatebird,eatenBy
+47295,88563,Gobius,,preysOn
+47295,47232,Carangidae,Jacks,preysOn
+47295,49235,Clupeiformes,Herrings,preysOn
+47295,342912,Caridea,Caridean Shrimps,preysOn
+47295,49172,Sciaenidae,Drums,preysOn
+47295,49438,Centropomidae,Snooks,preysOn
+47295,91189,Poecilia,Mollies,preysOn
+47295,,Pleuronectiformes,,preysOn
+47295,,Mexican mojarras,,preysOn
+47295,49944,Gerreidae,Mojarras,preysOn
+47295,,Wigeongrass,,preysOn
+47295,49172,Sciaenidae,Drums,preyedUponBy
+47295,49438,Centropomidae,Snooks,preyedUponBy

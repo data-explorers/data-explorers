@@ -1,0 +1,129 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+107889,123880,Bacillariophyceae,Diatoms,eats
+107889,48824,Porifera,Sponges,eats
+107889,1,Animalia,Animals,eats
+107889,47158,Insecta,Insects,eats
+107889,47126,Plantae,plants,eats
+107889,85493,Crustacea,Crustaceans,eats
+107889,548506,Rivularia,,eats
+107889,746897,Trichodesmium,Sea Sawdust,eats
+107889,200855,Anabaena,,eats
+107889,47115,Mollusca,Molluscs,eats
+107889,318459,Pennales,Pennate diatoms,eats
+107889,126917,Rotifera,Rotifers,eats
+107889,47686,Protozoa,protozoans,eats
+107889,54960,Nematoda,Nematodes,eats
+107889,121643,Copepoda,Copepods,eats
+107889,67337,Nostocaceae,,eats
+107889,123875,Melosira,,eats
+107889,53275,Chironomidae,Non-biting Midges,eats
+107889,53707,Cladophora,,eats
+107889,49333,Cyprinodontiformes,"Rivulines, Killifishes, and Livebearers",eats
+107889,107889,Oreochromis mossambicus,Mozambique Tilapia,eats
+107889,51428,Chaetomorpha,,eats
+107889,59117,Gambusia,Mosquitofishes,eats
+107889,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+107889,47208,Coleoptera,Beetles,eats
+107889,200891,Oedogonium,,eats
+107889,,Khakista,,eats
+107889,,Detritus,,eats
+107889,,Mastogloia smithii,,eats
+107889,,Phytoplankton,,eats
+107889,472699,Netrium,,eats
+107889,,Penium,,eats
+107889,,Frustulia,,eats
+107889,203655,Surirella,,eats
+107889,468484,Microspora,,eats
+107889,,Chara,,eats
+107889,,Gloeotrichia,,eats
+107889,,,,eats
+107889,,Protococcus,,eats
+107889,,Nephrocytium,,eats
+107889,203585,Arthrodesmus,,eats
+107889,,Oscillatoria,,eats
+107889,,Chaetophora,,eats
+107889,,Hapalosiphon,,eats
+107889,,Docidium,,eats
+107889,,Ulothrix,,eats
+107889,,Dictyosphaerium,,eats
+107889,,Diatoma,,eats
+107889,345823,Oocystis,,eats
+107889,345820,Neidium,,eats
+107889,,Dactylococcopsis,,eats
+107889,,Pleurotaenium,,eats
+107889,200879,Gymnodinium,,eats
+107889,339306,Cocconeis,,eats
+107889,,Spirulina,,eats
+107889,372658,Biddulphia,,eats
+107889,,Phacus,,eats
+107889,244899,Eunotia,,eats
+107889,,Zygnema,,eats
+107889,370763,Tetraedron,,eats
+107889,537869,Raphidiopsis,,eats
+107889,,Amphipleura,,eats
+107889,,Gyrosigma,,eats
+107889,,Diploneis,,eats
+107889,,Plectonema,,eats
+107889,200856,Ankistrodesmus,,eats
+107889,,Kirchneriella,,eats
+107889,,Chlorella,,eats
+107889,200875,Desmidium,,eats
+107889,311291,Nitzschia,,eats
+107889,123878,Cymbella,,eats
+107889,,Phormidium,,eats
+107889,,Hydrosera,,eats
+107889,,Gonatozygon,,eats
+107889,,Stigeoclonium,,eats
+107889,,Stigonema,,eats
+107889,,Aphanocapsa,,eats
+107889,,Tabellaria,,eats
+107889,208348,Coelosphaerium,,eats
+107889,,Nostoc,,eats
+107889,345199,Cyclotella,,eats
+107889,339308,Achnanthes,,eats
+107889,,Fragilaria,,eats
+107889,,Ophiocytium,,eats
+107889,123886,Gomphonema,,eats
+107889,200877,Euastrum,,eats
+107889,,Terpsinoe,,eats
+107889,,Tribonema,,eats
+107889,208357,Chroococcus,,eats
+107889,,Gloeocapsa,,eats
+107889,468174,Bulbochaete,,eats
+107889,203589,Crucigenia,,eats
+107889,,Stauroneis,,eats
+107889,203808,Navicula,,eats
+107889,,Coelastrum,,eats
+107889,,Selenastrum,,eats
+107889,200886,Peridinium,,eats
+107889,,Assiminea ovata,,eats
+107889,,Synedra tabulata,,eats
+107889,,Brachidontes virgiliae,,eats
+107889,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+107889,4334,Pelecanus erythrorhynchos,American White Pelican,eatenBy
+107889,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+107889,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+107889,4327,Pelecanus onocrotalus,Great White Pelican,eatenBy
+107889,,Pelecanus conspicillatus,,eatenBy
+107889,,Larus cirrocephalus,,eatenBy
+107889,4969,Ardea goliath,Goliath Heron,eatenBy
+107889,55529,Carcharhinus limbatus,Common Blacktip Shark,eatenBy
+107889,106405,Mystus montanus,Wynaad Mystus,eatenBy
+107889,4954,Ardea cinerea,Grey Heron,eatenBy
+107889,,Pandion haliaetus haliaetus,,eatenBy
+107889,5063,Anhinga anhinga,Anhinga,eatenBy
+107889,,Ceryle rudis,,eatenBy
+107889,,Mistichthys luzonensis,,preysOn
+107889,49587,Micropterus salmoides,Largemouth Bass,preyedUponBy
+107889,51271,Trachemys scripta elegans,Red-eared Slider,preyedUponBy
+107889,,no name,,preyedUponBy
+107889,106405,Mystus montanus,Wynaad Mystus,preyedUponBy
+107889,94609,Argyrosomus hololepidotus,Madagascar Meagre,preyedUponBy
+107889,187365,Elops machnata,Indo-Pacific Tenpounder,preyedUponBy
+107889,,Elops hawaiensis,,preyedUponBy
+107889,,Megalops cyprinoides,,preyedUponBy
+107889,82779,Clarias gariepinus,Sharptooth Catfish,preyedUponBy
+107889,55529,Carcharhinus limbatus,Common Blacktip Shark,preyedUponBy
+107889,4954,Ardea cinerea,Grey Heron,preyedUponBy
+107889,,Phalacrocorax carbo lucidus,,preyedUponBy
+107889,5063,Anhinga anhinga,Anhinga,preyedUponBy

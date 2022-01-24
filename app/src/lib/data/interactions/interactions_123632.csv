@@ -1,0 +1,80 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123632,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+123632,48645,Megathura crenulata,Giant Keyhole Limpet,eatenBy
+123632,48655,Aplysia californica,California Seahare,eatenBy
+123632,68764,Ostracoda,Seed Shrimp,eatenBy
+123632,52523,Carcinus maenas,European Green Crab,eatenBy
+123632,81606,Littorina littorea,Common Periwinkle,eatenBy
+123632,461796,Nymphon gracile,Gracile Sea Spider,eatenBy
+123632,47490,Polychaeta,Polychaete Worms,eatenBy
+123632,130085,Actinia equina,Beadlet anemone,eatenBy
+123632,54960,Nematoda,Nematodes,eatenBy
+123632,129493,Actinia fragacea,Strawberry Anemone,eatenBy
+123632,49532,Sphaeromatidae,Typical Seapills,eatenBy
+123632,47158,Insecta,Insects,eatenBy
+123632,446757,Acanthochitona crinita,Bristly Mail-shell,eatenBy
+123632,153169,Palaemon elegans,Rockpool Prawn,eatenBy
+123632,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,eatenBy
+123632,47825,Pycnogonida,Pycnogonids,eatenBy
+123632,85532,Mysida,Opossum Shrimps,eatenBy
+123632,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+123632,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+123632,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+123632,447803,Pempheris adspersa,New Zealand Big Eye,eatenBy
+123632,410546,Parma alboscapularis,New Zealand Black Angelfish,eatenBy
+123632,,Aplodactylus arctidens,,eatenBy
+123632,410431,Latridopsis ciliaris,Blue Moki,eatenBy
+123632,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+123632,347389,Lithopoma,,eatenBy
+123632,56649,Haliotis cracherodii,Black Abalone,eatenBy
+123632,56678,Haliotis corrugata,Pink Abalone,eatenBy
+123632,81963,Girella nigricans,Opaleye,eatenBy
+123632,179833,Lytechinus anamesus,white sea urchin,eatenBy
+123632,105388,Medialuna californiensis,Halfmoon,eatenBy
+123632,,Harparticoida,,eatenBy
+123632,130385,Palaemon serratus,Common Prawn,eatenBy
+123632,344748,Pomatoschistus minutus,Sand Goby,eatenBy
+123632,246632,Barleeia,Barleysnails,eatenBy
+123632,118499,Ampithoidae,,eatenBy
+123632,59806,Gammaridae,,eatenBy
+123632,83718,Tanaidacea,Tanaids,eatenBy
+123632,,Gibbula cineraria,,eatenBy
+123632,450561,Patella ulyssiponensis,China Limpet,eatenBy
+123632,210283,Ophiocomina nigra,Black Brittle-star,eatenBy
+123632,,Littorina saxatilis,,eatenBy
+123632,558730,Oshurkovia littoralis,An encrusting bryozoan,eatenBy
+123632,154706,Patella vulgata,Common European Limpet,eatenBy
+123632,418792,Phorcus lineatus,Lined Top Shell,eatenBy
+123632,,Omalogyra atomus,,eatenBy
+123632,245461,Halacaridae,,eatenBy
+123632,245452,Stenothoidae,,eatenBy
+123632,118692,Coryphoblennius galerita,Montagu's Blenny,eatenBy
+123632,172073,Rissoidae,Spire-shells,eatenBy
+123632,,Gibbula umbilicalis,,eatenBy
+123632,,Membranipora membranaceae,,eatenBy
+123632,152975,Pagurus bernhardus,Common Hermit Crab,eatenBy
+123632,482235,Tricolia pullus,Pheasant-shell,eatenBy
+123632,357614,Patella depressa,Black-footed Limpet,eatenBy
+123632,,Tonicella rubra,,eatenBy
+123632,192657,Lineus ruber,Reddish Variable Sandworm,eatenBy
+123632,923938,Procerodes littoralis,,eatenBy
+123632,357623,Aulactinia verrucosa,Gem Anemone,eatenBy
+123632,390162,Haliotis iris,Blackfoot Paua,eatenBy
+123632,61383,Homarus americanus,American Lobster,eatenBy
+123632,410681,Notomithrax ursus,Hairy Seaweed Crab,eatenBy
+123632,324537,Maja squinado,European Spider Crab,eatenBy
+123632,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+123632,,Calidris maritima,,eatenBy
+123632,48645,Megathura crenulata,Giant Keyhole Limpet,preyedUponBy
+123632,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+123632,48655,Aplysia californica,California Seahare,preyedUponBy
+123632,347389,Lithopoma,,preyedUponBy
+123632,81963,Girella nigricans,Opaleye,preyedUponBy
+123632,56649,Haliotis cracherodii,Black Abalone,preyedUponBy
+123632,179833,Lytechinus anamesus,white sea urchin,preyedUponBy
+123632,56678,Haliotis corrugata,Pink Abalone,preyedUponBy
+123632,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+123632,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+123632,410681,Notomithrax ursus,Hairy Seaweed Crab,preyedUponBy
+123632,,no name,,preyedUponBy
+123632,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy

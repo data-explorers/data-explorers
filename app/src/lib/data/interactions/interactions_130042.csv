@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130042,48070,Sagittaria latifolia,broadleaf arrowhead,eats
+130042,,Nuphar lutea,,eats
+130042,12727,Turdus migratorius,American Robin,eatenBy
+130042,13732,Anthus rubescens,American Pipit,eatenBy

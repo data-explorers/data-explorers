@@ -1,0 +1,60 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+75602,75602,Asclepias curassavica,tropical milkweed,eats
+75602,,Danaus plexippus plexippus,,eats
+75602,48662,Danaus plexippus,Monarch,eatenBy
+75602,47219,Apis mellifera,Western Honey Bee,eatenBy
+75602,71154,Aphis nerii,Oleander Aphid,eatenBy
+75602,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+75602,133791,Polistes exclamans,Guinea Paper Wasp,eatenBy
+75602,84640,Polistes dominula,European Paper Wasp,eatenBy
+75602,224501,Megachile perihirta,Western Leafcutter,eatenBy
+75602,300584,Euodynerus pratensis,,eatenBy
+75602,75602,Asclepias curassavica,tropical milkweed,eatenBy
+75602,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+75602,50931,Strymon melinus,Gray Hairstreak,eatenBy
+75602,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+75602,51111,Xylocopa,Large Carpenter Bees,eatenBy
+75602,127812,Hylaeus,Masked Bees,eatenBy
+75602,53809,Phidippus audax,Bold Jumping Spider,eatenBy
+75602,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+75602,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+75602,129893,Sphaerophoria sulphuripes,Forked Globetail,eatenBy
+75602,81677,Euchaetes egle,Milkweed Tussock Moth,eatenBy
+75602,55556,Oncopeltus fasciatus,Large Milkweed Bug,eatenBy
+75602,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+75602,126299,Danaus erippus,South American Monarch,eatenBy
+75602,,Danaus chrysippus,,eatenBy
+75602,,Spilostethus hospes,,eatenBy
+75602,,Arocatus rusticus,,eatenBy
+75602,,Erinnyis oenotrus,,eatenBy
+75602,,Erinnyis lassauxii,,eatenBy
+75602,,Pyrausta incoloralis,,eatenBy
+75602,,Lycorea cleobaea,,eatenBy
+75602,,Danaus gilippus,,eatenBy
+75602,,Tirumala limniace,,eatenBy
+75602,,Euploea core,,eatenBy
+75602,,Danaus genutia,,eatenBy
+75602,,Parantica sita,,eatenBy
+75602,,Danaus eresimus,,eatenBy
+75602,,Danaus cleophile,,eatenBy
+75602,,Lycorea halia,,eatenBy
+75602,497332,Bombus hortulanus,Andean Gardener Bumble Bee,eatenBy
+75602,,Danaus plexippus megalippe,,eatenBy
+75602,229306,Pterodoras granulosus,Granulated Catfish,eatenBy
+75602,,Papilio multicaudata multicaudata,,eatenBy
+75602,,Mischocyttarus mexicanus,,eatenBy
+75602,,Anartia fatima,,eatenBy
+75602,,Danaus eresimus montezuma,,eatenBy
+75602,437562,Hemiargus ceraunus astenidas,,eatenBy
+75602,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+75602,84693,Diplazon laetatorius,Common Hover Fly Parasitoid Wasp,eatenBy
+75602,,Nesophlox evelynae,,eatenBy
+75602,,Danaus plexippus plexippus,,eatenBy
+75602,,Emesis poeas,,eatenBy
+75602,,Satyrium californica,,eatenBy
+75602,,Agraulis vanillae,,eatenBy
+75602,,Danaus plexippus portoricensis,,eatenBy
+75602,,Oncopeltus unifasciatellus,,eatenBy
+75602,301557,Euphoria basalis,,eatenBy
+75602,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+75602,126299,Danaus erippus,South American Monarch,preyedUponBy

@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42220,48807,Umbellularia californica,California bay,eats
+42220,60218,Ficus carica,common fig,eats
+42220,69821,Cedrus,Cedars,eats
+42220,42051,Canis latrans,Coyote,eatenBy
+42220,4756,Cathartes aura,Turkey Vulture,eatenBy
+42220,42007,Puma concolor,Mountain Lion,eatenBy
+42220,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+42220,41641,Ursus arctos,Brown Bear,eatenBy
+42220,,Aquila chrysaetos,,eatenBy
+42220,,Puma concolor couguar,,eatenBy
+42220,41676,Bassariscus astutus,Ringtail,eatenBy
+42220,41852,Gulo gulo,Wolverine,eatenBy
+42220,41798,Martes americana,American Marten,eatenBy
+42220,4644,Falco mexicanus,Prairie Falcon,eatenBy
+42220,42051,Canis latrans,Coyote,preyedUponBy

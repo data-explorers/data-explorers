@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+77740,7428,Bombycilla cedrorum,Cedar Waxwing,eats
+77740,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+77740,47822,Diptera,Flies,eatenBy
+77740,47219,Apis mellifera,Western Honey Bee,eatenBy
+77740,12705,Turdus,Typical Thrushes,eatenBy
+77740,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+77740,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+77740,199840,Haemorhous mexicanus,House Finch,eatenBy
+77740,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+77740,69430,Candelaria concolor,Candleflame Lichen,eatenBy
+77740,566987,Plautia affinis,,eatenBy
+77740,,Glaucias amyoti,,eatenBy
+77740,,Bonagota cranaodes,,eatenBy
+77740,,Acherontia styx,,eatenBy
+77740,,Athyma ranga,,eatenBy
+77740,602400,Urbanus elmina,Andean longtail,eatenBy
+77740,9183,Zonotrichia capensis,Rufous-collared Sparrow,eatenBy
+77740,10293,Thraupis sayaca,Sayaca Tanager,eatenBy
+77740,,Platycichla flavipes,,eatenBy
+77740,12710,Turdus amaurochalinus,Creamy-bellied Thrush,eatenBy
+77740,,Turdus rufiventris,,eatenBy
+77740,,Schiffornis virescens,,eatenBy
+77740,,Ramphastos,,eatenBy
+77740,,Elaenia,,eatenBy
+77740,16956,Pitangus sulphuratus,Great Kiskadee,eatenBy
+77740,9861,Saltator similis,Green-winged Saltator,eatenBy
+77740,14878,Mimus saturninus,Chalk-browed Mockingbird,eatenBy
+77740,,Catharus minima,,eatenBy
+77740,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+77740,12737,Turdus leucomelas,Pale-breasted Thrush,eatenBy
+77740,40905,Pteropus poliocephalus,Grey-headed Flying-fox,eatenBy
+77740,,Alisterus scapularis,,eatenBy
+77740,,Myiopsitta monachus,,eatenBy
+77740,409639,Aenetus virescens,Puriri moth,eatenBy
+77740,12716,Turdus merula,Eurasian Blackbird,eatenBy
+77740,553974,Platycercus eximius eximius,White-cheeked rosella,eatenBy

@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42223,8021,Corvus brachyrhynchos,American Crow,eats
+42223,54771,Ostrya virginiana,American hophornbeam,eats
+42223,469472,Malus domestica,apple,eats
+42223,,Schismus barbatus,,eats
+42223,,leaves,,eats
+42223,,Viscaceae,,eats
+42223,,Astrocaryum gratum,,eats
+42223,,Raphia taedigera,,eats
+42223,,Attalea humilis,,eats
+42223,209871,Attalea butyracea,American oil palm,eats
+42223,,Sabal palmetto,,eats
+42223,,Coccothrinax argentata,,eats
+42223,,Attalea maripa,,eats
+42223,,Paulownia tomentosa,,eats
+42223,,Lespedeza cuneata,,eats
+42223,42051,Canis latrans,Coyote,eatenBy
+42223,41976,Lynx rufus,Bobcat,eatenBy
+42223,41663,Procyon lotor,Common Raccoon,eatenBy
+42223,42007,Puma concolor,Mountain Lion,eatenBy
+42223,42069,Vulpes vulpes,Red Fox,eatenBy
+42223,43584,Homo sapiens,Human,eatenBy
+42223,41636,Ursidae,Bears,eatenBy
+42223,8010,Corvus corax,Common Raven,eatenBy
+42223,4756,Cathartes aura,Turkey Vulture,eatenBy
+42223,41168,Desmodus rotundus,Common Vampire Bat,eatenBy
+42223,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+42223,42652,Didelphis virginiana,Virginia Opossum,eatenBy
+42223,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+42223,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+42223,42048,Canis lupus,Gray Wolf,eatenBy
+42223,,Canis lupus rufus,,eatenBy
+42223,,Lynx canadensis,,eatenBy
+42223,41997,Leopardus pardalis,Ocelot,eatenBy
+42223,41798,Martes americana,American Marten,eatenBy
+42223,41979,Lynx lynx,Eurasian Lynx,eatenBy
+42223,41970,Panthera onca,Jaguar,eatenBy
+42223,,Martes pennanti,,eatenBy
+42223,41641,Ursus arctos,Brown Bear,eatenBy
+42223,,Perisoreus canadensis,,eatenBy
+42223,4765,Coragyps atratus,Black Vulture,eatenBy
+42223,,Papilio canadensis,,eatenBy
+42223,,Caracara cheriway,,eatenBy
+42223,,Oiceoptoma noveboracense,,eatenBy
+42223,,Aquila chrysaetos,,eatenBy
+42223,41638,Ursus americanus,American Black Bear,preyedUponBy
+42223,4756,Cathartes aura,Turkey Vulture,preyedUponBy
+42223,42051,Canis latrans,Coyote,preyedUponBy
+42223,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+42223,4765,Coragyps atratus,Black Vulture,preyedUponBy

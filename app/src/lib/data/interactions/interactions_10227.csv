@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10227,49530,Geometridae,Geometer Moths,eats
+10227,47208,Coleoptera,Beetles,eats
+10227,47157,Lepidoptera,Butterflies and Moths,eats
+10227,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+10227,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10227,47124,Magnoliopsida,dicots,eats
+10227,52689,Sambucus,elders,eats
+10227,47544,Rubus,brambles,eats
+10227,47822,Diptera,Flies,eats
+10227,47434,Poaceae,grasses,eats
+10227,,Anomala binotata,,eats
+10227,,Paspalum urvillei,,eats
+10227,127634,Trichostema dichotomum,Blue Curls,eats
+10227,,Bryoria,,eats
+10227,19893,Strix varia,Barred Owl,eatenBy
+10227,41944,Felidae,Felids,eatenBy
+10227,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+10227,4645,Falco femoralis,Aplomado Falcon,eatenBy
+10227,47822,Diptera,Flies,preysOn
+10227,47208,Coleoptera,Beetles,preysOn
+10227,19893,Strix varia,Barred Owl,preyedUponBy
+10227,41944,Felidae,Felids,preyedUponBy
+10227,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy

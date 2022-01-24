@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50623,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+50623,,Brycon hilarii,,eatenBy
+50623,,Papilio cresphontes,,eatenBy
+50623,,Papilio aegeus,,eatenBy
+50623,,Papilio demoleus,,eatenBy

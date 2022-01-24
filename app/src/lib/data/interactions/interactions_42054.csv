@@ -1,0 +1,108 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42054,44311,Microtus pennsylvanicus,Meadow Vole,eats
+42054,3,Aves,Birds,eats
+42054,47628,Amphipoda,Amphipods,eats
+42054,41687,Phocidae,Earless Seals,eats
+42054,47162,Poales,"grasses, sedges, cattails, and allies",eats
+42054,54262,Abies,firs,eats
+42054,48147,Isopoda,Isopods,eats
+42054,47114,Gastropoda,Gastropods,eats
+42054,46260,Tamiasciurus hudsonicus,American Red Squirrel,eats
+42054,47584,Bivalvia,Bivalves,eats
+42054,42158,Cervidae,Deer,eats
+42054,47158,Insecta,Insects,eats
+42054,48036,Strongylocentrotus,,eats
+42054,44185,Muridae,Old World Mice and Rats,eats
+42054,44027,Geomyidae,Pocket Gophers,eats
+42054,520586,Tamias,,eats
+42054,44349,Peromyscus,North American Deer Mice,eats
+42054,3836,Calidris,Calidris Sandpipers,eats
+42054,4063,Oceanodroma,,eats
+42054,9100,Melospiza melodia,Song Sparrow,eats
+42054,41755,Eumetopias jubatus,Steller Sea Lion,eats
+42054,47951,Staphylinidae,Rove Beetles,eats
+42054,4509,Fratercula cirrhata,Tufted Puffin,eats
+42054,4265,Phalacrocorax auritus,Double-crested Cormorant,eats
+42054,4424,Sterna,Typical Terns,eats
+42054,42054,Vulpes,Typical Foxes,eats
+42054,62807,Mytilus,Black Mussels,eats
+42054,4180,Fulmarus glacialis,Northern Fulmar,eats
+42054,41860,Enhydra lutris,Sea Otter,eats
+42054,4561,Synthliboramphus antiquus,Ancient Murrelet,eats
+42054,63089,Clitellata,Clitellates,eats
+42054,6922,Anas,"Mallards, Pintails, and Allies",eats
+42054,7089,Branta canadensis,Canada Goose,eats
+42054,4349,Larus hyperboreus,Glaucous Gull,eats
+42054,3951,Limosa lapponica,Bar-tailed Godwit,eats
+42054,4620,Gavia,Loons,eats
+42054,3959,Phalaropus lobatus,Red-necked Phalarope,eats
+42054,81636,Mya,,eats
+42054,4519,Uria aalge,Common Murre,eats
+42054,49581,Nereididae,,eats
+42054,4415,Cepphus columba,Pigeon Guillemot,eats
+42054,,Magnoliophyta,,eats
+42054,,berries,,eats
+42054,,Canadian lynx,,eats
+42054,,Invertebrata,,eats
+42054,,Snowshoe hare,,eats
+42054,,Lepus,,eats
+42054,,Norway rat,,eats
+42054,,American moose,,eats
+42054,,Cinereus shrew,,eats
+42054,,Pisces,,eats
+42054,,Arvicolinae,,eats
+42054,,Pseudois,,eats
+42054,,Sciurognathi,,eats
+42054,44653,Tatera indica,Indian Gerbil,eats
+42054,,Peromyscus gossypinus,,eats
+42054,46255,Ammospermophilus leucurus,White-tailed Antelope Squirrel,eats
+42054,,Anas strepera,,eats
+42054,,Lepus nigricollis,,eats
+42054,,Macaca sylvanus,,eats
+42054,,Marmota bobak,,eats
+42054,,marmot,,eats
+42054,,jack rabbit,,eats
+42054,,mantled ground squirrel,,eats
+42054,459589,Hyas,,eats
+42054,4547,Ptychoramphus aleuticus,Cassin's Auklet,eats
+42054,47646,Myoxocephalus,Shorthorn Sculpins,eats
+42054,4399,Larus glaucescens,Glaucous-winged Gull,eats
+42054,4817,Charadrius semipalmatus,Semipalmated Plover,eats
+42054,14118,Plectrophenax,Snow and McKay's Buntings,eats
+42054,,Chen canagica,,eats
+42054,7047,Aythya marila,Greater Scaup,eats
+42054,361770,Chionoecetes opilio,Snow Crab,eats
+42054,4516,Uria lomvia,Thick-billed Murre,eats
+42054,86991,Blennius,,eats
+42054,,Gammaridea,,eats
+42054,7087,Branta bernicla,Brant,eats
+42054,5200,Buteo lagopus,Rough-legged Hawk,eats
+42054,89645,Lumpenus,,eats
+42054,4489,Stercorarius parasiticus,Parasitic Jaeger,eats
+42054,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+42054,144594,Bubo scandiacus,Snowy Owl,eats
+42054,4543,Aethia psittacula,Parakeet Auklet,eats
+42054,,Aethia cristatella,,eats
+42054,165100,Mallotus villosus,Capelin,eats
+42054,,Puffinus tenuirostris,,eats
+42054,7030,Somateria spectabilis,King Eider,eats
+42054,,Detritus complex,,eats
+42054,4356,Larus canus,Mew Gull,eats
+42054,,Fratercula corniculata,,eats
+42054,7024,Somateria mollissima,Common Eider,eats
+42054,7170,Clangula hyemalis,Long-tailed Duck,eats
+42054,4494,Rissa tridactyla,Black-legged Kittiwake,eats
+42054,4283,Phalacrocorax pelagicus,Pelagic Cormorant,eats
+42054,7164,Polysticta stelleri,Steller's Eider,eats
+42054,6917,Cygnus columbianus,Tundra Swan,eats
+42054,116840,Calcarius lapponicus,Lapland Longspur,eats
+42054,42069,Vulpes vulpes,Red Fox,eatenBy
+42054,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+42054,42054,Vulpes,Typical Foxes,eatenBy
+42054,43584,Homo sapiens,Human,eatenBy
+42054,41852,Gulo gulo,Wolverine,eatenBy
+42054,,Aquila chrysaetos,,eatenBy
+42054,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+42054,44185,Muridae,Old World Mice and Rats,preysOn
+42054,,Pseudois,,preysOn
+42054,,Ochotona ladacensis,,preysOn

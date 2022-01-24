@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81579,84644,Phalangium opilio,European Harvestman,eats
+81579,68901,Salticus scenicus,Zebra Jumping Spider,eats
+81579,,Cisseps fulvicollis,,eats
+81579,,Acanthocephala terminalis,,eats
+81579,52425,Chrysopidae,Green Lacewings,preysOn
+81579,47822,Diptera,Flies,preysOn
+81579,48008,Ephemeridae,Burrowing Mayflies,preysOn
+81579,48091,Brachycera,Brachyceran Flies,preysOn
+81579,,Cicadomorpha,,preysOn
+81579,320607,Sceliphron spirifex,Mud Dauber,preyedUponBy

@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+79060,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+79060,,Catopsilia scylla,,eatenBy
+79060,,Catopsilia pomona,,eatenBy
+79060,143076,Catopsilia pyranthe,Mottled Emigrant,eatenBy
+79060,133416,Phoebis philea,Orange-barred Sulphur,eatenBy
+79060,,Enchenopa quadricolor,,eatenBy
+79060,312697,Phoebis sennae marcellina,,eatenBy
+79060,312651,Phoebis philea philea,American Orange-barred Sulphur,eatenBy
+79060,43088,Heterohyrax brucei,Bush Hyrax,preyedUponBy
+79060,,Procavia capensis,,preyedUponBy

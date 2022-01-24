@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4077,47459,Cephalopoda,Cephalopods,eats
+4077,85493,Crustacea,Crustaceans,eats
+4077,85910,Myctophidae,Lanternfishes,eats
+4077,47628,Amphipoda,Amphipods,eats
+4077,153112,Euphausiacea,krill,eats
+4077,121643,Copepoda,Copepods,eats
+4077,48332,Scyphozoa,True Jellies,eats
+4077,,Gnathostomata,,eats
+4077,82337,Loligo,,eats
+4077,,Teuthida,,eats
+4077,,Kondakovia longimana,,eats
+4077,617783,Electrona antarctica,,eats
+4077,146888,Illex,Shortfin Squids,eats
+4077,,Medusozoa,,eats
+4077,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4077,144594,Bubo scandiacus,Snowy Owl,eatenBy

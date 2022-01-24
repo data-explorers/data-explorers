@@ -1,0 +1,108 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+46020,47158,Insecta,Insects,eats
+46020,47170,Fungi,Fungi Including Lichens,eats
+46020,47120,Arthropoda,Arthropods,eats
+46020,3,Aves,Birds,eats
+46020,40151,Mammalia,Mammals,eats
+46020,47850,Quercus agrifolia,coast live oak,eats
+46020,57254,Pyracantha coccinea,Firethorn,eats
+46020,83799,Mitchella repens,partridgeberry,eats
+46020,47727,Acer,maples,eats
+46020,47851,Quercus,oaks,eats
+46020,49011,Quercus lobata,valley oak,eats
+46020,46020,Sciurus niger,Fox Squirrel,eats
+46020,60001,Dianthus,carnations,eats
+46020,78555,Phoenix dactylifera,Date Palm,eats
+46020,47126,Plantae,plants,eats
+46020,47434,Poaceae,grasses,eats
+46020,53376,Cotoneaster,Cotoneasters,eats
+46020,54495,Juglans,Walnuts,eats
+46020,56955,Helianthus,sunflowers,eats
+46020,55009,Rhus integrifolia,lemonade berry,eats
+46020,57983,Helianthus annuus,Common Sunflower,eats
+46020,47562,Pinaceae,pine family,eats
+46020,53549,Ulmus,elms,eats
+46020,13858,Passer domesticus,House Sparrow,eats
+46020,76949,Eriobotrya japonica,Loquat,eats
+46020,53405,Heteromeles arbutifolia,Toyon,eats
+46020,57354,Schinus molle,Peruvian Pepper Tree,eats
+46020,47125,Angiospermae,flowering plants,eats
+46020,56090,Morus alba,white mulberry,eats
+46020,78554,Phoenix canariensis,Canary Island palm,eats
+46020,48460,Life,,eats
+46020,47162,Poales,"grasses, sedges, cattails, and allies",eats
+46020,54503,Juglans californica,Southern California Walnut,eats
+46020,50299,Fragaria,strawberries,eats
+46020,36204,Sceloporus occidentalis,Western Fence Lizard,eats
+46020,53438,Rosa,roses,eats
+46020,48866,Arecales,"palms, bullanocks, and allies",eats
+46020,58390,Triticum,Wheats,eats
+46020,43583,Homo,Ancestral and Modern Humans,eats
+46020,49347,Phacelia,Scorpionweeds,eats
+46020,48874,Anacardiaceae,cashew family,eats
+46020,58202,Malva parviflora,cheeseweed mallow,eats
+46020,78755,Prunus persica,Peach,eats
+46020,48867,Arecaceae,palms,eats
+46020,82722,Pinus halepensis,Aleppo pine,eats
+46020,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+46020,47561,Pinus,pines,eats
+46020,53817,Eleodes,Desert Stink Beetles,eats
+46020,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+46020,47903,Cactaceae,cactus family,eats
+46020,136329,Pinopsida,conifers,eats
+46020,,leaves,,eats
+46020,,no name,,eats
+46020,,Leaves,,eats
+46020,,Acorns,,eats
+46020,,acorns,,eats
+46020,,Maclura pomifera,,eats
+46020,,Citrus,,eats
+46020,48448,Zea mays,Maize,eats
+46020,,Carya illinoinensis,,eats
+46020,63205,Arachis hypogaea,Peanut,eats
+46020,,Citrus × aurantium,,eats
+46020,83074,Magnolia grandiflora,southern magnolia,eats
+46020,,Cucurbita maxima maxima,,eats
+46020,,Homadaula anisocentra,,eats
+46020,83434,Diospyros,persimmons,eats
+46020,,Celtis laevigata,,eats
+46020,,Fragaria × ananassa,,eats
+46020,,Kroenleinia grusonii,,eats
+46020,,Pisidium,,eats
+46020,,Macadamia integrifolia,,eats
+46020,,Prunus dulcis,,eats
+46020,,Persea americana,,eats
+46020,76541,Cucurbita pepo,American pumpkin,eats
+46020,332391,Arachis glabrata,perennial peanut,eats
+46020,49662,Platanus occidentalis,American sycamore,eats
+46020,,Livistona drudei,,eats
+46020,,Malus pumila,,eats
+46020,,Ceratonia siliqua,,eats
+46020,135250,Strelitzia nicolai,giant bird-of-paradise flower,eats
+46020,42051,Canis latrans,Coyote,eatenBy
+46020,41976,Lynx rufus,Bobcat,eatenBy
+46020,19893,Strix varia,Barred Owl,eatenBy
+46020,26172,Squamata,Snakes and Lizards,eatenBy
+46020,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+46020,19350,Strigiformes,Owls,eatenBy
+46020,46020,Sciurus niger,Fox Squirrel,eatenBy
+46020,8021,Corvus brachyrhynchos,American Crow,eatenBy
+46020,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+46020,42069,Vulpes vulpes,Red Fox,eatenBy
+46020,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+46020,4756,Cathartes aura,Turkey Vulture,eatenBy
+46020,42652,Didelphis virginiana,Virginia Opossum,eatenBy
+46020,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+46020,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+46020,20044,Bubo virginianus,Great Horned Owl,eatenBy
+46020,,American mink,,eatenBy
+46020,4765,Coragyps atratus,Black Vulture,eatenBy
+46020,,Aquila chrysaetos,,eatenBy
+46020,47158,Insecta,Insects,preysOn
+46020,19893,Strix varia,Barred Owl,preyedUponBy
+46020,41976,Lynx rufus,Bobcat,preyedUponBy
+46020,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+46020,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+46020,,Pituophis melanoleucus lodingi,,preyedUponBy
+46020,30764,Crotalus atrox,Western Diamond-backed Rattlesnake,preyedUponBy
+46020,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy

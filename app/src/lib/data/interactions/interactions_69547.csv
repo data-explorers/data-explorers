@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69547,1,Animalia,Animals,eats
+69547,9080,Cardinalis,Typical Cardinals,eats
+69547,,Oxysarcodexia ochripyga,,eats
+69547,120921,Cochliomyia macellaria,Secondary Screwworm Fly,eats
+69547,,Sarcophaga utilis,,eats
+69547,,Phaenicia sericata,,eats
+69547,,Sericata,,eats
+69547,,O. ochripyga larvae,,eats
+69547,,S. utilis larvae,,eats
+69547,,C.,,eats
+69547,,Sinea complexa,,eatenBy
+69547,,O. ochripyga larvae,,preysOn
+69547,,C.,,preysOn
+69547,,Sericata,,preysOn
+69547,,Phaenicia sericata,,preysOn
+69547,120921,Cochliomyia macellaria,Secondary Screwworm Fly,preysOn
+69547,,Sinea complexa,,preyedUponBy

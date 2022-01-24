@@ -1,0 +1,195 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4265,2,Chordata,Chordates,eats
+4265,63741,Gadiformes,Cods,eats
+4265,47645,Cottidae,Typical Sculpins,eats
+4265,63770,Engraulis mordax,Northern Anchovy,eats
+4265,47186,Decapoda,Decapods,eats
+4265,47187,Malacostraca,Malacostracans,eats
+4265,1,Animalia,Animals,eats
+4265,49609,Cyprinidae,Cyprinids,eats
+4265,49592,Lepomis,Common Sunfishes,eats
+4265,53911,Cyprinus carpio,European Carp,eats
+4265,49591,Lepomis macrochirus,Bluegill,eats
+4265,101053,Fundulus diaphanus,banded killifish,eats
+4265,49587,Micropterus salmoides,Largemouth Bass,eats
+4265,47314,Anguilliformes,True Eels,eats
+4265,47114,Gastropoda,Gastropods,eats
+4265,55844,Vinca minor,lesser periwinkle,eats
+4265,81606,Littorina littorea,Common Periwinkle,eats
+4265,117650,Mytilus edulis,Blue Mussel,eats
+4265,48919,Littorina,Periwinkles,eats
+4265,58647,Fundulidae,Topminnows,eats
+4265,49588,Centrarchidae,Freshwater Sunfishes,eats
+4265,47782,Cambaridae,Cambarid Crayfishes,eats
+4265,146827,Menidia menidia,Atlantic Silverside,eats
+4265,49175,Siluriformes,Catfishes,eats
+4265,49106,Syngnathidae,Pipefishes and Seahorses,eats
+4265,47308,Gobiidae,Gobies,eats
+4265,51911,Engraulidae,Anchovies,eats
+4265,49556,Chilopoda,Centipedes,eats
+4265,85493,Crustacea,Crustaceans,eats
+4265,54539,Syngnathus,Pipe-fishes,eats
+4265,482316,Epitonium clathrus,Common Wentletrap,eats
+4265,51912,Engraulis,,eats
+4265,49411,Synodus,,eats
+4265,121639,Brachyura,True Crabs,eats
+4265,49284,Labridae,Wrasses,eats
+4265,62807,Mytilus,Black Mussels,eats
+4265,51200,Hippolytidae,Hump-backed Shrimps,eats
+4265,47827,Cancer,,eats
+4265,47178,Actinopterygii,Ray-finned Fishes,eats
+4265,47285,Scorpaenidae,Scorpionfishes,eats
+4265,91566,Pterygoplichthys,Sailfin Catfishes,eats
+4265,47284,Pterois,,eats
+4265,132471,Opsanus beta,Gulf Toadfish,eats
+4265,,Pitho anisodon,,eats
+4265,,Lepisosteus platyrhincus,,eats
+4265,58654,Ameiurus nebulosus,Brown Bullhead,eats
+4265,49248,Myrichthys breviceps,Sharptail Eel,eats
+4265,179508,Bagre marinus,Gafftopsail Catfish,eats
+4265,,Sparisoma,,eats
+4265,,Pungitius pungitius,,eats
+4265,51362,Alosa pseudoharengus,Alewife,eats
+4265,,Catostomus,,eats
+4265,47644,Cottus,Freshwater Sculpins,eats
+4265,,Notropis hudsonius,,eats
+4265,,Orconectes,,eats
+4265,213402,Ammodytes americanus,American Sand Lance,eats
+4265,217788,Cryptacanthodes maculatus,Wrymouth,eats
+4265,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eats
+4265,47639,Myoxocephalus scorpius,Shorthorn Sculpin,eats
+4265,51371,Pseudopleuronectes americanus,Winter Flounder,eats
+4265,179504,Osmerus mordax,Rainbow Smelt,eats
+4265,51390,Tautogolabrus adspersus,Cunner,eats
+4265,233996,Zoarces americanus,Ocean Pout,eats
+4265,228496,Pollachius virens,Pollock,eats
+4265,152974,Pholis gunnellus,Rock gunnel,eats
+4265,,Catostomus commersonii,,eats
+4265,63740,Gadus morhua,Atlantic Cod,eats
+4265,97990,Clupea harengus,Atlantic Herring,eats
+4265,224886,Merluccius bilinearis,Silver Hake,eats
+4265,49219,Anguilla rostrata,American Eel,eats
+4265,,Lumpenus sagitta,,eats
+4265,117571,Clupea pallasii,Pacific herring,eats
+4265,117555,Embiotoca lateralis,Striped surfperch,eats
+4265,67362,Pholis laeta,Crescent gunnel,eats
+4265,,Apodichthys flavidus,,eats
+4265,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eats
+4265,47522,Oncorhynchus,Pacific Salmons and Trouts,eats
+4265,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4265,98855,Cymatogaster aggregata,Shiner Surfperch,eats
+4265,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4265,165100,Mallotus villosus,Capelin,eats
+4265,1303751,Pleuronectoidei,Flatfishes,eats
+4265,86396,Ammodytes,,eats
+4265,86991,Blennius,,eats
+4265,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+4265,,Neogobius melanostomus,,eats
+4265,58627,Perca flavescens,Yellow Perch,eats
+4265,58612,Carassius auratus,Goldfish,eats
+4265,99544,Dorosoma cepedianum,American Gizzard Shad,eats
+4265,58655,Ictaluridae,North American Freshwater Catfishes,eats
+4265,84432,Morone americana,White Perch,eats
+4265,,Micropterus dolomieu,,eats
+4265,,Teleostei,,eats
+4265,,Necturus maculosus,,eats
+4265,,Sander vitreus,,eats
+4265,49749,Aplodinotus grunniens,Freshwater Drum,eats
+4265,58637,Ambloplites rupestris,Rock Bass,eats
+4265,49614,Lepomis gibbosus,Pumpkinseed,eats
+4265,,Cottus cognatus,,eats
+4265,,Esocidae,,eats
+4265,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4265,42054,Vulpes,Typical Foxes,eatenBy
+4265,26159,Alligator mississippiensis,American Alligator,eatenBy
+4265,,Aquila chrysaetos,,eatenBy
+4265,964671,Contracaecum,,eatenBy
+4265,20979,Anura,Frogs and Toads,preysOn
+4265,63770,Engraulis mordax,Northern Anchovy,preysOn
+4265,47645,Cottidae,Typical Sculpins,preysOn
+4265,51912,Engraulis,,preysOn
+4265,91566,Pterygoplichthys,Sailfin Catfishes,preysOn
+4265,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4265,355675,Vertebrata,Vertebrates,preysOn
+4265,49587,Micropterus salmoides,Largemouth Bass,preysOn
+4265,49175,Siluriformes,Catfishes,preysOn
+4265,209100,Gyrodactylus,,preysOn
+4265,,Ergasilus auritus,,preysOn
+4265,106222,Mugil cephalus,Sea Mullet,preysOn
+4265,117564,Clevelandia ios,Arrow Gobi,preysOn
+4265,,Dilepididae,,preysOn
+4265,,Pygidiopsoides spindalis,,preysOn
+4265,,Hysterolecitha,,preysOn
+4265,,Nerocila californica,,preysOn
+4265,339176,Renicola buchanani,,preysOn
+4265,914144,Galactosomum,,preysOn
+4265,,Trichodina,,preysOn
+4265,339174,Cyathocotylidae,,preysOn
+4265,,Renicola cerithidicola,,preysOn
+4265,,Mesostephanus appendiculatoides,,preysOn
+4265,,trypanorynch,,preysOn
+4265,63081,Hirudinea,Leeches,preysOn
+4265,,Stictodora hancocki,,preysOn
+4265,339183,Euhaplorchis californiensis,,preysOn
+4265,101455,Gillichthys mirabilis,Longjaw Mudsucker,preysOn
+4265,179533,Fundulus parvipinnis,California Killifish,preysOn
+4265,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+4265,,Spirocamallanus pereirai,,preysOn
+4265,339182,Phocitremoides ovale,,preysOn
+4265,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4265,,Pleuronectiformes,,preysOn
+4265,63687,Embiotocidae,Surfperches,preysOn
+4265,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",preysOn
+4265,87532,Clupea,,preysOn
+4265,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+4265,47525,Pleuronectidae,Righteye Flounders,preysOn
+4265,49236,Clupeidae,"Shads, Sardines, and Menhadens",preysOn
+4265,85949,Osmeridae,Smelts,preysOn
+4265,117569,Microgadus proximus,Pacific Tomcod,preysOn
+4265,117571,Clupea pallasii,Pacific herring,preysOn
+4265,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4265,47522,Oncorhynchus,Pacific Salmons and Trouts,preysOn
+4265,117555,Embiotoca lateralis,Striped surfperch,preysOn
+4265,,Petrotyx hopkinsi,,preysOn
+4265,117554,Embiotoca jacksoni,Black surfperch,preysOn
+4265,63685,Hyperprosopon argenteum,Walleye Surfperch,preysOn
+4265,113538,Symphurus atricaudus,California Tonguefish,preysOn
+4265,117561,Phanerodon furcatus,White surfperch,preysOn
+4265,117545,Parophrys vetulus,English sole,preysOn
+4265,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+4265,,Opisthonema,,preysOn
+4265,48416,Citharichthys,,preysOn
+4265,117542,Citharichthys stigmaeus,speckled sanddab,preysOn
+4265,,Porichthys analis,,preysOn
+4265,92330,Symphurus,,preysOn
+4265,91175,Pleuronichthys,,preysOn
+4265,86453,Anchoa,,preysOn
+4265,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+4265,,Leuresthes sardina,,preysOn
+4265,114421,Trinectes fonsecensis,Spottedfin Sole,preysOn
+4265,,Colpichthys regis,,preysOn
+4265,,Syacium ovale,,preysOn
+4265,117553,Brachyistius frenatus,Kelp Surfperch,preysOn
+4265,47762,Sebastes,Rockfishes,preysOn
+4265,97375,Chilara taylori,Spotted Cusk-eel,preysOn
+4265,,Micrometrus,,preysOn
+4265,,Atherinops,,preysOn
+4265,89420,Lepophidium,,preysOn
+4265,115227,Zalembius rosaceus,Pink Seaperch,preysOn
+4265,117558,Hypsurus caryi,Rainbow Seaperch,preysOn
+4265,94802,Atherinopsis californiensis,Jack Silverside,preysOn
+4265,179601,Etropus crossotus,Fringed Flounder,preysOn
+4265,111616,Rhacochilus vacca,Pile surfperch,preysOn
+4265,,Leuresthes tenuis,,preysOn
+4265,118678,Scomber scombrus,Atlantic Mackerel,preysOn
+4265,,Ameiurus melas,,preysOn
+4265,58612,Carassius auratus,Goldfish,preysOn
+4265,47516,Oncorhynchus mykiss,Rainbow Trout,preysOn
+4265,83170,Platichthys stellatus,Starry Flounder,preysOn
+4265,99544,Dorosoma cepedianum,American Gizzard Shad,preysOn
+4265,,Ameiurus,,preysOn
+4265,81554,Ictalurus punctatus,Channel Catfish,preysOn
+4265,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+4265,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+4265,,no name,,preyedUponBy
+4265,26159,Alligator mississippiensis,American Alligator,preyedUponBy

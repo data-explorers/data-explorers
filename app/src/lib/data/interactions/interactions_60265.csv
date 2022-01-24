@@ -1,0 +1,94 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60265,202789,Trichoplusia ni,Cabbage Looper Moth,eatenBy
+60265,231425,Spodoptera exigua,Beet Armyworm Moth,eatenBy
+60265,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+60265,42069,Vulpes vulpes,Red Fox,eatenBy
+60265,14850,Sturnus vulgaris,European Starling,eatenBy
+60265,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+60265,12942,Sialia sialis,Eastern Bluebird,eatenBy
+60265,,Creontiades dilutus,,eatenBy
+60265,,Phtheochroa pulvillana,,eatenBy
+60265,,Elasmopalpus lignosellus,,eatenBy
+60265,,Lacanobia subjuncta,,eatenBy
+60265,,Trichordestra lilacina,,eatenBy
+60265,1292824,Copitarsia incommoda,,eatenBy
+60265,,Spodoptera latifascia,,eatenBy
+60265,,Pseudaletia unipuncta,,eatenBy
+60265,,Neogalea sunia,,eatenBy
+60265,,Olene mendosa,,eatenBy
+60265,,Stenalcidia pampinaria,,eatenBy
+60265,13094,Erithacus rubecula,European Robin,eatenBy
+60265,,Phoenicurus ochruros,,eatenBy
+60265,,Luscinia megarhynchos,,eatenBy
+60265,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+60265,41800,Martes foina,Stone Marten,eatenBy
+60265,,Sylvia cantillans,,eatenBy
+60265,,Ficedula hypoleuca,,eatenBy
+60265,15303,Sylvia undata,Dartford Warbler,eatenBy
+60265,,Oriolus oriolus,,eatenBy
+60265,12716,Turdus merula,Eurasian Blackbird,eatenBy
+60265,,Sylvia,,eatenBy
+60265,,Sylvia communis,,eatenBy
+60265,891696,Pica pica,Eurasian Magpie,eatenBy
+60265,855297,Meles meles,European Badger,eatenBy
+60265,55371,Saxicola torquatus,African Stonechat,eatenBy
+60265,13141,Monticola solitarius,Blue Rock-Thrush,eatenBy
+60265,12748,Turdus philomelos,Song Thrush,eatenBy
+60265,43042,Erinaceus europaeus,Common Hedgehog,eatenBy
+60265,,Phoenicurus phoenicurus,,eatenBy
+60265,,Turdus iliacus,,eatenBy
+60265,,Sylvia melanocephala,,eatenBy
+60265,15302,Sylvia borin,Garden Warbler,eatenBy
+60265,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+60265,243760,Frankliniella occidentalis,Western Flower Thrips,eatenBy
+60265,,Copitarsia decolora,,eatenBy
+60265,,Agrotis ipsilon,,eatenBy
+60265,,Phomopsis asparagi,,eatenBy
+60265,,Phlyctema,,eatenBy
+60265,,Ophiomyia simplex,,eatenBy
+60265,,Zopfia rhizophila,,eatenBy
+60265,,Crioceris asparagi,,eatenBy
+60265,,Plioreocepta poeciloptera,,eatenBy
+60265,,Crioceris duodecimpunctata,,eatenBy
+60265,,Crioceris quinquepunctata,,eatenBy
+60265,,Lasioglossum sexnotatum,,eatenBy
+60265,120114,Anthrenus,Carpet Beetles,pollinatedBy
+60265,48060,Prosopis,mesquites,pollinatedBy
+60265,61858,Lucilia,Greenbottle Flies,pollinatedBy
+60265,47220,Apis,Honey Bees,pollinatedBy
+60265,,Rhingia nasica,,pollinatedBy
+60265,,Physocephala tibialis,,pollinatedBy
+60265,,Myospila meditabunda,,pollinatedBy
+60265,,Phasia,,pollinatedBy
+60265,,Strangalia famelica,,pollinatedBy
+60265,,Archytas analis,,pollinatedBy
+60265,,Thorybes bathyllus,,pollinatedBy
+60265,177484,Leptura,,pollinatedBy
+60265,250735,Auplopus,,pollinatedBy
+60265,,Hammomyia,,pollinatedBy
+60265,,Parhelophilus divisus,,pollinatedBy
+60265,,Bibio albipennis,,pollinatedBy
+60265,477025,Ichneumon ambulatorius,,pollinatedBy
+60265,201283,Chrysomya,,pollinatedBy
+60265,,Ceratina dupla,,pollinatedBy
+60265,,Gonochrysis,,pollinatedBy
+60265,250754,Liris,,pollinatedBy
+60265,131058,Corticaria,,pollinatedBy
+60265,,Heterosarus,,pollinatedBy
+60265,,Tetralonia,,pollinatedBy
+60265,,Rhamphomyia gilvipilosa,,pollinatedBy
+60265,,Agrotis ipsilon,,pollinatedBy
+60265,,Coelioxys germana,,pollinatedBy
+60265,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+60265,,Carceris robertsonii,,pollinatedBy
+60265,,Coelioxys alternata,,pollinatedBy
+60265,699698,Neotrypetes,,pollinatedBy
+60265,,Phorbia,,pollinatedBy
+60265,,Parandrena,,pollinatedBy
+60265,,Mesogramma,,pollinatedBy
+60265,,Andrena nigrae,,pollinatedBy
+60265,,Linnaemya,,pollinatedBy
+60265,,Ashmeadiella bucconis,,pollinatedBy
+60265,,Sphecodium,,pollinatedBy
+60265,,Spallanzania hesperidarum,,pollinatedBy
+60265,,Anoplius illinoensis,,pollinatedBy

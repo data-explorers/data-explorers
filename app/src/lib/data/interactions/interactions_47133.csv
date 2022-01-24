@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47133,61356,Vespula,Ground Yellowjackets,preysOn
+47133,127777,Vespula vulgaris,Common European Yellowjacket,preysOn
+47133,,Neoscona orientalis,,preysOn
+47133,,Apricia jovialis,,preyedUponBy

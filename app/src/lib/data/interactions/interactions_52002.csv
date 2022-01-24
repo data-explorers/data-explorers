@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52002,47120,Arthropoda,Arthropods,eatenBy
+52002,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+52002,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy
+52002,58637,Ambloplites rupestris,Rock Bass,eatenBy
+52002,58652,Umbra,,eatenBy
+52002,58627,Perca flavescens,Yellow Perch,eatenBy
+52002,,Nettapus auritus,,eatenBy
+52002,75995,Campsis radicans,American trumpet vine,pollinates
+52002,,Monarda punctata,,pollinates
+52002,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy

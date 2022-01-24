@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85034,47157,Lepidoptera,Butterflies and Moths,eats
+85034,47792,Odonata,Dragonflies and Damselflies,eats
+85034,48253,Thuja,thujas,eats
+85034,47219,Apis mellifera,Western Honey Bee,eats
+85034,52756,Polistes,Umbrella Paper Wasps,eats
+85034,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+85034,,Empidonax virescens,,eatenBy
+85034,57666,Cotinis,Green June Beetles,preysOn
+85034,48662,Danaus plexippus,Monarch,preysOn
+85034,47822,Diptera,Flies,preysOn
+85034,132070,Phaneroptera nana,Mediterranean Katydid,preysOn
+85034,84481,Calopteryx maculata,Ebony Jewelwing,preysOn
+85034,,Xanthogaleruca luteola,,preysOn
+85034,324726,Lycorma delicatula,Spotted Lanternfly,preysOn
+85034,48957,Arilus cristatus,Wheel Bug,preysOn
+85034,48662,Danaus plexippus,Monarch,preyedUponBy

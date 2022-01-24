@@ -1,0 +1,76 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62806,47126,Plantae,plants,eats
+62806,67333,Bacteria,bacteria,eats
+62806,123880,Bacillariophyceae,Diatoms,eats
+62806,118996,Ciliophora,Ciliates,eats
+62806,47686,Protozoa,protozoans,eats
+62806,,Detritus,,eats
+62806,,plankton,,eats
+62806,,Zooplankton,,eats
+62806,,Phytoplankton,,eats
+62806,,detritus - plankton,,eats
+62806,,others,,eats
+62806,,unspecifid silicoflagellates,,eats
+62806,,Prymnesiophyceae,,eats
+62806,,Pyrrophycophyta,,eats
+62806,48834,Pisaster,Giant Sea Stars,eatenBy
+62806,47827,Cancer,,eatenBy
+62806,49699,Pisaster ochraceus,Ochre Sea Star,eatenBy
+62806,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+62806,47458,Octopoda,Octopuses,eatenBy
+62806,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+62806,4345,Larus occidentalis,Western Gull,eatenBy
+62806,339592,Calidris virgata,Surfbird,eatenBy
+62806,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+62806,,Leptasterias,,eatenBy
+62806,193907,Thais,,eatenBy
+62806,,Thais emarginata,,eatenBy
+62806,117561,Phanerodon furcatus,White surfperch,eatenBy
+62806,117554,Embiotoca jacksoni,Black surfperch,eatenBy
+62806,132521,Rhinogobiops nicholsii,Blackeye goby,eatenBy
+62806,52552,Oxyjulis californica,senorita,eatenBy
+62806,102081,Halichoeres semicinctus,Rock Wrasse,eatenBy
+62806,111616,Rhacochilus vacca,Pile surfperch,eatenBy
+62806,53699,Semicossyphus pulcher,California sheephead,eatenBy
+62806,125663,Kelletia kelletii,Kellet's Whelk,eatenBy
+62806,120957,Loxorhynchus grandis,Sheep Crab,eatenBy
+62806,104964,Lythrypnus dalli,blue-banded Goby,eatenBy
+62806,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+62806,48452,Oxylebius pictus,Painted greenling,eatenBy
+62806,49539,Pisaster brevispinus,Giant Pink Sea Star,eatenBy
+62806,48833,Pisaster giganteus,Giant Sea Star,eatenBy
+62806,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+62806,317370,Sebastes serriceps,Treefish,eatenBy
+62806,52297,Triakis semifasciata,Leopard Shark,eatenBy
+62806,,Rallus obsoletus levipes,,eatenBy
+62806,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+62806,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+62806,,plankton,,preysOn
+62806,47458,Octopoda,Octopuses,preyedUponBy
+62806,49699,Pisaster ochraceus,Ochre Sea Star,preyedUponBy
+62806,47827,Cancer,,preyedUponBy
+62806,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+62806,48834,Pisaster,Giant Sea Stars,preyedUponBy
+62806,117520,Enhydra lutris nereis,Southern Sea Otter,preyedUponBy
+62806,125663,Kelletia kelletii,Kellet's Whelk,preyedUponBy
+62806,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+62806,49539,Pisaster brevispinus,Giant Pink Sea Star,preyedUponBy
+62806,117554,Embiotoca jacksoni,Black surfperch,preyedUponBy
+62806,117561,Phanerodon furcatus,White surfperch,preyedUponBy
+62806,48452,Oxylebius pictus,Painted greenling,preyedUponBy
+62806,132521,Rhinogobiops nicholsii,Blackeye goby,preyedUponBy
+62806,102081,Halichoeres semicinctus,Rock Wrasse,preyedUponBy
+62806,53699,Semicossyphus pulcher,California sheephead,preyedUponBy
+62806,104964,Lythrypnus dalli,blue-banded Goby,preyedUponBy
+62806,117558,Hypsurus caryi,Rainbow Seaperch,preyedUponBy
+62806,48833,Pisaster giganteus,Giant Sea Star,preyedUponBy
+62806,47669,Orthasterias koehleri,Rainbow Star,preyedUponBy
+62806,317370,Sebastes serriceps,Treefish,preyedUponBy
+62806,52297,Triakis semifasciata,Leopard Shark,preyedUponBy
+62806,52552,Oxyjulis californica,senorita,preyedUponBy
+62806,111616,Rhacochilus vacca,Pile surfperch,preyedUponBy
+62806,120957,Loxorhynchus grandis,Sheep Crab,preyedUponBy
+62806,193907,Thais,,preyedUponBy
+62806,,Leptasterias,,preyedUponBy
+62806,48863,Enteroctopus dofleini,Giant Pacific Octopus,preyedUponBy
+62806,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,preyedUponBy

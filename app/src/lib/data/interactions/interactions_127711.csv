@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127711,47178,Actinopterygii,Ray-finned Fishes,eats
+127711,85493,Crustacea,Crustaceans,eats
+127711,49612,Balistidae,Triggerfishes,eats
+127711,127711,Histrio histrio,Sargassumfish,eats
+127711,49689,Kyphosus,Chubs,eats
+127711,47232,Carangidae,Jacks,eats
+127711,47186,Decapoda,Decapods,eats
+127711,,Gnathostomata,,eats
+127711,85507,Calanoida,Calanoid Copepods,eats
+127711,127711,Histrio histrio,Sargassumfish,eatenBy
+127711,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+127711,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+127711,4535,Anous stolidus,Brown Noddy,eatenBy
+127711,,no name,,preyedUponBy

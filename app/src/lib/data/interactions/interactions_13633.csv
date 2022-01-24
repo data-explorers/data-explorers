@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+13633,211194,Tracheophyta,vascular plants,eats
+13633,1,Animalia,Animals,eats
+13633,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+13633,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+13633,47822,Diptera,Flies,eats
+13633,47157,Lepidoptera,Butterflies and Moths,eats
+13633,47208,Coleoptera,Beetles,eats
+13633,47120,Arthropoda,Arthropods,eats
+13633,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+13633,47124,Magnoliopsida,dicots,eats
+13633,47118,Araneae,Spiders,eats
+13633,47158,Insecta,Insects,eats
+13633,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+13633,47434,Poaceae,grasses,eats
+13633,58308,Rhamnus ilicifolia,hollyleaf redberry,eats
+13633,48460,Life,,eats
+13633,,Euchelicerata,,eats
+13633,,Saissetia oleae,,eats
+13633,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",preysOn

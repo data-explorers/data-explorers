@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61998,17013,Sayornis nigricans,Black Phoebe,eatenBy
+61998,56083,Armadillidium vulgare,Common Pill Woodlouse,preysOn
+61998,62456,Rhagonycha fulva,Common Red Soldier Beetle,preysOn
+61998,,Sceliphron destillatorium,,preyedUponBy

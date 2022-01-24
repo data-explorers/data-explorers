@@ -1,0 +1,185 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+247660,67334,Cyanobacteria,cyanobacteria,eats
+247660,47126,Plantae,plants,eats
+247660,325515,Melosira varians,,eats
+247660,123880,Bacillariophyceae,Diatoms,eats
+247660,121643,Copepoda,Copepods,eats
+247660,123875,Melosira,,eats
+247660,311249,Bryophyta,mosses,eats
+247660,47170,Fungi,Fungi Including Lichens,eats
+247660,906,Meleagris gallopavo,Wild Turkey,eats
+247660,339306,Cocconeis,,eats
+247660,345199,Cyclotella,,eats
+247660,345435,Epithemia sorex,,eats
+247660,,Rhoicosphenia curvata,,eats
+247660,,Gomphonema berggreni,,eats
+247660,311562,Frustulia rhomboides,,eats
+247660,,Cymbella minuta,,eats
+247660,901016,Gomphoneis herculeana,,eats
+247660,,Detritus,,eats
+247660,,Khakista,,eats
+247660,345418,Fragilaria vaucheriae,,eats
+247660,123886,Gomphonema,,eats
+247660,,Acnanthidium linearis,,eats
+247660,492486,Gomphonema angustatum,,eats
+247660,494501,Tabellaria flocculosa,,eats
+247660,311291,Nitzschia,,eats
+247660,,Acnantidium lanceolata,,eats
+247660,,Epithemia zebra,,eats
+247660,,Melosira italica,,eats
+247660,,Rhopalodia,,eats
+247660,345400,Gomphonema parvulum,,eats
+247660,,Achnanthes lanceoloata,,eats
+247660,,Echinella,,eats
+247660,,Achnanthes linearis,,eats
+247660,496854,Navicula rhynchocephala,,eats
+247660,492497,Navicula cryptocephala,,eats
+247660,244899,Eunotia,,eats
+247660,244904,Gomphonema truncatum,,eats
+247660,,Moss cells,,eats
+247660,359954,Aulacoseira,,eats
+247660,,Synedra ulna,,eats
+247660,468484,Microspora,,eats
+247660,492492,Meridion circulare,,eats
+247660,,Pinnularia,,eats
+247660,,Navicula avenacea,,eats
+247660,,Cymbella kappi,,eats
+247660,,Unidentified sp1 FW_013_03,,eats
+247660,,Stigeoclonium,,eats
+247660,,Terrestrial plant material,,eats
+247660,546877,Epithemia turgida,,eats
+247660,,Achnanthes lanceolata,,eats
+247660,376157,Deleatidium,Suckergilled Mayflies,eats
+247660,713272,Surirella elegans,,eats
+247660,,Cymbella lunate,,eats
+247660,,Unidentified sp1 FW_013_04,,eats
+247660,533633,Cymbella kappii,,eats
+247660,,Sephanodiscus sp1 FW_013_05,,eats
+247660,,Gomphoneis herculeana robusta,,eats
+247660,,Cocconeis placentula,,eats
+247660,,Pediastrum,,eats
+247660,203808,Navicula,,eats
+247660,,Gallionellaceae,,eats
+247660,,fine particulate organic matter,,eats
+247660,,Ophryoxus gracilis,,eats
+247660,338141,Chydorus,,eats
+247660,168927,Sida crystallina,,eats
+247660,,Alona quadrangularis,,eats
+247660,,Macrocyclops albidus,,eats
+247660,,Disparalona acutirostris,,eats
+247660,,Alona rustica,,eats
+247660,,Alona affinis,,eats
+247660,,Acantholeberis curvirostris,,eats
+247660,688301,Scapholeberis kingi,,eats
+247660,,Bezzia,,eats
+247660,480716,Eucyclops serrulatus,,eats
+247660,,Alona intermedia,,eats
+247660,,Microcyclops rubellus,,eats
+247660,,Acanthocyclops,,eats
+247660,86355,Alona,,eats
+247660,247665,Tanytarsus,,eats
+247660,,Sephanodiscus,,eats
+247660,,Gomphonema acuminatum,,eats
+247660,,Surirella tenera,,eats
+247660,,Synedra rumpens,,eats
+247660,,Cymbella lunata,,eats
+247660,182984,Audouinella,,eats
+247660,,Rhopalodia novaezealandiae,,eats
+247660,196958,Calothrix,,eats
+247660,,Staurostratum,,eats
+247660,,Nitzschia dissipata,,eats
+247660,,Panicum maximum,,eats
+247660,,Amorphus,,eats
+247660,,Amorphous detritus,,eats
+247660,,Dead cellular plant material,,eats
+247660,,Macroalgae,,eats
+247660,,Prymnesiophyceae,,eats
+247660,,CPOM,,eats
+247660,325542,Amphora ovalis,,eats
+247660,,Gongrosira incrustans,,eats
+247660,,Hyphomycete fungal hyphae,,eats
+247660,,Chroococcus minor,,eats
+247660,48011,Ephemeroptera,Mayflies,eatenBy
+247660,47927,Anisoptera,Dragonflies,eatenBy
+247660,50175,Enallagma,Bluets,eatenBy
+247660,51556,Sympetrum,Meadowhawks,eatenBy
+247660,47818,Libellula,Chasers and King Skimmers,eatenBy
+247660,47120,Arthropoda,Arthropods,eatenBy
+247660,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+247660,,Zealandoperla sp1 FW_015_01,,eatenBy
+247660,,Acroperla trivacuata,,eatenBy
+247660,,Tanypodini,,eatenBy
+247660,,Hydrobiosis parumbripennis,,eatenBy
+247660,395504,Polyplectropus puerilis,,eatenBy
+247660,47518,Salmo trutta,Brown Trout,eatenBy
+247660,,Zavrelimyia barbatipes,,eatenBy
+247660,,Macropelopia adaucta,,eatenBy
+247660,546250,Plectrocnemia conspersa,,eatenBy
+247660,,Trissopelopia longimana,,eatenBy
+247660,,Sialis fuliginosa,,eatenBy
+247660,47644,Cottus,Freshwater Sculpins,eatenBy
+247660,247740,Pentaneura,,eatenBy
+247660,247741,Procladius,,eatenBy
+247660,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy
+247660,,Molanna,,eatenBy
+247660,475373,Guttipelopia,,eatenBy
+247660,788190,Paratarsotomus macropalpis,,eatenBy
+247660,58637,Ambloplites rupestris,Rock Bass,eatenBy
+247660,247719,Djalmabatista,,eatenBy
+247660,58652,Umbra,,eatenBy
+247660,58627,Perca flavescens,Yellow Perch,eatenBy
+247660,247737,Larsia,,eatenBy
+247660,130980,Clinotanypus,,eatenBy
+247660,247694,Ablabesmyia,,eatenBy
+247660,57845,Sialis,,eatenBy
+247660,,Banksiola,,eatenBy
+247660,,Galaxias,,eatenBy
+247660,378660,Zelandoperla,Long-tailed Stoneflies,eatenBy
+247660,,Mischoderus,,eatenBy
+247660,,Nannochorista philpotti,,eatenBy
+247660,57449,Cordulegaster,Golden-ringed Spiketails,eatenBy
+247660,451411,Siphonoperla,,eatenBy
+247660,247963,Dicranota,,eatenBy
+247660,577745,Trissopelopia,,eatenBy
+247660,366253,Zavrelimyia,,eatenBy
+247660,371244,Plectrocnemia,,eatenBy
+247660,247738,Macropelopia,,eatenBy
+247660,70403,Pedicia,,eatenBy
+247660,,Limoniinae,,eatenBy
+247660,482058,Isoperla grammatica,Yellow Sally Stonefly,eatenBy
+247660,644416,Conchapelopia,,eatenBy
+247660,451407,Siphonoperla torrentium,Small Yellow Sally,eatenBy
+247660,,Erpobdella octoculata,,eatenBy
+247660,,Castoraeshna,,eatenBy
+247660,,Imparfinis mirini,,eatenBy
+247660,,Aphyla,,eatenBy
+247660,,Astyanax scabripinnis,,eatenBy
+247660,,Zealandoperla sp.,,eatenBy
+247660,93187,Acipenser oxyrinchus,Atlantic Sturgeon,eatenBy
+247660,,Sorubim lima,,eatenBy
+247660,,Xenotilapia ochrogenys,,eatenBy
+247660,,Xenotilapia longispinis,,eatenBy
+247660,93179,Acipenser baerii,Siberian Sturgeon,eatenBy
+247660,93181,Acipenser fulvescens,Lake Sturgeon,eatenBy
+247660,125920,Anguilla australis,Short-finned Eel,eatenBy
+247660,,Megapodagrionidae,,eatenBy
+247660,,Geophagus brasiliensis,,eatenBy
+247660,120561,Cricotopus,,preysOn
+247660,50175,Enallagma,Bluets,preyedUponBy
+247660,48011,Ephemeroptera,Mayflies,preyedUponBy
+247660,,Galaxias,,preyedUponBy
+247660,247740,Pentaneura,,preyedUponBy
+247660,,Aphyla,,preyedUponBy
+247660,,Imparfinis mirini,,preyedUponBy
+247660,,Astyanax scabripinnis,,preyedUponBy
+247660,,Sialis fuliginosa,,preyedUponBy
+247660,,Macropelopia adaucta,,preyedUponBy
+247660,,Zavrelimyia barbatipes,,preyedUponBy
+247660,,Hydrobiosis parumbripennis,,preyedUponBy
+247660,,Tanypodini,,preyedUponBy
+247660,395504,Polyplectropus puerilis,,preyedUponBy
+247660,,Acroperla trivacuata,,preyedUponBy
+247660,47518,Salmo trutta,Brown Trout,preyedUponBy
+247660,,Zealandoperla sp.,,preyedUponBy
+247660,,Geophagus brasiliensis,,preyedUponBy
+247660,,Megapodagrionidae,,preyedUponBy

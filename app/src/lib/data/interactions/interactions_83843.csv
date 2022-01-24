@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83843,17009,Sayornis saya,Say's Phoebe,eatenBy
+83843,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+83843,5017,Bubulcus ibis,Cattle Egret,eatenBy
+83843,,Corvus caurinus,,eatenBy
+83843,,Neurothemis tullia,,preysOn
+83843,,Nycerella,,preyedUponBy

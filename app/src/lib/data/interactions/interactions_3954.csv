@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+3954,47490,Polychaeta,Polychaete Worms,eats
+3954,47178,Actinopterygii,Ray-finned Fishes,eats
+3954,67423,Ulva lactuca,broadleaf sea lettuce,eats
+3954,50863,Chlorophyta,green algae,eats
+3954,54643,Ulvaceae,Sea Lettuces,eats
+3954,47414,Emerita analoga,Pacific Sand Crab,eats
+3954,68764,Ostracoda,Seed Shrimp,preysOn
+3954,333586,Oligochaeta,Earthworms and allies,preysOn
+3954,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+3954,47490,Polychaeta,Polychaete Worms,preysOn
+3954,47951,Staphylinidae,Rove Beetles,preysOn
+3954,54538,Syngnathus leptorhynchus,Bay Pipefish,preysOn
+3954,84718,Oniscidea,"Woodlice, Pillbugs, and Rock Slaters",preysOn
+3954,47720,Holothuroidea,Sea Cucumbers,preysOn
+3954,47584,Bivalvia,Bivalves,preysOn
+3954,47208,Coleoptera,Beetles,preysOn
+3954,117564,Clevelandia ios,Arrow Gobi,preysOn
+3954,,Traskorchestia,,preysOn
+3954,123639,Spionidae,,preysOn
+3954,,Eugregarinida,,preysOn
+3954,,Ergasilus auritus,,preysOn
+3954,,Protothaca,,preysOn
+3954,339200,Himasthla rhigedana,,preysOn
+3954,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+3954,,Cloacitrema michiganense,,preysOn
+3954,339245,Himasthla,,preysOn
+3954,64637,Corophium,,preysOn
+3954,339182,Phocitremoides ovale,,preysOn
+3954,339177,Microphallidae,,preysOn
+3954,209100,Gyrodactylus,,preysOn
+3954,,Picornaviridae,,preysOn
+3954,,Pygidiopsoides spindalis,,preysOn
+3954,208368,Capitella capitata,,preysOn
+3954,,Trichodina,,preysOn
+3954,339249,Acanthoparyphium,,preysOn
+3954,,Carcinonemertes,,preysOn
+3954,,Mesostephanus appendiculatoides,,preysOn
+3954,,Anisogammarus confervicolus,,preysOn
+3954,,Probolocoryphe uca,,preysOn
+3954,,Parorchis acanthus,,preysOn
+3954,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+3954,,Melampus,,preysOn
+3954,88477,Geonemertes,Greenhouse Proboscis-worms,preysOn
+3954,,Hypereteone lighti,,preysOn
+3954,339174,Cyathocotylidae,,preysOn
+3954,,Portunion conformis,,preysOn
+3954,,Stictodora hancocki,,preysOn
+3954,,Large xiphideocercaria,,preysOn
+3954,48051,Phoronida,Horseshoe Worms,preysOn
+3954,,Uca crenulata,,preysOn
+3954,,Spirocamallanus pereirai,,preysOn
+3954,209136,Paracerceis,,preysOn
+3954,209018,Polydora,Shell-boring Spionids,preysOn
+3954,,Polydora nuchalis,,preysOn
+3954,51280,Nemertea,Ribbon Worms,preysOn
+3954,337291,Cirriformia spirabrancha,,preysOn
+3954,64636,Corophiidae,,preysOn
+3954,,Macoma secta,,preysOn
+3954,,Gammaridea,,preysOn
+3954,195030,Hesionidae,,preysOn
+3954,111467,Quietula y-cauda,Shadow Goby,preysOn
+3954,328432,Chione californiensis,California Venus,preysOn
+3954,479426,Chionista fluctifraga,Smooth Venus,preysOn
+3954,,Carinoma mutabilis,,preysOn
+3954,,Ctenodrilidae,,preysOn
+3954,,Nebalia,,preysOn
+3954,,Melampus olivaceus,,preysOn
+3954,,Traskorchestia traskiana,,preysOn
+3954,345489,Naineris,,preysOn
+3954,144115,Cumacea,Hooded Shrimp,preysOn
+3954,81789,Neanthes,,preysOn
+3954,,Protothaca staminea,,preysOn
+3954,47488,Cirratulidae,,preysOn
+3954,,Ilypnus gilberti,,preysOn
+3954,570459,Neanthes arenaceodentata,,preysOn
+3954,208366,Orbiniidae,,preysOn
+3954,179828,Laevicardium substriatum,Pacific Eggcockle,preysOn
+3954,117608,Saxidomus nuttalli,California Butterclam,preysOn
+3954,117622,Nuttallia nuttallii,Purple Clam,preysOn
+3954,83718,Tanaidacea,Tanaids,preysOn
+3954,,green gammaridean,,preysOn
+3954,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy
+3954,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy

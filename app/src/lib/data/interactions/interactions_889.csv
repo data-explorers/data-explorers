@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+889,47566,Populus,"poplars, cottonwoods, and aspens",eats
+889,53373,Corylus,hazels,eats
+889,47193,Cornus,dogwoods,eats
+889,52850,Aralia,spikenards,eats
+889,60369,Pyrola,wintergreens,eats
+889,49230,Amelanchier,serviceberries,eats
+889,47351,Prunus,"plums, cherries, and allies",eats
+889,48528,Symphoricarpos,snowberries,eats
+889,,pryola,,eats
+889,20044,Bubo virginianus,Great Horned Owl,eatenBy
+889,43584,Homo sapiens,Human,eatenBy
+889,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+889,,Coyote,,eatenBy
+889,43584,Homo sapiens,Human,preyedUponBy
+889,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+889,5108,Accipiter gentilis,Northern Goshawk,preyedUponBy

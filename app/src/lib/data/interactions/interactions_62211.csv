@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62211,47219,Apis mellifera,Western Honey Bee,eatenBy
+62211,,Allantus truncatus,,eatenBy
+62211,144011,Bombus rufocinctus,Red-belted Bumble Bee,pollinatedBy
+62211,155108,Ceratina,Small Carpenter Bees,pollinatedBy
+62211,47220,Apis,Honey Bees,pollinatedBy
+62211,222681,Lasioglossum sisymbrii,,pollinatedBy
+62211,,http://treatment.plazi.org/id/C9AB3633AE74C86812505383827B0F10,,pollinatedBy

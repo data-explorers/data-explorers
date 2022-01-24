@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9405,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9405,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+9405,27380,Desmognathus,Dusky Salamanders,preysOn
+9405,27186,Plethodon cinereus,Eastern Red-backed Salamander,preysOn

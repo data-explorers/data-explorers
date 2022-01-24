@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50837,47219,Apis mellifera,Western Honey Bee,eatenBy
+50837,48548,Vanessa cardui,Painted Lady,eatenBy
+50837,55626,Pieris rapae,Cabbage White,eatenBy
+50837,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+50837,1409,Callipepla californica,California Quail,eatenBy
+50837,,Adela punctiferella,,eatenBy
+50837,59120,Euchloe ausonides,Large Marble,eatenBy
+50837,,Adela singulella,,eatenBy
+50837,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+50837,1240,Dendragapus,Blue Grouse,eatenBy
+50837,,Micralictoides grossus,,pollinatedBy
+50837,,Micralictoides mojavensis,,pollinatedBy

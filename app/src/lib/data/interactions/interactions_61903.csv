@@ -1,0 +1,167 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61903,62989,Aedes,,eats
+61903,176621,Nysius,False chinch bugs,eats
+61903,132310,Entomobryidae,Slender Springtails,eats
+61903,47415,Pardosa,Thin-legged Wolf Spiders,eats
+61903,58573,Boloria,,eats
+61903,47158,Insecta,Insects,eats
+61903,,Hilaira vexatrix,,eats
+61903,,Spilogona,,eats
+61903,,Euxoa adumbrata drewseni,,eats
+61903,,Smittia edwardsi,,eats
+61903,,Cladotanytarsus mancus,,eats
+61903,,Pyla fusca,,eats
+61903,,Olethreutes mengelana,,eats
+61903,,Zaphne,,eats
+61903,,Sympistis nigrita,,eats
+61903,,Rhamphomyia,,eats
+61903,,Syngrapha,,eats
+61903,,Halocladius variabilis,,eats
+61903,,Smittina,,eats
+61903,,Orthocladius frigidus,,eats
+61903,,Dolichopus ungulatus,,eats
+61903,1102463,Limnophyes minimus,,eats
+61903,,Paradelia arctica,,eats
+61903,,Paraphaenocladius impensus,,eats
+61903,,Parasyrphus tarsatus,,eats
+61903,,Drymeia,,eats
+61903,,Phaonia,,eats
+61903,,Lamproscatella sibilans,,eats
+61903,,Anarta richardsoni,,eats
+61903,366243,Microtendipes,,eats
+61903,203294,Entiminae,Broad-nosed Weevils,eats
+61903,17408,Vireo griseus,White-eyed Vireo,eatenBy
+61903,,Saxifraga oppositifolia,,pollinates
+61903,,Dryas integrifolia,,pollinates
+61903,,Salix arctica,,pollinates
+61903,,Erysimum pallasii,,pollinates
+61903,47219,Apis mellifera,Western Honey Bee,preysOn
+61903,154298,Halictus ligatus,Ligated Furrow Bee,preysOn
+61903,47336,Formicidae,Ants,preysOn
+61903,47951,Staphylinidae,Rove Beetles,preysOn
+61903,70144,Muscidae,House Flies and Allies,preysOn
+61903,84670,Ephydridae,Shore Flies,preysOn
+61903,52073,Fulgoroidea,Planthoppers,preysOn
+61903,61903,Xysticus,Ground Crab Spiders,preysOn
+61903,47367,Opiliones,Harvestmen,preysOn
+61903,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+61903,61267,Heteroptera,True Bugs,preysOn
+61903,53275,Chironomidae,Non-biting Midges,preysOn
+61903,67742,Drosophilidae,Vinegar and Fruit Flies,preysOn
+61903,47157,Lepidoptera,Butterflies and Moths,preysOn
+61903,127593,Chloropidae,Frit Flies,preysOn
+61903,47118,Araneae,Spiders,preysOn
+61903,48139,Salticidae,Jumping Spiders,preysOn
+61903,52425,Chrysopidae,Green Lacewings,preysOn
+61903,47742,Pentatomidae,Stink Bugs,preysOn
+61903,53237,Cicadellidae,Typical Leafhoppers,preysOn
+61903,47866,Thomisidae,Crab Spiders,preysOn
+61903,81769,Blattodea,Cockroaches and Termites,preysOn
+61903,47992,Limoniidae,Limoniid Crane Flies,preysOn
+61903,51146,Chrysomelidae,Leaf Beetles,preysOn
+61903,130033,Culex,,preysOn
+61903,55351,Phoridae,Humpbacked Flies,preysOn
+61903,,Aphantopus hyperantus,,preysOn
+61903,,Heliotaurus ruficollis,,preysOn
+61903,,Pseudovadonia livida,,preysOn
+61903,130583,Anotylus,,preysOn
+61903,,Carpelimus manchuricus subtilicornis,,preysOn
+61903,,Ootetrastichus,,preysOn
+61903,556059,Dolichopus nitidus,,preysOn
+61903,342818,Proctotrupoidea,,preysOn
+61903,495985,Limnobaris dolorosa,,preysOn
+61903,61762,Evarcha,,preysOn
+61903,55787,Pisaura mirabilis,European Nursery Web spider,preysOn
+61903,1200333,Teuchophorus calcaratus,,preysOn
+61903,,Diplocampa assimile,,preysOn
+61903,,Dolichopus nubilius,,preysOn
+61903,69803,Ceratopogonidae,Biting Midges,preysOn
+61903,,Sciasminettia frontalis,,preysOn
+61903,174422,Hybotidae,Hybotid Dance Flies,preysOn
+61903,123608,Delphacidae,,preysOn
+61903,360548,Zora spinimana,,preysOn
+61903,203242,Aleocharinae,,preysOn
+61903,,Pipinculus sp,,preysOn
+61903,,Dryops auriculatus,,preysOn
+61903,135289,Myrmarachne formicaria,,preysOn
+61903,,Sitticus,,preysOn
+61903,578473,Herina frondescentiae,,preysOn
+61903,,Pachybrachius,,preysOn
+61903,,Mycetophilidae,,preysOn
+61903,86114,Trichoniscidae,,preysOn
+61903,121774,Clubiona,Leafcurling Sac Spiders,preysOn
+61903,1200309,Argyra vestita,,preysOn
+61903,131962,Stenus,,preysOn
+61903,131943,Rugilus rufipes,,preysOn
+61903,,Campsicnemus scambus,,preysOn
+61903,52380,Aphidoidea,,preysOn
+61903,554158,Chartoscirta cincta,,preysOn
+61903,,Zora,,preysOn
+61903,,Chaetocnema confusa,,preysOn
+61903,,Sciaridae,,preysOn
+61903,605071,Cicadina,,preysOn
+61903,,Propylaea quatuordecimpunctata,,preysOn
+61903,,Chrysotus cilipes,,preysOn
+61903,,Chaetarthria seminulum,,preysOn
+61903,69599,Tetramorium,Fierce ants,preysOn
+61903,203350,Anacaena limbata,,preysOn
+61903,177092,Meligethes,,preysOn
+61903,153636,Zelotes,,preysOn
+61903,,Herina parva,,preysOn
+61903,,Hercostomus assimilis,,preysOn
+61903,,Comantenna,,preysOn
+61903,173319,Brachygluta,,preysOn
+61903,130265,Tetramesa,,preysOn
+61903,49460,Empididae,Dance Flies,preysOn
+61903,,Hebrus ruficeps,,preysOn
+61903,360744,Marpissa radiata,,preysOn
+61903,1151405,Lesteva sicula,,preysOn
+61903,624522,Hebrus pusillus,,preysOn
+61903,,Pherbellia schoenherri,,preysOn
+61903,371954,Ligidium hypnorum,Carr Slater,preysOn
+61903,1006257,Platystethus nodifrons,,preysOn
+61903,,Hypocyphtus discoideus,,preysOn
+61903,1123175,Pelochares versicolor,,preysOn
+61903,,Aphthona lutescens,,preysOn
+61903,203300,Tetrastichus,,preysOn
+61903,,Eupterygini,,preysOn
+61903,,Lithobius,,preysOn
+61903,991295,Erichsonius cinerascens,,preysOn
+61903,551912,Bembidion assimile,,preysOn
+61903,,"Dolichopus nubilius Meigen, 1924",,preysOn
+61903,,Cypha,,preysOn
+61903,,Carpelimus manchuricus,,preysOn
+61903,,Dryops,,preysOn
+61903,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+61903,47951,Staphylinidae,Rove Beetles,preyedUponBy
+61903,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+61903,47118,Araneae,Spiders,preyedUponBy
+61903,82081,Theridion,Tangleweb Spiders,preyedUponBy
+61903,47866,Thomisidae,Crab Spiders,preyedUponBy
+61903,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,preyedUponBy
+61903,,Arachnospila (Ammosphex) trivialis,,preyedUponBy
+61903,,Paederus riparius,,preyedUponBy
+61903,,Pirata latitans,,preyedUponBy
+61903,131962,Stenus,,preyedUponBy
+61903,784329,Robertus insignis,,preyedUponBy
+61903,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+61903,1086379,Tetartopeus terminatum,,preyedUponBy
+61903,121774,Clubiona,Leafcurling Sac Spiders,preyedUponBy
+61903,,Pirata,,preyedUponBy
+61903,,Lithobius,,preyedUponBy
+61903,,Lathrobium fovalum,,preyedUponBy
+61903,,Pachygnatha,,preyedUponBy
+61903,153863,Thanatus,,preyedUponBy
+61903,,Pirata tenuitarsis,,preyedUponBy
+61903,359911,Staphylininae,,preyedUponBy
+61903,131943,Rugilus rufipes,,preyedUponBy
+61903,1151405,Lesteva sicula,,preyedUponBy
+61903,61762,Evarcha,,preyedUponBy
+61903,153747,Robertus,,preyedUponBy
+61903,153636,Zelotes,,preyedUponBy
+61903,69599,Tetramorium,Fierce ants,preyedUponBy
+61903,360548,Zora spinimana,,preyedUponBy
+61903,,Gabrius fermoralis,,preyedUponBy
+61903,,Gabrius fermoralis (Hochh.),,preyedUponBy
+61903,,Lathrobium fovalum (Steph.),,preyedUponBy
+61903,,http://treatment.plazi.org/id/03A787DE616B9B73CDAE3A02FC26FAB8,,preyedUponBy

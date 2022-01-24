@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56189,55821,Rumex acetosa,Common Sorrel,eats
+56189,51875,Trifolium pratense,red clover,eats
+56189,57190,Phleum pratense,Timothy grass,eats
+56189,75903,Bromus inermis,Smooth Brome,eats
+56189,52720,Dactylis glomerata,orchard grass,eats
+56189,47435,Lotus corniculatus,bird's-foot trefoil,eats
+56189,48229,Ranunculus repens,Creeping buttercup,eats
+56189,,Cynosurus cristatus,,eats
+56189,,Avenula pubescens,,eats
+56189,,Anthoxanthum odoratum,,eats
+56189,,http://treatment.plazi.org/id/784923922DC473201D83CF7B8F51B4BE,,eats
+56189,78657,Poa trivialis,Rough Meadow-grass,eats
+56189,,Luzula campestris,,eats
+56189,,Trisetum flavescens,,eats
+56189,,Leontodon autumnalis,,eats
+56189,,Holcus lanatus,,eats
+56189,,Arrhenatherum elatius,,eats
+56189,,Festuca pratensis,,eats
+56189,,Cirsium oleraceum,,eats
+56189,163166,Galium album,white bedstraw,eats
+56189,,Alopecurus pratensis,,eats
+56189,,Bromus hordeaceus,,eats
+56189,,Ranunculus acris,,eats
+56189,,Festuca rubra,,eats
+56189,,Senecio glomeratus,,eats
+56189,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+56189,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+56189,47951,Staphylinidae,Rove Beetles,preyedUponBy
+56189,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+56189,,Amara aulica,,preyedUponBy
+56189,,Porrhomma errans,,preyedUponBy
+56189,,Anisodactylus binotatus,,preyedUponBy
+56189,,Collinsia inerrans,,preyedUponBy
+56189,,Harpalus distinguendus,,preyedUponBy
+56189,130433,Amara aenea,Common Sun Beetle,preyedUponBy
+56189,129017,Araniella cucurbitina,Cucumber Green Spider,preyedUponBy
+56189,1255692,Enoplognatha ovata,Candy-striped Spider complex,preyedUponBy
+56189,452503,Robertus lividus,,preyedUponBy
+56189,496641,Xysticus ulmi,Swamp Crab Spider,preyedUponBy
+56189,,Amara sinuosa,,preyedUponBy
+56189,,Micrargus subaequalis,,preyedUponBy
+56189,,Mermessus trilobatus,,preyedUponBy
+56189,,Robertus arundineti,,preyedUponBy
+56189,121779,Agalenatea redii,Gorse Orbweaver,preyedUponBy
+56189,,Diplostyla concolor,,preyedUponBy
+56189,153855,Tibellus oblongus,Oblong Running Spider,preyedUponBy
+56189,71061,Xysticus cristatus,,preyedUponBy
+56189,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+56189,784211,Robertus neglectus,,preyedUponBy
+56189,,Nabis ,,preyedUponBy
+56189,,Nabis pseudoferus,,preyedUponBy
+56189,,Amara ovata,,preyedUponBy
+56189,784141,Asthenargus paganus,,preyedUponBy
+56189,,Amara equestris,,preyedUponBy
+56189,,Dipoena melanogaster,,preyedUponBy
+56189,216360,Centromerita bicolor,,preyedUponBy
+56189,784143,Bathyphantes parvulus,,preyedUponBy
+56189,,Mangora acalypha,,preyedUponBy
+56189,,Amara quenseli,,preyedUponBy
+56189,245656,Synema globosum,Napoleon Spider,preyedUponBy
+56189,,Cicurina cicur,,preyedUponBy
+56189,,Cantharis fusca,,preyedUponBy
+56189,778686,Porrhomma microphthalmum,,preyedUponBy
+56189,,Tetragnatha extensa,,preyedUponBy
+56189,523365,Harpalus griseus,,preyedUponBy
+56189,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+56189,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+56189,121444,Larinioides,,preyedUponBy
+56189,784329,Robertus insignis,,preyedUponBy
+56189,360744,Marpissa radiata,,preyedUponBy
+56189,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+56189,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+56189,82118,Dolomedes,Fishing Spiders,preyedUponBy
+56189,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+56189,887499,Himacerus boops,,preyedUponBy
+56189,784206,Trochosa spinipalpis,,preyedUponBy
+56189,153747,Robertus,,preyedUponBy
+56189,52628,Araneus diadematus,Cross Orbweaver,preyedUponBy
+56189,,Paederus riparius,,preyedUponBy
+56189,,Conocephalus fuscus,,preyedUponBy
+56189,447460,Clubiona phragmitis,,preyedUponBy
+56189,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+56189,231469,Staphylinus erythropterus,,preyedUponBy

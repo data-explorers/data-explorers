@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50543,67423,Ulva lactuca,broadleaf sea lettuce,eats
+50543,123631,Corallina,,eats
+50543,51021,Dictyota,Y-branched Algae,eats
+50543,,Gracilaria sp.,,eats
+50543,911743,Plocamium brasiliense,,eats
+50543,330788,Centroceras,,eats
+50543,67679,Gracilaria,,eats
+50543,180609,Lithophyllum,,eats
+50543,328369,Spatoglossum schroederi,,eats
+50543,131281,Dictyota menstrualis,,eats
+50543,182857,Sphacelaria,,eats
+50543,67672,Hypnea musciformis,,eats
+50543,131298,Cryptonemia crenulata,,eats
+50543,50926,Caulerpa racemosa,Sea Grapes,eats
+50543,207565,Padina gymnospora,,eats
+50543,131280,Dictyota mertensii,,eats
+50543,199320,Acanthophora spicifera,prickly seaweed,eats
+50543,,Chaetomorpha gracilaris,,eats
+50543,51384,Caulerpa prolifera,,eats
+50543,,Plocamium sp.,,eats
+50543,131277,Lobophora variegata,Encrusting fan-leaf alga,eats
+50543,201264,Bryopsis pennata,,eats
+50543,59730,Valonia aegagropila,,eats
+50543,570223,Caulerpa scalpelliformis,Scalpel green seaweed,eats
+50543,1253504,Bryopsis,,eats
+50543,322821,Sargassum vulgare,,eats
+50543,,Chondria curvilineata,,eats
+50543,,Zooplankton,,eats
+50543,131266,Caulerpa cupressoides,cactus tree alga,eats
+50543,643771,Abyla,,eats
+50543,74890,Physeter macrocephalus,Sperm Whale,eatenBy
+50543,41426,Berardius bairdii,Baird's Beaked Whale,eatenBy
+50543,47490,Polychaeta,Polychaete Worms,preyedUponBy
+50543,128831,Eriphia gonagra,Redfinger Rubble Crab,preyedUponBy
+50543,195079,Neogonodactylus,,preyedUponBy
+50543,415095,Olivancillaria,,preyedUponBy

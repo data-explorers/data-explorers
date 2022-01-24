@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1264432,43094,Lagomorpha,Lagomorphs,eats
+1264432,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+1264432,7089,Branta canadensis,Canada Goose,eats
+1264432,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+1264432,44540,Rattus,Old World Rats,eats
+1264432,47178,Actinopterygii,Ray-finned Fishes,eats
+1264432,45763,Ondatra zibethicus,Muskrat,eats
+1264432,105765,Microgadus tomcod,Atlantic Tomcod,eats
+1264432,320680,Pantherophis vulpinus,Eastern Foxsnake,eats
+1264432,,Neogobius melanostomus,,eats
+1264432,45763,Ondatra zibethicus,Muskrat,preysOn
+1264432,43096,Sylvilagus,Cottontail Rabbits,preysOn
+1264432,47783,Astacoidea,Northern Hemisphere Crayfishes,preysOn
+1264432,47178,Actinopterygii,Ray-finned Fishes,preysOn
+1264432,,Neogobius melanostomus,,preysOn
+1264432,61378,Stichaeidae,Pricklebacks,preysOn
+1264432,870778,Myomorpha,"Mice, Rats, and Hamsters",preysOn
+1264432,,Pacifastacus leniusculus,,preysOn
+1264432,58637,Ambloplites rupestris,Rock Bass,preysOn

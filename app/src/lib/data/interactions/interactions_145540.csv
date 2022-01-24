@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+145540,332511,Melanoleuca,Cavaliers,eats
+145540,50333,Lantana camara,common lantana,eats
+145540,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+145540,1063807,Gyptis lanigera,,pollinates
+145540,131831,Oldenlandia,,pollinates
+145540,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy

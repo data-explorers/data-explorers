@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53897,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+53897,1986,Geococcyx californianus,Greater Roadrunner,eatenBy
+53897,20044,Bubo virginianus,Great Horned Owl,eatenBy
+53897,,Cnemidophorus tigris,,eatenBy
+53897,,Bothriocyrtum californicum,,eatenBy
+53897,5017,Bubulcus ibis,Cattle Egret,eatenBy
+53897,,Alectoris chukar,,eatenBy
+53897,26928,Conopsis biserialis,Two-lined Mexican Earth Snake,preyedUponBy

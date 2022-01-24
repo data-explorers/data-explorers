@@ -1,0 +1,72 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49707,,Hebe odora,,eats
+49707,121308,Stagmomantis limbata,Arizona Mantis,eatenBy
+49707,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+49707,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+49707,7294,Eremophila alpestris,Horned Lark,eatenBy
+49707,11867,Progne subis,Purple Martin,eatenBy
+49707,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+49707,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+49707,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+49707,56992,Lobularia maritima,sweet alyssum,pollinates
+49707,58996,Clematis ligusticifolia,western virgin's bower,pollinates
+49707,56955,Helianthus,sunflowers,pollinates
+49707,63749,Vaccinium macrocarpon,American Cranberry,pollinates
+49707,52761,Hypericum,St. John's worts,pollinates
+49707,48225,Eschscholzia californica,California poppy,pollinates
+49707,48626,Oenothera,"evening primroses, sundrops, and beeblossoms",pollinates
+49707,50790,Linaria vulgaris,common toadflax,pollinates
+49707,51737,Solanum lycopersicum,tomato,pollinates
+49707,48622,Nepeta cataria,Catnip,pollinates
+49707,60251,Verbena hastata,blue vervain,pollinates
+49707,48071,Sagittaria,Arrowheads,pollinates
+49707,136376,Rudbeckia triloba,brown-eyed Susan,pollinates
+49707,51098,Gilia achilleifolia,California gilia,pollinates
+49707,58232,Eriastrum densifolium,giant woollystar,pollinates
+49707,57952,Coreopsis,Tickseed,pollinates
+49707,53300,Thalictrum,meadow-rues,pollinates
+49707,119045,Eupatorium perfoliatum,common boneset,pollinates
+49707,,Alstroemeria caryophyllaea,,pollinates
+49707,490877,Rhaphithamnus spinosus,Prickly myrtle,pollinates
+49707,,Trichopetalum plumosum,,pollinates
+49707,61875,Styrax,snowbells,pollinates
+49707,,Fritillaria gentneri,,pollinates
+49707,836804,Mononeuria uniflora,Piedmont Sandwort,pollinates
+49707,836798,Mononeuria glabra,Appalachian sandwort,pollinates
+49707,,Acmispon dendroideus traskiae,,pollinates
+49707,,Campanula americana,,pollinates
+49707,,Jepsonia parryi,,pollinates
+49707,,Physaria obcordata,,pollinates
+49707,,Thalictrum dasycarpum,,pollinates
+49707,164524,Lepidium papilliferum,Slickspot peppergrass,pollinates
+49707,,Cymopterus beckii,,pollinates
+49707,,Ferocactus cylindraceus,,pollinates
+49707,77780,Linnaea borealis,twinflower,pollinates
+49707,,Heterotheca subaxillaris,,pollinates
+49707,168197,Rudbeckia auriculata,Eared Coneflower,pollinates
+49707,,Cichorium intybus,,pollinates
+49707,,Agave arizonica,,pollinates
+49707,,Pityopsis graminifolia tenuifolia,,pollinates
+49707,,Ampelaster carolinianus,,pollinates
+49707,,Sabal,,pollinates
+49707,,Polygonella basiramia,,pollinates
+49707,57863,Rhynchospora,Beaksedges,pollinates
+49707,,Packera,,pollinates
+49707,76298,Chloropyron palmatum,palmate salty bird's-beak,pollinates
+49707,,Iliamna remota,,pollinates
+49707,,Tetraneuris acaulis,,pollinates
+49707,,Synthyris bullii,,pollinates
+49707,,Echinocereus enneacanthus,,pollinates
+49707,,Purshia subintegra,,pollinates
+49707,,Cypripedium montanum,,pollinates
+49707,72348,Sclerocactus,Pineapple Cactuses,pollinates
+49707,64342,Coffea arabica,Coffee,pollinates
+49707,,Becium obovatum,,pollinates
+49707,169944,Tridax procumbens,Tridax daisy,pollinates
+49707,,Wahlenbergia abyssinica,,pollinates
+49707,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+49707,41277,Eumops perotis,Western Bonneted Bat,preyedUponBy
+49707,,Efferia aestuans,,preyedUponBy
+49707,,Philanthus gibbosus,,preyedUponBy
+49707,59281,Thomisus onustus,Pink Crab Spider,preyedUponBy
+49707,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy

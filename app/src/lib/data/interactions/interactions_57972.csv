@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57972,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+57972,,Satyrium californica,,eatenBy
+57972,1075774,Rhopalomyia erigerontis,,eatenBy
+57972,126532,Toxomerus geminatus,Eastern Calligrapher,pollinatedBy
+57972,,Phyciodes pulchella pulchella,,pollinatedBy

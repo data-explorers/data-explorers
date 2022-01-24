@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49266,47584,Bivalvia,Bivalves,eats
+49266,50764,Nassariidae,Nassa Mudsnails,eats
+49266,47126,Plantae,plants,eats
+49266,116999,Pandion haliaetus,Osprey,eatenBy
+49266,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+49266,187571,Kajikia albida,Atlantic White Marlin,eatenBy
+49266,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+49266,49637,Epinephelus morio,Red Grouper,eatenBy
+49266,226272,Ogcocephalus nasutus,Shortnose batfish,eatenBy
+49266,51404,Trichiurus lepturus,Largehead Hairtail,eatenBy
+49266,3801,Morus serrator,Australasian Gannet,eatenBy
+49266,144527,Onychoprion anaethetus,Bridled Tern,eatenBy
+49266,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+49266,4436,Sterna dougallii,Roseate Tern,eatenBy
+49266,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+49266,,Enhydrina schistosa,,eatenBy
+49266,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+49266,,MCZ:Ich:94457,,eatenBy
+49266,4320,Phaethon rubricauda,Red-tailed Tropicbird,eatenBy
+49266,4636,Fregata minor,Great Frigatebird,eatenBy
+49266,4535,Anous stolidus,Brown Noddy,eatenBy
+49266,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+49266,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+49266,4566,Gygis alba,White Tern,eatenBy
+49266,4537,Anous minutus,Black Noddy,eatenBy
+49266,144491,Tringa semipalmata,Willet,preyedUponBy

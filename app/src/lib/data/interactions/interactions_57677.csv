@@ -1,0 +1,117 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57677,60132,Cirsium arvense,creeping thistle,eats
+57677,62742,Rudbeckia,black-eyed Susans and coneflowers,eats
+57677,52345,Convolvulaceae,bindweed family,eats
+57677,,Cephalaria radiata,,eats
+57677,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+57677,17356,Vireo bellii,Bell's Vireo,eatenBy
+57677,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+57677,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+57677,16102,Contopus latirostris,Lesser Antillean Pewee,eatenBy
+57677,17408,Vireo griseus,White-eyed Vireo,eatenBy
+57677,,Vireo flavifrons,,eatenBy
+57677,17394,Vireo gilvus,Warbling Vireo,eatenBy
+57677,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+57677,,Empidonax flaviventris,,eatenBy
+57677,126889,Toxomerus marginatus,Margined Calligrapher,pollinates
+57677,50829,Viola,violets,pollinates
+57677,50644,Salvia,Sages,pollinates
+57677,76610,Daucus carota,wild carrot,pollinates
+57677,47327,Calochortus,mariposa lilies,pollinates
+57677,50203,Bidens pilosa,blackjack,pollinates
+57677,76425,Commelina benghalensis,tropical spiderwort,pollinates
+57677,62642,Solanum rostratum,buffalo-bur,pollinates
+57677,125727,Panicum virgatum,switchgrass,pollinates
+57677,57983,Helianthus annuus,Common Sunflower,pollinates
+57677,63319,Verbena stricta,hoary vervain,pollinates
+57677,47890,Balsaminaceae,balsam family,pollinates
+57677,48726,Iris versicolor,northern blue flag,pollinates
+57677,170259,Viola sagittata,arrowleaf violet,pollinates
+57677,132711,Hypericum punctatum,spotted St. John's wort,pollinates
+57677,52764,Prunella vulgaris,common selfheal,pollinates
+57677,130991,Tradescantia virginiana,Virginia spiderwort,pollinates
+57677,55745,Trifolium repens,white clover,pollinates
+57677,127907,Chamaecrista fasciculata,partridge pea,pollinates
+57677,57457,Stachys palustris,Marsh Woundwort,pollinates
+57677,56121,Capsella bursa-pastoris,shepherd's-purse,pollinates
+57677,85324,Desmodium,ticktrefoils,pollinates
+57677,49916,Sisyrinchium angustifolium,narrow-leaved blue-eyed grass,pollinates
+57677,55748,Veronica arvensis,corn speedwell,pollinates
+57677,125186,Lespedeza capitata,round-headed bush clover,pollinates
+57677,130989,Euthamia graminifolia,flat-topped goldenrod,pollinates
+57677,64538,Celastrus scandens,American bittersweet,pollinates
+57677,53268,Maianthemum stellatum,star-flowered lily-of-the-valley,pollinates
+57677,56057,Leucanthemum vulgare,oxeye daisy,pollinates
+57677,79157,Sonchus tenerrimus,slender sowthistle,pollinates
+57677,49323,Carpobrotus,sea figs,pollinates
+57677,55749,Veronica serpyllifolia,thyme-leaved speedwell,pollinates
+57677,58086,Sisymbrium orientale,eastern rocket,pollinates
+57677,51900,Hypochaeris,Cat's-Ears,pollinates
+57677,53021,Convolvulus arvensis,field bindweed,pollinates
+57677,48160,Centaurea,knapweeds,pollinates
+57677,48896,Heliotropium,Heliotropes,pollinates
+57677,47602,Taraxacum officinale,common dandelion,pollinates
+57677,48230,Ranunculus,buttercups,pollinates
+57677,85320,Monarda fistulosa,wild bergamot,pollinates
+57677,47359,Apocynum androsaemifolium,spreading dogbane,pollinates
+57677,62292,Asclepias speciosa,showy milkweed,pollinates
+57677,359668,Physaria filiformis,Missouri bladderpod,pollinates
+57677,,Ferocactus wislizeni,,pollinates
+57677,,Pyrus malus,,pollinates
+57677,,Capsicum frutescens,,pollinates
+57677,,Pycnanthemum tenuifolium,,pollinates
+57677,,Pyxidanthera barbulata,,pollinates
+57677,,Iliamna remota,,pollinates
+57677,,Emilia,,pollinates
+57677,,Wahlenbergia abyssinica,,pollinates
+57677,,Clinopodium abyssinicum,,pollinates
+57677,83365,Indigofera,Indigos,pollinates
+57677,131831,Oldenlandia,,pollinates
+57677,169944,Tridax procumbens,Tridax daisy,pollinates
+57677,,Conyza cf. subscaposa,,pollinates
+57677,963063,Helichrysum forskahlii,,pollinates
+57677,,Beloperone aurea,,pollinates
+57677,343045,Gutenbergia cordifolia,,pollinates
+57677,,Lactuca inermis,,pollinates
+57677,143422,Ageratum conyzoides,billygoat weed,pollinates
+57677,,Waltheria indica,,pollinates
+57677,,Cyperus brevifolius,,pollinates
+57677,,Spermacoce princeae var. princeae,,pollinates
+57677,,Rubiaceae sp.1*,,pollinates
+57677,133311,Richardia scabra,Florida Pusley,pollinates
+57677,82536,Viola pedata,bird's foot violet,pollinates
+57677,,Uvularia grandiflora,,pollinates
+57677,,Cirsium lanceolatum,,pollinates
+57677,116349,Collinsia verna,spring blue-eyed Mary,pollinates
+57677,,Smilacina racemosa,,pollinates
+57677,48038,Lobelia cardinalis,cardinal flower,pollinates
+57677,,Lespedeza procumbens,,pollinates
+57677,,Melanthium virginicum,,pollinates
+57677,58188,Mentha arvensis,corn mint,pollinates
+57677,,Polygala sanguinea,,pollinates
+57677,54824,Crataegus crus-galli,cockspur hawthorn,pollinates
+57677,,Strophostyles helvola,,pollinates
+57677,,http://treatment.plazi.org/id/F3D0912E3F8E7B4FCC1318F168CDC26F,,pollinates
+57677,77779,Lindernia dubia,Yellowseed False Pimpernel,pollinates
+57677,121981,Triosteum perfoliatum,Perfoliate Tinker's-weed,pollinates
+57677,242211,Physalis longifolia subglabrata,Longleaf Ground-cherry,pollinates
+57677,,Arnoglossum atriplicifolium,,pollinates
+57677,,Veronicastrum virginicum,,pollinates
+57677,166502,Perideridia americana,thicket parsley,pollinates
+57677,,Podophyllum peltatum,,pollinates
+57677,,Stellaria longifolia,,pollinates
+57677,,Krigia dandelion,,pollinates
+57677,,Solidago serotina,,pollinates
+57677,52599,Pontederia cordata,pickerelweed,pollinates
+57677,82247,Viburnum dentatum,southern arrowwood,pollinates
+57677,,Steironema ciliatum,,pollinates
+57677,54825,Crataegus mollis,downy hawthorn,pollinates
+57677,,Caulophyllum thalictroides,,pollinates
+57677,,Smilax herbacea,,pollinates
+57677,,Blephilia hirsuta,,pollinates
+57677,,Eupatorium coelestinum,,pollinates
+57677,75766,Bidens laevis,larger bur-marigold,pollinates
+57677,,http://treatment.plazi.org/id/D7B2F2192735F23359A1A47FAD416FC3,,pollinates
+57677,,Arnoglossum reniforme,,pollinates
+57677,69086,Lasius,Citronella Ants,pollinatedBy
+57677,,Leptonycteris yerbabuenae,,preyedUponBy

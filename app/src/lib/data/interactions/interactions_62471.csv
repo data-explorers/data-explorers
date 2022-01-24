@@ -1,0 +1,42 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62471,47126,Plantae,plants,eats
+62471,,roots,,eats
+62471,,saphrophytes,,eats
+62471,,Mus sp.,,eatenBy
+62471,62471,Limacidae,Keelback Slugs,preysOn
+62471,47484,Helicidae,Helix Snails,preysOn
+62471,,Monachoides incarnatus,,preysOn
+62471,172143,Aegopinella nitens,Wide-mouthed Aegopinella,preysOn
+62471,,Aegopinella nitidula,,preysOn
+62471,,Trochulus striolatus,,preysOn
+62471,,Perpolita hammonis,,preysOn
+62471,,Clausilia bidentata,,preysOn
+62471,218587,Discus rotundatus,Rounded Snail,preysOn
+62471,,Aegopinella pura,,preysOn
+62471,49567,Carabidae,Ground Beetles,preyedUponBy
+62471,42069,Vulpes vulpes,Red Fox,preyedUponBy
+62471,62471,Limacidae,Keelback Slugs,preyedUponBy
+62471,,Paederus riparius,,preyedUponBy
+62471,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+62471,,Gabrius fermoralis,,preyedUponBy
+62471,505524,Pirata piscatorius,,preyedUponBy
+62471,,Haemopis sanguisuga,,preyedUponBy
+62471,82118,Dolomedes,Fishing Spiders,preyedUponBy
+62471,,Diplocampa assimile,,preyedUponBy
+62471,1086379,Tetartopeus terminatum,,preyedUponBy
+62471,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+62471,,Poecilus,,preyedUponBy
+62471,,Agonum viduum,,preyedUponBy
+62471,784329,Robertus insignis,,preyedUponBy
+62471,,Acupalpus flavicollis,,preyedUponBy
+62471,784206,Trochosa spinipalpis,,preyedUponBy
+62471,468120,Anelosimus vittatus,,preyedUponBy
+62471,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+62471,,Anguis fragilis,,preyedUponBy
+62471,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+62471,,Gabrius fermoralis (Hochh.),,preyedUponBy
+62471,551912,Bembidion assimile,,preyedUponBy
+62471,130411,Abax,,preyedUponBy
+62471,,Lehmannia marginata,,preyedUponBy
+62471,130409,Abax parallelepipedus,,preyedUponBy
+62471,495490,Cychrus attenuatus,,preyedUponBy

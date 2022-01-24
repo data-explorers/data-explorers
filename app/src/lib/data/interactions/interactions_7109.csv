@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7109,2,Chordata,Chordates,eats
+7109,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+7109,20978,Amphibia,Amphibians,eats
+7109,47120,Arthropoda,Arthropods,eats
+7109,47158,Insecta,Insects,eats
+7109,47115,Mollusca,Molluscs,eats
+7109,211194,Tracheophyta,vascular plants,eats
+7109,48173,Pagurus,,eats
+7109,4342,Laridae,"Gulls, Terns, and Skimmers",eats
+7109,47114,Gastropoda,Gastropods,eats
+7109,132473,Lagodon rhomboides,Pinfish,eats
+7109,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+7109,51221,Procambarus clarkii,Red Swamp Crayfish,eats
+7109,355675,Vertebrata,Vertebrates,eats
+7109,60340,Lithobates,American Water Frogs,eats
+7109,47178,Actinopterygii,Ray-finned Fishes,eats
+7109,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",eats
+7109,109062,Perca fluviatilis,European Perch,eats
+7109,,Teleostei,,eats
+7109,82104,Cambarus,,eats
+7109,295433,Processa bermudensis,,eats
+7109,179579,Gobiosoma robustum,Code Goby,eats
+7109,94070,Anchoa mitchilli,Bay Anchovy,eats
+7109,179563,Leiostomus xanthurus,Spot Croaker,eats
+7109,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+7109,47178,Actinopterygii,Ray-finned Fishes,preysOn
+7109,47783,Astacoidea,Northern Hemisphere Crayfishes,preysOn
+7109,51221,Procambarus clarkii,Red Swamp Crayfish,preysOn
+7109,60340,Lithobates,American Water Frogs,preysOn
+7109,311310,Astacidea,Crayfishes and Lobsters,preysOn
+7109,47782,Cambaridae,Cambarid Crayfishes,preysOn
+7109,25473,Ranidae,Typical Frogs,preysOn
+7109,121639,Brachyura,True Crabs,preysOn
+7109,47186,Decapoda,Decapods,preysOn
+7109,48403,Gasterosteus aculeatus,Threespine Stickleback,preysOn
+7109,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+7109,117571,Clupea pallasii,Pacific herring,preysOn
+7109,,Cottus asper,,preysOn
+7109,47783,Astacoidea,Northern Hemisphere Crayfishes,preyedUponBy

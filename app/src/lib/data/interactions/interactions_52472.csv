@@ -1,0 +1,105 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52472,118492,Helicoverpa zea,Corn Earworm Moth,eatenBy
+52472,128670,Bombus vagans,Half-black Bumble Bee,eatenBy
+52472,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+52472,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+52472,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+52472,58532,Colias eurytheme,Orange Sulphur,eatenBy
+52472,50931,Strymon melinus,Gray Hairstreak,eatenBy
+52472,59188,Erynnis funeralis,Funereal Duskywing,eatenBy
+52472,58531,Colias philodice,Clouded Sulphur,eatenBy
+52472,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+52472,58533,Colias,Clouded Yellows,eatenBy
+52472,56776,Glaucopsyche lygdamus,Silvery Blue,eatenBy
+52472,124420,Bombus californicus,California Bumble Bee,eatenBy
+52472,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+52472,48548,Vanessa cardui,Painted Lady,eatenBy
+52472,52775,Bombus,Bumble Bees,eatenBy
+52472,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+52472,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+52472,1081332,Lon melane,Umber Skipper,eatenBy
+52472,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+52472,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+52472,120215,Bombus griseocollis,Brown-belted Bumble Bee,eatenBy
+52472,59187,Erynnis propertius,Propertius Duskywing,eatenBy
+52472,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+52472,47219,Apis mellifera,Western Honey Bee,eatenBy
+52472,52484,Celastrina echo,Echo Azure,eatenBy
+52472,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+52472,48662,Danaus plexippus,Monarch,eatenBy
+52472,1021509,Junonia grisea,Gray Buckeye,eatenBy
+52472,6433,Archilochus alexandri,Black-chinned Hummingbird,eatenBy
+52472,145414,Aphis craccivora,Cowpea Aphid,eatenBy
+52472,59124,Anthocharis sara,Sara Orangetip,eatenBy
+52472,48549,Vanessa virginiensis,American Lady,eatenBy
+52472,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+52472,906,Meleagris gallopavo,Wild Turkey,eatenBy
+52472,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+52472,1409,Callipepla californica,California Quail,eatenBy
+52472,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+52472,,Epilachna varivestis,,eatenBy
+52472,,Acyrthosiphon pisum,,eatenBy
+52472,,Spharagemon bolli,,eatenBy
+52472,,Plathypena scabra,,eatenBy
+52472,,Sitona lineatus,,eatenBy
+52472,,Cnephasia asseclana,,eatenBy
+52472,,Cnephasia longana,,eatenBy
+52472,,Cydia nigricana,,eatenBy
+52472,,Grapholita orobana,,eatenBy
+52472,,Grapholita jungiella,,eatenBy
+52472,,Ancylis badiana,,eatenBy
+52472,56530,Acherontia atropos,Death's Head Hawkmoth,eatenBy
+52472,,Adoxophyes libralis,,eatenBy
+52472,424213,Colias lesbia,Lesbia Clouded Yellow,eatenBy
+52472,,Autographa gamma,,eatenBy
+52472,,Lygephila craccae,,eatenBy
+52472,,Caenurgia chloropha,,eatenBy
+52472,,Lygephila lusoria,,eatenBy
+52472,,Lygephila,,eatenBy
+52472,,Lygephila pastinum,,eatenBy
+52472,,Orgyia anartoides,,eatenBy
+52472,,Lygephila ludicra,,eatenBy
+52472,,Polyommatus icarus,,eatenBy
+52472,,Cupido amyntula amyntula,,eatenBy
+52472,,Siona lineata,,eatenBy
+52472,,Lycaeides melissa,,eatenBy
+52472,,Chionodes lugubrella,,eatenBy
+52472,875452,Gelechia basipunctella,,eatenBy
+52472,,Glaucopsyche lycormas,,eatenBy
+52472,,Celastrina argiolus,,eatenBy
+52472,60896,Callophrys rubi,Green Hairstreak,eatenBy
+52472,,Cupido amyntula,,eatenBy
+52472,,Colias croceus,,eatenBy
+52472,,Colias meadii,,eatenBy
+52472,,Colias phicomone,,eatenBy
+52472,,Colias hyale,,eatenBy
+52472,,Colias occidentalis,,eatenBy
+52472,,Cupido alcetas,,eatenBy
+52472,484047,Colias chrysotheme,Lesser Clouded Yellow,eatenBy
+52472,,Colias electo,,eatenBy
+52472,209721,Colias alexandra,Queen Alexandra’s Sulphur,eatenBy
+52472,,Colias heos,,eatenBy
+52472,,Glaucopsyche alexis,,eatenBy
+52472,,Lampides boeticus,,eatenBy
+52472,,Leptidea sinapis,,eatenBy
+52472,,Leptidea morsei,,eatenBy
+52472,,Polyommatus amandus,,eatenBy
+52472,,Leptidea amurensis,,eatenBy
+52472,,Plebejus argus,,eatenBy
+52472,,Plebejus argyrognomon,,eatenBy
+52472,122384,Plebejus anna,Anna's Blue,eatenBy
+52472,,Zizina labradus,,eatenBy
+52472,,Zizula hylax,,eatenBy
+52472,,Polyommatus semiargus,,eatenBy
+52472,,Thorybes pylades,,eatenBy
+52472,,Thorybes mexicana,,eatenBy
+52472,,Polyommatus,,eatenBy
+52472,,Sitona (Sitona) suturalis,,eatenBy
+52472,,Sitona (Sitona) lineatus,,eatenBy
+52472,,Sitona (Sitona) macularius,,eatenBy
+52472,,Sitona (Sitona) ambiguus,,eatenBy
+52472,,Agromyza vicifoliae,,eatenBy
+52472,52775,Bombus,Bumble Bees,pollinatedBy
+52472,133655,Tropidia quadrata,Common Thick-leg Fly,pollinatedBy
+52472,,Botanophila sp.,,pollinatedBy
+52472,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

@@ -1,0 +1,111 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9607,1,Animalia,Animals,eats
+9607,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9607,47120,Arthropoda,Arthropods,eats
+9607,47157,Lepidoptera,Butterflies and Moths,eats
+9607,47208,Coleoptera,Beetles,eats
+9607,84670,Ephydridae,Shore Flies,eats
+9607,48124,Tettigoniidae,Katydids,eats
+9607,48670,Noctuidae,Cutworm Moths and Allies,eats
+9607,47434,Poaceae,grasses,eats
+9607,55594,Cynipidae,Gall Wasps,eats
+9607,52884,Gryllidae,True Crickets,eats
+9607,47199,Ichneumonidae,Ichneumonid Wasps,eats
+9607,60304,Paspalum,Paspalum,eats
+9607,48091,Brachycera,Brachyceran Flies,eats
+9607,48736,Curculionidae,True Weevils,eats
+9607,60628,Tenthredinidae,Common Sawflies,eats
+9607,49567,Carabidae,Ground Beetles,eats
+9607,48201,Scarabaeidae,Scarabs,eats
+9607,53237,Cicadellidae,Typical Leafhoppers,eats
+9607,47114,Gastropoda,Gastropods,eats
+9607,47535,Araneidae,Orbweavers,eats
+9607,47158,Insecta,Insects,eats
+9607,47416,Lycosidae,Wolf Spiders,eats
+9607,83843,Oxyopidae,Lynx Spiders,eats
+9607,81570,Belostomatidae,Giant Water Bugs,eats
+9607,47822,Diptera,Flies,eats
+9607,47649,Acrididae,Short-horned Grasshoppers,eats
+9607,47951,Staphylinidae,Rove Beetles,eats
+9607,26504,Colubridae,Colubrid Snakes,eats
+9607,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eats
+9607,57659,Dytiscidae,Predaceous Diving Beetles,eats
+9607,57843,Cydnidae,Burrowing Bugs,eats
+9607,52381,Aphididae,Aphids,eats
+9607,47213,Sphingidae,Sphinx Moths,eats
+9607,51777,Coreidae,Leaf-footed Bugs,eats
+9607,51953,Tachinidae,Bristle Flies,eats
+9607,49530,Geometridae,Geometer Moths,eats
+9607,48139,Salticidae,Jumping Spiders,eats
+9607,51146,Chrysomelidae,Leaf Beetles,eats
+9607,85850,Labiduridae,Striped Earwigs,eats
+9607,47132,Rosales,"roses, elms, figs, and allies",eats
+9607,127444,Hydrophilidae,Water Scavenger Beetles,eats
+9607,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9607,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+9607,47922,Nymphalidae,Brush-footed Butterflies,eats
+9607,47336,Formicidae,Ants,eats
+9607,55558,Lygaeidae,Seed Bugs,eats
+9607,47742,Pentatomidae,Stink Bugs,eats
+9607,47118,Araneae,Spiders,eats
+9607,53816,Tenebrionidae,Darkling Beetles,eats
+9607,51225,Tipulidae,Large Crane Flies,eats
+9607,48959,Reduviidae,Assassin Bugs,eats
+9607,47653,Hesperiidae,Skippers,eats
+9607,53248,Elateridae,Click Beetles,eats
+9607,82009,Stagmomantis,,eats
+9607,57665,Cotinis mutabilis,Figeater Beetle,eats
+9607,358855,Gryllidea,Crickets,eats
+9607,47178,Actinopterygii,Ray-finned Fishes,eats
+9607,,Euchelicerata,,eats
+9607,,Ctenizidae,,eats
+9607,,Sepsidae,,eats
+9607,,Erotylidae,,eats
+9607,48448,Zea mays,Maize,eats
+9607,177769,Noteridae,Burrowing Water Beetles,eats
+9607,49525,Scutelleridae,Jewel Bugs,eats
+9607,5676,Amazilia tzacatl,Rufous-tailed Hummingbird,eats
+9607,,Trophis racemosa,,eats
+9607,,Cupania dentata,,eats
+9607,,Guettarda elliptica,,eats
+9607,,Psittacanthus,,eats
+9607,,Opuntia stricta,,eats
+9607,283078,Achatocarpus nigricans,,eats
+9607,,Sapranthus microcarpus,,eats
+9607,,Karwinskia humboldtiana,,eats
+9607,,Tournefortia hirsutissima,,eats
+9607,,Psychotria lauracea,,eats
+9607,,Malpighia glabra,,eats
+9607,,Celtis caudata,,eats
+9607,,Phoradendron quadrangulare,,eats
+9607,,Ficus lapathifolia,,eats
+9607,,Bromelia pinguin,,eats
+9607,284455,Tabernaemontana alba,,eats
+9607,,Dendropanax arboreus,,eats
+9607,316801,Randia laetevirens,,eats
+9607,127936,Chiococca alba,West Indian milkberry,eats
+9607,,Casearia arborea,,eats
+9607,,Rourea glabra,,eats
+9607,,Bursera fagaroides,,eats
+9607,,Tabernaemontana litoralis,,eats
+9607,,Coccoloba barbadensis,,eats
+9607,,Eugenia acapulcensis,,eats
+9607,,Nectandra coriacea,,eats
+9607,,Sabal,,eats
+9607,,Bursera simaruba,,eats
+9607,,Vitis biformis,,eats
+9607,,Brosimum alicastrum,,eats
+9607,,Ficus obtusifolia,,eats
+9607,478640,Crossopetalum uragoga,Snake Berry,eats
+9607,,Nectandra salicifolia,,eats
+9607,,Chrysobalanus icaco,,eats
+9607,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9607,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+9607,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+9607,4645,Falco femoralis,Aplomado Falcon,eatenBy
+9607,9607,Quiscalus mexicanus,Great-tailed Grackle,preysOn
+9607,47157,Lepidoptera,Butterflies and Moths,preysOn
+9607,47178,Actinopterygii,Ray-finned Fishes,preysOn
+9607,9607,Quiscalus mexicanus,Great-tailed Grackle,preyedUponBy
+9607,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+9607,73766,Drymarchon melanurus,Central American Indigo Snake,preyedUponBy

@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52741,,North American deermouse,,eatenBy
+52741,,Xestia oblata,,eatenBy
+52741,,Syngrapha epigaea,,eatenBy
+52741,,Phlogophora iris,,eatenBy
+52741,63752,Hyppa xylinoides,Common Hyppa Moth,eatenBy
+52741,,Apharetra dentata,,eatenBy
+52741,,Polia detracta,,eatenBy
+52741,154057,Cingilia catenaria,Chain-dotted Geometer,eatenBy
+52741,118970,Bombus impatiens,Common Eastern Bumble Bee,pollinatedBy
+52741,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+52741,,Bombus sandersoni,,pollinatedBy
+52741,,Sericomyia transversa,,pollinatedBy
+52741,155085,Bombus perplexus,Perplexing Bumble Bee,pollinatedBy
+52741,,Bombus ternarius,,pollinatedBy
+52741,,Andrena carolina,,pollinatedBy
+52741,,Colletes inaequalis,,pollinatedBy
+52741,,http://treatment.plazi.org/id/556035E6CDCB09DA5FA0F608E455A0D9,,pollinatedBy
+52741,,http://treatment.plazi.org/id/0392879B7367AB3543D5FB74FE8BFAF4,,pollinatedBy
+52741,,Andrena carlini,,pollinatedBy
+52741,,http://treatment.plazi.org/id/0392879B7362AB3043D5FCCDFF70FB96,,pollinatedBy
+52741,,http://treatment.plazi.org/id/0392879B735DAB0F43D5FF48FB7CFDC5,,pollinatedBy
+52741,,http://treatment.plazi.org/id/0392879B737BAB2943D5FC0BFE04FBF9,,pollinatedBy

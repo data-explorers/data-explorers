@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56584,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+56584,14850,Sturnus vulgaris,European Starling,eatenBy
+56584,,Parkesia motacilla,,eatenBy
+56584,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+56584,,Corvus caurinus,,eatenBy
+56584,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy
+56584,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+56584,40657,Rhinolophus pearsonii,Pearson's Horseshoe Bat,preyedUponBy
+56584,40689,Rhinolophus macrotis,big-eared horseshoe bat,preyedUponBy
+56584,40705,Rhinolophus lepidus,Blyth's Horseshoe Bat,preyedUponBy
+56584,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy

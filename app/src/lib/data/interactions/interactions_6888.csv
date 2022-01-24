@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+6888,47115,Mollusca,Molluscs,eats
+6888,47114,Gastropoda,Gastropods,eats
+6888,47161,Cyperaceae,sedges,eats
+6888,211194,Tracheophyta,vascular plants,eats
+6888,311249,Bryophyta,mosses,eats
+6888,342912,Caridea,Caridean Shrimps,eats
+6888,54644,Ulva,sea lettuces,eats
+6888,47170,Fungi,Fungi Including Lichens,eats
+6888,50378,Halodule,,eats
+6888,,Micro-epiphytes,,eats
+6888,,no name,,eats
+6888,,marine invertebrates,,eats
+6888,,common mummichog,,eats
+6888,,plants - dead plants,,eats
+6888,61092,Ruppia,widgeonweeds,eats
+6888,,shrubs,,eats
+6888,,grasses and sedges,,eats
+6888,,forbs,,eats
+6888,42069,Vulpes vulpes,Red Fox,eatenBy
+6888,41976,Lynx rufus,Bobcat,eatenBy
+6888,5163,Circus,Harriers,eatenBy
+6888,43584,Homo sapiens,Human,eatenBy
+6888,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+6888,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+6888,20445,Tyto alba,Barn Owl,eatenBy
+6888,20044,Bubo virginianus,Great Horned Owl,eatenBy
+6888,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+6888,233598,Vulpes lagopus,Arctic Fox,eatenBy
+6888,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+6888,104980,Maccullochella peelii,Murray Cod,eatenBy
+6888,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+6888,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+6888,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+6888,4644,Falco mexicanus,Prairie Falcon,eatenBy
+6888,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+6888,47115,Mollusca,Molluscs,preysOn
+6888,47114,Gastropoda,Gastropods,preysOn
+6888,47120,Arthropoda,Arthropods,preysOn
+6888,50378,Halodule,,preysOn
+6888,,intertidal invertebrates,,preysOn
+6888,,marine invertebrates,,preysOn
+6888,43584,Homo sapiens,Human,preyedUponBy
+6888,5163,Circus,Harriers,preyedUponBy
+6888,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+6888,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+6888,42069,Vulpes vulpes,Red Fox,preyedUponBy
+6888,20306,Asio,Eared Owls and Allies,preyedUponBy
+6888,4555,Pagophila eburnea,Ivory Gull,preyedUponBy
+6888,144594,Bubo scandiacus,Snowy Owl,preyedUponBy
+6888,5200,Buteo lagopus,Rough-legged Hawk,preyedUponBy
+6888,233598,Vulpes lagopus,Arctic Fox,preyedUponBy

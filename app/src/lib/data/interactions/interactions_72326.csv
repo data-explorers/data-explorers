@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+72326,126532,Toxomerus geminatus,Eastern Calligrapher,eatenBy
+72326,57056,Medicago lupulina,Black Medick,eatenBy
+72326,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+72326,,Clepsis rurinana,,eatenBy
+72326,,Oidaematophorus lithodactylus,,eatenBy
+72326,120010,Polistes metricus,Metric Paper Wasp,eatenBy

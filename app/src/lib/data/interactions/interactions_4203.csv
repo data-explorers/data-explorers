@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4203,4345,Larus occidentalis,Western Gull,eatenBy
+4203,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4203,20044,Bubo virginianus,Great Horned Owl,eatenBy
+4203,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4203,,Python molurus bivittatus,,eatenBy

@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+89853,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+89853,4209,Podiceps auritus,Horned Grebe,eatenBy
+89853,154500,Cynoscion regalis,Weakfish,eatenBy
+89853,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+89853,128750,Sciaenops ocellatus,Red Drum,eatenBy
+89853,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+89853,4938,Egretta tricolor,Tricolored Heron,eatenBy
+89853,144530,Sternula antillarum,Least Tern,preyedUponBy
+89853,4450,Sterna hirundo,Common Tern,preyedUponBy

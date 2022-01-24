@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47823,28499,Tantilla hobartsmithi,Southwestern Blackhead Snake,eats
+47823,,Mexigonus morosus,,eatenBy
+47823,28499,Tantilla hobartsmithi,Southwestern Blackhead Snake,preysOn
+47823,81839,Platycryptus undatus,Tan Jumping Spider,preyedUponBy
+47823,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+47823,,Cithaeron praedonius,,preyedUponBy

@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+99912,,Graphocephala coccinea,,preysOn
+99912,326683,Asilinae,,preyedUponBy
+99912,47119,Arachnida,Arachnids,preyedUponBy
+99912,,Micrathena gracilis,,preyedUponBy

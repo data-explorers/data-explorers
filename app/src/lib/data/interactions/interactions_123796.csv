@@ -1,0 +1,19 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123796,49591,Lepomis macrochirus,Bluegill,eatenBy
+123796,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+123796,67609,Hysterocarpus traskii,tule perch,eatenBy
+123796,49594,Pomoxis nigromaculatus,Black Crappie,eatenBy
+123796,,Ameiurus melas,,eatenBy
+123796,58654,Ameiurus nebulosus,Brown Bullhead,eatenBy
+123796,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+123796,51392,Morone saxatilis,Striped Bass,eatenBy
+123796,620519,Sebastes capensis,false jacobever,eatenBy
+123796,317117,Gobiesox rhessodon,California clingfish,eatenBy
+123796,98324,Congiopodus torvus,smooth horsefish,eatenBy
+123796,445781,Cirrhibarbis capensis,barbelled klipfish,eatenBy
+123796,609244,Chatrabus felinus,pleated toadfish,eatenBy
+123796,614223,Chorisochismus dentex,rocksucker,eatenBy
+123796,119716,Pavoclinus pavo,peacock clipfish,eatenBy
+123796,614378,Caffrogobius saldanha,Commafin Goby,eatenBy
+123796,608581,Galeichthys ater,Black Sea Catfish,eatenBy
+123796,461136,Sebastes inermis,Japanese red rockfish,eatenBy

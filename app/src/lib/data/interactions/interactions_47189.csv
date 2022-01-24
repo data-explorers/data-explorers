@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47189,,Detritus,,eats
+47189,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+47189,,Dialommus fuscus,,eatenBy
+47189,179551,Labrisomus nuchipinnis,Hairy Blenny,eatenBy

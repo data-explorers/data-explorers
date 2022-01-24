@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61317,41663,Procyon lotor,Common Raccoon,eatenBy
+61317,47219,Apis mellifera,Western Honey Bee,eatenBy
+61317,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+61317,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+61317,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+61317,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+61317,52775,Bombus,Bumble Bees,eatenBy
+61317,59189,Erynnis tristis,Mournful Duskywing,eatenBy
+61317,48548,Vanessa cardui,Painted Lady,eatenBy
+61317,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+61317,1021509,Junonia grisea,Gray Buckeye,eatenBy
+61317,55626,Pieris rapae,Cabbage White,eatenBy
+61317,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+61317,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+61317,1081332,Lon melane,Umber Skipper,eatenBy
+61317,57688,Xylocopa californica,Western Carpenter,eatenBy
+61317,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+61317,9156,Passerella iliaca,Fox Sparrow,eatenBy
+61317,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+61317,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+61317,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+61317,,Hylaeus modestus,,eatenBy
+61317,,Callophrys eryphon,,eatenBy
+61317,345300,Andrena nigrocaerulea,Blue-and-black Mining Bee,eatenBy

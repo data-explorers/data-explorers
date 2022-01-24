@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47779,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+47779,47219,Apis mellifera,Western Honey Bee,eatenBy
+47779,,Paramesia gnomana,,eatenBy
+47779,,Sparganothis pilleriana,,eatenBy
+47779,217191,Clepsis spectrana,Cyclamen Tortrix,eatenBy
+47779,,Coenonympha oedippus,,eatenBy
+47779,,Archanara sparganii,,eatenBy
+47779,,Amphipoea crinanensis,,eatenBy
+47779,,Cerodontha iraeos,,eatenBy
+47779,,Rhadinoceraea micans,,eatenBy
+47779,543720,Aphthona nonstriata,,eatenBy
+47779,,Orthotelia sparganella,,eatenBy
+47779,,Celaena leucostigma,,eatenBy
+47779,,Neottiospora caricina,,eatenBy
+47779,,Donacia thalassina,,eatenBy
+47779,,Plateumaris sericea,,eatenBy
+47779,,Mononychus punctumalbum,,eatenBy
+47779,,Typhula trifolii,,eatenBy
+47779,,Sistotrema diademiferum,,eatenBy
+47779,,Psathyrella typhae,,eatenBy
+47779,,Phlebiella fibrillosa,,eatenBy
+47779,,Belonium nigromaculatum,,eatenBy
+47779,,Stachybotrys dichroa,,eatenBy
+47779,,Volutella melaloma,,eatenBy
+47779,,Volutella arundinis,,eatenBy
+47779,,Nectriella dacrymycella,,eatenBy
+47779,,Orbilia curvatispora,,eatenBy
+47779,,Myrothecium carmichaelii,,eatenBy
+47779,,Niesslia exosporioides,,eatenBy
+47779,,Nectria ellisii,,eatenBy
+47779,,Hymenoscyphus repandus,,eatenBy
+47779,,Colletotrichum dematium,,eatenBy
+47779,,Ceriophora palustris,,eatenBy
+47779,,Anthostomella limitata,,eatenBy
+47779,,Belonopsis iridis,,eatenBy
+47779,,Aphis newtoni,,eatenBy
+47779,,Donacia vulgaris,,eatenBy
+47779,55623,Acronicta rumicis,Knot Grass Moth,eatenBy
+47779,53648,Nomada,Nomad Bees,pollinatedBy
+47779,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+47779,,Xylocopa appendiculata,,pollinatedBy
+47779,70405,Melanostoma scalare,Ladder-backed Hover Fly,pollinatedBy
+47779,,Lasioglossum occidens,,pollinatedBy

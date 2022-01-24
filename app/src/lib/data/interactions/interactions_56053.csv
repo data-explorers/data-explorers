@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56053,,Detritus complex,,eats
+56053,,Pteraster tesselatus,,eatenBy
+56053,495552,Hermissenda crassicornis,Thick-horned Nudibranch,eatenBy
+56053,220718,Gymnocanthus tricuspis,Arctic Staghorn Sculpin,eatenBy
+56053,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+56053,63382,Dermasterias imbricata,Leather Star,eatenBy
+56053,,Crossaster papposus,,eatenBy
+56053,118667,Diplodus vulgaris,Common Two-banded Seabream,eatenBy

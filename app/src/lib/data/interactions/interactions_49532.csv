@@ -1,0 +1,187 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49532,51021,Dictyota,Y-branched Algae,eats
+49532,67423,Ulva lactuca,broadleaf sea lettuce,eats
+49532,328391,Colpomenia sinuosa,Oyster thief,eats
+49532,54644,Ulva,sea lettuces,eats
+49532,48216,Fucus vesiculosus,bladder wrack,eats
+49532,50862,Codium,Codiums,eats
+49532,343398,Saccorhiza polyschides,Furbellow,eats
+49532,123632,Corallina officinalis,Common Coralline,eats
+49532,130197,Ulva intestinalis,Gutweed,eats
+49532,68770,Ascophyllum nodosum,Knotted Wrack,eats
+49532,123633,Porphyra,Nori,eats
+49532,130178,Sargassum,Sargassum,eats
+49532,123880,Bacillariophyceae,Diatoms,eats
+49532,48217,Fucus,vesicled rockweeds,eats
+49532,429195,Nucella emarginata,Emarginate Dogwinkle,eats
+49532,318459,Pennales,Pennate diatoms,eats
+49532,768613,Polycladia myrica,,eats
+49532,131266,Caulerpa cupressoides,cactus tree alga,eats
+49532,354676,Hydroclathrus clathratus,,eats
+49532,,Jania intermedia,,eats
+49532,,Padina boryana,,eats
+49532,706036,Caulerpa zeyheri,,eats
+49532,50926,Caulerpa racemosa,Sea Grapes,eats
+49532,1131124,Sargassum aquifolium,,eats
+49532,1180401,Gracilaria corticata,,eats
+49532,559953,Halimeda cuneata,Wedgeweed,eats
+49532,461577,Ellisolandia elongata,,eats
+49532,57779,Asparagopsis armata,Harpoonweed,eats
+49532,182852,Sphacelaria cirrosa,,eats
+49532,67675,Hypnea,,eats
+49532,502380,Leathesia marina,Sea Cauliflower,eats
+49532,828842,Chondria armata,,eats
+49532,,Valonia macrophysa,,eats
+49532,131381,Griffithsia,,eats
+49532,322731,Sargassum polycystum,,eats
+49532,,Osmundaria melvillii,,eats
+49532,129737,Colpomenia peregrina,Oyster-thief,eats
+49532,915274,Dictyopteris delicatula,,eats
+49532,706047,Laurencia flexuosa,,eats
+49532,343396,Bifurcaria bifurcata,,eats
+49532,,Gracilaria truncata,,eats
+49532,824521,Gelidiella acerosa,,eats
+49532,131319,Dictyosphaeria cavernosa,,eats
+49532,498031,Cladophora herpestica,,eats
+49532,503019,Hormophysa cuneiformis,,eats
+49532,1266342,Valoniopsis pachynema,,eats
+49532,643771,Abyla,,eats
+49532,706056,Laurencia pumila,,eats
+49532,67676,Gracilaria salicornia,Gorilla ogo,eats
+49532,131277,Lobophora variegata,Encrusting fan-leaf alga,eats
+49532,356459,Chnoospora minima,,eats
+49532,331032,Parvocaulis parvulus,Daisy Green Seaweed,eats
+49532,942428,Canistrocarpus cervicornis,,eats
+49532,,Gelidium sp.,,eats
+49532,142076,Acrosorium,,eats
+49532,,Cystoseira tamariscifolia,,eats
+49532,130567,Turbinaria ornata,,eats
+49532,201264,Bryopsis pennata,,eats
+49532,415041,Cladophora vagabunda,,eats
+49532,1027504,Ceramium ciliatum,,eats
+49532,208547,Neomeris vanbosseae,,eats
+49532,703743,Codium prostratum,,eats
+49532,607747,Ceratodictyon,,eats
+49532,,Dictyopteris macrocarpa,,eats
+49532,706028,Pseudocodium devriesii,,eats
+49532,326163,Halimeda tuna,Pennyweed,eats
+49532,,Gelidium spinosum,,eats
+49532,,Chamaedoris delphinii,,eats
+49532,51024,Dictyota dichotoma,Forked ribbons,eats
+49532,327063,Dichotomaria marginata,,eats
+49532,,Dictyopteris membranacea,,eats
+49532,700614,Codium lucasii,,eats
+49532,,Dictyopteris longifolia,,eats
+49532,486628,Pterocladia,,eats
+49532,,Polysiphonia sp.,,eats
+49532,467267,Rhodymenia pseudopalmata,,eats
+49532,558165,Gracilariopsis longissima,,eats
+49532,,Padina pavonia,,eats
+49532,,Osmundea ramosissima,,eats
+49532,203723,Ceramium virgatum,,eats
+49532,130176,Chondrus crispus,Irish moss,eats
+49532,182991,Palmaria palmata,Dulse,eats
+49532,790283,Gelidium corneum,,eats
+49532,183154,Rhodomela confervoides,,eats
+49532,543094,Lomentaria articulata,,eats
+49532,505597,Cladophora rupestris,,eats
+49532,182834,Ectocarpus siliculosus,,eats
+49532,201435,Ulva linza,Green string lettuce,eats
+49532,701524,Furcellaria lumbricalis,,eats
+49532,57772,Fucus serratus,Saw Wrack,eats
+49532,130231,Saccharina latissima,Sea Belt,eats
+49532,130204,Mastocarpus stellatus,false Irish moss,eats
+49532,180572,Rhizoclonium,,eats
+49532,,Detritus complex,,eats
+49532,124745,Cystoseira,,eats
+49532,621184,Ulvaria,,eats
+49532,,Polysiphonia yonakuniensis,,eats
+49532,203808,Navicula,,eats
+49532,200862,Bacillariaceae,,eats
+49532,203613,Licmophora,,eats
+49532,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+49532,3836,Calidris,Calidris Sandpipers,eatenBy
+49532,3874,Tringa,"Shanks, Tattlers, and Allies",eatenBy
+49532,95066,Balistes vetula,Queen Triggerfish,eatenBy
+49532,63740,Gadus morhua,Atlantic Cod,eatenBy
+49532,4168,Daption capense,Cape Petrel,eatenBy
+49532,118619,Mullus surmuletus,Striped Red Mullet,eatenBy
+49532,98089,Cnidoglanis macrocephalus,Estuary Cobbler,eatenBy
+49532,118706,Gobius paganellus,Rock Goby,eatenBy
+49532,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+49532,117538,Oligocottus snyderi,Fluffy Sculpin,eatenBy
+49532,83171,Platichthys,,eatenBy
+49532,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+49532,67526,Diomedeidae,Albatrosses,eatenBy
+49532,67629,Oligocottus maculosus,Tidepool Sculpin,eatenBy
+49532,86991,Blennius,,eatenBy
+49532,67411,Gobiesocidae,Clingfishes,eatenBy
+49532,221165,Hemilepidotus hemilepidotus,Red Irish Lord,eatenBy
+49532,67628,Xiphister mucosus,Rock Eel,eatenBy
+49532,103967,Lampanyctus jordani,Brokenline Lanternfish,eatenBy
+49532,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+49532,53701,Hippoglossus stenolepis,Pacific Halibut,eatenBy
+49532,83159,Liparis,Widelip Orchids,eatenBy
+49532,47646,Myoxocephalus,Shorthorn Sculpins,eatenBy
+49532,63386,Sebastes maliger,Quillback Rockfish,eatenBy
+49532,49532,Sphaeromatidae,Typical Seapills,preysOn
+49532,85532,Mysida,Opossum Shrimps,preysOn
+49532,123880,Bacillariophyceae,Diatoms,preysOn
+49532,48217,Fucus,vesicled rockweeds,preysOn
+49532,429195,Nucella emarginata,Emarginate Dogwinkle,preysOn
+49532,,Zooplankton,,preysOn
+49532,245452,Stenothoidae,,preysOn
+49532,59806,Gammaridae,,preysOn
+49532,83718,Tanaidacea,Tanaids,preysOn
+49532,144115,Cumacea,Hooded Shrimp,preysOn
+49532,621184,Ulvaria,,preysOn
+49532,,Phytoplankton,,preysOn
+49532,,Detritus complex,,preysOn
+49532,180572,Rhizoclonium,,preysOn
+49532,,Polysiphonia yonakuniensis,,preysOn
+49532,124745,Cystoseira,,preysOn
+49532,129493,Actinia fragacea,Strawberry Anemone,preyedUponBy
+49532,210294,Lipophrys pholis,Shanny,preyedUponBy
+49532,52319,Platyhelminthes,Flatworms,preyedUponBy
+49532,153169,Palaemon elegans,Rockpool Prawn,preyedUponBy
+49532,48921,Hydrozoa,Hydrozoans,preyedUponBy
+49532,130085,Actinia equina,Beadlet anemone,preyedUponBy
+49532,52523,Carcinus maenas,European Green Crab,preyedUponBy
+49532,49532,Sphaeromatidae,Typical Seapills,preyedUponBy
+49532,47490,Polychaeta,Polychaete Worms,preyedUponBy
+49532,47645,Cottidae,Typical Sculpins,preyedUponBy
+49532,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+49532,89165,Istigobius,,preyedUponBy
+49532,446088,Helcogramma obtusirostris,,preyedUponBy
+49532,342285,Lipophrys trigloides,,preyedUponBy
+49532,649711,Anemonia natalensis,Natal Anemone,preyedUponBy
+49532,210226,Lophozozymus incisus,Furrowed Crab,preyedUponBy
+49532,357623,Aulactinia verrucosa,Gem Anemone,preyedUponBy
+49532,446125,Istiblennius edentulus,Rippled Rockskipper,preyedUponBy
+49532,445653,Antennablennius bifilum,horned rockskipper,preyedUponBy
+49532,,Palaemon longirostris,,preyedUponBy
+49532,118706,Gobius paganellus,Rock Goby,preyedUponBy
+49532,446469,Scartella emarginata,maned blenny,preyedUponBy
+49532,118669,Diplodus sargus,White Bream,preyedUponBy
+49532,95478,Bathygobius fuscus,Dusky Frillgoby,preyedUponBy
+49532,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+49532,118704,Gobius niger,Black Goby,preyedUponBy
+49532,128828,Eriphia smithii,Red-eyed Reef Crab,preyedUponBy
+49532,,Thalamita crenata,,preyedUponBy
+49532,130385,Palaemon serratus,Common Prawn,preyedUponBy
+49532,526549,Palaemon adspersus,Baltic prawn,preyedUponBy
+49532,472138,Lepadogaster lepadogaster,Shore Clingfish,preyedUponBy
+49532,632854,Bunodactis reynaudi,sandy anemone,preyedUponBy
+49532,,Liza ramada,,preyedUponBy
+49532,59806,Gammaridae,,preyedUponBy
+49532,701003,Xantho pilipes,Risso's Crab,preyedUponBy
+49532,52082,Lepidotrigla,,preyedUponBy
+49532,,Turbellaria,,preyedUponBy
+49532,245452,Stenothoidae,,preyedUponBy
+49532,152975,Pagurus bernhardus,Common Hermit Crab,preyedUponBy
+49532,203392,Jaera,,preyedUponBy
+49532,94786,Atherina boyeri,Big-scale Sand Smelt,preyedUponBy
+49532,619164,Pholis crassispina,,preyedUponBy
+49532,,Zooplankton,,preyedUponBy
+49532,67411,Gobiesocidae,Clingfishes,preyedUponBy
+49532,221165,Hemilepidotus hemilepidotus,Red Irish Lord,preyedUponBy

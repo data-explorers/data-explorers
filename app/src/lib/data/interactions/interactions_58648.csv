@@ -1,0 +1,51 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58648,47677,Acmaea,,eats
+58648,62807,Mytilus,Black Mussels,eats
+58648,48293,Philoscia,,eats
+58648,81606,Littorina littorea,Common Periwinkle,eats
+58648,83887,Anurida,,eats
+58648,85493,Crustacea,Crustaceans,eats
+58648,47126,Plantae,plants,eats
+58648,47115,Mollusca,Molluscs,eats
+58648,47158,Insecta,Insects,eats
+58648,50863,Chlorophyta,green algae,eats
+58648,193907,Thais,,eats
+58648,,Carcinides,,eats
+58648,59807,Gammarus,,eats
+58648,,Detritus,,eats
+58648,,Littorina saxatilis,,eats
+58648,,plankton,,eats
+58648,,Melampus,,eats
+58648,,plankton and detritus,,eats
+58648,,Orchestia,,eats
+58648,4424,Sterna,Typical Terns,eatenBy
+58648,48407,Raja,,eatenBy
+58648,2547,Megaceryle,Large Crested Kingfishers,eatenBy
+58648,144530,Sternula antillarum,Least Tern,eatenBy
+58648,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+58648,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eatenBy
+58648,5020,Butorides virescens,Green Heron,eatenBy
+58648,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+58648,4937,Egretta caerulea,Little Blue Heron,eatenBy
+58648,4742,Mycteria americana,Wood Stork,eatenBy
+58648,87532,Clupea,,eatenBy
+58648,50986,Pomatomus,,eatenBy
+58648,82337,Loligo,,eatenBy
+58648,6996,Mergus serrator,Red-breasted Merganser,eatenBy
+58648,146887,Illex illecebrosus,Northern Shortfin Squid,eatenBy
+58648,69842,Scomber,,eatenBy
+58648,128750,Sciaenops ocellatus,Red Drum,eatenBy
+58648,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+58648,49437,Centropomus undecimalis,Common Snook,eatenBy
+58648,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+58648,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+58648,57814,Pogonias cromis,Black Drum,eatenBy
+58648,614047,Pterengraulis atherinoides,Wingfin Anchovy,eatenBy
+58648,4938,Egretta tricolor,Tricolored Heron,eatenBy
+58648,29323,Nerodia clarkii,Saltmarsh Snake,preyedUponBy
+58648,29327,Nerodia cyclopion,Mississippi Green Watersnake,preyedUponBy
+58648,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+58648,49509,Lutjanus griseus,Grey Snapper,preyedUponBy
+58648,,no name,,preyedUponBy
+58648,101204,Gambusia holbrooki,Eastern Mosquitofish,preyedUponBy
+58648,49219,Anguilla rostrata,American Eel,preyedUponBy

@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+82232,,Detritus,,eats
+82232,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+82232,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+82232,14850,Sturnus vulgaris,European Starling,eatenBy
+82232,792976,Dryobates,Dryobates Woodpeckers,eatenBy
+82232,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+82232,,Eleutherodactylus coqui,,eatenBy
+82232,36427,Anolis gundlachi,Gundlach’s Anole,eatenBy
+82232,20307,Asio otus,Long-eared Owl,eatenBy
+82232,16842,Myiozetetes similis,Social Flycatcher,eatenBy
+82232,16833,Myiozetetes cayanensis,Rusty-margined Flycatcher,eatenBy
+82232,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+82232,5017,Bubulcus ibis,Cattle Egret,eatenBy
+82232,19577,Chordeiles minor,Common Nighthawk,eatenBy
+82232,,Setophaga pinus,,eatenBy
+82232,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+82232,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+82232,,Streptopelia chinensis,,eatenBy
+82232,27289,Chionactis occipitalis,Mohave Shovel-Nosed Snake,preyedUponBy
+82232,,Trachops cirrhosus,,preyedUponBy
+82232,,Mimon crenulatum,,preyedUponBy
+82232,,Phyllostomus hastatus,,preyedUponBy
+82232,41254,Molossus molossus,Velvety Free-tailed Bat,preyedUponBy
+82232,,Molossus rufus,,preyedUponBy
+82232,41178,Erophylla sezekorni,Buffy Flower Bat,preyedUponBy
+82232,41070,Micronycteris hirsuta,hairy big-eared bat,preyedUponBy
+82232,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+82232,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+82232,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy

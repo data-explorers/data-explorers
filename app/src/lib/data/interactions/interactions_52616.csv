@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52616,203466,Idotea balthica,Baltic Isopod,eatenBy
+52616,322005,Girella tricuspidata,Luderick,eatenBy
+52616,6915,Cygnus buccinator,Trumpeter Swan,eatenBy
+52616,7086,Branta,Black Geese,eatenBy
+52616,620522,Sebastes hubbsi,,eatenBy
+52616,83170,Platichthys stellatus,Starry Flounder,eatenBy
+52616,260502,Cymadusa compta,,eatenBy
+52616,260656,Gammarus mucronatus,,eatenBy
+52616,295625,Erichsonella attenuata,,eatenBy
+52616,,Liza affinis,,eatenBy
+52616,446559,Takifugu pardalis,Panther Puffer,eatenBy
+52616,49237,Alosa,Anadromous Shads,eatenBy
+52616,55396,Solea solea,Common Sole,eatenBy
+52616,,Anas penelope,,eatenBy
+52616,6930,Anas platyrhynchos,Mallard,preyedUponBy
+52616,7086,Branta,Black Geese,preyedUponBy
+52616,,Anas penelope,,preyedUponBy
+52616,193990,Lepidonotus squamatus,Twelve-scaled Worm,preyedUponBy
+52616,97345,Chelon labrosus,thicklip grey mullet,preyedUponBy
+52616,7067,Tadorna tadorna,Common Shelduck,preyedUponBy
+52616,6933,Anas acuta,Northern Pintail,preyedUponBy
+52616,,Nereis diversicolor,,preyedUponBy
+52616,6937,Anas crecca,Green-winged Teal,preyedUponBy

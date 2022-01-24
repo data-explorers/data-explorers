@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67737,47158,Insecta,Insects,eats
+67737,49674,Ceanothus,,eats
+67737,47336,Formicidae,Ants,eatenBy
+67737,68165,Linepithema humile,Argentine Ant,eatenBy
+67737,5020,Butorides virescens,Green Heron,eatenBy
+67737,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+67737,3,Aves,Birds,preyedUponBy
+67737,17013,Sayornis nigricans,Black Phoebe,preyedUponBy
+67737,47118,Araneae,Spiders,preyedUponBy
+67737,67731,Anax junius,Common Green Darner,preyedUponBy
+67737,16779,Tyrannus vociferans,Cassin's Kingbird,preyedUponBy
+67737,12024,Lanius ludovicianus,Loggerhead Shrike,preyedUponBy

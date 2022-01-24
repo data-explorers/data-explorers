@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+202789,53858,Solanum tuberosum,potato,eats
+202789,54329,Tropaeolum majus,Nasturtium,eats
+202789,60271,Asparagus,Asparagus,eats
+202789,77299,Gossypium hirsutum,Upland Cotton,eats
+202789,51737,Solanum lycopersicum,tomato,eats
+202789,51884,Urtica dioica,stinging nettle,eats
+202789,50641,Solanum,nightshades,eats
+202789,53106,Lactuca,lettuces,eats
+202789,60265,Asparagus officinalis,wild asparagus,eats
+202789,51886,Urtica,nettles,eats
+202789,57983,Helianthus annuus,Common Sunflower,eats
+202789,53113,Brassica,cabbages and mustards,eats
+202789,53112,Brassica nigra,Black Mustard,eats
+202789,62941,Ipomoea batatas,sweet potato,eats
+202789,72151,Gossypium,Cottons,eats
+202789,49370,Astragalus,milkvetches,eats
+202789,48225,Eschscholzia californica,California poppy,eats
+202789,70055,Citrullus,Watermelons,eats
+202789,,Brassica oleracea capitata,,eats
+202789,122976,Lactuca sativa,lettuce,eats
+202789,48448,Zea mays,Maize,eats
+202789,58788,Apium graveolens,Celery,eats
+202789,,Glycine max,,eats
+202789,,Reseda odorata,,eats
+202789,873768,Nicotiana tabacum,Cultivated tobacco,eats
+202789,,Pisum sativum,,eats
+202789,,Petroselinum crispum,,eats
+202789,54498,Beta vulgaris,Beet,eats
+202789,,Dianthus caryophyllus,,eats
+202789,84092,Spinacia oleracea,Spinach,eats
+202789,,Vigna unguiculata,,eats
+202789,,Brassica oleracea,,eats
+202789,,Heliotropium europaeum,,eats
+202789,,Gossypium herbaceum,,eats
+202789,,Linum usitatissimum,,eats
+202789,75869,Brassica napus,rapeseed,eats
+202789,,Lathyrus odoratus,,eats
+202789,58951,Argemone,prickly poppies,eats
+202789,,Lupinus arizonicus,,eats
+202789,,Lactuca canadensis,,eats
+202789,,Beta vulgaris cicla,,eats
+202789,,Gossypium barbadense,,eats
+202789,,Campoletis perdistinctus,,eatenBy
+202789,,Cotesia glomerata,,eatenBy
+202789,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+202789,57534,Miniopterus schreibersii,Schreibers' Long-fingered Bat,preyedUponBy

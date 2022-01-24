@@ -1,0 +1,42 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55488,12890,Catharus guttatus,Hermit Thrush,eatenBy
+55488,73044,Melozone crissalis,California Towhee,eatenBy
+55488,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+55488,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+55488,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+55488,12727,Turdus migratorius,American Robin,eatenBy
+55488,12942,Sialia sialis,Eastern Bluebird,eatenBy
+55488,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+55488,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+55488,17013,Sayornis nigricans,Black Phoebe,eatenBy
+55488,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+55488,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+55488,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+55488,,Empidonax flaviventris,,eatenBy
+55488,,Empidonax alnorum,,eatenBy
+55488,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+55488,16024,Myiarchus antillarum,Puerto Rican Flycatcher,eatenBy
+55488,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+55488,16771,Tyrannus caudifasciatus,Loggerhead Kingbird,eatenBy
+55488,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+55488,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+55488,47327,Calochortus,mariposa lilies,pollinates
+55488,52764,Prunella vulgaris,common selfheal,pollinates
+55488,127907,Chamaecrista fasciculata,partridge pea,pollinates
+55488,,Helenium autumnale,,pollinates
+55488,204361,Nabalus serpentarius,lion's foot,pollinates
+55488,,http://treatment.plazi.org/id/D7B2F2192735F23359A1A47FAD416FC3,,pollinates
+55488,,Helianthus divaricatus,,pollinates
+55488,,Eupatorium altissimum,,pollinates
+55488,,Krigia dandelion,,pollinates
+55488,,Oxypolis rigidior,,pollinates
+55488,,Agalinis auriculata,,pollinates
+55488,,Bidens frondosa,,pollinates
+55488,,Gnaphalium polycephalum,,pollinates
+55488,,Liparis liliifolia,,pollinates
+55488,,Habenaria,,pollinates
+55488,,Lobelia inflata,,pollinates
+55488,85327,Polygonatum biflorum,smooth Solomon's seal,pollinates
+55488,159305,Boltonia asteroides,white doll's-daisy,pollinates
+55488,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+55488,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

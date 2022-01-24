@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+114756,41740,Zalophus californianus,California Sea Lion,eats
+114756,85493,Crustacea,Crustaceans,eats
+114756,1,Animalia,Animals,eats
+114756,47626,Caprellidae,Skeleton Shrimp,eats
+114756,47584,Bivalvia,Bivalves,eats
+114756,47115,Mollusca,Molluscs,eats
+114756,47178,Actinopterygii,Ray-finned Fishes,eats
+114756,47628,Amphipoda,Amphipods,eats
+114756,,Synchelidium rectipalmum,,eats
+114756,295403,Ampelisca cristata,,eats
+114756,295584,Metaphoxus frequens,,eats
+114756,,Nothria stigmatis,,eats
+114756,261072,Cyclaspis nubila,,eats
+114756,295712,Amphideutopus oculatus,,eats
+114756,1023423,Parasterope,,eats
+114756,172006,Lyonsia,,eats
+114756,,Gnathostomata,,eats
+114756,144115,Cumacea,Hooded Shrimp,eats
+114756,260808,Rudilemboides stenopropodus,,eats
+114756,295913,Leptochelia dubia,,eats
+114756,248468,Paraphoxus,,eats
+114756,47290,Crangonidae,,eats
+114756,260798,Acuminodeutopus heteruropus,,eats
+114756,295828,Photis brevipes,,eats
+114756,,Monoculodes hartmanae,,eats
+114756,41740,Zalophus californianus,California Sea Lion,eatenBy
+114756,295913,Leptochelia dubia,,preysOn
+114756,,Nothria stigmatis,,preysOn
+114756,116999,Pandion haliaetus,Osprey,preyedUponBy

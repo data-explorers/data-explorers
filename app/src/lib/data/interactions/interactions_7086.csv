@@ -1,0 +1,84 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7086,1,Animalia,Animals,eats
+7086,211194,Tracheophyta,vascular plants,eats
+7086,50863,Chlorophyta,green algae,eats
+7086,54644,Ulva,sea lettuces,eats
+7086,52616,Zostera,Eelgrasses,eats
+7086,47161,Cyperaceae,sedges,eats
+7086,52643,Juncus,rushes,eats
+7086,58371,Cynodon dactylon,Bermuda grass,eats
+7086,,Puccinellia maritima,,eats
+7086,,Tripolium pannonicum,,eats
+7086,,Oryza sativa,,eats
+7086,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+7086,8010,Corvus corax,Common Raven,eatenBy
+7086,42069,Vulpes vulpes,Red Fox,eatenBy
+7086,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+7086,4736,Ciconia nigra,Black Stork,eatenBy
+7086,4733,Ciconia ciconia,White Stork,eatenBy
+7086,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+7086,559064,Circus cyaneus,Hen Harrier,eatenBy
+7086,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+7086,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+7086,5192,Buteo rufinus,Long-legged Buzzard,eatenBy
+7086,,Aquila chrysaetos,,eatenBy
+7086,,Aquila pomarina,,eatenBy
+7086,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+7086,,Aquila clanga,,eatenBy
+7086,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+7086,,Aquila heliaca,,eatenBy
+7086,4657,Falco rusticolus,Gyrfalcon,eatenBy
+7086,144297,Stercorarius skua,Great Skua,eatenBy
+7086,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+7086,4389,Larus cachinnans,Caspian Gull,eatenBy
+7086,204533,Larus argentatus,Herring Gull,eatenBy
+7086,144594,Bubo scandiacus,Snowy Owl,eatenBy
+7086,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+7086,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+7086,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+7086,204496,Corvus corone,Carrion Crow,eatenBy
+7086,8029,Corvus frugilegus,Rook,eatenBy
+7086,233598,Vulpes lagopus,Arctic Fox,eatenBy
+7086,42048,Canis lupus,Gray Wolf,eatenBy
+7086,41900,Herpestes ichneumon,Ichneumon,eatenBy
+7086,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+7086,41852,Gulo gulo,Wolverine,eatenBy
+7086,41800,Martes foina,Stone Marten,eatenBy
+7086,41805,Mustela lutreola,European Mink,eatenBy
+7086,42134,Sus scrofa,Wild Boar,eatenBy
+7086,41812,Mustela putorius,Western Polecat,eatenBy
+7086,64714,Vaccinium uliginosum,bog bilberry,eatenBy
+7086,41641,Ursus arctos,Brown Bear,eatenBy
+7086,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+7086,,Elaphe situla,,eatenBy
+7086,39407,Varanus griseus,Desert Monitor,eatenBy
+7086,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+7086,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+7086,27035,Hierophis viridiflavus carbonarius,,eatenBy
+7086,28451,Telescopus nigriceps,Black headed snake,eatenBy
+7086,41644,Ursus maritimus,Polar Bear,eatenBy
+7086,47126,Plantae,plants,preysOn
+7086,52616,Zostera,Eelgrasses,preysOn
+7086,47533,Anthozoa,Sea Anemones and Corals,preysOn
+7086,84988,Pyramidellidae,Pyramid Snails,preysOn
+7086,84670,Ephydridae,Shore Flies,preysOn
+7086,60969,Jaumea carnosa,Marsh Jaumea,preysOn
+7086,47951,Staphylinidae,Rove Beetles,preysOn
+7086,57359,Suaeda,,preysOn
+7086,58168,Frankenia salina,Alkali Heath,preysOn
+7086,49809,Bulla,,preysOn
+7086,,Gammaridea,,preysOn
+7086,,Monanthocloe littoralis,,preysOn
+7086,,Acteocina inculta,,preysOn
+7086,209136,Paracerceis,,preysOn
+7086,,Salicornia biglovii,,preysOn
+7086,52614,Zostera marina,Eelgrass,preysOn
+7086,144115,Cumacea,Hooded Shrimp,preysOn
+7086,,Arthrocnemum subterminale,,preysOn
+7086,,Salicornia europaea,,preysOn
+7086,,Haminoea vesicula,,preysOn
+7086,,Spartina foliosa,,preysOn
+7086,,Nebalia,,preysOn
+7086,70043,Batis,turtleweeds,preysOn
+7086,,Opisthobranchia,,preysOn
+7086,,Triglochin maritima,,preysOn

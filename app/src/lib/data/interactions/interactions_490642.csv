@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+490642,136329,Pinopsida,conifers,eats
+490642,47561,Pinus,pines,eats
+490642,63573,Picea,spruces,eats
+490642,54262,Abies,firs,eats
+490642,,Araucaria araucana,,eats
+490642,48256,Pseudotsuga menziesii,common Douglas-fir,eats

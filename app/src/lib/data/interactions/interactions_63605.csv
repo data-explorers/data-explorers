@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63605,47219,Apis mellifera,Western Honey Bee,eatenBy
+63605,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+63605,,Saturnia albofasciata,,eatenBy
+63605,,Hemileuca chinatiensis,,eatenBy
+63605,,Chionodes kubai,,eatenBy
+63605,145276,Cardellina pusilla,Wilson's Warbler,eatenBy

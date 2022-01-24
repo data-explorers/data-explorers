@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81951,558446,Circus hudsonius,Northern Harrier,eatenBy
+81951,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+81951,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+81951,7603,Auriparus flaviceps,Verdin,eatenBy
+81951,145233,Setophaga americana,Northern Parula,eatenBy
+81951,145250,Setophaga adelaidae,Adelaide's Warbler,eatenBy
+81951,5017,Bubulcus ibis,Cattle Egret,eatenBy
+81951,,Phyllostomus hastatus,,preyedUponBy
+81951,40569,Nycticeius humeralis,Evening Bat,preyedUponBy

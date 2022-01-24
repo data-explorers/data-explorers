@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48272,,Heterotroph flagellat,,eats
+48272,,diatom ORGANIC-3,,eats
+48272,,Autothroph flagellat,,eats
+48272,224368,Macrourus berglax,Onion eye,eatenBy
+48272,430553,Merlangius merlangus,Whiting,eatenBy
+48272,123807,Paralithodes camtschaticus,Red King Crab,eatenBy
+48272,110361,Prionace glauca,Blue Shark,eatenBy

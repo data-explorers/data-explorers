@@ -1,0 +1,130 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+8021,47124,Magnoliopsida,dicots,eats
+8021,1,Animalia,Animals,eats
+8021,48449,Zea,Corns and Teosintes,eats
+8021,47120,Arthropoda,Arthropods,eats
+8021,211194,Tracheophyta,vascular plants,eats
+8021,49567,Carabidae,Ground Beetles,eats
+8021,47434,Poaceae,grasses,eats
+8021,47158,Insecta,Insects,eats
+8021,48201,Scarabaeidae,Scarabs,eats
+8021,47157,Lepidoptera,Butterflies and Moths,eats
+8021,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+8021,60773,Vitis,grapevines,eats
+8021,47336,Formicidae,Ants,eats
+8021,51822,Euphorbia,spurges,eats
+8021,58390,Triticum,Wheats,eats
+8021,47114,Gastropoda,Gastropods,eats
+8021,56955,Helianthus,sunflowers,eats
+8021,3,Aves,Birds,eats
+8021,47208,Coleoptera,Beetles,eats
+8021,61267,Heteroptera,True Bugs,eats
+8021,47351,Prunus,"plums, cherries, and allies",eats
+8021,52697,Avena,Oats,eats
+8021,52701,Bromus,bromes,eats
+8021,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+8021,40151,Mammalia,Mammals,eats
+8021,53036,Ambrosia,ragweeds,eats
+8021,48601,Phytolacca,Pokeberries,eats
+8021,85553,Serpentes,Snakes,eats
+8021,54858,Celtis,hackberries,eats
+8021,58388,Sorghum,"Johnsongrasses, milos, sudangrasses, and allies",eats
+8021,49556,Chilopoda,Centipedes,eats
+8021,47735,Diplopoda,Millipedes,eats
+8021,47126,Plantae,plants,eats
+8021,12890,Catharus guttatus,Hermit Thrush,eats
+8021,5020,Butorides virescens,Green Heron,eats
+8021,4940,Egretta thula,Snowy Egret,eats
+8021,7089,Branta canadensis,Canada Goose,eats
+8021,39682,Chelydra serpentina,Common Snapping Turtle,eats
+8021,28557,Storeria occipitomaculata,Red-bellied Snake,eats
+8021,72458,Actitis macularius,Spotted Sandpiper,eats
+8021,143792,Pistacia chinensis,Chinese pistache,eats
+8021,47850,Quercus agrifolia,coast live oak,eats
+8021,46217,Tamias striatus,Eastern Chipmunk,eats
+8021,8229,Cyanocitta cristata,Blue Jay,eats
+8021,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+8021,46020,Sciurus niger,Fox Squirrel,eats
+8021,39566,Apalone ferox,Florida Softshell Turtle,eats
+8021,52158,Schistocerca nitens,Gray Bird Grasshopper,eats
+8021,469472,Malus domestica,apple,eats
+8021,51222,Procambarus,,eats
+8021,47178,Actinopterygii,Ray-finned Fishes,eats
+8021,57250,Prunus ilicifolia,hollyleaf cherry,eats
+8021,47014,Scalopus aquaticus,Eastern Mole,eats
+8021,43096,Sylvilagus,Cottontail Rabbits,eats
+8021,40085,Gopherus polyphemus,Gopher Tortoise,eats
+8021,2715,Columbidae,Pigeons and Doves,eats
+8021,488924,Muroidea,Muroids,eats
+8021,47851,Quercus,oaks,eats
+8021,64122,Malosma laurina,laurel sumac,eats
+8021,775839,Mytilida,,eats
+8021,48460,Life,,eats
+8021,343248,Polistinae,Paper Wasps,eats
+8021,42051,Canis latrans,Coyote,eats
+8021,848323,Euarchontoglires,"Primates, Rodents, and Allies",eats
+8021,122024,Corymbia ficifolia,Red-flowering gum,eats
+8021,32049,Elgaria,Western Alligator Lizards,eats
+8021,48448,Zea mays,Maize,eats
+8021,,Teleostei,,eats
+8021,70055,Citrullus,Watermelons,eats
+8021,,Non-biological,,eats
+8021,,Melanoplus femurrubrum,,eats
+8021,145602,Fagopyrum,,eats
+8021,,Anas americana,,eats
+8021,73788,Plestiodon fasciatus,Common Five-lined Skink,eats
+8021,28423,Thamnophis butleri,Butler's Garter Snake,eats
+8021,27186,Plethodon cinereus,Eastern Red-backed Salamander,eats
+8021,28562,Storeria dekayi,Dekay's Brownsnake,eats
+8021,,Dendroica petechia,,eats
+8021,,Detritus,,eats
+8021,83434,Diospyros,persimmons,eats
+8021,63951,Pyrus communis,Common Pear,eats
+8021,81554,Ictalurus punctatus,Channel Catfish,eats
+8021,54787,Carya cordiformis,bitternut hickory,eats
+8021,30108,Farancia abacura abacura,Eastern Mudsnake,eats
+8021,69736,Schistocerca americana,American Bird Grasshopper,eats
+8021,36981,Rhineura floridana,Florida Worm Lizard,eats
+8021,63205,Arachis hypogaea,Peanut,eats
+8021,47516,Oncorhynchus mykiss,Rainbow Trout,eats
+8021,47056,Condylura cristata,Star-nosed Mole,eats
+8021,,Carya illinoinensis,,eats
+8021,42223,Odocoileus virginianus,White-tailed Deer,eatenBy
+8021,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+8021,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+8021,20044,Bubo virginianus,Great Horned Owl,eatenBy
+8021,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+8021,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+8021,19893,Strix varia,Barred Owl,eatenBy
+8021,,Aquila chrysaetos,,eatenBy
+8021,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+8021,64968,Anaxyrus americanus,American Toad,preysOn
+8021,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+8021,1,Animalia,Animals,preysOn
+8021,3855,Calidris mauri,Western Sandpiper,preysOn
+8021,44575,Rattus rattus,Black Rat,preysOn
+8021,7823,Corvidae,"Crows, Jays, and Magpies",preysOn
+8021,69267,Formica obscuripes,Western Thatching Ant,preysOn
+8021,85553,Serpentes,Snakes,preysOn
+8021,47178,Actinopterygii,Ray-finned Fishes,preysOn
+8021,63113,Blarina brevicauda,Northern Short-tailed Shrew,preysOn
+8021,3,Aves,Birds,preysOn
+8021,7251,Passeriformes,Perching Birds,preysOn
+8021,,Protothaca staminea,,preysOn
+8021,328416,Tagelus affinis,Neighbor Tagelus,preysOn
+8021,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+8021,,Macoma secta,,preysOn
+8021,117608,Saxidomus nuttalli,California Butterclam,preysOn
+8021,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+8021,508883,Tagelus subteres,Lesser Tagelus,preysOn
+8021,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+8021,117622,Nuttallia nuttallii,Purple Clam,preysOn
+8021,71256,Tagelus,,preysOn
+8021,117545,Parophrys vetulus,English sole,preysOn
+8021,47007,Scapanus orarius,Coast Mole,preysOn
+8021,47056,Condylura cristata,Star-nosed Mole,preysOn
+8021,49348,Hyles lineata,White-lined Sphinx,preysOn
+8021,47650,Acridoidea,Short-horned Grasshoppers and Locusts,preysOn
+8021,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+8021,8010,Corvus corax,Common Raven,preyedUponBy
+8021,,Pantherophis alleghaniensis,,preyedUponBy

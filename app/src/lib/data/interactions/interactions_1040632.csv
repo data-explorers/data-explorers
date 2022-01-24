@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+1040632,4846,Haematopus longirostris,Pied Oystercatcher,eatenBy
+1040632,132533,Acanthopagrus australis,Yellowfin Bream,eatenBy
+1040632,4846,Haematopus longirostris,Pied Oystercatcher,preyedUponBy

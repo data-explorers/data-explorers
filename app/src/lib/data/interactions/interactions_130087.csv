@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130087,41850,Lutra lutra,Eurasian Otter,eatenBy
+130087,324537,Maja squinado,European Spider Crab,eatenBy
+130087,98753,Ctenolabrus rupestris,Goldsinny Wrasse,preyedUponBy
+130087,41850,Lutra lutra,Eurasian Otter,preyedUponBy

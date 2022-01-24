@@ -1,0 +1,260 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63089,325515,Melosira varians,,eats
+63089,57774,Rhodophyta,red algae,eats
+63089,47126,Plantae,plants,eats
+63089,67334,Cyanobacteria,cyanobacteria,eats
+63089,906,Meleagris gallopavo,Wild Turkey,eats
+63089,123875,Melosira,,eats
+63089,47158,Insecta,Insects,eats
+63089,67333,Bacteria,bacteria,eats
+63089,47170,Fungi,Fungi Including Lichens,eats
+63089,492486,Gomphonema angustatum,,eats
+63089,,Acnantidium linearis,,eats
+63089,345435,Epithemia sorex,,eats
+63089,,Achnanthidium minutissima,,eats
+63089,311291,Nitzschia,,eats
+63089,203655,Surirella,,eats
+63089,,Cymbella minuta,,eats
+63089,,Detritus,,eats
+63089,243768,Scenedesmus,,eats
+63089,,Rossithidium linearis,,eats
+63089,901016,Gomphoneis herculeana,,eats
+63089,345199,Cyclotella,,eats
+63089,496854,Navicula rhynchocephala,,eats
+63089,203808,Navicula,,eats
+63089,339306,Cocconeis,,eats
+63089,,Acnanthidium lanceoloata,,eats
+63089,494501,Tabellaria flocculosa,,eats
+63089,182984,Audouinella,,eats
+63089,,Melosira italica,,eats
+63089,,Asterionella,,eats
+63089,,Epithemia zebra,,eats
+63089,,Radicites,,eats
+63089,492492,Meridion circulare,,eats
+63089,,Khakista,,eats
+63089,,Fragilaria,,eats
+63089,345418,Fragilaria vaucheriae,,eats
+63089,,Plant cells,,eats
+63089,,Synedra rumpens,,eats
+63089,123886,Gomphonema,,eats
+63089,244899,Eunotia,,eats
+63089,,Acnanthidium lanceolata,,eats
+63089,,Synedra ulna,,eats
+63089,,Gomphonema berggreni,,eats
+63089,,Acnanthidium linearis,,eats
+63089,,Cyanophyta,,eats
+63089,492497,Navicula cryptocephala,,eats
+63089,345400,Gomphonema parvulum,,eats
+63089,,Achnanthidium lanceoloata,,eats
+63089,345924,Gomphonema subclavatum,,eats
+63089,533633,Cymbella kappii,,eats
+63089,,Rhoicosphenia curvata,,eats
+63089,,Cymbella aspera,,eats
+63089,,Achnanthes lanceoloata,,eats
+63089,,Navicula avenacea,,eats
+63089,,Achnanthes linearis,,eats
+63089,311562,Frustulia rhomboides,,eats
+63089,,Stauroneis,,eats
+63089,468484,Microspora,,eats
+63089,,Pinnularia,,eats
+63089,359954,Aulacoseira,,eats
+63089,,Surirella tenera,,eats
+63089,,Echinella,,eats
+63089,244904,Gomphonema truncatum,,eats
+63089,,Rhopalodia,,eats
+63089,,Achnanthes lanceolata,,eats
+63089,,Aucalosira,,eats
+63089,,Cymbella muelleri,,eats
+63089,,Cocconeis placentula,,eats
+63089,713272,Surirella elegans,,eats
+63089,,Cymbella kappi,,eats
+63089,,Pinnularia viridis,,eats
+63089,,Pinnularia mesoleptus,,eats
+63089,196958,Calothrix,,eats
+63089,,Gomphonema intricaturm,,eats
+63089,,fungii,,eats
+63089,,Unknown green algal cells,,eats
+63089,,Plant (macrophyte) cells,,eats
+63089,,Macrophyte,,eats
+63089,,Achnanthes minutissima,,eats
+63089,,Pinnularia gibba,,eats
+63089,,Cymbella sinuata,,eats
+63089,,Surirella striatula,,eats
+63089,,Pinnularia borealis,,eats
+63089,,Eunotia pectinalis,,eats
+63089,,gomclev,,eats
+63089,,Tabellaria floccculosa,,eats
+63089,,pras,,eats
+63089,,Sephanodiscus sp.,,eats
+63089,,Microfungi,,eats
+63089,,Diatoma hiemale,,eats
+63089,,Nitzschia fonticola,,eats
+63089,,Cocconeis pediculus,,eats
+63089,345192,Nitzschia frustulum,,eats
+63089,,Amphora pediculus,,eats
+63089,,Stauroneis pseudosubobtusoides,,eats
+63089,,Navicula minima,,eats
+63089,,Achnanthes lutheri,,eats
+63089,,Nitzschia inconspicua,,eats
+63089,,Nitzschia palea,,eats
+63089,,Gomphonema clavatum,,eats
+63089,,CPOM,,eats
+63089,53275,Chironomidae,Non-biting Midges,eatenBy
+63089,47783,Astacoidea,Northern Hemisphere Crayfishes,eatenBy
+63089,47628,Amphipoda,Amphipods,eatenBy
+63089,84735,Corixidae,Water Boatmen,eatenBy
+63089,4424,Sterna,Typical Terns,eatenBy
+63089,85532,Mysida,Opossum Shrimps,eatenBy
+63089,49581,Nereididae,,eatenBy
+63089,3836,Calidris,Calidris Sandpipers,eatenBy
+63089,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+63089,3912,Gallinago,Typical Snipes,eatenBy
+63089,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+63089,3874,Tringa,"Shanks, Tattlers, and Allies",eatenBy
+63089,42054,Vulpes,Typical Foxes,eatenBy
+63089,47951,Staphylinidae,Rove Beetles,eatenBy
+63089,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+63089,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+63089,4940,Egretta thula,Snowy Egret,eatenBy
+63089,4209,Podiceps auritus,Horned Grebe,eatenBy
+63089,981,Phasianus colchicus,Ring-necked Pheasant,eatenBy
+63089,508048,Antigone canadensis,Sandhill Crane,eatenBy
+63089,4665,Falco sparverius,American Kestrel,eatenBy
+63089,144496,Gallinago delicata,Wilson's Snipe,eatenBy
+63089,3936,Scolopax minor,American Woodcock,eatenBy
+63089,3759,Plegadis chihi,White-faced Ibis,eatenBy
+63089,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,eatenBy
+63089,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+63089,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+63089,3017,Columba livia,Rock Pigeon,eatenBy
+63089,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+63089,,Paranephrops zealandicus,,eatenBy
+63089,377930,Pycnocentria,,eatenBy
+63089,377937,Pycnocentrodes,,eatenBy
+63089,,Hydrobiosis parumbripennis,,eatenBy
+63089,,Hydrobiosis,,eatenBy
+63089,,Costachorema,,eatenBy
+63089,,Pacifastacus leniusculus,,eatenBy
+63089,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+63089,,Unknown orthoclad,,eatenBy
+63089,,Psilochorema bidens,,eatenBy
+63089,395504,Polyplectropus puerilis,,eatenBy
+63089,489804,Hexatomini,,eatenBy
+63089,,Neurchorema,,eatenBy
+63089,,Stenoperla,,eatenBy
+63089,,Nannochorista,,eatenBy
+63089,,Philorheithrus agilis,,eatenBy
+63089,47518,Salmo trutta,Brown Trout,eatenBy
+63089,,galgol,,eatenBy
+63089,378647,Zelandobius,,eatenBy
+63089,371244,Plectrocnemia,,eatenBy
+63089,,Tanypodini,,eatenBy
+63089,,Hydrobiosella stenocerca,,eatenBy
+63089,,Cristaperla,,eatenBy
+63089,385416,Ameletopsis perscitus,,eatenBy
+63089,,Stenoperla prasina,,eatenBy
+63089,,Gyrinidae,,eatenBy
+63089,84734,Agabus,,eatenBy
+63089,47635,Cottus gobio,European Bullhead,eatenBy
+63089,,Polycentropus,,eatenBy
+63089,577745,Trissopelopia,,eatenBy
+63089,,Barbatula barbatula,,eatenBy
+63089,,Sialis fuliginosa,,eatenBy
+63089,68076,Oncorhynchus aguabonita,Golden Trout,eatenBy
+63089,247738,Macropelopia,,eatenBy
+63089,69989,Rutilus rutilus,Common Roach,eatenBy
+63089,,Erpobdella octoculata,,eatenBy
+63089,,Hydroporini,,eatenBy
+63089,57449,Cordulegaster,Golden-ringed Spiketails,eatenBy
+63089,57845,Sialis,,eatenBy
+63089,25637,Rana muscosa,Southern Mountain Yellow-legged Frog,eatenBy
+63089,,Chloroperla tripunctata,,eatenBy
+63089,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+63089,109062,Perca fluviatilis,European Perch,eatenBy
+63089,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+63089,,Macropelopia nebulosa,,eatenBy
+63089,,Cordulegaster boltonii,,eatenBy
+63089,451407,Siphonoperla torrentium,Small Yellow Sally,eatenBy
+63089,505410,Polycentropus flavomaculatus,,eatenBy
+63089,,Zavrelimyia barbatipes,,eatenBy
+63089,,Trissopelopia longimana,,eatenBy
+63089,,Perlodes microcephalus,,eatenBy
+63089,546250,Plectrocnemia conspersa,,eatenBy
+63089,247968,Hexatoma,,eatenBy
+63089,,Grus canadensis,,eatenBy
+63089,7170,Clangula hyemalis,Long-tailed Duck,eatenBy
+63089,95490,Bathyraja aleutica,Aleutian Skate,eatenBy
+63089,,Gammaridea,,eatenBy
+63089,67316,Anoplarchus purpurescens,High Cockscomb,eatenBy
+63089,48416,Citharichthys,,eatenBy
+63089,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eatenBy
+63089,204533,Larus argentatus,Herring Gull,eatenBy
+63089,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+63089,83171,Platichthys,,eatenBy
+63089,555821,Saduria,,eatenBy
+63089,49597,Salvelinus,Chars,eatenBy
+63089,117571,Clupea pallasii,Pacific herring,eatenBy
+63089,47290,Crangonidae,,eatenBy
+63089,95508,Bathyraja maculata,Whiteblotched Skate,eatenBy
+63089,89645,Lumpenus,,eatenBy
+63089,117545,Parophrys vetulus,English sole,eatenBy
+63089,4356,Larus canus,Mew Gull,eatenBy
+63089,47158,Insecta,Insects,preysOn
+63089,,gomclev,,preysOn
+63089,,pras,,preysOn
+63089,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+63089,47628,Amphipoda,Amphipods,preyedUponBy
+63089,84644,Phalangium opilio,European Harvestman,preyedUponBy
+63089,54960,Nematoda,Nematodes,preyedUponBy
+63089,47114,Gastropoda,Gastropods,preyedUponBy
+63089,47367,Opiliones,Harvestmen,preyedUponBy
+63089,354470,Limnophora,,preyedUponBy
+63089,,Seminatrix pygaea,,preyedUponBy
+63089,,Atractus poeppigi,,preyedUponBy
+63089,,Dipsas elegans,,preyedUponBy
+63089,27850,Atractus major,Big Ground Snake,preyedUponBy
+63089,,Thamnophis valida,,preyedUponBy
+63089,,Atractus latifrons,,preyedUponBy
+63089,29358,Natriciteres fuliginoides,Marsh Snake,preyedUponBy
+63089,28378,Thamnophis radix,Plains Garter Snake,preyedUponBy
+63089,,Atractus paraguayensis,,preyedUponBy
+63089,28406,Thamnophis eques,Mexican Gartersnake,preyedUponBy
+63089,378647,Zelandobius,,preyedUponBy
+63089,395504,Polyplectropus puerilis,,preyedUponBy
+63089,,Cristaperla,,preyedUponBy
+63089,,Paranephrops zealandicus,,preyedUponBy
+63089,,Costachorema,,preyedUponBy
+63089,,Tanypodini,,preyedUponBy
+63089,,Stenoperla,,preyedUponBy
+63089,,Psilochorema bidens,,preyedUponBy
+63089,,Neurchorema,,preyedUponBy
+63089,371244,Plectrocnemia,,preyedUponBy
+63089,,Hydrobiosis parumbripennis,,preyedUponBy
+63089,,Hydrobiosella stenocerca,,preyedUponBy
+63089,489804,Hexatomini,,preyedUponBy
+63089,,Nannochorista,,preyedUponBy
+63089,,galgol,,preyedUponBy
+63089,385416,Ameletopsis perscitus,,preyedUponBy
+63089,47518,Salmo trutta,Brown Trout,preyedUponBy
+63089,130409,Abax parallelepipedus,,preyedUponBy
+63089,,Leiobunum blackwalli,,preyedUponBy
+63089,,Platynus dorsale,,preyedUponBy
+63089,124432,Deroceras reticulatum,Milky Slug,preyedUponBy
+63089,,Pterostichus nigrita,,preyedUponBy
+63089,,Lacinius epphipiatus,,preyedUponBy
+63089,130638,Bembidion lampros,,preyedUponBy
+63089,,Aranae,,preyedUponBy
+63089,216086,Carabus granulatus,Granulated Ground Beetle,preyedUponBy
+63089,1072593,Leiobunum rotundum,Rotundum Group,preyedUponBy
+63089,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+63089,,Family Thomisidae,,preyedUponBy
+63089,,Family Pselaphidae,,preyedUponBy
+63089,,Nemastoma bimaculatum,,preyedUponBy
+63089,,Family Amaurobiidae,,preyedUponBy
+63089,,Nebria brevicollis,,preyedUponBy
+63089,,Phaoniinae,,preyedUponBy
+63089,,Dicranota exclusa,,preyedUponBy
+63089,,Hydrobiosis,,preyedUponBy
+63089,377937,Pycnocentrodes,,preyedUponBy
+63089,,Unknown orthoclad,,preyedUponBy
+63089,377930,Pycnocentria,,preyedUponBy

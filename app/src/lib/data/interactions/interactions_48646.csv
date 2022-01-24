@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48646,,Prymnesiophyceae,,eats
+48646,,Algae,,eats
+48646,131388,Haemulon melanurum,Cottonwick,eatenBy
+48646,128986,Calamus,Rattan palms,eatenBy
+48646,505078,Sicyases sanguineus,,eatenBy
+48646,255868,Heliaster helianthus,South American Multiradiate Sun Star,eatenBy
+48646,,Lutra felina,,eatenBy
+48646,4852,Haematopus ater,Blackish Oystercatcher,eatenBy
+48646,4388,Larus dominicanus,Kelp Gull,eatenBy
+48646,41776,Lontra felina,Marine Otter,eatenBy
+48646,48824,Porifera,Sponges,preysOn

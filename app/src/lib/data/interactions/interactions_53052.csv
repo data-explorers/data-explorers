@@ -1,0 +1,123 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53052,47223,Papilionidae,Swallowtails and Parnassians,eats
+53052,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+53052,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+53052,47219,Apis mellifera,Western Honey Bee,eatenBy
+53052,47225,Papilio,Common Swallowtails,eatenBy
+53052,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+53052,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eatenBy
+53052,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+53052,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+53052,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+53052,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+53052,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+53052,84640,Polistes dominula,European Paper Wasp,eatenBy
+53052,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+53052,128712,Coccinella californica,California Lady Beetle,eatenBy
+53052,59189,Erynnis tristis,Mournful Duskywing,eatenBy
+53052,62045,Lygaeus kalmii,Small Milkweed Bug,eatenBy
+53052,121821,Sceliphron caementarium,Yellow-legged Mud-dauber Wasp,eatenBy
+53052,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+53052,153887,Polistes aurifer,Golden Paper Wasp,eatenBy
+53052,325596,Syritta flaviventris,Peg-legged Compost Fly,eatenBy
+53052,127812,Hylaeus,Masked Bees,eatenBy
+53052,126545,Dialictus,Metallic Sweat Bees,eatenBy
+53052,68863,Mischocyttarus flavitarsis,Western Paper Wasp,eatenBy
+53052,52775,Bombus,Bumble Bees,eatenBy
+53052,1102259,Copestylum violaceum,,eatenBy
+53052,300661,Vespula sulphurea,California Yellowjacket,eatenBy
+53052,300137,Isodontia elegans,Elegant Grass-carrying Wasp,eatenBy
+53052,133790,Chalybion californicum,Nearctic Blue Mud-dauber Wasp,eatenBy
+53052,59119,Pontia protodice,Checkered White,eatenBy
+53052,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+53052,265798,Isodontia philadelphica,,eatenBy
+53052,318550,Halictus farinosus,Wide-striped Sweat Bee,eatenBy
+53052,124431,Cycloneda sanguinea,Spotless Lady Beetle,eatenBy
+53052,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+53052,50931,Strymon melinus,Gray Hairstreak,eatenBy
+53052,469063,Palpada alhambra,Single-banded Plushback,eatenBy
+53052,129893,Sphaerophoria sulphuripes,Forked Globetail,eatenBy
+53052,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+53052,50786,Vanessa annabella,West Coast Lady,eatenBy
+53052,52491,Eristalis,Drone Flies,eatenBy
+53052,55626,Pieris rapae,Cabbage White,eatenBy
+53052,57665,Cotinis mutabilis,Figeater Beetle,eatenBy
+53052,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+53052,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+53052,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+53052,119115,Calliphora vicina,Blue Blowfly,eatenBy
+53052,119994,Vespula maculifrons,Eastern Yellowjacket,eatenBy
+53052,7266,Psaltriparus minimus,Bushtit,eatenBy
+53052,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+53052,,Dysaphis,,eatenBy
+53052,,http://treatment.plazi.org/id/E0EAEBE76A22DA73F0C7EAFD11DD90CC,,eatenBy
+53052,,Oncometopia orbona,,eatenBy
+53052,,Papilio machaon,,eatenBy
+53052,,Papilio hospiton,,eatenBy
+53052,,Papilio demodocus,,eatenBy
+53052,,Aphis fabae,,eatenBy
+53052,,Myzus persicae,,eatenBy
+53052,,Capreolus capreolus italicus,,eatenBy
+53052,,Loxostege sticticalis,,eatenBy
+53052,,Ostrinia nubilalis,,eatenBy
+53052,,Papilio bairdii,,eatenBy
+53052,,Trichoplusia orichalcea,,eatenBy
+53052,41641,Ursus arctos,Brown Bear,eatenBy
+53052,,Pyrenopeziza revincta,,eatenBy
+53052,,Volutella ciliata,,eatenBy
+53052,,Stachybotrys dichroa,,eatenBy
+53052,,Urceolella crispula,,eatenBy
+53052,,Lasiobelonium mollissimum,,eatenBy
+53052,,Heterosphaeria patella,,eatenBy
+53052,,Leptosphaeria libanotis,,eatenBy
+53052,,Pseudolachnea hispidula,,eatenBy
+53052,,Pseudospiropes subuliferus,,eatenBy
+53052,,Diaporthopsis angelicae,,eatenBy
+53052,,Discocistella grevillei,,eatenBy
+53052,,Hydropisphaera arenula,,eatenBy
+53052,,Phaedon tumidulus,,eatenBy
+53052,,Chrysolina banksi,,eatenBy
+53052,,Microdiplodia perpusilla,,eatenBy
+53052,,Fusariella hughesii,,eatenBy
+53052,,Zonotrichia leucophrys,,eatenBy
+53052,,Eupeodes volucris,,eatenBy
+53052,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+53052,,Lasioptera carophila,,eatenBy
+53052,,Eristalinus aeneus,,eatenBy
+53052,,Hypocritanus lemur,,eatenBy
+53052,,Megachile rotundata,,eatenBy
+53052,,Vespula alascensis,,eatenBy
+53052,,Monobia quadridens,,eatenBy
+53052,,Cerceris kennicottii,,eatenBy
+53052,,Tachypompilus unicolor,,eatenBy
+53052,,Hylaeus leptocephalus,,eatenBy
+53052,,Papilio polyxenes asterius,,eatenBy
+53052,,Hippodamia quinquesignata,,eatenBy
+53052,,Synanthedon bibionipennis,,eatenBy
+53052,,Myathropa florea,,eatenBy
+53052,,Dolichovespula arenaria,,eatenBy
+53052,,Polistes dorsalis,,eatenBy
+53052,,Isodontia mexicana,,eatenBy
+53052,,Sphex lucae,,eatenBy
+53052,55719,Eristalis tenax,Common Drone Fly,eatenBy
+53052,118969,Allograpta,Streaktails,pollinatedBy
+53052,128824,Lucilia sericata,Common European Greenbottle Fly,pollinatedBy
+53052,52756,Polistes,Umbrella Paper Wasps,pollinatedBy
+53052,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+53052,49995,Syrphidae,Hover Flies,pollinatedBy
+53052,47220,Apis,Honey Bees,pollinatedBy
+53052,,Unidentified sp5 M_PL_072_04,,pollinatedBy
+53052,,Brachygastra lechiguana,,pollinatedBy
+53052,,Unidentified sp15 M_PL_072_04,,pollinatedBy
+53052,,Polybia scutellaris,,pollinatedBy
+53052,,Unidentified sp12 M_PL_072_04,,pollinatedBy
+53052,,Unidentified sp1 M_PL_072_04,,pollinatedBy
+53052,6084,Chlorostilbon,Typical Emeralds,pollinatedBy
+53052,,Unidentified sp9 M_PL_072_04,,pollinatedBy
+53052,,Mischocyttarus drewseni,,pollinatedBy
+53052,,Unidentified sp4 M_PL_072_04,,pollinatedBy
+53052,,Apis dorsata,,pollinatedBy
+53052,,Apis cerana,,pollinatedBy
+53052,,http://treatment.plazi.org/id/CC77878CFF8A8B3D8585DEA7FAE0335C,,pollinatedBy
+53052,,Apis florea,,pollinatedBy
+53052,51097,Papilio zelicaon,Anise Swallowtail,preyedUponBy

@@ -1,0 +1,29 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+122156,51103,Pyrosomatidae,Pyrosomes,eats
+122156,,Detritus,,eats
+122156,,Detritus complex,,eats
+122156,48836,Ophiuroidea,Brittle Stars,eatenBy
+122156,47827,Cancer,,eatenBy
+122156,51508,Ctenophora,Comb Jellies,eatenBy
+122156,,Trematomus bernacchii,,eatenBy
+122156,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+122156,233951,Zaniolepis latipinnis,Longspine Combfish,eatenBy
+122156,68594,Hexagrammos lagocephalus,Rock greenling,eatenBy
+122156,223181,Lepidopsetta polyxystra,Northern Rock Sole,eatenBy
+122156,183018,Lepidopsetta bilineata,Rock sole,eatenBy
+122156,337281,Lumbrineridae,,eatenBy
+122156,,Theragra chalcogramma,,eatenBy
+122156,220718,Gymnocanthus tricuspis,Arctic Staghorn Sculpin,eatenBy
+122156,87642,Coryphaenoides,,eatenBy
+122156,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+122156,180032,Hippoglossoides elassodon,Flathead Sole,eatenBy
+122156,41766,Odobenus rosmarus,Walrus,eatenBy
+122156,89054,Icelus,,eatenBy
+122156,47524,Pleuronectes,,eatenBy
+122156,89655,Lycodes,,eatenBy
+122156,89645,Lumpenus,,eatenBy
+122156,195418,Aeginidae,,eatenBy
+122156,195427,Cuninidae,,eatenBy
+122156,131388,Haemulon melanurum,Cottonwick,eatenBy
+122156,63740,Gadus morhua,Atlantic Cod,eatenBy
+122156,221382,Hippoglossoides platessoides,American Plaice,eatenBy

@@ -1,0 +1,64 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7562,47208,Coleoptera,Beetles,eats
+7562,47158,Insecta,Insects,eats
+7562,47336,Formicidae,Ants,eats
+7562,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7562,47124,Magnoliopsida,dicots,eats
+7562,47157,Lepidoptera,Butterflies and Moths,eats
+7562,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7562,47120,Arthropoda,Arthropods,eats
+7562,47118,Araneae,Spiders,eats
+7562,53275,Chironomidae,Non-biting Midges,eats
+7562,68995,Liometopum,Velvety Tree Ants,eats
+7562,49995,Syrphidae,Hover Flies,eats
+7562,48486,Coccinellidae,Lady Beetles,eats
+7562,48736,Curculionidae,True Weevils,eats
+7562,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+7562,14823,Sitta canadensis,Red-breasted Nuthatch,eats
+7562,179916,Tipulomorpha,Crane Flies,eats
+7562,358855,Gryllidea,Crickets,eats
+7562,,Myrcianthes pseudomato,,eats
+7562,,Rubus ulmifolius,,eats
+7562,,Ocotea porphyria,,eats
+7562,,Allophylus,,eats
+7562,,Cestrum lorentzianum,,eats
+7562,,Myrcianthes mato,,eats
+7562,430728,Blepharocalyx salicifolius,,eats
+7562,,Solanum aligerum,,eats
+7562,,Muehlenbeckia tamnifolia,,eats
+7562,,Amomyrtella guili,,eats
+7562,,Cestrum strigillatum,,eats
+7562,,Duchesnea indica,,eats
+7562,,Rhipsalis floccosa,,eats
+7562,,Cupania,,eats
+7562,,Styrax subargenteus,,eats
+7562,1062988,Solanum aloysiifolium,,eats
+7562,765394,Sambucus nigra,European black elderberry,eats
+7562,,Myrsine coriacea,,eats
+7562,48887,Miconia,,eats
+7562,,Brahea,,eats
+7562,,insects (forest edge),,eats
+7562,,insects (mature forest),,eats
+7562,,Rabidosa santrita,,eats
+7562,,Decticita,,eats
+7562,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+7562,,Python molurus bivittatus,,eatenBy
+7562,,Cooper's and sharpshinned hawks,,eatenBy
+7562,4645,Falco femoralis,Aplomado Falcon,eatenBy
+7562,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+7562,47118,Araneae,Spiders,preysOn
+7562,52884,Gryllidae,True Crickets,preysOn
+7562,47120,Arthropoda,Arthropods,preysOn
+7562,47367,Opiliones,Harvestmen,preysOn
+7562,61524,Forficula auricularia,European Earwig,preysOn
+7562,7562,Troglodytes aedon,House Wren,preysOn
+7562,47157,Lepidoptera,Butterflies and Moths,preysOn
+7562,184884,Pterygota,Winged and Once-winged Insects,preysOn
+7562,,insects (forest edge),,preysOn
+7562,,insects (mature forest),,preysOn
+7562,30692,Crotalus,Rattlesnakes,preyedUponBy
+7562,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+7562,7562,Troglodytes aedon,House Wren,preyedUponBy
+7562,27187,Clelia clelia,Common Mussurana,preyedUponBy
+7562,29178,Oxybelis fulgidus,Green Vine Snake,preyedUponBy
+7562,,Ungaliophis panamensis,,preyedUponBy

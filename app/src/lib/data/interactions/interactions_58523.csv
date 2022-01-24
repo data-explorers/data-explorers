@@ -1,0 +1,109 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58523,56727,Daucus,carrots,eats
+58523,53053,Foeniculum,,eats
+58523,53052,Foeniculum vulgare,fennel,eats
+58523,60126,Cicuta,water hemlocks,eats
+58523,75445,Anethum graveolens,Dill,eats
+58523,52998,Conium maculatum,poison hemlock,eats
+58523,71969,Anethum,,eats
+58523,52836,Angelica,,eats
+58523,76610,Daucus carota,wild carrot,eats
+58523,52999,Conium,,eats
+58523,60125,Cicuta maculata,water hemlock,eats
+58523,48678,Solidago,goldenrods,eats
+58523,54899,Pastinaca,parsnip,eats
+58523,53113,Brassica,cabbages and mustards,eats
+58523,57628,Eryngium,Eryngos,eats
+58523,605446,Heliantheae,sunflowers and allies,eats
+58523,48699,Apiaceae,carrot family,eats
+58523,56955,Helianthus,sunflowers,eats
+58523,85320,Monarda fistulosa,wild bergamot,eats
+58523,48561,Cirsium,thistles,eats
+58523,48627,Echinacea purpurea,purple coneflower,eats
+58523,61340,Cirsium discolor,field thistle,eats
+58523,51875,Trifolium pratense,red clover,eats
+58523,47434,Poaceae,grasses,eats
+58523,52989,Cirsium vulgare,Bull Thistle,eats
+58523,47912,Asclepias tuberosa,butterfly milkweed,eats
+58523,79487,Verbena bonariensis,purpletop vervain,eats
+58523,128695,Eryngium yuccifolium,rattlesnake master,eats
+58523,52736,Monarda,beebalms and bergamots,eats
+58523,47697,Hesperis matronalis,dame's rocket,eats
+58523,51876,Trifolium,clovers,eats
+58523,76563,Cyclospermum leptophyllum,Marsh parsley,eats
+58523,50623,Rutaceae,citrus family,eats
+58523,,Thamnosma montana,,eats
+58523,58788,Apium graveolens,Celery,eats
+58523,,Harbouria trachypleura,,eats
+58523,,Angelica atropurpurea,,eats
+58523,,Aulospermum panamintense,,eats
+58523,,Dictamnus albus,,eats
+58523,129021,Cryptotaenia canadensis,honewort,eats
+58523,,Heracleum,,eats
+58523,147294,Ruta graveolens,Rue,eats
+58523,,Zizia,,eats
+58523,,Torilis,,eats
+58523,,Thaspium barbinode,,eats
+58523,,Tauschia parishii,,eats
+58523,,Carum,,eats
+58523,,Aegopodium,,eats
+58523,,Berula erecta,,eats
+58523,58789,Apium,Celery and Marshwort,eats
+58523,57627,Eryngium cuneifolium,wedge-leaved button-snakeroot,eats
+58523,127015,Thamnosma texana,Dutchman's britches,eats
+58523,,Tauschia,,eats
+58523,,Ligusticum scoticum,,eats
+58523,,Ligusticum,,eats
+58523,54836,Zanthoxylum americanum,prickly ash,eats
+58523,56726,Daucus pusillus,American wild carrot,eats
+58523,,Cicuta douglasii,,eats
+58523,,Angelica venenosa,,eats
+58523,,Cicuta bulbifera,,eats
+58523,,Petroselinum crispum,,eats
+58523,59432,Levisticum officinale,Lovage,eats
+58523,,Angelica ampla,,eats
+58523,,http://treatment.plazi.org/id/B87F34AA383C06E0CF4F70EC89CBEF72,,eats
+58523,,http://treatment.plazi.org/id/D7B2F2192735F23359A1A47FAD416FC3,,eats
+58523,,Zizia aptera,,eats
+58523,130368,Osmorhiza longistylis,aniseroot,eats
+58523,117426,Magnolia acuminata,Cucumber-tree,eats
+58523,,Magnolia virginiana,,eats
+58523,,Sium suave,,eats
+58523,,Tiedemannia filiformis filiformis,,eats
+58523,,http://treatment.plazi.org/id/F92C45F9F19DC16132492FB93EBBE33C,,eats
+58523,,Spananthe paniculata,,eats
+58523,,Osmorhiza aristata,,eats
+58523,130364,Taenidia integerrima,yellow pimpernel,eats
+58523,,http://treatment.plazi.org/id/ACF6635B9387B330647932B49621F41A,,eats
+58523,169172,Spermolepis divaricata,Rough-fruit Scaleseed,eats
+58523,,Sanicula odorata,,eats
+58523,,Oxypolis canbyi,,eats
+58523,,Ptilimnium capillaceum,,eats
+58523,,Heracleum lanatum,,eats
+58523,,Thamnosma,,eats
+58523,,Petroselinum,,eats
+58523,,Sium,,eats
+58523,,Ruta,,eats
+58523,129871,Dictamnus,,eats
+58523,,Sanicula,,eats
+58523,,Taenidia,,eats
+58523,,Magnolia,,eats
+58523,,Cryptotaenia,,eats
+58523,,Ptilimnium,,eats
+58523,,Thaspium,,eats
+58523,,Levisticum,,eats
+58523,72273,Oxypolis,,eats
+58523,,Spermolepis,,eats
+58523,,Spananthe,,eats
+58523,,Lomatium,,eats
+58523,,Osmorhiza,,eats
+58523,,Dipsacus fullonum,,eats
+58523,,Liatris pycnostachya,,eats
+58523,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+58523,58416,Phidippus clarus,Brilliant Jumping Spider,eatenBy
+58523,130380,Liatris aspera,rough blazing star,pollinates
+58523,47911,Asclepias syriaca,common milkweed,pollinates
+58523,,Platanthera ciliaris,,pollinates
+58523,,Carduus spachianus,,preysOn
+58523,16782,Tyrannus tyrannus,Eastern Kingbird,preyedUponBy
+58523,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy

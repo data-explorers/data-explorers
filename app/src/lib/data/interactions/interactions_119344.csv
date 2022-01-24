@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119344,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+119344,145568,Phymata pennsylvanica,Pennsylvania Ambush Bug,eatenBy
+119344,471760,Tepualia stipularis,,pollinates
+119344,178226,Eucryphia cordifolia,Ulmo,pollinates
+119344,,Amomyrtus meli,,pollinates
+119344,,Pselliopus barberi,,preyedUponBy
+119344,54327,Vespa crabro,European Hornet,preyedUponBy
+119344,,Apiomerus californicus,,preyedUponBy

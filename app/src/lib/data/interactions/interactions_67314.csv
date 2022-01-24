@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67314,459190,Lycodes eudipleurostictus,Doubleline Eelpout,eatenBy
+67314,89655,Lycodes,,eatenBy
+67314,,Dasyatis sabina,,eatenBy

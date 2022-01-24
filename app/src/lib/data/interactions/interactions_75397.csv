@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+75397,145309,Spinus lawrencei,Lawrence's Goldfinch,eatenBy
+75397,52781,Melissodes,,pollinatedBy
+75397,,Wind,,pollinatedBy

@@ -1,0 +1,65 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85586,,saphrophytes,,eats
+85586,17013,Sayornis nigricans,Black Phoebe,eatenBy
+85586,7294,Eremophila alpestris,Horned Lark,eatenBy
+85586,104109,Latimeria chalumnae,West Indian Ocean Coelacanth,eatenBy
+85586,5017,Bubulcus ibis,Cattle Egret,eatenBy
+85586,17394,Vireo gilvus,Warbling Vireo,eatenBy
+85586,85586,Anthicidae,Ant-like Flower Beetles,preysOn
+85586,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+85586,222439,Isotoma notabilis,,preysOn
+85586,,Cornodendrolaelaps cornutulus,,preysOn
+85586,,Dicyrtomina ornata,,preysOn
+85586,,Mesaphorura macrochaeta,,preysOn
+85586,389631,Folsomia quadrioculata,,preysOn
+85586,,Mesaphorura,,preysOn
+85586,,Pergamasinae (juv) {xs},,preysOn
+85586,,Veigaia nemorensis,,preysOn
+85586,,Uroseius cylindricus,,preysOn
+85586,,Trachytes aegrota,,preysOn
+85586,1226560,Pseudanurophorus binoculatus,,preysOn
+85586,,Paragamasus lapponicus,,preysOn
+85586,,Rhodacarus agrestis,,preysOn
+85586,,Sphaeridia pumilis,,preysOn
+85586,222443,Isotomiella minor,,preysOn
+85586,,Uropoda,,preysOn
+85586,85251,Ceratophysella denticulata,Mushroom springtail,preysOn
+85586,,Geholaspis mandibularis,,preysOn
+85586,203389,Megalothorax,,preysOn
+85586,,Willemia denisi,,preysOn
+85586,,Allacma fusca,,preysOn
+85586,296626,Proisotoma minima,,preysOn
+85586,,Folsomia spinosa,,preysOn
+85586,,Pachylaelaps,,preysOn
+85586,568643,Lysigamasus,,preysOn
+85586,85586,Anthicidae,Ant-like Flower Beetles,preyedUponBy
+85586,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preyedUponBy
+85586,47951,Staphylinidae,Rove Beetles,preyedUponBy
+85586,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+85586,,Erigonella hiemalis,,preyedUponBy
+85586,494566,Athous subfuscus,,preyedUponBy
+85586,,Campodea,,preyedUponBy
+85586,359911,Staphylininae,,preyedUponBy
+85586,706060,Monocephalus fuscipes,,preyedUponBy
+85586,,Malthodes,,preyedUponBy
+85586,,Hahniidae,,preyedUponBy
+85586,230519,Schendyla nemorensis,,preyedUponBy
+85586,490816,Neobisium,,preyedUponBy
+85586,172978,Atheta,vexing rove beetles,preyedUponBy
+85586,392787,Mocyta fungi,,preyedUponBy
+85586,397950,Tenuiphantes tenuis,,preyedUponBy
+85586,738601,Lithobius aeruginosus,,preyedUponBy
+85586,127023,Amaurobius,Lace web spider,preyedUponBy
+85586,183164,Parastrellus hesperus,Canyon Bat,preyedUponBy
+85586,783596,Ceratinella brevis,,preyedUponBy
+85586,153747,Robertus,,preyedUponBy
+85586,,Geophilus ribauti,,preyedUponBy
+85586,784286,Micrargus apertus,,preyedUponBy
+85586,,Robertus scoticus,,preyedUponBy
+85586,,Gyrohypnus,,preyedUponBy
+85586,,Lithobius,,preyedUponBy
+85586,510480,Othius,,preyedUponBy
+85586,,Microneta viaria,,preyedUponBy
+85586,452503,Robertus lividus,,preyedUponBy
+85586,784141,Asthenargus paganus,,preyedUponBy
+85586,203275,Xantholinus,,preyedUponBy

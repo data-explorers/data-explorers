@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+330929,57983,Helianthus annuus,Common Sunflower,eats
+330929,53151,Medicago polymorpha,bur clover,eats
+330929,57057,Medicago sativa,Alfalfa,eats
+330929,,Cajanus cajan,,eats
+330929,118972,Anigozanthos,Kangaroo paws,eats

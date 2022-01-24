@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58331,47219,Apis mellifera,Western Honey Bee,eatenBy
+58331,154551,Leptoglossus zonatus,,eatenBy
+58331,203403,Lema daturaphila,Three-lined Potato Beetle,eatenBy
+58331,303576,Trichobaris compacta,,eatenBy
+58331,61505,Manduca sexta,Carolina Sphinx,eatenBy
+58331,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+58331,,Eristalinus aeneus,,eatenBy
+58331,,Oecanthus californicus,,eatenBy
+58331,,Harmostes reflexulus,,eatenBy
+58331,,Closterotomus norwegicus,,eatenBy
+58331,,Hoplinus echinatus,,eatenBy
+58331,47157,Lepidoptera,Butterflies and Moths,pollinatedBy

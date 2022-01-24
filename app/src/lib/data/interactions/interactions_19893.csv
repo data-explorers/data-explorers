@@ -1,0 +1,138 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+19893,40151,Mammalia,Mammals,eats
+19893,2,Chordata,Chordates,eats
+19893,1,Animalia,Animals,eats
+19893,3,Aves,Birds,eats
+19893,47158,Insecta,Insects,eats
+19893,44311,Microtus pennsylvanicus,Meadow Vole,eats
+19893,46260,Tamiasciurus hudsonicus,American Red Squirrel,eats
+19893,44349,Peromyscus,North American Deer Mice,eats
+19893,20978,Amphibia,Amphibians,eats
+19893,43840,Zapus hudsonius,Meadow Jumping Mouse,eats
+19893,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+19893,41801,Mustela,,eats
+19893,40268,Chiroptera,Bats,eats
+19893,46355,Sorex palustris,American Water Shrew,eats
+19893,66012,Lithobates sylvaticus,Wood Frog,eats
+19893,9184,Zonotrichia albicollis,White-throated Sparrow,eats
+19893,46342,Sorex,Long-tailed Shrews,eats
+19893,74677,Myodes gapperi,Southern Red-backed Vole,eats
+19893,890,Bonasa umbellus,Ruffed Grouse,eats
+19893,44396,Peromyscus maniculatus,Deer Mouse,eats
+19893,12727,Turdus migratorius,American Robin,eats
+19893,43839,Zapus,,eats
+19893,18236,Colaptes auratus,Northern Flicker,eats
+19893,9721,Geothlypis trichas,Common Yellowthroat,eats
+19893,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+19893,46341,Soricidae,Shrews,eats
+19893,46881,Blarina,Short-tailed Shrews,eats
+19893,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+19893,46020,Sciurus niger,Fox Squirrel,eats
+19893,85553,Serpentes,Snakes,eats
+19893,520586,Tamias,,eats
+19893,18230,Colaptes,Flickers and Allies,eats
+19893,46265,Glaucomys,New World Flying Squirrels,eats
+19893,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+19893,41770,Mustelidae,Mustelids,eats
+19893,43096,Sylvilagus,Cottontail Rabbits,eats
+19893,45933,Sciuridae,Squirrels,eats
+19893,44259,Microtus,Meadow Voles,eats
+19893,40270,Myotis,Mouse-eared Bats,eats
+19893,20979,Anura,Frogs and Toads,eats
+19893,46927,Talpidae,Moles and Desmans,eats
+19893,8229,Cyanocitta cristata,Blue Jay,eats
+19893,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+19893,3454,Zenaida macroura,Mourning Dove,eats
+19893,8021,Corvus brachyrhynchos,American Crow,eats
+19893,66003,Lithobates pipiens,Northern Leopard Frog,eats
+19893,17599,Picidae,Woodpeckers,eats
+19893,42652,Didelphis virginiana,Virginia Opossum,eats
+19893,44395,Peromyscus leucopus,White-footed Mouse,eats
+19893,47014,Scalopus aquaticus,Eastern Mole,eats
+19893,46272,Glaucomys volans,Southern Flying Squirrel,eats
+19893,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+19893,59815,Sorex cinereus,Masked Shrew,eats
+19893,49609,Cyprinidae,Cyprinids,eats
+19893,44576,Rattus norvegicus,Brown Rat,eats
+19893,71349,Parulidae,New World Warblers,eats
+19893,43698,Rodentia,Rodents,eats
+19893,14995,Dumetella carolinensis,Gray Catbird,eats
+19893,25473,Ranidae,Typical Frogs,eats
+19893,7251,Passeriformes,Perching Birds,eats
+19893,9156,Passerella iliaca,Fox Sparrow,eats
+19893,145245,Setophaga coronata,Yellow-rumped Warbler,eats
+19893,46217,Tamias striatus,Eastern Chipmunk,eats
+19893,9424,Pipilo erythrophthalmus,Eastern Towhee,eats
+19893,9602,Quiscalus quiscula,Common Grackle,eats
+19893,49588,Centrarchidae,Freshwater Sunfishes,eats
+19893,43095,Leporidae,Hares and Rabbits,eats
+19893,10227,Passerina cyanea,Indigo Bunting,eats
+19893,45763,Ondatra zibethicus,Muskrat,eats
+19893,47120,Arthropoda,Arthropods,eats
+19893,47178,Actinopterygii,Ray-finned Fishes,eats
+19893,4940,Egretta thula,Snowy Egret,eats
+19893,26036,Reptilia,Reptiles,eats
+19893,19743,Megascops kennicottii,Western Screech-Owl,eats
+19893,40269,Vespertilionidae,Evening Bats,eats
+19893,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,eats
+19893,44705,Mus musculus,House Mouse,eats
+19893,,Cryptotis parva,,eats
+19893,,Synaptomys cooperi,,eats
+19893,,Lepus americanus,,eats
+19893,,Perisoreus canadensis,,eats
+19893,,Dytiscus alaskanus,,eats
+19893,,Neotoma cinerea,,eats
+19893,,Glaucomys sabrinus,,eats
+19893,,Planorbidae,,eats
+19893,12878,Catharus ustulatus,Swainson's Thrush,eats
+19893,145088,Ixoreus naevius,Varied Thrush,eats
+19893,,Microtus longicaudus,,eats
+19893,870778,Myomorpha,"Mice, Rats, and Hamsters",eats
+19893,19765,Megascops asio,Eastern Screech-Owl,eats
+19893,,Teleostei,,eats
+19893,,Mus,,eats
+19893,,Microtus ochrogaster,,eats
+19893,,Sigmodon hispidus,,eats
+19893,58655,Ictaluridae,North American Freshwater Catfishes,eats
+19893,1280,Colinus virginianus,Northern Bobwhite,eats
+19893,,Sylvilagus transitionalis,,eats
+19893,,Mustela frenata,,eats
+19893,47056,Condylura cristata,Star-nosed Mole,eats
+19893,,Sorex fumeus,,eats
+19893,20044,Bubo virginianus,Great Horned Owl,eatenBy
+19893,41663,Procyon lotor,Common Raccoon,eatenBy
+19893,10227,Passerina cyanea,Indigo Bunting,preysOn
+19893,46341,Soricidae,Shrews,preysOn
+19893,43095,Leporidae,Hares and Rabbits,preysOn
+19893,46020,Sciurus niger,Fox Squirrel,preysOn
+19893,40151,Mammalia,Mammals,preysOn
+19893,311310,Astacidea,Crayfishes and Lobsters,preysOn
+19893,41871,Mephitidae,Skunks and Stink-badgers,preysOn
+19893,85553,Serpentes,Snakes,preysOn
+19893,45994,Sciurus,Tree Squirrels,preysOn
+19893,1,Animalia,Animals,preysOn
+19893,47208,Coleoptera,Beetles,preysOn
+19893,46217,Tamias striatus,Eastern Chipmunk,preysOn
+19893,7251,Passeriformes,Perching Birds,preysOn
+19893,46017,Sciurus carolinensis,Eastern Gray Squirrel,preysOn
+19893,43698,Rodentia,Rodents,preysOn
+19893,45933,Sciuridae,Squirrels,preysOn
+19893,85552,Sauria,Lizards,preysOn
+19893,12727,Turdus migratorius,American Robin,preysOn
+19893,3,Aves,Birds,preysOn
+19893,69758,Lumbricidae,Earthworms,preysOn
+19893,40269,Vespertilionidae,Evening Bats,preysOn
+19893,47157,Lepidoptera,Butterflies and Moths,preysOn
+19893,17855,Dryocopus pileatus,Pileated Woodpecker,preysOn
+19893,28362,Thamnophis sirtalis,Common Garter Snake,preysOn
+19893,63113,Blarina brevicauda,Northern Short-tailed Shrew,preysOn
+19893,,Picoides pubescens,,preysOn
+19893,,Deermice,,preysOn
+19893,,Glaucomys sabrinus,,preysOn
+19893,,Pisanianura,,preysOn
+19893,18205,Melanerpes carolinus,Red-bellied Woodpecker,preysOn
+19893,,Marmotini,,preysOn
+19893,19765,Megascops asio,Eastern Screech-Owl,preysOn
+19893,,Romalea microptera,,preysOn
+19893,,Anolis carolinensis,,preysOn
+19893,47056,Condylura cristata,Star-nosed Mole,preysOn

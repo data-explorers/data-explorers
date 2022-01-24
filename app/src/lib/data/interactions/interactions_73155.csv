@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+73155,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+73155,47124,Magnoliopsida,dicots,eats
+73155,47434,Poaceae,grasses,eats
+73155,47158,Insecta,Insects,eats
+73155,211194,Tracheophyta,vascular plants,eats
+73155,1,Animalia,Animals,eats
+73155,50186,Cicadidae,Typical Cicadas,eats
+73155,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+73155,,Bursera simaruba,,eats
+73155,127936,Chiococca alba,West Indian milkberry,eats
+73155,,Ehretia,,eats
+73155,,Psittacanthus,,eats
+73155,,Xylosma panamensis,,eats
+73155,478640,Crossopetalum uragoga,Snake Berry,eats
+73155,,Cupania dentata,,eats
+73155,,Casearia arborea,,eats
+73155,,Randia aculeata,,eats
+73155,,Ficus insipida,,eats
+73155,,Coccoloba barbadensis,,eats
+73155,,Phoradendron quadrangulare,,eats
+73155,,Nectandra salicifolia,,eats
+73155,,Vitis bourgaeana,,eats
+73155,,Rourea glabra,,eats
+73155,,Solanum tampicense,,eats
+73155,278326,Piper amalago,jaborandi-manso,eats
+73155,,Chrysobalanus icaco,,eats
+73155,,Opuntia stricta,,eats
+73155,,Solanum diphyllum,,eats
+73155,,Ficus lapathifolia,,eats
+73155,,Paullinia tomentosa,,eats
+73155,,Psychotria lauracea,,eats
+73155,,Diospyros acapulcensis,,eats
+73155,62841,Cordia,,eats
+73155,283078,Achatocarpus nigricans,,eats
+73155,,Smilax aristolochiifolia,,eats
+73155,,Ficus obtusifolia,,eats
+73155,,Dendropanax arboreus,,eats
+73155,,Tripsacum,,eats
+73155,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+73155,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+73155,67731,Anax junius,Common Green Darner,preysOn
+73155,47158,Insecta,Insects,preysOn

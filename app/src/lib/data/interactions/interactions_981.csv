@@ -1,0 +1,181 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+981,211194,Tracheophyta,vascular plants,eats
+981,1,Animalia,Animals,eats
+981,47124,Magnoliopsida,dicots,eats
+981,47735,Diplopoda,Millipedes,eats
+981,61787,Persicaria,"knotweeds, smartweeds, and waterpeppers",eats
+981,47114,Gastropoda,Gastropods,eats
+981,64161,Triticum aestivum,Bread Wheat,eats
+981,47208,Coleoptera,Beetles,eats
+981,47434,Poaceae,grasses,eats
+981,47535,Araneidae,Orbweavers,eats
+981,63089,Clitellata,Clitellates,eats
+981,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+981,47157,Lepidoptera,Butterflies and Moths,eats
+981,47822,Diptera,Flies,eats
+981,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+981,48449,Zea,Corns and Teosintes,eats
+981,47122,Fabaceae,legumes,eats
+981,47158,Insecta,Insects,eats
+981,48939,Eriogonum,wild buckwheats,eats
+981,76341,Cinnamomum camphora,Camphor Tree,eats
+981,44259,Microtus,Meadow Voles,eats
+981,35707,Podarcis carbonelli,Carbonell’s Wall Lizard,eats
+981,,Secale,,eats
+981,48448,Zea mays,Maize,eats
+981,,Bufo,,eats
+981,57156,Avena sativa,Oat,eats
+981,,Arundinaria,,eats
+981,,Hordeum vulgare,,eats
+981,,Glycine max,,eats
+981,,http://arctos.database.museum/GUID/DMNS:Inv:21909,,eats
+981,,Ladislavella elodes,,eats
+981,,Crocidura caspica,,eats
+981,,Iberolacerta cyreni,,eats
+981,,Oxymycterus roberti,,eats
+981,36056,Algyroides marchi,Spanish Algyroides,eats
+981,,Darevskia alpina,,eats
+981,,Pelophylax caralitanus,,eats
+981,,Sorex minutus,,eats
+981,,Apodemus epimelas,,eats
+981,,Dipodillus dasyurus,,eats
+981,,Vipera renardi,,eats
+981,21505,Bufo verrucosissimus,Caucasian Toad,eats
+981,74007,Zamenis hohenackeri,Caucasian Ratsnake,eats
+981,,Sicista kluchorica,,eats
+981,,Ophisops elegans,,eats
+981,,Paralaudakia caucasia,,eats
+981,43882,Pygeretmus platyurus,Lesser Fat-tailed Jerboa,eats
+981,30924,Vipera latastei,Lataste's Viper,eats
+981,,Macroprotodon cucullatus,,eats
+981,,Psammodromus jeanneae,,eats
+981,45561,Apodemus uralensis,Herb Field Mouse,eats
+981,,Macroprotodon mauritanicus,,eats
+981,,Pygeretmus pumilio,,eats
+981,25316,Pelodytes ibericus,Iberian parsley frog,eats
+981,30314,Eirenis aurolineatus,Golden-striped Dwarf Snake,eats
+981,134985,Rana macrocnemis,Taurus Frog,eats
+981,,Apodemus mystacinus,,eats
+981,66327,Pelophylax kurtmuelleri,Balkan Frog,eats
+981,,Podarcis peloponnesiacus,,eats
+981,44653,Tatera indica,Indian Gerbil,eats
+981,,Gallotia intermedia,,eats
+981,,Darevskia lindholmi,,eats
+981,,Algyroides fitzingeri,,eats
+981,30282,Elaphe dione,Steppe Ratsnake,eats
+981,,Sicista severtzovi,,eats
+981,24473,Alytes obstetricans,Common Midwife Toad,eats
+981,44673,Meriones meridianus,Mid-day Jird,eats
+981,,Podarcis hispanicus,,eats
+981,,Dolichophis cypriensis,,eats
+981,,Psammodromus manuelae,,eats
+981,,Podarcis gaigeae,,eats
+981,35900,Lacerta bilineata,Western Green Lizard,eats
+981,,Telescopus fallax,,eats
+981,24484,Discoglossus sardus,Tyrrhenian Painted Frog,eats
+981,,Cricetus cricetus,,eats
+981,,Gallotia atlantica,,eats
+981,,Chalcides chalcides,,eats
+981,,Gloydius intermedius,,eats
+981,,Ellobius talpinus,,eats
+981,,Iberolacerta monticola,,eats
+981,44688,Mus spretus,Algerian Mouse,eats
+981,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,eats
+981,,Darevskia unisexualis,,eats
+981,53645,Chalcides ocellatus,Ocellated Bronze Skink,eats
+981,29917,Hierophis gemonensis,Balkan Whip Snake,eats
+981,,Darevskia raddei nairensis,,eats
+981,,Darevskia caucasica,,eats
+981,,Mus spicilegus,,eats
+981,,Timon princeps,,eats
+981,,Darevskia sapphirina,,eats
+981,74008,Zamenis lineatus,Italian Aesculapian Snake,eats
+981,,Chionomys gud,,eats
+981,,Ablepharus bivittatus,,eats
+981,73922,Podarcis waglerianus,Sicilian Wall Lizard,eats
+981,,Darevskia portschinskii,,eats
+981,,Microtus bavaricus,,eats
+981,,Elaphe situla,,eats
+981,,Sorex granarius,,eats
+981,,Mesocricetus brandti,,eats
+981,,Lacerta strigata,,eats
+981,42069,Vulpes vulpes,Red Fox,eatenBy
+981,5163,Circus,Harriers,eatenBy
+981,4672,Falco columbarius,Merlin,eatenBy
+981,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+981,8010,Corvus corax,Common Raven,eatenBy
+981,42652,Didelphis virginiana,Virginia Opossum,eatenBy
+981,4756,Cathartes aura,Turkey Vulture,eatenBy
+981,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+981,20044,Bubo virginianus,Great Horned Owl,eatenBy
+981,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+981,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+981,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+981,4733,Ciconia ciconia,White Stork,eatenBy
+981,4736,Ciconia nigra,Black Stork,eatenBy
+981,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+981,559064,Circus cyaneus,Hen Harrier,eatenBy
+981,5178,Circus macrourus,Pallid Harrier,eatenBy
+981,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+981,5275,Elanus caeruleus,Black-winged Kite,eatenBy
+981,204472,Buteo buteo,Common Buzzard,eatenBy
+981,5192,Buteo rufinus,Long-legged Buzzard,eatenBy
+981,5081,Aquila adalberti,Spanish Eagle,eatenBy
+981,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+981,,Aquila heliaca,,eatenBy
+981,5154,Hieraaetus pennatus,Booted Eagle,eatenBy
+981,,Aquila pomarina,,eatenBy
+981,4684,Falco biarmicus,Lanner Falcon,eatenBy
+981,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+981,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+981,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+981,,Aquila chrysaetos,,eatenBy
+981,77,Otis tarda,Great Bustard,eatenBy
+981,4923,Burhinus oedicnemus,Eurasian Stone-curlew,eatenBy
+981,4691,Falco cherrug,Saker Falcon,eatenBy
+981,204533,Larus argentatus,Herring Gull,eatenBy
+981,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+981,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+981,144594,Bubo scandiacus,Snowy Owl,eatenBy
+981,4389,Larus cachinnans,Caspian Gull,eatenBy
+981,19890,Strix nebulosa,Great Gray Owl,eatenBy
+981,19910,Strix uralensis,Ural Owl,eatenBy
+981,19898,Strix aluco,Tawny Owl,eatenBy
+981,,Garrulus glandarius,,eatenBy
+981,12038,Lanius collurio,Red-backed Shrike,eatenBy
+981,,Coloeus monedula,,eatenBy
+981,204496,Corvus corone,Carrion Crow,eatenBy
+981,8029,Corvus frugilegus,Rook,eatenBy
+981,42048,Canis lupus,Gray Wolf,eatenBy
+981,851014,Canis aureus,Golden Jackal,eatenBy
+981,922459,Felis silvestris,European Wildcat,eatenBy
+981,41961,Felis chaus,Jungle Cat,eatenBy
+981,41900,Herpestes ichneumon,Ichneumon,eatenBy
+981,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+981,41808,Mustela erminea,Eurasian Stoat,eatenBy
+981,41795,Martes zibellina,Sable,eatenBy
+981,855297,Meles meles,European Badger,eatenBy
+981,41979,Lynx lynx,Eurasian Lynx,eatenBy
+981,41796,Martes martes,Eurasian Pine Marten,eatenBy
+981,41800,Martes foina,Stone Marten,eatenBy
+981,41813,Mustela sibirica,Siberian Weasel,eatenBy
+981,569428,Mustela nivalis,Least Weasel,eatenBy
+981,41963,Panthera pardus,Leopard,eatenBy
+981,42134,Sus scrofa,Wild Boar,eatenBy
+981,41641,Ursus arctos,Brown Bear,eatenBy
+981,41829,Vormela peregusna,Marbled Polecat,eatenBy
+981,42065,Vulpes corsac,Corsac Fox,eatenBy
+981,,Elaphe situla,,eatenBy
+981,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+981,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+981,39407,Varanus griseus,Desert Monitor,eatenBy
+981,27064,Hemorrhois algirus,Algerian Whip Snake,eatenBy
+981,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+981,28451,Telescopus nigriceps,Black headed snake,eatenBy
+981,27035,Hierophis viridiflavus carbonarius,,eatenBy
+981,,Coyote,,eatenBy
+981,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+981,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+981,,Timarcha tenebricosa,,preysOn
+981,41573,Carnivora,Carnivorans,preyedUponBy
+981,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy

@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48008,,Detritus,,eats
+48008,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+48008,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+48008,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48008,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+48008,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+48008,10247,Setophaga ruticilla,American Redstart,eatenBy
+48008,,Lepomis auritus,,eatenBy
+48008,,Micropterus dolomieu,,eatenBy
+48008,107271,Notropis volucellus,Mimic shiner,eatenBy
+48008,48648,Salmo salar,Atlantic Salmon,eatenBy
+48008,105821,Micropterus punctulatus,Spotted Bass,eatenBy
+48008,,Tor tor,,eatenBy
+48008,63081,Hirudinea,Leeches,eatenBy
+48008,51129,Gomphus,,eatenBy
+48008,57845,Sialis,,eatenBy
+48008,15990,Myiarchus tuberculifer,Dusky-capped Flycatcher,eatenBy
+48008,6667,Cypseloides niger,Black Swift,eatenBy
+48008,,Vireo flavifrons,,eatenBy
+48008,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+48008,145276,Cardellina pusilla,Wilson's Warbler,eatenBy
+48008,145236,Setophaga castanea,Bay-breasted Warbler,eatenBy
+48008,4937,Egretta caerulea,Little Blue Heron,eatenBy
+48008,81579,Steatoda triangulosa,Triangulate Combfoot,preyedUponBy
+48008,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+48008,40352,Myotis grisescens,Gray Bat,preyedUponBy
+48008,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy

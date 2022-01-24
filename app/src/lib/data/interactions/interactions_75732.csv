@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+75732,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+75732,7089,Branta canadensis,Canada Goose,eatenBy
+75732,,Anartia jatrophae,,eatenBy
+75732,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4262,47314,Anguilliformes,True Eels,eats
+4262,52319,Platyhelminthes,Flatworms,eats
+4262,,Pleuronectiformes,,eats
+4262,47638,Scorpaenichthys marmoratus,Cabezon,eats
+4262,54191,Oncorhynchus tshawytscha,Chinook Salmon,eats
+4262,,Mystriophis rostellatus,,eats
+4262,109631,Platichthys flesus,European Flounder,eats
+4262,49168,Caulolatilus princeps,Ocean Whitefish,eats
+4262,95919,Bothus leopardinus,,eats
+4262,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4262,104980,Maccullochella peelii,Murray Cod,eatenBy
+4262,88563,Gobius,,preysOn
+4262,54539,Syngnathus,Pipe-fishes,preysOn
+4262,91235,Pomatoschistus,,preysOn
+4262,88564,Gobiusculus,,preysOn
+4262,48409,Pungitius,,preysOn
+4262,,Pholis,,preysOn
+4262,55398,Solea,,preysOn
+4262,,Gasterosterus,,preysOn
+4262,84086,Spinachia,,preysOn
+4262,47524,Pleuronectes,,preysOn
+4262,49168,Caulolatilus princeps,Ocean Whitefish,preysOn
+4262,95919,Bothus leopardinus,,preysOn
+4262,109631,Platichthys flesus,European Flounder,preysOn
+4262,,Mystriophis rostellatus,,preysOn

@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42044,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+42044,,Aporosaura,,eats
+42044,846233,Talpinae,Old World Moles and Desmans,eats
+42044,388132,Ctenarytaina thysanura,,eats
+42044,,Typhlosaurus,,eats
+42044,,Suricata suricatta,,eats
+42044,,Gazella gazella,,eats
+42044,,Redunca fulvorufula,,eats
+42044,,Axis porcinus,,eats
+42044,,Cervus eldii,,eats
+42044,,Raphicerus melanotis,,eats
+42044,42305,Redunca arundinum,Southern Reedbuck,eats
+42044,,Macaca sylvanus,,eats
+42044,,Pelea capreolus,,eats
+42044,41955,Acinonyx jubatus,Cheetah,eatenBy
+42044,42048,Canis lupus,Gray Wolf,eatenBy
+42044,42101,Cuon alpinus,Dhole,eatenBy
+42044,41963,Panthera pardus,Leopard,eatenBy
+42044,41964,Panthera leo,Lion,eatenBy
+42044,,Hyaena brunnea,,eatenBy

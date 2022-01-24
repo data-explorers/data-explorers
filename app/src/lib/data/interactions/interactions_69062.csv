@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69062,120156,Musca domestica,Housefly,eats
+69062,1,Animalia,Animals,eats
+69062,47822,Diptera,Flies,eats
+69062,,Blaesoxipha plinthopyga,,eats
+69062,,Cochyliomyia macellaria,,eats
+69062,,Lepus californicus,,eats
+69062,,bovine or equine dung,,eats
+69062,,B. plinthopyga larvae,,eats
+69062,,C.,,eats
+69062,,rabbit carcass (L. californicus),,eats
+69062,,M. domestica larvae,,eats
+69062,,carrion,,eats
+69062,1075994,Microlicia fulva,,eats
+69062,,Baccharis concinna,,eats
+69062,,Barbacenia flava,,eats
+69062,,Myrsine monticola,,eats
+69062,,Vochysia thyrsoidea,,eats
+69062,,Diplusodon orbicularis,,eats
+69062,,Chamaecrista papillata,,eats
+69062,,Sapium glandulosum,,eats
+69062,47822,Diptera,Flies,preysOn
+69062,,B. plinthopyga larvae,,preysOn

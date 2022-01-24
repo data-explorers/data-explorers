@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48250,141440,Drimia uniflora,Solitary Squill,eats
+48250,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+48250,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+48250,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+48250,322417,Limacus flavus,Yellow Cellar Slug,eatenBy
+48250,61428,Arion subfuscus,Western Dusky Slug,eatenBy
+48250,,Limax maximus,,eatenBy

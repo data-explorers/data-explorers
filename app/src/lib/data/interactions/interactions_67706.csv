@@ -1,0 +1,122 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67706,52158,Schistocerca nitens,Gray Bird Grasshopper,eats
+67706,48201,Scarabaeidae,Scarabs,eats
+67706,184884,Pterygota,Winged and Once-winged Insects,eats
+67706,47822,Diptera,Flies,eats
+67706,329983,Ornidia obesa,Common Green Jewel Fly,eats
+67706,,Paranomala undulata peruviana,,eats
+67706,,Agraulis vanillae,,eats
+67706,126777,Peucetia viridans,Green Lynx Spider,eatenBy
+67706,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+67706,203279,Scaphytopius,,preysOn
+67706,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+67706,133824,Chrysobothris,,preysOn
+67706,51146,Chrysomelidae,Leaf Beetles,preysOn
+67706,47951,Staphylinidae,Rove Beetles,preysOn
+67706,49995,Syrphidae,Hover Flies,preysOn
+67706,68941,Brachymyrmex,Rover Ants,preysOn
+67706,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",preysOn
+67706,52756,Polistes,Umbrella Paper Wasps,preysOn
+67706,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",preysOn
+67706,47224,Papilionoidea,Butterflies,preysOn
+67706,67706,Argiope argentata,Silver Garden Orbweaver,preysOn
+67706,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+67706,47927,Anisoptera,Dragonflies,preysOn
+67706,47649,Acrididae,Short-horned Grasshoppers,preysOn
+67706,119607,Chinavia,Green Stink Bugs,preysOn
+67706,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+67706,47157,Lepidoptera,Butterflies and Moths,preysOn
+67706,47158,Insecta,Insects,preysOn
+67706,48508,Pieridae,"Whites, Yellows, and Sulphurs",preysOn
+67706,55612,Pyrrhocoridae,Red Bugs,preysOn
+67706,52159,Schistocerca,Bird Grasshoppers,preysOn
+67706,,Euderus,,preysOn
+67706,329733,Oxycopis,,preysOn
+67706,203330,Sericoderus,,preysOn
+67706,,Melittobia chalybii,,preysOn
+67706,,Metapelma schwarzi,,preysOn
+67706,,Xenomyrmex floridanus,,preysOn
+67706,129986,Oliarus,,preysOn
+67706,49575,Pseudococcus,,preysOn
+67706,230399,Sapintus fulvipes,,preysOn
+67706,,Trischidias atoma,,preysOn
+67706,,Scleroderma macrogaster,,preysOn
+67706,1300915,Marojala,,preysOn
+67706,,Cryptorhynchus minutissimus,,preysOn
+67706,,Neanastatus,,preysOn
+67706,,Leptostylus,,preysOn
+67706,,Agamerion,,preysOn
+67706,481477,Trypoxylon collinum,,preysOn
+67706,938094,Cryptorama minutum,,preysOn
+67706,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn
+67706,329886,Olfersia sordida,,preysOn
+67706,,Camponotus tortuganus,,preysOn
+67706,,Tafaliscu lurida,,preysOn
+67706,178747,Tricorynus,,preysOn
+67706,208181,Arunta interclusa,mangrove cicada,preysOn
+67706,85716,Cucujidae,Flat bark beetles,preysOn
+67706,,Hapithus gryllodes,,preysOn
+67706,,Casinaria ambigua,,preysOn
+67706,,Urolepis rufipes,,preysOn
+67706,,Ooencyrtus submetallicus,,preysOn
+67706,,Cephalonomia waterstoni,,preysOn
+67706,266087,Pachodynerus nasidens,Keyhole Wasp,preysOn
+67706,,Macrocentrus,,preysOn
+67706,199370,Monomorium floricola,Flower Ant,preysOn
+67706,,Cycloptilum,,preysOn
+67706,,Scydmaenidae,,preysOn
+67706,,Styloleptus biustus dorsalis,,preysOn
+67706,,Tapinoma littorale,,preysOn
+67706,,Entedontini,,preysOn
+67706,323059,Acanalonia servillei,,preysOn
+67706,,Probaryconus,,preysOn
+67706,557422,Flatoidinus punctatus,,preysOn
+67706,,Tachys occulator,,preysOn
+67706,503396,Colobopsis,Gate-keeper Ants,preysOn
+67706,,Actenodes,,preysOn
+67706,,Nesepyris floridanus,,preysOn
+67706,,Heterospilus,,preysOn
+67706,,Latiblattella,,preysOn
+67706,,Telonemus,,preysOn
+67706,,Ecphylus,,preysOn
+67706,,Oxycopis suturalis,,preysOn
+67706,,Cyrtoxipha,,preysOn
+67706,1159232,Tangia breviceps,,preysOn
+67706,49024,Membracidae,Typical Treehoppers,preysOn
+67706,,Crematogaster ashmeadi,,preysOn
+67706,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,preysOn
+67706,329607,Holoparamecus,,preysOn
+67706,,Camponotus floridanus,,preysOn
+67706,,Poecilipa rhizophorae,,preysOn
+67706,,Ataxia,,preysOn
+67706,,Turpilia rostrata,,preysOn
+67706,225137,Micronaspis floridana,,preysOn
+67706,,Hypoponera opacior,,preysOn
+67706,,Lynchia albipennis,,preysOn
+67706,,Bembidion contractum,,preysOn
+67706,1244911,Pseudoacalles,,preysOn
+67706,,Camponotus planatus,,preysOn
+67706,,Pseudomyrmex elongatus,,preysOn
+67706,,Iphiaulax,,preysOn
+67706,,Paracryptocerus,,preysOn
+67706,,Calliephialtes ferrugineus,,preysOn
+67706,467803,Actinopteryx fucicola,,preysOn
+67706,1121348,Blissus insularis,,preysOn
+67706,,Brachymeria psyche,,preysOn
+67706,,Aglaopteryx,,preysOn
+67706,,Paratrechina bourbonica,,preysOn
+67706,,Cotesia hemileucae,,preysOn
+67706,468794,Vacusus vicinus,,preysOn
+67706,,Callihormius bifasciatus,,preysOn
+67706,250072,Metacyrba,,preyedUponBy
+67706,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+67706,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+67706,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+67706,146704,Argyrodes elevatus,American Dewdrop Spider,preyedUponBy
+67706,,Dendroica,,preyedUponBy
+67706,84495,Paraphidippus,,preyedUponBy
+67706,354274,Ballus,,preyedUponBy
+67706,,Pirata,,preyedUponBy
+67706,420613,Stoidis,,preyedUponBy
+67706,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+67706,49880,Misumenops,,preyedUponBy

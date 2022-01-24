@@ -1,0 +1,90 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49230,55521,Papilio eurymedon,Pale Swallowtail,eatenBy
+49230,60607,Limenitis arthemis,Red-spotted Admiral,eatenBy
+49230,58586,Limenitis archippus,Viceroy,eatenBy
+49230,127511,Fomes,,eatenBy
+49230,7998,Corvus,Crows and Ravens,eatenBy
+49230,889,Bonasa,,eatenBy
+49230,60551,Papilio glaucus,Eastern Tiger Swallowtail,eatenBy
+49230,81681,Campaea perlata,Pale Beauty,eatenBy
+49230,145310,Spinus tristis,American Goldfinch,eatenBy
+49230,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+49230,126545,Dialictus,Metallic Sweat Bees,eatenBy
+49230,46017,Sciurus carolinensis,Eastern Gray Squirrel,eatenBy
+49230,199840,Haemorhous mexicanus,House Finch,eatenBy
+49230,12901,Catharus fuscescens,Veery,eatenBy
+49230,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+49230,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+49230,12727,Turdus migratorius,American Robin,eatenBy
+49230,,Papilio canadensis,,eatenBy
+49230,,Satyrium liparops,,eatenBy
+49230,68263,Papilio multicaudata,Two-tailed Swallowtail,eatenBy
+49230,,Limenitis weidemeyerii,,eatenBy
+49230,,Taeniothrips inconsequens,,eatenBy
+49230,,Choristoneura rosaceana,,eatenBy
+49230,,Stigmella sorbi,,eatenBy
+49230,,Acronicta psi,,eatenBy
+49230,,Stigmella hybnerella,,eatenBy
+49230,,Malacosoma californica,,eatenBy
+49230,,Biston betularia,,eatenBy
+49230,,Lepus americanus,,eatenBy
+49230,,redbacked vole,,eatenBy
+49230,,Elaeocarpus,,eatenBy
+49230,,Saperda,,eatenBy
+49230,,insects (forest edge),,eatenBy
+49230,,canker,,eatenBy
+49230,,franklin ground squirrel,,eatenBy
+49230,,American moose,,eatenBy
+49230,,Snowshoe hare,,eatenBy
+49230,,American black bear,,eatenBy
+49230,,Arctic hare,,eatenBy
+49230,,Sparganothis directana,,eatenBy
+49230,,Argyrotaenia quadrifasciana,,eatenBy
+49230,,Archips cerasivorana,,eatenBy
+49230,213573,Ancylis nubeculana,Little Cloud Ancylis Moth,eatenBy
+49230,,Actias luna,,eatenBy
+49230,,Hemileuca griffini,,eatenBy
+49230,,Anisota virginiensis,,eatenBy
+49230,,Hemileuca eglanterina,,eatenBy
+49230,,Acrobasis tricolorella,,eatenBy
+49230,,Papilio multicaudatus,,eatenBy
+49230,,Heterocampa guttivitta,,eatenBy
+49230,,Heterocampa biundata,,eatenBy
+49230,,Xestia infimatis,,eatenBy
+49230,,Datana ministra,,eatenBy
+49230,,Catocala blandula,,eatenBy
+49230,,Orthosia alurina,,eatenBy
+49230,,Schizura concinna,,eatenBy
+49230,,Eupsilia tristigmata,,eatenBy
+49230,,Acronicta quadrata,,eatenBy
+49230,,Acronicta impressa,,eatenBy
+49230,,Catocala praeclara,,eatenBy
+49230,213603,Andropolia contacta,Canadian Giant Moth,eatenBy
+49230,,Nepticula mespilicola,,eatenBy
+49230,,Acronicta radcliffei,,eatenBy
+49230,,Eulithis xylina,,eatenBy
+49230,,Operophtera brumata,,eatenBy
+49230,,Parornix quadripunctella,,eatenBy
+49230,,Melanolophia signitaria,,eatenBy
+49230,,Paleacrita vernata,,eatenBy
+49230,,Semiothisa ulsterata,,eatenBy
+49230,,Itame exauspicata,,eatenBy
+49230,,Haploa lecontei,,eatenBy
+49230,,Coleophora pruniella,,eatenBy
+49230,947979,Dineura militaris,,eatenBy
+49230,,Trioza obtusa,,eatenBy
+49230,,Blaesodiplosis canadensis,,eatenBy
+49230,,Gymnosporangium clavipes,,eatenBy
+49230,,Acronicta americana,,eatenBy
+49230,12716,Turdus merula,Eurasian Blackbird,eatenBy
+49230,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+49230,12951,Myadestes townsendi,Townsend's Solitaire,eatenBy
+49230,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy
+49230,1240,Dendragapus,Blue Grouse,eatenBy
+49230,9800,Coccothraustes vespertinus,Evening Grosbeak,eatenBy
+49230,,Pinicola enucleator,,eatenBy
+49230,47158,Insecta,Insects,pollinatedBy
+49230,47822,Diptera,Flies,pollinatedBy
+49230,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+49230,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+49230,9083,Cardinalis cardinalis,Northern Cardinal,preyedUponBy

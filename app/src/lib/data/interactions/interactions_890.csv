@@ -1,0 +1,116 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+890,53352,Alnus,alders,eats
+890,58728,Berberis,Barberries,eats
+890,47336,Formicidae,Ants,eats
+890,47434,Poaceae,grasses,eats
+890,53453,Salix,Willows,eats
+890,48528,Symphoricarpos,snowberries,eats
+890,48353,Vaccinium,"blueberries, cranberries, and allies",eats
+890,48124,Tettigoniidae,Katydids,eats
+890,53186,Potentilla,cinquefoils,eats
+890,54840,Populus tremuloides,trembling aspen,eats
+890,47124,Magnoliopsida,dicots,eats
+890,48736,Curculionidae,True Weevils,eats
+890,47603,Taraxacum,dandelions,eats
+890,53438,Rosa,roses,eats
+890,47535,Araneidae,Orbweavers,eats
+890,47727,Acer,maples,eats
+890,51876,Trifolium,clovers,eats
+890,52679,Polypodiaceae,polypody family,eats
+890,47351,Prunus,"plums, cherries, and allies",eats
+890,48571,Carex,true sedges,eats
+890,49398,Kalmia,mountain-laurels,eats
+890,47544,Rubus,brambles,eats
+890,49230,Amelanchier,serviceberries,eats
+890,54772,Ostrya,hop-hornbeams,eats
+890,47851,Quercus,oaks,eats
+890,49156,Betula,birches,eats
+890,54769,Carpinus,hornbeams,eats
+890,47889,Impatiens,touch-me-nots,eats
+890,48230,Ranunculus,buttercups,eats
+890,50299,Fragaria,strawberries,eats
+890,50829,Viola,violets,eats
+890,54765,Rhus,sumacs,eats
+890,53373,Corylus,hazels,eats
+890,52689,Sambucus,elders,eats
+890,47566,Populus,"poplars, cottonwoods, and aspens",eats
+890,61208,Polygala,Falsepeas,eats
+890,47193,Cornus,dogwoods,eats
+890,49203,Fagus,beeches,eats
+890,60773,Vitis,grapevines,eats
+890,48442,Gaultheria,Wintergreen,eats
+890,53196,Rumex,docks,eats
+890,48972,Polygonum,knotweeds,eats
+890,77835,Lonicera japonica,Japanese honeysuckle,eats
+890,49487,Rhododendron,rhododendrons and azaleas,eats
+890,54779,Quercus alba,white oak,eats
+890,55745,Trifolium repens,white clover,eats
+890,53854,Ilex,hollies,eats
+890,49202,Fagus grandifolia,American beech,eats
+890,62376,Gaultheria procumbens,Eastern Teaberry,eats
+890,60748,Smilax,greenbriers,eats
+890,54834,Prunus serotina,black cherry,eats
+890,64538,Celastrus scandens,American bittersweet,eats
+890,51874,Lonicera,honeysuckles,eats
+890,211194,Tracheophyta,vascular plants,eats
+890,1,Animalia,Animals,eats
+890,55910,Hieracium,hawkweeds,eats
+890,81597,Potentilla canadensis,dwarf cinquefoil,eats
+890,121943,Polypodiopsida,ferns,eats
+890,53195,Rumex acetosella,Sheep's sorrel,eats
+890,55751,Geum,avens,eats
+890,78882,Rosa multiflora,multiflora rose,eats
+890,58738,Rhus aromatica,fragrant sumac,eats
+890,51079,Toxicodendron,poison ivies and oaks,eats
+890,48449,Zea,Corns and Teosintes,eats
+890,49226,Amelanchier arborea,common serviceberry,eats
+890,52543,Acer saccharum,sugar maple,eats
+890,54770,Corylus americana,American hazelnut,eats
+890,54771,Ostrya virginiana,American hophornbeam,eats
+890,172058,Glycymeris,Bittersweets,eats
+890,54764,Rhus glabra,smooth sumac,eats
+890,56932,Cuscuta,dodders,eats
+890,85324,Desmodium,ticktrefoils,eats
+890,54768,Carpinus caroliniana,American hornbeam,eats
+890,64539,Celastrus,bittersweets,eats
+890,53374,Corylus cornuta,beaked hazelnut,eats
+890,60369,Pyrola,wintergreens,eats
+890,54500,Malus,apples,eats
+890,52472,Vicia,Vetches,eats
+890,48788,Pollicipes,,eats
+890,49883,Betula papyrifera,paper birch,eats
+890,47169,Basidiomycota,Basidiomycete Fungi,eats
+890,47746,Equisetum,horsetails,eats
+890,47758,Oxalis,woodsorrels,eats
+890,167829,Rhus typhina,staghorn sumac,eats
+890,61119,Ilex verticillata,winterberry holly,eats
+890,48098,Acer rubrum,red maple,eats
+890,67748,Maianthemum canadense,Canada mayflower,eats
+890,47167,Agaricales,Common Gilled Mushrooms and Allies,eats
+890,54774,Viburnum,viburnums,eats
+890,47192,Cornus canadensis,Canadian bunchberry,eats
+890,47158,Insecta,Insects,eats
+890,51875,Trifolium pratense,red clover,eats
+890,49882,Betula alleghaniensis,yellow birch,eats
+890,82564,Dryopteris carthusiana,spinulose wood fern,eats
+890,47170,Fungi,Fungi Including Lichens,eats
+890,116361,Acer spicatum,Mountain Maple,eats
+890,47120,Arthropoda,Arthropods,eats
+890,52850,Aralia,spikenards,eats
+890,117433,Euonymus alatus,winged euonymus,eats
+890,,Arctostaphylos uva-ursi,,eats
+890,20044,Bubo virginianus,Great Horned Owl,eatenBy
+890,43584,Homo sapiens,Human,eatenBy
+890,19893,Strix varia,Barred Owl,eatenBy
+890,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+890,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+890,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+890,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+890,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+890,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+890,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+890,,Aquila chrysaetos,,eatenBy
+890,64968,Anaxyrus americanus,American Toad,preysOn
+890,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+890,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+890,144594,Bubo scandiacus,Snowy Owl,preyedUponBy

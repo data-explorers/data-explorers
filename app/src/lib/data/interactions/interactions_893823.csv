@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+893823,128695,Eryngium yuccifolium,rattlesnake master,eats
+893823,48382,Polygonaceae,knotweed family,eats
+893823,51769,Gaillardia,Blanket Flowers,eats
+893823,1095846,Bidens alba,Romerillo,eats
+893823,119145,Mikania scandens,climbing hempvine,eats
+893823,,Eupatorium serotinum,,eats
+893823,126888,Solidago sempervirens,northern seaside goldenrod,eats
+893823,,Monarda punctata,,eats
+893823,,Vernonia gigantea,,eats
+893823,133311,Richardia scabra,Florida Pusley,eats
+893823,128698,Verbena brasiliensis,Brazilian Vervain,eats
+893823,345537,Aloysia virgata,Sweet Almond Bush,eats
+893823,,Stokesia laevis,,eats
+893823,130888,Erechtites hieraciifolius,fireweed,eats
+893823,168993,Silphium integrifolium,prairie rosinweed,eats
+893823,132078,Hyptis alata,Musky mint,eats
+893823,131167,Melanthera nivea,Snow Squarestem,eats
+893823,84813,Baccharis halimifolia,groundsel tree,eats
+893823,119095,Conoclinium coelestinum,blue mistflower,eats
+893823,893823,Dielis plumipes,Feather-legged Scoliid Wasp,pollinates
+893823,118970,Bombus impatiens,Common Eastern Bumble Bee,pollinates
+893823,,Ammophila procera,,pollinates
+893823,329983,Ornidia obesa,Common Green Jewel Fly,pollinates
+893823,893823,Dielis plumipes,Feather-legged Scoliid Wasp,pollinatedBy
+893823,47336,Formicidae,Ants,pollinatedBy
+893823,,Anolis carolinensis,,preyedUponBy

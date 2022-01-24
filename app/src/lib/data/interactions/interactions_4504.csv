@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4504,47490,Polychaeta,Polychaete Worms,eats
+4504,121639,Brachyura,True Crabs,eats
+4504,153112,Euphausiacea,krill,eats
+4504,47459,Cephalopoda,Cephalopods,eats
+4504,47628,Amphipoda,Amphipods,eats
+4504,47178,Actinopterygii,Ray-finned Fishes,eats
+4504,85493,Crustacea,Crustaceans,eats
+4504,47186,Decapoda,Decapods,eats
+4504,320793,Trisopterus esmarkii,Norway Pout,eats
+4504,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4504,,Teleostei,,eats
+4504,63742,Gadidae,Cods and Haddocks,eats
+4504,228496,Pollachius virens,Pollock,eats
+4504,82351,Melanogrammus aeglefinus,Haddock,eats
+4504,324532,Sprattus sprattus,European Sprat,eats
+4504,120702,Micromesistius poutassou,Blue Whiting,eats
+4504,97990,Clupea harengus,Atlantic Herring,eats
+4504,195087,Thysanoessa inermis,,eats
+4504,215151,Benthosema glaciale,Glacier Lanternfish,eats
+4504,165100,Mallotus villosus,Capelin,eats
+4504,86396,Ammodytes,,eats
+4504,558731,Themisto abyssorum,,eats
+4504,432427,Gonatus fabricii,Boreoatlantic Gonate Squid,eats
+4504,706438,Themisto libellula,,eats
+4504,213402,Ammodytes americanus,American Sand Lance,eats
+4504,,Gnathostomata,,eats
+4504,,Scorpaeniformes,,eats
+4504,85574,Ammodytidae,Sand Lances,eats
+4504,125291,Molva molva,European Ling,eats
+4504,94904,Auchenoglanis biscutatus,,eats
+4504,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4504,,Sebasteralutus paucispinosus,,eats
+4504,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4504,85289,Pseudophycis bachus,Red cod,eats
+4504,88265,Etrumeus,Red-eye Round Herrings,eats
+4504,,Enchelyopus cimbrius,,eats
+4504,47762,Sebastes,Rockfishes,eats
+4504,614162,Micromesistius australis,Southern blue whiting,eats
+4504,,Others,,eats
+4504,430553,Merlangius merlangus,Whiting,eats
+4504,86107,Trachinidae,Weeverfishes,eats
+4504,107572,Oncorhynchus keta,Chum Salmon,eats
+4504,,Aspidophoroides bartonii,,eats
+4504,,Teuthida,,eats
+4504,82337,Loligo,,eats
+4504,47525,Pleuronectidae,Righteye Flounders,eats
+4504,146888,Illex,Shortfin Squids,eats
+4504,232947,Triglops pingelii,Ribbed Sculpin,eats
+4504,63740,Gadus morhua,Atlantic Cod,eats
+4504,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4504,86443,Anarhichas,,eats
+4504,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4504,218966,Eleginus gracilis,Saffron Cod,eats
+4504,107570,Oncorhynchus gorbuscha,Pink Salmon,eats
+4504,607883,Podothecus veternus,,eats
+4504,,Anarinchas lupus,,eats
+4504,215318,Boreogadus saida,Arctic Cod,eats
+4504,82353,Merluccius,Hakes,eats
+4504,118600,Sardina pilchardus,European Sardine,eats
+4504,180029,Gadus macrocephalus,Pacific Cod,eats
+4504,68595,Hexagrammos,,eats
+4504,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4504,,Etrumeus teres,,eats
+4504,223674,Limanda aspera,Yellowfin Sole,eats
+4504,,,,eats
+4504,,Macruronus magellanicus,,eats
+4504,55535,Sardinops sagax,Pacific Sardine,eats
+4504,117571,Clupea pallasii,Pacific herring,eats
+4504,,Kondakovia longimana,,eats
+4504,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4504,,others,,eats
+4504,,Pisces,,eats
+4504,4381,Larus fuscus,Lesser Black-backed Gull,eatenBy
+4504,4349,Larus hyperboreus,Glaucous Gull,eatenBy
+4504,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4504,8010,Corvus corax,Common Raven,eatenBy
+4504,42069,Vulpes vulpes,Red Fox,eatenBy
+4504,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+4504,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+4504,204472,Buteo buteo,Common Buzzard,eatenBy
+4504,4657,Falco rusticolus,Gyrfalcon,eatenBy
+4504,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+4504,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+4504,4368,Larus marinus,Great Black-backed Gull,eatenBy
+4504,204533,Larus argentatus,Herring Gull,eatenBy
+4504,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+4504,144297,Stercorarius skua,Great Skua,eatenBy
+4504,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4504,,Ichthyaetus ichthyaetus,,eatenBy
+4504,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+4504,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4504,4389,Larus cachinnans,Caspian Gull,eatenBy
+4504,19898,Strix aluco,Tawny Owl,eatenBy
+4504,,Coloeus monedula,,eatenBy
+4504,8029,Corvus frugilegus,Rook,eatenBy
+4504,204496,Corvus corone,Carrion Crow,eatenBy
+4504,233598,Vulpes lagopus,Arctic Fox,eatenBy
+4504,42048,Canis lupus,Gray Wolf,eatenBy
+4504,41900,Herpestes ichneumon,Ichneumon,eatenBy
+4504,41852,Gulo gulo,Wolverine,eatenBy
+4504,64714,Vaccinium uliginosum,bog bilberry,eatenBy
+4504,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4504,,Elaphe situla,,eatenBy
+4504,39407,Varanus griseus,Desert Monitor,eatenBy
+4504,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4504,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4504,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4504,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+4504,41644,Ursus maritimus,Polar Bear,eatenBy
+4504,85574,Ammodytidae,Sand Lances,preysOn
+4504,700305,Alloteuthis subulata,European Common Squid,preysOn

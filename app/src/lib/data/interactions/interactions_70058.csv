@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+70058,47851,Quercus,oaks,eats
+70058,,phloem (Quercus spp.),,eats
+70058,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+70058,17356,Vireo bellii,Bell's Vireo,eatenBy
+70058,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+70058,17355,Vireo,Vireos,eatenBy
+70058,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+70058,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+70058,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+70058,17394,Vireo gilvus,Warbling Vireo,eatenBy
+70058,17408,Vireo griseus,White-eyed Vireo,eatenBy
+70058,,Vireo flavifrons,,eatenBy
+70058,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+70058,,Empidonax alnorum,,eatenBy

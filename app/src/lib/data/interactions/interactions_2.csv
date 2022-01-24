@@ -1,0 +1,101 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+2,70152,Calliphora,,eatenBy
+2,449683,Phormia regina,Black Blow Fly,eatenBy
+2,128824,Lucilia sericata,Common European Greenbottle Fly,eatenBy
+2,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+2,558446,Circus hudsonius,Northern Harrier,eatenBy
+2,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+2,19893,Strix varia,Barred Owl,eatenBy
+2,4665,Falco sparverius,American Kestrel,eatenBy
+2,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+2,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+2,116999,Pandion haliaetus,Osprey,eatenBy
+2,20044,Bubo virginianus,Great Horned Owl,eatenBy
+2,20445,Tyto alba,Barn Owl,eatenBy
+2,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+2,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+2,4672,Falco columbarius,Merlin,eatenBy
+2,4940,Egretta thula,Snowy Egret,eatenBy
+2,5020,Butorides virescens,Green Heron,eatenBy
+2,4981,Nycticorax nycticorax,Black-crowned Night-Heron,eatenBy
+2,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+2,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+2,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+2,3793,Sula sula,Red-footed Booby,eatenBy
+2,3797,Sula leucogaster,Brown Booby,eatenBy
+2,4519,Uria aalge,Common Murre,eatenBy
+2,8010,Corvus corax,Common Raven,eatenBy
+2,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+2,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+2,6993,Bucephala albeola,Bufflehead,eatenBy
+2,7998,Corvus,Crows and Ravens,eatenBy
+2,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+2,93644,Alepisaurus ferox,Longnose Lancetfish,eatenBy
+2,465054,Pseudopleuronectes yokohamae,Marbled Flounder,eatenBy
+2,128750,Sciaenops ocellatus,Red Drum,eatenBy
+2,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+2,57814,Pogonias cromis,Black Drum,eatenBy
+2,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+2,101057,Fundulus grandis,Gulf Killifish,eatenBy
+2,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+2,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+2,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+2,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+2,179456,Stellifer lanceolatus,American Stardrum,eatenBy
+2,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+2,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+2,,Illosporium curreyi,,eatenBy
+2,,Podops inuncta,,eatenBy
+2,322691,Cynomya mortuorum,Yellow-faced Blowfly,eatenBy
+2,1098961,Sarcophaga carnaria,Cryptic carnaria-group Flesh Flies,eatenBy
+2,950225,Ravinia pernix,,eatenBy
+2,1200596,Sarcophaga jacobsoni,,eatenBy
+2,233070,Trox scaber,,eatenBy
+2,493530,Trox perlatus,,eatenBy
+2,849870,Trox sabulosus,,eatenBy
+2,5063,Anhinga anhinga,Anhinga,eatenBy
+2,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+2,15884,Hylophylax naevioides,Spotted Antbird,eatenBy
+2,12883,Catharus minimus,Gray-cheeked Thrush,eatenBy
+2,15767,Thamnophilus punctatus,Northern Slaty-Antshrike,eatenBy
+2,11649,Sclerurus guatemalensis,Scaly-throated Leaftosser,eatenBy
+2,9017,Formicarius analis,Black-faced Antthrush,eatenBy
+2,72833,Epinecrophylla fulviventris,Checker-throated Stipplethroat,eatenBy
+2,554103,Poliocrania exsul,Chestnut-backed Antbird,eatenBy
+2,10890,Dendrocincla fuliginosa,Plain-brown Woodcreeper,eatenBy
+2,2163,Baryphthengus martii,Rufous Motmot,eatenBy
+2,16748,Attila spadiceus,Bright-rumped Attila,eatenBy
+2,145225,Geothlypis formosa,Kentucky Warbler,eatenBy
+2,,Gymnopithys leucaspis bicolor,,eatenBy
+2,10871,Dendrocincla homochroa,Ruddy Woodcreeper,eatenBy
+2,15920,Phaenostictus mcleannani,Ocellated Antbird,eatenBy
+2,7574,Cyphorhinus phaeocephalus,Song Wren,eatenBy
+2,11072,Xiphorhynchus guttatus,Buff-throated Woodcreeper,eatenBy
+2,,Corvus caurinus,,eatenBy
+2,6902,Thalassornis leuconotus,White-backed Duck,eatenBy
+2,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+2,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+2,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+2,19975,Athene cunicularia,Burrowing Owl,eatenBy
+2,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+2,199913,Buteo plagiatus,Gray Hawk,eatenBy
+2,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+2,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+2,19798,Megascops trichopsis,Whiskered Screech-Owl,eatenBy
+2,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+2,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+2,5416,Ictinia mississippiensis,Mississippi Kite,eatenBy
+2,19959,Strix occidentalis,Spotted Owl,eatenBy
+2,201043,Geranoaetus albicaudatus,White-tailed Hawk,eatenBy
+2,20307,Asio otus,Long-eared Owl,eatenBy
+2,144594,Bubo scandiacus,Snowy Owl,eatenBy
+2,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+2,5355,Parabuteo unicinctus,Harris's Hawk,eatenBy
+2,5233,Buteogallus anthracinus,Common Black Hawk,eatenBy
+2,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+2,20372,Surnia ulula,Northern Hawk Owl,eatenBy
+2,4938,Egretta tricolor,Tricolored Heron,eatenBy
+2,4937,Egretta caerulea,Little Blue Heron,eatenBy
+2,5017,Bubulcus ibis,Cattle Egret,eatenBy
+2,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+2,3788,Sula dactylatra,Masked Booby,eatenBy

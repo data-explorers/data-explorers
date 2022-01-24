@@ -1,0 +1,99 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+248332,432545,Todarodes sagittatus,European Flying Squid,eatenBy
+248332,41566,Megaptera novaeangliae,Humpback Whale,eatenBy
+248332,41553,Balaenoptera musculus,Blue Whale,eatenBy
+248332,41550,Balaenoptera acutorostrata,Minke Whale,eatenBy
+248332,41562,Balaenoptera physalus,Fin Whale,eatenBy
+248332,7131,Tachyeres,Steamer Ducks,eatenBy
+248332,63740,Gadus morhua,Atlantic Cod,eatenBy
+248332,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+248332,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+248332,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+248332,118601,Trisopterus luscus,Pouting,eatenBy
+248332,110367,Prionotus stephanophrys,Lumptail Searobin,eatenBy
+248332,530244,Pristipomoides sieboldii,Lavender Snapper,eatenBy
+248332,49748,Serranus,,eatenBy
+248332,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+248332,108196,Pagrus pagrus,Red Porgy,eatenBy
+248332,179506,Pareques umbrosus,Cubbyu,eatenBy
+248332,131534,Rypticus bistrispinus,Freckled Soapfish,eatenBy
+248332,131480,Serranus notospilus,Saddle Bass,eatenBy
+248332,699754,Eledone massyae,Combed Octopus,eatenBy
+248332,260237,Aristaeopsis edwardsiana,Scarlet Gamba Prawn,eatenBy
+248332,295630,Aristaeomorpha foliacea,Giant red shrimp,eatenBy
+248332,652685,Bathypolypus sponsalis,Globose Octopus,eatenBy
+248332,,Chaceon ramosae,,eatenBy
+248332,41559,Balaenoptera borealis,Sei Whale,eatenBy
+248332,496994,Kathetostoma giganteum,New Zealand Monkfish,eatenBy
+248332,511413,Cyttus traversi,King Dory,eatenBy
+248332,179561,Bothus robinsi,Twospot Flounder,eatenBy
+248332,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+248332,101184,Galeus melastomus,Blackmouth Catshark,eatenBy
+248332,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+248332,112295,Schroederichthys bivius,Narrowmouthed Catshark,eatenBy
+248332,118629,Helicolenus dactylopterus,Blackbelly Rosefish,eatenBy
+248332,86897,Bathyraja,,eatenBy
+248332,618322,Patagonotothen ramsayi,Longtail southern cod,eatenBy
+248332,120709,Coelorinchus caelorhincus,Saddled Grenadier,eatenBy
+248332,530305,Malacocephalus laevis,Smooth Whiptail,eatenBy
+248332,98256,Coelorinchus occa,Swordsnout Grenadier,eatenBy
+248332,105109,Malacocephalus occidentalis,Western Softhead Grenadier,eatenBy
+248332,619085,Bembrops heterurus,,eatenBy
+248332,617016,Coelorinchus marinii,,eatenBy
+248332,,Trisopterus minutus,,eatenBy
+248332,215458,Brosme brosme,Cusk,eatenBy
+248332,48402,Amblyraja radiata,Thorny Skate,eatenBy
+248332,118614,Phycis phycis,Forkbeard,eatenBy
+248332,317257,Ophichthus cruentifer,Margined Snake Eel,eatenBy
+248332,56043,Stenotomus chrysops,Scup,eatenBy
+248332,104535,Leucoraja garmani,Rosette Skate,eatenBy
+248332,450416,Peristedion miniatum,Armored Searobin,eatenBy
+248332,194899,Pristipomoides zonatus,Oblique-banded Snapper,eatenBy
+248332,317313,Prionotus alatus,Spiny Searobin,eatenBy
+248332,179454,Syacium papillosum,Dusky Flounder,eatenBy
+248332,179493,Pontinus longispinis,Longspine Scorpionfish,eatenBy
+248332,131520,Trichopsetta ventralis,Sash Flounder,eatenBy
+248332,317377,Serraniculus pumilio,Pygmy sea bass,eatenBy
+248332,317356,Scorpaena calcarata,Smoothhead Scorpionfish,eatenBy
+248332,317316,Prionotus roseus,Blue-spotted Searobin,eatenBy
+248332,131452,Bellator militaris,Horned Searobin,eatenBy
+248332,316996,Bembrops anatirostris,Duckbill Flathead,eatenBy
+248332,179458,Serranus atrobranchus,Blackear bass,eatenBy
+248332,616982,Coelorinchus caribbaeus,,eatenBy
+248332,154441,Lepophidium brevibarbe,Blackedge Cusk-eel,eatenBy
+248332,179490,Prionotus rubio,Blackwing Searobin,eatenBy
+248332,131454,Halieutichthys aculeatus,Pancake Batfish,eatenBy
+248332,131427,Synodus poeyi,Offshore Lizardfish,eatenBy
+248332,317226,Monolene sessilicauda,Deepwater Flounder,eatenBy
+248332,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+248332,131407,Rhynchoconger flavus,Conger eel,eatenBy
+248332,324536,Palinurus elephas,European Spiny Lobster,eatenBy
+248332,52522,Ovalipes,,preyedUponBy
+248332,54539,Syngnathus,Pipe-fishes,preyedUponBy
+248332,53739,Cancer irroratus,Atlantic Rock Crab,preyedUponBy
+248332,96740,Caranx crysos,Blue Runner,preyedUponBy
+248332,51405,Elops saurus,Ladyfish,preyedUponBy
+248332,49421,Diplectrum formosum,Sand Perch,preyedUponBy
+248332,82264,Chilomycterus schoepfii,Striped Burrfish,preyedUponBy
+248332,83439,Centropristis striata,Black Sea Bass,preyedUponBy
+248332,47242,Fistularia tabacaria,Atlantic Bluespotted Cornetfish,preyedUponBy
+248332,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+248332,213402,Ammodytes americanus,American Sand Lance,preyedUponBy
+248332,93844,Ameiurus catus,White Catfish,preyedUponBy
+248332,131458,Diplectrum bivittatum,Dwarf Sand Perch,preyedUponBy
+248332,49431,Orthopristis chrysoptera,Pigfish,preyedUponBy
+248332,49225,Alosa aestivalis,Blueback Shad,preyedUponBy
+248332,194675,Lophius americanus,American Monkfish,preyedUponBy
+248332,233276,Urophycis regia,Spotted Hake,preyedUponBy
+248332,113308,Strongylura marina,Atlantic Needlefish,preyedUponBy
+248332,179469,Selene vomer,Lookdown,preyedUponBy
+248332,179445,Trachinotus falcatus,Permit,preyedUponBy
+248332,47230,Caranx hippos,Atlantic Crevalle Jack,preyedUponBy
+248332,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+248332,146796,Sphoeroides maculatus,Northern Puffer,preyedUponBy
+248332,112459,Semotilus corporalis,Fallfish,preyedUponBy
+248332,179454,Syacium papillosum,Dusky Flounder,preyedUponBy
+248332,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy
+248332,317228,Mullus auratus,Red Goatfish,preyedUponBy
+248332,62393,Cancer borealis,Jonah Crab,preyedUponBy
+248332,179444,Upeneus parvus,Dwarf Goatfish,preyedUponBy

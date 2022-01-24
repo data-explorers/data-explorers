@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117709,153112,Euphausiacea,krill,eats
+117709,85493,Crustacea,Crustaceans,eats
+117709,,Aneura lobata,,eats
+117709,,Medusozoa,,eats
+117709,245339,Halicreatidae,,eats
+117709,777049,Calycophorae,,eatenBy
+117709,634585,Physonectae,,eatenBy
+117709,128782,Prayidae,,eatenBy
+117709,60670,Mitrocomidae,,eatenBy
+117709,51511,Beroidae,,eatenBy
+117709,152823,Siphonophorae,Siphonophores,eatenBy
+117709,195427,Cuninidae,,eatenBy
+117709,195418,Aeginidae,,eatenBy

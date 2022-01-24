@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5277,44419,Reithrodontomys,American Harvest Mice,eats
+5277,3,Aves,Birds,eats
+5277,44326,Microtus californicus,California Vole,eats
+5277,46342,Sorex,Long-tailed Shrews,eats
+5277,44349,Peromyscus,North American Deer Mice,eats
+5277,43698,Rodentia,Rodents,eats
+5277,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+5277,44737,Neotoma,Woodrats,eats
+5277,44061,Thomomys,Western Pocket Gophers,eats
+5277,40151,Mammalia,Mammals,eats
+5277,7251,Passeriformes,Perching Birds,eats
+5277,44259,Microtus,Meadow Voles,eats
+5277,47158,Insecta,Insects,eats
+5277,44185,Muridae,Old World Mice and Rats,eats
+5277,355675,Vertebrata,Vertebrates,eats
+5277,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+5277,44062,Thomomys bottae,Botta's Pocket Gopher,eats
+5277,,Liolaemus,,eats
+5277,9183,Zonotrichia capensis,Rufous-collared Sparrow,eats
+5277,44705,Mus musculus,House Mouse,eats
+5277,,Abrothrix longipilis,,eats
+5277,,Phyllotis darwini,,eats
+5277,,Octodon degus,,eats
+5277,,Abrothrix olivaceus,,eats
+5277,44824,Oligoryzomys longicaudatus,long-tailed pygmy rice rat,eats
+5277,,Perognathus,,eats
+5277,,Dipodomys,,eats
+5277,,Sigmodon hispidus,,eats
+5277,44326,Microtus californicus,California Vole,preysOn
+5277,44062,Thomomys bottae,Botta's Pocket Gopher,preysOn
+5277,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",preysOn
+5277,40151,Mammalia,Mammals,preysOn

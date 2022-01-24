@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130091,,Detritus,,eats
+130091,,plankton,,eats
+130091,,Zooplankton,,eats
+130091,,Phytoplankton,,eats
+130091,,PhytoP,,eats
+130091,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+130091,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+130091,,Carcinides,,eatenBy
+130091,,Leptasterias,,eatenBy
+130091,,Cribrina,,eatenBy
+130091,338159,Acreichthys tomentosus,Bristle-tail Leatherjacket,eatenBy
+130091,61383,Homarus americanus,American Lobster,eatenBy
+130091,,Zooplankton,,preysOn
+130091,203761,Nucella lapillus,Atlantic Dogwhelk,preyedUponBy
+130091,48173,Pagurus,,preyedUponBy
+130091,47490,Polychaeta,Polychaete Worms,preyedUponBy
+130091,,Leptasterias,,preyedUponBy
+130091,,Cribrina,,preyedUponBy
+130091,,Pisces,,preyedUponBy
+130091,292602,Stramonita haemastoma,Red-mouthed Dog Winkle,preyedUponBy
+130091,482487,Mangelia,,preyedUponBy

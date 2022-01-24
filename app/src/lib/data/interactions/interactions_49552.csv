@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49552,47157,Lepidoptera,Butterflies and Moths,eats
+49552,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+49552,126513,Larinioides cornutus,Furrow Orbweaver,eats
+49552,47157,Lepidoptera,Butterflies and Moths,preysOn
+49552,52884,Gryllidae,True Crickets,preysOn
+49552,48670,Noctuidae,Cutworm Moths and Allies,preysOn
+49552,47535,Araneidae,Orbweavers,preysOn
+49552,61524,Forficula auricularia,European Earwig,preysOn

@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56062,55626,Pieris rapae,Cabbage White,eatenBy
+56062,,Anthocharis cardamines,,eatenBy
+56062,,Pieris napi,,eatenBy
+56062,,Athalia ancilla,,eatenBy
+56062,,Athalia liberta,,eatenBy

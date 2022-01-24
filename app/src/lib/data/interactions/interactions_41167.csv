@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41167,43328,Equidae,Equines,eats
+41167,40151,Mammalia,Mammals,eats
+41167,43583,Homo,Ancestral and Modern Humans,eats
+41167,,Bovids,,eats
+41167,,Donkeys,,eats
+41167,,Dogs,,eats

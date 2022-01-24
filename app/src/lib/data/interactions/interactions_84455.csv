@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84455,76610,Daucus carota,wild carrot,eats
+84455,53858,Solanum tuberosum,potato,eats
+84455,54498,Beta vulgaris,Beet,eats
+84455,59790,Brassica rapa oleifera,Turnip-rape,eats
+84455,75869,Brassica napus,rapeseed,eats
+84455,48592,Allium cepa,Common Onion,eats
+84455,122976,Lactuca sativa,lettuce,eats
+84455,48448,Zea mays,Maize,eats
+84455,158190,Allium porrum,Leek,eats
+84455,58788,Apium graveolens,Celery,eats
+84455,57534,Miniopterus schreibersii,Schreibers' Long-fingered Bat,preyedUponBy

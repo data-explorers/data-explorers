@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48981,1,Animalia,Animals,eats
+48981,117713,Leucilla nuttingi,smooth urn sponge,eats
+48981,1179845,Leucandra losangelensis,,eats
+48981,345357,Leucandra heathi,Bristly Case Sponge,eats
+48981,117713,Leucilla nuttingi,smooth urn sponge,preysOn
+48981,1179845,Leucandra losangelensis,,preysOn

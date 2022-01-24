@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+247434,77739,Ligustrum japonicum,wax-leaf ligustrum,eats
+247434,52821,Achillea millefolium,Common Yarrow,eats
+247434,51769,Gaillardia,Blanket Flowers,eats
+247434,49674,Ceanothus,,eats
+247434,51822,Euphorbia,spurges,eats
+247434,,Hylocharis leucotis,,eatenBy
+247434,,Hypochoeris radicata,,pollinates
+247434,,Baeckea gunniana,,pollinates
+247434,,Gentianella diemensis,,pollinates
+247434,,Wahlenbergia ceracea,,pollinates
+247434,,Salix repens,,pollinates
+247434,119450,Calluna vulgaris,common heather,pollinates
+247434,,Hieracium umbellatum,,pollinates
+247434,,Olearia virgata,,pollinates
+247434,,Hebe,,pollinates
+247434,343255,Carrhotus xanthogramma,,preyedUponBy

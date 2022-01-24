@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+17355,1,Animalia,Animals,eats
+17355,47120,Arthropoda,Arthropods,eats
+17355,51146,Chrysomelidae,Leaf Beetles,eats
+17355,47157,Lepidoptera,Butterflies and Moths,eats
+17355,47208,Coleoptera,Beetles,eats
+17355,60748,Smilax,greenbriers,eats
+17355,47199,Ichneumonidae,Ichneumonid Wasps,eats
+17355,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+17355,47822,Diptera,Flies,eats
+17355,48201,Scarabaeidae,Scarabs,eats
+17355,52071,Psychodidae,Moth Flies and Sand Flies,eats
+17355,55596,Andricus,,eats
+17355,53648,Nomada,Nomad Bees,eats
+17355,47118,Araneae,Spiders,eats
+17355,48959,Reduviidae,Assassin Bugs,eats
+17355,47550,Tetragnatha,,eats
+17355,48987,Hippodamia convergens,Convergent Lady Beetle,eats
+17355,118950,Neoconocephalus,Common Coneheads,eats
+17355,53237,Cicadellidae,Typical Leafhoppers,eats
+17355,49995,Syrphidae,Hover Flies,eats
+17355,47158,Insecta,Insects,eats
+17355,119535,Phymata,Jagged Ambush Bugs,eats
+17355,62781,Camponotus,Carpenter and Sugar Ants,eats
+17355,47977,Argia,Dancers,eats
+17355,53275,Chironomidae,Non-biting Midges,eats
+17355,47961,Cerambycidae,Longhorn Beetles,eats
+17355,47336,Formicidae,Ants,eats
+17355,54964,Buprestidae,Metallic Wood-boring Beetles,eats
+17355,47114,Gastropoda,Gastropods,eats
+17355,118967,Psyllobora vigintimaculata,Twenty-spotted Lady Beetle,eats
+17355,54765,Rhus,sumacs,eats
+17355,261608,Neacoryphus bicrucis,White-crossed Seed Bug,eats
+17355,47124,Magnoliopsida,dicots,eats
+17355,60628,Tenthredinidae,Common Sawflies,eats
+17355,52689,Sambucus,elders,eats
+17355,47649,Acrididae,Short-horned Grasshoppers,eats
+17355,70144,Muscidae,House Flies and Allies,eats
+17355,48124,Tettigoniidae,Katydids,eats
+17355,57678,Lasioglossum,,eats
+17355,48111,Mantidae,Mantids,eats
+17355,54774,Viburnum,viburnums,eats
+17355,60773,Vitis,grapevines,eats
+17355,127593,Chloropidae,Frit Flies,eats
+17355,91217,Polygyra,Flatcoils,eats
+17355,48486,Coccinellidae,Lady Beetles,eats
+17355,52629,Araneus,Angulate and Roundshouldered Orbweavers,eats
+17355,249058,Kleidocerys,,eats
+17355,176326,Pachybrachis,Scriptured Leaf Beetles,eats
+17355,48988,Hippodamia,Oblong Lady Beetles,eats
+17355,47339,Formica,"Wood, Mound, and Field Ants",eats
+17355,47416,Lycosidae,Wolf Spiders,eats
+17355,53248,Elateridae,Click Beetles,eats
+17355,47193,Cornus,dogwoods,eats
+17355,119736,Banasa,,eats
+17355,69242,Callirhytis,,eats
+17355,47792,Odonata,Dragonflies and Damselflies,eats
+17355,51225,Tipulidae,Large Crane Flies,eats
+17355,47742,Pentatomidae,Stink Bugs,eats
+17355,128712,Coccinella californica,California Lady Beetle,eats
+17355,261558,Belonochilus numenius,Sycamore Seed Bug,eats
+17355,48139,Salticidae,Jumping Spiders,eats
+17355,141735,Sitona,,eats
+17355,132036,Phalacridae,Shining Flower Beetles,eats
+17355,70076,Euschistus,,eats
+17355,55489,Cycloneda munda,Polished Lady Beetle,eats
+17355,127347,Brochymena,Rough Stink Bugs,eats
+17355,133824,Chrysobothris,,eats
+17355,47928,Zygoptera,Damselflies,eats
+17355,53816,Tenebrionidae,Darkling Beetles,eats
+17355,63275,Tremex columba,Pigeon Horntail,eats
+17355,127741,Colletes,Cellophane Bees,eats
+17355,49456,Coccidae,Soft scales,eats
+17355,71130,Polyphaga,"Water, Rove, Scarab, Long-horned, Leaf, and Snout Beetles",eats
+17355,47866,Thomisidae,Crab Spiders,eats
+17355,129902,Camponotus pennsylvanicus,Eastern Black Carpenter Ant,eats
+17355,47367,Opiliones,Harvestmen,eats
+17355,143403,Myrmeleon,,eats
+17355,55558,Lygaeidae,Seed Bugs,eats
+17355,70058,Agrilus,,eats
+17355,129148,Alydus,,eats
+17355,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+17355,55594,Cynipidae,Gall Wasps,eats
+17355,48736,Curculionidae,True Weevils,eats
+17355,177080,Melanophila,,eats
+17355,47574,Juniperus,junipers,eats
+17355,211194,Tracheophyta,vascular plants,eats
+17355,58732,Toxicodendron radicans,poison ivy,eats
+17355,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+17355,83799,Mitchella repens,partridgeberry,eats
+17355,48599,Phytolacca americana,American pokeweed,eats
+17355,125845,Prunus caroliniana,Carolina laurelcherry,eats
+17355,,Non-biological,,eats
+17355,,Archips fumiferana,,eats
+17355,,Calamosternus granarius,,eats
+17355,,Pollenia rudis,,eats
+17355,229397,Ptilinus ruficornis,,eats
+17355,,Brochymena arborea,,eats
+17355,,Leptostylus,,eats
+17355,,Amblyteles,,eats
+17355,,Nemobius,,eats
+17355,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+17355,20315,Asio flammeus,Short-eared Owl,eatenBy

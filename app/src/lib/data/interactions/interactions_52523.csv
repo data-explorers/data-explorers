@@ -1,0 +1,332 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52523,81606,Littorina littorea,Common Periwinkle,eats
+52523,62807,Mytilus,Black Mussels,eats
+52523,52523,Carcinus maenas,European Green Crab,eats
+52523,81648,Mytilus galloprovincialis,Mediterranean Mussel,eats
+52523,50862,Codium,Codiums,eats
+52523,67423,Ulva lactuca,broadleaf sea lettuce,eats
+52523,343398,Saccorhiza polyschides,Furbellow,eats
+52523,130197,Ulva intestinalis,Gutweed,eats
+52523,48216,Fucus vesiculosus,bladder wrack,eats
+52523,123632,Corallina officinalis,Common Coralline,eats
+52523,130178,Sargassum,Sargassum,eats
+52523,68770,Ascophyllum nodosum,Knotted Wrack,eats
+52523,47115,Mollusca,Molluscs,eats
+52523,85493,Crustacea,Crustaceans,eats
+52523,47490,Polychaeta,Polychaete Worms,eats
+52523,47628,Amphipoda,Amphipods,eats
+52523,85912,Mysidae,,eats
+52523,47126,Plantae,plants,eats
+52523,47178,Actinopterygii,Ray-finned Fishes,eats
+52523,1,Animalia,Animals,eats
+52523,47584,Bivalvia,Bivalves,eats
+52523,48147,Isopoda,Isopods,eats
+52523,47186,Decapoda,Decapods,eats
+52523,49581,Nereididae,,eats
+52523,195011,Phyllodocidae,Paddle Worms,eats
+52523,210232,Scrobicularia plana,Peppery Furrow Shell,eats
+52523,337885,Cyathura carinata,,eats
+52523,338433,Heteromastus filiformis,,eats
+52523,338450,Melita palmata,,eats
+52523,347328,Glycera tridactyla,Glycerine Worm,eats
+52523,338451,Idotea chelipes,,eats
+52523,210230,Cerastoderma edule,Common Cockle,eats
+52523,521680,Lagis koreni,trumpet worm,eats
+52523,210216,Diopatra neapolitana,,eats
+52523,339241,Chaetozone setosa,,eats
+52523,,Detritus,,eats
+52523,118851,Crangon crangon,Brown Shrimp,eats
+52523,,Imports,,eats
+52523,,Oligochaets,,eats
+52523,482651,Haminoea hydatis,Southern Bubble-shell,eats
+52523,337827,Hediste diversicolor,Estuary Ragworm,eats
+52523,,Lumbrineris impatiens,,eats
+52523,338183,Peringia ulvae,Laver Spire-shell,eats
+52523,338449,Ampithoe valida,,eats
+52523,,Green macroalgae,,eats
+52523,650542,Aonides oxycephala,,eats
+52523,,Zooplankton,,eats
+52523,,Gibulla umbilicalis,,eats
+52523,,Litophyton,,eats
+52523,,Carrion,,eats
+52523,,Enteromorpha,,eats
+52523,356118,Fucus ceranoides,Horned wrack,eats
+52523,343396,Bifurcaria bifurcata,,eats
+52523,129737,Colpomenia peregrina,Oyster-thief,eats
+52523,,Cystoseira tamariscifolia,,eats
+52523,461577,Ellisolandia elongata,,eats
+52523,182852,Sphacelaria cirrosa,,eats
+52523,57779,Asparagopsis armata,Harpoonweed,eats
+52523,203723,Ceramium virgatum,,eats
+52523,,Gelidium spinosum,,eats
+52523,502380,Leathesia marina,Sea Cauliflower,eats
+52523,182834,Ectocarpus siliculosus,,eats
+52523,326759,Lithophyllum incrustans,,eats
+52523,130204,Mastocarpus stellatus,false Irish moss,eats
+52523,183154,Rhodomela confervoides,,eats
+52523,182991,Palmaria palmata,Dulse,eats
+52523,201435,Ulva linza,Green string lettuce,eats
+52523,,Padina pavonia,,eats
+52523,57772,Fucus serratus,Saw Wrack,eats
+52523,1027504,Ceramium ciliatum,,eats
+52523,790283,Gelidium corneum,,eats
+52523,543094,Lomentaria articulata,,eats
+52523,,Osmundea ramosissima,,eats
+52523,558165,Gracilariopsis longissima,,eats
+52523,51024,Dictyota dichotoma,Forked ribbons,eats
+52523,130176,Chondrus crispus,Irish moss,eats
+52523,701524,Furcellaria lumbricalis,,eats
+52523,,Polysiphonia sp.,,eats
+52523,130231,Saccharina latissima,Sea Belt,eats
+52523,,Nemalion helminthoides,,eats
+52523,1297852,Halurus equisetifolius,,eats
+52523,361840,Jania rubens,,eats
+52523,,Ensis directus,,eats
+52523,,sand,,eats
+52523,,unspecified Nephtydae,,eats
+52523,,Algae,,eats
+52523,123639,Spionidae,,eats
+52523,,Gnathostomata,,eats
+52523,,others,,eats
+52523,208367,Arenicolidae,lugworms,eats
+52523,,Mysidacea,,eats
+52523,47492,Terebellidae,Spaghetti Worms,eats
+52523,,Prymnesiophyceae,,eats
+52523,,Teleostei,,eats
+52523,94105,Anguilla anguilla,European Eel,eats
+52523,482650,Haminoea navicula,,eats
+52523,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+52523,99269,Dicentrarchus labrax,European Seabass,eatenBy
+52523,52523,Carcinus maenas,European Green Crab,eatenBy
+52523,61752,Raja microocellata,Smalleyed Skate,eatenBy
+52523,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+52523,3938,Arenaria interpres,Ruddy Turnstone,eatenBy
+52523,118601,Trisopterus luscus,Pouting,eatenBy
+52523,430553,Merlangius merlangus,Whiting,eatenBy
+52523,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+52523,101176,Galeorhinus galeus,School Shark,eatenBy
+52523,48397,Raja clavata,Thornback Skate,eatenBy
+52523,55396,Solea solea,Common Sole,eatenBy
+52523,56050,Mustelus mustelus,Common Smooth-hound,eatenBy
+52523,118706,Gobius paganellus,Rock Goby,eatenBy
+52523,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+52523,,Trisopterus minutus,,eatenBy
+52523,445609,Agonus cataphractus,Pogge,eatenBy
+52523,97990,Clupea harengus,Atlantic Herring,eatenBy
+52523,109631,Platichthys flesus,European Flounder,eatenBy
+52523,47523,Pleuronectes platessa,European Plaice,eatenBy
+52523,94105,Anguilla anguilla,European Eel,eatenBy
+52523,118589,Conger conger,European Conger,eatenBy
+52523,61387,Limanda limanda,Sand Dab,eatenBy
+52523,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+52523,99394,Dipturus batis,Common Skate,eatenBy
+52523,63740,Gadus morhua,Atlantic Cod,eatenBy
+52523,118610,Lophius piscatorius,Angler,eatenBy
+52523,118851,Crangon crangon,Brown Shrimp,eatenBy
+52523,337885,Cyathura carinata,,eatenBy
+52523,,Trigla lucerna,,eatenBy
+52523,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+52523,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+52523,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+52523,48402,Amblyraja radiata,Thorny Skate,eatenBy
+52523,93193,Acipenser sturio,European Sea Sturgeon,eatenBy
+52523,98753,Ctenolabrus rupestris,Goldsinny Wrasse,eatenBy
+52523,344748,Pomatoschistus minutus,Sand Goby,eatenBy
+52523,118704,Gobius niger,Black Goby,eatenBy
+52523,52731,Pampus argenteus,Silver pomfret,eatenBy
+52523,120669,Solea senegalensis,Senegalese Sole,eatenBy
+52523,111527,Raja montagui,Spotted Skate,eatenBy
+52523,7024,Somateria mollissima,Common Eider,eatenBy
+52523,49315,Octopus vulgaris,Common Octopus,eatenBy
+52523,324560,Alloteuthis media,Midsize Squid,eatenBy
+52523,,Calidris maritima,,eatenBy
+52523,226202,Octopus joubini,Atlantic Pygmy Octopus,eatenBy
+52523,61383,Homarus americanus,American Lobster,eatenBy
+52523,41733,Halichoerus grypus,Grey Seal,eatenBy
+52523,4368,Larus marinus,Great Black-backed Gull,eatenBy
+52523,210219,Necora puber,Velvet Swimming Crab,eatenBy
+52523,7067,Tadorna tadorna,Common Shelduck,eatenBy
+52523,1,Animalia,Animals,preysOn
+52523,52523,Carcinus maenas,European Green Crab,preysOn
+52523,118832,Semibalanus balanoides,Northern Acorn Barnacle,preysOn
+52523,47126,Plantae,plants,preysOn
+52523,81634,Mya arenaria,Soft-shelled Clam,preysOn
+52523,81606,Littorina littorea,Common Periwinkle,preysOn
+52523,117650,Mytilus edulis,Blue Mussel,preysOn
+52523,62807,Mytilus,Black Mussels,preysOn
+52523,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+52523,469347,Anomia ephippium,Saddle Oyster,preysOn
+52523,48032,Paracentrotus lividus,Atlantic Purple Sea Urchin,preysOn
+52523,446757,Acanthochitona crinita,Bristly Mail-shell,preysOn
+52523,50597,Cardiidae,Cockles,preysOn
+52523,47490,Polychaeta,Polychaete Worms,preysOn
+52523,121643,Copepoda,Copepods,preysOn
+52523,47158,Insecta,Insects,preysOn
+52523,128743,Chthamalus,,preysOn
+52523,47584,Bivalvia,Bivalves,preysOn
+52523,333586,Oligochaeta,Earthworms and allies,preysOn
+52523,85532,Mysida,Opossum Shrimps,preysOn
+52523,49532,Sphaeromatidae,Typical Seapills,preysOn
+52523,68764,Ostracoda,Seed Shrimp,preysOn
+52523,48919,Littorina,Periwinkles,preysOn
+52523,153169,Palaemon elegans,Rockpool Prawn,preysOn
+52523,203761,Nucella lapillus,Atlantic Dogwhelk,preysOn
+52523,81791,Nereis,,preysOn
+52523,343269,Ruditapes philippinarum,Japanese Littleneck,preysOn
+52523,1019030,Tubificoides pseudogaster,,preysOn
+52523,118851,Crangon crangon,Brown Shrimp,preysOn
+52523,,Maritrema subdolum,,preysOn
+52523,,Himasthla interrupta,,preysOn
+52523,,Elminius modestus,,preysOn
+52523,,Labratrema minumus,,preysOn
+52523,152971,Alitta virens,King Ragworm,preysOn
+52523,,Cryptocotyle jejuna,,preysOn
+52523,1023057,Eteone longa,,preysOn
+52523,,Malmgreniella lunulata,,preysOn
+52523,,Nereis diversicolor,,preysOn
+52523,210230,Cerastoderma edule,Common Cockle,preysOn
+52523,64707,Harmothoe,,preysOn
+52523,,Paramonostomum chabaudi,,preysOn
+52523,,Cryptocotyle lingua,,preysOn
+52523,,Tharyx killariensis,,preysOn
+52523,345092,Scoloplos armiger,,preysOn
+52523,338183,Peringia ulvae,Laver Spire-shell,preysOn
+52523,,Scololepis foliosa,,preysOn
+52523,,Himasthla continua,,preysOn
+52523,,Psilostomum brevicolle,,preysOn
+52523,338438,Tubificoides benedii,,preysOn
+52523,339222,Polydora cornuta,,preysOn
+52523,649224,Ampharete acutifrons,,preysOn
+52523,,Spio martinensis,,preysOn
+52523,208364,Arenicola marina,Blow Lugworm,preysOn
+52523,193990,Lepidonotus squamatus,Twelve-scaled Worm,preysOn
+52523,376960,Malacoceros,,preysOn
+52523,,Notocotylus ephemera,,preysOn
+52523,337474,Magelona mirabilis,bristleworm,preysOn
+52523,337476,Polydora ciliata,bristleworm,preysOn
+52523,1188785,Jaera albifrons,,preysOn
+52523,,Lanice chonchilega,,preysOn
+52523,,Microphallus claviformis,,preysOn
+52523,208368,Capitella capitata,,preysOn
+52523,688876,Scolelepis squamata,,preysOn
+52523,117672,Balanus crenatus,Wrinkled Barnacle,preysOn
+52523,,Renicola roscovita,,preysOn
+52523,,Macoma balthica,,preysOn
+52523,,Deropristis inflata,,preysOn
+52523,,Levinseniella brachysoma,,preysOn
+52523,338433,Heteromastus filiformis,,preysOn
+52523,,Cryptocotyle concavum,,preysOn
+52523,,Gymnophallus somateriae,,preysOn
+52523,,Himasthla elongata,,preysOn
+52523,338431,Pygospio elegans,,preysOn
+52523,,Ensis directus,,preysOn
+52523,510337,Nephtys hombergii,Catworm,preysOn
+52523,,Ceracaria #15,,preysOn
+52523,,Podocotyle atomon,,preysOn
+52523,,Gymnophallus choledochus,,preysOn
+52523,,Zooplankton,,preysOn
+52523,,Imports,,preysOn
+52523,337885,Cyathura carinata,,preysOn
+52523,347328,Glycera tridactyla,Glycerine Worm,preysOn
+52523,210232,Scrobicularia plana,Peppery Furrow Shell,preysOn
+52523,,Oligochaets,,preysOn
+52523,337827,Hediste diversicolor,Estuary Ragworm,preysOn
+52523,,Gibulla umbilicalis,,preysOn
+52523,338450,Melita palmata,,preysOn
+52523,338451,Idotea chelipes,,preysOn
+52523,338422,Corophium multisetosum,,preysOn
+52523,338449,Ampithoe valida,,preysOn
+52523,210216,Diopatra neapolitana,,preysOn
+52523,,Lumbrineris impatiens,,preysOn
+52523,,Nephthys,,preysOn
+52523,482651,Haminoea hydatis,Southern Bubble-shell,preysOn
+52523,339241,Chaetozone setosa,,preysOn
+52523,650542,Aonides oxycephala,,preysOn
+52523,521680,Lagis koreni,trumpet worm,preysOn
+52523,,Jaera marina,,preysOn
+52523,,Littorina saxatilis,,preysOn
+52523,377210,Nematodes,Nematodes False Click Beetles,preysOn
+52523,52523,Carcinus maenas,European Green Crab,preyedUponBy
+52523,6930,Anas platyrhynchos,Mallard,preyedUponBy
+52523,320326,Ciliata mustela,Five-bearded Rockling,preyedUponBy
+52523,41708,Phoca vitulina,Harbor Seal,preyedUponBy
+52523,3901,Numenius phaeopus,Whimbrel,preyedUponBy
+52523,3951,Limosa lapponica,Bar-tailed Godwit,preyedUponBy
+52523,99269,Dicentrarchus labrax,European Seabass,preyedUponBy
+52523,210294,Lipophrys pholis,Shanny,preyedUponBy
+52523,47490,Polychaeta,Polychaete Worms,preyedUponBy
+52523,130085,Actinia equina,Beadlet anemone,preyedUponBy
+52523,117520,Enhydra lutris nereis,Southern Sea Otter,preyedUponBy
+52523,4381,Larus fuscus,Lesser Black-backed Gull,preyedUponBy
+52523,4626,Gavia immer,Common Loon,preyedUponBy
+52523,4843,Haematopus ostralegus,Eurasian Oystercatcher,preyedUponBy
+52523,118851,Crangon crangon,Brown Shrimp,preyedUponBy
+52523,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+52523,94105,Anguilla anguilla,European Eel,preyedUponBy
+52523,,Cyclopeterus lumpus,,preyedUponBy
+52523,204533,Larus argentatus,Herring Gull,preyedUponBy
+52523,47639,Myoxocephalus scorpius,Shorthorn Sculpin,preyedUponBy
+52523,7024,Somateria mollissima,Common Eider,preyedUponBy
+52523,110042,Pomatoschistus microps,Common Goby,preyedUponBy
+52523,7067,Tadorna tadorna,Common Shelduck,preyedUponBy
+52523,3857,Calidris alpina,Dunlin,preyedUponBy
+52523,3896,Numenius arquata,Eurasian Curlew,preyedUponBy
+52523,344748,Pomatoschistus minutus,Sand Goby,preyedUponBy
+52523,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+52523,3878,Tringa nebularia,Common Greenshank,preyedUponBy
+52523,4450,Sterna hirundo,Common Tern,preyedUponBy
+52523,4889,Pluvialis apricaria,European Golden Plover,preyedUponBy
+52523,483237,Zoarces viviparus,Viviparous Blenny,preyedUponBy
+52523,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+52523,,Sterna paradisaca,,preyedUponBy
+52523,4356,Larus canus,Mew Gull,preyedUponBy
+52523,,Chroicocephalus ridibundus,,preyedUponBy
+52523,3882,Tringa erythropus,Spotted Redshank,preyedUponBy
+52523,4801,Charadrius hiaticula,Common Ringed Plover,preyedUponBy
+52523,3879,Tringa totanus,Common Redshank,preyedUponBy
+52523,109631,Platichthys flesus,European Flounder,preyedUponBy
+52523,204496,Corvus corone,Carrion Crow,preyedUponBy
+52523,337885,Cyathura carinata,,preyedUponBy
+52523,118589,Conger conger,European Conger,preyedUponBy
+52523,,Trigla lucerna,,preyedUponBy
+52523,8029,Corvus frugilegus,Rook,preyedUponBy
+52523,4368,Larus marinus,Great Black-backed Gull,preyedUponBy
+52523,4954,Ardea cinerea,Grey Heron,preyedUponBy
+52523,228496,Pollachius virens,Pollock,preyedUponBy
+52523,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy
+52523,56042,Prionotus carolinus,Northern Searobin,preyedUponBy
+52523,152971,Alitta virens,King Ragworm,preyedUponBy
+52523,,Asterina gibbosa,,preyedUponBy
+52523,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+52523,471086,Liocarcinus corrugatus,Wrinkled Swimming Crab,preyedUponBy
+52523,118706,Gobius paganellus,Rock Goby,preyedUponBy
+52523,118619,Mullus surmuletus,Striped Red Mullet,preyedUponBy
+52523,,Gadhus morhua,,preyedUponBy
+52523,96913,Centrolabrus exoletus,Small-mouthed Wrasse,preyedUponBy
+52523,113533,Symphodus melops,Corkwing Wrasse,preyedUponBy
+52523,53607,Polynoidae,Scaleworms,preyedUponBy
+52523,98753,Ctenolabrus rupestris,Goldsinny Wrasse,preyedUponBy
+52523,118704,Gobius niger,Black Goby,preyedUponBy
+52523,363797,Gaidropsarus vulgaris,Three-bearded Rockling,preyedUponBy
+52523,4272,Phalacrocorax aristotelis,European Shag,preyedUponBy
+52523,118720,Eutrigla gurnardus,Grey Gurnard,preyedUponBy
+52523,527655,Liocarcinus navigator,Arch-fronted Swimming Crab,preyedUponBy
+52523,62410,Homarus gammarus,European lobster,preyedUponBy
+52523,106881,Nephrops norvegicus,Norway lobster,preyedUponBy
+52523,48397,Raja clavata,Thornback Skate,preyedUponBy
+52523,103911,Labrus bergylta,Ballan Wrasse,preyedUponBy
+52523,55396,Solea solea,Common Sole,preyedUponBy
+52523,103913,Labrus mixtus,Cuckoo Wrasse,preyedUponBy
+52523,342285,Lipophrys trigloides,,preyedUponBy
+52523,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+52523,210219,Necora puber,Velvet Swimming Crab,preyedUponBy
+52523,120553,Cancer pagurus,Edible Crab,preyedUponBy
+52523,545754,Carcinonemertes carcinophila,crab nemertean,preyedUponBy
+52523,52731,Pampus argenteus,Silver pomfret,preyedUponBy
+52523,82351,Melanogrammus aeglefinus,Haddock,preyedUponBy
+52523,120669,Solea senegalensis,Senegalese Sole,preyedUponBy
+52523,93193,Acipenser sturio,European Sea Sturgeon,preyedUponBy
+52523,226202,Octopus joubini,Atlantic Pygmy Octopus,preyedUponBy
+52523,61383,Homarus americanus,American Lobster,preyedUponBy
+52523,41733,Halichoerus grypus,Grey Seal,preyedUponBy
+52523,14849,Sturnus unicolor,Spotless Starling,preyedUponBy

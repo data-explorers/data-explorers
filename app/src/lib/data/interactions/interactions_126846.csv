@@ -1,0 +1,132 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126846,48661,Adelpha,Sisters,eatenBy
+126846,47219,Apis mellifera,Western Honey Bee,eatenBy
+126846,126532,Toxomerus geminatus,Eastern Calligrapher,eatenBy
+126846,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+126846,122381,Cupido comyntas,Eastern Tailed-Blue,eatenBy
+126846,12705,Turdus,Typical Thrushes,eatenBy
+126846,40871,Pteropus seychellensis,Seychelles flying fox,eatenBy
+126846,,Eidolon helvum,,eatenBy
+126846,,Papilio ulysses,,eatenBy
+126846,,Xylocopa virginica,,eatenBy
+126846,,Chlorostilbon notatus,,eatenBy
+126846,,Chrysolampis mosquitus,,eatenBy
+126846,202649,Hyblaea puera,Teak Defoliator,eatenBy
+126846,,Phenacephorus auriculatus,,eatenBy
+126846,,Acherontia styx,,eatenBy
+126846,,Litosphingia corticea,,eatenBy
+126846,,Pleuroptya balteata,,eatenBy
+126846,,Protesilaus helios,,eatenBy
+126846,199438,Orgyia postica,Cocoa Tussock Moth,eatenBy
+126846,,Theagenes dichrous,,eatenBy
+126846,,Derambila fragilis,,eatenBy
+126846,,Xyleutes ceramica,,eatenBy
+126846,1292389,Parasa lepida,,eatenBy
+126846,,Hylobates agilis,,eatenBy
+126846,,Presbytis melalophos,,eatenBy
+126846,,Hylobates syndactylus,,eatenBy
+126846,,Macaca sinica,,eatenBy
+126846,16787,Tyrannus melancholicus,Tropical Kingbird,eatenBy
+126846,,Icterus cayanensis,,eatenBy
+126846,10293,Thraupis sayaca,Sayaca Tanager,eatenBy
+126846,16956,Pitangus sulphuratus,Great Kiskadee,eatenBy
+126846,9292,Euphonia chlorotica,Purple-throated Euphonia,eatenBy
+126846,,Cerdocyon thous,,eatenBy
+126846,,Turdus rufiventris,,eatenBy
+126846,12710,Turdus amaurochalinus,Creamy-bellied Thrush,eatenBy
+126846,,Nasua nasua,,eatenBy
+126846,475232,Protesilaus protesilaus,Great Kite-Swallowtail,eatenBy
+126846,,Protesilaus stenodesmus,,eatenBy
+126846,,Acraea violae,,eatenBy
+126846,,Chiomara asychis,,eatenBy
+126846,,Chiomara mithrax,,eatenBy
+126846,9183,Zonotrichia capensis,Rufous-collared Sparrow,eatenBy
+126846,,Elaenia,,eatenBy
+126846,9861,Saltator similis,Green-winged Saltator,eatenBy
+126846,10310,Coryphospingus cucullatus,Red-crested Finch,eatenBy
+126846,14878,Mimus saturninus,Chalk-browed Mockingbird,eatenBy
+126846,16793,Tyrannus savana,Fork-tailed Flycatcher,eatenBy
+126846,,Thraupis bonariensis,,eatenBy
+126846,17421,Cyclarhis gujanensis,Rufous-browed Peppershrike,eatenBy
+126846,,Semnopithecus vetulus,,eatenBy
+126846,1071036,Semnopithecus priam,Tufted Gray Langur,eatenBy
+126846,,Vitex doniana,,eatenBy
+126846,,Cephalophus dorsalis,,eatenBy
+126846,42424,Sylvicapra grimmia,Bush Duiker,eatenBy
+126846,,Tockus,,eatenBy
+126846,,Loxodonta africana,,eatenBy
+126846,,Treron calvus,,eatenBy
+126846,,Tragelaphus scriptus,,eatenBy
+126846,,Neotragus moschatus,,eatenBy
+126846,,Papio cynocephalus,,eatenBy
+126846,,Otolemur garnettii,,eatenBy
+126846,,Nandinia binotata,,eatenBy
+126846,,Ploceus cucullatus,,eatenBy
+126846,40092,Stigmochelys pardalis,Leopard Tortoise,eatenBy
+126846,,Ichneumia albicauda,,eatenBy
+126846,,Epomophorus wahlbergi,,eatenBy
+126846,,Francolinus afer,,eatenBy
+126846,,Kinixys belliana,,eatenBy
+126846,,Cephalophus nigrifrons,,eatenBy
+126846,41599,Genetta maculata,Rusty-spotted Genet,eatenBy
+126846,44173,Hystrix africaeaustralis,Cape Porcupine,eatenBy
+126846,,Colius striatus,,eatenBy
+126846,,Broadleysaurus major major,,eatenBy
+126846,,Philantomba monticola,,eatenBy
+126846,,Cephalophus silvicultor,,eatenBy
+126846,41627,Civettictis civetta,African Civet,eatenBy
+126846,,Cephalophus,,eatenBy
+126846,,Colobus angolensis,,eatenBy
+126846,,Bycanistes brevis,,eatenBy
+126846,,Cricetomys gambianus,,eatenBy
+126846,43486,Cercopithecus mitis,Blue Monkey,eatenBy
+126846,42105,Hyemoschus aquaticus,Water Chevrotain,eatenBy
+126846,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+126846,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+126846,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+126846,,Chalicodoma,,pollinatedBy
+126846,,Scolia historionica japonica ,,pollinatedBy
+126846,,Protaetia orientalis ,,pollinatedBy
+126846,,,,pollinatedBy
+126846,,Megachile subalbuta ,,pollinatedBy
+126846,,Campsomeris primatica ,,pollinatedBy
+126846,,Anterhynchium flavomarginatum,,pollinatedBy
+126846,,Scolia oculata ,,pollinatedBy
+126846,428357,Bombus ignitus,Fiery-tailed Bumble Bee,pollinatedBy
+126846,,Polistes jadwigae ,,pollinatedBy
+126846,,Campsomeris,,pollinatedBy
+126846,,Ceratina japonica ,,pollinatedBy
+126846,,Sastragala scutellata ,,pollinatedBy
+126846,,Megachile tsurugensis ,,pollinatedBy
+126846,,Lasioglossum mutilum ,,pollinatedBy
+126846,,Megachile kobensis ,,pollinatedBy
+126846,,Eumenes rubronotatus ,,pollinatedBy
+126846,,Nonartha cyaneum ,,pollinatedBy
+126846,,Megachile pseudomonticola ,,pollinatedBy
+126846,,Vespa xanthoptera ,,pollinatedBy
+126846,,Chalicodoma disjunctiformis ,,pollinatedBy
+126846,,Andrena protomias ,,pollinatedBy
+126846,,Halictus aerarius ,,pollinatedBy
+126846,,Eurystylus coelestialium ,,pollinatedBy
+126846,,Cerceris japonica ,,pollinatedBy
+126846,,Eumenes decorata ,,pollinatedBy
+126846,,Apis cerana,,pollinatedBy
+126846,,Chalicodoma sculpturalis ,,pollinatedBy
+126846,,Anthrenus verbasci ,,pollinatedBy
+126846,,Coelioxys fenestrata ,,pollinatedBy
+126846,,Pieris rapae ,,pollinatedBy
+126846,,Lasioglossum occidens,,pollinatedBy
+126846,,Anthidium septemspinosum ,,pollinatedBy
+126846,,Callosobruchus chinensis ,,pollinatedBy
+126846,,Oxycetonia jucunda ,,pollinatedBy
+126846,,Ammophila clavus ,,pollinatedBy
+126846,,Papilix Protenor demetrius ,,pollinatedBy
+126846,,Megaspis zonata ,,pollinatedBy
+126846,,Ceratina flavipes ,,pollinatedBy
+126846,,Bruchidius urbanus ,,pollinatedBy
+126846,,Papilio xuthus ,,pollinatedBy
+126846,,Cerceris albofasciata ,,pollinatedBy
+126846,,Xylocopa appendiculata,,pollinatedBy
+126846,,Euapis basalis ,,pollinatedBy
+126846,,Polistes testaceicolor,,pollinatedBy
+126846,,Megachile nipponica ,,pollinatedBy

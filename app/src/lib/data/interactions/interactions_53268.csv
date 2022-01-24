@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53268,,Smilacin stellata,,eats
+53268,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+53268,3108,Patagioenas fasciata,Band-tailed Pigeon,eatenBy
+53268,41641,Ursus arctos,Brown Bear,eatenBy
+53268,,Synchysa tricincta,,eatenBy
+53268,57677,Halictus,Furrow Bees,pollinatedBy
+53268,449683,Phormia regina,Black Blow Fly,pollinatedBy
+53268,47208,Coleoptera,Beetles,pollinatedBy
+53268,47822,Diptera,Flies,pollinatedBy
+53268,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+53268,,Ripiphorus,,pollinatedBy
+53268,,Pachyophthalmus,,pollinatedBy
+53268,,Oxybelus inornatus,,pollinatedBy
+53268,199064,Sphecodes minor,minor cuckoo sweat bee,pollinatedBy
+53268,,Strangalia famelica,,pollinatedBy
+53268,,Limnophora narona,,pollinatedBy
+53268,,Callandrena,,pollinatedBy
+53268,52925,Phyciodes tharos,Pearl Crescent,pollinatedBy
+53268,,Ceropales,,pollinatedBy
+53268,,Bracon,,pollinatedBy
+53268,336738,Leschenaultia,,pollinatedBy
+53268,,Tryphon americanus,,pollinatedBy
+53268,198952,Calliopsis andreniformis,Eastern Miner Bee,pollinatedBy
+53268,,Pyrota mylabrina,,pollinatedBy
+53268,452831,Mydaea,,pollinatedBy
+53268,,Conura torvina,,pollinatedBy
+53268,,Epeolus pusillus,,pollinatedBy
+53268,,Phyto,,pollinatedBy
+53268,,Pseudopanurgus compositarum,,pollinatedBy
+53268,,Apallates coxendix,,pollinatedBy

@@ -1,0 +1,260 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+342912,47114,Gastropoda,Gastropods,eats
+342912,49796,Stomatopoda,Mantis Shrimps,eats
+342912,47628,Amphipoda,Amphipods,eats
+342912,47297,Palinuridae,Spiny Lobsters,eats
+342912,48147,Isopoda,Isopods,eats
+342912,47490,Polychaeta,Polychaete Worms,eats
+342912,48173,Pagurus,,eats
+342912,121639,Brachyura,True Crabs,eats
+342912,47584,Bivalvia,Bivalves,eats
+342912,342912,Caridea,Caridean Shrimps,eats
+342912,48836,Ophiuroidea,Brittle Stars,eats
+342912,1,Animalia,Animals,eats
+342912,47120,Arthropoda,Arthropods,eats
+342912,47178,Actinopterygii,Ray-finned Fishes,eats
+342912,47459,Cephalopoda,Cephalopods,eats
+342912,67333,Bacteria,bacteria,eats
+342912,121643,Copepoda,Copepods,eats
+342912,,Benthic autotrophs,,eats
+342912,,Scyllarides,,eats
+342912,,Detritus,,eats
+342912,,Zooplankton,,eats
+342912,83718,Tanaidacea,Tanaids,eats
+342912,67990,Scaphopoda,Tusk Shells,eats
+342912,,no name,,eats
+342912,325300,Abdopus,Indo-Pacific Longarm Octopuses,eats
+342912,,Microfauna,,eats
+342912,,Wigeongrass,,eats
+342912,,Phytoplankton,,eats
+342912,,Infauna,,eats
+342912,,Suprabenthos,,eats
+342912,,Benthic producer,,eats
+342912,,fungi associated with detritus,,eats
+342912,,Pyrrophycophyta,,eats
+342912,152224,Coccosphaerales,,eats
+342912,,bacteria - fungi,,eats
+342912,,submerged macrophytes (Blyxa - Cryptocoryne - Nitella),,eats
+342912,,Prymnesiophyceae,,eats
+342912,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+342912,342912,Caridea,Caridean Shrimps,eatenBy
+342912,47114,Gastropoda,Gastropods,eatenBy
+342912,49265,Sphoeroides spengleri,Bandtail Puffer,eatenBy
+342912,52166,Rypticus saponaceus,Greater Soapfish,eatenBy
+342912,47459,Cephalopoda,Cephalopods,eatenBy
+342912,49796,Stomatopoda,Mantis Shrimps,eatenBy
+342912,52460,Tylosurus crocodilus,Crocodile Needlefish,eatenBy
+342912,49506,Portunidae,Swimming Crabs,eatenBy
+342912,49172,Sciaenidae,Drums,eatenBy
+342912,47232,Carangidae,Jacks,eatenBy
+342912,47295,Lutjanidae,Snappers,eatenBy
+342912,47272,Rajiformes,Skates,eatenBy
+342912,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+342912,54661,Mugilidae,Mullets,eatenBy
+342912,41479,Delphinidae,Oceanic Dolphins,eatenBy
+342912,121639,Brachyura,True Crabs,eatenBy
+342912,47273,Elasmobranchii,Elasmobranchs,eatenBy
+342912,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eatenBy
+342912,41496,Stenella longirostris,Spinner Dolphin,eatenBy
+342912,41573,Carnivora,Carnivorans,eatenBy
+342912,6888,Anseriformes,Waterfowl,eatenBy
+342912,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+342912,92734,Umbrina,,eatenBy
+342912,47296,Lutjanus,Common Snappers,eatenBy
+342912,51552,Seriola,Amberjacks,eatenBy
+342912,132473,Lagodon rhomboides,Pinfish,eatenBy
+342912,146827,Menidia menidia,Atlantic Silverside,eatenBy
+342912,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,eatenBy
+342912,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+342912,118597,Belone belone,Garfish,eatenBy
+342912,47457,Octopodidae,Typical Octopuses,eatenBy
+342912,69676,Thunnus,Bluefin Tunas,eatenBy
+342912,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+342912,92583,Trachurus,Jack Mackerels,eatenBy
+342912,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+342912,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+342912,41731,Leptonychotes weddellii,Weddell Seal,eatenBy
+342912,47227,Caranx latus,Horse-eye Jack,eatenBy
+342912,63415,Heteropriacanthus cruentatus,Glasseye,eatenBy
+342912,317161,Hypoplectrus aberrans,Yellowbelly Hamlet,eatenBy
+342912,362166,Canthigaster margaritata,pearl toby,eatenBy
+342912,131448,Sargocentron coruscum,Reef Squirrelfish,eatenBy
+342912,95066,Balistes vetula,Queen Triggerfish,eatenBy
+342912,131530,Lutjanus synagris,Lane Snapper,eatenBy
+342912,93713,Alphestes afer,Atlantic Mutton Hamlet,eatenBy
+342912,131475,Hypoplectrus nigricans,Black Hamlet,eatenBy
+342912,49428,Bodianus rufus,Spanish Hogfish,eatenBy
+342912,130054,Haemulon carbonarium,Caesar Grunt,eatenBy
+342912,,Dasyatis americana,,eatenBy
+342912,131402,Myrichthys ocellatus,Goldspotted Eel,eatenBy
+342912,49404,Synodus intermedius,Sand Diver,eatenBy
+342912,106650,Negaprion brevirostris,Lemon Shark,eatenBy
+342912,1023724,Stegastes variabilis,Brazilian Cocoa Damselfish,eatenBy
+342912,179470,Scorpaena brasiliensis,Barbfish,eatenBy
+342912,179519,Opisthonema oglinum,Atlantic Thread Herring,eatenBy
+342912,131476,Hypoplectrus chlorurus,Yellowtail Hamlet,eatenBy
+342912,317017,Calamus pennatula,Pluma Porgy,eatenBy
+342912,108614,Paranthias furcifer,Atlantic Creolefish,eatenBy
+342912,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+342912,101420,Gerres cinereus,Yellowfin Mojarra,eatenBy
+342912,49304,Stegastes planifrons,Threespot Damselfish,eatenBy
+342912,49244,Scorpaena plumieri,Spotted Scorpionfish,eatenBy
+342912,49297,Aetobatus narinari,Spotted Eagle Ray,eatenBy
+342912,104853,Lutjanus analis,Mutton Snapper,eatenBy
+342912,52293,Pareques acuminatus,Highhat,eatenBy
+342912,179551,Labrisomus nuchipinnis,Hairy Blenny,eatenBy
+342912,49509,Lutjanus griseus,Grey Snapper,eatenBy
+342912,47292,Ocyurus chrysurus,Yellowtail Snapper,eatenBy
+342912,49275,Cantherhines pullus,Orangespotted Filefish,eatenBy
+342912,196857,Chilomycterus antennatus,Bridled Burrfish,eatenBy
+342912,85249,Scorpaena inermis,Mushroom Scorpionfish,eatenBy
+342912,179600,Eucinostomus argenteus,Spotfin Mojarra,eatenBy
+342912,49924,Stegastes fuscus,Dusky Damselfish,eatenBy
+342912,131521,Bothus ocellatus,Eyed Flounder,eatenBy
+342912,49624,Myripristis jacobus,Blackbar Soldierfish,eatenBy
+342912,113984,Thalassoma noronhanum,Noronha Wrasse,eatenBy
+342912,47238,Aulostomus maculatus,Western Atlantic Trumpetfish,eatenBy
+342912,49496,Epinephelus adscensionis,Rock Hind,eatenBy
+342912,107717,Opistognathus maxillosus,mottled jawfish,eatenBy
+342912,129665,Malacanthus plumieri,Sand Tilefish,eatenBy
+342912,131522,Amblycirrhitus pinos,Redspotted Hawkfish,eatenBy
+342912,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,eatenBy
+342912,231831,Strongylura timucu,Timucu Needlefish,eatenBy
+342912,112135,Scarus coelestinus,Midnight Parrotfish,eatenBy
+342912,317095,Equetus lanceolatus,Jack-knifefish,eatenBy
+342912,179478,Priacanthus arenatus,Bigeye,eatenBy
+342912,49498,Aluterus scriptus,Scrawled Filefish,eatenBy
+342912,128861,Haemulon chrysargyreum,Smallmouth Grunt,eatenBy
+342912,49272,Halichoeres bivittatus,Slippery Dick,eatenBy
+342912,102053,Halichoeres maculipinna,Clown Wrasse,eatenBy
+342912,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+342912,131513,Lactophrys trigonus,Buffalo Trunkfish,eatenBy
+342912,49953,Haemulon album,White Margate,eatenBy
+342912,49262,Haemulon sciurus,Bluestriped Grunt,eatenBy
+342912,55016,Dactylopterus volitans,Flying Gurnard,eatenBy
+342912,317251,Odontoscion dentex,Reef croaker,eatenBy
+342912,49964,Ginglymostoma cirratum,Nurse Shark,eatenBy
+342912,131515,Monacanthus ciliatus,Fringed Filefish,eatenBy
+342912,49946,Halichoeres garnoti,Yellowhead Wrasse,eatenBy
+342912,47584,Bivalvia,Bivalves,preysOn
+342912,121643,Copepoda,Copepods,preysOn
+342912,47297,Palinuridae,Spiny Lobsters,preysOn
+342912,47490,Polychaeta,Polychaete Worms,preysOn
+342912,49796,Stomatopoda,Mantis Shrimps,preysOn
+342912,48836,Ophiuroidea,Brittle Stars,preysOn
+342912,342912,Caridea,Caridean Shrimps,preysOn
+342912,48147,Isopoda,Isopods,preysOn
+342912,48173,Pagurus,,preysOn
+342912,47628,Amphipoda,Amphipods,preysOn
+342912,121639,Brachyura,True Crabs,preysOn
+342912,47114,Gastropoda,Gastropods,preysOn
+342912,,Meiobenthos,,preysOn
+342912,,mosquito fish,,preysOn
+342912,,least killifish,,preysOn
+342912,377210,Nematodes,Nematodes False Click Beetles,preysOn
+342912,325300,Abdopus,Indo-Pacific Longarm Octopuses,preysOn
+342912,83718,Tanaidacea,Tanaids,preysOn
+342912,,Microfauna,,preysOn
+342912,67990,Scaphopoda,Tusk Shells,preysOn
+342912,,Scyllarides,,preysOn
+342912,,Zooplankton,,preysOn
+342912,49172,Sciaenidae,Drums,preyedUponBy
+342912,49506,Portunidae,Swimming Crabs,preyedUponBy
+342912,47295,Lutjanidae,Snappers,preyedUponBy
+342912,121643,Copepoda,Copepods,preyedUponBy
+342912,41479,Delphinidae,Oceanic Dolphins,preyedUponBy
+342912,47459,Cephalopoda,Cephalopods,preyedUponBy
+342912,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+342912,47273,Elasmobranchii,Elasmobranchs,preyedUponBy
+342912,54661,Mugilidae,Mullets,preyedUponBy
+342912,47272,Rajiformes,Skates,preyedUponBy
+342912,47232,Carangidae,Jacks,preyedUponBy
+342912,49796,Stomatopoda,Mantis Shrimps,preyedUponBy
+342912,47114,Gastropoda,Gastropods,preyedUponBy
+342912,52166,Rypticus saponaceus,Greater Soapfish,preyedUponBy
+342912,342912,Caridea,Caridean Shrimps,preyedUponBy
+342912,49265,Sphoeroides spengleri,Bandtail Puffer,preyedUponBy
+342912,,Erythroculter,,preyedUponBy
+342912,,Pseudolaubuca,,preyedUponBy
+342912,,Sea,,preyedUponBy
+342912,94904,Auchenoglanis biscutatus,,preyedUponBy
+342912,49438,Centropomidae,Snooks,preyedUponBy
+342912,,Batrachoididae,,preyedUponBy
+342912,,juvenile of high carnivores,,preyedUponBy
+342912,,blue crabs,,preyedUponBy
+342912,63737,Lophiidae,Goosefishes,preyedUponBy
+342912,,Demersal piscivores,,preyedUponBy
+342912,260530,Parapenaeus politus,,preyedUponBy
+342912,,Commercial sparids (1),,preyedUponBy
+342912,,Chondrichthyes,,preyedUponBy
+342912,120702,Micromesistius poutassou,Blue Whiting,preyedUponBy
+342912,,Commercial sparids (2),,preyedUponBy
+342912,317435,Urophycis cirrata,Gulf Hake,preyedUponBy
+342912,106881,Nephrops norvegicus,Norway lobster,preyedUponBy
+342912,,Pleuronectiformes,,preyedUponBy
+342912,424322,Odontoceti,Toothed Whales,preyedUponBy
+342912,,tuna 1,,preyedUponBy
+342912,49950,Haemulon aurolineatum,Tomtate,preyedUponBy
+342912,180708,Stegastes leucostictus,Beaugregory,preyedUponBy
+342912,49262,Haemulon sciurus,Bluestriped Grunt,preyedUponBy
+342912,131446,Scorpaenodes caribbaeus,Reef Scorpionfish,preyedUponBy
+342912,317095,Equetus lanceolatus,Jack-knifefish,preyedUponBy
+342912,130054,Haemulon carbonarium,Caesar Grunt,preyedUponBy
+342912,131476,Hypoplectrus chlorurus,Yellowtail Hamlet,preyedUponBy
+342912,131513,Lactophrys trigonus,Buffalo Trunkfish,preyedUponBy
+342912,49304,Stegastes planifrons,Threespot Damselfish,preyedUponBy
+342912,49953,Haemulon album,White Margate,preyedUponBy
+342912,63415,Heteropriacanthus cruentatus,Glasseye,preyedUponBy
+342912,49404,Synodus intermedius,Sand Diver,preyedUponBy
+342912,131475,Hypoplectrus nigricans,Black Hamlet,preyedUponBy
+342912,62600,Haemulon flavolineatum,French Grunt,preyedUponBy
+342912,47238,Aulostomus maculatus,Western Atlantic Trumpetfish,preyedUponBy
+342912,49428,Bodianus rufus,Spanish Hogfish,preyedUponBy
+342912,317345,Sargocentron vexillarium,Dusky Squirrelfish,preyedUponBy
+342912,100104,Epinephelus guttatus,Red Hind,preyedUponBy
+342912,49753,Microspathodon chrysurus,Yellowtail Damselfish,preyedUponBy
+342912,63411,Chaetodon sedentarius,Reef Butterflyfish,preyedUponBy
+342912,102053,Halichoeres maculipinna,Clown Wrasse,preyedUponBy
+342912,49924,Stegastes fuscus,Dusky Damselfish,preyedUponBy
+342912,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,preyedUponBy
+342912,49747,Serranus tigrinus,Harlequin Bass,preyedUponBy
+342912,49496,Epinephelus adscensionis,Rock Hind,preyedUponBy
+342912,131387,Lutjanus mahogoni,Mahogany Snapper,preyedUponBy
+342912,49624,Myripristis jacobus,Blackbar Soldierfish,preyedUponBy
+342912,49275,Cantherhines pullus,Orangespotted Filefish,preyedUponBy
+342912,96993,Cephalopholis fulva,Coney,preyedUponBy
+342912,131385,Pseudupeneus maculatus,Spotted Goatfish,preyedUponBy
+342912,153471,Echidna catenata,Chain Moray,preyedUponBy
+342912,179478,Priacanthus arenatus,Bigeye,preyedUponBy
+342912,131521,Bothus ocellatus,Eyed Flounder,preyedUponBy
+342912,317161,Hypoplectrus aberrans,Yellowbelly Hamlet,preyedUponBy
+342912,104853,Lutjanus analis,Mutton Snapper,preyedUponBy
+342912,81989,Lutjanus apodus,Schoolmaster Snapper,preyedUponBy
+342912,128172,Mulloidichthys martinicus,Yellow Goatfish,preyedUponBy
+342912,96991,Cephalopholis cruentata,Graysby,preyedUponBy
+342912,196857,Chilomycterus antennatus,Bridled Burrfish,preyedUponBy
+342912,49272,Halichoeres bivittatus,Slippery Dick,preyedUponBy
+342912,49946,Halichoeres garnoti,Yellowhead Wrasse,preyedUponBy
+342912,131530,Lutjanus synagris,Lane Snapper,preyedUponBy
+342912,128191,Neoniphon marianus,Caribbean Longjaw Squirrelfish,preyedUponBy
+342912,128153,Equetus punctatus,Spotted Drum,preyedUponBy
+342912,128861,Haemulon chrysargyreum,Smallmouth Grunt,preyedUponBy
+342912,325300,Abdopus,Indo-Pacific Longarm Octopuses,preyedUponBy
+342912,131448,Sargocentron coruscum,Reef Squirrelfish,preyedUponBy
+342912,231831,Strongylura timucu,Timucu Needlefish,preyedUponBy
+342912,,Stegastes variabillis,,preyedUponBy
+342912,97202,Chaetodon striatus,Banded Butterflyfish,preyedUponBy
+342912,179470,Scorpaena brasiliensis,Barbfish,preyedUponBy
+342912,52296,Anisotremus surinamensis,Black Margate,preyedUponBy
+342912,179551,Labrisomus nuchipinnis,Hairy Blenny,preyedUponBy
+342912,107717,Opistognathus maxillosus,mottled jawfish,preyedUponBy
+342912,115188,Xyrichtys novacula,Pearly Razorfish,preyedUponBy
+342912,,Acanthostracion quadricomis,,preyedUponBy
+342912,49418,Carangoides,,preyedUponBy
+342912,,Rhinesomus triqueter,,preyedUponBy
+342912,108614,Paranthias furcifer,Atlantic Creolefish,preyedUponBy
+342912,154499,Scomberomorus cavalla,King Mackerel,preyedUponBy
+342912,179519,Opisthonema oglinum,Atlantic Thread Herring,preyedUponBy
+342912,49951,Haemulon plumierii,White Grunt,preyedUponBy
+342912,49498,Aluterus scriptus,Scrawled Filefish,preyedUponBy
+342912,131402,Myrichthys ocellatus,Goldspotted Eel,preyedUponBy

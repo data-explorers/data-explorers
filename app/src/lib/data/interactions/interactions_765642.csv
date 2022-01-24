@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+765642,53858,Solanum tuberosum,potato,eats
+765642,75869,Brassica napus,rapeseed,eats
+765642,,Ficaria verna,,eats

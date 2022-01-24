@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64133,48662,Danaus plexippus,Monarch,eatenBy
+64133,6317,Calypte anna,Anna's Hummingbird,eatenBy
+64133,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+64133,6359,Selasphorus sasin,Allen's Hummingbird,eatenBy
+64133,57686,Xylocopa tabaniformis,Horse-fly Carpenter,eatenBy
+64133,47219,Apis mellifera,Western Honey Bee,eatenBy
+64133,6358,Selasphorus,"Rufous, Allen's, and Allied Hummingbirds",eatenBy
+64133,129906,Anstenoptilia marmarodactyla,Sage Plume Moth,eatenBy
+64133,,Pyrausta dapalis,,eatenBy

@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+77188,,Aglaostigma aucupariae,,eatenBy
+77188,,Deilephila porcellus,,eatenBy
+77188,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+77188,179678,Euphilotes battoides,Square-spotted Blue,pollinatedBy
+77188,48060,Prosopis,mesquites,pollinatedBy
+77188,,Protandrena,,pollinatedBy
+77188,,Odontomyia sp.,,pollinatedBy
+77188,199115,Halictus confusus,Confusing Furrow Bee,pollinatedBy

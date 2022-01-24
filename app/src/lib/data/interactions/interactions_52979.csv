@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52979,55626,Pieris rapae,Cabbage White,eatenBy
+52979,1409,Callipepla californica,California Quail,eatenBy
+52979,69844,Anthocharis midea,Falcate Orangetip,eatenBy
+52979,,Anthocharis cardamines,,eatenBy
+52979,,Ascia monuste,,eatenBy
+52979,,Pieris brassicae,,eatenBy

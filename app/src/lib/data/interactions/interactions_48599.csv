@@ -1,0 +1,78 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48599,48599,Phytolacca americana,American pokeweed,eats
+48599,118930,Spodoptera ornithogalli,Yellow-striped Armyworm Moth,eatenBy
+48599,42652,Didelphis virginiana,Virginia Opossum,eatenBy
+48599,41880,Mephitis mephitis,Striped Skunk,eatenBy
+48599,42069,Vulpes vulpes,Red Fox,eatenBy
+48599,41663,Procyon lotor,Common Raccoon,eatenBy
+48599,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+48599,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+48599,18236,Colaptes auratus,Northern Flicker,eatenBy
+48599,9602,Quiscalus quiscula,Common Grackle,eatenBy
+48599,14850,Sturnus vulgaris,European Starling,eatenBy
+48599,12727,Turdus migratorius,American Robin,eatenBy
+48599,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+48599,12890,Catharus guttatus,Hermit Thrush,eatenBy
+48599,9921,Piranga olivacea,Scarlet Tanager,eatenBy
+48599,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+48599,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+48599,9915,Piranga rubra,Summer Tanager,eatenBy
+48599,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+48599,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48599,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+48599,9346,Icterus galbula,Baltimore Oriole,eatenBy
+48599,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+48599,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+48599,12901,Catharus fuscescens,Veery,eatenBy
+48599,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+48599,17855,Dryocopus pileatus,Pileated Woodpecker,eatenBy
+48599,19660,Regulus,Kinglets,eatenBy
+48599,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+48599,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+48599,17355,Vireo,Vireos,eatenBy
+48599,12942,Sialia sialis,Eastern Bluebird,eatenBy
+48599,48599,Phytolacca americana,American pokeweed,eatenBy
+48599,119170,Meconema thalassinum,Oak Bush-cricket,eatenBy
+48599,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+48599,3017,Columba livia,Rock Pigeon,eatenBy
+48599,12875,Catharus,Brown Thrushes and Nightingale-Thrushes,eatenBy
+48599,,Passer montanus,,eatenBy
+48599,,Sylvia communis,,eatenBy
+48599,,Sylvia melanocephala,,eatenBy
+48599,,Ficedula hypoleuca,,eatenBy
+48599,13094,Erithacus rubecula,European Robin,eatenBy
+48599,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+48599,12716,Turdus merula,Eurasian Blackbird,eatenBy
+48599,,Garrulus glandarius,,eatenBy
+48599,15302,Sylvia borin,Garden Warbler,eatenBy
+48599,12748,Turdus philomelos,Song Thrush,eatenBy
+48599,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+48599,,Cyanistes caeruleus,,eatenBy
+48599,,Parus major,,eatenBy
+48599,,Hippolais polyglotta,,eatenBy
+48599,12883,Catharus minimus,Gray-cheeked Thrush,eatenBy
+48599,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+48599,,Picoides pubescens,,eatenBy
+48599,17408,Vireo griseus,White-eyed Vireo,eatenBy
+48599,,Empidonax alnorum,,eatenBy
+48599,16602,Empidonax minimus,Least Flycatcher,eatenBy
+48599,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+48599,13632,Baeolophus bicolor,Tufted Titmouse,eatenBy
+48599,17394,Vireo gilvus,Warbling Vireo,eatenBy
+48599,18205,Melanerpes carolinus,Red-bellied Woodpecker,eatenBy
+48599,855297,Meles meles,European Badger,eatenBy
+48599,41800,Martes foina,Stone Marten,eatenBy
+48599,,Vireo flavifrons,,eatenBy
+48599,,Empidonax virescens,,eatenBy
+48599,145236,Setophaga castanea,Bay-breasted Warbler,eatenBy
+48599,,Chrysochus auratus,,eatenBy
+48599,,Hapithus agitator,,eatenBy
+48599,,Graphocephala coccinea,,eatenBy
+48599,154287,Acalymma vittatum,Striped Cucumber Beetle,eatenBy
+48599,,Palpada vinetorum,,eatenBy
+48599,,Trigonopeltastes delta,,eatenBy
+48599,,Ectopistes migratorius,,eatenBy
+48599,3460,Zenaida asiatica,White-winged Dove,eatenBy
+48599,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+48599,649,Francolinus francolinus,Black Francolin,eatenBy
+48599,57678,Lasioglossum,,pollinatedBy

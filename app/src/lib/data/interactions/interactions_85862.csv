@@ -1,0 +1,97 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85862,,Amphora pediculus,,eats
+85862,,Navicula cari,,eats
+85862,,Amphora inariensis,,eats
+85862,359944,Navicula tripunctata,,eats
+85862,,Cocconeis placentula,,eats
+85862,,Navicula radiosa,,eats
+85862,,Nitzschia wuellerstorffii,,eats
+85862,,Nitzschia palea,,eats
+85862,,Mayamaea atomus,,eats
+85862,,Nitzschia dissipata,,eats
+85862,,Navicula aboensis,,eats
+85862,,Sellaphora seminulum,,eats
+85862,,Navicula lanceolata,,eats
+85862,,Cocconeis pseudothumensis,,eats
+85862,,Navicula cryptotenella,,eats
+85862,,Cocconeis pediculus,,eats
+85862,,Gomphonema olivaceum,,eats
+85862,,Navicula margalithii,,eats
+85862,,Navicula menisculus,,eats
+85862,,Navicula minima,,eats
+85862,339306,Cocconeis,,eats
+85862,,Navicula subminuscula,,eats
+85862,,Nitzschia linearis,,eats
+85862,345316,Navicula cincta,,eats
+85862,,Amphora aequalis,,eats
+85862,,Navicula ignota,,eats
+85862,7044,Aythya collaris,Ring-necked Duck,eatenBy
+85862,47518,Salmo trutta,Brown Trout,eatenBy
+85862,48648,Salmo salar,Atlantic Salmon,eatenBy
+85862,114127,Thymallus thymallus,Grayling,eatenBy
+85862,55387,Esox lucius,Northern Pike,eatenBy
+85862,94105,Anguilla anguilla,European Eel,eatenBy
+85862,371594,Iheringichthys labrosus,,eatenBy
+85862,51333,Macquaria australasica,Macquarie Perch,eatenBy
+85862,,Galaxiella munda,,eatenBy
+85862,93181,Acipenser fulvescens,Lake Sturgeon,eatenBy
+85862,59805,Gammarus pulex,Freshwater Shrimp,preysOn
+85862,,Parametriocnemus stylatus,,preysOn
+85862,,Microtendipes pedellus,,preysOn
+85862,,Nilotanypus,,preysOn
+85862,1200005,Nanocladius rectinervis,,preysOn
+85862,498591,Leuctra fusca,Late Needle Fly,preysOn
+85862,,Phaenopsectra flavipes,,preysOn
+85862,217759,Cricotopus bicinctus,,preysOn
+85862,,Thienemannimyia,,preysOn
+85862,120561,Cricotopus,,preysOn
+85862,,Tvetenia,,preysOn
+85862,,Synorthocladius semivirens,,preysOn
+85862,,Polypedilum nubeculosum,,preysOn
+85862,1275598,Brillia modesta,,preysOn
+85862,376084,Cryptochironomus,,preysOn
+85862,,Parakiefferiella bathophila,,preysOn
+85862,174181,Corynoneura,,preysOn
+85862,,Chaetocladius dentiforceps,,preysOn
+85862,345996,Tanytarsini,,preysOn
+85862,,Heleniella ornaticollis,,preysOn
+85862,,Pseudorthocladius,,preysOn
+85862,,Apsectrotanypus trifascipennis,,preysOn
+85862,366252,Thienemanniella,,preysOn
+85862,,Eukiefferiella claripennis,,preysOn
+85862,,Epoicocladius flavens,,preysOn
+85862,,Polypedilum convictum,,preysOn
+85862,47927,Anisoptera,Dragonflies,preyedUponBy
+85862,51556,Sympetrum,Meadowhawks,preyedUponBy
+85862,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+85862,47928,Zygoptera,Damselflies,preyedUponBy
+85862,47819,Libellulidae,Skimmers,preyedUponBy
+85862,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+85862,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+85862,,Theridion pictum,,preyedUponBy
+85862,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+85862,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+85862,82118,Dolomedes,Fishing Spiders,preyedUponBy
+85862,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+85862,51679,Coenagrion,Northern Bluets,preyedUponBy
+85862,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+85862,153861,Tibellus maritimus,,preyedUponBy
+85862,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+85862,,Libellula depressa,,preyedUponBy
+85862,,Phylloneta impressa,,preyedUponBy
+85862,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+85862,,Somatochlora,,preyedUponBy
+85862,25474,Rana,Pond Frogs,preyedUponBy
+85862,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+85862,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+85862,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+85862,109315,Phoxinus phoxinus,European Minnow,preyedUponBy
+85862,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+85862,,Glossiphonia complanata,,preyedUponBy
+85862,48648,Salmo salar,Atlantic Salmon,preyedUponBy
+85862,47518,Salmo trutta,Brown Trout,preyedUponBy
+85862,59805,Gammarus pulex,Freshwater Shrimp,preyedUponBy
+85862,94105,Anguilla anguilla,European Eel,preyedUponBy
+85862,,Erpobdella octoculata,,preyedUponBy
+85862,114127,Thymallus thymallus,Grayling,preyedUponBy
+85862,47635,Cottus gobio,European Bullhead,preyedUponBy

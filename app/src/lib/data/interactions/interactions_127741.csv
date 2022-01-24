@@ -1,0 +1,115 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127741,54999,Eriogonum fasciculatum,California buckwheat,eats
+127741,57934,Ericameria nauseosa,Rubber Rabbitbrush,eats
+127741,81598,Dalea candida,white prairie clover,eats
+127741,48939,Eriogonum,wild buckwheats,eats
+127741,53359,Baccharis pilularis,coyote brush,eats
+127741,61906,Helminthotheca echioides,bristly oxtongue,eats
+127741,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+127741,52818,Achillea,yarrows,eats
+127741,48678,Solidago,goldenrods,eats
+127741,53046,Eriogonum nudum,Naked Buckwheat,eats
+127741,47204,Brassicaceae,mustard family,eats
+127741,52821,Achillea millefolium,Common Yarrow,eats
+127741,64358,Eriogonum giganteum,St. Catherine's-lace,eats
+127741,,Monnina,,eats
+127741,,Coursetia glandulosa,,eats
+127741,,Armeria maritima,,eats
+127741,,Angelica hendersonii,,eats
+127741,,Eriogonum latifolium,,eats
+127741,,Erigeron glaucus,,eats
+127741,,Ericameria arborescens,,eats
+127741,53271,Brassica rapa,field mustard,eats
+127741,17008,Sayornis phoebe,Eastern Phoebe,eatenBy
+127741,17355,Vireo,Vireos,eatenBy
+127741,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+127741,51900,Hypochaeris,Cat's-Ears,pollinates
+127741,153441,Symphyotrichum cordifolium,Common Blue Wood Aster,pollinates
+127741,52764,Prunella vulgaris,common selfheal,pollinates
+127741,78090,Mollugo verticillata,green carpetweed,pollinates
+127741,48618,Echinocystis lobata,wild cucumber,pollinates
+127741,84160,Nelumbo lutea,American lotus,pollinates
+127741,142279,Symphyotrichum pilosum,hairy white oldfield aster,pollinates
+127741,127907,Chamaecrista fasciculata,partridge pea,pollinates
+127741,50202,Bidens bipinnata,Spanish needles,pollinates
+127741,47912,Asclepias tuberosa,butterfly milkweed,pollinates
+127741,48622,Nepeta cataria,Catnip,pollinates
+127741,81705,Phlox divaricata,blue phlox,pollinates
+127741,154473,Pycnanthemum virginianum,Virginia mountain mint,pollinates
+127741,79157,Sonchus tenerrimus,slender sowthistle,pollinates
+127741,72165,Helichrysum,Everlasting-flowers,pollinates
+127741,85320,Monarda fistulosa,wild bergamot,pollinates
+127741,47124,Magnoliopsida,dicots,pollinates
+127741,63552,Dalea,prairie clovers,pollinates
+127741,157269,Escallonia,,pollinates
+127741,,Agrimonia striata,,pollinates
+127741,159305,Boltonia asteroides,white doll's-daisy,pollinates
+127741,,Astragalus canadensis,,pollinates
+127741,,Hybanthus concolor,,pollinates
+127741,,Desmodium illinoense,,pollinates
+127741,,Lactuca floridana,,pollinates
+127741,,Erigeron pulchellus,,pollinates
+127741,,Gnaphalium polycephalum,,pollinates
+127741,,Desmodium dillenii,,pollinates
+127741,,Polygala sanguinea,,pollinates
+127741,,Viola pubescens,,pollinates
+127741,,Krigia dandelion,,pollinates
+127741,,Gratiola virginiana,,pollinates
+127741,130993,Desmodium paniculatum,panicled ticktrefoil,pollinates
+127741,,Symphyotrichum turbinellum,,pollinates
+127741,,Desmodium canescens,,pollinates
+127741,143915,Crataegus coccinea,Scarlet Hawthorn,pollinates
+127741,,Delphinium tricorne,,pollinates
+127741,,Lespedeza virginica,,pollinates
+127741,,Ammannia coccinea,,pollinates
+127741,,Aster salicifolius,,pollinates
+127741,130906,Geum vernum,Spring Avens,pollinates
+127741,,http://treatment.plazi.org/id/C121FA83BA73C80659A41D6040C22ECF,,pollinates
+127741,,Oenothera gaura,,pollinates
+127741,,Crotalaria sagittalis,,pollinates
+127741,,Sedum sediforme,,pollinates
+127741,,Dorychnium pentaphylum,,pollinates
+127741,75868,Brassica fruticulosa,Mediterranean cabbage,pollinates
+127741,,http://treatment.plazi.org/id/57B093EC75B57866C014F2BC52E9DD47,,pollinates
+127741,,Urospermum picroides,,pollinates
+127741,,Aster iinumae,,pollinates
+127741,,Veronicastrum sibiricum,,pollinates
+127741,,Pyracantha crenulata,,pollinates
+127741,,Larrea divaricata,,pollinates
+127741,604836,Polygala hongkongensis stenophylla,,pollinates
+127741,82836,Daphne gnidium,Flax-leaved Daphne,pollinates
+127741,119450,Calluna vulgaris,common heather,pollinates
+127741,,Smilax aspera,,pollinates
+127741,,Ulex genistoides,,pollinates
+127741,,Asparagus aphyllus,,pollinates
+127741,,Armeria,,pollinates
+127741,,Ulex minor,,pollinates
+127741,76365,Cistus salviifolius,Sage-leaved Rock-rose,pollinates
+127741,,Osyris quadripartita,,pollinates
+127741,,Thapsia garganica,,pollinates
+127741,,Eryngium campestre,,pollinates
+127741,,Reseda alba,,pollinates
+127741,168041,Rubus deliciosus,Rocky Mountain raspberry,pollinates
+127741,,Holodiscus dumosus,,pollinates
+127741,130378,Solidago missouriensis,Missouri goldenrod,pollinates
+127741,,Prunus demissa,,pollinates
+127741,,Mertensia sibirica,,pollinates
+127741,,Mertensia pratensis,,pollinates
+127741,163256,Geranium caespitosum,pinewoods geranium,pollinates
+127741,125488,Rubus idaeus strigosus,American red raspberry,pollinates
+127741,76451,Corydalis aurea,scrambled eggs,pollinates
+127741,1145486,Astragalus curvicaulis,,pollinates
+127741,,Phacelia secunda,,pollinates
+127741,,Phacelia congesta,,pollinates
+127741,76445,Coreopsis tinctoria,plains coreopsis,pollinates
+127741,,Dalea searlsiae,,pollinates
+127741,,Dalea ornata,,pollinates
+127741,,Senecio bravensis,,pollinates
+127741,,Eryngium stenophyllum,,pollinates
+127741,,Achyrocline satureoides,,pollinates
+127741,,Emilia,,pollinates
+127741,963063,Helichrysum forskahlii,,pollinates
+127741,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+127741,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+127741,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+127741,198838,Diogmites basalis,,preyedUponBy

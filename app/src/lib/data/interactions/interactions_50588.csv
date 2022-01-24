@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50588,50968,Coris julis,Mediterranean rainbow wrasse,eatenBy
+50588,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+50588,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+50588,51178,Astropecten indicus,Plain Sand Star,eatenBy
+50588,,Melanitta fusca,,eatenBy
+50588,459669,Sclerocrangon boreas,Sculptured Shrimp,eatenBy
+50588,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+50588,7023,Somateria,Typical Eiders,eatenBy
+50588,47126,Plantae,plants,preysOn
+50588,63770,Engraulis mordax,Northern Anchovy,preyedUponBy
+50588,47584,Bivalvia,Bivalves,preyedUponBy
+50588,47533,Anthozoa,Sea Anemones and Corals,preyedUponBy
+50588,179828,Laevicardium substriatum,Pacific Eggcockle,preyedUponBy
+50588,328416,Tagelus affinis,Neighbor Tagelus,preyedUponBy
+50588,627095,Upogebia macginitieorum,,preyedUponBy
+50588,479426,Chionista fluctifraga,Smooth Venus,preyedUponBy
+50588,123639,Spionidae,,preyedUponBy
+50588,328432,Chione californiensis,California Venus,preyedUponBy
+50588,94801,Atherinops affinis,Topsmelt Silverside,preyedUponBy
+50588,117564,Clevelandia ios,Arrow Gobi,preyedUponBy
+50588,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+50588,81608,Geukensia demissa,Atlantic Ribbed Mussel,preyedUponBy

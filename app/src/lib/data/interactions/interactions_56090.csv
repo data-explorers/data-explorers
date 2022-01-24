@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56090,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+56090,15985,Myiarchus,Myiarchus Flycatchers,eatenBy
+56090,13858,Passer domesticus,House Sparrow,eatenBy
+56090,47219,Apis mellifera,Western Honey Bee,eatenBy
+56090,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+56090,46020,Sciurus niger,Fox Squirrel,eatenBy
+56090,367947,Aleurodicus dugesii,Giant Whitefly,eatenBy
+56090,357849,Riptortus linearis,,eatenBy
+56090,,Cletus bipunctatus,,eatenBy
+56090,,Aonidiella aurantii,,eatenBy
+56090,,Adoxophyes fasciculana,,eatenBy
+56090,,Archips micaceana,,eatenBy
+56090,371606,Archips machlopis,,eatenBy
+56090,482151,Pseudoclanis postica,Mulberry Hawkmoth,eatenBy
+56090,,Olethreutes hemiplaca,,eatenBy
+56090,,Rothschildia aurota,,eatenBy
+56090,154624,Glyphodes pyloalis,Lesser Mulberry Snout,eatenBy
+56090,324816,Glyphodes sibillalis,Mulberry Leaftier,eatenBy
+56090,,Imbrasia petiveri,,eatenBy
+56090,894927,Conogethes punctiferalis,,eatenBy
+56090,205605,Acria emarginella,,eatenBy
+56090,,Spodoptera eridania,,eatenBy
+56090,,Spodoptera litura,,eatenBy
+56090,1072581,Indarbela tetraonis,,eatenBy
+56090,1292389,Parasa lepida,,eatenBy
+56090,,Labdia semicoccinea,,eatenBy
+56090,,Ocinara,,eatenBy
+56090,,Veniliornis frontalis,,eatenBy
+56090,,Syndactyla rufosuperciliata,,eatenBy
+56090,,Elaenia,,eatenBy
+56090,,Chlorospingus flavopectus,,eatenBy
+56090,8484,Cyanocorax chrysops,Plush-crested Jay,eatenBy
+56090,,Piranga flava,,eatenBy
+56090,,Pipraeidea melanonota,,eatenBy
+56090,,Arremon flavirostris,,eatenBy
+56090,12878,Catharus ustulatus,Swainson's Thrush,eatenBy
+56090,10293,Thraupis sayaca,Sayaca Tanager,eatenBy
+56090,,Turdus rufiventris,,eatenBy
+56090,,Euphonia cyanocephala,,eatenBy
+56090,,Setophaga pitiayumi,,eatenBy
+56090,9292,Euphonia chlorotica,Purple-throated Euphonia,eatenBy
+56090,,Turdus nigriceps,,eatenBy
+56090,,Elaenia parvirostris,,eatenBy
+56090,9183,Zonotrichia capensis,Rufous-collared Sparrow,eatenBy
+56090,,Myiopsitta monachus,,eatenBy
+56090,,Thraupis bonariensis,,eatenBy
+56090,,Elaenia spectabilis,,eatenBy
+56090,,Icterus cayanensis,,eatenBy
+56090,,Saltator aurantiirostris,,eatenBy
+56090,9850,Saltator coerulescens,Grayish Saltator,eatenBy
+56090,,Agelaioides badius,,eatenBy
+56090,16956,Pitangus sulphuratus,Great Kiskadee,eatenBy
+56090,16793,Tyrannus savana,Fork-tailed Flycatcher,eatenBy
+56090,,Paroaria coronata,,eatenBy
+56090,,Melanerpes cactorum,,eatenBy
+56090,12710,Turdus amaurochalinus,Creamy-bellied Thrush,eatenBy
+56090,,Colaptes melanochloros,,eatenBy
+56090,,Molothrus bonariensis,,eatenBy
+56090,,Suiriri suiriri,,eatenBy
+56090,14878,Mimus saturninus,Chalk-browed Mockingbird,eatenBy
+56090,,Empidonomus aurantioatrocristatus,,eatenBy
+56090,9864,Sicalis flaveola,Saffron Finch,eatenBy
+56090,,Poospiza melanoleuca,,eatenBy
+56090,,Phytotoma rutila,,eatenBy
+56090,,Pycnonotus leucogenys,,eatenBy
+56090,,Psittacula himalayana,,eatenBy
+56090,,Phylloscopus xanthoschistos,,eatenBy
+56090,,Pycnonotus cafer,,eatenBy
+56090,,Turdoides striata,,eatenBy
+56090,14869,Acridotheres fuscus,Jungle Myna,eatenBy
+56090,,Oriolus kundoo,,eatenBy
+56090,,Psittacula krameri,,eatenBy
+56090,,Trochalopteron lineatum,,eatenBy
+56090,,Cuculus varius,,eatenBy
+56090,,Myophonus caeruleus,,eatenBy
+56090,,Zosterops palpebrosus,,eatenBy
+56090,,Eudynamys scolopaceus,,eatenBy
+56090,,Streptopelia orientalis,,eatenBy
+56090,73276,Prinia crinigera,Striated Prinia,eatenBy
+56090,,Dendrocitta formosae,,eatenBy
+56090,,Dendrocitta vagabunda,,eatenBy
+56090,,Treron sphenurus,,eatenBy
+56090,,Emberiza lathami,,eatenBy
+56090,,Megalaima virens,,eatenBy
+56090,,Parus cinereus,,eatenBy
+56090,,Corvus macrorhynchos,,eatenBy
+56090,495200,Urocissa erythroryncha,Red-billed Blue-Magpie,eatenBy
+56090,,Saxicola ferreus,,eatenBy
+56090,,Acridotheres tristis,,eatenBy
+56090,,Pteropus giganteus,,eatenBy
+56090,,Rousettus leschenaultii,,eatenBy
+56090,40792,Cynopterus sphinx,Greater Short-nosed Fruit Bat,eatenBy
+56090,358869,Calinaga buddha,Orange-breasted Freak Butterfly,eatenBy
+56090,126308,Marpesia chiron,Many-banded Daggerwing,eatenBy
+56090,12737,Turdus leucomelas,Pale-breasted Thrush,eatenBy
+56090,10056,Ramphocelus carbo,Silver-beaked Tanager,eatenBy
+56090,,Tachyphonus coronatus,,eatenBy
+56090,,Pyrrhocoma ruficeps,,eatenBy
+56090,,Thraupis episcopus,,eatenBy
+56090,40887,Pteropus dasymallus,Ryukyu Flying Fox,eatenBy
+56090,,Wind,,pollinatedBy

@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58374,7044,Aythya collaris,Ring-necked Duck,eatenBy
+58374,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+58374,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+58374,,Chilo zacconius,,eatenBy
+58374,,North American deermouse,,eatenBy
+58374,,Mus sp.,,eatenBy
+58374,,Melanaphis sacchari,,eatenBy
+58374,244666,Naranga aenescens,Rice green caterpillar,eatenBy
+58374,,Uraeginthus angolensis,,eatenBy
+58374,,Ypthima baldus,,eatenBy
+58374,,Lerema accius,,eatenBy
+58374,,Caligo martia,,eatenBy
+58374,,Distichodus antonii,,eatenBy
+58374,6905,Anseranas semipalmata,Magpie Goose,eatenBy
+58374,162,Porzana carolina,Sora,eatenBy
+58374,6893,Dendrocygna autumnalis,Black-bellied Whistling-Duck,eatenBy
+58374,7019,Anser albifrons,Greater White-fronted Goose,eatenBy
+58374,,Anas americana,,eatenBy
+58374,,Phacochoerus africanus,,preyedUponBy
+58374,,Tragelaphus scriptus,,preyedUponBy
+58374,,Papio anubis,,preyedUponBy

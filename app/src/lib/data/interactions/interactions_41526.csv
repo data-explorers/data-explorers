@@ -1,0 +1,81 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41526,47459,Cephalopoda,Cephalopods,eats
+41526,253735,Thysanoteuthis rhombus,Diamondback Squid,eats
+41526,47115,Mollusca,Molluscs,eats
+41526,47308,Gobiidae,Gobies,eats
+41526,99269,Dicentrarchus labrax,European Seabass,eats
+41526,117650,Mytilus edulis,Blue Mussel,eats
+41526,92583,Trachurus,Jack Mackerels,eats
+41526,49441,Loliginidae,Pencil Squids,eats
+41526,90074,Myctophum,,eats
+41526,85641,Bothidae,Lefteye Flounders,eats
+41526,142759,Macroramphosus gracilis,Little Bellowsfish,eats
+41526,47178,Actinopterygii,Ray-finned Fishes,eats
+41526,67960,Sepiidae,Cuttlefishes,eats
+41526,118594,Atherina presbyter,Sand Smelt,eats
+41526,47246,Macroramphosus,,eats
+41526,119418,Sepia,Typical Cuttlefishes,eats
+41526,49238,Sparidae,Seabreams and Porgies,eats
+41526,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+41526,82337,Loligo,,eats
+41526,1094275,Alcyonidium hirsutum,,eats
+41526,,Gnathostomata,,eats
+41526,179447,Trachurus lathami,Rough Scad,eats
+41526,49513,Cynoscion,Weakfishes,eats
+41526,108196,Pagrus pagrus,Red Porgy,eats
+41526,151363,Semirossia tenera,Lesser Shining Bobtail,eats
+41526,92211,Stellifer,Stardrums,eats
+41526,201529,Doryteuthis pleii,Slender Inshore Squid,eats
+41526,324558,Loligo vulgaris,European Squid,eats
+41526,447428,Eledone cirrhosa,Curled Octopus,eats
+41526,118601,Trisopterus luscus,Pouting,eats
+41526,97990,Clupea harengus,Atlantic Herring,eats
+41526,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+41526,92655,Trisopterus,,eats
+41526,118678,Scomber scombrus,Atlantic Mackerel,eats
+41526,430553,Merlangius merlangus,Whiting,eats
+41526,118603,Merluccius merluccius,European Hake,eats
+41526,798060,Sepiolinae,Sepioles,eats
+41526,120702,Micromesistius poutassou,Blue Whiting,eats
+41526,432787,Brachioteuthis,,eats
+41526,93611,Alburnus alburnus,Bleak,eats
+41526,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+41526,118697,Deltentosteus quadrimaculatus,Four-spotted Goby,eats
+41526,292218,Octopoteuthis sicula,Rüppell's Octopus-squid,eats
+41526,324561,Alloteuthis,,eats
+41526,253669,Illex coindetii,Southern Shortfin Squid,eats
+41526,,Microchirus variegatus,,eats
+41526,69842,Scomber,,eats
+41526,120608,Gadiculus argenteus,Silvery Pout,eats
+41526,151486,Sepiola atlantica,Atlantic Bobtail,eats
+41526,118600,Sardina pilchardus,European Sardine,eats
+41526,,Atherína,,eats
+41526,94651,Arnoglossus imperialis,Imperial Scaldfish,eats
+41526,51910,Engraulis encrasicolus,European Anchovy,eats
+41526,118667,Diplodus vulgaris,Common Two-banded Seabream,eats
+41526,120617,Arnoglossus laterna,Mediterranean Scaldfish,eats
+41526,118713,Cepola macrophthalma,Red Snakefish,eats
+41526,367967,Hyperoplus lanceolatus,Great Sand Eel,eats
+41526,64589,Capros aper,Boarfish,eats
+41526,118664,Boops boops,Bogue,eats
+41526,246421,Chiroteuthis,,eats
+41526,,Deltentosteus collonianus,,eats
+41526,,Liza ramada,,eats
+41526,118717,Callionymus lyra,Common dragonet,eats
+41526,118704,Gobius niger,Black Goby,eats
+41526,187631,Chelon planiceps,Tade Mullet,eats
+41526,50873,Carcharodon carcharias,Great White Shark,eatenBy
+41526,253735,Thysanoteuthis rhombus,Diamondback Squid,preysOn
+41526,117650,Mytilus edulis,Blue Mussel,preysOn
+41526,222155,Icichthys lockingtoni,Medusafish,preysOn
+41526,85949,Osmeridae,Smelts,preysOn
+41526,700305,Alloteuthis subulata,European Common Squid,preysOn
+41526,201529,Doryteuthis pleii,Slender Inshore Squid,preysOn
+41526,151363,Semirossia tenera,Lesser Shining Bobtail,preysOn
+41526,82337,Loligo,,preysOn
+41526,324558,Loligo vulgaris,European Squid,preysOn
+41526,447428,Eledone cirrhosa,Curled Octopus,preysOn
+41526,151486,Sepiola atlantica,Atlantic Bobtail,preysOn
+41526,253669,Illex coindetii,Southern Shortfin Squid,preysOn
+41526,292218,Octopoteuthis sicula,Rüppell's Octopus-squid,preysOn
+41526,50873,Carcharodon carcharias,Great White Shark,preyedUponBy

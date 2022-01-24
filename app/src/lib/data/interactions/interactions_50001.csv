@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50001,47170,Fungi,Fungi Including Lichens,eats
+50001,333586,Oligochaeta,Earthworms and allies,eats
+50001,46341,Soricidae,Shrews,eats
+50001,,Lachnolaimus,,eats
+50001,81746,Necrophila americana,American Carrion Beetle,eatenBy

@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+313246,52381,Aphididae,Aphids,eats
+313246,50616,Mirabilis jalapa,Marvel of Peru,eats
+313246,58160,Prosopis glandulosa,honey mesquite,eats
+313246,17356,Vireo bellii,Bell's Vireo,eatenBy
+313246,16768,Tyrannus,Kingbirds,eatenBy
+313246,,Crematogaster laeviuscula,,eatenBy
+313246,17394,Vireo gilvus,Warbling Vireo,eatenBy
+313246,,Empidonax flaviventris,,eatenBy
+313246,,Crematogaster laeviuscula,,preyedUponBy

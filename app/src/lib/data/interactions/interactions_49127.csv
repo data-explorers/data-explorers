@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49127,123880,Bacillariophyceae,Diatoms,eats
+49127,151880,Sarcomastigophora,,eats
+49127,,Detritus complex,,eats
+49127,,Foraminiferida,,eats
+49127,43584,Homo sapiens,Human,eatenBy
+49127,,Evasterias troscheli,,eatenBy
+49127,47669,Orthasterias koehleri,Rainbow Star,eatenBy
+49127,123880,Bacillariophyceae,Diatoms,preysOn
+49127,,Phytoplankton,,preysOn
+49127,,Detritus complex,,preysOn
+49127,,Zooplankton,,preysOn
+49127,,Evasterias troscheli,,preyedUponBy
+49127,47669,Orthasterias koehleri,Rainbow Star,preyedUponBy

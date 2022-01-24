@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+355874,62807,Mytilus,Black Mussels,eats
+355874,489573,Nerita melanotragus,,preysOn
+355874,333759,Larus dominicanus dominicanus,Southern Black-backed Gull,preyedUponBy

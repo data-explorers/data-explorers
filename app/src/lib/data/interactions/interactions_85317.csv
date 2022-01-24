@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85317,48678,Solidago,goldenrods,eats
+85317,67808,Solidago canadensis,Canada goldenrod,eats
+85317,128551,Solidago rugosa,common wrinkle-leaved goldenrod,eats
+85317,,Solidago altissima,,eats

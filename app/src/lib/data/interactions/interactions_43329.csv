@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43329,42051,Canis latrans,Coyote,eatenBy
+43329,42007,Puma concolor,Mountain Lion,eatenBy
+43329,,Calyptra fasciata,,eatenBy
+43329,208104,Calyptra minuticornis,,eatenBy
+43329,42048,Canis lupus,Gray Wolf,eatenBy
+43329,41955,Acinonyx jubatus,Cheetah,eatenBy
+43329,41886,Crocuta crocuta,Spotted Hyaena,eatenBy
+43329,,Canis mesomelas,,eatenBy
+43329,,Lycaon pictus,,eatenBy
+43329,41964,Panthera leo,Lion,eatenBy
+43329,41970,Panthera onca,Jaguar,eatenBy
+43329,41963,Panthera pardus,Leopard,eatenBy
+43329,,Uncia uncia,,eatenBy
+43329,41641,Ursus arctos,Brown Bear,eatenBy
+43329,,Hyaena brunnea,,eatenBy
+43329,41967,Panthera tigris,Tiger,eatenBy
+43329,,Coyote,,eatenBy
+43329,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+43329,125727,Panicum virgatum,switchgrass,preysOn
+43329,51637,Digitaria,"crabgrasses, cottontops, and allies",preysOn
+43329,58371,Cynodon dactylon,Bermuda grass,preysOn
+43329,,Hyparrhenia,,preysOn
+43329,,Solanum incanum,,preysOn
+43329,,Sporobolus pyramidalis,,preysOn
+43329,,Brachiaria,,preysOn
+43329,,Eragrostis,,preysOn
+43329,,Harpachne schimperi,,preysOn
+43329,,Eustachys paspaloides,,preysOn
+43329,431074,Grewia bicolor,Twotone Raisin,preysOn
+43329,72016,Bothriochloa,Bluestems,preysOn
+43329,,Pennisetum mezianum,,preysOn
+43329,,Croton macrostachyus,,preysOn
+43329,,Aristida,,preysOn
+43329,,Heteropogon contortus ex,,preysOn
+43329,,Themeda triandra,,preysOn
+43329,,Hyparrhenia rufa,,preysOn
+43329,,Dinebra retroflexa,,preysOn
+43329,851014,Canis aureus,Golden Jackal,preyedUponBy
+43329,41963,Panthera pardus,Leopard,preyedUponBy
+43329,41964,Panthera leo,Lion,preyedUponBy
+43329,,Lycaon pictus,,preyedUponBy
+43329,41886,Crocuta crocuta,Spotted Hyaena,preyedUponBy

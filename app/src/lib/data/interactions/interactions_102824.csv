@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+102824,1,Animalia,Animals,eats
+102824,85493,Crustacea,Crustaceans,eats
+102824,,,,eats
+102824,4956,Ardea herodias,Great Blue Heron,preyedUponBy

@@ -1,0 +1,106 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53113,55626,Pieris rapae,Cabbage White,eats
+53113,55626,Pieris rapae,Cabbage White,eatenBy
+53113,59124,Anthocharis sara,Sara Orangetip,eatenBy
+53113,58523,Papilio polyxenes,Black Swallowtail,eatenBy
+53113,48548,Vanessa cardui,Painted Lady,eatenBy
+53113,59119,Pontia protodice,Checkered White,eatenBy
+53113,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+53113,326910,Brevicoryne brassicae,Cabbage Aphid,eatenBy
+53113,202789,Trichoplusia ni,Cabbage Looper Moth,eatenBy
+53113,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+53113,47219,Apis mellifera,Western Honey Bee,eatenBy
+53113,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+53113,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+53113,308726,Anthophora californica,California Digger Bee,eatenBy
+53113,144011,Bombus rufocinctus,Red-belted Bumble Bee,eatenBy
+53113,124420,Bombus californicus,California Bumble Bee,eatenBy
+53113,128670,Bombus vagans,Half-black Bumble Bee,eatenBy
+53113,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+53113,55487,Diabrotica undecimpunctata,Spotted Cucumber Beetle,eatenBy
+53113,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+53113,81979,Syritta pipiens,Thick-legged Hover Fly,eatenBy
+53113,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+53113,50931,Strymon melinus,Gray Hairstreak,eatenBy
+53113,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+53113,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+53113,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+53113,1081332,Lon melane,Umber Skipper,eatenBy
+53113,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+53113,318550,Halictus farinosus,Wide-striped Sweat Bee,eatenBy
+53113,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+53113,3017,Columba livia,Rock Pigeon,eatenBy
+53113,3454,Zenaida macroura,Mourning Dove,eatenBy
+53113,9100,Melospiza melodia,Song Sparrow,eatenBy
+53113,73044,Melozone crissalis,California Towhee,eatenBy
+53113,,Tetraleurodes,,eatenBy
+53113,,Lipaphis pseudobrassicae,,eatenBy
+53113,,http://treatment.plazi.org/id/6105C6702134FEC7F7A2DAD630312E42,,eatenBy
+53113,,Ascia monuste,,eatenBy
+53113,,Anthocharis cardamines,,eatenBy
+53113,,Amauris tartarea,,eatenBy
+53113,59120,Euchloe ausonides,Large Marble,eatenBy
+53113,,Euchloe belemia,,eatenBy
+53113,51614,Eurema hecabe,Common Grass Yellow,eatenBy
+53113,,Hebomoia glaucippe,,eatenBy
+53113,,Hesperocharis marchalii,,eatenBy
+53113,605964,Leptophobia eleusis,Eleusis white,eatenBy
+53113,,Leptophobia aripa,,eatenBy
+53113,,Pieris brassicae,,eatenBy
+53113,,Pieris napi,,eatenBy
+53113,,Pieris brassicoides,,eatenBy
+53113,,Pieris canidia,,eatenBy
+53113,,Pieris virginiensis,,eatenBy
+53113,,Pontia beckerii,,eatenBy
+53113,123810,Pontia daplidice,Bath White,eatenBy
+53113,,Pontia occidentalis,,eatenBy
+53113,,Pontia helice,,eatenBy
+53113,,Tatochila autodice,,eatenBy
+53113,,Evergestis rimosalis,,eatenBy
+53113,,Tipula paludosa,,eatenBy
+53113,,Artogeia,,eatenBy
+53113,,Chrysodeixis chalcites,,eatenBy
+53113,,Muscina levida,,eatenBy
+53113,70355,Eurydema,,eatenBy
+53113,,Phyllotreta striolata,,eatenBy
+53113,,Thrips tabaci,,eatenBy
+53113,,Delia radicum,,eatenBy
+53113,,Maladera castanea,,eatenBy
+53113,,Leptinotarsa decemlineata,,eatenBy
+53113,,Agriotes sputator,,eatenBy
+53113,,Myzus persicae,,eatenBy
+53113,,Lipaphis erysimi,,eatenBy
+53113,,Spodoptera frugiperda,,eatenBy
+53113,,Phyllotreta undulata,,eatenBy
+53113,,Estigmene acraea,,eatenBy
+53113,,Spodoptera eridania,,eatenBy
+53113,,Discestra trifolii,,eatenBy
+53113,,Agrotis ipsilon,,eatenBy
+53113,,Delia platura,,eatenBy
+53113,,Agrotis subterranea,,eatenBy
+53113,125304,Spilarctia obliqua,Jute hairy caterpillar (Bihar hairy caterpillar),eatenBy
+53113,,Agrochola bicolorago,,eatenBy
+53113,,Lacanobia,,eatenBy
+53113,,Hellula undalis,,eatenBy
+53113,,Zethenia rufescentaria,,eatenBy
+53113,,Ceutorhynchus napi,,eatenBy
+53113,,Tipula vittata,,eatenBy
+53113,,Crocidolomia pavonana,,eatenBy
+53113,,Spodoptera litura,,eatenBy
+53113,41641,Ursus arctos,Brown Bear,eatenBy
+53113,,Phomopsis cruciferae,,eatenBy
+53113,,Chromatomyia horticola,,eatenBy
+53113,,Phytomyza rufipes,,eatenBy
+53113,,Smynthurodes betae,,eatenBy
+53113,,Myzus (Nectarosiphon) ascalonicus,,eatenBy
+53113,,Perisporium kunzei,,eatenBy
+53113,,Pseudombrophila deerrata,,eatenBy
+53113,,Scopulariopsis brevicaulis,,eatenBy
+53113,,Myzus (Myzus) cerasi,,eatenBy
+53113,,Phyllotreta cruciferae,,eatenBy
+53113,,Phyllotreta nigripes,,eatenBy
+53113,,Phyllotreta nemorum,,eatenBy
+53113,47220,Apis,Honey Bees,pollinatedBy
+53113,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+53113,,http://treatment.plazi.org/id/FAA4FEE614A55A388C4DBC886910D7BF,,pollinatedBy
+53113,,Toxomerus sp.,,pollinatedBy

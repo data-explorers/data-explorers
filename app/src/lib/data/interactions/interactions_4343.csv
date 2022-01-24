@@ -1,0 +1,113 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4343,4385,Larus californicus,California Gull,eats
+4343,47158,Insecta,Insects,eats
+4343,47178,Actinopterygii,Ray-finned Fishes,eats
+4343,1,Animalia,Animals,eats
+4343,51912,Engraulis,,eats
+4343,85611,Atherinidae,Old World Silversides,eats
+4343,47186,Decapoda,Decapods,eats
+4343,51911,Engraulidae,Anchovies,eats
+4343,121639,Brachyura,True Crabs,eats
+4343,85493,Crustacea,Crustaceans,eats
+4343,63770,Engraulis mordax,Northern Anchovy,eats
+4343,47459,Cephalopoda,Cephalopods,eats
+4343,153112,Euphausiacea,krill,eats
+4343,118597,Belone belone,Garfish,eats
+4343,47308,Gobiidae,Gobies,eats
+4343,92583,Trachurus,Jack Mackerels,eats
+4343,49106,Syngnathidae,Pipefishes and Seahorses,eats
+4343,88563,Gobius,,eats
+4343,49725,Pugettia,,eats
+4343,117666,Pleuroncodes planipes,Tuna Crab,eats
+4343,,Detritus,,eats
+4343,,Gnathostomata,,eats
+4343,,,,eats
+4343,48564,Prionotus,,eats
+4343,,Kondakovia longimana,,eats
+4343,82353,Merluccius,Hakes,eats
+4343,92628,Trigla,Gurnards,eats
+4343,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4343,502271,Engraulis australis,Australian Anchovy,eats
+4343,88265,Etrumeus,Red-eye Round Herrings,eats
+4343,328042,Engraulis japonicus,Japanese Anchovy,eats
+4343,51910,Engraulis encrasicolus,European Anchovy,eats
+4343,97990,Clupea harengus,Atlantic Herring,eats
+4343,118704,Gobius niger,Black Goby,eats
+4343,324532,Sprattus sprattus,European Sprat,eats
+4343,295763,Dulichiella appendiculata,,eats
+4343,,Macruronus magellanicus,,eats
+4343,254742,Astyris lunata,Lunate Dove Shell,eats
+4343,118600,Sardina pilchardus,European Sardine,eats
+4343,,Teuthida,,eats
+4343,82337,Loligo,,eats
+4343,,Etrumeus teres,,eats
+4343,117571,Clupea pallasii,Pacific herring,eats
+4343,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4343,92327,Symphodus,,eats
+4343,146888,Illex,Shortfin Squids,eats
+4343,55535,Sardinops sagax,Pacific Sardine,eats
+4343,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4343,218966,Eleginus gracilis,Saffron Cod,eats
+4343,120672,Scomberesox saurus,Atlantic Saury,eats
+4343,63740,Gadus morhua,Atlantic Cod,eats
+4343,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+4343,85289,Pseudophycis bachus,Red cod,eats
+4343,447397,Engraulis anchoita,Argentine Anchoita,eats
+4343,,Frigidoalvania cruenta,,eats
+4343,86396,Ammodytes,,eats
+4343,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4343,91235,Pomatoschistus,,eats
+4343,63691,Cololabis saira,Pacific Saury,eats
+4343,,Freshwater,,eats
+4343,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4343,47762,Sebastes,Rockfishes,eats
+4343,228496,Pollachius virens,Pollock,eats
+4343,,Others,,eats
+4343,118712,Spicara smaris,Picarel,eats
+4343,87865,Decapterus,,eats
+4343,180029,Gadus macrocephalus,Pacific Cod,eats
+4343,85949,Osmeridae,Smelts,eats
+4343,120702,Micromesistius poutassou,Blue Whiting,eats
+4343,215318,Boreogadus saida,Arctic Cod,eats
+4343,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+4343,213402,Ammodytes americanus,American Sand Lance,eats
+4343,118713,Cepola macrophthalma,Red Snakefish,eats
+4343,614162,Micromesistius australis,Southern blue whiting,eats
+4343,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4343,,Pisces,,eats
+4343,,others,,eats
+4343,,organic macrodebris,,eats
+4343,41644,Ursus maritimus,Polar Bear,eats
+4343,47521,Salmoniformes,"Salmons, Trouts, and Whitefishes",eats
+4343,117545,Parophrys vetulus,English sole,eats
+4343,,Organic macrodebris,,eats
+4343,774778,Gymnoplea,,eats
+4343,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4343,4345,Larus occidentalis,Western Gull,eatenBy
+4343,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4343,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+4343,410712,Cominella glandiformis,Mud Whelk,preysOn
+4343,394900,Perna canaliculus,New Zealand Green-lipped Mussel,preysOn
+4343,47186,Decapoda,Decapods,preysOn
+4343,69925,Clinocardium nuttallii,Nuttall's Cockle,preysOn
+4343,49699,Pisaster ochraceus,Ochre Sea Star,preysOn
+4343,353999,Cominella,,preysOn
+4343,150045,Amphibola crenata,Mudflat Tītiko,preysOn
+4343,48343,Hemigrapsus,,preysOn
+4343,377230,Neoguraleus,,preysOn
+4343,,Osteichthyes,,preysOn
+4343,322001,Aldrichetta forsteri,Yelloweye Mullet,preysOn
+4343,398893,Zeacumantus subcarinatus,Southern Creeper,preysOn
+4343,,Buccinulum pertinax,,preysOn
+4343,409698,Austrovenus stutchburyi,New Zealand Cockle,preysOn
+4343,416671,Hemiplax hirtipes,New  Zealand  sentinel  crab,preysOn
+4343,391942,Macomona liliana,Wedge Shell,preysOn
+4343,385597,Abarenicola affinis,,preysOn
+4343,368098,Perinereis,,preysOn
+4343,51363,Brevoortia tyrannus,Atlantic Menhaden,preysOn
+4343,143936,Hemigrapsus crenulatus,Hairy-handed Crab,preysOn
+4343,,Diloma subrostrata,,preysOn
+4343,566304,Perinereis nuntia,,preysOn
+4343,471051,Halicarcinus whitei,Estuarine Pillbox Crab,preysOn
+4343,774778,Gymnoplea,,preysOn
+4343,215318,Boreogadus saida,Arctic Cod,preysOn

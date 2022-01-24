@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53169,47219,Apis mellifera,Western Honey Bee,eatenBy
+53169,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+53169,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+53169,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+53169,52775,Bombus,Bumble Bees,eatenBy
+53169,308726,Anthophora californica,California Digger Bee,eatenBy
+53169,468067,Zadontomerus,,eatenBy
+53169,59124,Anthocharis sara,Sara Orangetip,eatenBy
+53169,49133,Vanessa atalanta,Red Admiral,eatenBy
+53169,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+53169,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+53169,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+53169,6317,Calypte anna,Anna's Hummingbird,eatenBy
+53169,244216,Xylocopa sonorina,Valley Carpenter Bee,eatenBy
+53169,48550,Phoebis sennae,Cloudless Sulphur,eatenBy
+53169,48548,Vanessa cardui,Painted Lady,eatenBy
+53169,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+53169,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+53169,,Colias croceus,,eatenBy
+53169,,Eristalinus aeneus,,eatenBy
+53169,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+53169,,Agraulis vanillae,,eatenBy
+53169,,Coenonympha california california,,eatenBy
+53169,210423,Callophrys viridis,Coastal Green Hairstreak,eatenBy
+53169,,Pieris marginalis,,eatenBy
+53169,322368,Syrphus opinator,Black-margined Flower Fly,eatenBy
+53169,57682,Anthophora,Common Digger Bees,pollinatedBy
+53169,57678,Lasioglossum,,pollinatedBy
+53169,155108,Ceratina,Small Carpenter Bees,pollinatedBy
+53169,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+53169,,,,pollinatedBy
+53169,,Amegilla,,pollinatedBy
+53169,,Chelostoma,,pollinatedBy
+53169,,Hoplitis,,pollinatedBy
+53169,,Bombylius fuliginosus ,,pollinatedBy
+53169,,Oxythyrea cinctella,,pollinatedBy

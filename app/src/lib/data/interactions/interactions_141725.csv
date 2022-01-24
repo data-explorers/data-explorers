@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+141725,51737,Solanum lycopersicum,tomato,eats
+141725,57057,Medicago sativa,Alfalfa,eats
+141725,47351,Prunus,"plums, cherries, and allies",eats
+141725,72151,Gossypium,Cottons,eats
+141725,58389,Sorghum bicolor,Sorghum,eats
+141725,58127,Chenopodium album,Common Lambsquarters,eats
+141725,53196,Rumex,docks,eats
+141725,55745,Trifolium repens,white clover,eats
+141725,53151,Medicago polymorpha,bur clover,eats
+141725,77740,Ligustrum lucidum,tree privet,eats
+141725,64161,Triticum aestivum,Bread Wheat,eats
+141725,52472,Vicia,Vetches,eats
+141725,55411,Raphanus raphanistrum,Jointed Charlock,eats
+141725,57983,Helianthus annuus,Common Sunflower,eats
+141725,53858,Solanum tuberosum,potato,eats
+141725,55854,Datura stramonium,jimsonweed,eats
+141725,50636,Plantago,plantain,eats
+141725,58334,Nicotiana glauca,tree tobacco,eats
+141725,56739,Ricinus communis,castor bean,eats
+141725,52326,Amaranthus,amaranths,eats
+141725,47126,Plantae,plants,eats
+141725,59476,Diplotaxis,,eats
+141725,58202,Malva parviflora,cheeseweed mallow,eats
+141725,71409,Cleomaceae,spider flower family,eats
+141725,60218,Ficus carica,common fig,eats
+141725,55882,Hedera helix,common ivy,eats
+141725,,Persea americana,,eats
+141725,,Macademia tetraphylla,,eats
+141725,,Citrus,,eats
+141725,,Oryza sativa,,eats
+141725,,Passiflora edulis,,eats
+141725,,Glycine max,,eats
+141725,,Lycopersicon,,eats
+141725,63205,Arachis hypogaea,Peanut,eats
+141725,,Lathyrus odoratus,,eats
+141725,,Brugmansia,,eats
+141725,165060,Macroptilium lathyroides,Phasey Bean,eats
+141725,54498,Beta vulgaris,Beet,eats
+141725,122850,Phaseolus vulgaris,Common Bean,eats
+141725,78835,Rapistrum rugosum,annual bastard cabbage,eats
+141725,48448,Zea mays,Maize,eats
+141725,52586,Silybum marianum,milk thistle,eats
+141725,,Vigna radiata,,eats
+141725,,"Broadleaved trees, shrubs and climbers",,eats
+141725,122860,Phaseolus coccineus,Runner bean,eats
+141725,55971,Tanacetum vulgare,tansy,eats
+141725,76541,Cucurbita pepo,American pumpkin,eats
+141725,,Astrantia major,,eats
+141725,,Tarenaya spinosa,,eats
+141725,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+141725,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+141725,,Podarcis muralis,,eatenBy
+141725,56739,Ricinus communis,castor bean,preysOn
+141725,450938,Pristhesancus plagipennis,,preysOn
+141725,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy

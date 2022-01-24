@@ -1,0 +1,99 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7493,125816,Auchenorrhyncha,True Hoppers,eats
+7493,47822,Diptera,Flies,eats
+7493,61267,Heteroptera,True Bugs,eats
+7493,47118,Araneae,Spiders,eats
+7493,47208,Coleoptera,Beetles,eats
+7493,47157,Lepidoptera,Butterflies and Moths,eats
+7493,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7493,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+7493,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7493,47158,Insecta,Insects,eats
+7493,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+7493,47792,Odonata,Dragonflies and Damselflies,eats
+7493,69778,Encyrtidae,Encyrtid Wasps,eats
+7493,84670,Ephydridae,Shore Flies,eats
+7493,61860,Calliphoridae,Blow Flies,eats
+7493,47416,Lycosidae,Wolf Spiders,eats
+7493,51225,Tipulidae,Large Crane Flies,eats
+7493,203199,Torymidae,,eats
+7493,48139,Salticidae,Jumping Spiders,eats
+7493,53225,Rhopalidae,Scentless Plant Bugs,eats
+7493,127593,Chloropidae,Frit Flies,eats
+7493,47126,Plantae,plants,eats
+7493,48742,Sphecidae,Thread-waisted Wasps,eats
+7493,53248,Elateridae,Click Beetles,eats
+7493,55594,Cynipidae,Gall Wasps,eats
+7493,81969,Mordellidae,Tumbling Flower Beetles,eats
+7493,47155,Tortricidae,Tortricid Leafroller Moths,eats
+7493,48194,Psyllidae,jumping plant lice,eats
+7493,52425,Chrysopidae,Green Lacewings,eats
+7493,174592,Anthocoridae,Minute pirate bugs,eats
+7493,49683,Pyralidae,Pyralid Snout Moths,eats
+7493,48086,Agromyzidae,Leaf-miner Flies,eats
+7493,48736,Curculionidae,True Weevils,eats
+7493,81951,Dermestidae,Skin Beetles,eats
+7493,59510,Meloidae,Blister Beetles,eats
+7493,67599,Linyphiidae,Sheetweb and Dwarf Weavers,eats
+7493,63187,Braconidae,Braconid Wasps,eats
+7493,52884,Gryllidae,True Crickets,eats
+7493,57843,Cydnidae,Burrowing Bugs,eats
+7493,55351,Phoridae,Humpbacked Flies,eats
+7493,67742,Drosophilidae,Vinegar and Fruit Flies,eats
+7493,53237,Cicadellidae,Typical Leafhoppers,eats
+7493,48486,Coccinellidae,Lady Beetles,eats
+7493,47336,Formicidae,Ants,eats
+7493,49530,Geometridae,Geometer Moths,eats
+7493,48959,Reduviidae,Assassin Bugs,eats
+7493,47625,Bostrichidae,Auger Beetles,eats
+7493,60052,Raphidiidae,Raphidiid Snakeflies,eats
+7493,53505,Miridae,Plant Bugs,eats
+7493,47951,Staphylinidae,Rove Beetles,eats
+7493,47990,Tephritidae,Fruit Flies,eats
+7493,126149,Chrysididae,Cuckoo Wasps,eats
+7493,51146,Chrysomelidae,Leaf Beetles,eats
+7493,48670,Noctuidae,Cutworm Moths and Allies,eats
+7493,49996,Anthomyiidae,Root-maggot Flies,eats
+7493,47742,Pentatomidae,Stink Bugs,eats
+7493,47199,Ichneumonidae,Ichneumonid Wasps,eats
+7493,51953,Tachinidae,Bristle Flies,eats
+7493,57354,Schinus molle,Peruvian Pepper Tree,eats
+7493,118903,Termitoidae,Termites,eats
+7493,184884,Pterygota,Winged and Once-winged Insects,eats
+7493,120527,Melaleuca quinquenervia,Broad-leaved paperbark,eats
+7493,56584,Lasiocampidae,Lappet Moths,eats
+7493,47982,Asilidae,Robber Flies,eats
+7493,,Pteromalidae,,eats
+7493,69803,Ceratopogonidae,Biting Midges,eats
+7493,85012,Eulophidae,,eats
+7493,,Cephidae,,eats
+7493,,Chyromyidae,,eats
+7493,68869,Histeridae,Hister Beetles,eats
+7493,,Adelgidae,,eats
+7493,54944,Fulgoridae,Lanternbugs,eats
+7493,,Argidae,,eats
+7493,,Myopsocidae,,eats
+7493,143336,Phlaeothripidae,Tube-tailed Thrips,eats
+7493,,Pythidae,,eats
+7493,,Mycetophilidae,,eats
+7493,123608,Delphacidae,,eats
+7493,49024,Membracidae,Typical Treehoppers,eats
+7493,,Acroceridae,,eats
+7493,,Signiphoridae,,eats
+7493,128552,Tetranychidae,Spider Mites,eats
+7493,,Anobiidae,,eats
+7493,61863,Cercopidae,Froghoppers,eats
+7493,,Trogossitidae,,eats
+7493,,Mymaridae,,eats
+7493,,Sciaridae,,eats
+7493,,Chrysobalanus icaco,,eats
+7493,,Bursera fagaroides,,eats
+7493,,Nectandra salicifolia,,eats
+7493,,Psittacanthus,,eats
+7493,,Psychotria lauracea,,eats
+7493,,Bursera simaruba,,eats
+7493,,Tabernaemontana litoralis,,eats
+7493,47118,Araneae,Spiders,preysOn
+7493,47982,Asilidae,Robber Flies,preysOn
+7493,324726,Lycorma delicatula,Spotted Lanternfly,preysOn
+7493,4672,Falco columbarius,Merlin,preyedUponBy

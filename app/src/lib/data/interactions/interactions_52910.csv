@@ -1,0 +1,69 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52910,13858,Passer domesticus,House Sparrow,eats
+52910,508048,Antigone canadensis,Sandhill Crane,eatenBy
+52910,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+52910,,Stegodyphus sarasinorum,,eatenBy
+52910,,Orthodera ministralis,,eatenBy
+52910,,Hemibrycon sanjuanensis,,eatenBy
+52910,13094,Erithacus rubecula,European Robin,eatenBy
+52910,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+52910,16110,Contopus cooperi,Olive-sided Flycatcher,eatenBy
+52910,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+52910,47758,Oxalis,woodsorrels,pollinates
+52910,53207,Senecio,groundsels,pollinates
+52910,47219,Apis mellifera,Western Honey Bee,pollinates
+52910,,Senecio bustillosianus,,pollinates
+52910,,Azorella madreporica,,pollinates
+52910,178226,Eucryphia cordifolia,Ulmo,pollinates
+52910,461583,Berberis empetrifolia,,pollinates
+52910,77844,Luma apiculata,arrayan,pollinates
+52910,,Amomyrtus meli,,pollinates
+52910,,Nassauvia lagascae,,pollinates
+52910,855444,Myrceugenia ovata,,pollinates
+52910,,Calandrinia affinis,,pollinates
+52910,,Montiopsis sericea,,pollinates
+52910,471760,Tepualia stipularis,,pollinates
+52910,,Gevuina avellana,,pollinates
+52910,,Azorella monantha,,pollinates
+52910,,Olsynium junceum,,pollinates
+52910,400059,Bowlesia tropaeolifolia,,pollinates
+52910,,Nassauvia axillaris,,pollinates
+52910,,Draba gilliesii,,pollinates
+52910,,Discaria nana,,pollinates
+52910,,Knowltonia major,,pollinates
+52910,,Nototriche transandina,,pollinates
+52910,,Paepalanthus paulensis,,pollinates
+52910,,Galianthe angustifolia,,pollinates
+52910,451481,Cerceris arenaria,,preysOn
+52910,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+52910,47819,Libellulidae,Skimmers,preyedUponBy
+52910,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+52910,47928,Zygoptera,Damselflies,preyedUponBy
+52910,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+52910,51556,Sympetrum,Meadowhawks,preyedUponBy
+52910,47927,Anisoptera,Dragonflies,preyedUponBy
+52910,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+52910,48124,Tettigoniidae,Katydids,preyedUponBy
+52910,,Phidippus purpuratus,,preyedUponBy
+52910,127777,Vespula vulgaris,Common European Yellowjacket,preyedUponBy
+52910,,Opisthoncus polyphemus,,preyedUponBy
+52910,,Somatochlora,,preyedUponBy
+52910,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+52910,,Dolomedes fimbriatus,,preyedUponBy
+52910,,Phylloneta impressa,,preyedUponBy
+52910,25474,Rana,Pond Frogs,preyedUponBy
+52910,61508,Ischnura elegans,Blue-tailed Damselfly,preyedUponBy
+52910,82118,Dolomedes,Fishing Spiders,preyedUponBy
+52910,132657,Sympetrum vulgatum,Vagrant Darter,preyedUponBy
+52910,51679,Coenagrion,Northern Bluets,preyedUponBy
+52910,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+52910,113525,Sympetrum sanguineum,Ruddy Darter,preyedUponBy
+52910,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+52910,153861,Tibellus maritimus,,preyedUponBy
+52910,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+52910,,Libellula depressa,,preyedUponBy
+52910,,Ensifera,,preyedUponBy
+52910,,Theridion pictum,,preyedUponBy
+52910,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+52910,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+52910,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy

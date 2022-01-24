@@ -1,0 +1,111 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48292,47170,Fungi,Fungi Including Lichens,eats
+48292,55882,Hedera helix,common ivy,eats
+48292,67333,Bacteria,bacteria,eats
+48292,,microbes,,eats
+48292,,litter,,eats
+48292,,Crucibulum laeve,,eats
+48292,,mykorrhiza,,eats
+48292,,leaf litter,,eats
+48292,,saphrophytes,,eats
+48292,129902,Camponotus pennsylvanicus,Eastern Black Carpenter Ant,eatenBy
+48292,61524,Forficula auricularia,European Earwig,preyedUponBy
+48292,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+48292,47951,Staphylinidae,Rove Beetles,preyedUponBy
+48292,52932,Cantharidae,Soldier Beetles,preyedUponBy
+48292,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+48292,132021,Philonthus,,preyedUponBy
+48292,,Porrhomma errans,,preyedUponBy
+48292,126513,Larinioides cornutus,Furrow Orbweaver,preyedUponBy
+48292,385996,Araeoncus humilis,,preyedUponBy
+48292,,Anisodactylus binotatus,,preyedUponBy
+48292,,Hahnia nava,,preyedUponBy
+48292,,Amara aulica,,preyedUponBy
+48292,,Tasgius melanarius,,preyedUponBy
+48292,130452,Amara plebeja,,preyedUponBy
+48292,1255692,Enoplognatha ovata,Candy-striped Spider complex,preyedUponBy
+48292,452503,Robertus lividus,,preyedUponBy
+48292,,Amara sinuosa,,preyedUponBy
+48292,,Harpalus distinguendus,,preyedUponBy
+48292,,Leistus ferrugineus,,preyedUponBy
+48292,,Collinsia inerrans,,preyedUponBy
+48292,,Troxochrus scabriculus,,preyedUponBy
+48292,129017,Araniella cucurbitina,Cucumber Green Spider,preyedUponBy
+48292,,Amara familiaris,,preyedUponBy
+48292,233604,Walckenaeria atrotibialis,,preyedUponBy
+48292,,Centromerus sylvaticus,,preyedUponBy
+48292,,Syntomus truncatellus,,preyedUponBy
+48292,,Diplocephalus cristatus,,preyedUponBy
+48292,,Enoplognatha thoracica,,preyedUponBy
+48292,784286,Micrargus apertus,,preyedUponBy
+48292,,Robertus arundineti,,preyedUponBy
+48292,784143,Bathyphantes parvulus,,preyedUponBy
+48292,,Agrypnus murinus,,preyedUponBy
+48292,216086,Carabus granulatus,Granulated Ground Beetle,preyedUponBy
+48292,,Diplocephalus latifrons,,preyedUponBy
+48292,71061,Xysticus cristatus,,preyedUponBy
+48292,,Notiophilus palustris,,preyedUponBy
+48292,,Cryptachaea riparia,,preyedUponBy
+48292,121779,Agalenatea redii,Gorse Orbweaver,preyedUponBy
+48292,,Micrargus subaequalis,,preyedUponBy
+48292,130412,Acupalpus meridianus,,preyedUponBy
+48292,504180,Microlestes minutulus,,preyedUponBy
+48292,,Diplostyla concolor,,preyedUponBy
+48292,,Lithobius forficatus,,preyedUponBy
+48292,,Amara communis,,preyedUponBy
+48292,,Mermessus trilobatus,,preyedUponBy
+48292,,Tasgius pedator,,preyedUponBy
+48292,,Bathyphantes gracilis,,preyedUponBy
+48292,131827,Microlestes maurus,,preyedUponBy
+48292,131081,Dyschirius globosus,,preyedUponBy
+48292,784211,Robertus neglectus,,preyedUponBy
+48292,131931,Pterostichus melanarius,Rain-beetle,preyedUponBy
+48292,,Ocypus nitens,,preyedUponBy
+48292,,Anchomenus dorsalis,,preyedUponBy
+48292,56552,Carabus nemoralis,Bronze Ground Beetle,preyedUponBy
+48292,,Walckenaeria vigilax,,preyedUponBy
+48292,,Amara ovata,,preyedUponBy
+48292,,Calathus fuscipes,,preyedUponBy
+48292,,Agyneta affinis,,preyedUponBy
+48292,,Dipoena melanogaster,,preyedUponBy
+48292,130638,Bembidion lampros,,preyedUponBy
+48292,,Amara equestris,,preyedUponBy
+48292,,Calathus erratus,,preyedUponBy
+48292,131819,Loricera pilicornis,,preyedUponBy
+48292,,Bembidion quadrimaculatum,,preyedUponBy
+48292,130433,Amara aenea,Common Sun Beetle,preyedUponBy
+48292,,Nebria brevicollis,,preyedUponBy
+48292,397950,Tenuiphantes tenuis,,preyedUponBy
+48292,216360,Centromerita bicolor,,preyedUponBy
+48292,568485,Oedothorax apicatus,,preyedUponBy
+48292,245656,Synema globosum,Napoleon Spider,preyedUponBy
+48292,,Mangora acalypha,,preyedUponBy
+48292,,Erigone dentipalpis,,preyedUponBy
+48292,131009,Calathus melanocephalus,,preyedUponBy
+48292,,Trechus quadristriatus,,preyedUponBy
+48292,523365,Harpalus griseus,,preyedUponBy
+48292,,Neriene fusca,,preyedUponBy
+48292,778686,Porrhomma microphthalmum,,preyedUponBy
+48292,,Amara quenseli,,preyedUponBy
+48292,,Cicurina cicur,,preyedUponBy
+48292,,Singa hamata,,preyedUponBy
+48292,491325,Geophilus electricus,,preyedUponBy
+48292,905423,Lithobius macilentus,,preyedUponBy
+48292,,Geophilus ribauti,,preyedUponBy
+48292,496759,Geophilus insculptus,,preyedUponBy
+48292,,Malthodes,,preyedUponBy
+48292,,Lithobius,,preyedUponBy
+48292,230519,Schendyla nemorensis,,preyedUponBy
+48292,,Lithobius muticus,,preyedUponBy
+48292,739596,Lithobius mutabilis,,preyedUponBy
+48292,521083,Strigamia acuminata,,preyedUponBy
+48292,568199,Lithobius curtipes,,preyedUponBy
+48292,537133,Lithobius crassipes,,preyedUponBy
+48292,498635,Lithobius piceus,,preyedUponBy
+48292,498011,Abax ovalis,,preyedUponBy
+48292,710435,Molops elatus,,preyedUponBy
+48292,131102,Harpalus tardus,,preyedUponBy
+48292,510481,Othius punctulatus,,preyedUponBy
+48292,,Cochlodryas,,preyedUponBy
+48292,526528,Anelasmocephalus cambridgei,,preyedUponBy
+48292,131093,Harpalus,,preyedUponBy

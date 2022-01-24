@@ -1,0 +1,114 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50999,50999,Ficus,Figs,eats
+50999,,Ficus cucurbit,,eats
+50999,,Ficus kerkhove,,eats
+50999,,Ficus heteropl,,eats
+50999,,Ficus bracteat,,eats
+50999,,Ficus recurvat,,eats
+50999,,Ficus gnaphalo,,eats
+50999,,Ficus leptocla,,eats
+50999,,Ficus trichoca,,eats
+50999,,Ficus pellucid,,eats
+50999,,Ficus macrospe,,eats
+50999,,Ficus sp.3,,eats
+50999,40992,Artibeus,Neotropical Fruit Bats,eatenBy
+50999,199404,Ceratitis capitata,Mediterranean Fruit Fly,eatenBy
+50999,7998,Corvus,Crows and Ravens,eatenBy
+50999,12705,Turdus,Typical Thrushes,eatenBy
+50999,41090,Glossophaga soricina,Pallas's Long-tongued Bat,eatenBy
+50999,14011,Vidua macroura,Pin-tailed Whydah,eatenBy
+50999,14591,Pycnonotus jocosus,Red-whiskered Bulbul,eatenBy
+50999,1,Animalia,Animals,eatenBy
+50999,14556,Pycnonotidae,Bulbuls,eatenBy
+50999,42241,Bovidae,Bovids,eatenBy
+50999,14850,Sturnus vulgaris,European Starling,eatenBy
+50999,43367,Primates,Primates,eatenBy
+50999,61503,Ascalapha odorata,Black Witch,eatenBy
+50999,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+50999,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+50999,9915,Piranga rubra,Summer Tanager,eatenBy
+50999,506270,Trioza brevigenae,Ficus leaf-rolling psyllid,eatenBy
+50999,309466,Aphis gossypii,Melon Aphid,eatenBy
+50999,57665,Cotinis mutabilis,Figeater Beetle,eatenBy
+50999,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+50999,40268,Chiroptera,Bats,eatenBy
+50999,50999,Ficus,Figs,eatenBy
+50999,45994,Sciurus,Tree Squirrels,eatenBy
+50999,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+50999,12890,Catharus guttatus,Hermit Thrush,eatenBy
+50999,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+50999,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+50999,9346,Icterus galbula,Baltimore Oriole,eatenBy
+50999,12727,Turdus migratorius,American Robin,eatenBy
+50999,12937,Sialia mexicana,Western Bluebird,eatenBy
+50999,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+50999,506118,Aphelocoma californica,California Scrub-Jay,eatenBy
+50999,9357,Icterus bullockii,Bullock's Oriole,eatenBy
+50999,9100,Melospiza melodia,Song Sparrow,eatenBy
+50999,9420,Pipilo maculatus,Spotted Towhee,eatenBy
+50999,,Pteropus giganteus,,eatenBy
+50999,,Pteropus samoensis,,eatenBy
+50999,43486,Cercopithecus mitis,Blue Monkey,eatenBy
+50999,,Leontopithecus chrysomelas,,eatenBy
+50999,,Uroderma bilobatum,,eatenBy
+50999,,Dermanura,,eatenBy
+50999,,Artibeus lituratus,,eatenBy
+50999,,Artibeus jamaicensis,,eatenBy
+50999,,Platyrrhinus helleri helleri,,eatenBy
+50999,,Vampyressa nymphaea,,eatenBy
+50999,,Chiroderma villosum,,eatenBy
+50999,,Sturnira lilium,,eatenBy
+50999,41110,Carollia perspicillata,Seba's Short-tailed Bat,eatenBy
+50999,,Carollia brevicauda,,eatenBy
+50999,,Phyllostomus hastatus,,eatenBy
+50999,,Carollia castanea,,eatenBy
+50999,215616,Cadra cautella,Almond moth,eatenBy
+50999,,Cadra figulilella,,eatenBy
+50999,894927,Conogethes punctiferalis,,eatenBy
+50999,,Achaea janata,,eatenBy
+50999,154624,Glyphodes pyloalis,Lesser Mulberry Snout,eatenBy
+50999,,Cryptophlebia leucotreta,,eatenBy
+50999,,Tetranychus urticae,,eatenBy
+50999,,Eutetranychus banksi,,eatenBy
+50999,330227,Lepidosaphes beckii,Citrus Mussel Scale,eatenBy
+50999,,Aonidiella aurantii,,eatenBy
+50999,,Dialeurodes citri,,eatenBy
+50999,,Chrysomphalus aonidum,,eatenBy
+50999,,Lepidosaphes,,eatenBy
+50999,,Saissetia persimilis,,eatenBy
+50999,,Chrysomphalus dictyospermi,,eatenBy
+50999,,Lepidosaphes ulmi,,eatenBy
+50999,,Pinnaspis aspidistrae,,eatenBy
+50999,,Septemaleurodes swainei,,eatenBy
+50999,,Philiris innotata,,eatenBy
+50999,,Euploea,,eatenBy
+50999,,Anascirtothrips arorai,,eatenBy
+50999,,Anascirtothrips arafura,,eatenBy
+50999,,Tectocoris diophthalmus,,eatenBy
+50999,,Setaleyrodes thretaonai,,eatenBy
+50999,330232,Pseudaonidia trilobitiformis,,eatenBy
+50999,330230,Pinnaspis strachani,,eatenBy
+50999,569119,Pinnaspis buxi,coconut scale,eatenBy
+50999,,Parathyginus signifer,,eatenBy
+50999,,Parathyginus kurandae,,eatenBy
+50999,,Parathyginus doddi,,eatenBy
+50999,,Montandoniola sawtellense,,eatenBy
+50999,,Montandoniola moraguesi,,eatenBy
+50999,533354,Montandoniola confusa,,eatenBy
+50999,391720,Lindingaspis rossi,Ross' Black Scale,eatenBy
+50999,,Leptocoris vicinus,,eatenBy
+50999,,Ipolo davisi,,eatenBy
+50999,,Hemiberlesia palmae,,eatenBy
+50999,330222,Hemiberlesia lataniae,Latania scale,eatenBy
+50999,,Greenidea ficicola,,eatenBy
+50999,,Fiorinia fioriniae,,eatenBy
+50999,,Dinomachus australis,,eatenBy
+50999,,Dialeuropora,,eatenBy
+50999,508692,Dialeurodes kirkaldyi,,eatenBy
+50999,,Dialecticopteryx australica,,eatenBy
+50999,,Coleotichus excellens,,eatenBy
+50999,,Clavaspis subcuticularis,,eatenBy
+50999,,Aleuroclava,,eatenBy
+50999,514346,Aleurocanthus spiniferus,Orange spiny whitefly,eatenBy
+50999,,Trachytyla xylophthora,,eatenBy
+50999,43088,Heterohyrax brucei,Bush Hyrax,preyedUponBy

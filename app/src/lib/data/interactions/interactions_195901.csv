@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+195901,47584,Bivalvia,Bivalves,eats
+195901,144117,Thecostraca,Barnacles and Allies,eats
+195901,47679,Patellogastropoda,True Limpets,eats
+195901,50760,Neritidae,Nerite Snails,eats
+195901,210289,Cirripedia,Barnacles,eats
+195901,475462,Vasula melones,Gourd Rock Snail,eats
+195901,47584,Bivalvia,Bivalves,preysOn
+195901,144117,Thecostraca,Barnacles and Allies,preysOn
+195901,47679,Patellogastropoda,True Limpets,preysOn
+195901,50760,Neritidae,Nerite Snails,preysOn
+195901,475462,Vasula melones,Gourd Rock Snail,preysOn

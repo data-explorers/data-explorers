@@ -1,0 +1,83 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51549,92583,Trachurus,Jack Mackerels,eats
+51549,49411,Synodus,,eats
+51549,47178,Actinopterygii,Ray-finned Fishes,eats
+51549,47459,Cephalopoda,Cephalopods,eats
+51549,85493,Crustacea,Crustaceans,eats
+51549,1,Animalia,Animals,eats
+51549,47115,Mollusca,Molluscs,eats
+51549,47490,Polychaeta,Polychaete Worms,eats
+51549,151429,Sepia officinalis,European Common Cuttlefish,eats
+51549,47120,Arthropoda,Arthropods,eats
+51549,52464,Melichthys niger,Black Triggerfish,eats
+51549,129563,Calamus bajonado,Jolthead Porgy,eats
+51549,49950,Haemulon aurolineatum,Tomtate,eats
+51549,82330,Caranx ruber,Bar Jack,eats
+51549,95066,Balistes vetula,Queen Triggerfish,eats
+51549,317017,Calamus pennatula,Pluma Porgy,eats
+51549,131525,Calamus calamus,Saucereye Porgy,eats
+51549,131526,Canthidermis sufflamen,Oceanic Triggerfish,eats
+51549,179478,Priacanthus arenatus,Bigeye,eats
+51549,,Batistes vetula,,eats
+51549,63415,Heteropriacanthus cruentatus,Glasseye,eats
+51549,,Loligo plei,,eats
+51549,49942,Halichoeres radiatus,Puddingwife,eats
+51549,,Hemanthias vivanus,,eats
+51549,317321,Pronotogrammus martinicensis,Roughtongue bass,eats
+51549,48564,Prionotus,,eats
+51549,,Teuthida,,eats
+51549,324558,Loligo vulgaris,European Squid,eats
+51549,,,,eats
+51549,,unspecified invertebrates,,eats
+51549,,Gnathostomata,,eats
+51549,,Invertebrata,,eats
+51549,,Osteichthyes,,eats
+51549,118664,Boops boops,Bogue,eats
+51549,118600,Sardina pilchardus,European Sardine,eats
+51549,51910,Engraulis encrasicolus,European Anchovy,eats
+51549,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eats
+51549,118603,Merluccius merluccius,European Hake,eats
+51549,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,eatenBy
+51549,147189,Tylosurus acus,Keeljaw Longtom,eatenBy
+51549,47296,Lutjanus,Common Snappers,eatenBy
+51549,188767,Carcharhinus perezii,Caribbean Reef Shark,eatenBy
+51549,49404,Synodus intermedius,Sand Diver,eatenBy
+51549,56764,Sphyrna lewini,Scalloped Hammerhead,eatenBy
+51549,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+51549,47251,Sphyraena barracuda,Great Barracuda,eatenBy
+51549,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+51549,4535,Anous stolidus,Brown Noddy,eatenBy
+51549,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+51549,52464,Melichthys niger,Black Triggerfish,preysOn
+51549,131526,Canthidermis sufflamen,Oceanic Triggerfish,preysOn
+51549,317017,Calamus pennatula,Pluma Porgy,preysOn
+51549,82330,Caranx ruber,Bar Jack,preysOn
+51549,179478,Priacanthus arenatus,Bigeye,preysOn
+51549,129563,Calamus bajonado,Jolthead Porgy,preysOn
+51549,95066,Balistes vetula,Queen Triggerfish,preysOn
+51549,131525,Calamus calamus,Saucereye Porgy,preysOn
+51549,49950,Haemulon aurolineatum,Tomtate,preysOn
+51549,324558,Loligo vulgaris,European Squid,preysOn
+51549,118660,Lithognathus mormyrus,Striped Seabream,preysOn
+51549,118599,Sardinella aurita,Round Sardinella,preysOn
+51549,118641,Uranoscopus scaber,Atlantic Stargazer,preysOn
+51549,118656,Pagellus acarne,Axillary Seabream,preysOn
+51549,118659,Pagellus erythrinus,Common Pandora,preysOn
+51549,118628,Chelidonichthys lucerna,Tub Gurnard,preysOn
+51549,118655,Spondyliosoma cantharus,Black Seabream,preysOn
+51549,108196,Pagrus pagrus,Red Porgy,preysOn
+51549,51910,Engraulis encrasicolus,European Anchovy,preysOn
+51549,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,preysOn
+51549,118664,Boops boops,Bogue,preysOn
+51549,118603,Merluccius merluccius,European Hake,preysOn
+51549,118600,Sardina pilchardus,European Sardine,preysOn
+51549,147189,Tylosurus acus,Keeljaw Longtom,preyedUponBy
+51549,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,preyedUponBy
+51549,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy
+51549,56764,Sphyrna lewini,Scalloped Hammerhead,preyedUponBy
+51549,47251,Sphyraena barracuda,Great Barracuda,preyedUponBy
+51549,188767,Carcharhinus perezii,Caribbean Reef Shark,preyedUponBy
+51549,96754,Carcharhinus falciformis,Silky Shark,preyedUponBy
+51549,49404,Synodus intermedius,Sand Diver,preyedUponBy
+51549,52299,Galeocerdo cuvier,Tiger Shark,preyedUponBy
+51549,,no name,,preyedUponBy

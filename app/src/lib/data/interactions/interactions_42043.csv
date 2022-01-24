@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42043,4885,Recurvirostra americana,American Avocet,eats
+42043,,Neopsephotus bourkii,,eats
+42043,43107,Sylvilagus brasiliensis,Tapeti,eats
+42043,5416,Ictinia mississippiensis,Mississippi Kite,eats
+42043,42051,Canis latrans,Coyote,eatenBy
+42043,42069,Vulpes vulpes,Red Fox,eatenBy
+42043,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+42043,4756,Cathartes aura,Turkey Vulture,eatenBy
+42043,42048,Canis lupus,Gray Wolf,eatenBy
+42043,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+42043,41796,Martes martes,Eurasian Pine Marten,eatenBy
+42043,41963,Panthera pardus,Leopard,eatenBy

@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53633,53438,Rosa,roses,eats
+53633,,Rosa subcanina,,eats
+53633,,Rosa corymbifera,,eats
+53633,,Lomelosia caucasica,,eats
+53633,,Dipsacus,,eats
+53633,,Knautia arvensis,,eats
+53633,,Allograpta argentipila,,eatenBy
+53633,133099,Epistrophe,,eatenBy
+53633,56611,Philodromus,,preyedUponBy

@@ -1,0 +1,237 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+153112,118996,Ciliophora,Ciliates,eats
+153112,47126,Plantae,plants,eats
+153112,121643,Copepoda,Copepods,eats
+153112,63770,Engraulis mordax,Northern Anchovy,eats
+153112,47686,Protozoa,protozoans,eats
+153112,67333,Bacteria,bacteria,eats
+153112,153112,Euphausiacea,krill,eats
+153112,,Mysidacea,,eats
+153112,,Pyrrophycophyta,,eats
+153112,152224,Coccosphaerales,,eats
+153112,,arge phytoplankton,,eats
+153112,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,eats
+153112,,Notolepis coatsi,,eats
+153112,,Thysanoessa macrura,,eats
+153112,,Sagitta,,eats
+153112,617783,Electrona antarctica,,eats
+153112,,Scaphocalanus farrani,,eats
+153112,617786,Gymnoscopelus braueri,,eats
+153112,,Pseudoamallothrix cenotelis,,eats
+153112,,Market squid,,eats
+153112,,Chinook salmon (juvenile),,eats
+153112,,Coho salmon (juvenile),,eats
+153112,,Chum salmon (juvenile),,eats
+153112,,Detritus,,eats
+153112,,Phytoplankton,,eats
+153112,,ice algae,,eats
+153112,,plankton,,eats
+153112,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+153112,41558,Balaenoptera edeni,Eden's Whale,eatenBy
+153112,1159805,Thalassocalyce inconstans,Umbrella Comb Jelly,eatenBy
+153112,41562,Balaenoptera physalus,Fin Whale,eatenBy
+153112,432545,Todarodes sagittatus,European Flying Squid,eatenBy
+153112,4504,Fratercula arctica,Atlantic Puffin,eatenBy
+153112,4080,Oceanodroma leucorhoa,Leach's Storm-Petrel,eatenBy
+153112,4501,Alca torda,Razorbill,eatenBy
+153112,4519,Uria aalge,Common Murre,eatenBy
+153112,4153,Pelagodroma marina,White-faced Storm-Petrel,eatenBy
+153112,4130,Pelecanoides urinatrix,Common Diving-Petrel,eatenBy
+153112,4345,Larus occidentalis,Western Gull,eatenBy
+153112,4343,Larus,Large White-headed Gulls,eatenBy
+153112,4158,Pachyptila turtur,Fairy Prion,eatenBy
+153112,4077,Oceanodroma furcata,Fork-tailed Storm-Petrel,eatenBy
+153112,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+153112,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+153112,3817,Eudyptula minor,Little Penguin,eatenBy
+153112,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+153112,103601,Jasus edwardsii,Southern Rock Lobster,eatenBy
+153112,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+153112,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+153112,41553,Balaenoptera musculus,Blue Whale,eatenBy
+153112,41550,Balaenoptera acutorostrata,Minke Whale,eatenBy
+153112,41566,Megaptera novaeangliae,Humpback Whale,eatenBy
+153112,800860,Salpa thompsoni,,eatenBy
+153112,151827,Chaetognatha,Arrow Worms,eatenBy
+153112,85777,Exocoetidae,Flyingfishes,eatenBy
+153112,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+153112,153112,Euphausiacea,krill,eatenBy
+153112,85514,Cyclopoida,Cyclopoid Copepods,eatenBy
+153112,63770,Engraulis mordax,Northern Anchovy,eatenBy
+153112,118710,Naucrates ductor,Pilotfish,eatenBy
+153112,114122,Thunnus alalunga,Albacore,eatenBy
+153112,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+153112,92583,Trachurus,Jack Mackerels,eatenBy
+153112,187047,Allothunnus fallai,Slender tuna,eatenBy
+153112,54541,Hippocampus,Seahorses,eatenBy
+153112,204776,Pseudocaranx dentex,Silver Trevally,eatenBy
+153112,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+153112,464893,Forskaliidae,,eatenBy
+153112,195398,Agalmatidae,,eatenBy
+153112,47457,Octopodidae,Typical Octopuses,eatenBy
+153112,128782,Prayidae,,eatenBy
+153112,152927,Thalassocalycida,,eatenBy
+153112,634585,Physonectae,,eatenBy
+153112,152823,Siphonophorae,Siphonophores,eatenBy
+153112,510794,Eurhamphaeidae,,eatenBy
+153112,245602,Pandeidae,,eatenBy
+153112,83316,Ommastrephidae,Flying Squids,eatenBy
+153112,117709,Cydippida,Cydippids,eatenBy
+153112,117710,Pleurobrachiidae,Sea Gooseberries,eatenBy
+153112,49441,Loliginidae,Pencil Squids,eatenBy
+153112,60670,Mitrocomidae,,eatenBy
+153112,245636,Laodiceidae,,eatenBy
+153112,510785,Apolemiidae,,eatenBy
+153112,4515,Uria,Murres,eatenBy
+153112,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+153112,,Oplophorus typus,,eatenBy
+153112,,Antarctomysis ohlini,,eatenBy
+153112,1072156,Heterocarpus gibbosus,Humpback nylon shrimp,eatenBy
+153112,669122,Heterocarpus woodmasoni,Indian nylon shrimp,eatenBy
+153112,,Alle alle,,eatenBy
+153112,4516,Uria lomvia,Thick-billed Murre,eatenBy
+153112,4494,Rissa tridactyla,Black-legged Kittiwake,eatenBy
+153112,4418,Cepphus grylle,Black Guillemot,eatenBy
+153112,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+153112,195122,Macropipus tuberculatus,Portunid crab,eatenBy
+153112,180394,Pandalus platyceros,California Spot Prawn,eatenBy
+153112,226885,Pandalus jordani,Ocean Shrimp,eatenBy
+153112,226883,Pandalus goniurus,Humpy Shrimp,eatenBy
+153112,260476,Plesionika acanthonotus,Lesser striped shrimp,eatenBy
+153112,558991,Plesionika heterocarpus,Arrow shrimp,eatenBy
+153112,684406,Plesionika edwardsii,Striped soldier shrimp,eatenBy
+153112,,Sergia creber,,eatenBy
+153112,,Octopus rubescens,,eatenBy
+153112,432362,Abralia heminuchalis,,eatenBy
+153112,432376,Abraliopsis hoylei,,eatenBy
+153112,432358,Abralia astrosticta,,eatenBy
+153112,525648,Alatina alata,Sea Wasp,eatenBy
+153112,1071209,Pasiphaea sivado,White glass shrimp,eatenBy
+153112,41698,Histriophoca fasciata,Ribbon Seal,eatenBy
+153112,,Loligo media,,eatenBy
+153112,146887,Illex illecebrosus,Northern Shortfin Squid,eatenBy
+153112,201533,Doryteuthis pealeii,Longfin Inshore Squid,eatenBy
+153112,,Uroteuthis duvauceli,,eatenBy
+153112,432546,Todaropsis eblanae,Lesser Flying Squid,eatenBy
+153112,253669,Illex coindetii,Southern Shortfin Squid,eatenBy
+153112,852690,Geryon longipes,,eatenBy
+153112,657312,Chlorotocus crassicornis,Green shrimp,eatenBy
+153112,4493,Rissa brevirostris,Red-legged Kittiwake,eatenBy
+153112,508990,Diomedea exulans,Wandering Albatross,eatenBy
+153112,144529,Sternula albifrons,Little Tern,eatenBy
+153112,4195,Pagodroma nivea,Snow Petrel,eatenBy
+153112,4172,Fregetta tropica,Black-bellied Storm-Petrel,eatenBy
+153112,4388,Larus dominicanus,Kelp Gull,eatenBy
+153112,4366,Larus schistisagus,Slaty-backed Gull,eatenBy
+153112,144528,Onychoprion aleuticus,Aleutian Tern,eatenBy
+153112,54549,Pygoscelis antarcticus,Chinstrap Penguin,eatenBy
+153112,3831,Megadyptes antipodes,Yellow-eyed Penguin,eatenBy
+153112,121643,Copepoda,Copepods,preysOn
+153112,68764,Ostracoda,Seed Shrimp,preysOn
+153112,153112,Euphausiacea,krill,preysOn
+153112,47686,Protozoa,protozoans,preysOn
+153112,67333,Bacteria,bacteria,preysOn
+153112,,Detritus,,preysOn
+153112,,Phytoplankton,,preysOn
+153112,372878,Hyperiidea,,preysOn
+153112,,Mysidacea,,preysOn
+153112,,nauplii,,preysOn
+153112,41553,Balaenoptera musculus,Blue Whale,preyedUponBy
+153112,4531,Brachyramphus marmoratus,Marbled Murrelet,preyedUponBy
+153112,114122,Thunnus alalunga,Albacore,preyedUponBy
+153112,4561,Synthliboramphus antiquus,Ancient Murrelet,preyedUponBy
+153112,4345,Larus occidentalis,Western Gull,preyedUponBy
+153112,4553,Cerorhinca monocerata,Rhinoceros Auklet,preyedUponBy
+153112,56943,Katsuwonus pelamis,Skipjack Tuna,preyedUponBy
+153112,41566,Megaptera novaeangliae,Humpback Whale,preyedUponBy
+153112,41478,Eschrichtius robustus,Grey Whale,preyedUponBy
+153112,41562,Balaenoptera physalus,Fin Whale,preyedUponBy
+153112,85777,Exocoetidae,Flyingfishes,preyedUponBy
+153112,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+153112,41550,Balaenoptera acutorostrata,Minke Whale,preyedUponBy
+153112,41482,Tursiops truncatus,Common Bottlenose Dolphin,preyedUponBy
+153112,151827,Chaetognatha,Arrow Worms,preyedUponBy
+153112,47490,Polychaeta,Polychaete Worms,preyedUponBy
+153112,68764,Ostracoda,Seed Shrimp,preyedUponBy
+153112,85514,Cyclopoida,Cyclopoid Copepods,preyedUponBy
+153112,153112,Euphausiacea,krill,preyedUponBy
+153112,,Myctophum asperum,,preyedUponBy
+153112,610070,Chionodraco rastrospinosus,Ocellated icefish,preyedUponBy
+153112,107572,Oncorhynchus keta,Chum Salmon,preyedUponBy
+153112,53692,Oncorhynchus kisutch,Coho Salmon,preyedUponBy
+153112,64478,Sebastes entomelas,Widow Rockfish,preyedUponBy
+153112,105599,Merluccius productus,Pacific Hake,preyedUponBy
+153112,,Reinhardtius stomias,,preyedUponBy
+153112,51353,Anoplopoma fimbria,Sablefish,preyedUponBy
+153112,64477,Sebastes flavidus,Yellowtail Rockfish,preyedUponBy
+153112,,Sebastes goodei,,preyedUponBy
+153112,64465,Sebastes pinniger,Canary Rockfish,preyedUponBy
+153112,230761,Sebastes saxicola,Stripetail Rockfish,preyedUponBy
+153112,114274,Trachurus symmetricus,Pacific Jack Mackerel,preyedUponBy
+153112,54191,Oncorhynchus tshawytscha,Chinook Salmon,preyedUponBy
+153112,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy
+153112,110361,Prionace glauca,Blue Shark,preyedUponBy
+153112,108798,Parmaturus xaniurus,Filetail Catshark,preyedUponBy
+153112,94439,Apristurus brunneus,Brown Catshark,preyedUponBy
+153112,4547,Ptychoramphus aleuticus,Cassin's Auklet,preyedUponBy
+153112,52539,Ophiodon elongatus,Lingcod,preyedUponBy
+153112,64464,Sebastes jordani,Shortbelly Rockfish,preyedUponBy
+153112,188252,Sarda chiliensis,Eastern Pacific Bonito,preyedUponBy
+153112,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preyedUponBy
+153112,68075,Oncorhynchus clarkii,Cutthroat Trout,preyedUponBy
+153112,47760,Sebastes melanops,Black rockfish,preyedUponBy
+153112,69840,Scomber japonicus,Pacific Chub Mackerel,preyedUponBy
+153112,,Puffinus tenuirostris,,preyedUponBy
+153112,41559,Balaenoptera borealis,Sei Whale,preyedUponBy
+153112,180031,Microstomus pacificus,Pacific Dover Sole,preyedUponBy
+153112,,E. antarctica (60-90mm),,preyedUponBy
+153112,,G. braueri (90-120mm),,preyedUponBy
+153112,,G. braueri (60-90mm),,preyedUponBy
+153112,,P. tenisoni,,preyedUponBy
+153112,,E. antarctica (30-60mm),,preyedUponBy
+153112,,P. bolini,,preyedUponBy
+153112,,E. antarctica (90-120mm),,preyedUponBy
+153112,,Notolepis coatsi,,preyedUponBy
+153112,,Sagitta,,preyedUponBy
+153112,617783,Electrona antarctica,,preyedUponBy
+153112,617786,Gymnoscopelus braueri,,preyedUponBy
+153112,529536,Bathylagus antarcticus,Antarctic Deepsea Smelt,preyedUponBy
+153112,,tuna 1,,preyedUponBy
+153112,608623,Dolloidraco longedorsalis,,preyedUponBy
+153112,,Pagetopsis maculatus,,preyedUponBy
+153112,,Epimeria rubrieques,,preyedUponBy
+153112,,Cryodraco antarcticus,,preyedUponBy
+153112,,Melphidippa antarctica,,preyedUponBy
+153112,617819,Protomyctophum bolini,,preyedUponBy
+153112,651712,Astrotoma agassizii,,preyedUponBy
+153112,,Liljeborgia georgiana,,preyedUponBy
+153112,617788,Gymnoscopelus nicholsi,,preyedUponBy
+153112,608635,Pogonophryne marmorata,,preyedUponBy
+153112,,Epimeria robusta,,preyedUponBy
+153112,610068,Chionodraco hamatus,,preyedUponBy
+153112,1119461,Ophionotus victoriae,Victoria Brittle Star,preyedUponBy
+153112,195414,Solmundella bitentaculata,,preyedUponBy
+153112,41700,Lobodon carcinophaga,Crabeater Seal,preyedUponBy
+153112,,Uristes gigas,,preyedUponBy
+153112,,Rhachotropis antarctica,,preyedUponBy
+153112,,Epimeria macrodonta,,preyedUponBy
+153112,41751,Arctocephalus gazella,Antarctic Fur Seal,preyedUponBy
+153112,1171939,Ophioperla koehleri,,preyedUponBy
+153112,609218,Gerlachea australis,,preyedUponBy
+153112,1171999,Ophioplinthus brevirima,,preyedUponBy
+153112,1316623,Pleuragramma antarcticum,,preyedUponBy
+153112,644123,Bargmannia,,preyedUponBy
+153112,608620,Artedidraco orianae,,preyedUponBy
+153112,609219,Gymnodraco acuticeps,,preyedUponBy
+153112,1172008,Ophioplinthus gelida,,preyedUponBy
+153112,41512,Lagenorhynchus cruciger,Hourglass Dolphin,preyedUponBy
+153112,610057,Chaenodraco wilsoni,,preyedUponBy
+153112,609222,Prionodraco evansii,,preyedUponBy
+153112,610069,Chionodraco myersi,,preyedUponBy
+153112,780667,Desmonema glaciale,,preyedUponBy
+153112,41724,Hydrurga leptonyx,Leopard Seal,preyedUponBy
+153112,74890,Physeter macrocephalus,Sperm Whale,preyedUponBy
+153112,371728,Notothenia coriiceps,Black Rockcod,preyedUponBy
+153112,774778,Gymnoplea,,preyedUponBy
+153112,372878,Hyperiidea,,preyedUponBy
+153112,,Mysidacea,,preyedUponBy

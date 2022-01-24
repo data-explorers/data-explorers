@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60551,53453,Salix,Willows,eats
+60551,47351,Prunus,"plums, cherries, and allies",eats
+60551,49882,Betula alleghaniensis,yellow birch,eats
+60551,54768,Carpinus caroliniana,American hornbeam,eats
+60551,54854,Tilia americana,basswood,eats
+60551,54856,Tilia,"lindens, basswoods, and lime trees",eats
+60551,53373,Corylus,hazels,eats
+60551,54834,Prunus serotina,black cherry,eats
+60551,76341,Cinnamomum camphora,Camphor Tree,eats
+60551,78755,Prunus persica,Peach,eats
+60551,75377,Alnus incana,grey alder,eats
+60551,48582,Sorbus,Rowans and Mountain Ashes,eats
+60551,54840,Populus tremuloides,trembling aspen,eats
+60551,50859,Catalpa bignonioides,southern catalpa,eats
+60551,53352,Alnus,alders,eats
+60551,47727,Acer,maples,eats
+60551,49230,Amelanchier,serviceberries,eats
+60551,57250,Prunus ilicifolia,hollyleaf cherry,eats
+60551,49883,Betula papyrifera,paper birch,eats
+60551,47732,Syringa,Lilacs,eats
+60551,53549,Ulmus,elms,eats
+60551,83072,Syringa vulgaris,common lilac,eats
+60551,53582,Liriodendron tulipifera,tulip tree,eats
+60551,52989,Cirsium vulgare,Bull Thistle,eats
+60551,47566,Populus,"poplars, cottonwoods, and aspens",eats
+60551,49156,Betula,birches,eats
+60551,53580,Liriodendron,Tulip trees,eats
+60551,54500,Malus,apples,eats
+60551,54806,Fraxinus,ashes,eats
+60551,54769,Carpinus,hornbeams,eats
+60551,48561,Cirsium,thistles,eats
+60551,50861,Catalpa,Catalpas,eats
+60551,47851,Quercus,oaks,eats
+60551,52119,Populus deltoides,Eastern Cottonwood,eats
+60551,72055,Cinnamomum,,eats
+60551,54811,Rhamnus cathartica,common buckthorn,eats
+60551,48527,Caprifoliaceae,honeysuckle family,eats
+60551,48628,Echinacea,coneflowers,eats
+60551,85320,Monarda fistulosa,wild bergamot,eats
+60551,48678,Solidago,goldenrods,eats
+60551,122970,Helianthus tuberosus,Jerusalem artichoke,eats
+60551,125381,Asclepias incarnata,swamp milkweed,eats
+60551,69819,Ligustrum,privets,eats
+60551,48627,Echinacea purpurea,purple coneflower,eats
+60551,47544,Rubus,brambles,eats
+60551,50625,Ptelea trifoliata,common hoptree,eats
+60551,,Betula lenta,,eats
+60551,,Carya,,eats
+60551,,Amelanchier laevis,,eats
+60551,,Ptelea,,eats
+60551,,Cydonia,,eats
+60551,,Betula pubescens,,eats
+60551,61964,Prunus avium,wild cherry,eats
+60551,,Salix boothii,,eats
+60551,374345,Betyla,,eats
+60551,,Magnolia virginiana,,eats
+60551,51148,Crataegus,hawthorns,eats
+60551,,Sorbus decora,,eats
+60551,,Prunus pensylvanica,,eats
+60551,,Styrax americanus,,eats
+60551,,Sassafras albidum,,eats
+60551,,Quercus bicolor,,eats
+60551,,Fraxinus americana,,eats
+60551,,Prunus domestica,,eats
+60551,,Cydonia oblonga,,eats
+60551,,Populus grandidentata,,eats
+60551,,Malus pumila,,eats
+60551,,Betula pubescens pubescens,,eats
+60551,,Fraxinus pennsylvanica,,eats
+60551,54793,Lindera benzoin,northern spicebush,eats
+60551,117426,Magnolia acuminata,Cucumber-tree,eats
+60551,,Fraxinus caroliniana,,eats
+60551,54836,Zanthoxylum americanum,prickly ash,eats
+60551,,http://treatment.plazi.org/id/121066DB1BC342D43717D63C76C8297C,,eats
+60551,,Populus balsamifera,,eats
+60551,,Fraxinus nigra,,eats
+60551,,http://treatment.plazi.org/id/861F19EDB057AF161856ABB66130C261,,eats
+60551,,Magnolia,,eats
+60551,,http://treatment.plazi.org/id/C7FD77120F50B7E1A121DE20A292B1F4,,eats
+60551,,Sassafras,,eats
+60551,,Lindera,,eats
+60551,61875,Styrax,snowbells,eats
+60551,,Cerionesta,,eats
+60551,,Zanthoxylum,,eats
+60551,,http://treatment.plazi.org/id/D7B2F2192735F23359A1A47FAD416FC3,,eats
+60551,,Dipsacus fullonum,,eats
+60551,,Tithonia rotundifolia,,eats
+60551,52599,Pontederia cordata,pickerelweed,eats
+60551,,Vernonia gigantea,,eats
+60551,168993,Silphium integrifolium,prairie rosinweed,eats
+60551,132450,Zinnia,,eats
+60551,117438,Dipsacus laciniatus,cutleaf teasel,eats
+60551,,Impatiens balsamina,,eats
+60551,,Phlox paniculata,,eats
+60551,,Eutrochium purpureum,,eats
+60551,373579,Asclepiadoideae,milkweeds,eats
+60551,126583,Hemerocallis fulva,orange day-lily,eats
+60551,,Citrus,,eats
+60551,,Aesculus pavia,,eats
+60551,,Silphium perfoliatum,,eats
+60551,47118,Araneae,Spiders,eatenBy
+60551,,Tenodera angustipennis,,eatenBy
+60551,153563,Neoscona domiciliorum,Red-femured Spotted Orbweaver,eatenBy
+60551,,Promachus rufipes,,eatenBy
+60551,48928,Lilium,true lilies,pollinates
+60551,,Platanthera blephariglottis,,pollinates
+60551,,Platanthera ciliaris,,pollinates
+60551,,Magnolia virginiana,,pollinates
+60551,,Tenodera angustipennis,,preyedUponBy
+60551,153563,Neoscona domiciliorum,Red-femured Spotted Orbweaver,preyedUponBy
+60551,,Promachus rufipes,,preyedUponBy

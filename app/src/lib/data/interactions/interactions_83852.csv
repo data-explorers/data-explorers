@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+83852,,Salix petiolaris,,eats
+83852,,Salix petrophila,,eats
+83852,47118,Araneae,Spiders,eatenBy
+83852,66003,Lithobates pipiens,Northern Leopard Frog,eatenBy
+83852,66003,Lithobates pipiens,Northern Leopard Frog,preyedUponBy
+83852,47118,Araneae,Spiders,preyedUponBy
+83852,736534,Euphranta toxoneura,,preyedUponBy

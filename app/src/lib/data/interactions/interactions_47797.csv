@@ -1,0 +1,107 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47797,47490,Polychaeta,Polychaete Worms,eats
+47797,,Detritus,,eats
+47797,,Zooplankton,,eats
+47797,,no name,,eats
+47797,,Microfauna,,eats
+47797,59806,Gammaridae,,eats
+47797,,Heterotroph flagellat,,eats
+47797,,Autothroph flagellat,,eats
+47797,,Macroalgae,,eats
+47797,,diatom ORGANIC-3,,eats
+47797,47825,Pycnogonida,Pycnogonids,eatenBy
+47797,47668,Asteroidea,Sea Stars,eatenBy
+47797,47114,Gastropoda,Gastropods,eatenBy
+47797,47490,Polychaeta,Polychaete Worms,eatenBy
+47797,132473,Lagodon rhomboides,Pinfish,eatenBy
+47797,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+47797,128750,Sciaenops ocellatus,Red Drum,eatenBy
+47797,812791,Ammothea striata,,eatenBy
+47797,180708,Stegastes leucostictus,Beaugregory,eatenBy
+47797,1023724,Stegastes variabilis,Brazilian Cocoa Damselfish,eatenBy
+47797,49924,Stegastes fuscus,Dusky Damselfish,eatenBy
+47797,63740,Gadus morhua,Atlantic Cod,eatenBy
+47797,465054,Pseudopleuronectes yokohamae,Marbled Flounder,eatenBy
+47797,361763,Paralichthys olivaceus,Olive Flounder,eatenBy
+47797,541673,Lepidonotothen squamifrons,Grey Rockcod,eatenBy
+47797,459418,Notacanthus bonaparte,Shortfin spiny eel,eatenBy
+47797,376023,Colossendeis,,eatenBy
+47797,49275,Cantherhines pullus,Orangespotted Filefish,eatenBy
+47797,52956,Chaetodon capistratus,Four-eyed Butterflyfish,eatenBy
+47797,57338,Abudefduf taurus,Night Sergeant,eatenBy
+47797,49402,Abudefduf saxatilis,Atlantic Sergeant Major,eatenBy
+47797,49495,Holacanthus tricolor,Rock Beauty,eatenBy
+47797,49304,Stegastes planifrons,Threespot Damselfish,eatenBy
+47797,359359,Valenciennea bella,Yellow-filament Goby,eatenBy
+47797,49427,Pomacanthus arcuatus,Grey Angelfish,eatenBy
+47797,97202,Chaetodon striatus,Banded Butterflyfish,eatenBy
+47797,49316,Chaetodipterus faber,Atlantic Spadefish,eatenBy
+47797,49498,Aluterus scriptus,Scrawled Filefish,eatenBy
+47797,49264,Haemulon,,eatenBy
+47797,49257,Pomacanthus paru,French Angelfish,eatenBy
+47797,49925,Acanthostracion quadricornis,Scrawled Cowfish,eatenBy
+47797,253702,Egea inermis,Unarmed Cranch Squid,eatenBy
+47797,432492,Onychoteuthis banksii,Common Clubhook Squid,eatenBy
+47797,253713,Chtenopteryx sicula,Comb-finned Squid,eatenBy
+47797,49904,Pleurobranchus forskalii,Forsskål's Pleurobranch,eatenBy
+47797,464048,Hippasteria phrygiana,Trojan Star,eatenBy
+47797,112419,Sebastes mentella,Deepwater Redfish,eatenBy
+47797,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47797,481841,Microstomus kitt,Lemon Sole,eatenBy
+47797,41720,Erignathus barbatus,Bearded Seal,eatenBy
+47797,63384,Dermasterias,,eatenBy
+47797,,Trematomus hansoni,,eatenBy
+47797,213518,Anarhichas denticulatus,Northern Wolffish,eatenBy
+47797,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47797,128986,Calamus,Rattan palms,eatenBy
+47797,180029,Gadus macrocephalus,Pacific Cod,eatenBy
+47797,113103,Stegastes beebei,Galápagos Ringtail Damselfish,eatenBy
+47797,57343,Stegastes arcifrons,Galápagos Gregory,eatenBy
+47797,97138,Chaetodipterus zonatus,Pacific spadefish,eatenBy
+47797,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+47797,112295,Schroederichthys bivius,Narrowmouthed Catshark,eatenBy
+47797,465518,Acentrogobius pflaumii,Striped Sandgoby,eatenBy
+47797,52457,Chaetodon auriga,Threadfin Butterflyfish,eatenBy
+47797,97174,Chaetodon melannotus,Blackback Butterflyfish,eatenBy
+47797,608520,Argentina elongata,,eatenBy
+47797,90371,Notothenia,,eatenBy
+47797,97208,Chaetodon ulietensis,Pacific Double-saddle Butterflyfish,eatenBy
+47797,47317,Chaetodon,,eatenBy
+47797,48747,Chaetodon vagabundus,Vagabond Butterflyfish,eatenBy
+47797,119385,Arothron nigropunctatus,Blackspotted Puffer,eatenBy
+47797,132688,Amphiprion ocellaris,Ocellaris Anemonefish,eatenBy
+47797,204591,Chrysiptera glauca,Grey Demoiselle,eatenBy
+47797,97150,Chaetodon citrinellus,Speckled Butterflyfish,eatenBy
+47797,97193,Chaetodon rafflesii,Lattice Butterflyfish,eatenBy
+47797,97167,Chaetodon kleinii,Blacklip Butterflyfish,eatenBy
+47797,204597,Plectroglyphidodon dickii,Blackbar Damselfish,eatenBy
+47797,57339,Chrysiptera brownriggii,Indian Surge Demoiselle,eatenBy
+47797,97170,Chaetodon lineolatus,Lined Butterflyfish,eatenBy
+47797,47316,Chaetodon lunula,Raccoon Butterflyfish,eatenBy
+47797,179463,Stenotomus caprinus,Longspine porgy,eatenBy
+47797,,Microfauna,,preysOn
+47797,,Zooplankton,,preysOn
+47797,47114,Gastropoda,Gastropods,preyedUponBy
+47797,47668,Asteroidea,Sea Stars,preyedUponBy
+47797,47490,Polychaeta,Polychaete Worms,preyedUponBy
+47797,47825,Pycnogonida,Pycnogonids,preyedUponBy
+47797,63384,Dermasterias,,preyedUponBy
+47797,49402,Abudefduf saxatilis,Atlantic Sergeant Major,preyedUponBy
+47797,52956,Chaetodon capistratus,Four-eyed Butterflyfish,preyedUponBy
+47797,49924,Stegastes fuscus,Dusky Damselfish,preyedUponBy
+47797,49304,Stegastes planifrons,Threespot Damselfish,preyedUponBy
+47797,,Abudefduf tauru,,preyedUponBy
+47797,49498,Aluterus scriptus,Scrawled Filefish,preyedUponBy
+47797,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy
+47797,49257,Pomacanthus paru,French Angelfish,preyedUponBy
+47797,97202,Chaetodon striatus,Banded Butterflyfish,preyedUponBy
+47797,49264,Haemulon,,preyedUponBy
+47797,49495,Holacanthus tricolor,Rock Beauty,preyedUponBy
+47797,,Acanthostracion quadricomis,,preyedUponBy
+47797,49275,Cantherhines pullus,Orangespotted Filefish,preyedUponBy
+47797,49427,Pomacanthus arcuatus,Grey Angelfish,preyedUponBy
+47797,,Heteronemertes longifissus,,preyedUponBy
+47797,,Baseodiscus antarcticus,,preyedUponBy
+47797,608623,Dolloidraco longedorsalis,,preyedUponBy
+47797,709616,Parborlasia corrugatus,,preyedUponBy
+47797,,Artedidraco lonnbergi,,preyedUponBy

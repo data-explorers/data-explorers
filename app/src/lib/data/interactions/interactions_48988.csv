@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48988,71154,Aphis nerii,Oleander Aphid,eats
+48988,17355,Vireo,Vireos,eatenBy
+48988,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+48988,12727,Turdus migratorius,American Robin,eatenBy
+48988,17394,Vireo gilvus,Warbling Vireo,eatenBy
+48988,47327,Calochortus,mariposa lilies,pollinates
+48988,,Cerastium nutans,,pollinates
+48988,85327,Polygonatum biflorum,smooth Solomon's seal,pollinates
+48988,159305,Boltonia asteroides,white doll's-daisy,pollinates
+48988,,Lysimachia lanceolata,,pollinates
+48988,161274,Cuscuta glomerata,Rope Dodder,pollinates
+48988,,Circaea lutetiana,,pollinates
+48988,,Strophostyles helvola,,pollinates
+48988,,Cercis canadensis,,pollinates
+48988,,Bidens frondosa,,pollinates
+48988,,Aruncus,,pollinates
+48988,,Camassia,,pollinates

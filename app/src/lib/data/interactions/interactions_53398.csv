@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53398,47219,Apis mellifera,Western Honey Bee,eatenBy
+53398,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+53398,6317,Calypte anna,Anna's Hummingbird,eatenBy
+53398,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+53398,48662,Danaus plexippus,Monarch,eatenBy
+53398,464913,Paropsisterna m-fuscum,Eucalyptus Leaf Beetle,eatenBy
+53398,117095,Regulus calendula,Ruby-crowned Kinglet,eatenBy
+53398,52775,Bombus,Bumble Bees,eatenBy
+53398,155373,Glycaspis brimblecombei,Red Gum Lerp Psyllid,eatenBy
+53398,6359,Selasphorus sasin,Allen's Hummingbird,eatenBy
+53398,571187,Nascioides parryi,,eatenBy
+53398,355134,Mnesampela privata,Autumn Gum Moth,eatenBy
+53398,,Triaspidis bicornis,,eatenBy
+53398,,Thaumastocoris australicus,,eatenBy
+53398,1242300,Phyllolyma fracticosta,,eatenBy
+53398,,Octaspidiotus subrubescens,,eatenBy
+53398,,Lindingaspis victoriae,,eatenBy
+53398,,Glycaspis taylori,,eatenBy
+53398,,Ctenarytaina eucalypti,,eatenBy
+53398,,Chrysomphalus rubribullatus,,eatenBy
+53398,,Baclozygum depressum,,eatenBy
+53398,,Thygater aethiops,,eatenBy
+53398,,Bombus rubicundus,,eatenBy
+53398,,Chaetocercus mulsant,,eatenBy
+53398,46010,Sciurus granatensis,Red-tailed Squirrel,eatenBy
+53398,,Bombus funebris,,eatenBy
+53398,497332,Bombus hortulanus,Andean Gardener Bumble Bee,eatenBy
+53398,,Colibri thalassinus cyanotus,,eatenBy
+53398,,Eriocnemis vestita,,eatenBy
+53398,,Colibri coruscans,,eatenBy
+53398,,Diglossa albilatera,,eatenBy
+53398,16956,Pitangus sulphuratus,Great Kiskadee,eatenBy
+53398,,Metanastria hyrtaca,,eatenBy
+53398,,Harknessia spermatoidea,,eatenBy
+53398,,Chrysophtharta bimaculata,,eatenBy
+53398,,Lathamus discolor,,eatenBy
+53398,,Callocephalon fimbriatum,,eatenBy
+53398,18920,Platycercus eximius,Eastern Rosella,eatenBy
+53398,,Picoides nuttallii,,eatenBy
+53398,,Sitta pygmaea,,eatenBy
+53398,,Setophaga townsendi,,eatenBy
+53398,,Zonotrichia atricapilla,,eatenBy
+53398,144820,Poecile rufescens,Chestnut-backed Chickadee,eatenBy
+53398,,Psittacula krameri,,eatenBy
+53398,,Gonipterus platensis,,eatenBy
+53398,,Setophaga auduboni auduboni,,eatenBy
+53398,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+53398,567873,Selitrichodes globulus,Blue Gum Gall Wasp,eatenBy
+53398,47219,Apis mellifera,Western Honey Bee,pollinatedBy

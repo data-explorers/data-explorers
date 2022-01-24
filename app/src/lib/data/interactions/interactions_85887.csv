@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85887,47170,Fungi,Fungi Including Lichens,eats
+85887,,Detritus,,eats
+85887,,Amphisbaena caeca,,eatenBy
+85887,,Eleutherodactylus coqui,,eatenBy
+85887,27581,Achalinus spinalis,Peters' Odd-scaled Snake,preyedUponBy
+85887,,Toxicocalamus ernstmayeri,,preyedUponBy
+85887,35086,Toxicocalamus stanleyanus,Owen Stanley Range Forest Snake,preyedUponBy
+85887,29285,Ninia sebae,Red Coffee Snake,preyedUponBy
+85887,,Adelphicos quadrivirgatum,,preyedUponBy
+85887,,Calamaria griswoldi,,preyedUponBy
+85887,,Geophis cancellatus,,preyedUponBy
+85887,,Geophis nasalis,,preyedUponBy
+85887,,Atractus paraguayensis,,preyedUponBy

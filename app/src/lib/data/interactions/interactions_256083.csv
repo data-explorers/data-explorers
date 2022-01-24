@@ -1,0 +1,109 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+256083,67334,Cyanobacteria,cyanobacteria,eats
+256083,,Khakista,,eats
+256083,,Pyrrophycophyta,,eats
+256083,,Prymnesiophyceae,,eats
+256083,126917,Rotifera,Rotifers,preysOn
+256083,118996,Ciliophora,Ciliates,preysOn
+256083,,Haploscoloplos fragilis,,preysOn
+256083,,Daphnia lumholtzi,,preysOn
+256083,1281933,Monoculodes,,preysOn
+256083,,Clymenella torquata,,preysOn
+256083,199325,Alitta succinea,Clam Worm,preysOn
+256083,1023003,Pherusa affinis,,preysOn
+256083,339222,Polydora cornuta,,preysOn
+256083,,Daphnia pulex,,preysOn
+256083,171609,Simocephalus,,preysOn
+256083,,Melita,,preysOn
+256083,1110968,Podon intermedius,,preysOn
+256083,370753,Gammarus fasciatus,,preysOn
+256083,,Stenothoe minuta,,preysOn
+256083,260807,Rudilemboides naglei,,preysOn
+256083,179583,Gobiosoma bosc,Naked goby,preysOn
+256083,978274,Leptocheirus plumulosus,,preysOn
+256083,1080182,Picripleuroxus striatus,,preysOn
+256083,483880,Alona costata,,preysOn
+256083,483859,Monospilus dispar,,preysOn
+256083,203478,Evadne,,preysOn
+256083,,Laeonereis culveri,,preysOn
+256083,338145,Diaphanosoma,,preysOn
+256083,472067,Penilia avirostris,,preysOn
+256083,59807,Gammarus,,preysOn
+256083,1023033,Praxillella praetermissa,,preysOn
+256083,260712,Caprella penantis,,preysOn
+256083,203765,Spio setosa,,preysOn
+256083,,Diaphanosoma leuchtenbergia,,preysOn
+256083,,Pseudoeurythoe paucibranchiata,,preysOn
+256083,,Marenzelleria viridis,,preysOn
+256083,338433,Heteromastus filiformis,,preysOn
+256083,248382,Lembos,,preysOn
+256083,,Spiochaetopterus oculatus,,preysOn
+256083,1110632,Apocorophium lacustre,,preysOn
+256083,483862,Latona setifera,,preysOn
+256083,1023020,Siphonoecetes smithianus,,preysOn
+256083,,Hypereteone lactea,,preysOn
+256083,338141,Chydorus,,preysOn
+256083,,Glycera dibranchiata,,preysOn
+256083,389387,Eumida sanguinea,,preysOn
+256083,338150,Camptocercus rectirostris,,preysOn
+256083,690805,Spiophanes bombyx,,preysOn
+256083,379515,Autolytus,,preysOn
+256083,483871,Leydigia leydigi,,preysOn
+256083,,Pleopis polyphemoides,,preysOn
+256083,216631,Chaetopterus variopedatus,Fairy Tubeworm,preysOn
+256083,,Pleusymtes glaber,,preysOn
+256083,,Polydora aggregata,,preysOn
+256083,1023058,Paranaitis speciosa,,preysOn
+256083,260498,Ampelisca vadorum,,preysOn
+256083,168927,Sida crystallina,,preysOn
+256083,1232815,Microprotopus raneyi,,preysOn
+256083,1023034,Sabaco elongatus,,preysOn
+256083,1003858,Ilyocryptus spinifer,,preysOn
+256083,,Photis reinhardi,,preysOn
+256083,417657,Paraprionospio pinnata,,preysOn
+256083,339277,Sigambra tentaculata,,preysOn
+256083,48336,Loimia medusa,Medusa Spaghetti Worm,preysOn
+256083,,Alona affinis,,preysOn
+256083,954167,Gammarus daiberi,,preysOn
+256083,260656,Gammarus mucronatus,,preysOn
+256083,,Glycinde solitaria,,preysOn
+256083,626372,Daphnia retrocurva,,preysOn
+256083,295411,Ampelisca verrilli,,preysOn
+256083,260502,Cymadusa compta,,preysOn
+256083,64646,Jassa falcata,Mottled Tubemaker,preysOn
+256083,681184,Paracaprella tenuis,,preysOn
+256083,1023441,Gammaropsis nitida,,preysOn
+256083,,Alonella,,preysOn
+256083,295885,Unciola irrorata,,preysOn
+256083,211518,Notomastus,,preysOn
+256083,1019939,Leptodora kindtii,,preysOn
+256083,1110969,Lathonura rectirostris,,preysOn
+256083,1023052,Scoloplos robustus,,preysOn
+256083,688301,Scapholeberis kingi,,preysOn
+256083,295414,Elasmopus levis,,preysOn
+256083,,Corophium tuberculatum,,preysOn
+256083,209037,Ampithoe longimana,,preysOn
+256083,260844,Cerapus tubularis,Hermit Amphipod,preysOn
+256083,567249,Echinogammarus stoerensis,,preysOn
+256083,483834,Ceriodaphnia quadrangula,,preysOn
+256083,533824,Ceriodaphnia lacustris,,preysOn
+256083,203781,Streblospio benedicti,,preysOn
+256083,,Eteone heteropoda,,preysOn
+256083,809396,Nereiphylla fragilis,,preysOn
+256083,,Lumbrineris fragilis,,preysOn
+256083,94070,Anchoa mitchilli,Bay Anchovy,preysOn
+256083,1023080,Sabellaria vulgaris,,preysOn
+256083,260810,Batea catharinensis,,preysOn
+256083,377539,Paramphinome,,preysOn
+256083,1023041,Nephtys incisa,,preysOn
+256083,1297371,Bosmina coregoni,baltic long-nosed waterflea,preysOn
+256083,194004,Pectinaria gouldii,Ice cream cone worm,preysOn
+256083,1302968,Hyalella azteca,,preysOn
+256083,,Eubosmina coregoni,,preysOn
+256083,209052,Monocorophium insidiosum,,preysOn
+256083,688876,Scolelepis squamata,,preysOn
+256083,,Lepidactylus dytiscus,,preysOn
+256083,481600,Cratena pilata,Striped Nudibranch,preyedUponBy
+256083,63740,Gadus morhua,Atlantic Cod,preyedUponBy
+256083,96740,Caranx crysos,Blue Runner,preyedUponBy
+256083,51371,Pseudopleuronectes americanus,Winter Flounder,preyedUponBy

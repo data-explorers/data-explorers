@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+482316,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+482316,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+482316,63740,Gadus morhua,Atlantic Cod,eatenBy
+482316,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+482316,357623,Aulactinia verrucosa,Gem Anemone,preysOn
+482316,118895,Anemonia viridis,snakelocks anemone,preysOn
+482316,337993,Actinothoe sphyrodeta,Sandalled Anemone,preysOn
+482316,118895,Anemonia viridis,snakelocks anemone,preyedUponBy

@@ -1,0 +1,132 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52972,13858,Passer domesticus,House Sparrow,eatenBy
+52972,52943,Trichodezia albovittata,White-striped Black,eatenBy
+52972,51097,Papilio zelicaon,Anise Swallowtail,eatenBy
+52972,59194,Ochlodes sylvanoides,Woodland Skipper,eatenBy
+52972,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+52972,6359,Selasphorus sasin,Allen's Hummingbird,eatenBy
+52972,6317,Calypte anna,Anna's Hummingbird,eatenBy
+52972,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+52972,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+52972,57681,Anthophora urbana,Urbane Digger Bee,eatenBy
+52972,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+52972,,Aphis oenotherae,,eatenBy
+52972,564850,Tenthredo livida,Variable Tenthredo,eatenBy
+52972,,Columba palumbus,,eatenBy
+52972,,Emberiza citrinella,,eatenBy
+52972,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+52972,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+52972,,Carduelis carduelis,,eatenBy
+52972,8029,Corvus frugilegus,Rook,eatenBy
+52972,,Carduelis chloris,,eatenBy
+52972,,Alectoris rufa,,eatenBy
+52972,219735,Eulia ministrana,Ferruginous Eulia Moth,eatenBy
+52972,,Celypha lacunana,,eatenBy
+52972,,Hyles gallii,,eatenBy
+52972,,Scythris magnatella,,eatenBy
+52972,,Deilephila elpenor,,eatenBy
+52972,,Alypia brannani,,eatenBy
+52972,,Eudryas unio,,eatenBy
+52972,,Anticlea multiferata,,eatenBy
+52972,,Eupithecia anticaria,,eatenBy
+52972,,Spargania luctuata,,eatenBy
+52972,1338304,Eupithecia satyrata,,eatenBy
+52972,,Eulithis diversilineata,,eatenBy
+52972,,Ecliptopera silaceata,,eatenBy
+52972,,Spargania magnoliata,,eatenBy
+52972,,Eulithis destinata,,eatenBy
+52972,,Eupithecia subfuscata,,eatenBy
+52972,522787,Mompha lacteella,Rust-blotch Cosmet,eatenBy
+52972,,Mompha unifasciella,,eatenBy
+52972,,Mompha,,eatenBy
+52972,,Mompha decorella,,eatenBy
+52972,354660,Spilosoma glatignyi,black-and-white tiger moth,eatenBy
+52972,,Mompha propinquella,,eatenBy
+52972,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eatenBy
+52972,,Tyloderma foveolatum,,eatenBy
+52972,,Bromius obscurus,,eatenBy
+52972,,Snowshoe hare,,eatenBy
+52972,212927,Albuna pyramidalis,Fireweed Clearwing Moth,eatenBy
+52972,,Amphion floridensis,,eatenBy
+52972,,Xestia c-nigrum,,eatenBy
+52972,129428,Acronicta oblinita,Smeared Dagger,eatenBy
+52972,,Scoliopteryx libatrix,,eatenBy
+52972,,Amphipyra tragopoginis,,eatenBy
+52972,,Mompha raschkiella,,eatenBy
+52972,518840,Mompha conturbatella,Large Dark Cosmet,eatenBy
+52972,,Mompha sexstrigella,,eatenBy
+52972,,Mompha communis,,eatenBy
+52972,,Stilbosis ostryaeella,,eatenBy
+52972,,Phragmatobia fuliginosa,,eatenBy
+52972,,Trichocladium opacum,,eatenBy
+52972,,Aphis (Bursaphis) grossulariae,,eatenBy
+52972,,Coniothyrium conoideum,,eatenBy
+52972,,Discohainesia oenotherae,,eatenBy
+52972,,Hypoderma commune,,eatenBy
+52972,,Belonidium sulphureum,,eatenBy
+52972,,Diaporthe eres,,eatenBy
+52972,,Diaporthe arctii,,eatenBy
+52972,,Crocicreas dolosellum,,eatenBy
+52972,,Dendryphion comosum,,eatenBy
+52972,,Echinula asteriadiformis,,eatenBy
+52972,,Hyalopeziza millepunctata,,eatenBy
+52972,,Diaporthe pardalota,,eatenBy
+52972,,Betulina fuscostipitata,,eatenBy
+52972,,Ceratosporium fuscescens,,eatenBy
+52972,,Hymenoscyphus scutula,,eatenBy
+52972,,Chaetosphaeria callimorpha,,eatenBy
+52972,,Crocicreas cyathoideum var. cyathoideum,,eatenBy
+52972,,Chaetosphaeria innumera,,eatenBy
+52972,,Clypeosphaeria mamillana,,eatenBy
+52972,,Brunnipila clandestina,,eatenBy
+52972,,Herpotrichia herpotrichoides,,eatenBy
+52972,,Hymenoscyphus vitellinus,,eatenBy
+52972,,Altica oleracea,,eatenBy
+52972,,Tulasnella pallida,,eatenBy
+52972,1156023,Trechispora caucasica,,eatenBy
+52972,,Lachnella alboviolascens,,eatenBy
+52972,,Stypella grilletii,,eatenBy
+52972,,Endoperplexa subfarinacea,,eatenBy
+52972,,Crepidotus cesatii,,eatenBy
+52972,,Unguiculella foliicola,,eatenBy
+52972,,Pyrenopeziza revincta,,eatenBy
+52972,,Stictis stellata,,eatenBy
+52972,,Velutarina rufo-olivacea,,eatenBy
+52972,,Schizoxylon berkeleyanum,,eatenBy
+52972,352529,Torula herbarum,,eatenBy
+52972,,Lasiosphaeria caudata,,eatenBy
+52972,,Lophiostoma caudatum,,eatenBy
+52972,,Phragmocephala atra,,eatenBy
+52972,,Hyaloscypha hyalina,,eatenBy
+52972,,Periconia byssoides,,eatenBy
+52972,120489,Sarcophaga,Common Flesh Flies,pollinatedBy
+52972,81979,Syritta pipiens,Thick-legged Hover Fly,pollinatedBy
+52972,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+52972,127812,Hylaeus,Masked Bees,pollinatedBy
+52972,58573,Boloria,,pollinatedBy
+52972,52775,Bombus,Bumble Bees,pollinatedBy
+52972,62989,Aedes,,pollinatedBy
+52972,51287,Bellardia,,pollinatedBy
+52972,,Phaonia angelicae,,pollinatedBy
+52972,,Bombus lucorum,,pollinatedBy
+52972,129102,Dolichovespula saxonica,Saxon Wasp,pollinatedBy
+52972,,Scaeva selenitica,,pollinatedBy
+52972,,Bombus pascuorum,,pollinatedBy
+52972,,,,pollinatedBy
+52972,,Platycheirus peltatus,,pollinatedBy
+52972,,Volucella pellucens,,pollinatedBy
+52972,,Mellinus arvensis,,pollinatedBy
+52972,,Maniola jurtina,,pollinatedBy
+52972,,Bombus bohemicus,,pollinatedBy
+52972,,Conops flavipes,,pollinatedBy
+52972,,Prosena siberita,,pollinatedBy
+52972,177484,Leptura,,pollinatedBy
+52972,,Zygaena trifolii,,pollinatedBy
+52972,188686,Macropis europaea,European Yellow Loosestrife Bee,pollinatedBy
+52972,,Pieris napi,,pollinatedBy
+52972,,Episyrphus balteatus,,pollinatedBy
+52972,58484,Thymelicus lineola,Essex Skipper,pollinatedBy
+52972,,Leioproctus,,pollinatedBy
+52972,,Avibrissina,,pollinatedBy
+52972,,Petinarctia stylata,,pollinatedBy
+52972,,Bombus polaris,,pollinatedBy

@@ -1,0 +1,55 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41728,47178,Actinopterygii,Ray-finned Fishes,eats
+41728,47115,Mollusca,Molluscs,eats
+41728,51104,Thaliacea,Thaliaceans,eats
+41728,195136,Euphausia,,eats
+41728,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+41728,47459,Cephalopoda,Cephalopods,eats
+41728,105599,Merluccius productus,Pacific Hake,eats
+41728,48863,Enteroctopus dofleini,Giant Pacific Octopus,eats
+41728,52306,Squalus acanthias,White-spotted Dogfish,eats
+41728,84182,Hydrolagus colliei,Spotted Ratfish,eats
+41728,91981,Sebastolobus,,eats
+41728,,Moroteuthis,,eats
+41728,87642,Coryphaenoides,,eats
+41728,432791,Gonatopsis,,eats
+41728,110361,Prionace glauca,Blue Shark,eats
+41728,397815,Taningia danae,Dana Octopus-Squid,eats
+41728,4345,Larus occidentalis,Western Gull,eatenBy
+41728,4756,Cathartes aura,Turkey Vulture,eatenBy
+41728,50873,Carcharodon carcharias,Great White Shark,eatenBy
+41728,41521,Orcinus orca,Orca,eatenBy
+41728,,Pseudoterranova,,eatenBy
+41728,699271,Anisakis,,eatenBy
+41728,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+41728,195136,Euphausia,,preysOn
+41728,47456,Octopus,,preysOn
+41728,63770,Engraulis mordax,Northern Anchovy,preysOn
+41728,54509,Octopus bimaculoides,Lesser Two-spot Octopus,preysOn
+41728,105599,Merluccius productus,Pacific Hake,preysOn
+41728,432791,Gonatopsis,,preysOn
+41728,47762,Sebastes,Rockfishes,preysOn
+41728,,Onychoteuthis borealijaponicus,,preysOn
+41728,64480,Sebastes eos,Pink Rockfish,preysOn
+41728,337526,Gonatus berryi,Berry's Gonate Squid,preysOn
+41728,337529,Gonatus,Gonate Squids,preysOn
+41728,432430,Gonatus onyx,Clawed Gonate Squid,preysOn
+41728,432432,Gonatus pyros,Fiery Gonate Squid,preysOn
+41728,432422,Gonatopsis borealis,Boreopacific Armhook Squid,preysOn
+41728,337528,Gonatidae,Armhook Squids,preysOn
+41728,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,preysOn
+41728,47525,Pleuronectidae,Righteye Flounders,preysOn
+41728,48863,Enteroctopus dofleini,Giant Pacific Octopus,preysOn
+41728,459653,Pasiphaea pacifica,Pacific Glass Shrimp,preysOn
+41728,222155,Icichthys lockingtoni,Medusafish,preysOn
+41728,,Octopus rubescens,,preysOn
+41728,55535,Sardinops sagax,Pacific Sardine,preysOn
+41728,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+41728,180030,Glyptocephalus zachirus,Rex Sole,preysOn
+41728,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+41728,51353,Anoplopoma fimbria,Sablefish,preysOn
+41728,111616,Rhacochilus vacca,Pile surfperch,preysOn
+41728,97375,Chilara taylori,Spotted Cusk-eel,preysOn
+41728,48416,Citharichthys,,preysOn
+41728,397815,Taningia danae,Dana Octopus-Squid,preysOn
+41728,103503,Isistius brasiliensis,Smalltooth Cookiecutter Shark,preyedUponBy

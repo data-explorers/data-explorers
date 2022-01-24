@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81655,47726,Acer negundo,boxelder,eats
+81655,47851,Quercus,oaks,eats
+81655,58736,Pyrus,pears,eats
+81655,47130,Ribes,currants and gooseberries,eats
+81655,50299,Fragaria,strawberries,eats
+81655,54500,Malus,apples,eats
+81655,47727,Acer,maples,eats
+81655,49156,Betula,birches,eats
+81655,48256,Pseudotsuga menziesii,common Douglas-fir,eats
+81655,49187,Castanea,Chestnuts,eats
+81655,,Carya,,eats
+81655,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy

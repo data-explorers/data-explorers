@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+146827,342912,Caridea,Caridean Shrimps,eats
+146827,85493,Crustacea,Crustaceans,eats
+146827,47626,Caprellidae,Skeleton Shrimp,eats
+146827,1,Animalia,Animals,eats
+146827,47115,Mollusca,Molluscs,eats
+146827,48836,Ophiuroidea,Brittle Stars,eats
+146827,,Osteichthyes,,eats
+146827,,Gnathostomata,,eats
+146827,,debris,,eats
+146827,129944,Bittium,Needle-whelks,eats
+146827,,Gammaridea,,eats
+146827,85507,Calanoida,Calanoid Copepods,eats
+146827,,Detritus,,eats
+146827,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+146827,50984,Pomatomus saltatrix,Bluefish,eatenBy
+146827,154500,Cynoscion regalis,Weakfish,eatenBy
+146827,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+146827,51392,Morone saxatilis,Striped Bass,eatenBy
+146827,260712,Caprella penantis,,preysOn
+146827,260656,Gammarus mucronatus,,preysOn
+146827,59807,Gammarus,,preysOn
+146827,,Corophium tuberculatum,,preysOn
+146827,370753,Gammarus fasciatus,,preysOn
+146827,567249,Echinogammarus stoerensis,,preysOn
+146827,,Melita,,preysOn
+146827,1023020,Siphonoecetes smithianus,,preysOn
+146827,248382,Lembos,,preysOn
+146827,1110632,Apocorophium lacustre,,preysOn
+146827,1023441,Gammaropsis nitida,,preysOn
+146827,295411,Ampelisca verrilli,,preysOn
+146827,681184,Paracaprella tenuis,,preysOn
+146827,,Stenothoe minuta,,preysOn
+146827,295885,Unciola irrorata,,preysOn
+146827,,Photis reinhardi,,preysOn
+146827,64646,Jassa falcata,Mottled Tubemaker,preysOn
+146827,260844,Cerapus tubularis,Hermit Amphipod,preysOn
+146827,954167,Gammarus daiberi,,preysOn
+146827,1232815,Microprotopus raneyi,,preysOn
+146827,209052,Monocorophium insidiosum,,preysOn
+146827,209037,Ampithoe longimana,,preysOn
+146827,260498,Ampelisca vadorum,,preysOn
+146827,,Pleusymtes glaber,,preysOn
+146827,,Lepidactylus dytiscus,,preysOn
+146827,260502,Cymadusa compta,,preysOn
+146827,1281933,Monoculodes,,preysOn
+146827,295414,Elasmopus levis,,preysOn
+146827,260810,Batea catharinensis,,preysOn
+146827,978274,Leptocheirus plumulosus,,preysOn
+146827,1302968,Hyalella azteca,,preysOn
+146827,260807,Rudilemboides naglei,,preysOn
+146827,154500,Cynoscion regalis,Weakfish,preyedUponBy
+146827,84432,Morone americana,White Perch,preyedUponBy
+146827,50984,Pomatomus saltatrix,Bluefish,preyedUponBy
+146827,49961,Mustelus canis,Dusky Smooth-hound,preyedUponBy
+146827,51392,Morone saxatilis,Striped Bass,preyedUponBy

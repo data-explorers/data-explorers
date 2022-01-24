@@ -1,0 +1,115 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5562,47118,Araneae,Spiders,eats
+5562,47336,Formicidae,Ants,eats
+5562,47208,Coleoptera,Beetles,eats
+5562,125816,Auchenorrhyncha,True Hoppers,eats
+5562,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+5562,47822,Diptera,Flies,eats
+5562,,nectar,,eats
+5562,,nectar and floral,,eats
+5562,4665,Falco sparverius,American Kestrel,eatenBy
+5562,20445,Tyto alba,Barn Owl,eatenBy
+5562,,Stagmomantis carolina,,eatenBy
+5562,53405,Heteromeles arbutifolia,Toyon,pollinates
+5562,47544,Rubus,brambles,pollinates
+5562,777371,Diplacus aurantiacus,orange bush monkeyflower,pollinates
+5562,53416,Lonicera hispidula,Pink Honeysuckle,pollinates
+5562,50812,Scrophularia californica,California beeplant,pollinates
+5562,50320,Lathyrus vestitus,Pacific pea,pollinates
+5562,49868,Aquilegia canadensis,red columbine,pollinates
+5562,85320,Monarda fistulosa,wild bergamot,pollinates
+5562,58333,Lycium,boxthorns,pollinates
+5562,166328,Penstemon barbatus,Beardlip Penstemon,pollinates
+5562,56036,Kniphofia,Pokers,pollinates
+5562,82771,Erythrina,Coral trees,pollinates
+5562,53051,Epilobium canum,California fuchsia,pollinates
+5562,56088,Robinia pseudoacacia,black locust,pollinates
+5562,54329,Tropaeolum majus,Nasturtium,pollinates
+5562,47130,Ribes,currants and gooseberries,pollinates
+5562,48928,Lilium,true lilies,pollinates
+5562,48245,Aquilegia,columbines,pollinates
+5562,51229,Stachys,Hedgenettles,pollinates
+5562,49674,Ceanothus,,pollinates
+5562,64571,Buddleja,butterfly bushes and allies,pollinates
+5562,50644,Salvia,Sages,pollinates
+5562,48367,Penstemon,beardtongues,pollinates
+5562,117440,Eutrochium maculatum,spotted Joe-Pye weed,pollinates
+5562,52989,Cirsium vulgare,Bull Thistle,pollinates
+5562,47888,Impatiens capensis,common jewelweed,pollinates
+5562,56752,Penstemon centranthifolius,scarlet bugler,pollinates
+5562,58191,Salvia leucophylla,purple sage,pollinates
+5562,76623,Delphinium cardinale,Scarlet Larkspur,pollinates
+5562,62221,Silene laciniata,cardinal catchfly,pollinates
+5562,47689,Geraniaceae,Geranium family,pollinates
+5562,47179,Arctostaphylos,bearberries and manzanitas,pollinates
+5562,48690,Liatris,blazing-stars,pollinates
+5562,47912,Asclepias tuberosa,butterfly milkweed,pollinates
+5562,52736,Monarda,beebalms and bergamots,pollinates
+5562,125381,Asclepias incarnata,swamp milkweed,pollinates
+5562,57137,Malacothamnus fasciculatus,chaparral bush-mallow,pollinates
+5562,54332,Nasturtium,Water-cresses,pollinates
+5562,77951,Malva assurgentiflora,Island Mallow,pollinates
+5562,58232,Eriastrum densifolium,giant woollystar,pollinates
+5562,76737,Dudleya pulverulenta,Chalk Dudleya,pollinates
+5562,51891,Dudleya,Liveforever,pollinates
+5562,704934,Caiophora coronata,,pollinates
+5562,,Rhodophiala pratensis,,pollinates
+5562,,Lilium occidentale,,pollinates
+5562,62841,Cordia,,pollinates
+5562,,Tillandsia,,pollinates
+5562,,Fritillaria gentneri,,pollinates
+5562,,Delphinium recurvatum,,pollinates
+5562,,Castilleja kaibabensis,,pollinates
+5562,119806,Lobelia siphilitica,great blue lobelia,pollinates
+5562,,Penstemon smalli,,pollinates
+5562,,Penstemon canescens,,pollinates
+5562,,Diervilla sessilifolia,,pollinates
+5562,160747,Clethra acuminata,mountain sweet pepperbush,pollinates
+5562,,Lilium michauxii,,pollinates
+5562,,Rhododendron calendulaceum,,pollinates
+5562,,Rhododendron arborescens,,pollinates
+5562,,Asclepias exaltata,,pollinates
+5562,82812,Iris cristata,dwarf crested iris,pollinates
+5562,,Dactylicapnos,,pollinates
+5562,,http://treatment.plazi.org/id/2FB1DF2D26F4DB37B8928BEF4A21B455,,pollinates
+5562,,Monarda didyma,,pollinates
+5562,160493,Chelone lyonii,pink turtlehead,pollinates
+5562,160902,Coreopsis pubescens,Star Tickseed,pollinates
+5562,,Rhododendron minus var. minus,,pollinates
+5562,,Aesculus flava,,pollinates
+5562,,Silene virginica,,pollinates
+5562,85008,Lilium superbum,Turk's-cap lily,pollinates
+5562,,Liatris spicata,,pollinates
+5562,,Actaea racemosa,,pollinates
+5562,,Heuchera villosa,,pollinates
+5562,116343,Actaea podocarpa,mountain black cohosh,pollinates
+5562,48038,Lobelia cardinalis,cardinal flower,pollinates
+5562,,Rhododendron catawbiense,,pollinates
+5562,,http://treatment.plazi.org/id/E53B50A89973F7BDED0BE157839AE738,,pollinates
+5562,70395,Castilleja applegatei,wavyleaf paintbrush,pollinates
+5562,,Penstemon eatonii,,pollinates
+5562,,Mimulus dentatus,,pollinates
+5562,51046,Arbutus menziesii,Pacific madrone,pollinates
+5562,,Stachys chamissonis,,pollinates
+5562,,Sambucus racemosa,,pollinates
+5562,,Pedicularis densiflora,,pollinates
+5562,60881,Lonicera involucrata,twinberry honeysuckle,pollinates
+5562,,Aquilegia formosa,,pollinates
+5562,,Lilium canadense,,pollinates
+5562,,Rhododendron canadense,,pollinates
+5562,,Bignonia capreolata,,pollinates
+5562,75995,Campsis radicans,American trumpet vine,pollinates
+5562,,Aesculus pavia,,pollinates
+5562,126671,Sphaeralcea coccinea,Scarlet Globemallow,pollinates
+5562,,Oenothera suffrutescens,,pollinates
+5562,,Castilleja integra,,pollinates
+5562,119302,Agave parryi,Parry's agave,pollinates
+5562,52143,Ipomopsis aggregata formosissima,,pollinates
+5562,,Brodiaea,,pollinates
+5562,,Polemonium brandegeei,,pollinates
+5562,76630,Delphinium nuttallianum,Nuttall's larkspur,pollinates
+5562,,Philadelphus pubescens,,pollinates
+5562,,Primula angustifolia,,pollinates
+5562,,Stagmomantis carolina,,preyedUponBy
+5562,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,preyedUponBy
+5562,,Argiope aurantia,,preyedUponBy

@@ -1,0 +1,113 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49507,47115,Mollusca,Molluscs,eats
+49507,123631,Corallina,,eats
+49507,67423,Ulva lactuca,broadleaf sea lettuce,eats
+49507,51021,Dictyota,Y-branched Algae,eats
+49507,199332,Rangia,Rangias,eats
+49507,59807,Gammarus,,eats
+49507,61092,Ruppia,widgeonweeds,eats
+49507,,Algae,,eats
+49507,,micro-benthos and meio-benthos,,eats
+49507,,Detritus,,eats
+49507,,micro- and meio-benthos,,eats
+49507,,Prymnesiophyceae,,eats
+49507,328369,Spatoglossum schroederi,,eats
+49507,911743,Plocamium brasiliense,,eats
+49507,59730,Valonia aegagropila,,eats
+49507,330788,Centroceras,,eats
+49507,,Gracilaria sp.,,eats
+49507,199320,Acanthophora spicifera,prickly seaweed,eats
+49507,180609,Lithophyllum,,eats
+49507,182857,Sphacelaria,,eats
+49507,131277,Lobophora variegata,Encrusting fan-leaf alga,eats
+49507,207565,Padina gymnospora,,eats
+49507,570223,Caulerpa scalpelliformis,Scalpel green seaweed,eats
+49507,67672,Hypnea musciformis,,eats
+49507,201264,Bryopsis pennata,,eats
+49507,,Chondria curvilineata,,eats
+49507,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+49507,47458,Octopoda,Octopuses,eatenBy
+49507,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+49507,4940,Egretta thula,Snowy Egret,eatenBy
+49507,144455,Ardea alba,Great Egret,eatenBy
+49507,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+49507,128750,Sciaenops ocellatus,Red Drum,eatenBy
+49507,295307,Callinectes bocourti,Blunttooth swimcrab,eatenBy
+49507,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+49507,699502,Callistoctopus macropus,Atlantic White-spotted Octopus,eatenBy
+49507,179630,Citharichthys spilopterus,Bay Whiff,eatenBy
+49507,179515,Bathygobius soporator,Frillfin Goby,eatenBy
+49507,179641,Centropristis ocyurus,Bank sea bass,eatenBy
+49507,84996,Carcharhinus leucas,Bull Shark,eatenBy
+49507,49637,Epinephelus morio,Red Grouper,eatenBy
+49507,614047,Pterengraulis atherinoides,Wingfin Anchovy,eatenBy
+49507,51405,Elops saurus,Ladyfish,eatenBy
+49507,96764,Carcharhinus porosus,Smalltail Shark,eatenBy
+49507,48564,Prionotus,,eatenBy
+49507,111750,Rhizoprionodon porosus,Caribbean Sharpnose Shark,eatenBy
+49507,112303,Sciades parkeri,Gillbacker Sea Catfish,eatenBy
+49507,608614,Sciades proops,,eatenBy
+49507,491024,Pseudotolithus senegallus,Law Croaker,eatenBy
+49507,91518,Pseudotolithus,,eatenBy
+49507,109966,Polydactylus approximans,,eatenBy
+49507,49513,Cynoscion,Weakfishes,eatenBy
+49507,96931,Centropomus robalito,Yellowfin Snook,eatenBy
+49507,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+49507,53569,Scorpaena grandicornis,Plumed Scorpionfish,eatenBy
+49507,49509,Lutjanus griseus,Grey Snapper,eatenBy
+49507,131452,Bellator militaris,Horned Searobin,eatenBy
+49507,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+49507,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49507,179633,Chloroscombrus chrysurus,Atlantic Bumper,eatenBy
+49507,,Morone mississippiensis,,eatenBy
+49507,103276,Ictalurus furcatus,Blue Catfish,eatenBy
+49507,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+49507,112960,Sphyrna tiburo,Bonnethead,eatenBy
+49507,131491,Rachycentron canadum,Cobia,eatenBy
+49507,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+49507,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+49507,57814,Pogonias cromis,Black Drum,eatenBy
+49507,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+49507,179491,Prionotus tribulus,Bighead Searobin,eatenBy
+49507,179545,Menticirrhus americanus,Southern Kingfish,eatenBy
+49507,179575,Gymnothorax nigromarginatus,Blackedge Moray,eatenBy
+49507,104249,Lepisosteus oculatus,Spotted Gar,eatenBy
+49507,179482,Porichthys plectrodon,Atlantic Midshipman,eatenBy
+49507,4937,Egretta caerulea,Little Blue Heron,eatenBy
+49507,20315,Asio flammeus,Short-eared Owl,eatenBy
+49507,47584,Bivalvia,Bivalves,preysOn
+49507,47490,Polychaeta,Polychaete Worms,preysOn
+49507,47114,Gastropoda,Gastropods,preysOn
+49507,85493,Crustacea,Crustaceans,preysOn
+49507,54661,Mugilidae,Mullets,preysOn
+49507,49507,Callinectes,,preysOn
+49507,47126,Plantae,plants,preysOn
+49507,50928,Palaemonidae,palaemonid shrimps,preysOn
+49507,48580,Idotea,,preysOn
+49507,48147,Isopoda,Isopods,preysOn
+49507,199332,Rangia,Rangias,preysOn
+49507,61092,Ruppia,widgeonweeds,preysOn
+49507,,Paleomonetes,,preysOn
+49507,59807,Gammarus,,preysOn
+49507,49944,Gerreidae,Mojarras,preysOn
+49507,,Clupeoids,,preysOn
+49507,,Litopenaeus,,preysOn
+49507,59806,Gammaridae,,preysOn
+49507,,Amphitoidae,,preysOn
+49507,255518,Eulithidium affine,,preysOn
+49507,,Zooplankton,,preysOn
+49507,499535,Fissurella rosea,Rosy Keyhole Limpet,preysOn
+49507,129939,Odostomia,,preysOn
+49507,179515,Bathygobius soporator,Frillfin Goby,preysOn
+49507,246376,Diplodonta,,preysOn
+49507,317131,Haemulon parra,Sailor's Choice,preysOn
+49507,49507,Callinectes,,preyedUponBy
+49507,47232,Carangidae,Jacks,preyedUponBy
+49507,47490,Polychaeta,Polychaete Worms,preyedUponBy
+49507,,Centropomids,,preyedUponBy
+49507,,Ariids,,preyedUponBy
+49507,,Scianids,,preyedUponBy
+49507,317131,Haemulon parra,Sailor's Choice,preyedUponBy
+49507,179515,Bathygobius soporator,Frillfin Goby,preyedUponBy
+49507,260410,Menippe nodifrons,Cuban Stone Crab,preyedUponBy
+49507,104249,Lepisosteus oculatus,Spotted Gar,preyedUponBy

@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55489,52381,Aphididae,Aphids,eats
+55489,194066,Aphidinae,,eats
+55489,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+55489,17355,Vireo,Vireos,eatenBy
+55489,,Vireo flavifrons,,eatenBy
+55489,17394,Vireo gilvus,Warbling Vireo,eatenBy
+55489,17408,Vireo griseus,White-eyed Vireo,eatenBy
+55489,,Podisus brevispinus,,preyedUponBy

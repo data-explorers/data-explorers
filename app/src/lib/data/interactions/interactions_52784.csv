@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52784,48367,Penstemon,beardtongues,eats
+52784,56955,Helianthus,sunflowers,eats
+52784,632790,Asteroideae,,eats
+52784,52818,Achillea,yarrows,eats
+52784,,Calochortus argillosus,,eats
+52784,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+52784,233590,Vitula edmandsii,Dried Fruit Moth,eatenBy
+52784,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+52784,,Picoides villosus,,eatenBy
+52784,52761,Hypericum,St. John's worts,pollinates
+52784,47121,Lupinus,lupines,pollinates
+52784,53317,Verbena,Vervain,pollinates
+52784,52935,Eupatorium,bonesets,pollinates
+52784,54762,Acer saccharinum,silver maple,pollinates
+52784,53183,Oxalis stricta,upright yellow woodsorrel,pollinates
+52784,52821,Achillea millefolium,Common Yarrow,pollinates
+52784,125379,Asclepias verticillata,whorled milkweed,pollinates
+52784,85320,Monarda fistulosa,wild bergamot,pollinates
+52784,167829,Rhus typhina,staghorn sumac,pollinates
+52784,49916,Sisyrinchium angustifolium,narrow-leaved blue-eyed grass,pollinates
+52784,56154,Saponaria officinalis,common soapwort,pollinates
+52784,62207,Oenothera biennis,common evening-primrose,pollinates
+52784,130373,Coreopsis palmata,Prairie Coreopsis,pollinates
+52784,125186,Lespedeza capitata,round-headed bush clover,pollinates
+52784,48629,Prunus americana,American plum,pollinates
+52784,49323,Carpobrotus,sea figs,pollinates
+52784,55735,Sedum,stonecrops,pollinates
+52784,126846,Vitex,,pollinates
+52784,62312,Campanula rotundifolia,Harebell,pollinates
+52784,47759,Oxalidaceae,woodsorrel family,pollinates
+52784,50321,Lathyrus,sweet peas and vetchlings,pollinates
+52784,49725,Pugettia,,pollinates
+52784,51229,Stachys,Hedgenettles,pollinates
+52784,53021,Convolvulus arvensis,field bindweed,pollinates
+52784,48160,Centaurea,knapweeds,pollinates
+52784,56165,Verbascum,mulleins,pollinates
+52784,48896,Heliotropium,Heliotropes,pollinates
+52784,47435,Lotus corniculatus,bird's-foot trefoil,pollinates
+52784,63547,Dalea purpurea,purple prairie clover,pollinates
+52784,49370,Astragalus,milkvetches,pollinates
+52784,54331,Tropaeolum,Nasturtiums,pollinates
+52784,48153,Cynoglossum,Hound's-tongues,pollinates
+52784,57057,Medicago sativa,Alfalfa,pollinates
+52784,57628,Eryngium,Eryngos,pollinates
+52784,,Vernonia,,pollinates
+52784,153022,Cuphea,Cigar plants,pollinates
+52784,,Eupatorium compressum,,pollinates
+52784,,Gaylussacia,,pollinates
+52784,,Lathyrus pubescens,,pollinates
+52784,,Senecio selloi,,pollinates
+52784,,Stevia satureiifolia,,pollinates
+52784,,Vitis vulpina,,pollinates
+52784,51722,Baptisia bracteata,longbract wild indigo,pollinates
+52784,,Actea,,pollinates
+52784,,Polygonum amphibium,,pollinates
+52784,,Cephalanthus occidentalis,,pollinates
+52784,,Ulmus americana,,pollinates
+52784,129634,Agastache nepetoides,yellow giant hyssop,pollinates
+52784,,Steironema ciliatum,,pollinates
+52784,122249,Symphyotrichum lateriflorum,calico aster,pollinates
+52784,59316,Orchis,,pollinates
+52784,,http://treatment.plazi.org/id/8CDD006DAF104F0C0A07673435A3F5B2,,pollinates
+52784,,Arnoglossum atriplicifolium,,pollinates
+52784,,Polemonium reptans,,pollinates
+52784,,Antennaria plantaginifolia,,pollinates
+52784,,Parthenium integrifolium,,pollinates
+52784,,Aesculus hippocastanum,,pollinates
+52784,76541,Cucurbita pepo,American pumpkin,pollinates
+52784,,Arctium minus,,pollinates
+52784,82819,Valerianella radiata,beaked cornsalad,pollinates
+52784,,Persicaria maculosa maculosa,,pollinates
+52784,,Cirsium pumilum,,pollinates
+52784,,Lespedeza procumbens,,pollinates
+52784,,Helianthus scaberrimus,,pollinates
+52784,136381,Cynanchum laeve,honey-vine climbing milkweed,pollinates
+52784,82673,Cistus albidus,Grey-leaved Cistus,pollinates
+52784,333734,Thymelaea hirsuta,Mitnan,pollinates
+52784,,Bituminaria bituminosa,,pollinates
+52784,,Lavandula stoechas,,pollinates
+52784,,Lespedeza thunbergii,,pollinates
+52784,,Cirsium japonicum,,pollinates
+52784,,Lespedeza bicolor,,pollinates
+52784,,Alstroemeria aurea,,pollinates
+52784,162431,Erica tetralix,Cross-leaved Heath,pollinates
+52784,,Schima wallichii,,pollinates
+52784,,Aeschynomene pratensis,,pollinates
+52784,,Senecio looseri ,,pollinates
+52784,,Eriosyce,,pollinates
+52784,,Astragalus nivicola,,pollinates
+52784,,Olsynium junceum,,pollinates
+52784,,Lecanophora heterophylla,,pollinates
+52784,,Grindelia chiloensis,,pollinates
+52784,,Phacelia secunda,,pollinates
+52784,,Tarasa humilis ,,pollinates
+52784,1197280,Adesmia retrofracta,,pollinates
+52784,,Adesmia hemisphaerica,,pollinates
+52784,,Astragalus cruckshanksii,,pollinates
+52784,,Stylidium graminifolium,,pollinates
+52784,,Ballota acetabulosa,,pollinates
+52784,492875,Hypericum triquetrifolium,Pyramidal St John's-wort,pollinates
+52784,,Nigella segetalis,,pollinates
+52784,,Thymus capitatus,,pollinates
+52784,,Drimia maritima,,pollinates
+52784,521694,Ebenus sibthorpii,,pollinates
+52784,72109,Echinops,Globe thistles,pollinates
+52784,,Teucrium,,pollinates
+52784,,Lobostemon glaucophyllus,,pollinates
+52784,,Heliotropium hirsutissimum,,pollinates
+52784,334575,Convolvulus cantabrica,Cantabrican morning glory,pollinates
+52784,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+52784,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy

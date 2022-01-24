@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53396,50892,Euphydryas chalcedona,Variable Checkerspot,eatenBy
+53396,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+53396,50786,Vanessa annabella,West Coast Lady,eatenBy
+53396,48549,Vanessa virginiensis,American Lady,eatenBy
+53396,47219,Apis mellifera,Western Honey Bee,eatenBy
+53396,59187,Erynnis propertius,Propertius Duskywing,eatenBy
+53396,246009,Acmaeodera hepburnii,,eatenBy
+53396,52775,Bombus,Bumble Bees,eatenBy
+53396,69145,Coenonympha california,Common Ringlet,eatenBy
+53396,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+53396,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+53396,55626,Pieris rapae,Cabbage White,eatenBy
+53396,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+53396,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+53396,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+53396,,Chlosyne leanira,,eatenBy
+53396,,Melanostoma mellinum,,eatenBy
+53396,1255700,Brachymelecta californica,California Digger-cuckoo Bee,eatenBy
+53396,,Satyrium californica,,eatenBy
+53396,,Sphex lucae,,eatenBy
+53396,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+53396,,Dolichovespula arenaria,,eatenBy
+53396,,Eristalinus aeneus,,eatenBy
+53396,,Acmaeodera retifera,,eatenBy
+53396,52925,Phyciodes tharos,Pearl Crescent,eatenBy
+53396,,Micralictoides altadenae,,pollinatedBy

@@ -1,0 +1,71 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144541,47178,Actinopterygii,Ray-finned Fishes,eats
+144541,85611,Atherinidae,Old World Silversides,eats
+144541,85493,Crustacea,Crustaceans,eats
+144541,47459,Cephalopoda,Cephalopods,eats
+144541,47176,Monacanthidae,Filefishes,eats
+144541,,Gnathostomata,,eats
+144541,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+144541,,Teuthida,,eats
+144541,86396,Ammodytes,,eats
+144541,47525,Pleuronectidae,Righteye Flounders,eats
+144541,82337,Loligo,,eats
+144541,86107,Trachinidae,Weeverfishes,eats
+144541,117571,Clupea pallasii,Pacific herring,eats
+144541,118600,Sardina pilchardus,European Sardine,eats
+144541,,Pisces,,eats
+144541,146888,Illex,Shortfin Squids,eats
+144541,87813,Cypselurus,,eats
+144541,49693,Scarus,,eats
+144541,88265,Etrumeus,Red-eye Round Herrings,eats
+144541,324532,Sprattus sprattus,European Sprat,eats
+144541,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+144541,97990,Clupea harengus,Atlantic Herring,eats
+144541,,Gasterosteidae,,eats
+144541,88733,Harengula,,eats
+144541,213402,Ammodytes americanus,American Sand Lance,eats
+144541,,Opisthonema,,eats
+144541,,Etrumeus teres,,eats
+144541,55535,Sardinops sagax,Pacific Sardine,eats
+144541,,Kondakovia longimana,,eats
+144541,472,Fulica,Coots,eatenBy
+144541,4381,Larus fuscus,Lesser Black-backed Gull,eatenBy
+144541,8010,Corvus corax,Common Raven,eatenBy
+144541,42069,Vulpes vulpes,Red Fox,eatenBy
+144541,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+144541,,Rallus aquaticus,,eatenBy
+144541,472766,Falco tinnunculus,Eurasian Kestrel,eatenBy
+144541,4843,Haematopus ostralegus,Eurasian Oystercatcher,eatenBy
+144541,,Fulica atra,,eatenBy
+144541,475028,Porphyrio porphyrio,Western Swamphen,eatenBy
+144541,3896,Numenius arquata,Eurasian Curlew,eatenBy
+144541,144297,Stercorarius skua,Great Skua,eatenBy
+144541,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+144541,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+144541,4356,Larus canus,Mew Gull,eatenBy
+144541,4389,Larus cachinnans,Caspian Gull,eatenBy
+144541,144594,Bubo scandiacus,Snowy Owl,eatenBy
+144541,,Chtoicocephalus ridibundus,,eatenBy
+144541,204533,Larus argentatus,Herring Gull,eatenBy
+144541,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+144541,,Ichthyaetus ichthyaetus,,eatenBy
+144541,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+144541,144517,Ichthyaetus melanocephalus,Mediterranean Gull,eatenBy
+144541,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+144541,20315,Asio flammeus,Short-eared Owl,eatenBy
+144541,,Coloeus monedula,,eatenBy
+144541,204496,Corvus corone,Carrion Crow,eatenBy
+144541,8029,Corvus frugilegus,Rook,eatenBy
+144541,851014,Canis aureus,Golden Jackal,eatenBy
+144541,42048,Canis lupus,Gray Wolf,eatenBy
+144541,41900,Herpestes ichneumon,Ichneumon,eatenBy
+144541,855297,Meles meles,European Badger,eatenBy
+144541,42065,Vulpes corsac,Corsac Fox,eatenBy
+144541,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+144541,,Elaphe situla,,eatenBy
+144541,39407,Varanus griseus,Desert Monitor,eatenBy
+144541,27035,Hierophis viridiflavus carbonarius,,eatenBy
+144541,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+144541,28451,Telescopus nigriceps,Black headed snake,eatenBy
+144541,3739,Threskiornis aethiopicus,African Sacred Ibis,eatenBy
+144541,47178,Actinopterygii,Ray-finned Fishes,preysOn

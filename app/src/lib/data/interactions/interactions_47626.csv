@@ -1,0 +1,112 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47626,48217,Fucus,vesicled rockweeds,eats
+47626,123880,Bacillariophyceae,Diatoms,eats
+47626,318459,Pennales,Pennate diatoms,eats
+47626,,Detritus,,eats
+47626,203808,Navicula,,eats
+47626,200862,Bacillariaceae,,eats
+47626,203613,Licmophora,,eats
+47626,,Detritus complex,,eats
+47626,339306,Cocconeis,,eats
+47626,71117,Microcladia,,eats
+47626,,Biofilm Complex,,eats
+47626,47534,Cnidaria,Cnidarians,eatenBy
+47626,47186,Decapoda,Decapods,eatenBy
+47626,47827,Cancer,,eatenBy
+47626,48563,Triglidae,Searobins,eatenBy
+47626,121639,Brachyura,True Crabs,eatenBy
+47626,48921,Hydrozoa,Hydrozoans,eatenBy
+47626,114756,Umbrina roncador,Yellowfin croaker,eatenBy
+47626,146827,Menidia menidia,Atlantic Silverside,eatenBy
+47626,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47626,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+47626,48836,Ophiuroidea,Brittle Stars,eatenBy
+47626,97990,Clupea harengus,Atlantic Herring,eatenBy
+47626,51390,Tautogolabrus adspersus,Cunner,eatenBy
+47626,51362,Alosa pseudoharengus,Alewife,eatenBy
+47626,424322,Odontoceti,Toothed Whales,eatenBy
+47626,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47626,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47626,47634,Hemitripterus americanus,Sea Raven,eatenBy
+47626,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+47626,,Sebastes marinus,,eatenBy
+47626,194675,Lophius americanus,American Monkfish,eatenBy
+47626,56045,Limanda ferruginea,Yellowtail flounder,eatenBy
+47626,326208,Ammodytes marinus,Raitt's Sand Lance,eatenBy
+47626,50984,Pomatomus saltatrix,Bluefish,eatenBy
+47626,224886,Merluccius bilinearis,Silver Hake,eatenBy
+47626,83846,Urophycis chuss,squirrel hake,eatenBy
+47626,233277,Urophycis tenuis,White Hake,eatenBy
+47626,179507,Peprilus triacanthus,Butterfish,eatenBy
+47626,82349,Hippoglossus hippoglossus,Atlantic Halibut,eatenBy
+47626,104533,Leucoraja erinacea,Little Skate,eatenBy
+47626,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+47626,61388,Scophthalmus aquosus,Windowpane Flounder,eatenBy
+47626,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+47626,215458,Brosme brosme,Cusk,eatenBy
+47626,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+47626,233276,Urophycis regia,Spotted Hake,eatenBy
+47626,49513,Cynoscion,Weakfishes,eatenBy
+47626,233996,Zoarces americanus,Ocean Pout,eatenBy
+47626,104540,Leucoraja ocellata,Winter Skate,eatenBy
+47626,63742,Gadidae,Cods and Haddocks,eatenBy
+47626,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+47626,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+47626,618988,Hippoglossina oblonga,Fourspot Flounder,eatenBy
+47626,69842,Scomber,,eatenBy
+47626,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eatenBy
+47626,,Trematomus bernacchii,,eatenBy
+47626,,Trematomus hansoni,,eatenBy
+47626,,Trematomus pennellii,,eatenBy
+47626,541673,Lepidonotothen squamifrons,Grey Rockcod,eatenBy
+47626,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+47626,,Gobiesoma bosci,,eatenBy
+47626,,Sygnathus floridae,,eatenBy
+47626,121755,Aseraggodes therese,Therese's Sole,eatenBy
+47626,608581,Galeichthys ater,Black Sea Catfish,eatenBy
+47626,98855,Cymatogaster aggregata,Shiner Surfperch,eatenBy
+47626,108547,Paralabrax clathratus,Kelp Bass,eatenBy
+47626,118665,Diplodus annularis,Annular Seabream,eatenBy
+47626,147118,Eucinostomus melanopterus,Flagfin mojarra,eatenBy
+47626,55396,Solea solea,Common Sole,eatenBy
+47626,113529,Symphodus cinereus,Grey Wrasse,eatenBy
+47626,344748,Pomatoschistus minutus,Sand Goby,eatenBy
+47626,619383,Oncopterus darwinii,Remo Flounder,eatenBy
+47626,618298,Gobionotothen gibberifrons,Humped Rockcod,eatenBy
+47626,86422,Amphistichus,,eatenBy
+47626,618985,Etropus longimanus,,eatenBy
+47626,620404,Stellifer rastrifer,Rake Stardrum,eatenBy
+47626,227440,Percis japonica,,eatenBy
+47626,479865,Cheilodactylus variegatus,Peruvian morwong,eatenBy
+47626,418232,Stephanolepis cirrhifer,Thread-sail Filefish,eatenBy
+47626,49509,Lutjanus griseus,Grey Snapper,eatenBy
+47626,131530,Lutjanus synagris,Lane Snapper,eatenBy
+47626,446559,Takifugu pardalis,Panther Puffer,eatenBy
+47626,214489,Aspidophoroides monopterygius,Alligatorfish,eatenBy
+47626,607882,Podothecus sturioides,,eatenBy
+47626,530854,Sillago robusta,Stout Whiting,eatenBy
+47626,97183,Chaetodon nippon,Japanese Butterflyfish,eatenBy
+47626,117558,Hypsurus caryi,Rainbow Seaperch,eatenBy
+47626,117554,Embiotoca jacksoni,Black surfperch,eatenBy
+47626,117562,Rhacochilus toxotes,Rubberlip surfperch,eatenBy
+47626,117555,Embiotoca lateralis,Striped surfperch,eatenBy
+47626,97167,Chaetodon kleinii,Blacklip Butterflyfish,eatenBy
+47626,47317,Chaetodon,,eatenBy
+47626,64468,Sebastes emphaeus,Puget Sound Rockfish,eatenBy
+47626,411178,Nemadactylus bergi,Castaneta,eatenBy
+47626,110972,Pseudocheilinus hexataenia,Sixline Wrasse,eatenBy
+47626,136416,Corythoichthys haematopterus,Reeftop Pipefish,eatenBy
+47626,530737,Pseudochromis tapeinosoma,Blackmargin Dottyback,eatenBy
+47626,131513,Lactophrys trigonus,Buffalo Trunkfish,eatenBy
+47626,63740,Gadus morhua,Atlantic Cod,eatenBy
+47626,179464,Symphurus plagiusa,Blackcheek Tonguefish,eatenBy
+47626,317356,Scorpaena calcarata,Smoothhead Scorpionfish,eatenBy
+47626,131422,Saurida brasiliensis,Largescale Lizardfish,eatenBy
+47626,131452,Bellator militaris,Horned Searobin,eatenBy
+47626,179579,Gobiosoma robustum,Code Goby,eatenBy
+47626,132526,Stephanolepis hispidus,Planehead filefish,eatenBy
+47626,617073,Coryphaenoides zaniophorus,,eatenBy
+47626,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+47626,108614,Paranthias furcifer,Atlantic Creolefish,eatenBy
+47626,131388,Haemulon melanurum,Cottonwick,eatenBy
+47626,131524,Kyphosus incisor,Yellow Chub,eatenBy

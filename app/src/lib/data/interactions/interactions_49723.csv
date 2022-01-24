@@ -1,0 +1,110 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49723,49723,Pugettia producta,Northern Kelp Crab,eats
+49723,78562,Phyllospadix torreyi,Torrey's Surfgrass,eats
+49723,124748,Macrocystis pyrifera,Giant Kelp,eats
+49723,67419,Egregia menziesii,Feather Boa Kelp,eats
+49723,54644,Ulva,sea lettuces,eats
+49723,49536,Obelia,Wine-glass Hydroids,eats
+49723,327100,Sarcodiotheca furcata,,eats
+49723,81879,Laminaria farlowii,oar weed,eats
+49723,,Cystoseira osmundacea,,eats
+49723,124146,Pterygophora californica,stalked kelp,eats
+49723,,Macroalgae,,eats
+49723,,Pterosiphonia dendroidea,,eats
+49723,49723,Pugettia producta,Northern Kelp Crab,eatenBy
+49723,94130,Anisotremus davidsonii,Sargo,eatenBy
+49723,47641,Scorpaena guttata,California Scorpionfish,eatenBy
+49723,47827,Cancer,,eatenBy
+49723,47645,Cottidae,Typical Sculpins,eatenBy
+49723,47458,Octopoda,Octopuses,eatenBy
+49723,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+49723,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+49723,3941,Arenaria melanocephala,Black Turnstone,eatenBy
+49723,41860,Enhydra lutris,Sea Otter,eatenBy
+49723,4345,Larus occidentalis,Western Gull,eatenBy
+49723,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49723,48863,Enteroctopus dofleini,Giant Pacific Octopus,eatenBy
+49723,52297,Triakis semifasciata,Leopard Shark,eatenBy
+49723,52169,Stereolepis gigas,Giant sea bass,eatenBy
+49723,68597,Sebastes caurinus,copper rockfish,eatenBy
+49723,64481,Sebastes atrovirens,kelp rockfish,eatenBy
+49723,64455,Sebastes carnatus,Gopher Rockfish,eatenBy
+49723,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,eatenBy
+49723,47638,Scorpaenichthys marmoratus,Cabezon,eatenBy
+49723,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+49723,108547,Paralabrax clathratus,Kelp Bass,eatenBy
+49723,317370,Sebastes serriceps,Treefish,eatenBy
+49723,117541,Sebastes auriculatus,Brown Rockfish,eatenBy
+49723,48452,Oxylebius pictus,Painted greenling,eatenBy
+49723,117561,Phanerodon furcatus,White surfperch,eatenBy
+49723,102081,Halichoeres semicinctus,Rock Wrasse,eatenBy
+49723,179820,Heterostichus rostratus,Giant Kelpfish,eatenBy
+49723,117562,Rhacochilus toxotes,Rubberlip surfperch,eatenBy
+49723,317267,Orthonopias triacis,Snubnose Sculpin,eatenBy
+49723,,Platyrhinoidis triseriata,,eatenBy
+49723,53693,Hypsypops rubicundus,Garibaldi,eatenBy
+49723,51491,Myliobatis californica,Bat Ray,eatenBy
+49723,117558,Hypsurus caryi,Rainbow Seaperch,eatenBy
+49723,117554,Embiotoca jacksoni,Black surfperch,eatenBy
+49723,111616,Rhacochilus vacca,Pile surfperch,eatenBy
+49723,68596,Hexagrammos decagrammus,Kelp Greenling,eatenBy
+49723,117555,Embiotoca lateralis,Striped surfperch,eatenBy
+49723,53699,Semicossyphus pulcher,California sheephead,eatenBy
+49723,120957,Loxorhynchus grandis,Sheep Crab,eatenBy
+49723,317369,Sebastes serranoides,olive rockfish,eatenBy
+49723,108552,Paralabrax nebulifer,Sand bass,eatenBy
+49723,471767,Larus canus brachyrhynchus,Short-billed Gull,eatenBy
+49723,4399,Larus glaucescens,Glaucous-winged Gull,eatenBy
+49723,49723,Pugettia producta,Northern Kelp Crab,preysOn
+49723,124748,Macrocystis pyrifera,Giant Kelp,preysOn
+49723,67419,Egregia menziesii,Feather Boa Kelp,preysOn
+49723,78562,Phyllospadix torreyi,Torrey's Surfgrass,preysOn
+49723,54644,Ulva,sea lettuces,preysOn
+49723,49536,Obelia,Wine-glass Hydroids,preysOn
+49723,49725,Pugettia,,preysOn
+49723,,Cystoseira osmundacea,,preysOn
+49723,,Macroalgae,,preysOn
+49723,81879,Laminaria farlowii,oar weed,preysOn
+49723,124146,Pterygophora californica,stalked kelp,preysOn
+49723,327100,Sarcodiotheca furcata,,preysOn
+49723,,Pterosiphonia dendroidea,,preysOn
+49723,47827,Cancer,,preyedUponBy
+49723,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+49723,47458,Octopoda,Octopuses,preyedUponBy
+49723,49723,Pugettia producta,Northern Kelp Crab,preyedUponBy
+49723,94130,Anisotremus davidsonii,Sargo,preyedUponBy
+49723,47645,Cottidae,Typical Sculpins,preyedUponBy
+49723,47641,Scorpaena guttata,California Scorpionfish,preyedUponBy
+49723,4345,Larus occidentalis,Western Gull,preyedUponBy
+49723,117520,Enhydra lutris nereis,Southern Sea Otter,preyedUponBy
+49723,317267,Orthonopias triacis,Snubnose Sculpin,preyedUponBy
+49723,111616,Rhacochilus vacca,Pile surfperch,preyedUponBy
+49723,53699,Semicossyphus pulcher,California sheephead,preyedUponBy
+49723,68596,Hexagrammos decagrammus,Kelp Greenling,preyedUponBy
+49723,64481,Sebastes atrovirens,kelp rockfish,preyedUponBy
+49723,117554,Embiotoca jacksoni,Black surfperch,preyedUponBy
+49723,52169,Stereolepis gigas,Giant sea bass,preyedUponBy
+49723,179820,Heterostichus rostratus,Giant Kelpfish,preyedUponBy
+49723,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+49723,117558,Hypsurus caryi,Rainbow Seaperch,preyedUponBy
+49723,52297,Triakis semifasciata,Leopard Shark,preyedUponBy
+49723,117562,Rhacochilus toxotes,Rubberlip surfperch,preyedUponBy
+49723,108547,Paralabrax clathratus,Kelp Bass,preyedUponBy
+49723,,Platyrhinoidis triseriata,,preyedUponBy
+49723,64455,Sebastes carnatus,Gopher Rockfish,preyedUponBy
+49723,51491,Myliobatis californica,Bat Ray,preyedUponBy
+49723,117561,Phanerodon furcatus,White surfperch,preyedUponBy
+49723,317370,Sebastes serriceps,Treefish,preyedUponBy
+49723,317369,Sebastes serranoides,olive rockfish,preyedUponBy
+49723,117541,Sebastes auriculatus,Brown Rockfish,preyedUponBy
+49723,117555,Embiotoca lateralis,Striped surfperch,preyedUponBy
+49723,53693,Hypsypops rubicundus,Garibaldi,preyedUponBy
+49723,102081,Halichoeres semicinctus,Rock Wrasse,preyedUponBy
+49723,120957,Loxorhynchus grandis,Sheep Crab,preyedUponBy
+49723,68597,Sebastes caurinus,copper rockfish,preyedUponBy
+49723,47638,Scorpaenichthys marmoratus,Cabezon,preyedUponBy
+49723,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,preyedUponBy
+49723,108552,Paralabrax nebulifer,Sand bass,preyedUponBy
+49723,48452,Oxylebius pictus,Painted greenling,preyedUponBy
+49723,471767,Larus canus brachyrhynchus,Short-billed Gull,preyedUponBy
+49723,4399,Larus glaucescens,Glaucous-winged Gull,preyedUponBy

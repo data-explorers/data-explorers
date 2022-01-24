@@ -1,0 +1,74 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50790,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+50790,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+50790,47219,Apis mellifera,Western Honey Bee,eatenBy
+50790,,Spermophilus columbianus,,eatenBy
+50790,,Calophasia lunula,,eatenBy
+50790,,Falseuncaria ruficiliana,,eatenBy
+50790,,Stenoptilia aridus,,eatenBy
+50790,,Mellicta deione,,eatenBy
+50790,,Calophasia almoravida,,eatenBy
+50790,,Amphipyra tragopoginis,,eatenBy
+50790,48505,Junonia coenia,Common Buckeye,eatenBy
+50790,186842,Chlosyne gorgone,Gorgone Checkerspot,eatenBy
+50790,456055,Rhinusa antirrhini,Toadflax Seed Weevil,eatenBy
+50790,,Chrysolina sanguinolenta,,eatenBy
+50790,,Rhinusa collina,,eatenBy
+50790,,Rhinusa linariae,,eatenBy
+50790,,Mecinus janthinus,,eatenBy
+50790,,Didymaria linariae,,eatenBy
+50790,,Chrysolina haemoptera,,eatenBy
+50790,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+50790,155085,Bombus perplexus,Perplexing Bumble Bee,eatenBy
+50790,,Melitaea didyma,,eatenBy
+50790,,Eupithecia linariata,,eatenBy
+50790,,Brachypterolus pulicarius,,eatenBy
+50790,178357,Perdita,Fairy Bees,pollinatedBy
+50790,130878,Anthrax,Charcoal Bee Flies,pollinatedBy
+50790,120489,Sarcophaga,Common Flesh Flies,pollinatedBy
+50790,48739,Sphex,,pollinatedBy
+50790,92357,Tachysphex,,pollinatedBy
+50790,130131,Ectemnius,,pollinatedBy
+50790,130033,Culex,,pollinatedBy
+50790,1204075,Formica fusca,fusca-group Field Ants,pollinatedBy
+50790,250753,Tachytes,Sand-Loving Wasps,pollinatedBy
+50790,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+50790,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+50790,47220,Apis,Honey Bees,pollinatedBy
+50790,49707,Halictidae,Sweat Bees,pollinatedBy
+50790,,Elachiptera costata,,pollinatedBy
+50790,,Cryptocephalus insertus,,pollinatedBy
+50790,,Andrena carlini,,pollinatedBy
+50790,,Leptometopa latipes,,pollinatedBy
+50790,,Callandrena,,pollinatedBy
+50790,,http://treatment.plazi.org/id/F12164839E129EE305929100DCC76253,,pollinatedBy
+50790,,Ceratina dupla,,pollinatedBy
+50790,,Colletes productus,,pollinatedBy
+50790,,Tetrachrysis,,pollinatedBy
+50790,,Syntomopus americanus,,pollinatedBy
+50790,,Andrena pruni,,pollinatedBy
+50790,,Hippelates plebejus,,pollinatedBy
+50790,,Bracon,,pollinatedBy
+50790,,Phor,,pollinatedBy
+50790,,Lispe albitarsis,,pollinatedBy
+50790,,Machaeris,,pollinatedBy
+50790,,Haltica,,pollinatedBy
+50790,,Sapyga centrata,,pollinatedBy
+50790,,Eumyotheria illinoensis,,pollinatedBy
+50790,,Epeolus bifasciatus,,pollinatedBy
+50790,,Holandrena,,pollinatedBy
+50790,,Hypostena,,pollinatedBy
+50790,,Megachile mendica,,pollinatedBy
+50790,628299,Diceratosmia,,pollinatedBy
+50790,,Rhamphomyia gilvipilosa,,pollinatedBy
+50790,,Mordellistena aspersa,,pollinatedBy
+50790,,Tryphon americanus,,pollinatedBy
+50790,,Mallota albipilis,,pollinatedBy
+50790,,Trichiotinus affinis,,pollinatedBy
+50790,571432,Ptilandrena,,pollinatedBy
+50790,,Saparnopolius fulvus,,pollinatedBy
+50790,,Oxybelus inornatus,,pollinatedBy
+50790,,Pyrameis,,pollinatedBy
+50790,,Limenitis weidemeyerii,,pollinatedBy
+50790,,http://treatment.plazi.org/id/CD511C8EE79D97F9DD30D893A5AE89D5,,pollinatedBy
+50790,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

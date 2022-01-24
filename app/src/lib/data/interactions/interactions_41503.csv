@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41503,132473,Lagodon rhomboides,Pinfish,eats
+41503,47459,Cephalopoda,Cephalopods,eats
+41503,47115,Mollusca,Molluscs,eats
+41503,253735,Thysanoteuthis rhombus,Diamondback Squid,eats
+41503,54662,Mugil,Common Mullets,eats
+41503,,Gnathostomata,,eats
+41503,51404,Trichiurus lepturus,Largehead Hairtail,eats
+41503,179633,Chloroscombrus chrysurus,Atlantic Bumper,eats
+41503,317478,Porichthys porosissimus,,eats
+41503,49315,Octopus vulgaris,Common Octopus,eats
+41503,49513,Cynoscion,Weakfishes,eats
+41503,,Serranus auriga,,eats
+41503,,Teuthida,,eats
+41503,82337,Loligo,,eats
+41503,342910,Dendrobranchiata,Prawns,eats
+41503,51042,Penaeidae,Penaeid Shrimps,eats
+41503,201529,Doryteuthis pleii,Slender Inshore Squid,eats
+41503,,Argonauta nodosa,,eats
+41503,,Ornithoteuthis antillarum,,eats
+41503,447397,Engraulis anchoita,Argentine Anchoita,eats
+41503,179447,Trachurus lathami,Rough Scad,eats
+41503,89949,Micropogonias,,eats
+41503,92323,Syacium,,eats
+41503,57814,Pogonias cromis,Black Drum,eats
+41503,253735,Thysanoteuthis rhombus,Diamondback Squid,preysOn
+41503,82337,Loligo,,preysOn
+41503,201529,Doryteuthis pleii,Slender Inshore Squid,preysOn
+41503,,Ornithoteuthis antillarum,,preysOn
+41503,,Argonauta nodosa,,preysOn
+41503,49315,Octopus vulgaris,Common Octopus,preysOn

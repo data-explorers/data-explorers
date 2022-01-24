@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+430532,54570,Mentha,mints,eats
+430532,48624,Nepeta,catmints,eats
+430532,64134,Salvia apiana,white sage,eats
+430532,,Salvia officinalis,,eats
+430532,61396,Origanum vulgare,Oregano,eats
+430532,,Rosmarinus officinalis,,eats
+430532,,Origanum majorana,,eats
+430532,,Lepechinia fragrans,,eats
+430532,,Ocimum basilicum,,eats

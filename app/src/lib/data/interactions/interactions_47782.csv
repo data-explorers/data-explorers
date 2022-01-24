@@ -1,0 +1,39 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47782,47126,Plantae,plants,eats
+47782,333586,Oligochaeta,Earthworms and allies,eats
+47782,47158,Insecta,Insects,eats
+47782,67334,Cyanobacteria,cyanobacteria,eats
+47782,233662,Wormaldia moesta,,eats
+47782,325537,Aeolosoma,,eats
+47782,,Detritus,,eats
+47782,,Oligo smooth,,eats
+47782,,Navicula avenacea,,eats
+47782,,Pinnularia,,eats
+47782,231326,Sphaerium occidentale,Herrington fingernailclam,eats
+47782,171566,Lumbriculidae,,eats
+47782,376157,Deleatidium,Suckergilled Mayflies,eats
+47782,,Hydrobiosella stenocerca,,eats
+47782,408499,Coloburiscus humeralis,Spinygilled Mayfly,eats
+47782,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eatenBy
+47782,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+47782,100110,Epinephelus itajara,Atlantic Goliath Grouper,eatenBy
+47782,49637,Epinephelus morio,Red Grouper,eatenBy
+47782,58654,Ameiurus nebulosus,Brown Bullhead,eatenBy
+47782,,Huso dauricus,,eatenBy
+47782,,Channa argus,,eatenBy
+47782,,Silurus asotus,,eatenBy
+47782,7054,Aythya affinis,Lesser Scaup,eatenBy
+47782,4937,Egretta caerulea,Little Blue Heron,eatenBy
+47782,4742,Mycteria americana,Wood Stork,eatenBy
+47782,7109,Lophodytes cucullatus,Hooded Merganser,preyedUponBy
+47782,,Regina septemvittata,,preyedUponBy
+47782,,Liodytes rigida sinicola,,preyedUponBy
+47782,29327,Nerodia cyclopion,Mississippi Green Watersnake,preyedUponBy
+47782,,Nerodia floridana,,preyedUponBy
+47782,,Regina grahami,,preyedUponBy
+47782,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+47782,,Regina rigida,,preyedUponBy
+47782,29305,Nerodia sipedon,Common Watersnake,preyedUponBy
+47782,,Regina alleni,,preyedUponBy
+47782,27177,Clonophis kirtlandii,Kirtland's Snake,preyedUponBy
+47782,,Sinonatrix percarinata,,preyedUponBy

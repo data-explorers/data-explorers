@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+74677,47544,Rubus,brambles,eats
+74677,41976,Lynx rufus,Bobcat,eatenBy
+74677,20044,Bubo virginianus,Great Horned Owl,eatenBy
+74677,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+74677,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+74677,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+74677,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+74677,19893,Strix varia,Barred Owl,eatenBy
+74677,41798,Martes americana,American Marten,eatenBy
+74677,,Martes pennanti,,eatenBy
+74677,41789,Taxidea taxus,American Badger,eatenBy
+74677,20307,Asio otus,Long-eared Owl,eatenBy
+74677,19975,Athene cunicularia,Burrowing Owl,eatenBy
+74677,,Northern Saw-Whet Owl,,eatenBy
+74677,558512,Lanius borealis,Northern Shrike,eatenBy
+74677,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+74677,20359,Aegolius funereus,Boreal Owl,eatenBy
+74677,19890,Strix nebulosa,Great Gray Owl,eatenBy
+74677,20356,Aegolius acadicus,Northern Saw-whet Owl,eatenBy
+74677,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+74677,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+74677,558512,Lanius borealis,Northern Shrike,preyedUponBy

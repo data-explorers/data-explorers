@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+209233,,shrubs,,eats
+209233,42051,Canis latrans,Coyote,eatenBy
+209233,42007,Puma concolor,Mountain Lion,eatenBy
+209233,42069,Vulpes vulpes,Red Fox,eatenBy
+209233,49704,Tabanus,True Horse Flies,eatenBy
+209233,13858,Passer domesticus,House Sparrow,eatenBy
+209233,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+209233,42048,Canis lupus,Gray Wolf,eatenBy
+209233,851014,Canis aureus,Golden Jackal,eatenBy
+209233,,Uncia uncia,,eatenBy
+209233,40232,Sarcophilus harrisii,Tasmanian Devil,eatenBy
+209233,41641,Ursus arctos,Brown Bear,eatenBy
+209233,259078,Culex tarsalis,Western Encephalitis Mosquito,eatenBy
+209233,,Culiseta melanura,,eatenBy
+209233,,Aedes vexans,,eatenBy
+209233,,Aedes flavescens,,eatenBy
+209233,,Anopheles albimanus,,eatenBy
+209233,,Aedes nigromaculis,,eatenBy
+209233,,Anopheles crucians,,eatenBy
+209233,,Anopheles stephensi,,eatenBy
+209233,,Culiseta inornata,,eatenBy
+209233,,Anopheles quadrimaculatus,,eatenBy
+209233,,Anopheles freeborni,,eatenBy
+209233,,Anopheles,,eatenBy
+209233,122223,Stomoxys calcitrans,Stable Fly,eatenBy
+209233,,Anopheles annulipes,,eatenBy
+209233,,Hyalomma plumbeum,,eatenBy
+209233,,Culex modestus,,eatenBy
+209233,,Tabanus lineola,,eatenBy
+209233,155310,Anopheles sinensis,,eatenBy
+209233,,Anopheles maculipennis,,eatenBy
+209233,,Anopheles punctipennis,,eatenBy
+209233,,Anopheles walkeri,,eatenBy
+209233,,Anopheles pseudopunctipennis,,eatenBy
+209233,,Wyeomyia mitchellii,,eatenBy
+209233,,Aquila chrysaetos,,eatenBy
+209233,,Canis lupus signatus,,preyedUponBy

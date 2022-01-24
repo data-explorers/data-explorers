@@ -1,0 +1,22 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4755,3,Aves,Birds,eats
+4755,40151,Mammalia,Mammals,eats
+4755,47851,Quercus,oaks,eats
+4755,46020,Sciurus niger,Fox Squirrel,eats
+4755,211194,Tracheophyta,vascular plants,eats
+4755,47124,Magnoliopsida,dicots,eats
+4755,118552,Felis catus,Domestic Cat,eats
+4755,49399,Juniperus virginiana,eastern redcedar,eats
+4755,906,Meleagris gallopavo,Wild Turkey,eats
+4755,71306,Cathartidae,New World Vultures,eats
+4755,42223,Odocoileus virginianus,White-tailed Deer,eats
+4755,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+4755,1,Animalia,Animals,eats
+4755,41663,Procyon lotor,Common Raccoon,eats
+4755,41880,Mephitis mephitis,Striped Skunk,eats
+4755,42652,Didelphis virginiana,Virginia Opossum,eats
+4755,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+4755,47434,Poaceae,grasses,eats
+4755,47014,Scalopus aquaticus,Eastern Mole,eats
+4755,26504,Colubridae,Colubrid Snakes,eats
+4755,132576,Elaeis guineensis,African oil palm,eats

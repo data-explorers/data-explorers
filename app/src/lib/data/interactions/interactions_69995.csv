@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69995,67334,Cyanobacteria,cyanobacteria,eats
+69995,,diatoms - blue-green algae,,eats
+69995,51225,Tipulidae,Large Crane Flies,eatenBy
+69995,3941,Arenaria melanocephala,Black Turnstone,eatenBy
+69995,450669,Phyteuma nigrum,Black Rampion,eatenBy
+69995,,Acanthina spirata,,eatenBy
+69995,,Thais emarginata,,eatenBy
+69995,,Tringa semipalmatus,,eatenBy
+69995,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy

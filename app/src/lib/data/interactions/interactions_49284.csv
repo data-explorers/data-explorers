@@ -1,0 +1,53 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49284,47120,Arthropoda,Arthropods,eats
+49284,119391,Amphiprion percula,Percula Anemonefish,eats
+49284,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+49284,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49284,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49284,47296,Lutjanus,Common Snappers,eatenBy
+49284,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+49284,4272,Phalacrocorax aristotelis,European Shag,eatenBy
+49284,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+49284,4534,Anous,Noddies,eatenBy
+49284,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+49284,4535,Anous stolidus,Brown Noddy,eatenBy
+49284,127142,Gymnothorax vicinus,Purplemouth Moray,eatenBy
+49284,418790,Sebastapistes ballieui,Spotfin Scorpionfish,eatenBy
+49284,53576,Scorpaenopsis,,eatenBy
+49284,113971,Thalassoma ballieui,Blacktail Wrasse,eatenBy
+49284,120963,Conger cinereus,Mustache Conger,eatenBy
+49284,123123,Synodus ulae,Hawaiian Lizardfish,eatenBy
+49284,67658,Paracirrhites forsteri,Freckled Hawkfish,eatenBy
+49284,96768,Carcharias taurus,Sand Tiger Shark,eatenBy
+49284,317104,Fistularia petimba,Rough Flutemouth,eatenBy
+49284,52399,Gymnothorax undulatus,Undulated Moray,eatenBy
+49284,123690,Caranx melampygus,Bluefin Trevally,eatenBy
+49284,,Dasyatis americana,,eatenBy
+49284,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+49284,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+49284,,Lutjanus semicinctus,,eatenBy
+49284,63740,Gadus morhua,Atlantic Cod,eatenBy
+49284,64476,Mycteroperca venenosa,Yellowfin Grouper,eatenBy
+49284,,Chromis cyanea,,eatenBy
+49284,49509,Lutjanus griseus,Grey Snapper,eatenBy
+49284,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+49284,49637,Epinephelus morio,Red Grouper,eatenBy
+49284,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+49284,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49284,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+49284,131388,Haemulon melanurum,Cottonwick,eatenBy
+49284,41733,Halichoerus grypus,Grey Seal,eatenBy
+49284,513493,Glaucosoma hebraicum,West Australian Dhufish,eatenBy
+49284,109747,Plectropomus punctatus,Marbled Coralgrouper,eatenBy
+49284,113701,Synodus saurus,Atlantic Lizardfish,eatenBy
+49284,118589,Conger conger,European Conger,eatenBy
+49284,196845,Pempheris oualensis,Copper Sweeper,eatenBy
+49284,122514,Parupeneus cyclostomus,Goldsaddle Goatfish,eatenBy
+49284,,Carangoides bartholomaei,,eatenBy
+49284,82330,Caranx ruber,Bar Jack,eatenBy
+49284,529450,Ostorhinchus novemfasciatus,Sevenstripe Cardinalfish,eatenBy
+49284,41850,Lutra lutra,Eurasian Otter,eatenBy
+49284,128105,Gymnothorax moringa,Spotted Moray,eatenBy
+49284,4537,Anous minutus,Black Noddy,eatenBy
+49284,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy
+49284,,Pseudolaticauda semifasciata,,preyedUponBy

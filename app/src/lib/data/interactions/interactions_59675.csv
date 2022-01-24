@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59675,72151,Gossypium,Cottons,eats
+59675,47351,Prunus,"plums, cherries, and allies",eats
+59675,51737,Solanum lycopersicum,tomato,eats
+59675,47911,Asclepias syriaca,common milkweed,eats
+59675,47727,Acer,maples,eats
+59675,78755,Prunus persica,Peach,eats
+59675,51876,Trifolium,clovers,eats
+59675,47602,Taraxacum officinale,common dandelion,eats
+59675,47906,Asclepias,milkweeds,eats
+59675,57983,Helianthus annuus,Common Sunflower,eats
+59675,47603,Taraxacum,dandelions,eats
+59675,83072,Syringa vulgaris,common lilac,eats
+59675,58961,Plantago major,greater plantain,eats
+59675,47130,Ribes,currants and gooseberries,eats
+59675,50636,Plantago,plantain,eats
+59675,82110,Rubus allegheniensis,Allegheny blackberry,eats
+59675,52543,Acer saccharum,sugar maple,eats
+59675,49883,Betula papyrifera,paper birch,eats
+59675,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+59675,57067,Melilotus,melilots and sweetclovers,eats
+59675,56739,Ricinus communis,castor bean,eats
+59675,54834,Prunus serotina,black cherry,eats
+59675,75501,Arctium lappa,greater burdock,eats
+59675,48972,Polygonum,knotweeds,eats
+59675,50641,Solanum,nightshades,eats
+59675,125381,Asclepias incarnata,swamp milkweed,eats
+59675,119936,Vitis riparia,riverbank grape,eats
+59675,54774,Viburnum,viburnums,eats
+59675,,Cucumella,,eats
+59675,48448,Zea mays,Maize,eats
+59675,,Phaseolus,,eats
+59675,,Lycopersicon,,eats
+59675,,Syringa persica,,eats
+59675,51645,Rubus parvifolius,small-leaf bramble,eats
+59675,55367,Fragaria chiloensis,beach strawberry,eats
+59675,54498,Beta vulgaris,Beet,eats
+59675,,Proboscidea louisianica,,eats
+59675,,Elymus repens,,eats
+59675,,Aster,,eats
+59675,,Atropa belladonna,,eats
+59675,,Pisum sativum,,eats
+59675,,Cucumis melo,,eats
+59675,,Betula pubescens,,eats
+59675,,Dianthus caryophyllus,,eats
+59675,,Sorbaria sorbifolia,,eats
+59675,52867,Clethra alnifolia,Sweet Pepperbush,eats
+59675,,Kokkocynips difficilis,,eats
+59675,9346,Icterus galbula,Baltimore Oriole,eatenBy
+59675,,Pheidole pilifera,,eatenBy
+59675,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+59675,,Cuculus canorus,,eatenBy
+59675,,Carabus maeander,,preyedUponBy
+59675,,Cuculus canorus,,preyedUponBy

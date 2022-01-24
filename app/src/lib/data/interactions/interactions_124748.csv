@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+124748,121180,Megastraea undosa,Wavy Turban,eatenBy
+124748,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eatenBy
+124748,53831,Tegula,Tegulas,eatenBy
+124748,49723,Pugettia producta,Northern Kelp Crab,eatenBy
+124748,48645,Megathura crenulata,Giant Keyhole Limpet,eatenBy
+124748,49857,Aplysia vaccaria,Black Seahare,eatenBy
+124748,48655,Aplysia californica,California Seahare,eatenBy
+124748,56652,Haliotis rufescens,Red Abalone,eatenBy
+124748,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+124748,,Strongylocentrotus franciscanus,,eatenBy
+124748,339286,Diopatra ornata,Ornate Tubeworm,eatenBy
+124748,448282,Pseudopercis semifasciata,Argentinian Sandperch,eatenBy
+124748,,Norrisia norrisi,,eatenBy
+124748,179833,Lytechinus anamesus,white sea urchin,eatenBy
+124748,992313,Mesocentrotus franciscanus,Red Sea Urchin,eatenBy
+124748,56649,Haliotis cracherodii,Black Abalone,eatenBy
+124748,56678,Haliotis corrugata,Pink Abalone,eatenBy
+124748,81963,Girella nigricans,Opaleye,eatenBy
+124748,105388,Medialuna californiensis,Halfmoon,eatenBy
+124748,56654,Haliotis kamtschatkana,Pinto Abalone,eatenBy
+124748,347389,Lithopoma,,eatenBy
+124748,56653,Haliotis fulgens,Green Abalone,eatenBy
+124748,390162,Haliotis iris,Blackfoot Paua,eatenBy
+124748,48655,Aplysia californica,California Seahare,preyedUponBy
+124748,49723,Pugettia producta,Northern Kelp Crab,preyedUponBy
+124748,48645,Megathura crenulata,Giant Keyhole Limpet,preyedUponBy
+124748,49857,Aplysia vaccaria,Black Seahare,preyedUponBy
+124748,56652,Haliotis rufescens,Red Abalone,preyedUponBy
+124748,53831,Tegula,Tegulas,preyedUponBy
+124748,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preyedUponBy
+124748,56649,Haliotis cracherodii,Black Abalone,preyedUponBy
+124748,347389,Lithopoma,,preyedUponBy
+124748,56654,Haliotis kamtschatkana,Pinto Abalone,preyedUponBy
+124748,179833,Lytechinus anamesus,white sea urchin,preyedUponBy
+124748,992313,Mesocentrotus franciscanus,Red Sea Urchin,preyedUponBy
+124748,105388,Medialuna californiensis,Halfmoon,preyedUponBy
+124748,,Norrisia norrisi,,preyedUponBy
+124748,81963,Girella nigricans,Opaleye,preyedUponBy
+124748,56678,Haliotis corrugata,Pink Abalone,preyedUponBy

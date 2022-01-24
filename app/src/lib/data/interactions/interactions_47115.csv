@@ -1,0 +1,191 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47115,,bacterioplankton,,eats
+47115,,Microprotozoa,,eats
+47115,,Phytoplankton,,eats
+47115,,saprophagous plankton,,eats
+47115,,Detritus,,eats
+47115,,Algae,,eats
+47115,370724,Lumbrineris latreilli,,eats
+47115,123639,Spionidae,,eats
+47115,363662,Hydroides dianthus,,eats
+47115,,Nematonereis unicornis,,eats
+47115,450045,Glycera tesselata,,eats
+47115,661252,Dasybranchus caducus,,eats
+47115,208364,Arenicola marina,Blow Lugworm,eats
+47115,,Prymnesiophyceae,,eats
+47115,,Benthic producer,,eats
+47115,,Phyoplankton,,eats
+47115,41663,Procyon lotor,Common Raccoon,eatenBy
+47115,42069,Vulpes vulpes,Red Fox,eatenBy
+47115,6888,Anseriformes,Waterfowl,eatenBy
+47115,47490,Polychaeta,Polychaete Worms,eatenBy
+47115,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+47115,49507,Callinectes,,eatenBy
+47115,41446,Phocoenoides dalli,Dall's Porpoise,eatenBy
+47115,41860,Enhydra lutris,Sea Otter,eatenBy
+47115,26575,Diadophis punctatus,ring-necked snake,eatenBy
+47115,72458,Actitis macularius,Spotted Sandpiper,eatenBy
+47115,7107,Aix sponsa,Wood Duck,eatenBy
+47115,48786,Pollicipes polymerus,Gooseneck Barnacle,eatenBy
+47115,7294,Eremophila alpestris,Horned Lark,eatenBy
+47115,41740,Zalophus californianus,California Sea Lion,eatenBy
+47115,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+47115,41728,Mirounga angustirostris,Northern Elephant Seal,eatenBy
+47115,42007,Puma concolor,Mountain Lion,eatenBy
+47115,6921,Cygnus olor,Mute Swan,eatenBy
+47115,9156,Passerella iliaca,Fox Sparrow,eatenBy
+47115,116999,Pandion haliaetus,Osprey,eatenBy
+47115,4940,Egretta thula,Snowy Egret,eatenBy
+47115,6930,Anas platyrhynchos,Mallard,eatenBy
+47115,3901,Numenius phaeopus,Whimbrel,eatenBy
+47115,447552,Maja brachydactyla,Spiny Spider Crab,eatenBy
+47115,4838,Haematopus bachmani,Black Oystercatcher,eatenBy
+47115,3849,Calidris alba,Sanderling,eatenBy
+47115,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+47115,47826,Cancer productus,Red Rock Crab,eatenBy
+47115,52522,Ovalipes,,eatenBy
+47115,81646,Busycotypus canaliculatus,Channeled Whelk,eatenBy
+47115,208724,Busycon carica,Knobbed Whelk,eatenBy
+47115,41708,Phoca vitulina,Harbor Seal,eatenBy
+47115,39670,Lepidochelys olivacea,Olive Ridley Sea Turtle,eatenBy
+47115,41440,Phocoena phocoena,Harbour Porpoise,eatenBy
+47115,41562,Balaenoptera physalus,Fin Whale,eatenBy
+47115,121187,Sepioteuthis lessoniana,Bigfin Reef Squid,eatenBy
+47115,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+47115,47458,Octopoda,Octopuses,eatenBy
+47115,432545,Todarodes sagittatus,European Flying Squid,eatenBy
+47115,195876,Astropecten polyacanthus,Indo-Pacific Comb Star,eatenBy
+47115,126393,Stomolophus meleagris,Cannonball Jelly,eatenBy
+47115,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+47115,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+47115,4158,Pachyptila turtur,Fairy Prion,eatenBy
+47115,48904,Hemigrapsus sanguineus,Asian Shore Crab,eatenBy
+47115,130085,Actinia equina,Beadlet anemone,eatenBy
+47115,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+47115,429195,Nucella emarginata,Emarginate Dogwinkle,eatenBy
+47115,103601,Jasus edwardsii,Southern Rock Lobster,eatenBy
+47115,41742,Arctocephalus pusillus,Brown Fur Seal,eatenBy
+47115,48328,Aurelia aurita,Moon Jelly,eatenBy
+47115,3959,Phalaropus lobatus,Red-necked Phalarope,eatenBy
+47115,52523,Carcinus maenas,European Green Crab,eatenBy
+47115,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+47115,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+47115,253735,Thysanoteuthis rhombus,Diamondback Squid,eatenBy
+47115,41503,Stenella frontalis,Atlantic Spotted Dolphin,eatenBy
+47115,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+47115,151394,Sepia elegans,Elegant Cuttlefish,eatenBy
+47115,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+47115,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+47115,49699,Pisaster ochraceus,Ochre Sea Star,eatenBy
+47115,491935,Thylacodes squamigerus,Scaled Worm Snail,eatenBy
+47115,123467,Nautilus pompilius,Emperor Nautilus,eatenBy
+47115,54509,Octopus bimaculoides,Lesser Two-spot Octopus,eatenBy
+47115,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+47115,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+47115,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+47115,41553,Balaenoptera musculus,Blue Whale,eatenBy
+47115,3892,Tringa melanoleuca,Greater Yellowlegs,eatenBy
+47115,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+47115,41494,Stenella coeruleoalba,Striped Dolphin,eatenBy
+47115,117607,Nephtys,Nephthys's Sand-worms,eatenBy
+47115,117606,Nephtyidae,Catworms,eatenBy
+47115,195011,Phyllodocidae,Paddle Worms,eatenBy
+47115,58648,Fundulus,Typical Killifishes,eatenBy
+47115,56769,Rhinoptera steindachneri,Golden Cownose Ray,eatenBy
+47115,540910,Schedophilus velaini,Ocean Blue-eye Trevalla,eatenBy
+47115,56770,Rhinoptera,Cownose Rays,eatenBy
+47115,49267,Sphoeroides,,eatenBy
+47115,117533,Clinocottus analis,Woolly Sculpin,eatenBy
+47115,103211,Hypsoblennius gilberti,Notchbrow Blenny,eatenBy
+47115,89855,Menticirrhus,Kingcroakers,eatenBy
+47115,94130,Anisotremus davidsonii,Sargo,eatenBy
+47115,114756,Umbrina roncador,Yellowfin croaker,eatenBy
+47115,52188,Rhincodon typus,Whale Shark,eatenBy
+47115,63770,Engraulis mordax,Northern Anchovy,eatenBy
+47115,53911,Cyprinus carpio,European Carp,eatenBy
+47115,48407,Raja,,eatenBy
+47115,49265,Sphoeroides spengleri,Bandtail Puffer,eatenBy
+47115,83318,Arothron meleagris,Guineafowl Puffer,eatenBy
+47115,54662,Mugil,Common Mullets,eatenBy
+47115,132473,Lagodon rhomboides,Pinfish,eatenBy
+47115,204776,Pseudocaranx dentex,Silver Trevally,eatenBy
+47115,92734,Umbrina,,eatenBy
+47115,92583,Trachurus,Jack Mackerels,eatenBy
+47115,118640,Bothus podas,Wide-eyed Flounder,eatenBy
+47115,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+47115,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,eatenBy
+47115,47296,Lutjanus,Common Snappers,eatenBy
+47115,56943,Katsuwonus pelamis,Skipjack Tuna,eatenBy
+47115,50968,Coris julis,Mediterranean rainbow wrasse,eatenBy
+47115,210294,Lipophrys pholis,Shanny,eatenBy
+47115,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47115,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47115,69676,Thunnus,Bluefin Tunas,eatenBy
+47115,47257,Acanthocybium solandri,Wahoo,eatenBy
+47115,107889,Oreochromis mossambicus,Mozambique Tilapia,eatenBy
+47115,317127,Gymnothorax mordax,California Moray,eatenBy
+47115,49591,Lepomis macrochirus,Bluegill,eatenBy
+47115,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+47115,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+47115,101053,Fundulus diaphanus,banded killifish,eatenBy
+47115,57301,Hyporhamphus,,eatenBy
+47115,52460,Tylosurus crocodilus,Crocodile Needlefish,eatenBy
+47115,48844,Echeneis naucrates,Sharksucker,eatenBy
+47115,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+47115,114122,Thunnus alalunga,Albacore,eatenBy
+47115,51549,Seriola dumerili,Greater Amberjack,eatenBy
+47115,187047,Allothunnus fallai,Slender tuna,eatenBy
+47115,322005,Girella tricuspidata,Luderick,eatenBy
+47115,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+47115,57810,Heterodontus portusjacksoni,Port Jackson Shark,eatenBy
+47115,121259,Chironemus marmoratus,Eastern Kelpfish,eatenBy
+47115,146827,Menidia menidia,Atlantic Silverside,eatenBy
+47115,53585,Carcharhinus,Typical Requiem Sharks,eatenBy
+47115,118597,Belone belone,Garfish,eatenBy
+47115,87467,Chromis,Chromis,eatenBy
+47115,6993,Bucephala albeola,Bufflehead,eatenBy
+47115,9602,Quiscalus quiscula,Common Grackle,eatenBy
+47115,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+47115,3793,Sula sula,Red-footed Booby,eatenBy
+47115,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+47115,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+47115,7043,Aythya,"Scaups, Pochards, and Allies",eatenBy
+47115,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+47115,473,Fulica americana,American Coot,eatenBy
+47115,3873,Limnodromus scolopaceus,Long-billed Dowitcher,eatenBy
+47115,144496,Gallinago delicata,Wilson's Snipe,eatenBy
+47115,12901,Catharus fuscescens,Veery,eatenBy
+47115,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47115,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+47115,144455,Ardea alba,Great Egret,eatenBy
+47115,14850,Sturnus vulgaris,European Starling,eatenBy
+47115,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47115,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+47115,508048,Antigone canadensis,Sandhill Crane,eatenBy
+47115,4620,Gavia,Loons,eatenBy
+47115,,Microprotozoa,,preysOn
+47115,,bacterioplankton,,preysOn
+47115,121643,Copepoda,Copepods,preyedUponBy
+47115,47490,Polychaeta,Polychaete Worms,preyedUponBy
+47115,6888,Anseriformes,Waterfowl,preyedUponBy
+47115,50766,Muricidae,Murex Snails,preyedUponBy
+47115,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+47115,60395,Branchiopoda,Branchiopods,preyedUponBy
+47115,,Dreissenid mussels,,preyedUponBy
+47115,49237,Alosa,Anadromous Shads,preyedUponBy
+47115,,Neosiluris ater,,preyedUponBy
+47115,,Omnivorous crabs,,preyedUponBy
+47115,,Gobies and blennies,,preyedUponBy
+47115,96223,Bunaka gyrinoides,Greenback Gudgeon,preyedUponBy
+47115,,Tilapia mariae,,preyedUponBy
+47115,445590,Acanthopagrus berda,goldsilk seabream,preyedUponBy
+47115,47353,Lates calcarifer,Barramundi,preyedUponBy
+47115,120523,Anguilla reinhardtii,Australian Long-finned Eel,preyedUponBy
+47115,202148,Nematalosa erebi,Bony Bream,preyedUponBy
+47115,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy
+47115,368587,Hypseleotris compressa,Empire Gudgeon,preyedUponBy
+47115,,Geres filamentosis,,preyedUponBy
+47115,187422,Giuris margaritacea,Snakehead Gudgeon,preyedUponBy
+47115,106222,Mugil cephalus,Sea Mullet,preyedUponBy
+47115,521489,Tandanus tandanus,Freshwater Catfish,preyedUponBy
+47115,7047,Aythya marila,Greater Scaup,preyedUponBy

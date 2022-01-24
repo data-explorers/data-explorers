@@ -1,0 +1,38 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52195,906,Meleagris gallopavo,Wild Turkey,eatenBy
+52195,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+52195,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+52195,9100,Melospiza melodia,Song Sparrow,eatenBy
+52195,73044,Melozone crissalis,California Towhee,eatenBy
+52195,199840,Haemorhous mexicanus,House Finch,eatenBy
+52195,,Hadena compta,,eatenBy
+52195,,Hadena ectypa,,eatenBy
+52195,,Hadena confusa,,eatenBy
+52195,,Hadena filograna,,eatenBy
+52195,,Hadena perplexa,,eatenBy
+52195,,Hadena irregularis,,eatenBy
+52195,,Hadena luteago,,eatenBy
+52195,782672,Hadena magnolii,Magnol's lychnis moth,eatenBy
+52195,,Hadena laudeti,,eatenBy
+52195,,Caryocolum viscariella,,eatenBy
+52195,,Caryocolum cauligenella,,eatenBy
+52195,,Coleophora albella,,eatenBy
+52195,,Amauromyza flavifrons,,eatenBy
+52195,,Subcoccinella vigintiquattuorpunctata,,eatenBy
+52195,,Hymenoscyphus vitellinus,,eatenBy
+52195,,Hypera (Hypera) arator,,eatenBy
+52195,,Aphis (Aphis) sambuci,,eatenBy
+52195,,Microbotryum,,eatenBy
+52195,9611,Leucosticte atrata,Black Rosy-Finch,eatenBy
+52195,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+52195,,Zonotrichia atricapilla,,eatenBy
+52195,,Zonotrichia leucophrys,,eatenBy
+52195,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+52195,47158,Insecta,Insects,pollinatedBy
+52195,,Usia forcipata ,,pollinatedBy
+52195,,Bombylius cinerascens ,,pollinatedBy
+52195,,Dasytes striatulus ,,pollinatedBy
+52195,,Bombylius medius ,,pollinatedBy
+52195,,Artogeia rapae ,,pollinatedBy
+52195,,Gonepteryx rhamni,,pollinatedBy
+52195,,Bombus polaris,,pollinatedBy

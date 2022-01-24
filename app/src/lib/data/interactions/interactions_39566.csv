@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+39566,8021,Corvus brachyrhynchos,American Crow,eatenBy
+39566,144455,Ardea alba,Great Egret,eatenBy
+39566,26159,Alligator mississippiensis,American Alligator,eatenBy
+39566,144455,Ardea alba,Great Egret,preyedUponBy
+39566,26159,Alligator mississippiensis,American Alligator,preyedUponBy

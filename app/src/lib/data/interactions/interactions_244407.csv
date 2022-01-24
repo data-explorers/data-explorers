@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+244407,61858,Lucilia,Greenbottle Flies,eats
+244407,203403,Lema daturaphila,Three-lined Potato Beetle,eats
+244407,49025,Membracoidea,Leafhoppers and Treehoppers,eats
+244407,48091,Brachycera,Brachyceran Flies,eats
+244407,54467,Psyllobora,Fungus-eating Lady Beetles,eats
+244407,63187,Braconidae,Braconid Wasps,eats
+244407,16010,Myiarchus cinerascens,Ash-throated Flycatcher,eatenBy
+244407,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+244407,133797,Agapostemon texanus,Texas Striped Sweat Bee,preysOn
+244407,372852,Cucujiformia,Cucujiform Beetles,preysOn
+244407,49995,Syrphidae,Hover Flies,preysOn
+244407,61858,Lucilia,Greenbottle Flies,preysOn
+244407,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",preysOn
+244407,47822,Diptera,Flies,preysOn
+244407,325596,Syritta flaviventris,Peg-legged Compost Fly,preysOn
+244407,,Xanthogaleruca luteola,,preysOn
+244407,,Hypebaeus,,preysOn

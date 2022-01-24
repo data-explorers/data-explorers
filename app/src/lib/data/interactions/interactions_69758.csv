@@ -1,0 +1,113 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69758,47561,Pinus,pines,eats
+69758,67333,Bacteria,bacteria,eats
+69758,,rotting wood,,eats
+69758,,Amorphous detritus,,eats
+69758,,Dead cellular plant material,,eats
+69758,,leaf litter,,eats
+69758,,saphrophytes,,eats
+69758,12937,Sialia mexicana,Western Bluebird,eatenBy
+69758,44576,Rattus norvegicus,Brown Rat,eatenBy
+69758,17013,Sayornis nigricans,Black Phoebe,eatenBy
+69758,64221,Bipalium kewense,Shovel-headed Garden Worm,eatenBy
+69758,4793,Charadrius vociferus,Killdeer,eatenBy
+69758,14850,Sturnus vulgaris,European Starling,eatenBy
+69758,58585,Limenitis arthemis astyanax,Red-spotted Purple,eatenBy
+69758,12727,Turdus migratorius,American Robin,eatenBy
+69758,27818,Taricha torosa,California Newt,eatenBy
+69758,49704,Tabanus,True Horse Flies,eatenBy
+69758,12716,Turdus merula,Eurasian Blackbird,eatenBy
+69758,56552,Carabus nemoralis,Bronze Ground Beetle,eatenBy
+69758,,Podarcis siculus campestris,,eatenBy
+69758,,Bidentolophus bidens,,eatenBy
+69758,33118,Basiliscus vittatus,Brown Basilisk,eatenBy
+69758,,Carabus auronitens,,eatenBy
+69758,4733,Ciconia ciconia,White Stork,eatenBy
+69758,27726,Salamandra salamandra,Fire Salamander,eatenBy
+69758,,Turdus rufiventris,,eatenBy
+69758,12737,Turdus leucomelas,Pale-breasted Thrush,eatenBy
+69758,,Odorrana swinhoana,,eatenBy
+69758,360830,Carabus coriaceus,,eatenBy
+69758,,Taricha granulosa,,eatenBy
+69758,,Macrocyclops albidus,,eatenBy
+69758,,Necterosoma penicillatus - adult (Chironomidae - Dytiscidae),,eatenBy
+69758,,Paramerina,,eatenBy
+69758,,Coelopynia,,eatenBy
+69758,,Illiesoperla australis,,eatenBy
+69758,,Glacidorbis hedleyi,,eatenBy
+69758,,Agonostomus monticola,,eatenBy
+69758,,Neochanna burrowsius,,eatenBy
+69758,13094,Erithacus rubecula,European Robin,eatenBy
+69758,41641,Ursus arctos,Brown Bear,eatenBy
+69758,51333,Macquaria australasica,Macquarie Perch,eatenBy
+69758,55387,Esox lucius,Northern Pike,eatenBy
+69758,47518,Salmo trutta,Brown Trout,eatenBy
+69758,71219,Gryllotalpa gryllotalpa,European Mole Cricket,eatenBy
+69758,,Tabanus lineola,,eatenBy
+69758,,Caracara cheriway,,eatenBy
+69758,,Reticulocephalis clathroides,,eatenBy
+69758,47686,Protozoa,protozoans,preysOn
+69758,118996,Ciliophora,Ciliates,preysOn
+69758,,amoebae,,preysOn
+69758,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+69758,14886,Mimus polyglottos,Northern Mockingbird,preyedUponBy
+69758,12727,Turdus migratorius,American Robin,preyedUponBy
+69758,19893,Strix varia,Barred Owl,preyedUponBy
+69758,119994,Vespula maculifrons,Eastern Yellowjacket,preyedUponBy
+69758,4793,Charadrius vociferus,Killdeer,preyedUponBy
+69758,144455,Ardea alba,Great Egret,preyedUponBy
+69758,14850,Sturnus vulgaris,European Starling,preyedUponBy
+69758,18204,Melanerpes erythrocephalus,Red-headed Woodpecker,preyedUponBy
+69758,46217,Tamias striatus,Eastern Chipmunk,preyedUponBy
+69758,42069,Vulpes vulpes,Red Fox,preyedUponBy
+69758,47992,Limoniidae,Limoniid Crane Flies,preyedUponBy
+69758,49567,Carabidae,Ground Beetles,preyedUponBy
+69758,27177,Clonophis kirtlandii,Kirtland's Snake,preyedUponBy
+69758,29285,Ninia sebae,Red Coffee Snake,preyedUponBy
+69758,,Macrocyclops albidus,,preyedUponBy
+69758,,Coelopynia,,preyedUponBy
+69758,,Glacidorbis hedleyi,,preyedUponBy
+69758,,Necterosoma penicillatus - adult (Chironomidae - Dytiscidae),,preyedUponBy
+69758,,Paramerina,,preyedUponBy
+69758,,Illiesoperla australis,,preyedUponBy
+69758,56552,Carabus nemoralis,Bronze Ground Beetle,preyedUponBy
+69758,216086,Carabus granulatus,Granulated Ground Beetle,preyedUponBy
+69758,360830,Carabus coriaceus,,preyedUponBy
+69758,,Euphagus carolinus,,preyedUponBy
+69758,,Cracticus nigrogularis,,preyedUponBy
+69758,,Carabus arcensis,,preyedUponBy
+69758,,Carabus intricatus,,preyedUponBy
+69758,,Dermestes laniarius,,preyedUponBy
+69758,130166,Carabus glabratus,smooth ground beetle,preyedUponBy
+69758,12707,Turdus pilaris,Fieldfare,preyedUponBy
+69758,12716,Turdus merula,Eurasian Blackbird,preyedUponBy
+69758,,Anzoplana trilineata,,preyedUponBy
+69758,,Carabus violaceus,,preyedUponBy
+69758,12748,Turdus philomelos,Song Thrush,preyedUponBy
+69758,,Carabus lusitanicus,,preyedUponBy
+69758,,Carabus maeander,,preyedUponBy
+69758,19765,Megascops asio,Eastern Screech-Owl,preyedUponBy
+69758,,Carabus deyrollei,,preyedUponBy
+69758,,Strepera graculina,,preyedUponBy
+69758,66330,Pelophylax nigromaculatus,Black-spotted Frog,preyedUponBy
+69758,,Atelornis pittoides,,preyedUponBy
+69758,116461,Anolis sagrei,Brown Anole,preyedUponBy
+69758,12781,Turdus fuscater,Great Thrush,preyedUponBy
+69758,,Gorsachius melanolophus,,preyedUponBy
+69758,27726,Salamandra salamandra,Fire Salamander,preyedUponBy
+69758,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+69758,25474,Rana,Pond Frogs,preyedUponBy
+69758,,Paederus riparius,,preyedUponBy
+69758,966787,Natrix natrix,grass snake,preyedUponBy
+69758,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+69758,231469,Staphylinus erythropterus,,preyedUponBy
+69758,,Anguis fragilis,,preyedUponBy
+69758,82118,Dolomedes,Fishing Spiders,preyedUponBy
+69758,,Poecilus,,preyedUponBy
+69758,,Pterostichus minor,,preyedUponBy
+69758,784329,Robertus insignis,,preyedUponBy
+69758,447460,Clubiona phragmitis,,preyedUponBy
+69758,521083,Strigamia acuminata,,preyedUponBy
+69758,130411,Abax,,preyedUponBy
+69758,,Arthurdendyus triangulatus,,preyedUponBy
+69758,,Australoplana sanguinea,,preyedUponBy

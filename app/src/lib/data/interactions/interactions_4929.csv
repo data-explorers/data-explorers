@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4929,49588,Centrarchidae,Freshwater Sunfishes,eats
+4929,47822,Diptera,Flies,eats
+4929,59116,Poeciliidae,Livebearers and Lampeyes,eats
+4929,47178,Actinopterygii,Ray-finned Fishes,eats
+4929,44326,Microtus californicus,California Vole,eats
+4929,47783,Astacoidea,Northern Hemisphere Crayfishes,eats
+4929,47638,Scorpaenichthys marmoratus,Cabezon,eats
+4929,,Pleuronectiformes,,eats
+4929,,Cambarus bartonii,,eats
+4929,,Paraneetroplus maculicauda,,eats
+4929,,Characinidae,,eats
+4929,,marine invertebrates,,eats
+4929,,Arvicola amphibius,,eats
+4929,123594,Anaxyrus americanus americanus,Eastern American Toad,eats
+4929,49168,Caulolatilus princeps,Ocean Whitefish,eats
+4929,95919,Bothus leopardinus,,eats
+4929,41976,Lynx rufus,Bobcat,eatenBy
+4929,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+4929,41973,Lynx,Lynxes,eatenBy
+4929,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4929,,Python molurus bivittatus,,eatenBy
+4929,95919,Bothus leopardinus,,preysOn
+4929,26159,Alligator mississippiensis,American Alligator,preyedUponBy

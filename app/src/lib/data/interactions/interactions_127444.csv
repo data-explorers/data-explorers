@@ -1,0 +1,57 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127444,47126,Plantae,plants,eats
+127444,,Detritus,,eats
+127444,,Unidentified sp1 FW_009,,eats
+127444,325537,Aeolosoma,,eats
+127444,,Spirogyra,,eats
+127444,,Navicula avenacea,,eats
+127444,,Rhoicosphenia curvata,,eats
+127444,,Pinnularia viridis,,eats
+127444,,Ulothrix,,eats
+127444,,Synedra ulna,,eats
+127444,,fungii,,eats
+127444,4940,Egretta thula,Snowy Egret,eatenBy
+127444,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+127444,4209,Podiceps auritus,Horned Grebe,eatenBy
+127444,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+127444,7120,Cairina moschata,Muscovy Duck,eatenBy
+127444,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+127444,3759,Plegadis chihi,White-faced Ibis,eatenBy
+127444,144455,Ardea alba,Great Egret,eatenBy
+127444,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+127444,4234,Aechmophorus clarkii,Clark's Grebe,eatenBy
+127444,,Dallia pectoralis,,eatenBy
+127444,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+127444,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+127444,,Brycinus leuciscus,,eatenBy
+127444,,Papyrocranus afer,,eatenBy
+127444,114127,Thymallus thymallus,Grayling,eatenBy
+127444,,galgol,,eatenBy
+127444,51333,Macquaria australasica,Macquarie Perch,eatenBy
+127444,4937,Egretta caerulea,Little Blue Heron,eatenBy
+127444,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+127444,5017,Bubulcus ibis,Cattle Egret,eatenBy
+127444,72502,Anas chlorotis,Brown Teal,eatenBy
+127444,3756,Plegadis falcinellus,Glossy Ibis,eatenBy
+127444,4235,Aechmophorus occidentalis,Western Grebe,eatenBy
+127444,4938,Egretta tricolor,Tricolored Heron,eatenBy
+127444,3862,Calidris pusilla,Semipalmated Sandpiper,eatenBy
+127444,162,Porzana carolina,Sora,eatenBy
+127444,243,Rallus limicola,Virginia Rail,eatenBy
+127444,,Rallus elegans,,eatenBy
+127444,7174,Malacorhynchus membranaceus,Pink-eared Duck,eatenBy
+127444,,Hymenolaimus malacorhynchos,,eatenBy
+127444,7046,Aythya fuligula,Tufted Duck,eatenBy
+127444,,Anas capensis,,eatenBy
+127444,7182,Amazonetta brasiliensis,Brazilian Teal,eatenBy
+127444,,Parkesia motacilla,,eatenBy
+127444,9743,Agelaius tricolor,Tricolored Blackbird,eatenBy
+127444,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+127444,,Ammospiza maritima,,eatenBy
+127444,793289,Ammospiza caudacuta,Saltmarsh Sparrow,eatenBy
+127444,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+127444,,Tachybaptus dominicus,,eatenBy
+127444,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+127444,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+127444,40348,Myotis velifer,Cave Myotis,preyedUponBy
+127444,,galgol,,preyedUponBy

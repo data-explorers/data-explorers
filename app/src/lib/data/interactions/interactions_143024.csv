@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+143024,48972,Polygonum,knotweeds,eats
+143024,61495,Erythemis simplicicollis,Eastern Pondhawk,eatenBy
+143024,119535,Phymata,Jagged Ambush Bugs,preyedUponBy
+143024,,Corynorhinus townsendii,,preyedUponBy

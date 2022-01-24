@@ -1,0 +1,113 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44575,47126,Plantae,plants,eats
+44575,202861,Otala lactea,Milk Snail,eats
+44575,,Eleutherodactylus coqui,,eats
+44575,,Eleutherodactylus wightmanae,,eats
+44575,22620,Eleutherodactylus eneidae,Mottled Coqui,eats
+44575,22423,Eleutherodactylus richmondi,Ground Coqui,eats
+44575,22411,Eleutherodactylus portoricensis,Forest Coqui,eats
+44575,22619,Eleutherodactylus hedricki,Tree-hole Coqui,eats
+44575,,Fenerivia madagascariensis,,eats
+44575,,Ludia antanosarum,,eats
+44575,83080,Eugenia,Myrtles,eats
+44575,,Uapaca ferruginea,,eats
+44575,,Brochoneura acuminata,,eats
+44575,1156912,Schizolaena elongata,,eats
+44575,,Leptolaena multiflora,,eats
+44575,,Canarium madagascariense,,eats
+44575,,Macaranga perrieri,,eats
+44575,,Dypsis prestoniana,,eats
+44575,,Terminalia fatraea,,eats
+44575,487329,Elaeocarpus alnifolius,,eats
+44575,,Hyperacanthus mandenensis,,eats
+44575,,Scolopia orientalis,,eats
+44575,,Burasaia madagascariensis,,eats
+44575,,Sarcolaena multiflora,,eats
+44575,,Tina thouarsiana,,eats
+44575,508743,Uapaca littoralis,,eats
+44575,,Pyrostria variistipula,,eats
+44575,,Vepris elliotii,,eats
+44575,,Trema orientalis,,eats
+44575,,Cinnamosma madagascariensis,,eats
+44575,489301,Apodytes dimidiata,White Pear,eats
+44575,,Poupartia chapelieri,,eats
+44575,,Vepris fitoravina,,eats
+44575,471941,Uapaca thouarsii,,eats
+44575,,Dypsis fibrosa,,eats
+44575,,Erythroxylum nitidulum,,eats
+44575,50191,Cordyline australis,New Zealand cabbage tree,eats
+44575,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+44575,54960,Nematoda,Nematodes,eatenBy
+44575,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+44575,47822,Diptera,Flies,eatenBy
+44575,118552,Felis catus,Domestic Cat,eatenBy
+44575,42069,Vulpes vulpes,Red Fox,eatenBy
+44575,8010,Corvus corax,Common Raven,eatenBy
+44575,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+44575,4665,Falco sparverius,American Kestrel,eatenBy
+44575,44540,Rattus,Old World Rats,eatenBy
+44575,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44575,20445,Tyto alba,Barn Owl,eatenBy
+44575,,Pseudoscops grammicus,,eatenBy
+44575,20307,Asio otus,Long-eared Owl,eatenBy
+44575,,Canis lupus dingo,,eatenBy
+44575,,Calodium hepaticum,,eatenBy
+44575,19754,Megascops nudipes,Puerto Rican Screech-Owl,eatenBy
+44575,,Epicrates inornatus,,eatenBy
+44575,,Herpestes javanicus auropunctatus,,eatenBy
+44575,,Nosopsyllus londiniensis,,eatenBy
+44575,252531,Echidnophaga,Stick-tight Fleas,eatenBy
+44575,,Ctenocephalides canis,,eatenBy
+44575,339921,Stercorarius antarcticus,Brown Skua,eatenBy
+44575,,Asio flammeus bogotensis,,eatenBy
+44575,,Pseudoscops clamator,,eatenBy
+44575,,Canis mesomelas,,eatenBy
+44575,851014,Canis aureus,Golden Jackal,eatenBy
+44575,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+44575,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+44575,,Herpestes javanicus,,eatenBy
+44575,922459,Felis silvestris,European Wildcat,eatenBy
+44575,,Puma yagouaroundi,,eatenBy
+44575,41800,Martes foina,Stone Marten,eatenBy
+44575,41997,Leopardus pardalis,Ocelot,eatenBy
+44575,41988,Leopardus wiedii,Margay,eatenBy
+44575,74481,Leopardus geoffroyi,Geoffroy's Cat,eatenBy
+44575,42025,Leptailurus serval,Serval,eatenBy
+44575,41963,Panthera pardus,Leopard,eatenBy
+44575,,Neovison vison,,eatenBy
+44575,41987,Leopardus tigrinus,Northern Tigrina,eatenBy
+44575,42077,Urocyon littoralis,Island Fox,eatenBy
+44575,40232,Sarcophilus harrisii,Tasmanian Devil,eatenBy
+44575,922738,Prionailurus bengalensis,Mainland Leopard Cat,eatenBy
+44575,,Coragyps atratus brasiliensis,,eatenBy
+44575,,Prolasius advenus,,eatenBy
+44575,19975,Athene cunicularia,Burrowing Owl,eatenBy
+44575,118552,Felis catus,Domestic Cat,preyedUponBy
+44575,8021,Corvus brachyrhynchos,American Crow,preyedUponBy
+44575,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+44575,29104,Philodryas nattereri,Paraguay Green Racer,preyedUponBy
+44575,,Borikenophis portoricensis,,preyedUponBy
+44575,,Coluber mentovarius,,preyedUponBy
+44575,95866,Boiruna maculata,False Mussurana,preyedUponBy
+44575,30851,Bitis arietans,Puff Adder,preyedUponBy
+44575,,Antaresia stimsoni,,preyedUponBy
+44575,32191,Liasis fuscus,Water Python,preyedUponBy
+44575,27686,Boiga irregularis,Brown Tree Snake,preyedUponBy
+44575,32237,Epicrates cenchria,Western Rainbow Boa,preyedUponBy
+44575,,Madagascarophis meridionalis,,preyedUponBy
+44575,31031,Ovophis okinavensis,Okinawa Pitviper,preyedUponBy
+44575,30487,Naja nivea,Cape Cobra,preyedUponBy
+44575,,Psammophis phillipsi,,preyedUponBy
+44575,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+44575,30853,Bitis gabonica,Gaboon Viper,preyedUponBy
+44575,540328,Zamenis scalaris,Ladder Snake,preyedUponBy
+44575,32175,Morelia spilota spilota,Diamond Python,preyedUponBy
+44575,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,preyedUponBy
+44575,35143,Pseudonaja nuchalis,Northern Brown Snake,preyedUponBy
+44575,,Naja naja,,preyedUponBy
+44575,35140,Pseudonaja textilis,Eastern Brown Snake,preyedUponBy
+44575,,Lamprophis lineatus,,preyedUponBy
+44575,28963,Psammophis subtaeniatus,Stripe-bellied Sand Snake,preyedUponBy
+44575,,Pseudohaje goldii,,preyedUponBy
+44575,,Chilabothrus subflavus,,preyedUponBy
+44575,,Lanius collaris,,preyedUponBy

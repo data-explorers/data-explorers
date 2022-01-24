@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+46095,,Pisum sativum,,eats
+46095,26172,Squamata,Snakes and Lizards,eatenBy
+46095,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+46095,42051,Canis latrans,Coyote,eatenBy
+46095,41976,Lynx rufus,Bobcat,eatenBy
+46095,4756,Cathartes aura,Turkey Vulture,eatenBy
+46095,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+46095,42048,Canis lupus,Gray Wolf,eatenBy
+46095,41798,Martes americana,American Marten,eatenBy
+46095,,Martes pennanti,,eatenBy
+46095,4765,Coragyps atratus,Black Vulture,eatenBy
+46095,5108,Accipiter gentilis,Northern Goshawk,eatenBy

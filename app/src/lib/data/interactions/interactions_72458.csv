@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+72458,61267,Heteroptera,True Bugs,eats
+72458,47208,Coleoptera,Beetles,eats
+72458,47124,Magnoliopsida,dicots,eats
+72458,47187,Malacostraca,Malacostracans,eats
+72458,47158,Insecta,Insects,eats
+72458,47120,Arthropoda,Arthropods,eats
+72458,47178,Actinopterygii,Ray-finned Fishes,eats
+72458,47115,Mollusca,Molluscs,eats
+72458,48460,Life,,eats
+72458,1,Animalia,Animals,eats
+72458,85493,Crustacea,Crustaceans,eats
+72458,85777,Exocoetidae,Flyingfishes,eats
+72458,53275,Chironomidae,Non-biting Midges,eats
+72458,48011,Ephemeroptera,Mayflies,eats
+72458,,Scapteriscus didactylus,,eats
+72458,,Erpobdella octoculata,,eats
+72458,,Detritus,,eats
+72458,,carrion,,eats
+72458,,Gnathostomata,,eats
+72458,19350,Strigiformes,Owls,eatenBy
+72458,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+72458,9740,Agelaius,Agelaius Blackbirds,eatenBy
+72458,9091,Melospiza,Melospiza Sparrows,eatenBy
+72458,44349,Peromyscus,North American Deer Mice,eatenBy
+72458,41801,Mustela,,eatenBy
+72458,41777,Lontra canadensis,North American River Otter,eatenBy
+72458,10469,Xanthocephalus,,eatenBy
+72458,8021,Corvus brachyrhynchos,American Crow,eatenBy
+72458,9602,Quiscalus quiscula,Common Grackle,eatenBy
+72458,67570,Falconiformes,Falcons and Caracaras,eatenBy
+72458,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+72458,8010,Corvus corax,Common Raven,eatenBy
+72458,,Mustela vison,,eatenBy
+72458,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+72458,47822,Diptera,Flies,preysOn
+72458,333586,Oligochaeta,Earthworms and allies,preysOn
+72458,48548,Vanessa cardui,Painted Lady,preysOn
+72458,47120,Arthropoda,Arthropods,preysOn
+72458,64636,Corophiidae,,preysOn
+72458,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+72458,,Cerithidea californica,,preysOn
+72458,,Ephydra,,preysOn
+72458,,Polydora nuchalis,,preysOn
+72458,339152,Cryptomya californica,California Softshell,preysOn
+72458,51280,Nemertea,Ribbon Worms,preysOn
+72458,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+72458,,Carinoma mutabilis,,preysOn
+72458,208368,Capitella capitata,,preysOn
+72458,,Acteocina inculta,,preysOn
+72458,,Macoma secta,,preysOn
+72458,117622,Nuttallia nuttallii,Purple Clam,preysOn
+72458,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+72458,4672,Falco columbarius,Merlin,preyedUponBy
+72458,,Eunectes notaeus,,preyedUponBy
+72458,,Crotalus oreganus abyssus,,preyedUponBy

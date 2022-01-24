@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+92734,47414,Emerita analoga,Pacific Sand Crab,eats
+92734,85493,Crustacea,Crustaceans,eats
+92734,47115,Mollusca,Molluscs,eats
+92734,47584,Bivalvia,Bivalves,eats
+92734,47178,Actinopterygii,Ray-finned Fishes,eats
+92734,1,Animalia,Animals,eats
+92734,47490,Polychaeta,Polychaete Worms,eats
+92734,121639,Brachyura,True Crabs,eats
+92734,342912,Caridea,Caridean Shrimps,eats
+92734,47314,Anguilliformes,True Eels,eats
+92734,,Odontesthes,,eats
+92734,56661,Callianassa,Sand Prawns,eats
+92734,,Gnathostomata,,eats
+92734,117665,Upogebia,Mudprawns,eats
+92734,200005,Liocarcinus,,eats
+92734,,Invertebrata,,eats
+92734,,Zooplankton,,eats
+92734,,Detritus,,eats
+92734,94086,Ancylopsetta dendritica,,eats
+92734,,,,eats
+92734,1071965,Penaeus notialis,Southern pink shrimp,eats
+92734,,Farfantepenaeus notialis,,eats
+92734,116999,Pandion haliaetus,Osprey,eatenBy
+92734,,Farfantepenaeus notialis,,preysOn

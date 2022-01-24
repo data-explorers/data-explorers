@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+963010,48678,Solidago,goldenrods,eats
+963010,50879,Erigeron,fleabanes and horseweeds,eats
+963010,122970,Helianthus tuberosus,Jerusalem artichoke,eats
+963010,142279,Symphyotrichum pilosum,hairy white oldfield aster,eats
+963010,52152,Phlox,phloxes,eats
+963010,50829,Viola,violets,eats
+963010,51769,Gaillardia,Blanket Flowers,eats
+963010,,Pastinaca sativa,,eats
+963010,54793,Lindera benzoin,northern spicebush,eats
+963010,120945,Ageratum,Ageratums,eats
+963010,85313,Physostegia virginiana,obedient plant,eats
+963010,128131,Cassis,,eats
+963010,51044,Sanguinaria canadensis,bloodroot,pollinates
+963010,130991,Tradescantia virginiana,Virginia spiderwort,pollinates
+963010,,Ulmus americana,,pollinates
+963010,81795,Enemion biternatum,false rue anemone,pollinates
+963010,,http://treatment.plazi.org/id/7CF5D90BA350ADBB07186A8272DB4681,,pollinates
+963010,168041,Rubus deliciosus,Rocky Mountain raspberry,pollinates
+963010,,Chamerion angustifolium,,pollinates
+963010,163256,Geranium caespitosum,pinewoods geranium,pollinates
+963010,,Asclepias hallii,,pollinates
+963010,,Penstemon gracilis,,pollinates
+963010,125488,Rubus idaeus strigosus,American red raspberry,pollinates
+963010,132527,Rosa acicularis,Prickly Wild Rose,pollinates
+963010,56352,Frasera speciosa,monument plant,pollinates
+963010,119793,Pyrus calleryana,Callery pear,pollinatedBy
+963010,52381,Aphididae,Aphids,preysOn

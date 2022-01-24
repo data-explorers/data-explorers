@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52584,47535,Araneidae,Orbweavers,preyedUponBy
+52584,67731,Anax junius,Common Green Darner,preyedUponBy
+52584,,Microstylum morosum,,preyedUponBy
+52584,,Triorla interrupta,,preyedUponBy

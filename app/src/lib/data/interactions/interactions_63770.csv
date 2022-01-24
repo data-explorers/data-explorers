@@ -1,0 +1,277 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+63770,85493,Crustacea,Crustaceans,eats
+63770,153112,Euphausiacea,krill,eats
+63770,1,Animalia,Animals,eats
+63770,121643,Copepoda,Copepods,eats
+63770,63770,Engraulis mordax,Northern Anchovy,eats
+63770,85912,Mysidae,,eats
+63770,48923,Naticidae,Moon Snails,eats
+63770,47490,Polychaeta,Polychaete Worms,eats
+63770,47178,Actinopterygii,Ray-finned Fishes,eats
+63770,47628,Amphipoda,Amphipods,eats
+63770,47115,Mollusca,Molluscs,eats
+63770,,Detritus,,eats
+63770,1076228,Lepocreadium,,eats
+63770,339249,Acanthoparyphium,,eats
+63770,,Probolocoryphe,,eats
+63770,,Stictodora hancocki,,eats
+63770,551557,Digenea,Endoparasitic Flukes,eats
+63770,,Hysterolecitha trilocalis,,eats
+63770,339245,Himasthla,,eats
+63770,854600,Hemiuridae,,eats
+63770,339199,Catatropis johnstoni,,eats
+63770,339200,Himasthla rhigedana,,eats
+63770,,Gynaecotyla,,eats
+63770,339174,Cyathocotylidae,,eats
+63770,121726,Trematoda,Flukes,eats
+63770,,Maritrema,,eats
+63770,339172,Austrobilharzia,,eats
+63770,339183,Euhaplorchis californiensis,,eats
+63770,,Tubulovesicula,,eats
+63770,,Parorchis acanthus,,eats
+63770,339182,Phocitremoides ovale,,eats
+63770,339206,Renicolidae,,eats
+63770,,Fellodistomidae,,eats
+63770,,Pygidiopsoides spindalis,,eats
+63770,,Renicola cerithidicola,,eats
+63770,339176,Renicola buchanani,,eats
+63770,,Mesostephanus appendiculatus,,eats
+63770,339177,Microphallidae,,eats
+63770,,Acanthoparyphium spinulosum,,eats
+63770,,Parvatrema,,eats
+63770,339207,Renicola,,eats
+63770,,Cloacitrema,,eats
+63770,,,,eats
+63770,203660,Thalassionema,,eats
+63770,339072,Prorocentrum,,eats
+63770,,Phytoplankton,,eats
+63770,,Surirella fastuosa,,eats
+63770,,Spongotrochus,,eats
+63770,85507,Calanoida,Calanoid Copepods,eats
+63770,,Coscinodiscus curvatalus,,eats
+63770,,Arca,,eats
+63770,,Dinophysis recurva,,eats
+63770,345020,Thalassiothrix,,eats
+63770,,Pisces,,eats
+63770,,Asterionella,,eats
+63770,326254,Skeletonema,,eats
+63770,,Pyrrophycophyta,,eats
+63770,334072,Ceratium,,eats
+63770,123865,Coscinodiscus,,eats
+63770,,Cenosphaera,,eats
+63770,311291,Nitzschia,,eats
+63770,,Coscinodiscus marginatus,,eats
+63770,203608,Pleurosigma,,eats
+63770,,Dinophysis,,eats
+63770,372658,Biddulphia,,eats
+63770,1276261,Tintinnida,,eats
+63770,320129,Dinophysis tripos,,eats
+63770,203626,Rhizosolenia,,eats
+63770,201748,Eucalanidae,,eats
+63770,341617,Thalassiosira,,eats
+63770,984064,Bythocypris,,eats
+63770,,plank. invertebrates,,eats
+63770,,debris,,eats
+63770,47641,Scorpaena guttata,California Scorpionfish,eatenBy
+63770,47459,Cephalopoda,Cephalopods,eatenBy
+63770,41740,Zalophus californianus,California Sea Lion,eatenBy
+63770,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+63770,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+63770,153112,Euphausiacea,krill,eatenBy
+63770,775805,Pteropoda,Sea Butterflies,eatenBy
+63770,47688,Erodium,stork's-bills,eatenBy
+63770,4531,Brachyramphus marmoratus,Marbled Murrelet,eatenBy
+63770,41708,Phoca vitulina,Harbor Seal,eatenBy
+63770,41566,Megaptera novaeangliae,Humpback Whale,eatenBy
+63770,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+63770,4353,Larus heermanni,Heermann's Gull,eatenBy
+63770,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+63770,144539,Thalasseus maximus,Royal Tern,eatenBy
+63770,4345,Larus occidentalis,Western Gull,eatenBy
+63770,3797,Sula leucogaster,Brown Booby,eatenBy
+63770,144530,Sternula antillarum,Least Tern,eatenBy
+63770,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+63770,4092,Puffinus,Small Shearwaters,eatenBy
+63770,3793,Sula sula,Red-footed Booby,eatenBy
+63770,4324,Pelecanus,Pelicans,eatenBy
+63770,4553,Cerorhinca monocerata,Rhinoceros Auklet,eatenBy
+63770,4343,Larus,Large White-headed Gulls,eatenBy
+63770,3817,Eudyptula minor,Little Penguin,eatenBy
+63770,4457,Sterna forsteri,Forster's Tern,eatenBy
+63770,4519,Uria aalge,Common Murre,eatenBy
+63770,144542,Thalasseus elegans,Elegant Tern,eatenBy
+63770,63770,Engraulis mordax,Northern Anchovy,eatenBy
+63770,51550,Seriola lalandi,Yellowtail Kingfish,eatenBy
+63770,64474,Sebastes miniatus,Vermilion Rockfish,eatenBy
+63770,,Genyonemus lineatus,,eatenBy
+63770,47638,Scorpaenichthys marmoratus,Cabezon,eatenBy
+63770,123962,Dosidicus gigas,Humboldt Squid,eatenBy
+63770,105599,Merluccius productus,Pacific Hake,eatenBy
+63770,49168,Caulolatilus princeps,Ocean Whitefish,eatenBy
+63770,41739,Zalophus japonicus,Japanese Sea Lion,eatenBy
+63770,41738,Zalophus wollebaeki,Galápagos Sea Lion,eatenBy
+63770,,Oceanodroma markhami,,eatenBy
+63770,4069,Oceanodroma homochroa,Ashy Storm-Petrel,eatenBy
+63770,,Puffinus griseus,,eatenBy
+63770,4064,Oceanodroma tethys,Wedge-rumped Storm-Petrel,eatenBy
+63770,4066,Oceanodroma melania,Black Storm-Petrel,eatenBy
+63770,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+63770,4302,Phalacrocorax harrisi,Flightless Cormorant,eatenBy
+63770,,Pelecanus conspicillatus,,eatenBy
+63770,,Pelecanus crispus,,eatenBy
+63770,,Larus fuliginosus,,eatenBy
+63770,4371,Larus belcheri,Belcher's Gull,eatenBy
+63770,56768,Sula granti,Nazca Booby,eatenBy
+63770,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+63770,4292,Phalacrocorax punctatus,Spotted Shag,eatenBy
+63770,72593,Calonectris edwardsii,Cape Verde Shearwater,eatenBy
+63770,4113,Puffinus heinrothi,Heinroth's Shearwater,eatenBy
+63770,4356,Larus canus,Mew Gull,eatenBy
+63770,,Phalacrocorax niger,,eatenBy
+63770,4311,Phalacrocorax fuscescens,Black-faced Cormorant,eatenBy
+63770,144529,Sternula albifrons,Little Tern,eatenBy
+63770,201450,Puffinus lherminieri,Audubon's Shearwater,eatenBy
+63770,4293,Phalacrocorax capillatus,Japanese Cormorant,eatenBy
+63770,204553,Oceanodroma castro,Band-rumped Storm-Petrel,eatenBy
+63770,4390,Larus pacificus,Pacific Gull,eatenBy
+63770,4107,Puffinus auricularis,Townsend's Shearwater,eatenBy
+63770,,Phalacrocorax gaimardi,,eatenBy
+63770,3815,Spheniscus mendiculus,Galápagos Penguin,eatenBy
+63770,4461,Sterna acuticauda,Black-bellied Tern,eatenBy
+63770,,Sternula lorata,,eatenBy
+63770,144543,Thalasseus bengalensis,Lesser Crested Tern,eatenBy
+63770,4454,Sterna hirundinacea,South American Tern,eatenBy
+63770,4301,Phalacrocorax ranfurlyi,Bounty Islands Shag,eatenBy
+63770,4535,Anous stolidus,Brown Noddy,eatenBy
+63770,3788,Sula dactylatra,Masked Booby,eatenBy
+63770,4336,Pelecanus philippensis,Spot-billed Pelican,eatenBy
+63770,4286,Phalacrocorax chalconotus,Stewart Island Shag,eatenBy
+63770,,Larus atricilla,,eatenBy
+63770,979929,Puffinus assimilis,Little Shearwater,eatenBy
+63770,4425,Sterna trudeaui,Snowy-crowned Tern,eatenBy
+63770,,Phalacrocorax albiventer,,eatenBy
+63770,4075,Oceanodroma monorhis,Swinhoe's Storm-Petrel,eatenBy
+63770,4276,Phalacrocorax onslowi,Chatham Islands Shag,eatenBy
+63770,,Larus brunnicephalus,,eatenBy
+63770,,Thalasseus eurygnatha,,eatenBy
+63770,,Thalassarche carteri,,eatenBy
+63770,,Phalacrocorax sulcirostris,,eatenBy
+63770,,Larus saundersi,,eatenBy
+63770,4428,Sterna aurantia,River Tern,eatenBy
+63770,4453,Sterna sumatrana,Black-naped Tern,eatenBy
+63770,4127,Pelecanoides garnotii,Peruvian Diving-Petrel,eatenBy
+63770,3786,Sula nebouxii,Blue-footed Booby,eatenBy
+63770,4294,Phalacrocorax featherstoni,Pitt Island Shag,eatenBy
+63770,4172,Fregetta tropica,Black-bellied Storm-Petrel,eatenBy
+63770,4287,Phalacrocorax capensis,Cape Cormorant,eatenBy
+63770,,Pelecanus thagus,,eatenBy
+63770,4176,Nesofregetta fuliginosa,Polynesian Storm-Petrel,eatenBy
+63770,144531,Sternula superciliaris,Yellow-billed Tern,eatenBy
+63770,,Phalacrocorax coronatus,,eatenBy
+63770,4264,Phalacrocorax fuscicollis,Indian Cormorant,eatenBy
+63770,3796,Sula variegata,Peruvian Booby,eatenBy
+63770,4072,Oceanodroma matsudairae,Matsudaira's Storm-Petrel,eatenBy
+63770,,Puffinus tenuirostris,,eatenBy
+63770,47490,Polychaeta,Polychaete Worms,preysOn
+63770,50588,Veneridae,Venus Clams,preysOn
+63770,348288,Foraminifera,Foraminifers,preysOn
+63770,47584,Bivalvia,Bivalves,preysOn
+63770,68764,Ostracoda,Seed Shrimp,preysOn
+63770,85514,Cyclopoida,Cyclopoid Copepods,preysOn
+63770,63770,Engraulis mordax,Northern Anchovy,preysOn
+63770,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+63770,,Ctenodrilidae,,preysOn
+63770,123639,Spionidae,,preysOn
+63770,337291,Cirriformia spirabrancha,,preysOn
+63770,179828,Laevicardium substriatum,Pacific Eggcockle,preysOn
+63770,339152,Cryptomya californica,California Softshell,preysOn
+63770,328432,Chione californiensis,California Venus,preysOn
+63770,508883,Tagelus subteres,Lesser Tagelus,preysOn
+63770,47488,Cirratulidae,,preysOn
+63770,,Protothaca staminea,,preysOn
+63770,479426,Chionista fluctifraga,Smooth Venus,preysOn
+63770,328416,Tagelus affinis,Neighbor Tagelus,preysOn
+63770,81608,Geukensia demissa,Atlantic Ribbed Mussel,preysOn
+63770,81789,Neanthes,,preysOn
+63770,4345,Larus occidentalis,Western Gull,preyedUponBy
+63770,144537,Hydroprogne caspia,Caspian Tern,preyedUponBy
+63770,4265,Phalacrocorax auritus,Double-crested Cormorant,preyedUponBy
+63770,4328,Pelecanus occidentalis,Brown Pelican,preyedUponBy
+63770,41740,Zalophus californianus,California Sea Lion,preyedUponBy
+63770,4553,Cerorhinca monocerata,Rhinoceros Auklet,preyedUponBy
+63770,114122,Thunnus alalunga,Albacore,preyedUponBy
+63770,4457,Sterna forsteri,Forster's Tern,preyedUponBy
+63770,41440,Phocoena phocoena,Harbour Porpoise,preyedUponBy
+63770,41755,Eumetopias jubatus,Steller Sea Lion,preyedUponBy
+63770,41510,Lagenorhynchus obliquidens,Pacific White-sided Dolphin,preyedUponBy
+63770,144530,Sternula antillarum,Least Tern,preyedUponBy
+63770,41708,Phoca vitulina,Harbor Seal,preyedUponBy
+63770,4092,Puffinus,Small Shearwaters,preyedUponBy
+63770,41550,Balaenoptera acutorostrata,Minke Whale,preyedUponBy
+63770,144542,Thalasseus elegans,Elegant Tern,preyedUponBy
+63770,69677,Isurus oxyrinchus,Shortfin Mako,preyedUponBy
+63770,4531,Brachyramphus marmoratus,Marbled Murrelet,preyedUponBy
+63770,41728,Mirounga angustirostris,Northern Elephant Seal,preyedUponBy
+63770,4519,Uria aalge,Common Murre,preyedUponBy
+63770,4277,Phalacrocorax penicillatus,Brandt's Cormorant,preyedUponBy
+63770,4353,Larus heermanni,Heermann's Gull,preyedUponBy
+63770,41446,Phocoenoides dalli,Dall's Porpoise,preyedUponBy
+63770,41566,Megaptera novaeangliae,Humpback Whale,preyedUponBy
+63770,4385,Larus californicus,California Gull,preyedUponBy
+63770,47459,Cephalopoda,Cephalopods,preyedUponBy
+63770,47688,Erodium,stork's-bills,preyedUponBy
+63770,4981,Nycticorax nycticorax,Black-crowned Night-Heron,preyedUponBy
+63770,116999,Pandion haliaetus,Osprey,preyedUponBy
+63770,144455,Ardea alba,Great Egret,preyedUponBy
+63770,4496,Rynchops niger,Black Skimmer,preyedUponBy
+63770,4940,Egretta thula,Snowy Egret,preyedUponBy
+63770,63770,Engraulis mordax,Northern Anchovy,preyedUponBy
+63770,51491,Myliobatis californica,Bat Ray,preyedUponBy
+63770,106258,Mustelus henlei,Brown Smooth-hound,preyedUponBy
+63770,108561,Paralichthys californicus,California Halibut,preyedUponBy
+63770,41757,Callorhinus ursinus,Northern Fur Seal,preyedUponBy
+63770,201284,Synthliboramphus hypoleucus,Guadalupe Murrelet,preyedUponBy
+63770,52539,Ophiodon elongatus,Lingcod,preyedUponBy
+63770,105599,Merluccius productus,Pacific Hake,preyedUponBy
+63770,188560,Thunnus orientalis,Pacific Bluefin Tuna,preyedUponBy
+63770,101176,Galeorhinus galeus,School Shark,preyedUponBy
+63770,54191,Oncorhynchus tshawytscha,Chinook Salmon,preyedUponBy
+63770,53692,Oncorhynchus kisutch,Coho Salmon,preyedUponBy
+63770,64478,Sebastes entomelas,Widow Rockfish,preyedUponBy
+63770,110361,Prionace glauca,Blue Shark,preyedUponBy
+63770,93696,Alopias vulpinus,Thresher Shark,preyedUponBy
+63770,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preyedUponBy
+63770,51353,Anoplopoma fimbria,Sablefish,preyedUponBy
+63770,123962,Dosidicus gigas,Humboldt Squid,preyedUponBy
+63770,188252,Sarda chiliensis,Eastern Pacific Bonito,preyedUponBy
+63770,68075,Oncorhynchus clarkii,Cutthroat Trout,preyedUponBy
+63770,47760,Sebastes melanops,Black rockfish,preyedUponBy
+63770,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy
+63770,114274,Trachurus symmetricus,Pacific Jack Mackerel,preyedUponBy
+63770,,Raja rhina,,preyedUponBy
+63770,68050,Alopias pelagicus,Pelagic Thresher Shark,preyedUponBy
+63770,,Puffinus creatopus,,preyedUponBy
+63770,,Puffinus griseus,,preyedUponBy
+63770,4356,Larus canus,Mew Gull,preyedUponBy
+63770,144502,Chroicocephalus philadelphia,Bonaparte's Gull,preyedUponBy
+63770,,Puffinus tenuirostris,,preyedUponBy
+63770,4399,Larus glaucescens,Glaucous-winged Gull,preyedUponBy
+63770,4623,Gavia arctica,Arctic Loon,preyedUponBy
+63770,4494,Rissa tridactyla,Black-legged Kittiwake,preyedUponBy
+63770,,Genyonemus lineatus,,preyedUponBy
+63770,49168,Caulolatilus princeps,Ocean Whitefish,preyedUponBy
+63770,64474,Sebastes miniatus,Vermilion Rockfish,preyedUponBy
+63770,106254,Mustelus californicus,Gray Smooth-hound,preyedUponBy
+63770,106261,Mustelus lunulatus,Sicklefin Smooth-hound,preyedUponBy
+63770,6996,Mergus serrator,Red-breasted Merganser,preyedUponBy
+63770,4205,Podiceps nigricollis,Eared Grebe,preyedUponBy
+63770,5034,Botaurus lentiginosus,American Bittern,preyedUponBy
+63770,,Ardea herodius,,preyedUponBy
+63770,4364,Larus delawarensis,Ring-billed Gull,preyedUponBy
+63770,4235,Aechmophorus occidentalis,Western Grebe,preyedUponBy
+63770,4938,Egretta tricolor,Tricolored Heron,preyedUponBy
+63770,4948,Egretta rufescens,Reddish Egret,preyedUponBy
+63770,,Sterna caspia,,preyedUponBy
+63770,,no name,,preyedUponBy
+63770,52297,Triakis semifasciata,Leopard Shark,preyedUponBy
+63770,115167,Xiphias gladius,Swordfish,preyedUponBy

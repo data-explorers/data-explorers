@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53294,133207,Liorhyssus hyalinus,Hyaline Grass Bug,eatenBy
+53294,47219,Apis mellifera,Western Honey Bee,eatenBy
+53294,52775,Bombus,Bumble Bees,eatenBy
+53294,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+53294,1409,Callipepla californica,California Quail,eatenBy
+53294,,Tyria jacobaeae,,eatenBy
+53294,41641,Ursus arctos,Brown Bear,eatenBy
+53294,,Ensina sonchi,,eatenBy
+53294,,Trupanea amoena,,eatenBy
+53294,,Acanthiophilus helianthi,,eatenBy
+53294,,Phytoliriomyza arctica,,eatenBy
+53294,,Liriomyza sonchi,,eatenBy
+53294,,Cystiphora sonchi,,eatenBy
+53294,,Uroleucon sonchi,,eatenBy
+53294,,Phytomyza syngenesiae,,eatenBy
+53294,,Ortilia ithra,,eatenBy
+53294,,Miyagia pseudosphaeria,,eatenBy
+53294,,Aceria thalgi,,eatenBy
+53294,,Hyperomyzus,,eatenBy
+53294,,Phyciodes mylitta,,eatenBy
+53294,,Carduelis carduelis,,eatenBy
+53294,558634,Linaria cannabina,Eurasian Linnet,eatenBy
+53294,145360,Chloris chloris,European Greenfinch,eatenBy
+53294,47822,Diptera,Flies,pollinatedBy

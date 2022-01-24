@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+71127,48548,Vanessa cardui,Painted Lady,eatenBy
+71127,48549,Vanessa virginiensis,American Lady,eatenBy
+71127,53843,Brephidium exilis,Western Pygmy-Blue,eatenBy
+71127,222031,Hypochlora alba,Cudweed Grasshopper,eatenBy
+71127,,Phaneta artemisiana,,eatenBy
+71127,,Phaneta infimbriana,,eatenBy
+71127,,Macrosiphoniella glabra,,eatenBy
+71127,,Copestylum caudatum,,eatenBy
+71127,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+71127,,Wind,,pollinatedBy

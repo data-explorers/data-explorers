@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51056,,Clepsis melaleucana,,eatenBy
+51056,,Clepsis senecionana,,eatenBy
+51056,,Phymatocera aterrima,,eatenBy
+51056,,Parallelomma vittatum,,eatenBy
+51056,55761,Lilioceris lilii,Lily Leaf Beetle,eatenBy
+51056,1031299,Phyllosticta convallariae,,eatenBy
+51056,,Lilioceris merdigera,,eatenBy
+51056,52775,Bombus,Bumble Bees,pollinatedBy
+51056,57678,Lasioglossum,,pollinatedBy
+51056,,Bombus beaticola ,,pollinatedBy
+51056,,Bombus consobrinus ,,pollinatedBy
+51056,,,,pollinatedBy
+51056,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

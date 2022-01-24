@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+77261,57674,Osmia,Mason Bees,pollinatedBy
+77261,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+77261,53648,Nomada,Nomad Bees,pollinatedBy
+77261,,Pieris brassicae,,pollinatedBy
+77261,,Andrena humilis,,pollinatedBy
+77261,,Andrena,,pollinatedBy
+77261,,Myopa,,pollinatedBy
+77261,,Eucera,,pollinatedBy
+77261,,Bombylius fuliginosus ,,pollinatedBy
+77261,,http://treatment.plazi.org/id/588934C5A3D81B78F71DEEB7F083B91E,,pollinatedBy
+77261,,Metasyrphus corollae,,pollinatedBy
+77261,,Usia forcipata ,,pollinatedBy
+77261,,Bombylius undatus ,,pollinatedBy

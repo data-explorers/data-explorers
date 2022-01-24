@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41880,39782,Trachemys scripta,Common Slider,eats
+41880,473,Fulica americana,American Coot,eats
+41880,39682,Chelydra serpentina,Common Snapping Turtle,eats
+41880,26575,Diadophis punctatus,ring-necked snake,eats
+41880,2548,Megaceryle alcyon,Belted Kingfisher,eats
+41880,7089,Branta canadensis,Canada Goose,eats
+41880,48599,Phytolacca americana,American pokeweed,eats
+41880,59035,Solanum americanum,American black nightshade,eats
+41880,54834,Prunus serotina,black cherry,eats
+41880,505478,Gallus gallus domesticus,Domestic Chicken,eats
+41880,28423,Thamnophis butleri,Butler's Garter Snake,eats
+41880,,Dendroica petechia,,eats
+41880,,Anas americana,,eats
+41880,,Spermophilus lateralis,,eats
+41880,6948,Anas fulvigula,Mottled Duck,eats
+41880,24267,Pseudacris triseriata,Western Chorus Frog,eats
+41880,515419,Lampropeltis triangulum,Eastern Milksnake,eats
+41880,,Clethrionomys californicus,,eats
+41880,,Carpodacus mexicanus,,eats
+41880,27186,Plethodon cinereus,Eastern Red-backed Salamander,eats
+41880,,Peromyscus gossypinus,,eats
+41880,73788,Plestiodon fasciatus,Common Five-lined Skink,eats
+41880,,Nyssa sylvatica,,eats
+41880,61964,Prunus avium,wild cherry,eats
+41880,,Malus pumila,,eats
+41880,132855,Rubus pubescens,dwarf raspberry,eats
+41880,50897,Asimina triloba,common pawpaw,eats
+41880,,http://treatment.plazi.org/id/FB7A09EEF8EC3B9F3529A4A1CA3EC7F1,,eats
+41880,41976,Lynx rufus,Bobcat,eatenBy
+41880,42069,Vulpes vulpes,Red Fox,eatenBy
+41880,20044,Bubo virginianus,Great Horned Owl,eatenBy
+41880,4756,Cathartes aura,Turkey Vulture,eatenBy
+41880,61355,Vespula pensylvanica,Western Yellowjacket,eatenBy
+41880,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+41880,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+41880,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+41880,42048,Canis lupus,Gray Wolf,eatenBy
+41880,,Martes pennanti,,eatenBy
+41880,42066,Vulpes velox,Swift Fox,eatenBy
+41880,,Aquila chrysaetos,,eatenBy
+41880,4765,Coragyps atratus,Black Vulture,eatenBy
+41880,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preysOn

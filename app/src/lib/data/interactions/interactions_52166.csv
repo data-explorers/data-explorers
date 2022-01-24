@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52166,49796,Stomatopoda,Mantis Shrimps,eats
+52166,121639,Brachyura,True Crabs,eats
+52166,342912,Caridea,Caridean Shrimps,eats
+52166,47628,Amphipoda,Amphipods,eats
+52166,47178,Actinopterygii,Ray-finned Fishes,eats
+52166,85493,Crustacea,Crustaceans,eats
+52166,61372,Percnon gibbesi,Nimble Spray Crab,eats
+52166,1,Animalia,Animals,eats
+52166,113984,Thalassoma noronhanum,Noronha Wrasse,eats
+52166,102074,Halichoeres poeyi,Blackear Wrasse,eats
+52166,131500,Gnatholepis thompsoni,Goldspot Goby,eats
+52166,128170,Elacatinus evelynae,Sharknose Goby,eats
+52166,62592,Coryphopterus glaucofraenum,Bridled Goby,eats
+52166,49491,Thalassoma bifasciatum,Caribbean Bluehead Wrasse,eats
+52166,51026,Petrolisthes galathinus,banded porcelain crab,eats
+52166,121386,Lysmata,,eats
+52166,260422,Pilumnus pannosus,Beaded Hairy Crab,eats
+52166,295331,Pilumnus sayi,Spineback Hairy Crab,eats
+52166,260274,Synalpheus fritzmuelleri,,eats
+52166,,Pseudomedaeus,,eats
+52166,56661,Callianassa,Sand Prawns,eats
+52166,,Not,,eats
+52166,,Gnathostomata,,eats
+52166,,Pseudosquilla ciliata,,eats
+52166,,Priolepis hipoliti,,eats
+52166,,,,eats
+52166,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+52166,112960,Sphyrna tiburo,Bonnethead,eatenBy
+52166,111750,Rhizoprionodon porosus,Caribbean Sharpnose Shark,eatenBy
+52166,106650,Negaprion brevirostris,Lemon Shark,eatenBy
+52166,49297,Aetobatus narinari,Spotted Eagle Ray,eatenBy
+52166,96745,Carcharhinus acronotus,Blacknose Shark,eatenBy
+52166,49964,Ginglymostoma cirratum,Nurse Shark,eatenBy
+52166,188767,Carcharhinus perezii,Caribbean Reef Shark,eatenBy
+52166,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+52166,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+52166,121639,Brachyura,True Crabs,preysOn
+52166,49796,Stomatopoda,Mantis Shrimps,preysOn
+52166,342912,Caridea,Caridean Shrimps,preysOn
+52166,49491,Thalassoma bifasciatum,Caribbean Bluehead Wrasse,preysOn
+52166,128170,Elacatinus evelynae,Sharknose Goby,preysOn
+52166,131500,Gnatholepis thompsoni,Goldspot Goby,preysOn
+52166,102074,Halichoeres poeyi,Blackear Wrasse,preysOn
+52166,62592,Coryphopterus glaucofraenum,Bridled Goby,preysOn
+52166,,Priolepis hipoliti,,preysOn
+52166,49297,Aetobatus narinari,Spotted Eagle Ray,preyedUponBy
+52166,96745,Carcharhinus acronotus,Blacknose Shark,preyedUponBy
+52166,52299,Galeocerdo cuvier,Tiger Shark,preyedUponBy
+52166,49964,Ginglymostoma cirratum,Nurse Shark,preyedUponBy
+52166,106650,Negaprion brevirostris,Lemon Shark,preyedUponBy
+52166,111750,Rhizoprionodon porosus,Caribbean Sharpnose Shark,preyedUponBy
+52166,112960,Sphyrna tiburo,Bonnethead,preyedUponBy
+52166,49961,Mustelus canis,Dusky Smooth-hound,preyedUponBy
+52166,96754,Carcharhinus falciformis,Silky Shark,preyedUponBy
+52166,188767,Carcharhinus perezii,Caribbean Reef Shark,preyedUponBy

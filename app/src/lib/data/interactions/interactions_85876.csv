@@ -1,0 +1,12 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85876,4956,Ardea herodias,Great Blue Heron,eatenBy
+85876,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+85876,,Tigrisoma mexicanum,,eatenBy
+85876,4981,Nycticorax nycticorax,Black-crowned Night-Heron,preyedUponBy
+85876,41845,Pteronura brasiliensis,Giant Otter,preyedUponBy
+85876,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+85876,4937,Egretta caerulea,Little Blue Heron,preyedUponBy
+85876,29975,Helicops leopardinus,Leopard Keelback,preyedUponBy
+85876,29972,Helicops polylepis,Norman's Keelback,preyedUponBy
+85876,29976,Helicops angulatus,Mountain Keelback,preyedUponBy
+85876,29893,Hydrops triangularis,Triangle Water Snake,preyedUponBy

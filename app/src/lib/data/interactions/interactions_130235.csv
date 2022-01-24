@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+130235,52966,Phacellophora camtschatica,Egg-yolk Jelly,eats
+130235,85493,Crustacea,Crustaceans,eats
+130235,47534,Cnidaria,Cnidarians,eats
+130235,69839,Chrysaora colorata,Purple-striped Sea Nettle,eats
+130235,48479,Chrysaora fuscescens,Pacific Sea Nettle,eats
+130235,,Loxorhynchus srispatus,,eats
+130235,49071,Metridium senile,Plumose Anemone,eats
+130235,,Medusozoa,,eats
+130235,325995,Aequorea victoria,Victoria's Crystal Jelly,eatenBy
+130235,,Cancer gracilis,,eatenBy
+130235,69839,Chrysaora colorata,Purple-striped Sea Nettle,preysOn
+130235,52966,Phacellophora camtschatica,Egg-yolk Jelly,preysOn
+130235,48479,Chrysaora fuscescens,Pacific Sea Nettle,preysOn
+130235,49071,Metridium senile,Plumose Anemone,preysOn

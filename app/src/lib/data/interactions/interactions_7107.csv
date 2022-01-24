@@ -1,0 +1,64 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7107,47162,Poales,"grasses, sedges, cattails, and allies",eats
+7107,47124,Magnoliopsida,dicots,eats
+7107,1,Animalia,Animals,eats
+7107,211194,Tracheophyta,vascular plants,eats
+7107,60301,Panicum,panicgrasses,eats
+7107,48972,Polygonum,knotweeds,eats
+7107,75867,Brasenia schreberi,Watershield,eats
+7107,59110,Potamogeton,Pondweed,eats
+7107,50339,Ludwigia,Primrose-willows,eats
+7107,60304,Paspalum,Paspalum,eats
+7107,51119,Nymphaea odorata,American white waterlily,eats
+7107,47851,Quercus,oaks,eats
+7107,47491,Annelida,Segmented Worms,eats
+7107,47727,Acer,maples,eats
+7107,47792,Odonata,Dragonflies and Damselflies,eats
+7107,47118,Araneae,Spiders,eats
+7107,47822,Diptera,Flies,eats
+7107,47186,Decapoda,Decapods,eats
+7107,53549,Ulmus,elms,eats
+7107,48147,Isopoda,Isopods,eats
+7107,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7107,47208,Coleoptera,Beetles,eats
+7107,47115,Mollusca,Molluscs,eats
+7107,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+7107,47158,Insecta,Insects,eats
+7107,47157,Lepidoptera,Butterflies and Moths,eats
+7107,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7107,47120,Arthropoda,Arthropods,eats
+7107,47178,Actinopterygii,Ray-finned Fishes,eats
+7107,,Paspalum urvillei,,eats
+7107,,Leersia oryzoides,,eats
+7107,128854,Rubus cuneifolius,sand blackberry,eats
+7107,,Echinochloa walteri,,eats
+7107,,Boehmeria,,eats
+7107,,Triadenum walteri,,eats
+7107,82529,Vitis rotundifolia,muscadine,eats
+7107,,Sagittaria graminea,,eats
+7107,,Scleria reticularis,,eats
+7107,,Bidens frondosa,,eats
+7107,141203,Aneilema,,eats
+7107,,Taxodium distichum,,eats
+7107,,Spirodela polyrrhiza,,eats
+7107,,Planera aquatica,,eats
+7107,,Liquidambar styraciflua,,eats
+7107,,Sassafras albidum,,eats
+7107,,Lemna valdiviana,,eats
+7107,130905,Vitis cinerea,graybark grape,eats
+7107,,Forestiera acuminata,,eats
+7107,,Glycine max,,eats
+7107,,Cephalanthus occidentalis,,eats
+7107,,Viburnum prunifolium,,eats
+7107,41801,Mustela,,eatenBy
+7107,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+7107,42069,Vulpes vulpes,Red Fox,eatenBy
+7107,41663,Procyon lotor,Common Raccoon,eatenBy
+7107,20044,Bubo virginianus,Great Horned Owl,eatenBy
+7107,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+7107,26159,Alligator mississippiensis,American Alligator,eatenBy
+7107,,Elaphe obsoleta,,eatenBy
+7107,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+7107,60340,Lithobates,American Water Frogs,preysOn
+7107,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+7107,43584,Homo sapiens,Human,preyedUponBy

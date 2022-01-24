@@ -1,0 +1,60 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48894,53816,Tenebrionidae,Darkling Beetles,eats
+48894,69114,Pogonomyrmex,Harvester Ants,eats
+48894,47822,Diptera,Flies,eats
+48894,119301,Cercidium,,eats
+48894,,Gerstaeckeria,,eats
+48894,42051,Canis latrans,Coyote,eatenBy
+48894,4665,Falco sparverius,American Kestrel,eatenBy
+48894,547193,Masticophis flagellum,Coachwhip,eatenBy
+48894,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+48894,20044,Bubo virginianus,Great Horned Owl,eatenBy
+48894,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+48894,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+48894,8010,Corvus corax,Common Raven,eatenBy
+48894,20445,Tyto alba,Barn Owl,eatenBy
+48894,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+48894,,Herpestes javanicus,,eatenBy
+48894,41911,Cynictis penicillata,Yellow Mongoose,eatenBy
+48894,16842,Myiozetetes similis,Social Flycatcher,eatenBy
+48894,106405,Mystus montanus,Wynaad Mystus,eatenBy
+48894,,Coracias caudatus,,eatenBy
+48894,19998,Athene noctua,Little Owl,eatenBy
+48894,,Onychomys,,eatenBy
+48894,,Geococcyx velox,,eatenBy
+48894,,Mephitinae,,eatenBy
+48894,19959,Strix occidentalis,Spotted Owl,eatenBy
+48894,5017,Bubulcus ibis,Cattle Egret,eatenBy
+48894,72952,Icterus portoricensis,Puerto Rican Oriole,eatenBy
+48894,19754,Megascops nudipes,Puerto Rican Screech-Owl,eatenBy
+48894,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+48894,8319,Pica nuttalli,Yellow-billed Magpie,eatenBy
+48894,19975,Athene cunicularia,Burrowing Owl,eatenBy
+48894,4644,Falco mexicanus,Prairie Falcon,eatenBy
+48894,20315,Asio flammeus,Short-eared Owl,eatenBy
+48894,47383,Latrodectus geometricus,Brown Widow,preyedUponBy
+48894,1250059,Philodryas agassizii,Scorpion Snake,preyedUponBy
+48894,29985,Gyalopion canum,Chihuahuan Hook-nosed Snake,preyedUponBy
+48894,28577,Stenorrhina freminvillei,Blood Snake,preyedUponBy
+48894,27289,Chionactis occipitalis,Mohave Shovel-Nosed Snake,preyedUponBy
+48894,29832,Amphiesma stolatum,Buff Striped Keelback,preyedUponBy
+48894,,Sonora michoacanensis,,preyedUponBy
+48894,30307,Eirenis coronella,Crowned Dwarf Racer,preyedUponBy
+48894,26920,Conopsis nasus,Largenose Earth Snake,preyedUponBy
+48894,28649,Sonora semiannulata,Ground Snake,preyedUponBy
+48894,27299,Chilomeniscus savagei,Savage's Sand Snake,preyedUponBy
+48894,28493,Tantilla nigriceps,Plains Black-headed Snake,preyedUponBy
+48894,64079,Stenorrhina degenhardtii,Degenhardt's Scorpion-eating Snake,preyedUponBy
+48894,,Elapsoidea guentherii,,preyedUponBy
+48894,28930,Pseudoficimia frontalis,False Ficimia,preyedUponBy
+48894,31079,Echis carinatus,Saw-scaled Viper,preyedUponBy
+48894,27282,Chionactis palarostris,Sonoran Shovel-nosed Snake,preyedUponBy
+48894,28645,Sonora aemula,Filetail Ground Snake,preyedUponBy
+48894,74717,Myotis punicus,Felten's myotis,preyedUponBy
+48894,40449,Otonycteris hemprichii,Desert Long-eared Bat,preyedUponBy
+48894,207688,Nyctophilus corbeni,Corben's Long-eared Bat,preyedUponBy
+48894,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preyedUponBy
+48894,,Antrozous pallidus,,preyedUponBy
+48894,,Chalarodon madagascariensis,,preyedUponBy
+48894,126838,Eciton burchellii,,preyedUponBy
+48894,19798,Megascops trichopsis,Whiskered Screech-Owl,preyedUponBy

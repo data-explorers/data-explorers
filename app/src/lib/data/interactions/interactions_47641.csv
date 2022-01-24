@@ -1,0 +1,78 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47641,47459,Cephalopoda,Cephalopods,eats
+47641,63770,Engraulis mordax,Northern Anchovy,eats
+47641,47456,Octopus,,eats
+47641,61371,Panulirus interruptus,California Spiny Lobster,eats
+47641,49723,Pugettia producta,Northern Kelp Crab,eats
+47641,47827,Cancer,,eats
+47641,47645,Cottidae,Typical Sculpins,eats
+47641,47458,Octopoda,Octopuses,eats
+47641,85641,Bothidae,Lefteye Flounders,eats
+47641,54539,Syngnathus,Pipe-fishes,eats
+47641,,Genyonemus lineatus,,eats
+47641,114274,Trachurus symmetricus,Pacific Jack Mackerel,eats
+47641,117542,Citharichthys stigmaeus,speckled sanddab,eats
+47641,98855,Cymatogaster aggregata,Shiner Surfperch,eats
+47641,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,eats
+47641,64455,Sebastes carnatus,Gopher Rockfish,eats
+47641,120957,Loxorhynchus grandis,Sheep Crab,eats
+47641,117561,Phanerodon furcatus,White surfperch,eats
+47641,88143,Embiotoca,,eats
+47641,49168,Caulolatilus princeps,Ocean Whitefish,eats
+47641,143757,Alloclinus holderi,island kelpfish,eats
+47641,88489,Gibbonsia,Northeastern Pacific Kelpfishes,eats
+47641,117568,Aulorhynchus flavidus,tubesnout,eats
+47641,223141,Leiocottus hirundo,lavender sculpin,eats
+47641,48452,Oxylebius pictus,Painted greenling,eats
+47641,53693,Hypsypops rubicundus,Garibaldi,eats
+47641,97759,Chromis punctipinnis,Blacksmith Chromis,eats
+47641,102081,Halichoeres semicinctus,Rock Wrasse,eats
+47641,63685,Hyperprosopon argenteum,Walleye Surfperch,eats
+47641,104964,Lythrypnus dalli,blue-banded Goby,eats
+47641,117554,Embiotoca jacksoni,Black surfperch,eats
+47641,317267,Orthonopias triacis,Snubnose Sculpin,eats
+47641,117555,Embiotoca lateralis,Striped surfperch,eats
+47641,52552,Oxyjulis californica,senorita,eats
+47641,132521,Rhinogobiops nicholsii,Blackeye goby,eats
+47641,117558,Hypsurus caryi,Rainbow Seaperch,eats
+47641,317244,Neoclinus blanchardi,Sarcastic Fringehead,eats
+47641,117550,Gibbonsia montereyensis,Crevice Kelpfish,eats
+47641,117553,Brachyistius frenatus,Kelp Surfperch,eats
+47641,47458,Octopoda,Octopuses,eatenBy
+47641,108561,Paralichthys californicus,California Halibut,eatenBy
+47641,61371,Panulirus interruptus,California Spiny Lobster,preysOn
+47641,47458,Octopoda,Octopuses,preysOn
+47641,49723,Pugettia producta,Northern Kelp Crab,preysOn
+47641,47827,Cancer,,preysOn
+47641,54539,Syngnathus,Pipe-fishes,preysOn
+47641,47645,Cottidae,Typical Sculpins,preysOn
+47641,88143,Embiotoca,,preysOn
+47641,143757,Alloclinus holderi,island kelpfish,preysOn
+47641,117542,Citharichthys stigmaeus,speckled sanddab,preysOn
+47641,117555,Embiotoca lateralis,Striped surfperch,preysOn
+47641,102081,Halichoeres semicinctus,Rock Wrasse,preysOn
+47641,64455,Sebastes carnatus,Gopher Rockfish,preysOn
+47641,317244,Neoclinus blanchardi,Sarcastic Fringehead,preysOn
+47641,104964,Lythrypnus dalli,blue-banded Goby,preysOn
+47641,52552,Oxyjulis californica,senorita,preysOn
+47641,48452,Oxylebius pictus,Painted greenling,preysOn
+47641,64449,Sebastes chrysomelas,Black-and-Yellow Rockfish,preysOn
+47641,,Pleuronectiformes,,preysOn
+47641,117568,Aulorhynchus flavidus,tubesnout,preysOn
+47641,117550,Gibbonsia montereyensis,Crevice Kelpfish,preysOn
+47641,63685,Hyperprosopon argenteum,Walleye Surfperch,preysOn
+47641,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+47641,88489,Gibbonsia,Northeastern Pacific Kelpfishes,preysOn
+47641,132521,Rhinogobiops nicholsii,Blackeye goby,preysOn
+47641,117558,Hypsurus caryi,Rainbow Seaperch,preysOn
+47641,97759,Chromis punctipinnis,Blacksmith Chromis,preysOn
+47641,53693,Hypsypops rubicundus,Garibaldi,preysOn
+47641,49168,Caulolatilus princeps,Ocean Whitefish,preysOn
+47641,117553,Brachyistius frenatus,Kelp Surfperch,preysOn
+47641,120957,Loxorhynchus grandis,Sheep Crab,preysOn
+47641,317267,Orthonopias triacis,Snubnose Sculpin,preysOn
+47641,117554,Embiotoca jacksoni,Black surfperch,preysOn
+47641,117561,Phanerodon furcatus,White surfperch,preysOn
+47641,223141,Leiocottus hirundo,lavender sculpin,preysOn
+47641,47458,Octopoda,Octopuses,preyedUponBy
+47641,108561,Paralichthys californicus,California Halibut,preyedUponBy

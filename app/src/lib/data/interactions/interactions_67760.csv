@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67760,47434,Poaceae,grasses,eats
+67760,125381,Asclepias incarnata,swamp milkweed,eats
+67760,53453,Salix,Willows,eats
+67760,47911,Asclepias syriaca,common milkweed,eats
+67760,48627,Echinacea purpurea,purple coneflower,eats
+67760,53438,Rosa,roses,eats
+67760,119936,Vitis riparia,riverbank grape,eats
+67760,47351,Prunus,"plums, cherries, and allies",eats
+67760,48626,Oenothera,"evening primroses, sundrops, and beeblossoms",eats
+67760,48448,Zea mays,Maize,eats
+67760,,Glycine max,,eats
+67760,,Hemerocallis,,eats
+67760,,Polygonum sachalinense,,eats
+67760,,Rosa rugosa,,eats
+67760,,Abelmoschus esculentus,,eats
+67760,,Reynoutria sachalinensis,,eats
+67760,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+67760,13858,Passer domesticus,House Sparrow,eatenBy
+67760,,Argiope aurantia,,eatenBy
+67760,67708,Argiope trifasciata,Banded Garden Spider,preyedUponBy
+67760,48957,Arilus cristatus,Wheel Bug,preyedUponBy
+67760,,Dionaea muscipula,,preyedUponBy

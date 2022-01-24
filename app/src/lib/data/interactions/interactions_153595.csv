@@ -1,0 +1,53 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+153595,53275,Chironomidae,Non-biting Midges,eats
+153595,47822,Diptera,Flies,eats
+153595,,Potentilla nivea,,pollinates
+153595,,Physaria arctica,,pollinates
+153595,509595,Arnica angustifolia alpina,,pollinates
+153595,,Saxifraga oppositifolia,,pollinates
+153595,49995,Syrphidae,Hover Flies,preysOn
+153595,203279,Scaphytopius,,preysOn
+153595,55699,Cecidomyiidae,Gall and Forest Midges,preysOn
+153595,47221,Apidae,"Honey Bees, Bumble Bees, and Allies",preysOn
+153595,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",preysOn
+153595,,Cephalonomia waterstoni,,preysOn
+153595,,Urolepis rufipes,,preysOn
+153595,,Nesepyris floridanus,,preysOn
+153595,,Ooencyrtus submetallicus,,preysOn
+153595,329886,Olfersia sordida,,preysOn
+153595,,Entedontini,,preysOn
+153595,,Lynchia albipennis,,preysOn
+153595,84463,Ceroplastes,Wax Scales,preysOn
+153595,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn
+153595,,Melittobia chalybii,,preysOn
+153595,,Euderus,,preysOn
+153595,,Neanastatus,,preysOn
+153595,,Macrocentrus,,preysOn
+153595,1121348,Blissus insularis,,preysOn
+153595,,Heterospilus,,preysOn
+153595,,Agamerion,,preysOn
+153595,,Brachymeria psyche,,preysOn
+153595,,Metapelma schwarzi,,preysOn
+153595,557422,Flatoidinus punctatus,,preysOn
+153595,208181,Arunta interclusa,mangrove cicada,preysOn
+153595,,Cotesia hemileucae,,preysOn
+153595,1159232,Tangia breviceps,,preysOn
+153595,266087,Pachodynerus nasidens,Keyhole Wasp,preysOn
+153595,49575,Pseudococcus,,preysOn
+153595,,Scleroderma macrogaster,,preysOn
+153595,129986,Oliarus,,preysOn
+153595,,Ecphylus,,preysOn
+153595,49024,Membracidae,Typical Treehoppers,preysOn
+153595,323059,Acanalonia servillei,,preysOn
+153595,,Iphiaulax,,preysOn
+153595,,Callihormius bifasciatus,,preysOn
+153595,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+153595,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+153595,250072,Metacyrba,,preyedUponBy
+153595,420613,Stoidis,,preyedUponBy
+153595,,Dendroica,,preyedUponBy
+153595,354274,Ballus,,preyedUponBy
+153595,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+153595,49880,Misumenops,,preyedUponBy
+153595,,Pirata,,preyedUponBy
+153595,84495,Paraphidippus,,preyedUponBy

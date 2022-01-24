@@ -1,0 +1,30 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9599,3460,Zenaida asiatica,White-winged Dove,eats
+9599,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+9599,,Psyche,,eatenBy
+9599,,Risoba prominens,,eatenBy
+9599,,Aterica galene,,eatenBy
+9599,,Thyas miniacea,,eatenBy
+9599,429121,Hemerophanes libyra,,eatenBy
+9599,,Hemerophanes enos,,eatenBy
+9599,,Leipoxais peraffinis,,eatenBy
+9599,,Spindasis,,eatenBy
+9599,,Chrysopsyche mirifica,,eatenBy
+9599,366236,Neptis saclava,Spotted Sailer,eatenBy
+9599,,Pharmacophagus antenor,,eatenBy
+9599,,Parosmodes morantii,,eatenBy
+9599,,Rapala varuna,,eatenBy
+9599,,Deudorix antalus,,eatenBy
+9599,354564,Coeliades forestan,Striped Policeman,eatenBy
+9599,149058,Deudorix,Cornelians and Playboys,eatenBy
+9599,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+9599,,Macroplectra,,eatenBy
+9599,,Trabala lambourni,,eatenBy
+9599,,Trabala aethiopica,,eatenBy
+9599,,Latoia vivida,,eatenBy
+9599,,Trabala vishnou,,eatenBy
+9599,,Trabala,,eatenBy
+9599,,Ascotis reciprocaria,,eatenBy
+9599,,Eupithecia albicristulata,,eatenBy
+9599,52865,Tramea lacerata,Black Saddlebags,preysOn
+9599,19975,Athene cunicularia,Burrowing Owl,preyedUponBy

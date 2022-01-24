@@ -1,0 +1,57 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+73044,211194,Tracheophyta,vascular plants,eats
+73044,1,Animalia,Animals,eats
+73044,58819,Deinandra fasciculata,Clustered Tarweed,eats
+73044,52195,Silene,Catchflies,eats
+73044,47434,Poaceae,grasses,eats
+73044,47124,Magnoliopsida,dicots,eats
+73044,47157,Lepidoptera,Butterflies and Moths,eats
+73044,52841,Anthemis cotula,Stinking chamomile,eats
+73044,53298,Stellaria media,common chickweed,eats
+73044,50299,Fragaria,strawberries,eats
+73044,53178,Plantago lanceolata,ribwort plantain,eats
+73044,52689,Sambucus,elders,eats
+73044,58390,Triticum,Wheats,eats
+73044,53168,Oxalis corniculata,Creeping Woodsorrel,eats
+73044,49567,Carabidae,Ground Beetles,eats
+73044,47208,Coleoptera,Beetles,eats
+73044,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+73044,47122,Fabaceae,legumes,eats
+73044,52697,Avena,Oats,eats
+73044,47687,Erodium cicutarium,Redstem Stork's-bill,eats
+73044,47121,Lupinus,lupines,eats
+73044,47120,Arthropoda,Arthropods,eats
+73044,55488,Diabrotica,,eats
+73044,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+73044,47351,Prunus,"plums, cherries, and allies",eats
+73044,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+73044,58127,Chenopodium album,Common Lambsquarters,eats
+73044,47224,Papilionoidea,Butterflies,eats
+73044,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+73044,48807,Umbellularia californica,California bay,eats
+73044,52698,Avena fatua,wild oat,eats
+73044,48736,Curculionidae,True Weevils,eats
+73044,56955,Helianthus,sunflowers,eats
+73044,51633,Digitaria sanguinalis,Hairy Crabgrass,eats
+73044,48972,Polygonum,knotweeds,eats
+73044,57922,Centaurea melitensis,Maltese star-thistle,eats
+73044,51876,Trifolium,clovers,eats
+73044,53195,Rumex acetosella,Sheep's sorrel,eats
+73044,47544,Rubus,brambles,eats
+73044,53113,Brassica,cabbages and mustards,eats
+73044,154156,Croton setiger,turkey mullein,eats
+73044,52586,Silybum marianum,milk thistle,eats
+73044,53075,Geranium dissectum,Cut-leaved crane's-bill,eats
+73044,,Madia sativa,,eats
+73044,,Solanum ptychanthum,,eats
+73044,166112,Papaver macounii,Macoun's Poppy,eats
+73044,,Amsinckia tessellata,,eats
+73044,48448,Zea mays,Maize,eats
+73044,,Saissetia oleae,,eats
+73044,,Claytonia perfoliata,,eats
+73044,,Gammarotettix genitalis,,eats
+73044,,Amaranthus retroflexus,,eats
+73044,,Phalaris canariensis,,eats
+73044,,Calandrinia ciliata,,eats
+73044,,Spergula arvensis,,eats
+73044,30724,Crotalus ruber,Red Diamond Rattlesnake,preyedUponBy

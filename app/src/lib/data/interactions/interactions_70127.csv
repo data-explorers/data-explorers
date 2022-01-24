@@ -1,0 +1,66 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+70127,47126,Plantae,plants,eats
+70127,,Detritus,,eats
+70127,362370,Stephanodiscus,,eats
+70127,,Navicula avenacea,,eats
+70127,,Ulothrix,,eats
+70127,,Rhoicosphenia curvata,,eats
+70127,359954,Aulacoseira,,eats
+70127,,Khakista,,eats
+70127,345199,Cyclotella,,eats
+70127,182984,Audouinella,,eats
+70127,,Synedra ulna,,eats
+70127,311562,Frustulia rhomboides,,eats
+70127,311291,Nitzschia,,eats
+70127,345418,Fragilaria vaucheriae,,eats
+70127,203655,Surirella,,eats
+70127,,Cymbella minuta,,eats
+70127,492486,Gomphonema angustatum,,eats
+70127,,Aucalosira sp.,,eats
+70127,118597,Belone belone,Garfish,eatenBy
+70127,55746,Misumena vatia,Goldenrod Crab Spider,eatenBy
+70127,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+70127,3759,Plegadis chihi,White-faced Ibis,eatenBy
+70127,7120,Cairina moschata,Muscovy Duck,eatenBy
+70127,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+70127,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+70127,,Agonostomus monticola,,eatenBy
+70127,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+70127,,Amia calva,,eatenBy
+70127,410561,Retropinna retropinna,New Zealand Common Smelt,eatenBy
+70127,125920,Anguilla australis,Short-finned Eel,eatenBy
+70127,5017,Bubulcus ibis,Cattle Egret,eatenBy
+70127,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+70127,,Picoides villosus,,eatenBy
+70127,793289,Ammospiza caudacuta,Saltmarsh Sparrow,eatenBy
+70127,,Ammospiza maritima,,eatenBy
+70127,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+70127,,Parkesia motacilla,,eatenBy
+70127,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+70127,178226,Eucryphia cordifolia,Ulmo,pollinates
+70127,48124,Tettigoniidae,Katydids,preyedUponBy
+70127,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+70127,,Haemopis sanguisuga,,preyedUponBy
+70127,,Dolomedes fimbriatus,,preyedUponBy
+70127,,Poliocephalus,,preyedUponBy
+70127,554158,Chartoscirta cincta,,preyedUponBy
+70127,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+70127,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+70127,,Paravespula vulgaris,,preyedUponBy
+70127,,Bidessus unistriatus,,preyedUponBy
+70127,129878,Nabidae,Damsel Bugs,preyedUponBy
+70127,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+70127,,Theridion pictum,,preyedUponBy
+70127,82118,Dolomedes,Fishing Spiders,preyedUponBy
+70127,,Polyhydrus lineatus,,preyedUponBy
+70127,25474,Rana,Pond Frogs,preyedUponBy
+70127,,Phylloneta impressa,,preyedUponBy
+70127,153747,Robertus,,preyedUponBy
+70127,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+70127,,Anguis fragilis,,preyedUponBy
+70127,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+70127,,Dolichovespula sylvestris,,preyedUponBy
+70127,,Polyhydrus lineatus (F.),,preyedUponBy
+70127,298234,Frigga pratensis,,preyedUponBy
+70127,,Eriophora pustulosa,,preyedUponBy
+70127,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy

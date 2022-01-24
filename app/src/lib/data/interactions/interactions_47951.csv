@@ -1,0 +1,295 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47951,120489,Sarcophaga,Common Flesh Flies,eats
+47951,54841,Salix alba,white willow,eats
+47951,47566,Populus,"poplars, cottonwoods, and aspens",eats
+47951,54491,Corylus avellana,common hazel,eats
+47951,63089,Clitellata,Clitellates,eats
+47951,67334,Cyanobacteria,cyanobacteria,eats
+47951,47951,Staphylinidae,Rove Beetles,eats
+47951,123880,Bacillariophyceae,Diatoms,eats
+47951,120921,Cochliomyia macellaria,Secondary Screwworm Fly,eats
+47951,904362,Hemilucilia segmentaria,,eats
+47951,700122,Lucilia eximia,,eats
+47951,,Leptocera,,eats
+47951,,Sargus cuprarius,,eats
+47951,,Paregle,,eats
+47951,,Sepsis violacea,,eats
+47951,,Cryptolucilia,,eats
+47951,,Haematobia irritans,,eats
+47951,,Detritus,,eats
+47951,,Fannia,,eats
+47951,,G. sp.,,eats
+47951,,Cyrtoneurina gemina,,eats
+47951,,Hemilucilia flavifacies,,eats
+47951,,Cyrtoneurina conspersa,,eats
+47951,,Espeletia grandiflora,,eats
+47951,79461,Ulmus minor,Field Elm,eats
+47951,155124,Cornus sanguinea,common dogwood,eats
+47951,55847,Euonymus europaeus,Spindle,eats
+47951,51147,Crataegus monogyna,common hawthorn,eats
+47951,55811,Prunus spinosa,Blackthorn,eats
+47951,765394,Sambucus nigra,European black elderberry,eats
+47951,,Detritus complex,,eats
+47951,,Gammaridea,,eats
+47951,118597,Belone belone,Garfish,eatenBy
+47951,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+47951,4209,Podiceps auritus,Horned Grebe,eatenBy
+47951,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+47951,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+47951,16791,Tyrannus verticalis,Western Kingbird,eatenBy
+47951,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+47951,12727,Turdus migratorius,American Robin,eatenBy
+47951,144883,Troglodytes hiemalis,Winter Wren,eatenBy
+47951,3759,Plegadis chihi,White-faced Ibis,eatenBy
+47951,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+47951,12901,Catharus fuscescens,Veery,eatenBy
+47951,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+47951,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+47951,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+47951,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47951,11867,Progne subis,Purple Martin,eatenBy
+47951,11970,Stelgidopteryx serripennis,Northern Rough-winged Swallow,eatenBy
+47951,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+47951,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+47951,18209,Melanerpes formicivorus,Acorn Woodpecker,eatenBy
+47951,3951,Limosa lapponica,Bar-tailed Godwit,eatenBy
+47951,3874,Tringa,"Shanks, Tattlers, and Allies",eatenBy
+47951,42054,Vulpes,Typical Foxes,eatenBy
+47951,3836,Calidris,Calidris Sandpipers,eatenBy
+47951,3912,Gallinago,Typical Snipes,eatenBy
+47951,47951,Staphylinidae,Rove Beetles,eatenBy
+47951,114127,Thymallus thymallus,Grayling,eatenBy
+47951,496641,Xysticus ulmi,Swamp Crab Spider,eatenBy
+47951,446027,Galaxias depressiceps,Taieri Flathead Galaxias,eatenBy
+47951,,Galaxias anomalus,,eatenBy
+47951,51333,Macquaria australasica,Macquarie Perch,eatenBy
+47951,187244,Clupeichthys aesarnensis,Thai River Sprat,eatenBy
+47951,,Colibri coruscans,,eatenBy
+47951,17943,Dendrocopos leucotos,White-backed Woodpecker,eatenBy
+47951,855311,Nyctereutes procyonoides,Mainland Raccoon Dog,eatenBy
+47951,4205,Podiceps nigricollis,Eared Grebe,eatenBy
+47951,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47951,72502,Anas chlorotis,Brown Teal,eatenBy
+47951,,Lonchura cucullata,,eatenBy
+47951,7603,Auriparus flaviceps,Verdin,eatenBy
+47951,17394,Vireo gilvus,Warbling Vireo,eatenBy
+47951,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+47951,13732,Anthus rubescens,American Pipit,eatenBy
+47951,558512,Lanius borealis,Northern Shrike,eatenBy
+47951,11941,Riparia riparia,Bank Swallow,eatenBy
+47951,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+47951,,Dryobates albolarvatus,,eatenBy
+47951,,Picoides villosus,,eatenBy
+47951,,Sphyrapicus thyroideus,,eatenBy
+47951,19577,Chordeiles minor,Common Nighthawk,eatenBy
+47951,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+47951,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+47951,6667,Cypseloides niger,Black Swift,eatenBy
+47951,14118,Plectrophenax,Snow and McKay's Buntings,eatenBy
+47951,117538,Oligocottus snyderi,Fluffy Sculpin,eatenBy
+47951,559070,Lanius excubitor,Great Gray Shrike,eatenBy
+47951,178226,Eucryphia cordifolia,Ulmo,pollinates
+47951,49463,Trillium ovatum,Pacific trillium,pollinates
+47951,77780,Linnaea borealis,twinflower,pollinates
+47951,,Magnolia,,pollinates
+47951,,Magnolia virginiana,,pollinates
+47951,52788,Acari,Mites and Ticks,preysOn
+47951,61267,Heteroptera,True Bugs,preysOn
+47951,52073,Fulgoroidea,Planthoppers,preysOn
+47951,53237,Cicadellidae,Typical Leafhoppers,preysOn
+47951,47118,Araneae,Spiders,preysOn
+47951,61903,Xysticus,Ground Crab Spiders,preysOn
+47951,52425,Chrysopidae,Green Lacewings,preysOn
+47951,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+47951,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+47951,47866,Thomisidae,Crab Spiders,preysOn
+47951,47484,Helicidae,Helix Snails,preysOn
+47951,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+47951,55470,Arctosa,Bear Spiders,preysOn
+47951,47208,Coleoptera,Beetles,preysOn
+47951,133495,Deltocephalinae,,preysOn
+47951,81769,Blattodea,Cockroaches and Termites,preysOn
+47951,47951,Staphylinidae,Rove Beetles,preysOn
+47951,52381,Aphididae,Aphids,preysOn
+47951,47415,Pardosa,Thin-legged Wolf Spiders,preysOn
+47951,47742,Pentatomidae,Stink Bugs,preysOn
+47951,47367,Opiliones,Harvestmen,preysOn
+47951,47416,Lycosidae,Wolf Spiders,preysOn
+47951,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+47951,49567,Carabidae,Ground Beetles,preysOn
+47951,56189,Philaenus spumarius,Meadow spittlebug,preysOn
+47951,373577,Typhlocybinae,,preysOn
+47951,333586,Oligochaeta,Earthworms and allies,preysOn
+47951,53248,Elateridae,Click Beetles,preysOn
+47951,47158,Insecta,Insects,preysOn
+47951,47371,Theridiidae,Cobweb Spiders,preysOn
+47951,47339,Formica,"Wood, Mound, and Field Ants",preysOn
+47951,85586,Anthicidae,Ant-like Flower Beetles,preysOn
+47951,122239,Porcellionidae,Porcellionid Woodlice,preysOn
+47951,56083,Armadillidium vulgare,Common Pill Woodlouse,preysOn
+47951,50168,Gnaphosidae,Ground Spiders,preysOn
+47951,176197,Otiorhynchus,,preysOn
+47951,48139,Salticidae,Jumping Spiders,preysOn
+47951,126791,Nitidulidae,Sap-feeding Beetles,preysOn
+47951,47345,Agelenidae,Funnel Weavers,preysOn
+47951,67662,Geophilomorpha,Soil Centipedes,preysOn
+47951,122240,Porcellio,,preysOn
+47951,57409,Phalangiidae,Phalangiid Harvestmen,preysOn
+47951,52932,Cantharidae,Soldier Beetles,preysOn
+47951,51146,Chrysomelidae,Leaf Beetles,preysOn
+47951,47535,Araneidae,Orbweavers,preysOn
+47951,141735,Sitona,,preysOn
+47951,48292,Philoscia muscorum,Common Striped Woodlouse,preysOn
+47951,54964,Buprestidae,Metallic Wood-boring Beetles,preysOn
+47951,57652,Trombidiidae,True Velvet Mites,preysOn
+47951,48295,Armadillidium,Pillbugs,preysOn
+47951,132036,Phalacridae,Shining Flower Beetles,preysOn
+47951,48736,Curculionidae,True Weevils,preysOn
+47951,47868,Philodromidae,Running Crab Spiders,preysOn
+47951,53816,Tenebrionidae,Darkling Beetles,preysOn
+47951,132449,Serica,,preysOn
+47951,84523,Dictynidae,Meshweavers,preysOn
+47951,373402,Cossoninae,,preysOn
+47951,,epipellic flora,,preysOn
+47951,233535,Vertigo pygmaea,Common Whorl-snail,preysOn
+47951,783658,Walckenaeria nudipalpis,,preysOn
+47951,131943,Rugilus rufipes,,preysOn
+47951,605071,Cicadina,,preysOn
+47951,1006257,Platystethus nodifrons,,preysOn
+47951,,Euconulus,,preysOn
+47951,153636,Zelotes,,preysOn
+47951,173319,Brachygluta,,preysOn
+47951,,Comantenna,,preysOn
+47951,371954,Ligidium hypnorum,Carr Slater,preysOn
+47951,,Propylaea quatuordecimpunctata,,preysOn
+47951,554158,Chartoscirta cincta,,preysOn
+47951,,Vertigo antivertigo,,preysOn
+47951,,Pirata tenuitarsis,,preysOn
+47951,203242,Aleocharinae,,preysOn
+47951,,Chaetarthria seminulum,,preysOn
+47951,,Dryops auriculatus,,preysOn
+47951,251175,Edaphus,,preysOn
+47951,225133,Microlinyphia impigra,,preysOn
+47951,,Eupterygini,,preysOn
+47951,,Gongylidiellum murcidum,,preysOn
+47951,131962,Stenus,,preysOn
+47951,114536,Trochulus sericeus,,preysOn
+47951,,Gnathonarium dentatum,,preysOn
+47951,547275,Antistea elegans,,preysOn
+47951,624522,Hebrus pusillus,,preysOn
+47951,50190,Cicadoidea,Cicadas,preysOn
+47951,86114,Trichoniscidae,,preysOn
+47951,,Pirata,,preysOn
+47951,69599,Tetramorium,Fierce ants,preysOn
+47951,1151405,Lesteva sicula,,preysOn
+47951,,Bathyphantes gracilis,,preysOn
+47951,123608,Delphacidae,,preysOn
+47951,123596,Chilocorus bipustulatus,Heather Ladybird,preysOn
+47951,,Erigone atra,,preysOn
+47951,360548,Zora spinimana,,preysOn
+47951,,Nestus,,preysOn
+47951,,Hypocyphtus discoideus,,preysOn
+47951,,Diplocampa assimile,,preysOn
+47951,52380,Aphidoidea,,preysOn
+47951,451596,Oxyloma elegans,Slender Amber Snail,preysOn
+47951,,Anisus leucostoma,,preysOn
+47951,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+47951,47188,Pachygrapsus crassipes,Striped Shore Crab,preyedUponBy
+47951,3954,Limosa fedoa,Marbled Godwit,preyedUponBy
+47951,3864,Calidris minutilla,Least Sandpiper,preyedUponBy
+47951,4246,Podilymbus podiceps,Pied-billed Grebe,preyedUponBy
+47951,7086,Branta,Black Geese,preyedUponBy
+47951,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+47951,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+47951,47951,Staphylinidae,Rove Beetles,preyedUponBy
+47951,48124,Tettigoniidae,Katydids,preyedUponBy
+47951,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+47951,47339,Formica,"Wood, Mound, and Field Ants",preyedUponBy
+47951,202104,Harpalinae,,preyedUponBy
+47951,47345,Agelenidae,Funnel Weavers,preyedUponBy
+47951,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+47951,49567,Carabidae,Ground Beetles,preyedUponBy
+47951,52932,Cantharidae,Soldier Beetles,preyedUponBy
+47951,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+47951,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+47951,47866,Thomisidae,Crab Spiders,preyedUponBy
+47951,132021,Philonthus,,preyedUponBy
+47951,47416,Lycosidae,Wolf Spiders,preyedUponBy
+47951,148395,Trochosa,,preyedUponBy
+47951,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+47951,47792,Odonata,Dragonflies and Damselflies,preyedUponBy
+47951,4263,Phalacrocorax,Typical Cormorants and Shags,preyedUponBy
+47951,82081,Theridion,Tangleweb Spiders,preyedUponBy
+47951,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+47951,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+47951,121467,Uloborus,Feather-legged Spiders,preyedUponBy
+47951,307026,Labidura riparia,Shore Earwig,preyedUponBy
+47951,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+47951,250072,Metacyrba,,preyedUponBy
+47951,116110,Rena humilis humilis,Southwestern Blind Snake,preyedUponBy
+47951,32512,Rena dulcis,Texas Blind Snake,preyedUponBy
+47951,101455,Gillichthys mirabilis,Longjaw Mudsucker,preyedUponBy
+47951,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+47951,111467,Quietula y-cauda,Shadow Goby,preyedUponBy
+47951,117564,Clevelandia ios,Arrow Gobi,preyedUponBy
+47951,6933,Anas acuta,Northern Pintail,preyedUponBy
+47951,4205,Podiceps nigricollis,Eared Grebe,preyedUponBy
+47951,,Anas americana,,preyedUponBy
+47951,,Catoptrophorus semipalmatus,,preyedUponBy
+47951,4892,Pluvialis squatarola,Black-bellied Plover,preyedUponBy
+47951,,Athya marila,,preyedUponBy
+47951,7054,Aythya affinis,Lesser Scaup,preyedUponBy
+47951,,Rallus longirostrus,,preyedUponBy
+47951,3857,Calidris alpina,Dunlin,preyedUponBy
+47951,,Limnodromus scilopaceus,,preyedUponBy
+47951,3845,Calidris canutus,Red Knot,preyedUponBy
+47951,,Limnodromus griseus,,preyedUponBy
+47951,784329,Robertus insignis,,preyedUponBy
+47951,,Paederus riparius,,preyedUponBy
+47951,,Gabrius fermoralis,,preyedUponBy
+47951,505524,Pirata piscatorius,,preyedUponBy
+47951,359911,Staphylininae,,preyedUponBy
+47951,,Lithobius,,preyedUponBy
+47951,231469,Staphylinus erythropterus,,preyedUponBy
+47951,35912,Lacerta agilis,Sand Lizard,preyedUponBy
+47951,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+47951,25474,Rana,Pond Frogs,preyedUponBy
+47951,129878,Nabidae,Damsel Bugs,preyedUponBy
+47951,1086379,Tetartopeus terminatum,,preyedUponBy
+47951,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+47951,,Paravespula vulgaris,,preyedUponBy
+47951,55469,Arctosa leopardus,Leopard Bear-spider,preyedUponBy
+47951,153747,Robertus,,preyedUponBy
+47951,784206,Trochosa spinipalpis,,preyedUponBy
+47951,116941,Locustella naevia,Common Grasshopper-Warbler,preyedUponBy
+47951,,Anguis fragilis,,preyedUponBy
+47951,,Lathrobium fovalum,,preyedUponBy
+47951,,Nestus,,preyedUponBy
+47951,,Ensifera,,preyedUponBy
+47951,153881,Ozyptila,Leaflitter Crab Spiders,preyedUponBy
+47951,127023,Amaurobius,Lace web spider,preyedUponBy
+47951,131937,Pterostichus strenuus,Rough-chested Blackclock,preyedUponBy
+47951,452503,Robertus lividus,,preyedUponBy
+47951,739596,Lithobius mutabilis,,preyedUponBy
+47951,521083,Strigamia acuminata,,preyedUponBy
+47951,230519,Schendyla nemorensis,,preyedUponBy
+47951,494566,Athous subfuscus,,preyedUponBy
+47951,468120,Anelosimus vittatus,,preyedUponBy
+47951,,Geophilus ribauti,,preyedUponBy
+47951,,Lithobius muticus,,preyedUponBy
+47951,498635,Lithobius piceus,,preyedUponBy
+47951,905423,Lithobius macilentus,,preyedUponBy
+47951,738601,Lithobius aeruginosus,,preyedUponBy
+47951,701197,Inermocoelotes inermis,,preyedUponBy
+47951,778699,Macrargus rufus,,preyedUponBy
+47951,498645,Lithobius tricuspis,,preyedUponBy
+47951,153825,Ero furcata,,preyedUponBy
+47951,130411,Abax,,preyedUponBy
+47951,494277,Molops piceus,,preyedUponBy
+47951,705967,Harpactea lepida,,preyedUponBy
+47951,,Geophilus studeri,,preyedUponBy
+47951,525704,Trogulus tricarinatus,,preyedUponBy
+47951,154600,Agonum,,preyedUponBy
+47951,,Lithobius borealis,,preyedUponBy
+47951,362800,Clubiona comta,,preyedUponBy
+47951,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preyedUponBy

@@ -1,0 +1,146 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+88563,49506,Portunidae,Swimming Crabs,eats
+88563,47584,Bivalvia,Bivalves,eats
+88563,47114,Gastropoda,Gastropods,eats
+88563,128238,Laurencia,,eats
+88563,51021,Dictyota,Y-branched Algae,eats
+88563,57777,Rhodomelaceae,,eats
+88563,50862,Codium,Codiums,eats
+88563,54644,Ulva,sea lettuces,eats
+88563,123631,Corallina,,eats
+88563,,Zooplankton,,eats
+88563,,Infauna,,eats
+88563,,Fat Sleepers,,eats
+88563,49944,Gerreidae,Mojarras,eats
+88563,,Wigeongrass,,eats
+88563,,Padina pavonia,,eats
+88563,182858,Cladostephus spongiosus,,eats
+88563,131323,Caulerpa webbiana,Bottlebrush green seaweed,eats
+88563,322821,Sargassum vulgare,,eats
+88563,,Liagora,,eats
+88563,,Stypocaulon scoparium,,eats
+88563,322735,Cladophora prolifera,,eats
+88563,48408,Rajidae,Hardnose Skates,eatenBy
+88563,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+88563,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+88563,47232,Carangidae,Jacks,eatenBy
+88563,49172,Sciaenidae,Drums,eatenBy
+88563,57298,Hemiramphidae,Halfbeaks,eatenBy
+88563,47272,Rajiformes,Skates,eatenBy
+88563,47295,Lutjanidae,Snappers,eatenBy
+88563,4343,Larus,Large White-headed Gulls,eatenBy
+88563,41440,Phocoena phocoena,Harbour Porpoise,eatenBy
+88563,48407,Raja,,eatenBy
+88563,220480,Glyptocephalus cynoglossus,Witch Flounder,eatenBy
+88563,118601,Trisopterus luscus,Pouting,eatenBy
+88563,430553,Merlangius merlangus,Whiting,eatenBy
+88563,118628,Chelidonichthys lucerna,Tub Gurnard,eatenBy
+88563,101176,Galeorhinus galeus,School Shark,eatenBy
+88563,48397,Raja clavata,Thornback Skate,eatenBy
+88563,324532,Sprattus sprattus,European Sprat,eatenBy
+88563,111527,Raja montagui,Spotted Skate,eatenBy
+88563,55396,Solea solea,Common Sole,eatenBy
+88563,104534,Leucoraja fullonica,Shagreen Skate,eatenBy
+88563,130386,Taurulus bubalis,Longspined Bullhead,eatenBy
+88563,120617,Arnoglossus laterna,Mediterranean Scaldfish,eatenBy
+88563,104539,Leucoraja naevus,Cuckoo Skate,eatenBy
+88563,51543,Chelidonichthys cuculus,Red Gurnard,eatenBy
+88563,,Trisopterus minutus,,eatenBy
+88563,320793,Trisopterus esmarkii,Norway Pout,eatenBy
+88563,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+88563,51398,Argentina sphyraena,European Argentine,eatenBy
+88563,118649,Echiichthys vipera,Lesser Weever,eatenBy
+88563,481841,Microstomus kitt,Lemon Sole,eatenBy
+88563,,Zeus faber,,eatenBy
+88563,94651,Arnoglossus imperialis,Imperial Scaldfish,eatenBy
+88563,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+88563,97990,Clupea harengus,Atlantic Herring,eatenBy
+88563,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+88563,92628,Trigla,Gurnards,eatenBy
+88563,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+88563,120648,Lepidorhombus boscii,Four-spotted Megrim,eatenBy
+88563,109631,Platichthys flesus,European Flounder,eatenBy
+88563,47523,Pleuronectes platessa,European Plaice,eatenBy
+88563,118603,Merluccius merluccius,European Hake,eatenBy
+88563,118589,Conger conger,European Conger,eatenBy
+88563,61387,Limanda limanda,Sand Dab,eatenBy
+88563,63740,Gadus morhua,Atlantic Cod,eatenBy
+88563,47639,Myoxocephalus scorpius,Shorthorn Sculpin,eatenBy
+88563,118636,Scophthalmus rhombus,Brill,eatenBy
+88563,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+88563,111518,Raja brachyura,Blonde Skate,eatenBy
+88563,118611,Lophius budegassa,Black-bellied Angler,eatenBy
+88563,118610,Lophius piscatorius,Angler,eatenBy
+88563,63737,Lophiidae,Goosefishes,eatenBy
+88563,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+88563,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+88563,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+88563,94904,Auchenoglanis biscutatus,,eatenBy
+88563,49438,Centropomidae,Snooks,eatenBy
+88563,,Pleuronectiformes,,eatenBy
+88563,,Pungitius pungitius pungitius,,eatenBy
+88563,542078,Liocarcinus depurator,Harbour Crab,eatenBy
+88563,111991,Salvelinus namaycush,Lake Trout,eatenBy
+88563,,Zosterisessor ophiocephalus,,eatenBy
+88563,91882,Saurida,,eatenBy
+88563,51392,Morone saxatilis,Striped Bass,eatenBy
+88563,94105,Anguilla anguilla,European Eel,eatenBy
+88563,99864,Elops lacerta,West African ladyfish,eatenBy
+88563,118641,Uranoscopus scaber,Atlantic Stargazer,eatenBy
+88563,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+88563,102975,Huso huso,Beluga,eatenBy
+88563,118631,Scorpaena porcus,Black Scorpionfish,eatenBy
+88563,108196,Pagrus pagrus,Red Porgy,eatenBy
+88563,118673,Serranus hepatus,Brown comber,eatenBy
+88563,62807,Mytilus,Black Mussels,preysOn
+88563,48919,Littorina,Periwinkles,preysOn
+88563,68764,Ostracoda,Seed Shrimp,preysOn
+88563,85521,Harpacticoida,Harpacticoid Copepods,preysOn
+88563,81636,Mya,,preysOn
+88563,47114,Gastropoda,Gastropods,preysOn
+88563,49506,Portunidae,Swimming Crabs,preysOn
+88563,47584,Bivalvia,Bivalves,preysOn
+88563,88563,Gobius,,preysOn
+88563,47490,Polychaeta,Polychaete Worms,preysOn
+88563,54960,Nematoda,Nematodes,preysOn
+88563,333586,Oligochaeta,Earthworms and allies,preysOn
+88563,121643,Copepoda,Copepods,preysOn
+88563,48147,Isopoda,Isopods,preysOn
+88563,446757,Acanthochitona crinita,Bristly Mail-shell,preysOn
+88563,153169,Palaemon elegans,Rockpool Prawn,preysOn
+88563,91276,Potamopyrgus,,preysOn
+88563,71252,Macoma,,preysOn
+88563,339128,Isaeidae,,preysOn
+88563,59807,Gammarus,,preysOn
+88563,,Hydrobia,,preysOn
+88563,337828,Hediste,,preysOn
+88563,,Fimbria,,preysOn
+88563,210231,Cerastoderma,,preysOn
+88563,48817,Crangon,,preysOn
+88563,64637,Corophium,,preysOn
+88563,123639,Spionidae,,preysOn
+88563,338440,Tubificoides,,preysOn
+88563,,Zooplankton,,preysOn
+88563,,Infauna,,preysOn
+88563,,Fat Sleepers,,preysOn
+88563,49944,Gerreidae,Mojarras,preysOn
+88563,,Wigeongrass,,preysOn
+88563,83718,Tanaidacea,Tanaids,preysOn
+88563,56690,Amphipholis squamata,Dwarf Brittle Star,preysOn
+88563,,Anemonia sargassensis,,preysOn
+88563,4262,Phalacrocoracidae,Cormorants and Shags,preyedUponBy
+88563,4342,Laridae,"Gulls, Terns, and Skimmers",preyedUponBy
+88563,47272,Rajiformes,Skates,preyedUponBy
+88563,47295,Lutjanidae,Snappers,preyedUponBy
+88563,49172,Sciaenidae,Drums,preyedUponBy
+88563,47232,Carangidae,Jacks,preyedUponBy
+88563,57298,Hemiramphidae,Halfbeaks,preyedUponBy
+88563,210294,Lipophrys pholis,Shanny,preyedUponBy
+88563,88563,Gobius,,preyedUponBy
+88563,,Podicepidae/Gaviidae,,preyedUponBy
+88563,,Sternidae,,preyedUponBy
+88563,,Pleuronectiformes,,preyedUponBy
+88563,49438,Centropomidae,Snooks,preyedUponBy
+88563,,Pungitius pungitius pungitius,,preyedUponBy
+88563,94904,Auchenoglanis biscutatus,,preyedUponBy
+88563,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy

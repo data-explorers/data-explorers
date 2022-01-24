@@ -1,0 +1,162 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118552,44575,Rattus rattus,Black Rat,eats
+118552,122767,Columba livia domestica,Feral Pigeon,eats
+118552,44576,Rattus norvegicus,Brown Rat,eats
+118552,846053,Zapodidae,Jumping Mice,eats
+118552,559248,Passerellidae,New World Sparrows,eats
+118552,67693,Aspidoscelis,Whiptail Lizards,eats
+118552,44396,Peromyscus maniculatus,Deer Mouse,eats
+118552,46217,Tamias striatus,Eastern Chipmunk,eats
+118552,34435,Hemidactylus turcicus,Mediterranean House Gecko,eats
+118552,13858,Passer domesticus,House Sparrow,eats
+118552,,Emberiza citrinella,,eats
+118552,15282,Sylvia atricapilla,Eurasian Blackcap,eats
+118552,,Phylloscopus,,eats
+118552,,Geotrygon montana,,eats
+118552,36427,Anolis gundlachi,Gundlach’s Anole,eats
+118552,36445,Anolis evermanni,Emerald anole,eats
+118552,10199,Coereba flaveola,Bananaquit,eats
+118552,116461,Anolis sagrei,Brown Anole,eats
+118552,,Picus viridis,,eats
+118552,,Lasiurus blossevillii,,eats
+118552,,Ctenosaura similis,,eats
+118552,,Oligosoma aeneum,,eats
+118552,,Hemorrhois nummifer,,eats
+118552,44705,Mus musculus,House Mouse,eats
+118552,,Stellagama stellio,,eats
+118552,30237,Elaphe quatuorlineata,Four-lined Snake,eats
+118552,,Platyceps collaris,,eats
+118552,73759,Dolichophis jugularis,Large Whip Snake,eats
+118552,,Crocidura,,eats
+118552,116535,Micrelaps muelleri,Müller's Snake,eats
+118552,,Cinnyris osea,,eats
+118552,32864,Chamaeleo chamaeleon,Common Chameleon,eats
+118552,13094,Erithacus rubecula,European Robin,eats
+118552,,Microtus socialis,,eats
+118552,,Apodemus mystacinus,,eats
+118552,73767,Eirenis decemlineatus,Narrow-striped Dwarf Snake,eats
+118552,12716,Turdus merula,Eurasian Blackbird,eats
+118552,,Xerotyphlops vermicularis,,eats
+118552,14588,Pycnonotus barbatus,Common Bulbul,eats
+118552,42069,Vulpes vulpes,Red Fox,eatenBy
+118552,42007,Puma concolor,Mountain Lion,eatenBy
+118552,20044,Bubo virginianus,Great Horned Owl,eatenBy
+118552,155309,Culex quinquefasciatus,Southern House Mosquito,eatenBy
+118552,4756,Cathartes aura,Turkey Vulture,eatenBy
+118552,42051,Canis latrans,Coyote,eatenBy
+118552,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+118552,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+118552,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+118552,851014,Canis aureus,Golden Jackal,eatenBy
+118552,42048,Canis lupus,Gray Wolf,eatenBy
+118552,40166,Dasyurus maculatus,Spotted-tailed Quoll,eatenBy
+118552,41979,Lynx lynx,Eurasian Lynx,eatenBy
+118552,922459,Felis silvestris,European Wildcat,eatenBy
+118552,41812,Mustela putorius,Western Polecat,eatenBy
+118552,,Nosopsyllus londiniensis,,eatenBy
+118552,252531,Echidnophaga,Stick-tight Fleas,eatenBy
+118552,52299,Galeocerdo cuvier,Tiger Shark,eatenBy
+118552,,Canis lupus familiaris,,eatenBy
+118552,,Ixodes ricinus,,eatenBy
+118552,,Aquila chrysaetos,,eatenBy
+118552,44575,Rattus rattus,Black Rat,preysOn
+118552,43111,Sylvilagus floridanus,Eastern Cottontail,preysOn
+118552,45933,Sciuridae,Squirrels,preysOn
+118552,559248,Passerellidae,New World Sparrows,preysOn
+118552,44062,Thomomys bottae,Botta's Pocket Gopher,preysOn
+118552,43112,Sylvilagus bachmani,Brush Rabbit,preysOn
+118552,37769,Plestiodon skiltonianus,Western Skink,preysOn
+118552,10094,Junco hyemalis,Dark-eyed Junco,preysOn
+118552,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preysOn
+118552,36982,Scincidae,Skinks,preysOn
+118552,67693,Aspidoscelis,Whiptail Lizards,preysOn
+118552,46217,Tamias striatus,Eastern Chipmunk,preysOn
+118552,26575,Diadophis punctatus,ring-necked snake,preysOn
+118552,13858,Passer domesticus,House Sparrow,preysOn
+118552,44576,Rattus norvegicus,Brown Rat,preysOn
+118552,14886,Mimus polyglottos,Northern Mockingbird,preysOn
+118552,337045,Podarcis siculus,Italian Wall Lizard,preysOn
+118552,12580,Prosthemadera novaeseelandiae,Tūī,preysOn
+118552,,Phasmatodea,,preysOn
+118552,,Carlia munda,,preysOn
+118552,26638,Dendrelaphis punctulatus,Common Tree Snake,preysOn
+118552,37456,Tiliqua scincoides,Common Blue-tongued Skink,preysOn
+118552,,Carlia schmeltzii,,preysOn
+118552,14505,Chlamydera nuchalis,Great Bowerbird,preysOn
+118552,,Morethia taeniopleura,,preysOn
+118552,37157,Cryptoblepharus virgatus,Cream-striped Shining-skink,preysOn
+118552,,Cryptoblepharus plagiocephalus,,preysOn
+118552,,Furina ornata,,preysOn
+118552,27686,Boiga irregularis,Brown Tree Snake,preysOn
+118552,,Carlia pectoralis,,preysOn
+118552,,Carlia jarnoldae,,preysOn
+118552,114571,Tropidonophis mairii,Mair's Keelback,preysOn
+118552,,Lichenostomus flavus,,preysOn
+118552,,Alectura lathami,,preysOn
+118552,,Demansia torquata,,preysOn
+118552,,Demansia atra,,preysOn
+118552,4925,Burhinus grallarius,Bush Stone-curlew,preysOn
+118552,,Ctenotus taeniolatus,,preysOn
+118552,,BOLD:ACF5665,,preysOn
+118552,,Myotis daubentonii,,preysOn
+118552,40346,Myotis lucifugus,Little Brown Bat,preysOn
+118552,,Phylloscopus collybita,,preysOn
+118552,15282,Sylvia atricapilla,Eurasian Blackcap,preysOn
+118552,,Emberiza citrinella,,preysOn
+118552,,Apodemus agrarius,,preysOn
+118552,765561,Chaerephon pumilus,Little Free-tailed Bat,preysOn
+118552,202505,Zosterops lateralis,Silvereye,preysOn
+118552,40793,Cynopterus brachyotis,Lesser Short-nosed Fruit Bat,preysOn
+118552,40509,Eptesicus fuscus,Big Brown Bat,preysOn
+118552,,Elgaria coerulea,,preysOn
+118552,,Callipepla californica brunnescens,,preysOn
+118552,,Lasiurus xanthinus,,preysOn
+118552,,Chalcides chalcides,,preysOn
+118552,40446,Vespertilio murinus,Particoloured Bat,preysOn
+118552,,Microtus montanus,,preysOn
+118552,,Plecotus austriacus,,preysOn
+118552,,Arvicola amphibius,,preysOn
+118552,,Neoromicia capensis,,preysOn
+118552,,Hipposideros cineraceus,,preysOn
+118552,,Nycteris tragata,,preysOn
+118552,70228,Fuchsia excorticata,Kōtukutuku,preysOn
+118552,,Lasiurus blossevillii,,preysOn
+118552,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preysOn
+118552,,Nyctalus leisleri,,preysOn
+118552,44705,Mus musculus,House Mouse,preysOn
+118552,,Plecotus auritus,,preysOn
+118552,,Diadophis punctatus amabilis,,preysOn
+118552,10070,Fringilla coelebs,Common Chaffinch,preysOn
+118552,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preysOn
+118552,,Passer domesticus domesticus,,preysOn
+118552,18920,Platycercus eximius,Eastern Rosella,preysOn
+118552,37022,Oligosoma ornatum,Ornate Skink,preysOn
+118552,,Amphisbaena darwinii,,preysOn
+118552,,Oligosoma polychroma,,preysOn
+118552,,Sympetrum internum,,preysOn
+118552,,Sorex antinorii,,preysOn
+118552,82808,Crotaphopeltis hotamboeia,Red-lipped Snake,preysOn
+118552,,Mustela nivalis vulgaris,,preysOn
+118552,,Prunella modularis,,preysOn
+118552,698729,Sarothrura elegans elegans,,preysOn
+118552,41192,Nycteris thebaica,Egyptian Slit-faced Bat,preysOn
+118552,,Crocidura russula,,preysOn
+118552,,Georychus capensis,,preysOn
+118552,,Chrysochloris asiatica,,preysOn
+118552,,Apodemus flavicollis,,preysOn
+118552,,Apodemus sylvaticus,,preysOn
+118552,,Stellagama stellio,,preysOn
+118552,,Acontias orientalis,,preysOn
+118552,7697,Cisticola juncidis,Zitting Cisticola,preysOn
+118552,12716,Turdus merula,Eurasian Blackbird,preysOn
+118552,,Pipistrellus nathusii,,preysOn
+118552,,Glis glis,,preysOn
+118552,18943,Nestor meridionalis,Kaka,preysOn
+118552,,Crocidura leucodon,,preysOn
+118552,,Jynx torquilla,,preysOn
+118552,,Baiomys taylori,,preysOn
+118552,42051,Canis latrans,Coyote,preyedUponBy
+118552,10094,Junco hyemalis,Dark-eyed Junco,preyedUponBy
+118552,41979,Lynx lynx,Eurasian Lynx,preyedUponBy
+118552,569428,Mustela nivalis,Least Weasel,preyedUponBy
+118552,12748,Turdus philomelos,Song Thrush,preyedUponBy

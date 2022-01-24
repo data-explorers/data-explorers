@@ -1,0 +1,60 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+9135,1,Animalia,Animals,eats
+9135,211194,Tracheophyta,vascular plants,eats
+9135,47120,Arthropoda,Arthropods,eats
+9135,47208,Coleoptera,Beetles,eats
+9135,47434,Poaceae,grasses,eats
+9135,47157,Lepidoptera,Butterflies and Moths,eats
+9135,48736,Curculionidae,True Weevils,eats
+9135,47124,Magnoliopsida,dicots,eats
+9135,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+9135,51146,Chrysomelidae,Leaf Beetles,eats
+9135,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+9135,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+9135,122611,Sorghastrum,Indiangrasses,eats
+9135,48972,Polygonum,knotweeds,eats
+9135,47118,Araneae,Spiders,eats
+9135,52809,Poa,Meadow-grasses,eats
+9135,53196,Rumex,docks,eats
+9135,50055,Setaria,foxtails and bristlegrasses,eats
+9135,47758,Oxalis,woodsorrels,eats
+9135,60301,Panicum,panicgrasses,eats
+9135,47822,Diptera,Flies,eats
+9135,51637,Digitaria,"crabgrasses, cottontops, and allies",eats
+9135,51821,Euphorbiaceae,spurge family,eats
+9135,81769,Blattodea,Cockroaches and Termites,eats
+9135,53298,Stellaria media,common chickweed,eats
+9135,57922,Centaurea melitensis,Maltese star-thistle,eats
+9135,48571,Carex,true sedges,eats
+9135,47687,Erodium cicutarium,Redstem Stork's-bill,eats
+9135,51633,Digitaria sanguinalis,Hairy Crabgrass,eats
+9135,52697,Avena,Oats,eats
+9135,52698,Avena fatua,wild oat,eats
+9135,57190,Phleum pratense,Timothy grass,eats
+9135,47158,Insecta,Insects,eats
+9135,,Non-biological,,eats
+9135,,Archips fumiferana,,eats
+9135,71950,Agropyron,,eats
+9135,,Deschampsia,,eats
+9135,,Danthonia,,eats
+9135,,Acalypha,,eats
+9135,,Iva,,eats
+9135,145356,Chloris,Greenfinches,eats
+9135,,Solanum ptychanthum,,eats
+9135,,Cydia pomonella,,eats
+9135,,Claytonia perfoliata,,eats
+9135,,Amaranthus retroflexus,,eats
+9135,,Calandrinia ciliata,,eats
+9135,,ground invertebrates,,eats
+9135,,meadow insects,,eats
+9135,,herbs - grass - shrubs,,eats
+9135,41801,Mustela,,eatenBy
+9135,4672,Falco columbarius,Merlin,eatenBy
+9135,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+9135,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+9135,4645,Falco femoralis,Aplomado Falcon,eatenBy
+9135,47157,Lepidoptera,Butterflies and Moths,preysOn
+9135,47336,Formicidae,Ants,preysOn
+9135,30692,Crotalus,Rattlesnakes,preyedUponBy
+9135,46217,Tamias striatus,Eastern Chipmunk,preyedUponBy
+9135,4672,Falco columbarius,Merlin,preyedUponBy

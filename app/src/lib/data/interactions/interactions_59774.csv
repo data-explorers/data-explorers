@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59774,47822,Diptera,Flies,eats
+59774,8229,Cyanocitta cristata,Blue Jay,eatenBy
+59774,11867,Progne subis,Purple Martin,eatenBy
+59774,67731,Anax junius,Common Green Darner,eatenBy
+59774,5020,Butorides virescens,Green Heron,eatenBy
+59774,61495,Erythemis simplicicollis,Eastern Pondhawk,eatenBy
+59774,116461,Anolis sagrei,Brown Anole,eatenBy
+59774,,Acanthepeira stellata,,eatenBy
+59774,29200,Opheodrys aestivus,Rough Greensnake,eatenBy
+59774,47821,Tabanidae,Horse and Deer Flies,preysOn
+59774,59774,Pachydiplax longipennis,Blue Dasher,preysOn
+59774,48139,Salticidae,Jumping Spiders,preyedUponBy
+59774,67731,Anax junius,Common Green Darner,preyedUponBy
+59774,9915,Piranga rubra,Summer Tanager,preyedUponBy
+59774,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy
+59774,5020,Butorides virescens,Green Heron,preyedUponBy
+59774,52756,Polistes,Umbrella Paper Wasps,preyedUponBy
+59774,47552,Argiope,Garden Orbweavers,preyedUponBy
+59774,59774,Pachydiplax longipennis,Blue Dasher,preyedUponBy
+59774,47118,Araneae,Spiders,preyedUponBy
+59774,326683,Asilinae,,preyedUponBy
+59774,48486,Coccinellidae,Lady Beetles,preyedUponBy
+59774,,Regina alleni,,preyedUponBy
+59774,153563,Neoscona domiciliorum,Red-femured Spotted Orbweaver,preyedUponBy
+59774,61495,Erythemis simplicicollis,Eastern Pondhawk,preyedUponBy
+59774,298731,Phidippus carolinensis,Carolina Jumping Spider,preyedUponBy
+59774,,Triorla interrupta,,preyedUponBy
+59774,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+59774,,Anolis carolinensis,,preyedUponBy
+59774,,Trichonephila clavipes,,preyedUponBy
+59774,520978,Gomphurus externus,Plains Clubtail,preyedUponBy
+59774,,Diogmites,,preyedUponBy

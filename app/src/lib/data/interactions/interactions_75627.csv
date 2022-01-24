@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+75627,209721,Colias alexandra,Queen Alexandra’s Sulphur,eatenBy
+75627,52777,Megachilidae,"Mason, Leafcutter, Carder, and Resin Bees",pollinatedBy
+75627,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy

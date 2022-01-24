@@ -1,0 +1,76 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47758,44311,Microtus pennsylvanicus,Meadow Vole,eatenBy
+47758,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+47758,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+47758,47219,Apis mellifera,Western Honey Bee,eatenBy
+47758,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+47758,52775,Bombus,Bumble Bees,eatenBy
+47758,82525,Augochlorella pomoniella,Peridot Sweat Bee,eatenBy
+47758,468067,Zadontomerus,,eatenBy
+47758,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+47758,493594,Eupeodes fumipennis,Western Aphideater,eatenBy
+47758,55626,Pieris rapae,Cabbage White,eatenBy
+47758,1081332,Lon melane,Umber Skipper,eatenBy
+47758,50931,Strymon melinus,Gray Hairstreak,eatenBy
+47758,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+47758,47226,Papilio rutulus,Western Tiger Swallowtail,eatenBy
+47758,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+47758,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+47758,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47758,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+47758,3454,Zenaida macroura,Mourning Dove,eatenBy
+47758,1409,Callipepla californica,California Quail,eatenBy
+47758,13858,Passer domesticus,House Sparrow,eatenBy
+47758,12727,Turdus migratorius,American Robin,eatenBy
+47758,9152,Spizella pusilla,Field Sparrow,eatenBy
+47758,9135,Spizella passerina,Chipping Sparrow,eatenBy
+47758,,North American deermouse,,eatenBy
+47758,,Sphenarches caffer,,eatenBy
+47758,,Pseudoplusia includens,,eatenBy
+47758,,Zizula hylax,,eatenBy
+47758,,Actizera lucida,,eatenBy
+47758,,Actizera stellata,,eatenBy
+47758,55719,Eristalis tenax,Common Drone Fly,eatenBy
+47758,,Mantura floridana,,eatenBy
+47758,,Protosmia rubifloris,,eatenBy
+47758,,Lasioglossum pavonotum,,eatenBy
+47758,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+47758,,Osmia lignaria propinqua,,eatenBy
+47758,,Bombus caliginosus,,eatenBy
+47758,,Melanostoma mellinum,,eatenBy
+47758,,Habropoda miserabilis,,eatenBy
+47758,142269,Bombus sitkensis,Sitka Bumble Bee,eatenBy
+47758,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+47758,,Ceratina strenua,,eatenBy
+47758,,Burnsius communis,,eatenBy
+47758,,Puccinia oxalidis,,eatenBy
+47758,,Nathalis iole,,eatenBy
+47758,,Colias electo,,eatenBy
+47758,330436,Hemiargus ramon,Ramon Blue,eatenBy
+47758,,Lucia limbaria,,eatenBy
+47758,,Zizeeria knysna,,eatenBy
+47758,,Pseudozizeeria maha,,eatenBy
+47758,,Tiaris bicolor,,eatenBy
+47758,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+47758,3545,Columbina passerina,Common Ground Dove,eatenBy
+47758,2090,Ortalis vetula,Plain Chachalaca,eatenBy
+47758,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+47758,,Cyrtonyx montezumae,,eatenBy
+47758,,Pooecetes gramineus,,eatenBy
+47758,,Ammodramus leconteii,,eatenBy
+47758,47208,Coleoptera,Beetles,pollinatedBy
+47758,47822,Diptera,Flies,pollinatedBy
+47758,52910,Sarcophagidae,Flesh Flies,pollinatedBy
+47758,,Andinus venustus,,pollinatedBy
+47758,,Yramea,,pollinatedBy
+47758,424215,Tatochila mercedis,Common White Tatochila,pollinatedBy
+47758,,Prosopochaeta caliginosa,,pollinatedBy
+47758,,Phulia nymphula,,pollinatedBy
+47758,,http://treatment.plazi.org/id/C72136B726E5580342B37994B63EAA2E,,pollinatedBy
+47758,,Habromyia lipoflava,,pollinatedBy
+47758,497142,Bombus dahlbomii,Giant Bumble Bee,pollinatedBy
+47758,,Yramea lathonoides,,pollinatedBy
+47758,,http://treatment.plazi.org/id/B0FCF824EB4DDB0E47624B920C09C606,,pollinatedBy
+47758,,Cynthia terpsichore,,pollinatedBy
+47758,,Hypsochila wagenknechti,,pollinatedBy
+47758,,Faunula leucoglene,,pollinatedBy

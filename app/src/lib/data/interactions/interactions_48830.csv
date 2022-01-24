@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48830,1,Animalia,Animals,eats
+48830,47126,Plantae,plants,eats
+48830,47549,Echinodermata,Echinoderms,eats
+48830,68104,Bryozoa,Bryozoans,eats
+48830,48824,Porifera,Sponges,eats
+48830,,Tubulipora,,eats
+48830,,Teuthida,,eats
+48830,,Detritus,,eats
+48830,,Unspecified seaweeds,,eats
+48830,,Echinus esculentus,,eats
+48830,179833,Lytechinus anamesus,white sea urchin,eats
+48830,,Diaperoecia californica,,eats
+48830,339194,Polyclinum planum,Elephant Ear Tunicate,eats
+48830,,Urochordata,,eats
+48830,131212,Archidistoma,,eats
+48830,,Styela montereyensis,,eats
+48830,424274,Pycnoclavella stanleyi,Yellow Social Ascidian,eats
+48830,,Celleporella,,eats
+48830,,Hymenamphiastra cyanocrypta,,eats
+48830,,Primavelans insculpta,,eats
+48830,51986,Clavelina,Lightbulb Tunicates,eats
+48830,195943,Crisia occidentalis,White Tuft Bryozoans,eats
+48830,,Chelyosoma productum,,eats
+48830,,Phidolopora labiata,,eats
+48830,196023,Thalamoporella californica,,eats
+48830,468298,Euherdmania claviformis,Tunic-Band Compound Tunicate,eats
+48830,,Urticina coriacea,,eats
+48830,41860,Enhydra lutris,Sea Otter,eatenBy
+48830,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+48830,,Solaster,,eatenBy
+48830,120957,Loxorhynchus grandis,Sheep Crab,eatenBy
+48830,51711,Urticina piscivora,fish-eating anemone,eatenBy
+48830,68104,Bryozoa,Bryozoans,preysOn
+48830,48824,Porifera,Sponges,preysOn
+48830,48479,Chrysaora fuscescens,Pacific Sea Nettle,preysOn
+48830,51986,Clavelina,Lightbulb Tunicates,preysOn
+48830,424274,Pycnoclavella stanleyi,Yellow Social Ascidian,preysOn
+48830,,Chelyosoma productum,,preysOn
+48830,,Phidolopora labiata,,preysOn
+48830,131212,Archidistoma,,preysOn
+48830,,Spheciospongia confoederata,,preysOn
+48830,,Diaperoecia californica,,preysOn
+48830,,Styela montereyensis,,preysOn
+48830,,Urochordata,,preysOn
+48830,196023,Thalamoporella californica,,preysOn
+48830,,Hymenamphiastra cyanocrypta,,preysOn
+48830,,Primavelans insculpta,,preysOn
+48830,,Celleporella,,preysOn
+48830,195943,Crisia occidentalis,White Tuft Bryozoans,preysOn
+48830,468298,Euherdmania claviformis,Tunic-Band Compound Tunicate,preysOn
+48830,179833,Lytechinus anamesus,white sea urchin,preysOn
+48830,339194,Polyclinum planum,Elephant Ear Tunicate,preysOn
+48830,51711,Urticina piscivora,fish-eating anemone,preyedUponBy
+48830,120957,Loxorhynchus grandis,Sheep Crab,preyedUponBy
+48830,,Solaster,,preyedUponBy

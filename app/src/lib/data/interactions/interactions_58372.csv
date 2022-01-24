@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58372,59192,Polites sabuleti,Sandhill Skipper,eatenBy
+58372,108343,Panoquina errans,Wandering Skipper,eatenBy
+58372,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+58372,558439,Mareca strepera,Gadwall,eatenBy
+58372,,Hemileuca oliviae,,eatenBy
+58372,,Pseudocopaeodes eunus,,eatenBy
+58372,,Atalopedes campestris,,eatenBy
+58372,,Copaeodes aurantiaca,,eatenBy
+58372,,Panoquina panoquin,,eatenBy
+58372,,Panoquina panoquinoides,,eatenBy
+58372,,Anas clypeata,,eatenBy
+58372,,Chen caerulescens,,eatenBy
+58372,,Polites sabuleti channelensis,,eatenBy
+58372,473,Fulica americana,American Coot,preyedUponBy
+58372,6930,Anas platyrhynchos,Mallard,preyedUponBy
+58372,850859,Oxyura jamaicensis,Ruddy Duck,preyedUponBy

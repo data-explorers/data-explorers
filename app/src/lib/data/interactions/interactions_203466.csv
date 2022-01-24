@@ -1,0 +1,58 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+203466,67334,Cyanobacteria,cyanobacteria,eats
+203466,85493,Crustacea,Crustaceans,eats
+203466,52616,Zostera,Eelgrasses,eats
+203466,47126,Plantae,plants,eats
+203466,48216,Fucus vesiculosus,bladder wrack,eats
+203466,53707,Cladophora,,eats
+203466,,Pyrrophycophyta,,eats
+203466,,Khakista,,eats
+203466,,Prymnesiophyceae,,eats
+203466,,sediment,,eats
+203466,,Macroalgae,,eats
+203466,,Detritus,,eats
+203466,,Pilayella littoralis,,eats
+203466,,Enteropmorpha intestinalis,,eats
+203466,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+203466,47518,Salmo trutta,Brown Trout,eatenBy
+203466,84083,Spinachia spinachia,Sea Stickleback,eatenBy
+203466,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+203466,109631,Platichthys flesus,European Flounder,eatenBy
+203466,47523,Pleuronectes platessa,European Plaice,eatenBy
+203466,61387,Limanda limanda,Sand Dab,eatenBy
+203466,63740,Gadus morhua,Atlantic Cod,eatenBy
+203466,47639,Myoxocephalus scorpius,Shorthorn Sculpin,eatenBy
+203466,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+203466,118669,Diplodus sargus,White Bream,eatenBy
+203466,113535,Symphodus roissali,Five-spotted Wrasse,eatenBy
+203466,430553,Merlangius merlangus,Whiting,eatenBy
+203466,113533,Symphodus melops,Corkwing Wrasse,eatenBy
+203466,144222,Melanitta deglandi,White-winged Scoter,eatenBy
+203466,41413,Mesoplodon bidens,Sowerby's Beaked Whale,eatenBy
+203466,7164,Polysticta stelleri,Steller's Eider,eatenBy
+203466,118996,Ciliophora,Ciliates,preysOn
+203466,126917,Rotifera,Rotifers,preysOn
+203466,54539,Syngnathus,Pipe-fishes,preyedUponBy
+203466,132473,Lagodon rhomboides,Pinfish,preyedUponBy
+203466,146796,Sphoeroides maculatus,Northern Puffer,preyedUponBy
+203466,51404,Trichiurus lepturus,Largehead Hairtail,preyedUponBy
+203466,146828,Syngnathus fuscus,Northern Pipefish,preyedUponBy
+203466,51392,Morone saxatilis,Striped Bass,preyedUponBy
+203466,52306,Squalus acanthias,White-spotted Dogfish,preyedUponBy
+203466,94070,Anchoa mitchilli,Bay Anchovy,preyedUponBy
+203466,179447,Trachurus lathami,Rough Scad,preyedUponBy
+203466,213402,Ammodytes americanus,American Sand Lance,preyedUponBy
+203466,56042,Prionotus carolinus,Northern Searobin,preyedUponBy
+203466,52547,Tautoga onitis,Tautog,preyedUponBy
+203466,49243,Alosa sapidissima,American shad,preyedUponBy
+203466,100515,Etheostoma olmstedi,Tessellated Darter,preyedUponBy
+203466,179598,Eucinostomus gula,Silver Jenny,preyedUponBy
+203466,49237,Alosa,Anadromous Shads,preyedUponBy
+203466,39836,Malaclemys terrapin,Diamondback Terrapin,preyedUponBy
+203466,49225,Alosa aestivalis,Blueback Shad,preyedUponBy
+203466,216647,Chasmodes bosquianus,Striped Blenny,preyedUponBy
+203466,100359,Erimyzon oblongus,Eastern Creek Chubsucker,preyedUponBy
+203466,48400,Apeltes quadracus,Fourspine Stickleback,preyedUponBy
+203466,118669,Diplodus sargus,White Bream,preyedUponBy
+203466,430553,Merlangius merlangus,Whiting,preyedUponBy
+203466,113533,Symphodus melops,Corkwing Wrasse,preyedUponBy

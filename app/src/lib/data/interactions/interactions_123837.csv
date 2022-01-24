@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123837,21359,Bufonidae,True Toads,eats
+123837,,tachinid larvae,,eats
+123837,,Lonchaea,,eats
+123837,,recently drowned insects,,eats
+123837,47415,Pardosa,Thin-legged Wolf Spiders,eatenBy
+123837,,Emblyna borealis,,eatenBy
+123837,,saurians (unspec.),,eatenBy
+123837,,Chariessa pilosa,,eatenBy
+123837,,Misumenops nepenthicola,,eatenBy
+123837,,Lestodiplosis syringopais,,eatenBy
+123837,6667,Cypseloides niger,Black Swift,eatenBy
+123837,51901,Antennaria,pussytoes,pollinates
+123837,83541,Dryas octopetala,Mountain Avens,pollinates
+123837,,Saxifraga caespitosa,,pollinates
+123837,,Salix reticulata,,pollinates
+123837,144152,Saxifraga aizoides,Yellow Saxifrage,pollinates
+123837,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+123837,,Cerastium alpinum,,pollinates
+123837,,Bistorta vivipara,,pollinates
+123837,144183,Diapensia lapponica,Diapensia,pollinates
+123837,167346,Potentilla crantzii,Alpine Cinquefoil,pollinates
+123837,,Silene acaulis,,pollinates
+123837,143416,Pinguicula alpina,Alpine Butterwort,pollinates
+123837,,Saxifraga oppositifolia,,pollinates
+123837,,Viola biflora,,pollinates
+123837,,Cassiope,,pollinates
+123837,,tachinid larvae,,preysOn
+123837,,Lonchaea,,preysOn
+123837,,Chariessa pilosa,,preyedUponBy
+123837,,saurians (unspec.),,preyedUponBy
+123837,,Misumenops nepenthicola,,preyedUponBy

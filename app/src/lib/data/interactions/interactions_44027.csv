@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+44027,56955,Helianthus,sunflowers,eats
+44027,71257,Bouteloua gracilis,Blue Grama,eats
+44027,79185,Sporobolus cryptandrus,Sand Dropseed,eats
+44027,72378,Stipa,Needle Grasses,eats
+44027,,alpine vegetation,,eats
+44027,,Microtus ochrogaster,,eats
+44027,,Psoralidium tenuiflorum,,eats
+44027,75563,Aristida purpurea,Purple Threeawn,eats
+44027,,Kochia,,eats
+44027,,no name,,eats
+44027,,Hesperostipa comata,,eats
+44027,,Opuntia macrorhiza,,eats
+44027,,Pascopyrum smithii,,eats
+44027,,Atriplex canescens,,eats
+44027,126671,Sphaeralcea coccinea,Scarlet Globemallow,eats
+44027,71950,Agropyron,,eats
+44027,52693,Agrostis,bent grass,eats
+44027,42051,Canis latrans,Coyote,eatenBy
+44027,41976,Lynx rufus,Bobcat,eatenBy
+44027,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+44027,42069,Vulpes vulpes,Red Fox,eatenBy
+44027,19350,Strigiformes,Owls,eatenBy
+44027,526558,Mustelinae,Weasels,eatenBy
+44027,20044,Bubo virginianus,Great Horned Owl,eatenBy
+44027,20445,Tyto alba,Barn Owl,eatenBy
+44027,42054,Vulpes,Typical Foxes,eatenBy
+44027,4956,Ardea herodias,Great Blue Heron,eatenBy
+44027,1986,Geococcyx californianus,Greater Roadrunner,eatenBy
+44027,,Martes pennanti,,eatenBy
+44027,42070,Vulpes macrotis,Kit Fox,eatenBy
+44027,41641,Ursus arctos,Brown Bear,eatenBy
+44027,,Coyote,,eatenBy
+44027,41789,Taxidea taxus,American Badger,eatenBy
+44027,41852,Gulo gulo,Wolverine,eatenBy
+44027,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+44027,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+44027,20307,Asio otus,Long-eared Owl,eatenBy
+44027,,hawks and owls (7 species),,eatenBy
+44027,,coyote - weasel - skunk,,eatenBy
+44027,559064,Circus cyaneus,Hen Harrier,eatenBy
+44027,,Gulo,,eatenBy
+44027,,Meles,,eatenBy
+44027,,Aquila chrysaetos,,eatenBy
+44027,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+44027,144455,Ardea alba,Great Egret,preyedUponBy
+44027,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+44027,42051,Canis latrans,Coyote,preyedUponBy

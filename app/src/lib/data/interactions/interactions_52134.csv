@@ -1,0 +1,145 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52134,47126,Plantae,plants,eats
+52134,52134,Culicidae,Mosquitoes,eats
+52134,,Detritus,,eats
+52134,,small particle detritus,,eats
+52134,,Algae,,eats
+52134,,"Microorganisms (bacteria, protozoa, yeast)",,eats
+52134,,Recently drowned insects,,eats
+52134,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eatenBy
+52134,52134,Culicidae,Mosquitoes,eatenBy
+52134,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+52134,4940,Egretta thula,Snowy Egret,eatenBy
+52134,558433,Spatula discors,Blue-winged Teal,eatenBy
+52134,11867,Progne subis,Purple Martin,eatenBy
+52134,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+52134,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+52134,81554,Ictalurus punctatus,Channel Catfish,eatenBy
+52134,,Palaemonetes varians,,eatenBy
+52134,,Limnesia jamurensis,,eatenBy
+52134,997126,Limnesia koenikei,,eatenBy
+52134,992934,Hygrobates calliger,,eatenBy
+52134,,Thyas barbigera,,eatenBy
+52134,,Teutonia cometes,,eatenBy
+52134,784809,Hydryphantes ruber,,eatenBy
+52134,,Noterus clavicornis,,eatenBy
+52134,,Sialis lutaria,,eatenBy
+52134,,Agabus bipustulatus,,eatenBy
+52134,,Cyrnus flavidus,,eatenBy
+52134,84734,Agabus,,eatenBy
+52134,,Aeshna cyanea,,eatenBy
+52134,,Cymatia coleoptrata,,eatenBy
+52134,,Limnodynastes fletcheri,,eatenBy
+52134,,Anatopynia pennipes,,eatenBy
+52134,121463,Arrenurus,Water Mites,eatenBy
+52134,,Culicoides rabauli,,eatenBy
+52134,82782,Serranochromis robustus,Yellow-belly Bream,eatenBy
+52134,,"Terrestrial predators living around the pitchers (spiders, mantids, dragonflies)",,eatenBy
+52134,,Poecilia reticulata,,eatenBy
+52134,610823,Mimagoniates rheocharis,,eatenBy
+52134,,Crenicichla britskii,,eatenBy
+52134,,Lignobrycon myersi,,eatenBy
+52134,,Mogurnda adspersa,,eatenBy
+52134,,Aplocheilichthys myaposae,,eatenBy
+52134,,Aplocheilichthys johnstoni,,eatenBy
+52134,608771,Atherinella brasiliensis,,eatenBy
+52134,,Gasteropelecus maculatus,,eatenBy
+52134,,Saccoderma melanostigma,,eatenBy
+52134,,Nanocheirodon insignis,,eatenBy
+52134,172357,Hoplias malabaricus,Wolf Fish,eatenBy
+52134,620752,Pygocentrus cariba,Black Spot Piranha,eatenBy
+52134,491991,Caquetaia kraussii,Krauss' Basketmouth,eatenBy
+52134,,Serrasalmus medinai,,eatenBy
+52134,,Charax gibbosus,,eatenBy
+52134,,Hucho hucho,,eatenBy
+52134,516329,Astyanax bimaculatus,Twospot Astyanax,eatenBy
+52134,,Astyanax schubarti,,eatenBy
+52134,368587,Hypseleotris compressa,Empire Gudgeon,eatenBy
+52134,,Agonostomus monticola,,eatenBy
+52134,619433,Gambusia manni,Bahama gambusia,eatenBy
+52134,,Betta splendens,,eatenBy
+52134,,Poecilia vivipara,,eatenBy
+52134,,Nothobranchius orthonotus,,eatenBy
+52134,98445,Coregonus clupeaformis,Lake Whitefish,eatenBy
+52134,106405,Mystus montanus,Wynaad Mystus,eatenBy
+52134,,Brycinus leuciscus,,eatenBy
+52134,104824,Lucania parva,rainwater killifish,eatenBy
+52134,,Tachysurus brashnikowi,,eatenBy
+52134,,Tachysurus herzensteini,,eatenBy
+52134,,Tachysurus fulvidraco,,eatenBy
+52134,,Hepsetus odoe,,eatenBy
+52134,611580,Mesonauta acora,Tocantins Flag Cichlid,eatenBy
+52134,,Salvelinus alpinus,,eatenBy
+52134,48648,Salmo salar,Atlantic Salmon,eatenBy
+52134,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+52134,,Copera marginipes,,eatenBy
+52134,,Eriophora ravilla,,eatenBy
+52134,,Spinus pinus,,eatenBy
+52134,,Setophaga townsendi,,eatenBy
+52134,609411,Brycon dentex,,eatenBy
+52134,4937,Egretta caerulea,Little Blue Heron,eatenBy
+52134,649,Francolinus francolinus,Black Francolin,eatenBy
+52134,6924,Anas rubripes,American Black Duck,eatenBy
+52134,72502,Anas chlorotis,Brown Teal,eatenBy
+52134,,Salpinctes obsoletus,,eatenBy
+52134,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+52134,,Corvus caurinus,,eatenBy
+52134,3850,Calidris himantopus,Stilt Sandpiper,eatenBy
+52134,57628,Eryngium,Eryngos,pollinates
+52134,58996,Clematis ligusticifolia,western virgin's bower,pollinates
+52134,,Trichopetalum plumosum,,pollinates
+52134,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+52134,,Malaxis unifolia,,pollinates
+52134,,Polygala lewtonii,,pollinates
+52134,,epipellic flora,,preysOn
+52134,,Detritus,,preysOn
+52134,144491,Tringa semipalmata,Willet,preyedUponBy
+52134,53809,Phidippus audax,Bold Jumping Spider,preyedUponBy
+52134,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+52134,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+52134,,Cymatia coleoptrata,,preyedUponBy
+52134,,Aeshna cyanea,,preyedUponBy
+52134,84734,Agabus,,preyedUponBy
+52134,,Lavia frons,,preyedUponBy
+52134,,Rhinolophus rouxii,,preyedUponBy
+52134,40715,Hipposideros ater,Dusky Roundleaf Bat,preyedUponBy
+52134,40705,Rhinolophus lepidus,Blyth's Horseshoe Bat,preyedUponBy
+52134,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+52134,40746,Hipposideros speoris,Schneider's roundleaf bat,preyedUponBy
+52134,,Myotis hasseltii,,preyedUponBy
+52134,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy
+52134,84722,Ischnura verticalis,Eastern Forktail,preyedUponBy
+52134,,Noterus clavicornis,,preyedUponBy
+52134,,Sialis lutaria,,preyedUponBy
+52134,,Agabus bipustulatus,,preyedUponBy
+52134,,Cyrnus flavidus,,preyedUponBy
+52134,40550,Chalinolobus tuberculatus,Long-tailed Wattled Bat,preyedUponBy
+52134,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+52134,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+52134,74432,Hipposideros sorenseni,Sorensen's Leaf-nosed Bat,preyedUponBy
+52134,207811,Eptesicus serotinus,Serotine Bat,preyedUponBy
+52134,,Eptesicus nilssonii,,preyedUponBy
+52134,,Pipistrellus nathusii,,preyedUponBy
+52134,,Nyctalus leisleri,,preyedUponBy
+52134,,Myotis dasycneme,,preyedUponBy
+52134,,Myotis daubentonii,,preyedUponBy
+52134,,Myotis brandtii,,preyedUponBy
+52134,40314,Myotis mystacinus,Whiskered Bat,preyedUponBy
+52134,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+52134,320633,Rhinolophus clivosus,Geoffroy's horseshoe bat,preyedUponBy
+52134,,Hypsugo ariel,,preyedUponBy
+52134,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+52134,74717,Myotis punicus,Felten's myotis,preyedUponBy
+52134,,Rhinolophus blasii,,preyedUponBy
+52134,40677,Rhinolophus euryale,Mediterranean horseshoe bat,preyedUponBy
+52134,,Phyllostomus hastatus,,preyedUponBy
+52134,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+52134,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+52134,40572,Nyctalus noctula,Common Noctule,preyedUponBy
+52134,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+52134,40629,Lasionycteris noctivagans,Silver-haired Bat,preyedUponBy
+52134,40342,Myotis californicus,California Myotis,preyedUponBy
+52134,40354,Myotis evotis,Miller's Myotis,preyedUponBy
+52134,,Myotis austroriparius,,preyedUponBy
+52134,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+52134,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy

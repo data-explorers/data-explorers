@@ -1,0 +1,71 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+99269,85493,Crustacea,Crustaceans,eats
+99269,47490,Polychaeta,Polychaete Worms,eats
+99269,47158,Insecta,Insects,eats
+99269,85912,Mysidae,,eats
+99269,47628,Amphipoda,Amphipods,eats
+99269,47828,Cancridae,Rock Crabs,eats
+99269,52523,Carcinus maenas,European Green Crab,eats
+99269,54960,Nematoda,Nematodes,eats
+99269,48220,Phaeophyceae,brown algae,eats
+99269,47186,Decapoda,Decapods,eats
+99269,85514,Cyclopoida,Cyclopoid Copepods,eats
+99269,210289,Cirripedia,Barnacles,eats
+99269,47822,Diptera,Flies,eats
+99269,85521,Harpacticoida,Harpacticoid Copepods,eats
+99269,1,Animalia,Animals,eats
+99269,121643,Copepoda,Copepods,eats
+99269,99269,Dicentrarchus labrax,European Seabass,eats
+99269,483941,Neomysis integer,,eats
+99269,,Nereis diversicolor,,eats
+99269,,Osteichthyes,,eats
+99269,144114,Peracarida,Amphipods and Isopods,eats
+99269,774778,Gymnoplea,,eats
+99269,118851,Crangon crangon,Brown Shrimp,eats
+99269,59806,Gammaridae,,eats
+99269,,Anaitides,,eats
+99269,337827,Hediste diversicolor,Estuary Ragworm,eats
+99269,64638,Corophium volutator,,eats
+99269,203480,Praunus flexuosus,Chameleon Shrimp,eats
+99269,,Leander serratus,,eats
+99269,679265,Oikopleura dioica,,eats
+99269,127705,Portunus,,eats
+99269,209138,Sphaeroma,,eats
+99269,324532,Sprattus sprattus,European Sprat,eats
+99269,,Schistomysis ornata,,eats
+99269,49236,Clupeidae,"Shads, Sardines, and Menhadens",eats
+99269,199325,Alitta succinea,Clam Worm,eats
+99269,118600,Sardina pilchardus,European Sardine,eats
+99269,,Schistomysis spiritus,,eats
+99269,,Palaemonetes varians,,eats
+99269,,Detritus,,eats
+99269,,Pisces,,eats
+99269,,,,eats
+99269,85507,Calanoida,Calanoid Copepods,eats
+99269,,unidentified eggs,,eats
+99269,,Gnathostomata,,eats
+99269,94786,Atherina boyeri,Big-scale Sand Smelt,eats
+99269,86396,Ammodytes,,eats
+99269,,Fimbria,,eats
+99269,113578,Syngnathus abaster,Shortsnouted Pipefish,eats
+99269,91235,Pomatoschistus,,eats
+99269,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+99269,41526,Delphinus delphis,Short-beaked Common Dolphin,eatenBy
+99269,99269,Dicentrarchus labrax,European Seabass,eatenBy
+99269,63740,Gadus morhua,Atlantic Cod,eatenBy
+99269,110361,Prionace glauca,Blue Shark,eatenBy
+99269,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+99269,41733,Halichoerus grypus,Grey Seal,eatenBy
+99269,52523,Carcinus maenas,European Green Crab,preysOn
+99269,99269,Dicentrarchus labrax,European Seabass,preysOn
+99269,,Schistomysis spiritus,,preysOn
+99269,118851,Crangon crangon,Brown Shrimp,preysOn
+99269,49236,Clupeidae,"Shads, Sardines, and Menhadens",preysOn
+99269,118600,Sardina pilchardus,European Sardine,preysOn
+99269,199325,Alitta succinea,Clam Worm,preysOn
+99269,,Palaemonetes varians,,preysOn
+99269,94786,Atherina boyeri,Big-scale Sand Smelt,preysOn
+99269,113578,Syngnathus abaster,Shortsnouted Pipefish,preysOn
+99269,208364,Arenicola marina,Blow Lugworm,preysOn
+99269,99269,Dicentrarchus labrax,European Seabass,preyedUponBy
+99269,,no name,,preyedUponBy

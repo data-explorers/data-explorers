@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+154551,130872,Schinus terebinthifolia,Brazilian pepper,eats
+154551,64122,Malosma laurina,laurel sumac,eats
+154551,58331,Datura wrightii,sacred datura,eats
+154551,76290,Chilopsis linearis,desert willow,eats
+154551,,Punica granatum,,eats
+154551,,Setophaga nigrescens,,eatenBy
+154551,,Setophaga nigrescens,,preyedUponBy

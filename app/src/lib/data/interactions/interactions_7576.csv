@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7576,47124,Magnoliopsida,dicots,eats
+7576,47118,Araneae,Spiders,eats
+7576,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+7576,47822,Diptera,Flies,eats
+7576,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+7576,47157,Lepidoptera,Butterflies and Moths,eats
+7576,47208,Coleoptera,Beetles,eats
+7576,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+7576,125816,Auchenorrhyncha,True Hoppers,eats
+7576,47336,Formicidae,Ants,eats
+7576,61267,Heteroptera,True Bugs,eats
+7576,48736,Curculionidae,True Weevils,eats
+7576,51146,Chrysomelidae,Leaf Beetles,eats
+7576,48486,Coccinellidae,Lady Beetles,eats
+7576,47793,Dermaptera,Earwigs,eats
+7576,61356,Vespula,Ground Yellowjackets,eats
+7576,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+7576,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+7576,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+7576,47158,Insecta,Insects,preysOn
+7576,47157,Lepidoptera,Butterflies and Moths,preysOn
+7576,83722,Anyphaenidae,Ghost Spiders,preysOn
+7576,,Tenebrio molitor,,preysOn
+7576,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy

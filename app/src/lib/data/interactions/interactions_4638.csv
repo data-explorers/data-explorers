@@ -1,0 +1,127 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4638,35707,Podarcis carbonelli,Carbonell’s Wall Lizard,eats
+4638,7294,Eremophila alpestris,Horned Lark,eats
+4638,44259,Microtus,Meadow Voles,eats
+4638,13858,Passer domesticus,House Sparrow,eats
+4638,14850,Sturnus vulgaris,European Starling,eats
+4638,,Loxia pytyopsittacus,,eats
+4638,,Montifringilla nivalis,,eats
+4638,,Loxia curvirostra,,eats
+4638,,Sorex satunini,,eats
+4638,,Pelophylax kl. grafi,,eats
+4638,,Dinarolacerta montenegrina,,eats
+4638,,Microtus bavaricus,,eats
+4638,15302,Sylvia borin,Garden Warbler,eats
+4638,,Timon princeps,,eats
+4638,,Darevskia raddei,,eats
+4638,25616,Rana italica,Italian Stream Frog,eats
+4638,,Anatololacerta anatolica,,eats
+4638,14849,Sturnus unicolor,Spotless Starling,eats
+4638,145108,Pastor roseus,Rosy Starling,eats
+4638,25664,Rana latastei,Italian Agile Frog,eats
+4638,,Mus spicilegus,,eats
+4638,,Lullula arborea,,eats
+4638,,Crocidura canariensis,,eats
+4638,,Darevskia valentini,,eats
+4638,,Anthus hodgsoni,,eats
+4638,,Chersophilus duponti,,eats
+4638,145303,Spinus spinus,Eurasian Siskin,eats
+4638,,Podarcis raffoneae,,eats
+4638,,Algyroides nigropunctatus,,eats
+4638,,Petronia petronia,,eats
+4638,25660,Rana pyrenaica,Pyrenean frog,eats
+4638,,Emberiza buchanani,,eats
+4638,,Iberolacerta martinezricai,,eats
+4638,,Podarcis tauricus,,eats
+4638,,Sylvia cantillans,,eats
+4638,,Sorex caecutiens,,eats
+4638,,Microtus arvalis,,eats
+4638,,Darevskia rostombekovi,,eats
+4638,121094,Chalcides simonyi,Canaryan Cylindrical Skink,eats
+4638,13686,Motacilla,Wagtails,eats
+4638,,Microtus agrestis,,eats
+4638,,Loxia scotica,,eats
+4638,117059,Plectrophenax nivalis,Snow Bunting,eats
+4638,,Fringilla teydea,,eats
+4638,,Emberiza pusilla,,eats
+4638,,Anthus pratensis,,eats
+4638,,Microtus gerbei,,eats
+4638,,Darevskia saxicola,,eats
+4638,,Sylvia mystacea,,eats
+4638,,Ophisops elegans,,eats
+4638,9246,Serinus canaria,Island Canary,eats
+4638,36056,Algyroides marchi,Spanish Algyroides,eats
+4638,,Phoenicurus ochruros,,eats
+4638,,Lacerta trilineata,,eats
+4638,44653,Tatera indica,Indian Gerbil,eats
+4638,12828,Oenanthe finschii,Finsch's Wheatear,eats
+4638,,Darevskia armeniaca,,eats
+4638,,Darevskia brauneri,,eats
+4638,66314,Pelophylax bedriagae,Levant Green Frog,eats
+4638,7697,Cisticola juncidis,Zitting Cisticola,eats
+4638,,Oenanthe deserti,,eats
+4638,12838,Oenanthe leucura,Black Wheatear,eats
+4638,,Podarcis sicula,,eats
+4638,9462,Pyrrhula pyrrhula,Eurasian Bullfinch,eats
+4638,10070,Fringilla coelebs,Common Chaffinch,eats
+4638,,Passer montanus,,eats
+4638,,Mesocricetus brandti,,eats
+4638,25665,Rana iberica,Iberian Frog,eats
+4638,,Loxia leucoptera,,eats
+4638,,Linaria flavirostris,,eats
+4638,116840,Calcarius lapponicus,Lapland Longspur,eats
+4638,,Microtus daghestanicus,,eats
+4638,,Emberiza hortulana,,eats
+4638,,Sylvia melanocephala,,eats
+4638,,Sorex coronatus,,eats
+4638,7707,Prinia gracilis,Graceful Prinia,eats
+4638,,Rhodospiza obsoleta,,eats
+4638,,Phoenicurus phoenicurus,,eats
+4638,,Myopus schisticolor,,eats
+4638,,Coccothraustes coccothraustes,,eats
+4638,55371,Saxicola torquatus,African Stonechat,eats
+4638,,Emberiza calandra,,eats
+4638,,Emberiza melanocephala,,eats
+4638,,Darevskia parvula,,eats
+4638,9227,Serinus,Eurasian Serins and Canaries,eats
+4638,,Fringilla montifringilla,,eats
+4638,,Myodes rufocanus,,eats
+4638,,Crocidura sicula,,eats
+4638,,Mesalina brevirostris,,eats
+4638,,Oenanthe cypriaca,,eats
+4638,1319807,Pelophylax ridibundus,Marsh frog complex,eats
+4638,,Emberiza citrinella,,eats
+4638,,Microtus socialis,,eats
+4638,66319,Pelophylax cretensis,Cretan Frog,eats
+4638,36012,Eremias velox,Rapid Racerunner,eats
+4638,,Podarcis hispanicus,,eats
+4638,9210,Emberiza leucocephalos,Pine Bunting,eats
+4638,13711,Anthus trivialis,Tree Pipit,eats
+4638,44673,Meriones meridianus,Mid-day Jird,eats
+4638,,Motacilla cinerea,,eats
+4638,8010,Corvus corax,Common Raven,eatenBy
+4638,47158,Insecta,Insects,eatenBy
+4638,42158,Cervidae,Deer,eatenBy
+4638,44259,Microtus,Meadow Voles,eatenBy
+4638,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4638,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+4638,4684,Falco biarmicus,Lanner Falcon,eatenBy
+4638,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+4638,19898,Strix aluco,Tawny Owl,eatenBy
+4638,204496,Corvus corone,Carrion Crow,eatenBy
+4638,8029,Corvus frugilegus,Rook,eatenBy
+4638,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+4638,,Elaphe situla,,eatenBy
+4638,39407,Varanus griseus,Desert Monitor,eatenBy
+4638,27035,Hierophis viridiflavus carbonarius,,eatenBy
+4638,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+4638,28451,Telescopus nigriceps,Black headed snake,eatenBy
+4638,,Limicolae,,eatenBy
+4638,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+4638,45684,Dicrostonyx,Collared Lemmings,eatenBy
+4638,930,Lagopus,Ptarmigans,eatenBy
+4638,949,Lagopus muta,Rock Ptarmigan,eatenBy
+4638,,microtine mammals,,eatenBy
+4638,,Rangifer tarandus,,eatenBy
+4638,14850,Sturnus vulgaris,European Starling,preysOn
+4638,25488,Rana arvalis,Moor Frog,preysOn

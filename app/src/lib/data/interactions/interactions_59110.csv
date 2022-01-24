@@ -1,0 +1,61 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59110,6930,Anas platyrhynchos,Mallard,eatenBy
+59110,558439,Mareca strepera,Gadwall,eatenBy
+59110,6915,Cygnus buccinator,Trumpeter Swan,eatenBy
+59110,6913,Cygnus,True Swans,eatenBy
+59110,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+59110,7044,Aythya collaris,Ring-necked Duck,eatenBy
+59110,473,Fulica americana,American Coot,eatenBy
+59110,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+59110,7107,Aix sponsa,Wood Duck,eatenBy
+59110,,Hydrellia fascitibia,,eatenBy
+59110,,Triaenodes marginatus,,eatenBy
+59110,,Donacia hirticollis,,eatenBy
+59110,,Hydrellia ascita,,eatenBy
+59110,,Notiphila loewi,,eatenBy
+59110,,Hydromyza confluens,,eatenBy
+59110,,Hydrellia cruralis,,eatenBy
+59110,,Donacia cincticornis,,eatenBy
+59110,,Hydrellia luctuosa,,eatenBy
+59110,,Paraponyx allionealis,,eatenBy
+59110,,Euhrychiopsis lecontei,,eatenBy
+59110,,Bagous tingi,,eatenBy
+59110,,Hydrellia bilobifera,,eatenBy
+59110,,Langessa nomophilalis,,eatenBy
+59110,,Bagous chandleri,,eatenBy
+59110,214830,Bagous transversus,,eatenBy
+59110,,Bagous restrictus,,eatenBy
+59110,,Rhopalosiphum nymphaeae,,eatenBy
+59110,7046,Aythya fuligula,Tufted Duck,eatenBy
+59110,7045,Aythya ferina,Common Pochard,eatenBy
+59110,,Parapoynx seminealis,,eatenBy
+59110,,Synclita obliteralis,,eatenBy
+59110,,Parapoynx obscuralis,,eatenBy
+59110,,Fulica atra,,eatenBy
+59110,107888,Oreochromis mortimeri,Kariba Tilapia,eatenBy
+59110,,Sarmarutilus rubilio,,eatenBy
+59110,41641,Ursus arctos,Brown Bear,eatenBy
+59110,,Anas clypeata,,eatenBy
+59110,,Bagous (Bagous) limosus,,eatenBy
+59110,491991,Caquetaia kraussii,Krauss' Basketmouth,eatenBy
+59110,69989,Rutilus rutilus,Common Roach,eatenBy
+59110,43997,Myocastor coypus,Coypu,eatenBy
+59110,7054,Aythya affinis,Lesser Scaup,eatenBy
+59110,7056,Aythya americana,Redhead,eatenBy
+59110,6902,Thalassornis leuconotus,White-backed Duck,eatenBy
+59110,,Sarkidiornis melanotos sylvicola,,eatenBy
+59110,162,Porzana carolina,Sora,eatenBy
+59110,,Nettapus pulchellus,,eatenBy
+59110,7072,Tadorna variegata,Paradise Shelduck,eatenBy
+59110,6990,Bucephala clangula,Common Goldeneye,eatenBy
+59110,7057,Aythya valisineria,Canvasback,eatenBy
+59110,7023,Somateria,Typical Eiders,eatenBy
+59110,7164,Polysticta stelleri,Steller's Eider,eatenBy
+59110,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+59110,,Cygnus melancoryphus,,eatenBy
+59110,,Aythya novaeseelandiae,,eatenBy
+59110,7047,Aythya marila,Greater Scaup,eatenBy
+59110,6937,Anas crecca,Green-winged Teal,eatenBy
+59110,6933,Anas acuta,Northern Pintail,eatenBy
+59110,,Anas penelope,,eatenBy
+59110,,Wind,,pollinatedBy

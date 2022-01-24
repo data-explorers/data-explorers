@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58392,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+58392,,Dendrocygna bicolor,,eatenBy
+58392,,Athya erythrophthalma,,eatenBy
+58392,6898,Dendrocygna viduata,White-faced Whistling-Duck,eatenBy
+58392,,Ctenopharyngodon idella,,eatenBy
+58392,,Calamotropha lupatus,,eatenBy
+58392,,Leptoglossus gonagra,,eatenBy
+58392,214967,Bellura obliqua,Cattail Borer Moth,eatenBy
+58392,6905,Anseranas semipalmata,Magpie Goose,eatenBy

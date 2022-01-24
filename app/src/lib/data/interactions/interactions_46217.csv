@@ -1,0 +1,57 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+46217,53374,Corylus cornuta,beaked hazelnut,eats
+46217,,Magnoliophyta,,eats
+46217,,Dissosteira carolina,,eats
+46217,63205,Arachis hypogaea,Peanut,eats
+46217,,Juglans nigra,,eats
+46217,,Rubus idaeus,,eats
+46217,48448,Zea mays,Maize,eats
+46217,42051,Canis latrans,Coyote,eatenBy
+46217,41976,Lynx rufus,Bobcat,eatenBy
+46217,26172,Squamata,Snakes and Lizards,eatenBy
+46217,41801,Mustela,,eatenBy
+46217,42069,Vulpes vulpes,Red Fox,eatenBy
+46217,4637,Falconidae,Falcons and Caracaras,eatenBy
+46217,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+46217,19350,Strigiformes,Owls,eatenBy
+46217,8021,Corvus brachyrhynchos,American Crow,eatenBy
+46217,19893,Strix varia,Barred Owl,eatenBy
+46217,118552,Felis catus,Domestic Cat,eatenBy
+46217,119115,Calliphora vicina,Blue Blowfly,eatenBy
+46217,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+46217,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+46217,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+46217,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+46217,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+46217,20445,Tyto alba,Barn Owl,eatenBy
+46217,,Martes pennanti,,eatenBy
+46217,30746,Crotalus horridus,Timber Rattlesnake,eatenBy
+46217,,Vulpes vulpes fulvus,,eatenBy
+46217,,Pantherophis alleghaniensis,,eatenBy
+46217,,Pantherophis spiloides,,eatenBy
+46217,41798,Martes americana,American Marten,eatenBy
+46217,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+46217,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+46217,20307,Asio otus,Long-eared Owl,eatenBy
+46217,26575,Diadophis punctatus,ring-necked snake,preysOn
+46217,9135,Spizella passerina,Chipping Sparrow,preysOn
+46217,145310,Spinus tristis,American Goldfinch,preysOn
+46217,69758,Lumbricidae,Earthworms,preysOn
+46217,46217,Tamias striatus,Eastern Chipmunk,preysOn
+46217,133790,Chalybion californicum,Nearctic Blue Mud-dauber Wasp,preysOn
+46217,83854,Magicicada,Periodical Cicadas,preysOn
+46217,42069,Vulpes vulpes,Red Fox,preyedUponBy
+46217,19893,Strix varia,Barred Owl,preyedUponBy
+46217,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+46217,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+46217,47144,Canis familiaris,Domestic Dog,preyedUponBy
+46217,46217,Tamias striatus,Eastern Chipmunk,preyedUponBy
+46217,118552,Felis catus,Domestic Cat,preyedUponBy
+46217,73888,Pantherophis obsoletus,Western Ratsnake,preyedUponBy
+46217,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy
+46217,5097,Accipiter striatus,Sharp-shinned Hawk,preyedUponBy
+46217,19765,Megascops asio,Eastern Screech-Owl,preyedUponBy
+46217,,Vulpes vulpes fulvus,,preyedUponBy
+46217,,Pantherophis alleghaniensis,,preyedUponBy
+46217,41798,Martes americana,American Marten,preyedUponBy
+46217,,Mustela erminea richardsonii,,preyedUponBy

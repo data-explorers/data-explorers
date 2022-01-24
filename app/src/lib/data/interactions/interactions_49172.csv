@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49172,88563,Gobius,,eats
+49172,342912,Caridea,Caridean Shrimps,eats
+49172,57298,Hemiramphidae,Halfbeaks,eats
+49172,47490,Polychaeta,Polychaete Worms,eats
+49172,47295,Lutjanidae,Snappers,eats
+49172,49506,Portunidae,Swimming Crabs,eats
+49172,47584,Bivalvia,Bivalves,eats
+49172,49944,Gerreidae,Mojarras,eats
+49172,113309,Strongylura scapularis,Shoulderspot Needlefish,eats
+49172,,Detritus,,eats
+49172,,Pleuronectiformes,,eats
+49172,94904,Auchenoglanis biscutatus,,eats
+49172,,Miscelaneous,,eats
+49172,,Large Zoo,,eats
+49172,,Middlebenthos,,eats
+49172,,Small Zoo,,eats
+49172,,Macrobenthos,,eats
+49172,59807,Gammarus,,eats
+49172,203397,Acartia tonsa,,eats
+49172,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49172,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+49172,47295,Lutjanidae,Snappers,eatenBy
+49172,47765,Serranidae,Groupers and Sea Basses,eatenBy
+49172,144539,Thalasseus maximus,Royal Tern,eatenBy
+49172,47296,Lutjanus,Common Snappers,eatenBy
+49172,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+49172,,Mexican mojarras,,eatenBy
+49172,113309,Strongylura scapularis,Shoulderspot Needlefish,eatenBy
+49172,,Pungitius pungitius pungitius,,eatenBy
+49172,49438,Centropomidae,Snooks,eatenBy
+49172,,Sea,,eatenBy
+49172,82353,Merluccius,Hakes,eatenBy
+49172,,Morone,,eatenBy
+49172,63740,Gadus morhua,Atlantic Cod,eatenBy
+49172,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+49172,103531,Isogomphodon oxyrhynchus,Daggernose Shark,eatenBy
+49172,51404,Trichiurus lepturus,Largehead Hairtail,eatenBy
+49172,459205,Beryx splendens,Alfonsino,eatenBy
+49172,54440,Synodus foetens,Inshore Lizardfish,eatenBy
+49172,317477,Micropogonias furnieri,Whitemouth Croaker,eatenBy
+49172,49513,Cynoscion,Weakfishes,eatenBy
+49172,342484,Hydrolycus scomberoides,Payara,eatenBy
+49172,361335,Plagioscion squamosissimus,,eatenBy
+49172,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+49172,68050,Alopias pelagicus,Pelagic Thresher Shark,eatenBy
+49172,91882,Saurida,,eatenBy
+49172,154501,Cynoscion nothus,Silver Seatrout,eatenBy
+49172,108562,Paralichthys lethostigma,Southern Flounder,eatenBy
+49172,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+49172,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+49172,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+49172,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+49172,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+49172,57814,Pogonias cromis,Black Drum,eatenBy
+49172,179459,Serranus subligarius,Belted sandfish,eatenBy
+49172,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+49172,179633,Chloroscombrus chrysurus,Atlantic Bumper,eatenBy
+49172,128750,Sciaenops ocellatus,Red Drum,eatenBy
+49172,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+49172,120614,Euthynnus alletteratus,Little Tunny,eatenBy
+49172,179545,Menticirrhus americanus,Southern Kingfish,eatenBy
+49172,84996,Carcharhinus leucas,Bull Shark,eatenBy
+49172,179563,Leiostomus xanthurus,Spot Croaker,eatenBy
+49172,131491,Rachycentron canadum,Cobia,eatenBy
+49172,179482,Porichthys plectrodon,Atlantic Midshipman,eatenBy
+49172,154500,Cynoscion regalis,Weakfish,eatenBy
+49172,104249,Lepisosteus oculatus,Spotted Gar,eatenBy
+49172,104250,Lepisosteus platostomus,Shortnose Gar,eatenBy
+49172,90190,Nemipterus,Threadfin Breams,eatenBy
+49172,621641,Eupleurogrammus muticus,Smallhead hairtail,eatenBy
+49172,49165,Larimus breviceps,Shorthead Drum,eatenBy
+49172,620314,Isopisthus parvipinnis,,eatenBy
+49172,4937,Egretta caerulea,Little Blue Heron,eatenBy
+49172,49506,Portunidae,Swimming Crabs,preysOn
+49172,88563,Gobius,,preysOn
+49172,47295,Lutjanidae,Snappers,preysOn
+49172,47584,Bivalvia,Bivalves,preysOn
+49172,342912,Caridea,Caridean Shrimps,preysOn
+49172,47490,Polychaeta,Polychaete Worms,preysOn
+49172,57298,Hemiramphidae,Halfbeaks,preysOn
+49172,85521,Harpacticoida,Harpacticoid Copepods,preysOn
+49172,113309,Strongylura scapularis,Shoulderspot Needlefish,preysOn
+49172,94904,Auchenoglanis biscutatus,,preysOn
+49172,,Pleuronectiformes,,preysOn
+49172,49944,Gerreidae,Mojarras,preysOn
+49172,,Large Zoo,,preysOn
+49172,,Miscelaneous,,preysOn
+49172,,Macrobenthos,,preysOn
+49172,,Small Zoo,,preysOn
+49172,203397,Acartia tonsa,,preysOn
+49172,,Paleomonetes,,preysOn
+49172,47295,Lutjanidae,Snappers,preyedUponBy
+49172,47765,Serranidae,Groupers and Sea Basses,preyedUponBy
+49172,200388,Hydrophis hardwickii,Hardwicke’s Spine-bellied Seasnake,preyedUponBy
+49172,49438,Centropomidae,Snooks,preyedUponBy
+49172,,Mexican mojarras,,preyedUponBy
+49172,,Sea,,preyedUponBy
+49172,,Pungitius pungitius pungitius,,preyedUponBy
+49172,113309,Strongylura scapularis,Shoulderspot Needlefish,preyedUponBy
+49172,49513,Cynoscion,Weakfishes,preyedUponBy
+49172,,Morone,,preyedUponBy
+49172,5063,Anhinga anhinga,Anhinga,preyedUponBy

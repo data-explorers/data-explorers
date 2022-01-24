@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55025,67334,Cyanobacteria,cyanobacteria,eats
+55025,,plankton,,eats
+55025,,Macroalgae,,eats
+55025,,Khakista,,eats
+55025,,Pyrrophycophyta,,eats
+55025,,Prymnesiophyceae,,eats
+55025,210120,Marthasterias,Long-armed Starfishes,eatenBy
+55025,340825,Scylla serrata,Mud Crab,eatenBy
+55025,61383,Homarus americanus,American Lobster,eatenBy
+55025,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+55025,63740,Gadus morhua,Atlantic Cod,eatenBy
+55025,,Mallotus japonicus,,pollinates
+55025,,Schefflera,,pollinates
+55025,118996,Ciliophora,Ciliates,preysOn
+55025,126917,Rotifera,Rotifers,preysOn
+55025,132473,Lagodon rhomboides,Pinfish,preyedUponBy
+55025,101053,Fundulus diaphanus,banded killifish,preyedUponBy
+55025,54539,Syngnathus,Pipe-fishes,preyedUponBy
+55025,49504,Callinectes sapidus,Atlantic Blue Crab,preyedUponBy
+55025,,Limulus polyphemus,,preyedUponBy
+55025,179454,Syacium papillosum,Dusky Flounder,preyedUponBy
+55025,104824,Lucania parva,rainwater killifish,preyedUponBy
+55025,146600,Micropogonias undulatus,Atlantic Croaker,preyedUponBy
+55025,179444,Upeneus parvus,Dwarf Goatfish,preyedUponBy
+55025,61388,Scophthalmus aquosus,Windowpane Flounder,preyedUponBy
+55025,58654,Ameiurus nebulosus,Brown Bullhead,preyedUponBy
+55025,49823,Acipenser brevirostrum,Shortnose Sturgeon,preyedUponBy
+55025,83439,Centropristis striata,Black Sea Bass,preyedUponBy
+55025,179427,Aluterus schoepfii,Orange Filefish,preyedUponBy
+55025,58657,Ameiurus natalis,Yellow Bullhead,preyedUponBy
+55025,93844,Ameiurus catus,White Catfish,preyedUponBy
+55025,179447,Trachurus lathami,Rough Scad,preyedUponBy
+55025,49316,Chaetodipterus faber,Atlantic Spadefish,preyedUponBy
+55025,179620,Cynoscion nebulosus,Spotted Seatrout,preyedUponBy
+55025,179445,Trachinotus falcatus,Permit,preyedUponBy
+55025,146796,Sphoeroides maculatus,Northern Puffer,preyedUponBy
+55025,317228,Mullus auratus,Red Goatfish,preyedUponBy
+55025,93187,Acipenser oxyrinchus,Atlantic Sturgeon,preyedUponBy
+55025,82264,Chilomycterus schoepfii,Striped Burrfish,preyedUponBy
+55025,213402,Ammodytes americanus,American Sand Lance,preyedUponBy
+55025,216647,Chasmodes bosquianus,Striped Blenny,preyedUponBy
+55025,39836,Malaclemys terrapin,Diamondback Terrapin,preyedUponBy
+55025,179598,Eucinostomus gula,Silver Jenny,preyedUponBy
+55025,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+55025,48902,Asterias forbesi,Forbes's Sea Star,preyedUponBy
+55025,,Etrumeus teres,,preyedUponBy

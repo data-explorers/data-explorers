@@ -1,0 +1,65 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+203761,48919,Littorina,Periwinkles,eats
+203761,118832,Semibalanus balanoides,Northern Acorn Barnacle,eats
+203761,117650,Mytilus edulis,Blue Mussel,eats
+203761,81648,Mytilus galloprovincialis,Mediterranean Mussel,eats
+203761,48216,Fucus vesiculosus,bladder wrack,eats
+203761,123632,Corallina officinalis,Common Coralline,eats
+203761,67423,Ulva lactuca,broadleaf sea lettuce,eats
+203761,3,Aves,Birds,eats
+203761,47534,Cnidaria,Cnidarians,eats
+203761,130177,Sargassum muticum,Japanese Wireweed,eats
+203761,85493,Crustacea,Crustaceans,eats
+203761,47115,Mollusca,Molluscs,eats
+203761,1,Animalia,Animals,eats
+203761,130091,Spirorbis,Spiral Fanworms,eats
+203761,415169,Testudinalia testudinalis,Tortoiseshell Limpet,eats
+203761,48916,Littorina obtusata,Flat Periwinkle,eats
+203761,326759,Lithophyllum incrustans,,eats
+203761,543094,Lomentaria articulata,,eats
+203761,57772,Fucus serratus,Saw Wrack,eats
+203761,182991,Palmaria palmata,Dulse,eats
+203761,701524,Furcellaria lumbricalis,,eats
+203761,201435,Ulva linza,Green string lettuce,eats
+203761,129737,Colpomenia peregrina,Oyster-thief,eats
+203761,1297852,Halurus equisetifolius,,eats
+203761,183154,Rhodomela confervoides,,eats
+203761,361840,Jania rubens,,eats
+203761,,http://treatment.plazi.org/id/D42A6ADF3C22CB68DB45D5CF1BA087AD,,eats
+203761,182896,Desmarestia aculeata,Witch's hair,eats
+203761,,Polysiphonia sp.,,eats
+203761,,Mytilus trossulus,,eats
+203761,210230,Cerastoderma edule,Common Cockle,eats
+203761,464006,Eulalia viridis,Green Leaf Worm,eatenBy
+203761,118704,Gobius niger,Black Goby,eatenBy
+203761,113528,Symphodus bailloni,Baillon's Wrasse,eatenBy
+203761,7023,Somateria,Typical Eiders,eatenBy
+203761,41720,Erignathus barbatus,Bearded Seal,eatenBy
+203761,7164,Polysticta stelleri,Steller's Eider,eatenBy
+203761,,Calidris maritima,,eatenBy
+203761,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+203761,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+203761,118832,Semibalanus balanoides,Northern Acorn Barnacle,preysOn
+203761,117650,Mytilus edulis,Blue Mussel,preysOn
+203761,48919,Littorina,Periwinkles,preysOn
+203761,47584,Bivalvia,Bivalves,preysOn
+203761,130091,Spirorbis,Spiral Fanworms,preysOn
+203761,48916,Littorina obtusata,Flat Periwinkle,preysOn
+203761,415169,Testudinalia testudinalis,Tortoiseshell Limpet,preysOn
+203761,154706,Patella vulgata,Common European Limpet,preysOn
+203761,498442,Solecurtus strigilatus,rosy razor clam,preysOn
+203761,410684,Austrominius modestus,Beaked Barnacle,preysOn
+203761,639057,Perforatus perforatus,Volcano Barnacle,preysOn
+203761,,Onoba aculeus,,preysOn
+203761,52523,Carcinus maenas,European Green Crab,preyedUponBy
+203761,130085,Actinia equina,Beadlet anemone,preyedUponBy
+203761,47490,Polychaeta,Polychaete Worms,preyedUponBy
+203761,113528,Symphodus bailloni,Baillon's Wrasse,preyedUponBy
+203761,118704,Gobius niger,Black Goby,preyedUponBy
+203761,118706,Gobius paganellus,Rock Goby,preyedUponBy
+203761,120553,Cancer pagurus,Edible Crab,preyedUponBy
+203761,118895,Anemonia viridis,snakelocks anemone,preyedUponBy
+203761,152975,Pagurus bernhardus,Common Hermit Crab,preyedUponBy
+203761,113533,Symphodus melops,Corkwing Wrasse,preyedUponBy
+203761,,no name,,preyedUponBy
+203761,120138,Asterias rubens,Common Sea Star,preyedUponBy

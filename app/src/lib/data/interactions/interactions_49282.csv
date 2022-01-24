@@ -1,0 +1,98 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49282,,Phytoplankton,,eats
+49282,,Detritus,,eats
+49282,,PhytoP,,eats
+49282,,Detritus complex,,eats
+49282,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+49282,6989,Bucephala,Goldeneyes and Bufflehead,eatenBy
+49282,47114,Gastropoda,Gastropods,eatenBy
+49282,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+49282,47825,Pycnogonida,Pycnogonids,eatenBy
+49282,87526,Clinocottus,Sharpnose Sculpins,eatenBy
+49282,111527,Raja montagui,Spotted Skate,eatenBy
+49282,55396,Solea solea,Common Sole,eatenBy
+49282,,Trisopterus minutus,,eatenBy
+49282,481840,Lepidorhombus whiffiagonis,Megrim,eatenBy
+49282,481841,Microstomus kitt,Lemon Sole,eatenBy
+49282,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+49282,47523,Pleuronectes platessa,European Plaice,eatenBy
+49282,61387,Limanda limanda,Sand Dab,eatenBy
+49282,63740,Gadus morhua,Atlantic Cod,eatenBy
+49282,,sediment,,eatenBy
+49282,295433,Processa bermudensis,,eatenBy
+49282,94070,Anchoa mitchilli,Bay Anchovy,eatenBy
+49282,445590,Acanthopagrus berda,goldsilk seabream,eatenBy
+49282,,Pagrus auratus,,eatenBy
+49282,48397,Raja clavata,Thornback Skate,eatenBy
+49282,618988,Hippoglossina oblonga,Fourspot Flounder,eatenBy
+49282,,Sillago flindersi,,eatenBy
+49282,530854,Sillago robusta,Stout Whiting,eatenBy
+49282,49273,Chaetodon ocellatus,Spotfin Butterflyfish,eatenBy
+49282,100990,Forcipiger flavissimus,Forceps Butterflyfish,eatenBy
+49282,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+49282,97202,Chaetodon striatus,Banded Butterflyfish,eatenBy
+49282,619700,Stegastes xanthurus,Caribbean Cocoa Damselfish,eatenBy
+49282,179463,Stenotomus caprinus,Longspine porgy,eatenBy
+49282,100608,Etropus rimosus,,eatenBy
+49282,376425,Fusitriton,,eatenBy
+49282,447177,Trichotropis cancellata,Cancellate Hairysnail,eatenBy
+49282,89645,Lumpenus,,eatenBy
+49282,361770,Chionoecetes opilio,Snow Crab,eatenBy
+49282,89655,Lycodes,,eatenBy
+49282,223181,Lepidopsetta polyxystra,Northern Rock Sole,eatenBy
+49282,47524,Pleuronectes,,eatenBy
+49282,220718,Gymnocanthus tricuspis,Arctic Staghorn Sculpin,eatenBy
+49282,83329,Buccinidae,True Whelks,eatenBy
+49282,361645,Aphrodita aculeata,Sea Mouse,eatenBy
+49282,,Zooplankton,,preysOn
+49282,,Detritus complex,,preysOn
+49282,,Phytoplankton,,preysOn
+49282,112372,Scyliorhinus canicula,Small-spotted Catshark,preyedUponBy
+49282,48173,Pagurus,,preyedUponBy
+49282,68764,Ostracoda,Seed Shrimp,preyedUponBy
+49282,47490,Polychaeta,Polychaete Worms,preyedUponBy
+49282,47645,Cottidae,Typical Sculpins,preyedUponBy
+49282,,Lumbrinereis,,preyedUponBy
+49282,361645,Aphrodita aculeata,Sea Mouse,preyedUponBy
+49282,118720,Eutrigla gurnardus,Grey Gurnard,preyedUponBy
+49282,98753,Ctenolabrus rupestris,Goldsinny Wrasse,preyedUponBy
+49282,118698,Thorogobius ephippiatus,Leopard-spotted Goby,preyedUponBy
+49282,103911,Labrus bergylta,Ballan Wrasse,preyedUponBy
+49282,481841,Microstomus kitt,Lemon Sole,preyedUponBy
+49282,118657,Pagellus bogaraveo,Blackspot Seabream,preyedUponBy
+49282,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+49282,118619,Mullus surmuletus,Striped Red Mullet,preyedUponBy
+49282,118704,Gobius niger,Black Goby,preyedUponBy
+49282,118589,Conger conger,European Conger,preyedUponBy
+49282,459590,Hyas coarctatus,Arctic Lyre Crab,preyedUponBy
+49282,542078,Liocarcinus depurator,Harbour Crab,preyedUponBy
+49282,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+49282,430553,Merlangius merlangus,Whiting,preyedUponBy
+49282,,Lepadogaster candolii,,preyedUponBy
+49282,,Gobius cruentatus,,preyedUponBy
+49282,118602,Gaidropsarus mediterraneus,Shore Rockling,preyedUponBy
+49282,118717,Callionymus lyra,Common dragonet,preyedUponBy
+49282,118706,Gobius paganellus,Rock Goby,preyedUponBy
+49282,459588,Hyas araneus,Atlantic Lyre Crab,preyedUponBy
+49282,120617,Arnoglossus laterna,Mediterranean Scaldfish,preyedUponBy
+49282,118695,Trachurus trachurus,Atlantic Horse Mackerel,preyedUponBy
+49282,55396,Solea solea,Common Sole,preyedUponBy
+49282,130386,Taurulus bubalis,Longspined Bullhead,preyedUponBy
+49282,332553,Pollachius pollachius,Atlantic pollock,preyedUponBy
+49282,113533,Symphodus melops,Corkwing Wrasse,preyedUponBy
+49282,118685,Parablennius gattorugine,Tompot Blenny,preyedUponBy
+49282,363797,Gaidropsarus vulgaris,Three-bearded Rockling,preyedUponBy
+49282,,Phrynorhombus norvegicus,,preyedUponBy
+49282,109631,Platichthys flesus,European Flounder,preyedUponBy
+49282,118701,Lesueurigobius friesii,Fries' Goby,preyedUponBy
+49282,106881,Nephrops norvegicus,Norway lobster,preyedUponBy
+49282,338037,Galathea strigosa,Spiny Squat lobster,preyedUponBy
+49282,324537,Maja squinado,European Spider Crab,preyedUponBy
+49282,61387,Limanda limanda,Sand Dab,preyedUponBy
+49282,245452,Stenothoidae,,preyedUponBy
+49282,,Amphitoidae,,preyedUponBy
+49282,179515,Bathygobius soporator,Frillfin Goby,preyedUponBy
+49282,195682,Ophiura,,preyedUponBy
+49282,447177,Trichotropis cancellata,Cancellate Hairysnail,preyedUponBy
+49282,619164,Pholis crassispina,,preyedUponBy
+49282,376425,Fusitriton,,preyedUponBy

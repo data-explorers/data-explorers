@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49138,49156,Betula,birches,eats
+49138,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+49138,324537,Maja squinado,European Spider Crab,eatenBy
+49138,118669,Diplodus sargus,White Bream,eatenBy

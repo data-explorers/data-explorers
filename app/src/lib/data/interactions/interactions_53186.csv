@@ -1,0 +1,120 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53186,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+53186,126545,Dialictus,Metallic Sweat Bees,eatenBy
+53186,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+53186,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+53186,1409,Callipepla californica,California Quail,eatenBy
+53186,,Mus sp.,,eatenBy
+53186,1040783,Pyrgus,Grizzled Skippers,eatenBy
+53186,83543,Pyrgus ruralis,Two-banded Checkered-Skipper,eatenBy
+53186,484041,Muschampia cribrellum,Spinose Skipper,eatenBy
+53186,,Lycaena dorcas,,eatenBy
+53186,333714,Pyrgus carthami,Safflower Skipper,eatenBy
+53186,466037,Pyrgus sidae,Yellow-banded Skipper,eatenBy
+53186,111446,Pyrgus cirsii,Cinquefoil Skipper,eatenBy
+53186,111445,Pyrgus carlinae,Carline Skipper,eatenBy
+53186,466039,Spialia orbifer,Orbed red-underwing skipper,eatenBy
+53186,362090,Spialia sertorius,Red-underwing Skipper,eatenBy
+53186,332693,Pyrgus armoricanus,Oberthür's grizzled skipper,eatenBy
+53186,357291,Pyrgus serratulae,Olive Skipper,eatenBy
+53186,358627,Pyrgus maculatus,,eatenBy
+53186,229680,Pyrgus xanthus,Mountain Checkered-Skipper,eatenBy
+53186,111447,Pyrgus malvoides,Southern Grizzled Skipper,eatenBy
+53186,,Pyrgus bellieri,,eatenBy
+53186,41641,Ursus arctos,Brown Bear,eatenBy
+53186,,Neocoenorrhinus germanicus,,eatenBy
+53186,,Agromyza idaeiana,,eatenBy
+53186,,Agromyza sulfuriceps,,eatenBy
+53186,928657,Pristiphora pallidiventris,,eatenBy
+53186,,North American deermouse,,eatenBy
+53186,,Pristiphora (Pristiphora) pallidiventris,,eatenBy
+53186,217191,Clepsis spectrana,Cyclamen Tortrix,eatenBy
+53186,527197,Exapate congelatella,Autumnal Shade,eatenBy
+53186,,Philedonides lunana,,eatenBy
+53186,,Sparganothis unifasciana,,eatenBy
+53186,,Clepsis senecionana,,eatenBy
+53186,,Acleris fragariana,,eatenBy
+53186,,Acleris comariana,,eatenBy
+53186,,Saturnia pavonia,,eatenBy
+53186,,Nomophila nearctica,,eatenBy
+53186,,Ectoedemia arcuatella,,eatenBy
+53186,,Stigmella aeneofasciella,,eatenBy
+53186,,Stigmella splendidissimella,,eatenBy
+53186,,Epidemia dorcas,,eatenBy
+53186,,Aspitates gilvaria,,eatenBy
+53186,,Coleophora potentillae,,eatenBy
+53186,,Frommeella tormentillae,,eatenBy
+53186,,Bombus ternarius,,eatenBy
+53186,,Hylaeus modestus,,eatenBy
+53186,,Lagopus leucura,,eatenBy
+53186,831,Perdix perdix,Gray Partridge,eatenBy
+53186,7019,Anser albifrons,Greater White-fronted Goose,eatenBy
+53186,,Spizella breweri,,eatenBy
+53186,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+53186,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+53186,,Pinicola enucleator,,eatenBy
+53186,62989,Aedes,,pollinatedBy
+53186,176621,Nysius,False chinch bugs,pollinatedBy
+53186,53275,Chironomidae,Non-biting Midges,pollinatedBy
+53186,48060,Prosopis,mesquites,pollinatedBy
+53186,133765,Eumenes fraternus,Fraternal Potter Wasp,pollinatedBy
+53186,176923,Mordella,,pollinatedBy
+53186,57678,Lasioglossum,,pollinatedBy
+53186,58573,Boloria,,pollinatedBy
+53186,61860,Calliphoridae,Blow Flies,pollinatedBy
+53186,47220,Apis,Honey Bees,pollinatedBy
+53186,47157,Lepidoptera,Butterflies and Moths,pollinatedBy
+53186,49995,Syrphidae,Hover Flies,pollinatedBy
+53186,61356,Vespula,Ground Yellowjackets,pollinatedBy
+53186,121357,Platycheirus,Sedgesitters,pollinatedBy
+53186,,Spilogona,,pollinatedBy
+53186,,Parasyrphus tarsatus,,pollinatedBy
+53186,,Drymeia,,pollinatedBy
+53186,,Rhamphomyia,,pollinatedBy
+53186,,Paraphaenocladius,,pollinatedBy
+53186,,Pseudosmittia,,pollinatedBy
+53186,,Limnophyes brachytomus,,pollinatedBy
+53186,,Clossiana chariclea,,pollinatedBy
+53186,120561,Cricotopus,,pollinatedBy
+53186,,Smittina,,pollinatedBy
+53186,,Lasiopiophila pilosa,,pollinatedBy
+53186,,Sympistis,,pollinatedBy
+53186,,Phytomyza,,pollinatedBy
+53186,,Bradysia,,pollinatedBy
+53186,,Brachypogon,,pollinatedBy
+53186,,Spilogona extenda,,pollinatedBy
+53186,,Syntomopus americanus,,pollinatedBy
+53186,,Xenoglossodes albata,,pollinatedBy
+53186,,Perilampus platigaster,,pollinatedBy
+53186,,Brachicoma,,pollinatedBy
+53186,,Ceropales,,pollinatedBy
+53186,,Eutrichosoma,,pollinatedBy
+53186,,Callandrena,,pollinatedBy
+53186,,Bracon,,pollinatedBy
+53186,,Acanthoscelides obtectus,,pollinatedBy
+53186,,Lampronota,,pollinatedBy
+53186,,Anoplius illinoensis,,pollinatedBy
+53186,,Triepeolus donatus,,pollinatedBy
+53186,,Colletes compactus,,pollinatedBy
+53186,,Saparnopolius fulvus,,pollinatedBy
+53186,,Scolia nobilitata,,pollinatedBy
+53186,,Calocoris rapidus,,pollinatedBy
+53186,,Melissodes comptoides,,pollinatedBy
+53186,,Phorbia,,pollinatedBy
+53186,129219,Euphoria fulgida,Emerald Euphoria,pollinatedBy
+53186,336738,Leschenaultia,,pollinatedBy
+53186,,Spallanzania hesperidarum,,pollinatedBy
+53186,,Phaleria,,pollinatedBy
+53186,,Luperaltica,,pollinatedBy
+53186,,Polysphincta,,pollinatedBy
+53186,,Helina,,pollinatedBy
+53186,,,,pollinatedBy
+53186,556059,Dolichopus nitidus,,pollinatedBy
+53186,,Sphaerophoria macrogaster ,,pollinatedBy
+53186,,Pegomyia,,pollinatedBy
+53186,,Ramphomyia filicauda,,pollinatedBy
+53186,,Olethreutes mengelana,,pollinatedBy
+53186,176185,Orthocladius,,pollinatedBy
+53186,,Ramphomyia nigrita,,pollinatedBy
+53186,366248,Limnophyes,,pollinatedBy
+53186,,Self pollinated,,pollinatedBy

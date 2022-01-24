@@ -1,0 +1,130 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118832,67334,Cyanobacteria,cyanobacteria,eats
+118832,130225,Dinophyceae,,eats
+118832,123880,Bacillariophyceae,Diatoms,eats
+118832,151880,Sarcomastigophora,,eats
+118832,118996,Ciliophora,Ciliates,eats
+118832,152275,Thalassiosirales,,eats
+118832,123862,Chaetoceros,,eats
+118832,,Detritus,,eats
+118832,,plankton,,eats
+118832,,plankton - suspended detritus,,eats
+118832,,POM (detritus),,eats
+118832,,sediment,,eats
+118832,,Khakista,,eats
+118832,,Prymnesiophyceae,,eats
+118832,,Pyrrophycophyta,,eats
+118832,,Detritus complex,,eats
+118832,,Chrysophyta,,eats
+118832,203644,Scrippsiella,,eats
+118832,334072,Ceratium,,eats
+118832,,Dinophysis,,eats
+118832,48834,Pisaster,Giant Sea Stars,eatenBy
+118832,203761,Nucella lapillus,Atlantic Dogwhelk,eatenBy
+118832,48918,Littorinidae,Periwinkle Snails,eatenBy
+118832,8010,Corvus corax,Common Raven,eatenBy
+118832,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+118832,47827,Cancer,,eatenBy
+118832,193907,Thais,,eatenBy
+118832,,Searlesia,,eatenBy
+118832,,Leptasterias,,eatenBy
+118832,58399,Urosalpinx cinerea,Eastern Oyster Drill,eatenBy
+118832,118851,Crangon crangon,Brown Shrimp,eatenBy
+118832,109631,Platichthys flesus,European Flounder,eatenBy
+118832,367966,Ammodytes tobianus,Lesser Sand Lance,eatenBy
+118832,152974,Pholis gunnellus,Rock gunnel,eatenBy
+118832,47518,Salmo trutta,Brown Trout,eatenBy
+118832,48403,Gasterosteus aculeatus,Threespine Stickleback,eatenBy
+118832,110042,Pomatoschistus microps,Common Goby,eatenBy
+118832,228496,Pollachius virens,Pollock,eatenBy
+118832,446544,Syngnathus rostellatus,Lesser Pipefish,eatenBy
+118832,47639,Myoxocephalus scorpius,Shorthorn Sculpin,eatenBy
+118832,47523,Pleuronectes platessa,European Plaice,eatenBy
+118832,,Maritrema gratiosum,,eatenBy
+118832,,Hysterothylacium aduncum,,eatenBy
+118832,,Calidris maritima,,eatenBy
+118832,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,eatenBy
+118832,213402,Ammodytes americanus,American Sand Lance,eatenBy
+118832,3857,Calidris alpina,Dunlin,eatenBy
+118832,117641,Nucella lamellosa,Wrinkled Purple,eatenBy
+118832,,Evasterias troscheli,,eatenBy
+118832,371067,Nucella lima,File Dog Winkle,eatenBy
+118832,7047,Aythya marila,Greater Scaup,eatenBy
+118832,48903,Asterias,,eatenBy
+118832,1,Animalia,Animals,preysOn
+118832,47126,Plantae,plants,preysOn
+118832,126917,Rotifera,Rotifers,preysOn
+118832,118996,Ciliophora,Ciliates,preysOn
+118832,123880,Bacillariophyceae,Diatoms,preysOn
+118832,,Renicola roscovita,,preysOn
+118832,,Ceracaria #15,,preysOn
+118832,,Himasthla continua,,preysOn
+118832,,Maritrema subdolum,,preysOn
+118832,,Gymnophallus somateriae,,preysOn
+118832,,Protista,,preysOn
+118832,,Psilostomum brevicolle,,preysOn
+118832,,Cryptocotyle concavum,,preysOn
+118832,,Levinseniella brachysoma,,preysOn
+118832,,Cryptocotyle jejuna,,preysOn
+118832,,Himasthla elongata,,preysOn
+118832,,Labratrema minumus,,preysOn
+118832,,Podocotyle atomon,,preysOn
+118832,,Himasthla interrupta,,preysOn
+118832,,Microphallus claviformis,,preysOn
+118832,,Deropristis inflata,,preysOn
+118832,,Gymnophallus choledochus,,preysOn
+118832,,Cryptocotyle lingua,,preysOn
+118832,,plankton,,preysOn
+118832,329013,Pseudocalanus elongatus,,preysOn
+118832,203467,Temora longicornis,,preysOn
+118832,,Microcalanus pusillis,,preysOn
+118832,203475,Metridia lucens,,preysOn
+118832,480415,Acartia clausi,,preysOn
+118832,,Centropages typicus,,preysOn
+118832,,Eucalanus elongatus elongatus,,preysOn
+118832,346580,Calanus helgolandicus,,preysOn
+118832,,Paracalanus parvus,,preysOn
+118832,,Eutemora hirundoides,,preysOn
+118832,,Zooplankton,,preysOn
+118832,,Detritus complex,,preysOn
+118832,,Phytoplankton,,preysOn
+118832,52523,Carcinus maenas,European Green Crab,preyedUponBy
+118832,203761,Nucella lapillus,Atlantic Dogwhelk,preyedUponBy
+118832,132473,Lagodon rhomboides,Pinfish,preyedUponBy
+118832,54539,Syngnathus,Pipe-fishes,preyedUponBy
+118832,47827,Cancer,,preyedUponBy
+118832,7024,Somateria mollissima,Common Eider,preyedUponBy
+118832,120138,Asterias rubens,Common Sea Star,preyedUponBy
+118832,120070,Strongylocentrotus droebachiensis,Green Sea Urchin,preyedUponBy
+118832,109631,Platichthys flesus,European Flounder,preyedUponBy
+118832,47639,Myoxocephalus scorpius,Shorthorn Sculpin,preyedUponBy
+118832,48403,Gasterosteus aculeatus,Threespine Stickleback,preyedUponBy
+118832,367966,Ammodytes tobianus,Lesser Sand Lance,preyedUponBy
+118832,47523,Pleuronectes platessa,European Plaice,preyedUponBy
+118832,446544,Syngnathus rostellatus,Lesser Pipefish,preyedUponBy
+118832,228496,Pollachius virens,Pollock,preyedUponBy
+118832,152974,Pholis gunnellus,Rock gunnel,preyedUponBy
+118832,118851,Crangon crangon,Brown Shrimp,preyedUponBy
+118832,110042,Pomatoschistus microps,Common Goby,preyedUponBy
+118832,483237,Zoarces viviparus,Viviparous Blenny,preyedUponBy
+118832,47518,Salmo trutta,Brown Trout,preyedUponBy
+118832,459588,Hyas araneus,Atlantic Lyre Crab,preyedUponBy
+118832,,Eualus gaimardi,,preyedUponBy
+118832,58399,Urosalpinx cinerea,Eastern Oyster Drill,preyedUponBy
+118832,48902,Asterias forbesi,Forbes's Sea Star,preyedUponBy
+118832,52547,Tautoga onitis,Tautog,preyedUponBy
+118832,1017167,Marthasterias glacialis,Spiny Starfish,preyedUponBy
+118832,47480,Onchidoris bilamellata,barnacle nudibranch,preyedUponBy
+118832,120553,Cancer pagurus,Edible Crab,preyedUponBy
+118832,118692,Coryphoblennius galerita,Montagu's Blenny,preyedUponBy
+118832,204496,Corvus corone,Carrion Crow,preyedUponBy
+118832,,Aphia minuta,,preyedUponBy
+118832,,Psetta maxima,,preyedUponBy
+118832,,Echinus esculentus,,preyedUponBy
+118832,82128,Cetorhinus maximus,Basking Shark,preyedUponBy
+118832,210280,Psammechinus miliaris,Green Sea Urchin,preyedUponBy
+118832,471086,Liocarcinus corrugatus,Wrinkled Swimming Crab,preyedUponBy
+118832,332553,Pollachius pollachius,Atlantic pollock,preyedUponBy
+118832,371067,Nucella lima,File Dog Winkle,preyedUponBy
+118832,,Evasterias troscheli,,preyedUponBy
+118832,117641,Nucella lamellosa,Wrinkled Purple,preyedUponBy

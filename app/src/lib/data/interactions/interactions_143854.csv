@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+143854,53152,Medicago,medics,eats
+143854,51876,Trifolium,clovers,eats
+143854,56112,Symphyotrichum,American asters,eats
+143854,52989,Cirsium vulgare,Bull Thistle,eats
+143854,60132,Cirsium arvense,creeping thistle,eats
+143854,51875,Trifolium pratense,red clover,eats
+143854,48726,Iris versicolor,northern blue flag,eats
+143854,56088,Robinia pseudoacacia,black locust,eats
+143854,53438,Rosa,roses,eats
+143854,83072,Syringa vulgaris,common lilac,eats
+143854,53453,Salix,Willows,eats
+143854,48678,Solidago,goldenrods,eats
+143854,120179,Doellingeria umbellata,flat-top white aster,eats
+143854,52736,Monarda,beebalms and bergamots,eats
+143854,47359,Apocynum androsaemifolium,spreading dogbane,eats
+143854,,Vicia cracca,,eats
+143854,126575,Centaurea nigra,black knapweed,eats
+143854,,Rubus idaeus,,eats
+143854,59549,Lupinus polyphyllus,Large-leaved lupine,eats
+143854,61470,Rhinanthus minor,Yellow Rattle,eats
+143854,,Lonicera tatarica,,eats
+143854,1247945,Symphytum officinale,,eats
+143854,,Gentiana linearis,,eats
+143854,,Euphrasia,,eats
+143854,564969,Chamaenerion angustifolium,fireweed,eats
+143854,,Jacobaea vulgaris,,eats
+143854,,Sonchus arvensis,,eats
+143854,120215,Bombus griseocollis,Brown-belted Bumble Bee,pollinates
+143854,51875,Trifolium pratense,red clover,pollinates
+143854,55745,Trifolium repens,white clover,pollinates
+143854,203680,Pilosella,Hawkweeds,pollinates
+143854,58532,Colias eurytheme,Orange Sulphur,pollinatedBy
+143854,120215,Bombus griseocollis,Brown-belted Bumble Bee,pollinatedBy
+143854,144011,Bombus rufocinctus,Red-belted Bumble Bee,pollinatedBy
+143854,,Bombus ternarius,,pollinatedBy
+143854,198838,Diogmites basalis,,preyedUponBy

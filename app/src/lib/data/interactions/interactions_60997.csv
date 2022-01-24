@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60997,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+60997,6930,Anas platyrhynchos,Mallard,eatenBy
+60997,558439,Mareca strepera,Gadwall,eatenBy
+60997,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+60997,7018,Anser anser,Greylag Goose,eatenBy
+60997,6921,Cygnus olor,Mute Swan,eatenBy
+60997,473,Fulica americana,American Coot,eatenBy
+60997,,Ctenopharyngodon idella,,eatenBy
+60997,104840,Luciobarbus guiraonis,Eastern Iberian barbel,eatenBy
+60997,,Tilapia rendalli,,eatenBy
+60997,6948,Anas fulvigula,Mottled Duck,eatenBy
+60997,,Anas clypeata,,eatenBy
+60997,227611,Phaedon armoraciae,,eatenBy
+60997,,Eublemma rufimixta,,eatenBy
+60997,43997,Myocastor coypus,Coypu,eatenBy
+60997,6902,Thalassornis leuconotus,White-backed Duck,eatenBy
+60997,144479,Gallinula galeata,Common Gallinule,eatenBy
+60997,7008,Anser indicus,Bar-headed Goose,eatenBy
+60997,7046,Aythya fuligula,Tufted Duck,eatenBy
+60997,6898,Dendrocygna viduata,White-faced Whistling-Duck,eatenBy

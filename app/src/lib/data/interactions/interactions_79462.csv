@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+79462,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+79462,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+79462,145308,Spinus psaltria,Lesser Goldfinch,eatenBy
+79462,,Tinocallis,,eatenBy
+79462,,Polygonia c-album,,eatenBy
+79462,,http://treatment.plazi.org/id/03F24A640132A941FF39AAEFFD58FEB2,,eatenBy
+79462,,Vanessa indica,,eatenBy
+79462,,Nymphalis xanthomelas,,eatenBy
+79462,18943,Nestor meridionalis,Kaka,eatenBy
+79462,,Xanthogaleruca maculicollis,,eatenBy
+79462,19009,Psephotus haematonotus,Red-rumped Parrot,eatenBy
+79462,209112,Scolytus multistriatus,Elm Bark Beetle,eatenBy

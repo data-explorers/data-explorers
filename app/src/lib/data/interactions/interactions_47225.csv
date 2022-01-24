@@ -1,0 +1,27 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47225,53052,Foeniculum vulgare,fennel,eats
+47225,,Citrus,,eats
+47225,,B419/PA7,,eats
+47225,,Oryza sativa,,eats
+47225,,Theobroma cacao,,eats
+47225,,Tetradium glabrifolium,,eats
+47225,,Citrus reticulata,,eats
+47225,,Zanthoxylum ailanthoides,,eats
+47225,53875,Ocypode quadrata,Atlantic Ghost Crab,eatenBy
+47225,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+47225,81824,Euphorbia corollata,flowering spurge,pollinates
+47225,125381,Asclepias incarnata,swamp milkweed,pollinates
+47225,,Dipsacus sylvestris,,pollinates
+47225,157238,Ellisia,,pollinates
+47225,,Erigeron pulchellus,,pollinates
+47225,,Dendropanax arboreus ,,pollinates
+47225,289792,Spilanthes urens,pigeoncoop,pollinates
+47225,,Blechum,,pollinates
+47225,50333,Lantana camara,common lantana,pollinates
+47225,,Morinda royoc,,pollinates
+47225,,Cordia gerascanthus,,pollinates
+47225,,Stachytarpheta jamaicensis,,pollinates
+47225,290009,Bauhinia divaricata,Pom Pom Orchid Tree,pollinates
+47225,126583,Hemerocallis fulva,orange day-lily,pollinates
+47225,,Vernonia baldwinii,,pollinates
+47225,,Eocanthecona concinna,,preyedUponBy

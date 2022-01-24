@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+133220,,bovine or equine dung,,eats
+133220,,litter,,eats
+133220,47336,Formicidae,Ants,eatenBy
+133220,52628,Araneus diadematus,Cross Orbweaver,eatenBy
+133220,40572,Nyctalus noctula,Common Noctule,preyedUponBy

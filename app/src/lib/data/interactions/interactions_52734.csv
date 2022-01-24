@@ -1,0 +1,68 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52734,43698,Rodentia,Rodents,eatenBy
+52734,59195,Lerodea eufala,Eufala Skipper,eatenBy
+52734,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+52734,508048,Antigone canadensis,Sandhill Crane,eatenBy
+52734,906,Meleagris gallopavo,Wild Turkey,eatenBy
+52734,1409,Callipepla californica,California Quail,eatenBy
+52734,7044,Aythya collaris,Ring-necked Duck,eatenBy
+52734,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+52734,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+52734,9152,Spizella pusilla,Field Sparrow,eatenBy
+52734,,Bagous texanus,,eatenBy
+52734,,Loxostege sticticalis,,eatenBy
+52734,34,Grus americana,Whooping Crane,eatenBy
+52734,,Dendrocygna bicolor,,eatenBy
+52734,42251,Gazella,Slender Gazelles,eatenBy
+52734,,Schizaphis,,eatenBy
+52734,,Remaudiereana inornata,,eatenBy
+52734,,Ontiscus australis,,eatenBy
+52734,,Bactra clarkei,,eatenBy
+52734,,Bactra verutana,,eatenBy
+52734,,Bactra philocherda,,eatenBy
+52734,,Bactra,,eatenBy
+52734,,Bactra minima,,eatenBy
+52734,,Scirpophaga nivella,,eatenBy
+52734,,Calamotropha leptogrammella,,eatenBy
+52734,,Diatraea pedibarbata,,eatenBy
+52734,,Bleszynskia malacellus,,eatenBy
+52734,218146,Dasychira cinnamomea,Cinnamon Tussock Moth,eatenBy
+52734,,Pachypasa papyri,,eatenBy
+52734,,Euphyes,,eatenBy
+52734,,Euphyes vestris,,eatenBy
+52734,,Cosmopterix flavofasciata,,eatenBy
+52734,,Streblote butiti,,eatenBy
+52734,144560,Eolophus roseicapilla,Galah,eatenBy
+52734,,Cosmopterix attenuatella,,eatenBy
+52734,,Estrilda astrild,,eatenBy
+52734,,bultul - shrike - Indian robin,,eatenBy
+52734,,doves - larks - sandgrouse,,eatenBy
+52734,,antelopes - gazelle - backbuck - nilgai,,eatenBy
+52734,,hoppers - ants - termites - beetles,,eatenBy
+52734,,gerbils - hares,,eatenBy
+52734,,Oreochromis niloticus,,eatenBy
+52734,793282,Cymaenes odilia,,eatenBy
+52734,490291,Hesperilla sexguttata,,eatenBy
+52734,,Oressinoma typhla,,eatenBy
+52734,,Guttera,,eatenBy
+52734,,Numida mitrata,,eatenBy
+52734,,Corvus albicollis,,eatenBy
+52734,,Papio ursinus,,eatenBy
+52734,43697,Elephas maximus,Asian Elephant,eatenBy
+52734,,Grus canadensis,,eatenBy
+52734,,Chen caerulescens,,eatenBy
+52734,1428,Numida meleagris,Helmeted Guineafowl,eatenBy
+52734,162,Porzana carolina,Sora,eatenBy
+52734,144431,Falcipennis canadensis,Spruce Grouse,eatenBy
+52734,144479,Gallinula galeata,Common Gallinule,eatenBy
+52734,3545,Columbina passerina,Common Ground Dove,eatenBy
+52734,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+52734,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+52734,,Cyrtonyx montezumae,,eatenBy
+52734,6893,Dendrocygna autumnalis,Black-bellied Whistling-Duck,eatenBy
+52734,7054,Aythya affinis,Lesser Scaup,eatenBy
+52734,7019,Anser albifrons,Greater White-fronted Goose,eatenBy
+52734,,Anas americana,,eatenBy
+52734,6933,Anas acuta,Northern Pintail,eatenBy
+52734,,Pooecetes gramineus,,eatenBy
+52734,,Procavia capensis,,preyedUponBy

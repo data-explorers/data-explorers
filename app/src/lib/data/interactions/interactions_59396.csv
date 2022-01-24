@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59396,,plankton,,eats
+59396,,Detritus,,eats
+59396,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+59396,179482,Porichthys plectrodon,Atlantic Midshipman,eatenBy
+59396,57814,Pogonias cromis,Black Drum,eatenBy
+59396,180751,Trachinotus blochii,Snubnose Dart,eatenBy
+59396,179446,Trachinotus carolinus,Florida Pompano,eatenBy
+59396,179600,Eucinostomus argenteus,Spotfin Mojarra,eatenBy
+59396,179544,Menticirrhus littoralis,Gulf Kingcroaker,eatenBy
+59396,63740,Gadus morhua,Atlantic Cod,eatenBy
+59396,,Rhinobatos annulatus,,eatenBy
+59396,51790,Polinices,,eatenBy
+59396,,Olene mendosa,,eatenBy
+59396,371606,Archips machlopis,,eatenBy
+59396,355805,Liocarcinus holsatus,Flying Crab,eatenBy
+59396,245762,Acanthopagrus latus,Yellowfin Seabream,eatenBy
+59396,56050,Mustelus mustelus,Common Smooth-hound,eatenBy
+59396,364941,Argyrops spinifer,Frypan Bream,eatenBy
+59396,118665,Diplodus annularis,Annular Seabream,eatenBy
+59396,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy

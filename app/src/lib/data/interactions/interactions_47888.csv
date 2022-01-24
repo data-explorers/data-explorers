@@ -1,0 +1,33 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47888,48549,Vanessa virginiensis,American Lady,eatenBy
+47888,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+47888,336013,Phytoliriomyza melampyga,Jewelweed Leaf-miner Fly,eatenBy
+47888,128670,Bombus vagans,Half-black Bumble Bee,eatenBy
+47888,119994,Vespula maculifrons,Eastern Yellowjacket,eatenBy
+47888,52774,Bombus fervidus,Golden Northern Bumble Bee,eatenBy
+47888,47219,Apis mellifera,Western Honey Bee,eatenBy
+47888,6317,Calypte anna,Anna's Hummingbird,eatenBy
+47888,126532,Toxomerus geminatus,Eastern Calligrapher,eatenBy
+47888,485010,Chinavia hilaris,Green Stink Bug,eatenBy
+47888,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+47888,10271,Pheucticus ludovicianus,Rose-breasted Grosbeak,eatenBy
+47888,,Aphis impatientis,,eatenBy
+47888,606796,Neolasioptera impatientifolia,,eatenBy
+47888,,Archilochus colubris,,eatenBy
+47888,,Schizomyia impatientis,,eatenBy
+47888,,Puccinia recondita,,eatenBy
+47888,56887,Bombus pensylvanicus,American Bumble Bee,eatenBy
+47888,,Ctenoplusia oxygramma,,eatenBy
+47888,,Megachile mendica,,eatenBy
+47888,,Vespula alascensis,,eatenBy
+47888,,Rhingia nasica,,eatenBy
+47888,1280,Colinus virginianus,Northern Bobwhite,eatenBy
+47888,5562,Trochilidae,Hummingbirds,pollinatedBy
+47888,119994,Vespula maculifrons,Eastern Yellowjacket,pollinatedBy
+47888,47220,Apis,Honey Bees,pollinatedBy
+47888,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+47888,,Archilochus colubris,,pollinatedBy
+47888,,http://treatment.plazi.org/id/DDD826387E4F5449BC21177FC6D37871,,pollinatedBy
+47888,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+47888,,http://treatment.plazi.org/id/C04AB37A47FF8292046DC8BAC8787EF6,,pollinatedBy
+47888,,Papilio troilus,,preyedUponBy

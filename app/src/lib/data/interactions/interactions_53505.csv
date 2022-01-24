@@ -1,0 +1,61 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53505,47566,Populus,"poplars, cottonwoods, and aspens",eats
+53505,54841,Salix alba,white willow,eats
+53505,54491,Corylus avellana,common hazel,eats
+53505,,Tecoma stans,,eats
+53505,51147,Crataegus monogyna,common hawthorn,eats
+53505,155124,Cornus sanguinea,common dogwood,eats
+53505,765394,Sambucus nigra,European black elderberry,eats
+53505,55847,Euonymus europaeus,Spindle,eats
+53505,79461,Ulmus minor,Field Elm,eats
+53505,55811,Prunus spinosa,Blackthorn,eats
+53505,62229,Ischnura cervula,Pacific Forktail,eatenBy
+53505,118597,Belone belone,Garfish,eatenBy
+53505,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+53505,12727,Turdus migratorius,American Robin,eatenBy
+53505,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+53505,11867,Progne subis,Purple Martin,eatenBy
+53505,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+53505,7294,Eremophila alpestris,Horned Lark,eatenBy
+53505,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+53505,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+53505,11901,Hirundo rustica,Barn Swallow,eatenBy
+53505,,North American deermouse,,eatenBy
+53505,,Psiadia terebinthina,,eatenBy
+53505,147426,Toddalia asiatica,orange climber,eatenBy
+53505,157153,Claoxylon,,eatenBy
+53505,133562,Chassalia,,eatenBy
+53505,,Erythroxylum,,eatenBy
+53505,114127,Thymallus thymallus,Grayling,eatenBy
+53505,,Salpinctes obsoletus,,eatenBy
+53505,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+53505,,Alectoris chukar,,eatenBy
+53505,1240,Dendragapus,Blue Grouse,eatenBy
+53505,17408,Vireo griseus,White-eyed Vireo,eatenBy
+53505,17394,Vireo gilvus,Warbling Vireo,eatenBy
+53505,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+53505,13732,Anthus rubescens,American Pipit,eatenBy
+53505,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+53505,19577,Chordeiles minor,Common Nighthawk,eatenBy
+53505,6667,Cypseloides niger,Black Swift,eatenBy
+53505,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+53505,559084,Eugenes fulgens,Rivoli's Hummingbird,eatenBy
+53505,61157,Trichodes ornatus,Ornate Checkered Beetle,pollinates
+53505,178226,Eucryphia cordifolia,Ulmo,pollinates
+53505,471760,Tepualia stipularis,,pollinates
+53505,,Psiadia terebinthina,,pollinates
+53505,,Erythroxylum,,pollinates
+53505,133562,Chassalia,,pollinates
+53505,157153,Claoxylon,,pollinates
+53505,147426,Toddalia asiatica,orange climber,pollinates
+53505,,Dioctria linearis,,preyedUponBy
+53505,,Pulchellodromus pulchellus,,preyedUponBy
+53505,,Lindenius albilabris,,preyedUponBy
+53505,,Nabis (Nabis) ferus,,preyedUponBy
+53505,,Himacerus (Himacerus) apterus,,preyedUponBy
+53505,,Rhinolophus borneensis,,preyedUponBy
+53505,40585,Miniopterus,Bent-winged Bats,preyedUponBy
+53505,,Phyllostomus hastatus,,preyedUponBy
+53505,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+53505,40348,Myotis velifer,Cave Myotis,preyedUponBy
+53505,41277,Eumops perotis,Western Bonneted Bat,preyedUponBy

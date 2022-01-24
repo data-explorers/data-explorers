@@ -1,0 +1,145 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+2969,48972,Polygonum,knotweeds,eats
+2969,53196,Rumex,docks,eats
+2969,48439,Chenopodium,Goosefoots,eats
+2969,51876,Trifolium,clovers,eats
+2969,56121,Capsella bursa-pastoris,shepherd's-purse,eats
+2969,47434,Poaceae,grasses,eats
+2969,55851,Lamium purpureum,red deadnettle,eats
+2969,428365,Ziziphus jujuba,Jujube,eats
+2969,54880,Ficus benghalensis,Indian banyan,eats
+2969,82888,Jasminum,jasmine,eats
+2969,55882,Hedera helix,common ivy,eats
+2969,,Persicaria sp.,,eats
+2969,,Sonchus arvensis,,eats
+2969,,Carmona retusa,,eats
+2969,,Scutia,,eats
+2969,370013,Flueggea leucopyrus,Indian snowberry,eats
+2969,,Manilkara hexandra,,eats
+2969,,Opuntia stricta,,eats
+2969,,Pavetta,,eats
+2969,,Viscum,,eats
+2969,,Trichosanthes tricuspidata,,eats
+2969,,Psydrax dicoccos,,eats
+2969,160766,Coccinia grandis,Ivy gourd,eats
+2969,,Salacia chinensis,,eats
+2969,,Ehretia,,eats
+2969,,Ochna obtusata,,eats
+2969,319135,Azadirachta indica,Neem,eats
+2969,,Mimusops elengi,,eats
+2969,,Cudrania spinosa,,eats
+2969,,Ixora pavetta,,eats
+2969,,Heynea trifolia,,eats
+2969,,Solanum trilobatum,,eats
+2969,,Capparis rotundifolia,,eats
+2969,,Ficus microcarpa,,eats
+2969,,Diospyros vera,,eats
+2969,410428,Glycosmis pentaphylla,orangeberry,eats
+2969,62841,Cordia,,eats
+2969,,Phoenix pusilla,,eats
+2969,,Carissa spinarum,,eats
+2969,,Ziziphus oenopolia,,eats
+2969,,Pavetta breviflora,,eats
+2969,,Premna serratifolia,,eats
+2969,,Ficus religiosa,,eats
+2969,,Pleurostylia opposita,,eats
+2969,,Viscum cruciatum,,eats
+2969,,Cissus quadrangularis,,eats
+2969,866480,Cissus vitiginea,,eats
+2969,,Allophylus serratus,,eats
+2969,,Syzygium cumini,,eats
+2969,,Flacourtia indica,,eats
+2969,,Ficus virens,,eats
+2969,,Lannea coromandelica,,eats
+2969,,Capparis zeylanica,,eats
+2969,,Hugonia serrata,,eats
+2969,,Peponidium horridum,,eats
+2969,147426,Toddalia asiatica,orange climber,eats
+2969,,Crateva adansonii,,eats
+2969,,Benkara malabarica,,eats
+2969,,Memecylon umbellatum,,eats
+2969,119899,Cassytha,Dodder Laurels,eats
+2969,,Breynia vitis-idaea,,eats
+2969,,Asparagus racemosus,,eats
+2969,197082,Salvadora persica,toothbrush tree,eats
+2969,,Trichosanthes cucumerina,,eats
+2969,,Phyllanthus reticulatus,,eats
+2969,,Cansjera rheedii,,eats
+2969,,Jasminum auriculatum,,eats
+2969,,Pachygone ovata,,eats
+2969,884489,Olax scandens,,eats
+2969,,Lepisanthes tetraphylla,,eats
+2969,,Tinospora sinensis,,eats
+2969,,Dendrophthoe falcata,,eats
+2969,765394,Sambucus nigra,European black elderberry,eats
+2969,,Bryonia cretica,,eats
+2969,77834,Lonicera etrusca,Etruscan Honeysuckle,eats
+2969,51645,Rubus parvifolius,small-leaf bramble,eats
+2969,155124,Cornus sanguinea,common dogwood,eats
+2969,,Ilex aquifolium,,eats
+2969,,Solanum dulcamara,,eats
+2969,51147,Crataegus monogyna,common hawthorn,eats
+2969,,Daphne laureola,,eats
+2969,55917,Rubus vestitus,European Blackberry,eats
+2969,54431,Ribes rubrum,Red Currant,eats
+2969,56063,Sorbus aucuparia,European mountain ash,eats
+2969,,Viscum album,,eats
+2969,,Prunus padus,,eats
+2969,,Viburnum lantana,,eats
+2969,,Lonicera caprifolium,,eats
+2969,,Arum maculatum,,eats
+2969,47553,Taxus baccata,common yew,eats
+2969,61964,Prunus avium,wild cherry,eats
+2969,,Prunus domestica,,eats
+2969,,Sambucus ebulus,,eats
+2969,124548,Lonicera xylosteum,Fly Honeysuckle,eats
+2969,,Azima tetracantha,,eats
+2969,,Drypetes sepiaria,,eats
+2969,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+2969,8010,Corvus corax,Common Raven,eatenBy
+2969,42069,Vulpes vulpes,Red Fox,eatenBy
+2969,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+2969,5106,Accipiter nisus,Eurasian Sparrowhawk,eatenBy
+2969,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+2969,5267,Milvus milvus,Red Kite,eatenBy
+2969,5154,Hieraaetus pennatus,Booted Eagle,eatenBy
+2969,,Aquila pomarina,,eatenBy
+2969,5268,Milvus migrans,Black Kite,eatenBy
+2969,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+2969,4684,Falco biarmicus,Lanner Falcon,eatenBy
+2969,204533,Larus argentatus,Herring Gull,eatenBy
+2969,4691,Falco cherrug,Saker Falcon,eatenBy
+2969,19898,Strix aluco,Tawny Owl,eatenBy
+2969,19910,Strix uralensis,Ural Owl,eatenBy
+2969,4389,Larus cachinnans,Caspian Gull,eatenBy
+2969,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+2969,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+2969,,Garrulus glandarius,,eatenBy
+2969,204496,Corvus corone,Carrion Crow,eatenBy
+2969,,Coloeus monedula,,eatenBy
+2969,851014,Canis aureus,Golden Jackal,eatenBy
+2969,41961,Felis chaus,Jungle Cat,eatenBy
+2969,42048,Canis lupus,Gray Wolf,eatenBy
+2969,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+2969,922459,Felis silvestris,European Wildcat,eatenBy
+2969,41900,Herpestes ichneumon,Ichneumon,eatenBy
+2969,28451,Telescopus nigriceps,Black headed snake,eatenBy
+2969,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+2969,27035,Hierophis viridiflavus carbonarius,,eatenBy
+2969,39407,Varanus griseus,Desert Monitor,eatenBy
+2969,30282,Elaphe dione,Steppe Ratsnake,eatenBy
+2969,,Elaphe situla,,eatenBy
+2969,42065,Vulpes corsac,Corsac Fox,eatenBy
+2969,41888,Hyaena hyaena,Striped Hyaena,eatenBy
+2969,41800,Martes foina,Stone Marten,eatenBy
+2969,41796,Martes martes,Eurasian Pine Marten,eatenBy
+2969,41979,Lynx lynx,Eurasian Lynx,eatenBy
+2969,41795,Martes zibellina,Sable,eatenBy
+2969,539399,Boa imperator,Central American Boa,eatenBy
+2969,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+2969,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy
+2969,5097,Accipiter striatus,Sharp-shinned Hawk,preyedUponBy
+2969,539399,Boa imperator,Central American Boa,preyedUponBy
+2969,5106,Accipiter nisus,Eurasian Sparrowhawk,preyedUponBy
+2969,20307,Asio otus,Long-eared Owl,preyedUponBy
+2969,5154,Hieraaetus pennatus,Booted Eagle,preyedUponBy

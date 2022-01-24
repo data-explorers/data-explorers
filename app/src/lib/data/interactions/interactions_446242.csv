@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+446242,85493,Crustacea,Crustaceans,eats
+446242,47178,Actinopterygii,Ray-finned Fishes,eats
+446242,47158,Insecta,Insects,eats
+446242,121643,Copepoda,Copepods,eats
+446242,,,,eats
+446242,,Gnathostomata,,eats
+446242,774778,Gymnoplea,,eats

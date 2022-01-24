@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49175,116999,Pandion haliaetus,Osprey,eatenBy
+49175,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49175,41777,Lontra canadensis,North American River Otter,eatenBy
+49175,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+49175,144455,Ardea alba,Great Egret,eatenBy
+49175,4956,Ardea herodias,Great Blue Heron,eatenBy
+49175,,Plesiotrygon iwamae,,eatenBy
+49175,,Huso dauricus,,eatenBy
+49175,,Megalonema platycephalum,,eatenBy
+49175,569443,Cichla orinocensis,Orinoco Peacock Bass,eatenBy
+49175,342473,Cichla temensis,Speckled Peacock Bass,eatenBy
+49175,569437,Cichla intermedia,Royal Peacock Bass,eatenBy
+49175,97952,Clarias stappersii,Blotched Catfish,eatenBy
+49175,82779,Clarias gariepinus,Sharptooth Catfish,eatenBy
+49175,97947,Clarias ngamensis,Blunttooth Catfish,eatenBy
+49175,131491,Rachycentron canadum,Cobia,eatenBy
+49175,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49175,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+49175,41856,Lutrogale perspicillata,Smooth-coated Otter,eatenBy
+49175,,Crocodylus suchus,,eatenBy
+49175,,Crocodylus niloticus,,eatenBy
+49175,5308,Haliaeetus vocifer,African Fish-Eagle,eatenBy
+49175,41845,Pteronura brasiliensis,Giant Otter,eatenBy
+49175,,Mycteria ibis,,eatenBy
+49175,26159,Alligator mississippiensis,American Alligator,eatenBy
+49175,4270,Phalacrocorax carbo,Great Cormorant,eatenBy
+49175,,Nerodia sipedon sipedon,,eatenBy
+49175,29304,Nerodia taxispilota,Brown Watersnake,eatenBy
+49175,4265,Phalacrocorax auritus,Double-crested Cormorant,preyedUponBy
+49175,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+49175,116999,Pandion haliaetus,Osprey,preyedUponBy
+49175,,Nerodia erythrogaster transversa,,preyedUponBy
+49175,26184,Acrochordus arafurae,Arafura File Snake,preyedUponBy
+49175,,Trachyboa boulengeri,,preyedUponBy
+49175,,Hydraethiops melanogaster,,preyedUponBy
+49175,5063,Anhinga anhinga,Anhinga,preyedUponBy
+49175,,Crocodylus suchus,,preyedUponBy
+49175,5308,Haliaeetus vocifer,African Fish-Eagle,preyedUponBy
+49175,,Mycteria ibis,,preyedUponBy
+49175,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+49175,41856,Lutrogale perspicillata,Smooth-coated Otter,preyedUponBy
+49175,,Buteogallus urubitinga,,preyedUponBy
+49175,4631,Fregata magnificens,Magnificent Frigatebird,preyedUponBy
+49175,,Nerodia sipedon sipedon,,preyedUponBy
+49175,29304,Nerodia taxispilota,Brown Watersnake,preyedUponBy

@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+154784,,Tecoma stans,,eats
+154784,,Leptopteromyia americana,,eatenBy
+154784,48987,Hippodamia convergens,Convergent Lady Beetle,preyedUponBy
+154784,,Orthotylus tenellus,,preyedUponBy

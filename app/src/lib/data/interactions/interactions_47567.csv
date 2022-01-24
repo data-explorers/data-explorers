@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47567,47822,Diptera,Flies,eatenBy
+47567,979757,Leiothlypis celata,Orange-crowned Warbler,eatenBy
+47567,,Rangifer tarandus,,eatenBy
+47567,3545,Columbina passerina,Common Ground Dove,eatenBy
+47567,,Alectoris chukar,,eatenBy

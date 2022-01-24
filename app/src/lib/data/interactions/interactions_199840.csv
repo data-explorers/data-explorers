@@ -1,0 +1,98 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+199840,211194,Tracheophyta,vascular plants,eats
+199840,1,Animalia,Animals,eats
+199840,47124,Magnoliopsida,dicots,eats
+199840,47434,Poaceae,grasses,eats
+199840,53112,Brassica nigra,Black Mustard,eats
+199840,53298,Stellaria media,common chickweed,eats
+199840,52326,Amaranthus,amaranths,eats
+199840,60129,Ambrosia psilostachya,western ragweed,eats
+199840,154156,Croton setiger,turkey mullein,eats
+199840,78678,Polygonum aviculare,Prostrate Knotweed,eats
+199840,53195,Rumex acetosella,Sheep's sorrel,eats
+199840,52195,Silene,Catchflies,eats
+199840,58819,Deinandra fasciculata,Clustered Tarweed,eats
+199840,57922,Centaurea melitensis,Maltese star-thistle,eats
+199840,53168,Oxalis corniculata,Creeping Woodsorrel,eats
+199840,51080,Toxicodendron diversilobum,Pacific poison oak,eats
+199840,56955,Helianthus,sunflowers,eats
+199840,48571,Carex,true sedges,eats
+199840,55410,Raphanus sativus,wild radish,eats
+199840,47688,Erodium,stork's-bills,eats
+199840,52841,Anthemis cotula,Stinking chamomile,eats
+199840,53211,Senecio vulgaris,common groundsel,eats
+199840,130872,Schinus terebinthifolia,Brazilian pepper,eats
+199840,122024,Corymbia ficifolia,Red-flowering gum,eats
+199840,57250,Prunus ilicifolia,hollyleaf cherry,eats
+199840,49230,Amelanchier,serviceberries,eats
+199840,52809,Poa,Meadow-grasses,eats
+199840,49011,Quercus lobata,valley oak,eats
+199840,52111,Baccharis,,eats
+199840,47204,Brassicaceae,mustard family,eats
+199840,54500,Malus,apples,eats
+199840,57983,Helianthus annuus,Common Sunflower,eats
+199840,58803,Brickellia californica,California Brickellbush,eats
+199840,54806,Fraxinus,ashes,eats
+199840,47351,Prunus,"plums, cherries, and allies",eats
+199840,47125,Angiospermae,flowering plants,eats
+199840,54052,Pyracantha,firethorns,eats
+199840,47158,Insecta,Insects,eats
+199840,77740,Ligustrum lucidum,tree privet,eats
+199840,53405,Heteromeles arbutifolia,Toyon,eats
+199840,60218,Ficus carica,common fig,eats
+199840,53097,Hirschfeldia incana,Shortpod Mustard,eats
+199840,52689,Sambucus,elders,eats
+199840,78264,Opuntia engelmannii,Engelmann's Pricklypear,eats
+199840,49339,Encelia farinosa,brittlebush,eats
+199840,47560,Pinus canariensis,Canary Island pine,eats
+199840,53271,Brassica rapa,field mustard,eats
+199840,,Spergula arvensis,,eats
+199840,52586,Silybum marianum,milk thistle,eats
+199840,53075,Geranium dissectum,Cut-leaved crane's-bill,eats
+199840,,Claytonia perfoliata,,eats
+199840,,Calandrinia,,eats
+199840,,Madia sativa,,eats
+199840,,Solanum ptychanthum,,eats
+199840,,Amsinckia tessellata,,eats
+199840,,Dracaena rockii,,eats
+199840,82767,Santalum ellipticum,coast sandalwood,eats
+199840,,Polyscias sandwicensis,,eats
+199840,,Diospyros sandwicensis,,eats
+199840,,Bocconia frutescens,,eats
+199840,,Passiflora edulis,,eats
+199840,50333,Lantana camara,common lantana,eats
+199840,,Rivina humilis,,eats
+199840,,Clidemia hirta,,eats
+199840,543242,Rubus fraxinifolius,,eats
+199840,129327,Passiflora suberosa,corkystem passionflower,eats
+199840,62859,Psidium guajava,Common guava,eats
+199840,,Psidium cattleianum,,eats
+199840,,Trema orientalis,,eats
+199840,51046,Arbutus menziesii,Pacific madrone,eats
+199840,83434,Diospyros,persimmons,eats
+199840,,Pithecellobium dulce,,eats
+199840,,Boerhavia coccinea,,eats
+199840,,Fouquieria splendens,,eats
+199840,122606,Setaria leucopila,plains bristlegrass,eats
+199840,,Pachycereus pecten-aboriginum,,eats
+199840,,Bischofia javanica,,eats
+199840,,Ficus petiolaris,,eats
+199840,,Acacia salicina,,eats
+199840,,Liquidambar,,eats
+199840,,Punica granatum,,eats
+199840,,Magnolia,,eats
+199840,57826,Sambucus racemosa racemosa,,eats
+199840,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+199840,4672,Falco columbarius,Merlin,eatenBy
+199840,4665,Falco sparverius,American Kestrel,eatenBy
+199840,20044,Bubo virginianus,Great Horned Owl,eatenBy
+199840,210600,Lanius ludovicianus mearnsi,San Clemente Loggerhead Shrike,eatenBy
+199840,,Pantherophis alleghaniensis,,eatenBy
+199840,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+199840,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+199840,4644,Falco mexicanus,Prairie Falcon,eatenBy
+199840,19812,Glaucidium gnoma,Northern Pygmy-Owl,eatenBy
+199840,57983,Helianthus annuus,Common Sunflower,preysOn
+199840,,Carthamus tinctorius,,preysOn
+199840,4672,Falco columbarius,Merlin,preyedUponBy
+199840,60347,Pituophis catenifer sayi,Bullsnake,preyedUponBy

@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48926,224387,Malacocottus kincaidi,Blackfin Sculpin,eatenBy
+48926,532821,Pleoticus muelleri,Argentine red shrimp,eatenBy
+48926,,Zooplankton,,preysOn

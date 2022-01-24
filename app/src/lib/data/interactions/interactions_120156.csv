@@ -1,0 +1,108 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+120156,1,Animalia,Animals,eats
+120156,47124,Magnoliopsida,dicots,eats
+120156,,Lepus californicus,,eats
+120156,,rabbit carcass (L. californicus),,eats
+120156,,carrion,,eats
+120156,,Eriogonum fasciculatum foliolosum,,eats
+120156,69062,Dorymyrmex,Pyramid Ants,eatenBy
+120156,53850,Nicrophorus,Burying Beetles,eatenBy
+120156,72388,Syzygium,Waterberries,eatenBy
+120156,53165,Croton,Crotons,eatenBy
+120156,369932,Homalanthus populifolius,Bleeding Heart,eatenBy
+120156,72165,Helichrysum,Everlasting-flowers,eatenBy
+120156,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+120156,,Carcinops pumilio,,eatenBy
+120156,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+120156,,Pheidole,,eatenBy
+120156,,Syspira longipes,,eatenBy
+120156,,Crematogaster clara,,eatenBy
+120156,,Creophilis maxillosus,,eatenBy
+120156,131952,Silpha,,eatenBy
+120156,,Saprinus discoidalis,,eatenBy
+120156,,Novomessor cockerelli,,eatenBy
+120156,,Iridomyrmex,,eatenBy
+120156,,Psilochorus utahensis,,eatenBy
+120156,,Sinea complexa,,eatenBy
+120156,,Proctacanthella,,eatenBy
+120156,,Pleurostylia leucocarpa,,eatenBy
+120156,,Molinaea,,eatenBy
+120156,68702,Phyllanthus,,eatenBy
+120156,122711,Dodonaea viscosa,Varnishleaf,eatenBy
+120156,,Sideroxylon,,eatenBy
+120156,,Synsepalum brevipes,,eatenBy
+120156,,Gaertnera,,eatenBy
+120156,,Stillingia lineata lineata,,eatenBy
+120156,,Psiadia terebinthina,,eatenBy
+120156,,Aphloia theiformis,,eatenBy
+120156,,Bertiera,,eatenBy
+120156,,Dracaena reflexa angustifolia,,eatenBy
+120156,133562,Chassalia,,eatenBy
+120156,,Embelia,,eatenBy
+120156,,Ocotea,,eatenBy
+120156,,Erythroxylum,,eatenBy
+120156,147426,Toddalia asiatica,orange climber,eatenBy
+120156,,Grangeria borbonica,,eatenBy
+120156,,Pyrostria fasciculata,,eatenBy
+120156,,Geniostoma borbonicum,,eatenBy
+120156,,Ochna,,eatenBy
+120156,,Badula insularis,,eatenBy
+120156,852296,Roussea simplex,,eatenBy
+120156,157153,Claoxylon,,eatenBy
+120156,,Memecylon ovatifolium,,eatenBy
+120156,5017,Bubulcus ibis,Cattle Egret,eatenBy
+120156,243,Rallus limicola,Virginia Rail,eatenBy
+120156,60251,Verbena hastata,blue vervain,pollinates
+120156,72388,Syzygium,Waterberries,pollinates
+120156,53165,Croton,Crotons,pollinates
+120156,369932,Homalanthus populifolius,Bleeding Heart,pollinates
+120156,72165,Helichrysum,Everlasting-flowers,pollinates
+120156,76610,Daucus carota,wild carrot,pollinates
+120156,,Vitis vulpina,,pollinates
+120156,,Verbena simplex,,pollinates
+120156,,Vernonia fasciculata,,pollinates
+120156,,Krigia dandelion,,pollinates
+120156,,http://treatment.plazi.org/id/C121FA83BA73C80659A41D6040C22ECF,,pollinates
+120156,,Vitis cordifolia,,pollinates
+120156,,Veronicastrum virginicum,,pollinates
+120156,48448,Zea mays,Maize,pollinates
+120156,79488,Verbena bracteata,Bigbract Verbena,pollinates
+120156,,Verbena urticifolia,,pollinates
+120156,,Veronica peregrina,,pollinates
+120156,122777,Cinnamomum verum,Ceylon cinnamon,pollinates
+120156,,Medusagyne oppositifolia,,pollinates
+120156,,Memecylon ovatifolium,,pollinates
+120156,,Erythroxylum,,pollinates
+120156,,Synsepalum brevipes,,pollinates
+120156,,Psiadia terebinthina,,pollinates
+120156,,Dracaena reflexa,,pollinates
+120156,,Dodonaea viscosa ,,pollinates
+120156,,Aphloia theiformis,,pollinates
+120156,,Gaertnera,,pollinates
+120156,,Molinaea,,pollinates
+120156,970203,Stillingia lineata,,pollinates
+120156,,Roussea simplex ,,pollinates
+120156,,Bertiera zaluzania ,,pollinates
+120156,133562,Chassalia,,pollinates
+120156,,Badula insularis,,pollinates
+120156,,Pyrostria fasciculata,,pollinates
+120156,,Pleurostylia leucocarpa ,,pollinates
+120156,,Grangeria borbonica,,pollinates
+120156,,Geniostoma borbonicum,,pollinates
+120156,,Sideroxylon,,pollinates
+120156,147426,Toddalia asiatica,orange climber,pollinates
+120156,68702,Phyllanthus,,pollinates
+120156,,Ocotea,,pollinates
+120156,,Embelia,,pollinates
+120156,157153,Claoxylon,,pollinates
+120156,,Ochna,,pollinates
+120156,,Xysmalobium gerrardii,,pollinates
+120156,,Aspidonepsis diploglossa,,pollinates
+120156,122711,Dodonaea viscosa,Varnishleaf,pollinates
+120156,,Adolphia infesta,,pollinates
+120156,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+120156,119019,Vespa velutina,Yellow-legged Hornet,preyedUponBy
+120156,,Proctacanthella,,preyedUponBy
+120156,,Sinea complexa,,preyedUponBy
+120156,,Mormoops blainvillei,,preyedUponBy
+120156,,Plexippus petersi,,preyedUponBy

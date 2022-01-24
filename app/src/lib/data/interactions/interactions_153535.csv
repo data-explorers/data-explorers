@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+153535,,Pollenia,,eats
+153535,52932,Cantharidae,Soldier Beetles,preysOn
+153535,47336,Formicidae,Ants,preysOn
+153535,342614,Entelegynae,Entelegyne Spiders,preysOn
+153535,47219,Apis mellifera,Western Honey Bee,preysOn
+153535,47822,Diptera,Flies,preysOn
+153535,58753,Toxomerus,Calligrapher Flies,preysOn

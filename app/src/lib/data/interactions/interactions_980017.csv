@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+980017,53237,Cicadellidae,Typical Leafhoppers,eats
+980017,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+980017,47822,Diptera,Flies,eats
+980017,119301,Cercidium,,eats
+980017,,Gerstaeckeria,,eats
+980017,20044,Bubo virginianus,Great Horned Owl,eatenBy
+980017,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+980017,4645,Falco femoralis,Aplomado Falcon,eatenBy

@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61506,120010,Polistes metricus,Metric Paper Wasp,eatenBy
+61506,50822,Agave,century plants,pollinates
+61506,,Cotesia congregata,,preyedUponBy

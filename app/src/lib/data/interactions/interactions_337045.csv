@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+337045,47544,Rubus,brambles,eats
+337045,73823,Hierophis viridiflavus,Green Whip Snake,eatenBy
+337045,118552,Felis catus,Domestic Cat,preyedUponBy
+337045,73823,Hierophis viridiflavus,Green Whip Snake,preyedUponBy
+337045,26888,Coronella girondica,Southern Smooth Snake,preyedUponBy
+337045,73821,Hemorrhois hippocrepis,Horseshoe Whip Snake,preyedUponBy
+337045,,Macroprotodon cucullatus,,preyedUponBy
+337045,,Elaphe situla,,preyedUponBy

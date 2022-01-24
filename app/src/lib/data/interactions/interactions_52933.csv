@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52933,,Hyadaphis,,eats
+52933,53809,Phidippus audax,Bold Jumping Spider,eatenBy
+52933,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+52933,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+52933,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+52933,12942,Sialia sialis,Eastern Bluebird,eatenBy
+52933,16100,Contopus virens,Eastern Wood-Pewee,eatenBy
+52933,60251,Verbena hastata,blue vervain,pollinates
+52933,855444,Myrceugenia ovata,,pollinates
+52933,77844,Luma apiculata,arrayan,pollinates
+52933,855459,Myrceugenia planipes,,pollinates
+52933,471760,Tepualia stipularis,,pollinates
+52933,178226,Eucryphia cordifolia,Ulmo,pollinates
+52933,,Eryngium stenophyllum,,pollinates
+52933,,Eupatorium tenacetifolium,,pollinates
+52933,,Anoda cristata,,pollinatedBy

@@ -1,0 +1,152 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4665,3,Aves,Birds,eats
+4665,1,Animalia,Animals,eats
+4665,40151,Mammalia,Mammals,eats
+4665,2,Chordata,Chordates,eats
+4665,7251,Passeriformes,Perching Birds,eats
+4665,47158,Insecta,Insects,eats
+4665,49556,Chilopoda,Centipedes,eats
+4665,26172,Squamata,Snakes and Lizards,eats
+4665,47124,Magnoliopsida,dicots,eats
+4665,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+4665,26036,Reptilia,Reptiles,eats
+4665,44349,Peromyscus,North American Deer Mice,eats
+4665,44431,Reithrodontomys megalotis,Western Harvest Mouse,eats
+4665,48894,Scorpiones,Scorpions,eats
+4665,47208,Coleoptera,Beetles,eats
+4665,145308,Spinus psaltria,Lesser Goldfinch,eats
+4665,47927,Anisoptera,Dragonflies,eats
+4665,44326,Microtus californicus,California Vole,eats
+4665,10325,Euphagus cyanocephalus,Brewer's Blackbird,eats
+4665,63089,Clitellata,Clitellates,eats
+4665,44396,Peromyscus maniculatus,Deer Mouse,eats
+4665,44062,Thomomys bottae,Botta's Pocket Gopher,eats
+4665,46342,Sorex,Long-tailed Shrews,eats
+4665,199840,Haemorhous mexicanus,House Finch,eats
+4665,9981,Passerculus sandwichensis,Savannah Sparrow,eats
+4665,28339,Thamnophis,Garter Snakes,eats
+4665,47819,Libellulidae,Skimmers,eats
+4665,43840,Zapus hudsonius,Meadow Jumping Mouse,eats
+4665,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+4665,9602,Quiscalus quiscula,Common Grackle,eats
+4665,44311,Microtus pennsylvanicus,Meadow Vole,eats
+4665,9083,Cardinalis cardinalis,Northern Cardinal,eats
+4665,9528,Sturnella magna,Eastern Meadowlark,eats
+4665,10139,Ammodramus savannarum,Grasshopper Sparrow,eats
+4665,10373,Molothrus ater,Brown-headed Cowbird,eats
+4665,49567,Carabidae,Ground Beetles,eats
+4665,9079,Fringillidae,"Finches, Euphonias, and Allies",eats
+4665,11989,Icteridae,New World Blackbirds and Orioles,eats
+4665,63113,Blarina brevicauda,Northern Short-tailed Shrew,eats
+4665,47649,Acrididae,Short-horned Grasshoppers,eats
+4665,3864,Calidris minutilla,Least Sandpiper,eats
+4665,3835,Scolopacidae,Sandpipers and Allies,eats
+4665,66003,Lithobates pipiens,Northern Leopard Frog,eats
+4665,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+4665,47120,Arthropoda,Arthropods,eats
+4665,20978,Amphibia,Amphibians,eats
+4665,44576,Rattus norvegicus,Brown Rat,eats
+4665,47118,Araneae,Spiders,eats
+4665,12936,Sialia currucoides,Mountain Bluebird,eats
+4665,48736,Curculionidae,True Weevils,eats
+4665,13858,Passer domesticus,House Sparrow,eats
+4665,44259,Microtus,Meadow Voles,eats
+4665,36094,Uta stansburiana,Common Side-blotched Lizard,eats
+4665,14850,Sturnus vulgaris,European Starling,eats
+4665,7294,Eremophila alpestris,Horned Lark,eats
+4665,125816,Auchenorrhyncha,True Hoppers,eats
+4665,36090,Uta,Side-blotched lizards,eats
+4665,36141,Sceloporus,Spiny Lizards,eats
+4665,43096,Sylvilagus,Cottontail Rabbits,eats
+4665,47735,Diplopoda,Millipedes,eats
+4665,5562,Trochilidae,Hummingbirds,eats
+4665,47157,Lepidoptera,Butterflies and Moths,eats
+4665,47822,Diptera,Flies,eats
+4665,47119,Arachnida,Arachnids,eats
+4665,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+4665,43698,Rodentia,Rodents,eats
+4665,40268,Chiroptera,Bats,eats
+4665,85552,Sauria,Lizards,eats
+4665,67731,Anax junius,Common Green Darner,eats
+4665,36204,Sceloporus occidentalis,Western Fence Lizard,eats
+4665,86400,Ammopelmatus,North American Jerusalem Crickets,eats
+4665,57665,Cotinis mutabilis,Figeater Beetle,eats
+4665,82009,Stagmomantis,,eats
+4665,48111,Mantidae,Mantids,eats
+4665,121308,Stagmomantis limbata,Arizona Mantis,eats
+4665,48112,Mantodea,Mantises,eats
+4665,47792,Odonata,Dragonflies and Damselflies,eats
+4665,44575,Rattus rattus,Black Rat,eats
+4665,85553,Serpentes,Snakes,eats
+4665,735171,Murinae,Murines,eats
+4665,122767,Columba livia domestica,Feral Pigeon,eats
+4665,67693,Aspidoscelis,Whiptail Lizards,eats
+4665,48460,Life,,eats
+4665,3454,Zenaida macroura,Mourning Dove,eats
+4665,44824,Oligoryzomys longicaudatus,long-tailed pygmy rice rat,eats
+4665,,Abrothrix olivaceus,,eats
+4665,,Octodon degus,,eats
+4665,,Liolaemus,,eats
+4665,,Euchelicerata,,eats
+4665,29112,Philodryas chamissonis,Chilean Green Racer,eats
+4665,,Scapteriscus didactylus,,eats
+4665,44705,Mus musculus,House Mouse,eats
+4665,,Microtus montanus,,eats
+4665,,Thomomys townsendii,,eats
+4665,,Cnemidophorus tigris,,eats
+4665,,Stenopelmatus longispinus,,eats
+4665,,Zonotrichia leucophrys,,eats
+4665,,Magicicada septendecim,,eats
+4665,,Setophaga townsendi,,eats
+4665,,Anthus spinoletta,,eats
+4665,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4665,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+4665,20044,Bubo virginianus,Great Horned Owl,eatenBy
+4665,,Aquila chrysaetos,,eatenBy
+4665,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preysOn
+4665,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+4665,7251,Passeriformes,Perching Birds,preysOn
+4665,43698,Rodentia,Rodents,preysOn
+4665,85552,Sauria,Lizards,preysOn
+4665,40151,Mammalia,Mammals,preysOn
+4665,47927,Anisoptera,Dragonflies,preysOn
+4665,47158,Insecta,Insects,preysOn
+4665,3,Aves,Birds,preysOn
+4665,44062,Thomomys bottae,Botta's Pocket Gopher,preysOn
+4665,13858,Passer domesticus,House Sparrow,preysOn
+4665,44259,Microtus,Meadow Voles,preysOn
+4665,848320,Placentalia,Placental Mammals,preysOn
+4665,44349,Peromyscus,North American Deer Mice,preysOn
+4665,36204,Sceloporus occidentalis,Western Fence Lizard,preysOn
+4665,145245,Setophaga coronata,Yellow-rumped Warbler,preysOn
+4665,48111,Mantidae,Mantids,preysOn
+4665,1,Animalia,Animals,preysOn
+4665,44396,Peromyscus maniculatus,Deer Mouse,preysOn
+4665,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,preysOn
+4665,120719,Pseudacris hypochondriaca,Baja California Tree Frog,preysOn
+4665,67693,Aspidoscelis,Whiptail Lizards,preysOn
+4665,474210,Spizelloides arborea,American Tree Sparrow,preysOn
+4665,4665,Falco sparverius,American Kestrel,preysOn
+4665,51468,Anax,Emperors and Green Darners,preysOn
+4665,67731,Anax junius,Common Green Darner,preysOn
+4665,44311,Microtus pennsylvanicus,Meadow Vole,preysOn
+4665,57665,Cotinis mutabilis,Figeater Beetle,preysOn
+4665,26172,Squamata,Snakes and Lizards,preysOn
+4665,40509,Eptesicus fuscus,Big Brown Bat,preysOn
+4665,24259,Pseudacris regilla,Northern Pacific Tree Frog,preysOn
+4665,,Rana aurora,,preysOn
+4665,717858,Aspidoscelis sexlineatus,Six-lined Racerunner,preysOn
+4665,44705,Mus musculus,House Mouse,preysOn
+4665,145233,Setophaga americana,Northern Parula,preysOn
+4665,,Arvicolinae,,preysOn
+4665,,Perognathinae,,preysOn
+4665,,Pygochelidon cyanoleuca,,preysOn
+4665,,Zenaida auriculata,,preysOn
+4665,870778,Myomorpha,"Mice, Rats, and Hamsters",preysOn
+4665,,Podarcis siculus campestris,,preysOn
+4665,35342,Iguana iguana,Green Iguana,preysOn
+4665,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy
+4665,12727,Turdus migratorius,American Robin,preyedUponBy
+4665,37769,Plestiodon skiltonianus,Western Skink,preyedUponBy
+4665,4665,Falco sparverius,American Kestrel,preyedUponBy
+4665,73887,Pantherophis guttatus,Corn Snake,preyedUponBy

@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+460365,67334,Cyanobacteria,cyanobacteria,eats
+460365,,diatoms - blue-green algae,,eats
+460365,51225,Tipulidae,Large Crane Flies,eatenBy
+460365,103211,Hypsoblennius gilberti,Notchbrow Blenny,eatenBy
+460365,54509,Octopus bimaculoides,Lesser Two-spot Octopus,eatenBy
+460365,49699,Pisaster ochraceus,Ochre Sea Star,eatenBy
+460365,,Acanthina spirata,,eatenBy
+460365,117548,Gibbonsia elegans,Spotted Kelpfish,eatenBy
+460365,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+460365,54509,Octopus bimaculoides,Lesser Two-spot Octopus,preyedUponBy
+460365,103211,Hypsoblennius gilberti,Notchbrow Blenny,preyedUponBy
+460365,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,preyedUponBy
+460365,117548,Gibbonsia elegans,Spotted Kelpfish,preyedUponBy

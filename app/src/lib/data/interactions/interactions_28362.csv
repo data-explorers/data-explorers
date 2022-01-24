@@ -1,0 +1,68 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+28362,47178,Actinopterygii,Ray-finned Fishes,eats
+28362,20978,Amphibia,Amphibians,eats
+28362,40151,Mammalia,Mammals,eats
+28362,47491,Annelida,Segmented Worms,eats
+28362,26036,Reptilia,Reptiles,eats
+28362,3,Aves,Birds,eats
+28362,65982,Lithobates clamitans,Green Frog,eats
+28362,66012,Lithobates sylvaticus,Wood Frog,eats
+28362,64968,Anaxyrus americanus,American Toad,eats
+28362,64747,Anaxyrus,North American Toads,eats
+28362,922247,Hyla versicolor,Gray Treefrog Complex,eats
+28362,,Dendroica petechia,,eats
+28362,,Ambystoma texanum,,eats
+28362,,Lithobates palustris,,eats
+28362,41663,Procyon lotor,Common Raccoon,eatenBy
+28362,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+28362,7998,Corvus,Crows and Ravens,eatenBy
+28362,46341,Soricidae,Shrews,eatenBy
+28362,29768,Lampropeltis,Kingsnakes and Milk Snakes,eatenBy
+28362,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+28362,,Micrurus fulvius,,eatenBy
+28362,5017,Bubulcus ibis,Cattle Egret,eatenBy
+28362,4937,Egretta caerulea,Little Blue Heron,eatenBy
+28362,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+28362,44349,Peromyscus,North American Deer Mice,preysOn
+28362,66003,Lithobates pipiens,Northern Leopard Frog,preysOn
+28362,63089,Clitellata,Clitellates,preysOn
+28362,9152,Spizella pusilla,Field Sparrow,preysOn
+28362,9744,Agelaius phoeniceus,Red-winged Blackbird,preysOn
+28362,69755,Haplotaxida,,preysOn
+28362,66012,Lithobates sylvaticus,Wood Frog,preysOn
+28362,69758,Lumbricidae,Earthworms,preysOn
+28362,9528,Sturnella magna,Eastern Meadowlark,preysOn
+28362,40151,Mammalia,Mammals,preysOn
+28362,49567,Carabidae,Ground Beetles,preysOn
+28362,44259,Microtus,Meadow Voles,preysOn
+28362,9083,Cardinalis cardinalis,Northern Cardinal,preysOn
+28362,60340,Lithobates,American Water Frogs,preysOn
+28362,28362,Thamnophis sirtalis,Common Garter Snake,preysOn
+28362,64968,Anaxyrus americanus,American Toad,preysOn
+28362,65982,Lithobates clamitans,Green Frog,preysOn
+28362,21359,Bufonidae,True Toads,preysOn
+28362,64747,Anaxyrus,North American Toads,preysOn
+28362,,Rana cascadae,,preysOn
+28362,,Osteopilus septentrionalis,,preysOn
+28362,24259,Pseudacris regilla,Northern Pacific Tree Frog,preysOn
+28362,27194,Plethodon vehiculum,Western Red-backed Salamander,preysOn
+28362,,Anaxyrus terrestris,,preysOn
+28362,,Podarcis muralis,,preysOn
+28362,,Dicamptodon copei,,preysOn
+28362,,Gyrinophilus porphyriticus,,preysOn
+28362,,Spiza americana,,preysOn
+28362,,Plethodon chattahoochee,,preysOn
+28362,,Ascaphus truei,,preysOn
+28362,,Lepus americanus,,preysOn
+28362,,Synaptomys cooperi,,preysOn
+28362,,Plethodon chlorobryonis,,preysOn
+28362,,Pisanianura,,preysOn
+28362,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+28362,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+28362,63113,Blarina brevicauda,Northern Short-tailed Shrew,preyedUponBy
+28362,19893,Strix varia,Barred Owl,preyedUponBy
+28362,5227,Buteo platypterus,Broad-winged Hawk,preyedUponBy
+28362,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+28362,,Coluber constrictor,,preyedUponBy
+28362,912622,Agkistrodon contortrix,Eastern Copperhead,preyedUponBy
+28362,200661,Coluber constrictor mormon,Western Yellow-bellied Racer,preyedUponBy

@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41638,47375,Pinales,conifers,eats
+41638,53985,Odocoileus hemionus californicus,California Mule Deer,eats
+41638,43698,Rodentia,Rodents,eats
+41638,49202,Fagus grandifolia,American beech,eats
+41638,47434,Poaceae,grasses,eats
+41638,47602,Taraxacum officinale,common dandelion,eats
+41638,47178,Actinopterygii,Ray-finned Fishes,eats
+41638,47603,Taraxacum,dandelions,eats
+41638,,Microtus xanthognathus,,eats
+41638,,Alces alces,,eats
+41638,,Cervus elaphus,,eats
+41638,,Rangifer tarandus,,eats
+41638,,Frangula betulifolia,,eats
+41638,,Sabal palmetto,,eats
+41638,,Salmoninae,,eats
+41638,,Notholithocarpus densiflorus,,eats
+41638,42007,Puma concolor,Mountain Lion,eatenBy
+41638,43584,Homo sapiens,Human,eatenBy
+41638,42048,Canis lupus,Gray Wolf,eatenBy
+41638,41641,Ursus arctos,Brown Bear,eatenBy
+41638,47351,Prunus,"plums, cherries, and allies",preysOn
+41638,42223,Odocoileus virginianus,White-tailed Deer,preysOn

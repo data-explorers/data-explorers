@@ -1,0 +1,20 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+77969,423656,Lycalopex gymnocercus,Pampas Zorro,eatenBy
+77969,,Mimus thenca,,eatenBy
+77969,,Colaptes pitius,,eatenBy
+77969,,Colorhamphus parvirostris,,eatenBy
+77969,,Oryctolagus cuniculus,,eatenBy
+77969,516126,Lycalopex culpaeus,Culpeo,eatenBy
+77969,,Patagioenas araucana,,eatenBy
+77969,16127,Xolmis pyrope,Fire-eyed Diucon,eatenBy
+77969,,Phytotoma rara,,eatenBy
+77969,,Turdus falcklandii,,eatenBy
+77969,,Elaenia,,eatenBy
+77969,,Anairetes parulus,,eatenBy
+77969,9183,Zonotrichia capensis,Rufous-collared Sparrow,eatenBy
+77969,,Curaeus curaeus,,eatenBy
+77969,,Polythysana rubrescens,,eatenBy
+77969,735397,Polythysana cinerascens,,eatenBy
+77969,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy
+77969,,Dolichovespula arenaria,,eatenBy
+77969,47219,Apis mellifera,Western Honey Bee,pollinatedBy

@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48071,473,Fulica americana,American Coot,eatenBy
+48071,129428,Acronicta oblinita,Smeared Dagger,eatenBy
+48071,321475,Parhelophilus laetus,Common Bog Fly,eatenBy
+48071,7054,Aythya affinis,Lesser Scaup,eatenBy
+48071,6990,Bucephala clangula,Common Goldeneye,eatenBy
+48071,7182,Amazonetta brasiliensis,Brazilian Teal,eatenBy
+48071,,Rhopalosiphum nymphaeae,,eatenBy
+48071,218645,Donacia caerulea,,eatenBy
+48071,228305,Plateumaris rufa,,eatenBy
+48071,,Galerucella nymphaeae,,eatenBy
+48071,,Hydrellia deceptor,,eatenBy
+48071,214967,Bellura obliqua,Cattail Borer Moth,eatenBy
+48071,,Onychylis nigrirostris,,eatenBy
+48071,305110,Brachybamus electus,,eatenBy
+48071,176522,Onychylis,,eatenBy
+48071,1021196,Listronotus turbatus,,eatenBy
+48071,,Hydrellia,,eatenBy
+48071,,Argyrogramma verruca,,eatenBy
+48071,47822,Diptera,Flies,pollinatedBy
+48071,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+48071,47158,Insecta,Insects,pollinatedBy
+48071,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",pollinatedBy
+48071,49995,Syrphidae,Hover Flies,pollinatedBy
+48071,49707,Halictidae,Sweat Bees,pollinatedBy
+48071,338193,Apis cerana cerana,,pollinatedBy

@@ -1,0 +1,212 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41708,47827,Cancer,,eats
+41708,81644,Crepidula,Typical Slippersnails,eats
+41708,62807,Mytilus,Black Mussels,eats
+41708,48174,Paguridae,Pagurid Hermit Crabs,eats
+41708,47458,Octopoda,Octopuses,eats
+41708,47459,Cephalopoda,Cephalopods,eats
+41708,47178,Actinopterygii,Ray-finned Fishes,eats
+41708,63770,Engraulis mordax,Northern Anchovy,eats
+41708,118597,Belone belone,Garfish,eats
+41708,85493,Crustacea,Crustaceans,eats
+41708,47115,Mollusca,Molluscs,eats
+41708,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+41708,47233,Perciformes,Perch-like Fishes,eats
+41708,54191,Oncorhynchus tshawytscha,Chinook Salmon,eats
+41708,,larger zooplankton,,eats
+41708,165100,Mallotus villosus,Capelin,eats
+41708,48648,Salmo salar,Atlantic Salmon,eats
+41708,97990,Clupea harengus,Atlantic Herring,eats
+41708,221382,Hippoglossoides platessoides,American Plaice,eats
+41708,47524,Pleuronectes,,eats
+41708,53692,Oncorhynchus kisutch,Coho Salmon,eats
+41708,180031,Microstomus pacificus,Pacific Dover Sole,eats
+41708,92631,Triglops,,eats
+41708,107572,Oncorhynchus keta,Chum Salmon,eats
+41708,223674,Limanda aspera,Yellowfin Sole,eats
+41708,221165,Hemilepidotus hemilepidotus,Red Irish Lord,eats
+41708,117566,Hypomesus pretiosus,Surf Smelt,eats
+41708,67316,Anoplarchus purpurescens,High Cockscomb,eats
+41708,48815,Pinnotheridae,Bivalve Pea Crabs,eats
+41708,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+41708,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+41708,215318,Boreogadus saida,Arctic Cod,eats
+41708,169919,Trichodon trichodon,Pacific Sandfish,eats
+41708,117536,Enophrys bison,Buffalo Sculpin,eats
+41708,48863,Enteroctopus dofleini,Giant Pacific Octopus,eats
+41708,223433,Leptoclinus maculatus,Daubed Shanny,eats
+41708,104926,Lyopsetta exilis,Slender Sole,eats
+41708,47710,Pandalidae,,eats
+41708,86991,Blennius,,eats
+41708,,Theragra chalcogramma,,eats
+41708,48416,Citharichthys,,eats
+41708,89921,Microgadus,,eats
+41708,86890,Bathymaster,,eats
+41708,117571,Clupea pallasii,Pacific herring,eats
+41708,67991,Psettichthys melanostictus,Sand Sole,eats
+41708,47646,Myoxocephalus,Shorthorn Sculpins,eats
+41708,69922,Oncorhynchus nerka,Sockeye Salmon,eats
+41708,86443,Anarhichas,,eats
+41708,89654,Lycodapus,,eats
+41708,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+41708,180030,Glyptocephalus zachirus,Rex Sole,eats
+41708,89655,Lycodes,,eats
+41708,89645,Lumpenus,,eats
+41708,84182,Hydrolagus colliei,Spotted Ratfish,eats
+41708,83173,Eopsetta,,eats
+41708,117544,Isopsetta isolepis,butter sole,eats
+41708,52539,Ophiodon elongatus,Lingcod,eats
+41708,83171,Platichthys,,eats
+41708,107570,Oncorhynchus gorbuscha,Pink Salmon,eats
+41708,113994,Thaleichthys pacificus,Eulachon,eats
+41708,218156,Dasycottus setiger,Spinyhead Sculpin,eats
+41708,60022,Porichthys,Midshipmen,eats
+41708,68594,Hexagrammos lagocephalus,Rock greenling,eats
+41708,172636,Careproctus,,eats
+41708,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eats
+41708,60635,Anarrhichthys ocellatus,Wolf Eel,eats
+41708,,Reinhardtius stomias,,eats
+41708,49243,Alosa sapidissima,American shad,eats
+41708,231540,Stenobrachius leucopsarus,Northern Lampfish,eats
+41708,53701,Hippoglossus stenolepis,Pacific Halibut,eats
+41708,180029,Gadus macrocephalus,Pacific Cod,eats
+41708,193936,Yoldia,,eats
+41708,105599,Merluccius productus,Pacific Hake,eats
+41708,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+41708,47290,Crangonidae,,eats
+41708,183018,Lepidopsetta bilineata,Rock sole,eats
+41708,180032,Hippoglossoides elassodon,Flathead Sole,eats
+41708,117545,Parophrys vetulus,English sole,eats
+41708,52306,Squalus acanthias,White-spotted Dogfish,eats
+41708,218966,Eleginus gracilis,Saffron Cod,eats
+41708,432390,Berryteuthis magister,Schoolmaster Armhook Squid,eats
+41708,47522,Oncorhynchus,Pacific Salmons and Trouts,eats
+41708,100268,Eptatretus stoutii,Pacific Hagfish,eats
+41708,53703,Hippoglossus,,eats
+41708,47518,Salmo trutta,Brown Trout,eats
+41708,,Gnathostomata,,eats
+41708,109631,Platichthys flesus,European Flounder,eats
+41708,224163,Lumpenus lampretaeformis,Snakeblenny,eats
+41708,61387,Limanda limanda,Sand Dab,eats
+41708,106328,Mylocheilus caurinus,Peamouth,eats
+41708,47516,Oncorhynchus mykiss,Rainbow Trout,eats
+41708,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+41708,224190,Lycodes palearis,Wattled Eelpout,eats
+41708,253534,Carinaria lamarckii,Lamarck's nautilus,eats
+41708,83170,Platichthys stellatus,Starry Flounder,eats
+41708,213065,Allosmerus elongatus,Whitebait Smelt,eats
+41708,98855,Cymatogaster aggregata,Shiner Surfperch,eats
+41708,68075,Oncorhynchus clarkii,Cutthroat Trout,eats
+41708,47760,Sebastes melanops,Black rockfish,eats
+41708,47523,Pleuronectes platessa,European Plaice,eats
+41708,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+41708,43584,Homo sapiens,Human,eatenBy
+41708,8010,Corvus corax,Common Raven,eatenBy
+41708,4756,Cathartes aura,Turkey Vulture,eatenBy
+41708,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+41708,112841,Somniosus microcephalus,Greenland Shark,eatenBy
+41708,41520,Orcinus,,eatenBy
+41708,50873,Carcharodon carcharias,Great White Shark,eatenBy
+41708,42048,Canis lupus,Gray Wolf,eatenBy
+41708,41644,Ursus maritimus,Polar Bear,eatenBy
+41708,699271,Anisakis,,eatenBy
+41708,964671,Contracaecum,,eatenBy
+41708,41521,Orcinus orca,Orca,eatenBy
+41708,,Pseudoterranova,,eatenBy
+41708,,Somniosus pacificus,,eatenBy
+41708,4368,Larus marinus,Great Black-backed Gull,eatenBy
+41708,118594,Atherina presbyter,Sand Smelt,preysOn
+41708,52523,Carcinus maenas,European Green Crab,preysOn
+41708,118597,Belone belone,Garfish,preysOn
+41708,47645,Cottidae,Typical Sculpins,preysOn
+41708,63770,Engraulis mordax,Northern Anchovy,preysOn
+41708,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+41708,47456,Octopus,,preysOn
+41708,51910,Engraulis encrasicolus,European Anchovy,preysOn
+41708,97990,Clupea harengus,Atlantic Herring,preysOn
+41708,47639,Myoxocephalus scorpius,Shorthorn Sculpin,preysOn
+41708,47523,Pleuronectes platessa,European Plaice,preysOn
+41708,430553,Merlangius merlangus,Whiting,preysOn
+41708,97345,Chelon labrosus,thicklip grey mullet,preysOn
+41708,344748,Pomatoschistus minutus,Sand Goby,preysOn
+41708,110042,Pomatoschistus microps,Common Goby,preysOn
+41708,94105,Anguilla anguilla,European Eel,preysOn
+41708,483237,Zoarces viviparus,Viviparous Blenny,preysOn
+41708,118851,Crangon crangon,Brown Shrimp,preysOn
+41708,367966,Ammodytes tobianus,Lesser Sand Lance,preysOn
+41708,63740,Gadus morhua,Atlantic Cod,preysOn
+41708,109631,Platichthys flesus,European Flounder,preysOn
+41708,117569,Microgadus proximus,Pacific Tomcod,preysOn
+41708,68596,Hexagrammos decagrammus,Kelp Greenling,preysOn
+41708,105599,Merluccius productus,Pacific Hake,preysOn
+41708,63687,Embiotocidae,Surfperches,preysOn
+41708,47525,Pleuronectidae,Righteye Flounders,preysOn
+41708,52539,Ophiodon elongatus,Lingcod,preysOn
+41708,117571,Clupea pallasii,Pacific herring,preysOn
+41708,47520,Salmonidae,"Salmons, Trouts, and Whitefishes",preysOn
+41708,54191,Oncorhynchus tshawytscha,Chinook Salmon,preysOn
+41708,47516,Oncorhynchus mykiss,Rainbow Trout,preysOn
+41708,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+41708,,Octopus rubescens,,preysOn
+41708,85949,Osmeridae,Smelts,preysOn
+41708,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+41708,49243,Alosa sapidissima,American shad,preysOn
+41708,83170,Platichthys stellatus,Starry Flounder,preysOn
+41708,117544,Isopsetta isolepis,butter sole,preysOn
+41708,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+41708,53692,Oncorhynchus kisutch,Coho Salmon,preysOn
+41708,1303751,Pleuronectoidei,Flatfishes,preysOn
+41708,180030,Glyptocephalus zachirus,Rex Sole,preysOn
+41708,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+41708,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+41708,47762,Sebastes,Rockfishes,preysOn
+41708,117545,Parophrys vetulus,English sole,preysOn
+41708,83172,Eopsetta jordani,Petrale sole,preysOn
+41708,180031,Microstomus pacificus,Pacific Dover Sole,preysOn
+41708,97375,Chilara taylori,Spotted Cusk-eel,preysOn
+41708,104926,Lyopsetta exilis,Slender Sole,preysOn
+41708,55535,Sardinops sagax,Pacific Sardine,preysOn
+41708,,Pleuronectiformes,,preysOn
+41708,47638,Scorpaenichthys marmoratus,Cabezon,preysOn
+41708,51353,Anoplopoma fimbria,Sablefish,preysOn
+41708,47522,Oncorhynchus,Pacific Salmons and Trouts,preysOn
+41708,48454,Hexagrammidae,Greenlings,preysOn
+41708,614161,Gadus chalcogrammus,Alaska Pollock,preysOn
+41708,113994,Thaleichthys pacificus,Eulachon,preysOn
+41708,180029,Gadus macrocephalus,Pacific Cod,preysOn
+41708,201784,Ammodytes personatus,Pacific Sand Lance,preysOn
+41708,48863,Enteroctopus dofleini,Giant Pacific Octopus,preysOn
+41708,107570,Oncorhynchus gorbuscha,Pink Salmon,preysOn
+41708,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+41708,111616,Rhacochilus vacca,Pile surfperch,preysOn
+41708,337529,Gonatus,Gonate Squids,preysOn
+41708,117542,Citharichthys stigmaeus,speckled sanddab,preysOn
+41708,94802,Atherinopsis californiensis,Jack Silverside,preysOn
+41708,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+41708,232054,Symbolophorus californiensis,Bigfin Lanternfish,preysOn
+41708,117567,Spirinchus starksi,Night Smelt,preysOn
+41708,67991,Psettichthys melanostictus,Sand Sole,preysOn
+41708,113538,Symphurus atricaudus,California Tonguefish,preysOn
+41708,183018,Lepidopsetta bilineata,Rock sole,preysOn
+41708,89615,Lota,,preysOn
+41708,112983,Spirinchus thaleichthys,Longfin Smelt,preysOn
+41708,117566,Hypomesus pretiosus,Surf Smelt,preysOn
+41708,117554,Embiotoca jacksoni,Black surfperch,preysOn
+41708,180032,Hippoglossoides elassodon,Flathead Sole,preysOn
+41708,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+41708,91175,Pleuronichthys,,preysOn
+41708,,larger zooplankton,,preysOn
+41708,165100,Mallotus villosus,Capelin,preysOn
+41708,447416,Mya truncata,Truncate Softshell Clam,preysOn
+41708,112419,Sebastes mentella,Deepwater Redfish,preysOn
+41708,,Thysanoessa longicaudata,,preysOn
+41708,639178,Meganyctiphanes norvegica,Northern Krill,preysOn
+41708,215318,Boreogadus saida,Arctic Cod,preysOn
+41708,195087,Thysanoessa inermis,,preysOn
+41708,329000,Thysanoessa raschii,,preysOn
+41708,229837,Reinhardtius hippoglossoides,Greenland Halibut,preysOn
+41708,447428,Eledone cirrhosa,Curled Octopus,preysOn
+41708,41520,Orcinus,,preyedUponBy
+41708,112841,Somniosus microcephalus,Greenland Shark,preyedUponBy
+41708,41644,Ursus maritimus,Polar Bear,preyedUponBy
+41708,50873,Carcharodon carcharias,Great White Shark,preyedUponBy

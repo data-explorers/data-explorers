@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49601,121643,Copepoda,Copepods,eats
+49601,1,Animalia,Animals,eats
+49601,133222,Thetys vagina,Twin-sailed Salp,eats
+49601,47126,Plantae,plants,eats
+49601,85493,Crustacea,Crustaceans,eats
+49601,47549,Echinodermata,Echinoderms,eats
+49601,47459,Cephalopoda,Cephalopods,eats
+49601,48332,Scyphozoa,True Jellies,eats
+49601,47178,Actinopterygii,Ray-finned Fishes,eats
+49601,47158,Insecta,Insects,eats
+49601,68764,Ostracoda,Seed Shrimp,eats
+49601,51508,Ctenophora,Comb Jellies,eats
+49601,123875,Melosira,,eats
+49601,47490,Polychaeta,Polychaete Worms,eats
+49601,89834,Melanoides,,eats
+49601,,unspecified invertebrates,,eats
+49601,,Prymnesiophyceae,,eats
+49601,,Gnathostomata,,eats
+49601,,Medusozoa,,eats
+49601,,Pisces,,eats
+49601,,,,eats
+49601,260641,Laticorophium baconi,,eats
+49601,209043,Monocorophium acherusicum,Stout-antenna Amphipod,eats
+49601,,Phytoplankton,,eats
+49601,209049,Monocorophium,,eats
+49601,321542,Caligidae,Sea Lice,eats
+49601,203608,Pleurosigma,,eats
+49601,984283,Euterpina acutifrons,,eats
+49601,774778,Gymnoplea,,eats
+49601,203738,Paralia sulcata,,eats
+49601,260656,Gammarus mucronatus,,eats
+49601,182843,Ectocarpus,maiden's hair,eats
+49601,359998,Grammatophora,,eats
+49601,133336,Halodule wrightii,Shoalgrass,eats
+49601,123865,Coscinodiscus,,eats
+49601,,Palaemonetes vulgaris,,eats
+49601,47273,Elasmobranchii,Elasmobranchs,eatenBy
+49601,41521,Orcinus orca,Orca,eatenBy
+49601,,Chondrichthyes,,eatenBy
+49601,110361,Prionace glauca,Blue Shark,eatenBy
+49601,121643,Copepoda,Copepods,preysOn
+49601,133222,Thetys vagina,Twin-sailed Salp,preysOn
+49601,764917,Kolpophorae,Kolpophoran Jellies,preysOn
+49601,47273,Elasmobranchii,Elasmobranchs,preyedUponBy
+49601,69675,Thunnus albacares,Yellowfin Tuna,preyedUponBy
+49601,110361,Prionace glauca,Blue Shark,preyedUponBy
+49601,,no name,,preyedUponBy
+49601,114126,Thunnus thynnus,Atlantic Bluefin Tuna,preyedUponBy

@@ -1,0 +1,31 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+26504,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+26504,4756,Cathartes aura,Turkey Vulture,eatenBy
+26504,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+26504,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+26504,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+26504,42091,Chrysocyon brachyurus,Maned Wolf,eatenBy
+26504,,Rupornis magnirostris,,eatenBy
+26504,,Circaetus gallicus,,eatenBy
+26504,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+26504,5017,Bubulcus ibis,Cattle Egret,eatenBy
+26504,30152,Erythrolamprus aesculapii,Aesculapian False Coral Snake,preyedUponBy
+26504,30523,Micrurus psyches,Carib Coralsnake,preyedUponBy
+26504,,Clelia plumbea,,preyedUponBy
+26504,29105,Philodryas olfersii,Lichtenstein's Green Racer,preyedUponBy
+26504,95866,Boiruna maculata,False Mussurana,preyedUponBy
+26504,1250061,Philodryas patagoniensis,Patagonian Racer,preyedUponBy
+26504,,Micrurus altirostris,,preyedUponBy
+26504,27000,Coniophanes fissidens,Brown Spotbelly,preyedUponBy
+26504,30806,Cerrophidion godmani,Godman's Montane Pit Viper,preyedUponBy
+26504,,Anilius scytale,,preyedUponBy
+26504,28945,Pseudoboa haasi,Paraná False Boa,preyedUponBy
+26504,,Loveridgelaps elapoides,,preyedUponBy
+26504,,Micrurus fulvius,,preyedUponBy
+26504,,Psammodynastes pulverulentus,,preyedUponBy
+26504,30488,Naja mossambica,Mozambique Spitting Cobra,preyedUponBy
+26504,,Micrurus corallinus,,preyedUponBy
+26504,30477,Naja nigricincta,Western Barred Spitting Cobra,preyedUponBy
+26504,28337,Thelotornis capensis capensis,Southern Vine Snake,preyedUponBy
+26504,105872,Micrurus pyrrhocryptus,Argentinian Coralsnake,preyedUponBy
+26504,26159,Alligator mississippiensis,American Alligator,preyedUponBy

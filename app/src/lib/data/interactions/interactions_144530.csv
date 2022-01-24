@@ -1,0 +1,96 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144530,47178,Actinopterygii,Ray-finned Fishes,eats
+144530,101053,Fundulus diaphanus,banded killifish,eats
+144530,58648,Fundulus,Typical Killifishes,eats
+144530,85777,Exocoetidae,Flyingfishes,eats
+144530,92583,Trachurus,Jack Mackerels,eats
+144530,47186,Decapoda,Decapods,eats
+144530,121639,Brachyura,True Crabs,eats
+144530,51912,Engraulis,,eats
+144530,85611,Atherinidae,Old World Silversides,eats
+144530,63770,Engraulis mordax,Northern Anchovy,eats
+144530,47459,Cephalopoda,Cephalopods,eats
+144530,85493,Crustacea,Crustaceans,eats
+144530,180029,Gadus macrocephalus,Pacific Cod,eats
+144530,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+144530,,Etrumeus teres,,eats
+144530,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eats
+144530,213402,Ammodytes americanus,American Sand Lance,eats
+144530,502271,Engraulis australis,Australian Anchovy,eats
+144530,88265,Etrumeus,Red-eye Round Herrings,eats
+144530,87865,Decapterus,,eats
+144530,228496,Pollachius virens,Pollock,eats
+144530,328042,Engraulis japonicus,Japanese Anchovy,eats
+144530,85289,Pseudophycis bachus,Red cod,eats
+144530,,Macruronus magellanicus,,eats
+144530,,Teuthida,,eats
+144530,614162,Micromesistius australis,Southern blue whiting,eats
+144530,165100,Mallotus villosus,Capelin,eats
+144530,254742,Astyris lunata,Lunate Dove Shell,eats
+144530,82353,Merluccius,Hakes,eats
+144530,146888,Illex,Shortfin Squids,eats
+144530,55398,Solea,,eats
+144530,118600,Sardina pilchardus,European Sardine,eats
+144530,97990,Clupea harengus,Atlantic Herring,eats
+144530,51910,Engraulis encrasicolus,European Anchovy,eats
+144530,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+144530,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+144530,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+144530,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+144530,47525,Pleuronectidae,Righteye Flounders,eats
+144530,118695,Trachurus trachurus,Atlantic Horse Mackerel,eats
+144530,447397,Engraulis anchoita,Argentine Anchoita,eats
+144530,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+144530,,Frigidoalvania cruenta,,eats
+144530,614161,Gadus chalcogrammus,Alaska Pollock,eats
+144530,86396,Ammodytes,,eats
+144530,63740,Gadus morhua,Atlantic Cod,eats
+144530,55535,Sardinops sagax,Pacific Sardine,eats
+144530,,Kondakovia longimana,,eats
+144530,215318,Boreogadus saida,Arctic Cod,eats
+144530,117571,Clupea pallasii,Pacific herring,eats
+144530,120702,Micromesistius poutassou,Blue Whiting,eats
+144530,82337,Loligo,,eats
+144530,324532,Sprattus sprattus,European Sprat,eats
+144530,218966,Eleginus gracilis,Saffron Cod,eats
+144530,,Gnathostomata,,eats
+144530,,Pisces,,eats
+144530,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+144530,8001,Corvus ossifragus,Fish Crow,eatenBy
+144530,63770,Engraulis mordax,Northern Anchovy,preysOn
+144530,85611,Atherinidae,Old World Silversides,preysOn
+144530,47178,Actinopterygii,Ray-finned Fishes,preysOn
+144530,49235,Clupeiformes,Herrings,preysOn
+144530,89853,Menidia,,preysOn
+144530,47762,Sebastes,Rockfishes,preysOn
+144530,94802,Atherinopsis californiensis,Jack Silverside,preysOn
+144530,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+144530,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+144530,,Micrometrus minimus,,preysOn
+144530,,Leuresthes tenuis,,preysOn
+144530,103144,Hypomesus transpacificus,Delta Smelt,preysOn
+144530,54191,Oncorhynchus tshawytscha,Chinook Salmon,preysOn
+144530,63685,Hyperprosopon argenteum,Walleye Surfperch,preysOn
+144530,51353,Anoplopoma fimbria,Sablefish,preysOn
+144530,222155,Icichthys lockingtoni,Medusafish,preysOn
+144530,47638,Scorpaenichthys marmoratus,Cabezon,preysOn
+144530,63691,Cololabis saira,Pacific Saury,preysOn
+144530,,Sebastes paucispinis,,preysOn
+144530,117571,Clupea pallasii,Pacific herring,preysOn
+144530,117561,Phanerodon furcatus,White surfperch,preysOn
+144530,317370,Sebastes serriceps,Treefish,preysOn
+144530,49163,Leptocottus armatus,Pacific Staghorn Sculpin,preysOn
+144530,69840,Scomber japonicus,Pacific Chub Mackerel,preysOn
+144530,117551,Amphistichus argenteus,Barred Surfperch,preysOn
+144530,179822,Anchoa compressa,Deep-body Anchovy,preysOn
+144530,68596,Hexagrammos decagrammus,Kelp Greenling,preysOn
+144530,114274,Trachurus symmetricus,Pacific Jack Mackerel,preysOn
+144530,63687,Embiotocidae,Surfperches,preysOn
+144530,99545,Dorosoma petenense,Threadfin Shad,preysOn
+144530,,Anchoa delicatissima,,preysOn
+144530,179533,Fundulus parvipinnis,California Killifish,preysOn
+144530,117564,Clevelandia ios,Arrow Gobi,preysOn
+144530,,Ilypnus gilberti,,preysOn
+144530,81963,Girella nigricans,Opaleye,preysOn
+144530,111467,Quietula y-cauda,Shadow Goby,preysOn
+144530,85574,Ammodytidae,Sand Lances,preysOn

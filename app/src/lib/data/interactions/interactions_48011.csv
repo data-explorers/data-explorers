@@ -1,0 +1,207 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48011,47126,Plantae,plants,eats
+48011,123880,Bacillariophyceae,Diatoms,eats
+48011,47158,Insecta,Insects,eats
+48011,247660,Polypedilum,,eats
+48011,,bottom organic matter - benthic macroalgae,,eats
+48011,,Detritus,,eats
+48011,,Khakista,,eats
+48011,345435,Epithemia sorex,,eats
+48011,386413,Austroclima jollyae,,eats
+48011,,Oniscigaster,,eats
+48011,376157,Deleatidium,Suckergilled Mayflies,eats
+48011,176380,Eukiefferiella,,eats
+48011,377710,Pirara,,eats
+48011,120561,Cricotopus,,eats
+48011,339306,Cocconeis,,eats
+48011,533633,Cymbella kappii,,eats
+48011,,Unknown green algae filaments,,eats
+48011,,Desmidiales,,eats
+48011,,diatoms (mostly Cocconeis) & desmids,,eats
+48011,72458,Actitis macularius,Spotted Sandpiper,eatenBy
+48011,68901,Salticus scenicus,Zebra Jumping Spider,eatenBy
+48011,62164,Trichoptera,Caddisflies,eatenBy
+48011,47186,Decapoda,Decapods,eatenBy
+48011,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+48011,101053,Fundulus diaphanus,banded killifish,eatenBy
+48011,49591,Lepomis macrochirus,Bluegill,eatenBy
+48011,132473,Lagodon rhomboides,Pinfish,eatenBy
+48011,850859,Oxyura jamaicensis,Ruddy Duck,eatenBy
+48011,4209,Podiceps auritus,Horned Grebe,eatenBy
+48011,6930,Anas platyrhynchos,Mallard,eatenBy
+48011,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+48011,7294,Eremophila alpestris,Horned Lark,eatenBy
+48011,6993,Bucephala albeola,Bufflehead,eatenBy
+48011,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+48011,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+48011,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+48011,11901,Hirundo rustica,Barn Swallow,eatenBy
+48011,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+48011,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+48011,59805,Gammarus pulex,Freshwater Shrimp,eatenBy
+48011,482055,Perla bipunctata,Large Stonefly,eatenBy
+48011,505410,Polycentropus flavomaculatus,,eatenBy
+48011,48648,Salmo salar,Atlantic Salmon,eatenBy
+48011,49596,Salvelinus fontinalis,Brook Trout,eatenBy
+48011,,Pacifastacus leniusculus,,eatenBy
+48011,,Ischnura hastata,,eatenBy
+48011,47869,Tibellus,Slender Crab Spiders,eatenBy
+48011,482058,Isoperla grammatica,Yellow Sally Stonefly,eatenBy
+48011,482056,Dinocras cephalotes,Large Stonefly,eatenBy
+48011,546250,Plectrocnemia conspersa,,eatenBy
+48011,482050,Rhyacophila dorsalis,Sandfly Caddisfly,eatenBy
+48011,,Perlodes microcephalus,,eatenBy
+48011,997134,Limnochares aquatica,,eatenBy
+48011,992929,Hygrobates nigromaculatus,,eatenBy
+48011,997127,Limnesia fulgida,,eatenBy
+48011,,Parasitalbia sumatrensis,,eatenBy
+48011,121463,Arrenurus,Water Mites,eatenBy
+48011,1006131,Piona nodata,,eatenBy
+48011,,Piona disparilis,,eatenBy
+48011,992934,Hygrobates calliger,,eatenBy
+48011,,Limnesia undulata,,eatenBy
+48011,997126,Limnesia koenikei,,eatenBy
+48011,,Piona constricta,,eatenBy
+48011,1019131,Unionicola crassipes,,eatenBy
+48011,988096,Atractides nodipalpis,,eatenBy
+48011,154684,Polycentropodidae,Tube Maker Caddisflies,eatenBy
+48011,69989,Rutilus rutilus,Common Roach,eatenBy
+48011,,Turbellaria,,eatenBy
+48011,,Acanthocyclops,,eatenBy
+48011,345882,Mermithidae,Insect-Parasitising Nematodes,eatenBy
+48011,63081,Hirudinea,Leeches,eatenBy
+48011,,Plecoptera,,eatenBy
+48011,59807,Gammarus,,eatenBy
+48011,,Glossamia aprion,,eatenBy
+48011,105808,Microphis brachyurus,Opposum Pipefish,eatenBy
+48011,,Geres filamentosis,,eatenBy
+48011,,Rediogobius bikolanus,,eatenBy
+48011,,Neosiluris ater,,eatenBy
+48011,,Craterocephalus stercusmuscarum,,eatenBy
+48011,187422,Giuris margaritacea,Snakehead Gudgeon,eatenBy
+48011,187100,Awaous acritosus,Roman-nose Goby,eatenBy
+48011,,Tilapia mariae,,eatenBy
+48011,368587,Hypseleotris compressa,Empire Gudgeon,eatenBy
+48011,368117,Melanotaenia splendida,Eastern Rainbowfish,eatenBy
+48011,93797,Ambassis agassizii,Agassiz's Glassfish,eatenBy
+48011,608841,Entomocorus radiosus,,eatenBy
+48011,,Barbus venustus,,eatenBy
+48011,113850,Teleocichla centisquama,Slender Pike-Cichlid,eatenBy
+48011,530701,Neosilurus mollespiculum,Softspine Catfish,eatenBy
+48011,,Haplochromis pundamilia,,eatenBy
+48011,95188,Barbus cyclolepis,Thracian Barbel,eatenBy
+48011,,Neoarius velutinus,,eatenBy
+48011,187740,Nemacheilus binotatus,,eatenBy
+48011,,Hyphessobrycon eques,,eatenBy
+48011,93932,Amphilius jacksonii,,eatenBy
+48011,114230,Tor putitora,Golden Mahseer,eatenBy
+48011,,Tropidophoxinellus alburnoides,,eatenBy
+48011,111854,Romanichthys valsanicola,Sculpin-perch,eatenBy
+48011,,Barbus trevelyani,,eatenBy
+48011,,Sargochromis codringtonii,,eatenBy
+48011,,Papyrocranus afer,,eatenBy
+48011,93603,Alburnoides bipunctatus,Schneider,eatenBy
+48011,93179,Acipenser baerii,Siberian Sturgeon,eatenBy
+48011,101604,Gobiomorus dormitor,Bigmouth Sleeper,eatenBy
+48011,49749,Aplodinotus grunniens,Freshwater Drum,eatenBy
+48011,179439,Xiphophorus maculatus,Southern Platyfish,eatenBy
+48011,102785,Hiodon tergisus,Mooneye,eatenBy
+48011,613167,Leuciscus baicalensis,,eatenBy
+48011,494541,Sternopygus macrurus,Longtail Knifefish,eatenBy
+48011,93189,Acipenser ruthenus,Sterlet,eatenBy
+48011,,Schilbe intermedius,,eatenBy
+48011,58657,Ameiurus natalis,Yellow Bullhead,eatenBy
+48011,109062,Perca fluviatilis,European Perch,eatenBy
+48011,,Salvelinus alpinus alpinus,,eatenBy
+48011,47518,Salmo trutta,Brown Trout,eatenBy
+48011,102482,Hemichromis letourneuxi,Letourneuxi's Jewel Cichlid,eatenBy
+48011,51333,Macquaria australasica,Macquarie Perch,eatenBy
+48011,125920,Anguilla australis,Short-finned Eel,eatenBy
+48011,112199,Schilbe mandibularis,,eatenBy
+48011,247660,Polypedilum,,preysOn
+48011,47158,Insecta,Insects,preysOn
+48011,120561,Cricotopus,,preysOn
+48011,386413,Austroclima jollyae,,preysOn
+48011,,Oniscigaster,,preysOn
+48011,377710,Pirara,,preysOn
+48011,,Eukiefidrella,,preysOn
+48011,376157,Deleatidium,Suckergilled Mayflies,preysOn
+48011,68062,Menemerus bivittatus,Gray Wall Jumping Spider,preyedUponBy
+48011,68901,Salticus scenicus,Zebra Jumping Spider,preyedUponBy
+48011,133963,Cyclosa turbinata,Humped Trashline Orbweaver,preyedUponBy
+48011,225793,Neoxabea bipunctata,Two-spotted Tree Cricket,preyedUponBy
+48011,40270,Myotis,Mouse-eared Bats,preyedUponBy
+48011,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+48011,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+48011,93797,Ambassis agassizii,Agassiz's Glassfish,preyedUponBy
+48011,,Neosiluris ater,,preyedUponBy
+48011,12971,Muscicapa striata,Spotted Flycatcher,preyedUponBy
+48011,125444,Plexippus paykulli,Pantropical Jumping Spider,preyedUponBy
+48011,,Polistes fuscatus,,preyedUponBy
+48011,104422,Lestes congener,Spotted Spreadwing,preyedUponBy
+48011,368587,Hypseleotris compressa,Empire Gudgeon,preyedUponBy
+48011,187100,Awaous acritosus,Roman-nose Goby,preyedUponBy
+48011,,Glossamia aprion,,preyedUponBy
+48011,,Geres filamentosis,,preyedUponBy
+48011,187422,Giuris margaritacea,Snakehead Gudgeon,preyedUponBy
+48011,,Rediogobius bikolanus,,preyedUponBy
+48011,368117,Melanotaenia splendida,Eastern Rainbowfish,preyedUponBy
+48011,,Craterocephalus stercusmuscarum,,preyedUponBy
+48011,,Tilapia mariae,,preyedUponBy
+48011,105808,Microphis brachyurus,Opposum Pipefish,preyedUponBy
+48011,40550,Chalinolobus tuberculatus,Long-tailed Wattled Bat,preyedUponBy
+48011,74819,Otomops madagascariensis,Madagascar free-tailed bat,preyedUponBy
+48011,,Myotis dasycneme,,preyedUponBy
+48011,40581,Barbastella barbastellus,Western Barbastelle,preyedUponBy
+48011,183170,Miniopterus manavi,Manavi Long-fingered Bat,preyedUponBy
+48011,74624,Miniopterus majori,Major's Long-fingered Bat,preyedUponBy
+48011,,Myotis goudoti,,preyedUponBy
+48011,41279,Mormopterus,,preyedUponBy
+48011,40608,Murina leucogaster,greater tube-nosed bat,preyedUponBy
+48011,765536,Chaerephon atsinanana,Madagascar Free-tailed Bat,preyedUponBy
+48011,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+48011,40715,Hipposideros ater,Dusky Roundleaf Bat,preyedUponBy
+48011,40746,Hipposideros speoris,Schneider's roundleaf bat,preyedUponBy
+48011,41378,Taphozous longimanus,Long-winged Tomb Bat,preyedUponBy
+48011,,Rhinolophus thailandiensis,,preyedUponBy
+48011,,Hypsugo cadornae,,preyedUponBy
+48011,40717,Hipposideros armiger,Great Roundleaf Bat,preyedUponBy
+48011,41376,Taphozous melanopogon,Black-bearded Tomb Bat,preyedUponBy
+48011,,Eptesicus nilssonii,,preyedUponBy
+48011,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+48011,,Myotis daubentonii,,preyedUponBy
+48011,,Pipistrellus abramus,,preyedUponBy
+48011,40272,Myotis macrodactylus,big-footed myotis,preyedUponBy
+48011,210400,Myotis nattereri,Natterer's Bat,preyedUponBy
+48011,,Vespertilio sinensis,,preyedUponBy
+48011,,Myotis ricketti,,preyedUponBy
+48011,765551,Mops leucostigma,Malagasy White-bellied Free-tailed Bat,preyedUponBy
+48011,,Hipposideros commersoni,,preyedUponBy
+48011,,Rhinolophus blasii,,preyedUponBy
+48011,40677,Rhinolophus euryale,Mediterranean horseshoe bat,preyedUponBy
+48011,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+48011,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+48011,74717,Myotis punicus,Felten's myotis,preyedUponBy
+48011,40286,Myotis nigricans,Black Myotis,preyedUponBy
+48011,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+48011,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+48011,207811,Eptesicus serotinus,Serotine Bat,preyedUponBy
+48011,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+48011,40301,Myotis riparius,riparian myotis,preyedUponBy
+48011,40522,Lasiurus borealis,Eastern Red Bat,preyedUponBy
+48011,,Myotis yumanensis,,preyedUponBy
+48011,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+48011,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+48011,40352,Myotis grisescens,Gray Bat,preyedUponBy
+48011,40682,Rhinolophus inops,Philippine forest horseshoe bat,preyedUponBy
+48011,40704,Rhinolophus virgo,yellow-faced horseshoe bat,preyedUponBy
+48011,40672,Rhinolophus arcuatus,arcuate horseshoe bat,preyedUponBy
+48011,,Hipposideros pygmaeus,,preyedUponBy
+48011,,Mops leucogaster,,preyedUponBy
+48011,48648,Salmo salar,Atlantic Salmon,preyedUponBy
+48011,482055,Perla bipunctata,Large Stonefly,preyedUponBy
+48011,59805,Gammarus pulex,Freshwater Shrimp,preyedUponBy
+48011,47518,Salmo trutta,Brown Trout,preyedUponBy
+48011,,Gobiomorphus breviceps,,preyedUponBy
+48011,,Anguilla dieffenbachii,,preyedUponBy
+48011,,Crossocerus (Blepharipus) walkeri,,preyedUponBy

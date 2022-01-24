@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+376148,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+376148,48230,Ranunculus,buttercups,pollinates
+376148,51900,Hypochaeris,Cat's-Ears,pollinates
+376148,48160,Centaurea,knapweeds,pollinates
+376148,,Harpocera thoracica,,pollinates
+376148,,Andrena,,pollinates
+376148,76365,Cistus salviifolius,Sage-leaved Rock-rose,pollinates
+376148,,Cistus parviflorus,,pollinates
+376148,,Thymus capitatus,,pollinates
+376148,,Cardaria draba,,pollinates
+376148,,Crupina crupinastrum,,pollinates
+376148,,Capparis,,pollinates
+376148,,Nigella segetalis,,pollinates
+376148,,Scabiosa atropurpurea,,pollinates
+376148,,Celmisia spectabilis,,pollinates
+376148,349792,Aciphylla,Spaniard grass,pollinates
+376148,52381,Aphididae,Aphids,pollinatedBy

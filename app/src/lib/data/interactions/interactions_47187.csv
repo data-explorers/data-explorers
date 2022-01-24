@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47187,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+47187,4519,Uria aalge,Common Murre,eatenBy
+47187,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+47187,14898,Toxostoma rufum,Brown Thrasher,eatenBy
+47187,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+47187,8010,Corvus corax,Common Raven,eatenBy
+47187,5009,Ixobrychus exilis,Least Bittern,eatenBy
+47187,72458,Actitis macularius,Spotted Sandpiper,eatenBy
+47187,144539,Thalasseus maximus,Royal Tern,eatenBy
+47187,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+47187,4202,Thalassoica antarctica,Antarctic Petrel,eatenBy
+47187,516974,Sapajus libidinosus,Black-striped Capuchin,eatenBy
+47187,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47187,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+47187,,Theragra chalcogramma,,eatenBy
+47187,92984,Abramis brama,Common Bream,eatenBy
+47187,49229,Alosa alosa,Allis Shad,eatenBy
+47187,93704,Alosa fallax,Twaite Shad,eatenBy
+47187,93189,Acipenser ruthenus,Sterlet,eatenBy
+47187,95811,Blicca bjoerkna,Silver Bream,eatenBy
+47187,69989,Rutilus rutilus,Common Roach,eatenBy
+47187,459205,Beryx splendens,Alfonsino,eatenBy
+47187,317310,Polymixia lowei,Beardfish,eatenBy
+47187,105109,Malacocephalus occidentalis,Western Softhead Grenadier,eatenBy
+47187,617016,Coelorinchus marinii,,eatenBy
+47187,217661,Cottunculus microps,Polar Sculpin,eatenBy
+47187,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47187,55200,Brycinus nurse,,eatenBy
+47187,47231,Caranx,Kingfishes,eatenBy
+47187,94070,Anchoa mitchilli,Bay Anchovy,eatenBy
+47187,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+47187,179547,Menticirrhus saxatilis,Northern Kingfish,eatenBy
+47187,179456,Stellifer lanceolatus,American Stardrum,eatenBy
+47187,154500,Cynoscion regalis,Weakfish,eatenBy
+47187,179545,Menticirrhus americanus,Southern Kingfish,eatenBy
+47187,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+47187,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+47187,179564,Larimus fasciatus,Banded Drum,eatenBy
+47187,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+47187,179519,Opisthonema oglinum,Atlantic Thread Herring,eatenBy
+47187,179491,Prionotus tribulus,Bighead Searobin,eatenBy
+47187,154501,Cynoscion nothus,Silver Seatrout,eatenBy
+47187,62410,Homarus gammarus,European lobster,eatenBy
+47187,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+47187,4305,Phalacrocorax urile,Red-faced Cormorant,eatenBy
+47187,4537,Anous minutus,Black Noddy,eatenBy
+47187,,Puffinus tenuirostris,,eatenBy
+47187,14895,Toxostoma longirostre,Long-billed Thrasher,eatenBy
+47187,14912,Toxostoma curvirostre,Curve-billed Thrasher,eatenBy
+47187,6994,Bucephala islandica,Barrow's Goldeneye,eatenBy
+47187,6990,Bucephala clangula,Common Goldeneye,eatenBy
+47187,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47187,3893,Tringa flavipes,Lesser Yellowlegs,eatenBy
+47187,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,preyedUponBy
+47187,30089,Fordonia leucobalia,Crab-eating Snake,preyedUponBy

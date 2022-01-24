@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55596,47126,Plantae,plants,eats
+55596,54779,Quercus alba,white oak,eats
+55596,119269,Quercus stellata,post oak,eats
+55596,,Quercus robur,,eats
+55596,,Quercus cornelius-mulleri,,eats
+55596,,Quercus arizonica,,eats
+55596,,Quercus margaretiae,,eats
+55596,,Quercus chrysolepis,,eats
+55596,17355,Vireo,Vireos,eatenBy
+55596,,Mesopolobus fuscipes,,eatenBy
+55596,,Aulogymnus,,eatenBy
+55596,,Cryptocephalus querceti,,eatenBy

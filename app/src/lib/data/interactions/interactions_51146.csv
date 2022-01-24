@@ -1,0 +1,182 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51146,47126,Plantae,plants,eats
+51146,60335,Rhizophora mangle,red mangrove,eats
+51146,118597,Belone belone,Garfish,eatenBy
+51146,4209,Podiceps auritus,Horned Grebe,eatenBy
+51146,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+51146,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+51146,145238,Setophaga petechia,Yellow Warbler,eatenBy
+51146,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+51146,13858,Passer domesticus,House Sparrow,eatenBy
+51146,17356,Vireo bellii,Bell's Vireo,eatenBy
+51146,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+51146,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+51146,17355,Vireo,Vireos,eatenBy
+51146,9346,Icterus galbula,Baltimore Oriole,eatenBy
+51146,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+51146,12727,Turdus migratorius,American Robin,eatenBy
+51146,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+51146,10247,Setophaga ruticilla,American Redstart,eatenBy
+51146,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+51146,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+51146,14850,Sturnus vulgaris,European Starling,eatenBy
+51146,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+51146,11867,Progne subis,Purple Martin,eatenBy
+51146,9135,Spizella passerina,Chipping Sparrow,eatenBy
+51146,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+51146,9152,Spizella pusilla,Field Sparrow,eatenBy
+51146,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+51146,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+51146,7294,Eremophila alpestris,Horned Lark,eatenBy
+51146,9528,Sturnella magna,Eastern Meadowlark,eatenBy
+51146,9535,Sturnella neglecta,Western Meadowlark,eatenBy
+51146,7576,Thryomanes bewickii,Bewick's Wren,eatenBy
+51146,,Northern myotis,,eatenBy
+51146,,Colibri coruscans,,eatenBy
+51146,13094,Erithacus rubecula,European Robin,eatenBy
+51146,51333,Macquaria australasica,Macquarie Perch,eatenBy
+51146,114127,Thymallus thymallus,Grayling,eatenBy
+51146,5017,Bubulcus ibis,Cattle Egret,eatenBy
+51146,,Salpinctes obsoletus,,eatenBy
+51146,,Podiceps grisegena,,eatenBy
+51146,,Peucaea aestivalis,,eatenBy
+51146,145250,Setophaga adelaidae,Adelaide's Warbler,eatenBy
+51146,145233,Setophaga americana,Northern Parula,eatenBy
+51146,16024,Myiarchus antillarum,Puerto Rican Flycatcher,eatenBy
+51146,10199,Coereba flaveola,Bananaquit,eatenBy
+51146,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+51146,16102,Contopus latirostris,Lesser Antillean Pewee,eatenBy
+51146,11855,Petrochelidon fulva,Cave Swallow,eatenBy
+51146,145249,Setophaga discolor,Prairie Warbler,eatenBy
+51146,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+51146,1971,Crotophaga ani,Smooth-billed Ani,eatenBy
+51146,9764,Agelaius xanthomus,Yellow-shouldered Blackbird,eatenBy
+51146,72952,Icterus portoricensis,Puerto Rican Oriole,eatenBy
+51146,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+51146,,Parkesia motacilla,,eatenBy
+51146,144479,Gallinula galeata,Common Gallinule,eatenBy
+51146,1070,Tympanuchus phasianellus,Sharp-tailed Grouse,eatenBy
+51146,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+51146,,Empidonax traillii,,eatenBy
+51146,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+51146,1264,Centrocercus urophasianus,Greater Sage-Grouse,eatenBy
+51146,17408,Vireo griseus,White-eyed Vireo,eatenBy
+51146,17394,Vireo gilvus,Warbling Vireo,eatenBy
+51146,,Vireo flavifrons,,eatenBy
+51146,17364,Vireo philadelphicus,Philadelphia Vireo,eatenBy
+51146,4512,Chlidonias niger,Black Tern,eatenBy
+51146,,Picoides pubescens,,eatenBy
+51146,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+51146,,Setophaga pinus,,eatenBy
+51146,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+51146,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+51146,,Ammodramus leconteii,,eatenBy
+51146,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+51146,19577,Chordeiles minor,Common Nighthawk,eatenBy
+51146,116840,Calcarius lapponicus,Lapland Longspur,eatenBy
+51146,3962,Bartramia longicauda,Upland Sandpiper,eatenBy
+51146,344926,Artemisiospiza belli,Bell's Sparrow,eatenBy
+51146,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+51146,20781,Trogon elegans,Elegant Trogon,eatenBy
+51146,48626,Oenothera,"evening primroses, sundrops, and beeblossoms",pollinates
+51146,490877,Rhaphithamnus spinosus,Prickly myrtle,pollinates
+51146,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+51146,82081,Theridion,Tangleweb Spiders,preyedUponBy
+51146,47928,Zygoptera,Damselflies,preyedUponBy
+51146,51556,Sympetrum,Meadowhawks,preyedUponBy
+51146,47927,Anisoptera,Dragonflies,preyedUponBy
+51146,52932,Cantharidae,Soldier Beetles,preyedUponBy
+51146,47951,Staphylinidae,Rove Beetles,preyedUponBy
+51146,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+51146,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+51146,47416,Lycosidae,Wolf Spiders,preyedUponBy
+51146,148395,Trochosa,,preyedUponBy
+51146,47866,Thomisidae,Crab Spiders,preyedUponBy
+51146,50168,Gnaphosidae,Ground Spiders,preyedUponBy
+51146,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+51146,133054,Maevia inclemens,Dimorphic Jumping Spider,preyedUponBy
+51146,307026,Labidura riparia,Shore Earwig,preyedUponBy
+51146,67706,Argiope argentata,Silver Garden Orbweaver,preyedUponBy
+51146,250072,Metacyrba,,preyedUponBy
+51146,121467,Uloborus,Feather-legged Spiders,preyedUponBy
+51146,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+51146,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+51146,82118,Dolomedes,Fishing Spiders,preyedUponBy
+51146,326354,Neoscona adianta,Bordered Orbweaver,preyedUponBy
+51146,121444,Larinioides,,preyedUponBy
+51146,360744,Marpissa radiata,,preyedUponBy
+51146,434389,Somatochlora flavomaculata,Yellow-spotted Emerald,preyedUponBy
+51146,50867,Argiope bruennichi,Wasp Spider,preyedUponBy
+51146,,Somatochlora,,preyedUponBy
+51146,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+51146,,Coenagrion pulchellum,,preyedUponBy
+51146,,Tetragnatha extensa,,preyedUponBy
+51146,51679,Coenagrion,Northern Bluets,preyedUponBy
+51146,521083,Strigamia acuminata,,preyedUponBy
+51146,127023,Amaurobius,Lace web spider,preyedUponBy
+51146,537133,Lithobius crassipes,,preyedUponBy
+51146,230519,Schendyla nemorensis,,preyedUponBy
+51146,452503,Robertus lividus,,preyedUponBy
+51146,494566,Athous subfuscus,,preyedUponBy
+51146,705967,Harpactea lepida,,preyedUponBy
+51146,,Lithobius,,preyedUponBy
+51146,739596,Lithobius mutabilis,,preyedUponBy
+51146,637234,Xysticus erraticus,,preyedUponBy
+51146,71061,Xysticus cristatus,,preyedUponBy
+51146,,Cochlodryas,,preyedUponBy
+51146,318917,Euryopis flavomaculata,,preyedUponBy
+51146,784255,Haplodrassus soerenseni,,preyedUponBy
+51146,494277,Molops piceus,,preyedUponBy
+51146,154600,Agonum,,preyedUponBy
+51146,360548,Zora spinimana,,preyedUponBy
+51146,212779,Agonum muelleri,,preyedUponBy
+51146,,Haplodrassus silvstris,,preyedUponBy
+51146,131880,Notiophilus biguttatus,,preyedUponBy
+51146,783673,Apostenus fuscus,,preyedUponBy
+51146,491485,Pterostichus oblongopunctatus,Bronzed Blackclock,preyedUponBy
+51146,,Lathrobium brunnipes,,preyedUponBy
+51146,336908,Cryptops hortensis,Common Cryptops,preyedUponBy
+51146,,Dendroica,,preyedUponBy
+51146,49541,Gasteracantha,Spiny Orbweavers,preyedUponBy
+51146,84495,Paraphidippus,,preyedUponBy
+51146,153839,Hentzia palmarum,Common Hentz Jumping Spider,preyedUponBy
+51146,,Scleroderma macrogaster,,preyedUponBy
+51146,,Tyrannochelifer,,preyedUponBy
+51146,120213,Metepeira labyrinthea,Labyrinth Orbweaver,preyedUponBy
+51146,420613,Stoidis,,preyedUponBy
+51146,354274,Ballus,,preyedUponBy
+51146,,Nephila clavipes,,preyedUponBy
+51146,263718,Argyrodes nephilae,,preyedUponBy
+51146,266087,Pachodynerus nasidens,Keyhole Wasp,preyedUponBy
+51146,326197,Troilus luridus,Bronze Shield Bug,preyedUponBy
+51146,,Parasyrphus nigritarsis,,preyedUponBy
+51146,,Entomognathus brevis,,preyedUponBy
+51146,363786,Picromerus bidens,Spiny Shield Bug,preyedUponBy
+51146,41211,Mystacinidae,New Zealand Short-tailed Bats,preyedUponBy
+51146,1150085,Myotis myotis,,preyedUponBy
+51146,40383,Pipistrellus kuhlii,Kuhl's pipistrelle,preyedUponBy
+51146,41298,Tadarida teniotis,European Free-tailed Bat,preyedUponBy
+51146,,Hypsugo bodenheimeri,,preyedUponBy
+51146,245993,Rhinopoma hardwickii,Lesser Mouse-tailed Bat,preyedUponBy
+51146,183176,Asellia tridens,Geoffroy's Trident Leaf-nosed Bat,preyedUponBy
+51146,40640,Rhinopoma microphyllum,Greater Mouse-tailed Bat,preyedUponBy
+51146,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+51146,320633,Rhinolophus clivosus,Geoffroy's horseshoe bat,preyedUponBy
+51146,,Hypsugo ariel,,preyedUponBy
+51146,40761,Hipposideros caffer,Sundevall's roundleaf bat,preyedUponBy
+51146,41077,Phyllostomus discolor,pale spear-nosed bat,preyedUponBy
+51146,41254,Molossus molossus,Velvety Free-tailed Bat,preyedUponBy
+51146,,Phyllostomus hastatus,,preyedUponBy
+51146,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+51146,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy
+51146,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+51146,40348,Myotis velifer,Cave Myotis,preyedUponBy
+51146,40352,Myotis grisescens,Gray Bat,preyedUponBy
+51146,,Myotis volans,,preyedUponBy
+51146,40354,Myotis evotis,Miller's Myotis,preyedUponBy
+51146,40342,Myotis californicus,California Myotis,preyedUponBy
+51146,40629,Lasionycteris noctivagans,Silver-haired Bat,preyedUponBy
+51146,183164,Parastrellus hesperus,Canyon Bat,preyedUponBy
+51146,40552,Chalinolobus nigrogriseus,Hoary Wattled Bat,preyedUponBy
+51146,40544,Chalinolobus gouldii,Gould's Wattled Bat,preyedUponBy
+51146,739392,Emballonura semicaudata rotensis,,preyedUponBy

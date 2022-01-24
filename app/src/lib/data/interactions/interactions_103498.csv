@@ -1,0 +1,18 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+103498,47928,Zygoptera,Damselflies,eats
+103498,56924,Graphocephala,,eats
+103498,53275,Chironomidae,Non-biting Midges,eats
+103498,,Mesovelia,,eats
+103498,,Graphocephala versuta,,eats
+103498,103498,Ischnura posita,Fragile Forktail,preysOn
+103498,53237,Cicadellidae,Typical Leafhoppers,preysOn
+103498,53275,Chironomidae,Non-biting Midges,preysOn
+103498,99892,Enallagma basidens,Double-striped Bluet,preysOn
+103498,103498,Ischnura posita,Fragile Forktail,preyedUponBy
+103498,47118,Araneae,Spiders,preyedUponBy
+103498,48139,Salticidae,Jumping Spiders,preyedUponBy
+103498,94557,Argia moesta,Powdered Dancer,preyedUponBy
+103498,,Psilocurus birdi,,preyedUponBy
+103498,,Micrathena gracilis,,preyedUponBy
+103498,70191,Ischnura ramburii,Rambur's Forktail,preyedUponBy
+103498,,Lestes inaequalis,,preyedUponBy

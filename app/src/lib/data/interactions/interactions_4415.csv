@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4415,47186,Decapoda,Decapods,eats
+4415,49390,Blenniidae,Combtooth Blennies,eats
+4415,121639,Brachyura,True Crabs,eats
+4415,47459,Cephalopoda,Cephalopods,eats
+4415,85493,Crustacea,Crustaceans,eats
+4415,47178,Actinopterygii,Ray-finned Fishes,eats
+4415,51200,Hippolytidae,Hump-backed Shrimps,eats
+4415,47827,Cancer,,eats
+4415,48174,Paguridae,Pagurid Hermit Crabs,eats
+4415,47490,Polychaeta,Polychaete Worms,eats
+4415,614161,Gadus chalcogrammus,Alaska Pollock,eats
+4415,97990,Clupea harengus,Atlantic Herring,eats
+4415,86396,Ammodytes,,eats
+4415,47525,Pleuronectidae,Righteye Flounders,eats
+4415,118600,Sardina pilchardus,European Sardine,eats
+4415,47762,Sebastes,Rockfishes,eats
+4415,85289,Pseudophycis bachus,Red cod,eats
+4415,82353,Merluccius,Hakes,eats
+4415,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+4415,64464,Sebastes jordani,Shortbelly Rockfish,eats
+4415,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+4415,788542,Brotulinae,,eats
+4415,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+4415,117571,Clupea pallasii,Pacific herring,eats
+4415,63740,Gadus morhua,Atlantic Cod,eats
+4415,146888,Illex,Shortfin Squids,eats
+4415,615732,Crapatalus angusticeps,Slender stargazer,eats
+4415,,Hexagrammoidei,,eats
+4415,218966,Eleginus gracilis,Saffron Cod,eats
+4415,,Macruronus magellanicus,,eats
+4415,,Teuthida,,eats
+4415,82337,Loligo,,eats
+4415,,Pholidae,,eats
+4415,55535,Sardinops sagax,Pacific Sardine,eats
+4415,,Gnathostomata,,eats
+4415,,Others,,eats
+4415,,Ophidiidae,,eats
+4415,324532,Sprattus sprattus,European Sprat,eats
+4415,338921,Macruronus novaezelandiae,Blue Grenadier,eats
+4415,614162,Micromesistius australis,Southern blue whiting,eats
+4415,55398,Solea,,eats
+4415,215318,Boreogadus saida,Arctic Cod,eats
+4415,,Kondakovia longimana,,eats
+4415,326208,Ammodytes marinus,Raitt's Sand Lance,eats
+4415,88265,Etrumeus,Red-eye Round Herrings,eats
+4415,120702,Micromesistius poutassou,Blue Whiting,eats
+4415,180029,Gadus macrocephalus,Pacific Cod,eats
+4415,213402,Ammodytes americanus,American Sand Lance,eats
+4415,228496,Pollachius virens,Pollock,eats
+4415,86991,Blennius,,eats
+4415,362574,Pleurogrammus azonus,Okhotsk Atka Mackerel,eats
+4415,,Etrumeus teres,,eats
+4415,295763,Dulichiella appendiculata,,eats
+4415,,others,,eats
+4415,,Pisces,,eats
+4415,47646,Myoxocephalus,Shorthorn Sculpins,eats
+4415,86890,Bathymaster,,eats
+4415,171917,Musculus,,eats
+4415,220718,Gymnocanthus tricuspis,Arctic Staghorn Sculpin,eats
+4415,89645,Lumpenus,,eats
+4415,47290,Crangonidae,,eats
+4415,89921,Microgadus,,eats
+4415,169919,Trichodon trichodon,Pacific Sandfish,eats
+4415,129948,Lacuna,Lacuna Snails,eats
+4415,48416,Citharichthys,,eats
+4415,49163,Leptocottus armatus,Pacific Staghorn Sculpin,eats
+4415,,Theragra chalcogramma,,eats
+4415,47710,Pandalidae,,eats
+4415,104926,Lyopsetta exilis,Slender Sole,eats
+4415,83159,Liparis,Widelip Orchids,eats
+4415,92631,Triglops,,eats
+4415,223433,Leptoclinus maculatus,Daubed Shanny,eats
+4415,165100,Mallotus villosus,Capelin,eats
+4415,52539,Ophiodon elongatus,Lingcod,eats
+4415,89054,Icelus,,eats
+4415,60022,Porichthys,Midshipmen,eats
+4415,51353,Anoplopoma fimbria,Sablefish,eats
+4415,214216,Artedius corallinus,Coralline Sculpin,eats
+4415,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4415,42054,Vulpes,Typical Foxes,eatenBy
+4415,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4415,144594,Bubo scandiacus,Snowy Owl,eatenBy
+4415,85641,Bothidae,Lefteye Flounders,preysOn
+4415,47645,Cottidae,Typical Sculpins,preysOn
+4415,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+4415,246134,Oegopsida,Pelagic Squids,preysOn
+4415,48460,Life,,preysOn
+4415,47762,Sebastes,Rockfishes,preysOn
+4415,52539,Ophiodon elongatus,Lingcod,preysOn
+4415,,Octopus rubescens,,preysOn
+4415,1303751,Pleuronectoidei,Flatfishes,preysOn
+4415,64464,Sebastes jordani,Shortbelly Rockfish,preysOn
+4415,788542,Brotulinae,,preysOn
+4415,85574,Ammodytidae,Sand Lances,preysOn
+4415,63687,Embiotocidae,Surfperches,preysOn
+4415,117571,Clupea pallasii,Pacific herring,preysOn
+4415,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4415,130238,Ammodytes hexapterus,Arctic Sand Lance,preysOn
+4415,49236,Clupeidae,"Shads, Sardines, and Menhadens",preysOn
+4415,67362,Pholis laeta,Crescent gunnel,preysOn
+4415,216746,Chitonotus pugetensis,Roughback Sculpin,preysOn

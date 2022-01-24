@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49522,47811,Ascidiacea,Sea Squirts,eats
+49522,47534,Cnidaria,Cnidarians,eats
+49522,179463,Stenotomus caprinus,Longspine porgy,eatenBy
+49522,131454,Halieutichthys aculeatus,Pancake Batfish,eatenBy
+49522,146829,Anchoa hepsetus,Striped Anchovy,eatenBy
+49522,104857,Lutjanus guttatus,Spotted Rose Snapper,eatenBy
+49522,101181,Galeus eastmani,Gecko Catshark,eatenBy
+49522,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+49522,97517,Chimaera monstrosa,rabbit fish,eatenBy

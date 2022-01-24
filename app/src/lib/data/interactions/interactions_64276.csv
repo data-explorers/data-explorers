@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64276,6913,Cygnus,True Swans,eatenBy
+64276,,Listroderes solutus,,eatenBy
+64276,143343,Hyalopterus pruni,Mealy Plum Aphid,eatenBy
+64276,429226,Sesamia inferens,,eatenBy
+64276,,Apamea ophiogramma,,eatenBy
+64276,,Hydraecia osseola,,eatenBy
+64276,716396,Arenostola semicana,,eatenBy
+64276,,Cosmopterix lienigiella,,eatenBy
+64276,,Brachmia inornatella,,eatenBy
+64276,7045,Aythya ferina,Common Pochard,eatenBy
+64276,,Fulica atra,,eatenBy
+64276,,pochard - swan - coot,,eatenBy
+64276,,Coenonympha oedippus,,eatenBy
+64276,,Ochlodes yuma,,eatenBy
+64276,,Ochlodes venata,,eatenBy
+64276,,Ochlodes sylvanus,,eatenBy
+64276,,Poanes viator,,eatenBy
+64276,,Taractrocera papyria,,eatenBy
+64276,,Ostrinia furnacalis,,eatenBy
+64276,,Kobus ellipsiprymnus,,preyedUponBy

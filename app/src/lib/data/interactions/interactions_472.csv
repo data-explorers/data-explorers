@@ -1,0 +1,100 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+472,144537,Hydroprogne caspia,Caspian Tern,eats
+472,3912,Gallinago,Typical Snipes,eats
+472,472,Fulica,Coots,eats
+472,144541,Thalasseus sandvicensis,Sandwich Tern,eats
+472,4209,Podiceps auritus,Horned Grebe,eats
+472,,Motacilla alba,,eats
+472,,Acrocephalus baeticatus,,eats
+472,,Gallinago gallinago,,eats
+472,,Rallus aquaticus,,eats
+472,,Acrocephalus paludicola,,eats
+472,,Chlidonias leucopterus,,eats
+472,,Arvicola scherman,,eats
+472,,Porzana porzana,,eats
+472,4208,Podiceps cristatus,Great Crested Grebe,eats
+472,4450,Sterna hirundo,Common Tern,eats
+472,,Locustella lanceolata,,eats
+472,116938,Locustella fluviatilis,River Warbler,eats
+472,4835,Himantopus himantopus,Black-winged Stilt,eats
+472,,Acrocephalus agricola,,eats
+472,,Locustella luscinioides,,eats
+472,13686,Motacilla,Wagtails,eats
+472,,Neomys anomalus,,eats
+472,,Acrocephalus schoenobaenus,,eats
+472,144529,Sternula albifrons,Little Tern,eats
+472,,Arvicola amphibius,,eats
+472,,Podiceps grisegena,,eats
+472,,Recurvirostra avosetta,,eats
+472,201282,Gallinula chloropus,Common Moorhen,eats
+472,,Arvicola,,eats
+472,116941,Locustella naevia,Common Grasshopper-Warbler,eats
+472,,Porzana parva,,eats
+472,144543,Thalasseus bengalensis,Lesser Crested Tern,eats
+472,,Cettia cetti,,eats
+472,7697,Cisticola juncidis,Zitting Cisticola,eats
+472,,Fulica atra,,eats
+472,,Motacilla citreola,,eats
+472,,Motacilla cinerea,,eats
+472,4512,Chlidonias niger,Black Tern,eats
+472,475028,Porphyrio porphyrio,Western Swamphen,eats
+472,,Acrocephalus melanopogon,,eats
+472,,Porzana pusilla,,eats
+472,46859,Neomys fodiens,Eurasian Water Shrew,eats
+472,,Gallinago media,,eats
+472,3882,Tringa erythropus,Spotted Redshank,eats
+472,4449,Sterna paradisaea,Arctic Tern,eats
+472,144525,Onychoprion fuscatus,Sooty Tern,eats
+472,4205,Podiceps nigricollis,Eared Grebe,eats
+472,4436,Sterna dougallii,Roseate Tern,eats
+472,3978,Actitis hypoleucos,Common Sandpiper,eats
+472,,Acrocephalus palustris,,eats
+472,,Chlidonias hybrida,,eats
+472,4237,Tachybaptus ruficollis,Little Grebe,eats
+472,,Acrocephalus arundinaceus,,eats
+472,,Acrocephalus scirpaceus,,eats
+472,144536,Gelochelidon nilotica,Gull-billed Tern,eats
+472,,Neomys teres,,eats
+472,,http://treatment.plazi.org/id/799EFD6571AD8B5FF788547CFBAE0A77,,eats
+472,472,Fulica,Coots,eatenBy
+472,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+472,8010,Corvus corax,Common Raven,eatenBy
+472,42069,Vulpes vulpes,Red Fox,eatenBy
+472,20044,Bubo virginianus,Great Horned Owl,eatenBy
+472,5173,Circus aeruginosus,Eurasian Marsh-Harrier,eatenBy
+472,5309,Haliaeetus albicilla,White-tailed Eagle,eatenBy
+472,5268,Milvus migrans,Black Kite,eatenBy
+472,5108,Accipiter gentilis,Northern Goshawk,eatenBy
+472,5200,Buteo lagopus,Rough-legged Hawk,eatenBy
+472,5267,Milvus milvus,Red Kite,eatenBy
+472,,Aquila pomarina,,eatenBy
+472,144467,Aquila fasciata,Bonelli's Eagle,eatenBy
+472,,Fulica atra,,eatenBy
+472,475028,Porphyrio porphyrio,Western Swamphen,eatenBy
+472,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy
+472,,Rallus aquaticus,,eatenBy
+472,144297,Stercorarius skua,Great Skua,eatenBy
+472,4491,Stercorarius pomarinus,Pomarine Jaeger,eatenBy
+472,4481,Stercorarius longicaudus,Long-tailed Jaeger,eatenBy
+472,204533,Larus argentatus,Herring Gull,eatenBy
+472,4389,Larus cachinnans,Caspian Gull,eatenBy
+472,59202,Larus michahellis,Yellow-legged Gull,eatenBy
+472,20059,Bubo bubo,Eurasian Eagle-Owl,eatenBy
+472,19898,Strix aluco,Tawny Owl,eatenBy
+472,204496,Corvus corone,Carrion Crow,eatenBy
+472,8029,Corvus frugilegus,Rook,eatenBy
+472,41900,Herpestes ichneumon,Ichneumon,eatenBy
+472,41850,Lutra lutra,Eurasian Otter,eatenBy
+472,41800,Martes foina,Stone Marten,eatenBy
+472,42134,Sus scrofa,Wild Boar,eatenBy
+472,41805,Mustela lutreola,European Mink,eatenBy
+472,569428,Mustela nivalis,Least Weasel,eatenBy
+472,41812,Mustela putorius,Western Polecat,eatenBy
+472,41813,Mustela sibirica,Siberian Weasel,eatenBy
+472,28451,Telescopus nigriceps,Black headed snake,eatenBy
+472,27035,Hierophis viridiflavus carbonarius,,eatenBy
+472,30285,Elaphe sauromates,East-Four-lined Ratsnake,eatenBy
+472,39407,Varanus griseus,Desert Monitor,eatenBy
+472,29449,Malpolon monspessulanus,Western Montpellier Snake,eatenBy
+472,,Elaphe situla,,eatenBy
+472,30282,Elaphe dione,Steppe Ratsnake,eatenBy

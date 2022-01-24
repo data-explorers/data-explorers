@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+127492,48626,Oenothera,"evening primroses, sundrops, and beeblossoms",eats
+127492,50334,Lantana,,eats
+127492,13858,Passer domesticus,House Sparrow,eatenBy
+127492,41301,Tadarida brasiliensis,Mexican Free-tailed Bat,preyedUponBy
+127492,,Corynorhinus townsendii,,preyedUponBy

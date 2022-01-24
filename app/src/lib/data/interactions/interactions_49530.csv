@@ -1,0 +1,59 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49530,83633,Dodonaea triquetra,Common Hop Bush,eats
+49530,,Ageratina altissima,,eats
+49530,84640,Polistes dominula,European Paper Wasp,eatenBy
+49530,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+49530,9981,Passerculus sandwichensis,Savannah Sparrow,eatenBy
+49530,10227,Passerina cyanea,Indigo Bunting,eatenBy
+49530,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+49530,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+49530,14850,Sturnus vulgaris,European Starling,eatenBy
+49530,117100,Regulus satrapa,Golden-crowned Kinglet,eatenBy
+49530,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eatenBy
+49530,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+49530,10286,Mniotilta varia,Black-and-white Warbler,eatenBy
+49530,9607,Quiscalus mexicanus,Great-tailed Grackle,eatenBy
+49530,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+49530,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+49530,,Cermatulus nasalis nasalis,,eatenBy
+49530,145249,Setophaga discolor,Prairie Warbler,eatenBy
+49530,9183,Zonotrichia capensis,Rufous-collared Sparrow,eatenBy
+49530,,Beata wickhami,,eatenBy
+49530,17943,Dendrocopos leucotos,White-backed Woodpecker,eatenBy
+49530,,Dendrocopos minor,,eatenBy
+49530,,Dendrocopos medius,,eatenBy
+49530,17871,Dendrocopos major,Great Spotted Woodpecker,eatenBy
+49530,13094,Erithacus rubecula,European Robin,eatenBy
+49530,12716,Turdus merula,Eurasian Blackbird,eatenBy
+49530,,Caprimulgus vociferus,,eatenBy
+49530,10487,Dolichonyx oryzivorus,Bobolink,eatenBy
+49530,5017,Bubulcus ibis,Cattle Egret,eatenBy
+49530,,Setophaga striata,,eatenBy
+49530,145236,Setophaga castanea,Bay-breasted Warbler,eatenBy
+49530,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+49530,7603,Auriparus flaviceps,Verdin,eatenBy
+49530,,Parkesia motacilla,,eatenBy
+49530,16624,Empidonax hammondii,Hammond's Flycatcher,eatenBy
+49530,144816,Poecile gambeli,Mountain Chickadee,eatenBy
+49530,8618,Gymnorhinus cyanocephalus,Pinyon Jay,eatenBy
+49530,,Corvus caurinus,,eatenBy
+49530,,Picoides pubescens,,eatenBy
+49530,144815,Poecile atricapillus,Black-capped Chickadee,preyedUponBy
+49530,48484,Harmonia axyridis,Asian Lady Beetle,preyedUponBy
+49530,7458,Certhia americana,Brown Creeper,preyedUponBy
+49530,29200,Opheodrys aestivus,Rough Greensnake,preyedUponBy
+49530,145235,Setophaga magnolia,Magnolia Warbler,preyedUponBy
+49530,,Chaetops frenatus,,preyedUponBy
+49530,,Podisus placidus,,preyedUponBy
+49530,,Eumenes coarctatus,,preyedUponBy
+49530,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,preyedUponBy
+49530,40705,Rhinolophus lepidus,Blyth's Horseshoe Bat,preyedUponBy
+49530,40689,Rhinolophus macrotis,big-eared horseshoe bat,preyedUponBy
+49530,40657,Rhinolophus pearsonii,Pearson's Horseshoe Bat,preyedUponBy
+49530,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+49530,765553,Mops midas,Midas Free-tailed Bat,preyedUponBy
+49530,,Plecotus auritus,,preyedUponBy
+49530,41186,Nycteris grandis,Large Slit-faced Bat,preyedUponBy
+49530,40364,Pipistrellus pipistrellus,Common Pipistrelle,preyedUponBy
+49530,,Pteronotus quadridens,,preyedUponBy
+49530,40523,Lasiurus cinereus,Hoary Bat,preyedUponBy

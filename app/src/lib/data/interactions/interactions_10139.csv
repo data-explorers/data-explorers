@@ -1,0 +1,72 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10139,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10139,47157,Lepidoptera,Butterflies and Moths,eats
+10139,47208,Coleoptera,Beetles,eats
+10139,49530,Geometridae,Geometer Moths,eats
+10139,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+10139,47928,Zygoptera,Damselflies,eats
+10139,47118,Araneae,Spiders,eats
+10139,47822,Diptera,Flies,eats
+10139,63089,Clitellata,Clitellates,eats
+10139,51146,Chrysomelidae,Leaf Beetles,eats
+10139,49567,Carabidae,Ground Beetles,eats
+10139,47742,Pentatomidae,Stink Bugs,eats
+10139,52326,Amaranthus,amaranths,eats
+10139,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+10139,58991,Portulaca oleracea,Common Purslane,eats
+10139,47114,Gastropoda,Gastropods,eats
+10139,48736,Curculionidae,True Weevils,eats
+10139,55488,Diabrotica,,eats
+10139,60304,Paspalum,Paspalum,eats
+10139,1,Animalia,Animals,eats
+10139,47124,Magnoliopsida,dicots,eats
+10139,47649,Acrididae,Short-horned Grasshoppers,eats
+10139,47158,Insecta,Insects,eats
+10139,51633,Digitaria sanguinalis,Hairy Crabgrass,eats
+10139,47758,Oxalis,woodsorrels,eats
+10139,52884,Gryllidae,True Crickets,eats
+10139,52472,Vicia,Vetches,eats
+10139,60301,Panicum,panicgrasses,eats
+10139,61267,Heteroptera,True Bugs,eats
+10139,48571,Carex,true sedges,eats
+10139,211194,Tracheophyta,vascular plants,eats
+10139,47434,Poaceae,grasses,eats
+10139,53036,Ambrosia,ragweeds,eats
+10139,53248,Elateridae,Click Beetles,eats
+10139,47199,Ichneumonidae,Ichneumonid Wasps,eats
+10139,48201,Scarabaeidae,Scarabs,eats
+10139,47336,Formicidae,Ants,eats
+10139,52381,Aphididae,Aphids,eats
+10139,48959,Reduviidae,Assassin Bugs,eats
+10139,48763,Neuroptera,"Antlions, Lacewings, and Allies",eats
+10139,53506,Tingidae,Lace Bugs,eats
+10139,50186,Cicadidae,Typical Cicadas,eats
+10139,53237,Cicadellidae,Typical Leafhoppers,eats
+10139,48382,Polygonaceae,knotweed family,eats
+10139,82067,Melyridae,Soft-winged Flower Beetles,eats
+10139,47204,Brassicaceae,mustard family,eats
+10139,52327,Amaranthaceae,amaranths,eats
+10139,47794,Raphidioptera,Snakeflies,eats
+10139,47759,Oxalidaceae,woodsorrel family,eats
+10139,48150,Boraginaceae,borage family,eats
+10139,1248164,Sporobolus indicus,,eats
+10139,54944,Fulgoridae,Lanternbugs,eats
+10139,,Melormenis,,eats
+10139,,Platydema,,eats
+10139,,Diaprepes abbreviatus,,eats
+10139,,Solenopsis geminata,,eats
+10139,,Corixa,,eats
+10139,,Paspalum millegrana,,eats
+10139,,Euscepes porcellus,,eats
+10139,,Coptocycla,,eats
+10139,,Scapteriscus didactylus,,eats
+10139,,Dactyloctenium aegyptium,,eats
+10139,,Urochloa fusca,,eats
+10139,,Cerotoma,,eats
+10139,,Rhynchospora nervosa,,eats
+10139,,Pheidole subarmata,,eats
+10139,,Hypoxis,,eats
+10139,,Ichnanthus pallens,,eats
+10139,174139,Cryptophagidae,Silken Fungus Beetles,eats
+10139,49525,Scutelleridae,Jewel Bugs,eats
+10139,4665,Falco sparverius,American Kestrel,eatenBy

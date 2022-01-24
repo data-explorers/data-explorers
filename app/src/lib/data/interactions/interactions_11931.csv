@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+11931,47157,Lepidoptera,Butterflies and Moths,eats
+11931,70058,Agrilus,,eats
+11931,218298,Diachus auratus,Bronze Leaf Beetle,eats
+11931,132021,Philonthus,,eats
+11931,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+11931,53237,Cicadellidae,Typical Leafhoppers,eats
+11931,47208,Coleoptera,Beetles,eats
+11931,53505,Miridae,Plant Bugs,eats
+11931,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+11931,51225,Tipulidae,Large Crane Flies,eats
+11931,47158,Insecta,Insects,eats
+11931,47822,Diptera,Flies,eats
+11931,48486,Coccinellidae,Lady Beetles,eats
+11931,62781,Camponotus,Carpenter and Sugar Ants,eats
+11931,55051,Cleridae,Checkered Beetles,eats
+11931,49995,Syrphidae,Hover Flies,eats
+11931,48736,Curculionidae,True Weevils,eats
+11931,69751,Eurytomidae,Seed Chalcidoid Wasps,eats
+11931,49567,Carabidae,Ground Beetles,eats
+11931,,Epitrix,,eats
+11931,176214,Oxypoda,,eats
+11931,121294,Curculio,Nut and Acorn Weevils,eats
+11931,,Aleochara bimaculata,,eats
+11931,,Platystethus americanus,,eats
+11931,,Notoxus,,eats
+11931,,Neohaemonia nigricornis,,eats
+11931,,Elaphrus ruscarius,,eats
+11931,,Planolinus tenellus,,eats
+11931,,Peritrechus fraternus,,eats
+11931,,Laccobius agilis,,eats
+11931,,Dendroctonus rufipennis,,eats
+11931,,Altica,,eats
+11931,,Aphodius,,eats
+11931,,Cantharis,,eats
+11931,321419,Anthicus punctulatus,,eats
+11931,,Hydrobius fuscipes,,eats
+11931,,Nabis,,eats
+11931,,Bradycellus rupestris,,eats
+11931,970288,Otophorus haemorrhoidalis,,eats
+11931,,Asemum,,eats
+11931,,Epitrix hirtipennis,,eats
+11931,,Pterostichus,,eats
+11931,,Aleochara,,eats
+11931,,Ips,,eats
+11931,,Scolytus,,eats
+11931,,Dendroctonus brevicomis,,eats
+11931,250200,Eurytoma,,eats
+11931,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+11931,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy

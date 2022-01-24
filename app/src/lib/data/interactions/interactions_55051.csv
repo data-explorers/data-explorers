@@ -1,0 +1,16 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55051,14850,Sturnus vulgaris,European Starling,eatenBy
+55051,7294,Eremophila alpestris,Horned Lark,eatenBy
+55051,11931,Tachycineta thalassina,Violet-green Swallow,eatenBy
+55051,16625,Empidonax occidentalis,Cordilleran Flycatcher,eatenBy
+55051,,Corvus caurinus,,eatenBy
+55051,,Picoides villosus,,eatenBy
+55051,,Sphyrapicus thyroideus,,eatenBy
+55051,,Picoides pubescens,,eatenBy
+55051,,Dryobates albolarvatus,,eatenBy
+55051,16110,Contopus cooperi,Olive-sided Flycatcher,eatenBy
+55051,,Acanthomintha ilicifolia,,pollinates
+55051,41072,Micronycteris megalotis,little big-eared bat,preyedUponBy
+55051,41137,Anoura geoffroyi,Geoffroy's tailless bat,preyedUponBy
+55051,,Phyllostomus hastatus,,preyedUponBy
+55051,40569,Nycticeius humeralis,Evening Bat,preyedUponBy

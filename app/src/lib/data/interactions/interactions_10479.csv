@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+10479,211194,Tracheophyta,vascular plants,eats
+10479,1,Animalia,Animals,eats
+10479,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+10479,47158,Insecta,Insects,eats
+10479,47434,Poaceae,grasses,eats
+10479,47124,Magnoliopsida,dicots,eats
+10479,47649,Acrididae,Short-horned Grasshoppers,eats
+10479,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+10479,,Aquila chrysaetos,,eatenBy
+10479,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+10479,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+10479,30751,Crotalus cerastes,Sidewinder,preyedUponBy

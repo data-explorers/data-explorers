@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56035,47219,Apis mellifera,Western Honey Bee,eatenBy
+56035,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+56035,,Colibri coruscans,,eatenBy
+56035,,Colibri thalassinus cyanotus,,eatenBy
+56035,,Vanessa gonerilla,,eatenBy
+56035,127777,Vespula vulgaris,Common European Yellowjacket,eatenBy

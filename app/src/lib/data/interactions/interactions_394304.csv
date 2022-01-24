@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+394304,4851,Haematopus finschi,South Island Oystercatcher,eatenBy
+394304,979649,Chroicocephalus novaehollandiae scopulinus,Red-billed Gull,eatenBy
+394304,72502,Anas chlorotis,Brown Teal,eatenBy
+394304,106260,Mustelus lenticulatus,Spotted Estuary Smooth-hound,eatenBy
+394304,4851,Haematopus finschi,South Island Oystercatcher,preyedUponBy
+394304,979649,Chroicocephalus novaehollandiae scopulinus,Red-billed Gull,preyedUponBy

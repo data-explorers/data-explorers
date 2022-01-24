@@ -1,0 +1,21 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+447777,85493,Crustacea,Crustaceans,eats
+447777,47490,Polychaeta,Polychaete Worms,eats
+447777,85521,Harpacticoida,Harpacticoid Copepods,eats
+447777,47186,Decapoda,Decapods,eats
+447777,1,Animalia,Animals,eats
+447777,47178,Actinopterygii,Ray-finned Fishes,eats
+447777,85912,Mysidae,,eats
+447777,47549,Echinodermata,Echinoderms,eats
+447777,,Podon,,eats
+447777,496460,Stigmatomyces,,eats
+447777,346580,Calanus helgolandicus,,eats
+447777,203495,Pseudocalanus,,eats
+447777,201728,Temora,,eats
+447777,472067,Penilia avirostris,,eats
+447777,203396,Centropages,,eats
+447777,,Pisces,,eats
+447777,203478,Evadne,,eats
+447777,195081,Acartia,,eats
+447777,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+447777,39677,Dermochelys coriacea,Leatherback Sea Turtle,preyedUponBy

@@ -1,0 +1,135 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+14886,48736,Curculionidae,True Weevils,eats
+14886,47157,Lepidoptera,Butterflies and Moths,eats
+14886,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+14886,52326,Amaranthus,amaranths,eats
+14886,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+14886,118890,Conocephalus,Lesser Meadow Katydids,eats
+14886,199946,Thyanta,,eats
+14886,50641,Solanum,nightshades,eats
+14886,50999,Ficus,Figs,eats
+14886,47118,Araneae,Spiders,eats
+14886,47208,Coleoptera,Beetles,eats
+14886,51967,Scoliidae,Scoliid Wasps,eats
+14886,47742,Pentatomidae,Stink Bugs,eats
+14886,47124,Magnoliopsida,dicots,eats
+14886,1,Animalia,Animals,eats
+14886,211194,Tracheophyta,vascular plants,eats
+14886,51874,Lonicera,honeysuckles,eats
+14886,49399,Juniperus virginiana,eastern redcedar,eats
+14886,54765,Rhus,sumacs,eats
+14886,53438,Rosa,roses,eats
+14886,26036,Reptilia,Reptiles,eats
+14886,47120,Arthropoda,Arthropods,eats
+14886,47126,Plantae,plants,eats
+14886,47336,Formicidae,Ants,eats
+14886,47158,Insecta,Insects,eats
+14886,85493,Crustacea,Crustaceans,eats
+14886,58732,Toxicodendron radicans,poison ivy,eats
+14886,64540,Celastrus orbiculatus,Oriental bittersweet,eats
+14886,77835,Lonicera japonica,Japanese honeysuckle,eats
+14886,54834,Prunus serotina,black cherry,eats
+14886,48599,Phytolacca americana,American pokeweed,eats
+14886,333586,Oligochaeta,Earthworms and allies,eats
+14886,48124,Tettigoniidae,Katydids,eats
+14886,50184,Washingtonia filifera,California fan palm,eats
+14886,61119,Ilex verticillata,winterberry holly,eats
+14886,48200,Melolonthinae,June Beetles,eats
+14886,51737,Solanum lycopersicum,tomato,eats
+14886,47927,Anisoptera,Dragonflies,eats
+14886,130872,Schinus terebinthifolia,Brazilian pepper,eats
+14886,184884,Pterygota,Winged and Once-winged Insects,eats
+14886,143799,Sambucus cerulea,blue elder,eats
+14886,48460,Life,,eats
+14886,469472,Malus domestica,apple,eats
+14886,3800,Morus,Gannets,eats
+14886,63609,Fremontodendron californicum,California flannelbush,eats
+14886,64122,Malosma laurina,laurel sumac,eats
+14886,154340,Gryllodes sigillatus,Tropical House Cricket,eats
+14886,49995,Syrphidae,Hover Flies,eats
+14886,57354,Schinus molle,Peruvian Pepper Tree,eats
+14886,78882,Rosa multiflora,multiflora rose,eats
+14886,143792,Pistacia chinensis,Chinese pistache,eats
+14886,47792,Odonata,Dragonflies and Damselflies,eats
+14886,47125,Angiospermae,flowering plants,eats
+14886,60218,Ficus carica,common fig,eats
+14886,60271,Asparagus,Asparagus,eats
+14886,34435,Hemidactylus turcicus,Mediterranean House Gecko,eats
+14886,,Selenophorus,,eats
+14886,,Paullinia pinnata,,eats
+14886,,Scapteriscus didactylus,,eats
+14886,,Odontomachus haematodus,,eats
+14886,133691,Coccothrinax,silver palms,eats
+14886,,Zanthoxylum,,eats
+14886,,Ataenius stercorator,,eats
+14886,,Randia,,eats
+14886,,Jatropha,,eats
+14886,,Diaprepes abbreviatus,,eats
+14886,,Cerotoma,,eats
+14886,,Pheidole fallax,,eats
+14886,,Coptocycla,,eats
+14886,,Roystonea borinquena,,eats
+14886,160656,Citharexylum spinosum,Spiny Fiddlewood,eats
+14886,62841,Cordia,,eats
+14886,,Strumigenys,,eats
+14886,,Paratettix,,eats
+14886,,Bourreria,,eats
+14886,,Hamelia patens,,eats
+14886,,Adelia,,eats
+14886,51600,Psychotria,wild coffees,eats
+14886,,Viburnum prunifolium,,eats
+14886,60746,Smilax rotundifolia,roundleaf greenbrier,eats
+14886,54793,Lindera benzoin,northern spicebush,eats
+14886,54777,Cornus florida,flowering dogwood,eats
+14886,,Dracaena rockii,,eats
+14886,,Bocconia frutescens,,eats
+14886,82767,Santalum ellipticum,coast sandalwood,eats
+14886,,Diospyros sandwicensis,,eats
+14886,,Polyscias sandwicensis,,eats
+14886,316801,Randia laetevirens,,eats
+14886,127936,Chiococca alba,West Indian milkberry,eats
+14886,,Dendropanax arboreus,,eats
+14886,284455,Tabernaemontana alba,,eats
+14886,,Nectandra coriacea,,eats
+14886,,Psittacanthus,,eats
+14886,,Ficus lapathifolia,,eats
+14886,,Guettarda elliptica,,eats
+14886,,Eugenia acapulcensis,,eats
+14886,283078,Achatocarpus nigricans,,eats
+14886,,Psychotria lauracea,,eats
+14886,,Malpighia glabra,,eats
+14886,,Sapranthus microcarpus,,eats
+14886,67570,Falconiformes,Falcons and Caracaras,eatenBy
+14886,85553,Serpentes,Snakes,eatenBy
+14886,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+14886,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+14886,20445,Tyto alba,Barn Owl,eatenBy
+14886,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+14886,26159,Alligator mississippiensis,American Alligator,eatenBy
+14886,,Pantherophis alleghaniensis,,eatenBy
+14886,,Pantherophis spiloides,,eatenBy
+14886,12024,Lanius ludovicianus,Loggerhead Shrike,eatenBy
+14886,5301,Elanoides forficatus,Swallow-tailed Kite,eatenBy
+14886,4645,Falco femoralis,Aplomado Falcon,eatenBy
+14886,19822,Glaucidium brasilianum,Ferruginous Pygmy-Owl,eatenBy
+14886,69758,Lumbricidae,Earthworms,preysOn
+14886,47158,Insecta,Insects,preysOn
+14886,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+14886,47792,Odonata,Dragonflies and Damselflies,preysOn
+14886,47208,Coleoptera,Beetles,preysOn
+14886,85552,Sauria,Lizards,preysOn
+14886,48200,Melolonthinae,June Beetles,preysOn
+14886,358855,Gryllidea,Crickets,preysOn
+14886,751082,Neotibicen,Dog-day Cicadas,preysOn
+14886,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+14886,47157,Lepidoptera,Butterflies and Moths,preysOn
+14886,67688,Caelifera,"Grasshoppers, Locusts, and Allies",preysOn
+14886,47928,Zygoptera,Damselflies,preysOn
+14886,184884,Pterygota,Winged and Once-winged Insects,preysOn
+14886,183164,Parastrellus hesperus,Canyon Bat,preysOn
+14886,,Camnula pellucida,,preysOn
+14886,118552,Felis catus,Domestic Cat,preyedUponBy
+14886,29813,Lampropeltis getula,Eastern Kingsnake,preyedUponBy
+14886,,Caracara cheriway,,preyedUponBy
+14886,,Pantherophis spiloides,,preyedUponBy
+14886,5301,Elanoides forficatus,Swallow-tailed Kite,preyedUponBy

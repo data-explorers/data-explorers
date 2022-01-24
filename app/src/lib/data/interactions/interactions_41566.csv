@@ -1,0 +1,72 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+41566,47628,Amphipoda,Amphipods,eats
+41566,153112,Euphausiacea,krill,eats
+41566,121643,Copepoda,Copepods,eats
+41566,248332,Munida,,eats
+41566,47459,Cephalopoda,Cephalopods,eats
+41566,195134,Euphausiidae,Euphotic Krill,eats
+41566,775805,Pteropoda,Sea Butterflies,eats
+41566,63770,Engraulis mordax,Northern Anchovy,eats
+41566,47178,Actinopterygii,Ray-finned Fishes,eats
+41566,51911,Engraulidae,Anchovies,eats
+41566,195136,Euphausia,,eats
+41566,85493,Crustacea,Crustaceans,eats
+41566,,Pisces,,eats
+41566,,None,,eats
+41566,344134,Euphausia superba,Antarctic Krill,eats
+41566,220480,Glyptocephalus cynoglossus,Witch Flounder,eats
+41566,195087,Thysanoessa inermis,,eats
+41566,97990,Clupea harengus,Atlantic Herring,eats
+41566,329000,Thysanoessa raschii,,eats
+41566,639178,Meganyctiphanes norvegica,Northern Krill,eats
+41566,,Thysanoessa longicaudata,,eats
+41566,,Cephalaspidomorphi,,eats
+41566,558731,Themisto abyssorum,,eats
+41566,706438,Themisto libellula,,eats
+41566,165100,Mallotus villosus,Capelin,eats
+41566,120702,Micromesistius poutassou,Blue Whiting,eats
+41566,228496,Pollachius virens,Pollock,eats
+41566,82351,Melanogrammus aeglefinus,Haddock,eats
+41566,63740,Gadus morhua,Atlantic Cod,eats
+41566,47762,Sebastes,Rockfishes,eats
+41566,86396,Ammodytes,,eats
+41566,215318,Boreogadus saida,Arctic Cod,eats
+41566,372502,Calanus finmarchicus,,eats
+41566,,Calanus glacialis,,eats
+41566,229837,Reinhardtius hippoglossoides,Greenland Halibut,eats
+41566,,Sebastes marinus,,eats
+41566,112419,Sebastes mentella,Deepwater Redfish,eats
+41566,,Calanus hyperboreus,,eats
+41566,118678,Scomber scombrus,Atlantic Mackerel,eats
+41566,117571,Clupea pallasii,Pacific herring,eats
+41566,218966,Eleginus gracilis,Saffron Cod,eats
+41566,,Theragra chalcogramma,,eats
+41566,130238,Ammodytes hexapterus,Arctic Sand Lance,eats
+41566,228388,Pleurogrammus monopterygius,Atka Mackerel,eats
+41566,86453,Anchoa,,eats
+41566,55543,Sardinops,Sardines,eats
+41566,195135,Thysanoessa,,eats
+41566,639179,Meganyctiphanes,,eats
+41566,,Gnathostomata,,eats
+41566,91866,Sardinella,Sardinellas,eats
+41566,113994,Thaleichthys pacificus,Eulachon,eats
+41566,111950,Salmo pallaryi,,eats
+41566,213403,Ammodytes dubius,Northern Sand Lance,eats
+41566,87532,Clupea,,eats
+41566,614161,Gadus chalcogrammus,Alaska Pollock,eats
+41566,117566,Hypomesus pretiosus,Surf Smelt,eats
+41566,63743,Gadus,,eats
+41566,43584,Homo sapiens,Human,eatenBy
+41566,41521,Orcinus orca,Orca,eatenBy
+41566,153112,Euphausiacea,krill,preysOn
+41566,63770,Engraulis mordax,Northern Anchovy,preysOn
+41566,296029,Thysanoessa spinifera,,preysOn
+41566,201713,Euphausia pacifica,North Pacific krill,preysOn
+41566,195088,Nyctiphanes simplex,,preysOn
+41566,296031,Nematoscelis difficilis,,preysOn
+41566,55535,Sardinops sagax,Pacific Sardine,preysOn
+41566,117571,Clupea pallasii,Pacific herring,preysOn
+41566,344134,Euphausia superba,Antarctic Krill,preysOn
+41566,952605,Euphausia crystallorophias,,preysOn
+41566,952607,Euphausia frigida,,preysOn
+41566,,Thysanoessa macrura,,preysOn

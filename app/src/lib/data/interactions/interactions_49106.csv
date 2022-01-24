@@ -1,0 +1,32 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49106,480415,Acartia clausi,,eats
+49106,329013,Pseudocalanus elongatus,,eats
+49106,,Paracalanus parvus,,eats
+49106,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+49106,4343,Larus,Large White-headed Gulls,eatenBy
+49106,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+49106,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+49106,430553,Merlangius merlangus,Whiting,eatenBy
+49106,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+49106,61387,Limanda limanda,Sand Dab,eatenBy
+49106,63740,Gadus morhua,Atlantic Cod,eatenBy
+49106,144536,Gelochelidon nilotica,Gull-billed Tern,eatenBy
+49106,144540,Thalasseus bergii,Greater Crested Tern,eatenBy
+49106,49509,Lutjanus griseus,Grey Snapper,eatenBy
+49106,102975,Huso huso,Beluga,eatenBy
+49106,85294,Arripis truttacea,Western Australian Salmon,eatenBy
+49106,,Carangoides bartholomaei,,eatenBy
+49106,49431,Orthopristis chrysoptera,Pigfish,eatenBy
+49106,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+49106,83439,Centropristis striata,Black Sea Bass,eatenBy
+49106,49637,Epinephelus morio,Red Grouper,eatenBy
+49106,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+49106,131388,Haemulon melanurum,Cottonwick,eatenBy
+49106,128750,Sciaenops ocellatus,Red Drum,eatenBy
+49106,49272,Halichoeres bivittatus,Slippery Dick,eatenBy
+49106,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+49106,57814,Pogonias cromis,Black Drum,eatenBy
+49106,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+49106,179639,Centropristis philadelphica,Rock Sea Bass,eatenBy
+49106,4937,Egretta caerulea,Little Blue Heron,eatenBy
+49106,4314,Phaethon lepturus,White-tailed Tropicbird,eatenBy

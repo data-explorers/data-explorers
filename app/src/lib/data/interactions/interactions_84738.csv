@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84738,122024,Corymbia ficifolia,Red-flowering gum,eats
+84738,50812,Scrophularia californica,California beeplant,eats
+84738,125381,Asclepias incarnata,swamp milkweed,eats
+84738,61787,Persicaria,"knotweeds, smartweeds, and waterpeppers",eats
+84738,54999,Eriogonum fasciculatum,California buckwheat,eats
+84738,55883,Hedera,ivies,eats
+84738,,Aralia californica,,eats
+84738,83058,Camellia,Camellias,eats
+84738,119122,Araneus trifolium,Shamrock Orbweaver,eatenBy
+84738,52628,Araneus diadematus,Cross Orbweaver,eatenBy
+84738,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+84738,9921,Piranga olivacea,Scarlet Tanager,preyedUponBy
+84738,,Promachus rufipes,,preyedUponBy

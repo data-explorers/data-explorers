@@ -1,0 +1,54 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+850859,47114,Gastropoda,Gastropods,eats
+850859,47208,Coleoptera,Beetles,eats
+850859,47124,Magnoliopsida,dicots,eats
+850859,211194,Tracheophyta,vascular plants,eats
+850859,53275,Chironomidae,Non-biting Midges,eats
+850859,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+850859,47491,Annelida,Segmented Worms,eats
+850859,1,Animalia,Animals,eats
+850859,47822,Diptera,Flies,eats
+850859,62164,Trichoptera,Caddisflies,eats
+850859,48011,Ephemeroptera,Mayflies,eats
+850859,47792,Odonata,Dragonflies and Damselflies,eats
+850859,47628,Amphipoda,Amphipods,eats
+850859,84735,Corixidae,Water Boatmen,eats
+850859,57017,Crassula,Stonecrops,eats
+850859,59110,Potamogeton,Pondweed,eats
+850859,48972,Polygonum,knotweeds,eats
+850859,47158,Insecta,Insects,eats
+850859,47584,Bivalvia,Bivalves,eats
+850859,51112,Hexagenia,Giant Mayflies,eats
+850859,,Notostraca,,eats
+850859,92119,Somatogyrus,,eats
+850859,,Sphaerium striatinum,,eats
+850859,92157,Sphaerium,,eats
+850859,,Fontigens nickliniana,,eats
+850859,,Scirpus,,eats
+850859,558446,Circus hudsonius,Northern Harrier,eatenBy
+850859,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+850859,47822,Diptera,Flies,preysOn
+850859,84670,Ephydridae,Shore Flies,preysOn
+850859,333586,Oligochaeta,Earthworms and allies,preysOn
+850859,85521,Harpacticoida,Harpacticoid Copepods,preysOn
+850859,58168,Frankenia salina,Alkali Heath,preysOn
+850859,60969,Jaumea carnosa,Marsh Jaumea,preysOn
+850859,348288,Foraminifera,Foraminifers,preysOn
+850859,47126,Plantae,plants,preysOn
+850859,58372,Distichlis spicata,Saltgrass,preysOn
+850859,208368,Capitella capitata,,preysOn
+850859,,Cerithidea californica,,preysOn
+850859,64636,Corophiidae,,preysOn
+850859,,Salicornia europaea,,preysOn
+850859,,Gammaridea,,preysOn
+850859,,Acteocina inculta,,preysOn
+850859,259078,Culex tarsalis,Western Encephalitis Mosquito,preysOn
+850859,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preysOn
+850859,,Monanthocloe littoralis,,preysOn
+850859,,Macoma secta,,preysOn
+850859,,Polydora nuchalis,,preysOn
+850859,51280,Nemertea,Ribbon Worms,preysOn
+850859,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+850859,,Ephydra,,preysOn
+850859,,Macroalgae,,preysOn
+850859,,green gammaridean,,preysOn

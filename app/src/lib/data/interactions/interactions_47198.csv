@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47198,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+47198,41376,Taphozous melanopogon,Black-bearded Tomb Bat,eatenBy
+47198,48765,Heteropoda venatoria,Pantropical Huntsman Spider,eatenBy
+47198,341569,Turdus merula merula,Western European Blackbird,eatenBy
+47198,,Theridion zantholabio,,eatenBy
+47198,,Amphispiza bilineata,,eatenBy
+47198,5017,Bubulcus ibis,Cattle Egret,eatenBy
+47198,,Amphispiza bilineata,,preyedUponBy
+47198,127777,Vespula vulgaris,Common European Yellowjacket,preyedUponBy
+47198,10056,Ramphocelus carbo,Silver-beaked Tanager,preyedUponBy

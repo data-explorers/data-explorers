@@ -1,0 +1,44 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47327,61157,Trichodes ornatus,Ornate Checkered Beetle,eatenBy
+47327,309390,Halictus tripartitus,Tripartite Sweat Bee,eatenBy
+47327,47219,Apis mellifera,Western Honey Bee,eatenBy
+47327,318550,Halictus farinosus,Wide-striped Sweat Bee,eatenBy
+47327,906,Meleagris gallopavo,Wild Turkey,eatenBy
+47327,309374,Perdita californica,California Fairy Bee,eatenBy
+47327,116725,Anastrangalia laetifica,Dimorphic Flower Longhorn Beetle,eatenBy
+47327,210423,Callophrys viridis,Coastal Green Hairstreak,eatenBy
+47327,,Strophiona tigrina,,eatenBy
+47327,57678,Lasioglossum,,pollinatedBy
+47327,52781,Melissodes,,pollinatedBy
+47327,133762,Villa,,pollinatedBy
+47327,57682,Anthophora,Common Digger Bees,pollinatedBy
+47327,173032,Ashmeadiella,,pollinatedBy
+47327,178357,Perdita,Fairy Bees,pollinatedBy
+47327,57677,Halictus,Furrow Bees,pollinatedBy
+47327,50086,Agapostemon,Striped Sweat Bees,pollinatedBy
+47327,48988,Hippodamia,Oblong Lady Beetles,pollinatedBy
+47327,210555,Listrus,,pollinatedBy
+47327,119016,Judolia,,pollinatedBy
+47327,886834,Acmaeodera,,pollinatedBy
+47327,47220,Apis,Honey Bees,pollinatedBy
+47327,55049,Trichodes,,pollinatedBy
+47327,55488,Diabrotica,,pollinatedBy
+47327,,Perdita calochorti,,pollinatedBy
+47327,,Dufourea calochorti,,pollinatedBy
+47327,,Bessa,,pollinatedBy
+47327,,Eutrichopleurus,,pollinatedBy
+47327,,Toxophora,,pollinatedBy
+47327,,http://treatment.plazi.org/id/C72136B726E5580342B37994B63EAA2E,,pollinatedBy
+47327,1128695,Emmenotarsus,,pollinatedBy
+47327,,http://treatment.plazi.org/id/FAA4FEE614A55A388C4DBC886910D7BF,,pollinatedBy
+47327,,Brachysomida,,pollinatedBy
+47327,,Stelis,,pollinatedBy
+47327,,Hoplitis,,pollinatedBy
+47327,121512,Diadasia,,pollinatedBy
+47327,,Eschatocrepis,,pollinatedBy
+47327,,Trichochrous,,pollinatedBy
+47327,,http://treatment.plazi.org/id/E868879FFFA1FFD9FDFEFA6B0CE8FB7E,,pollinatedBy
+47327,,Dufourea,,pollinatedBy
+47327,,http://treatment.plazi.org/id/EFA2D9EE87F05E8EB207EC8EF0C3ACCB,,pollinatedBy
+47327,,http://treatment.plazi.org/id/9CAD1D43FC3248CEACA3CC32C4072FCA,,pollinatedBy
+47327,,Calliopsis,,pollinatedBy

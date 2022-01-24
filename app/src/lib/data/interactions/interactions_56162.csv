@@ -1,0 +1,34 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56162,50786,Vanessa annabella,West Coast Lady,eatenBy
+56162,48548,Vanessa cardui,Painted Lady,eatenBy
+56162,47219,Apis mellifera,Western Honey Bee,eatenBy
+56162,47822,Diptera,Flies,eatenBy
+56162,,Crocidosema plebejana,,eatenBy
+56162,,Pyrgus communis,,eatenBy
+56162,,Larentia clavaria,,eatenBy
+56162,,Carcharodus alceae,,eatenBy
+56162,470953,Carcharodus tripolina,False Mallow Skipper,eatenBy
+56162,333714,Pyrgus carthami,Safflower Skipper,eatenBy
+56162,,Vanessa carye,,eatenBy
+56162,,Aspidapion (Koestlinia) aeneum,,eatenBy
+56162,,Pseudapion rufirostre,,eatenBy
+56162,,Aspidapion (Aspidapion) radiolus,,eatenBy
+56162,,Malvapion malvae,,eatenBy
+56162,,Lixus (Dilixellus) angustatus,,eatenBy
+56162,,Phomopsis malvacearum,,eatenBy
+56162,,Puccinia malvacearum,,eatenBy
+56162,,Episyrphus balteatus,,eatenBy
+56162,,Aspidapion radiolus,,eatenBy
+56162,,Aphis umbrella,,eatenBy
+56162,55610,Pyrrhocoris apterus,European Firebug,eatenBy
+56162,124222,Heriades,Armored-Resin bees,pollinatedBy
+56162,57678,Lasioglossum,,pollinatedBy
+56162,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+56162,,Apion rufirostre ,,pollinatedBy
+56162,,,,pollinatedBy
+56162,,Apion aeneum,,pollinatedBy
+56162,,Eucera,,pollinatedBy
+56162,484587,Osmia aurulenta,Gold-fringed Mason Bee,pollinatedBy
+56162,,Amphicoma,,pollinatedBy
+56162,,Hoplitis,,pollinatedBy
+56162,,Undefined sp21 M_PL_018,,pollinatedBy

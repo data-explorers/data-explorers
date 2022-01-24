@@ -1,0 +1,90 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48987,48699,Apiaceae,carrot family,eats
+48987,53052,Foeniculum vulgare,fennel,eats
+48987,52821,Achillea millefolium,Common Yarrow,eats
+48987,52818,Achillea,yarrows,eats
+48987,632790,Asteroideae,,eats
+48987,57067,Melilotus,melilots and sweetclovers,eats
+48987,48561,Cirsium,thistles,eats
+48987,53196,Rumex,docks,eats
+48987,52621,Cirsium occidentale,Cobwebby Thistle,eats
+48987,51822,Euphorbia,spurges,eats
+48987,64141,Encelia californica,California brittlebush,eats
+48987,61905,Lavandula,Lavender,eats
+48987,47125,Angiospermae,flowering plants,eats
+48987,59904,Glebionis coronaria,Garland Daisy,eats
+48987,53359,Baccharis pilularis,coyote brush,eats
+48987,605446,Heliantheae,sunflowers and allies,eats
+48987,53423,Frangula californica,coffeeberry,eats
+48987,52833,Anaphalis margaritacea,pearly everlasting,eats
+48987,55365,Grindelia,gumplants,eats
+48987,47204,Brassicaceae,mustard family,eats
+48987,48939,Eriogonum,wild buckwheats,eats
+48987,57983,Helianthus annuus,Common Sunflower,eats
+48987,51611,Veronica,speedwells,eats
+48987,50154,Sphaeralcea,globemallows,eats
+48987,52998,Conium maculatum,poison hemlock,eats
+48987,51876,Trifolium,clovers,eats
+48987,49370,Astragalus,milkvetches,eats
+48987,636795,Salvia rosmarinus,Rosemary,eats
+48987,79137,Solanum elaeagnifolium,silverleaf nightshade,eats
+48987,57057,Medicago sativa,Alfalfa,eats
+48987,76610,Daucus carota,wild carrot,eats
+48987,71154,Aphis nerii,Oleander Aphid,eats
+48987,56851,Asclepias fascicularis,narrowleaf milkweed,eats
+48987,58138,Cucurbita foetidissima,Buffalo Gourd,eats
+48987,60982,Cakile maritima,European Searocket,eats
+48987,53438,Rosa,roses,eats
+48987,326910,Brevicoryne brassicae,Cabbage Aphid,eats
+48987,48987,Hippodamia convergens,Convergent Lady Beetle,eats
+48987,53270,Sonchus,sow thistles,eats
+48987,79495,Verbesina encelioides,cowpen daisy,eats
+48987,60129,Ambrosia psilostachya,western ragweed,eats
+48987,,Baccharis glutinosa,,eats
+48987,,Sarcobatus vermiculatus,,eats
+48987,,Ceanothus cuneatus,,eats
+48987,77117,Euphorbia oblongata,eggleaf spurge,eats
+48987,,Chamaemelum nobile,,eats
+48987,,Rumex hymenosepalus,,eats
+48987,,Scorzonera laciniata,,eats
+48987,,Grindelia squarrosa,,eats
+48987,,Cylindropuntia imbricata imbricata,,eats
+48987,122976,Lactuca sativa,lettuce,eats
+48987,194109,Grindelia ciliata,Spanish Gold,eats
+48987,58951,Argemone,prickly poppies,eats
+48987,126671,Sphaeralcea coccinea,Scarlet Globemallow,eats
+48987,,Aphanostephus ramosissimus,,eats
+48987,,Helianthus ciliaris,,eats
+48987,,Oenothera curtiflora,,eats
+48987,58072,Descurainia pinnata,Western Tansymustard,eats
+48987,,Physalis cinerascens,,eats
+48987,330185,Aphis spiraecola,Spiraea Aphid,eats
+48987,,Acyrthosiphon lactucae,,eats
+48987,,Plagiobothrys,,eats
+48987,48987,Hippodamia convergens,Convergent Lady Beetle,eatenBy
+48987,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+48987,12937,Sialia mexicana,Western Bluebird,eatenBy
+48987,12936,Sialia currucoides,Mountain Bluebird,eatenBy
+48987,12727,Turdus migratorius,American Robin,eatenBy
+48987,11858,Petrochelidon pyrrhonota,Cliff Swallow,eatenBy
+48987,16079,Contopus sordidulus,Western Wood-Pewee,eatenBy
+48987,17009,Sayornis saya,Say's Phoebe,eatenBy
+48987,17013,Sayornis nigricans,Black Phoebe,eatenBy
+48987,17355,Vireo,Vireos,eatenBy
+48987,17356,Vireo bellii,Bell's Vireo,eatenBy
+48987,17375,Vireo huttoni,Hutton's Vireo,eatenBy
+48987,,Apiomerus californicus,,eatenBy
+48987,13732,Anthus rubescens,American Pipit,eatenBy
+48987,16110,Contopus cooperi,Olive-sided Flycatcher,eatenBy
+48987,18464,Sphyrapicus ruber,Red-breasted Sapsucker,eatenBy
+48987,,Empidonax alnorum,,eatenBy
+48987,17394,Vireo gilvus,Warbling Vireo,eatenBy
+48987,58160,Prosopis glandulosa,honey mesquite,pollinates
+48987,,Sagittaria longiloba,,pollinates
+48987,76278,Chenopodium leptophyllum,Narrowleaf Goosefoot,pollinates
+48987,52381,Aphididae,Aphids,preysOn
+48987,71154,Aphis nerii,Oleander Aphid,preysOn
+48987,154784,Aleyrodidae,Whiteflies,preysOn
+48987,,Sipha maydis,,preysOn
+48987,52380,Aphidoidea,,preysOn
+48987,47371,Theridiidae,Cobweb Spiders,preyedUponBy

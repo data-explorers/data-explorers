@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+64109,125889,Liriomyza,,eats
+64109,59190,Heliopetes ericetorum,Northern White-Skipper,eatenBy
+64109,50880,Limenitis lorquini,Lorquin's Admiral,eatenBy
+64109,55626,Pieris rapae,Cabbage White,eatenBy
+64109,130222,Bombus melanopygus,Black-tailed Bumble Bee,eatenBy

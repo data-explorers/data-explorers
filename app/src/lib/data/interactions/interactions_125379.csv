@@ -1,0 +1,62 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+125379,48662,Danaus plexippus,Monarch,eatenBy
+125379,71154,Aphis nerii,Oleander Aphid,eatenBy
+125379,85362,Sphex ichneumoneus,Great Golden Digger Wasp,eatenBy
+125379,,Cycnia collaris,,eatenBy
+125379,81959,Cerceris,Typical Weevil Wasps and Allies,pollinatedBy
+125379,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",pollinatedBy
+125379,48060,Prosopis,mesquites,pollinatedBy
+125379,61858,Lucilia,Greenbottle Flies,pollinatedBy
+125379,85362,Sphex ichneumoneus,Great Golden Digger Wasp,pollinatedBy
+125379,136465,Myzinum,New World Banded Thynnid Wasps,pollinatedBy
+125379,120215,Bombus griseocollis,Brown-belted Bumble Bee,pollinatedBy
+125379,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+125379,,http://treatment.plazi.org/id/F081C65F8D695BC0A3F6562FBABF67EB,,pollinatedBy
+125379,,Rhamphomyia gilvipilosa,,pollinatedBy
+125379,,Parhelophilus divisus,,pollinatedBy
+125379,,Ashmeadiella bucconis,,pollinatedBy
+125379,,Xanthomelanodes,,pollinatedBy
+125379,,Gonochrysis,,pollinatedBy
+125379,,Poecilopompilus,,pollinatedBy
+125379,,Arge,,pollinatedBy
+125379,,Crambus laqueatellus,,pollinatedBy
+125379,,Lampronota,,pollinatedBy
+125379,,Helophilus latifrons,,pollinatedBy
+125379,,Pseudosiobla,,pollinatedBy
+125379,248099,Scenopinus,,pollinatedBy
+125379,259169,Atrichopogon fusculus,,pollinatedBy
+125379,,Tetralonia,,pollinatedBy
+125379,,Chloralictus,,pollinatedBy
+125379,,Hammomyia,,pollinatedBy
+125379,,Tiphia,,pollinatedBy
+125379,,Heminomada,,pollinatedBy
+125379,52488,Syrphus ribesii,Common Flower Fly,pollinatedBy
+125379,,http://treatment.plazi.org/id/C72A42F42D1D9E7809CB45EE0F3C055E,,pollinatedBy
+125379,643325,Pompiloides,,pollinatedBy
+125379,,Agrotis ipsilon,,pollinatedBy
+125379,,Coelioxys alternata,,pollinatedBy
+125379,250754,Liris,,pollinatedBy
+125379,,Trachandrena,,pollinatedBy
+125379,129880,Calleida punctata,,pollinatedBy
+125379,,Pipiza femoralis,,pollinatedBy
+125379,,Linnaemya,,pollinatedBy
+125379,,Ceropales,,pollinatedBy
+125379,,Halictoides,,pollinatedBy
+125379,,Scolia nobilitata,,pollinatedBy
+125379,322713,Sapromyza,,pollinatedBy
+125379,,Phorbia,,pollinatedBy
+125379,,Ophyra leucostoma ,,pollinatedBy
+125379,,Anoplius illinoensis,,pollinatedBy
+125379,956637,Xylota angustiventris,Two-spotted Leafwalker,pollinatedBy
+125379,,Evylaeus,,pollinatedBy
+125379,,Onthophagus pennsylvanicus,,pollinatedBy
+125379,299141,Urosigalphus femoratus,,pollinatedBy
+125379,,Prionyx sp.,,pollinatedBy
+125379,,Prionyx atratus,,pollinatedBy
+125379,,Tachytes aurulentus,,pollinatedBy
+125379,,Sphex pennsylvanicus,,pollinatedBy
+125379,,Megachile latimanus,,pollinatedBy
+125379,,Ceratogastra ornata,,pollinatedBy
+125379,,Polistes fuscatus,,pollinatedBy
+125379,,Bembix nubilipennis,,pollinatedBy
+125379,,Colletes compactus,,pollinatedBy

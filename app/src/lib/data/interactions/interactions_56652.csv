@@ -1,0 +1,37 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56652,47126,Plantae,plants,eats
+56652,124748,Macrocystis pyrifera,Giant Kelp,eats
+56652,,Pyropia columbina,,eats
+56652,485339,Chondracanthus spinosus,,eats
+56652,81879,Laminaria farlowii,oar weed,eats
+56652,,Gigartina corymbifera,,eats
+56652,,Macroalgae,,eats
+56652,,Cystoseira osmundacea,,eats
+56652,56654,Haliotis kamtschatkana,Pinto Abalone,eats
+56652,54509,Octopus bimaculoides,Lesser Two-spot Octopus,eatenBy
+56652,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+56652,47458,Octopoda,Octopuses,eatenBy
+56652,47827,Cancer,,eatenBy
+56652,117520,Enhydra lutris nereis,Southern Sea Otter,eatenBy
+56652,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+56652,47638,Scorpaenichthys marmoratus,Cabezon,eatenBy
+56652,47673,Pycnopodia helianthoides,Sunflower Sea Star,eatenBy
+56652,48833,Pisaster giganteus,Giant Sea Star,eatenBy
+56652,68596,Hexagrammos decagrammus,Kelp Greenling,eatenBy
+56652,51491,Myliobatis californica,Bat Ray,eatenBy
+56652,124748,Macrocystis pyrifera,Giant Kelp,preysOn
+56652,,Macroalgae,,preysOn
+56652,485339,Chondracanthus spinosus,,preysOn
+56652,,Cystoseira osmundacea,,preysOn
+56652,81879,Laminaria farlowii,oar weed,preysOn
+56652,,Gigartina corymbifera,,preysOn
+56652,61371,Panulirus interruptus,California Spiny Lobster,preyedUponBy
+56652,47827,Cancer,,preyedUponBy
+56652,47458,Octopoda,Octopuses,preyedUponBy
+56652,54509,Octopus bimaculoides,Lesser Two-spot Octopus,preyedUponBy
+56652,68596,Hexagrammos decagrammus,Kelp Greenling,preyedUponBy
+56652,51491,Myliobatis californica,Bat Ray,preyedUponBy
+56652,47673,Pycnopodia helianthoides,Sunflower Sea Star,preyedUponBy
+56652,47638,Scorpaenichthys marmoratus,Cabezon,preyedUponBy
+56652,48833,Pisaster giganteus,Giant Sea Star,preyedUponBy
+56652,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,preyedUponBy

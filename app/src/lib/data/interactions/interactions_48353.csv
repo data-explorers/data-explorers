@@ -1,0 +1,116 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48353,12705,Turdus,Typical Thrushes,eatenBy
+48353,54068,Boloria selene,Silver-bordered Fritillary,eatenBy
+48353,7089,Branta canadensis,Canada Goose,eatenBy
+48353,6912,Anatidae,"Ducks, Geese, and Swans",eatenBy
+48353,81582,Hyalophora cecropia,Cecropia Moth,eatenBy
+48353,55624,Acronicta,Dagger Moths,eatenBy
+48353,173730,Drasteria,,eatenBy
+48353,121612,Estigmene acrea,Salt Marsh Moth,eatenBy
+48353,14995,Dumetella carolinensis,Gray Catbird,eatenBy
+48353,52779,Bombus bimaculatus,Two-spotted Bumble Bee,eatenBy
+48353,118970,Bombus impatiens,Common Eastern Bumble Bee,eatenBy
+48353,57689,Bombus vosnesenskii,Yellow-faced Bumble Bee,eatenBy
+48353,12890,Catharus guttatus,Hermit Thrush,eatenBy
+48353,12901,Catharus fuscescens,Veery,eatenBy
+48353,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+48353,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+48353,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+48353,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+48353,12727,Turdus migratorius,American Robin,eatenBy
+48353,14850,Sturnus vulgaris,European Starling,eatenBy
+48353,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+48353,12942,Sialia sialis,Eastern Bluebird,eatenBy
+48353,,Anagrapha falcifera,,eatenBy
+48353,,Xestia c-nigrum,,eatenBy
+48353,,Actebia fennica,,eatenBy
+48353,,Epirrita autumnata,,eatenBy
+48353,,Biston betularia,,eatenBy
+48353,,Psyche casta,,eatenBy
+48353,480413,Archips crataegana,Brown Oak Tortrix,eatenBy
+48353,,Platynota idaeusalis,,eatenBy
+48353,,Acleris minuta,,eatenBy
+48353,,Caenurgina erechtea,,eatenBy
+48353,,Acalitus vaccinii,,eatenBy
+48353,,Ukamenia sapporensis,,eatenBy
+48353,,Jodis putata,,eatenBy
+48353,,Acytolepis puspa,,eatenBy
+48353,,Trogon collaris,,eatenBy
+48353,,Empidonax atriceps,,eatenBy
+48353,20856,Pharomachrus mocinno,Resplendent Quetzal,eatenBy
+48353,,Turdus plebejus,,eatenBy
+48353,,Pyrrhura hoffmanni,,eatenBy
+48353,,Catharus gracilirostris,,eatenBy
+48353,,Ptilogonys caudatus,,eatenBy
+48353,,Myadestes melanops,,eatenBy
+48353,3095,Patagioenas subvinacea,Ruddy Pigeon,eatenBy
+48353,,Pselliophorus tibialis,,eatenBy
+48353,,Elaenia,,eatenBy
+48353,,Chlorospingus pileatus,,eatenBy
+48353,,Spinus xanthogastrus,,eatenBy
+48353,,Aulacorhynchus prasinus,,eatenBy
+48353,,Chlorophonia callophrys,,eatenBy
+48353,12736,Turdus nigrescens,Sooty Thrush,eatenBy
+48353,,Piranga bidentata,,eatenBy
+48353,,Pheucticus tibialis,,eatenBy
+48353,,Chamaepetes unicolor,,eatenBy
+48353,,Agriades,,eatenBy
+48353,,Vacciniina optilete,,eatenBy
+48353,,Anteos clorinde,,eatenBy
+48353,,Aporia crataegi,,eatenBy
+48353,,Clossiana titania,,eatenBy
+48353,,Celastrina argiolus,,eatenBy
+48353,,Clossiana freija,,eatenBy
+48353,60896,Callophrys rubi,Green Hairstreak,eatenBy
+48353,,Clossiana euphrosyne,,eatenBy
+48353,447520,Boloria aquilonaris,Cranberry Fritillary,eatenBy
+48353,,Incisalia henrici,,eatenBy
+48353,,Colias interior,,eatenBy
+48353,357188,Boloria napaea,Mountain Fritillary,eatenBy
+48353,,Callophrys augustinus,,eatenBy
+48353,,Clossiana polaris,,eatenBy
+48353,,Colias pelidne,,eatenBy
+48353,,Colias palaeno,,eatenBy
+48353,,Colias hecla,,eatenBy
+48353,,Colias tyche,,eatenBy
+48353,117316,Colias behrii,Sierra Sulphur,eatenBy
+48353,,Colias scudderii,,eatenBy
+48353,,Gonepteryx rhamni,,eatenBy
+48353,,Euphydryas iduna,,eatenBy
+48353,,Lycaena mariposa,,eatenBy
+48353,,Lycaena epixanthe,,eatenBy
+48353,,Plebejus idas,,eatenBy
+48353,,Colias nastes,,eatenBy
+48353,,Satyrium liparops,,eatenBy
+48353,,Proclossiana eunomia,,eatenBy
+48353,,Bombus rubicundus,,eatenBy
+48353,,Branta hutchinsii,,eatenBy
+48353,,American black bear,,eatenBy
+48353,,American moose,,eatenBy
+48353,,Snowshoe hare,,eatenBy
+48353,,Arctic hare,,eatenBy
+48353,,Pristiphora (Lygaeotus) carinata,,eatenBy
+48353,,Nematus (Pteronidea) reticulatus,,eatenBy
+48353,,Caliroa annulipes,,eatenBy
+48353,,Epagoge grotiana,,eatenBy
+48353,,Homonopsis illotana,,eatenBy
+48353,216805,Choristoneura conflictana,Large Aspen Tortrix,eatenBy
+48353,,Choristoneura parallela,,eatenBy
+48353,527514,Periclepsis,,eatenBy
+48353,,Choristoneura zapulata,,eatenBy
+48353,321981,Pandemis heparana,Dark Fruit-tree Tortrix,eatenBy
+48353,52775,Bombus,Bumble Bees,pollinatedBy
+48353,128846,Copestylum,Bromeliad Flies,pollinatedBy
+48353,47219,Apis mellifera,Western Honey Bee,pollinatedBy
+48353,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy
+48353,,Vespa xanthoptera ,,pollinatedBy
+48353,,Tetralonia okinawae,,pollinatedBy
+48353,,Xylocopa amamensis ,,pollinatedBy
+48353,,Melipona,,pollinatedBy
+48353,,Euglossa,,pollinatedBy
+48353,9183,Zonotrichia capensis,Rufous-collared Sparrow,pollinatedBy
+48353,,Politmus milleri,,pollinatedBy
+48353,,Coereba flaveola ,,pollinatedBy
+48353,57516,Bombus terrestris,Buff-tailed Bumble Bee,pollinatedBy
+48353,133789,Osmia ribifloris,Blueberry Mason Bee,pollinatedBy
+48353,,Andrena carolina,,pollinatedBy

@@ -1,0 +1,43 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+12936,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+12936,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+12936,47208,Coleoptera,Beetles,eats
+12936,47157,Lepidoptera,Butterflies and Moths,eats
+12936,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+12936,1,Animalia,Animals,eats
+12936,60773,Vitis,grapevines,eats
+12936,48987,Hippodamia convergens,Convergent Lady Beetle,eats
+12936,47822,Diptera,Flies,eats
+12936,54765,Rhus,sumacs,eats
+12936,47124,Magnoliopsida,dicots,eats
+12936,52689,Sambucus,elders,eats
+12936,47130,Ribes,currants and gooseberries,eats
+12936,47158,Insecta,Insects,eats
+12936,244407,Zelus renardii,Leafhopper Assassin Bug,eats
+12936,358855,Gryllidea,Crickets,eats
+12936,143792,Pistacia chinensis,Chinese pistache,eats
+12936,47649,Acrididae,Short-horned Grasshoppers,eats
+12936,47961,Cerambycidae,Longhorn Beetles,eats
+12936,,Euchelicerata,,eats
+12936,131952,Silpha,,eats
+12936,,Ophryastes,,eats
+12936,,Onthophagus,,eats
+12936,,Harpalus ellipsis,,eats
+12936,,Cardiophorus,,eats
+12936,,Amara interstitialis,,eats
+12936,133977,Sinea diadema,Spined Assassin Bug,eats
+12936,,Listronotus,,eats
+12936,,Dichelonyx,,eats
+12936,,Aphodius fimetarius,,eats
+12936,,Calamosternus granarius,,eats
+12936,,Thecesternus,,eats
+12936,,Curculio alternatus,,eats
+12936,,Rhigopsis effracta,,eats
+12936,,Chrysoperla externa,,eats
+12936,120145,Juniperus monosperma,One-seed Juniper,eats
+12936,20445,Tyto alba,Barn Owl,eatenBy
+12936,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+12936,4665,Falco sparverius,American Kestrel,eatenBy
+12936,4644,Falco mexicanus,Prairie Falcon,eatenBy
+12936,5097,Accipiter striatus,Sharp-shinned Hawk,eatenBy
+12936,,Aquila chrysaetos,,eatenBy

@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+488924,8021,Corvus brachyrhynchos,American Crow,eatenBy
+488924,144455,Ardea alba,Great Egret,eatenBy
+488924,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+488924,210600,Lanius ludovicianus mearnsi,San Clemente Loggerhead Shrike,eatenBy
+488924,5305,Haliaeetus leucocephalus,Bald Eagle,preyedUponBy
+488924,5178,Circus macrourus,Pallid Harrier,preyedUponBy
+488924,,Psammophis phillipsi,,preyedUponBy
+488924,28627,Spilotes pullatus,Chicken Snake,preyedUponBy
+488924,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+488924,,Chironius fuscus,,preyedUponBy
+488924,29404,Mastigodryas melanolomus,Dryad Snake,preyedUponBy
+488924,29166,Oxyrhopus guibei,Guibe´s Flame Snake,preyedUponBy

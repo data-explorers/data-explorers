@@ -1,0 +1,101 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+84838,84838,Syzygium jambos,Rose-apple,eats
+84838,47219,Apis mellifera,Western Honey Bee,eatenBy
+84838,84838,Syzygium jambos,Rose-apple,eatenBy
+84838,,Leontopithecus chrysomelas,,eatenBy
+84838,,Amazilia tobaci,,eatenBy
+84838,,Amazilia brevirostris,,eatenBy
+84838,,Homona encausta,,eatenBy
+84838,,Ophiorrhabda cellifera,,eatenBy
+84838,,Ophiorrhabda mormopa,,eatenBy
+84838,343664,Dudua aprobola,,eatenBy
+84838,,Strepsicrates ejectana,,eatenBy
+84838,,Aetholix flavibasalis,,eatenBy
+84838,,Eumeta variegata,,eatenBy
+84838,,Timocratica albella,,eatenBy
+84838,,Nycteola canoides,,eatenBy
+84838,,Symitha indicatana,,eatenBy
+84838,,Carea albirufa,,eatenBy
+84838,,Symitha nolalella,,eatenBy
+84838,,Targalla delatrix,,eatenBy
+84838,,Cerynea contentaria,,eatenBy
+84838,,Nygmia fumosa,,eatenBy
+84838,,Arhopala,,eatenBy
+84838,,Flos,,eatenBy
+84838,,Altha rufescens,,eatenBy
+84838,338455,Chalcoscelides castaneipars,,eatenBy
+84838,,Acrocercops bisinuata,,eatenBy
+84838,,Metanastria,,eatenBy
+84838,,Chalcocelis albiguttatus,,eatenBy
+84838,,Trabala vishnou,,eatenBy
+84838,18182,Melanerpes portoricensis,Puerto Rican Woodpecker,eatenBy
+84838,,Setophaga caerulescens,,eatenBy
+84838,73412,Spindalis portoricensis,Puerto Rican Spindalis,eatenBy
+84838,,Cyanerpes caeruleus,,eatenBy
+84838,,Tiaris bicolor,,eatenBy
+84838,,Chlorophanes spiza,,eatenBy
+84838,16024,Myiarchus antillarum,Puerto Rican Flycatcher,eatenBy
+84838,,Tangara,,eatenBy
+84838,10199,Coereba flaveola,Bananaquit,eatenBy
+84838,,Cyanerpes cyaneus,,eatenBy
+84838,10080,Tachyphonus rufus,White-lined Tanager,eatenBy
+84838,10506,Dacnis cayana,Blue Dacnis,eatenBy
+84838,,Vireo flavifrons,,eatenBy
+84838,16771,Tyrannus caudifasciatus,Loggerhead Kingbird,eatenBy
+84838,,Thraupis episcopus,,eatenBy
+84838,,Euphonia musica,,eatenBy
+84838,,Euphonia violacea,,eatenBy
+84838,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+84838,,Tachyphonus luctuosus,,eatenBy
+84838,3080,Patagioenas squamosa,Scaly-naped Pigeon,eatenBy
+84838,,Setophaga tigrina,,eatenBy
+84838,17384,Vireo latimeri,Puerto Rican Vireo,eatenBy
+84838,72952,Icterus portoricensis,Puerto Rican Oriole,eatenBy
+84838,16798,Tyrannus dominicensis,Gray Kingbird,eatenBy
+84838,3460,Zenaida asiatica,White-winged Dove,eatenBy
+84838,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+84838,10297,Thraupis palmarum,Palm Tanager,eatenBy
+84838,14984,Margarops fuscatus,Pearly-eyed Thrasher,eatenBy
+84838,,Loxigilla portoricensis,,eatenBy
+84838,10056,Ramphocelus carbo,Silver-beaked Tanager,eatenBy
+84838,,Phyllostomus hastatus,,eatenBy
+84838,41080,Phyllostomus elongatus,lesser spear-nosed bat,eatenBy
+84838,,Artibeus concolor,,eatenBy
+84838,41110,Carollia perspicillata,Seba's Short-tailed Bat,eatenBy
+84838,40995,Artibeus planirostris,Flat-faced Fruit-eating Bat,eatenBy
+84838,,Uroderma magnirostrum,,eatenBy
+84838,,Rhinophylla pumilio,,eatenBy
+84838,,Platyrrhinus helleri,,eatenBy
+84838,41077,Phyllostomus discolor,pale spear-nosed bat,eatenBy
+84838,,Uroderma bilobatum,,eatenBy
+84838,,Sturnira lilium,,eatenBy
+84838,,Artibeus cinereus,,eatenBy
+84838,41108,Ametrida centurio,little white-shouldered bat,eatenBy
+84838,,Hsunycteris thomasi,,eatenBy
+84838,,Mesophylla macconnelli,,eatenBy
+84838,,Chiroderma trinitatum,,eatenBy
+84838,,Artibeus lituratus,,eatenBy
+84838,,Artibeus jamaicensis,,eatenBy
+84838,,Artibeus toltecus,,eatenBy
+84838,41043,Sturnira ludovici,Highland Yellow-shouldered Bat,eatenBy
+84838,,Artibeus phaeotis,,eatenBy
+84838,41031,Platyrrhinus lineatus,White-lined Broad-nosed Bat,eatenBy
+84838,,Tupinambis merianae,,eatenBy
+84838,41072,Micronycteris megalotis,little big-eared bat,eatenBy
+84838,,Anoura caudifer,,eatenBy
+84838,,Eulemur fulvus,,eatenBy
+84838,,Macaca nemestrina,,eatenBy
+84838,40870,Pteropus,Flying Foxes,eatenBy
+84838,,Pteropus vampyrus,,eatenBy
+84838,,Pteropus tonganus,,eatenBy
+84838,,Pteropus rodricensis,,eatenBy
+84838,,Rousettus madagascariensis,,eatenBy
+84838,,Pteropus lylei,,eatenBy
+84838,40793,Cynopterus brachyotis,Lesser Short-nosed Fruit Bat,eatenBy
+84838,40887,Pteropus dasymallus,Ryukyu Flying Fox,eatenBy
+84838,75042,Rousettus aegyptiacus,Egyptian Rousette,eatenBy
+84838,,Pteropus niger,,eatenBy
+84838,,Myonycteris angolensis,,eatenBy
+84838,41164,Ariteus flavescens,Jamaican fig-eating bat,eatenBy
+84838,40645,Rhinolophus ferrumequinum,Greater Horseshoe Bat,eatenBy
+84838,,Hyphorma minax minor,,eatenBy

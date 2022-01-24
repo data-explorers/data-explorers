@@ -1,0 +1,83 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52326,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+52326,143615,Udea rubigalis,Celery Leaftier Moth,eatenBy
+52326,55659,Pyrausta,Mint Moths,eatenBy
+52326,231425,Spodoptera exigua,Beet Armyworm Moth,eatenBy
+52326,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+52326,9100,Melospiza melodia,Song Sparrow,eatenBy
+52326,47219,Apis mellifera,Western Honey Bee,eatenBy
+52326,10139,Ammodramus savannarum,Grasshopper Sparrow,eatenBy
+52326,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+52326,906,Meleagris gallopavo,Wild Turkey,eatenBy
+52326,3454,Zenaida macroura,Mourning Dove,eatenBy
+52326,1409,Callipepla californica,California Quail,eatenBy
+52326,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+52326,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+52326,17356,Vireo bellii,Bell's Vireo,eatenBy
+52326,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+52326,10373,Molothrus ater,Brown-headed Cowbird,eatenBy
+52326,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+52326,10325,Euphagus cyanocephalus,Brewer's Blackbird,eatenBy
+52326,474210,Spizelloides arborea,American Tree Sparrow,eatenBy
+52326,3017,Columba livia,Rock Pigeon,eatenBy
+52326,12942,Sialia sialis,Eastern Bluebird,eatenBy
+52326,12727,Turdus migratorius,American Robin,eatenBy
+52326,199840,Haemorhous mexicanus,House Finch,eatenBy
+52326,,Spodoptera eridania,,eatenBy
+52326,,Mus sp.,,eatenBy
+52326,,North American deermouse,,eatenBy
+52326,,Cletus bipunctatus,,eatenBy
+52326,,Eretmocera impactella,,eatenBy
+52326,,Saphenista,,eatenBy
+52326,,Herpetogramma bipunctalis,,eatenBy
+52326,,Spoladea recurvalis,,eatenBy
+52326,,Psara basalis,,eatenBy
+52326,,Omiodes simialis,,eatenBy
+52326,,Hymenia perspectalis,,eatenBy
+52326,,Eretmocera cyanosoma,,eatenBy
+52326,,Chrysobotys cambogialis,,eatenBy
+52326,330496,Rhectocraspeda periusalis,Eggplant Webworm Moth,eatenBy
+52326,,Spodoptera litura,,eatenBy
+52326,224414,Mamestra configurata,Bertha Armyworm Moth,eatenBy
+52326,,Discestra trifolii,,eatenBy
+52326,,Zizeeria knysna,,eatenBy
+52326,,Neogalea sunia,,eatenBy
+52326,,Zizeeria karsandra,,eatenBy
+52326,,Erynnis martialis,,eatenBy
+52326,,Coleophora amaranthella,,eatenBy
+52326,,Disonycha glabrata,,eatenBy
+52326,,Novius cardinalis,,eatenBy
+52326,,Pholisora catullus,,eatenBy
+52326,,Mactruchus serrifer,,eatenBy
+52326,,Reuteroscopus nigricornis,,eatenBy
+52326,84508,Adelphocoris lineolatus,Alfalfa Plant Bug,eatenBy
+52326,,Sehirus cinctus,,eatenBy
+52326,371047,Actinote mamita,,eatenBy
+52326,,Actinote surima,,eatenBy
+52326,,Chlosyne narva,,eatenBy
+52326,9227,Serinus,Eurasian Serins and Canaries,eatenBy
+52326,,Tetranychus urticae,,eatenBy
+52326,,Myzus persicae,,eatenBy
+52326,,Staphylus mazans,,eatenBy
+52326,73412,Spindalis portoricensis,Puerto Rican Spindalis,eatenBy
+52326,9609,Quiscalus niger,Greater Antillean Grackle,eatenBy
+52326,,Tiaris bicolor,,eatenBy
+52326,3465,Zenaida aurita,Zenaida Dove,eatenBy
+52326,,Estrilda melpoda,,eatenBy
+52326,3460,Zenaida asiatica,White-winged Dove,eatenBy
+52326,3545,Columbina passerina,Common Ground Dove,eatenBy
+52326,1078,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,eatenBy
+52326,831,Perdix perdix,Gray Partridge,eatenBy
+52326,9743,Agelaius tricolor,Tricolored Blackbird,eatenBy
+52326,,Pooecetes gramineus,,eatenBy
+52326,,Spizella breweri,,eatenBy
+52326,145088,Ixoreus naevius,Varied Thrush,eatenBy
+52326,13732,Anthus rubescens,American Pipit,eatenBy
+52326,,Acanthis flammea,,eatenBy
+52326,,Pinicola enucleator,,eatenBy
+52326,,Rhynchophanes mccownii,,eatenBy
+52326,117059,Plectrophenax nivalis,Snow Bunting,eatenBy
+52326,117153,Calcarius ornatus,Chestnut-collared Longspur,eatenBy
+52326,47220,Apis,Honey Bees,pollinatedBy
+52326,,Wind,,pollinatedBy
+52326,,Lipotriches,,pollinatedBy

@@ -1,0 +1,28 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50600,,plankton - suspended detritus,,eats
+50600,,nearshore phytoplankton,,eats
+50600,4345,Larus occidentalis,Western Gull,eatenBy
+50600,47186,Decapoda,Decapods,eatenBy
+50600,47668,Asteroidea,Sea Stars,eatenBy
+50600,429195,Nucella emarginata,Emarginate Dogwinkle,eatenBy
+50600,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+50600,7031,Melanitta,Scoters,eatenBy
+50600,709642,Athyonidium chilensis,,eatenBy
+50600,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+50600,63740,Gadus morhua,Atlantic Cod,eatenBy
+50600,132526,Stephanolepis hispidus,Planehead filefish,eatenBy
+50600,49614,Lepomis gibbosus,Pumpkinseed,eatenBy
+50600,347602,Plectorhinchus pictus,Trout Sweetlips,eatenBy
+50600,,Arius oetik,,eatenBy
+50600,613181,Leucos panosi,Acheloos Roach,eatenBy
+50600,52547,Tautoga onitis,Tautog,eatenBy
+50600,104980,Maccullochella peelii,Murray Cod,eatenBy
+50600,4388,Larus dominicanus,Kelp Gull,eatenBy
+50600,505078,Sicyases sanguineus,,eatenBy
+50600,482966,Acanthocyclus,,eatenBy
+50600,,Concholepas concholepas,,eatenBy
+50600,255868,Heliaster helianthus,South American Multiradiate Sun Star,eatenBy
+50600,,prehistoric Aleut man,,eatenBy
+50600,47186,Decapoda,Decapods,preyedUponBy
+50600,47668,Asteroidea,Sea Stars,preyedUponBy
+50600,,prehistoric Aleut man,,preyedUponBy

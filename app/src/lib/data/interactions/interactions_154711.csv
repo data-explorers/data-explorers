@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+154711,47126,Plantae,plants,eats
+154711,,C.,,eats
+154711,143904,Cynips longiventris,Striped Pea Gall Wasp,eats
+154711,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+154711,430553,Merlangius merlangus,Whiting,eatenBy
+154711,,Eurytoma brunniventris,,eatenBy
+154711,179496,Peprilus burti,Gulf Butterfish,eatenBy
+154711,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+154711,3,Aves,Birds,pollinatedBy

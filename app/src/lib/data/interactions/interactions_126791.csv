@@ -1,0 +1,91 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126791,47126,Plantae,plants,eats
+126791,4209,Podiceps auritus,Horned Grebe,eatenBy
+126791,10274,Pheucticus melanocephalus,Black-headed Grosbeak,eatenBy
+126791,,Araniella alpica,,eatenBy
+126791,,Badula platyphylla,,eatenBy
+126791,162,Porzana carolina,Sora,eatenBy
+126791,979755,Leiothlypis luciae,Lucy's Warbler,eatenBy
+126791,7603,Auriparus flaviceps,Verdin,eatenBy
+126791,,Picoides villosus,,eatenBy
+126791,,Dryobates albolarvatus,,eatenBy
+126791,14825,Sitta pusilla,Brown-headed Nuthatch,eatenBy
+126791,490877,Rhaphithamnus spinosus,Prickly myrtle,pollinates
+126791,49463,Trillium ovatum,Pacific trillium,pollinates
+126791,78352,Parnassia palustris,marsh grass-of-Parnassus,pollinates
+126791,,Badula platyphylla,,pollinates
+126791,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+126791,47951,Staphylinidae,Rove Beetles,preyedUponBy
+126791,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+126791,48139,Salticidae,Jumping Spiders,preyedUponBy
+126791,57409,Phalangiidae,Phalangiid Harvestmen,preyedUponBy
+126791,47345,Agelenidae,Funnel Weavers,preyedUponBy
+126791,47535,Araneidae,Orbweavers,preyedUponBy
+126791,47416,Lycosidae,Wolf Spiders,preyedUponBy
+126791,148395,Trochosa,,preyedUponBy
+126791,47866,Thomisidae,Crab Spiders,preyedUponBy
+126791,407287,Lithobius melanops,,preyedUponBy
+126791,,Euophrys frontalis,,preyedUponBy
+126791,127023,Amaurobius,Lace web spider,preyedUponBy
+126791,,Lithobius,,preyedUponBy
+126791,,Campodea,,preyedUponBy
+126791,784149,Diplocephalus picinus,,preyedUponBy
+126791,739596,Lithobius mutabilis,,preyedUponBy
+126791,521083,Strigamia acuminata,,preyedUponBy
+126791,,Microneta viaria,,preyedUponBy
+126791,778930,Tenuiphantes mengei,,preyedUponBy
+126791,765638,Lithobius calcaratus,,preyedUponBy
+126791,738601,Lithobius aeruginosus,,preyedUponBy
+126791,490816,Neobisium,,preyedUponBy
+126791,359911,Staphylininae,,preyedUponBy
+126791,203275,Xantholinus,,preyedUponBy
+126791,705967,Harpactea lepida,,preyedUponBy
+126791,784185,Saloca diceros,,preyedUponBy
+126791,452503,Robertus lividus,,preyedUponBy
+126791,397950,Tenuiphantes tenuis,,preyedUponBy
+126791,121773,Clubionidae,Sac Spiders,preyedUponBy
+126791,131980,Trechus,,preyedUponBy
+126791,784286,Micrargus apertus,,preyedUponBy
+126791,,Harpalus affinis,,preyedUponBy
+126791,,Malthodes,,preyedUponBy
+126791,783658,Walckenaeria nudipalpis,,preyedUponBy
+126791,498632,Lithobius dentatus,,preyedUponBy
+126791,905423,Lithobius macilentus,,preyedUponBy
+126791,,Habrocerus capillaricornis,,preyedUponBy
+126791,496759,Geophilus insculptus,,preyedUponBy
+126791,783981,Tapinocyba insecta,,preyedUponBy
+126791,,Hahnia pusilla,,preyedUponBy
+126791,230519,Schendyla nemorensis,,preyedUponBy
+126791,510480,Othius,,preyedUponBy
+126791,360817,Coelotes,,preyedUponBy
+126791,491325,Geophilus electricus,,preyedUponBy
+126791,,Geophilus ribauti,,preyedUponBy
+126791,568199,Lithobius curtipes,,preyedUponBy
+126791,,Lithobius muticus,,preyedUponBy
+126791,,Walckenaeria furcillata,,preyedUponBy
+126791,490815,Neobisium carcinoides,Moss Neobisid,preyedUponBy
+126791,,Donacochara speciosa,,preyedUponBy
+126791,701423,Histopona torpida,,preyedUponBy
+126791,,Gonatium rubens,,preyedUponBy
+126791,318917,Euryopis flavomaculata,,preyedUponBy
+126791,706060,Monocephalus fuscipes,,preyedUponBy
+126791,504180,Microlestes minutulus,,preyedUponBy
+126791,1004280,Othius subuliformis,,preyedUponBy
+126791,793485,Stenus impressus,,preyedUponBy
+126791,,Gyrohypnus,,preyedUponBy
+126791,,Stenus mendicus,,preyedUponBy
+126791,706059,Gongylidiellum latebricola,,preyedUponBy
+126791,41137,Anoura geoffroyi,Geoffroy's tailless bat,preyedUponBy
+126791,,Phyllostomus hastatus,,preyedUponBy
+126791,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+126791,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+126791,336908,Cryptops hortensis,Common Cryptops,preyedUponBy
+126791,360548,Zora spinimana,,preyedUponBy
+126791,494566,Athous subfuscus,,preyedUponBy
+126791,784293,Pelecopsis radicicola,,preyedUponBy
+126791,496623,Notiophilus rufipes,,preyedUponBy
+126791,,Pachygnatha degeeri,,preyedUponBy
+126791,457780,Geostiba circellaris,,preyedUponBy
+126791,131943,Rugilus rufipes,,preyedUponBy
+126791,637234,Xysticus erraticus,,preyedUponBy
+126791,784182,Pocadicnemis juncea,,preyedUponBy

@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117666,1,Animalia,Animals,eats
+117666,47126,Plantae,plants,eats
+117666,121643,Copepoda,Copepods,eats
+117666,85493,Crustacea,Crustaceans,eats
+117666,,unspecified zooplankton,,eats
+117666,,Phytoplankton,,eats
+117666,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+117666,39659,Chelonia mydas,Green Sea Turtle,eatenBy
+117666,4343,Larus,Large White-headed Gulls,eatenBy
+117666,4345,Larus occidentalis,Western Gull,eatenBy
+117666,49051,Anthopleura sola,Sunburst Anemone,eatenBy
+117666,4353,Larus heermanni,Heermann's Gull,eatenBy
+117666,4317,Phaethon aethereus,Red-billed Tropicbird,eatenBy
+117666,,Benthesicymus tanneri,,eatenBy
+117666,123962,Dosidicus gigas,Humboldt Squid,eatenBy
+117666,110367,Prionotus stephanophrys,Lumptail Searobin,eatenBy
+117666,97138,Chaetodipterus zonatus,Pacific spadefish,eatenBy
+117666,49497,Epinephelus,Rockcods,eatenBy
+117666,47537,Makaira mazara,Indo-Pacific Blue Marlin,eatenBy
+117666,187572,Kajikia audax,Striped Marlin,eatenBy
+117666,188560,Thunnus orientalis,Pacific Bluefin Tuna,eatenBy
+117666,49497,Epinephelus,Rockcods,preyedUponBy
+117666,97138,Chaetodipterus zonatus,Pacific spadefish,preyedUponBy
+117666,47537,Makaira mazara,Indo-Pacific Blue Marlin,preyedUponBy

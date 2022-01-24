@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57359,53843,Brephidium exilis,Western Pygmy-Blue,eatenBy
+57359,,Discestra sodae,,eatenBy
+57359,,Coleophora,,eatenBy
+57359,,Coleophora suaedae,,eatenBy
+57359,,Marmaronetta angustirostris,,eatenBy
+57359,7086,Branta,Black Geese,preyedUponBy
+57359,7054,Aythya affinis,Lesser Scaup,preyedUponBy
+57359,6933,Anas acuta,Northern Pintail,preyedUponBy

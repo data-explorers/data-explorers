@@ -1,0 +1,105 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55563,47219,Apis mellifera,Western Honey Bee,eatenBy
+55563,58752,Toxomerus occidentalis,Western Calligrapher,eatenBy
+55563,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+55563,338310,Allograpta exotica,Exotic Streaktail,eatenBy
+55563,311434,Paragus haemorrhous,Black-backed Grass Skimmer,eatenBy
+55563,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+55563,52775,Bombus,Bumble Bees,eatenBy
+55563,126532,Toxomerus geminatus,Eastern Calligrapher,eatenBy
+55563,335743,Sphaerophoria contigua,Tufted Globetail,eatenBy
+55563,62045,Lygaeus kalmii,Small Milkweed Bug,eatenBy
+55563,224501,Megachile perihirta,Western Leafcutter,eatenBy
+55563,59441,Chrysoperla,Common Green Lacewings,eatenBy
+55563,740096,Fazia micrura,Diamond Spottail,eatenBy
+55563,69145,Coenonympha california,Common Ringlet,eatenBy
+55563,118968,Allograpta obliqua,Oblique Streaktail,eatenBy
+55563,50340,Hylephila phyleus,Fiery Skipper,eatenBy
+55563,129893,Sphaerophoria sulphuripes,Forked Globetail,eatenBy
+55563,,Harpalus rufipes,,eatenBy
+55563,,Harpalus affinis,,eatenBy
+55563,914676,Macrosteles laevis,,eatenBy
+55563,130433,Amara aenea,Common Sun Beetle,eatenBy
+55563,,microbes,,eatenBy
+55563,,Ophonus azureus,,eatenBy
+55563,,Ophonus schaubergerianus,,eatenBy
+55563,,Lygus rugulipennis,,eatenBy
+55563,,Amara equestris,,eatenBy
+55563,,Amara sinuosa,,eatenBy
+55563,,Orthocephalus saltator,,eatenBy
+55563,,Pachytomella arallela,,eatenBy
+55563,,Anisodactylus binotatus,,eatenBy
+55563,130452,Amara plebeja,,eatenBy
+55563,,Drymus sylvaticus,,eatenBy
+55563,552756,Orius niger,,eatenBy
+55563,,Athous bicolor,,eatenBy
+55563,,Baris lepidii,,eatenBy
+55563,,Diplapion confluens,,eatenBy
+55563,,Apion semivittatum,,eatenBy
+55563,,Cerapion onopordi,,eatenBy
+55563,,Diachromus germanus,,eatenBy
+55563,,Aphrodes makarovi,,eatenBy
+55563,,Rhyparochromus vulgaris,,eatenBy
+55563,,Helophorus nubilus,,eatenBy
+55563,,Malachius bipustulatus,,eatenBy
+55563,504708,Ophonus laticollis,,eatenBy
+55563,547575,Anthicus antherinus,,eatenBy
+55563,,Stictopleurus unctatonervosus,,eatenBy
+55563,,Thrips,,eatenBy
+55563,,Drymus ryei,,eatenBy
+55563,,Sphragisticus nebulosus,,eatenBy
+55563,,Stictopleurus abutilon,,eatenBy
+55563,,Rhyparochromus pini,,eatenBy
+55563,,Carpocoris fuscispinus,,eatenBy
+55563,,Dolycoris baccarum,,eatenBy
+55563,550416,Stygnocoris rusticus,,eatenBy
+55563,,Eusomus ovulum,,eatenBy
+55563,,Harpalus rubripes,,eatenBy
+55563,743172,Coryssomerus capucinus,,eatenBy
+55563,213121,Amara bifrons,,eatenBy
+55563,,Hemicrepidius hirtus,,eatenBy
+55563,,Lygus pratensis,,eatenBy
+55563,,Amara aulica,,eatenBy
+55563,,Rgonycha fulva,,eatenBy
+55563,,Harpalus distinguendus,,eatenBy
+55563,,Helophorus griseus,,eatenBy
+55563,456218,Agriotes obscurus,,eatenBy
+55563,532814,Adelphocoris quadripunctatus,,eatenBy
+55563,,Catoplatus fabricii,,eatenBy
+55563,84508,Adelphocoris lineolatus,Alfalfa Plant Bug,eatenBy
+55563,,Amara lunicollis,,eatenBy
+55563,,Exomias pellucidus,,eatenBy
+55563,216166,Cassida rubiginosa,Thistle Tortoise Beetle,eatenBy
+55563,,Amara quenseli,,eatenBy
+55563,,Adrastus rachifer,,eatenBy
+55563,,Alophus triguttatus,,eatenBy
+55563,,Plagiognathus chrysanthemi,,eatenBy
+55563,,Holcostethus strictus,,eatenBy
+55563,,Amara ovata,,eatenBy
+55563,,Trechus quadristriatus,,eatenBy
+55563,,Ophonus stictus,,eatenBy
+55563,,Corizus hyoscyami,,eatenBy
+55563,,Graphosoma lineatum,,eatenBy
+55563,523365,Harpalus griseus,,eatenBy
+55563,,Clepsis persicana,,eatenBy
+55563,,Cnephasia incertana,,eatenBy
+55563,,Falseuncaria ruficiliana,,eatenBy
+55563,,Trupanea stellata,,eatenBy
+55563,1075118,Campiglossa producta,,eatenBy
+55563,,Napomyza bellidis,,eatenBy
+55563,,Liriomyza orbona,,eatenBy
+55563,449377,Liriomyza pusilla,,eatenBy
+55563,,Calycomyza humeralis,,eatenBy
+55563,18920,Platycercus eximius,Eastern Rosella,eatenBy
+55563,320786,Eristalis arbustorum,European Drone Fly,eatenBy
+55563,,Nathalis iole,,eatenBy
+55563,,Plebeia emerina,,eatenBy
+55563,121357,Platycheirus,Sedgesitters,eatenBy
+55563,,Platycheirus obscurus,,eatenBy
+55563,84040,Chauliognathus marginatus,Margined Leatherwing Beetle,eatenBy
+55563,,Burnsius communis,,eatenBy
+55563,,Eupeodes volucris,,eatenBy
+55563,,Cantharis lateralis,,preyedUponBy
+55563,,Amara communis,,preyedUponBy
+55563,,Aeolothrips intermedius,,preyedUponBy
+55563,,Cantharis fusca,,preyedUponBy

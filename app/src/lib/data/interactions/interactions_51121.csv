@@ -1,0 +1,15 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51121,7043,Aythya,"Scaups, Pochards, and Allies",eatenBy
+51121,6922,Anas,"Mallards, Pintails, and Allies",eatenBy
+51121,,Barbus,,eatenBy
+51121,,Nymphula stagnata,,eatenBy
+51121,,Rhopalosiphum nymphaeae,,eatenBy
+51121,,Galerucella nymphaeae,,eatenBy
+51121,,Litoria peronii,,eatenBy
+51121,6896,Dendrocygna arcuata,Wandering Whistling-Duck,eatenBy
+51121,6987,Anas superciliosa,Pacific Black Duck,eatenBy
+51121,,Nettapus pulchellus,,eatenBy
+51121,6905,Anseranas semipalmata,Magpie Goose,eatenBy
+51121,7128,Nettapus coromandelianus,Cotton Pygmy-Goose,eatenBy
+51121,6914,Cygnus atratus,Black Swan,eatenBy
+51121,,Netta erythrophthalma,,eatenBy

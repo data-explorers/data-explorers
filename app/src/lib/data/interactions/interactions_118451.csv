@@ -1,0 +1,101 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+118451,9602,Quiscalus quiscula,Common Grackle,eatenBy
+118451,19743,Megascops kennicottii,Western Screech-Owl,eatenBy
+118451,4940,Egretta thula,Snowy Egret,eatenBy
+118451,4246,Podilymbus podiceps,Pied-billed Grebe,eatenBy
+118451,19893,Strix varia,Barred Owl,eatenBy
+118451,20044,Bubo virginianus,Great Horned Owl,eatenBy
+118451,7109,Lophodytes cucullatus,Hooded Merganser,eatenBy
+118451,4209,Podiceps auritus,Horned Grebe,eatenBy
+118451,144455,Ardea alba,Great Egret,eatenBy
+118451,8021,Corvus brachyrhynchos,American Crow,eatenBy
+118451,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+118451,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+118451,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+118451,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+118451,87467,Chromis,Chromis,eatenBy
+118451,132473,Lagodon rhomboides,Pinfish,eatenBy
+118451,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+118451,53585,Carcharhinus,Typical Requiem Sharks,eatenBy
+118451,89855,Menticirrhus,Kingcroakers,eatenBy
+118451,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+118451,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+118451,48844,Echeneis naucrates,Sharksucker,eatenBy
+118451,144491,Tringa semipalmata,Willet,eatenBy
+118451,47188,Pachygrapsus crassipes,Striped Shore Crab,eatenBy
+118451,128750,Sciaenops ocellatus,Red Drum,eatenBy
+118451,7111,Histrionicus histrionicus,Harlequin Duck,eatenBy
+118451,4305,Phalacrocorax urile,Red-faced Cormorant,eatenBy
+118451,4537,Anous minutus,Black Noddy,eatenBy
+118451,4937,Egretta caerulea,Little Blue Heron,eatenBy
+118451,4938,Egretta tricolor,Tricolored Heron,eatenBy
+118451,4141,Phoebastria nigripes,Black-footed Albatross,eatenBy
+118451,4144,Phoebastria immutabilis,Laysan Albatross,eatenBy
+118451,475125,Ardenna pacifica,Wedge-tailed Shearwater,eatenBy
+118451,144526,Onychoprion lunatus,Gray-backed Tern,eatenBy
+118451,20315,Asio flammeus,Short-eared Owl,eatenBy
+118451,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+118451,7004,Mergus merganser,Common Merganser,eatenBy
+118451,6926,Anas aucklandica,Auckland Islands Teal,eatenBy
+118451,3810,Pygoscelis adeliae,Adelie Penguin,eatenBy
+118451,260237,Aristaeopsis edwardsiana,Scarlet Gamba Prawn,eatenBy
+118451,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+118451,34,Grus americana,Whooping Crane,eatenBy
+118451,179508,Bagre marinus,Gafftopsail Catfish,eatenBy
+118451,49750,Archosargus probatocephalus,Sheepshead,eatenBy
+118451,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+118451,147102,Apogon pseudomaculatus,Twospot cardinalfish,eatenBy
+118451,317321,Pronotogrammus martinicensis,Roughtongue bass,eatenBy
+118451,,Hemanthias vivanus,,eatenBy
+118451,49626,Holocentrus adscensionis,Squirrelfish,eatenBy
+118451,124316,Lutjanus campechanus,Northern Red Snapper,eatenBy
+118451,,Bodianus pulchellus,,eatenBy
+118451,108196,Pagrus pagrus,Red Porgy,eatenBy
+118451,179478,Priacanthus arenatus,Bigeye,eatenBy
+118451,49285,Halichoeres,,eatenBy
+118451,,Caulolatilus chrysops,,eatenBy
+118451,126872,Rhomboplites aurorubens,Vermilion Snapper,eatenBy
+118451,116386,Pristigenys alta,Short Bigeye,eatenBy
+118451,,Sargocentron bullisi,,eatenBy
+118451,179485,Opsanus pardus,Leopard Toadfish,eatenBy
+118451,110595,Prognathodes aya,Bank Butterflyfish,eatenBy
+118451,129665,Malacanthus plumieri,Sand Tilefish,eatenBy
+118451,99152,Decodon puellaris,Red hogfish,eatenBy
+118451,,Equetus iwamotoi,,eatenBy
+118451,49748,Serranus,,eatenBy
+118451,108614,Paranthias furcifer,Atlantic Creolefish,eatenBy
+118451,128191,Neoniphon marianus,Caribbean Longjaw Squirrelfish,eatenBy
+118451,112960,Sphyrna tiburo,Bonnethead,eatenBy
+118451,49964,Ginglymostoma cirratum,Nurse Shark,eatenBy
+118451,57814,Pogonias cromis,Black Drum,eatenBy
+118451,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+118451,179463,Stenotomus caprinus,Longspine porgy,eatenBy
+118451,179623,Cynoscion arenarius,Sand Seatrout,eatenBy
+118451,51404,Trichiurus lepturus,Largehead Hairtail,eatenBy
+118451,154501,Cynoscion nothus,Silver Seatrout,eatenBy
+118451,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+118451,83439,Centropristis striata,Black Sea Bass,eatenBy
+118451,179442,Urophycis floridana,Southern Codling,eatenBy
+118451,179512,Bairdiella chrysoura,Silver Perch,eatenBy
+118451,179620,Cynoscion nebulosus,Spotted Seatrout,eatenBy
+118451,106308,Mycteroperca microlepis,Gag grouper,eatenBy
+118451,49637,Epinephelus morio,Red Grouper,eatenBy
+118451,108562,Paralichthys lethostigma,Southern Flounder,eatenBy
+118451,179545,Menticirrhus americanus,Southern Kingfish,eatenBy
+118451,179471,Scomberomorus maculatus,Atlantic Spanish Mackerel,eatenBy
+118451,131491,Rachycentron canadum,Cobia,eatenBy
+118451,179446,Trachinotus carolinus,Florida Pompano,eatenBy
+118451,101057,Fundulus grandis,Gulf Killifish,eatenBy
+118451,94070,Anchoa mitchilli,Bay Anchovy,eatenBy
+118451,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+118451,128172,Mulloidichthys martinicus,Yellow Goatfish,eatenBy
+118451,81989,Lutjanus apodus,Schoolmaster Snapper,eatenBy
+118451,49421,Diplectrum formosum,Sand Perch,eatenBy
+118451,131448,Sargocentron coruscum,Reef Squirrelfish,eatenBy
+118451,49509,Lutjanus griseus,Grey Snapper,eatenBy
+118451,52295,Haemulon macrostomum,Spanish grunt,eatenBy
+118451,128861,Haemulon chrysargyreum,Smallmouth Grunt,eatenBy
+118451,130054,Haemulon carbonarium,Caesar Grunt,eatenBy
+118451,131525,Calamus calamus,Saucereye Porgy,eatenBy
+118451,,Ocyurus,,eatenBy
+118451,81554,Ictalurus punctatus,Channel Catfish,eatenBy

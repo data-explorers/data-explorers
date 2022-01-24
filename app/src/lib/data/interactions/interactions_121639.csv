@@ -1,0 +1,255 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+121639,121639,Brachyura,True Crabs,eats
+121639,47490,Polychaeta,Polychaete Worms,eats
+121639,48173,Pagurus,,eats
+121639,210289,Cirripedia,Barnacles,eats
+121639,47628,Amphipoda,Amphipods,eats
+121639,48836,Ophiuroidea,Brittle Stars,eats
+121639,47584,Bivalvia,Bivalves,eats
+121639,48824,Porifera,Sponges,eats
+121639,47114,Gastropoda,Gastropods,eats
+121639,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+121639,144117,Thecostraca,Barnacles and Allies,eats
+121639,1,Animalia,Animals,eats
+121639,47178,Actinopterygii,Ray-finned Fishes,eats
+121639,47120,Arthropoda,Arthropods,eats
+121639,47459,Cephalopoda,Cephalopods,eats
+121639,342912,Caridea,Caridean Shrimps,eats
+121639,49796,Stomatopoda,Mantis Shrimps,eats
+121639,48147,Isopoda,Isopods,eats
+121639,47626,Caprellidae,Skeleton Shrimp,eats
+121639,67333,Bacteria,bacteria,eats
+121639,,Phytoplankton,,eats
+121639,,no name,,eats
+121639,,Zooplankton,,eats
+121639,50355,Euphyllia,Torch Corals,eats
+121639,,Detritus,,eats
+121639,,Benthic autotrophs,,eats
+121639,,Echinoida,,eats
+121639,48665,Sipuncula,Peanut Worms,eats
+121639,,Microfauna,,eats
+121639,,Suprabenthos,,eats
+121639,,Meso and microzooplankton,,eats
+121639,59806,Gammaridae,,eats
+121639,,Ostreoida,,eats
+121639,,Algae,,eats
+121639,,fungi associated with detritus,,eats
+121639,,Prymnesiophyceae,,eats
+121639,41755,Eumetopias jubatus,Steller Sea Lion,eatenBy
+121639,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+121639,52166,Rypticus saponaceus,Greater Soapfish,eatenBy
+121639,39657,Cheloniidae,Typical Sea Turtles,eatenBy
+121639,121639,Brachyura,True Crabs,eatenBy
+121639,47114,Gastropoda,Gastropods,eatenBy
+121639,47668,Asteroidea,Sea Stars,eatenBy
+121639,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,eatenBy
+121639,49265,Sphoeroides spengleri,Bandtail Puffer,eatenBy
+121639,342912,Caridea,Caridean Shrimps,eatenBy
+121639,47273,Elasmobranchii,Elasmobranchs,eatenBy
+121639,49796,Stomatopoda,Mantis Shrimps,eatenBy
+121639,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+121639,47459,Cephalopoda,Cephalopods,eatenBy
+121639,54661,Mugilidae,Mullets,eatenBy
+121639,48563,Triglidae,Searobins,eatenBy
+121639,3901,Numenius phaeopus,Whimbrel,eatenBy
+121639,4519,Uria aalge,Common Murre,eatenBy
+121639,4553,Cerorhinca monocerata,Rhinoceros Auklet,eatenBy
+121639,121187,Sepioteuthis lessoniana,Bigfin Reef Squid,eatenBy
+121639,4343,Larus,Large White-headed Gulls,eatenBy
+121639,4263,Phalacrocorax,Typical Cormorants and Shags,eatenBy
+121639,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+121639,4080,Oceanodroma leucorhoa,Leach's Storm-Petrel,eatenBy
+121639,4328,Pelecanus occidentalis,Brown Pelican,eatenBy
+121639,4092,Puffinus,Small Shearwaters,eatenBy
+121639,4158,Pachyptila turtur,Fairy Prion,eatenBy
+121639,4130,Pelecanoides urinatrix,Common Diving-Petrel,eatenBy
+121639,4265,Phalacrocorax auritus,Double-crested Cormorant,eatenBy
+121639,4180,Fulmarus glacialis,Northern Fulmar,eatenBy
+121639,6993,Bucephala albeola,Bufflehead,eatenBy
+121639,4153,Pelagodroma marina,White-faced Storm-Petrel,eatenBy
+121639,4457,Sterna forsteri,Forster's Tern,eatenBy
+121639,144539,Thalasseus maximus,Royal Tern,eatenBy
+121639,144530,Sternula antillarum,Least Tern,eatenBy
+121639,144542,Thalasseus elegans,Elegant Tern,eatenBy
+121639,4415,Cepphus columba,Pigeon Guillemot,eatenBy
+121639,144537,Hydroprogne caspia,Caspian Tern,eatenBy
+121639,4509,Fratercula cirrhata,Tufted Puffin,eatenBy
+121639,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+121639,123467,Nautilus pompilius,Emperor Nautilus,eatenBy
+121639,151429,Sepia officinalis,European Common Cuttlefish,eatenBy
+121639,103601,Jasus edwardsii,Southern Rock Lobster,eatenBy
+121639,41860,Enhydra lutris,Sea Otter,eatenBy
+121639,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+121639,49267,Sphoeroides,,eatenBy
+121639,47280,Pterois volitans,Common Lionfish,eatenBy
+121639,89855,Menticirrhus,Kingcroakers,eatenBy
+121639,92583,Trachurus,Jack Mackerels,eatenBy
+121639,118703,Gobius cobitis,Giant Goby,eatenBy
+121639,51550,Seriola lalandi,Yellowtail Kingfish,eatenBy
+121639,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+121639,54541,Hippocampus,Seahorses,eatenBy
+121639,47257,Acanthocybium solandri,Wahoo,eatenBy
+121639,47296,Lutjanus,Common Snappers,eatenBy
+121639,51552,Seriola,Amberjacks,eatenBy
+121639,92734,Umbrina,,eatenBy
+121639,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+121639,204776,Pseudocaranx dentex,Silver Trevally,eatenBy
+121639,52460,Tylosurus crocodilus,Crocodile Needlefish,eatenBy
+121639,57301,Hyporhamphus,,eatenBy
+121639,47315,Gymnothorax,Common Morays,eatenBy
+121639,132473,Lagodon rhomboides,Pinfish,eatenBy
+121639,4515,Uria,Murres,eatenBy
+121639,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+121639,4504,Fratercula arctica,Atlantic Puffin,eatenBy
+121639,69676,Thunnus,Bluefin Tunas,eatenBy
+121639,63697,Metacarcinus magister,Dungeness Crab,eatenBy
+121639,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+121639,144455,Ardea alba,Great Egret,eatenBy
+121639,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,eatenBy
+121639,4345,Larus occidentalis,Western Gull,eatenBy
+121639,49052,Anthopleura,,eatenBy
+121639,180007,Otospermophilus beecheyi,California Ground Squirrel,eatenBy
+121639,609262,Sanopus barbatus,Bearded Toadfish,eatenBy
+121639,93903,Amphichthys cryptocentrus,Bocon Toadfish,eatenBy
+121639,41500,Stenella attenuata,Pantropical Spotted Dolphin,eatenBy
+121639,430553,Merlangius merlangus,Whiting,eatenBy
+121639,338051,Gobiusculus flavescens,Two-spotted Goby,eatenBy
+121639,118685,Parablennius gattorugine,Tompot Blenny,eatenBy
+121639,324532,Sprattus sprattus,European Sprat,eatenBy
+121639,55396,Solea solea,Common Sole,eatenBy
+121639,83848,Phycidae,Phycid Hakes,eatenBy
+121639,,Trisopterus minutus,,eatenBy
+121639,320793,Trisopterus esmarkii,Norway Pout,eatenBy
+121639,446544,Syngnathus rostellatus,Lesser Pipefish,eatenBy
+121639,118649,Echiichthys vipera,Lesser Weever,eatenBy
+121639,118695,Trachurus trachurus,Atlantic Horse Mackerel,eatenBy
+121639,97990,Clupea harengus,Atlantic Herring,eatenBy
+121639,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+121639,92628,Trigla,Gurnards,eatenBy
+121639,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+121639,47523,Pleuronectes platessa,European Plaice,eatenBy
+121639,61387,Limanda limanda,Sand Dab,eatenBy
+121639,63740,Gadus morhua,Atlantic Cod,eatenBy
+121639,118636,Scophthalmus rhombus,Brill,eatenBy
+121639,120702,Micromesistius poutassou,Blue Whiting,eatenBy
+121639,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+121639,69840,Scomber japonicus,Pacific Chub Mackerel,eatenBy
+121639,180708,Stegastes leucostictus,Beaugregory,eatenBy
+121639,47490,Polychaeta,Polychaete Worms,preysOn
+121639,47584,Bivalvia,Bivalves,preysOn
+121639,48836,Ophiuroidea,Brittle Stars,preysOn
+121639,48824,Porifera,Sponges,preysOn
+121639,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",preysOn
+121639,48173,Pagurus,,preysOn
+121639,47114,Gastropoda,Gastropods,preysOn
+121639,121639,Brachyura,True Crabs,preysOn
+121639,144117,Thecostraca,Barnacles and Allies,preysOn
+121639,47628,Amphipoda,Amphipods,preysOn
+121639,,benthic macrofauna,,preysOn
+121639,,Carnivorous zooplankton,,preysOn
+121639,,least killifish,,preysOn
+121639,,Pisces,,preysOn
+121639,,Microfauna,,preysOn
+121639,,Stony corals,,preysOn
+121639,48665,Sipuncula,Peanut Worms,preysOn
+121639,,Zooplankton,,preysOn
+121639,43584,Homo sapiens,Human,preyedUponBy
+121639,121643,Copepoda,Copepods,preyedUponBy
+121639,47178,Actinopterygii,Ray-finned Fishes,preyedUponBy
+121639,47273,Elasmobranchii,Elasmobranchs,preyedUponBy
+121639,54661,Mugilidae,Mullets,preyedUponBy
+121639,47459,Cephalopoda,Cephalopods,preyedUponBy
+121639,47114,Gastropoda,Gastropods,preyedUponBy
+121639,49265,Sphoeroides spengleri,Bandtail Puffer,preyedUponBy
+121639,342912,Caridea,Caridean Shrimps,preyedUponBy
+121639,47668,Asteroidea,Sea Stars,preyedUponBy
+121639,121639,Brachyura,True Crabs,preyedUponBy
+121639,52166,Rypticus saponaceus,Greater Soapfish,preyedUponBy
+121639,39657,Cheloniidae,Typical Sea Turtles,preyedUponBy
+121639,96760,Carcharhinus longimanus,Oceanic Whitetip Shark,preyedUponBy
+121639,5206,Buteo lineatus,Red-shouldered Hawk,preyedUponBy
+121639,144491,Tringa semipalmata,Willet,preyedUponBy
+121639,4999,Nyctanassa violacea,Yellow-crowned Night-Heron,preyedUponBy
+121639,4345,Larus occidentalis,Western Gull,preyedUponBy
+121639,7109,Lophodytes cucullatus,Hooded Merganser,preyedUponBy
+121639,4626,Gavia immer,Common Loon,preyedUponBy
+121639,144455,Ardea alba,Great Egret,preyedUponBy
+121639,41860,Enhydra lutris,Sea Otter,preyedUponBy
+121639,,predaceous fish,,preyedUponBy
+121639,,blue crabs,,preyedUponBy
+121639,,Commercial sparids (1),,preyedUponBy
+121639,120702,Micromesistius poutassou,Blue Whiting,preyedUponBy
+121639,,Pleuronectiformes,,preyedUponBy
+121639,,Commercial sparids (2),,preyedUponBy
+121639,,Demersal piscivores,,preyedUponBy
+121639,317435,Urophycis cirrata,Gulf Hake,preyedUponBy
+121639,,Chondrichthyes,,preyedUponBy
+121639,106881,Nephrops norvegicus,Norway lobster,preyedUponBy
+121639,260530,Parapenaeus politus,,preyedUponBy
+121639,39664,Caretta,Loggerhead sea turtle,preyedUponBy
+121639,131521,Bothus ocellatus,Eyed Flounder,preyedUponBy
+121639,49924,Stegastes fuscus,Dusky Damselfish,preyedUponBy
+121639,131513,Lactophrys trigonus,Buffalo Trunkfish,preyedUponBy
+121639,52295,Haemulon macrostomum,Spanish grunt,preyedUponBy
+121639,101420,Gerres cinereus,Yellowfin Mojarra,preyedUponBy
+121639,129563,Calamus bajonado,Jolthead Porgy,preyedUponBy
+121639,317345,Sargocentron vexillarium,Dusky Squirrelfish,preyedUponBy
+121639,127142,Gymnothorax vicinus,Purplemouth Moray,preyedUponBy
+121639,49304,Stegastes planifrons,Threespot Damselfish,preyedUponBy
+121639,82330,Caranx ruber,Bar Jack,preyedUponBy
+121639,49951,Haemulon plumierii,White Grunt,preyedUponBy
+121639,49272,Halichoeres bivittatus,Slippery Dick,preyedUponBy
+121639,63415,Heteropriacanthus cruentatus,Glasseye,preyedUponBy
+121639,49946,Halichoeres garnoti,Yellowhead Wrasse,preyedUponBy
+121639,100104,Epinephelus guttatus,Red Hind,preyedUponBy
+121639,52464,Melichthys niger,Black Triggerfish,preyedUponBy
+121639,49947,Anisotremus virginicus,Porkfish,preyedUponBy
+121639,131525,Calamus calamus,Saucereye Porgy,preyedUponBy
+121639,81989,Lutjanus apodus,Schoolmaster Snapper,preyedUponBy
+121639,49509,Lutjanus griseus,Grey Snapper,preyedUponBy
+121639,120129,Lactophrys bicaudalis,Spotted Trunkfish,preyedUponBy
+121639,,Rhinesomus triqueter,,preyedUponBy
+121639,182608,Lutjanus jocu,Dog Snapper,preyedUponBy
+121639,196857,Chilomycterus antennatus,Bridled Burrfish,preyedUponBy
+121639,179445,Trachinotus falcatus,Permit,preyedUponBy
+121639,49624,Myripristis jacobus,Blackbar Soldierfish,preyedUponBy
+121639,131448,Sargocentron coruscum,Reef Squirrelfish,preyedUponBy
+121639,102053,Halichoeres maculipinna,Clown Wrasse,preyedUponBy
+121639,317017,Calamus pennatula,Pluma Porgy,preyedUponBy
+121639,96991,Cephalopholis cruentata,Graysby,preyedUponBy
+121639,85249,Scorpaena inermis,Mushroom Scorpionfish,preyedUponBy
+121639,317251,Odontoscion dentex,Reef croaker,preyedUponBy
+121639,128861,Haemulon chrysargyreum,Smallmouth Grunt,preyedUponBy
+121639,52293,Pareques acuminatus,Highhat,preyedUponBy
+121639,49950,Haemulon aurolineatum,Tomtate,preyedUponBy
+121639,49428,Bodianus rufus,Spanish Hogfish,preyedUponBy
+121639,49244,Scorpaena plumieri,Spotted Scorpionfish,preyedUponBy
+121639,128191,Neoniphon marianus,Caribbean Longjaw Squirrelfish,preyedUponBy
+121639,90972,Phaeoptyx,,preyedUponBy
+121639,49747,Serranus tigrinus,Harlequin Bass,preyedUponBy
+121639,,Abudefduf tauru,,preyedUponBy
+121639,96993,Cephalopholis fulva,Coney,preyedUponBy
+121639,49983,Diplodus,,preyedUponBy
+121639,325300,Abdopus,Indo-Pacific Longarm Octopuses,preyedUponBy
+121639,104853,Lutjanus analis,Mutton Snapper,preyedUponBy
+121639,128153,Equetus punctatus,Spotted Drum,preyedUponBy
+121639,62600,Haemulon flavolineatum,French Grunt,preyedUponBy
+121639,102074,Halichoeres poeyi,Blackear Wrasse,preyedUponBy
+121639,49746,Epinephelus striatus,Nassau Grouper,preyedUponBy
+121639,49626,Holocentrus adscensionis,Squirrelfish,preyedUponBy
+121639,179478,Priacanthus arenatus,Bigeye,preyedUponBy
+121639,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,preyedUponBy
+121639,131387,Lutjanus mahogoni,Mahogany Snapper,preyedUponBy
+121639,49432,Lachnolaimus maximus,Hogfish,preyedUponBy
+121639,132531,Archosargus rhomboidalis,Western Atlantic Seabream,preyedUponBy
+121639,112135,Scarus coelestinus,Midnight Parrotfish,preyedUponBy
+121639,130051,Hypoplectrus puella,Barred Hamlet,preyedUponBy
+121639,49264,Haemulon,,preyedUponBy
+121639,180708,Stegastes leucostictus,Beaugregory,preyedUponBy
+121639,179600,Eucinostomus argenteus,Spotfin Mojarra,preyedUponBy
+121639,49496,Epinephelus adscensionis,Rock Hind,preyedUponBy
+121639,55016,Dactylopterus volitans,Flying Gurnard,preyedUponBy
+121639,,Labrisomus guppyi,,preyedUponBy
+121639,49248,Myrichthys breviceps,Sharptail Eel,preyedUponBy
+121639,129665,Malacanthus plumieri,Sand Tilefish,preyedUponBy
+121639,130054,Haemulon carbonarium,Caesar Grunt,preyedUponBy

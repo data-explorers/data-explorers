@@ -1,0 +1,178 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67662,47118,Araneae,Spiders,eats
+67662,47118,Araneae,Spiders,eatenBy
+67662,33730,Sphaerodactylus klauberi,Puerto Rican Upland Sphaero,eatenBy
+67662,22620,Eleutherodactylus eneidae,Mottled Coqui,eatenBy
+67662,9929,Nesospingus speculiferus,Puerto Rican Tanager,eatenBy
+67662,22411,Eleutherodactylus portoricensis,Forest Coqui,eatenBy
+67662,31890,Diploglossus pleii,Puerto Rican Galliwasp,eatenBy
+67662,22423,Eleutherodactylus richmondi,Ground Coqui,eatenBy
+67662,14984,Margarops fuscatus,Pearly-eyed Thrasher,eatenBy
+67662,,Eleutherodactylus coqui,,eatenBy
+67662,36445,Anolis evermanni,Emerald anole,eatenBy
+67662,12718,Turdus plumbeus,Red-legged Thrush,eatenBy
+67662,57409,Phalangiidae,Phalangiid Harvestmen,preysOn
+67662,47208,Coleoptera,Beetles,preysOn
+67662,53248,Elateridae,Click Beetles,preysOn
+67662,67662,Geophilomorpha,Soil Centipedes,preysOn
+67662,47951,Staphylinidae,Rove Beetles,preysOn
+67662,47345,Agelenidae,Funnel Weavers,preysOn
+67662,67599,Linyphiidae,Sheetweb and Dwarf Weavers,preysOn
+67662,52932,Cantharidae,Soldier Beetles,preysOn
+67662,49567,Carabidae,Ground Beetles,preysOn
+67662,48736,Curculionidae,True Weevils,preysOn
+67662,47371,Theridiidae,Cobweb Spiders,preysOn
+67662,48139,Salticidae,Jumping Spiders,preysOn
+67662,141735,Sitona,,preysOn
+67662,176197,Otiorhynchus,,preysOn
+67662,126791,Nitidulidae,Sap-feeding Beetles,preysOn
+67662,51146,Chrysomelidae,Leaf Beetles,preysOn
+67662,48292,Philoscia muscorum,Common Striped Woodlouse,preysOn
+67662,122240,Porcellio,,preysOn
+67662,48284,Oniscus asellus,Common Shiny Woodlouse,preysOn
+67662,47535,Araneidae,Orbweavers,preysOn
+67662,48291,Oniscidae,Sow Bugs,preysOn
+67662,48295,Armadillidium,Pillbugs,preysOn
+67662,132036,Phalacridae,Shining Flower Beetles,preysOn
+67662,47866,Thomisidae,Crab Spiders,preysOn
+67662,57652,Trombidiidae,True Velvet Mites,preysOn
+67662,132021,Philonthus,,preysOn
+67662,53816,Tenebrionidae,Darkling Beetles,preysOn
+67662,148395,Trochosa,,preysOn
+67662,47416,Lycosidae,Wolf Spiders,preysOn
+67662,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,preysOn
+67662,50168,Gnaphosidae,Ground Spiders,preysOn
+67662,84523,Dictynidae,Meshweavers,preysOn
+67662,47868,Philodromidae,Running Crab Spiders,preysOn
+67662,373402,Cossoninae,,preysOn
+67662,,Uropoda,,preysOn
+67662,,Allajulus nitidus,,preysOn
+67662,1004280,Othius subuliformis,,preysOn
+67662,172978,Atheta,vexing rove beetles,preysOn
+67662,,Lithobius,,preysOn
+67662,,Steganacarus herculeanus,,preysOn
+67662,784182,Pocadicnemis juncea,,preysOn
+67662,739596,Lithobius mutabilis,,preysOn
+67662,917058,Phthiracarus ferrugineus,,preysOn
+67662,,Campodea,,preysOn
+67662,738601,Lithobius aeruginosus,,preysOn
+67662,,Plectophoreus fischeri,,preysOn
+67662,883059,Athous zebei,,preysOn
+67662,705967,Harpactea lepida,,preysOn
+67662,121483,Julidae,,preysOn
+67662,784149,Diplocephalus picinus,,preysOn
+67662,205480,Trichoniscus,,preysOn
+67662,,Latridiidae,,preysOn
+67662,452503,Robertus lividus,,preysOn
+67662,784185,Saloca diceros,,preysOn
+67662,203242,Aleocharinae,,preysOn
+67662,,Damaeus setiger,,preysOn
+67662,56081,Glomeris,,preysOn
+67662,,Trichoniscus pusillus,,preysOn
+67662,,Macrocheles dentatus,,preysOn
+67662,,Otioryhnchinae sp.,,preysOn
+67662,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preysOn
+67662,,Macrocheles montanus,,preysOn
+67662,,Liacarus subterraneus,,preysOn
+67662,407287,Lithobius melanops,,preysOn
+67662,490816,Neobisium,,preysOn
+67662,494566,Athous subfuscus,,preysOn
+67662,,Diplostyla concolor,,preysOn
+67662,,Athous,,preysOn
+67662,,Centromerus prudens,,preysOn
+67662,127023,Amaurobius,Lace web spider,preysOn
+67662,765638,Lithobius calcaratus,,preysOn
+67662,153747,Robertus,,preysOn
+67662,336973,Chordeumatidae,,preysOn
+67662,,Euophrys frontalis,,preysOn
+67662,783981,Tapinocyba insecta,,preysOn
+67662,371954,Ligidium hypnorum,Carr Slater,preysOn
+67662,784197,Walckenaeria dysderoides,,preysOn
+67662,130622,Athous haemorrhoidalis,,preysOn
+67662,,Acrotrichis,,preysOn
+67662,360817,Coelotes,,preysOn
+67662,121773,Clubionidae,Sac Spiders,preysOn
+67662,,Phthiracarus globosus,,preysOn
+67662,,Malthodes,,preysOn
+67662,,Porcellium conspersum,,preysOn
+67662,490815,Neobisium carcinoides,Moss Neobisid,preysOn
+67662,,Cybister,,preysOn
+67662,,Nomarchus denticulatus,,preysOn
+67662,,Galumna lanceata,,preysOn
+67662,510481,Othius punctulatus,,preysOn
+67662,377626,Pergamasus,,preysOn
+67662,,Geholaspis mandibularis,,preysOn
+67662,,Velleius,,preysOn
+67662,1043638,Eulohmannia ribagai,,preysOn
+67662,876506,Nargus anisotomoides,,preysOn
+67662,,Ectinus aterrimus,,preysOn
+67662,,Phthiracarus compressus,,preysOn
+67662,,Uropoda splendida,,preysOn
+67662,,Geophilus ribauti,,preysOn
+67662,1029352,Scolopendrella,,preysOn
+67662,203275,Xantholinus,,preysOn
+67662,49567,Carabidae,Ground Beetles,preyedUponBy
+67662,47345,Agelenidae,Funnel Weavers,preyedUponBy
+67662,67662,Geophilomorpha,Soil Centipedes,preyedUponBy
+67662,47951,Staphylinidae,Rove Beetles,preyedUponBy
+67662,47866,Thomisidae,Crab Spiders,preyedUponBy
+67662,132021,Philonthus,,preyedUponBy
+67662,148395,Trochosa,,preyedUponBy
+67662,47416,Lycosidae,Wolf Spiders,preyedUponBy
+67662,130411,Abax,,preyedUponBy
+67662,,Geophilus studeri,,preyedUponBy
+67662,127023,Amaurobius,Lace web spider,preyedUponBy
+67662,521083,Strigamia acuminata,,preyedUponBy
+67662,705967,Harpactea lepida,,preyedUponBy
+67662,452503,Robertus lividus,,preyedUponBy
+67662,498635,Lithobius piceus,,preyedUponBy
+67662,362800,Clubiona comta,,preyedUponBy
+67662,710435,Molops elatus,,preyedUponBy
+67662,701197,Inermocoelotes inermis,,preyedUponBy
+67662,494277,Molops piceus,,preyedUponBy
+67662,,Cybister,,preyedUponBy
+67662,510481,Othius punctulatus,,preyedUponBy
+67662,525704,Trogulus tricarinatus,,preyedUponBy
+67662,491325,Geophilus electricus,,preyedUponBy
+67662,,Pardosa saltans,,preyedUponBy
+67662,,Pedius longicollis,,preyedUponBy
+67662,525960,Trogulus nepaeformis,,preyedUponBy
+67662,130433,Amara aenea,Common Sun Beetle,preyedUponBy
+67662,133160,Geophilus flavus,Boreal Yellow-headed Soil Centipede,preyedUponBy
+67662,,Xantholinus elegans,,preyedUponBy
+67662,701423,Histopona torpida,,preyedUponBy
+67662,495490,Cychrus attenuatus,,preyedUponBy
+67662,360817,Coelotes,,preyedUponBy
+67662,1019272,Xantholinus laevigatus,,preyedUponBy
+67662,,Cochlodryas,,preyedUponBy
+67662,131009,Calathus melanocephalus,,preyedUponBy
+67662,605685,Coelotes terrestris,,preyedUponBy
+67662,416678,Callobius claustrarius,,preyedUponBy
+67662,129017,Araniella cucurbitina,Cucumber Green Spider,preyedUponBy
+67662,130409,Abax parallelepipedus,,preyedUponBy
+67662,639655,Xysticus lanio,,preyedUponBy
+67662,498011,Abax ovalis,,preyedUponBy
+67662,131093,Harpalus,,preyedUponBy
+67662,783673,Apostenus fuscus,,preyedUponBy
+67662,526528,Anelasmocephalus cambridgei,,preyedUponBy
+67662,131102,Harpalus tardus,,preyedUponBy
+67662,,Crychus caraboides,,preyedUponBy
+67662,131881,Notiophilus,,preyedUponBy
+67662,,Pterostichus burmeisteri,,preyedUponBy
+67662,,Pterostichini,,preyedUponBy
+67662,637234,Xysticus erraticus,,preyedUponBy
+67662,227754,Philodromus dispar,Eurasian Running Crab Spider,preyedUponBy
+67662,,Pamagaeus bipustulatus,,preyedUponBy
+67662,360548,Zora spinimana,,preyedUponBy
+67662,357413,Evarcha arcuata,,preyedUponBy
+67662,71061,Xysticus cristatus,,preyedUponBy
+67662,,Lathrobium brunnipes,,preyedUponBy
+67662,,Amaurobius fenestralis,,preyedUponBy
+67662,,Haplodrassus silvstris,,preyedUponBy
+67662,,Geophilus truncorum,,preyedUponBy
+67662,491485,Pterostichus oblongopunctatus,Bronzed Blackclock,preyedUponBy
+67662,131880,Notiophilus biguttatus,,preyedUponBy
+67662,784255,Haplodrassus soerenseni,,preyedUponBy
+67662,,Clubiona pallidula,,preyedUponBy
+67662,,Oodes helipioides,,preyedUponBy
+67662,547856,Synuchus vivalis,,preyedUponBy

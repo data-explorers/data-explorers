@@ -1,0 +1,11 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+85989,473,Fulica americana,American Coot,eatenBy
+85989,558434,Spatula cyanoptera,Cinnamon Teal,eatenBy
+85989,7044,Aythya collaris,Ring-necked Duck,eatenBy
+85989,6930,Anas platyrhynchos,Mallard,eatenBy
+85989,558433,Spatula discors,Blue-winged Teal,eatenBy
+85989,,Fulica americana columbiana,,eatenBy
+85989,47516,Oncorhynchus mykiss,Rainbow Trout,eatenBy
+85989,7054,Aythya affinis,Lesser Scaup,eatenBy
+85989,7047,Aythya marila,Greater Scaup,eatenBy
+85989,162,Porzana carolina,Sora,eatenBy

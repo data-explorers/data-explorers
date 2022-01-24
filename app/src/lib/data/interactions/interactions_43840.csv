@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+43840,47158,Insecta,Insects,eats
+43840,47170,Fungi,Fungi Including Lichens,eats
+43840,42051,Canis latrans,Coyote,eatenBy
+43840,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+43840,20445,Tyto alba,Barn Owl,eatenBy
+43840,4665,Falco sparverius,American Kestrel,eatenBy
+43840,19893,Strix varia,Barred Owl,eatenBy
+43840,,Martes pennanti,,eatenBy
+43840,42066,Vulpes velox,Swift Fox,eatenBy
+43840,41789,Taxidea taxus,American Badger,eatenBy
+43840,19975,Athene cunicularia,Burrowing Owl,eatenBy
+43840,20315,Asio flammeus,Short-eared Owl,eatenBy
+43840,30746,Crotalus horridus,Timber Rattlesnake,preyedUponBy

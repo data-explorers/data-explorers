@@ -1,0 +1,46 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+369932,174388,Chaetocnema,,eats
+369932,120156,Musca domestica,Housefly,eats
+369932,133762,Villa,,eats
+369932,,Homalant populifo,,eats
+369932,,Allograpta nasuta,,eats
+369932,,Technomyrmex albipes,,eats
+369932,,Mauritiborium undulatus,,eats
+369932,,Nacoleia,,eats
+369932,,Hydrotaea,,eats
+369932,84074,Cixiidae,,eats
+369932,,Stomoxys,,eats
+369932,,Fannia,,eats
+369932,,Episyrphus,,eats
+369932,,Dioxyna sororcula,,eats
+369932,1187258,Pachycerina crinicornis,,eats
+369932,,Cotesia,,eats
+369932,326655,Stomorhina lunata,Locust Blowfly,eats
+369932,,Melanostoma,,eats
+369932,,Palexorista,,eats
+369932,,Coscinocera hercules,,eatenBy
+369932,,Lopholaimus antarcticus,,eatenBy
+369932,,Ptilinopus magnificus,,eatenBy
+369932,,Columba leucomela,,eatenBy
+369932,2753,Ptilinopus regina,Rose-crowned Fruit-Dove,eatenBy
+369932,,Macropygia amboinensis phasianella,,eatenBy
+369932,,Ptilinopus superbus,,eatenBy
+369932,,Ducula bicolor,,eatenBy
+369932,120156,Musca domestica,Housefly,pollinatedBy
+369932,174388,Chaetocnema,,pollinatedBy
+369932,133762,Villa,,pollinatedBy
+369932,,Melanostoma annulipes,,pollinatedBy
+369932,,Allograpta nasuta,,pollinatedBy
+369932,,Dioxyna sororcula ,,pollinatedBy
+369932,,Pachycerina crinicornis ,,pollinatedBy
+369932,,Fannia pusio ,,pollinatedBy
+369932,326655,Stomorhina lunata,Locust Blowfly,pollinatedBy
+369932,,Mauritiborium undulatus ,,pollinatedBy
+369932,,Stomoxys,,pollinatedBy
+369932,,Nacoleia,,pollinatedBy
+369932,,Hydrotaea,,pollinatedBy
+369932,,Cotesia,,pollinatedBy
+369932,,Episyrphus,,pollinatedBy
+369932,,Palexorista,,pollinatedBy
+369932,,Technomyrmex albipes ,,pollinatedBy
+369932,84074,Cixiidae,,pollinatedBy

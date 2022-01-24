@@ -1,0 +1,128 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+59115,85493,Crustacea,Crustaceans,eats
+59115,47491,Annelida,Segmented Worms,eats
+59115,47178,Actinopterygii,Ray-finned Fishes,eats
+59115,47158,Insecta,Insects,eats
+59115,47628,Amphipoda,Amphipods,eats
+59115,1,Animalia,Animals,eats
+59115,53275,Chironomidae,Non-biting Midges,eats
+59115,121643,Copepoda,Copepods,eats
+59115,47126,Plantae,plants,eats
+59115,84735,Corixidae,Water Boatmen,eats
+59115,85514,Cyclopoida,Cyclopoid Copepods,eats
+59115,68764,Ostracoda,Seed Shrimp,eats
+59115,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+59115,47822,Diptera,Flies,eats
+59115,154259,Nematocera,Nematoceran Flies,eats
+59115,47336,Formicidae,Ants,eats
+59115,59115,Gambusia affinis,Western Mosquitofish,eats
+59115,333586,Oligochaeta,Earthworms and allies,eats
+59115,47157,Lepidoptera,Butterflies and Moths,eats
+59115,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+59115,47118,Araneae,Spiders,eats
+59115,52071,Psychodidae,Moth Flies and Sand Flies,eats
+59115,49470,Collembola,Springtails,eats
+59115,47115,Mollusca,Molluscs,eats
+59115,176984,Microvelia,,eats
+59115,59117,Gambusia,Mosquitofishes,eats
+59115,126917,Rotifera,Rotifers,eats
+59115,,Algae,,eats
+59115,,Hydrachnidia,,eats
+59115,,Detritus,,eats
+59115,87850,Daphnia,Water-fleas,eats
+59115,85507,Calanoida,Calanoid Copepods,eats
+59115,,Cladocera,,eats
+59115,,Ranatra,,eats
+59115,,Daphnia pulex,,eats
+59115,,Daphnia magna,,eats
+59115,,,,eats
+59115,,Paraneoptera,,eats
+59115,,Poeciliopsis occidentalis,,eats
+59115,,Gnathostomata,,eats
+59115,,Tenagomysis chiltoni,,eats
+59115,,debris,,eats
+59115,144129,Cephalocarida,Horseshoe Shrimps,eats
+59115,,Tenagomysis,,eats
+59115,,Omaloplia,,eats
+59115,,aquatic fauna,,eats
+59115,,fauna,,eats
+59115,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eatenBy
+59115,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+59115,4496,Rynchops niger,Black Skimmer,eatenBy
+59115,49587,Micropterus salmoides,Largemouth Bass,eatenBy
+59115,59115,Gambusia affinis,Western Mosquitofish,eatenBy
+59115,5020,Butorides virescens,Green Heron,eatenBy
+59115,4940,Egretta thula,Snowy Egret,eatenBy
+59115,201529,Doryteuthis pleii,Slender Inshore Squid,eatenBy
+59115,,Mogurnda adspersa,,eatenBy
+59115,,Cichla ocellaris,,eatenBy
+59115,51392,Morone saxatilis,Striped Bass,eatenBy
+59115,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+59115,101057,Fundulus grandis,Gulf Killifish,eatenBy
+59115,125920,Anguilla australis,Short-finned Eel,eatenBy
+59115,5063,Anhinga anhinga,Anhinga,eatenBy
+59115,4937,Egretta caerulea,Little Blue Heron,eatenBy
+59115,4938,Egretta tricolor,Tricolored Heron,eatenBy
+59115,4742,Mycteria americana,Wood Stork,eatenBy
+59115,5017,Bubulcus ibis,Cattle Egret,eatenBy
+59115,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+59115,53275,Chironomidae,Non-biting Midges,preysOn
+59115,52071,Psychodidae,Moth Flies and Sand Flies,preysOn
+59115,62164,Trichoptera,Caddisflies,preysOn
+59115,59115,Gambusia affinis,Western Mosquitofish,preysOn
+59115,,Marenzelleria viridis,,preysOn
+59115,377539,Paramphinome,,preysOn
+59115,48336,Loimia medusa,Medusa Spaghetti Worm,preysOn
+59115,,Eteone heteropoda,,preysOn
+59115,1023058,Paranaitis speciosa,,preysOn
+59115,1023041,Nephtys incisa,,preysOn
+59115,,Plecoptera,,preysOn
+59115,1023033,Praxillella praetermissa,,preysOn
+59115,,Clymenella torquata,,preysOn
+59115,339277,Sigambra tentaculata,,preysOn
+59115,626372,Daphnia retrocurva,,preysOn
+59115,389387,Eumida sanguinea,,preysOn
+59115,339222,Polydora cornuta,,preysOn
+59115,,Spiochaetopterus oculatus,,preysOn
+59115,688876,Scolelepis squamata,,preysOn
+59115,,Hypereteone lactea,,preysOn
+59115,1023034,Sabaco elongatus,,preysOn
+59115,417657,Paraprionospio pinnata,,preysOn
+59115,,Daphnia lumholtzi,,preysOn
+59115,1023003,Pherusa affinis,,preysOn
+59115,,Glycera dibranchiata,,preysOn
+59115,203781,Streblospio benedicti,,preysOn
+59115,216631,Chaetopterus variopedatus,Fairy Tubeworm,preysOn
+59115,379515,Autolytus,,preysOn
+59115,,Laeonereis culveri,,preysOn
+59115,,Pseudoeurythoe paucibranchiata,,preysOn
+59115,194004,Pectinaria gouldii,Ice cream cone worm,preysOn
+59115,338433,Heteromastus filiformis,,preysOn
+59115,211518,Notomastus,,preysOn
+59115,,Sciomyzidae,,preysOn
+59115,203765,Spio setosa,,preysOn
+59115,,Glycinde solitaria,,preysOn
+59115,,Polydora aggregata,,preysOn
+59115,,Chaoboridae,,preysOn
+59115,809396,Nereiphylla fragilis,,preysOn
+59115,1023052,Scoloplos robustus,,preysOn
+59115,199325,Alitta succinea,Clam Worm,preysOn
+59115,690805,Spiophanes bombyx,,preysOn
+59115,1023080,Sabellaria vulgaris,,preysOn
+59115,,Haploscoloplos fragilis,,preysOn
+59115,,Daphnia pulex,,preysOn
+59115,,Lumbrineris fragilis,,preysOn
+59115,,Poeciliopsis occidentalis,,preysOn
+59115,49587,Micropterus salmoides,Largemouth Bass,preyedUponBy
+59115,59115,Gambusia affinis,Western Mosquitofish,preyedUponBy
+59115,5020,Butorides virescens,Green Heron,preyedUponBy
+59115,29310,Nerodia rhombifer,Diamondback Watersnake,preyedUponBy
+59115,29317,Nerodia fasciata,Banded Watersnake,preyedUponBy
+59115,29327,Nerodia cyclopion,Mississippi Green Watersnake,preyedUponBy
+59115,28351,Thamnophis rufipunctatus,Narrowhead Garter Snake,preyedUponBy
+59115,29305,Nerodia sipedon,Common Watersnake,preyedUponBy
+59115,,Thamnophis sirtalis concinnus,,preyedUponBy
+59115,51392,Morone saxatilis,Striped Bass,preyedUponBy
+59115,,Cichla ocellaris,,preyedUponBy
+59115,,no name,,preyedUponBy
+59115,125920,Anguilla australis,Short-finned Eel,preyedUponBy

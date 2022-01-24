@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55655,53196,Rumex,docks,eats
+55655,53195,Rumex acetosella,Sheep's sorrel,eats
+55655,55821,Rumex acetosa,Common Sorrel,eats
+55655,48972,Polygonum,knotweeds,eats
+55655,52821,Achillea millefolium,Common Yarrow,eats
+55655,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+55655,47603,Taraxacum,dandelions,eats
+55655,55911,Rubus fruticosus,European bramble complex,eats
+55655,47602,Taraxacum officinale,common dandelion,eats
+55655,48678,Solidago,goldenrods,eats
+55655,55745,Trifolium repens,white clover,eats
+55655,,Rumex japonicus,,eats
+55655,,http://treatment.plazi.org/id/DD4DFF83E2B308F0D0C470B82B3666F2,,eats
+55655,,http://treatment.plazi.org/id/493048B8221B01BA59FAC4712F024035,,eats
+55655,,http://treatment.plazi.org/id/CF78B54AAF2E95939F9747211D54EEAA,,eats
+55655,168241,Rumex longifolius,Northern Dock,eats
+55655,,Rumex nepalensis,,eats
+55655,,Oxyria digyna,,eats
+55655,,Oxyria,,eats
+55655,,Thymus pulegioides,,eats
+55655,,Prospero autumnale,,eats
+55655,130989,Euthamia graminifolia,flat-topped goldenrod,pollinates
+55655,216649,Chauliognathus pensylvanicus,Goldenrod Soldier Beetle,pollinatedBy
+55655,131862,Typocerus velutinus,Banded Longhorn Beetle,pollinatedBy

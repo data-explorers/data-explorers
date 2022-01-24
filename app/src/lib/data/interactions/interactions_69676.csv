@@ -1,0 +1,164 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+69676,47457,Octopodidae,Typical Octopuses,eats
+69676,1,Animalia,Animals,eats
+69676,51508,Ctenophora,Comb Jellies,eats
+69676,47459,Cephalopoda,Cephalopods,eats
+69676,253735,Thysanoteuthis rhombus,Diamondback Squid,eats
+69676,153981,Doryteuthis opalescens,Opalescent Inshore Squid,eats
+69676,85493,Crustacea,Crustaceans,eats
+69676,47178,Actinopterygii,Ray-finned Fishes,eats
+69676,47115,Mollusca,Molluscs,eats
+69676,246398,Argonauta,Argonauts,eats
+69676,85107,Spirula spirula,Ram's Horn Squid,eats
+69676,55808,Squilla,,eats
+69676,56943,Katsuwonus pelamis,Skipjack Tuna,eats
+69676,69675,Thunnus albacares,Yellowfin Tuna,eats
+69676,90074,Myctophum,,eats
+69676,121639,Brachyura,True Crabs,eats
+69676,342912,Caridea,Caridean Shrimps,eats
+69676,49612,Balistidae,Triggerfishes,eats
+69676,47186,Decapoda,Decapods,eats
+69676,49506,Portunidae,Swimming Crabs,eats
+69676,49796,Stomatopoda,Mantis Shrimps,eats
+69676,55805,Squilla empusa,West Atlantic Mantis Shrimp,eats
+69676,253674,Argonauta argo,Greater Argonaut,eats
+69676,54662,Mugil,Common Mullets,eats
+69676,54541,Hippocampus,Seahorses,eats
+69676,51552,Seriola,Amberjacks,eats
+69676,49411,Synodus,,eats
+69676,130178,Sargassum,Sargassum,eats
+69676,432457,Illex argentinus,Argentine Shortfin Squid,eats
+69676,,Gnathostomata,,eats
+69676,,Teuthida,,eats
+69676,83314,Hyaloteuthis pelagica,glassy flying squid,eats
+69676,253729,Onykia carriboea,Tropical Clubhook Squid,eats
+69676,67626,Nemichthys,,eats
+69676,51461,Solenocera,,eats
+69676,700336,Uroteuthis singhalensis,Long Barrel Squid,eats
+69676,459626,Oplophorus spinosus,,eats
+69676,91385,Psenes,,eats
+69676,194883,Gempylus serpens,Snake Mackerel,eats
+69676,92239,Sternoptyx,,eats
+69676,177104,Auxis thazard,Frigate Tuna,eats
+69676,609303,Centroberyx spinosus,short alfonsino,eats
+69676,121661,Lactoria cornuta,Longhorn Cowfish,eats
+69676,459681,Funchalia villosa,,eats
+69676,194884,Nealotus tripes,Black Snake Mackerel,eats
+69676,621622,Atrophacanthus japonicus,,eats
+69676,91505,Pseudoscopelus,,eats
+69676,432494,Onychoteuthis borealijaponica,Boreal Clubhook Squid,eats
+69676,459300,Paralepis elongata,,eats
+69676,459428,Omosudis lowii,Hammerjaw,eats
+69676,246435,Octopoteuthis,,eats
+69676,91971,Scyllarus,,eats
+69676,194544,Taractichthys steindachneri,Monchong,eats
+69676,317190,Lestidium atlanticum,Atlantic Barracudina,eats
+69676,127705,Portunus,,eats
+69676,246425,Abralia,,eats
+69676,1113129,Charybdis,,eats
+69676,83879,Naso brevirostris,Paletail Unicornfish,eats
+69676,,Moroteuthis,,eats
+69676,199604,Lysiosquilla,,eats
+69676,87744,Cubiceps,,eats
+69676,92800,Vinciguerria,,eats
+69676,459257,Neoepinnula orientalis,Sackfish,eats
+69676,57302,Oxyporhamphus,,eats
+69676,328459,Sthenoteuthis oualaniensis,Purpleback Squid,eats
+69676,666635,Funchalia woodwardi,,eats
+69676,459461,Acanthephyra,,eats
+69676,246439,Onykia,Giant Hooked Squids,eats
+69676,84184,Brama,,eats
+69676,317346,Scombrolabrax heterolepis,Longfin Escolar,eats
+69676,253701,Cranchia scabra,Rough Cranch Squid,eats
+69676,246410,Ancistrocheirus,,eats
+69676,253671,Ommastrephes bartramii,Neon Flying Squid,eats
+69676,93644,Alepisaurus ferox,Longnose Lancetfish,eats
+69676,89476,Lestidiops,,eats
+69676,,Uroteuthis duvauceli,,eats
+69676,120679,Ichthyococcus ovatus,Ovate Lightfish,eats
+69676,317393,Sternoptyx diaphana,Oblique Hatchetfish,eats
+69676,317083,Diretmus argenteus,Discfish,eats
+69676,,,,eats
+69676,,surface and deepsea fishes,,eats
+69676,,Pisces,,eats
+69676,,Osteichthyes,,eats
+69676,,Chilomycterus spinosus spinosus,,eats
+69676,56948,Sarda,Bonitos,eats
+69676,88327,Euthynnus,,eats
+69676,69842,Scomber,,eats
+69676,84179,Brama brama,Ray's Bream,eats
+69676,55535,Sardinops sagax,Pacific Sardine,eats
+69676,617783,Electrona antarctica,,eats
+69676,86795,Auxis,,eats
+69676,,Decabrachia,,eats
+69676,123962,Dosidicus gigas,Humboldt Squid,eats
+69676,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+69676,459329,Argyropelecus olfersii,Silver hatchetfish,eats
+69676,86951,Benthodesmus,,eats
+69676,51042,Penaeidae,Penaeid Shrimps,eats
+69676,502271,Engraulis australis,Australian Anchovy,eats
+69676,90012,Monacanthus,,eats
+69676,86319,Alepisaurus,,eats
+69676,47257,Acanthocybium solandri,Wahoo,eatenBy
+69676,3793,Sula sula,Red-footed Booby,eatenBy
+69676,4535,Anous stolidus,Brown Noddy,eatenBy
+69676,144525,Onychoprion fuscatus,Sooty Tern,eatenBy
+69676,41521,Orcinus orca,Orca,eatenBy
+69676,96754,Carcharhinus falciformis,Silky Shark,eatenBy
+69676,147455,Makaira nigricans,Blue Marlin,eatenBy
+69676,115167,Xiphias gladius,Swordfish,eatenBy
+69676,47537,Makaira mazara,Indo-Pacific Blue Marlin,eatenBy
+69676,187569,Istiompax indica,Black Marlin,eatenBy
+69676,98531,Coryphaena hippurus,Common Dolphinfish,eatenBy
+69676,187571,Kajikia albida,Atlantic White Marlin,eatenBy
+69676,96766,Carcharhinus signatus,Night Shark,eatenBy
+69676,4537,Anous minutus,Black Noddy,eatenBy
+69676,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+69676,253735,Thysanoteuthis rhombus,Diamondback Squid,preysOn
+69676,85107,Spirula spirula,Ram's Horn Squid,preysOn
+69676,114122,Thunnus alalunga,Albacore,preysOn
+69676,56943,Katsuwonus pelamis,Skipjack Tuna,preysOn
+69676,69676,Thunnus,Bluefin Tunas,preysOn
+69676,432537,Stigmatoteuthis arcturi,Arcturus Cock-eyed Squid,preysOn
+69676,253720,Lepidoteuthis grimaldii,Grimald's Scaled Squid,preysOn
+69676,390558,Histioteuthis macrohista,Plain Cock-eyed Squid,preysOn
+69676,123962,Dosidicus gigas,Humboldt Squid,preysOn
+69676,432457,Illex argentinus,Argentine Shortfin Squid,preysOn
+69676,83314,Hyaloteuthis pelagica,glassy flying squid,preysOn
+69676,253729,Onykia carriboea,Tropical Clubhook Squid,preysOn
+69676,459681,Funchalia villosa,,preysOn
+69676,253671,Ommastrephes bartramii,Neon Flying Squid,preysOn
+69676,666635,Funchalia woodwardi,,preysOn
+69676,253701,Cranchia scabra,Rough Cranch Squid,preysOn
+69676,,Uroteuthis duvauceli,,preysOn
+69676,432494,Onychoteuthis borealijaponica,Boreal Clubhook Squid,preysOn
+69676,328459,Sthenoteuthis oualaniensis,Purpleback Squid,preysOn
+69676,700336,Uroteuthis singhalensis,Long Barrel Squid,preysOn
+69676,459626,Oplophorus spinosus,,preysOn
+69676,115167,Xiphias gladius,Swordfish,preysOn
+69676,194544,Taractichthys steindachneri,Monchong,preysOn
+69676,459257,Neoepinnula orientalis,Sackfish,preysOn
+69676,459300,Paralepis elongata,,preysOn
+69676,194883,Gempylus serpens,Snake Mackerel,preysOn
+69676,194884,Nealotus tripes,Black Snake Mackerel,preysOn
+69676,609303,Centroberyx spinosus,short alfonsino,preysOn
+69676,317346,Scombrolabrax heterolepis,Longfin Escolar,preysOn
+69676,83879,Naso brevirostris,Paletail Unicornfish,preysOn
+69676,317190,Lestidium atlanticum,Atlantic Barracudina,preysOn
+69676,121661,Lactoria cornuta,Longhorn Cowfish,preysOn
+69676,120679,Ichthyococcus ovatus,Ovate Lightfish,preysOn
+69676,621622,Atrophacanthus japonicus,,preysOn
+69676,93644,Alepisaurus ferox,Longnose Lancetfish,preysOn
+69676,317393,Sternoptyx diaphana,Oblique Hatchetfish,preysOn
+69676,459428,Omosudis lowii,Hammerjaw,preysOn
+69676,317083,Diretmus argenteus,Discfish,preysOn
+69676,177104,Auxis thazard,Frigate Tuna,preysOn
+69676,118677,Auxis rochei,Bullet Tuna,preysOn
+69676,114404,Trigonognathus kabeyai,Viper Dogfish,preysOn
+69676,,Chilomycterus spinosus spinosus,,preysOn
+69676,459329,Argyropelecus olfersii,Silver hatchetfish,preysOn
+69676,69676,Thunnus,Bluefin Tunas,preyedUponBy
+69676,147455,Makaira nigricans,Blue Marlin,preyedUponBy
+69676,,no name,,preyedUponBy
+69676,98531,Coryphaena hippurus,Common Dolphinfish,preyedUponBy
+69676,103503,Isistius brasiliensis,Smalltooth Cookiecutter Shark,preyedUponBy

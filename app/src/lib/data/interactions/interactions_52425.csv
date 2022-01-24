@@ -1,0 +1,88 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52425,54841,Salix alba,white willow,eats
+52425,47566,Populus,"poplars, cottonwoods, and aspens",eats
+52425,54491,Corylus avellana,common hazel,eats
+52425,911075,Passiflora semiciliosa,,eats
+52425,51447,Passiflora alata,Winged-Stem Passion Flower,eats
+52425,546819,Passiflora adulterina,,eats
+52425,465063,Passiflora bogotensis,,eats
+52425,133169,Passiflora tripartita,banana passionfruit,eats
+52425,557452,Passiflora loefgrenii,,eats
+52425,743370,Passiflora arborea,,eats
+52425,166208,Passiflora ligularis,Granadilla,eats
+52425,,Passiflora cuspidifolia,,eats
+52425,155124,Cornus sanguinea,common dogwood,eats
+52425,55811,Prunus spinosa,Blackthorn,eats
+52425,765394,Sambucus nigra,European black elderberry,eats
+52425,55847,Euonymus europaeus,Spindle,eats
+52425,79461,Ulmus minor,Field Elm,eats
+52425,51147,Crataegus monogyna,common hawthorn,eats
+52425,12942,Sialia sialis,Eastern Bluebird,eatenBy
+52425,7493,Polioptila caerulea,Blue-gray Gnatcatcher,eatenBy
+52425,119019,Vespa velutina,Yellow-legged Hornet,eatenBy
+52425,,Kukulcania hibernalis,,eatenBy
+52425,778499,Leucauge venusta,Orchard Orbweaver,eatenBy
+52425,,Tetragnatha extensa,,eatenBy
+52425,121782,Araneus quadratus,Four-spot Orbweaver,eatenBy
+52425,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+52425,,Setophaga pinus,,eatenBy
+52425,9601,Quiscalus major,Boat-tailed Grackle,eatenBy
+52425,52380,Aphidoidea,,preysOn
+52425,13858,Passer domesticus,House Sparrow,preyedUponBy
+52425,81579,Steatoda triangulosa,Triangulate Combfoot,preyedUponBy
+52425,48484,Harmonia axyridis,Asian Lady Beetle,preyedUponBy
+52425,47550,Tetragnatha,,preyedUponBy
+52425,148395,Trochosa,,preyedUponBy
+52425,82081,Theridion,Tangleweb Spiders,preyedUponBy
+52425,47118,Araneae,Spiders,preyedUponBy
+52425,61903,Xysticus,Ground Crab Spiders,preyedUponBy
+52425,47415,Pardosa,Thin-legged Wolf Spiders,preyedUponBy
+52425,48124,Tettigoniidae,Katydids,preyedUponBy
+52425,47866,Thomisidae,Crab Spiders,preyedUponBy
+52425,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preyedUponBy
+52425,47416,Lycosidae,Wolf Spiders,preyedUponBy
+52425,55470,Arctosa,Bear Spiders,preyedUponBy
+52425,47371,Theridiidae,Cobweb Spiders,preyedUponBy
+52425,47951,Staphylinidae,Rove Beetles,preyedUponBy
+52425,56611,Philodromus,,preyedUponBy
+52425,126155,Vespula germanica,German Yellowjacket,preyedUponBy
+52425,,Larinia lineata,,preyedUponBy
+52425,360548,Zora spinimana,,preyedUponBy
+52425,,Paederus riparius,,preyedUponBy
+52425,,Lathrobium fovalum,,preyedUponBy
+52425,9201,Emberiza schoeniclus,Reed Bunting,preyedUponBy
+52425,,Hercostomus assimilis,,preyedUponBy
+52425,547270,Pardosa prativaga,,preyedUponBy
+52425,,Gabrius fermoralis,,preyedUponBy
+52425,153636,Zelotes,,preyedUponBy
+52425,335582,Conocephalus dorsalis,Short-winged Conehead,preyedUponBy
+52425,,Dolichopus nubilius,,preyedUponBy
+52425,,Pachygnatha,,preyedUponBy
+52425,1151405,Lesteva sicula,,preyedUponBy
+52425,,Pirata latitans,,preyedUponBy
+52425,,Pirata tenuitarsis,,preyedUponBy
+52425,1086379,Tetartopeus terminatum,,preyedUponBy
+52425,131962,Stenus,,preyedUponBy
+52425,131943,Rugilus rufipes,,preyedUponBy
+52425,47869,Tibellus,Slender Crab Spiders,preyedUponBy
+52425,,Phylloneta impressa,,preyedUponBy
+52425,,Nestus,,preyedUponBy
+52425,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy
+52425,128746,Pirata piraticus,Pirate Otter Spider,preyedUponBy
+52425,,Hypostenus latifrons,,preyedUponBy
+52425,,Tetragnatha pinicola,,preyedUponBy
+52425,,Theridion pictum,,preyedUponBy
+52425,964118,Stenus latifrons,,preyedUponBy
+52425,,"Dolichopus nubilius Meigen, 1924",,preyedUponBy
+52425,1017714,Stenus carbonarius,,preyedUponBy
+52425,,Gabrius fermoralis (Hochh.),,preyedUponBy
+52425,,Lathrobium fovalum (Steph.),,preyedUponBy
+52425,40676,Rhinolophus affinis,Intermediate Horseshoe Bat,preyedUponBy
+52425,40691,Rhinolophus mehelyi,Mehely's horseshoe bat,preyedUponBy
+52425,40576,Nyctalus lasiopterus,Giant Noctule,preyedUponBy
+52425,40281,Myotis emarginatus,Geoffroy's Bat,preyedUponBy
+52425,40284,Myotis capaccinii,Long-fingered Bat,preyedUponBy
+52425,74908,Pipistrellus pygmaeus,Pygmy Pipistrelle,preyedUponBy
+52425,40569,Nycticeius humeralis,Evening Bat,preyedUponBy
+52425,40629,Lasionycteris noctivagans,Silver-haired Bat,preyedUponBy
+52425,40509,Eptesicus fuscus,Big Brown Bat,preyedUponBy

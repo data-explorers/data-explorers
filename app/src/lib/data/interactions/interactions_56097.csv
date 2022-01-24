@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+56097,118597,Belone belone,Garfish,eatenBy
+56097,145239,Setophaga pensylvanica,Chestnut-sided Warbler,eatenBy
+56097,62550,Seiurus aurocapilla,Ovenbird,eatenBy
+56097,979753,Leiothlypis ruficapilla,Nashville Warbler,eatenBy
+56097,114127,Thymallus thymallus,Grayling,eatenBy
+56097,47518,Salmo trutta,Brown Trout,eatenBy
+56097,360081,Ebrechtella tricuspidata,Triangle Crab Spider,eatenBy
+56097,6667,Cypseloides niger,Black Swift,eatenBy
+56097,6557,Chaetura vauxi,Vaux's Swift,eatenBy
+56097,,Corvus caurinus,,eatenBy
+56097,17394,Vireo gilvus,Warbling Vireo,eatenBy
+56097,17408,Vireo griseus,White-eyed Vireo,eatenBy
+56097,7024,Somateria mollissima,Common Eider,eatenBy
+56097,,Oporornis philadelphia,,eatenBy
+56097,145237,Setophaga fusca,Blackburnian Warbler,eatenBy
+56097,145235,Setophaga magnolia,Magnolia Warbler,eatenBy
+56097,145236,Setophaga castanea,Bay-breasted Warbler,eatenBy
+56097,53207,Senecio,groundsels,pollinates
+56097,50851,Cerastium arvense,field chickweed,pollinates
+56097,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+56097,40695,Rhinolophus hipposideros,Lesser Horseshoe Bat,preyedUponBy
+56097,55787,Pisaura mirabilis,European Nursery Web spider,preyedUponBy

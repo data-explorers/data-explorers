@@ -1,0 +1,125 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+51508,123880,Bacillariophyceae,Diatoms,eats
+51508,67333,Bacteria,bacteria,eats
+51508,775805,Pteropoda,Sea Butterflies,eats
+51508,122326,Salpida,Salps,eats
+51508,122156,Flabelligeridae,,eats
+51508,203397,Acartia tonsa,,eats
+51508,195081,Acartia,,eats
+51508,,Phytoplankton,,eats
+51508,60603,Cyclopterus lumpus,Lumpfish,eatenBy
+51508,49504,Callinectes sapidus,Atlantic Blue Crab,eatenBy
+51508,47490,Polychaeta,Polychaete Worms,eatenBy
+51508,81791,Nereis,,eatenBy
+51508,81634,Mya arenaria,Soft-shelled Clam,eatenBy
+51508,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eatenBy
+51508,325995,Aequorea victoria,Victoria's Crystal Jelly,eatenBy
+51508,39677,Dermochelys coriacea,Leatherback Sea Turtle,eatenBy
+51508,339903,Beroe ovata,Brown Comb Jelly,eatenBy
+51508,69675,Thunnus albacares,Yellowfin Tuna,eatenBy
+51508,69676,Thunnus,Bluefin Tunas,eatenBy
+51508,49601,Mola mola,Common Mola,eatenBy
+51508,510785,Apolemiidae,,eatenBy
+51508,51511,Beroidae,,eatenBy
+51508,152823,Siphonophorae,Siphonophores,eatenBy
+51508,152822,Narcomedusae,,eatenBy
+51508,132473,Lagodon rhomboides,Pinfish,eatenBy
+51508,52306,Squalus acanthias,White-spotted Dogfish,eatenBy
+51508,118601,Trisopterus luscus,Pouting,eatenBy
+51508,430553,Merlangius merlangus,Whiting,eatenBy
+51508,320793,Trisopterus esmarkii,Norway Pout,eatenBy
+51508,213518,Anarhichas denticulatus,Northern Wolffish,eatenBy
+51508,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+51508,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+51508,109631,Platichthys flesus,European Flounder,eatenBy
+51508,47523,Pleuronectes platessa,European Plaice,eatenBy
+51508,61387,Limanda limanda,Sand Dab,eatenBy
+51508,63740,Gadus morhua,Atlantic Cod,eatenBy
+51508,,invertebrate predators,,eatenBy
+51508,179507,Peprilus triacanthus,Butterfish,eatenBy
+51508,49243,Alosa sapidissima,American shad,eatenBy
+51508,84432,Morone americana,White Perch,eatenBy
+51508,,meiofauna,,eatenBy
+51508,47585,Crassostrea virginica,Eastern Oyster,eatenBy
+51508,94070,Anchoa mitchilli,Bay Anchovy,eatenBy
+51508,51362,Alosa pseudoharengus,Alewife,eatenBy
+51508,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+51508,51363,Brevoortia tyrannus,Atlantic Menhaden,eatenBy
+51508,50984,Pomatomus saltatrix,Bluefish,eatenBy
+51508,56047,Trinectes maculatus,Hogchoker,eatenBy
+51508,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+51508,,Other suspension feeders,,eatenBy
+51508,97990,Clupea harengus,Atlantic Herring,eatenBy
+51508,63742,Gadidae,Cods and Haddocks,eatenBy
+51508,69842,Scomber,,eatenBy
+51508,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+51508,83846,Urophycis chuss,squirrel hake,eatenBy
+51508,53744,Paralichthys dentatus,Summer Flounder,eatenBy
+51508,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+51508,233276,Urophycis regia,Spotted Hake,eatenBy
+51508,424322,Odontoceti,Toothed Whales,eatenBy
+51508,104533,Leucoraja erinacea,Little Skate,eatenBy
+51508,224886,Merluccius bilinearis,Silver Hake,eatenBy
+51508,104540,Leucoraja ocellata,Winter Skate,eatenBy
+51508,233277,Urophycis tenuis,White Hake,eatenBy
+51508,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+51508,48402,Amblyraja radiata,Thorny Skate,eatenBy
+51508,4543,Aethia psittacula,Parakeet Auklet,eatenBy
+51508,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+51508,260237,Aristaeopsis edwardsiana,Scarlet Gamba Prawn,eatenBy
+51508,292208,Argonauta hians,Brown Argonaut,eatenBy
+51508,618298,Gobionotothen gibberifrons,Humped Rockcod,eatenBy
+51508,541733,Notothenia rossii,Marbled Rockcod,eatenBy
+51508,618319,Patagonotothen guntheri,Yellowfin Notothen,eatenBy
+51508,610056,Chaenocephalus aceratus,Blackfin Icefish,eatenBy
+51508,194676,Dissostichus eleginoides,Patagonian Toothfish,eatenBy
+51508,608619,Artedidraco mirus,,eatenBy
+51508,609221,Parachaenichthys georgianus,,eatenBy
+51508,,Lepidonotothen nudifrons,,eatenBy
+51508,610058,Champsocephalus gunnari,Mackerel icefish,eatenBy
+51508,609223,Psilodraco breviceps,,eatenBy
+51508,51471,Pseudochaenichthys georgianus,South Georgia icefish,eatenBy
+51508,541673,Lepidonotothen squamifrons,Grey Rockcod,eatenBy
+51508,,Lepidonotothen larseni,,eatenBy
+51508,,Trematomus hansoni,,eatenBy
+51508,,Muraenolepis microps,,eatenBy
+51508,41763,Phocarctos hookeri,New Zealand Sea Lion,eatenBy
+51508,4200,Halobaena caerulea,Blue Petrel,eatenBy
+51508,118678,Scomber scombrus,Atlantic Mackerel,eatenBy
+51508,179496,Peprilus burti,Gulf Butterfish,eatenBy
+51508,,Alepocephalus agassizii,,eatenBy
+51508,212924,Albatrossia pectoralis,Giant Grenadier,eatenBy
+51508,621352,Pampus chinensis,Chinese Silver Pomfret,eatenBy
+51508,363519,Alepocephalus rostratus,Risso's smooth-head,eatenBy
+51508,214055,Aptocyclus ventricosus,Smooth Lumpsucker,eatenBy
+51508,317419,Tetragonurus atlanticus,Bigeye Squaretail,eatenBy
+51508,233953,Zaprora silenus,Prowfish,eatenBy
+51508,120654,Luvarus imperialis,Louvar,eatenBy
+51508,228496,Pollachius virens,Pollock,eatenBy
+51508,64477,Sebastes flavidus,Yellowtail Rockfish,eatenBy
+51508,230758,Sebastes norvegicus,Golden Redfish,eatenBy
+51508,52731,Pampus argenteus,Silver pomfret,eatenBy
+51508,459177,Bathylagus euryops,Goiter Blacksmelt,eatenBy
+51508,318007,Argentina silus,Atlantic Argentine,eatenBy
+51508,217631,Coryphaenoides rupestris,Roundnose Grenadier,eatenBy
+51508,,Theragra chalcogramma,,eatenBy
+51508,64450,Sebastes alutus,Pacific Ocean Perch,eatenBy
+51508,227029,Paraliparis calidus,Lowfin Snailfish,eatenBy
+51508,54191,Oncorhynchus tshawytscha,Chinook Salmon,eatenBy
+51508,107572,Oncorhynchus keta,Chum Salmon,eatenBy
+51508,121643,Copepoda,Copepods,preysOn
+51508,85521,Harpacticoida,Harpacticoid Copepods,preysOn
+51508,195081,Acartia,,preysOn
+51508,203397,Acartia tonsa,,preysOn
+51508,191560,Beroe cucumis,Northern Comb Jelly,preyedUponBy
+51508,179496,Peprilus burti,Gulf Butterfish,preyedUponBy
+51508,394773,Pentanymphon antarcticum,,preyedUponBy
+51508,813362,Nymphon hiemale,,preyedUponBy
+51508,541733,Notothenia rossii,Marbled Rockcod,preyedUponBy
+51508,,Isotealia antarctica,,preyedUponBy
+51508,376023,Colossendeis,,preyedUponBy
+51508,812772,Ammothea carolinensis,,preyedUponBy
+51508,,Dipulmaris antarctica,,preyedUponBy
+51508,,Baseodiscus antarcticus,,preyedUponBy
+51508,,Heteronemertes longifissus,,preyedUponBy
+51508,709616,Parborlasia corrugatus,,preyedUponBy

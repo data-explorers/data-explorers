@@ -1,0 +1,50 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4424,58648,Fundulus,Typical Killifishes,eats
+4424,85611,Atherinidae,Old World Silversides,eats
+4424,48921,Hydrozoa,Hydrozoans,eats
+4424,195136,Euphausia,,eats
+4424,49581,Nereididae,,eats
+4424,63089,Clitellata,Clitellates,eats
+4424,195134,Euphausiidae,Euphotic Krill,eats
+4424,87522,Clevelandia,,eats
+4424,47646,Myoxocephalus,Shorthorn Sculpins,eats
+4424,47542,Istiophoridae,Billfishes,eats
+4424,132526,Stephanolepis hispidus,Planehead filefish,eats
+4424,,Parexocoetus mento,,eats
+4424,49421,Diplectrum formosum,Sand Perch,eats
+4424,,Lagocephalus laevigatus,,eats
+4424,,Cheilopogon furcatus,,eats
+4424,82330,Caranx ruber,Bar Jack,eats
+4424,98531,Coryphaena hippurus,Common Dolphinfish,eats
+4424,194903,Psenes cyanophrys,Freckled Driftfish,eats
+4424,47229,Selar crumenophthalmus,Bigeye Scad,eats
+4424,96740,Caranx crysos,Blue Runner,eats
+4424,,Apogon binotatus,,eats
+4424,63415,Heteropriacanthus cruentatus,Glasseye,eats
+4424,120657,Exocoetus volitans,Cosmopolitan Flyingfish,eats
+4424,69775,Caranx lugubris,Black Trevally,eats
+4424,123659,Decapterus punctatus,Cigar Minnow,eats
+4424,194883,Gempylus serpens,Snake Mackerel,eats
+4424,317321,Pronotogrammus martinicensis,Roughtongue bass,eats
+4424,128857,Canthigaster rostrata,Caribbean Sharpnose Puffer,eats
+4424,,Bollmannia,,eats
+4424,89420,Lepophidium,,eats
+4424,118599,Sardinella aurita,Round Sardinella,eats
+4424,,Lonchopisthus micrognathus,,eats
+4424,131493,Phaeoptyx conklini,Freckled Cardinalfish,eats
+4424,49598,Selene setapinnis,Atlantic Moonfish,eats
+4424,48403,Gasterosteus aculeatus,Threespine Stickleback,eats
+4424,165100,Mallotus villosus,Capelin,eats
+4424,,Gammaridea,,eats
+4424,90535,Osmerus,,eats
+4424,54191,Oncorhynchus tshawytscha,Chinook Salmon,eats
+4424,43584,Homo sapiens,Human,eatenBy
+4424,4342,Laridae,"Gulls, Terns, and Skimmers",eatenBy
+4424,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4424,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+4424,42054,Vulpes,Typical Foxes,eatenBy
+4424,8010,Corvus corax,Common Raven,eatenBy
+4424,4657,Falco rusticolus,Gyrfalcon,eatenBy
+4424,20315,Asio flammeus,Short-eared Owl,eatenBy
+4424,204533,Larus argentatus,Herring Gull,eatenBy
+4424,4489,Stercorarius parasiticus,Parasitic Jaeger,eatenBy

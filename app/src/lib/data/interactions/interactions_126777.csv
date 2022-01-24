@@ -1,0 +1,98 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+126777,47219,Apis mellifera,Western Honey Bee,eats
+126777,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+126777,136465,Myzinum,New World Banded Thynnid Wasps,eats
+126777,58523,Papilio polyxenes,Black Swallowtail,eats
+126777,49707,Halictidae,Sweat Bees,eats
+126777,47822,Diptera,Flies,eats
+126777,630955,Anthophila,Bees,eats
+126777,67706,Argiope argentata,Silver Garden Orbweaver,eats
+126777,48484,Harmonia axyridis,Asian Lady Beetle,eats
+126777,338310,Allograpta exotica,Exotic Streaktail,eats
+126777,343248,Polistinae,Paper Wasps,eats
+126777,52756,Polistes,Umbrella Paper Wasps,eats
+126777,52775,Bombus,Bumble Bees,eats
+126777,203037,Augochlorini,Augochlorine Sweat Bees,eats
+126777,47653,Hesperiidae,Skippers,eats
+126777,61267,Heteroptera,True Bugs,eats
+126777,48091,Brachycera,Brachyceran Flies,eats
+126777,48200,Melolonthinae,June Beetles,eats
+126777,47743,Pentatomoidea,"Stink Bugs, Shield Bugs, and Allies",eats
+126777,184884,Pterygota,Winged and Once-winged Insects,eats
+126777,48550,Phoebis sennae,Cloudless Sulphur,eats
+126777,52864,Tramea,Saddlebag Gliders,eats
+126777,122486,Spilomelinae,Pearl Moths,eats
+126777,124417,Apocrita,"Narrow-waisted Wasps, Ants, and Bees",eats
+126777,52747,Vespidae,"Hornets, Paper Wasps, Potter Wasps, and Allies",eats
+126777,118970,Bombus impatiens,Common Eastern Bumble Bee,eats
+126777,47982,Asilidae,Robber Flies,eats
+126777,57690,Bombus sonorus,Sonoran Bumble Bee,eats
+126777,47118,Araneae,Spiders,eats
+126777,126545,Dialictus,Metallic Sweat Bees,eats
+126777,47158,Insecta,Insects,eats
+126777,58331,Datura wrightii,sacred datura,eats
+126777,55626,Pieris rapae,Cabbage White,eats
+126777,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",eats
+126777,119344,Eumeninae,Potter and Mason Wasps,eats
+126777,47336,Formicidae,Ants,eats
+126777,51702,Coccinella septempunctata,Seven-spotted Lady Beetle,eats
+126777,50340,Hylephila phyleus,Fiery Skipper,eats
+126777,59119,Pontia protodice,Checkered White,eats
+126777,,Danaus gilippus,,eats
+126777,,Dolba hyloeus,,eats
+126777,,Agraulis vanillae,,eats
+126777,467460,Vestistilus,,eats
+126777,,Argiope aurantia,,eats
+126777,1095846,Bidens alba,Romerillo,eats
+126777,,Mydas maculiventris,,eats
+126777,,Enicospilus purgatus,,eats
+126777,68274,Phyciodes phaon,Phaon Crescent,eats
+126777,,Cybister,,eats
+126777,,Trichonephila clavipes,,eats
+126777,50071,Erynnis horatius,Horace's Duskywing,eats
+126777,,Xylocopa virginica,,eats
+126777,,Scolia nobilitata,,eats
+126777,,Myzinum quinquecinctum,,eats
+126777,56887,Bombus pensylvanicus,American Bumble Bee,eats
+126777,,Hemaris diffinis,,eats
+126777,5017,Bubulcus ibis,Cattle Egret,eatenBy
+126777,,Isodontia exornata,,pollinatedBy
+126777,47822,Diptera,Flies,preysOn
+126777,47743,Pentatomoidea,"Stink Bugs, Shield Bugs, and Allies",preysOn
+126777,47219,Apis mellifera,Western Honey Bee,preysOn
+126777,343248,Polistinae,Paper Wasps,preysOn
+126777,52784,Megachile,"Leafcutter, Mortar, and Resin Bees",preysOn
+126777,136465,Myzinum,New World Banded Thynnid Wasps,preysOn
+126777,55265,Palpada,Plushback Flies,preysOn
+126777,51777,Coreidae,Leaf-footed Bugs,preysOn
+126777,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",preysOn
+126777,133797,Agapostemon texanus,Texas Striped Sweat Bee,preysOn
+126777,50086,Agapostemon,Striped Sweat Bees,preysOn
+126777,47982,Asilidae,Robber Flies,preysOn
+126777,52775,Bombus,Bumble Bees,preysOn
+126777,630955,Anthophila,Bees,preysOn
+126777,222681,Lasioglossum sisymbrii,,preysOn
+126777,126777,Peucetia viridans,Green Lynx Spider,preysOn
+126777,127741,Colletes,Cellophane Bees,preysOn
+126777,85035,Neoscona,Spotted Orbweavers,preysOn
+126777,59774,Pachydiplax longipennis,Blue Dasher,preysOn
+126777,61524,Forficula auricularia,European Earwig,preysOn
+126777,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+126777,47744,Hemiptera,"True Bugs, Hoppers, Aphids, and allies",preysOn
+126777,,Atrytone arogos arogos,,preysOn
+126777,61495,Erythemis simplicicollis,Eastern Pondhawk,preysOn
+126777,,Libellula incesta,,preysOn
+126777,,Palpada vinetorum,,preysOn
+126777,143338,Milesia virginiensis,Virginia Giant,preysOn
+126777,,Isodontia exornata,,preysOn
+126777,,Polistes bellicosus,,preysOn
+126777,133788,Xylocopa micans,Southern Carpenter Bee,preysOn
+126777,,Polistes poeyi poeyi,,preysOn
+126777,,Danaus gilippus,,preysOn
+126777,,Utetheisa ornatrix,,preysOn
+126777,,Trogomorpha arrogans,,preysOn
+126777,,Graphocephala coccinea,,preysOn
+126777,,Huaina inca,,preysOn
+126777,,Microtia elva,,preysOn
+126777,334753,Hypselonotus punctiventris,Spot-sided Leaf-footed Bug,preysOn
+126777,126777,Peucetia viridans,Green Lynx Spider,preyedUponBy

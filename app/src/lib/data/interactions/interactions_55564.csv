@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+55564,154298,Halictus ligatus,Ligated Furrow Bee,eatenBy
+55564,126889,Toxomerus marginatus,Margined Calligrapher,eatenBy
+55564,,Spilomyia alcimus,,eatenBy

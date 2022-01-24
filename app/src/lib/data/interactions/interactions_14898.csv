@@ -1,0 +1,70 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+14898,47157,Lepidoptera,Butterflies and Moths,eats
+14898,47434,Poaceae,grasses,eats
+14898,47158,Insecta,Insects,eats
+14898,47124,Magnoliopsida,dicots,eats
+14898,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+14898,47852,Fagaceae,beech family,eats
+14898,47208,Coleoptera,Beetles,eats
+14898,1,Animalia,Animals,eats
+14898,211194,Tracheophyta,vascular plants,eats
+14898,47792,Odonata,Dragonflies and Damselflies,eats
+14898,63089,Clitellata,Clitellates,eats
+14898,49556,Chilopoda,Centipedes,eats
+14898,53248,Elateridae,Click Beetles,eats
+14898,52884,Gryllidae,True Crickets,eats
+14898,47822,Diptera,Flies,eats
+14898,48011,Ephemeroptera,Mayflies,eats
+14898,47336,Formicidae,Ants,eats
+14898,67688,Caelifera,"Grasshoppers, Locusts, and Allies",eats
+14898,47118,Araneae,Spiders,eats
+14898,47928,Zygoptera,Damselflies,eats
+14898,47114,Gastropoda,Gastropods,eats
+14898,47735,Diplopoda,Millipedes,eats
+14898,47201,Hymenoptera,"Ants, Bees, Wasps, and Sawflies",eats
+14898,47187,Malacostraca,Malacostracans,eats
+14898,47126,Plantae,plants,eats
+14898,54834,Prunus serotina,black cherry,eats
+14898,48599,Phytolacca americana,American pokeweed,eats
+14898,58732,Toxicodendron radicans,poison ivy,eats
+14898,83799,Mitchella repens,partridgeberry,eats
+14898,54774,Viburnum,viburnums,eats
+14898,50278,Parthenocissus quinquefolia,Virginia creeper,eats
+14898,125845,Prunus caroliniana,Carolina laurelcherry,eats
+14898,184884,Pterygota,Winged and Once-winged Insects,eats
+14898,54765,Rhus,sumacs,eats
+14898,,Celtis laevigata,,eats
+14898,,Condalia hookeri,,eats
+14898,,Toxicodendron pubescens,,eats
+14898,,Diospyros texana,,eats
+14898,130905,Vitis cinerea,graybark grape,eats
+14898,,Aralia spinosa,,eats
+14898,,Sassafras albidum,,eats
+14898,,Morella cerifera,,eats
+14898,,Rhus copallinum,,eats
+14898,,Phoradendron serotinum,,eats
+14898,,Vaccinium myrsinites,,eats
+14898,,Cornus foemina,,eats
+14898,,Persea borbonia,,eats
+14898,,Ilex opaca,,eats
+14898,120006,Ilex decidua,possumhaw,eats
+14898,,Smilax auriculata,,eats
+14898,,Vaccinium arboreum,,eats
+14898,,Ampelopsis arborea,,eats
+14898,54777,Cornus florida,flowering dogwood,eats
+14898,,Smilax tamnoides,,eats
+14898,,Smilax bona-nox,,eats
+14898,,Smilax pumila,,eats
+14898,,Nyssa sylvatica,,eats
+14898,81801,Viburnum rufidulum,Rusty Blackhaw,eats
+14898,,Symplocos tinctoria,,eats
+14898,,Ilex cassine,,eats
+14898,83074,Magnolia grandiflora,southern magnolia,eats
+14898,,Osmanthus americanus,,eats
+14898,,Callicarpa americana,,eats
+14898,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+14898,47208,Coleoptera,Beetles,preysOn
+14898,,insects (forest edge),,preysOn
+14898,27380,Desmognathus,Dusky Salamanders,preysOn
+14898,27186,Plethodon cinereus,Eastern Red-backed Salamander,preysOn
+14898,5112,Accipiter cooperii,Cooper's Hawk,preyedUponBy

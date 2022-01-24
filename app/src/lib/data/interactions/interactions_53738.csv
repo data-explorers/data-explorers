@@ -1,0 +1,23 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+53738,47414,Emerita analoga,Pacific Sand Crab,eats
+53738,3,Aves,Birds,eats
+53738,47822,Diptera,Flies,eats
+53738,,flies - Dermestes - Calliphora - Phaleria (carrion beetles and flies),,eats
+53738,,dead birds etc. washed in from sea,,eats
+53738,,Prymnesiophyceae,,eats
+53738,248379,Excirolana,,eats
+53738,3,Aves,Birds,eatenBy
+53738,44540,Rattus,Old World Rats,eatenBy
+53738,3849,Calidris alba,Sanderling,eatenBy
+53738,67561,Charadriiformes,Shorebirds and Allies,eatenBy
+53738,529492,Netuma thalassina,Giant Sea Catfish,eatenBy
+53738,368151,Sillago sihama,Northern Whiting,eatenBy
+53738,144515,Leucophaeus pipixcan,Franklin's Gull,eatenBy
+53738,41872,Conepatus,Hog-nosed Skunks,eatenBy
+53738,4371,Larus belcheri,Belcher's Gull,eatenBy
+53738,346595,Tetrameres,,eatenBy
+53738,,Duscicyon (fox),,eatenBy
+53738,38957,Tropidurus,Lava Lizards,eatenBy
+53738,,Duscicyon,,eatenBy
+53738,2464,Todiramphus sanctus,Sacred Kingfisher,eatenBy
+53738,4846,Haematopus longirostris,Pied Oystercatcher,preyedUponBy

@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+57460,41641,Ursus arctos,Brown Bear,eatenBy
+57460,47158,Insecta,Insects,pollinatedBy
+57460,47222,Apoidea,Bees and Apoid Wasps,pollinatedBy

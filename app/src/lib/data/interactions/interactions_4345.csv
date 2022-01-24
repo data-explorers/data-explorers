@@ -1,0 +1,121 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+4345,48479,Chrysaora fuscescens,Pacific Sea Nettle,eats
+4345,54509,Octopus bimaculoides,Lesser Two-spot Octopus,eats
+4345,114782,Urobatis halleri,Haller's Round Ray,eats
+4345,773518,Molpadia arenicola,Sweet Potato Sea Cucumber,eats
+4345,505478,Gallus gallus domesticus,Domestic Chicken,eats
+4345,4203,Podicipedidae,Grebes,eats
+4345,47178,Actinopterygii,Ray-finned Fishes,eats
+4345,50600,Mytilidae,True Mussels,eats
+4345,47828,Cancridae,Rock Crabs,eats
+4345,49699,Pisaster ochraceus,Ochre Sea Star,eats
+4345,49723,Pugettia producta,Northern Kelp Crab,eats
+4345,54539,Syngnathus,Pipe-fishes,eats
+4345,63697,Metacarcinus magister,Dungeness Crab,eats
+4345,428550,Norrisia norrisii,Norris's Topsnail,eats
+4345,41728,Mirounga angustirostris,Northern Elephant Seal,eats
+4345,47186,Decapoda,Decapods,eats
+4345,62806,Mytilus californianus,California Mussel,eats
+4345,145245,Setophaga coronata,Yellow-rumped Warbler,eats
+4345,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,eats
+4345,117666,Pleuroncodes planipes,Tuna Crab,eats
+4345,121639,Brachyura,True Crabs,eats
+4345,4343,Larus,Large White-headed Gulls,eats
+4345,51912,Engraulis,,eats
+4345,47459,Cephalopoda,Cephalopods,eats
+4345,153112,Euphausiacea,krill,eats
+4345,85493,Crustacea,Crustaceans,eats
+4345,51911,Engraulidae,Anchovies,eats
+4345,63770,Engraulis mordax,Northern Anchovy,eats
+4345,85611,Atherinidae,Old World Silversides,eats
+4345,,Detritus,,eats
+4345,,Sphyraena argentea,,eats
+4345,992313,Mesocentrotus franciscanus,Red Sea Urchin,eats
+4345,69840,Scomber japonicus,Pacific Chub Mackerel,eats
+4345,,Sicyonia penicillata,,eats
+4345,51491,Myliobatis californica,Bat Ray,eats
+4345,53701,Hippoglossus stenolepis,Pacific Halibut,eats
+4345,,Metacarcinus gracilis,,eats
+4345,146888,Illex,Shortfin Squids,eats
+4345,,Kondakovia longimana,,eats
+4345,82337,Loligo,,eats
+4345,,Others,,eats
+4345,,Gnathostomata,,eats
+4345,,others,,eats
+4345,47762,Sebastes,Rockfishes,eats
+4345,,Teuthida,,eats
+4345,,Pisces,,eats
+4345,502271,Engraulis australis,Australian Anchovy,eats
+4345,328042,Engraulis japonicus,Japanese Anchovy,eats
+4345,447397,Engraulis anchoita,Argentine Anchoita,eats
+4345,254742,Astyris lunata,Lunate Dove Shell,eats
+4345,51910,Engraulis encrasicolus,European Anchovy,eats
+4345,4647,Falco peregrinus,Peregrine Falcon,eatenBy
+4345,,Aquila chrysaetos,,eatenBy
+4345,81648,Mytilus galloprovincialis,Mediterranean Mussel,preysOn
+4345,47188,Pachygrapsus crassipes,Striped Shore Crab,preysOn
+4345,54960,Nematoda,Nematodes,preysOn
+4345,63770,Engraulis mordax,Northern Anchovy,preysOn
+4345,153112,Euphausiacea,krill,preysOn
+4345,153981,Doryteuthis opalescens,Opalescent Inshore Squid,preysOn
+4345,47584,Bivalvia,Bivalves,preysOn
+4345,3017,Columba livia,Rock Pigeon,preysOn
+4345,47178,Actinopterygii,Ray-finned Fishes,preysOn
+4345,49699,Pisaster ochraceus,Ochre Sea Star,preysOn
+4345,49723,Pugettia producta,Northern Kelp Crab,preysOn
+4345,121639,Brachyura,True Crabs,preysOn
+4345,63697,Metacarcinus magister,Dungeness Crab,preysOn
+4345,48035,Strongylocentrotus purpuratus,Pacific Purple Sea Urchin,preysOn
+4345,773518,Molpadia arenicola,Sweet Potato Sea Cucumber,preysOn
+4345,54539,Syngnathus,Pipe-fishes,preysOn
+4345,,Cloacitrema michiganense,,preysOn
+4345,,Probolocoryphe uca,,preysOn
+4345,,Trichodina,,preysOn
+4345,,Mesostephanus appendiculatoides,,preysOn
+4345,209100,Gyrodactylus,,preysOn
+4345,,Spirocamallanus pereirai,,preysOn
+4345,71256,Tagelus,,preysOn
+4345,,Stictodora hancocki,,preysOn
+4345,,Parorchis acanthus,,preysOn
+4345,94801,Atherinops affinis,Topsmelt Silverside,preysOn
+4345,339177,Microphallidae,,preysOn
+4345,,Parvatrema,,preysOn
+4345,,Nerocila californica,,preysOn
+4345,,Pygidiopsoides spindalis,,preysOn
+4345,914144,Galactosomum,,preysOn
+4345,339249,Acanthoparyphium,,preysOn
+4345,339182,Phocitremoides ovale,,preysOn
+4345,,carrion,,preysOn
+4345,,Eugregarinida,,preysOn
+4345,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preysOn
+4345,,Protothaca,,preysOn
+4345,339200,Himasthla rhigedana,,preysOn
+4345,117612,Macoma nasuta,Bent-nosed Clam,preysOn
+4345,,Tetraphyllidea,,preysOn
+4345,,Carcinonemertes,,preysOn
+4345,,Ergasilus auritus,,preysOn
+4345,339174,Cyathocotylidae,,preysOn
+4345,,Picornaviridae,,preysOn
+4345,60021,Porichthys notatus,Plainfin Midshipman,preysOn
+4345,117569,Microgadus proximus,Pacific Tomcod,preysOn
+4345,48415,Citharichthys sordidus,Pacific sanddab,preysOn
+4345,98855,Cymatogaster aggregata,Shiner Surfperch,preysOn
+4345,105599,Merluccius productus,Pacific Hake,preysOn
+4345,47762,Sebastes,Rockfishes,preysOn
+4345,115227,Zalembius rosaceus,Pink Seaperch,preysOn
+4345,180030,Glyptocephalus zachirus,Rex Sole,preysOn
+4345,97375,Chilara taylori,Spotted Cusk-eel,preysOn
+4345,94802,Atherinopsis californiensis,Jack Silverside,preysOn
+4345,180031,Microstomus pacificus,Pacific Dover Sole,preysOn
+4345,63691,Cololabis saira,Pacific Saury,preysOn
+4345,117571,Clupea pallasii,Pacific herring,preysOn
+4345,328432,Chione californiensis,California Venus,preysOn
+4345,508883,Tagelus subteres,Lesser Tagelus,preysOn
+4345,479426,Chionista fluctifraga,Smooth Venus,preysOn
+4345,328416,Tagelus affinis,Neighbor Tagelus,preysOn
+4345,81608,Geukensia demissa,Atlantic Ribbed Mussel,preysOn
+4345,,Protothaca staminea,,preysOn
+4345,179828,Laevicardium substriatum,Pacific Eggcockle,preysOn
+4345,,Metacarcinus gracilis,,preysOn
+4345,259078,Culex tarsalis,Western Encephalitis Mosquito,preyedUponBy
+4345,1112134,Aedes taeniorhynchus,Black Saltmarsh Mosquito,preyedUponBy

@@ -1,0 +1,64 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49235,47232,Carangidae,Jacks,eats
+49235,49235,Clupeiformes,Herrings,eats
+49235,,Zooplankton,,eats
+49235,91189,Poecilia,Mollies,eats
+49235,,Phytoplankton,,eats
+49235,,Wigeongrass,,eats
+49235,,Infauna,,eats
+49235,,Pungitius pungitius pungitius,,eats
+49235,41482,Tursiops truncatus,Common Bottlenose Dolphin,eatenBy
+49235,49235,Clupeiformes,Herrings,eatenBy
+49235,57298,Hemiramphidae,Halfbeaks,eatenBy
+49235,49506,Portunidae,Swimming Crabs,eatenBy
+49235,47295,Lutjanidae,Snappers,eatenBy
+49235,47232,Carangidae,Jacks,eatenBy
+49235,69677,Isurus oxyrinchus,Shortfin Mako,eatenBy
+49235,4277,Phalacrocorax penicillatus,Brandt's Cormorant,eatenBy
+49235,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eatenBy
+49235,49438,Centropomidae,Snooks,eatenBy
+49235,113309,Strongylura scapularis,Shoulderspot Needlefish,eatenBy
+49235,,Sea,,eatenBy
+49235,94904,Auchenoglanis biscutatus,,eatenBy
+49235,361765,Todarodes pacificus,Japanese Flying Squid,eatenBy
+49235,123962,Dosidicus gigas,Humboldt Squid,eatenBy
+49235,317478,Porichthys porosissimus,,eatenBy
+49235,47639,Myoxocephalus scorpius,Shorthorn Sculpin,eatenBy
+49235,118671,Sparus aurata,Gilthead Seabream,eatenBy
+49235,118694,Trachurus mediterraneus,Mediterranean Horse Mackerel,eatenBy
+49235,51404,Trichiurus lepturus,Largehead Hairtail,eatenBy
+49235,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+49235,332553,Pollachius pollachius,Atlantic pollock,eatenBy
+49235,125291,Molva molva,European Ling,eatenBy
+49235,196746,Lophotus lacepede,Oarfish,eatenBy
+49235,103658,Kathetostoma averruncus,Smooth Stargazer,eatenBy
+49235,93704,Alosa fallax,Twaite Shad,eatenBy
+49235,113307,Strongylura exilis,California needlefish,eatenBy
+49235,115167,Xiphias gladius,Swordfish,eatenBy
+49235,120672,Scomberesox saurus,Atlantic Saury,eatenBy
+49235,113308,Strongylura marina,Atlantic Needlefish,eatenBy
+49235,109743,Plectropomus leopardus,Leopard Coralgrouper,eatenBy
+49235,,Chromis cyanea,,eatenBy
+49235,154499,Scomberomorus cavalla,King Mackerel,eatenBy
+49235,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+49235,4450,Sterna hirundo,Common Tern,eatenBy
+49235,49235,Clupeiformes,Herrings,preysOn
+49235,47232,Carangidae,Jacks,preysOn
+49235,91189,Poecilia,Mollies,preysOn
+49235,,Pungitius pungitius pungitius,,preysOn
+49235,,Zooplankton,,preysOn
+49235,,Infauna,,preysOn
+49235,,Wigeongrass,,preysOn
+49235,4519,Uria aalge,Common Murre,preyedUponBy
+49235,4277,Phalacrocorax penicillatus,Brandt's Cormorant,preyedUponBy
+49235,49506,Portunidae,Swimming Crabs,preyedUponBy
+49235,47295,Lutjanidae,Snappers,preyedUponBy
+49235,57298,Hemiramphidae,Halfbeaks,preyedUponBy
+49235,47232,Carangidae,Jacks,preyedUponBy
+49235,49235,Clupeiformes,Herrings,preyedUponBy
+49235,144530,Sternula antillarum,Least Tern,preyedUponBy
+49235,4547,Ptychoramphus aleuticus,Cassin's Auklet,preyedUponBy
+49235,49438,Centropomidae,Snooks,preyedUponBy
+49235,,Sea,,preyedUponBy
+49235,113309,Strongylura scapularis,Shoulderspot Needlefish,preyedUponBy
+49235,94904,Auchenoglanis biscutatus,,preyedUponBy

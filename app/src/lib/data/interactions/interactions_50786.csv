@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+50786,62205,Alcea rosea,Hollyhock,eats
+50786,48798,Sidalcea,Checkerblooms,eats
+50786,58203,Malvella leprosa,alkali mallow,eats
+50786,54996,Sida,,eats
+50786,56162,Malva sylvestris,Common Mallow,eats
+50786,49140,Amsinckia,Fiddlenecks,eats
+50786,77952,Malva neglecta,dwarf mallow,eats
+50786,58202,Malva parviflora,cheeseweed mallow,eats
+50786,61043,Malva nicaeensis,bull mallow,eats
+50786,57137,Malacothamnus fasciculatus,chaparral bush-mallow,eats
+50786,83072,Syringa vulgaris,common lilac,eats
+50786,56759,Lupinus succulentus,arroyo lupine,eats
+50786,51884,Urtica dioica,stinging nettle,eats
+50786,50154,Sphaeralcea,globemallows,eats
+50786,69819,Ligustrum,privets,eats
+50786,51886,Urtica,nettles,eats
+50786,55978,Malva,Mallows,eats
+50786,61905,Lavandula,Lavender,eats
+50786,57138,Malacothamnus,bush-mallows,eats
+50786,62206,Alcea,hollyhocks,eats
+50786,47121,Lupinus,lupines,eats
+50786,574731,Brassiceae,,eats
+50786,47179,Arctostaphylos,bearberries and manzanitas,eats
+50786,47124,Magnoliopsida,dicots,eats
+50786,61906,Helminthotheca echioides,bristly oxtongue,eats
+50786,632790,Asteroideae,,eats
+50786,53317,Verbena,Vervain,eats
+50786,359450,Cichorieae,,eats
+50786,605446,Heliantheae,sunflowers and allies,eats
+50786,634936,Solanoideae,nightshades and allies,eats
+50786,55412,Raphanus,Radishes,eats
+50786,53396,Eriophyllum,Woolly sunflowers,eats
+50786,72281,Pelargonium,geraniums and storksbills,eats
+50786,461542,Astereae,asters and allies,eats
+50786,55365,Grindelia,gumplants,eats
+50786,57283,Centranthus ruber,Red Valerian,eats
+50786,47603,Taraxacum,dandelions,eats
+50786,47204,Brassicaceae,mustard family,eats
+50786,48561,Cirsium,thistles,eats
+50786,57952,Coreopsis,Tickseed,eats
+50786,47604,Asteraceae,"sunflowers, daisies, asters, and allies",eats
+50786,50644,Salvia,Sages,eats
+50786,75916,Buddleja davidii,Butterfly bush,eats
+50786,51769,Gaillardia,Blanket Flowers,eats
+50786,47544,Rubus,brambles,eats
+50786,55410,Raphanus sativus,wild radish,eats
+50786,63366,Limonium,Sea-Lavenders,eats
+50786,79487,Verbena bonariensis,purpletop vervain,eats
+50786,48896,Heliotropium,Heliotropes,eats
+50786,60982,Cakile maritima,European Searocket,eats
+50786,84986,Euryops,Paris Daisy,eats
+50786,53052,Foeniculum vulgare,fennel,eats
+50786,53359,Baccharis pilularis,coyote brush,eats
+50786,53453,Salix,Willows,eats
+50786,58058,Heliotropium curassavicum,alkali heliotrope,eats
+50786,50643,Salvia mellifera,black sage,eats
+50786,57723,Echium candicans,Pride of Madeira,eats
+50786,76661,Dimorphotheca fruticosa,trailing African daisy,eats
+50786,59904,Glebionis coronaria,Garland Daisy,eats
+50786,52989,Cirsium vulgare,Bull Thistle,eats
+50786,57934,Ericameria nauseosa,Rubber Rabbitbrush,eats
+50786,52566,Althaea,Marshmallows,eats
+50786,,Lavatera,,eats
+50786,,Sidalcea glaucescens,,eats
+50786,,Eremalche exilis,,eats
+50786,,Sidalcea malviflora,,eats
+50786,,Lavandula latifolia,,eats
+50786,418222,Malva pusilla,Small Mallow,eats
+50786,,Sidalcea oregana,,eats
+50786,,Althaea officinalis,,eats
+50786,,Malva borealis,,eats
+50786,53315,Urtica urens,Dwarf Nettle,eats
+50786,77741,Ligustrum ovalifolium,garden privet,eats
+50786,,Lupinus arboreus,,eats
+50786,,less,,eats
+50786,,Lantana montevidensis,,eats
+50786,50334,Lantana,,eats
+50786,,Aster,,eats
+50786,,Dipsacoideae,,eats
+50786,,Erigeron glaucus,,eats
+50786,,Escallonia rubra,,eats
+50786,128268,Gomphrena globosa,Globe amaranth,eats
+50786,,Sixalix atropurpurea atropurpurea,,eats
+50786,50630,Erysimum,Wallflowers,eats
+50786,,Calendula arvensis,,eats
+50786,,Glandularia lilacina,,eats
+50786,,Thelesperma simplicifolium,,eats
+50786,,Tageteae,,eats
+50786,632791,Calenduleae,marigolds and allies,eats
+50786,,Lomelosia caucasica,,eats
+50786,57095,Eriodictyon californicum,California yerba santa,eats
+50786,55137,Arctostaphylos manzanita,Common Manzanita,eats
+50786,53348,Aesculus californica,California buckeye,eats
+50786,,Scabiosa columbaria,,eats
+50786,56861,Symphyotrichum chilense,Pacific Aster,eats
+50786,,Lobelia erinus,,eats
+50786,,Grindelia hirsutula,,eats
+50786,,Asclepias linaria,,eats
+50786,,Grindelia stricta platyphylla,,eats
+50786,17013,Sayornis nigricans,Black Phoebe,eatenBy
+50786,17013,Sayornis nigricans,Black Phoebe,preyedUponBy
+50786,47371,Theridiidae,Cobweb Spiders,preyedUponBy

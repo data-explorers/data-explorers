@@ -1,0 +1,221 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+5305,44185,Muridae,Old World Mice and Rats,eats
+5305,49688,Kyphosidae,Sea Chubs,eats
+5305,4783,Charadriidae,Plovers and Lapwings,eats
+5305,49172,Sciaenidae,Drums,eats
+5305,47313,Muraenidae,Morays,eats
+5305,42043,Canidae,Canids,eats
+5305,51892,Scyliorhinidae,Catsharks,eats
+5305,4020,Procellariidae,Shearwaters and Petrels,eats
+5305,4619,Gaviidae,Loons,eats
+5305,85777,Exocoetidae,Flyingfishes,eats
+5305,71326,Hydrobatidae,Northern Storm-Petrels,eats
+5305,85641,Bothidae,Lefteye Flounders,eats
+5305,41736,Otariidae,Eared Seals,eats
+5305,47765,Serranidae,Groupers and Sea Basses,eats
+5305,40151,Mammalia,Mammals,eats
+5305,45933,Sciuridae,Squirrels,eats
+5305,47266,Scombridae,"Mackerels, Tunas, and Bonitos",eats
+5305,41687,Phocidae,Earless Seals,eats
+5305,4203,Podicipedidae,Grebes,eats
+5305,85611,Atherinidae,Old World Silversides,eats
+5305,7823,Corvidae,"Crows, Jays, and Magpies",eats
+5305,6912,Anatidae,"Ducks, Geese, and Swans",eats
+5305,49284,Labridae,Wrasses,eats
+5305,4262,Phalacrocoracidae,Cormorants and Shags,eats
+5305,42241,Bovidae,Bovids,eats
+5305,4323,Pelecanidae,Pelicans,eats
+5305,48313,Pomacentridae,Damselfishes and Anemonefishes,eats
+5305,49588,Centrarchidae,Freshwater Sunfishes,eats
+5305,71295,Alcidae,"Auks, Murres, Guillemots, and Puffins",eats
+5305,47285,Scorpaenidae,Scorpionfishes,eats
+5305,4342,Laridae,"Gulls, Terns, and Skimmers",eats
+5305,3,Aves,Birds,eats
+5305,41871,Mephitidae,Skunks and Stink-badgers,eats
+5305,42158,Cervidae,Deer,eats
+5305,1,Animalia,Animals,eats
+5305,2,Chordata,Chordates,eats
+5305,4561,Synthliboramphus antiquus,Ancient Murrelet,eats
+5305,4180,Fulmarus glacialis,Northern Fulmar,eats
+5305,4092,Puffinus,Small Shearwaters,eats
+5305,5305,Haliaeetus leucocephalus,Bald Eagle,eats
+5305,4509,Fratercula cirrhata,Tufted Puffin,eats
+5305,47114,Gastropoda,Gastropods,eats
+5305,47186,Decapoda,Decapods,eats
+5305,44576,Rattus norvegicus,Brown Rat,eats
+5305,4077,Oceanodroma furcata,Fork-tailed Storm-Petrel,eats
+5305,47459,Cephalopoda,Cephalopods,eats
+5305,47645,Cottidae,Typical Sculpins,eats
+5305,4263,Phalacrocorax,Typical Cormorants and Shags,eats
+5305,49581,Nereididae,,eats
+5305,8010,Corvus corax,Common Raven,eats
+5305,4415,Cepphus columba,Pigeon Guillemot,eats
+5305,4349,Larus hyperboreus,Glaucous Gull,eats
+5305,850859,Oxyura jamaicensis,Ruddy Duck,eats
+5305,41663,Procyon lotor,Common Raccoon,eats
+5305,906,Meleagris gallopavo,Wild Turkey,eats
+5305,4246,Podilymbus podiceps,Pied-billed Grebe,eats
+5305,49175,Siluriformes,Catfishes,eats
+5305,43095,Leporidae,Hares and Rabbits,eats
+5305,42652,Didelphis virginiana,Virginia Opossum,eats
+5305,473,Fulica americana,American Coot,eats
+5305,26036,Reptilia,Reptiles,eats
+5305,49592,Lepomis,Common Sunfishes,eats
+5305,49587,Micropterus salmoides,Largemouth Bass,eats
+5305,42223,Odocoileus virginianus,White-tailed Deer,eats
+5305,53911,Cyprinus carpio,European Carp,eats
+5305,8021,Corvus brachyrhynchos,American Crow,eats
+5305,5227,Buteo platypterus,Broad-winged Hawk,eats
+5305,7107,Aix sponsa,Wood Duck,eats
+5305,2548,Megaceryle alcyon,Belted Kingfisher,eats
+5305,18236,Colaptes auratus,Northern Flicker,eats
+5305,8229,Cyanocitta cristata,Blue Jay,eats
+5305,9744,Agelaius phoeniceus,Red-winged Blackbird,eats
+5305,5212,Buteo jamaicensis,Red-tailed Hawk,eats
+5305,73155,Passerina caerulea,Blue Grosbeak,eats
+5305,43115,Sylvilagus audubonii,Desert Cottontail,eats
+5305,9346,Icterus galbula,Baltimore Oriole,eats
+5305,4956,Ardea herodias,Great Blue Heron,eats
+5305,19609,Phalaenoptilus nuttallii,Common Poorwill,eats
+5305,47233,Perciformes,Perch-like Fishes,eats
+5305,44737,Neotoma,Woodrats,eats
+5305,3454,Zenaida macroura,Mourning Dove,eats
+5305,85553,Serpentes,Snakes,eats
+5305,9607,Quiscalus mexicanus,Great-tailed Grackle,eats
+5305,44062,Thomomys bottae,Botta's Pocket Gopher,eats
+5305,144455,Ardea alba,Great Egret,eats
+5305,49609,Cyprinidae,Cyprinids,eats
+5305,44349,Peromyscus,North American Deer Mice,eats
+5305,18463,Sphyrapicus varius,Yellow-bellied Sapsucker,eats
+5305,4328,Pelecanus occidentalis,Brown Pelican,eats
+5305,54662,Mugil,Common Mullets,eats
+5305,4929,Ardeidae,"Herons, Egrets, and Bitterns",eats
+5305,144539,Thalasseus maximus,Royal Tern,eats
+5305,49612,Balistidae,Triggerfishes,eats
+5305,4265,Phalacrocorax auritus,Double-crested Cormorant,eats
+5305,4209,Podiceps auritus,Horned Grebe,eats
+5305,47295,Lutjanidae,Snappers,eats
+5305,52461,Belonidae,Needlefishes,eats
+5305,51932,Ocypodidae,Ghost and Fiddler Crabs,eats
+5305,116999,Pandion haliaetus,Osprey,eats
+5305,5206,Buteo lineatus,Red-shouldered Hawk,eats
+5305,4334,Pelecanus erythrorhynchos,American White Pelican,eats
+5305,7043,Aythya,"Scaups, Pochards, and Allies",eats
+5305,4836,Himantopus mexicanus,Black-necked Stilt,eats
+5305,7251,Passeriformes,Perching Birds,eats
+5305,42054,Vulpes,Typical Foxes,eats
+5305,62807,Mytilus,Black Mussels,eats
+5305,43792,Castor,Beavers,eats
+5305,6922,Anas,"Mallards, Pintails, and Allies",eats
+5305,4620,Gavia,Loons,eats
+5305,4553,Cerorhinca monocerata,Rhinoceros Auklet,eats
+5305,4343,Larus,Large White-headed Gulls,eats
+5305,42220,Odocoileus hemionus,Mule Deer,eats
+5305,574,Phasianidae,"Pheasants, Grouse, and Allies",eats
+5305,7998,Corvus,Crows and Ravens,eats
+5305,45763,Ondatra zibethicus,Muskrat,eats
+5305,4519,Uria aalge,Common Murre,eats
+5305,47584,Bivalvia,Bivalves,eats
+5305,6930,Anas platyrhynchos,Mallard,eats
+5305,981,Phasianus colchicus,Ring-necked Pheasant,eats
+5305,5085,Accipiter,Accipiters,eats
+5305,44259,Microtus,Meadow Voles,eats
+5305,17855,Dryocopus pileatus,Pileated Woodpecker,eats
+5305,4424,Sterna,Typical Terns,eats
+5305,44311,Microtus pennsylvanicus,Meadow Vole,eats
+5305,6993,Bucephala albeola,Bufflehead,eats
+5305,42069,Vulpes vulpes,Red Fox,eats
+5305,3936,Scolopax minor,American Woodcock,eats
+5305,46260,Tamiasciurus hudsonicus,American Red Squirrel,eats
+5305,890,Bonasa umbellus,Ruffed Grouse,eats
+5305,882,Gallus gallus,Red Junglefowl,eats
+5305,7044,Aythya collaris,Ring-necked Duck,eats
+5305,41976,Lynx rufus,Bobcat,eats
+5305,46017,Sciurus carolinensis,Eastern Gray Squirrel,eats
+5305,7089,Branta canadensis,Canada Goose,eats
+5305,26504,Colubridae,Colubrid Snakes,eats
+5305,4204,Podiceps,Typical Grebes,eats
+5305,43111,Sylvilagus floridanus,Eastern Cottontail,eats
+5305,49589,Micropterus,Black Basses,eats
+5305,6915,Cygnus buccinator,Trumpeter Swan,eats
+5305,10094,Junco hyemalis,Dark-eyed Junco,eats
+5305,43794,Castor canadensis,American Beaver,eats
+5305,9535,Sturnella neglecta,Western Meadowlark,eats
+5305,12727,Turdus migratorius,American Robin,eats
+5305,7109,Lophodytes cucullatus,Hooded Merganser,eats
+5305,6989,Bucephala,Goldeneyes and Bufflehead,eats
+5305,6888,Anseriformes,Waterfowl,eats
+5305,42541,Didelphidae,Opossums,eats
+5305,67561,Charadriiformes,Shorebirds and Allies,eats
+5305,46020,Sciurus niger,Fox Squirrel,eats
+5305,20979,Anura,Frogs and Toads,eats
+5305,52524,Carcinus,Green Crabs,eats
+5305,47120,Arthropoda,Arthropods,eats
+5305,49723,Pugettia producta,Northern Kelp Crab,eats
+5305,43698,Rodentia,Rodents,eats
+5305,47548,Echinoidea,"Sea Urchins, Sand Dollars, and Heart Urchins",eats
+5305,5067,Accipitridae,"Hawks, Eagles, and Kites",eats
+5305,9083,Cardinalis cardinalis,Northern Cardinal,eats
+5305,9528,Sturnella magna,Eastern Meadowlark,eats
+5305,14850,Sturnus vulgaris,European Starling,eats
+5305,41880,Mephitis mephitis,Striped Skunk,eats
+5305,3017,Columba livia,Rock Pigeon,eats
+5305,9602,Quiscalus quiscula,Common Grackle,eats
+5305,10373,Molothrus ater,Brown-headed Cowbird,eats
+5305,55986,Cricetidae,"Hamsters, Voles, Lemmings, and Allies",eats
+5305,118552,Felis catus,Domestic Cat,eats
+5305,209233,Equus caballus,Domestic Horse,eats
+5305,42051,Canis latrans,Coyote,eats
+5305,43094,Lagomorpha,Lagomorphs,eats
+5305,20445,Tyto alba,Barn Owl,eats
+5305,3108,Patagioenas fasciata,Band-tailed Pigeon,eats
+5305,14886,Mimus polyglottos,Northern Mockingbird,eats
+5305,81634,Mya arenaria,Soft-shelled Clam,eats
+5305,13858,Passer domesticus,House Sparrow,eats
+5305,117650,Mytilus edulis,Blue Mussel,eats
+5305,118451,Pleocyemata,"Crabs, Lobsters, and Allies",eats
+5305,39682,Chelydra serpentina,Common Snapping Turtle,eats
+5305,46095,Marmota monax,Groundhog,eats
+5305,3892,Tringa melanoleuca,Greater Yellowlegs,eats
+5305,48408,Rajidae,Hardnose Skates,eats
+5305,1986,Geococcyx californianus,Greater Roadrunner,eats
+5305,2715,Columbidae,Pigeons and Doves,eats
+5305,4308,Phalacrocorax brasilianus,Neotropic Cormorant,eats
+5305,41860,Enhydra lutris,Sea Otter,eats
+5305,4385,Larus californicus,California Gull,eats
+5305,54525,Pectinidae,Scallops,eats
+5305,4838,Haematopus bachmani,Black Oystercatcher,eats
+5305,47827,Cancer,,eats
+5305,69926,Clinocardium,,eats
+5305,4531,Brachyramphus marmoratus,Marbled Murrelet,eats
+5305,49053,Cryptochiton stelleri,Gumboot Chiton,eats
+5305,4063,Oceanodroma,,eats
+5305,39793,Trachemys scripta scripta,Yellow-bellied Slider,eats
+5305,47178,Actinopterygii,Ray-finned Fishes,eats
+5305,355675,Vertebrata,Vertebrates,eats
+5305,180007,Otospermophilus beecheyi,California Ground Squirrel,eats
+5305,6913,Cygnus,True Swans,eats
+5305,51271,Trachemys scripta elegans,Red-eared Slider,eats
+5305,41708,Phoca vitulina,Harbor Seal,eats
+5305,7086,Branta,Black Geese,eats
+5305,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+5305,47178,Actinopterygii,Ray-finned Fishes,preysOn
+5305,41663,Procyon lotor,Common Raccoon,preysOn
+5305,6912,Anatidae,"Ducks, Geese, and Swans",preysOn
+5305,3,Aves,Birds,preysOn
+5305,46017,Sciurus carolinensis,Eastern Gray Squirrel,preysOn
+5305,473,Fulica americana,American Coot,preysOn
+5305,6888,Anseriformes,Waterfowl,preysOn
+5305,3797,Sula leucogaster,Brown Booby,preysOn
+5305,4385,Larus californicus,California Gull,preysOn
+5305,43095,Leporidae,Hares and Rabbits,preysOn
+5305,488924,Muroidea,Muroids,preysOn
+5305,7089,Branta canadensis,Canada Goose,preysOn
+5305,4519,Uria aalge,Common Murre,preysOn
+5305,4626,Gavia immer,Common Loon,preysOn
+5305,7036,Melanitta perspicillata,Surf Scoter,preysOn
+5305,144222,Melanitta deglandi,White-winged Scoter,preysOn
+5305,,Ardea herodias fannini,,preysOn
+5305,83170,Platichthys stellatus,Starry Flounder,preysOn
+5305,,Branta hutchinsii,,preysOn
+5305,4399,Larus glaucescens,Glaucous-winged Gull,preysOn

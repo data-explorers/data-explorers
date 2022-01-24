@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+66003,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",eats
+66003,47118,Araneae,Spiders,eats
+66003,47158,Insecta,Insects,eats
+66003,83852,Pontania,,eats
+66003,47114,Gastropoda,Gastropods,eats
+66003,,Disyonicha quinquevitata,,eats
+66003,,cutworms - grasshoppers - clickbeetles,,eats
+66003,,insects - Disyonicha quinquevitata - Collembola,,eats
+66003,,insects - Pontania petiolaridis - Collembola,,eats
+66003,28339,Thamnophis,Garter Snakes,eatenBy
+66003,47178,Actinopterygii,Ray-finned Fishes,eatenBy
+66003,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,eatenBy
+66003,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+66003,4665,Falco sparverius,American Kestrel,eatenBy
+66003,19893,Strix varia,Barred Owl,eatenBy
+66003,4940,Egretta thula,Snowy Egret,eatenBy
+66003,,Pisces,,eatenBy
+66003,,Thamnophis saurita septentrionalis,,eatenBy
+66003,201043,Geranoaetus albicaudatus,White-tailed Hawk,eatenBy
+66003,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+66003,5416,Ictinia mississippiensis,Mississippi Kite,eatenBy
+66003,19765,Megascops asio,Eastern Screech-Owl,eatenBy
+66003,243,Rallus limicola,Virginia Rail,eatenBy
+66003,20307,Asio otus,Long-eared Owl,eatenBy
+66003,5017,Bubulcus ibis,Cattle Egret,eatenBy
+66003,4937,Egretta caerulea,Little Blue Heron,eatenBy
+66003,83852,Pontania,,preysOn
+66003,49470,Collembola,Springtails,preysOn
+66003,47118,Araneae,Spiders,preysOn
+66003,47158,Insecta,Insects,preysOn
+66003,47114,Gastropoda,Gastropods,preysOn
+66003,47651,Orthoptera,"Grasshoppers, Crickets, and Katydids",preysOn
+66003,48662,Danaus plexippus,Monarch,preysOn
+66003,,Archilochus colubris,,preysOn
+66003,,Dendroica petechia,,preysOn
+66003,,disyonicha quinquevitata,,preysOn
+66003,,clickbeetles,,preysOn
+66003,40346,Myotis lucifugus,Little Brown Bat,preysOn
+66003,47934,Libellula luctuosa,Widow Skimmer,preysOn
+66003,9602,Quiscalus quiscula,Common Grackle,preyedUponBy
+66003,28362,Thamnophis sirtalis,Common Garter Snake,preyedUponBy
+66003,29925,Heterodon platirhinos,Eastern Hognose Snake,preyedUponBy
+66003,28365,Thamnophis sirtalis sirtalis,Eastern Garter Snake,preyedUponBy
+66003,28339,Thamnophis,Garter Snakes,preyedUponBy
+66003,5181,Buteo regalis,Ferruginous Hawk,preyedUponBy
+66003,19975,Athene cunicularia,Burrowing Owl,preyedUponBy
+66003,29927,Heterodon nasicus,Plains Hognose Snake,preyedUponBy
+66003,,Pisces,,preyedUponBy

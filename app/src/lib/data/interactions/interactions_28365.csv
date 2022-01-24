@@ -1,0 +1,52 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+28365,64747,Anaxyrus,North American Toads,eats
+28365,65982,Lithobates clamitans,Green Frog,eats
+28365,64968,Anaxyrus americanus,American Toad,eats
+28365,60340,Lithobates,American Water Frogs,eats
+28365,66003,Lithobates pipiens,Northern Leopard Frog,eats
+28365,,Incilius nebulifer,,eats
+28365,,Ambystoma maculatum,,eats
+28365,,Anaxyrus fowleri,,eats
+28365,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+28365,19893,Strix varia,Barred Owl,eatenBy
+28365,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+28365,27149,Coluber constrictor constrictor,Northern Black Racer,eatenBy
+28365,29813,Lampropeltis getula,Eastern Kingsnake,eatenBy
+28365,515419,Lampropeltis triangulum,Eastern Milksnake,eatenBy
+28365,,Quiscalus quiscula versicolor,,eatenBy
+28365,20979,Anura,Frogs and Toads,preysOn
+28365,15977,Turdidae,Thrushes,preysOn
+28365,7251,Passeriformes,Perching Birds,preysOn
+28365,26718,Caudata,Salamanders,preysOn
+28365,66003,Lithobates pipiens,Northern Leopard Frog,preysOn
+28365,69755,Haplotaxida,,preysOn
+28365,60340,Lithobates,American Water Frogs,preysOn
+28365,64968,Anaxyrus americanus,American Toad,preysOn
+28365,9100,Melospiza melodia,Song Sparrow,preysOn
+28365,21359,Bufonidae,True Toads,preysOn
+28365,65982,Lithobates clamitans,Green Frog,preysOn
+28365,64747,Anaxyrus,North American Toads,preysOn
+28365,,Ambystoma opacum,,preysOn
+28365,236998,Eurycea longicauda longicauda,Long-tailed Salamander,preysOn
+28365,,Anaxyrus fowleri,,preysOn
+28365,,Ambystoma jeffersonianum,,preysOn
+28365,27186,Plethodon cinereus,Eastern Red-backed Salamander,preysOn
+28365,,Eurycea bislineata,,preysOn
+28365,,Pseudotriton,,preysOn
+28365,,Plethodon glutinosus,,preysOn
+28365,,Plethodon albagula,,preysOn
+28365,,Hyla chrysoscelis,,preysOn
+28365,,Anaxyrus quercicus,,preysOn
+28365,,Lithobates palustris,,preysOn
+28365,27160,Plethodon mississippi,Mississippi Slimy Salamander,preysOn
+28365,,Podarcis siculus campestris,,preysOn
+28365,,Plethodon nettingi,,preysOn
+28365,,Desmognathus fuscus,,preysOn
+28365,,Anaxyrus americanus charlesmithi,,preysOn
+28365,,Incilius nebulifer,,preysOn
+28365,,Acris,,preysOn
+28365,,Ambystoma maculatum,,preysOn
+28365,,Pisanianura,,preysOn
+28365,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+28365,,Sistrurus catenatus,,preyedUponBy
+28365,27149,Coluber constrictor constrictor,Northern Black Racer,preyedUponBy

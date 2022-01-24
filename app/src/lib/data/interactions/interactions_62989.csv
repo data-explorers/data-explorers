@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+62989,43584,Homo sapiens,Human,eats
+62989,,Detritus,,eats
+62989,88028,Dorocordulia,Lesser Emerald Dragonflies,eatenBy
+62989,51556,Sympetrum,Meadowhawks,eatenBy
+62989,177589,Laccophilus,,eatenBy
+62989,52520,Aeshna,Hawkers and Typical Darners,eatenBy
+62989,47818,Libellula,Chasers and King Skimmers,eatenBy
+62989,81576,Belostoma,,eatenBy
+62989,47727,Acer,maples,eatenBy
+62989,3849,Calidris alba,Sanderling,eatenBy
+62989,47415,Pardosa,Thin-legged Wolf Spiders,eatenBy
+62989,61903,Xysticus,Ground Crab Spiders,eatenBy
+62989,,Lechriodus fletcheri,,eatenBy
+62989,878701,Anatopynia,,eatenBy
+62989,,Ilybius,,eatenBy
+62989,,Callicorixa,,eatenBy
+62989,,Desmopachria,,eatenBy
+62989,,Cordulia,,eatenBy
+62989,,Chaoborus,,eatenBy
+62989,,Laccornis,,eatenBy
+62989,,Dytiscus,,eatenBy
+62989,,Colymbetes,,eatenBy
+62989,,Leuccorhinia,,eatenBy
+62989,,Hygrotus,,eatenBy
+62989,176596,Oecetis,,eatenBy
+62989,177448,Limnephilus,,eatenBy
+62989,,Ranatra,,eatenBy
+62989,,Acilius,,eatenBy
+62989,,Mochlonyx,,eatenBy
+62989,84734,Agabus,,eatenBy
+62989,,Graphoderus,,eatenBy
+62989,,Rhantus,,eatenBy
+62989,,Liodessus,,eatenBy
+62989,,Gyrinus,,eatenBy
+62989,,Hydroporus,,eatenBy
+62989,56557,Notonecta,Milky Backswimmers,eatenBy
+62989,,Somatochlora,,eatenBy
+62989,173833,Dineutus,,eatenBy
+62989,51405,Elops saurus,Ladyfish,eatenBy
+62989,104824,Lucania parva,rainwater killifish,eatenBy
+62989,202430,Fundulus confluentus,Marsh Killifish,eatenBy
+62989,51402,Megalops atlanticus,Atlantic Tarpon,eatenBy
+62989,545699,Mormyrus rume,Senegal mormyrid,eatenBy
+62989,3857,Calidris alpina,Dunlin,eatenBy
+62989,,Xysticus labradorensis,,eatenBy
+62989,53453,Salix,Willows,pollinates
+62989,52972,Epilobium,willowherbs,pollinates
+62989,53186,Potentilla,cinquefoils,pollinates
+62989,47603,Taraxacum,dandelions,pollinates
+62989,60369,Pyrola,wintergreens,pollinates
+62989,180413,Rhododendron groenlandicum,Labrador tea,pollinates
+62989,49389,Stellaria,chickweeds,pollinates
+62989,,Platanthera flava,,pollinates
+62989,,Dryas integrifolia,,pollinates
+62989,,Pedicularis hirsuta,,pollinates
+62989,50074,Dryas,,pollinates
+62989,83541,Dryas octopetala,Mountain Avens,pollinates
+62989,,Erigeron compositus,,pollinates
+62989,,Salix arctica,,pollinates
+62989,,Saxifraga cernua,,pollinates
+62989,,Saxifraga oppositifolia,,pollinates
+62989,,Silene acaulis,,pollinates
+62989,,Bistorta vivipara,,pollinates
+62989,,Cerastium arcticum,,pollinates
+62989,,Chamerion latifolium,,pollinates
+62989,55434,Saxifraga,Saxifrages,pollinates
+62989,,Papaver radicatum,,pollinates
+62989,55824,Draba,Drabas,pollinates
+62989,168980,Silene sorensenis,Sorensen's Catchfly,pollinates
+62989,,Arenaria pseudofrigida,,pollinates
+62989,168335,Salix glauca,Gray Willow,pollinates
+62989,,Amia,,pollinates
+62989,,Saxifraga nivalis,,pollinates
+62989,,Potentilla rubricaulis,,pollinates
+62989,,Epilobium latifolium,,pollinates
+62989,47818,Libellula,Chasers and King Skimmers,preyedUponBy
+62989,177589,Laccophilus,,preyedUponBy
+62989,81576,Belostoma,,preyedUponBy
+62989,52520,Aeshna,Hawkers and Typical Darners,preyedUponBy
+62989,51556,Sympetrum,Meadowhawks,preyedUponBy
+62989,,Mochlonyx,,preyedUponBy
+62989,,Leuccorhinia,,preyedUponBy
+62989,177448,Limnephilus,,preyedUponBy
+62989,,Acilius,,preyedUponBy
+62989,,Rhantus,,preyedUponBy
+62989,,Laccornis,,preyedUponBy
+62989,,Gyrinus,,preyedUponBy
+62989,,Ranatra,,preyedUponBy
+62989,84734,Agabus,,preyedUponBy
+62989,,Chaoborus,,preyedUponBy
+62989,,Hygrotus,,preyedUponBy
+62989,,Colymbetes,,preyedUponBy
+62989,56557,Notonecta,Milky Backswimmers,preyedUponBy
+62989,,Cordulia,,preyedUponBy
+62989,,Graphoderus,,preyedUponBy
+62989,,Liodessus,,preyedUponBy
+62989,,Callicorixa,,preyedUponBy
+62989,176596,Oecetis,,preyedUponBy
+62989,,Hydroporus,,preyedUponBy
+62989,,Somatochlora,,preyedUponBy
+62989,40346,Myotis lucifugus,Little Brown Bat,preyedUponBy
+62989,298234,Frigga pratensis,,preyedUponBy

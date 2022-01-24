@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+48601,,Phytolac sp.,,eats
+48601,133797,Agapostemon texanus,Texas Striped Sweat Bee,eatenBy
+48601,14850,Sturnus vulgaris,European Starling,eatenBy
+48601,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+48601,9602,Quiscalus quiscula,Common Grackle,eatenBy
+48601,8021,Corvus brachyrhynchos,American Crow,eatenBy
+48601,,Colius striatus,,eatenBy
+48601,,Colius colius,,eatenBy
+48601,41110,Carollia perspicillata,Seba's Short-tailed Bat,eatenBy
+48601,43577,Pan troglodytes,Chimpanzee,eatenBy
+48601,,Cercopithecus ascanius,,eatenBy
+48601,43486,Cercopithecus mitis,Blue Monkey,eatenBy
+48601,,Lophocebus albigena,,eatenBy
+48601,15302,Sylvia borin,Garden Warbler,eatenBy
+48601,,Parapoynx obscuralis,,eatenBy
+48601,,Empidonax flaviventris,,eatenBy

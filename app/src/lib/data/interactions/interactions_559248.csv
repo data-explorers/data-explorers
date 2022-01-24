@@ -1,0 +1,5 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+559248,118552,Felis catus,Domestic Cat,eatenBy
+559248,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+559248,4672,Falco columbarius,Merlin,preyedUponBy
+559248,118552,Felis catus,Domestic Cat,preyedUponBy

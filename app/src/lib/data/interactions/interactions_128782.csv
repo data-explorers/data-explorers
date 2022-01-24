@@ -1,0 +1,13 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+128782,48921,Hydrozoa,Hydrozoans,eats
+128782,121643,Copepoda,Copepods,eats
+128782,195398,Agalmatidae,,eats
+128782,117709,Cydippida,Cydippids,eats
+128782,464893,Forskaliidae,,eats
+128782,153112,Euphausiacea,krill,eats
+128782,142105,Trachymedusae,,eats
+128782,195418,Aeginidae,,eats
+128782,195427,Cuninidae,,eats
+128782,51511,Beroidae,,eatenBy
+128782,195427,Cuninidae,,eatenBy
+128782,195418,Aeginidae,,eatenBy

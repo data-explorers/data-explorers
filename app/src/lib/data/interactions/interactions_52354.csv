@@ -1,0 +1,7 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+52354,,gastropods - pelecypods,,eats
+52354,,Chaoborus,,eats
+52354,,Daphnia pulex,,eats
+52354,26749,Ambystoma tigrinum,Tiger Salamander,eatenBy
+52354,,Desserobdella picta,,eatenBy
+52354,,Desserobdella picta,,preyedUponBy

@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+58603,79210,Stenotaphrum secundatum,Saint Augustine grass,eats
+58603,52720,Dactylis glomerata,orchard grass,eats
+58603,72375,Stenotaphrum,,eats
+58603,52721,Dactylis,cocks-foot and orchard grasses,eats
+58603,,Eremochloa ophiuroides,,eats
+58603,,Eremochloa,,eats
+58603,,http://treatment.plazi.org/id/784923922DC473201D83CF7B8F51B4BE,,eats

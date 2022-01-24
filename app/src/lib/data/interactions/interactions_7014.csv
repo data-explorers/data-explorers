@@ -1,0 +1,6 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7014,48571,Carex,true sedges,eats
+7014,211194,Tracheophyta,vascular plants,eats
+7014,,Vallisneria natans,,eats
+7014,,Potamogeton nodosus,,eats
+7014,41641,Ursus arctos,Brown Bear,eatenBy

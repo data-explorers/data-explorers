@@ -1,0 +1,24 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+117533,47126,Plantae,plants,eats
+117533,47115,Mollusca,Molluscs,eats
+117533,85493,Crustacea,Crustaceans,eats
+117533,47178,Actinopterygii,Ray-finned Fishes,eats
+117533,47186,Decapoda,Decapods,eats
+117533,47628,Amphipoda,Amphipods,eats
+117533,47114,Gastropoda,Gastropods,eats
+117533,48147,Isopoda,Isopods,eats
+117533,47490,Polychaeta,Polychaete Worms,eats
+117533,1,Animalia,Animals,eats
+117533,47825,Pycnogonida,Pycnogonids,eats
+117533,53750,Lottia gigantea,Owl Limpet,eats
+117533,,Macroalgae,,eats
+117533,,Gnathostomata,,eats
+117533,,,,eats
+117533,,Collisella scabra,,eats
+117533,,Pugettia gracilis,,eats
+117533,,Betaeus harfordi,,eats
+117533,4956,Ardea herodias,Great Blue Heron,eatenBy
+117533,53750,Lottia gigantea,Owl Limpet,preysOn
+117533,,Collisella scabra,,preysOn
+117533,4209,Podiceps auritus,Horned Grebe,preyedUponBy
+117533,,no name,,preyedUponBy

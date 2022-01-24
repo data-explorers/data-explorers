@@ -1,0 +1,102 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60218,60218,Ficus carica,common fig,eats
+60218,124184,Plodia interpunctella,Indian-Meal Moth,eatenBy
+60218,61503,Ascalapha odorata,Black Witch,eatenBy
+60218,13858,Passer domesticus,House Sparrow,eatenBy
+60218,42069,Vulpes vulpes,Red Fox,eatenBy
+60218,14850,Sturnus vulgaris,European Starling,eatenBy
+60218,1965,Coccyzus americanus,Yellow-billed Cuckoo,eatenBy
+60218,9915,Piranga rubra,Summer Tanager,eatenBy
+60218,12580,Prosthemadera novaeseelandiae,Tūī,eatenBy
+60218,68165,Linepithema humile,Argentine Ant,eatenBy
+60218,42051,Canis latrans,Coyote,eatenBy
+60218,42220,Odocoileus hemionus,Mule Deer,eatenBy
+60218,57665,Cotinis mutabilis,Figeater Beetle,eatenBy
+60218,199840,Haemorhous mexicanus,House Finch,eatenBy
+60218,48484,Harmonia axyridis,Asian Lady Beetle,eatenBy
+60218,141725,Nezara viridula,Southern Green Stink Bug,eatenBy
+60218,49133,Vanessa atalanta,Red Admiral,eatenBy
+60218,9319,Icterus cucullatus,Hooded Oriole,eatenBy
+60218,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+60218,60218,Ficus carica,common fig,eatenBy
+60218,196983,Perina nuda,Banyan tussock moth,eatenBy
+60218,,Trilocha varians,,eatenBy
+60218,,Lepidosaphes,,eatenBy
+60218,,Zeuzera pyrina,,eatenBy
+60218,,Philiris innotata,,eatenBy
+60218,,Morganella longispina,,eatenBy
+60218,,Lampromicra senator,,eatenBy
+60218,,Howardia biclavis,,eatenBy
+60218,,Hemiberlesia rapax,,eatenBy
+60218,330222,Hemiberlesia lataniae,Latania scale,eatenBy
+60218,,Dindymus versicolor,,eatenBy
+60218,,Hemiberlesia loranthi,,eatenBy
+60218,,Clavaspis herculeana,,eatenBy
+60218,,Appolonius robustus,,eatenBy
+60218,,Aonidiella aurantii,,eatenBy
+60218,,Amblypelta lutescens,,eatenBy
+60218,143834,Pachylia ficus,Fig Sphinx,eatenBy
+60218,324816,Glyphodes sibillalis,Mulberry Leaftier,eatenBy
+60218,,Azochis gripusalis,,eatenBy
+60218,233590,Vitula edmandsii,Dried Fruit Moth,eatenBy
+60218,,Cadra figulilella,,eatenBy
+60218,,Marpesia petreus,,eatenBy
+60218,,Stathmopoda sycastis,,eatenBy
+60218,548953,Cryptoblabes gnidiella,,eatenBy
+60218,,Scoliopteryx libatrix,,eatenBy
+60218,,Asota plaginota,,eatenBy
+60218,,Tortyra fulgens,,eatenBy
+60218,1292389,Parasa lepida,,eatenBy
+60218,843559,Lymire albipennis,,eatenBy
+60218,,Delphyre rufiventris,,eatenBy
+60218,,Phoenicurus phoenicurus,,eatenBy
+60218,,Sylvia communis,,eatenBy
+60218,,Emberiza,,eatenBy
+60218,12716,Turdus merula,Eurasian Blackbird,eatenBy
+60218,14849,Sturnus unicolor,Spotless Starling,eatenBy
+60218,,Cyanistes caeruleus,,eatenBy
+60218,,Phylloscopus bonelli,,eatenBy
+60218,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+60218,,Sylvia cantillans,,eatenBy
+60218,,Sylvia melanocephala,,eatenBy
+60218,13094,Erithacus rubecula,European Robin,eatenBy
+60218,10070,Fringilla coelebs,Common Chaffinch,eatenBy
+60218,,Phylloscopus trochilus,,eatenBy
+60218,,Ficedula hypoleuca,,eatenBy
+60218,15302,Sylvia borin,Garden Warbler,eatenBy
+60218,,Cettia cetti,,eatenBy
+60218,,Cyanopica cooki,,eatenBy
+60218,,Oriolus oriolus,,eatenBy
+60218,855297,Meles meles,European Badger,eatenBy
+60218,15303,Sylvia undata,Dartford Warbler,eatenBy
+60218,925661,Genetta genetta,Northern Small-spotted Genet,eatenBy
+60218,,Sylvia,,eatenBy
+60218,43042,Erinaceus europaeus,Common Hedgehog,eatenBy
+60218,41800,Martes foina,Stone Marten,eatenBy
+60218,,Luscinia megarhynchos,,eatenBy
+60218,891696,Pica pica,Eurasian Magpie,eatenBy
+60218,55371,Saxicola torquatus,African Stonechat,eatenBy
+60218,12748,Turdus philomelos,Song Thrush,eatenBy
+60218,,Phoenicurus ochruros,,eatenBy
+60218,13141,Monticola solitarius,Blue Rock-Thrush,eatenBy
+60218,,Setophaga striata,,eatenBy
+60218,,Turdus iliacus,,eatenBy
+60218,,Hylobates syndactylus,,eatenBy
+60218,,Presbytis melalophos,,eatenBy
+60218,,Hylobates agilis,,eatenBy
+60218,,Chironax melanocephalus,,eatenBy
+60218,40848,Rousettus amplexicaudatus,Geoffroy's Rousette,eatenBy
+60218,,Cynopterus horsfieldii,,eatenBy
+60218,,Megaerops wetmorei,,eatenBy
+60218,,Megaerops ecaudatus,,eatenBy
+60218,40793,Cynopterus brachyotis,Lesser Short-nosed Fruit Bat,eatenBy
+60218,,Balionycteris maculata,,eatenBy
+60218,,Eonycteris spelaea,,eatenBy
+60218,,Dyacopterus spadiceus,,eatenBy
+60218,41796,Martes martes,Eurasian Pine Marten,eatenBy
+60218,42134,Sus scrofa,Wild Boar,eatenBy
+60218,41900,Herpestes ichneumon,Ichneumon,eatenBy
+60218,,Emesis mandana,,eatenBy
+60218,466042,Marpesia eleuchea,Caribbean Daggerwing,eatenBy
+60218,,Lycorea ilione,,eatenBy
+60218,,Cyrestis thyodamas,,eatenBy

@@ -1,0 +1,14 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+486999,85493,Crustacea,Crustaceans,eats
+486999,67333,Bacteria,bacteria,eats
+486999,47490,Polychaeta,Polychaete Worms,eats
+486999,68764,Ostracoda,Seed Shrimp,eats
+486999,1,Animalia,Animals,eats
+486999,121643,Copepoda,Copepods,eats
+486999,,Detritus,,eats
+486999,,Protista,,eats
+486999,,others,,eats
+486999,47258,Thyrsites atun,Barracouta,eatenBy
+486999,620519,Sebastes capensis,false jacobever,eatenBy
+486999,432457,Illex argentinus,Argentine Shortfin Squid,eatenBy
+486999,3808,Pygoscelis papua,Gentoo Penguin,eatenBy

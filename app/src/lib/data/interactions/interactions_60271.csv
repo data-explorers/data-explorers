@@ -1,0 +1,40 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+60271,60839,Spilosoma virginica,Virginian Tiger Moth,eatenBy
+60271,202789,Trichoplusia ni,Cabbage Looper Moth,eatenBy
+60271,179339,Peridroma saucia,Variegated Cutworm Moth,eatenBy
+60271,231425,Spodoptera exigua,Beet Armyworm Moth,eatenBy
+60271,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+60271,,Euxoa scandens,,eatenBy
+60271,,Euxoa ochrogaster,,eatenBy
+60271,,Sesamia nonagrioides,,eatenBy
+60271,226714,Otiorhynchus ligustici,,eatenBy
+60271,,Brachycorynella asparagi,,eatenBy
+60271,,Diabrotica balteata,,eatenBy
+60271,,Hyles livornica,,eatenBy
+60271,,Ercheia cyllaria,,eatenBy
+60271,,Lacanobia oleracea,,eatenBy
+60271,319665,Metachrostis,,eatenBy
+60271,,Hepialus humuli,,eatenBy
+60271,,Anacamptodes humaria,,eatenBy
+60271,,Eogystia sibirica,,eatenBy
+60271,14849,Sturnus unicolor,Spotless Starling,eatenBy
+60271,,Sylvia communis,,eatenBy
+60271,,Setophaga striata,,eatenBy
+60271,15302,Sylvia borin,Garden Warbler,eatenBy
+60271,12748,Turdus philomelos,Song Thrush,eatenBy
+60271,,Ficedula hypoleuca,,eatenBy
+60271,12716,Turdus merula,Eurasian Blackbird,eatenBy
+60271,15282,Sylvia atricapilla,Eurasian Blackcap,eatenBy
+60271,,Phoenicurus phoenicurus,,eatenBy
+60271,13094,Erithacus rubecula,European Robin,eatenBy
+60271,,Sylvia,,eatenBy
+60271,,Luscinia megarhynchos,,eatenBy
+60271,,Sylvia cantillans,,eatenBy
+60271,55371,Saxicola torquatus,African Stonechat,eatenBy
+60271,15303,Sylvia undata,Dartford Warbler,eatenBy
+60271,,Sylvia melanocephala,,eatenBy
+60271,,Cyanopica cooki,,eatenBy
+60271,14588,Pycnonotus barbatus,Common Bulbul,eatenBy
+60271,,Crioceris duodecimpunctata,,eatenBy
+60271,,Crioceris asparagi,,eatenBy
+60271,,Ammophila sabulosa,,pollinatedBy

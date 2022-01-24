@@ -1,0 +1,49 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47272,342912,Caridea,Caridean Shrimps,eats
+47272,88563,Gobius,,eats
+47272,47272,Rajiformes,Skates,eats
+47272,47114,Gastropoda,Gastropods,eats
+47272,54661,Mugilidae,Mullets,eats
+47272,47490,Polychaeta,Polychaete Worms,eats
+47272,49506,Portunidae,Swimming Crabs,eats
+47272,47584,Bivalvia,Bivalves,eats
+47272,47120,Arthropoda,Arthropods,eats
+47272,47190,Grapsidae,Shore Crabs,eats
+47272,,Batrachoididae,,eats
+47272,94904,Auchenoglanis biscutatus,,eats
+47272,,Wigeongrass,,eats
+47272,,Pleuronectiformes,,eats
+47272,91189,Poecilia,Mollies,eats
+47272,,Fat Sleepers,,eats
+47272,,Sea,,eats
+47272,117593,Urechis,Innkeeper Worms,eats
+47272,47272,Rajiformes,Skates,eatenBy
+47272,43584,Homo sapiens,Human,eatenBy
+47272,,Chondrichthyes,,eatenBy
+47272,194675,Lophius americanus,American Monkfish,eatenBy
+47272,100110,Epinephelus itajara,Atlantic Goliath Grouper,eatenBy
+47272,63740,Gadus morhua,Atlantic Cod,eatenBy
+47272,,porpoise shark,,eatenBy
+47272,56766,Sphyrna mokarran,Great Hammerhead,eatenBy
+47272,47178,Actinopterygii,Ray-finned Fishes,preysOn
+47272,47490,Polychaeta,Polychaete Worms,preysOn
+47272,85493,Crustacea,Crustaceans,preysOn
+47272,47272,Rajiformes,Skates,preysOn
+47272,88563,Gobius,,preysOn
+47272,49506,Portunidae,Swimming Crabs,preysOn
+47272,47584,Bivalvia,Bivalves,preysOn
+47272,342912,Caridea,Caridean Shrimps,preysOn
+47272,47114,Gastropoda,Gastropods,preysOn
+47272,54661,Mugilidae,Mullets,preysOn
+47272,,megabenthos,,preysOn
+47272,,macrobenthos,,preysOn
+47272,,pelagic invertebrates (inc squid),,preysOn
+47272,,Batrachoididae,,preysOn
+47272,94904,Auchenoglanis biscutatus,,preysOn
+47272,91189,Poecilia,Mollies,preysOn
+47272,,Sea,,preysOn
+47272,,Pleuronectiformes,,preysOn
+47272,,Wigeongrass,,preysOn
+47272,,Fat Sleepers,,preysOn
+47272,47272,Rajiformes,Skates,preyedUponBy
+47272,,porpoise shark,,preyedUponBy

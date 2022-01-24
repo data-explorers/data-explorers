@@ -1,0 +1,25 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+120583,47416,Lycosidae,Wolf Spiders,eats
+120583,126267,Coleomegilla maculata,Spotted Pink Ladybeetle,eats
+120583,,Anolis carolinensis,,eats
+120583,13270,Hylocichla mustelina,Wood Thrush,eatenBy
+120583,,Empidonax virescens,,eatenBy
+120583,47367,Opiliones,Harvestmen,preysOn
+120583,84718,Oniscidea,"Woodlice, Pillbugs, and Rock Slaters",preysOn
+120583,118903,Termitoidae,Termites,preysOn
+120583,120474,Araneomorphae,Typical Spiders,preysOn
+120583,71034,Tenodera sinensis,Chinese Mantis,preysOn
+120583,,Anolis carolinensis,,preysOn
+120583,,Acanalonia conica,,preysOn
+120583,321869,Odontomachus erythrocephalus,,preysOn
+120583,,Odontomaches,,preysOn
+120583,,Gonyleptidae,,preysOn
+120583,,Ponerinae,,preysOn
+120583,,Pseudoedophrys hilleri,,preysOn
+120583,,Blaberoidea,,preysOn
+120583,68492,Hemidactylus mabouia,Tropical House Gecko,preysOn
+120583,324726,Lycorma delicatula,Spotted Lanternfly,preysOn
+120583,,Megalodacne fasciata,,preysOn
+120583,407382,Stenolemus fraterculus,,preyedUponBy
+120583,324726,Lycorma delicatula,Spotted Lanternfly,preyedUponBy
+120583,48957,Arilus cristatus,Wheel Bug,preyedUponBy

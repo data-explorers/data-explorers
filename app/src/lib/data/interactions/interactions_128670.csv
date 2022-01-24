@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+128670,49487,Rhododendron,rhododendrons and azaleas,eats
+128670,51723,Baptisia,Wild Indigos,eats
+128670,51876,Trifolium,clovers,eats
+128670,52472,Vicia,Vetches,eats
+128670,85320,Monarda fistulosa,wild bergamot,eats
+128670,48367,Penstemon,beardtongues,eats
+128670,48628,Echinacea,coneflowers,eats
+128670,47888,Impatiens capensis,common jewelweed,eats
+128670,52914,Cichorium,chicories and endives,eats
+128670,48561,Cirsium,thistles,eats
+128670,53113,Brassica,cabbages and mustards,eats
+128670,48160,Centaurea,knapweeds,eats
+128670,59029,Verbascum thapsus,great mullein,eats
+128670,52736,Monarda,beebalms and bergamots,eats
+128670,51875,Trifolium pratense,red clover,eats
+128670,52635,Agastache,Hyssop,eats
+128670,85380,Eutrochium,Joe-Pye weeds,eats
+128670,47435,Lotus corniculatus,bird's-foot trefoil,eats
+128670,62207,Oenothera biennis,common evening-primrose,eats
+128670,,Pedicularis,,eats
+128670,,Vicia cracca,,eats
+128670,,Tithonia rotundifolia,,eats
+128670,,Elaeagnus umbellata,,eats
+128670,,Mertensia,,eats
+128670,48039,Lobelia,Lobelias,eats
+128670,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+128670,76214,Centaurea stoebe,spotted knapweed,pollinates
+128670,47192,Cornus canadensis,Canadian bunchberry,pollinates
+128670,128670,Bombus vagans,Half-black Bumble Bee,pollinates
+128670,,Bombus ternarius,,pollinates
+128670,52775,Bombus,Bumble Bees,pollinatedBy
+128670,128670,Bombus vagans,Half-black Bumble Bee,pollinatedBy
+128670,,Bombus ternarius,,pollinatedBy
+128670,55746,Misumena vatia,Goldenrod Crab Spider,preyedUponBy
+128670,129662,Mecaphesa,,preyedUponBy

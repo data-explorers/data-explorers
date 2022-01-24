@@ -1,0 +1,8 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+61610,128824,Lucilia sericata,Common European Greenbottle Fly,eats
+61610,132088,Cuerna,,eats
+61610,,Triorla interrupta,,eatenBy
+61610,47208,Coleoptera,Beetles,preysOn
+61610,47822,Diptera,Flies,preysOn
+61610,47219,Apis mellifera,Western Honey Bee,preysOn
+61610,68230,Brachymesia gravida,Four-spotted Pennant,preysOn

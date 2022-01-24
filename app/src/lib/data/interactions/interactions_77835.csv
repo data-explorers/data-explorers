@@ -1,0 +1,56 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+77835,77835,Lonicera japonica,Japanese honeysuckle,eats
+77835,199841,Haemorhous purpureus,Purple Finch,eatenBy
+77835,14850,Sturnus vulgaris,European Starling,eatenBy
+77835,9184,Zonotrichia albicollis,White-throated Sparrow,eatenBy
+77835,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+77835,145245,Setophaga coronata,Yellow-rumped Warbler,eatenBy
+77835,14886,Mimus polyglottos,Northern Mockingbird,eatenBy
+77835,18236,Colaptes auratus,Northern Flicker,eatenBy
+77835,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+77835,144815,Poecile atricapillus,Black-capped Chickadee,eatenBy
+77835,10094,Junco hyemalis,Dark-eyed Junco,eatenBy
+77835,9424,Pipilo erythrophthalmus,Eastern Towhee,eatenBy
+77835,9602,Quiscalus quiscula,Common Grackle,eatenBy
+77835,12890,Catharus guttatus,Hermit Thrush,eatenBy
+77835,3454,Zenaida macroura,Mourning Dove,eatenBy
+77835,12727,Turdus migratorius,American Robin,eatenBy
+77835,891704,Vireo olivaceus,Red-eyed Vireo,eatenBy
+77835,58578,Euphydryas phaeton,Baltimore Checkerspot,eatenBy
+77835,47219,Apis mellifera,Western Honey Bee,eatenBy
+77835,70000,Xylocopa tabaniformis orpifex,Foothill Carpenter Bee,eatenBy
+77835,6317,Calypte anna,Anna's Hummingbird,eatenBy
+77835,124420,Bombus californicus,California Bumble Bee,eatenBy
+77835,338310,Allograpta exotica,Exotic Streaktail,eatenBy
+77835,77835,Lonicera japonica,Japanese honeysuckle,eatenBy
+77835,890,Bonasa umbellus,Ruffed Grouse,eatenBy
+77835,,Limenitis camilla,,eatenBy
+77835,,Limenitis glorifica,,eatenBy
+77835,,Shirozua jonasi,,eatenBy
+77835,,Picoides pubescens,,eatenBy
+77835,,Euphagus carolinus,,eatenBy
+77835,13632,Baeolophus bicolor,Tufted Titmouse,eatenBy
+77835,,Picoides villosus,,eatenBy
+77835,18205,Melanerpes carolinus,Red-bellied Woodpecker,eatenBy
+77835,12716,Turdus merula,Eurasian Blackbird,eatenBy
+77835,,Limenitis sydyi,,eatenBy
+77835,12612,Anthornis melanura,New Zealand Bellbird,eatenBy
+77835,202505,Zosterops lateralis,Silvereye,eatenBy
+77835,12748,Turdus philomelos,Song Thrush,eatenBy
+77835,57516,Bombus terrestris,Buff-tailed Bumble Bee,eatenBy
+77835,,Myathropa florea,,eatenBy
+77835,,Archilochus colubris,,eatenBy
+77835,49972,Battus philenor,Pipevine Swallowtail,eatenBy
+77835,,Whitebreadia,,eatenBy
+77835,,Heterolocha jinyinhuaphaga,,eatenBy
+77835,,Swezeyula lonicerae,,eatenBy
+77835,,Ectropis excellens,,eatenBy
+77835,,Heterolocha aristonaria,,eatenBy
+77835,,Limenitis sulpitia,,eatenBy
+77835,,Lobesia coccophaga,,eatenBy
+77835,,Bonagota cranaodes,,eatenBy
+77835,,Callosciurus erythraeus,,eatenBy
+77835,57678,Lasioglossum,,pollinatedBy
+77835,,Bombus lucorum,,pollinatedBy
+77835,52005,Theretra,Hunter Hawkmoths,pollinatedBy
+77835,,Tetralonia,,pollinatedBy

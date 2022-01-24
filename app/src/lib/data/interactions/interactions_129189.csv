@@ -1,0 +1,57 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+129189,60202,Myriophyllum aquaticum,Parrot's feather,eats
+129189,67333,Bacteria,bacteria,eats
+129189,,Detritus,,eats
+129189,,Sphagnum aciphyllum,,eats
+129189,,Opalina,,eats
+129189,,Gregarinidae,,eats
+129189,,benthic microalgae/periphyton,,eats
+129189,,Nyctotherus,,eats
+129189,81576,Belostoma,,eatenBy
+129189,473,Fulica americana,American Coot,eatenBy
+129189,133623,Tropisternus,,eatenBy
+129189,27818,Taricha torosa,California Newt,eatenBy
+129189,52864,Tramea,Saddlebag Gliders,eatenBy
+129189,67731,Anax junius,Common Green Darner,eatenBy
+129189,64970,Anaxyrus boreas,Western Toad,eatenBy
+129189,6930,Anas platyrhynchos,Mallard,eatenBy
+129189,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+129189,,Percichthys trucha,,eatenBy
+129189,,Notropis heterodon,,eatenBy
+129189,84432,Morone americana,White Perch,eatenBy
+129189,,Herichthys minckleyi,,eatenBy
+129189,,Catostomus catostomus,,eatenBy
+129189,104813,Lota lota,Burbot,eatenBy
+129189,,Pimephales promelas,,eatenBy
+129189,,Lestes,,eatenBy
+129189,,Erpobdella,,eatenBy
+129189,,Hesperocorixa,,eatenBy
+129189,56557,Notonecta,Milky Backswimmers,eatenBy
+129189,,Corynosoma constrictum,,eatenBy
+129189,,Macrocyclops,,eatenBy
+129189,51679,Coenagrion,Northern Bluets,eatenBy
+129189,,Lethocerus americanus,,eatenBy
+129189,67016,Rana draytonii,California Red-legged Frog,eatenBy
+129189,6924,Anas rubripes,American Black Duck,eatenBy
+129189,7054,Aythya affinis,Lesser Scaup,eatenBy
+129189,67333,Bacteria,bacteria,preysOn
+129189,,Opalina,,preysOn
+129189,,Nyctotherus,,preysOn
+129189,,Gregarinidae,,preysOn
+129189,,benthic microalgae/periphyton,,preysOn
+129189,52864,Tramea,Saddlebag Gliders,preyedUponBy
+129189,133623,Tropisternus,,preyedUponBy
+129189,27818,Taricha torosa,California Newt,preyedUponBy
+129189,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+129189,473,Fulica americana,American Coot,preyedUponBy
+129189,81576,Belostoma,,preyedUponBy
+129189,67731,Anax junius,Common Green Darner,preyedUponBy
+129189,,Hesperocorixa,,preyedUponBy
+129189,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+129189,,Letherocerus americanus,,preyedUponBy
+129189,56557,Notonecta,Milky Backswimmers,preyedUponBy
+129189,51679,Coenagrion,Northern Bluets,preyedUponBy
+129189,,Macrocyclops,,preyedUponBy
+129189,,Erpobdella,,preyedUponBy
+129189,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+129189,,Lestes,,preyedUponBy

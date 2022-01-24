@@ -1,0 +1,47 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+29044,43698,Rodentia,Rodents,eats
+29044,,Sitta pygmaea,,eats
+29044,,Dipodomys,,eats
+29044,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+29044,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+29044,42051,Canis latrans,Coyote,eatenBy
+29044,336654,Buteo jamaicensis calurus,Western Red-tailed Hawk,eatenBy
+29044,146199,Lampropeltis californiae,California King Snake,eatenBy
+29044,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+29044,8010,Corvus corax,Common Raven,eatenBy
+29044,20044,Bubo virginianus,Great Horned Owl,eatenBy
+29044,,Buteo lineatus elegans,,eatenBy
+29044,,Coluber constrictor,,eatenBy
+29044,,Aquila chrysaetos,,eatenBy
+29044,5196,Buteo swainsoni,Swainson's Hawk,eatenBy
+29044,5181,Buteo regalis,Ferruginous Hawk,eatenBy
+29044,4644,Falco mexicanus,Prairie Falcon,eatenBy
+29044,3,Aves,Birds,preysOn
+29044,7251,Passeriformes,Perching Birds,preysOn
+29044,44062,Thomomys bottae,Botta's Pocket Gopher,preysOn
+29044,36094,Uta stansburiana,Common Side-blotched Lizard,preysOn
+29044,41871,Mephitidae,Skunks and Stink-badgers,preysOn
+29044,45763,Ondatra zibethicus,Muskrat,preysOn
+29044,44396,Peromyscus maniculatus,Deer Mouse,preysOn
+29044,16791,Tyrannus verticalis,Western Kingbird,preysOn
+29044,1965,Coccyzus americanus,Yellow-billed Cuckoo,preysOn
+29044,,Ammospermophilus nelsoni,,preysOn
+29044,1280,Colinus virginianus,Northern Bobwhite,preysOn
+29044,12024,Lanius ludovicianus,Loggerhead Shrike,preysOn
+29044,,Junco hyemalis oreganus,,preysOn
+29044,,Dipodomys ingens,,preysOn
+29044,,Tamias dorsalis,,preysOn
+29044,44124,Dipodomys ordii,Ord's Kangaroo Rat,preysOn
+29044,,Urocitellus townsendii,,preysOn
+29044,19975,Athene cunicularia,Burrowing Owl,preysOn
+29044,,Microtus montanus,,preysOn
+29044,,Perognathus parvus,,preysOn
+29044,43109,Sylvilagus nuttallii,Mountain Cottontail,preysOn
+29044,44705,Mus musculus,House Mouse,preysOn
+29044,,Microtus longicaudus,,preysOn
+29044,,Tympanuchus cupido,,preysOn
+29044,146199,Lampropeltis californiae,California King Snake,preyedUponBy
+29044,42076,Urocyon cinereoargenteus,Gray Fox,preyedUponBy
+29044,42051,Canis latrans,Coyote,preyedUponBy
+29044,,Coluber flagellum,,preyedUponBy
+29044,,Coluber taeniatus,,preyedUponBy

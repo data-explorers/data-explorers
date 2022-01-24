@@ -1,0 +1,186 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+67731,53275,Chironomidae,Non-biting Midges,eats
+67731,67731,Anax junius,Common Green Darner,eats
+67731,129189,Hyalella,,eats
+67731,133623,Tropisternus,,eats
+67731,54960,Nematoda,Nematodes,eats
+67731,174572,Callibaetis,Speckled Duns,eats
+67731,81576,Belostoma,,eats
+67731,52864,Tramea,Saddlebag Gliders,eats
+67731,84670,Ephydridae,Shore Flies,eats
+67731,59653,Gerridae,Water Striders,eats
+67731,27818,Taricha torosa,California Newt,eats
+67731,64970,Anaxyrus boreas,Western Toad,eats
+67731,133821,Physa,,eats
+67731,68138,Sympetrum corruptum,Variegated Meadowhawk,eats
+67731,52520,Aeshna,Hawkers and Typical Darners,eats
+67731,108344,Pantala flavescens,Wandering Glider,eats
+67731,59774,Pachydiplax longipennis,Blue Dasher,eats
+67731,,Anaxyrus terrestris,,eats
+67731,123594,Anaxyrus americanus americanus,Eastern American Toad,eats
+67731,69803,Ceratopogonidae,Biting Midges,eats
+67731,,Halipegus,,eats
+67731,,Megalodiscus,,eats
+67731,171609,Simocephalus,,eats
+67731,,Echinostoma,,eats
+67731,,Dero,,eats
+67731,,Diaptomidae,,eats
+67731,,Opalina,,eats
+67731,,Hesperocorixa,,eats
+67731,,Ribeiroia ondatrae,,eats
+67731,177749,Hydrophilus,Giant Water Scavenger Beetles,eats
+67731,,Echinostoma trivolvis,,eats
+67731,,Planorbella,,eats
+67731,,Cephalogonimus americanus,,eats
+67731,177989,Haliplus,,eats
+67731,51679,Coenagrion,Northern Bluets,eats
+67731,67016,Rana draytonii,California Red-legged Frog,eats
+67731,,Lethocerus americanus,,eats
+67731,124813,Alaria,,eats
+67731,121463,Arrenurus,Water Mites,eats
+67731,56557,Notonecta,Milky Backswimmers,eats
+67731,,meiofauna,,eats
+67731,,Nyctotherus,,eats
+67731,,Tubificidae,,eats
+67731,,Adonisea,,eats
+67731,24259,Pseudacris regilla,Northern Pacific Tree Frog,eats
+67731,,Lestes,,eats
+67731,,Batrachochytrium dendrobatidis,,eats
+67731,,Gregarinidae,,eats
+67731,68304,Cyzicus californicus,California Clam Shrimp,eats
+67731,,Erpobdella,,eats
+67731,,Corynosoma constrictum,,eats
+67731,,Chaetogaster,,eats
+67731,,Macrocyclops,,eats
+67731,,Daubaylia,,eats
+67731,,Zooplankton,,eats
+67731,,Aeshna constricta,,eats
+67731,100215,Epitheca princeps,Prince Baskettail,eats
+67731,61495,Erythemis simplicicollis,Eastern Pondhawk,eats
+67731,27818,Taricha torosa,California Newt,eatenBy
+67731,9744,Agelaius phoeniceus,Red-winged Blackbird,eatenBy
+67731,64970,Anaxyrus boreas,Western Toad,eatenBy
+67731,52864,Tramea,Saddlebag Gliders,eatenBy
+67731,81576,Belostoma,,eatenBy
+67731,4956,Ardea herodias,Great Blue Heron,eatenBy
+67731,473,Fulica americana,American Coot,eatenBy
+67731,67731,Anax junius,Common Green Darner,eatenBy
+67731,133623,Tropisternus,,eatenBy
+67731,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+67731,11935,Tachycineta bicolor,Tree Swallow,eatenBy
+67731,11901,Hirundo rustica,Barn Swallow,eatenBy
+67731,4665,Falco sparverius,American Kestrel,eatenBy
+67731,4672,Falco columbarius,Merlin,eatenBy
+67731,16779,Tyrannus vociferans,Cassin's Kingbird,eatenBy
+67731,5020,Butorides virescens,Green Heron,eatenBy
+67731,16782,Tyrannus tyrannus,Eastern Kingbird,eatenBy
+67731,4940,Egretta thula,Snowy Egret,eatenBy
+67731,56557,Notonecta,Milky Backswimmers,eatenBy
+67731,,Gregarinidae,,eatenBy
+67731,,Halipegus,,eatenBy
+67731,,Lethocerus americanus,,eatenBy
+67731,177749,Hydrophilus,Giant Water Scavenger Beetles,eatenBy
+67731,51679,Coenagrion,Northern Bluets,eatenBy
+67731,121463,Arrenurus,Water Mites,eatenBy
+67731,67016,Rana draytonii,California Red-legged Frog,eatenBy
+67731,24259,Pseudacris regilla,Northern Pacific Tree Frog,eatenBy
+67731,,Lestes,,eatenBy
+67731,,Camponotus floridanus,,eatenBy
+67731,4937,Egretta caerulea,Little Blue Heron,eatenBy
+67731,,Trichonephila clavipes,,eatenBy
+67731,53275,Chironomidae,Non-biting Midges,preysOn
+67731,59653,Gerridae,Water Striders,preysOn
+67731,174572,Callibaetis,Speckled Duns,preysOn
+67731,129189,Hyalella,,preysOn
+67731,84670,Ephydridae,Shore Flies,preysOn
+67731,27818,Taricha torosa,California Newt,preysOn
+67731,52864,Tramea,Saddlebag Gliders,preysOn
+67731,67731,Anax junius,Common Green Darner,preysOn
+67731,133623,Tropisternus,,preysOn
+67731,133821,Physa,,preysOn
+67731,81576,Belostoma,,preysOn
+67731,64970,Anaxyrus boreas,Western Toad,preysOn
+67731,48662,Danaus plexippus,Monarch,preysOn
+67731,59774,Pachydiplax longipennis,Blue Dasher,preysOn
+67731,52865,Tramea lacerata,Black Saddlebags,preysOn
+67731,108344,Pantala flavescens,Wandering Glider,preysOn
+67731,67737,Rhionaeschna multicolor,Blue-eyed Darner,preysOn
+67731,68138,Sympetrum corruptum,Variegated Meadowhawk,preysOn
+67731,52584,Pantala hymenaea,Spot-winged Glider,preysOn
+67731,47819,Libellulidae,Skimmers,preysOn
+67731,69803,Ceratopogonidae,Biting Midges,preysOn
+67731,51679,Coenagrion,Northern Bluets,preysOn
+67731,,Ribeiroia ondatrae,,preysOn
+67731,,Chaetogaster,,preysOn
+67731,,Megalodiscus,,preysOn
+67731,,Pseudiacris regilla,,preysOn
+67731,,Tubificidae,,preysOn
+67731,177749,Hydrophilus,Giant Water Scavenger Beetles,preysOn
+67731,,Halipegus,,preysOn
+67731,,Echinostoma trivolvis,,preysOn
+67731,56557,Notonecta,Milky Backswimmers,preysOn
+67731,,Echinostoma,,preysOn
+67731,,Lestes,,preysOn
+67731,124813,Alaria,,preysOn
+67731,,meiofauna,,preysOn
+67731,,Hesperocorixa,,preysOn
+67731,177989,Haliplus,,preysOn
+67731,,Cephalogonimus americanus,,preysOn
+67731,171609,Simocephalus,,preysOn
+67731,,Zooplankton,,preysOn
+67731,,Macrocyclops,,preysOn
+67731,148201,Helisoma,,preysOn
+67731,,Letherocerus americanus,,preysOn
+67731,67016,Rana draytonii,California Red-legged Frog,preysOn
+67731,,Dero,,preysOn
+67731,,Erpobdella,,preysOn
+67731,,Diaptomidae,,preysOn
+67731,68304,Cyzicus californicus,California Clam Shrimp,preysOn
+67731,100215,Epitheca princeps,Prince Baskettail,preysOn
+67731,61495,Erythemis simplicicollis,Eastern Pondhawk,preysOn
+67731,68233,Orthemis ferruginea,Roseate Skimmer,preysOn
+67731,,Anax amazili,,preysOn
+67731,84549,Plathemis lydia,Common Whitetail,preysOn
+67731,133623,Tropisternus,,preyedUponBy
+67731,27818,Taricha torosa,California Newt,preyedUponBy
+67731,67731,Anax junius,Common Green Darner,preyedUponBy
+67731,81576,Belostoma,,preyedUponBy
+67731,64970,Anaxyrus boreas,Western Toad,preyedUponBy
+67731,473,Fulica americana,American Coot,preyedUponBy
+67731,52864,Tramea,Saddlebag Gliders,preyedUponBy
+67731,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+67731,9744,Agelaius phoeniceus,Red-winged Blackbird,preyedUponBy
+67731,11901,Hirundo rustica,Barn Swallow,preyedUponBy
+67731,11935,Tachycineta bicolor,Tree Swallow,preyedUponBy
+67731,4956,Ardea herodias,Great Blue Heron,preyedUponBy
+67731,73155,Passerina caerulea,Blue Grosbeak,preyedUponBy
+67731,558446,Circus hudsonius,Northern Harrier,preyedUponBy
+67731,51271,Trachemys scripta elegans,Red-eared Slider,preyedUponBy
+67731,4940,Egretta thula,Snowy Egret,preyedUponBy
+67731,4672,Falco columbarius,Merlin,preyedUponBy
+67731,47118,Araneae,Spiders,preyedUponBy
+67731,47552,Argiope,Garden Orbweavers,preyedUponBy
+67731,3,Aves,Birds,preyedUponBy
+67731,120474,Araneomorphae,Typical Spiders,preyedUponBy
+67731,16782,Tyrannus tyrannus,Eastern Kingbird,preyedUponBy
+67731,5020,Butorides virescens,Green Heron,preyedUponBy
+67731,4665,Falco sparverius,American Kestrel,preyedUponBy
+67731,48112,Mantodea,Mantises,preyedUponBy
+67731,,Thamnophis sirtalis concinnus,,preyedUponBy
+67731,,Lestes,,preyedUponBy
+67731,177749,Hydrophilus,Giant Water Scavenger Beetles,preyedUponBy
+67731,,Letherocerus americanus,,preyedUponBy
+67731,56557,Notonecta,Milky Backswimmers,preyedUponBy
+67731,67016,Rana draytonii,California Red-legged Frog,preyedUponBy
+67731,,Pseudiacris regilla,,preyedUponBy
+67731,51679,Coenagrion,Northern Bluets,preyedUponBy
+67731,,Tachopteryx thoreyi,,preyedUponBy
+67731,144479,Gallinula galeata,Common Gallinule,preyedUponBy
+67731,54327,Vespa crabro,European Hornet,preyedUponBy
+67731,,Trichonephila clavipes,,preyedUponBy
+67731,,Microstylum morosum,,preyedUponBy
+67731,,Leucophaeus atricilla,,preyedUponBy
+67731,12024,Lanius ludovicianus,Loggerhead Shrike,preyedUponBy
+67731,,Argiope aurantia,,preyedUponBy
+67731,94045,Anax longipes,Comet Darner,preyedUponBy
+67731,,Araneus bicentenarius,,preyedUponBy

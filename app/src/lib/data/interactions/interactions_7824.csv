@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+7824,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+7824,5180,Buteo albonotatus,Zone-tailed Hawk,eatenBy
+7824,,Aquila chrysaetos,,eatenBy

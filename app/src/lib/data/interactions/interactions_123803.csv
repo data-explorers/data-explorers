@@ -1,0 +1,10 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+123803,48918,Littorinidae,Periwinkle Snails,eatenBy
+123803,81606,Littorina littorea,Common Periwinkle,eatenBy
+123803,49725,Pugettia,,eatenBy
+123803,,Eristalinus aeneus,,eatenBy
+123803,,Lacunidae,,eatenBy
+123803,,Eatonina fulgida,,eatenBy
+123803,,Scolecobasidium salinum,,eatenBy
+123803,179537,Mugil curema,White Mullet,eatenBy
+123803,64471,Sebastes mystinus,Blue Rockfish,eatenBy

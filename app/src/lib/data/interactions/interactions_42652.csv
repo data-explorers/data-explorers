@@ -1,0 +1,99 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+42652,39782,Trachemys scripta,Common Slider,eats
+42652,26575,Diadophis punctatus,ring-necked snake,eats
+42652,48599,Phytolacca americana,American pokeweed,eats
+42652,59035,Solanum americanum,American black nightshade,eats
+42652,54834,Prunus serotina,black cherry,eats
+42652,76949,Eriobotrya japonica,Loquat,eats
+42652,42223,Odocoileus virginianus,White-tailed Deer,eats
+42652,46020,Sciurus niger,Fox Squirrel,eats
+42652,42652,Didelphis virginiana,Virginia Opossum,eats
+42652,78554,Phoenix canariensis,Canary Island palm,eats
+42652,981,Phasianus colchicus,Ring-necked Pheasant,eats
+42652,73788,Plestiodon fasciatus,Common Five-lined Skink,eats
+42652,47049,Parascalops breweri,Hairy-tailed Mole,eats
+42652,27186,Plethodon cinereus,Eastern Red-backed Salamander,eats
+42652,26729,Ambystoma annulatum,Ringed Salamander,eats
+42652,,Otus asio,,eats
+42652,,Lasiurus seminolus,,eats
+42652,,Myotis austroriparius,,eats
+42652,3460,Zenaida asiatica,White-winged Dove,eats
+42652,,Plecotus rafinesquii,,eats
+42652,61964,Prunus avium,wild cherry,eats
+42652,132855,Rubus pubescens,dwarf raspberry,eats
+42652,50897,Asimina triloba,common pawpaw,eats
+42652,,Nyssa sylvatica,,eats
+42652,,http://treatment.plazi.org/id/FB7A09EEF8EC3B9F3529A4A1CA3EC7F1,,eats
+42652,,Malus pumila,,eats
+42652,,Psychotria lauracea,,eats
+42652,,Ficus lapathifolia,,eats
+42652,283078,Achatocarpus nigricans,,eats
+42652,,Rourea glabra,,eats
+42652,,Ehretia,,eats
+42652,,Bursera simaruba,,eats
+42652,,Smilax aristolochiifolia,,eats
+42652,62841,Cordia,,eats
+42652,,Chrysobalanus icaco,,eats
+42652,,Nectandra salicifolia,,eats
+42652,,Casearia arborea,,eats
+42652,127936,Chiococca alba,West Indian milkberry,eats
+42652,,Dendropanax arboreus,,eats
+42652,478640,Crossopetalum uragoga,Snake Berry,eats
+42652,,Xylosma panamensis,,eats
+42652,,Psittacanthus,,eats
+42652,,Ficus obtusifolia,,eats
+42652,,Solanum tampicense,,eats
+42652,,Solanum diphyllum,,eats
+42652,,Ficus insipida,,eats
+42652,,Randia aculeata,,eats
+42652,278326,Piper amalago,jaborandi-manso,eats
+42652,,Paullinia tomentosa,,eats
+42652,,Phoradendron quadrangulare,,eats
+42652,,Vitis bourgaeana,,eats
+42652,120006,Ilex decidua,possumhaw,eats
+42652,,Symphoricarpos orbiculatus,,eats
+42652,,Ampelopsis arborea,,eats
+42652,119960,Berchemia scandens,Supplejack,eats
+42652,,Citrullus lanatus,,eats
+42652,128748,Sideroxylon lanuginosum,Gum bumelia,eats
+42652,54797,Gleditsia triacanthos,honey locust,eats
+42652,,Smilax bona-nox,,eats
+42652,,Ilex vomitoria,,eats
+42652,,Callicarpa americana,,eats
+42652,,Quercus geminata,,eats
+42652,83074,Magnolia grandiflora,southern magnolia,eats
+42652,39665,Caretta caretta,Loggerhead Sea Turtle,eats
+42652,,Smilax auriculata,,eats
+42652,,Carya illinoinensis,,eats
+42652,48448,Zea mays,Maize,eats
+42652,,Parasitiformes,,eats
+42652,42051,Canis latrans,Coyote,eatenBy
+42652,41976,Lynx rufus,Bobcat,eatenBy
+42652,42007,Puma concolor,Mountain Lion,eatenBy
+42652,42076,Urocyon cinereoargenteus,Gray Fox,eatenBy
+42652,43584,Homo sapiens,Human,eatenBy
+42652,19350,Strigiformes,Owls,eatenBy
+42652,42069,Vulpes vulpes,Red Fox,eatenBy
+42652,5067,Accipitridae,"Hawks, Eagles, and Kites",eatenBy
+42652,4756,Cathartes aura,Turkey Vulture,eatenBy
+42652,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+42652,42652,Didelphis virginiana,Virginia Opossum,eatenBy
+42652,5305,Haliaeetus leucocephalus,Bald Eagle,eatenBy
+42652,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+42652,20044,Bubo virginianus,Great Horned Owl,eatenBy
+42652,19893,Strix varia,Barred Owl,eatenBy
+42652,20445,Tyto alba,Barn Owl,eatenBy
+42652,,Martes pennanti,,eatenBy
+42652,41970,Panthera onca,Jaguar,eatenBy
+42652,,Pantherophis alleghaniensis,,eatenBy
+42652,4765,Coragyps atratus,Black Vulture,eatenBy
+42652,81746,Necrophila americana,American Carrion Beetle,eatenBy
+42652,26159,Alligator mississippiensis,American Alligator,eatenBy
+42652,,Aquila chrysaetos,,eatenBy
+42652,63028,Hypercompe scribonia,Giant Leopard Moth,preysOn
+42652,30713,Crotalus oreganus helleri,Southern Pacific Rattlesnake,preyedUponBy
+42652,20044,Bubo virginianus,Great Horned Owl,preyedUponBy
+42652,4756,Cathartes aura,Turkey Vulture,preyedUponBy
+42652,5212,Buteo jamaicensis,Red-tailed Hawk,preyedUponBy
+42652,26159,Alligator mississippiensis,American Alligator,preyedUponBy
+42652,4765,Coragyps atratus,Black Vulture,preyedUponBy

@@ -1,0 +1,36 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+119535,,Leptoglossus clypealis,,eats
+119535,67435,Urbanus proteus,Long-tailed Skipper,eats
+119535,,Oligoria maculata,,eats
+119535,526062,Halictus poeyi,Poey's Furrow Bee,eats
+119535,,Euglossa dilemma,,eats
+119535,,Bombus ternarius,,eats
+119535,16768,Tyrannus,Kingbirds,eatenBy
+119535,17355,Vireo,Vireos,eatenBy
+119535,,Vireo flavifrons,,eatenBy
+119535,17394,Vireo gilvus,Warbling Vireo,eatenBy
+119535,9764,Agelaius xanthomus,Yellow-shouldered Blackbird,eatenBy
+119535,2121,Todus mexicanus,Puerto Rican Tody,eatenBy
+119535,17399,Vireo altiloquus,Black-whiskered Vireo,eatenBy
+119535,145249,Setophaga discolor,Prairie Warbler,eatenBy
+119535,,Cardamine concatenata,,pollinates
+119535,47219,Apis mellifera,Western Honey Bee,preysOn
+119535,143024,Eusarca confusaria,Confused Eusarca Moth,preysOn
+119535,69145,Coenonympha california,Common Ringlet,preysOn
+119535,61860,Calliphoridae,Blow Flies,preysOn
+119535,55626,Pieris rapae,Cabbage White,preysOn
+119535,126532,Toxomerus geminatus,Eastern Calligrapher,preysOn
+119535,58586,Limenitis archippus,Viceroy,preysOn
+119535,128824,Lucilia sericata,Common European Greenbottle Fly,preysOn
+119535,82523,Augochlora pura,Pure Green-Sweat bee,preysOn
+119535,,Andrena nubecula,,preysOn
+119535,,Eresia phillyra,,preysOn
+119535,,Calycopis cecrops,,preysOn
+119535,,Lycomorpha pholus,,preysOn
+119535,,Dolichovespula arenaria,,preysOn
+119535,,Hemaris diffinis,,preysOn
+119535,204077,Achyra rantalis,Garden Webworm Moth,preysOn
+119535,,Cisseps fulvicollis,,preysOn
+119535,58506,Polites themistocles,Tawny-edged Skipper,preysOn
+119535,,Bombus ternarius,,preysOn
+119535,,Andrena nubecula,,preyedUponBy

@@ -1,0 +1,26 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+49809,,Detritus,,eats
+49809,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,eatenBy
+49809,179598,Eucinostomus gula,Silver Jenny,eatenBy
+49809,179600,Eucinostomus argenteus,Spotfin Mojarra,eatenBy
+49809,57814,Pogonias cromis,Black Drum,eatenBy
+49809,47126,Plantae,plants,preysOn
+49809,,epipellic flora,,preysOn
+49809,47188,Pachygrapsus crassipes,Striped Shore Crab,preyedUponBy
+49809,3941,Arenaria melanocephala,Black Turnstone,preyedUponBy
+49809,6993,Bucephala albeola,Bufflehead,preyedUponBy
+49809,6930,Anas platyrhynchos,Mallard,preyedUponBy
+49809,7086,Branta,Black Geese,preyedUponBy
+49809,3855,Calidris mauri,Western Sandpiper,preyedUponBy
+49809,121162,Octopus bimaculatus,Verrill's Two-spot Octopus,preyedUponBy
+49809,,Nassarius tiarula,,preyedUponBy
+49809,69170,Hemigrapsus oregonensis,Yellow Shore Crab,preyedUponBy
+49809,6937,Anas crecca,Green-winged Teal,preyedUponBy
+49809,179533,Fundulus parvipinnis,California Killifish,preyedUponBy
+49809,7054,Aythya affinis,Lesser Scaup,preyedUponBy
+49809,,Anas americana,,preyedUponBy
+49809,,Anas cyanoptera,,preyedUponBy
+49809,,Rallus longirostrus,,preyedUponBy
+49809,,Arenaria intepres,,preyedUponBy
+49809,,Limnodromus griseus,,preyedUponBy
+49809,162,Porzana carolina,Sora,preyedUponBy

@@ -1,0 +1,48 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47582,123862,Chaetoceros,,eats
+47582,152275,Thalassiosirales,,eats
+47582,67333,Bacteria,bacteria,eats
+47582,81644,Crepidula,Typical Slippersnails,eats
+47582,123865,Coscinodiscus,,eats
+47582,774725,Pyramimonadophyceae,,eats
+47582,621184,Ulvaria,,eats
+47582,200862,Bacillariaceae,,eats
+47582,200886,Peridinium,,eats
+47582,,Prymnesiophyceae,,eats
+47582,339306,Cocconeis,,eats
+47582,340479,Radiolaria,,eats
+47582,,Detritus complex,,eats
+47582,339072,Prorocentrum,,eats
+47582,,Foraminiferida,,eats
+47582,,Chrysophyta,,eats
+47582,203808,Navicula,,eats
+47582,,Detritus,,eats
+47582,,Phytoplankton,,eats
+47582,41860,Enhydra lutris,Sea Otter,eatenBy
+47582,43584,Homo sapiens,Human,eatenBy
+47582,48483,Chrysaora,Sea Nettles,eatenBy
+47582,47827,Cancer,,eatenBy
+47582,49267,Sphoeroides,,eatenBy
+47582,63740,Gadus morhua,Atlantic Cod,eatenBy
+47582,246556,Tectonatica,,eatenBy
+47582,83329,Buccinidae,True Whelks,eatenBy
+47582,53607,Polynoidae,Scaleworms,eatenBy
+47582,123639,Spionidae,,eatenBy
+47582,48903,Asterias,,eatenBy
+47582,7047,Aythya marila,Greater Scaup,eatenBy
+47582,131045,Menippe mercenaria,Florida Stone Crab,eatenBy
+47582,94635,Ariopsis felis,Hardhead Catfish,eatenBy
+47582,179544,Menticirrhus littoralis,Gulf Kingcroaker,eatenBy
+47582,112960,Sphyrna tiburo,Bonnethead,eatenBy
+47582,146600,Micropogonias undulatus,Atlantic Croaker,eatenBy
+47582,111724,Rhinoptera javanica,Javanese Cownose Ray,eatenBy
+47582,113675,Synodontis schall,Wahrindi,eatenBy
+47582,92348,Synodontis,Squeakers,eatenBy
+47582,101841,Guentheridia formosa,Spotted Puffer,eatenBy
+47582,55290,Sphoeroides annulatus,Bullseye Puffer,eatenBy
+47582,114206,Tomicodon abuelorum,,eatenBy
+47582,73844,Lepidochelys kempii,Kemp's Ridley Sea Turtle,eatenBy
+47582,292602,Stramonita haemastoma,Red-mouthed Dog Winkle,eatenBy
+47582,,Herbivorous zooplankton,,preysOn
+47582,47114,Gastropoda,Gastropods,preyedUponBy
+47582,47490,Polychaeta,Polychaete Worms,preyedUponBy

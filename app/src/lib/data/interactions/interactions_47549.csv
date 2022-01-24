@@ -1,0 +1,111 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47549,47584,Bivalvia,Bivalves,eats
+47549,50863,Chlorophyta,green algae,eats
+47549,47534,Cnidaria,Cnidarians,eats
+47549,,Detritus,,eats
+47549,,benthic macrofauna,,eats
+47549,,Ostreoida,,eats
+47549,,Algae,,eats
+47549,450086,Platynereis dumerilii,Comb-toothed Nereid,eats
+47549,123639,Spionidae,,eats
+47549,363662,Hydroides dianthus,,eats
+47549,112372,Scyliorhinus canicula,Small-spotted Catshark,eatenBy
+47549,41860,Enhydra lutris,Sea Otter,eatenBy
+47549,447552,Maja brachydactyla,Spiny Spider Crab,eatenBy
+47549,332555,Polybius henslowii,Henslow's Swimming Crab,eatenBy
+47549,47826,Cancer productus,Red Rock Crab,eatenBy
+47549,254572,Phalium areola,Checkerboard Bonnet Snail,eatenBy
+47549,61371,Panulirus interruptus,California Spiny Lobster,eatenBy
+47549,103601,Jasus edwardsii,Southern Rock Lobster,eatenBy
+47549,48830,Patiria miniata,Bat Star,eatenBy
+47549,39672,Eretmochelys imbricata,Hawksbill Sea Turtle,eatenBy
+47549,117607,Nephtys,Nephthys's Sand-worms,eatenBy
+47549,49606,Balistes capriscus,Grey Triggerfish,eatenBy
+47549,49265,Sphoeroides spengleri,Bandtail Puffer,eatenBy
+47549,204776,Pseudocaranx dentex,Silver Trevally,eatenBy
+47549,118640,Bothus podas,Wide-eyed Flounder,eatenBy
+47549,50968,Coris julis,Mediterranean rainbow wrasse,eatenBy
+47549,49601,Mola mola,Common Mola,eatenBy
+47549,48844,Echeneis naucrates,Sharksucker,eatenBy
+47549,47296,Lutjanus,Common Snappers,eatenBy
+47549,320326,Ciliata mustela,Five-bearded Rockling,eatenBy
+47549,132473,Lagodon rhomboides,Pinfish,eatenBy
+47549,57810,Heterodontus portusjacksoni,Port Jackson Shark,eatenBy
+47549,121259,Chironemus marmoratus,Eastern Kelpfish,eatenBy
+47549,47668,Asteroidea,Sea Stars,eatenBy
+47549,447777,Cyanea lamarckii,Blue Jelly,eatenBy
+47549,430553,Merlangius merlangus,Whiting,eatenBy
+47549,48397,Raja clavata,Thornback Skate,eatenBy
+47549,55396,Solea solea,Common Sole,eatenBy
+47549,82351,Melanogrammus aeglefinus,Haddock,eatenBy
+47549,118720,Eutrigla gurnardus,Grey Gurnard,eatenBy
+47549,47523,Pleuronectes platessa,European Plaice,eatenBy
+47549,61387,Limanda limanda,Sand Dab,eatenBy
+47549,63740,Gadus morhua,Atlantic Cod,eatenBy
+47549,,North American river otter,,eatenBy
+47549,63742,Gadidae,Cods and Haddocks,eatenBy
+47549,51371,Pseudopleuronectes americanus,Winter Flounder,eatenBy
+47549,221382,Hippoglossoides platessoides,American Plaice,eatenBy
+47549,86443,Anarhichas,,eatenBy
+47549,47637,Myoxocephalus octodecemspinosus,Longhorn Sculpin,eatenBy
+47549,194675,Lophius americanus,American Monkfish,eatenBy
+47549,224886,Merluccius bilinearis,Silver Hake,eatenBy
+47549,104533,Leucoraja erinacea,Little Skate,eatenBy
+47549,51390,Tautogolabrus adspersus,Cunner,eatenBy
+47549,233996,Zoarces americanus,Ocean Pout,eatenBy
+47549,49961,Mustelus canis,Dusky Smooth-hound,eatenBy
+47549,233277,Urophycis tenuis,White Hake,eatenBy
+47549,104540,Leucoraja ocellata,Winter Skate,eatenBy
+47549,47634,Hemitripterus americanus,Sea Raven,eatenBy
+47549,48402,Amblyraja radiata,Thorny Skate,eatenBy
+47549,39665,Caretta caretta,Loggerhead Sea Turtle,eatenBy
+47549,,Corvus caurinus,,eatenBy
+47549,47674,Pycnopodia,,eatenBy
+47549,,Clypeasterophilus rugatus,,eatenBy
+47549,,Clypeasterophilus stebbingi,,eatenBy
+47549,,Clypeasterophilus juvenilis,,eatenBy
+47549,,Chaceon macphersoni,,eatenBy
+47549,59283,Pachygrapsus marmoratus,Marbled Crab,eatenBy
+47549,432505,Onykia robusta,Robust Clubhook Squid,eatenBy
+47549,,Chaceon notialis,,eatenBy
+47549,558724,Cribrinopsis similis,,eatenBy
+47549,709642,Athyonidium chilensis,,eatenBy
+47549,,Iphimediella cyclogena,,eatenBy
+47549,367816,Adelomelon ancilla,Ancilla Volute,eatenBy
+47549,785126,Palaemon xiphias,Posidonia prawn,eatenBy
+47549,109963,Polycheles typhlops,,eatenBy
+47549,669122,Heterocarpus woodmasoni,Indian nylon shrimp,eatenBy
+47549,1072156,Heterocarpus gibbosus,Humpback nylon shrimp,eatenBy
+47549,526020,Charybdis bimaculata,,eatenBy
+47549,,Lithodes ferox,,eatenBy
+47549,,Charonia lampas,,eatenBy
+47549,482351,Galeodea rugosa,Rugose Bonnet Snail,eatenBy
+47549,,Paralepidonotus indicus,,eatenBy
+47549,672476,Lepidonotus tenuisetosus,,eatenBy
+47549,394392,Paralepidonotus ampulliferus,,eatenBy
+47549,482654,Scaphander lignarius,Canoe-shell,eatenBy
+47549,,Thysanoessa longipes,,eatenBy
+47549,471092,Lithodes murrayi,Subantarctic Stone Crab,eatenBy
+47549,746066,Paralomis granulosa,False King Crab,eatenBy
+47549,,Lithodes santolla,,eatenBy
+47549,485034,Pilumnus vespertilio,common hairy crab,eatenBy
+47549,47288,Pontophilus spinosus,Spiny shrimp,eatenBy
+47549,888075,Geryon trispinosus,,eatenBy
+47549,799827,Cibacapsa gulosa,,eatenBy
+47549,7036,Melanitta perspicillata,Surf Scoter,eatenBy
+47549,7030,Somateria spectabilis,King Eider,eatenBy
+47549,7024,Somateria mollissima,Common Eider,eatenBy
+47549,7164,Polysticta stelleri,Steller's Eider,eatenBy
+47549,361770,Chionoecetes opilio,Snow Crab,eatenBy
+47549,195122,Macropipus tuberculatus,Portunid crab,eatenBy
+47549,437504,Pandalus borealis,Northern Shrimp,eatenBy
+47549,260476,Plesionika acanthonotus,Lesser striped shrimp,eatenBy
+47549,558991,Plesionika heterocarpus,Arrow shrimp,eatenBy
+47549,1072347,Plesionika gigliolii,Italian deepsea shrimp,eatenBy
+47549,459604,Lithodes aequispinus,Golden King Crab,eatenBy
+47549,143945,Dardanus megistos,White-spotted Hermit Crab,eatenBy
+47549,130213,Buccinum undatum,Common Whelk,eatenBy
+47549,41691,Pusa hispida,Ringed Seal,eatenBy
+47549,41766,Odobenus rosmarus,Walrus,eatenBy
+47549,41720,Erignathus barbatus,Bearded Seal,eatenBy
+47549,955788,Bursa bufonia,,eatenBy

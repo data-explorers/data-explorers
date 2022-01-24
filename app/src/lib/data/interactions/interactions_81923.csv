@@ -1,0 +1,9 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+81923,122970,Helianthus tuberosus,Jerusalem artichoke,eats
+81923,,Juglans nigra,,eats
+81923,,Juglans regia,,eats
+81923,67328,Pholcus phalangioides,Long-bodied Cellar Spider,eatenBy
+81923,71034,Tenodera sinensis,Chinese Mantis,eatenBy
+81923,146852,Bicyrtes quadrifasciatus,Four-banded Stink Bug Wasp,preyedUponBy
+81923,47119,Arachnida,Arachnids,preyedUponBy
+81923,,Poecilus versicolor,,preyedUponBy

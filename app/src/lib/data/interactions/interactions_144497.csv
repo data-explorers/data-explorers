@@ -1,0 +1,4 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+144497,85493,Crustacea,Crustaceans,eats
+144497,,Artemia,,eats
+144497,4647,Falco peregrinus,Peregrine Falcon,preyedUponBy

@@ -1,0 +1,103 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+54858,54858,Celtis,hackberries,eats
+54858,56832,Nymphalis antiopa,Mourning Cloak,eatenBy
+54858,60607,Limenitis arthemis,Red-spotted Admiral,eatenBy
+54858,49921,Nymphalis,Tortoiseshells,eatenBy
+54858,54858,Celtis,hackberries,eatenBy
+54858,7428,Bombycilla cedrorum,Cedar Waxwing,eatenBy
+54858,12890,Catharus guttatus,Hermit Thrush,eatenBy
+54858,12727,Turdus migratorius,American Robin,eatenBy
+54858,8021,Corvus brachyrhynchos,American Crow,eatenBy
+54858,9083,Cardinalis cardinalis,Northern Cardinal,eatenBy
+54858,,Lepidosaphes,,eatenBy
+54858,,Aspidiotus nerii,,eatenBy
+54858,,Phaedyma shepherdi,,eatenBy
+54858,1262828,Lobobunaea jamesoni,,eatenBy
+54858,,Charaxes tiridates,,eatenBy
+54858,,Sasakia charonda,,eatenBy
+54858,,Caloptilia celidis,,eatenBy
+54858,,Asterocampa leilia,,eatenBy
+54858,,Asterocampa celtis,,eatenBy
+54858,,Asterocampa clyton,,eatenBy
+54858,,Hestina japonica,,eatenBy
+54858,145617,Anthene,,eatenBy
+54858,204891,Asterocampa idyja,Dusky Emperor,eatenBy
+54858,,Hypanartia lethe,,eatenBy
+54858,,Acytolepis puspa,,eatenBy
+54858,,Adelpha fessonia,,eatenBy
+54858,,Catopyrops florinda,,eatenBy
+54858,,Charaxes cithaeron,,eatenBy
+54858,149282,Charaxes etheocles,Demon Charaxes,eatenBy
+54858,,Caria ino,,eatenBy
+54858,,Charaxes cynthia,,eatenBy
+54858,,Doxocopa excelsa,,eatenBy
+54858,,Doxocopa laure,,eatenBy
+54858,148892,Doxocopa pavon,Pavon Emperor,eatenBy
+54858,,Doxocopa cyane,,eatenBy
+54858,,Diaethria candrena,,eatenBy
+54858,,Doxocopa clothilda,,eatenBy
+54858,,Hestina mena,,eatenBy
+54858,,Hestina persimilis,,eatenBy
+54858,,Libytheana carinenta,,eatenBy
+54858,,Libythea celtis,,eatenBy
+54858,,Libythea labdaca,,eatenBy
+54858,1236164,Libythea collenettei,,eatenBy
+54858,,Herona marathus,,eatenBy
+54858,,Nymphalis xanthomelas,,eatenBy
+54858,,Libythea myrrha,,eatenBy
+54858,,Hypanartia bella,,eatenBy
+54858,,Thaleropis ionia,,eatenBy
+54858,,Polyura eudamippus,,eatenBy
+54858,,Polyura narcaeus,,eatenBy
+54858,856364,Polyura pyrrhus,,eatenBy
+54858,,Cytosporina hysterioides,,eatenBy
+54858,,Diplodia celtidis,,eatenBy
+54858,43577,Pan troglodytes,Chimpanzee,eatenBy
+54858,,Ploceus,,eatenBy
+54858,,Lophocebus albigena,,eatenBy
+54858,,Bleda syndactyla,,eatenBy
+54858,,Andropadus virens,,eatenBy
+54858,,Stizorhina fraseri,,eatenBy
+54858,,Cercopithecus ascanius,,eatenBy
+54858,,Andropadus latirostris,,eatenBy
+54858,,Criniger,,eatenBy
+54858,,Andropadus curvirostris,,eatenBy
+54858,71771,Tricholaema,Pied Barbets and Allies,eatenBy
+54858,,Nigrita canicapilla,,eatenBy
+54858,,Colobus guereza,,eatenBy
+54858,,Malimbus rubricollis,,eatenBy
+54858,,Chlorocichla laetissima,,eatenBy
+54858,,Andropadus masukuensis,,eatenBy
+54858,,Buccanodon duchaillui,,eatenBy
+54858,,Trachylaemus purpuratus,,eatenBy
+54858,14569,Phyllastrephus cabanisi,Cabanis's Greenbul,eatenBy
+54858,,Spermophaga ruficapilla,,eatenBy
+54858,,Ixonotus guttatus,,eatenBy
+54858,,Cinnyricinclus leucogaster,,eatenBy
+54858,43486,Cercopithecus mitis,Blue Monkey,eatenBy
+54858,14588,Pycnonotus barbatus,Common Bulbul,eatenBy
+54858,,Lamprotornis,,eatenBy
+54858,,Zosterops senegalensis,,eatenBy
+54858,,Pogoniulus subsulphureus,,eatenBy
+54858,,Andropadus ansorgei,,eatenBy
+54858,,Nigrita fusconota,,eatenBy
+54858,,Baeopogon indicator,,eatenBy
+54858,,Andropadus gracilis,,eatenBy
+54858,,Pan troglodytes schweinfurthii,,eatenBy
+54858,,Oriolus,,eatenBy
+54858,,Andropadus gracilirostris,,eatenBy
+54858,,Turtur,,eatenBy
+54858,,Phyllastrephus albigularis,,eatenBy
+54858,7250,Corythaeola cristata,Great Blue Turaco,eatenBy
+54858,117066,Pogoniulus scolopaceus,Speckled Tinkerbird,eatenBy
+54858,,Amblyospiza albifrons,,eatenBy
+54858,,Gymnobucco bonapartei,,eatenBy
+54858,,Papio anubis,,eatenBy
+54858,,Loxodonta cyclotis,,eatenBy
+54858,,Polygonia c-album,,eatenBy
+54858,,http://treatment.plazi.org/id/03F24A640132A941FF39AAEFFD58FEB2,,eatenBy
+54858,,Libythea lepita,,eatenBy
+54858,,Ecdytolopha mana,,eatenBy
+54858,,Epinotia celtisana,,eatenBy
+54858,,Cotachena histricalis,,eatenBy
+54858,,Wind,,pollinatedBy

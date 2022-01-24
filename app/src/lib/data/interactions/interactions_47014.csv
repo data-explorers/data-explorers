@@ -1,0 +1,17 @@
+subject_taxon_id,target_taxon_id,target_scientific_name,target_common_name,interaction
+47014,47120,Arthropoda,Arthropods,eats
+47014,42051,Canis latrans,Coyote,eatenBy
+47014,508048,Antigone canadensis,Sandhill Crane,eatenBy
+47014,8021,Corvus brachyrhynchos,American Crow,eatenBy
+47014,5227,Buteo platypterus,Broad-winged Hawk,eatenBy
+47014,5206,Buteo lineatus,Red-shouldered Hawk,eatenBy
+47014,5212,Buteo jamaicensis,Red-tailed Hawk,eatenBy
+47014,19893,Strix varia,Barred Owl,eatenBy
+47014,5112,Accipiter cooperii,Cooper's Hawk,eatenBy
+47014,20044,Bubo virginianus,Great Horned Owl,eatenBy
+47014,20445,Tyto alba,Barn Owl,eatenBy
+47014,4755,Cathartes,Turkey and Yellow-headed Vultures,eatenBy
+47014,912622,Agkistrodon contortrix,Eastern Copperhead,eatenBy
+47014,20307,Asio otus,Long-eared Owl,eatenBy
+47014,20315,Asio flammeus,Short-eared Owl,eatenBy
+47014,,Pituophis ruthveni,,preyedUponBy
