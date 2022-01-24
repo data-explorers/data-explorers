@@ -180,6 +180,7 @@
   let showObservationHighlight = false;
   let showBiodiversity = true;
   let showEnvironment = true;
+  let hasClimate = project.slug !== 'go-sea'
 
   projectObservations = projectObservations.filter((o) => o.latitude && o.longitude);
 
@@ -356,6 +357,10 @@
       }
       return taxon.taxon_id !== taxonId;
     });
+
+    // close observation popup if it part of the removed taxon
+    showObservationHighlight = observationsIds.has(observationHighlight.id)
+
 
     // remove observations for deleted taxon
     let tempObservations = {};
@@ -628,10 +633,12 @@
         </h3>
         {#if showEnvironment}
           <section class="px-3 mb-3" transition:fade>
-            <label class="cursor-pointer block">
-              <input type="checkbox" bind:checked={showClimate} />
-              <span>Temperature and Preciptation</span>
-            </label>
+            {#if hasClimate}
+              <label class="cursor-pointer block">
+                <input type="checkbox" bind:checked={showClimate} />
+                <span>Temperature and Preciptation</span>
+              </label>
+            {/if}
 
             <label class="cursor-pointer block">
               <input type="checkbox" bind:checked={showDemoMapLayer} />

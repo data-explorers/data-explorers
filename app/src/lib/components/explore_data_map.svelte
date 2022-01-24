@@ -33,7 +33,6 @@
   export let speciesCount;
   export let speciesDisplayCount;
   export let speciesList;
-  export let showSpeciesListInput;
 
   let leafletMap;
   let map;
