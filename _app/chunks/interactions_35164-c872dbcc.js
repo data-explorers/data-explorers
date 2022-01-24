@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"35164",target_taxon_id:"49236",target_scientific_name:"Clupeidae",target_common_name:"Shads, Sardines, and Menhadens",interaction:"preysOn"},{subject_taxon_id:"35164",target_taxon_id:"4742",target_scientific_name:"Mycteria americana",target_common_name:"Wood Stork",interaction:"preyedUponBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"41741",target_taxon_id:"41763",target_scientific_name:"Phocarctos hookeri",target_common_name:"New Zealand Sea Lion",interaction:"eatenBy"},{subject_taxon_id:"41741",target_taxon_id:"82330",target_scientific_name:"Caranx ruber",target_common_name:"Bar Jack",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"69750",target_taxon_id:"131422",target_scientific_name:"Saurida brasiliensis",target_common_name:"Largescale Lizardfish",interaction:"eatenBy"},{subject_taxon_id:"69750",target_taxon_id:"179511",target_scientific_name:"Astyanax fasciatus",target_common_name:"Banded Astyanax",interaction:"eatenBy"}];export{a as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"51982",target_taxon_id:"68078",target_scientific_name:"Galeoides decadactylus",target_common_name:"lesser African threadfin",interaction:"eatenBy"},{subject_taxon_id:"51982",target_taxon_id:"87796",target_scientific_name:"Cynoglossus",target_common_name:"",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"195590",target_taxon_id:"118667",target_scientific_name:"Diplodus vulgaris",target_common_name:"Common Two-banded Seabream",interaction:"eatenBy"},{subject_taxon_id:"195590",target_taxon_id:"49925",target_scientific_name:"Acanthostracion quadricornis",target_common_name:"Scrawled Cowfish",interaction:"eatenBy"}];export{t as default};

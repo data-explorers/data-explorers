@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"71409",target_taxon_id:"141725",target_scientific_name:"Nezara viridula",target_common_name:"Southern Green Stink Bug",interaction:"eatenBy"},{subject_taxon_id:"71409",target_taxon_id:"",target_scientific_name:"Leptophobia eleone",target_common_name:"",interaction:"eatenBy"}];export{t as default};

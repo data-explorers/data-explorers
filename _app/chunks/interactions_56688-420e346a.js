@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"56688",target_taxon_id:"410681",target_scientific_name:"Notomithrax ursus",target_common_name:"Hairy Seaweed Crab",interaction:"eatenBy"},{subject_taxon_id:"56688",target_taxon_id:"410681",target_scientific_name:"Notomithrax ursus",target_common_name:"Hairy Seaweed Crab",interaction:"preyedUponBy"}];export{t as default};

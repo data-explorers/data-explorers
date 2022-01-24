@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"172283",target_taxon_id:"",target_scientific_name:"Parus major",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"172283",target_taxon_id:"",target_scientific_name:"http://treatment.plazi.org/id/03A787DE616B9B73CDAE3A02FC26FAB8",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

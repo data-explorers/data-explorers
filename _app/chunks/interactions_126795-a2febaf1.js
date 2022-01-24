@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"126795",target_taxon_id:"",target_scientific_name:"Astrothrips aureolus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"126795",target_taxon_id:"",target_scientific_name:"Taeniothrips",target_common_name:"",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"884843",target_taxon_id:"55487",target_scientific_name:"Diabrotica undecimpunctata",target_common_name:"Spotted Cucumber Beetle",interaction:"eatenBy"}];export{t as default};

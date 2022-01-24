@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"48130",target_taxon_id:"127777",target_scientific_name:"Vespula vulgaris",target_common_name:"Common European Yellowjacket",interaction:"eatenBy"},{subject_taxon_id:"48130",target_taxon_id:"127777",target_scientific_name:"Vespula vulgaris",target_common_name:"Common European Yellowjacket",interaction:"preyedUponBy"}];export{e as default};

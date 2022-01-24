@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"54625",target_taxon_id:"",target_scientific_name:"Hypogastruridae",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"54625",target_taxon_id:"214186",target_scientific_name:"Arion intermedius",target_common_name:"Hedgehog Slug",interaction:"eatenBy"}];export{t as default};

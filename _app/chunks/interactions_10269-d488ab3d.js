@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"10269",target_taxon_id:"",target_scientific_name:"Pogonomyrmex apache",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"10269",target_taxon_id:"",target_scientific_name:"Myrmecocystus mimicus",target_common_name:"",interaction:"eatenBy"}];export{t as default};

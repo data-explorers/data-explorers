@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"60623",target_taxon_id:"70144",target_scientific_name:"Muscidae",target_common_name:"House Flies and Allies",interaction:"eats"},{subject_taxon_id:"60623",target_taxon_id:"",target_scientific_name:"Geranium nepalense",target_common_name:"",interaction:"pollinates"}];export{t as default};

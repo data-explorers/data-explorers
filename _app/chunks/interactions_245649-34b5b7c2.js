@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"245649",target_taxon_id:"195398",target_scientific_name:"Agalmatidae",target_common_name:"",interaction:"eats"},{subject_taxon_id:"245649",target_taxon_id:"510784",target_scientific_name:"Apolemia",target_common_name:"",interaction:"eats"}];export{t as default};

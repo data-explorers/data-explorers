@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"124344",target_taxon_id:"124344",target_scientific_name:"Cortinarius violaceus",target_common_name:"violet webcap",interaction:"eats"},{subject_taxon_id:"124344",target_taxon_id:"124344",target_scientific_name:"Cortinarius violaceus",target_common_name:"violet webcap",interaction:"eatenBy"}];export{t as default};

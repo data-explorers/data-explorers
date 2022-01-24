@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"321701",target_taxon_id:"",target_scientific_name:"Synsepalum brevipes",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"321701",target_taxon_id:"",target_scientific_name:"Synsepalum brevipes",target_common_name:"",interaction:"pollinates"}];export{t as default};

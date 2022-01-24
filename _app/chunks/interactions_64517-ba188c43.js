@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"64517",target_taxon_id:"40905",target_scientific_name:"Pteropus poliocephalus",target_common_name:"Grey-headed Flying-fox",interaction:"eatenBy"},{subject_taxon_id:"64517",target_taxon_id:"",target_scientific_name:"Calyptorhynchus banksii naso",target_common_name:"",interaction:"eatenBy"}];export{t as default};

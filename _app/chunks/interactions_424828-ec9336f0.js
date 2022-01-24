@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"424828",target_taxon_id:"48824",target_scientific_name:"Porifera",target_common_name:"Sponges",interaction:"preysOn"},{subject_taxon_id:"424828",target_taxon_id:"118895",target_scientific_name:"Anemonia viridis",target_common_name:"snakelocks anemone",interaction:"preyedUponBy"}];export{e as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"387555",target_taxon_id:"664263",target_scientific_name:"Enteroctopus magnificus",target_common_name:"Cape Giant Octopus",interaction:"eatenBy"},{subject_taxon_id:"387555",target_taxon_id:"664263",target_scientific_name:"Enteroctopus magnificus",target_common_name:"Cape Giant Octopus",interaction:"preyedUponBy"}];export{t as default};

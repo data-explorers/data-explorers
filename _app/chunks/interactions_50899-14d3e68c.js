@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"50899",target_taxon_id:"",target_scientific_name:"Theope archimedes",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"50899",target_taxon_id:"779194",target_scientific_name:"Membracis mimica",target_common_name:"",interaction:"eatenBy"}];export{t as default};

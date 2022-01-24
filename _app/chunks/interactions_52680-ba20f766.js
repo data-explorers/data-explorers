@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"52680",target_taxon_id:"",target_scientific_name:"Stromboceros delicatulus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"52680",target_taxon_id:"",target_scientific_name:"Idiopterus nephrelepidis",target_common_name:"",interaction:"eatenBy"}];export{t as default};

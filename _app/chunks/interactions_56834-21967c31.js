@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"56834",target_taxon_id:"",target_scientific_name:"Pseudeuophrys vafra",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"56834",target_taxon_id:"205916",target_scientific_name:"Peucetia longipalpis",target_common_name:"Lesser Green Lynx Spider",interaction:"preyedUponBy"}];export{e as default};

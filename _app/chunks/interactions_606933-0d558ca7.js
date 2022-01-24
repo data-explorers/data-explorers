@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"606933",target_taxon_id:"68062",target_scientific_name:"Menemerus bivittatus",target_common_name:"Gray Wall Jumping Spider",interaction:"preyedUponBy"}];export{t as default};

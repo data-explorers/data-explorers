@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"51809",target_taxon_id:"",target_scientific_name:"Monostegia abdominalis",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"51809",target_taxon_id:"43997",target_scientific_name:"Myocastor coypus",target_common_name:"Coypu",interaction:"eatenBy"}];export{t as default};

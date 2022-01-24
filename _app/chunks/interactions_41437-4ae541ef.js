@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"41437",target_taxon_id:"47266",target_scientific_name:"Scombridae",target_common_name:"Mackerels, Tunas, and Bonitos",interaction:"eats"},{subject_taxon_id:"41437",target_taxon_id:"69677",target_scientific_name:"Isurus oxyrinchus",target_common_name:"Shortfin Mako",interaction:"eatenBy"}];export{t as default};

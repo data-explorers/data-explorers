@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"51643",target_taxon_id:"464108",target_scientific_name:"Greya punctiferella",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"51643",target_taxon_id:"144431",target_scientific_name:"Falcipennis canadensis",target_common_name:"Spruce Grouse",interaction:"eatenBy"}];export{t as default};

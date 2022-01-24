@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"126208",target_taxon_id:"",target_scientific_name:"Thouinidium decandrum",target_common_name:"",interaction:"eats"},{subject_taxon_id:"126208",target_taxon_id:"",target_scientific_name:"Corynorhinus townsendii",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

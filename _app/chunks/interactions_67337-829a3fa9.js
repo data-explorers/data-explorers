@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"67337",target_taxon_id:"107889",target_scientific_name:"Oreochromis mossambicus",target_common_name:"Mozambique Tilapia",interaction:"eatenBy"},{subject_taxon_id:"67337",target_taxon_id:"",target_scientific_name:"Agonostomus monticola",target_common_name:"",interaction:"eatenBy"}];export{t as default};

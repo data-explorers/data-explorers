@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"172119",target_taxon_id:"73844",target_scientific_name:"Lepidochelys kempii",target_common_name:"Kemp's Ridley Sea Turtle",interaction:"eatenBy"},{subject_taxon_id:"172119",target_taxon_id:"603125",target_scientific_name:"Callionymus curvicornis",target_common_name:"",interaction:"eatenBy"}];export{t as default};

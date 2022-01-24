@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"348060",target_taxon_id:"118599",target_scientific_name:"Sardinella aurita",target_common_name:"Round Sardinella",interaction:"eatenBy"},{subject_taxon_id:"348060",target_taxon_id:"123659",target_scientific_name:"Decapterus punctatus",target_common_name:"Cigar Minnow",interaction:"eatenBy"}];export{t as default};

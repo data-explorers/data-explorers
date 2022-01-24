@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"132101",target_taxon_id:"116110",target_scientific_name:"Rena humilis humilis",target_common_name:"Southwestern Blind Snake",interaction:"preyedUponBy"}];export{t as default};

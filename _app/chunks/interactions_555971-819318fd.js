@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"555971",target_taxon_id:"4999",target_scientific_name:"Nyctanassa violacea",target_common_name:"Yellow-crowned Night-Heron",interaction:"preyedUponBy"}];export{t as default};

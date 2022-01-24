@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"707807",target_taxon_id:"52484",target_scientific_name:"Celastrina echo",target_common_name:"Echo Azure",interaction:"eatenBy"},{subject_taxon_id:"707807",target_taxon_id:"",target_scientific_name:"Locastra muscosalis",target_common_name:"",interaction:"eatenBy"}];export{t as default};

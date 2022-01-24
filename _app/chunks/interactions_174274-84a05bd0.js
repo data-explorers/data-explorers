@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"174274",target_taxon_id:"79137",target_scientific_name:"Solanum elaeagnifolium",target_common_name:"silverleaf nightshade",interaction:"eats"},{subject_taxon_id:"174274",target_taxon_id:"",target_scientific_name:"Hymenopappus tenuifolius",target_common_name:"",interaction:"eats"}];export{t as default};

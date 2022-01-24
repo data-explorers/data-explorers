@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"973000",target_taxon_id:"4159",target_scientific_name:"Pachyptila vittata",target_common_name:"Broad-billed Prion",interaction:"eatenBy"},{subject_taxon_id:"973000",target_taxon_id:"4163",target_scientific_name:"Pachyptila belcheri",target_common_name:"Slender-billed Prion",interaction:"eatenBy"}];export{t as default};

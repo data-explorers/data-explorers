@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"143427",target_taxon_id:"75377",target_scientific_name:"Alnus incana",target_common_name:"grey alder",interaction:"eats"},{subject_taxon_id:"143427",target_taxon_id:"53352",target_scientific_name:"Alnus",target_common_name:"alders",interaction:"eats"}];export{t as default};

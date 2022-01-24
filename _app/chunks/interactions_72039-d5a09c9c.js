@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"72039",target_taxon_id:"",target_scientific_name:"Saxicoloides fulicata",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"72039",target_taxon_id:"",target_scientific_name:"Toxidia thyrrhus",target_common_name:"",interaction:"eatenBy"}];export{t as default};

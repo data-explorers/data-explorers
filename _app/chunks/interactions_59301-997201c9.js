@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"59301",target_taxon_id:"",target_scientific_name:"Stethomostus fuliginosus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"59301",target_taxon_id:"1237807",target_scientific_name:"Entyloma ranunculi-scelerati",target_common_name:"",interaction:"eatenBy"}];export{t as default};

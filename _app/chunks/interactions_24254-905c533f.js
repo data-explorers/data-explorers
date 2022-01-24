@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"24254",target_taxon_id:"53359",target_scientific_name:"Baccharis pilularis",target_common_name:"coyote brush",interaction:"eatenBy"},{subject_taxon_id:"24254",target_taxon_id:"",target_scientific_name:"Abedus indentatus",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"712034",target_taxon_id:"47157",target_scientific_name:"Lepidoptera",target_common_name:"Butterflies and Moths",interaction:"preysOn"},{subject_taxon_id:"712034",target_taxon_id:"184884",target_scientific_name:"Pterygota",target_common_name:"Winged and Once-winged Insects",interaction:"preysOn"}];export{t as default};

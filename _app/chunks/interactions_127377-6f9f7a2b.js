@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"127377",target_taxon_id:"49156",target_scientific_name:"Betula",target_common_name:"birches",interaction:"eats"},{subject_taxon_id:"127377",target_taxon_id:"",target_scientific_name:"Trichaptum biforme",target_common_name:"",interaction:"eats"}];export{t as default};

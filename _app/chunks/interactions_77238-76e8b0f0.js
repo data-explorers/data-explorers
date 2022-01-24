@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"77238",target_taxon_id:"53985",target_scientific_name:"Odocoileus hemionus californicus",target_common_name:"California Mule Deer",interaction:"eatenBy"},{subject_taxon_id:"77238",target_taxon_id:"121716",target_scientific_name:"Uresiphita reversalis",target_common_name:"Genista Broom Moth",interaction:"eatenBy"}];export{t as default};

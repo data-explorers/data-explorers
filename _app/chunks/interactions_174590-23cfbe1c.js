@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"174590",target_taxon_id:"47124",target_scientific_name:"Magnoliopsida",target_common_name:"dicots",interaction:"pollinates"},{subject_taxon_id:"174590",target_taxon_id:"",target_scientific_name:"Adesmia radicifolia",target_common_name:"",interaction:"pollinates"}];export{t as default};

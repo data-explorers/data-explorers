@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"120557",target_taxon_id:"",target_scientific_name:"Hesperia leonardus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"120557",target_taxon_id:"",target_scientific_name:"Ammodramus leconteii",target_common_name:"",interaction:"eatenBy"}];export{t as default};

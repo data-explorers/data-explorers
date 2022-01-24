@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"73592",target_taxon_id:"53911",target_scientific_name:"Cyprinus carpio",target_common_name:"European Carp",interaction:"eats"},{subject_taxon_id:"73592",target_taxon_id:"85553",target_scientific_name:"Serpentes",target_common_name:"Snakes",interaction:"preysOn"}];export{t as default};

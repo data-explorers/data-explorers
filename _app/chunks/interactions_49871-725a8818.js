@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"49871",target_taxon_id:"128828",target_scientific_name:"Eriphia smithii",target_common_name:"Red-eyed Reef Crab",interaction:"eatenBy"},{subject_taxon_id:"49871",target_taxon_id:"",target_scientific_name:"Eupithecia actaeata",target_common_name:"",interaction:"eatenBy"}];export{t as default};

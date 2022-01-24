@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"58010",target_taxon_id:"152131",target_scientific_name:"Bagrada hilaris",target_common_name:"Bagrada Bug",interaction:"eatenBy"},{subject_taxon_id:"58010",target_taxon_id:"179930",target_scientific_name:"Eriophyes",target_common_name:"",interaction:"eatenBy"}];export{t as default};

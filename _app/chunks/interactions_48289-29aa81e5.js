@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"48289",target_taxon_id:"63740",target_scientific_name:"Gadus morhua",target_common_name:"Atlantic Cod",interaction:"eatenBy"},{subject_taxon_id:"48289",target_taxon_id:"82351",target_scientific_name:"Melanogrammus aeglefinus",target_common_name:"Haddock",interaction:"eatenBy"}];export{t as default};

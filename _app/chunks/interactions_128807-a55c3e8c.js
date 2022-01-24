@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"128807",target_taxon_id:"",target_scientific_name:"Hydrellia",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"128807",target_taxon_id:"1280",target_scientific_name:"Colinus virginianus",target_common_name:"Northern Bobwhite",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"334716",target_taxon_id:"144483",target_scientific_name:"Esacus magnirostris",target_common_name:"Beach Stone-curlew",interaction:"eatenBy"},{subject_taxon_id:"334716",target_taxon_id:"2464",target_scientific_name:"Todiramphus sanctus",target_common_name:"Sacred Kingfisher",interaction:"eatenBy"}];export{t as default};

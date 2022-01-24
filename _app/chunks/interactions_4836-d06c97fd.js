@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"4836",target_taxon_id:"4647",target_scientific_name:"Falco peregrinus",target_common_name:"Peregrine Falcon",interaction:"eatenBy"},{subject_taxon_id:"4836",target_taxon_id:"5305",target_scientific_name:"Haliaeetus leucocephalus",target_common_name:"Bald Eagle",interaction:"eatenBy"}];export{e as default};

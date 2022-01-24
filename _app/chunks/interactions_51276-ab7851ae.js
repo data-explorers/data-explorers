@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"51276",target_taxon_id:"94043",target_scientific_name:"Anax imperator",target_common_name:"Blue Emperor",interaction:"eatenBy"},{subject_taxon_id:"51276",target_taxon_id:"94043",target_scientific_name:"Anax imperator",target_common_name:"Blue Emperor",interaction:"preyedUponBy"}];export{t as default};

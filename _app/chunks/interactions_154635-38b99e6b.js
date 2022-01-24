@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"154635",target_taxon_id:"28519",target_scientific_name:"Tantilla capistrata",target_common_name:"Capistrata Centipede Snake",interaction:"preyedUponBy"}];export{t as default};

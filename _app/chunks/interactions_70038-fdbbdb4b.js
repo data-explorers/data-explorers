@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"70038",target_taxon_id:"204660",target_scientific_name:"Cryptophlebia ombrodelta",target_common_name:"Macadamia Nutborer",interaction:"eatenBy"},{subject_taxon_id:"70038",target_taxon_id:"473772",target_scientific_name:"Prosopidopsylla flava",target_common_name:"",interaction:"eatenBy"}];export{t as default};

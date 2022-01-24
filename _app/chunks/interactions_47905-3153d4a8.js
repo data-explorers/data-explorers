@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"47905",target_taxon_id:"48662",target_scientific_name:"Danaus plexippus",target_common_name:"Monarch",interaction:"eatenBy"},{subject_taxon_id:"47905",target_taxon_id:"57678",target_scientific_name:"Lasioglossum",target_common_name:"",interaction:"pollinatedBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"563472",target_taxon_id:"",target_scientific_name:"Aster",target_common_name:"",interaction:"eats"},{subject_taxon_id:"563472",target_taxon_id:"119095",target_scientific_name:"Conoclinium coelestinum",target_common_name:"blue mistflower",interaction:"eats"}];export{t as default};

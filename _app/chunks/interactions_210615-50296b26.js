@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"210615",target_taxon_id:"48151",target_scientific_name:"Lamiales",target_common_name:"mints, plantains, olives, and allies",interaction:"eats"},{subject_taxon_id:"210615",target_taxon_id:"54570",target_scientific_name:"Mentha",target_common_name:"mints",interaction:"eats"}];export{t as default};

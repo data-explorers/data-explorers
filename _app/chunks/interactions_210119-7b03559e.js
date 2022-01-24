@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"210119",target_taxon_id:"",target_scientific_name:"Helicina",target_common_name:"",interaction:"preysOn"},{subject_taxon_id:"210119",target_taxon_id:"",target_scientific_name:"Gastrodontoidea",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"127155",target_taxon_id:"47632",target_scientific_name:"Katharina tunicata",target_common_name:"Black Leather Chiton",interaction:"eatenBy"},{subject_taxon_id:"127155",target_taxon_id:"56649",target_scientific_name:"Haliotis cracherodii",target_common_name:"Black Abalone",interaction:"eatenBy"}];export{t as default};

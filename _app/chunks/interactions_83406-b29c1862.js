@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"83406",target_taxon_id:"121854",target_scientific_name:"Psilogramma menephron",target_common_name:"Privet Hawkmoth",interaction:"eatenBy"},{subject_taxon_id:"83406",target_taxon_id:"502321",target_scientific_name:"Hyblaea ibidias",target_common_name:"",interaction:"eatenBy"}];export{t as default};

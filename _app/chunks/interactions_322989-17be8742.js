@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"322989",target_taxon_id:"47851",target_scientific_name:"Quercus",target_common_name:"oaks",interaction:"eats"},{subject_taxon_id:"322989",target_taxon_id:"",target_scientific_name:"phloem (Quercus spp.)",target_common_name:"",interaction:"eats"}];export{t as default};

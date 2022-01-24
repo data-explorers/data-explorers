@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"244646",target_taxon_id:"354333",target_scientific_name:"Acanthopagrus schlegelii",target_common_name:"Blackhead seabream",interaction:"eatenBy"},{subject_taxon_id:"244646",target_taxon_id:"354333",target_scientific_name:"Acanthopagrus schlegelii",target_common_name:"Blackhead seabream",interaction:"preyedUponBy"}];export{a as default};

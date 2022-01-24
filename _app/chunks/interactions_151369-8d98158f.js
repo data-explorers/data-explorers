@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"151369",target_taxon_id:"41529",target_scientific_name:"Globicephala melas",target_common_name:"Long-finned Pilot Whale",interaction:"eatenBy"},{subject_taxon_id:"151369",target_taxon_id:"41529",target_scientific_name:"Globicephala melas",target_common_name:"Long-finned Pilot Whale",interaction:"preyedUponBy"}];export{e as default};

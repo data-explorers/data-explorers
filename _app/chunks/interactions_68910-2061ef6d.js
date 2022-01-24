@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"68910",target_taxon_id:"5017",target_scientific_name:"Bubulcus ibis",target_common_name:"Cattle Egret",interaction:"eatenBy"},{subject_taxon_id:"68910",target_taxon_id:"",target_scientific_name:"http://treatment.plazi.org/id/03A787DE616B9B73CDAE3A02FC26FAB8",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

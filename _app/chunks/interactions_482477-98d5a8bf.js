@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"482477",target_taxon_id:"326330",target_scientific_name:"Astropecten aranciacus",target_common_name:"Red Comb Star",interaction:"eatenBy"},{subject_taxon_id:"482477",target_taxon_id:"4270",target_scientific_name:"Phalacrocorax carbo",target_common_name:"Great Cormorant",interaction:"eatenBy"}];export{t as default};

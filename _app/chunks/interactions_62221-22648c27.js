@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"62221",target_taxon_id:"",target_scientific_name:"Pegomya flavifrons",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"62221",target_taxon_id:"5562",target_scientific_name:"Trochilidae",target_common_name:"Hummingbirds",interaction:"pollinatedBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"61164",target_taxon_id:"47219",target_scientific_name:"Apis mellifera",target_common_name:"Western Honey Bee",interaction:"eatenBy"},{subject_taxon_id:"61164",target_taxon_id:"52775",target_scientific_name:"Bombus",target_common_name:"Bumble Bees",interaction:"eatenBy"}];export{e as default};

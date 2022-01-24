@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"541520",target_taxon_id:"75867",target_scientific_name:"Brasenia schreberi",target_common_name:"Watershield",interaction:"eats"},{subject_taxon_id:"541520",target_taxon_id:"51119",target_scientific_name:"Nymphaea odorata",target_common_name:"American white waterlily",interaction:"eats"}];export{t as default};

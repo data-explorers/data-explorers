@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"449684",target_taxon_id:"79033",target_scientific_name:"Sedum stenopetalum",target_common_name:"Wormleaf Stonecrop",interaction:"pollinates"},{subject_taxon_id:"449684",target_taxon_id:"168041",target_scientific_name:"Rubus deliciosus",target_common_name:"Rocky Mountain raspberry",interaction:"pollinates"}];export{t as default};

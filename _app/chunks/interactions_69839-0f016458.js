@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"69839",target_taxon_id:"130235",target_scientific_name:"Aurelia labiata",target_common_name:"Greater Moon Jelly",interaction:"eatenBy"},{subject_taxon_id:"69839",target_taxon_id:"130235",target_scientific_name:"Aurelia labiata",target_common_name:"Greater Moon Jelly",interaction:"preyedUponBy"}];export{t as default};

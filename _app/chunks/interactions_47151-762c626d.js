@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"47151",target_taxon_id:"",target_scientific_name:"Tenthredo scrophulariae",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"47151",target_taxon_id:"1264",target_scientific_name:"Centrocercus urophasianus",target_common_name:"Greater Sage-Grouse",interaction:"eatenBy"}];export{t as default};

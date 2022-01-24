@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"62406",target_taxon_id:"133766",target_scientific_name:"Augochlorella aurata",target_common_name:"Golden Sweat Bee",interaction:"pollinatedBy"},{subject_taxon_id:"62406",target_taxon_id:"",target_scientific_name:"http://treatment.plazi.org/id/EED24365E7EDB232C64777FA21186F79",target_common_name:"",interaction:"pollinatedBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"151502",target_taxon_id:"52306",target_scientific_name:"Squalus acanthias",target_common_name:"White-spotted Dogfish",interaction:"eatenBy"},{subject_taxon_id:"151502",target_taxon_id:"52306",target_scientific_name:"Squalus acanthias",target_common_name:"White-spotted Dogfish",interaction:"preyedUponBy"}];export{t as default};

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <html lang="en">
+    <head>
+      <meta charset="utf-8" />
+      <meta name="description" content="" />
+      <link rel="icon" href="/favicon.png" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      
+
+		
+
+		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/start-d5b4de3e.css">
+		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/vendor-9877410d.css">
+		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/pages/__layout.svelte-7fcccbd3.css">
+		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/pages/users/_users_/_projects_/explore-data.svelte-04e4f8d8.css">
+		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/observation_data-f8b72239.css">
+		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/bar_chart-e4e7a893.css">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/start-53fe8e05.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/vendor-ac733917.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/preload-helper-768eda0e.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/paths-28a87002.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/__layout.svelte-39739397.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-749be244.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/settings-335072b9.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/explore-data.svelte-3aacd052.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/observation_data-90cf8ccf.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/formatUtils-77b182ad.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/constants-3d7024b8.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/mapUtils-e9636914.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/bar_chart-7b26ba54.js">
+
+		<script type="module">
+			import { start } from "/inaturalist_data_explorer/_app/start-53fe8e05.js";
+			start({
+				target: document.querySelector("#svelte"),
+				paths: {"base":"/inaturalist_data_explorer","assets":"/inaturalist_data_explorer"},
+				session: {},
+				route: true,
+				spa: false,
+				trailing_slash: "never",
+				hydrate: {
+					status: 200,
+					error: null,
+					nodes: [
+						import("/inaturalist_data_explorer/_app/pages/__layout.svelte-39739397.js"),
+						import("/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-749be244.js"),
+						import("/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/explore-data.svelte-3aacd052.js")
+					],
+					url: new URL("http://prerender/users/rhelm/go-sea/explore-data"),
+					params: {users:"rhelm",projects:"go-sea"}
+				}
+			});
+		</script>
+    </head>
+    <body>
+      <div id="svelte">
+
+
+<header><nav class="navbar bg-neutral text-neutral-content"><div class="container mx-auto"><div class="px-2 mx-2"><a class="text-lg font-bold" href="/inaturalist_data_explorer/">Data Explorers </a></div>
+      <div class="px-2 mx-2"><a class="" href="/inaturalist_data_explorer/about">About </a></div></div></nav></header>
+
+<div class="hero" style="background-image: url(&quot;https://picsum.photos/id/1061/1600/500&quot;);"><div class="container mx-auto"><div class="text-neutral-content bg-neutral bg-opacity-50 p-1 inline-block"><h1>Global Ocean Surface Ecosystem Alliance (GO-SEA)</h1></div></div></div>
+
+<div class="container mx-auto"><div class="tabs mt-4"><a class="tab tab-bordered" href="/inaturalist_data_explorer/users/rhelm/go-sea/">About</a><a class="tab tab-bordered" href="/inaturalist_data_explorer/users/rhelm/go-sea/taxa">Species</a><a class="tab tab-bordered tab-active" href="/inaturalist_data_explorer/users/rhelm/go-sea/explore-data">Explore Data</a>
+    <a class="hidden" href="/inaturalist_data_explorer/users/rhelm/go-sea/taxa-list">list</a></div></div>
+
+<div class="prose max-w-none"><h1 class="px-3">Explore Data</h1>
+
+  <div class="grid lg:grid-cols-10 mb-6"><div class="lg:col-span-3 border-0 lg:border-r-2 border-t"><div class="grid">
+        <h3 class="bg-gray-200 mt-0 px-3 py-1">Biodiversity
+          <span class="arrow down-arrow svelte-114h8ez" style="top: 0; right: 0" title="click to show less info"></span></h3>
+
+        <section class="px-3 mb-3"><div class="max-w-lg mb-4 autocomplete svelte-b1whqg"><div class="hide-arrow  autocomplete select is-fullwidth sautocomplete-266 svelte-lduj97"><select  class="svelte-lduj97"></select>
+  <div class="input-container svelte-lduj97">
+    <input type="text" class=" input autocomplete-input svelte-lduj97" id="" autocomplete="some-other-text" placeholder="Search species name"   value="">
+    </div>
+  <div class=" autocomplete-list hidden is-fullwidth svelte-lduj97"><div class="autocomplete-list-item-no-results svelte-lduj97">No results found</div></div></div>
+
+</div>
+            
+
+            <label class="cursor-pointer block"><input type="checkbox" class="mr-2">
+                <span>Show 5 most observed species</span></label>
+
+            
+
+            <div class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2"></div></section>
+
+        
+        <h3 class="bg-gray-200 mt-0 px-3 py-1">Environmental Factors
+          <span class="arrow down-arrow svelte-114h8ez" style="top: 0; right: 0" title="click to show less info"></span></h3>
+        <section class="px-3 mb-3">
+
+            <label class="cursor-pointer block"><input type="checkbox">
+              <span>Demo map layer</span></label></section></div></div>
+
+    <div class="lg:col-span-7">
+      <div class="w-full rounded-none border stats"><div class="stat place-items-center place-content-center svelte-b1whqg"><div class="stat-title svelte-b1whqg">Observations</div>
+          <div class="stat-value svelte-b1whqg">0</div></div>
+        <div class="stat place-items-center place-content-center svelte-b1whqg"><div class="stat-title svelte-b1whqg">Observations on map
+            </div>
+          <div class="stat-value svelte-b1whqg">0</div></div>
+        <div class="stat place-items-center place-content-center svelte-b1whqg"><div class="stat-title svelte-b1whqg">Species</div>
+          <div class="stat-value svelte-b1whqg">0</div></div>
+
+        <div class="stat place-items-center place-content-center svelte-b1whqg"><div class="stat-title svelte-b1whqg">Species on map</div>
+          <div class="stat-value svelte-b1whqg">0</div></div></div>
+
+      
+      
+      <div class="relative">
+
+        
+        </div>
+
+      <div class="px-3">
+        
+
+        
+        <br>
+
+        <section></section>
+
+        
+        
+
+        
+
+        </div></div></div>
+</div>
+
+<footer class="mt-8 p-6 footer bg-neutral text-neutral-content"><div class="container mx-auto"><p>Copyright © 2021</p>
+    <p class="text-gray-700">[&quot;&quot;,&quot;users&quot;,&quot;rhelm&quot;,&quot;go-sea&quot;,&quot;explore-data&quot;]</p></div></footer>
+
+</div>
+    </body>
+  </html>
+</html>

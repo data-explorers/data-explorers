@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"55667",target_taxon_id:"13858",target_scientific_name:"Passer domesticus",target_common_name:"House Sparrow",interaction:"eatenBy"},{subject_taxon_id:"55667",target_taxon_id:"",target_scientific_name:"Macrophoma saginae",target_common_name:"",interaction:"eatenBy"}];export{t as default};

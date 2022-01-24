@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"144128",target_taxon_id:"41800",target_scientific_name:"Martes foina",target_common_name:"Stone Marten",interaction:"eatenBy"},{subject_taxon_id:"144128",target_taxon_id:"",target_scientific_name:"Lanius excubitor uncinatus",target_common_name:"",interaction:"eatenBy"}];export{t as default};

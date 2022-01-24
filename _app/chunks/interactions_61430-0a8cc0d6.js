@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"61430",target_taxon_id:"51333",target_scientific_name:"Macquaria australasica",target_common_name:"Macquarie Perch",interaction:"eatenBy"},{subject_taxon_id:"61430",target_taxon_id:"",target_scientific_name:"Aythya novaeseelandiae",target_common_name:"",interaction:"eatenBy"}];export{a as default};

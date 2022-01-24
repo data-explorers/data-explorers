@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"58133",target_taxon_id:"53843",target_scientific_name:"Brephidium exilis",target_common_name:"Western Pygmy-Blue",interaction:"eatenBy"},{subject_taxon_id:"58133",target_taxon_id:"557237",target_scientific_name:"Puccinia cressae",target_common_name:"alkali weed rust",interaction:"eatenBy"}];export{e as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"7449",target_taxon_id:"5106",target_scientific_name:"Accipiter nisus",target_common_name:"Eurasian Sparrowhawk",interaction:"eatenBy"},{subject_taxon_id:"7449",target_taxon_id:"19765",target_scientific_name:"Megascops asio",target_common_name:"Eastern Screech-Owl",interaction:"eatenBy"}];export{t as default};

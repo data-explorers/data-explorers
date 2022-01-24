@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"485191",target_taxon_id:"47226",target_scientific_name:"Papilio rutulus",target_common_name:"Western Tiger Swallowtail",interaction:"eatenBy"},{subject_taxon_id:"485191",target_taxon_id:"",target_scientific_name:"Amauromyza flavifrons",target_common_name:"",interaction:"eatenBy"}];export{t as default};

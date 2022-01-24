@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"219237",target_taxon_id:"47179",target_scientific_name:"Arctostaphylos",target_common_name:"bearberries and manzanitas",interaction:"eats"},{subject_taxon_id:"219237",target_taxon_id:"",target_scientific_name:"Arctostaphylos uva-ursi",target_common_name:"",interaction:"eats"}];export{t as default};

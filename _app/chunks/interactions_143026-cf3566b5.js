@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"143026",target_taxon_id:"",target_scientific_name:"Teia athlophora",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"143026",target_taxon_id:"555851",target_scientific_name:"Calcarifera ordinata",target_common_name:"",interaction:"eatenBy"}];export{t as default};

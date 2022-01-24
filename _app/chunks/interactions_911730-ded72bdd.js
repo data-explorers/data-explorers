@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"911730",target_taxon_id:"",target_scientific_name:"Hypsiglena torquata",target_common_name:"",interaction:"preyedUponBy"},{subject_taxon_id:"911730",target_taxon_id:"",target_scientific_name:"Micruroides euryxanthus",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

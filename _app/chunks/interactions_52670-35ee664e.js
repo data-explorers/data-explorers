@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"52670",target_taxon_id:"987534",target_scientific_name:"Aneugmenus coronatus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"52670",target_taxon_id:"",target_scientific_name:"Scirrhia aspidiorum",target_common_name:"",interaction:"eatenBy"}];export{t as default};

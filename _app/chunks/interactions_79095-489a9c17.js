@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"79095",target_taxon_id:"246009",target_scientific_name:"Acmaeodera hepburnii",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"79095",target_taxon_id:"888396",target_scientific_name:"Diadasia nigrifrons",target_common_name:"",interaction:"eatenBy"}];export{t as default};

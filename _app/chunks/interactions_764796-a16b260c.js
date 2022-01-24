@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"764796",target_taxon_id:"",target_scientific_name:"Monadenia fidelis",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"764796",target_taxon_id:"",target_scientific_name:"Ariolimax columbianus",target_common_name:"",interaction:"eatenBy"}];export{t as default};

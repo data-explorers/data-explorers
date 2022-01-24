@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"195428",target_taxon_id:"255140",target_scientific_name:"Stomotoca atra",target_common_name:"Hanging Stomach Jelly",interaction:"eatenBy"},{subject_taxon_id:"195428",target_taxon_id:"255140",target_scientific_name:"Stomotoca atra",target_common_name:"Hanging Stomach Jelly",interaction:"preyedUponBy"}];export{t as default};

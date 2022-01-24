@@ -1,0 +1,1 @@
+var n=[{subject_taxon_id:"47465",target_taxon_id:"649711",target_scientific_name:"Anemonia natalensis",target_common_name:"Natal Anemone",interaction:"preysOn"},{subject_taxon_id:"47465",target_taxon_id:"632854",target_scientific_name:"Bunodactis reynaudi",target_common_name:"sandy anemone",interaction:"preysOn"}];export{n as default};

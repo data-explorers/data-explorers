@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"75429",target_taxon_id:"62766",target_scientific_name:"Issoria lathonia",target_common_name:"Queen of Spain Fritillary",interaction:"eatenBy"},{subject_taxon_id:"75429",target_taxon_id:"47222",target_scientific_name:"Apoidea",target_common_name:"Bees and Apoid Wasps",interaction:"pollinatedBy"}];export{t as default};

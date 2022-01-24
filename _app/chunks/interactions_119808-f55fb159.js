@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"119808",target_taxon_id:"174566",target_scientific_name:"Callizzia amorata",target_common_name:"Gray Scoopwing",interaction:"eatenBy"},{subject_taxon_id:"119808",target_taxon_id:"52775",target_scientific_name:"Bombus",target_common_name:"Bumble Bees",interaction:"pollinatedBy"}];export{t as default};

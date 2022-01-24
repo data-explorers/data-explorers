@@ -15,21 +15,21 @@
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/pages/__layout.svelte-7fcccbd3.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-33959d23.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/observation_data-f8b72239.css">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/start-998b837b.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/start-53fe8e05.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/vendor-ac733917.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/preload-helper-768eda0e.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/paths-28a87002.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/__layout.svelte-39739397.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-36d74e6e.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/settings-ef690396.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-93de0785.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-749be244.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/settings-335072b9.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-d4cd210a.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/observation_data-90cf8ccf.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/formatUtils-77b182ad.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/constants-3d7024b8.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/mapUtils-e9636914.js">
 
 		<script type="module">
-			import { start } from "/inaturalist_data_explorer/_app/start-998b837b.js";
+			import { start } from "/inaturalist_data_explorer/_app/start-53fe8e05.js";
 			start({
 				target: document.querySelector("#svelte"),
 				paths: {"base":"/inaturalist_data_explorer","assets":"/inaturalist_data_explorer"},
@@ -42,8 +42,8 @@
 					error: null,
 					nodes: [
 						import("/inaturalist_data_explorer/_app/pages/__layout.svelte-39739397.js"),
-						import("/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-36d74e6e.js"),
-						import("/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-93de0785.js")
+						import("/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-749be244.js"),
+						import("/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-d4cd210a.js")
 					],
 					url: new URL("http://prerender/users/mbarton/los-angeles-bioblitz/taxa/33177"),
 					params: {users:"mbarton",projects:"los-angeles-bioblitz",taxon_id:"33177"}
@@ -146,9 +146,85 @@
 
   <h3>Species Interactions</h3>
 
+<p>The species with links are species that have observations.</p>
 
-
-<p>No species interactions available.</p>
+<div class="grid md:grid-cols-2 sm:grid-cols-1 gap-3"><div><h4>Eats</h4>
+  <ul><li class="svelte-ob6wry"><a href="/inaturalist_data_explorer/users/mbarton/los-angeles-bioblitz/taxa/47158">Insects (Insecta)</a>
+        </li><li class="svelte-ob6wry"><a href="/inaturalist_data_explorer/users/mbarton/los-angeles-bioblitz/taxa/69114">Harvester Ants (Pogonomyrmex)</a>
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(leaves)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Atta)</span><!-- HTML_TAG_END -->
+        </li></ul>
+      
+      </div>
+    <div><h4>Eaten by</h4>
+  <ul><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Crustaceans <span class="text-gray-400">(Crustacea)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><a href="/inaturalist_data_explorer/users/mbarton/los-angeles-bioblitz/taxa/5212">Red-tailed Hawk (Buteo jamaicensis)</a>
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Long-eared Owl <span class="text-gray-400">(Asio otus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Pseuderemias)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Geococcyx velox)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(land crustacea)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Pantropical Huntsman Spider <span class="text-gray-400">(Heteropoda venatoria)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Lycodon aulicus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Cattle Egret <span class="text-gray-400">(Bubulcus ibis)</span><!-- HTML_TAG_END -->
+        </li></ul>
+      <h4>Preyed upon by</h4>
+  <ul><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Guanabara Spotted Night Snake <span class="text-gray-400">(Siphlophis pulcher)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Leptodeira annulata)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Erythrolamprus viridis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Liophis poecilogyrus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Boddaert's Tropical Racer <span class="text-gray-400">(Mastigodryas boddaerti)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Pygmy Python <span class="text-gray-400">(Antaresia perthensis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Denisonia devisi)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Southern Vine Snake <span class="text-gray-400">(Thelotornis capensis capensis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Sri Lanka Cat Snake <span class="text-gray-400">(Boiga ceylonensis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Gonionotophis crossi)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Fork-marked Sand Snake <span class="text-gray-400">(Psammophis trinasalis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Morelia viridis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Woma Python <span class="text-gray-400">(Aspidites ramsayi)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Brown Tree Snake <span class="text-gray-400">(Boiga irregularis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Psammodynastes pulverulentus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Pythonodipsas carinata)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Stripe-bellied Sand Snake <span class="text-gray-400">(Psammophis subtaeniatus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Catesby's Snail-eater <span class="text-gray-400">(Dipsas catesbyi)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Suta fasciata)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Platyceps rhodorachis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->White-spotted Cat Snake <span class="text-gray-400">(Boiga drapiezii)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Western Sand Snake <span class="text-gray-400">(Psammophis trigrammus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Buff Striped Keelback <span class="text-gray-400">(Amphiesma stolatum)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Horned Adder <span class="text-gray-400">(Bitis caudalis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Lycodon fasciatus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Speckled Brown Snake <span class="text-gray-400">(Pseudonaja guttata)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Macroprotodon cucullatus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Suta suta)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Northern Brown Snake <span class="text-gray-400">(Pseudonaja nuchalis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Oriental Whipsnake <span class="text-gray-400">(Ahaetulla prasina)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Dendrelaphis pictus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Hoplocephalus bungaroides)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Lycodon aulicus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Dendrelaphis cyanochloris)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Horseshoe Whip Snake <span class="text-gray-400">(Hemorrhois hippocrepis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Solomons Coral Snake <span class="text-gray-400">(Salomonelaps par)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Bibron's Bevel-nosed Boa <span class="text-gray-400">(Candoia bibroni)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Gonionotophis capensis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Lycodon travancoricus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->New Guinea Ground Boa <span class="text-gray-400">(Candoia aspera)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Pseudonaja modesta)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Chrysopelea ornata)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Theobald's Kukri Snake <span class="text-gray-400">(Oligodon theobaldi)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Dendrelaphis biloreatus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Psammophis punctulatus trivirgatus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Pacific Boa <span class="text-gray-400">(Candoia carinata)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Atractaspis aterrima)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Hapsidophrys smaragdinus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Ahaetulla prasina preocularis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(land crustacea)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Megaderma lyra)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Macroderma)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Trachops cirrhosa)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Eopsaltria pulverulenta)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->White-throated Kingfisher <span class="text-gray-400">(Halcyon smyrnensis)</span><!-- HTML_TAG_END -->
+        </li></ul>
+      </div></div>
 
 <p>Species interaction data comes from <a class="external-link" href="https://www.globalbioticinteractions.org/?interactionType=interactsWith&sourceTaxon=Gekkonidae">GloBI</a>.
 </p>

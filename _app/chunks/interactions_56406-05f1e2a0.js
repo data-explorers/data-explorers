@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"56406",target_taxon_id:"",target_scientific_name:"Thumatha senex",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"56406",target_taxon_id:"",target_scientific_name:"Loreleia marchantiae",target_common_name:"",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"51494",target_taxon_id:"41147",target_scientific_name:"Macrotus californicus",target_common_name:"California Leaf-nosed Bat",interaction:"preyedUponBy"}];export{a as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"204094",target_taxon_id:"47434",target_scientific_name:"Poaceae",target_common_name:"grasses",interaction:"eats"},{subject_taxon_id:"204094",target_taxon_id:"5112",target_scientific_name:"Accipiter cooperii",target_common_name:"Cooper's Hawk",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"55786",target_taxon_id:"76647",target_scientific_name:"Dianthus deltoides",target_common_name:"Maiden Pink",interaction:"pollinates"},{subject_taxon_id:"55786",target_taxon_id:"",target_scientific_name:"Dianthus carthusianorum",target_common_name:"",interaction:"pollinates"}];export{t as default};

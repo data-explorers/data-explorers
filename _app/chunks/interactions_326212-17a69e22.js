@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"326212",target_taxon_id:"47902",target_scientific_name:"Opuntia",target_common_name:"Prickly Pears",interaction:"eats"},{subject_taxon_id:"326212",target_taxon_id:"",target_scientific_name:"Opuntia lindheimeri",target_common_name:"",interaction:"eats"}];export{t as default};

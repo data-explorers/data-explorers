@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"195408",target_taxon_id:"295630",target_scientific_name:"Aristaeomorpha foliacea",target_common_name:"Giant red shrimp",interaction:"eatenBy"},{subject_taxon_id:"195408",target_taxon_id:"51401",target_scientific_name:"Trachinotus ovatus",target_common_name:"Pompano",interaction:"eatenBy"}];export{t as default};

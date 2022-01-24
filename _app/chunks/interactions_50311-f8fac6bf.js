@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"50311",target_taxon_id:"47341",target_scientific_name:"Tapinoma",target_common_name:"",interaction:"pollinatedBy"},{subject_taxon_id:"50311",target_taxon_id:"",target_scientific_name:"",target_common_name:"",interaction:"pollinatedBy"}];export{t as default};

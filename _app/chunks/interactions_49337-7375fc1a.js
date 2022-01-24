@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"49337",target_taxon_id:"121821",target_scientific_name:"Sceliphron caementarium",target_common_name:"Yellow-legged Mud-dauber Wasp",interaction:"preyedUponBy"}];export{e as default};

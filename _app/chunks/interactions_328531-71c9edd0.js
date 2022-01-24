@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"328531",target_taxon_id:"98324",target_scientific_name:"Congiopodus torvus",target_common_name:"smooth horsefish",interaction:"eatenBy"},{subject_taxon_id:"328531",target_taxon_id:"367816",target_scientific_name:"Adelomelon ancilla",target_common_name:"Ancilla Volute",interaction:"eatenBy"}];export{t as default};

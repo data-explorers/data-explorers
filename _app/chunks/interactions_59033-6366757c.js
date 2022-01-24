@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"59033",target_taxon_id:"50340",target_scientific_name:"Hylephila phyleus",target_common_name:"Fiery Skipper",interaction:"eatenBy"},{subject_taxon_id:"59033",target_taxon_id:"62453",target_scientific_name:"Anthidium manicatum",target_common_name:"European Woolcarder Bee",interaction:"eatenBy"}];export{t as default};

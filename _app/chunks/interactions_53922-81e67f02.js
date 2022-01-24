@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"53922",target_taxon_id:"52777",target_scientific_name:"Megachilidae",target_common_name:"Mason, Leafcutter, Carder, and Resin Bees",interaction:"pollinatedBy"},{subject_taxon_id:"53922",target_taxon_id:"",target_scientific_name:"",target_common_name:"",interaction:"pollinatedBy"}];export{t as default};

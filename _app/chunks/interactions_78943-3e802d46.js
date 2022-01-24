@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"78943",target_taxon_id:"146950",target_scientific_name:"Chaitophorus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"78943",target_taxon_id:"84196",target_scientific_name:"Pontania californica",target_common_name:"Willow Apple Gall Sawfly",interaction:"eatenBy"}];export{t as default};

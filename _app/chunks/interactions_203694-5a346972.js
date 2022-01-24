@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"203694",target_taxon_id:"114126",target_scientific_name:"Thunnus thynnus",target_common_name:"Atlantic Bluefin Tuna",interaction:"eatenBy"},{subject_taxon_id:"203694",target_taxon_id:"114126",target_scientific_name:"Thunnus thynnus",target_common_name:"Atlantic Bluefin Tuna",interaction:"preyedUponBy"}];export{t as default};

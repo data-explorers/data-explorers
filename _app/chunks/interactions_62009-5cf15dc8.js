@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"62009",target_taxon_id:"",target_scientific_name:"Donacia crassipes",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"62009",target_taxon_id:"",target_scientific_name:"Galerucella nymphaeae",target_common_name:"",interaction:"eatenBy"}];export{t as default};

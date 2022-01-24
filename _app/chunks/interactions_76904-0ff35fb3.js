@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"76904",target_taxon_id:"",target_scientific_name:"Arawacus jada",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"76904",target_taxon_id:"556183",target_scientific_name:"Carduelis carduelis britannica",target_common_name:"British Goldfinch",interaction:"eatenBy"}];export{t as default};

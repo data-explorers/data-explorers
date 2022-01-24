@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"68166",target_taxon_id:"",target_scientific_name:"Banisteriopsis",target_common_name:"",interaction:"eats"},{subject_taxon_id:"68166",target_taxon_id:"",target_scientific_name:"Symphyopappus reticulatus",target_common_name:"",interaction:"eats"}];export{t as default};

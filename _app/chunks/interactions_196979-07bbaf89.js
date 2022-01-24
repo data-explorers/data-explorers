@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"196979",target_taxon_id:"47923",target_scientific_name:"Lycaenidae",target_common_name:"Gossamer-winged Butterflies",interaction:"eats"},{subject_taxon_id:"196979",target_taxon_id:"28396",target_scientific_name:"Thamnophis hammondii",target_common_name:"Two-striped Garter Snake",interaction:"preyedUponBy"}];export{t as default};

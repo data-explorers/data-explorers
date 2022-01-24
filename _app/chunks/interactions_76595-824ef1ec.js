@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"76595",target_taxon_id:"",target_scientific_name:"Pinnaspis aspidistriae",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"76595",target_taxon_id:"",target_scientific_name:"Japanese holly fern mottle pteridovirus",target_common_name:"",interaction:"eatenBy"}];export{t as default};

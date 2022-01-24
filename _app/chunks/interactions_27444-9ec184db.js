@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"27444",target_taxon_id:"30713",target_scientific_name:"Crotalus oreganus helleri",target_common_name:"Southern Pacific Rattlesnake",interaction:"preyedUponBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"64027",target_taxon_id:"",target_scientific_name:"Morpho aega",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"64027",target_taxon_id:"",target_scientific_name:"Cerodontha phragmitophila",target_common_name:"",interaction:"eatenBy"}];export{t as default};

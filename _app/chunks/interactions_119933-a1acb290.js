@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"119933",target_taxon_id:"36204",target_scientific_name:"Sceloporus occidentalis",target_common_name:"Western Fence Lizard",interaction:"eatenBy"},{subject_taxon_id:"119933",target_taxon_id:"36204",target_scientific_name:"Sceloporus occidentalis",target_common_name:"Western Fence Lizard",interaction:"preyedUponBy"}];export{e as default};

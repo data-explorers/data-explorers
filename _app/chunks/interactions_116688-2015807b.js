@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"116688",target_taxon_id:"154298",target_scientific_name:"Halictus ligatus",target_common_name:"Ligated Furrow Bee",interaction:"eatenBy"},{subject_taxon_id:"116688",target_taxon_id:"",target_scientific_name:"Gnorimoschema ambrosiaeella",target_common_name:"",interaction:"eatenBy"}];export{t as default};

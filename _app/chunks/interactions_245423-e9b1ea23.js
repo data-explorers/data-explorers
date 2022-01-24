@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"245423",target_taxon_id:"228388",target_scientific_name:"Pleurogrammus monopterygius",target_common_name:"Atka Mackerel",interaction:"eatenBy"},{subject_taxon_id:"245423",target_taxon_id:"180029",target_scientific_name:"Gadus macrocephalus",target_common_name:"Pacific Cod",interaction:"eatenBy"}];export{t as default};

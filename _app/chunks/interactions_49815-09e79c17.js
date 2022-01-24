@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"49815",target_taxon_id:"",target_scientific_name:"Navanax polyalphos",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"49815",target_taxon_id:"",target_scientific_name:"Navanax polyalphos",target_common_name:"",interaction:"preyedUponBy"}];export{a as default};

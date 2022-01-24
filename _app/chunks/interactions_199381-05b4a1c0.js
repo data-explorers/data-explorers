@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"199381",target_taxon_id:"61495",target_scientific_name:"Erythemis simplicicollis",target_common_name:"Eastern Pondhawk",interaction:"eatenBy"},{subject_taxon_id:"199381",target_taxon_id:"47345",target_scientific_name:"Agelenidae",target_common_name:"Funnel Weavers",interaction:"preyedUponBy"}];export{e as default};

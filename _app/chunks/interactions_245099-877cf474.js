@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"245099",target_taxon_id:"260476",target_scientific_name:"Plesionika acanthonotus",target_common_name:"Lesser striped shrimp",interaction:"eatenBy"},{subject_taxon_id:"245099",target_taxon_id:"106881",target_scientific_name:"Nephrops norvegicus",target_common_name:"Norway lobster",interaction:"eatenBy"}];export{t as default};

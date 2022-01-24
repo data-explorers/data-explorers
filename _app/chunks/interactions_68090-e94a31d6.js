@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"68090",target_taxon_id:"",target_scientific_name:"Choristoneura viridis",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"68090",target_taxon_id:"",target_scientific_name:"Cydia bracteatana",target_common_name:"",interaction:"eatenBy"}];export{t as default};

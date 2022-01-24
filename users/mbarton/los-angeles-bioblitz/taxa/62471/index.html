@@ -15,21 +15,21 @@
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/pages/__layout.svelte-7fcccbd3.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-33959d23.css">
 		<link rel="stylesheet" href="/inaturalist_data_explorer/_app/assets/observation_data-f8b72239.css">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/start-998b837b.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/start-53fe8e05.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/vendor-ac733917.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/preload-helper-768eda0e.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/paths-28a87002.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/__layout.svelte-39739397.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-36d74e6e.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/settings-ef690396.js">
-		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-93de0785.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-749be244.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/settings-335072b9.js">
+		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-d4cd210a.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/observation_data-90cf8ccf.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/formatUtils-77b182ad.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/constants-3d7024b8.js">
 		<link rel="modulepreload" href="/inaturalist_data_explorer/_app/chunks/mapUtils-e9636914.js">
 
 		<script type="module">
-			import { start } from "/inaturalist_data_explorer/_app/start-998b837b.js";
+			import { start } from "/inaturalist_data_explorer/_app/start-53fe8e05.js";
 			start({
 				target: document.querySelector("#svelte"),
 				paths: {"base":"/inaturalist_data_explorer","assets":"/inaturalist_data_explorer"},
@@ -42,8 +42,8 @@
 					error: null,
 					nodes: [
 						import("/inaturalist_data_explorer/_app/pages/__layout.svelte-39739397.js"),
-						import("/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-36d74e6e.js"),
-						import("/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-93de0785.js")
+						import("/inaturalist_data_explorer/_app/pages/users/_users_/__layout.svelte-749be244.js"),
+						import("/inaturalist_data_explorer/_app/pages/users/_users_/_projects_/taxa/_taxon_id_.svelte-d4cd210a.js")
 					],
 					url: new URL("http://prerender/users/mbarton/los-angeles-bioblitz/taxa/62471"),
 					params: {users:"mbarton",projects:"los-angeles-bioblitz",taxon_id:"62471"}
@@ -148,9 +148,59 @@
 
   <h3>Species Interactions</h3>
 
+<p>The species with links are species that have observations.</p>
 
-
-<p>No species interactions available.</p>
+<div class="grid md:grid-cols-2 sm:grid-cols-1 gap-3"><div><h4>Eats</h4>
+  <ul><li class="svelte-ob6wry"><a href="/inaturalist_data_explorer/users/mbarton/los-angeles-bioblitz/taxa/47126">Plants (Plantae)</a>
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(roots)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(saphrophytes)</span><!-- HTML_TAG_END -->
+        </li></ul>
+      <h4>Preys on</h4>
+  <ul><li class="svelte-ob6wry"><a href="/inaturalist_data_explorer/users/mbarton/los-angeles-bioblitz/taxa/62471">Keelback Slugs (Limacidae)</a>
+        </li><li class="svelte-ob6wry"><a href="/inaturalist_data_explorer/users/mbarton/los-angeles-bioblitz/taxa/47484">Helix Snails (Helicidae)</a>
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Monachoides incarnatus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Wide-mouthed Aegopinella <span class="text-gray-400">(Aegopinella nitens)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Aegopinella nitidula)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Trochulus striolatus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Perpolita hammonis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Clausilia bidentata)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Rounded Snail <span class="text-gray-400">(Discus rotundatus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Aegopinella pura)</span><!-- HTML_TAG_END -->
+        </li></ul>
+      </div>
+    <div><h4>Eaten by</h4>
+  <ul><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Mus sp.)</span><!-- HTML_TAG_END -->
+        </li></ul>
+      <h4>Preyed upon by</h4>
+  <ul><li class="svelte-ob6wry"><a href="/inaturalist_data_explorer/users/mbarton/los-angeles-bioblitz/taxa/49567">Ground Beetles (Carabidae)</a>
+        </li><li class="svelte-ob6wry"><a href="/inaturalist_data_explorer/users/mbarton/los-angeles-bioblitz/taxa/42069">Red Fox (Vulpes vulpes)</a>
+        </li><li class="svelte-ob6wry"><a href="/inaturalist_data_explorer/users/mbarton/los-angeles-bioblitz/taxa/62471">Keelback Slugs (Limacidae)</a>
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Paederus riparius)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->European Nursery Web Spider <span class="text-gray-400">(Pisaura mirabilis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Gabrius fermoralis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Pirata piscatorius)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Haemopis sanguisuga)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Fishing Spiders <span class="text-gray-400">(Dolomedes)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Diplocampa assimile)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Tetartopeus terminatum)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Reed Bunting <span class="text-gray-400">(Emberiza schoeniclus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Poecilus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Agonum viduum)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Robertus insignis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Acupalpus flavicollis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Trochosa spinipalpis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Anelosimus vittatus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Rough-chested Blackclock <span class="text-gray-400">(Pterostichus strenuus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Anguis fragilis)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START -->Common Grasshopper-warbler <span class="text-gray-400">(Locustella naevia)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Gabrius fermoralis (Hochh.))</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Bembidion assimile)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Abax)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Lehmannia marginata)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Abax parallelepipedus)</span><!-- HTML_TAG_END -->
+        </li><li class="svelte-ob6wry"><!-- HTML_TAG_START --><span class="text-gray-400">(Cychrus attenuatus)</span><!-- HTML_TAG_END -->
+        </li></ul>
+      </div></div>
 
 <p>Species interaction data comes from <a class="external-link" href="https://www.globalbioticinteractions.org/?interactionType=interactsWith&sourceTaxon=Limacidae">GloBI</a>.
 </p>

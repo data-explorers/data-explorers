@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"479459",target_taxon_id:"144455",target_scientific_name:"Ardea alba",target_common_name:"Great Egret",interaction:"eatenBy"},{subject_taxon_id:"479459",target_taxon_id:"144455",target_scientific_name:"Ardea alba",target_common_name:"Great Egret",interaction:"preyedUponBy"}];export{t as default};

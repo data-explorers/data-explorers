@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"90425",target_taxon_id:"",target_scientific_name:"Nyctophilus gouldi",target_common_name:"",interaction:"preyedUponBy"},{subject_taxon_id:"90425",target_taxon_id:"40544",target_scientific_name:"Chalinolobus gouldii",target_common_name:"Gould's Wattled Bat",interaction:"preyedUponBy"}];export{t as default};

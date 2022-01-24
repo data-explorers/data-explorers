@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"50249",target_taxon_id:"12901",target_scientific_name:"Catharus fuscescens",target_common_name:"Veery",interaction:"eatenBy"},{subject_taxon_id:"50249",target_taxon_id:"12890",target_scientific_name:"Catharus guttatus",target_common_name:"Hermit Thrush",interaction:"eatenBy"}];export{t as default};

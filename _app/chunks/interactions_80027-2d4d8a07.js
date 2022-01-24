@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"80027",target_taxon_id:"47201",target_scientific_name:"Hymenoptera",target_common_name:"Ants, Bees, Wasps, and Sawflies",interaction:"pollinatedBy"},{subject_taxon_id:"80027",target_taxon_id:"246009",target_scientific_name:"Acmaeodera hepburnii",target_common_name:"",interaction:"pollinatedBy"}];export{t as default};

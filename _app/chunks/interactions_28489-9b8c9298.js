@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"28489",target_taxon_id:"49556",target_scientific_name:"Chilopoda",target_common_name:"Centipedes",interaction:"preysOn"},{subject_taxon_id:"28489",target_taxon_id:"",target_scientific_name:"Micrurus fulvius",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

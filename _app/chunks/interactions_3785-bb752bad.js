@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"3785",target_taxon_id:"47178",target_scientific_name:"Actinopterygii",target_common_name:"Ray-finned Fishes",interaction:"eats"},{subject_taxon_id:"3785",target_taxon_id:"35347",target_scientific_name:"Amblyrhynchus cristatus",target_common_name:"Marine Iguana",interaction:"eatenBy"}];export{t as default};

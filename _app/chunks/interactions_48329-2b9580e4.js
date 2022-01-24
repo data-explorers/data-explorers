@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"48329",target_taxon_id:"39677",target_scientific_name:"Dermochelys coriacea",target_common_name:"Leatherback Sea Turtle",interaction:"eatenBy"},{subject_taxon_id:"48329",target_taxon_id:"663225",target_scientific_name:"Drymonema dalmatinum",target_common_name:"Big Pink Jelly",interaction:"eatenBy"}];export{t as default};

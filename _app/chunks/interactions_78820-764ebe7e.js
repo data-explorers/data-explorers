@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"78820",target_taxon_id:"126532",target_scientific_name:"Toxomerus geminatus",target_common_name:"Eastern Calligrapher",interaction:"eatenBy"},{subject_taxon_id:"78820",target_taxon_id:"",target_scientific_name:"Capreolus capreolus italicus",target_common_name:"",interaction:"eatenBy"}];export{t as default};

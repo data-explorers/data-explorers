@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"53814",target_taxon_id:"47170",target_scientific_name:"Fungi",target_common_name:"Fungi Including Lichens",interaction:"eats"},{subject_taxon_id:"53814",target_taxon_id:"",target_scientific_name:"Ganoderma curtisii",target_common_name:"",interaction:"eats"}];export{t as default};

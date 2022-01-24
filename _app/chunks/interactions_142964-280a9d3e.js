@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"142964",target_taxon_id:"445808",target_scientific_name:"Clinus superciliosus",target_common_name:"Super klipfish",interaction:"eatenBy"},{subject_taxon_id:"142964",target_taxon_id:"445834",target_scientific_name:"Cremnochorites capensis",target_common_name:"Cape triplefin",interaction:"eatenBy"}];export{t as default};

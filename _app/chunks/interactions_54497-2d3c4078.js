@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"54497",target_taxon_id:"",target_scientific_name:"Hexagonia hydnoides",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"54497",target_taxon_id:"218166",target_scientific_name:"Datana integerrima",target_common_name:"Walnut Caterpillar Moth",interaction:"eatenBy"}];export{t as default};

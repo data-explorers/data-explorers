@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"58558",target_taxon_id:"",target_scientific_name:"Phymata fasciata",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"58558",target_taxon_id:"342541",target_scientific_name:"Empusa fasciata",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

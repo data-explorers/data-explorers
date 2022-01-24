@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"56924",target_taxon_id:"103498",target_scientific_name:"Ischnura posita",target_common_name:"Fragile Forktail",interaction:"eatenBy"},{subject_taxon_id:"56924",target_taxon_id:"",target_scientific_name:"Empidonax alnorum",target_common_name:"",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"494535",target_taxon_id:"51103",target_scientific_name:"Pyrosomatidae",target_common_name:"Pyrosomes",interaction:"eats"},{subject_taxon_id:"494535",target_taxon_id:"",target_scientific_name:"Detritus",target_common_name:"",interaction:"eats"}];export{t as default};

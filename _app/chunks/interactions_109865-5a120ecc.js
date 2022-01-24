@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"109865",target_taxon_id:"56797",target_scientific_name:"Holacanthus passer",target_common_name:"King Angelfish",interaction:"eatenBy"},{subject_taxon_id:"109865",target_taxon_id:"56797",target_scientific_name:"Holacanthus passer",target_common_name:"King Angelfish",interaction:"preyedUponBy"}];export{t as default};

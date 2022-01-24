@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"59395",target_taxon_id:"151429",target_scientific_name:"Sepia officinalis",target_common_name:"European Common Cuttlefish",interaction:"eatenBy"},{subject_taxon_id:"59395",target_taxon_id:"55396",target_scientific_name:"Solea solea",target_common_name:"Common Sole",interaction:"eatenBy"}];export{t as default};

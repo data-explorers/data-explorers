@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"126972",target_taxon_id:"",target_scientific_name:"Trematomus lepidorhinus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"126972",target_taxon_id:"59283",target_scientific_name:"Pachygrapsus marmoratus",target_common_name:"Marbled Crab",interaction:"eatenBy"}];export{t as default};

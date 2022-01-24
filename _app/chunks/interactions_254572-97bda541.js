@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"254572",target_taxon_id:"47548",target_scientific_name:"Echinoidea",target_common_name:"Sea Urchins, Sand Dollars, and Heart Urchins",interaction:"eats"},{subject_taxon_id:"254572",target_taxon_id:"47549",target_scientific_name:"Echinodermata",target_common_name:"Echinoderms",interaction:"eats"}];export{t as default};

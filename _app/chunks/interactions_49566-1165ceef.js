@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"49566",target_taxon_id:"326777",target_scientific_name:"Aculeata",target_common_name:"Ants, Bees, and Stinging Wasps",interaction:"eats"},{subject_taxon_id:"49566",target_taxon_id:"",target_scientific_name:"Latrodectus variolus",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"68993",target_taxon_id:"7251",target_scientific_name:"Passeriformes",target_common_name:"Perching Birds",interaction:"eats"},{subject_taxon_id:"68993",target_taxon_id:"",target_scientific_name:"Quercus garryana",target_common_name:"",interaction:"eats"}];export{t as default};

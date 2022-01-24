@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"35222",target_taxon_id:"2417",target_scientific_name:"Dacelo leachii",target_common_name:"Blue-winged Kookaburra",interaction:"eatenBy"},{subject_taxon_id:"35222",target_taxon_id:"2417",target_scientific_name:"Dacelo leachii",target_common_name:"Blue-winged Kookaburra",interaction:"preyedUponBy"}];export{e as default};

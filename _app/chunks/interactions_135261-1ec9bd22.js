@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"135261",target_taxon_id:"",target_scientific_name:"Epiblema scudderiana",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"135261",target_taxon_id:"",target_scientific_name:"Eremnophila aureonotata",target_common_name:"",interaction:"eatenBy"}];export{t as default};

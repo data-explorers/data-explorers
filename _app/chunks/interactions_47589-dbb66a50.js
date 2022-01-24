@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"47589",target_taxon_id:"",target_scientific_name:"Sparganothis reticulatana",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"47589",target_taxon_id:"",target_scientific_name:"http://treatment.plazi.org/id/C04AB37A47FF8292046DC8BAC8787EF6",target_common_name:"",interaction:"pollinatedBy"}];export{t as default};

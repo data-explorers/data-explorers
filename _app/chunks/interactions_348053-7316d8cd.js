@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"348053",target_taxon_id:"325995",target_scientific_name:"Aequorea victoria",target_common_name:"Victoria's Crystal Jelly",interaction:"preyedUponBy"},{subject_taxon_id:"348053",target_taxon_id:"786996",target_scientific_name:"Cyanea ferruginea",target_common_name:"Pacific Lion's Mane Jelly",interaction:"preyedUponBy"}];export{e as default};

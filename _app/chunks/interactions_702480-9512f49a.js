@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"702480",target_taxon_id:"",target_scientific_name:"Prenolepis imparis",target_common_name:"",interaction:"preyedUponBy"},{subject_taxon_id:"702480",target_taxon_id:"",target_scientific_name:"Carabus serratus",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

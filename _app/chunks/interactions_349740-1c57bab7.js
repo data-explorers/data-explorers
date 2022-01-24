@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"349740",target_taxon_id:"57913",target_scientific_name:"Baccharis salicifolia",target_common_name:"mule fat",interaction:"eats"},{subject_taxon_id:"349740",target_taxon_id:"",target_scientific_name:"Baccharis salicifolia salicifolia",target_common_name:"",interaction:"eats"}];export{a as default};

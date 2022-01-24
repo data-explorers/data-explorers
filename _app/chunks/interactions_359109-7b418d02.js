@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"359109",target_taxon_id:"49311",target_scientific_name:"Myliobatis aquila",target_common_name:"Common Eagle Ray",interaction:"eatenBy"},{subject_taxon_id:"359109",target_taxon_id:"49311",target_scientific_name:"Myliobatis aquila",target_common_name:"Common Eagle Ray",interaction:"preyedUponBy"}];export{a as default};

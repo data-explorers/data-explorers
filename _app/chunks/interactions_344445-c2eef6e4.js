@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"344445",target_taxon_id:"336515",target_scientific_name:"Ludwigia nervosa",target_common_name:"",interaction:"pollinates"},{subject_taxon_id:"344445",target_taxon_id:"",target_scientific_name:"Ocimum basilicum",target_common_name:"",interaction:"pollinates"}];export{t as default};

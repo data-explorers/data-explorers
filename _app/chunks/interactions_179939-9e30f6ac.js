@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"179939",target_taxon_id:"",target_scientific_name:"Crotalus oreganus concolor",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"179939",target_taxon_id:"",target_scientific_name:"Crotalus oreganus concolor",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"245560",target_taxon_id:"",target_scientific_name:"Heterodontus francisci",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"245560",target_taxon_id:"60635",target_scientific_name:"Anarrhichthys ocellatus",target_common_name:"Wolf Eel",interaction:"eatenBy"}];export{t as default};

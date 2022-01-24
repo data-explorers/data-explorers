@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"120719",target_taxon_id:"506118",target_scientific_name:"Aphelocoma californica",target_common_name:"California Scrub-Jay",interaction:"preyedUponBy"},{subject_taxon_id:"120719",target_taxon_id:"4665",target_scientific_name:"Falco sparverius",target_common_name:"American Kestrel",interaction:"preyedUponBy"}];export{a as default};

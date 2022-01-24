@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"52715",target_taxon_id:"9100",target_scientific_name:"Melospiza melodia",target_common_name:"Song Sparrow",interaction:"eatenBy"},{subject_taxon_id:"52715",target_taxon_id:"13858",target_scientific_name:"Passer domesticus",target_common_name:"House Sparrow",interaction:"eatenBy"}];export{t as default};

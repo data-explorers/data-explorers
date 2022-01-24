@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"392122",target_taxon_id:"106260",target_scientific_name:"Mustelus lenticulatus",target_common_name:"Spotted Estuary Smooth-hound",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"179930",target_taxon_id:"58010",target_scientific_name:"Lepidospartum squamatum",target_common_name:"California Broomsage",interaction:"eats"},{subject_taxon_id:"179930",target_taxon_id:"",target_scientific_name:"Cocos",target_common_name:"",interaction:"eats"}];export{t as default};

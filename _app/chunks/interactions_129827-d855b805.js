@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"129827",target_taxon_id:"",target_scientific_name:"Calpodes ethlius",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"129827",target_taxon_id:"",target_scientific_name:"Quinta cannae",target_common_name:"",interaction:"eatenBy"}];export{t as default};

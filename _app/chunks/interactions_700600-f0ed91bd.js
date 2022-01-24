@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"700600",target_taxon_id:"41146",target_scientific_name:"Macrotus waterhousii",target_common_name:"Waterhouse's Leaf-nosed Bat",interaction:"preyedUponBy"}];export{t as default};

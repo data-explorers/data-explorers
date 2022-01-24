@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"63878",target_taxon_id:"244216",target_scientific_name:"Xylocopa sonorina",target_common_name:"Valley Carpenter Bee",interaction:"eatenBy"},{subject_taxon_id:"63878",target_taxon_id:"",target_scientific_name:"Homoncocnemis fortis",target_common_name:"",interaction:"eatenBy"}];export{t as default};

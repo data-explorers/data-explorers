@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"58412",target_taxon_id:"47120",target_scientific_name:"Arthropoda",target_common_name:"Arthropods",interaction:"preysOn"},{subject_taxon_id:"58412",target_taxon_id:"342614",target_scientific_name:"Entelegynae",target_common_name:"Entelegyne Spiders",interaction:"preysOn"}];export{t as default};

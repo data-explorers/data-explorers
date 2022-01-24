@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"121634",target_taxon_id:"",target_scientific_name:"Australacanthus halei",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"121634",target_taxon_id:"",target_scientific_name:"Bemisia atriplex",target_common_name:"",interaction:"eatenBy"}];export{t as default};

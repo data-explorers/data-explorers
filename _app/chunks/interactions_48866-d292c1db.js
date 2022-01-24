@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"48866",target_taxon_id:"46020",target_scientific_name:"Sciurus niger",target_common_name:"Fox Squirrel",interaction:"eatenBy"},{subject_taxon_id:"48866",target_taxon_id:"",target_scientific_name:"Opsiphanes boisduvallii",target_common_name:"",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"53077",target_taxon_id:"50892",target_scientific_name:"Euphydryas chalcedona",target_common_name:"Variable Checkerspot",interaction:"eatenBy"},{subject_taxon_id:"53077",target_taxon_id:"520456",target_scientific_name:"Icaricia acmon",target_common_name:"Acmon Blue",interaction:"eatenBy"}];export{t as default};

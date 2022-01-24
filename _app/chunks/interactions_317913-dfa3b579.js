@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"317913",target_taxon_id:"",target_scientific_name:"Tournefortia rufo-sericea",target_common_name:"",interaction:"pollinates"},{subject_taxon_id:"317913",target_taxon_id:"",target_scientific_name:"Cordia leucophlyctis",target_common_name:"",interaction:"pollinates"}];export{t as default};

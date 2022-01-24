@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"13847",target_taxon_id:"27697",target_scientific_name:"Boiga cyanea",target_common_name:"Green Cat Snake",interaction:"preyedUponBy"},{subject_taxon_id:"13847",target_taxon_id:"",target_scientific_name:"Telescopus obtusus",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

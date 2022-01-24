@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"71036",target_taxon_id:"",target_scientific_name:"Battus crassus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"71036",target_taxon_id:"",target_scientific_name:"Battus polydamas polydamas",target_common_name:"",interaction:"eatenBy"}];export{t as default};

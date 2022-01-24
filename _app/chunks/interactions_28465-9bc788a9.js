@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"28465",target_taxon_id:"1986",target_scientific_name:"Geococcyx californianus",target_common_name:"Greater Roadrunner",interaction:"preyedUponBy"},{subject_taxon_id:"28465",target_taxon_id:"",target_scientific_name:"Micrurus fulvius",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

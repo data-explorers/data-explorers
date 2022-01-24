@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"451739",target_taxon_id:"187569",target_scientific_name:"Istiompax indica",target_common_name:"Black Marlin",interaction:"eatenBy"},{subject_taxon_id:"451739",target_taxon_id:"3801",target_scientific_name:"Morus serrator",target_common_name:"Australasian Gannet",interaction:"eatenBy"}];export{t as default};

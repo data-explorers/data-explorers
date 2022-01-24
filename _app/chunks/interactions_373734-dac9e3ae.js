@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"373734",target_taxon_id:"51702",target_scientific_name:"Coccinella septempunctata",target_common_name:"Seven-spotted Lady Beetle",interaction:"eatenBy"}];export{t as default};

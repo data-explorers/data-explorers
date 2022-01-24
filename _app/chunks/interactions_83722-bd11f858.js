@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"83722",target_taxon_id:"",target_scientific_name:"Corvus caurinus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"83722",target_taxon_id:"7576",target_scientific_name:"Thryomanes bewickii",target_common_name:"Bewick's Wren",interaction:"preyedUponBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"1095093",target_taxon_id:"17364",target_scientific_name:"Vireo philadelphicus",target_common_name:"Philadelphia Vireo",interaction:"eatenBy"},{subject_taxon_id:"1095093",target_taxon_id:"47157",target_scientific_name:"Lepidoptera",target_common_name:"Butterflies and Moths",interaction:"preysOn"}];export{t as default};

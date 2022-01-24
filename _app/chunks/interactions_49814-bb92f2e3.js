@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"49814",target_taxon_id:"51178",target_scientific_name:"Astropecten indicus",target_common_name:"Plain Sand Star",interaction:"eatenBy"},{subject_taxon_id:"49814",target_taxon_id:"",target_scientific_name:"Trematomus bernacchii",target_common_name:"",interaction:"eatenBy"}];export{t as default};

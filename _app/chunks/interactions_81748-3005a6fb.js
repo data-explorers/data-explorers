@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"81748",target_taxon_id:"",target_scientific_name:"Eosphoropteryx thyatyroides",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"81748",target_taxon_id:"229082",target_scientific_name:"Pseudeva purpurigera",target_common_name:"Straight-lined Looper Moth",interaction:"eatenBy"}];export{t as default};

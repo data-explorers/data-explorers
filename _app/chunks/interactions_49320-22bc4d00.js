@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"49320",target_taxon_id:"180007",target_scientific_name:"Otospermophilus beecheyi",target_common_name:"California Ground Squirrel",interaction:"eatenBy"}];export{e as default};

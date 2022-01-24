@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"246478",target_taxon_id:"613255",target_scientific_name:"Mystacoleucus padangensis",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"246478",target_taxon_id:"179574",target_scientific_name:"Harengula clupeola",target_common_name:"False Herring",interaction:"eatenBy"}];export{t as default};

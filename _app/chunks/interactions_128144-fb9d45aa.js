@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"128144",target_taxon_id:"39677",target_scientific_name:"Dermochelys coriacea",target_common_name:"Leatherback Sea Turtle",interaction:"eatenBy"},{subject_taxon_id:"128144",target_taxon_id:"",target_scientific_name:"Dondice occidentalis",target_common_name:"",interaction:"eatenBy"}];export{t as default};

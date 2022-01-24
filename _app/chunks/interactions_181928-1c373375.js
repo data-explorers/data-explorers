@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"181928",target_taxon_id:"330199",target_scientific_name:"Ceroplastes sinensis",target_common_name:"Chinese Wax Scale",interaction:"eatenBy"},{subject_taxon_id:"181928",target_taxon_id:"384849",target_scientific_name:"Acalitus avicenniae",target_common_name:"Mangrove erineum mite",interaction:"eatenBy"}];export{e as default};

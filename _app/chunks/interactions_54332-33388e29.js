@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"54332",target_taxon_id:"55626",target_scientific_name:"Pieris rapae",target_common_name:"Cabbage White",interaction:"eatenBy"},{subject_taxon_id:"54332",target_taxon_id:"5562",target_scientific_name:"Trochilidae",target_common_name:"Hummingbirds",interaction:"pollinatedBy"}];export{t as default};

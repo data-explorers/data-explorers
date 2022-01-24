@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"84642",target_taxon_id:"179639",target_scientific_name:"Centropristis philadelphica",target_common_name:"Rock Sea Bass",interaction:"eatenBy"},{subject_taxon_id:"84642",target_taxon_id:"",target_scientific_name:"Heteronychus arator",target_common_name:"",interaction:"preysOn"}];export{t as default};

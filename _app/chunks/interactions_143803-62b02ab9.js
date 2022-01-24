@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"143803",target_taxon_id:"122381",target_scientific_name:"Cupido comyntas",target_common_name:"Eastern Tailed-Blue",interaction:"eatenBy"},{subject_taxon_id:"143803",target_taxon_id:"55487",target_scientific_name:"Diabrotica undecimpunctata",target_common_name:"Spotted Cucumber Beetle",interaction:"eatenBy"}];export{t as default};

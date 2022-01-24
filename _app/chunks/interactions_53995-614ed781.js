@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"53995",target_taxon_id:"56851",target_scientific_name:"Asclepias fascicularis",target_common_name:"narrowleaf milkweed",interaction:"eats"},{subject_taxon_id:"53995",target_taxon_id:"",target_scientific_name:"Asclepias subulata",target_common_name:"",interaction:"eats"}];export{t as default};

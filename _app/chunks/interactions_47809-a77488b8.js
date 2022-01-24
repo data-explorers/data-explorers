@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"47809",target_taxon_id:"617422",target_scientific_name:"Rudarius ercodes",target_common_name:"White-spotted Pygmy Filefish",interaction:"eatenBy"},{subject_taxon_id:"47809",target_taxon_id:"465054",target_scientific_name:"Pseudopleuronectes yokohamae",target_common_name:"Marbled Flounder",interaction:"eatenBy"}];export{e as default};

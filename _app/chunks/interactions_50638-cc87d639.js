@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"50638",target_taxon_id:"70000",target_scientific_name:"Xylocopa tabaniformis orpifex",target_common_name:"Foothill Carpenter Bee",interaction:"eatenBy"},{subject_taxon_id:"50638",target_taxon_id:"",target_scientific_name:"Dysaphis (Pomaphis) plantaginea",target_common_name:"",interaction:"eatenBy"}];export{t as default};

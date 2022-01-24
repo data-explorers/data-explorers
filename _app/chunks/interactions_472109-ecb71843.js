@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"472109",target_taxon_id:"64142",target_scientific_name:"Hazardia squarrosa",target_common_name:"saw-toothed goldenbush",interaction:"eats"},{subject_taxon_id:"472109",target_taxon_id:"55365",target_scientific_name:"Grindelia",target_common_name:"gumplants",interaction:"eats"}];export{t as default};

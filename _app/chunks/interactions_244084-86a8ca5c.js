@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"244084",target_taxon_id:"49575",target_scientific_name:"Pseudococcus",target_common_name:"",interaction:"preysOn"},{subject_taxon_id:"244084",target_taxon_id:"",target_scientific_name:"Eriococcus coriaceus",target_common_name:"",interaction:"preysOn"}];export{t as default};

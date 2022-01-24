@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"203199",target_taxon_id:"7493",target_scientific_name:"Polioptila caerulea",target_common_name:"Blue-gray Gnatcatcher",interaction:"eatenBy"},{subject_taxon_id:"203199",target_taxon_id:"6557",target_scientific_name:"Chaetura vauxi",target_common_name:"Vaux's Swift",interaction:"eatenBy"}];export{t as default};

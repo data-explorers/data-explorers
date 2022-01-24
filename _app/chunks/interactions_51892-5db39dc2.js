@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"51892",target_taxon_id:"5305",target_scientific_name:"Haliaeetus leucocephalus",target_common_name:"Bald Eagle",interaction:"eatenBy"},{subject_taxon_id:"51892",target_taxon_id:"102743",target_scientific_name:"Hexanchus griseus",target_common_name:"Bluntnose Sixgill Shark",interaction:"eatenBy"}];export{t as default};

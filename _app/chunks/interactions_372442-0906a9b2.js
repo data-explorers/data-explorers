@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"372442",target_taxon_id:"49339",target_scientific_name:"Encelia farinosa",target_common_name:"brittlebush",interaction:"eats"},{subject_taxon_id:"372442",target_taxon_id:"53034",target_scientific_name:"Ambrosia trifida",target_common_name:"giant ragweed",interaction:"eats"}];export{t as default};

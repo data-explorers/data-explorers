@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"55632",target_taxon_id:"",target_scientific_name:"Clossiana titania",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"55632",target_taxon_id:"58564",target_scientific_name:"Boloria bellona",target_common_name:"Meadow Fritillary",interaction:"eatenBy"}];export{t as default};

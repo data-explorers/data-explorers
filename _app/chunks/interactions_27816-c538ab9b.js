@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"27816",target_taxon_id:"41777",target_scientific_name:"Lontra canadensis",target_common_name:"North American River Otter",interaction:"eatenBy"},{subject_taxon_id:"27816",target_taxon_id:"",target_scientific_name:"Thamnophis sirtalis infernalis",target_common_name:"",interaction:"preyedUponBy"}];export{t as default};

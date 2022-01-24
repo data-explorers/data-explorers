@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"54403",target_taxon_id:"58578",target_scientific_name:"Euphydryas phaeton",target_common_name:"Baltimore Checkerspot",interaction:"eatenBy"},{subject_taxon_id:"54403",target_taxon_id:"118970",target_scientific_name:"Bombus impatiens",target_common_name:"Common Eastern Bumble Bee",interaction:"eatenBy"}];export{t as default};

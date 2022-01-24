@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"773518",target_taxon_id:"4345",target_scientific_name:"Larus occidentalis",target_common_name:"Western Gull",interaction:"eatenBy"},{subject_taxon_id:"773518",target_taxon_id:"4345",target_scientific_name:"Larus occidentalis",target_common_name:"Western Gull",interaction:"preyedUponBy"}];export{t as default};

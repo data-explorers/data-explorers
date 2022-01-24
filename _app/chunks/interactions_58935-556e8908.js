@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"58935",target_taxon_id:"43584",target_scientific_name:"Homo sapiens",target_common_name:"Human",interaction:"eatenBy"},{subject_taxon_id:"58935",target_taxon_id:"542",target_scientific_name:"Coturnicops noveboracensis",target_common_name:"Yellow Rail",interaction:"eatenBy"}];export{t as default};

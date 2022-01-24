@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"29923",target_taxon_id:"123594",target_scientific_name:"Anaxyrus americanus americanus",target_common_name:"Eastern American Toad",interaction:"eats"},{subject_taxon_id:"29923",target_taxon_id:"5212",target_scientific_name:"Buteo jamaicensis",target_common_name:"Red-tailed Hawk",interaction:"eatenBy"}];export{a as default};

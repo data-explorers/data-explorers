@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"713281",target_taxon_id:"125444",target_scientific_name:"Plexippus paykulli",target_common_name:"Pantropical Jumping Spider",interaction:"preyedUponBy"}];export{t as default};

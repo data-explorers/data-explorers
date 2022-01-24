@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"208608",target_taxon_id:"339974",target_scientific_name:"Eucalyptus leucoxylon",target_common_name:"Yellow gum",interaction:"eats"},{subject_taxon_id:"208608",target_taxon_id:"51815",target_scientific_name:"Eucalyptus",target_common_name:"eucalyptus",interaction:"eats"}];export{t as default};

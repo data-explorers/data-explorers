@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"1238898",target_taxon_id:"",target_scientific_name:"Merophyas divulsana",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"1238898",target_taxon_id:"",target_scientific_name:"Leipoa ocellata",target_common_name:"",interaction:"eatenBy"}];export{t as default};

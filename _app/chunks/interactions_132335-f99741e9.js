@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"132335",target_taxon_id:"168407",target_scientific_name:"Samolus valerandi",target_common_name:"Thin Leaf Brookweed",interaction:"pollinates"},{subject_taxon_id:"132335",target_taxon_id:"",target_scientific_name:"Thapsia garganica",target_common_name:"",interaction:"pollinates"}];export{a as default};

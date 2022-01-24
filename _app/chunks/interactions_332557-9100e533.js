@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"332557",target_taxon_id:"114355",target_scientific_name:"Triakis scyllium",target_common_name:"Banded houndshark",interaction:"eatenBy"},{subject_taxon_id:"332557",target_taxon_id:"",target_scientific_name:"Trisopterus minutus",target_common_name:"",interaction:"eatenBy"}];export{t as default};

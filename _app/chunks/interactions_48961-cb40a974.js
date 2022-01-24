@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"48961",target_taxon_id:"47208",target_scientific_name:"Coleoptera",target_common_name:"Beetles",interaction:"pollinatedBy"},{subject_taxon_id:"48961",target_taxon_id:"47822",target_scientific_name:"Diptera",target_common_name:"Flies",interaction:"pollinatedBy"}];export{t as default};

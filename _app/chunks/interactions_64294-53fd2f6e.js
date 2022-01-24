@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"64294",target_taxon_id:"",target_scientific_name:"Ctenarytaina eucalypti",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"64294",target_taxon_id:"",target_scientific_name:"Glycaspis minuscula",target_common_name:"",interaction:"eatenBy"}];export{t as default};

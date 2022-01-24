@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"161626",target_taxon_id:"85362",target_scientific_name:"Sphex ichneumoneus",target_common_name:"Great Golden Digger Wasp",interaction:"eatenBy"},{subject_taxon_id:"161626",target_taxon_id:"",target_scientific_name:"Myzinum quinquecinctum",target_common_name:"",interaction:"eatenBy"}];export{t as default};

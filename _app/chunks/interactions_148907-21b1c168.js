@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"148907",target_taxon_id:"54491",target_scientific_name:"Corylus avellana",target_common_name:"common hazel",interaction:"eats"},{subject_taxon_id:"148907",target_taxon_id:"49187",target_scientific_name:"Castanea",target_common_name:"Chestnuts",interaction:"eats"}];export{t as default};

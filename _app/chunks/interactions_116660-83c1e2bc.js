@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"116660",target_taxon_id:"97517",target_scientific_name:"Chimaera monstrosa",target_common_name:"rabbit fish",interaction:"eatenBy"},{subject_taxon_id:"116660",target_taxon_id:"61383",target_scientific_name:"Homarus americanus",target_common_name:"American Lobster",interaction:"eatenBy"}];export{t as default};

@@ -1,0 +1,1 @@
+var e=[{subject_taxon_id:"54467",target_taxon_id:"244407",target_scientific_name:"Zelus renardii",target_common_name:"Leafhopper Assassin Bug",interaction:"eatenBy"}];export{e as default};

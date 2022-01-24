@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"3078",target_taxon_id:"",target_scientific_name:"Erythroxylum",target_common_name:"",interaction:"eats"},{subject_taxon_id:"3078",target_taxon_id:"",target_scientific_name:"Byrsonima cydoniifolia",target_common_name:"",interaction:"eats"}];export{t as default};

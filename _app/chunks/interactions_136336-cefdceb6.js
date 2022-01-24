@@ -1,0 +1,1 @@
+var a=[{subject_taxon_id:"136336",target_taxon_id:"",target_scientific_name:"Edales pandava",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"136336",target_taxon_id:"123312",target_scientific_name:"Eumaeus childrenae",target_common_name:"Superb Cycadian",interaction:"eatenBy"}];export{a as default};

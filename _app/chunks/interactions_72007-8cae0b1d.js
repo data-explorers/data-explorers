@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"72007",target_taxon_id:"",target_scientific_name:"Hycleus atratus",target_common_name:"",interaction:"eatenBy"},{subject_taxon_id:"72007",target_taxon_id:"",target_scientific_name:"Eurydema ornata",target_common_name:"",interaction:"eatenBy"}];export{t as default};

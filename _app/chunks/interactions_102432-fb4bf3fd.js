@@ -1,0 +1,1 @@
+var t=[{subject_taxon_id:"102432",target_taxon_id:"127710",target_scientific_name:"Oxymonacanthus longirostris",target_common_name:"Longnose Filefish",interaction:"eatenBy"},{subject_taxon_id:"102432",target_taxon_id:"127710",target_scientific_name:"Oxymonacanthus longirostris",target_common_name:"Longnose Filefish",interaction:"preyedUponBy"}];export{t as default};
