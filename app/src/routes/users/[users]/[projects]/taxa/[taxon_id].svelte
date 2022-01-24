@@ -1,5 +1,4 @@
 <script context="module">
-  import allInteractions from '$lib/data/interactions.csv';
   import settings from '$lib/data/settings.json';
   import { formatRawTaxa, formatRawObservations } from '$lib/convert_data';
   import { base } from '$app/paths';
@@ -9,6 +8,13 @@
   export async function load({ params }) {
     let taxaData = await import(`../../../../../lib/data/${params.projects}/taxa.csv`);
     let taxa = formatRawTaxa(taxaData.default);
+    let interactions = []
+    try {
+      let interactionsData= await import(`../../../../../lib/data/interactions/interactions_${params.taxon_id}.csv`);
+      interactions = interactionsData.default
+    } catch {
+    }
+
 
     // find taxon that has observations
     let taxon = taxa.filter((taxon) => taxon.taxon_id == Number(params.taxon_id))[0] || {};
@@ -23,10 +29,6 @@
 
     let user = settings.filter((user) => user.username === params.users)[0];
     let project = user.projects.filter((project) => project.slug === params.projects)[0];
-    let interactions = allInteractions
-      .filter((i) => i.subject_taxon_id)
-      .filter((i) => i.subject_taxon_id == params.taxon_id);
-
     let projectPath = `${base}/users/${user.username}/${project.slug}`;
 
     return {
