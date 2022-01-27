@@ -1,6 +1,8 @@
 import time
 import numpy as np
 import requests
+import pandas as pd
+from pathlib import Path
 
 def fetchGlobi(taxon_name, interaction):
     time.sleep(0.25)
@@ -115,3 +117,84 @@ def formatInteractions(taxa_df, row, interaction, interactionLimit = 3):
 def add_inat_taxa_data(df, results):
     df.loc[df['target_scientific_name'] == results['scientific_name'], 'target_common_name'] = results['common_name']
     df.loc[df['target_scientific_name'] == results['scientific_name'], 'target_taxon_id'] = results['taxon_id']
+
+# ==================
+# create interactions for each project
+# create interaction for each taxa for each projects
+# ==================
+
+def log_df(df, nrows=5):
+    print(df.shape)
+    return df.head(nrows)
+
+def create_truncated_interactions_for_project(df, project_path):
+    """create one interaction file for each project with max number of interaction per type"""
+    current_id = None
+    current_interaction = None
+    count = 0
+    rows = []
+    for  index, row in df.iterrows():
+
+        if current_id != row['subject_taxon_id']:
+            current_id = row['subject_taxon_id']
+
+        if current_interaction != row['interaction']:
+            count = 1
+            current_interaction = row['interaction']
+
+        if count <= 50:
+            rows.append(row)
+
+        count += 1
+
+
+    truncated_df = pd.DataFrame(rows)
+    truncated_df.to_csv(project_path/'interactions.csv', index=False)
+    
+def create_taxon_interactions_for_project(df, project_path):
+    """create one interaction file for each taxa for each project"""
+    interactions_dir = project_path / 'interactions'
+    interactions_dir.mkdir(parents=True, exist_ok=True)
+
+    current_id = None
+    current_interaction = None
+    count = 0
+    rows = []
+    for  index, row in df.iterrows():
+
+        if current_id != row['subject_taxon_id']:
+            if current_id:
+                truncated_df = pd.DataFrame(rows)
+                truncated_df.to_csv(interactions_dir/f'interactions_{current_id}.csv', index=False)
+            current_id = row['subject_taxon_id']
+            rows = []
+
+        rows.append(row)
+
+        count += 1
+
+interaction_path = 'outputs/interactions.csv'
+
+cols = ['subject_taxon_id', 'target_taxon_id', 'target_scientific_name', 'target_common_name', 'interaction']
+interactions_df = pd.read_csv(interaction_path, dtype=str, usecols=cols)
+log_df(interactions_df)
+
+def create_interaction_files():
+    for dir_path in Path().glob('../app/src/lib/data/**/taxa.csv'):
+        print(dir_path)
+        project_taxa_path = dir_path
+        project_path = dir_path.parent 
+
+        cols = ['taxon_id']
+        df = pd.read_csv(project_taxa_path, dtype=str, usecols=cols)
+
+        ids = df['taxon_id'].unique()
+
+        project_interactions_df = interactions_df[interactions_df['subject_taxon_id'].isin(ids)].copy()
+        project_interactions_df['target_scientific_name'].fillna('',  inplace=True)
+        project_interactions_df = project_interactions_df[~project_interactions_df['target_scientific_name'].str.startswith('http')]
+
+        create_taxon_interactions_for_project(project_interactions_df, project_path)
+
+
+
