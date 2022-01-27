@@ -119,6 +119,22 @@ def create_taxa_la_df(df):
     return create_taxa_base_df(df, append_taxon_la)
 
 
+def append_taxon_gosea(taxon, row, rank):
+    taxon["id"] = row["id"]
+    taxon["user_login"] = row["user_login"]
+    taxon["image_url"] = row["image_url"]
+
+    if rank == row["rank"]:
+        taxon["observations_count"] = row["observations_count"]
+        taxon["field_guide"] = row["field_guide"]
+    else:
+        taxon["observations_count"] = 0
+        taxon["field_guide"] = np.nan
+
+
+def create_taxa_gosea_df(df):
+    return create_taxa_base_df(df, append_taxon_gosea)
+
 # =====================
 # create taxa file all projects
 # =====================
