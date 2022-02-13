@@ -26,7 +26,7 @@
 </script>
 
 <script>
-  import TaxaGrid from '$lib/components/taxa_grid.svelte';
+  import TaxaGrid from '$lib/components/taxa_list_grid.svelte';
   import { ranksReverse, speciesRanks } from '$lib/data/constants';
   import { toTitleCase, pluralize } from '$lib/formatUtils';
 
