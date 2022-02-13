@@ -2,16 +2,25 @@
   import settings from '$lib/data/settings.json';
 
   export async function load({ params }) {
+    let aboutText = '';
+    try {
+      let aboutFile = await import(`../../../lib/data/${params.projects}/about.md`);
+      aboutText = aboutFile.default;
+    } catch {}
+
     let user = settings.filter((user) => user.username === params.users)[0];
     let project = user.projects.filter((project) => project.slug === params.projects)[0];
 
-    return { props: { project } };
+    return { props: { project, aboutText } };
   }
 </script>
 
 <script>
   import { onMount } from 'svelte';
+  import SvelteMarkdown from 'svelte-markdown';
+
   export let project;
+  export let aboutText;
 
   let mapOptions = {
     latitude: project.latitude,
@@ -68,20 +77,23 @@
             </td>
           </tr>
         </table>
-        {@html project.description}
+        {#if aboutText.length}
+          <SvelteMarkdown source={aboutText} />
+        {:else}
+          {@html project.description}
+          <div class="">
+            <h2>Project Questions</h2>
+            <ol>
+              <li>Sint labore sunt magna duis officia pariatur ut?</li>
+              <li>Officia in ea non non aliquip ad duis est veniam proident in ut velit dolor?</li>
+              <li>Id incididunt cillum magna dolor?</li>
+            </ol>
+          </div>
+        {/if}
       </div>
       <div>
         <svelte:component this={Map} {mapOptions} />
       </div>
-    </div>
-
-    <div class="">
-      <h2>Project Questions</h2>
-      <ol>
-        <li>Sint labore sunt magna duis officia pariatur ut?</li>
-        <li>Officia in ea non non aliquip ad duis est veniam proident in ut velit dolor?</li>
-        <li>Id incididunt cillum magna dolor?</li>
-      </ol>
     </div>
   </div>
 </main>

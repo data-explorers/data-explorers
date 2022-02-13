@@ -1,6 +1,8 @@
 import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-static';
 import dsv from '@rollup/plugin-dsv';
+import { string } from 'rollup-plugin-string';
+
 const dev = process.env.NODE_ENV === 'development';
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -14,7 +16,12 @@ const config = {
       base: dev ? '' : '/inaturalist_data_explorer'
     },
     vite: {
-      plugins: [dsv()]
+      plugins: [
+        dsv(),
+        string({
+          include: ['**/*.md']
+        })
+      ]
     }
   },
   preprocess: [preprocess({})]
