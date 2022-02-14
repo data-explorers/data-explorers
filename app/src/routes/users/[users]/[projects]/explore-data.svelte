@@ -180,7 +180,7 @@
   let showObservationHighlight = false;
   let showBiodiversity = true;
   let showEnvironment = true;
-  let hasClimate = project.slug !== 'go-sea'
+  let hasClimate = project.slug !== 'go-sea';
 
   projectObservations = projectObservations.filter((o) => o.latitude && o.longitude);
 
@@ -359,8 +359,7 @@
     });
 
     // close observation popup if it part of the removed taxon
-    showObservationHighlight = observationsIds.has(observationHighlight.id)
-
+    showObservationHighlight = observationsIds.has(observationHighlight.id);
 
     // remove observations for deleted taxon
     let tempObservations = {};

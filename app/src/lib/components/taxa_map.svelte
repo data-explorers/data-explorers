@@ -13,7 +13,6 @@
     coldMonths,
     rectangleLatitudeZoom,
     rectangleLongitudeZoom,
-    getMonthName,
     scaleControlOptions,
     isObservationInMap
   } from '$lib/mapUtils';
@@ -26,7 +25,7 @@
     getSpecies,
     updateTimeSpans
   } from '$lib/dataUtils';
-  import { modulo, range } from '$lib/miscUtils';
+  import { modulo } from '$lib/miscUtils';
   import { tooltip } from '$lib/tooltip.js';
   import {
     setupTaxaAllChart,
@@ -37,7 +36,6 @@
   import TimeSpanFilters from '$lib/components/map_time_span_filter.svelte';
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
   import MapLayersControl from '$lib/components/map_layers_control.svelte';
-  import InfoIcon from '$lib/components/icons/info.svelte';
   import MapSpeciesList from '$lib/components/map_species_list.svelte';
   import ToggleMarkerTypeButton from '$lib/components/map_toggle_marker_type_button.svelte';
 

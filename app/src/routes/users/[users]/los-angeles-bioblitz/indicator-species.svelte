@@ -3,11 +3,12 @@
   import { formatTaxonDisplayName } from '$lib/formatUtils';
   import { base } from '$app/paths';
 
-  export async function load({ params, url }) {
+  export async function load({ params }) {
     let user = settings.filter((user) => user.username === params.users)[0];
     let project = user.projects.filter((project) => project.slug === 'los-angeles-bioblitz')[0];
+    let projectPath = `${base}/users/${user.username}/${project.slug}`;
 
-    return { props: { user, project } };
+    return { props: { projectPath } };
   }
 </script>
 
@@ -15,10 +16,9 @@
   import allTaxa from '$lib/data/los-angeles-bioblitz/taxa.csv';
   import { pluralize } from '$lib/formatUtils';
 
-  let taxa = allTaxa.filter((t) => !!t.taxon_group);
+  export let projectPath;
 
-  export let user;
-  export let project;
+  let taxa = allTaxa.filter((t) => !!t.taxon_group);
 </script>
 
 <main class="container mx-auto">
@@ -28,7 +28,7 @@
     <div class="grid lg:grid-cols-4 md:grid-cols-3  sm:grid-cols-2 justify-center gap-3">
       {#each taxa as taxon}
         <div class="image-card">
-          <a href="{base}/users/{user.username}/{project.slug}/taxa/{taxon.taxon_id}">
+          <a href="{projectPath}/taxa/{taxon.taxon_id}">
             <figure>
               {#if taxon.image_url}
                 <img src={taxon.image_url} alt="photo of {formatTaxonDisplayName(taxon)}" />

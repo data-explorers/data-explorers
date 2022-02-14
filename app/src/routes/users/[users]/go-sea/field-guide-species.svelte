@@ -1,9 +1,8 @@
 <script context="module">
   import settings from '$lib/data/settings.json';
-  import { formatTaxonDisplayName } from '$lib/formatUtils';
   import { base } from '$app/paths';
 
-  export async function load({ params, url }) {
+  export async function load({ params }) {
     let user = settings.filter((user) => user.username === params.users)[0];
     let project = user.projects.filter((project) => project.slug === 'go-sea')[0];
     let projectPath = `${base}/users/${user.username}/${project.slug}`;

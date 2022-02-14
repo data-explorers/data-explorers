@@ -8,13 +8,13 @@
   export async function load({ params }) {
     let taxaData = await import(`../../../../../lib/data/${params.projects}/taxa.csv`);
     let taxa = formatRawTaxa(taxaData.default);
-    let interactions = []
+    let interactions = [];
     try {
-      let interactionsData= await import(`../../../../../lib/data/interactions/interactions_${params.taxon_id}.csv`);
-      interactions = interactionsData.default
-    } catch {
-    }
-
+      let interactionsData = await import(
+        `../../../../../lib/data/interactions/interactions_${params.taxon_id}.csv`
+      );
+      interactions = interactionsData.default;
+    } catch {}
 
     // find taxon that has observations
     let taxon = taxa.filter((taxon) => taxon.taxon_id == Number(params.taxon_id))[0] || {};
