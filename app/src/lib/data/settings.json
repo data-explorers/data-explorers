@@ -398,15 +398,21 @@
             "link": ""
           },
           {
-            "label": "Species",
+            "label": "Field Guide Species",
             "component": "TaxaGrid",
             "value": 1,
+            "link": "field-guide-species"
+          },
+          {
+            "label": "Species",
+            "component": "TaxaGrid",
+            "value": 2,
             "link": "taxa"
           },
           {
             "label": "Explore Data",
             "component": "ExploreData",
-            "value": 2,
+            "value": 3,
             "link": "explore-data"
           }
         ],
