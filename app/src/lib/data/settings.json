@@ -357,13 +357,19 @@
             "name": "Native Plant Communities",
             "type": "geojson",
             "options": {},
-            "file": "NativePlantCommunities_CedarCreek.geojson"
+            "file": "NativePlantCommunities_CedarCreek.geojson",
+            "popup_fields": [{ "name": "Type", "original_name": "ENAME_display" }],
+            "opacity": 0.75,
+            "fillOpacity": 0.75
           },
           {
             "name": "Soil Type",
             "type": "geojson",
             "options": {},
-            "file": "Soil_Types_CedarCreek.geojson"
+            "file": "Soil_Types_CedarCreek.geojson",
+            "popup_fields": [{ "name": "Soil Type", "original_name": "SOILKEY" }],
+            "opacity": 0.75,
+            "fillOpacity": 0.75
           }
         ]
       }

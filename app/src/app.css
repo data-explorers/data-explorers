@@ -194,3 +194,7 @@ main.container {
 .btn {
   @apply normal-case;
 }
+
+.prose .popup-table {
+  font-size: 12px;
+}
