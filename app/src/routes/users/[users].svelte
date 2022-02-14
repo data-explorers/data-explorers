@@ -35,7 +35,6 @@
           <div class="image-card-body">
             <a href="{base}/users/{user.username}/{project.slug}">
               <h2>{project.title}</h2>
-              <p>{project.summary}</p>
             </a>
           </div>
         </div>

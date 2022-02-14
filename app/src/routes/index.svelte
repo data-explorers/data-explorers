@@ -31,7 +31,6 @@
           <div class="image-card-body">
             <a href={user_data.card_link}>
               <h2>{user_data.card_title}</h2>
-              <p>{user_data.card_summary}</p>
             </a>
           </div>
         </div>

@@ -2,13 +2,11 @@
   {
     "username": "mbarton",
     "card_title": "Los Angeles Bioblitz Challenge",
-    "card_summary": "Tempor sint irure incididunt sit voluptate laboris nulla incid.",
     "image": "https://picsum.photos/id/244",
     "projects": [
       {
         "id": 1,
         "title": "Los Angeles Bioblitz Challenge",
-        "summary": "Tempor sint irure incididunt sit voluptate laboris nulla incid.",
         "slug": "los-angeles-bioblitz",
         "location": "Los Angeles, California, USA",
         "start_date": "2021",
@@ -78,13 +76,11 @@
   {
     "username": "lgertzer",
     "card_title": "Clarkstown High School North",
-    "card_summary": "Dolor sunt ipsum eiusmod nisi ut veniam eu in aute voluptate.",
     "image": "https://picsum.photos/id/152",
     "projects": [
       {
         "id": 2,
         "title": "Clarkstown High School North",
-        "summary": "Dolor sunt ipsum eiusmod nisi ut veniam eu in aute voluptate.",
         "slug": "clarkstown-high-school-north",
         "location": "Clarkstown High School North, New City, New York, USA",
         "start_date": "2015",
@@ -151,13 +147,11 @@
   {
     "username": "avilchez",
     "card_title": "Ciencia Ciudadana Per\u00fa",
-    "card_summary": "Est et aute Lorem veniam id amet adipisicing proident laboris.",
     "image": "https://picsum.photos/id/18",
     "projects": [
       {
         "id": 3,
         "title": "Murci\u00e9lagos en mi ciudad",
-        "summary": "Est et aute Lorem veniam id amet adipisicing proident laboris.",
         "slug": "ciencia-ciudadana-peru-bats",
         "location": "Peru",
         "start_date": "2011",
@@ -223,7 +217,6 @@
       {
         "id": 4,
         "title": "Abejas en mi ciudad",
-        "summary": "Est et aute Lorem veniam id amet adipisicing proident laboris.",
         "slug": "ciencia-ciudadana-peru-bees",
         "location": "Peru",
         "start_date": "2011",
@@ -286,13 +279,11 @@
   {
     "username": "cpotter",
     "card_title": "Cedar Creek Ecosystem Science Reserve",
-    "card_summary": "Ut officia ut nostrud amet deserunt non voluptate.",
     "image": "https://picsum.photos/id/1003",
     "projects": [
       {
         "id": 5,
         "title": "Cedar Creek Ecosystem Science Reserve",
-        "summary": "Ut officia ut nostrud amet deserunt non voluptate.",
         "slug": "cedar-creek-reserve",
         "location": "Cedar Creek Ecosystem Science Reserve, East Bethel, Minnesota, USA",
         "start_date": "2012",
@@ -359,13 +350,11 @@
   {
     "username": "rhelm",
     "card_title": "Global Ocean Surface Ecosystem Alliance (GO-SEA)",
-    "card_summary": "Ut officia ut nostrud amet deserunt non voluptate.",
     "image": "https://picsum.photos/id/1061",
     "projects": [
       {
         "id": 6,
         "title": "Global Ocean Surface Ecosystem Alliance (GO-SEA)",
-        "summary": "Ut officia ut nostrud amet deserunt non voluptate.",
         "slug": "go-sea",
         "location": "Oceans",
         "start_date": "2021",
