@@ -69,7 +69,15 @@
         "observations_count": 14841,
         "observers_count": 1854,
         "taxa_count": 1625,
-        "species_count": 1625
+        "species_count": 1625,
+        "map_layers": [
+          {
+            "name": "City Boundary",
+            "type": "geojson",
+            "options": {},
+            "file": "City_Boundary.geojson"
+          }
+        ]
       }
     ]
   },

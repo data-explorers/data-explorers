@@ -2,6 +2,7 @@ import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-static';
 import dsv from '@rollup/plugin-dsv';
 import { string } from 'rollup-plugin-string';
+import geojson from 'rollup-plugin-geojson';
 
 const dev = process.env.NODE_ENV === 'development';
 
@@ -17,6 +18,7 @@ const config = {
     },
     vite: {
       plugins: [
+        geojson(),
         dsv(),
         string({
           include: ['**/*.md']

@@ -33,6 +33,7 @@
   export let speciesCount;
   export let speciesDisplayCount;
   export let speciesList;
+  export let project;
 
   let leafletMap;
   let map;
@@ -219,7 +220,7 @@
 <div style="width: 100%; height: 70vh;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
     <!-- base layers must be set up before MarkerCluster  -->
-    <MapLayersControl {country} />
+    <MapLayersControl {country} {project} />
     {#each taxaHistory as taxon}
       {#if taxon.showInatTaxonRange}
         <TileLayer zIndex={201} url={taxon.InatTaxonRangeUrl} />

@@ -363,7 +363,7 @@
 </div>
 <div id="taxa-map" style="width: 100%; height: 400px;">
   <LeafletMap bind:this={leafletMap} options={mapOptions}>
-    <MapLayersControl country={project.country} />
+    <MapLayersControl country={project.country} {project} />
     <!-- marker clusters -->
     {#if useMarkerCluster}
       <MarkerCluster items={observationsOnMap} />

@@ -3,8 +3,13 @@
   import { getMapTiles } from '$lib/mapUtils';
 
   export let country;
+  export let project;
 
   let tiles = getMapTiles();
+  let overlays = [];
+  if (project && project.map_layers) {
+    overlays = project.map_layers;
+  }
 
   let baseLayers = {
     Street: tiles.OpenStreetMap,
@@ -17,4 +22,4 @@
   baseLayers['None'] = { url: '', options: {} };
 </script>
 
-<LayerControl baseLayersData={baseLayers} />
+<LayerControl baseLayersData={baseLayers} overlayLayersData={overlays} />

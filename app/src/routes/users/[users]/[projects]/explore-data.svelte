@@ -22,6 +22,13 @@
     let observationData = await import(`../../../../lib/data/${params.projects}/observations.csv`);
     let projectObservations = formatRawObservations(observationData.default);
 
+    if (project.map_layers) {
+      project.map_layers.forEach(async (layer, index) => {
+        project.map_layers[index]['data'] = await import(
+          `../../../../lib/data/${params.projects}/map_layers/${layer.file}`
+        );
+      });
+    }
     return { props: { project, user, currentTab, projectObservations, taxa, projectPath } };
   }
 </script>
@@ -696,6 +703,7 @@
           {showDemoMapLayer}
           {taxaHistory}
           {mapCenter}
+          {project}
           country={project.country}
           on:markerClick={changeObservation}
           on:updateStats={updateStatsHandler}

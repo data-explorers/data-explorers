@@ -31,6 +31,13 @@
     let project = user.projects.filter((project) => project.slug === params.projects)[0];
     let projectPath = `${base}/users/${user.username}/${project.slug}`;
 
+    if (project.map_layers) {
+      project.map_layers.forEach(async (layer, index) => {
+        project.map_layers[index]['data'] = await import(
+          `../../../../../lib/data/${params.projects}/map_layers/${layer.file}`
+        );
+      });
+    }
     return {
       props: {
         taxon,
