@@ -5,8 +5,6 @@ import { string } from 'rollup-plugin-string';
 import geojson from 'rollup-plugin-geojson';
 import json from '@rollup/plugin-json';
 
-const dev = process.env.NODE_ENV === 'development';
-
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   kit: {
@@ -15,7 +13,7 @@ const config = {
     adapter: adapter(),
     paths: {
       // /inaturalist_data_explorer
-      base: dev ? '' : '/inaturalist_data_explorer'
+      base: ''
     },
     vite: {
       plugins: [
