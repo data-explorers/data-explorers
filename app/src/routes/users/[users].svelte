@@ -28,7 +28,10 @@
         <div class="image-card">
           <a href="{base}/users/{user.username}/{project.slug}">
             <figure>
-              <img src="{project.image}/400/250" alt="Photo for {project.title}" />
+              <img
+                src="{base}/images/{user.username}/{project.image}"
+                alt="Photo for {project.title}"
+              />
             </figure>
           </a>
 

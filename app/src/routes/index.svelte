@@ -22,7 +22,7 @@
           <a href={user_data.card_link}>
             <figure>
               <img
-                src="{base}/images/{user_data.username}/user.jpg"
+                src="{base}/images/{user_data.username}/{user_data.image}"
                 alt="Photo for {user_data.card_title}"
               />
             </figure>
