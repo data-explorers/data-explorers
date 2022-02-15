@@ -351,7 +351,21 @@
         "observations_count": 3807,
         "observers_count": 290,
         "taxa_count": 709,
-        "species_count": 709
+        "species_count": 709,
+        "map_layers": [
+          {
+            "name": "Native Plant Communities",
+            "type": "geojson",
+            "options": {},
+            "file": "NativePlantCommunities_CedarCreek.geojson"
+          },
+          {
+            "name": "Soil Type",
+            "type": "geojson",
+            "options": {},
+            "file": "Soil_Types_CedarCreek.geojson"
+          }
+        ]
       }
     ]
   },
