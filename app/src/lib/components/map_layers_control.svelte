@@ -14,6 +14,7 @@
   if (country === 'USA') {
     baseLayers['Satellite'] = tiles.USGSImagery;
   }
+  baseLayers['None'] = { url: '', options: {} };
 </script>
 
 <LayerControl baseLayersData={baseLayers} />
