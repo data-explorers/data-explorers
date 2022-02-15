@@ -21,17 +21,26 @@
       taxa = res.default;
     }
 
-    return { props: { taxa, projectPath } };
+    let taxaText = '';
+    if (project.has_taxa_text) {
+      let aboutFile = await import(`../../../../lib/data/${project.slug}/taxa.md`);
+      taxaText = aboutFile.default;
+    }
+
+    return { props: { taxa, projectPath, taxaText } };
   }
 </script>
 
 <script>
+  import SvelteMarkdown from 'svelte-markdown';
+
   import TaxaGrid from '$lib/components/taxa_list_grid.svelte';
   import { ranksReverse, speciesRanks } from '$lib/data/constants';
   import { toTitleCase, pluralize } from '$lib/formatUtils';
 
   export let taxa;
   export let projectPath;
+  export let taxaText;
 
   $: {
     if (currentRank === 'species') {
@@ -52,6 +61,9 @@
 
 <main class="container mx-auto">
   <div class="prose max-w-none">
+    {#if taxaText.length > 0}
+      <SvelteMarkdown source={taxaText} />
+    {/if}
     <h1>{toTitleCase(pluralize(currentRank, displayTaxa.length))}</h1>
 
     <ul class="submenu">

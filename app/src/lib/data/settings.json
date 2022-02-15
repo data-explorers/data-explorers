@@ -70,6 +70,8 @@
         "observers_count": 1854,
         "taxa_count": 1625,
         "species_count": 1625,
+        "has_about_text": false,
+        "has_taxa_text": false,
         "map_layers": [
           {
             "name": "City Boundary",
@@ -148,7 +150,9 @@
         "observations_count": 1086,
         "observers_count": 187,
         "taxa_count": 250,
-        "species_count": 250
+        "species_count": 250,
+        "has_about_text": false,
+        "has_taxa_text": false
       }
     ]
   },
@@ -220,7 +224,9 @@
         "observations_count": 41,
         "observers_count": 16,
         "taxa_count": 8,
-        "species_count": 8
+        "species_count": 8,
+        "has_about_text": false,
+        "has_taxa_text": false
       },
       {
         "id": 4,
@@ -280,7 +286,9 @@
         "observations_count": 452,
         "observers_count": 154,
         "taxa_count": 8,
-        "species_count": 8
+        "species_count": 8,
+        "has_about_text": false,
+        "has_taxa_text": false
       }
     ]
   },
@@ -352,6 +360,8 @@
         "observers_count": 290,
         "taxa_count": 709,
         "species_count": 709,
+        "has_about_text": true,
+        "has_taxa_text": true,
         "map_layers": [
           {
             "name": "Native Plant Communities",
@@ -448,7 +458,9 @@
         "observations_count": 3869,
         "observers_count": 733,
         "taxa_count": 709,
-        "species_count": 714
+        "species_count": 714,
+        "has_about_text": true,
+        "has_taxa_text": false
       }
     ]
   }

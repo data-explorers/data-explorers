@@ -2,14 +2,14 @@
   import settings from '$lib/data/settings.json';
 
   export async function load({ params }) {
-    let aboutText = '';
-    try {
-      let aboutFile = await import(`../../../lib/data/${params.projects}/about.md`);
-      aboutText = aboutFile.default;
-    } catch {}
-
     let user = settings.filter((user) => user.username === params.users)[0];
     let project = user.projects.filter((project) => project.slug === params.projects)[0];
+
+    let aboutText = '';
+    if (project.has_about_text) {
+      let aboutFile = await import(`../../../lib/data/${params.projects}/about.md`);
+      aboutText = aboutFile.default;
+    }
 
     return { props: { project, aboutText } };
   }
