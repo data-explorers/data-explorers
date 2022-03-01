@@ -22,6 +22,18 @@
     let observationData = await import(`../../../../lib/data/${params.projects}/observations.csv`);
     let projectObservations = formatRawObservations(observationData.default);
 
+    let hasClimateGraph =
+      project.graphs && project.graphs.some((g) => g.type == 'temperature_precipation');
+    let climateChartData;
+    let climateChartOptions;
+    if (hasClimateGraph) {
+      climateChartOptions = project.graphs.filter((g) => g.type == 'temperature_precipation')[0];
+      let dataFile = await import(
+        `../../../../lib/data/${params.projects}/${climateChartOptions.file}`
+      );
+      climateChartData = dataFile.default;
+    }
+
     if (project.map_layers) {
       project.map_layers.forEach(async (layer, index) => {
         project.map_layers[index]['data'] = await import(
@@ -29,7 +41,18 @@
         );
       });
     }
-    return { props: { project, user, currentTab, projectObservations, taxa, projectPath } };
+    return {
+      props: {
+        project,
+        user,
+        currentTab,
+        projectObservations,
+        taxa,
+        projectPath,
+        climateChartData,
+        climateChartOptions
+      }
+    };
   }
 </script>
 
@@ -63,7 +86,7 @@
   import MapSpeciesList from '$lib/components/map_species_list.svelte';
   import ShowMore from '$lib/components/show_more.svelte';
   import XIcon from '$lib/components/icons/x.svelte';
-
+  import ClimateChart from '$lib/components/charts/climate_chart.svelte';
   import barChartGroupJson from '$lib/charts/bar_chart_group.json';
   import barChartJson from '$lib/charts/bar_chart.json';
 
@@ -73,6 +96,8 @@
   export let projectObservations;
   export let taxa;
   export let projectPath;
+  export let climateChartData;
+  export let climateChartOptions;
 
   $: if (taxaHistory.length === 0) {
     showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
@@ -164,7 +189,6 @@
   let timeSpanHistory = {}; // all the time spans
   let showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
   let showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
-  let showClimate = false;
   let showDemoMapLayer = false;
   let taxaCount = 0;
   let loading = false;
@@ -187,6 +211,7 @@
   let showObservationHighlight = false;
   let showBiodiversity = true;
   let showEnvironment = true;
+  let showClimate = false;
   let hasClimate = project.slug !== 'go-sea';
 
   projectObservations = projectObservations.filter((o) => o.latitude && o.longitude);
@@ -778,14 +803,16 @@
         {#if taxaHistory.length > 0}
           <div id="ed-chart" class="w-full mt-4" />
         {/if}
-
         {#if showClimate}
           <h3 class="text-center">Temperature and Preciptation</h3>
-
-          <img
-            src="{base}/images/{user.username}/{project.slug}/climate-chart.png"
-            alt="climate chart for {project.location}"
-          />
+          {#if climateChartData}
+            <ClimateChart {climateChartData} {climateChartOptions} />
+          {:else}
+            <img
+              src="{base}/images/{user.username}/{project.slug}/climate-chart.png"
+              alt="climate chart for {project.location}"
+            />
+          {/if}
         {/if}
       </div>
     </div>

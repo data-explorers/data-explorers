@@ -332,3 +332,14 @@ export function drawChart(spec, chartSelector) {
     .then((result) => {})
     .catch(console.warn);
 }
+
+export function formatClimateData(weather, mapping) {
+  return weather.map((datum) => {
+    return {
+      'Maximum Temperature (F)': datum[mapping['Maximum Temperature (F)']],
+      'Minimum Temperature (F)': datum[mapping['Minimum Temperature (F)']],
+      'Precipation (inches)': datum[mapping['Precipation (inches)']],
+      Month: getMonthName(new Date(`${datum.Month}-15-2020`).getMonth())
+    };
+  });
+}

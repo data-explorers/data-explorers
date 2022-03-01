@@ -381,6 +381,17 @@
             "opacity": 0.75,
             "fillOpacity": 0.75
           }
+        ],
+        "graphs": [
+          {
+            "type": "temperature_precipation",
+            "file": "ClimateSummaryData.csv",
+            "mapping": {
+              "Maximum Temperature (F)": "Max Temp (F)",
+              "Minimum Temperature (F)": "Min Temp (F)",
+              "Precipation (inches)": "Precip (inches of water)"
+            }
+          }
         ]
       }
     ]
