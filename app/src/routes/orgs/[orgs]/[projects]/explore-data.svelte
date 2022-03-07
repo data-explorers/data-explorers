@@ -8,14 +8,14 @@
   import { base } from '$app/paths';
 
   export async function load({ params, url }) {
-    let user = settings.filter((user) => user.username === params.users)[0];
-    let project = user.projects.filter((project) => project.slug === params.projects)[0];
+    let org = settings.filter((org) => org.username === params.orgs)[0];
+    let project = org.projects.filter((project) => project.slug === params.projects)[0];
     let pathParts = url.pathname.split('/');
     let currentTab = project.tabs_project.filter(
       (tab) => tab.link === pathParts[pathParts.length - 1]
     )[0];
 
-    let projectPath = `${base}/users/${user.username}/${project.slug}`;
+    let projectPath = `${base}/orgs/${org.username}/${project.slug}`;
 
     let taxaData = await import(`../../../../lib/data/${params.projects}/taxa.csv`);
     let taxa = formatRawTaxa(taxaData.default);
@@ -44,7 +44,7 @@
     return {
       props: {
         project,
-        user,
+        org,
         currentTab,
         projectObservations,
         taxa,
@@ -91,7 +91,7 @@
   import barChartJson from '$lib/charts/bar_chart.json';
 
   export let project;
-  export let user;
+  export let org;
   export let currentTab;
   export let projectObservations;
   export let taxa;
@@ -809,7 +809,7 @@
             <ClimateChart {climateChartData} {climateChartOptions} />
           {:else}
             <img
-              src="{base}/images/{user.username}/{project.slug}/climate-chart.png"
+              src="{base}/images/{org.username}/{project.slug}/climate-chart.png"
               alt="climate chart for {project.location}"
             />
           {/if}

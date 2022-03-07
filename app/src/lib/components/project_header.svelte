@@ -1,6 +1,6 @@
 <script>
   export let project;
-  export let user;
+  export let org;
   import { page } from '$app/stores';
   import { base } from '$app/paths';
 
@@ -8,7 +8,7 @@
     return {
       label: tab.label,
       value: tab.value,
-      slug: `${base}/users/${user.username}/${project.slug}/${tab.link}`,
+      slug: `${base}/orgs/${org.username}/${project.slug}/${tab.link}`,
       link: tab.link.length > 0 ? tab.link : project.slug
     };
   });
@@ -17,7 +17,7 @@
   if (project.image.startsWith('https://picsum')) {
     heroImage = `${project.image}/1600/500`;
   } else {
-    heroImage = `${base}/images/${user.username}/${project.image.replace('.jpg', '_hero.jpg')}`;
+    heroImage = `${base}/images/${org.username}/${project.image.replace('.jpg', '_hero.jpg')}`;
   }
 </script>
 
@@ -40,6 +40,6 @@
         href={tab.slug}>{tab.label}</a
       >
     {/each}
-    <a class="hidden" href="{base}/users/{user.username}/{project.slug}/taxa-list">list</a>
+    <a class="hidden" href="{base}/orgs/{org.username}/{project.slug}/taxa-list">list</a>
   </div>
 </div>

@@ -5,9 +5,9 @@
   for (let index = 0; index < settings.length; index++) {
     const user_data = settings[index];
     if (user_data.projects.length === 1) {
-      user_data.card_link = `${base}/users/${user_data.username}/${user_data.projects[0].slug}`;
+      user_data.card_link = `${base}/orgs/${user_data.username}/${user_data.projects[0].slug}`;
     } else {
-      user_data.card_link = `${base}/users/${user_data.username}`;
+      user_data.card_link = `${base}/orgs/${user_data.username}`;
     }
   }
 </script>

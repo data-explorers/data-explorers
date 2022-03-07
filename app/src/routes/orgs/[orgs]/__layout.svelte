@@ -3,7 +3,7 @@
   import { base } from '$app/paths';
 
   export async function load({ params, url }) {
-    let user = settings.filter((user) => user.username === params.users)[0];
+    let org = settings.filter((org) => org.username === params.orgs)[0];
     let pathParts = url.pathname.split('/');
 
     // BUG: for production, 'inaturalist_data_explorer' is included in the
@@ -12,14 +12,14 @@
     let projectSlug = params.projects;
     let project;
     if (projectSlug) {
-      project = user.projects.filter((project) => project.slug === projectSlug)[0];
+      project = org.projects.filter((project) => project.slug === projectSlug)[0];
     } else {
-      project = user.projects.filter((project) => project.slug === pathParts[3])[0];
+      project = org.projects.filter((project) => project.slug === pathParts[3])[0];
     }
     if (!project) {
-      project = user.projects.filter((project) => project.slug === pathParts[4])[0];
+      project = org.projects.filter((project) => project.slug === pathParts[4])[0];
     }
-    return { props: { project, user } };
+    return { props: { project, org } };
   }
 </script>
 
@@ -27,9 +27,9 @@
   import ProjectHeader from '$lib/components/project_header.svelte';
 
   export let project;
-  export let user;
+  export let org;
 </script>
 
-<ProjectHeader {project} {user} />
+<ProjectHeader {project} {org} />
 
 <slot />

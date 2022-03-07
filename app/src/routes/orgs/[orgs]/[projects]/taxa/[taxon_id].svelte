@@ -27,9 +27,9 @@
       .filter((o) => o.taxon_ids)
       .filter((o) => o.taxon_ids.split('|').includes('' + params.taxon_id));
 
-    let user = settings.filter((user) => user.username === params.users)[0];
-    let project = user.projects.filter((project) => project.slug === params.projects)[0];
-    let projectPath = `${base}/users/${user.username}/${project.slug}`;
+    let org = settings.filter((org) => org.username === params.orgs)[0];
+    let project = org.projects.filter((project) => project.slug === params.projects)[0];
+    let projectPath = `${base}/orgs/${org.username}/${project.slug}`;
 
     if (project.map_layers) {
       project.map_layers.forEach(async (layer, index) => {
@@ -41,7 +41,7 @@
     return {
       props: {
         taxon,
-        user,
+        org,
         project,
         observations,
         interactions,
