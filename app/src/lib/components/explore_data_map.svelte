@@ -54,6 +54,7 @@
   let observationsSelectedCount = 0;
   let observationsDirty = false;
   let maxZoom = 0;
+  let limitTaxaToSpecies = false
 
   const dispatch = createEventDispatcher();
 
@@ -72,8 +73,8 @@
       observationsOnMapCount = countObservations(observationsOnMap);
 
       // species data
-      speciesCount = countSpecies(observationsSelected);
-      speciesList = getSpecies(observationsOnMap);
+      speciesCount = countSpecies(observationsSelected, limitTaxaToSpecies);
+      speciesList = getSpecies(observationsOnMap, limitTaxaToSpecies);
       speciesDisplayCount = speciesList.length;
 
       dispatch('updateStats', {

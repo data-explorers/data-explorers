@@ -199,24 +199,17 @@ export function countObservations(observations) {
   }
 }
 
-export function countSpecies(observations) {
-  if (Array.isArray(observations)) {
-    return new Set(observations.filter((o) => speciesRanks.includes(o.rank)).map((o) => o.taxon_id))
-      .size;
-  } else {
-    let uniqueIds = new Set();
-    observations.forEach((values, key) => {
-      values.filter((o) => speciesRanks.includes(o.rank)).forEach((o) => uniqueIds.add(o.taxon_id));
-    });
-    return uniqueIds.size;
-  }
+export function countSpecies(observations, limitToSpecies = false) {
+  return getSpecies(observations, limitToSpecies).length;
 }
 
-export function getSpecies(observations) {
+export function getSpecies(observations, limitToSpecies = false) {
   if (Array.isArray(observations)) {
     let uniqueTaxa = {};
+    if (limitToSpecies) {
+      observations = observations.filter((o) => speciesRanks.includes(o.rank));
+    }
     observations
-      .filter((o) => speciesRanks.includes(o.rank))
       .forEach((o) => {
         uniqueTaxa[o.taxon_id] = { taxon_id: o.taxon_id, name: formatTaxonDisplayName(o, true) };
       });
@@ -225,8 +218,10 @@ export function getSpecies(observations) {
   } else {
     let uniqueTaxa = {};
     observations.forEach((values, key) => {
+      if (limitToSpecies) {
+        values = values.filter((o) => speciesRanks.includes(o.rank));
+      }
       values
-        .filter((o) => speciesRanks.includes(o.rank))
         .forEach((o) => {
           uniqueTaxa[o.taxon_id] = { taxon_id: o.taxon_id, name: formatTaxonDisplayName(o, true) };
         });

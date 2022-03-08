@@ -46,6 +46,7 @@
   export let mapCenter;
   export let project;
   export let taxon;
+  export let limitTaxaToSpecies=false
 
   // load and filter observations every time taxa changes
   $: {
@@ -95,8 +96,8 @@
       observationsOnMapCount = countObservations(observationsOnMap);
 
       // species data
-      speciesCount = countSpecies(observationsSelected);
-      speciesList = getSpecies(observationsOnMap);
+      speciesCount = countSpecies(observationsSelected, limitTaxaToSpecies);
+      speciesList = getSpecies(observationsOnMap, limitTaxaToSpecies);
       speciesDisplayCount = speciesList.length;
       showSpeciesListInput =
         speciesList.length > 1 ||
