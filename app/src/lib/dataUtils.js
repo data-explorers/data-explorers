@@ -211,7 +211,7 @@ export function getSpecies(observations, limitToSpecies = false) {
     }
     observations
       .forEach((o) => {
-        uniqueTaxa[o.taxon_id] = { taxon_id: o.taxon_id, name: formatTaxonDisplayName(o, true) };
+        uniqueTaxa[o.taxon_id] = { taxon_id: o.taxon_id, name: formatTaxonDisplayName(o, true), rank: o.rank };
       });
 
     return Object.values(uniqueTaxa);
@@ -223,7 +223,7 @@ export function getSpecies(observations, limitToSpecies = false) {
       }
       values
         .forEach((o) => {
-          uniqueTaxa[o.taxon_id] = { taxon_id: o.taxon_id, name: formatTaxonDisplayName(o, true) };
+          uniqueTaxa[o.taxon_id] = { taxon_id: o.taxon_id, name: formatTaxonDisplayName(o, true), rank: o.rank };
         });
     });
     return Object.values(uniqueTaxa);
