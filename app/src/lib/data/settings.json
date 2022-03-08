@@ -52,6 +52,12 @@
             "component": "ExploreData",
             "value": 3,
             "link": "explore-data"
+          },
+          {
+            "label": "Observers",
+            "component": "UsersGrid",
+            "value": 4,
+            "link": "users"
           }
         ],
         "tabs_taxa": [
@@ -133,6 +139,12 @@
             "component": "ExploreData",
             "value": 2,
             "link": "explore-data"
+          },
+          {
+            "label": "Observers",
+            "component": "UsersGrid",
+            "value": 3,
+            "link": "users"
           }
         ],
         "tabs_taxa": [
@@ -202,6 +214,12 @@
             "component": "ExploreData",
             "value": 2,
             "link": "explore-data"
+          },
+          {
+            "label": "Observers",
+            "component": "UsersGrid",
+            "value": 3,
+            "link": "users"
           }
         ],
         "tabs_taxa": [
@@ -269,6 +287,12 @@
             "component": "ExploreData",
             "value": 2,
             "link": "explore-data"
+          },
+          {
+            "label": "Observers",
+            "component": "UsersGrid",
+            "value": 3,
+            "link": "users"
           }
         ],
         "tabs_taxa": [
@@ -342,6 +366,12 @@
             "component": "ExploreData",
             "value": 2,
             "link": "explore-data"
+          },
+          {
+            "label": "Observers",
+            "component": "UsersGrid",
+            "value": 3,
+            "link": "users"
           }
         ],
         "tabs_taxa": [
@@ -452,6 +482,12 @@
             "component": "ExploreData",
             "value": 3,
             "link": "explore-data"
+          },
+          {
+            "label": "Observers",
+            "component": "UsersGrid",
+            "value": 4,
+            "link": "users"
           }
         ],
         "tabs_taxa": [
