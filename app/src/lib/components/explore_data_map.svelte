@@ -30,7 +30,6 @@
   export let taxaHistory;
   export let country;
   export let mapCenter;
-  export let speciesCount;
   export let speciesDisplayCount;
   export let speciesList;
   export let project;
@@ -51,7 +50,6 @@
   let observationsSelected = [];
   let observationsOnMap = [];
   let observationsOnMapCount = 0;
-  let observationsSelectedCount = 0;
   let observationsDirty = false;
   let maxZoom = 0;
   let limitTaxaToSpecies = false
@@ -66,21 +64,17 @@
 
       // filter observations by timespans
       observationsSelected = getObservationsSelected(groupedObservations, timeSpanHistory);
-      observationsSelectedCount = countObservations(observationsSelected);
 
       // filter observations by map bounding box
       observationsOnMap = getObservationsOnMap(observationsSelected);
       observationsOnMapCount = countObservations(observationsOnMap);
 
       // species data
-      speciesCount = countSpecies(observationsSelected, limitTaxaToSpecies);
       speciesList = getSpecies(observationsOnMap, limitTaxaToSpecies);
       speciesDisplayCount = speciesList.length;
 
       dispatch('updateStats', {
-        observationsSelectedCount,
         observationsOnMapCount,
-        speciesCount,
         speciesDisplayCount,
         speciesList,
         observationsOnMap

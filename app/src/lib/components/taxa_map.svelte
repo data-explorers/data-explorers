@@ -21,7 +21,6 @@
     groupObservationsbyTime,
     getObservationsSelected,
     countObservations,
-    countSpecies,
     getSpecies,
     updateTimeSpans
   } from '$lib/dataUtils';
@@ -89,14 +88,12 @@
 
       // filter observations by timespans
       observationsSelected = getObservationsSelected(groupedObservations, timeSpanHistory);
-      observationsSelectedCount = countObservations(observationsSelected);
 
       // filter observations by map bounding box
       observationsOnMap = getObservationsOnMap(observationsSelected);
       observationsOnMapCount = countObservations(observationsOnMap);
 
       // species data
-      speciesCount = countSpecies(observationsSelected, limitTaxaToSpecies);
       speciesList = getSpecies(observationsOnMap, limitTaxaToSpecies);
       speciesDisplayCount = speciesList.length;
       showSpeciesListInput =
@@ -199,10 +196,8 @@
   let observationsSelected = [];
   let observationsOnMap = [];
   let observationsOnMapCount = 0;
-  let observationsSelectedCount = 0;
   let observationsDirty = false;
   let maxZoom = 0;
-  let speciesCount = 0;
   let speciesDisplayCount = 0;
   let showSpeciesList = false;
   let speciesList = [];
@@ -333,12 +328,8 @@
 <!-- stats -->
 <div class="w-full rounded-none border stats">
   <div class="stat place-items-center place-content-center">
-    <div class="stat-title">Observations</div>
-    <div class="stat-value">{observationsSelectedCount}</div>
-  </div>
-  <div class="stat place-items-center place-content-center">
     <div class="stat-title">
-      Observations on map
+      Observations
       {#if observationsOnMapCount >= clusterLimit}
         <span
           use:tooltip
@@ -352,11 +343,6 @@
   </div>
   <div class="stat place-items-center place-content-center">
     <div class="stat-title">Species</div>
-    <div class="stat-value">{speciesCount}</div>
-  </div>
-
-  <div class="stat place-items-center place-content-center">
-    <div class="stat-title">Species on map</div>
     <div class="stat-value">
       {speciesDisplayCount}
     </div>

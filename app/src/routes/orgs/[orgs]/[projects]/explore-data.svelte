@@ -684,12 +684,8 @@
       <!-- stats -->
       <div class="w-full rounded-none border stats">
         <div class="stat place-items-center place-content-center">
-          <div class="stat-title">Observations</div>
-          <div class="stat-value">{observationsSelectedCount}</div>
-        </div>
-        <div class="stat place-items-center place-content-center">
           <div class="stat-title">
-            Observations on map
+            Observations
             {#if observationsOnMapCount >= clusterLimit}
               <span
                 use:tooltip
@@ -701,13 +697,9 @@
           </div>
           <div class="stat-value">{observationsOnMapCount}</div>
         </div>
-        <div class="stat place-items-center place-content-center">
-          <div class="stat-title">Species</div>
-          <div class="stat-value">{speciesCount}</div>
-        </div>
 
         <div class="stat place-items-center place-content-center">
-          <div class="stat-title">Species on map</div>
+          <div class="stat-title">Species</div>
           <div class="stat-value">
             {speciesDisplayCount}
           </div>
