@@ -5,6 +5,11 @@
   import { base } from '$app/paths';
 
   export let observation;
+  export let projectPath;
+  export let showTaxaLink = true;
+
+  let taxaPath = `${projectPath}/taxa/${observation.taxon_id}`;
+  let observerPath = `${projectPath}/users/${observation.user_id}`;
 
   const dispatch = createEventDispatcher();
 </script>
@@ -25,8 +30,14 @@
       </ModalMagnify>
     </div>
     <div class="p-4">
-      <div>{@html formatTaxonDisplayName(observation, true)}</div>
-      <div>Observer: {observation.user_login}</div>
+      <div>
+        {#if showTaxaLink}
+          <a href={taxaPath}>{@html formatTaxonDisplayName(observation, true, false, true)}</a>
+        {:else}
+          {@html formatTaxonDisplayName(observation, true, false, true)}
+        {/if}
+      </div>
+      <div>Observer: <a href={observerPath}>{observation.user_login}</a></div>
       {#if observation.time_observed_at}
         <div>Date: {new Date(observation.time_observed_at).toLocaleDateString()}</div>
       {/if}

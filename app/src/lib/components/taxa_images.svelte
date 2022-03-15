@@ -9,6 +9,7 @@
   export let observations;
   export let projectPath;
   export let taxon;
+  export let showTaxaLink = true;
 
   $: observations = sortObservations(observations, orderByValue, timeSpanValue);
   $: observationsDisplay = observations.slice(0, page * limit);
@@ -110,7 +111,12 @@
   {#if Array.isArray(groupedObservations)}
     <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-3  items-end ">
       {#each groupedObservations as observation}
-        <TaxaImagesItem {observation} on:thumbnailClick={changeObservation} />
+        <TaxaImagesItem
+          {observation}
+          on:thumbnailClick={changeObservation}
+          {projectPath}
+          {showTaxaLink}
+        />
       {/each}
     </div>
   {:else}
@@ -120,7 +126,12 @@
       </h2>
       <div class="grid lg:grid-cols-4 md:grid-cols-3 gap-3  items-end ">
         {#each observations as observation}
-          <TaxaImagesItem {observation} />
+          <TaxaImagesItem
+            on:thumbnailClick={changeObservation}
+            {observation}
+            {projectPath}
+            {showTaxaLink}
+          />
         {/each}
       </div>
     {/each}
