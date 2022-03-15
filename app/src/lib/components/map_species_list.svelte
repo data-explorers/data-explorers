@@ -1,5 +1,4 @@
 <script>
-  import { speciesRanks } from '$lib/data/constants';
   export let showSpeciesList = false;
   export let speciesList = [];
 </script>
