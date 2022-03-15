@@ -129,6 +129,7 @@
     <h1>
       {@html formatTaxonDisplayName(taxon, true, true, true)}
     </h1>
+    <h2 class="subtitle">{pluralize('Observation', observations.length)}</h2>
 
     <div class="grid md:grid-cols-2 gap-3">
       <ObservationBasic
@@ -166,5 +167,13 @@
 https://stackoverflow.com/a/42562623 */
   * {
     overflow-anchor: none !important;
+  }
+
+  .prose h1 {
+    margin-bottom: 0;
+  }
+  h2.subtitle {
+    margin-top: 0.5rem;
+    font-weight: 400;
   }
 </style>
