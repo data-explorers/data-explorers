@@ -39,7 +39,7 @@
     });
     let taxa = Object.values(taxaObj).sort((a, b) => b.taxa_count - a.taxa_count);
 
-    return { props: { project, projectPath, user, observations, taxa } };
+    return { props: { project, projectPath, user, org, observations, taxa } };
   }
 </script>
 
@@ -50,14 +50,17 @@
   import Loader from '$lib/components/loader.svelte';
   import TaxaCardSide from '$lib/components/taxa_card_side.svelte';
   import { pluralize } from '$lib/formatUtils';
+  import ProjectHeader from '$lib/components/project_header.svelte';
 
   export let user;
   export let observations;
   export let projectPath;
   export let project;
   export let taxa;
+  export let org;
 
   let taxon = {};
+  let activeTab = 'users';
 
   // ===================
   // show one observation
@@ -113,6 +116,8 @@
     taxaDisplay = taxa.slice(0, page * limit);
   }
 </script>
+
+<ProjectHeader {org} {project} {activeTab} />
 
 <main class="container mx-auto">
   <div class="prose max-w-none">

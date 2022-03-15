@@ -8,18 +8,24 @@
     let project = org.projects.filter((project) => project.slug === 'los-angeles-bioblitz')[0];
     let projectPath = `${base}/orgs/${org.username}/${project.slug}`;
 
-    return { props: { projectPath } };
+    return { props: { projectPath, org, project } };
   }
 </script>
 
 <script>
   import allTaxa from '$lib/data/los-angeles-bioblitz/taxa.csv';
   import { pluralize } from '$lib/formatUtils';
+  import ProjectHeader from '$lib/components/project_header.svelte';
 
   export let projectPath;
+  export let org;
+  export let project;
 
   let taxa = allTaxa.filter((t) => !!t.taxon_group);
+  let activeTab = 'indicator-species';
 </script>
+
+<ProjectHeader {org} {project} {activeTab} />
 
 <main class="container mx-auto">
   <div class="prose max-w-none">

@@ -9,18 +9,23 @@
     let taxa = res.default;
     taxa = taxa.sort((a, b) => b.taxa_count - a.taxa_count);
 
-    return { props: { project, taxa, user } };
+    return { props: { project, taxa, org } };
   }
 </script>
 
 <script>
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
   import { base } from '$app/paths';
+  import ProjectHeader from '$lib/components/project_header.svelte';
 
   export let project;
   export let taxa;
-  export let user;
+  export let org;
+
+  let activeTab = 'taxa';
 </script>
+
+<ProjectHeader {org} {project} {activeTab} />
 
 <main class="container mx-auto">
   <div class="prose">

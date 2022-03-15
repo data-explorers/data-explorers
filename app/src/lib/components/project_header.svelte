@@ -1,17 +1,18 @@
 <script>
   export let project;
   export let org;
-  import { page } from '$app/stores';
+  export let activeTab;
   import { base } from '$app/paths';
 
-  let tabs = project.tabs_project.map((tab) => {
-    return {
-      label: tab.label,
-      value: tab.value,
-      slug: `${base}/orgs/${org.username}/${project.slug}/${tab.link}`,
-      link: tab.link.length > 0 ? tab.link : project.slug
-    };
-  });
+  let tabs = project.tabs_project
+    .sort((a, b) => a.value - b.value)
+    .map((tab) => {
+      return {
+        label: tab.label,
+        slug: `${base}/orgs/${org.username}/${project.slug}/${tab.link}`,
+        active: tab.link == activeTab
+      };
+    });
 
   let heroImage;
   if (project.image.startsWith('https://picsum')) {
@@ -32,13 +33,7 @@
 <div class="container mx-auto">
   <div class="tabs mt-4">
     {#each tabs as tab}
-      <a
-        class="tab tab-bordered"
-        class:tab-active={$page.url.pathname.split('/')[
-          $page.url.pathname.split('/').length - 1
-        ] === tab.link}
-        href={tab.slug}>{tab.label}</a
-      >
+      <a class="tab tab-bordered" class:tab-active={tab.active} href={tab.slug}>{tab.label}</a>
     {/each}
     <a class="hidden" href="{base}/orgs/{org.username}/{project.slug}/taxa-list">list</a>
   </div>

@@ -89,6 +89,7 @@
   import ClimateChart from '$lib/components/charts/climate_chart.svelte';
   import barChartGroupJson from '$lib/charts/bar_chart_group.json';
   import barChartJson from '$lib/charts/bar_chart.json';
+  import ProjectHeader from '$lib/components/project_header.svelte';
 
   export let project;
   export let org;
@@ -212,6 +213,7 @@
   let showEnvironment = true;
   let showClimate = false;
   let hasClimate = project.slug !== 'go-sea';
+  let activeTab = 'explore-data';
 
   projectObservations = projectObservations.filter((o) => o.latitude && o.longitude);
 
@@ -586,6 +588,9 @@
     mounted = true;
   });
 </script>
+
+<ProjectHeader {org} {project} {activeTab} />
+
 
 <div class="prose max-w-none">
   <h1 class="px-3">{currentTab.label}</h1>

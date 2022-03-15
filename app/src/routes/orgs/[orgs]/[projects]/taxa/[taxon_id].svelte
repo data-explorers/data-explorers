@@ -63,8 +63,10 @@
   import { toTitleCase } from '$lib/formatUtils';
   import ObservationBasic from '$lib/components/observation_basic.svelte';
   import { pluralize, formatTaxonDisplayName } from '$lib/formatUtils';
+  import ProjectHeader from '$lib/components/project_header.svelte';
 
   export let taxon;
+  export let org;
   export let project;
   export let observations;
   export let interactions;
@@ -94,6 +96,7 @@
     preferCanvas: true
   };
   let taxonIds = taxa.map((t) => t.taxon_id);
+  let activeTab = 'taxa';
 
   function changeObservation(e) {
     observationDisplay = observations.filter((o) => o.id === e.detail.observation_id)[0];
@@ -123,6 +126,8 @@
     Map = comp.default;
   });
 </script>
+
+<ProjectHeader {org} {project} {activeTab} />
 
 <main class="container mx-auto">
   <div class="prose max-w-none">

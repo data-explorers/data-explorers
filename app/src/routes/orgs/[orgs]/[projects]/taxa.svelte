@@ -27,7 +27,7 @@
       taxaText = aboutFile.default;
     }
 
-    return { props: { taxa, projectPath, taxaText } };
+    return { props: { taxa, projectPath, taxaText, project, org } };
   }
 </script>
 
@@ -37,10 +37,13 @@
   import TaxaGrid from '$lib/components/taxa_list_grid.svelte';
   import { ranksReverse, speciesRanks } from '$lib/data/constants';
   import { toTitleCase, pluralize } from '$lib/formatUtils';
+  import ProjectHeader from '$lib/components/project_header.svelte';
 
   export let taxa;
   export let projectPath;
   export let taxaText;
+  export let project;
+  export let org;
 
   $: {
     if (currentRank === 'species') {
@@ -54,10 +57,13 @@
     }
   }
 
+  let activeTab = 'taxa';
   let displayTaxa = [];
   let submenuOptions = ranksReverse;
   let currentRank = 'species';
 </script>
+
+<ProjectHeader {org} {project} {activeTab} />
 
 <main class="container mx-auto">
   <div class="prose max-w-none">

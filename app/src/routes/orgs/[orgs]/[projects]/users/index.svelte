@@ -11,27 +11,33 @@
     let users = res.default;
     users = users.sort((a, b) => b.observation_count - a.observation_count);
 
-    return { props: { users, projectPath } };
+    return { props: { users, projectPath, project, org } };
   }
 </script>
 
 <script>
   export let users;
   export let projectPath;
+  export let org;
+  export let project;
 
   import { pluralize } from '$lib/formatUtils';
+  import ProjectHeader from '$lib/components/project_header.svelte';
 
   $: usersDisplay = users.slice(0, page * limit);
   $: showLoadMore = page * limit < users.length;
 
   let page = 1;
   let limit = 50;
+  let activeTab = 'users';
 
   function loadMore() {
     page = page + 1;
     usersDisplay = users.slice(0, page * limit);
   }
 </script>
+
+<ProjectHeader {org} {project} {activeTab} />
 
 <main class="container mx-auto">
   <div class="prose">

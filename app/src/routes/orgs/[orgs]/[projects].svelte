@@ -11,17 +11,20 @@
       aboutText = aboutFile.default;
     }
 
-    return { props: { project, aboutText } };
+    return { props: { project, aboutText, org } };
   }
 </script>
 
 <script>
   import { onMount } from 'svelte';
   import SvelteMarkdown from 'svelte-markdown';
+  import ProjectHeader from '$lib/components/project_header.svelte';
 
   export let project;
   export let aboutText;
+  export let org;
 
+  let activeTab = '';
   let mapOptions = {
     latitude: project.latitude,
     longitude: project.longitude,
@@ -37,6 +40,8 @@
     Map = comp.default;
   });
 </script>
+
+<ProjectHeader {org} {project} {activeTab} />
 
 <main class="container mx-auto">
   <div class="prose max-w-none">
