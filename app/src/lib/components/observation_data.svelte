@@ -20,7 +20,9 @@
 </script>
 
 <div class:prose={compactLayout === false} class:p-4={!compactLayout}>
-  <h3 class:small={compactLayout}>{@html formatTaxonDisplayName(observation, true)}</h3>
+  <h3 class:small={compactLayout}>
+    {@html formatTaxonDisplayName(observation, true, false, true)}
+  </h3>
   <dl>
     {#if observation.user_login}
       <dt>Observer</dt>

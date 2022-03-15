@@ -62,6 +62,7 @@
   import Loader from '$lib/components/loader.svelte';
   import { toTitleCase } from '$lib/formatUtils';
   import ObservationBasic from '$lib/components/observation_basic.svelte';
+  import { pluralize, formatTaxonDisplayName } from '$lib/formatUtils';
 
   export let taxon;
   export let project;
@@ -126,10 +127,7 @@
 <main class="container mx-auto">
   <div class="prose max-w-none">
     <h1>
-      {#if taxon.common_name}{toTitleCase(taxon.common_name)}{/if}
-      {#if taxon.scientific_name}
-        <span class="text-2xl text-gray-400 font-normal">({taxon.scientific_name})</span>
-      {/if}
+      {@html formatTaxonDisplayName(taxon, true, true, true)}
     </h1>
 
     <div class="grid md:grid-cols-2 gap-3">

@@ -14,18 +14,27 @@
         <li>
           {#if taxonIds.includes(Number(taxon.target_taxon_id))}
             <a href="{projectPath}/taxa/{taxon.target_taxon_id}">
-              {formatTaxonDisplayName({
-                common_name: taxon.target_common_name,
-                scientific_name: taxon.target_scientific_name
-              })}</a
+              {formatTaxonDisplayName(
+                {
+                  common_name: taxon.target_common_name,
+                  scientific_name: taxon.target_scientific_name,
+                  rank: taxon.rank
+                },
+                false,
+                false,
+                false
+              )}</a
             >
           {:else}
             {@html formatTaxonDisplayName(
               {
                 common_name: taxon.target_common_name,
-                scientific_name: taxon.target_scientific_name
+                scientific_name: taxon.target_scientific_name,
+                rank: taxon.rank
               },
-              true
+              true,
+              false,
+              false
             )}
           {/if}
         </li>

@@ -86,7 +86,7 @@
         <span class="font-medium mt-2 inline-block">{observedSpecies.length} observed species</span>
         <ul class="observed-species">
           {#each observedSpecies as species}
-            <li>{@html formatTaxonDisplayName(species, true)}</li>
+            <li>{@html formatTaxonDisplayName(species, true, false, true)}</li>
           {/each}
         </ul>
       {/if}

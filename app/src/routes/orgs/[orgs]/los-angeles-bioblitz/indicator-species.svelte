@@ -39,7 +39,7 @@
 
             <div class="image-card-body">
               <div class="text-lg font-medium leading-normal">
-                {@html formatTaxonDisplayName(taxon, true)}
+                {@html formatTaxonDisplayName(taxon, true, false, true)}
               </div>
               <div>{pluralize('observation', taxon.observations_count)}</div>
               <div>{taxon.taxon_group}</div>

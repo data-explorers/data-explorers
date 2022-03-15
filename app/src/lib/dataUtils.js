@@ -221,10 +221,13 @@ export function getSpecies(observations, limitToSpecies = false) {
       if (limitToSpecies) {
         values = values.filter((o) => speciesRanks.includes(o.rank));
       }
-      values
-        .forEach((o) => {
-          uniqueTaxa[o.taxon_id] = { taxon_id: o.taxon_id, name: formatTaxonDisplayName(o, true), rank: o.rank };
-        });
+      values.forEach((o) => {
+        uniqueTaxa[o.taxon_id] = {
+          taxon_id: o.taxon_id,
+          name: formatTaxonDisplayName(o, true, false, true),
+          rank: o.rank
+        };
+      });
     });
     return Object.values(uniqueTaxa);
   }

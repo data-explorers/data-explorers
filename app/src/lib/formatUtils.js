@@ -1,11 +1,25 @@
-export function formatTaxonDisplayName(taxon, includeStyle) {
+export function formatTaxonDisplayName(
+  taxon,
+  includeStyle = false,
+  isHeading = false,
+  includeRank = false
+) {
   let fullName = [];
+  if (includeRank) {
+    fullName.push(`${taxon.rank}: `);
+  }
   if (taxon.common_name) {
     fullName.push(toTitleCase(taxon.common_name));
   }
   if (taxon.scientific_name) {
     if (includeStyle) {
-      fullName.push(`<span class="text-gray-400">(${taxon.scientific_name})</span>`);
+      if (isHeading) {
+        fullName.push(
+          `<span class="text-2xl text-gray-400 font-normal">(${taxon.scientific_name})</span>`
+        );
+      } else {
+        fullName.push(`<span class="text-gray-400">(${taxon.scientific_name})</span>`);
+      }
     } else {
       fullName.push(`(${taxon.scientific_name})`);
     }

@@ -8,12 +8,7 @@
   <span class="font-semibold inline-block mt-4 text-lg">{speciesList.length} species on map</span>
   <ul class="species-list">
     {#each speciesList as species}
-      <li>
-        {#if !speciesRanks.includes(species.rank)}
-        {species.rank}:
-        {/if}
-        {@html species.name}
-      </li>
+      <li>{@html species.name}</li>
     {/each}
   </ul>
 {/if}
