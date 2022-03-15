@@ -2,7 +2,7 @@
   import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
   import { getObservedSpecies } from '$lib/dataUtils';
   import { base } from '$app/paths';
-
+  import TaxaCardSide from '$lib/components/taxa_card_side.svelte';
   export let taxon;
   export let projectPath;
   export let taxa;
@@ -19,6 +19,8 @@
   let page = 1;
   let limit = 20;
 
+  let taxaPath = `${projectPath}/taxa`;
+
   function loadMore() {
     page = page + 1;
     observedSpeciesDisplay = observedSpecies.slice(0, page * limit);
@@ -29,26 +31,7 @@
   <h3>{observedSpecies.length} Observed species for {formatTaxonDisplayName(taxon)}</h3>
   <div class="grid md:grid-cols-2 sm:grid-cols-1 gap-2">
     {#each observedSpeciesDisplay as taxon}
-      <div class="image-card-side">
-        <a href="{projectPath}/taxa/{taxon.taxon_id}">
-          <figure>
-            {#if taxon.image_url}
-              <img
-                src={taxon.image_url.replace('medium', 'square')}
-                alt="photo of {formatTaxonDisplayName(taxon)}"
-              />
-            {:else}
-              <img src="{base}/images/missing-image.png" alt="" />
-            {/if}
-          </figure>
-        </a>
-        <a class="w-full" href="{projectPath}/taxa/{taxon.taxon_id}">
-          <div class="image-card-side-body">
-            {@html formatTaxonDisplayName(taxon, true)}<br />
-            {pluralize('observation', taxon.taxa_count)}
-          </div>
-        </a>
-      </div>
+      <TaxaCardSide {taxon} {taxaPath} />
     {/each}
   </div>
   <div class="grid justify-items-center mt-8">
