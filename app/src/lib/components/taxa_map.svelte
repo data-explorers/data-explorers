@@ -22,7 +22,8 @@
     getObservationsSelected,
     countObservations,
     getSpecies,
-    updateTimeSpans
+    updateTimeSpans,
+    getObservers
   } from '$lib/dataUtils';
   import { modulo } from '$lib/miscUtils';
   import { tooltip } from '$lib/tooltip.js';
@@ -45,7 +46,7 @@
   export let mapCenter;
   export let project;
   export let taxon;
-  export let limitTaxaToSpecies=false
+  export let limitTaxaToSpecies = false;
 
   // load and filter observations every time taxa changes
   $: {
@@ -96,6 +97,8 @@
       // species data
       speciesList = getSpecies(observationsOnMap, limitTaxaToSpecies);
       speciesDisplayCount = speciesList.length;
+      observersList = getObservers(observationsOnMap, limitTaxaToSpecies);
+      observersDisplayCount = observersList.length;
       showSpeciesListInput =
         speciesList.length > 1 ||
         (speciesList.length == 1 && speciesList[0]['taxon_id'] !== taxon.taxon_id);
@@ -199,8 +202,11 @@
   let observationsDirty = false;
   let maxZoom = 0;
   let speciesDisplayCount = 0;
+  let observersDisplayCount = 0;
+
   let showSpeciesList = false;
   let speciesList = [];
+  let observersList = [];
   let showSpeciesListInput = false;
   let syncMapAndCharts = false;
 
@@ -345,6 +351,12 @@
     <div class="stat-title">Species</div>
     <div class="stat-value">
       {speciesDisplayCount}
+    </div>
+  </div>
+  <div class="stat place-items-center place-content-center">
+    <div class="stat-title">Observers</div>
+    <div class="stat-value">
+      {observersDisplayCount}
     </div>
   </div>
 </div>

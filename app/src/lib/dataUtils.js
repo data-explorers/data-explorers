@@ -230,6 +230,34 @@ export function getSpecies(observations, limitToSpecies = false) {
   }
 }
 
+export function countObservers(observations, limitToSpecies = false) {
+  return getObservers(observations, limitToSpecies).length;
+}
+
+export function getObservers(observations, limitToSpecies = false) {
+  if (Array.isArray(observations)) {
+    let uniqueObservers = new Set();
+    if (limitToSpecies) {
+      observations = observations.filter((o) => speciesRanks.includes(o.rank));
+    }
+    observations.forEach((o) => {
+      uniqueObservers.add(o.user_login);
+    });
+    return [...uniqueObservers];
+  } else {
+    let uniqueObservers = new Set();
+    observations.forEach((values, key) => {
+      if (limitToSpecies) {
+        values = values.filter((o) => speciesRanks.includes(o.rank));
+      }
+      values.forEach((o) => {
+        uniqueObservers.add(o.user_login);
+      });
+    });
+    return [...uniqueObservers];
+  }
+}
+
 export function getObservationsSelected(groupedObservations, timeSpanHistory) {
   let observations;
 

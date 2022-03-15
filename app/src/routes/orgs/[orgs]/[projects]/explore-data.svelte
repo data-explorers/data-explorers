@@ -197,12 +197,11 @@
   let barChartSpec = JSON.parse(JSON.stringify(barChartJson));
   let barChartGroupSpec = JSON.parse(JSON.stringify(barChartGroupJson));
   let observationHighlight;
-  let observationsSelectedCount = 0;
   let observationsOnMapCount = 0;
   let clusterLimit = 1000;
-  let speciesCount = 0;
-  let speciesDisplayCount = 0;
+  let speciesOnMapCount = 0;
   let speciesList = [];
+  let observersOnMapCount = 0;
   let showSpeciesList = false;
   let mapCenter = {};
   let chartSelector = '#ed-chart';
@@ -555,10 +554,9 @@
 
   function updateStatsHandler(e) {
     observationsOnMapCount = e.detail.observationsOnMapCount;
-    observationsSelectedCount = e.detail.observationsSelectedCount;
-    speciesCount = e.detail.speciesCount;
-    speciesDisplayCount = e.detail.speciesDisplayCount;
+    speciesOnMapCount = e.detail.speciesOnMapCount;
     speciesList = e.detail.speciesList;
+    observersOnMapCount = e.detail.observersOnMapCount;
     let obs = e.detail.observationsOnMap;
 
     if (!Array.isArray(obs)) {
@@ -701,7 +699,13 @@
         <div class="stat place-items-center place-content-center">
           <div class="stat-title">Species</div>
           <div class="stat-value">
-            {speciesDisplayCount}
+            {speciesOnMapCount}
+          </div>
+        </div>
+        <div class="stat place-items-center place-content-center">
+          <div class="stat-title">Observers</div>
+          <div class="stat-value">
+            {observersOnMapCount}
           </div>
         </div>
       </div>

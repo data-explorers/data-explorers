@@ -15,7 +15,7 @@
   import {
     getObservationsSelected,
     countObservations,
-    countSpecies,
+    countObservers,
     getSpecies
   } from '$lib/dataUtils';
   import FitBoundsButton from '$lib/components/map_fit_bounds_button.svelte';
@@ -30,7 +30,8 @@
   export let taxaHistory;
   export let country;
   export let mapCenter;
-  export let speciesDisplayCount;
+  export let speciesOnMapCount;
+  export let observersOnMapCount;
   export let speciesList;
   export let project;
 
@@ -52,7 +53,7 @@
   let observationsOnMapCount = 0;
   let observationsDirty = false;
   let maxZoom = 0;
-  let limitTaxaToSpecies = false
+  let limitTaxaToSpecies = false;
 
   const dispatch = createEventDispatcher();
 
@@ -71,13 +72,15 @@
 
       // species data
       speciesList = getSpecies(observationsOnMap, limitTaxaToSpecies);
-      speciesDisplayCount = speciesList.length;
+      speciesOnMapCount = speciesList.length;
+      observersOnMapCount = countObservers(observationsOnMap, limitTaxaToSpecies);
 
       dispatch('updateStats', {
         observationsOnMapCount,
-        speciesDisplayCount,
+        speciesOnMapCount,
         speciesList,
-        observationsOnMap
+        observationsOnMap,
+        observersOnMapCount
       });
 
       observationsDirty = false;
