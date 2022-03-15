@@ -4,7 +4,6 @@
   import { fade } from 'svelte/transition';
   import { getObservedSpecies } from '$lib/dataUtils';
   import { formatTaxonDisplayName } from '$lib/formatUtils';
-  import Ellipse from '$lib/components/icons/ellipse.svelte';
   import { base } from '$app/paths';
 
   export let taxon;

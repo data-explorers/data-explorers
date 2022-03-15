@@ -1,7 +1,6 @@
 <script>
-  import { formatTaxonDisplayName, pluralize } from '$lib/formatUtils';
+  import { formatTaxonDisplayName } from '$lib/formatUtils';
   import { getObservedSpecies } from '$lib/dataUtils';
-  import { base } from '$app/paths';
   import TaxaCardSide from '$lib/components/taxa_card_side.svelte';
   export let taxon;
   export let projectPath;

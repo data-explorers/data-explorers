@@ -3,7 +3,7 @@ import adapter from '@sveltejs/adapter-static';
 import dsv from '@rollup/plugin-dsv';
 import { string } from 'rollup-plugin-string';
 import geojson from 'rollup-plugin-geojson';
-import json from "@rollup/plugin-json"
+import json from '@rollup/plugin-json';
 
 const dev = process.env.NODE_ENV === 'development';
 
@@ -28,13 +28,13 @@ const config = {
       ],
       optimizeDeps: {
         include: [
-          "fast-deep-equal",
-          "clone",
-          "semver",
-          "json-stringify-pretty-compact",
-          "fast-json-stable-stringify",
-        ],
-      },
+          'fast-deep-equal',
+          'clone',
+          'semver',
+          'json-stringify-pretty-compact',
+          'fast-json-stable-stringify'
+        ]
+      }
     }
   },
   preprocess: [preprocess({})]
