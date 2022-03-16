@@ -90,6 +90,7 @@
   import barChartGroupJson from '$lib/charts/bar_chart_group.json';
   import barChartJson from '$lib/charts/bar_chart.json';
   import ProjectHeader from '$lib/components/project_header.svelte';
+  import { speciesRanks } from '$lib/data/constants';
 
   export let project;
   export let org;
@@ -101,8 +102,6 @@
   export let climateChartOptions;
 
   $: if (taxaHistory.length === 0) {
-    showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
-    showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
     timeSpanHistory = {};
     observationHighlight = null;
   }
@@ -188,8 +187,6 @@
   let observationsOnMap = [];
   let taxaHistory = []; // all searched taxa
   let timeSpanHistory = {}; // all the time spans
-  let showDemoSpeciesPrompt = project.slug !== 'los-angeles-bioblitz';
-  let showIndicatorSpeciesPrompt = project.slug === 'los-angeles-bioblitz';
   let showDemoMapLayer = false;
   let taxaCount = 0;
   let loading = false;
@@ -237,8 +234,6 @@
 
   function handleSelect(taxon) {
     if (!taxon || !taxon.label) return;
-    showDemoSpeciesPrompt = false;
-    showIndicatorSpeciesPrompt = false;
 
     // prevent adding same taxon twice
     if (taxaHistory.filter((t) => t.taxon_id == taxon.taxon_id).length > 0) {
@@ -261,33 +256,139 @@
   }
 
   // =====================
-  // process observations data
+  // taxa sets
   // =====================
+  let showTaxaSets = true;
 
-  function loadDemoSpecies() {
-    showDemoSpeciesPrompt = false;
+  let exploreDataTaxaSets = {
+    top_five_all: {
+      method: loadTopFiveSpecies,
+      label: 'Show 5 most observed species',
+      taxa_ids: [],
+      active: false
+    },
+    indicator_species: {
+      method: loadIndicatorSpecies,
+      label: 'Show indicator species',
+      taxa_ids: [],
+      active: false
+    },
+    top_five_mammals: {
+      method: loadTopFiveMammals,
+      label: 'Show 5 most observed mammals',
+      taxa_ids: [],
+      active: false
+    },
+    top_five_plants: {
+      method: loadTopFivePlants,
+      label: 'Show 5 most observed plants',
+      taxa_ids: [],
+      active: false
+    },
+    top_five_fungi: {
+      method: loadTopFiveFungi,
+      label: 'Show 5 most observed fungi',
+      taxa_ids: [],
+      active: false
+    }
+  };
 
-    taxa
-      .filter((t) => t.rank === 'species')
-      .sort((a, b) => b.taxa_count - a.taxa_count)
-      .slice(0, 5)
-      .forEach((taxon) => {
-        taxaCount += 1;
-        addObservationsForTaxon(taxon);
-      });
+  $: taxaSets = project.explore_data_taxa_sets.map((taxaSet) => exploreDataTaxaSets[taxaSet]);
+
+  function loadTopFiveSpecies() {
+    let selectedTaxa = taxa.filter((t) => speciesRanks.includes(t.rank));
+    loadTopFive('top_five_all', selectedTaxa);
+  }
+
+  function loadTopFiveMammals() {
+    let taxonId = '40151';
+    let selectedTaxa = taxa
+      .filter((t) => speciesRanks.includes(t.rank))
+      .filter((t) => t.taxon_ids.split('|').includes(taxonId));
+    loadTopFive('top_five_mammals', selectedTaxa);
+  }
+
+  function loadTopFivePlants() {
+    let taxonId = '47126';
+    let selectedTaxa = taxa
+      .filter((t) => speciesRanks.includes(t.rank))
+      .filter((t) => t.taxon_ids.split('|').includes(taxonId));
+    loadTopFive('top_five_plants', selectedTaxa);
+  }
+
+  function loadTopFiveFungi() {
+    let taxonId = '47170';
+    let selectedTaxa = taxa
+      .filter((t) => speciesRanks.includes(t.rank))
+      .filter((t) => t.taxon_ids.split('|').includes(taxonId));
+    loadTopFive('top_five_fungi', selectedTaxa);
+  }
+
+  function loadTopFive(taxaSet, selectedTaxa) {
+    // add taxa
+    if (exploreDataTaxaSets[taxaSet]['taxa_ids'].length == 0) {
+      // get top five taxa
+      selectedTaxa = selectedTaxa.sort((a, b) => b.taxa_count - a.taxa_count).slice(0, 5);
+      addTaxaForTaxaSet(taxaSet, selectedTaxa);
+      // remove taxa
+    } else {
+      removeTaxaForTaxaSet(taxaSet);
+    }
   }
 
   function loadIndicatorSpecies() {
-    showIndicatorSpeciesPrompt = false;
+    let taxaSet = 'indicator_species';
+    if (exploreDataTaxaSets[taxaSet]['taxa_ids'].length == 0) {
+      let selectedTaxa = taxa
+        .filter((t) => t.taxon_group && t.observations_count > 0)
+        .sort((a, b) => b.taxa_count - a.taxa_count);
 
-    taxa
-      .filter((t) => t.taxon_group && t.observations_count > 0)
-      .sort((a, b) => b.taxa_count - a.taxa_count)
+      addTaxaForTaxaSet(taxaSet, selectedTaxa);
+    } else {
+      removeTaxaForTaxaSet(taxaSet);
+    }
+  }
+
+  function addTaxaForTaxaSet(taxaSet, selectedTaxa) {
+    // keep track which taxa belongs to given set
+    selectedTaxa.forEach((t) => {
+      exploreDataTaxaSets[taxaSet]['taxa_ids'].push(t.taxon_id);
+    });
+
+    // add taxa only if it is not in taxaHistory
+    let selectedTaxaIds = taxaHistory.map((t) => t.taxon_id);
+    selectedTaxa
+      .filter((t) => !selectedTaxaIds.includes(t.taxon_id))
       .forEach((taxon) => {
         taxaCount += 1;
         addObservationsForTaxon(taxon);
       });
+
+    exploreDataTaxaSets[taxaSet]['active'] = true;
   }
+
+  function removeTaxaForTaxaSet(taxaSet) {
+    // keep track which taxa belongs to other taxa sets
+    let keepTaxonIds = [];
+    for (let mySet in exploreDataTaxaSets) {
+      if (mySet !== taxaSet) {
+        keepTaxonIds = keepTaxonIds.concat(exploreDataTaxaSets[mySet]['taxa_ids']);
+      }
+    }
+
+    // remove taxa that is only found in given set
+    exploreDataTaxaSets[taxaSet]['taxa_ids'].forEach((id) => {
+      if (!keepTaxonIds.includes(id)) {
+        removeTaxon({ target: { dataset: { taxonId: id } } });
+      }
+    });
+    exploreDataTaxaSets[taxaSet]['taxa_ids'] = [];
+    exploreDataTaxaSets[taxaSet]['active'] = false;
+  }
+
+  // =====================
+  // process observations data
+  // =====================
 
   function addObservationsForTaxon(taxon) {
     loading = true;
@@ -351,6 +452,9 @@
   // =====================
 
   function resetTaxa() {
+    showObservationHighlight = false;
+    observationHighlight = null;
+
     item = '';
     // all observations for searched taxa; not affected by taxa or time filters
     observations = {};
@@ -364,6 +468,12 @@
     observationsOnMap = [];
     taxaHistory = []; // all searched taxa
     timeSpanHistory = {}; // all the time spans
+
+    Object.keys(exploreDataTaxaSets).forEach((taxaSet) => {
+      exploreDataTaxaSets[taxaSet]['active'] = false;
+      exploreDataTaxaSets[taxaSet]['taxa_ids'] = [];
+    });
+
     logObservations('resetTaxa');
   }
 
@@ -591,7 +701,6 @@
 
 <ProjectHeader {org} {project} {activeTab} />
 
-
 <div class="prose max-w-none">
   <h1 class="px-3">{currentTab.label}</h1>
 
@@ -625,21 +734,30 @@
               <span class="btn btn-sm btn-outline mb-4 " on:click={resetTaxa}>Delete all</span>
             {/if}
 
-            {#if showDemoSpeciesPrompt}
-              <label transition:fade class="cursor-pointer block">
-                <input type="checkbox" class="mr-2" on:click={() => loadDemoSpecies()} />
-                <span>Show 5 most observed species</span>
-              </label>
-            {/if}
+            <div class="relative taxaset-container">
+              <ShowMore
+                showMore={true}
+                on:toggleShowMore={(e) => (showTaxaSets = e.detail.showMore)}
+              />
+              {#if showTaxaSets}
+                {#each taxaSets as taxonSet}
+                  <label transition:fade class="cursor-pointer block">
+                    <input
+                      type="checkbox"
+                      bind:checked={taxonSet.active}
+                      class="mr-2"
+                      on:click={taxonSet.method}
+                    />
+                    <span>{taxonSet.label}</span>
+                  </label>
+                {/each}
+              {/if}
+            </div>
 
-            {#if showIndicatorSpeciesPrompt}
-              <label transition:fade class="cursor-pointer block">
-                <input type="checkbox" class="mr-2" on:click={() => loadIndicatorSpecies()} />
-                <span>Show indicator species</span>
-              </label>
-            {/if}
-
-            <div transition:fade class="grid lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2">
+            <div
+              transition:fade
+              class="grid mt-4 lg:grid-cols-1 md:grid-cols-2 sm:grid-cols-1 gap-2"
+            >
               {#each taxaHistory as taxon (taxon.taxon_id)}
                 <TaxonFilter
                   {taxa}
@@ -887,5 +1005,8 @@ https://gitanswer.com/svelte-add-an-option-to-prevent-removal-of-unused-css-sele
     top: 0;
     right: 0;
     background: white;
+  }
+  .taxaset-container {
+    min-height: 1rem;
   }
 </style>
