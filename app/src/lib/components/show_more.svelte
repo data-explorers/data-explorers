@@ -8,6 +8,8 @@
   export let right = 0;
   export let border;
   export let position = 'absolute';
+  export let lessTitle = 'click to show less info';
+  export let moreTitle = 'click to show more info';
 
   const dispatch = createEventDispatcher();
 
@@ -25,7 +27,7 @@
       class:border-1={border}
       class:absolute={position == 'absolute'}
       style="top: {top}; right: {right}"
-      title="click to show less info"
+      title={lessTitle}
       use:tooltip
       on:click={handleClick}
     />
@@ -36,7 +38,7 @@
       class:border-1={border}
       class:absolute={position == 'absolute'}
       style="top: {top}; right: {right}"
-      title="click to show more info"
+      title={moreTitle}
       use:tooltip
       on:click={handleClick}
     />
@@ -48,7 +50,7 @@
     class:border-1={border}
     class:absolute={position == 'absolute'}
     style="top: {top}; right: {right}"
-    title="click to show less info"
+    title={lessTitle}
     use:tooltip
     on:click={handleClick}
   />
@@ -59,7 +61,7 @@
     class:border-1={border}
     class:absolute={position == 'absolute'}
     style="top: {top}; right: {right}"
-    title="click to show more info"
+    title={moreTitle}
     use:tooltip
     on:click={handleClick}
   />
