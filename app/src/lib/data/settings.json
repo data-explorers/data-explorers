@@ -32,25 +32,25 @@
           {
             "label": "About",
             "component": "AboutProject",
-            "value": 0,
+            "value": 1,
             "link": ""
           },
           {
             "label": "Indicator Species",
             "component": "TaxaGrid",
-            "value": 1,
+            "value": 3,
             "link": "indicator-species"
           },
           {
             "label": "Species",
             "component": "TaxaGrid",
-            "value": 2,
+            "value": 4,
             "link": "taxa"
           },
           {
             "label": "Explore Data",
             "component": "ExploreData",
-            "value": 3,
+            "value": 2,
             "link": "explore-data"
           },
           {
@@ -126,13 +126,13 @@
           {
             "label": "About",
             "component": "AboutProject",
-            "value": 0,
+            "value": 1,
             "link": ""
           },
           {
             "label": "Species",
             "component": "TaxaGrid",
-            "value": 1,
+            "value": 3,
             "link": "taxa"
           },
           {
@@ -144,7 +144,7 @@
           {
             "label": "Observers",
             "component": "UsersGrid",
-            "value": 3,
+            "value": 4,
             "link": "users"
           }
         ],
@@ -202,13 +202,13 @@
           {
             "label": "About",
             "component": "AboutProject",
-            "value": 0,
+            "value": 1,
             "link": ""
           },
           {
             "label": "Species",
             "component": "TaxaGrid",
-            "value": 1,
+            "value": 3,
             "link": "taxa"
           },
           {
@@ -220,7 +220,7 @@
           {
             "label": "Observers",
             "component": "UsersGrid",
-            "value": 3,
+            "value": 4,
             "link": "users"
           }
         ],
@@ -276,13 +276,13 @@
           {
             "label": "About",
             "component": "AboutProject",
-            "value": 0,
+            "value": 1,
             "link": ""
           },
           {
             "label": "Species",
             "component": "TaxaGrid",
-            "value": 1,
+            "value": 3,
             "link": "taxa"
           },
           {
@@ -294,7 +294,7 @@
           {
             "label": "Observers",
             "component": "UsersGrid",
-            "value": 3,
+            "value": 4,
             "link": "users"
           }
         ],
@@ -356,13 +356,13 @@
           {
             "label": "About",
             "component": "AboutProject",
-            "value": 0,
+            "value": 1,
             "link": ""
           },
           {
             "label": "Species",
             "component": "TaxaGrid",
-            "value": 1,
+            "value": 3,
             "link": "taxa"
           },
           {
@@ -374,7 +374,7 @@
           {
             "label": "Observers",
             "component": "UsersGrid",
-            "value": 3,
+            "value": 4,
             "link": "users"
           }
         ],
@@ -472,31 +472,31 @@
           {
             "label": "About",
             "component": "AboutProject",
-            "value": 0,
+            "value": 1,
             "link": ""
           },
           {
-            "label": "Field Guide Species",
+            "label": "Field Guides",
             "component": "TaxaGrid",
-            "value": 1,
-            "link": "field-guide-species"
+            "value": 3,
+            "link": "field-guides"
           },
           {
             "label": "Species",
             "component": "TaxaGrid",
-            "value": 2,
+            "value": 4,
             "link": "taxa"
           },
           {
             "label": "Explore Data",
             "component": "ExploreData",
-            "value": 3,
+            "value": 2,
             "link": "explore-data"
           },
           {
             "label": "Observers",
             "component": "UsersGrid",
-            "value": 4,
+            "value": 5,
             "link": "users"
           }
         ],
@@ -518,7 +518,10 @@
         "species_count": 714,
         "has_about_text": true,
         "has_taxa_text": false,
-        "explore_data_taxa_sets": ["top_five_all"]
+        "explore_data_taxa_sets": ["top_five_all"],
+        "field_guides": [
+          { "title": "GO-SEA Field Guide", "link": "gosea-global", "file": "gosea_global.csv" }
+        ]
       }
     ]
   }
