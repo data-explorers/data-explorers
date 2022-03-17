@@ -3,7 +3,6 @@ import adapter from '@sveltejs/adapter-static';
 import dsv from '@rollup/plugin-dsv';
 import { string } from 'rollup-plugin-string';
 import geojson from 'rollup-plugin-geojson';
-import json from '@rollup/plugin-json';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -18,7 +17,6 @@ const config = {
     vite: {
       plugins: [
         geojson(),
-        json(),
         dsv(),
         string({
           include: ['**/*.md']
