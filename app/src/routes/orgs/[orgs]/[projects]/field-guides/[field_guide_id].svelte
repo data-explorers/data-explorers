@@ -12,7 +12,7 @@
     let taxa = '';
     if (field_guide.file) {
       let fieldGuideFile = await import(
-        `../../../../../lib/data/${params.projects}/field-guides/${field_guide.file}`
+        `../../../../../lib/data/${params.projects}/field-guides/${field_guide.file}.csv`
       );
       taxa = fieldGuideFile.default;
     }

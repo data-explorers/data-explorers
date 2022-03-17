@@ -29,7 +29,7 @@
     if (hasClimateGraph) {
       climateChartOptions = project.graphs.filter((g) => g.type == 'temperature_precipation')[0];
       let dataFile = await import(
-        `../../../../lib/data/${params.projects}/${climateChartOptions.file}`
+        `../../../../lib/data/${params.projects}/${climateChartOptions.file}.csv`
       );
       climateChartData = dataFile.default;
     }
@@ -37,7 +37,7 @@
     if (project.map_layers) {
       project.map_layers.forEach(async (layer, index) => {
         project.map_layers[index]['data'] = await import(
-          `../../../../lib/data/${params.projects}/map_layers/${layer.file}`
+          `../../../../lib/data/${params.projects}/map_layers/${layer.file}.geojson`
         );
       });
     }

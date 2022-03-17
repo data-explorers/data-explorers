@@ -34,7 +34,7 @@
     if (project.map_layers) {
       project.map_layers.forEach(async (layer, index) => {
         project.map_layers[index]['data'] = await import(
-          `../../../../../lib/data/${params.projects}/map_layers/${layer.file}`
+          `../../../../../lib/data/${params.projects}/map_layers/${layer.file}.geojson`
         );
       });
     }

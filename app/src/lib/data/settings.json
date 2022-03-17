@@ -84,7 +84,7 @@
             "name": "City Boundary",
             "type": "geojson",
             "options": {},
-            "file": "City_Boundary.geojson"
+            "file": "City_Boundary"
           }
         ]
       }
@@ -407,7 +407,7 @@
             "name": "Native Plant Communities",
             "type": "geojson",
             "options": {},
-            "file": "NativePlantCommunities_CedarCreek.geojson",
+            "file": "NativePlantCommunities_CedarCreek",
             "popup_fields": [{ "name": "Type", "original_name": "ENAME_display" }],
             "opacity": 0.75,
             "fillOpacity": 0.75
@@ -416,7 +416,7 @@
             "name": "Soil Type",
             "type": "geojson",
             "options": {},
-            "file": "Soil_Types_CedarCreek.geojson",
+            "file": "Soil_Types_CedarCreek",
             "popup_fields": [{ "name": "Soil Type", "original_name": "SOILKEY" }],
             "opacity": 0.75,
             "fillOpacity": 0.75
@@ -425,7 +425,7 @@
         "graphs": [
           {
             "type": "temperature_precipation",
-            "file": "ClimateSummaryData.csv",
+            "file": "ClimateSummaryData",
             "mapping": {
               "Maximum Temperature (F)": "Max Temp (F)",
               "Minimum Temperature (F)": "Min Temp (F)",
@@ -520,7 +520,7 @@
         "has_taxa_text": false,
         "explore_data_taxa_sets": ["top_five_all"],
         "field_guides": [
-          { "title": "GO-SEA Field Guide", "link": "gosea-global", "file": "gosea_global.csv" }
+          { "title": "GO-SEA Field Guide", "link": "gosea-global", "file": "gosea_global" }
         ]
       }
     ]
