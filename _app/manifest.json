@@ -5019,7 +5019,7 @@
       "src/lib/components/taxa_map.svelte"
     ],
     "css": [
-      "assets/pages/orgs/_orgs_/_projects_/users/_user_id_/taxa/_taxon_id_.svelte-5bbd3deb.css"
+      "assets/pages/orgs/_orgs_/_projects_/users/_user_id_.svelte-dd05b5c5.css"
     ]
   },
   "src/routes/orgs/[orgs]/[projects]/users/[user_id].svelte": {
@@ -5055,7 +5055,7 @@
       "src/lib/components/taxa_map.svelte"
     ],
     "css": [
-      "assets/pages/orgs/_orgs_/_projects_/users/_user_id_/taxa/_taxon_id_.svelte-5bbd3deb.css"
+      "assets/pages/orgs/_orgs_/_projects_/users/_user_id_.svelte-dd05b5c5.css"
     ]
   },
   "src/routes/orgs/[orgs]/[projects]/taxa/[taxon_id].svelte": {
