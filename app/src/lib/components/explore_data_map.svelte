@@ -26,7 +26,6 @@
   // NOTE: groupedObservations are filtered by taxa and grouped by time spans
   export let groupedObservations;
   export let timeSpanHistory;
-  export let showDemoMapLayer;
   export let taxaHistory;
   export let country;
   export let mapCenter;
@@ -256,11 +255,6 @@
           />
         {/each}
       {/each}
-    {/if}
-    {#if showDemoMapLayer}
-      <Rectangle latLngBounds={demoPolygon} color="#777" fillColor="#777">
-        <Popup>Demo map layer</Popup>
-      </Rectangle>
     {/if}
     <FitBoundsButton {map} {coordinates} />
     <ToggleMarkerTypeButton

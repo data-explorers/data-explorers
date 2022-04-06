@@ -187,7 +187,6 @@
   let observationsOnMap = [];
   let taxaHistory = []; // all searched taxa
   let timeSpanHistory = {}; // all the time spans
-  let showDemoMapLayer = false;
   let taxaCount = 0;
   let loading = false;
   let inactiveOpacity = 0.25;
@@ -791,11 +790,6 @@
                 <span>Temperature and Preciptation</span>
               </label>
             {/if}
-
-            <label class="cursor-pointer block">
-              <input type="checkbox" bind:checked={showDemoMapLayer} />
-              <span>Demo map layer</span>
-            </label>
           </section>
         {/if}
       </div>
@@ -844,7 +838,6 @@
           {mapOptions}
           {groupedObservations}
           {timeSpanHistory}
-          {showDemoMapLayer}
           {taxaHistory}
           {mapCenter}
           {project}
