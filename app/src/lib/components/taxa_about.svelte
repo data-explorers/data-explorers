@@ -35,23 +35,6 @@
     excepteur laboris id.
   </p>
 
-  <h3>Native Status</h3>
-
-  {#if taxon.common_name}{taxon.common_name}{/if}
-  {#if taxon.scientific_name}
-    <span class="text-gray-400">({taxon.scientific_name})</span>
-  {/if}
-  is native / not native to {project.location}.
-
-  <h3>Habitat</h3>
-
-  <p>
-    Adipisicing aliquip culpa cupidatat nulla cupidatat exercitation exercitation exercitation culpa
-    Lorem magna enim sunt ad. Officia ex veniam dolore incididunt enim dolor. Deserunt magna elit
-    voluptate duis ex mollit deserunt duis cupidatat tempor sint. Velit ea ipsum est exercitation
-    excepteur laboris id.
-  </p>
-
   <svelte:component this={RangeMap} {taxon} {project} {observations} />
 
   <TaxaTaxonomy {taxon} {projectPath} {taxa} />
